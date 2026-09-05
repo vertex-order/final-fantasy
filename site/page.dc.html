@@ -243,10 +243,10 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                   <span onMouseEnter="{{ g.onAnchorHoverEnter }}" onMouseLeave="{{ g.onAnchorHoverLeave }}" style="color: var(--color-neutral-600); font-size: 12px; font-style: italic;"><sc-for list="{{ g.bylineParts }}" as="bp" hint-placeholder-count="0"><sc-if value="{{ bp.abbrTerm }}" hint-placeholder-val="{{ false }}"><abbr title="{{ bp.abbrDef }}" style="text-decoration: underline dotted; cursor: help;">{{ bp.abbrTerm }}</abbr></sc-if><sc-if value="{{ bp.text }}" hint-placeholder-val="{{ false }}">{{ bp.text }}</sc-if></sc-for></span>
                 </sc-if>
                 <sc-if value="{{ g.helpWanted }}" hint-placeholder-val="{{ false }}">
-                  <div style="margin-top: 2px;"><span style="font-size: 10px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.04em; text-align: center; color: var(--color-neutral-400); background: var(--color-neutral-800); border-radius: var(--radius-sm); padding: 2px 6px;">Help wanted</span></div>
+                  <dc-import name="StatusBadge" label="Help wanted" color="var(--color-neutral-400)" bg="var(--color-neutral-800)" hint-size="auto,20px" style="display: block;"></dc-import>
                 </sc-if>
                 <sc-if value="{{ g.upcoming }}" hint-placeholder-val="{{ false }}">
-                  <div style="margin-top: 2px;"><span style="font-size: 10px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.04em; text-align: center; color: var(--color-accent-300); background: var(--color-accent-800); border-radius: var(--radius-sm); padding: 2px 6px;">Upcoming</span></div>
+                  <dc-import name="StatusBadge" label="Upcoming" color="var(--color-accent-300)" bg="var(--color-accent-800)" hint-size="auto,20px" style="display: block;"></dc-import>
                 </sc-if>
                 <sc-if value="{{ g.emTermFirst }}" hint-placeholder-val="{{ false }}">
                   <div style="color: var(--color-neutral-500); font-size: 12px;">{{ g.emPre }}<em>{{ g.emTerm }}</em>{{ g.emPost }}<sc-if value="{{ g.emTerm2 }}" hint-placeholder-val="{{ false }}"><em>{{ g.emTerm2 }}</em>{{ g.emPost2 }}</sc-if></div>
@@ -358,7 +358,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                       </div>
                     </sc-if>
                     <sc-if value="{{ ex.helpWanted }}" hint-placeholder-val="{{ false }}">
-                      <div style="margin-top: 2px;"><span style="font-size: 10px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.04em; text-align: center; color: var(--color-neutral-400); background: var(--color-neutral-800); border-radius: var(--radius-sm); padding: 2px 6px;">Help wanted</span></div>
+                      <dc-import name="StatusBadge" label="Help wanted" color="var(--color-neutral-400)" bg="var(--color-neutral-800)" hint-size="auto,20px" style="display: block;"></dc-import>
                     </sc-if>
                     <sc-if value="{{ ex.abbrTerm }}" hint-placeholder-val="{{ false }}">
                       <div style="display: flex; align-items: flex-start; gap: var(--space-2); margin-top: 2px;">
@@ -429,7 +429,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                     <div onMouseEnter="{{ g.alt.onAnchorHoverEnter }}" onMouseLeave="{{ g.alt.onAnchorHoverLeave }}" style="color: var(--color-neutral-600); font-size: 12px; font-style: italic; margin-top: 1px;">{{ g.alt.byline }} <a href="{{ g.alt.anchorHref }}" onClick="{{ g.alt.onAnchorClick }}" title="Link to this entry" style="color: var(--color-neutral-500); text-decoration: none; opacity: {{ g.alt.pilcrowOpacity }}; transition: opacity .15s;">¶</a></div>
                   </sc-if>
                   <sc-if value="{{ g.alt.helpWanted }}" hint-placeholder-val="{{ false }}">
-                    <div style="margin-top: 2px;"><span style="font-size: 10px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.04em; text-align: center; color: var(--color-neutral-400); background: var(--color-neutral-800); border-radius: var(--radius-sm); padding: 2px 6px;">Help wanted</span></div>
+                    <dc-import name="StatusBadge" label="Help wanted" color="var(--color-neutral-400)" bg="var(--color-neutral-800)" hint-size="auto,20px" style="display: block;"></dc-import>
                   </sc-if>
                   <sc-if value="{{ g.alt.description }}" hint-placeholder-val="{{ false }}">
                     <div style="color: var(--color-neutral-500); font-size: 12px; margin-top: 2px;">{{ g.alt.description }}</div>
@@ -576,7 +576,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                       </div>
                     </sc-if>
                     <sc-if value="{{ ex.helpWanted }}" hint-placeholder-val="{{ false }}">
-                      <div style="margin-top: 2px;"><span style="font-size: 10px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.04em; text-align: center; color: var(--color-neutral-400); background: var(--color-neutral-800); border-radius: var(--radius-sm); padding: 2px 6px;">Help wanted</span></div>
+                      <dc-import name="StatusBadge" label="Help wanted" color="var(--color-neutral-400)" bg="var(--color-neutral-800)" hint-size="auto,20px" style="display: block;"></dc-import>
                     </sc-if>
                     <sc-if value="{{ ex.abbrTerm }}" hint-placeholder-val="{{ false }}">
                       <div style="display: flex; align-items: flex-start; gap: var(--space-2); margin-top: 2px;">
