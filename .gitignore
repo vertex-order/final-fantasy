@@ -1,0 +1,7 @@
+# .gitignore (Git — Ignore List)
+
+# scratch space for fresh Claude Design exports before extracting into site/
+_reference/
+
+# workflow build output (generated in CI, never committed)
+build/
