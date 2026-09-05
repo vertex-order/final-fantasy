@@ -288,42 +288,10 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
               </div>
               <div style="width: 140px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 8px;">
                 <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
-                <sc-if value="{{ g.rating }}" hint-placeholder-val="{{ false }}">
-                  <span style="display: flex; flex-direction: column; gap: 1px;">
-                    <span style="color: var(--color-neutral-500);">Rating</span>
-                    <sc-if value="{{ g.rating.textOnly }}" hint-placeholder-val="{{ false }}">
-                      <sc-if value="{{ g.rating.score }}" hint-placeholder-val="{{ false }}">
-                        <span>{{ g.rating.score }}</span>
-                      </sc-if>
-                      <sc-if value="{{ g.rating.abbrTermLinked }}" hint-placeholder-val="{{ false }}">
-                        <span><a href="{{ g.rating.url }}" target="_blank" rel="noopener"><abbr title="{{ g.rating.abbrDef }}" style="text-decoration: underline dotted; cursor: help;">{{ g.rating.abbrTerm }}</abbr></a></span>
-                      </sc-if>
-                      <sc-if value="{{ g.rating.abbrTermPlain }}" hint-placeholder-val="{{ false }}">
-                        <span><abbr title="{{ g.rating.abbrDef }}" style="text-decoration: underline dotted; cursor: help;">{{ g.rating.abbrTerm }}</abbr></span>
-                      </sc-if>
-                    </sc-if>
-                    <sc-if value="{{ g.rating.single }}" hint-placeholder-val="{{ false }}">
-                      <span><a href="{{ g.rating.url }}" target="_blank" rel="noopener" title="{{ g.rating.sourceLabel }}">{{ g.rating.score }}</a><sc-if value="{{ g.rating.midScore }}" hint-placeholder-val="{{ false }}"> / <a href="{{ g.rating.midUrl }}" target="_blank" rel="noopener" title="{{ g.rating.midLabelText }}">{{ g.rating.midScore }}</a></sc-if></span>
-                    </sc-if>
-                    <sc-if value="{{ g.rating.sourceUrl }}" hint-placeholder-val="{{ false }}">
-                      <span><a href="{{ g.rating.url }}" target="_blank" rel="noopener" title="{{ g.rating.scoreLabelText }}">{{ g.rating.score }}</a><sc-if value="{{ g.rating.midScore }}" hint-placeholder-val="{{ false }}"> / <a href="{{ g.rating.midUrl }}" target="_blank" rel="noopener" title="{{ g.rating.midLabelText }}">{{ g.rating.midScore }}</a></sc-if> / <a href="{{ g.rating.sourceUrl }}" target="_blank" rel="noopener" title="{{ g.rating.sourceLabel }}">{{ g.rating.source }}</a></span>
-                    </sc-if>
-                  </span>
-                </sc-if>
+                <dc-import name="RatingDisplay" rating="{{ g.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
                 </sc-if>
                 <sc-if value="{{ showLength }}" hint-placeholder-val="{{ true }}">
-                <sc-if value="{{ g.length }}" hint-placeholder-val="{{ false }}">
-                  <span style="display: flex; flex-direction: column; gap: 1px;">
-                    <span style="color: var(--color-neutral-500);">Length</span>
-                    <span>{{ g.length }}</span>
-                  </span>
-                </sc-if>
-                <sc-if value="{{ g.lengthParts }}" hint-placeholder-val="{{ false }}">
-                  <span style="display: flex; flex-direction: column; gap: 1px;">
-                    <span style="color: var(--color-neutral-500);">Length</span>
-                    <span><sc-for list="{{ g.lengthParts }}" as="lp" hint-placeholder-count="3"><sc-if value="{{ lp.label }}" hint-placeholder-val="{{ false }}">{{ lp.label }}</sc-if><abbr title="{{ lp.tip }}" style="text-decoration: none; cursor: help;">{{ lp.value }}</abbr><sc-if value="{{ lp.sep }}" hint-placeholder-val="{{ false }}">{{ lp.sepChar }}</sc-if><sc-if value="{{ lp.br }}" hint-placeholder-val="{{ false }}"><br></sc-if></sc-for></span>
-                  </span>
-                </sc-if>
+                <dc-import name="LengthDisplay" value="{{ g.length }}" parts="{{ g.lengthParts }}" hint-size="auto,32px" style="display: block;"></dc-import>
                 </sc-if>
               </div>
               <div style="width: 160px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 1px; padding-bottom: var(--space-3);">
@@ -427,34 +395,10 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                   </div>
                   <div style="width: 140px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 8px;">
                     <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
-                    <sc-if value="{{ ex.rating }}" hint-placeholder-val="{{ false }}">
-                      <span style="display: flex; flex-direction: column; gap: 1px;">
-                        <span style="color: var(--color-neutral-500);">Rating</span>
-                        <sc-if value="{{ ex.rating.textOnly }}" hint-placeholder-val="{{ false }}">
-                          <span>{{ ex.rating.score }}</span>
-                        </sc-if>
-                        <sc-if value="{{ ex.rating.single }}" hint-placeholder-val="{{ false }}">
-                          <span><a href="{{ ex.rating.url }}" target="_blank" rel="noopener" title="{{ ex.rating.sourceLabel }}">{{ ex.rating.score }}</a><sc-if value="{{ ex.rating.midScore }}" hint-placeholder-val="{{ false }}"> / <a href="{{ ex.rating.midUrl }}" target="_blank" rel="noopener" title="{{ ex.rating.midLabelText }}">{{ ex.rating.midScore }}</a></sc-if></span>
-                        </sc-if>
-                        <sc-if value="{{ ex.rating.sourceUrl }}" hint-placeholder-val="{{ false }}">
-                          <span><a href="{{ ex.rating.url }}" target="_blank" rel="noopener" title="{{ ex.rating.scoreLabelText }}">{{ ex.rating.score }}</a><sc-if value="{{ ex.rating.midScore }}" hint-placeholder-val="{{ false }}"> / <a href="{{ ex.rating.midUrl }}" target="_blank" rel="noopener" title="{{ ex.rating.midLabelText }}">{{ ex.rating.midScore }}</a></sc-if> / <a href="{{ ex.rating.sourceUrl }}" target="_blank" rel="noopener" title="{{ ex.rating.sourceLabel }}">{{ ex.rating.source }}</a></span>
-                        </sc-if>
-                      </span>
-                    </sc-if>
+                    <dc-import name="RatingDisplay" rating="{{ ex.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
                     </sc-if>
                     <sc-if value="{{ showLength }}" hint-placeholder-val="{{ true }}">
-                    <sc-if value="{{ ex.length }}" hint-placeholder-val="{{ false }}">
-                      <span style="display: flex; flex-direction: column; gap: 1px;">
-                        <span style="color: var(--color-neutral-500);">Length</span>
-                        <span>{{ ex.length }}</span>
-                      </span>
-                    </sc-if>
-                    <sc-if value="{{ ex.lengthParts }}" hint-placeholder-val="{{ false }}">
-                      <span style="display: flex; flex-direction: column; gap: 1px;">
-                        <span style="color: var(--color-neutral-500);">Length</span>
-                        <span><sc-for list="{{ ex.lengthParts }}" as="lp" hint-placeholder-count="3"><sc-if value="{{ lp.label }}" hint-placeholder-val="{{ false }}">{{ lp.label }}</sc-if><abbr title="{{ lp.tip }}" style="text-decoration: none; cursor: help;">{{ lp.value }}</abbr><sc-if value="{{ lp.sep }}" hint-placeholder-val="{{ false }}">{{ lp.sepChar }}</sc-if><sc-if value="{{ lp.br }}" hint-placeholder-val="{{ false }}"><br></sc-if></sc-for></span>
-                      </span>
-                    </sc-if>
+                    <dc-import name="LengthDisplay" value="{{ ex.length }}" parts="{{ ex.lengthParts }}" hint-size="auto,32px" style="display: block;"></dc-import>
                     </sc-if>
                   </div>
                   <div style="width: 160px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 1px; padding-bottom: var(--space-3);">
@@ -522,28 +466,10 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                 </div>
                 <div style="width: 140px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 8px;">
                   <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
-                  <sc-if value="{{ g.alt.rating }}" hint-placeholder-val="{{ false }}">
-                    <span style="display: flex; flex-direction: column; gap: 1px;">
-                      <span style="color: var(--color-neutral-500);">Rating</span>
-                      <sc-if value="{{ g.alt.rating.textOnly }}" hint-placeholder-val="{{ false }}">
-                        <span>{{ g.alt.rating.score }}</span>
-                      </sc-if>
-                      <sc-if value="{{ g.alt.rating.single }}" hint-placeholder-val="{{ false }}">
-                        <span><a href="{{ g.alt.rating.url }}" target="_blank" rel="noopener" title="{{ g.alt.rating.sourceLabel }}">{{ g.alt.rating.score }}</a><sc-if value="{{ g.alt.rating.midScore }}" hint-placeholder-val="{{ false }}"> / <a href="{{ g.alt.rating.midUrl }}" target="_blank" rel="noopener" title="{{ g.alt.rating.midLabelText }}">{{ g.alt.rating.midScore }}</a></sc-if></span>
-                      </sc-if>
-                      <sc-if value="{{ g.alt.rating.sourceUrl }}" hint-placeholder-val="{{ false }}">
-                        <span><a href="{{ g.alt.rating.url }}" target="_blank" rel="noopener" title="{{ g.alt.rating.scoreLabelText }}">{{ g.alt.rating.score }}</a><sc-if value="{{ g.alt.rating.midScore }}" hint-placeholder-val="{{ false }}"> / <a href="{{ g.alt.rating.midUrl }}" target="_blank" rel="noopener" title="{{ g.alt.rating.midLabelText }}">{{ g.alt.rating.midScore }}</a></sc-if> / <a href="{{ g.alt.rating.sourceUrl }}" target="_blank" rel="noopener" title="{{ g.alt.rating.sourceLabel }}">{{ g.alt.rating.source }}</a></span>
-                      </sc-if>
-                    </span>
-                  </sc-if>
+                  <dc-import name="RatingDisplay" rating="{{ g.alt.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
                   </sc-if>
                   <sc-if value="{{ showLength }}" hint-placeholder-val="{{ true }}">
-                  <sc-if value="{{ g.alt.length }}" hint-placeholder-val="{{ false }}">
-                    <span style="display: flex; flex-direction: column; gap: 1px;">
-                      <span style="color: var(--color-neutral-500);">Length</span>
-                      <span>{{ g.alt.length }}</span>
-                    </span>
-                  </sc-if>
+                  <dc-import name="LengthDisplay" value="{{ g.alt.length }}" parts="{{ g.alt.lengthParts }}" hint-size="auto,32px" style="display: block;"></dc-import>
                   </sc-if>
                 </div>
                 <div style="width: 160px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 1px; padding-bottom: var(--space-3);">
@@ -616,34 +542,10 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                 </div>
                 <div style="width: 140px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 8px;">
                   <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
-                  <sc-if value="{{ alt.rating }}" hint-placeholder-val="{{ false }}">
-                    <span style="display: flex; flex-direction: column; gap: 1px;">
-                      <span style="color: var(--color-neutral-500);">Rating</span>
-                      <sc-if value="{{ alt.rating.textOnly }}" hint-placeholder-val="{{ false }}">
-                        <span>{{ alt.rating.score }}</span>
-                      </sc-if>
-                      <sc-if value="{{ alt.rating.single }}" hint-placeholder-val="{{ false }}">
-                        <span><a href="{{ alt.rating.url }}" target="_blank" rel="noopener" title="{{ alt.rating.sourceLabel }}">{{ alt.rating.score }}</a><sc-if value="{{ alt.rating.midScore }}" hint-placeholder-val="{{ false }}"> / <a href="{{ alt.rating.midUrl }}" target="_blank" rel="noopener" title="{{ alt.rating.midLabelText }}">{{ alt.rating.midScore }}</a></sc-if></span>
-                      </sc-if>
-                      <sc-if value="{{ alt.rating.sourceUrl }}" hint-placeholder-val="{{ false }}">
-                        <span><a href="{{ alt.rating.url }}" target="_blank" rel="noopener" title="{{ alt.rating.scoreLabelText }}">{{ alt.rating.score }}</a><sc-if value="{{ alt.rating.midScore }}" hint-placeholder-val="{{ false }}"> / <a href="{{ alt.rating.midUrl }}" target="_blank" rel="noopener" title="{{ alt.rating.midLabelText }}">{{ alt.rating.midScore }}</a></sc-if> / <a href="{{ alt.rating.sourceUrl }}" target="_blank" rel="noopener" title="{{ alt.rating.sourceLabel }}">{{ alt.rating.source }}</a></span>
-                      </sc-if>
-                    </span>
-                  </sc-if>
+                  <dc-import name="RatingDisplay" rating="{{ alt.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
                   </sc-if>
                   <sc-if value="{{ showLength }}" hint-placeholder-val="{{ true }}">
-                  <sc-if value="{{ alt.length }}" hint-placeholder-val="{{ false }}">
-                    <span style="display: flex; flex-direction: column; gap: 1px;">
-                      <span style="color: var(--color-neutral-500);">Length</span>
-                      <span>{{ alt.length }}</span>
-                    </span>
-                  </sc-if>
-                  <sc-if value="{{ alt.lengthParts }}" hint-placeholder-val="{{ false }}">
-                    <span style="display: flex; flex-direction: column; gap: 1px;">
-                      <span style="color: var(--color-neutral-500);">Length</span>
-                      <span><sc-for list="{{ alt.lengthParts }}" as="lp" hint-placeholder-count="3"><sc-if value="{{ lp.label }}" hint-placeholder-val="{{ false }}">{{ lp.label }}</sc-if><abbr title="{{ lp.tip }}" style="text-decoration: none; cursor: help;">{{ lp.value }}</abbr><sc-if value="{{ lp.sep }}" hint-placeholder-val="{{ false }}">{{ lp.sepChar }}</sc-if><sc-if value="{{ lp.br }}" hint-placeholder-val="{{ false }}"><br></sc-if></sc-for></span>
-                    </span>
-                  </sc-if>
+                  <dc-import name="LengthDisplay" value="{{ alt.length }}" parts="{{ alt.lengthParts }}" hint-size="auto,32px" style="display: block;"></dc-import>
                   </sc-if>
                 </div>
                 <div style="width: 160px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 1px; padding-bottom: var(--space-3);">
@@ -729,34 +631,10 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                   </div>
                   <div style="width: 140px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 8px;">
                     <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
-                    <sc-if value="{{ ex.rating }}" hint-placeholder-val="{{ false }}">
-                      <span style="display: flex; flex-direction: column; gap: 1px;">
-                        <span style="color: var(--color-neutral-500);">Rating</span>
-                        <sc-if value="{{ ex.rating.textOnly }}" hint-placeholder-val="{{ false }}">
-                          <span>{{ ex.rating.score }}</span>
-                        </sc-if>
-                        <sc-if value="{{ ex.rating.single }}" hint-placeholder-val="{{ false }}">
-                          <span><a href="{{ ex.rating.url }}" target="_blank" rel="noopener" title="{{ ex.rating.sourceLabel }}">{{ ex.rating.score }}</a><sc-if value="{{ ex.rating.midScore }}" hint-placeholder-val="{{ false }}"> / <a href="{{ ex.rating.midUrl }}" target="_blank" rel="noopener" title="{{ ex.rating.midLabelText }}">{{ ex.rating.midScore }}</a></sc-if></span>
-                        </sc-if>
-                        <sc-if value="{{ ex.rating.sourceUrl }}" hint-placeholder-val="{{ false }}">
-                          <span><a href="{{ ex.rating.url }}" target="_blank" rel="noopener" title="{{ ex.rating.scoreLabelText }}">{{ ex.rating.score }}</a><sc-if value="{{ ex.rating.midScore }}" hint-placeholder-val="{{ false }}"> / <a href="{{ ex.rating.midUrl }}" target="_blank" rel="noopener" title="{{ ex.rating.midLabelText }}">{{ ex.rating.midScore }}</a></sc-if> / <a href="{{ ex.rating.sourceUrl }}" target="_blank" rel="noopener" title="{{ ex.rating.sourceLabel }}">{{ ex.rating.source }}</a></span>
-                        </sc-if>
-                      </span>
-                    </sc-if>
+                    <dc-import name="RatingDisplay" rating="{{ ex.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
                     </sc-if>
                     <sc-if value="{{ showLength }}" hint-placeholder-val="{{ true }}">
-                    <sc-if value="{{ ex.length }}" hint-placeholder-val="{{ false }}">
-                      <span style="display: flex; flex-direction: column; gap: 1px;">
-                        <span style="color: var(--color-neutral-500);">Length</span>
-                        <span>{{ ex.length }}</span>
-                      </span>
-                    </sc-if>
-                    <sc-if value="{{ ex.lengthParts }}" hint-placeholder-val="{{ false }}">
-                      <span style="display: flex; flex-direction: column; gap: 1px;">
-                        <span style="color: var(--color-neutral-500);">Length</span>
-                        <span><sc-for list="{{ ex.lengthParts }}" as="lp" hint-placeholder-count="3"><sc-if value="{{ lp.label }}" hint-placeholder-val="{{ false }}">{{ lp.label }}</sc-if><abbr title="{{ lp.tip }}" style="text-decoration: none; cursor: help;">{{ lp.value }}</abbr><sc-if value="{{ lp.sep }}" hint-placeholder-val="{{ false }}">{{ lp.sepChar }}</sc-if><sc-if value="{{ lp.br }}" hint-placeholder-val="{{ false }}"><br></sc-if></sc-for></span>
-                      </span>
-                    </sc-if>
+                    <dc-import name="LengthDisplay" value="{{ ex.length }}" parts="{{ ex.lengthParts }}" hint-size="auto,32px" style="display: block;"></dc-import>
                     </sc-if>
                   </div>
                   <div style="width: 160px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 1px; padding-bottom: var(--space-3);">
