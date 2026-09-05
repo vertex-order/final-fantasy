@@ -17,7 +17,8 @@ serve: build
 clean:
     rm -rf build
 
-# One-time per clone: wire up repo git hooks (strips C2PA metadata from images pre-commit).
+# One-time per clone: wire up repo git hooks (pre-commit strips C2PA metadata from
+# images and regenerates site/components.js when a sibling component changes).
 install-hooks:
     git config core.hooksPath .githooks
 

@@ -5,7 +5,8 @@ which:
 
 1. Checks out the repo.
 2. Installs [`just`](https://github.com/casey/just) and runs `just build`,
-   which copies `site/` into a gitignored `build/` folder and renames
+   which regenerates `site/components.js` (`bundle-components`), copies
+   `site/` into a gitignored `build/` folder, and renames
    `build/page.dc.html` to `build/index.html` (GitHub Pages needs an
    `index.html` at the root — every other path in the file is already
    relative, so nothing else changes). Same recipe you can run locally.
@@ -13,7 +14,7 @@ which:
 
 That's the entire build: no bundler, no dependencies, no manual "export"
 step. Merging a PR to `main` is the deploy. See the `justfile` at the repo
-root for the `build`/`serve`/`clean` recipes.
+root for the `build`/`bundle-components`/`serve`/`clean` recipes.
 
 ## Verifying a deploy
 

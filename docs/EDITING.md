@@ -8,9 +8,15 @@ edit, preview, and open a PR.
 
 ```
 site/
-├── page.dc.html   ← content + logic (edit this for copy and game data)
+├── page.dc.html   ← page shell + render/logic layer (rarely touched for content)
+├── data/
+│   ├── index.js         ← SERIES_ORDER (which series show, in what order) + loader
+│   └── series-*.js      ← one file per series: all its game entries (edit these)
+├── *.dc.html      ← sibling render components: EntryTitleLinks, PlatformIcon,
+│                     LanguageTag, LengthDisplay, RatingDisplay
+├── components.js  ← AUTO-GENERATED (inlines the *.dc.html above); don't hand-edit
 ├── support.js     ← vendored runtime, don't hand-edit
-├── images/platforms/  ← platform/content icons referenced by page.dc.html
+├── images/platforms/  ← platform/content icons referenced by the data files
 └── _ds/nocturne-.../
     ├── styles.css           ← design tokens + component classes (safe to edit)
     ├── _ds_bundle.js        ← vendored design-system runtime, don't hand-edit
@@ -18,24 +24,36 @@ site/
     └── readme.md            ← design system usage guide, read before restyling
 ```
 
-`page.dc.html` is the exact format Claude Design uploads/exports — that's
-just a naming convention, not a requirement to own the tool. It's readable
-HTML with `{{ expression }}` template bindings, evaluated at runtime by
-`support.js`.
+`page.dc.html` and the sibling `*.dc.html` components are the exact format
+Claude Design uploads/exports — that's just a naming convention, not a
+requirement to own the tool. They're readable HTML with `{{ expression }}`
+template bindings, evaluated at runtime by `support.js`.
+
+`components.js` is a build artifact: it inlines each `*.dc.html` component
+so `page.dc.html` also works opened straight off disk (`file://`), where
+browsers block the `fetch()` the runtime would otherwise use. Regenerated
+by `scripts/bundle-components.py` — run automatically by the pre-commit
+hook and `just build` — so never edit it by hand; edit the `.dc.html`
+source and rebuild.
 
 ## Adding or editing a game entry
 
-All game data lives in one JS array, `const raw = [...]`, around
-[`site/page.dc.html:1563`](../site/page.dc.html#L1563). Each series is an
-object with a `games: [...]` array of entries — title, release date, tags,
-languages, length, store links, platform icons, rating. Copy a neighboring
-entry as a template and edit the fields; the render layer picks it up
-automatically, no other file needs touching.
+Game data lives in [`site/data/`](../site/data/), one file per series. Each
+`series-<slug>.js` assigns
+`window.__ffSeriesReg['<slug>'] = { ..., games: [...] }` — the `games`
+array holds the entries (title, release date, tags, languages, length,
+store links, platform icons, rating). To edit or add an entry, open the
+relevant `series-*.js`, copy a neighboring entry as a template, and edit
+the fields; the render layer picks it up automatically.
+
+To add, remove, or reorder a whole series, edit the `SERIES_ORDER` list in
+[`site/data/index.js`](../site/data/index.js) (and add the matching
+`series-<slug>.js` file).
 
 ## Adding an image/icon
 
 Drop the file in `site/images/platforms/`, then reference it as
-`images/platforms/yourfile.svg` in a `raw` entry (see `iconImg` fields above
+`images/platforms/yourfile.svg` in a series data file (see `iconImg` fields
 for examples). Name it after the platform it represents (`ps5.svg`,
 `snes.png`), not its origin.
 
@@ -48,7 +66,11 @@ documents the system's conventions (do/don't list included).
 
 ## Preview locally
 
-No build step needed — just serve `site/` and open it:
+No build step needed. Simplest: open `site/page.dc.html` directly in a
+browser (`file://`) — `components.js` and the classic-script data layer
+make that work with no server.
+
+To preview the way it actually deploys, serve `site/` over http:
 
 ```sh
 cd site
@@ -66,12 +88,13 @@ what actually gets deployed. `just build` alone just produces `build/`
 
 ## If you use Claude Design
 
-`site/page.dc.html` plus its sibling `support.js`, `_ds/`, and the
-`images/` tree are what the tool exports/imports — drag the whole `site/`
-folder in to keep editing visually, then copy the changed files back over
-`site/` and open a PR. Asset paths are plain relative URLs, so the folder
-layout is not fixed by the tool. This is optional; hand-editing works the
-same either way.
+`site/page.dc.html`, the sibling `*.dc.html` components, `support.js`,
+`_ds/`, `data/`, and the `images/` tree are what the tool exports/imports —
+drag the whole `site/` folder in to keep editing visually, then copy the
+changed files back over `site/` and open a PR. Asset paths are plain
+relative URLs, so the folder layout is not fixed by the tool. Don't bother
+copying `components.js` — it's regenerated from the `*.dc.html` files. This
+is optional; hand-editing works the same either way.
 
 ## Deploy
 
