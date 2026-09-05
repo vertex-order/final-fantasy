@@ -1,0 +1,12 @@
+#!/bin/sh
+# Strip C2PA provenance metadata from staged PNG/SVG assets before commit.
+# Pure Python, no external tools required.
+set -e
+
+staged=$(git diff --cached --name-only --diff-filter=ACM -- '*.png' '*.svg')
+[ -z "$staged" ] && exit 0
+
+python3 "$(git rev-parse --show-toplevel)/scripts/strip-c2pa.py" $staged
+
+# Re-stage any files the strip script modified.
+git add $staged

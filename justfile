@@ -11,3 +11,11 @@ serve: build
 
 clean:
     rm -rf build
+
+# One-time per clone: wire up repo git hooks (strips C2PA metadata from images pre-commit).
+install-hooks:
+    git config core.hooksPath .githooks
+
+# Strip embedded C2PA provenance metadata from all site images (run after a fresh export).
+strip-metadata:
+    python3 scripts/strip-c2pa.py site/images

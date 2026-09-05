@@ -5,3 +5,6 @@ _reference/
 
 # workflow build output (generated in CI, never committed)
 build/
+
+# auto-generated thumbnail cache
+.thumbnail
