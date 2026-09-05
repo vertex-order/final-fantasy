@@ -47,6 +47,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
 [data-theme="light"] a { color: var(--color-accent-300); }
 [data-theme="light"] a:hover { color: var(--color-accent); }
 .sc-host[data-sc-name="DescRun"] { display: inline; }
+.sc-host[data-sc-name="EntryTitleLinks"] { display: inline; }
 [data-theme="light"] img[style*="invert(80%) sepia(15%)"] { filter: brightness(0) saturate(100%) invert(35%) sepia(10%) saturate(400%) hue-rotate(195deg) !important; }
 [data-theme="light"] img[style*="invert(100%)"] { filter: brightness(0) saturate(100%) !important; }
 [data-theme="light"] img[src*="icon-movie-allcaps"],
@@ -238,10 +239,10 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                   <dc-import name="EntryTitleLinks" parts="{{ g.parts }}" pilcrow-href="{{ g.anchorHref }}" on-pilcrow-click="{{ g.onAnchorClick }}" pilcrow-opacity="{{ g.pilcrowOpacity }}" show-pilcrow="{{ true }}" hint-size="auto,20px" style="display: contents;"></dc-import>
                 </span>
                 <sc-if value="{{ g.byline }}" hint-placeholder-val="{{ false }}">
-                  <span onMouseEnter="{{ g.onAnchorHoverEnter }}" onMouseLeave="{{ g.onAnchorHoverLeave }}" style="color: var(--color-neutral-600); font-size: 12px; font-style: italic;">{{ g.byline }}</span>
+                  <dc-import name="EntryByline" byline="{{ g.byline }}" on-mouse-enter="{{ g.onAnchorHoverEnter }}" on-mouse-leave="{{ g.onAnchorHoverLeave }}" hint-size="auto,16px" style="display: block;"></dc-import>
                 </sc-if>
                 <sc-if value="{{ g.bylineParts }}" hint-placeholder-val="{{ false }}">
-                  <span onMouseEnter="{{ g.onAnchorHoverEnter }}" onMouseLeave="{{ g.onAnchorHoverLeave }}" style="color: var(--color-neutral-600); font-size: 12px; font-style: italic;"><sc-for list="{{ g.bylineParts }}" as="bp" hint-placeholder-count="0"><sc-if value="{{ bp.abbrTerm }}" hint-placeholder-val="{{ false }}"><abbr title="{{ bp.abbrDef }}" style="text-decoration: underline dotted; cursor: help;">{{ bp.abbrTerm }}</abbr></sc-if><sc-if value="{{ bp.text }}" hint-placeholder-val="{{ false }}">{{ bp.text }}</sc-if></sc-for></span>
+                  <dc-import name="EntryByline" byline-parts="{{ g.bylineParts }}" on-mouse-enter="{{ g.onAnchorHoverEnter }}" on-mouse-leave="{{ g.onAnchorHoverLeave }}" hint-size="auto,16px" style="display: block;"></dc-import>
                 </sc-if>
                 <sc-if value="{{ g.helpWanted }}" hint-placeholder-val="{{ false }}">
                   <dc-import name="StatusBadge" label="Help wanted" color="var(--color-neutral-400)" bg="var(--color-neutral-800)" hint-size="auto,20px" style="display: block;"></dc-import>
@@ -352,7 +353,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                     </div>
                     <sc-if value="{{ ex.byline }}" hint-placeholder-val="{{ false }}">
                       <div style="display: flex; align-items: center; gap: var(--space-2); margin-top: 2px;">
-                        <span onMouseEnter="{{ ex.onAnchorHoverEnter }}" onMouseLeave="{{ ex.onAnchorHoverLeave }}" style="color: var(--color-neutral-600); font-size: 12px; font-style: italic;">{{ ex.byline }} <a href="{{ ex.anchorHref }}" onClick="{{ ex.onAnchorClick }}" title="Link to this entry" style="color: var(--color-neutral-500); text-decoration: none; opacity: {{ ex.pilcrowOpacity }}; transition: opacity .15s;">¶</a></span>
+                        <dc-import name="EntryByline" byline="{{ ex.byline }}" on-mouse-enter="{{ ex.onAnchorHoverEnter }}" on-mouse-leave="{{ ex.onAnchorHoverLeave }}" show-pilcrow="{{ true }}" pilcrow-href="{{ ex.anchorHref }}" on-pilcrow-click="{{ ex.onAnchorClick }}" pilcrow-opacity="{{ ex.pilcrowOpacity }}" hint-size="auto,16px" style="display: block;"></dc-import>
                       </div>
                     </sc-if>
                     <sc-if value="{{ ex.helpWanted }}" hint-placeholder-val="{{ false }}">
@@ -424,7 +425,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                   </sc-if>
                   <dc-import name="EntryTitleLinks" parts="{{ g.alt.parts }}" on-mouse-enter="{{ g.alt.onAnchorHoverEnter }}" on-mouse-leave="{{ g.alt.onAnchorHoverLeave }}" pilcrow-href="{{ g.alt.anchorHref }}" on-pilcrow-click="{{ g.alt.onAnchorClick }}" pilcrow-opacity="{{ g.alt.pilcrowOpacity }}" show-pilcrow="{{ g.alt.pilcrowAfterTitle }}" hint-size="auto,20px" style="display: contents;"></dc-import>
                   <sc-if value="{{ g.alt.byline }}" hint-placeholder-val="{{ false }}">
-                    <div onMouseEnter="{{ g.alt.onAnchorHoverEnter }}" onMouseLeave="{{ g.alt.onAnchorHoverLeave }}" style="color: var(--color-neutral-600); font-size: 12px; font-style: italic; margin-top: 1px;">{{ g.alt.byline }} <a href="{{ g.alt.anchorHref }}" onClick="{{ g.alt.onAnchorClick }}" title="Link to this entry" style="color: var(--color-neutral-500); text-decoration: none; opacity: {{ g.alt.pilcrowOpacity }}; transition: opacity .15s;">¶</a></div>
+                    <dc-import name="EntryByline" byline="{{ g.alt.byline }}" on-mouse-enter="{{ g.alt.onAnchorHoverEnter }}" on-mouse-leave="{{ g.alt.onAnchorHoverLeave }}" show-pilcrow="{{ true }}" pilcrow-href="{{ g.alt.anchorHref }}" on-pilcrow-click="{{ g.alt.onAnchorClick }}" pilcrow-opacity="{{ g.alt.pilcrowOpacity }}" hint-size="auto,16px" style="display: block;"></dc-import>
                   </sc-if>
                   <sc-if value="{{ g.alt.helpWanted }}" hint-placeholder-val="{{ false }}">
                     <dc-import name="StatusBadge" label="Help wanted" color="var(--color-neutral-400)" bg="var(--color-neutral-800)" hint-size="auto,20px" style="display: block;"></dc-import>
@@ -567,7 +568,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                     </div>
                     <sc-if value="{{ ex.byline }}" hint-placeholder-val="{{ false }}">
                       <div style="display: flex; align-items: center; gap: var(--space-2); margin-top: 2px;">
-                        <span onMouseEnter="{{ ex.onAnchorHoverEnter }}" onMouseLeave="{{ ex.onAnchorHoverLeave }}" style="color: var(--color-neutral-600); font-size: 12px; font-style: italic;">{{ ex.byline }} <a href="{{ ex.anchorHref }}" onClick="{{ ex.onAnchorClick }}" title="Link to this entry" style="color: var(--color-neutral-500); text-decoration: none; opacity: {{ ex.pilcrowOpacity }}; transition: opacity .15s;">¶</a></span>
+                        <dc-import name="EntryByline" byline="{{ ex.byline }}" on-mouse-enter="{{ ex.onAnchorHoverEnter }}" on-mouse-leave="{{ ex.onAnchorHoverLeave }}" show-pilcrow="{{ true }}" pilcrow-href="{{ ex.anchorHref }}" on-pilcrow-click="{{ ex.onAnchorClick }}" pilcrow-opacity="{{ ex.pilcrowOpacity }}" hint-size="auto,16px" style="display: block;"></dc-import>
                       </div>
                     </sc-if>
                     <sc-if value="{{ ex.helpWanted }}" hint-placeholder-val="{{ false }}">
