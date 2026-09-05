@@ -330,64 +330,8 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                   <span style="color: var(--color-neutral-500);">Platforms<sc-if value="{{ g.storeUrl }}" hint-placeholder-val="{{ false }}"> · <a href="{{ g.storeUrl }}" target="_blank" rel="noopener" style="color: var(--color-neutral-500); display: inline-flex; align-items: center; gap: 3px;">Profile<i class="bi bi-box-arrow-up-right" style="font-size: 10px;"></i></a></sc-if></span>
                   <span style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 2px;">
                     <sc-for list="{{ g.platformGroups }}" as="pl" hint-placeholder-count="0">
-                          <sc-if value="{{ pl.noUrl }}" hint-placeholder-val="{{ false }}">
-                            <span title="{{ pl.name }}" style="display: flex; align-items: center; flex-shrink: 0; color: var(--color-neutral-300); opacity: 0.85; position: relative;">
-                              <span style="display: flex; align-items: center; flex-shrink: 0; opacity: {{ pl.contentOpacity }};">
-                                <sc-if value="{{ pl.prefix }}" hint-placeholder-val="{{ false }}">
-                                  <span style="font-size: 11px; margin-right: 2px;">{{ pl.prefix }}</span>
-                                </sc-if>
-                                <sc-if value="{{ pl.iconImg }}" hint-placeholder-val="{{ false }}">
-                                  <img src="{{ pl.iconImg }}" alt="{{ pl.name }}" width="{{ pl.iconSize }}" height="{{ pl.iconSize }}" style="flex-shrink: 0; max-width: none; {{ pl.imgStyle }}">
-                                </sc-if>
-                                <sc-if value="{{ pl.icon }}" hint-placeholder-val="{{ false }}">
-                                  <i class="{{ pl.icon }}" style="font-size: 16px;"></i>
-                                </sc-if>
-                                <sc-if value="{{ pl.text }}" hint-placeholder-val="{{ false }}">
-                                  <span style="font-size: 10.8px; padding: 1px 4px; line-height: 1.4;">{{ pl.text }}</span>
-                                </sc-if>
-                                <sc-if value="{{ pl.suffix }}" hint-placeholder-val="{{ false }}">
-                                  <span style="font-size: 10.8px; margin-left: 3px;">{{ pl.suffix }}</span>
-                                </sc-if>
-                                <sc-if value="{{ pl.jpTag }}" hint-placeholder-val="{{ false }}">
-                                  <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(jp)</span>
-                                </sc-if>
-                                <sc-if value="{{ pl.nonJpTag }}" hint-placeholder-val="{{ false }}">
-                                  <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(non-jp)</span>
-                                </sc-if>
-                              </span>
-                              <sc-if value="{{ pl.terminated }}" hint-placeholder-val="{{ false }}">
-                                <span style="position: absolute; left: -2px; right: -2px; top: 50%; height: 1px; background: {{ pl.strikeColor }}; transform: rotate(-10deg);"></span>
-                              </sc-if>
-                            </span>
-                          </sc-if>
-                          <sc-if value="{{ pl.href }}" hint-placeholder-val="{{ false }}">
-                          <a href="{{ pl.href }}" target="_blank" rel="noopener" title="{{ pl.name }}" style="display: flex; align-items: center; flex-shrink: 0; color: var(--color-neutral-300); opacity: 0.85; position: relative;" style-hover="opacity: 1; color: var(--color-accent-300);">
-                            <span style="display: flex; align-items: center; flex-shrink: 0; opacity: {{ pl.contentOpacity }};">
-                              <sc-if value="{{ pl.iconImg }}" hint-placeholder-val="{{ false }}">
-                                <img src="{{ pl.iconImg }}" alt="{{ pl.name }}" width="{{ pl.iconSize }}" height="{{ pl.iconSize }}" style="flex-shrink: 0; max-width: none; {{ pl.imgStyle }}">
-                              </sc-if>
-                              <sc-if value="{{ pl.icon }}" hint-placeholder-val="{{ false }}">
-                                <i class="{{ pl.icon }}" style="font-size: 16px;"></i>
-                              </sc-if>
-                              <sc-if value="{{ pl.text }}" hint-placeholder-val="{{ false }}">
-                                <span style="font-size: 10.8px; padding: 1px 4px; line-height: 1.4;">{{ pl.text }}</span>
-                              </sc-if>
-                              <sc-if value="{{ pl.suffix }}" hint-placeholder-val="{{ false }}">
-                                <span style="font-size: 10.8px; margin-left: 3px;">{{ pl.suffix }}</span>
-                              </sc-if>
-                              <sc-if value="{{ pl.jpTag }}" hint-placeholder-val="{{ false }}">
-                                <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(jp)</span>
-                              </sc-if>
-                              <sc-if value="{{ pl.nonJpTag }}" hint-placeholder-val="{{ false }}">
-                                <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(non-jp)</span>
-                              </sc-if>
-                            </span>
-                            <sc-if value="{{ pl.terminated }}" hint-placeholder-val="{{ false }}">
-                              <span style="position: absolute; left: -2px; right: -2px; top: 50%; height: 1px; background: {{ pl.strikeColor }}; transform: rotate(-10deg);"></span>
-                            </sc-if>
-                          </a>
-                          </sc-if>
-                        </sc-for>
+  <dc-import name="PlatformIcon" href="{{ pl.href }}" item-name="{{ pl.name }}" prefix="{{ pl.prefix }}" icon-img="{{ pl.iconImg }}" icon="{{ pl.icon }}" icon-size="{{ pl.iconSize }}" img-style="{{ pl.imgStyle }}" text="{{ pl.text }}" suffix="{{ pl.suffix }}" jp-tag="{{ pl.jpTag }}" non-jp-tag="{{ pl.nonJpTag }}" content-opacity="{{ pl.contentOpacity }}" terminated="{{ pl.terminated }}" strike-color="{{ pl.strikeColor }}" hint-size="auto,20px" style="display: flex;"></dc-import>
+</sc-for>
                   </span>
                 </sc-if>
                 <sc-if value="{{ g.extraPlatforms }}" hint-placeholder-val="{{ false }}">
@@ -395,32 +339,8 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                     <span style="color: var(--color-neutral-600); font-size: 10.8px; font-style: italic; display: inline-flex; align-items: center; gap: 3px;">in other versions <span style="font-size: 8px; font-style: normal;">▾</span></span>
                     <span style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px; opacity: 0.55;">
                       <sc-for list="{{ g.extraPlatforms }}" as="pl" hint-placeholder-count="0">
-                        <span title="{{ pl.name }}" style="display: flex; align-items: center; flex-shrink: 0; color: var(--color-neutral-300); position: relative;">
-                          <span style="display: flex; align-items: center; flex-shrink: 0; opacity: {{ pl.contentOpacity }};">
-                            <sc-if value="{{ pl.iconImg }}" hint-placeholder-val="{{ false }}">
-                              <img src="{{ pl.iconImg }}" alt="{{ pl.name }}" width="{{ pl.iconSize }}" height="{{ pl.iconSize }}" style="flex-shrink: 0; max-width: none; {{ pl.imgStyle }}">
-                            </sc-if>
-                            <sc-if value="{{ pl.icon }}" hint-placeholder-val="{{ false }}">
-                              <i class="{{ pl.icon }}" style="font-size: 16px;"></i>
-                            </sc-if>
-                            <sc-if value="{{ pl.text }}" hint-placeholder-val="{{ false }}">
-                              <span style="font-size: 10.8px; padding: 1px 4px; line-height: 1.4;">{{ pl.text }}</span>
-                            </sc-if>
-                            <sc-if value="{{ pl.suffix }}" hint-placeholder-val="{{ false }}">
-                              <span style="font-size: 10.8px; margin-left: 3px;">{{ pl.suffix }}</span>
-                            </sc-if>
-                            <sc-if value="{{ pl.jpTag }}" hint-placeholder-val="{{ false }}">
-                              <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(jp)</span>
-                            </sc-if>
-                            <sc-if value="{{ pl.nonJpTag }}" hint-placeholder-val="{{ false }}">
-                              <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(non-jp)</span>
-                            </sc-if>
-                          </span>
-                          <sc-if value="{{ pl.terminated }}" hint-placeholder-val="{{ false }}">
-                            <span style="position: absolute; left: -2px; right: -2px; top: 50%; height: 1px; background: {{ pl.strikeColor }}; transform: rotate(-10deg);"></span>
-                          </sc-if>
-                        </span>
-                      </sc-for>
+  <dc-import name="PlatformIcon" href="{{ pl.href }}" item-name="{{ pl.name }}" icon-img="{{ pl.iconImg }}" icon="{{ pl.icon }}" icon-size="{{ pl.iconSize }}" img-style="{{ pl.imgStyle }}" text="{{ pl.text }}" suffix="{{ pl.suffix }}" jp-tag="{{ pl.jpTag }}" non-jp-tag="{{ pl.nonJpTag }}" content-opacity="{{ pl.contentOpacity }}" terminated="{{ pl.terminated }}" strike-color="{{ pl.strikeColor }}" muted="{{ true }}" hint-size="auto,20px" style="display: flex;"></dc-import>
+</sc-for>
                     </span>
                   </span>
                 </sc-if>
@@ -556,55 +476,8 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                     <span style="color: var(--color-neutral-500);">Platforms<sc-if value="{{ ex.storeUrl }}" hint-placeholder-val="{{ false }}"> · <a href="{{ ex.storeUrl }}" target="_blank" rel="noopener" style="color: var(--color-neutral-500); display: inline-flex; align-items: center; gap: 3px;">Profile<i class="bi bi-box-arrow-up-right" style="font-size: 10px;"></i></a></sc-if></span>
                     <span style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 2px;">
                       <sc-for list="{{ ex.platformGroups }}" as="pl" hint-placeholder-count="0">
-                            <sc-if value="{{ pl.url }}" hint-placeholder-val="{{ false }}">
-                              <a href="{{ pl.url }}" target="_blank" rel="noopener" title="{{ pl.name }}" style="display: flex; align-items: center; flex-shrink: 0; color: var(--color-neutral-300); opacity: 0.85; position: relative;" style-hover="opacity: 1; color: var(--color-accent-300);">
-                                <span style="display: flex; align-items: center; flex-shrink: 0; opacity: {{ pl.contentOpacity }};">
-                                  <sc-if value="{{ pl.iconImg }}" hint-placeholder-val="{{ false }}">
-                                    <img src="{{ pl.iconImg }}" alt="{{ pl.name }}" width="{{ pl.iconSize }}" height="{{ pl.iconSize }}" style="flex-shrink: 0; max-width: none; {{ pl.imgStyle }}">
-                                  </sc-if>
-                                  <sc-if value="{{ pl.icon }}" hint-placeholder-val="{{ false }}">
-                                    <i class="{{ pl.icon }}" style="font-size: 16px;"></i>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.text }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; padding: 1px 4px; line-height: 1.4;">{{ pl.text }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.suffix }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; margin-left: 3px;">{{ pl.suffix }}</span>
-                                  </sc-if>
-                                </span>
-                                <sc-if value="{{ pl.terminated }}" hint-placeholder-val="{{ false }}">
-                                  <span style="position: absolute; left: -2px; right: -2px; top: 50%; height: 1px; background: {{ pl.strikeColor }}; transform: rotate(-10deg);"></span>
-                                </sc-if>
-                              </a>
-                            </sc-if>
-                            <sc-if value="{{ pl.noPlUrl }}" hint-placeholder-val="{{ false }}">
-                              <span title="{{ pl.name }}" style="display: flex; align-items: center; flex-shrink: 0; color: var(--color-neutral-300); opacity: 0.85; position: relative;">
-                                <span style="display: flex; align-items: center; flex-shrink: 0; opacity: {{ pl.contentOpacity }};">
-                                  <sc-if value="{{ pl.iconImg }}" hint-placeholder-val="{{ false }}">
-                                    <img src="{{ pl.iconImg }}" alt="{{ pl.name }}" width="{{ pl.iconSize }}" height="{{ pl.iconSize }}" style="flex-shrink: 0; max-width: none; {{ pl.imgStyle }}">
-                                  </sc-if>
-                                  <sc-if value="{{ pl.icon }}" hint-placeholder-val="{{ false }}">
-                                    <i class="{{ pl.icon }}" style="font-size: 16px;"></i>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.text }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; padding: 1px 4px; line-height: 1.4;">{{ pl.text }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.suffix }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; margin-left: 3px;">{{ pl.suffix }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.jpTag }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(jp)</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.nonJpTag }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(non-jp)</span>
-                                  </sc-if>
-                                </span>
-                                <sc-if value="{{ pl.terminated }}" hint-placeholder-val="{{ false }}">
-                                  <span style="position: absolute; left: -2px; right: -2px; top: 50%; height: 1px; background: {{ pl.strikeColor }}; transform: rotate(-10deg);"></span>
-                                </sc-if>
-                              </span>
-                            </sc-if>
-                          </sc-for>
+  <dc-import name="PlatformIcon" href="{{ pl.url }}" item-name="{{ pl.name }}" icon-img="{{ pl.iconImg }}" icon="{{ pl.icon }}" icon-size="{{ pl.iconSize }}" img-style="{{ pl.imgStyle }}" text="{{ pl.text }}" suffix="{{ pl.suffix }}" jp-tag="{{ pl.jpTag }}" non-jp-tag="{{ pl.nonJpTag }}" content-opacity="{{ pl.contentOpacity }}" terminated="{{ pl.terminated }}" strike-color="{{ pl.strikeColor }}" hint-size="auto,20px" style="display: flex;"></dc-import>
+</sc-for>
                     </span>
                     </sc-if>
                     <sc-if value="{{ showLanguages }}" hint-placeholder-val="{{ true }}">
@@ -701,64 +574,8 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                     <span style="color: var(--color-neutral-500);">Platforms<sc-if value="{{ g.alt.storeUrl }}" hint-placeholder-val="{{ false }}"> · <a href="{{ g.alt.storeUrl }}" target="_blank" rel="noopener" style="color: var(--color-neutral-500); display: inline-flex; align-items: center; gap: 3px;">Profile<i class="bi bi-box-arrow-up-right" style="font-size: 10px;"></i></a></sc-if></span>
                     <span style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 2px;">
                       <sc-for list="{{ g.alt.platformGroups }}" as="pl" hint-placeholder-count="0">
-                            <sc-if value="{{ pl.url }}" hint-placeholder-val="{{ false }}">
-                              <a href="{{ pl.url }}" target="_blank" rel="noopener" title="{{ pl.name }}" style="display: flex; align-items: center; flex-shrink: 0; color: var(--color-neutral-300); opacity: 0.85; position: relative;" style-hover="opacity: 1; color: var(--color-accent-300);">
-                                <span style="display: flex; align-items: center; flex-shrink: 0; opacity: {{ pl.contentOpacity }};">
-                                  <sc-if value="{{ pl.iconImg }}" hint-placeholder-val="{{ false }}">
-                                    <img src="{{ pl.iconImg }}" alt="{{ pl.name }}" width="{{ pl.iconSize }}" height="{{ pl.iconSize }}" style="flex-shrink: 0; max-width: none; {{ pl.imgStyle }}">
-                                  </sc-if>
-                                  <sc-if value="{{ pl.icon }}" hint-placeholder-val="{{ false }}">
-                                    <i class="{{ pl.icon }}" style="font-size: 16px;"></i>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.text }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; padding: 1px 4px; line-height: 1.4;">{{ pl.text }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.suffix }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; margin-left: 3px;">{{ pl.suffix }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.jpTag }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(jp)</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.nonJpTag }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(non-jp)</span>
-                                  </sc-if>
-                                </span>
-                                <sc-if value="{{ pl.terminated }}" hint-placeholder-val="{{ false }}">
-                                  <span style="position: absolute; left: -2px; right: -2px; top: 50%; height: 1px; background: {{ pl.strikeColor }}; transform: rotate(-10deg);"></span>
-                                </sc-if>
-                              </a>
-                            </sc-if>
-                            <sc-if value="{{ pl.noUrl }}" hint-placeholder-val="{{ false }}">
-                              <span title="{{ pl.name }}" style="display: flex; align-items: center; flex-shrink: 0; color: var(--color-neutral-300); opacity: 0.85; position: relative;" style-hover="opacity: 1; color: var(--color-accent-300);">
-                                <span style="display: flex; align-items: center; flex-shrink: 0; opacity: {{ pl.contentOpacity }};">
-                                  <sc-if value="{{ pl.prefix }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 11px; margin-right: 2px;">{{ pl.prefix }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.iconImg }}" hint-placeholder-val="{{ false }}">
-                                    <img src="{{ pl.iconImg }}" alt="{{ pl.name }}" width="{{ pl.iconSize }}" height="{{ pl.iconSize }}" style="flex-shrink: 0; max-width: none; {{ pl.imgStyle }}">
-                                  </sc-if>
-                                  <sc-if value="{{ pl.icon }}" hint-placeholder-val="{{ false }}">
-                                    <i class="{{ pl.icon }}" style="font-size: 16px;"></i>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.text }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; padding: 1px 4px; line-height: 1.4;">{{ pl.text }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.suffix }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; margin-left: 3px;">{{ pl.suffix }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.jpTag }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(jp)</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.nonJpTag }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(non-jp)</span>
-                                  </sc-if>
-                                </span>
-                                <sc-if value="{{ pl.terminated }}" hint-placeholder-val="{{ false }}">
-                                  <span style="position: absolute; left: -2px; right: -2px; top: 50%; height: 1px; background: {{ pl.strikeColor }}; transform: rotate(-10deg);"></span>
-                                </sc-if>
-                              </span>
-                            </sc-if>
-                          </sc-for>
+  <dc-import name="PlatformIcon" href="{{ pl.url }}" item-name="{{ pl.name }}" icon-img="{{ pl.iconImg }}" icon="{{ pl.icon }}" icon-size="{{ pl.iconSize }}" img-style="{{ pl.imgStyle }}" text="{{ pl.text }}" suffix="{{ pl.suffix }}" jp-tag="{{ pl.jpTag }}" non-jp-tag="{{ pl.nonJpTag }}" content-opacity="{{ pl.contentOpacity }}" terminated="{{ pl.terminated }}" strike-color="{{ pl.strikeColor }}" hint-size="auto,20px" style="display: flex;"></dc-import>
+</sc-for>
                     </span>
                   </sc-if>
                   <sc-if value="{{ g.alt.extraPlatforms }}" hint-placeholder-val="{{ false }}">
@@ -766,32 +583,8 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                       <span style="color: var(--color-neutral-600); font-size: 10.8px; font-style: italic; display: inline-flex; align-items: center; gap: 3px;">in other versions <span style="font-size: 8px; font-style: normal;">▾</span></span>
                       <span style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px; opacity: 0.55;">
                         <sc-for list="{{ g.alt.extraPlatforms }}" as="pl" hint-placeholder-count="0">
-                          <span title="{{ pl.name }}" style="display: flex; align-items: center; flex-shrink: 0; color: var(--color-neutral-300); position: relative;">
-                            <span style="display: flex; align-items: center; flex-shrink: 0; opacity: {{ pl.contentOpacity }};">
-                              <sc-if value="{{ pl.iconImg }}" hint-placeholder-val="{{ false }}">
-                                <img src="{{ pl.iconImg }}" alt="{{ pl.name }}" width="{{ pl.iconSize }}" height="{{ pl.iconSize }}" style="flex-shrink: 0; max-width: none; {{ pl.imgStyle }}">
-                              </sc-if>
-                              <sc-if value="{{ pl.icon }}" hint-placeholder-val="{{ false }}">
-                                <i class="{{ pl.icon }}" style="font-size: 16px;"></i>
-                              </sc-if>
-                              <sc-if value="{{ pl.text }}" hint-placeholder-val="{{ false }}">
-                                <span style="font-size: 10.8px; padding: 1px 4px; line-height: 1.4;">{{ pl.text }}</span>
-                              </sc-if>
-                              <sc-if value="{{ pl.suffix }}" hint-placeholder-val="{{ false }}">
-                                <span style="font-size: 10.8px; margin-left: 3px;">{{ pl.suffix }}</span>
-                              </sc-if>
-                              <sc-if value="{{ pl.jpTag }}" hint-placeholder-val="{{ false }}">
-                                <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(jp)</span>
-                              </sc-if>
-                              <sc-if value="{{ pl.nonJpTag }}" hint-placeholder-val="{{ false }}">
-                                <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(non-jp)</span>
-                              </sc-if>
-                            </span>
-                            <sc-if value="{{ pl.terminated }}" hint-placeholder-val="{{ false }}">
-                              <span style="position: absolute; left: -2px; right: -2px; top: 50%; height: 1px; background: {{ pl.strikeColor }}; transform: rotate(-10deg);"></span>
-                            </sc-if>
-                          </span>
-                        </sc-for>
+  <dc-import name="PlatformIcon" href="{{ pl.href }}" item-name="{{ pl.name }}" icon-img="{{ pl.iconImg }}" icon="{{ pl.icon }}" icon-size="{{ pl.iconSize }}" img-style="{{ pl.imgStyle }}" text="{{ pl.text }}" suffix="{{ pl.suffix }}" jp-tag="{{ pl.jpTag }}" non-jp-tag="{{ pl.nonJpTag }}" content-opacity="{{ pl.contentOpacity }}" terminated="{{ pl.terminated }}" strike-color="{{ pl.strikeColor }}" muted="{{ true }}" hint-size="auto,20px" style="display: flex;"></dc-import>
+</sc-for>
                       </span>
                     </span>
                   </sc-if>
@@ -897,64 +690,8 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                     <span style="color: var(--color-neutral-500);">Platforms<sc-if value="{{ alt.storeUrl }}" hint-placeholder-val="{{ false }}"> · <a href="{{ alt.storeUrl }}" target="_blank" rel="noopener" style="color: var(--color-neutral-500); display: inline-flex; align-items: center; gap: 3px;">Profile<i class="bi bi-box-arrow-up-right" style="font-size: 10px;"></i></a></sc-if></span>
                     <span style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 2px;">
                       <sc-for list="{{ alt.platformGroups }}" as="pl" hint-placeholder-count="0">
-                            <sc-if value="{{ pl.url }}" hint-placeholder-val="{{ false }}">
-                              <a href="{{ pl.url }}" target="_blank" rel="noopener" title="{{ pl.name }}" style="display: flex; align-items: center; flex-shrink: 0; color: var(--color-neutral-300); opacity: 0.85; position: relative;" style-hover="opacity: 1; color: var(--color-accent-300);">
-                                <span style="display: flex; align-items: center; flex-shrink: 0; opacity: {{ pl.contentOpacity }};">
-                                  <sc-if value="{{ pl.iconImg }}" hint-placeholder-val="{{ false }}">
-                                    <img src="{{ pl.iconImg }}" alt="{{ pl.name }}" width="{{ pl.iconSize }}" height="{{ pl.iconSize }}" style="flex-shrink: 0; max-width: none; {{ pl.imgStyle }}">
-                                  </sc-if>
-                                  <sc-if value="{{ pl.icon }}" hint-placeholder-val="{{ false }}">
-                                    <i class="{{ pl.icon }}" style="font-size: 16px;"></i>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.text }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; padding: 1px 4px; line-height: 1.4;">{{ pl.text }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.suffix }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; margin-left: 3px;">{{ pl.suffix }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.jpTag }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(jp)</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.nonJpTag }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(non-jp)</span>
-                                  </sc-if>
-                                </span>
-                                <sc-if value="{{ pl.terminated }}" hint-placeholder-val="{{ false }}">
-                                  <span style="position: absolute; left: -2px; right: -2px; top: 50%; height: 1px; background: {{ pl.strikeColor }}; transform: rotate(-10deg);"></span>
-                                </sc-if>
-                              </a>
-                            </sc-if>
-                            <sc-if value="{{ pl.noUrl }}" hint-placeholder-val="{{ false }}">
-                              <span title="{{ pl.name }}" style="display: flex; align-items: center; flex-shrink: 0; color: var(--color-neutral-300); opacity: 0.85; position: relative;" style-hover="opacity: 1; color: var(--color-accent-300);">
-                                <span style="display: flex; align-items: center; flex-shrink: 0; opacity: {{ pl.contentOpacity }};">
-                                  <sc-if value="{{ pl.prefix }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 11px; margin-right: 2px;">{{ pl.prefix }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.iconImg }}" hint-placeholder-val="{{ false }}">
-                                    <img src="{{ pl.iconImg }}" alt="{{ pl.name }}" width="{{ pl.iconSize }}" height="{{ pl.iconSize }}" style="flex-shrink: 0; max-width: none; {{ pl.imgStyle }}">
-                                  </sc-if>
-                                  <sc-if value="{{ pl.icon }}" hint-placeholder-val="{{ false }}">
-                                    <i class="{{ pl.icon }}" style="font-size: 16px;"></i>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.text }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; padding: 1px 4px; line-height: 1.4;">{{ pl.text }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.suffix }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; margin-left: 3px;">{{ pl.suffix }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.jpTag }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(jp)</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.nonJpTag }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(non-jp)</span>
-                                  </sc-if>
-                                </span>
-                                <sc-if value="{{ pl.terminated }}" hint-placeholder-val="{{ false }}">
-                                  <span style="position: absolute; left: -2px; right: -2px; top: 50%; height: 1px; background: {{ pl.strikeColor }}; transform: rotate(-10deg);"></span>
-                                </sc-if>
-                              </span>
-                            </sc-if>
-                          </sc-for>
+  <dc-import name="PlatformIcon" href="{{ pl.url }}" item-name="{{ pl.name }}" icon-img="{{ pl.iconImg }}" icon="{{ pl.icon }}" icon-size="{{ pl.iconSize }}" img-style="{{ pl.imgStyle }}" text="{{ pl.text }}" suffix="{{ pl.suffix }}" jp-tag="{{ pl.jpTag }}" non-jp-tag="{{ pl.nonJpTag }}" content-opacity="{{ pl.contentOpacity }}" terminated="{{ pl.terminated }}" strike-color="{{ pl.strikeColor }}" hint-size="auto,20px" style="display: flex;"></dc-import>
+</sc-for>
                     </span>
                   </sc-if>
                   </sc-if>
@@ -1073,55 +810,8 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                     <span style="color: var(--color-neutral-500);">Platforms<sc-if value="{{ ex.storeUrl }}" hint-placeholder-val="{{ false }}"> · <a href="{{ ex.storeUrl }}" target="_blank" rel="noopener" style="color: var(--color-neutral-500); display: inline-flex; align-items: center; gap: 3px;">Profile<i class="bi bi-box-arrow-up-right" style="font-size: 10px;"></i></a></sc-if></span>
                     <span style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 2px;">
                       <sc-for list="{{ ex.platformGroups }}" as="pl" hint-placeholder-count="0">
-                            <sc-if value="{{ pl.url }}" hint-placeholder-val="{{ false }}">
-                              <a href="{{ pl.url }}" target="_blank" rel="noopener" title="{{ pl.name }}" style="display: flex; align-items: center; flex-shrink: 0; color: var(--color-neutral-300); opacity: 0.85; position: relative;" style-hover="opacity: 1; color: var(--color-accent-300);">
-                                <span style="display: flex; align-items: center; flex-shrink: 0; opacity: {{ pl.contentOpacity }};">
-                                  <sc-if value="{{ pl.iconImg }}" hint-placeholder-val="{{ false }}">
-                                    <img src="{{ pl.iconImg }}" alt="{{ pl.name }}" width="{{ pl.iconSize }}" height="{{ pl.iconSize }}" style="flex-shrink: 0; max-width: none; {{ pl.imgStyle }}">
-                                  </sc-if>
-                                  <sc-if value="{{ pl.icon }}" hint-placeholder-val="{{ false }}">
-                                    <i class="{{ pl.icon }}" style="font-size: 16px;"></i>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.text }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; padding: 1px 4px; line-height: 1.4;">{{ pl.text }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.suffix }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; margin-left: 3px;">{{ pl.suffix }}</span>
-                                  </sc-if>
-                                </span>
-                                <sc-if value="{{ pl.terminated }}" hint-placeholder-val="{{ false }}">
-                                  <span style="position: absolute; left: -2px; right: -2px; top: 50%; height: 1px; background: {{ pl.strikeColor }}; transform: rotate(-10deg);"></span>
-                                </sc-if>
-                              </a>
-                            </sc-if>
-                            <sc-if value="{{ pl.noPlUrl }}" hint-placeholder-val="{{ false }}">
-                              <span title="{{ pl.name }}" style="display: flex; align-items: center; flex-shrink: 0; color: var(--color-neutral-300); opacity: 0.85; position: relative;">
-                                <span style="display: flex; align-items: center; flex-shrink: 0; opacity: {{ pl.contentOpacity }};">
-                                  <sc-if value="{{ pl.iconImg }}" hint-placeholder-val="{{ false }}">
-                                    <img src="{{ pl.iconImg }}" alt="{{ pl.name }}" width="{{ pl.iconSize }}" height="{{ pl.iconSize }}" style="flex-shrink: 0; max-width: none; {{ pl.imgStyle }}">
-                                  </sc-if>
-                                  <sc-if value="{{ pl.icon }}" hint-placeholder-val="{{ false }}">
-                                    <i class="{{ pl.icon }}" style="font-size: 16px;"></i>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.text }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; padding: 1px 4px; line-height: 1.4;">{{ pl.text }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.suffix }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; margin-left: 3px;">{{ pl.suffix }}</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.jpTag }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(jp)</span>
-                                  </sc-if>
-                                  <sc-if value="{{ pl.nonJpTag }}" hint-placeholder-val="{{ false }}">
-                                    <span style="font-size: 10.8px; font-style: italic; font-variant: small-caps; padding-left: 1px;">(non-jp)</span>
-                                  </sc-if>
-                                </span>
-                                <sc-if value="{{ pl.terminated }}" hint-placeholder-val="{{ false }}">
-                                  <span style="position: absolute; left: -2px; right: -2px; top: 50%; height: 1px; background: {{ pl.strikeColor }}; transform: rotate(-10deg);"></span>
-                                </sc-if>
-                              </span>
-                            </sc-if>
-                          </sc-for>
+  <dc-import name="PlatformIcon" href="{{ pl.url }}" item-name="{{ pl.name }}" icon-img="{{ pl.iconImg }}" icon="{{ pl.icon }}" icon-size="{{ pl.iconSize }}" img-style="{{ pl.imgStyle }}" text="{{ pl.text }}" suffix="{{ pl.suffix }}" jp-tag="{{ pl.jpTag }}" non-jp-tag="{{ pl.nonJpTag }}" content-opacity="{{ pl.contentOpacity }}" terminated="{{ pl.terminated }}" strike-color="{{ pl.strikeColor }}" hint-size="auto,20px" style="display: flex;"></dc-import>
+</sc-for>
                     </span>
                     </sc-if>
                     <sc-if value="{{ showLanguages }}" hint-placeholder-val="{{ true }}">
