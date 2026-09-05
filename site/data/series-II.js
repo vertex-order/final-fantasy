@@ -1,4 +1,4 @@
-export default { num: 'II', releaseDate: '1988-12-17', chronoOrder: 200, recommendedOrder: 200, title: 'Final Fantasy II', note: 'For the first 14 years, this series was only available in Japan.', games: [
+window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder: 200, recommendedOrder: 200, title: 'Final Fantasy II', note: 'For the first 14 years, this series was only available in Japan.', games: [
         { title: 'Final Fantasy II', releaseDate: '1988-12-17', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['Usage system'], mediaType: 'Game', lengthParts: [{ value: '20½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '24h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '24½h', tip: 'Completionist' }], parts: [
           { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
           { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster' },

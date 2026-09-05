@@ -1,4 +1,4 @@
-export default { num: 'V', releaseDate: '1992-12-06', chronoOrder: 500, recommendedOrder: 500, title: 'Final Fantasy V', note: 'For the first 7 years, this series was only available in Japan.', games: [
+window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 500, recommendedOrder: 500, title: 'Final Fantasy V', note: 'For the first 7 years, this series was only available in Japan.', games: [
         { title: 'Final Fantasy V', releaseDate: '1992-12-06', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['Active time battles'], mediaType: 'Game', lengthParts: [{ value: '30½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '35½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '51½h', tip: 'Completionist' }], parts: [
           { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
           { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster' },

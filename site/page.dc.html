@@ -6,6 +6,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="./support.js"></script>
+<script src="./data/index.js"></script>
+<script src="./components.js"></script>
 </head>
 <body>
 <x-dc>
@@ -905,7 +907,8 @@ class Component extends DCLogic {
   seriesEls = {};
   langOrderDefault = ['JA', 'EN'];
   componentDidMount() {
-    import('./data/index.js').then(m => m.loadAllSeries()).then(rawSeries => this.setState({ rawSeries }));
+    Promise.resolve(window.loadAllSeries ? window.loadAllSeries() : import('./data/index.js').then(m => m.loadAllSeries()))
+      .then(rawSeries => this.setState({ rawSeries }));
     if (typeof matchMedia !== 'undefined') {
       this._mq = matchMedia('(prefers-color-scheme: light)');
       this._mqListener = e => this.setState({ systemLight: e.matches });

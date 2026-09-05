@@ -1,4 +1,4 @@
-export default { num: 'TR', releaseDate: '2012-02-16', chronoOrder: 1510, recommendedOrder: 1510, title: 'Theatrhythm', note: 'A rhythm spin-off, mashing up elements and music from across the franchise, and occasionally outside franchises altogether.', games: [
+window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder: 1510, recommendedOrder: 1510, title: 'Theatrhythm', note: 'A rhythm spin-off, mashing up elements and music from across the franchise, and occasionally outside franchises altogether.', games: [
         { title: 'Theatrhythm Final Fantasy', releaseDate: '2012-02-16', chronoOrder: 0, recommendedOrder: 100, tags: ['Rhythm', 'Single-player', 'Multiplayer'], mediaType: 'Game', lengthParts: [{ value: '6h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '22½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '55½h', tip: 'Completionist' }],
         parts: [
           { label: 'Theatrhythm Final Fantasy (2012)', url: 'https://en.wikipedia.org/wiki/Theatrhythm_Final_Fantasy' },
