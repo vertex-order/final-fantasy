@@ -1,0 +1,40 @@
+export default { num: 'MQ', releaseDate: '1992-10-05', chronoOrder: 350, recommendedOrder: 350, title: 'Mystic Quest', note: 'A spin-off designed as a simplified turn-based RPG for new players, and the first Final Fantasy game released in Europe.', games: [
+        { title: 'Final Fantasy Mystic Quest', releaseDate: '1992-10-05', chronoOrder: 0, recommendedOrder: 100, tags: ['Optional', 'First-time players', 'RPG', 'Action-adventure'], mediaType: 'Game', lengthParts: [{ value: '14h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '14½h', tip: 'Completionist' }],
+        languages: [
+          { value: 'JA', tip: 'Japanese', native: true },
+          { value: 'EN', tip: 'English' },
+          { value: 'FR', tip: 'French' },
+          { value: 'DE', tip: 'German' },
+        ],
+        parts: [
+          { label: 'Final Fantasy Mystic Quest (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Mystic_Quest' },
+        ],
+        description: 'Benjamin journeys to reclaim the stolen crystals and restore balance to the world.',
+        desc2Parts: [
+          { text: 'Released in some regions as ' },
+          { emText: 'Mystic Quest Legend' },
+          { emText: ' (EU)', tip: 'Europe', helpStyle: 'cursor: help;' },
+          { text: ' and ' },
+          { emText: 'Final Fantasy USA: Mystic Quest' },
+          { emText: ' (JP)', tip: 'Japan', helpStyle: 'cursor: help;' },
+          { text: '. Not to be confused with ' },
+          { emText: 'Mystic Quest' },
+          { emText: ' (1991;' },
+          { emText: ' EU', tip: 'Europe', helpStyle: 'cursor: help;' },
+          { emText: ';' },
+          { emText: ' GB', tip: 'Game Boy', helpStyle: 'cursor: help;' },
+          { emText: ')' },
+          { text: ' by Square which was spun off into the unrelated series ' },
+          { emLinkText: 'Mana', emLinkUrl: 'https://en.wikipedia.org/wiki/Mana_(series)' },
+          { text: '.' },
+        ],
+        desc2Last: true,
+        platformGroups: [
+          [{ icon: null, iconImg: 'images/platforms/snes.png', iconSize: 14.3, imgStyle: 'width: auto; height: 14.3px;', name: 'Super Nintendo Entertainment System (Super Famicom; Physical)', noUrl: true }],
+          [
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Mystic%20Quest%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Mystic%20Quest%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Mystic%20Quest%20playthrough' },
+          ],
+        ] },
+      ]};
