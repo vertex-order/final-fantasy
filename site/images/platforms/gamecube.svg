@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="400" height="400" id="svg2" version="1.1">
+<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" id="svg2" version="1.1">
   <defs id="defs4">
     <linearGradient id="linearGradient3230">
       <stop style="stop-color:#7e82c5;stop-opacity:1;" offset="0" id="stop3232"></stop>
@@ -43,15 +41,7 @@
     <radialGradient xlink:href="#linearGradient3230" id="radialGradient3236" cx="42.137882" cy="424.02432" fx="42.137882" fy="424.02432" r="55.75" gradientTransform="matrix(-0.515242,-1.4544781,1.9368377,-0.68611575,-813.69725,789.39767)" gradientUnits="userSpaceOnUse"></radialGradient>
   </defs>
   <namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" showgrid="false"></namedview>
-  <metadata id="metadata7">
-    <RDF>
-      <Work>
-        <format>image/svg+xml</format>
-        <type></type>
-        <title></title>
-      </Work>
-    </RDF>
-  </metadata>
+  
   <g id="layer1" transform="translate(0,-652.36218)">
     <g id="g3184" transform="matrix(1.3459597,0,0,1.3459597,-320.10827,387.43829)">
       <path style="fill:url(#linearGradient3190);fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 274.90625,281.03128 0,128.75 0.0312,0.0312 111.5,64.375 0,-44.28125 -39.0625,-22.5625 -34.09375,-19.6875 0,-39.375 0,-0.0312 -0.0312,-45.0625 -38.3437,-22.1562 z m 58.46875,34.03125 0,61.25 53.0625,30.65625 0,-61.28125 z" id="path3131"></path>
