@@ -1,4 +1,4 @@
-export default { num: 'Other', chronoOrder: 1800, recommendedOrder: 1800, title: 'Other', note: 'A collection of standalone titles that nonetheless may be worth looking into.', games: [
+window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrder: 1800, title: 'Other', note: 'A collection of standalone titles that nonetheless may be worth looking into.', games: [
         { title: 'Final Fantasy Adventure', releaseDate: '1991-06-28', chronoOrder: 100, recommendedOrder: 100, tags: ['Spin-off', 'Action RPG', 'Single-player'], mediaType: 'Game', lengthParts: [{ value: '10½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '11½h', tip: 'Completionist' }],         parts: [
           { label: 'Final Fantasy Adventure (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Adventure' },
         ],

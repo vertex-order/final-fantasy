@@ -1,9 +1,14 @@
 # Build the deployable site into build/ (gitignored, matches CI).
-build:
+build: bundle-components
     rm -rf build
     mkdir build
     cp -r site/. build/
     mv build/page.dc.html build/index.html
+
+# Regenerate site/components.js — inlines sibling *.dc.html so <dc-import>
+# resolves without a fetch() (needed for opening page.dc.html over file://).
+bundle-components:
+    python3 scripts/bundle-components.py
 
 # Build then serve build/ locally, like the real deploy.
 serve: build

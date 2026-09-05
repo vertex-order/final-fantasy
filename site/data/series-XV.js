@@ -1,4 +1,4 @@
-export default { num: 'XV', releaseDate: '2016-11-29', chronoOrder: 1600, recommendedOrder: 1600, title: 'Final Fantasy XV Universe', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Final_Fantasy_XV_Universe', note: 'Loosely connected to Fabula Nova Crystallis – Final Fantasy XIII (optional to play first), XV was designed from the start as a multi-media story across games, TV, movies, and manga.',
+window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder: 1600, recommendedOrder: 1600, title: 'Final Fantasy XV Universe', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Final_Fantasy_XV_Universe', note: 'Loosely connected to Fabula Nova Crystallis – Final Fantasy XIII (optional to play first), XV was designed from the start as a multi-media story across games, TV, movies, and manga.',
       notePartsMap: {
         'Loosely connected to Fabula Nova Crystallis – Final Fantasy XIII (optional to play first), XV was designed from the start as a multi-media story across games, TV, movies, and manga.': [
           { text: 'Loosely connected to ' },

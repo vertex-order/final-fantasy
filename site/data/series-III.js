@@ -1,4 +1,4 @@
-export default { num: 'III', releaseDate: '1990-04-27', chronoOrder: 300, recommendedOrder: 300, title: 'Final Fantasy III', note: 'It was 16 years until a 3D remake brought this series outside Japan, and a total of 31 years until the original pixel art version did.', games: [
+window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrder: 300, recommendedOrder: 300, title: 'Final Fantasy III', note: 'It was 16 years until a 3D remake brought this series outside Japan, and a total of 31 years until the original pixel art version did.', games: [
         { title: 'Final Fantasy III', releaseDate: '1990-04-27', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['Job system'], mediaType: 'Game', lengthParts: [{ value: '16h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '18h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '18½h', tip: 'Completionist' }],
         languages: [
           { value: 'JA', tip: 'Japanese', native: true },

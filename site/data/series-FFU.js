@@ -1,4 +1,4 @@
-export default { num: 'FFU', releaseDate: '2001-10-02', chronoOrder: 1050, recommendedOrder: 1050, title: 'Final Fantasy: Unlimited', note: 'The first anime in the franchise.', games: [
+window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrder: 1050, recommendedOrder: 1050, title: 'Final Fantasy: Unlimited', note: 'The first anime in the franchise.', games: [
         { title: 'Final Fantasy: Unlimited', releaseDate: '2001-10-02', chronoOrder: 0, recommendedOrder: 100, tags: ['Anime', '2D', '3D'], mediaType: 'TV', length: '25 episodes',
         parts: [
           { label: 'Final Fantasy: Unlimited (2001)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy:_Unlimited' },

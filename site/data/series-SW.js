@@ -1,4 +1,4 @@
-export default { num: 'SW', releaseDate: '2001-07-02', chronoOrder: 950, recommendedOrder: 950, title: 'Spirits Within', url: 'https://en.wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', note: 'A bold departure into science fiction and photorealistic CG, laying the groundwork for the series\' future cinematic ambitions.', games: [
+window.__ffSeriesReg['SW'] = { num: 'SW', releaseDate: '2001-07-02', chronoOrder: 950, recommendedOrder: 950, title: 'Spirits Within', url: 'https://en.wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', note: 'A bold departure into science fiction and photorealistic CG, laying the groundwork for the series\' future cinematic ambitions.', games: [
         { title: 'Final Fantasy: The Spirits Within', releaseDate: '2001-07-02', chronoOrder: 0, recommendedOrder: 100, tags: ['Movie'], mediaType: 'Movie',
         parts: [
           { label: 'Final Fantasy: The Spirits Within (2001)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within' },

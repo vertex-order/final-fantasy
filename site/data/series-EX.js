@@ -1,4 +1,4 @@
-export default { num: 'EX', releaseDate: '2014-12-18', chronoOrder: 1520, recommendedOrder: 1520, title: 'Explorers', note: 'Features a unique multiplayer aspect, and lets you customize your party for each quest-driven encounter.', games: [
+window.__ffSeriesReg['EX'] = { num: 'EX', releaseDate: '2014-12-18', chronoOrder: 1520, recommendedOrder: 1520, title: 'Explorers', note: 'Features a unique multiplayer aspect, and lets you customize your party for each quest-driven encounter.', games: [
         { title: 'Final Fantasy Explorers', releaseDate: '2014-12-18', chronoOrder: 0, recommendedOrder: 100, tags: ['Action RPG', 'Jobs', 'Single-player', 'Multiplayer', 'Co-op'], mediaType: 'Game', lengthParts: [{ value: '22h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '29½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '40½h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy Explorers (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Explorers' },

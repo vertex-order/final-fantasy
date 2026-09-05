@@ -1,4 +1,4 @@
-export default { num: 'XIV', releaseDate: '2010-09-30', chronoOrder: 1500, recommendedOrder: 1500, title: 'Final Fantasy XIV', note: 'The second MMO in the franchise, and its longest story by far — one overarching tale still unfolding through new content.', games: [
+window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrder: 1500, recommendedOrder: 1500, title: 'Final Fantasy XIV', note: 'The second MMO in the franchise, and its longest story by far — one overarching tale still unfolding through new content.', games: [
         { title: 'Final Fantasy XIV: Online', releaseDate: '2010-09-30', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['MMORPG', 'Monthly subscription', 'Terminated'], mediaType: 'Game', lengthParts: [{ value: '181h', tip: 'Solo' }],
         bylineParts: [
           { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },

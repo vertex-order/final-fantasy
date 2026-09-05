@@ -1,4 +1,4 @@
-export default { num: 'VI', releaseDate: '1994-04-02', chronoOrder: 600, recommendedOrder: 600, title: 'Final Fantasy VI', note: 'The last mainline entry to feature 2D sprite graphics, especially outside of mobile games.', games: [
+window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder: 600, recommendedOrder: 600, title: 'Final Fantasy VI', note: 'The last mainline entry to feature 2D sprite graphics, especially outside of mobile games.', games: [
         { title: 'Final Fantasy VI', releaseDate: '1994-04-02', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['Active time battles'], mediaType: 'Game', lengthParts: [{ value: '33h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '40½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '54½h', tip: 'Completionist' }], parts: [
           { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
           { label: 'Pixel Remaster (2022)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster' },

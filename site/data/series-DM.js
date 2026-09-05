@@ -1,4 +1,4 @@
-export default { num: 'DM', releaseDate: '2010-09-06', chronoOrder: 1450, recommendedOrder: 1450, title: 'Dimensions', note: 'An original mobile-first entry that paved the way for bringing most of the 2D franchise to mobile, without gacha and microtransactions.', games: [
+window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder: 1450, recommendedOrder: 1450, title: 'Dimensions', note: 'An original mobile-first entry that paved the way for bringing most of the 2D franchise to mobile, without gacha and microtransactions.', games: [
         { title: 'Final Fantasy Dimensions', releaseDate: '2010-09-06', chronoOrder: 0, recommendedOrder: 100, tags: ['2D', 'RPG', 'Jobs', 'Active Time Battle', 'Single-player'], mediaType: 'Game', lengthParts: [{ value: '48h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '58h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '75½h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy Dimensions (2010)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Dimensions' },

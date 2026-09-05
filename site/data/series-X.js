@@ -1,4 +1,4 @@
-export default { num: 'X', releaseDate: '2001-07-19', chronoOrder: 1000, recommendedOrder: 1000, title: 'Final Fantasy X', note: 'The first to feature voice acting and direct game sequels, the start of the PlayStation 2 era.', games: [
+window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 1000, recommendedOrder: 1000, title: 'Final Fantasy X', note: 'The first to feature voice acting and direct game sequels, the start of the PlayStation 2 era.', games: [
         { title: 'Final Fantasy X', releaseDate: '2001-07-19', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['Conditional Turn-Based Battle', 'Sphere Grid leveling'], mediaType: 'Game', lengthParts: [{ value: '45½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '68h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '143h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy X (2001)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_X' },

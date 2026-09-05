@@ -1,4 +1,4 @@
-export default { num: 'CC', releaseDate: '2003-08-08', chronoOrder: 1200, recommendedOrder: 1200, title: 'Crystal Chronicles', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles', note: 'Known for its focus on co-operative gameplay, a return to Nintendo with the GameCube.', games: [
+window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder: 1200, recommendedOrder: 1200, title: 'Crystal Chronicles', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles', note: 'Known for its focus on co-operative gameplay, a return to Nintendo with the GameCube.', games: [
         { title: 'Final Fantasy Crystal Chronicles', releaseDate: '2003-08-08', chronoOrder: 0, recommendedOrder: 100, tags: ['Action role-playing', 'Co-op'], mediaType: 'Game', lengthParts: [{ value: '17½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '43h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '93h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy Crystal Chronicles (2003)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)' },

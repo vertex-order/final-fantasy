@@ -1,4 +1,4 @@
-export default { num: 'XII', releaseDate: '2006-03-16', chronoOrder: 1300, recommendedOrder: 1300, title: 'Ivalice Alliance – Final Fantasy XII', url: 'https://en.wikipedia.org/wiki/Ivalice', note: 'The titular title, a classic rpg, is known for its divisive customizable auto-battle system. The series is also notable for Final Fantasy Tactics and several turn-based tactical rpgs, which almost deserve their own series.',
+window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrder: 1300, recommendedOrder: 1300, title: 'Ivalice Alliance – Final Fantasy XII', url: 'https://en.wikipedia.org/wiki/Ivalice', note: 'The titular title, a classic rpg, is known for its divisive customizable auto-battle system. The series is also notable for Final Fantasy Tactics and several turn-based tactical rpgs, which almost deserve their own series.',
       notePartsMap: {
         'The titular title, a classic rpg, is known for its divisive customizable auto-battle system. The series is also notable for Final Fantasy Tactics and several turn-based tactical rpgs, which almost deserve their own series.': [
           { text: 'The titular title, a ' },
