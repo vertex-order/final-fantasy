@@ -8,3 +8,5 @@ build/
 
 # auto-generated thumbnail cache
 .thumbnail
+
+site/github.md
