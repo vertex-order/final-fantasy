@@ -234,10 +234,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
               </sc-if>
               <div style="flex: 1; display: flex; flex-direction: column; gap: 2px;">
                 <span onMouseEnter="{{ g.onAnchorHoverEnter }}" onMouseLeave="{{ g.onAnchorHoverLeave }}" style="font-size: 15px; text-wrap: pretty;">
-                  <sc-for list="{{ g.parts }}" as="p" hint-placeholder-count="1">
-                    <a href="{{ p.url }}" target="_blank" rel="noopener" style="margin-right: var(--space-2); {{ p.smallStyle }}">{{ p.label }}</a>
-                  </sc-for>
-                  <a href="{{ g.anchorHref }}" onClick="{{ g.onAnchorClick }}" title="Link to this entry" style="color: var(--color-neutral-500); text-decoration: none; font-size: 12px; opacity: {{ g.pilcrowOpacity }}; transition: opacity .15s;">¶</a>
+                  <dc-import name="EntryTitleLinks" parts="{{ g.parts }}" pilcrow-href="{{ g.anchorHref }}" on-pilcrow-click="{{ g.onAnchorClick }}" pilcrow-opacity="{{ g.pilcrowOpacity }}" show-pilcrow="{{ true }}" hint-size="auto,20px" style="display: contents;"></dc-import>
                 </span>
                 <sc-if value="{{ g.byline }}" hint-placeholder-val="{{ false }}">
                   <span onMouseEnter="{{ g.onAnchorHoverEnter }}" onMouseLeave="{{ g.onAnchorHoverLeave }}" style="color: var(--color-neutral-600); font-size: 12px; font-style: italic;">{{ g.byline }}</span>
@@ -353,14 +350,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                       <sc-if value="{{ ex.url }}" hint-placeholder-val="{{ false }}">
                         <a href="{{ ex.url }}" target="_blank" rel="noopener" style="font-size: 13px;" onMouseEnter="{{ ex.onAnchorHoverEnter }}" onMouseLeave="{{ ex.onAnchorHoverLeave }}">{{ ex.label }}</a>
                       </sc-if>
-                      <sc-if value="{{ ex.parts }}" hint-placeholder-val="{{ false }}">
-                        <sc-for list="{{ ex.parts }}" as="p" hint-placeholder-count="0">
-                          <a href="{{ p.url }}" target="_blank" rel="noopener" style="margin-right: var(--space-2); {{ p.smallStyle }}" onMouseEnter="{{ ex.onAnchorHoverEnter }}" onMouseLeave="{{ ex.onAnchorHoverLeave }}">{{ p.label }}</a>
-                        </sc-for>
-                      </sc-if>
-                      <sc-if value="{{ ex.pilcrowAfterTitle }}" hint-placeholder-val="{{ false }}">
-                        <a href="{{ ex.anchorHref }}" onClick="{{ ex.onAnchorClick }}" title="Link to this entry" style="color: var(--color-neutral-500); text-decoration: none; font-size: 12px; opacity: {{ ex.pilcrowOpacity }}; transition: opacity .15s;">¶</a>
-                      </sc-if>
+                      <dc-import name="EntryTitleLinks" parts="{{ ex.parts }}" on-mouse-enter="{{ ex.onAnchorHoverEnter }}" on-mouse-leave="{{ ex.onAnchorHoverLeave }}" pilcrow-href="{{ ex.anchorHref }}" on-pilcrow-click="{{ ex.onAnchorClick }}" pilcrow-opacity="{{ ex.pilcrowOpacity }}" show-pilcrow="{{ ex.pilcrowAfterTitle }}" hint-size="auto,20px" style="display: contents;"></dc-import>
                     </div>
                     <sc-if value="{{ ex.byline }}" hint-placeholder-val="{{ false }}">
                       <div style="display: flex; align-items: center; gap: var(--space-2); margin-top: 2px;">
@@ -434,14 +424,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                   <sc-if value="{{ g.alt.url }}" hint-placeholder-val="{{ false }}">
                     <a href="{{ g.alt.url }}" target="_blank" rel="noopener" style="font-size: 13px;" onMouseEnter="{{ g.alt.onAnchorHoverEnter }}" onMouseLeave="{{ g.alt.onAnchorHoverLeave }}">{{ g.alt.label }}</a>
                   </sc-if>
-                  <sc-if value="{{ g.alt.parts }}" hint-placeholder-val="{{ false }}">
-                    <sc-for list="{{ g.alt.parts }}" as="p" hint-placeholder-count="0">
-                      <a href="{{ p.url }}" target="_blank" rel="noopener" title="{{ p.tip }}" style="margin-right: var(--space-2); {{ p.smallStyle }}" onMouseEnter="{{ g.alt.onAnchorHoverEnter }}" onMouseLeave="{{ g.alt.onAnchorHoverLeave }}">{{ p.label }}</a>
-                    </sc-for>
-                  </sc-if>
-                  <sc-if value="{{ g.alt.pilcrowAfterTitle }}" hint-placeholder-val="{{ false }}">
-                    <a href="{{ g.alt.anchorHref }}" onClick="{{ g.alt.onAnchorClick }}" title="Link to this entry" style="color: var(--color-neutral-500); text-decoration: none; font-size: 12px; opacity: {{ g.alt.pilcrowOpacity }}; transition: opacity .15s;">¶</a>
-                  </sc-if>
+                  <dc-import name="EntryTitleLinks" parts="{{ g.alt.parts }}" on-mouse-enter="{{ g.alt.onAnchorHoverEnter }}" on-mouse-leave="{{ g.alt.onAnchorHoverLeave }}" pilcrow-href="{{ g.alt.anchorHref }}" on-pilcrow-click="{{ g.alt.onAnchorClick }}" pilcrow-opacity="{{ g.alt.pilcrowOpacity }}" show-pilcrow="{{ g.alt.pilcrowAfterTitle }}" hint-size="auto,20px" style="display: contents;"></dc-import>
                   <sc-if value="{{ g.alt.byline }}" hint-placeholder-val="{{ false }}">
                     <div onMouseEnter="{{ g.alt.onAnchorHoverEnter }}" onMouseLeave="{{ g.alt.onAnchorHoverLeave }}" style="color: var(--color-neutral-600); font-size: 12px; font-style: italic; margin-top: 1px;">{{ g.alt.byline }} <a href="{{ g.alt.anchorHref }}" onClick="{{ g.alt.onAnchorClick }}" title="Link to this entry" style="color: var(--color-neutral-500); text-decoration: none; opacity: {{ g.alt.pilcrowOpacity }}; transition: opacity .15s;">¶</a></div>
                   </sc-if>
@@ -525,11 +508,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                   <sc-if value="{{ alt.url }}" hint-placeholder-val="{{ false }}">
                     <a href="{{ alt.url }}" target="_blank" rel="noopener" style="font-size: 13px;">{{ alt.label }}</a>
                   </sc-if>
-                  <sc-if value="{{ alt.parts }}" hint-placeholder-val="{{ false }}">
-                    <sc-for list="{{ alt.parts }}" as="p" hint-placeholder-count="0">
-                      <a href="{{ p.url }}" target="_blank" rel="noopener" style="margin-right: var(--space-2); {{ p.smallStyle }}">{{ p.label }}</a>
-                    </sc-for>
-                  </sc-if>
+                  <dc-import name="EntryTitleLinks" parts="{{ alt.parts }}" show-pilcrow="{{ false }}" hint-size="auto,20px" style="display: contents;"></dc-import>
                   <sc-if value="{{ alt.emTerm }}" hint-placeholder-val="{{ false }}">
                     <div style="color: var(--color-neutral-500); font-size: 12px; margin-top: 2px;">{{ alt.emPre }}<em>{{ alt.emTerm }}</em>{{ alt.emPost }}<sc-if value="{{ alt.emTerm2 }}" hint-placeholder-val="{{ false }}"><em>{{ alt.emTerm2 }}</em>{{ alt.emPost2 }}</sc-if><sc-if value="{{ alt.emTerm3 }}" hint-placeholder-val="{{ false }}"><em>{{ alt.emTerm3 }}</em>{{ alt.emPost3 }}</sc-if></div>
                   </sc-if>
@@ -589,14 +568,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                       <sc-if value="{{ ex.url }}" hint-placeholder-val="{{ false }}">
                         <a href="{{ ex.url }}" target="_blank" rel="noopener" style="font-size: 13px;" onMouseEnter="{{ ex.onAnchorHoverEnter }}" onMouseLeave="{{ ex.onAnchorHoverLeave }}">{{ ex.label }}</a>
                       </sc-if>
-                      <sc-if value="{{ ex.parts }}" hint-placeholder-val="{{ false }}">
-                        <sc-for list="{{ ex.parts }}" as="p" hint-placeholder-count="0">
-                          <a href="{{ p.url }}" target="_blank" rel="noopener" style="margin-right: var(--space-2); {{ p.smallStyle }}" onMouseEnter="{{ ex.onAnchorHoverEnter }}" onMouseLeave="{{ ex.onAnchorHoverLeave }}">{{ p.label }}</a>
-                        </sc-for>
-                      </sc-if>
-                      <sc-if value="{{ ex.pilcrowAfterTitle }}" hint-placeholder-val="{{ false }}">
-                        <a href="{{ ex.anchorHref }}" onClick="{{ ex.onAnchorClick }}" title="Link to this entry" style="color: var(--color-neutral-500); text-decoration: none; font-size: 12px; opacity: {{ ex.pilcrowOpacity }}; transition: opacity .15s;">¶</a>
-                      </sc-if>
+                      <dc-import name="EntryTitleLinks" parts="{{ ex.parts }}" on-mouse-enter="{{ ex.onAnchorHoverEnter }}" on-mouse-leave="{{ ex.onAnchorHoverLeave }}" pilcrow-href="{{ ex.anchorHref }}" on-pilcrow-click="{{ ex.onAnchorClick }}" pilcrow-opacity="{{ ex.pilcrowOpacity }}" show-pilcrow="{{ ex.pilcrowAfterTitle }}" hint-size="auto,20px" style="display: contents;"></dc-import>
                     </div>
                     <sc-if value="{{ ex.byline }}" hint-placeholder-val="{{ false }}">
                       <div style="display: flex; align-items: center; gap: var(--space-2); margin-top: 2px;">
