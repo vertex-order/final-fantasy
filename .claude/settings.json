@@ -12,7 +12,10 @@
     "allow": [
       "Bash(grep -r *)",
       "Bash(grep -v *)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(git diff *)",
+      "Bash(git config *)",
+      "Bash(echo \"EXITCODE:$?\")"
     ],
     "additionalDirectories": [
       "\\tmp"
