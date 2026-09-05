@@ -351,15 +351,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                     <span style="color: var(--color-neutral-500);">Languages</span>
                     <span style="display: flex; flex-wrap: wrap; align-items: center; gap: 4px; margin-top: 2px;">
                       <sc-for list="{{ g.languages }}" as="lg" hint-placeholder-count="0">
-                        <sc-if value="{{ lg.voiceSep }}" hint-placeholder-val="{{ false }}">
-                          <span style="width: 1px; align-self: stretch; background: var(--color-neutral-700); margin: 0 2px;"></span>
-                        </sc-if>
-                        <sc-if value="{{ lg.url }}" hint-placeholder-val="{{ false }}">
-                          <a href="{{ lg.url }}" target="_blank" rel="noopener" title="{{ lg.tip }}" style="{{ lg.style }}" style-hover="text-decoration: underline; color: var(--color-accent);">{{ lg.value }}</a>
-                        </sc-if>
-                        <sc-if value="{{ !lg.url }}" hint-placeholder-val="{{ true }}">
-                          <abbr title="{{ lg.tip }}" style="{{ lg.style }}">{{ lg.value }}</abbr>
-                        </sc-if>
+                        <dc-import name="LanguageTag" value="{{ lg.value }}" tip="{{ lg.tip }}" url="{{ lg.url }}" voice-sep="{{ lg.voiceSep }}" active="{{ lg.active }}" hint-size="auto,16px" style="display: flex; align-items: center;"></dc-import>
                       </sc-for>
                     </span>
                   </span>
@@ -369,15 +361,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                     <span style="color: var(--color-neutral-600); font-size: 10.8px; font-style: italic; display: inline-flex; align-items: center; gap: 3px;">in other versions <span style="font-size: 8px; font-style: normal;">▾</span></span>
                     <span style="display: flex; flex-wrap: wrap; align-items: center; gap: 4px; opacity: 0.55;">
                       <sc-for list="{{ g.otherLanguages }}" as="lg" hint-placeholder-count="0">
-                        <sc-if value="{{ lg.voiceSep }}" hint-placeholder-val="{{ false }}">
-                          <span style="width: 1px; align-self: stretch; background: var(--color-neutral-700); margin: 0 2px;"></span>
-                        </sc-if>
-                        <sc-if value="{{ lg.url }}" hint-placeholder-val="{{ false }}">
-                          <a href="{{ lg.url }}" target="_blank" rel="noopener" title="{{ lg.tip }}" style="font-size: 10.8px; letter-spacing: 0.03em; text-transform: uppercase; cursor: default; text-decoration: none; color: var(--color-neutral-300);" style-hover="text-decoration: underline; color: var(--color-accent);">{{ lg.value }}</a>
-                        </sc-if>
-                        <sc-if value="{{ !lg.url }}" hint-placeholder-val="{{ true }}">
-                          <abbr title="{{ lg.tip }}" style="font-size: 10.8px; letter-spacing: 0.03em; text-transform: uppercase; cursor: default; text-decoration: none; color: var(--color-neutral-300);">{{ lg.value }}</abbr>
-                        </sc-if>
+                        <dc-import name="LanguageTag" value="{{ lg.value }}" tip="{{ lg.tip }}" url="{{ lg.url }}" voice-sep="{{ lg.voiceSep }}" muted="{{ true }}" hint-size="auto,16px" style="display: flex; align-items: center;"></dc-import>
                       </sc-for>
                     </span>
                   </span>
@@ -486,15 +470,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                         <span style="color: var(--color-neutral-500);">Languages</span>
                         <span style="display: flex; flex-wrap: wrap; align-items: center; gap: 4px; margin-top: 2px;">
                           <sc-for list="{{ ex.languages }}" as="lg" hint-placeholder-count="0">
-                            <sc-if value="{{ lg.voiceSep }}" hint-placeholder-val="{{ false }}">
-                              <span style="width: 1px; align-self: stretch; background: var(--color-neutral-700); margin: 0 2px;"></span>
-                            </sc-if>
-                            <sc-if value="{{ lg.url }}" hint-placeholder-val="{{ false }}">
-                          <a href="{{ lg.url }}" target="_blank" rel="noopener" title="{{ lg.tip }}" style="{{ lg.style }}" style-hover="text-decoration: underline; color: var(--color-accent);">{{ lg.value }}</a>
-                        </sc-if>
-                        <sc-if value="{{ !lg.url }}" hint-placeholder-val="{{ true }}">
-                          <abbr title="{{ lg.tip }}" style="{{ lg.style }}">{{ lg.value }}</abbr>
-                        </sc-if>
+                            <dc-import name="LanguageTag" value="{{ lg.value }}" tip="{{ lg.tip }}" url="{{ lg.url }}" voice-sep="{{ lg.voiceSep }}" active="{{ lg.active }}" hint-size="auto,16px" style="display: flex; align-items: center;"></dc-import>
                           </sc-for>
                         </span>
                       </span>
@@ -595,15 +571,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                       <span style="color: var(--color-neutral-500);">Languages</span>
                       <span style="display: flex; flex-wrap: wrap; align-items: center; gap: 4px; margin-top: 2px;">
                         <sc-for list="{{ g.alt.languages }}" as="lg" hint-placeholder-count="0">
-                          <sc-if value="{{ lg.voiceSep }}" hint-placeholder-val="{{ false }}">
-                            <span style="width: 1px; align-self: stretch; background: var(--color-neutral-700); margin: 0 2px;"></span>
-                          </sc-if>
-                          <sc-if value="{{ lg.url }}" hint-placeholder-val="{{ false }}">
-                          <a href="{{ lg.url }}" target="_blank" rel="noopener" title="{{ lg.tip }}" style="{{ lg.style }}" style-hover="text-decoration: underline; color: var(--color-accent);">{{ lg.value }}</a>
-                        </sc-if>
-                        <sc-if value="{{ !lg.url }}" hint-placeholder-val="{{ true }}">
-                          <abbr title="{{ lg.tip }}" style="{{ lg.style }}">{{ lg.value }}</abbr>
-                        </sc-if>
+                          <dc-import name="LanguageTag" value="{{ lg.value }}" tip="{{ lg.tip }}" url="{{ lg.url }}" voice-sep="{{ lg.voiceSep }}" active="{{ lg.active }}" hint-size="auto,16px" style="display: flex; align-items: center;"></dc-import>
                         </sc-for>
                       </span>
                     </span>
@@ -613,15 +581,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                       <span style="color: var(--color-neutral-600); font-size: 10.8px; font-style: italic; display: inline-flex; align-items: center; gap: 3px;">in other versions <span style="font-size: 8px; font-style: normal;">▾</span></span>
                       <span style="display: flex; flex-wrap: wrap; align-items: center; gap: 4px; opacity: 0.55;">
                         <sc-for list="{{ g.alt.otherLanguages }}" as="lg" hint-placeholder-count="0">
-                          <sc-if value="{{ lg.voiceSep }}" hint-placeholder-val="{{ false }}">
-                            <span style="width: 1px; align-self: stretch; background: var(--color-neutral-700); margin: 0 2px;"></span>
-                          </sc-if>
-                          <sc-if value="{{ lg.url }}" hint-placeholder-val="{{ false }}">
-                            <a href="{{ lg.url }}" target="_blank" rel="noopener" title="{{ lg.tip }}" style="font-size: 10.8px; letter-spacing: 0.03em; text-transform: uppercase; cursor: default; text-decoration: none; color: var(--color-neutral-300);" style-hover="text-decoration: underline; color: var(--color-accent);">{{ lg.value }}</a>
-                          </sc-if>
-                          <sc-if value="{{ !lg.url }}" hint-placeholder-val="{{ true }}">
-                            <abbr title="{{ lg.tip }}" style="font-size: 10.8px; letter-spacing: 0.03em; text-transform: uppercase; cursor: default; text-decoration: none; color: var(--color-neutral-300);">{{ lg.value }}</abbr>
-                          </sc-if>
+                          <dc-import name="LanguageTag" value="{{ lg.value }}" tip="{{ lg.tip }}" url="{{ lg.url }}" voice-sep="{{ lg.voiceSep }}" muted="{{ true }}" hint-size="auto,16px" style="display: flex; align-items: center;"></dc-import>
                         </sc-for>
                       </span>
                     </span>
@@ -701,15 +661,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                       <span style="color: var(--color-neutral-500);">Languages</span>
                       <span style="display: flex; flex-wrap: wrap; align-items: center; gap: 4px; margin-top: 2px;">
                         <sc-for list="{{ alt.languages }}" as="lg" hint-placeholder-count="0">
-                          <sc-if value="{{ lg.voiceSep }}" hint-placeholder-val="{{ false }}">
-                            <span style="width: 1px; align-self: stretch; background: var(--color-neutral-700); margin: 0 2px;"></span>
-                          </sc-if>
-                          <sc-if value="{{ lg.url }}" hint-placeholder-val="{{ false }}">
-                          <a href="{{ lg.url }}" target="_blank" rel="noopener" title="{{ lg.tip }}" style="{{ lg.style }}" style-hover="text-decoration: underline; color: var(--color-accent);">{{ lg.value }}</a>
-                        </sc-if>
-                        <sc-if value="{{ !lg.url }}" hint-placeholder-val="{{ true }}">
-                          <abbr title="{{ lg.tip }}" style="{{ lg.style }}">{{ lg.value }}</abbr>
-                        </sc-if>
+                          <dc-import name="LanguageTag" value="{{ lg.value }}" tip="{{ lg.tip }}" url="{{ lg.url }}" voice-sep="{{ lg.voiceSep }}" active="{{ lg.active }}" hint-size="auto,16px" style="display: flex; align-items: center;"></dc-import>
                         </sc-for>
                       </span>
                     </span>
@@ -820,15 +772,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
                         <span style="color: var(--color-neutral-500);">Languages</span>
                         <span style="display: flex; flex-wrap: wrap; align-items: center; gap: 4px; margin-top: 2px;">
                           <sc-for list="{{ ex.languages }}" as="lg" hint-placeholder-count="0">
-                            <sc-if value="{{ lg.voiceSep }}" hint-placeholder-val="{{ false }}">
-                              <span style="width: 1px; align-self: stretch; background: var(--color-neutral-700); margin: 0 2px;"></span>
-                            </sc-if>
-                            <sc-if value="{{ lg.url }}" hint-placeholder-val="{{ false }}">
-                          <a href="{{ lg.url }}" target="_blank" rel="noopener" title="{{ lg.tip }}" style="{{ lg.style }}" style-hover="text-decoration: underline; color: var(--color-accent);">{{ lg.value }}</a>
-                        </sc-if>
-                        <sc-if value="{{ !lg.url }}" hint-placeholder-val="{{ true }}">
-                          <abbr title="{{ lg.tip }}" style="{{ lg.style }}">{{ lg.value }}</abbr>
-                        </sc-if>
+                            <dc-import name="LanguageTag" value="{{ lg.value }}" tip="{{ lg.tip }}" url="{{ lg.url }}" voice-sep="{{ lg.voiceSep }}" active="{{ lg.active }}" hint-size="auto,16px" style="display: flex; align-items: center;"></dc-import>
                           </sc-for>
                         </span>
                       </span>
@@ -1251,7 +1195,7 @@ class Component extends DCLogic {
       }
       const active = isLangSelected(lg.value);
       const voiceSep = i > 0 && !!arr[i - 1].voice && !lg.voice;
-      return { ...lg, voiceSep, style: 'font-size: 10.8px; letter-spacing: 0.03em; text-transform: uppercase; cursor: default; text-decoration: none; ' + (active ? 'font-weight: 700; color: var(--color-text);' : 'color: var(--color-neutral-300);') };
+      return { ...lg, voiceSep, active, style: 'font-size: 10.8px; letter-spacing: 0.03em; text-transform: uppercase; cursor: default; text-decoration: none; ' + (active ? 'font-weight: 700; color: var(--color-text);' : 'color: var(--color-neutral-300);') };
     });
     const raw = this.state.rawSeries || [];
     const numWord = n => ({1:'one',2:'two',3:'three',4:'four',5:'five',6:'six',7:'seven',8:'eight'})[n] || String(n);
