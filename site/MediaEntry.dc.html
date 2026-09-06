@@ -71,7 +71,7 @@
         </ul>
       </sc-if>
     </div>
-    <sc-if value="{{ sideBySide }}" hint-placeholder-val="{{ true }}">
+    <sc-if value="{{ showCol2 }}" hint-placeholder-val="{{ true }}">
     <div style="width: 140px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 8px;">
       <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
       <dc-import name="RatingDisplay" rating="{{ g.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
@@ -124,7 +124,7 @@
         </span>
       </sc-if>
       </sc-if>
-      <sc-if value="{{ stacked }}" hint-placeholder-val="{{ false }}">
+      <sc-if value="{{ showStackedRl }}" hint-placeholder-val="{{ false }}">
       <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 7px;">
         <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
         <dc-import name="RatingDisplay" rating="{{ g.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
@@ -180,7 +180,7 @@
             <div style="color: var(--color-neutral-500); font-size: 12px; margin-top: 2px;">{{ ex.emPre }}<em>{{ ex.emTerm }}</em><sc-if value="{{ ex.emRegion1 }}" hint-placeholder-val="{{ false }}"><span title="{{ ex.emRegion1Label }}" style="cursor: help;"> ({{ ex.emRegion1 }})</span></sc-if>{{ ex.emPost }}<sc-if value="{{ ex.emTerm2 }}" hint-placeholder-val="{{ false }}"><em>{{ ex.emTerm2 }}</em><sc-if value="{{ ex.emRegion2 }}" hint-placeholder-val="{{ false }}"><span title="{{ ex.emRegion2Label }}" style="cursor: help;"> ({{ ex.emRegion2 }})</span></sc-if>{{ ex.emPost2 }}</sc-if><sc-if value="{{ ex.emTerm3 }}" hint-placeholder-val="{{ false }}"><em>{{ ex.emTerm3 }}</em><sc-if value="{{ ex.emRegion3 }}" hint-placeholder-val="{{ false }}"><span title="{{ ex.emRegion3Label }}" style="cursor: help;"> ({{ ex.emRegion3 }})</span></sc-if>{{ ex.emPost3 }}</sc-if><sc-if value="{{ ex.emSuffix }}" hint-placeholder-val="{{ false }}"><span title="{{ ex.emSuffixLabel }}" style="cursor: help;"> ({{ ex.emSuffix }})</span></sc-if>{{ ex.emPostFinal }}</div>
           </sc-if>
         </div>
-        <sc-if value="{{ sideBySide }}" hint-placeholder-val="{{ true }}">
+        <sc-if value="{{ showCol2 }}" hint-placeholder-val="{{ true }}">
         <div style="width: 140px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 8px;">
           <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
           <dc-import name="RatingDisplay" rating="{{ ex.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
@@ -210,7 +210,7 @@
               </span>
             </span>
           </sc-if>
-          <sc-if value="{{ stacked }}" hint-placeholder-val="{{ false }}">
+          <sc-if value="{{ showStackedRl }}" hint-placeholder-val="{{ false }}">
           <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 7px;">
             <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
             <dc-import name="RatingDisplay" rating="{{ ex.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
@@ -255,7 +255,7 @@
           <div style="color: var(--color-neutral-500); font-size: 12px; margin-top: 2px;">{{ g.alt.emPre }}<em>{{ g.alt.emTerm }}</em>{{ g.alt.emPost }}<sc-if value="{{ g.alt.emTerm2 }}" hint-placeholder-val="{{ false }}"><em>{{ g.alt.emTerm2 }}</em>{{ g.alt.emPost2 }}</sc-if><sc-if value="{{ g.alt.emTerm3 }}" hint-placeholder-val="{{ false }}"><em>{{ g.alt.emTerm3 }}</em>{{ g.alt.emPost3 }}</sc-if></div>
         </sc-if>
       </div>
-      <sc-if value="{{ sideBySide }}" hint-placeholder-val="{{ true }}">
+      <sc-if value="{{ showCol2 }}" hint-placeholder-val="{{ true }}">
       <div style="width: 140px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 8px;">
         <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
         <dc-import name="RatingDisplay" rating="{{ g.alt.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
@@ -308,7 +308,7 @@
           </span>
         </sc-if>
         </sc-if>
-        <sc-if value="{{ stacked }}" hint-placeholder-val="{{ false }}">
+        <sc-if value="{{ showStackedRl }}" hint-placeholder-val="{{ false }}">
         <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 7px;">
           <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
           <dc-import name="RatingDisplay" rating="{{ g.alt.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
@@ -339,7 +339,7 @@
           <div style="color: var(--color-neutral-500); font-size: 12px; margin-top: 2px;"><sc-for list="{{ alt.descParts }}" as="sg" hint-placeholder-count="0"><dc-import name="DescRun" tip="{{ sg.tip }}" help-style="{{ sg.helpStyle }}" em-link-text="{{ sg.emLinkText }}" em-link-url="{{ sg.emLinkUrl }}" em-text="{{ sg.emText }}" abbr-term="{{ sg.abbrTerm }}" abbr-def="{{ sg.abbrDef }}" text="{{ sg.text }}" tip-text="{{ sg.tipText }}" jp-tag="{{ sg.jpTag }}" hint-size="auto,16px" style="display: inline;"></dc-import></sc-for></div>
         </sc-if>
       </div>
-      <sc-if value="{{ sideBySide }}" hint-placeholder-val="{{ true }}">
+      <sc-if value="{{ showCol2 }}" hint-placeholder-val="{{ true }}">
       <div style="width: 140px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 8px;">
         <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
         <dc-import name="RatingDisplay" rating="{{ alt.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
@@ -372,7 +372,7 @@
           </span>
         </sc-if>
         </sc-if>
-        <sc-if value="{{ stacked }}" hint-placeholder-val="{{ false }}">
+        <sc-if value="{{ showStackedRl }}" hint-placeholder-val="{{ false }}">
         <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 7px;">
           <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
           <dc-import name="RatingDisplay" rating="{{ alt.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
@@ -429,7 +429,7 @@
             <div style="color: var(--color-neutral-500); font-size: 12px; margin-top: 2px;">{{ ex.emPre }}<em>{{ ex.emTerm }}</em><sc-if value="{{ ex.emRegion1 }}" hint-placeholder-val="{{ false }}"><span title="{{ ex.emRegion1Label }}" style="cursor: help;"> ({{ ex.emRegion1 }})</span></sc-if>{{ ex.emPost }}<sc-if value="{{ ex.emTerm2 }}" hint-placeholder-val="{{ false }}"><em>{{ ex.emTerm2 }}</em><sc-if value="{{ ex.emRegion2 }}" hint-placeholder-val="{{ false }}"><span title="{{ ex.emRegion2Label }}" style="cursor: help;"> ({{ ex.emRegion2 }})</span></sc-if>{{ ex.emPost2 }}</sc-if><sc-if value="{{ ex.emTerm3 }}" hint-placeholder-val="{{ false }}"><em>{{ ex.emTerm3 }}</em><sc-if value="{{ ex.emRegion3 }}" hint-placeholder-val="{{ false }}"><span title="{{ ex.emRegion3Label }}" style="cursor: help;"> ({{ ex.emRegion3 }})</span></sc-if>{{ ex.emPost3 }}</sc-if><sc-if value="{{ ex.emSuffix }}" hint-placeholder-val="{{ false }}"><span title="{{ ex.emSuffixLabel }}" style="cursor: help;"> ({{ ex.emSuffix }})</span></sc-if>{{ ex.emPostFinal }}</div>
           </sc-if>
         </div>
-        <sc-if value="{{ sideBySide }}" hint-placeholder-val="{{ true }}">
+        <sc-if value="{{ showCol2 }}" hint-placeholder-val="{{ true }}">
         <div style="width: 140px; flex-shrink: 0; font-size: 12px; color: var(--color-neutral-400); display: flex; flex-direction: column; gap: 8px;">
           <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
           <dc-import name="RatingDisplay" rating="{{ ex.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
@@ -459,7 +459,7 @@
               </span>
             </span>
           </sc-if>
-          <sc-if value="{{ stacked }}" hint-placeholder-val="{{ false }}">
+          <sc-if value="{{ showStackedRl }}" hint-placeholder-val="{{ false }}">
           <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 7px;">
             <sc-if value="{{ showRating }}" hint-placeholder-val="{{ true }}">
             <dc-import name="RatingDisplay" rating="{{ ex.rating }}" hint-size="auto,40px" style="display: block;"></dc-import>
@@ -476,6 +476,6 @@
   </sc-if>
 </div>
 </x-dc>
-<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;: {&quot;width&quot;: 700, &quot;height&quot;: 80}, &quot;g&quot;: {&quot;editor&quot;: null, &quot;default&quot;: null, &quot;tsType&quot;: &quot;object&quot;}, &quot;showRating&quot;: {&quot;editor&quot;: null, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;}, &quot;showLength&quot;: {&quot;editor&quot;: null, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;}, &quot;showPlatforms&quot;: {&quot;editor&quot;: null, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;}, &quot;showLanguages&quot;: {&quot;editor&quot;: null, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;}, &quot;sideBySide&quot;: {&quot;editor&quot;: null, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;}, &quot;stacked&quot;: {&quot;editor&quot;: null, &quot;default&quot;: false, &quot;tsType&quot;: &quot;boolean&quot;}}"></script>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;: {&quot;width&quot;: 700, &quot;height&quot;: 80}, &quot;g&quot;: {&quot;editor&quot;: null, &quot;default&quot;: null, &quot;tsType&quot;: &quot;object&quot;}, &quot;showRating&quot;: {&quot;editor&quot;: null, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;}, &quot;showLength&quot;: {&quot;editor&quot;: null, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;}, &quot;showPlatforms&quot;: {&quot;editor&quot;: null, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;}, &quot;showLanguages&quot;: {&quot;editor&quot;: null, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;}, &quot;showCol2&quot;: {&quot;editor&quot;: null, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;}, &quot;showStackedRl&quot;: {&quot;editor&quot;: null, &quot;default&quot;: false, &quot;tsType&quot;: &quot;boolean&quot;}}"></script>
 </body>
 </html>

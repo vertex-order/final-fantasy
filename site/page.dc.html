@@ -310,7 +310,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
     </div>
 
     <sc-for list="{{ series }}" as="s" hint-placeholder-count="16">
-      <dc-import name="SeriesSection" s="{{ s }}" show-rating="{{ showRating }}" show-length="{{ showLength }}" show-platforms="{{ showPlatforms }}" show-languages="{{ showLanguages }}" side-by-side="{{ sideBySide }}" stacked="{{ stacked }}" hint-size="auto,400px" style="display: block;"></dc-import>
+      <dc-import name="SeriesSection" s="{{ s }}" show-rating="{{ showRating }}" show-length="{{ showLength }}" show-platforms="{{ showPlatforms }}" show-languages="{{ showLanguages }}" side-by-side="{{ sideBySide }}" stacked="{{ stacked }}" show-col2="{{ showCol2 }}" show-stacked-rl="{{ showStackedRL }}" hint-size="auto,400px" style="display: block;"></dc-import>
     </sc-for>
 
     <div style="height: 1px; background: linear-gradient(to right, transparent, var(--color-neutral-700), transparent); margin-bottom: var(--space-4);"></div>
@@ -375,7 +375,7 @@ function copyrightYears() {
   return y > 2026 ? '2026\u2013' + y : '2026';
 }
 class Component extends DCLogic {
-  state = { expandedAlts: {}, expandedMainExtras: {}, checked: JSON.parse(localStorage.getItem('ffPlayOrderChecked') || '{}'), pathMode: localStorage.getItem('ffPlayOrderPath') || 'A', theme: localStorage.getItem('ffPlayOrderTheme') || null, systemLight: typeof matchMedia !== 'undefined' && matchMedia('(prefers-color-scheme: light)').matches, scrolled: false, activeAnchor: '', selectedLanguages: localStorage.getItem('ffPlayOrderSelectedLangs') ? JSON.parse(localStorage.getItem('ffPlayOrderSelectedLangs')) : null, langMenuOpen: false, showRating: JSON.parse(localStorage.getItem('ffPlayOrderShowRating') || 'true'), showLength: JSON.parse(localStorage.getItem('ffPlayOrderShowLength') || 'true'), showPlatforms: JSON.parse(localStorage.getItem('ffPlayOrderShowPlatforms') || 'true'), showLanguages: JSON.parse(localStorage.getItem('ffPlayOrderShowLanguages') || 'true'), navWidth: typeof window !== 'undefined' ? window.innerWidth : 1920 };
+  state = { expandedAlts: {}, expandedMainExtras: {}, checked: JSON.parse(localStorage.getItem('ffPlayOrderChecked') || '{}'), pathMode: localStorage.getItem('ffPlayOrderPath') || 'A', theme: localStorage.getItem('ffPlayOrderTheme') || null, systemLight: typeof matchMedia !== 'undefined' && matchMedia('(prefers-color-scheme: light)').matches, scrolled: false, activeAnchor: '', selectedLanguages: localStorage.getItem('ffPlayOrderSelectedLangs') ? JSON.parse(localStorage.getItem('ffPlayOrderSelectedLangs')) : null, langMenuOpen: false, showRating: localStorage.getItem('ffPlayOrderShowRating') !== null ? JSON.parse(localStorage.getItem('ffPlayOrderShowRating')) : null, showLength: localStorage.getItem('ffPlayOrderShowLength') !== null ? JSON.parse(localStorage.getItem('ffPlayOrderShowLength')) : null, showPlatforms: JSON.parse(localStorage.getItem('ffPlayOrderShowPlatforms') || 'true'), showLanguages: JSON.parse(localStorage.getItem('ffPlayOrderShowLanguages') || 'true'), navWidth: typeof window !== 'undefined' ? window.innerWidth : 1920 };
   seriesEls = {};
   langOrderDefault = ['JA', 'EN'];
   componentDidMount() {
@@ -431,7 +431,8 @@ class Component extends DCLogic {
   }
   toggleColumn(key) {
     this.setState(s => {
-      const val = !s[key];
+      const current = s[key] !== null && s[key] !== undefined ? s[key] : ((key === 'showRating' || key === 'showLength') ? (window.innerWidth >= (760 + 16 + 8 + 22)) : true);
+      const val = !current;
       localStorage.setItem('ffPlayOrder' + key.replace(/^show/, 'Show'), JSON.stringify(val));
       return { [key]: val };
     });
@@ -938,16 +939,19 @@ class Component extends DCLogic {
     const displayMenuOpen = !!this.state.displayMenuOpen;
     const toggleDisplayMenu = () => this.toggleDisplayMenu();
     const closeDisplayMenu = () => this.closeDisplayMenu();
-    const displayToggles = [
-      { key: 'showRating', label: 'Rating', checked: this.state.showRating !== false },
-      { key: 'showLength', label: 'Length', checked: this.state.showLength !== false },
-      { key: 'showPlatforms', label: 'Platforms', checked: this.state.showPlatforms !== false },
-      { key: 'showLanguages', label: 'Languages', checked: this.state.showLanguages !== false },
-    ].map(o => ({ ...o, toggle: () => this.toggleColumn(o.key) }));
-    const showRating = this.state.showRating !== false;
-    const showLength = this.state.showLength !== false;
+    const showRating = this.state.showRating !== null && this.state.showRating !== undefined ? this.state.showRating : !stacked;
+    const showLength = this.state.showLength !== null && this.state.showLength !== undefined ? this.state.showLength : !stacked;
     const showPlatforms = this.state.showPlatforms !== false;
     const showLanguages = this.state.showLanguages !== false;
+    const showRatingOrLength = showRating || showLength;
+    const showCol2 = sideBySide && showRatingOrLength;
+    const showStackedRL = stacked && showRatingOrLength;
+    const displayToggles = [
+      { key: 'showRating', label: 'Rating', checked: showRating },
+      { key: 'showLength', label: 'Length', checked: showLength },
+      { key: 'showPlatforms', label: 'Platforms', checked: showPlatforms },
+      { key: 'showLanguages', label: 'Languages', checked: showLanguages },
+    ].map(o => ({ ...o, toggle: () => this.toggleColumn(o.key) }));
     const mainlineCount = raw.filter(s => (s.games || []).some(g => g.mainline)).length;
     const mediaCounts = {};
     const mediaChecked = {};
@@ -991,7 +995,7 @@ class Component extends DCLogic {
       comics: statVal('Comic'),
       radioDramas: statVal('Audio'),
     };
-    return { lastUpdatedLong, lastUpdatedShort, copyrightYearsStr, series: displaySeries, platformLegend: this.platformLegend, pathOptions, effectiveTheme, themeIcon, toggleTheme, navShowLanguages, navShowTheme, navShowDisplay, navShowTitle, navShowCheckList, navShowOrder, navShowJump, themeMarginLeft, navTitleMarginLeft, navToggleMarginRight, navAnyHidden, navReservedRightPx, navFloatingWidgetMarginRight, navHamburgerTopPx, sideBySide, stacked, hideTitleInMenu, hideOrderInMenu, hideJumpInMenu, hideLanguagesInMenu, hideDisplayInMenu, hideCheckListInMenu, hideThemeInMenu, hamburgerOpen, toggleHamburgerMenu, closeHamburgerMenu, mode, onOrderChange, onJumpChange, scrolled: this.state.scrolled, notScrolled, jumpRef, activeAnchor: this.state.activeAnchor, languageOptions, langMenuOpen, toggleLangMenu, closeLangMenu, displayMenuOpen, toggleDisplayMenu, closeDisplayMenu, introStats, navProgress, displayToggles, showRating, showLength, showPlatforms, showLanguages, headerAnchors, faqItems: window.FAQ_ITEMS || [], helpWantedItems: window.HELP_WANTED_ITEMS || [] };
+    return { lastUpdatedLong, lastUpdatedShort, copyrightYearsStr, series: displaySeries, platformLegend: this.platformLegend, pathOptions, effectiveTheme, themeIcon, toggleTheme, navShowLanguages, navShowTheme, navShowDisplay, navShowTitle, navShowCheckList, navShowOrder, navShowJump, themeMarginLeft, navTitleMarginLeft, navToggleMarginRight, navAnyHidden, navReservedRightPx, navFloatingWidgetMarginRight, navHamburgerTopPx, sideBySide, stacked, showCol2, showStackedRL, hideTitleInMenu, hideOrderInMenu, hideJumpInMenu, hideLanguagesInMenu, hideDisplayInMenu, hideCheckListInMenu, hideThemeInMenu, hamburgerOpen, toggleHamburgerMenu, closeHamburgerMenu, mode, onOrderChange, onJumpChange, scrolled: this.state.scrolled, notScrolled, jumpRef, activeAnchor: this.state.activeAnchor, languageOptions, langMenuOpen, toggleLangMenu, closeLangMenu, displayMenuOpen, toggleDisplayMenu, closeDisplayMenu, introStats, navProgress, displayToggles, showRating, showLength, showPlatforms, showLanguages, headerAnchors, faqItems: window.FAQ_ITEMS || [], helpWantedItems: window.HELP_WANTED_ITEMS || [] };
   }
 }
 </script>
