@@ -82,16 +82,26 @@ something there needs to change.
 ## Edit a `.dc.html` component
 
 The sibling components (`EntryTitleLinks.dc.html`, `PlatformIcon.dc.html`,
-`SeriesSection.dc.html`, …) are the render layer. If you change one, you
-must regenerate [`site/components.js`](site/components.js) — a build
-artifact that inlines every component so `page.dc.html` also works opened
-straight off disk (`file://`).
+`SeriesSection.dc.html`, …) are the render layer. If you change one,
+regenerate [`site/components.js`](site/components.js) — a build artifact
+that inlines every component so `page.dc.html` also works opened straight
+off disk (`file://`):
 
 ```sh
 just build          # or: just bundle-components
 ```
 
-The pre-commit hook does this automatically if you ran `just install-hooks`.
+The pre-commit hook does this automatically if you ran `just install-hooks`,
+and CI ([`check-generated.yml`](.github/workflows/check-generated.yml))
+fails your PR if it's stale — so if you forget, run `just build` and commit
+the result.
+
+`page.dc.html` loads `components.js` **only over `file://`**. When you
+preview over http (`just serve`, `python -m http.server`, any static
+server) the runtime fetches each `*.dc.html` live, so your component edits
+show up on reload whether or not you regenerated the bundle — regenerating
+just keeps the committed file honest.
+
 **Never hand-edit `components.js`.** Working without a shell (e.g. inside a
 design tool)? See the header comment at the top of `components.js` for the
 by-hand procedure, and [`.claude/CLAUDE.md`](.claude/CLAUDE.md).
@@ -100,9 +110,11 @@ by-hand procedure, and [`.claude/CLAUDE.md`](.claude/CLAUDE.md).
 
 Simplest — open [`site/page.dc.html`](site/page.dc.html) directly in a
 browser (`file://`). `components.js` plus the classic-script data layer make
-that work with no server.
+that work with no server. Off disk the page depends on `components.js` being
+current, so run `just build` after editing any `*.dc.html`.
 
-To preview the way it deploys, serve `site/` over http:
+To preview the way it deploys — and so component edits load live without a
+rebuild — serve `site/` over http:
 
 ```sh
 cd site && python -m http.server 8000
@@ -150,6 +162,9 @@ site/
 scripts/bundle-components.py   regenerates site/components.js
 justfile                       build / bundle-components / serve / clean / install-hooks
 .githooks/pre-commit           strips image metadata, regenerates components.js
+.github/workflows/
+├── static.yml                 build + deploy site/ to Pages on push to main
+└── check-generated.yml        PR check: fails if components.js is out of date
 ```
 
 ## Appendix: deploy internals

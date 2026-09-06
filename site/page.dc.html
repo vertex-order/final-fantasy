@@ -9,7 +9,16 @@
 <script src="./data/index.js"></script>
 <script src="./data/faq.js"></script>
 <script src="./data/help-wanted.js"></script>
-<script src="./components.js"></script>
+<script>
+  /* components.js is a generated bundle that inlines every sibling *.dc.html so
+     <dc-import> resolves without fetch(), which browsers block on file:// only.
+     Over http(s) (GitHub Pages, `just serve`, Claude Design) the runtime fetches
+     each *.dc.html live — always fresh, no stale-bundle risk — so load the
+     bundle solely off disk. See CONTRIBUTING.md "Edit a .dc.html component". */
+  if (location.protocol === 'file:') {
+    document.write('<script src="./components.js"><\/script>');
+  }
+</script>
 </head>
 <body>
 <x-dc>

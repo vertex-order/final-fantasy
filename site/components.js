@@ -4,6 +4,11 @@
 // <dc-import> resolves without a fetch(), which browsers block on file://
 // origins. The *.dc.html files are the single source of truth.
 //
+// page.dc.html loads this ONLY on file:// (see its inline guard). Over
+// http(s) — Pages, `just serve`, Claude Design — the runtime fetches each
+// *.dc.html live, so a stale bundle can't cause wrong rendering there;
+// regenerate it to keep the committed artifact diff-clean (CI enforces).
+//
 // Regenerate whenever a sibling *.dc.html is added / changed / removed:
 //   - Full repo checkout:  `just build`  (or `python3 scripts/bundle-components.py`).
 //     The pre-commit hook also does it. See CONTRIBUTING.md.

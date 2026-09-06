@@ -21,7 +21,15 @@ just build          # or: just bundle-components  /  python3 scripts/bundle-comp
 ```
 
 The pre-commit hook in `.githooks/` also does this (run `just install-hooks`
-once per clone). Never hand-edit `components.js`.
+once per clone), and CI
+([`check-generated.yml`](.github/workflows/check-generated.yml)) fails any PR
+where it's out of date. Never hand-edit `components.js`.
+
+`page.dc.html` loads `components.js` **only over `file://`** — it's just the
+fallback for opening the page straight off disk, where `fetch()` of sibling
+`*.dc.html` is blocked. Over http(s) (`just serve`, Pages, any preview) the
+runtime fetches each `*.dc.html` live, so a stale bundle never changes what
+renders — it only needs regenerating to keep the committed file diff-clean.
 
 ## What's editable vs vendored
 
