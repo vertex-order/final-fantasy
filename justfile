@@ -1,5 +1,5 @@
 # Build the deployable site into build/ (gitignored, matches CI).
-build: bundle-components
+build: strip-metadata bundle-components
     rm -rf build
     mkdir build
     cp -r site/. build/
