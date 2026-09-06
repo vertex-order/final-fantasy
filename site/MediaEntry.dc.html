@@ -7,13 +7,13 @@
 </head>
 <body>
 <x-dc>
-<div id="{{ g.anchorId }}" data-entry-key="{{ g.entryKey }}" style="display: flex; flex-direction: column; position: relative;">
+<div id="{{ g.anchorId }}" data-entry-key="{{ g.entryKey }}" style="display: flex; flex-direction: column; position: relative; {{ g.wrapCompletedStyle }}">
   <sc-if value="{{ g.mediaType }}" hint-placeholder-val="{{ false }}">
     <span style="position: absolute; left: -16px; top: 0; bottom: 0; width: 16px; border-radius: 0; background: {{ g.typeBg }}; display: flex; align-items: center; justify-content: center; padding-left: 2px; overflow: hidden; pointer-events: none;">
       <span style="writing-mode: vertical-rl; transform: rotate(180deg); font-size: 9px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: {{ g.typeColor }}; white-space: nowrap;">{{ g.mediaType }}</span>
     </span>
   </sc-if>
-  <div style="display: flex; align-items: flex-start; gap: var(--space-3); padding: var(--space-3) var(--space-3) var(--space-3) calc(16px + var(--space-3)); border-radius: var(--radius-md);" style-hover="background: var(--color-neutral-800);">
+  <div style="display: flex; align-items: flex-start; gap: var(--space-3); padding: var(--space-3) var(--space-3) var(--space-3) calc(16px + var(--space-3)); border-radius: 0 var(--radius-md) var(--radius-md) 0; {{ g.rowCompletedStyle }}" style-hover="background: linear-gradient(to right, transparent 2px, var(--color-neutral-800) 2px);">
     <sc-if value="{{ g.showCheckbox }}" hint-placeholder-val="{{ false }}">
       <input type="checkbox" checked="{{ g.checked }}" onChange="{{ g.toggleChecked }}" style="width: 18px; height: 18px; flex-shrink: 0; margin-top: 1px; margin-left: -6px; accent-color: var(--color-accent); cursor: pointer;">
     </sc-if>
