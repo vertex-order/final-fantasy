@@ -310,7 +310,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
     </div>
 
     <sc-for list="{{ series }}" as="s" hint-placeholder-count="16">
-      <dc-import name="SeriesSection" s="{{ s }}" show-rating="{{ showRating }}" show-length="{{ showLength }}" show-platforms="{{ showPlatforms }}" show-languages="{{ showLanguages }}" hint-size="auto,400px" style="display: block;"></dc-import>
+      <dc-import name="SeriesSection" s="{{ s }}" show-rating="{{ showRating }}" show-length="{{ showLength }}" show-platforms="{{ showPlatforms }}" show-languages="{{ showLanguages }}" side-by-side="{{ sideBySide }}" stacked="{{ stacked }}" hint-size="auto,400px" style="display: block;"></dc-import>
     </sc-for>
 
     <div style="height: 1px; background: linear-gradient(to right, transparent, var(--color-neutral-700), transparent); margin-bottom: var(--space-4);"></div>
@@ -643,6 +643,9 @@ class Component extends DCLogic {
     const navAnyHidden = !(navShowTitle && navShowOrder && navShowJump && navShowLanguages && navShowDisplay && navShowCheckList && navShowTheme);
     const navReservedRightPx = navAnyHidden ? '44px' : '0px';
     const navFloatingWidgetMarginRight = navAnyHidden ? '0px' : '-109.4px';
+    const ROW_STACK_BREAKPOINT = NAV_CONTENT_WIDTH + 16 + 8 + 22; // content col + media-type strip + gap + side padding
+    const stacked = navWidth < ROW_STACK_BREAKPOINT;
+    const sideBySide = !stacked;
     const navHamburgerTopPx = this.state.scrolled ? '4px' : 'var(--space-3)';
     const hideTitleInMenu = !navShowTitle;
     const hideOrderInMenu = !navShowOrder;
@@ -988,7 +991,7 @@ class Component extends DCLogic {
       comics: statVal('Comic'),
       radioDramas: statVal('Audio'),
     };
-    return { lastUpdatedLong, lastUpdatedShort, copyrightYearsStr, series: displaySeries, platformLegend: this.platformLegend, pathOptions, effectiveTheme, themeIcon, toggleTheme, navShowLanguages, navShowTheme, navShowDisplay, navShowTitle, navShowCheckList, navShowOrder, navShowJump, themeMarginLeft, navTitleMarginLeft, navToggleMarginRight, navAnyHidden, navReservedRightPx, navFloatingWidgetMarginRight, navHamburgerTopPx, hideTitleInMenu, hideOrderInMenu, hideJumpInMenu, hideLanguagesInMenu, hideDisplayInMenu, hideCheckListInMenu, hideThemeInMenu, hamburgerOpen, toggleHamburgerMenu, closeHamburgerMenu, mode, onOrderChange, onJumpChange, scrolled: this.state.scrolled, notScrolled, jumpRef, activeAnchor: this.state.activeAnchor, languageOptions, langMenuOpen, toggleLangMenu, closeLangMenu, displayMenuOpen, toggleDisplayMenu, closeDisplayMenu, introStats, navProgress, displayToggles, showRating, showLength, showPlatforms, showLanguages, headerAnchors, faqItems: window.FAQ_ITEMS || [], helpWantedItems: window.HELP_WANTED_ITEMS || [] };
+    return { lastUpdatedLong, lastUpdatedShort, copyrightYearsStr, series: displaySeries, platformLegend: this.platformLegend, pathOptions, effectiveTheme, themeIcon, toggleTheme, navShowLanguages, navShowTheme, navShowDisplay, navShowTitle, navShowCheckList, navShowOrder, navShowJump, themeMarginLeft, navTitleMarginLeft, navToggleMarginRight, navAnyHidden, navReservedRightPx, navFloatingWidgetMarginRight, navHamburgerTopPx, sideBySide, stacked, hideTitleInMenu, hideOrderInMenu, hideJumpInMenu, hideLanguagesInMenu, hideDisplayInMenu, hideCheckListInMenu, hideThemeInMenu, hamburgerOpen, toggleHamburgerMenu, closeHamburgerMenu, mode, onOrderChange, onJumpChange, scrolled: this.state.scrolled, notScrolled, jumpRef, activeAnchor: this.state.activeAnchor, languageOptions, langMenuOpen, toggleLangMenu, closeLangMenu, displayMenuOpen, toggleDisplayMenu, closeDisplayMenu, introStats, navProgress, displayToggles, showRating, showLength, showPlatforms, showLanguages, headerAnchors, faqItems: window.FAQ_ITEMS || [], helpWantedItems: window.HELP_WANTED_ITEMS || [] };
   }
 }
 </script>
