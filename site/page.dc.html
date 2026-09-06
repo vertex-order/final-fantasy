@@ -71,6 +71,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
 </style>
 </helmet>
 <div data-theme="{{ effectiveTheme }}" style="background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); min-height: 100vh;">
+  <span id="top" style="position: absolute; top: 0; left: 0;"></span>
   <sc-if value="{{ scrolled }}" hint-placeholder-val="{{ false }}">
     <div style="position: fixed; top: 0; left: 0; right: 0; z-index: 20; height: 44px; background: var(--color-surface); border-bottom: 1px solid var(--color-divider);">
     <div style="max-width: 760px; margin: 0 auto; height: 44px; display: flex; align-items: center; gap: var(--space-3); padding: 0 var(--space-4); padding-right: calc(var(--space-4) + {{ navReservedRightPx }});">
@@ -89,6 +90,8 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
       </sc-if>
       <sc-if value="{{ navShowJump }}" hint-placeholder-val="{{ true }}">
       <select value="{{ activeAnchor }}" onChange="{{ onJumpChange }}" style="font-size: 12px; height: 26px; border-radius: var(--radius-sm); border: 1px solid var(--color-divider); background: var(--color-surface); color: var(--color-text); padding: 0 6px; max-width: 160px;">
+        <option value="#top">Top</option>
+        <option value="#order-to-display">Settings</option>
         <option value="" disabled="">Jump to series…</option>
         <sc-for list="{{ series }}" as="s" hint-placeholder-count="16">
           <option value="{{ s.anchor }}">{{ s.num }} — {{ s.title }}</option>
@@ -188,6 +191,8 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
         </sc-if>
         <sc-if value="{{ hideJumpInMenu }}" hint-placeholder-val="{{ false }}">
         <select value="{{ activeAnchor }}" onChange="{{ onJumpChange }}" style="font-size: 12px; height: 30px; border-radius: var(--radius-sm); border: 1px solid var(--color-divider); background: var(--color-surface); color: var(--color-text); padding: 0 6px; width: 100%;">
+          <option value="#top">Top</option>
+          <option value="#order-to-display">Settings</option>
           <option value="" disabled="">Jump to series…</option>
           <sc-for list="{{ series }}" as="s" hint-placeholder-count="16">
             <option value="{{ s.anchor }}">{{ s.num }} — {{ s.title }}</option>
@@ -264,7 +269,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
     </div>
 
     <div style="max-width: 620px; margin: 0 0 var(--space-6); display: flex; flex-direction: column; gap: var(--space-2);">
-      <p style="color: var(--color-neutral-500); font-size: 13px; margin: 0;">Order to display:</p>
+      <p id="order-to-display" style="color: var(--color-neutral-500); font-size: 13px; margin: 0;">Order to display:</p>
       <div style="display: flex; flex-wrap: wrap; gap: var(--space-4);">
         <sc-for list="{{ pathOptions }}" as="po" hint-placeholder-count="3">
           <label style="display: flex; align-items: center; gap: 6px; cursor: pointer; font-size: 14px; color: var(--color-neutral-300);">
