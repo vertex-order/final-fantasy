@@ -534,6 +534,8 @@ class Component extends DCLogic {
     return bestKey;
   }
   toggleChecked(key) {
+    const willUncheck = !!this.state.checked[key];
+    if (willUncheck && !window.confirm('Mark this as not completed?')) return;
     this.setState(s => {
       const newVal = !s.checked[key];
       const group = (this.dupGroups && this.dupGroups[key]) || [key];
