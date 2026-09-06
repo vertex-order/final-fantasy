@@ -10,3 +10,6 @@ build/
 .thumbnail
 
 site/github.md
+site/CLAUDE.md
+site/.claude/
+site/uploads/
