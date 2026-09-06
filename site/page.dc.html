@@ -8,6 +8,7 @@
 <script src="./support.js"></script>
 <script src="./data/index.js"></script>
 <script src="./data/faq.js"></script>
+<script src="./data/help-wanted.js"></script>
 <script src="./components.js"></script>
 </head>
 <body>
@@ -212,18 +213,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
 
     <dc-import name="FAQ" items="{{ faqItems }}" hint-size="auto,400px" style="display: block;"></dc-import>
 
-    <h3 id="help-wanted" style="font-family: var(--font-heading); font-weight: 500; font-size: 14px; letter-spacing: 0.06em; color: var(--color-neutral-400); margin: 0 0 var(--space-2); scroll-margin-top: 60px;">HELP WANTED</h3>
-    <ul style="color: var(--color-neutral-500); font-size: 12px; line-height: 1.7; margin: 0 0 var(--space-6); padding-left: 1.2em;">
-      <li>Add Physical platform release options</li>
-      <li>Add Digital platform release options</li>
-      <li>Extra languages for European releases (esp. old games), and non-machine fan translations</li>
-      <li>Extra languages from book editions (goodreads is done) and non-machine fan translations</li>
-      <li>Need a good narrative order and chronological order for the XI books</li>
-      <li>Improve story intros / release differences (keep it high level)</li>
-      <li>Better search terms for search links (e.g. Movie, Recap, Playthrough)</li>
-      <li>Identify human mistakes and missing information</li>
-      <li>Correct AI hallucinations and improper unrequested changes</li>
-    </ul>
+    <dc-import name="HelpWanted" items="{{ helpWantedItems }}" hint-size="auto,220px" style="display: block;"></dc-import>
 
     <h3 style="font-family: var(--font-heading); font-weight: 500; font-size: 14px; letter-spacing: 0.06em; color: var(--color-neutral-400); margin: 0 0 var(--space-2);">PLATFORMS</h3>
     <div style="position: relative; margin: 0 0 var(--space-6);">
@@ -854,7 +844,7 @@ class Component extends DCLogic {
       comics: statVal('Comic'),
       radioDramas: statVal('Audio'),
     };
-    return { lastUpdatedLong, lastUpdatedShort, copyrightYearsStr, series: displaySeries, platformLegend: this.platformLegend, pathOptions, effectiveTheme, themeIcon, toggleTheme, mode, onOrderChange, onJumpChange, scrolled: this.state.scrolled, notScrolled, jumpRef, activeAnchor: this.state.activeAnchor, languageOptions, langMenuOpen, toggleLangMenu, closeLangMenu, displayMenuOpen, toggleDisplayMenu, closeDisplayMenu, introStats, navProgress, displayToggles, showRating, showLength, showPlatforms, showLanguages, headerAnchors, faqItems: window.FAQ_ITEMS || [] };
+    return { lastUpdatedLong, lastUpdatedShort, copyrightYearsStr, series: displaySeries, platformLegend: this.platformLegend, pathOptions, effectiveTheme, themeIcon, toggleTheme, mode, onOrderChange, onJumpChange, scrolled: this.state.scrolled, notScrolled, jumpRef, activeAnchor: this.state.activeAnchor, languageOptions, langMenuOpen, toggleLangMenu, closeLangMenu, displayMenuOpen, toggleDisplayMenu, closeDisplayMenu, introStats, navProgress, displayToggles, showRating, showLength, showPlatforms, showLanguages, headerAnchors, faqItems: window.FAQ_ITEMS || [], helpWantedItems: window.HELP_WANTED_ITEMS || [] };
   }
 }
 </script>
