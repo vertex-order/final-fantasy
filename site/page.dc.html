@@ -723,9 +723,9 @@ class Component extends DCLogic {
     });
     const raw = this.state.rawSeries || [];
     const numWord = n => ({1:'one',2:'two',3:'three',4:'four',5:'five',6:'six',7:'seven',8:'eight'})[n] || String(n);
-    const mapParts = parts => parts.map(p => ({
+    const mapParts = (parts, forceStrike) => parts.map(p => ({
       ...p,
-      smallStyle: ((/Pixel Remaster/.test(p.label) || p.small) ? 'font-size:12px;color:var(--color-neutral-400);' : '') + (p.strike ? 'text-decoration: line-through;' : '') + (p.italic ? 'font-style: italic;' : ''),
+      smallStyle: ((/Pixel Remaster/.test(p.label) || p.small) ? 'font-size:12px;color:var(--color-neutral-400);' : '') + ((p.strike || forceStrike) ? 'text-decoration: line-through; text-decoration-thickness: 2px; text-decoration-color: var(--color-neutral-500);' : '') + (p.italic ? 'font-style: italic;' : ''),
     }));
     const mediaLabels = { Game: ['game', 'games'], Expansion: ['expansion & DLC', 'expansions & DLC'], Book: ['book', 'books'], Comic: ['comic', 'comics'], Movie: ['movie & video', 'movies & videos'], Audio: ['audio drama', 'audio dramas'] };
     const buildSummary = (games, seriesNum, checkedFn) => {
@@ -790,9 +790,11 @@ class Component extends DCLogic {
         emTermFirst: g.emTerm && !g.emTermNotFirst,
         ...this.buildPilcrow('entry-' + s.num + '-' + i, false),
         checked: !!this.state.checked[s.num + '-' + i],
+        rowCompletedStyle: this.state.checked[s.num + '-' + i] ? 'background: linear-gradient(to right, transparent 2px, color-mix(in srgb, var(--color-accent) 6%, transparent) 2px);' : '',
+        wrapCompletedStyle: this.state.checked[s.num + '-' + i] ? 'opacity: 0.5;' : '',
         showCheckbox: !g.noCheckbox,
         toggleChecked: () => this.toggleChecked(s.num + '-' + i),
-        parts: mapParts(g.parts || [{ label: g.title, url: null }]),
+        parts: mapParts(g.parts || [{ label: g.title, url: null }], !!this.state.checked[s.num + '-' + i]),
         platformGroups: (g.platformGroups || g.platforms)
           && this.sortPls((g.platformGroups ? g.platformGroups.flat() : g.platforms).map(pl => ({ ...pl, href: pl.url || g.platformsUrl }))),
         langsTopStyle: (g.extras || (g.alt && g.alt.extras)) ? 'border-top: 1px dashed var(--color-neutral-700); padding-top: 6px;' : '',
