@@ -74,15 +74,20 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
   <sc-if value="{{ scrolled }}" hint-placeholder-val="{{ false }}">
     <div style="position: fixed; top: 0; left: 0; right: 0; z-index: 20; height: 44px; background: var(--color-surface); border-bottom: 1px solid var(--color-divider);">
     <div style="max-width: 760px; margin: 0 auto; height: 44px; display: flex; align-items: center; gap: var(--space-3); padding: 0 var(--space-4);">
-      <div style="display: flex; flex-direction: column; justify-content: center; gap: 1px; margin-top: 6px; margin-left: -96px;">
+      <sc-if value="{{ navShowTitle }}" hint-placeholder-val="{{ true }}">
+      <div style="display: flex; flex-direction: column; justify-content: center; gap: 1px; margin-top: 6px; margin-left: {{ navTitleMarginLeft }};">
         <span style="font-family: var(--font-heading); font-weight: 500; font-size: 13px; line-height: 1; white-space: nowrap; color: var(--color-text);">Final Fantasy <span title="Vertex Industries, that's us!">Vertex</span> Order</span>
         <span style="font-size: 9px; line-height: 1; white-space: nowrap; color: var(--color-neutral-600); margin-top: 2px;">Updated: {{ lastUpdatedShort }}</span>
       </div>
+      </sc-if>
+      <sc-if value="{{ navShowOrder }}" hint-placeholder-val="{{ true }}">
       <select value="{{ mode }}" onChange="{{ onOrderChange }}" style="font-size: 12px; height: 26px; border-radius: var(--radius-sm); border: 1px solid var(--color-divider); background: var(--color-surface); color: var(--color-text); padding: 0 6px;">
         <sc-for list="{{ pathOptions }}" as="po" hint-placeholder-count="3">
           <option value="{{ po.key }}">{{ po.shortLabel }}</option>
         </sc-for>
       </select>
+      </sc-if>
+      <sc-if value="{{ navShowJump }}" hint-placeholder-val="{{ true }}">
       <select value="{{ activeAnchor }}" onChange="{{ onJumpChange }}" style="font-size: 12px; height: 26px; border-radius: var(--radius-sm); border: 1px solid var(--color-divider); background: var(--color-surface); color: var(--color-text); padding: 0 6px; max-width: 160px;">
         <option value="" disabled="">Jump to series…</option>
         <sc-for list="{{ series }}" as="s" hint-placeholder-count="16">
@@ -91,6 +96,8 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
         <option value="#faq">FAQ</option>
         <option value="#help-wanted">Help Wanted</option>
       </select>
+      </sc-if>
+      <sc-if value="{{ navShowLanguages }}" hint-placeholder-val="{{ true }}">
       <div style="position: relative;">
         <button onClick="{{ toggleLangMenu }}" style="font-size: 12px; height: 26px; border-radius: var(--radius-sm); border: 1px solid var(--color-divider); background: var(--color-surface); color: var(--color-text); padding: 0 8px; display: flex; align-items: center; gap: 4px; cursor: pointer;">
           Languages<i class="bi bi-chevron-down" style="font-size: 9px;"></i>
@@ -108,6 +115,8 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
           </div>
         </sc-if>
       </div>
+      </sc-if>
+      <sc-if value="{{ navShowDisplay }}" hint-placeholder-val="{{ true }}">
       <div style="position: relative;">
         <button onClick="{{ toggleDisplayMenu }}" style="font-size: 12px; height: 26px; border-radius: var(--radius-sm); border: 1px solid var(--color-divider); background: var(--color-surface); color: var(--color-text); padding: 0 8px; display: flex; align-items: center; gap: 4px; cursor: pointer;">
           Display<i class="bi bi-chevron-down" style="font-size: 9px;"></i>
@@ -124,13 +133,18 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
           </div>
         </sc-if>
       </div>
+      </sc-if>
       <sc-if value="{{ navProgress }}" hint-placeholder-val="{{ false }}">
         <span style="font-size: 12px; color: var(--color-neutral-400); white-space: nowrap; width: 130px; flex-shrink: 0;">{{ navProgress }}</span>
       </sc-if>
+      <sc-if value="{{ navShowCheckList }}" hint-placeholder-val="{{ true }}">
       <a href="https://vertex-order.github.io" target="_blank" rel="noopener" title="More lists from Vertex Industries" style="margin-left: auto; margin-right: 8px; display: flex; align-items: center; height: 26px; font-size: 11px; line-height: 1.15; text-align: right; color: var(--color-neutral-400); text-decoration: none; white-space: nowrap;">Check out our<br>other lists ↗</a>
-      <button onClick="{{ toggleTheme }}" title="Toggle light/dark mode" style="width: 26px; height: 26px; flex-shrink: 0; border-radius: var(--radius-sm); border: 1px solid var(--color-divider); background: var(--color-surface); color: var(--color-text); display: flex; align-items: center; justify-content: center; cursor: pointer; font-size: 13px; margin-right: -96px;">
+      </sc-if>
+      <sc-if value="{{ navShowTheme }}" hint-placeholder-val="{{ true }}">
+      <button onClick="{{ toggleTheme }}" title="Toggle light/dark mode" style="width: 26px; height: 26px; flex-shrink: 0; border-radius: var(--radius-sm); border: 1px solid var(--color-divider); background: var(--color-surface); color: var(--color-text); display: flex; align-items: center; justify-content: center; cursor: pointer; font-size: 13px; margin-right: {{ navToggleMarginRight }}; margin-left: {{ themeMarginLeft }};">
         <i class="{{ themeIcon }}"></i>
       </button>
+      </sc-if>
     </div>
     </div>
   </sc-if>
@@ -149,7 +163,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
 
   <nav class="nav" style="padding: var(--space-3) 0;">
     <div style="max-width: 760px; margin: 0 auto; padding: 0 var(--space-4); width: 100%;">
-      <div class="nav-brand" style="margin-left: -96px;">Final Fantasy — <span title="Vertex Industries, that's us!">Vertex</span> Order</div>
+      <div class="nav-brand" style="margin-left: {{ navTitleMarginLeft }};">Final Fantasy — <span title="Vertex Industries, that's us!">Vertex</span> Order</div>
     </div>
   </nav>
 
@@ -290,7 +304,7 @@ function copyrightYears() {
   return y > 2026 ? '2026\u2013' + y : '2026';
 }
 class Component extends DCLogic {
-  state = { expandedAlts: {}, expandedMainExtras: {}, checked: JSON.parse(localStorage.getItem('ffPlayOrderChecked') || '{}'), pathMode: localStorage.getItem('ffPlayOrderPath') || 'A', theme: localStorage.getItem('ffPlayOrderTheme') || null, systemLight: typeof matchMedia !== 'undefined' && matchMedia('(prefers-color-scheme: light)').matches, scrolled: false, activeAnchor: '', selectedLanguages: localStorage.getItem('ffPlayOrderSelectedLangs') ? JSON.parse(localStorage.getItem('ffPlayOrderSelectedLangs')) : null, langMenuOpen: false, showRating: JSON.parse(localStorage.getItem('ffPlayOrderShowRating') || 'true'), showLength: JSON.parse(localStorage.getItem('ffPlayOrderShowLength') || 'true'), showPlatforms: JSON.parse(localStorage.getItem('ffPlayOrderShowPlatforms') || 'true'), showLanguages: JSON.parse(localStorage.getItem('ffPlayOrderShowLanguages') || 'true') };
+  state = { expandedAlts: {}, expandedMainExtras: {}, checked: JSON.parse(localStorage.getItem('ffPlayOrderChecked') || '{}'), pathMode: localStorage.getItem('ffPlayOrderPath') || 'A', theme: localStorage.getItem('ffPlayOrderTheme') || null, systemLight: typeof matchMedia !== 'undefined' && matchMedia('(prefers-color-scheme: light)').matches, scrolled: false, activeAnchor: '', selectedLanguages: localStorage.getItem('ffPlayOrderSelectedLangs') ? JSON.parse(localStorage.getItem('ffPlayOrderSelectedLangs')) : null, langMenuOpen: false, showRating: JSON.parse(localStorage.getItem('ffPlayOrderShowRating') || 'true'), showLength: JSON.parse(localStorage.getItem('ffPlayOrderShowLength') || 'true'), showPlatforms: JSON.parse(localStorage.getItem('ffPlayOrderShowPlatforms') || 'true'), showLanguages: JSON.parse(localStorage.getItem('ffPlayOrderShowLanguages') || 'true'), navWidth: typeof window !== 'undefined' ? window.innerWidth : 1920 };
   seriesEls = {};
   langOrderDefault = ['JA', 'EN'];
   componentDidMount() {
@@ -301,6 +315,8 @@ class Component extends DCLogic {
       this._mqListener = e => this.setState({ systemLight: e.matches });
       this._mq.addEventListener('change', this._mqListener);
     }
+    this._onResize = () => this.setState({ navWidth: window.innerWidth });
+    window.addEventListener('resize', this._onResize, { passive: true });
     this._onScroll = () => {
       const scrolled = this._jumpEl ? this._jumpEl.getBoundingClientRect().bottom <= 0 : window.scrollY > 260;
       let activeAnchor = '';
@@ -321,6 +337,7 @@ class Component extends DCLogic {
   }
   componentWillUnmount() {
     if (this._mq) this._mq.removeEventListener('change', this._mqListener);
+    window.removeEventListener('resize', this._onResize);
     window.removeEventListener('scroll', this._onScroll);
     window.removeEventListener('hashchange', this._onHashChange);
   }
@@ -530,6 +547,20 @@ class Component extends DCLogic {
     const effectiveTheme = this.state.theme || (this.state.systemLight ? 'light' : 'dark');
     const themeIcon = effectiveTheme === 'light' ? 'bi bi-sun' : 'bi bi-moon-stars';
     const toggleTheme = () => this.toggleTheme();
+    const navWidth = this.state.navWidth;
+    const NAV_CONTENT_WIDTH = 760;
+    const NAV_STICKOUT = 96;
+    const navStuckOut = navWidth > (NAV_CONTENT_WIDTH + NAV_STICKOUT * 2);
+    const navTitleMarginLeft = navStuckOut ? (-NAV_STICKOUT + 'px') : '0px';
+    const navToggleMarginRight = navStuckOut ? (-NAV_STICKOUT + 'px') : '0px';
+    const navShowLanguages = navWidth >= 820;
+    const navShowTheme = navWidth >= 720;
+    const navShowDisplay = navWidth >= 690;
+    const navShowTitle = navWidth >= 610;
+    const navShowCheckList = navWidth >= 440;
+    const navShowOrder = navWidth >= 360;
+    const navShowJump = true;
+    const themeMarginLeft = navShowCheckList ? '0px' : 'auto';
     const lu = lastUpdatedParts();
     const lastUpdatedLong = lu.long;
     const lastUpdatedShort = lu.short;
@@ -863,7 +894,7 @@ class Component extends DCLogic {
       comics: statVal('Comic'),
       radioDramas: statVal('Audio'),
     };
-    return { lastUpdatedLong, lastUpdatedShort, copyrightYearsStr, series: displaySeries, platformLegend: this.platformLegend, pathOptions, effectiveTheme, themeIcon, toggleTheme, mode, onOrderChange, onJumpChange, scrolled: this.state.scrolled, notScrolled, jumpRef, activeAnchor: this.state.activeAnchor, languageOptions, langMenuOpen, toggleLangMenu, closeLangMenu, displayMenuOpen, toggleDisplayMenu, closeDisplayMenu, introStats, navProgress, displayToggles, showRating, showLength, showPlatforms, showLanguages, headerAnchors, faqItems: window.FAQ_ITEMS || [], helpWantedItems: window.HELP_WANTED_ITEMS || [] };
+    return { lastUpdatedLong, lastUpdatedShort, copyrightYearsStr, series: displaySeries, platformLegend: this.platformLegend, pathOptions, effectiveTheme, themeIcon, toggleTheme, navShowLanguages, navShowTheme, navShowDisplay, navShowTitle, navShowCheckList, navShowOrder, navShowJump, themeMarginLeft, navTitleMarginLeft, navToggleMarginRight, mode, onOrderChange, onJumpChange, scrolled: this.state.scrolled, notScrolled, jumpRef, activeAnchor: this.state.activeAnchor, languageOptions, langMenuOpen, toggleLangMenu, closeLangMenu, displayMenuOpen, toggleDisplayMenu, closeDisplayMenu, introStats, navProgress, displayToggles, showRating, showLength, showPlatforms, showLanguages, headerAnchors, faqItems: window.FAQ_ITEMS || [], helpWantedItems: window.HELP_WANTED_ITEMS || [] };
   }
 }
 </script>
