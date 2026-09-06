@@ -72,8 +72,9 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
 </helmet>
 <div data-theme="{{ effectiveTheme }}" style="background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); min-height: 100vh;">
   <sc-if value="{{ scrolled }}" hint-placeholder-val="{{ false }}">
-    <div style="position: fixed; top: 0; left: 0; right: 0; z-index: 20; height: 44px; display: flex; align-items: center; gap: var(--space-3); padding: 0 var(--space-3); background: var(--color-surface); border-bottom: 1px solid var(--color-divider);">
-      <div style="display: flex; flex-direction: column; justify-content: center; gap: 1px; margin-top: 6px;">
+    <div style="position: fixed; top: 0; left: 0; right: 0; z-index: 20; height: 44px; background: var(--color-surface); border-bottom: 1px solid var(--color-divider);">
+    <div style="max-width: 760px; margin: 0 auto; height: 44px; display: flex; align-items: center; gap: var(--space-3); padding: 0 var(--space-4);">
+      <div style="display: flex; flex-direction: column; justify-content: center; gap: 1px; margin-top: 6px; margin-left: -96px;">
         <span style="font-family: var(--font-heading); font-weight: 500; font-size: 13px; line-height: 1; white-space: nowrap; color: var(--color-text);">Final Fantasy <span title="Vertex Industries, that's us!">Vertex</span> Order</span>
         <span style="font-size: 9px; line-height: 1; white-space: nowrap; color: var(--color-neutral-600); margin-top: 2px;">Updated: {{ lastUpdatedShort }}</span>
       </div>
@@ -127,20 +128,27 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
         <span style="font-size: 12px; color: var(--color-neutral-400); white-space: nowrap; width: 130px; flex-shrink: 0;">{{ navProgress }}</span>
       </sc-if>
       <a href="https://vertex-order.github.io" target="_blank" rel="noopener" title="More lists from Vertex Industries" style="margin-left: auto; margin-right: 8px; display: flex; align-items: center; height: 26px; font-size: 11px; line-height: 1.15; text-align: right; color: var(--color-neutral-400); text-decoration: none; white-space: nowrap;">Check out our<br>other lists ↗</a>
-      <button onClick="{{ toggleTheme }}" title="Toggle light/dark mode" style="width: 26px; height: 26px; flex-shrink: 0; border-radius: var(--radius-sm); border: 1px solid var(--color-divider); background: var(--color-surface); color: var(--color-text); display: flex; align-items: center; justify-content: center; cursor: pointer; font-size: 13px;">
+      <button onClick="{{ toggleTheme }}" title="Toggle light/dark mode" style="width: 26px; height: 26px; flex-shrink: 0; border-radius: var(--radius-sm); border: 1px solid var(--color-divider); background: var(--color-surface); color: var(--color-text); display: flex; align-items: center; justify-content: center; cursor: pointer; font-size: 13px; margin-right: -96px;">
         <i class="{{ themeIcon }}"></i>
       </button>
     </div>
+    </div>
   </sc-if>
   <sc-if value="{{ notScrolled }}" hint-placeholder-val="{{ true }}">
-  <a href="https://vertex-order.github.io" target="_blank" rel="noopener" title="More lists from Vertex Industries" style="position: fixed; top: var(--space-3); right: 60px; z-index: 10; height: 36px; display: flex; align-items: center; font-size: 12.5px; line-height: 1.15; text-align: right; color: var(--color-neutral-400); text-decoration: none; white-space: nowrap;">Check out our<br>other lists ↗</a>
-  <button onClick="{{ toggleTheme }}" title="Toggle light/dark mode" style="position: fixed; top: var(--space-3); right: var(--space-3); z-index: 10; width: 36px; height: 36px; border-radius: var(--radius-md); border: 1px solid var(--color-divider); background: var(--color-surface); color: var(--color-text); display: flex; align-items: center; justify-content: center; cursor: pointer;">
-    <i class="{{ themeIcon }}"></i>
-  </button>
+  <div style="position: fixed; top: var(--space-3); left: 0; right: 0; z-index: 10; max-width: 760px; margin: 0 auto; padding: 0 var(--space-4); display: flex; justify-content: flex-end; align-items: center; pointer-events: none;">
+    <div style="pointer-events: auto; display: flex; align-items: center; gap: var(--space-3); background: color-mix(in srgb, var(--color-bg) 55%, transparent); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: var(--radius-md); padding: var(--space-2) var(--space-3); margin-right: -109.4px;">
+      <a href="https://vertex-order.github.io" target="_blank" rel="noopener" title="More lists from Vertex Industries" style="height: 36px; display: flex; align-items: center; font-size: 12.5px; line-height: 1.15; text-align: right; color: var(--color-neutral-400); text-decoration: none; white-space: nowrap;">Check out our<br>other lists ↗</a>
+      <button onClick="{{ toggleTheme }}" title="Toggle light/dark mode" style="width: 36px; height: 36px; flex-shrink: 0; border-radius: var(--radius-md); border: 1px solid var(--color-divider); background: var(--color-surface); color: var(--color-text); display: flex; align-items: center; justify-content: center; cursor: pointer;">
+        <i class="{{ themeIcon }}"></i>
+      </button>
+    </div>
+  </div>
   </sc-if>
 
-  <nav class="nav">
-    <div class="nav-brand">Final Fantasy — <span title="Vertex Industries, that's us!">Vertex</span> Order</div>
+  <nav class="nav" style="padding: var(--space-3) 0;">
+    <div style="max-width: 760px; margin: 0 auto; padding: 0 var(--space-4); width: 100%;">
+      <div class="nav-brand" style="margin-left: -96px;">Final Fantasy — <span title="Vertex Industries, that's us!">Vertex</span> Order</div>
+    </div>
   </nav>
 
   <div style="max-width: 760px; margin: 0 auto; padding: var(--space-8) var(--space-4) var(--space-8);">
