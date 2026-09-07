@@ -6,7 +6,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           { text: ' era, initially in limited 8-bit graphics.' },
         ],
       }, games: [
-        { title: 'Stranger of Paradise: Final Fantasy Origin', releaseDate: '2022-03-18', chronoOrder: -3000, recommendedOrder: 100, tags: ['Prequel', 'Optional', 'Alternate Universe', 'Jobs', 'Co-op'], mediaType: 'Game',
+        { title: 'Stranger of Paradise: Final Fantasy Origin', releaseDate: '2022-03-18', chronoOrder: -3000, recommendedOrder: 500, tags: ['Prequel', 'Optional', 'Alternate Universe', 'Jobs', 'Co-op'], mediaType: 'Game',
         languages: [
           { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
           { value: 'EN', tip: 'English — full audio', voice: true },
@@ -38,7 +38,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           ],
         ],
         platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin' },
-        { title: 'Stranger of Paradise: Trials of the Dragon King', releaseDate: '2022-07-20', chronoOrder: -2500, recommendedOrder: 110, tags: ['DLC', 'Optional'], mediaType: 'Game', lengthParts: [{ value: '7h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '11h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '13½h', tip: 'Completionist' }], storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin', parts: [
+        { title: 'Stranger of Paradise: Trials of the Dragon King', releaseDate: '2022-07-20', chronoOrder: -2500, recommendedOrder: 510, tags: ['DLC', 'Optional'], mediaType: 'Game', lengthParts: [{ value: '7h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '11h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '13½h', tip: 'Completionist' }], storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin', parts: [
           { label: 'Stranger of Paradise: Trials of the Dragon King (2022)', url: 'https://breezewiki.com/finalfantasy/wiki/Trials_of_the_Dragon_King' },
           { label: 'DLC', url: null, small: true },
         ],
@@ -65,7 +65,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           ],
         ],
         platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin' },
-        { title: 'Stranger of Paradise: Wanderer of the Rift', releaseDate: '2022-10-26', chronoOrder: -2000, recommendedOrder: 120, tags: ['DLC', 'Optional'], mediaType: 'Game', lengthParts: [{ value: '7h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '17½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '20h', tip: 'Completionist' }], storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin', parts: [
+        { title: 'Stranger of Paradise: Wanderer of the Rift', releaseDate: '2022-10-26', chronoOrder: -2000, recommendedOrder: 520, tags: ['DLC', 'Optional'], mediaType: 'Game', lengthParts: [{ value: '7h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '17½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '20h', tip: 'Completionist' }], storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin', parts: [
           { label: 'Stranger of Paradise: Wanderer of the Rift (2022)', url: 'https://breezewiki.com/finalfantasy/wiki/Wanderer_of_the_Rift' },
           { label: 'DLC', url: null, small: true },
         ],
@@ -92,7 +92,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           ],
         ],
         platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin' },
-        { title: 'Stranger of Paradise: Different Future', releaseDate: '2023-01-27', chronoOrder: -1000, recommendedOrder: 130, tags: ['DLC', 'Optional'], mediaType: 'Game', lengthParts: [{ value: '3½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Completionist' }], storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin', parts: [
+        { title: 'Stranger of Paradise: Different Future', releaseDate: '2023-01-27', chronoOrder: -1000, recommendedOrder: 530, tags: ['DLC', 'Optional'], mediaType: 'Game', lengthParts: [{ value: '3½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Completionist' }], storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin', parts: [
           { label: 'Stranger of Paradise: Different Future (2023)', url: 'https://breezewiki.com/finalfantasy/wiki/Different_Future' },
           { label: 'DLC', url: null, small: true },
         ],
