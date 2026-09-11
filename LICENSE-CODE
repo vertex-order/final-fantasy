@@ -3,9 +3,10 @@ MIT License
 Copyright (c) 2026 Vertex Industries
 
 Applies to the code in this repository — the `.dc.html` components (whether
-authored here, like `site/page.dc.html` and `site/PlatformIcon.dc.html`, or
-vendored from vertex-order/kit / vertex-order/platforms per
-[sync.toml](sync.toml)), `support.js`, `scripts/`, and the build/CI tooling.
+authored here, like `site/page.dc.html`, or vendored from vertex-order/kit /
+vertex-order/platforms per [sync.toml](sync.toml), like
+`site/PlatformIcon.dc.html`), `support.js`, `scripts/`, and the build/CI
+tooling.
 It does not apply to `data/` or the page content as displayed — those are
 CC BY-NC-SA 4.0; see [LICENSE](LICENSE).
 

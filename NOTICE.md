@@ -17,10 +17,8 @@ recorded in that repo's
 
 ## Platform icons
 
-`_TBD_` — `site/images/platforms/` predates this NOTICE and hasn't had a
-per-icon source/licence audit yet. Migrating to the canonical platform-icon
-set in [vertex-order/platforms](https://github.com/vertex-order/platforms)
-(which *is* fully audited — see
-[its NOTICE.md](https://github.com/vertex-order/platforms/blob/main/NOTICE.md))
-is the planned fix; until then, don't treat this section's silence as
-license clearance.
+`site/images/platforms/`, `PlatformIcon.dc.html`, and `platform-icons.js`
+are pulled in via kit from
+[vertex-order/platforms](https://github.com/vertex-order/platforms). Every
+icon's source and terms are recorded in that repo's
+[NOTICE.md](https://github.com/vertex-order/platforms/blob/main/NOTICE.md).

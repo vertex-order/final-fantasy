@@ -31,11 +31,11 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         description: 'Only the opening movie, season 2-4 trailers contain story elements, and the game itself is terminated. They can be viewed online.',
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '62', midScore: '5.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-the-first-soldier/', url: 'https://www.metacritic.com/game/final-fantasy-vii-the-first-soldier/', single: true, sourceLabel: 'Metacritic' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Official game trailers (YouTube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20The%20First%20Soldier%20trailer' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20The%20First%20Soldier%20story%20recap' }],
+          [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Official game trailers (YouTube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20The%20First%20Soldier%20trailer' }],
+          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20The%20First%20Soldier%20story%20recap' }],
           [
-            { icon: 'bi bi-android2', iconImg: null, name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7fsww&hl=en' },
-            { icon: 'bi bi-apple', iconImg: null, name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/us/app/ffvii-the-first-soldier/id1536906780' },
+            { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7fsww&hl=en' },
+            { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/us/app/ffvii-the-first-soldier/id1536906780' },
           ],
         ] },
         { title: 'Final Fantasy VII: Ever Crisis', releaseDate: '2023-09-07', chronoOrder: -6500, recommendedOrder: 1720, tags: ['Optional', 'Prequel', 'Episodic', 'Active time battle', 'Co-op', 'Free', 'In-app purchases', 'Terminated'], mediaType: 'Game', lengthParts: [{ value: '25½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '39h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '60h', tip: 'Completionist' }],
@@ -57,14 +57,14 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '4.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', sourceUrl: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', sourceLabel: 'Steam; Mixed' },
         platformGroups: [
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20The%20First%20Soldier%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20The%20First%20Soldier%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20The%20First%20Soldier%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20The%20First%20Soldier%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20The%20First%20Soldier%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20The%20First%20Soldier%20playthrough' },
           ],
-          [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
+          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
           [
-            { icon: 'bi bi-android2', iconImg: null, name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-            { icon: 'bi bi-apple', iconImg: null, name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+            { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+            { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
           ],
         ] },
         { title: 'Before Crisis: Final Fantasy VII', releaseDate: '2004-09-24', chronoOrder: -6000, recommendedOrder: 1730, tags: ['Optional', 'Prequel', 'Terminated'], mediaType: 'Game', lengthParts: [{ value: '9h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '9½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '13½h', tip: 'Completionist' }],
@@ -75,11 +75,11 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         description: 'The Turks group of covert operatives working for Shinra Electric Power Company fight against both the rebel group AVALANCHE, and their corrupt employers.\n\nSince the game is terminated we recommend you watch a fan story recap video or a playthrough.',
         platformGroups: [
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Before%20Crisis%3A%20Final%20Fantasy%20VII%20%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Before%20Crisis%3A%20Final%20Fantasy%20VII%20%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Before%20Crisis%3A%20Final%20Fantasy%20VII%20%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Before%20Crisis%3A%20Final%20Fantasy%20VII%20%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Before%20Crisis%3A%20Final%20Fantasy%20VII%20%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Before%20Crisis%3A%20Final%20Fantasy%20VII%20%20playthrough' },
           ],
-          [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.8, imgStyle: 'width: auto; height: 16.8px; filter: brightness(0) saturate(100%) invert(100%);', name: 'Mobile Phones; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'Mobile Phones; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
         ],
         alts: [
           {
@@ -97,14 +97,14 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '4.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', sourceUrl: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', sourceLabel: 'Steam; Mixed' },
             platformGroups: [
               [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20before%20crisis%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20before%20crisis%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20before%20crisis%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20before%20crisis%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20before%20crisis%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20before%20crisis%20playthrough' },
           ],
-              [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
+              [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
               [
-                { icon: 'bi bi-android2', iconImg: null, name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-                { icon: 'bi bi-apple', iconImg: null, name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+                { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+                { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
               ],
             ],
           },
@@ -138,11 +138,11 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         ],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '7.1', url: 'https://www.imdb.com/title/tt0489134/', single: true, sourceLabel: 'IMDb' },
         platformGroups: [
-          [{ icon: null, iconImg: null, text: 'DVD', name: 'DVD', noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/psp.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Portable (PSP) (PlayStation Portable: Universal Media Disk)', noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/dvd.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'DVD', noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP) (PlayStation Portable: Universal Media Disk)', noUrl: true }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'YouTube (unofficial)', url: 'https://www.youtube.com/results?search_query=Last%20Order%3A%20Final%20Fantasy%20VII%20(2005)' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Last%20Order%3A%20Final%20Fantasy%20VII%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'YouTube (unofficial)', url: 'https://www.youtube.com/results?search_query=Last%20Order%3A%20Final%20Fantasy%20VII%20(2005)' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Last%20Order%3A%20Final%20Fantasy%20VII%20story%20recap' },
           ],
         ] },
         { title: 'Crisis Core: Final Fantasy VII', releaseDate: '2007-09-13', chronoOrder: -4000, recommendedOrder: 1750, tags: ['Prequel'], mediaType: 'Game', lengthParts: [{ value: '14h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '21h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '46½h', tip: 'Completionist' }],
@@ -179,19 +179,19 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '83', midScore: '8.1', midUrl: 'https://www.metacritic.com/game/crisis-core-final-fantasy-vii/', source: 'VP', url: 'https://www.metacritic.com/game/crisis-core-final-fantasy-vii/', sourceUrl: 'https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/', sourceLabel: 'Steam; Very Positive' },
         storeUrl: 'https://www.square-enix.com/ffvii/en-us/games/crisis-core/',
         platformGroups: [
-          [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/' }],
-          [{ icon: 'bi bi-nintendo-switch', iconImg: null, name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/crisis-core-final-fantasy-vii-reunion-switch/' }],
-          [{ icon: null, iconImg: 'images/platforms/switch-2.png', iconSize: 30.3, imgStyle: 'width: auto; height: 30.3px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/crisis-core-final-fantasy-vii-reunion-switch/' }],
-          [{ icon: null, iconImg: 'images/platforms/ps4.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 4 (Pro Enhanced; Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA07809_00-CRISISCORE000000' }],
-          [{ icon: null, iconImg: 'images/platforms/ps5.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 5 (Digital; PS4 compat; Physical)', url: 'https://store.playstation.com/product/UP0082-PPSA07809_00-CRISISCORE000000' }],
+          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/crisis-core-final-fantasy-vii-reunion-switch/' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/crisis-core-final-fantasy-vii-reunion-switch/' }],
+          [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Pro Enhanced; Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA07809_00-CRISISCORE000000' }],
+          [{ icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (Digital; PS4 compat; Physical)', url: 'https://store.playstation.com/product/UP0082-PPSA07809_00-CRISISCORE000000' }],
           [
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'One', name: 'Xbox One (Physical; Digital)', url: 'https://www.xbox.com/games/store/crisis-core-final-fantasy-vii-reunion/9p6j9nfkgj68' },
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'X/S', name: 'Xbox Series X/S (Physical; Digital)', url: 'https://www.xbox.com/games/store/crisis-core-final-fantasy-vii-reunion/9p6j9nfkgj68' },
+            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Physical; Digital)', url: 'https://www.xbox.com/games/store/crisis-core-final-fantasy-vii-reunion/9p6j9nfkgj68' },
+            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Physical; Digital)', url: 'https://www.xbox.com/games/store/crisis-core-final-fantasy-vii-reunion/9p6j9nfkgj68' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Crisis%20Core%3A%20Final%20Fantasy%20VII%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Crisis%20Core%3A%20Final%20Fantasy%20VII%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Crisis%20Core%3A%20Final%20Fantasy%20VII%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Crisis%20Core%3A%20Final%20Fantasy%20VII%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Crisis%20Core%3A%20Final%20Fantasy%20VII%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Crisis%20Core%3A%20Final%20Fantasy%20VII%20playthrough' },
           ],
         ],
         platformsUrl: 'https://www.square-enix.com/ffvii/en-us/games/crisis-core/',
@@ -215,14 +215,14 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '4.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', sourceUrl: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', sourceLabel: 'Steam; Mixed' },
               platformGroups: [
                 [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Crisis%20Core%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Crisis%20Core%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Crisis%20Core%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Crisis%20Core%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Crisis%20Core%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Crisis%20Core%20playthrough' },
           ],
-                [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
+                [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
                 [
-                  { icon: 'bi bi-android2', iconImg: null, name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-                  { icon: 'bi bi-apple', iconImg: null, name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+                  { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+                  { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
                 ],
               ],
             },
@@ -232,7 +232,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               description: 'The original release. An International version followed in 2008 with selectable Normal/Hard difficulty (no more Game Over on failed missions), expanded voice acting, and one redesigned statue.',
               languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/psp.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Portable (Physical)', noUrl: true }],
+                [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (Physical)', noUrl: true }],
               ],
             },
           ],
@@ -267,20 +267,20 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '89', midScore: '8.7', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-remake-intergrade/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-vii-remake-intergrade/', sourceUrl: 'https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/', sourceLabel: 'Steam; Very Positive' },
         storeUrl: 'https://www.square-enix.com/ffvii/en-us/games/remake-intergrade/',
         platformGroups: [
-          [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vii-remake-intergrade/9nrqvq7zrm7z' }],
-          [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/' }],
+          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vii-remake-intergrade/9nrqvq7zrm7z' }],
+          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/' }],
           [{ icon: null, iconImg: 'images/platforms/epic-games.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Epic Games Store (PC)', url: 'https://store.epicgames.com/p/final-fantasy-vii-remake-intergrade' }],
-          [{ icon: null, iconImg: 'images/platforms/switch-2.png', iconSize: 30.3, imgStyle: 'width: auto; height: 30.3px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo Switch 2 (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vii-remake-intergrade-switch-2/' }],
-          [{ icon: null, iconImg: 'images/platforms/ps5.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 5 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA01903_00-5827003902180177' }],
-          [{ icon: null, iconImg: 'images/platforms/ps-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px; filter: grayscale(1) brightness(1.4) sepia(1) hue-rotate(180deg) saturate(150%);', name: 'PS Plus (PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-PPSA01903_00-5827003902180177' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vii-remake-intergrade-switch-2/' }],
+          [{ icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA01903_00-5827003902180177' }],
+          [{ icon: null, iconImg: 'images/platforms/playstation-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'PS Plus (PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-PPSA01903_00-5827003902180177' }],
           [
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'X/S', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vii-remake-intergrade/9nrqvq7zrm7z' },
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'Cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-vii-remake-intergrade/9nrqvq7zrm7z' },
+            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vii-remake-intergrade/9nrqvq7zrm7z' },
+            { icon: null, iconImg: 'images/platforms/xbox-cloud.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-vii-remake-intergrade/9nrqvq7zrm7z' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Remake%20Intergrade%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Remake%20Intergrade%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Remake%20Intergrade%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Remake%20Intergrade%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Remake%20Intergrade%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Remake%20Intergrade%20playthrough' },
           ],
         ],
         alt: {
@@ -305,10 +305,10 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               helpWanted: true,
               platformGroups: [
                 [
-                  { icon: null, iconImg: 'images/platforms/ps4.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000' },
-                  { icon: null, iconImg: 'images/platforms/ps5.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 5 (PS4 compatibility)', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000' },
+                  { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000' },
+                  { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compatibility)', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000' },
                 ],
-                [{ icon: null, iconImg: 'images/platforms/ps-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px; filter: grayscale(1) brightness(1.4) sepia(1) hue-rotate(180deg) saturate(150%);', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000' }],
               ],
             },
           ],
@@ -343,20 +343,20 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '92', midScore: '8.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-rebirth/', source: 'MP', url: 'https://www.metacritic.com/game/final-fantasy-vii-rebirth/', sourceUrl: 'https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/', sourceLabel: 'Steam; Mostly Positive' },
         storeUrl: 'https://www.square-enix.com/ffvii/en-us/games/rebirth/',
         platformGroups: [
-          [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vii-rebirth/9np9f7wwkrp1' }],
-          [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/' }],
+          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vii-rebirth/9np9f7wwkrp1' }],
+          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/' }],
           [{ icon: null, iconImg: 'images/platforms/epic-games.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Epic Games Store (PC)', url: 'https://store.epicgames.com/p/final-fantasy-vii-rebirth' }],
-          [{ icon: null, iconImg: 'images/platforms/switch-2.png', iconSize: 30.3, imgStyle: 'width: auto; height: 30.3px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo Switch 2 (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vii-rebirth-switch-2/' }],
-          [{ icon: null, iconImg: 'images/platforms/ps5.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 5 (Pro Enhanced; Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA08666_00-0783148264580163' }],
-          [{ icon: null, iconImg: 'images/platforms/ps-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px; filter: grayscale(1) brightness(1.4) sepia(1) hue-rotate(180deg) saturate(150%);', name: 'PS Plus (PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-PPSA08666_00-0783148264580163' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vii-rebirth-switch-2/' }],
+          [{ icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (Pro Enhanced; Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA08666_00-0783148264580163' }],
+          [{ icon: null, iconImg: 'images/platforms/playstation-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'PS Plus (PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-PPSA08666_00-0783148264580163' }],
           [
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'X/S', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vii-rebirth/9np9f7wwkrp1' },
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'Cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-vii-rebirth/9np9f7wwkrp1' },
+            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vii-rebirth/9np9f7wwkrp1' },
+            { icon: null, iconImg: 'images/platforms/xbox-cloud.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-vii-rebirth/9np9f7wwkrp1' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20rebirth%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20rebirth%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20rebirth%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20rebirth%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20rebirth%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20rebirth%20playthrough' },
           ],
         ] },
         { title: 'Final Fantasy VII Revelation', releaseDate: '1997-01-31 40', chronoOrder: 300, recommendedOrder: 800, mainline: true, tags: ['Trilogy', 'Part 3', 'Real-time action', 'Upcoming'], mediaType: 'Game', upcoming: true,
@@ -388,16 +388,16 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         ],
         storeUrl: 'https://www.square-enix.com/ffvii/games/revelation/',
         platformGroups: [
-          [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vii-revelation/9pf6cf5ctzs3' }],
-          [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC)', url: 'https://store.steampowered.com/app/4354570/FINAL_FANTASY_VII_REVELATION/' }],
+          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vii-revelation/9pf6cf5ctzs3' }],
+          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/4354570/FINAL_FANTASY_VII_REVELATION/' }],
           [{ icon: null, iconImg: 'images/platforms/epic-games.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Epic Games Store (PC)', url: 'https://store.epicgames.com/p/final-fantasy-vii-revelation' }],
-          [{ icon: null, iconImg: 'images/platforms/switch-2.png', iconSize: 30.3, imgStyle: 'width: auto; height: 30.3px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo Switch 2 (Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vii-revelation-switch-2/' }],
-          [{ icon: null, iconImg: 'images/platforms/ps5.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 5 (Pro Enhanced; Digital)', url: 'https://store.playstation.com/concept/10018084' }],
-          [{ icon: 'bi bi-xbox', iconImg: null, suffix: 'X/S', name: 'Xbox Series X/S', url: 'https://www.xbox.com/games/store/final-fantasy-vii-revelation/9pf6cf5ctzs3' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vii-revelation-switch-2/' }],
+          [{ icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (Pro Enhanced; Digital)', url: 'https://store.playstation.com/concept/10018084' }],
+          [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S', url: 'https://www.xbox.com/games/store/final-fantasy-vii-revelation/9pf6cf5ctzs3' }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Revelation%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Revelation%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Revelation%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Revelation%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Revelation%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Revelation%20playthrough' },
           ],
         ] },
         { title: 'Final Fantasy VII', releaseDate: '1997-01-31 10', chronoOrder: 350, recommendedOrder: 900, mainline: true, tags: ['Combined', 'Active time battle'], mediaType: 'Game', lengthParts: [{ value: '36h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '49h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '79½h', tip: 'Completionist' }],
@@ -417,26 +417,26 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         ],
         platformGroups: [
           [
-            { icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII/' },
-            { icon: null, iconImg: 'images/platforms/gog.svg', iconSize: 16.8, imgStyle: 'width: auto; height: 16.8px;', name: 'GOG (PC)', url: 'https://www.gog.com/en/game/final_fantasy_vii' },
+            { icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII/' },
+            { icon: null, iconImg: 'images/platforms/gog.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'GOG (PC)', url: 'https://www.gog.com/en/game/final_fantasy_vii' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/ps4.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 4 (Digital)', url: 'https://www.playstation.com/games/final-fantasy-vii/' },
-            { icon: null, iconImg: 'images/platforms/ps5.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 5 (PS4 compat)', url: 'https://www.playstation.com/games/final-fantasy-vii/' },
+            { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://www.playstation.com/games/final-fantasy-vii/' },
+            { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://www.playstation.com/games/final-fantasy-vii/' },
           ],
-          [{ icon: null, iconImg: 'images/platforms/ps-plus.svg', iconSize: 20, imgStyle: 'width: auto; height: 20px; filter: grayscale(1) brightness(1.4) sepia(1) hue-rotate(180deg) saturate(150%);', name: 'PS Plus (PS4)', url: 'https://www.playstation.com/games/final-fantasy-vii/' }],
+          [{ icon: null, iconImg: 'images/platforms/playstation-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'PS Plus (PS4)', url: 'https://www.playstation.com/games/final-fantasy-vii/' }],
           [
-            { icon: 'bi bi-nintendo-switch', iconImg: null, name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vii-switch/' },
-            { icon: null, iconImg: 'images/platforms/switch-2.png', iconSize: 30.3, imgStyle: 'width: auto; height: 30.3px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo Switch 2 (Switch compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vii-switch/' },
-          ],
-          [
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'One', name: 'Xbox One (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vii/bwkxqc5bl5r1' },
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'X/S', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vii/bwkxqc5bl5r1' },
+            { icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vii-switch/' },
+            { icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vii-switch/' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%201997%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%201997%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%201997%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vii/bwkxqc5bl5r1' },
+            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vii/bwkxqc5bl5r1' },
+          ],
+          [
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%201997%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%201997%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%201997%20playthrough' },
           ],
         ],
         alt: {
@@ -450,8 +450,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               languages: [{ value: 'EN', tip: 'English' }, { value: 'FR', tip: 'French' }, { value: 'DE', tip: 'German' }, { value: 'ES-ES', tip: 'Spanish (Spain)' }],
               storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-vii',
               platformGroups: [
-                [{ icon: 'bi bi-apple', iconImg: null, name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy-vii/id1021566244' }],
-                [{ icon: 'bi bi-android2', iconImg: null, name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVII' }],
+                [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy-vii/id1021566244' }],
+                [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVII' }],
               ],
             },
             {
@@ -471,15 +471,15 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               storeUrl: 'https://en.ffviiec.com/',
               rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '4.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', sourceUrl: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', sourceLabel: 'Steam; Mixed' },
               platformGroups: [
-                [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
+                [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
                 [
-                  { icon: 'bi bi-android2', iconImg: null, name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffviiec' },
-                  { icon: 'bi bi-apple', iconImg: null, name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1546223882' },
+                  { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffviiec' },
+                  { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1546223882' },
                 ],
                 [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Final%20Fantasy%20VII%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Final%20Fantasy%20VII%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Final%20Fantasy%20VII%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Final%20Fantasy%20VII%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Final%20Fantasy%20VII%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Final%20Fantasy%20VII%20playthrough' },
           ],
               ],
             },
@@ -497,8 +497,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                 { value: 'ES-ES', tip: 'Spanish (Spain)' },
               ],
               platformGroups: [
-                [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows', noUrl: true }],
-                [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/' }],
+                [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', noUrl: true }],
+                [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/' }],
               ],
             },
             {
@@ -521,12 +521,12 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               helpWanted: true,
               platformGroups: [
                 [
-                  { icon: null, iconImg: 'images/platforms/ps1.svg', iconSize: 13.5, imgStyle: 'width: auto; height: 13.5px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation (PSone) (Physical)', noUrl: true },
-                  { icon: null, iconImg: null, text: 'PSc', name: 'PlayStation Classic', noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/ps2.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 2 (PSone compatibility)', noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/ps3.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 3 (PSone compatibility; Digital)' },
-                  { icon: null, iconImg: 'images/platforms/ps-vita.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Vita (Digital)' },
-                  { icon: null, iconImg: 'images/platforms/psp.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Portable (PSP) (Digital)' },
+                  { icon: null, iconImg: 'images/platforms/playstation1.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px;', name: 'PlayStation (PSone) (Physical)', noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/playstation-classic.svg', iconSize: 8.48, imgStyle: 'width: auto; height: 8.48px;', name: 'PlayStation Classic', noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (PSone compatibility)', noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PSone compatibility; Digital)' },
+                  { icon: null, iconImg: 'images/platforms/playstation-vita.svg', iconSize: 8.49, imgStyle: 'width: auto; height: 8.49px;', name: 'PlayStation Vita (Digital)' },
+                  { icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP) (Digital)' },
                 ],
               ],
             },
@@ -551,8 +551,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         length: '406p; H',
         storeUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091775',
         platformGroups: [
-          [{ icon: 'bi bi-book', iconImg: null, name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091775' }],
-          [            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20Remake%3A%20Traces%20of%20Two%20Pasts%20story%20recap' },          ],
+          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091775' }],
+          [            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20Remake%3A%20Traces%20of%20Two%20Pasts%20story%20recap' },          ],
         ] },
         { title: 'Final Fantasy VII Rebirth: Dear Destiny', releaseDate: '2026-01-30', chronoOrder: -400, recommendedOrder: 1100, tags: ['Optional', 'Novel'], mediaType: 'Book',
         parts: [
@@ -568,9 +568,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/254945294-final-fantasy-vii-rebirth', single: true, sourceLabel: 'Goodreads' },
         storeUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100826',
         platformGroups: [
-          [{ icon: 'bi bi-book', iconImg: null, name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100826' },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20VII%20Rebirth%3A%20Dear%20Destiny%20translate' }],
-          [            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20Rebirth%3A%20Dear%20Destiny%20story%20recap' },          ],
+          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100826' },
+            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20VII%20Rebirth%3A%20Dear%20Destiny%20translate' }],
+          [            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20Rebirth%3A%20Dear%20Destiny%20story%20recap' },          ],
         ] },
         { title: 'The Maiden Who Travels The Planet', releaseDate: '2005-09-09', chronoOrder: 500, recommendedOrder: 1200, tags: ['Optional', 'Novella'], mediaType: 'Book',
         parts: [
@@ -585,11 +585,11 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         length: '45p;P',
         storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome',
         platformGroups: [
-          [{ icon: 'bi bi-book', iconImg: null, name: 'Novella (Japan only)', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome' },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#External_links' },
-            { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan Audiobook', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#External_links' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20The%20Maiden%20Who%20Travels%20The%20Planet)%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#Story' }],
+          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novella (Japan only)', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome' },
+            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#External_links' },
+            { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Audiobook', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#External_links' }],
+          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20The%20Maiden%20Who%20Travels%20The%20Planet)%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#Story' }],
         ] },
         { title: 'Final Fantasy VII: On the Way to a Smile', releaseDate: '2005-09-05', chronoOrder: 1000, recommendedOrder: 1300, tags: ['Optional', 'Sequel', 'Short Stories'], mediaType: 'Book',
         parts: [
@@ -613,10 +613,10 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         length: '204p; P',
         storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_On_the_Way_to_a_Smile',
         platformGroups: [
-          [{ icon: 'bi bi-book', iconImg: null, name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_On_the_Way_to_a_Smile' },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan Translation', url: 'https://thelifestream.net/novels-novellas/' },
-            { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan Audiobook (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20On%20the%20Way%20to%20a%20Smile%20audiobook' }],
-          [            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20On%20the%20Way%20to%20a%20Smile%20story%20recap' },          ],
+          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_On_the_Way_to_a_Smile' },
+            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://thelifestream.net/novels-novellas/' },
+            { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Audiobook (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20On%20the%20Way%20to%20a%20Smile%20audiobook' }],
+          [            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20On%20the%20Way%20to%20a%20Smile%20story%20recap' },          ],
         ],
         alt: {
           parts: [
@@ -637,11 +637,11 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           languages: [{ value: 'JA', tip: 'Japanese', native: true }],
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/blu-ray.png', iconSize: 23.5, imgStyle: 'width: auto; height: 23.5px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'UltraHD Blu-ray', noUrl: true, prefix: 'U' },
-              { icon: null, iconImg: 'images/platforms/blu-ray.png', iconSize: 23.5, imgStyle: 'width: auto; height: 23.5px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Blu-ray', noUrl: true },
+              { icon: null, iconImg: 'images/platforms/blu-ray.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'UltraHD Blu-ray', noUrl: true, prefix: 'U' },
+              { icon: null, iconImg: 'images/platforms/blu-ray.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'Blu-ray', noUrl: true },
             ],
             [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'YouTube (unofficial; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20vii%20Episode%20Denzel%20anime' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'YouTube (unofficial; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20vii%20Episode%20Denzel%20anime' },
           ],
           ],
         },
@@ -664,10 +664,10 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         length: '228p; P',
         storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_Kids_Are_Alright:_A_Turks_Side_Story',
         platformGroups: [
-          [{ icon: 'bi bi-book', iconImg: null, name: 'Novel', url: 'https://yenpress.com/titles/9781975382360-final-fantasy-vii-the-kids-are-alright-a-turks-side-story' },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan Translation', url: 'https://thelifestream.net/lifestream-projects/translations/31877/tls-pesents-lateral-biography-turks-the-kids-are-alright-part-1/' }],
-          [            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20The%20Kids%20Are%20Alright%3A%20A%20Turks%20Side%20Story%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_Kids_Are_Alright:_A_Turks_Side_Story' },          ],
+          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel', url: 'https://yenpress.com/titles/9781975382360-final-fantasy-vii-the-kids-are-alright-a-turks-side-story' },
+            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://thelifestream.net/lifestream-projects/translations/31877/tls-pesents-lateral-biography-turks-the-kids-are-alright-part-1/' }],
+          [            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20The%20Kids%20Are%20Alright%3A%20A%20Turks%20Side%20Story%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_Kids_Are_Alright:_A_Turks_Side_Story' },          ],
         ] },
         { title: 'Final Fantasy VII: Advent Children', releaseDate: '2005-09-14 20', chronoOrder: 2000, recommendedOrder: 1500, tags: ['Optional', 'Sequel', 'Movie', "Director's Cut"], mediaType: 'Movie', length: '127min',
         parts: [
@@ -689,12 +689,12 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         rating: { scoreLabelText: 'IMDb', midLabelText: 'Metacritic', score: '7.5', url: 'https://www.imdb.com/title/tt20913494/', midScore: '88', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-advent-children/', source: '7.5', sourceUrl: 'https://www.metacritic.com/game/final-fantasy-vii-advent-children/', sourceLabel: 'Metacritic User Score' },
         platformGroups: [
           [
-            { icon: null, iconImg: 'images/platforms/blu-ray.png', iconSize: 23.5, imgStyle: 'width: auto; height: 23.5px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'UltraHD Blu-ray', noUrl: true, prefix: 'U' },
-            { icon: null, iconImg: 'images/platforms/blu-ray.png', iconSize: 23.5, imgStyle: 'width: auto; height: 23.5px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Blu-ray', noUrl: true },
+            { icon: null, iconImg: 'images/platforms/blu-ray.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'UltraHD Blu-ray', noUrl: true, prefix: 'U' },
+            { icon: null, iconImg: 'images/platforms/blu-ray.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'Blu-ray', noUrl: true },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'YouTube (unofficial)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VII%20advent%20children%20complete' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VII%20advent%20children%20complete%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'YouTube (unofficial)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VII%20advent%20children%20complete' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VII%20advent%20children%20complete%20story%20recap' },
           ],
         ],
         alt: {
@@ -712,7 +712,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           length: '71p; P',
           storeUrl: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children',
           platformGroups: [
-            [{ icon: 'bi bi-book', iconImg: null, name: 'Novel', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children' }],
+            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children' }],
           ],
         },
         extras: [
@@ -734,14 +734,14 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '4.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', sourceUrl: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', sourceLabel: 'Steam; Mixed' },
               platformGroups: [
                 [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20advent%20children%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20advent%20children%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20advent%20children%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20advent%20children%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20advent%20children%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20advent%20children%20playthrough' },
           ],
-                [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
+                [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
                 [
-                  { icon: 'bi bi-android2', iconImg: null, name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-                  { icon: 'bi bi-apple', iconImg: null, name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+                  { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+                  { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
                 ],
               ],
             },
@@ -753,8 +753,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               length: '101min',
               platformGroups: [
                 [
-                  { icon: null, iconImg: null, text: 'DVD', name: 'DVD', noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/psp.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Portable (PSP) (PlayStation Portable: Universal Media Disk)', noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/dvd.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'DVD', noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP) (PlayStation Portable: Universal Media Disk)', noUrl: true },
                 ],
               ],
             },
@@ -778,13 +778,13 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '57', midScore: '6.7', midUrl: 'https://www.metacritic.com/game/dirge-of-cerberus-final-fantasy-vii/', url: 'https://www.metacritic.com/game/dirge-of-cerberus-final-fantasy-vii/', single: true, sourceLabel: 'Metacritic' },
         platformGroups: [
           [
-            { icon: null, iconImg: 'images/platforms/ps2.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 2', noUrl: true },
-            { icon: null, iconImg: 'images/platforms/ps3.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 3 (PS2 compatibility)', noUrl: true },
+            { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2', noUrl: true },
+            { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PS2 compatibility)', noUrl: true },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Final%20Fantasy%20VII%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Final%20Fantasy%20VII%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Final%20Fantasy%20VII%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Final%20Fantasy%20VII%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Final%20Fantasy%20VII%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Final%20Fantasy%20VII%20playthrough' },
           ],
         ],
         alt: {
@@ -809,14 +809,14 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '4.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', sourceUrl: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', sourceLabel: 'Steam; Mixed' },
               platformGroups: [
                 [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20playthrough' },
           ],
-                [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
+                [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
                 [
-                  { icon: 'bi bi-android2', iconImg: null, name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-                  { icon: 'bi bi-apple', iconImg: null, name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+                  { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+                  { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
                 ],
               ],
             },
@@ -828,8 +828,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               languages: [{ value: 'JA', tip: 'Japanese', native: true }],
               platformGroups: [
                 [
-                  { icon: null, iconImg: 'images/platforms/ps2.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 2 (Japan Only)', noUrl: true, jpTag: true },
-                  { icon: null, iconImg: 'images/platforms/ps3.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 3 (PS2 compatibility; Japan Only)', noUrl: true, jpTag: true },
+                  { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (Japan Only)', noUrl: true, jpTag: true },
+                  { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PS2 compatibility; Japan Only)', noUrl: true, jpTag: true },
                 ],
               ],
             },
@@ -846,11 +846,11 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         emPost: '.',
         platformGroups: [
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Lost%20Episode%3A%20Final%20Fantasy%20VII%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Lost%20Episode%3A%20Final%20Fantasy%20VII%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Lost%20Episode%3A%20Final%20Fantasy%20VII%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Lost%20Episode%3A%20Final%20Fantasy%20VII%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Lost%20Episode%3A%20Final%20Fantasy%20VII%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Lost%20Episode%3A%20Final%20Fantasy%20VII%20playthrough' },
           ],
-          [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.8, imgStyle: 'width: auto; height: 16.8px; filter: brightness(0) saturate(100%) invert(100%);', name: 'Mobile Phones; terminated', noUrl: true , terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+          [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'Mobile Phones; terminated', noUrl: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
         ],
         alt: {
           extras: [
@@ -874,14 +874,14 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '4.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', sourceUrl: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', sourceLabel: 'Steam; Mixed' },
               platformGroups: [
                 [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20playthrough' },
           ],
-                [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
+                [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
                 [
-                  { icon: 'bi bi-android2', iconImg: null, name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-                  { icon: 'bi bi-apple', iconImg: null, name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+                  { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+                  { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
                 ],
               ],
             },
@@ -900,8 +900,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           { text: '. It is terminated, but you can always replay the original minigame.' },
         ],
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Snowboarding%20mobile%20playthrough' }],
-          [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.8, imgStyle: 'width: auto; height: 16.8px; filter: brightness(0) saturate(100%) invert(100%);', name: 'Mobile Phones; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Snowboarding%20mobile%20playthrough' }],
+          [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'Mobile Phones; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
         ],
         },
         { title: 'Final Fantasy VII G-Bike', releaseDate: '2014-10-30', chronoOrder: 490, recommendedOrder: 1900, tags: ['Optional', 'Spin-off', 'Minigame', 'Mobile', 'Racing', 'Motorcycle', 'Hack and slash', 'Single-player', 'Terminated'], mediaType: 'Game',
@@ -917,10 +917,10 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         ],
         platformGroups: [
           [
-            { icon: 'bi bi-android2', iconImg: null, name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-            { icon: 'bi bi-apple', iconImg: null, name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+            { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+            { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
           ],
-          [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20G-Bike%20playthrough' }],
+          [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20G-Bike%20playthrough' }],
         ],
         },
       ]};

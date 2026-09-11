@@ -9,10 +9,10 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '78', midScore: '7.8', midUrl: 'https://www.metacritic.com/game/theatrhythm-final-fantasy/', url: 'https://www.metacritic.com/game/theatrhythm-final-fantasy/', single: true, sourceLabel: 'Metacritic' },
         platformGroups: [
           [
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Fantasy%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Fantasy%20playthrough' },
           ],
-          [{ icon: 'bi bi-apple', iconImg: null, name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/3ds.png', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo 3DS (No Digital)', noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo 3DS (No Digital)', noUrl: true }],
         ],
         },
         { title: 'Theatrhythm Final Fantasy: Curtain Call', releaseDate: '2014-04-24', chronoOrder: 100, recommendedOrder: 200, tags: ['Sequel', 'Rhythm', 'Single-player', 'Multiplayer'], mediaType: 'Game', lengthParts: [{ value: '11½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '36h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '103h', tip: 'Completionist' }],
@@ -31,9 +31,9 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
         platformGroups: [
           [
 
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Fantasy%3A%20Curtain%20Call%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Fantasy%3A%20Curtain%20Call%20playthrough' },
           ],
-          [{ icon: null, iconImg: 'images/platforms/3ds.png', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo 3DS', noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo 3DS', noUrl: true }],
         ],
         },
         { title: 'Theatrhythm Dragon Quest', releaseDate: '2015-03-26', chronoOrder: 150, recommendedOrder: 250, tags: ['Optional', 'Spin-off', 'Rhythm', 'Single-player'], mediaType: 'Game',
@@ -49,10 +49,10 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
         ],
         platformGroups: [
           [
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Dragon%20Quest%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Dragon%20Quest%20playthrough' },
           ],
-          [{ icon: null, iconImg: 'images/platforms/3ds.png', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo 3DS (JP)', jpTag: true, noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Theatrhythm%20Dragon%20Quest%20translation' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo 3DS (JP)', jpTag: true, noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Theatrhythm%20Dragon%20Quest%20translation' }],
         ],
         },
         { title: 'Theatrhythm Final Fantasy All-Star Carnival', releaseDate: '2016-09-27', chronoOrder: 200, recommendedOrder: 300, tags: ['Sequel', 'Rhythm', 'Arcade', 'Single-player', 'Multiplayer', 'Co-op'], mediaType: 'Game',
@@ -63,9 +63,9 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
         description: 'The game features revamped arcade controls, improved graphics, cooperative play.',
         platformGroups: [
           [
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Fantasy%20All-Star%20Carnival%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Fantasy%20All-Star%20Carnival%20playthrough' },
           ],
-          [{ icon: null, iconImg: 'images/platforms/arcade.png', iconSize: 16, imgStyle: 'width: auto; height: 16px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg) brightness(1.8);', name: 'Arcade (JP)', jpTag: true, noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/arcade.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Arcade (JP)', jpTag: true, noUrl: true }],
         ],
         },
         { title: 'Theatrhythm Final Bar Line', releaseDate: '2023-02-16', chronoOrder: 300, recommendedOrder: 400, tags: ['Sequel', 'Rhythm', 'Single-player', 'Multiplayer', 'Co-op'], mediaType: 'Game',
@@ -86,12 +86,12 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '87', midScore: '8.8', midUrl: 'https://www.metacritic.com/game/theatrhythm-final-bar-line/', url: 'https://www.metacritic.com/game/theatrhythm-final-bar-line/', single: true, sourceLabel: 'Metacritic' },
         platformGroups: [
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Bar%20Line%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Bar%20Line%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Bar%20Line%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Bar%20Line%20playthrough' },
           ],
-          [{ icon: 'bi bi-nintendo-switch', iconImg: null, name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/theatrhythm-final-bar-line-switch/' }],
-          [{ icon: null, iconImg: 'images/platforms/switch-2.png', iconSize: 30.3, imgStyle: 'width: auto; height: 30.3px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo Switch 2 (Backwards Compatible; Digital)', url: 'https://www.nintendo.com/store/products/theatrhythm-final-bar-line-switch/' }],
-          [{ icon: null, iconImg: 'images/platforms/ps4.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 4', noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/theatrhythm-final-bar-line-switch/' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Backwards Compatible; Digital)', url: 'https://www.nintendo.com/store/products/theatrhythm-final-bar-line-switch/' }],
+          [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4', noUrl: true }],
         ],
         },
       ]};

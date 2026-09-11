@@ -36,8 +36,9 @@ renders — it only needs regenerating to keep the committed file diff-clean.
 | Editable (owned here) | Vendored from kit — don't hand-edit |
 | --- | --- |
 | `site/data/*.js` (game data, FAQ, series order) | `site/components.js` (generated) |
-| `site/page.dc.html`, `site/PlatformIcon.dc.html` (pre-migration) | every other `site/*.dc.html`, `site/support.js`, `site/_ds/`, `site/images/ui/` |
-| `site/images/platforms/` | every `scripts/*.py`, `svgo.config.mjs`, `justfile` |
+| `site/page.dc.html` | every other `site/*.dc.html`, `site/support.js`, `site/_ds/` |
+| | `site/images/ui/`, `site/images/platforms/`, `site/data/platform-icons.js` |
+| | every `scripts/*.py`, `svgo.config.mjs`, `justfile` |
 | | `.editorconfig`, `.gitattributes`, `.claude/settings.json`, `CODE_OF_CONDUCT.md` |
 | | `.githooks/pre-commit`, most of `.github/` (see `sync.toml`) |
 
@@ -47,10 +48,10 @@ This repo owns nothing another repo pulls; it vendors almost everything
 code-shaped from [`vertex-order/kit`](https://github.com/vertex-order/kit)
 per [`sync.toml`](sync.toml) — see AGENTS.md/CONTRIBUTING.md in `platforms`
 or `kit` for the full mechanics (`just sync` / `sync-check` / `sync-update`,
-the three anti-hand-edit guards). `site/PlatformIcon.dc.html` and
-`site/images/platforms/` stay local — they predate the platforms repo's
-current icon model; migrating them touches real `data/` entries and is a
-deliberate separate step, not part of this vendoring pass.
+the three anti-hand-edit guards). `PlatformIcon.dc.html`, `platform-icons.js`,
+and `images/platforms/` are vendored too, as of the platform-icon migration:
+every inline platform-icon object in `site/data/series-*.js` (1,407 of them)
+was rewritten to the canonical filenames/sizes/model in that same pass.
 
 Not vendored, even though this repo needs its own:
 `.github/ISSUE_TEMPLATE/*`, `.github/PULL_REQUEST_TEMPLATE.md` (repo-specific
