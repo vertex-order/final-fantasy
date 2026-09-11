@@ -9,3 +9,6 @@ Site source lives in [`site/`](site/). It's plain HTML/CSS/JS: open
 - **Contributing (edit data, preview, PR, deploy):** [CONTRIBUTING.md](CONTRIBUTING.md)
 - **Working in an AI coding tool:** [AGENTS.md](AGENTS.md)
 - **Code of conduct:** [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- **Licence:** `data/` and the displayed page are
+  [CC BY-NC-SA 4.0](LICENSE); the code is [MIT](LICENSE-CODE) — see
+  [NOTICE.md](NOTICE.md) for third-party assets.

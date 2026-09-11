@@ -1,5 +1,12 @@
 <!-- LICENSE (markdown) -->
 
+Applies to `data/` (the game-list content) and the page content as
+displayed — not the code. The `.dc.html` components, `support.js`, and the
+build/CI tooling — whether authored here or vendored from
+[vertex-order/kit](https://github.com/vertex-order/kit) /
+[vertex-order/platforms](https://github.com/vertex-order/platforms) via
+[`sync.toml`](sync.toml) — are MIT; see [LICENSE-CODE](LICENSE-CODE).
+
 Copyright (c) 2026 Vertex Industries
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -33,17 +33,33 @@ renders — it only needs regenerating to keep the committed file diff-clean.
 
 ## What's editable vs vendored
 
-| Editable | Vendored / generated — don't hand-edit |
+| Editable (owned here) | Vendored from kit — don't hand-edit |
 | --- | --- |
 | `site/data/*.js` (game data, FAQ, series order) | `site/components.js` (generated) |
-| `site/*.dc.html` (render components) | `site/support.js` |
-| `site/page.dc.html` | `site/_ds/*/_ds_bundle.js`, `_ds_manifest.json` |
-| `site/_ds/*/styles.css` (design tokens) | `_ds/*/_adherence.oxlintrc.json` |
-| `site/images/` | |
+| `site/page.dc.html`, `site/PlatformIcon.dc.html` (pre-migration) | every other `site/*.dc.html`, `site/support.js`, `site/_ds/`, `site/images/ui/` |
+| `site/images/platforms/` | every `scripts/*.py`, `svgo.config.mjs`, `justfile` |
+| | `.editorconfig`, `.gitattributes`, `.claude/settings.json`, `CODE_OF_CONDUCT.md` |
+| | `.githooks/pre-commit`, most of `.github/` (see `sync.toml`) |
+
+## Cross-repo sync
+
+This repo owns nothing another repo pulls; it vendors almost everything
+code-shaped from [`vertex-order/kit`](https://github.com/vertex-order/kit)
+per [`sync.toml`](sync.toml) — see AGENTS.md/CONTRIBUTING.md in `platforms`
+or `kit` for the full mechanics (`just sync` / `sync-check` / `sync-update`,
+the three anti-hand-edit guards). `site/PlatformIcon.dc.html` and
+`site/images/platforms/` stay local — they predate the platforms repo's
+current icon model; migrating them touches real `data/` entries and is a
+deliberate separate step, not part of this vendoring pass.
+
+Not vendored, even though this repo needs its own:
+`.github/ISSUE_TEMPLATE/*`, `.github/PULL_REQUEST_TEMPLATE.md` (repo-specific
+Discussions URL) — seeded from kit's copies, kept locally.
 
 ## Build / preview / deploy
 
-- No bundler, no Node. `just serve` builds + serves the way CI does.
+- No bundler, no Node for the site (the one-time `just trim-svg` needs it).
+  `just serve` builds + serves the way CI does.
 - Push to `main` = deploy (GitHub Actions runs `just build`, publishes to
   Pages). No manual export step.
-- Recipes: see [`justfile`](justfile).
+- Recipes: see [`justfile`](justfile) — vendored from kit, same file byte-for-byte in every repo.
