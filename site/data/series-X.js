@@ -31,22 +31,22 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '92', midScore: '8.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-x/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-x/', sourceUrl: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/', sourceLabel: 'Steam; Very Positive' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
         platformGroups: [
-          [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/9ndnp3j6xwvh' }],
-          [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/' }],
-          [{ icon: 'bi bi-nintendo-switch', iconImg: null, name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch/' }],
-          [{ icon: null, iconImg: 'images/platforms/switch-2.png', iconSize: 30.3, imgStyle: 'width: auto; height: 30.3px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo Switch 2 (Switch 1 compatibility; Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch-2/' }],
+          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/9ndnp3j6xwvh' }],
+          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch/' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch 1 compatibility; Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch-2/' }],
           [
-            { icon: null, iconImg: 'images/platforms/ps4.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01227_00-FFX0FFX20USA0PS4' },
-            { icon: null, iconImg: 'images/platforms/ps5.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA01227_00-FFX0FFX20USA0PS4' },
+            { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01227_00-FFX0FFX20USA0PS4' },
+            { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA01227_00-FFX0FFX20USA0PS4' },
           ],
           [
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'One', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'X/S', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
+            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
+            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20playthrough' },
           ],
         ],
         alt: {
@@ -82,9 +82,9 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               ],
               storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/ps3.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
-                [{ icon: null, iconImg: 'images/platforms/ps4.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
-                [{ icon: null, iconImg: 'images/platforms/ps-vita.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation-vita.svg', iconSize: 8.49, imgStyle: 'width: auto; height: 8.49px;', name: 'PlayStation Vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
               ],
             },
             {
@@ -100,11 +100,11 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
               helpWanted: true,
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/ps1.svg', iconSize: 13.5, imgStyle: 'width: auto; height: 13.5px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation (PSone) (Physical)', noUrl: true }],
-                [{ icon: null, iconImg: 'images/platforms/ps2.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 2 (PSone compatibility)', noUrl: true }],
-                [{ icon: null, iconImg: 'images/platforms/ps3.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 3 (PSone compatibility; Digital)', noUrl: true }],
-                [{ icon: null, iconImg: 'images/platforms/psp.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Portable (PSP) (Digital)', noUrl: true }],
-                [{ icon: null, iconImg: 'images/platforms/ps-vita.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Vita (Digital)', noUrl: true }],
+                [{ icon: null, iconImg: 'images/platforms/playstation1.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px;', name: 'PlayStation (PSone) (Physical)', noUrl: true }],
+                [{ icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (PSone compatibility)', noUrl: true }],
+                [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PSone compatibility; Digital)', noUrl: true }],
+                [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP) (Digital)', noUrl: true }],
+                [{ icon: null, iconImg: 'images/platforms/playstation-vita.svg', iconSize: 8.49, imgStyle: 'width: auto; height: 8.49px;', name: 'PlayStation Vita (Digital)', noUrl: true }],
               ],
             },
             {
@@ -115,9 +115,9 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               helpWanted: true,
               platformGroups: [
                 [
-                  { icon: null, iconImg: 'images/platforms/ps1.svg', iconSize: 13.5, imgStyle: 'width: auto; height: 13.5px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation (PSone) (Physical)', noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/ps2.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 2 (PSone compatibility)', noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/ps3.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 3 (PSone compatibility)', noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/playstation1.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px;', name: 'PlayStation (PSone) (Physical)', noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (PSone compatibility)', noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PSone compatibility)', noUrl: true },
                 ],
               ],
             },
@@ -155,17 +155,17 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '5.8', url: 'https://www.imdb.com/title/tt13428272/', single: true, sourceLabel: 'IMDb' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
         platformGroups: [
-          [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/9ndnp3j6xwvh' }],
-          [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/' }],
-          [{ icon: 'bi bi-nintendo-switch', iconImg: null, name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch/' }],
-          [{ icon: null, iconImg: 'images/platforms/switch-2.png', iconSize: 30.3, imgStyle: 'width: auto; height: 30.3px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch-2/' }],
+          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/9ndnp3j6xwvh' }],
+          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch/' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch-2/' }],
           [
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'One', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'X/S', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
+            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
+            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20eternal%20calm%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20eternal%20calm%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20eternal%20calm%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20eternal%20calm%20story%20recap' },
           ],
         ],
         alt: {
@@ -184,9 +184,9 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               helpWanted: true,
               storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/ps3.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
-                [{ icon: null, iconImg: 'images/platforms/ps4.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
-                [{ icon: null, iconImg: 'images/platforms/ps-vita.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation-vita.svg', iconSize: 8.49, imgStyle: 'width: auto; height: 8.49px;', name: 'PlayStation Vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
               ],
             },
             {
@@ -202,11 +202,11 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
               helpWanted: true,
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/ps1.svg', iconSize: 13.5, imgStyle: 'width: auto; height: 13.5px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation (PSone) (Physical)', noUrl: true }],
-                [{ icon: null, iconImg: 'images/platforms/ps2.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 2 (PSone compatibility)', noUrl: true }],
-                [{ icon: null, iconImg: 'images/platforms/ps3.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 3 (PSone compatibility; Digital)', noUrl: true }],
-                [{ icon: null, iconImg: 'images/platforms/psp.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Portable (PSP) (Digital)', noUrl: true }],
-                [{ icon: null, iconImg: 'images/platforms/ps-vita.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Vita (Digital)', noUrl: true }],
+                [{ icon: null, iconImg: 'images/platforms/playstation1.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px;', name: 'PlayStation (PSone) (Physical)', noUrl: true }],
+                [{ icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (PSone compatibility)', noUrl: true }],
+                [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PSone compatibility; Digital)', noUrl: true }],
+                [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP) (Digital)', noUrl: true }],
+                [{ icon: null, iconImg: 'images/platforms/playstation-vita.svg', iconSize: 8.49, imgStyle: 'width: auto; height: 8.49px;', name: 'PlayStation Vita (Digital)', noUrl: true }],
               ],
             },
           ],
@@ -244,22 +244,22 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '7.2', midUrl: 'https://www.metacritic.com/game/final-fantasy-x-2/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-x-2/', sourceUrl: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/', sourceLabel: 'Steam; Very Positive' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
         platformGroups: [
-          [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/9ndnp3j6xwvh' }],
-          [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/' }],
-          [{ icon: 'bi bi-nintendo-switch', iconImg: null, name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch/' }],
-          [{ icon: null, iconImg: 'images/platforms/switch-2.png', iconSize: 30.3, imgStyle: 'width: auto; height: 30.3px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo Switch 2 (Switch 1 compatibility; Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch-2/' }],
+          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/9ndnp3j6xwvh' }],
+          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch/' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch 1 compatibility; Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch-2/' }],
           [
-            { icon: null, iconImg: 'images/platforms/ps4.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01227_00-FFX0FFX20USA0PS4' },
-            { icon: null, iconImg: 'images/platforms/ps5.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA01227_00-FFX0FFX20USA0PS4' },
+            { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01227_00-FFX0FFX20USA0PS4' },
+            { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA01227_00-FFX0FFX20USA0PS4' },
           ],
           [
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'One', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'X/S', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
+            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
+            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%20playthrough' },
           ],
         ],
         alt: {
@@ -295,9 +295,9 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               ],
               storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/ps3.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
-                [{ icon: null, iconImg: 'images/platforms/ps4.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
-                [{ icon: null, iconImg: 'images/platforms/ps-vita.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation-vita.svg', iconSize: 8.49, imgStyle: 'width: auto; height: 8.49px;', name: 'PlayStation Vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
               ],
             },
             {
@@ -320,8 +320,8 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               ],
               platformGroups: [
                 [
-                  { icon: null, iconImg: 'images/platforms/ps2.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 2 (Japan only)', jpTag: true, noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/ps3.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 3 (PS2 compatibility) (Japan only)', jpTag: true, noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (Japan only)', jpTag: true, noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PS2 compatibility) (Japan only)', jpTag: true, noUrl: true },
                 ],
               ],
             },
@@ -333,8 +333,8 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               helpWanted: true,
               platformGroups: [
                 [
-                  { icon: null, iconImg: 'images/platforms/ps2.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 2', noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/ps3.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 3 (PS2 compatibility)', noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2', noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PS2 compatibility)', noUrl: true },
                 ],
               ],
             },
@@ -373,18 +373,18 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
         ],
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
         platformGroups: [
-          [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/9ndnp3j6xwvh' }],
-          [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/' }],
-          [{ icon: 'bi bi-nintendo-switch', iconImg: null, name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch/' }],
-          [{ icon: null, iconImg: 'images/platforms/switch-2.png', iconSize: 30.3, imgStyle: 'width: auto; height: 30.3px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch-2/' }],
+          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/9ndnp3j6xwvh' }],
+          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch/' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch-2/' }],
           [
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'One', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'X/S', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
+            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
+            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20last%20mission%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20last%20mission%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20last%20mission%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20last%20mission%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20last%20mission%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20last%20mission%20playthrough' },
           ],
         ],
         alt: {
@@ -405,9 +405,9 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               helpWanted: true,
               storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/ps3.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
-                [{ icon: null, iconImg: 'images/platforms/ps4.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
-                [{ icon: null, iconImg: 'images/platforms/ps-vita.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation-vita.svg', iconSize: 8.49, imgStyle: 'width: auto; height: 8.49px;', name: 'PlayStation Vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' }],
               ],
             },
             {
@@ -423,8 +423,8 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               languages: [{ value: 'JA', tip: 'Japanese', native: true }],
               platformGroups: [
                 [
-                  { icon: null, iconImg: 'images/platforms/ps2.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 2 (Japan only)', jpTag: true, noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/ps3.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 3 (PS2 compatibility) (Japan only)', jpTag: true, noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (Japan only)', jpTag: true, noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PS2 compatibility) (Japan only)', jpTag: true, noUrl: true },
                 ],
               ],
             },
@@ -444,11 +444,11 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/23978849-final-fantasy-x-2-5-final-fantasy-x-2-5' }, { value: 'EN', tip: 'English (fan translation)', url: 'https://www.goodreads.com/book/show/56382146-final-fantasy-x-2-5-price-of-eternity' }, { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/23978346-final-fantasy-x-2-5-le-prix-de-l-ternit' }, { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/54251056-final-fantasy-x-2-5' }],
         rating: { scoreLabelText: 'Goodreads', score: '2.65', url: 'https://www.goodreads.com/book/show/56382146-final-fantasy-x-2-5-price-of-eternity', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: 'bi bi-book', iconImg: null, name: 'Novel', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~' },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~#External_links' }],
+          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~' },
+            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~#External_links' }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~#Story' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20X-2.5%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~#Story' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20X-2.5%20story%20recap' },
           ],
         ] },        { title: 'Final Fantasy X -Will-', releaseDate: '2013-12-26 20', chronoOrder: 5000, recommendedOrder: 600, tags: ['Optional', 'Sequel', 'Audio drama'], mediaType: 'Audio', length: '30min',
         parts: [
@@ -477,17 +477,17 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: 'Unfavorable', textOnly: true },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
         platformGroups: [
-          [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/9ndnp3j6xwvh' }],
-          [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/' }],
-          [{ icon: 'bi bi-nintendo-switch', iconImg: null, name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch/' }],
-          [{ icon: null, iconImg: 'images/platforms/switch-2.png', iconSize: 30.3, imgStyle: 'width: auto; height: 30.3px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch-2/' }],
+          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/9ndnp3j6xwvh' }],
+          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch/' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch-2/' }],
           [
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'One', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
-            { icon: 'bi bi-xbox', iconImg: null, suffix: 'X/S', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
+            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
+            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Audio (unofficial)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20will%20audio%20drama' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20will%20audio%20drama%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Audio (unofficial)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20will%20audio%20drama' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20will%20audio%20drama%20story%20recap' },
           ],
         ] },
       ]};

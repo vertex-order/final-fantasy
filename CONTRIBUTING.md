@@ -54,10 +54,15 @@ Edit the `SERIES_ORDER` list in [`site/data/index.js`](site/data/index.js)
 
 ## Add a platform / content icon
 
-Drop the file in [`site/images/platforms/`](site/images/platforms/), then
-reference it as `images/platforms/yourfile.svg` in a series data file (see
-the `iconImg` fields for examples). Name it after what it represents
-(`ps5.svg`, `snes.png`), not where it came from.
+`site/images/platforms/`, `PlatformIcon.dc.html`, and `platform-icons.js`
+are **vendored from kit** (which gets them from
+[`vertex-order/platforms`](https://github.com/vertex-order/platforms)) —
+don't drop a file in here directly. A new platform icon is added in
+`platforms`, following its own contributing guide; once it lands there and
+flows through kit, `just sync-update kit` here pulls it in. Then reference
+it as `images/platforms/yourfile.svg` in a series data file (see the
+`iconImg` fields for examples, and `platform-icons.js` for the canonical
+`iconSize`/`imgStyle` to match).
 
 ## Edit page copy or the FAQ
 
@@ -84,10 +89,10 @@ something there needs to change.
 
 ## Edit a `.dc.html` component
 
-**Owned here:** `page.dc.html`, `PlatformIcon.dc.html` (pre-migration —
-see [Cross-repo sync](#cross-repo-sync)). **Everything else** —
-`EntryTitleLinks.dc.html`, `SeriesSection.dc.html`, `MediaEntry.dc.html`,
-`BackToTop.dc.html`, and the rest of the render layer — is **vendored from
+**Owned here:** only `page.dc.html`. **Everything else** —
+`PlatformIcon.dc.html`, `EntryTitleLinks.dc.html`, `SeriesSection.dc.html`,
+`MediaEntry.dc.html`, `BackToTop.dc.html`, and the rest of the render layer
+— is **vendored from
 [`vertex-order/kit`](https://github.com/vertex-order/kit)**; don't hand-edit
 it here.
 
@@ -120,14 +125,19 @@ by-hand procedure, and [`.claude/CLAUDE.md`](.claude/CLAUDE.md).
 Almost everything code-shaped here is **vendored from
 [`vertex-order/kit`](https://github.com/vertex-order/kit)**, per
 [`sync.toml`](sync.toml): the DC runtime, Nocturne (`_ds/`, `images/ui/`),
-every render component except `page.dc.html` and `PlatformIcon.dc.html`,
-every script (`bundle-components.py`, `sync.py`, the SVG tooling), the
-`justfile` itself, and CI/editor config with no reason to differ per repo.
-This repo owns
-nothing another repo pulls — `PlatformIcon.dc.html` and `images/platforms/`
-stay local for now because they predate the platforms repo's current icon
-model (naming, tinting, format); migrating them is a separate future step
-since it touches real entries in `data/`.
+every render component including `PlatformIcon.dc.html` (only `page.dc.html`
+stays local), the platform icons themselves (`images/platforms/`,
+`platform-icons.js`), every script (`bundle-components.py`, `sync.py`, the
+SVG tooling), the `justfile` itself, and CI/editor config with no reason to
+differ per repo. This repo owns nothing another repo pulls.
+
+Every platform-icon reference in `site/data/series-*.js` — 1,407 of them —
+was migrated to the canonical `platforms` names, sizes, and rendering model
+(images instead of Bootstrap-icon classes for several platforms; one image
+per Xbox generation instead of a shared icon plus a suffix; the per-entry
+tint `filter:` dropped since `PlatformIcon.dc.html` now applies it via CSS).
+A new platform icon still gets added in `platforms` first, then flows down
+through kit — see [Add a platform / content icon](#add-a-platform--content-icon).
 
 - `just sync` — pull the vendored files at the pinned `ref`.
 - `just sync-check` — what CI runs
@@ -214,12 +224,10 @@ Owned here (edit these):
 ```
 site/
 ├── page.dc.html         page shell + render/logic layer
-├── PlatformIcon.dc.html   pre-migration; not yet the canonical platforms version
-├── data/
-│   ├── index.js          SERIES_ORDER + loader
-│   ├── series-*.js       one file per series: all its game entries
-│   └── faq.js            FAQ content
-└── images/platforms/     platform / content icons referenced by the data files
+└── data/
+    ├── index.js          SERIES_ORDER + loader
+    ├── series-*.js       one file per series: all its game entries
+    └── faq.js            FAQ content
 sync.toml                 cross-repo file-sync manifest
 ```
 
@@ -230,7 +238,8 @@ Vendored from [`vertex-order/kit`](https://github.com/vertex-order/kit) via
 `just sync` — **don't hand-edit** (see [Cross-repo sync](#cross-repo-sync)):
 
 ```
-site/support.js, site/_ds/, site/images/ui/,
+site/support.js, site/_ds/, site/images/ui/, site/images/platforms/,
+site/PlatformIcon.dc.html, site/data/platform-icons.js,
 site/{BackToTop,HelpWanted,DescRun,EntryByline,EntryTitleLinks,
       ExtrasToggle,FAQ,FloatingCorner,FloatingNav,InPageControls,
       LanguageTag,LengthDisplay,MediaEntry,RatingDisplay,

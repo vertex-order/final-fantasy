@@ -6,11 +6,11 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
         description: 'Follows the story of a young man as he quests through the universe, looking for a place to belong. With an enigmatic cast of interesting characters.',
         languages: [{ value: 'EN', tip: 'English', native: true }],
         platformGroups: [
-          [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows', noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', noUrl: true }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20playthrough' },
           ],
         ] },
         { title: 'Final Fantasy XIV: Legend of Balance', releaseDate: '2013-01', chronoOrder: 500, recommendedOrder: 200, tags: ['Unofficial fan project', '2D', 'Sprites', 'RPG', 'Alternate Universe', 'Free'], mediaType: 'Game', lengthParts: [{ value: '26h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '30h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '40h', tip: 'Completionist' }],
@@ -32,11 +32,11 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
         description: 'A group of heroes, champions of Eorzea, are transported away moments before facing certain death against Bahamut, and must find their way home through a strange new world entwined with crystals, old evils, and steadfast allies.',
         languages: [{ value: 'EN', tip: 'English', native: true }],
         platformGroups: [
-          [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows', noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', noUrl: true }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20playthrough' },
           ],
         ] },
         { title: 'Final Fantasy XI: Braver', releaseDate: '2021-07-10', chronoOrder: 400, recommendedOrder: 300, tags: ['Unofficial fan project', 'RPG', '2D', 'Sprites', 'Alternate Universe', 'Free'], mediaType: 'Game',
@@ -55,11 +55,11 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
         languages: [{ value: 'EN', tip: 'English' }],
         storeUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver',
         platformGroups: [
-          [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows', url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver' }],
+          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver' }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20playthrough' },
           ],
         ] },
         { title: 'Final Fantasy Renaissance', releaseDate: '2024', chronoOrder: 100, recommendedOrder: 400, tags: ['Unofficial fan project', 'Free'], mediaType: 'Game',
@@ -78,8 +78,8 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
         languages: [{ value: 'EN', tip: 'English' }],
         storeUrl: 'https://www.rengames.us/ffr',
         platformGroups: [
-          [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows', url: 'https://discord.com/invite/Kg8fVsJW' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20renaissance%20playthrough' }],
+          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: 'https://discord.com/invite/Kg8fVsJW' }],
+          [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20renaissance%20playthrough' }],
         ] },
         { title: 'Final Fantasy IV: The Novel', releaseDate: '2002-08-10', chronoOrder: 200, recommendedOrder: 500, tags: ['Unofficial fan project', 'Novel', 'Free'], mediaType: 'Book', length: '27 chapters',
         parts: [
@@ -98,6 +98,6 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
         description: "This is the story of Cecil Harvey, a dark knight whose journey for redemption draws himself, his best friend Kain and Rosa into a dangerous battle for their planet.",
         languages: [{ value: 'EN', tip: 'English' }],
         platformGroups: [
-          [{ icon: 'bi bi-book', iconImg: null, name: 'Book', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' }],
+          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Book', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' }],
         ] },
       ]};

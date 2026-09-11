@@ -13,8 +13,8 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
         platformGroups: [
-          [{ icon: 'bi bi-book', iconImg: null, name: 'Picture Book', noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IX%20Picture%20Book%3A%20Vivi%20and%20Grandpa%27s%20Memories%20for%20the%20Sky%20reading' }],
+          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Picture Book', noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IX%20Picture%20Book%3A%20Vivi%20and%20Grandpa%27s%20Memories%20for%20the%20Sky%20reading' }],
         ] },
         { title: 'Chocobo and the Airship: A Final Fantasy Picture Book', releaseDate: '2023-03-21', chronoOrder: 100, recommendedOrder: 100, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '40p',
         parts: [
@@ -26,8 +26,8 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/61121994-final-fantasy-e-hon' }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/61725549-chocobo-and-the-airship' }, { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/63141628-chocobo-et-le-bateau-volant' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
         platformGroups: [
-          [{ icon: 'bi bi-book', iconImg: null, name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092031' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Chocobo%20and%20the%20Airship%3A%20A%20Final%20Fantasy%20Picture%20Book%20reading' }],
+          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092031' }],
+          [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Chocobo%20and%20the%20Airship%3A%20A%20Final%20Fantasy%20Picture%20Book%20reading' }],
         ] },
         { title: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', releaseDate: '2022-08-09', chronoOrder: 300, recommendedOrder: 300, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
         parts: [
@@ -43,8 +43,8 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/59912205-final-fantasy-xiv-picture-book' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
         platformGroups: [
-          [{ icon: 'bi bi-book', iconImg: null, name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20Picture%20Book%3A%20The%20Namazu%20and%20the%20Greatest%20Gift%20reading' }],
+          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' }],
+          [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20Picture%20Book%3A%20The%20Namazu%20and%20the%20Greatest%20Gift%20reading' }],
         ] },
         { title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', releaseDate: '2027-04-13', chronoOrder: 400, recommendedOrder: 400, tags: ['Upcoming', 'Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
         upcoming: true,
@@ -61,7 +61,7 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/255391940', single: true, sourceLabel: 'Goodreads' },
         helpWanted: true,
         platformGroups: [
-          [{ icon: 'bi bi-book', iconImg: null, name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833' }],
-        [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20Picture%20Book%3A%20Me%20and%20the%20Cornservant%20reading' }],
+          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833' }],
+        [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20Picture%20Book%3A%20Me%20and%20the%20Cornservant%20reading' }],
         ] },
       ]};

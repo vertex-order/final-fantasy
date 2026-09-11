@@ -18,13 +18,13 @@ window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'FR', tip: 'French' }, { value: 'ZH-CN', tip: 'Simplified Chinese' }, { value: 'ZH-TW', tip: 'Traditional Chinese' }],
         storeUrl: 'https://www.jp.square-enix.com/ffdl/en/',
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.8, imgStyle: 'width: auto; height: 16.8px; filter: brightness(0) saturate(100%) invert(100%);', name: 'Mobile Phones; terminated', noUrl: true , terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
-          [{ icon: 'bi bi-apple', iconImg: null, name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy-dimensions/id540992837' }],
-          [{ icon: 'bi bi-android2', iconImg: null, name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp' }],
+          [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'Mobile Phones; terminated', noUrl: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+          [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy-dimensions/id540992837' }],
+          [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp' }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20playthrough' },
           ],
         ] },
         { title: 'Final Fantasy Dimensions II', releaseDate: '2015-02-12', chronoOrder: 100, recommendedOrder: 200, tags: ['2D', 'RPG', 'Conditional Turn-Based Battle'], mediaType: 'Game', lengthParts: [{ value: '36h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '51½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '79½h', tip: 'Completionist' }],
@@ -48,12 +48,12 @@ window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
         storeUrl: 'https://www.jp.square-enix.com/FFL2/en/',
         platformGroups: [
-          [{ icon: 'bi bi-apple', iconImg: null, name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy-dimensions-ii/id1239279234' }],
-          [{ icon: 'bi bi-android2', iconImg: null, name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl2w&pli=1' }],
+          [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy-dimensions-ii/id1239279234' }],
+          [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl2w&pli=1' }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20playthrough' },
           ],
         ] },
       ]};

@@ -6,12 +6,10 @@
 #                 never hand-edit; edit them in the owning repo (kit).
 #                 check-vendored.yml fails the PR if any has drifted.
 #
-# This repo publishes nothing — it owns no file another repo vendors.
-# site/PlatformIcon.dc.html, site/data/*.js, and site/images/platforms/ stay
-# local and un-migrated for now: they predate — and don't yet match — the
-# platforms repo's current icon model (naming, monochrome tinting, asset
-# format). Migrating them is a deliberate future step, not part of this
-# vendoring pass, since it touches real game-list data in data/.
+# This repo publishes nothing — it owns no file another repo vendors. Every
+# platform icon reference in site/data/series-*.js was migrated to the
+# canonical platforms names/sizes/model in the same pass that added
+# PlatformIcon.dc.html, platform-icons.js, and images/platforms/ below.
 #
 # Not vendored, even though this repo needs its own: .github/ISSUE_TEMPLATE/*
 # and .github/PULL_REQUEST_TEMPLATE.md. Each necessarily carries this repo's
@@ -25,7 +23,10 @@ ref  = "main"   # pin to a commit SHA / tag for reproducibility: `just sync-upda
 paths = [
   "site/_ds/",
   "site/images/ui/",
+  "site/images/platforms/",
   "site/support.js",
+  "site/PlatformIcon.dc.html",
+  "site/data/platform-icons.js",
   "site/BackToTop.dc.html",
   "site/HelpWanted.dc.html",
   "site/DescRun.dc.html",
@@ -59,6 +60,3 @@ paths = [
   ".github/workflows/static.yml",
   ".github/dependabot.yml",
 ]
-# TODO: once FF's platform icons are migrated to the canonical platforms
-# model, add site/PlatformIcon.dc.html, site/data/platform-icons.js, and
-# site/images/platforms/ here (they'll come from kit, same as every list).

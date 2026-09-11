@@ -39,23 +39,23 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         ],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '8.1', midUrl: 'https://www.metacritic.com/game/final-fantasy-iv-pixel-remaster/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-iv/', sourceUrl: 'https://store.steampowered.com/app/1173800/FINAL_FANTASY_IV/', sourceLabel: 'Steam; Very Positive' },
         platformGroups: [
-          [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' }],
-          [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/1173800?' }],
-          [{ icon: 'bi bi-android2', iconImg: null, name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR4&' }],
-          [{ icon: 'bi bi-apple', iconImg: null, name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy-iv/id1492041417?' }],
-          [{ icon: 'bi bi-nintendo-switch', iconImg: null, name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-iv-switch/' }],
-          [{ icon: null, iconImg: 'images/platforms/switch-2.png', iconSize: 30.3, imgStyle: 'width: auto; height: 30.3px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-iv-switch/' }],
+          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' }],
+          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/1173800?' }],
+          [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR4&' }],
+          [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy-iv/id1492041417?' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-iv-switch/' }],
+          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-iv-switch/' }],
           [
-            { icon: null, iconImg: 'images/platforms/ps4.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA33829_00-FF4PS4APPNA00001' },
-            { icon: null, iconImg: 'images/platforms/ps5.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA33829_00-FF4PS4APPNA00001' },
+            { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA33829_00-FF4PS4APPNA00001' },
+            { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA33829_00-FF4PS4APPNA00001' },
           ],
-          [{ icon: 'bi bi-xbox', iconImg: null, suffix: 'X/S', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' }],
-          [{ icon: 'bi bi-xbox', iconImg: null, suffix: 'Cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' }],
-          [{ icon: 'bi bi-amazon', iconImg: null, name: 'Amazon App Store', url: 'https://www.amazon.com/dp/B09D2Y1CHH?' }],
+          [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' }],
+          [{ icon: null, iconImg: 'images/platforms/xbox-cloud.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' }],
+          [{ icon: null, iconImg: 'images/platforms/amazon.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Amazon App Store', url: 'https://www.amazon.com/dp/B09D2Y1CHH?' }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20playthrough' },
           ],
         ],
         platformsUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
@@ -78,7 +78,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               emTerm3: 'The After Years (2008)',
               emPost3: '.',
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/psp.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Portable (Physical)' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (Physical)' }],
               ],
             },
             {
@@ -90,7 +90,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               description: 'Introduced the EX Dungeon bonus content and an unlimited inventory, both later folded into Remake (2011).',
               languages: [{ value: 'JA', tip: 'Japanese', native: true }],
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.8, imgStyle: 'width: auto; height: 16.8px; filter: brightness(0) saturate(100%) invert(100%); ', name: 'Mobile Phones (Digital; Japan Only); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+                [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'Mobile Phones (Digital; Japan Only); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
               ],
             },
             {
@@ -109,7 +109,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               helpWanted: true,
               languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/gba.png', iconSize: 27.3, imgStyle: 'width: auto; height: 27.3px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Game Boy Advance (Physical)' }],
+                [{ icon: null, iconImg: 'images/platforms/nintendo-game-boy-advance.svg', iconSize: 12.5, imgStyle: 'width: auto; height: 12.5px;', name: 'Game Boy Advance (Physical)' }],
               ],
             },
             {
@@ -121,7 +121,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               description: 'This remake enhances sprite detail and shading, but removes the FMV intro, memo saves, and sprinting featured in Remake (1997).',
               languages: [{ value: 'JA', tip: 'Japanese', native: true }],
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/wonderswan.svg', iconSize: 19, imgStyle: 'width: auto; height: 19px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'WonderSwan Color (Physical; Japan Only)', jpTag: true }],
+                [{ icon: null, iconImg: 'images/platforms/wonderswan.svg', iconSize: 15.93, imgStyle: 'width: auto; height: 15.93px;', name: 'WonderSwan Color (Physical; Japan Only)', jpTag: true }],
               ],
             },
             {
@@ -148,11 +148,11 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               helpWanted: true,
               languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/ps3.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 3: PSone compatibility; Digital (Japan Only)', jpTag: true }],
-                [{ icon: null, iconImg: 'images/platforms/ps2.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation 2 (PSone compatibility)' }],
-                [{ icon: null, iconImg: 'images/platforms/ps1.svg', iconSize: 13.5, imgStyle: 'width: auto; height: 13.5px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation (PSone) (Physical)' }],
-                [{ icon: null, iconImg: 'images/platforms/ps-vita.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Vita: Digital (Japan Only)', jpTag: true }],
-                [{ icon: null, iconImg: 'images/platforms/psp.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Portable: Digital (Japan Only)', jpTag: true }],
+                [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3: PSone compatibility; Digital (Japan Only)', jpTag: true }],
+                [{ icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (PSone compatibility)' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation1.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px;', name: 'PlayStation (PSone) (Physical)' }],
+                [{ icon: null, iconImg: 'images/platforms/playstation-vita.svg', iconSize: 8.49, imgStyle: 'width: auto; height: 8.49px;', name: 'PlayStation Vita: Digital (Japan Only)', jpTag: true }],
+                [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable: Digital (Japan Only)', jpTag: true }],
               ],
             },
             {
@@ -168,10 +168,10 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               helpWanted: true,
               languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/snes.png', iconSize: 14.3, imgStyle: 'width: auto; height: 14.3px;', name: 'Super Nintendo Entertainment System (Super Famicom; Physical)' }],
-                [{ icon: null, iconImg: null, text: 'Wii', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
-                [{ icon: null, iconImg: null, text: 'Wii U', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
-                [{ icon: null, iconImg: 'images/platforms/gba.png', iconSize: 27.3, imgStyle: 'width: auto; height: 27.3px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Game Boy Advance (Physical)' }],
+                [{ icon: null, iconImg: 'images/platforms/nintendo-snes.svg', iconSize: 14.25, imgStyle: 'width: auto; height: 14.25px; filter: grayscale(100%);', name: 'Super Nintendo Entertainment System (Super Famicom; Physical)' }],
+                [{ icon: null, iconImg: 'images/platforms/nintendo-wii.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+                [{ icon: null, iconImg: 'images/platforms/nintendo-wii-u.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                [{ icon: null, iconImg: 'images/platforms/nintendo-game-boy-advance.svg', iconSize: 12.5, imgStyle: 'width: auto; height: 12.5px;', name: 'Game Boy Advance (Physical)' }],
               ],
             },
           ],
@@ -203,10 +203,10 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           emPost: '.',
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '89', midScore: '7.4', midUrl: 'https://www.metacritic.com/game/final-fantasy-iv-3d-remake/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-iv-3d-remake/', sourceUrl: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/', sourceLabel: 'Steam; Very Positive' },
           platformGroups: [
-            [{ icon: 'bi bi-windows', iconImg: null, name: 'Windows', url: null, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/gog.svg', iconSize: 16.8, imgStyle: 'width: auto; height: 16.8px;', name: 'GOG (PC)', url: 'https://www.gog.com/en/game/final_fantasy_iv_3d_remake' }],
-            [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/' }],
-            [{ icon: null, iconImg: 'images/platforms/apple-arcade.png', iconSize: 16, imgStyle: 'width: auto; height: 16px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Apple Arcade', url: 'https://apps.apple.com/app/final-fantasy-iv-3d-remake/id6504607951' }],
+            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: null, noUrl: true }],
+            [{ icon: null, iconImg: 'images/platforms/gog.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'GOG (PC)', url: 'https://www.gog.com/en/game/final_fantasy_iv_3d_remake' }],
+            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/' }],
+            [{ icon: null, iconImg: 'images/platforms/apple-arcade.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Apple Arcade', url: 'https://apps.apple.com/app/final-fantasy-iv-3d-remake/id6504607951' }],
           ],
           platformsUrl: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/',
           extras: [
@@ -218,8 +218,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               description: 'This port reworks the dual-screen interface into a single screen, improves visuals and audio, and adds cloud saves and achievements, but removes the Whyt minigames.',
               languages: [{ value: 'JA', tip: 'Japanese — full audio', native: true, voice: true }, { value: 'EN', tip: 'English — full audio', voice: true }, { value: 'FR', tip: 'French — text only' }, { value: 'DE', tip: 'German — text only' }, { value: 'IT', tip: 'Italian — text only' }, { value: 'ES-ES', tip: 'Spanish (Spain) — text only' }],
               platformGroups: [
-                [{ icon: 'bi bi-apple', iconImg: null, name: 'iOS (Digital)' }],
-                [{ icon: 'bi bi-android2', iconImg: null, name: 'Android (Digital)' }],
+                [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (Digital)' }],
+                [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (Digital)' }],
               ],
             },
             {
@@ -230,7 +230,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               description: 'The original 3D remake release. Uses the DS\u2019s touch screen and dual-screen interface; enemies are noticeably tougher than in the 2D versions.',
               languages: [{ value: 'JA', tip: 'Japanese — full audio', native: true, voice: true }, { value: 'EN', tip: 'English — full audio', voice: true }, { value: 'FR', tip: 'French — text only' }, { value: 'DE', tip: 'German — text only' }, { value: 'IT', tip: 'Italian — text only' }, { value: 'ES-ES', tip: 'Spanish (Spain) — text only' }],
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/nintendo-ds.png', iconSize: 11.8, imgStyle: 'width: auto; height: 11.8px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Nintendo DS (Physical)' }],
+                [{ icon: null, iconImg: 'images/platforms/nintendo-ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo DS (Physical)' }],
               ],
             },
           ],
@@ -244,9 +244,9 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/50286956' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/50286956', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: 'bi bi-book', iconImg: null, name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20IV%20~Novel~%20Vol.1%20translation' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20~Novel~%20Vol.1%20story%20recap' }],
+          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
+            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20IV%20~Novel~%20Vol.1%20translation' }],
+          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20~Novel~%20Vol.1%20story%20recap' }],
         ],
         alts: [
           {
@@ -256,7 +256,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             length: '27 chapters',
             languages: [{ value: 'EN', tip: 'English' }],
             platformGroups: [
-              [{ icon: 'bi bi-book', iconImg: null, name: 'Book', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' }],
+              [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Book', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' }],
             ],
           },
         ] },
@@ -269,9 +269,9 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77457241' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77457241', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: 'bi bi-book', iconImg: null, name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20IV%20~Novel~%20Vol.2%20translation' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20~Novel~%20Vol.2%20story%20recap' }],
+          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
+            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20IV%20~Novel~%20Vol.2%20translation' }],
+          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20~Novel~%20Vol.2%20story%20recap' }],
         ] },
         { title: 'Final Fantasy IV: Interlude', releaseDate: '2011-03-24', chronoOrder: 1000, recommendedOrder: 200, tags: ['Optional', 'Sequel'], mediaType: 'Game', lengthParts: [{ value: '2½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '3h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '3h', tip: 'Completionist' }],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
@@ -298,11 +298,11 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: 'Unfavorable', textOnly: true },
         platformGroups: [
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20playthrough' },
           ],
-          [{ icon: null, iconImg: 'images/platforms/psp.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Portable (Physical)', noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (Physical)', noUrl: true }],
         ],
         },
         { title: 'Final Fantasy IV: The After Years', releaseDate: '2008-02-18', chronoOrder: 2000, recommendedOrder: 300, tags: ['Optional', 'Sequel', 'Episodic', 'Active time battles'], mediaType: 'Game', lengthParts: [{ value: '35½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '46½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '108h', tip: 'Completionist' }],
@@ -335,11 +335,11 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: 'Unfavorable', textOnly: true },
         platformGroups: [
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20playthrough' },
+            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20game%20movie' },
+            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20story%20recap' },
+            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20playthrough' },
           ],
-          [{ icon: null, iconImg: 'images/platforms/psp.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'PlayStation Portable (Physical)', noUrl: true }],
+          [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (Physical)', noUrl: true }],
         ],
         extras: [
           {
@@ -350,8 +350,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             description: 'This release blends the Prologue, Ceodore\u2019s Tale, and Kain\u2019s Tale together, and was the first to release outside Japan.',
             platformGroups: [
               [
-                { icon: null, iconImg: null, text: 'Wii', name: 'Nintendo Wii: WiiWare; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-                { icon: null, iconImg: null, text: 'Wii U', name: 'Nintendo Wii U: WiiWare; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+                { icon: null, iconImg: 'images/platforms/nintendo-wii.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii: WiiWare; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+                { icon: null, iconImg: 'images/platforms/nintendo-wii-u.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii U: WiiWare; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
               ],
             ],
           },
@@ -363,7 +363,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             description: 'The original release, published episodically.',
             languages: [{ value: 'JA', tip: 'Japanese', native: true }],
             platformGroups: [
-              [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.8, imgStyle: 'width: auto; height: 16.8px; filter: brightness(0) saturate(100%) invert(100%);', name: 'Mobile Phones (Digital; Japan Only); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+              [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'Mobile Phones (Digital; Japan Only); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
             ],
           },
         ],
@@ -386,10 +386,10 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           ],
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: 'Mixed', url: 'https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/', single: true, sourceLabel: 'Steam' },
           platformGroups: [
-            [{ icon: 'bi bi-steam', iconImg: null, name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/' }],
-            [{ icon: 'bi bi-android2', iconImg: null, name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FF4AY_GP' }],
-            [{ icon: 'bi bi-apple', iconImg: null, name: 'iOS', url: 'https://apps.apple.com/app/ff-iv-the-after-years/id683029090' }],
-            [{ icon: null, iconImg: 'images/platforms/apple-arcade.png', iconSize: 16, imgStyle: 'width: auto; height: 16px; filter: brightness(0) saturate(100%) invert(80%) sepia(15%) saturate(200%) hue-rotate(195deg);', name: 'Apple Arcade', url: 'https://apps.apple.com/app/ff-iv-the-after-years/id6504608150' }],
+            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/' }],
+            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FF4AY_GP' }],
+            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://apps.apple.com/app/ff-iv-the-after-years/id683029090' }],
+            [{ icon: null, iconImg: 'images/platforms/apple-arcade.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Apple Arcade', url: 'https://apps.apple.com/app/ff-iv-the-after-years/id6504608150' }],
           ],
         } },
         { title: 'Final Fantasy IV: The After ~Novel~', releaseDate: '2009-03-26', chronoOrder: 2500, recommendedOrder: 350, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
@@ -402,8 +402,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77476002' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77476002', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: 'bi bi-book', iconImg: null, name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20IV%3A%20The%20After%20~Novel~%20translation' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20~Novel~%20story%20recap' }],
+          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
+            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20IV%3A%20The%20After%20~Novel~%20translation' }],
+          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20~Novel~%20story%20recap' }],
         ] },
       ]};
