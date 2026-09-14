@@ -1,3 +1,5 @@
+<!-- page.dc.html — owned by vertex-order/kit. Edit here.
+     Vendored elsewhere via sync.toml; don't edit the copy there. -->
 <!-- site/page.dc.html (html) -->
 
 <!DOCTYPE html>
@@ -7,6 +9,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="./support.js"></script>
 <script src="./data/index.js"></script>
+<script src="./data/site.js"></script>
+<script src="./data/intro.js"></script>
+<script src="./data/credits.js"></script>
 <script src="./data/faq.js"></script>
 <script src="./data/help-wanted.js"></script>
 <script>
@@ -77,7 +82,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
     <div style="max-width: 760px; margin: 0 auto; height: 44px; display: flex; align-items: center; gap: var(--space-3); padding: 0 var(--space-4); padding-right: calc(var(--space-4) + {{ navReservedRightPx }});">
       <sc-if value="{{ navShowTitle }}" hint-placeholder-val="{{ true }}">
       <div style="display: flex; flex-direction: column; justify-content: center; gap: 1px; margin-top: 6px; margin-left: {{ navTitleMarginLeft }};">
-        <span style="font-family: var(--font-heading); font-weight: 500; font-size: 13px; line-height: 1; white-space: nowrap; color: var(--color-text);">Final Fantasy <span title="Vertex Industries, that's us!">Vertex</span> Order</span>
+        <span style="font-family: var(--font-heading); font-weight: 500; font-size: 13px; line-height: 1; white-space: nowrap; color: var(--color-text);">{{ siteName }} <span title="Vertex Industries, that's us!">Vertex</span> Order</span>
         <span style="font-size: 9px; line-height: 1; white-space: nowrap; color: var(--color-neutral-600); margin-top: 2px;">Updated: {{ lastUpdatedShort }}</span>
       </div>
       </sc-if>
@@ -178,7 +183,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
       <div style="position: absolute; top: 40px; right: 0; z-index: 30; background: var(--color-surface); border: 1px solid var(--color-divider); border-radius: var(--radius-md); box-shadow: var(--shadow-md); padding: var(--space-3); display: flex; flex-direction: column; gap: var(--space-3); min-width: 220px; max-height: 70vh; overflow-y: auto;">
         <sc-if value="{{ hideTitleInMenu }}" hint-placeholder-val="{{ false }}">
         <div style="display: flex; flex-direction: column; gap: 1px;">
-          <span style="font-family: var(--font-heading); font-weight: 500; font-size: 13px; line-height: 1.3; color: var(--color-text);">Final Fantasy Vertex Order</span>
+          <span style="font-family: var(--font-heading); font-weight: 500; font-size: 13px; line-height: 1.3; color: var(--color-text);">{{ siteName }} Vertex Order</span>
           <span style="font-size: 10px; color: var(--color-neutral-600);">Updated: {{ lastUpdatedShort }}</span>
         </div>
         </sc-if>
@@ -239,29 +244,16 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
 
   <nav class="nav" style="padding: var(--space-3) 0;">
     <div style="max-width: 760px; margin: 0 auto; padding: 0 var(--space-4); width: 100%;">
-      <div class="nav-brand" style="margin-left: {{ navTitleMarginLeft }};">Final Fantasy — <span title="Vertex Industries, that's us!">Vertex</span> Order</div>
+      <div class="nav-brand" style="margin-left: {{ navTitleMarginLeft }};">{{ siteName }} — <span title="Vertex Industries, that's us!">Vertex</span> Order</div>
     </div>
   </nav>
 
   <div style="max-width: 760px; margin: 0 auto; padding: var(--space-8) var(--space-4) var(--space-8);">
 
-    <h1 style="font-family: var(--font-heading); font-weight: 500; font-size: 40px; margin: var(--space-6) 0 0;">Final Fantasy <span title="Vertex Industries, that's us!">Vertex</span> Order</h1>
-    <p style="color: var(--color-neutral-600); font-size: 11px; margin: 4px 0 var(--space-3);">Last Updated: {{ lastUpdatedLong }}</p>
-    <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; max-width: 620px; margin: 0 0 var(--space-3);">A recommended way to experience the Final Fantasy franchise, each series listing the mainline game alongside its prequels, sequels, remakes and spin-offs. Optional extras are marked — skip them and the series still holds together.</p>
-    <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; max-width: 620px; margin: 0 0 var(--space-6);">
-      {{ introStats.mainline }} mainline entries; {{ introStats.series }} series, {{ introStats.games }} games, {{ introStats.expansions }} expansions &amp; DLC, {{ introStats.video }} movies &amp; videos, {{ introStats.books }} books, {{ introStats.comics }} comics, and {{ introStats.radioDramas }} radio dramas. Oh my! Where to start?
-    </p>
+    <dc-import name="Intro" title="{{ introTitle }}" last-updated="{{ introLastUpdated }}" tagline="{{ introTagline }}" stats-text="{{ introStatsText }}" sections="{{ introSections }}" hint-size="auto,600px" style="display: block;"></dc-import>
 
-    <div style="max-width: 620px; margin: 0 0 var(--space-6); display: flex; flex-direction: column; gap: var(--space-3);">
-      <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: 0;"><span onMouseEnter="{{ headerAnchors.whereToStart.onAnchorHoverEnter }}" onMouseLeave="{{ headerAnchors.whereToStart.onAnchorHoverLeave }}" style="display: flex; align-items: baseline; gap: 6px; margin-bottom: 2px;"><strong id="where-to-start" style="color: var(--color-text); font-weight: 500; font-size: 24px;">Where to start?</strong><a href="{{ headerAnchors.whereToStart.anchorHref }}" onClick="{{ headerAnchors.whereToStart.onAnchorClick }}" title="Link to this section" style="color: var(--color-neutral-500); text-decoration: none; font-size: 14px; opacity: {{ headerAnchors.whereToStart.pilcrowOpacity }}; transition: opacity .15s;">¶</a></span> You can play Final Fantasy in any order — no way is more correct than another. Ours is just one take; feel free to modify it and make it your own.</p>
-      <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: var(--space-2) 0 0;"><span onMouseEnter="{{ headerAnchors.newPlayers.onAnchorHoverEnter }}" onMouseLeave="{{ headerAnchors.newPlayers.onAnchorHoverLeave }}" style="display: flex; align-items: baseline; gap: 6px; margin-bottom: 2px;"><strong id="new-players" data-om-id="9e2d2062:65" style="color: var(--color-text); font-weight: 500; font-size: 18px;">New players</strong><a href="{{ headerAnchors.newPlayers.anchorHref }}" onClick="{{ headerAnchors.newPlayers.onAnchorClick }}" title="Link to this section" style="color: var(--color-neutral-500); text-decoration: none; font-size: 13px; opacity: {{ headerAnchors.newPlayers.pilcrowOpacity }}; transition: opacity .15s;">¶</a></span> If you've never played a Final Fantasy game, or a turn-based RPG, starting with the action-oriented <em data-om-id="9e2d2062:66"><a href="#entry-XVI-0" data-om-id="9e2d2062:67" style="color: inherit;">Final Fantasy XVI (2023)</a></em>&nbsp;is a great entry point. Come back here when you're done.</p>
-      <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: var(--space-2) 0 0;"><span onMouseEnter="{{ headerAnchors.aFewGames.onAnchorHoverEnter }}" onMouseLeave="{{ headerAnchors.aFewGames.onAnchorHoverLeave }}" style="display: flex; align-items: baseline; gap: 6px; margin-bottom: 2px;"><strong id="a-few-games" style="color: var(--color-text); font-weight: 500; font-size: 18px;">A few games</strong><a href="{{ headerAnchors.aFewGames.anchorHref }}" onClick="{{ headerAnchors.aFewGames.onAnchorClick }}" title="Link to this section" style="color: var(--color-neutral-500); text-decoration: none; font-size: 13px; opacity: {{ headerAnchors.aFewGames.pilcrowOpacity }}; transition: opacity .15s;">¶</a></span> If you've only played a few, then there's a few good places to go next.</p>
-      <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: 0;"><strong data-om-id="0e8d60b7:71" style="color: var(--color-text); font-weight: 500;">Pixels;</strong> Love pixel art? Start at the beginning with <em data-om-id="0e8d60b7:72"><a href="#entry-I-1" data-om-id="0e8d60b7:73" style="color: inherit;">Final Fantasy (1987)</a></em> and keep going in narrative order.</p>
-      <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: 0;"><strong style="color: var(--color-text); font-weight: 500;">3D;</strong> 3D your jam? The three-part <em><a href="#entry-VII-5" style="color: inherit;">Final Fantasy VII: Remake Intergrade (2021)</a></em>, <em>Rebirth</em>, and <em>Resonance</em> will get your feet wet, then either keep going or go back to <em><a href="#entry-III-0-alt" style="color: inherit;">Final Fantasy III: 3D Remake (2006)</a></em>.</p>
-      <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: 0;"><strong style="color: var(--color-text); font-weight: 500;">Realtime;</strong> Prefer more realtime-ish action titles? <em><a href="#entry-XVI-0" style="color: inherit;">Final Fantasy XVI (2023)</a></em> and <em>Final Fantasy XV (2016)</em> have you covered.</p>
-      <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: 0;"><strong style="color: var(--color-text); font-weight: 500;">Social;</strong> Want a great story in a social setting with others? <em><a href="#entry-XIV-0" style="color: inherit;">Final Fantasy XIV: Online (2013)</a></em> begins one of the series' grandest adventures.</p>
-      <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: var(--space-2) 0 0;"><span onMouseEnter="{{ headerAnchors.manyGames.onAnchorHoverEnter }}" onMouseLeave="{{ headerAnchors.manyGames.onAnchorHoverLeave }}" style="display: flex; align-items: baseline; gap: 6px; margin-bottom: 2px;"><strong id="many-games" style="color: var(--color-text); font-weight: 500; font-size: 18px;">Many games</strong><a href="{{ headerAnchors.manyGames.anchorHref }}" onClick="{{ headerAnchors.manyGames.onAnchorClick }}" title="Link to this section" style="color: var(--color-neutral-500); text-decoration: none; font-size: 13px; opacity: {{ headerAnchors.manyGames.pilcrowOpacity }}; transition: opacity .15s;">¶</a></span> If you've played many Final Fantasy titles already, why not <a href="#series-I" style="color: inherit;">start from the beginning</a> and go series by series? Chronological order works well once you've already played the mainline entries and want to explore additional material.</p>
-      <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: var(--space-2) 0 0;"><span onMouseEnter="{{ headerAnchors.ourOrder.onAnchorHoverEnter }}" onMouseLeave="{{ headerAnchors.ourOrder.onAnchorHoverLeave }}" style="display: flex; align-items: baseline; gap: 6px; margin-bottom: 2px;"><strong id="our-order" style="color: var(--color-text); font-weight: 500; font-size: 24px;">Our order</strong><a href="{{ headerAnchors.ourOrder.anchorHref }}" onClick="{{ headerAnchors.ourOrder.onAnchorClick }}" title="Link to this section" style="color: var(--color-neutral-500); text-decoration: none; font-size: 14px; opacity: {{ headerAnchors.ourOrder.pilcrowOpacity }}; transition: opacity .15s;">¶</a></span> We offer four different ways to organize the titles within each series.</p>
+    <div style="max-width: 620px; margin: var(--space-3) 0 var(--space-6); display: flex; flex-direction: column; gap: var(--space-3);">
+      <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: var(--space-2) 0 0;"><span onMouseEnter="{{ ourOrderAnchor.onAnchorHoverEnter }}" onMouseLeave="{{ ourOrderAnchor.onAnchorHoverLeave }}" style="display: flex; align-items: baseline; gap: 6px; margin-bottom: 2px;"><strong id="our-order" style="color: var(--color-text); font-weight: 500; font-size: 24px;">Our order</strong><a href="{{ ourOrderAnchor.anchorHref }}" onClick="{{ ourOrderAnchor.onAnchorClick }}" title="Link to this section" style="color: var(--color-neutral-500); text-decoration: none; font-size: 14px; opacity: {{ ourOrderAnchor.pilcrowOpacity }}; transition: opacity .15s;">¶</a></span> We offer four different ways to organize the titles within each series.</p>
       <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: 0;"><strong style="color: var(--color-text); font-weight: 500;">Narrative order;</strong> our recommendation. Protects the story's big reveals from prequels that would spoil them, while avoiding the jumps in time that release order can cause. The mainline entry usually comes first, then sequels, then prequels, then spinoffs, for the most cohesive read of the story's key moments.</p>
       <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: 0;"><strong style="color: var(--color-text); font-weight: 500;">Chronological order;</strong> not always perfectly possible to pin down. Best if you've already played the mainline entry, since prequels and side stories can spoil later reveals. Lets you experience the whole timeline start to finish, though some side stories are hard to place exactly.</p>
       <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: 0;"><strong style="color: var(--color-text); font-weight: 500;">Release order;</strong> within a series, the order things actually came out, which tends to jump around in the story's own timeline. Some argue this reflects how the authors intended the story to unfold, but marketing and sales decisions at the time usually mattered more.</p>
@@ -356,31 +348,38 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
       </div>
     </div>
 
-    <h3 style="font-family: var(--font-heading); font-weight: 500; font-size: 14px; letter-spacing: 0.06em; color: var(--color-neutral-400); margin: 0 0 var(--space-2);">CREDITS</h3>
-    <!-- Credits order: Information from... (sources), then Ratings from..., then Length information from..., then Stores from..., then Icons from... (incl. one-off logo credits like MSX/Sharp X1). Keep this order when editing. -->
-    <p style="color: var(--color-neutral-500); font-size: 12px; line-height: 1.7; margin: 0;">
-      Information from <a href="https://www.wikipedia.org/" target="_blank" rel="noopener" data-om-id="6cf17c0c:633">Wikipedia</a>, <a href="https://finalfantasy.fandom.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:634">Final Fantasy Wiki</a>, <a href="https://www.bg-wiki.com/ffxi/" target="_blank" rel="noopener" data-om-id="6cf17c0c:635">FFXI Wiki</a>, <a href="https://backloggd.com/u/lockstepper/list/the-complete-list-of-nesfamicom-games-fan-translated/" target="_blank" rel="noopener">lockstepper fan translation list</a>, store pages, and <a href="https://www.reddit.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:636">Reddit</a>. Ratings from <a href="https://www.metacritic.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:637">Metacritic</a>, <a href="https://store.steampowered.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:638">Steam</a>, <a href="https://www.imdb.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:639">IMDb</a>, and <a href="https://www.goodreads.com" target="_blank" rel="noopener">Goodreads</a>. Length from <a href="https://howlongtobeat.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:640">HowLongToBeat</a>. Stores from <a href="https://www.gog.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:641">GOG</a>, <a href="https://www.square-enix.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:642">Square Enix</a>, <a href="https://store.steampowered.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:643">Steam</a>, <a href="https://store.epicgames.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:644">Epic Games</a>, <a href="https://www.nintendo.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:645">Nintendo</a>, <a href="https://www.playstation.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:646">Sony</a>, <a href="https://www.xbox.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:647">Microsoft</a>, <a href="https://play.google.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:648">Google</a>, <a href="https://www.apple.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:649">Apple</a>, <a href="https://www.dekudeals.com/" target="_blank" rel="noopener">DekuDeals</a>, and <a href="https://www.amazon.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:650">Amazon</a>. Icons from <a href="https://icons.getbootstrap.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:651">Bootstrap Icons</a> (Windows, Steam, Xbox, Android, iOS, Nintendo Switch, Amazon, Facebook, Browser), <a href="https://icons8.com" target="_blank" rel="noopener" data-om-id="6cf17c0c:652">Icons8</a> (macOS, Game Boy, Apple Arcade), <a href="https://playstation.fandom.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:653">PlayStation Wiki</a> (PSone, PS2, PS3, PS4, PS5, PS4 VR, PSP, PS Vita, PS Plus, Digital), <a href="https://www.steamgriddb.com" target="_blank" rel="noopener" data-om-id="6cf17c0c:654">SteamGridDB</a> (Nintendo DS, Game Boy Advance, Nintendo 3DS), <a href="https://blog.gamecraft.org" target="_blank" rel="noopener" data-om-id="6cf17c0c:655">gamecraft.org</a> (Ouya), <a href="https://favpng.com/png_view/windows-phone-icon-free-vector-windows-phone-mobile-phones-microsoft-windows-png/jnzqb8hT" target="_blank" rel="noopener" data-om-id="6cf17c0c:656">favpng.com</a> (Windows Phone), <a href="https://seeklogo.com/vector-logo/384317/wonderswan" target="_blank" rel="noopener" data-om-id="6cf17c0c:657">SeekLogo</a> (WonderSwan, SNES), <a href="https://tenor.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:658">Tenor</a> (Switch 2), <a href="https://icons-for-free.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:659">Icons for Free</a> (Mobile Phones), <a href="https://retro-type.com" target="_blank" rel="noopener" data-om-id="6cf17c0c:660">retro-type.com</a> (MSX2), <a href="https://simpleicons.org/" target="_blank" rel="noopener" data-om-id="6cf17c0c:661">Simple Icons</a> (Epic Games Store, GOG), <a href="https://www.flaticon.com/" target="_blank" rel="noopener" data-om-id="6cf17c0c:662">Flaticon</a> (Blu-ray, Arcade), <a href="https://commons.wikimedia.org/wiki/" target="_blank" rel="noopener" data-om-id="6cf17c0c:663">Wikimedia Commons</a> (GameCube), <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener" data-om-id="6cf17c0c:664">Wikimedia Commons</a> (MSX logo), <a href="https://logo.wine/" target="_blank" rel="noopener" data-om-id="6cf17c0c:665">logo.wine</a> (Sharp X1 logo), and <a href="https://iconscout.com/" target="_blank" rel="noopener">Iconscout</a> (Linux). <a href="https://breezewiki.com/" target="_blank" rel="noopener">breezewiki.com</a> mirror for fandom.com.
-    </p>
-    <p style="color: var(--color-neutral-600); font-size: 11px; margin: var(--space-3) 0 0;">Last Updated: {{ lastUpdatedLong }}.</p>
-    <p style="color: var(--color-neutral-600); font-size: 11px; margin: 4px 0 0;">Not associated with Square Enix in any way. © {{ copyrightYearsStr }} Vertex Industries, with help from the community. Content licensed <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener" style="color: var(--color-neutral-500);">CC BY-NC-SA 4.0</a>.</p>
+    <dc-import name="Footer" credits="{{ footerCredits }}" last-updated="{{ introLastUpdated }}" founding-year="{{ footerFoundingYear }}" license="{{ footerLicense }}" entities="{{ footerEntities }}" disclosures="{{ footerDisclosures }}" hint-size="auto,300px" style="display: block;"></dc-import>
   </div>
 </div>
 
 </x-dc>
 <script type="text/x-dc" data-dc-script>
-const LAST_UPDATED = '2026-08-01'; // ISO date, single source of truth for all "last updated" displays
-const MONTHS_LONG = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+// SITE_CONFIG/INTRO_SECTIONS/CREDITS come from site/data/{site,intro,credits}.js
+// (per-repo, not vendored) -- see docs/init-list.md.
+const SITE = window.SITE_CONFIG || {};
+const LAST_UPDATED = SITE.lastUpdated || ''; // ISO date; empty is valid (no "Last Updated" shown)
 const MONTHS_SHORT = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-function lastUpdatedParts() {
+function lastUpdatedShortText() {
+  if (!LAST_UPDATED) return '';
   const [y, m] = LAST_UPDATED.split('-').map(Number);
-  return { year: y, long: MONTHS_LONG[m - 1] + ' ' + y, short: MONTHS_SHORT[m - 1] + ' ' + y };
+  return MONTHS_SHORT[m - 1] + ' ' + y;
 }
-function copyrightYears() {
-  const y = lastUpdatedParts().year;
-  return y > 2026 ? '2026\u2013' + y : '2026';
+// Deterministic fallback so a repo that omits SITE_CONFIG.storagePrefix still
+// gets a stable (never regenerated differently across builds), legible
+// localStorage key prefix derived from its own name -- e.g. "Chrono Trigger"
+// -> "chronoTriggerPlayOrder". A repo with real visitor data (final-fantasy,
+// kingdom-hearts) must set storagePrefix explicitly to its existing literal
+// value instead: this fallback would compute a different string and silently
+// orphan everyone's saved checklist/theme/display preferences.
+function slugifyName(name) {
+  return (name || 'vertexOrder').replace(/[^A-Za-z0-9]+/g, ' ').trim().split(' ')
+    .filter(Boolean)
+    .map((w, i) => i === 0 ? w.charAt(0).toLowerCase() + w.slice(1) : w.charAt(0).toUpperCase() + w.slice(1).toLowerCase())
+    .join('');
 }
+const STORAGE_PREFIX = SITE.storagePrefix || (slugifyName(SITE.name) + 'PlayOrder');
 class Component extends DCLogic {
-  state = { expandedAlts: {}, expandedMainExtras: {}, checked: JSON.parse(localStorage.getItem('ffPlayOrderChecked') || '{}'), pathMode: localStorage.getItem('ffPlayOrderPath') || 'A', theme: localStorage.getItem('ffPlayOrderTheme') || null, systemLight: typeof matchMedia !== 'undefined' && matchMedia('(prefers-color-scheme: light)').matches, scrolled: false, activeAnchor: '', selectedLanguages: localStorage.getItem('ffPlayOrderSelectedLangs') ? JSON.parse(localStorage.getItem('ffPlayOrderSelectedLangs')) : null, langMenuOpen: false, showRating: localStorage.getItem('ffPlayOrderShowRating') !== null ? JSON.parse(localStorage.getItem('ffPlayOrderShowRating')) : null, showLength: localStorage.getItem('ffPlayOrderShowLength') !== null ? JSON.parse(localStorage.getItem('ffPlayOrderShowLength')) : null, showPlatforms: JSON.parse(localStorage.getItem('ffPlayOrderShowPlatforms') || 'true'), showLanguages: JSON.parse(localStorage.getItem('ffPlayOrderShowLanguages') || 'true'), navWidth: typeof window !== 'undefined' ? window.innerWidth : 1920 };
+  state = { expandedAlts: {}, expandedMainExtras: {}, checked: JSON.parse(localStorage.getItem(STORAGE_PREFIX + 'Checked') || '{}'), pathMode: localStorage.getItem(STORAGE_PREFIX + 'Path') || 'A', theme: localStorage.getItem(STORAGE_PREFIX + 'Theme') || null, systemLight: typeof matchMedia !== 'undefined' && matchMedia('(prefers-color-scheme: light)').matches, scrolled: false, activeAnchor: '', selectedLanguages: localStorage.getItem(STORAGE_PREFIX + 'SelectedLangs') ? JSON.parse(localStorage.getItem(STORAGE_PREFIX + 'SelectedLangs')) : null, langMenuOpen: false, showRating: localStorage.getItem(STORAGE_PREFIX + 'ShowRating') !== null ? JSON.parse(localStorage.getItem(STORAGE_PREFIX + 'ShowRating')) : null, showLength: localStorage.getItem(STORAGE_PREFIX + 'ShowLength') !== null ? JSON.parse(localStorage.getItem(STORAGE_PREFIX + 'ShowLength')) : null, showPlatforms: JSON.parse(localStorage.getItem(STORAGE_PREFIX + 'ShowPlatforms') || 'true'), showLanguages: JSON.parse(localStorage.getItem(STORAGE_PREFIX + 'ShowLanguages') || 'true'), navWidth: typeof window !== 'undefined' ? window.innerWidth : 1920 };
   seriesEls = {};
   langOrderDefault = ['JA', 'EN'];
   componentDidMount() {
@@ -421,7 +420,7 @@ class Component extends DCLogic {
     this.setState(s => {
       const sel = s.selectedLanguages !== null ? s.selectedLanguages : (allLangCodes || []).filter(v => v === 'EN' || v.startsWith('EN-'));
       const next = sel.includes(code) ? sel.filter(c => c !== code) : [...sel, code];
-      localStorage.setItem('ffPlayOrderSelectedLangs', JSON.stringify(next));
+      localStorage.setItem(STORAGE_PREFIX + 'SelectedLangs', JSON.stringify(next));
       return { selectedLanguages: next };
     });
   }
@@ -438,7 +437,7 @@ class Component extends DCLogic {
     this.setState(s => {
       const current = s[key] !== null && s[key] !== undefined ? s[key] : ((key === 'showRating' || key === 'showLength') ? (window.innerWidth >= (760 + 16 + 8 + 22)) : true);
       const val = !current;
-      localStorage.setItem('ffPlayOrder' + key.replace(/^show/, 'Show'), JSON.stringify(val));
+      localStorage.setItem(STORAGE_PREFIX + key.replace(/^show/, 'Show'), JSON.stringify(val));
       return { [key]: val };
     });
   }
@@ -457,10 +456,10 @@ class Component extends DCLogic {
     const systemDefault = this.state.systemLight ? 'light' : 'dark';
     if (next === systemDefault) {
       this.setState({ theme: null });
-      localStorage.removeItem('ffPlayOrderTheme');
+      localStorage.removeItem(STORAGE_PREFIX + 'Theme');
     } else {
       this.setState({ theme: next });
-      localStorage.setItem('ffPlayOrderTheme', next);
+      localStorage.setItem(STORAGE_PREFIX + 'Theme', next);
     }
   }
   typeColors = {
@@ -602,7 +601,7 @@ class Component extends DCLogic {
   setPathMode(mode) {
     const keepKey = this.findTopVisibleEntryKey();
     this.setState({ pathMode: mode });
-    localStorage.setItem('ffPlayOrderPath', mode);
+    localStorage.setItem(STORAGE_PREFIX + 'Path', mode);
     requestAnimationFrame(() => requestAnimationFrame(() => {
       if (!keepKey) return;
       const el = document.querySelector('[data-entry-key="' + keepKey + '"]');
@@ -625,7 +624,7 @@ class Component extends DCLogic {
       const group = (this.dupGroups && this.dupGroups[key]) || [key];
       const checked = { ...s.checked };
       group.forEach(k => { checked[k] = newVal; });
-      localStorage.setItem('ffPlayOrderChecked', JSON.stringify(checked));
+      localStorage.setItem(STORAGE_PREFIX + 'Checked', JSON.stringify(checked));
       return { checked };
     });
   }
@@ -664,10 +663,7 @@ class Component extends DCLogic {
     const toggleHamburgerMenu = () => this.toggleHamburgerMenu();
     const closeHamburgerMenu = () => this.closeHamburgerMenu();
     const themeMarginLeft = navShowCheckList ? '0px' : 'auto';
-    const lu = lastUpdatedParts();
-    const lastUpdatedLong = lu.long;
-    const lastUpdatedShort = lu.short;
-    const copyrightYearsStr = copyrightYears();
+    const lastUpdatedShort = lastUpdatedShortText();
     const mode = this.state.pathMode || 'A';
     const pathOptions = [
       { key: 'A', label: 'Narrative order', shortLabel: 'Narrative order' },
@@ -926,7 +922,7 @@ class Component extends DCLogic {
       const games = flat.map((g, i) => ({ ...g, index: String(i + 1).padStart(2, '0') }));
       const allSummary = buildSummary(games, null, g => g.checked);
       displaySeries = [{
-        num: 'ALL', title: 'Final Fantasy', id: 'series-ALL', anchor: '#series-ALL', noUrl: true, url: null,
+        num: 'ALL', title: SITE.name, id: 'series-ALL', anchor: '#series-ALL', noUrl: true, url: null,
         note: allSummary, noteLines: allSummary ? [{ plain: allSummary }] : null, games,
         sectionRef: el => { if (el) this.seriesEls['ALL'] = el; else delete this.seriesEls['ALL']; },
       }];
@@ -985,24 +981,17 @@ class Component extends DCLogic {
       });
       if (total && checkedN) navProgress = `${checkedN}/${total} checked, ${Math.round(checkedN / total * 100)}%`;
     }
-    const headerAnchors = {
-      whereToStart: this.buildPilcrow('where-to-start', false),
-      newPlayers: this.buildPilcrow('new-players', false),
-      aFewGames: this.buildPilcrow('a-few-games', false),
-      manyGames: this.buildPilcrow('many-games', false),
-      ourOrder: this.buildPilcrow('our-order', false),
-    };
-    const introStats = {
-      mainline: mainlineCount,
-      series: raw.length,
-      games: statVal('Game'),
-      expansions: statVal('Expansion'),
-      video: statVal('Movie', 'TV', 'Video'),
-      books: statVal('Book'),
-      comics: statVal('Comic'),
-      radioDramas: statVal('Audio'),
-    };
-    return { lastUpdatedLong, lastUpdatedShort, copyrightYearsStr, series: displaySeries, platformLegend: this.platformLegend, pathOptions, effectiveTheme, themeIcon, toggleTheme, navShowLanguages, navShowTheme, navShowDisplay, navShowTitle, navShowCheckList, navShowOrder, navShowJump, themeMarginLeft, navTitleMarginLeft, navToggleMarginRight, navAnyHidden, navReservedRightPx, navFloatingWidgetMarginRight, navHamburgerTopPx, sideBySide, stacked, showCol2, showStackedRL, hideTitleInMenu, hideOrderInMenu, hideJumpInMenu, hideLanguagesInMenu, hideDisplayInMenu, hideCheckListInMenu, hideThemeInMenu, hamburgerOpen, toggleHamburgerMenu, closeHamburgerMenu, mode, onOrderChange, onJumpChange, scrolled: this.state.scrolled, notScrolled, jumpRef, activeAnchor: this.state.activeAnchor, languageOptions, langMenuOpen, toggleLangMenu, closeLangMenu, displayMenuOpen, toggleDisplayMenu, closeDisplayMenu, introStats, navProgress, displayToggles, showRating, showLength, showPlatforms, showLanguages, headerAnchors, faqItems: window.FAQ_ITEMS || [], helpWantedItems: window.HELP_WANTED_ITEMS || [] };
+    const ourOrderAnchor = this.buildPilcrow('our-order', false);
+    const introStatsText = `${mainlineCount} mainline entries; ${raw.length} series, ${statVal('Game')} games, ${statVal('Expansion')} expansions & DLC, ${statVal('Movie', 'TV', 'Video')} movies & videos, ${statVal('Book')} books, ${statVal('Comic')} comics, and ${statVal('Audio')} radio dramas. Oh my! Where to start?`;
+    const introTitle = (SITE.name || '') + ' Vertex Order';
+    const introTagline = SITE.tagline || [];
+    const introSections = window.INTRO_SECTIONS || [];
+    const footerCredits = window.CREDITS || [];
+    const footerFoundingYear = SITE.foundingYear || 2026;
+    const footerLicense = SITE.license || [{ text: 'Content licensed ' }, { text: 'CC BY-NC-SA 4.0', url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/' }, { text: '.' }];
+    const footerEntities = SITE.entities || [];
+    const footerDisclosures = SITE.disclosures || [];
+    return { lastUpdatedShort, series: displaySeries, platformLegend: this.platformLegend, pathOptions, effectiveTheme, themeIcon, toggleTheme, navShowLanguages, navShowTheme, navShowDisplay, navShowTitle, navShowCheckList, navShowOrder, navShowJump, themeMarginLeft, navTitleMarginLeft, navToggleMarginRight, navAnyHidden, navReservedRightPx, navFloatingWidgetMarginRight, navHamburgerTopPx, sideBySide, stacked, showCol2, showStackedRL, hideTitleInMenu, hideOrderInMenu, hideJumpInMenu, hideLanguagesInMenu, hideDisplayInMenu, hideCheckListInMenu, hideThemeInMenu, hamburgerOpen, toggleHamburgerMenu, closeHamburgerMenu, mode, onOrderChange, onJumpChange, scrolled: this.state.scrolled, notScrolled, jumpRef, activeAnchor: this.state.activeAnchor, languageOptions, langMenuOpen, toggleLangMenu, closeLangMenu, displayMenuOpen, toggleDisplayMenu, closeDisplayMenu, navProgress, displayToggles, showRating, showLength, showPlatforms, showLanguages, siteName: SITE.name || '', ourOrderAnchor, introTitle, introLastUpdated: LAST_UPDATED, introTagline, introStatsText, introSections, footerCredits, footerFoundingYear, footerLicense, footerEntities, footerDisclosures, faqItems: window.FAQ_ITEMS || [], helpWantedItems: window.HELP_WANTED_ITEMS || [] };
   }
 }
 </script>
