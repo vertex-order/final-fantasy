@@ -15,11 +15,13 @@
 # and .github/PULL_REQUEST_TEMPLATE.md. Each necessarily carries this repo's
 # own Discussions URL (and PR-checklist lines), so a byte-identical vendor is
 # impossible by construction. Seeded from kit's copies once, then maintained
-# locally.
+# locally. site/Intro.dc.html is the same story: seeded once from kit's
+# template copy, then hand-edited with this franchise's own "Where to
+# start?" prose — see docs/init-list.md (kit).
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "46af90a00c0a4b49176dc9d56938a18f35a047b9"
+ref = "2ed810adeed89ebfd39fed55681ab47b670ff215"
 paths = [
   "site/_ds/",
   "site/images/ui/",
@@ -39,7 +41,6 @@ paths = [
   "site/FloatingNav.dc.html",
   "site/Footer.dc.html",
   "site/InPageControls.dc.html",
-  "site/Intro.dc.html",
   "site/LanguageTag.dc.html",
   "site/LengthDisplay.dc.html",
   "site/MediaEntry.dc.html",

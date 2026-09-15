@@ -1,5 +1,6 @@
-<!-- Intro.dc.html — owned by vertex-order/kit. Edit here.
-     Vendored elsewhere via sync.toml; don't edit the copy there. -->
+<!-- Intro.dc.html — owned by this repo, not vendored. Seeded from kit's
+     template copy, then hand-edited with this franchise's own "Where to
+     start?" prose. Schema/behavior notes: docs/init-list.md (kit). -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,32 +23,46 @@
   <sc-for list="{{ tagline }}" as="part" hint-placeholder-count="0"><sc-if value="{{ part.strong }}" hint-placeholder-val="{{ false }}"><strong style="color: var(--color-text); font-weight: 500;">{{ part.strong }}</strong></sc-if><sc-if value="{{ part.emLink }}" hint-placeholder-val="{{ false }}"><em><a href="{{ part.emLinkUrl }}" style="color: inherit;">{{ part.emLink }}</a></em></sc-if><sc-if value="{{ part.em }}" hint-placeholder-val="{{ false }}"><em>{{ part.em }}</em></sc-if><sc-if value="{{ part.url }}" hint-placeholder-val="{{ false }}"><a href="{{ part.url }}" style="color: inherit;">{{ part.text }}</a></sc-if><sc-if value="{{ part.plainText }}" hint-placeholder-val="{{ false }}">{{ part.plainText }}</sc-if></sc-for>
 </p>
 
-<sc-for list="{{ sections }}" as="s" hint-placeholder-count="1">
-  <sc-if value="{{ s.isStats }}" hint-placeholder-val="{{ false }}">
-    <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; max-width: 620px; margin: 0 0 var(--space-6);">{{ statsText }}</p>
-  </sc-if>
-  <sc-if value="{{ s.hasHeading }}" hint-placeholder-val="{{ true }}">
-    <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: var(--space-2) 0 0;">
-      <span onMouseEnter="{{ s.onAnchorHoverEnter }}" onMouseLeave="{{ s.onAnchorHoverLeave }}" style="display: flex; align-items: baseline; gap: 6px; margin-bottom: 2px;">
-        <strong id="{{ s.anchorId }}" style="color: var(--color-text); font-weight: 500; font-size: {{ s.headingFontSize }}; scroll-margin-top: 70px;">{{ s.heading }}</strong>
-        <sc-if value="{{ s.hasId }}" hint-placeholder-val="{{ true }}">
-          <a href="{{ s.anchorHref }}" onClick="{{ s.onAnchorClick }}" title="Link to this section" style="color: var(--color-neutral-500); text-decoration: none; font-size: {{ s.pilcrowFontSize }}; opacity: {{ s.pilcrowOpacity }}; transition: opacity .15s;">&para;</a>
-        </sc-if>
-      </span>
-    </p>
-  </sc-if>
-  <sc-for list="{{ s.paragraphs }}" as="para" hint-placeholder-count="1">
-    <p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: {{ para.mt }} 0 0;">
-      <sc-if value="{{ para.plain }}" hint-placeholder-val="{{ false }}">{{ para.plain }}</sc-if>
-      <sc-if value="{{ para.parts }}" hint-placeholder-val="{{ false }}">
-        <sc-for list="{{ para.parts }}" as="part" hint-placeholder-count="0"><sc-if value="{{ part.strong }}" hint-placeholder-val="{{ false }}"><strong style="color: var(--color-text); font-weight: 500;">{{ part.strong }}</strong></sc-if><sc-if value="{{ part.emLink }}" hint-placeholder-val="{{ false }}"><em><a href="{{ part.emLinkUrl }}" style="color: inherit;">{{ part.emLink }}</a></em></sc-if><sc-if value="{{ part.em }}" hint-placeholder-val="{{ false }}"><em>{{ part.em }}</em></sc-if><sc-if value="{{ part.url }}" hint-placeholder-val="{{ false }}"><a href="{{ part.url }}" style="color: inherit;">{{ part.text }}</a></sc-if><sc-if value="{{ part.plainText }}" hint-placeholder-val="{{ false }}">{{ part.plainText }}</sc-if></sc-for>
-      </sc-if>
-    </p>
-  </sc-for>
-</sc-for>
+<p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; max-width: 620px; margin: 0 0 var(--space-6);">{{ statsText }}</p>
+
+<p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: var(--space-2) 0 0;">
+  <span onMouseEnter="{{ pWhereToStart.onAnchorHoverEnter }}" onMouseLeave="{{ pWhereToStart.onAnchorHoverLeave }}" style="display: flex; align-items: baseline; gap: 6px; margin-bottom: 2px;">
+    <strong id="where-to-start" style="color: var(--color-text); font-weight: 500; font-size: 24px; scroll-margin-top: 70px;">Where to start?</strong>
+    <a href="#where-to-start" onClick="{{ pWhereToStart.onAnchorClick }}" title="Link to this section" style="color: var(--color-neutral-500); text-decoration: none; font-size: 14px; opacity: {{ pWhereToStart.pilcrowOpacity }}; transition: opacity .15s;">&para;</a>
+  </span>
+</p>
+<p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: 0;">You can play Final Fantasy in any order — no way is more correct than another. Ours is just one take; feel free to modify it and make it your own.</p>
+
+<p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: var(--space-2) 0 0;">
+  <span onMouseEnter="{{ pNewPlayers.onAnchorHoverEnter }}" onMouseLeave="{{ pNewPlayers.onAnchorHoverLeave }}" style="display: flex; align-items: baseline; gap: 6px; margin-bottom: 2px;">
+    <strong id="new-players" style="color: var(--color-text); font-weight: 500; font-size: 18px; scroll-margin-top: 70px;">New players</strong>
+    <a href="#new-players" onClick="{{ pNewPlayers.onAnchorClick }}" title="Link to this section" style="color: var(--color-neutral-500); text-decoration: none; font-size: 13px; opacity: {{ pNewPlayers.pilcrowOpacity }}; transition: opacity .15s;">&para;</a>
+  </span>
+</p>
+<p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: 0;">If you've never played a Final Fantasy game, or a turn-based RPG, starting with the action-oriented <em><a href="#entry-XVI-0" style="color: inherit;">Final Fantasy XVI (2023)</a></em> is a great entry point. Come back here when you're done.</p>
+
+<p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: var(--space-2) 0 0;">
+  <span onMouseEnter="{{ pAFewGames.onAnchorHoverEnter }}" onMouseLeave="{{ pAFewGames.onAnchorHoverLeave }}" style="display: flex; align-items: baseline; gap: 6px; margin-bottom: 2px;">
+    <strong id="a-few-games" style="color: var(--color-text); font-weight: 500; font-size: 18px; scroll-margin-top: 70px;">A few games</strong>
+    <a href="#a-few-games" onClick="{{ pAFewGames.onAnchorClick }}" title="Link to this section" style="color: var(--color-neutral-500); text-decoration: none; font-size: 13px; opacity: {{ pAFewGames.pilcrowOpacity }}; transition: opacity .15s;">&para;</a>
+  </span>
+</p>
+<p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: 0;">If you've only played a few, then there's a few good places to go next.</p>
+<p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: var(--space-2) 0 0;"><strong style="color: var(--color-text); font-weight: 500;">Pixels;</strong> Love pixel art? Start at the beginning with <em><a href="#entry-I-1" style="color: inherit;">Final Fantasy (1987)</a></em> and keep going in narrative order.</p>
+<p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: var(--space-2) 0 0;"><strong style="color: var(--color-text); font-weight: 500;">3D;</strong> 3D your jam? The three-part <em><a href="#entry-VII-5" style="color: inherit;">Final Fantasy VII: Remake Intergrade (2021)</a></em>, <em>Rebirth</em>, and <em>Resonance</em> will get your feet wet, then either keep going or go back to <em><a href="#entry-III-0-alt" style="color: inherit;">Final Fantasy III: 3D Remake (2006)</a></em>.</p>
+<p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: var(--space-2) 0 0;"><strong style="color: var(--color-text); font-weight: 500;">Realtime;</strong> Prefer more realtime-ish action titles? <em><a href="#entry-XVI-0" style="color: inherit;">Final Fantasy XVI (2023)</a></em> and <em>Final Fantasy XV (2016)</em> have you covered.</p>
+<p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: var(--space-2) 0 0;"><strong style="color: var(--color-text); font-weight: 500;">Social;</strong> Want a great story in a social setting with others? <em><a href="#entry-XIV-0" style="color: inherit;">Final Fantasy XIV: Online (2013)</a></em> begins one of the series' grandest adventures.</p>
+
+<p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: var(--space-2) 0 0;">
+  <span onMouseEnter="{{ pManyGames.onAnchorHoverEnter }}" onMouseLeave="{{ pManyGames.onAnchorHoverLeave }}" style="display: flex; align-items: baseline; gap: 6px; margin-bottom: 2px;">
+    <strong id="many-games" style="color: var(--color-text); font-weight: 500; font-size: 18px; scroll-margin-top: 70px;">Many games</strong>
+    <a href="#many-games" onClick="{{ pManyGames.onAnchorClick }}" title="Link to this section" style="color: var(--color-neutral-500); text-decoration: none; font-size: 13px; opacity: {{ pManyGames.pilcrowOpacity }}; transition: opacity .15s;">&para;</a>
+  </span>
+</p>
+<p style="color: var(--color-neutral-300); font-size: 16px; line-height: 1.6; margin: 0;">If you've played many Final Fantasy titles already, why not <a href="#series-I" style="color: inherit;">start from the beginning</a> and go series by series? Chronological order works well once you've already played the mainline entries and want to explore additional material.</p>
 
 </x-dc>
-<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;: {&quot;width&quot;: 620, &quot;height&quot;: 500}, &quot;title&quot;: {&quot;editor&quot;: &quot;string&quot;, &quot;default&quot;: &quot;&quot;, &quot;tsType&quot;: &quot;string&quot;}, &quot;lastUpdated&quot;: {&quot;editor&quot;: &quot;string&quot;, &quot;default&quot;: &quot;&quot;, &quot;tsType&quot;: &quot;string&quot;}, &quot;tagline&quot;: {&quot;editor&quot;: null, &quot;default&quot;: [], &quot;tsType&quot;: &quot;array&quot;}, &quot;statsText&quot;: {&quot;editor&quot;: &quot;string&quot;, &quot;default&quot;: &quot;&quot;, &quot;tsType&quot;: &quot;string&quot;}, &quot;sections&quot;: {&quot;editor&quot;: null, &quot;default&quot;: [], &quot;tsType&quot;: &quot;array&quot;}}">
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;: {&quot;width&quot;: 620, &quot;height&quot;: 500}, &quot;title&quot;: {&quot;editor&quot;: &quot;string&quot;, &quot;default&quot;: &quot;&quot;, &quot;tsType&quot;: &quot;string&quot;}, &quot;lastUpdated&quot;: {&quot;editor&quot;: &quot;string&quot;, &quot;default&quot;: &quot;&quot;, &quot;tsType&quot;: &quot;string&quot;}, &quot;tagline&quot;: {&quot;editor&quot;: null, &quot;default&quot;: [], &quot;tsType&quot;: &quot;array&quot;}, &quot;statsText&quot;: {&quot;editor&quot;: &quot;string&quot;, &quot;default&quot;: &quot;&quot;, &quot;tsType&quot;: &quot;string&quot;}}">
 const MONTHS_LONG = ['January','February','March','April','May','June','July','August','September','October','November','December'];
 function mapParts(parts) {
   return (parts || []).map(p => ({
@@ -60,17 +75,12 @@ function mapParts(parts) {
     plainText: (!p.strong && !p.em && !p.url) ? p.text : undefined,
   }));
 }
-function mapParagraphs(paragraphs) {
-  return (paragraphs || []).map((para, i, arr) => {
-    const mt = i === 0 ? '0' : 'var(--space-2)';
-    return typeof para === 'string' ? { plain: para, mt } : { parts: mapParts(para.parts), mt };
-  });
-}
+const SECTION_IDS = ['where-to-start', 'new-players', 'a-few-games', 'many-games'];
 class Component extends DCLogic {
   state = { hoverAnchor: null };
   componentDidMount() {
     const hash = (location.hash || '').replace('#', '');
-    if (hash && (this.props.sections || []).some(s => s.id === hash)) {
+    if (hash && SECTION_IDS.includes(hash)) {
       requestAnimationFrame(() => requestAnimationFrame(() => this.scrollToId(hash)));
     }
   }
@@ -82,9 +92,7 @@ class Component extends DCLogic {
   }
   buildPilcrow(anchorId) {
     return {
-      hasId: true,
       anchorId,
-      anchorHref: '#' + anchorId,
       pilcrowOpacity: this.state.hoverAnchor === anchorId ? 1 : 0,
       onAnchorHoverEnter: () => this.setState({ hoverAnchor: anchorId }),
       onAnchorHoverLeave: () => this.setState(s => s.hoverAnchor === anchorId ? { hoverAnchor: null } : null),
@@ -92,18 +100,6 @@ class Component extends DCLogic {
     };
   }
   renderVals() {
-    const noPilcrow = { hasId: false, anchorId: '', anchorHref: '', pilcrowOpacity: 0, onAnchorHoverEnter: () => {}, onAnchorHoverLeave: () => {}, onAnchorClick: () => {} };
-    const sections = (this.props.sections || []).map(s => {
-      if (s.stats) return { isStats: true, hasHeading: false, paragraphs: [] };
-      return {
-        hasHeading: !!s.heading,
-        heading: s.heading,
-        headingFontSize: s.headingSize === 'lg' ? '24px' : '18px',
-        pilcrowFontSize: s.headingSize === 'lg' ? '14px' : '13px',
-        ...(s.id ? this.buildPilcrow(s.id) : noPilcrow),
-        paragraphs: mapParagraphs(s.paragraphs),
-      };
-    });
     let lastUpdatedText = '';
     if (this.props.lastUpdated) {
       const [y, m] = this.props.lastUpdated.split('-').map(Number);
@@ -114,7 +110,10 @@ class Component extends DCLogic {
       lastUpdatedText,
       tagline: mapParts(this.props.tagline),
       statsText: this.props.statsText || '',
-      sections,
+      pWhereToStart: this.buildPilcrow('where-to-start'),
+      pNewPlayers: this.buildPilcrow('new-players'),
+      pAFewGames: this.buildPilcrow('a-few-games'),
+      pManyGames: this.buildPilcrow('many-games'),
     };
   }
 }
