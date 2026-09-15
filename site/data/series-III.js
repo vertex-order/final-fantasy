@@ -15,7 +15,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
           { value: 'ZH-TW', tip: 'Traditional Chinese' },
         ], parts: [
           { label: 'Final Fantasy III (1990)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III' },
-          { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster' },
+          { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
         ],
         storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
         description: 'Four orphans from the village of Ur are chosen by the dying four elemental crystals to defeat Xande who is spreading a flood of darkness over the world.\n\nThis remaster has redrawn sprites, rearranged music, in-game maps, auto-battle, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
@@ -87,7 +87,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
           ],
           parts: [
             { label: 'Final Fantasy III (1990)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III' },
-            { label: '3D Remake (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', small: true },
+            { label: '3D Remaster (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', small: true },
           ],
           descParts: [
             { text: 'This remake has 3D graphics in a cutesy character style, a reworked job system, and a new cast of playable characters. Released as ' },

@@ -56,7 +56,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
         alt: {
           parts: [
             { label: 'Final Fantasy XII (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XII' },
-            { label: 'Remaster (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+            { label: 'Remaster (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', small: true },
           ],
           emPre: 'This remaster has high-definition graphics, remastered soundtrack, and achievements. Released as ',
           emTerm: 'Final Fantasy XII The Zodiac Age (2017)',
@@ -83,10 +83,10 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             {
               parts: [
                 { label: 'Final Fantasy XII (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XII' },
-                { label: 'Remaster (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XII#Sequels_and_re-releases', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'International (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XII#Sequels_and_re-releases', small: true },
               ],
               descParts: [
-                { text: 'This remaster has twelve license boards (instead of one), controllable guest characters and Espers, a turbo mode, new game+, and new game- (no xp gain). Released as ' },
+                { text: 'This edit has twelve license boards (instead of one), controllable guest characters and Espers, a turbo mode, new game+, and new game- (no xp gain). Released as ' },
                 { emText: 'Final Fantasy XII International Zodiac Job System (2007)' },
                 { text: '.' },
               ],
@@ -155,6 +155,11 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           { label: 'Final Fantasy Tactics Advance (2003)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics_Advance' },
         ],
         description: "Marche enters an alternate universe Ivalice populated with his friends living different lives; conflict ensues as he attempts to get home.",
+        descMidParts: [
+          { text: 'Despite sharing the "Advance" branding with other Game Boy Advance ports, this is an entirely distinct game — not a port or edit of ' },
+          { emText: 'Tactics (1997)' },
+          { text: '.' },
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '87', midScore: '8.2', midUrl: 'https://www.metacritic.com/game/final-fantasy-tactics-advance/', url: 'https://www.metacritic.com/game/final-fantasy-tactics-advance/', single: true, sourceLabel: 'Metacritic' },
@@ -217,7 +222,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
         { title: 'Final Fantasy Tactics', releaseDate: '1997-06-20', chronoOrder: 4000, recommendedOrder: 500, tags: ['Optional', 'Turn-based tactical rpg'], mediaType: 'Game', lengthParts: [{ value: '37h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '46h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '63½h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy Tactics (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics' },
-          { label: 'Remaster (2025)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics#The_Ivalice_Chronicles', small: true },
+          { label: 'Remake (2025)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics#The_Ivalice_Chronicles', small: true },
         ],
         desc2Last: true,
         desc2Parts: [
@@ -233,7 +238,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
         ],
         desc3Parts: [
-          { text: 'This remaster fully re-records the voice cast with an expanded script and new story scenes, adds three selectable difficulty options (Squire, Knight, and Tactician), and lets you avoid random encounters. It includes auto-save with battle retries and New Game+. Released as ' },
+          { text: 'This remake fully re-records the voice cast with an expanded script and new story scenes, adds three selectable difficulty options (Squire, Knight, and Tactician), and lets you avoid random encounters. It includes auto-save with battle retries and New Game+. Released as ' },
           { emText: 'Final Fantasy Tactics: The Ivalice Chronicles (2025)' },
           { text: '. Does not include ' },
           { emText: 'The War of the Lions' },
@@ -266,10 +271,10 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             {
               parts: [
                 { label: 'Final Fantasy Tactics (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics' },
-                { label: 'Remaster (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Remake (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions', small: true },
               ],
               descParts: [
-                { text: 'This remaster re-translates the script with archaic English terminology (e.g., Priest becomes White Mage), and restores the original Japanese release\u2019s harder difficulty and JP costs, reversing the North American version\u2019s easing. It adds widescreen 16:9 support, new cutscenes, voice acting (English versions), ad-hoc multiplayer, new jobs, and two new playable characters. Released as ' },
+                { text: 'This remake re-translates the script with archaic English terminology (e.g., Priest becomes White Mage), and restores the original Japanese release\u2019s harder difficulty and JP costs, reversing the North American version\u2019s easing. It adds widescreen 16:9 support, new cutscenes, voice acting (English versions), ad-hoc multiplayer, new jobs, and two new playable characters. Released as ' },
                 { emText: 'Final Fantasy Tactics: The War of the Lions (2007)' },
                 { text: '.' },
               ],
@@ -290,7 +295,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             {
               label: 'Final Fantasy Tactics (1997)',
               url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics',
-              description: "The original release. The North American release (1998) simplifies the translation and eases the difficulty (lower ability costs, faster charge times, weaker bosses). Also playable as the \u2018Classic\u2019 mode within the Remaster (2025) release, with its script updated to the War of the Lions translation.",
+              description: "The original release. The North American release (1998) simplifies the translation and eases the difficulty (lower ability costs, faster charge times, weaker bosses). Also playable as the \u2018Classic\u2019 mode within the Remake (2025) release, with its script updated to the War of the Lions translation.",
               languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
               platformGroups: [
                 [

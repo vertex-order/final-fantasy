@@ -448,6 +448,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           { text: ' as an official tie-in but that version was terminated.' },
         ],
         description: 'Princess Claire of Olthea has been kidnapped in the Kingdom of Izander, and the player must choose one of the four heroes to train and set forth to attack Gargatua Castle, defeat the evil dragon Tolfida and rescue the princess.',
+        descMidParts: [
+          { text: 'This is the original release, and the recommended way to play — the versions below are contemporary computer ports or a since-terminated mobile remake, not enhancements.' },
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
         platformGroups: [
@@ -466,7 +469,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             {
               parts: [
                 { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
-                { label: 'Remake (2017)', url: 'https://en.wikipedia.org/wiki/King%27s_Knight#Remake', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Remake (2017)', url: 'https://en.wikipedia.org/wiki/King%27s_Knight#Remake', small: true },
               ],
               descParts: [
                 { text: 'This remake adds a new camera perspective and an orchestral version of the former\'s chiptune soundtrack. It also add 4 player multiplayer. Released as ' },
@@ -485,14 +488,17 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             {
               parts: [
                 { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
-                { label: 'Remake (1987)', url: "https://en.wikipedia.org/wiki/King's_Knight", smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Edit (1987)', url: "https://en.wikipedia.org/wiki/King's_Knight", small: true },
               ],
               descParts: [
                 { text: 'Released as ' },
                 { emText: "King's Knight Special" },
+                { text: '. Unclear whether this builds on the original Famicom release or carries over the improved graphics/audio from the MSX ' },
+                { emText: 'Remaster (1986)' },
                 { text: '.' },
               ],
               languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+              helpWanted: true,
               platformGroups: [
                 [{ icon: null, iconImg: 'images/platforms/pc8801.svg', iconSize: 8.875, imgStyle: 'width: auto; height: 8.875px;', suffix: 'mkII SR', suffixFontSize: '9.75px', suffixOffsetY: 1, name: 'NEC PC-8801mkII SR (Physical; Japan Only)', jpTag: true }],
                 [{ icon: null, iconImg: 'images/platforms/sharp-x1.svg', iconSize: 10.25, imgStyle: 'width: auto; height: 10.25px;', name: 'Sharp X1 (Physical; Japan Only)', jpTag: true }],
@@ -501,7 +507,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             {
               parts: [
                 { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
-                { label: 'Remake (1986)', url: 'https://en.wikipedia.org/wiki/King%27s_Knight#Development_and_release', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Remaster (1986)', url: 'https://en.wikipedia.org/wiki/King%27s_Knight#Development_and_release', small: true },
               ],
               description: 'Adds keyboard and joystick inputs, more sound channels with changed or improved sounds. Wider range of colors, updated graphics, new monster and boss designs, new UI sidebar. The MSX could not smoothly render vertical scrolling though, so movement can be described as "choppy".',
               languages: [{ value: 'JA', tip: 'Japanese', native: true }],
