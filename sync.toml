@@ -19,12 +19,13 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "b56738ed2646fe10d0d95a27d2b0eee64a4ae55a"
+ref = "942a003dc49fdc0e23cfeaf642c0d9f84b9614c4"
 paths = [
   "site/_ds/",
   "site/images/ui/",
   "site/images/platforms/",
   "site/support.js",
+  "site/data/common-faq.js",
   "site/PlatformIcon.dc.html",
   "site/data/platform-icons.js",
   "site/BackToTop.dc.html",
