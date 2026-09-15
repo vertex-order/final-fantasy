@@ -150,7 +150,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           [{ icon: null, iconImg: 'images/platforms/facebook.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Facebook (Messenger)', noUrl: true }],
           [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'Mobile Phones; terminated', noUrl: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
         ] },
-        { title: 'Kingdom Hearts (series)', releaseDate: '2002-03-28', chronoOrder: 250, recommendedOrder: 305, tags: ['Optional', 'Crossover series'],
+        { title: 'Kingdom Hearts (series)', releaseDate: '2002-03-28', chronoOrder: 250, recommendedOrder: 305, tags: ['Optional', 'Crossover series'], mediaType: 'Game',
         parts: [
           { label: 'Kingdom Hearts (series) (2002–2020+)', url: 'https://vertex-order.github.io/kingdom-hearts' },
         ],
