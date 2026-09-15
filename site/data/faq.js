@@ -9,12 +9,12 @@ window.FAQ_ITEMS = [
     a: ["No. You can play the Final Fantasy franchise in any order, and only the internal order of each series is important. For example Final Fantasy II and Final Fantasy XVI are not related story wise in any way, and only share some common elements belonging to most Final Fantasy series."],
   },
   {
-    q: "Why is a Final Fantasy title missing?",
+    q: "Why isn't every side story or spin-off listed separately?",
     a: [
       { parts: [
-        { text: "It may have come out after the last update of this list, check last updated at the bottom of the page and if so, please submit it! Another reason may be that its story was deemed not noteworthy enough to warrant its own entry in this list, and you can find the series representing it in our " },
+        { text: "Some appearances are folded into our " },
         { em: "Other" },
-        { text: " series. The Chocobo titles especially." },
+        { text: " series entry instead of getting their own line, when we've judged the story not noteworthy enough on its own — the Chocobo titles especially." },
       ] },
     ],
   },
