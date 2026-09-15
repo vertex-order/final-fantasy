@@ -288,7 +288,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             {
               parts: [
                 { label: 'Final Fantasy VII (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII' },
-                { label: 'Remake Part 1 (2020)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Remake Part 1 (2020)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake', small: true },
               ],
               descParts: [
                 { text: 'The original release of the 3 part remake. ' },
@@ -403,7 +403,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         { title: 'Final Fantasy VII', releaseDate: '1997-01-31 10', chronoOrder: 350, recommendedOrder: 900, mainline: true, tags: ['Combined', 'Active time battle'], mediaType: 'Game', lengthParts: [{ value: '36h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '49h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '79½h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy VII (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII' },
-          { label: 'Remake (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', small: true },
+          { label: 'Edit (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', small: true },
         ],
         description: 'Cloud joins AVALANCHE, an eco-terrorist group trying to stop the megacorporation Shinra from destroying the planet.\n\nAs originally told in one combined story. You can instead choose the modern remake trilogy above.\n\nIncludes autosave and cloud saves, multiple optional cheats, and disabled random encounters. PC versions (Steam, GOG) have extensive unofficial modding support.',
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '92', midScore: '8.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-vii/', sourceUrl: 'https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII/', sourceLabel: 'Steam; Very Positive' },
@@ -444,9 +444,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             {
               parts: [
                 { label: 'Final Fantasy VII (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII' },
-                { label: 'Remake (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Edit (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', small: true },
               ],
-              description: 'This remake adds auto-save, toggle battle encounters, and an optional stat-max cheat. Some may find the mobile controls hard to use.',
+              description: 'This edit adds auto-save, toggle battle encounters, and an optional stat-max cheat. Some may find the mobile controls hard to use.',
               languages: [{ value: 'EN', tip: 'English' }, { value: 'FR', tip: 'French' }, { value: 'DE', tip: 'German' }, { value: 'ES-ES', tip: 'Spanish (Spain)' }],
               storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-vii',
               platformGroups: [
@@ -486,7 +486,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             {
               parts: [
                 { label: 'Final Fantasy VII (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII' },
-                { label: 'Remake (2012)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Remake (2012)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', small: true },
               ],
               description: 'This remake adds high-resolution support, upscaled graphics, cloud saves, and a character booster.',
               description2: 'Japan-only features include a speed boost, a no-encounters mode, and other optional cheats.',
@@ -763,7 +763,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         { title: 'Dirge of Cerberus: Final Fantasy VII', releaseDate: '2006-01-26', chronoOrder: 3000, recommendedOrder: 1600, tags: ['Optional', 'Sequel', 'Shooter'], mediaType: 'Game', lengthParts: [{ value: '11½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '14h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '34h', tip: 'Completionist' }],
         parts: [
           { label: 'Dirge of Cerberus: Final Fantasy VII (2006)', url: 'https://en.wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII' },
-          { label: 'Remaster (2006)', url: 'https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantasy_VII-#Version_differences', small: true },
+          { label: 'International (2006)', url: 'https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantasy_VII-#Version_differences', small: true },
         ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
@@ -771,7 +771,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         emTerm: 'VII (1997)',
         emPost: ', Vincent is targetted by Deepground, a mysterious organization that plans to awaken a creature known as Omega, with the ability to destroy the Planet.',
         descMidParts: [
-          { text: 'This remaster makes many balance, difficulty and gameplay changes from the initial release 6½ months prior. Released as ' },
+          { text: 'This edit makes many balance, difficulty and gameplay changes from the initial release 6½ months prior. Released as ' },
           { emText: 'Dirge of Cerberus -Final Fantasy VII- International' },
           { text: '.' },
         ],

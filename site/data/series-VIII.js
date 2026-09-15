@@ -16,8 +16,7 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
           { value: 'EN-US', tip: 'English (American)' },
         ],
         description: 'Squall leads a group of mercenaries as they are drawn into a conflict with Edea who seized control of a powerful military state.',
-        desc2Last: true,
-        desc2Parts: [
+        descMidParts: [
           { text: 'This remaster has remodeled character and Guardian Force models, restored missing visual effects, multiple optional cheats, and a no-encounters mode. A companion mini-game is removed, though its rewards are still obtainable. Released as ' },
           { emText: 'Final Fantasy VIII Remastered' },
           { text: '.' },
@@ -53,10 +52,10 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
             {
               parts: [
                 { label: 'Final Fantasy VIII (1999)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VIII' },
-                { label: 'Remake (2013)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Remaster (2013)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', small: true },
               ],
               descParts: [
-                { text: 'This remake has upscaled graphics, High Speed Mode, companion mini-game ' },
+                { text: 'This remaster has upscaled graphics, High Speed Mode, companion mini-game ' },
                 { emLinkText: 'Chocobo World', emLinkUrl: 'https://en.wikipedia.org/wiki/Final_Fantasy_VIII#Other_media' },
                 { text: ', many accesibility and cheat booster commands; including Battle Assistance, Magic Booster, Max Damage, AP Max, Gil Max.' },
               ],
@@ -76,7 +75,7 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
             {
               parts: [
                 { label: 'Final Fantasy VIII (1999)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VIII' },
-                { label: 'Remake (2000)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Edit (2000)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', small: true },
               ],
               description: 'This port has MIDI audio instead of the original soundtrack and a slower battle interface that makes Limit Break inputs less precise. A companion mini-game no longer requires extra hardware to play.',
               languages: [{ value: 'EN', tip: 'English', native: true }, { value: 'JA', tip: 'Japanese' }, { value: 'FR', tip: 'French' }, { value: 'DE', tip: 'German' }, { value: 'IT', tip: 'Italian' }, { value: 'ES-ES', tip: 'Spanish (Spain)' }],

@@ -1,7 +1,7 @@
 window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 500, recommendedOrder: 500, title: 'Final Fantasy V', note: 'For the first 7 years, this series was only available in Japan.', games: [
         { title: 'Final Fantasy V', releaseDate: '1992-12-06', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['Active time battles'], mediaType: 'Game', lengthParts: [{ value: '30½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '35½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '51½h', tip: 'Completionist' }], parts: [
           { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
-          { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster' },
+          { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
         ],
         storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
         languages: [
@@ -53,9 +53,9 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
             {
               parts: [
                 { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
-                { label: 'Remake (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Remaster (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
               ],
-              description: 'This remake has new high-resolution graphics and sprites, eight-direction movement, auto battle. Also has the extra dungeon and optional boss from Remake 2006.',
+              description: 'This remaster has new high-resolution graphics and sprites, eight-direction movement, auto battle. Also has the extra dungeon and optional boss from Edit 2006.',
               languages: [
                 { value: 'JA', tip: 'Japanese', native: true },
                 { value: 'EN', tip: 'English' },
@@ -75,10 +75,10 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
             {
               parts: [
                 { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
-                { label: 'Remake (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Edit (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
               ],
               descParts: [
-                { text: 'This remake adds four new jobs, an extra dungeon, optional boss, additional equipment, and new translations. Released as ' },
+                { text: 'This edit adds four new jobs, an extra dungeon, optional boss, additional equipment, and new translations. Released as ' },
                 { emText: 'Final Fantasy V Advance (2006)' },
                 { text: '.' },
               ],
@@ -93,9 +93,9 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
             {
               parts: [
                 { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
-                { label: 'Remake (1998)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Edit (1998)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
               ],
-              descPre: 'This remake adds opening and ending ',
+              descPre: 'This edit adds opening and ending ',
               abbrTerm: 'FMV',
               abbrDef: 'Full Motion Video',
               descPost: 's, "memo" save feature. May have slow menus.',

@@ -37,7 +37,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             {
               parts: [
                 { label: 'Final Fantasy XIII (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII' },
-                { label: 'Remaster (2010)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'International (2010)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise', small: true },
               ],
               emFirst: true,
               emPre: 'This release brings the international build — with its English voice option — to Japan a year after the worldwide launch, and adds an Easy/Normal difficulty toggle. Released as ',
@@ -166,7 +166,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             {
               parts: [
                 { label: 'Final Fantasy XIII-2 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2' },
-                { label: 'Remaster (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Remaster (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2', small: true },
               ],
               description: 'This remaster unlocks higher resolutions and up to 60 fps on PC (capped at 30 fps on Xbox One).',
               languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
@@ -279,7 +279,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             {
               parts: [
                 { label: 'Lightning Returns: Final Fantasy XIII (2013)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII' },
-                { label: 'Remaster (2015)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Remaster (2015)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', small: true },
               ],
               description: 'This remaster unlocks higher resolutions and up to 60 fps on PC (30 fps on Xbox).',
               languages: [{ value: 'JA', tip: 'Japanese', native: true, voice: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
@@ -354,7 +354,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
         alt: {
           parts: [
             { label: 'Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Alpha (2010)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD' },
-            { label: 'radio drama', url: null, smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+            { label: 'radio drama', url: null, small: true },
           ],
           tags: ['Optional', 'Radio drama'],
           emPre: 'Features Part 1 of ',

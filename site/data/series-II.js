@@ -1,7 +1,7 @@
 window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder: 200, recommendedOrder: 200, title: 'Final Fantasy II', note: 'For the first 14 years, this series was only available in Japan.', games: [
         { title: 'Final Fantasy II', releaseDate: '1988-12-17', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['Usage system'], mediaType: 'Game', lengthParts: [{ value: '20½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '24h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '24½h', tip: 'Completionist' }], parts: [
           { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
-          { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster' },
+          { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
         ],
         storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
         languages: [
@@ -55,10 +55,10 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             {
               parts: [
                 { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
-                { label: 'Remake (2012)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Edit (2012)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
               ],
               descParts: [
-                { text: 'This mobile remake reworks the UI for touch controls, reduces music quality, and removes the Art Gallery and Item Collection. Includes the ' },
+                { text: 'This mobile edit reworks the UI for touch controls, reduces music quality, and removes the Art Gallery and Item Collection. Includes the ' },
                 { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' },
                 { text: ' bonus campaign.' },
               ],
@@ -72,10 +72,10 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             {
               parts: [
                 { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
-                { label: 'Remake (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Edit (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
               ],
               descParts: [
-                { text: 'This remake adds a bonus dungeon and refines Remaster (2002)\'s bonus content. Released as ' },
+                { text: 'This edit adds a bonus dungeon and refines Remaster (2002)\'s bonus content. Released as ' },
                 { emText: 'Final Fantasy II Anniversary Edition (2007)' },
                 { text: '. Includes the ' },
                 { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' },
@@ -91,7 +91,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             {
               parts: [
                 { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
-                { label: 'Mobile (2005)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Mobile (2005)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
               ],
               descParts: [
                 { text: 'This mobile port is based on Remake (2004), with cutscenes, portraits, and bonus content removed. Does not include the ' },
@@ -108,7 +108,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             {
               parts: [
                 { label: 'Final Fantasy II (1998)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
-                { label: 'Remake (2004)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Remake (2004)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
               ],
               descParts: [
                 { text: 'This remake redraws cutesy sprites, reworks the storyline, and updates terminology. Released in omnibus ' },
@@ -127,7 +127,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             {
               parts: [
                 { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
-                { label: 'Remaster (2002)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Remaster (2002)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
               ],
               descParts: [
                 { text: 'This remaster reworks graphics, adds a CGI opening cutscene, monster database, and art gallery. May have slow menus. Released in omnibus ' },
@@ -147,7 +147,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             {
               parts: [
                 { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
-                { label: 'Remaster (2001)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Remaster (2001)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
               ],
               description: 'This remaster overhauls visuals and sound, and adds new cutscenes, auto-targeting, a dash button, and quicksave.',
               languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (Fan Translation) (RPGONE 2002)' }],

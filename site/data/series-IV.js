@@ -22,7 +22,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           { value: 'ZH-TW', tip: 'Traditional Chinese' },
         ], parts: [
           { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-          { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster' },
+          { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
         ],
         storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
         description: 'The dark knight Cecil tries to prevent sorcerer Golbez from seizing powerful crystals and destroying the world.\n\nThis remaster has redrawn sprites, rearranged music, in-game maps, auto-battle, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
@@ -64,9 +64,9 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               label: 'Final Fantasy IV (1991)',
               parts: [
                 { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-                { label: 'Remake (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
+                { label: 'Edit (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
               ],
-              description: 'This port is based on Remake (2005), with a returning opening FMV, auto-battle, faster loading via Data Install, new 3D cutscenes, and a choice between Famicom and 3D Remake soundtracks.',
+              description: 'This port is based on Edit (2005), with a returning opening FMV, auto-battle, faster loading via Data Install, new 3D cutscenes, and a choice between Famicom and 3D Remake soundtracks.',
               helpWanted: true,
               languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
               emTermNotFirst: true,
@@ -85,9 +85,9 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               label: 'Final Fantasy IV (1991)',
               parts: [
                 { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-                { label: 'Remake (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
+                { label: 'Edit (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
               ],
-              description: 'Introduced the EX Dungeon bonus content and an unlimited inventory, both later folded into Remake (2011).',
+              description: 'Introduced the EX Dungeon bonus content and an unlimited inventory, both later folded into Edit (2011).',
               languages: [{ value: 'JA', tip: 'Japanese', native: true }],
               platformGroups: [
                 [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'Mobile Phones (Digital; Japan Only); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
@@ -97,10 +97,10 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               label: 'Final Fantasy IV (1991)',
               parts: [
                 { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-                { label: 'Remake (2005)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
+                { label: 'Edit (2005)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
               ],
               descParts: [
-                { text: 'This remake adds two bonus dungeons, a Bestiary, and a Music Player. Has several known bugs and glitches, only partially fixed in the PAL/Version 1.1 release. Released as ' },
+                { text: 'This edit adds two bonus dungeons, a Bestiary, and a Music Player. Has several known bugs and glitches, only partially fixed in the PAL/Version 1.1 release. Released as ' },
                 { emText: 'Final Fantasy IV Advance (2005)' },
                 { text: ', and included in omnibus collection ' },
                 { emText: 'Finest Fantasy for Advance (2005)' },
@@ -116,9 +116,9 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               label: 'Final Fantasy IV (1991)',
               parts: [
                 { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-                { label: 'Remake (2002)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
+                { label: 'Remaster (2002)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
               ],
-              description: 'This remake enhances sprite detail and shading, but removes the FMV intro, memo saves, and sprinting featured in Remake (1997).',
+              description: 'This remaster enhances sprite detail and shading, but removes the FMV intro, memo saves, and sprinting featured in Edit (1997).',
               languages: [{ value: 'JA', tip: 'Japanese', native: true }],
               platformGroups: [
                 [{ icon: null, iconImg: 'images/platforms/wonderswan.svg', iconSize: 15.93, imgStyle: 'width: auto; height: 15.93px;', name: 'WonderSwan Color (Physical; Japan Only)', jpTag: true }],
@@ -128,9 +128,9 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               label: 'Final Fantasy IV (1991)',
               parts: [
                 { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-                { label: 'Remake (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
+                { label: 'Edit (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
               ],
-              descPre: 'This remake features a new translation restoring content cut from the SNES version, adds an ',
+              descPre: 'This edit features a new translation restoring content cut from the SNES version, adds an ',
               abbrTerm: 'FMV',
               abbrDef: 'Full Motion Video',
               descPost: ' intro, and memo saves. Load times and battle menu scrolling are slower due to the disc format.',
@@ -310,7 +310,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         helpWanted: true,
         parts: [
           { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
-          { label: 'Remake (2011)', small: true },
+          { label: 'Remaster (2011)', small: true },
         ],
         emPre: 'Episodic tales following the cast of ',
         emTerm: 'IV (1991)',
@@ -345,7 +345,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           {
             parts: [
               { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
-              { label: 'Remake (2009)', small: true },
+              { label: 'Edit (2009)', small: true },
             ],
             description: 'This release blends the Prologue, Ceodore\u2019s Tale, and Kain\u2019s Tale together, and was the first to release outside Japan.',
             platformGroups: [
@@ -358,7 +358,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           {
             parts: [
               { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
-              { label: 'Mobile (2008)', small: true },
+              { label: 'Mobile', small: true },
             ],
             description: 'The original release, published episodically.',
             languages: [{ value: 'JA', tip: 'Japanese', native: true }],

@@ -1,7 +1,7 @@
 window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder: 600, recommendedOrder: 600, title: 'Final Fantasy VI', note: 'The last mainline entry to feature 2D sprite graphics, especially outside of mobile games.', games: [
         { title: 'Final Fantasy VI', releaseDate: '1994-04-02', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['Active time battles'], mediaType: 'Game', lengthParts: [{ value: '33h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '40½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '54½h', tip: 'Completionist' }], parts: [
           { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
-          { label: 'Pixel Remaster (2022)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster' },
+          { label: 'Pixel Remaster (2022)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
         ],
         storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
         languages: [
@@ -61,9 +61,9 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
             {
               parts: [
                 { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
-                { label: 'Remake (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Remaster (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
               ],
-              description: 'This remake has high-resolution graphics, redesigned sprites, movement in eight directions, and auto-battle.',
+              description: 'This remaster has high-resolution graphics, redesigned sprites, movement in eight directions, and auto-battle.',
               languages: [
                 { value: 'JA', tip: 'Japanese', native: true },
                 { value: 'EN', tip: 'English' },
@@ -83,9 +83,9 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
             {
               parts: [
                 { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
-                { label: 'Remake (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Edit (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
               ],
-              description: 'This remake has slightly improved visuals and a new translation, plus four new espers, two new areas, and three new spells.',
+              description: 'This edit has slightly improved visuals and a new translation, plus four new espers, two new areas, and three new spells.',
               emTermNotFirst: true,
               emPre: 'Released as ',
               emTerm: 'Final Fantasy VI Advance (2006)',
@@ -100,9 +100,9 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
             {
               parts: [
                 { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
-                { label: 'Remake (1999)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', smallStyle: 'font-size:12px;color:var(--color-neutral-400);' },
+                { label: 'Edit (1999)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
               ],
-              descPre: 'This remake adds opening and ending ',
+              descPre: 'This edit adds opening and ending ',
               abbrTerm: 'FMV',
               abbrDef: 'Full Motion Video',
               descPost: 's, screen-transition effects, and "memo" save feature. May have slow menus.',

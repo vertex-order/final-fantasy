@@ -2,7 +2,7 @@ window.__ffSeriesReg['IX'] = { num: 'IX', releaseDate: '2000-07-07', chronoOrder
         { title: 'Final Fantasy IX', releaseDate: '2000-07-07', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: [], mediaType: 'Game', lengthParts: [{ value: '38h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '52h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '82h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy IX (2000)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IX' },
-          { label: 'Remake (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IX#Release', small: true },
+          { label: 'Remaster (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IX#Release', small: true },
         ],
         languages: [
           { value: 'JA', tip: 'Japanese', native: true },
@@ -13,7 +13,7 @@ window.__ffSeriesReg['IX'] = { num: 'IX', releaseDate: '2000-07-07', chronoOrder
           { value: 'ES-ES', tip: 'Spanish (Spain)' },
           { value: 'EN-US', tip: 'English (American)' },
         ],
-        description: 'Zidane kidnaps princess Garnet as part of a ploy between nations at war in this medieval setting.\n\nThis remake has high-definition movies and character models, autosave, achievements, multiple optional cheats, and a no-encounters mode. Switch and Xbox versions have slower load times, and Switch handheld mode runs at a lower resolution with occasional crashes.',
+        description: 'Zidane kidnaps princess Garnet as part of a ploy between nations at war in this medieval setting.\n\nThis remaster has high-definition movies and character models, autosave, achievements, multiple optional cheats, and a no-encounters mode. Switch and Xbox versions have slower load times, and Switch handheld mode runs at a lower resolution with occasional crashes.',
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '94', midScore: '8.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-ix/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-ix/', sourceUrl: 'https://store.steampowered.com/app/377840/FINAL_FANTASY_IX/', sourceLabel: 'Steam; Very Positive' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-ix',
         platformGroups: [
