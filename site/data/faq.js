@@ -3,12 +3,16 @@
 // of paragraphs: a plain string, or {parts:[...]} where each part is {text} or {em}.
 // Franchise-specific items first, then the generic items every list shares
 // (data/common-faq.js, owned by kit) — see that file for the sync rationale.
+// Every entry needs a stable, hand-picked `id` (kebab-case) for its pilcrow
+// anchor — see common-faq.js for why it can't be derived from the question.
 window.FAQ_ITEMS = [
   {
+    id: "play-in-order",
     q: "Do I need to play the franchise in order?",
     a: ["No. You can play the Final Fantasy franchise in any order, and only the internal order of each series is important. For example Final Fantasy II and Final Fantasy XVI are not related story wise in any way, and only share some common elements belonging to most Final Fantasy series."],
   },
   {
+    id: "side-stories",
     q: "Why isn't every side story or spin-off listed separately?",
     a: [
       { parts: [
