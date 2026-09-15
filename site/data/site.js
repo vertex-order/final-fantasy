@@ -9,4 +9,5 @@ window.SITE_CONFIG = {
   ],
   lastUpdated: "2026-08-01",
   entities: ["Square Enix"],
+  noticeUrl: "https://github.com/vertex-order/final-fantasy/blob/main/NOTICE.md",
 };
