@@ -19,7 +19,7 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "8dbc1b27d1753784d09e862421fbdb1035b8705c"
+ref = "46af90a00c0a4b49176dc9d56938a18f35a047b9"
 paths = [
   "site/_ds/",
   "site/images/ui/",
