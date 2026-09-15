@@ -19,7 +19,7 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "942a003dc49fdc0e23cfeaf642c0d9f84b9614c4"
+ref = "fe3e03081b626df8b2902ef0b7c926c0bd7b950d"
 paths = [
   "site/_ds/",
   "site/images/ui/",
@@ -64,6 +64,7 @@ paths = [
   ".githooks/pre-commit",
   ".github/workflows/check-generated.yml",
   ".github/workflows/check-vendored.yml",
+  ".github/workflows/sync-repin.yml",
   ".github/workflows/static.yml",
   ".github/dependabot.yml",
 ]
