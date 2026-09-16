@@ -121,7 +121,14 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
                 description: [['This edit adds opening and ending ', {
                   abbrTerm: 'FMV',
                   abbrDef: 'Full Motion Video'
-                }, 's, "memo" save feature. May have slow menus.']],
+                }, 's, "memo" save feature. May have slow menus.'], ['Released in the omnibus collections ', {
+                  emText: 'Final Fantasy Collection'
+                }, {
+                  hintText: ' (JP)',
+                  tip: 'Japan'
+                }, ' (1999), ', {
+                  emText: 'Final Fantasy Anthology'
+                }, ' (2002).']],
 
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
                 helpWanted: true,
