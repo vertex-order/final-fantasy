@@ -57,23 +57,23 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '8.1', midUrl: 'https://www.metacritic.com/game/final-fantasy-iv-pixel-remaster/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-iv/', sourceUrl: 'https://store.steampowered.com/app/1173800/FINAL_FANTASY_IV/', sourceLabel: 'Steam; Very Positive' },
 
           platformGroups: [
-            [{ key: 'windows', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' }],
-            [{ key: 'steam', url: 'https://store.steampowered.com/app/1173800?' }],
+            [{ key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' }],
+            [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1173800?' }],
             [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR4&' }],
             [{ key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-iv/id1492041417?' }],
-            [{ key: 'nintendo-switch', url: 'https://www.nintendo.com/store/products/final-fantasy-iv-switch/' }],
-            [{ key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-iv-switch/' }],
+            [{ key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-iv-switch/' }],
+            [{ key: 'nintendo-switch-2', paren: 'Switch 1 compatibility; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-iv-switch/' }],
             [
-              { key: 'playstation4', url: 'https://store.playstation.com/product/UP0082-CUSA33829_00-FF4PS4APPNA00001' },
-              { key: 'playstation5', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA33829_00-FF4PS4APPNA00001' },
+              { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA33829_00-FF4PS4APPNA00001' },
+              { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA33829_00-FF4PS4APPNA00001' },
             ],
-            [{ key: 'xbox-xs', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' }],
+            [{ key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' }],
             [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' }],
             [{ key: 'amazon', url: 'https://www.amazon.com/dp/B09D2Y1CHH?' }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20playthrough' },
             ],
           ],
 
@@ -136,7 +136,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               helpWanted: true,
               languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
               platformGroups: [
-                [{ key: 'nintendo-game-boy-advance' }],
+                [{ key: 'nintendo-game-boy-advance', paren: 'Physical' }],
               ],
             },
             {
@@ -150,7 +150,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               ],
               languages: [{ value: 'JA', tip: 'Japanese', native: true }],
               platformGroups: [
-                [{ key: 'wonderswan' }],
+                [{ key: 'wonderswan', paren: 'Physical; Japan Only' }],
               ],
             },
             {
@@ -190,8 +190,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
 
               platformGroups: [
                 [{ key: 'playstation3', name: 'PlayStation 3: PSone compatibility; Digital (Japan Only)', jpTag: true }],
-                [{ key: 'playstation2', name: 'PlayStation 2 (PSone compatibility)' }],
-                [{ key: 'playstation1' }],
+                [{ key: 'playstation2', paren: 'PSone compatibility' }],
+                [{ key: 'playstation1', paren: 'Physical' }],
                 [{ key: 'playstation-vita', name: 'PlayStation Vita: Digital (Japan Only)', jpTag: true }],
                 [{ key: 'playstation-portable', name: 'PlayStation Portable: Digital (Japan Only)', jpTag: true }],
               ]
@@ -212,7 +212,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
                 [{ key: 'nintendo-snes', name: 'Super Nintendo Entertainment System (Super Famicom; Physical)' }],
                 [{ key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
                 [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
-                [{ key: 'nintendo-game-boy-advance' }],
+                [{ key: 'nintendo-game-boy-advance', paren: 'Physical' }],
               ],
             },
           ],
@@ -253,9 +253,9 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '89', midScore: '7.4', midUrl: 'https://www.metacritic.com/game/final-fantasy-iv-3d-remake/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-iv-3d-remake/', sourceUrl: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/', sourceLabel: 'Steam; Very Positive' },
 
             platformGroups: [
-              [{ key: 'windows', name: 'Windows', url: null, noUrl: true }],
-              [{ key: 'gog', url: 'https://www.gog.com/en/game/final_fantasy_iv_3d_remake' }],
-              [{ key: 'steam', url: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/' }],
+              [{ key: 'windows', url: null, noUrl: true }],
+              [{ key: 'gog', paren: 'PC', url: 'https://www.gog.com/en/game/final_fantasy_iv_3d_remake' }],
+              [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/' }],
               [{ key: 'apple-arcade', url: 'https://apps.apple.com/app/final-fantasy-iv-3d-remake/id6504607951' }],
             ],
 
@@ -272,8 +272,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
                 ],
                 languages: [{ value: 'JA', tip: 'Japanese — full audio', native: true, voice: true }, { value: 'EN', tip: 'English — full audio', voice: true }, { value: 'FR', tip: 'French — text only' }, { value: 'DE', tip: 'German — text only' }, { value: 'IT', tip: 'Italian — text only' }, { value: 'ES-ES', tip: 'Spanish (Spain) — text only' }],
                 platformGroups: [
-                  [{ key: 'apple', name: 'iOS (Digital)' }],
-                  [{ key: 'android2', name: 'Android (Digital)' }],
+                  [{ key: 'apple', paren: 'Digital' }],
+                  [{ key: 'android2', paren: 'Digital' }],
                 ],
               },
               {
@@ -286,7 +286,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
                 ],
                 languages: [{ value: 'JA', tip: 'Japanese — full audio', native: true, voice: true }, { value: 'EN', tip: 'English — full audio', voice: true }, { value: 'FR', tip: 'French — text only' }, { value: 'DE', tip: 'German — text only' }, { value: 'IT', tip: 'Italian — text only' }, { value: 'ES-ES', tip: 'Spanish (Spain) — text only' }],
                 platformGroups: [
-                  [{ key: 'nintendo-ds', name: 'Nintendo DS (Physical)' }],
+                  [{ key: 'nintendo-ds', paren: 'Physical' }],
                 ],
               },
             ]
@@ -303,7 +303,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20IV%20~Novel~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20~Novel~%20Vol.1%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20~Novel~%20Vol.1%20story%20recap' }],
         ],
         alts: [
           {
@@ -330,7 +330,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20IV%20~Novel~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20~Novel~%20Vol.2%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20~Novel~%20Vol.2%20story%20recap' }],
         ] },
         {
           title: 'Final Fantasy IV: Interlude',
@@ -365,9 +365,9 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
 
           platformGroups: [
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20playthrough' },
             ],
             [{ key: 'playstation-portable', name: 'PlayStation Portable (Physical)', noUrl: true }],
           ]
@@ -410,9 +410,9 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
 
           platformGroups: [
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20playthrough' },
             ],
             [{ key: 'playstation-portable', name: 'PlayStation Portable (Physical)', noUrl: true }],
           ],
@@ -467,7 +467,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             ],
             rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: 'Mixed', url: 'https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/', single: true, sourceLabel: 'Steam' },
             platformGroups: [
-              [{ key: 'steam', url: 'https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/' }],
+              [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/' }],
               [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FF4AY_GP' }],
               [{ key: 'apple', url: 'https://apps.apple.com/app/ff-iv-the-after-years/id683029090' }],
               [{ key: 'apple-arcade', url: 'https://apps.apple.com/app/ff-iv-the-after-years/id6504608150' }],
@@ -486,6 +486,6 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20IV%3A%20The%20After%20~Novel~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20~Novel~%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20~Novel~%20story%20recap' }],
         ] },
       ]};

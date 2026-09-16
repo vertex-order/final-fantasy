@@ -46,23 +46,23 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '8.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-v/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-v/', sourceUrl: 'https://store.steampowered.com/app/1173810/FINAL_FANTASY_V/', sourceLabel: 'Steam; Very Positive' },
 
           platformGroups: [
-            [{ key: 'windows', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' }],
-            [{ key: 'steam', url: 'https://store.steampowered.com/app/1173810?' }],
+            [{ key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' }],
+            [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1173810?' }],
             [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR5&' }],
             [{ key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-v/id1492041611' }],
-            [{ key: 'nintendo-switch', url: 'https://www.nintendo.com/store/products/final-fantasy-v-switch/' }],
-            [{ key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-v-switch/' }],
+            [{ key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-v-switch/' }],
+            [{ key: 'nintendo-switch-2', paren: 'Switch 1 compatibility; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-v-switch/' }],
             [
-              { key: 'playstation4', url: 'https://store.playstation.com/product/UP0082-CUSA33833_00-FF5PS4APPNA00001' },
-              { key: 'playstation5', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA33833_00-FF5PS4APPNA00001' },
+              { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA33833_00-FF5PS4APPNA00001' },
+              { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA33833_00-FF5PS4APPNA00001' },
             ],
-            [{ key: 'xbox-xs', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' }],
+            [{ key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' }],
             [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' }],
             [{ key: 'amazon', url: 'https://www.amazon.com/dp/B09JKQ94WB?' }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20playthrough' },
             ],
           ],
 
@@ -109,7 +109,7 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'DE', tip: 'German' }, { value: 'FR', tip: 'French' }, { value: 'IT', tip: 'Italian' }, { value: 'ES', tip: 'Spanish' }],
 
                 platformGroups: [
-                  [{ key: 'nintendo-game-boy-advance' }],
+                  [{ key: 'nintendo-game-boy-advance', paren: 'Physical' }],
                 ]
               },
               {
@@ -135,11 +135,11 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
 
                 platformGroups: [
                   [
-                    { key: 'playstation3', name: 'PlayStation 3 (PSone compatibility; Digital)' },
-                    { key: 'playstation2', name: 'PlayStation 2 (PSone compatibility)' },
-                    { key: 'playstation1' },
-                    { key: 'playstation-vita', name: 'PlayStation Vita (Digital)' },
-                    { key: 'playstation-portable', name: 'PlayStation Portable (PSP) (Digital)' },
+                    { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+                    { key: 'playstation2', paren: 'PSone compatibility' },
+                    { key: 'playstation1', paren: 'Physical' },
+                    { key: 'playstation-vita', paren: 'Digital' },
+                    { key: 'playstation-portable', paren: 'Digital' },
                   ],
                 ]
               },
@@ -199,7 +199,7 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
             [{ key: 'vhs', noUrl: true }],
             [{ key: 'laserdisc', name: 'Laserdisk (Japan only)', noUrl: true, jpTag: true }],
             [{ key: 'fan-movie', name: 'Youtube (unofficial)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Legend%20of%20the%20Crystals%20(1994)' }],
-            [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Legend%20of%20the%20Crystals%20(1994)%20story%20recap' }],
+            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Legend%20of%20the%20Crystals%20(1994)%20story%20recap' }],
           ]
         },
       ]};

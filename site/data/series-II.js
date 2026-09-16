@@ -48,23 +48,23 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '77', midScore: '6.4', midUrl: 'https://www.metacritic.com/game/final-fantasy-ii/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-ii-pixel-remaster/', sourceUrl: 'https://store.steampowered.com/app/1173780/FINAL_FANTASY_II/', sourceLabel: 'Steam; Very Positive' },
 
           platformGroups: [
-            [{ key: 'windows', url: 'https://www.xbox.com/games/store/final-fantasy-ii/9p8s1mn4066k?' }],
-            [{ key: 'steam', url: 'https://store.steampowered.com/app/1173780?' }],
+            [{ key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-ii/9p8s1mn4066k?' }],
+            [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1173780?' }],
             [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR2&' }],
             [{ key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-ii/id1492041252?' }],
-            [{ key: 'nintendo-switch', url: 'https://www.nintendo.com/store/products/final-fantasy-ii-switch/' }],
-            [{ key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-ii-switch/' }],
+            [{ key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-ii-switch/' }],
+            [{ key: 'nintendo-switch-2', paren: 'Switch 1 compatibility; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-ii-switch/' }],
             [
-              { key: 'playstation4', url: 'https://store.playstation.com/product/UP0082-CUSA33821_00-FF2PS4APPNA00001' },
-              { key: 'playstation5', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA33821_00-FF2PS4APPNA00001' },
+              { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA33821_00-FF2PS4APPNA00001' },
+              { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA33821_00-FF2PS4APPNA00001' },
             ],
-            [{ key: 'xbox-xs', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-ii/9p8s1mn4066k?' }],
+            [{ key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-ii/9p8s1mn4066k?' }],
             [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-ii/9p8s1mn4066k?' }],
             [{ key: 'amazon', url: 'https://www.amazon.com/dp/B09959P64G?' }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20II%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20II%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20II%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20II%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20II%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20II%20playthrough' },
             ],
           ],
 
@@ -141,7 +141,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
                 platformGroups: [
                   [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
-                  [{ key: 'nintendo-game-boy-advance' }],
+                  [{ key: 'nintendo-game-boy-advance', paren: 'Physical' }],
                 ],
               },
               {
@@ -157,11 +157,11 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
                 helpWanted: true,
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
                 platformGroups: [
-                  [{ key: 'playstation3', name: 'PlayStation 3 (Digital)' }],
-                  [{ key: 'playstation2', name: 'PlayStation 2 (PSone compatibility)' }],
+                  [{ key: 'playstation3', paren: 'Digital' }],
+                  [{ key: 'playstation2', paren: 'PSone compatibility' }],
                   [{ key: 'playstation1', name: 'PlayStation' }],
-                  [{ key: 'playstation-vita', name: 'PlayStation Vita (Digital)' }],
-                  [{ key: 'playstation-portable', name: 'PlayStation Portable (PSP) (Digital)' }],
+                  [{ key: 'playstation-vita', paren: 'Digital' }],
+                  [{ key: 'playstation-portable', paren: 'Digital' }],
                 ],
               },
               {
@@ -174,7 +174,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
                 ],
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (Fan Translation) (RPGONE 2002)' }],
                 platformGroups: [
-                  [{ key: 'wonderswan' }],
+                  [{ key: 'wonderswan', paren: 'Physical; Japan Only' }],
                 ],
               },
               {
@@ -200,7 +200,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
                 platformGroups: [
                   [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
                   [{ key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
-                  [{ key: 'nintendo-fc' }],
+                  [{ key: 'nintendo-fc', paren: 'Physical; Japan Only' }],
                   [{ key: 'nintendo-3ds', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
                 ],
               },
@@ -224,7 +224,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Muma%20no%20Meiky%C5%AB%20Nightmare%27s%20Labyrinth%20translation&t=h_' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20II%20Muma%20no%20Meiky%C5%AB%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20II%20Muma%20no%20Meiky%C5%AB%20story%20recap' }],
         ] },
         { title: 'Final Fantasy II: Dragon Treasures', releaseDate: '1988-12', chronoOrder: 620, recommendedOrder: 410, tags: ['Optional', 'Alternate Universe', 'Gamebook'], mediaType: 'Book', length: '283p',
         parts: [
@@ -239,7 +239,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Gamebook (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Hih%C5%8D%20no%20Dragon%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20II%3A%20Dragon%20Treasures%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20II%3A%20Dragon%20Treasures%20story%20recap' }],
         ] },
         { title: 'Final Fantasy II: Journey to Victory', releaseDate: '1988', chronoOrder: 630, recommendedOrder: 415, tags: ['Optional', 'Side-story', 'Gamebook'], mediaType: 'Book',
         parts: [
@@ -256,7 +256,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Gamebook (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Sh%C5%8Dri%20e%20no%20Tabidachi%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20II%3A%20Journey%20to%20Victory%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20II%3A%20Journey%20to%20Victory%20story%20recap' }],
         ] },
         { title: 'Final Fantasy II ~Manga~ (1988)', releaseDate: '1989-12', chronoOrder: 600, recommendedOrder: 400, tags: ['Optional', 'Alternate Universe', 'Manga', 'Incomplete'], mediaType: 'Comic', length: '~60p',
         parts: [
@@ -273,7 +273,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20manga%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20II%20manga%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20II%20manga%20story%20recap' }],
         ] },
         { title: 'Final Fantasy I・II・III: Memory of Heroes ~II~ (2012)', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
         parts: [
@@ -294,7 +294,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
         rating: { scoreLabelText: 'Goodreads', score: '3.24', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories', noUrl: true }],
-        [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20story%20recap' }],
-        [{ key: 'fan-audiobook', name: 'Fan Audiobook (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20audiobook' }],
+        [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20story%20recap' }],
+        [{ key: 'fan-audiobook', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20audiobook' }],
         ] },
       ]};

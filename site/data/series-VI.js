@@ -48,23 +48,23 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '92', midScore: '8.4', midUrl: 'https://www.metacritic.com/game/final-fantasy-vi/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-vi/', sourceUrl: 'https://store.steampowered.com/app/1173820/FINAL_FANTASY_VI/', sourceLabel: 'Steam; Very Positive' },
 
           platformGroups: [
-            [{ key: 'windows', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' }],
-            [{ key: 'steam', url: 'https://store.steampowered.com/app/1173820?' }],
+            [{ key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' }],
+            [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1173820?' }],
             [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR6&' }],
             [{ key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-vi/id1492041539' }],
-            [{ key: 'nintendo-switch', url: 'https://www.nintendo.com/store/products/final-fantasy-vi-switch/' }],
-            [{ key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vi-switch/' }],
+            [{ key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-vi-switch/' }],
+            [{ key: 'nintendo-switch-2', paren: 'Switch 1 compatibility; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-vi-switch/' }],
             [
-              { key: 'playstation4', url: 'https://store.playstation.com/product/UP0082-CUSA33837_00-FF6PS4APPNA00001' },
-              { key: 'playstation5', name: 'PlayStation 5 (PS4 compatibility)', url: 'https://store.playstation.com/product/UP0082-CUSA33837_00-FF6PS4APPNA00001' },
+              { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA33837_00-FF6PS4APPNA00001' },
+              { key: 'playstation5', paren: 'PS4 compatibility', url: 'https://store.playstation.com/product/UP0082-CUSA33837_00-FF6PS4APPNA00001' },
             ],
-            [{ key: 'xbox-xs', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' }],
+            [{ key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' }],
             [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' }],
             [{ key: 'amazon', url: 'https://www.amazon.com/dp/B09RFBLK4Y?' }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20playthrough' },
             ],
           ],
 
@@ -114,7 +114,7 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'DE', tip: 'German' }, { value: 'FR', tip: 'French' }, { value: 'IT', tip: 'Italian' }, { value: 'ES', tip: 'Spanish' }],
 
                 platformGroups: [
-                  [{ key: 'nintendo-game-boy-advance' }],
+                  [{ key: 'nintendo-game-boy-advance', paren: 'Physical' }],
                 ]
               },
               {
@@ -143,11 +143,11 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
 
                 platformGroups: [
                   [
-                    { key: 'playstation3', name: 'PlayStation 3 (PSone compatibility; Digital)' },
-                    { key: 'playstation2', name: 'PlayStation 2 (PSone compatibility)' },
-                    { key: 'playstation1' },
-                    { key: 'playstation-vita', name: 'PlayStation Vita (Digital)' },
-                    { key: 'playstation-portable', name: 'PlayStation Portable (PSP) (Digital)' },
+                    { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+                    { key: 'playstation2', paren: 'PSone compatibility' },
+                    { key: 'playstation1', paren: 'Physical' },
+                    { key: 'playstation-vita', paren: 'Digital' },
+                    { key: 'playstation-portable', paren: 'Digital' },
                   ],
                 ]
               },
@@ -185,6 +185,6 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20VI%20Figaro%20No%20Kekkon%20Figaro%27s%20Wedding%3A%20Tales%20from%20Desert%20translate' }],
-        [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VI%20Figaro%20No%20Kekkon%20Figaro%27s%20Wedding%3A%20Tales%20from%20Desert%20story%20recap' }],
+        [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VI%20Figaro%20No%20Kekkon%20Figaro%27s%20Wedding%3A%20Tales%20from%20Desert%20story%20recap' }],
         ] },
       ]};

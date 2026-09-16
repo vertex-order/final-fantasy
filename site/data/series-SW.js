@@ -33,7 +33,7 @@ window.__ffSeriesReg['SW'] = { num: 'SW', releaseDate: '2001-07-02', chronoOrder
             { key: 'dvd', noUrl: true },
           ],
           [
-            { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20The%20Spirits%20Within%20story%20recap' },
+            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20The%20Spirits%20Within%20story%20recap' },
           ],
         ] },
         { title: 'Final Fantasy: The Spirits Within Novel', releaseDate: '2001-06-26', chronoOrder: 500, recommendedOrder: 200, tags: ['Optional', 'Novel'], mediaType: 'Book',
@@ -53,7 +53,7 @@ window.__ffSeriesReg['SW'] = { num: 'SW', releaseDate: '2001-07-02', chronoOrder
         rating: { scoreLabelText: 'Goodreads', score: '3.31', url: 'https://www.goodreads.com/book/show/2018984.Final_Fantasy', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
           [{ key: 'book', name: 'Novel', noUrl: true }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20The%20Spirits%20Within%20Novel%20Dean%20Wesley%20Smith%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20The%20Spirits%20Within%20Novel%20Dean%20Wesley%20Smith%20story%20recap' }],
         ],
         alt: {
           parts: [
@@ -70,7 +70,7 @@ window.__ffSeriesReg['SW'] = { num: 'SW', releaseDate: '2001-07-02', chronoOrder
           helpWanted: true,
           platformGroups: [
             [{ key: 'book', name: 'YA Novel', noUrl: true }],
-            [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20The%20Spirits%20Within%20YA%20Novel%20John%20Vornholt%20story%20recap' }],
+            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20The%20Spirits%20Within%20YA%20Novel%20John%20Vornholt%20story%20recap' }],
           ],
         } },
       ]};
