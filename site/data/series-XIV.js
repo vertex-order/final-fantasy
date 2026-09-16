@@ -1,230 +1,333 @@
 window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrder: 1500, recommendedOrder: 1500, title: 'Final Fantasy XIV', note: 'The second MMO in the franchise, and its longest story by far — one overarching tale still unfolding through new content.', games: [
-        { title: 'Final Fantasy XIV: Online', releaseDate: '2010-09-30', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['MMORPG', 'Monthly subscription', 'Terminated'], mediaType: 'Game', lengthParts: [{ value: '181h', tip: 'Solo' }],
-        bylineParts: [
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Monthly subscription · Terminated' },
-        ],
-        parts: [
-          { label: 'Final Fantasy XIV: Online ~1.0~ (2010)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV_(2010_video_game)' },
-        ],
-        description: "Explore the world of Eorzea and get caught up in both an invasion by the hostile Garlean Empire and the threat of the primals, the deities of the land's beastmen tribes. It all ends in a cataclysmic event.",
-        descMidParts: [
-          { text: 'Terminated due to low ratings, it was remade into something akin to a sequel as ' },
-          { emText: 'XIV: A Realm Reborn (2013)' },
-          { text: ' listed below. We recommend watching the cinematics and story recap before heading into ' },
-          { emText: 'A Realm Reborn' },
-          { text: '.' },
-        ],
-        desc2Last: true,
-        desc3Parts: [
-          { text: 'Also known as ' },
-          { emText: 'Version 1.0' },
-          { text: ', to distinguish it from ' },
-          { emText: 'A Realm Reborn' },
-          { text: "'s 2.0 relaunch." },
-        ],
-        languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'EN', tip: 'English', voice: true },
-          { value: 'FR', tip: 'French' },
-          { value: 'DE', tip: 'German' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '49', midScore: '3.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-online/', url: 'https://www.metacritic.com/game/final-fantasy-xiv-online/', single: true, sourceLabel: 'Metacritic' },
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-          [
-            { icon: null, iconImg: 'images/platforms/youtube.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Cinematics (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%201.0%202010%20cinematics' },
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%201.0%202010%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%201.0%202010%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%202010%20playthrough' },
+        {
+          title: 'Final Fantasy XIV: Online',
+          releaseDate: '2010-09-30',
+          chronoOrder: 0,
+          recommendedOrder: 100,
+          mainline: true,
+          tags: ['MMORPG', 'Monthly subscription', 'Terminated'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '181h', tip: 'Solo' }],
+
+          bylineParts: [
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Monthly subscription · Terminated' },
           ],
-        ] },
-        { title: 'Final Fantasy XIV: A Realm Reborn', releaseDate: '2013-08-27', chronoOrder: 1000, recommendedOrder: 200, tags: ['Sequel', 'MMORPG', 'Monthly subscription'], mediaType: 'Game', lengthParts: [{ value: '270h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '1521h', tip: 'Co-op', sep: true, sepChar: ' / ' }, { value: '43h', tip: 'Vs.' }],
-        bylineParts: [
-          { text: 'Sequel · ' },
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Monthly subscription' },
-        ],
-        languages: [
-          { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-          { value: 'EN-GB', tip: 'English (British) — full audio', voice: true },
-          { value: 'FR', tip: 'French — full audio', voice: true },
-          { value: 'DE', tip: 'German — full audio', voice: true },
-          { value: 'EN-US', tip: 'English (American) — full audio', voice: true },
-        ],
-        parts: [
-          { label: 'Final Fantasy XIV: A Realm Reborn (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV' },
-        ],
-        description: 'Seven years after XIV: Online (2010), you must fend off a reignited invasion from the Garlean Empire in the world of Eorzea. From the base game, continue your adventure in 6 expansions (listed separately), with more expected to release.',
-        desc2Last: true,
-        desc3Parts: [
-          { text: 'Sometimes referred to simply as ' },
-          { emText: 'Final Fantasy XIV: Online' },
-          { text: ', or ' },
-          { emText: 'Version 2.0' },
-          { text: '.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '86', midScore: '7.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-online-a-realm-reborn/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-xiv-online-a-realm-reborn/', sourceUrl: 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/', sourceLabel: 'Steam; Very Positive' },
-        storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xiv-online',
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: 'https://www.finalfantasyxiv.com' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/' }],
-          [{ icon: null, iconImg: 'images/platforms/macos.svg', iconSize: 16.5, imgStyle: 'width: auto; height: 16.5px;', name: 'macOS', url: 'https://www.finalfantasyxiv.com' }],
-          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-xiv-online-complete-edition-switch-2/' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PS3; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Pro Enhanced; Physical; Digital); Terminated 2027', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat; Digital)', url: 'https://www.finalfantasyxiv.com' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S' }],
-          [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiv-online-complete-edition/9p3lzjnnmpzs' }],
-          [{ icon: null, iconImg: 'images/platforms/xbox-cloud.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-xiv-online-complete-edition/9p3lzjnnmpzs' }],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20a%20realm%20reborn%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20a%20realm%20reborn%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20a%20realm%20reborn%20playthrough' },
+
+          parts: [
+            { label: 'Final Fantasy XIV: Online ~1.0~ (2010)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV_(2010_video_game)' },
           ],
-        ] },
-        { title: 'Final Fantasy XIV: Heavensward', releaseDate: '2015-06-23', chronoOrder: 2000, recommendedOrder: 300, tags: ['Expansion', 'MMORPG', 'Monthly subscription'], mediaType: 'Game', lengthParts: [{ value: '90h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '243h', tip: 'Co-op', sep: true, sepChar: ' / ' }, { value: '40½h', tip: 'Vs.' }],
-        bylineParts: [
-          { text: 'Expansion · ' },
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Monthly subscription' },
-        ],
-        parts: [
-          { label: 'Final Fantasy XIV: Heavensward (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Heavensward' },
-          { label: 'Expansion', url: null, small: true },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: "Travel to Ishgard a city-state mired in a 1000-year conflict with the dragons of the Dravanian Horde. Will you be able to reveal the ancient truths buried in Ishgard’s bloody history and help bring an end to the Dragonsong War?" },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '86', midScore: '8.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-heavensward/', url: 'https://www.metacritic.com/game/final-fantasy-xiv-heavensward/', single: true, sourceLabel: 'Metacritic' },
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20heavensward%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20heavensward%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20heavensward%20playthrough' },
+
+          description: [
+            'Explore the world of Eorzea and get caught up in both an invasion by the hostile Garlean Empire and the threat of the primals, the deities of the land\'s beastmen tribes. It all ends in a cataclysmic event.',
+            [
+              { text: 'Terminated due to low ratings, it was remade into something akin to a sequel as ' },
+              { emText: 'XIV: A Realm Reborn (2013)' },
+              { text: ' listed below. We recommend watching the cinematics and story recap before heading into ' },
+              { emText: 'A Realm Reborn' },
+              { text: '.' },
+            ],
+            [
+              { text: 'Also known as ' },
+              { emText: 'Version 1.0' },
+              { text: ', to distinguish it from ' },
+              { emText: 'A Realm Reborn' },
+              { text: "'s 2.0 relaunch." },
+            ]
           ],
-        ] },
-        { title: 'Final Fantasy XIV: Stormblood', releaseDate: '2016-06-20', chronoOrder: 3000, recommendedOrder: 400, tags: ['Expansion', 'MMORPG', 'Monthly subscription'], mediaType: 'Game', lengthParts: [{ value: '91½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '109h', tip: 'Co-op', sep: true, sepChar: ' / ' }, { value: '16h', tip: 'Vs.' }],         bylineParts: [
-          { text: 'Expansion · ' },
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Monthly subscription' },
-        ],
-        parts: [
-          { label: 'Final Fantasy XIV: Stormblood (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood' },
-          { label: 'Expansion', url: null, small: true },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'Lead rebellions in the imperial provinces of Ala Mhigo, an Eorzean city-state conquered twenty years ago, and Doma, a Far Eastern nation with a proud ninja tradition.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '89', midScore: '7.6', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-stormblood/', url: 'https://www.metacritic.com/game/final-fantasy-xiv-stormblood/', single: true, sourceLabel: 'Metacritic' },
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20stormblood%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20stormblood%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20stormblood%20playthrough' },
+
+          languages: [
+            { value: 'JA', tip: 'Japanese', native: true },
+            { value: 'EN', tip: 'English', voice: true },
+            { value: 'FR', tip: 'French' },
+            { value: 'DE', tip: 'German' },
           ],
-        ] },
-        { title: 'Final Fantasy XIV: Shadowbringers', releaseDate: '2019-07-02', chronoOrder: 4000, recommendedOrder: 500, tags: ['Expansion', 'MMORPG', 'Monthly subscription'], mediaType: 'Game', lengthParts: [{ value: '102h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '284h', tip: 'Co-op', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Vs.' }],
-        bylineParts: [
-          { text: 'Expansion · ' },
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Monthly subscription' },
-        ],
-        parts: [
-          { label: 'Final Fantasy XIV: Shadowbringers (2019)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers' },
-          { label: 'Expansion', url: null, small: true },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'Rescue and restore the First, a parallel dimension on the brink of collapse, opposed by Emet-Selch who seeks to harness the power of the calamity for his own ends.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '91', midScore: '9.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-shadowbringers/', url: 'https://www.metacritic.com/game/final-fantasy-xiv-shadowbringers/', single: true, sourceLabel: 'Metacritic' },
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20shadowbringers%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20shadowbringers%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20shadowbringers%20playthrough' },
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '49', midScore: '3.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-online/', url: 'https://www.metacritic.com/game/final-fantasy-xiv-online/', single: true, sourceLabel: 'Metacritic' },
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [
+              { icon: null, iconImg: 'images/platforms/youtube.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Cinematics (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%201.0%202010%20cinematics' },
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%201.0%202010%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%201.0%202010%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%202010%20playthrough' },
+            ],
+          ]
+        },
+        {
+          title: 'Final Fantasy XIV: A Realm Reborn',
+          releaseDate: '2013-08-27',
+          chronoOrder: 1000,
+          recommendedOrder: 200,
+          tags: ['Sequel', 'MMORPG', 'Monthly subscription'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '270h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '1521h', tip: 'Co-op', sep: true, sepChar: ' / ' }, { value: '43h', tip: 'Vs.' }],
+
+          bylineParts: [
+            { text: 'Sequel · ' },
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Monthly subscription' },
           ],
-        ] },
-        { title: 'Final Fantasy XIV: Endwalker', releaseDate: '2021-12-07', chronoOrder: 5000, recommendedOrder: 600, tags: ['Expansion', 'MMORPG', 'Monthly subscription'], mediaType: 'Game', lengthParts: [{ value: '89h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '727h', tip: 'Co-op', sep: true, sepChar: ' / ' }, { value: '4h', tip: 'Vs.' }],
-        bylineParts: [
-          { text: 'Expansion · ' },
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Monthly subscription' },
-        ],
-        parts: [
-          { label: 'Final Fantasy XIV: Endwalker (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Endwalker' },
-          { label: 'Expansion', url: null, small: true },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'Travel the world, space, and time to stop the team of Garlean crown prince Zenos and rogue Ascian Fandaniel from successfully resuming the Final Days, an apocalyptic event that threatens all of existence.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '92', midScore: '8.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-endwalker/', url: 'https://www.metacritic.com/game/final-fantasy-xiv-endwalker/', single: true, sourceLabel: 'Metacritic' },
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20endwalker%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20endwalker%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20endwalker%20playthrough' },
+
+          languages: [
+            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
+            { value: 'EN-GB', tip: 'English (British) — full audio', voice: true },
+            { value: 'FR', tip: 'French — full audio', voice: true },
+            { value: 'DE', tip: 'German — full audio', voice: true },
+            { value: 'EN-US', tip: 'English (American) — full audio', voice: true },
           ],
-        ] },
-        { title: 'Final Fantasy XIV: Dawntrail', releaseDate: '2024-07-02', chronoOrder: 6000, recommendedOrder: 700, tags: ['Expansion', 'MMORPG', 'Monthly subscription'], mediaType: 'Game', lengthParts: [{ value: '64h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '872h', tip: 'Co-op' }],
-        bylineParts: [
-          { text: 'Expansion · ' },
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Monthly subscription' },
-        ],
-        parts: [
-          { label: 'Final Fantasy XIV: Dawntrail (2024)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Dawntrail' },
-          { label: 'Expansion', url: null, small: true },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'Explore Tural, a continent across the sea, to participate in a rite of succession to determine the next leader of Tuliyollal.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '81', midScore: '5.2', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-dawntrail/', url: 'https://www.metacritic.com/game/final-fantasy-xiv-dawntrail/', single: true, sourceLabel: 'Metacritic' },
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20dawntrail%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20dawntrail%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20dawntrail%20playthrough' },
+
+          parts: [
+            { label: 'Final Fantasy XIV: A Realm Reborn (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV' },
           ],
-        ] },
-        { title: 'Final Fantasy XIV: Evercold', releaseDate: '2027 TBD', chronoOrder: 7000, recommendedOrder: 800, tags: ['Upcoming', 'Expansion', 'MMORPG', 'Monthly subscription'], mediaType: 'Game',
-        upcoming: true,
-        bylineParts: [
-          { text: 'Upcoming · Expansion · ' },
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Monthly subscription' },
-        ],
-        parts: [
-          { label: 'Final Fantasy XIV: Evercold (2027)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV#Evercold' },
-          { label: 'Expansion', url: null, small: true },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'Travel to a new dimension, the Fourth, a world covered in an icy permafrost where the inhabitants have fled to the sky to live on massive magical airships.' },
-        ],
-        rating: { textOnly: true, abbrTerm: 'TBD', abbrDef: 'To Be Determined', abbrTermPlain: true },
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20evercold%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20evercold%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20evercold%20playthrough' },
+
+          description: [
+            'Seven years after XIV: Online (2010), you must fend off a reignited invasion from the Garlean Empire in the world of Eorzea. From the base game, continue your adventure in 6 expansions (listed separately), with more expected to release.',
+            [
+              { text: 'Sometimes referred to simply as ' },
+              { emText: 'Final Fantasy XIV: Online' },
+              { text: ', or ' },
+              { emText: 'Version 2.0' },
+              { text: '.' },
+            ]
           ],
-        ] },
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '86', midScore: '7.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-online-a-realm-reborn/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-xiv-online-a-realm-reborn/', sourceUrl: 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/', sourceLabel: 'Steam; Very Positive' },
+          storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xiv-online',
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: 'https://www.finalfantasyxiv.com' }],
+            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/' }],
+            [{ icon: null, iconImg: 'images/platforms/macos.svg', iconSize: 16.5, imgStyle: 'width: auto; height: 16.5px;', name: 'macOS', url: 'https://www.finalfantasyxiv.com' }],
+            [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-xiv-online-complete-edition-switch-2/' }],
+            [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PS3; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Pro Enhanced; Physical; Digital); Terminated 2027', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S' }],
+            [{ icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat; Digital)', url: 'https://www.finalfantasyxiv.com' }],
+            [{ icon: null, iconImg: 'images/platforms/playstation-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S' }],
+            [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiv-online-complete-edition/9p3lzjnnmpzs' }],
+            [{ icon: null, iconImg: 'images/platforms/xbox-cloud.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-xiv-online-complete-edition/9p3lzjnnmpzs' }],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20a%20realm%20reborn%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20a%20realm%20reborn%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20a%20realm%20reborn%20playthrough' },
+            ],
+          ]
+        },
+        {
+          title: 'Final Fantasy XIV: Heavensward',
+          releaseDate: '2015-06-23',
+          chronoOrder: 2000,
+          recommendedOrder: 300,
+          tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '90h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '243h', tip: 'Co-op', sep: true, sepChar: ' / ' }, { value: '40½h', tip: 'Vs.' }],
+
+          bylineParts: [
+            { text: 'Expansion · ' },
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Monthly subscription' },
+          ],
+
+          parts: [
+            { label: 'Final Fantasy XIV: Heavensward (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Heavensward' },
+            { label: 'Expansion', url: null, small: true },
+          ],
+
+          description: [[
+            { text: "Travel to Ishgard a city-state mired in a 1000-year conflict with the dragons of the Dravanian Horde. Will you be able to reveal the ancient truths buried in Ishgard’s bloody history and help bring an end to the Dragonsong War?" },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '86', midScore: '8.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-heavensward/', url: 'https://www.metacritic.com/game/final-fantasy-xiv-heavensward/', single: true, sourceLabel: 'Metacritic' },
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20heavensward%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20heavensward%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20heavensward%20playthrough' },
+            ],
+          ]
+        },
+        {
+          title: 'Final Fantasy XIV: Stormblood',
+          releaseDate: '2016-06-20',
+          chronoOrder: 3000,
+          recommendedOrder: 400,
+          tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '91½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '109h', tip: 'Co-op', sep: true, sepChar: ' / ' }, { value: '16h', tip: 'Vs.' }],
+
+          bylineParts: [
+            { text: 'Expansion · ' },
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Monthly subscription' },
+          ],
+
+          parts: [
+            { label: 'Final Fantasy XIV: Stormblood (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood' },
+            { label: 'Expansion', url: null, small: true },
+          ],
+
+          description: [[
+            { text: 'Lead rebellions in the imperial provinces of Ala Mhigo, an Eorzean city-state conquered twenty years ago, and Doma, a Far Eastern nation with a proud ninja tradition.' },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '89', midScore: '7.6', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-stormblood/', url: 'https://www.metacritic.com/game/final-fantasy-xiv-stormblood/', single: true, sourceLabel: 'Metacritic' },
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20stormblood%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20stormblood%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20stormblood%20playthrough' },
+            ],
+          ]
+        },
+        {
+          title: 'Final Fantasy XIV: Shadowbringers',
+          releaseDate: '2019-07-02',
+          chronoOrder: 4000,
+          recommendedOrder: 500,
+          tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '102h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '284h', tip: 'Co-op', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Vs.' }],
+
+          bylineParts: [
+            { text: 'Expansion · ' },
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Monthly subscription' },
+          ],
+
+          parts: [
+            { label: 'Final Fantasy XIV: Shadowbringers (2019)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers' },
+            { label: 'Expansion', url: null, small: true },
+          ],
+
+          description: [[
+            { text: 'Rescue and restore the First, a parallel dimension on the brink of collapse, opposed by Emet-Selch who seeks to harness the power of the calamity for his own ends.' },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '91', midScore: '9.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-shadowbringers/', url: 'https://www.metacritic.com/game/final-fantasy-xiv-shadowbringers/', single: true, sourceLabel: 'Metacritic' },
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20shadowbringers%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20shadowbringers%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20shadowbringers%20playthrough' },
+            ],
+          ]
+        },
+        {
+          title: 'Final Fantasy XIV: Endwalker',
+          releaseDate: '2021-12-07',
+          chronoOrder: 5000,
+          recommendedOrder: 600,
+          tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '89h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '727h', tip: 'Co-op', sep: true, sepChar: ' / ' }, { value: '4h', tip: 'Vs.' }],
+
+          bylineParts: [
+            { text: 'Expansion · ' },
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Monthly subscription' },
+          ],
+
+          parts: [
+            { label: 'Final Fantasy XIV: Endwalker (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Endwalker' },
+            { label: 'Expansion', url: null, small: true },
+          ],
+
+          description: [[
+            { text: 'Travel the world, space, and time to stop the team of Garlean crown prince Zenos and rogue Ascian Fandaniel from successfully resuming the Final Days, an apocalyptic event that threatens all of existence.' },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '92', midScore: '8.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-endwalker/', url: 'https://www.metacritic.com/game/final-fantasy-xiv-endwalker/', single: true, sourceLabel: 'Metacritic' },
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20endwalker%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20endwalker%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20endwalker%20playthrough' },
+            ],
+          ]
+        },
+        {
+          title: 'Final Fantasy XIV: Dawntrail',
+          releaseDate: '2024-07-02',
+          chronoOrder: 6000,
+          recommendedOrder: 700,
+          tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '64h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '872h', tip: 'Co-op' }],
+
+          bylineParts: [
+            { text: 'Expansion · ' },
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Monthly subscription' },
+          ],
+
+          parts: [
+            { label: 'Final Fantasy XIV: Dawntrail (2024)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Dawntrail' },
+            { label: 'Expansion', url: null, small: true },
+          ],
+
+          description: [[
+            { text: 'Explore Tural, a continent across the sea, to participate in a rite of succession to determine the next leader of Tuliyollal.' },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '81', midScore: '5.2', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-dawntrail/', url: 'https://www.metacritic.com/game/final-fantasy-xiv-dawntrail/', single: true, sourceLabel: 'Metacritic' },
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20dawntrail%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20dawntrail%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20dawntrail%20playthrough' },
+            ],
+          ]
+        },
+        {
+          title: 'Final Fantasy XIV: Evercold',
+          releaseDate: '2027 TBD',
+          chronoOrder: 7000,
+          recommendedOrder: 800,
+          tags: ['Upcoming', 'Expansion', 'MMORPG', 'Monthly subscription'],
+          mediaType: 'Game',
+          upcoming: true,
+
+          bylineParts: [
+            { text: 'Upcoming · Expansion · ' },
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Monthly subscription' },
+          ],
+
+          parts: [
+            { label: 'Final Fantasy XIV: Evercold (2027)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV#Evercold' },
+            { label: 'Expansion', url: null, small: true },
+          ],
+
+          description: [[
+            { text: 'Travel to a new dimension, the Fourth, a world covered in an icy permafrost where the inhabitants have fled to the sky to live on massive magical airships.' },
+          ]],
+
+          rating: { textOnly: true, abbrTerm: 'TBD', abbrDef: 'To Be Determined', abbrTermPlain: true },
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20evercold%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20evercold%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20evercold%20playthrough' },
+            ],
+          ]
+        },
         { title: 'Final Fantasy XIV ~Winds of Eorzea~', releaseDate: '2010', chronoOrder: 500, recommendedOrder: 840, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '254p;A6',
         parts: [
           { label: 'Final Fantasy XIV ~Winds of Eorzea~ (2010)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'Novelization of ' },
           { emText: 'XIV ~1.0~ (2010)' },
           { text: " begins with three adventures set in three different city-states of Eorzea, following the Age of Calm after the nations' alliance against the Garlean Empire." },
-        ],
+        ]],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }],
         helpWanted: true,
         platformGroups: [
@@ -238,11 +341,11 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           { label: 'Web', url: null, small: true },
         ],
         lengthParts: [{ value: '9+ collections,', tip: 'As of 2026', br: true }, { value: '57+ stories', tip: 'As of 2026' }],
-        descParts: [
+        description: [[
           { text: 'Short stories set in the world of Final Fantasy XIV, generally featuring characters from the most recent expansion and publishing around The Rising anniversary events. Later gathered into the print collections ' },
           { emText: 'Chronicles of Light' },
           { text: ' and its sequel.' },
-        ],
+        ]],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
         platformGroups: [
@@ -254,13 +357,13 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           { label: 'Final Fantasy XIV: Chronicles of Light Vol.1 (2022)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091850' },
           { label: 'Book', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'A collection of twenty-five short stories expanding on the lore of ' },
           { emText: 'XIV' },
           { text: ', including twenty-one stories originally published on the ' },
           { emText: 'Side Stories' },
           { text: ' web series, plus four stories new to this collection.' },
-        ],
+        ]],
         languages: [
           { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/45835237-final-fantasy-xiv-chronicles-of-light' },
           { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/45701588-final-fantasy-xiv' },
@@ -276,7 +379,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           { label: 'Final Fantasy XIV: Chronicles of Light, Vol.2 (2025)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094196' },
           { label: 'Book', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'A second collection of thirty short stories, continuing ' },
           { emText: 'Vol.1 (2022)' },
           { text: ', expanding on the lore of ' },
@@ -284,7 +387,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           { text: '. Originally published on the ' },
           { emText: 'Side Stories' },
           { text: ' web series, adding to the lore of Shadowbringers, Endwalker, and Dawntrail.' },
-        ],
+        ]],
         rating: { scoreLabelText: 'Goodreads', score: '4.59', url: 'https://www.goodreads.com/book/show/236916972-final-fantasy-xiv', single: true, sourceLabel: 'Goodreads' },
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/236916972-final-fantasy-xiv' }, { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/242696010-final-fantasy-chroniken-des-lichts-02' }],
         platformGroups: [
@@ -296,11 +399,11 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           { label: 'Final Fantasy XIV: Eorzea Academy (2023)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092352' },
           { label: 'Comic', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'A modern-day high school comedy manga starring ' },
           { emText: 'XIV' },
           { text: ' characters. Alisaie attends Eorzea Academy, formed by the merger of rival schools the Academy of Light and the Academy of Darkness, where headmistress Tataru organizes school games to ease the ongoing tension between the two student bodies.' },
-        ],
+        ]],
         languages: [
           { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/242160761-xiv' },
           { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/198004628-final-fantasy-xiv' },
@@ -318,7 +421,9 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           { label: 'Comic', url: null, small: true },
         ],
         length: '3 volumes',
-        description: "A gag manga in which the sole Lalafell-obsessed 'Lalafell-sensei' guides a green adventurer through Eorzea. Collected editions add the spin-off 'The Scholar and Eorzea'. Released as ファイナルファンタジーXIV ララフェル先生の教えてやるよ！.",
+        description: [
+          'A gag manga in which the sole Lalafell-obsessed \'Lalafell-sensei\' guides a green adventurer through Eorzea. Collected editions add the spin-off \'The Scholar and Eorzea\'. Released as ファイナルファンタジーXIV ララフェル先生の教えてやるよ！.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/69172609' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/69172609', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -331,7 +436,9 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           { label: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~ Vol.1 (2014)", url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20A%20Realm%20Reborn%20Adventure%20Log%20Hero%27s%20Eggs' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "A play-diary-style adventure book collecting Miyabi Hasegawa's web serial, following her hot-blooded player character Ganbarund through the wastelands, dungeons, and monster dens of Eorzea. Released as ファイナルファンタジーXIV 新生エオルゼア冒険記 -勇者の卵-.",
+        description: [
+          'A play-diary-style adventure book collecting Miyabi Hasegawa\'s web serial, following her hot-blooded player character Ganbarund through the wastelands, dungeons, and monster dens of Eorzea. Released as ファイナルファンタジーXIV 新生エオルゼア冒険記 -勇者の卵-.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }],
         helpWanted: true,
         platformGroups: [
@@ -345,11 +452,11 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           { label: 'Book', url: null, small: true },
         ],
         rating: { scoreLabelText: 'Goodreads', score: '4.65', url: 'https://www.goodreads.com/book/show/59912205-final-fantasy-xiv-picture-book', single: true, sourceLabel: 'Goodreads' },
-        descParts: [
+        description: [[
           { text: 'When their river starts running dry, the catfish-like Namazu set out on a quest to make it rain, needing to find a "thing that no one has ever seen." Entry also found in our ' },
           { emText: 'Picture Books' },
           { text: ' series.' },
-        ],
+        ]],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/59912205-final-fantasy-xiv-picture-book' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
         platformGroups: [
@@ -362,11 +469,11 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           { label: 'Final Fantasy XIV Picture Book: Me and the Cornservant (2027)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833' },
           { label: 'Book', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'A child stumbles upon a strange, corn-like creature that no adult can see, and after a curious poke sends its head flying off, an adventure with the Cornservant begins. Entry also found in our ' },
           { emText: 'Picture Books' },
           { text: ' series.' },
-        ],
+        ]],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/255391940' }, { value: '…?', tip: 'Unknown additional languages' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/255391940', single: true, sourceLabel: 'Goodreads' },
         helpWanted: true,
@@ -374,49 +481,69 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833' }],
         [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20Picture%20Book%3A%20Me%20and%20the%20Cornservant%20reading' }],
         ] },
-        { title: 'Final Fantasy XIV: Legend of Balance', releaseDate: '2013-01', chronoOrder: 900, recommendedOrder: 900, tags: ['Unofficial fan project', '2D', 'Sprites', 'RPG', 'Alternate Universe', 'Free'], mediaType: 'Game', lengthParts: [{ value: '26h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '30h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '40h', tip: 'Completionist' }],
-        parts: [
-          { label: 'Final Fantasy XIV: Legend of Balance (2013)', url: 'https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Legend_of_Balance' },
-        ],
-        desc2First: true,
-        desc2Parts: [
-          { text: 'Taking place between the original ' },
-          { emText: 'XIV ~1.0~ (2010)' },
-          { text: ' and the start of ' },
-          { emText: 'XIV: A Realm Reborn (2013)' },
-          { text: ' with an original fan created story that can be considered an alternate universe. It can be played without knowing about either. Released as ' },
-          { emText: 'Final Fantasy: Legend of Balance' },
-          { text: '. Entry also found in our ' },
-          { emText: 'Fan Projects' },
-          { text: ' series.' },
-        ],
-        description: 'A group of heroes, champions of Eorzea, are transported away moments before facing certain death against Bahamut, and must find their way home through a strange new world entwined with crystals, old evils, and steadfast allies.',
-        languages: [{ value: 'EN', tip: 'English', native: true }],
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', noUrl: true }],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20playthrough' },
+        {
+          title: 'Final Fantasy XIV: Legend of Balance',
+          releaseDate: '2013-01',
+          chronoOrder: 900,
+          recommendedOrder: 900,
+          tags: ['Unofficial fan project', '2D', 'Sprites', 'RPG', 'Alternate Universe', 'Free'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '26h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '30h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '40h', tip: 'Completionist' }],
+
+          parts: [
+            { label: 'Final Fantasy XIV: Legend of Balance (2013)', url: 'https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Legend_of_Balance' },
           ],
-        ] },
-        { title: 'FINAL FANTASY XIV Companion', releaseDate: '2018-07', chronoOrder: 10000, recommendedOrder: 950, tags: ['Optional', 'Mobile', 'Companion', 'Premium features'], mediaType: 'App',
-        parts: [
-          { label: 'FINAL FANTASY XIV Companion (2018)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV_Companion' },
-          { label: 'App', url: null, small: true },
-        ],
-        descParts: [
-          { text: 'It allows the registered users of ' },
-          { emText: 'XIV' },
-          { text: ' to Chat with friends and Free Company members, Organize events with the scheduler, Organize inventory and armoury chest, peruse the Market Board, Put items up for sale and purchase items, Register an additional favored destination Aetheryte.' },
-        ],
-        descMidParts: [
-          { text: 'With premium plan; Organize Chocobo Saddlebags and Retainer Inventories, Saddlebag capacity is doubled, one additional Retainer can be employed.' },
-        ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'FR', tip: 'French' }, { value: 'DE', tip: 'German' }],
-        storeUrl: 'https://na.finalfantasyxiv.com/companion/',
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffxivcomapp_n' }],
-          [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://itunes.apple.com/app/id1293636320' }],
-        ] },
+
+          description: [[
+            { text: 'Taking place between the original ' },
+            { emText: 'XIV ~1.0~ (2010)' },
+            { text: ' and the start of ' },
+            { emText: 'XIV: A Realm Reborn (2013)' },
+            { text: ' with an original fan created story that can be considered an alternate universe. It can be played without knowing about either. Released as ' },
+            { emText: 'Final Fantasy: Legend of Balance' },
+            { text: '. Entry also found in our ' },
+            { emText: 'Fan Projects' },
+            { text: ' series.' },
+          ], 'A group of heroes, champions of Eorzea, are transported away moments before facing certain death against Bahamut, and must find their way home through a strange new world entwined with crystals, old evils, and steadfast allies.'],
+
+          languages: [{ value: 'EN', tip: 'English', native: true }],
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', noUrl: true }],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20playthrough' },
+            ],
+          ]
+        },
+        {
+          title: 'FINAL FANTASY XIV Companion',
+          releaseDate: '2018-07',
+          chronoOrder: 10000,
+          recommendedOrder: 950,
+          tags: ['Optional', 'Mobile', 'Companion', 'Premium features'],
+          mediaType: 'App',
+
+          parts: [
+            { label: 'FINAL FANTASY XIV Companion (2018)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV_Companion' },
+            { label: 'App', url: null, small: true },
+          ],
+
+          description: [[
+            { text: 'It allows the registered users of ' },
+            { emText: 'XIV' },
+            { text: ' to Chat with friends and Free Company members, Organize events with the scheduler, Organize inventory and armoury chest, peruse the Market Board, Put items up for sale and purchase items, Register an additional favored destination Aetheryte.' },
+          ], [
+            { text: 'With premium plan; Organize Chocobo Saddlebags and Retainer Inventories, Saddlebag capacity is doubled, one additional Retainer can be employed.' },
+          ]],
+
+          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'FR', tip: 'French' }, { value: 'DE', tip: 'German' }],
+          storeUrl: 'https://na.finalfantasyxiv.com/companion/',
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffxivcomapp_n' }],
+            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://itunes.apple.com/app/id1293636320' }],
+          ]
+        },
       ]};

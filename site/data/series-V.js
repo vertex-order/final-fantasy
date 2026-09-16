@@ -1,167 +1,198 @@
 window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 500, recommendedOrder: 500, title: 'Final Fantasy V', note: 'For the first 7 years, this series was only available in Japan.', games: [
-        { title: 'Final Fantasy V', releaseDate: '1992-12-06', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['Active time battles'], mediaType: 'Game', lengthParts: [{ value: '30½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '35½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '51½h', tip: 'Completionist' }], parts: [
-          { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
-          { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
-        ],
-        storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
-        languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'EN-US', tip: 'English (US)' },
-          { value: 'FR', tip: 'French' },
-          { value: 'DE', tip: 'German' },
-          { value: 'IT', tip: 'Italian' },
-          { value: 'KO', tip: 'Korean' },
-          { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
-          { value: 'RU', tip: 'Russian' },
-          { value: 'ES-ES', tip: 'Spanish (Spain)' },
-          { value: 'TH', tip: 'Thai' },
-          { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
-          { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
-        ],
-        description: 'Wandering Bartz investigates a fallen meteor and must prevent the resurgence of evil sorcerer Exdeath into the world.\n\nThis remaster has redrawn sprites, in-game maps, auto-battle, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
-        descMidParts: [
-          { text: 'Released as ' },
-          { emText: 'Final Fantasy V Pixel Remaster' },
-          { text: '. Included in the ' },
-          { emText: 'Final Fantasy I-VI Bundle / Collection' },
-          { text: '.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '8.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-v/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-v/', sourceUrl: 'https://store.steampowered.com/app/1173810/FINAL_FANTASY_V/', sourceLabel: 'Steam; Very Positive' },
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/1173810?' }],
-          [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR5&' }],
-          [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy-v/id1492041611' }],
-          [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-v-switch/' }],
-          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-v-switch/' }],
-          [
-            { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA33833_00-FF5PS4APPNA00001' },
-            { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA33833_00-FF5PS4APPNA00001' },
+        {
+          title: 'Final Fantasy V',
+          releaseDate: '1992-12-06',
+          chronoOrder: 0,
+          recommendedOrder: 100,
+          mainline: true,
+          tags: ['Active time battles'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '30½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '35½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '51½h', tip: 'Completionist' }],
+
+          parts: [
+            { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
+            { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
           ],
-          [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' }],
-          [{ icon: null, iconImg: 'images/platforms/xbox-cloud.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' }],
-          [{ icon: null, iconImg: 'images/platforms/amazon.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Amazon App Store', url: 'https://www.amazon.com/dp/B09JKQ94WB?' }],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20playthrough' },
+
+          storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
+
+          languages: [
+            { value: 'JA', tip: 'Japanese', native: true },
+            { value: 'EN-US', tip: 'English (US)' },
+            { value: 'FR', tip: 'French' },
+            { value: 'DE', tip: 'German' },
+            { value: 'IT', tip: 'Italian' },
+            { value: 'KO', tip: 'Korean' },
+            { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
+            { value: 'RU', tip: 'Russian' },
+            { value: 'ES-ES', tip: 'Spanish (Spain)' },
+            { value: 'TH', tip: 'Thai' },
+            { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
+            { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
           ],
-        ],
-        platformsUrl: 'https://finalfantasypixelremaster.square-enix-games.com/en_US/',
-        alt: {
-          extras: [
-            {
-              parts: [
-                { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
-                { label: 'Remaster (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
-              ],
-              description: 'This remaster has new high-resolution graphics and sprites, eight-direction movement, auto battle. Also has the extra dungeon and optional boss from Edit 2006.',
-              languages: [
-                { value: 'JA', tip: 'Japanese', native: true },
-                { value: 'EN', tip: 'English' },
-                { value: 'FR', tip: 'French' },
-                { value: 'DE', tip: 'German' },
-                { value: 'IT', tip: 'Italian' },
-                { value: 'PT-PT', tip: 'Portuguese (Portugal)' },
-                { value: 'RU', tip: 'Russian' },
-                { value: 'ES-ES', tip: 'Spanish (Spain)' },
-              ],
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/382890/FINAL_FANTASY_V_Old_ver/' }],
-                [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-                [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
-                { label: 'Edit (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
-              ],
-              descParts: [
-                { text: 'This edit adds four new jobs, an extra dungeon, optional boss, additional equipment, and new translations. Released as ' },
-                { emText: 'Final Fantasy V Advance (2006)' },
-                { text: '.' },
-              ],
-              emPre: 'Released as ',
-              emTerm: 'Final Fantasy V Advance',
-              emPost: '.',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'DE', tip: 'German' }, { value: 'FR', tip: 'French' }, { value: 'IT', tip: 'Italian' }, { value: 'ES', tip: 'Spanish' }],
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/nintendo-game-boy-advance.svg', iconSize: 12.5, imgStyle: 'width: auto; height: 12.5px;', name: 'Game Boy Advance (Physical)' }],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
-                { label: 'Edit (1998)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
-              ],
-              descPre: 'This edit adds opening and ending ',
-              abbrTerm: 'FMV',
-              abbrDef: 'Full Motion Video',
-              descPost: 's, "memo" save feature. May have slow menus.',
-              emPre: 'Released in the omnibus collections ',
-              emTerm: 'Final Fantasy Collection',
-              emRegion1: 'JP', emRegion1Label: 'Japan',
-              emPost: ' (1999), ',
-              emTerm2: 'Final Fantasy Anthology',
-              emPost2: ' (2002).',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
-              helpWanted: true,
-              platformGroups: [
-                [
-                  { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PSone compatibility; Digital)' },
-                  { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (PSone compatibility)' },
-                  { icon: null, iconImg: 'images/platforms/playstation1.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px;', name: 'PlayStation (PSone) (Physical)' },
-                  { icon: null, iconImg: 'images/platforms/playstation-vita.svg', iconSize: 8.49, imgStyle: 'width: auto; height: 8.49px;', name: 'PlayStation Vita (Digital)' },
-                  { icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP) (Digital)' },
+
+          description: [
+            'Wandering Bartz investigates a fallen meteor and must prevent the resurgence of evil sorcerer Exdeath into the world.',
+            'This remaster has redrawn sprites, in-game maps, auto-battle, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
+            [
+              { text: 'Released as ' },
+              { emText: 'Final Fantasy V Pixel Remaster' },
+              { text: '. Included in the ' },
+              { emText: 'Final Fantasy I-VI Bundle / Collection' },
+              { text: '.' },
+            ]
+          ],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '8.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-v/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-v/', sourceUrl: 'https://store.steampowered.com/app/1173810/FINAL_FANTASY_V/', sourceLabel: 'Steam; Very Positive' },
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' }],
+            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/1173810?' }],
+            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR5&' }],
+            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy-v/id1492041611' }],
+            [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-v-switch/' }],
+            [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-v-switch/' }],
+            [
+              { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA33833_00-FF5PS4APPNA00001' },
+              { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA33833_00-FF5PS4APPNA00001' },
+            ],
+            [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' }],
+            [{ icon: null, iconImg: 'images/platforms/xbox-cloud.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' }],
+            [{ icon: null, iconImg: 'images/platforms/amazon.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Amazon App Store', url: 'https://www.amazon.com/dp/B09JKQ94WB?' }],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20playthrough' },
+            ],
+          ],
+
+          platformsUrl: 'https://finalfantasypixelremaster.square-enix-games.com/en_US/',
+
+          alt: {
+            extras: [
+              {
+                parts: [
+                  { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
+                  { label: 'Remaster (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
                 ],
-              ],
-            },
-            {
-              label: 'Final Fantasy V (1992)',
-              url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V',
-              description: 'The original release.',
-              languages: [
-                { value: 'JA', tip: 'Japanese', native: true },
-                { value: 'EN', tip: 'English (Fan Translation) (RPGe 1998)' },
-                { value: 'ES', tip: 'Spanish (Fan Translation) (noisecross 2015)' },
-                { value: 'IT', tip: 'Italian (Fan Translation) (SadNES cITy Translations 2001)' },
-                { value: 'PT', tip: 'Portuguese (Fan Translation) (CBT 1999)' },
-                { value: 'KO', tip: 'Korean (Fan Translation) (FFR 2015)' },
-                { value: 'SV', tip: 'Swedish (Fan Translation) (General CoolNES Translations 2001)' },
-              ],
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/nintendo-snes.svg', iconSize: 14.25, imgStyle: 'width: auto; height: 14.25px; filter: grayscale(100%);', name: 'Super Famicom (Japan Only); Physical', jpTag: true }],
-                [
-                  { icon: null, iconImg: 'images/platforms/nintendo-wii.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true },
-                  { icon: null, iconImg: 'images/platforms/nintendo-wii-u.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true },
+                description: [
+                  'This remaster has new high-resolution graphics and sprites, eight-direction movement, auto battle. Also has the extra dungeon and optional boss from Edit 2006.'
                 ],
-                [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
-              ],
-            },
+                languages: [
+                  { value: 'JA', tip: 'Japanese', native: true },
+                  { value: 'EN', tip: 'English' },
+                  { value: 'FR', tip: 'French' },
+                  { value: 'DE', tip: 'German' },
+                  { value: 'IT', tip: 'Italian' },
+                  { value: 'PT-PT', tip: 'Portuguese (Portugal)' },
+                  { value: 'RU', tip: 'Russian' },
+                  { value: 'ES-ES', tip: 'Spanish (Spain)' },
+                ],
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/382890/FINAL_FANTASY_V_Old_ver/' }],
+                  [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+                  [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+                ],
+              },
+              {
+                parts: [
+                  { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
+                  { label: 'Edit (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
+                ],
+
+                description: [[
+                  { text: 'This edit adds four new jobs, an extra dungeon, optional boss, additional equipment, and new translations. Released as ' },
+                  { emText: 'Final Fantasy V Advance (2006)' },
+                  { text: '.' },
+                ]],
+
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'DE', tip: 'German' }, { value: 'FR', tip: 'French' }, { value: 'IT', tip: 'Italian' }, { value: 'ES', tip: 'Spanish' }],
+
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/nintendo-game-boy-advance.svg', iconSize: 12.5, imgStyle: 'width: auto; height: 12.5px;', name: 'Game Boy Advance (Physical)' }],
+                ]
+              },
+              {
+                parts: [
+                  { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
+                  { label: 'Edit (1998)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
+                ],
+
+                description: [['This edit adds opening and ending ', {
+                  abbrTerm: 'FMV',
+                  abbrDef: 'Full Motion Video'
+                }, 's, "memo" save feature. May have slow menus.']],
+
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                helpWanted: true,
+
+                platformGroups: [
+                  [
+                    { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PSone compatibility; Digital)' },
+                    { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (PSone compatibility)' },
+                    { icon: null, iconImg: 'images/platforms/playstation1.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px;', name: 'PlayStation (PSone) (Physical)' },
+                    { icon: null, iconImg: 'images/platforms/playstation-vita.svg', iconSize: 8.49, imgStyle: 'width: auto; height: 8.49px;', name: 'PlayStation Vita (Digital)' },
+                    { icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP) (Digital)' },
+                  ],
+                ]
+              },
+              {
+                label: 'Final Fantasy V (1992)',
+                url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V',
+                description: ['The original release.'],
+                languages: [
+                  { value: 'JA', tip: 'Japanese', native: true },
+                  { value: 'EN', tip: 'English (Fan Translation) (RPGe 1998)' },
+                  { value: 'ES', tip: 'Spanish (Fan Translation) (noisecross 2015)' },
+                  { value: 'IT', tip: 'Italian (Fan Translation) (SadNES cITy Translations 2001)' },
+                  { value: 'PT', tip: 'Portuguese (Fan Translation) (CBT 1999)' },
+                  { value: 'KO', tip: 'Korean (Fan Translation) (FFR 2015)' },
+                  { value: 'SV', tip: 'Swedish (Fan Translation) (General CoolNES Translations 2001)' },
+                ],
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/nintendo-snes.svg', iconSize: 14.25, imgStyle: 'width: auto; height: 14.25px; filter: grayscale(100%);', name: 'Super Famicom (Japan Only); Physical', jpTag: true }],
+                  [
+                    { icon: null, iconImg: 'images/platforms/nintendo-wii.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true },
+                    { icon: null, iconImg: 'images/platforms/nintendo-wii-u.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true },
+                  ],
+                  [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                ],
+              },
+            ],
+          }
+        },
+        {
+          title: 'Final Fantasy: Legend of the Crystals',
+          releaseDate: '1994-03-21',
+          chronoOrder: 1000,
+          recommendedOrder: 200,
+          tags: ['Optional', 'Sequel', 'OVA'],
+          mediaType: 'Movie',
+          length: '120min',
+
+          parts: [
+            { label: 'Final Fantasy: Legend of the Crystals (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy:_Legend_of_the_Crystals' },
+            { label: 'video', url: null, small: true },
           ],
-        } },
-        { title: 'Final Fantasy: Legend of the Crystals', releaseDate: '1994-03-21', chronoOrder: 1000, recommendedOrder: 200, tags: ['Optional', 'Sequel', 'OVA'], mediaType: 'Movie', length: '120min',
-        parts: [
-          { label: 'Final Fantasy: Legend of the Crystals (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy:_Legend_of_the_Crystals' },
-          { label: 'video', url: null, small: true },
-        ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
-        desc2First: true,
-        desc2Parts: [
-          { text: 'Two hundred years after ' },
-          { emText: 'V (1992)' },
-          { text: ', Prettz and Linally must defeat the new evil Deathgyunos.' },
-        ],
-        descPre: 'Four 30 minute ',
-        abbrTerm: 'OVA',
-        abbrDef: 'Original Video Animation',
-        descPost: ' episodes.',
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '6.1', url: 'https://www.imdb.com/title/tt0196692/', single: true, sourceLabel: 'IMDb' },
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/vhs.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'VHS Tapes', noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/laserdisc.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'Laserdisk (Japan only)', noUrl: true, jpTag: true }],
-          [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Youtube (unofficial)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Legend%20of%20the%20Crystals%20(1994)' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Legend%20of%20the%20Crystals%20(1994)%20story%20recap' }],
-        ] },
+
+          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
+
+          description: [[
+            { text: 'Two hundred years after ' },
+            { emText: 'V (1992)' },
+            { text: ', Prettz and Linally must defeat the new evil Deathgyunos.' },
+          ], ['Four 30 minute ', {
+            abbrTerm: 'OVA',
+            abbrDef: 'Original Video Animation'
+          }, ' episodes.']],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '6.1', url: 'https://www.imdb.com/title/tt0196692/', single: true, sourceLabel: 'IMDb' },
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/vhs.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'VHS Tapes', noUrl: true }],
+            [{ icon: null, iconImg: 'images/platforms/laserdisc.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'Laserdisk (Japan only)', noUrl: true, jpTag: true }],
+            [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Youtube (unofficial)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Legend%20of%20the%20Crystals%20(1994)' }],
+            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Legend%20of%20the%20Crystals%20(1994)%20story%20recap' }],
+          ]
+        },
       ]};

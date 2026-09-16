@@ -3,7 +3,11 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrd
         parts: [
           { label: 'Final Fantasy XVI (2023)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XVI' },
         ],
-        description: "Clive Rosfield is passed over as successor to Rosaria's crown when his younger brother Joshua is revealed to yield great magical power as the Dominant of Phoenix. Embracing his new role as protector, he becomes embroiled in the region's wars as the nations vie for scarce resources.\n\nTwo DLCs have been released, and while independent, slot in while playing the main game. They may also be played afterwards just for their story, and are listed separately.\n\nOn Xbox, you cannot change your party's appearance.",
+        description: [
+          'Clive Rosfield is passed over as successor to Rosaria\'s crown when his younger brother Joshua is revealed to yield great magical power as the Dominant of Phoenix. Embracing his new role as protector, he becomes embroiled in the region\'s wars as the nations vie for scarce resources.',
+          'Two DLCs have been released, and while independent, slot in while playing the main game. They may also be played afterwards just for their story, and are listed separately.',
+          'On Xbox, you cannot change your party\'s appearance.'
+        ],
         storeUrl: 'https://www.finalfantasyxvi.com/',
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '87', midScore: '8.3', midUrl: 'https://www.metacritic.com/game/final-fantasy-xvi/', source: 'MP', url: 'https://www.metacritic.com/game/final-fantasy-xvi/', sourceUrl: 'https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/', sourceLabel: 'Steam; Mostly Positive' },
         languages: [
@@ -42,7 +46,9 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrd
           { label: 'Final Fantasy XVI: Echoes of the Fallen (2023)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates' },
           { label: 'DLC', url: null, small: true },
         ],
-        description: "Strange, dark crystals begin to circulate on the black market. Clive follows their trail to a long-abandoned Fallen tower known as the Sagespire and the terrible secrets that await within...",
+        description: [
+          'Strange, dark crystals begin to circulate on the black market. Clive follows their trail to a long-abandoned Fallen tower known as the Sagespire and the terrible secrets that await within...'
+        ],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '76', midScore: '6.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-xvi-echoes-of-the-fallen/', source: 'MP', url: 'https://www.metacritic.com/game/final-fantasy-xvi-echoes-of-the-fallen/', sourceUrl: 'https://store.steampowered.com/app/2744050/FINAL_FANTASY_XVI_Echoes_of_the_Fallen/', sourceLabel: 'Steam; Mostly Positive' },
         storeUrl: 'https://na.finalfantasyxvi.com/',
         platformGroups: [
@@ -62,7 +68,9 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrd
           { label: 'Final Fantasy XVI: The Rising Tide (2024)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates' },
           { label: 'DLC', url: null, small: true },
         ],
-        description: 'Clive receives a strange request; the Dominant of Leviathan, long lost Eikon of Water, is in need of rescue. Travel to Mysidia —a hidden land— and uncover the tragic history of a forgotten people.',
+        description: [
+          'Clive receives a strange request; the Dominant of Leviathan, long lost Eikon of Water, is in need of rescue. Travel to Mysidia —a hidden land— and uncover the tragic history of a forgotten people.'
+        ],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '78', midScore: '7.2', midUrl: 'https://www.metacritic.com/game/final-fantasy-xvi-the-rising-tide/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-xvi-the-rising-tide/', sourceUrl: 'https://store.steampowered.com/app/2744060/FINAL_FANTASY_XVI_The_Rising_Tide/?curator_clanid=45155195', sourceLabel: 'Steam; Mixed' },
         storeUrl: 'https://na.finalfantasyxvi.com/',
         platformGroups: [

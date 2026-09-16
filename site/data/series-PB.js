@@ -4,11 +4,11 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
           { label: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky (2026)", url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094738' },
           { label: 'Book', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'Vivi is a mysterious boy fished out of the ocean by Grandpa Quan, a gourmand trying to master the art of food. Once Grandpa Quan realizes Vivi is not food, he raises Vivi and teaches him about the world. Entry also found in our ' },
           { emText: 'IX' },
           { text: ' series.' },
-        ],
+        ]],
         rating: { scoreLabelText: 'Goodreads', score: '4.45', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book', single: true, sourceLabel: 'Goodreads' },
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
@@ -21,7 +21,9 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
           { label: 'Chocobo and the Airship: A Final Fantasy Picture Book (2023)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092031' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Cid and Chocobo build an airship to save their town from monsters, setting off to find a magic Flying Stone to make it fly, joined by a group of adventurers along the way.",
+        description: [
+          'Cid and Chocobo build an airship to save their town from monsters, setting off to find a magic Flying Stone to make it fly, joined by a group of adventurers along the way.'
+        ],
         rating: { scoreLabelText: 'Goodreads', score: '4.21', url: 'https://www.goodreads.com/book/show/61725549-chocobo-and-the-airship', single: true, sourceLabel: 'Goodreads' },
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/61121994-final-fantasy-e-hon' }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/61725549-chocobo-and-the-airship' }, { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/63141628-chocobo-et-le-bateau-volant' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
@@ -35,11 +37,11 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
           { label: 'Book', url: null, small: true },
         ],
         rating: { scoreLabelText: 'Goodreads', score: '4.65', url: 'https://www.goodreads.com/book/show/59912205-final-fantasy-xiv-picture-book', single: true, sourceLabel: 'Goodreads' },
-        descParts: [
+        description: [[
           { text: 'When their river starts running dry, the catfish-like Namazu set out on a quest to make it rain, needing to find a "thing that no one has ever seen." Entry also found in our ' },
           { emText: 'XIV' },
           { text: ' series.' },
-        ],
+        ]],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/59912205-final-fantasy-xiv-picture-book' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
         platformGroups: [
@@ -52,11 +54,11 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
           { label: 'Final Fantasy XIV Picture Book: Me and the Cornservant (2027)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833' },
           { label: 'Book', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'A child stumbles upon a strange, corn-like creature that no adult can see, and after a curious poke sends its head flying off, an adventure with the Cornservant begins. Entry also found in our ' },
           { emText: 'XIV' },
           { text: ' series.' },
-        ],
+        ]],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/255391940' }, { value: '…?', tip: 'Unknown additional languages' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/255391940', single: true, sourceLabel: 'Goodreads' },
         helpWanted: true,

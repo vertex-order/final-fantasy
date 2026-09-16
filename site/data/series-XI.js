@@ -1,175 +1,249 @@
 window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder: 1100, recommendedOrder: 1100, title: 'Final Fantasy XI', note: 'The first MMO in the franchise, told as a string of largely self-contained story arcs. Story complete. Also sports a long-running book spin-off series.', games: [
-        { title: 'Final Fantasy XI: Online', releaseDate: '2002-05-16', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['MMORPG', 'Monthly subscription'], mediaType: 'Game', lengthParts: [{ value: '454h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '213h', tip: 'Co-op', sep: true, sepChar: ',', br: true }, { label: 'A Crystalline Prophecy ', value: '1½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '1h', tip: 'Co-op', sep: true, sepChar: ',', br: true }, { label: "A Moogle Kupo d'Etat ", value: '4h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Co-op', sep: true, sepChar: ',', br: true }, { label: 'A Shantotto Ascension ', value: '4h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '1½h', tip: 'Co-op', sep: true, sepChar: ',', br: true }, { label: 'Vision of Abyssea ', value: '44min', tip: 'Solo & Co-op', sep: true, sepChar: ',', br: true }, { label: 'Scars of Abyssea ', value: '30min', tip: 'Solo & Co-op', sep: true, sepChar: ',', br: true }, { label: 'Heroes of Abyssea ', value: '1½h', tip: 'Solo & Co-op', sep: true, sepChar: ',', br: true }, { label: "Rhapsodies of Vana'diel ", value: '14½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '6½h', tip: 'Co-op' }],
-        parts: [
-          { label: 'Final Fantasy XI: Online (2002)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI' },
-          { label: 'Base Game', small: true },
-        ],
-        bylineParts: [
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Monthly subscription' },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: "Explore the world of Vana'diel using player-created avatars and embark on a grand story spanning 5 expansions and eight add-on scenarios, each expanding the major storyline, which is currently considered complete." },
-        ],
-        desc3Parts: [
-          { text: 'Add-on scenarios comprise of a series of quests and are smaller in scope than expansions and purchased separately, often requiring certain expansions. Their chronological order is much more complicated and we recommend consulting a dedicated play order guide for them like ' },
-          { emLinkText: "sorenohde's", emLinkUrl: 'https://www.reddit.com/r/ffxi/comments/upfga9/chart_on_how_to_go_through_rhapsodies_of_vanadiel/' },
-          { text: '.' },
-        ],
-        listTitle: 'Add-ons & scenarios:',
-        listTitleUrl: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Expansions_and_add-ons',
-        listItems: [
-          "A Crystalline Prophecy (2009)",
-          "A Moogle Kupo d'Etat (2009)",
-          'A Shantotto Ascension (2009)',
-          'Vision of Abyssea (2010)',
-          'Scars of Abyssea (2010)',
-          'Heroes of Abyssea (2010)',
-          "Rhapsodies of Vana'diel (2015)",
-          'The Voracious Resurgence (2020)',
-        ],
-        languages: [{ value: 'EN', tip: 'English' }, { value: 'JA', tip: 'Japanese', native: true }],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '7.6', midUrl: 'https://www.metacritic.com/game/final-fantasy-xi/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-xi/', sourceUrl: 'https://store.steampowered.com/app/230330/FINAL_FANTASY_XI_Ultimate_Collection_Seekers_Edition/', sourceLabel: 'Steam; Very Positive' },
-        storeUrl: 'https://www.finalfantasyxi.com/',
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: 'https://www.playonline.com/ff11us/' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/230330/FINAL_FANTASY_XI_Ultimate_Collection_Seekers_Edition/' }],
-          [
-            { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PS2; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PS2 compatibility); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+        {
+          title: 'Final Fantasy XI: Online',
+          releaseDate: '2002-05-16',
+          chronoOrder: 0,
+          recommendedOrder: 100,
+          mainline: true,
+          tags: ['MMORPG', 'Monthly subscription'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '454h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '213h', tip: 'Co-op', sep: true, sepChar: ',', br: true }, { label: 'A Crystalline Prophecy ', value: '1½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '1h', tip: 'Co-op', sep: true, sepChar: ',', br: true }, { label: "A Moogle Kupo d'Etat ", value: '4h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Co-op', sep: true, sepChar: ',', br: true }, { label: 'A Shantotto Ascension ', value: '4h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '1½h', tip: 'Co-op', sep: true, sepChar: ',', br: true }, { label: 'Vision of Abyssea ', value: '44min', tip: 'Solo & Co-op', sep: true, sepChar: ',', br: true }, { label: 'Scars of Abyssea ', value: '30min', tip: 'Solo & Co-op', sep: true, sepChar: ',', br: true }, { label: 'Heroes of Abyssea ', value: '1½h', tip: 'Solo & Co-op', sep: true, sepChar: ',', br: true }, { label: "Rhapsodies of Vana'diel ", value: '14½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '6½h', tip: 'Co-op' }],
+
+          parts: [
+            { label: 'Final Fantasy XI: Online (2002)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI' },
+            { label: 'Base Game', small: true },
           ],
-          [{ icon: null, iconImg: 'images/platforms/xbox-360.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox 360; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20playthrough' },
+
+          bylineParts: [
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Monthly subscription' },
           ],
-        ] },
-        { title: 'Final Fantasy XI: Online: Rise of the Zilart', releaseDate: '2003-04-17', chronoOrder: 1000, recommendedOrder: 200, tags: ['Expansion', 'MMORPG', 'Monthly subscription'], mediaType: 'Game', lengthParts: [{ value: '33h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '11h', tip: 'Co-op' }],
-        bylineParts: [
-          { text: 'Expansion · ' },
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Monthly subscription' },
-        ],
-        parts: [
-          { label: 'Final Fantasy XI: Rise of the Zilart (2003)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
-          { label: 'Expansion', url: null, small: true },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: "Thwart Zilart princes Eald'Narche and Kam'lanaut's plans to become Gods in this expansion for " },
-          { emText: 'XI (2002)' },
-          { text: '.' },
-        ],
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20playthrough' },
+
+          description: [[
+            { text: "Explore the world of Vana'diel using player-created avatars and embark on a grand story spanning 5 expansions and eight add-on scenarios, each expanding the major storyline, which is currently considered complete." },
+          ], [
+            { text: 'Add-on scenarios comprise of a series of quests and are smaller in scope than expansions and purchased separately, often requiring certain expansions. Their chronological order is much more complicated and we recommend consulting a dedicated play order guide for them like ' },
+            { emLinkText: "sorenohde's", emLinkUrl: 'https://www.reddit.com/r/ffxi/comments/upfga9/chart_on_how_to_go_through_rhapsodies_of_vanadiel/' },
+            { text: '.' },
+          ]],
+
+          listTitle: 'Add-ons & scenarios:',
+          listTitleUrl: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Expansions_and_add-ons',
+
+          listItems: [
+            "A Crystalline Prophecy (2009)",
+            "A Moogle Kupo d'Etat (2009)",
+            'A Shantotto Ascension (2009)',
+            'Vision of Abyssea (2010)',
+            'Scars of Abyssea (2010)',
+            'Heroes of Abyssea (2010)',
+            "Rhapsodies of Vana'diel (2015)",
+            'The Voracious Resurgence (2020)',
           ],
-        ] },
-        { title: 'Final Fantasy XI: Online: Chains of Promathia', releaseDate: '2004-09-16', chronoOrder: 2000, recommendedOrder: 300, tags: ['Expansion', 'MMORPG', 'Monthly subscription'], mediaType: 'Game', lengthParts: [{ value: '35½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '16½h', tip: 'Co-op' }],
-        bylineParts: [
-          { text: 'Expansion · ' },
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Monthly subscription' },
-        ],
-        parts: [
-          { label: 'Final Fantasy XI: Chains of Promathia (2004)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
-          { label: 'Expansion', url: null, small: true },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'Various factions vie to either stop or complete the resurrection of Twilight God Promathia in this expansion for ' },
-          { emText: 'XI (2002)' },
-          { text: '.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '77', midScore: '7.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-xi-chains-of-promathia/', url: 'https://www.metacritic.com/game/final-fantasy-xi-chains-of-promathia/', single: true, sourceLabel: 'Metacritic' },
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20playthrough' },
+
+          languages: [{ value: 'EN', tip: 'English' }, { value: 'JA', tip: 'Japanese', native: true }],
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '7.6', midUrl: 'https://www.metacritic.com/game/final-fantasy-xi/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-xi/', sourceUrl: 'https://store.steampowered.com/app/230330/FINAL_FANTASY_XI_Ultimate_Collection_Seekers_Edition/', sourceLabel: 'Steam; Very Positive' },
+          storeUrl: 'https://www.finalfantasyxi.com/',
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: 'https://www.playonline.com/ff11us/' }],
+            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/230330/FINAL_FANTASY_XI_Ultimate_Collection_Seekers_Edition/' }],
+            [
+              { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PS2; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PS2 compatibility); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+            ],
+            [{ icon: null, iconImg: 'images/platforms/xbox-360.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox 360; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20playthrough' },
+            ],
+          ]
+        },
+        {
+          title: 'Final Fantasy XI: Online: Rise of the Zilart',
+          releaseDate: '2003-04-17',
+          chronoOrder: 1000,
+          recommendedOrder: 200,
+          tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '33h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '11h', tip: 'Co-op' }],
+
+          bylineParts: [
+            { text: 'Expansion · ' },
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Monthly subscription' },
           ],
-        ] },
-        { title: 'Final Fantasy XI: Online: Treasures of Aht Urhgan', releaseDate: '2006-04-18', chronoOrder: 3000, recommendedOrder: 400, tags: ['Expansion', 'MMORPG', 'Monthly subscription'], mediaType: 'Game', lengthParts: [{ value: '22½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '14½h', tip: 'Co-op' }],
-        bylineParts: [
-          { text: 'Expansion · ' },
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Monthly subscription' },
-        ],
-        parts: [
-          { label: 'Final Fantasy XI: Treasures of Aht Urhgan (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
-          { label: 'Expansion', url: null, small: true },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'The Empire of Aht Urhgan in the midlands becomes involved after years of self-imposed isolation, with the player being sent there as a representative in this expansion for ' },
-          { emText: 'XI (2002)' },
-          { text: '.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '87', midScore: '6.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-xi-treasures-of-aht-urhgan/', url: 'https://www.metacritic.com/game/final-fantasy-xi-treasures-of-aht-urhgan/', single: true, sourceLabel: 'Metacritic' },
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20playthrough' },
+
+          parts: [
+            { label: 'Final Fantasy XI: Rise of the Zilart (2003)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
+            { label: 'Expansion', url: null, small: true },
           ],
-        ] },
-        { title: 'Final Fantasy XI: Online: Wings of the Goddess', releaseDate: '2007-11-20', chronoOrder: 4000, recommendedOrder: 500, tags: ['Expansion', 'MMORPG', 'Monthly subscription'], mediaType: 'Game', lengthParts: [{ value: '40½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '29h', tip: 'Co-op' }],
-        bylineParts: [
-          { text: 'Expansion · ' },
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Monthly subscription' },
-        ],
-        parts: [
-          { label: 'Final Fantasy XI: Wings of the Goddess (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
-          { label: 'Expansion', url: null, small: true },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'Using newly discovered time portals, players travel 20 years in the past from the base game main story to experience the Crystal War first-hand and encounters a surprise character in this expansion for ' },
-          { emText: 'XI (2002)' },
-          { text: '.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '63', midScore: '7.2', midUrl: 'https://www.metacritic.com/game/final-fantasy-xi-wings-of-the-goddess/', url: 'https://www.metacritic.com/game/final-fantasy-xi-wings-of-the-goddess/', single: true, sourceLabel: 'Metacritic' },
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20playthrough' },
+
+          description: [[
+            { text: "Thwart Zilart princes Eald'Narche and Kam'lanaut's plans to become Gods in this expansion for " },
+            { emText: 'XI (2002)' },
+            { text: '.' },
+          ]],
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20playthrough' },
+            ],
+          ]
+        },
+        {
+          title: 'Final Fantasy XI: Online: Chains of Promathia',
+          releaseDate: '2004-09-16',
+          chronoOrder: 2000,
+          recommendedOrder: 300,
+          tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '35½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '16½h', tip: 'Co-op' }],
+
+          bylineParts: [
+            { text: 'Expansion · ' },
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Monthly subscription' },
           ],
-        ] },
-        { title: 'Final Fantasy XI: Online: Seekers of Adoulin', releaseDate: '2013-03-27', chronoOrder: 5000, recommendedOrder: 600, tags: ['Expansion', 'MMORPG', 'Monthly subscription'], mediaType: 'Game', lengthParts: [{ value: '43h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '11h', tip: 'Co-op' }],
-        bylineParts: [
-          { text: 'Expansion · ' },
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Monthly subscription' },
-        ],
-        parts: [
-          { label: 'Final Fantasy XI: Seekers of Adoulin (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
-          { label: 'Expansion', url: null, small: true },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'People are migrating to the underpopulated western continent archipelago of Adoulin and the Sacred City of Adoulin in this last expansion for ' },
-          { emText: 'XI (2002)' },
-          { text: '.' },
-        ],
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20playthrough' },
+
+          parts: [
+            { label: 'Final Fantasy XI: Chains of Promathia (2004)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
+            { label: 'Expansion', url: null, small: true },
           ],
-        ] },
+
+          description: [[
+            { text: 'Various factions vie to either stop or complete the resurrection of Twilight God Promathia in this expansion for ' },
+            { emText: 'XI (2002)' },
+            { text: '.' },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '77', midScore: '7.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-xi-chains-of-promathia/', url: 'https://www.metacritic.com/game/final-fantasy-xi-chains-of-promathia/', single: true, sourceLabel: 'Metacritic' },
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20playthrough' },
+            ],
+          ]
+        },
+        {
+          title: 'Final Fantasy XI: Online: Treasures of Aht Urhgan',
+          releaseDate: '2006-04-18',
+          chronoOrder: 3000,
+          recommendedOrder: 400,
+          tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '22½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '14½h', tip: 'Co-op' }],
+
+          bylineParts: [
+            { text: 'Expansion · ' },
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Monthly subscription' },
+          ],
+
+          parts: [
+            { label: 'Final Fantasy XI: Treasures of Aht Urhgan (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
+            { label: 'Expansion', url: null, small: true },
+          ],
+
+          description: [[
+            { text: 'The Empire of Aht Urhgan in the midlands becomes involved after years of self-imposed isolation, with the player being sent there as a representative in this expansion for ' },
+            { emText: 'XI (2002)' },
+            { text: '.' },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '87', midScore: '6.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-xi-treasures-of-aht-urhgan/', url: 'https://www.metacritic.com/game/final-fantasy-xi-treasures-of-aht-urhgan/', single: true, sourceLabel: 'Metacritic' },
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20playthrough' },
+            ],
+          ]
+        },
+        {
+          title: 'Final Fantasy XI: Online: Wings of the Goddess',
+          releaseDate: '2007-11-20',
+          chronoOrder: 4000,
+          recommendedOrder: 500,
+          tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '40½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '29h', tip: 'Co-op' }],
+
+          bylineParts: [
+            { text: 'Expansion · ' },
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Monthly subscription' },
+          ],
+
+          parts: [
+            { label: 'Final Fantasy XI: Wings of the Goddess (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
+            { label: 'Expansion', url: null, small: true },
+          ],
+
+          description: [[
+            { text: 'Using newly discovered time portals, players travel 20 years in the past from the base game main story to experience the Crystal War first-hand and encounters a surprise character in this expansion for ' },
+            { emText: 'XI (2002)' },
+            { text: '.' },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '63', midScore: '7.2', midUrl: 'https://www.metacritic.com/game/final-fantasy-xi-wings-of-the-goddess/', url: 'https://www.metacritic.com/game/final-fantasy-xi-wings-of-the-goddess/', single: true, sourceLabel: 'Metacritic' },
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20playthrough' },
+            ],
+          ]
+        },
+        {
+          title: 'Final Fantasy XI: Online: Seekers of Adoulin',
+          releaseDate: '2013-03-27',
+          chronoOrder: 5000,
+          recommendedOrder: 600,
+          tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '43h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '11h', tip: 'Co-op' }],
+
+          bylineParts: [
+            { text: 'Expansion · ' },
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Monthly subscription' },
+          ],
+
+          parts: [
+            { label: 'Final Fantasy XI: Seekers of Adoulin (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
+            { label: 'Expansion', url: null, small: true },
+          ],
+
+          description: [[
+            { text: 'People are migrating to the underpopulated western continent archipelago of Adoulin and the Sacred City of Adoulin in this last expansion for ' },
+            { emText: 'XI (2002)' },
+            { text: '.' },
+          ]],
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20playthrough' },
+            ],
+          ]
+        },
         { title: 'Final Fantasy XI ~Winds of Prayer~', releaseDate: '2002-12-18', chronoOrder: 100, recommendedOrder: 604, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '286p;A6',
         parts: [
           { label: 'Final Fantasy XI ~Winds of Prayer~ (2002)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Al, an inexperienced warrior, is led into the shadows of evil lurking in the land after a fateful encounter with a Galka knight and a young white mage. Released as 〜祈りの風〜.",
+        description: [
+          'Al, an inexperienced warrior, is led into the shadows of evil lurking in the land after a fateful encounter with a Galka knight and a young white mage. Released as 〜祈りの風〜.'
+        ],
         helpWanted: true,
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/57214633' }, { value: 'DE', tip: 'German' }, { value: 'EN', tip: 'English (fan translation)' }, { value: '…?', tip: 'Unknown additional languages' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/57214633', single: true, sourceLabel: 'Goodreads' },
@@ -183,13 +257,13 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~The Out of Orders~ (2003)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~' },
           { label: 'Comic', url: null, small: true },
         ],
-        descMidParts: [
+        description: [[
           { text: 'An original story set during the Crystal War twenty years before the main story of ' },
           { emText: 'XI (2003)' },
           { text: ', which later became the setting for the ' },
           { emText: 'Wings of the Goddess (2007)' },
           { text: ' expansion. Some differences with characters from the game make it so it could be considered an alternate universe story. Cancelled so is incomplete.' },
-        ],
+        ]],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }],
         platformGroups: [
           [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manhwa (Japan Only)', jpTag: true, noUrl: true }],
@@ -201,7 +275,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~The Star Oath~ (2003)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Rookie warrior Alfred (Al) and his companions, after defeating the tank at the Orc Fortress of Gelsba, head to Windurst with its blueprints. Sensing an evil dark shadow lurking in Vana'diel, Al and his group continue their journey. Released as 〜星の誓い〜. May also be known as ~Oath of the Stars~. Book #2 in the French/German translated release order.",
+        description: [
+          'Rookie warrior Alfred (Al) and his companions, after defeating the tank at the Orc Fortress of Gelsba, head to Windurst with its blueprints. Sensing an evil dark shadow lurking in Vana\'diel, Al and his group continue their journey. Released as 〜星の誓い〜. May also be known as ~Oath of the Stars~. Book #2 in the French/German translated release order.'
+        ],
         languages: [
           { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/57520205' },
           { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/43464316-final-fantasy-xi-tome-2' },
@@ -218,11 +294,11 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Prayer of the Wind~ Vol.1 (2010)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Comic', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'Adapted from ' },
           { emText: '~Winds of Prayer~ (2003)' },
           { text: '.' },
-        ],
+        ]],
         helpWanted: true,
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/78009261' }, { value: '…?', tip: 'Unknown additional languages' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/78009261', single: true, sourceLabel: 'Goodreads' },
@@ -236,11 +312,11 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: "Final Fantasy XI ~Staying in Vana'diel~ (2003)", url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books' },
           { label: 'Book', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'Play diaries from the world of ' },
           { emText: 'XI' },
           { text: '. Released as プレイ日記 : ヴァナ・ディール滞在記. May also be known as Final Fantasy XI ~Play Diary: Staying in Vana\'diel~.' },
-        ],
+        ]],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77429047' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77429047', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -253,7 +329,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~The Eternal Bond~ (2003)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "With the party scattered on their own errands—Al and Iris waiting in Bastok, Peta in Windurst, Jed and Shera off to break a curse in Jeuno—Al and the others are suddenly called back to Jeuno for a new mission. Released as 〜永遠の絆〜. May also be known as ~The Eternal Link~ or ~The Covenant of Eternity~. Book #3 in the French/German translated release order.",
+        description: [
+          'With the party scattered on their own errands—Al and Iris waiting in Bastok, Peta in Windurst, Jed and Shera off to break a curse in Jeuno—Al and the others are suddenly called back to Jeuno for a new mission. Released as 〜永遠の絆〜. May also be known as ~The Eternal Link~ or ~The Covenant of Eternity~. Book #3 in the French/German translated release order.'
+        ],
         languages: [
           { value: 'JA', tip: 'Japanese', native: true },
           { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/43464376-final-fantasy-xi-tome-3' },
@@ -270,7 +348,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~The Sword of Protection~ Vol.1 (2003)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "An adventure unfolds in Gilgamesh where one mystery leads to another. Released as 〜護りの剣〜①. We're not sure which volume's plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back. Book #4 in the French/German translated release order.",
+        description: [
+          'An adventure unfolds in Gilgamesh where one mystery leads to another. Released as 〜護りの剣〜①. We\'re not sure which volume\'s plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back. Book #4 in the French/German translated release order.'
+        ],
         helpWanted: true,
         languages: [
           { value: 'JA', tip: 'Japanese', native: true },
@@ -288,7 +368,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~The Sword of Protection~ Vol.2 (2003)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Dak sets out on a journey with three companions after his childhood friend and foster parent goes missing, and encounters Rin, who has come into possession of a dragon child, and her companions. Released as 〜護りの剣〜②. We're not sure which volume's plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back. Book #5 in the French/German translated release order.",
+        description: [
+          'Dak sets out on a journey with three companions after his childhood friend and foster parent goes missing, and encounters Rin, who has come into possession of a dragon child, and her companions. Released as 〜護りの剣〜②. We\'re not sure which volume\'s plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back. Book #5 in the French/German translated release order.'
+        ],
         helpWanted: true,
         languages: [
           { value: 'JA', tip: 'Japanese', native: true },
@@ -306,7 +388,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~The Sword of Protection~ Vol.3 (2004)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "The concluding volume of the Sword of Protection trilogy, following Douglas and his companions to the Uggalepih Temple. Released as 〜護りの剣〜③. Book #6 in the French/German translated release order.",
+        description: [
+          'The concluding volume of the Sword of Protection trilogy, following Douglas and his companions to the Uggalepih Temple. Released as 〜護りの剣〜③. Book #6 in the French/German translated release order.'
+        ],
         languages: [
           { value: 'JA', tip: 'Japanese', native: true },
           { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/78946739-final-fantasy-xi-on-line-tome-6' },
@@ -323,7 +407,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Faraway Wings~ (2004)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "After some time apart, Alfred and his companions reunite in Jeuno, where a new adventure awaits Iris. Released as 〜遥かなる翼〜. Book #7 in the French/German translated release order.",
+        description: [
+          'After some time apart, Alfred and his companions reunite in Jeuno, where a new adventure awaits Iris. Released as 〜遥かなる翼〜. Book #7 in the French/German translated release order.'
+        ],
         helpWanted: true,
         languages: [
           { value: 'JA', tip: 'Japanese', native: true },
@@ -341,7 +427,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Pride of the Knight~ Vol.1 (2004)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "The first volume of the Pride of the Knight trilogy. Doug, Lynn, and their companions travel to Bastok after Peta hears from her old friend, the Galka knight Max. Released as 〜騎士の誇り〜①. Book #8 in the French/German translated release order.",
+        description: [
+          'The first volume of the Pride of the Knight trilogy. Doug, Lynn, and their companions travel to Bastok after Peta hears from her old friend, the Galka knight Max. Released as 〜騎士の誇り〜①. Book #8 in the French/German translated release order.'
+        ],
         helpWanted: true,
         languages: [
           { value: 'JA', tip: 'Japanese', native: true },
@@ -359,7 +447,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Pride of the Knight~ Vol.2 (2004)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "The second volume of the Pride of the Knight trilogy, continuing the group's adventures in and around Bastok. Released as 〜騎士の誇り〜②. Book #9 in the French/German translated release order.",
+        description: [
+          'The second volume of the Pride of the Knight trilogy, continuing the group\'s adventures in and around Bastok. Released as 〜騎士の誇り〜②. Book #9 in the French/German translated release order.'
+        ],
         helpWanted: true,
         languages: [
           { value: 'JA', tip: 'Japanese', native: true },
@@ -377,7 +467,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Pride of the Knight~ Vol.3 (2004)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "The third and final volume of the Pride of the Knight trilogy. Released as 〜騎士の誇り〜③. Book #10 in the French/German translated release order.",
+        description: [
+          'The third and final volume of the Pride of the Knight trilogy. Released as 〜騎士の誇り〜③. Book #10 in the French/German translated release order.'
+        ],
         helpWanted: true,
         languages: [
           { value: 'JA', tip: 'Japanese', native: true },
@@ -395,7 +487,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: "Final Fantasy XI ~Adventurer's Holiday~ (2005)", url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Al and Iris attend a friend's wedding. There, Reisha, a spy from San d'Oria, arrives with a request. Released as 〜冒険者の休日〜.",
+        description: [
+          'Al and Iris attend a friend\'s wedding. There, Reisha, a spy from San d\'Oria, arrives with a request. Released as 〜冒険者の休日〜.'
+        ],
         helpWanted: true,
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77099305' }, { value: '…?', tip: 'Unknown additional languages' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77099305', single: true, sourceLabel: 'Goodreads' },
@@ -409,7 +503,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~A Distant Wish~ Vol.1 (2005)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Al's message cuts off with the words \"it's darkness, a vortex of darkness...\" and Iris, Shera, and Peta immediately set out to find Al and Jed. Released as 〜遠い願い〜㊤.",
+        description: [
+          'Al\'s message cuts off with the words "it\'s darkness, a vortex of darkness..." and Iris, Shera, and Peta immediately set out to find Al and Jed. Released as 〜遠い願い〜㊤.'
+        ],
         helpWanted: true,
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77131146' }, { value: '…?', tip: 'Unknown additional languages' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77131146', single: true, sourceLabel: 'Goodreads' },
@@ -423,7 +519,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~A Distant Wish~ Vol.2 (2005)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Al and Jed are swept into a sudden vortex of darkness. Then, recklessly, Bata and Chit leap into the vortex themselves, but it vanishes immediately afterward. Left behind, Iris and Shera learn that the dark vortex seems to connect to Tavnazia, a land thought to have been destroyed long ago, and resolve to pursue the others. Released as 〜遠い願い〜㊦.",
+        description: [
+          'Al and Jed are swept into a sudden vortex of darkness. Then, recklessly, Bata and Chit leap into the vortex themselves, but it vanishes immediately afterward. Left behind, Iris and Shera learn that the dark vortex seems to connect to Tavnazia, a land thought to have been destroyed long ago, and resolve to pursue the others. Released as 〜遠い願い〜㊦.'
+        ],
         helpWanted: true,
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77654857' }, { value: '…?', tip: 'Unknown additional languages' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77654857', single: true, sourceLabel: 'Goodreads' },
@@ -437,7 +535,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~A New Dream~ Vol.1 (2005)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Once again spanning two volumes, it features Al and Iris in action, set in Tavnazia. Released as 〜新たな夢〜㊤.",
+        description: [
+          'Once again spanning two volumes, it features Al and Iris in action, set in Tavnazia. Released as 〜新たな夢〜㊤.'
+        ],
         helpWanted: true,
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77686446' }, { value: '…?', tip: 'Unknown additional languages' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77686446', single: true, sourceLabel: 'Goodreads' },
@@ -451,7 +551,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~A New Dream~ Vol.2 (2006)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Al and his companions arrive in Tavnazia after falling into the Vortex of Darkness, pursued by Iris and Shera, while Klaus and Shiri arrive in search of news of their childhood friend, as the machinations of San d'Oria, Windurst, Bastok, and Jeuno draw the long-sealed city back into the open. Released as 〜新たな夢〜㊦.",
+        description: [
+          'Al and his companions arrive in Tavnazia after falling into the Vortex of Darkness, pursued by Iris and Shera, while Klaus and Shiri arrive in search of news of their childhood friend, as the machinations of San d\'Oria, Windurst, Bastok, and Jeuno draw the long-sealed city back into the open. Released as 〜新たな夢〜㊦.'
+        ],
         helpWanted: true,
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77695106' }, { value: '…?', tip: 'Unknown additional languages' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77695106', single: true, sourceLabel: 'Goodreads' },
@@ -465,7 +567,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~The Blessings of the Journey~ (2006)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "The prelude to the Aht Urhgan saga. Released as 〜旅の恵み〜.",
+        description: ['The prelude to the Aht Urhgan saga. Released as 〜旅の恵み〜.'],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77163778' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77163778', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -478,7 +580,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.1 (2006)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Pasha and Nelly, a pair of Mithra thieves in Al Zahbi who dream of marrying into wealth, make their living picking pockets and burgling mansions—until one day they steal something far bigger than they bargained for. The series' first female leads. Released as 〜アトルガンの娘たち〜①.",
+        description: [
+          'Pasha and Nelly, a pair of Mithra thieves in Al Zahbi who dream of marrying into wealth, make their living picking pockets and burgling mansions—until one day they steal something far bigger than they bargained for. The series\' first female leads. Released as 〜アトルガンの娘たち〜①.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77185190' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77185190', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -491,7 +595,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.2 (2006)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "The Mithra thief duo, Pasha and Nelly, successfully steal treasure from a merchant's mansion in Al Zahbi. But Pasha gets stuck in her transformed state as a Tarutaru and can't revert back, and they're being chased by the merchant's bodyguards. Released as 〜アトルガンの娘たち〜②.",
+        description: [
+          'The Mithra thief duo, Pasha and Nelly, successfully steal treasure from a merchant\'s mansion in Al Zahbi. But Pasha gets stuck in her transformed state as a Tarutaru and can\'t revert back, and they\'re being chased by the merchant\'s bodyguards. Released as 〜アトルガンの娘たち〜②.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77208504' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77208504', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -504,7 +610,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.3 (2006)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Having stolen the treasure token proving Farmett's conspiracy, Pasha and Nelly travel with adventurers they meet in the Inner Country to pursue hostages held captive by the Lamia. Released as 〜アトルガンの娘たち〜③.",
+        description: [
+          'Having stolen the treasure token proving Farmett\'s conspiracy, Pasha and Nelly travel with adventurers they meet in the Inner Country to pursue hostages held captive by the Lamia. Released as 〜アトルガンの娘たち〜③.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77232781' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77232781', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -517,7 +625,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~The Testament of the Wise~ Vol.1 (2007)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Continues the series of illustrated short stories, opening on a shocking turn of events involving the character Peta. Released as 〜賢者の遺言〜㊤.",
+        description: [
+          'Continues the series of illustrated short stories, opening on a shocking turn of events involving the character Peta. Released as 〜賢者の遺言〜㊤.'
+        ],
         helpWanted: true,
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77250550' }, { value: '…?', tip: 'Unknown additional languages' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77250550', single: true, sourceLabel: 'Goodreads' },
@@ -531,7 +641,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~The Testament of the Wise~ Vol.2 (2007)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Peta is in danger, and Al and Iris set sail for Nashmo to rescue her. Released as 〜賢者の遺言〜㊦. May also be known as ~The Testament of the Sages~.",
+        description: [
+          'Peta is in danger, and Al and Iris set sail for Nashmo to rescue her. Released as 〜賢者の遺言〜㊦. May also be known as ~The Testament of the Sages~.'
+        ],
         helpWanted: true,
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77249549' }, { value: '…?', tip: 'Unknown additional languages' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77249549', single: true, sourceLabel: 'Goodreads' },
@@ -545,7 +657,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~The Song of the Storm~ Vol.1 (2007)', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "In the world of Vana'diel, anyone can make a living, and earn glory, as a mage, knight, thief, or warrior. Alfred learns this as he's thrust into the greatest adventure of his life. Alongside the impetuous young mage Iris, he sets out on a dangerous journey to join Altana's people in their fight against the beastmen. Over the course of this perilous apprenticeship, Alfred must face his destiny, still unaware of the infernal machine he'll have to fight. Labeled Book #1 in the French/German translated release order, though its 2007 release date is later than several other Al books translated as later volumes in that order — we haven't identified a Japanese source title, so this numbering is unconfirmed.",
+        description: [
+          'In the world of Vana\'diel, anyone can make a living, and earn glory, as a mage, knight, thief, or warrior. Alfred learns this as he\'s thrust into the greatest adventure of his life. Alongside the impetuous young mage Iris, he sets out on a dangerous journey to join Altana\'s people in their fight against the beastmen. Over the course of this perilous apprenticeship, Alfred must face his destiny, still unaware of the infernal machine he\'ll have to fight. Labeled Book #1 in the French/German translated release order, though its 2007 release date is later than several other Al books translated as later volumes in that order — we haven\'t identified a Japanese source title, so this numbering is unconfirmed.'
+        ],
         languages: [
           { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1' },
           { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/4466888-final-fantasy-xi' },
@@ -563,7 +677,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Adventure Log~ (2007)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Comic', url: null, small: true },
         ],
-        description: "The official Final Fantasy XI webcomic.",
+        description: ['The official Final Fantasy XI webcomic.'],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
         platformGroups: [
           [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Webcomic', noUrl: true }],
@@ -574,7 +688,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Conditions of Fortune~ (2007)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Al and Iris's party, staying in Aht Urhgan, encounter a Mithra corsair known as \"Lucky Narfah\" during a certain adventure, but the man she's infatuated with is extremely suspicious. Released as 〜幸運の条件〜. A secondary English source describes her instead as an Elvaan named \"Nalfa the Lucky\" — race and name unconfirmed.",
+        description: [
+          'Al and Iris\'s party, staying in Aht Urhgan, encounter a Mithra corsair known as "Lucky Narfah" during a certain adventure, but the man she\'s infatuated with is extremely suspicious. Released as 〜幸運の条件〜. A secondary English source describes her instead as an Elvaan named "Nalfa the Lucky" — race and name unconfirmed.'
+        ],
         helpWanted: true,
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/51275414' }, { value: '…?', tip: 'Unknown additional languages' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/51275414', single: true, sourceLabel: 'Goodreads' },
@@ -588,7 +704,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~The Princess Knight of Ronfaure~ (2007)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Al and his companions encounter a baby chocobo in the Floating Swamps of Kadava, and with no owner to be found, Al and Iris decide to raise it themselves, leaving their companions to head to San d'Oria. Released as 〜ロンフォールの姫騎士〜.",
+        description: [
+          'Al and his companions encounter a baby chocobo in the Floating Swamps of Kadava, and with no owner to be found, Al and Iris decide to raise it themselves, leaving their companions to head to San d\'Oria. Released as 〜ロンフォールの姫騎士〜.'
+        ],
         helpWanted: true,
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77698241' }, { value: '…?', tip: 'Unknown additional languages' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77698241', single: true, sourceLabel: 'Goodreads' },
@@ -602,7 +720,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: "Final Fantasy XI ~The Star's Call~ (2008)", url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Chance, the lost chocobo found by Al and Iris and raised in Sandoria, was actually a victim of a sinister plot. To save Chance, the pair return to Aht Urhgan where their comrades await. Released as 〜星のいざない〜. May also be known as ~Starfall~.",
+        description: [
+          'Chance, the lost chocobo found by Al and Iris and raised in Sandoria, was actually a victim of a sinister plot. To save Chance, the pair return to Aht Urhgan where their comrades await. Released as 〜星のいざない〜. May also be known as ~Starfall~.'
+        ],
         helpWanted: true,
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77709037' }, { value: '…?', tip: 'Unknown additional languages' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77709037', single: true, sourceLabel: 'Goodreads' },
@@ -616,7 +736,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Happy Gift~ (2008)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Dark Knight Larry finds himself helping a troublesome young black mage girl named Bee, and before he knows it, the two are traveling together hunting monsters, armed with his \"Beast Photographer.\" Released as ハッピーギフト.",
+        description: [
+          'Dark Knight Larry finds himself helping a troublesome young black mage girl named Bee, and before he knows it, the two are traveling together hunting monsters, armed with his "Beast Photographer." Released as ハッピーギフト.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77438179' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77438179', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -629,7 +751,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~A Message from Beyond~ Vol.1 (2008)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "One day, a stranger visits Doug, Rin, and the others as they search for Tikki's mother. She delivers a letter from Tikki's mother, written twenty years ago. Released as 〜彼方からの伝言〜①.",
+        description: [
+          'One day, a stranger visits Doug, Rin, and the others as they search for Tikki\'s mother. She delivers a letter from Tikki\'s mother, written twenty years ago. Released as 〜彼方からの伝言〜①.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77778217' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77778217', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -642,7 +766,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~A Message from Beyond~ Vol.2 (2008)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Responding to a rescue request from Tikki's mother, what awaited them at the designated location was the 'Forbidden Mouth'. Through it, Dag and his companions were transported to the past of Vana'diel. Released as 〜彼方からの伝言〜②.",
+        description: [
+          'Responding to a rescue request from Tikki\'s mother, what awaited them at the designated location was the \'Forbidden Mouth\'. Through it, Dag and his companions were transported to the past of Vana\'diel. Released as 〜彼方からの伝言〜②.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77439898' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77439898', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -655,7 +781,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~A Message from Beyond~ Vol.3 (2008)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "While searching for Tikki's mother, Euphelin, Doug and Lynn's party are transported to the past of Vana'diel amid the Crystal War. Released as 〜彼方からの伝言〜③. May also be known as ~Messages from Afar~.",
+        description: [
+          'While searching for Tikki\'s mother, Euphelin, Doug and Lynn\'s party are transported to the past of Vana\'diel amid the Crystal War. Released as 〜彼方からの伝言〜③. May also be known as ~Messages from Afar~.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77456526' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77456526', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -668,7 +796,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Anthology~ (2009)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Anthology of three short stories. Full title: \"An Anthology of Short Stories: A Great Adventure for Everyone!!\" Released as アンソロジー短編集みんなで大冒険！！.",
+        description: [
+          'Anthology of three short stories. Full title: "An Anthology of Short Stories: A Great Adventure for Everyone!!" Released as アンソロジー短編集みんなで大冒険！！.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77470246' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77470246', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -681,7 +811,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.1 (2009)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Ron, a modestly skilled adventurer raised in Windurst, is dragged by his childhood friend Shari into searching for the Book of Gods, said to be in the hands of the thief Nanaa Mihgo. Released as ザルカバードの鼓動①.",
+        description: [
+          'Ron, a modestly skilled adventurer raised in Windurst, is dragged by his childhood friend Shari into searching for the Book of Gods, said to be in the hands of the thief Nanaa Mihgo. Released as ザルカバードの鼓動①.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77328971' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77328971', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -694,7 +826,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.2 (2009)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Ron and the others find the Book of Gods, but it has become a blank White Book, and the Duke of Jeuno tasks them with investigating a mysterious magicite as fears grow that the Shadow Lord is returning. Released as ザルカバードの鼓動②.",
+        description: [
+          'Ron and the others find the Book of Gods, but it has become a blank White Book, and the Duke of Jeuno tasks them with investigating a mysterious magicite as fears grow that the Shadow Lord is returning. Released as ザルカバードの鼓動②.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77348591' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77348591', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -707,7 +841,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.3 (2009)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "The Shadow Lord is returning. Ron and Shari bring this news back to Windurst, scattering the party as Savvy, Duga, and Riccorocco head to their own nations. The nations decide to entrust the defeat of the Shadow Lord to an elite force of adventurers, bringing them together once more. Released as ザルカバードの鼓動③.",
+        description: [
+          'The Shadow Lord is returning. Ron and Shari bring this news back to Windurst, scattering the party as Savvy, Duga, and Riccorocco head to their own nations. The nations decide to entrust the defeat of the Shadow Lord to an elite force of adventurers, bringing them together once more. Released as ザルカバードの鼓動③.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77379192' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77379192', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -720,7 +856,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Lightning Brigade Encyclopedia~ (2013)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Lightning_Brigade' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "Featuring stories and four original comics. Released as 電撃の旅団公式十年事典. May also be known as Final Fantasy XI ~Lightning Brigade Official Decennial Encyclopedia~.",
+        description: [
+          'Featuring stories and four original comics. Released as 電撃の旅団公式十年事典. May also be known as Final Fantasy XI ~Lightning Brigade Official Decennial Encyclopedia~.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/28453696' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/28453696', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -733,7 +871,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Songs of the Endless Earth~ (2015)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books' },
           { label: 'Book', url: null, small: true },
         ],
-        description: 'A month after the crisis of Escafication, Vana\'diel was slowly returning to normal. A sailing ship drifting along the South Ocean route encounters a colossal monster, marking the start of a new incident across Vana\'diel, Tavnazia, and Reisenjima. Released as 〜終わりなき大地の唄〜. May also be known as ~The Song of the Endless Land~.',
+        description: [
+          'A month after the crisis of Escafication, Vana\'diel was slowly returning to normal. A sailing ship drifting along the South Ocean route encounters a colossal monster, marking the start of a new incident across Vana\'diel, Tavnazia, and Reisenjima. Released as 〜終わりなき大地の唄〜. May also be known as ~The Song of the Endless Land~.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/69235773' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/69235773', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -746,11 +886,11 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Minagawa Fumio Illustrations~ (2018)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Illustrations' },
           { label: 'Comic', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'Includes a collection of manga for ' },
           { emText: 'XI' },
           { text: '.' },
-        ],
+        ]],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/58665646' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/58665646', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -763,7 +903,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Aloha Iroha~ (2015)', url: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha' },
           { label: 'Comic', url: null, small: true },
         ],
-        description: "A series of four-panel manga based on Final Fantasy XI, following the story of Iroha, the main heroine of Rhapsodies of Vana'diel. Known in Japan as Iroha de Gozaru.",
+        description: [
+          'A series of four-panel manga based on Final Fantasy XI, following the story of Iroha, the main heroine of Rhapsodies of Vana\'diel. Known in Japan as Iroha de Gozaru.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
         platformGroups: [
           [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manga', url: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha#External_links' }],
@@ -774,7 +916,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Minstrel of Strange Tales: Replica Script~ (2024)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "A replica script for the reading drama's five strange tales: \"Mimiroon's Sparkling Great Adventure\", \"Go For It! Allied Forces of Altana: Extreme Survival\", \"Seaside Serpent Taro\", \"A Small Gift For A Small Friend\", and \"Black Night Butterfly\". Released as 朗読劇 : 異聞のウタイビト : 複製台本. May also be known as Final Fantasy XI ~Reading Drama: Minstrel of Strange Tales: Replica Script~.",
+        description: [
+          'A replica script for the reading drama\'s five strange tales: "Mimiroon\'s Sparkling Great Adventure", "Go For It! Allied Forces of Altana: Extreme Survival", "Seaside Serpent Taro", "A Small Gift For A Small Friend", and "Black Night Butterfly". Released as 朗読劇 : 異聞のウタイビト : 複製台本. May also be known as Final Fantasy XI ~Reading Drama: Minstrel of Strange Tales: Replica Script~.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }],
         platformGroups: [
           [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel (Japan Only)', jpTag: true, noUrl: true }],
@@ -786,58 +930,79 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Final Fantasy XI ~Minstrel of Fantasies: Replica Script~ (2025)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "A replica script for the reading drama's stories of love and reunion across time and space: \"Temple of the Heart's Secret\" (a Star Sibyl story), \"Girl of the Underworld\" (an Aphmau story), \"Blue Mage Blues\" (a Blue Mage story), and \"Memoirs of the Many-Headed Hydra -Memories of Heroes-\" (a Hydra Squadron story). Released as 朗読劇 : 夢幻のウタイビト : 複製台本. May also be known as Final Fantasy XI ~Reading Drama: Minstrel of Fantasies: Replica Script~.",
+        description: [
+          'A replica script for the reading drama\'s stories of love and reunion across time and space: "Temple of the Heart\'s Secret" (a Star Sibyl story), "Girl of the Underworld" (an Aphmau story), "Blue Mage Blues" (a Blue Mage story), and "Memoirs of the Many-Headed Hydra -Memories of Heroes-" (a Hydra Squadron story). Released as 朗読劇 : 夢幻のウタイビト : 複製台本. May also be known as Final Fantasy XI ~Reading Drama: Minstrel of Fantasies: Replica Script~.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }],
         platformGroups: [
           [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel (Japan Only)', jpTag: true, noUrl: true }],
           [{ icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Minstrel%20of%20Fantasies%3A%20Replica%20Script~%20translation' }],
           [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Minstrel%20of%20Fantasies' }],
         ] },
-        { title: 'Final Fantasy Grandmasters', releaseDate: '2015-09-30', chronoOrder: 5020, recommendedOrder: 700, tags: ['Optional', 'Spin-off', 'MMORPG', 'Mobile', 'Jobs', 'Active Time Battle', 'Terminated'], mediaType: 'Game',
-        bylineParts: [
-          { text: 'Optional · Spin-off · ' },
-          { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-          { text: ' · Mobile · Jobs · Active Time Battle · Terminated' },
-        ],
-        parts: [
-          { label: 'Final Fantasy Grandmasters (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Grandmasters' },
-        ],
-        desc2First: true,
-        desc2Parts: [
-          { text: "Tie-in with the " },
-          { emText: "Rhapsodies of Vana'diel (2015)" },
-          { text: ' scenario for ' },
-          { emText: 'Final Fantasy XI (2002)' },
-          { text: '. User avatars with chibi character models travel the world by airship in a quest to become the strongest "Grandmaster" adventurer while engaging in co-operative battles against enemies.' },
-        ],
-        description: "Terminated, the general lack of deep story means there isn't anything to get caught up on or experience through recaps.",
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }],
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+        {
+          title: 'Final Fantasy Grandmasters',
+          releaseDate: '2015-09-30',
+          chronoOrder: 5020,
+          recommendedOrder: 700,
+          tags: ['Optional', 'Spin-off', 'MMORPG', 'Mobile', 'Jobs', 'Active Time Battle', 'Terminated'],
+          mediaType: 'Game',
+
+          bylineParts: [
+            { text: 'Optional · Spin-off · ' },
+            { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
+            { text: ' · Mobile · Jobs · Active Time Battle · Terminated' },
           ],
-          [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Grandmasters%20playthrough' }],
-        ] },
-        { title: 'Final Fantasy XI: Braver', releaseDate: '2021-07-10', chronoOrder: 1050, recommendedOrder: 700, tags: ['Optional', 'Unofficial fan project', 'RPG', '2D', 'Sprites', 'Alternate Universe', 'Free'], mediaType: 'Game',
-        parts: [
-          { label: 'Final Fantasy XI: Braver (2021)', url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver' },
-        ],
-        desc2First: true,
-        desc2Parts: [
-          { text: 'Taking place roughly in the world of ' },
-          { emText: 'XI: Rise of the Zilart (2003)' },
-          { text: ' with a sprinkle from other Final Fantasy titles, making it a bit of an alternate universe re-imagining. Entry also found in our Fan Projects series.' },
-        ],
-        description: "A party of adventurers, fresh off a win in the Valkurm Dunes, is summoned to Lower Jeuno by the Captain of the Ducal Guard for an urgent mission.",
-        languages: [{ value: 'EN', tip: 'English' }],
-        storeUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver',
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver' }],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20playthrough' },
+
+          parts: [
+            { label: 'Final Fantasy Grandmasters (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Grandmasters' },
           ],
-        ] },
+
+          description: [[
+            { text: "Tie-in with the " },
+            { emText: "Rhapsodies of Vana'diel (2015)" },
+            { text: ' scenario for ' },
+            { emText: 'Final Fantasy XI (2002)' },
+            { text: '. User avatars with chibi character models travel the world by airship in a quest to become the strongest "Grandmaster" adventurer while engaging in co-operative battles against enemies.' },
+          ], 'Terminated, the general lack of deep story means there isn\'t anything to get caught up on or experience through recaps.'],
+
+          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+            ],
+            [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Grandmasters%20playthrough' }],
+          ]
+        },
+        {
+          title: 'Final Fantasy XI: Braver',
+          releaseDate: '2021-07-10',
+          chronoOrder: 1050,
+          recommendedOrder: 700,
+          tags: ['Optional', 'Unofficial fan project', 'RPG', '2D', 'Sprites', 'Alternate Universe', 'Free'],
+          mediaType: 'Game',
+
+          parts: [
+            { label: 'Final Fantasy XI: Braver (2021)', url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver' },
+          ],
+
+          description: [[
+            { text: 'Taking place roughly in the world of ' },
+            { emText: 'XI: Rise of the Zilart (2003)' },
+            { text: ' with a sprinkle from other Final Fantasy titles, making it a bit of an alternate universe re-imagining. Entry also found in our Fan Projects series.' },
+          ], 'A party of adventurers, fresh off a win in the Valkurm Dunes, is summoned to Lower Jeuno by the Captain of the Ducal Guard for an urgent mission.'],
+
+          languages: [{ value: 'EN', tip: 'English' }],
+          storeUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver',
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver' }],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20playthrough' },
+            ],
+          ]
+        },
       ]};

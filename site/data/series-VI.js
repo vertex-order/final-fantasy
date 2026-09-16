@@ -1,158 +1,186 @@
 window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder: 600, recommendedOrder: 600, title: 'Final Fantasy VI', note: 'The last mainline entry to feature 2D sprite graphics, especially outside of mobile games.', games: [
-        { title: 'Final Fantasy VI', releaseDate: '1994-04-02', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['Active time battles'], mediaType: 'Game', lengthParts: [{ value: '33h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '40½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '54½h', tip: 'Completionist' }], parts: [
-          { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
-          { label: 'Pixel Remaster (2022)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
-        ],
-        storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
-        languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'EN-US', tip: 'English (US)' },
-          { value: 'FR', tip: 'French' },
-          { value: 'DE', tip: 'German' },
-          { value: 'IT', tip: 'Italian' },
-          { value: 'KO', tip: 'Korean' },
-          { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
-          { value: 'RU', tip: 'Russian' },
-          { value: 'ES-ES', tip: 'Spanish (Spain)' },
-          { value: 'TH', tip: 'Thai' },
-          { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
-          { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
-        ],
-        desc2First: true,
-        desc2Parts: [
-          { text: 'Join the rebellion (the ' },
-          { emText: 'Returners' },
-          { text: ') against the immoral military dictatorship; the industrial ' },
-          { emText: 'Gestahl Empire' },
-          { text: '.' },
-        ],
-        description: 'This remaster has redrawn sprites, in-game maps, auto-battle, a fully voice-acted Opera scene, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
-        descMidParts: [
-          { text: 'Released as ' },
-          { emText: 'Final Fantasy VI Pixel Remaster' },
-          { text: '. Included in the ' },
-          { emText: 'Final Fantasy I-VI Bundle / Collection' },
-          { text: '.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '92', midScore: '8.4', midUrl: 'https://www.metacritic.com/game/final-fantasy-vi/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-vi/', sourceUrl: 'https://store.steampowered.com/app/1173820/FINAL_FANTASY_VI/', sourceLabel: 'Steam; Very Positive' },
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/1173820?' }],
-          [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR6&' }],
-          [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy-vi/id1492041539' }],
-          [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vi-switch/' }],
-          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vi-switch/' }],
-          [
-            { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA33837_00-FF6PS4APPNA00001' },
-            { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compatibility)', url: 'https://store.playstation.com/product/UP0082-CUSA33837_00-FF6PS4APPNA00001' },
+        {
+          title: 'Final Fantasy VI',
+          releaseDate: '1994-04-02',
+          chronoOrder: 0,
+          recommendedOrder: 100,
+          mainline: true,
+          tags: ['Active time battles'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '33h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '40½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '54½h', tip: 'Completionist' }],
+
+          parts: [
+            { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
+            { label: 'Pixel Remaster (2022)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
           ],
-          [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' }],
-          [{ icon: null, iconImg: 'images/platforms/xbox-cloud.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' }],
-          [{ icon: null, iconImg: 'images/platforms/amazon.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Amazon App Store', url: 'https://www.amazon.com/dp/B09RFBLK4Y?' }],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20playthrough' },
+
+          storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
+
+          languages: [
+            { value: 'JA', tip: 'Japanese', native: true },
+            { value: 'EN-US', tip: 'English (US)' },
+            { value: 'FR', tip: 'French' },
+            { value: 'DE', tip: 'German' },
+            { value: 'IT', tip: 'Italian' },
+            { value: 'KO', tip: 'Korean' },
+            { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
+            { value: 'RU', tip: 'Russian' },
+            { value: 'ES-ES', tip: 'Spanish (Spain)' },
+            { value: 'TH', tip: 'Thai' },
+            { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
+            { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
           ],
-        ],
-        platformsUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
-        alt: {
-          extras: [
-            {
-              parts: [
-                { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
-                { label: 'Remaster (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
-              ],
-              description: 'This remaster has high-resolution graphics, redesigned sprites, movement in eight directions, and auto-battle.',
-              languages: [
-                { value: 'JA', tip: 'Japanese', native: true },
-                { value: 'EN', tip: 'English' },
-                { value: 'FR', tip: 'French' },
-                { value: 'DE', tip: 'German' },
-                { value: 'IT', tip: 'Italian' },
-                { value: 'PT-PT', tip: 'Portuguese (Portugal)' },
-                { value: 'RU', tip: 'Russian' },
-                { value: 'ES-ES', tip: 'Spanish (Spain)' },
-              ],
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/' }],
-                [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-                [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
-                { label: 'Edit (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
-              ],
-              description: 'This edit has slightly improved visuals and a new translation, plus four new espers, two new areas, and three new spells.',
-              emTermNotFirst: true,
-              emPre: 'Released as ',
-              emTerm: 'Final Fantasy VI Advance (2006)',
-              emPost: ' and in the omnibus collection ',
-              emTerm2: 'Finest Fantasy for Advance (2006)',
-              emPost2: '.',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'DE', tip: 'German' }, { value: 'FR', tip: 'French' }, { value: 'IT', tip: 'Italian' }, { value: 'ES', tip: 'Spanish' }],
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/nintendo-game-boy-advance.svg', iconSize: 12.5, imgStyle: 'width: auto; height: 12.5px;', name: 'Game Boy Advance (Physical)' }],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
-                { label: 'Edit (1999)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
-              ],
-              descPre: 'This edit adds opening and ending ',
-              abbrTerm: 'FMV',
-              abbrDef: 'Full Motion Video',
-              descPost: 's, screen-transition effects, and "memo" save feature. May have slow menus.',
-              emTermNotFirst: true,
-              emPre: 'Released in omnibus collection ',
-              emTerm: 'Final Fantasy Collection',
-              emRegion1: 'JP', emRegion1Label: 'Japan',
-              emPost: ' (1999), and ',
-              emTerm2: 'Final Fantasy Anthology',
-              emRegion2: 'NA', emRegion2Label: 'North America',
-              emPost2: ' (1999).',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
-              helpWanted: true,
-              platformGroups: [
-                [
-                  { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PSone compatibility; Digital)' },
-                  { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (PSone compatibility)' },
-                  { icon: null, iconImg: 'images/platforms/playstation1.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px;', name: 'PlayStation (PSone) (Physical)' },
-                  { icon: null, iconImg: 'images/platforms/playstation-vita.svg', iconSize: 8.49, imgStyle: 'width: auto; height: 8.49px;', name: 'PlayStation Vita (Digital)' },
-                  { icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP) (Digital)' },
+
+          description: [[
+            { text: 'Join the rebellion (the ' },
+            { emText: 'Returners' },
+            { text: ') against the immoral military dictatorship; the industrial ' },
+            { emText: 'Gestahl Empire' },
+            { text: '.' },
+          ], 'This remaster has redrawn sprites, in-game maps, auto-battle, a fully voice-acted Opera scene, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.', [
+            { text: 'Released as ' },
+            { emText: 'Final Fantasy VI Pixel Remaster' },
+            { text: '. Included in the ' },
+            { emText: 'Final Fantasy I-VI Bundle / Collection' },
+            { text: '.' },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '92', midScore: '8.4', midUrl: 'https://www.metacritic.com/game/final-fantasy-vi/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-vi/', sourceUrl: 'https://store.steampowered.com/app/1173820/FINAL_FANTASY_VI/', sourceLabel: 'Steam; Very Positive' },
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' }],
+            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/1173820?' }],
+            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR6&' }],
+            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy-vi/id1492041539' }],
+            [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vi-switch/' }],
+            [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-vi-switch/' }],
+            [
+              { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA33837_00-FF6PS4APPNA00001' },
+              { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compatibility)', url: 'https://store.playstation.com/product/UP0082-CUSA33837_00-FF6PS4APPNA00001' },
+            ],
+            [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' }],
+            [{ icon: null, iconImg: 'images/platforms/xbox-cloud.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' }],
+            [{ icon: null, iconImg: 'images/platforms/amazon.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Amazon App Store', url: 'https://www.amazon.com/dp/B09RFBLK4Y?' }],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20playthrough' },
+            ],
+          ],
+
+          platformsUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
+
+          alt: {
+            extras: [
+              {
+                parts: [
+                  { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
+                  { label: 'Remaster (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
                 ],
-              ],
-            },
-            {
-              label: 'Final Fantasy VI (1994)',
-              url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI',
-              descParts: [
-                { text: 'The original release. Early releases outside Japan on SNES and the non-Japan SNES Classic release were titled ' },
-                { emText: 'Final Fantasy III (Non-Japan, 1994)' },
-                { text: '.' },
-              ],
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/nintendo-snes.svg', iconSize: 14.25, imgStyle: 'width: auto; height: 14.25px; filter: grayscale(100%);', name: 'Super Nintendo Entertainment System (SNES) Classic Edition' }],
-                [{ icon: null, iconImg: 'images/platforms/nintendo-snes.svg', iconSize: 14.25, imgStyle: 'width: auto; height: 14.25px; filter: grayscale(100%);', name: 'Super Nintendo Entertainment System (Super Famicom; Physical)' }],
-                [
-                  { icon: null, iconImg: 'images/platforms/nintendo-wii.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
-                  { icon: null, iconImg: 'images/platforms/nintendo-wii-u.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true },
+                description: [
+                  'This remaster has high-resolution graphics, redesigned sprites, movement in eight directions, and auto-battle.'
                 ],
-              ],
-            },
-          ],
-        } },
+                languages: [
+                  { value: 'JA', tip: 'Japanese', native: true },
+                  { value: 'EN', tip: 'English' },
+                  { value: 'FR', tip: 'French' },
+                  { value: 'DE', tip: 'German' },
+                  { value: 'IT', tip: 'Italian' },
+                  { value: 'PT-PT', tip: 'Portuguese (Portugal)' },
+                  { value: 'RU', tip: 'Russian' },
+                  { value: 'ES-ES', tip: 'Spanish (Spain)' },
+                ],
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/' }],
+                  [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+                  [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+                ],
+              },
+              {
+                parts: [
+                  { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
+                  { label: 'Edit (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
+                ],
+
+                description: [
+                  'This edit has slightly improved visuals and a new translation, plus four new espers, two new areas, and three new spells.',
+                  ['Released as ', {
+                    emText: 'Final Fantasy VI Advance (2006)'
+                  }, ' and in the omnibus collection ', {
+                    emText: 'Finest Fantasy for Advance (2006)'
+                  }, '.']
+                ],
+
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'DE', tip: 'German' }, { value: 'FR', tip: 'French' }, { value: 'IT', tip: 'Italian' }, { value: 'ES', tip: 'Spanish' }],
+
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/nintendo-game-boy-advance.svg', iconSize: 12.5, imgStyle: 'width: auto; height: 12.5px;', name: 'Game Boy Advance (Physical)' }],
+                ]
+              },
+              {
+                parts: [
+                  { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
+                  { label: 'Edit (1999)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
+                ],
+
+                description: [['This edit adds opening and ending ', {
+                  abbrTerm: 'FMV',
+                  abbrDef: 'Full Motion Video'
+                }, 's, screen-transition effects, and "memo" save feature. May have slow menus.'], ['Released in omnibus collection ', {
+                  emText: 'Final Fantasy Collection'
+                }, {
+                  tipText: ' (JP)',
+                  tip: 'Japan'
+                }, ' (1999), and ', {
+                  emText: 'Final Fantasy Anthology'
+                }, {
+                  tipText: ' (NA)',
+                  tip: 'North America'
+                }, ' (1999).']],
+
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                helpWanted: true,
+
+                platformGroups: [
+                  [
+                    { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PSone compatibility; Digital)' },
+                    { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (PSone compatibility)' },
+                    { icon: null, iconImg: 'images/platforms/playstation1.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px;', name: 'PlayStation (PSone) (Physical)' },
+                    { icon: null, iconImg: 'images/platforms/playstation-vita.svg', iconSize: 8.49, imgStyle: 'width: auto; height: 8.49px;', name: 'PlayStation Vita (Digital)' },
+                    { icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP) (Digital)' },
+                  ],
+                ]
+              },
+              {
+                label: 'Final Fantasy VI (1994)',
+                url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI',
+                description: [[
+                  { text: 'The original release. Early releases outside Japan on SNES and the non-Japan SNES Classic release were titled ' },
+                  { emText: 'Final Fantasy III (Non-Japan, 1994)' },
+                  { text: '.' },
+                ]],
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/nintendo-snes.svg', iconSize: 14.25, imgStyle: 'width: auto; height: 14.25px; filter: grayscale(100%);', name: 'Super Nintendo Entertainment System (SNES) Classic Edition' }],
+                  [{ icon: null, iconImg: 'images/platforms/nintendo-snes.svg', iconSize: 14.25, imgStyle: 'width: auto; height: 14.25px; filter: grayscale(100%);', name: 'Super Nintendo Entertainment System (Super Famicom; Physical)' }],
+                  [
+                    { icon: null, iconImg: 'images/platforms/nintendo-wii.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
+                    { icon: null, iconImg: 'images/platforms/nintendo-wii-u.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true },
+                  ],
+                ],
+              },
+            ],
+          }
+        },
         { title: "Figaro's Wedding: Tales from Desert", releaseDate: '1994', chronoOrder: 500, recommendedOrder: 500, tags: ['Optional', 'Alternate Universe', 'Non-canon', 'Fan-made', 'Short Stories', 'Doujinshi'], mediaType: 'Book',
         parts: [
           { label: "Figaro's Wedding: Tales from Desert (1994)", url: 'https://breezewiki.com/finalfantasy/wiki/Figaro_no_Kekkon:_Tales_from_Desert' },
           { label: 'Book', url: null, small: true },
         ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }],
-        description: "A doujinshi by Kaori Tanaka exploring the backstory of Sabin and Edgar within Figaro Castle, told as a non-linear collection of short stories covering Edgar's flirtations, Sabin's training, and the kingdom's history. Tanaka wrote much of Sabin and Edgar's original characterization for Final Fantasy VI, giving this unofficial work unusual authority despite her own insert disclaiming it as non-canon. Included here as a notable alternate-universe curiosity rather than official media; now very rare. Released as フィガロの結婚 (Figaro no Kekkon).",
+        description: [
+          'A doujinshi by Kaori Tanaka exploring the backstory of Sabin and Edgar within Figaro Castle, told as a non-linear collection of short stories covering Edgar\'s flirtations, Sabin\'s training, and the kingdom\'s history. Tanaka wrote much of Sabin and Edgar\'s original characterization for Final Fantasy VI, giving this unofficial work unusual authority despite her own insert disclaiming it as non-canon. Included here as a notable alternate-universe curiosity rather than official media; now very rare. Released as フィガロの結婚 (Figaro no Kekkon).'
+        ],
         helpWanted: true,
         platformGroups: [
           [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true },
