@@ -11,7 +11,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           { label: 'Brotherhood: Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV' },
           { label: 'anime', url: null, small: true },
         ],
-        description: 'Details the backstories of Noctis Lucis Caelum and his friends. Also included with some game releases in the XV series.',
+        description: [
+          'Details the backstories of Noctis Lucis Caelum and his friends. Also included with some game releases in the XV series.'
+        ],
         languages: [
           { value: 'JA', tip: 'Japanese — audio', native: true, voice: true },
           { value: 'FR', tip: 'French — text only' },
@@ -28,199 +30,239 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ icon: null, iconImg: 'images/platforms/youtube.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'YouTube (Official Playlist)', url: 'https://www.youtube.com/playlist?list=PLbhHt7tfNMCAKp5X5y1UMg6er-xFUyB3J' }],
           [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Brotherhood%20Final%20Fantasy%20XV%20story%20recap' }],
         ] },
-        { title: 'Final Fantasy XV (2016) Remake (2018)', releaseDate: '2016-11-29 10', chronoOrder: 0, recommendedOrder: 200, mainline: true, tags: ['Action RPG', 'Open World', 'Action-based battle', 'Co-op', 'Official mod support'], mediaType: 'Game', lengthParts: [{ value: '27½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '56½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '116h', tip: 'Completionist', sep: true, sepChar: ', ' }, { value: 'Comrades 38½h', tip: 'Comrades Co-op' }],
-        parts: [
-          { label: 'Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV' },
-          { label: 'Remake (2018)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV#Release', small: true },
-        ],
-        description: 'Takes place on the fictional world of Eos; aside from Insomnia, the capital of Lucis, all the world is dominated by the empire of Niflheim, who seek control of the magical Crystal protected by the Lucian royal family. On the eve of peace negotiations, Niflheim attacks the capital and steals the Crystal. Noctis Lucis Caelum, heir to the Lucian throne, goes on a quest to rescue the Crystal and defeat Niflheim.',
-        descMidParts: [
-          { text: 'Considered loosely connected to the ' },
-          { emText: 'Fabula Nova Crystallis – Final Fantasy XIII' },
-          { text: ' series, you can optionally play that series first. If you plan to watch the ' },
-          { emText: 'Kingsglaive: Final Fantasy XV (2016)' },
-          { text: ' movie, the best time is after finishing Chapter 1 of the game.' },
-        ],
-        desc2Last: true,
-        desc3Parts: [
-          { text: 'This remake integrates the DLC Episode ' },
-          { emText: 'Gladiolus' },
-          { text: ', ' },
-          { emText: 'Prompto' },
-          { text: ', ' },
-          { emText: 'Ignis' },
-          { text: ', and co-op expansion ' },
-          { emText: 'Comrades' },
-          { text: ', and adds a new Insomnia City Ruins dungeon, an explorable royal vessel, an Armiger Unleashed ultimate ability, and a first-person camera mode. Released on console as ' },
-          { emText: 'Royal Edition' },
-          { text: ' and on PC as ' },
-          { emText: 'Windows Edition' },
-          { text: ', which adds 120 fps support. Comrades co-op play requires an additional online subscription on some platforms. The Chinese release tones down religious imagery and modifies a few character and enemy designs.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '7.5', midUrl: 'https://www.metacritic.com/game/final-fantasy-xv-royal-edition/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-xv-royal-edition/', sourceUrl: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/', sourceLabel: 'Steam; Very Positive' },
-        languages: [
-          { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-          { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-          { value: 'FR', tip: 'French — full audio', voice: true },
-          { value: 'DE', tip: 'German — full audio', voice: true },
-          { value: 'RU', tip: 'Russian — full audio', voice: true },
-          { value: 'IT', tip: 'Italian — text only' },
-          { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
-          { value: 'ES-419', tip: 'Spanish (Latin America) — text only' },
-          { value: 'KO', tip: 'Korean — text only' },
-          { value: 'PT-BR', tip: 'Portuguese (Brazil) — text only' },
-          { value: 'ZH-CN', tip: 'Simplified Chinese — text only' },
-          { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
-        ],
-        storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
-          [{ icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
-          [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20playthrough' },
-          ],
-        ],
-        alt: {
+        {
+          title: 'Final Fantasy XV (2016) Remake (2018)',
+          releaseDate: '2016-11-29 10',
+          chronoOrder: 0,
+          recommendedOrder: 200,
+          mainline: true,
+          tags: ['Action RPG', 'Open World', 'Action-based battle', 'Co-op', 'Official mod support'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '27½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '56½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '116h', tip: 'Completionist', sep: true, sepChar: ', ' }, { value: 'Comrades 38½h', tip: 'Comrades Co-op' }],
+
           parts: [
-            { label: 'Final Fantasy XV: Pocket Edition (2018)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV:_Pocket_Edition' },
+            { label: 'Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV' },
+            { label: 'Remake (2018)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV#Release', small: true },
           ],
-          descParts: [
-            { text: 'Abridged version in 10 chapters retelling the main XV (2016) game. Released as ' },
-            { emText: 'Final Fantasy XV: Pocket Edition HD' },
-            { text: ' on consoles. Some platforms use in-app purchases for the chapters.' },
+
+          description: [
+            'Takes place on the fictional world of Eos; aside from Insomnia, the capital of Lucis, all the world is dominated by the empire of Niflheim, who seek control of the magical Crystal protected by the Lucian royal family. On the eve of peace negotiations, Niflheim attacks the capital and steals the Crystal. Noctis Lucis Caelum, heir to the Lucian throne, goes on a quest to rescue the Crystal and defeat Niflheim.',
+            [
+              { text: 'Considered loosely connected to the ' },
+              { emText: 'Fabula Nova Crystallis – Final Fantasy XIII' },
+              { text: ' series, you can optionally play that series first. If you plan to watch the ' },
+              { emText: 'Kingsglaive: Final Fantasy XV (2016)' },
+              { text: ' movie, the best time is after finishing Chapter 1 of the game.' },
+            ],
+            [
+              { text: 'This remake integrates the DLC Episode ' },
+              { emText: 'Gladiolus' },
+              { text: ', ' },
+              { emText: 'Prompto' },
+              { text: ', ' },
+              { emText: 'Ignis' },
+              { text: ', and co-op expansion ' },
+              { emText: 'Comrades' },
+              { text: ', and adds a new Insomnia City Ruins dungeon, an explorable royal vessel, an Armiger Unleashed ultimate ability, and a first-person camera mode. Released on console as ' },
+              { emText: 'Royal Edition' },
+              { text: ' and on PC as ' },
+              { emText: 'Windows Edition' },
+              { text: ', which adds 120 fps support. Comrades co-op play requires an additional online subscription on some platforms. The Chinese release tones down religious imagery and modifies a few character and enemy designs.' },
+            ]
           ],
-          tags: ['Optional'],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '7.5', midUrl: 'https://www.metacritic.com/game/final-fantasy-xv-royal-edition/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-xv-royal-edition/', sourceUrl: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/', sourceLabel: 'Steam; Very Positive' },
+
           languages: [
             { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN-GB', tip: 'English (British)' },
+            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
             { value: 'FR', tip: 'French — full audio', voice: true },
             { value: 'DE', tip: 'German — full audio', voice: true },
+            { value: 'RU', tip: 'Russian — full audio', voice: true },
             { value: 'IT', tip: 'Italian — text only' },
             { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
+            { value: 'ES-419', tip: 'Spanish (Latin America) — text only' },
             { value: 'KO', tip: 'Korean — text only' },
             { value: 'PT-BR', tip: 'Portuguese (Brazil) — text only' },
-            { value: 'RU', tip: 'Russian — text only' },
             { value: 'ZH-CN', tip: 'Simplified Chinese — text only' },
-            { value: 'ES-419', tip: 'Spanish (Latin America) — text only' },
-            { value: 'FR-CA', tip: 'French (Canada)' },
             { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
-            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
           ],
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '79', source: '6.1', url: 'https://www.metacritic.com/game/final-fantasy-xv-pocket-edition/', sourceUrl: 'https://www.metacritic.com/game/final-fantasy-xv-pocket-edition/', sourceLabel: 'Metacritic User Score' },
-          storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv-pocket-edition',
+
+          storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
+
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: 'https://apps.microsoft.com/detail/9mvr4t7znq1t' }],
-            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-xv-pocket-edition-hd-switch/' }],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-xv-pocket-edition-hd-switch/' }],
+            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5' }],
+            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/' }],
+            [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
+            [{ icon: null, iconImg: 'images/platforms/playstation-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
+            [{ icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
+            [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
             [
-              { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA12651_00-0000000000000001' },
-              { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA12651_00-0000000000000001' },
-            ],
-            [
-              { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-pocket-edition-hd/c0wqrr1pp63d' },
-              { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-pocket-edition-hd/c0wqrr1pp63d' },
-            ],
-            [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20playthrough' },
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20playthrough' },
             ],
           ],
-        },
-        extras: [
-          {
+
+          alt: {
             parts: [
-              { label: 'Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV' },
+              { label: 'Final Fantasy XV: Pocket Edition (2018)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV:_Pocket_Edition' },
             ],
-            description: 'The original release.',
-            languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
-            helpWanted: true,
+            description: [[
+              { text: 'Abridged version in 10 chapters retelling the main XV (2016) game. Released as ' },
+              { emText: 'Final Fantasy XV: Pocket Edition HD' },
+              { text: ' on consoles. Some platforms use in-app purchases for the chapters.' },
+            ]],
+            tags: ['Optional'],
+            languages: [
+              { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
+              { value: 'EN-GB', tip: 'English (British)' },
+              { value: 'FR', tip: 'French — full audio', voice: true },
+              { value: 'DE', tip: 'German — full audio', voice: true },
+              { value: 'IT', tip: 'Italian — text only' },
+              { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
+              { value: 'KO', tip: 'Korean — text only' },
+              { value: 'PT-BR', tip: 'Portuguese (Brazil) — text only' },
+              { value: 'RU', tip: 'Russian — text only' },
+              { value: 'ZH-CN', tip: 'Simplified Chinese — text only' },
+              { value: 'ES-419', tip: 'Spanish (Latin America) — text only' },
+              { value: 'FR-CA', tip: 'French (Canada)' },
+              { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
+              { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
+            ],
+            rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '79', source: '6.1', url: 'https://www.metacritic.com/game/final-fantasy-xv-pocket-edition/', sourceUrl: 'https://www.metacritic.com/game/final-fantasy-xv-pocket-edition/', sourceLabel: 'Metacritic User Score' },
+            storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv-pocket-edition',
             platformGroups: [
-              [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4', noUrl: true }],
+              [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: 'https://apps.microsoft.com/detail/9mvr4t7znq1t' }],
+              [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', noUrl: true }],
+              [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', noUrl: true }],
+              [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-xv-pocket-edition-hd-switch/' }],
+              [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-xv-pocket-edition-hd-switch/' }],
               [
-                { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Physical)', noUrl: true },
-                { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Xbox One compatibility)', noUrl: true },
+                { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA12651_00-0000000000000001' },
+                { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA12651_00-0000000000000001' },
+              ],
+              [
+                { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-pocket-edition-hd/c0wqrr1pp63d' },
+                { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-pocket-edition-hd/c0wqrr1pp63d' },
+              ],
+              [
+                { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20game%20movie' },
+                { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20story%20recap' },
+                { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20playthrough' },
               ],
             ],
           },
-        ] },
-        { title: 'Final Fantasy XV Prologue: Parting Ways', releaseDate: '2016-11-01', chronoOrder: -1200, recommendedOrder: 280, tags: ['Optional', 'Prequel', 'Audio drama'], mediaType: 'Audio',
-        parts: [
-          { label: 'Final Fantasy XV Prologue: Parting Ways (2016)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_~Tabidatsu_Mono,_Nokoru_Mono~', italic: true },
-          { label: 'Radio drama', url: null, small: true },
-        ],
-        desc2First: true,
-        desc2Parts: [
-          { text: 'Noctis and his friends were doing just before the events of ' },
-          { emText: 'XV (2016)' },
-          { text: ', as Noctis heads to the Citadel to discuss his upcoming journey to Altissia for his wedding to Lunafreya. Also known as ' },
-          { emText: 'Final Fantasy XV Prologue ~Tabidatsu Mono, Nokoru Mono~' },
-          { text: '.' },
-        ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/compact-disc.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'Compact Disc (JP)', jpTag: true, noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Audio', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Prologue%3A%20Parting%20Ways' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Prologue%3A%20Parting%20Ways%20story%20recap' }],
-        ],
-        alt: {
-          tags: ['Optional', 'Prequel', 'Web Novel', 'Free'],
+
+          extras: [
+            {
+              parts: [
+                { label: 'Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV' },
+              ],
+              description: ['The original release.'],
+              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+              helpWanted: true,
+              platformGroups: [
+                [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4', noUrl: true }],
+                [
+                  { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Physical)', noUrl: true },
+                  { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Xbox One compatibility)', noUrl: true },
+                ],
+              ],
+            },
+          ]
+        },
+        {
+          title: 'Final Fantasy XV Prologue: Parting Ways',
+          releaseDate: '2016-11-01',
+          chronoOrder: -1200,
+          recommendedOrder: 280,
+          tags: ['Optional', 'Prequel', 'Audio drama'],
+          mediaType: 'Audio',
+
           parts: [
-            { label: 'Final Fantasy XV Prologue: Parting Ways ~Book~ (2016)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_Parting_Ways' },
-            { label: 'Book', url: null, small: true },
+            { label: 'Final Fantasy XV Prologue: Parting Ways (2016)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_~Tabidatsu_Mono,_Nokoru_Mono~', italic: true },
+            { label: 'Radio drama', url: null, small: true },
           ],
-          description: "An official English translation of the Japan-only audio drama CD as a free web novel.",
-          languages: [
-            { value: 'EN', tip: 'English', native: true, url: 'https://www.goodreads.com/book/show/33232393-final-fantasy-xv-prologue-parting-ways' },
-            { value: 'IT', tip: 'Italian', url: 'https://www.goodreads.com/book/show/60437037-final-fantasy-xv-prologo--strade-che-si-dividono-' },
-          ],
-          rating: { scoreLabelText: 'Goodreads', score: '3.76', url: 'https://www.goodreads.com/book/show/33232393-final-fantasy-xv-prologue-parting-ways', single: true, sourceLabel: 'Goodreads' },
-          length: '48p',
+
+          description: [[
+            { text: 'Noctis and his friends were doing just before the events of ' },
+            { emText: 'XV (2016)' },
+            { text: ', as Noctis heads to the Citadel to discuss his upcoming journey to Altissia for his wedding to Lunafreya. Also known as ' },
+            { emText: 'Final Fantasy XV Prologue ~Tabidatsu Mono, Nokoru Mono~' },
+            { text: '.' },
+          ]],
+
+          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
+
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf' }],
+            [{ icon: null, iconImg: 'images/platforms/compact-disc.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'Compact Disc (JP)', jpTag: true, noUrl: true }],
+            [{ icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Audio', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Prologue%3A%20Parting%20Ways' }],
+            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Prologue%3A%20Parting%20Ways%20story%20recap' }],
           ],
-        } },
-        { title: 'Kingsglaive: Final Fantasy XV', releaseDate: '2016-07-09', chronoOrder: -1000, recommendedOrder: 300, tags: ['Tie-in', 'Movie'], mediaType: 'Movie',
-        parts: [
-          { label: 'Kingsglaive: Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Kingsglaive:_Final_Fantasy_XV' },
-          { label: 'movie', url: null, small: true },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'If you plan to play ' },
-          { emText: 'XV (2016)' },
-          { text: ', do chapter 1 of the game first before watching this movie to avoid spoiling early game reveals. Then come back and watch it.' },
-        ],
-        desc3Parts: [
-          { text: 'Kingsglaive runs parallel with the events in the beginning of ' },
-          { emText: 'XV' },
-          { text: ', focusing on Regis Lucis Caelum CXIII, the father of main character Noctis. The main protagonists are from the Kingsglaive, an elite combat corps who share Regis\'s magical powers and defend the kingdom of Lucis and its Crystal from the invading empire of Niflheim.' },
-        ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
-        helpWanted: true,
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '6.7', url: 'https://www.imdb.com/title/tt5595168/', single: true, sourceLabel: 'IMDb' },
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/dvd.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'DVD', noUrl: true },
-            { icon: null, iconImg: 'images/platforms/blu-ray.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'Blu-ray', noUrl: true },
-            { icon: null, iconImg: 'images/platforms/cast.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Digital Streaming', noUrl: true },
+
+          alt: {
+            tags: ['Optional', 'Prequel', 'Web Novel', 'Free'],
+            parts: [
+              { label: 'Final Fantasy XV Prologue: Parting Ways ~Book~ (2016)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_Parting_Ways' },
+              { label: 'Book', url: null, small: true },
+            ],
+            description: [
+              'An official English translation of the Japan-only audio drama CD as a free web novel.'
+            ],
+            languages: [
+              { value: 'EN', tip: 'English', native: true, url: 'https://www.goodreads.com/book/show/33232393-final-fantasy-xv-prologue-parting-ways' },
+              { value: 'IT', tip: 'Italian', url: 'https://www.goodreads.com/book/show/60437037-final-fantasy-xv-prologo--strade-che-si-dividono-' },
+            ],
+            rating: { scoreLabelText: 'Goodreads', score: '3.76', url: 'https://www.goodreads.com/book/show/33232393-final-fantasy-xv-prologue-parting-ways', single: true, sourceLabel: 'Goodreads' },
+            length: '48p',
+            platformGroups: [
+              [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf' }],
+            ],
+          }
+        },
+        {
+          title: 'Kingsglaive: Final Fantasy XV',
+          releaseDate: '2016-07-09',
+          chronoOrder: -1000,
+          recommendedOrder: 300,
+          tags: ['Tie-in', 'Movie'],
+          mediaType: 'Movie',
+
+          parts: [
+            { label: 'Kingsglaive: Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Kingsglaive:_Final_Fantasy_XV' },
+            { label: 'movie', url: null, small: true },
           ],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingsglaive%20Final%20Fantasy%20XV%20story%20recap' }],
-        ] },
+
+          description: [[
+            { text: 'If you plan to play ' },
+            { emText: 'XV (2016)' },
+            { text: ', do chapter 1 of the game first before watching this movie to avoid spoiling early game reveals. Then come back and watch it.' },
+          ], [
+            { text: 'Kingsglaive runs parallel with the events in the beginning of ' },
+            { emText: 'XV' },
+            { text: ', focusing on Regis Lucis Caelum CXIII, the father of main character Noctis. The main protagonists are from the Kingsglaive, an elite combat corps who share Regis\'s magical powers and defend the kingdom of Lucis and its Crystal from the invading empire of Niflheim.' },
+          ]],
+
+          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          helpWanted: true,
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '6.7', url: 'https://www.imdb.com/title/tt5595168/', single: true, sourceLabel: 'IMDb' },
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/dvd.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'DVD', noUrl: true },
+              { icon: null, iconImg: 'images/platforms/blu-ray.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'Blu-ray', noUrl: true },
+              { icon: null, iconImg: 'images/platforms/cast.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Digital Streaming', noUrl: true },
+            ],
+            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingsglaive%20Final%20Fantasy%20XV%20story%20recap' }],
+          ]
+        },
         { title: 'Final Fantasy XV: Episode Gladiolus DLC', helpWanted: true, releaseDate: '2017-03-28', chronoOrder: 500, recommendedOrder: 310, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '1½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy XV: Episode Gladiolus (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
         ],
-        description: 'Gladiolus Amicitia as the player character.',
+        description: ['Gladiolus Amicitia as the player character.'],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '59', source: '6.8', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-gladiolus/', sourceUrl: 'https://www.metacritic.com/game/final-fantasy-xv-episode-gladiolus/', sourceLabel: 'Metacritic User Score' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
         platformGroups: [
@@ -241,7 +283,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           { label: 'Final Fantasy XV: Episode Prompto (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
         ],
-        description: 'Takes place during a late-game narrative gap and follows Prompto Argentum as the player character, with the gameplay shifting towards third-person shooting and stealth-based mechanics.',
+        description: [
+          'Takes place during a late-game narrative gap and follows Prompto Argentum as the player character, with the gameplay shifting towards third-person shooting and stealth-based mechanics.'
+        ],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '65', source: '7.0', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-prompto/', sourceUrl: 'https://www.metacritic.com/game/final-fantasy-xv-episode-prompto/', sourceLabel: 'Metacritic User Score' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
         platformGroups: [
@@ -262,7 +306,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           { label: 'Final Fantasy XV: Episode Ignis (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
         ],
-        description: 'Follows Ignis Scientia as he allies with the Imperial commander Ravus Nox Fleuret to protect Noctis.',
+        description: [
+          'Follows Ignis Scientia as he allies with the Imperial commander Ravus Nox Fleuret to protect Noctis.'
+        ],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '8.1', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-ignis/', single: true, sourceLabel: 'Metacritic User Score' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
         platformGroups: [
@@ -283,7 +329,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           { label: 'Final Fantasy XV: Episode Ardyn – Prologue (2019)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Episode_Ardyn_%E2%80%93_Prologue' },
           { label: 'video', url: null, small: true },
         ],
-        description: "Details the background of Ardyn Izunia from 2,000 years ago in Eos' history when he used to work as a healer. Closed captioning is available.",
+        description: [
+          'Details the background of Ardyn Izunia from 2,000 years ago in Eos\' history when he used to work as a healer. Closed captioning is available.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese — audio', native: true, voice: true }, { value: 'EN', tip: 'English — subtitles' }],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '6.5', url: 'https://www.imdb.com/title/tt9860590/', single: true, sourceLabel: 'IMDb' },
         platformGroups: [
@@ -295,7 +343,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           { label: 'Final Fantasy XV: Episode Ardyn (2019)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
         ],
-        description: 'Set thirty years prior to the main game, Episode Ardyn details how Ardyn was discovered by the Empire of Niflheim and began his plot of revenge against the Lucian bloodline.',
+        description: [
+          'Set thirty years prior to the main game, Episode Ardyn details how Ardyn was discovered by the Empire of Niflheim and began his plot of revenge against the Lucian bloodline.'
+        ],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '60', midScore: '8.1', midUrl: 'https://www.metacritic.com/game/final-fantasy-xv-episode-ardyn/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-ardyn/', sourceUrl: 'https://store.steampowered.com/app/977610/FINAL_FANTASY_XV_EPISODE_ARDYN/', sourceLabel: 'Steam; Very Positive' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
         platformGroups: [
@@ -313,72 +363,93 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ardyn%20playthrough' },
           ],
         ] },
-        { title: 'Platinum Demo \u2013 Final Fantasy XV Prologue', releaseDate: '2016-03-30 20', chronoOrder: -3000, recommendedOrder: 500, tags: ['Optional', 'Demo', 'Prologue', 'Terminated'], mediaType: 'Game', lengthParts: [{ value: '34min', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '57min', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '1h', tip: 'Completionist' }],
-        parts: [
-          { label: 'Platinum Demo \u2013 Final Fantasy XV Prologue (2016)', url: 'https://en.wikipedia.org/wiki/Development_of_Final_Fantasy_XV#Demos' },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'Meant as a prologue to ' },
-          { emText: 'XV (2016)' },
-          { text: '. Set in a dream world after Noctis is gravely wounded as a child, it follows his journey back to consciousness, guided by a creature called Carbuncle that protects Noctis.' },
-        ],
-        desc3Parts: [
-          { text: 'Due to it being terminated, it is recommended to watch a fan story recap or playthrough for story elements.' },
-        ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
-        helpWanted: true,
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '6.5', url: 'https://www.metacritic.com/game/platinum-demo-final-fantasy-xv/', single: true, sourceLabel: 'Metacritic User Score' },
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PS4; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-          [
-            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Xbox One compatibility); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+        {
+          title: 'Platinum Demo \u2013 Final Fantasy XV Prologue',
+          releaseDate: '2016-03-30 20',
+          chronoOrder: -3000,
+          recommendedOrder: 500,
+          tags: ['Optional', 'Demo', 'Prologue', 'Terminated'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '34min', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '57min', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '1h', tip: 'Completionist' }],
+
+          parts: [
+            { label: 'Platinum Demo \u2013 Final Fantasy XV Prologue (2016)', url: 'https://en.wikipedia.org/wiki/Development_of_Final_Fantasy_XV#Demos' },
           ],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20playthrough' },
+
+          description: [[
+            { text: 'Meant as a prologue to ' },
+            { emText: 'XV (2016)' },
+            { text: '. Set in a dream world after Noctis is gravely wounded as a child, it follows his journey back to consciousness, guided by a creature called Carbuncle that protects Noctis.' },
+          ], [
+            { text: 'Due to it being terminated, it is recommended to watch a fan story recap or playthrough for story elements.' },
+          ]],
+
+          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          helpWanted: true,
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '6.5', url: 'https://www.metacritic.com/game/platinum-demo-final-fantasy-xv/', single: true, sourceLabel: 'Metacritic User Score' },
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PS4; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [
+              { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Xbox One compatibility); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+            ],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20playthrough' },
+            ],
+          ]
+        },
+        {
+          title: 'A King\u2019s Tale: Final Fantasy XV',
+          releaseDate: '2016-11-29 20',
+          chronoOrder: -4000,
+          recommendedOrder: 600,
+          tags: ['Optional', 'Prequel', 'Spin-off', 'Beat \u2019em up'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '1½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '5h', tip: 'Completionist' }],
+
+          parts: [
+            { label: 'A King\u2019s Tale: Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#A_King\'s_Tale:_Final_Fantasy_XV' },
           ],
-        ] },
-        { title: 'A King\u2019s Tale: Final Fantasy XV', releaseDate: '2016-11-29 20', chronoOrder: -4000, recommendedOrder: 600, tags: ['Optional', 'Prequel', 'Spin-off', 'Beat \u2019em up'], mediaType: 'Game', lengthParts: [{ value: '1½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '5h', tip: 'Completionist' }],
-        parts: [
-          { label: 'A King\u2019s Tale: Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#A_King\'s_Tale:_Final_Fantasy_XV' },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'Follows the exploits of Regis Lucis Caelum CXIII, the king of Lucis and father of Noctis thirty years before ' },
-          { emText: 'XV (2016)' },
-          { text: '\u2019s events. Also known as ' },
-          { emText: "A King's Tale: Final Fantasy XV" },
-          { text: ' (straight apostrophe).' },
-        ],
-        languages: [{ value: 'EN-US', tip: 'English (United States) — audio', native: true, voice: true }],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '65', source: '6.3', url: 'https://www.metacritic.com/game/a-kings-tale-final-fantasy-xv/', sourceUrl: 'https://www.metacritic.com/game/a-kings-tale-final-fantasy-xv/', sourceLabel: 'Metacritic User Score' },
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA05932_00-AKINGSTALEFFXV00' },
-            { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA05932_00-AKINGSTALEFFXV00' },
-          ],
-          [
-            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Digital)', url: 'https://www.xbox.com/games/store/a-kings-tale-final-fantasy-xv/bw0d9lh9gg6d' },
-            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/a-kings-tale-final-fantasy-xv/bw0d9lh9gg6d' },
-          ],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20playthrough' },
-          ],
-        ] },
+
+          description: [[
+            { text: 'Follows the exploits of Regis Lucis Caelum CXIII, the king of Lucis and father of Noctis thirty years before ' },
+            { emText: 'XV (2016)' },
+            { text: '\u2019s events. Also known as ' },
+            { emText: "A King's Tale: Final Fantasy XV" },
+            { text: ' (straight apostrophe).' },
+          ]],
+
+          languages: [{ value: 'EN-US', tip: 'English (United States) — audio', native: true, voice: true }],
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '65', source: '6.3', url: 'https://www.metacritic.com/game/a-kings-tale-final-fantasy-xv/', sourceUrl: 'https://www.metacritic.com/game/a-kings-tale-final-fantasy-xv/', sourceLabel: 'Metacritic User Score' },
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA05932_00-AKINGSTALEFFXV00' },
+              { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA05932_00-AKINGSTALEFFXV00' },
+            ],
+            [
+              { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Digital)', url: 'https://www.xbox.com/games/store/a-kings-tale-final-fantasy-xv/bw0d9lh9gg6d' },
+              { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/a-kings-tale-final-fantasy-xv/bw0d9lh9gg6d' },
+            ],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20playthrough' },
+            ],
+          ]
+        },
         { title: 'Monster of the Deep: Final Fantasy XV', releaseDate: '2017-11-21', chronoOrder: 1000, recommendedOrder: 700, tags: ['Optional', 'Spin-off', 'Simulation', 'VR'], mediaType: 'Game', lengthParts: [{ value: '3½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '5½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '11½h', tip: 'Completionist' }],
         parts: [
           { label: 'Monster of the Deep: Final Fantasy XV (2017)', url: 'https://en.wikipedia.org/wiki/Monster_of_the_Deep:_Final_Fantasy_XV' },
         ],
-        descParts: [
+        description: [[
           { text: 'Players interact with the four main characters of ' },
           { emText: 'XV' },
           { text: ' while taking part in fishing around a variety of locations.' },
-        ],
+        ]],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '62', source: '5.9', url: 'https://www.metacritic.com/game/monster-of-the-deep-final-fantasy-xv/', sourceUrl: 'https://www.metacritic.com/game/monster-of-the-deep-final-fantasy-xv/', sourceLabel: 'Metacritic User Score' },
@@ -396,7 +467,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         parts: [
           { label: 'Final Fantasy XV: A New Empire (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV:_A_New_Empire' },
         ],
-        description: 'Focused on the development of Insomnia as a kingdom. Due to it being terminated, it is recommended to watch the official clips and/or a fan story recap or playthrough for story elements.',
+        description: [
+          'Focused on the development of Insomnia as a kingdom. Due to it being terminated, it is recommended to watch the official clips and/or a fan story recap or playthrough for story elements.'
+        ],
         languages: [{ value: 'EN', tip: 'English', native: true }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
         platformGroups: [
@@ -415,11 +488,11 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         parts: [
           { label: 'Final Fantasy XV: War for Eos (2022)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_War_for_Eos', italic: true },
         ],
-        descParts: [
+        description: [[
           { text: 'Picking up where ' },
           { emText: 'XV: A New Empire (2017)' },
           { text: " left off, focuses on the rebuilding of Insomnia after the Niflheim Empire's attack. Game is terminated." },
-        ],
+        ]],
         languages: [{ value: '…?', tip: 'Unknown languages' }],
         helpWanted: true,
         platformGroups: [
@@ -433,100 +506,111 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20War%20for%20Eos%20playthrough' },
           ],
         ] },
-        { title: "King's Knight", releaseDate: '1986-09-18', chronoOrder: -3100, recommendedOrder: 1000, tags: ['Optional', 'Tie-in', 'Scrolling shooter', 'Referenced'], mediaType: 'Game',
-        parts: [
-          { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
-        ],
-        desc2First: true,
-        desc2Parts: [
-          { text: 'Retroactively put inside the ' },
-          { emText: 'Final Fantasy XV' },
-          { text: ' universe after one of the characters mentions it being their favorite game. You can play it as a tie-in curiosity but its story does not relate directly to ' },
-          { emText: 'XV' },
-          { text: '. It was briefly re-made as ' },
-          { emLinkText: "King's Knight: Wrath of the Dark Dragon (2017)", emLinkUrl: "https://en.wikipedia.org/wiki/King%27s_Knight#Remake" },
-          { text: ' as an official tie-in but that version was terminated.' },
-        ],
-        description: 'Princess Claire of Olthea has been kidnapped in the Kingdom of Izander, and the player must choose one of the four heroes to train and set forth to attack Gargatua Castle, defeat the evil dragon Tolfida and rescue the princess.',
-        descMidParts: [
-          { text: 'This is the original release, and the recommended way to play — the versions below are contemporary computer ports or a since-terminated mobile remake, not enhancements.' },
-        ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
-        helpWanted: true,
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/nintendo-nes-fc.svg', iconSize: 9.25, imgStyle: 'width: auto; height: 9.25px;', name: 'Nintendo Entertainment System (Famicom; Physical)', noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/nintendo-wii.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/nintendo-wii-u.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true, noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true, noUrl: true }],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4 },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4 },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)' },
+        {
+          title: "King's Knight",
+          releaseDate: '1986-09-18',
+          chronoOrder: -3100,
+          recommendedOrder: 1000,
+          tags: ['Optional', 'Tie-in', 'Scrolling shooter', 'Referenced'],
+          mediaType: 'Game',
+
+          parts: [
+            { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
           ],
-        ],
-        alt: {
-          extras: [
-            {
-              parts: [
-                { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
-                { label: 'Remake (2017)', url: 'https://en.wikipedia.org/wiki/King%27s_Knight#Remake', small: true },
-              ],
-              descParts: [
-                { text: 'This remake adds a new camera perspective and an orchestral version of the former\'s chiptune soundtrack. It also add 4 player multiplayer. Released as ' },
-                { emText: 'King\'s Knight: Wrath of the Dark Dragon' },
-                { text: ' and marketed as a direct tie-in with XV.' },
-              ],
-              languages: [{ value: '…?', tip: 'Unknown languages' }],
-              helpWanted: true,
-              platformGroups: [
-                [
-                  { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
-                  { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
+
+          description: [[
+            { text: 'Retroactively put inside the ' },
+            { emText: 'Final Fantasy XV' },
+            { text: ' universe after one of the characters mentions it being their favorite game. You can play it as a tie-in curiosity but its story does not relate directly to ' },
+            { emText: 'XV' },
+            { text: '. It was briefly re-made as ' },
+            { emLinkText: "King's Knight: Wrath of the Dark Dragon (2017)", emLinkUrl: "https://en.wikipedia.org/wiki/King%27s_Knight#Remake" },
+            { text: ' as an official tie-in but that version was terminated.' },
+          ], 'Princess Claire of Olthea has been kidnapped in the Kingdom of Izander, and the player must choose one of the four heroes to train and set forth to attack Gargatua Castle, defeat the evil dragon Tolfida and rescue the princess.', [
+            { text: 'This is the original release, and the recommended way to play — the versions below are contemporary computer ports or a since-terminated mobile remake, not enhancements.' },
+          ]],
+
+          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          helpWanted: true,
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/nintendo-nes-fc.svg', iconSize: 9.25, imgStyle: 'width: auto; height: 9.25px;', name: 'Nintendo Entertainment System (Famicom; Physical)', noUrl: true }],
+            [{ icon: null, iconImg: 'images/platforms/nintendo-wii.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ icon: null, iconImg: 'images/platforms/nintendo-wii-u.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true, noUrl: true }],
+            [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true, noUrl: true }],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4 },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4 },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)' },
+            ],
+          ],
+
+          alt: {
+            extras: [
+              {
+                parts: [
+                  { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
+                  { label: 'Remake (2017)', url: 'https://en.wikipedia.org/wiki/King%27s_Knight#Remake', small: true },
                 ],
-              ],
-            },
-            {
-              parts: [
-                { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
-                { label: 'Edit (1987)', url: "https://en.wikipedia.org/wiki/King's_Knight", small: true },
-              ],
-              descParts: [
-                { text: 'Released as ' },
-                { emText: "King's Knight Special" },
-                { text: '. Unclear whether this builds on the original Famicom release or carries over the improved graphics/audio from the MSX ' },
-                { emText: 'Remaster (1986)' },
-                { text: '.' },
-              ],
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }],
-              helpWanted: true,
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/pc8801.svg', iconSize: 8.875, imgStyle: 'width: auto; height: 8.875px;', suffix: 'mkII SR', suffixFontSize: '9.75px', suffixOffsetY: 1, name: 'NEC PC-8801mkII SR (Physical; Japan Only)', jpTag: true }],
-                [{ icon: null, iconImg: 'images/platforms/sharp-x1.svg', iconSize: 10.25, imgStyle: 'width: auto; height: 10.25px;', name: 'Sharp X1 (Physical; Japan Only)', jpTag: true }],
-              ],
-            },
-            {
-              parts: [
-                { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
-                { label: 'Remaster (1986)', url: 'https://en.wikipedia.org/wiki/King%27s_Knight#Development_and_release', small: true },
-              ],
-              description: 'Adds keyboard and joystick inputs, more sound channels with changed or improved sounds. Wider range of colors, updated graphics, new monster and boss designs, new UI sidebar. The MSX could not smoothly render vertical scrolling though, so movement can be described as "choppy".',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }],
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/msx.svg', iconSize: 12.73, imgStyle: 'width: auto; height: 12.73px;', name: 'MSX (Physical; Japan Only)', jpTag: true }],
-              ],
-            },
-          ],
-        } },
+                description: [[
+                  { text: 'This remake adds a new camera perspective and an orchestral version of the former\'s chiptune soundtrack. It also add 4 player multiplayer. Released as ' },
+                  { emText: 'King\'s Knight: Wrath of the Dark Dragon' },
+                  { text: ' and marketed as a direct tie-in with XV.' },
+                ]],
+                languages: [{ value: '…?', tip: 'Unknown languages' }],
+                helpWanted: true,
+                platformGroups: [
+                  [
+                    { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
+                    { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
+                  ],
+                ],
+              },
+              {
+                parts: [
+                  { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
+                  { label: 'Edit (1987)', url: "https://en.wikipedia.org/wiki/King's_Knight", small: true },
+                ],
+                description: [[
+                  { text: 'Released as ' },
+                  { emText: "King's Knight Special" },
+                  { text: '. Unclear whether this builds on the original Famicom release or carries over the improved graphics/audio from the MSX ' },
+                  { emText: 'Remaster (1986)' },
+                  { text: '.' },
+                ]],
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+                helpWanted: true,
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/pc8801.svg', iconSize: 8.875, imgStyle: 'width: auto; height: 8.875px;', suffix: 'mkII SR', suffixFontSize: '9.75px', suffixOffsetY: 1, name: 'NEC PC-8801mkII SR (Physical; Japan Only)', jpTag: true }],
+                  [{ icon: null, iconImg: 'images/platforms/sharp-x1.svg', iconSize: 10.25, imgStyle: 'width: auto; height: 10.25px;', name: 'Sharp X1 (Physical; Japan Only)', jpTag: true }],
+                ],
+              },
+              {
+                parts: [
+                  { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
+                  { label: 'Remaster (1986)', url: 'https://en.wikipedia.org/wiki/King%27s_Knight#Development_and_release', small: true },
+                ],
+                description: [
+                  'Adds keyboard and joystick inputs, more sound channels with changed or improved sounds. Wider range of colors, updated graphics, new monster and boss designs, new UI sidebar. The MSX could not smoothly render vertical scrolling though, so movement can be described as "choppy".'
+                ],
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/msx.svg', iconSize: 12.73, imgStyle: 'width: auto; height: 12.73px;', name: 'MSX (Physical; Japan Only)', jpTag: true }],
+                ],
+              },
+            ],
+          }
+        },
         { title: 'Final Fantasy XV: The Dawn of the Future', releaseDate: '2019-01-31', chronoOrder: 3500, recommendedOrder: 950, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '384p; H',
         parts: [
           { label: 'Final Fantasy XV: The Dawn of the Future (2019)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090006' },
           { label: 'Book', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'Follows Ardyn, Aranea, Lunafreya, and Noctis as each confronts fate in the aftermath of ' },
           { emText: 'XV' },
           { text: ", closing out the stories of the world's dawning after the game's events." },
-        ],
+        ]],
         languages: [
           { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/51116768-final-fantasy-xv' },
           { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/48565746-final-fantasy-xv' },
@@ -543,7 +627,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           { label: 'Final Fantasy XV Anthology Vol. 1 (2017)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology' },
           { label: 'Comic', url: null, small: true },
         ],
-        description: "An anthology of short manga centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum.",
+        description: [
+          'An anthology of short manga centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/36208245-final-fantasy-xv-official-comic-anthology-2017-7-27' }, { value: 'EN', tip: 'English (fan translation)' }],
         rating: { scoreLabelText: 'Goodreads', score: '4.23', url: 'https://www.goodreads.com/book/show/36208245-final-fantasy-xv-official-comic-anthology-2017-7-27', single: true, sourceLabel: 'Goodreads' },
         helpWanted: true,
@@ -557,7 +643,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           { label: 'Final Fantasy XV Anthology Vol.2 (2017)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology_2' },
           { label: 'Comic', url: null, small: true },
         ],
-        description: "A second anthology of short manga, again centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum.",
+        description: [
+          'A second anthology of short manga, again centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum.'
+        ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/42416261-final-fantasy-xv-official-comic-anthology-2' }],
         rating: { scoreLabelText: 'Goodreads', score: '4.57', url: 'https://www.goodreads.com/book/show/42416261-final-fantasy-xv-official-comic-anthology-2', single: true, sourceLabel: 'Goodreads' },
         helpWanted: true,

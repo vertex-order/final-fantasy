@@ -17,7 +17,9 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           { value: 'ZH-CN', tip: 'Simplified Chinese — text only' },
           { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
           { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
-        ], lengthParts: [{ value: '17½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '29h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '50½h', tip: 'Completionist' }], storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin', description: 'Warriors Jack, Ash and Jed venture forth to defeat Chaos and save their world. But not all is as it seems. Online co-op play may require an additional subscription on some platforms.', parts: [
+        ], lengthParts: [{ value: '17½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '29h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '50½h', tip: 'Completionist' }], storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin', description: [
+          'Warriors Jack, Ash and Jed venture forth to defeat Chaos and save their world. But not all is as it seems. Online co-op play may require an additional subscription on some platforms.'
+        ], parts: [
           { label: 'Stranger of Paradise: Final Fantasy Origin (2022)', url: 'https://en.wikipedia.org/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin' },
         ], rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '72', midScore: '6.6', midUrl: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin/', source: 'VP', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin/', sourceUrl: 'https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/', sourceLabel: 'Steam; Very Positive' },
         platformGroups: [
@@ -38,318 +40,399 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           ],
         ],
         platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin' },
-        { title: 'Stranger of Paradise: Trials of the Dragon King', releaseDate: '2022-07-20', chronoOrder: -2500, recommendedOrder: 510, tags: ['DLC', 'Optional'], mediaType: 'Game', lengthParts: [{ value: '7h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '11h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '13½h', tip: 'Completionist' }], storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin', parts: [
-          { label: 'Stranger of Paradise: Trials of the Dragon King (2022)', url: 'https://breezewiki.com/finalfantasy/wiki/Trials_of_the_Dragon_King' },
-          { label: 'DLC', url: null, small: true },
-        ],
-        desc2First: true,
-        desc2Parts: [
-          { text: 'Immediately follows ' },
-          { emText: 'Stranger of Paradise: Final Fantasy Origin (2022)' },
-          { text: '. The warriors of light meet the Dragon King Bahamut.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '8.5', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-trials/', single: true, sourceLabel: 'Metacritic' },
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
-          [{ icon: null, iconImg: 'images/platforms/epic-games.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Epic Games Store (PC)', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (Digital; PS4 compat)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
-          [
-            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One' },
-            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S' },
+        {
+          title: 'Stranger of Paradise: Trials of the Dragon King',
+          releaseDate: '2022-07-20',
+          chronoOrder: -2500,
+          recommendedOrder: 510,
+          tags: ['DLC', 'Optional'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '7h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '11h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '13½h', tip: 'Completionist' }],
+          storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin',
+
+          parts: [
+            { label: 'Stranger of Paradise: Trials of the Dragon King (2022)', url: 'https://breezewiki.com/finalfantasy/wiki/Trials_of_the_Dragon_King' },
+            { label: 'DLC', url: null, small: true },
           ],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20playthrough' },
+
+          description: [[
+            { text: 'Immediately follows ' },
+            { emText: 'Stranger of Paradise: Final Fantasy Origin (2022)' },
+            { text: '. The warriors of light meet the Dragon King Bahamut.' },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '8.5', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-trials/', single: true, sourceLabel: 'Metacritic' },
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
+            [{ icon: null, iconImg: 'images/platforms/epic-games.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Epic Games Store (PC)', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' }],
+            [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
+            [{ icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (Digital; PS4 compat)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
+            [
+              { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One' },
+              { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S' },
+            ],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20playthrough' },
+            ],
           ],
-        ],
-        platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin' },
-        { title: 'Stranger of Paradise: Wanderer of the Rift', releaseDate: '2022-10-26', chronoOrder: -2000, recommendedOrder: 520, tags: ['DLC', 'Optional'], mediaType: 'Game', lengthParts: [{ value: '7h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '17½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '20h', tip: 'Completionist' }], storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin', parts: [
-          { label: 'Stranger of Paradise: Wanderer of the Rift (2022)', url: 'https://breezewiki.com/finalfantasy/wiki/Wanderer_of_the_Rift' },
-          { label: 'DLC', url: null, small: true },
-        ],
-        desc2First: true,
-        desc2Parts: [
-          { text: 'Follows ' },
-          { emText: 'Trials of the Dragon King (2022)' },
-          { text: ' as Jack investigates an incursion into their world.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '5.8', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-wanderer/', single: true, sourceLabel: 'Metacritic' },
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
-          [{ icon: null, iconImg: 'images/platforms/epic-games.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Epic Games Store (PC)', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (Digital; PS4 compat)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
-          [
-            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One' },
-            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S' },
+
+          platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin'
+        },
+        {
+          title: 'Stranger of Paradise: Wanderer of the Rift',
+          releaseDate: '2022-10-26',
+          chronoOrder: -2000,
+          recommendedOrder: 520,
+          tags: ['DLC', 'Optional'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '7h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '17½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '20h', tip: 'Completionist' }],
+          storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin',
+
+          parts: [
+            { label: 'Stranger of Paradise: Wanderer of the Rift (2022)', url: 'https://breezewiki.com/finalfantasy/wiki/Wanderer_of_the_Rift' },
+            { label: 'DLC', url: null, small: true },
           ],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20playthrough' },
+
+          description: [[
+            { text: 'Follows ' },
+            { emText: 'Trials of the Dragon King (2022)' },
+            { text: ' as Jack investigates an incursion into their world.' },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '5.8', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-wanderer/', single: true, sourceLabel: 'Metacritic' },
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
+            [{ icon: null, iconImg: 'images/platforms/epic-games.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Epic Games Store (PC)', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' }],
+            [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
+            [{ icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (Digital; PS4 compat)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
+            [
+              { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One' },
+              { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S' },
+            ],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20playthrough' },
+            ],
           ],
-        ],
-        platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin' },
-        { title: 'Stranger of Paradise: Different Future', releaseDate: '2023-01-27', chronoOrder: -1000, recommendedOrder: 530, tags: ['DLC', 'Optional'], mediaType: 'Game', lengthParts: [{ value: '3½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Completionist' }], storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin', parts: [
-          { label: 'Stranger of Paradise: Different Future (2023)', url: 'https://breezewiki.com/finalfantasy/wiki/Different_Future' },
-          { label: 'DLC', url: null, small: true },
-        ],
-        desc2First: true,
-        desc2Parts: [
-          { text: 'Follows ' },
-          { emText: 'Wanderer of the Rift (2022)' },
-          { text: ', Jack must put an end to the machinations of the Lufenian Nil, who threatens their reality.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '9.5', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-2023/', single: true, sourceLabel: 'Metacritic' },
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
-          [{ icon: null, iconImg: 'images/platforms/epic-games.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Epic Games Store (PC)', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (Digital; PS4 compat)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
-          [
-            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One' },
-            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S' },
+
+          platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin'
+        },
+        {
+          title: 'Stranger of Paradise: Different Future',
+          releaseDate: '2023-01-27',
+          chronoOrder: -1000,
+          recommendedOrder: 530,
+          tags: ['DLC', 'Optional'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '3½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Completionist' }],
+          storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin',
+
+          parts: [
+            { label: 'Stranger of Paradise: Different Future (2023)', url: 'https://breezewiki.com/finalfantasy/wiki/Different_Future' },
+            { label: 'DLC', url: null, small: true },
           ],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20playthrough' },
+
+          description: [[
+            { text: 'Follows ' },
+            { emText: 'Wanderer of the Rift (2022)' },
+            { text: ', Jack must put an end to the machinations of the Lufenian Nil, who threatens their reality.' },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '9.5', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-2023/', single: true, sourceLabel: 'Metacritic' },
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
+            [{ icon: null, iconImg: 'images/platforms/epic-games.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Epic Games Store (PC)', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' }],
+            [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
+            [{ icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (Digital; PS4 compat)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
+            [
+              { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One' },
+              { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S' },
+            ],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20playthrough' },
+            ],
           ],
-        ],
-        platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin' },
-        { title: 'Final Fantasy I', releaseDate: '1987-12-18', chronoOrder: 0, recommendedOrder: 200, mainline: true, tags: [], mediaType: 'Game', lengthParts: [{ value: '15h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '17h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '18h', tip: 'Completionist' }],
-        languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'EN-US', tip: 'English (US)' },
-          { value: 'FR', tip: 'French' },
-          { value: 'DE', tip: 'German' },
-          { value: 'IT', tip: 'Italian' },
-          { value: 'KO', tip: 'Korean' },
-          { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
-          { value: 'RU', tip: 'Russian' },
-          { value: 'ZH-CN', tip: 'Simplified Chinese' },
-          { value: 'ES-ES', tip: 'Spanish (Spain)' },
-          { value: 'TH', tip: 'Thai' },
-          { value: 'ZH-TW', tip: 'Traditional Chinese' },
-        ],
-        parts: [
-          { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-          { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
-        ],
-        description: 'Four Warriors of Light depart on a quest to restore light to the crystals, defeat Chaos, and save their world. The first Final Fantasy game ever created.\n\nThis remaster has redrawn sprites, rearranged music, in-game maps, auto-battle, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
-        descMidParts: [
-          { text: 'Released as ' },
-          { emText: 'Final Fantasy Pixel Remaster' },
-          { text: '. Included in the ' },
-          { emText: 'Final Fantasy I-VI Bundle / Collection' },
-          { text: '. Also known as ' },
-          { emText: 'Final Fantasy+' },
-          { text: '.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '80', midScore: '7.0', midUrl: 'https://www.metacritic.com/game/final-fantasy/', source: 'OP', url: 'https://www.metacritic.com/game/final-fantasy-pixel-remaster/', sourceUrl: 'https://store.steampowered.com/app/1173770/FINAL_FANTASY/', sourceLabel: 'Steam; Overwhelmingly Positive' },
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/1173770/FINAL_FANTASY/' }],
-          [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR&' }],
-          [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy/id1492041278' }],
-          [{ icon: null, iconImg: 'images/platforms/apple-arcade.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Apple Arcade', url: 'https://apps.apple.com/app/final-fantasy/id6504607244' }],
-          [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-switch/' }],
-          [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-switch/' }],
-          [
-            { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA33817_00-FF1PS4APPNA00001' },
-            { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA33817_00-FF1PS4APPNA00001' },
+
+          platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin'
+        },
+        {
+          title: 'Final Fantasy I',
+          releaseDate: '1987-12-18',
+          chronoOrder: 0,
+          recommendedOrder: 200,
+          mainline: true,
+          tags: [],
+          mediaType: 'Game',
+          lengthParts: [{ value: '15h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '17h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '18h', tip: 'Completionist' }],
+
+          languages: [
+            { value: 'JA', tip: 'Japanese', native: true },
+            { value: 'EN-US', tip: 'English (US)' },
+            { value: 'FR', tip: 'French' },
+            { value: 'DE', tip: 'German' },
+            { value: 'IT', tip: 'Italian' },
+            { value: 'KO', tip: 'Korean' },
+            { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
+            { value: 'RU', tip: 'Russian' },
+            { value: 'ZH-CN', tip: 'Simplified Chinese' },
+            { value: 'ES-ES', tip: 'Spanish (Spain)' },
+            { value: 'TH', tip: 'Thai' },
+            { value: 'ZH-TW', tip: 'Traditional Chinese' },
           ],
-          [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' }],
-          [{ icon: null, iconImg: 'images/platforms/xbox-cloud.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' }],
-          [{ icon: null, iconImg: 'images/platforms/amazon.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Amazon App Store', url: 'https://www.amazon.com/dp/B0995BK9CG?' }],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20playthrough' },
+
+          parts: [
+            { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+            { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
           ],
-        ],
-        platformsUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
-        storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
-        alt: {
-          extras: [
-            {
-              parts: [
-                { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                { label: 'Fan Remake (2024)', url: 'https://www.rengames.us/ffr', small: true },
-              ],
-              tags: ['Unofficial fan project', 'Free'],
-              descParts: [
-                { text: "A fan-remake of Final Fantasy (1987) in the Unity game engine that fixes many of the original's bugs. Also includes an extra mode with extra gameplay content like new jobs. Released free-to-play via Discord as " },
-                { emText: 'Final Fantasy Renaissance' },
-                { text: '. Entry also found in our Fan Projects series.' },
-              ],
-              languages: [{ value: 'EN', tip: 'English' }],
-              storeUrl: 'https://www.rengames.us/ffr',
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: 'https://discord.com/invite/Kg8fVsJW' }],
-                [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20renaissance%20playthrough' }],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                { label: 'Remaster (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
-              ],
-              descPre: 'This remaster has 3D stereoscopic graphics; higher resolution 2D graphics, ',
-              abbrTerm: 'FMV',
-              abbrDef: 'Full Motion Video',
-              descPost: ' sequences, remixed soundtrack, additional dungeon from Remaster (2007); four additional dungeons, updated bestiary from Remaster (2004).',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }],
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo 3DS (Digital; Japan Only)', jpTag: true }],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                { label: 'Remaster (2012)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
-              ],
-              descPre: 'This remaster has higher resolution 2D graphics, ',
-              abbrTerm: 'FMV',
-              abbrDef: 'Full Motion Video',
-              descPost: ' sequences, remixed soundtrack from Remaster (2007). No bonus content.',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
-              helpWanted: true,
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (Digital); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                { label: 'Remaster (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
-              ],
-              descPre: 'This remaster has higher resolution 2D graphics, ',
-              abbrTerm: 'FMV',
-              abbrDef: 'Full Motion Video',
-              descPost: ' sequences, remixed soundtrack, additional dungeon; four additional dungeons, updated bestiary from Remaster (2004).',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
-              helpWanted: true,
-              emTermNotFirst: true,
-              emPre: 'Released as ',
-              emTerm: 'Final Fantasy Anniversary Edition',
-              emPost: '.',
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (Digital)' }],
-                [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (Physical)' }],
-                [{ icon: null, iconImg: 'images/platforms/windows-phone.svg', iconSize: 17.25, imgStyle: 'width: auto; height: 17.25px;', name: 'Windows Phone (Digital)' }],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                { label: 'Remaster (2004)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
-              ],
-              descParts: [
-                { text: 'This remaster adds a bonus dungeon and updates the bestiary. Released in the omnibus entry ' },
-                { emText: 'Final Fantasy I & II: Dawn of Souls (2004)' },
-                { text: '.' },
-              ],
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
-              helpWanted: true,
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/nintendo-game-boy-advance.svg', iconSize: 12.5, imgStyle: 'width: auto; height: 12.5px;', name: 'Game Boy Advance (Physical)' }],
-                [{ icon: null, iconImg: 'images/platforms/nintendo-wii-u.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                { label: 'Mobile (2004)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
-              ],
-              descParts: [
-                { text: 'Based on the original release, with all bonus content removed. Released as ' },
-                { emText: 'Final Fantasy Mobile' },
-                { text: '.' },
-              ],
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
-              helpWanted: true,
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'Mobile Phones (Digital); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                { label: 'Remaster (2002)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
-              ],
-              descPre: 'This remaster has redrawn graphics and updated backgrounds from Remaster (2000); ',
-              abbrTerm: 'FMV',
-              abbrDef: 'Full Motion Video',
-              descPost: ' sequences, remixed soundtrack, art galleries, memo save; May have slow menus.',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
-              helpWanted: true,
-              descTail: [
-                { text: ' Released in the omnibus entry ' },
-                { emText: 'Final Fantasy Origins (2002)' },
-                { text: '.' },
-              ],
-              platformGroups: [
-                [
-                  { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PSone compatibility; Digital)' },
-                  { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (PSone compatibility)' },
-                  { icon: null, iconImg: 'images/platforms/playstation1.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px;', name: 'PlayStation (PSone) (Physical)' },
-                  { icon: null, iconImg: 'images/platforms/playstation-vita.svg', iconSize: 8.49, imgStyle: 'width: auto; height: 8.49px;', name: 'PlayStation Vita (Digital)' },
-                  { icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP) (Digital)' },
+
+          description: [
+            'Four Warriors of Light depart on a quest to restore light to the crystals, defeat Chaos, and save their world. The first Final Fantasy game ever created.',
+            'This remaster has redrawn sprites, rearranged music, in-game maps, auto-battle, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
+            [
+              { text: 'Released as ' },
+              { emText: 'Final Fantasy Pixel Remaster' },
+              { text: '. Included in the ' },
+              { emText: 'Final Fantasy I-VI Bundle / Collection' },
+              { text: '. Also known as ' },
+              { emText: 'Final Fantasy+' },
+              { text: '.' },
+            ]
+          ],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '80', midScore: '7.0', midUrl: 'https://www.metacritic.com/game/final-fantasy/', source: 'OP', url: 'https://www.metacritic.com/game/final-fantasy-pixel-remaster/', sourceUrl: 'https://store.steampowered.com/app/1173770/FINAL_FANTASY/', sourceLabel: 'Steam; Overwhelmingly Positive' },
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' }],
+            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/1173770/FINAL_FANTASY/' }],
+            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR&' }],
+            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy/id1492041278' }],
+            [{ icon: null, iconImg: 'images/platforms/apple-arcade.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Apple Arcade', url: 'https://apps.apple.com/app/final-fantasy/id6504607244' }],
+            [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-switch/' }],
+            [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-switch/' }],
+            [
+              { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA33817_00-FF1PS4APPNA00001' },
+              { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA33817_00-FF1PS4APPNA00001' },
+            ],
+            [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' }],
+            [{ icon: null, iconImg: 'images/platforms/xbox-cloud.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' }],
+            [{ icon: null, iconImg: 'images/platforms/amazon.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Amazon App Store', url: 'https://www.amazon.com/dp/B0995BK9CG?' }],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20playthrough' },
+            ],
+          ],
+
+          platformsUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
+          storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
+
+          alt: {
+            extras: [
+              {
+                parts: [
+                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Fan Remake (2024)', url: 'https://www.rengames.us/ffr', small: true },
                 ],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                { label: 'Remaster (2000)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
-              ],
-              description: 'This remaster overhauls visuals and sound, and adds new cutscenes, a dash button, and quicksave.',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }],
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/wonderswan.svg', iconSize: 15.93, imgStyle: 'width: auto; height: 15.93px;', name: 'WonderSwan Color (Physical; Japan Only)', jpTag: true }],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                { label: 'Remaster (1989)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
-              ],
-              description: 'This remaster expands music and sound and slightly improves the graphics, but has slow loading times and choppy movement rendering.',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }],
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/msx2.svg', iconSize: 12.93, imgStyle: 'width: auto; height: 12.93px;', name: 'MSX2 (Physical; Japan Only)', jpTag: true }],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-              ],
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
-              descParts: [
-                { text: 'The original release. Release edits may include slight graphical or translation tweaks. On the ' },
-                { tipText: 'FC', tip: 'Nintendo Famicom' },
-                { jpTag: true },
-                { text: ', included in the omnibus release ' },
-                { emText: 'Final Fantasy I-II (1994)' },
-                { text: '.' },
-              ],
-              platformGroups: [
-                [
-                  { icon: null, iconImg: 'images/platforms/nintendo-nes-fc.svg', iconSize: 9.25, imgStyle: 'width: auto; height: 9.25px;', name: 'Nintendo Entertainment System (Famicom; Physical)' },
-                  { icon: null, iconImg: 'images/platforms/nintendo-nes-classic-edition.svg', iconSize: 9.61, imgStyle: 'width: auto; height: 9.61px;', name: 'Nintendo NES Classic Edition (outside Japan)', nonJpTag: true },
+                tags: ['Unofficial fan project', 'Free'],
+                description: [[
+                  { text: "A fan-remake of Final Fantasy (1987) in the Unity game engine that fixes many of the original's bugs. Also includes an extra mode with extra gameplay content like new jobs. Released free-to-play via Discord as " },
+                  { emText: 'Final Fantasy Renaissance' },
+                  { text: '. Entry also found in our Fan Projects series.' },
+                ]],
+                languages: [{ value: 'EN', tip: 'English' }],
+                storeUrl: 'https://www.rengames.us/ffr',
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: 'https://discord.com/invite/Kg8fVsJW' }],
+                  [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20renaissance%20playthrough' }],
                 ],
-                [
-                  { icon: null, iconImg: 'images/platforms/nintendo-wii.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
-                  { icon: null, iconImg: 'images/platforms/nintendo-wii-u.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true },
+              },
+              {
+                parts: [
+                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Remaster (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
                 ],
-                [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
-              ],
-            },
-          ],
-        } },
+
+                description: [[
+                  'This remaster has 3D stereoscopic graphics; higher resolution 2D graphics, ',
+                  {
+                    abbrTerm: 'FMV',
+                    abbrDef: 'Full Motion Video'
+                  },
+                  ' sequences, remixed soundtrack, additional dungeon from Remaster (2007); four additional dungeons, updated bestiary from Remaster (2004).'
+                ]],
+
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo 3DS (Digital; Japan Only)', jpTag: true }],
+                ]
+              },
+              {
+                parts: [
+                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Remaster (2012)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                ],
+
+                description: [['This remaster has higher resolution 2D graphics, ', {
+                  abbrTerm: 'FMV',
+                  abbrDef: 'Full Motion Video'
+                }, ' sequences, remixed soundtrack from Remaster (2007). No bonus content.']],
+
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                helpWanted: true,
+
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (Digital); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+                ]
+              },
+              {
+                parts: [
+                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Remaster (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                ],
+
+                description: [['This remaster has higher resolution 2D graphics, ', {
+                  abbrTerm: 'FMV',
+                  abbrDef: 'Full Motion Video'
+                }, ' sequences, remixed soundtrack, additional dungeon; four additional dungeons, updated bestiary from Remaster (2004).'], ['Released as ', {
+                  emText: 'Final Fantasy Anniversary Edition'
+                }, '.']],
+
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                helpWanted: true,
+
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (Digital)' }],
+                  [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (Physical)' }],
+                  [{ icon: null, iconImg: 'images/platforms/windows-phone.svg', iconSize: 17.25, imgStyle: 'width: auto; height: 17.25px;', name: 'Windows Phone (Digital)' }],
+                ]
+              },
+              {
+                parts: [
+                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Remaster (2004)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                ],
+                description: [[
+                  { text: 'This remaster adds a bonus dungeon and updates the bestiary. Released in the omnibus entry ' },
+                  { emText: 'Final Fantasy I & II: Dawn of Souls (2004)' },
+                  { text: '.' },
+                ]],
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                helpWanted: true,
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/nintendo-game-boy-advance.svg', iconSize: 12.5, imgStyle: 'width: auto; height: 12.5px;', name: 'Game Boy Advance (Physical)' }],
+                  [{ icon: null, iconImg: 'images/platforms/nintendo-wii-u.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                ],
+              },
+              {
+                parts: [
+                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Mobile (2004)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                ],
+                description: [[
+                  { text: 'Based on the original release, with all bonus content removed. Released as ' },
+                  { emText: 'Final Fantasy Mobile' },
+                  { text: '.' },
+                ]],
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                helpWanted: true,
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'Mobile Phones (Digital); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+                ],
+              },
+              {
+                parts: [
+                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Remaster (2002)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                ],
+
+                description: [[
+                  'This remaster has redrawn graphics and updated backgrounds from Remaster (2000); ',
+                  {
+                    abbrTerm: 'FMV',
+                    abbrDef: 'Full Motion Video'
+                  },
+                  ' sequences, remixed soundtrack, art galleries, memo save; May have slow menus.',
+                  { text: ' Released in the omnibus entry ' },
+                  { emText: 'Final Fantasy Origins (2002)' },
+                  { text: '.' }
+                ]],
+
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                helpWanted: true,
+
+                platformGroups: [
+                  [
+                    { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PSone compatibility; Digital)' },
+                    { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (PSone compatibility)' },
+                    { icon: null, iconImg: 'images/platforms/playstation1.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px;', name: 'PlayStation (PSone) (Physical)' },
+                    { icon: null, iconImg: 'images/platforms/playstation-vita.svg', iconSize: 8.49, imgStyle: 'width: auto; height: 8.49px;', name: 'PlayStation Vita (Digital)' },
+                    { icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP) (Digital)' },
+                  ],
+                ]
+              },
+              {
+                parts: [
+                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Remaster (2000)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                ],
+                description: [
+                  'This remaster overhauls visuals and sound, and adds new cutscenes, a dash button, and quicksave.'
+                ],
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/wonderswan.svg', iconSize: 15.93, imgStyle: 'width: auto; height: 15.93px;', name: 'WonderSwan Color (Physical; Japan Only)', jpTag: true }],
+                ],
+              },
+              {
+                parts: [
+                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Remaster (1989)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                ],
+                description: [
+                  'This remaster expands music and sound and slightly improves the graphics, but has slow loading times and choppy movement rendering.'
+                ],
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/msx2.svg', iconSize: 12.93, imgStyle: 'width: auto; height: 12.93px;', name: 'MSX2 (Physical; Japan Only)', jpTag: true }],
+                ],
+              },
+              {
+                parts: [
+                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                ],
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
+                description: [[
+                  { text: 'The original release. Release edits may include slight graphical or translation tweaks. On the ' },
+                  { tipText: 'FC', tip: 'Nintendo Famicom' },
+                  { jpTag: true },
+                  { text: ', included in the omnibus release ' },
+                  { emText: 'Final Fantasy I-II (1994)' },
+                  { text: '.' },
+                ]],
+                platformGroups: [
+                  [
+                    { icon: null, iconImg: 'images/platforms/nintendo-nes-fc.svg', iconSize: 9.25, imgStyle: 'width: auto; height: 9.25px;', name: 'Nintendo Entertainment System (Famicom; Physical)' },
+                    { icon: null, iconImg: 'images/platforms/nintendo-nes-classic-edition.svg', iconSize: 9.61, imgStyle: 'width: auto; height: 9.61px;', name: 'Nintendo NES Classic Edition (outside Japan)', nonJpTag: true },
+                  ],
+                  [
+                    { icon: null, iconImg: 'images/platforms/nintendo-wii.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
+                    { icon: null, iconImg: 'images/platforms/nintendo-wii-u.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true },
+                  ],
+                  [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                ],
+              },
+            ],
+          }
+        },
         { title: 'Final Fantasy ~Manga~ (1989)', releaseDate: '1989-12-30', chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic',
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/106524927', single: true, sourceLabel: 'Goodreads' },
         parts: [
@@ -357,13 +440,13 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           { label: 'Comic', url: null, small: true },
         ],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
-        descMidParts: [
+        description: [[
           { text: 'Adaptation of ' },
           { emText: 'Final Fantasy (1987)' },
           { text: ' with many story changes, enough that it could be considered an alternate universe retelling: the Warriors of Light are Puffy, monk Flitz, witch Matoya, and Bahamut, joined by a princess and a pirate, guided by the robot DB-6 on behalf of the Lufenians, opposing the rogue knight Garland. Released as ' },
           { emText: 'Final Fantasy' },
           { text: '.' },
-        ],
+        ]],
         platformGroups: [
           [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
             { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20i%20manga%20translation' }],
@@ -380,11 +463,11 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/63253999-final-fantasy-i-ii-iii' },
         ],
         length: '224p; P',
-        descParts: [
+        description: [[
           { text: 'A short story following the four Warriors of Light as they awaken with no memory of who they are, and set out to defeat the rogue knight Garland and begin restoring light to the world\u2019s crystals. The book also contains a short story each for Final Fantasy II and Final Fantasy III. Also known as ' },
           { emText: 'Final Fantasy ~Memory of Heroes~' },
           { text: '.' },
-        ],
+        ]],
         rating: { scoreLabelText: 'Goodreads', score: '3.24', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
           [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', noUrl: true }],

@@ -13,7 +13,10 @@ window.__ffSeriesReg['IX'] = { num: 'IX', releaseDate: '2000-07-07', chronoOrder
           { value: 'ES-ES', tip: 'Spanish (Spain)' },
           { value: 'EN-US', tip: 'English (American)' },
         ],
-        description: 'Zidane kidnaps princess Garnet as part of a ploy between nations at war in this medieval setting.\n\nThis remaster has high-definition movies and character models, autosave, achievements, multiple optional cheats, and a no-encounters mode. Switch and Xbox versions have slower load times, and Switch handheld mode runs at a lower resolution with occasional crashes.',
+        description: [
+          'Zidane kidnaps princess Garnet as part of a ploy between nations at war in this medieval setting.',
+          'This remaster has high-definition movies and character models, autosave, achievements, multiple optional cheats, and a no-encounters mode. Switch and Xbox versions have slower load times, and Switch handheld mode runs at a lower resolution with occasional crashes.'
+        ],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '94', midScore: '8.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-ix/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-ix/', sourceUrl: 'https://store.steampowered.com/app/377840/FINAL_FANTASY_IX/', sourceLabel: 'Steam; Very Positive' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-ix',
         platformGroups: [
@@ -43,7 +46,7 @@ window.__ffSeriesReg['IX'] = { num: 'IX', releaseDate: '2000-07-07', chronoOrder
             {
               label: 'Final Fantasy IX (2000)',
               url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IX',
-              description: 'The original release.',
+              description: ['The original release.'],
               languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
               helpWanted: true,
               platformGroups: [
@@ -63,11 +66,11 @@ window.__ffSeriesReg['IX'] = { num: 'IX', releaseDate: '2000-07-07', chronoOrder
           { label: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky (2026)", url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094738' },
           { label: 'Book', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'Vivi is a mysterious boy fished out of the ocean by Grandpa Quan, a gourmand trying to master the art of food. Once Grandpa Quan realizes Vivi is not food, he raises Vivi and teaches him about the world. Entry also found in our ' },
           { emText: 'Picture Books' },
           { text: ' series.' },
-        ],
+        ]],
         rating: { scoreLabelText: 'Goodreads', score: '4.45', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book', single: true, sourceLabel: 'Goodreads' },
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,

@@ -12,7 +12,10 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           { label: 'Final Fantasy XIII (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII' },
           { label: 'Remaster (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise', small: true },
         ],
-        description: "The government of the floating world of Cocoon orders a purge of civilians who have supposedly come into contact with Pulse, the much-feared world below. The former soldier Lightning begins her fight against the government in order to save her sister who has been branded as an unwilling servant to a god-like being from Pulse, making her an enemy of Cocoon.\n\nThis remaster unlocks higher resolutions and up to 60 fps, removes the Xbox disc-swap requirement, and adds an Easy/Normal difficulty toggle. Voice over is toggleable between English and Japanese (Japanese only in the Asian release).",
+        description: [
+          'The government of the floating world of Cocoon orders a purge of civilians who have supposedly come into contact with Pulse, the much-feared world below. The former soldier Lightning begins her fight against the government in order to save her sister who has been branded as an unwilling servant to a god-like being from Pulse, making her an enemy of Cocoon.',
+          'This remaster unlocks higher resolutions and up to 60 fps, removes the Xbox disc-swap requirement, and adds an Easy/Normal difficulty toggle. Voice over is toggleable between English and Japanese (Japanese only in the Asian release).'
+        ],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '83', source: 'MP', url: 'https://www.metacritic.com/game/final-fantasy-xiii/', sourceUrl: 'https://store.steampowered.com/app/292120/FINAL_FANTASY_XIII/', sourceLabel: 'Steam; Mostly Positive' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xiii',
         platformGroups: [
@@ -39,25 +42,33 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
                 { label: 'Final Fantasy XIII (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII' },
                 { label: 'International (2010)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise', small: true },
               ],
-              emFirst: true,
-              emPre: 'This release brings the international build — with its English voice option — to Japan a year after the worldwide launch, and adds an Easy/Normal difficulty toggle. Released as ',
-              emTerm: 'Final Fantasy XIII Ultimate Hits International',
-              emPost: '.',
+
+              description: [[
+                'This release brings the international build — with its English voice option — to Japan a year after the worldwide launch, and adds an Easy/Normal difficulty toggle. Released as ',
+                {
+                  emText: 'Final Fantasy XIII Ultimate Hits International'
+                },
+                '.'
+              ]],
+
               languages: [{ value: 'JA', tip: 'Japanese', native: true, voice: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
               helpWanted: true,
+
               platformGroups: [
                 [
                   { icon: null, iconImg: 'images/platforms/xbox-360.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox 360', noUrl: true },
                   { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (360 compatibility)', noUrl: true },
                   { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (360 compatibility)', noUrl: true },
                 ],
-              ],
+              ]
             },
             {
               parts: [
                 { label: 'Final Fantasy XIII (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII' },
               ],
-              description: 'The original release. A later patch adds an Easy/Normal difficulty toggle.',
+              description: [
+                'The original release. A later patch adds an Easy/Normal difficulty toggle.'
+              ],
               languages: [{ value: 'JA', tip: 'Japanese', native: true, voice: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
               helpWanted: true,
               platformGroups: [
@@ -71,381 +82,488 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             },
           ],
         } },
-        { title: 'Final Fantasy XIII: A Dreaming Cocoon Falls into the Dawn', releaseDate: '2010-09-30', chronoOrder: 500, recommendedOrder: 200, tags: ['Optional', 'Side-story', 'Novella'], mediaType: 'Book', length: '6 chapters',
-        parts: [
-          { label: 'Final Fantasy XIII: A Dreaming Cocoon Falls into the Dawn (2010)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu' },
-          { label: 'Book', url: null, small: true },
-        ],
-        desc2First: true,
-        desc2Parts: [
-          { text: "While the Pulse l'Cie fight to defy their fate and save Cocoon, three citizens—an undercover reporter, a university student, and a pilot—secretly have unique parallel journeys. The story follows them as they stumble upon an ancient plot to destroy Cocoon from within, and their paths eventually converge in a united endeavor to save the floating world. Released as " },
-          { emText: 'Final Fantasy XIII Gaiden Shōsetsu: Yumemiru Mayu, Akatsuki ni Otsu' },
-          { text: ". May also be known as " },
-          { emText: 'Final Fantasy XIII Side Story: A Dreaming Cocoon Falls into the Dawn' },
-          { text: ". Contained in the " },
-          { emText: 'Final Fantasy XIII Ultimania Omega' },
-          { text: ' book.' },
-        ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/28466281' }, { value: 'EN', tip: 'English (fan translation)' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/28466281', single: true, sourceLabel: 'Goodreads' },
-        storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu',
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novella (Japan only)', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu' },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu#Fan_translation' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII%20A%20Dreaming%20Cocoon%20Falls%20into%20the%20Dawn%20story%20recap' }],
-        ] },
-        { title: 'Final Fantasy XIII-2 Fragments Before', releaseDate: '2011-12-15 10', chronoOrder: 1000, recommendedOrder: 300, tags: ['Optional', 'Sequel', 'Short Stories'], mediaType: 'Book', length: '176p; P',
-        parts: [
-          { label: 'Final Fantasy XIII-2 Fragments Before (2011)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before' },
-          { label: 'Book', url: null, small: true },
-        ],
-        desc2First: true,
-        desc2Parts: [
-          { text: 'The first chapter is the novella ' },
-          { emLinkText: 'Final Fantasy XIII -Episode i-', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_-Episode_i-' },
-          { text: ' which acts as an epilogue to ' },
-          { emText: 'XIII (2009)' },
-          { text: '. The rest of the book is meant to cover the events before ' },
-          { emText: 'XIII-2 (2011)' },
-          { text: '.' },
-        ],
-        languages: [
-          { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/13417855-final-fantasy-xiii-2' },
-          { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/42769266-final-fantasy-xiii' },
-          { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/33144607-final-fantasy-xiii-2-fragments-before' },
-          { value: 'EN', tip: 'English (official & fan translation)', url: 'https://www.goodreads.com/book/show/41214500-final-fantasy-xiii-2' },
-          { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/210053308-final-fantasy-xiii-2-fragments-before' },
-        ],
-        rating: { scoreLabelText: 'Goodreads', score: '3.81', url: 'https://www.goodreads.com/book/show/13417855-final-fantasy-xiii-2', single: true, sourceLabel: 'Goodreads' },
-        storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before',
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before' },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before#External_links' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20Before%20story%20recap' }],
-        ] },
-        { title: 'Final Fantasy XIII-2', releaseDate: '2011-12-15 20', chronoOrder: 2000, recommendedOrder: 400, tags: ['Sequel', 'RPG', 'Paradigm Shift battle'], mediaType: 'Game', lengthParts: [{ value: '28h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '41½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '71h', tip: 'Completionist', sep: true, sepChar: ', ' }, { value: 'Requiem of the Goddess 1h', tip: 'Requiem of the Goddess Main Story', sep: true, sepChar: ' / ' }, { value: '1½h', tip: 'Requiem of the Goddess Main + Extra', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Requiem of the Goddess Completionist', sep: true, sepChar: ', ' }, { value: "Sazh's Story - Heads or Tails? 1h", tip: "Sazh's Story - Heads or Tails?", sep: true, sepChar: ', ' }, { value: "Snow's Story - Perpetual Battlefield 1h", tip: "Snow's Story - Perpetual Battlefield" }],
-        languages: [
-          { value: 'JA', tip: 'Japanese — audio only', native: true, voice: true },
-          { value: 'EN', tip: 'English — full audio', voice: true },
-          { value: 'FR', tip: 'French — text only' },
-          { value: 'IT', tip: 'Italian — text only' },
-          { value: 'DE', tip: 'German — text only' },
-          { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
-        ],
-        parts: [
-          { label: 'Final Fantasy XIII-2 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2' },
-          { label: 'Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2', small: true },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'Lightning, the protagonist of ' },
-          { emText: 'XIII (2009)' },
-          { text: ', has disappeared into an unknown world. Her younger sister Serah and Noel  journey through time in an attempt to find her.' },
-        ],
-        desc3Parts: [
-          { text: 'This remaster unlocks higher resolutions and up to 60 fps, and bundles all outfit and boss DLC free, apart from nine licensed crossover items dropped for rights issues. Its bonus scenarios and Coliseum battles unlock only after beating the game, versus Chapter 2 on the original consoles; voice over is toggleable between English and Japanese.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '79', midScore: '7.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiii-2/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-xiii-2/', sourceUrl: 'https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/', sourceLabel: 'Steam; Mixed' },
-        storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xiii-2',
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/9mvj3vl1v3vp' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/' }],
-          [
-            { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-xiii-2' },
-            { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-xiii-2' },
-          ],
-          [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (FPS Boost; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' }],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII-2%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII-2%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII-2%20playthrough' },
-          ],
-        ],
-        alt: {
-          extras: [
-            {
-              parts: [
-                { label: 'Final Fantasy XIII-2 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2' },
-                { label: 'Remaster (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2', small: true },
-              ],
-              description: 'This remaster unlocks higher resolutions and up to 60 fps on PC (capped at 30 fps on Xbox One).',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
-              helpWanted: true,
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', noUrl: true }],
-                [{ icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' }],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Final Fantasy XIII-2 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2' },
-              ],
-              description: 'The original release. Gameplay framerate dips as low as 18 fps.',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
-              helpWanted: true,
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3', noUrl: true }],
-                [
-                  { icon: null, iconImg: 'images/platforms/xbox-360.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox 360', noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (360 compatibility)', noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (360 compatibility)', noUrl: true },
-                ],
-              ],
-            },
-          ],
-        } },
-        { title: 'Final Fantasy XIII-2 Fragments After', releaseDate: '2012-06-21', chronoOrder: 3000, recommendedOrder: 500, tags: ['Optional', 'Sequel', 'Short Stories'], mediaType: 'Book', length: '146p; P',
-        parts: [
-          { label: 'Final Fantasy XIII-2 Fragments After (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After' },
-          { label: 'Book', url: null, small: true },
-        ],
-        desc2First: true,
-        desc2Parts: [
-          { text: 'Several stories mainly meant to cover loose ends within the plot of ' },
-          { emText: 'XIII-2 (2011)' },
-          { text: ', and highlight the mysteries yet to be resolved.' },
-        ],
-        languages: [
-          { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/84828742-final-fantasy-xiii-2' },
-          { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/42769002-final-fantasy-xiii-2' },
-          { value: 'EN', tip: 'English (official & fan translation)', url: 'https://www.goodreads.com/book/show/43886659-final-fantasy-xiii-2' },
-          { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/216672280-final-fantasy-xiii-2-fragments-after' },
-        ],
-        rating: { scoreLabelText: 'Goodreads', score: '3.57', url: 'https://www.goodreads.com/book/show/43886659-final-fantasy-xiii-2', single: true, sourceLabel: 'Goodreads' },
-        storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After',
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After' },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After#External_links' }],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20After%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan audiobook', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20After%20story%20audiobook' },
-          ],
-        ] },
-        { title: 'Lightning Returns: Final Fantasy XIII', releaseDate: '2013-11-21', chronoOrder: 4000, recommendedOrder: 600, tags: ['Sequel', 'Action RPG', 'Style-Change Active Time Battle'], mediaType: 'Game', lengthParts: [{ value: '33h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '47h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '66½h', tip: 'Completionist' }],
-        languages: [
-          { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-          { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-          { value: 'FR', tip: 'French — text only' },
-          { value: 'IT', tip: 'Italian — text only' },
-          { value: 'DE', tip: 'German — text only' },
-          { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
-          { value: 'ES-419', tip: 'Spanish (Latin America) — text only' },
-          { value: 'KO', tip: 'Korean — text only' },
-          { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
-        ],
-        parts: [
-          { label: 'Lightning Returns: Final Fantasy XIII (2013)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII' },
-          { label: 'Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', small: true },
-        ],
-        descParts: [
-          { text: '500 years after ' },
-          { emText: 'XIII-2 (2011)' },
-          { text: ", Lightning awakens from a self-imposed hibernation thirteen days before the world's end. The deity Bhunivelze chooses her to save the people of the dying world, including former friends and allies who have developed heavy emotional burdens. As she travels, she learns the truth behind the world's fate and Bhunivelze's true agenda." },
-        ],
-        descMidParts: [
-          { text: 'Sometimes also known as ' },
-          { emText: 'Final Fantasy XIII-3' },
-          { text: '. After finishing the game, you can optionally chose to read the Novella ' },
-          { emText: 'XIII: Reminiscence -tracer of memories- (2014)' },
-          { text: ' (listed separately) before watching the final epilogue ' },
-          { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' },
-          { text: '.' },
-        ],
-        desc2Last: true,
-        desc3Parts: [
-          { text: 'This remaster unlocks higher resolutions and up to 60 fps, and voice over is toggleable between English and Japanese. It bundles nearly all DLC free, including the Guardian Corps and Knight of Etro schemata by default, though the Midgar\'s Flower Girl schemata, Siegfried garb, and Outerworld Services are missing, and schemata/map marker names can no longer be customized.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '6.3', midUrl: 'https://www.metacritic.com/game/lightning-returns-final-fantasy-xiii/', source: 'MP', url: 'https://www.metacritic.com/game/lightning-returns-final-fantasy-xiii/', sourceUrl: 'https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/', sourceLabel: 'Steam; Mostly Positive' },
-        storeUrl: 'https://www.square-enix-games.com/games/lightning-returns-final-fantasy-xiii',
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/lightning-returns-final-fantasy-xiii/9plf9mr720sj' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/' }],
-          [
-            { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (JP)', jpTag: true, url: 'https://www.square-enix-games.com/en_US/games/lightning-returns-final-fantasy-xiii' },
-            { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP)', jpTag: true, url: 'https://www.square-enix-games.com/en_US/games/lightning-returns-final-fantasy-xiii' },
-          ],
-          [
-            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg' },
-            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (FPS Boost; Digital)', url: 'https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg' },
-          ],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=lightning%20returns%20final%20fantasy%20XIII-3%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=lightning%20returns%20final%20fantasy%20XIII-3%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=lightning%20returns%20final%20fantasy%20XIII-3%20playthrough' },
-          ],
-        ],
-        alt: {
-          extras: [
-            {
-              parts: [
-                { label: 'Lightning Returns: Final Fantasy XIII (2013)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII' },
-                { label: 'Remaster (2015)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', small: true },
-              ],
-              description: 'This remaster unlocks higher resolutions and up to 60 fps on PC (30 fps on Xbox).',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true, voice: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
-              helpWanted: true,
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', noUrl: true }],
-                [
-                  { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Xbox 360 compatibility, Xbox One X Enhanced)', noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Xbox One compatibility)', noUrl: true },
-                ],
-              ],
-            },
-            {
-              parts: [
-                { label: 'Lightning Returns: Final Fantasy XIII (2013)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII' },
-              ],
-              description: 'The original release. The international version (2014) softens some dialogue and innuendo, and offers Japanese audio as separate DLC.',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true, voice: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
-              helpWanted: true,
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3', noUrl: true }],
-                [{ icon: null, iconImg: 'images/platforms/xbox-360.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox 360', noUrl: true }],
-              ],
-            },
-          ],
-        } },
-        { title: 'Final Fantasy XIII: Reminiscence -tracer of memories-', releaseDate: '2014-06-03', chronoOrder: 5000, recommendedOrder: 700, tags: ['Optional', 'Sequel', 'Character interviews', 'Novella'], mediaType: 'Book', length: 'Ten episodes',
-        parts: [
-          { label: 'Final Fantasy XIII: Reminiscence -tracer of memories- (2014)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-' },
-          { label: 'Book', url: null, small: true },
-        ],
-        desc2First: true,
-        desc2Parts: [
-          { text: 'Novella set after the events of ' },
-          { emText: 'Lightning Returns: XIII (2013)' },
-          { text: ' but before the epilogue ' },
-          { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' },
-          { text: '. It takes the form of interviews with the characters conducted by Aoede, and is narrated in first person from her point of view.' },
-        ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
-        storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-',
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novella (Japan only)', jpTag: true, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-#External_links' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-#Story' }],
-        ] },
-        { title: 'Final Fantasy XIII: Episode Zero: Promise', releaseDate: '2009-12-24', chronoOrder: -2000, recommendedOrder: 800, tags: ['Optional', 'Prequel', 'Short Stories'], mediaType: 'Book',
-        parts: [
-          { label: 'Final Fantasy XIII: Episode Zero: Promise (2009)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-' },
-          { label: 'Book', url: null, small: true },
-        ],
-        emFirst: true,
-        emPre: 'Series of web novellas depicting the thirteen days leading up to the events of ',
-        emTerm: 'XIII (2009)',
-        emPost: '.',
-        languages: [
-          { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/7913673-final-fantasy-xiii' },
-          { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/42080020-final-fantasy-xiii' },
-          { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/10152719-final-fantasy-xiii' },
-          { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/36257508-final-fantasy-xiii' },
-        ],
-        rating: { scoreLabelText: 'Goodreads', score: '3.70', url: 'https://www.goodreads.com/book/show/42080020-final-fantasy-xiii', single: true, sourceLabel: 'Goodreads' },
-        length: '216p; P',
-        storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-',
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-' }],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Audiobook (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20audiobook' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20story%20recap' },
-          ],
-        ],
-        alt: {
+        {
+          title: 'Final Fantasy XIII: A Dreaming Cocoon Falls into the Dawn',
+          releaseDate: '2010-09-30',
+          chronoOrder: 500,
+          recommendedOrder: 200,
+          tags: ['Optional', 'Side-story', 'Novella'],
+          mediaType: 'Book',
+          length: '6 chapters',
+
           parts: [
-            { label: 'Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Alpha (2010)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD' },
-            { label: 'radio drama', url: null, small: true },
+            { label: 'Final Fantasy XIII: A Dreaming Cocoon Falls into the Dawn (2010)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu' },
+            { label: 'Book', url: null, small: true },
           ],
-          tags: ['Optional', 'Radio drama'],
-          emPre: 'Features Part 1 of ',
-          emTerm: 'XIII: Episode Zero: Promise (2009)',
-          emPost: ' as a radio drama. Some editions contain bonus stories ',
-          emTerm2: 'Real -Reality-',
-          emPost2: ' and ',
-          emTerm3: 'Departure -Starting-',
-          emPost3: '.',
-          length: '7 chapters',
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
-          storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD',
+
+          description: [[
+            { text: "While the Pulse l'Cie fight to defy their fate and save Cocoon, three citizens—an undercover reporter, a university student, and a pilot—secretly have unique parallel journeys. The story follows them as they stumble upon an ancient plot to destroy Cocoon from within, and their paths eventually converge in a united endeavor to save the floating world. Released as " },
+            { emText: 'Final Fantasy XIII Gaiden Shōsetsu: Yumemiru Mayu, Akatsuki ni Otsu' },
+            { text: ". May also be known as " },
+            { emText: 'Final Fantasy XIII Side Story: A Dreaming Cocoon Falls into the Dawn' },
+            { text: ". Contained in the " },
+            { emText: 'Final Fantasy XIII Ultimania Omega' },
+            { text: ' book.' },
+          ]],
+
+          languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/28466281' }, { value: 'EN', tip: 'English (fan translation)' }],
+          rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/28466281', single: true, sourceLabel: 'Goodreads' },
+          storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu',
+
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/compact-disc.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'Compact Disc', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD' }],
+            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novella (Japan only)', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu' },
+              { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu#Fan_translation' }],
+            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII%20A%20Dreaming%20Cocoon%20Falls%20into%20the%20Dawn%20story%20recap' }],
+          ]
+        },
+        {
+          title: 'Final Fantasy XIII-2 Fragments Before',
+          releaseDate: '2011-12-15 10',
+          chronoOrder: 1000,
+          recommendedOrder: 300,
+          tags: ['Optional', 'Sequel', 'Short Stories'],
+          mediaType: 'Book',
+          length: '176p; P',
+
+          parts: [
+            { label: 'Final Fantasy XIII-2 Fragments Before (2011)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before' },
+            { label: 'Book', url: null, small: true },
+          ],
+
+          description: [[
+            { text: 'The first chapter is the novella ' },
+            { emLinkText: 'Final Fantasy XIII -Episode i-', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_-Episode_i-' },
+            { text: ' which acts as an epilogue to ' },
+            { emText: 'XIII (2009)' },
+            { text: '. The rest of the book is meant to cover the events before ' },
+            { emText: 'XIII-2 (2011)' },
+            { text: '.' },
+          ]],
+
+          languages: [
+            { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/13417855-final-fantasy-xiii-2' },
+            { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/42769266-final-fantasy-xiii' },
+            { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/33144607-final-fantasy-xiii-2-fragments-before' },
+            { value: 'EN', tip: 'English (official & fan translation)', url: 'https://www.goodreads.com/book/show/41214500-final-fantasy-xiii-2' },
+            { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/210053308-final-fantasy-xiii-2-fragments-before' },
+          ],
+
+          rating: { scoreLabelText: 'Goodreads', score: '3.81', url: 'https://www.goodreads.com/book/show/13417855-final-fantasy-xiii-2', single: true, sourceLabel: 'Goodreads' },
+          storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before',
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before' },
+              { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before#External_links' }],
+            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20Before%20story%20recap' }],
+          ]
+        },
+        {
+          title: 'Final Fantasy XIII-2',
+          releaseDate: '2011-12-15 20',
+          chronoOrder: 2000,
+          recommendedOrder: 400,
+          tags: ['Sequel', 'RPG', 'Paradigm Shift battle'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '28h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '41½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '71h', tip: 'Completionist', sep: true, sepChar: ', ' }, { value: 'Requiem of the Goddess 1h', tip: 'Requiem of the Goddess Main Story', sep: true, sepChar: ' / ' }, { value: '1½h', tip: 'Requiem of the Goddess Main + Extra', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Requiem of the Goddess Completionist', sep: true, sepChar: ', ' }, { value: "Sazh's Story - Heads or Tails? 1h", tip: "Sazh's Story - Heads or Tails?", sep: true, sepChar: ', ' }, { value: "Snow's Story - Perpetual Battlefield 1h", tip: "Snow's Story - Perpetual Battlefield" }],
+
+          languages: [
+            { value: 'JA', tip: 'Japanese — audio only', native: true, voice: true },
+            { value: 'EN', tip: 'English — full audio', voice: true },
+            { value: 'FR', tip: 'French — text only' },
+            { value: 'IT', tip: 'Italian — text only' },
+            { value: 'DE', tip: 'German — text only' },
+            { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
+          ],
+
+          parts: [
+            { label: 'Final Fantasy XIII-2 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2' },
+            { label: 'Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2', small: true },
+          ],
+
+          description: [[
+            { text: 'Lightning, the protagonist of ' },
+            { emText: 'XIII (2009)' },
+            { text: ', has disappeared into an unknown world. Her younger sister Serah and Noel  journey through time in an attempt to find her.' },
+          ], [
+            { text: 'This remaster unlocks higher resolutions and up to 60 fps, and bundles all outfit and boss DLC free, apart from nine licensed crossover items dropped for rights issues. Its bonus scenarios and Coliseum battles unlock only after beating the game, versus Chapter 2 on the original consoles; voice over is toggleable between English and Japanese.' },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '79', midScore: '7.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiii-2/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-xiii-2/', sourceUrl: 'https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/', sourceLabel: 'Steam; Mixed' },
+          storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xiii-2',
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/9mvj3vl1v3vp' }],
+            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/' }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'YouTube (unofficial)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20drama%20CD' },
+              { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-xiii-2' },
+              { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-xiii-2' },
+            ],
+            [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (FPS Boost; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' }],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII-2%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII-2%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII-2%20playthrough' },
+            ],
+          ],
+
+          alt: {
+            extras: [
+              {
+                parts: [
+                  { label: 'Final Fantasy XIII-2 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2' },
+                  { label: 'Remaster (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2', small: true },
+                ],
+                description: [
+                  'This remaster unlocks higher resolutions and up to 60 fps on PC (capped at 30 fps on Xbox One).'
+                ],
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
+                helpWanted: true,
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', noUrl: true }],
+                  [{ icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' }],
+                ],
+              },
+              {
+                parts: [
+                  { label: 'Final Fantasy XIII-2 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2' },
+                ],
+                description: ['The original release. Gameplay framerate dips as low as 18 fps.'],
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
+                helpWanted: true,
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3', noUrl: true }],
+                  [
+                    { icon: null, iconImg: 'images/platforms/xbox-360.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox 360', noUrl: true },
+                    { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (360 compatibility)', noUrl: true },
+                    { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (360 compatibility)', noUrl: true },
+                  ],
+                ],
+              },
+            ],
+          }
+        },
+        {
+          title: 'Final Fantasy XIII-2 Fragments After',
+          releaseDate: '2012-06-21',
+          chronoOrder: 3000,
+          recommendedOrder: 500,
+          tags: ['Optional', 'Sequel', 'Short Stories'],
+          mediaType: 'Book',
+          length: '146p; P',
+
+          parts: [
+            { label: 'Final Fantasy XIII-2 Fragments After (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After' },
+            { label: 'Book', url: null, small: true },
+          ],
+
+          description: [[
+            { text: 'Several stories mainly meant to cover loose ends within the plot of ' },
+            { emText: 'XIII-2 (2011)' },
+            { text: ', and highlight the mysteries yet to be resolved.' },
+          ]],
+
+          languages: [
+            { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/84828742-final-fantasy-xiii-2' },
+            { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/42769002-final-fantasy-xiii-2' },
+            { value: 'EN', tip: 'English (official & fan translation)', url: 'https://www.goodreads.com/book/show/43886659-final-fantasy-xiii-2' },
+            { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/216672280-final-fantasy-xiii-2-fragments-after' },
+          ],
+
+          rating: { scoreLabelText: 'Goodreads', score: '3.57', url: 'https://www.goodreads.com/book/show/43886659-final-fantasy-xiii-2', single: true, sourceLabel: 'Goodreads' },
+          storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After',
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After' },
+              { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After#External_links' }],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20After%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan audiobook', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20After%20story%20audiobook' },
+            ],
+          ]
+        },
+        {
+          title: 'Lightning Returns: Final Fantasy XIII',
+          releaseDate: '2013-11-21',
+          chronoOrder: 4000,
+          recommendedOrder: 600,
+          tags: ['Sequel', 'Action RPG', 'Style-Change Active Time Battle'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '33h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '47h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '66½h', tip: 'Completionist' }],
+
+          languages: [
+            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
+            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
+            { value: 'FR', tip: 'French — text only' },
+            { value: 'IT', tip: 'Italian — text only' },
+            { value: 'DE', tip: 'German — text only' },
+            { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
+            { value: 'ES-419', tip: 'Spanish (Latin America) — text only' },
+            { value: 'KO', tip: 'Korean — text only' },
+            { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
+          ],
+
+          parts: [
+            { label: 'Lightning Returns: Final Fantasy XIII (2013)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII' },
+            { label: 'Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', small: true },
+          ],
+
+          description: [[
+            { text: '500 years after ' },
+            { emText: 'XIII-2 (2011)' },
+            { text: ", Lightning awakens from a self-imposed hibernation thirteen days before the world's end. The deity Bhunivelze chooses her to save the people of the dying world, including former friends and allies who have developed heavy emotional burdens. As she travels, she learns the truth behind the world's fate and Bhunivelze's true agenda." },
+          ], [
+            { text: 'Sometimes also known as ' },
+            { emText: 'Final Fantasy XIII-3' },
+            { text: '. After finishing the game, you can optionally chose to read the Novella ' },
+            { emText: 'XIII: Reminiscence -tracer of memories- (2014)' },
+            { text: ' (listed separately) before watching the final epilogue ' },
+            { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' },
+            { text: '.' },
+          ], [
+            { text: 'This remaster unlocks higher resolutions and up to 60 fps, and voice over is toggleable between English and Japanese. It bundles nearly all DLC free, including the Guardian Corps and Knight of Etro schemata by default, though the Midgar\'s Flower Girl schemata, Siegfried garb, and Outerworld Services are missing, and schemata/map marker names can no longer be customized.' },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '6.3', midUrl: 'https://www.metacritic.com/game/lightning-returns-final-fantasy-xiii/', source: 'MP', url: 'https://www.metacritic.com/game/lightning-returns-final-fantasy-xiii/', sourceUrl: 'https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/', sourceLabel: 'Steam; Mostly Positive' },
+          storeUrl: 'https://www.square-enix-games.com/games/lightning-returns-final-fantasy-xiii',
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/lightning-returns-final-fantasy-xiii/9plf9mr720sj' }],
+            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/' }],
+            [
+              { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (JP)', jpTag: true, url: 'https://www.square-enix-games.com/en_US/games/lightning-returns-final-fantasy-xiii' },
+              { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP)', jpTag: true, url: 'https://www.square-enix-games.com/en_US/games/lightning-returns-final-fantasy-xiii' },
+            ],
+            [
+              { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg' },
+              { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (FPS Boost; Digital)', url: 'https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg' },
+            ],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=lightning%20returns%20final%20fantasy%20XIII-3%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=lightning%20returns%20final%20fantasy%20XIII-3%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=lightning%20returns%20final%20fantasy%20XIII-3%20playthrough' },
+            ],
+          ],
+
+          alt: {
+            extras: [
+              {
+                parts: [
+                  { label: 'Lightning Returns: Final Fantasy XIII (2013)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII' },
+                  { label: 'Remaster (2015)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', small: true },
+                ],
+                description: [
+                  'This remaster unlocks higher resolutions and up to 60 fps on PC (30 fps on Xbox).'
+                ],
+                languages: [{ value: 'JA', tip: 'Japanese', native: true, voice: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
+                helpWanted: true,
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', noUrl: true }],
+                  [
+                    { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Xbox 360 compatibility, Xbox One X Enhanced)', noUrl: true },
+                    { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Xbox One compatibility)', noUrl: true },
+                  ],
+                ],
+              },
+              {
+                parts: [
+                  { label: 'Lightning Returns: Final Fantasy XIII (2013)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII' },
+                ],
+                description: [
+                  'The original release. The international version (2014) softens some dialogue and innuendo, and offers Japanese audio as separate DLC.'
+                ],
+                languages: [{ value: 'JA', tip: 'Japanese', native: true, voice: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
+                helpWanted: true,
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3', noUrl: true }],
+                  [{ icon: null, iconImg: 'images/platforms/xbox-360.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox 360', noUrl: true }],
+                ],
+              },
+            ],
+          }
+        },
+        {
+          title: 'Final Fantasy XIII: Reminiscence -tracer of memories-',
+          releaseDate: '2014-06-03',
+          chronoOrder: 5000,
+          recommendedOrder: 700,
+          tags: ['Optional', 'Sequel', 'Character interviews', 'Novella'],
+          mediaType: 'Book',
+          length: 'Ten episodes',
+
+          parts: [
+            { label: 'Final Fantasy XIII: Reminiscence -tracer of memories- (2014)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-' },
+            { label: 'Book', url: null, small: true },
+          ],
+
+          description: [[
+            { text: 'Novella set after the events of ' },
+            { emText: 'Lightning Returns: XIII (2013)' },
+            { text: ' but before the epilogue ' },
+            { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' },
+            { text: '. It takes the form of interviews with the characters conducted by Aoede, and is narrated in first person from her point of view.' },
+          ]],
+
+          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
+          storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-',
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novella (Japan only)', jpTag: true, noUrl: true },
+              { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-#External_links' }],
+            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-#Story' }],
+          ]
+        },
+        {
+          title: 'Final Fantasy XIII: Episode Zero: Promise',
+          releaseDate: '2009-12-24',
+          chronoOrder: -2000,
+          recommendedOrder: 800,
+          tags: ['Optional', 'Prequel', 'Short Stories'],
+          mediaType: 'Book',
+
+          parts: [
+            { label: 'Final Fantasy XIII: Episode Zero: Promise (2009)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-' },
+            { label: 'Book', url: null, small: true },
+          ],
+
+          description: [[
+            'Series of web novellas depicting the thirteen days leading up to the events of ',
+            {
+              emText: 'XIII (2009)'
+            },
+            '.'
+          ]],
+
+          languages: [
+            { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/7913673-final-fantasy-xiii' },
+            { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/42080020-final-fantasy-xiii' },
+            { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/10152719-final-fantasy-xiii' },
+            { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/36257508-final-fantasy-xiii' },
+          ],
+
+          rating: { scoreLabelText: 'Goodreads', score: '3.70', url: 'https://www.goodreads.com/book/show/42080020-final-fantasy-xiii', single: true, sourceLabel: 'Goodreads' },
+          length: '216p; P',
+          storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-',
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-' }],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Audiobook (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20audiobook' },
               { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20story%20recap' },
             ],
           ],
-        } },
-        { title: 'Final Fantasy Type-0', releaseDate: '2011-10-27', chronoOrder: 100000, recommendedOrder: 900, tags: ['Optional', 'Spin-off', 'Action RPG', 'Alternate Universe'], mediaType: 'Game', lengthParts: [{ value: '23½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '36h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '50h', tip: 'Completionist' }],
-        languages: [
-          { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-          { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-          { value: 'FR', tip: 'French — text only' },
-          { value: 'IT', tip: 'Italian — text only' },
-          { value: 'DE', tip: 'German — text only' },
-          { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
-          { value: 'KO', tip: 'Korean — text only' },
-          { value: 'ZH-CN', tip: 'Simplified Chinese — text only' },
-          { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
-        ],
-        parts: [
-          { label: 'Final Fantasy Type-0 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Type-0' },
-          { label: 'Remaster (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Type-0_HD', small: true },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'Class Zero, a group of fourteen students from the Dominion of Rubrum must fight the neighboring Militesi Empire when they launch an assault on the other Crystal States of Orience. The group become entangled in both the efforts to push back and defeat the forces of Militesi, and the secret behind the war and the existence of the crystals.' },
-        ],
-        desc3Parts: [
-          { text: 'This remaster updates the graphics, color palette, and blood levels, remasters the soundtrack with new vocal tracks, and adds dual Japanese/English audio and four difficulty modes. Multiplayer is removed, though its exclusive rewards remain obtainable in single-player. The Steam version further adds unlocked resolution options and an adjustable movement speed. Released as ' },
-          { emText: 'Final Fantasy Type-0 HD' },
-          { text: '.' },
-        ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '72', midScore: '6.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-type-0/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-type-0/', sourceUrl: 'https://store.steampowered.com/app/340170/FINAL_FANTASY_TYPE0_HD/', sourceLabel: 'Steam; Mixed' },
-        storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-type-0-hd',
-        platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/340170/FINAL_FANTASY_TYPE0_HD/' }],
-          [
-            { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA00994_00-00000000SUZAKUNA' },
-            { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA00994_00-00000000SUZAKUNA' },
-          ],
-          [
-            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-type-0-hd/c1f1hjk2njpj' },
-            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-type-0-hd/c1f1hjk2njpj' },
-          ],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20type-0%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20type-0%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20type-0%20playthrough' },
-          ],
-        ],
-        alt: {
-          extras: [
-            {
-              parts: [
-                { label: 'Final Fantasy Type-0 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Type-0' },
+
+          alt: {
+            parts: [
+              { label: 'Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Alpha (2010)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD' },
+              { label: 'radio drama', url: null, small: true },
+            ],
+
+            tags: ['Optional', 'Radio drama'],
+
+            description: [['Features Part 1 of ', {
+              emText: 'XIII: Episode Zero: Promise (2009)'
+            }, ' as a radio drama. Some editions contain bonus stories ', {
+              emText: 'Real -Reality-'
+            }, ' and ', {
+              emText: 'Departure -Starting-'
+            }, '.']],
+
+            length: '7 chapters',
+            languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
+            storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD',
+
+            platformGroups: [
+              [{ icon: null, iconImg: 'images/platforms/compact-disc.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'Compact Disc', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD' }],
+              [
+                { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'YouTube (unofficial)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20drama%20CD' },
+                { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20story%20recap' },
               ],
-              tags: ['Multiplayer'],
-              description: 'The original release.',
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (Fan Translation) (SkyBlazeCloud+ 2015)' }, { value: 'ES', tip: 'Spanish (Fan Translation) (SkyBlazeCloud+ 2015)' }, { value: '…?', tip: 'Unknown additional languages' }],
-              helpWanted: true,
-              platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP) (Japan only)', jpTag: true, noUrl: true }],
-              ],
-            },
+            ]
+          }
+        },
+        {
+          title: 'Final Fantasy Type-0',
+          releaseDate: '2011-10-27',
+          chronoOrder: 100000,
+          recommendedOrder: 900,
+          tags: ['Optional', 'Spin-off', 'Action RPG', 'Alternate Universe'],
+          mediaType: 'Game',
+          lengthParts: [{ value: '23½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '36h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '50h', tip: 'Completionist' }],
+
+          languages: [
+            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
+            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
+            { value: 'FR', tip: 'French — text only' },
+            { value: 'IT', tip: 'Italian — text only' },
+            { value: 'DE', tip: 'German — text only' },
+            { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
+            { value: 'KO', tip: 'Korean — text only' },
+            { value: 'ZH-CN', tip: 'Simplified Chinese — text only' },
+            { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
           ],
-        } },
+
+          parts: [
+            { label: 'Final Fantasy Type-0 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Type-0' },
+            { label: 'Remaster (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Type-0_HD', small: true },
+          ],
+
+          description: [[
+            { text: 'Class Zero, a group of fourteen students from the Dominion of Rubrum must fight the neighboring Militesi Empire when they launch an assault on the other Crystal States of Orience. The group become entangled in both the efforts to push back and defeat the forces of Militesi, and the secret behind the war and the existence of the crystals.' },
+          ], [
+            { text: 'This remaster updates the graphics, color palette, and blood levels, remasters the soundtrack with new vocal tracks, and adds dual Japanese/English audio and four difficulty modes. Multiplayer is removed, though its exclusive rewards remain obtainable in single-player. The Steam version further adds unlocked resolution options and an adjustable movement speed. Released as ' },
+            { emText: 'Final Fantasy Type-0 HD' },
+            { text: '.' },
+          ]],
+
+          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '72', midScore: '6.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-type-0/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-type-0/', sourceUrl: 'https://store.steampowered.com/app/340170/FINAL_FANTASY_TYPE0_HD/', sourceLabel: 'Steam; Mixed' },
+          storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-type-0-hd',
+
+          platformGroups: [
+            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/340170/FINAL_FANTASY_TYPE0_HD/' }],
+            [
+              { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA00994_00-00000000SUZAKUNA' },
+              { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA00994_00-00000000SUZAKUNA' },
+            ],
+            [
+              { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-type-0-hd/c1f1hjk2njpj' },
+              { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-type-0-hd/c1f1hjk2njpj' },
+            ],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20type-0%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20type-0%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20type-0%20playthrough' },
+            ],
+          ],
+
+          alt: {
+            extras: [
+              {
+                parts: [
+                  { label: 'Final Fantasy Type-0 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Type-0' },
+                ],
+                tags: ['Multiplayer'],
+                description: ['The original release.'],
+                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (Fan Translation) (SkyBlazeCloud+ 2015)' }, { value: 'ES', tip: 'Spanish (Fan Translation) (SkyBlazeCloud+ 2015)' }, { value: '…?', tip: 'Unknown additional languages' }],
+                helpWanted: true,
+                platformGroups: [
+                  [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP) (Japan only)', jpTag: true, noUrl: true }],
+                ],
+              },
+            ],
+          }
+        },
         { title: 'Final Fantasy Type-0 ~Manga~', releaseDate: '2011-11-11', chronoOrder: 100400, recommendedOrder: 940, tags: ['Optional', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '200p; P', br: true }, { value: '1 volume,', br: true }, { value: '3 chapters' }],
         parts: [
           { label: 'Final Fantasy Type-0 ~Manga~ (2011)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_(manga)#Story' },
           { label: 'Comic', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'A manga adaptation of ' },
           { emText: 'Type-0 (2011)' },
           { text: ", following the story of the game while adding new characters and situations. Class Zero, led by Ace, defends Peristylium Suzaku from the invading Militesi Empire and its Magitek Armor pilot Qun'mi Tru'e. Bundled with the " },
           { emText: "Final Fantasy Type-0 HD Collector's Edition" },
           { text: '.' },
-        ],
+        ]],
         languages: [
           { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/25746708-final-fantasy-type-0' },
           { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/18109747-final-fantasy-type-0' },
@@ -464,7 +582,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           { label: 'Comic', url: null, small: true },
         ],
         rating: { scoreLabelText: 'Goodreads', score: '3.95', url: 'https://www.goodreads.com/book/show/25112890-final-fantasy-type-0-side-story-vol-1', single: true, sourceLabel: 'Goodreads' },
-        descParts: [
+        description: [[
           { text: 'A manga set nine years before ' },
           { emText: 'Type-0 (2011)' },
           { text: ", following Kurasame Susaya's time as a student of Akademeia and member of the Four Champions of Rubrum. Kurasame, determined to prove himself worthy of promotion out of Class Third, survives a deadly attack by Concordian outlaws that kills most of his classmates. May also be known as " },
@@ -472,7 +590,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           { text: ', or ' },
           { emText: 'Final Fantasy Type-0 Side Story: The Reaper of the Icy Blade' },
           { text: '.' },
-        ],
+        ]],
         languages: [
           { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/25112890-final-fantasy-type-0-side-story-vol-1' },
           { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/28932172-final-fantasy-type-0---le-guerrier-l-p-e-de-glace-vol-1' },
@@ -489,11 +607,11 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           { label: 'Final Fantasy Type-0: Change the World -The Answer- Vol.1 (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-' },
           { label: 'Book', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'A novelization of ' },
           { emText: 'Type-0 (2011)' },
           { text: ', following Izana Kunagiri as he searches for cadet Ace amid the chaos of the war against the Militesi Empire, recalling how he arrived at his current situation.' },
-        ],
+        ]],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/84822449' }, { value: 'FR', tip: 'French' }, { value: 'EN', tip: 'English (fan translation)' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/84822449', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -506,11 +624,11 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           { label: 'Final Fantasy Type-0: Change the World -The Penultimate Truth- Vol.2 (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-' },
           { label: 'Book', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'A sequel to ' },
           { emText: 'Change the World -The Answer-' },
           { text: ", depicting the cycle previous to the one seen in the game, so its plot diverges from the game's." },
-        ],
+        ]],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/84822454' }, { value: 'FR', tip: 'French' }, { value: 'EN', tip: 'English (fan translation)' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/84822454', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -523,7 +641,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           { label: 'Final Fantasy Type-0 ~The Last Truth~ (2015)', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth' },
           { label: 'Book', url: null, small: true },
         ],
-        description: "At the Akademeia in Rubrum, the gifted students of Class Zero study magic in peace until the empire of Milites declares war and unleashes a weapon that nullifies Rubrum's magic. Only the capital still resists, forcing the Council to send its best students into battle to reclaim their homeland.",
+        description: [
+          'At the Akademeia in Rubrum, the gifted students of Class Zero study magic in peace until the empire of Milites declares war and unleashes a weapon that nullifies Rubrum\'s magic. Only the capital still resists, forcing the Council to send its best students into battle to reclaim their homeland.'
+        ],
         languages: [
           { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth' },
           { value: '…?', tip: 'Unknown additional languages' },
@@ -536,41 +656,50 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           [{ icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Type-0%20The%20Last%20Truth%20translation' }],
           [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Type-0%20The%20Last%20Truth%20story%20recap' }],
         ] },
-        { title: 'Final Fantasy Agito', releaseDate: '2014-05-14', chronoOrder: 100550, recommendedOrder: 1000, tags: ['Optional', 'Spin-off', 'RPG', 'Multiplayer', 'Alternate Universe', 'Terminated'], mediaType: 'Game',
-        parts: [
-          { label: 'Final Fantasy Agito (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Agito#' },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'Companion entry to ' },
-          { emText: 'Type-0 (2011)' },
-          { text: ', you play a cadet entering the Rubrum Magical Academy during a time of war, and chosen to become the Agito, a figure destined to save Orience from destruction.' },
-        ],
-        desc3Parts: [
-          { text: 'Due to it being terminated, and never released outside of Japan, it is recommended to watch a fan story recap or playthrough for story elements.' },
-        ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }],
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+        {
+          title: 'Final Fantasy Agito',
+          releaseDate: '2014-05-14',
+          chronoOrder: 100550,
+          recommendedOrder: 1000,
+          tags: ['Optional', 'Spin-off', 'RPG', 'Multiplayer', 'Alternate Universe', 'Terminated'],
+          mediaType: 'Game',
+
+          parts: [
+            { label: 'Final Fantasy Agito (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Agito#' },
           ],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; JP)', jpTag: true, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20agito%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20agito%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20agito%20playthrough' },
-          ],
-        ] },
+
+          description: [[
+            { text: 'Companion entry to ' },
+            { emText: 'Type-0 (2011)' },
+            { text: ', you play a cadet entering the Rubrum Magical Academy during a time of war, and chosen to become the Agito, a figure destined to save Orience from destruction.' },
+          ], [
+            { text: 'Due to it being terminated, and never released outside of Japan, it is recommended to watch a fan story recap or playthrough for story elements.' },
+          ]],
+
+          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+            ],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; JP)', jpTag: true, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20agito%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20agito%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20agito%20playthrough' },
+            ],
+          ]
+        },
         { title: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', releaseDate: '2015-04-30', chronoOrder: 100560, recommendedOrder: 1050, tags: ['Optional', 'Novel'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale- (2015)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
         ],
-        descParts: [
+        description: [[
           { text: 'Focuses on the characters of Nine and Rubrum cadet Naghi Minatsuchi in continuity with ' },
           { emText: 'Agito (2014)' },
           { text: '.' },
-        ],
+        ]],
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/102911659' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/102911659', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
@@ -578,30 +707,39 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Agito%3A%20Change%20the%20World%20-A%20Whiter%20Shade%20of%20Pale-%20translation' }],
           [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Agito%3A%20Change%20the%20World%20-A%20Whiter%20Shade%20of%20Pale-%20story%20recap' }],
         ] },
-        { title: 'Final Fantasy Awakening', releaseDate: '2016-12-14', chronoOrder: 100570, recommendedOrder: 1100, tags: ['Optional', 'Spin-off', 'RPG', 'Multiplayer', 'Alternate Universe', 'Terminated'], mediaType: 'Game',
-        parts: [
-          { label: 'Final Fantasy Awakening (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Awakening' },
-        ],
-        desc2Last: true,
-        desc2Parts: [
-          { text: 'Set in the ' },
-          { emText: 'Type-0 (2011)' },
-          { text: ' alternate universe, you play as a cadet of the Dominion of Rubrum as the four nations of Orience are plunged into war.' },
-        ],
-        desc3Parts: [
-          { text: 'Due to it being terminated, it is recommended to watch a fan story recap or playthrough for story elements.' },
-        ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
-        helpWanted: true,
-        platformGroups: [
-          [
-            { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+        {
+          title: 'Final Fantasy Awakening',
+          releaseDate: '2016-12-14',
+          chronoOrder: 100570,
+          recommendedOrder: 1100,
+          tags: ['Optional', 'Spin-off', 'RPG', 'Multiplayer', 'Alternate Universe', 'Terminated'],
+          mediaType: 'Game',
+
+          parts: [
+            { label: 'Final Fantasy Awakening (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Awakening' },
           ],
-          [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20awakening%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20awakening%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20awakening%20playthrough' },
-          ],
-        ] },
+
+          description: [[
+            { text: 'Set in the ' },
+            { emText: 'Type-0 (2011)' },
+            { text: ' alternate universe, you play as a cadet of the Dominion of Rubrum as the four nations of Orience are plunged into war.' },
+          ], [
+            { text: 'Due to it being terminated, it is recommended to watch a fan story recap or playthrough for story elements.' },
+          ]],
+
+          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          helpWanted: true,
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+            ],
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20awakening%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20awakening%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20awakening%20playthrough' },
+            ],
+          ]
+        },
       ]};
