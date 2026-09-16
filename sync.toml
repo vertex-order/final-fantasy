@@ -21,7 +21,7 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "95f728211c867a67a03b3081a1596d1add9d39f6"
+ref = "7a4129387e291e11a90fb2eaae033d7f2d8643b0"
 paths = [
   "docs/subtitle.md",
   "site/_ds/",
