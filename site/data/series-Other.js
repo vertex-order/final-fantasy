@@ -34,11 +34,11 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           helpWanted: true,
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/nintendo-game-boy.svg', iconSize: 12.5, imgStyle: 'width: auto; height: 12.5px;', name: 'Game Boy', noUrl: true }],
+            [{ key: 'nintendo-game-boy', name: 'Game Boy', noUrl: true }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Adventure%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Adventure%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Adventure%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Adventure%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Adventure%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Adventure%20playthrough' },
             ],
           ]
         },
@@ -67,11 +67,11 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '71', midScore: '6.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-the-4-heroes-of-light/', url: 'https://www.metacritic.com/game/final-fantasy-the-4-heroes-of-light/', single: true, sourceLabel: 'Metacritic' },
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/nintendo-ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo DS', noUrl: true }],
+            [{ key: 'nintendo-ds', name: 'Nintendo DS', noUrl: true }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20The%204%20Heroes%20of%20Light%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20The%204%20Heroes%20of%20Light%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20The%204%20Heroes%20of%20Light%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20The%204%20Heroes%20of%20Light%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20The%204%20Heroes%20of%20Light%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20The%204%20Heroes%20of%20Light%20playthrough' },
             ],
           ]
         },
@@ -98,13 +98,13 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '73', midScore: '6.6', midUrl: 'https://www.metacritic.com/game/mobius-final-fantasy/', url: 'https://www.metacritic.com/game/mobius-final-fantasy/', single: true, sourceLabel: 'Metacritic' },
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'steam', name: 'Steam; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Mobius%20Final%20Fantasy%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Mobius%20Final%20Fantasy%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Mobius%20Final%20Fantasy%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Mobius%20Final%20Fantasy%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Mobius%20Final%20Fantasy%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Mobius%20Final%20Fantasy%20playthrough' },
             ],
           ]
         },
@@ -132,14 +132,14 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '75', midScore: '7.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-record-keeper/', url: 'https://www.metacritic.com/game/final-fantasy-record-keeper/', single: true, sourceLabel: 'Metacritic' },
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (JP)', jpTag: true, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (Non-Japan); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP)', jpTag: true, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (Non-Japan); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'android2', name: 'Android (JP)', jpTag: true, noUrl: true }],
+            [{ key: 'android2', name: 'Android (Non-Japan); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'apple', name: 'iOS (JP)', jpTag: true, noUrl: true }],
+            [{ key: 'apple', name: 'iOS (Non-Japan); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Record%20Keeper%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Record%20Keeper%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Record%20Keeper%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Record%20Keeper%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Record%20Keeper%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Record%20Keeper%20playthrough' },
             ],
           ]
         },
@@ -164,8 +164,8 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         ],
         rating: { scoreLabelText: 'Goodreads', score: '4.10', url: 'https://www.goodreads.com/book/show/40223499-final-fantasy-lost-stranger-vol-1', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manga', url: 'https://yenpress.com/series/final-fantasy-lost-stranger' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap (chapter-by-chapter wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Category:Final_Fantasy_Lost_Stranger_chapters' }],
+          [{ key: 'book', name: 'Manga', url: 'https://yenpress.com/series/final-fantasy-lost-stranger' }],
+          [{ key: 'fan-recap', name: 'Fan story recap (chapter-by-chapter wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Category:Final_Fantasy_Lost_Stranger_chapters' }],
         ] },
         {
           title: "Chocobo's series",
@@ -184,23 +184,23 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]],
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4', noUrl: true }],
+            [{ key: 'playstation4', name: 'PlayStation 4', noUrl: true }],
             [
-              { icon: null, iconImg: 'images/platforms/playstation1.svg', iconSize: 9, imgStyle: 'width: auto; height: 9px;', name: 'PlayStation (PSone) (Physical)', noUrl: true },
-              { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (PSone compatibility)', noUrl: true },
-              { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PSone compatibility)', noUrl: true },
+              { key: 'playstation1', noUrl: true },
+              { key: 'playstation2', name: 'PlayStation 2 (PSone compatibility)', noUrl: true },
+              { key: 'playstation3', name: 'PlayStation 3 (PSone compatibility)', noUrl: true },
             ],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch compatibility)', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-wii.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo 3DS', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo DS', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-game-boy-advance.svg', iconSize: 12.5, imgStyle: 'width: auto; height: 12.5px;', name: 'Game Boy Advance (Physical)', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/wonderswan.svg', iconSize: 15.93, imgStyle: 'width: auto; height: 15.93px;', name: 'WonderSwan Color (Physical; Japan Only)', jpTag: true, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/facebook.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Facebook (Messenger)', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'Mobile Phones; terminated', noUrl: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+            [{ key: 'nintendo-switch', name: 'Nintendo Switch', noUrl: true }],
+            [{ key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch compatibility)', noUrl: true }],
+            [{ key: 'nintendo-wii', name: 'Nintendo Wii', noUrl: true }],
+            [{ key: 'nintendo-3ds', name: 'Nintendo 3DS', noUrl: true }],
+            [{ key: 'nintendo-ds', name: 'Nintendo DS', noUrl: true }],
+            [{ key: 'nintendo-game-boy-advance', noUrl: true }],
+            [{ key: 'wonderswan', noUrl: true }],
+            [{ key: 'android2', noUrl: true }],
+            [{ key: 'apple', noUrl: true }],
+            [{ key: 'facebook', noUrl: true }],
+            [{ key: 'mobile-phone', name: 'Mobile Phones; terminated', noUrl: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
           ]
         },
         { title: 'Kingdom Hearts (series)', releaseDate: '2002-03-28', chronoOrder: 250, recommendedOrder: 305, tags: ['Optional', 'Crossover series'], mediaType: 'Game',
@@ -232,8 +232,8 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '46', url: 'https://www.metacritic.com/game/voice-fantasy/', single: true, sourceLabel: 'Metacritic' },
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Voice%20Fantasy%20playthrough' }],
+            [{ key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Voice%20Fantasy%20playthrough' }],
           ]
         },
         { title: 'Final Fantasy Airborne Brigade', releaseDate: '2012-01-06', chronoOrder: 500, recommendedOrder: 355, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Social RPG', 'Jobs', 'Multiplayer', 'Co-op', 'Mobile', 'Terminated'], mediaType: 'Game',
@@ -248,12 +248,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         helpWanted: true,
         rating: { textOnly: true, abbrTerm: 'NYR', abbrDef: 'Not Yet Rated', url: 'https://www.metacritic.com/game/final-fantasy-airborne-brigade/', abbrTermLinked: true },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+          [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+          [{ key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Airborne%20Brigade%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Airborne%20Brigade%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Airborne%20Brigade%20playthrough' },
+            { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Airborne%20Brigade%20movie' },
+            { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Airborne%20Brigade%20story%20recap' },
+            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Airborne%20Brigade%20playthrough' },
           ],
         ],
         },
@@ -269,9 +269,9 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         helpWanted: true,
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '25', midScore: '2.1', midUrl: 'https://www.metacritic.com/game/final-fantasy-all-the-bravest/', url: 'https://www.metacritic.com/game/final-fantasy-all-the-bravest/', single: true, sourceLabel: 'Metacritic' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20All%20the%20Bravest%20playthrough' }],
+          [{ key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+          [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+          [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20All%20the%20Bravest%20playthrough' }],
         ],
         },
         {
@@ -296,10 +296,10 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           rating: { textOnly: true, abbrTerm: 'NYR', abbrDef: 'Not Yet Rated', url: 'https://www.metacritic.com/game/pictlogica-final-fantasy/', abbrTermLinked: true },
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: '3DS (JP) (Digital); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Pictlogica%20Final%20Fantasy%20playthrough' }],
+            [{ key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'nintendo-3ds', name: '3DS (JP) (Digital); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Pictlogica%20Final%20Fantasy%20playthrough' }],
           ]
         },
         {
@@ -323,9 +323,9 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]],
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20World%20Wide%20Words%20playthrough' }],
+            [{ key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20World%20Wide%20Words%20playthrough' }],
           ]
         },
         {
@@ -352,13 +352,13 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '78', midScore: '7.1', midUrl: 'https://www.metacritic.com/game/heavenstrike-rivals/', url: 'https://www.metacritic.com/game/heavenstrike-rivals/', single: true, sourceLabel: 'Metacritic' },
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'steam', name: 'Steam; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Heavenstrike%20Rivals%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Heavenstrike%20Rivals%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Heavenstrike%20Rivals%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Heavenstrike%20Rivals%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Heavenstrike%20Rivals%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Heavenstrike%20Rivals%20playthrough' },
             ],
           ]
         },
@@ -392,9 +392,9 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           rating: { textOnly: true, abbrTerm: 'NYR', abbrDef: 'Not Yet Rated', url: 'https://www.metacritic.com/game/final-fantasy-portal-app/', abbrTermLinked: true },
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay' }],
-            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Portal%20App%20Triple%20Triad%20playthrough' }],
+            [{ key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay' }],
+            [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Portal%20App%20Triple%20Triad%20playthrough' }],
           ]
         },
         {
@@ -418,10 +418,10 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]],
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/globe.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Browser (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Digital%20Card%20Game%20playthrough' }],
+            [{ key: 'globe', name: 'Browser (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Digital%20Card%20Game%20playthrough' }],
           ]
         },
         {
@@ -456,12 +456,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           storeUrl: 'https://www.square-enix.com/saga/en-us/games/collection-saga-final-fantasy-legend/',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/nintendo-game-boy.svg', iconSize: 12.5, imgStyle: 'width: auto; height: 12.5px;', name: 'Nintendo Game Boy (Physical)', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/1642620/COLLECTION_of_SaGa_FINAL_FANTASY_LEGEND/' }],
-            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.SagaCollection_Sww' }],
+            [{ key: 'nintendo-game-boy', noUrl: true }],
+            [{ key: 'steam', url: 'https://store.steampowered.com/app/1642620/COLLECTION_of_SaGa_FINAL_FANTASY_LEGEND/' }],
+            [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.SagaCollection_Sww' }],
             [
-              { icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/collection-of-saga-final-fantasy-legend-switch/' },
-              { icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch compatibility; Digital)', url: 'https://www.nintendo.com/store/products/collection-of-saga-final-fantasy-legend-switch/' },
+              { key: 'nintendo-switch', name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/collection-of-saga-final-fantasy-legend-switch/' },
+              { key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch compatibility; Digital)', url: 'https://www.nintendo.com/store/products/collection-of-saga-final-fantasy-legend-switch/' },
             ],
           ]
         },

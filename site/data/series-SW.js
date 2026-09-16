@@ -28,12 +28,12 @@ window.__ffSeriesReg['SW'] = { num: 'SW', releaseDate: '2001-07-02', chronoOrder
         rating: { scoreLabelText: 'IMDb', midLabelText: 'Metacritic', score: '6.4', midScore: '49', midUrl: 'https://www.metacritic.com/movie/final-fantasy-the-spirits-within/', source: '5.9', url: 'https://www.imdb.com/title/tt0173840/', sourceUrl: 'https://www.metacritic.com/movie/final-fantasy-the-spirits-within/', sourceLabel: 'Metacritic Users' },
         platformGroups: [
           [
-            { icon: null, iconImg: 'images/platforms/blu-ray.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'UltraHD Blu-ray', noUrl: true, prefix: 'U' },
-            { icon: null, iconImg: 'images/platforms/blu-ray.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'Blu-ray', noUrl: true },
-            { icon: null, iconImg: 'images/platforms/dvd.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'DVD', noUrl: true },
+            { key: 'blu-ray', name: 'UltraHD Blu-ray', noUrl: true, prefix: 'U' },
+            { key: 'blu-ray', noUrl: true },
+            { key: 'dvd', noUrl: true },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20The%20Spirits%20Within%20story%20recap' },
+            { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20The%20Spirits%20Within%20story%20recap' },
           ],
         ] },
         { title: 'Final Fantasy: The Spirits Within Novel', releaseDate: '2001-06-26', chronoOrder: 500, recommendedOrder: 200, tags: ['Optional', 'Novel'], mediaType: 'Book',
@@ -52,8 +52,8 @@ window.__ffSeriesReg['SW'] = { num: 'SW', releaseDate: '2001-07-02', chronoOrder
         ],
         rating: { scoreLabelText: 'Goodreads', score: '3.31', url: 'https://www.goodreads.com/book/show/2018984.Final_Fantasy', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel', noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20The%20Spirits%20Within%20Novel%20Dean%20Wesley%20Smith%20story%20recap' }],
+          [{ key: 'book', name: 'Novel', noUrl: true }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20The%20Spirits%20Within%20Novel%20Dean%20Wesley%20Smith%20story%20recap' }],
         ],
         alt: {
           parts: [
@@ -69,8 +69,8 @@ window.__ffSeriesReg['SW'] = { num: 'SW', releaseDate: '2001-07-02', chronoOrder
           rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/5941120', single: true, sourceLabel: 'Goodreads' },
           helpWanted: true,
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'YA Novel', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20The%20Spirits%20Within%20YA%20Novel%20John%20Vornholt%20story%20recap' }],
+            [{ key: 'book', name: 'YA Novel', noUrl: true }],
+            [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20The%20Spirits%20Within%20YA%20Novel%20John%20Vornholt%20story%20recap' }],
           ],
         } },
       ]};

@@ -46,23 +46,23 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '79', midScore: '6.3', midUrl: 'https://www.metacritic.com/game/final-fantasy-iii-pixel-remaster/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-iii-pixel-remaster/', sourceUrl: 'https://store.steampowered.com/app/1173790/FINAL_FANTASY_III/', sourceLabel: 'Steam; Very Positive' },
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' }],
-            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/1173790?' }],
-            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR3&' }],
-            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://apps.apple.com/app/final-fantasy-iii/id1492041436?' }],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-iii-switch/' }],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-iii-switch/' }],
+            [{ key: 'windows', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' }],
+            [{ key: 'steam', url: 'https://store.steampowered.com/app/1173790?' }],
+            [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR3&' }],
+            [{ key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-iii/id1492041436?' }],
+            [{ key: 'nintendo-switch', url: 'https://www.nintendo.com/store/products/final-fantasy-iii-switch/' }],
+            [{ key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-iii-switch/' }],
             [
-              { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA33825_00-FF3PS4APPNA00001' },
-              { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA33825_00-FF3PS4APPNA00001' },
+              { key: 'playstation4', url: 'https://store.playstation.com/product/UP0082-CUSA33825_00-FF3PS4APPNA00001' },
+              { key: 'playstation5', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA33825_00-FF3PS4APPNA00001' },
             ],
-            [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' }],
-            [{ icon: null, iconImg: 'images/platforms/xbox-cloud.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' }],
-            [{ icon: null, iconImg: 'images/platforms/amazon.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Amazon App Store', url: 'https://www.amazon.com/dp/B099KBVZW1?' }],
+            [{ key: 'xbox-xs', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' }],
+            [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' }],
+            [{ key: 'amazon', url: 'https://www.amazon.com/dp/B099KBVZW1?' }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20III%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20III%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20III%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20III%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20III%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20III%20playthrough' },
             ],
           ],
 
@@ -82,11 +82,11 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
                 { value: 'KO', tip: 'Korean (Fan Translation) (2003)' },
               ],
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/nintendo-wii-u.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
-                [{ icon: null, iconImg: 'images/platforms/nintendo-wii.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
-                [{ icon: null, iconImg: 'images/platforms/nintendo-nes-classic-edition.svg', iconSize: 9.61, imgStyle: 'width: auto; height: 9.61px;', name: 'Nintendo NES Classic Edition (Japan Only)', jpTag: true }],
-                [{ icon: null, iconImg: 'images/platforms/nintendo-fc.svg', iconSize: 9.61, imgStyle: 'width: auto; height: 9.61px;', name: 'Nintendo Famicom (Physical; Japan Only)', jpTag: true }],
-                [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                [{ key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                [{ key: 'nintendo-nes-classic-edition', name: 'Nintendo NES Classic Edition (Japan Only)', jpTag: true }],
+                [{ key: 'nintendo-fc' }],
+                [{ key: 'nintendo-3ds', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
               ],
             },
           ],
@@ -125,9 +125,9 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '79', midScore: '7.5', midUrl: 'https://www.metacritic.com/game/final-fantasy-iii-3d-remake/', source: 'MP', url: 'https://www.metacritic.com/game/final-fantasy-iii-3d-remake/', sourceUrl: 'https://store.steampowered.com/app/239120/Final_Fantasy_III_3D_Remake/', sourceLabel: 'Steam; Mostly Positive' },
 
             platformGroups: [
-              [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: null, noUrl: true }],
-              [{ icon: null, iconImg: 'images/platforms/gog.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'GOG (PC)', url: 'https://www.gog.com/en/game/final_fantasy_iii_3d_remake' }],
-              [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/agecheck/app/239120/', pointerEvents: 'auto' }],
+              [{ key: 'windows', name: 'Windows', url: null, noUrl: true }],
+              [{ key: 'gog', url: 'https://www.gog.com/en/game/final_fantasy_iii_3d_remake' }],
+              [{ key: 'steam', url: 'https://store.steampowered.com/agecheck/app/239120/', pointerEvents: 'auto' }],
             ],
 
             platformsUrl: 'https://store.steampowered.com/app/239120/Final_Fantasy_III_3D_Remake/',
@@ -144,10 +144,10 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
                 helpWanted: true,
                 platformGroups: [
-                  [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (Digital)' }],
-                  [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (Digital)' }],
-                  [{ icon: null, iconImg: 'images/platforms/ouya.svg', iconSize: 13.5, imgStyle: 'width: auto; height: 13.5px;', name: 'Ouya (Digital); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-                  [{ icon: null, iconImg: 'images/platforms/windows-phone.svg', iconSize: 17.25, imgStyle: 'width: auto; height: 17.25px;', name: 'Windows Phone (Digital)', url: null, noUrl: true }],
+                  [{ key: 'apple', name: 'iOS (Digital)' }],
+                  [{ key: 'android2', name: 'Android (Digital)' }],
+                  [{ key: 'ouya', name: 'Ouya (Digital); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+                  [{ key: 'windows-phone', name: 'Windows Phone (Digital)', url: null, noUrl: true }],
                 ],
               },
               {
@@ -161,7 +161,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
                 helpWanted: true,
                 platformGroups: [
-                  [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (Physical in Japan; Digital elsewhere)' }],
+                  [{ key: 'playstation-portable', name: 'PlayStation Portable (Physical in Japan; Digital elsewhere)' }],
                 ],
               },
               {
@@ -175,7 +175,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
                 helpWanted: true,
                 platformGroups: [
-                  [{ icon: null, iconImg: 'images/platforms/nintendo-ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo DS (Physical)' }],
+                  [{ key: 'nintendo-ds', name: 'Nintendo DS (Physical)' }],
                 ],
               },
             ]
@@ -196,9 +196,9 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
           { text: '.' },
         ]],
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manga (Japan Only)', jpTag: true, url: 'https://archive.org/details/YukyunoKazeDensetsuFinalFantasyIIIYori/Legend%20of%20the%20Eternal%20Wind%20from%20Final%20Fantasy%20III%2001/mode/2up' },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://duckduckgo.com/?q=Y%C5%ABky%C5%AB%20no%20Kaze%20Densetsu%20Final%20Fantasy%20III%20Legend%20of%20the%20Eternal%20Wind%3A%20from%20Final%20Fantasy%20III%20translation&t=h_&ia=web' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Y%C5%ABky%C5%AB%20no%20Kaze%20Densetsu%20Final%20Fantasy%20III%20Yori%20story%20recap' }],
+          [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, url: 'https://archive.org/details/YukyunoKazeDensetsuFinalFantasyIIIYori/Legend%20of%20the%20Eternal%20Wind%20from%20Final%20Fantasy%20III%2001/mode/2up' },
+            { key: 'fan-translation', url: 'https://duckduckgo.com/?q=Y%C5%ABky%C5%AB%20no%20Kaze%20Densetsu%20Final%20Fantasy%20III%20Legend%20of%20the%20Eternal%20Wind%3A%20from%20Final%20Fantasy%20III%20translation&t=h_&ia=web' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Y%C5%ABky%C5%AB%20no%20Kaze%20Densetsu%20Final%20Fantasy%20III%20Yori%20story%20recap' }],
         ] },
         { title: 'Final Fantasy I・II・III: Memory of Heroes ~III~ (2012)', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 300, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
         parts: [
@@ -218,8 +218,8 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
         ]],
         rating: { scoreLabelText: 'Goodreads', score: '3.24', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', noUrl: true }],
-        [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20story%20recap' }],
-        [{ icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Audiobook (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20audiobook' }],
+          [{ key: 'book', name: 'Short Stories', noUrl: true }],
+        [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20story%20recap' }],
+        [{ key: 'fan-audiobook', name: 'Fan Audiobook (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20audiobook' }],
         ] },
       ]};

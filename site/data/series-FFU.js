@@ -16,8 +16,8 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
         ],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '5.9', url: 'https://www.imdb.com/title/tt0304012/', single: true, sourceLabel: 'IMDb' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/dvd.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'DVD', noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20anime%20story%20recap' }],
+          [{ key: 'dvd', noUrl: true }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20anime%20story%20recap' }],
         ],
         },
         {
@@ -42,11 +42,11 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20with%20U%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20with%20U%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20with%20U%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20with%20U%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20with%20U%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20with%20U%20playthrough' },
             ],
-            [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'Mobile Phones (JP); terminated', jpTag: true, noUrl: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+            [{ key: 'mobile-phone', name: 'Mobile Phones (JP); terminated', jpTag: true, noUrl: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
           ]
         },
         {
@@ -71,11 +71,11 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20on%20PC%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20on%20PC%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20on%20PC%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20on%20PC%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20on%20PC%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20on%20PC%20playthrough' },
             ],
-            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (JP)', jpTag: true, noUrl: true }],
+            [{ key: 'windows', name: 'Windows (JP)', jpTag: true, noUrl: true }],
           ]
         },
         {
@@ -100,11 +100,11 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           languages: [{ value: 'JA', tip: 'Japanese', native: true }],
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/mobile-phone.svg', iconSize: 16.75, imgStyle: 'width: auto; height: 16.75px;', name: 'Mobile Phones (JP); terminated', jpTag: true, noUrl: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
-            [{ icon: null, iconImg: 'images/platforms/compact-disc.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'CD (JP)', jpTag: true, noUrl: true },
-              { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Audio (unofficial; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20Voice%20Theater%20audio%20drama' },
-              { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20Voice%20Theater%20translation' }],
-            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20Voice%20Theater%20story%20recap' }],
+            [{ key: 'mobile-phone', name: 'Mobile Phones (JP); terminated', jpTag: true, noUrl: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+            [{ key: 'compact-disc', name: 'CD (JP)', jpTag: true, noUrl: true },
+              { key: 'fan-audiobook', name: 'Audio (unofficial; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20Voice%20Theater%20audio%20drama' },
+              { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20Voice%20Theater%20translation' }],
+            [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20Voice%20Theater%20story%20recap' }],
           ]
         },
         {
@@ -134,9 +134,9 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           languages: [{ value: 'JA', tip: 'Japanese', native: true }],
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel (JP)', jpTag: true, noUrl: true },
-              { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20Twin%20Bonds%20translation' }],
-            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20S%C5%8D%20no%20Kizuna%20story%20recap' }],
+            [{ key: 'book', name: 'Novel (JP)', jpTag: true, noUrl: true },
+              { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20Twin%20Bonds%20translation' }],
+            [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20S%C5%8D%20no%20Kizuna%20story%20recap' }],
           ]
         },
         {
@@ -163,9 +163,9 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77412483', single: true, sourceLabel: 'Goodreads' },
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manga (JP)', jpTag: true, noUrl: true },
-              { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20After%20translation' }],
-            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20After%20story%20recap' }],
+            [{ key: 'book', name: 'Manga (JP)', jpTag: true, noUrl: true },
+              { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20After%20translation' }],
+            [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20After%20story%20recap' }],
           ]
         },
         {
@@ -193,9 +193,9 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Web novel (JP)', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' }],
-            [{ icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' }],
-            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' }],
+            [{ key: 'book', name: 'Web novel (JP)', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' }],
+            [{ key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' }],
+            [{ key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' }],
           ]
         },
         {
@@ -223,10 +223,10 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           languages: [{ value: 'JA', tip: 'Japanese', native: true }],
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/compact-disc.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'CD (JP)', jpTag: true, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Audio drama (JP) (unofficial)', jpTag: true, url: 'https://www.nicovideo.jp/watch/sm1823501' },
-              { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20After%202%20translation' }],
-            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20After%202%20story%20recap' }],
+            [{ key: 'compact-disc', name: 'CD (JP)', jpTag: true, noUrl: true }],
+            [{ key: 'fan-audiobook', name: 'Audio drama (JP) (unofficial)', jpTag: true, url: 'https://www.nicovideo.jp/watch/sm1823501' },
+              { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20After%202%20translation' }],
+            [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20After%202%20story%20recap' }],
           ]
         },
         {
@@ -250,10 +250,10 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           languages: [{ value: 'JA', tip: 'Japanese', native: true }],
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/compact-disc.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'CD (JP)', jpTag: true, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Audio (unofficial) (JP)', jpTag: true, url: 'https://www.nicovideo.jp/watch/sm2427549' },
-              { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20Before%20translation' }],
-            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20Before%20story%20recap' }],
+            [{ key: 'compact-disc', name: 'CD (JP)', jpTag: true, noUrl: true }],
+            [{ key: 'fan-audiobook', name: 'Audio (unofficial) (JP)', jpTag: true, url: 'https://www.nicovideo.jp/watch/sm2427549' },
+              { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20Before%20translation' }],
+            [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20Before%20story%20recap' }],
           ]
         },
       ]};
