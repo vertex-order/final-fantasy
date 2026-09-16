@@ -454,7 +454,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           mainline: true,
           tags: ['Trilogy', 'Part 3', 'Real-time action'],
           mediaType: 'Game',
-          upcoming: true,
 
           parts: [
             { label: 'Final Fantasy VII (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII' },

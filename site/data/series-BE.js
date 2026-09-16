@@ -6,7 +6,6 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           recommendedOrder: 100,
           tags: ['Turn-based RPG', 'Single-player'],
           mediaType: 'Game',
-          upcoming: true,
 
           parts: [
             { label: 'Final Fantasy Resonance (2026)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Resonance' },
