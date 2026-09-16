@@ -42,11 +42,11 @@ window.__ffSeriesReg['MQ'] = { num: 'MQ', releaseDate: '1992-10-05', chronoOrder
           ],
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/nintendo-snes.svg', iconSize: 14.25, imgStyle: 'width: auto; height: 14.25px; filter: grayscale(100%);', name: 'Super Nintendo Entertainment System (Super Famicom; Physical)', noUrl: true }],
+            [{ key: 'nintendo-snes', name: 'Super Nintendo Entertainment System (Super Famicom; Physical)', noUrl: true }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Mystic%20Quest%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Mystic%20Quest%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Mystic%20Quest%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Mystic%20Quest%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Mystic%20Quest%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Mystic%20Quest%20playthrough' },
             ],
           ]
         },

@@ -19,20 +19,20 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '83', source: 'MP', url: 'https://www.metacritic.com/game/final-fantasy-xiii/', sourceUrl: 'https://store.steampowered.com/app/292120/FINAL_FANTASY_XIII/', sourceLabel: 'Steam; Mostly Positive' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xiii',
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii/9mtv87hfmf43' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/292120/FINAL_FANTASY_XIII/' }],
+          [{ key: 'windows', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii/9mtv87hfmf43' }],
+          [{ key: 'steam', url: 'https://store.steampowered.com/app/292120/FINAL_FANTASY_XIII/' }],
           [
-            { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (JP)', jpTag: true, url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-xiii' },
-            { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP)', jpTag: true, url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-xiii' },
+            { key: 'android2', name: 'Android (JP)', jpTag: true, url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-xiii' },
+            { key: 'apple', name: 'iOS (JP)', jpTag: true, url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-xiii' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii/bsg43bdrn81r' },
-            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii/bsg43bdrn81r' },
+            { key: 'xbox-one', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii/bsg43bdrn81r' },
+            { key: 'xbox-xs', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii/bsg43bdrn81r' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20playthrough' },
+            { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20game%20movie' },
+            { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20story%20recap' },
+            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20playthrough' },
           ],
         ],
         alt: {
@@ -56,9 +56,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
 
               platformGroups: [
                 [
-                  { icon: null, iconImg: 'images/platforms/xbox-360.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox 360', noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (360 compatibility)', noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (360 compatibility)', noUrl: true },
+                  { key: 'xbox-360', name: 'Xbox 360', noUrl: true },
+                  { key: 'xbox-one', name: 'Xbox One (360 compatibility)', noUrl: true },
+                  { key: 'xbox-xs', name: 'Xbox Series X/S (360 compatibility)', noUrl: true },
                 ],
               ]
             },
@@ -72,11 +72,11 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
               languages: [{ value: 'JA', tip: 'Japanese', native: true, voice: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
               helpWanted: true,
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (Physical; not on Digital)', noUrl: true }],
+                [{ key: 'playstation3', name: 'PlayStation 3 (Physical; not on Digital)', noUrl: true }],
                 [
-                  { icon: null, iconImg: 'images/platforms/xbox-360.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox 360 (Physical; not on Digital)', noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (360 compatibility)', noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (360 compatibility)', noUrl: true },
+                  { key: 'xbox-360', name: 'Xbox 360 (Physical; not on Digital)', noUrl: true },
+                  { key: 'xbox-one', name: 'Xbox One (360 compatibility)', noUrl: true },
+                  { key: 'xbox-xs', name: 'Xbox Series X/S (360 compatibility)', noUrl: true },
                 ],
               ],
             },
@@ -111,9 +111,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novella (Japan only)', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu' },
-              { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu#Fan_translation' }],
-            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII%20A%20Dreaming%20Cocoon%20Falls%20into%20the%20Dawn%20story%20recap' }],
+            [{ key: 'book', name: 'Novella (Japan only)', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu' },
+              { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu#Fan_translation' }],
+            [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII%20A%20Dreaming%20Cocoon%20Falls%20into%20the%20Dawn%20story%20recap' }],
           ]
         },
         {
@@ -152,9 +152,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before' },
-              { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before#External_links' }],
-            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20Before%20story%20recap' }],
+            [{ key: 'book', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before' },
+              { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before#External_links' }],
+            [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20Before%20story%20recap' }],
           ]
         },
         {
@@ -192,17 +192,17 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xiii-2',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/9mvj3vl1v3vp' }],
-            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/' }],
+            [{ key: 'windows', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/9mvj3vl1v3vp' }],
+            [{ key: 'steam', url: 'https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/' }],
             [
-              { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-xiii-2' },
-              { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-xiii-2' },
+              { key: 'android2', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-xiii-2' },
+              { key: 'apple', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-xiii-2' },
             ],
-            [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (FPS Boost; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' }],
+            [{ key: 'xbox-xs', name: 'Xbox Series X/S (FPS Boost; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII-2%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII-2%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII-2%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII-2%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII-2%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII-2%20playthrough' },
             ],
           ],
 
@@ -219,8 +219,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
                 helpWanted: true,
                 platformGroups: [
-                  [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', noUrl: true }],
-                  [{ icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' }],
+                  [{ key: 'steam', name: 'Steam (PC)', noUrl: true }],
+                  [{ key: 'xbox-one', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' }],
                 ],
               },
               {
@@ -231,11 +231,11 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
                 helpWanted: true,
                 platformGroups: [
-                  [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3', noUrl: true }],
+                  [{ key: 'playstation3', name: 'PlayStation 3', noUrl: true }],
                   [
-                    { icon: null, iconImg: 'images/platforms/xbox-360.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox 360', noUrl: true },
-                    { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (360 compatibility)', noUrl: true },
-                    { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (360 compatibility)', noUrl: true },
+                    { key: 'xbox-360', name: 'Xbox 360', noUrl: true },
+                    { key: 'xbox-one', name: 'Xbox One (360 compatibility)', noUrl: true },
+                    { key: 'xbox-xs', name: 'Xbox Series X/S (360 compatibility)', noUrl: true },
                   ],
                 ],
               },
@@ -273,11 +273,11 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After' },
-              { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After#External_links' }],
+            [{ key: 'book', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After' },
+              { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After#External_links' }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20After%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan audiobook', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20After%20story%20audiobook' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20After%20story%20recap' },
+              { key: 'fan-audiobook', name: 'Fan audiobook', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20After%20story%20audiobook' },
             ],
           ]
         },
@@ -327,20 +327,20 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           storeUrl: 'https://www.square-enix-games.com/games/lightning-returns-final-fantasy-xiii',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/lightning-returns-final-fantasy-xiii/9plf9mr720sj' }],
-            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/' }],
+            [{ key: 'windows', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/lightning-returns-final-fantasy-xiii/9plf9mr720sj' }],
+            [{ key: 'steam', url: 'https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/' }],
             [
-              { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (JP)', jpTag: true, url: 'https://www.square-enix-games.com/en_US/games/lightning-returns-final-fantasy-xiii' },
-              { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP)', jpTag: true, url: 'https://www.square-enix-games.com/en_US/games/lightning-returns-final-fantasy-xiii' },
+              { key: 'android2', name: 'Android (JP)', jpTag: true, url: 'https://www.square-enix-games.com/en_US/games/lightning-returns-final-fantasy-xiii' },
+              { key: 'apple', name: 'iOS (JP)', jpTag: true, url: 'https://www.square-enix-games.com/en_US/games/lightning-returns-final-fantasy-xiii' },
             ],
             [
-              { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg' },
-              { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (FPS Boost; Digital)', url: 'https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg' },
+              { key: 'xbox-one', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg' },
+              { key: 'xbox-xs', name: 'Xbox Series X/S (FPS Boost; Digital)', url: 'https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg' },
             ],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=lightning%20returns%20final%20fantasy%20XIII-3%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=lightning%20returns%20final%20fantasy%20XIII-3%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=lightning%20returns%20final%20fantasy%20XIII-3%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=lightning%20returns%20final%20fantasy%20XIII-3%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=lightning%20returns%20final%20fantasy%20XIII-3%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=lightning%20returns%20final%20fantasy%20XIII-3%20playthrough' },
             ],
           ],
 
@@ -357,10 +357,10 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
                 languages: [{ value: 'JA', tip: 'Japanese', native: true, voice: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
                 helpWanted: true,
                 platformGroups: [
-                  [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', noUrl: true }],
+                  [{ key: 'steam', name: 'Steam (PC)', noUrl: true }],
                   [
-                    { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Xbox 360 compatibility, Xbox One X Enhanced)', noUrl: true },
-                    { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Xbox One compatibility)', noUrl: true },
+                    { key: 'xbox-one', name: 'Xbox One (Xbox 360 compatibility, Xbox One X Enhanced)', noUrl: true },
+                    { key: 'xbox-xs', name: 'Xbox Series X/S (Xbox One compatibility)', noUrl: true },
                   ],
                 ],
               },
@@ -374,8 +374,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
                 languages: [{ value: 'JA', tip: 'Japanese', native: true, voice: true }, { value: 'EN', tip: 'English', voice: true }, { value: '…?', tip: 'Unknown additional languages' }],
                 helpWanted: true,
                 platformGroups: [
-                  [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3', noUrl: true }],
-                  [{ icon: null, iconImg: 'images/platforms/xbox-360.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox 360', noUrl: true }],
+                  [{ key: 'playstation3', name: 'PlayStation 3', noUrl: true }],
+                  [{ key: 'xbox-360', name: 'Xbox 360', noUrl: true }],
                 ],
               },
             ],
@@ -407,9 +407,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novella (Japan only)', jpTag: true, noUrl: true },
-              { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-#External_links' }],
-            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-#Story' }],
+            [{ key: 'book', name: 'Novella (Japan only)', jpTag: true, noUrl: true },
+              { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-#External_links' }],
+            [{ key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-#Story' }],
           ]
         },
         {
@@ -445,10 +445,10 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-' }],
+            [{ key: 'book', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-' }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Audiobook (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20audiobook' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20story%20recap' },
+              { key: 'fan-audiobook', name: 'Fan Audiobook (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20audiobook' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20story%20recap' },
             ],
           ],
 
@@ -473,10 +473,10 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD',
 
             platformGroups: [
-              [{ icon: null, iconImg: 'images/platforms/compact-disc.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'Compact Disc', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD' }],
+              [{ key: 'compact-disc', name: 'Compact Disc', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD' }],
               [
-                { icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'YouTube (unofficial)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20drama%20CD' },
-                { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20story%20recap' },
+                { key: 'fan-audiobook', name: 'YouTube (unofficial)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20drama%20CD' },
+                { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20story%20recap' },
               ],
             ]
           }
@@ -519,19 +519,19 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-type-0-hd',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/340170/FINAL_FANTASY_TYPE0_HD/' }],
+            [{ key: 'steam', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/340170/FINAL_FANTASY_TYPE0_HD/' }],
             [
-              { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA00994_00-00000000SUZAKUNA' },
-              { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA00994_00-00000000SUZAKUNA' },
+              { key: 'playstation4', url: 'https://store.playstation.com/product/UP0082-CUSA00994_00-00000000SUZAKUNA' },
+              { key: 'playstation5', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA00994_00-00000000SUZAKUNA' },
             ],
             [
-              { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-type-0-hd/c1f1hjk2njpj' },
-              { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-type-0-hd/c1f1hjk2njpj' },
+              { key: 'xbox-one', name: 'Xbox One (Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-type-0-hd/c1f1hjk2njpj' },
+              { key: 'xbox-xs', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-type-0-hd/c1f1hjk2njpj' },
             ],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20type-0%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20type-0%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20type-0%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20type-0%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20type-0%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20type-0%20playthrough' },
             ],
           ],
 
@@ -546,7 +546,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (Fan Translation) (SkyBlazeCloud+ 2015)' }, { value: 'ES', tip: 'Spanish (Fan Translation) (SkyBlazeCloud+ 2015)' }, { value: '…?', tip: 'Unknown additional languages' }],
                 helpWanted: true,
                 platformGroups: [
-                  [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP) (Japan only)', jpTag: true, noUrl: true }],
+                  [{ key: 'playstation-portable', name: 'PlayStation Portable (PSP) (Japan only)', jpTag: true, noUrl: true }],
                 ],
               },
             ],
@@ -574,8 +574,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
         ],
         rating: { scoreLabelText: 'Goodreads', score: '3.16', url: 'https://www.goodreads.com/book/show/25746708-final-fantasy-type-0', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manga', noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Type-0%20manga%20story%20recap' }],
+          [{ key: 'book', name: 'Manga', noUrl: true }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Type-0%20manga%20story%20recap' }],
         ] },        { title: 'Final Fantasy Type-0: The Ice Reaper', releaseDate: '2012-09-22', chronoOrder: 99900, recommendedOrder: 945, tags: ['Optional', 'Prequel', 'Manga'], mediaType: 'Comic', length: '5 volumes',
         parts: [
           { label: 'Final Fantasy Type-0: The Ice Reaper (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper' },
@@ -599,8 +599,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/43411516-final-fantasy-reishiki-gaiden-hyoken-no-shinigami---vol-1-gangan-comics' },
         ],
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manga', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper#External_links' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Type-0%20Side%20Story%3A%20The%20Ice%20Reaper%20story%20recap' }],
+          [{ key: 'book', name: 'Manga', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper#External_links' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Type-0%20Side%20Story%3A%20The%20Ice%20Reaper%20story%20recap' }],
         ] },
         { title: 'Final Fantasy Type-0: Change the World -The Answer- Vol.1', releaseDate: '2012-04-21', chronoOrder: 100500, recommendedOrder: 950, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '272p',
         parts: [
@@ -615,9 +615,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/84822449' }, { value: 'FR', tip: 'French' }, { value: 'EN', tip: 'English (fan translation)' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/84822449', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#External_links' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#Story' }],
+          [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
+            { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#External_links' }],
+          [{ key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#Story' }],
         ] },
         { title: 'Final Fantasy Type-0: Change the World -The Penultimate Truth- Vol.2', releaseDate: '2012-06-28', chronoOrder: 99950, recommendedOrder: 960, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '288p',
         parts: [
@@ -632,9 +632,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/84822454' }, { value: 'FR', tip: 'French' }, { value: 'EN', tip: 'English (fan translation)' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/84822454', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan Translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-#External_links' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-#Synopsis' }],
+          [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
+            { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-#External_links' }],
+          [{ key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-#Synopsis' }],
         ] },
         { title: 'Final Fantasy Type-0 ~The Last Truth~', releaseDate: '2015-06-04', chronoOrder: 100650, recommendedOrder: 965, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '572p; H',
         parts: [
@@ -652,9 +652,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
         helpWanted: true,
         storeUrl: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth',
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Type-0%20The%20Last%20Truth%20translation' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Type-0%20The%20Last%20Truth%20story%20recap' }],
+          [{ key: 'book', name: 'Novel', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth' }],
+          [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Type-0%20The%20Last%20Truth%20translation' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Type-0%20The%20Last%20Truth%20story%20recap' }],
         ] },
         {
           title: 'Final Fantasy Agito',
@@ -680,13 +680,13 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
             ],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; JP)', jpTag: true, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20agito%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20agito%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20agito%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube; JP)', jpTag: true, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20agito%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20agito%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20agito%20playthrough' },
             ],
           ]
         },
@@ -703,9 +703,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/102911659' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/102911659', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Agito%3A%20Change%20the%20World%20-A%20Whiter%20Shade%20of%20Pale-%20translation' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Agito%3A%20Change%20the%20World%20-A%20Whiter%20Shade%20of%20Pale-%20story%20recap' }],
+          [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
+            { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Agito%3A%20Change%20the%20World%20-A%20Whiter%20Shade%20of%20Pale-%20translation' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Agito%3A%20Change%20the%20World%20-A%20Whiter%20Shade%20of%20Pale-%20story%20recap' }],
         ] },
         {
           title: 'Final Fantasy Awakening',
@@ -732,13 +732,13 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
             ],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20awakening%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20awakening%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20awakening%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20awakening%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20awakening%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20awakening%20playthrough' },
             ],
           ]
         },

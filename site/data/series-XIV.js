@@ -46,12 +46,12 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '49', midScore: '3.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-xiv-online/', url: 'https://www.metacritic.com/game/final-fantasy-xiv-online/', single: true, sourceLabel: 'Metacritic' },
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'windows', name: 'Windows; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
             [
-              { icon: null, iconImg: 'images/platforms/youtube.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Cinematics (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%201.0%202010%20cinematics' },
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%201.0%202010%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%201.0%202010%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%202010%20playthrough' },
+              { key: 'youtube', name: 'Cinematics (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%201.0%202010%20cinematics' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%201.0%202010%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%201.0%202010%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20online%202010%20playthrough' },
             ],
           ]
         },
@@ -97,20 +97,20 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xiv-online',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: 'https://www.finalfantasyxiv.com' }],
-            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/' }],
-            [{ icon: null, iconImg: 'images/platforms/macos.svg', iconSize: 16.5, imgStyle: 'width: auto; height: 16.5px;', name: 'macOS', url: 'https://www.finalfantasyxiv.com' }],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-xiv-online-complete-edition-switch-2/' }],
-            [{ icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PS3; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Pro Enhanced; Physical; Digital); Terminated 2027', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S' }],
-            [{ icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat; Digital)', url: 'https://www.finalfantasyxiv.com' }],
-            [{ icon: null, iconImg: 'images/platforms/playstation-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S' }],
-            [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiv-online-complete-edition/9p3lzjnnmpzs' }],
-            [{ icon: null, iconImg: 'images/platforms/xbox-cloud.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-xiv-online-complete-edition/9p3lzjnnmpzs' }],
+            [{ key: 'windows', name: 'Windows', url: 'https://www.finalfantasyxiv.com' }],
+            [{ key: 'steam', url: 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/' }],
+            [{ key: 'macos', url: 'https://www.finalfantasyxiv.com' }],
+            [{ key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-xiv-online-complete-edition-switch-2/' }],
+            [{ key: 'playstation3', name: 'PS3; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'playstation4', name: 'PlayStation 4 (Pro Enhanced; Physical; Digital); Terminated 2027', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S' }],
+            [{ key: 'playstation5', name: 'PlayStation 5 (PS4 compat; Digital)', url: 'https://www.finalfantasyxiv.com' }],
+            [{ key: 'playstation-plus', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S' }],
+            [{ key: 'xbox-xs', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xiv-online-complete-edition/9p3lzjnnmpzs' }],
+            [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-xiv-online-complete-edition/9p3lzjnnmpzs' }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20a%20realm%20reborn%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20a%20realm%20reborn%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20a%20realm%20reborn%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20a%20realm%20reborn%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20a%20realm%20reborn%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIV%20a%20realm%20reborn%20playthrough' },
             ],
           ]
         },
@@ -142,9 +142,9 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20heavensward%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20heavensward%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20heavensward%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20heavensward%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20heavensward%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20heavensward%20playthrough' },
             ],
           ]
         },
@@ -176,9 +176,9 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20stormblood%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20stormblood%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20stormblood%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20stormblood%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20stormblood%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20stormblood%20playthrough' },
             ],
           ]
         },
@@ -210,9 +210,9 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20shadowbringers%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20shadowbringers%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20shadowbringers%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20shadowbringers%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20shadowbringers%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20shadowbringers%20playthrough' },
             ],
           ]
         },
@@ -244,9 +244,9 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20endwalker%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20endwalker%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20endwalker%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20endwalker%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20endwalker%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20endwalker%20playthrough' },
             ],
           ]
         },
@@ -278,9 +278,9 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20dawntrail%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20dawntrail%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20dawntrail%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20dawntrail%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20dawntrail%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20dawntrail%20playthrough' },
             ],
           ]
         },
@@ -311,9 +311,9 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20evercold%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20evercold%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20evercold%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20evercold%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20evercold%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xiv%20evercold%20playthrough' },
             ],
           ]
         },
@@ -330,9 +330,9 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
         languages: [{ value: 'JA', tip: 'Japanese', native: true }],
         helpWanted: true,
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20~Winds%20of%20Eorzea~%20translation' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20~Winds%20of%20Eorzea~%20story%20recap' }],
+          [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
+            { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20~Winds%20of%20Eorzea~%20translation' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20~Winds%20of%20Eorzea~%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XIV: Side Stories', releaseDate: '2014', chronoOrder: 7690, recommendedOrder: 860, tags: ['Optional', 'Short Stories', 'Web', 'Free', 'Ongoing'], mediaType: 'Book',
         parts: [
@@ -348,8 +348,8 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Official website', url: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story summaries (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Side_Stories#List_of_stories' }],
+          [{ key: 'book', name: 'Official website', url: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes' }],
+          [{ key: 'fan-recap', name: 'Fan story summaries (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Side_Stories#List_of_stories' }],
         ] },
         { title: 'Final Fantasy XIV: Chronicles of Light', releaseDate: '2019-03-09', chronoOrder: 3800, recommendedOrder: 865, tags: ['Optional', 'Short Stories'], mediaType: 'Book', length: '222p; H', helpWanted: true,
         parts: [
@@ -370,8 +370,8 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
         ],
         rating: { scoreLabelText: 'Goodreads', score: '4.39', url: 'https://www.goodreads.com/book/show/45701588-final-fantasy-xiv', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091850' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%3A%20Chronicles%20of%20Light%20story%20recap' }],
+          [{ key: 'book', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091850' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%3A%20Chronicles%20of%20Light%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XIV: Chronicles of Light, Volume II', releaseDate: '2025-10-07', chronoOrder: 6500, recommendedOrder: 870, tags: ['Optional', 'Short Stories'], mediaType: 'Book', length: '288p; H',
         parts: [
@@ -390,8 +390,8 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
         rating: { scoreLabelText: 'Goodreads', score: '4.59', url: 'https://www.goodreads.com/book/show/236916972-final-fantasy-xiv', single: true, sourceLabel: 'Goodreads' },
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/236916972-final-fantasy-xiv' }, { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/242696010-final-fantasy-chroniken-des-lichts-02' }],
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094196' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%3A%20Chronicles%20of%20Light%2C%20Volume%20II%20story%20recap' }],
+          [{ key: 'book', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094196' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%3A%20Chronicles%20of%20Light%2C%20Volume%20II%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XIV: Eorzea Academy', releaseDate: '2023-02-07', chronoOrder: 7800, recommendedOrder: 880, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic', length: '192p; P',
         parts: [
@@ -411,8 +411,8 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
         ],
         rating: { scoreLabelText: 'Goodreads', score: '4.30', url: 'https://www.goodreads.com/book/show/123259381-final-fantasy-xiv', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manga', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092352' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%3A%20Eorzea%20Academy%20story%20recap' }],
+          [{ key: 'book', name: 'Manga', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092352' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%3A%20Eorzea%20Academy%20story%20recap' }],
         ] },
         { title: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~", releaseDate: '2017-08-26', chronoOrder: 3200, recommendedOrder: 875, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic',
         parts: [
@@ -426,9 +426,9 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
         languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/69172609' }],
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/69172609', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20~Lalafell-sensei%27s%20Gonna%20Teach%20Ya!~%20translation' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20~Lalafell-sensei%27s%20Gonna%20Teach%20Ya!~%20story%20recap' }],
+          [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
+            { key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20~Lalafell-sensei%27s%20Gonna%20Teach%20Ya!~%20translation' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20~Lalafell-sensei%27s%20Gonna%20Teach%20Ya!~%20story%20recap' }],
         ] },
         { title: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~ Vol.1", releaseDate: '2014', chronoOrder: 1500, recommendedOrder: 850, tags: ['Optional', 'Spin-off', 'Play diary', 'Free'], mediaType: 'Book',
         parts: [
@@ -441,9 +441,9 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
         languages: [{ value: 'JA', tip: 'Japanese', native: true }],
         helpWanted: true,
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20~A%20Realm%20Reborn%20Adventure%20Log%3A%20Hero%27s%20Eggs~%20Vol.1%20translation' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20~A%20Realm%20Reborn%20Adventure%20Log%3A%20Hero%27s%20Eggs~%20Vol.1%20story%20recap' }],
+          [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
+            { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20~A%20Realm%20Reborn%20Adventure%20Log%3A%20Hero%27s%20Eggs~%20Vol.1%20translation' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20~A%20Realm%20Reborn%20Adventure%20Log%3A%20Hero%27s%20Eggs~%20Vol.1%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', releaseDate: '2022-08-09', chronoOrder: 5200, recommendedOrder: 885, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
         parts: [
@@ -459,8 +459,8 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/59912205-final-fantasy-xiv-picture-book' }, { value: '…?', tip: 'Unknown additional languages' }],
         helpWanted: true,
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20Picture%20Book%3A%20The%20Namazu%20and%20the%20Greatest%20Gift%20reading' }],
+          [{ key: 'book', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' }],
+          [{ key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20Picture%20Book%3A%20The%20Namazu%20and%20the%20Greatest%20Gift%20reading' }],
         ] },
         { title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', releaseDate: '2027-04-13', chronoOrder: 7200, recommendedOrder: 890, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
         parts: [
@@ -476,8 +476,8 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
         rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/255391940', single: true, sourceLabel: 'Goodreads' },
         helpWanted: true,
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833' }],
-        [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20Picture%20Book%3A%20Me%20and%20the%20Cornservant%20reading' }],
+          [{ key: 'book', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833' }],
+        [{ key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20Picture%20Book%3A%20Me%20and%20the%20Cornservant%20reading' }],
         ] },
         {
           title: 'Final Fantasy XIV: Legend of Balance',
@@ -507,11 +507,11 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           languages: [{ value: 'EN', tip: 'English', native: true }],
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', noUrl: true }],
+            [{ key: 'windows', name: 'Windows', noUrl: true }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20playthrough' },
             ],
           ]
         },
@@ -540,8 +540,8 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           storeUrl: 'https://na.finalfantasyxiv.com/companion/',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffxivcomapp_n' }],
-            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://itunes.apple.com/app/id1293636320' }],
+            [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffxivcomapp_n' }],
+            [{ key: 'apple', url: 'https://itunes.apple.com/app/id1293636320' }],
           ]
         },
       ]};

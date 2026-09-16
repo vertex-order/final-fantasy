@@ -27,8 +27,8 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         ],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '7.0', url: 'https://www.imdb.com/title/tt5595178/', single: true, sourceLabel: 'IMDb' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/youtube.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'YouTube (Official Playlist)', url: 'https://www.youtube.com/playlist?list=PLbhHt7tfNMCAKp5X5y1UMg6er-xFUyB3J' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Brotherhood%20Final%20Fantasy%20XV%20story%20recap' }],
+          [{ key: 'youtube', name: 'YouTube (Official Playlist)', url: 'https://www.youtube.com/playlist?list=PLbhHt7tfNMCAKp5X5y1UMg6er-xFUyB3J' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Brotherhood%20Final%20Fantasy%20XV%20story%20recap' }],
         ] },
         {
           title: 'Final Fantasy XV (2016) Remake (2018)',
@@ -91,16 +91,16 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5' }],
-            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/' }],
-            [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
-            [{ icon: null, iconImg: 'images/platforms/playstation-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
-            [{ icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
-            [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
+            [{ key: 'windows', url: 'https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5' }],
+            [{ key: 'steam', url: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/' }],
+            [{ key: 'playstation4', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
+            [{ key: 'playstation-plus', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
+            [{ key: 'xbox-one', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
+            [{ key: 'xbox-xs', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20playthrough' },
             ],
           ],
 
@@ -133,23 +133,23 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '79', source: '6.1', url: 'https://www.metacritic.com/game/final-fantasy-xv-pocket-edition/', sourceUrl: 'https://www.metacritic.com/game/final-fantasy-xv-pocket-edition/', sourceLabel: 'Metacritic User Score' },
             storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv-pocket-edition',
             platformGroups: [
-              [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows', url: 'https://apps.microsoft.com/detail/9mvr4t7znq1t' }],
-              [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', noUrl: true }],
-              [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', noUrl: true }],
-              [{ icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-xv-pocket-edition-hd-switch/' }],
-              [{ icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-xv-pocket-edition-hd-switch/' }],
+              [{ key: 'windows', name: 'Windows', url: 'https://apps.microsoft.com/detail/9mvr4t7znq1t' }],
+              [{ key: 'android2', noUrl: true }],
+              [{ key: 'apple', noUrl: true }],
+              [{ key: 'nintendo-switch', name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-xv-pocket-edition-hd-switch/' }],
+              [{ key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-xv-pocket-edition-hd-switch/' }],
               [
-                { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA12651_00-0000000000000001' },
-                { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA12651_00-0000000000000001' },
+                { key: 'playstation4', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA12651_00-0000000000000001' },
+                { key: 'playstation5', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA12651_00-0000000000000001' },
               ],
               [
-                { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-pocket-edition-hd/c0wqrr1pp63d' },
-                { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-pocket-edition-hd/c0wqrr1pp63d' },
+                { key: 'xbox-one', name: 'Xbox One (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-pocket-edition-hd/c0wqrr1pp63d' },
+                { key: 'xbox-xs', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-pocket-edition-hd/c0wqrr1pp63d' },
               ],
               [
-                { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20game%20movie' },
-                { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20story%20recap' },
-                { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20playthrough' },
+                { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20game%20movie' },
+                { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20story%20recap' },
+                { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20playthrough' },
               ],
             ],
           },
@@ -163,10 +163,10 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
               languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
               helpWanted: true,
               platformGroups: [
-                [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4', noUrl: true }],
+                [{ key: 'playstation4', name: 'PlayStation 4', noUrl: true }],
                 [
-                  { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Physical)', noUrl: true },
-                  { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Xbox One compatibility)', noUrl: true },
+                  { key: 'xbox-one', name: 'Xbox One (Physical)', noUrl: true },
+                  { key: 'xbox-xs', name: 'Xbox Series X/S (Xbox One compatibility)', noUrl: true },
                 ],
               ],
             },
@@ -196,9 +196,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/compact-disc.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'Compact Disc (JP)', jpTag: true, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/fan-audiobook.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Audio', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Prologue%3A%20Parting%20Ways' }],
-            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Prologue%3A%20Parting%20Ways%20story%20recap' }],
+            [{ key: 'compact-disc', name: 'Compact Disc (JP)', jpTag: true, noUrl: true }],
+            [{ key: 'fan-audiobook', name: 'Audio', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Prologue%3A%20Parting%20Ways' }],
+            [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Prologue%3A%20Parting%20Ways%20story%20recap' }],
           ],
 
           alt: {
@@ -217,7 +217,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             rating: { scoreLabelText: 'Goodreads', score: '3.76', url: 'https://www.goodreads.com/book/show/33232393-final-fantasy-xv-prologue-parting-ways', single: true, sourceLabel: 'Goodreads' },
             length: '48p',
             platformGroups: [
-              [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Short Stories', url: 'https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf' }],
+              [{ key: 'book', name: 'Short Stories', url: 'https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf' }],
             ],
           }
         },
@@ -250,11 +250,11 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/dvd.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'DVD', noUrl: true },
-              { icon: null, iconImg: 'images/platforms/blu-ray.svg', iconSize: 10.14, imgStyle: 'width: auto; height: 10.14px;', name: 'Blu-ray', noUrl: true },
-              { icon: null, iconImg: 'images/platforms/cast.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Digital Streaming', noUrl: true },
+              { key: 'dvd', noUrl: true },
+              { key: 'blu-ray', noUrl: true },
+              { key: 'cast', noUrl: true },
             ],
-            [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingsglaive%20Final%20Fantasy%20XV%20story%20recap' }],
+            [{ key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingsglaive%20Final%20Fantasy%20XV%20story%20recap' }],
           ]
         },
         { title: 'Final Fantasy XV: Episode Gladiolus DLC', helpWanted: true, releaseDate: '2017-03-28', chronoOrder: 500, recommendedOrder: 310, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '1½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Completionist' }],
@@ -266,16 +266,16 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '59', source: '6.8', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-gladiolus/', sourceUrl: 'https://www.metacritic.com/game/final-fantasy-xv-episode-gladiolus/', sourceLabel: 'Metacritic User Score' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
-          [{ icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
-          [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
+          [{ key: 'windows', url: 'https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5' }],
+          [{ key: 'steam', url: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/' }],
+          [{ key: 'playstation4', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
+          [{ key: 'playstation-plus', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
+          [{ key: 'xbox-one', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
+          [{ key: 'xbox-xs', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Gladiolus%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Gladiolus%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Gladiolus%20playthrough' },
+            { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Gladiolus%20game%20movie' },
+            { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Gladiolus%20story%20recap' },
+            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Gladiolus%20playthrough' },
           ],
         ] },
         { title: 'Final Fantasy XV: Episode Prompto DLC', releaseDate: '2017-06-27', chronoOrder: 600, recommendedOrder: 320, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Completionist' }],
@@ -289,16 +289,16 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '65', source: '7.0', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-prompto/', sourceUrl: 'https://www.metacritic.com/game/final-fantasy-xv-episode-prompto/', sourceLabel: 'Metacritic User Score' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
-          [{ icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
-          [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
+          [{ key: 'windows', url: 'https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5' }],
+          [{ key: 'steam', url: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/' }],
+          [{ key: 'playstation4', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
+          [{ key: 'playstation-plus', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
+          [{ key: 'xbox-one', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
+          [{ key: 'xbox-xs', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Prompto%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Prompto%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Prompto%20playthrough' },
+            { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Prompto%20game%20movie' },
+            { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Prompto%20story%20recap' },
+            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Prompto%20playthrough' },
           ],
         ] },
         { title: 'Final Fantasy XV: Episode Ignis DLC', releaseDate: '2017-12-13', chronoOrder: 700, recommendedOrder: 330, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '3h', tip: 'Completionist' }],
@@ -312,16 +312,16 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '8.1', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-ignis/', single: true, sourceLabel: 'Metacritic User Score' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
-          [{ icon: null, iconImg: 'images/platforms/playstation-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
-          [{ icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
-          [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
+          [{ key: 'windows', url: 'https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5' }],
+          [{ key: 'steam', url: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/' }],
+          [{ key: 'playstation4', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
+          [{ key: 'playstation-plus', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION' }],
+          [{ key: 'xbox-one', name: 'Xbox One (Enhanced; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
+          [{ key: 'xbox-xs', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ignis%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ignis%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ignis%20playthrough' },
+            { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ignis%20game%20movie' },
+            { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ignis%20story%20recap' },
+            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ignis%20playthrough' },
           ],
         ] },
         { title: 'Final Fantasy XV: Episode Ardyn – Prologue', releaseDate: '2019-02-16', chronoOrder: -5000, recommendedOrder: 400, tags: ['Optional', 'Prologue', 'Video'], mediaType: 'Video',
@@ -335,8 +335,8 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         languages: [{ value: 'JA', tip: 'Japanese — audio', native: true, voice: true }, { value: 'EN', tip: 'English — subtitles' }],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '6.5', url: 'https://www.imdb.com/title/tt9860590/', single: true, sourceLabel: 'IMDb' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/youtube.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'YouTube (Official)', url: 'https://www.youtube.com/watch?v=8yOOF8AKQbw' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ardyn%20Prologue%20story%20recap' }],
+          [{ key: 'youtube', name: 'YouTube (Official)', url: 'https://www.youtube.com/watch?v=8yOOF8AKQbw' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ardyn%20Prologue%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XV: Episode Ardyn DLC', releaseDate: '2019-03-26', chronoOrder: -4500, recommendedOrder: 410, tags: ['Optional', 'DLC', 'Prequel'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4h', tip: 'Completionist' }],
         parts: [
@@ -349,18 +349,18 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '60', midScore: '8.1', midUrl: 'https://www.metacritic.com/game/final-fantasy-xv-episode-ardyn/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-ardyn/', sourceUrl: 'https://store.steampowered.com/app/977610/FINAL_FANTASY_XV_EPISODE_ARDYN/', sourceLabel: 'Steam; Very Positive' },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-episode-ardyn/9nf2jt0vkt6k' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/dlc/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/' }],
+          [{ key: 'windows', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-episode-ardyn/9nf2jt0vkt6k' }],
+          [{ key: 'steam', name: 'Steam (PC)', url: 'https://store.steampowered.com/dlc/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/' }],
           [
-            { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-ARDYN00000000001' },
-            { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-ARDYN00000000001' },
+            { key: 'playstation4', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-ARDYN00000000001' },
+            { key: 'playstation5', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-ARDYN00000000001' },
           ],
-          [{ icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-episode-ardyn/bpsh2wv558lc' }],
-          [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-episode-ardyn/bpsh2wv558lc' }],
+          [{ key: 'xbox-one', name: 'Xbox One (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-episode-ardyn/bpsh2wv558lc' }],
+          [{ key: 'xbox-xs', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xv-episode-ardyn/bpsh2wv558lc' }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ardyn%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ardyn%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ardyn%20playthrough' },
+            { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ardyn%20game%20movie' },
+            { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ardyn%20story%20recap' },
+            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ardyn%20playthrough' },
           ],
         ] },
         {
@@ -389,15 +389,15 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '6.5', url: 'https://www.metacritic.com/game/platinum-demo-final-fantasy-xv/', single: true, sourceLabel: 'Metacritic User Score' },
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PS4; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'playstation4', name: 'PS4; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
             [
-              { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Xbox One compatibility); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'xbox-one', name: 'Xbox One; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'xbox-xs', name: 'Xbox Series X/S (Xbox One compatibility); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
             ],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20playthrough' },
             ],
           ]
         },
@@ -427,17 +427,17 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA05932_00-AKINGSTALEFFXV00' },
-              { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA05932_00-AKINGSTALEFFXV00' },
+              { key: 'playstation4', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA05932_00-AKINGSTALEFFXV00' },
+              { key: 'playstation5', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA05932_00-AKINGSTALEFFXV00' },
             ],
             [
-              { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One (Digital)', url: 'https://www.xbox.com/games/store/a-kings-tale-final-fantasy-xv/bw0d9lh9gg6d' },
-              { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/a-kings-tale-final-fantasy-xv/bw0d9lh9gg6d' },
+              { key: 'xbox-one', name: 'Xbox One (Digital)', url: 'https://www.xbox.com/games/store/a-kings-tale-final-fantasy-xv/bw0d9lh9gg6d' },
+              { key: 'xbox-xs', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/a-kings-tale-final-fantasy-xv/bw0d9lh9gg6d' },
             ],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20playthrough' },
             ],
           ]
         },
@@ -455,13 +455,13 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '62', source: '5.9', url: 'https://www.metacritic.com/game/monster-of-the-deep-final-fantasy-xv/', sourceUrl: 'https://www.metacritic.com/game/monster-of-the-deep-final-fantasy-xv/', sourceLabel: 'Metacritic User Score' },
         storeUrl: 'https://www.square-enix-games.com/games/monster-of-the-deep-final-fantasy-xv',
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4', url: 'https://www.playstation.com/games/monster-of-the-deep-final-fantasy-xv/' }],
+          [{ key: 'playstation4', name: 'PlayStation 4', url: 'https://www.playstation.com/games/monster-of-the-deep-final-fantasy-xv/' }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Monster%20of%20the%20Deep%20Final%20Fantasy%20XV%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Monster%20of%20the%20Deep%20Final%20Fantasy%20XV%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Monster%20of%20the%20Deep%20Final%20Fantasy%20XV%20playthrough' },
+            { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Monster%20of%20the%20Deep%20Final%20Fantasy%20XV%20game%20movie' },
+            { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Monster%20of%20the%20Deep%20Final%20Fantasy%20XV%20story%20recap' },
+            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Monster%20of%20the%20Deep%20Final%20Fantasy%20XV%20playthrough' },
           ],
-          [{ icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation VR', noUrl: true }],
+          [{ key: 'playstation4', name: 'PlayStation VR', noUrl: true }],
         ] },
         { title: 'Final Fantasy XV: A New Empire', releaseDate: '2017-06-29', chronoOrder: 2000, recommendedOrder: 800, tags: ['Optional', 'Spin-off', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer', 'Terminated'], mediaType: 'Game',
         parts: [
@@ -474,14 +474,14 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         helpWanted: true,
         platformGroups: [
           [
-            { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+            { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+            { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
           ],
-          [{ icon: null, iconImg: 'images/platforms/youtube.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Official trailers and clips (Youtube)', url: 'https://www.youtube.com/@ffxvmobile/videos' }],
+          [{ key: 'youtube', name: 'Official trailers and clips (Youtube)', url: 'https://www.youtube.com/@ffxvmobile/videos' }],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20A%20New%20Empire%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20A%20New%20Empire%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20A%20New%20Empire%20playthrough' },
+            { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20A%20New%20Empire%20game%20movie' },
+            { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20A%20New%20Empire%20story%20recap' },
+            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20A%20New%20Empire%20playthrough' },
           ],
         ] },
         { title: 'Final Fantasy XV: War for Eos', releaseDate: '2022-03-21', chronoOrder: 3000, recommendedOrder: 900, tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer', 'Terminated'], mediaType: 'Game',
@@ -497,13 +497,13 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         helpWanted: true,
         platformGroups: [
           [
-            { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+            { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+            { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20War%20for%20Eos%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20War%20for%20Eos%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20War%20for%20Eos%20playthrough' },
+            { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20War%20for%20Eos%20game%20movie' },
+            { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20War%20for%20Eos%20story%20recap' },
+            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20War%20for%20Eos%20playthrough' },
           ],
         ] },
         {
@@ -534,14 +534,14 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           helpWanted: true,
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/nintendo-nes-fc.svg', iconSize: 9.25, imgStyle: 'width: auto; height: 9.25px;', name: 'Nintendo Entertainment System (Famicom; Physical)', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-wii.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-wii-u.svg', iconSize: 10.99, imgStyle: 'width: auto; height: 10.99px;', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true, noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/nintendo-3ds.svg', iconSize: 10.4, imgStyle: 'width: auto; height: 10.4px;', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true, noUrl: true }],
+            [{ key: 'nintendo-nes-fc', name: 'Nintendo Entertainment System (Famicom; Physical)', noUrl: true }],
+            [{ key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true, noUrl: true }],
+            [{ key: 'nintendo-3ds', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true, noUrl: true }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4 },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4 },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4 },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4 },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)' },
             ],
           ],
 
@@ -561,8 +561,8 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
                 helpWanted: true,
                 platformGroups: [
                   [
-                    { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
-                    { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
+                    { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
+                    { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
                   ],
                 ],
               },
@@ -581,8 +581,8 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }],
                 helpWanted: true,
                 platformGroups: [
-                  [{ icon: null, iconImg: 'images/platforms/pc8801.svg', iconSize: 8.875, imgStyle: 'width: auto; height: 8.875px;', suffix: 'mkII SR', suffixFontSize: '9.75px', suffixOffsetY: 1, name: 'NEC PC-8801mkII SR (Physical; Japan Only)', jpTag: true }],
-                  [{ icon: null, iconImg: 'images/platforms/sharp-x1.svg', iconSize: 10.25, imgStyle: 'width: auto; height: 10.25px;', name: 'Sharp X1 (Physical; Japan Only)', jpTag: true }],
+                  [{ key: 'pc8801' }],
+                  [{ key: 'sharp-x1' }],
                 ],
               },
               {
@@ -595,7 +595,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
                 ],
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }],
                 platformGroups: [
-                  [{ icon: null, iconImg: 'images/platforms/msx.svg', iconSize: 12.73, imgStyle: 'width: auto; height: 12.73px;', name: 'MSX (Physical; Japan Only)', jpTag: true }],
+                  [{ key: 'msx' }],
                 ],
               },
             ],
@@ -619,8 +619,8 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         ],
         rating: { scoreLabelText: 'Goodreads', score: '4.17', url: 'https://www.goodreads.com/book/show/48565746-final-fantasy-xv', single: true, sourceLabel: 'Goodreads' },
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090006' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%3A%20The%20Dawn%20of%20the%20Future%20story%20recap' }],
+          [{ key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090006' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%3A%20The%20Dawn%20of%20the%20Future%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XV Official Comic Anthology', releaseDate: '2017-07-27', chronoOrder: 3600, recommendedOrder: 960, tags: ['Optional', 'Short Stories', 'Manga'], mediaType: 'Comic', length: '128p',
         parts: [
@@ -634,9 +634,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         rating: { scoreLabelText: 'Goodreads', score: '4.23', url: 'https://www.goodreads.com/book/show/36208245-final-fantasy-xv-official-comic-anthology-2017-7-27', single: true, sourceLabel: 'Goodreads' },
         helpWanted: true,
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%20translation' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%20story%20recap' }],
+          [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
+            { key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%20translation' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XV Anthology 2', releaseDate: '2017-12-26', chronoOrder: 3700, recommendedOrder: 965, tags: ['Optional', 'Short Stories', 'Manga'], mediaType: 'Comic', length: '128p',
         parts: [
@@ -650,8 +650,8 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         rating: { scoreLabelText: 'Goodreads', score: '4.57', url: 'https://www.goodreads.com/book/show/42416261-final-fantasy-xv-official-comic-anthology-2', single: true, sourceLabel: 'Goodreads' },
         helpWanted: true,
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%202%20translation' }],
-        [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%202%20story%20recap' }],
+          [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
+            { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%202%20translation' }],
+        [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%202%20story%20recap' }],
         ] },
       ]};

@@ -33,18 +33,18 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           storeUrl: 'https://www.square-enix.com/finalfantasyresonance/',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (PC; Handheld; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-resonance/9nncprh9vwg4' }],
-            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC; Handheld)', url: 'https://store.steampowered.com/app/3259780/FINAL_FANTASY_RESONANCE/' }],
-            [{ icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-resonance/9nncprh9vwg4' }],
-            [{ icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (Digital)', url: 'https://store.playstation.com/product/JP0082-PPSA31544_00-FFRSSTDWW0000000' }],
+            [{ key: 'windows', url: 'https://www.xbox.com/games/store/final-fantasy-resonance/9nncprh9vwg4' }],
+            [{ key: 'steam', url: 'https://store.steampowered.com/app/3259780/FINAL_FANTASY_RESONANCE/' }],
+            [{ key: 'xbox-xs', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-resonance/9nncprh9vwg4' }],
+            [{ key: 'playstation5', name: 'PlayStation 5 (Digital)', url: 'https://store.playstation.com/product/JP0082-PPSA31544_00-FFRSSTDWW0000000' }],
             [
-              { icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch compatibility; Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-resonance-switch-2/' },
-              { icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-resonance-switch/' },
+              { key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch compatibility; Physical; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-resonance-switch-2/' },
+              { key: 'nintendo-switch', url: 'https://www.nintendo.com/store/products/final-fantasy-resonance-switch/' },
             ],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Resonance%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Resonance%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Resonance%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Resonance%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Resonance%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Resonance%20playthrough' },
             ],
           ],
         },
@@ -71,13 +71,13 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
             ],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20playthrough' },
             ],
           ]
         },
@@ -93,9 +93,9 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
         ]],
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
-            { icon: null, iconImg: 'images/platforms/fan-translation.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Brave%20Exvius%20Rikodoki!%20translation' }],
-          [{ icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20Rikodoki!%20story%20recap' }],
+          [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
+            { key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Brave%20Exvius%20Rikodoki!%20translation' }],
+          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20Rikodoki!%20story%20recap' }],
         ] },
         { title: 'Final Fantasy Brave Exvius Tap!', releaseDate: '2017-09-08', chronoOrder: 100, recommendedOrder: 200, tags: ['Optional', 'Spin-off', 'Clicker', 'Terminated'], mediaType: 'Game',
         parts: [
@@ -104,8 +104,8 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
         description: ['A clicker or incremental game.'],
         languages: [{ value: 'EN', tip: 'English', native: true }],
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/facebook.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Facebook (Messenger); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-          [{ icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20Tap%20playthrough' }],
+          [{ key: 'facebook', name: 'Facebook (Messenger); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+          [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20Tap%20playthrough' }],
         ] },
         {
           title: 'War of the Visions: Final Fantasy Brave Exvius',
@@ -131,13 +131,13 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
             ],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=War%20of%20the%20Visions%20Final%20Fantasy%20Brave%20Exvius%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=War%20of%20the%20Visions%20Final%20Fantasy%20Brave%20Exvius%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=War%20of%20the%20Visions%20Final%20Fantasy%20Brave%20Exvius%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=War%20of%20the%20Visions%20Final%20Fantasy%20Brave%20Exvius%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=War%20of%20the%20Visions%20Final%20Fantasy%20Brave%20Exvius%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=War%20of%20the%20Visions%20Final%20Fantasy%20Brave%20Exvius%20playthrough' },
             ],
           ]
         },

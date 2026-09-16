@@ -23,7 +23,7 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "ea7eb411e4b4474b62ea6ca7c0c07473953aeabe"
+ref = "fb0a15af4d16f18c6ee21f35fb94419d2208ddb1"
 paths = [
   "sync.list.toml",
   "docs/subtitle.md",
@@ -52,6 +52,7 @@ paths = [
   "site/StatusBadge.dc.html",
   "scripts/bundle-components.py",
   "scripts/sync.py",
+  "scripts/check-dedup-drift.py",
   "scripts/normalize-svg.py",
   "scripts/restore-headers.py",
   "scripts/ensure-helmets.py",
@@ -67,6 +68,7 @@ paths = [
   ".githooks/pre-commit",
   ".github/workflows/check-generated.yml",
   ".github/workflows/check-vendored.yml",
+  ".github/workflows/check-dedup-drift.yml",
   ".github/workflows/sync-repin.yml",
   ".github/workflows/static.yml",
   ".github/dependabot.yml",
@@ -74,7 +76,7 @@ paths = [
 
 [subscribe.platforms]
 repo = "vertex-order/platforms"
-ref = "3a75a3a4d85bfa19389c86f3d368bd880e1920aa"
+ref = "306a4ae5042cc6ece468c14c166da89295d57f1a"
 paths = [
   "site/PlatformIcon.dc.html",
   "site/data/platform-icons.js",

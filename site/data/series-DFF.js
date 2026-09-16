@@ -25,11 +25,11 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '8.2', url: 'https://www.metacritic.com/game/dissidia-012-prologus-final-fantasy/', single: true, sourceLabel: 'Metacritic User Score' },
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (Digital)', noUrl: true }],
+            [{ key: 'playstation-portable', name: 'PlayStation Portable (Digital)', noUrl: true }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20Duodecim%20Prologus%20Final%20Fantasy%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Duodecim%20Prologus%20Final%20Fantasy%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20Duodecim%20Prologus%20Final%20Fantasy%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20Duodecim%20Prologus%20Final%20Fantasy%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Duodecim%20Prologus%20Final%20Fantasy%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20Duodecim%20Prologus%20Final%20Fantasy%20playthrough' },
             ],
           ]
         },
@@ -66,11 +66,11 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '78', midScore: '7.3', midUrl: 'https://www.metacritic.com/game/dissidia-012-duodecim-final-fantasy/', single: true, sourceLabel: 'Metacritic', url: 'https://www.metacritic.com/game/dissidia-012-duodecim-final-fantasy/' },
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP)', noUrl: true }],
+            [{ key: 'playstation-portable', name: 'PlayStation Portable (PSP)', noUrl: true }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20012%20Final%20Fantasy%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20012%20Final%20Fantasy%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20012%20Final%20Fantasy%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20012%20Final%20Fantasy%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20012%20Final%20Fantasy%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20012%20Final%20Fantasy%20playthrough' },
             ],
           ],
 
@@ -89,7 +89,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
                 helpWanted: true,
                 rating: { score: '79', midScore: '7.1', midUrl: 'https://www.metacritic.com/game/dissidia-final-fantasy/', single: true, sourceLabel: 'Metacritic', url: 'https://www.metacritic.com/game/dissidia-final-fantasy/' },
                 platformGroups: [
-                  [{ icon: null, iconImg: 'images/platforms/playstation-portable.svg', iconSize: 8.24, imgStyle: 'width: auto; height: 8.24px;', name: 'PlayStation Portable (PSP)', noUrl: true }],
+                  [{ key: 'playstation-portable', name: 'PlayStation Portable (PSP)', noUrl: true }],
                 ],
               },
             ],
@@ -135,17 +135,17 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           storeUrl: 'https://www.square-enix-games.com/games/dissidia-final-fantasy-nt',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/arcade.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Arcade', noUrl: true }],
-            [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/sub/346805/' }],
+            [{ key: 'arcade', noUrl: true }],
+            [{ key: 'steam', name: 'Steam (PC)', url: 'https://store.steampowered.com/sub/346805/' }],
             [
-              { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Physical; Digital)', url: 'https://store.playstation.com/product/UP0082-CUSA09512_00-DISSIDIAFFDELUXE' },
-              { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA09512_00-DISSIDIAFFDELUXE' },
+              { key: 'playstation4', url: 'https://store.playstation.com/product/UP0082-CUSA09512_00-DISSIDIAFFDELUXE' },
+              { key: 'playstation5', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA09512_00-DISSIDIAFFDELUXE' },
             ],
-            [{ icon: null, iconImg: 'images/platforms/playstation-plus.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA09512_00-DISSIDIAFFDELUXE' }],
+            [{ key: 'playstation-plus', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA09512_00-DISSIDIAFFDELUXE' }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20NT%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20NT%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20NT%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20NT%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20NT%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20NT%20playthrough' },
             ],
           ]
         },
@@ -174,13 +174,13 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
 
           platformGroups: [
             [
-              { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
             ],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20Opera%20Omnia%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20Opera%20Omnia%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20Opera%20Omnia%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20Opera%20Omnia%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20Opera%20Omnia%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20Opera%20Omnia%20playthrough' },
             ],
           ]
         },
@@ -205,12 +205,12 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           storeUrl: 'https://www.square-enix.com/ddff/en/',
 
           platformGroups: [
-            [{ icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD' }],
-            [{ icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS', url: 'https://apps.apple.com/app/dissidia-duellum-final-fantasy/id6480398822' }],
+            [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD' }],
+            [{ key: 'apple', url: 'https://apps.apple.com/app/dissidia-duellum-final-fantasy/id6480398822' }],
             [
-              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Duellum%20Final%20Fantasy%20game%20movie' },
-              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Duellum%20Final%20Fantasy%20story%20recap' },
-              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Duellum%20Final%20Fantasy%20playthrough' },
+              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Duellum%20Final%20Fantasy%20game%20movie' },
+              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Duellum%20Final%20Fantasy%20story%20recap' },
+              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Duellum%20Final%20Fantasy%20playthrough' },
             ],
           ]
         },
