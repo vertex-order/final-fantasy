@@ -15,11 +15,9 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           description: [[
             { text: 'Rain, Lasswell, and Fina set out to protect the remaining crystals across the world after the Earth Crystal is destroyed by Veritas of the Dark.' },
           ], [
-            { text: 'This remake is released as ' },
-            { emText: 'Final Fantasy Resonance (2026)' },
-            { text: ' and is an adaptation of ' },
-            { emText: "Brave Exvius (2015)" },
-            { text: "'s first story arc. Graphics are in HD-2D." },
+            { text: 'An adaptation of ' },
+            { emText: 'Brave Exvius (2015)' },
+            { text: "'s first story arc, incorporating elements and characters from other Final Fantasy titles as well as outside franchises. Graphics are in HD-2D." },
           ]],
 
           languages: [
@@ -66,7 +64,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'FR', tip: 'French' }, { value: 'DE', tip: 'German' }, { value: 'ES', tip: 'Spanish' }, { value: 'KO', tip: 'Korean' }, { value: 'ZH-TW', tip: 'Traditional Chinese' }],
 
           description: [
-            'The original title. Rain and Lasswell help fight off an attack on the Earth crystal. Incorporates elements and characters from other Final Fantasy titles, as well as outside franchises. Can be considered a bit of a mash-up.',
+            'Rain and Lasswell help fight off an attack on the Earth crystal. Incorporates elements and characters from other Final Fantasy titles, as well as outside franchises. Can be considered a bit of a mash-up.',
             'Since the game is terminated we recommend you watch a fan story recap video or a playthrough.'
           ],
 
