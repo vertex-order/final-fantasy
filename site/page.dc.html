@@ -103,7 +103,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
         <option value="#order-to-display">Settings</option>
         <option value="" disabled="">Jump to series…</option>
         <sc-for list="{{ series }}" as="s" hint-placeholder-count="16">
-          <option value="{{ s.anchor }}">{{ s.num }} — {{ s.title }}</option>
+          <option value="{{ s.anchor }}">{{ s.navLabel }}</option>
         </sc-for>
         <option value="#faq">FAQ</option>
         <option value="#help-wanted">Help Wanted</option>
@@ -205,7 +205,7 @@ a:hover { color: var(--color-accent); text-decoration: underline; }
           <option value="#order-to-display">Settings</option>
           <option value="" disabled="">Jump to series…</option>
           <sc-for list="{{ series }}" as="s" hint-placeholder-count="16">
-            <option value="{{ s.anchor }}">{{ s.num }} — {{ s.title }}</option>
+            <option value="{{ s.anchor }}">{{ s.navLabel }}</option>
           </sc-for>
           <option value="#faq">FAQ</option>
           <option value="#help-wanted">Help Wanted</option>
@@ -736,7 +736,10 @@ class Component extends DCLogic {
       const sentence = joined + '.';
       return sentence.charAt(0).toUpperCase() + sentence.slice(1);
     };
-    const parseReleaseDate = (str) => {
+    const RECENT_MONTHS = 12;
+    const now = new Date();
+    const recentCutoff = new Date(now.getFullYear(), now.getMonth() - RECENT_MONTHS, now.getDate());
+    const parseReleaseEnd = (str) => {
       const m = str && /^(\d{4})(?:-(\d{2}))?(?:-(\d{2}))?/.exec(str);
       if (!m) return null;
       const year = +m[1];
@@ -745,8 +748,20 @@ class Component extends DCLogic {
       return new Date(year, 11, 31);
     };
     const isUpcoming = (releaseDate) => {
-      const d = parseReleaseDate(releaseDate);
-      return !!d && d >= new Date();
+      const d = parseReleaseEnd(releaseDate);
+      return !!d && d >= now;
+    };
+    const isRecentlyReleased = (releaseDate) => {
+      const d = parseReleaseEnd(releaseDate);
+      return !!d && d < now && d >= recentCutoff;
+    };
+    const formatUpcomingDate = (str) => {
+      // Skip year-only dates - that precision is already shown as "(2027)" in the title.
+      const m = str && /^(\d{4})-(\d{2})(?:-(\d{2}))?/.exec(str);
+      if (!m) return null;
+      const opts = { year: 'numeric', month: 'long' };
+      if (m[3]) opts.day = 'numeric';
+      return new Date(+m[1], +m[2] - 1, m[3] ? +m[3] : 1).toLocaleDateString('en-US', opts);
     };
     this.anchorRegistry = {};
     this.anchorAliases = {};
@@ -768,14 +783,18 @@ class Component extends DCLogic {
       return {
       ...s,
       note,
+      navLabel: s.num + ' — ' + s.title,
       id: 'series-' + s.num,
       anchor: '#series-' + s.num,
+      ...this.buildPilcrow('series-' + s.num, false),
       sectionRef: el => { if (el) this.seriesEls[s.num] = el; else delete this.seriesEls[s.num]; },
       noUrl: !s.url,
       noteLines: note ? note.split('\n\n').map(t => s.notePartsMap && s.notePartsMap[t] ? { parts: s.notePartsMap[t] } : { plain: t }) : null,
       games: s.games.map((g, i) => ({
         ...g,
         upcoming: isUpcoming(g.releaseDate),
+        upcomingDateText: isUpcoming(g.releaseDate) ? formatUpcomingDate(g.releaseDate) : null,
+        recentlyReleased: isRecentlyReleased(g.releaseDate),
         languages: mapLangs(g.languages, g.langOrder),
         otherLanguages: mapLangs(computeOtherLangs(g.languages, g.extras || (g.alt && g.alt.extras)), g.langOrder),
         byline: g.bylineParts ? undefined : (g.tags && g.tags.length ? g.tags.join(' · ') : undefined),
@@ -787,7 +806,9 @@ class Component extends DCLogic {
         checked: !!this.state.checked[s.num + '-' + i],
         rowCompletedStyle: this.state.checked[s.num + '-' + i] ? 'background: linear-gradient(to right, transparent 2px, color-mix(in srgb, var(--color-accent) 6%, transparent) 2px);' : '',
         wrapCompletedStyle: this.state.checked[s.num + '-' + i] ? 'opacity: 0.5;' : '',
-        showCheckbox: !g.noCheckbox,
+        showCheckbox: !g.noCheckbox && !isUpcoming(g.releaseDate),
+        showPilcrow: true,
+        titleJumpClick: null,
         toggleChecked: () => this.toggleChecked(s.num + '-' + i),
         parts: mapParts(g.parts || [{ label: g.title, url: null }], !!this.state.checked[s.num + '-' + i]),
         platformGroups: (g.platformGroups || g.platforms)
@@ -925,11 +946,47 @@ class Component extends DCLogic {
       const games = flat.map((g, i) => ({ ...g, index: String(i + 1).padStart(2, '0') }));
       const allSummary = buildSummary(games, null, g => g.checked);
       displaySeries = [{
-        num: 'ALL', title: SITE.name, id: 'series-ALL', anchor: '#series-ALL', noUrl: true, url: null,
+        num: 'ALL', title: SITE.name, navLabel: SITE.name, id: 'series-ALL', anchor: '#series-ALL', noUrl: true, url: null,
+        ...this.buildPilcrow('series-ALL', false),
         note: allSummary, noteLines: allSummary ? [{ plain: allSummary }] : null, games,
         sectionRef: el => { if (el) this.seriesEls['ALL'] = el; else delete this.seriesEls['ALL']; },
       }];
     }
+    const buildPseudoSeries = (num, title, filterFn, note) => {
+      const games = [];
+      series.forEach(s => s.games.forEach(g => {
+        if (!filterFn(g)) return;
+        const realAnchorId = g.anchorId;
+        games.push({
+          ...g,
+          // Shortcut card: no checkbox (check it off at the real entry), no row pilcrow
+          // (nothing distinct to link to here) - the title itself jumps to the real entry.
+          anchorId: num + '-' + g.entryKey,
+          showCheckbox: false,
+          showPilcrow: false,
+          parts: (g.parts || []).map(p => ({ ...p, url: '#' + realAnchorId })),
+          titleJumpClick: e => { e.preventDefault(); history.pushState(null, '', '#' + realAnchorId); this.handleHashNav(realAnchorId); },
+          rating: null, lengthParts: null, length: null,
+          platformGroups: null, extraPlatforms: null,
+          languages: null, otherLanguages: null,
+          listTitle: null, listItems: null,
+          descParas: null,
+          extras: null, alt: null,
+        });
+      }));
+      if (!games.length) return null;
+      return {
+        num, title, navLabel: title, id: 'series-' + num, anchor: '#series-' + num, noUrl: true, url: null,
+        ...this.buildPilcrow('series-' + num, false),
+        note: note || null, noteLines: note ? [{ plain: note }] : null, games,
+        sectionRef: el => { if (el) this.seriesEls[num] = el; else delete this.seriesEls[num]; },
+      };
+    };
+    const pseudoSeries = [
+      buildPseudoSeries('Upcoming', 'Upcoming Releases', g => g.upcoming, 'May already have a demo — check platform storefronts.'),
+      buildPseudoSeries('Recent', 'Recently Released', g => g.recentlyReleased),
+    ].filter(Boolean);
+    displaySeries = [...pseudoSeries, ...displaySeries];
     const languageOptions = Array.from(langSet.entries()).map(([value, tip]) => ({
       value, tip, checked: isLangSelected(value), toggle: () => this.toggleLanguage(value, Array.from(langSet.keys())),
     })).sort((a, b) => {
