@@ -291,7 +291,6 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           recommendedOrder: 800,
           tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
           mediaType: 'Game',
-          upcoming: true,
 
           bylineParts: [
             { text: 'Expansion · ' },
@@ -464,7 +463,6 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20Picture%20Book%3A%20The%20Namazu%20and%20the%20Greatest%20Gift%20reading' }],
         ] },
         { title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', releaseDate: '2027-04-13', chronoOrder: 7200, recommendedOrder: 890, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
-        upcoming: true,
         parts: [
           { label: 'Final Fantasy XIV Picture Book: Me and the Cornservant (2027)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833' },
           { label: 'Book', url: null, small: true },
