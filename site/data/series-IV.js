@@ -171,17 +171,17 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               ], ['Included in the omnibus compilations ', {
                 emText: 'Final Fantasy Collection'
               }, {
-                tipText: ' (JP)',
+                hintText: ' (JP)',
                 tip: 'Japan'
               }, ' (1999), ', {
                 emText: 'Final Fantasy Chronicles'
               }, {
-                tipText: ' (NA)',
+                hintText: ' (NA)',
                 tip: 'North America'
               }, ' (2001), and ', {
                 emText: 'Final Fantasy Anthology'
               }, {
-                tipText: ' (UK)',
+                hintText: ' (UK)',
                 tip: 'United Kingdom'
               }, ' (2002).']],
 
