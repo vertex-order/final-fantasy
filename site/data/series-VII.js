@@ -293,7 +293,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         },
         {
           title: 'Final Fantasy VII Remake',
-          releaseDate: '1997-01-31 20',
+          releaseDate: '2020-04-10',
           chronoOrder: 100,
           recommendedOrder: 600,
           mainline: true,
@@ -386,7 +386,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         },
         {
           title: 'Final Fantasy VII Rebirth',
-          releaseDate: '1997-01-31 30',
+          releaseDate: '2024-02-29',
           chronoOrder: 200,
           recommendedOrder: 700,
           mainline: true,
@@ -448,11 +448,11 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         },
         {
           title: 'Final Fantasy VII Revelation',
-          releaseDate: '1997-01-31 40',
+          releaseDate: '2027-04-08',
           chronoOrder: 300,
           recommendedOrder: 800,
           mainline: true,
-          tags: ['Trilogy', 'Part 3', 'Real-time action', 'Upcoming'],
+          tags: ['Trilogy', 'Part 3', 'Real-time action'],
           mediaType: 'Game',
           upcoming: true,
 
@@ -502,7 +502,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             ],
           ]
         },
-        { title: 'Final Fantasy VII', releaseDate: '1997-01-31 10', chronoOrder: 350, recommendedOrder: 900, mainline: true, tags: ['Combined', 'Active time battle'], mediaType: 'Game', lengthParts: [{ value: '36h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '49h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '79½h', tip: 'Completionist' }],
+        { title: 'Final Fantasy VII', releaseDate: '1997-01-31', chronoOrder: 350, recommendedOrder: 900, mainline: true, tags: ['Combined', 'Active time battle'], mediaType: 'Game', lengthParts: [{ value: '36h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '49h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '79½h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy VII (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII' },
           { label: 'Edit (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', small: true },

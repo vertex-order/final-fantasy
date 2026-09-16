@@ -286,15 +286,15 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
         },
         {
           title: 'Final Fantasy XIV: Evercold',
-          releaseDate: '2027 TBD',
+          releaseDate: '2027-01-01',
           chronoOrder: 7000,
           recommendedOrder: 800,
-          tags: ['Upcoming', 'Expansion', 'MMORPG', 'Monthly subscription'],
+          tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
           mediaType: 'Game',
           upcoming: true,
 
           bylineParts: [
-            { text: 'Upcoming · Expansion · ' },
+            { text: 'Expansion · ' },
             { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
             { text: ' · Monthly subscription' },
           ],
@@ -463,7 +463,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' }],
           [{ icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20Picture%20Book%3A%20The%20Namazu%20and%20the%20Greatest%20Gift%20reading' }],
         ] },
-        { title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', releaseDate: '2027-04-13', chronoOrder: 7200, recommendedOrder: 890, tags: ['Upcoming', 'Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
+        { title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', releaseDate: '2027-04-13', chronoOrder: 7200, recommendedOrder: 890, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
         upcoming: true,
         parts: [
           { label: 'Final Fantasy XIV Picture Book: Me and the Cornservant (2027)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833' },

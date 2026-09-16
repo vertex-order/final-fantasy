@@ -1,16 +1,15 @@
 window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder: 1550, recommendedOrder: 1550, title: 'Brave Exvius', note: 'A gacha mobile world remade into a standalone story driven turn-based RPG with modern pixel art. Incorporates original elements with existing titles, including other franchises altogether. Can be considered a bit of an alternate universe mashup spin-off.', games: [
         {
           title: 'Final Fantasy Resonance',
-          releaseDate: '2015-10-22',
+          releaseDate: '2026-10-22',
           chronoOrder: 0,
           recommendedOrder: 100,
-          tags: ['Turn-based RPG', 'Single-player', 'Upcoming'],
+          tags: ['Turn-based RPG', 'Single-player'],
           mediaType: 'Game',
           upcoming: true,
 
           parts: [
-            { label: 'Final Fantasy Resonance (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Resonance' },
-            { label: 'Remake (2026)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Resonance', small: true },
+            { label: 'Final Fantasy Resonance (2026)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Resonance' },
           ],
 
           description: [[
@@ -51,33 +50,39 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
               { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Resonance%20playthrough' },
             ],
           ],
+        },
+        {
+          title: 'Final Fantasy Brave Exvius',
+          releaseDate: '2015-10-22',
+          chronoOrder: 0,
+          recommendedOrder: 110,
+          tags: ['Optional', 'Mobile', 'Turn-based RPG', 'Gacha', 'Terminated'],
+          mediaType: 'Game',
 
-          alt: {
-            extras: [
-              {
-                parts: [
-                  { label: 'Final Fantasy Brave Exvius (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Brave_Exvius' },
-                ],
-                tags: ['Mobile', 'Turn-based RPG', 'Gacha', 'Terminated'],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'FR', tip: 'French' }, { value: 'DE', tip: 'German' }, { value: 'ES', tip: 'Spanish' }, { value: 'KO', tip: 'Korean' }, { value: 'ZH-TW', tip: 'Traditional Chinese' }],
-                description: [[
-                  { text: "The original title. Rain and Lasswell help fight off an attack on the Earth crystal. Incorporates elements and characters from other Final Fantasy titles, as well as outside franchises. Can be considered a bit of a mash-up." },
-                ]],
-                storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-brave-exvius',
-                platformGroups: [
-                  [
-                    { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-                    { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-                  ],
-                  [
-                    { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20game%20movie' },
-                    { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20story%20recap' },
-                    { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20playthrough' },
-                  ],
-                ],
-              },
+          parts: [
+            { label: 'Final Fantasy Brave Exvius (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Brave_Exvius' },
+          ],
+
+          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'FR', tip: 'French' }, { value: 'DE', tip: 'German' }, { value: 'ES', tip: 'Spanish' }, { value: 'KO', tip: 'Korean' }, { value: 'ZH-TW', tip: 'Traditional Chinese' }],
+
+          description: [
+            'The original title. Rain and Lasswell help fight off an attack on the Earth crystal. Incorporates elements and characters from other Final Fantasy titles, as well as outside franchises. Can be considered a bit of a mash-up.',
+            'Since the game is terminated we recommend you watch a fan story recap video or a playthrough.'
+          ],
+
+          storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-brave-exvius',
+
+          platformGroups: [
+            [
+              { icon: null, iconImg: 'images/platforms/android2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { icon: null, iconImg: 'images/platforms/apple.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
             ],
-          }
+            [
+              { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20game%20movie' },
+              { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20story%20recap' },
+              { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20playthrough' },
+            ],
+          ]
         },
         { title: 'Final Fantasy Brave Exvius Rikodoki!', releaseDate: '2018-07-25', chronoOrder: 50, recommendedOrder: 150, tags: ['Optional', 'Manga'], mediaType: 'Comic', length: '144p',
         parts: [
