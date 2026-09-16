@@ -9,7 +9,9 @@
 # This repo publishes nothing — it owns no file another repo vendors. Every
 # platform icon reference in site/data/series-*.js was migrated to the
 # canonical platforms names/sizes/model in the same pass that added
-# PlatformIcon.dc.html, platform-icons.js, and images/platforms/ below.
+# PlatformIcon.dc.html, platform-icons.js, and images/platforms/
+# ([subscribe.platforms] below — pulled directly, not via kit, to avoid an
+# extra repin/PR hop whenever platforms changes).
 #
 # Not vendored, even though this repo needs its own: .github/ISSUE_TEMPLATE/*
 # and .github/PULL_REQUEST_TEMPLATE.md. Each necessarily carries this repo's
@@ -21,17 +23,14 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "00ee9ec73c8e671d3c75582f5b1b48634bbc5575"
+ref = "75e041d909b8815ed6d721af378484ee82a932d6"
 paths = [
   "sync.list.toml",
   "docs/subtitle.md",
   "site/_ds/",
   "site/images/ui/",
-  "site/images/platforms/",
   "site/support.js",
   "site/data/common-faq.js",
-  "site/PlatformIcon.dc.html",
-  "site/data/platform-icons.js",
   "site/BackToTop.dc.html",
   "site/HelpWanted.dc.html",
   "site/DescRun.dc.html",
@@ -71,4 +70,13 @@ paths = [
   ".github/workflows/sync-repin.yml",
   ".github/workflows/static.yml",
   ".github/dependabot.yml",
+]
+
+[subscribe.platforms]
+repo = "vertex-order/platforms"
+ref = "3a75a3a4d85bfa19389c86f3d368bd880e1920aa"
+paths = [
+  "site/PlatformIcon.dc.html",
+  "site/data/platform-icons.js",
+  "site/images/platforms/",
 ]
