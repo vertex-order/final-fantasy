@@ -46,17 +46,17 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           storeUrl: 'https://www.finalfantasyxi.com/',
 
           platformGroups: [
-            [{ key: 'windows', name: 'Windows', url: 'https://www.playonline.com/ff11us/' }],
-            [{ key: 'steam', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/230330/FINAL_FANTASY_XI_Ultimate_Collection_Seekers_Edition/' }],
+            [{ key: 'windows', url: 'https://www.playonline.com/ff11us/' }],
+            [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/230330/FINAL_FANTASY_XI_Ultimate_Collection_Seekers_Edition/' }],
             [
               { key: 'playstation2', name: 'PS2; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
               { key: 'playstation3', name: 'PlayStation 3 (PS2 compatibility); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
             ],
             [{ key: 'xbox-360', name: 'Xbox 360; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20playthrough' },
             ],
           ]
         },
@@ -88,9 +88,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
 
           platformGroups: [
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20playthrough' },
             ],
           ]
         },
@@ -124,9 +124,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
 
           platformGroups: [
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20playthrough' },
             ],
           ]
         },
@@ -160,9 +160,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
 
           platformGroups: [
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20playthrough' },
             ],
           ]
         },
@@ -196,9 +196,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
 
           platformGroups: [
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20playthrough' },
             ],
           ]
         },
@@ -230,9 +230,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
 
           platformGroups: [
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20playthrough' },
             ],
           ]
         },
@@ -250,7 +250,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Winds%20of%20Prayer~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Winds%20of%20Prayer%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Winds%20of%20Prayer%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~The Out of Orders~', releaseDate: '2003-04-19', chronoOrder: -10, recommendedOrder: 602, tags: ['Optional', 'Prequel', 'Alternate Universe', 'Manhwa', 'Incomplete'], mediaType: 'Comic', length: '3 issues',
         parts: [
@@ -268,7 +268,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Manhwa (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Out%20of%20Orders~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Out%20of%20Orders%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Out%20of%20Orders%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~The Star Oath~', releaseDate: '2003-05', chronoOrder: 1100, recommendedOrder: 605, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         parts: [
@@ -287,7 +287,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Star%20Oath~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Star%20Oath%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Star%20Oath%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Prayer of the Wind~ Vol.1', releaseDate: '2010', chronoOrder: 110, recommendedOrder: 606, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic', length: '144p',
         parts: [
@@ -305,7 +305,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Prayer%20of%20the%20Wind~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Prayer%20of%20the%20Wind%20comic' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Prayer%20of%20the%20Wind%20comic' }],
         ] },
         { title: "Final Fantasy XI ~Staying in Vana'diel~", releaseDate: '2003-05', chronoOrder: 1150, recommendedOrder: 603, tags: ['Optional', 'Spin-off', 'Play diary'], mediaType: 'Book', length: '477p;B6',
         parts: [
@@ -322,7 +322,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20Play%20Diary%20Staying%20in%20Vana%27diel%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Play%20Diary%20Staying%20in%20Vana%27diel' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Play%20Diary%20Staying%20in%20Vana%27diel' }],
         ] },
         { title: 'Final Fantasy XI ~The Eternal Bond~', releaseDate: '2003-07', chronoOrder: 1200, recommendedOrder: 607, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         parts: [
@@ -341,7 +341,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Eternal%20Bond~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Eternal%20Bond%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Eternal%20Bond%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~The Sword of Protection~ Vol.1', releaseDate: '2003-10', chronoOrder: 1300, recommendedOrder: 608, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -361,7 +361,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Sword%20of%20Protection~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Sword%20of%20Protection%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Sword%20of%20Protection%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~The Sword of Protection~ Vol.2', releaseDate: '2003-12', chronoOrder: 1400, recommendedOrder: 609, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '254p;A6',
         parts: [
@@ -381,7 +381,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Sword%20of%20Protection~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Sword%20of%20Protection%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Sword%20of%20Protection%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~The Sword of Protection~ Vol.3', releaseDate: '2004-01', chronoOrder: 1500, recommendedOrder: 610, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -400,7 +400,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Sword%20of%20Protection~%20Vol.3%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Sword%20of%20Protection%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Sword%20of%20Protection%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Faraway Wings~', releaseDate: '2004-03', chronoOrder: 1600, recommendedOrder: 611, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -420,7 +420,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Faraway%20Wings~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Faraway%20Wings%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Faraway%20Wings%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Pride of the Knight~ Vol.1', releaseDate: '2004-07', chronoOrder: 1700, recommendedOrder: 612, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '249p;A6',
         parts: [
@@ -440,7 +440,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Pride%20of%20the%20Knight~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Pride%20of%20the%20Knight%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Pride%20of%20the%20Knight%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Pride of the Knight~ Vol.2', releaseDate: '2004-09', chronoOrder: 1950, recommendedOrder: 613, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '250p;A6',
         parts: [
@@ -460,7 +460,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Pride%20of%20the%20Knight~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Pride%20of%20the%20Knight%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Pride%20of%20the%20Knight%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Pride of the Knight~ Vol.3', releaseDate: '2004-12', chronoOrder: 2100, recommendedOrder: 614, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '250p;A6',
         parts: [
@@ -480,7 +480,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Pride%20of%20the%20Knight~%20Vol.3%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Pride%20of%20the%20Knight%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Pride%20of%20the%20Knight%20story%20recap' }],
         ] },
         { title: "Final Fantasy XI ~Adventurer's Holiday~", releaseDate: '2005-04', chronoOrder: 2200, recommendedOrder: 615, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '318p;A6',
         parts: [
@@ -496,7 +496,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Adventurer%27s%20Holiday~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Adventurer%27s%20Holiday%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Adventurer%27s%20Holiday%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~A Distant Wish~ Vol.1', releaseDate: '2005-07', chronoOrder: 2300, recommendedOrder: 616, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '249p;A6',
         parts: [
@@ -512,7 +512,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Distant%20Wish~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Distant%20Wish%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Distant%20Wish%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~A Distant Wish~ Vol.2', releaseDate: '2005-09', chronoOrder: 2400, recommendedOrder: 617, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -528,7 +528,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Distant%20Wish~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Distant%20Wish%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Distant%20Wish%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~A New Dream~ Vol.1', releaseDate: '2005-11', chronoOrder: 2500, recommendedOrder: 618, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -544,7 +544,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20New%20Dream~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20New%20Dream%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20New%20Dream%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~A New Dream~ Vol.2', releaseDate: '2006-01', chronoOrder: 2600, recommendedOrder: 619, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '223p;A6',
         parts: [
@@ -560,7 +560,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20New%20Dream~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20New%20Dream%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20New%20Dream%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~The Blessings of the Journey~', releaseDate: '2006-04', chronoOrder: 2700, recommendedOrder: 626, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         parts: [
@@ -573,7 +573,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Blessings%20of%20the%20Journey~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Blessings%20of%20the%20Journey%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Blessings%20of%20the%20Journey%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.1', releaseDate: '2006-08', chronoOrder: 3100, recommendedOrder: 627, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         parts: [
@@ -588,7 +588,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Daughters%20of%20Aht%20Urhgan~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Daughters%20of%20Aht%20Urhgan%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Daughters%20of%20Aht%20Urhgan%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.2', releaseDate: '2006-10', chronoOrder: 3200, recommendedOrder: 628, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '251p;A6',
         parts: [
@@ -603,7 +603,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Daughters%20of%20Aht%20Urhgan~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Daughters%20of%20Aht%20Urhgan%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Daughters%20of%20Aht%20Urhgan%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.3', releaseDate: '2006-12', chronoOrder: 3300, recommendedOrder: 629, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '254p;A6',
         parts: [
@@ -618,7 +618,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Daughters%20of%20Aht%20Urhgan~%20Vol.3%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Daughters%20of%20Aht%20Urhgan%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Daughters%20of%20Aht%20Urhgan%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~The Testament of the Wise~ Vol.1', releaseDate: '2007-03', chronoOrder: 3400, recommendedOrder: 620, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '250p;A6',
         parts: [
@@ -634,7 +634,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Testament%20of%20the%20Wise~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Testament%20of%20the%20Wise%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Testament%20of%20the%20Wise%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~The Testament of the Wise~ Vol.2', releaseDate: '2007-04', chronoOrder: 3500, recommendedOrder: 621, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '252p;A6',
         parts: [
@@ -650,7 +650,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Testament%20of%20the%20Wise~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Testament%20of%20the%20Wise%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Testament%20of%20the%20Wise%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~The Song of the Storm~ Vol.1', releaseDate: '2007', chronoOrder: 3550, recommendedOrder: 622, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '222p; P',
         parts: [
@@ -670,7 +670,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Novel', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1' }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20Song%20of%20the%20Storm%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Song%20of%20the%20Storm%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Song%20of%20the%20Storm%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Adventure Log~', releaseDate: '2007-03-20', chronoOrder: 10, recommendedOrder: 601, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic', helpWanted: true,
         parts: [
@@ -681,7 +681,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
         platformGroups: [
           [{ key: 'book', name: 'Webcomic', noUrl: true }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Adventure%20Log%20webcomic' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Adventure%20Log%20webcomic' }],
         ] },
         { title: 'Final Fantasy XI ~Conditions of Fortune~', releaseDate: '2007-08', chronoOrder: 3600, recommendedOrder: 623, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '284p;A6',
         parts: [
@@ -697,7 +697,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Conditions%20of%20Fortune~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Conditions%20of%20Fortune%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Conditions%20of%20Fortune%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~The Princess Knight of Ronfaure~', releaseDate: '2007-11', chronoOrder: 3700, recommendedOrder: 624, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '254p;A6',
         parts: [
@@ -713,7 +713,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Princess%20Knight%20of%20Ronfaure~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Princess%20Knight%20of%20Ronfaure%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Princess%20Knight%20of%20Ronfaure%20story%20recap' }],
         ] },
         { title: "Final Fantasy XI ~The Star's Call~", releaseDate: '2008-01', chronoOrder: 4100, recommendedOrder: 625, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         parts: [
@@ -729,7 +729,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20The%20Star%27s%20Call%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Star%27s%20Call%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Star%27s%20Call%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Happy Gift~', releaseDate: '2008-04', chronoOrder: 4200, recommendedOrder: 630, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '313p;A6',
         parts: [
@@ -744,7 +744,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Happy%20Gift~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Happy%20Gift%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Happy%20Gift%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~A Message from Beyond~ Vol.1', releaseDate: '2008-08', chronoOrder: 4300, recommendedOrder: 631, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -759,7 +759,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Message%20from%20Beyond~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Message%20from%20Beyond%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Message%20from%20Beyond%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~A Message from Beyond~ Vol.2', releaseDate: '2008-10', chronoOrder: 4400, recommendedOrder: 632, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -774,7 +774,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Message%20from%20Beyond~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Message%20from%20Beyond%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Message%20from%20Beyond%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~A Message from Beyond~ Vol.3', releaseDate: '2008-12', chronoOrder: 4500, recommendedOrder: 633, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -789,7 +789,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Message%20from%20Beyond~%20Vol.3%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Message%20from%20Beyond%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Message%20from%20Beyond%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Anthology~', releaseDate: '2009-02', chronoOrder: 4600, recommendedOrder: 634, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '311p;A6',
         parts: [
@@ -804,7 +804,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Anthology~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Anthology%20of%20Short%20Stories%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Anthology%20of%20Short%20Stories%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.1', releaseDate: '2009-05', chronoOrder: 4700, recommendedOrder: 635, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '282p;A6',
         parts: [
@@ -819,7 +819,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Heartbeat%20of%20Xarcabard~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Heartbeat%20of%20Xarcabard%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Heartbeat%20of%20Xarcabard%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.2', releaseDate: '2009-08', chronoOrder: 4800, recommendedOrder: 636, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '247p;A6',
         parts: [
@@ -834,7 +834,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Heartbeat%20of%20Xarcabard~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Heartbeat%20of%20Xarcabard%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Heartbeat%20of%20Xarcabard%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.3', releaseDate: '2009-11', chronoOrder: 4900, recommendedOrder: 637, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '283p;A6',
         parts: [
@@ -849,7 +849,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Heartbeat%20of%20Xarcabard~%20Vol.3%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Heartbeat%20of%20Xarcabard%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Heartbeat%20of%20Xarcabard%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Lightning Brigade Encyclopedia~', releaseDate: '2013-03', chronoOrder: 4950, recommendedOrder: 638, tags: ['Optional', 'Spin-off', 'Articles', 'Manga', 'Short Stories'], mediaType: 'Comic', length: '217p;AB', helpWanted: true,
         parts: [
@@ -864,7 +864,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Lightning%20Brigade%20Encyclopedia~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Lightning%20Brigade%20Decennial%20Encyclopedia%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Lightning%20Brigade%20Decennial%20Encyclopedia%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Songs of the Endless Earth~', releaseDate: '2015-12', chronoOrder: 5100, recommendedOrder: 640, tags: ['Optional', 'Spin-off', 'YA Short Stories'], mediaType: 'Book', length: '287p;B6',
         parts: [
@@ -879,7 +879,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Songs%20of%20the%20Endless%20Earth~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Adventurer%27s%20Holiday%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Adventurer%27s%20Holiday%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Minagawa Fumio Illustrations~', releaseDate: '2018-12', chronoOrder: 5150, recommendedOrder: 641, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic', length: '189p;K4', helpWanted: true,
         parts: [
@@ -896,7 +896,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Minagawa%20Fumio%20Illustrations~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Minagawa%20Fumio%20Illustrations' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Minagawa%20Fumio%20Illustrations' }],
         ] },
         { title: 'Final Fantasy XI ~Aloha Iroha~', releaseDate: '2015-08-11', chronoOrder: 5050, recommendedOrder: 639, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic',
         parts: [
@@ -909,7 +909,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
         platformGroups: [
           [{ key: 'book', name: 'Manga', url: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha#External_links' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20~Aloha%20Iroha~%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20~Aloha%20Iroha~%20story%20recap' }],
         ] },
         { title: 'Final Fantasy XI ~Minstrel of Strange Tales: Replica Script~', releaseDate: '2024-02', chronoOrder: 5160, recommendedOrder: 642, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '96p;B5',
         parts: [
@@ -923,7 +923,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Minstrel%20of%20Strange%20Tales%3A%20Replica%20Script~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Minstrel%20of%20Strange%20Tales' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Minstrel%20of%20Strange%20Tales' }],
         ] },
         { title: 'Final Fantasy XI ~Minstrel of Fantasies: Replica Script~', releaseDate: '2025-03', chronoOrder: 5170, recommendedOrder: 643, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '96p;B5',
         parts: [
@@ -937,7 +937,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Minstrel%20of%20Fantasies%3A%20Replica%20Script~%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Minstrel%20of%20Fantasies' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Minstrel%20of%20Fantasies' }],
         ] },
         {
           title: 'Final Fantasy Grandmasters',
@@ -972,7 +972,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
               { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
               { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
             ],
-            [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Grandmasters%20playthrough' }],
+            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Grandmasters%20playthrough' }],
           ]
         },
         {
@@ -997,11 +997,11 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           storeUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver',
 
           platformGroups: [
-            [{ key: 'windows', name: 'Windows', url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver' }],
+            [{ key: 'windows', url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver' }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20playthrough' },
             ],
           ]
         },

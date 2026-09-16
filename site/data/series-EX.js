@@ -13,11 +13,11 @@ window.__ffSeriesReg['EX'] = { num: 'EX', releaseDate: '2014-12-18', chronoOrder
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-explorers',
         platformGroups: [
           [
-            { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers%20game%20movie' },
-            { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers%20story%20recap' },
-            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers%20playthrough' },
+            { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers%20game%20movie' },
+            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers%20story%20recap' },
+            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers%20playthrough' },
           ],
-          [{ key: 'nintendo-3ds', name: 'Nintendo 3DS', url: 'https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/FINAL-FANTASY-EXPLORERS-1079391.html' }],
+          [{ key: 'nintendo-3ds', url: 'https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/FINAL-FANTASY-EXPLORERS-1079391.html' }],
         ],
         },
         {
@@ -42,9 +42,9 @@ window.__ffSeriesReg['EX'] = { num: 'EX', releaseDate: '2014-12-18', chronoOrder
 
           platformGroups: [
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers-Force%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers-Force%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers-Force%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers-Force%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers-Force%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers-Force%20playthrough' },
             ],
             [
               { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },

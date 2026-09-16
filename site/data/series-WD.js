@@ -39,20 +39,20 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
 
           platformGroups: [
             [
-              { key: 'playstation4', url: 'https://store.playstation.com/product/UP0082-CUSA04647_00-WORLDOFFFPS40000' },
-              { key: 'playstation5', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA04647_00-WORLDOFFFPS40000' },
+              { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA04647_00-WORLDOFFFPS40000' },
+              { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA04647_00-WORLDOFFFPS40000' },
             ],
             [
-              { key: 'xbox-one', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/world-of-final-fantasy-maxima/c3d89v4nh8f2' },
-              { key: 'xbox-xs', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/world-of-final-fantasy-maxima/c3d89v4nh8f2' },
+              { key: 'xbox-one', paren: 'Enhanced; Physical; Digital', url: 'https://www.xbox.com/games/store/world-of-final-fantasy-maxima/c3d89v4nh8f2' },
+              { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/world-of-final-fantasy-maxima/c3d89v4nh8f2' },
             ],
-            [{ key: 'nintendo-switch', url: 'https://www.nintendo.com/store/products/world-of-final-fantasy-maxima-switch/' }],
-            [{ key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Nintendo Switch compatibility; Digital)', url: 'https://www.nintendo.com/store/products/world-of-final-fantasy-maxima-switch/' }],
-            [{ key: 'steam', url: 'https://store.steampowered.com/bundle/9112/WORLD_OF_FINAL_FANTASY_COMPLETE_EDITION/' }],
+            [{ key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/world-of-final-fantasy-maxima-switch/' }],
+            [{ key: 'nintendo-switch-2', paren: 'Nintendo Switch compatibility; Digital', url: 'https://www.nintendo.com/store/products/world-of-final-fantasy-maxima-switch/' }],
+            [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/bundle/9112/WORLD_OF_FINAL_FANTASY_COMPLETE_EDITION/' }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Maxima%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Maxima%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Maxima%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Maxima%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Maxima%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Maxima%20playthrough' },
             ],
           ],
 
@@ -76,9 +76,9 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
                   { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
                 ],
                 platformGroups: [
-                  [{ key: 'steam', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/' }],
-                  [{ key: 'playstation4', name: 'PlayStation 4 (Digital)', noUrl: true }],
-                  [{ key: 'playstation-vita', name: 'PlayStation Vita (Digital)', noUrl: true }],
+                  [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/' }],
+                  [{ key: 'playstation4', paren: 'Digital', noUrl: true }],
+                  [{ key: 'playstation-vita', paren: 'Digital', noUrl: true }],
                 ],
               },
             ],
@@ -110,9 +110,9 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
               { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
             ],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Meli-Melo%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Meli-Melo%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Meli-Melo%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Meli-Melo%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Meli-Melo%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Meli-Melo%20playthrough' },
             ],
           ]
         },

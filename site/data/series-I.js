@@ -23,20 +23,20 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           { label: 'Stranger of Paradise: Final Fantasy Origin (2022)', url: 'https://en.wikipedia.org/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin' },
         ], rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '72', midScore: '6.6', midUrl: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin/', source: 'VP', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin/', sourceUrl: 'https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/', sourceLabel: 'Steam; Very Positive' },
         platformGroups: [
-          [{ key: 'steam', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
-          [{ key: 'epic-games', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin' }],
-          [{ key: 'playstation4', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00' }],
-          [{ key: 'playstation5', name: 'PlayStation 5 (Digital; PS4 compat; Physical)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00' }],
+          [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
+          [{ key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin' }],
+          [{ key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00' }],
+          [{ key: 'playstation5', paren: 'Digital; PS4 compat; Physical', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00' }],
           [{ key: 'playstation-plus', name: 'PS Plus (PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00' }],
           [
-            { key: 'xbox-one', name: 'Xbox One (Physical; Digital)', url: 'https://www.xbox.com/games/store/stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition/9pnbm7k445cm' },
-            { key: 'xbox-xs', name: 'Xbox Series X/S (Optimized; Physical; Digital)', url: 'https://www.xbox.com/games/store/stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition/9pnbm7k445cm' },
+            { key: 'xbox-one', paren: 'Physical; Digital', url: 'https://www.xbox.com/games/store/stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition/9pnbm7k445cm' },
+            { key: 'xbox-xs', paren: 'Optimized; Physical; Digital', url: 'https://www.xbox.com/games/store/stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition/9pnbm7k445cm' },
           ],
           [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition/9pnbm7k445cm' }],
           [
-            { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20game%20movie' },
-            { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20story%20recap' },
-            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20playthrough' },
+            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20game%20movie' },
+            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20story%20recap' },
+            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20playthrough' },
           ],
         ],
         platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin' },
@@ -64,18 +64,18 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '8.5', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-trials/', single: true, sourceLabel: 'Metacritic' },
 
           platformGroups: [
-            [{ key: 'steam', name: 'Steam (PC)', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
-            [{ key: 'epic-games', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' }],
-            [{ key: 'playstation4', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
-            [{ key: 'playstation5', name: 'PlayStation 5 (Digital; PS4 compat)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
+            [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
+            [{ key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' }],
+            [{ key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
+            [{ key: 'playstation5', paren: 'Digital; PS4 compat', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
             [
-              { key: 'xbox-one', name: 'Xbox One' },
-              { key: 'xbox-xs', name: 'Xbox Series X/S' },
+              { key: 'xbox-one' },
+              { key: 'xbox-xs' },
             ],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20playthrough' },
             ],
           ],
 
@@ -105,18 +105,18 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '5.8', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-wanderer/', single: true, sourceLabel: 'Metacritic' },
 
           platformGroups: [
-            [{ key: 'steam', name: 'Steam (PC)', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
-            [{ key: 'epic-games', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' }],
-            [{ key: 'playstation4', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
-            [{ key: 'playstation5', name: 'PlayStation 5 (Digital; PS4 compat)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
+            [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
+            [{ key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' }],
+            [{ key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
+            [{ key: 'playstation5', paren: 'Digital; PS4 compat', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
             [
-              { key: 'xbox-one', name: 'Xbox One' },
-              { key: 'xbox-xs', name: 'Xbox Series X/S' },
+              { key: 'xbox-one' },
+              { key: 'xbox-xs' },
             ],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20playthrough' },
             ],
           ],
 
@@ -146,18 +146,18 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '9.5', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-2023/', single: true, sourceLabel: 'Metacritic' },
 
           platformGroups: [
-            [{ key: 'steam', name: 'Steam (PC)', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
-            [{ key: 'epic-games', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' }],
-            [{ key: 'playstation4', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
-            [{ key: 'playstation5', name: 'PlayStation 5 (Digital; PS4 compat)', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
+            [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
+            [{ key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' }],
+            [{ key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
+            [{ key: 'playstation5', paren: 'Digital; PS4 compat', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' }],
             [
-              { key: 'xbox-one', name: 'Xbox One' },
-              { key: 'xbox-xs', name: 'Xbox Series X/S' },
+              { key: 'xbox-one' },
+              { key: 'xbox-xs' },
             ],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20playthrough' },
             ],
           ],
 
@@ -210,24 +210,24 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '80', midScore: '7.0', midUrl: 'https://www.metacritic.com/game/final-fantasy/', source: 'OP', url: 'https://www.metacritic.com/game/final-fantasy-pixel-remaster/', sourceUrl: 'https://store.steampowered.com/app/1173770/FINAL_FANTASY/', sourceLabel: 'Steam; Overwhelmingly Positive' },
 
           platformGroups: [
-            [{ key: 'windows', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' }],
-            [{ key: 'steam', url: 'https://store.steampowered.com/app/1173770/FINAL_FANTASY/' }],
+            [{ key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' }],
+            [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1173770/FINAL_FANTASY/' }],
             [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR&' }],
             [{ key: 'apple', url: 'https://apps.apple.com/app/final-fantasy/id1492041278' }],
             [{ key: 'apple-arcade', url: 'https://apps.apple.com/app/final-fantasy/id6504607244' }],
-            [{ key: 'nintendo-switch', url: 'https://www.nintendo.com/store/products/final-fantasy-switch/' }],
-            [{ key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-switch/' }],
+            [{ key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-switch/' }],
+            [{ key: 'nintendo-switch-2', paren: 'Switch 1 compatibility; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-switch/' }],
             [
-              { key: 'playstation4', url: 'https://store.playstation.com/product/UP0082-CUSA33817_00-FF1PS4APPNA00001' },
-              { key: 'playstation5', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA33817_00-FF1PS4APPNA00001' },
+              { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA33817_00-FF1PS4APPNA00001' },
+              { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA33817_00-FF1PS4APPNA00001' },
             ],
-            [{ key: 'xbox-xs', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' }],
+            [{ key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' }],
             [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' }],
             [{ key: 'amazon', url: 'https://www.amazon.com/dp/B0995BK9CG?' }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20playthrough' },
             ],
           ],
 
@@ -250,8 +250,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 languages: [{ value: 'EN', tip: 'English' }],
                 storeUrl: 'https://www.rengames.us/ffr',
                 platformGroups: [
-                  [{ key: 'windows', name: 'Windows', url: 'https://discord.com/invite/Kg8fVsJW' }],
-                  [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20renaissance%20playthrough' }],
+                  [{ key: 'windows', url: 'https://discord.com/invite/Kg8fVsJW' }],
+                  [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20renaissance%20playthrough' }],
                 ],
               },
               {
@@ -272,7 +272,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }],
 
                 platformGroups: [
-                  [{ key: 'nintendo-3ds', name: 'Nintendo 3DS (Digital; Japan Only)', jpTag: true }],
+                  [{ key: 'nintendo-3ds', paren: 'Digital; Japan Only', jpTag: true }],
                 ]
               },
               {
@@ -310,9 +310,9 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 helpWanted: true,
 
                 platformGroups: [
-                  [{ key: 'apple', name: 'iOS (Digital)' }],
+                  [{ key: 'apple', paren: 'Digital' }],
                   [{ key: 'playstation-portable', name: 'PlayStation Portable (Physical)' }],
-                  [{ key: 'windows-phone', name: 'Windows Phone (Digital)' }],
+                  [{ key: 'windows-phone', paren: 'Digital' }],
                 ]
               },
               {
@@ -328,7 +328,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
                 helpWanted: true,
                 platformGroups: [
-                  [{ key: 'nintendo-game-boy-advance' }],
+                  [{ key: 'nintendo-game-boy-advance', paren: 'Physical' }],
                   [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
                 ],
               },
@@ -371,11 +371,11 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
 
                 platformGroups: [
                   [
-                    { key: 'playstation3', name: 'PlayStation 3 (PSone compatibility; Digital)' },
-                    { key: 'playstation2', name: 'PlayStation 2 (PSone compatibility)' },
-                    { key: 'playstation1' },
-                    { key: 'playstation-vita', name: 'PlayStation Vita (Digital)' },
-                    { key: 'playstation-portable', name: 'PlayStation Portable (PSP) (Digital)' },
+                    { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+                    { key: 'playstation2', paren: 'PSone compatibility' },
+                    { key: 'playstation1', paren: 'Physical' },
+                    { key: 'playstation-vita', paren: 'Digital' },
+                    { key: 'playstation-portable', paren: 'Digital' },
                   ],
                 ]
               },
@@ -389,7 +389,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 ],
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }],
                 platformGroups: [
-                  [{ key: 'wonderswan' }],
+                  [{ key: 'wonderswan', paren: 'Physical; Japan Only' }],
                 ],
               },
               {
@@ -402,7 +402,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 ],
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }],
                 platformGroups: [
-                  [{ key: 'msx2' }],
+                  [{ key: 'msx2', paren: 'Physical; Japan Only' }],
                 ],
               },
               {
@@ -421,7 +421,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 platformGroups: [
                   [
                     { key: 'nintendo-nes-fc', name: 'Nintendo Entertainment System (Famicom; Physical)' },
-                    { key: 'nintendo-nes-classic-edition', name: 'Nintendo NES Classic Edition (outside Japan)', nonJpTag: true },
+                    { key: 'nintendo-nes-classic-edition', paren: 'outside Japan', nonJpTag: true },
                   ],
                   [
                     { key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
@@ -450,7 +450,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20i%20manga%20translation' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20i%20manga%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20i%20manga%20story%20recap' }],
         ] },
         { title: 'Final Fantasy I・II・III: Memory of Heroes ~I~ (2012)', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
         parts: [
@@ -472,6 +472,6 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
         platformGroups: [
           [{ key: 'book', name: 'Short Stories', noUrl: true }],
         [{ key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes#Final_Fantasy' }],
-        [{ key: 'fan-audiobook', name: 'Fan Audiobook (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20audiobook' }],
+        [{ key: 'fan-audiobook', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20audiobook' }],
         ] },
       ]};

@@ -31,9 +31,9 @@ window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder
             [{ key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-dimensions/id540992837' }],
             [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp' }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20playthrough' },
             ],
           ]
         },
@@ -70,9 +70,9 @@ window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder
             [{ key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-dimensions-ii/id1239279234' }],
             [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl2w&pli=1' }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20playthrough' },
             ],
           ]
         },

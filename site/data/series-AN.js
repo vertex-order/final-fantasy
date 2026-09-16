@@ -22,7 +22,7 @@ window.__ffSeriesReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1
               { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
               { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
             ],
-            [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Artniks%20playthrough' }],
+            [{ key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Artniks%20playthrough' }],
           ]
         },
         {
@@ -50,7 +50,7 @@ window.__ffSeriesReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1
               { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
               { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
             ],
-            [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Artniks%20Dive%20playthrough' }],
+            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Artniks%20Dive%20playthrough' }],
           ]
         },
       ]};

@@ -39,27 +39,27 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
           storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-viii-remastered',
 
           platformGroups: [
-            [{ key: 'gog', url: 'https://www.gog.com/en/game/final_fantasy_viii_remastered' }],
-            [{ key: 'steam', url: 'https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII__REMASTERED/' }],
+            [{ key: 'gog', paren: 'PC', url: 'https://www.gog.com/en/game/final_fantasy_viii_remastered' }],
+            [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII__REMASTERED/' }],
             [
               { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVIII' },
               { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-viii-remastered/id1326740784' },
             ],
-            [{ key: 'nintendo-switch', url: 'https://www.nintendo.com/store/products/final-fantasy-viii-remastered-switch/' }],
-            [{ key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch 1 compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-viii-remastered-switch/' }],
+            [{ key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-viii-remastered-switch/' }],
+            [{ key: 'nintendo-switch-2', paren: 'Switch 1 compatibility; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-viii-remastered-switch/' }],
             [
-              { key: 'playstation4', url: 'https://store.playstation.com/product/UP0082-CUSA08749_00-FINALFANTASY80NA' },
-              { key: 'playstation5', name: 'PlayStation 5 (PS4 compatibility)', url: 'https://store.playstation.com/product/UP0082-CUSA08749_00-FINALFANTASY80NA' },
+              { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA08749_00-FINALFANTASY80NA' },
+              { key: 'playstation5', paren: 'PS4 compatibility', url: 'https://store.playstation.com/product/UP0082-CUSA08749_00-FINALFANTASY80NA' },
             ],
             [
-              { key: 'xbox-one', name: 'Xbox One (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-viii-remastered/9nntspsc35zb' },
-              { key: 'xbox-xs', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-viii-remastered/9nntspsc35zb' },
+              { key: 'xbox-one', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-viii-remastered/9nntspsc35zb' },
+              { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-viii-remastered/9nntspsc35zb' },
             ],
-            [{ key: 'windows', url: 'https://www.xbox.com/games/store/final-fantasy-viii-remastered/9nntspsc35zb' }],
+            [{ key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-viii-remastered/9nntspsc35zb' }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VIII%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VIII%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VIII%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VIII%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VIII%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VIII%20playthrough' },
             ],
           ],
 
@@ -84,8 +84,8 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
                 ],
                 storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-viii-pc',
                 platformGroups: [
-                  [{ key: 'windows', name: 'Windows', noUrl: true }],
-                  [{ key: 'steam', url: 'https://store.steampowered.com/app/39150/FINAL_FANTASY_VIII/' }],
+                  [{ key: 'windows', noUrl: true }],
+                  [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/39150/FINAL_FANTASY_VIII/' }],
                 ],
               },
               {
@@ -98,7 +98,7 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
                 ],
                 languages: [{ value: 'EN', tip: 'English', native: true }, { value: 'JA', tip: 'Japanese' }, { value: 'FR', tip: 'French' }, { value: 'DE', tip: 'German' }, { value: 'IT', tip: 'Italian' }, { value: 'ES-ES', tip: 'Spanish (Spain)' }],
                 platformGroups: [
-                  [{ key: 'windows', name: 'Windows', noUrl: true }],
+                  [{ key: 'windows', noUrl: true }],
                 ],
               },
               {
@@ -111,11 +111,11 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
                 helpWanted: true,
                 platformGroups: [
                   [
-                    { key: 'playstation1', noUrl: true },
-                    { key: 'playstation2', name: 'PlayStation 2 (PSone compatibility)', noUrl: true },
-                    { key: 'playstation3', name: 'PlayStation 3 (PSone compatibility; Digital)' },
-                    { key: 'playstation-vita', name: 'PlayStation Vita (Digital)' },
-                    { key: 'playstation-portable', name: 'PlayStation Portable (PSP) (Digital)' },
+                    { key: 'playstation1', paren: 'Physical', noUrl: true },
+                    { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
+                    { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+                    { key: 'playstation-vita', paren: 'Digital' },
+                    { key: 'playstation-portable', paren: 'Digital' },
                   ],
                 ],
               },

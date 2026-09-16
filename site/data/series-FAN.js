@@ -8,11 +8,11 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
         ],
         languages: [{ value: 'EN', tip: 'English', native: true }],
         platformGroups: [
-          [{ key: 'windows', name: 'Windows', noUrl: true }],
+          [{ key: 'windows', noUrl: true }],
           [
-            { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20game%20movie' },
-            { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20story%20recap' },
-            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20playthrough' },
+            { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20game%20movie' },
+            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20story%20recap' },
+            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20playthrough' },
           ],
         ] },
         {
@@ -43,11 +43,11 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
           languages: [{ value: 'EN', tip: 'English', native: true }],
 
           platformGroups: [
-            [{ key: 'windows', name: 'Windows', noUrl: true }],
+            [{ key: 'windows', noUrl: true }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20playthrough' },
             ],
           ]
         },
@@ -75,11 +75,11 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
           storeUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver',
 
           platformGroups: [
-            [{ key: 'windows', name: 'Windows', url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver' }],
+            [{ key: 'windows', url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver' }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20playthrough' },
             ],
           ]
         },
@@ -99,8 +99,8 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
         languages: [{ value: 'EN', tip: 'English' }],
         storeUrl: 'https://www.rengames.us/ffr',
         platformGroups: [
-          [{ key: 'windows', name: 'Windows', url: 'https://discord.com/invite/Kg8fVsJW' }],
-          [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20renaissance%20playthrough' }],
+          [{ key: 'windows', url: 'https://discord.com/invite/Kg8fVsJW' }],
+          [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20renaissance%20playthrough' }],
         ] },
         {
           title: 'Final Fantasy IV: The Novel',

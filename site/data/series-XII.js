@@ -50,18 +50,18 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xii-the-zodiac-age',
 
           platformGroups: [
-            [{ key: 'windows', url: 'https://www.xbox.com/games/store/final-fantasy-xii-the-zodiac-age/9nm6ng7knhwj' }],
-            [{ key: 'steam', url: 'https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/' }],
-            [{ key: 'nintendo-switch', url: 'https://www.nintendo.com/store/products/final-fantasy-xii-the-zodiac-age-switch/' }],
-            [{ key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch compatibility; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-xii-the-zodiac-age-switch/' }],
+            [{ key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xii-the-zodiac-age/9nm6ng7knhwj' }],
+            [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/' }],
+            [{ key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-xii-the-zodiac-age-switch/' }],
+            [{ key: 'nintendo-switch-2', paren: 'Switch compatibility; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-xii-the-zodiac-age-switch/' }],
             [
-              { key: 'xbox-one', name: 'Xbox One (Enhanced; Physical; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xii-the-zodiac-age/bxdh919m16g9' },
-              { key: 'xbox-xs', name: 'Xbox Series X/S (Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-xii-the-zodiac-age/bxdh919m16g9' },
+              { key: 'xbox-one', paren: 'Enhanced; Physical; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xii-the-zodiac-age/bxdh919m16g9' },
+              { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xii-the-zodiac-age/bxdh919m16g9' },
             ],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XII%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XII%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XII%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XII%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XII%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XII%20playthrough' },
             ],
           ],
 
@@ -95,8 +95,8 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
 
             platformGroups: [
               [
-                { key: 'playstation4', url: 'https://store.playstation.com/product/UP0082-CUSA05532_00-FFXIIGAMEPS400NA/' },
-                { key: 'playstation5', name: 'PlayStation 5 (PS4 compat)', url: 'https://store.playstation.com/product/UP0082-CUSA05532_00-FFXIIGAMEPS400NA/' },
+                { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA05532_00-FFXIIGAMEPS400NA/' },
+                { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA05532_00-FFXIIGAMEPS400NA/' },
               ],
             ],
 
@@ -117,8 +117,8 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
                 ],
                 platformGroups: [
                   [
-                    { key: 'playstation2', name: 'PlayStation 2 (Physical) (Japan only)', jpTag: true, noUrl: true },
-                    { key: 'playstation3', name: 'PlayStation 3 (PS2 compatibility) (Physical) (Japan only)', jpTag: true, noUrl: true },
+                    { key: 'playstation2', paren: 'Physical) (Japan only', jpTag: true, noUrl: true },
+                    { key: 'playstation3', paren: 'PS2 compatibility) (Physical) (Japan only', jpTag: true, noUrl: true },
                   ],
                 ],
               },
@@ -132,8 +132,8 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
                 helpWanted: true,
                 platformGroups: [
                   [
-                    { key: 'playstation2', name: 'PlayStation 2 (Physical)', noUrl: true },
-                    { key: 'playstation3', name: 'PlayStation 3 (PS2 compatibility) (Physical)', noUrl: true },
+                    { key: 'playstation2', paren: 'Physical', noUrl: true },
+                    { key: 'playstation3', paren: 'PS2 compatibility) (Physical', noUrl: true },
                   ],
                 ],
               },
@@ -153,7 +153,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', url: 'https://somethingorotherscans.com/ffxii.php' }],
-          [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XII%20manga%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XII%20manga%20story%20recap' }],
         ] },
         {
           title: 'Final Fantasy XII: Revenant Wings',
@@ -180,11 +180,11 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           storeUrl: 'https://www.nintendo.com/en-gb/Games/Nintendo-DS/Final-Fantasy-XII-Revenant-Wings-270814.html',
 
           platformGroups: [
-            [{ key: 'nintendo-ds', name: 'Nintendo DS', url: 'https://www.nintendo.com/en-gb/Games/Nintendo-DS/Final-Fantasy-XII-Revenant-Wings-270814.html' }],
+            [{ key: 'nintendo-ds', url: 'https://www.nintendo.com/en-gb/Games/Nintendo-DS/Final-Fantasy-XII-Revenant-Wings-270814.html' }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XII%3A%20Revenant%20Wings%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XII%3A%20Revenant%20Wings%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XII%3A%20Revenant%20Wings%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XII%3A%20Revenant%20Wings%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XII%3A%20Revenant%20Wings%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XII%3A%20Revenant%20Wings%20playthrough' },
             ],
           ]
         },
@@ -216,12 +216,12 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           storeUrl: 'https://www.nintendo.com/en-gb/Games/Game-Boy-Advance/Final-Fantasy-Tactics-Advance-266705.html',
 
           platformGroups: [
-            [{ key: 'nintendo-game-boy-advance', url: 'https://www.nintendo.com/en-gb/Games/Game-Boy-Advance/Final-Fantasy-Tactics-Advance-266705.html' }],
+            [{ key: 'nintendo-game-boy-advance', paren: 'Physical', url: 'https://www.nintendo.com/en-gb/Games/Game-Boy-Advance/Final-Fantasy-Tactics-Advance-266705.html' }],
             [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20playthrough' },
             ],
           ],
 
@@ -241,7 +241,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
               platformGroups: [
                 [{ key: 'compact-disc', name: 'CD (Japan Only)', jpTag: true, noUrl: true },
                   { key: 'fan-audiobook', name: 'Audio drama (unofficial with fan subtitles)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20Radio%20Edition' }],
-                [{ key: 'fan-recap', name: 'Fan story recap video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20Radio%20Edition%20story%20recap' }],
+                [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20Radio%20Edition%20story%20recap' }],
               ],
             },
           ]
@@ -274,11 +274,11 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '80', midScore: '8.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-tactics-a2-grimoire-of-the-rift/', url: 'https://www.metacritic.com/game/final-fantasy-tactics-a2-grimoire-of-the-rift/', single: true, sourceLabel: 'Metacritic' },
 
           platformGroups: [
-            [{ key: 'nintendo-ds', name: 'Nintendo DS', noUrl: true }],
+            [{ key: 'nintendo-ds', noUrl: true }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20A2%20Grimoire%20of%20the%20Rift%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20A2%20Grimoire%20of%20the%20Rift%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20A2%20Grimoire%20of%20the%20Rift%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20A2%20Grimoire%20of%20the%20Rift%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20A2%20Grimoire%20of%20the%20Rift%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20A2%20Grimoire%20of%20the%20Rift%20playthrough' },
             ],
           ]
         },
@@ -320,23 +320,23 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           storeUrl: 'https://final-fantasy-tactics-the-ivalice-chronicles.square-enix-games.com/',
 
           platformGroups: [
-            [{ key: 'windows', name: 'Windows (PC; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-tactics-the-ivalice-chronicles/9mz2mc7t85t5' }],
-            [{ key: 'steam', url: 'https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/' }],
+            [{ key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-tactics-the-ivalice-chronicles/9mz2mc7t85t5' }],
+            [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/' }],
             [
-              { key: 'playstation4', name: 'PlayStation 4 (Digital)', url: 'https://store.playstation.com/product/JP0082-PPSA21783_00-FFTACTICS0000000' },
-              { key: 'playstation5', name: 'PlayStation 5 (PS4 compatibility; Physical; Digital)', url: 'https://store.playstation.com/product/JP0082-PPSA21783_00-FFTACTICS0000000' },
+              { key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/JP0082-PPSA21783_00-FFTACTICS0000000' },
+              { key: 'playstation5', paren: 'PS4 compatibility; Physical; Digital', url: 'https://store.playstation.com/product/JP0082-PPSA21783_00-FFTACTICS0000000' },
             ],
             [{ key: 'playstation-plus', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/JP0082-PPSA21783_00-FFTACTICS0000000' }],
             [
-              { key: 'nintendo-switch', url: 'https://www.nintendo.com/store/products/final-fantasy-tactics-the-ivalice-chronicles-switch/' },
-              { key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch compatibility; free Switch upgrade; Digital)', url: 'https://www.nintendo.com/store/products/final-fantasy-tactics-the-ivalice-chronicles-nintendo-switch-2-edition-switch-2/' },
+              { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-tactics-the-ivalice-chronicles-switch/' },
+              { key: 'nintendo-switch-2', paren: 'Switch compatibility; free Switch upgrade; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-tactics-the-ivalice-chronicles-nintendo-switch-2-edition-switch-2/' },
             ],
-            [{ key: 'xbox-xs', name: 'Xbox Series X/S (Optimized; Digital)', url: 'https://www.xbox.com/games/store/final-fantasy-tactics-the-ivalice-chronicles/9mz2mc7t85t5' }],
+            [{ key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-tactics-the-ivalice-chronicles/9mz2mc7t85t5' }],
             [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-tactics-the-ivalice-chronicles/9mz2mc7t85t5' }],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20The%20Ivalice%20Chronicles%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20The%20Ivalice%20Chronicles%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20The%20Ivalice%20Chronicles%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20The%20Ivalice%20Chronicles%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20The%20Ivalice%20Chronicles%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20The%20Ivalice%20Chronicles%20playthrough' },
             ],
           ],
 
@@ -356,13 +356,13 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
                 helpWanted: true,
                 storeUrl: 'http://dlgames.square-enix.com/fft/en/',
                 platformGroups: [
-                  [{ key: 'playstation-portable', name: 'PlayStation Portable (PSP)', url: 'http://dlgames.square-enix.com/fft/en/' }],
+                  [{ key: 'playstation-portable', url: 'http://dlgames.square-enix.com/fft/en/' }],
                   [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2' }],
                   [{ key: 'apple', url: 'http://dlgames.square-enix.com/fft/en/' }],
                   [
-                    { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20War%20of%20the%20Lions%20game%20movie' },
-                    { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20War%20of%20the%20Lions%20story%20recap' },
-                    { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20War%20of%20the%20Lions%20playthrough' },
+                    { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20War%20of%20the%20Lions%20game%20movie' },
+                    { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20War%20of%20the%20Lions%20story%20recap' },
+                    { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20War%20of%20the%20Lions%20playthrough' },
                   ],
                 ],
               },
@@ -375,11 +375,11 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
                 languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
                 platformGroups: [
                   [
-                    { key: 'playstation1', noUrl: true },
-                    { key: 'playstation2', name: 'PlayStation 2 (PSone compatibility)', noUrl: true },
+                    { key: 'playstation1', paren: 'Physical', noUrl: true },
+                    { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
                     { key: 'playstation3', name: 'PlayStation 3 (PSone compatibility); Digital', url: 'https://store.playstation.com/' },
-                    { key: 'playstation-vita', name: 'PlayStation Vita (Digital)', url: 'https://store.playstation.com/' },
-                    { key: 'playstation-portable', name: 'PlayStation Portable (PSP) (Digital)', url: 'https://store.playstation.com/' },
+                    { key: 'playstation-vita', paren: 'Digital', url: 'https://store.playstation.com/' },
+                    { key: 'playstation-portable', paren: 'Digital', url: 'https://store.playstation.com/' },
                   ],
                 ],
               },
@@ -411,16 +411,16 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
 
           platformGroups: [
             [
-              { key: 'playstation1', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
-              { key: 'playstation2', name: 'PlayStation 2 (PSone compatibility)', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
-              { key: 'playstation3', name: 'PlayStation 3 (PSone compatibility; Digital)', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
-              { key: 'playstation-portable', name: 'PlayStation Portable (PSP) (Digital)', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
-              { key: 'playstation-vita', name: 'PlayStation Vita (Digital)', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
+              { key: 'playstation1', paren: 'Physical', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
+              { key: 'playstation2', paren: 'PSone compatibility', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
+              { key: 'playstation3', paren: 'PSone compatibility; Digital', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
+              { key: 'playstation-portable', paren: 'Digital', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
+              { key: 'playstation-vita', paren: 'Digital', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
             ],
             [
-              { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Vagrant%20Story%20game%20movie' },
-              { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Vagrant%20Story%20story%20recap' },
-              { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Vagrant%20Story%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Vagrant%20Story%20game%20movie' },
+              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Vagrant%20Story%20story%20recap' },
+              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Vagrant%20Story%20playthrough' },
             ],
           ]
         },
@@ -449,7 +449,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
               { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
               { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
             ],
-            [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20S%20playthrough' }],
+            [{ key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20S%20playthrough' }],
           ]
         },
         {
@@ -484,13 +484,13 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
               { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
             ],
             [{ key: 'nintendo-wii', name: 'Nintendo Wii: WiiWare; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'xbox-360', name: 'Xbox 360 (Xbox Live Arcade)', noUrl: true }],
+            [{ key: 'xbox-360', paren: 'Xbox Live Arcade', noUrl: true }],
             [
-              { key: 'playstation3', name: 'PlayStation 3 (Digital)', noUrl: true },
-              { key: 'playstation-portable', name: 'PlayStation Portable (PSP) (Digital)', noUrl: true },
+              { key: 'playstation3', paren: 'Digital', noUrl: true },
+              { key: 'playstation-portable', paren: 'Digital', noUrl: true },
             ],
             [{ key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Crystal%20Defenders%20playthrough' }],
+            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Crystal%20Defenders%20playthrough' }],
           ]
         },
         {
@@ -518,7 +518,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
 
           platformGroups: [
             [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Crystal%20Defenders%20Vanguard%20Storm%20playthrough' }],
+            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Crystal%20Defenders%20Vanguard%20Storm%20playthrough' }],
           ]
         },
       ]};
