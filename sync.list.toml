@@ -3,33 +3,32 @@
 #
 # [subscribe.*] — what THIS repo vendors FROM elsewhere. sync.py fetches these
 #                 at `ref` and writes them into the tree. Vendored copies —
-#                 never hand-edit; edit them in the owning repo (kit).
+#                 never hand-edit them here; edit them in the owning repo (kit).
 #                 check-vendored.yml fails the PR if any has drifted.
 #
-# This repo publishes nothing — it owns no file another repo vendors. Every
-# platform icon reference in site/data/series-*.js was migrated to the
-# canonical platforms names/sizes/model in the same pass that added
-# PlatformIcon.dc.html, platform-icons.js, and images/platforms/ below.
+# This repo publishes nothing — it owns no file another repo vendors.
 #
 # Not vendored, even though this repo needs its own: .github/ISSUE_TEMPLATE/*
 # and .github/PULL_REQUEST_TEMPLATE.md. Each necessarily carries this repo's
 # own Discussions URL (and PR-checklist lines), so a byte-identical vendor is
 # impossible by construction. Seeded from kit's copies once, then maintained
-# locally. site/Intro.dc.html is the same story: seeded once from kit's
-# template copy, then hand-edited with this franchise's own "Where to
-# start?" prose — see docs/init-list.md (kit).
+# locally.
+#
+# `sync.list.toml` below is vendored too, but never applied automatically —
+# sync.toml can't self-update (chicken-and-egg, and it'd clobber this
+# repo's own tweaks). It's purely a diff target: after `just sync`, compare
+# it against this file's own [subscribe.kit].paths to see whether kit added
+# a path this repo hasn't picked up yet.
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "00ee9ec73c8e671d3c75582f5b1b48634bbc5575"
+ref  = "main"   # pin to a commit SHA / tag for reproducibility: `just sync`
 paths = [
   "sync.list.toml",
-  "docs/subtitle.md",
   "site/_ds/",
   "site/images/ui/",
   "site/images/platforms/",
   "site/support.js",
-  "site/data/common-faq.js",
   "site/PlatformIcon.dc.html",
   "site/data/platform-icons.js",
   "site/BackToTop.dc.html",
@@ -46,11 +45,11 @@ paths = [
   "site/LanguageTag.dc.html",
   "site/LengthDisplay.dc.html",
   "site/MediaEntry.dc.html",
-  "site/Metadata.dc.html",
   "site/page.dc.html",
   "site/RatingDisplay.dc.html",
   "site/SeriesSection.dc.html",
   "site/StatusBadge.dc.html",
+  "site/ThemeToggle.dc.html",
   "scripts/bundle-components.py",
   "scripts/sync.py",
   "scripts/normalize-svg.py",
