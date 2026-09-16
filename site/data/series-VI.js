@@ -129,12 +129,12 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
                 }, 's, screen-transition effects, and "memo" save feature. May have slow menus.'], ['Released in omnibus collection ', {
                   emText: 'Final Fantasy Collection'
                 }, {
-                  tipText: ' (JP)',
+                  hintText: ' (JP)',
                   tip: 'Japan'
                 }, ' (1999), and ', {
                   emText: 'Final Fantasy Anthology'
                 }, {
-                  tipText: ' (NA)',
+                  hintText: ' (NA)',
                   tip: 'North America'
                 }, ' (1999).']],
 
