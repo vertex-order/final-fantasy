@@ -9,10 +9,10 @@ window.__ffSeriesReg['MQ'] = { num: 'MQ', releaseDate: '1992-10-05', chronoOrder
           lengthParts: [{ value: '14h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '14½h', tip: 'Completionist' }],
 
           languages: [
-            { value: 'JA', tip: 'Japanese', native: true },
-            { value: 'EN', tip: 'English' },
-            { value: 'FR', tip: 'French' },
-            { value: 'DE', tip: 'German' },
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: 'FR' },
+            { value: 'DE' },
           ],
 
           parts: [
@@ -44,9 +44,9 @@ window.__ffSeriesReg['MQ'] = { num: 'MQ', releaseDate: '1992-10-05', chronoOrder
           platformGroups: [
             [{ key: 'nintendo-snes', name: 'Super Nintendo Entertainment System (Super Famicom; Physical)', noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Mystic%20Quest%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Mystic%20Quest%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Mystic%20Quest%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Mystic Quest' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy Mystic Quest' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Mystic Quest' },
             ],
           ]
         },

@@ -15,14 +15,14 @@ window.__ffSeriesReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1
             { text: 'Card collection game inspired by many different Final Fantasy series and titles all mashed together.' },
           ], 'Since it does not have a deep story and is more of a mashup, and is also terminated, there it no story recap to view.'],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           platformGroups: [
             [
-              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, noUrl: true },
+              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, noUrl: true },
             ],
-            [{ key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Artniks%20playthrough' }],
+            [{ key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Artniks' }],
           ]
         },
         {
@@ -43,14 +43,14 @@ window.__ffSeriesReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1
             { text: '.' },
           ], 'Since it does not have a deep story and is more of a mashup, and is also terminated, there it no story recap to view.'],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           platformGroups: [
             [
-              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, noUrl: true },
+              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, noUrl: true },
             ],
-            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Artniks%20Dive%20playthrough' }],
+            [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Artniks Dive' }],
           ]
         },
       ]};

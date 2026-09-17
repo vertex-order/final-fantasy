@@ -15,13 +15,13 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           ],
 
           languages: [
-            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-            { value: 'FR', tip: 'French' },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'DE', tip: 'German' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'KO', tip: 'Korean' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR' },
+            { value: 'IT' },
+            { value: 'DE' },
+            { value: 'ES-ES' },
+            { value: 'KO' },
             { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
             { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
           ],
@@ -38,7 +38,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
             { text: '.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '92', midScore: '8.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-x/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-x/', sourceUrl: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/', sourceLabel: 'Steam; Very Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '92', url: 'https://www.metacritic.com/game/final-fantasy-x/' }, { kind: 'metacritic-user', score: '8.9', url: 'https://www.metacritic.com/game/final-fantasy-x/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/' }] },
           storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
 
           platformGroups: [
@@ -55,9 +55,9 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy X' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy X' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy X' },
             ],
           ],
 
@@ -82,13 +82,13 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
                   { text: ' version.' },
                 ]],
                 languages: [
-                  { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-                  { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-                  { value: 'FR', tip: 'French' },
-                  { value: 'IT', tip: 'Italian' },
-                  { value: 'DE', tip: 'German' },
-                  { value: 'ES-ES', tip: 'Spanish (Spain)' },
-                  { value: 'KO', tip: 'Korean' },
+                  { value: 'JA', native: true, voice: true },
+                  { value: 'EN-US', voice: true },
+                  { value: 'FR' },
+                  { value: 'IT' },
+                  { value: 'DE' },
+                  { value: 'ES-ES' },
+                  { value: 'KO' },
                   { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
                   { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
                 ],
@@ -109,7 +109,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
                   { emText: 'Final Fantasy X/X-2 Ultimate Box (JP; 2005)' },
                   { text: '.' },
                 ]],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 platformGroups: [
                   [{ key: 'playstation1', paren: 'Physical', noUrl: true }],
@@ -125,7 +125,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
                 description: [
                   'The original release. PAL versions run 20% slower due to a 50Hz refresh rate.'
                 ],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 platformGroups: [
                   [
@@ -152,13 +152,13 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           ],
 
           languages: [
-            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-            { value: 'FR', tip: 'French' },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'DE', tip: 'German' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'KO', tip: 'Korean' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR' },
+            { value: 'IT' },
+            { value: 'DE' },
+            { value: 'ES-ES' },
+            { value: 'KO' },
             { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
             { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
           ],
@@ -176,7 +176,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           ]],
 
           length: '14m',
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '5.8', url: 'https://www.imdb.com/title/tt13428272/', single: true, sourceLabel: 'IMDb' },
+          rating: { scores: [{ kind: 'imdb', score: '5.8', url: 'https://www.imdb.com/title/tt13428272/' }] },
           storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
 
           platformGroups: [
@@ -189,8 +189,8 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20eternal%20calm%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X%20eternal%20calm%20story%20recap' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy X eternal calm' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy X eternal calm' },
             ],
           ],
 
@@ -206,7 +206,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
                   { emText: 'X (2001) Remaster (2013)' },
                   { text: '.' },
                 ]],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
                 platformGroups: [
@@ -225,7 +225,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
                   { emText: 'X (2001) International (2002)' },
                   { text: '.' },
                 ]],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 platformGroups: [
                   [{ key: 'playstation1', paren: 'Physical', noUrl: true }],
@@ -253,13 +253,13 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           ],
 
           languages: [
-            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-            { value: 'FR', tip: 'French' },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'DE', tip: 'German' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'KO', tip: 'Korean' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR' },
+            { value: 'IT' },
+            { value: 'DE' },
+            { value: 'ES-ES' },
+            { value: 'KO' },
             { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
             { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
           ],
@@ -278,7 +278,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
             { text: '.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '7.2', midUrl: 'https://www.metacritic.com/game/final-fantasy-x-2/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-x-2/', sourceUrl: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/', sourceLabel: 'Steam; Very Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '85', url: 'https://www.metacritic.com/game/final-fantasy-x-2/' }, { kind: 'metacritic-user', score: '7.2', url: 'https://www.metacritic.com/game/final-fantasy-x-2/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/' }] },
           storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
 
           platformGroups: [
@@ -295,9 +295,9 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy X-2' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy X-2' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy X-2' },
             ],
           ],
 
@@ -322,13 +322,13 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
                   { text: '.' },
                 ]],
                 languages: [
-                  { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-                  { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-                  { value: 'FR', tip: 'French' },
-                  { value: 'IT', tip: 'Italian' },
-                  { value: 'DE', tip: 'German' },
-                  { value: 'ES-ES', tip: 'Spanish (Spain)' },
-                  { value: 'KO', tip: 'Korean' },
+                  { value: 'JA', native: true, voice: true },
+                  { value: 'EN-US', voice: true },
+                  { value: 'FR' },
+                  { value: 'IT' },
+                  { value: 'DE' },
+                  { value: 'ES-ES' },
+                  { value: 'KO' },
                   { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
                   { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
                 ],
@@ -368,7 +368,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
                 label: 'Final Fantasy X-2 (2003)',
                 url: 'https://en.wikipedia.org/wiki/Final_Fantasy_X-2',
                 description: ['The original release.'],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 platformGroups: [
                   [
@@ -395,13 +395,13 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           ],
 
           languages: [
-            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-            { value: 'FR', tip: 'French' },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'DE', tip: 'German' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'KO', tip: 'Korean' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR' },
+            { value: 'IT' },
+            { value: 'DE' },
+            { value: 'ES-ES' },
+            { value: 'KO' },
             { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
             { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
           ],
@@ -432,9 +432,9 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z' },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20last%20mission%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20last%20mission%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20last%20mission%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy X-2: last mission' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy X-2: last mission' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy X-2: last mission' },
             ],
           ],
 
@@ -452,7 +452,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
                   { emText: 'Final Fantasy X/X-2 HD Remaster' },
                   { text: ' (not to be confused with Remaster 2016).' },
                 ]],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
                 platformGroups: [
@@ -471,7 +471,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
                   { emText: 'Final Fantasy X-2 International + Last Mission' },
                   { text: '.' },
                 ]],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+                languages: [{ value: 'JA', native: true }],
                 platformGroups: [
                   [
                     { key: 'playstation2', paren: 'Japan only', jpTag: true, noUrl: true },
@@ -501,15 +501,15 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
             { text: ' ends and focuses on Yuna, Tidus, and 1000 year time travel. This results in sequel characters exploring prequel 1000 year old story, making it hard to place chronologically.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/23978849-final-fantasy-x-2-5-final-fantasy-x-2-5' }, { value: 'EN', tip: 'English (fan translation)', url: 'https://www.goodreads.com/book/show/56382146-final-fantasy-x-2-5-price-of-eternity' }, { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/23978346-final-fantasy-x-2-5-le-prix-de-l-ternit' }, { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/54251056-final-fantasy-x-2-5' }],
-          rating: { scoreLabelText: 'Goodreads', score: '2.65', url: 'https://www.goodreads.com/book/show/56382146-final-fantasy-x-2-5-price-of-eternity', single: true, sourceLabel: 'Goodreads' },
+          languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/23978849-final-fantasy-x-2-5-final-fantasy-x-2-5' }, { value: 'EN', tip: 'English (fan translation)', url: 'https://www.goodreads.com/book/show/56382146-final-fantasy-x-2-5-price-of-eternity' }, { value: 'FR', url: 'https://www.goodreads.com/book/show/23978346-final-fantasy-x-2-5-le-prix-de-l-ternit' }, { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/54251056-final-fantasy-x-2-5' }],
+          rating: { scores: [{ kind: 'goodreads', score: '2.65', url: 'https://www.goodreads.com/book/show/56382146-final-fantasy-x-2-5-price-of-eternity' }] },
 
           platformGroups: [
             [{ key: 'book', name: 'Novel', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~' },
               { key: 'fan-translation', name: 'Fan translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~#External_links' }],
             [
               { key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~#Story' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20X-2.5%20story%20recap' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy X-2.5' },
             ],
           ]
         },        {
@@ -527,13 +527,13 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
   ],
 
   languages: [
-    { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-    { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-    { value: 'FR', tip: 'French' },
-    { value: 'IT', tip: 'Italian' },
-    { value: 'DE', tip: 'German' },
-    { value: 'ES-ES', tip: 'Spanish (Spain)' },
-    { value: 'KO', tip: 'Korean' },
+    { value: 'JA', native: true, voice: true },
+    { value: 'EN-US', voice: true },
+    { value: 'FR' },
+    { value: 'IT' },
+    { value: 'DE' },
+    { value: 'ES-ES' },
+    { value: 'KO' },
     { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
     { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
   ],
@@ -546,7 +546,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
     { text: ' (2013 and 2016 versions).' },
   ]],
 
-  rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: 'Unfavorable', textOnly: true },
+  rating: { score: 'Unfavorable', textOnly: true },
   storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
 
   platformGroups: [
@@ -560,7 +560,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
     ],
     [
       { key: 'fan-audiobook', name: 'Audio (unofficial)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20will%20audio%20drama' },
-      { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20will%20audio%20drama%20story%20recap' },
+      { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy X-2: will audio drama' },
     ],
   ]
 },

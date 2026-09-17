@@ -7,7 +7,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           tags: ['Optional', 'Prequel', '3D', 'Fighting game', 'Action RPG', 'Single-player', 'Demo'],
           mediaType: 'Game',
           lengthParts: [{ value: '40min', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '14½h', tip: 'Completionist' }],
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           parts: [
@@ -22,14 +22,14 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
             { text: '. Despite being considered a demo, it has an original story.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '8.2', url: 'https://www.metacritic.com/game/dissidia-012-prologus-final-fantasy/', single: true, sourceLabel: 'Metacritic User Score' },
+          rating: { scores: [{ kind: 'metacritic-user', score: '8.2', url: 'https://www.metacritic.com/game/dissidia-012-prologus-final-fantasy/' }] },
 
           platformGroups: [
             [{ key: 'playstation-portable', name: 'PlayStation Portable (Digital)', noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Dissidia%20Duodecim%20Prologus%20Final%20Fantasy%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Duodecim%20Prologus%20Final%20Fantasy%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Dissidia%20Duodecim%20Prologus%20Final%20Fantasy%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Dissidia Duodecim Prologus Final Fantasy' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Dissidia Duodecim Prologus Final Fantasy' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Dissidia Duodecim Prologus Final Fantasy' },
             ],
           ]
         },
@@ -41,7 +41,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           tags: ['3D', 'Fighting game', 'Action RPG', 'Single-player', 'Multiplayer'],
           mediaType: 'Game',
           lengthParts: [{ value: '29h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '65½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '150h', tip: 'Completionist' }],
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           parts: [
@@ -63,14 +63,14 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
             ]
           ],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '78', midScore: '7.3', midUrl: 'https://www.metacritic.com/game/dissidia-012-duodecim-final-fantasy/', single: true, sourceLabel: 'Metacritic', url: 'https://www.metacritic.com/game/dissidia-012-duodecim-final-fantasy/' },
+          rating: { scores: [{ kind: 'metacritic', score: '78', url: 'https://www.metacritic.com/game/dissidia-012-duodecim-final-fantasy/' }, { kind: 'metacritic-user', score: '7.3', url: 'https://www.metacritic.com/game/dissidia-012-duodecim-final-fantasy/' }] },
 
           platformGroups: [
             [{ key: 'playstation-portable', noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Dissidia%20012%20Final%20Fantasy%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20012%20Final%20Fantasy%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Dissidia%20012%20Final%20Fantasy%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Dissidia 012 Final Fantasy' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Dissidia 012 Final Fantasy' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Dissidia 012 Final Fantasy' },
             ],
           ],
 
@@ -85,9 +85,9 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
                   { emText: 'Dissidia Final Fantasy: Universal Tuning' },
                   { text: ' in Japan, which offers a choice of English or Japanese voice audio in battles (cutscenes are English only).' },
                 ]],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
-                rating: { score: '79', midScore: '7.1', midUrl: 'https://www.metacritic.com/game/dissidia-final-fantasy/', single: true, sourceLabel: 'Metacritic', url: 'https://www.metacritic.com/game/dissidia-final-fantasy/' },
+                rating: { scores: [{ kind: 'metacritic', score: '79', url: 'https://www.metacritic.com/game/dissidia-final-fantasy/' }, { kind: 'metacritic-user', score: '7.1', url: 'https://www.metacritic.com/game/dissidia-final-fantasy/' }] },
                 platformGroups: [
                   [{ key: 'playstation-portable', noUrl: true }],
                 ],
@@ -105,14 +105,14 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           lengthParts: [{ value: '33½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '110h', tip: 'Vs.' }],
 
           languages: [
-            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN', tip: 'English — full audio', voice: true },
-            { value: 'FR', tip: 'French — text only' },
-            { value: 'DE', tip: 'German — text only' },
-            { value: 'IT', tip: 'Italian — text only' },
-            { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
-            { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
-            { value: 'KO', tip: 'Korean — text only' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN', voice: true },
+            { value: 'FR', textOnly: true },
+            { value: 'DE', textOnly: true },
+            { value: 'IT', textOnly: true },
+            { value: 'ES-ES', textOnly: true },
+            { value: 'ZH-TW', textOnly: true },
+            { value: 'KO', textOnly: true },
           ],
 
           parts: [
@@ -131,7 +131,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
             { text: '.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '67', midScore: '6.1', midUrl: 'https://www.metacritic.com/game/dissidia-final-fantasy-nt/', source: 'Mixed', url: 'https://www.metacritic.com/game/dissidia-final-fantasy-nt/', sourceUrl: 'https://store.steampowered.com/app/921590/DISSIDIA_FINAL_FANTASY_NT_Free_Edition/', sourceLabel: 'Steam; Mixed' },
+          rating: { scores: [{ kind: 'metacritic', score: '67', url: 'https://www.metacritic.com/game/dissidia-final-fantasy-nt/' }, { kind: 'metacritic-user', score: '6.1', url: 'https://www.metacritic.com/game/dissidia-final-fantasy-nt/' }, { kind: 'steam', score: 'Mixed', url: 'https://store.steampowered.com/app/921590/DISSIDIA_FINAL_FANTASY_NT_Free_Edition/' }] },
           storeUrl: 'https://www.square-enix-games.com/games/dissidia-final-fantasy-nt',
 
           platformGroups: [
@@ -143,9 +143,9 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
             ],
             [{ key: 'playstation-plus', name: 'PS Plus (PS4; PS5; PSPortal)', url: 'https://store.playstation.com/product/UP0082-CUSA09512_00-DISSIDIAFFDELUXE' }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20NT%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20NT%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20NT%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Dissidia Final Fantasy NT' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Dissidia Final Fantasy NT' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Dissidia Final Fantasy NT' },
             ],
           ]
         },
@@ -157,7 +157,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           tags: ['Optional', 'Spin-off', 'Mobile', 'Free-to-play', 'Turn-based RPG', 'Single-player', 'Terminated'],
           mediaType: 'Game',
           lengthParts: [{ value: '14h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '150h', tip: 'Main + Extra' }],
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           parts: [
@@ -170,17 +170,17 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
             { text: ' since they share the same gods and the same crystals.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '74', midScore: '6.4', midUrl: 'https://www.metacritic.com/game/dissidia-final-fantasy-opera-omnia/', single: true, sourceLabel: 'Metacritic', url: 'https://www.metacritic.com/game/dissidia-final-fantasy-opera-omnia/' },
+          rating: { scores: [{ kind: 'metacritic', score: '74', url: 'https://www.metacritic.com/game/dissidia-final-fantasy-opera-omnia/' }, { kind: 'metacritic-user', score: '6.4', url: 'https://www.metacritic.com/game/dissidia-final-fantasy-opera-omnia/' }] },
 
           platformGroups: [
             [
-              { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android; terminated', terminated: true, noUrl: true },
+              { key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20Opera%20Omnia%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20Opera%20Omnia%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Dissidia%20Final%20Fantasy%20Opera%20Omnia%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Dissidia Final Fantasy Opera Omnia' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Dissidia Final Fantasy Opera Omnia' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Dissidia Final Fantasy Opera Omnia' },
             ],
           ]
         },
@@ -191,7 +191,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           recommendedOrder: 400,
           tags: ['Spin-off', 'Mobile', 'Alternate Universe', 'Fighting game', 'Action RPG', 'Gacha', 'Multi-player', 'Free-to-play', 'In-App Purchases'],
           mediaType: 'Game',
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'KO', tip: 'Korean' }, { value: 'ZH-TW', tip: 'Traditional Chinese' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: 'KO' }, { value: 'ZH-TW' }],
 
           parts: [
             { label: 'Dissidia Duellum Final Fantasy (2026)', url: 'https://en.wikipedia.org/wiki/Dissidia_Duellum_Final_Fantasy' },
@@ -201,16 +201,16 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
             { text: 'The warriors of light find themselves transported to a new and unfamiliar world, which is revealed to be modern-day Tokyo. Despite their preceding titles, it is presumed that this is an entirely stand-alone story, as the warriors of light in Dissidia Duellum do not seem to recognize each other. Swarms of monsters start appearing in the city and draining the civilians of their vitality.' },
           ]],
 
-          rating: { textOnly: true, abbrTerm: 'NYR', abbrDef: 'Not Yet Rated', abbrTermPlain: true },
+          rating: { kind: 'nyr' },
           storeUrl: 'https://www.square-enix.com/ddff/en/',
 
           platformGroups: [
             [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD' }],
             [{ key: 'apple', url: 'https://apps.apple.com/app/dissidia-duellum-final-fantasy/id6480398822' }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Duellum%20Final%20Fantasy%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Duellum%20Final%20Fantasy%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dissidia%20Duellum%20Final%20Fantasy%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Dissidia Duellum Final Fantasy' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Dissidia Duellum Final Fantasy' },
+              { key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Dissidia Duellum Final Fantasy' },
             ],
           ]
         },

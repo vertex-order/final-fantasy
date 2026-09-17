@@ -8,16 +8,16 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           'Ai and Yu Hayakawa, 12-year-old twins travel into Wonderland, a mysterious parallel dimension, in search of their missing parents. 25 episodes were released (of a planned 52), leaving the story unfinished.'
         ],
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true, voice: true },
+          { value: 'JA', native: true, voice: true },
           { value: 'EN', tip: 'English (dub)', voice: true },
           { value: 'FR', tip: 'French (dub)', voice: true },
           { value: 'DE', tip: 'German (dub)', voice: true },
           { value: 'ES-ES', tip: 'Spanish (subtitles)' },
         ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '5.9', url: 'https://www.imdb.com/title/tt0304012/', single: true, sourceLabel: 'IMDb' },
+        rating: { scores: [{ kind: 'imdb', score: '5.9', url: 'https://www.imdb.com/title/tt0304012/' }] },
         platformGroups: [
           [{ key: 'dvd', noUrl: true }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20anime%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Unlimited anime' }],
         ],
         },
         {
@@ -38,15 +38,15 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
             { text: ' anime for mobile phones as a turn-based RPG.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           platformGroups: [
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20with%20U%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20with%20U%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20with%20U%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Unlimited with U' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Unlimited with U' },
+              { key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Unlimited with U' },
             ],
-            [{ key: 'mobile-phone', name: 'Mobile Phones (JP); terminated', jpTag: true, noUrl: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+            [{ key: 'mobile-phone', name: 'Mobile Phones (JP); terminated', jpTag: true, noUrl: true, terminated: true }],
           ]
         },
         {
@@ -67,13 +67,13 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
             { text: ' anime as a card battle game.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           platformGroups: [
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20on%20PC%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20on%20PC%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20on%20PC%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Unlimited on PC' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Unlimited on PC' },
+              { key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Unlimited on PC' },
             ],
             [{ key: 'windows', paren: 'JP', jpTag: true, noUrl: true }],
           ]
@@ -97,14 +97,14 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           ]],
 
           helpWanted: true,
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           platformGroups: [
-            [{ key: 'mobile-phone', name: 'Mobile Phones (JP); terminated', jpTag: true, noUrl: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+            [{ key: 'mobile-phone', name: 'Mobile Phones (JP); terminated', jpTag: true, noUrl: true, terminated: true }],
             [{ key: 'compact-disc', name: 'CD (JP)', jpTag: true, noUrl: true },
               { key: 'fan-audiobook', name: 'Audio (unofficial; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20Voice%20Theater%20audio%20drama' },
               { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20Voice%20Theater%20translation' }],
-            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20Voice%20Theater%20story%20recap' }],
+            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Unlimited Voice Theater' }],
           ]
         },
         {
@@ -131,12 +131,12 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           ]],
 
           helpWanted: true,
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           platformGroups: [
             [{ key: 'book', name: 'Novel (JP)', jpTag: true, noUrl: true },
               { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20Twin%20Bonds%20translation' }],
-            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20S%C5%8D%20no%20Kizuna%20story%20recap' }],
+            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Unlimited Sō no Kizuna' }],
           ]
         },
         {
@@ -159,13 +159,13 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
             { text: ' anime, exploring the C2 Organization Lisa works for, and their goals and purposes. Originally published online, later collected into a single anthology comprised of a comic and a script.' }
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77412483' }],
-          rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77412483', single: true, sourceLabel: 'Goodreads' },
+          languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77412483' }],
+          rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77412483' }] },
 
           platformGroups: [
             [{ key: 'book', name: 'Manga (JP)', jpTag: true, noUrl: true },
               { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20After%20translation' }],
-            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20After%20story%20recap' }],
+            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Unlimited After' }],
           ]
         },
         {
@@ -190,7 +190,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
             { text: ' about Makenshi and Madoushi. It was posted freely on the FF:U site.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
 
           platformGroups: [
             [{ key: 'book', name: 'Web novel (JP)', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' }],
@@ -220,13 +220,13 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
             { text: '. Deals with Comodeen\'s final attack on Gaudium and brings a conclusion to the conflict between Lisa and Soljashy.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           platformGroups: [
             [{ key: 'compact-disc', name: 'CD (JP)', jpTag: true, noUrl: true }],
             [{ key: 'fan-audiobook', name: 'Audio drama (JP) (unofficial)', jpTag: true, url: 'https://www.nicovideo.jp/watch/sm1823501' },
               { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20After%202%20translation' }],
-            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20After%202%20story%20recap' }],
+            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Unlimited After 2' }],
           ]
         },
         {
@@ -247,13 +247,13 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
             { text: "Covers the fate of Windaria and Misteria, and Kaze and Makenshi's first battle with Chaos." },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           platformGroups: [
             [{ key: 'compact-disc', name: 'CD (JP)', jpTag: true, noUrl: true }],
             [{ key: 'fan-audiobook', name: 'Audio (unofficial) (JP)', jpTag: true, url: 'https://www.nicovideo.jp/watch/sm2427549' },
               { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20Before%20translation' }],
-            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Unlimited%20Before%20story%20recap' }],
+            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Unlimited Before' }],
           ]
         },
       ]};

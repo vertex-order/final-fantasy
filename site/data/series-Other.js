@@ -12,7 +12,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { label: 'Final Fantasy Adventure (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Adventure' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           description: [[
             { text: 'The story follows the hero and the heroine as they attempt to thwart the Dark Lord of Glaive and his sorcerer assistant, Julius, from destroying the Tree of Mana and dooming their world. Similar in gameplay to the original ' },
@@ -30,15 +30,15 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { text: '. It has multiple remakes, but they remove the Final Fantasy elements from the game.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           platformGroups: [
             [{ key: 'nintendo-game-boy', name: 'Game Boy', noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Adventure%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Adventure%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Adventure%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Adventure' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy Adventure' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Adventure' },
             ],
           ]
         },
@@ -55,7 +55,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { label: 'Final Fantasy: The 4 Heroes of Light (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy:_The_4_Heroes_of_Light' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           description: [[
@@ -64,14 +64,14 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { text: ' game and franchise.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '71', midScore: '6.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-the-4-heroes-of-light/', url: 'https://www.metacritic.com/game/final-fantasy-the-4-heroes-of-light/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '71', url: 'https://www.metacritic.com/game/final-fantasy-the-4-heroes-of-light/' }, { kind: 'metacritic-user', score: '6.8', url: 'https://www.metacritic.com/game/final-fantasy-the-4-heroes-of-light/' }] },
 
           platformGroups: [
             [{ key: 'nintendo-ds', noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20The%204%20Heroes%20of%20Light%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20The%204%20Heroes%20of%20Light%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20The%204%20Heroes%20of%20Light%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: The 4 Heroes of Light' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: The 4 Heroes of Light' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy: The 4 Heroes of Light' },
             ],
           ]
         },
@@ -88,23 +88,23 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { label: 'Mobius Final Fantasy (2015)', url: 'https://en.wikipedia.org/wiki/Mobius_Final_Fantasy' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           description: [[
             { text: 'The players could control Warrior of Light (Wol), a man who wakes with amnesia in the world of Palamecia, and must help conquer the dark forces attacking its people. The game is terminated.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '73', midScore: '6.6', midUrl: 'https://www.metacritic.com/game/mobius-final-fantasy/', url: 'https://www.metacritic.com/game/mobius-final-fantasy/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '73', url: 'https://www.metacritic.com/game/mobius-final-fantasy/' }, { kind: 'metacritic-user', score: '6.6', url: 'https://www.metacritic.com/game/mobius-final-fantasy/' }] },
 
           platformGroups: [
-            [{ key: 'steam', name: 'Steam; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'steam', name: 'Steam; terminated', terminated: true, noUrl: true }],
+            [{ key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true }],
+            [{ key: 'android2', name: 'Android; terminated', terminated: true, noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Mobius%20Final%20Fantasy%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Mobius%20Final%20Fantasy%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Mobius%20Final%20Fantasy%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Mobius Final Fantasy' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Mobius Final Fantasy' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Mobius Final Fantasy' },
             ],
           ]
         },
@@ -120,7 +120,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { label: 'Final Fantasy Record Keeper (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Record_Keeper' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (content up to 2022-09)' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN', tip: 'English (content up to 2022-09)' }, { value: '…?' }],
           helpWanted: true,
 
           description: [[
@@ -129,17 +129,17 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { text: 'Incorporates original elements with existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. Only the Japan region is still playable, other regions are terminated.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '75', midScore: '7.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-record-keeper/', url: 'https://www.metacritic.com/game/final-fantasy-record-keeper/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '75', url: 'https://www.metacritic.com/game/final-fantasy-record-keeper/' }, { kind: 'metacritic-user', score: '7.0', url: 'https://www.metacritic.com/game/final-fantasy-record-keeper/' }] },
 
           platformGroups: [
             [{ key: 'android2', paren: 'JP', jpTag: true, noUrl: true }],
-            [{ key: 'android2', name: 'Android (Non-Japan); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'android2', name: 'Android (Non-Japan); terminated', terminated: true, noUrl: true }],
             [{ key: 'apple', paren: 'JP', jpTag: true, noUrl: true }],
-            [{ key: 'apple', name: 'iOS (Non-Japan); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'apple', name: 'iOS (Non-Japan); terminated', terminated: true, noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Record%20Keeper%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Record%20Keeper%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Record%20Keeper%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Record Keeper' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Record Keeper' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Record Keeper' },
             ],
           ]
         },
@@ -152,17 +152,17 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           'A manga following Square Enix employee Shogo Sasaki, a lifelong Final Fantasy fan, who is killed in a truck accident along with his sister Yuko and reborn into a Final Fantasy-style world unbound to any particular installment. Ongoing.'
         ],
         languages: [
-          { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/40223499-final-fantasy-lost-stranger-vol-1' },
-          { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/40846282-final-fantasy-lost-stranger-1' },
-          { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/49230713-final-fantasy---lost-stranger-1' },
-          { value: 'IT', tip: 'Italian', url: 'https://www.goodreads.com/book/show/48829012-final-fantasy-lost-stranger-vol-1' },
+          { value: 'EN', url: 'https://www.goodreads.com/book/show/40223499-final-fantasy-lost-stranger-vol-1' },
+          { value: 'FR', url: 'https://www.goodreads.com/book/show/40846282-final-fantasy-lost-stranger-1' },
+          { value: 'DE', url: 'https://www.goodreads.com/book/show/49230713-final-fantasy---lost-stranger-1' },
+          { value: 'IT', url: 'https://www.goodreads.com/book/show/48829012-final-fantasy-lost-stranger-vol-1' },
           { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/52548022-final-fantasy-lost-stranger-vol-1' },
-          { value: 'ID', tip: 'Indonesian', url: 'https://www.goodreads.com/book/show/59231631-final-fantasy' },
-          { value: 'PT', tip: 'Portuguese', url: 'https://www.goodreads.com/book/show/61130716-final-fantasy-lost-stranger-vol-1' },
-          { value: 'TH', tip: 'Thai', url: 'https://www.goodreads.com/book/show/60440805-1' },
-          { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/51966385-final-fantasy-lost-stranger-1' },
+          { value: 'ID', url: 'https://www.goodreads.com/book/show/59231631-final-fantasy' },
+          { value: 'PT', url: 'https://www.goodreads.com/book/show/61130716-final-fantasy-lost-stranger-vol-1' },
+          { value: 'TH', url: 'https://www.goodreads.com/book/show/60440805-1' },
+          { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/51966385-final-fantasy-lost-stranger-1' },
         ],
-        rating: { scoreLabelText: 'Goodreads', score: '4.10', url: 'https://www.goodreads.com/book/show/40223499-final-fantasy-lost-stranger-vol-1', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: '4.10', url: 'https://www.goodreads.com/book/show/40223499-final-fantasy-lost-stranger-vol-1' }] },
         platformGroups: [
           [{ key: 'book', name: 'Manga', url: 'https://yenpress.com/series/final-fantasy-lost-stranger' }],
           [{ key: 'fan-recap', name: 'Fan story recap (chapter-by-chapter wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Category:Final_Fantasy_Lost_Stranger_chapters' }],
@@ -200,7 +200,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             [{ key: 'android2', noUrl: true }],
             [{ key: 'apple', noUrl: true }],
             [{ key: 'facebook', paren: 'Messenger', noUrl: true }],
-            [{ key: 'mobile-phone', name: 'Mobile Phones; terminated', noUrl: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+            [{ key: 'mobile-phone', name: 'Mobile Phones; terminated', noUrl: true, terminated: true }],
           ]
         },
         { title: 'Kingdom Hearts (series)', releaseDate: '2002-03-28', chronoOrder: 250, recommendedOrder: 305, tags: ['Optional', 'Crossover series'], mediaType: 'Game',
@@ -229,11 +229,11 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { text: "The game centered on battles between the player's army and enemy monsters or computer-controlled players. The characters in the army were generated using the sounds of the player's own voice, and then engaged in side-scrolling combat with the enemy. Combat was completely automated with the player only controlling character creation. The game is terminated." },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '46', url: 'https://www.metacritic.com/game/voice-fantasy/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '46', url: 'https://www.metacritic.com/game/voice-fantasy/' }] },
 
           platformGroups: [
-            [{ key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Voice%20Fantasy%20playthrough' }],
+            [{ key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, noUrl: true }],
+            [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'Voice Fantasy' }],
           ]
         },
         { title: 'Final Fantasy Airborne Brigade', releaseDate: '2012-01-06', chronoOrder: 500, recommendedOrder: 355, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Social RPG', 'Jobs', 'Multiplayer', 'Co-op', 'Mobile', 'Terminated'], mediaType: 'Game',
@@ -244,16 +244,16 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           'Long ago, the country was protected by two crystals. However, one was broken and scattered throughout the world following a monster invasion. The other lost its glow. Only the ancient summon beasts can return the crystals to their original shine, and the player must travel the world by air ship and defeat the summon beasts.',
           'Incorporates original elements with existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+        languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
         helpWanted: true,
-        rating: { textOnly: true, abbrTerm: 'NYR', abbrDef: 'Not Yet Rated', url: 'https://www.metacritic.com/game/final-fantasy-airborne-brigade/', abbrTermLinked: true },
+        rating: { kind: 'nyr', url: 'https://www.metacritic.com/game/final-fantasy-airborne-brigade/' },
         platformGroups: [
-          [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-          [{ key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+          [{ key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true }],
+          [{ key: 'android2', name: 'Android; terminated', terminated: true, noUrl: true }],
           [
-            { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Airborne%20Brigade%20movie' },
-            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Airborne%20Brigade%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Airborne%20Brigade%20playthrough' },
+            { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Airborne Brigade movie', ytSuffix: '' },
+            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Airborne Brigade' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Airborne Brigade' },
           ],
         ],
         },
@@ -265,13 +265,13 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           'Players\' characters could traverse an overhead map between battles. After a series of battles, players could confront a boss enemy. There was no story elements. Self-described as an "app" not a game.',
           'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+        languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
         helpWanted: true,
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '25', midScore: '2.1', midUrl: 'https://www.metacritic.com/game/final-fantasy-all-the-bravest/', url: 'https://www.metacritic.com/game/final-fantasy-all-the-bravest/', single: true, sourceLabel: 'Metacritic' },
+        rating: { scores: [{ kind: 'metacritic', score: '25', url: 'https://www.metacritic.com/game/final-fantasy-all-the-bravest/' }, { kind: 'metacritic-user', score: '2.1', url: 'https://www.metacritic.com/game/final-fantasy-all-the-bravest/' }] },
         platformGroups: [
-          [{ key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-          [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-          [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20All%20the%20Bravest%20playthrough' }],
+          [{ key: 'android2', name: 'Android; terminated', terminated: true, noUrl: true }],
+          [{ key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true }],
+          [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy All the Bravest' }],
         ],
         },
         {
@@ -287,19 +287,19 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { label: 'Pictlogica Final Fantasy (2013)', url: 'https://breezewiki.com/finalfantasy/wiki/Pictlogica_Final_Fantasy' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           description: [[
             { text: 'Mixes RPG elements with dot logic puzzles. The player controls a party of four, plus one optional friend, as they battle their way through waves of enemies while solving puzzles. The 3DS version had a few extra features. The game is terminated.' },
           ]],
 
-          rating: { textOnly: true, abbrTerm: 'NYR', abbrDef: 'Not Yet Rated', url: 'https://www.metacritic.com/game/pictlogica-final-fantasy/', abbrTermLinked: true },
+          rating: { kind: 'nyr', url: 'https://www.metacritic.com/game/pictlogica-final-fantasy/' },
 
           platformGroups: [
-            [{ key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'nintendo-3ds', name: '3DS (JP) (Digital); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Pictlogica%20Final%20Fantasy%20playthrough' }],
+            [{ key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, noUrl: true }],
+            [{ key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, noUrl: true }],
+            [{ key: 'nintendo-3ds', name: '3DS (JP) (Digital); terminated', jpTag: true, terminated: true, noUrl: true }],
+            [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'Pictlogica Final Fantasy' }],
           ]
         },
         {
@@ -314,7 +314,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { label: 'Final Fantasy: World Wide Words (2014)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_World_Wide_Words' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           description: [[
             { text: 'Players fight several rounds of enemies. Attacks are initiated by typing the words that pop out next to each of the enemies. Words that appear include Final Fantasy-themed ones.' },
@@ -323,9 +323,9 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]],
 
           platformGroups: [
-            [{ key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20World%20Wide%20Words%20playthrough' }],
+            [{ key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, noUrl: true }],
+            [{ key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, noUrl: true }],
+            [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy World Wide Words' }],
           ]
         },
         {
@@ -340,7 +340,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { label: 'Heavenstrike Rivals (2014)', url: 'https://breezewiki.com/finalfantasy/wiki/Heavenstrike_Rivals' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           description: [[
@@ -349,16 +349,16 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { text: 'Incorporates original elements with existing series and titles, including other franchises altogether. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '78', midScore: '7.1', midUrl: 'https://www.metacritic.com/game/heavenstrike-rivals/', url: 'https://www.metacritic.com/game/heavenstrike-rivals/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '78', url: 'https://www.metacritic.com/game/heavenstrike-rivals/' }, { kind: 'metacritic-user', score: '7.1', url: 'https://www.metacritic.com/game/heavenstrike-rivals/' }] },
 
           platformGroups: [
-            [{ key: 'steam', name: 'Steam; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'steam', name: 'Steam; terminated', terminated: true, noUrl: true }],
+            [{ key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true }],
+            [{ key: 'android2', name: 'Android; terminated', terminated: true, noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Heavenstrike%20Rivals%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Heavenstrike%20Rivals%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Heavenstrike%20Rivals%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Heavenstrike Rivals' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Heavenstrike Rivals' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Heavenstrike Rivals' },
             ],
           ]
         },
@@ -374,7 +374,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { label: 'Final Fantasy Portal App: Triple Triad (2015)', url: 'https://breezewiki.com/finalfantasy/wiki/Triple_Triad_(Portal_App)' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           description: [[
@@ -389,12 +389,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { text: 'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.' },
           ]],
 
-          rating: { textOnly: true, abbrTerm: 'NYR', abbrDef: 'Not Yet Rated', url: 'https://www.metacritic.com/game/final-fantasy-portal-app/', abbrTermLinked: true },
+          rating: { kind: 'nyr', url: 'https://www.metacritic.com/game/final-fantasy-portal-app/' },
 
           platformGroups: [
-            [{ key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay' }],
-            [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Portal%20App%20Triple%20Triad%20playthrough' }],
+            [{ key: 'android2', name: 'Android; terminated', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay' }],
+            [{ key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true }],
+            [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Portal App Triple Triad' }],
           ]
         },
         {
@@ -409,7 +409,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { label: 'Final Fantasy Digital Card Game (2019)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Digital_Card_Game' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           description: [[
             { text: 'Players deployed various characters and creatures from the Final Fantasy series in a board to compete with one another.' },
@@ -418,10 +418,10 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]],
 
           platformGroups: [
-            [{ key: 'globe', name: 'Browser (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Digital%20Card%20Game%20playthrough' }],
+            [{ key: 'globe', name: 'Browser (JP); terminated', jpTag: true, terminated: true, noUrl: true }],
+            [{ key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, noUrl: true }],
+            [{ key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, noUrl: true }],
+            [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Digital Card Game' }],
           ]
         },
         {
@@ -437,7 +437,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { label: 'The Final Fantasy Legend I–III (1989–1991)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games#SaGa' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN-US', tip: 'English (American)' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN-US', tip: 'English (American)' }],
 
           description: [[
             { text: 'Originally created for the ' },

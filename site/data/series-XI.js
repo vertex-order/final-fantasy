@@ -41,22 +41,22 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
             'The Voracious Resurgence (2020)',
           ],
 
-          languages: [{ value: 'EN', tip: 'English' }, { value: 'JA', tip: 'Japanese', native: true }],
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '7.6', midUrl: 'https://www.metacritic.com/game/final-fantasy-xi/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-xi/', sourceUrl: 'https://store.steampowered.com/app/230330/FINAL_FANTASY_XI_Ultimate_Collection_Seekers_Edition/', sourceLabel: 'Steam; Very Positive' },
+          languages: [{ value: 'EN' }, { value: 'JA', native: true }],
+          rating: { scores: [{ kind: 'metacritic', score: '85', url: 'https://www.metacritic.com/game/final-fantasy-xi/' }, { kind: 'metacritic-user', score: '7.6', url: 'https://www.metacritic.com/game/final-fantasy-xi/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/230330/FINAL_FANTASY_XI_Ultimate_Collection_Seekers_Edition/' }] },
           storeUrl: 'https://www.finalfantasyxi.com/',
 
           platformGroups: [
             [{ key: 'windows', url: 'https://www.playonline.com/ff11us/' }],
             [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/230330/FINAL_FANTASY_XI_Ultimate_Collection_Seekers_Edition/' }],
             [
-              { key: 'playstation2', name: 'PS2; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { key: 'playstation3', name: 'PlayStation 3 (PS2 compatibility); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'playstation2', name: 'PS2; terminated', terminated: true, noUrl: true },
+              { key: 'playstation3', name: 'PlayStation 3 (PS2 compatibility); terminated', terminated: true, noUrl: true },
             ],
-            [{ key: 'xbox-360', name: 'Xbox 360; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'xbox-360', name: 'Xbox 360; terminated', terminated: true, noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20base%20game%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy XI base game' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy XI base game' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy XI base game' },
             ],
           ]
         },
@@ -88,9 +88,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
 
           platformGroups: [
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20rise%20of%20the%20zilart%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy xi rise of the zilart' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy xi rise of the zilart' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy xi rise of the zilart' },
             ],
           ]
         },
@@ -120,13 +120,13 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
             { text: '.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '77', midScore: '7.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-xi-chains-of-promathia/', url: 'https://www.metacritic.com/game/final-fantasy-xi-chains-of-promathia/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '77', url: 'https://www.metacritic.com/game/final-fantasy-xi-chains-of-promathia/' }, { kind: 'metacritic-user', score: '7.9', url: 'https://www.metacritic.com/game/final-fantasy-xi-chains-of-promathia/' }] },
 
           platformGroups: [
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Chains%20of%20Promathia%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy xi Chains of Promathia' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy xi Chains of Promathia' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy xi Chains of Promathia' },
             ],
           ]
         },
@@ -156,13 +156,13 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
             { text: '.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '87', midScore: '6.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-xi-treasures-of-aht-urhgan/', url: 'https://www.metacritic.com/game/final-fantasy-xi-treasures-of-aht-urhgan/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '87', url: 'https://www.metacritic.com/game/final-fantasy-xi-treasures-of-aht-urhgan/' }, { kind: 'metacritic-user', score: '6.8', url: 'https://www.metacritic.com/game/final-fantasy-xi-treasures-of-aht-urhgan/' }] },
 
           platformGroups: [
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%20Treasures%20of%20Aht%20Urhgan%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy xi Treasures of Aht Urhgan' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy xi Treasures of Aht Urhgan' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy xi Treasures of Aht Urhgan' },
             ],
           ]
         },
@@ -192,13 +192,13 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
             { text: '.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '63', midScore: '7.2', midUrl: 'https://www.metacritic.com/game/final-fantasy-xi-wings-of-the-goddess/', url: 'https://www.metacritic.com/game/final-fantasy-xi-wings-of-the-goddess/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '63', url: 'https://www.metacritic.com/game/final-fantasy-xi-wings-of-the-goddess/' }, { kind: 'metacritic-user', score: '7.2', url: 'https://www.metacritic.com/game/final-fantasy-xi-wings-of-the-goddess/' }] },
 
           platformGroups: [
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20wings%20of%20the%20goddess%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy xi: wings of the goddess' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy xi: wings of the goddess' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy xi: wings of the goddess' },
             ],
           ]
         },
@@ -230,9 +230,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
 
           platformGroups: [
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20xi%3A%20Seekers%20of%20Adoulin%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy xi: Seekers of Adoulin' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy xi: Seekers of Adoulin' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy xi: Seekers of Adoulin' },
             ],
           ]
         },
@@ -245,12 +245,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'Al, an inexperienced warrior, is led into the shadows of evil lurking in the land after a fateful encounter with a Galka knight and a young white mage. Released as 〜祈りの風〜.'
         ],
         helpWanted: true,
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/57214633' }, { value: 'DE', tip: 'German' }, { value: 'EN', tip: 'English (fan translation)' }, { value: '…?', tip: 'Unknown additional languages' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/57214633', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/57214633' }, { value: 'DE' }, { value: 'EN', tip: 'English (fan translation)' }, { value: '…?' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/57214633' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Winds%20of%20Prayer~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Winds%20of%20Prayer%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Winds of Prayer' }],
         ] },
         { title: 'Final Fantasy XI ~The Out of Orders~', releaseDate: '2003-04-19', chronoOrder: -10, recommendedOrder: 602, tags: ['Optional', 'Prequel', 'Alternate Universe', 'Manhwa', 'Incomplete'], mediaType: 'Comic', length: '3 issues',
         parts: [
@@ -264,11 +264,11 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { emText: 'Wings of the Goddess (2007)' },
           { text: ' expansion. Some differences with characters from the game make it so it could be considered an alternate universe story. Cancelled so is incomplete.' },
         ]],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+        languages: [{ value: 'JA', native: true }],
         platformGroups: [
           [{ key: 'book', name: 'Manhwa (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Out%20of%20Orders~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Out%20of%20Orders%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Out of Orders' }],
         ] },
         { title: 'Final Fantasy XI ~The Star Oath~', releaseDate: '2003-05', chronoOrder: 1100, recommendedOrder: 605, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         parts: [
@@ -279,15 +279,15 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'Rookie warrior Alfred (Al) and his companions, after defeating the tank at the Orc Fortress of Gelsba, head to Windurst with its blueprints. Sensing an evil dark shadow lurking in Vana\'diel, Al and his group continue their journey. Released as 〜星の誓い〜. May also be known as ~Oath of the Stars~. Book #2 in the French/German translated release order.'
         ],
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/57520205' },
-          { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/43464316-final-fantasy-xi-tome-2' },
-          { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/4466886-final-fantasy-xi' },
+          { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/57520205' },
+          { value: 'FR', url: 'https://www.goodreads.com/book/show/43464316-final-fantasy-xi-tome-2' },
+          { value: 'DE', url: 'https://www.goodreads.com/book/show/4466886-final-fantasy-xi' },
         ],
-        rating: { scoreLabelText: 'Goodreads', score: '3.17', url: 'https://www.goodreads.com/book/show/43464316-final-fantasy-xi-tome-2', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: '3.17', url: 'https://www.goodreads.com/book/show/43464316-final-fantasy-xi-tome-2' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Star%20Oath~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Star%20Oath%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Star Oath' }],
         ] },
         { title: 'Final Fantasy XI ~Prayer of the Wind~ Vol.1', releaseDate: '2010', chronoOrder: 110, recommendedOrder: 606, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic', length: '144p',
         parts: [
@@ -300,12 +300,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { text: '.' },
         ]],
         helpWanted: true,
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/78009261' }, { value: '…?', tip: 'Unknown additional languages' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/78009261', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/78009261' }, { value: '…?' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/78009261' }] },
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Prayer%20of%20the%20Wind~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Prayer%20of%20the%20Wind%20comic' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Prayer of the Wind comic', ytSuffix: '' }],
         ] },
         { title: "Final Fantasy XI ~Staying in Vana'diel~", releaseDate: '2003-05', chronoOrder: 1150, recommendedOrder: 603, tags: ['Optional', 'Spin-off', 'Play diary'], mediaType: 'Book', length: '477p;B6',
         parts: [
@@ -317,12 +317,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { emText: 'XI' },
           { text: '. Released as プレイ日記 : ヴァナ・ディール滞在記. May also be known as Final Fantasy XI ~Play Diary: Staying in Vana\'diel~.' },
         ]],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77429047' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77429047', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77429047' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77429047' }] },
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20Play%20Diary%20Staying%20in%20Vana%27diel%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Play%20Diary%20Staying%20in%20Vana%27diel' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Play Diary Staying in Vana\'diel', ytSuffix: '' }],
         ] },
         { title: 'Final Fantasy XI ~The Eternal Bond~', releaseDate: '2003-07', chronoOrder: 1200, recommendedOrder: 607, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         parts: [
@@ -333,15 +333,15 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'With the party scattered on their own errands—Al and Iris waiting in Bastok, Peta in Windurst, Jed and Shera off to break a curse in Jeuno—Al and the others are suddenly called back to Jeuno for a new mission. Released as 〜永遠の絆〜. May also be known as ~The Eternal Link~ or ~The Covenant of Eternity~. Book #3 in the French/German translated release order.'
         ],
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/43464376-final-fantasy-xi-tome-3' },
-          { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/4466887-final-fantasy-xi' },
+          { value: 'JA', native: true },
+          { value: 'FR', url: 'https://www.goodreads.com/book/show/43464376-final-fantasy-xi-tome-3' },
+          { value: 'DE', url: 'https://www.goodreads.com/book/show/4466887-final-fantasy-xi' },
         ],
-        rating: { scoreLabelText: 'Goodreads', score: '3.83', url: 'https://www.goodreads.com/book/show/43464376-final-fantasy-xi-tome-3', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: '3.83', url: 'https://www.goodreads.com/book/show/43464376-final-fantasy-xi-tome-3' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Eternal%20Bond~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Eternal%20Bond%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Eternal Bond' }],
         ] },
         { title: 'Final Fantasy XI ~The Sword of Protection~ Vol.1', releaseDate: '2003-10', chronoOrder: 1300, recommendedOrder: 608, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -353,15 +353,15 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         ],
         helpWanted: true,
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/43464339-final-fantasy-xi-tome-4' },
-          { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/4466883-final-fantasy-xi' },
+          { value: 'JA', native: true },
+          { value: 'FR', url: 'https://www.goodreads.com/book/show/43464339-final-fantasy-xi-tome-4' },
+          { value: 'DE', url: 'https://www.goodreads.com/book/show/4466883-final-fantasy-xi' },
         ],
-        rating: { scoreLabelText: 'Goodreads', score: '3.58', url: 'https://www.goodreads.com/book/show/43464339-final-fantasy-xi-tome-4', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: '3.58', url: 'https://www.goodreads.com/book/show/43464339-final-fantasy-xi-tome-4' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Sword%20of%20Protection~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Sword%20of%20Protection%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Sword of Protection' }],
         ] },
         { title: 'Final Fantasy XI ~The Sword of Protection~ Vol.2', releaseDate: '2003-12', chronoOrder: 1400, recommendedOrder: 609, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '254p;A6',
         parts: [
@@ -373,15 +373,15 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         ],
         helpWanted: true,
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/43464361-final-fantasy-xi-tome-5' },
-          { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/4466884-final-fantasy-xi' },
+          { value: 'JA', native: true },
+          { value: 'FR', url: 'https://www.goodreads.com/book/show/43464361-final-fantasy-xi-tome-5' },
+          { value: 'DE', url: 'https://www.goodreads.com/book/show/4466884-final-fantasy-xi' },
         ],
-        rating: { scoreLabelText: 'Goodreads', score: '3.30', url: 'https://www.goodreads.com/book/show/43464361-final-fantasy-xi-tome-5', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: '3.30', url: 'https://www.goodreads.com/book/show/43464361-final-fantasy-xi-tome-5' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Sword%20of%20Protection~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Sword%20of%20Protection%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Sword of Protection' }],
         ] },
         { title: 'Final Fantasy XI ~The Sword of Protection~ Vol.3', releaseDate: '2004-01', chronoOrder: 1500, recommendedOrder: 610, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -392,15 +392,15 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'The concluding volume of the Sword of Protection trilogy, following Douglas and his companions to the Uggalepih Temple. Released as 〜護りの剣〜③. Book #6 in the French/German translated release order.'
         ],
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/78946739-final-fantasy-xi-on-line-tome-6' },
-          { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/4466885-final-fantasy-xi' },
+          { value: 'JA', native: true },
+          { value: 'FR', url: 'https://www.goodreads.com/book/show/78946739-final-fantasy-xi-on-line-tome-6' },
+          { value: 'DE', url: 'https://www.goodreads.com/book/show/4466885-final-fantasy-xi' },
         ],
-        rating: { scoreLabelText: 'Goodreads', score: '3.56', url: 'https://www.goodreads.com/book/show/78946739-final-fantasy-xi-on-line-tome-6', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: '3.56', url: 'https://www.goodreads.com/book/show/78946739-final-fantasy-xi-on-line-tome-6' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Sword%20of%20Protection~%20Vol.3%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Sword%20of%20Protection%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Sword of Protection' }],
         ] },
         { title: 'Final Fantasy XI ~Faraway Wings~', releaseDate: '2004-03', chronoOrder: 1600, recommendedOrder: 611, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -412,15 +412,15 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         ],
         helpWanted: true,
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/4466882-final-fantasy-xi' },
-          { value: '…?', tip: 'Unknown additional languages' },
+          { value: 'JA', native: true },
+          { value: 'DE', url: 'https://www.goodreads.com/book/show/4466882-final-fantasy-xi' },
+          { value: '…?' },
         ],
-        rating: { scoreLabelText: 'Goodreads', score: '3.60', url: 'https://www.goodreads.com/book/show/4466882-final-fantasy-xi', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: '3.60', url: 'https://www.goodreads.com/book/show/4466882-final-fantasy-xi' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Faraway%20Wings~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Faraway%20Wings%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Faraway Wings' }],
         ] },
         { title: 'Final Fantasy XI ~Pride of the Knight~ Vol.1', releaseDate: '2004-07', chronoOrder: 1700, recommendedOrder: 612, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '249p;A6',
         parts: [
@@ -432,15 +432,15 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         ],
         helpWanted: true,
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/4466881-final-fantasy-xi' },
-          { value: '…?', tip: 'Unknown additional languages' },
+          { value: 'JA', native: true },
+          { value: 'DE', url: 'https://www.goodreads.com/book/show/4466881-final-fantasy-xi' },
+          { value: '…?' },
         ],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/4466881-final-fantasy-xi', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/4466881-final-fantasy-xi' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Pride%20of%20the%20Knight~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Pride%20of%20the%20Knight%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Pride of the Knight' }],
         ] },
         { title: 'Final Fantasy XI ~Pride of the Knight~ Vol.2', releaseDate: '2004-09', chronoOrder: 1950, recommendedOrder: 613, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '250p;A6',
         parts: [
@@ -452,15 +452,15 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         ],
         helpWanted: true,
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/4466889-final-fantasy-xi' },
-          { value: '…?', tip: 'Unknown additional languages' },
+          { value: 'JA', native: true },
+          { value: 'DE', url: 'https://www.goodreads.com/book/show/4466889-final-fantasy-xi' },
+          { value: '…?' },
         ],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/4466889-final-fantasy-xi', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/4466889-final-fantasy-xi' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Pride%20of%20the%20Knight~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Pride%20of%20the%20Knight%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Pride of the Knight' }],
         ] },
         { title: 'Final Fantasy XI ~Pride of the Knight~ Vol.3', releaseDate: '2004-12', chronoOrder: 2100, recommendedOrder: 614, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '250p;A6',
         parts: [
@@ -472,15 +472,15 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         ],
         helpWanted: true,
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/4466890-final-fantasy-xi' },
-          { value: '…?', tip: 'Unknown additional languages' },
+          { value: 'JA', native: true },
+          { value: 'DE', url: 'https://www.goodreads.com/book/show/4466890-final-fantasy-xi' },
+          { value: '…?' },
         ],
-        rating: { scoreLabelText: 'Goodreads', score: '3.80', url: 'https://www.goodreads.com/book/show/4466890-final-fantasy-xi', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: '3.80', url: 'https://www.goodreads.com/book/show/4466890-final-fantasy-xi' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Pride%20of%20the%20Knight~%20Vol.3%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Pride%20of%20the%20Knight%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Pride of the Knight' }],
         ] },
         { title: "Final Fantasy XI ~Adventurer's Holiday~", releaseDate: '2005-04', chronoOrder: 2200, recommendedOrder: 615, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '318p;A6',
         parts: [
@@ -491,12 +491,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'Al and Iris attend a friend\'s wedding. There, Reisha, a spy from San d\'Oria, arrives with a request. Released as 〜冒険者の休日〜.'
         ],
         helpWanted: true,
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77099305' }, { value: '…?', tip: 'Unknown additional languages' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77099305', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77099305' }, { value: '…?' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77099305' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Adventurer%27s%20Holiday~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Adventurer%27s%20Holiday%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Adventurer\'s Holiday' }],
         ] },
         { title: 'Final Fantasy XI ~A Distant Wish~ Vol.1', releaseDate: '2005-07', chronoOrder: 2300, recommendedOrder: 616, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '249p;A6',
         parts: [
@@ -507,12 +507,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'Al\'s message cuts off with the words "it\'s darkness, a vortex of darkness..." and Iris, Shera, and Peta immediately set out to find Al and Jed. Released as 〜遠い願い〜㊤.'
         ],
         helpWanted: true,
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77131146' }, { value: '…?', tip: 'Unknown additional languages' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77131146', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77131146' }, { value: '…?' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77131146' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Distant%20Wish~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Distant%20Wish%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI A Distant Wish' }],
         ] },
         { title: 'Final Fantasy XI ~A Distant Wish~ Vol.2', releaseDate: '2005-09', chronoOrder: 2400, recommendedOrder: 617, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -523,12 +523,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'Al and Jed are swept into a sudden vortex of darkness. Then, recklessly, Bata and Chit leap into the vortex themselves, but it vanishes immediately afterward. Left behind, Iris and Shera learn that the dark vortex seems to connect to Tavnazia, a land thought to have been destroyed long ago, and resolve to pursue the others. Released as 〜遠い願い〜㊦.'
         ],
         helpWanted: true,
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77654857' }, { value: '…?', tip: 'Unknown additional languages' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77654857', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77654857' }, { value: '…?' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77654857' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Distant%20Wish~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Distant%20Wish%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI A Distant Wish' }],
         ] },
         { title: 'Final Fantasy XI ~A New Dream~ Vol.1', releaseDate: '2005-11', chronoOrder: 2500, recommendedOrder: 618, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -539,12 +539,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'Once again spanning two volumes, it features Al and Iris in action, set in Tavnazia. Released as 〜新たな夢〜㊤.'
         ],
         helpWanted: true,
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77686446' }, { value: '…?', tip: 'Unknown additional languages' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77686446', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77686446' }, { value: '…?' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77686446' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20New%20Dream~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20New%20Dream%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI A New Dream' }],
         ] },
         { title: 'Final Fantasy XI ~A New Dream~ Vol.2', releaseDate: '2006-01', chronoOrder: 2600, recommendedOrder: 619, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '223p;A6',
         parts: [
@@ -555,12 +555,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'Al and his companions arrive in Tavnazia after falling into the Vortex of Darkness, pursued by Iris and Shera, while Klaus and Shiri arrive in search of news of their childhood friend, as the machinations of San d\'Oria, Windurst, Bastok, and Jeuno draw the long-sealed city back into the open. Released as 〜新たな夢〜㊦.'
         ],
         helpWanted: true,
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77695106' }, { value: '…?', tip: 'Unknown additional languages' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77695106', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77695106' }, { value: '…?' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77695106' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20New%20Dream~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20New%20Dream%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI A New Dream' }],
         ] },
         { title: 'Final Fantasy XI ~The Blessings of the Journey~', releaseDate: '2006-04', chronoOrder: 2700, recommendedOrder: 626, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         parts: [
@@ -568,12 +568,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Book', url: null, small: true },
         ],
         description: ['The prelude to the Aht Urhgan saga. Released as 〜旅の恵み〜.'],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77163778' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77163778', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77163778' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77163778' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Blessings%20of%20the%20Journey~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Blessings%20of%20the%20Journey%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Blessings of the Journey' }],
         ] },
         { title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.1', releaseDate: '2006-08', chronoOrder: 3100, recommendedOrder: 627, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         parts: [
@@ -583,12 +583,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'Pasha and Nelly, a pair of Mithra thieves in Al Zahbi who dream of marrying into wealth, make their living picking pockets and burgling mansions—until one day they steal something far bigger than they bargained for. The series\' first female leads. Released as 〜アトルガンの娘たち〜①.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77185190' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77185190', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77185190' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77185190' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Daughters%20of%20Aht%20Urhgan~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Daughters%20of%20Aht%20Urhgan%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Daughters of Aht Urhgan' }],
         ] },
         { title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.2', releaseDate: '2006-10', chronoOrder: 3200, recommendedOrder: 628, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '251p;A6',
         parts: [
@@ -598,12 +598,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'The Mithra thief duo, Pasha and Nelly, successfully steal treasure from a merchant\'s mansion in Al Zahbi. But Pasha gets stuck in her transformed state as a Tarutaru and can\'t revert back, and they\'re being chased by the merchant\'s bodyguards. Released as 〜アトルガンの娘たち〜②.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77208504' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77208504', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77208504' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77208504' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Daughters%20of%20Aht%20Urhgan~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Daughters%20of%20Aht%20Urhgan%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Daughters of Aht Urhgan' }],
         ] },
         { title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.3', releaseDate: '2006-12', chronoOrder: 3300, recommendedOrder: 629, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '254p;A6',
         parts: [
@@ -613,12 +613,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'Having stolen the treasure token proving Farmett\'s conspiracy, Pasha and Nelly travel with adventurers they meet in the Inner Country to pursue hostages held captive by the Lamia. Released as 〜アトルガンの娘たち〜③.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77232781' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77232781', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77232781' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77232781' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Daughters%20of%20Aht%20Urhgan~%20Vol.3%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Daughters%20of%20Aht%20Urhgan%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Daughters of Aht Urhgan' }],
         ] },
         { title: 'Final Fantasy XI ~The Testament of the Wise~ Vol.1', releaseDate: '2007-03', chronoOrder: 3400, recommendedOrder: 620, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '250p;A6',
         parts: [
@@ -629,12 +629,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'Continues the series of illustrated short stories, opening on a shocking turn of events involving the character Peta. Released as 〜賢者の遺言〜㊤.'
         ],
         helpWanted: true,
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77250550' }, { value: '…?', tip: 'Unknown additional languages' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77250550', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77250550' }, { value: '…?' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77250550' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Testament%20of%20the%20Wise~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Testament%20of%20the%20Wise%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Testament of the Wise' }],
         ] },
         { title: 'Final Fantasy XI ~The Testament of the Wise~ Vol.2', releaseDate: '2007-04', chronoOrder: 3500, recommendedOrder: 621, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '252p;A6',
         parts: [
@@ -645,12 +645,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'Peta is in danger, and Al and Iris set sail for Nashmo to rescue her. Released as 〜賢者の遺言〜㊦. May also be known as ~The Testament of the Sages~.'
         ],
         helpWanted: true,
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77249549' }, { value: '…?', tip: 'Unknown additional languages' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77249549', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77249549' }, { value: '…?' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77249549' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Testament%20of%20the%20Wise~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Testament%20of%20the%20Wise%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Testament of the Wise' }],
         ] },
         { title: 'Final Fantasy XI ~The Song of the Storm~ Vol.1', releaseDate: '2007', chronoOrder: 3550, recommendedOrder: 622, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '222p; P',
         parts: [
@@ -661,16 +661,16 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'In the world of Vana\'diel, anyone can make a living, and earn glory, as a mage, knight, thief, or warrior. Alfred learns this as he\'s thrust into the greatest adventure of his life. Alongside the impetuous young mage Iris, he sets out on a dangerous journey to join Altana\'s people in their fight against the beastmen. Over the course of this perilous apprenticeship, Alfred must face his destiny, still unaware of the infernal machine he\'ll have to fight. Labeled Book #1 in the French/German translated release order, though its 2007 release date is later than several other Al books translated as later volumes in that order — we haven\'t identified a Japanese source title, so this numbering is unconfirmed.'
         ],
         languages: [
-          { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1' },
-          { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/4466888-final-fantasy-xi' },
+          { value: 'FR', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1' },
+          { value: 'DE', url: 'https://www.goodreads.com/book/show/4466888-final-fantasy-xi' },
         ],
-        rating: { scoreLabelText: 'Goodreads', score: '3.27', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: '3.27', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1' }] },
         helpWanted: true,
         storeUrl: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1',
         platformGroups: [
           [{ key: 'book', name: 'Novel', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1' }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20Song%20of%20the%20Storm%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Song%20of%20the%20Storm%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Song of the Storm' }],
         ] },
         { title: 'Final Fantasy XI ~Adventure Log~', releaseDate: '2007-03-20', chronoOrder: 10, recommendedOrder: 601, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic', helpWanted: true,
         parts: [
@@ -678,10 +678,10 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { label: 'Comic', url: null, small: true },
         ],
         description: ['The official Final Fantasy XI webcomic.'],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
+        languages: [{ value: 'JA', native: true }, { value: 'EN' }],
         platformGroups: [
           [{ key: 'book', name: 'Webcomic', noUrl: true }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Adventure%20Log%20webcomic' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Adventure Log webcomic', ytSuffix: '' }],
         ] },
         { title: 'Final Fantasy XI ~Conditions of Fortune~', releaseDate: '2007-08', chronoOrder: 3600, recommendedOrder: 623, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '284p;A6',
         parts: [
@@ -692,12 +692,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'Al and Iris\'s party, staying in Aht Urhgan, encounter a Mithra corsair known as "Lucky Narfah" during a certain adventure, but the man she\'s infatuated with is extremely suspicious. Released as 〜幸運の条件〜. A secondary English source describes her instead as an Elvaan named "Nalfa the Lucky" — race and name unconfirmed.'
         ],
         helpWanted: true,
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/51275414' }, { value: '…?', tip: 'Unknown additional languages' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/51275414', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/51275414' }, { value: '…?' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/51275414' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Conditions%20of%20Fortune~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Conditions%20of%20Fortune%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Conditions of Fortune' }],
         ] },
         { title: 'Final Fantasy XI ~The Princess Knight of Ronfaure~', releaseDate: '2007-11', chronoOrder: 3700, recommendedOrder: 624, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '254p;A6',
         parts: [
@@ -708,12 +708,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'Al and his companions encounter a baby chocobo in the Floating Swamps of Kadava, and with no owner to be found, Al and Iris decide to raise it themselves, leaving their companions to head to San d\'Oria. Released as 〜ロンフォールの姫騎士〜.'
         ],
         helpWanted: true,
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77698241' }, { value: '…?', tip: 'Unknown additional languages' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77698241', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77698241' }, { value: '…?' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77698241' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Princess%20Knight%20of%20Ronfaure~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Princess%20Knight%20of%20Ronfaure%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Princess Knight of Ronfaure' }],
         ] },
         { title: "Final Fantasy XI ~The Star's Call~", releaseDate: '2008-01', chronoOrder: 4100, recommendedOrder: 625, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         parts: [
@@ -724,12 +724,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           'Chance, the lost chocobo found by Al and Iris and raised in Sandoria, was actually a victim of a sinister plot. To save Chance, the pair return to Aht Urhgan where their comrades await. Released as 〜星のいざない〜. May also be known as ~Starfall~.'
         ],
         helpWanted: true,
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77709037' }, { value: '…?', tip: 'Unknown additional languages' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77709037', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77709037' }, { value: '…?' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77709037' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20The%20Star%27s%20Call%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Star%27s%20Call%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Star\'s Call' }],
         ] },
         { title: 'Final Fantasy XI ~Happy Gift~', releaseDate: '2008-04', chronoOrder: 4200, recommendedOrder: 630, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '313p;A6',
         parts: [
@@ -739,12 +739,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'Dark Knight Larry finds himself helping a troublesome young black mage girl named Bee, and before he knows it, the two are traveling together hunting monsters, armed with his "Beast Photographer." Released as ハッピーギフト.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77438179' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77438179', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77438179' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77438179' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Happy%20Gift~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Happy%20Gift%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Happy Gift' }],
         ] },
         { title: 'Final Fantasy XI ~A Message from Beyond~ Vol.1', releaseDate: '2008-08', chronoOrder: 4300, recommendedOrder: 631, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -754,12 +754,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'One day, a stranger visits Doug, Rin, and the others as they search for Tikki\'s mother. She delivers a letter from Tikki\'s mother, written twenty years ago. Released as 〜彼方からの伝言〜①.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77778217' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77778217', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77778217' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77778217' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Message%20from%20Beyond~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Message%20from%20Beyond%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI A Message from Beyond' }],
         ] },
         { title: 'Final Fantasy XI ~A Message from Beyond~ Vol.2', releaseDate: '2008-10', chronoOrder: 4400, recommendedOrder: 632, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -769,12 +769,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'Responding to a rescue request from Tikki\'s mother, what awaited them at the designated location was the \'Forbidden Mouth\'. Through it, Dag and his companions were transported to the past of Vana\'diel. Released as 〜彼方からの伝言〜②.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77439898' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77439898', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77439898' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77439898' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Message%20from%20Beyond~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Message%20from%20Beyond%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI A Message from Beyond' }],
         ] },
         { title: 'Final Fantasy XI ~A Message from Beyond~ Vol.3', releaseDate: '2008-12', chronoOrder: 4500, recommendedOrder: 633, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         parts: [
@@ -784,12 +784,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'While searching for Tikki\'s mother, Euphelin, Doug and Lynn\'s party are transported to the past of Vana\'diel amid the Crystal War. Released as 〜彼方からの伝言〜③. May also be known as ~Messages from Afar~.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77456526' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77456526', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77456526' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77456526' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Message%20from%20Beyond~%20Vol.3%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20A%20Message%20from%20Beyond%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI A Message from Beyond' }],
         ] },
         { title: 'Final Fantasy XI ~Anthology~', releaseDate: '2009-02', chronoOrder: 4600, recommendedOrder: 634, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '311p;A6',
         parts: [
@@ -799,12 +799,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'Anthology of three short stories. Full title: "An Anthology of Short Stories: A Great Adventure for Everyone!!" Released as アンソロジー短編集みんなで大冒険！！.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77470246' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77470246', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77470246' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77470246' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Anthology~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Anthology%20of%20Short%20Stories%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Anthology of Short Stories' }],
         ] },
         { title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.1', releaseDate: '2009-05', chronoOrder: 4700, recommendedOrder: 635, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '282p;A6',
         parts: [
@@ -814,12 +814,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'Ron, a modestly skilled adventurer raised in Windurst, is dragged by his childhood friend Shari into searching for the Book of Gods, said to be in the hands of the thief Nanaa Mihgo. Released as ザルカバードの鼓動①.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77328971' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77328971', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77328971' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77328971' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Heartbeat%20of%20Xarcabard~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Heartbeat%20of%20Xarcabard%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Heartbeat of Xarcabard' }],
         ] },
         { title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.2', releaseDate: '2009-08', chronoOrder: 4800, recommendedOrder: 636, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '247p;A6',
         parts: [
@@ -829,12 +829,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'Ron and the others find the Book of Gods, but it has become a blank White Book, and the Duke of Jeuno tasks them with investigating a mysterious magicite as fears grow that the Shadow Lord is returning. Released as ザルカバードの鼓動②.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77348591' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77348591', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77348591' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77348591' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Heartbeat%20of%20Xarcabard~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Heartbeat%20of%20Xarcabard%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Heartbeat of Xarcabard' }],
         ] },
         { title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.3', releaseDate: '2009-11', chronoOrder: 4900, recommendedOrder: 637, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '283p;A6',
         parts: [
@@ -844,12 +844,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'The Shadow Lord is returning. Ron and Shari bring this news back to Windurst, scattering the party as Savvy, Duga, and Riccorocco head to their own nations. The nations decide to entrust the defeat of the Shadow Lord to an elite force of adventurers, bringing them together once more. Released as ザルカバードの鼓動③.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77379192' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77379192', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77379192' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77379192' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Heartbeat%20of%20Xarcabard~%20Vol.3%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20The%20Heartbeat%20of%20Xarcabard%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Heartbeat of Xarcabard' }],
         ] },
         { title: 'Final Fantasy XI ~Lightning Brigade Encyclopedia~', releaseDate: '2013-03', chronoOrder: 4950, recommendedOrder: 638, tags: ['Optional', 'Spin-off', 'Articles', 'Manga', 'Short Stories'], mediaType: 'Comic', length: '217p;AB', helpWanted: true,
         parts: [
@@ -859,12 +859,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'Featuring stories and four original comics. Released as 電撃の旅団公式十年事典. May also be known as Final Fantasy XI ~Lightning Brigade Official Decennial Encyclopedia~.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/28453696' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/28453696', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/28453696' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/28453696' }] },
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Lightning%20Brigade%20Encyclopedia~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Lightning%20Brigade%20Decennial%20Encyclopedia%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Lightning Brigade Decennial Encyclopedia' }],
         ] },
         { title: 'Final Fantasy XI ~Songs of the Endless Earth~', releaseDate: '2015-12', chronoOrder: 5100, recommendedOrder: 640, tags: ['Optional', 'Spin-off', 'YA Short Stories'], mediaType: 'Book', length: '287p;B6',
         parts: [
@@ -874,12 +874,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'A month after the crisis of Escafication, Vana\'diel was slowly returning to normal. A sailing ship drifting along the South Ocean route encounters a colossal monster, marking the start of a new incident across Vana\'diel, Tavnazia, and Reisenjima. Released as 〜終わりなき大地の唄〜. May also be known as ~The Song of the Endless Land~.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/69235773' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/69235773', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/69235773' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/69235773' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Songs%20of%20the%20Endless%20Earth~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Adventurer%27s%20Holiday%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Adventurer\'s Holiday' }],
         ] },
         { title: 'Final Fantasy XI ~Minagawa Fumio Illustrations~', releaseDate: '2018-12', chronoOrder: 5150, recommendedOrder: 641, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic', length: '189p;K4', helpWanted: true,
         parts: [
@@ -891,12 +891,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           { emText: 'XI' },
           { text: '.' },
         ]],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/58665646' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/58665646', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/58665646' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/58665646' }] },
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Minagawa%20Fumio%20Illustrations~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Minagawa%20Fumio%20Illustrations' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Minagawa Fumio Illustrations', ytSuffix: '' }],
         ] },
         { title: 'Final Fantasy XI ~Aloha Iroha~', releaseDate: '2015-08-11', chronoOrder: 5050, recommendedOrder: 639, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic',
         parts: [
@@ -906,10 +906,10 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'A series of four-panel manga based on Final Fantasy XI, following the story of Iroha, the main heroine of Rhapsodies of Vana\'diel. Known in Japan as Iroha de Gozaru.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
+        languages: [{ value: 'JA', native: true }, { value: 'EN' }],
         platformGroups: [
           [{ key: 'book', name: 'Manga', url: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha#External_links' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20~Aloha%20Iroha~%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI ~Aloha Iroha~' }],
         ] },
         { title: 'Final Fantasy XI ~Minstrel of Strange Tales: Replica Script~', releaseDate: '2024-02', chronoOrder: 5160, recommendedOrder: 642, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '96p;B5',
         parts: [
@@ -919,11 +919,11 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'A replica script for the reading drama\'s five strange tales: "Mimiroon\'s Sparkling Great Adventure", "Go For It! Allied Forces of Altana: Extreme Survival", "Seaside Serpent Taro", "A Small Gift For A Small Friend", and "Black Night Butterfly". Released as 朗読劇 : 異聞のウタイビト : 複製台本. May also be known as Final Fantasy XI ~Reading Drama: Minstrel of Strange Tales: Replica Script~.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+        languages: [{ value: 'JA', native: true }],
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Minstrel%20of%20Strange%20Tales%3A%20Replica%20Script~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Minstrel%20of%20Strange%20Tales' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Minstrel of Strange Tales', ytSuffix: '' }],
         ] },
         { title: 'Final Fantasy XI ~Minstrel of Fantasies: Replica Script~', releaseDate: '2025-03', chronoOrder: 5170, recommendedOrder: 643, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '96p;B5',
         parts: [
@@ -933,11 +933,11 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         description: [
           'A replica script for the reading drama\'s stories of love and reunion across time and space: "Temple of the Heart\'s Secret" (a Star Sibyl story), "Girl of the Underworld" (an Aphmau story), "Blue Mage Blues" (a Blue Mage story), and "Memoirs of the Many-Headed Hydra -Memories of Heroes-" (a Hydra Squadron story). Released as 朗読劇 : 夢幻のウタイビト : 複製台本. May also be known as Final Fantasy XI ~Reading Drama: Minstrel of Fantasies: Replica Script~.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+        languages: [{ value: 'JA', native: true }],
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Minstrel%20of%20Fantasies%3A%20Replica%20Script~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Minstrel%20of%20Fantasies' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Minstrel of Fantasies', ytSuffix: '' }],
         ] },
         {
           title: 'Final Fantasy Grandmasters',
@@ -965,14 +965,14 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
             { text: '. User avatars with chibi character models travel the world by airship in a quest to become the strongest "Grandmaster" adventurer while engaging in co-operative battles against enemies.' },
           ], 'Terminated, the general lack of deep story means there isn\'t anything to get caught up on or experience through recaps.'],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           platformGroups: [
             [
-              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, noUrl: true },
+              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, noUrl: true },
             ],
-            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Grandmasters%20playthrough' }],
+            [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Grandmasters' }],
           ]
         },
         {
@@ -993,15 +993,15 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
             { text: ' with a sprinkle from other Final Fantasy titles, making it a bit of an alternate universe re-imagining. Entry also found in our Fan Projects series.' },
           ], 'A party of adventurers, fresh off a win in the Valkurm Dunes, is summoned to Lower Jeuno by the Captain of the Ducal Guard for an urgent mission.'],
 
-          languages: [{ value: 'EN', tip: 'English' }],
+          languages: [{ value: 'EN' }],
           storeUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver',
 
           platformGroups: [
             [{ key: 'windows', url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver' }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy XI braver' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy XI braver' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy XI braver' },
             ],
           ]
         },

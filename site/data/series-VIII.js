@@ -15,14 +15,14 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
           ],
 
           languages: [
-            { value: 'JA', tip: 'Japanese', native: true },
-            { value: 'EN-GB', tip: 'English (British)' },
-            { value: 'FR', tip: 'French' },
-            { value: 'DE', tip: 'German' },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'ES-419', tip: 'Spanish (Latin America)' },
-            { value: 'FR-CA', tip: 'French (Canada)' },
+            { value: 'JA', native: true },
+            { value: 'EN-GB' },
+            { value: 'FR' },
+            { value: 'DE' },
+            { value: 'IT' },
+            { value: 'ES-ES' },
+            { value: 'ES-419' },
+            { value: 'FR-CA' },
             { value: 'EN-US', tip: 'English (American)' },
           ],
 
@@ -35,7 +35,7 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
             ]
           ],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '90', midScore: '8.5', midUrl: 'https://www.metacritic.com/game/final-fantasy-viii/', source: 'MP', url: 'https://www.metacritic.com/game/final-fantasy-viii/', sourceUrl: 'https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII__REMASTERED/', sourceLabel: 'Steam; Mostly Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '90', url: 'https://www.metacritic.com/game/final-fantasy-viii/' }, { kind: 'metacritic-user', score: '8.5', url: 'https://www.metacritic.com/game/final-fantasy-viii/' }, { kind: 'steam', score: 'MP', url: 'https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII__REMASTERED/' }] },
           storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-viii-remastered',
 
           platformGroups: [
@@ -57,9 +57,9 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
             ],
             [{ key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-viii-remastered/9nntspsc35zb' }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VIII%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VIII%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VIII%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy VIII' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy VIII' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy VIII' },
             ],
           ],
 
@@ -76,11 +76,11 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
                   { text: ', many accesibility and cheat booster commands; including Battle Assistance, Magic Booster, Max Damage, AP Max, Gil Max.' },
                 ]],
                 languages: [
-                  { value: 'EN', tip: 'English' },
-                  { value: 'FR', tip: 'French' },
-                  { value: 'IT', tip: 'Italian' },
-                  { value: 'DE', tip: 'German' },
-                  { value: 'ES-ES', tip: 'Spanish (Spain)' },
+                  { value: 'EN' },
+                  { value: 'FR' },
+                  { value: 'IT' },
+                  { value: 'DE' },
+                  { value: 'ES-ES' },
                 ],
                 storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-viii-pc',
                 platformGroups: [
@@ -96,7 +96,7 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
                 description: [
                   'This port has MIDI audio instead of the original soundtrack and a slower battle interface that makes Limit Break inputs less precise. A companion mini-game no longer requires extra hardware to play.'
                 ],
-                languages: [{ value: 'EN', tip: 'English', native: true }, { value: 'JA', tip: 'Japanese' }, { value: 'FR', tip: 'French' }, { value: 'DE', tip: 'German' }, { value: 'IT', tip: 'Italian' }, { value: 'ES-ES', tip: 'Spanish (Spain)' }],
+                languages: [{ value: 'EN', native: true }, { value: 'JA' }, { value: 'FR' }, { value: 'DE' }, { value: 'IT' }, { value: 'ES-ES' }],
                 platformGroups: [
                   [{ key: 'windows', noUrl: true }],
                 ],
@@ -107,7 +107,7 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
                 description: [
                   'The original release. Non-Japan releases add automatic tutorials and give two Guardian Forces their elemental/status junction abilities by default.'
                 ],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 platformGroups: [
                   [

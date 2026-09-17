@@ -3,19 +3,19 @@ window.__ffSeriesReg['EX'] = { num: 'EX', releaseDate: '2014-12-18', chronoOrder
         parts: [
           { label: 'Final Fantasy Explorers (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Explorers' },
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'FR', tip: 'French' }, { value: '…?', tip: 'Unknown additional languages' }],
+        languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: 'FR' }, { value: '…?' }],
         helpWanted: true,
         description: [
           'Explore beyond your island to collect crystals scattered across the world. Keep the game challenging via customizable difficulty, and enjoy multiplayer kept alive by the fan community.'
         ],
 
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '69', midScore: '6.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-explorers/', url: 'https://www.metacritic.com/game/final-fantasy-explorers/', single: true, sourceLabel: 'Metacritic' },
+        rating: { scores: [{ kind: 'metacritic', score: '69', url: 'https://www.metacritic.com/game/final-fantasy-explorers/' }, { kind: 'metacritic-user', score: '6.8', url: 'https://www.metacritic.com/game/final-fantasy-explorers/' }] },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-explorers',
         platformGroups: [
           [
-            { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers%20playthrough' },
+            { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Explorers' },
+            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Explorers' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Explorers' },
           ],
           [{ key: 'nintendo-3ds', url: 'https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/FINAL-FANTASY-EXPLORERS-1079391.html' }],
         ],
@@ -32,7 +32,7 @@ window.__ffSeriesReg['EX'] = { num: 'EX', releaseDate: '2014-12-18', chronoOrder
             { label: 'Final Fantasy Explorers-Force (2018)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Explorers-Force' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           description: [[
             { text: 'Players used jobs, abilities and weapons to organize parties and defeat summoned beasts, similar to the gameplay from ' },
@@ -42,13 +42,13 @@ window.__ffSeriesReg['EX'] = { num: 'EX', releaseDate: '2014-12-18', chronoOrder
 
           platformGroups: [
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers-Force%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers-Force%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Explorers-Force%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Explorers-Force' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Explorers-Force' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Explorers-Force' },
             ],
             [
-              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, noUrl: true },
+              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, noUrl: true },
             ],
           ]
         },

@@ -17,16 +17,16 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
           storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
 
           languages: [
-            { value: 'JA', tip: 'Japanese', native: true },
-            { value: 'EN-US', tip: 'English (US)' },
-            { value: 'FR', tip: 'French' },
-            { value: 'DE', tip: 'German' },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'KO', tip: 'Korean' },
-            { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
-            { value: 'RU', tip: 'Russian' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'TH', tip: 'Thai' },
+            { value: 'JA', native: true },
+            { value: 'EN-US' },
+            { value: 'FR' },
+            { value: 'DE' },
+            { value: 'IT' },
+            { value: 'KO' },
+            { value: 'PT-BR' },
+            { value: 'RU' },
+            { value: 'ES-ES' },
+            { value: 'TH' },
             { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
             { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
           ],
@@ -43,7 +43,7 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
             ]
           ],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '8.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-v/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-v/', sourceUrl: 'https://store.steampowered.com/app/1173810/FINAL_FANTASY_V/', sourceLabel: 'Steam; Very Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '85', url: 'https://www.metacritic.com/game/final-fantasy-v/' }, { kind: 'metacritic-user', score: '8.0', url: 'https://www.metacritic.com/game/final-fantasy-v/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/1173810/FINAL_FANTASY_V/' }] },
 
           platformGroups: [
             [{ key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' }],
@@ -60,9 +60,9 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
             [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' }],
             [{ key: 'amazon', url: 'https://www.amazon.com/dp/B09JKQ94WB?' }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20V%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy V' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy V' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy V' },
             ],
           ],
 
@@ -79,19 +79,19 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
                   'This remaster has new high-resolution graphics and sprites, eight-direction movement, auto battle. Also has the extra dungeon and optional boss from Edit 2006.'
                 ],
                 languages: [
-                  { value: 'JA', tip: 'Japanese', native: true },
-                  { value: 'EN', tip: 'English' },
-                  { value: 'FR', tip: 'French' },
-                  { value: 'DE', tip: 'German' },
-                  { value: 'IT', tip: 'Italian' },
-                  { value: 'PT-PT', tip: 'Portuguese (Portugal)' },
-                  { value: 'RU', tip: 'Russian' },
-                  { value: 'ES-ES', tip: 'Spanish (Spain)' },
+                  { value: 'JA', native: true },
+                  { value: 'EN' },
+                  { value: 'FR' },
+                  { value: 'DE' },
+                  { value: 'IT' },
+                  { value: 'PT-PT' },
+                  { value: 'RU' },
+                  { value: 'ES-ES' },
                 ],
                 platformGroups: [
-                  [{ key: 'steam', name: 'Steam (PC); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/382890/FINAL_FANTASY_V_Old_ver/' }],
-                  [{ key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-                  [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+                  [{ key: 'steam', name: 'Steam (PC); terminated', terminated: true, url: 'https://store.steampowered.com/app/382890/FINAL_FANTASY_V_Old_ver/' }],
+                  [{ key: 'android2', name: 'Android; terminated', terminated: true, noUrl: true }],
+                  [{ key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true }],
                 ],
               },
               {
@@ -106,7 +106,7 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
                   { text: '.' },
                 ]],
 
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'DE', tip: 'German' }, { value: 'FR', tip: 'French' }, { value: 'IT', tip: 'Italian' }, { value: 'ES', tip: 'Spanish' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: 'DE' }, { value: 'FR' }, { value: 'IT' }, { value: 'ES' }],
 
                 platformGroups: [
                   [{ key: 'nintendo-game-boy-advance', paren: 'Physical' }],
@@ -130,7 +130,7 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
                   emText: 'Final Fantasy Anthology'
                 }, ' (2002).']],
 
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
 
                 platformGroups: [
@@ -148,7 +148,7 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
                 url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V',
                 description: ['The original release.'],
                 languages: [
-                  { value: 'JA', tip: 'Japanese', native: true },
+                  { value: 'JA', native: true },
                   { value: 'EN', tip: 'English (Fan Translation) (RPGe 1998)' },
                   { value: 'ES', tip: 'Spanish (Fan Translation) (noisecross 2015)' },
                   { value: 'IT', tip: 'Italian (Fan Translation) (SadNES cITy Translations 2001)' },
@@ -159,10 +159,10 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
                 platformGroups: [
                   [{ key: 'nintendo-snes', name: 'Super Famicom (Japan Only); Physical', jpTag: true }],
                   [
-                    { key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true },
-                    { key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true },
+                    { key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true },
+                    { key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true },
                   ],
-                  [{ key: 'nintendo-3ds', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                  [{ key: 'nintendo-3ds', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true }],
                 ],
               },
             ],
@@ -182,7 +182,7 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
             { label: 'video', url: null, small: true },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }],
 
           description: [[
             { text: 'Two hundred years after ' },
@@ -193,13 +193,13 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
             abbrDef: 'Original Video Animation'
           }, ' episodes.']],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '6.1', url: 'https://www.imdb.com/title/tt0196692/', single: true, sourceLabel: 'IMDb' },
+          rating: { scores: [{ kind: 'imdb', score: '6.1', url: 'https://www.imdb.com/title/tt0196692/' }] },
 
           platformGroups: [
             [{ key: 'vhs', noUrl: true }],
             [{ key: 'laserdisc', name: 'Laserdisk (Japan only)', noUrl: true, jpTag: true }],
-            [{ key: 'fan-movie', name: 'Youtube (unofficial)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Legend%20of%20the%20Crystals%20(1994)' }],
-            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Legend%20of%20the%20Crystals%20(1994)%20story%20recap' }],
+            [{ key: 'fan-movie', name: 'Youtube (unofficial)', ytSearch: true, ytTitle: 'Final Fantasy: Legend of the Crystals (1994)', ytSuffix: '' }],
+            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Legend of the Crystals (1994)' }],
           ]
         },
       ]};
