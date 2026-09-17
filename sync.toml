@@ -23,7 +23,7 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "ec4418ed52fa42add96c486afc437b66b3624542"
+ref = "3a41bddd820ea96a1ec8b488ec36b84cc7e8c79d"
 paths = [
   "sync.list.toml",
   "docs/subtitle.md",
@@ -51,6 +51,7 @@ paths = [
   "site/SeriesSection.dc.html",
   "site/StatusBadge.dc.html",
   "scripts/bundle-components.py",
+  "scripts/ssr-render.js",
   "scripts/sync.py",
   "scripts/check-dedup-drift.py",
   "scripts/normalize-svg.py",
@@ -60,6 +61,11 @@ paths = [
   "scripts/trim-svg.py",
   "svgo.config.mjs",
   "justfile",
+  "package.json",
+  "package-lock.json",
+  ".npmrc",
+  ".node-version",
+  ".gitignore",
   ".editorconfig",
   ".gitattributes",
   ".vscode/extensions.json",
