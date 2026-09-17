@@ -1,59 +1,110 @@
 /* site/data/theme.css (css) — per-repo, not vendored from kit (see
    docs/init-list.md "Theme colors"). page.dc.html links this after Nocturne's
-   own stylesheet (site/_ds/nocturne-*/styles.css), so these --color-* values
-   override its defaults. Delete a line to fall back to the Nocturne default
-   for that token; a repo that never edits this file keeps kit's look
-   unchanged. Only the color custom properties are here — spacing, radius,
-   shadow, and font tokens stay in the shared Nocturne stylesheet. */
+   own stylesheet (site/_ds/nocturne-.../styles.css), so these values override
+   its defaults. Delete a line to fall back to the Nocturne default for that
+   token; a repo that never edits this file keeps kit's look unchanged.
+
+   "Final Fantasy" retheme: a crystal-blue accent (the glow of a summon/
+   materia) with a warm gold second accent (menu-box gold text/borders from
+   the series' UI), on a deep navy-black ground. --font-display is new: a
+   per-repo font token (on top of Nocturne's --font-heading/--font-body) for
+   the site's own wordmark moment only — the big Intro <h1> and the nav
+   brand — evoking the retro (FFI–VI) logotype's chunky classical-serif
+   look without using the real (unlicensed) logotype. Delete the
+   --font-display line to fall back to --font-heading everywhere. A more
+   modern (FFVII+) logotype look would trade Cinzel for a slanted/italic
+   serif like Cormorant Garamond Italic instead — ask if you want that
+   variant. The Cinzel font itself is loaded via a <link> in page.dc.html's
+   <helmet> (an @import here risks taking the whole sheet down if blocked).
+
+   Checked the two fan fonts on fontspace.com/category/final-fantasy: the
+   one literally named "Final Fantasy" is a direct trace of the real
+   logotype (same concern the brief raised — a free licence doesn't clear
+   the underlying copy), so it's skipped. "Ferrum" is a real option but
+   would mean hosting a third-party font file under an unverified licence —
+   left out for now, ask if you want it added. Cinzel is a good stand-in
+   regardless: a classical-Roman-inspired display serif, which is how the
+   real wordmark is usually described (high-contrast strokes, tall
+   letterforms, between Roman and display serif).
+
+   Gold accent is anchored on the #C8A951 commonly cited as the series'
+   anniversary/premium gold; accent stays crystal-blue as primary, per the
+   series' menu-UI/art association most people make with the franchise. */
+
+:root {
+  --font-display: "Cinzel", var(--font-heading);
+  --font-display-weight: 600;
+  --font-display-tracking: 0.02em;
+}
 
 [data-theme="dark"] {
-  --color-bg: #161826;
-  --color-surface: #232532;
-  --color-text: #e9e9ed;
-  --color-accent: #9184d9;
-  --color-accent-100: #f5f4ff;
-  --color-accent-200: #e7e5fe;
-  --color-accent-300: #d2cefd;
-  --color-accent-400: #b5abfc;
-  --color-accent-500: #968ae0;
-  --color-accent-600: #796cbf;
-  --color-accent-700: #5d5294;
-  --color-accent-800: #423a6a;
-  --color-accent-900: #2b2741;
-  --color-neutral-100: #f3f5fe;
-  --color-neutral-200: #e4e7f5;
-  --color-neutral-300: #cfd3e5;
-  --color-neutral-400: #b2b6ca;
-  --color-neutral-500: #9397ab;
-  --color-neutral-600: #75798c;
-  --color-neutral-700: #595d6c;
-  --color-neutral-800: #3f424d;
-  --color-neutral-900: #292b31;
-  --color-divider: color-mix(in srgb, #e9e9ed 16%, transparent);
+  --color-bg: #12151f;
+  --color-surface: #1b2030;
+  --color-text: #e9edf1;
+  --color-accent: #5c7aab;
+  --color-accent-100: #eef0f7;
+  --color-accent-200: #d7dcec;
+  --color-accent-300: #b3bfdb;
+  --color-accent-400: #8a9bc4;
+  --color-accent-500: #5c7aab;
+  --color-accent-600: #4a6288;
+  --color-accent-700: #394c69;
+  --color-accent-800: #2a394d;
+  --color-accent-900: #1b2531;
+  --color-accent-2: #c8a951;
+  --color-accent-2-100: #fbf3e3;
+  --color-accent-2-200: #f2e0b8;
+  --color-accent-2-300: #e6cb8c;
+  --color-accent-2-400: #d9b96b;
+  --color-accent-2-500: #c8a951;
+  --color-accent-2-600: #a4873c;
+  --color-accent-2-700: #7d672c;
+  --color-accent-2-800: #59481f;
+  --color-accent-2-900: #382d14;
+  --color-neutral-100: #f2f4f7;
+  --color-neutral-200: #e2e6ec;
+  --color-neutral-300: #cbd1db;
+  --color-neutral-400: #aab2c0;
+  --color-neutral-500: #8991a3;
+  --color-neutral-600: #6b7284;
+  --color-neutral-700: #4f5566;
+  --color-neutral-800: #383c4a;
+  --color-neutral-900: #23262f;
+  --color-divider: color-mix(in srgb, #e9edf1 16%, transparent);
 }
 
 [data-theme="light"] {
-  --color-bg: #f4f4f8;
+  --color-bg: #f4f7fa;
   --color-surface: #ffffff;
-  --color-text: #1c1e2a;
-  --color-accent: #6f63b5;
-  --color-accent-100: #2b2741;
-  --color-accent-200: #423a6a;
-  --color-accent-300: #5d5294;
-  --color-accent-400: #796cbf;
-  --color-accent-500: #968ae0;
-  --color-accent-600: #b5abfc;
-  --color-accent-700: #d2cefd;
-  --color-accent-800: #e7e5fe;
-  --color-accent-900: #f5f4ff;
-  --color-neutral-100: #292b31;
-  --color-neutral-200: #3f424d;
-  --color-neutral-300: #595d6c;
-  --color-neutral-400: #75798c;
-  --color-neutral-500: #9397ab;
-  --color-neutral-600: #b2b6ca;
-  --color-neutral-700: #cfd3e5;
-  --color-neutral-800: #e4e7f5;
-  --color-neutral-900: #f3f5fe;
-  --color-divider: color-mix(in srgb, #1c1e2a 14%, transparent);
+  --color-text: #141824;
+  --color-accent: #1d3f73;
+  --color-accent-100: #1b2531;
+  --color-accent-200: #2a394d;
+  --color-accent-300: #2f5fa8;
+  --color-accent-400: #4a6288;
+  --color-accent-500: #5c7aab;
+  --color-accent-600: #8a9bc4;
+  --color-accent-700: #b3bfdb;
+  --color-accent-800: #d7dcec;
+  --color-accent-900: #eef0f7;
+  --color-accent-2: #8a6c1c;
+  --color-accent-2-100: #382d14;
+  --color-accent-2-200: #59481f;
+  --color-accent-2-300: #7d672c;
+  --color-accent-2-400: #a4873c;
+  --color-accent-2-500: #c8a951;
+  --color-accent-2-600: #d9b96b;
+  --color-accent-2-700: #e6cb8c;
+  --color-accent-2-800: #f2e0b8;
+  --color-accent-2-900: #fbf3e3;
+  --color-neutral-100: #23262f;
+  --color-neutral-200: #383c4a;
+  --color-neutral-300: #4f5566;
+  --color-neutral-400: #6b7284;
+  --color-neutral-500: #8991a3;
+  --color-neutral-600: #aab2c0;
+  --color-neutral-700: #cbd1db;
+  --color-neutral-800: #e2e6ec;
+  --color-neutral-900: #f2f4f7;
+  --color-divider: color-mix(in srgb, #141824 14%, transparent);
 }
