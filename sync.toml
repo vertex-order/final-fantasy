@@ -23,13 +23,14 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "246550c3456fa1a957797e146c2c94bb077eaa8c"
+ref = "c4732d3033f49d34f7ebbc0647669c01e57ac92f"
 paths = [
   "sync.list.toml",
   "docs/subtitle.md",
   "site/_ds/",
   "site/images/ui/",
   "site/support.js",
+  "site/theme-dev.js",
   "site/data/common-faq.js",
   "site/data/catalogs.js",
   "site/BackToTop.dc.html",
@@ -86,7 +87,7 @@ paths = [
 
 [subscribe.platforms]
 repo = "vertex-order/platforms"
-ref = "0f45d3830717c02fda3a71b6e1d6d9a0eaf2aeba"
+ref = "f6a35682406763a693394e32a08a3ab7937fea6e"
 paths = [
   "site/PlatformIcon.dc.html",
   "site/data/platform-icons.js",
