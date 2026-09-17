@@ -22,18 +22,18 @@ window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder
             { text: ' from the SaGa series.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '78', midScore: '7.5', midUrl: 'https://www.metacritic.com/game/final-fantasy-dimensions/', single: true, sourceLabel: 'Metacritic', url: 'https://www.metacritic.com/game/final-fantasy-dimensions/' },
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'FR', tip: 'French' }, { value: 'ZH-CN', tip: 'Simplified Chinese' }, { value: 'ZH-TW', tip: 'Traditional Chinese' }],
+          rating: { scores: [{ kind: 'metacritic', score: '78', url: 'https://www.metacritic.com/game/final-fantasy-dimensions/' }, { kind: 'metacritic-user', score: '7.5', url: 'https://www.metacritic.com/game/final-fantasy-dimensions/' }] },
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: 'FR' }, { value: 'ZH-CN' }, { value: 'ZH-TW' }],
           storeUrl: 'https://www.jp.square-enix.com/ffdl/en/',
 
           platformGroups: [
-            [{ key: 'mobile-phone', name: 'Mobile Phones; terminated', noUrl: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+            [{ key: 'mobile-phone', name: 'Mobile Phones; terminated', noUrl: true, terminated: true }],
             [{ key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-dimensions/id540992837' }],
             [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp' }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy Dimensions' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Dimensions' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Dimensions' },
             ],
           ]
         },
@@ -62,17 +62,17 @@ window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder
             { text: ' from the SaGa series.' },
           ]],
 
-          rating: { textOnly: true, abbrTerm: 'NYR', abbrDef: 'Not Yet Rated', abbrTermPlain: true },
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
+          rating: { kind: 'nyr' },
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }],
           storeUrl: 'https://www.jp.square-enix.com/FFL2/en/',
 
           platformGroups: [
             [{ key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-dimensions-ii/id1239279234' }],
             [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl2w&pli=1' }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Dimensions%20II%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy Dimensions II' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Dimensions II' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Dimensions II' },
             ],
           ]
         },

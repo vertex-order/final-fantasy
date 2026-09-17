@@ -5,22 +5,22 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           { label: 'Remaster (2020)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)#Remastered_Edition', small: true },
         ],
         languages: [
-          { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-          { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
+          { value: 'JA', native: true, voice: true },
+          { value: 'EN-US', voice: true },
           { value: 'FR', tip: 'French (France)' },
-          { value: 'DE', tip: 'German' },
-          { value: 'IT', tip: 'Italian' },
-          { value: 'ES-ES', tip: 'Spanish (Spain)' },
+          { value: 'DE' },
+          { value: 'IT' },
+          { value: 'ES-ES' },
         ],
         description: [
           'Help a caravan hailing from the village of Tipa as they harvest myrrh energy from magical trees to ward off deadly Miasma, and uncover the source of it all.',
           'This remaster brings enhanced graphics, new and arranged music, thirteen new dungeons, voice acting, and cross-platform online multiplayer.'
         ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '80', midScore: '7.7', midUrl: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles/', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles/', single: true, sourceLabel: 'Metacritic' },
+        rating: { scores: [{ kind: 'metacritic', score: '80', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles/' }, { kind: 'metacritic-user', score: '7.7', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles/' }] },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-crystal-chronicles-remastered-edition',
         platformGroups: [
           [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFCCREww' }],
-          [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://na.finalfantasy.com/news/2719' }],
+          [{ key: 'apple', name: 'iOS; terminated', terminated: true, url: 'https://na.finalfantasy.com/news/2719' }],
           [
             { key: 'nintendo-switch', paren: 'Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-crystal-chronicles-remastered-edition-switch/' },
             { key: 'nintendo-switch-2', paren: 'Switch compatibility; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-crystal-chronicles-remastered-edition-switch/' },
@@ -30,9 +30,9 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
             { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA16885_00-FFCCRE2003TO2020' },
           ],
           [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles' },
+            { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles' },
           ],
         ],
         alt: {
@@ -43,7 +43,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
               description: [
                 'The original release, which used up to four Game Boy Advance units connected to a single GameCube to provide four player co-op multiplayer.'
               ],
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+              languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
               helpWanted: true,
               platformGroups: [
                 [
@@ -64,12 +64,12 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           { emText: 'Crystal Chronicles (2003)' },
           { text: '. Released as 〜果てなき空の向こうに〜. May also be known as ~Hatenaki Sora no Mukō ni~.' },
         ]],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77128941' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77128941', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77128941' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77128941' }] },
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Crystal%20Chronicles%20Beyond%20the%20Endless%20Sky%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20manga%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles manga' }],
         ] },
         { title: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village', releaseDate: '2004-02-06', chronoOrder: 600, recommendedOrder: 160, tags: ['Optional', 'Novel'], mediaType: 'Book',
         parts: [
@@ -81,12 +81,12 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           { emText: 'Crystal Chronicles (2003)' },
           { text: '. Released as ファイナルファンタジークリスタルクロニクル 〜小さな村の年代記〜 (Chiisana Mura no Nendaiki).' },
         ]],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77092424' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77092424', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77092424' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77092424' }] },
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Crystal%20Chronicles%20Chronicle%20of%20a%20Small%20Village%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%3A%20Chronicle%20of%20a%20Small%20Village%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village' }],
         ] },
         { title: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', releaseDate: '2004-01-16', chronoOrder: 700, recommendedOrder: 170, tags: ['Optional', 'Manga'], mediaType: 'Comic',
         parts: [
@@ -99,12 +99,12 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           { text: '. Released as ファイナルファンタジー・クリスタルクロニクル4コママンガ劇場.' },
         ]],
         helpWanted: true,
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77600584' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77600584', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77600584' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77600584' }] },
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Crystal%20Chronicles%204-Koma%20Manga%20Theater%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%3A%204-Koma%20Manga%20Theater%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater' }],
         ] },
         {
           title: 'Final Fantasy Crystal Chronicles: My Life as a King',
@@ -127,17 +127,17 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
             { text: 'Due to the discontinuation of the WiiWare service it is recommend to watch a fan story recap or playthrough for story elements.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '80', midScore: '7.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-my-life-as-a-kin/', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-my-life-as-a-kin/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '80', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-my-life-as-a-kin/' }, { kind: 'metacritic-user', score: '7.0', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-my-life-as-a-kin/' }] },
           storeUrl: 'https://www.nintendo.com/en-gb/Games/WiiWare/Final-Fantasy-Crystal-Chronicles-My-Life-as-a-King-285216.html',
 
           platformGroups: [
-            [{ key: 'nintendo-wii', name: 'Nintendo Wii: WiiWare; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'nintendo-wii', name: 'Nintendo Wii: WiiWare; terminated', terminated: true, noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20My%20Life%20as%20a%20King%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20My%20Life%20as%20a%20King%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20My%20Life%20as%20a%20King%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles My Life as a King' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles My Life as a King' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles My Life as a King' },
             ],
           ]
         },
@@ -162,17 +162,17 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
             { text: 'Due to the discontinuation of the WiiWare service it is recommend to watch a fan story recap or playthrough for story elements.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '73', midScore: '6.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-my-life-as-a-dar/', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-my-life-as-a-dar/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '73', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-my-life-as-a-dar/' }, { kind: 'metacritic-user', score: '6.9', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-my-life-as-a-dar/' }] },
           storeUrl: 'https://www.nintendo.com/en-gb/Games/WiiWare/FINAL-FANTASY-CRYSTAL-CHRONICLES-My-Life-as-a-Darklord-285205.html',
 
           platformGroups: [
-            [{ key: 'nintendo-wii', name: 'Nintendo Wii: WiiWare; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'nintendo-wii', name: 'Nintendo Wii: WiiWare; terminated', terminated: true, noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20My%20Life%20as%20a%20Darklord%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20My%20Life%20as%20a%20Darklord%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20My%20Life%20as%20a%20Darklord%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles My Life as a Darklord' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles My Life as a Darklord' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles My Life as a Darklord' },
             ],
           ]
         },
@@ -195,16 +195,16 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
             { text: ', Layle, a bounty-hunting crystal bearer, is drawn into a conspiracy to seize an ancient, world-threatening power sealed within the crystals.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '6.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-the-crystal-bear/', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-the-crystal-bear/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '66', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-the-crystal-bear/' }, { kind: 'metacritic-user', score: '6.0', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-the-crystal-bear/' }] },
 
           platformGroups: [
             [{ key: 'nintendo-wii', noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20The%20Crystal%20Bearers%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20The%20Crystal%20Bearers%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20The%20Crystal%20Bearers%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles The Crystal Bearers' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles The Crystal Bearers' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles The Crystal Bearers' },
             ],
           ]
         },
@@ -227,16 +227,16 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
             { text: '; Yuri and Chelinka come into conflict with Galdes, leader of the Red Crystal-allied Lunites.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '77', midScore: '7.2', midUrl: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-ring-of-fates/', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-ring-of-fates/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '77', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-ring-of-fates/' }, { kind: 'metacritic-user', score: '7.2', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-ring-of-fates/' }] },
 
           platformGroups: [
             [{ key: 'nintendo-ds', noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20Ring%20of%20Fates%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20Ring%20of%20Fates%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20Ring%20of%20Fates%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles Ring of Fates' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles Ring of Fates' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles Ring of Fates' },
             ],
           ]
         },
@@ -250,12 +250,12 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           { emText: 'Ring of Fates (2007)' },
           { text: '. Released as リング オブ フェイト4コマアンソロジーコミック. May also be known as Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~.' },
         ]],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77740139' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77740139', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77740139' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77740139' }] },
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Crystal%20Chronicles%20Ring%20of%20Fates%20Manga%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%3A%20Ring%20of%20Fates%20~4-Panel%20Anthology%20Comic~%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~' }],
         ] },
         {
           title: 'Final Fantasy Crystal Chronicles: Echoes of Time',
@@ -278,17 +278,17 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
             { text: '. You must receive your own crystal shard, embark on an adventure to save a friend, and confront scientist Larkeicus.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '75', midScore: '7.2', midUrl: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-echoes-of-time/', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-echoes-of-time/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '75', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-echoes-of-time/' }, { kind: 'metacritic-user', score: '7.2', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-echoes-of-time/' }] },
 
           platformGroups: [
             [{ key: 'nintendo-ds', noUrl: true }],
             [{ key: 'nintendo-wii', noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20Echoes%20of%20Time%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20Echoes%20of%20Time%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Crystal%20Chronicles%20Echoes%20of%20Time%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles Echoes of Time' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles Echoes of Time' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles Echoes of Time' },
             ],
           ]
         },

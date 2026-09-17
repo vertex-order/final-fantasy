@@ -21,15 +21,15 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           storeUrl: 'https://www.ateam-entertainment.com/en/services/787/',
 
           languages: [
-            { value: 'JA', tip: 'Japanese', native: true },
-            { value: 'EN', tip: 'English' },
-            { value: 'FR', tip: 'French' },
-            { value: 'DE', tip: 'German' },
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: 'FR' },
+            { value: 'DE' },
             { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
-            { value: 'KO', tip: 'Korean' },
-            { value: 'TH', tip: 'Thai' },
+            { value: 'KO' },
+            { value: 'TH' },
             { value: 'ES-ES', tip: 'Spanish (Europe)' },
-            { value: 'ES-419', tip: 'Spanish (Latin America)' },
+            { value: 'ES-419' },
           ],
 
           description: [[
@@ -38,14 +38,14 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             { text: ', SOLDIER candidates train in a battle simulation.' },
           ], 'Only the opening movie, season 2-4 trailers contain story elements, and the game itself is terminated. They can be viewed online.'],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '62', midScore: '5.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-the-first-soldier/', url: 'https://www.metacritic.com/game/final-fantasy-vii-the-first-soldier/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '62', url: 'https://www.metacritic.com/game/final-fantasy-vii-the-first-soldier/' }, { kind: 'metacritic-user', score: '5.0', url: 'https://www.metacritic.com/game/final-fantasy-vii-the-first-soldier/' }] },
 
           platformGroups: [
-            [{ key: 'fan-movie', name: 'Official game trailers (YouTube)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20The%20First%20Soldier%20trailer' }],
-            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20The%20First%20Soldier%20story%20recap' }],
+            [{ key: 'fan-movie', name: 'Official game trailers (YouTube)', ytSearch: true, ytTitle: 'Final Fantasy VII: The First Soldier trailer', ytSuffix: '' }],
+            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy VII: The First Soldier' }],
             [
-              { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7fsww&hl=en' },
-              { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/us/app/ffvii-the-first-soldier/id1536906780' },
+              { key: 'android2', name: 'Android; terminated', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7fsww&hl=en' },
+              { key: 'apple', name: 'iOS; terminated', terminated: true, url: 'https://apps.apple.com/us/app/ffvii-the-first-soldier/id1536906780' },
             ],
           ]
         },
@@ -63,7 +63,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             { label: 'The First Soldier', url: null, small: true },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese — full audio', native: true, voice: true }, { value: 'EN', tip: 'English — full audio', voice: true }],
+          languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN', voice: true }],
 
           description: [[
             { text: 'The ' },
@@ -74,18 +74,18 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ], 'Do not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you watch fan story recap videos of the story elements or a playthrough.'],
 
           storeUrl: 'https://en.ffviiec.com/',
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '4.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', sourceUrl: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', sourceLabel: 'Steam; Mixed' },
+          rating: { scores: [{ kind: 'metacritic', score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/' }, { kind: 'metacritic-user', score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/' }, { kind: 'steam', score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }] },
 
           platformGroups: [
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20The%20First%20Soldier%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20The%20First%20Soldier%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20The%20First%20Soldier%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) The First Soldier' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) The First Soldier' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) The First Soldier' },
             ],
-            [{ key: 'steam', name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
+            [{ key: 'steam', name: 'Steam (PC; Handheld); terminated', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
             [
-              { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-              { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+              { key: 'android2', name: 'Android; terminated', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+              { key: 'apple', name: 'iOS; terminated', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
             ],
           ]
         },
@@ -93,18 +93,18 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         parts: [
           { label: 'Before Crisis: Final Fantasy VII (2004)', url: 'https://en.wikipedia.org/wiki/Before_Crisis:_Final_Fantasy_VII' },
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+        languages: [{ value: 'JA', native: true }],
         description: [
           'The Turks group of covert operatives working for Shinra Electric Power Company fight against both the rebel group AVALANCHE, and their corrupt employers.',
           'Since the game is terminated we recommend you watch a fan story recap video or a playthrough.'
         ],
         platformGroups: [
           [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Before%20Crisis%3A%20Final%20Fantasy%20VII%20%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Before%20Crisis%3A%20Final%20Fantasy%20VII%20%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Before%20Crisis%3A%20Final%20Fantasy%20VII%20%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'Before Crisis: Final Fantasy VII' },
+            { key: 'fan-recap', ytSearch: true, ytTitle: 'Before Crisis: Final Fantasy VII' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Before Crisis: Final Fantasy VII' },
           ],
-          [{ key: 'mobile-phone', name: 'Mobile Phones; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+          [{ key: 'mobile-phone', name: 'Mobile Phones; terminated', terminated: true, noUrl: true }],
         ],
         alts: [
           {
@@ -114,25 +114,25 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             ],
 
             tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
-            languages: [{ value: 'JA', tip: 'Japanese — full audio', native: true, voice: true }, { value: 'EN', tip: 'English — full audio', voice: true }],
+            languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN', voice: true }],
 
             description: [['The Before Crisis episode retells the story from ', {
               emText: 'Before Crisis: Final Fantasy VII (2004)'
             }, '.'], 'Do not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.'],
 
             storeUrl: 'https://en.ffviiec.com/',
-            rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '4.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', sourceUrl: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', sourceLabel: 'Steam; Mixed' },
+            rating: { scores: [{ kind: 'metacritic', score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/' }, { kind: 'metacritic-user', score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/' }, { kind: 'steam', score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }] },
 
             platformGroups: [
               [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20before%20crisis%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20before%20crisis%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20before%20crisis%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) before crisis' },
+            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) before crisis' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) before crisis' },
           ],
-              [{ key: 'steam', name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
+              [{ key: 'steam', name: 'Steam (PC; Handheld); terminated', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
               [
-                { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-                { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+                { key: 'android2', name: 'Android; terminated', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+                { key: 'apple', name: 'iOS; terminated', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
               ],
             ]
           },
@@ -151,7 +151,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             { label: 'video', url: null, small: true },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (North America) — fan dub' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN', tip: 'English (North America) — fan dub' }],
 
           description: [[
             { text: 'Re-imagining of two flashbacks from ' },
@@ -173,14 +173,14 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             { text: ').' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '7.1', url: 'https://www.imdb.com/title/tt0489134/', single: true, sourceLabel: 'IMDb' },
+          rating: { scores: [{ kind: 'imdb', score: '7.1', url: 'https://www.imdb.com/title/tt0489134/' }] },
 
           platformGroups: [
             [{ key: 'dvd', noUrl: true }],
             [{ key: 'playstation-portable', paren: 'PlayStation Portable: Universal Media Disk', noUrl: true }],
             [
-              { key: 'fan-movie', name: 'YouTube (unofficial)', url: 'https://www.youtube.com/results?search_query=Last%20Order%3A%20Final%20Fantasy%20VII%20(2005)' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Last%20Order%3A%20Final%20Fantasy%20VII%20story%20recap' },
+              { key: 'fan-movie', name: 'YouTube (unofficial)', ytSearch: true, ytTitle: 'Last Order: Final Fantasy VII (2005)', ytSuffix: '' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Last Order: Final Fantasy VII' },
             ],
           ]
         },
@@ -199,13 +199,13 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ],
 
           languages: [
-            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-            { value: 'FR', tip: 'French' },
-            { value: 'DE', tip: 'German' },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'KO', tip: 'Korean' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR' },
+            { value: 'DE' },
+            { value: 'IT' },
+            { value: 'KO' },
+            { value: 'ES-ES' },
             { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
             { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
           ],
@@ -224,7 +224,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             { text: '.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '83', midScore: '8.1', midUrl: 'https://www.metacritic.com/game/crisis-core-final-fantasy-vii/', source: 'VP', url: 'https://www.metacritic.com/game/crisis-core-final-fantasy-vii/', sourceUrl: 'https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/', sourceLabel: 'Steam; Very Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '83', url: 'https://www.metacritic.com/game/crisis-core-final-fantasy-vii/' }, { kind: 'metacritic-user', score: '8.1', url: 'https://www.metacritic.com/game/crisis-core-final-fantasy-vii/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/' }] },
           storeUrl: 'https://www.square-enix.com/ffvii/en-us/games/crisis-core/',
 
           platformGroups: [
@@ -238,9 +238,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               { key: 'xbox-xs', paren: 'Physical; Digital', url: 'https://www.xbox.com/games/store/crisis-core-final-fantasy-vii-reunion/9p6j9nfkgj68' },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Crisis%20Core%3A%20Final%20Fantasy%20VII%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Crisis%20Core%3A%20Final%20Fantasy%20VII%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Crisis%20Core%3A%20Final%20Fantasy%20VII%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Crisis Core: Final Fantasy VII' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Crisis Core: Final Fantasy VII' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Crisis Core: Final Fantasy VII' },
             ],
           ],
 
@@ -254,7 +254,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                   { label: 'Crisis Core', url: null, small: true },
                 ],
                 tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
-                languages: [{ value: 'JA', tip: 'Japanese — full audio', native: true, voice: true }, { value: 'EN', tip: 'English — full audio', voice: true }],
+                languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN', voice: true }],
                 description: [[
                   { text: 'The ' },
                   { emText: 'Crisis Core' },
@@ -263,17 +263,17 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                   { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you play a different version, watch a fan story recap video or a playthrough.' },
                 ]],
                 storeUrl: 'https://en.ffviiec.com/',
-                rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '4.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', sourceUrl: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', sourceLabel: 'Steam; Mixed' },
+                rating: { scores: [{ kind: 'metacritic', score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/' }, { kind: 'metacritic-user', score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/' }, { kind: 'steam', score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }] },
                 platformGroups: [
                   [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Crisis%20Core%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Crisis%20Core%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Crisis%20Core%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) Crisis Core' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) Crisis Core' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) Crisis Core' },
             ],
                   [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
                   [
-                    { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-                    { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+                    { key: 'android2', name: 'Android; terminated', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+                    { key: 'apple', name: 'iOS; terminated', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
                   ],
                 ],
               },
@@ -283,7 +283,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                 description: [
                   'The original release. An International version followed in 2008 with selectable Normal/Hard difficulty (no more Game Over on failed missions), expanded voice acting, and one redesigned statue.'
                 ],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }],
                 platformGroups: [
                   [{ key: 'playstation-portable', name: 'PlayStation Portable (Physical)', noUrl: true }],
                 ],
@@ -307,15 +307,15 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ],
 
           languages: [
-            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-            { value: 'FR', tip: 'French — full audio', voice: true },
-            { value: 'DE', tip: 'German — full audio', voice: true },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'KO', tip: 'Korean' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'ES-419', tip: 'Spanish (Latin America)' },
-            { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR', voice: true },
+            { value: 'DE', voice: true },
+            { value: 'IT' },
+            { value: 'KO' },
+            { value: 'ES-ES' },
+            { value: 'ES-419' },
+            { value: 'PT-BR' },
             { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
             { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
           ],
@@ -332,7 +332,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             ]
           ],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '89', midScore: '8.7', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-remake-intergrade/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-vii-remake-intergrade/', sourceUrl: 'https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/', sourceLabel: 'Steam; Very Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '89', url: 'https://www.metacritic.com/game/final-fantasy-vii-remake-intergrade/' }, { kind: 'metacritic-user', score: '8.7', url: 'https://www.metacritic.com/game/final-fantasy-vii-remake-intergrade/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/' }] },
           storeUrl: 'https://www.square-enix.com/ffvii/en-us/games/remake-intergrade/',
 
           platformGroups: [
@@ -347,9 +347,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               { key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-vii-remake-intergrade/9nrqvq7zrm7z' },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Remake%20Intergrade%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Remake%20Intergrade%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Remake%20Intergrade%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy VII: Remake Intergrade' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy VII: Remake Intergrade' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy VII: Remake Intergrade' },
             ],
           ],
 
@@ -371,7 +371,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                   { emText: 'Intergrade' },
                   { text: ' suffix.' },
                 ]],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 platformGroups: [
                   [
@@ -400,15 +400,15 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ],
 
           languages: [
-            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-            { value: 'FR', tip: 'French — full audio', voice: true },
-            { value: 'DE', tip: 'German — full audio', voice: true },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'KO', tip: 'Korean' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'ES-419', tip: 'Spanish (Latin America)' },
-            { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR', voice: true },
+            { value: 'DE', voice: true },
+            { value: 'IT' },
+            { value: 'KO' },
+            { value: 'ES-ES' },
+            { value: 'ES-419' },
+            { value: 'PT-BR' },
             { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
             { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
           ],
@@ -425,7 +425,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             ]
           ],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '92', midScore: '8.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-rebirth/', source: 'MP', url: 'https://www.metacritic.com/game/final-fantasy-vii-rebirth/', sourceUrl: 'https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/', sourceLabel: 'Steam; Mostly Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '92', url: 'https://www.metacritic.com/game/final-fantasy-vii-rebirth/' }, { kind: 'metacritic-user', score: '8.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-rebirth/' }, { kind: 'steam', score: 'MP', url: 'https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/' }] },
           storeUrl: 'https://www.square-enix.com/ffvii/en-us/games/rebirth/',
 
           platformGroups: [
@@ -440,9 +440,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               { key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-vii-rebirth/9np9f7wwkrp1' },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20rebirth%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20rebirth%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20rebirth%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy VII: rebirth' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy VII: rebirth' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy VII: rebirth' },
             ],
           ]
         },
@@ -461,15 +461,15 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ],
 
           languages: [
-            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-            { value: 'FR', tip: 'French — full audio', voice: true },
-            { value: 'DE', tip: 'German — full audio', voice: true },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'KO', tip: 'Korean' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'ES-419', tip: 'Spanish (Latin America)' },
-            { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR', voice: true },
+            { value: 'DE', voice: true },
+            { value: 'IT' },
+            { value: 'KO' },
+            { value: 'ES-ES' },
+            { value: 'ES-419' },
+            { value: 'PT-BR' },
             { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
             { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
           ],
@@ -495,9 +495,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             [{ key: 'playstation5', paren: 'Pro Enhanced; Digital', url: 'https://store.playstation.com/concept/10018084' }],
             [{ key: 'xbox-xs', url: 'https://www.xbox.com/games/store/final-fantasy-vii-revelation/9pf6cf5ctzs3' }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Revelation%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Revelation%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Revelation%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy VII: Revelation' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy VII: Revelation' },
+              { key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy VII: Revelation' },
             ],
           ]
         },
@@ -511,14 +511,14 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           'As originally told in one combined story. You can instead choose the modern remake trilogy above.',
           'Includes autosave and cloud saves, multiple optional cheats, and disabled random encounters. PC versions (Steam, GOG) have extensive unofficial modding support.'
         ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '92', midScore: '8.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-vii/', sourceUrl: 'https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII/', sourceLabel: 'Steam; Very Positive' },
+        rating: { scores: [{ kind: 'metacritic', score: '92', url: 'https://www.metacritic.com/game/final-fantasy-vii/' }, { kind: 'metacritic-user', score: '8.9', url: 'https://www.metacritic.com/game/final-fantasy-vii/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII/' }] },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-vii',
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'EN-US', tip: 'English (US)' },
-          { value: 'FR', tip: 'French' },
-          { value: 'DE', tip: 'German' },
-          { value: 'ES-ES', tip: 'Spanish (Spain)' },
+          { value: 'JA', native: true },
+          { value: 'EN-US' },
+          { value: 'FR' },
+          { value: 'DE' },
+          { value: 'ES-ES' },
         ],
         platformGroups: [
           [
@@ -539,9 +539,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-vii/bwkxqc5bl5r1' },
           ],
           [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%201997%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%201997%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%201997%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy VII 1997' },
+            { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy VII 1997' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy VII 1997' },
           ],
         ],
         alt: {
@@ -554,7 +554,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               description: [
                 'This edit adds auto-save, toggle battle encounters, and an optional stat-max cheat. Some may find the mobile controls hard to use.'
               ],
-              languages: [{ value: 'EN', tip: 'English' }, { value: 'FR', tip: 'French' }, { value: 'DE', tip: 'German' }, { value: 'ES-ES', tip: 'Spanish (Spain)' }],
+              languages: [{ value: 'EN' }, { value: 'FR' }, { value: 'DE' }, { value: 'ES-ES' }],
               storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-vii',
               platformGroups: [
                 [{ key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-vii/id1021566244' }],
@@ -567,7 +567,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                 { label: 'Final Fantasy VII', url: null, small: true },
               ],
               tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
-              languages: [{ value: 'JA', tip: 'Japanese — full audio', native: true, voice: true }, { value: 'EN', tip: 'English — full audio', voice: true }],
+              languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN', voice: true }],
               description: [[
                 { text: 'The ' },
                 { emText: 'Final Fantasy VII' },
@@ -576,17 +576,17 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                 { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you play another version, watch a fan story recap video, or a playthrough.' },
               ]],
               storeUrl: 'https://en.ffviiec.com/',
-              rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '4.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', sourceUrl: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', sourceLabel: 'Steam; Mixed' },
+              rating: { scores: [{ kind: 'metacritic', score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/' }, { kind: 'metacritic-user', score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/' }, { kind: 'steam', score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }] },
               platformGroups: [
-                [{ key: 'steam', name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
+                [{ key: 'steam', name: 'Steam (PC; Handheld); terminated', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
                 [
-                  { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffviiec' },
-                  { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1546223882' },
+                  { key: 'android2', name: 'Android; terminated', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffviiec' },
+                  { key: 'apple', name: 'iOS; terminated', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1546223882' },
                 ],
                 [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Final%20Fantasy%20VII%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Final%20Fantasy%20VII%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20Final%20Fantasy%20VII%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) Final Fantasy VII' },
+            { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) Final Fantasy VII' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) Final Fantasy VII' },
           ],
               ],
             },
@@ -602,15 +602,15 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               ],
 
               languages: [
-                { value: 'EN', tip: 'English' },
-                { value: 'FR', tip: 'French' },
-                { value: 'DE', tip: 'German' },
-                { value: 'ES-ES', tip: 'Spanish (Spain)' },
+                { value: 'EN' },
+                { value: 'FR' },
+                { value: 'DE' },
+                { value: 'ES-ES' },
               ],
 
               platformGroups: [
                 [{ key: 'windows', noUrl: true }],
-                [{ key: 'steam', name: 'Steam (PC); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/' }],
+                [{ key: 'steam', name: 'Steam (PC); terminated', terminated: true, url: 'https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/' }],
               ]
             },
             {
@@ -622,13 +622,13 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               }, '.'], 'Non-Japan releases saw streamlining of menu and Materia system, enemy health reductions, new world map visual cues, and an additional cutscene for Cloud.'],
 
               languages: [
-                { value: 'JA', tip: 'Japanese', native: true },
+                { value: 'JA', native: true },
                 { value: 'EN', tip: 'English (Official; Fan Translation) (ProjectXsent 2020; GreenGoblin 2021)' },
                 { value: 'ES', tip: 'Spanish (Fan Translation) (TraduccionesXT 2015)' },
                 { value: 'DE', tip: 'German (Fan Translation) (cebix 2014)' },
                 { value: 'IT', tip: 'Italian (Fan Translation) (SadNES cITy Translations 2011)' },
                 { value: 'ID', tip: 'Indonesian (Fan Translation) (Pi-Man 2021)' },
-                { value: '…?', tip: 'Unknown additional languages' },
+                { value: '…?' },
               ],
 
               helpWanted: true,
@@ -664,20 +664,20 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           }, ' and features Aerith and Tifa exchanging stories from their pasts.']],
 
           languages: [
-            { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/117984595-final-fantasy-vii-remake' },
+            { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/117984595-final-fantasy-vii-remake' },
             { value: 'EN', tip: 'English (official & fan translation)', url: 'https://www.goodreads.com/book/show/60556665-final-fantasy-vii-remake' },
-            { value: 'IT', tip: 'Italian', url: 'https://www.goodreads.com/book/show/212676648-final-fantasy-vii-remake' },
-            { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/121827638-final-fantasy-vii-remake---traces-of-two-pasts' },
+            { value: 'IT', url: 'https://www.goodreads.com/book/show/212676648-final-fantasy-vii-remake' },
+            { value: 'FR', url: 'https://www.goodreads.com/book/show/121827638-final-fantasy-vii-remake---traces-of-two-pasts' },
             { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/123275998-final-fantasy-vii-remake-huellas-de-dos-pasados-novela' },
           ],
 
-          rating: { scoreLabelText: 'Goodreads', score: '4.14', url: 'https://www.goodreads.com/book/show/60556665-final-fantasy-vii-remake', single: true, sourceLabel: 'Goodreads' },
+          rating: { scores: [{ kind: 'goodreads', score: '4.14', url: 'https://www.goodreads.com/book/show/60556665-final-fantasy-vii-remake' }] },
           length: '406p; H',
           storeUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091775',
 
           platformGroups: [
             [{ key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091775' }],
-            [            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20Remake%3A%20Traces%20of%20Two%20Pasts%20story%20recap' },          ],
+            [            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy VII Remake: Traces of Two Pasts' },          ],
           ]
         },
         {
@@ -699,14 +699,14 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             emText: 'Remake'
           }, '.']],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/252507206-final-fantasy-vii-rebirth' }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/254945294-final-fantasy-vii-rebirth' }],
-          rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/254945294-final-fantasy-vii-rebirth', single: true, sourceLabel: 'Goodreads' },
+          languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/252507206-final-fantasy-vii-rebirth' }, { value: 'EN', url: 'https://www.goodreads.com/book/show/254945294-final-fantasy-vii-rebirth' }],
+          rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/254945294-final-fantasy-vii-rebirth' }] },
           storeUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100826',
 
           platformGroups: [
             [{ key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100826' },
               { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20VII%20Rebirth%3A%20Dear%20Destiny%20translate' }],
-            [            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20Rebirth%3A%20Dear%20Destiny%20story%20recap' },          ],
+            [            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy VII Rebirth: Dear Destiny' },          ],
           ]
         },
         {
@@ -730,8 +730,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             ' game. Divided into seven chapters, it follows Aerith as she encounters other spirits in the Lifestream, including Jessie, Biggs, Wedge, Dyne, President Shinra, Professor Hojo, and Zack Fair.'
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/60295273-the-maiden-who-travels-the-planet' }, { value: 'EN', tip: 'English (fan translation)', url: 'https://www.goodreads.com/book/show/18139055-the-maiden-who-travels-the-planet' }, { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/51949522-the-maiden-who-travels-the-planet' }],
-          rating: { scoreLabelText: 'Goodreads', score: '3.93', url: 'https://www.goodreads.com/book/show/18139055-the-maiden-who-travels-the-planet', single: true, sourceLabel: 'Goodreads' },
+          languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/60295273-the-maiden-who-travels-the-planet' }, { value: 'EN', tip: 'English (fan translation)', url: 'https://www.goodreads.com/book/show/18139055-the-maiden-who-travels-the-planet' }, { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/51949522-the-maiden-who-travels-the-planet' }],
+          rating: { scores: [{ kind: 'goodreads', score: '3.93', url: 'https://www.goodreads.com/book/show/18139055-the-maiden-who-travels-the-planet' }] },
           length: '45p;P',
           storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome',
 
@@ -739,7 +739,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             [{ key: 'book', name: 'Novella (Japan only)', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome' },
               { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#External_links' },
               { key: 'fan-audiobook', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#External_links' }],
-            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20The%20Maiden%20Who%20Travels%20The%20Planet)%20story%20recap' },
+            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy VII The Maiden Who Travels The Planet)' },
               { key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#Story' }],
           ]
         },
@@ -763,15 +763,15 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           }, ' compiled into an omnibus collection book.']],
 
           languages: [
-            { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/38644528-final-fantasy-vii' },
-            { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/12386746-final-fantasy-vii' },
-            { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/21561622-on-the-way-to-a-smile---final-fantasy-vii' },
-            { value: 'IT', tip: 'Italian', url: 'https://www.goodreads.com/book/show/53402992-final-fantasy-vii' },
-            { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/22008910-final-fantasy-vii' },
+            { value: 'EN', url: 'https://www.goodreads.com/book/show/38644528-final-fantasy-vii' },
+            { value: 'DE', url: 'https://www.goodreads.com/book/show/12386746-final-fantasy-vii' },
+            { value: 'FR', url: 'https://www.goodreads.com/book/show/21561622-on-the-way-to-a-smile---final-fantasy-vii' },
+            { value: 'IT', url: 'https://www.goodreads.com/book/show/53402992-final-fantasy-vii' },
+            { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/22008910-final-fantasy-vii' },
             { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/50923178-final-fantasy-vii' },
           ],
 
-          rating: { scoreLabelText: 'Goodreads', score: '3.94', url: 'https://www.goodreads.com/book/show/38644528-final-fantasy-vii', single: true, sourceLabel: 'Goodreads' },
+          rating: { scores: [{ kind: 'goodreads', score: '3.94', url: 'https://www.goodreads.com/book/show/38644528-final-fantasy-vii' }] },
           length: '204p; P',
           storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_On_the_Way_to_a_Smile',
 
@@ -779,7 +779,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             [{ key: 'book', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_On_the_Way_to_a_Smile' },
               { key: 'fan-translation', url: 'https://thelifestream.net/novels-novellas/' },
               { key: 'fan-audiobook', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20On%20the%20Way%20to%20a%20Smile%20audiobook' }],
-            [            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20On%20the%20Way%20to%20a%20Smile%20story%20recap' },          ],
+            [            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy VII On the Way to a Smile' },          ],
           ],
 
           alt: {
@@ -799,7 +799,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               emText: 'Advent Children Complete (2009)'
             }, '.']],
 
-            languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+            languages: [{ value: 'JA', native: true }],
 
             platformGroups: [
               [
@@ -807,7 +807,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                 { key: 'blu-ray', noUrl: true },
               ],
               [
-              { key: 'fan-movie', name: 'YouTube (unofficial; no results yet)', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20vii%20Episode%20Denzel%20anime' },
+              { key: 'fan-movie', name: 'YouTube (unofficial; no results yet)', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy vii Episode Denzel anime', ytSuffix: '' },
             ],
             ]
           }
@@ -830,20 +830,20 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           }]],
 
           languages: [
-            { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/40223502-final-fantasy-vii' },
-            { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/13083648-final-fantasy-vii-lateral-biography' },
+            { value: 'EN', url: 'https://www.goodreads.com/book/show/40223502-final-fantasy-vii' },
+            { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/13083648-final-fantasy-vii-lateral-biography' },
             { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/195007574-final-fantasy-vii-turks' },
-            { value: 'DE', tip: 'German', url: 'https://www.goodreads.com/book/show/60458824-final-fantasy-vii' },
+            { value: 'DE', url: 'https://www.goodreads.com/book/show/60458824-final-fantasy-vii' },
           ],
 
-          rating: { scoreLabelText: 'Goodreads', score: '3.96', url: 'https://www.goodreads.com/book/show/40223502-final-fantasy-vii', single: true, sourceLabel: 'Goodreads' },
+          rating: { scores: [{ kind: 'goodreads', score: '3.96', url: 'https://www.goodreads.com/book/show/40223502-final-fantasy-vii' }] },
           length: '228p; P',
           storeUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_Kids_Are_Alright:_A_Turks_Side_Story',
 
           platformGroups: [
             [{ key: 'book', name: 'Novel', url: 'https://yenpress.com/titles/9781975382360-final-fantasy-vii-the-kids-are-alright-a-turks-side-story' },
               { key: 'fan-translation', url: 'https://thelifestream.net/lifestream-projects/translations/31877/tls-pesents-lateral-biography-turks-the-kids-are-alright-part-1/' }],
-            [            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20The%20Kids%20Are%20Alright%3A%20A%20Turks%20Side%20Story%20story%20recap' },
+            [            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy VII: The Kids Are Alright: A Turks Side Story' },
               { key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_Kids_Are_Alright:_A_Turks_Side_Story' },          ],
           ]
         },
@@ -861,7 +861,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             { label: 'Complete (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#Final_Fantasy_VII:_Advent_Children_Complete', small: true },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           description: [[
@@ -873,7 +873,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             { text: ' (extra 26 minutes) with higher visual quality and many scene and some story revisions.' },
           ]],
 
-          rating: { scoreLabelText: 'IMDb', midLabelText: 'Metacritic', score: '7.5', url: 'https://www.imdb.com/title/tt20913494/', midScore: '88', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-advent-children/', source: '7.5', sourceUrl: 'https://www.metacritic.com/game/final-fantasy-vii-advent-children/', sourceLabel: 'Metacritic User Score' },
+          rating: { scores: [{ kind: 'imdb', score: '7.4', url: 'https://www.imdb.com/title/tt20913494/' }, { kind: 'metacritic', score: '88', url: 'https://www.metacritic.com/game/final-fantasy-vii-advent-children/' }, { kind: 'metacritic-user', score: '7.5', url: 'https://www.metacritic.com/game/final-fantasy-vii-advent-children/' }] },
 
           platformGroups: [
             [
@@ -881,8 +881,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               { key: 'blu-ray', noUrl: true },
             ],
             [
-              { key: 'fan-movie', name: 'YouTube (unofficial)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VII%20advent%20children%20complete' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VII%20advent%20children%20complete%20story%20recap' },
+              { key: 'fan-movie', name: 'YouTube (unofficial)', ytSearch: true, ytTitle: 'final fantasy VII advent children complete', ytSuffix: '' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy VII advent children complete' },
             ],
           ],
 
@@ -897,10 +897,10 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             }, '.']],
 
             languages: [
-              { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children' },
+              { value: 'EN', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children' },
             ],
 
-            rating: { scoreLabelText: 'Goodreads', score: '3.67', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children', single: true, sourceLabel: 'Goodreads' },
+            rating: { scores: [{ kind: 'goodreads', score: '3.67', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children' }] },
             length: '71p; P',
             storeUrl: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children',
 
@@ -916,7 +916,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                   { label: 'Advent Children', url: null, small: true },
                 ],
                 tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
-                languages: [{ value: 'JA', tip: 'Japanese — full audio', native: true, voice: true }, { value: 'EN', tip: 'English — full audio', voice: true }],
+                languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN', voice: true }],
                 description: [[
                   { text: 'This was the only way to experience the movie as a game. The ' },
                   { emText: 'Advent Children' },
@@ -925,17 +925,17 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                   { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you watch the movie, a fan story recap video or a playthrough.' },
                 ]],
                 storeUrl: 'https://en.ffviiec.com/',
-                rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '4.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', sourceUrl: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', sourceLabel: 'Steam; Mixed' },
+                rating: { scores: [{ kind: 'metacritic', score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/' }, { kind: 'metacritic-user', score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/' }, { kind: 'steam', score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }] },
                 platformGroups: [
                   [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20advent%20children%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20advent%20children%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20advent%20children%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) advent children' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) advent children' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) advent children' },
             ],
-                  [{ key: 'steam', name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
+                  [{ key: 'steam', name: 'Steam (PC; Handheld); terminated', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
                   [
-                    { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-                    { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+                    { key: 'android2', name: 'Android; terminated', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+                    { key: 'apple', name: 'iOS; terminated', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
                   ],
                 ],
               },
@@ -968,7 +968,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             { label: 'International (2006)', url: 'https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantasy_VII-#Version_differences', small: true },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           description: [['Three years after ', {
@@ -979,7 +979,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             { text: '.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '57', midScore: '6.7', midUrl: 'https://www.metacritic.com/game/dirge-of-cerberus-final-fantasy-vii/', url: 'https://www.metacritic.com/game/dirge-of-cerberus-final-fantasy-vii/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '57', url: 'https://www.metacritic.com/game/dirge-of-cerberus-final-fantasy-vii/' }, { kind: 'metacritic-user', score: '6.7', url: 'https://www.metacritic.com/game/dirge-of-cerberus-final-fantasy-vii/' }] },
 
           platformGroups: [
             [
@@ -987,9 +987,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               { key: 'playstation3', paren: 'PS2 compatibility', noUrl: true },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Final%20Fantasy%20VII%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Final%20Fantasy%20VII%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Final%20Fantasy%20VII%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Dirge of Cerberus Final Fantasy VII' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Dirge of Cerberus Final Fantasy VII' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Dirge of Cerberus Final Fantasy VII' },
             ],
           ],
 
@@ -1001,7 +1001,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                   { label: 'Dirge of Cerberus', url: null, small: true },
                 ],
                 tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
-                languages: [{ value: 'JA', tip: 'Japanese — full audio', native: true, voice: true }, { value: 'EN', tip: 'English — full audio', voice: true }],
+                languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN', voice: true }],
                 description: [[
                   { text: 'This was the only way to experience it as an RPG instead of a shooter. The ' },
                   { emText: 'Dirge of Cerberus' },
@@ -1012,17 +1012,17 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                   { text: '. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.' },
                 ]],
                 storeUrl: 'https://en.ffviiec.com/',
-                rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '4.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', sourceUrl: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', sourceLabel: 'Steam; Mixed' },
+                rating: { scores: [{ kind: 'metacritic', score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/' }, { kind: 'metacritic-user', score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/' }, { kind: 'steam', score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }] },
                 platformGroups: [
                   [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
             ],
-                  [{ key: 'steam', name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
+                  [{ key: 'steam', name: 'Steam (PC; Handheld); terminated', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
                   [
-                    { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-                    { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+                    { key: 'android2', name: 'Android; terminated', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+                    { key: 'apple', name: 'iOS; terminated', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
                   ],
                 ],
               },
@@ -1031,7 +1031,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                   { label: 'Dirge of Cerberus: Final Fantasy VII (2006)', url: 'https://en.wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII' },
                 ],
                 description: ['The original release.'],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+                languages: [{ value: 'JA', native: true }],
                 platformGroups: [
                   [
                     { key: 'playstation2', paren: 'Japan Only', noUrl: true, jpTag: true },
@@ -1054,7 +1054,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             { label: 'Dirge of Cerberus Lost Episode: Final Fantasy VII (2006)', url: 'https://en.wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII#Mobile_phone_games' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           description: [['An extra story taking place between events in ', {
@@ -1063,11 +1063,11 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
 
           platformGroups: [
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Lost%20Episode%3A%20Final%20Fantasy%20VII%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Lost%20Episode%3A%20Final%20Fantasy%20VII%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Dirge%20of%20Cerberus%20Lost%20Episode%3A%20Final%20Fantasy%20VII%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Dirge of Cerberus Lost Episode: Final Fantasy VII' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Dirge of Cerberus Lost Episode: Final Fantasy VII' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Dirge of Cerberus Lost Episode: Final Fantasy VII' },
             ],
-            [{ key: 'mobile-phone', name: 'Mobile Phones; terminated', noUrl: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+            [{ key: 'mobile-phone', name: 'Mobile Phones; terminated', noUrl: true, terminated: true }],
           ],
 
           alt: {
@@ -1078,7 +1078,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                   { label: 'Dirge of Cerberus', url: null, small: true },
                 ],
                 tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
-                languages: [{ value: 'JA', tip: 'Japanese — full audio', native: true, voice: true }, { value: 'EN', tip: 'English — full audio', voice: true }],
+                languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN', voice: true }],
                 description: [[
                   { text: 'This was the only way to experience it as an RPG instead of a shooter. The ' },
                   { emText: 'Dirge of Cerberus' },
@@ -1089,17 +1089,17 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
                   { text: '. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.' },
                 ]],
                 storeUrl: 'https://en.ffviiec.com/',
-                rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '66', midScore: '4.8', midUrl: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', sourceUrl: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', sourceLabel: 'Steam; Mixed' },
+                rating: { scores: [{ kind: 'metacritic', score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/' }, { kind: 'metacritic-user', score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/' }, { kind: 'steam', score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }] },
                 platformGroups: [
                   [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%3A%20Ever%20Crisis%20(2023)%20dirge%20of%20cerberus%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
             ],
-                  [{ key: 'steam', name: 'Steam (PC; Handheld); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
+                  [{ key: 'steam', name: 'Steam (PC; Handheld); terminated', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' }],
                   [
-                    { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-                    { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+                    { key: 'android2', name: 'Android; terminated', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+                    { key: 'apple', name: 'iOS; terminated', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
                   ],
                 ],
               },
@@ -1118,7 +1118,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             { label: 'Final Fantasy VII: Snowboarding (2005)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_Snowboarding' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           description: [
@@ -1131,8 +1131,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ],
 
           platformGroups: [
-            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20Snowboarding%20mobile%20playthrough' }],
-            [{ key: 'mobile-phone', name: 'Mobile Phones; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy VII: Snowboarding mobile' }],
+            [{ key: 'mobile-phone', name: 'Mobile Phones; terminated', terminated: true, noUrl: true }],
           ]
         },
         {
@@ -1147,7 +1147,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             { label: 'Final Fantasy VII G-Bike (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII_G-Bike' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           description: [[
             { text: 'Motorcycle racing game with role-playing elements inspired by a similar minigame in ' },
@@ -1157,10 +1157,10 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
 
           platformGroups: [
             [
-              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, noUrl: true },
+              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, noUrl: true },
             ],
-            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20G-Bike%20playthrough' }],
+            [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy VII G-Bike' }],
           ]
         },
       ]};

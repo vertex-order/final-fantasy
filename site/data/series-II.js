@@ -17,18 +17,18 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
           storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
 
           languages: [
-            { value: 'JA', tip: 'Japanese', native: true },
-            { value: 'EN-US', tip: 'English (US)' },
-            { value: 'FR', tip: 'French' },
-            { value: 'DE', tip: 'German' },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'KO', tip: 'Korean' },
-            { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
-            { value: 'RU', tip: 'Russian' },
-            { value: 'ZH-CN', tip: 'Simplified Chinese' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'TH', tip: 'Thai' },
-            { value: 'ZH-TW', tip: 'Traditional Chinese' },
+            { value: 'JA', native: true },
+            { value: 'EN-US' },
+            { value: 'FR' },
+            { value: 'DE' },
+            { value: 'IT' },
+            { value: 'KO' },
+            { value: 'PT-BR' },
+            { value: 'RU' },
+            { value: 'ZH-CN' },
+            { value: 'ES-ES' },
+            { value: 'TH' },
+            { value: 'ZH-TW' },
           ],
 
           description: [
@@ -45,7 +45,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             ]
           ],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '77', midScore: '6.4', midUrl: 'https://www.metacritic.com/game/final-fantasy-ii/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-ii-pixel-remaster/', sourceUrl: 'https://store.steampowered.com/app/1173780/FINAL_FANTASY_II/', sourceLabel: 'Steam; Very Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '77', url: 'https://www.metacritic.com/game/final-fantasy-ii-pixel-remaster/' }, { kind: 'metacritic-user', score: '6.4', url: 'https://www.metacritic.com/game/final-fantasy-ii/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/1173780/FINAL_FANTASY_II/' }] },
 
           platformGroups: [
             [{ key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-ii/9p8s1mn4066k?' }],
@@ -62,9 +62,9 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-ii/9p8s1mn4066k?' }],
             [{ key: 'amazon', url: 'https://www.amazon.com/dp/B09959P64G?' }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20II%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20II%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20II%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy II' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy II' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy II' },
             ],
           ],
 
@@ -83,10 +83,10 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
                   { text: ' bonus campaign.' },
                 ]],
                 lengthParts: [{ value: '5h', tip: 'Soul of Rebirth Main Story', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Soul of Rebirth Main + Extra', sep: true, sepChar: ' / ' }, { value: '7½h', tip: 'Soul of Rebirth Completionist' }],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 platformGroups: [
-                  [{ key: 'android2', name: 'Android (Digital); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+                  [{ key: 'android2', name: 'Android (Digital); terminated', terminated: true }],
                 ],
               },
               {
@@ -102,9 +102,9 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
                   { text: ' bonus campaign.' },
                 ]],
                 helpWanted: true,
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 platformGroups: [
-                  [{ key: 'apple', name: 'iOS (Digital); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+                  [{ key: 'apple', name: 'iOS (Digital); terminated', terminated: true }],
                   [{ key: 'playstation-portable', name: 'PlayStation Portable (Physical)' }],
                 ],
               },
@@ -120,9 +120,9 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
                   { emText: 'Final Fantasy Mobile (2005)' },
                   { text: '.' },
                 ]],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+                languages: [{ value: 'JA', native: true }],
                 platformGroups: [
-                  [{ key: 'mobile-phone', name: 'Mobile Phones (Digital; Japan Only); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+                  [{ key: 'mobile-phone', name: 'Mobile Phones (Digital; Japan Only); terminated', jpTag: true, terminated: true }],
                 ],
               },
               {
@@ -138,9 +138,9 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
                   { text: ' bonus campaign.' },
                 ]],
                 helpWanted: true,
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 platformGroups: [
-                  [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                  [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true }],
                   [{ key: 'nintendo-game-boy-advance', paren: 'Physical' }],
                 ],
               },
@@ -155,7 +155,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
                   { text: '.' },
                 ]],
                 helpWanted: true,
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 platformGroups: [
                   [{ key: 'playstation3', paren: 'Digital' }],
                   [{ key: 'playstation2', paren: 'PSone compatibility' }],
@@ -172,7 +172,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
                 description: [
                   'This remaster overhauls visuals and sound, and adds new cutscenes, auto-targeting, a dash button, and quicksave.'
                 ],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (Fan Translation) (RPGONE 2002)' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN', tip: 'English (Fan Translation) (RPGONE 2002)' }],
                 platformGroups: [
                   [{ key: 'wonderswan', paren: 'Physical; Japan Only' }],
                 ],
@@ -182,7 +182,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
                   { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
                 ],
                 languages: [
-                  { value: 'JA', tip: 'Japanese', native: true },
+                  { value: 'JA', native: true },
                   { value: 'EN', tip: 'English (Fan Translation) (Demiforce 1998; Chaos Rush 2020)' },
                   { value: 'ES', tip: 'Spanish (Fan Translation) (Butz Klauser 2005)' },
                   { value: 'FR', tip: 'French (Fan Translation) (Terminus Traduction 2003)' },
@@ -198,10 +198,10 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
                   { text: '.' },
                 ]],
                 platformGroups: [
-                  [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
-                  [{ key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                  [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true }],
+                  [{ key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true }],
                   [{ key: 'nintendo-fc', paren: 'Physical; Japan Only' }],
-                  [{ key: 'nintendo-3ds', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                  [{ key: 'nintendo-3ds', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true }],
                 ],
               },
             ],
@@ -212,8 +212,8 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
           { label: "Final Fantasy II Nightmare's Labyrinth (1989)", url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB' },
           { label: 'Book', url: null, small: true },
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', url: 'https://www.goodreads.com/book/show/77954969' }, { value: 'EN', tip: 'English (fan translation)' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77954969', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', url: 'https://www.goodreads.com/book/show/77954969' }, { value: 'EN', tip: 'English (fan translation)' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77954969' }] },
         description: [[
           { text: 'Novelization of ' },
           { emText: 'II (1988)' },
@@ -224,29 +224,29 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Muma%20no%20Meiky%C5%AB%20Nightmare%27s%20Labyrinth%20translation&t=h_' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20II%20Muma%20no%20Meiky%C5%AB%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II Muma no Meikyū' }],
         ] },
         { title: 'Final Fantasy II: Dragon Treasures', releaseDate: '1988-12', chronoOrder: 620, recommendedOrder: 410, tags: ['Optional', 'Alternate Universe', 'Gamebook'], mediaType: 'Book', length: '283p',
         parts: [
           { label: 'Final Fantasy II: Dragon Treasures (1988)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Hih%C5%8D_no_Dragon' },
           { label: 'Book', url: null, small: true },
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/102713430' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/102713430', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/102713430' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/102713430' }] },
         description: [
           'A gamebook set in the world of Final Fantasy II. Centers on Princess Marie of Fynn, an original character combining traits of Maria and Hilda, alongside Firion, Guy, and Minwu. Released as ファイナルファンタジーII 秘宝のドラゴン (Final Fantasy II Hihō no Dragon).'
         ],
         platformGroups: [
           [{ key: 'book', name: 'Gamebook (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Hih%C5%8D%20no%20Dragon%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20II%3A%20Dragon%20Treasures%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II: Dragon Treasures' }],
         ] },
         { title: 'Final Fantasy II: Journey to Victory', releaseDate: '1988', chronoOrder: 630, recommendedOrder: 415, tags: ['Optional', 'Side-story', 'Gamebook'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy II: Journey to Victory (1988)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi' },
           { label: 'Book', url: null, small: true },
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+        languages: [{ value: 'JA', native: true }],
         description: [[
           { text: 'A gamebook telling a side story set during the events of ' },
           { emText: 'II (1988)' },
@@ -256,14 +256,14 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Gamebook (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Sh%C5%8Dri%20e%20no%20Tabidachi%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20II%3A%20Journey%20to%20Victory%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II: Journey to Victory' }],
         ] },
         { title: 'Final Fantasy II ~Manga~ (1988)', releaseDate: '1989-12', chronoOrder: 600, recommendedOrder: 400, tags: ['Optional', 'Alternate Universe', 'Manga', 'Incomplete'], mediaType: 'Comic', length: '~60p',
         parts: [
           { label: 'Final Fantasy II ~Manga~ (1988)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)#Behind_the_scenes' },
           { label: 'Comic', url: null, small: true },
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+        languages: [{ value: 'JA', native: true }],
         helpWanted: true,
         description: [[
           { text: 'Adaptation of ' },
@@ -273,7 +273,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20manga%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20II%20manga%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II manga' }],
         ] },
         { title: 'Final Fantasy I・II・III: Memory of Heroes ~II~ (2012)', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
         parts: [
@@ -281,8 +281,8 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
           { label: 'Book', url: null, small: true },
         ],
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },
+          { value: 'JA', native: true },
+          { value: 'EN', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },
           { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/63253999-final-fantasy-i-ii-iii' },
         ],
         length: '224p; P',
@@ -291,10 +291,10 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
           { emText: 'Final Fantasy ~Memory of Heroes~' },
           { text: '.' },
         ]],
-        rating: { scoreLabelText: 'Goodreads', score: '3.24', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: '3.24', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories', noUrl: true }],
-        [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20story%20recap' }],
+        [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy I・II・III: Memory of Heroes' }],
         [{ key: 'fan-audiobook', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20audiobook' }],
         ] },
       ]};

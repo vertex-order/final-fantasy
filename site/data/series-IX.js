@@ -5,19 +5,19 @@ window.__ffSeriesReg['IX'] = { num: 'IX', releaseDate: '2000-07-07', chronoOrder
           { label: 'Remaster (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IX#Release', small: true },
         ],
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'EN-GB', tip: 'English (British)' },
-          { value: 'FR', tip: 'French' },
-          { value: 'DE', tip: 'German' },
-          { value: 'IT', tip: 'Italian' },
-          { value: 'ES-ES', tip: 'Spanish (Spain)' },
+          { value: 'JA', native: true },
+          { value: 'EN-GB' },
+          { value: 'FR' },
+          { value: 'DE' },
+          { value: 'IT' },
+          { value: 'ES-ES' },
           { value: 'EN-US', tip: 'English (American)' },
         ],
         description: [
           'Zidane kidnaps princess Garnet as part of a ploy between nations at war in this medieval setting.',
           'This remaster has high-definition movies and character models, autosave, achievements, multiple optional cheats, and a no-encounters mode. Switch and Xbox versions have slower load times, and Switch handheld mode runs at a lower resolution with occasional crashes.'
         ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '94', midScore: '8.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-ix/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-ix/', sourceUrl: 'https://store.steampowered.com/app/377840/FINAL_FANTASY_IX/', sourceLabel: 'Steam; Very Positive' },
+        rating: { scores: [{ kind: 'metacritic', score: '94', url: 'https://www.metacritic.com/game/final-fantasy-ix/' }, { kind: 'metacritic-user', score: '8.9', url: 'https://www.metacritic.com/game/final-fantasy-ix/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/377840/FINAL_FANTASY_IX/' }] },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-ix',
         platformGroups: [
           [{ key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-ix/9npgtnqfc8b5' }],
@@ -36,9 +36,9 @@ window.__ffSeriesReg['IX'] = { num: 'IX', releaseDate: '2000-07-07', chronoOrder
             { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-ix/9npgtnqfc8b5' },
           ],
           [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IX%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IX%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IX%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy IX' },
+            { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy IX' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy IX' },
           ],
         ],
         alt: {
@@ -47,7 +47,7 @@ window.__ffSeriesReg['IX'] = { num: 'IX', releaseDate: '2000-07-07', chronoOrder
               label: 'Final Fantasy IX (2000)',
               url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IX',
               description: ['The original release.'],
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+              languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
               helpWanted: true,
               platformGroups: [
                 [
@@ -71,11 +71,11 @@ window.__ffSeriesReg['IX'] = { num: 'IX', releaseDate: '2000-07-07', chronoOrder
           { emText: 'Picture Books' },
           { text: ' series.' },
         ]],
-        rating: { scoreLabelText: 'Goodreads', score: '4.45', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book', single: true, sourceLabel: 'Goodreads' },
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book' }, { value: '…?', tip: 'Unknown additional languages' }],
+        rating: { scores: [{ kind: 'goodreads', score: '4.45', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book' }] },
+        languages: [{ value: 'JA', native: true }, { value: 'EN', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book' }, { value: '…?' }],
         helpWanted: true,
         platformGroups: [
           [{ key: 'book', name: 'Picture Book', noUrl: true }],
-        [{ key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IX%20Picture%20Book%3A%20Vivi%20and%20Grandpa%27s%20Memories%20for%20the%20Sky%20reading' }],
+        [{ key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy IX Picture Book: Vivi and Grandpa\'s Memories for the Sky reading', ytSuffix: '' }],
         ] },
       ]};

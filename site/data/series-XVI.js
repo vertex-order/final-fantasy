@@ -9,22 +9,22 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrd
           'On Xbox, you cannot change your party\'s appearance.'
         ],
         storeUrl: 'https://www.finalfantasyxvi.com/',
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '87', midScore: '8.3', midUrl: 'https://www.metacritic.com/game/final-fantasy-xvi/', source: 'MP', url: 'https://www.metacritic.com/game/final-fantasy-xvi/', sourceUrl: 'https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/', sourceLabel: 'Steam; Mostly Positive' },
+        rating: { scores: [{ kind: 'metacritic', score: '87', url: 'https://www.metacritic.com/game/final-fantasy-xvi/' }, { kind: 'metacritic-user', score: '8.3', url: 'https://www.metacritic.com/game/final-fantasy-xvi/' }, { kind: 'steam', score: 'MP', url: 'https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/' }] },
         languages: [
-          { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-          { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-          { value: 'FR', tip: 'French — full audio', voice: true },
-          { value: 'IT', tip: 'Italian — full audio', voice: true },
-          { value: 'DE', tip: 'German — full audio', voice: true },
-          { value: 'ES-419', tip: 'Spanish (Latin America) — full audio', voice: true },
-          { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
-          { value: 'AR', tip: 'Arabic — text only' },
-          { value: 'PT-BR', tip: 'Portuguese (Brazil) — text only' },
-          { value: 'PL', tip: 'Polish — text only' },
-          { value: 'RU', tip: 'Russian — text only' },
-          { value: 'ZH-CN', tip: 'Simplified Chinese — text only' },
-          { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
-          { value: 'KO', tip: 'Korean — text only' },
+          { value: 'JA', native: true, voice: true },
+          { value: 'EN-US', voice: true },
+          { value: 'FR', voice: true },
+          { value: 'IT', voice: true },
+          { value: 'DE', voice: true },
+          { value: 'ES-419', voice: true },
+          { value: 'ES-ES', textOnly: true },
+          { value: 'AR', textOnly: true },
+          { value: 'PT-BR', textOnly: true },
+          { value: 'PL', textOnly: true },
+          { value: 'RU', textOnly: true },
+          { value: 'ZH-CN', textOnly: true },
+          { value: 'ZH-TW', textOnly: true },
+          { value: 'KO', textOnly: true },
         ],
         storeUrl: 'https://na.finalfantasyxvi.com/',
         platformGroups: [
@@ -36,9 +36,9 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrd
           [{ key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xvi-complete-edition/9nvns5fp3px5' }],
           [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-xvi-complete-edition/9nvns5fp3px5' }],
           [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XVI%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XVI%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XVI%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy XVI' },
+            { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy XVI' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy XVI' },
           ],
         ] },
         { title: 'Echoes of the Fallen', releaseDate: '2023-12-07', chronoOrder: 1000, recommendedOrder: 110, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '3h', tip: 'Completionist' }],
@@ -49,7 +49,7 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrd
         description: [
           'Strange, dark crystals begin to circulate on the black market. Clive follows their trail to a long-abandoned Fallen tower known as the Sagespire and the terrible secrets that await within...'
         ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '76', midScore: '6.9', midUrl: 'https://www.metacritic.com/game/final-fantasy-xvi-echoes-of-the-fallen/', source: 'MP', url: 'https://www.metacritic.com/game/final-fantasy-xvi-echoes-of-the-fallen/', sourceUrl: 'https://store.steampowered.com/app/2744050/FINAL_FANTASY_XVI_Echoes_of_the_Fallen/', sourceLabel: 'Steam; Mostly Positive' },
+        rating: { scores: [{ kind: 'metacritic', score: '76', url: 'https://www.metacritic.com/game/final-fantasy-xvi-echoes-of-the-fallen/' }, { kind: 'metacritic-user', score: '6.9', url: 'https://www.metacritic.com/game/final-fantasy-xvi-echoes-of-the-fallen/' }, { kind: 'steam', score: 'MP', url: 'https://store.steampowered.com/app/2744050/FINAL_FANTASY_XVI_Echoes_of_the_Fallen/' }] },
         storeUrl: 'https://na.finalfantasyxvi.com/',
         platformGroups: [
           [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/dlc/2515020/FINAL_FANTASY_XVI/' }],
@@ -58,9 +58,9 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrd
           [{ key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xvi-expansion-pass/9ntvvj28skn2' }],
           [{ key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xvi-expansion-pass/9ntvvj28skn2' }],
           [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XVI%20Echoes%20of%20the%20Fallen%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XVI%20Echoes%20of%20the%20Fallen%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XVI%20Echoes%20of%20the%20Fallen%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy XVI Echoes of the Fallen' },
+            { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy XVI Echoes of the Fallen' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy XVI Echoes of the Fallen' },
           ],
         ] },
         { title: 'The Rising Tide', releaseDate: '2024-04-18', chronoOrder: 2000, recommendedOrder: 120, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '4h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '9½h', tip: 'Completionist' }],
@@ -71,7 +71,7 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrd
         description: [
           'Clive receives a strange request; the Dominant of Leviathan, long lost Eikon of Water, is in need of rescue. Travel to Mysidia —a hidden land— and uncover the tragic history of a forgotten people.'
         ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '78', midScore: '7.2', midUrl: 'https://www.metacritic.com/game/final-fantasy-xvi-the-rising-tide/', source: 'Mixed', url: 'https://www.metacritic.com/game/final-fantasy-xvi-the-rising-tide/', sourceUrl: 'https://store.steampowered.com/app/2744060/FINAL_FANTASY_XVI_The_Rising_Tide/?curator_clanid=45155195', sourceLabel: 'Steam; Mixed' },
+        rating: { scores: [{ kind: 'metacritic', score: '78', url: 'https://www.metacritic.com/game/final-fantasy-xvi-the-rising-tide/' }, { kind: 'metacritic-user', score: '7.2', url: 'https://www.metacritic.com/game/final-fantasy-xvi-the-rising-tide/' }, { kind: 'steam', score: 'Mixed', url: 'https://store.steampowered.com/app/2744060/FINAL_FANTASY_XVI_The_Rising_Tide/?curator_clanid=45155195' }] },
         storeUrl: 'https://na.finalfantasyxvi.com/',
         platformGroups: [
           [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/dlc/2515020/FINAL_FANTASY_XVI/' }],
@@ -80,9 +80,9 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrd
           [{ key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xvi-expansion-pass/9ntvvj28skn2' }],
           [{ key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xvi-expansion-pass/9ntvvj28skn2' }],
           [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XVI%20The%20Rising%20Tide%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XVI%20The%20Rising%20Tide%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XVI%20The%20Rising%20Tide%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy XVI The Rising Tide' },
+            { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy XVI The Rising Tide' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy XVI The Rising Tide' },
           ],
         ] },
       ]};

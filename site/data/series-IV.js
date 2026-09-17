@@ -17,18 +17,18 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           lengthParts: [{ value: '20h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '23h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '26h', tip: 'Completionist' }],
 
           languages: [
-            { value: 'JA', tip: 'Japanese', native: true },
-            { value: 'EN-US', tip: 'English (US)' },
-            { value: 'FR', tip: 'French' },
-            { value: 'DE', tip: 'German' },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'KO', tip: 'Korean' },
-            { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
-            { value: 'RU', tip: 'Russian' },
-            { value: 'ZH-CN', tip: 'Simplified Chinese' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'TH', tip: 'Thai' },
-            { value: 'ZH-TW', tip: 'Traditional Chinese' },
+            { value: 'JA', native: true },
+            { value: 'EN-US' },
+            { value: 'FR' },
+            { value: 'DE' },
+            { value: 'IT' },
+            { value: 'KO' },
+            { value: 'PT-BR' },
+            { value: 'RU' },
+            { value: 'ZH-CN' },
+            { value: 'ES-ES' },
+            { value: 'TH' },
+            { value: 'ZH-TW' },
           ],
 
           parts: [
@@ -54,7 +54,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             ]
           ],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '8.1', midUrl: 'https://www.metacritic.com/game/final-fantasy-iv-pixel-remaster/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-iv/', sourceUrl: 'https://store.steampowered.com/app/1173800/FINAL_FANTASY_IV/', sourceLabel: 'Steam; Very Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '85', url: 'https://www.metacritic.com/game/final-fantasy-iv/' }, { kind: 'metacritic-user', score: '8.1', url: 'https://www.metacritic.com/game/final-fantasy-iv-pixel-remaster/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/1173800/FINAL_FANTASY_IV/' }] },
 
           platformGroups: [
             [{ key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' }],
@@ -71,9 +71,9 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' }],
             [{ key: 'amazon', url: 'https://www.amazon.com/dp/B09D2Y1CHH?' }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20IV%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy IV' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy IV' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy IV' },
             ],
           ],
 
@@ -100,7 +100,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               ],
 
               helpWanted: true,
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+              languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
 
               platformGroups: [
                 [{ key: 'playstation-portable', name: 'PlayStation Portable (Physical)' }],
@@ -115,9 +115,9 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               description: [
                 'Introduced the EX Dungeon bonus content and an unlimited inventory, both later folded into Edit (2011).'
               ],
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+              languages: [{ value: 'JA', native: true }],
               platformGroups: [
-                [{ key: 'mobile-phone', name: 'Mobile Phones (Digital; Japan Only); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+                [{ key: 'mobile-phone', name: 'Mobile Phones (Digital; Japan Only); terminated', jpTag: true, terminated: true }],
               ],
             },
             {
@@ -134,7 +134,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
                 { text: '.' },
               ]],
               helpWanted: true,
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+              languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
               platformGroups: [
                 [{ key: 'nintendo-game-boy-advance', paren: 'Physical' }],
               ],
@@ -148,7 +148,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               description: [
                 'This remaster enhances sprite detail and shading, but removes the FMV intro, memo saves, and sprinting featured in Edit (1997).'
               ],
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+              languages: [{ value: 'JA', native: true }],
               platformGroups: [
                 [{ key: 'wonderswan', paren: 'Physical; Japan Only' }],
               ],
@@ -186,7 +186,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               }, ' (2002).']],
 
               helpWanted: true,
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+              languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
 
               platformGroups: [
                 [{ key: 'playstation3', name: 'PlayStation 3: PSone compatibility; Digital (Japan Only)', jpTag: true }],
@@ -207,11 +207,11 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
                 { text: ', cuts several spells and story beats, and minorly censors a few monster sprites.' },
               ]],
               helpWanted: true,
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+              languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
               platformGroups: [
                 [{ key: 'nintendo-snes', name: 'Super Nintendo Entertainment System (Super Famicom; Physical)' }],
-                [{ key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
-                [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                [{ key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true }],
+                [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true }],
                 [{ key: 'nintendo-game-boy-advance', paren: 'Physical' }],
               ],
             },
@@ -222,18 +222,18 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             length: '30½h / 39h / 73h',
 
             languages: [
-              { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-              { value: 'EN', tip: 'English — full audio', voice: true },
-              { value: 'FR', tip: 'French — text only' },
-              { value: 'DE', tip: 'German — text only' },
-              { value: 'IT', tip: 'Italian — text only' },
-              { value: 'KO', tip: 'Korean — text only' },
-              { value: 'PT-BR', tip: 'Portuguese (Brazil) — text only' },
-              { value: 'RU', tip: 'Russian — text only' },
-              { value: 'ZH-CN', tip: 'Simplified Chinese — text only' },
-              { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
-              { value: 'TH', tip: 'Thai — text only' },
-              { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
+              { value: 'JA', native: true, voice: true },
+              { value: 'EN', voice: true },
+              { value: 'FR', textOnly: true },
+              { value: 'DE', textOnly: true },
+              { value: 'IT', textOnly: true },
+              { value: 'KO', textOnly: true },
+              { value: 'PT-BR', textOnly: true },
+              { value: 'RU', textOnly: true },
+              { value: 'ZH-CN', textOnly: true },
+              { value: 'ES-ES', textOnly: true },
+              { value: 'TH', textOnly: true },
+              { value: 'ZH-TW', textOnly: true },
             ],
 
             parts: [
@@ -250,7 +250,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               }, '.']
             ],
 
-            rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '89', midScore: '7.4', midUrl: 'https://www.metacritic.com/game/final-fantasy-iv-3d-remake/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-iv-3d-remake/', sourceUrl: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/', sourceLabel: 'Steam; Very Positive' },
+            rating: { scores: [{ kind: 'metacritic', score: '89', url: 'https://www.metacritic.com/game/final-fantasy-iv-3d-remake/' }, { kind: 'metacritic-user', score: '7.4', url: 'https://www.metacritic.com/game/final-fantasy-iv-3d-remake/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/' }] },
 
             platformGroups: [
               [{ key: 'windows', url: null, noUrl: true }],
@@ -270,7 +270,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
                 description: [
                   'This port reworks the dual-screen interface into a single screen, improves visuals and audio, and adds cloud saves and achievements, but removes the Whyt minigames.'
                 ],
-                languages: [{ value: 'JA', tip: 'Japanese — full audio', native: true, voice: true }, { value: 'EN', tip: 'English — full audio', voice: true }, { value: 'FR', tip: 'French — text only' }, { value: 'DE', tip: 'German — text only' }, { value: 'IT', tip: 'Italian — text only' }, { value: 'ES-ES', tip: 'Spanish (Spain) — text only' }],
+                languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN', voice: true }, { value: 'FR', textOnly: true }, { value: 'DE', textOnly: true }, { value: 'IT', textOnly: true }, { value: 'ES-ES', textOnly: true }],
                 platformGroups: [
                   [{ key: 'apple', paren: 'Digital' }],
                   [{ key: 'android2', paren: 'Digital' }],
@@ -284,7 +284,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
                 description: [
                   'The original 3D remake release. Uses the DS’s touch screen and dual-screen interface; enemies are noticeably tougher than in the 2D versions.'
                 ],
-                languages: [{ value: 'JA', tip: 'Japanese — full audio', native: true, voice: true }, { value: 'EN', tip: 'English — full audio', voice: true }, { value: 'FR', tip: 'French — text only' }, { value: 'DE', tip: 'German — text only' }, { value: 'IT', tip: 'Italian — text only' }, { value: 'ES-ES', tip: 'Spanish (Spain) — text only' }],
+                languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN', voice: true }, { value: 'FR', textOnly: true }, { value: 'DE', textOnly: true }, { value: 'IT', textOnly: true }, { value: 'ES-ES', textOnly: true }],
                 platformGroups: [
                   [{ key: 'nintendo-ds', paren: 'Physical' }],
                 ],
@@ -298,12 +298,12 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           { label: 'Book', url: null, small: true },
         ],
         description: ['The first of a two-volume novelization of Final Fantasy IV (1991).'],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/50286956' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/50286956', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/50286956' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/50286956' }] },
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20IV%20~Novel~%20Vol.1%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20~Novel~%20Vol.1%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy IV ~Novel~ Vol.1' }],
         ],
         alts: [
           {
@@ -313,7 +313,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               'Fan novelization of Final Fantasy IV (1991) 3D Remake (2007) and IV: The After Years (2008). This is the story of Cecil Harvey, a dark knight whose journey for redemption draws himself, his best friend Kain and Rosa into a dangerous battle for their planet.'
             ],
             length: '27 chapters',
-            languages: [{ value: 'EN', tip: 'English' }],
+            languages: [{ value: 'EN' }],
             platformGroups: [
               [{ key: 'book', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' }],
             ],
@@ -325,12 +325,12 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           { label: 'Book', url: null, small: true },
         ],
         description: ['The second of a two-volume novelization of Final Fantasy IV (1991).'],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77457241' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77457241', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77457241' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77457241' }] },
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20IV%20~Novel~%20Vol.2%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20~Novel~%20Vol.2%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy IV ~Novel~ Vol.2' }],
         ] },
         {
           title: 'Final Fantasy IV: Interlude',
@@ -340,7 +340,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           tags: ['Optional', 'Sequel'],
           mediaType: 'Game',
           lengthParts: [{ value: '2½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '3h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '3h', tip: 'Completionist' }],
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           parts: [
@@ -361,13 +361,13 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             { text: '.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: 'Unfavorable', textOnly: true },
+          rating: { score: 'Unfavorable', textOnly: true },
 
           platformGroups: [
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20Interlude%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy IV Interlude' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy IV Interlude' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy IV Interlude' },
             ],
             [{ key: 'playstation-portable', name: 'PlayStation Portable (Physical)', noUrl: true }],
           ]
@@ -380,7 +380,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           tags: ['Optional', 'Sequel', 'Episodic', 'Active time battles'],
           mediaType: 'Game',
           lengthParts: [{ value: '35½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '46½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '108h', tip: 'Completionist' }],
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           parts: [
@@ -406,13 +406,13 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             { text: '.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: 'Unfavorable', textOnly: true },
+          rating: { score: 'Unfavorable', textOnly: true },
 
           platformGroups: [
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy IV: The After Years' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy IV: The After Years' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy IV: The After Years' },
             ],
             [{ key: 'playstation-portable', name: 'PlayStation Portable (Physical)', noUrl: true }],
           ],
@@ -428,8 +428,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               ],
               platformGroups: [
                 [
-                  { key: 'nintendo-wii', name: 'Nintendo Wii: WiiWare; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-                  { key: 'nintendo-wii-u', name: 'Nintendo Wii U: WiiWare; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+                  { key: 'nintendo-wii', name: 'Nintendo Wii: WiiWare; terminated', terminated: true, noUrl: true },
+                  { key: 'nintendo-wii-u', name: 'Nintendo Wii U: WiiWare; terminated', terminated: true, noUrl: true },
                 ],
               ],
             },
@@ -439,9 +439,9 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
                 { label: 'Mobile', small: true },
               ],
               description: ['The original release, published episodically.'],
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+              languages: [{ value: 'JA', native: true }],
               platformGroups: [
-                [{ key: 'mobile-phone', name: 'Mobile Phones (Digital; Japan Only); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+                [{ key: 'mobile-phone', name: 'Mobile Phones (Digital; Japan Only); terminated', jpTag: true, terminated: true }],
               ],
             },
           ],
@@ -457,15 +457,15 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             ],
             storeUrl: 'https://www.jp.square-enix.com/ff4tay/en/',
             languages: [
-              { value: 'EN', tip: 'English' },
-              { value: 'FR', tip: 'French' },
-              { value: 'DE', tip: 'German' },
-              { value: 'IT', tip: 'Italian' },
-              { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
-              { value: 'RU', tip: 'Russian' },
-              { value: 'ES-ES', tip: 'Spanish (Spain)' },
+              { value: 'EN' },
+              { value: 'FR' },
+              { value: 'DE' },
+              { value: 'IT' },
+              { value: 'PT-BR' },
+              { value: 'RU' },
+              { value: 'ES-ES' },
             ],
-            rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: 'Mixed', url: 'https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/', single: true, sourceLabel: 'Steam' },
+            rating: { scores: [{ label: 'Steam', score: 'Mixed', url: 'https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/' }] },
             platformGroups: [
               [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/' }],
               [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FF4AY_GP' }],
@@ -481,11 +481,11 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         ],
         description: ['A novelization of Final Fantasy IV: The After Years (2008).'],
         helpWanted: true,
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/77476002' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/77476002', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77476002' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77476002' }] },
         platformGroups: [
           [{ key: 'book', name: 'Novel (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20IV%3A%20The%20After%20~Novel~%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20~Novel~%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy IV: The After ~Novel~' }],
         ] },
       ]};

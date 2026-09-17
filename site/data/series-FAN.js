@@ -6,13 +6,13 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
         description: [
           'Follows the story of a young man as he quests through the universe, looking for a place to belong. With an enigmatic cast of interesting characters.'
         ],
-        languages: [{ value: 'EN', tip: 'English', native: true }],
+        languages: [{ value: 'EN', native: true }],
         platformGroups: [
           [{ key: 'windows', noUrl: true }],
           [
-            { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20endless%20nova%20playthrough' },
+            { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy endless nova' },
+            { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy endless nova' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy endless nova' },
           ],
         ] },
         {
@@ -40,14 +40,14 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
             { text: ' series.' },
           ], 'A group of heroes, champions of Eorzea, are transported away moments before facing certain death against Bahamut, and must find their way home through a strange new world entwined with crystals, old evils, and steadfast allies.'],
 
-          languages: [{ value: 'EN', tip: 'English', native: true }],
+          languages: [{ value: 'EN', native: true }],
 
           platformGroups: [
             [{ key: 'windows', noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20legend%20of%20balance%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy legend of balance' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy legend of balance' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy legend of balance' },
             ],
           ]
         },
@@ -71,15 +71,15 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
             { text: ' series.' },
           ], 'A party of adventurers, fresh off a win in the Valkurm Dunes, is summoned to Lower Jeuno by the Captain of the Ducal Guard for an urgent mission.'],
 
-          languages: [{ value: 'EN', tip: 'English' }],
+          languages: [{ value: 'EN' }],
           storeUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver',
 
           platformGroups: [
             [{ key: 'windows', url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver' }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XI%20braver%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy XI braver' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy XI braver' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy XI braver' },
             ],
           ]
         },
@@ -96,11 +96,11 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
           { emText: 'Final Fantasy I' },
           { text: ' series.' },
         ]],
-        languages: [{ value: 'EN', tip: 'English' }],
+        languages: [{ value: 'EN' }],
         storeUrl: 'https://www.rengames.us/ffr',
         platformGroups: [
           [{ key: 'windows', url: 'https://discord.com/invite/Kg8fVsJW' }],
-          [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20renaissance%20playthrough' }],
+          [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy renaissance' }],
         ] },
         {
           title: 'Final Fantasy IV: The Novel',
@@ -125,7 +125,7 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
             { text: ' series.' },
           ], 'This is the story of Cecil Harvey, a dark knight whose journey for redemption draws himself, his best friend Kain and Rosa into a dangerous battle for their planet.'],
 
-          languages: [{ value: 'EN', tip: 'English' }],
+          languages: [{ value: 'EN' }],
 
           platformGroups: [
             [{ key: 'book', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' }],

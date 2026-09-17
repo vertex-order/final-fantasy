@@ -9,12 +9,12 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
           { emText: 'IX' },
           { text: ' series.' },
         ]],
-        rating: { scoreLabelText: 'Goodreads', score: '4.45', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book', single: true, sourceLabel: 'Goodreads' },
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book' }, { value: '…?', tip: 'Unknown additional languages' }],
+        rating: { scores: [{ kind: 'goodreads', score: '4.45', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book' }] },
+        languages: [{ value: 'JA', native: true }, { value: 'EN', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book' }, { value: '…?' }],
         helpWanted: true,
         platformGroups: [
           [{ key: 'book', name: 'Picture Book', noUrl: true }],
-          [{ key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20IX%20Picture%20Book%3A%20Vivi%20and%20Grandpa%27s%20Memories%20for%20the%20Sky%20reading' }],
+          [{ key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy IX Picture Book: Vivi and Grandpa\'s Memories for the Sky reading', ytSuffix: '' }],
         ] },
         { title: 'Chocobo and the Airship: A Final Fantasy Picture Book', releaseDate: '2023-03-21', chronoOrder: 100, recommendedOrder: 100, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '40p',
         parts: [
@@ -24,29 +24,29 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
         description: [
           'Cid and Chocobo build an airship to save their town from monsters, setting off to find a magic Flying Stone to make it fly, joined by a group of adventurers along the way.'
         ],
-        rating: { scoreLabelText: 'Goodreads', score: '4.21', url: 'https://www.goodreads.com/book/show/61725549-chocobo-and-the-airship', single: true, sourceLabel: 'Goodreads' },
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/61121994-final-fantasy-e-hon' }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/61725549-chocobo-and-the-airship' }, { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/63141628-chocobo-et-le-bateau-volant' }, { value: '…?', tip: 'Unknown additional languages' }],
+        rating: { scores: [{ kind: 'goodreads', score: '4.21', url: 'https://www.goodreads.com/book/show/61725549-chocobo-and-the-airship' }] },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/61121994-final-fantasy-e-hon' }, { value: 'EN', url: 'https://www.goodreads.com/book/show/61725549-chocobo-and-the-airship' }, { value: 'FR', url: 'https://www.goodreads.com/book/show/63141628-chocobo-et-le-bateau-volant' }, { value: '…?' }],
         helpWanted: true,
         platformGroups: [
           [{ key: 'book', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092031' }],
-          [{ key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Chocobo%20and%20the%20Airship%3A%20A%20Final%20Fantasy%20Picture%20Book%20reading' }],
+          [{ key: 'fan-movie', ytSearch: true, ytTitle: 'Chocobo and the Airship: A Final Fantasy Picture Book reading', ytSuffix: '' }],
         ] },
         { title: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', releaseDate: '2022-08-09', chronoOrder: 300, recommendedOrder: 300, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
         parts: [
           { label: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift (2022)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' },
           { label: 'Book', url: null, small: true },
         ],
-        rating: { scoreLabelText: 'Goodreads', score: '4.65', url: 'https://www.goodreads.com/book/show/59912205-final-fantasy-xiv-picture-book', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: '4.65', url: 'https://www.goodreads.com/book/show/59912205-final-fantasy-xiv-picture-book' }] },
         description: [[
           { text: 'When their river starts running dry, the catfish-like Namazu set out on a quest to make it rain, needing to find a "thing that no one has ever seen." Entry also found in our ' },
           { emText: 'XIV' },
           { text: ' series.' },
         ]],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/59912205-final-fantasy-xiv-picture-book' }, { value: '…?', tip: 'Unknown additional languages' }],
+        languages: [{ value: 'JA', native: true }, { value: 'EN', url: 'https://www.goodreads.com/book/show/59912205-final-fantasy-xiv-picture-book' }, { value: '…?' }],
         helpWanted: true,
         platformGroups: [
           [{ key: 'book', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' }],
-          [{ key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20Picture%20Book%3A%20The%20Namazu%20and%20the%20Greatest%20Gift%20reading' }],
+          [{ key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift reading', ytSuffix: '' }],
         ] },
         { title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', releaseDate: '2027-04-13', chronoOrder: 400, recommendedOrder: 400, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
         parts: [
@@ -58,11 +58,11 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
           { emText: 'XIV' },
           { text: ' series.' },
         ]],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/255391940' }, { value: '…?', tip: 'Unknown additional languages' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/255391940', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true }, { value: 'EN', url: 'https://www.goodreads.com/book/show/255391940' }, { value: '…?' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/255391940' }] },
         helpWanted: true,
         platformGroups: [
           [{ key: 'book', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833' }],
-        [{ key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%20Picture%20Book%3A%20Me%20and%20the%20Cornservant%20reading' }],
+        [{ key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XIV Picture Book: Me and the Cornservant reading', ytSuffix: '' }],
         ] },
       ]};

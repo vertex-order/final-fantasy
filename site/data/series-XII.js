@@ -35,18 +35,18 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           ]],
 
           languages: [
-            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-            { value: 'FR', tip: 'French' },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'DE', tip: 'German' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'KO', tip: 'Korean' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR' },
+            { value: 'IT' },
+            { value: 'DE' },
+            { value: 'ES-ES' },
+            { value: 'KO' },
             { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
             { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
           ],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '92', midScore: '8.1', midUrl: 'https://www.metacritic.com/game/final-fantasy-xii-the-zodiac-age/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-xii/', sourceUrl: 'https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/', sourceLabel: 'Steam; Very Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '92', url: 'https://www.metacritic.com/game/final-fantasy-xii/' }, { kind: 'metacritic-user', score: '8.1', url: 'https://www.metacritic.com/game/final-fantasy-xii-the-zodiac-age/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/' }] },
           storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xii-the-zodiac-age',
 
           platformGroups: [
@@ -59,9 +59,9 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
               { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xii-the-zodiac-age/bxdh919m16g9' },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XII%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XII%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XII%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy XII' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy XII' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy XII' },
             ],
           ],
 
@@ -80,13 +80,13 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             ]],
 
             languages: [
-              { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-              { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-              { value: 'FR', tip: 'French' },
-              { value: 'IT', tip: 'Italian' },
-              { value: 'DE', tip: 'German' },
-              { value: 'ES-ES', tip: 'Spanish (Spain)' },
-              { value: 'KO', tip: 'Korean' },
+              { value: 'JA', native: true, voice: true },
+              { value: 'EN-US', voice: true },
+              { value: 'FR' },
+              { value: 'IT' },
+              { value: 'DE' },
+              { value: 'ES-ES' },
+              { value: 'KO' },
               { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
               { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
             ],
@@ -112,7 +112,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
                   { text: '.' },
                 ]],
                 languages: [
-                  { value: 'JA', tip: 'Japanese', native: true },
+                  { value: 'JA', native: true },
                   { value: 'EN', tip: 'English (Fan Translation) (ffgriever, DarknessSavior and Tauwasser 2009)' },
                 ],
                 platformGroups: [
@@ -128,7 +128,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
                 description: [
                   'The original release. The Western versions add a 16:9 widescreen option and a distinct English localization with added voice direction.'
                 ],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 platformGroups: [
                   [
@@ -148,12 +148,12 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
         description: [
           'A manga adaptation of XII (2006). The Archadian Empire\'s invasion of neighboring lands and the death of the Dalmascan king prompt Princess Ashe, sole surviving heir to the Dalmascan throne, to take up arms against the invaders.'
         ],
-        rating: { scoreLabelText: 'Goodreads', score: '3.71', url: 'https://www.goodreads.com/book/show/6926117-xii-1-final-fantasy-xii-1', single: true, sourceLabel: 'Goodreads' },
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/6926117-xii-1-final-fantasy-xii-1' }, { value: 'EN', tip: 'English (fan translation)' }],
+        rating: { scores: [{ kind: 'goodreads', score: '3.71', url: 'https://www.goodreads.com/book/show/6926117-xii-1-final-fantasy-xii-1' }] },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/6926117-xii-1-final-fantasy-xii-1' }, { value: 'EN', tip: 'English (fan translation)' }],
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true }],
           [{ key: 'fan-translation', url: 'https://somethingorotherscans.com/ffxii.php' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XII%20manga%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XII manga' }],
         ] },
         {
           title: 'Final Fantasy XII: Revenant Wings',
@@ -174,17 +174,17 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             { text: '.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '81', midScore: '7.3', midUrl: 'https://www.metacritic.com/game/final-fantasy-xii-revenant-wings/', url: 'https://www.metacritic.com/game/final-fantasy-xii-revenant-wings/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '81', url: 'https://www.metacritic.com/game/final-fantasy-xii-revenant-wings/' }, { kind: 'metacritic-user', score: '7.3', url: 'https://www.metacritic.com/game/final-fantasy-xii-revenant-wings/' }] },
           storeUrl: 'https://www.nintendo.com/en-gb/Games/Nintendo-DS/Final-Fantasy-XII-Revenant-Wings-270814.html',
 
           platformGroups: [
             [{ key: 'nintendo-ds', url: 'https://www.nintendo.com/en-gb/Games/Nintendo-DS/Final-Fantasy-XII-Revenant-Wings-270814.html' }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XII%3A%20Revenant%20Wings%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XII%3A%20Revenant%20Wings%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XII%3A%20Revenant%20Wings%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XII: Revenant Wings' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy XII: Revenant Wings' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy XII: Revenant Wings' },
             ],
           ]
         },
@@ -210,18 +210,18 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             ]
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '87', midScore: '8.2', midUrl: 'https://www.metacritic.com/game/final-fantasy-tactics-advance/', url: 'https://www.metacritic.com/game/final-fantasy-tactics-advance/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '87', url: 'https://www.metacritic.com/game/final-fantasy-tactics-advance/' }, { kind: 'metacritic-user', score: '8.2', url: 'https://www.metacritic.com/game/final-fantasy-tactics-advance/' }] },
           storeUrl: 'https://www.nintendo.com/en-gb/Games/Game-Boy-Advance/Final-Fantasy-Tactics-Advance-266705.html',
 
           platformGroups: [
             [{ key: 'nintendo-game-boy-advance', paren: 'Physical', url: 'https://www.nintendo.com/en-gb/Games/Game-Boy-Advance/Final-Fantasy-Tactics-Advance-266705.html' }],
-            [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console; terminated', terminated: true, noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Tactics Advance' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy Tactics Advance' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Tactics Advance' },
             ],
           ],
 
@@ -237,11 +237,11 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
                 { text: '. The plot is only slightly different.' },
               ]],
               lengthParts: [{ value: '13 tracks', br: true }, { value: '+ 4 extra chapters' }],
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
+              languages: [{ value: 'JA', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
               platformGroups: [
                 [{ key: 'compact-disc', name: 'CD (Japan Only)', jpTag: true, noUrl: true },
                   { key: 'fan-audiobook', name: 'Audio drama (unofficial with fan subtitles)', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20Radio%20Edition' }],
-                [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20Radio%20Edition%20story%20recap' }],
+                [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Tactics Advance Radio Edition' }],
               ],
             },
           ]
@@ -269,16 +269,16 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             { text: ' series, which the former is only loosely a part of.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '80', midScore: '8.0', midUrl: 'https://www.metacritic.com/game/final-fantasy-tactics-a2-grimoire-of-the-rift/', url: 'https://www.metacritic.com/game/final-fantasy-tactics-a2-grimoire-of-the-rift/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '80', url: 'https://www.metacritic.com/game/final-fantasy-tactics-a2-grimoire-of-the-rift/' }, { kind: 'metacritic-user', score: '8.0', url: 'https://www.metacritic.com/game/final-fantasy-tactics-a2-grimoire-of-the-rift/' }] },
 
           platformGroups: [
             [{ key: 'nintendo-ds', noUrl: true }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20A2%20Grimoire%20of%20the%20Rift%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20A2%20Grimoire%20of%20the%20Rift%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20A2%20Grimoire%20of%20the%20Rift%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy Tactics A2 Grimoire of the Rift' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy Tactics A2 Grimoire of the Rift' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Tactics A2 Grimoire of the Rift' },
             ],
           ]
         },
@@ -307,16 +307,16 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           ]],
 
           languages: [
-            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-            { value: 'FR', tip: 'French' },
-            { value: 'DE', tip: 'German' },
-            { value: 'KO', tip: 'Korean' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR' },
+            { value: 'DE' },
+            { value: 'KO' },
             { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
             { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
           ],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '88', midScore: '8.7', midUrl: 'https://www.metacritic.com/game/final-fantasy-tactics/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-tactics-the-ivalice-chronicles/', sourceUrl: 'https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/', sourceLabel: 'Steam; Very Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '88', url: 'https://www.metacritic.com/game/final-fantasy-tactics-the-ivalice-chronicles/' }, { kind: 'metacritic-user', score: '8.7', url: 'https://www.metacritic.com/game/final-fantasy-tactics/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/' }] },
           storeUrl: 'https://final-fantasy-tactics-the-ivalice-chronicles.square-enix-games.com/',
 
           platformGroups: [
@@ -334,9 +334,9 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             [{ key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-tactics-the-ivalice-chronicles/9mz2mc7t85t5' }],
             [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-tactics-the-ivalice-chronicles/9mz2mc7t85t5' }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20The%20Ivalice%20Chronicles%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20The%20Ivalice%20Chronicles%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20The%20Ivalice%20Chronicles%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy Tactics The Ivalice Chronicles' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy Tactics The Ivalice Chronicles' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Tactics The Ivalice Chronicles' },
             ],
           ],
 
@@ -352,7 +352,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
                   { emText: 'Final Fantasy Tactics: The War of the Lions (2007)' },
                   { text: '.' },
                 ]],
-                languages: [{ value: 'EN', tip: 'English — full audio', voice: true }, { value: 'JA', tip: 'Japanese — text only', native: true }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'EN', voice: true }, { value: 'JA', native: true, textOnly: true }, { value: '…?' }],
                 helpWanted: true,
                 storeUrl: 'http://dlgames.square-enix.com/fft/en/',
                 platformGroups: [
@@ -360,9 +360,9 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
                   [{ key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2' }],
                   [{ key: 'apple', url: 'http://dlgames.square-enix.com/fft/en/' }],
                   [
-                    { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20War%20of%20the%20Lions%20game%20movie' },
-                    { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20War%20of%20the%20Lions%20story%20recap' },
-                    { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20War%20of%20the%20Lions%20playthrough' },
+                    { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy Tactics War of the Lions' },
+                    { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy Tactics War of the Lions' },
+                    { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Tactics War of the Lions' },
                   ],
                 ],
               },
@@ -372,7 +372,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
                 description: [
                   'The original release. The North American release (1998) simplifies the translation and eases the difficulty (lower ability costs, faster charge times, weaker bosses). Also playable as the ‘Classic’ mode within the Remake (2025) release, with its script updated to the War of the Lions translation.'
                 ],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }],
                 platformGroups: [
                   [
                     { key: 'playstation1', paren: 'Physical', noUrl: true },
@@ -404,9 +404,9 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             { text: '.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '92', midScore: '8.8', midUrl: 'https://www.metacritic.com/game/vagrant-story/', url: 'https://www.metacritic.com/game/vagrant-story/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '92', url: 'https://www.metacritic.com/game/vagrant-story/' }, { kind: 'metacritic-user', score: '8.8', url: 'https://www.metacritic.com/game/vagrant-story/' }] },
           storeUrl: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/',
 
           platformGroups: [
@@ -418,9 +418,9 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
               { key: 'playstation-vita', paren: 'Digital', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Vagrant%20Story%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Vagrant%20Story%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Vagrant%20Story%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Vagrant Story' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Vagrant Story' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Vagrant Story' },
             ],
           ]
         },
@@ -442,14 +442,14 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             { text: ' series, join a clan and engage in quests to compete with other clans in daily tournaments.' },
           ], 'Due to being terminated, and lacking a deep story, there is no story recap to catch up on.'],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           platformGroups: [
             [
-              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, noUrl: true },
+              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, noUrl: true },
             ],
-            [{ key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20S%20playthrough' }],
+            [{ key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Tactics S' }],
           ]
         },
         {
@@ -474,23 +474,23 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             { text: '.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '63', midScore: '7.0', midUrl: 'https://www.metacritic.com/game/crystal-defenders/', single: true, sourceLabel: 'Metacritic', url: 'https://www.metacritic.com/game/crystal-defenders/' },
+          rating: { scores: [{ kind: 'metacritic', score: '63', url: 'https://www.metacritic.com/game/crystal-defenders/' }, { kind: 'metacritic-user', score: '7.0', url: 'https://www.metacritic.com/game/crystal-defenders/' }] },
 
           platformGroups: [
             [
-              { key: 'mobile-phone', name: 'Mobile (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'mobile-phone', name: 'Mobile (JP); terminated', jpTag: true, terminated: true, noUrl: true },
+              { key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true },
             ],
-            [{ key: 'nintendo-wii', name: 'Nintendo Wii: WiiWare; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'nintendo-wii', name: 'Nintendo Wii: WiiWare; terminated', terminated: true, noUrl: true }],
             [{ key: 'xbox-360', paren: 'Xbox Live Arcade', noUrl: true }],
             [
               { key: 'playstation3', paren: 'Digital', noUrl: true },
               { key: 'playstation-portable', paren: 'Digital', noUrl: true },
             ],
-            [{ key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Crystal%20Defenders%20playthrough' }],
+            [{ key: 'android2', name: 'Android; terminated', terminated: true, noUrl: true }],
+            [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'Crystal Defenders' }],
           ]
         },
         {
@@ -513,12 +513,12 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             { text: '.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           platformGroups: [
-            [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Crystal%20Defenders%20Vanguard%20Storm%20playthrough' }],
+            [{ key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true }],
+            [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'Crystal Defenders Vanguard Storm' }],
           ]
         },
       ]};

@@ -3,17 +3,17 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
         parts: [
           { label: 'Theatrhythm Final Fantasy (2012)', url: 'https://en.wikipedia.org/wiki/Theatrhythm_Final_Fantasy' },
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+        languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
         helpWanted: true,
         description: [
           'Players take control of four Final Fantasy characters, and select a game from the first Final Fantasy to XIII. Each game has three stages: field, battle, and event. Each stage features different game mechanics than the others; once a stage is completed, the characters level up.'
         ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '78', midScore: '7.8', midUrl: 'https://www.metacritic.com/game/theatrhythm-final-fantasy/', url: 'https://www.metacritic.com/game/theatrhythm-final-fantasy/', single: true, sourceLabel: 'Metacritic' },
+        rating: { scores: [{ kind: 'metacritic', score: '78', url: 'https://www.metacritic.com/game/theatrhythm-final-fantasy/' }, { kind: 'metacritic-user', score: '7.8', url: 'https://www.metacritic.com/game/theatrhythm-final-fantasy/' }] },
         platformGroups: [
           [
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Fantasy%20playthrough' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Theatrhythm Final Fantasy' },
           ],
-          [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+          [{ key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true }],
           [{ key: 'nintendo-3ds', paren: 'No Digital', noUrl: true }],
         ],
         },
@@ -21,7 +21,7 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
         parts: [
           { label: 'Theatrhythm Final Fantasy: Curtain Call (2014)', url: 'https://en.wikipedia.org/wiki/Theatrhythm_Final_Fantasy:_Curtain_Call' },
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+        languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
         helpWanted: true,
         description: [[
           { text: 'Adds Versus Battle and Quest Medleys modes, as well as expanding the track library to 221 tracks including from spin-off titles including other franchises. Followup to ' },
@@ -29,11 +29,11 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
           { text: '.' },
         ]],
         storeUrl: 'https://www.square-enix-games.com/games/theatrhythm-final-fantasy-curtain-call',
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '83', midScore: '6.4', midUrl: 'https://www.metacritic.com/game/theatrhythm-final-fantasy-curtain-call/', url: 'https://www.metacritic.com/game/theatrhythm-final-fantasy-curtain-call/', single: true, sourceLabel: 'Metacritic' },
+        rating: { scores: [{ kind: 'metacritic', score: '83', url: 'https://www.metacritic.com/game/theatrhythm-final-fantasy-curtain-call/' }, { kind: 'metacritic-user', score: '6.4', url: 'https://www.metacritic.com/game/theatrhythm-final-fantasy-curtain-call/' }] },
         platformGroups: [
           [
 
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Fantasy%3A%20Curtain%20Call%20playthrough' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Theatrhythm Final Fantasy: Curtain Call' },
           ],
           [{ key: 'nintendo-3ds', noUrl: true }],
         ],
@@ -50,7 +50,7 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
             { label: 'Theatrhythm Dragon Quest (2015)', url: 'https://en.wikipedia.org/wiki/Theatrhythm_Dragon_Quest' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
 
           description: [[
             { text: 'Part of the Theatrhythm series but not Final Fantasy related, it instead focuses on the Dragon Quest franchise also by Square Enix. Elements from this game would later make their way back into ' },
@@ -60,7 +60,7 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
 
           platformGroups: [
             [
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Dragon%20Quest%20playthrough' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Theatrhythm Dragon Quest' },
             ],
             [{ key: 'nintendo-3ds', paren: 'JP', jpTag: true, noUrl: true }],
             [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Theatrhythm%20Dragon%20Quest%20translation' }],
@@ -70,13 +70,13 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
         parts: [
           { label: 'Theatrhythm Final Fantasy All-Star Carnival (2016)', url: 'https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy_All-Star_Carnival' },
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (JP version; most menus)' }],
+        languages: [{ value: 'JA', native: true }, { value: 'EN', tip: 'English (JP version; most menus)' }],
         description: [
           'The game features revamped arcade controls, improved graphics, cooperative play.'
         ],
         platformGroups: [
           [
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Fantasy%20All-Star%20Carnival%20playthrough' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Theatrhythm Final Fantasy All-Star Carnival' },
           ],
           [{ key: 'arcade', paren: 'JP', jpTag: true, noUrl: true }],
         ],
@@ -86,24 +86,24 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
           { label: 'Theatrhythm Final Bar Line (2023)', url: 'https://en.wikipedia.org/wiki/Theatrhythm_Final_Bar_Line' },
         ],
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'EN-GB', tip: 'English (British)' },
+          { value: 'JA', native: true },
+          { value: 'EN-GB' },
           { value: 'EN-US', tip: 'English (American)' },
-          { value: 'FR', tip: 'French' },
-          { value: 'DE', tip: 'German' },
-          { value: 'IT', tip: 'Italian' },
-          { value: 'ES', tip: 'Spanish' },
+          { value: 'FR' },
+          { value: 'DE' },
+          { value: 'IT' },
+          { value: 'ES' },
         ],
         description: [
           '505 tracks from Final Fantasy and other franchises. Has elements from all previous games, with an enhanced role-playing element.',
           'DLC is available on some platforms, adding additional music including tracks from additional Final Fantasy titles.'
         ],
         storeUrl: 'https://www.square-enix-games.com/games/theatrhythm-final-bar-line',
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '87', midScore: '8.8', midUrl: 'https://www.metacritic.com/game/theatrhythm-final-bar-line/', url: 'https://www.metacritic.com/game/theatrhythm-final-bar-line/', single: true, sourceLabel: 'Metacritic' },
+        rating: { scores: [{ kind: 'metacritic', score: '87', url: 'https://www.metacritic.com/game/theatrhythm-final-bar-line/' }, { kind: 'metacritic-user', score: '8.8', url: 'https://www.metacritic.com/game/theatrhythm-final-bar-line/' }] },
         platformGroups: [
           [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Bar%20Line%20game%20movie' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Theatrhythm%20Final%20Bar%20Line%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'Theatrhythm Final Bar Line' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Theatrhythm Final Bar Line' },
           ],
           [{ key: 'nintendo-switch', paren: 'Digital', url: 'https://www.nintendo.com/store/products/theatrhythm-final-bar-line-switch/' }],
           [{ key: 'nintendo-switch-2', paren: 'Backwards Compatible; Digital', url: 'https://www.nintendo.com/store/products/theatrhythm-final-bar-line-switch/' }],

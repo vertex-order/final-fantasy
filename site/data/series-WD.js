@@ -21,18 +21,18 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
             { text: ', depending on the platform as a paid DLC.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '81', midScore: '7.5', midUrl: 'https://www.metacritic.com/game/world-of-final-fantasy-maxima/', source: 'MP', url: 'https://www.metacritic.com/game/world-of-final-fantasy-maxima/', sourceUrl: 'https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/', sourceLabel: 'Steam; Mostly Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '81', url: 'https://www.metacritic.com/game/world-of-final-fantasy-maxima/' }, { kind: 'metacritic-user', score: '7.5', url: 'https://www.metacritic.com/game/world-of-final-fantasy-maxima/' }, { kind: 'steam', score: 'MP', url: 'https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/' }] },
 
           languages: [
-            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-            { value: 'FR', tip: 'French — text only' },
-            { value: 'IT', tip: 'Italian — text only' },
-            { value: 'DE', tip: 'German — text only' },
-            { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
-            { value: 'KO', tip: 'Korean — text only' },
-            { value: 'ZH-CN', tip: 'Simplified Chinese — text only' },
-            { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR', textOnly: true },
+            { value: 'IT', textOnly: true },
+            { value: 'DE', textOnly: true },
+            { value: 'ES-ES', textOnly: true },
+            { value: 'KO', textOnly: true },
+            { value: 'ZH-CN', textOnly: true },
+            { value: 'ZH-TW', textOnly: true },
           ],
 
           storeUrl: 'https://www.square-enix-games.com/games/world-of-final-fantasy-maxima',
@@ -50,9 +50,9 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
             [{ key: 'nintendo-switch-2', paren: 'Nintendo Switch compatibility; Digital', url: 'https://www.nintendo.com/store/products/world-of-final-fantasy-maxima-switch/' }],
             [{ key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/bundle/9112/WORLD_OF_FINAL_FANTASY_COMPLETE_EDITION/' }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Maxima%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Maxima%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Maxima%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'World of Final Fantasy Maxima' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'World of Final Fantasy Maxima' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'World of Final Fantasy Maxima' },
             ],
           ],
 
@@ -66,14 +66,14 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
                   { text: 'The original release.' },
                 ]],
                 languages: [
-                  { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-                  { value: 'EN', tip: 'English — full audio', voice: true },
-                  { value: 'FR', tip: 'French — text only' },
-                  { value: 'IT', tip: 'Italian — text only' },
-                  { value: 'DE', tip: 'German — text only' },
-                  { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
-                  { value: 'KO', tip: 'Korean — text only' },
-                  { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
+                  { value: 'JA', native: true, voice: true },
+                  { value: 'EN', voice: true },
+                  { value: 'FR', textOnly: true },
+                  { value: 'IT', textOnly: true },
+                  { value: 'DE', textOnly: true },
+                  { value: 'ES-ES', textOnly: true },
+                  { value: 'KO', textOnly: true },
+                  { value: 'ZH-TW', textOnly: true },
                 ],
                 platformGroups: [
                   [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/' }],
@@ -102,17 +102,17 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
             { text: ', the game is now terminated.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+          languages: [{ value: 'JA', native: true }],
 
           platformGroups: [
             [
-              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android (JP); terminated', jpTag: true, terminated: true, noUrl: true },
+              { key: 'apple', name: 'iOS (JP); terminated', jpTag: true, terminated: true, noUrl: true },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Meli-Melo%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Meli-Melo%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=World%20of%20Final%20Fantasy%20Meli-Melo%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'World of Final Fantasy Meli-Melo' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'World of Final Fantasy Meli-Melo' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'World of Final Fantasy Meli-Melo' },
             ],
           ]
         },

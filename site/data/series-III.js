@@ -10,18 +10,18 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
           lengthParts: [{ value: '16h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '18h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '18½h', tip: 'Completionist' }],
 
           languages: [
-            { value: 'JA', tip: 'Japanese', native: true },
-            { value: 'EN-US', tip: 'English (US)' },
-            { value: 'FR', tip: 'French' },
-            { value: 'DE', tip: 'German' },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'KO', tip: 'Korean' },
-            { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
-            { value: 'RU', tip: 'Russian' },
-            { value: 'ZH-CN', tip: 'Simplified Chinese' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'TH', tip: 'Thai' },
-            { value: 'ZH-TW', tip: 'Traditional Chinese' },
+            { value: 'JA', native: true },
+            { value: 'EN-US' },
+            { value: 'FR' },
+            { value: 'DE' },
+            { value: 'IT' },
+            { value: 'KO' },
+            { value: 'PT-BR' },
+            { value: 'RU' },
+            { value: 'ZH-CN' },
+            { value: 'ES-ES' },
+            { value: 'TH' },
+            { value: 'ZH-TW' },
           ],
 
           parts: [
@@ -43,7 +43,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             ]
           ],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '79', midScore: '6.3', midUrl: 'https://www.metacritic.com/game/final-fantasy-iii-pixel-remaster/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-iii-pixel-remaster/', sourceUrl: 'https://store.steampowered.com/app/1173790/FINAL_FANTASY_III/', sourceLabel: 'Steam; Very Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '79', url: 'https://www.metacritic.com/game/final-fantasy-iii-pixel-remaster/' }, { kind: 'metacritic-user', score: '6.3', url: 'https://www.metacritic.com/game/final-fantasy-iii-pixel-remaster/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/1173790/FINAL_FANTASY_III/' }] },
 
           platformGroups: [
             [{ key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' }],
@@ -60,9 +60,9 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' }],
             [{ key: 'amazon', url: 'https://www.amazon.com/dp/B099KBVZW1?' }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20III%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20III%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20III%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy III' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy III' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy III' },
             ],
           ],
 
@@ -74,7 +74,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
               url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III',
               description: ['The original release.'],
               languages: [
-                { value: 'JA', tip: 'Japanese', native: true },
+                { value: 'JA', native: true },
                 { value: 'EN', tip: 'English (Fan Translation) (A+N+S 1998; ad0220 2006; Chaos Rush 2020)' },
                 { value: 'ES', tip: 'Spanish (Fan Translation) (Maeson 2015)' },
                 { value: 'FR', tip: 'French (Fan Translation) (Terminus Traduction 2003)' },
@@ -82,11 +82,11 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
                 { value: 'KO', tip: 'Korean (Fan Translation) (2003)' },
               ],
               platformGroups: [
-                [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
-                [{ key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true }],
+                [{ key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true }],
                 [{ key: 'nintendo-nes-classic-edition', paren: 'Japan Only', jpTag: true }],
                 [{ key: 'nintendo-fc', paren: 'Physical; Japan Only' }],
-                [{ key: 'nintendo-3ds', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                [{ key: 'nintendo-3ds', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true }],
               ],
             },
           ],
@@ -96,16 +96,16 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             length: '30h / 34½h / 91h',
 
             languages: [
-              { value: 'JA', tip: 'Japanese', native: true },
-              { value: 'EN', tip: 'English' },
-              { value: 'FR', tip: 'French' },
-              { value: 'DE', tip: 'German' },
-              { value: 'IT', tip: 'Italian' },
-              { value: 'KO', tip: 'Korean' },
-              { value: 'ZH-CN', tip: 'Simplified Chinese' },
-              { value: 'ES-ES', tip: 'Spanish (Spain)' },
-              { value: 'TH', tip: 'Thai' },
-              { value: 'ZH-TW', tip: 'Traditional Chinese' },
+              { value: 'JA', native: true },
+              { value: 'EN' },
+              { value: 'FR' },
+              { value: 'DE' },
+              { value: 'IT' },
+              { value: 'KO' },
+              { value: 'ZH-CN' },
+              { value: 'ES-ES' },
+              { value: 'TH' },
+              { value: 'ZH-TW' },
             ],
 
             parts: [
@@ -122,7 +122,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             ]],
 
             storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-iii',
-            rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '79', midScore: '7.5', midUrl: 'https://www.metacritic.com/game/final-fantasy-iii-3d-remake/', source: 'MP', url: 'https://www.metacritic.com/game/final-fantasy-iii-3d-remake/', sourceUrl: 'https://store.steampowered.com/app/239120/Final_Fantasy_III_3D_Remake/', sourceLabel: 'Steam; Mostly Positive' },
+            rating: { scores: [{ kind: 'metacritic', score: '79', url: 'https://www.metacritic.com/game/final-fantasy-iii-3d-remake/' }, { kind: 'metacritic-user', score: '7.5', url: 'https://www.metacritic.com/game/final-fantasy-iii-3d-remake/' }, { kind: 'steam', score: 'MP', url: 'https://store.steampowered.com/app/239120/Final_Fantasy_III_3D_Remake/' }] },
 
             platformGroups: [
               [{ key: 'windows', url: null, noUrl: true }],
@@ -141,12 +141,12 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
                 description: [
                   'This port improves FMV framerate, music quality, and visuals, and reworks the Mognet sidequest chain to no longer require Wi-Fi.'
                 ],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 platformGroups: [
                   [{ key: 'apple', paren: 'Digital' }],
                   [{ key: 'android2', paren: 'Digital' }],
-                  [{ key: 'ouya', name: 'Ouya (Digital); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+                  [{ key: 'ouya', name: 'Ouya (Digital); terminated', terminated: true, noUrl: true }],
                   [{ key: 'windows-phone', paren: 'Digital', url: null, noUrl: true }],
                 ],
               },
@@ -158,7 +158,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
                 description: [[
                   { text: 'This port adds auto-battle, a soundtrack toggle, a bonus Art Gallery and BGM player, and faster loading via Data Install.' },
                 ]],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 platformGroups: [
                   [{ key: 'playstation-portable', name: 'PlayStation Portable (Physical in Japan; Digital elsewhere)' }],
@@ -172,7 +172,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
                 description: [
                   'The original release of the 3D remake, introducing 3D graphics in a cutesy character style, a reworked job system, and a new cast of playable characters, as well as Mognet, a mail-based sidequest chain that is no longer functional in this version now that Nintendo Wi-Fi Connection has been discontinued.'
                 ],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 platformGroups: [
                   [{ key: 'nintendo-ds', paren: 'Physical' }],
@@ -182,8 +182,8 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
           }
         },
         { title: 'Legend of the Eternal Wind: from Final Fantasy III', releaseDate: '1991-01', chronoOrder: 500, recommendedOrder: 200, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic', length: '3 volumes',
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/76171402' }, { value: 'EN', tip: 'English (fan translation)' }],
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/76171402', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/76171402' }, { value: 'EN', tip: 'English (fan translation)' }],
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/76171402' }] },
         parts: [
           { label: 'Legend of the Eternal Wind: from Final Fantasy III (1991)', url: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori' },
           { label: 'Comic', url: null, small: true },
@@ -198,7 +198,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, url: 'https://archive.org/details/YukyunoKazeDensetsuFinalFantasyIIIYori/Legend%20of%20the%20Eternal%20Wind%20from%20Final%20Fantasy%20III%2001/mode/2up' },
             { key: 'fan-translation', url: 'https://duckduckgo.com/?q=Y%C5%ABky%C5%AB%20no%20Kaze%20Densetsu%20Final%20Fantasy%20III%20Legend%20of%20the%20Eternal%20Wind%3A%20from%20Final%20Fantasy%20III%20translation&t=h_&ia=web' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Y%C5%ABky%C5%AB%20no%20Kaze%20Densetsu%20Final%20Fantasy%20III%20Yori%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Yūkyū no Kaze Densetsu Final Fantasy III Yori' }],
         ] },
         { title: 'Final Fantasy I・II・III: Memory of Heroes ~III~ (2012)', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 300, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
         parts: [
@@ -206,8 +206,8 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
           { label: 'Book', url: null, small: true },
         ],
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },
+          { value: 'JA', native: true },
+          { value: 'EN', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },
           { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/63253999-final-fantasy-i-ii-iii' },
         ],
         length: '224p; P',
@@ -216,10 +216,10 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
           { emText: 'Final Fantasy ~Memory of Heroes~' },
           { text: '.' },
         ]],
-        rating: { scoreLabelText: 'Goodreads', score: '3.24', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: '3.24', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories', noUrl: true }],
-        [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20story%20recap' }],
+        [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy I・II・III: Memory of Heroes' }],
         [{ key: 'fan-audiobook', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20audiobook' }],
         ] },
       ]};

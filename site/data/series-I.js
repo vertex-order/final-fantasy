@@ -8,20 +8,20 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
       }, games: [
         { title: 'Stranger of Paradise: Final Fantasy Origin', releaseDate: '2022-03-18', chronoOrder: -3000, recommendedOrder: 500, tags: ['Prequel', 'Optional', 'Alternate Universe', 'Jobs', 'Co-op'], mediaType: 'Game',
         languages: [
-          { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-          { value: 'EN', tip: 'English — full audio', voice: true },
-          { value: 'FR', tip: 'French — text only' },
-          { value: 'DE', tip: 'German — text only' },
-          { value: 'IT', tip: 'Italian — text only' },
-          { value: 'KO', tip: 'Korean — text only' },
-          { value: 'ZH-CN', tip: 'Simplified Chinese — text only' },
-          { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
-          { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
+          { value: 'JA', native: true, voice: true },
+          { value: 'EN', voice: true },
+          { value: 'FR', textOnly: true },
+          { value: 'DE', textOnly: true },
+          { value: 'IT', textOnly: true },
+          { value: 'KO', textOnly: true },
+          { value: 'ZH-CN', textOnly: true },
+          { value: 'ES-ES', textOnly: true },
+          { value: 'ZH-TW', textOnly: true },
         ], lengthParts: [{ value: '17½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '29h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '50½h', tip: 'Completionist' }], storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin', description: [
           'Warriors Jack, Ash and Jed venture forth to defeat Chaos and save their world. But not all is as it seems. Online co-op play may require an additional subscription on some platforms.'
         ], parts: [
           { label: 'Stranger of Paradise: Final Fantasy Origin (2022)', url: 'https://en.wikipedia.org/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin' },
-        ], rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '72', midScore: '6.6', midUrl: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin/', source: 'VP', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin/', sourceUrl: 'https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/', sourceLabel: 'Steam; Very Positive' },
+        ], rating: { scores: [{ kind: 'metacritic', score: '72', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin/' }, { kind: 'metacritic-user', score: '6.6', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }] },
         platformGroups: [
           [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
           [{ key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin' }],
@@ -34,9 +34,9 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           ],
           [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition/9pnbm7k445cm' }],
           [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'Stranger of Paradise Final Fantasy Origin' },
+            { key: 'fan-recap', ytSearch: true, ytTitle: 'Stranger of Paradise Final Fantasy Origin' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Stranger of Paradise Final Fantasy Origin' },
           ],
         ],
         platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin' },
@@ -61,7 +61,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
             { text: '. The warriors of light meet the Dragon King Bahamut.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '8.5', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-trials/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '8.5', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-trials/' }] },
 
           platformGroups: [
             [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
@@ -73,9 +73,9 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
               { key: 'xbox-xs' },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Trials%20of%20the%20Dragon%20King%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Stranger of Paradise Final Fantasy Origin Trials of the Dragon King' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Stranger of Paradise Final Fantasy Origin Trials of the Dragon King' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Stranger of Paradise Final Fantasy Origin Trials of the Dragon King' },
             ],
           ],
 
@@ -102,7 +102,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
             { text: ' as Jack investigates an incursion into their world.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '5.8', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-wanderer/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '5.8', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-wanderer/' }] },
 
           platformGroups: [
             [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
@@ -114,9 +114,9 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
               { key: 'xbox-xs' },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Wanderer%20of%20the%20Rift%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Stranger of Paradise Final Fantasy Origin Wanderer of the Rift' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Stranger of Paradise Final Fantasy Origin Wanderer of the Rift' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Stranger of Paradise Final Fantasy Origin Wanderer of the Rift' },
             ],
           ],
 
@@ -143,7 +143,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
             { text: ', Jack must put an end to the machinations of the Lufenian Nil, who threatens their reality.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '9.5', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-2023/', single: true, sourceLabel: 'Metacritic' },
+          rating: { scores: [{ kind: 'metacritic', score: '9.5', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin-2023/' }] },
 
           platformGroups: [
             [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/dlc/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
@@ -155,9 +155,9 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
               { key: 'xbox-xs' },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Stranger%20of%20Paradise%20Final%20Fantasy%20Origin%20Different%20Future%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Stranger of Paradise Final Fantasy Origin Different Future' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Stranger of Paradise Final Fantasy Origin Different Future' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Stranger of Paradise Final Fantasy Origin Different Future' },
             ],
           ],
 
@@ -174,18 +174,18 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           lengthParts: [{ value: '15h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '17h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '18h', tip: 'Completionist' }],
 
           languages: [
-            { value: 'JA', tip: 'Japanese', native: true },
-            { value: 'EN-US', tip: 'English (US)' },
-            { value: 'FR', tip: 'French' },
-            { value: 'DE', tip: 'German' },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'KO', tip: 'Korean' },
-            { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
-            { value: 'RU', tip: 'Russian' },
-            { value: 'ZH-CN', tip: 'Simplified Chinese' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'TH', tip: 'Thai' },
-            { value: 'ZH-TW', tip: 'Traditional Chinese' },
+            { value: 'JA', native: true },
+            { value: 'EN-US' },
+            { value: 'FR' },
+            { value: 'DE' },
+            { value: 'IT' },
+            { value: 'KO' },
+            { value: 'PT-BR' },
+            { value: 'RU' },
+            { value: 'ZH-CN' },
+            { value: 'ES-ES' },
+            { value: 'TH' },
+            { value: 'ZH-TW' },
           ],
 
           parts: [
@@ -207,7 +207,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
             ]
           ],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '80', midScore: '7.0', midUrl: 'https://www.metacritic.com/game/final-fantasy/', source: 'OP', url: 'https://www.metacritic.com/game/final-fantasy-pixel-remaster/', sourceUrl: 'https://store.steampowered.com/app/1173770/FINAL_FANTASY/', sourceLabel: 'Steam; Overwhelmingly Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '80', url: 'https://www.metacritic.com/game/final-fantasy-pixel-remaster/' }, { kind: 'metacritic-user', score: '7.0', url: 'https://www.metacritic.com/game/final-fantasy/' }, { kind: 'steam', score: 'OP', url: 'https://store.steampowered.com/app/1173770/FINAL_FANTASY/' }] },
 
           platformGroups: [
             [{ key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' }],
@@ -225,9 +225,9 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
             [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' }],
             [{ key: 'amazon', url: 'https://www.amazon.com/dp/B0995BK9CG?' }],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20I%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy I' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy I' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy I' },
             ],
           ],
 
@@ -247,11 +247,11 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                   { emText: 'Final Fantasy Renaissance' },
                   { text: '. Entry also found in our Fan Projects series.' },
                 ]],
-                languages: [{ value: 'EN', tip: 'English' }],
+                languages: [{ value: 'EN' }],
                 storeUrl: 'https://www.rengames.us/ffr',
                 platformGroups: [
                   [{ key: 'windows', url: 'https://discord.com/invite/Kg8fVsJW' }],
-                  [{ key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20renaissance%20playthrough' }],
+                  [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy renaissance' }],
                 ],
               },
               {
@@ -269,7 +269,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                   ' sequences, remixed soundtrack, additional dungeon from Remaster (2007); four additional dungeons, updated bestiary from Remaster (2004).'
                 ]],
 
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+                languages: [{ value: 'JA', native: true }],
 
                 platformGroups: [
                   [{ key: 'nintendo-3ds', paren: 'Digital; Japan Only', jpTag: true }],
@@ -286,11 +286,11 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                   abbrDef: 'Full Motion Video'
                 }, ' sequences, remixed soundtrack from Remaster (2007). No bonus content.']],
 
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
 
                 platformGroups: [
-                  [{ key: 'android2', name: 'Android (Digital); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+                  [{ key: 'android2', name: 'Android (Digital); terminated', terminated: true }],
                 ]
               },
               {
@@ -306,7 +306,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                   emText: 'Final Fantasy Anniversary Edition'
                 }, '.']],
 
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
 
                 platformGroups: [
@@ -325,11 +325,11 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                   { emText: 'Final Fantasy I & II: Dawn of Souls (2004)' },
                   { text: '.' },
                 ]],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 platformGroups: [
                   [{ key: 'nintendo-game-boy-advance', paren: 'Physical' }],
-                  [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                  [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true }],
                 ],
               },
               {
@@ -342,10 +342,10 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                   { emText: 'Final Fantasy Mobile' },
                   { text: '.' },
                 ]],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
                 platformGroups: [
-                  [{ key: 'mobile-phone', name: 'Mobile Phones (Digital); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 }],
+                  [{ key: 'mobile-phone', name: 'Mobile Phones (Digital); terminated', terminated: true }],
                 ],
               },
               {
@@ -366,7 +366,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                   { text: '.' }
                 ]],
 
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
 
                 platformGroups: [
@@ -387,7 +387,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 description: [
                   'This remaster overhauls visuals and sound, and adds new cutscenes, a dash button, and quicksave.'
                 ],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+                languages: [{ value: 'JA', native: true }],
                 platformGroups: [
                   [{ key: 'wonderswan', paren: 'Physical; Japan Only' }],
                 ],
@@ -400,7 +400,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 description: [
                   'This remaster expands music and sound and slightly improves the graphics, but has slow loading times and choppy movement rendering.'
                 ],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+                languages: [{ value: 'JA', native: true }],
                 platformGroups: [
                   [{ key: 'msx2', paren: 'Physical; Japan Only' }],
                 ],
@@ -409,7 +409,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 parts: [
                   { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
                 ],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }],
                 description: [[
                   { text: 'The original release. Release edits may include slight graphical or translation tweaks. On the ' },
                   { tipText: 'FC', tip: 'Nintendo Famicom' },
@@ -424,22 +424,22 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                     { key: 'nintendo-nes-classic-edition', paren: 'outside Japan', nonJpTag: true },
                   ],
                   [
-                    { key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
-                    { key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true },
+                    { key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true },
+                    { key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true },
                   ],
-                  [{ key: 'nintendo-3ds', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true }],
+                  [{ key: 'nintendo-3ds', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true }],
                 ],
               },
             ],
           }
         },
         { title: 'Final Fantasy ~Manga~ (1989)', releaseDate: '1989-12-30', chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic',
-        rating: { scoreLabelText: 'Not Yet Rated (Goodreads)', score: 'NYR', url: 'https://www.goodreads.com/book/show/106524927', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/106524927' }] },
         parts: [
           { label: 'Final Fantasy ~Manga~ (1989)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)' },
           { label: 'Comic', url: null, small: true },
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
+        languages: [{ value: 'JA', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
         description: [[
           { text: 'Adaptation of ' },
           { emText: 'Final Fantasy (1987)' },
@@ -450,7 +450,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20i%20manga%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20i%20manga%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy i manga' }],
         ] },
         { title: 'Final Fantasy I・II・III: Memory of Heroes ~I~ (2012)', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
         parts: [
@@ -458,8 +458,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           { label: 'Book', url: null, small: true },
         ],
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true },
-          { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },
+          { value: 'JA', native: true },
+          { value: 'EN', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },
           { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/63253999-final-fantasy-i-ii-iii' },
         ],
         length: '224p; P',
@@ -468,7 +468,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           { emText: 'Final Fantasy ~Memory of Heroes~' },
           { text: '.' },
         ]],
-        rating: { scoreLabelText: 'Goodreads', score: '3.24', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: '3.24', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' }] },
         platformGroups: [
           [{ key: 'book', name: 'Short Stories', noUrl: true }],
         [{ key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes#Final_Fantasy' }],

@@ -16,19 +16,19 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         ],
         languages: [
           { value: 'JA', tip: 'Japanese — audio', native: true, voice: true },
-          { value: 'FR', tip: 'French — text only' },
+          { value: 'FR', textOnly: true },
           { value: 'EN', tip: 'English (UK) — text only' },
-          { value: 'DE', tip: 'German — text only' },
-          { value: 'PT-BR', tip: 'Portuguese (Brazil) — text only' },
-          { value: 'IT', tip: 'Italian — text only' },
-          { value: 'RU', tip: 'Russian — text only' },
-          { value: 'ES', tip: 'Spanish — text only' },
+          { value: 'DE', textOnly: true },
+          { value: 'PT-BR', textOnly: true },
+          { value: 'IT', textOnly: true },
+          { value: 'RU', textOnly: true },
+          { value: 'ES', textOnly: true },
           { value: 'ES-419', tip: 'Spanish (Mexico) — text only' },
         ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '7.0', url: 'https://www.imdb.com/title/tt5595178/', single: true, sourceLabel: 'IMDb' },
+        rating: { scores: [{ kind: 'imdb', score: '7.0', url: 'https://www.imdb.com/title/tt5595178/' }] },
         platformGroups: [
           [{ key: 'youtube', name: 'YouTube (Official Playlist)', url: 'https://www.youtube.com/playlist?list=PLbhHt7tfNMCAKp5X5y1UMg6er-xFUyB3J' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Brotherhood%20Final%20Fantasy%20XV%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Brotherhood Final Fantasy XV' }],
         ] },
         {
           title: 'Final Fantasy XV (2016) Remake (2018)',
@@ -71,21 +71,21 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             ]
           ],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '7.5', midUrl: 'https://www.metacritic.com/game/final-fantasy-xv-royal-edition/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-xv-royal-edition/', sourceUrl: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/', sourceLabel: 'Steam; Very Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '85', url: 'https://www.metacritic.com/game/final-fantasy-xv-royal-edition/' }, { kind: 'metacritic-user', score: '7.5', url: 'https://www.metacritic.com/game/final-fantasy-xv-royal-edition/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/' }] },
 
           languages: [
-            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-            { value: 'FR', tip: 'French — full audio', voice: true },
-            { value: 'DE', tip: 'German — full audio', voice: true },
-            { value: 'RU', tip: 'Russian — full audio', voice: true },
-            { value: 'IT', tip: 'Italian — text only' },
-            { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
-            { value: 'ES-419', tip: 'Spanish (Latin America) — text only' },
-            { value: 'KO', tip: 'Korean — text only' },
-            { value: 'PT-BR', tip: 'Portuguese (Brazil) — text only' },
-            { value: 'ZH-CN', tip: 'Simplified Chinese — text only' },
-            { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR', voice: true },
+            { value: 'DE', voice: true },
+            { value: 'RU', voice: true },
+            { value: 'IT', textOnly: true },
+            { value: 'ES-ES', textOnly: true },
+            { value: 'ES-419', textOnly: true },
+            { value: 'KO', textOnly: true },
+            { value: 'PT-BR', textOnly: true },
+            { value: 'ZH-CN', textOnly: true },
+            { value: 'ZH-TW', textOnly: true },
           ],
 
           storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
@@ -98,9 +98,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             [{ key: 'xbox-one', paren: 'Enhanced; Physical; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
             [{ key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Royal%20Edition%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy XV Royal Edition' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy XV Royal Edition' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy XV Royal Edition' },
             ],
           ],
 
@@ -115,22 +115,22 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             ]],
             tags: ['Optional'],
             languages: [
-              { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-              { value: 'EN-GB', tip: 'English (British)' },
-              { value: 'FR', tip: 'French — full audio', voice: true },
-              { value: 'DE', tip: 'German — full audio', voice: true },
-              { value: 'IT', tip: 'Italian — text only' },
-              { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
-              { value: 'KO', tip: 'Korean — text only' },
-              { value: 'PT-BR', tip: 'Portuguese (Brazil) — text only' },
-              { value: 'RU', tip: 'Russian — text only' },
-              { value: 'ZH-CN', tip: 'Simplified Chinese — text only' },
-              { value: 'ES-419', tip: 'Spanish (Latin America) — text only' },
-              { value: 'FR-CA', tip: 'French (Canada)' },
-              { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
-              { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
+              { value: 'JA', native: true, voice: true },
+              { value: 'EN-GB' },
+              { value: 'FR', voice: true },
+              { value: 'DE', voice: true },
+              { value: 'IT', textOnly: true },
+              { value: 'ES-ES', textOnly: true },
+              { value: 'KO', textOnly: true },
+              { value: 'PT-BR', textOnly: true },
+              { value: 'RU', textOnly: true },
+              { value: 'ZH-CN', textOnly: true },
+              { value: 'ES-419', textOnly: true },
+              { value: 'FR-CA' },
+              { value: 'ZH-TW', textOnly: true },
+              { value: 'EN-US', voice: true },
             ],
-            rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '79', source: '6.1', url: 'https://www.metacritic.com/game/final-fantasy-xv-pocket-edition/', sourceUrl: 'https://www.metacritic.com/game/final-fantasy-xv-pocket-edition/', sourceLabel: 'Metacritic User Score' },
+            rating: { scores: [{ kind: 'metacritic', score: '79', url: 'https://www.metacritic.com/game/final-fantasy-xv-pocket-edition/' }, { kind: 'metacritic-user', score: '6.1', url: 'https://www.metacritic.com/game/final-fantasy-xv-pocket-edition/' }] },
             storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv-pocket-edition',
             platformGroups: [
               [{ key: 'windows', url: 'https://apps.microsoft.com/detail/9mvr4t7znq1t' }],
@@ -147,9 +147,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
                 { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-pocket-edition-hd/c0wqrr1pp63d' },
               ],
               [
-                { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20game%20movie' },
-                { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20story%20recap' },
-                { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Pocket%20Edition%20playthrough' },
+                { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy XV Pocket Edition' },
+                { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XV Pocket Edition' },
+                { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy XV Pocket Edition' },
               ],
             ],
           },
@@ -160,7 +160,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
                 { label: 'Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV' },
               ],
               description: ['The original release.'],
-              languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+              languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
               helpWanted: true,
               platformGroups: [
                 [{ key: 'playstation4', noUrl: true }],
@@ -193,12 +193,12 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { text: '.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN', tip: 'English (fan translation)' }],
 
           platformGroups: [
             [{ key: 'compact-disc', paren: 'JP', jpTag: true, noUrl: true }],
             [{ key: 'fan-audiobook', name: 'Audio', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Prologue%3A%20Parting%20Ways' }],
-            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Prologue%3A%20Parting%20Ways%20story%20recap' }],
+            [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XV Prologue: Parting Ways' }],
           ],
 
           alt: {
@@ -211,10 +211,10 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
               'An official English translation of the Japan-only audio drama CD as a free web novel.'
             ],
             languages: [
-              { value: 'EN', tip: 'English', native: true, url: 'https://www.goodreads.com/book/show/33232393-final-fantasy-xv-prologue-parting-ways' },
-              { value: 'IT', tip: 'Italian', url: 'https://www.goodreads.com/book/show/60437037-final-fantasy-xv-prologo--strade-che-si-dividono-' },
+              { value: 'EN', native: true, url: 'https://www.goodreads.com/book/show/33232393-final-fantasy-xv-prologue-parting-ways' },
+              { value: 'IT', url: 'https://www.goodreads.com/book/show/60437037-final-fantasy-xv-prologo--strade-che-si-dividono-' },
             ],
-            rating: { scoreLabelText: 'Goodreads', score: '3.76', url: 'https://www.goodreads.com/book/show/33232393-final-fantasy-xv-prologue-parting-ways', single: true, sourceLabel: 'Goodreads' },
+            rating: { scores: [{ kind: 'goodreads', score: '3.76', url: 'https://www.goodreads.com/book/show/33232393-final-fantasy-xv-prologue-parting-ways' }] },
             length: '48p',
             platformGroups: [
               [{ key: 'book', name: 'Short Stories', url: 'https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf' }],
@@ -244,9 +244,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { text: ', focusing on Regis Lucis Caelum CXIII, the father of main character Noctis. The main protagonists are from the Kingsglaive, an elite combat corps who share Regis\'s magical powers and defend the kingdom of Lucis and its Crystal from the invading empire of Niflheim.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '6.7', url: 'https://www.imdb.com/title/tt5595168/', single: true, sourceLabel: 'IMDb' },
+          rating: { scores: [{ kind: 'imdb', score: '6.7', url: 'https://www.imdb.com/title/tt5595168/' }] },
 
           platformGroups: [
             [
@@ -254,7 +254,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
               { key: 'blu-ray', noUrl: true },
               { key: 'cast', noUrl: true },
             ],
-            [{ key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Kingsglaive%20Final%20Fantasy%20XV%20story%20recap' }],
+            [{ key: 'fan-recap', ytSearch: true, ytTitle: 'Kingsglaive Final Fantasy XV' }],
           ]
         },
         { title: 'Final Fantasy XV: Episode Gladiolus DLC', helpWanted: true, releaseDate: '2017-03-28', chronoOrder: 500, recommendedOrder: 310, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '1½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Completionist' }],
@@ -263,7 +263,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           { label: 'DLC', url: null, small: true },
         ],
         description: ['Gladiolus Amicitia as the player character.'],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '59', source: '6.8', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-gladiolus/', sourceUrl: 'https://www.metacritic.com/game/final-fantasy-xv-episode-gladiolus/', sourceLabel: 'Metacritic User Score' },
+        rating: { scores: [{ kind: 'metacritic', score: '59', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-gladiolus/' }, { kind: 'metacritic-user', score: '6.8', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-gladiolus/' }] },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
         platformGroups: [
           [{ key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5' }],
@@ -273,9 +273,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
           [{ key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
           [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Gladiolus%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Gladiolus%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Gladiolus%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Gladiolus' },
+            { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Gladiolus' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Gladiolus' },
           ],
         ] },
         { title: 'Final Fantasy XV: Episode Prompto DLC', releaseDate: '2017-06-27', chronoOrder: 600, recommendedOrder: 320, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Completionist' }],
@@ -286,7 +286,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         description: [
           'Takes place during a late-game narrative gap and follows Prompto Argentum as the player character, with the gameplay shifting towards third-person shooting and stealth-based mechanics.'
         ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '65', source: '7.0', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-prompto/', sourceUrl: 'https://www.metacritic.com/game/final-fantasy-xv-episode-prompto/', sourceLabel: 'Metacritic User Score' },
+        rating: { scores: [{ kind: 'metacritic', score: '65', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-prompto/' }, { kind: 'metacritic-user', score: '7.0', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-prompto/' }] },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
         platformGroups: [
           [{ key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5' }],
@@ -296,9 +296,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
           [{ key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
           [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Prompto%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Prompto%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Prompto%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Prompto' },
+            { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Prompto' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Prompto' },
           ],
         ] },
         { title: 'Final Fantasy XV: Episode Ignis DLC', releaseDate: '2017-12-13', chronoOrder: 700, recommendedOrder: 330, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '3h', tip: 'Completionist' }],
@@ -309,7 +309,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         description: [
           'Follows Ignis Scientia as he allies with the Imperial commander Ravus Nox Fleuret to protect Noctis.'
         ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '8.1', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-ignis/', single: true, sourceLabel: 'Metacritic User Score' },
+        rating: { scores: [{ kind: 'metacritic-user', score: '8.1', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-ignis/' }] },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
         platformGroups: [
           [{ key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5' }],
@@ -319,9 +319,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
           [{ key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' }],
           [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ignis%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ignis%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ignis%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Ignis' },
+            { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Ignis' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Ignis' },
           ],
         ] },
         { title: 'Final Fantasy XV: Episode Ardyn – Prologue', releaseDate: '2019-02-16', chronoOrder: -5000, recommendedOrder: 400, tags: ['Optional', 'Prologue', 'Video'], mediaType: 'Video',
@@ -333,10 +333,10 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           'Details the background of Ardyn Izunia from 2,000 years ago in Eos\' history when he used to work as a healer. Closed captioning is available.'
         ],
         languages: [{ value: 'JA', tip: 'Japanese — audio', native: true, voice: true }, { value: 'EN', tip: 'English — subtitles' }],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '6.5', url: 'https://www.imdb.com/title/tt9860590/', single: true, sourceLabel: 'IMDb' },
+        rating: { scores: [{ kind: 'imdb', score: '6.5', url: 'https://www.imdb.com/title/tt9860590/' }] },
         platformGroups: [
           [{ key: 'youtube', name: 'YouTube (Official)', url: 'https://www.youtube.com/watch?v=8yOOF8AKQbw' }],
-          [{ key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ardyn%20Prologue%20story%20recap' }],
+          [{ key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Ardyn Prologue' }],
         ] },
         { title: 'Final Fantasy XV: Episode Ardyn DLC', releaseDate: '2019-03-26', chronoOrder: -4500, recommendedOrder: 410, tags: ['Optional', 'DLC', 'Prequel'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4h', tip: 'Completionist' }],
         parts: [
@@ -346,7 +346,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         description: [
           'Set thirty years prior to the main game, Episode Ardyn details how Ardyn was discovered by the Empire of Niflheim and began his plot of revenge against the Lucian bloodline.'
         ],
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '60', midScore: '8.1', midUrl: 'https://www.metacritic.com/game/final-fantasy-xv-episode-ardyn/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-ardyn/', sourceUrl: 'https://store.steampowered.com/app/977610/FINAL_FANTASY_XV_EPISODE_ARDYN/', sourceLabel: 'Steam; Very Positive' },
+        rating: { scores: [{ kind: 'metacritic', score: '60', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-ardyn/' }, { kind: 'metacritic-user', score: '8.1', url: 'https://www.metacritic.com/game/final-fantasy-xv-episode-ardyn/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/977610/FINAL_FANTASY_XV_EPISODE_ARDYN/' }] },
         storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
         platformGroups: [
           [{ key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-episode-ardyn/9nf2jt0vkt6k' }],
@@ -358,9 +358,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ key: 'xbox-one', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-episode-ardyn/bpsh2wv558lc' }],
           [{ key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-episode-ardyn/bpsh2wv558lc' }],
           [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ardyn%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ardyn%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Episode%20Ardyn%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Ardyn' },
+            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XV Episode Ardyn' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Ardyn' },
           ],
         ] },
         {
@@ -384,20 +384,20 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { text: 'Due to it being terminated, it is recommended to watch a fan story recap or playthrough for story elements.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '6.5', url: 'https://www.metacritic.com/game/platinum-demo-final-fantasy-xv/', single: true, sourceLabel: 'Metacritic User Score' },
+          rating: { scores: [{ kind: 'metacritic-user', score: '6.5', url: 'https://www.metacritic.com/game/platinum-demo-final-fantasy-xv/' }] },
 
           platformGroups: [
-            [{ key: 'playstation4', name: 'PS4; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+            [{ key: 'playstation4', name: 'PS4; terminated', terminated: true, noUrl: true }],
             [
-              { key: 'xbox-one', name: 'Xbox One; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { key: 'xbox-xs', name: 'Xbox Series X/S (Xbox One compatibility); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'xbox-one', name: 'Xbox One; terminated', terminated: true, noUrl: true },
+              { key: 'xbox-xs', name: 'Xbox Series X/S (Xbox One compatibility); terminated', terminated: true, noUrl: true },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Platinum%20Demo%20Final%20Fantasy%20XV%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Platinum Demo Final Fantasy XV' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Platinum Demo Final Fantasy XV' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Platinum Demo Final Fantasy XV' },
             ],
           ]
         },
@@ -423,7 +423,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           ]],
 
           languages: [{ value: 'EN-US', tip: 'English (United States) — audio', native: true, voice: true }],
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '65', source: '6.3', url: 'https://www.metacritic.com/game/a-kings-tale-final-fantasy-xv/', sourceUrl: 'https://www.metacritic.com/game/a-kings-tale-final-fantasy-xv/', sourceLabel: 'Metacritic User Score' },
+          rating: { scores: [{ kind: 'metacritic', score: '65', url: 'https://www.metacritic.com/game/a-kings-tale-final-fantasy-xv/' }, { kind: 'metacritic-user', score: '6.3', url: 'https://www.metacritic.com/game/a-kings-tale-final-fantasy-xv/' }] },
 
           platformGroups: [
             [
@@ -435,9 +435,9 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
               { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/a-kings-tale-final-fantasy-xv/bw0d9lh9gg6d' },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=A%20King%27s%20Tale%20Final%20Fantasy%20XV%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'A King\'s Tale Final Fantasy XV' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'A King\'s Tale Final Fantasy XV' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'A King\'s Tale Final Fantasy XV' },
             ],
           ]
         },
@@ -450,16 +450,16 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           { emText: 'XV' },
           { text: ' while taking part in fishing around a variety of locations.' },
         ]],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+        languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
         helpWanted: true,
-        rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '62', source: '5.9', url: 'https://www.metacritic.com/game/monster-of-the-deep-final-fantasy-xv/', sourceUrl: 'https://www.metacritic.com/game/monster-of-the-deep-final-fantasy-xv/', sourceLabel: 'Metacritic User Score' },
+        rating: { scores: [{ kind: 'metacritic', score: '62', url: 'https://www.metacritic.com/game/monster-of-the-deep-final-fantasy-xv/' }, { kind: 'metacritic-user', score: '5.9', url: 'https://www.metacritic.com/game/monster-of-the-deep-final-fantasy-xv/' }] },
         storeUrl: 'https://www.square-enix-games.com/games/monster-of-the-deep-final-fantasy-xv',
         platformGroups: [
           [{ key: 'playstation4', url: 'https://www.playstation.com/games/monster-of-the-deep-final-fantasy-xv/' }],
           [
-            { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Monster%20of%20the%20Deep%20Final%20Fantasy%20XV%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Monster%20of%20the%20Deep%20Final%20Fantasy%20XV%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Monster%20of%20the%20Deep%20Final%20Fantasy%20XV%20playthrough' },
+            { key: 'fan-movie', ytSearch: true, ytTitle: 'Monster of the Deep Final Fantasy XV' },
+            { key: 'fan-recap', ytSearch: true, ytTitle: 'Monster of the Deep Final Fantasy XV' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Monster of the Deep Final Fantasy XV' },
           ],
           [{ key: 'playstation4', name: 'PlayStation VR', noUrl: true }],
         ] },
@@ -470,18 +470,18 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         description: [
           'Focused on the development of Insomnia as a kingdom. Due to it being terminated, it is recommended to watch the official clips and/or a fan story recap or playthrough for story elements.'
         ],
-        languages: [{ value: 'EN', tip: 'English', native: true }, { value: '…?', tip: 'Unknown additional languages' }],
+        languages: [{ value: 'EN', native: true }, { value: '…?' }],
         helpWanted: true,
         platformGroups: [
           [
-            { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-            { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+            { key: 'android2', name: 'Android; terminated', terminated: true, noUrl: true },
+            { key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true },
           ],
           [{ key: 'youtube', name: 'Official trailers and clips (Youtube)', url: 'https://www.youtube.com/@ffxvmobile/videos' }],
           [
-            { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20A%20New%20Empire%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20A%20New%20Empire%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20A%20New%20Empire%20playthrough' },
+            { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy XV A New Empire' },
+            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy XV A New Empire' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy XV A New Empire' },
           ],
         ] },
         { title: 'Final Fantasy XV: War for Eos', releaseDate: '2022-03-21', chronoOrder: 3000, recommendedOrder: 900, tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer', 'Terminated'], mediaType: 'Game',
@@ -497,13 +497,13 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         helpWanted: true,
         platformGroups: [
           [
-            { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-            { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+            { key: 'android2', name: 'Android; terminated', terminated: true, noUrl: true },
+            { key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true },
           ],
           [
-            { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20War%20for%20Eos%20game%20movie' },
-            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20War%20for%20Eos%20story%20recap' },
-            { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XV%20War%20for%20Eos%20playthrough' },
+            { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy XV War for Eos' },
+            { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy XV War for Eos' },
+            { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy XV War for Eos' },
           ],
         ] },
         {
@@ -530,14 +530,14 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { text: 'This is the original release, and the recommended way to play — the versions below are contemporary computer ports or a since-terminated mobile remake, not enhancements.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           platformGroups: [
             [{ key: 'nintendo-nes-fc', name: 'Nintendo Entertainment System (Famicom; Physical)', noUrl: true }],
-            [{ key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-            [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true, noUrl: true }],
-            [{ key: 'nintendo-3ds', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true, noUrl: true }],
+            [{ key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, noUrl: true }],
+            [{ key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true, noUrl: true }],
+            [{ key: 'nintendo-3ds', name: 'Nintendo 3DS: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true, noUrl: true }],
             [
               { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4 },
               { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4 },
@@ -561,8 +561,8 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
                 helpWanted: true,
                 platformGroups: [
                   [
-                    { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
-                    { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
+                    { key: 'android2', name: 'Android; terminated', terminated: true },
+                    { key: 'apple', name: 'iOS; terminated', terminated: true },
                   ],
                 ],
               },
@@ -578,7 +578,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
                   { emText: 'Remaster (1986)' },
                   { text: '.' },
                 ]],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+                languages: [{ value: 'JA', native: true }],
                 helpWanted: true,
                 platformGroups: [
                   [{ key: 'pc8801', paren: 'Physical; Japan Only' }],
@@ -593,7 +593,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
                 description: [
                   'Adds keyboard and joystick inputs, more sound channels with changed or improved sounds. Wider range of colors, updated graphics, new monster and boss designs, new UI sidebar. The MSX could not smoothly render vertical scrolling though, so movement can be described as "choppy".'
                 ],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+                languages: [{ value: 'JA', native: true }],
                 platformGroups: [
                   [{ key: 'msx', paren: 'Physical; Japan Only' }],
                 ],
@@ -612,15 +612,15 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           { text: ", closing out the stories of the world's dawning after the game's events." },
         ]],
         languages: [
-          { value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/51116768-final-fantasy-xv' },
-          { value: 'EN', tip: 'English', url: 'https://www.goodreads.com/book/show/48565746-final-fantasy-xv' },
+          { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/51116768-final-fantasy-xv' },
+          { value: 'EN', url: 'https://www.goodreads.com/book/show/48565746-final-fantasy-xv' },
           { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/123300882-final-fantasy-xv-el-amanecer-del-futuro' },
-          { value: 'FR', tip: 'French', url: 'https://www.goodreads.com/book/show/54952399-final-fantasy-xv' },
+          { value: 'FR', url: 'https://www.goodreads.com/book/show/54952399-final-fantasy-xv' },
         ],
-        rating: { scoreLabelText: 'Goodreads', score: '4.17', url: 'https://www.goodreads.com/book/show/48565746-final-fantasy-xv', single: true, sourceLabel: 'Goodreads' },
+        rating: { scores: [{ kind: 'goodreads', score: '4.17', url: 'https://www.goodreads.com/book/show/48565746-final-fantasy-xv' }] },
         platformGroups: [
           [{ key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090006' }],
-          [{ key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%3A%20The%20Dawn%20of%20the%20Future%20story%20recap' }],
+          [{ key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy XV: The Dawn of the Future' }],
         ] },
         { title: 'Final Fantasy XV Official Comic Anthology', releaseDate: '2017-07-27', chronoOrder: 3600, recommendedOrder: 960, tags: ['Optional', 'Short Stories', 'Manga'], mediaType: 'Comic', length: '128p',
         parts: [
@@ -630,13 +630,13 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         description: [
           'An anthology of short manga centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/36208245-final-fantasy-xv-official-comic-anthology-2017-7-27' }, { value: 'EN', tip: 'English (fan translation)' }],
-        rating: { scoreLabelText: 'Goodreads', score: '4.23', url: 'https://www.goodreads.com/book/show/36208245-final-fantasy-xv-official-comic-anthology-2017-7-27', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/36208245-final-fantasy-xv-official-comic-anthology-2017-7-27' }, { value: 'EN', tip: 'English (fan translation)' }],
+        rating: { scores: [{ kind: 'goodreads', score: '4.23', url: 'https://www.goodreads.com/book/show/36208245-final-fantasy-xv-official-comic-anthology-2017-7-27' }] },
         helpWanted: true,
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XV Official Comic Anthology' }],
         ] },
         { title: 'Final Fantasy XV Anthology 2', releaseDate: '2017-12-26', chronoOrder: 3700, recommendedOrder: 965, tags: ['Optional', 'Short Stories', 'Manga'], mediaType: 'Comic', length: '128p',
         parts: [
@@ -646,12 +646,12 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         description: [
           'A second anthology of short manga, again centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum.'
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true, url: 'https://www.goodreads.com/book/show/42416261-final-fantasy-xv-official-comic-anthology-2' }],
-        rating: { scoreLabelText: 'Goodreads', score: '4.57', url: 'https://www.goodreads.com/book/show/42416261-final-fantasy-xv-official-comic-anthology-2', single: true, sourceLabel: 'Goodreads' },
+        languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/42416261-final-fantasy-xv-official-comic-anthology-2' }],
+        rating: { scores: [{ kind: 'goodreads', score: '4.57', url: 'https://www.goodreads.com/book/show/42416261-final-fantasy-xv-official-comic-anthology-2' }] },
         helpWanted: true,
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%202%20translation' }],
-        [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%202%20story%20recap' }],
+        [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XV Official Comic Anthology 2' }],
         ] },
       ]};

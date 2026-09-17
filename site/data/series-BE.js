@@ -20,14 +20,14 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           ]],
 
           languages: [
-            { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
-            { value: 'EN-US', tip: 'English (US) — full audio', voice: true },
-            { value: 'FR', tip: 'French — text only' },
-            { value: 'DE', tip: 'German — text only' },
-            { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
-            { value: 'ZH-CN', tip: 'Simplified Chinese — text only' },
-            { value: 'ZH-TW', tip: 'Traditional Chinese — text only' },
-            { value: 'KO', tip: 'Korean — text only' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR', textOnly: true },
+            { value: 'DE', textOnly: true },
+            { value: 'ES-ES', textOnly: true },
+            { value: 'ZH-CN', textOnly: true },
+            { value: 'ZH-TW', textOnly: true },
+            { value: 'KO', textOnly: true },
           ],
 
           storeUrl: 'https://www.square-enix.com/finalfantasyresonance/',
@@ -42,9 +42,9 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
               { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-resonance-switch/' },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Resonance%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Resonance%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Resonance%20playthrough' },
+              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Resonance' },
+              { key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Resonance' },
+              { key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Resonance' },
             ],
           ],
         },
@@ -60,7 +60,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
             { label: 'Final Fantasy Brave Exvius (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Brave_Exvius' },
           ],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'FR', tip: 'French' }, { value: 'DE', tip: 'German' }, { value: 'ES', tip: 'Spanish' }, { value: 'KO', tip: 'Korean' }, { value: 'ZH-TW', tip: 'Traditional Chinese' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: 'FR' }, { value: 'DE' }, { value: 'ES' }, { value: 'KO' }, { value: 'ZH-TW' }],
 
           description: [
             'Rain and Lasswell help fight off an attack on the Earth crystal. Incorporates elements and characters from other Final Fantasy titles, as well as outside franchises. Can be considered a bit of a mash-up.',
@@ -71,13 +71,13 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
 
           platformGroups: [
             [
-              { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android; terminated', terminated: true, noUrl: true },
+              { key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy Brave Exvius' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy Brave Exvius' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Brave Exvius' },
             ],
           ]
         },
@@ -91,21 +91,21 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           { emText: 'Brave Exvius (2015)' },
           { text: '.' },
         ]],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
+        languages: [{ value: 'JA', native: true }, { value: 'EN' }],
         platformGroups: [
           [{ key: 'book', name: 'Manga (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Brave%20Exvius%20Rikodoki!%20translation' }],
-          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20Rikodoki!%20story%20recap' }],
+          [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Brave Exvius Rikodoki!' }],
         ] },
         { title: 'Final Fantasy Brave Exvius Tap!', releaseDate: '2017-09-08', chronoOrder: 100, recommendedOrder: 200, tags: ['Optional', 'Spin-off', 'Clicker', 'Terminated'], mediaType: 'Game',
         parts: [
           { label: 'Final Fantasy Brave Exvius Tap! (2017)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Tap!' },
         ],
         description: ['A clicker or incremental game.'],
-        languages: [{ value: 'EN', tip: 'English', native: true }],
+        languages: [{ value: 'EN', native: true }],
         platformGroups: [
-          [{ key: 'facebook', name: 'Facebook (Messenger); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-          [{ key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20Brave%20Exvius%20Tap%20playthrough' }],
+          [{ key: 'facebook', name: 'Facebook (Messenger); terminated', terminated: true, noUrl: true }],
+          [{ key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Brave Exvius Tap' }],
         ] },
         {
           title: 'War of the Visions: Final Fantasy Brave Exvius',
@@ -126,18 +126,18 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
             { text: '.' },
           ]],
 
-          languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
           platformGroups: [
             [
-              { key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
-              { key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true },
+              { key: 'android2', name: 'Android; terminated', terminated: true, noUrl: true },
+              { key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true },
             ],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=War%20of%20the%20Visions%20Final%20Fantasy%20Brave%20Exvius%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=War%20of%20the%20Visions%20Final%20Fantasy%20Brave%20Exvius%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=War%20of%20the%20Visions%20Final%20Fantasy%20Brave%20Exvius%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'War of the Visions Final Fantasy Brave Exvius' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'War of the Visions Final Fantasy Brave Exvius' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'War of the Visions Final Fantasy Brave Exvius' },
             ],
           ]
         },

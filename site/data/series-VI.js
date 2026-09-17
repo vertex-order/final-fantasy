@@ -17,16 +17,16 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
           storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
 
           languages: [
-            { value: 'JA', tip: 'Japanese', native: true },
-            { value: 'EN-US', tip: 'English (US)' },
-            { value: 'FR', tip: 'French' },
-            { value: 'DE', tip: 'German' },
-            { value: 'IT', tip: 'Italian' },
-            { value: 'KO', tip: 'Korean' },
-            { value: 'PT-BR', tip: 'Portuguese (Brazil)' },
-            { value: 'RU', tip: 'Russian' },
-            { value: 'ES-ES', tip: 'Spanish (Spain)' },
-            { value: 'TH', tip: 'Thai' },
+            { value: 'JA', native: true },
+            { value: 'EN-US' },
+            { value: 'FR' },
+            { value: 'DE' },
+            { value: 'IT' },
+            { value: 'KO' },
+            { value: 'PT-BR' },
+            { value: 'RU' },
+            { value: 'ES-ES' },
+            { value: 'TH' },
             { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
             { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
           ],
@@ -45,7 +45,7 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
             { text: '.' },
           ]],
 
-          rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '92', midScore: '8.4', midUrl: 'https://www.metacritic.com/game/final-fantasy-vi/', source: 'VP', url: 'https://www.metacritic.com/game/final-fantasy-vi/', sourceUrl: 'https://store.steampowered.com/app/1173820/FINAL_FANTASY_VI/', sourceLabel: 'Steam; Very Positive' },
+          rating: { scores: [{ kind: 'metacritic', score: '92', url: 'https://www.metacritic.com/game/final-fantasy-vi/' }, { kind: 'metacritic-user', score: '8.4', url: 'https://www.metacritic.com/game/final-fantasy-vi/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/1173820/FINAL_FANTASY_VI/' }] },
 
           platformGroups: [
             [{ key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' }],
@@ -62,9 +62,9 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
             [{ key: 'xbox-cloud', name: 'Xbox Cloud', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' }],
             [{ key: 'amazon', url: 'https://www.amazon.com/dp/B09RFBLK4Y?' }],
             [
-              { key: 'fan-movie', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20game%20movie' },
-              { key: 'fan-recap', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20story%20recap' },
-              { key: 'fan-playthrough', paren: 'Youtube', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20VI%20playthrough' },
+              { key: 'fan-movie', ytSearch: true, ytTitle: 'final fantasy VI' },
+              { key: 'fan-recap', ytSearch: true, ytTitle: 'final fantasy VI' },
+              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy VI' },
             ],
           ],
 
@@ -81,19 +81,19 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
                   'This remaster has high-resolution graphics, redesigned sprites, movement in eight directions, and auto-battle.'
                 ],
                 languages: [
-                  { value: 'JA', tip: 'Japanese', native: true },
-                  { value: 'EN', tip: 'English' },
-                  { value: 'FR', tip: 'French' },
-                  { value: 'DE', tip: 'German' },
-                  { value: 'IT', tip: 'Italian' },
-                  { value: 'PT-PT', tip: 'Portuguese (Portugal)' },
-                  { value: 'RU', tip: 'Russian' },
-                  { value: 'ES-ES', tip: 'Spanish (Spain)' },
+                  { value: 'JA', native: true },
+                  { value: 'EN' },
+                  { value: 'FR' },
+                  { value: 'DE' },
+                  { value: 'IT' },
+                  { value: 'PT-PT' },
+                  { value: 'RU' },
+                  { value: 'ES-ES' },
                 ],
                 platformGroups: [
-                  [{ key: 'steam', name: 'Steam (PC); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, url: 'https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/' }],
-                  [{ key: 'android2', name: 'Android; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
-                  [{ key: 'apple', name: 'iOS; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, noUrl: true }],
+                  [{ key: 'steam', name: 'Steam (PC); terminated', terminated: true, url: 'https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/' }],
+                  [{ key: 'android2', name: 'Android; terminated', terminated: true, noUrl: true }],
+                  [{ key: 'apple', name: 'iOS; terminated', terminated: true, noUrl: true }],
                 ],
               },
               {
@@ -111,7 +111,7 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
                   }, '.']
                 ],
 
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: 'DE', tip: 'German' }, { value: 'FR', tip: 'French' }, { value: 'IT', tip: 'Italian' }, { value: 'ES', tip: 'Spanish' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: 'DE' }, { value: 'FR' }, { value: 'IT' }, { value: 'ES' }],
 
                 platformGroups: [
                   [{ key: 'nintendo-game-boy-advance', paren: 'Physical' }],
@@ -138,7 +138,7 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
                   tip: 'North America'
                 }, ' (1999).']],
 
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
                 helpWanted: true,
 
                 platformGroups: [
@@ -159,13 +159,13 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
                   { emText: 'Final Fantasy III (Non-Japan, 1994)' },
                   { text: '.' },
                 ]],
-                languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
+                languages: [{ value: 'JA', native: true }, { value: 'EN' }],
                 platformGroups: [
                   [{ key: 'nintendo-snes', name: 'Super Nintendo Entertainment System (SNES) Classic Edition' }],
                   [{ key: 'nintendo-snes', name: 'Super Nintendo Entertainment System (Super Famicom; Physical)' }],
                   [
-                    { key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5 },
-                    { key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, strikeColor: 'currentColor', contentOpacity: 0.5, jpTag: true },
+                    { key: 'nintendo-wii', name: 'Nintendo Wii: Virtual Console; terminated', terminated: true },
+                    { key: 'nintendo-wii-u', name: 'Nintendo Wii U: Virtual Console (Japan Only); terminated', terminated: true, jpTag: true },
                   ],
                 ],
               },
@@ -177,7 +177,7 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
           { label: "Figaro's Wedding: Tales from Desert (1994)", url: 'https://breezewiki.com/finalfantasy/wiki/Figaro_no_Kekkon:_Tales_from_Desert' },
           { label: 'Book', url: null, small: true },
         ],
-        languages: [{ value: 'JA', tip: 'Japanese', native: true }],
+        languages: [{ value: 'JA', native: true }],
         description: [
           'A doujinshi by Kaori Tanaka exploring the backstory of Sabin and Edgar within Figaro Castle, told as a non-linear collection of short stories covering Edgar\'s flirtations, Sabin\'s training, and the kingdom\'s history. Tanaka wrote much of Sabin and Edgar\'s original characterization for Final Fantasy VI, giving this unofficial work unusual authority despite her own insert disclaiming it as non-canon. Included here as a notable alternate-universe curiosity rather than official media; now very rare. Released as フィガロの結婚 (Figaro no Kekkon).'
         ],
@@ -185,6 +185,6 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Short Stories (Japan Only)', jpTag: true, noUrl: true },
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20VI%20Figaro%20No%20Kekkon%20Figaro%27s%20Wedding%3A%20Tales%20from%20Desert%20translate' }],
-        [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VI%20Figaro%20No%20Kekkon%20Figaro%27s%20Wedding%3A%20Tales%20from%20Desert%20story%20recap' }],
+        [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy VI Figaro No Kekkon Figaro\'s Wedding: Tales from Desert' }],
         ] },
       ]};
