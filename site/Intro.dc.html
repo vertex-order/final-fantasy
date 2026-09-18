@@ -16,10 +16,6 @@
 <!-- data/theme.css: per-repo color overrides, not vendored -- see kit's docs/init-list.md "Theme colors" -->
 <link rel="stylesheet" href="data/theme.css">
 <script src="./theme-dev.js"></script>
-<!-- Cinzel: this repo's --font-display face (see theme.css). Loaded here,
-     not in vendored page.dc.html, since Intro.dc.html is the one place this
-     repo owns outright. -->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&display=swap">
 </helmet>
 
 <h1 style="font-family: var(--font-display, var(--font-heading)); font-weight: var(--font-display-weight, 500); letter-spacing: var(--font-display-tracking, normal); font-size: 40px; margin: var(--space-6) 0 0;">{{ title }}</h1>

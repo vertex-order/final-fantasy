@@ -14,8 +14,12 @@
    --font-display line to fall back to --font-heading everywhere. A more
    modern (FFVII+) logotype look would trade Cinzel for a slanted/italic
    serif like Cormorant Garamond Italic instead — ask if you want that
-   variant. The Cinzel font itself is loaded via a <link> in page.dc.html's
-   <helmet> (an @import here risks taking the whole sheet down if blocked).
+   variant. Cinzel is self-hosted (site/fonts/cinzel-{500,600,700}.woff2,
+   latin subset only) rather than a Google Fonts <link>: no third-party
+   request, and the @font-face rules below don't carry the blocking risk an
+   @import would (an @import stalls parsing of the rest of this sheet if the
+   fetch is slow/blocked; @font-face just registers the face, loaded lazily
+   only once matching text is painted).
 
    Checked the two fan fonts on fontspace.com/category/final-fantasy: the
    one literally named "Final Fantasy" is a direct trace of the real
@@ -30,6 +34,28 @@
    Gold accent is anchored on the #C8A951 commonly cited as the series'
    anniversary/premium gold; accent stays crystal-blue as primary, per the
    series' menu-UI/art association most people make with the franchise. */
+
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../fonts/cinzel-500.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../fonts/cinzel-600.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/cinzel-700.woff2') format('woff2');
+}
 
 :root {
   --font-display: "Cinzel", var(--font-heading);
