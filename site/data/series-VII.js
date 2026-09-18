@@ -292,18 +292,18 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           }
         },
         {
-          title: 'Final Fantasy VII Remake',
+          title: 'Final Fantasy VII Remake ~Part 1~',
           releaseDate: '2020-04-10',
           chronoOrder: 100,
           recommendedOrder: 600,
           mainline: true,
-          tags: ['Trilogy', 'Part 1', 'Real-time action'],
+          tags: ['Trilogy', 'Real-time action'],
           mediaType: 'Game',
           lengthParts: [{ value: '32h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '41h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '85½h', tip: 'Completionist', sep: true, sepChar: ', ' }, { value: 'INTERmission 4½h', tip: 'INTERmission Main Story', sep: true, sepChar: ' / ' }, { value: '7h', tip: 'INTERmission Main + Extra', sep: true, sepChar: ' / ' }, { value: '16h', tip: 'INTERmission Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy VII (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII' },
-            { label: 'Remake Part 1: Intergrade (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake', small: true },
+            { label: 'Final Fantasy VII Remake ~Part 1~ (2020)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake' },
+            { label: 'Intergrade (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake', small: true },
           ],
 
           languages: [
@@ -326,7 +326,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             [
               { text: 'Enhanced version of the first in a trilogy to completely remake ' },
               { emText: 'VII (1997)' },
-              { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the remake trilogy, you can choose to play Remake (2013) that more closely resembles the original ' },
+              { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the remake trilogy, you can choose to play the original ' },
               { emText: 'VII (1997; listed separately)' },
               { text: '.' },
             ]
@@ -357,8 +357,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             extras: [
               {
                 parts: [
-                  { label: 'Final Fantasy VII (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII' },
-                  { label: 'Remake Part 1 (2020)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake', small: true },
+                  { label: 'Final Fantasy VII Remake (2020)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake' },
                 ],
                 description: [[
                   { text: 'The original release of the 3 part remake. ' },
@@ -385,18 +384,17 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           }
         },
         {
-          title: 'Final Fantasy VII Rebirth',
+          title: 'Final Fantasy VII Rebirth ~Part 2~',
           releaseDate: '2024-02-29',
           chronoOrder: 200,
           recommendedOrder: 700,
           mainline: true,
-          tags: ['Trilogy', 'Part 2', 'Real-time action'],
+          tags: ['Trilogy', 'Real-time action'],
           mediaType: 'Game',
           lengthParts: [{ value: '48½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '91½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '161h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy VII (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII' },
-            { label: 'Remake Part 2: Rebirth (2024)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII_Rebirth', small: true },
+            { label: 'Final Fantasy VII Rebirth ~Part 2~ (2024)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII_Rebirth' },
           ],
 
           languages: [
@@ -419,7 +417,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             [
               { text: 'Second in a trilogy to completely remake ' },
               { emText: 'VII (1997)' },
-              { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the remake trilogy, you can choose to play Remake (2013) that more closely resembles the original ' },
+              { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the remake trilogy, you can choose to play the original ' },
               { emText: 'VII (1997; listed separately)' },
               { text: '.' },
             ]
@@ -447,17 +445,16 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy VII Revelation',
+          title: 'Final Fantasy VII Revelation ~Part 3~',
           releaseDate: '2027-04-08',
           chronoOrder: 300,
           recommendedOrder: 800,
           mainline: true,
-          tags: ['Trilogy', 'Part 3', 'Real-time action'],
+          tags: ['Trilogy', 'Real-time action'],
           mediaType: 'Game',
 
           parts: [
-            { label: 'Final Fantasy VII (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII' },
-            { label: 'Remake Part 3: Revelation (2027)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII_Revelation', small: true },
+            { label: 'Final Fantasy VII Revelation ~Part 3~ (2027)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VII_Revelation' },
           ],
 
           languages: [
@@ -479,7 +476,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             [
               { text: 'Not yet released. The final and third in a trilogy to completely remake ' },
               { emText: 'VII (1997)' },
-              { text: ' as an expanded modern RPG with new sensibilities and features. Instead of the remake trilogy, you can choose to play Remake (2013) that more closely resembles the original ' },
+              { text: ' as an expanded modern RPG with new sensibilities and features. Instead of the remake trilogy, you can choose to play the original ' },
               { emText: 'VII (1997; listed separately)' },
               { text: '.' },
             ]
@@ -508,7 +505,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         ],
         description: [
           'Cloud joins AVALANCHE, an eco-terrorist group trying to stop the megacorporation Shinra from destroying the planet.',
-          'As originally told in one combined story. You can instead choose the modern remake trilogy above.',
+          'As originally told in one combined story. A different experience from the modern remake trilogy — many players play both.',
           'Includes autosave and cloud saves, multiple optional cheats, and disabled random encounters. PC versions (Steam, GOG) have extensive unofficial modding support.'
         ],
         rating: { scores: [{ kind: 'metacritic', score: '92', url: 'https://www.metacritic.com/game/final-fantasy-vii/' }, { kind: 'metacritic-user', score: '8.9', url: 'https://www.metacritic.com/game/final-fantasy-vii/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII/' }] },
