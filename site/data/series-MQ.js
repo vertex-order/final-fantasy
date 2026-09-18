@@ -16,7 +16,7 @@ window.__ffSeriesReg['MQ'] = { num: 'MQ', releaseDate: '1992-10-05', chronoOrder
           ],
 
           parts: [
-            { label: 'Final Fantasy Mystic Quest (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Mystic_Quest' },
+            { label: 'Final Fantasy Mystic Quest (1992)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Mystic_Quest' },
           ],
 
           description: [
@@ -36,7 +36,7 @@ window.__ffSeriesReg['MQ'] = { num: 'MQ', releaseDate: '1992-10-05', chronoOrder
               { emText: ' GB', tip: 'Game Boy', helpStyle: 'cursor: help;' },
               { emText: ')' },
               { text: ' by Square which was spun off into the unrelated series ' },
-              { emLinkText: 'Mana', emLinkUrl: 'https://en.wikipedia.org/wiki/Mana_(series)' },
+              { emLinkText: 'Mana', emLinkUrl: 'https://wikipedia.org/wiki/Mana_(series)' },
               { text: '.' },
             ]
           ],

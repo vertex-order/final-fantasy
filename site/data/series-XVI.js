@@ -1,7 +1,7 @@
 window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrder: 1700, recommendedOrder: 1700, title: 'Final Fantasy XVI', note: 'A dark, mature tale full of spectacle, with real-time action combat and kaiju-scale Eikon battles, a recommended starting point for newcomers.', games: [
         { title: 'Final Fantasy XVI', releaseDate: '2023-06-22', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['First-time players', 'Action rpg'], mediaType: 'Game', lengthParts: [{ value: '38½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '59h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '82½h', tip: 'Completionist' }],
         parts: [
-          { label: 'Final Fantasy XVI (2023)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XVI' },
+          { label: 'Final Fantasy XVI (2023)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XVI' },
         ],
         description: [
           'Clive Rosfield is passed over as successor to Rosaria\'s crown when his younger brother Joshua is revealed to yield great magical power as the Dominant of Phoenix. Embracing his new role as protector, he becomes embroiled in the region\'s wars as the nations vie for scarce resources.',
@@ -43,7 +43,7 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrd
         ] },
         { title: 'Echoes of the Fallen', releaseDate: '2023-12-07', chronoOrder: 1000, recommendedOrder: 110, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '3h', tip: 'Completionist' }],
         parts: [
-          { label: 'Final Fantasy XVI: Echoes of the Fallen (2023)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates' },
+          { label: 'Final Fantasy XVI: Echoes of the Fallen (2023)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates' },
           { label: 'DLC', url: null, small: true },
         ],
         description: [
@@ -65,7 +65,7 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrd
         ] },
         { title: 'The Rising Tide', releaseDate: '2024-04-18', chronoOrder: 2000, recommendedOrder: 120, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '4h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '9½h', tip: 'Completionist' }],
         parts: [
-          { label: 'Final Fantasy XVI: The Rising Tide (2024)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates' },
+          { label: 'Final Fantasy XVI: The Rising Tide (2024)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates' },
           { label: 'DLC', url: null, small: true },
         ],
         description: [

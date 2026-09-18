@@ -45,8 +45,8 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           helpWanted: true,
 
           parts: [
-            { label: 'Dissidia Final Fantasy (2008)', url: 'https://en.wikipedia.org/wiki/Dissidia_Final_Fantasy' },
-            { label: 'Remake (2011)', url: 'https://en.wikipedia.org/wiki/Dissidia_012_Final_Fantasy', small: true },
+            { label: 'Dissidia Final Fantasy (2008)', url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy' },
+            { label: 'Remake (2011)', url: 'https://wikipedia.org/wiki/Dissidia_012_Final_Fantasy', small: true },
           ],
 
           description: [
@@ -78,7 +78,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
             extras: [
               {
                 parts: [
-                  { label: 'Dissidia Final Fantasy (2008)', url: 'https://en.wikipedia.org/wiki/Dissidia_Final_Fantasy' },
+                  { label: 'Dissidia Final Fantasy (2008)', url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy' },
                 ],
                 description: [[
                   { text: 'The original release. The Western versions add new cutscenes, an Arcade Mode, and ease unlocking Shade Impulse and grinding for player icons. Also released as ' },
@@ -116,7 +116,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           ],
 
           parts: [
-            { label: 'Dissidia Final Fantasy NT (2015)', url: 'https://en.wikipedia.org/wiki/Dissidia_Final_Fantasy_NT' },
+            { label: 'Dissidia Final Fantasy NT (2015)', url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_NT' },
           ],
 
           description: [[
@@ -161,7 +161,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           helpWanted: true,
 
           parts: [
-            { label: 'Dissidia Final Fantasy Opera Omnia (2017)', url: 'https://en.wikipedia.org/wiki/Dissidia_Final_Fantasy_Opera_Omnia' },
+            { label: 'Dissidia Final Fantasy Opera Omnia (2017)', url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_Opera_Omnia' },
           ],
 
           description: [[
@@ -194,7 +194,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: 'KO' }, { value: 'ZH-TW' }],
 
           parts: [
-            { label: 'Dissidia Duellum Final Fantasy (2026)', url: 'https://en.wikipedia.org/wiki/Dissidia_Duellum_Final_Fantasy' },
+            { label: 'Dissidia Duellum Final Fantasy (2026)', url: 'https://wikipedia.org/wiki/Dissidia_Duellum_Final_Fantasy' },
           ],
 
           description: [[

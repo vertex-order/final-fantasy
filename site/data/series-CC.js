@@ -1,8 +1,8 @@
-window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder: 1200, recommendedOrder: 1200, title: 'Crystal Chronicles', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles', note: 'Known for its focus on co-operative gameplay, a return to Nintendo with the GameCube.', games: [
+window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder: 1200, recommendedOrder: 1200, title: 'Crystal Chronicles', url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles', note: 'Known for its focus on co-operative gameplay, a return to Nintendo with the GameCube.', games: [
         { title: 'Final Fantasy Crystal Chronicles', releaseDate: '2003-08-08', chronoOrder: 0, recommendedOrder: 100, tags: ['Action role-playing', 'Co-op'], mediaType: 'Game', lengthParts: [{ value: '17½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '43h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '93h', tip: 'Completionist' }],
         parts: [
-          { label: 'Final Fantasy Crystal Chronicles (2003)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)' },
-          { label: 'Remaster (2020)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)#Remastered_Edition', small: true },
+          { label: 'Final Fantasy Crystal Chronicles (2003)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)' },
+          { label: 'Remaster (2020)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)#Remastered_Edition', small: true },
         ],
         languages: [
           { value: 'JA', native: true, voice: true },
@@ -39,7 +39,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           extras: [
             {
               label: 'Final Fantasy Crystal Chronicles (2003)',
-              url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)',
+              url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)',
               description: [
                 'The original release, which used up to four Game Boy Advance units connected to a single GameCube to provide four player co-op multiplayer.'
               ],
@@ -56,7 +56,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
         } },
         { title: 'Final Fantasy Crystal Chronicles ~Beyond the Endless Sky~', releaseDate: '2004-01-10', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Manga'], mediaType: 'Comic', length: '3 volumes',
         parts: [
-          { label: 'Final Fantasy Crystal Chronicles ~Beyond the Endless Sky~ (2004)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
+          { label: 'Final Fantasy Crystal Chronicles ~Beyond the Endless Sky~ (2004)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Comic', url: null, small: true },
         ],
         description: [[
@@ -73,7 +73,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
         ] },
         { title: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village', releaseDate: '2004-02-06', chronoOrder: 600, recommendedOrder: 160, tags: ['Optional', 'Novel'], mediaType: 'Book',
         parts: [
-          { label: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village (2004)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
+          { label: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village (2004)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
         ],
         description: [[
@@ -90,7 +90,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
         ] },
         { title: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', releaseDate: '2004-01-16', chronoOrder: 700, recommendedOrder: 170, tags: ['Optional', 'Manga'], mediaType: 'Comic',
         parts: [
-          { label: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater (2004)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Manga' },
+          { label: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater (2004)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Manga' },
           { label: 'Comic', url: null, small: true },
         ],
         description: [[
@@ -116,7 +116,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           lengthParts: [{ value: '18h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '35h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '78½h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy Crystal Chronicles: My Life as a King (2008)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King' },
+            { label: 'Final Fantasy Crystal Chronicles: My Life as a King (2008)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King' },
           ],
 
           description: [[
@@ -151,7 +151,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           lengthParts: [{ value: '10½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '16h', tip: 'Main + Extra' }],
 
           parts: [
-            { label: 'Final Fantasy Crystal Chronicles: My Life as a Darklord (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_Darklord' },
+            { label: 'Final Fantasy Crystal Chronicles: My Life as a Darklord (2009)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_Darklord' },
           ],
 
           description: [[
@@ -186,7 +186,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           lengthParts: [{ value: '10½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '16½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '32h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy Crystal Chronicles: The Crystal Bearers (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers' },
+            { label: 'Final Fantasy Crystal Chronicles: The Crystal Bearers (2009)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers' },
           ],
 
           description: [[
@@ -218,7 +218,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           lengthParts: [{ value: '12½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '17½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '23½h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy Crystal Chronicles: Ring of Fates (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates' },
+            { label: 'Final Fantasy Crystal Chronicles: Ring of Fates (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates' },
           ],
 
           description: [[
@@ -242,7 +242,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
         },
         { title: 'Final Fantasy Crystal Chronicles: Ring of Fates ~Manga~', releaseDate: '2008-03-01', chronoOrder: -250, recommendedOrder: 550, tags: ['Optional', 'Manga'], mediaType: 'Comic', length: '2 volumes',
         parts: [
-          { label: 'Final Fantasy Crystal Chronicles: Ring of Fates ~Manga~ (2008)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
+          { label: 'Final Fantasy Crystal Chronicles: Ring of Fates ~Manga~ (2008)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Comic', url: null, small: true },
         ],
         description: [[
@@ -267,7 +267,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           lengthParts: [{ value: '14h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '19h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '31½h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy Crystal Chronicles: Echoes of Time (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time' },
+            { label: 'Final Fantasy Crystal Chronicles: Echoes of Time (2009)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time' },
           ],
 
           description: [[

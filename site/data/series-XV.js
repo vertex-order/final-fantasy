@@ -1,4 +1,4 @@
-window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder: 1600, recommendedOrder: 1600, title: 'Final Fantasy XV Universe', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Final_Fantasy_XV_Universe', note: 'Loosely connected to Fabula Nova Crystallis – Final Fantasy XIII (optional to play first), XV was designed from the start as a multi-media story across games, TV, movies, and manga.',
+window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder: 1600, recommendedOrder: 1600, title: 'Final Fantasy XV Universe', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Final_Fantasy_XV_Universe', note: 'Loosely connected to Fabula Nova Crystallis – Final Fantasy XIII (optional to play first), XV was designed from the start as a multi-media story across games, TV, movies, and manga.',
       notePartsMap: {
         'Loosely connected to Fabula Nova Crystallis – Final Fantasy XIII (optional to play first), XV was designed from the start as a multi-media story across games, TV, movies, and manga.': [
           { text: 'Loosely connected to ' },
@@ -8,7 +8,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
       }, games: [
         { title: 'Brotherhood: Final Fantasy XV', releaseDate: '2016-03-30 10', chronoOrder: -2000, recommendedOrder: 100, tags: ['Prequel', 'Anime'], mediaType: 'TV', length: '5 episodes',
         parts: [
-          { label: 'Brotherhood: Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV' },
+          { label: 'Brotherhood: Final Fantasy XV (2016)', url: 'https://wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV' },
           { label: 'anime', url: null, small: true },
         ],
         description: [
@@ -41,8 +41,8 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           lengthParts: [{ value: '27½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '56½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '116h', tip: 'Completionist', sep: true, sepChar: ', ' }, { value: 'Comrades 38½h', tip: 'Comrades Co-op' }],
 
           parts: [
-            { label: 'Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV' },
-            { label: 'Remake (2018)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV#Release', small: true },
+            { label: 'Final Fantasy XV (2016)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV' },
+            { label: 'Remake (2018)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV#Release', small: true },
           ],
 
           description: [
@@ -106,7 +106,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
 
           alt: {
             parts: [
-              { label: 'Final Fantasy XV: Pocket Edition (2018)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV:_Pocket_Edition' },
+              { label: 'Final Fantasy XV: Pocket Edition (2018)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV:_Pocket_Edition' },
             ],
             description: [[
               { text: 'Abridged version in 10 chapters retelling the main XV (2016) game. Released as ' },
@@ -157,7 +157,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           extras: [
             {
               parts: [
-                { label: 'Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV' },
+                { label: 'Final Fantasy XV (2016)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV' },
               ],
               description: ['The original release.'],
               languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
@@ -230,7 +230,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           mediaType: 'Movie',
 
           parts: [
-            { label: 'Kingsglaive: Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Kingsglaive:_Final_Fantasy_XV' },
+            { label: 'Kingsglaive: Final Fantasy XV (2016)', url: 'https://wikipedia.org/wiki/Kingsglaive:_Final_Fantasy_XV' },
             { label: 'movie', url: null, small: true },
           ],
 
@@ -259,7 +259,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         },
         { title: 'Final Fantasy XV: Episode Gladiolus DLC', helpWanted: true, releaseDate: '2017-03-28', chronoOrder: 500, recommendedOrder: 310, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '1½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Completionist' }],
         parts: [
-          { label: 'Final Fantasy XV: Episode Gladiolus (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
+          { label: 'Final Fantasy XV: Episode Gladiolus (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
         ],
         description: ['Gladiolus Amicitia as the player character.'],
@@ -280,7 +280,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         ] },
         { title: 'Final Fantasy XV: Episode Prompto DLC', releaseDate: '2017-06-27', chronoOrder: 600, recommendedOrder: 320, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Completionist' }],
         parts: [
-          { label: 'Final Fantasy XV: Episode Prompto (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
+          { label: 'Final Fantasy XV: Episode Prompto (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
         ],
         description: [
@@ -303,7 +303,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         ] },
         { title: 'Final Fantasy XV: Episode Ignis DLC', releaseDate: '2017-12-13', chronoOrder: 700, recommendedOrder: 330, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '3h', tip: 'Completionist' }],
         parts: [
-          { label: 'Final Fantasy XV: Episode Ignis (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
+          { label: 'Final Fantasy XV: Episode Ignis (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
         ],
         description: [
@@ -340,7 +340,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         ] },
         { title: 'Final Fantasy XV: Episode Ardyn DLC', releaseDate: '2019-03-26', chronoOrder: -4500, recommendedOrder: 410, tags: ['Optional', 'DLC', 'Prequel'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4h', tip: 'Completionist' }],
         parts: [
-          { label: 'Final Fantasy XV: Episode Ardyn (2019)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
+          { label: 'Final Fantasy XV: Episode Ardyn (2019)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
         ],
         description: [
@@ -373,7 +373,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           lengthParts: [{ value: '34min', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '57min', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '1h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Platinum Demo \u2013 Final Fantasy XV Prologue (2016)', url: 'https://en.wikipedia.org/wiki/Development_of_Final_Fantasy_XV#Demos' },
+            { label: 'Platinum Demo \u2013 Final Fantasy XV Prologue (2016)', url: 'https://wikipedia.org/wiki/Development_of_Final_Fantasy_XV#Demos' },
           ],
 
           description: [[
@@ -411,7 +411,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           lengthParts: [{ value: '1½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '5h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'A King\u2019s Tale: Final Fantasy XV (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#A_King\'s_Tale:_Final_Fantasy_XV' },
+            { label: 'A King\u2019s Tale: Final Fantasy XV (2016)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#A_King\'s_Tale:_Final_Fantasy_XV' },
           ],
 
           description: [[
@@ -443,7 +443,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         },
         { title: 'Monster of the Deep: Final Fantasy XV', releaseDate: '2017-11-21', chronoOrder: 1000, recommendedOrder: 700, tags: ['Optional', 'Spin-off', 'Simulation', 'VR'], mediaType: 'Game', lengthParts: [{ value: '3½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '5½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '11½h', tip: 'Completionist' }],
         parts: [
-          { label: 'Monster of the Deep: Final Fantasy XV (2017)', url: 'https://en.wikipedia.org/wiki/Monster_of_the_Deep:_Final_Fantasy_XV' },
+          { label: 'Monster of the Deep: Final Fantasy XV (2017)', url: 'https://wikipedia.org/wiki/Monster_of_the_Deep:_Final_Fantasy_XV' },
         ],
         description: [[
           { text: 'Players interact with the four main characters of ' },
@@ -465,7 +465,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         ] },
         { title: 'Final Fantasy XV: A New Empire', releaseDate: '2017-06-29', chronoOrder: 2000, recommendedOrder: 800, tags: ['Optional', 'Spin-off', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer', 'Terminated'], mediaType: 'Game',
         parts: [
-          { label: 'Final Fantasy XV: A New Empire (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XV:_A_New_Empire' },
+          { label: 'Final Fantasy XV: A New Empire (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV:_A_New_Empire' },
         ],
         description: [
           'Focused on the development of Insomnia as a kingdom. Due to it being terminated, it is recommended to watch the official clips and/or a fan story recap or playthrough for story elements.'
@@ -515,7 +515,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           mediaType: 'Game',
 
           parts: [
-            { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
+            { label: "King's Knight (1986)", url: "https://wikipedia.org/wiki/King's_Knight" },
           ],
 
           description: [[
@@ -524,7 +524,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { text: ' universe after one of the characters mentions it being their favorite game. You can play it as a tie-in curiosity but its story does not relate directly to ' },
             { emText: 'XV' },
             { text: '. It was briefly re-made as ' },
-            { emLinkText: "King's Knight: Wrath of the Dark Dragon (2017)", emLinkUrl: "https://en.wikipedia.org/wiki/King%27s_Knight#Remake" },
+            { emLinkText: "King's Knight: Wrath of the Dark Dragon (2017)", emLinkUrl: "https://wikipedia.org/wiki/King%27s_Knight#Remake" },
             { text: ' as an official tie-in but that version was terminated.' },
           ], 'Princess Claire of Olthea has been kidnapped in the Kingdom of Izander, and the player must choose one of the four heroes to train and set forth to attack Gargatua Castle, defeat the evil dragon Tolfida and rescue the princess.', [
             { text: 'This is the original release, and the recommended way to play — the versions below are contemporary computer ports or a since-terminated mobile remake, not enhancements.' },
@@ -549,8 +549,8 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             extras: [
               {
                 parts: [
-                  { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
-                  { label: 'Remake (2017)', url: 'https://en.wikipedia.org/wiki/King%27s_Knight#Remake', small: true },
+                  { label: "King's Knight (1986)", url: "https://wikipedia.org/wiki/King's_Knight" },
+                  { label: 'Remake (2017)', url: 'https://wikipedia.org/wiki/King%27s_Knight#Remake', small: true },
                 ],
                 description: [[
                   { text: 'This remake adds a new camera perspective and an orchestral version of the former\'s chiptune soundtrack. It also add 4 player multiplayer. Released as ' },
@@ -568,8 +568,8 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
               },
               {
                 parts: [
-                  { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
-                  { label: 'Edit (1987)', url: "https://en.wikipedia.org/wiki/King's_Knight", small: true },
+                  { label: "King's Knight (1986)", url: "https://wikipedia.org/wiki/King's_Knight" },
+                  { label: 'Edit (1987)', url: "https://wikipedia.org/wiki/King's_Knight", small: true },
                 ],
                 description: [[
                   { text: 'Released as ' },
@@ -587,8 +587,8 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
               },
               {
                 parts: [
-                  { label: "King's Knight (1986)", url: "https://en.wikipedia.org/wiki/King's_Knight" },
-                  { label: 'Remaster (1986)', url: 'https://en.wikipedia.org/wiki/King%27s_Knight#Development_and_release', small: true },
+                  { label: "King's Knight (1986)", url: "https://wikipedia.org/wiki/King's_Knight" },
+                  { label: 'Remaster (1986)', url: 'https://wikipedia.org/wiki/King%27s_Knight#Development_and_release', small: true },
                 ],
                 description: [
                   'Adds keyboard and joystick inputs, more sound channels with changed or improved sounds. Wider range of colors, updated graphics, new monster and boss designs, new UI sidebar. The MSX could not smoothly render vertical scrolling though, so movement can be described as "choppy".'

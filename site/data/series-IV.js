@@ -32,8 +32,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           ],
 
           parts: [
-            { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-            { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
+            { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
+            { label: 'Pixel Remaster (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
           ],
 
           storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
@@ -84,8 +84,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               label: 'Final Fantasy IV (1991)',
 
               parts: [
-                { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-                { label: 'Edit (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
+                { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
+                { label: 'Edit (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
               ],
 
               description: [
@@ -109,8 +109,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             {
               label: 'Final Fantasy IV (1991)',
               parts: [
-                { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-                { label: 'Edit (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
+                { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
+                { label: 'Edit (2009)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
               ],
               description: [
                 'Introduced the EX Dungeon bonus content and an unlimited inventory, both later folded into Edit (2011).'
@@ -123,8 +123,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             {
               label: 'Final Fantasy IV (1991)',
               parts: [
-                { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-                { label: 'Edit (2005)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
+                { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
+                { label: 'Edit (2005)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
               ],
               description: [[
                 { text: 'This edit adds two bonus dungeons, a Bestiary, and a Music Player. Has several known bugs and glitches, only partially fixed in the PAL/Version 1.1 release. Released as ' },
@@ -142,8 +142,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             {
               label: 'Final Fantasy IV (1991)',
               parts: [
-                { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-                { label: 'Remaster (2002)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
+                { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
+                { label: 'Remaster (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
               ],
               description: [
                 'This remaster enhances sprite detail and shading, but removes the FMV intro, memo saves, and sprinting featured in Edit (1997).'
@@ -157,8 +157,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               label: 'Final Fantasy IV (1991)',
 
               parts: [
-                { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-                { label: 'Edit (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
+                { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
+                { label: 'Edit (1997)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
               ],
 
               description: [[
@@ -198,7 +198,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             },
             {
               label: 'Final Fantasy IV (1991)',
-              url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV',
+              url: 'https://wikipedia.org/wiki/Final_Fantasy_IV',
               description: [[
                 { text: 'The original Famicom release (Version 1.0/1.1). ' },
                 { emText: 'Final Fantasy IV Easy Type (Japan, 1991)' },
@@ -237,8 +237,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             ],
 
             parts: [
-              { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-              { label: '3D Remake (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)', small: true },
+              { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
+              { label: '3D Remake (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)', small: true },
             ],
 
             storeUrl: 'https://www.square-enix-games.com/games/final-fantasy-iv',
@@ -264,8 +264,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             extras: [
               {
                 parts: [
-                  { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-                  { label: '3D Remaster (2012)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)#Ports', small: true },
+                  { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
+                  { label: '3D Remaster (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)#Ports', small: true },
                 ],
                 description: [
                   'This port reworks the dual-screen interface into a single screen, improves visuals and audio, and adds cloud saves and achievements, but removes the Whyt minigames.'
@@ -278,8 +278,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               },
               {
                 parts: [
-                  { label: 'Final Fantasy IV (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV' },
-                  { label: '3D Remake (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)', small: true },
+                  { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
+                  { label: '3D Remake (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)', small: true },
                 ],
                 description: [
                   'The original 3D remake release. Uses the DS’s touch screen and dual-screen interface; enemies are noticeably tougher than in the 2D versions.'
@@ -294,7 +294,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         },
         { title: 'Final Fantasy IV ~Novel~ Vol.1', releaseDate: '2008-12-25', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
         parts: [
-          { label: 'Final Fantasy IV ~Novel~ Vol.1 (2008)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
+          { label: 'Final Fantasy IV ~Novel~ Vol.1 (2008)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
         ],
         description: ['The first of a two-volume novelization of Final Fantasy IV (1991).'],
@@ -321,7 +321,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         ] },
         { title: 'Final Fantasy IV ~Novel~ Vol.2', releaseDate: '2009', chronoOrder: 510, recommendedOrder: 151, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
         parts: [
-          { label: 'Final Fantasy IV ~Novel~ Vol.2 (2009)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
+          { label: 'Final Fantasy IV ~Novel~ Vol.2 (2009)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
         ],
         description: ['The second of a two-volume novelization of Final Fantasy IV (1991).'],
@@ -344,7 +344,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           helpWanted: true,
 
           parts: [
-            { label: 'Final Fantasy IV: Interlude (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_Complete_Collection' },
+            { label: 'Final Fantasy IV: Interlude (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_Complete_Collection' },
           ],
 
           description: [['Cecil and Rosa have a short adventure set between ', {
@@ -384,7 +384,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           helpWanted: true,
 
           parts: [
-            { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
+            { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
             { label: 'Remaster (2011)', small: true },
           ],
 
@@ -420,7 +420,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           extras: [
             {
               parts: [
-                { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
+                { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
                 { label: 'Edit (2009)', small: true },
               ],
               description: [
@@ -435,7 +435,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             },
             {
               parts: [
-                { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
+                { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
                 { label: 'Mobile', small: true },
               ],
               description: ['The original release, published episodically.'],
@@ -449,8 +449,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           alt: {
             label: 'Final Fantasy IV: The After Years (2013, 3D Remake)',
             parts: [
-              { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
-              { label: '3D Remake (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', small: true },
+              { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
+              { label: '3D Remake (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', small: true },
             ],
             description: [
               'This remake carries over 3D graphics from Final Fantasy IV 3D Remake, revamps the Band mechanic, removes the level cap, and adds four new Lunar superbosses. All versions support cloud saves.'
@@ -476,7 +476,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         },
         { title: 'Final Fantasy IV: The After ~Novel~', releaseDate: '2009-03-26', chronoOrder: 2500, recommendedOrder: 350, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
         parts: [
-          { label: 'Final Fantasy IV: The After ~Novel~ (2009)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
+          { label: 'Final Fantasy IV: The After ~Novel~ (2009)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
         ],
         description: ['A novelization of Final Fantasy IV: The After Years (2008).'],

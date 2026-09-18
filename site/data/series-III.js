@@ -25,8 +25,8 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
           ],
 
           parts: [
-            { label: 'Final Fantasy III (1990)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III' },
-            { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
+            { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
+            { label: 'Pixel Remaster (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
           ],
 
           storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
@@ -71,7 +71,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
           extras: [
             {
               label: 'Final Fantasy III (1990)',
-              url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III',
+              url: 'https://wikipedia.org/wiki/Final_Fantasy_III',
               description: ['The original release.'],
               languages: [
                 { value: 'JA', native: true },
@@ -109,8 +109,8 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             ],
 
             parts: [
-              { label: 'Final Fantasy III (1990)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III' },
-              { label: '3D Remaster (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', small: true },
+              { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
+              { label: '3D Remaster (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', small: true },
             ],
 
             description: [[
@@ -135,8 +135,8 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             extras: [
               {
                 parts: [
-                  { label: 'Final Fantasy III (1990)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III' },
-                  { label: '3D Remaster (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)#Ports', small: true },
+                  { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
+                  { label: '3D Remaster (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)#Ports', small: true },
                 ],
                 description: [
                   'This port improves FMV framerate, music quality, and visuals, and reworks the Mognet sidequest chain to no longer require Wi-Fi.'
@@ -152,8 +152,8 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
               },
               {
                 parts: [
-                  { label: 'Final Fantasy III (1990)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III' },
-                  { label: '3D Remaster (2012)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)#Ports', small: true },
+                  { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
+                  { label: '3D Remaster (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)#Ports', small: true },
                 ],
                 description: [[
                   { text: 'This port adds auto-battle, a soundtrack toggle, a bonus Art Gallery and BGM player, and faster loading via Data Install.' },
@@ -166,8 +166,8 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
               },
               {
                 parts: [
-                  { label: 'Final Fantasy III (1990)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III' },
-                  { label: '3D Remake (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', small: true },
+                  { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
+                  { label: '3D Remake (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', small: true },
                 ],
                 description: [
                   'The original release of the 3D remake, introducing 3D graphics in a cutesy character style, a reworked job system, and a new cast of playable characters, as well as Mognet, a mail-based sidequest chain that is no longer functional in this version now that Nintendo Wi-Fi Connection has been discontinued.'

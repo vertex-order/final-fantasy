@@ -20,7 +20,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
         ], lengthParts: [{ value: '17½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '29h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '50½h', tip: 'Completionist' }], storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin', description: [
           'Warriors Jack, Ash and Jed venture forth to defeat Chaos and save their world. But not all is as it seems. Online co-op play may require an additional subscription on some platforms.'
         ], parts: [
-          { label: 'Stranger of Paradise: Final Fantasy Origin (2022)', url: 'https://en.wikipedia.org/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin' },
+          { label: 'Stranger of Paradise: Final Fantasy Origin (2022)', url: 'https://wikipedia.org/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin' },
         ], rating: { scores: [{ kind: 'metacritic', score: '72', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin/' }, { kind: 'metacritic-user', score: '6.6', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }] },
         platformGroups: [
           [{ key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }],
@@ -189,8 +189,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           ],
 
           parts: [
-            { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-            { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
+            { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+            { label: 'Pixel Remaster (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
           ],
 
           description: [
@@ -238,7 +238,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
             extras: [
               {
                 parts: [
-                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
                   { label: 'Fan Remake (2024)', url: 'https://www.rengames.us/ffr', small: true },
                 ],
                 tags: ['Unofficial fan project', 'Free'],
@@ -256,8 +256,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
               },
               {
                 parts: [
-                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                  { label: 'Remaster (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                  { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Remaster (2015)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
                 ],
 
                 description: [[
@@ -277,8 +277,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
               },
               {
                 parts: [
-                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                  { label: 'Remaster (2012)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                  { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Remaster (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
                 ],
 
                 description: [['This remaster has higher resolution 2D graphics, ', {
@@ -295,8 +295,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
               },
               {
                 parts: [
-                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                  { label: 'Remaster (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                  { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Remaster (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
                 ],
 
                 description: [['This remaster has higher resolution 2D graphics, ', {
@@ -317,8 +317,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
               },
               {
                 parts: [
-                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                  { label: 'Remaster (2004)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                  { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Remaster (2004)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
                 ],
                 description: [[
                   { text: 'This remaster adds a bonus dungeon and updates the bestiary. Released in the omnibus entry ' },
@@ -334,8 +334,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
               },
               {
                 parts: [
-                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                  { label: 'Mobile (2004)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                  { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Mobile (2004)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
                 ],
                 description: [[
                   { text: 'Based on the original release, with all bonus content removed. Released as ' },
@@ -350,8 +350,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
               },
               {
                 parts: [
-                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                  { label: 'Remaster (2002)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                  { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Remaster (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
                 ],
 
                 description: [[
@@ -381,8 +381,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
               },
               {
                 parts: [
-                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                  { label: 'Remaster (2000)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                  { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Remaster (2000)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
                 ],
                 description: [
                   'This remaster overhauls visuals and sound, and adds new cutscenes, a dash button, and quicksave.'
@@ -394,8 +394,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
               },
               {
                 parts: [
-                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
-                  { label: 'Remaster (1989)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
+                  { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Remaster (1989)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
                 ],
                 description: [
                   'This remaster expands music and sound and slightly improves the graphics, but has slow loading times and choppy movement rendering.'
@@ -407,7 +407,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
               },
               {
                 parts: [
-                  { label: 'Final Fantasy (1987)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)' },
+                  { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
                 ],
                 languages: [{ value: 'JA', native: true }, { value: 'EN' }],
                 description: [[
