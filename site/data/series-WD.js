@@ -9,8 +9,8 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
           lengthParts: [{ value: '35h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '48h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '82½h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'World of Final Fantasy (2016)', url: 'https://en.wikipedia.org/wiki/World_of_Final_Fantasy' },
-            { label: 'Remake (2018)', url: 'https://en.wikipedia.org/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy_Maxima', small: true },
+            { label: 'World of Final Fantasy (2016)', url: 'https://wikipedia.org/wiki/World_of_Final_Fantasy' },
+            { label: 'Remake (2018)', url: 'https://wikipedia.org/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy_Maxima', small: true },
           ],
 
           description: [[
@@ -60,7 +60,7 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
             extras: [
               {
                 parts: [
-                  { label: 'World of Final Fantasy (2016)', url: 'https://en.wikipedia.org/wiki/World_of_Final_Fantasy' },
+                  { label: 'World of Final Fantasy (2016)', url: 'https://wikipedia.org/wiki/World_of_Final_Fantasy' },
                 ],
                 description: [[
                   { text: 'The original release.' },

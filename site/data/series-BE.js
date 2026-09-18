@@ -8,7 +8,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           mediaType: 'Game',
 
           parts: [
-            { label: 'Final Fantasy Resonance (2026)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Resonance' },
+            { label: 'Final Fantasy Resonance (2026)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Resonance' },
           ],
 
           description: [[
@@ -57,7 +57,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           mediaType: 'Game',
 
           parts: [
-            { label: 'Final Fantasy Brave Exvius (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Brave_Exvius' },
+            { label: 'Final Fantasy Brave Exvius (2015)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Brave_Exvius' },
           ],
 
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: 'FR' }, { value: 'DE' }, { value: 'ES' }, { value: 'KO' }, { value: 'ZH-TW' }],
@@ -117,7 +117,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           lengthParts: [{ value: '48½h', tip: 'Main Story' }],
 
           parts: [
-            { label: 'War of the Visions: Final Fantasy Brave Exvius (2019)', url: 'https://en.wikipedia.org/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius' },
+            { label: 'War of the Visions: Final Fantasy Brave Exvius (2019)', url: 'https://wikipedia.org/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius' },
           ],
 
           description: [[

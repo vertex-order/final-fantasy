@@ -1,4 +1,4 @@
-window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrder: 1300, recommendedOrder: 1300, title: 'Ivalice Alliance – Final Fantasy XII', url: 'https://en.wikipedia.org/wiki/Ivalice', note: 'The titular title, a classic rpg, is known for its divisive customizable auto-battle system. The series is also notable for Final Fantasy Tactics and several turn-based tactical rpgs, which almost deserve their own series.',
+window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrder: 1300, recommendedOrder: 1300, title: 'Ivalice Alliance – Final Fantasy XII', url: 'https://wikipedia.org/wiki/Ivalice', note: 'The titular title, a classic rpg, is known for its divisive customizable auto-battle system. The series is also notable for Final Fantasy Tactics and several turn-based tactical rpgs, which almost deserve their own series.',
       notePartsMap: {
         'The titular title, a classic rpg, is known for its divisive customizable auto-battle system. The series is also notable for Final Fantasy Tactics and several turn-based tactical rpgs, which almost deserve their own series.': [
           { text: 'The titular title, a ' },
@@ -22,8 +22,8 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           lengthParts: [{ value: '40½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '62h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '105h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy XII (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XII' },
-            { label: 'Remaster (2018)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', small: true },
+            { label: 'Final Fantasy XII (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII' },
+            { label: 'Remaster (2018)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', small: true },
           ],
 
           description: [[
@@ -67,8 +67,8 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
 
           alt: {
             parts: [
-              { label: 'Final Fantasy XII (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XII' },
-              { label: 'Remaster (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', small: true },
+              { label: 'Final Fantasy XII (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII' },
+              { label: 'Remaster (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', small: true },
             ],
 
             description: [[
@@ -103,8 +103,8 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             extras: [
               {
                 parts: [
-                  { label: 'Final Fantasy XII (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XII' },
-                  { label: 'International (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XII#Sequels_and_re-releases', small: true },
+                  { label: 'Final Fantasy XII (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII' },
+                  { label: 'International (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII#Sequels_and_re-releases', small: true },
                 ],
                 description: [[
                   { text: 'This edit has twelve license boards (instead of one), controllable guest characters and Espers, a turbo mode, new game+, and new game- (no xp gain). Released as ' },
@@ -124,7 +124,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
               },
               {
                 label: 'Final Fantasy XII (2006)',
-                url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XII',
+                url: 'https://wikipedia.org/wiki/Final_Fantasy_XII',
                 description: [
                   'The original release. The Western versions add a 16:9 widescreen option and a distinct English localization with added voice direction.'
                 ],
@@ -142,7 +142,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
         },
         { title: 'Final Fantasy XII ~Manga~', releaseDate: '2006-12-22', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '5 volumes,', br: true }, { value: '19 chapters' }],
         parts: [
-          { label: 'Final Fantasy XII ~Manga~ (2006)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
+          { label: 'Final Fantasy XII ~Manga~ (2006)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Comic', url: null, small: true },
         ],
         description: [
@@ -165,7 +165,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           lengthParts: [{ value: '24h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '33h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '49½h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy XII: Revenant Wings (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings' },
+            { label: 'Final Fantasy XII: Revenant Wings (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings' },
           ],
 
           description: [[
@@ -198,7 +198,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           lengthParts: [{ value: '45½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '70h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '112h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy Tactics Advance (2003)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics_Advance' },
+            { label: 'Final Fantasy Tactics Advance (2003)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_Advance' },
           ],
 
           description: [
@@ -256,7 +256,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           lengthParts: [{ value: '47h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '80h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '112h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy Tactics A2: Grimoire of the Rift (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift' },
+            { label: 'Final Fantasy Tactics A2: Grimoire of the Rift (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift' },
           ],
 
           description: [[
@@ -292,8 +292,8 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           lengthParts: [{ value: '37h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '46h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '63½h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy Tactics (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics' },
-            { label: 'Remake (2025)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics#The_Ivalice_Chronicles', small: true },
+            { label: 'Final Fantasy Tactics (1997)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics' },
+            { label: 'Remake (2025)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics#The_Ivalice_Chronicles', small: true },
           ],
 
           description: [[
@@ -344,8 +344,8 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             extras: [
               {
                 parts: [
-                  { label: 'Final Fantasy Tactics (1997)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics' },
-                  { label: 'Remake (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions', small: true },
+                  { label: 'Final Fantasy Tactics (1997)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics' },
+                  { label: 'Remake (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions', small: true },
                 ],
                 description: [[
                   { text: 'This remake re-translates the script with archaic English terminology (e.g., Priest becomes White Mage), and restores the original Japanese release\u2019s harder difficulty and JP costs, reversing the North American version\u2019s easing. It adds widescreen 16:9 support, new cutscenes, voice acting (English versions), ad-hoc multiplayer, new jobs, and two new playable characters. Released as ' },
@@ -368,7 +368,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
               },
               {
                 label: 'Final Fantasy Tactics (1997)',
-                url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Tactics',
+                url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics',
                 description: [
                   'The original release. The North American release (1998) simplifies the translation and eases the difficulty (lower ability costs, faster charge times, weaker bosses). Also playable as the ‘Classic’ mode within the Remake (2025) release, with its script updated to the War of the Lions translation.'
                 ],
@@ -395,7 +395,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           mediaType: 'Game',
 
           parts: [
-            { label: 'Vagrant Story (2000)', url: 'https://en.wikipedia.org/wiki/Vagrant_Story' },
+            { label: 'Vagrant Story (2000)', url: 'https://wikipedia.org/wiki/Vagrant_Story' },
           ],
 
           description: [[
@@ -461,7 +461,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           mediaType: 'Game',
 
           parts: [
-            { label: 'Crystal Defenders (2008)', url: 'https://en.wikipedia.org/wiki/Crystal_Defenders' },
+            { label: 'Crystal Defenders (2008)', url: 'https://wikipedia.org/wiki/Crystal_Defenders' },
           ],
 
           description: [[
@@ -502,7 +502,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           mediaType: 'Game',
 
           parts: [
-            { label: 'Crystal Defenders: Vanguard Storm (2009)', url: 'https://en.wikipedia.org/wiki/Crystal_Defenders' },
+            { label: 'Crystal Defenders: Vanguard Storm (2009)', url: 'https://wikipedia.org/wiki/Crystal_Defenders' },
           ],
 
           description: [[

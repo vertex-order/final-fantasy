@@ -10,8 +10,8 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
           lengthParts: [{ value: '20½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '24h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '24½h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
-            { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
+            { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
+            { label: 'Pixel Remaster (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
           ],
 
           storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
@@ -74,8 +74,8 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             extras: [
               {
                 parts: [
-                  { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
-                  { label: 'Edit (2012)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
+                  { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
+                  { label: 'Edit (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
                 ],
                 description: [[
                   { text: 'This mobile edit reworks the UI for touch controls, reduces music quality, and removes the Art Gallery and Item Collection. Includes the ' },
@@ -91,8 +91,8 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
               },
               {
                 parts: [
-                  { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
-                  { label: 'Edit (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
+                  { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
+                  { label: 'Edit (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
                 ],
                 description: [[
                   { text: 'This edit adds a bonus dungeon and refines Remaster (2002)\'s bonus content. Released as ' },
@@ -110,8 +110,8 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
               },
               {
                 parts: [
-                  { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
-                  { label: 'Mobile (2005)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
+                  { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
+                  { label: 'Mobile (2005)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
                 ],
                 description: [[
                   { text: 'This mobile port is based on Remake (2004), with cutscenes, portraits, and bonus content removed. Does not include the ' },
@@ -127,8 +127,8 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
               },
               {
                 parts: [
-                  { label: 'Final Fantasy II (1998)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
-                  { label: 'Remake (2004)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
+                  { label: 'Final Fantasy II (1998)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
+                  { label: 'Remake (2004)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
                 ],
                 description: [[
                   { text: 'This remake redraws cutesy sprites, reworks the storyline, and updates terminology. Released in omnibus ' },
@@ -146,8 +146,8 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
               },
               {
                 parts: [
-                  { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
-                  { label: 'Remaster (2002)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
+                  { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
+                  { label: 'Remaster (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
                 ],
                 description: [[
                   { text: 'This remaster reworks graphics, adds a CGI opening cutscene, monster database, and art gallery. May have slow menus. Released in omnibus ' },
@@ -166,8 +166,8 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
               },
               {
                 parts: [
-                  { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
-                  { label: 'Remaster (2001)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
+                  { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
+                  { label: 'Remaster (2001)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
                 ],
                 description: [
                   'This remaster overhauls visuals and sound, and adds new cutscenes, auto-targeting, a dash button, and quicksave.'
@@ -179,7 +179,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
               },
               {
                 parts: [
-                  { label: 'Final Fantasy II (1988)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_II' },
+                  { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
                 ],
                 languages: [
                   { value: 'JA', native: true },

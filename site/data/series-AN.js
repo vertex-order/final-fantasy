@@ -8,7 +8,7 @@ window.__ffSeriesReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1
           mediaType: 'Game',
 
           parts: [
-            { label: 'Final Fantasy Artniks (2012)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Artniks' },
+            { label: 'Final Fantasy Artniks (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Artniks' },
           ],
 
           description: [[

@@ -10,8 +10,8 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
           lengthParts: [{ value: '38h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '52½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '75½h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy VIII (1999)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VIII' },
-            { label: 'Remastered (2019)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VIII#Final_Fantasy_VIII_Remastered', small: true },
+            { label: 'Final Fantasy VIII (1999)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII' },
+            { label: 'Remastered (2019)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Final_Fantasy_VIII_Remastered', small: true },
           ],
 
           languages: [
@@ -67,12 +67,12 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
             extras: [
               {
                 parts: [
-                  { label: 'Final Fantasy VIII (1999)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VIII' },
-                  { label: 'Remaster (2013)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', small: true },
+                  { label: 'Final Fantasy VIII (1999)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII' },
+                  { label: 'Remaster (2013)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', small: true },
                 ],
                 description: [[
                   { text: 'This remaster has upscaled graphics, High Speed Mode, companion mini-game ' },
-                  { emLinkText: 'Chocobo World', emLinkUrl: 'https://en.wikipedia.org/wiki/Final_Fantasy_VIII#Other_media' },
+                  { emLinkText: 'Chocobo World', emLinkUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Other_media' },
                   { text: ', many accesibility and cheat booster commands; including Battle Assistance, Magic Booster, Max Damage, AP Max, Gil Max.' },
                 ]],
                 languages: [
@@ -90,8 +90,8 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
               },
               {
                 parts: [
-                  { label: 'Final Fantasy VIII (1999)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VIII' },
-                  { label: 'Edit (2000)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', small: true },
+                  { label: 'Final Fantasy VIII (1999)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII' },
+                  { label: 'Edit (2000)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', small: true },
                 ],
                 description: [
                   'This port has MIDI audio instead of the original soundtrack and a slower battle interface that makes Limit Break inputs less precise. A companion mini-game no longer requires extra hardware to play.'
@@ -103,7 +103,7 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
               },
               {
                 label: 'Final Fantasy VIII (1999)',
-                url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VIII',
+                url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII',
                 description: [
                   'The original release. Non-Japan releases add automatic tutorials and give two Guardian Forces their elemental/status junction abilities by default.'
                 ],

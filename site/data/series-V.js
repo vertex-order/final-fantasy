@@ -10,8 +10,8 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
           lengthParts: [{ value: '30½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '35½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '51½h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
-            { label: 'Pixel Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
+            { label: 'Final Fantasy V (1992)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V' },
+            { label: 'Pixel Remaster (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
           ],
 
           storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
@@ -72,8 +72,8 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
             extras: [
               {
                 parts: [
-                  { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
-                  { label: 'Remaster (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
+                  { label: 'Final Fantasy V (1992)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V' },
+                  { label: 'Remaster (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
                 ],
                 description: [
                   'This remaster has new high-resolution graphics and sprites, eight-direction movement, auto battle. Also has the extra dungeon and optional boss from Edit 2006.'
@@ -96,8 +96,8 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
               },
               {
                 parts: [
-                  { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
-                  { label: 'Edit (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
+                  { label: 'Final Fantasy V (1992)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V' },
+                  { label: 'Edit (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
                 ],
 
                 description: [[
@@ -114,8 +114,8 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
               },
               {
                 parts: [
-                  { label: 'Final Fantasy V (1992)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V' },
-                  { label: 'Edit (1998)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
+                  { label: 'Final Fantasy V (1992)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V' },
+                  { label: 'Edit (1998)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
                 ],
 
                 description: [['This edit adds opening and ending ', {
@@ -145,7 +145,7 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
               },
               {
                 label: 'Final Fantasy V (1992)',
-                url: 'https://en.wikipedia.org/wiki/Final_Fantasy_V',
+                url: 'https://wikipedia.org/wiki/Final_Fantasy_V',
                 description: ['The original release.'],
                 languages: [
                   { value: 'JA', native: true },
@@ -178,7 +178,7 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
           length: '120min',
 
           parts: [
-            { label: 'Final Fantasy: Legend of the Crystals (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy:_Legend_of_the_Crystals' },
+            { label: 'Final Fantasy: Legend of the Crystals (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy:_Legend_of_the_Crystals' },
             { label: 'video', url: null, small: true },
           ],
 

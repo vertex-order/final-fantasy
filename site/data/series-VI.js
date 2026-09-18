@@ -10,8 +10,8 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
           lengthParts: [{ value: '33h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '40½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '54½h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
-            { label: 'Pixel Remaster (2022)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
+            { label: 'Final Fantasy VI (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI' },
+            { label: 'Pixel Remaster (2022)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
           ],
 
           storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
@@ -74,8 +74,8 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
             extras: [
               {
                 parts: [
-                  { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
-                  { label: 'Remaster (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
+                  { label: 'Final Fantasy VI (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI' },
+                  { label: 'Remaster (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
                 ],
                 description: [
                   'This remaster has high-resolution graphics, redesigned sprites, movement in eight directions, and auto-battle.'
@@ -98,8 +98,8 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
               },
               {
                 parts: [
-                  { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
-                  { label: 'Edit (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
+                  { label: 'Final Fantasy VI (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI' },
+                  { label: 'Edit (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
                 ],
 
                 description: [
@@ -119,8 +119,8 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
               },
               {
                 parts: [
-                  { label: 'Final Fantasy VI (1994)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI' },
-                  { label: 'Edit (1999)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
+                  { label: 'Final Fantasy VI (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI' },
+                  { label: 'Edit (1999)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
                 ],
 
                 description: [['This edit adds opening and ending ', {
@@ -153,7 +153,7 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
               },
               {
                 label: 'Final Fantasy VI (1994)',
-                url: 'https://en.wikipedia.org/wiki/Final_Fantasy_VI',
+                url: 'https://wikipedia.org/wiki/Final_Fantasy_VI',
                 description: [[
                   { text: 'The original release. Early releases outside Japan on SNES and the non-Japan SNES Classic release were titled ' },
                   { emText: 'Final Fantasy III (Non-Japan, 1994)' },

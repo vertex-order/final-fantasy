@@ -10,7 +10,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           lengthParts: [{ value: '454h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '213h', tip: 'Co-op', sep: true, sepChar: ',', br: true }, { label: 'A Crystalline Prophecy ', value: '1½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '1h', tip: 'Co-op', sep: true, sepChar: ',', br: true }, { label: "A Moogle Kupo d'Etat ", value: '4h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Co-op', sep: true, sepChar: ',', br: true }, { label: 'A Shantotto Ascension ', value: '4h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '1½h', tip: 'Co-op', sep: true, sepChar: ',', br: true }, { label: 'Vision of Abyssea ', value: '44min', tip: 'Solo & Co-op', sep: true, sepChar: ',', br: true }, { label: 'Scars of Abyssea ', value: '30min', tip: 'Solo & Co-op', sep: true, sepChar: ',', br: true }, { label: 'Heroes of Abyssea ', value: '1½h', tip: 'Solo & Co-op', sep: true, sepChar: ',', br: true }, { label: "Rhapsodies of Vana'diel ", value: '14½h', tip: 'Solo', sep: true, sepChar: ' / ' }, { value: '6½h', tip: 'Co-op' }],
 
           parts: [
-            { label: 'Final Fantasy XI: Online (2002)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI' },
+            { label: 'Final Fantasy XI: Online (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XI' },
             { label: 'Base Game', small: true },
           ],
 
@@ -28,7 +28,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ]],
 
           listTitle: 'Add-ons & scenarios:',
-          listTitleUrl: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Expansions_and_add-ons',
+          listTitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Expansions_and_add-ons',
 
           listItems: [
             "A Crystalline Prophecy (2009)",
@@ -76,7 +76,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ],
 
           parts: [
-            { label: 'Final Fantasy XI: Rise of the Zilart (2003)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
+            { label: 'Final Fantasy XI: Rise of the Zilart (2003)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story' },
             { label: 'Expansion', url: null, small: true },
           ],
 
@@ -110,7 +110,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ],
 
           parts: [
-            { label: 'Final Fantasy XI: Chains of Promathia (2004)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
+            { label: 'Final Fantasy XI: Chains of Promathia (2004)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story' },
             { label: 'Expansion', url: null, small: true },
           ],
 
@@ -146,7 +146,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ],
 
           parts: [
-            { label: 'Final Fantasy XI: Treasures of Aht Urhgan (2006)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
+            { label: 'Final Fantasy XI: Treasures of Aht Urhgan (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story' },
             { label: 'Expansion', url: null, small: true },
           ],
 
@@ -182,7 +182,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ],
 
           parts: [
-            { label: 'Final Fantasy XI: Wings of the Goddess (2007)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
+            { label: 'Final Fantasy XI: Wings of the Goddess (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story' },
             { label: 'Expansion', url: null, small: true },
           ],
 
@@ -218,7 +218,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ],
 
           parts: [
-            { label: 'Final Fantasy XI: Seekers of Adoulin (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XI#Story' },
+            { label: 'Final Fantasy XI: Seekers of Adoulin (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story' },
             { label: 'Expansion', url: null, small: true },
           ],
 
@@ -291,7 +291,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         ] },
         { title: 'Final Fantasy XI ~Prayer of the Wind~ Vol.1', releaseDate: '2010', chronoOrder: 110, recommendedOrder: 606, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic', length: '144p',
         parts: [
-          { label: 'Final Fantasy XI ~Prayer of the Wind~ Vol.1 (2010)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
+          { label: 'Final Fantasy XI ~Prayer of the Wind~ Vol.1 (2010)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Comic', url: null, small: true },
         ],
         description: [[
@@ -674,7 +674,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
         ] },
         { title: 'Final Fantasy XI ~Adventure Log~', releaseDate: '2007-03-20', chronoOrder: 10, recommendedOrder: 601, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic', helpWanted: true,
         parts: [
-          { label: 'Final Fantasy XI ~Adventure Log~ (2007)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
+          { label: 'Final Fantasy XI ~Adventure Log~ (2007)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Comic', url: null, small: true },
         ],
         description: ['The official Final Fantasy XI webcomic.'],
@@ -954,7 +954,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ],
 
           parts: [
-            { label: 'Final Fantasy Grandmasters (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Grandmasters' },
+            { label: 'Final Fantasy Grandmasters (2015)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Grandmasters' },
           ],
 
           description: [[

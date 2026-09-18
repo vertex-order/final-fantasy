@@ -9,7 +9,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           lengthParts: [{ value: '10½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '11½h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy Adventure (1991)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Adventure' },
+            { label: 'Final Fantasy Adventure (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure' },
           ],
 
           languages: [{ value: 'JA', native: true }],
@@ -24,7 +24,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             { text: ' in Europe, not to be confused with ' },
             { emText: 'Final Fantasy Mystic Quest (1992)' },
             { text: '. It spawned its own series which no longer contains Final Fantasy elements, ' },
-            { emLinkText: 'Mana', emLinkUrl: 'https://en.wikipedia.org/wiki/Final_Fantasy_Adventure' },
+            { emLinkText: 'Mana', emLinkUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure' },
             { text: ', whose sequel is the well known ' },
             { emText: 'Secret of Mana (1993)' },
             { text: '. It has multiple remakes, but they remove the Final Fantasy elements from the game.' },
@@ -52,7 +52,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           lengthParts: [{ value: '33h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '40h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '74½h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Final Fantasy: The 4 Heroes of Light (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy:_The_4_Heroes_of_Light' },
+            { label: 'Final Fantasy: The 4 Heroes of Light (2009)', url: 'https://wikipedia.org/wiki/Final_Fantasy:_The_4_Heroes_of_Light' },
           ],
 
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
@@ -85,7 +85,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           lengthParts: [{ value: '207h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '307h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '1666h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'Mobius Final Fantasy (2015)', url: 'https://en.wikipedia.org/wiki/Mobius_Final_Fantasy' },
+            { label: 'Mobius Final Fantasy (2015)', url: 'https://wikipedia.org/wiki/Mobius_Final_Fantasy' },
           ],
 
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
@@ -117,7 +117,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           mediaType: 'Game',
 
           parts: [
-            { label: 'Final Fantasy Record Keeper (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Record_Keeper' },
+            { label: 'Final Fantasy Record Keeper (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Record_Keeper' },
           ],
 
           languages: [{ value: 'JA', native: true }, { value: 'EN', tip: 'English (content up to 2022-09)' }, { value: '…?' }],
@@ -145,7 +145,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         },
         { title: 'Final Fantasy Lost Stranger', releaseDate: '2017-07-12', chronoOrder: 1400, recommendedOrder: 250, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '14+ volumes', tip: 'As of 2026' }],
         parts: [
-          { label: 'Final Fantasy Lost Stranger (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Lost_Stranger' },
+          { label: 'Final Fantasy Lost Stranger (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Lost_Stranger' },
           { label: 'Comic', url: null, small: true },
         ],
         description: [
@@ -176,7 +176,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           mediaType: 'Game',
 
           parts: [
-            { label: 'Chocobo (series) (1997–2022)', url: 'https://en.wikipedia.org/wiki/Chocobo_(series)' },
+            { label: 'Chocobo (series) (1997–2022)', url: 'https://wikipedia.org/wiki/Chocobo_(series)' },
           ],
 
           description: [[
@@ -222,7 +222,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           mediaType: 'Game',
 
           parts: [
-            { label: 'Voice Fantasy (2010)', url: 'https://en.wikipedia.org/wiki/Voice_Fantasy' },
+            { label: 'Voice Fantasy (2010)', url: 'https://wikipedia.org/wiki/Voice_Fantasy' },
           ],
 
           description: [[
@@ -238,7 +238,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         },
         { title: 'Final Fantasy Airborne Brigade', releaseDate: '2012-01-06', chronoOrder: 500, recommendedOrder: 355, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Social RPG', 'Jobs', 'Multiplayer', 'Co-op', 'Mobile', 'Terminated'], mediaType: 'Game',
         parts: [
-          { label: 'Final Fantasy Airborne Brigade (2012)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Airborne_Brigade' },
+          { label: 'Final Fantasy Airborne Brigade (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Airborne_Brigade' },
         ],
         description: [
           'Long ago, the country was protected by two crystals. However, one was broken and scattered throughout the world following a monster invasion. The other lost its glow. Only the ancient summon beasts can return the crystals to their original shine, and the player must travel the world by air ship and defeat the summon beasts.',
@@ -259,7 +259,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         },
         { title: 'Final Fantasy All the Bravest', releaseDate: '2013-01-17', chronoOrder: 600, recommendedOrder: 357, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'RPG', 'Jobs', 'Active Time Battle', 'Mobile', 'Free-to-play', 'In-app purchases', 'Single-player', 'Terminated'], mediaType: 'Game', lengthParts: [{ value: '4h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Completionist' }],
         parts: [
-          { label: 'Final Fantasy All the Bravest (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_All_the_Bravest' },
+          { label: 'Final Fantasy All the Bravest (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_All_the_Bravest' },
         ],
         description: [
           'Players\' characters could traverse an overhead map between battles. After a series of battles, players could confront a boss enemy. There was no story elements. Self-described as an "app" not a game.',
@@ -434,18 +434,18 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           lengthParts: [{ value: '38h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '42h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '52h', tip: 'Completionist' }],
 
           parts: [
-            { label: 'The Final Fantasy Legend I–III (1989–1991)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games#SaGa' },
+            { label: 'The Final Fantasy Legend I–III (1989–1991)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#SaGa' },
           ],
 
           languages: [{ value: 'JA', native: true }, { value: 'EN-US', tip: 'English (American)' }],
 
           description: [[
             { text: 'Originally created for the ' },
-            { emLinkText: 'SaGa', emLinkUrl: 'https://en.wikipedia.org/wiki/SaGa' },
+            { emLinkText: 'SaGa', emLinkUrl: 'https://wikipedia.org/wiki/SaGa' },
             { text: ' series of games in Japan, three were initially re-released outside Japan as ' },
             { emText: 'The Final Fantasy Legend' },
             { text: ' for marketing reasons, despite not incorporating any elements found in Final Fantasy games. Later releases dropped the Final Fantasy title branding and used ' },
-            { emLinkText: 'SaGa', emLinkUrl: 'https://en.wikipedia.org/wiki/SaGa' },
+            { emLinkText: 'SaGa', emLinkUrl: 'https://wikipedia.org/wiki/SaGa' },
             { text: ' instead. Not to be confused with ' },
             { emText: 'Final Fantasy Legends (2010)' },
             { text: ' later renamed ' },

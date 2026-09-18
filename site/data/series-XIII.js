@@ -9,8 +9,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           { value: 'ES-ES', textOnly: true },
         ],
         parts: [
-          { label: 'Final Fantasy XIII (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII' },
-          { label: 'Remaster (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise', small: true },
+          { label: 'Final Fantasy XIII (2009)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII' },
+          { label: 'Remaster (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise', small: true },
         ],
         description: [
           'The government of the floating world of Cocoon orders a purge of civilians who have supposedly come into contact with Pulse, the much-feared world below. The former soldier Lightning begins her fight against the government in order to save her sister who has been branded as an unwilling servant to a god-like being from Pulse, making her an enemy of Cocoon.',
@@ -39,8 +39,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           extras: [
             {
               parts: [
-                { label: 'Final Fantasy XIII (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII' },
-                { label: 'International (2010)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise', small: true },
+                { label: 'Final Fantasy XIII (2009)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII' },
+                { label: 'International (2010)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise', small: true },
               ],
 
               description: [[
@@ -64,7 +64,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             },
             {
               parts: [
-                { label: 'Final Fantasy XIII (2009)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII' },
+                { label: 'Final Fantasy XIII (2009)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII' },
               ],
               description: [
                 'The original release. A later patch adds an Easy/Normal difficulty toggle.'
@@ -176,8 +176,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           ],
 
           parts: [
-            { label: 'Final Fantasy XIII-2 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2' },
-            { label: 'Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2', small: true },
+            { label: 'Final Fantasy XIII-2 (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2' },
+            { label: 'Remaster (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2', small: true },
           ],
 
           description: [[
@@ -210,8 +210,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             extras: [
               {
                 parts: [
-                  { label: 'Final Fantasy XIII-2 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2' },
-                  { label: 'Remaster (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2', small: true },
+                  { label: 'Final Fantasy XIII-2 (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2' },
+                  { label: 'Remaster (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2', small: true },
                 ],
                 description: [
                   'This remaster unlocks higher resolutions and up to 60 fps on PC (capped at 30 fps on Xbox One).'
@@ -225,7 +225,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
               },
               {
                 parts: [
-                  { label: 'Final Fantasy XIII-2 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2' },
+                  { label: 'Final Fantasy XIII-2 (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2' },
                 ],
                 description: ['The original release. Gameplay framerate dips as low as 18 fps.'],
                 languages: [{ value: 'JA', native: true }, { value: 'EN', voice: true }, { value: '…?' }],
@@ -303,8 +303,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           ],
 
           parts: [
-            { label: 'Lightning Returns: Final Fantasy XIII (2013)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII' },
-            { label: 'Remaster (2021)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', small: true },
+            { label: 'Lightning Returns: Final Fantasy XIII (2013)', url: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII' },
+            { label: 'Remaster (2021)', url: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', small: true },
           ],
 
           description: [[
@@ -348,8 +348,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             extras: [
               {
                 parts: [
-                  { label: 'Lightning Returns: Final Fantasy XIII (2013)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII' },
-                  { label: 'Remaster (2015)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', small: true },
+                  { label: 'Lightning Returns: Final Fantasy XIII (2013)', url: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII' },
+                  { label: 'Remaster (2015)', url: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', small: true },
                 ],
                 description: [
                   'This remaster unlocks higher resolutions and up to 60 fps on PC (30 fps on Xbox).'
@@ -366,7 +366,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
               },
               {
                 parts: [
-                  { label: 'Lightning Returns: Final Fantasy XIII (2013)', url: 'https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII' },
+                  { label: 'Lightning Returns: Final Fantasy XIII (2013)', url: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII' },
                 ],
                 description: [
                   'The original release. The international version (2014) softens some dialogue and innuendo, and offers Japanese audio as separate DLC.'
@@ -503,8 +503,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           ],
 
           parts: [
-            { label: 'Final Fantasy Type-0 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Type-0' },
-            { label: 'Remaster (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Type-0_HD', small: true },
+            { label: 'Final Fantasy Type-0 (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Type-0' },
+            { label: 'Remaster (2015)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Type-0_HD', small: true },
           ],
 
           description: [[
@@ -539,7 +539,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             extras: [
               {
                 parts: [
-                  { label: 'Final Fantasy Type-0 (2011)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Type-0' },
+                  { label: 'Final Fantasy Type-0 (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Type-0' },
                 ],
                 tags: ['Multiplayer'],
                 description: ['The original release.'],
@@ -665,7 +665,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           mediaType: 'Game',
 
           parts: [
-            { label: 'Final Fantasy Agito (2014)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Agito#' },
+            { label: 'Final Fantasy Agito (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Agito#' },
           ],
 
           description: [[
@@ -692,7 +692,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
         },
         { title: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', releaseDate: '2015-04-30', chronoOrder: 100560, recommendedOrder: 1050, tags: ['Optional', 'Novel'], mediaType: 'Book',
         parts: [
-          { label: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale- (2015)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
+          { label: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale- (2015)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
         ],
         description: [[
@@ -716,7 +716,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           mediaType: 'Game',
 
           parts: [
-            { label: 'Final Fantasy Awakening (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Awakening' },
+            { label: 'Final Fantasy Awakening (2016)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Awakening' },
           ],
 
           description: [[

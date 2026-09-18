@@ -1,8 +1,8 @@
 window.__ffSeriesReg['IX'] = { num: 'IX', releaseDate: '2000-07-07', chronoOrder: 900, recommendedOrder: 900, title: 'Final Fantasy IX', note: 'A retrospective entry, returning to the medieval style of the earlier games.', games: [
         { title: 'Final Fantasy IX', releaseDate: '2000-07-07', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: [], mediaType: 'Game', lengthParts: [{ value: '38h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '52h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '82h', tip: 'Completionist' }],
         parts: [
-          { label: 'Final Fantasy IX (2000)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IX' },
-          { label: 'Remaster (2016)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IX#Release', small: true },
+          { label: 'Final Fantasy IX (2000)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IX' },
+          { label: 'Remaster (2016)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IX#Release', small: true },
         ],
         languages: [
           { value: 'JA', native: true },
@@ -45,7 +45,7 @@ window.__ffSeriesReg['IX'] = { num: 'IX', releaseDate: '2000-07-07', chronoOrder
           extras: [
             {
               label: 'Final Fantasy IX (2000)',
-              url: 'https://en.wikipedia.org/wiki/Final_Fantasy_IX',
+              url: 'https://wikipedia.org/wiki/Final_Fantasy_IX',
               description: ['The original release.'],
               languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
               helpWanted: true,

@@ -15,7 +15,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ],
 
           parts: [
-            { label: 'Final Fantasy XIV: Online ~1.0~ (2010)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV_(2010_video_game)' },
+            { label: 'Final Fantasy XIV: Online ~1.0~ (2010)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIV_(2010_video_game)' },
           ],
 
           description: [
@@ -79,7 +79,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ],
 
           parts: [
-            { label: 'Final Fantasy XIV: A Realm Reborn (2013)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV' },
+            { label: 'Final Fantasy XIV: A Realm Reborn (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIV' },
           ],
 
           description: [
@@ -130,7 +130,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ],
 
           parts: [
-            { label: 'Final Fantasy XIV: Heavensward (2015)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Heavensward' },
+            { label: 'Final Fantasy XIV: Heavensward (2015)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIV:_Heavensward' },
             { label: 'Expansion', url: null, small: true },
           ],
 
@@ -164,7 +164,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ],
 
           parts: [
-            { label: 'Final Fantasy XIV: Stormblood (2017)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood' },
+            { label: 'Final Fantasy XIV: Stormblood (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood' },
             { label: 'Expansion', url: null, small: true },
           ],
 
@@ -198,7 +198,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ],
 
           parts: [
-            { label: 'Final Fantasy XIV: Shadowbringers (2019)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers' },
+            { label: 'Final Fantasy XIV: Shadowbringers (2019)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers' },
             { label: 'Expansion', url: null, small: true },
           ],
 
@@ -232,7 +232,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ],
 
           parts: [
-            { label: 'Final Fantasy XIV: Endwalker (2021)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Endwalker' },
+            { label: 'Final Fantasy XIV: Endwalker (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIV:_Endwalker' },
             { label: 'Expansion', url: null, small: true },
           ],
 
@@ -266,7 +266,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ],
 
           parts: [
-            { label: 'Final Fantasy XIV: Dawntrail (2024)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Dawntrail' },
+            { label: 'Final Fantasy XIV: Dawntrail (2024)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIV:_Dawntrail' },
             { label: 'Expansion', url: null, small: true },
           ],
 
@@ -299,7 +299,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ],
 
           parts: [
-            { label: 'Final Fantasy XIV: Evercold (2027)', url: 'https://en.wikipedia.org/wiki/Final_Fantasy_XIV#Evercold' },
+            { label: 'Final Fantasy XIV: Evercold (2027)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIV#Evercold' },
             { label: 'Expansion', url: null, small: true },
           ],
 
@@ -319,7 +319,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
         },
         { title: 'Final Fantasy XIV ~Winds of Eorzea~', releaseDate: '2010', chronoOrder: 500, recommendedOrder: 840, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '254p;A6',
         parts: [
-          { label: 'Final Fantasy XIV ~Winds of Eorzea~ (2010)', url: 'https://en.wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
+          { label: 'Final Fantasy XIV ~Winds of Eorzea~ (2010)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
         ],
         description: [[
