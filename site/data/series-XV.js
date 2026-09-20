@@ -257,7 +257,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             [{ key: 'fan-recap', ytSearch: true, ytTitle: 'Kingsglaive Final Fantasy XV' }],
           ]
         },
-        { title: 'Final Fantasy XV: Episode Gladiolus DLC', helpWanted: true, releaseDate: '2017-03-28', chronoOrder: 500, recommendedOrder: 310, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '1½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Completionist' }],
+        { title: 'Final Fantasy XV: Episode Gladiolus', helpWanted: true, releaseDate: '2017-03-28', chronoOrder: 500, recommendedOrder: 310, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '1½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy XV: Episode Gladiolus (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
@@ -278,7 +278,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Gladiolus' },
           ],
         ] },
-        { title: 'Final Fantasy XV: Episode Prompto DLC', releaseDate: '2017-06-27', chronoOrder: 600, recommendedOrder: 320, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Completionist' }],
+        { title: 'Final Fantasy XV: Episode Prompto', releaseDate: '2017-06-27', chronoOrder: 600, recommendedOrder: 320, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy XV: Episode Prompto (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
@@ -301,7 +301,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Prompto' },
           ],
         ] },
-        { title: 'Final Fantasy XV: Episode Ignis DLC', releaseDate: '2017-12-13', chronoOrder: 700, recommendedOrder: 330, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '3h', tip: 'Completionist' }],
+        { title: 'Final Fantasy XV: Episode Ignis', releaseDate: '2017-12-13', chronoOrder: 700, recommendedOrder: 330, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '3h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy XV: Episode Ignis (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
@@ -338,7 +338,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ key: 'youtube', name: 'YouTube (Official)', url: 'https://www.youtube.com/watch?v=8yOOF8AKQbw' }],
           [{ key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Ardyn Prologue' }],
         ] },
-        { title: 'Final Fantasy XV: Episode Ardyn DLC', releaseDate: '2019-03-26', chronoOrder: -4500, recommendedOrder: 410, tags: ['Optional', 'DLC', 'Prequel'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4h', tip: 'Completionist' }],
+        { title: 'Final Fantasy XV: Episode Ardyn', releaseDate: '2019-03-26', chronoOrder: -4500, recommendedOrder: 410, tags: ['Optional', 'DLC', 'Prequel'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy XV: Episode Ardyn (2019)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
@@ -622,7 +622,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090006' }],
           [{ key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy XV: The Dawn of the Future' }],
         ] },
-        { title: 'Final Fantasy XV Official Comic Anthology', releaseDate: '2017-07-27', chronoOrder: 3600, recommendedOrder: 960, tags: ['Optional', 'Short Stories', 'Manga'], mediaType: 'Comic', length: '128p',
+        { title: 'Final Fantasy XV Anthology Vol. 1', releaseDate: '2017-07-27', chronoOrder: 3600, recommendedOrder: 960, tags: ['Optional', 'Short Stories', 'Manga'], mediaType: 'Comic', length: '128p',
         parts: [
           { label: 'Final Fantasy XV Anthology Vol. 1 (2017)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology' },
           { label: 'Comic', url: null, small: true },
@@ -638,7 +638,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XV Official Comic Anthology' }],
         ] },
-        { title: 'Final Fantasy XV Anthology 2', releaseDate: '2017-12-26', chronoOrder: 3700, recommendedOrder: 965, tags: ['Optional', 'Short Stories', 'Manga'], mediaType: 'Comic', length: '128p',
+        { title: 'Final Fantasy XV Anthology Vol.2', releaseDate: '2017-12-26', chronoOrder: 3700, recommendedOrder: 965, tags: ['Optional', 'Short Stories', 'Manga'], mediaType: 'Comic', length: '128p',
         parts: [
           { label: 'Final Fantasy XV Anthology Vol.2 (2017)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology_2' },
           { label: 'Comic', url: null, small: true },

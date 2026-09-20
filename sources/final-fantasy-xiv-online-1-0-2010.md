@@ -1,6 +1,6 @@
-<!-- sources/final-fantasy-xiv-online-2010.md (markdown) -->
+<!-- sources/final-fantasy-xiv-online-1-0-2010.md (markdown) -->
 
-# Final Fantasy XIV: Online
+# Final Fantasy XIV: Online ~1.0~
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->

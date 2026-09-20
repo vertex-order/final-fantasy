@@ -164,7 +164,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin'
         },
         {
-          title: 'Final Fantasy I',
+          title: 'Final Fantasy',
           releaseDate: '1987-12-18',
           chronoOrder: 0,
           recommendedOrder: 200,

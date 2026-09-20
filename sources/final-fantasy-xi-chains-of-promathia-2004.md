@@ -1,13 +1,13 @@
-<!-- sources/final-fantasy-xi-online-treasures-of-aht-urhgan-2006.md (markdown) -->
+<!-- sources/final-fantasy-xi-chains-of-promathia-2004.md (markdown) -->
 
-# Final Fantasy XI: Online: Treasures of Aht Urhgan
+# Final Fantasy XI: Chains of Promathia
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/final-fantasy-xi-treasures-of-aht-urhgan/
+- https://www.metacritic.com/game/final-fantasy-xi-chains-of-promathia/
 
 ## wikipedia.org (Information)
 

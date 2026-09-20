@@ -1,6 +1,6 @@
-<!-- sources/final-fantasy-xv-anthology-2-2017.md (markdown) -->
+<!-- sources/final-fantasy-xv-anthology-vol-2-2017.md (markdown) -->
 
-# Final Fantasy XV Anthology 2
+# Final Fantasy XV Anthology Vol.2
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->

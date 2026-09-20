@@ -14,7 +14,7 @@
   `sources/<slug>-<year>.md`
   - `<slug>` = entry's kebab-case title
   - `<year>` = entry's own top-level `releaseDate` year (not an edition's)
-  - e.g. `final-fantasy-i-1987.md`
+  - e.g. `final-fantasy-1987.md`
   - Flat, not grouped by series: slug+year is already unique catalog-wide,
     so a series subfolder isn't needed for disambiguation — and some
     entries are cross-listed under more than one series in `site/data/`,
