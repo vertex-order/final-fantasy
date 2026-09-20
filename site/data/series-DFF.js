@@ -10,7 +10,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
-          title: 'Dissidia Duodecim Prologus Final Fantasy', title_url: 'https://breezewiki.com/finalfantasy/wiki/Dissidia_Duodecim_Prologus_Final_Fantasy', title_date: 2011,
+          title: 'Dissidia Duodecim Prologus Final Fantasy', title_url: 'https://breezewiki.com/finalfantasy/wiki/Dissidia_Duodecim_Prologus_Final_Fantasy', title_date: '2011-01-18',
           parts: [
             { label: 'Dissidia Duodecim Prologus Final Fantasy (2011)', url: 'https://breezewiki.com/finalfantasy/wiki/Dissidia_Duodecim_Prologus_Final_Fantasy' },
           ],
@@ -118,7 +118,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
             { value: 'KO', textOnly: true },
           ],
 
-          title: 'Dissidia Final Fantasy NT', title_url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_NT', title_date: 2015,
+          title: 'Dissidia Final Fantasy NT', title_url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_NT', title_date: '2015-11-26',
           parts: [
             { label: 'Dissidia Final Fantasy NT (2015)', url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_NT' },
           ],
@@ -164,7 +164,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
-          title: 'Dissidia Final Fantasy Opera Omnia', title_url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_Opera_Omnia', title_date: 2017,
+          title: 'Dissidia Final Fantasy Opera Omnia', title_url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_Opera_Omnia', title_date: '2017-02-01',
           parts: [
             { label: 'Dissidia Final Fantasy Opera Omnia (2017)', url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_Opera_Omnia' },
           ],
@@ -198,7 +198,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           mediaType: 'Game',
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: 'KO' }, { value: 'ZH-TW' }],
 
-          title: 'Dissidia Duellum Final Fantasy', title_url: 'https://wikipedia.org/wiki/Dissidia_Duellum_Final_Fantasy', title_date: 2026,
+          title: 'Dissidia Duellum Final Fantasy', title_url: 'https://wikipedia.org/wiki/Dissidia_Duellum_Final_Fantasy', title_date: '2026-03-24',
           parts: [
             { label: 'Dissidia Duellum Final Fantasy (2026)', url: 'https://wikipedia.org/wiki/Dissidia_Duellum_Final_Fantasy' },
           ],

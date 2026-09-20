@@ -9,7 +9,7 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
           mediaType: 'Game',
           lengthParts: [{ value: '38h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '52½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '75½h', tip: 'Completionist' }],
 
-          title: 'Final Fantasy VIII', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII', title_date: 1999,
+          title: 'Final Fantasy VIII', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII', title_date: '1999-02-11',
           subtitle: 'Remastered', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Final_Fantasy_VIII_Remastered', subtitle_date: 2019,
           parts: [
             { label: 'Final Fantasy VIII (1999)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII' },

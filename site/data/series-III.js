@@ -24,7 +24,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             { value: 'ZH-TW' },
           ],
 
-          title: 'Final Fantasy III', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_III', title_date: 1990,
+          title: 'Final Fantasy III', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_III', title_date: '1990-04-27',
           subtitle: 'Pixel Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitle_date: 2021,
           parts: [
             { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
@@ -190,7 +190,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
         { key: 'Legend of the Eternal Wind: from Final Fantasy III', releaseDate: '1991-01', chronoOrder: 500, recommendedOrder: 200, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic', length: '3 volumes',
         languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/76171402' }, { value: 'EN', tip: 'English (fan translation)' }],
         rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/76171402' }] },
-        title: 'Legend of the Eternal Wind: from Final Fantasy III', title_url: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori', title_date: 1991,
+        title: 'Legend of the Eternal Wind: from Final Fantasy III', title_url: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori', title_date: '1991-01',
         subtitle: 'Comic',
         parts: [
           { label: 'Legend of the Eternal Wind: from Final Fantasy III (1991)', url: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori' },
@@ -209,7 +209,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Yūkyū no Kaze Densetsu Final Fantasy III Yori' }],
         ] },
         { key: 'Final Fantasy I・II・III: Memory of Heroes ~III~', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 300, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
-        title: 'Final Fantasy I・II・III: Memory of Heroes ~III~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', title_date: 2012,
+        title: 'Final Fantasy I・II・III: Memory of Heroes ~III~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', title_date: '2012-10-25',
         subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy I・II・III: Memory of Heroes ~III~ (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes' },

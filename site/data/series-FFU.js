@@ -1,6 +1,6 @@
 window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrder: 1050, recommendedOrder: 1050, title: 'Final Fantasy: Unlimited', note: 'The first anime in the franchise.', games: [
         { key: 'Final Fantasy: Unlimited', releaseDate: '2001-10-02', chronoOrder: 0, recommendedOrder: 100, tags: ['Anime', '2D', '3D'], mediaType: 'TV', length: '25 episodes',
-        title: 'Final Fantasy: Unlimited', title_url: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited', title_date: 2001,
+        title: 'Final Fantasy: Unlimited', title_url: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited', title_date: '2001-10-02',
         subtitle: 'anime',
         parts: [
           { label: 'Final Fantasy: Unlimited (2001)', url: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited' },
@@ -30,7 +30,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           tags: ['Optional', 'Adaptation', 'Turn-based RPG', 'Mobile'],
           mediaType: 'Game',
 
-          title: 'Final Fantasy: Unlimited with U', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_with_U', title_date: 2002,
+          title: 'Final Fantasy: Unlimited with U', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_with_U', title_date: '2002-08-20',
           parts: [
             { label: 'Final Fantasy: Unlimited with U (2002)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_with_U' },
           ],
@@ -60,7 +60,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           tags: ['Optional', 'Adaptation', 'Adventure', 'Visual Novel game', 'Card battle'],
           mediaType: 'Game',
 
-          title: 'Final Fantasy: Unlimited on PC', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_on_PC_Adventure_-_Labyrinth', title_date: 2003,
+          title: 'Final Fantasy: Unlimited on PC', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_on_PC_Adventure_-_Labyrinth', title_date: '2003-05-16',
           parts: [
             { label: 'Final Fantasy: Unlimited on PC (2003)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_on_PC_Adventure_-_Labyrinth' },
           ],
@@ -91,7 +91,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           mediaType: 'Audio',
           length: '10 episodes',
 
-          title: 'Final Fantasy: Unlimited Voice Theater', title_url: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited#Audio', title_date: 2002,
+          title: 'Final Fantasy: Unlimited Voice Theater', title_url: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited#Audio', title_date: '2002-01-15',
           subtitle: 'audio drama',
           parts: [
             { label: 'Final Fantasy: Unlimited Voice Theater (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited#Audio' },
@@ -121,7 +121,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           tags: ['Optional', 'Side-story', 'Novel'],
           mediaType: 'Book',
 
-          title: 'Final Fantasy: Unlimited Twin Bonds', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited#Continuation_of_Final_Fantasy:_Unlimited', title_date: 2002,
+          title: 'Final Fantasy: Unlimited Twin Bonds', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited#Continuation_of_Final_Fantasy:_Unlimited', title_date: '2002-03-28',
           subtitle: 'Book',
           parts: [
             { label: 'Final Fantasy: Unlimited Twin Bonds (2002)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited#Continuation_of_Final_Fantasy:_Unlimited' },
@@ -156,7 +156,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           mediaType: 'Comic',
           length: '32p comic, 120p script',
 
-          title: 'Final Fantasy: Unlimited After', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After', title_date: 2002,
+          title: 'Final Fantasy: Unlimited After', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After', title_date: '2002-05-15',
           subtitle: 'Comic',
           parts: [
             { label: 'Final Fantasy: Unlimited After (2002)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After' },
@@ -187,7 +187,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           mediaType: 'Book',
           length: '7 chapters',
 
-          title: 'Final Fantasy: Unlimited After Spiral', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral', title_date: 2002,
+          title: 'Final Fantasy: Unlimited After Spiral', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral', title_date: '2002-06-01',
           subtitle: 'Book',
           parts: [
             { label: 'Final Fantasy: Unlimited After Spiral (2002)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' },
@@ -219,7 +219,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           mediaType: 'Audio',
           length: '39:48',
 
-          title: 'Final Fantasy: Unlimited After 2', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_2', title_date: 2002,
+          title: 'Final Fantasy: Unlimited After 2', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_2', title_date: '2002-12-26',
           subtitle: 'audio drama',
           parts: [
             { label: 'Final Fantasy: Unlimited After 2 (2002)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_2' },
@@ -252,7 +252,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           mediaType: 'Audio',
           length: '~18min',
 
-          title: 'Final Fantasy: Unlimited Before', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_Before', title_date: 2003,
+          title: 'Final Fantasy: Unlimited Before', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_Before', title_date: '2003-04-30',
           subtitle: 'audio drama',
           parts: [
             { label: 'Final Fantasy: Unlimited Before (2003)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_Before' },

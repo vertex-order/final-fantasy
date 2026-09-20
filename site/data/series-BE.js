@@ -7,7 +7,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           tags: ['Turn-based RPG', 'Single-player'],
           mediaType: 'Game',
 
-          title: 'Final Fantasy Resonance', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Resonance', title_date: 2026,
+          title: 'Final Fantasy Resonance', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Resonance', title_date: '2026-10-22',
           parts: [
             { label: 'Final Fantasy Resonance (2026)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Resonance' },
           ],
@@ -57,7 +57,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           tags: ['Optional', 'Mobile', 'Turn-based RPG', 'Gacha', 'Terminated'],
           mediaType: 'Game',
 
-          title: 'Final Fantasy Brave Exvius', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Brave_Exvius', title_date: 2015,
+          title: 'Final Fantasy Brave Exvius', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Brave_Exvius', title_date: '2015-10-22',
           parts: [
             { label: 'Final Fantasy Brave Exvius (2015)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Brave_Exvius' },
           ],
@@ -84,7 +84,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           ]
         },
         { key: 'Final Fantasy Brave Exvius Rikodoki!', releaseDate: '2018-07-25', chronoOrder: 50, recommendedOrder: 150, tags: ['Optional', 'Manga'], mediaType: 'Comic', length: '144p',
-        title: 'Final Fantasy Brave Exvius Rikodoki!', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki!', title_date: 2018,
+        title: 'Final Fantasy Brave Exvius Rikodoki!', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki!', title_date: '2018-07-25',
         subtitle: 'Comic',
         parts: [
           { label: 'Final Fantasy Brave Exvius Rikodoki! (2018)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki!' },
@@ -102,7 +102,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Brave Exvius Rikodoki!' }],
         ] },
         { key: 'Final Fantasy Brave Exvius Tap!', releaseDate: '2017-09-08', chronoOrder: 100, recommendedOrder: 200, tags: ['Optional', 'Spin-off', 'Clicker', 'Terminated'], mediaType: 'Game',
-        title: 'Final Fantasy Brave Exvius Tap!', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Tap!', title_date: 2017,
+        title: 'Final Fantasy Brave Exvius Tap!', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Tap!', title_date: '2017-09-08',
         parts: [
           { label: 'Final Fantasy Brave Exvius Tap! (2017)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Tap!' },
         ],
@@ -121,7 +121,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           mediaType: 'Game',
           lengthParts: [{ value: '48½h', tip: 'Main Story' }],
 
-          title: 'War of the Visions: Final Fantasy Brave Exvius', title_url: 'https://wikipedia.org/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius', title_date: 2019,
+          title: 'War of the Visions: Final Fantasy Brave Exvius', title_url: 'https://wikipedia.org/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius', title_date: '2019-11-14',
           parts: [
             { label: 'War of the Visions: Final Fantasy Brave Exvius (2019)', url: 'https://wikipedia.org/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius' },
           ],

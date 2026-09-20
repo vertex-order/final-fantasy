@@ -31,7 +31,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             { value: 'ZH-TW' },
           ],
 
-          title: 'Final Fantasy IV', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV', title_date: 1991,
+          title: 'Final Fantasy IV', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV', title_date: '1991-07-19',
           subtitle: 'Pixel Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitle_date: 2021,
           parts: [
             { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
@@ -303,7 +303,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           }
         },
         { key: 'Final Fantasy IV ~Novel~ Vol.1', releaseDate: '2008-12-25', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
-        title: 'Final Fantasy IV ~Novel~ Vol.1', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: 2008,
+        title: 'Final Fantasy IV ~Novel~ Vol.1', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: '2008-12-25',
         subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy IV ~Novel~ Vol.1 (2008)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
@@ -333,7 +333,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           },
         ] },
         { key: 'Final Fantasy IV ~Novel~ Vol.2', releaseDate: '2009', chronoOrder: 510, recommendedOrder: 151, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
-        title: 'Final Fantasy IV ~Novel~ Vol.2', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: 2009,
+        title: 'Final Fantasy IV ~Novel~ Vol.2', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: '2009',
         subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy IV ~Novel~ Vol.2 (2009)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
@@ -358,7 +358,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
-          title: 'Final Fantasy IV: Interlude', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_Complete_Collection', title_date: 2011,
+          title: 'Final Fantasy IV: Interlude', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_Complete_Collection', title_date: '2011-03-24',
           parts: [
             { label: 'Final Fantasy IV: Interlude (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_Complete_Collection' },
           ],
@@ -399,7 +399,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
-          title: 'Final Fantasy IV: The After Years', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', title_date: 2008,
+          title: 'Final Fantasy IV: The After Years', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', title_date: '2008-02-18',
           subtitle: 'Remaster', subtitle_date: 2011,
           parts: [
             { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
@@ -496,7 +496,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           }
         },
         { key: 'Final Fantasy IV: The After ~Novel~', releaseDate: '2009-03-26', chronoOrder: 2500, recommendedOrder: 350, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
-        title: 'Final Fantasy IV: The After ~Novel~', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: 2009,
+        title: 'Final Fantasy IV: The After ~Novel~', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: '2009-03-26',
         subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy IV: The After ~Novel~ (2009)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },

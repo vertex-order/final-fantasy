@@ -9,7 +9,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           mediaType: 'Game',
           lengthParts: [{ value: '45½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '68h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '143h', tip: 'Completionist' }],
 
-          title: 'Final Fantasy X', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_X', title_date: 2001,
+          title: 'Final Fantasy X', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_X', title_date: '2001-07-19',
           subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster', subtitle_date: 2016,
           parts: [
             { label: 'Final Fantasy X (2001)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X' },
@@ -152,7 +152,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           tags: ['Optional', 'Sequel', 'Video'],
           mediaType: 'Video',
 
-          title: 'Final Fantasy X: Eternal Calm', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise', title_date: 2002,
+          title: 'Final Fantasy X: Eternal Calm', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise', title_date: '2002-01-31',
           subtitle: 'Remaster (2016) video', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster',
           parts: [
             { label: 'Final Fantasy X: Eternal Calm (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise' },
@@ -257,7 +257,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           mediaType: 'Game',
           lengthParts: [{ value: '30h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '45h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '112h', tip: 'Completionist' }],
 
-          title: 'Final Fantasy X-2', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2', title_date: 2003,
+          title: 'Final Fantasy X-2', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2', title_date: '2003-03-13',
           subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitle_date: 2016,
           parts: [
             { label: 'Final Fantasy X-2 (2003)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2' },
@@ -403,7 +403,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           mediaType: 'Game',
           lengthParts: [{ value: '13h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '16h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '21h', tip: 'Completionist' }],
 
-          title: 'Final Fantasy X-2: Last Mission', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2:_Last_Mission', title_date: 2004,
+          title: 'Final Fantasy X-2: Last Mission', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2:_Last_Mission', title_date: '2004-02-19',
           subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitle_date: 2016,
           parts: [
             { label: 'Final Fantasy X-2: Last Mission (2004)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2:_Last_Mission' },
@@ -508,7 +508,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           tags: ['Optional', 'Sequel', 'Novel'],
           mediaType: 'Book',
 
-          title: 'Final Fantasy X-2.5', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~', title_date: 2013,
+          title: 'Final Fantasy X-2.5', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~', title_date: '2013-12-26 10',
           subtitle: 'Book',
           parts: [
             { label: 'Final Fantasy X-2.5 (2013)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~' },
@@ -541,7 +541,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
   mediaType: 'Audio',
   length: '30min',
 
-  title: 'Final Fantasy X -Will-', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_-Will-', title_date: 2013,
+  title: 'Final Fantasy X -Will-', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_-Will-', title_date: '2013-12-26 20',
   subtitle: 'audio drama',
   parts: [
     { label: 'Final Fantasy X -Will- (2013)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_-Will-' },

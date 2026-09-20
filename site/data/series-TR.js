@@ -1,6 +1,6 @@
 window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder: 1510, recommendedOrder: 1510, title: 'Theatrhythm', note: 'A rhythm spin-off, mashing up elements and music from across the franchise, and occasionally outside franchises altogether.', games: [
         { key: 'Theatrhythm Final Fantasy', releaseDate: '2012-02-16', chronoOrder: 0, recommendedOrder: 100, tags: ['Rhythm', 'Single-player', 'Multiplayer'], mediaType: 'Game', lengthParts: [{ value: '6h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '22½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '55½h', tip: 'Completionist' }],
-        title: 'Theatrhythm Final Fantasy', title_url: 'https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy', title_date: 2012,
+        title: 'Theatrhythm Final Fantasy', title_url: 'https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy', title_date: '2012-02-16',
         parts: [
           { label: 'Theatrhythm Final Fantasy (2012)', url: 'https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy' },
         ],
@@ -19,7 +19,7 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
         ],
         },
         { key: 'Theatrhythm Final Fantasy: Curtain Call', releaseDate: '2014-04-24', chronoOrder: 100, recommendedOrder: 200, tags: ['Sequel', 'Rhythm', 'Single-player', 'Multiplayer'], mediaType: 'Game', lengthParts: [{ value: '11½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '36h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '103h', tip: 'Completionist' }],
-        title: 'Theatrhythm Final Fantasy: Curtain Call', title_url: 'https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy:_Curtain_Call', title_date: 2014,
+        title: 'Theatrhythm Final Fantasy: Curtain Call', title_url: 'https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy:_Curtain_Call', title_date: '2014-04-24',
         parts: [
           { label: 'Theatrhythm Final Fantasy: Curtain Call (2014)', url: 'https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy:_Curtain_Call' },
         ],
@@ -48,7 +48,7 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
           tags: ['Optional', 'Spin-off', 'Rhythm', 'Single-player'],
           mediaType: 'Game',
 
-          title: 'Theatrhythm Dragon Quest', title_url: 'https://wikipedia.org/wiki/Theatrhythm_Dragon_Quest', title_date: 2015,
+          title: 'Theatrhythm Dragon Quest', title_url: 'https://wikipedia.org/wiki/Theatrhythm_Dragon_Quest', title_date: '2015-03-26',
           parts: [
             { label: 'Theatrhythm Dragon Quest (2015)', url: 'https://wikipedia.org/wiki/Theatrhythm_Dragon_Quest' },
           ],
@@ -70,7 +70,7 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
           ]
         },
         { key: 'Theatrhythm Final Fantasy All-Star Carnival', releaseDate: '2016-09-27', chronoOrder: 200, recommendedOrder: 300, tags: ['Sequel', 'Rhythm', 'Arcade', 'Single-player', 'Multiplayer', 'Co-op'], mediaType: 'Game',
-        title: 'Theatrhythm Final Fantasy All-Star Carnival', title_url: 'https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy_All-Star_Carnival', title_date: 2016,
+        title: 'Theatrhythm Final Fantasy All-Star Carnival', title_url: 'https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy_All-Star_Carnival', title_date: '2016-09-27',
         parts: [
           { label: 'Theatrhythm Final Fantasy All-Star Carnival (2016)', url: 'https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy_All-Star_Carnival' },
         ],
@@ -86,7 +86,7 @@ window.__ffSeriesReg['TR'] = { num: 'TR', releaseDate: '2012-02-16', chronoOrder
         ],
         },
         { key: 'Theatrhythm Final Bar Line', releaseDate: '2023-02-16', chronoOrder: 300, recommendedOrder: 400, tags: ['Sequel', 'Rhythm', 'Single-player', 'Multiplayer', 'Co-op'], mediaType: 'Game',
-        title: 'Theatrhythm Final Bar Line', title_url: 'https://wikipedia.org/wiki/Theatrhythm_Final_Bar_Line', title_date: 2023,
+        title: 'Theatrhythm Final Bar Line', title_url: 'https://wikipedia.org/wiki/Theatrhythm_Final_Bar_Line', title_date: '2023-02-16',
         parts: [
           { label: 'Theatrhythm Final Bar Line (2023)', url: 'https://wikipedia.org/wiki/Theatrhythm_Final_Bar_Line' },
         ],

@@ -15,7 +15,7 @@ window.__ffSeriesReg['MQ'] = { num: 'MQ', releaseDate: '1992-10-05', chronoOrder
             { value: 'DE' },
           ],
 
-          title: 'Final Fantasy Mystic Quest', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Mystic_Quest', title_date: 1992,
+          title: 'Final Fantasy Mystic Quest', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Mystic_Quest', title_date: '1992-10-05',
           parts: [
             { label: 'Final Fantasy Mystic Quest (1992)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Mystic_Quest' },
           ],

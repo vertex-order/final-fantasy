@@ -7,7 +7,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
         ],
       }, games: [
         { key: 'Brotherhood: Final Fantasy XV', releaseDate: '2016-03-30 10', chronoOrder: -2000, recommendedOrder: 100, tags: ['Prequel', 'Anime'], mediaType: 'TV', length: '5 episodes',
-        title: 'Brotherhood: Final Fantasy XV', title_url: 'https://wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV', title_date: 2016,
+        title: 'Brotherhood: Final Fantasy XV', title_url: 'https://wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV', title_date: '2016-03-30 10',
         subtitle: 'anime',
         parts: [
           { label: 'Brotherhood: Final Fantasy XV (2016)', url: 'https://wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV' },
@@ -42,7 +42,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           mediaType: 'Game',
           lengthParts: [{ value: '27½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '56½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '116h', tip: 'Completionist', sep: true, sepChar: ', ' }, { value: 'Comrades 38½h', tip: 'Comrades Co-op' }],
 
-          title: 'Final Fantasy XV', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV', title_date: 2016,
+          title: 'Final Fantasy XV', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV', title_date: '2016-11-29 10',
           subtitle: 'Remake', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV#Release', subtitle_date: 2018,
           parts: [
             { label: 'Final Fantasy XV (2016)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV' },
@@ -185,7 +185,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           tags: ['Optional', 'Prequel', 'Audio drama'],
           mediaType: 'Audio',
 
-          title: 'Final Fantasy XV Prologue: Parting Ways', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_~Tabidatsu_Mono,_Nokoru_Mono~', title_date: 2016, title_italic: true,
+          title: 'Final Fantasy XV Prologue: Parting Ways', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_~Tabidatsu_Mono,_Nokoru_Mono~', title_date: '2016-11-01', title_italic: true,
           subtitle: 'Radio drama',
           parts: [
             { label: 'Final Fantasy XV Prologue: Parting Ways (2016)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_~Tabidatsu_Mono,_Nokoru_Mono~', italic: true },
@@ -238,7 +238,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           tags: ['Tie-in', 'Movie'],
           mediaType: 'Movie',
 
-          title: 'Kingsglaive: Final Fantasy XV', title_url: 'https://wikipedia.org/wiki/Kingsglaive:_Final_Fantasy_XV', title_date: 2016,
+          title: 'Kingsglaive: Final Fantasy XV', title_url: 'https://wikipedia.org/wiki/Kingsglaive:_Final_Fantasy_XV', title_date: '2016-07-09',
           subtitle: 'movie',
           parts: [
             { label: 'Kingsglaive: Final Fantasy XV (2016)', url: 'https://wikipedia.org/wiki/Kingsglaive:_Final_Fantasy_XV' },
@@ -269,7 +269,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           ]
         },
         { key: 'Final Fantasy XV: Episode Gladiolus', helpWanted: true, releaseDate: '2017-03-28', chronoOrder: 500, recommendedOrder: 310, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '1½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Completionist' }],
-        title: 'Final Fantasy XV: Episode Gladiolus', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content', title_date: 2017,
+        title: 'Final Fantasy XV: Episode Gladiolus', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content', title_date: '2017-03-28',
         subtitle: 'DLC',
         parts: [
           { label: 'Final Fantasy XV: Episode Gladiolus (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
@@ -292,7 +292,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           ],
         ] },
         { key: 'Final Fantasy XV: Episode Prompto', releaseDate: '2017-06-27', chronoOrder: 600, recommendedOrder: 320, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Completionist' }],
-        title: 'Final Fantasy XV: Episode Prompto', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content', title_date: 2017,
+        title: 'Final Fantasy XV: Episode Prompto', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content', title_date: '2017-06-27',
         subtitle: 'DLC',
         parts: [
           { label: 'Final Fantasy XV: Episode Prompto (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
@@ -317,7 +317,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           ],
         ] },
         { key: 'Final Fantasy XV: Episode Ignis', releaseDate: '2017-12-13', chronoOrder: 700, recommendedOrder: 330, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '3h', tip: 'Completionist' }],
-        title: 'Final Fantasy XV: Episode Ignis', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content', title_date: 2017,
+        title: 'Final Fantasy XV: Episode Ignis', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content', title_date: '2017-12-13',
         subtitle: 'DLC',
         parts: [
           { label: 'Final Fantasy XV: Episode Ignis (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
@@ -342,7 +342,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           ],
         ] },
         { key: 'Final Fantasy XV: Episode Ardyn – Prologue', releaseDate: '2019-02-16', chronoOrder: -5000, recommendedOrder: 400, tags: ['Optional', 'Prologue', 'Video'], mediaType: 'Video',
-        title: 'Final Fantasy XV: Episode Ardyn – Prologue', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Episode_Ardyn_%E2%80%93_Prologue', title_date: 2019,
+        title: 'Final Fantasy XV: Episode Ardyn – Prologue', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Episode_Ardyn_%E2%80%93_Prologue', title_date: '2019-02-16',
         subtitle: 'video',
         parts: [
           { label: 'Final Fantasy XV: Episode Ardyn – Prologue (2019)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Episode_Ardyn_%E2%80%93_Prologue' },
@@ -358,7 +358,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Ardyn Prologue' }],
         ] },
         { key: 'Final Fantasy XV: Episode Ardyn', releaseDate: '2019-03-26', chronoOrder: -4500, recommendedOrder: 410, tags: ['Optional', 'DLC', 'Prequel'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4h', tip: 'Completionist' }],
-        title: 'Final Fantasy XV: Episode Ardyn', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content', title_date: 2019,
+        title: 'Final Fantasy XV: Episode Ardyn', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content', title_date: '2019-03-26',
         subtitle: 'DLC',
         parts: [
           { label: 'Final Fantasy XV: Episode Ardyn (2019)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
@@ -393,7 +393,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           mediaType: 'Game',
           lengthParts: [{ value: '34min', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '57min', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '1h', tip: 'Completionist' }],
 
-          title: 'Platinum Demo – Final Fantasy XV Prologue', title_url: 'https://wikipedia.org/wiki/Development_of_Final_Fantasy_XV#Demos', title_date: 2016,
+          title: 'Platinum Demo – Final Fantasy XV Prologue', title_url: 'https://wikipedia.org/wiki/Development_of_Final_Fantasy_XV#Demos', title_date: '2016-03-30 20',
           parts: [
             { label: 'Platinum Demo \u2013 Final Fantasy XV Prologue (2016)', url: 'https://wikipedia.org/wiki/Development_of_Final_Fantasy_XV#Demos' },
           ],
@@ -432,7 +432,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           mediaType: 'Game',
           lengthParts: [{ value: '1½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '5h', tip: 'Completionist' }],
 
-          title: 'A King’s Tale: Final Fantasy XV', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#A_King\'s_Tale:_Final_Fantasy_XV', title_date: 2016,
+          title: 'A King’s Tale: Final Fantasy XV', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#A_King\'s_Tale:_Final_Fantasy_XV', title_date: '2016-11-29 20',
           parts: [
             { label: 'A King\u2019s Tale: Final Fantasy XV (2016)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#A_King\'s_Tale:_Final_Fantasy_XV' },
           ],
@@ -465,7 +465,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           ]
         },
         { key: 'Monster of the Deep: Final Fantasy XV', releaseDate: '2017-11-21', chronoOrder: 1000, recommendedOrder: 700, tags: ['Optional', 'Spin-off', 'Simulation', 'VR'], mediaType: 'Game', lengthParts: [{ value: '3½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '5½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '11½h', tip: 'Completionist' }],
-        title: 'Monster of the Deep: Final Fantasy XV', title_url: 'https://wikipedia.org/wiki/Monster_of_the_Deep:_Final_Fantasy_XV', title_date: 2017,
+        title: 'Monster of the Deep: Final Fantasy XV', title_url: 'https://wikipedia.org/wiki/Monster_of_the_Deep:_Final_Fantasy_XV', title_date: '2017-11-21',
         parts: [
           { label: 'Monster of the Deep: Final Fantasy XV (2017)', url: 'https://wikipedia.org/wiki/Monster_of_the_Deep:_Final_Fantasy_XV' },
         ],
@@ -488,7 +488,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ key: 'playstation4', name: 'PlayStation VR', noUrl: true }],
         ] },
         { key: 'Final Fantasy XV: A New Empire', releaseDate: '2017-06-29', chronoOrder: 2000, recommendedOrder: 800, tags: ['Optional', 'Spin-off', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer', 'Terminated'], mediaType: 'Game',
-        title: 'Final Fantasy XV: A New Empire', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV:_A_New_Empire', title_date: 2017,
+        title: 'Final Fantasy XV: A New Empire', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XV:_A_New_Empire', title_date: '2017-06-29',
         parts: [
           { label: 'Final Fantasy XV: A New Empire (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV:_A_New_Empire' },
         ],
@@ -510,7 +510,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           ],
         ] },
         { key: 'Final Fantasy XV: War for Eos', releaseDate: '2022-03-21', chronoOrder: 3000, recommendedOrder: 900, tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer', 'Terminated'], mediaType: 'Game',
-        title: 'Final Fantasy XV: War for Eos', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_War_for_Eos', title_date: 2022, title_italic: true,
+        title: 'Final Fantasy XV: War for Eos', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_War_for_Eos', title_date: '2022-03-21', title_italic: true,
         parts: [
           { label: 'Final Fantasy XV: War for Eos (2022)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_War_for_Eos', italic: true },
         ],
@@ -540,7 +540,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           tags: ['Optional', 'Tie-in', 'Scrolling shooter', 'Referenced'],
           mediaType: 'Game',
 
-          title: 'King\'s Knight', title_url: 'https://wikipedia.org/wiki/King\'s_Knight', title_date: 1986,
+          title: 'King\'s Knight', title_url: 'https://wikipedia.org/wiki/King\'s_Knight', title_date: '1986-09-18',
           parts: [
             { label: "King's Knight (1986)", url: "https://wikipedia.org/wiki/King's_Knight" },
           ],
@@ -632,7 +632,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           }
         },
         { key: 'Final Fantasy XV: The Dawn of the Future', releaseDate: '2019-01-31', chronoOrder: 3500, recommendedOrder: 950, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '384p; H',
-        title: 'Final Fantasy XV: The Dawn of the Future', title_url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090006', title_date: 2019,
+        title: 'Final Fantasy XV: The Dawn of the Future', title_url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090006', title_date: '2019-01-31',
         subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy XV: The Dawn of the Future (2019)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090006' },
@@ -655,7 +655,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy XV: The Dawn of the Future' }],
         ] },
         { key: 'Final Fantasy XV Anthology Vol. 1', releaseDate: '2017-07-27', chronoOrder: 3600, recommendedOrder: 960, tags: ['Optional', 'Short Stories', 'Manga'], mediaType: 'Comic', length: '128p',
-        title: 'Final Fantasy XV Anthology Vol. 1', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology', title_date: 2017,
+        title: 'Final Fantasy XV Anthology Vol. 1', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology', title_date: '2017-07-27',
         subtitle: 'Comic',
         parts: [
           { label: 'Final Fantasy XV Anthology Vol. 1 (2017)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology' },
@@ -673,7 +673,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XV Official Comic Anthology' }],
         ] },
         { key: 'Final Fantasy XV Anthology Vol.2', releaseDate: '2017-12-26', chronoOrder: 3700, recommendedOrder: 965, tags: ['Optional', 'Short Stories', 'Manga'], mediaType: 'Comic', length: '128p',
-        title: 'Final Fantasy XV Anthology Vol.2', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology_2', title_date: 2017,
+        title: 'Final Fantasy XV Anthology Vol.2', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology_2', title_date: '2017-12-26',
         subtitle: 'Comic',
         parts: [
           { label: 'Final Fantasy XV Anthology Vol.2 (2017)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology_2' },
