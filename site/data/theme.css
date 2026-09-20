@@ -36,25 +36,25 @@
    series' menu-UI/art association most people make with the franchise. */
 
 @font-face {
-  font-family: 'Cinzel';
+  font-family: "Cinzel";
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url('../fonts/cinzel-500.woff2') format('woff2');
+  src: url("../fonts/cinzel-500.woff2") format("woff2");
 }
 @font-face {
-  font-family: 'Cinzel';
+  font-family: "Cinzel";
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url('../fonts/cinzel-600.woff2') format('woff2');
+  src: url("../fonts/cinzel-600.woff2") format("woff2");
 }
 @font-face {
-  font-family: 'Cinzel';
+  font-family: "Cinzel";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url('../fonts/cinzel-700.woff2') format('woff2');
+  src: url("../fonts/cinzel-700.woff2") format("woff2");
 }
 
 :root {
