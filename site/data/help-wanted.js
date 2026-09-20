@@ -1,5 +1,6 @@
 // Help Wanted list for the page's Help Wanted section. Classic script (not a
 // module) so it loads over file:// like the other data/*.js files.
+// schema: help-wanted.schema.json
 window.HELP_WANTED_ITEMS = [
   "Add Physical platform release options",
   "Add Digital platform release options",

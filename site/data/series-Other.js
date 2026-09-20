@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrder: 1800, title: 'Other', note: 'A collection of standalone titles that nonetheless may be worth looking into.', games: [
         {
           chronoOrder: 100,

@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder: 200, recommendedOrder: 200, title: 'Final Fantasy II', note: 'For the first 14 years, this series was only available in Japan.', games: [
         {
           chronoOrder: 0,

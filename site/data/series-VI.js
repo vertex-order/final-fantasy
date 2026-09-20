@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder: 600, recommendedOrder: 600, title: 'Final Fantasy VI', note: 'The last mainline entry to feature 2D sprite graphics, especially outside of mobile games.', games: [
         {
           chronoOrder: 0,

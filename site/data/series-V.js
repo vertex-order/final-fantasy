@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 500, recommendedOrder: 500, title: 'Final Fantasy V', note: 'For the first 7 years, this series was only available in Japan.', games: [
         {
           chronoOrder: 0,

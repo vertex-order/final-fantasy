@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1750, title: 'Picture Books', note: "Illustrated children's picture books based on various Final Fantasy worlds. Also listed under their respective series.", games: [
         { chronoOrder: 200, recommendedOrder: 200, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '48p',
         title: 'Final Fantasy IX Picture Book: Vivi and Grandpa\'s Memories for the Sky', title_url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094738', title_date: '2026-05-19',

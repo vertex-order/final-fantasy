@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrder: 1700, recommendedOrder: 1700, title: 'Final Fantasy XVI', note: 'A dark, mature tale full of spectacle, with real-time action combat and kaiju-scale Eikon battles, a recommended starting point for newcomers.', games: [
         { chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['First-time players', 'Action rpg'], mediaType: 'Game', lengthParts: [{ value: '38½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '59h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '82½h', tip: 'Completionist' }],
         title: 'Final Fantasy XVI', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XVI', title_date: '2023-06-22',

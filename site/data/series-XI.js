@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder: 1100, recommendedOrder: 1100, title: 'Final Fantasy XI', note: 'The first MMO in the franchise, told as a string of largely self-contained story arcs. Story complete. Also sports a long-running book spin-off series.', games: [
         {
           chronoOrder: 0,

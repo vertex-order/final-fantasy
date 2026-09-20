@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrder: 700, recommendedOrder: 700, title: 'Compilation of Final Fantasy VII', url: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII', note: 'The first 3D Final Fantasy, the start of the PlayStation era, FMVs, and one of the most fleshed-out series.',
       notePartsMap: {
         'The first 3D Final Fantasy, the start of the PlayStation era, FMVs, and one of the most fleshed-out series.': [

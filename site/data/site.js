@@ -1,4 +1,5 @@
-// site/data/site.js -- owned by this repo, not vendored. Schema: docs/init-list.md (kit).
+// site/data/site.js -- owned by this repo, not vendored.
+// schema: site-config.schema.json
 window.SITE_CONFIG = {
   name: "Final Fantasy",
   tagline: [
