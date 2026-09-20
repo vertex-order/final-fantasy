@@ -1,9 +1,6 @@
 window.__ffSeriesReg['EX'] = { num: 'EX', releaseDate: '2014-12-18', chronoOrder: 1520, recommendedOrder: 1520, title: 'Explorers', note: 'Features a unique multiplayer aspect, and lets you customize your party for each quest-driven encounter.', games: [
-        { key: 'Final Fantasy Explorers', releaseDate: '2014-12-18', chronoOrder: 0, recommendedOrder: 100, tags: ['Action RPG', 'Jobs', 'Single-player', 'Multiplayer', 'Co-op'], mediaType: 'Game', lengthParts: [{ value: '22h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '29½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '40½h', tip: 'Completionist' }],
+        { chronoOrder: 0, recommendedOrder: 100, tags: ['Action RPG', 'Jobs', 'Single-player', 'Multiplayer', 'Co-op'], mediaType: 'Game', lengthParts: [{ value: '22h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '29½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '40½h', tip: 'Completionist' }],
         title: 'Final Fantasy Explorers', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Explorers', title_date: '2014-12-18',
-        parts: [
-          { label: 'Final Fantasy Explorers (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Explorers' },
-        ],
         languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: 'FR' }, { value: '…?' }],
         helpWanted: true,
         description: [
@@ -22,17 +19,12 @@ window.__ffSeriesReg['EX'] = { num: 'EX', releaseDate: '2014-12-18', chronoOrder
         ],
         },
         {
-          key: 'Final Fantasy Explorers-Force',
-          releaseDate: '2018-03-20',
           chronoOrder: 100,
           recommendedOrder: 200,
           tags: ['Optional', 'Action RPG', 'Jobs', 'Mobile', 'In-app Purchases', 'Multiplayer', 'Terminated'],
           mediaType: 'Game',
 
           title: 'Final Fantasy Explorers-Force', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Explorers-Force', title_date: '2018-03-20',
-          parts: [
-            { label: 'Final Fantasy Explorers-Force (2018)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Explorers-Force' },
-          ],
 
           languages: [{ value: 'JA', native: true }],
 

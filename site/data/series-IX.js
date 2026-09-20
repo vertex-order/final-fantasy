@@ -1,11 +1,7 @@
 window.__ffSeriesReg['IX'] = { num: 'IX', releaseDate: '2000-07-07', chronoOrder: 900, recommendedOrder: 900, title: 'Final Fantasy IX', note: 'A retrospective entry, returning to the medieval style of the earlier games.', games: [
-        { key: 'Final Fantasy IX', releaseDate: '2000-07-07', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: [], mediaType: 'Game', lengthParts: [{ value: '38h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '52h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '82h', tip: 'Completionist' }],
+        { chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: [], mediaType: 'Game', lengthParts: [{ value: '38h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '52h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '82h', tip: 'Completionist' }],
         title: 'Final Fantasy IX', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_IX', title_date: '2000-07-07',
         subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_IX#Release', subtitle_date: 2016,
-        parts: [
-          { label: 'Final Fantasy IX (2000)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IX' },
-          { label: 'Remaster (2016)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IX#Release', small: true },
-        ],
         languages: [
           { value: 'JA', native: true },
           { value: 'EN-GB' },
@@ -63,13 +59,9 @@ window.__ffSeriesReg['IX'] = { num: 'IX', releaseDate: '2000-07-07', chronoOrder
             },
           ],
         } },
-        { key: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky", releaseDate: '2026-05-19', chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '48p',
+        { chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '48p',
         title: 'Final Fantasy IX Picture Book: Vivi and Grandpa\'s Memories for the Sky', title_url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094738', title_date: '2026-05-19',
         subtitle: 'Book',
-        parts: [
-          { label: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky (2026)", url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094738' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [[
           { text: 'Vivi is a mysterious boy fished out of the ocean by Grandpa Quan, a gourmand trying to master the art of food. Once Grandpa Quan realizes Vivi is not food, he raises Vivi and teaches him about the world. Entry also found in our ' },
           { emText: 'Picture Books' },

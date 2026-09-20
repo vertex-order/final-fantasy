@@ -12,8 +12,6 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
       },
       games: [
         {
-          key: 'Final Fantasy XII',
-          releaseDate: '2006-03-16',
           chronoOrder: 0,
           recommendedOrder: 100,
           mainline: true,
@@ -23,10 +21,6 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
 
           title: 'Final Fantasy XII', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XII', title_date: '2006-03-16',
           subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', subtitle_date: 2018,
-          parts: [
-            { label: 'Final Fantasy XII (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII' },
-            { label: 'Remaster (2018)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', small: true },
-          ],
 
           description: [[
             { text: 'The empires of Archadia and Rozarria are waging an endless war. Vaan meets princess Ashe of Dalmasca, who has established a resistance movement.' },
@@ -69,10 +63,6 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
 
           alt: {
             subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', subtitle_date: 2017,
-            parts: [
-              { label: 'Final Fantasy XII (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII' },
-              { label: 'Remaster (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', small: true },
-            ],
 
             description: [[
               'This remaster has high-definition graphics, remastered soundtrack, and achievements. Released as ',
@@ -106,10 +96,6 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             extras: [
               {
                 subtitle: 'International', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_XII#Sequels_and_re-releases', subtitle_date: 2007,
-                parts: [
-                  { label: 'Final Fantasy XII (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII' },
-                  { label: 'International (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII#Sequels_and_re-releases', small: true },
-                ],
                 description: [[
                   { text: 'This edit has twelve license boards (instead of one), controllable guest characters and Espers, a turbo mode, new game+, and new game- (no xp gain). Released as ' },
                   { emText: 'Final Fantasy XII International Zodiac Job System (2007)' },
@@ -144,13 +130,9 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             ]
           }
         },
-        { key: 'Final Fantasy XII ~Manga~', releaseDate: '2006-12-22', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '5 volumes,', br: true }, { value: '19 chapters' }],
+        { chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '5 volumes,', br: true }, { value: '19 chapters' }],
         title: 'Final Fantasy XII ~Manga~', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: '2006-12-22',
         subtitle: 'Comic',
-        parts: [
-          { label: 'Final Fantasy XII ~Manga~ (2006)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
-          { label: 'Comic', url: null, small: true },
-        ],
         description: [
           'A manga adaptation of XII (2006). The Archadian Empire\'s invasion of neighboring lands and the death of the Dalmascan king prompt Princess Ashe, sole surviving heir to the Dalmascan throne, to take up arms against the invaders.'
         ],
@@ -162,8 +144,6 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XII manga' }],
         ] },
         {
-          key: 'Final Fantasy XII: Revenant Wings',
-          releaseDate: '2007-04-26',
           chronoOrder: 1000,
           recommendedOrder: 200,
           tags: ['Sequel', 'Real-time strategy'],
@@ -171,9 +151,6 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           lengthParts: [{ value: '24h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '33h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '49½h', tip: 'Completionist' }],
 
           title: 'Final Fantasy XII: Revenant Wings', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings', title_date: '2007-04-26',
-          parts: [
-            { label: 'Final Fantasy XII: Revenant Wings (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings' },
-          ],
 
           description: [[
             { text: 'Vaan and Penelo become sky pirates and end up involved in a conflict surrounding the floating continent of Lemurés. A standalone sequel to ' },
@@ -196,8 +173,6 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           ]
         },
         {
-          key: 'Final Fantasy Tactics Advance',
-          releaseDate: '2003-02-14',
           chronoOrder: 2000,
           recommendedOrder: 300,
           tags: ['Optional', 'Alternate universe', 'Turn-based tactical rpg'],
@@ -205,9 +180,6 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           lengthParts: [{ value: '45½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '70h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '112h', tip: 'Completionist' }],
 
           title: 'Final Fantasy Tactics Advance', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_Advance', title_date: '2003-02-14',
-          parts: [
-            { label: 'Final Fantasy Tactics Advance (2003)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_Advance' },
-          ],
 
           description: [
             'Marche enters an alternate universe Ivalice populated with his friends living different lives; conflict ensues as he attempts to get home.',
@@ -237,10 +209,6 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             {
               title: 'Final Fantasy Tactics Advance Radio Edition', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance_Radio_Edition', title_date: 2003,
               subtitle: 'radio drama',
-              parts: [
-                { label: 'Final Fantasy Tactics Advance Radio Edition (2003)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance_Radio_Edition' },
-                { label: 'radio drama', url: null, small: true },
-              ],
               description: [[
                 { text: 'Radio drama adaptation of ' },
                 { emText: 'Tactics Advance (2003)' },
@@ -257,8 +225,6 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           ]
         },
         {
-          key: 'Final Fantasy Tactics A2: Grimoire of the Rift',
-          releaseDate: '2007-10-25',
           chronoOrder: 3000,
           recommendedOrder: 400,
           tags: ['Optional', 'Spin-off', 'Turn-based tactical rpg'],
@@ -266,9 +232,6 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           lengthParts: [{ value: '47h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '80h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '112h', tip: 'Completionist' }],
 
           title: 'Final Fantasy Tactics A2: Grimoire of the Rift', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift', title_date: '2007-10-25',
-          parts: [
-            { label: 'Final Fantasy Tactics A2: Grimoire of the Rift (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift' },
-          ],
 
           description: [[
             { text: 'Luso is transported to Ivalice and battles rival clans as he seeks a way home.' },
@@ -294,8 +257,6 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           ]
         },
         {
-          key: 'Final Fantasy Tactics',
-          releaseDate: '1997-06-20',
           chronoOrder: 4000,
           recommendedOrder: 500,
           tags: ['Optional', 'Turn-based tactical rpg'],
@@ -304,10 +265,6 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
 
           title: 'Final Fantasy Tactics', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics', title_date: '1997-06-20',
           subtitle: 'Remake', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics#The_Ivalice_Chronicles', subtitle_date: 2025,
-          parts: [
-            { label: 'Final Fantasy Tactics (1997)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics' },
-            { label: 'Remake (2025)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics#The_Ivalice_Chronicles', small: true },
-          ],
 
           description: [[
             { text: 'Far in the future, the mercenary Ramza is involved in a civil war when an ancient demonic evil starts to take hold over the world.' },
@@ -357,10 +314,6 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             extras: [
               {
                 subtitle: 'Remake', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions', subtitle_date: 2007,
-                parts: [
-                  { label: 'Final Fantasy Tactics (1997)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics' },
-                  { label: 'Remake (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions', small: true },
-                ],
                 description: [[
                   { text: 'This remake re-translates the script with archaic English terminology (e.g., Priest becomes White Mage), and restores the original Japanese release\u2019s harder difficulty and JP costs, reversing the North American version\u2019s easing. It adds widescreen 16:9 support, new cutscenes, voice acting (English versions), ad-hoc multiplayer, new jobs, and two new playable characters. Released as ' },
                   { emText: 'Final Fantasy Tactics: The War of the Lions (2007)' },
@@ -401,17 +354,12 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           }
         },
         {
-          key: 'Vagrant Story',
-          releaseDate: '2000-02-10',
           chronoOrder: 6100,
           recommendedOrder: 600,
           tags: ['Optional', 'Action role-playing'],
           mediaType: 'Game',
 
           title: 'Vagrant Story', title_url: 'https://wikipedia.org/wiki/Vagrant_Story', title_date: '2000-02-10',
-          parts: [
-            { label: 'Vagrant Story (2000)', url: 'https://wikipedia.org/wiki/Vagrant_Story' },
-          ],
 
           description: [[
             { text: 'Ashley, an elite agent known as a Riskbreaker, must travel to Leá Monde to investigate the link between a cult leader and a senior Valendian Parliament member, Duke Bardorba. Considered to be in some future time after ' },
@@ -440,17 +388,12 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           ]
         },
         {
-          key: 'Final Fantasy Tactics S',
-          releaseDate: '2013-05-28',
           chronoOrder: 6000,
           recommendedOrder: 700,
           tags: ['Optional', 'Spin-off', 'Mobile', 'Tactical rpg', 'Jobs', 'Terminated'],
           mediaType: 'Game',
 
           title: 'Final Fantasy Tactics S', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_S', title_date: '2013-05-28',
-          parts: [
-            { label: 'Final Fantasy Tactics S (2013)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_S' },
-          ],
 
           description: [[
             { text: 'Mobile social game featuring jobs from the ' },
@@ -469,17 +412,12 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           ]
         },
         {
-          key: 'Crystal Defenders',
-          releaseDate: '2008-01-28',
           chronoOrder: 3100,
           recommendedOrder: 750,
           tags: ['Optional', 'Spin-off', 'Mobile', 'Turn-based strategy', 'Tower defense', 'Terminated'],
           mediaType: 'Game',
 
           title: 'Crystal Defenders', title_url: 'https://wikipedia.org/wiki/Crystal_Defenders', title_date: '2008-01-28',
-          parts: [
-            { label: 'Crystal Defenders (2008)', url: 'https://wikipedia.org/wiki/Crystal_Defenders' },
-          ],
 
           description: [[
             { text: 'Tower defense game inspired by elements from ' },
@@ -511,17 +449,12 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           ]
         },
         {
-          key: 'Crystal Defenders: Vanguard Storm',
-          releaseDate: '2009-05-13',
           chronoOrder: 3200,
           recommendedOrder: 800,
           tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile', 'Turn-based strategy', 'Tower defense', 'Terminated'],
           mediaType: 'Game',
 
           title: 'Crystal Defenders: Vanguard Storm', title_url: 'https://wikipedia.org/wiki/Crystal_Defenders', title_date: '2009-05-13',
-          parts: [
-            { label: 'Crystal Defenders: Vanguard Storm (2009)', url: 'https://wikipedia.org/wiki/Crystal_Defenders' },
-          ],
 
           description: [[
             { text: 'Tower defense game inspired by elements from ' },

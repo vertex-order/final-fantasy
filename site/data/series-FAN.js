@@ -1,9 +1,6 @@
 window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder: 1790, title: 'Fan Projects', note: 'Unofficial, usually unsanctioned, fan projects set in the Final Fantasy universe that are mostly original and could be considered of high quality.', games: [
-        { key: 'Final Fantasy: Endless Nova', releaseDate: '2002', chronoOrder: 300, recommendedOrder: 100, tags: ['Unofficial fan project', 'RPG', '2D', 'Sprites', 'Free'], mediaType: 'Game', lengthParts: [{ value: '23h', tip: 'Main Story' }],
+        { chronoOrder: 300, recommendedOrder: 100, tags: ['Unofficial fan project', 'RPG', '2D', 'Sprites', 'Free'], mediaType: 'Game', lengthParts: [{ value: '23h', tip: 'Main Story' }],
         title: 'Final Fantasy: Endless Nova', title_url: 'https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Endless_Nova', title_date: '2002',
-        parts: [
-          { label: 'Final Fantasy: Endless Nova (2002)', url: 'https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Endless_Nova' },
-        ],
         description: [
           'Follows the story of a young man as he quests through the universe, looking for a place to belong. With an enigmatic cast of interesting characters.'
         ],
@@ -17,8 +14,6 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
           ],
         ] },
         {
-          key: 'Final Fantasy XIV: Legend of Balance',
-          releaseDate: '2013-01',
           chronoOrder: 500,
           recommendedOrder: 200,
           tags: ['Unofficial fan project', '2D', 'Sprites', 'RPG', 'Alternate Universe', 'Free'],
@@ -26,9 +21,6 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
           lengthParts: [{ value: '26h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '30h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '40h', tip: 'Completionist' }],
 
           title: 'Final Fantasy XIV: Legend of Balance', title_url: 'https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Legend_of_Balance', title_date: '2013-01',
-          parts: [
-            { label: 'Final Fantasy XIV: Legend of Balance (2013)', url: 'https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Legend_of_Balance' },
-          ],
 
           description: [[
             { text: 'Taking place between the original ' },
@@ -54,17 +46,12 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
           ]
         },
         {
-          key: 'Final Fantasy XI: Braver',
-          releaseDate: '2021-07-10',
           chronoOrder: 400,
           recommendedOrder: 300,
           tags: ['Unofficial fan project', 'RPG', '2D', 'Sprites', 'Alternate Universe', 'Free'],
           mediaType: 'Game',
 
           title: 'Final Fantasy XI: Braver', title_url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver', title_date: '2021-07-10',
-          parts: [
-            { label: 'Final Fantasy XI: Braver (2021)', url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver' },
-          ],
 
           description: [[
             { text: 'Taking place roughly in the world of ' },
@@ -86,11 +73,8 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
             ],
           ]
         },
-        { key: 'Final Fantasy Renaissance', releaseDate: '2024', chronoOrder: 100, recommendedOrder: 400, tags: ['Unofficial fan project', 'Free'], mediaType: 'Game',
+        { chronoOrder: 100, recommendedOrder: 400, tags: ['Unofficial fan project', 'Free'], mediaType: 'Game',
         title: 'Final Fantasy Renaissance', title_url: 'https://www.rengames.us/ffr', title_date: '2024',
-        parts: [
-          { label: 'Final Fantasy Renaissance (2024)', url: 'https://www.rengames.us/ffr' },
-        ],
         description: [[
           { text: 'A fan-remake of ' },
           { emText: 'Final Fantasy (1987)' },
@@ -107,8 +91,6 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
           [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy renaissance' }],
         ] },
         {
-          key: 'Final Fantasy IV: The Novel ~Fan Project~',
-          releaseDate: '2002-08-10',
           chronoOrder: 200,
           recommendedOrder: 500,
           tags: ['Unofficial fan project', 'Novel', 'Free'],
@@ -116,9 +98,6 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
           length: '27 chapters',
 
           title: 'Final Fantasy IV: The Novel ~Fan Project~', title_url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel', title_date: '2002-08-10',
-          parts: [
-            { label: 'Final Fantasy IV: The Novel ~Fan Project~ (2002)', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' },
-          ],
 
           description: [[
             { text: 'A fan novelization of ' },

@@ -1,7 +1,5 @@
 window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder: 600, recommendedOrder: 600, title: 'Final Fantasy VI', note: 'The last mainline entry to feature 2D sprite graphics, especially outside of mobile games.', games: [
         {
-          key: 'Final Fantasy VI',
-          releaseDate: '1994-04-02',
           chronoOrder: 0,
           recommendedOrder: 100,
           mainline: true,
@@ -11,10 +9,6 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
 
           title: 'Final Fantasy VI', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VI', title_date: '1994-04-02',
           subtitle: 'Pixel Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitle_date: 2022,
-          parts: [
-            { label: 'Final Fantasy VI (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI' },
-            { label: 'Pixel Remaster (2022)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
-          ],
 
           storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
 
@@ -76,10 +70,6 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
             extras: [
               {
                 subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitle_date: 2014,
-                parts: [
-                  { label: 'Final Fantasy VI (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI' },
-                  { label: 'Remaster (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
-                ],
                 description: [
                   'This remaster has high-resolution graphics, redesigned sprites, movement in eight directions, and auto-battle.'
                 ],
@@ -101,10 +91,6 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
               },
               {
                 subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitle_date: 2006,
-                parts: [
-                  { label: 'Final Fantasy VI (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI' },
-                  { label: 'Edit (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
-                ],
 
                 description: [
                   'This edit has slightly improved visuals and a new translation, plus four new espers, two new areas, and three new spells.',
@@ -123,10 +109,6 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
               },
               {
                 subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitle_date: 1999,
-                parts: [
-                  { label: 'Final Fantasy VI (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI' },
-                  { label: 'Edit (1999)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
-                ],
 
                 description: [['This edit adds opening and ending ', {
                   abbrTerm: 'FMV',
@@ -177,13 +159,9 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
             ],
           }
         },
-        { key: "Figaro's Wedding: Tales from Desert", releaseDate: '1994', chronoOrder: 500, recommendedOrder: 500, tags: ['Optional', 'Alternate Universe', 'Non-canon', 'Fan-made', 'Short Stories', 'Doujinshi'], mediaType: 'Book',
+        { chronoOrder: 500, recommendedOrder: 500, tags: ['Optional', 'Alternate Universe', 'Non-canon', 'Fan-made', 'Short Stories', 'Doujinshi'], mediaType: 'Book',
         title: 'Figaro\'s Wedding: Tales from Desert', title_url: 'https://breezewiki.com/finalfantasy/wiki/Figaro_no_Kekkon:_Tales_from_Desert', title_date: '1994',
         subtitle: 'Book',
-        parts: [
-          { label: "Figaro's Wedding: Tales from Desert (1994)", url: 'https://breezewiki.com/finalfantasy/wiki/Figaro_no_Kekkon:_Tales_from_Desert' },
-          { label: 'Book', url: null, small: true },
-        ],
         languages: [{ value: 'JA', native: true }],
         description: [
           'A doujinshi by Kaori Tanaka exploring the backstory of Sabin and Edgar within Figaro Castle, told as a non-linear collection of short stories covering Edgar\'s flirtations, Sabin\'s training, and the kingdom\'s history. Tanaka wrote much of Sabin and Edgar\'s original characterization for Final Fantasy VI, giving this unofficial work unusual authority despite her own insert disclaiming it as non-canon. Included here as a notable alternate-universe curiosity rather than official media; now very rare. Released as フィガロの結婚 (Figaro no Kekkon).'

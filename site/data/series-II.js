@@ -1,7 +1,5 @@
 window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder: 200, recommendedOrder: 200, title: 'Final Fantasy II', note: 'For the first 14 years, this series was only available in Japan.', games: [
         {
-          key: 'Final Fantasy II',
-          releaseDate: '1988-12-17',
           chronoOrder: 0,
           recommendedOrder: 100,
           mainline: true,
@@ -11,10 +9,6 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
 
           title: 'Final Fantasy II', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_II', title_date: '1988-12-17',
           subtitle: 'Pixel Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitle_date: 2021,
-          parts: [
-            { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
-            { label: 'Pixel Remaster (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
-          ],
 
           storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
 
@@ -76,10 +70,6 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             extras: [
               {
                 subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitle_date: 2012,
-                parts: [
-                  { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
-                  { label: 'Edit (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
-                ],
                 description: [[
                   { text: 'This mobile edit reworks the UI for touch controls, reduces music quality, and removes the Art Gallery and Item Collection. Includes the ' },
                   { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' },
@@ -94,10 +84,6 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
               },
               {
                 subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitle_date: 2007,
-                parts: [
-                  { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
-                  { label: 'Edit (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
-                ],
                 description: [[
                   { text: 'This edit adds a bonus dungeon and refines Remaster (2002)\'s bonus content. Released as ' },
                   { emText: 'Final Fantasy II Anniversary Edition (2007)' },
@@ -114,10 +100,6 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
               },
               {
                 subtitle: 'Mobile', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitle_date: 2005,
-                parts: [
-                  { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
-                  { label: 'Mobile (2005)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
-                ],
                 description: [[
                   { text: 'This mobile port is based on Remake (2004), with cutscenes, portraits, and bonus content removed. Does not include the ' },
                   { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' },
@@ -133,10 +115,6 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
               {
                 title: 'Final Fantasy II', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_II', title_date: 1998,
                 subtitle: 'Remake', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitle_date: 2004,
-                parts: [
-                  { label: 'Final Fantasy II (1998)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
-                  { label: 'Remake (2004)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
-                ],
                 description: [[
                   { text: 'This remake redraws cutesy sprites, reworks the storyline, and updates terminology. Released in omnibus ' },
                   { emText: 'Final Fantasy I & II: Dawn of Souls (2004)' },
@@ -153,10 +131,6 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
               },
               {
                 subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitle_date: 2002,
-                parts: [
-                  { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
-                  { label: 'Remaster (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
-                ],
                 description: [[
                   { text: 'This remaster reworks graphics, adds a CGI opening cutscene, monster database, and art gallery. May have slow menus. Released in omnibus ' },
                   { emText: 'Final Fantasy Origins (2002)' },
@@ -174,10 +148,6 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
               },
               {
                 subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitle_date: 2001,
-                parts: [
-                  { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
-                  { label: 'Remaster (2001)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', small: true },
-                ],
                 description: [
                   'This remaster overhauls visuals and sound, and adds new cutscenes, auto-targeting, a dash button, and quicksave.'
                 ],
@@ -187,9 +157,6 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
                 ],
               },
               {
-                parts: [
-                  { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
-                ],
                 languages: [
                   { value: 'JA', native: true },
                   { value: 'EN', tip: 'English (Fan Translation) (Demiforce 1998; Chaos Rush 2020)' },
@@ -216,13 +183,9 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             ],
           }
         },
-        { key: "Final Fantasy II Nightmare's Labyrinth", releaseDate: '1989-03-20', chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Alternate Universe', 'Novel'], mediaType: 'Book', length: '281p',
+        { chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Alternate Universe', 'Novel'], mediaType: 'Book', length: '281p',
         title: 'Final Fantasy II Nightmare\'s Labyrinth', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB', title_date: '1989-03-20',
         subtitle: 'Book',
-        parts: [
-          { label: "Final Fantasy II Nightmare's Labyrinth (1989)", url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB' },
-          { label: 'Book', url: null, small: true },
-        ],
         languages: [{ value: 'JA', url: 'https://www.goodreads.com/book/show/77954969' }, { value: 'EN', tip: 'English (fan translation)' }],
         rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77954969' }] },
         description: [[
@@ -237,13 +200,9 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             { key: 'fan-translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Muma%20no%20Meiky%C5%AB%20Nightmare%27s%20Labyrinth%20translation&t=h_' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II Muma no Meikyū' }],
         ] },
-        { key: 'Final Fantasy II: Dragon Treasures', releaseDate: '1988-12', chronoOrder: 620, recommendedOrder: 410, tags: ['Optional', 'Alternate Universe', 'Gamebook'], mediaType: 'Book', length: '283p',
+        { chronoOrder: 620, recommendedOrder: 410, tags: ['Optional', 'Alternate Universe', 'Gamebook'], mediaType: 'Book', length: '283p',
         title: 'Final Fantasy II: Dragon Treasures', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Hih%C5%8D_no_Dragon', title_date: '1988-12',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy II: Dragon Treasures (1988)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Hih%C5%8D_no_Dragon' },
-          { label: 'Book', url: null, small: true },
-        ],
         languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/102713430' }],
         rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/102713430' }] },
         description: [
@@ -254,13 +213,9 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Hih%C5%8D%20no%20Dragon%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II: Dragon Treasures' }],
         ] },
-        { key: 'Final Fantasy II: Journey to Victory', releaseDate: '1988', chronoOrder: 630, recommendedOrder: 415, tags: ['Optional', 'Side-story', 'Gamebook'], mediaType: 'Book',
+        { chronoOrder: 630, recommendedOrder: 415, tags: ['Optional', 'Side-story', 'Gamebook'], mediaType: 'Book',
         title: 'Final Fantasy II: Journey to Victory', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi', title_date: '1988',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy II: Journey to Victory (1988)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi' },
-          { label: 'Book', url: null, small: true },
-        ],
         languages: [{ value: 'JA', native: true }],
         description: [[
           { text: 'A gamebook telling a side story set during the events of ' },
@@ -273,13 +228,9 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Sh%C5%8Dri%20e%20no%20Tabidachi%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II: Journey to Victory' }],
         ] },
-        { key: 'Final Fantasy II ~Manga~ (1988)', releaseDate: '1989-12', chronoOrder: 600, recommendedOrder: 400, tags: ['Optional', 'Alternate Universe', 'Manga', 'Incomplete'], mediaType: 'Comic', length: '~60p',
+        { chronoOrder: 600, recommendedOrder: 400, tags: ['Optional', 'Alternate Universe', 'Manga', 'Incomplete'], mediaType: 'Comic', length: '~60p',
         title: 'Final Fantasy II ~Manga~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)#Behind_the_scenes', title_date: '1989-12',
         subtitle: 'Comic',
-        parts: [
-          { label: 'Final Fantasy II ~Manga~ (1988)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)#Behind_the_scenes' },
-          { label: 'Comic', url: null, small: true },
-        ],
         languages: [{ value: 'JA', native: true }],
         helpWanted: true,
         description: [[
@@ -292,13 +243,9 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20manga%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II manga' }],
         ] },
-        { key: 'Final Fantasy I・II・III: Memory of Heroes ~II~', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
+        { chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
         title: 'Final Fantasy I・II・III: Memory of Heroes ~II~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', title_date: '2012-10-25',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy I・II・III: Memory of Heroes ~II~ (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes' },
-          { label: 'Book', url: null, small: true },
-        ],
         languages: [
           { value: 'JA', native: true },
           { value: 'EN', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },

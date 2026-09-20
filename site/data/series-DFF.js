@@ -1,7 +1,5 @@
 window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrder: 1390, recommendedOrder: 1390, title: 'Dissidia Final Fantasy', note: "Final Fantasy's take on the fighting game genre. Titles contain elements and characters from other Final Fantasy entries, and thus could be considered a mash-up or alternate universe.", games: [
         {
-          key: 'Dissidia Duodecim Prologus Final Fantasy',
-          releaseDate: '2011-01-18',
           chronoOrder: -100,
           recommendedOrder: 50,
           tags: ['Optional', 'Prequel', '3D', 'Fighting game', 'Action RPG', 'Single-player', 'Demo'],
@@ -11,9 +9,6 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           helpWanted: true,
 
           title: 'Dissidia Duodecim Prologus Final Fantasy', title_url: 'https://breezewiki.com/finalfantasy/wiki/Dissidia_Duodecim_Prologus_Final_Fantasy', title_date: '2011-01-18',
-          parts: [
-            { label: 'Dissidia Duodecim Prologus Final Fantasy (2011)', url: 'https://breezewiki.com/finalfantasy/wiki/Dissidia_Duodecim_Prologus_Final_Fantasy' },
-          ],
 
           description: [[
             { text: 'This prologue features a single storyline with Lightning and the Warrior of Light as the main characters, teaming up to investigate enemy movement and clashing with several villains from across the series.' },
@@ -35,8 +30,6 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           ]
         },
         {
-          key: 'Dissidia Final Fantasy',
-          releaseDate: '2008-12-18',
           chronoOrder: 0,
           recommendedOrder: 100,
           tags: ['3D', 'Fighting game', 'Action RPG', 'Single-player', 'Multiplayer'],
@@ -47,10 +40,6 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
 
           title: 'Dissidia Final Fantasy', title_url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy', title_date: '2008-12-18',
           subtitle: 'Remake', subtitle_url: 'https://wikipedia.org/wiki/Dissidia_012_Final_Fantasy', subtitle_date: '2011-03-03',
-          parts: [
-            { label: 'Dissidia Final Fantasy (2008)', url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy' },
-            { label: 'Remake (2011)', url: 'https://wikipedia.org/wiki/Dissidia_012_Final_Fantasy', small: true },
-          ],
 
           description: [
             'Focuses on the twelfth war between the gods Chaos and Cosmos who have summoned several warriors from parallel worlds to fight for them.',
@@ -80,9 +69,6 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           alt: {
             extras: [
               {
-                parts: [
-                  { label: 'Dissidia Final Fantasy (2008)', url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy' },
-                ],
                 description: [[
                   { text: 'The original release. The Western versions add new cutscenes, an Arcade Mode, and ease unlocking Shade Impulse and grinding for player icons. Also released as ' },
                   { emText: 'Dissidia Final Fantasy: Universal Tuning' },
@@ -99,8 +85,6 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           }
         },
         {
-          key: 'Dissidia Final Fantasy NT',
-          releaseDate: '2015-11-26',
           chronoOrder: 100,
           recommendedOrder: 200,
           tags: ['Sequel', '3D', 'Fighting game', 'Action RPG', 'Single-player', 'Multiplayer'],
@@ -119,9 +103,6 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           ],
 
           title: 'Dissidia Final Fantasy NT', title_url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_NT', title_date: '2015-11-26',
-          parts: [
-            { label: 'Dissidia Final Fantasy NT (2015)', url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_NT' },
-          ],
 
           description: [[
             { text: 'Set long after the events of ' },
@@ -154,8 +135,6 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           ]
         },
         {
-          key: 'Dissidia Final Fantasy Opera Omnia',
-          releaseDate: '2017-02-01',
           chronoOrder: 200,
           recommendedOrder: 300,
           tags: ['Optional', 'Spin-off', 'Mobile', 'Free-to-play', 'Turn-based RPG', 'Single-player', 'Terminated'],
@@ -165,9 +144,6 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           helpWanted: true,
 
           title: 'Dissidia Final Fantasy Opera Omnia', title_url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_Opera_Omnia', title_date: '2017-02-01',
-          parts: [
-            { label: 'Dissidia Final Fantasy Opera Omnia (2017)', url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_Opera_Omnia' },
-          ],
 
           description: [[
             { text: 'The events that took place were complementary to those that transpire in the world of the ' },
@@ -190,8 +166,6 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           ]
         },
         {
-          key: 'Dissidia Duellum Final Fantasy',
-          releaseDate: '2026-03-24',
           chronoOrder: 300,
           recommendedOrder: 400,
           tags: ['Spin-off', 'Mobile', 'Alternate Universe', 'Fighting game', 'Action RPG', 'Gacha', 'Multi-player', 'Free-to-play', 'In-App Purchases'],
@@ -199,9 +173,6 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: 'KO' }, { value: 'ZH-TW' }],
 
           title: 'Dissidia Duellum Final Fantasy', title_url: 'https://wikipedia.org/wiki/Dissidia_Duellum_Final_Fantasy', title_date: '2026-03-24',
-          parts: [
-            { label: 'Dissidia Duellum Final Fantasy (2026)', url: 'https://wikipedia.org/wiki/Dissidia_Duellum_Final_Fantasy' },
-          ],
 
           description: [[
             { text: 'The warriors of light find themselves transported to a new and unfamiliar world, which is revealed to be modern-day Tokyo. Despite their preceding titles, it is presumed that this is an entirely stand-alone story, as the warriors of light in Dissidia Duellum do not seem to recognize each other. Swarms of monsters start appearing in the city and draining the civilians of their vitality.' },

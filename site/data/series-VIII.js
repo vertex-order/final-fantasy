@@ -1,7 +1,5 @@
 window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoOrder: 800, recommendedOrder: 800, title: 'Final Fantasy VIII', note: 'A more grounded, character-driven entry, centered on a love story and experimental mechanics.', games: [
         {
-          key: 'Final Fantasy VIII',
-          releaseDate: '1999-02-11',
           chronoOrder: 0,
           recommendedOrder: 100,
           mainline: true,
@@ -11,10 +9,6 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
 
           title: 'Final Fantasy VIII', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII', title_date: '1999-02-11',
           subtitle: 'Remastered', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Final_Fantasy_VIII_Remastered', subtitle_date: 2019,
-          parts: [
-            { label: 'Final Fantasy VIII (1999)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII' },
-            { label: 'Remastered (2019)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Final_Fantasy_VIII_Remastered', small: true },
-          ],
 
           languages: [
             { value: 'JA', native: true },
@@ -69,10 +63,6 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
             extras: [
               {
                 subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', subtitle_date: 2013,
-                parts: [
-                  { label: 'Final Fantasy VIII (1999)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII' },
-                  { label: 'Remaster (2013)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', small: true },
-                ],
                 description: [[
                   { text: 'This remaster has upscaled graphics, High Speed Mode, companion mini-game ' },
                   { emLinkText: 'Chocobo World', emLinkUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Other_media' },
@@ -93,10 +83,6 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
               },
               {
                 subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', subtitle_date: 2000,
-                parts: [
-                  { label: 'Final Fantasy VIII (1999)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII' },
-                  { label: 'Edit (2000)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', small: true },
-                ],
                 description: [
                   'This port has MIDI audio instead of the original soundtrack and a slower battle interface that makes Limit Break inputs less precise. A companion mini-game no longer requires extra hardware to play.'
                 ],
