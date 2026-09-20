@@ -274,7 +274,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II: Journey to Victory' }],
         ] },
         { key: 'Final Fantasy II ~Manga~ (1988)', releaseDate: '1989-12', chronoOrder: 600, recommendedOrder: 400, tags: ['Optional', 'Alternate Universe', 'Manga', 'Incomplete'], mediaType: 'Comic', length: '~60p',
-        title: 'Final Fantasy II ~Manga~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)#Behind_the_scenes', title_date: 1988,
+        title: 'Final Fantasy II ~Manga~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)#Behind_the_scenes', title_date: '1989-12',
         subtitle: 'Comic',
         parts: [
           { label: 'Final Fantasy II ~Manga~ (1988)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)#Behind_the_scenes' },

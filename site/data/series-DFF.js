@@ -36,7 +36,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
         },
         {
           key: 'Dissidia Final Fantasy',
-          releaseDate: '2011-03-03',
+          releaseDate: '2008-12-18',
           chronoOrder: 0,
           recommendedOrder: 100,
           tags: ['3D', 'Fighting game', 'Action RPG', 'Single-player', 'Multiplayer'],
@@ -45,8 +45,8 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
-          title: 'Dissidia Final Fantasy', title_url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy', title_date: 2008,
-          subtitle: 'Remake', subtitle_url: 'https://wikipedia.org/wiki/Dissidia_012_Final_Fantasy', subtitle_date: 2011,
+          title: 'Dissidia Final Fantasy', title_url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy', title_date: '2008-12-18',
+          subtitle: 'Remake', subtitle_url: 'https://wikipedia.org/wiki/Dissidia_012_Final_Fantasy', subtitle_date: '2011-03-03',
           parts: [
             { label: 'Dissidia Final Fantasy (2008)', url: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy' },
             { label: 'Remake (2011)', url: 'https://wikipedia.org/wiki/Dissidia_012_Final_Fantasy', small: true },
