@@ -46,6 +46,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_%26_II:_Dawn_of
 - https://finalfantasy.fandom.com/wiki/Final_Fantasy_Origins -- age, dates, platforms, tags, versions -- accessed 2026-09-19
 Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Origins
 
+## finalfantasy.neoseeker.com (Information)
+
+- https://finalfantasy.neoseeker.com/wiki/Final_Fantasy_I
+
 ## finalfantasykingdom.net (Information)
 - https://www.finalfantasykingdom.net/finalfantasynes.php -- story -- accessed 2026-09-19
 

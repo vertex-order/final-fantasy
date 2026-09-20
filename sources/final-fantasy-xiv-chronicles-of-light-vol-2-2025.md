@@ -13,5 +13,6 @@
 ## Square Enix (Publisher, Developer)
 
 - https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094196
+- https://na.store.square-enix-games.com/final-fantasy-xiv_-chronicles-of-light-_novel__-volume-ii
 
 ## Decisions
