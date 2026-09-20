@@ -23,11 +23,13 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "44497f7d42400e257ed2a672eb9a7d1bb56eb4ce"
+ref = "f4756cad33b9b16513f2f714876bdfb8256e74bc"
 paths = [
   "sync.list.toml",
   "docs/subtitle.md",
   "docs/cache.md",
+  "docs/data.md",
+  "schemas/",
   "site/_ds/",
   "site/images/ui/",
   "site/support.js",
