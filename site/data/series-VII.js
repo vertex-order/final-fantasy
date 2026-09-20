@@ -14,6 +14,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           tags: ['Optional', 'Prequel', 'Battle Royale', 'Free-to-play', 'In-app purchases', 'Terminated'],
           mediaType: 'Game',
 
+          title: 'Final Fantasy VII: The First Soldier', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_The_First_Soldier', title_date: 2021,
           parts: [
             { label: 'Final Fantasy VII: The First Soldier (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_The_First_Soldier' },
           ],
@@ -58,6 +59,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           mediaType: 'Game',
           lengthParts: [{ value: '25½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '39h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '60h', tip: 'Completionist' }],
 
+          title: 'Final Fantasy VII: Ever Crisis', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', title_date: 2023,
+          subtitle: 'The First Soldier',
           parts: [
             { label: 'Final Fantasy VII: Ever Crisis (2023)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis' },
             { label: 'The First Soldier', url: null, small: true },
@@ -90,6 +93,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ]
         },
         { key: 'Before Crisis: Final Fantasy VII', releaseDate: '2004-09-24', chronoOrder: -6000, recommendedOrder: 1730, tags: ['Optional', 'Prequel', 'Terminated'], mediaType: 'Game', lengthParts: [{ value: '9h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '9½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '13½h', tip: 'Completionist' }],
+        title: 'Before Crisis: Final Fantasy VII', title_url: 'https://wikipedia.org/wiki/Before_Crisis:_Final_Fantasy_VII', title_date: 2004,
         parts: [
           { label: 'Before Crisis: Final Fantasy VII (2004)', url: 'https://wikipedia.org/wiki/Before_Crisis:_Final_Fantasy_VII' },
         ],
@@ -108,6 +112,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         ],
         alts: [
           {
+            title: 'Final Fantasy VII: Ever Crisis', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', title_date: 2023,
+            subtitle: 'Before Crisis',
             parts: [
               { label: 'Final Fantasy VII: Ever Crisis (2023)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis' },
               { label: 'Before Crisis', url: null, small: true },
@@ -146,6 +152,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           mediaType: 'Movie',
           length: '25min',
 
+          title: 'Last Order: Final Fantasy VII', title_url: 'https://wikipedia.org/wiki/Last_Order:_Final_Fantasy_VII', title_date: 2005,
+          subtitle: 'video',
           parts: [
             { label: 'Last Order: Final Fantasy VII (2005)', url: 'https://wikipedia.org/wiki/Last_Order:_Final_Fantasy_VII' },
             { label: 'video', url: null, small: true },
@@ -193,6 +201,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           mediaType: 'Game',
           lengthParts: [{ value: '14h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '21h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '46½h', tip: 'Completionist' }],
 
+          title: 'Crisis Core: Final Fantasy VII', title_url: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII', title_date: 2007,
+          subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII#Crisis_Core:_Final_Fantasy_VII_Reunion', subtitle_date: 2022,
           parts: [
             { label: 'Crisis Core: Final Fantasy VII (2007)', url: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII' },
             { label: 'Remaster (2022)', url: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII#Crisis_Core:_Final_Fantasy_VII_Reunion', small: true },
@@ -249,6 +259,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           alt: {
             extras: [
               {
+                title: 'Final Fantasy VII: Ever Crisis', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', title_date: 2023,
+                subtitle: 'Crisis Core',
                 parts: [
                   { label: 'Final Fantasy VII: Ever Crisis (2023)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis' },
                   { label: 'Crisis Core', url: null, small: true },
@@ -301,6 +313,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           mediaType: 'Game',
           lengthParts: [{ value: '32h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '41h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '85½h', tip: 'Completionist', sep: true, sepChar: ', ' }, { value: 'INTERmission 4½h', tip: 'INTERmission Main Story', sep: true, sepChar: ' / ' }, { value: '7h', tip: 'INTERmission Main + Extra', sep: true, sepChar: ' / ' }, { value: '16h', tip: 'INTERmission Completionist' }],
 
+          title: 'Final Fantasy VII Remake ~Part 1~', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake', title_date: 2020,
+          subtitle: 'Intergrade', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake', subtitle_date: 2021,
           parts: [
             { label: 'Final Fantasy VII Remake ~Part 1~ (2020)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake' },
             { label: 'Intergrade (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake', small: true },
@@ -356,6 +370,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           alt: {
             extras: [
               {
+                title: 'Final Fantasy VII Remake', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake', title_date: 2020,
                 parts: [
                   { label: 'Final Fantasy VII Remake (2020)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake' },
                 ],
@@ -393,6 +408,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           mediaType: 'Game',
           lengthParts: [{ value: '48½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '91½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '161h', tip: 'Completionist' }],
 
+          title: 'Final Fantasy VII Rebirth ~Part 2~', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Rebirth', title_date: 2024,
           parts: [
             { label: 'Final Fantasy VII Rebirth ~Part 2~ (2024)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Rebirth' },
           ],
@@ -453,6 +469,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           tags: ['Trilogy', 'Real-time action'],
           mediaType: 'Game',
 
+          title: 'Final Fantasy VII Revelation ~Part 3~', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Revelation', title_date: 2027,
           parts: [
             { label: 'Final Fantasy VII Revelation ~Part 3~ (2027)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Revelation' },
           ],
@@ -499,6 +516,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ]
         },
         { key: 'Final Fantasy VII', releaseDate: '1997-01-31', chronoOrder: 350, recommendedOrder: 900, mainline: true, tags: ['Combined', 'Active time battle'], mediaType: 'Game', lengthParts: [{ value: '36h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '49h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '79½h', tip: 'Completionist' }],
+        title: 'Final Fantasy VII', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII', title_date: 1997,
+        subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', subtitle_date: 2013,
         parts: [
           { label: 'Final Fantasy VII (1997)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII' },
           { label: 'Edit (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', small: true },
@@ -544,6 +563,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         alt: {
           extras: [
             {
+              subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', subtitle_date: 2015,
               parts: [
                 { label: 'Final Fantasy VII (1997)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII' },
                 { label: 'Edit (2015)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', small: true },
@@ -559,6 +579,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               ],
             },
             {
+              title: 'Final Fantasy VII: Ever Crisis', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', title_date: 2023,
+              subtitle: 'Final Fantasy VII',
               parts: [
                 { label: 'Final Fantasy VII: Ever Crisis (2023)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis' },
                 { label: 'Final Fantasy VII', url: null, small: true },
@@ -588,6 +610,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
               ],
             },
             {
+              subtitle: 'Remake', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', subtitle_date: 2012,
               parts: [
                 { label: 'Final Fantasy VII (1997)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII' },
                 { label: 'Remake (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', small: true },
@@ -651,6 +674,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           tags: ['Optional', 'Novel'],
           mediaType: 'Book',
 
+          title: 'Final Fantasy VII Remake: Traces of Two Pasts', title_url: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', title_date: 2021,
+          subtitle: 'Book',
           parts: [
             { label: 'Final Fantasy VII Remake: Traces of Two Pasts (2021)', url: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books' },
             { label: 'Book', url: null, small: true },
@@ -685,6 +710,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           tags: ['Optional', 'Novel'],
           mediaType: 'Book',
 
+          title: 'Final Fantasy VII Rebirth: Dear Destiny', title_url: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', title_date: 2026,
+          subtitle: 'Book',
           parts: [
             { label: 'Final Fantasy VII Rebirth: Dear Destiny (2026)', url: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books' },
             { label: 'Book', url: null, small: true },
@@ -714,6 +741,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           tags: ['Optional', 'Novella'],
           mediaType: 'Book',
 
+          title: 'The Maiden Who Travels The Planet', title_url: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Related_media', title_date: 2005,
+          subtitle: 'Book',
           parts: [
             { label: 'The Maiden Who Travels The Planet (2005)', url: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Related_media' },
             { label: 'Book', url: null, small: true },
@@ -748,6 +777,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           tags: ['Optional', 'Sequel', 'Short Stories'],
           mediaType: 'Book',
 
+          title: 'Final Fantasy VII: On the Way to a Smile', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile', title_date: 2005,
+          subtitle: 'Book',
           parts: [
             { label: 'Final Fantasy VII: On the Way to a Smile (2005)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile' },
             { label: 'Book', url: null, small: true },
@@ -780,6 +811,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ],
 
           alt: {
+            title: 'On the Way to a Smile - Episode: Denzel', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile', title_date: 2009,
+            subtitle: 'video',
             parts: [
               { label: 'On the Way to a Smile - Episode: Denzel (2009)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile' },
               { label: 'video', url: null, small: true },
@@ -817,6 +850,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           tags: ['Optional', 'Sequel', 'Novel'],
           mediaType: 'Book',
 
+          title: 'Final Fantasy VII: The Kids Are Alright: A Turks Side Story', title_url: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', title_date: 2011,
+          subtitle: 'Book',
           parts: [
             { label: 'Final Fantasy VII: The Kids Are Alright: A Turks Side Story (2011)', url: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books' },
             { label: 'Book', url: null, small: true },
@@ -853,6 +888,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           mediaType: 'Movie',
           length: '127min',
 
+          title: 'Final Fantasy VII: Advent Children', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children', title_date: 2005,
+          subtitle: 'Complete', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#Final_Fantasy_VII:_Advent_Children_Complete', subtitle_date: 2009,
           parts: [
             { label: 'Final Fantasy VII: Advent Children (2005)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children' },
             { label: 'Complete (2009)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#Final_Fantasy_VII:_Advent_Children_Complete', small: true },
@@ -884,6 +921,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ],
 
           alt: {
+            title: 'Final Fantasy VII: Advent Children - The Novel', title_url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children', title_date: 2005,
+            subtitle: 'Book',
             parts: [
               { label: 'Final Fantasy VII: Advent Children - The Novel (2005)', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children' },
               { label: 'Book', url: null, small: true },
@@ -908,6 +947,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
 
           extras: [
               {
+                title: 'Final Fantasy VII: Ever Crisis', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', title_date: 2023,
+                subtitle: 'Advent Children',
                 parts: [
                   { label: 'Final Fantasy VII: Ever Crisis (2023)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis' },
                   { label: 'Advent Children', url: null, small: true },
@@ -960,6 +1001,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           mediaType: 'Game',
           lengthParts: [{ value: '11½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '14h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '34h', tip: 'Completionist' }],
 
+          title: 'Dirge of Cerberus: Final Fantasy VII', title_url: 'https://wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII', title_date: 2006,
+          subtitle: 'International', subtitle_url: 'https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantasy_VII-#Version_differences', subtitle_date: 2006,
           parts: [
             { label: 'Dirge of Cerberus: Final Fantasy VII (2006)', url: 'https://wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII' },
             { label: 'International (2006)', url: 'https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantasy_VII-#Version_differences', small: true },
@@ -993,6 +1036,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           alt: {
             extras: [
               {
+                title: 'Final Fantasy VII: Ever Crisis', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', title_date: 2023,
+                subtitle: 'Dirge of Cerberus',
                 parts: [
                   { label: 'Final Fantasy VII: Ever Crisis (2023)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis' },
                   { label: 'Dirge of Cerberus', url: null, small: true },
@@ -1047,6 +1092,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           tags: ['Optional', 'Sequel', 'Shooter'],
           mediaType: 'Game',
 
+          title: 'Dirge of Cerberus Lost Episode: Final Fantasy VII', title_url: 'https://wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII#Mobile_phone_games', title_date: 2006,
           parts: [
             { label: 'Dirge of Cerberus Lost Episode: Final Fantasy VII (2006)', url: 'https://wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII#Mobile_phone_games' },
           ],
@@ -1070,6 +1116,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           alt: {
             extras: [
               {
+                title: 'Final Fantasy VII: Ever Crisis', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', title_date: 2023,
+                subtitle: 'Dirge of Cerberus',
                 parts: [
                   { label: 'Final Fantasy VII: Ever Crisis (2023)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis' },
                   { label: 'Dirge of Cerberus', url: null, small: true },
@@ -1111,6 +1159,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           tags: ['Optional', 'Spin-off', 'Minigame', 'Mobile', 'Snowboarding', 'Single-player', 'Terminated'],
           mediaType: 'Game',
 
+          title: 'Final Fantasy VII: Snowboarding', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_Snowboarding', title_date: 2005,
           parts: [
             { label: 'Final Fantasy VII: Snowboarding (2005)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_Snowboarding' },
           ],
@@ -1140,6 +1189,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           tags: ['Optional', 'Spin-off', 'Minigame', 'Mobile', 'Racing', 'Motorcycle', 'Hack and slash', 'Single-player', 'Terminated'],
           mediaType: 'Game',
 
+          title: 'Final Fantasy VII G-Bike', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VII_G-Bike', title_date: 2014,
           parts: [
             { label: 'Final Fantasy VII G-Bike (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII_G-Bike' },
           ],

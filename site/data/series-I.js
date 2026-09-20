@@ -19,7 +19,9 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           { value: 'ZH-TW', textOnly: true },
         ], lengthParts: [{ value: '17½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '29h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '50½h', tip: 'Completionist' }], storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin', description: [
           'Warriors Jack, Ash and Jed venture forth to defeat Chaos and save their world. But not all is as it seems. Online co-op play may require an additional subscription on some platforms.'
-        ], parts: [
+        ],
+        title: 'Stranger of Paradise: Final Fantasy Origin', title_url: 'https://wikipedia.org/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin', title_date: 2022,
+        parts: [
           { label: 'Stranger of Paradise: Final Fantasy Origin (2022)', url: 'https://wikipedia.org/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin' },
         ], rating: { scores: [{ kind: 'metacritic', score: '72', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin/' }, { kind: 'metacritic-user', score: '6.6', url: 'https://www.metacritic.com/game/stranger-of-paradise-final-fantasy-origin/' }, { kind: 'steam', score: 'VP', url: 'https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' }] },
         platformGroups: [
@@ -50,6 +52,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           lengthParts: [{ value: '7h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '11h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '13½h', tip: 'Completionist' }],
           storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin',
 
+          title: 'Stranger of Paradise: Trials of the Dragon King', title_url: 'https://breezewiki.com/finalfantasy/wiki/Trials_of_the_Dragon_King', title_date: 2022,
+          subtitle: 'DLC',
           parts: [
             { label: 'Stranger of Paradise: Trials of the Dragon King (2022)', url: 'https://breezewiki.com/finalfantasy/wiki/Trials_of_the_Dragon_King' },
             { label: 'DLC', url: null, small: true },
@@ -91,6 +95,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           lengthParts: [{ value: '7h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '17½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '20h', tip: 'Completionist' }],
           storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin',
 
+          title: 'Stranger of Paradise: Wanderer of the Rift', title_url: 'https://breezewiki.com/finalfantasy/wiki/Wanderer_of_the_Rift', title_date: 2022,
+          subtitle: 'DLC',
           parts: [
             { label: 'Stranger of Paradise: Wanderer of the Rift (2022)', url: 'https://breezewiki.com/finalfantasy/wiki/Wanderer_of_the_Rift' },
             { label: 'DLC', url: null, small: true },
@@ -132,6 +138,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           lengthParts: [{ value: '3½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Completionist' }],
           storeUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin',
 
+          title: 'Stranger of Paradise: Different Future', title_url: 'https://breezewiki.com/finalfantasy/wiki/Different_Future', title_date: 2023,
+          subtitle: 'DLC',
           parts: [
             { label: 'Stranger of Paradise: Different Future (2023)', url: 'https://breezewiki.com/finalfantasy/wiki/Different_Future' },
             { label: 'DLC', url: null, small: true },
@@ -188,6 +196,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
             { value: 'ZH-TW' },
           ],
 
+          title: 'Final Fantasy', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)', title_date: 1987,
+          subtitle: 'Pixel Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitle_date: 2021,
           parts: [
             { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
             { label: 'Pixel Remaster (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
@@ -237,6 +247,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           alt: {
             extras: [
               {
+                subtitle: 'Fan Remake', subtitle_url: 'https://www.rengames.us/ffr', subtitle_date: 2024,
                 parts: [
                   { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
                   { label: 'Fan Remake (2024)', url: 'https://www.rengames.us/ffr', small: true },
@@ -255,6 +266,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 ],
               },
               {
+                subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitle_date: 2015,
                 parts: [
                   { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
                   { label: 'Remaster (2015)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
@@ -276,6 +288,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 ]
               },
               {
+                subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitle_date: 2012,
                 parts: [
                   { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
                   { label: 'Remaster (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
@@ -294,6 +307,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 ]
               },
               {
+                subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitle_date: 2007,
                 parts: [
                   { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
                   { label: 'Remaster (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
@@ -316,6 +330,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 ]
               },
               {
+                subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitle_date: 2004,
                 parts: [
                   { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
                   { label: 'Remaster (2004)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
@@ -333,6 +348,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 ],
               },
               {
+                subtitle: 'Mobile', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitle_date: 2004,
                 parts: [
                   { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
                   { label: 'Mobile (2004)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
@@ -349,6 +365,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 ],
               },
               {
+                subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitle_date: 2002,
                 parts: [
                   { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
                   { label: 'Remaster (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
@@ -380,6 +397,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 ]
               },
               {
+                subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitle_date: 2000,
                 parts: [
                   { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
                   { label: 'Remaster (2000)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
@@ -393,6 +411,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
                 ],
               },
               {
+                subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitle_date: 1989,
                 parts: [
                   { label: 'Final Fantasy (1987)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)' },
                   { label: 'Remaster (1989)', url: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', small: true },
@@ -435,6 +454,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
         },
         { key: 'Final Fantasy ~Manga~', releaseDate: '1989-12-30', chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic',
         rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/106524927' }] },
+        title: 'Final Fantasy ~Manga~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)', title_date: 1989,
+        subtitle: 'Comic',
         parts: [
           { label: 'Final Fantasy ~Manga~ (1989)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)' },
           { label: 'Comic', url: null, small: true },
@@ -453,6 +474,8 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy i manga' }],
         ] },
         { key: 'Final Fantasy I・II・III: Memory of Heroes ~I~', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
+        title: 'Final Fantasy I・II・III: Memory of Heroes ~I~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', title_date: 2012,
+        subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy I・II・III: Memory of Heroes ~I~ (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes' },
           { label: 'Book', url: null, small: true },

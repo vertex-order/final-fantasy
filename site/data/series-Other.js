@@ -8,6 +8,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           mediaType: 'Game',
           lengthParts: [{ value: '10½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '11½h', tip: 'Completionist' }],
 
+          title: 'Final Fantasy Adventure', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure', title_date: 1991,
           parts: [
             { label: 'Final Fantasy Adventure (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure' },
           ],
@@ -51,6 +52,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           mediaType: 'Game',
           lengthParts: [{ value: '33h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '40h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '74½h', tip: 'Completionist' }],
 
+          title: 'Final Fantasy: The 4 Heroes of Light', title_url: 'https://wikipedia.org/wiki/Final_Fantasy:_The_4_Heroes_of_Light', title_date: 2009,
           parts: [
             { label: 'Final Fantasy: The 4 Heroes of Light (2009)', url: 'https://wikipedia.org/wiki/Final_Fantasy:_The_4_Heroes_of_Light' },
           ],
@@ -84,6 +86,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           mediaType: 'Game',
           lengthParts: [{ value: '207h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '307h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '1666h', tip: 'Completionist' }],
 
+          title: 'Mobius Final Fantasy', title_url: 'https://wikipedia.org/wiki/Mobius_Final_Fantasy', title_date: 2015,
           parts: [
             { label: 'Mobius Final Fantasy (2015)', url: 'https://wikipedia.org/wiki/Mobius_Final_Fantasy' },
           ],
@@ -116,6 +119,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', '2D sprites', 'RPG', 'Active Time Battles', 'Single-player', 'Multiplayer', 'Mobile', 'Free-to-play', 'Gacha', 'Non-Japan Terminated'],
           mediaType: 'Game',
 
+          title: 'Final Fantasy Record Keeper', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Record_Keeper', title_date: 2014,
           parts: [
             { label: 'Final Fantasy Record Keeper (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Record_Keeper' },
           ],
@@ -144,6 +148,8 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]
         },
         { key: 'Final Fantasy Lost Stranger', releaseDate: '2017-07-12', chronoOrder: 1400, recommendedOrder: 250, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '14+ volumes', tip: 'As of 2026' }],
+        title: 'Final Fantasy Lost Stranger', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Lost_Stranger', title_date: 2017,
+        subtitle: 'Comic',
         parts: [
           { label: 'Final Fantasy Lost Stranger (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Lost_Stranger' },
           { label: 'Comic', url: null, small: true },
@@ -175,6 +181,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           tags: ['Optional', 'Spin-off', 'Casual'],
           mediaType: 'Game',
 
+          title: 'Chocobo (series)', title_url: 'https://wikipedia.org/wiki/Chocobo_(series)', title_date: { start: 1997, end: 2022 },
           parts: [
             { label: 'Chocobo (series) (1997–2022)', url: 'https://wikipedia.org/wiki/Chocobo_(series)' },
           ],
@@ -204,6 +211,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]
         },
         { key: 'Kingdom Hearts (series)', releaseDate: '2002-03-28', chronoOrder: 250, recommendedOrder: 305, tags: ['Optional', 'Crossover series'], mediaType: 'Game',
+        title: 'Kingdom Hearts (series)', title_url: 'https://vertex-order.github.io/kingdom-hearts', title_date: { start: 2002, end: '2020+' },
         parts: [
           { label: 'Kingdom Hearts (series) (2002–2020+)', url: 'https://vertex-order.github.io/kingdom-hearts' },
         ],
@@ -221,6 +229,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           tags: ['Optional', 'Voice-controlled RPG', 'Jobs', 'Single-player', 'Mobile', 'Terminated'],
           mediaType: 'Game',
 
+          title: 'Voice Fantasy', title_url: 'https://wikipedia.org/wiki/Voice_Fantasy', title_date: 2010,
           parts: [
             { label: 'Voice Fantasy (2010)', url: 'https://wikipedia.org/wiki/Voice_Fantasy' },
           ],
@@ -237,6 +246,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]
         },
         { key: 'Final Fantasy Airborne Brigade', releaseDate: '2012-01-06', chronoOrder: 500, recommendedOrder: 355, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Social RPG', 'Jobs', 'Multiplayer', 'Co-op', 'Mobile', 'Terminated'], mediaType: 'Game',
+        title: 'Final Fantasy Airborne Brigade', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Airborne_Brigade', title_date: 2012,
         parts: [
           { label: 'Final Fantasy Airborne Brigade (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Airborne_Brigade' },
         ],
@@ -258,6 +268,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         ],
         },
         { key: 'Final Fantasy All the Bravest', releaseDate: '2013-01-17', chronoOrder: 600, recommendedOrder: 357, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'RPG', 'Jobs', 'Active Time Battle', 'Mobile', 'Free-to-play', 'In-app purchases', 'Single-player', 'Terminated'], mediaType: 'Game', lengthParts: [{ value: '4h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Completionist' }],
+        title: 'Final Fantasy All the Bravest', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_All_the_Bravest', title_date: 2013,
         parts: [
           { label: 'Final Fantasy All the Bravest (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_All_the_Bravest' },
         ],
@@ -283,6 +294,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           mediaType: 'Game',
           lengthParts: [{ value: '20h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '34h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '47½h', tip: 'Completionist' }],
 
+          title: 'Pictlogica Final Fantasy', title_url: 'https://breezewiki.com/finalfantasy/wiki/Pictlogica_Final_Fantasy', title_date: 2013,
           parts: [
             { label: 'Pictlogica Final Fantasy (2013)', url: 'https://breezewiki.com/finalfantasy/wiki/Pictlogica_Final_Fantasy' },
           ],
@@ -310,6 +322,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Typing RPG', 'Mobile', 'Free-to-play', 'Multiplayer', 'Terminated'],
           mediaType: 'Game',
 
+          title: 'Final Fantasy: World Wide Words', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_World_Wide_Words', title_date: 2014,
           parts: [
             { label: 'Final Fantasy: World Wide Words (2014)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_World_Wide_Words' },
           ],
@@ -336,6 +349,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Social Tactical RPG', 'Terminated'],
           mediaType: 'Game',
 
+          title: 'Heavenstrike Rivals', title_url: 'https://breezewiki.com/finalfantasy/wiki/Heavenstrike_Rivals', title_date: 2014,
           parts: [
             { label: 'Heavenstrike Rivals (2014)', url: 'https://breezewiki.com/finalfantasy/wiki/Heavenstrike_Rivals' },
           ],
@@ -370,6 +384,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Card game', 'Mobile', 'Terminated'],
           mediaType: 'Game',
 
+          title: 'Final Fantasy Portal App: Triple Triad', title_url: 'https://breezewiki.com/finalfantasy/wiki/Triple_Triad_(Portal_App)', title_date: 2015,
           parts: [
             { label: 'Final Fantasy Portal App: Triple Triad (2015)', url: 'https://breezewiki.com/finalfantasy/wiki/Triple_Triad_(Portal_App)' },
           ],
@@ -405,6 +420,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Card game', 'Free-to-play', 'In-app purchases', 'Multiplayer', 'Terminated'],
           mediaType: 'Game',
 
+          title: 'Final Fantasy Digital Card Game', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Digital_Card_Game', title_date: 2019,
           parts: [
             { label: 'Final Fantasy Digital Card Game (2019)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Digital_Card_Game' },
           ],
@@ -433,6 +449,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           mediaType: 'Game',
           lengthParts: [{ value: '38h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '42h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '52h', tip: 'Completionist' }],
 
+          title: 'The Final Fantasy Legend I–III', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#SaGa', title_date: { start: 1989, end: 1991 },
           parts: [
             { label: 'The Final Fantasy Legend I–III (1989–1991)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#SaGa' },
           ],

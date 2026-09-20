@@ -8,6 +8,8 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
           mediaType: 'Game',
           lengthParts: [{ value: '35h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '48h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '82½h', tip: 'Completionist' }],
 
+          title: 'World of Final Fantasy', title_url: 'https://wikipedia.org/wiki/World_of_Final_Fantasy', title_date: 2016,
+          subtitle: 'Remake', subtitle_url: 'https://wikipedia.org/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy_Maxima', subtitle_date: 2018,
           parts: [
             { label: 'World of Final Fantasy (2016)', url: 'https://wikipedia.org/wiki/World_of_Final_Fantasy' },
             { label: 'Remake (2018)', url: 'https://wikipedia.org/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy_Maxima', small: true },
@@ -92,6 +94,7 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
           tags: ['Optional', 'Spin-off', 'Monster-taming RPG', 'Multiplayer', 'Co-op', 'Mobile', 'In-app purchases', 'Terminated'],
           mediaType: 'Game',
 
+          title: 'World of Final Fantasy: Meli-Melo', title_url: 'https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy:_Meli-Melo', title_date: 2017,
           parts: [
             { label: 'World of Final Fantasy: Meli-Melo (2017)', url: 'https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy:_Meli-Melo' },
           ],

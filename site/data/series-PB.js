@@ -1,5 +1,7 @@
 window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1750, title: 'Picture Books', note: "Illustrated children's picture books based on various Final Fantasy worlds. Also listed under their respective series.", games: [
         { key: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky", releaseDate: '2026-05-19', chronoOrder: 200, recommendedOrder: 200, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '48p',
+        title: 'Final Fantasy IX Picture Book: Vivi and Grandpa\'s Memories for the Sky', title_url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094738', title_date: 2026,
+        subtitle: 'Book',
         parts: [
           { label: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky (2026)", url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094738' },
           { label: 'Book', url: null, small: true },
@@ -17,6 +19,8 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
           [{ key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy IX Picture Book: Vivi and Grandpa\'s Memories for the Sky reading', ytSuffix: '' }],
         ] },
         { key: 'Chocobo and the Airship: A Final Fantasy Picture Book', releaseDate: '2023-03-21', chronoOrder: 100, recommendedOrder: 100, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '40p',
+        title: 'Chocobo and the Airship: A Final Fantasy Picture Book', title_url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092031', title_date: 2023,
+        subtitle: 'Book',
         parts: [
           { label: 'Chocobo and the Airship: A Final Fantasy Picture Book (2023)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092031' },
           { label: 'Book', url: null, small: true },
@@ -32,6 +36,8 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
           [{ key: 'fan-movie', ytSearch: true, ytTitle: 'Chocobo and the Airship: A Final Fantasy Picture Book reading', ytSuffix: '' }],
         ] },
         { key: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', releaseDate: '2022-08-09', chronoOrder: 300, recommendedOrder: 300, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
+        title: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', title_url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447', title_date: 2022,
+        subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift (2022)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' },
           { label: 'Book', url: null, small: true },
@@ -49,6 +55,8 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
           [{ key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift reading', ytSuffix: '' }],
         ] },
         { key: 'Final Fantasy XIV Picture Book: Me and the Cornservant', releaseDate: '2027-04-13', chronoOrder: 400, recommendedOrder: 400, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
+        title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', title_url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833', title_date: 2027,
+        subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy XIV Picture Book: Me and the Cornservant (2027)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833' },
           { label: 'Book', url: null, small: true },

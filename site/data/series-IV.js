@@ -31,6 +31,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             { value: 'ZH-TW' },
           ],
 
+          title: 'Final Fantasy IV', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV', title_date: 1991,
+          subtitle: 'Pixel Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitle_date: 2021,
           parts: [
             { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
             { label: 'Pixel Remaster (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
@@ -83,6 +85,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             {
               label: 'Final Fantasy IV (1991)',
 
+              subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', subtitle_date: 2011,
               parts: [
                 { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
                 { label: 'Edit (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
@@ -108,6 +111,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             },
             {
               label: 'Final Fantasy IV (1991)',
+              subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', subtitle_date: 2009,
               parts: [
                 { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
                 { label: 'Edit (2009)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
@@ -122,6 +126,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             },
             {
               label: 'Final Fantasy IV (1991)',
+              subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', subtitle_date: 2005,
               parts: [
                 { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
                 { label: 'Edit (2005)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
@@ -141,6 +146,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             },
             {
               label: 'Final Fantasy IV (1991)',
+              subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', subtitle_date: 2002,
               parts: [
                 { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
                 { label: 'Remaster (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
@@ -156,6 +162,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             {
               label: 'Final Fantasy IV (1991)',
 
+              subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', subtitle_date: 1997,
               parts: [
                 { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
                 { label: 'Edit (1997)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', small: true },
@@ -236,6 +243,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               { value: 'ZH-TW', textOnly: true },
             ],
 
+            subtitle: '3D Remake', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)', subtitle_date: 2014,
             parts: [
               { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
               { label: '3D Remake (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)', small: true },
@@ -263,6 +271,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
 
             extras: [
               {
+                subtitle: '3D Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)#Ports', subtitle_date: 2012,
                 parts: [
                   { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
                   { label: '3D Remaster (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)#Ports', small: true },
@@ -277,6 +286,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
                 ],
               },
               {
+                subtitle: '3D Remake', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)', subtitle_date: 2007,
                 parts: [
                   { label: 'Final Fantasy IV (1991)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV' },
                   { label: '3D Remake (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)', small: true },
@@ -293,6 +303,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           }
         },
         { key: 'Final Fantasy IV ~Novel~ Vol.1', releaseDate: '2008-12-25', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
+        title: 'Final Fantasy IV ~Novel~ Vol.1', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: 2008,
+        subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy IV ~Novel~ Vol.1 (2008)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
@@ -307,6 +319,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         ],
         alts: [
           {
+            title: 'Final Fantasy IV: The Novel ~Fan Project~', title_url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel', title_date: 2002,
             label: 'Final Fantasy IV: The Novel ~Fan Project~ (2002)',
             url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel',
             description: [
@@ -320,6 +333,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           },
         ] },
         { key: 'Final Fantasy IV ~Novel~ Vol.2', releaseDate: '2009', chronoOrder: 510, recommendedOrder: 151, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
+        title: 'Final Fantasy IV ~Novel~ Vol.2', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: 2009,
+        subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy IV ~Novel~ Vol.2 (2009)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
@@ -343,6 +358,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
+          title: 'Final Fantasy IV: Interlude', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_Complete_Collection', title_date: 2011,
           parts: [
             { label: 'Final Fantasy IV: Interlude (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_Complete_Collection' },
           ],
@@ -383,6 +399,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
 
+          title: 'Final Fantasy IV: The After Years', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', title_date: 2008,
+          subtitle: 'Remaster', subtitle_date: 2011,
           parts: [
             { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
             { label: 'Remaster (2011)', small: true },
@@ -419,6 +437,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
 
           extras: [
             {
+              subtitle: 'Edit', subtitle_date: 2009,
               parts: [
                 { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
                 { label: 'Edit (2009)', small: true },
@@ -434,6 +453,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
               ],
             },
             {
+              subtitle: 'Mobile',
               parts: [
                 { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
                 { label: 'Mobile', small: true },
@@ -448,6 +468,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
 
           alt: {
             label: 'Final Fantasy IV: The After Years (2013, 3D Remake)',
+            subtitle: '3D Remake', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', subtitle_date: 2013,
             parts: [
               { label: 'Final Fantasy IV: The After Years (2008)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years' },
               { label: '3D Remake (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', small: true },
@@ -475,6 +496,8 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           }
         },
         { key: 'Final Fantasy IV: The After ~Novel~', releaseDate: '2009-03-26', chronoOrder: 2500, recommendedOrder: 350, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
+        title: 'Final Fantasy IV: The After ~Novel~', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: 2009,
+        subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy IV: The After ~Novel~ (2009)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
