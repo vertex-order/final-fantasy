@@ -34,7 +34,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           ]
         },
         {
-          title: 'Dissidia Final Fantasy (2008) Remake (2011)',
+          title: 'Dissidia Final Fantasy',
           releaseDate: '2011-03-03',
           chronoOrder: 0,
           recommendedOrder: 100,

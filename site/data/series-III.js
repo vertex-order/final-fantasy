@@ -200,7 +200,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             { key: 'fan-translation', url: 'https://duckduckgo.com/?q=Y%C5%ABky%C5%AB%20no%20Kaze%20Densetsu%20Final%20Fantasy%20III%20Legend%20of%20the%20Eternal%20Wind%3A%20from%20Final%20Fantasy%20III%20translation&t=h_&ia=web' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Yūkyū no Kaze Densetsu Final Fantasy III Yori' }],
         ] },
-        { title: 'Final Fantasy I・II・III: Memory of Heroes ~III~ (2012)', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 300, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
+        { title: 'Final Fantasy I・II・III: Memory of Heroes ~III~', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 300, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy I・II・III: Memory of Heroes ~III~ (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes' },
           { label: 'Book', url: null, small: true },

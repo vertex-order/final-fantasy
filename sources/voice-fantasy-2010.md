@@ -1,0 +1,16 @@
+<!-- sources/voice-fantasy-2010.md (markdown) -->
+
+# Voice Fantasy
+
+<!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
+     dates/stars yet. Needs a human research pass per docs/sources.md. -->
+
+## metacritic.com (Ratings)
+
+- https://www.metacritic.com/game/voice-fantasy/
+
+## wikipedia.org (Information)
+
+- https://wikipedia.org/wiki/Voice_Fantasy
+
+## Decisions

@@ -1,0 +1,20 @@
+<!-- sources/final-fantasy-xi-the-testament-of-the-wise-vol-2-2007.md (markdown) -->
+
+# Final Fantasy XI ~The Testament of the Wise~ Vol.2
+
+<!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
+     dates/stars yet. Needs a human research pass per docs/sources.md. -->
+
+## bg-wiki.com (Information)
+
+- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories
+
+## duckduckgo.com (Information)
+
+- https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Testament%20of%20the%20Wise~%20Vol.2%20translation
+
+## goodreads.com (Ratings)
+
+- https://www.goodreads.com/book/show/77249549
+
+## Decisions
