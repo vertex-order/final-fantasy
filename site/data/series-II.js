@@ -9,7 +9,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
           mediaType: 'Game',
           lengthParts: [{ value: '20½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '24h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '24½h', tip: 'Completionist' }],
 
-          title: 'Final Fantasy II', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_II', title_date: 1988,
+          title: 'Final Fantasy II', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_II', title_date: '1988-12-17',
           subtitle: 'Pixel Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitle_date: 2021,
           parts: [
             { label: 'Final Fantasy II (1988)', url: 'https://wikipedia.org/wiki/Final_Fantasy_II' },
@@ -217,7 +217,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
           }
         },
         { key: "Final Fantasy II Nightmare's Labyrinth", releaseDate: '1989-03-20', chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Alternate Universe', 'Novel'], mediaType: 'Book', length: '281p',
-        title: 'Final Fantasy II Nightmare\'s Labyrinth', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB', title_date: 1989,
+        title: 'Final Fantasy II Nightmare\'s Labyrinth', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB', title_date: '1989-03-20',
         subtitle: 'Book',
         parts: [
           { label: "Final Fantasy II Nightmare's Labyrinth (1989)", url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB' },
@@ -238,7 +238,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II Muma no Meikyū' }],
         ] },
         { key: 'Final Fantasy II: Dragon Treasures', releaseDate: '1988-12', chronoOrder: 620, recommendedOrder: 410, tags: ['Optional', 'Alternate Universe', 'Gamebook'], mediaType: 'Book', length: '283p',
-        title: 'Final Fantasy II: Dragon Treasures', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Hih%C5%8D_no_Dragon', title_date: 1988,
+        title: 'Final Fantasy II: Dragon Treasures', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Hih%C5%8D_no_Dragon', title_date: '1988-12',
         subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy II: Dragon Treasures (1988)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Hih%C5%8D_no_Dragon' },
@@ -255,7 +255,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II: Dragon Treasures' }],
         ] },
         { key: 'Final Fantasy II: Journey to Victory', releaseDate: '1988', chronoOrder: 630, recommendedOrder: 415, tags: ['Optional', 'Side-story', 'Gamebook'], mediaType: 'Book',
-        title: 'Final Fantasy II: Journey to Victory', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi', title_date: 1988,
+        title: 'Final Fantasy II: Journey to Victory', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi', title_date: '1988',
         subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy II: Journey to Victory (1988)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi' },
@@ -293,7 +293,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II manga' }],
         ] },
         { key: 'Final Fantasy I・II・III: Memory of Heroes ~II~', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
-        title: 'Final Fantasy I・II・III: Memory of Heroes ~II~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', title_date: 2012,
+        title: 'Final Fantasy I・II・III: Memory of Heroes ~II~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', title_date: '2012-10-25',
         subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy I・II・III: Memory of Heroes ~II~ (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes' },

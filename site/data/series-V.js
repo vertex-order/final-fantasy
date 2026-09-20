@@ -9,7 +9,7 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
           mediaType: 'Game',
           lengthParts: [{ value: '30½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '35½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '51½h', tip: 'Completionist' }],
 
-          title: 'Final Fantasy V', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_V', title_date: 1992,
+          title: 'Final Fantasy V', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_V', title_date: '1992-12-06',
           subtitle: 'Pixel Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitle_date: 2021,
           parts: [
             { label: 'Final Fantasy V (1992)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V' },
@@ -182,7 +182,7 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
           mediaType: 'Movie',
           length: '120min',
 
-          title: 'Final Fantasy: Legend of the Crystals', title_url: 'https://wikipedia.org/wiki/Final_Fantasy:_Legend_of_the_Crystals', title_date: 1994,
+          title: 'Final Fantasy: Legend of the Crystals', title_url: 'https://wikipedia.org/wiki/Final_Fantasy:_Legend_of_the_Crystals', title_date: '1994-03-21',
           subtitle: 'video',
           parts: [
             { label: 'Final Fantasy: Legend of the Crystals (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy:_Legend_of_the_Crystals' },

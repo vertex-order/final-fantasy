@@ -21,7 +21,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           mediaType: 'Game',
           lengthParts: [{ value: '40½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '62h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '105h', tip: 'Completionist' }],
 
-          title: 'Final Fantasy XII', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XII', title_date: 2006,
+          title: 'Final Fantasy XII', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XII', title_date: '2006-03-16',
           subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', subtitle_date: 2018,
           parts: [
             { label: 'Final Fantasy XII (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII' },
@@ -145,7 +145,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           }
         },
         { key: 'Final Fantasy XII ~Manga~', releaseDate: '2006-12-22', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '5 volumes,', br: true }, { value: '19 chapters' }],
-        title: 'Final Fantasy XII ~Manga~', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: 2006,
+        title: 'Final Fantasy XII ~Manga~', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: '2006-12-22',
         subtitle: 'Comic',
         parts: [
           { label: 'Final Fantasy XII ~Manga~ (2006)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
@@ -170,7 +170,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           mediaType: 'Game',
           lengthParts: [{ value: '24h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '33h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '49½h', tip: 'Completionist' }],
 
-          title: 'Final Fantasy XII: Revenant Wings', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings', title_date: 2007,
+          title: 'Final Fantasy XII: Revenant Wings', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings', title_date: '2007-04-26',
           parts: [
             { label: 'Final Fantasy XII: Revenant Wings (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings' },
           ],
@@ -204,7 +204,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           mediaType: 'Game',
           lengthParts: [{ value: '45½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '70h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '112h', tip: 'Completionist' }],
 
-          title: 'Final Fantasy Tactics Advance', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_Advance', title_date: 2003,
+          title: 'Final Fantasy Tactics Advance', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_Advance', title_date: '2003-02-14',
           parts: [
             { label: 'Final Fantasy Tactics Advance (2003)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_Advance' },
           ],
@@ -265,7 +265,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           mediaType: 'Game',
           lengthParts: [{ value: '47h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '80h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '112h', tip: 'Completionist' }],
 
-          title: 'Final Fantasy Tactics A2: Grimoire of the Rift', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift', title_date: 2007,
+          title: 'Final Fantasy Tactics A2: Grimoire of the Rift', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift', title_date: '2007-10-25',
           parts: [
             { label: 'Final Fantasy Tactics A2: Grimoire of the Rift (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift' },
           ],
@@ -302,7 +302,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           mediaType: 'Game',
           lengthParts: [{ value: '37h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '46h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '63½h', tip: 'Completionist' }],
 
-          title: 'Final Fantasy Tactics', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics', title_date: 1997,
+          title: 'Final Fantasy Tactics', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics', title_date: '1997-06-20',
           subtitle: 'Remake', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics#The_Ivalice_Chronicles', subtitle_date: 2025,
           parts: [
             { label: 'Final Fantasy Tactics (1997)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics' },
@@ -408,7 +408,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           tags: ['Optional', 'Action role-playing'],
           mediaType: 'Game',
 
-          title: 'Vagrant Story', title_url: 'https://wikipedia.org/wiki/Vagrant_Story', title_date: 2000,
+          title: 'Vagrant Story', title_url: 'https://wikipedia.org/wiki/Vagrant_Story', title_date: '2000-02-10',
           parts: [
             { label: 'Vagrant Story (2000)', url: 'https://wikipedia.org/wiki/Vagrant_Story' },
           ],
@@ -447,7 +447,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           tags: ['Optional', 'Spin-off', 'Mobile', 'Tactical rpg', 'Jobs', 'Terminated'],
           mediaType: 'Game',
 
-          title: 'Final Fantasy Tactics S', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_S', title_date: 2013,
+          title: 'Final Fantasy Tactics S', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_S', title_date: '2013-05-28',
           parts: [
             { label: 'Final Fantasy Tactics S (2013)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_S' },
           ],
@@ -476,7 +476,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           tags: ['Optional', 'Spin-off', 'Mobile', 'Turn-based strategy', 'Tower defense', 'Terminated'],
           mediaType: 'Game',
 
-          title: 'Crystal Defenders', title_url: 'https://wikipedia.org/wiki/Crystal_Defenders', title_date: 2008,
+          title: 'Crystal Defenders', title_url: 'https://wikipedia.org/wiki/Crystal_Defenders', title_date: '2008-01-28',
           parts: [
             { label: 'Crystal Defenders (2008)', url: 'https://wikipedia.org/wiki/Crystal_Defenders' },
           ],
@@ -518,7 +518,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile', 'Turn-based strategy', 'Tower defense', 'Terminated'],
           mediaType: 'Game',
 
-          title: 'Crystal Defenders: Vanguard Storm', title_url: 'https://wikipedia.org/wiki/Crystal_Defenders', title_date: 2009,
+          title: 'Crystal Defenders: Vanguard Storm', title_url: 'https://wikipedia.org/wiki/Crystal_Defenders', title_date: '2009-05-13',
           parts: [
             { label: 'Crystal Defenders: Vanguard Storm (2009)', url: 'https://wikipedia.org/wiki/Crystal_Defenders' },
           ],

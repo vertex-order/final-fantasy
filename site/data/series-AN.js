@@ -7,7 +7,7 @@ window.__ffSeriesReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1
           tags: ['CCG', 'Mobile', 'Multiplayer', 'Terminated'],
           mediaType: 'Game',
 
-          title: 'Final Fantasy Artniks', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Artniks', title_date: 2012,
+          title: 'Final Fantasy Artniks', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Artniks', title_date: '2012-11-30',
           parts: [
             { label: 'Final Fantasy Artniks (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Artniks' },
           ],
@@ -34,7 +34,7 @@ window.__ffSeriesReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1
           tags: ['Sequel', 'Dungeon crawl', 'Mobile', 'Multiplayer', 'Gacha', 'Terminated'],
           mediaType: 'Game',
 
-          title: 'Final Fantasy Artniks Dive', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Artniks_Dive', title_date: 2014,
+          title: 'Final Fantasy Artniks Dive', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Artniks_Dive', title_date: '2014-11-10',
           parts: [
             { label: 'Final Fantasy Artniks Dive (2014)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Artniks_Dive' },
           ],

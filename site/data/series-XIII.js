@@ -8,7 +8,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           { value: 'DE', textOnly: true },
           { value: 'ES-ES', textOnly: true },
         ],
-        title: 'Final Fantasy XIII', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII', title_date: 2009,
+        title: 'Final Fantasy XIII', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII', title_date: '2009-12-17',
         subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise', subtitle_date: 2014,
         parts: [
           { label: 'Final Fantasy XIII (2009)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII' },
@@ -94,7 +94,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           mediaType: 'Book',
           length: '6 chapters',
 
-          title: 'Final Fantasy XIII: A Dreaming Cocoon Falls into the Dawn', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu', title_date: 2010,
+          title: 'Final Fantasy XIII: A Dreaming Cocoon Falls into the Dawn', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu', title_date: '2010-09-30',
           subtitle: 'Book',
           parts: [
             { label: 'Final Fantasy XIII: A Dreaming Cocoon Falls into the Dawn (2010)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu' },
@@ -130,7 +130,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           mediaType: 'Book',
           length: '176p; P',
 
-          title: 'Final Fantasy XIII-2 Fragments Before', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before', title_date: 2011,
+          title: 'Final Fantasy XIII-2 Fragments Before', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before', title_date: '2011-12-15 10',
           subtitle: 'Book',
           parts: [
             { label: 'Final Fantasy XIII-2 Fragments Before (2011)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before' },
@@ -182,7 +182,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             { value: 'ES-ES', textOnly: true },
           ],
 
-          title: 'Final Fantasy XIII-2', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2', title_date: 2011,
+          title: 'Final Fantasy XIII-2', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2', title_date: '2011-12-15 20',
           subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2', subtitle_date: 2021,
           parts: [
             { label: 'Final Fantasy XIII-2 (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2' },
@@ -261,7 +261,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           mediaType: 'Book',
           length: '146p; P',
 
-          title: 'Final Fantasy XIII-2 Fragments After', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After', title_date: 2012,
+          title: 'Final Fantasy XIII-2 Fragments After', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After', title_date: '2012-06-21',
           subtitle: 'Book',
           parts: [
             { label: 'Final Fantasy XIII-2 Fragments After (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After' },
@@ -314,7 +314,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             { value: 'ZH-TW', textOnly: true },
           ],
 
-          title: 'Lightning Returns: Final Fantasy XIII', title_url: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII', title_date: 2013,
+          title: 'Lightning Returns: Final Fantasy XIII', title_url: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII', title_date: '2013-11-21',
           subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', subtitle_date: 2021,
           parts: [
             { label: 'Lightning Returns: Final Fantasy XIII (2013)', url: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII' },
@@ -405,7 +405,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           mediaType: 'Book',
           length: 'Ten episodes',
 
-          title: 'Final Fantasy XIII: Reminiscence -tracer of memories-', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-', title_date: 2014,
+          title: 'Final Fantasy XIII: Reminiscence -tracer of memories-', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-', title_date: '2014-06-03',
           subtitle: 'Book',
           parts: [
             { label: 'Final Fantasy XIII: Reminiscence -tracer of memories- (2014)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-' },
@@ -437,7 +437,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           tags: ['Optional', 'Prequel', 'Short Stories'],
           mediaType: 'Book',
 
-          title: 'Final Fantasy XIII: Episode Zero: Promise', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-', title_date: 2009,
+          title: 'Final Fantasy XIII: Episode Zero: Promise', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-', title_date: '2009-12-24',
           subtitle: 'Book',
           parts: [
             { label: 'Final Fantasy XIII: Episode Zero: Promise (2009)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-' },
@@ -523,7 +523,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             { value: 'ZH-TW', textOnly: true },
           ],
 
-          title: 'Final Fantasy Type-0', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Type-0', title_date: 2011,
+          title: 'Final Fantasy Type-0', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Type-0', title_date: '2011-10-27',
           subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Type-0_HD', subtitle_date: 2015,
           parts: [
             { label: 'Final Fantasy Type-0 (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Type-0' },
@@ -576,7 +576,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           }
         },
         { key: 'Final Fantasy Type-0 ~Manga~', releaseDate: '2011-11-11', chronoOrder: 100400, recommendedOrder: 940, tags: ['Optional', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '200p; P', br: true }, { value: '1 volume,', br: true }, { value: '3 chapters' }],
-        title: 'Final Fantasy Type-0 ~Manga~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_(manga)#Story', title_date: 2011,
+        title: 'Final Fantasy Type-0 ~Manga~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_(manga)#Story', title_date: '2011-11-11',
         subtitle: 'Comic',
         parts: [
           { label: 'Final Fantasy Type-0 ~Manga~ (2011)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_(manga)#Story' },
@@ -602,7 +602,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           [{ key: 'book', name: 'Manga', noUrl: true }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Type-0 manga' }],
         ] },        { key: 'Final Fantasy Type-0: The Ice Reaper', releaseDate: '2012-09-22', chronoOrder: 99900, recommendedOrder: 945, tags: ['Optional', 'Prequel', 'Manga'], mediaType: 'Comic', length: '5 volumes',
-        title: 'Final Fantasy Type-0: The Ice Reaper', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper', title_date: 2012,
+        title: 'Final Fantasy Type-0: The Ice Reaper', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper', title_date: '2012-09-22',
         subtitle: 'Comic',
         parts: [
           { label: 'Final Fantasy Type-0: The Ice Reaper (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper' },
@@ -630,7 +630,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Type-0 Side Story: The Ice Reaper' }],
         ] },
         { key: 'Final Fantasy Type-0: Change the World -The Answer- Vol.1', releaseDate: '2012-04-21', chronoOrder: 100500, recommendedOrder: 950, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '272p',
-        title: 'Final Fantasy Type-0: Change the World -The Answer- Vol.1', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-', title_date: 2012,
+        title: 'Final Fantasy Type-0: Change the World -The Answer- Vol.1', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-', title_date: '2012-04-21',
         subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy Type-0: Change the World -The Answer- Vol.1 (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-' },
@@ -649,7 +649,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           [{ key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#Story' }],
         ] },
         { key: 'Final Fantasy Type-0: Change the World -The Penultimate Truth- Vol.2', releaseDate: '2012-06-28', chronoOrder: 99950, recommendedOrder: 960, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '288p',
-        title: 'Final Fantasy Type-0: Change the World -The Penultimate Truth- Vol.2', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-', title_date: 2012,
+        title: 'Final Fantasy Type-0: Change the World -The Penultimate Truth- Vol.2', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-', title_date: '2012-06-28',
         subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy Type-0: Change the World -The Penultimate Truth- Vol.2 (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-' },
@@ -668,7 +668,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           [{ key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-#Synopsis' }],
         ] },
         { key: 'Final Fantasy Type-0 ~The Last Truth~', releaseDate: '2015-06-04', chronoOrder: 100650, recommendedOrder: 965, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '572p; H',
-        title: 'Final Fantasy Type-0 ~The Last Truth~', title_url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth', title_date: 2015,
+        title: 'Final Fantasy Type-0 ~The Last Truth~', title_url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth', title_date: '2015-06-04',
         subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy Type-0 ~The Last Truth~ (2015)', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth' },
@@ -697,7 +697,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           tags: ['Optional', 'Spin-off', 'RPG', 'Multiplayer', 'Alternate Universe', 'Terminated'],
           mediaType: 'Game',
 
-          title: 'Final Fantasy Agito', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Agito#', title_date: 2014,
+          title: 'Final Fantasy Agito', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Agito#', title_date: '2014-05-14',
           parts: [
             { label: 'Final Fantasy Agito (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Agito#' },
           ],
@@ -725,7 +725,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           ]
         },
         { key: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', releaseDate: '2015-04-30', chronoOrder: 100560, recommendedOrder: 1050, tags: ['Optional', 'Novel'], mediaType: 'Book',
-        title: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: 2015,
+        title: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: '2015-04-30',
         subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale- (2015)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
@@ -751,7 +751,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           tags: ['Optional', 'Spin-off', 'RPG', 'Multiplayer', 'Alternate Universe', 'Terminated'],
           mediaType: 'Game',
 
-          title: 'Final Fantasy Awakening', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Awakening', title_date: 2016,
+          title: 'Final Fantasy Awakening', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Awakening', title_date: '2016-12-14',
           parts: [
             { label: 'Final Fantasy Awakening (2016)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Awakening' },
           ],
