@@ -9,6 +9,8 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
           mediaType: 'Game',
           lengthParts: [{ value: '33h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '40½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '54½h', tip: 'Completionist' }],
 
+          title: 'Final Fantasy VI', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VI', title_date: 1994,
+          subtitle: 'Pixel Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitle_date: 2022,
           parts: [
             { label: 'Final Fantasy VI (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI' },
             { label: 'Pixel Remaster (2022)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
@@ -73,6 +75,7 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
           alt: {
             extras: [
               {
+                subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitle_date: 2014,
                 parts: [
                   { label: 'Final Fantasy VI (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI' },
                   { label: 'Remaster (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
@@ -97,6 +100,7 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
                 ],
               },
               {
+                subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitle_date: 2006,
                 parts: [
                   { label: 'Final Fantasy VI (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI' },
                   { label: 'Edit (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
@@ -118,6 +122,7 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
                 ]
               },
               {
+                subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitle_date: 1999,
                 parts: [
                   { label: 'Final Fantasy VI (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI' },
                   { label: 'Edit (1999)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', small: true },
@@ -173,6 +178,8 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
           }
         },
         { key: "Figaro's Wedding: Tales from Desert", releaseDate: '1994', chronoOrder: 500, recommendedOrder: 500, tags: ['Optional', 'Alternate Universe', 'Non-canon', 'Fan-made', 'Short Stories', 'Doujinshi'], mediaType: 'Book',
+        title: 'Figaro\'s Wedding: Tales from Desert', title_url: 'https://breezewiki.com/finalfantasy/wiki/Figaro_no_Kekkon:_Tales_from_Desert', title_date: 1994,
+        subtitle: 'Book',
         parts: [
           { label: "Figaro's Wedding: Tales from Desert (1994)", url: 'https://breezewiki.com/finalfantasy/wiki/Figaro_no_Kekkon:_Tales_from_Desert' },
           { label: 'Book', url: null, small: true },

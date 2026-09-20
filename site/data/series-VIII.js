@@ -9,6 +9,8 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
           mediaType: 'Game',
           lengthParts: [{ value: '38h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '52½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '75½h', tip: 'Completionist' }],
 
+          title: 'Final Fantasy VIII', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII', title_date: 1999,
+          subtitle: 'Remastered', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Final_Fantasy_VIII_Remastered', subtitle_date: 2019,
           parts: [
             { label: 'Final Fantasy VIII (1999)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII' },
             { label: 'Remastered (2019)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Final_Fantasy_VIII_Remastered', small: true },
@@ -66,6 +68,7 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
           alt: {
             extras: [
               {
+                subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', subtitle_date: 2013,
                 parts: [
                   { label: 'Final Fantasy VIII (1999)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII' },
                   { label: 'Remaster (2013)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', small: true },
@@ -89,6 +92,7 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoO
                 ],
               },
               {
+                subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', subtitle_date: 2000,
                 parts: [
                   { label: 'Final Fantasy VIII (1999)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII' },
                   { label: 'Edit (2000)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', small: true },

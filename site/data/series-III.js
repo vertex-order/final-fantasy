@@ -24,6 +24,8 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             { value: 'ZH-TW' },
           ],
 
+          title: 'Final Fantasy III', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_III', title_date: 1990,
+          subtitle: 'Pixel Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitle_date: 2021,
           parts: [
             { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
             { label: 'Pixel Remaster (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
@@ -108,6 +110,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
               { value: 'ZH-TW' },
             ],
 
+            subtitle: '3D Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', subtitle_date: 2014,
             parts: [
               { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
               { label: '3D Remaster (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', small: true },
@@ -134,6 +137,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
 
             extras: [
               {
+                subtitle: '3D Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)#Ports', subtitle_date: 2011,
                 parts: [
                   { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
                   { label: '3D Remaster (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)#Ports', small: true },
@@ -151,6 +155,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
                 ],
               },
               {
+                subtitle: '3D Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)#Ports', subtitle_date: 2012,
                 parts: [
                   { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
                   { label: '3D Remaster (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)#Ports', small: true },
@@ -165,6 +170,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
                 ],
               },
               {
+                subtitle: '3D Remake', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', subtitle_date: 2006,
                 parts: [
                   { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
                   { label: '3D Remake (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', small: true },
@@ -184,6 +190,8 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
         { key: 'Legend of the Eternal Wind: from Final Fantasy III', releaseDate: '1991-01', chronoOrder: 500, recommendedOrder: 200, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic', length: '3 volumes',
         languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/76171402' }, { value: 'EN', tip: 'English (fan translation)' }],
         rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/76171402' }] },
+        title: 'Legend of the Eternal Wind: from Final Fantasy III', title_url: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori', title_date: 1991,
+        subtitle: 'Comic',
         parts: [
           { label: 'Legend of the Eternal Wind: from Final Fantasy III (1991)', url: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori' },
           { label: 'Comic', url: null, small: true },
@@ -201,6 +209,8 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Yūkyū no Kaze Densetsu Final Fantasy III Yori' }],
         ] },
         { key: 'Final Fantasy I・II・III: Memory of Heroes ~III~', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 300, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
+        title: 'Final Fantasy I・II・III: Memory of Heroes ~III~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', title_date: 2012,
+        subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy I・II・III: Memory of Heroes ~III~ (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes' },
           { label: 'Book', url: null, small: true },

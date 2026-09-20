@@ -8,6 +8,7 @@ window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder
           mediaType: 'Game',
           lengthParts: [{ value: '48h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '58h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '75½h', tip: 'Completionist' }],
 
+          title: 'Final Fantasy Dimensions', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Dimensions', title_date: 2010,
           parts: [
             { label: 'Final Fantasy Dimensions (2010)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Dimensions' },
           ],
@@ -46,6 +47,7 @@ window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder
           mediaType: 'Game',
           lengthParts: [{ value: '36h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '51½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '79½h', tip: 'Completionist' }],
 
+          title: 'Final Fantasy Dimensions II', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Dimensions_II', title_date: 2015,
           parts: [
             { label: 'Final Fantasy Dimensions II (2015)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Dimensions_II' },
           ],
