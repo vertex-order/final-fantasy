@@ -1,6 +1,6 @@
-<!-- sources/final-fantasy-ii-manga-1988-1989.md (markdown) -->
+<!-- sources/final-fantasy-ii-manga-1989.md (markdown) -->
 
-# Final Fantasy II ~Manga~ (1988)
+# Final Fantasy II ~Manga~
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
