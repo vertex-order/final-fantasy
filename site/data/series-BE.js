@@ -1,6 +1,6 @@
 window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder: 1550, recommendedOrder: 1550, title: 'Brave Exvius', note: 'A gacha mobile world remade into a standalone story driven turn-based RPG with modern pixel art. Incorporates original elements with existing titles, including other franchises altogether. Can be considered a bit of an alternate universe mashup spin-off.', games: [
         {
-          title: 'Final Fantasy Resonance',
+          key: 'Final Fantasy Resonance',
           releaseDate: '2026-10-22',
           chronoOrder: 0,
           recommendedOrder: 100,
@@ -49,7 +49,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           ],
         },
         {
-          title: 'Final Fantasy Brave Exvius',
+          key: 'Final Fantasy Brave Exvius',
           releaseDate: '2015-10-22',
           chronoOrder: 0,
           recommendedOrder: 110,
@@ -81,7 +81,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
             ],
           ]
         },
-        { title: 'Final Fantasy Brave Exvius Rikodoki!', releaseDate: '2018-07-25', chronoOrder: 50, recommendedOrder: 150, tags: ['Optional', 'Manga'], mediaType: 'Comic', length: '144p',
+        { key: 'Final Fantasy Brave Exvius Rikodoki!', releaseDate: '2018-07-25', chronoOrder: 50, recommendedOrder: 150, tags: ['Optional', 'Manga'], mediaType: 'Comic', length: '144p',
         parts: [
           { label: 'Final Fantasy Brave Exvius Rikodoki! (2018)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki!' },
           { label: 'Comic', url: null, small: true },
@@ -97,7 +97,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
             { key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Brave%20Exvius%20Rikodoki!%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Brave Exvius Rikodoki!' }],
         ] },
-        { title: 'Final Fantasy Brave Exvius Tap!', releaseDate: '2017-09-08', chronoOrder: 100, recommendedOrder: 200, tags: ['Optional', 'Spin-off', 'Clicker', 'Terminated'], mediaType: 'Game',
+        { key: 'Final Fantasy Brave Exvius Tap!', releaseDate: '2017-09-08', chronoOrder: 100, recommendedOrder: 200, tags: ['Optional', 'Spin-off', 'Clicker', 'Terminated'], mediaType: 'Game',
         parts: [
           { label: 'Final Fantasy Brave Exvius Tap! (2017)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Tap!' },
         ],
@@ -108,7 +108,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', releaseDate: '2015-10-22', chronoOrder
           [{ key: 'fan-playthrough', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Brave Exvius Tap' }],
         ] },
         {
-          title: 'War of the Visions: Final Fantasy Brave Exvius',
+          key: 'War of the Visions: Final Fantasy Brave Exvius',
           releaseDate: '2019-11-14',
           chronoOrder: -1000,
           recommendedOrder: 300,

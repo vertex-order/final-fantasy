@@ -12,7 +12,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
       },
       games: [
         {
-          title: 'Final Fantasy XII',
+          key: 'Final Fantasy XII',
           releaseDate: '2006-03-16',
           chronoOrder: 0,
           recommendedOrder: 100,
@@ -140,7 +140,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
             ]
           }
         },
-        { title: 'Final Fantasy XII ~Manga~', releaseDate: '2006-12-22', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '5 volumes,', br: true }, { value: '19 chapters' }],
+        { key: 'Final Fantasy XII ~Manga~', releaseDate: '2006-12-22', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '5 volumes,', br: true }, { value: '19 chapters' }],
         parts: [
           { label: 'Final Fantasy XII ~Manga~ (2006)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Comic', url: null, small: true },
@@ -156,7 +156,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XII manga' }],
         ] },
         {
-          title: 'Final Fantasy XII: Revenant Wings',
+          key: 'Final Fantasy XII: Revenant Wings',
           releaseDate: '2007-04-26',
           chronoOrder: 1000,
           recommendedOrder: 200,
@@ -189,7 +189,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy Tactics Advance',
+          key: 'Final Fantasy Tactics Advance',
           releaseDate: '2003-02-14',
           chronoOrder: 2000,
           recommendedOrder: 300,
@@ -247,7 +247,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy Tactics A2: Grimoire of the Rift',
+          key: 'Final Fantasy Tactics A2: Grimoire of the Rift',
           releaseDate: '2007-10-25',
           chronoOrder: 3000,
           recommendedOrder: 400,
@@ -283,7 +283,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy Tactics',
+          key: 'Final Fantasy Tactics',
           releaseDate: '1997-06-20',
           chronoOrder: 4000,
           recommendedOrder: 500,
@@ -387,7 +387,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           }
         },
         {
-          title: 'Vagrant Story',
+          key: 'Vagrant Story',
           releaseDate: '2000-02-10',
           chronoOrder: 6100,
           recommendedOrder: 600,
@@ -425,7 +425,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy Tactics S',
+          key: 'Final Fantasy Tactics S',
           releaseDate: '2013-05-28',
           chronoOrder: 6000,
           recommendedOrder: 700,
@@ -453,7 +453,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           ]
         },
         {
-          title: 'Crystal Defenders',
+          key: 'Crystal Defenders',
           releaseDate: '2008-01-28',
           chronoOrder: 3100,
           recommendedOrder: 750,
@@ -494,7 +494,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', releaseDate: '2006-03-16', chronoOrd
           ]
         },
         {
-          title: 'Crystal Defenders: Vanguard Storm',
+          key: 'Crystal Defenders: Vanguard Storm',
           releaseDate: '2009-05-13',
           chronoOrder: 3200,
           recommendedOrder: 800,

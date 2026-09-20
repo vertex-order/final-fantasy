@@ -1,6 +1,6 @@
 window.__ffSeriesReg['MQ'] = { num: 'MQ', releaseDate: '1992-10-05', chronoOrder: 350, recommendedOrder: 350, title: 'Mystic Quest', note: 'A spin-off designed as a simplified turn-based RPG for new players, and the first Final Fantasy game released in Europe.', games: [
         {
-          title: 'Final Fantasy Mystic Quest',
+          key: 'Final Fantasy Mystic Quest',
           releaseDate: '1992-10-05',
           chronoOrder: 0,
           recommendedOrder: 100,

@@ -6,7 +6,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           { text: ' (optional to play first), XV was designed from the start as a multi-media story across games, TV, movies, and manga.' },
         ],
       }, games: [
-        { title: 'Brotherhood: Final Fantasy XV', releaseDate: '2016-03-30 10', chronoOrder: -2000, recommendedOrder: 100, tags: ['Prequel', 'Anime'], mediaType: 'TV', length: '5 episodes',
+        { key: 'Brotherhood: Final Fantasy XV', releaseDate: '2016-03-30 10', chronoOrder: -2000, recommendedOrder: 100, tags: ['Prequel', 'Anime'], mediaType: 'TV', length: '5 episodes',
         parts: [
           { label: 'Brotherhood: Final Fantasy XV (2016)', url: 'https://wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV' },
           { label: 'anime', url: null, small: true },
@@ -31,7 +31,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Brotherhood Final Fantasy XV' }],
         ] },
         {
-          title: 'Final Fantasy XV',
+          key: 'Final Fantasy XV',
           releaseDate: '2016-11-29 10',
           chronoOrder: 0,
           recommendedOrder: 200,
@@ -173,7 +173,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           ]
         },
         {
-          title: 'Final Fantasy XV Prologue: Parting Ways',
+          key: 'Final Fantasy XV Prologue: Parting Ways',
           releaseDate: '2016-11-01',
           chronoOrder: -1200,
           recommendedOrder: 280,
@@ -222,7 +222,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           }
         },
         {
-          title: 'Kingsglaive: Final Fantasy XV',
+          key: 'Kingsglaive: Final Fantasy XV',
           releaseDate: '2016-07-09',
           chronoOrder: -1000,
           recommendedOrder: 300,
@@ -257,7 +257,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             [{ key: 'fan-recap', ytSearch: true, ytTitle: 'Kingsglaive Final Fantasy XV' }],
           ]
         },
-        { title: 'Final Fantasy XV: Episode Gladiolus', helpWanted: true, releaseDate: '2017-03-28', chronoOrder: 500, recommendedOrder: 310, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '1½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Completionist' }],
+        { key: 'Final Fantasy XV: Episode Gladiolus', helpWanted: true, releaseDate: '2017-03-28', chronoOrder: 500, recommendedOrder: 310, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '1½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy XV: Episode Gladiolus (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
@@ -278,7 +278,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Gladiolus' },
           ],
         ] },
-        { title: 'Final Fantasy XV: Episode Prompto', releaseDate: '2017-06-27', chronoOrder: 600, recommendedOrder: 320, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Completionist' }],
+        { key: 'Final Fantasy XV: Episode Prompto', releaseDate: '2017-06-27', chronoOrder: 600, recommendedOrder: 320, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy XV: Episode Prompto (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
@@ -301,7 +301,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Prompto' },
           ],
         ] },
-        { title: 'Final Fantasy XV: Episode Ignis', releaseDate: '2017-12-13', chronoOrder: 700, recommendedOrder: 330, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '3h', tip: 'Completionist' }],
+        { key: 'Final Fantasy XV: Episode Ignis', releaseDate: '2017-12-13', chronoOrder: 700, recommendedOrder: 330, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '1h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '3h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy XV: Episode Ignis (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
@@ -324,7 +324,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Ignis' },
           ],
         ] },
-        { title: 'Final Fantasy XV: Episode Ardyn – Prologue', releaseDate: '2019-02-16', chronoOrder: -5000, recommendedOrder: 400, tags: ['Optional', 'Prologue', 'Video'], mediaType: 'Video',
+        { key: 'Final Fantasy XV: Episode Ardyn – Prologue', releaseDate: '2019-02-16', chronoOrder: -5000, recommendedOrder: 400, tags: ['Optional', 'Prologue', 'Video'], mediaType: 'Video',
         parts: [
           { label: 'Final Fantasy XV: Episode Ardyn – Prologue (2019)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Episode_Ardyn_%E2%80%93_Prologue' },
           { label: 'video', url: null, small: true },
@@ -338,7 +338,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ key: 'youtube', name: 'YouTube (Official)', url: 'https://www.youtube.com/watch?v=8yOOF8AKQbw' }],
           [{ key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy XV Episode Ardyn Prologue' }],
         ] },
-        { title: 'Final Fantasy XV: Episode Ardyn', releaseDate: '2019-03-26', chronoOrder: -4500, recommendedOrder: 410, tags: ['Optional', 'DLC', 'Prequel'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4h', tip: 'Completionist' }],
+        { key: 'Final Fantasy XV: Episode Ardyn', releaseDate: '2019-03-26', chronoOrder: -4500, recommendedOrder: 410, tags: ['Optional', 'DLC', 'Prequel'], mediaType: 'Game', lengthParts: [{ value: '2h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '2½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy XV: Episode Ardyn (2019)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content' },
           { label: 'DLC', url: null, small: true },
@@ -364,7 +364,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           ],
         ] },
         {
-          title: 'Platinum Demo \u2013 Final Fantasy XV Prologue',
+          key: 'Platinum Demo \u2013 Final Fantasy XV Prologue',
           releaseDate: '2016-03-30 20',
           chronoOrder: -3000,
           recommendedOrder: 500,
@@ -402,7 +402,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           ]
         },
         {
-          title: 'A King\u2019s Tale: Final Fantasy XV',
+          key: 'A King\u2019s Tale: Final Fantasy XV',
           releaseDate: '2016-11-29 20',
           chronoOrder: -4000,
           recommendedOrder: 600,
@@ -441,7 +441,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             ],
           ]
         },
-        { title: 'Monster of the Deep: Final Fantasy XV', releaseDate: '2017-11-21', chronoOrder: 1000, recommendedOrder: 700, tags: ['Optional', 'Spin-off', 'Simulation', 'VR'], mediaType: 'Game', lengthParts: [{ value: '3½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '5½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '11½h', tip: 'Completionist' }],
+        { key: 'Monster of the Deep: Final Fantasy XV', releaseDate: '2017-11-21', chronoOrder: 1000, recommendedOrder: 700, tags: ['Optional', 'Spin-off', 'Simulation', 'VR'], mediaType: 'Game', lengthParts: [{ value: '3½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '5½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '11½h', tip: 'Completionist' }],
         parts: [
           { label: 'Monster of the Deep: Final Fantasy XV (2017)', url: 'https://wikipedia.org/wiki/Monster_of_the_Deep:_Final_Fantasy_XV' },
         ],
@@ -463,7 +463,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           ],
           [{ key: 'playstation4', name: 'PlayStation VR', noUrl: true }],
         ] },
-        { title: 'Final Fantasy XV: A New Empire', releaseDate: '2017-06-29', chronoOrder: 2000, recommendedOrder: 800, tags: ['Optional', 'Spin-off', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer', 'Terminated'], mediaType: 'Game',
+        { key: 'Final Fantasy XV: A New Empire', releaseDate: '2017-06-29', chronoOrder: 2000, recommendedOrder: 800, tags: ['Optional', 'Spin-off', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer', 'Terminated'], mediaType: 'Game',
         parts: [
           { label: 'Final Fantasy XV: A New Empire (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XV:_A_New_Empire' },
         ],
@@ -484,7 +484,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy XV A New Empire' },
           ],
         ] },
-        { title: 'Final Fantasy XV: War for Eos', releaseDate: '2022-03-21', chronoOrder: 3000, recommendedOrder: 900, tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer', 'Terminated'], mediaType: 'Game',
+        { key: 'Final Fantasy XV: War for Eos', releaseDate: '2022-03-21', chronoOrder: 3000, recommendedOrder: 900, tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer', 'Terminated'], mediaType: 'Game',
         parts: [
           { label: 'Final Fantasy XV: War for Eos (2022)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_War_for_Eos', italic: true },
         ],
@@ -507,7 +507,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           ],
         ] },
         {
-          title: "King's Knight",
+          key: "King's Knight",
           releaseDate: '1986-09-18',
           chronoOrder: -3100,
           recommendedOrder: 1000,
@@ -601,7 +601,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             ],
           }
         },
-        { title: 'Final Fantasy XV: The Dawn of the Future', releaseDate: '2019-01-31', chronoOrder: 3500, recommendedOrder: 950, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '384p; H',
+        { key: 'Final Fantasy XV: The Dawn of the Future', releaseDate: '2019-01-31', chronoOrder: 3500, recommendedOrder: 950, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '384p; H',
         parts: [
           { label: 'Final Fantasy XV: The Dawn of the Future (2019)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090006' },
           { label: 'Book', url: null, small: true },
@@ -622,7 +622,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090006' }],
           [{ key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy XV: The Dawn of the Future' }],
         ] },
-        { title: 'Final Fantasy XV Anthology Vol. 1', releaseDate: '2017-07-27', chronoOrder: 3600, recommendedOrder: 960, tags: ['Optional', 'Short Stories', 'Manga'], mediaType: 'Comic', length: '128p',
+        { key: 'Final Fantasy XV Anthology Vol. 1', releaseDate: '2017-07-27', chronoOrder: 3600, recommendedOrder: 960, tags: ['Optional', 'Short Stories', 'Manga'], mediaType: 'Comic', length: '128p',
         parts: [
           { label: 'Final Fantasy XV Anthology Vol. 1 (2017)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology' },
           { label: 'Comic', url: null, small: true },
@@ -638,7 +638,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
             { key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XV Official Comic Anthology' }],
         ] },
-        { title: 'Final Fantasy XV Anthology Vol.2', releaseDate: '2017-12-26', chronoOrder: 3700, recommendedOrder: 965, tags: ['Optional', 'Short Stories', 'Manga'], mediaType: 'Comic', length: '128p',
+        { key: 'Final Fantasy XV Anthology Vol.2', releaseDate: '2017-12-26', chronoOrder: 3700, recommendedOrder: 965, tags: ['Optional', 'Short Stories', 'Manga'], mediaType: 'Comic', length: '128p',
         parts: [
           { label: 'Final Fantasy XV Anthology Vol.2 (2017)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology_2' },
           { label: 'Comic', url: null, small: true },

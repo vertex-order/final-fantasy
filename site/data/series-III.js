@@ -1,6 +1,6 @@
 window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrder: 300, recommendedOrder: 300, title: 'Final Fantasy III', note: 'It was 16 years until a 3D remake brought this series outside Japan, and a total of 31 years until the original pixel art version did.', games: [
         {
-          title: 'Final Fantasy III',
+          key: 'Final Fantasy III',
           releaseDate: '1990-04-27',
           chronoOrder: 0,
           recommendedOrder: 100,
@@ -181,7 +181,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             ]
           }
         },
-        { title: 'Legend of the Eternal Wind: from Final Fantasy III', releaseDate: '1991-01', chronoOrder: 500, recommendedOrder: 200, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic', length: '3 volumes',
+        { key: 'Legend of the Eternal Wind: from Final Fantasy III', releaseDate: '1991-01', chronoOrder: 500, recommendedOrder: 200, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic', length: '3 volumes',
         languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/76171402' }, { value: 'EN', tip: 'English (fan translation)' }],
         rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/76171402' }] },
         parts: [
@@ -200,7 +200,7 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             { key: 'fan-translation', url: 'https://duckduckgo.com/?q=Y%C5%ABky%C5%AB%20no%20Kaze%20Densetsu%20Final%20Fantasy%20III%20Legend%20of%20the%20Eternal%20Wind%3A%20from%20Final%20Fantasy%20III%20translation&t=h_&ia=web' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Yūkyū no Kaze Densetsu Final Fantasy III Yori' }],
         ] },
-        { title: 'Final Fantasy I・II・III: Memory of Heroes ~III~', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 300, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
+        { key: 'Final Fantasy I・II・III: Memory of Heroes ~III~', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 300, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy I・II・III: Memory of Heroes ~III~ (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes' },
           { label: 'Book', url: null, small: true },

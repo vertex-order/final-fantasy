@@ -1,6 +1,6 @@
 window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrder: 1800, title: 'Other', note: 'A collection of standalone titles that nonetheless may be worth looking into.', games: [
         {
-          title: 'Final Fantasy Adventure',
+          key: 'Final Fantasy Adventure',
           releaseDate: '1991-06-28',
           chronoOrder: 100,
           recommendedOrder: 100,
@@ -43,7 +43,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]
         },
         {
-          title: 'Final Fantasy: The 4 Heroes of Light',
+          key: 'Final Fantasy: The 4 Heroes of Light',
           releaseDate: '2009-10-29',
           chronoOrder: 300,
           recommendedOrder: 200,
@@ -76,7 +76,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]
         },
         {
-          title: 'Mobius Final Fantasy',
+          key: 'Mobius Final Fantasy',
           releaseDate: '2015-06-04',
           chronoOrder: 1200,
           recommendedOrder: 202,
@@ -109,7 +109,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]
         },
         {
-          title: 'Final Fantasy Record Keeper',
+          key: 'Final Fantasy Record Keeper',
           releaseDate: '2014-09-24',
           chronoOrder: 900,
           recommendedOrder: 205,
@@ -143,7 +143,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             ],
           ]
         },
-        { title: 'Final Fantasy Lost Stranger', releaseDate: '2017-07-12', chronoOrder: 1400, recommendedOrder: 250, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '14+ volumes', tip: 'As of 2026' }],
+        { key: 'Final Fantasy Lost Stranger', releaseDate: '2017-07-12', chronoOrder: 1400, recommendedOrder: 250, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '14+ volumes', tip: 'As of 2026' }],
         parts: [
           { label: 'Final Fantasy Lost Stranger (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Lost_Stranger' },
           { label: 'Comic', url: null, small: true },
@@ -168,7 +168,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           [{ key: 'fan-recap', name: 'Fan story recap (chapter-by-chapter wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Category:Final_Fantasy_Lost_Stranger_chapters' }],
         ] },
         {
-          title: "Chocobo's series",
+          key: "Chocobo's series",
           releaseDate: '1997',
           chronoOrder: 200,
           recommendedOrder: 300,
@@ -203,7 +203,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             [{ key: 'mobile-phone', name: 'Mobile Phones; terminated', noUrl: true, terminated: true }],
           ]
         },
-        { title: 'Kingdom Hearts (series)', releaseDate: '2002-03-28', chronoOrder: 250, recommendedOrder: 305, tags: ['Optional', 'Crossover series'], mediaType: 'Game',
+        { key: 'Kingdom Hearts (series)', releaseDate: '2002-03-28', chronoOrder: 250, recommendedOrder: 305, tags: ['Optional', 'Crossover series'], mediaType: 'Game',
         parts: [
           { label: 'Kingdom Hearts (series) (2002–2020+)', url: 'https://vertex-order.github.io/kingdom-hearts' },
         ],
@@ -214,7 +214,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         ]],
         },
         {
-          title: 'Voice Fantasy',
+          key: 'Voice Fantasy',
           releaseDate: '2010-11-01',
           chronoOrder: 400,
           recommendedOrder: 350,
@@ -236,7 +236,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
             [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'Voice Fantasy' }],
           ]
         },
-        { title: 'Final Fantasy Airborne Brigade', releaseDate: '2012-01-06', chronoOrder: 500, recommendedOrder: 355, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Social RPG', 'Jobs', 'Multiplayer', 'Co-op', 'Mobile', 'Terminated'], mediaType: 'Game',
+        { key: 'Final Fantasy Airborne Brigade', releaseDate: '2012-01-06', chronoOrder: 500, recommendedOrder: 355, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Social RPG', 'Jobs', 'Multiplayer', 'Co-op', 'Mobile', 'Terminated'], mediaType: 'Game',
         parts: [
           { label: 'Final Fantasy Airborne Brigade (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Airborne_Brigade' },
         ],
@@ -257,7 +257,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ],
         ],
         },
-        { title: 'Final Fantasy All the Bravest', releaseDate: '2013-01-17', chronoOrder: 600, recommendedOrder: 357, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'RPG', 'Jobs', 'Active Time Battle', 'Mobile', 'Free-to-play', 'In-app purchases', 'Single-player', 'Terminated'], mediaType: 'Game', lengthParts: [{ value: '4h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Completionist' }],
+        { key: 'Final Fantasy All the Bravest', releaseDate: '2013-01-17', chronoOrder: 600, recommendedOrder: 357, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'RPG', 'Jobs', 'Active Time Battle', 'Mobile', 'Free-to-play', 'In-app purchases', 'Single-player', 'Terminated'], mediaType: 'Game', lengthParts: [{ value: '4h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '4½h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy All the Bravest (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_All_the_Bravest' },
         ],
@@ -275,7 +275,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         ],
         },
         {
-          title: 'Pictlogica Final Fantasy',
+          key: 'Pictlogica Final Fantasy',
           releaseDate: '2013-10-28',
           chronoOrder: 700,
           recommendedOrder: 358,
@@ -303,7 +303,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]
         },
         {
-          title: 'Final Fantasy: World Wide Words',
+          key: 'Final Fantasy: World Wide Words',
           releaseDate: '2014-09-16',
           chronoOrder: 800,
           recommendedOrder: 359,
@@ -329,7 +329,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]
         },
         {
-          title: 'Heavenstrike Rivals',
+          key: 'Heavenstrike Rivals',
           releaseDate: '2014-11-14',
           chronoOrder: 1000,
           recommendedOrder: 360,
@@ -363,7 +363,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]
         },
         {
-          title: 'Final Fantasy Portal App: Triple Triad',
+          key: 'Final Fantasy Portal App: Triple Triad',
           releaseDate: '2015-04-01',
           chronoOrder: 250,
           recommendedOrder: 361,
@@ -398,7 +398,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]
         },
         {
-          title: 'Final Fantasy Digital Card Game',
+          key: 'Final Fantasy Digital Card Game',
           releaseDate: '2019-07-09',
           chronoOrder: 1300,
           recommendedOrder: 362,
@@ -425,7 +425,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
           ]
         },
         {
-          title: 'The Final Fantasy Legend I–III',
+          key: 'The Final Fantasy Legend I–III',
           releaseDate: '1989–1991',
           chronoOrder: 1500,
           recommendedOrder: 400,

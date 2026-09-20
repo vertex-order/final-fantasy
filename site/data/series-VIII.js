@@ -1,6 +1,6 @@
 window.__ffSeriesReg['VIII'] = { num: 'VIII', releaseDate: '1999-02-11', chronoOrder: 800, recommendedOrder: 800, title: 'Final Fantasy VIII', note: 'A more grounded, character-driven entry, centered on a love story and experimental mechanics.', games: [
         {
-          title: 'Final Fantasy VIII',
+          key: 'Final Fantasy VIII',
           releaseDate: '1999-02-11',
           chronoOrder: 0,
           recommendedOrder: 100,

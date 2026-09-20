@@ -1,6 +1,6 @@
 window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder: 600, recommendedOrder: 600, title: 'Final Fantasy VI', note: 'The last mainline entry to feature 2D sprite graphics, especially outside of mobile games.', games: [
         {
-          title: 'Final Fantasy VI',
+          key: 'Final Fantasy VI',
           releaseDate: '1994-04-02',
           chronoOrder: 0,
           recommendedOrder: 100,
@@ -172,7 +172,7 @@ window.__ffSeriesReg['VI'] = { num: 'VI', releaseDate: '1994-04-02', chronoOrder
             ],
           }
         },
-        { title: "Figaro's Wedding: Tales from Desert", releaseDate: '1994', chronoOrder: 500, recommendedOrder: 500, tags: ['Optional', 'Alternate Universe', 'Non-canon', 'Fan-made', 'Short Stories', 'Doujinshi'], mediaType: 'Book',
+        { key: "Figaro's Wedding: Tales from Desert", releaseDate: '1994', chronoOrder: 500, recommendedOrder: 500, tags: ['Optional', 'Alternate Universe', 'Non-canon', 'Fan-made', 'Short Stories', 'Doujinshi'], mediaType: 'Book',
         parts: [
           { label: "Figaro's Wedding: Tales from Desert (1994)", url: 'https://breezewiki.com/finalfantasy/wiki/Figaro_no_Kekkon:_Tales_from_Desert' },
           { label: 'Book', url: null, small: true },

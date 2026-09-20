@@ -1,6 +1,6 @@
 window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrder: 1390, recommendedOrder: 1390, title: 'Dissidia Final Fantasy', note: "Final Fantasy's take on the fighting game genre. Titles contain elements and characters from other Final Fantasy entries, and thus could be considered a mash-up or alternate universe.", games: [
         {
-          title: 'Dissidia Duodecim Prologus Final Fantasy',
+          key: 'Dissidia Duodecim Prologus Final Fantasy',
           releaseDate: '2011-01-18',
           chronoOrder: -100,
           recommendedOrder: 50,
@@ -34,7 +34,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           ]
         },
         {
-          title: 'Dissidia Final Fantasy',
+          key: 'Dissidia Final Fantasy',
           releaseDate: '2011-03-03',
           chronoOrder: 0,
           recommendedOrder: 100,
@@ -96,7 +96,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           }
         },
         {
-          title: 'Dissidia Final Fantasy NT',
+          key: 'Dissidia Final Fantasy NT',
           releaseDate: '2015-11-26',
           chronoOrder: 100,
           recommendedOrder: 200,
@@ -150,7 +150,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           ]
         },
         {
-          title: 'Dissidia Final Fantasy Opera Omnia',
+          key: 'Dissidia Final Fantasy Opera Omnia',
           releaseDate: '2017-02-01',
           chronoOrder: 200,
           recommendedOrder: 300,
@@ -185,7 +185,7 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrd
           ]
         },
         {
-          title: 'Dissidia Duellum Final Fantasy',
+          key: 'Dissidia Duellum Final Fantasy',
           releaseDate: '2026-03-24',
           chronoOrder: 300,
           recommendedOrder: 400,

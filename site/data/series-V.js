@@ -1,6 +1,6 @@
 window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 500, recommendedOrder: 500, title: 'Final Fantasy V', note: 'For the first 7 years, this series was only available in Japan.', games: [
         {
-          title: 'Final Fantasy V',
+          key: 'Final Fantasy V',
           releaseDate: '1992-12-06',
           chronoOrder: 0,
           recommendedOrder: 100,
@@ -169,7 +169,7 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
           }
         },
         {
-          title: 'Final Fantasy: Legend of the Crystals',
+          key: 'Final Fantasy: Legend of the Crystals',
           releaseDate: '1994-03-21',
           chronoOrder: 1000,
           recommendedOrder: 200,
