@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 100, recommendedOrder: 100, title: 'Final Fantasy I', note: 'Where it all began, during the NES era, initially in limited 8-bit graphics.',
       notePartsMap: {
         'Where it all began, during the NES era, initially in limited 8-bit graphics.': [

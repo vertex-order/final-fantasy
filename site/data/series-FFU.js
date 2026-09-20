@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrder: 1050, recommendedOrder: 1050, title: 'Final Fantasy: Unlimited', note: 'The first anime in the franchise.', games: [
         { chronoOrder: 0, recommendedOrder: 100, tags: ['Anime', '2D', '3D'], mediaType: 'TV', length: '25 episodes',
         title: 'Final Fantasy: Unlimited', title_url: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited', title_date: '2001-10-02',

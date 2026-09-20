@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder: 1580, recommendedOrder: 1580, title: 'World', note: 'Light hearted spin-off mixing chibi art and humor, aimed at a younger audience with plenty of throwbacks to previous titles.', games: [
         {
           chronoOrder: 0,

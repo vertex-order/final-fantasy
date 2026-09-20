@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrder: 1500, recommendedOrder: 1500, title: 'Final Fantasy XIV', note: 'The second MMO in the franchise, and its longest story by far — one overarching tale still unfolding through new content.', games: [
         {
           chronoOrder: 0,

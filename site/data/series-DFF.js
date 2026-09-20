@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['DFF'] = { num: 'DFF', releaseDate: '2008-12-18', chronoOrder: 1390, recommendedOrder: 1390, title: 'Dissidia Final Fantasy', note: "Final Fantasy's take on the fighting game genre. Titles contain elements and characters from other Final Fantasy entries, and thus could be considered a mash-up or alternate universe.", games: [
         {
           chronoOrder: -100,

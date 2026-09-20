@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoOrder: 1400, recommendedOrder: 1400, title: 'Fabula Nova Crystallis – Final Fantasy XIII', note: 'With stories revolving around crystals associated with deities, the series marks the start of the cross-platform launch era, with PlayStation 3 and its Xbox debut on the Xbox 360.', games: [
         { chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['RPG', 'Paradigm Shift battle'], mediaType: 'Game', lengthParts: [{ value: '48h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '61h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '105h', tip: 'Completionist' }],
         languages: [

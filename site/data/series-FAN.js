@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder: 1790, title: 'Fan Projects', note: 'Unofficial, usually unsanctioned, fan projects set in the Final Fantasy universe that are mostly original and could be considered of high quality.', games: [
         { chronoOrder: 300, recommendedOrder: 100, tags: ['Unofficial fan project', 'RPG', '2D', 'Sprites', 'Free'], mediaType: 'Game', lengthParts: [{ value: '23h', tip: 'Main Story' }],
         title: 'Final Fantasy: Endless Nova', title_url: 'https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Endless_Nova', title_date: '2002',

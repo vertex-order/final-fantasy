@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder: 1200, recommendedOrder: 1200, title: 'Crystal Chronicles', url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles', note: 'Known for its focus on co-operative gameplay, a return to Nintendo with the GameCube.', games: [
         { chronoOrder: 0, recommendedOrder: 100, tags: ['Action role-playing', 'Co-op'], mediaType: 'Game', lengthParts: [{ value: '17½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '43h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '93h', tip: 'Completionist' }],
         title: 'Final Fantasy Crystal Chronicles', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)', title_date: '2003-08-08',

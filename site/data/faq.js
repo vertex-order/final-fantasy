@@ -5,6 +5,7 @@
 // (data/common-faq.js, owned by kit) — see that file for the sync rationale.
 // Every entry needs a stable, hand-picked `id` (kebab-case) for its pilcrow
 // anchor — see common-faq.js for why it can't be derived from the question.
+// schema: faq.schema.json
 window.FAQ_ITEMS = [
   {
     id: "play-in-order",

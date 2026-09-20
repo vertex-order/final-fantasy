@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1900, title: 'Artniks', note: 'Spin-off mashup pulling characters and settings from across the Final Fantasy franchise, tied to the GREE mobile-social gaming platform exclusively in Japan. The games could be considered an alternate universe, and gameplay is inspired by card-based elements.', games: [
         {
           chronoOrder: 100,

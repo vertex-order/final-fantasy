@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['SW'] = { num: 'SW', releaseDate: '2001-07-02', chronoOrder: 950, recommendedOrder: 950, title: 'Spirits Within', url: 'https://wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', note: 'A bold departure into science fiction and photorealistic CG, laying the groundwork for the series\' future cinematic ambitions.', games: [
         { chronoOrder: 0, recommendedOrder: 100, tags: ['Movie'], mediaType: 'Movie',
         title: 'Final Fantasy: The Spirits Within', title_url: 'https://wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', title_date: '2001-07-02',

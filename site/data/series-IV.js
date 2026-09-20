@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder: 400, recommendedOrder: 400, title: 'Final Fantasy IV', note: 'The first Final Fantasy to be made in glorious 16-bit graphics, initially during the SNES era.',
       notePartsMap: {
         'The first Final Fantasy to be made in glorious 16-bit graphics, initially during the SNES era.': [
