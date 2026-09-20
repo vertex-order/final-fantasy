@@ -12,7 +12,7 @@
 
 - One file per **entry** (not per edition), flat under `sources/`:
   `sources/<slug>-<year>.md`
-  - `<slug>` = entry's kebab-case title
+  - `<slug>` = entry's kebab-case `key`
   - `<year>` = entry's own top-level `releaseDate` year (not an edition's)
   - e.g. `final-fantasy-1987.md`
   - Flat, not grouped by series: slug+year is already unique catalog-wide,
@@ -26,7 +26,7 @@
   drop the `entry-` prefix and the `<SERIES>-` segment, what's left is the
   filename (`sources/<slug>-<year>.md`).
 - Id is overridable in `site/data/`. Override wins — rename the sources
-  file to match it, don't re-derive from title/year.
+  file to match it, don't re-derive from key/year.
 
 ## Header policy for entry files: `##` only
 

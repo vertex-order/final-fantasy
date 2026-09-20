@@ -1,6 +1,6 @@
 window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrder: 1500, recommendedOrder: 1500, title: 'Final Fantasy XIV', note: 'The second MMO in the franchise, and its longest story by far — one overarching tale still unfolding through new content.', games: [
         {
-          title: 'Final Fantasy XIV: Online ~1.0~',
+          key: 'Final Fantasy XIV: Online ~1.0~',
           releaseDate: '2010-09-30',
           chronoOrder: 0,
           recommendedOrder: 100,
@@ -56,7 +56,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy XIV: A Realm Reborn',
+          key: 'Final Fantasy XIV: A Realm Reborn',
           releaseDate: '2013-08-27',
           chronoOrder: 1000,
           recommendedOrder: 200,
@@ -115,7 +115,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy XIV: Heavensward',
+          key: 'Final Fantasy XIV: Heavensward',
           releaseDate: '2015-06-23',
           chronoOrder: 2000,
           recommendedOrder: 300,
@@ -149,7 +149,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy XIV: Stormblood',
+          key: 'Final Fantasy XIV: Stormblood',
           releaseDate: '2016-06-20',
           chronoOrder: 3000,
           recommendedOrder: 400,
@@ -183,7 +183,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy XIV: Shadowbringers',
+          key: 'Final Fantasy XIV: Shadowbringers',
           releaseDate: '2019-07-02',
           chronoOrder: 4000,
           recommendedOrder: 500,
@@ -217,7 +217,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy XIV: Endwalker',
+          key: 'Final Fantasy XIV: Endwalker',
           releaseDate: '2021-12-07',
           chronoOrder: 5000,
           recommendedOrder: 600,
@@ -251,7 +251,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy XIV: Dawntrail',
+          key: 'Final Fantasy XIV: Dawntrail',
           releaseDate: '2024-07-02',
           chronoOrder: 6000,
           recommendedOrder: 700,
@@ -285,7 +285,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy XIV: Evercold',
+          key: 'Final Fantasy XIV: Evercold',
           releaseDate: '2027-01-01',
           chronoOrder: 7000,
           recommendedOrder: 800,
@@ -317,7 +317,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
             ],
           ]
         },
-        { title: 'Final Fantasy XIV ~Winds of Eorzea~', releaseDate: '2010', chronoOrder: 500, recommendedOrder: 840, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '254p;A6',
+        { key: 'Final Fantasy XIV ~Winds of Eorzea~', releaseDate: '2010', chronoOrder: 500, recommendedOrder: 840, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '254p;A6',
         parts: [
           { label: 'Final Fantasy XIV ~Winds of Eorzea~ (2010)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
@@ -334,7 +334,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20~Winds%20of%20Eorzea~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XIV ~Winds of Eorzea~' }],
         ] },
-        { title: 'Final Fantasy XIV: Side Stories', releaseDate: '2014', chronoOrder: 7690, recommendedOrder: 860, tags: ['Optional', 'Short Stories', 'Web', 'Free', 'Ongoing'], mediaType: 'Book',
+        { key: 'Final Fantasy XIV: Side Stories', releaseDate: '2014', chronoOrder: 7690, recommendedOrder: 860, tags: ['Optional', 'Short Stories', 'Web', 'Free', 'Ongoing'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy XIV: Side Stories', url: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes' },
           { label: 'Web', url: null, small: true },
@@ -351,7 +351,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           [{ key: 'book', name: 'Official website', url: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes' }],
           [{ key: 'fan-recap', name: 'Fan story summaries (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Side_Stories#List_of_stories' }],
         ] },
-        { title: 'Final Fantasy XIV: Chronicles of Light Vol.1', releaseDate: '2019-03-09', chronoOrder: 3800, recommendedOrder: 865, tags: ['Optional', 'Short Stories'], mediaType: 'Book', length: '222p; H', helpWanted: true,
+        { key: 'Final Fantasy XIV: Chronicles of Light Vol.1', releaseDate: '2019-03-09', chronoOrder: 3800, recommendedOrder: 865, tags: ['Optional', 'Short Stories'], mediaType: 'Book', length: '222p; H', helpWanted: true,
         parts: [
           { label: 'Final Fantasy XIV: Chronicles of Light Vol.1 (2022)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091850' },
           { label: 'Book', url: null, small: true },
@@ -373,7 +373,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           [{ key: 'book', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091850' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XIV: Chronicles of Light' }],
         ] },
-        { title: 'Final Fantasy XIV: Chronicles of Light, Vol.2', releaseDate: '2025-10-07', chronoOrder: 6500, recommendedOrder: 870, tags: ['Optional', 'Short Stories'], mediaType: 'Book', length: '288p; H',
+        { key: 'Final Fantasy XIV: Chronicles of Light, Vol.2', releaseDate: '2025-10-07', chronoOrder: 6500, recommendedOrder: 870, tags: ['Optional', 'Short Stories'], mediaType: 'Book', length: '288p; H',
         parts: [
           { label: 'Final Fantasy XIV: Chronicles of Light, Vol.2 (2025)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094196' },
           { label: 'Book', url: null, small: true },
@@ -393,7 +393,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           [{ key: 'book', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094196' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XIV: Chronicles of Light, Volume II' }],
         ] },
-        { title: 'Final Fantasy XIV: Eorzea Academy', releaseDate: '2023-02-07', chronoOrder: 7800, recommendedOrder: 880, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic', length: '192p; P',
+        { key: 'Final Fantasy XIV: Eorzea Academy', releaseDate: '2023-02-07', chronoOrder: 7800, recommendedOrder: 880, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic', length: '192p; P',
         parts: [
           { label: 'Final Fantasy XIV: Eorzea Academy (2023)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092352' },
           { label: 'Comic', url: null, small: true },
@@ -414,7 +414,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           [{ key: 'book', name: 'Manga', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092352' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XIV: Eorzea Academy' }],
         ] },
-        { title: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~ Vol.1", releaseDate: '2017-08-26', chronoOrder: 3200, recommendedOrder: 875, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic',
+        { key: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~ Vol.1", releaseDate: '2017-08-26', chronoOrder: 3200, recommendedOrder: 875, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic',
         parts: [
           { label: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~ Vol.1 (2017)", url: 'https://www.kadokawa.co.jp/product/321705000172/' },
           { label: 'Comic', url: null, small: true },
@@ -430,7 +430,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
             { key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20~Lalafell-sensei%27s%20Gonna%20Teach%20Ya!~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XIV ~Lalafell-sensei\'s Gonna Teach Ya!~' }],
         ] },
-        { title: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~ Vol.1", releaseDate: '2014', chronoOrder: 1500, recommendedOrder: 850, tags: ['Optional', 'Spin-off', 'Play diary', 'Free'], mediaType: 'Book',
+        { key: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~ Vol.1", releaseDate: '2014', chronoOrder: 1500, recommendedOrder: 850, tags: ['Optional', 'Spin-off', 'Play diary', 'Free'], mediaType: 'Book',
         parts: [
           { label: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~ Vol.1 (2014)", url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20A%20Realm%20Reborn%20Adventure%20Log%20Hero%27s%20Eggs' },
           { label: 'Book', url: null, small: true },
@@ -445,7 +445,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20~A%20Realm%20Reborn%20Adventure%20Log%3A%20Hero%27s%20Eggs~%20Vol.1%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero\'s Eggs~ Vol.1' }],
         ] },
-        { title: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', releaseDate: '2022-08-09', chronoOrder: 5200, recommendedOrder: 885, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
+        { key: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', releaseDate: '2022-08-09', chronoOrder: 5200, recommendedOrder: 885, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
         parts: [
           { label: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift (2022)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' },
           { label: 'Book', url: null, small: true },
@@ -462,7 +462,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           [{ key: 'book', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' }],
           [{ key: 'fan-movie', ytSearch: true, ytTitle: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift reading', ytSuffix: '' }],
         ] },
-        { title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', releaseDate: '2027-04-13', chronoOrder: 7200, recommendedOrder: 890, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
+        { key: 'Final Fantasy XIV Picture Book: Me and the Cornservant', releaseDate: '2027-04-13', chronoOrder: 7200, recommendedOrder: 890, tags: ['Optional', 'Tie-in', 'Picture Book'], mediaType: 'Book', length: '24p',
         parts: [
           { label: 'Final Fantasy XIV Picture Book: Me and the Cornservant (2027)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833' },
           { label: 'Book', url: null, small: true },
@@ -480,7 +480,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
         [{ key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XIV Picture Book: Me and the Cornservant reading', ytSuffix: '' }],
         ] },
         {
-          title: 'Final Fantasy XIV: Legend of Balance',
+          key: 'Final Fantasy XIV: Legend of Balance',
           releaseDate: '2013-01',
           chronoOrder: 900,
           recommendedOrder: 900,
@@ -516,7 +516,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           ]
         },
         {
-          title: 'FINAL FANTASY XIV Companion',
+          key: 'FINAL FANTASY XIV Companion',
           releaseDate: '2018-07',
           chronoOrder: 10000,
           recommendedOrder: 950,

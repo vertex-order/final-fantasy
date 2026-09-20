@@ -1,5 +1,5 @@
 window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrder: 1050, recommendedOrder: 1050, title: 'Final Fantasy: Unlimited', note: 'The first anime in the franchise.', games: [
-        { title: 'Final Fantasy: Unlimited', releaseDate: '2001-10-02', chronoOrder: 0, recommendedOrder: 100, tags: ['Anime', '2D', '3D'], mediaType: 'TV', length: '25 episodes',
+        { key: 'Final Fantasy: Unlimited', releaseDate: '2001-10-02', chronoOrder: 0, recommendedOrder: 100, tags: ['Anime', '2D', '3D'], mediaType: 'TV', length: '25 episodes',
         parts: [
           { label: 'Final Fantasy: Unlimited (2001)', url: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited' },
           { label: 'anime', url: null, small: true },
@@ -21,7 +21,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
         ],
         },
         {
-          title: 'Final Fantasy: Unlimited with U',
+          key: 'Final Fantasy: Unlimited with U',
           releaseDate: '2002-08-20',
           chronoOrder: 100,
           recommendedOrder: 200,
@@ -50,7 +50,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy: Unlimited on PC',
+          key: 'Final Fantasy: Unlimited on PC',
           releaseDate: '2003-05-16',
           chronoOrder: 200,
           recommendedOrder: 300,
@@ -79,7 +79,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy: Unlimited Voice Theater',
+          key: 'Final Fantasy: Unlimited Voice Theater',
           releaseDate: '2002-01-15',
           chronoOrder: 250,
           recommendedOrder: 350,
@@ -108,7 +108,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy: Unlimited Twin Bonds',
+          key: 'Final Fantasy: Unlimited Twin Bonds',
           releaseDate: '2002-03-28',
           chronoOrder: 300,
           recommendedOrder: 400,
@@ -140,7 +140,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy: Unlimited After',
+          key: 'Final Fantasy: Unlimited After',
           releaseDate: '2002-05-15',
           chronoOrder: 320,
           recommendedOrder: 420,
@@ -169,7 +169,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy: Unlimited After Spiral',
+          key: 'Final Fantasy: Unlimited After Spiral',
           releaseDate: '2002-06-01',
           chronoOrder: 335,
           recommendedOrder: 435,
@@ -199,7 +199,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy: Unlimited After 2',
+          key: 'Final Fantasy: Unlimited After 2',
           releaseDate: '2002-12-26',
           chronoOrder: 340,
           recommendedOrder: 440,
@@ -230,7 +230,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', releaseDate: '2001-10-02', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy: Unlimited Before',
+          key: 'Final Fantasy: Unlimited Before',
           releaseDate: '2003-04-30',
           chronoOrder: -50,
           recommendedOrder: 450,

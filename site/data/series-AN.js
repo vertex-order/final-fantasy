@@ -1,6 +1,6 @@
 window.__ffSeriesReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1900, title: 'Artniks', note: 'Spin-off mashup pulling characters and settings from across the Final Fantasy franchise, tied to the GREE mobile-social gaming platform exclusively in Japan. The games could be considered an alternate universe, and gameplay is inspired by card-based elements.', games: [
         {
-          title: 'Final Fantasy Artniks',
+          key: 'Final Fantasy Artniks',
           releaseDate: '2012-11-30',
           chronoOrder: 100,
           recommendedOrder: 100,
@@ -26,7 +26,7 @@ window.__ffSeriesReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1
           ]
         },
         {
-          title: 'Final Fantasy Artniks Dive',
+          key: 'Final Fantasy Artniks Dive',
           releaseDate: '2014-11-10',
           chronoOrder: 200,
           recommendedOrder: 200,

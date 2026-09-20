@@ -7,7 +7,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
         ],
       }, games: [
         {
-          title: 'Final Fantasy IV',
+          key: 'Final Fantasy IV',
           releaseDate: '1991-07-19',
           chronoOrder: 0,
           recommendedOrder: 100,
@@ -292,7 +292,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             ]
           }
         },
-        { title: 'Final Fantasy IV ~Novel~ Vol.1', releaseDate: '2008-12-25', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
+        { key: 'Final Fantasy IV ~Novel~ Vol.1', releaseDate: '2008-12-25', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy IV ~Novel~ Vol.1 (2008)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
@@ -319,7 +319,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             ],
           },
         ] },
-        { title: 'Final Fantasy IV ~Novel~ Vol.2', releaseDate: '2009', chronoOrder: 510, recommendedOrder: 151, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
+        { key: 'Final Fantasy IV ~Novel~ Vol.2', releaseDate: '2009', chronoOrder: 510, recommendedOrder: 151, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy IV ~Novel~ Vol.2 (2009)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
@@ -333,7 +333,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy IV ~Novel~ Vol.2' }],
         ] },
         {
-          title: 'Final Fantasy IV: Interlude',
+          key: 'Final Fantasy IV: Interlude',
           releaseDate: '2011-03-24',
           chronoOrder: 1000,
           recommendedOrder: 200,
@@ -373,7 +373,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
           ]
         },
         {
-          title: 'Final Fantasy IV: The After Years',
+          key: 'Final Fantasy IV: The After Years',
           releaseDate: '2008-02-18',
           chronoOrder: 2000,
           recommendedOrder: 300,
@@ -474,7 +474,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', releaseDate: '1991-07-19', chronoOrder
             ],
           }
         },
-        { title: 'Final Fantasy IV: The After ~Novel~', releaseDate: '2009-03-26', chronoOrder: 2500, recommendedOrder: 350, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
+        { key: 'Final Fantasy IV: The After ~Novel~', releaseDate: '2009-03-26', chronoOrder: 2500, recommendedOrder: 350, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy IV: The After ~Novel~ (2009)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },

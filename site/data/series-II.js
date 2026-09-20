@@ -1,6 +1,6 @@
 window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder: 200, recommendedOrder: 200, title: 'Final Fantasy II', note: 'For the first 14 years, this series was only available in Japan.', games: [
         {
-          title: 'Final Fantasy II',
+          key: 'Final Fantasy II',
           releaseDate: '1988-12-17',
           chronoOrder: 0,
           recommendedOrder: 100,
@@ -207,7 +207,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             ],
           }
         },
-        { title: "Final Fantasy II Nightmare's Labyrinth", releaseDate: '1989-03-20', chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Alternate Universe', 'Novel'], mediaType: 'Book', length: '281p',
+        { key: "Final Fantasy II Nightmare's Labyrinth", releaseDate: '1989-03-20', chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Alternate Universe', 'Novel'], mediaType: 'Book', length: '281p',
         parts: [
           { label: "Final Fantasy II Nightmare's Labyrinth (1989)", url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB' },
           { label: 'Book', url: null, small: true },
@@ -226,7 +226,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             { key: 'fan-translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Muma%20no%20Meiky%C5%AB%20Nightmare%27s%20Labyrinth%20translation&t=h_' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II Muma no Meikyū' }],
         ] },
-        { title: 'Final Fantasy II: Dragon Treasures', releaseDate: '1988-12', chronoOrder: 620, recommendedOrder: 410, tags: ['Optional', 'Alternate Universe', 'Gamebook'], mediaType: 'Book', length: '283p',
+        { key: 'Final Fantasy II: Dragon Treasures', releaseDate: '1988-12', chronoOrder: 620, recommendedOrder: 410, tags: ['Optional', 'Alternate Universe', 'Gamebook'], mediaType: 'Book', length: '283p',
         parts: [
           { label: 'Final Fantasy II: Dragon Treasures (1988)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Hih%C5%8D_no_Dragon' },
           { label: 'Book', url: null, small: true },
@@ -241,7 +241,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Hih%C5%8D%20no%20Dragon%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II: Dragon Treasures' }],
         ] },
-        { title: 'Final Fantasy II: Journey to Victory', releaseDate: '1988', chronoOrder: 630, recommendedOrder: 415, tags: ['Optional', 'Side-story', 'Gamebook'], mediaType: 'Book',
+        { key: 'Final Fantasy II: Journey to Victory', releaseDate: '1988', chronoOrder: 630, recommendedOrder: 415, tags: ['Optional', 'Side-story', 'Gamebook'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy II: Journey to Victory (1988)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi' },
           { label: 'Book', url: null, small: true },
@@ -258,7 +258,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Sh%C5%8Dri%20e%20no%20Tabidachi%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II: Journey to Victory' }],
         ] },
-        { title: 'Final Fantasy II ~Manga~ (1988)', releaseDate: '1989-12', chronoOrder: 600, recommendedOrder: 400, tags: ['Optional', 'Alternate Universe', 'Manga', 'Incomplete'], mediaType: 'Comic', length: '~60p',
+        { key: 'Final Fantasy II ~Manga~ (1988)', releaseDate: '1989-12', chronoOrder: 600, recommendedOrder: 400, tags: ['Optional', 'Alternate Universe', 'Manga', 'Incomplete'], mediaType: 'Comic', length: '~60p',
         parts: [
           { label: 'Final Fantasy II ~Manga~ (1988)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)#Behind_the_scenes' },
           { label: 'Comic', url: null, small: true },
@@ -275,7 +275,7 @@ window.__ffSeriesReg['II'] = { num: 'II', releaseDate: '1988-12-17', chronoOrder
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20manga%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy II manga' }],
         ] },
-        { title: 'Final Fantasy I・II・III: Memory of Heroes ~II~', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
+        { key: 'Final Fantasy I・II・III: Memory of Heroes ~II~', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy I・II・III: Memory of Heroes ~II~ (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes' },
           { label: 'Book', url: null, small: true },

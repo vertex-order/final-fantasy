@@ -6,7 +6,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           { text: ' era, initially in limited 8-bit graphics.' },
         ],
       }, games: [
-        { title: 'Stranger of Paradise: Final Fantasy Origin', releaseDate: '2022-03-18', chronoOrder: -3000, recommendedOrder: 500, tags: ['Prequel', 'Optional', 'Alternate Universe', 'Jobs', 'Co-op'], mediaType: 'Game',
+        { key: 'Stranger of Paradise: Final Fantasy Origin', releaseDate: '2022-03-18', chronoOrder: -3000, recommendedOrder: 500, tags: ['Prequel', 'Optional', 'Alternate Universe', 'Jobs', 'Co-op'], mediaType: 'Game',
         languages: [
           { value: 'JA', native: true, voice: true },
           { value: 'EN', voice: true },
@@ -41,7 +41,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
         ],
         platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin' },
         {
-          title: 'Stranger of Paradise: Trials of the Dragon King',
+          key: 'Stranger of Paradise: Trials of the Dragon King',
           releaseDate: '2022-07-20',
           chronoOrder: -2500,
           recommendedOrder: 510,
@@ -82,7 +82,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin'
         },
         {
-          title: 'Stranger of Paradise: Wanderer of the Rift',
+          key: 'Stranger of Paradise: Wanderer of the Rift',
           releaseDate: '2022-10-26',
           chronoOrder: -2000,
           recommendedOrder: 520,
@@ -123,7 +123,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin'
         },
         {
-          title: 'Stranger of Paradise: Different Future',
+          key: 'Stranger of Paradise: Different Future',
           releaseDate: '2023-01-27',
           chronoOrder: -1000,
           recommendedOrder: 530,
@@ -164,7 +164,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
           platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin'
         },
         {
-          title: 'Final Fantasy',
+          key: 'Final Fantasy',
           releaseDate: '1987-12-18',
           chronoOrder: 0,
           recommendedOrder: 200,
@@ -433,7 +433,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
             ],
           }
         },
-        { title: 'Final Fantasy ~Manga~', releaseDate: '1989-12-30', chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic',
+        { key: 'Final Fantasy ~Manga~', releaseDate: '1989-12-30', chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic',
         rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/106524927' }] },
         parts: [
           { label: 'Final Fantasy ~Manga~ (1989)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)' },
@@ -452,7 +452,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
             { key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20i%20manga%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy i manga' }],
         ] },
-        { title: 'Final Fantasy I・II・III: Memory of Heroes ~I~', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
+        { key: 'Final Fantasy I・II・III: Memory of Heroes ~I~', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy I・II・III: Memory of Heroes ~I~ (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes' },
           { label: 'Book', url: null, small: true },

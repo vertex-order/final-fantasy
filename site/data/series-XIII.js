@@ -1,5 +1,5 @@
 window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoOrder: 1400, recommendedOrder: 1400, title: 'Fabula Nova Crystallis – Final Fantasy XIII', note: 'With stories revolving around crystals associated with deities, the series marks the start of the cross-platform launch era, with PlayStation 3 and its Xbox debut on the Xbox 360.', games: [
-        { title: 'Final Fantasy XIII', releaseDate: '2009-12-17', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['RPG', 'Paradigm Shift battle'], mediaType: 'Game', lengthParts: [{ value: '48h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '61h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '105h', tip: 'Completionist' }],
+        { key: 'Final Fantasy XIII', releaseDate: '2009-12-17', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['RPG', 'Paradigm Shift battle'], mediaType: 'Game', lengthParts: [{ value: '48h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '61h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '105h', tip: 'Completionist' }],
         languages: [
           { value: 'JA', tip: 'Japanese — audio only', native: true, voice: true },
           { value: 'EN-US', voice: true },
@@ -83,7 +83,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           ],
         } },
         {
-          title: 'Final Fantasy XIII: A Dreaming Cocoon Falls into the Dawn',
+          key: 'Final Fantasy XIII: A Dreaming Cocoon Falls into the Dawn',
           releaseDate: '2010-09-30',
           chronoOrder: 500,
           recommendedOrder: 200,
@@ -117,7 +117,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           ]
         },
         {
-          title: 'Final Fantasy XIII-2 Fragments Before',
+          key: 'Final Fantasy XIII-2 Fragments Before',
           releaseDate: '2011-12-15 10',
           chronoOrder: 1000,
           recommendedOrder: 300,
@@ -158,7 +158,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           ]
         },
         {
-          title: 'Final Fantasy XIII-2',
+          key: 'Final Fantasy XIII-2',
           releaseDate: '2011-12-15 20',
           chronoOrder: 2000,
           recommendedOrder: 400,
@@ -243,7 +243,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           }
         },
         {
-          title: 'Final Fantasy XIII-2 Fragments After',
+          key: 'Final Fantasy XIII-2 Fragments After',
           releaseDate: '2012-06-21',
           chronoOrder: 3000,
           recommendedOrder: 500,
@@ -282,7 +282,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           ]
         },
         {
-          title: 'Lightning Returns: Final Fantasy XIII',
+          key: 'Lightning Returns: Final Fantasy XIII',
           releaseDate: '2013-11-21',
           chronoOrder: 4000,
           recommendedOrder: 600,
@@ -382,7 +382,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           }
         },
         {
-          title: 'Final Fantasy XIII: Reminiscence -tracer of memories-',
+          key: 'Final Fantasy XIII: Reminiscence -tracer of memories-',
           releaseDate: '2014-06-03',
           chronoOrder: 5000,
           recommendedOrder: 700,
@@ -413,7 +413,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           ]
         },
         {
-          title: 'Final Fantasy XIII: Episode Zero: Promise',
+          key: 'Final Fantasy XIII: Episode Zero: Promise',
           releaseDate: '2009-12-24',
           chronoOrder: -2000,
           recommendedOrder: 800,
@@ -482,7 +482,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           }
         },
         {
-          title: 'Final Fantasy Type-0',
+          key: 'Final Fantasy Type-0',
           releaseDate: '2011-10-27',
           chronoOrder: 100000,
           recommendedOrder: 900,
@@ -552,7 +552,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             ],
           }
         },
-        { title: 'Final Fantasy Type-0 ~Manga~', releaseDate: '2011-11-11', chronoOrder: 100400, recommendedOrder: 940, tags: ['Optional', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '200p; P', br: true }, { value: '1 volume,', br: true }, { value: '3 chapters' }],
+        { key: 'Final Fantasy Type-0 ~Manga~', releaseDate: '2011-11-11', chronoOrder: 100400, recommendedOrder: 940, tags: ['Optional', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '200p; P', br: true }, { value: '1 volume,', br: true }, { value: '3 chapters' }],
         parts: [
           { label: 'Final Fantasy Type-0 ~Manga~ (2011)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_(manga)#Story' },
           { label: 'Comic', url: null, small: true },
@@ -576,7 +576,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
         platformGroups: [
           [{ key: 'book', name: 'Manga', noUrl: true }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Type-0 manga' }],
-        ] },        { title: 'Final Fantasy Type-0: The Ice Reaper', releaseDate: '2012-09-22', chronoOrder: 99900, recommendedOrder: 945, tags: ['Optional', 'Prequel', 'Manga'], mediaType: 'Comic', length: '5 volumes',
+        ] },        { key: 'Final Fantasy Type-0: The Ice Reaper', releaseDate: '2012-09-22', chronoOrder: 99900, recommendedOrder: 945, tags: ['Optional', 'Prequel', 'Manga'], mediaType: 'Comic', length: '5 volumes',
         parts: [
           { label: 'Final Fantasy Type-0: The Ice Reaper (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper' },
           { label: 'Comic', url: null, small: true },
@@ -602,7 +602,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           [{ key: 'book', name: 'Manga', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper#External_links' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Type-0 Side Story: The Ice Reaper' }],
         ] },
-        { title: 'Final Fantasy Type-0: Change the World -The Answer- Vol.1', releaseDate: '2012-04-21', chronoOrder: 100500, recommendedOrder: 950, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '272p',
+        { key: 'Final Fantasy Type-0: Change the World -The Answer- Vol.1', releaseDate: '2012-04-21', chronoOrder: 100500, recommendedOrder: 950, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '272p',
         parts: [
           { label: 'Final Fantasy Type-0: Change the World -The Answer- Vol.1 (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-' },
           { label: 'Book', url: null, small: true },
@@ -619,7 +619,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#External_links' }],
           [{ key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#Story' }],
         ] },
-        { title: 'Final Fantasy Type-0: Change the World -The Penultimate Truth- Vol.2', releaseDate: '2012-06-28', chronoOrder: 99950, recommendedOrder: 960, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '288p',
+        { key: 'Final Fantasy Type-0: Change the World -The Penultimate Truth- Vol.2', releaseDate: '2012-06-28', chronoOrder: 99950, recommendedOrder: 960, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '288p',
         parts: [
           { label: 'Final Fantasy Type-0: Change the World -The Penultimate Truth- Vol.2 (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-' },
           { label: 'Book', url: null, small: true },
@@ -636,7 +636,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-#External_links' }],
           [{ key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-#Synopsis' }],
         ] },
-        { title: 'Final Fantasy Type-0 ~The Last Truth~', releaseDate: '2015-06-04', chronoOrder: 100650, recommendedOrder: 965, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '572p; H',
+        { key: 'Final Fantasy Type-0 ~The Last Truth~', releaseDate: '2015-06-04', chronoOrder: 100650, recommendedOrder: 965, tags: ['Optional', 'Novel'], mediaType: 'Book', length: '572p; H',
         parts: [
           { label: 'Final Fantasy Type-0 ~The Last Truth~ (2015)', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth' },
           { label: 'Book', url: null, small: true },
@@ -657,7 +657,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Type-0 The Last Truth' }],
         ] },
         {
-          title: 'Final Fantasy Agito',
+          key: 'Final Fantasy Agito',
           releaseDate: '2014-05-14',
           chronoOrder: 100550,
           recommendedOrder: 1000,
@@ -690,7 +690,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
             ],
           ]
         },
-        { title: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', releaseDate: '2015-04-30', chronoOrder: 100560, recommendedOrder: 1050, tags: ['Optional', 'Novel'], mediaType: 'Book',
+        { key: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', releaseDate: '2015-04-30', chronoOrder: 100560, recommendedOrder: 1050, tags: ['Optional', 'Novel'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale- (2015)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
@@ -708,7 +708,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', releaseDate: '2009-12-17', chronoO
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-' }],
         ] },
         {
-          title: 'Final Fantasy Awakening',
+          key: 'Final Fantasy Awakening',
           releaseDate: '2016-12-14',
           chronoOrder: 100570,
           recommendedOrder: 1100,

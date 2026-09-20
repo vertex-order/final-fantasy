@@ -1,5 +1,5 @@
 window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder: 1200, recommendedOrder: 1200, title: 'Crystal Chronicles', url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles', note: 'Known for its focus on co-operative gameplay, a return to Nintendo with the GameCube.', games: [
-        { title: 'Final Fantasy Crystal Chronicles', releaseDate: '2003-08-08', chronoOrder: 0, recommendedOrder: 100, tags: ['Action role-playing', 'Co-op'], mediaType: 'Game', lengthParts: [{ value: '17½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '43h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '93h', tip: 'Completionist' }],
+        { key: 'Final Fantasy Crystal Chronicles', releaseDate: '2003-08-08', chronoOrder: 0, recommendedOrder: 100, tags: ['Action role-playing', 'Co-op'], mediaType: 'Game', lengthParts: [{ value: '17½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '43h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '93h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy Crystal Chronicles (2003)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)' },
           { label: 'Remaster (2020)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)#Remastered_Edition', small: true },
@@ -54,7 +54,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
             },
           ],
         } },
-        { title: 'Final Fantasy Crystal Chronicles ~Beyond the Endless Sky~', releaseDate: '2004-01-10', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Manga'], mediaType: 'Comic', length: '3 volumes',
+        { key: 'Final Fantasy Crystal Chronicles ~Beyond the Endless Sky~', releaseDate: '2004-01-10', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Manga'], mediaType: 'Comic', length: '3 volumes',
         parts: [
           { label: 'Final Fantasy Crystal Chronicles ~Beyond the Endless Sky~ (2004)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Comic', url: null, small: true },
@@ -71,7 +71,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Crystal%20Chronicles%20Beyond%20the%20Endless%20Sky%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles manga' }],
         ] },
-        { title: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village', releaseDate: '2004-02-06', chronoOrder: 600, recommendedOrder: 160, tags: ['Optional', 'Novel'], mediaType: 'Book',
+        { key: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village', releaseDate: '2004-02-06', chronoOrder: 600, recommendedOrder: 160, tags: ['Optional', 'Novel'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village (2004)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Book', url: null, small: true },
@@ -88,7 +88,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Crystal%20Chronicles%20Chronicle%20of%20a%20Small%20Village%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village' }],
         ] },
-        { title: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', releaseDate: '2004-01-16', chronoOrder: 700, recommendedOrder: 170, tags: ['Optional', 'Manga'], mediaType: 'Comic',
+        { key: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', releaseDate: '2004-01-16', chronoOrder: 700, recommendedOrder: 170, tags: ['Optional', 'Manga'], mediaType: 'Comic',
         parts: [
           { label: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater (2004)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Manga' },
           { label: 'Comic', url: null, small: true },
@@ -107,7 +107,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater' }],
         ] },
         {
-          title: 'Final Fantasy Crystal Chronicles: My Life as a King',
+          key: 'Final Fantasy Crystal Chronicles: My Life as a King',
           releaseDate: '2008-03-25',
           chronoOrder: 1000,
           recommendedOrder: 200,
@@ -142,7 +142,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           ]
         },
         {
-          title: 'Final Fantasy Crystal Chronicles: My Life as a Darklord',
+          key: 'Final Fantasy Crystal Chronicles: My Life as a Darklord',
           releaseDate: '2009-06-30',
           chronoOrder: 2000,
           recommendedOrder: 300,
@@ -177,7 +177,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           ]
         },
         {
-          title: 'Final Fantasy Crystal Chronicles: The Crystal Bearers',
+          key: 'Final Fantasy Crystal Chronicles: The Crystal Bearers',
           releaseDate: '2009-11-12',
           chronoOrder: 3000,
           recommendedOrder: 400,
@@ -209,7 +209,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           ]
         },
         {
-          title: 'Final Fantasy Crystal Chronicles: Ring of Fates',
+          key: 'Final Fantasy Crystal Chronicles: Ring of Fates',
           releaseDate: '2007-08-23',
           chronoOrder: -300,
           recommendedOrder: 500,
@@ -240,7 +240,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
             ],
           ]
         },
-        { title: 'Final Fantasy Crystal Chronicles: Ring of Fates ~Manga~', releaseDate: '2008-03-01', chronoOrder: -250, recommendedOrder: 550, tags: ['Optional', 'Manga'], mediaType: 'Comic', length: '2 volumes',
+        { key: 'Final Fantasy Crystal Chronicles: Ring of Fates ~Manga~', releaseDate: '2008-03-01', chronoOrder: -250, recommendedOrder: 550, tags: ['Optional', 'Manga'], mediaType: 'Comic', length: '2 volumes',
         parts: [
           { label: 'Final Fantasy Crystal Chronicles: Ring of Fates ~Manga~ (2008)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
           { label: 'Comic', url: null, small: true },
@@ -258,7 +258,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', releaseDate: '2003-08-08', chronoOrder
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~' }],
         ] },
         {
-          title: 'Final Fantasy Crystal Chronicles: Echoes of Time',
+          key: 'Final Fantasy Crystal Chronicles: Echoes of Time',
           releaseDate: '2009-01-29',
           chronoOrder: -200,
           recommendedOrder: 600,

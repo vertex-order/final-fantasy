@@ -1,6 +1,6 @@
 window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder: 1450, recommendedOrder: 1450, title: 'Dimensions', note: 'An original mobile-first entry that paved the way for bringing most of the 2D franchise to mobile, without gacha and microtransactions.', games: [
         {
-          title: 'Final Fantasy Dimensions',
+          key: 'Final Fantasy Dimensions',
           releaseDate: '2010-09-06',
           chronoOrder: 0,
           recommendedOrder: 100,
@@ -38,7 +38,7 @@ window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder
           ]
         },
         {
-          title: 'Final Fantasy Dimensions II',
+          key: 'Final Fantasy Dimensions II',
           releaseDate: '2015-02-12',
           chronoOrder: 100,
           recommendedOrder: 200,

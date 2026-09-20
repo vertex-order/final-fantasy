@@ -7,7 +7,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
         ],
       }, games: [
         {
-          title: 'Final Fantasy VII: The First Soldier',
+          key: 'Final Fantasy VII: The First Soldier',
           releaseDate: '2021-11-17',
           chronoOrder: -7000,
           recommendedOrder: 1710,
@@ -50,7 +50,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy VII: Ever Crisis',
+          key: 'Final Fantasy VII: Ever Crisis',
           releaseDate: '2023-09-07',
           chronoOrder: -6500,
           recommendedOrder: 1720,
@@ -89,7 +89,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             ],
           ]
         },
-        { title: 'Before Crisis: Final Fantasy VII', releaseDate: '2004-09-24', chronoOrder: -6000, recommendedOrder: 1730, tags: ['Optional', 'Prequel', 'Terminated'], mediaType: 'Game', lengthParts: [{ value: '9h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '9½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '13½h', tip: 'Completionist' }],
+        { key: 'Before Crisis: Final Fantasy VII', releaseDate: '2004-09-24', chronoOrder: -6000, recommendedOrder: 1730, tags: ['Optional', 'Prequel', 'Terminated'], mediaType: 'Game', lengthParts: [{ value: '9h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '9½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '13½h', tip: 'Completionist' }],
         parts: [
           { label: 'Before Crisis: Final Fantasy VII (2004)', url: 'https://wikipedia.org/wiki/Before_Crisis:_Final_Fantasy_VII' },
         ],
@@ -138,7 +138,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           },
         ] },
         {
-          title: 'Last Order: Final Fantasy VII',
+          key: 'Last Order: Final Fantasy VII',
           releaseDate: '2005-09-14 10',
           chronoOrder: -5000,
           recommendedOrder: 1740,
@@ -185,7 +185,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ]
         },
         {
-          title: 'Crisis Core: Final Fantasy VII',
+          key: 'Crisis Core: Final Fantasy VII',
           releaseDate: '2007-09-13',
           chronoOrder: -4000,
           recommendedOrder: 1750,
@@ -292,7 +292,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           }
         },
         {
-          title: 'Final Fantasy VII Remake ~Part 1~',
+          key: 'Final Fantasy VII Remake ~Part 1~',
           releaseDate: '2020-04-10',
           chronoOrder: 100,
           recommendedOrder: 600,
@@ -384,7 +384,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           }
         },
         {
-          title: 'Final Fantasy VII Rebirth ~Part 2~',
+          key: 'Final Fantasy VII Rebirth ~Part 2~',
           releaseDate: '2024-02-29',
           chronoOrder: 200,
           recommendedOrder: 700,
@@ -445,7 +445,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy VII Revelation ~Part 3~',
+          key: 'Final Fantasy VII Revelation ~Part 3~',
           releaseDate: '2027-04-08',
           chronoOrder: 300,
           recommendedOrder: 800,
@@ -498,7 +498,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             ],
           ]
         },
-        { title: 'Final Fantasy VII', releaseDate: '1997-01-31', chronoOrder: 350, recommendedOrder: 900, mainline: true, tags: ['Combined', 'Active time battle'], mediaType: 'Game', lengthParts: [{ value: '36h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '49h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '79½h', tip: 'Completionist' }],
+        { key: 'Final Fantasy VII', releaseDate: '1997-01-31', chronoOrder: 350, recommendedOrder: 900, mainline: true, tags: ['Combined', 'Active time battle'], mediaType: 'Game', lengthParts: [{ value: '36h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '49h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '79½h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy VII (1997)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII' },
           { label: 'Edit (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', small: true },
@@ -644,7 +644,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ],
         } },
         {
-          title: 'Final Fantasy VII Remake: Traces of Two Pasts',
+          key: 'Final Fantasy VII Remake: Traces of Two Pasts',
           releaseDate: '2021-07-15',
           chronoOrder: -500,
           recommendedOrder: 1000,
@@ -678,7 +678,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy VII Rebirth: Dear Destiny',
+          key: 'Final Fantasy VII Rebirth: Dear Destiny',
           releaseDate: '2026-01-30',
           chronoOrder: -400,
           recommendedOrder: 1100,
@@ -707,7 +707,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ]
         },
         {
-          title: 'The Maiden Who Travels The Planet',
+          key: 'The Maiden Who Travels The Planet',
           releaseDate: '2005-09-09',
           chronoOrder: 500,
           recommendedOrder: 1200,
@@ -741,7 +741,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy VII: On the Way to a Smile',
+          key: 'Final Fantasy VII: On the Way to a Smile',
           releaseDate: '2005-09-05',
           chronoOrder: 1000,
           recommendedOrder: 1300,
@@ -810,7 +810,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           }
         },
         {
-          title: 'Final Fantasy VII: The Kids Are Alright: A Turks Side Story',
+          key: 'Final Fantasy VII: The Kids Are Alright: A Turks Side Story',
           releaseDate: '2011-01-01',
           chronoOrder: 1500,
           recommendedOrder: 1400,
@@ -845,7 +845,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy VII: Advent Children',
+          key: 'Final Fantasy VII: Advent Children',
           releaseDate: '2005-09-14 20',
           chronoOrder: 2000,
           recommendedOrder: 1500,
@@ -952,7 +952,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
             ]
         },
         {
-          title: 'Dirge of Cerberus: Final Fantasy VII',
+          key: 'Dirge of Cerberus: Final Fantasy VII',
           releaseDate: '2006-01-26',
           chronoOrder: 3000,
           recommendedOrder: 1600,
@@ -1040,7 +1040,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           }
         },
         {
-          title: 'Dirge of Cerberus Lost Episode: Final Fantasy VII',
+          key: 'Dirge of Cerberus Lost Episode: Final Fantasy VII',
           releaseDate: '2006-08-22',
           chronoOrder: 3500,
           recommendedOrder: 1700,
@@ -1104,7 +1104,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           }
         },
         {
-          title: 'Final Fantasy VII: Snowboarding',
+          key: 'Final Fantasy VII: Snowboarding',
           releaseDate: '2005-03-29',
           chronoOrder: 480,
           recommendedOrder: 1800,
@@ -1133,7 +1133,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', releaseDate: '1997-01-31', chronoOrd
           ]
         },
         {
-          title: 'Final Fantasy VII G-Bike',
+          key: 'Final Fantasy VII G-Bike',
           releaseDate: '2014-10-30',
           chronoOrder: 490,
           recommendedOrder: 1900,

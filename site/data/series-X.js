@@ -1,6 +1,6 @@
 window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 1000, recommendedOrder: 1000, title: 'Final Fantasy X', note: 'The first to feature voice acting and direct game sequels, the start of the PlayStation 2 era.', games: [
         {
-          title: 'Final Fantasy X',
+          key: 'Final Fantasy X',
           releaseDate: '2001-07-19',
           chronoOrder: 0,
           recommendedOrder: 100,
@@ -139,7 +139,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           }
         },
         {
-          title: 'Final Fantasy X: Eternal Calm',
+          key: 'Final Fantasy X: Eternal Calm',
           releaseDate: '2002-01-31',
           chronoOrder: 1000,
           recommendedOrder: 200,
@@ -239,7 +239,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           }
         },
         {
-          title: 'Final Fantasy X-2',
+          key: 'Final Fantasy X-2',
           releaseDate: '2003-03-13',
           chronoOrder: 2000,
           recommendedOrder: 300,
@@ -381,7 +381,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           }
         },
         {
-          title: 'Final Fantasy X-2: Last Mission',
+          key: 'Final Fantasy X-2: Last Mission',
           releaseDate: '2004-02-19',
           chronoOrder: 3000,
           recommendedOrder: 400,
@@ -483,7 +483,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           }
         },
         {
-          title: 'Final Fantasy X-2.5',
+          key: 'Final Fantasy X-2.5',
           releaseDate: '2013-12-26 10',
           chronoOrder: 4000,
           recommendedOrder: 500,
@@ -513,7 +513,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
             ],
           ]
         },        {
-  title: 'Final Fantasy X -Will-',
+  key: 'Final Fantasy X -Will-',
   releaseDate: '2013-12-26 20',
   chronoOrder: 5000,
   recommendedOrder: 600,

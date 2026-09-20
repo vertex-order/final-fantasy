@@ -1,6 +1,6 @@
 window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder: 1580, recommendedOrder: 1580, title: 'World', note: 'Light hearted spin-off mixing chibi art and humor, aimed at a younger audience with plenty of throwbacks to previous titles.', games: [
         {
-          title: 'World of Final Fantasy',
+          key: 'World of Final Fantasy',
           releaseDate: '2016-10-25',
           chronoOrder: 0,
           recommendedOrder: 100,
@@ -85,7 +85,7 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
           }
         },
         {
-          title: 'World of Final Fantasy: Meli-Melo',
+          key: 'World of Final Fantasy: Meli-Melo',
           releaseDate: '2017-12-12',
           chronoOrder: 100,
           recommendedOrder: 200,

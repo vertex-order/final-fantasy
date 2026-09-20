@@ -1,5 +1,5 @@
 window.__ffSeriesReg['SW'] = { num: 'SW', releaseDate: '2001-07-02', chronoOrder: 950, recommendedOrder: 950, title: 'Spirits Within', url: 'https://wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', note: 'A bold departure into science fiction and photorealistic CG, laying the groundwork for the series\' future cinematic ambitions.', games: [
-        { title: 'Final Fantasy: The Spirits Within', releaseDate: '2001-07-02', chronoOrder: 0, recommendedOrder: 100, tags: ['Movie'], mediaType: 'Movie',
+        { key: 'Final Fantasy: The Spirits Within', releaseDate: '2001-07-02', chronoOrder: 0, recommendedOrder: 100, tags: ['Movie'], mediaType: 'Movie',
         parts: [
           { label: 'Final Fantasy: The Spirits Within (2001)', url: 'https://wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within' },
           { label: 'Movie', url: null, small: true },
@@ -36,7 +36,7 @@ window.__ffSeriesReg['SW'] = { num: 'SW', releaseDate: '2001-07-02', chronoOrder
             { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy The Spirits Within' },
           ],
         ] },
-        { title: 'Final Fantasy: The Spirits Within Novel', releaseDate: '2001-06-26', chronoOrder: 500, recommendedOrder: 200, tags: ['Optional', 'Novel'], mediaType: 'Book',
+        { key: 'Final Fantasy: The Spirits Within Novel', releaseDate: '2001-06-26', chronoOrder: 500, recommendedOrder: 200, tags: ['Optional', 'Novel'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy: The Spirits Within Novel (2001)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media' },
           { label: 'Book', url: null, small: true },
