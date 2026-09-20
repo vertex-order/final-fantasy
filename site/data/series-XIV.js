@@ -154,7 +154,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
         },
         {
           key: 'Final Fantasy XIV: Stormblood',
-          releaseDate: '2016-06-20',
+          releaseDate: '2017-07-20',
           chronoOrder: 3000,
           recommendedOrder: 400,
           tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
@@ -167,7 +167,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
             { text: ' · Monthly subscription' },
           ],
 
-          title: 'Final Fantasy XIV: Stormblood', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood', title_date: 2017,
+          title: 'Final Fantasy XIV: Stormblood', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood', title_date: '2017-07-20',
           subtitle: 'Expansion',
           parts: [
             { label: 'Final Fantasy XIV: Stormblood (2017)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood' },
@@ -351,7 +351,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XIV ~Winds of Eorzea~' }],
         ] },
         { key: 'Final Fantasy XIV: Side Stories', releaseDate: '2014', chronoOrder: 7690, recommendedOrder: 860, tags: ['Optional', 'Short Stories', 'Web', 'Free', 'Ongoing'], mediaType: 'Book',
-        title: 'Final Fantasy XIV: Side Stories', title_url: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes',
+        title: 'Final Fantasy XIV: Side Stories', title_url: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes', title_date: { start: 2014, end: '2026+' },
         subtitle: 'Web',
         parts: [
           { label: 'Final Fantasy XIV: Side Stories', url: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes' },
@@ -370,7 +370,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           [{ key: 'fan-recap', name: 'Fan story summaries (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Side_Stories#List_of_stories' }],
         ] },
         { key: 'Final Fantasy XIV: Chronicles of Light Vol.1', releaseDate: '2019-03-09', chronoOrder: 3800, recommendedOrder: 865, tags: ['Optional', 'Short Stories'], mediaType: 'Book', length: '222p; H', helpWanted: true,
-        title: 'Final Fantasy XIV: Chronicles of Light Vol.1', title_url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091850', title_date: 2022,
+        title: 'Final Fantasy XIV: Chronicles of Light Vol.1', title_url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091850', title_date: '2019-03-09',
         subtitle: 'Book',
         parts: [
           { label: 'Final Fantasy XIV: Chronicles of Light Vol.1 (2022)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091850' },

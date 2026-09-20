@@ -1,4 +1,4 @@
-<!-- sources/dissidia-final-fantasy-2011.md (markdown) -->
+<!-- sources/dissidia-final-fantasy-2008.md (markdown) -->
 
 # Dissidia Final Fantasy
 
