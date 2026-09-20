@@ -139,7 +139,7 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           }
         },
         {
-          title: 'Final Fantasy X: Eternal Calm (2002) Remaster (2016) video',
+          title: 'Final Fantasy X: Eternal Calm',
           releaseDate: '2002-01-31',
           chronoOrder: 1000,
           recommendedOrder: 200,

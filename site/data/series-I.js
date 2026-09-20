@@ -433,7 +433,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
             ],
           }
         },
-        { title: 'Final Fantasy ~Manga~ (1989)', releaseDate: '1989-12-30', chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic',
+        { title: 'Final Fantasy ~Manga~', releaseDate: '1989-12-30', chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic',
         rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/106524927' }] },
         parts: [
           { label: 'Final Fantasy ~Manga~ (1989)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)' },
@@ -452,7 +452,7 @@ window.__ffSeriesReg['I'] = { num: 'I', releaseDate: '1987-12-18', chronoOrder: 
             { key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20i%20manga%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'final fantasy i manga' }],
         ] },
-        { title: 'Final Fantasy I・II・III: Memory of Heroes ~I~ (2012)', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
+        { title: 'Final Fantasy I・II・III: Memory of Heroes ~I~', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
         parts: [
           { label: 'Final Fantasy I・II・III: Memory of Heroes ~I~ (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes' },
           { label: 'Book', url: null, small: true },

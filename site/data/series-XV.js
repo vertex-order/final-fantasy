@@ -31,7 +31,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', releaseDate: '2016-11-29', chronoOrder
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Brotherhood Final Fantasy XV' }],
         ] },
         {
-          title: 'Final Fantasy XV (2016) Remake (2018)',
+          title: 'Final Fantasy XV',
           releaseDate: '2016-11-29 10',
           chronoOrder: 0,
           recommendedOrder: 200,
