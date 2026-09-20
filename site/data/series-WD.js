@@ -1,7 +1,5 @@
 window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder: 1580, recommendedOrder: 1580, title: 'World', note: 'Light hearted spin-off mixing chibi art and humor, aimed at a younger audience with plenty of throwbacks to previous titles.', games: [
         {
-          key: 'World of Final Fantasy',
-          releaseDate: '2016-10-25',
           chronoOrder: 0,
           recommendedOrder: 100,
           tags: ['RPG', 'Single-player', 'Active Time Battle'],
@@ -10,10 +8,6 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
 
           title: 'World of Final Fantasy', title_url: 'https://wikipedia.org/wiki/World_of_Final_Fantasy', title_date: '2016-10-25',
           subtitle: 'Remake', subtitle_url: 'https://wikipedia.org/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy_Maxima', subtitle_date: 2018,
-          parts: [
-            { label: 'World of Final Fantasy (2016)', url: 'https://wikipedia.org/wiki/World_of_Final_Fantasy' },
-            { label: 'Remake (2018)', url: 'https://wikipedia.org/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy_Maxima', small: true },
-          ],
 
           description: [[
             { text: 'Takes place in Grymoire, a world of coexisting Final Fantasy locations. The story follows siblings Lann and Reynn, who possess the power to tame monsters called Mirages, and are sent to Grymoire to reclaim their lost memories and thwart the plans of the Bahamutian Army.' },
@@ -61,9 +55,6 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
           alt: {
             extras: [
               {
-                parts: [
-                  { label: 'World of Final Fantasy (2016)', url: 'https://wikipedia.org/wiki/World_of_Final_Fantasy' },
-                ],
                 description: [[
                   { text: 'The original release.' },
                 ]],
@@ -87,17 +78,12 @@ window.__ffSeriesReg['WD'] = { num: 'WD', releaseDate: '2016-10-25', chronoOrder
           }
         },
         {
-          key: 'World of Final Fantasy: Meli-Melo',
-          releaseDate: '2017-12-12',
           chronoOrder: 100,
           recommendedOrder: 200,
           tags: ['Optional', 'Spin-off', 'Monster-taming RPG', 'Multiplayer', 'Co-op', 'Mobile', 'In-app purchases', 'Terminated'],
           mediaType: 'Game',
 
           title: 'World of Final Fantasy: Meli-Melo', title_url: 'https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy:_Meli-Melo', title_date: '2017-12-12',
-          parts: [
-            { label: 'World of Final Fantasy: Meli-Melo (2017)', url: 'https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy:_Meli-Melo' },
-          ],
 
           description: [[
             { text: 'Similar gameplay to ' },

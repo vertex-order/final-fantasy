@@ -1,7 +1,5 @@
 window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 500, recommendedOrder: 500, title: 'Final Fantasy V', note: 'For the first 7 years, this series was only available in Japan.', games: [
         {
-          key: 'Final Fantasy V',
-          releaseDate: '1992-12-06',
           chronoOrder: 0,
           recommendedOrder: 100,
           mainline: true,
@@ -11,10 +9,6 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
 
           title: 'Final Fantasy V', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_V', title_date: '1992-12-06',
           subtitle: 'Pixel Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitle_date: 2021,
-          parts: [
-            { label: 'Final Fantasy V (1992)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V' },
-            { label: 'Pixel Remaster (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
-          ],
 
           storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
 
@@ -74,10 +68,6 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
             extras: [
               {
                 subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', subtitle_date: 2013,
-                parts: [
-                  { label: 'Final Fantasy V (1992)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V' },
-                  { label: 'Remaster (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
-                ],
                 description: [
                   'This remaster has new high-resolution graphics and sprites, eight-direction movement, auto battle. Also has the extra dungeon and optional boss from Edit 2006.'
                 ],
@@ -99,10 +89,6 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
               },
               {
                 subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', subtitle_date: 2006,
-                parts: [
-                  { label: 'Final Fantasy V (1992)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V' },
-                  { label: 'Edit (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
-                ],
 
                 description: [[
                   { text: 'This edit adds four new jobs, an extra dungeon, optional boss, additional equipment, and new translations. Released as ' },
@@ -118,10 +104,6 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
               },
               {
                 subtitle: 'Edit', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', subtitle_date: 1998,
-                parts: [
-                  { label: 'Final Fantasy V (1992)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V' },
-                  { label: 'Edit (1998)', url: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', small: true },
-                ],
 
                 description: [['This edit adds opening and ending ', {
                   abbrTerm: 'FMV',
@@ -174,8 +156,6 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
           }
         },
         {
-          key: 'Final Fantasy: Legend of the Crystals',
-          releaseDate: '1994-03-21',
           chronoOrder: 1000,
           recommendedOrder: 200,
           tags: ['Optional', 'Sequel', 'OVA'],
@@ -184,10 +164,6 @@ window.__ffSeriesReg['V'] = { num: 'V', releaseDate: '1992-12-06', chronoOrder: 
 
           title: 'Final Fantasy: Legend of the Crystals', title_url: 'https://wikipedia.org/wiki/Final_Fantasy:_Legend_of_the_Crystals', title_date: '1994-03-21',
           subtitle: 'video',
-          parts: [
-            { label: 'Final Fantasy: Legend of the Crystals (1994)', url: 'https://wikipedia.org/wiki/Final_Fantasy:_Legend_of_the_Crystals' },
-            { label: 'video', url: null, small: true },
-          ],
 
           languages: [{ value: 'JA', native: true }, { value: 'EN' }],
 

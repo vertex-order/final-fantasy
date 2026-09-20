@@ -1,7 +1,5 @@
 window.__ffSeriesReg['MQ'] = { num: 'MQ', releaseDate: '1992-10-05', chronoOrder: 350, recommendedOrder: 350, title: 'Mystic Quest', note: 'A spin-off designed as a simplified turn-based RPG for new players, and the first Final Fantasy game released in Europe.', games: [
         {
-          key: 'Final Fantasy Mystic Quest',
-          releaseDate: '1992-10-05',
           chronoOrder: 0,
           recommendedOrder: 100,
           tags: ['Optional', 'First-time players', 'RPG', 'Action-adventure'],
@@ -16,9 +14,6 @@ window.__ffSeriesReg['MQ'] = { num: 'MQ', releaseDate: '1992-10-05', chronoOrder
           ],
 
           title: 'Final Fantasy Mystic Quest', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Mystic_Quest', title_date: '1992-10-05',
-          parts: [
-            { label: 'Final Fantasy Mystic Quest (1992)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Mystic_Quest' },
-          ],
 
           description: [
             'Benjamin journeys to reclaim the stolen crystals and restore balance to the world.',

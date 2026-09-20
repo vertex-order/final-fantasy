@@ -1,7 +1,5 @@
 window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder: 1100, recommendedOrder: 1100, title: 'Final Fantasy XI', note: 'The first MMO in the franchise, told as a string of largely self-contained story arcs. Story complete. Also sports a long-running book spin-off series.', games: [
         {
-          key: 'Final Fantasy XI: Online',
-          releaseDate: '2002-05-16',
           chronoOrder: 0,
           recommendedOrder: 100,
           mainline: true,
@@ -11,10 +9,6 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
 
           title: 'Final Fantasy XI: Online', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XI', title_date: '2002-05-16',
           subtitle: 'Base Game',
-          parts: [
-            { label: 'Final Fantasy XI: Online (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XI' },
-            { label: 'Base Game', small: true },
-          ],
 
           bylineParts: [
             { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
@@ -63,8 +57,6 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ]
         },
         {
-          key: 'Final Fantasy XI: Rise of the Zilart',
-          releaseDate: '2003-04-17',
           chronoOrder: 1000,
           recommendedOrder: 200,
           tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
@@ -79,10 +71,6 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
 
           title: 'Final Fantasy XI: Rise of the Zilart', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', title_date: '2003-04-17',
           subtitle: 'Expansion',
-          parts: [
-            { label: 'Final Fantasy XI: Rise of the Zilart (2003)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story' },
-            { label: 'Expansion', url: null, small: true },
-          ],
 
           description: [[
             { text: "Thwart Zilart princes Eald'Narche and Kam'lanaut's plans to become Gods in this expansion for " },
@@ -99,8 +87,6 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ]
         },
         {
-          key: 'Final Fantasy XI: Chains of Promathia',
-          releaseDate: '2004-09-16',
           chronoOrder: 2000,
           recommendedOrder: 300,
           tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
@@ -115,10 +101,6 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
 
           title: 'Final Fantasy XI: Chains of Promathia', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', title_date: '2004-09-16',
           subtitle: 'Expansion',
-          parts: [
-            { label: 'Final Fantasy XI: Chains of Promathia (2004)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story' },
-            { label: 'Expansion', url: null, small: true },
-          ],
 
           description: [[
             { text: 'Various factions vie to either stop or complete the resurrection of Twilight God Promathia in this expansion for ' },
@@ -137,8 +119,6 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ]
         },
         {
-          key: 'Final Fantasy XI: Treasures of Aht Urhgan',
-          releaseDate: '2006-04-18',
           chronoOrder: 3000,
           recommendedOrder: 400,
           tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
@@ -153,10 +133,6 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
 
           title: 'Final Fantasy XI: Treasures of Aht Urhgan', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', title_date: '2006-04-18',
           subtitle: 'Expansion',
-          parts: [
-            { label: 'Final Fantasy XI: Treasures of Aht Urhgan (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story' },
-            { label: 'Expansion', url: null, small: true },
-          ],
 
           description: [[
             { text: 'The Empire of Aht Urhgan in the midlands becomes involved after years of self-imposed isolation, with the player being sent there as a representative in this expansion for ' },
@@ -175,8 +151,6 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ]
         },
         {
-          key: 'Final Fantasy XI: Wings of the Goddess',
-          releaseDate: '2007-11-20',
           chronoOrder: 4000,
           recommendedOrder: 500,
           tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
@@ -191,10 +165,6 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
 
           title: 'Final Fantasy XI: Wings of the Goddess', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', title_date: '2007-11-20',
           subtitle: 'Expansion',
-          parts: [
-            { label: 'Final Fantasy XI: Wings of the Goddess (2007)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story' },
-            { label: 'Expansion', url: null, small: true },
-          ],
 
           description: [[
             { text: 'Using newly discovered time portals, players travel 20 years in the past from the base game main story to experience the Crystal War first-hand and encounters a surprise character in this expansion for ' },
@@ -213,8 +183,6 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ]
         },
         {
-          key: 'Final Fantasy XI: Seekers of Adoulin',
-          releaseDate: '2013-03-27',
           chronoOrder: 5000,
           recommendedOrder: 600,
           tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
@@ -229,10 +197,6 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
 
           title: 'Final Fantasy XI: Seekers of Adoulin', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', title_date: '2013-03-27',
           subtitle: 'Expansion',
-          parts: [
-            { label: 'Final Fantasy XI: Seekers of Adoulin (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story' },
-            { label: 'Expansion', url: null, small: true },
-          ],
 
           description: [[
             { text: 'People are migrating to the underpopulated western continent archipelago of Adoulin and the Sacred City of Adoulin in this last expansion for ' },
@@ -248,13 +212,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
             ],
           ]
         },
-        { key: 'Final Fantasy XI ~Winds of Prayer~', releaseDate: '2002-12-18', chronoOrder: 100, recommendedOrder: 604, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '286p;A6',
+        { chronoOrder: 100, recommendedOrder: 604, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '286p;A6',
         title: 'Final Fantasy XI ~Winds of Prayer~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2002-12-18',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Winds of Prayer~ (2002)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Al, an inexperienced warrior, is led into the shadows of evil lurking in the land after a fateful encounter with a Galka knight and a young white mage. Released as 〜祈りの風〜.'
         ],
@@ -266,13 +226,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Winds%20of%20Prayer~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Winds of Prayer' }],
         ] },
-        { key: 'Final Fantasy XI ~The Out of Orders~', releaseDate: '2003-04-19', chronoOrder: -10, recommendedOrder: 602, tags: ['Optional', 'Prequel', 'Alternate Universe', 'Manhwa', 'Incomplete'], mediaType: 'Comic', length: '3 issues',
+        { chronoOrder: -10, recommendedOrder: 602, tags: ['Optional', 'Prequel', 'Alternate Universe', 'Manhwa', 'Incomplete'], mediaType: 'Comic', length: '3 issues',
         title: 'Final Fantasy XI ~The Out of Orders~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~', title_date: '2003-04-19',
         subtitle: 'Comic',
-        parts: [
-          { label: 'Final Fantasy XI ~The Out of Orders~ (2003)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~' },
-          { label: 'Comic', url: null, small: true },
-        ],
         description: [[
           { text: 'An original story set during the Crystal War twenty years before the main story of ' },
           { emText: 'XI (2003)' },
@@ -286,13 +242,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Out%20of%20Orders~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Out of Orders' }],
         ] },
-        { key: 'Final Fantasy XI ~The Star Oath~', releaseDate: '2003-05', chronoOrder: 1100, recommendedOrder: 605, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
+        { chronoOrder: 1100, recommendedOrder: 605, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         title: 'Final Fantasy XI ~The Star Oath~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2003-05',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~The Star Oath~ (2003)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Rookie warrior Alfred (Al) and his companions, after defeating the tank at the Orc Fortress of Gelsba, head to Windurst with its blueprints. Sensing an evil dark shadow lurking in Vana\'diel, Al and his group continue their journey. Released as 〜星の誓い〜. May also be known as ~Oath of the Stars~. Book #2 in the French/German translated release order.'
         ],
@@ -307,13 +259,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Star%20Oath~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Star Oath' }],
         ] },
-        { key: 'Final Fantasy XI ~Prayer of the Wind~ Vol.1', releaseDate: '2010', chronoOrder: 110, recommendedOrder: 606, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic', length: '144p',
+        { chronoOrder: 110, recommendedOrder: 606, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic', length: '144p',
         title: 'Final Fantasy XI ~Prayer of the Wind~ Vol.1', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: '2010',
         subtitle: 'Comic',
-        parts: [
-          { label: 'Final Fantasy XI ~Prayer of the Wind~ Vol.1 (2010)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
-          { label: 'Comic', url: null, small: true },
-        ],
         description: [[
           { text: 'Adapted from ' },
           { emText: '~Winds of Prayer~ (2003)' },
@@ -327,13 +275,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Prayer%20of%20the%20Wind~%20Vol.1%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Prayer of the Wind comic', ytSuffix: '' }],
         ] },
-        { key: "Final Fantasy XI ~Staying in Vana'diel~", releaseDate: '2003-05', chronoOrder: 1150, recommendedOrder: 603, tags: ['Optional', 'Spin-off', 'Play diary'], mediaType: 'Book', length: '477p;B6',
+        { chronoOrder: 1150, recommendedOrder: 603, tags: ['Optional', 'Spin-off', 'Play diary'], mediaType: 'Book', length: '477p;B6',
         title: 'Final Fantasy XI ~Staying in Vana\'diel~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', title_date: '2003-05',
         subtitle: 'Book',
-        parts: [
-          { label: "Final Fantasy XI ~Staying in Vana'diel~ (2003)", url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [[
           { text: 'Play diaries from the world of ' },
           { emText: 'XI' },
@@ -346,13 +290,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20Play%20Diary%20Staying%20in%20Vana%27diel%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Play Diary Staying in Vana\'diel', ytSuffix: '' }],
         ] },
-        { key: 'Final Fantasy XI ~The Eternal Bond~', releaseDate: '2003-07', chronoOrder: 1200, recommendedOrder: 607, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
+        { chronoOrder: 1200, recommendedOrder: 607, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         title: 'Final Fantasy XI ~The Eternal Bond~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2003-07',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~The Eternal Bond~ (2003)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'With the party scattered on their own errands—Al and Iris waiting in Bastok, Peta in Windurst, Jed and Shera off to break a curse in Jeuno—Al and the others are suddenly called back to Jeuno for a new mission. Released as 〜永遠の絆〜. May also be known as ~The Eternal Link~ or ~The Covenant of Eternity~. Book #3 in the French/German translated release order.'
         ],
@@ -367,13 +307,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Eternal%20Bond~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Eternal Bond' }],
         ] },
-        { key: 'Final Fantasy XI ~The Sword of Protection~ Vol.1', releaseDate: '2003-10', chronoOrder: 1300, recommendedOrder: 608, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
+        { chronoOrder: 1300, recommendedOrder: 608, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         title: 'Final Fantasy XI ~The Sword of Protection~ Vol.1', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2003-10',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~The Sword of Protection~ Vol.1 (2003)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'An adventure unfolds in Gilgamesh where one mystery leads to another. Released as 〜護りの剣〜①. We\'re not sure which volume\'s plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back. Book #4 in the French/German translated release order.'
         ],
@@ -389,13 +325,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Sword%20of%20Protection~%20Vol.1%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Sword of Protection' }],
         ] },
-        { key: 'Final Fantasy XI ~The Sword of Protection~ Vol.2', releaseDate: '2003-12', chronoOrder: 1400, recommendedOrder: 609, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '254p;A6',
+        { chronoOrder: 1400, recommendedOrder: 609, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '254p;A6',
         title: 'Final Fantasy XI ~The Sword of Protection~ Vol.2', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2003-12',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~The Sword of Protection~ Vol.2 (2003)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Dak sets out on a journey with three companions after his childhood friend and foster parent goes missing, and encounters Rin, who has come into possession of a dragon child, and her companions. Released as 〜護りの剣〜②. We\'re not sure which volume\'s plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back. Book #5 in the French/German translated release order.'
         ],
@@ -411,13 +343,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Sword%20of%20Protection~%20Vol.2%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Sword of Protection' }],
         ] },
-        { key: 'Final Fantasy XI ~The Sword of Protection~ Vol.3', releaseDate: '2004-01', chronoOrder: 1500, recommendedOrder: 610, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
+        { chronoOrder: 1500, recommendedOrder: 610, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         title: 'Final Fantasy XI ~The Sword of Protection~ Vol.3', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2004-01',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~The Sword of Protection~ Vol.3 (2004)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'The concluding volume of the Sword of Protection trilogy, following Douglas and his companions to the Uggalepih Temple. Released as 〜護りの剣〜③. Book #6 in the French/German translated release order.'
         ],
@@ -432,13 +360,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Sword%20of%20Protection~%20Vol.3%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Sword of Protection' }],
         ] },
-        { key: 'Final Fantasy XI ~Faraway Wings~', releaseDate: '2004-03', chronoOrder: 1600, recommendedOrder: 611, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
+        { chronoOrder: 1600, recommendedOrder: 611, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         title: 'Final Fantasy XI ~Faraway Wings~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2004-03',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Faraway Wings~ (2004)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'After some time apart, Alfred and his companions reunite in Jeuno, where a new adventure awaits Iris. Released as 〜遥かなる翼〜. Book #7 in the French/German translated release order.'
         ],
@@ -454,13 +378,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Faraway%20Wings~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Faraway Wings' }],
         ] },
-        { key: 'Final Fantasy XI ~Pride of the Knight~ Vol.1', releaseDate: '2004-07', chronoOrder: 1700, recommendedOrder: 612, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '249p;A6',
+        { chronoOrder: 1700, recommendedOrder: 612, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '249p;A6',
         title: 'Final Fantasy XI ~Pride of the Knight~ Vol.1', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2004-07',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Pride of the Knight~ Vol.1 (2004)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'The first volume of the Pride of the Knight trilogy. Doug, Lynn, and their companions travel to Bastok after Peta hears from her old friend, the Galka knight Max. Released as 〜騎士の誇り〜①. Book #8 in the French/German translated release order.'
         ],
@@ -476,13 +396,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Pride%20of%20the%20Knight~%20Vol.1%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Pride of the Knight' }],
         ] },
-        { key: 'Final Fantasy XI ~Pride of the Knight~ Vol.2', releaseDate: '2004-09', chronoOrder: 1950, recommendedOrder: 613, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '250p;A6',
+        { chronoOrder: 1950, recommendedOrder: 613, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '250p;A6',
         title: 'Final Fantasy XI ~Pride of the Knight~ Vol.2', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2004-09',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Pride of the Knight~ Vol.2 (2004)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'The second volume of the Pride of the Knight trilogy, continuing the group\'s adventures in and around Bastok. Released as 〜騎士の誇り〜②. Book #9 in the French/German translated release order.'
         ],
@@ -498,13 +414,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Pride%20of%20the%20Knight~%20Vol.2%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Pride of the Knight' }],
         ] },
-        { key: 'Final Fantasy XI ~Pride of the Knight~ Vol.3', releaseDate: '2004-12', chronoOrder: 2100, recommendedOrder: 614, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '250p;A6',
+        { chronoOrder: 2100, recommendedOrder: 614, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '250p;A6',
         title: 'Final Fantasy XI ~Pride of the Knight~ Vol.3', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2004-12',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Pride of the Knight~ Vol.3 (2004)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'The third and final volume of the Pride of the Knight trilogy. Released as 〜騎士の誇り〜③. Book #10 in the French/German translated release order.'
         ],
@@ -520,13 +432,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Pride%20of%20the%20Knight~%20Vol.3%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Pride of the Knight' }],
         ] },
-        { key: "Final Fantasy XI ~Adventurer's Holiday~", releaseDate: '2005-04', chronoOrder: 2200, recommendedOrder: 615, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '318p;A6',
+        { chronoOrder: 2200, recommendedOrder: 615, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '318p;A6',
         title: 'Final Fantasy XI ~Adventurer\'s Holiday~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2005-04',
         subtitle: 'Book',
-        parts: [
-          { label: "Final Fantasy XI ~Adventurer's Holiday~ (2005)", url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Al and Iris attend a friend\'s wedding. There, Reisha, a spy from San d\'Oria, arrives with a request. Released as 〜冒険者の休日〜.'
         ],
@@ -538,13 +446,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
             { key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Adventurer%27s%20Holiday~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Adventurer\'s Holiday' }],
         ] },
-        { key: 'Final Fantasy XI ~A Distant Wish~ Vol.1', releaseDate: '2005-07', chronoOrder: 2300, recommendedOrder: 616, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '249p;A6',
+        { chronoOrder: 2300, recommendedOrder: 616, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '249p;A6',
         title: 'Final Fantasy XI ~A Distant Wish~ Vol.1', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2005-07',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~A Distant Wish~ Vol.1 (2005)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Al\'s message cuts off with the words "it\'s darkness, a vortex of darkness..." and Iris, Shera, and Peta immediately set out to find Al and Jed. Released as 〜遠い願い〜㊤.'
         ],
@@ -556,13 +460,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Distant%20Wish~%20Vol.1%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI A Distant Wish' }],
         ] },
-        { key: 'Final Fantasy XI ~A Distant Wish~ Vol.2', releaseDate: '2005-09', chronoOrder: 2400, recommendedOrder: 617, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
+        { chronoOrder: 2400, recommendedOrder: 617, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         title: 'Final Fantasy XI ~A Distant Wish~ Vol.2', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2005-09',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~A Distant Wish~ Vol.2 (2005)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Al and Jed are swept into a sudden vortex of darkness. Then, recklessly, Bata and Chit leap into the vortex themselves, but it vanishes immediately afterward. Left behind, Iris and Shera learn that the dark vortex seems to connect to Tavnazia, a land thought to have been destroyed long ago, and resolve to pursue the others. Released as 〜遠い願い〜㊦.'
         ],
@@ -574,13 +474,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Distant%20Wish~%20Vol.2%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI A Distant Wish' }],
         ] },
-        { key: 'Final Fantasy XI ~A New Dream~ Vol.1', releaseDate: '2005-11', chronoOrder: 2500, recommendedOrder: 618, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
+        { chronoOrder: 2500, recommendedOrder: 618, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         title: 'Final Fantasy XI ~A New Dream~ Vol.1', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2005-11',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~A New Dream~ Vol.1 (2005)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Once again spanning two volumes, it features Al and Iris in action, set in Tavnazia. Released as 〜新たな夢〜㊤.'
         ],
@@ -592,13 +488,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20New%20Dream~%20Vol.1%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI A New Dream' }],
         ] },
-        { key: 'Final Fantasy XI ~A New Dream~ Vol.2', releaseDate: '2006-01', chronoOrder: 2600, recommendedOrder: 619, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '223p;A6',
+        { chronoOrder: 2600, recommendedOrder: 619, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '223p;A6',
         title: 'Final Fantasy XI ~A New Dream~ Vol.2', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2006-01',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~A New Dream~ Vol.2 (2006)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Al and his companions arrive in Tavnazia after falling into the Vortex of Darkness, pursued by Iris and Shera, while Klaus and Shiri arrive in search of news of their childhood friend, as the machinations of San d\'Oria, Windurst, Bastok, and Jeuno draw the long-sealed city back into the open. Released as 〜新たな夢〜㊦.'
         ],
@@ -610,13 +502,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20New%20Dream~%20Vol.2%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI A New Dream' }],
         ] },
-        { key: 'Final Fantasy XI ~The Blessings of the Journey~', releaseDate: '2006-04', chronoOrder: 2700, recommendedOrder: 626, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
+        { chronoOrder: 2700, recommendedOrder: 626, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         title: 'Final Fantasy XI ~The Blessings of the Journey~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2006-04',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~The Blessings of the Journey~ (2006)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: ['The prelude to the Aht Urhgan saga. Released as 〜旅の恵み〜.'],
         languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77163778' }],
         rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/77163778' }] },
@@ -625,13 +513,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Blessings%20of%20the%20Journey~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Blessings of the Journey' }],
         ] },
-        { key: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.1', releaseDate: '2006-08', chronoOrder: 3100, recommendedOrder: 627, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
+        { chronoOrder: 3100, recommendedOrder: 627, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.1', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2006-08',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.1 (2006)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Pasha and Nelly, a pair of Mithra thieves in Al Zahbi who dream of marrying into wealth, make their living picking pockets and burgling mansions—until one day they steal something far bigger than they bargained for. The series\' first female leads. Released as 〜アトルガンの娘たち〜①.'
         ],
@@ -642,13 +526,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Daughters%20of%20Aht%20Urhgan~%20Vol.1%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Daughters of Aht Urhgan' }],
         ] },
-        { key: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.2', releaseDate: '2006-10', chronoOrder: 3200, recommendedOrder: 628, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '251p;A6',
+        { chronoOrder: 3200, recommendedOrder: 628, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '251p;A6',
         title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.2', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2006-10',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.2 (2006)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'The Mithra thief duo, Pasha and Nelly, successfully steal treasure from a merchant\'s mansion in Al Zahbi. But Pasha gets stuck in her transformed state as a Tarutaru and can\'t revert back, and they\'re being chased by the merchant\'s bodyguards. Released as 〜アトルガンの娘たち〜②.'
         ],
@@ -659,13 +539,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Daughters%20of%20Aht%20Urhgan~%20Vol.2%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Daughters of Aht Urhgan' }],
         ] },
-        { key: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.3', releaseDate: '2006-12', chronoOrder: 3300, recommendedOrder: 629, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '254p;A6',
+        { chronoOrder: 3300, recommendedOrder: 629, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '254p;A6',
         title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.3', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2006-12',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.3 (2006)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Having stolen the treasure token proving Farmett\'s conspiracy, Pasha and Nelly travel with adventurers they meet in the Inner Country to pursue hostages held captive by the Lamia. Released as 〜アトルガンの娘たち〜③.'
         ],
@@ -676,13 +552,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Daughters%20of%20Aht%20Urhgan~%20Vol.3%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Daughters of Aht Urhgan' }],
         ] },
-        { key: 'Final Fantasy XI ~The Testament of the Wise~ Vol.1', releaseDate: '2007-03', chronoOrder: 3400, recommendedOrder: 620, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '250p;A6',
+        { chronoOrder: 3400, recommendedOrder: 620, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '250p;A6',
         title: 'Final Fantasy XI ~The Testament of the Wise~ Vol.1', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2007-03',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~The Testament of the Wise~ Vol.1 (2007)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Continues the series of illustrated short stories, opening on a shocking turn of events involving the character Peta. Released as 〜賢者の遺言〜㊤.'
         ],
@@ -694,13 +566,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Testament%20of%20the%20Wise~%20Vol.1%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Testament of the Wise' }],
         ] },
-        { key: 'Final Fantasy XI ~The Testament of the Wise~ Vol.2', releaseDate: '2007-04', chronoOrder: 3500, recommendedOrder: 621, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '252p;A6',
+        { chronoOrder: 3500, recommendedOrder: 621, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '252p;A6',
         title: 'Final Fantasy XI ~The Testament of the Wise~ Vol.2', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2007-04',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~The Testament of the Wise~ Vol.2 (2007)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Peta is in danger, and Al and Iris set sail for Nashmo to rescue her. Released as 〜賢者の遺言〜㊦. May also be known as ~The Testament of the Sages~.'
         ],
@@ -712,13 +580,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Testament%20of%20the%20Wise~%20Vol.2%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Testament of the Wise' }],
         ] },
-        { key: 'Final Fantasy XI ~The Song of the Storm~ Vol.1', releaseDate: '2007', chronoOrder: 3550, recommendedOrder: 622, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '222p; P',
+        { chronoOrder: 3550, recommendedOrder: 622, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '222p; P',
         title: 'Final Fantasy XI ~The Song of the Storm~ Vol.1', title_url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1', title_date: '2007',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~The Song of the Storm~ Vol.1 (2007)', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'In the world of Vana\'diel, anyone can make a living, and earn glory, as a mage, knight, thief, or warrior. Alfred learns this as he\'s thrust into the greatest adventure of his life. Alongside the impetuous young mage Iris, he sets out on a dangerous journey to join Altana\'s people in their fight against the beastmen. Over the course of this perilous apprenticeship, Alfred must face his destiny, still unaware of the infernal machine he\'ll have to fight. Labeled Book #1 in the French/German translated release order, though its 2007 release date is later than several other Al books translated as later volumes in that order — we haven\'t identified a Japanese source title, so this numbering is unconfirmed.'
         ],
@@ -734,26 +598,18 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20Song%20of%20the%20Storm%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Song of the Storm' }],
         ] },
-        { key: 'Final Fantasy XI ~Adventure Log~', releaseDate: '2007-03-20', chronoOrder: 10, recommendedOrder: 601, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic', helpWanted: true,
+        { chronoOrder: 10, recommendedOrder: 601, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic', helpWanted: true,
         title: 'Final Fantasy XI ~Adventure Log~', title_url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', title_date: '2007-03-20',
         subtitle: 'Comic',
-        parts: [
-          { label: 'Final Fantasy XI ~Adventure Log~ (2007)', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga' },
-          { label: 'Comic', url: null, small: true },
-        ],
         description: ['The official Final Fantasy XI webcomic.'],
         languages: [{ value: 'JA', native: true }, { value: 'EN' }],
         platformGroups: [
           [{ key: 'book', name: 'Webcomic', noUrl: true }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Adventure Log webcomic', ytSuffix: '' }],
         ] },
-        { key: 'Final Fantasy XI ~Conditions of Fortune~', releaseDate: '2007-08', chronoOrder: 3600, recommendedOrder: 623, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '284p;A6',
+        { chronoOrder: 3600, recommendedOrder: 623, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '284p;A6',
         title: 'Final Fantasy XI ~Conditions of Fortune~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2007-08',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Conditions of Fortune~ (2007)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Al and Iris\'s party, staying in Aht Urhgan, encounter a Mithra corsair known as "Lucky Narfah" during a certain adventure, but the man she\'s infatuated with is extremely suspicious. Released as 〜幸運の条件〜. A secondary English source describes her instead as an Elvaan named "Nalfa the Lucky" — race and name unconfirmed.'
         ],
@@ -765,13 +621,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Conditions%20of%20Fortune~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Conditions of Fortune' }],
         ] },
-        { key: 'Final Fantasy XI ~The Princess Knight of Ronfaure~', releaseDate: '2007-11', chronoOrder: 3700, recommendedOrder: 624, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '254p;A6',
+        { chronoOrder: 3700, recommendedOrder: 624, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '254p;A6',
         title: 'Final Fantasy XI ~The Princess Knight of Ronfaure~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2007-11',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~The Princess Knight of Ronfaure~ (2007)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Al and his companions encounter a baby chocobo in the Floating Swamps of Kadava, and with no owner to be found, Al and Iris decide to raise it themselves, leaving their companions to head to San d\'Oria. Released as 〜ロンフォールの姫騎士〜.'
         ],
@@ -783,13 +635,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Princess%20Knight%20of%20Ronfaure~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Princess Knight of Ronfaure' }],
         ] },
-        { key: "Final Fantasy XI ~The Star's Call~", releaseDate: '2008-01', chronoOrder: 4100, recommendedOrder: 625, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
+        { chronoOrder: 4100, recommendedOrder: 625, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '287p;A6',
         title: 'Final Fantasy XI ~The Star\'s Call~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2008-01',
         subtitle: 'Book',
-        parts: [
-          { label: "Final Fantasy XI ~The Star's Call~ (2008)", url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Chance, the lost chocobo found by Al and Iris and raised in Sandoria, was actually a victim of a sinister plot. To save Chance, the pair return to Aht Urhgan where their comrades await. Released as 〜星のいざない〜. May also be known as ~Starfall~.'
         ],
@@ -801,13 +649,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20The%20Star%27s%20Call%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Star\'s Call' }],
         ] },
-        { key: 'Final Fantasy XI ~Happy Gift~', releaseDate: '2008-04', chronoOrder: 4200, recommendedOrder: 630, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '313p;A6',
+        { chronoOrder: 4200, recommendedOrder: 630, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '313p;A6',
         title: 'Final Fantasy XI ~Happy Gift~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2008-04',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Happy Gift~ (2008)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Dark Knight Larry finds himself helping a troublesome young black mage girl named Bee, and before he knows it, the two are traveling together hunting monsters, armed with his "Beast Photographer." Released as ハッピーギフト.'
         ],
@@ -818,13 +662,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Happy%20Gift~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Happy Gift' }],
         ] },
-        { key: 'Final Fantasy XI ~A Message from Beyond~ Vol.1', releaseDate: '2008-08', chronoOrder: 4300, recommendedOrder: 631, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
+        { chronoOrder: 4300, recommendedOrder: 631, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         title: 'Final Fantasy XI ~A Message from Beyond~ Vol.1', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2008-08',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~A Message from Beyond~ Vol.1 (2008)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'One day, a stranger visits Doug, Rin, and the others as they search for Tikki\'s mother. She delivers a letter from Tikki\'s mother, written twenty years ago. Released as 〜彼方からの伝言〜①.'
         ],
@@ -835,13 +675,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Message%20from%20Beyond~%20Vol.1%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI A Message from Beyond' }],
         ] },
-        { key: 'Final Fantasy XI ~A Message from Beyond~ Vol.2', releaseDate: '2008-10', chronoOrder: 4400, recommendedOrder: 632, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
+        { chronoOrder: 4400, recommendedOrder: 632, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         title: 'Final Fantasy XI ~A Message from Beyond~ Vol.2', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2008-10',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~A Message from Beyond~ Vol.2 (2008)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Responding to a rescue request from Tikki\'s mother, what awaited them at the designated location was the \'Forbidden Mouth\'. Through it, Dag and his companions were transported to the past of Vana\'diel. Released as 〜彼方からの伝言〜②.'
         ],
@@ -852,13 +688,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Message%20from%20Beyond~%20Vol.2%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI A Message from Beyond' }],
         ] },
-        { key: 'Final Fantasy XI ~A Message from Beyond~ Vol.3', releaseDate: '2008-12', chronoOrder: 4500, recommendedOrder: 633, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
+        { chronoOrder: 4500, recommendedOrder: 633, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '255p;A6',
         title: 'Final Fantasy XI ~A Message from Beyond~ Vol.3', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2008-12',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~A Message from Beyond~ Vol.3 (2008)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'While searching for Tikki\'s mother, Euphelin, Doug and Lynn\'s party are transported to the past of Vana\'diel amid the Crystal War. Released as 〜彼方からの伝言〜③. May also be known as ~Messages from Afar~.'
         ],
@@ -869,13 +701,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Message%20from%20Beyond~%20Vol.3%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI A Message from Beyond' }],
         ] },
-        { key: 'Final Fantasy XI ~Anthology~', releaseDate: '2009-02', chronoOrder: 4600, recommendedOrder: 634, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '311p;A6',
+        { chronoOrder: 4600, recommendedOrder: 634, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '311p;A6',
         title: 'Final Fantasy XI ~Anthology~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2009-02',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Anthology~ (2009)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Anthology of three short stories. Full title: "An Anthology of Short Stories: A Great Adventure for Everyone!!" Released as アンソロジー短編集みんなで大冒険！！.'
         ],
@@ -886,13 +714,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Anthology~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Anthology of Short Stories' }],
         ] },
-        { key: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.1', releaseDate: '2009-05', chronoOrder: 4700, recommendedOrder: 635, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '282p;A6',
+        { chronoOrder: 4700, recommendedOrder: 635, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '282p;A6',
         title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.1', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2009-05',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.1 (2009)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Ron, a modestly skilled adventurer raised in Windurst, is dragged by his childhood friend Shari into searching for the Book of Gods, said to be in the hands of the thief Nanaa Mihgo. Released as ザルカバードの鼓動①.'
         ],
@@ -903,13 +727,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Heartbeat%20of%20Xarcabard~%20Vol.1%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Heartbeat of Xarcabard' }],
         ] },
-        { key: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.2', releaseDate: '2009-08', chronoOrder: 4800, recommendedOrder: 636, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '247p;A6',
+        { chronoOrder: 4800, recommendedOrder: 636, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '247p;A6',
         title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.2', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2009-08',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.2 (2009)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Ron and the others find the Book of Gods, but it has become a blank White Book, and the Duke of Jeuno tasks them with investigating a mysterious magicite as fears grow that the Shadow Lord is returning. Released as ザルカバードの鼓動②.'
         ],
@@ -920,13 +740,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Heartbeat%20of%20Xarcabard~%20Vol.2%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Heartbeat of Xarcabard' }],
         ] },
-        { key: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.3', releaseDate: '2009-11', chronoOrder: 4900, recommendedOrder: 637, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '283p;A6',
+        { chronoOrder: 4900, recommendedOrder: 637, tags: ['Optional', 'Spin-off', 'Short Stories'], mediaType: 'Book', length: '283p;A6',
         title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.3', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', title_date: '2009-11',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.3 (2009)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'The Shadow Lord is returning. Ron and Shari bring this news back to Windurst, scattering the party as Savvy, Duga, and Riccorocco head to their own nations. The nations decide to entrust the defeat of the Shadow Lord to an elite force of adventurers, bringing them together once more. Released as ザルカバードの鼓動③.'
         ],
@@ -937,13 +753,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Heartbeat%20of%20Xarcabard~%20Vol.3%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI The Heartbeat of Xarcabard' }],
         ] },
-        { key: 'Final Fantasy XI ~Lightning Brigade Encyclopedia~', releaseDate: '2013-03', chronoOrder: 4950, recommendedOrder: 638, tags: ['Optional', 'Spin-off', 'Articles', 'Manga', 'Short Stories'], mediaType: 'Comic', length: '217p;AB', helpWanted: true,
+        { chronoOrder: 4950, recommendedOrder: 638, tags: ['Optional', 'Spin-off', 'Articles', 'Manga', 'Short Stories'], mediaType: 'Comic', length: '217p;AB', helpWanted: true,
         title: 'Final Fantasy XI ~Lightning Brigade Encyclopedia~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Lightning_Brigade', title_date: '2013-03',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Lightning Brigade Encyclopedia~ (2013)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Lightning_Brigade' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'Featuring stories and four original comics. Released as 電撃の旅団公式十年事典. May also be known as Final Fantasy XI ~Lightning Brigade Official Decennial Encyclopedia~.'
         ],
@@ -954,13 +766,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Lightning%20Brigade%20Encyclopedia~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Lightning Brigade Decennial Encyclopedia' }],
         ] },
-        { key: 'Final Fantasy XI ~Songs of the Endless Earth~', releaseDate: '2015-12', chronoOrder: 5100, recommendedOrder: 640, tags: ['Optional', 'Spin-off', 'YA Short Stories'], mediaType: 'Book', length: '287p;B6',
+        { chronoOrder: 5100, recommendedOrder: 640, tags: ['Optional', 'Spin-off', 'YA Short Stories'], mediaType: 'Book', length: '287p;B6',
         title: 'Final Fantasy XI ~Songs of the Endless Earth~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books', title_date: '2015-12',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Songs of the Endless Earth~ (2015)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'A month after the crisis of Escafication, Vana\'diel was slowly returning to normal. A sailing ship drifting along the South Ocean route encounters a colossal monster, marking the start of a new incident across Vana\'diel, Tavnazia, and Reisenjima. Released as 〜終わりなき大地の唄〜. May also be known as ~The Song of the Endless Land~.'
         ],
@@ -971,13 +779,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Songs%20of%20the%20Endless%20Earth~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Adventurer\'s Holiday' }],
         ] },
-        { key: 'Final Fantasy XI ~Minagawa Fumio Illustrations~', releaseDate: '2018-12', chronoOrder: 5150, recommendedOrder: 641, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic', length: '189p;K4', helpWanted: true,
+        { chronoOrder: 5150, recommendedOrder: 641, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic', length: '189p;K4', helpWanted: true,
         title: 'Final Fantasy XI ~Minagawa Fumio Illustrations~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Illustrations', title_date: '2018-12',
         subtitle: 'Comic',
-        parts: [
-          { label: 'Final Fantasy XI ~Minagawa Fumio Illustrations~ (2018)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Illustrations' },
-          { label: 'Comic', url: null, small: true },
-        ],
         description: [[
           { text: 'Includes a collection of manga for ' },
           { emText: 'XI' },
@@ -990,13 +794,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Minagawa%20Fumio%20Illustrations~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Minagawa Fumio Illustrations', ytSuffix: '' }],
         ] },
-        { key: 'Final Fantasy XI ~Aloha Iroha~', releaseDate: '2015-08-11', chronoOrder: 5050, recommendedOrder: 639, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic',
+        { chronoOrder: 5050, recommendedOrder: 639, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic',
         title: 'Final Fantasy XI ~Aloha Iroha~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha', title_date: '2015-08-11',
         subtitle: 'Comic',
-        parts: [
-          { label: 'Final Fantasy XI ~Aloha Iroha~ (2015)', url: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha' },
-          { label: 'Comic', url: null, small: true },
-        ],
         description: [
           'A series of four-panel manga based on Final Fantasy XI, following the story of Iroha, the main heroine of Rhapsodies of Vana\'diel. Known in Japan as Iroha de Gozaru.'
         ],
@@ -1005,13 +805,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'book', name: 'Manga', url: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha#External_links' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI ~Aloha Iroha~' }],
         ] },
-        { key: 'Final Fantasy XI ~Minstrel of Strange Tales: Replica Script~', releaseDate: '2024-02', chronoOrder: 5160, recommendedOrder: 642, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '96p;B5',
+        { chronoOrder: 5160, recommendedOrder: 642, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '96p;B5',
         title: 'Final Fantasy XI ~Minstrel of Strange Tales: Replica Script~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', title_date: '2024-02',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Minstrel of Strange Tales: Replica Script~ (2024)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'A replica script for the reading drama\'s five strange tales: "Mimiroon\'s Sparkling Great Adventure", "Go For It! Allied Forces of Altana: Extreme Survival", "Seaside Serpent Taro", "A Small Gift For A Small Friend", and "Black Night Butterfly". Released as 朗読劇 : 異聞のウタイビト : 複製台本. May also be known as Final Fantasy XI ~Reading Drama: Minstrel of Strange Tales: Replica Script~.'
         ],
@@ -1021,13 +817,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-translation', name: 'Fan translation (no results yet)', contentOpacity: 0.4, url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Minstrel%20of%20Strange%20Tales%3A%20Replica%20Script~%20translation' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Minstrel of Strange Tales', ytSuffix: '' }],
         ] },
-        { key: 'Final Fantasy XI ~Minstrel of Fantasies: Replica Script~', releaseDate: '2025-03', chronoOrder: 5170, recommendedOrder: 643, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '96p;B5',
+        { chronoOrder: 5170, recommendedOrder: 643, tags: ['Optional', 'Spin-off', 'Novel'], mediaType: 'Book', length: '96p;B5',
         title: 'Final Fantasy XI ~Minstrel of Fantasies: Replica Script~', title_url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', title_date: '2025-03',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy XI ~Minstrel of Fantasies: Replica Script~ (2025)', url: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books' },
-          { label: 'Book', url: null, small: true },
-        ],
         description: [
           'A replica script for the reading drama\'s stories of love and reunion across time and space: "Temple of the Heart\'s Secret" (a Star Sibyl story), "Girl of the Underworld" (an Aphmau story), "Blue Mage Blues" (a Blue Mage story), and "Memoirs of the Many-Headed Hydra -Memories of Heroes-" (a Hydra Squadron story). Released as 朗読劇 : 夢幻のウタイビト : 複製台本. May also be known as Final Fantasy XI ~Reading Drama: Minstrel of Fantasies: Replica Script~.'
         ],
@@ -1038,8 +830,6 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XI Minstrel of Fantasies', ytSuffix: '' }],
         ] },
         {
-          key: 'Final Fantasy Grandmasters',
-          releaseDate: '2015-09-30',
           chronoOrder: 5020,
           recommendedOrder: 700,
           tags: ['Optional', 'Spin-off', 'MMORPG', 'Mobile', 'Jobs', 'Active Time Battle', 'Terminated'],
@@ -1052,9 +842,6 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ],
 
           title: 'Final Fantasy Grandmasters', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Grandmasters', title_date: '2015-09-30',
-          parts: [
-            { label: 'Final Fantasy Grandmasters (2015)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Grandmasters' },
-          ],
 
           description: [[
             { text: "Tie-in with the " },
@@ -1075,17 +862,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ]
         },
         {
-          key: 'Final Fantasy XI: Braver',
-          releaseDate: '2021-07-10',
           chronoOrder: 1050,
           recommendedOrder: 700,
           tags: ['Optional', 'Unofficial fan project', 'RPG', '2D', 'Sprites', 'Alternate Universe', 'Free'],
           mediaType: 'Game',
 
           title: 'Final Fantasy XI: Braver', title_url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver', title_date: '2021-07-10',
-          parts: [
-            { label: 'Final Fantasy XI: Braver (2021)', url: 'https://mithrandir133.itch.io/final-fantasy-xi-braver' },
-          ],
 
           description: [[
             { text: 'Taking place roughly in the world of ' },

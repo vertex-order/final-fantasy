@@ -1,7 +1,5 @@
 window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 1000, recommendedOrder: 1000, title: 'Final Fantasy X', note: 'The first to feature voice acting and direct game sequels, the start of the PlayStation 2 era.', games: [
         {
-          key: 'Final Fantasy X',
-          releaseDate: '2001-07-19',
           chronoOrder: 0,
           recommendedOrder: 100,
           mainline: true,
@@ -11,10 +9,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
 
           title: 'Final Fantasy X', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_X', title_date: '2001-07-19',
           subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster', subtitle_date: 2016,
-          parts: [
-            { label: 'Final Fantasy X (2001)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X' },
-            { label: 'Remaster (2016)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster', small: true },
-          ],
 
           languages: [
             { value: 'JA', native: true, voice: true },
@@ -68,10 +62,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               {
                 title: 'Final Fantasy X', title_date: 2001,
                 subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster', subtitle_date: 2013,
-                parts: [
-                  { label: 'Final Fantasy X (2001)', url: null },
-                  { label: 'Remaster (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster', small: true },
-                ],
                 description: [[
                   { text: 'This remaster has enhanced 1080p graphics, soundtrack switch, cross-saves, and a Final Fantasy X -Will- audio drama. Also released as ' },
                   { emText: 'Final Fantasy X/X-2 HD Remaster' },
@@ -106,10 +96,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               {
                 title: 'Final Fantasy X', title_date: 2001,
                 subtitle: 'International', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise', subtitle_date: 2002,
-                parts: [
-                  { label: 'Final Fantasy X (2001)', url: null },
-                  { label: 'International (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise', small: true },
-                ],
                 description: [[
                   { text: 'Expert sphere grid mode, dark aeons, extra Penance fight. Includes the Eternal Calm video prequel to X-2 (2003). Included in the omnibus collection ' },
                   { emText: 'Final Fantasy X/X-2 Ultimate Box (JP; 2005)' },
@@ -145,8 +131,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           }
         },
         {
-          key: 'Final Fantasy X: Eternal Calm',
-          releaseDate: '2002-01-31',
           chronoOrder: 1000,
           recommendedOrder: 200,
           tags: ['Optional', 'Sequel', 'Video'],
@@ -154,10 +138,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
 
           title: 'Final Fantasy X: Eternal Calm', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise', title_date: '2002-01-31',
           subtitle: 'Remaster (2016) video', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster',
-          parts: [
-            { label: 'Final Fantasy X: Eternal Calm (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise' },
-            { label: 'Remaster (2016) video', url: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster', small: true },
-          ],
 
           languages: [
             { value: 'JA', native: true, voice: true },
@@ -206,10 +186,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
             extras: [
               {
                 subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster', subtitle_date: 2013,
-                parts: [
-                  { label: 'Final Fantasy X: Eternal Calm (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise' },
-                  { label: 'Remaster (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster', small: true },
-                ],
                 description: [[
                   { text: 'May be in 1080p. Included with ' },
                   { emText: 'X (2001) Remaster (2013)' },
@@ -226,10 +202,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               },
               {
                 subtitle: 'International', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise', subtitle_date: 2002,
-                parts: [
-                  { label: 'Final Fantasy X: Eternal Calm (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise' },
-                  { label: 'International (2002)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise', small: true },
-                ],
                 description: [[
                   { text: 'The original release. Included with ' },
                   { emText: 'X (2001) International (2002)' },
@@ -249,8 +221,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           }
         },
         {
-          key: 'Final Fantasy X-2',
-          releaseDate: '2003-03-13',
           chronoOrder: 2000,
           recommendedOrder: 300,
           tags: ['Sequel', 'Active Time Battle', 'Sphere Grids'],
@@ -259,10 +229,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
 
           title: 'Final Fantasy X-2', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2', title_date: '2003-03-13',
           subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitle_date: 2016,
-          parts: [
-            { label: 'Final Fantasy X-2 (2003)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2' },
-            { label: 'Remaster (2016)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', small: true },
-          ],
 
           languages: [
             { value: 'JA', native: true, voice: true },
@@ -317,10 +283,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
             extras: [
               {
                 subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitle_date: 2013,
-                parts: [
-                  { label: 'Final Fantasy X-2 (2003)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2' },
-                  { label: 'Remaster (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', small: true },
-                ],
                 description: [[
                   { text: 'This remaster has enhanced 1080p graphics, soundtrack switch, cross-saves, and a ' },
                   { emText: 'Final Fantasy X -Will-' },
@@ -354,10 +316,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               },
               {
                 subtitle: 'International', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitle_date: 2004,
-                parts: [
-                  { label: 'Final Fantasy X-2 (2003)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2' },
-                  { label: 'International (2004)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', small: true },
-                ],
                 description: [[
                   { text: 'Two new dresspheres, two new superbosses, and capture monsters and characters. Also includes ' },
                   { emText: 'X-2: Last Mission (2004)' },
@@ -395,8 +353,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           }
         },
         {
-          key: 'Final Fantasy X-2: Last Mission',
-          releaseDate: '2004-02-19',
           chronoOrder: 3000,
           recommendedOrder: 400,
           tags: ['Optional', 'Sequel', 'Bonus mission', 'Roguelike'],
@@ -405,10 +361,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
 
           title: 'Final Fantasy X-2: Last Mission', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2:_Last_Mission', title_date: '2004-02-19',
           subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitle_date: 2016,
-          parts: [
-            { label: 'Final Fantasy X-2: Last Mission (2004)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2:_Last_Mission' },
-            { label: 'Remaster (2016)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', small: true },
-          ],
 
           languages: [
             { value: 'JA', native: true, voice: true },
@@ -458,10 +410,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
             extras: [
               {
                 subtitle: 'Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitle_date: 2013,
-                parts: [
-                  { label: 'Final Fantasy X-2: Last Mission (2004)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2:_Last_Mission' },
-                  { label: 'Remaster (2013)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', small: true },
-                ],
                 description: [[
                   { text: 'This remaster has enhanced 1080p graphics and may include other bonuses from ' },
                   { emText: 'X-2 (2003) Remaster (2013)' },
@@ -480,10 +428,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
               },
               {
                 subtitle: 'International', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitle_date: 2004,
-                parts: [
-                  { label: 'Final Fantasy X-2: Last Mission (2004)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2:_Last_Mission' },
-                  { label: 'International (2004)', url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', small: true },
-                ],
                 description: [[
                   { text: 'The original release. Released as ' },
                   { emText: 'Final Fantasy X-2 International + Last Mission' },
@@ -501,8 +445,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
           }
         },
         {
-          key: 'Final Fantasy X-2.5',
-          releaseDate: '2013-12-26 10',
           chronoOrder: 4000,
           recommendedOrder: 500,
           tags: ['Optional', 'Sequel', 'Novel'],
@@ -510,10 +452,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
 
           title: 'Final Fantasy X-2.5', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~', title_date: '2013-12-26 10',
           subtitle: 'Book',
-          parts: [
-            { label: 'Final Fantasy X-2.5 (2013)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~' },
-            { label: 'Book', url: null, small: true },
-          ],
 
           description: [[
             { text: 'Starts off directly after ' },
@@ -533,8 +471,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
             ],
           ]
         },        {
-  key: 'Final Fantasy X -Will-',
-  releaseDate: '2013-12-26 20',
   chronoOrder: 5000,
   recommendedOrder: 600,
   tags: ['Optional', 'Sequel', 'Audio drama'],
@@ -543,10 +479,6 @@ window.__ffSeriesReg['X'] = { num: 'X', releaseDate: '2001-07-19', chronoOrder: 
 
   title: 'Final Fantasy X -Will-', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_-Will-', title_date: '2013-12-26 20',
   subtitle: 'audio drama',
-  parts: [
-    { label: 'Final Fantasy X -Will- (2013)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_-Will-' },
-    { label: 'audio drama', url: null, small: true },
-  ],
 
   languages: [
     { value: 'JA', native: true, voice: true },

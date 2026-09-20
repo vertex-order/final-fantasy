@@ -1,7 +1,5 @@
 window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrder: 300, recommendedOrder: 300, title: 'Final Fantasy III', note: 'It was 16 years until a 3D remake brought this series outside Japan, and a total of 31 years until the original pixel art version did.', games: [
         {
-          key: 'Final Fantasy III',
-          releaseDate: '1990-04-27',
           chronoOrder: 0,
           recommendedOrder: 100,
           mainline: true,
@@ -26,10 +24,6 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
 
           title: 'Final Fantasy III', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_III', title_date: '1990-04-27',
           subtitle: 'Pixel Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitle_date: 2021,
-          parts: [
-            { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
-            { label: 'Pixel Remaster (2021)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', small: true },
-          ],
 
           storeUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
 
@@ -111,10 +105,6 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             ],
 
             subtitle: '3D Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', subtitle_date: 2014,
-            parts: [
-              { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
-              { label: '3D Remaster (2014)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', small: true },
-            ],
 
             description: [[
               { text: 'This remake has 3D graphics in a cutesy character style, a reworked job system, and a new cast of playable characters. Released as ' },
@@ -138,10 +128,6 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             extras: [
               {
                 subtitle: '3D Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)#Ports', subtitle_date: 2011,
-                parts: [
-                  { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
-                  { label: '3D Remaster (2011)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)#Ports', small: true },
-                ],
                 description: [
                   'This port improves FMV framerate, music quality, and visuals, and reworks the Mognet sidequest chain to no longer require Wi-Fi.'
                 ],
@@ -156,10 +142,6 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
               },
               {
                 subtitle: '3D Remaster', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)#Ports', subtitle_date: 2012,
-                parts: [
-                  { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
-                  { label: '3D Remaster (2012)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)#Ports', small: true },
-                ],
                 description: [[
                   { text: 'This port adds auto-battle, a soundtrack toggle, a bonus Art Gallery and BGM player, and faster loading via Data Install.' },
                 ]],
@@ -171,10 +153,6 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
               },
               {
                 subtitle: '3D Remake', subtitle_url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', subtitle_date: 2006,
-                parts: [
-                  { label: 'Final Fantasy III (1990)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III' },
-                  { label: '3D Remake (2006)', url: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', small: true },
-                ],
                 description: [
                   'The original release of the 3D remake, introducing 3D graphics in a cutesy character style, a reworked job system, and a new cast of playable characters, as well as Mognet, a mail-based sidequest chain that is no longer functional in this version now that Nintendo Wi-Fi Connection has been discontinued.'
                 ],
@@ -187,15 +165,11 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             ]
           }
         },
-        { key: 'Legend of the Eternal Wind: from Final Fantasy III', releaseDate: '1991-01', chronoOrder: 500, recommendedOrder: 200, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic', length: '3 volumes',
+        { chronoOrder: 500, recommendedOrder: 200, tags: ['Optional', 'Alternate Universe', 'Manga'], mediaType: 'Comic', length: '3 volumes',
         languages: [{ value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/76171402' }, { value: 'EN', tip: 'English (fan translation)' }],
         rating: { scores: [{ kind: 'goodreads', score: 'NYR', url: 'https://www.goodreads.com/book/show/76171402' }] },
         title: 'Legend of the Eternal Wind: from Final Fantasy III', title_url: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori', title_date: '1991-01',
         subtitle: 'Comic',
-        parts: [
-          { label: 'Legend of the Eternal Wind: from Final Fantasy III (1991)', url: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori' },
-          { label: 'Comic', url: null, small: true },
-        ],
         description: [[
           { text: 'Adaptation of ' },
           { emText: 'Final Fantasy III (1990)' },
@@ -208,13 +182,9 @@ window.__ffSeriesReg['III'] = { num: 'III', releaseDate: '1990-04-27', chronoOrd
             { key: 'fan-translation', url: 'https://duckduckgo.com/?q=Y%C5%ABky%C5%AB%20no%20Kaze%20Densetsu%20Final%20Fantasy%20III%20Legend%20of%20the%20Eternal%20Wind%3A%20from%20Final%20Fantasy%20III%20translation&t=h_&ia=web' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Yūkyū no Kaze Densetsu Final Fantasy III Yori' }],
         ] },
-        { key: 'Final Fantasy I・II・III: Memory of Heroes ~III~', releaseDate: '2012-10-25', chronoOrder: 700, recommendedOrder: 300, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
+        { chronoOrder: 700, recommendedOrder: 300, tags: ['Optional', 'Short Stories'], mediaType: 'Book',
         title: 'Final Fantasy I・II・III: Memory of Heroes ~III~', title_url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', title_date: '2012-10-25',
         subtitle: 'Book',
-        parts: [
-          { label: 'Final Fantasy I・II・III: Memory of Heroes ~III~ (2012)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes' },
-          { label: 'Book', url: null, small: true },
-        ],
         languages: [
           { value: 'JA', native: true },
           { value: 'EN', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },

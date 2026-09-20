@@ -1,7 +1,5 @@
 window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder: 1450, recommendedOrder: 1450, title: 'Dimensions', note: 'An original mobile-first entry that paved the way for bringing most of the 2D franchise to mobile, without gacha and microtransactions.', games: [
         {
-          key: 'Final Fantasy Dimensions',
-          releaseDate: '2010-09-06',
           chronoOrder: 0,
           recommendedOrder: 100,
           tags: ['2D', 'RPG', 'Jobs', 'Active Time Battle', 'Single-player'],
@@ -9,9 +7,6 @@ window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder
           lengthParts: [{ value: '48h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '58h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '75½h', tip: 'Completionist' }],
 
           title: 'Final Fantasy Dimensions', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Dimensions', title_date: '2010-09-06',
-          parts: [
-            { label: 'Final Fantasy Dimensions (2010)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Dimensions' },
-          ],
 
           description: [[
             { text: 'Follows two parties, the Warriors of Light and the Warriors of Darkness, on their quest to reform their shattered world and foil the dark plans of the Avalon Empire.' },
@@ -39,8 +34,6 @@ window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder
           ]
         },
         {
-          key: 'Final Fantasy Dimensions II',
-          releaseDate: '2015-02-12',
           chronoOrder: 100,
           recommendedOrder: 200,
           tags: ['2D', 'RPG', 'Conditional Turn-Based Battle'],
@@ -48,9 +41,6 @@ window.__ffSeriesReg['DM'] = { num: 'DM', releaseDate: '2010-09-06', chronoOrder
           lengthParts: [{ value: '36h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '51½h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '79½h', tip: 'Completionist' }],
 
           title: 'Final Fantasy Dimensions II', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Dimensions_II', title_date: '2015-02-12',
-          parts: [
-            { label: 'Final Fantasy Dimensions II (2015)', url: 'https://wikipedia.org/wiki/Final_Fantasy_Dimensions_II' },
-          ],
 
           description: [[
             { text: 'A boy named Morrow meets a girl named Aemo who work together to save time and space, making friends from all time periods as they time travel. Along the way, they find Signet Crystals which allow them to summon monsters to their aid.' },
