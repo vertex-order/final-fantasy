@@ -1,6 +1,6 @@
-<!-- sources/final-fantasy-xiv-chronicles-of-light-volume-ii-2025.md (markdown) -->
+<!-- sources/final-fantasy-xiv-chronicles-of-light-vol-2-2025.md (markdown) -->
 
-# Final Fantasy XIV: Chronicles of Light, Volume II
+# Final Fantasy XIV: Chronicles of Light, Vol.2
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->

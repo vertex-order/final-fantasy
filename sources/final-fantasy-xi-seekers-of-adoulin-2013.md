@@ -1,13 +1,9 @@
-<!-- sources/final-fantasy-xi-online-chains-of-promathia-2004.md (markdown) -->
+<!-- sources/final-fantasy-xi-seekers-of-adoulin-2013.md (markdown) -->
 
-# Final Fantasy XI: Online: Chains of Promathia
+# Final Fantasy XI: Seekers of Adoulin
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
-
-## metacritic.com (Ratings)
-
-- https://www.metacritic.com/game/final-fantasy-xi-chains-of-promathia/
 
 ## wikipedia.org (Information)
 

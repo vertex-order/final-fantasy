@@ -1,6 +1,6 @@
-<!-- sources/echoes-of-the-fallen-2023.md (markdown) -->
+<!-- sources/final-fantasy-xvi-echoes-of-the-fallen-2023.md (markdown) -->
 
-# Echoes of the Fallen
+# Final Fantasy XVI: Echoes of the Fallen
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->

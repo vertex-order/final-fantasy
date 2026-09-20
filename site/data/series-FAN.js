@@ -103,7 +103,7 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
           [{ key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy renaissance' }],
         ] },
         {
-          title: 'Final Fantasy IV: The Novel',
+          title: 'Final Fantasy IV: The Novel ~Fan Project~',
           releaseDate: '2002-08-10',
           chronoOrder: 200,
           recommendedOrder: 500,

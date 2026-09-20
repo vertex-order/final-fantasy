@@ -1,9 +1,13 @@
-<!-- sources/final-fantasy-xi-online-seekers-of-adoulin-2013.md (markdown) -->
+<!-- sources/final-fantasy-xi-wings-of-the-goddess-2007.md (markdown) -->
 
-# Final Fantasy XI: Online: Seekers of Adoulin
+# Final Fantasy XI: Wings of the Goddess
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
+
+## metacritic.com (Ratings)
+
+- https://www.metacritic.com/game/final-fantasy-xi-wings-of-the-goddess/
 
 ## wikipedia.org (Information)
 

@@ -1,6 +1,6 @@
-<!-- sources/final-fantasy-xiv-lalafell-senseis-gonna-teach-ya-2017.md (markdown) -->
+<!-- sources/final-fantasy-xiv-lalafell-senseis-gonna-teach-ya-vol-1-2017.md (markdown) -->
 
-# Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~
+# Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~ Vol.1
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->

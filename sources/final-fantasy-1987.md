@@ -1,6 +1,6 @@
-<!-- sources/final-fantasy-i-1987.md (markdown) -->
+<!-- sources/final-fantasy-1987.md (markdown) -->
 
-# Final Fantasy I
+# Final Fantasy
 
 ## Amazon App Store (Platform)
 

@@ -1,9 +1,13 @@
-<!-- sources/final-fantasy-xi-online-rise-of-the-zilart-2003.md (markdown) -->
+<!-- sources/final-fantasy-xi-treasures-of-aht-urhgan-2006.md (markdown) -->
 
-# Final Fantasy XI: Online: Rise of the Zilart
+# Final Fantasy XI: Treasures of Aht Urhgan
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
+
+## metacritic.com (Ratings)
+
+- https://www.metacritic.com/game/final-fantasy-xi-treasures-of-aht-urhgan/
 
 ## wikipedia.org (Information)
 

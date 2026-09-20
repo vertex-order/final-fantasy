@@ -1,6 +1,6 @@
-<!-- sources/final-fantasy-xv-official-comic-anthology-2017.md (markdown) -->
+<!-- sources/final-fantasy-xv-anthology-vol-1-2017.md (markdown) -->
 
-# Final Fantasy XV Official Comic Anthology
+# Final Fantasy XV Anthology Vol. 1
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->

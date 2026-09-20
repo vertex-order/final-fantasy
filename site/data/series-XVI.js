@@ -41,7 +41,7 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrd
             { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy XVI' },
           ],
         ] },
-        { title: 'Echoes of the Fallen', releaseDate: '2023-12-07', chronoOrder: 1000, recommendedOrder: 110, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '3h', tip: 'Completionist' }],
+        { title: 'Final Fantasy XVI: Echoes of the Fallen', releaseDate: '2023-12-07', chronoOrder: 1000, recommendedOrder: 110, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '3h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy XVI: Echoes of the Fallen (2023)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates' },
           { label: 'DLC', url: null, small: true },
@@ -63,7 +63,7 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', releaseDate: '2023-06-22', chronoOrd
             { key: 'fan-playthrough', ytSearch: true, ytTitle: 'final fantasy XVI Echoes of the Fallen' },
           ],
         ] },
-        { title: 'The Rising Tide', releaseDate: '2024-04-18', chronoOrder: 2000, recommendedOrder: 120, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '4h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '9½h', tip: 'Completionist' }],
+        { title: 'Final Fantasy XVI: The Rising Tide', releaseDate: '2024-04-18', chronoOrder: 2000, recommendedOrder: 120, tags: ['Optional', 'DLC'], mediaType: 'Game', lengthParts: [{ value: '4h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '6h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '9½h', tip: 'Completionist' }],
         parts: [
           { label: 'Final Fantasy XVI: The Rising Tide (2024)', url: 'https://wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates' },
           { label: 'DLC', url: null, small: true },

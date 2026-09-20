@@ -1,13 +1,13 @@
-<!-- sources/final-fantasy-xv-episode-gladiolus-dlc-2017.md (markdown) -->
+<!-- sources/final-fantasy-xv-episode-prompto-2017.md (markdown) -->
 
-# Final Fantasy XV: Episode Gladiolus DLC
+# Final Fantasy XV: Episode Prompto
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/final-fantasy-xv-episode-gladiolus/
+- https://www.metacritic.com/game/final-fantasy-xv-episode-prompto/
 
 ## Playstation (Platform)
 

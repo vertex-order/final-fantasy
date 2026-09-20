@@ -1,6 +1,6 @@
-<!-- sources/the-rising-tide-2024.md (markdown) -->
+<!-- sources/final-fantasy-xvi-the-rising-tide-2024.md (markdown) -->
 
-# The Rising Tide
+# Final Fantasy XVI: The Rising Tide
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->

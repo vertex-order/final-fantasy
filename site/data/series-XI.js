@@ -61,7 +61,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ]
         },
         {
-          title: 'Final Fantasy XI: Online: Rise of the Zilart',
+          title: 'Final Fantasy XI: Rise of the Zilart',
           releaseDate: '2003-04-17',
           chronoOrder: 1000,
           recommendedOrder: 200,
@@ -95,7 +95,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ]
         },
         {
-          title: 'Final Fantasy XI: Online: Chains of Promathia',
+          title: 'Final Fantasy XI: Chains of Promathia',
           releaseDate: '2004-09-16',
           chronoOrder: 2000,
           recommendedOrder: 300,
@@ -131,7 +131,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ]
         },
         {
-          title: 'Final Fantasy XI: Online: Treasures of Aht Urhgan',
+          title: 'Final Fantasy XI: Treasures of Aht Urhgan',
           releaseDate: '2006-04-18',
           chronoOrder: 3000,
           recommendedOrder: 400,
@@ -167,7 +167,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ]
         },
         {
-          title: 'Final Fantasy XI: Online: Wings of the Goddess',
+          title: 'Final Fantasy XI: Wings of the Goddess',
           releaseDate: '2007-11-20',
           chronoOrder: 4000,
           recommendedOrder: 500,
@@ -203,7 +203,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', releaseDate: '2002-05-16', chronoOrder
           ]
         },
         {
-          title: 'Final Fantasy XI: Online: Seekers of Adoulin',
+          title: 'Final Fantasy XI: Seekers of Adoulin',
           releaseDate: '2013-03-27',
           chronoOrder: 5000,
           recommendedOrder: 600,

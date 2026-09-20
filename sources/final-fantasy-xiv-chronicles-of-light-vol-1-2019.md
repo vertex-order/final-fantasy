@@ -1,6 +1,6 @@
-<!-- sources/final-fantasy-xiv-chronicles-of-light-2019.md (markdown) -->
+<!-- sources/final-fantasy-xiv-chronicles-of-light-vol-1-2019.md (markdown) -->
 
-# Final Fantasy XIV: Chronicles of Light
+# Final Fantasy XIV: Chronicles of Light Vol.1
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->

@@ -1,13 +1,13 @@
-<!-- sources/final-fantasy-xv-episode-ignis-dlc-2017.md (markdown) -->
+<!-- sources/final-fantasy-xv-episode-gladiolus-2017.md (markdown) -->
 
-# Final Fantasy XV: Episode Ignis DLC
+# Final Fantasy XV: Episode Gladiolus
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/final-fantasy-xv-episode-ignis/
+- https://www.metacritic.com/game/final-fantasy-xv-episode-gladiolus/
 
 ## Playstation (Platform)
 

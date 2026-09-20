@@ -1,6 +1,6 @@
 window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrder: 1500, recommendedOrder: 1500, title: 'Final Fantasy XIV', note: 'The second MMO in the franchise, and its longest story by far — one overarching tale still unfolding through new content.', games: [
         {
-          title: 'Final Fantasy XIV: Online',
+          title: 'Final Fantasy XIV: Online ~1.0~',
           releaseDate: '2010-09-30',
           chronoOrder: 0,
           recommendedOrder: 100,
@@ -351,7 +351,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           [{ key: 'book', name: 'Official website', url: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes' }],
           [{ key: 'fan-recap', name: 'Fan story summaries (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Side_Stories#List_of_stories' }],
         ] },
-        { title: 'Final Fantasy XIV: Chronicles of Light', releaseDate: '2019-03-09', chronoOrder: 3800, recommendedOrder: 865, tags: ['Optional', 'Short Stories'], mediaType: 'Book', length: '222p; H', helpWanted: true,
+        { title: 'Final Fantasy XIV: Chronicles of Light Vol.1', releaseDate: '2019-03-09', chronoOrder: 3800, recommendedOrder: 865, tags: ['Optional', 'Short Stories'], mediaType: 'Book', length: '222p; H', helpWanted: true,
         parts: [
           { label: 'Final Fantasy XIV: Chronicles of Light Vol.1 (2022)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091850' },
           { label: 'Book', url: null, small: true },
@@ -373,7 +373,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           [{ key: 'book', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091850' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XIV: Chronicles of Light' }],
         ] },
-        { title: 'Final Fantasy XIV: Chronicles of Light, Volume II', releaseDate: '2025-10-07', chronoOrder: 6500, recommendedOrder: 870, tags: ['Optional', 'Short Stories'], mediaType: 'Book', length: '288p; H',
+        { title: 'Final Fantasy XIV: Chronicles of Light, Vol.2', releaseDate: '2025-10-07', chronoOrder: 6500, recommendedOrder: 870, tags: ['Optional', 'Short Stories'], mediaType: 'Book', length: '288p; H',
         parts: [
           { label: 'Final Fantasy XIV: Chronicles of Light, Vol.2 (2025)', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094196' },
           { label: 'Book', url: null, small: true },
@@ -414,7 +414,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', releaseDate: '2010-09-30', chronoOrd
           [{ key: 'book', name: 'Manga', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092352' }],
           [{ key: 'fan-recap', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy XIV: Eorzea Academy' }],
         ] },
-        { title: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~", releaseDate: '2017-08-26', chronoOrder: 3200, recommendedOrder: 875, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic',
+        { title: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~ Vol.1", releaseDate: '2017-08-26', chronoOrder: 3200, recommendedOrder: 875, tags: ['Optional', 'Spin-off', 'Manga'], mediaType: 'Comic',
         parts: [
           { label: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~ Vol.1 (2017)", url: 'https://www.kadokawa.co.jp/product/321705000172/' },
           { label: 'Comic', url: null, small: true },

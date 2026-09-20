@@ -1,13 +1,9 @@
-<!-- sources/final-fantasy-xi-online-wings-of-the-goddess-2007.md (markdown) -->
+<!-- sources/final-fantasy-xi-rise-of-the-zilart-2003.md (markdown) -->
 
-# Final Fantasy XI: Online: Wings of the Goddess
+# Final Fantasy XI: Rise of the Zilart
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
-
-## metacritic.com (Ratings)
-
-- https://www.metacritic.com/game/final-fantasy-xi-wings-of-the-goddess/
 
 ## wikipedia.org (Information)
 
