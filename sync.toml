@@ -23,7 +23,7 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "91c9cec21c517e9c94f9c814df1caafedde96efb"
+ref = "4cd52c220893d1c98da47b36fdb6ec9e4972ec07"
 paths = [
   "sync.list.toml",
   "docs/subtitle.md",
@@ -43,7 +43,6 @@ paths = [
   "site/data/catalogs.js",
   "site/BackToTop.dc.html",
   "site/HelpWanted.dc.html",
-  "site/DescRun.dc.html",
   "site/EntryByline.dc.html",
   "site/EntryTitleLinks.dc.html",
   "site/ExtrasToggle.dc.html",
@@ -54,6 +53,7 @@ paths = [
   "site/InPageControls.dc.html",
   "site/LanguageTag.dc.html",
   "site/LengthDisplay.dc.html",
+  "site/TextSpan.dc.html",
   "site/MediaEntry.dc.html",
   "site/Metadata.dc.html",
   "site/page.dc.html",
@@ -108,7 +108,7 @@ paths = [
 
 [subscribe.platforms]
 repo = "vertex-order/platforms"
-ref = "f42e070cc5cacb22726080a524c02dcdd46e69ce"
+ref = "4048594f4cf970a2b6f3076cc98c7d7595758ffc"
 paths = [
   "site/PlatformIcon.dc.html",
   "site/data/platform-icons.js",

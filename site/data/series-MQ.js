@@ -1,50 +1,27 @@
 // schema: series.schema.json
-window.__ffSeriesReg['MQ'] = { num: 'MQ', releaseDate: '1992-10-05', chronoOrder: 350, recommendedOrder: 350, title: 'Mystic Quest', note: 'A spin-off designed as a simplified turn-based RPG for new players, and the first Final Fantasy game released in Europe.', games: [
-        {
-          chronoOrder: 0,
-          recommendedOrder: 100,
-          tags: ['Optional', 'First-time players', 'RPG', 'Action-adventure'],
-          mediaType: 'Game',
-          lengthParts: [{ value: '14h', tip: 'Main + Extra', sep: true, sepChar: ' / ' }, { value: '14½h', tip: 'Completionist' }],
+window.__ffSeriesReg['MQ'] = { num: 'MQ', chronoOrder: 350, recommendedOrder: 350, title: 'Mystic Quest', note: 'A spin-off designed as a simplified turn-based RPG for new players, and the first Final Fantasy game released in Europe.', media: [
+  { releases: [
+    {
+      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, tags: ['Optional', 'First-time players', 'RPG', 'Action-adventure'],
+      title: 'Final Fantasy Mystic Quest', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Mystic_Quest', titleDate: '1992-10-05',
+      languages: [
+        { value: 'JA', native: true },
+        { value: 'EN' },
+        { value: 'FR' },
+        { value: 'DE' },
+      ],
+      description: [
+        'Benjamin journeys to reclaim the stolen crystals and restore balance to the world.',
+        [{ text: 'Released in some regions as ' }, { emText: 'Mystic Quest Legend' }, { emText: ' (EU)', tip: 'Europe', helpStyle: 'cursor: help;' }, { text: ' and ' }, { emText: 'Final Fantasy USA: Mystic Quest' }, { emText: ' (JP)', tip: 'Japan', helpStyle: 'cursor: help;' }, { text: '. Not to be confused with ' }, { emText: 'Mystic Quest' }, { emText: ' (1991;' }, { emText: ' EU', tip: 'Europe', helpStyle: 'cursor: help;' }, { emText: ';' }, { emText: ' GB', tip: 'Game Boy', helpStyle: 'cursor: help;' }, { emText: ')' }, { text: ' by Square which was spun off into the unrelated series ' }, { emLinkText: 'Mana', emLinkUrl: 'https://wikipedia.org/wiki/Mana_(series)' }, { text: '.' }],
+      ],
+      length: [{ value: '14h', tip: 'Main + Extra', join: ' / ' }, { value: '14½h', tip: 'Completionist' }],
+      platforms: [
+        { key: 'nintendo-snes', noUrl: true, paren: 'Super Famicom; Physical' },
+        { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Mystic Quest', noResults: true },
+        { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy Mystic Quest' },
+        { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Mystic Quest' },
+      ],
+    },
+  ] },
+]};
 
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-            { value: 'FR' },
-            { value: 'DE' },
-          ],
-
-          title: 'Final Fantasy Mystic Quest', title_url: 'https://wikipedia.org/wiki/Final_Fantasy_Mystic_Quest', title_date: '1992-10-05',
-
-          description: [
-            'Benjamin journeys to reclaim the stolen crystals and restore balance to the world.',
-            [
-              { text: 'Released in some regions as ' },
-              { emText: 'Mystic Quest Legend' },
-              { emText: ' (EU)', tip: 'Europe', helpStyle: 'cursor: help;' },
-              { text: ' and ' },
-              { emText: 'Final Fantasy USA: Mystic Quest' },
-              { emText: ' (JP)', tip: 'Japan', helpStyle: 'cursor: help;' },
-              { text: '. Not to be confused with ' },
-              { emText: 'Mystic Quest' },
-              { emText: ' (1991;' },
-              { emText: ' EU', tip: 'Europe', helpStyle: 'cursor: help;' },
-              { emText: ';' },
-              { emText: ' GB', tip: 'Game Boy', helpStyle: 'cursor: help;' },
-              { emText: ')' },
-              { text: ' by Square which was spun off into the unrelated series ' },
-              { emLinkText: 'Mana', emLinkUrl: 'https://wikipedia.org/wiki/Mana_(series)' },
-              { text: '.' },
-            ]
-          ],
-
-          platformGroups: [
-            [{ key: 'nintendo-snes', name: 'Super Nintendo Entertainment System (Super Famicom; Physical)', noUrl: true }],
-            [
-              { key: 'fan-movie', paren: 'Youtube; no results yet', contentOpacity: 0.4, ytSearch: true, ytTitle: 'Final Fantasy Mystic Quest' },
-              { key: 'fan-recap', ytSearch: true, ytTitle: 'Final Fantasy Mystic Quest' },
-              { key: 'fan-playthrough', ytSearch: true, ytTitle: 'Final Fantasy Mystic Quest' },
-            ],
-          ]
-        },
-      ]};
