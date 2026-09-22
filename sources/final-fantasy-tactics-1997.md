@@ -37,6 +37,7 @@
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Ivalice_Alliance -- dates*, platforms*, tags, versions -- accessed 2026-09-22
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Branded_subseries -- dates*, platforms* -- accessed 2026-09-22
+- https://wikipedia.org/wiki/Ivalice -- story -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_Tactics
 - https://wikipedia.org/wiki/Final_Fantasy_Tactics#The_Ivalice_Chronicles
 - https://wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions

@@ -44,6 +44,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder:
     mediaDesc: [
       'Seven years after XIV: Online (2010), you must fend off a reignited invasion from the Garlean Empire in the world of Eorzea. From the base game, continue your adventure in 6 expansions (listed separately), with more expected to release.',
       [{ text: 'Sometimes referred to simply as ' }, { emText: 'Final Fantasy XIV: Online' }, { text: ', or ' }, { emText: 'Version 2.0' }, { text: '.' }],
+      [{ text: 'A campaign dubbed ' }, { emText: '"Return to Ivalice"' }, { text: ' ties into the ' }, { emText: 'Ivalice' }, { text: ' subseries, with characters based on those from ' }, { emText: 'XII (2006)' }, { text: ' and ' }, { emText: 'Tactics (1997)' }, { text: '.' }],
     ],
     primary: {
       tags: ['Sequel', 'MMORPG', 'Monthly subscription'],

@@ -15,6 +15,7 @@
 
 ## wikipedia.org (Information)
 
+- https://wikipedia.org/wiki/Ivalice -- story -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Vagrant_Story
 
 ## Decisions
