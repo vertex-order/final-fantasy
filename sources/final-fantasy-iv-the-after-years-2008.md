@@ -17,6 +17,11 @@
 
 - https://apps.apple.com/app/ff-iv-the-after-years/id6504608150
 
+## finalfantasy.fandom.com (Information)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV:_The_After_Years_version_differences -- versions*, platforms* -- accessed 2026-09-22
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV:_The_After_Years_version_differences
+
 ## Square Enix (Publisher, Developer)
 
 - https://www.jp.square-enix.com/ff4tay/en/

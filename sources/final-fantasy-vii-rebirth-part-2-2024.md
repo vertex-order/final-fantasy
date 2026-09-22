@@ -9,6 +9,11 @@
 
 - https://store.epicgames.com/p/final-fantasy-vii-rebirth
 
+## finalfantasy.fandom.com (Information)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Rebirth_version_differences -- versions*, platforms* -- accessed 2026-09-22
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_version_differences
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/final-fantasy-vii-rebirth/

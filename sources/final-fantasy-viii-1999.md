@@ -13,6 +13,11 @@
 
 - https://apps.apple.com/app/final-fantasy-viii-remastered/id1326740784
 
+## finalfantasy.fandom.com (Information)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_VIII_version_differences -- versions*, platforms* -- accessed 2026-09-22
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_differences
+
 ## GOG (Platform)
 
 - https://www.gog.com/en/game/final_fantasy_viii_remastered
