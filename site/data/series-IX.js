@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 900, title: 'Final Fantasy IX', note: 'A retrospective entry, returning to the medieval style of the earlier games.', media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: [],
-      title: 'Final Fantasy IX', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IX', titleDate: '2000-07-07',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy IX', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IX', titleDate: '2000-07-07',
+    primary: {
+      mainline: true, tags: [],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IX#Release', subtitleDate: 2016,
       languages: [
         { value: 'JA', native: true },
@@ -42,35 +43,38 @@ window.__ffSeriesReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 90
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy IX' },
       ],
     },
-    {
-      versions: [
-        {
-          label: 'Final Fantasy IX (2000)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_IX',
-          description: [
-            'The original release.',
-          ],
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-            { value: '…?' },
-          ],
-          helpWanted: true,
-          platforms: [
-            { key: 'playstation1', paren: 'Physical', noUrl: true },
-            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
-            { key: 'playstation3', paren: 'PSone compatibility; Digital' },
-            { key: 'playstation-vita', paren: 'Digital' },
-            { key: 'playstation-portable', paren: 'Digital' },
-          ],
-        },
-      ],
-    },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Tie-in', 'Picture Book'],
-      title: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky", titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094738', titleDate: '2026-05-19',
+    alts: [
+      {
+        versions: [
+          {
+            label: 'Final Fantasy IX (2000)',
+            url: 'https://wikipedia.org/wiki/Final_Fantasy_IX',
+            description: [
+              'The original release.',
+            ],
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN' },
+              { value: '…?' },
+            ],
+            helpWanted: true,
+            platforms: [
+              { key: 'playstation1', paren: 'Physical', noUrl: true },
+              { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
+              { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+              { key: 'playstation-vita', paren: 'Digital' },
+              { key: 'playstation-portable', paren: 'Digital' },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+  {
+    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 300,
+    title: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky", titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094738', titleDate: '2026-05-19',
+    primary: {
+      tags: ['Optional', 'Tie-in', 'Picture Book'],
       subtitle: 'Book',
       length: '48p',
       description: [
@@ -90,6 +94,5 @@ window.__ffSeriesReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 90
         { key: 'fan-movie', search: 'youtube', term: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky reading", searchSuffix: '' },
       ],
     },
-  ] },
+  },
 ]};
-

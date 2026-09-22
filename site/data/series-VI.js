@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['VI'] = { num: 'VI', chronoOrder: 600, recommendedOrder: 600, title: 'Final Fantasy VI', note: 'The last mainline entry to feature 2D sprite graphics, especially outside of mobile games.', media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['Active time battles'],
-      title: 'Final Fantasy VI', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI', titleDate: '1994-04-02',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy VI', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI', titleDate: '1994-04-02',
+    primary: {
+      mainline: true, tags: ['Active time battles'],
       subtitle: 'Pixel Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitleDate: 2022,
       profileUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
       languages: [
@@ -49,91 +50,94 @@ window.__ffSeriesReg['VI'] = { num: 'VI', chronoOrder: 600, recommendedOrder: 60
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy VI' },
       ],
     },
-    {
-      versions: [
-        {
-          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitleDate: 2014,
-          description: [
-            'This remaster has high-resolution graphics, redesigned sprites, movement in eight directions, and auto-battle.',
-          ],
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-            { value: 'FR' },
-            { value: 'DE' },
-            { value: 'IT' },
-            { value: 'PT-PT' },
-            { value: 'RU' },
-            { value: 'ES-ES' },
-          ],
-          platforms: [
-            { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/', paren: 'PC' },
-            { key: 'android2', terminated: true, noUrl: true },
-            { key: 'apple', terminated: true, noUrl: true },
-          ],
-        },
-        {
-          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitleDate: 2006,
-          description: [
-            'This edit has slightly improved visuals and a new translation, plus four new espers, two new areas, and three new spells.',
-            ['Released as ', { emText: 'Final Fantasy VI Advance (2006)' }, ' and in the omnibus collection ', { emText: 'Finest Fantasy for Advance (2006)' }, '.'],
-          ],
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-            { value: 'DE' },
-            { value: 'FR' },
-            { value: 'IT' },
-            { value: 'ES' },
-          ],
-          platforms: [
-            { key: 'nintendo-game-boy-advance', paren: 'Physical' },
-          ],
-        },
-        {
-          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitleDate: 1999,
-          description: [
-            ['This edit adds opening and ending ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, 's, screen-transition effects, and "memo" save feature. May have slow menus.'],
-            ['Released in omnibus collection ', { emText: 'Final Fantasy Collection' }, { hintText: ' (JP)', tip: 'Japan' }, ' (1999), and ', { emText: 'Final Fantasy Anthology' }, { hintText: ' (NA)', tip: 'North America' }, ' (1999).'],
-          ],
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-            { value: '…?' },
-          ],
-          helpWanted: true,
-          platforms: [
-            { key: 'playstation3', paren: 'PSone compatibility; Digital' },
-            { key: 'playstation2', paren: 'PSone compatibility' },
-            { key: 'playstation1', paren: 'Physical' },
-            { key: 'playstation-vita', paren: 'Digital' },
-            { key: 'playstation-portable', paren: 'Digital' },
-          ],
-        },
-        {
-          label: 'Final Fantasy VI (1994)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_VI',
-          description: [
-            [{ text: 'The original release. Early releases outside Japan on SNES and the non-Japan SNES Classic release were titled ' }, { emText: 'Final Fantasy III (Non-Japan, 1994)' }, { text: '.' }],
-          ],
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-          ],
-          platforms: [
-            { key: 'nintendo-snes-classic-edition' },
-            { key: 'nintendo-snes', paren: 'Super Famicom; Physical' },
-            { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console' },
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
-          ],
-        },
-      ],
-    },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 500, recommendedOrder: 500, tags: ['Optional', 'Alternate Universe', 'Non-canon', 'Fan-made', 'Short Stories', 'Doujinshi'],
-      title: "Figaro's Wedding: Tales from Desert", titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Figaro_no_Kekkon:_Tales_from_Desert', titleDate: '1994',
+    alts: [
+      {
+        versions: [
+          {
+            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitleDate: 2014,
+            description: [
+              'This remaster has high-resolution graphics, redesigned sprites, movement in eight directions, and auto-battle.',
+            ],
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN' },
+              { value: 'FR' },
+              { value: 'DE' },
+              { value: 'IT' },
+              { value: 'PT-PT' },
+              { value: 'RU' },
+              { value: 'ES-ES' },
+            ],
+            platforms: [
+              { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/', paren: 'PC' },
+              { key: 'android2', terminated: true, noUrl: true },
+              { key: 'apple', terminated: true, noUrl: true },
+            ],
+          },
+          {
+            subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitleDate: 2006,
+            description: [
+              'This edit has slightly improved visuals and a new translation, plus four new espers, two new areas, and three new spells.',
+              ['Released as ', { emText: 'Final Fantasy VI Advance (2006)' }, ' and in the omnibus collection ', { emText: 'Finest Fantasy for Advance (2006)' }, '.'],
+            ],
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN' },
+              { value: 'DE' },
+              { value: 'FR' },
+              { value: 'IT' },
+              { value: 'ES' },
+            ],
+            platforms: [
+              { key: 'nintendo-game-boy-advance', paren: 'Physical' },
+            ],
+          },
+          {
+            subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitleDate: 1999,
+            description: [
+              ['This edit adds opening and ending ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, 's, screen-transition effects, and "memo" save feature. May have slow menus.'],
+              ['Released in omnibus collection ', { emText: 'Final Fantasy Collection' }, { hintText: ' (JP)', tip: 'Japan' }, ' (1999), and ', { emText: 'Final Fantasy Anthology' }, { hintText: ' (NA)', tip: 'North America' }, ' (1999).'],
+            ],
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN' },
+              { value: '…?' },
+            ],
+            helpWanted: true,
+            platforms: [
+              { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+              { key: 'playstation2', paren: 'PSone compatibility' },
+              { key: 'playstation1', paren: 'Physical' },
+              { key: 'playstation-vita', paren: 'Digital' },
+              { key: 'playstation-portable', paren: 'Digital' },
+            ],
+          },
+          {
+            label: 'Final Fantasy VI (1994)',
+            url: 'https://wikipedia.org/wiki/Final_Fantasy_VI',
+            description: [
+              [{ text: 'The original release. Early releases outside Japan on SNES and the non-Japan SNES Classic release were titled ' }, { emText: 'Final Fantasy III (Non-Japan, 1994)' }, { text: '.' }],
+            ],
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN' },
+            ],
+            platforms: [
+              { key: 'nintendo-snes-classic-edition' },
+              { key: 'nintendo-snes', paren: 'Super Famicom; Physical' },
+              { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console' },
+              { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+  {
+    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 500,
+    title: "Figaro's Wedding: Tales from Desert", titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Figaro_no_Kekkon:_Tales_from_Desert', titleDate: '1994',
+    primary: {
+      tags: ['Optional', 'Alternate Universe', 'Non-canon', 'Fan-made', 'Short Stories', 'Doujinshi'],
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true },
@@ -154,6 +158,5 @@ window.__ffSeriesReg['VI'] = { num: 'VI', chronoOrder: 600, recommendedOrder: 60
         },
       ],
     },
-  ] },
+  },
 ]};
-

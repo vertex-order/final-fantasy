@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['WD'] = { num: 'WD', chronoOrder: 1580, recommendedOrder: 1580, title: 'World', note: 'Light hearted spin-off mixing chibi art and humor, aimed at a younger audience with plenty of throwbacks to previous titles.', media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, tags: ['RPG', 'Single-player', 'Active Time Battle'],
-      title: 'World of Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/World_of_Final_Fantasy', titleDate: '2016-10-25',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'World of Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/World_of_Final_Fantasy', titleDate: '2016-10-25',
+    primary: {
+      tags: ['RPG', 'Single-player', 'Active Time Battle'],
       subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy_Maxima', subtitleDate: 2018,
       description: [
         [{ text: 'Takes place in Grymoire, a world of coexisting Final Fantasy locations. The story follows siblings Lann and Reynn, who possess the power to tame monsters called Mirages, and are sent to Grymoire to reclaim their lost memories and thwart the plans of the Bahamutian Army.' }],
@@ -44,35 +45,38 @@ window.__ffSeriesReg['WD'] = { num: 'WD', chronoOrder: 1580, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'World of Final Fantasy Maxima' },
       ],
     },
-    {
-      versions: [
-        {
-          description: [
-            [{ text: 'The original release.' }],
-          ],
-          languages: [
-            { value: 'JA', native: true, voice: true },
-            { value: 'EN', voice: true },
-            { value: 'FR', textOnly: true },
-            { value: 'IT', textOnly: true },
-            { value: 'DE', textOnly: true },
-            { value: 'ES-ES', textOnly: true },
-            { value: 'KO', textOnly: true },
-            { value: 'ZH-TW', textOnly: true },
-          ],
-          platforms: [
-            { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/' },
-            { key: 'playstation4', paren: 'Digital', noUrl: true },
-            { key: 'playstation-vita', paren: 'Digital', noUrl: true },
-          ],
-        },
-      ],
-    },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200, tags: ['Optional', 'Spin-off', 'Monster-taming RPG', 'Multiplayer', 'Co-op', 'Mobile', 'In-app purchases', 'Terminated'],
-      title: 'World of Final Fantasy: Meli-Melo', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy:_Meli-Melo', titleDate: '2017-12-12',
+    alts: [
+      {
+        versions: [
+          {
+            description: [
+              [{ text: 'The original release.' }],
+            ],
+            languages: [
+              { value: 'JA', native: true, voice: true },
+              { value: 'EN', voice: true },
+              { value: 'FR', textOnly: true },
+              { value: 'IT', textOnly: true },
+              { value: 'DE', textOnly: true },
+              { value: 'ES-ES', textOnly: true },
+              { value: 'KO', textOnly: true },
+              { value: 'ZH-TW', textOnly: true },
+            ],
+            platforms: [
+              { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/' },
+              { key: 'playstation4', paren: 'Digital', noUrl: true },
+              { key: 'playstation-vita', paren: 'Digital', noUrl: true },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+  {
+    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
+    title: 'World of Final Fantasy: Meli-Melo', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy:_Meli-Melo', titleDate: '2017-12-12',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Monster-taming RPG', 'Multiplayer', 'Co-op', 'Mobile', 'In-app purchases', 'Terminated'],
       description: [
         [{ text: 'Similar gameplay to ' }, { emText: 'World of Final Fantasy (2016)' }, { text: ', the game is now terminated.' }],
       ],
@@ -87,6 +91,5 @@ window.__ffSeriesReg['WD'] = { num: 'WD', chronoOrder: 1580, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'World of Final Fantasy Meli-Melo' },
       ],
     },
-  ] },
+  },
 ]};
-

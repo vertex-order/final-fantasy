@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200, title: 'Final Fantasy II', note: 'For the first 14 years, this series was only available in Japan.', media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['Usage system'],
-      title: 'Final Fantasy II', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II', titleDate: '1988-12-17',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy II', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II', titleDate: '1988-12-17',
+    primary: {
+      mainline: true, tags: ['Usage system'],
       subtitle: 'Pixel Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitleDate: 2021,
       profileUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
       languages: [
@@ -49,127 +50,130 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy II' },
       ],
     },
-    {
-      versions: [
-        {
-          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2012,
-          description: [
-            [{ text: 'This mobile edit reworks the UI for touch controls, reduces music quality, and removes the Art Gallery and Item Collection. Includes the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign.' }],
-          ],
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-            { value: '…?' },
-          ],
-          helpWanted: true,
-          length: [{ value: '5h', tip: 'Soul of Rebirth Main Story', join: ' / ' }, { value: '6h', tip: 'Soul of Rebirth Main + Extra', join: ' / ' }, { value: '7½h', tip: 'Soul of Rebirth Completionist' }],
-          platforms: [
-            { key: 'android2', terminated: true, paren: 'Digital' },
-          ],
-        },
-        {
-          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2007,
-          description: [
-            [{ text: "This edit adds a bonus dungeon and refines Remaster (2002)'s bonus content. Released as " }, { emText: 'Final Fantasy II Anniversary Edition (2007)' }, { text: '. Includes the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign.' }],
-          ],
-          helpWanted: true,
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-            { value: '…?' },
-          ],
-          platforms: [
-            { key: 'apple', terminated: true, paren: 'Digital' },
-            { key: 'playstation-portable', paren: 'Physical' },
-          ],
-        },
-        {
-          subtitle: 'Mobile', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2005,
-          description: [
-            [{ text: 'This mobile port is based on Remake (2004), with cutscenes, portraits, and bonus content removed. Does not include the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign. Released as ' }, { emText: 'Final Fantasy Mobile (2005)' }, { text: '.' }],
-          ],
-          languages: [
-            { value: 'JA', native: true },
-          ],
-          platforms: [
-            { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'Digital' },
-          ],
-        },
-        {
-          title: 'Final Fantasy II', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II', titleDate: 1998,
-          subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2004,
-          description: [
-            [{ text: 'This remake redraws cutesy sprites, reworks the storyline, and updates terminology. Released in omnibus ' }, { emText: 'Final Fantasy I & II: Dawn of Souls (2004)' }, { text: '. Introduces the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign.' }],
-          ],
-          helpWanted: true,
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-            { value: '…?' },
-          ],
-          platforms: [
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
-            { key: 'nintendo-game-boy-advance', paren: 'Physical' },
-          ],
-        },
-        {
-          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2002,
-          description: [
-            [{ text: 'This remaster reworks graphics, adds a CGI opening cutscene, monster database, and art gallery. May have slow menus. Released in omnibus ' }, { emText: 'Final Fantasy Origins (2002)' }, { text: '.' }],
-          ],
-          helpWanted: true,
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-            { value: '…?' },
-          ],
-          platforms: [
-            { key: 'playstation3', paren: 'Digital' },
-            { key: 'playstation2', paren: 'PSone compatibility' },
-            { key: 'playstation1', paren: 'Physical' },
-            { key: 'playstation-vita', paren: 'Digital' },
-            { key: 'playstation-portable', paren: 'Digital' },
-          ],
-        },
-        {
-          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2001,
-          description: [
-            'This remaster overhauls visuals and sound, and adds new cutscenes, auto-targeting, a dash button, and quicksave.',
-          ],
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN', tip: 'English (Fan Translation) (RPGONE 2002)' },
-          ],
-          platforms: [
-            { key: 'wonderswan', paren: 'Physical; Japan Only' },
-          ],
-        },
-        {
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN', tip: 'English (Fan Translation) (Demiforce 1998; Chaos Rush 2020)' },
-            { value: 'ES', tip: 'Spanish (Fan Translation) (Butz Klauser 2005)' },
-            { value: 'FR', tip: 'French (Fan Translation) (Terminus Traduction 2003)' },
-            { value: 'PT', tip: 'Portuguese (Fan Translation) (CBT 2000)' },
-            { value: 'SV', tip: 'Swedish (Fan Translation) (Cyndeline Translations 2007)' },
-          ],
-          description: [
-            [{ text: 'The original release. Release edits may include slight graphical or translation tweaks. On the ' }, { tipText: 'FC', tip: 'Nintendo Famicom' }, { jpTag: true }, { text: ', included in the omnibus release ' }, { emText: 'Final Fantasy I-II (1994)' }, { text: '.' }],
-          ],
-          platforms: [
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
-            { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console' },
-            { key: 'nintendo-fc', paren: 'Physical; Japan Only' },
-            { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
-          ],
-        },
-      ],
-    },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 500, recommendedOrder: 300, tags: ['Optional', 'Alternate Universe', 'Novel'],
-      title: "Final Fantasy II Nightmare's Labyrinth", titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB', titleDate: '1989-03-20',
+    alts: [
+      {
+        versions: [
+          {
+            subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2012,
+            description: [
+              [{ text: 'This mobile edit reworks the UI for touch controls, reduces music quality, and removes the Art Gallery and Item Collection. Includes the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign.' }],
+            ],
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN' },
+              { value: '…?' },
+            ],
+            helpWanted: true,
+            length: [{ value: '5h', tip: 'Soul of Rebirth Main Story', join: ' / ' }, { value: '6h', tip: 'Soul of Rebirth Main + Extra', join: ' / ' }, { value: '7½h', tip: 'Soul of Rebirth Completionist' }],
+            platforms: [
+              { key: 'android2', terminated: true, paren: 'Digital' },
+            ],
+          },
+          {
+            subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2007,
+            description: [
+              [{ text: "This edit adds a bonus dungeon and refines Remaster (2002)'s bonus content. Released as " }, { emText: 'Final Fantasy II Anniversary Edition (2007)' }, { text: '. Includes the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign.' }],
+            ],
+            helpWanted: true,
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN' },
+              { value: '…?' },
+            ],
+            platforms: [
+              { key: 'apple', terminated: true, paren: 'Digital' },
+              { key: 'playstation-portable', paren: 'Physical' },
+            ],
+          },
+          {
+            subtitle: 'Mobile', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2005,
+            description: [
+              [{ text: 'This mobile port is based on Remake (2004), with cutscenes, portraits, and bonus content removed. Does not include the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign. Released as ' }, { emText: 'Final Fantasy Mobile (2005)' }, { text: '.' }],
+            ],
+            languages: [
+              { value: 'JA', native: true },
+            ],
+            platforms: [
+              { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'Digital' },
+            ],
+          },
+          {
+            title: 'Final Fantasy II', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II', titleDate: 1998,
+            subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2004,
+            description: [
+              [{ text: 'This remake redraws cutesy sprites, reworks the storyline, and updates terminology. Released in omnibus ' }, { emText: 'Final Fantasy I & II: Dawn of Souls (2004)' }, { text: '. Introduces the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign.' }],
+            ],
+            helpWanted: true,
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN' },
+              { value: '…?' },
+            ],
+            platforms: [
+              { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+              { key: 'nintendo-game-boy-advance', paren: 'Physical' },
+            ],
+          },
+          {
+            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2002,
+            description: [
+              [{ text: 'This remaster reworks graphics, adds a CGI opening cutscene, monster database, and art gallery. May have slow menus. Released in omnibus ' }, { emText: 'Final Fantasy Origins (2002)' }, { text: '.' }],
+            ],
+            helpWanted: true,
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN' },
+              { value: '…?' },
+            ],
+            platforms: [
+              { key: 'playstation3', paren: 'Digital' },
+              { key: 'playstation2', paren: 'PSone compatibility' },
+              { key: 'playstation1', paren: 'Physical' },
+              { key: 'playstation-vita', paren: 'Digital' },
+              { key: 'playstation-portable', paren: 'Digital' },
+            ],
+          },
+          {
+            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2001,
+            description: [
+              'This remaster overhauls visuals and sound, and adds new cutscenes, auto-targeting, a dash button, and quicksave.',
+            ],
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN', tip: 'English (Fan Translation) (RPGONE 2002)' },
+            ],
+            platforms: [
+              { key: 'wonderswan', paren: 'Physical; Japan Only' },
+            ],
+          },
+          {
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN', tip: 'English (Fan Translation) (Demiforce 1998; Chaos Rush 2020)' },
+              { value: 'ES', tip: 'Spanish (Fan Translation) (Butz Klauser 2005)' },
+              { value: 'FR', tip: 'French (Fan Translation) (Terminus Traduction 2003)' },
+              { value: 'PT', tip: 'Portuguese (Fan Translation) (CBT 2000)' },
+              { value: 'SV', tip: 'Swedish (Fan Translation) (Cyndeline Translations 2007)' },
+            ],
+            description: [
+              [{ text: 'The original release. Release edits may include slight graphical or translation tweaks. On the ' }, { tipText: 'FC', tip: 'Nintendo Famicom' }, { jpTag: true }, { text: ', included in the omnibus release ' }, { emText: 'Final Fantasy I-II (1994)' }, { text: '.' }],
+            ],
+            platforms: [
+              { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+              { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console' },
+              { key: 'nintendo-fc', paren: 'Physical; Japan Only' },
+              { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+  {
+    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 300,
+    title: "Final Fantasy II Nightmare's Labyrinth", titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB', titleDate: '1989-03-20',
+    primary: {
+      tags: ['Optional', 'Alternate Universe', 'Novel'],
       subtitle: 'Book',
       length: '281p',
       languages: [
@@ -191,11 +195,12 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy II Muma no Meikyū', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 620, recommendedOrder: 410, tags: ['Optional', 'Alternate Universe', 'Gamebook'],
-      title: 'Final Fantasy II: Dragon Treasures', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Hih%C5%8D_no_Dragon', titleDate: '1988-12',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 620, recommendedOrder: 410,
+    title: 'Final Fantasy II: Dragon Treasures', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Hih%C5%8D_no_Dragon', titleDate: '1988-12',
+    primary: {
+      tags: ['Optional', 'Alternate Universe', 'Gamebook'],
       subtitle: 'Book',
       length: '283p',
       languages: [
@@ -213,11 +218,12 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy II: Dragon Treasures', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 630, recommendedOrder: 415, tags: ['Optional', 'Side-story', 'Gamebook'],
-      title: 'Final Fantasy II: Journey to Victory', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi', titleDate: '1988',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 630, recommendedOrder: 415,
+    title: 'Final Fantasy II: Journey to Victory', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi', titleDate: '1988',
+    primary: {
+      tags: ['Optional', 'Side-story', 'Gamebook'],
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true },
@@ -232,11 +238,12 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy II: Journey to Victory', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Comic', chronoOrder: 600, recommendedOrder: 400, tags: ['Optional', 'Alternate Universe', 'Manga', 'Incomplete'],
-      title: 'Final Fantasy II ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)#Behind_the_scenes', titleDate: '1989-12',
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 600, recommendedOrder: 400,
+    title: 'Final Fantasy II ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)#Behind_the_scenes', titleDate: '1989-12',
+    primary: {
+      tags: ['Optional', 'Alternate Universe', 'Manga', 'Incomplete'],
       subtitle: 'Comic',
       length: '~60p',
       languages: [
@@ -252,11 +259,12 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy II manga', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 700, recommendedOrder: 450, tags: ['Optional', 'Short Stories'],
-      title: 'Final Fantasy I・II・III: Memory of Heroes ~II~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', titleDate: '2012-10-25',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 700, recommendedOrder: 450,
+    title: 'Final Fantasy I・II・III: Memory of Heroes ~II~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', titleDate: '2012-10-25',
+    primary: {
+      tags: ['Optional', 'Short Stories'],
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true },
@@ -281,6 +289,5 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
         },
       ],
     },
-  ] },
+  },
 ]};
-

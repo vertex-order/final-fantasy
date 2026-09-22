@@ -2,10 +2,11 @@
 window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400, title: 'Final Fantasy IV', note: [
   [{ text: 'The first Final Fantasy to be made in glorious 16-bit graphics, initially during the ' }, { tipText: 'SNES', tip: 'Super Nintendo Entertainment System' }, { text: ' era.' }],
 ], media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['Active time battles'],
-      title: 'Final Fantasy IV', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV', titleDate: '1991-07-19',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy IV', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV', titleDate: '1991-07-19',
+    primary: {
+      mainline: true, tags: ['Active time battles'],
       subtitle: 'Pixel Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitleDate: 2021,
       languages: [
         { value: 'JA', native: true },
@@ -152,84 +153,87 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
         },
       ],
     },
-    {
-      subtitle: '3D Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)', subtitleDate: 2014,
-      label: 'Final Fantasy IV (2007, 3D Remake)',
-      length: '30½h / 39h / 73h',
-      languages: [
-        { value: 'JA', native: true, voice: true },
-        { value: 'EN', voice: true },
-        { value: 'FR', textOnly: true },
-        { value: 'DE', textOnly: true },
-        { value: 'IT', textOnly: true },
-        { value: 'KO', textOnly: true },
-        { value: 'PT-BR', textOnly: true },
-        { value: 'RU', textOnly: true },
-        { value: 'ZH-CN', textOnly: true },
-        { value: 'ES-ES', textOnly: true },
-        { value: 'TH', textOnly: true },
-        { value: 'ZH-TW', textOnly: true },
-      ],
-      profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-iv',
-      description: [
-        'This remake has 3D graphics, full voice acting, an Augment ability system for learning extra skills, and new scenes fleshing out character backstories. Supports 21:9+ widescreen.',
-        ['Also known as ', { emText: 'Final Fantasy IV (3D REMAKE)+' }, '.'],
-      ],
-      platformsUrl: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/',
-      ratings: [
-        { score: '89', url: 'https://www.metacritic.com/game/final-fantasy-iv-3d-remake/', key: 'metacritic' },
-        { score: '7.4', url: 'https://www.metacritic.com/game/final-fantasy-iv-3d-remake/', key: 'metacritic-user' },
-        { score: 'VP', url: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/', key: 'steam' },
-      ],
-      platforms: [
-        { key: 'windows', url: null, noUrl: true },
-        { key: 'gog', paren: 'PC', url: 'https://www.gog.com/en/game/final_fantasy_iv_3d_remake' },
-        { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/' },
-        { key: 'apple-arcade', url: 'https://apps.apple.com/app/final-fantasy-iv-3d-remake/id6504607951' },
-      ],
-      versions: [
-        {
-          subtitle: '3D Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)#Ports', subtitleDate: 2012,
-          description: [
-            'This port reworks the dual-screen interface into a single screen, improves visuals and audio, and adds cloud saves and achievements, but removes the Whyt minigames.',
-          ],
-          languages: [
-            { value: 'JA', native: true, voice: true },
-            { value: 'EN', voice: true },
-            { value: 'FR', textOnly: true },
-            { value: 'DE', textOnly: true },
-            { value: 'IT', textOnly: true },
-            { value: 'ES-ES', textOnly: true },
-          ],
-          platforms: [
-            { key: 'apple', paren: 'Digital' },
-            { key: 'android2', paren: 'Digital' },
-          ],
-        },
-        {
-          subtitle: '3D Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)', subtitleDate: 2007,
-          description: [
-            'The original 3D remake release. Uses the DS’s touch screen and dual-screen interface; enemies are noticeably tougher than in the 2D versions.',
-          ],
-          languages: [
-            { value: 'JA', native: true, voice: true },
-            { value: 'EN', voice: true },
-            { value: 'FR', textOnly: true },
-            { value: 'DE', textOnly: true },
-            { value: 'IT', textOnly: true },
-            { value: 'ES-ES', textOnly: true },
-          ],
-          platforms: [
-            { key: 'nintendo-ds', paren: 'Physical' },
-          ],
-        },
-      ],
-    },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Spin-off', 'Novel'],
-      title: 'Final Fantasy IV ~Novel~ Vol.1', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2008-12-25',
+    alts: [
+      {
+        subtitle: '3D Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)', subtitleDate: 2014,
+        label: 'Final Fantasy IV (2007, 3D Remake)',
+        length: '30½h / 39h / 73h',
+        languages: [
+          { value: 'JA', native: true, voice: true },
+          { value: 'EN', voice: true },
+          { value: 'FR', textOnly: true },
+          { value: 'DE', textOnly: true },
+          { value: 'IT', textOnly: true },
+          { value: 'KO', textOnly: true },
+          { value: 'PT-BR', textOnly: true },
+          { value: 'RU', textOnly: true },
+          { value: 'ZH-CN', textOnly: true },
+          { value: 'ES-ES', textOnly: true },
+          { value: 'TH', textOnly: true },
+          { value: 'ZH-TW', textOnly: true },
+        ],
+        profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-iv',
+        description: [
+          'This remake has 3D graphics, full voice acting, an Augment ability system for learning extra skills, and new scenes fleshing out character backstories. Supports 21:9+ widescreen.',
+          ['Also known as ', { emText: 'Final Fantasy IV (3D REMAKE)+' }, '.'],
+        ],
+        platformsUrl: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/',
+        ratings: [
+          { score: '89', url: 'https://www.metacritic.com/game/final-fantasy-iv-3d-remake/', key: 'metacritic' },
+          { score: '7.4', url: 'https://www.metacritic.com/game/final-fantasy-iv-3d-remake/', key: 'metacritic-user' },
+          { score: 'VP', url: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/', key: 'steam' },
+        ],
+        platforms: [
+          { key: 'windows', url: null, noUrl: true },
+          { key: 'gog', paren: 'PC', url: 'https://www.gog.com/en/game/final_fantasy_iv_3d_remake' },
+          { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/' },
+          { key: 'apple-arcade', url: 'https://apps.apple.com/app/final-fantasy-iv-3d-remake/id6504607951' },
+        ],
+        versions: [
+          {
+            subtitle: '3D Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)#Ports', subtitleDate: 2012,
+            description: [
+              'This port reworks the dual-screen interface into a single screen, improves visuals and audio, and adds cloud saves and achievements, but removes the Whyt minigames.',
+            ],
+            languages: [
+              { value: 'JA', native: true, voice: true },
+              { value: 'EN', voice: true },
+              { value: 'FR', textOnly: true },
+              { value: 'DE', textOnly: true },
+              { value: 'IT', textOnly: true },
+              { value: 'ES-ES', textOnly: true },
+            ],
+            platforms: [
+              { key: 'apple', paren: 'Digital' },
+              { key: 'android2', paren: 'Digital' },
+            ],
+          },
+          {
+            subtitle: '3D Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)', subtitleDate: 2007,
+            description: [
+              'The original 3D remake release. Uses the DS’s touch screen and dual-screen interface; enemies are noticeably tougher than in the 2D versions.',
+            ],
+            languages: [
+              { value: 'JA', native: true, voice: true },
+              { value: 'EN', voice: true },
+              { value: 'FR', textOnly: true },
+              { value: 'DE', textOnly: true },
+              { value: 'IT', textOnly: true },
+              { value: 'ES-ES', textOnly: true },
+            ],
+            platforms: [
+              { key: 'nintendo-ds', paren: 'Physical' },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+  {
+    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 150,
+    title: 'Final Fantasy IV ~Novel~ Vol.1', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2008-12-25',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Novel'],
       subtitle: 'Book',
       description: [
         'The first of a two-volume novelization of Final Fantasy IV (1991).',
@@ -246,26 +250,29 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy IV ~Novel~ Vol.1', noResults: true },
       ],
     },
-    {
-      title: 'Final Fantasy IV: The Novel ~Fan Project~', titleUrl: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel', titleDate: 2002,
-      label: 'Final Fantasy IV: The Novel ~Fan Project~ (2002)',
-      url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel',
-      description: [
-        'Fan novelization of Final Fantasy IV (1991) 3D Remake (2007) and IV: The After Years (2008). This is the story of Cecil Harvey, a dark knight whose journey for redemption draws himself, his best friend Kain and Rosa into a dangerous battle for their planet.',
-      ],
-      length: '27 chapters',
-      languages: [
-        { value: 'EN' },
-      ],
-      platforms: [
-        { key: 'book', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' },
-      ],
-    },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 510, recommendedOrder: 151, tags: ['Optional', 'Spin-off', 'Novel'],
-      title: 'Final Fantasy IV ~Novel~ Vol.2', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2009',
+    alts: [
+      {
+        title: 'Final Fantasy IV: The Novel ~Fan Project~', titleUrl: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel', titleDate: 2002,
+        label: 'Final Fantasy IV: The Novel ~Fan Project~ (2002)',
+        url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel',
+        description: [
+          'Fan novelization of Final Fantasy IV (1991) 3D Remake (2007) and IV: The After Years (2008). This is the story of Cecil Harvey, a dark knight whose journey for redemption draws himself, his best friend Kain and Rosa into a dangerous battle for their planet.',
+        ],
+        length: '27 chapters',
+        languages: [
+          { value: 'EN' },
+        ],
+        platforms: [
+          { key: 'book', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' },
+        ],
+      },
+    ],
+  },
+  {
+    mediaType: 'Book', chronoOrder: 510, recommendedOrder: 151,
+    title: 'Final Fantasy IV ~Novel~ Vol.2', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2009',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Novel'],
       subtitle: 'Book',
       description: [
         'The second of a two-volume novelization of Final Fantasy IV (1991).',
@@ -282,11 +289,12 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy IV ~Novel~ Vol.2', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200, tags: ['Optional', 'Sequel'],
-      title: 'Final Fantasy IV: Interlude', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_Complete_Collection', titleDate: '2011-03-24',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200,
+    title: 'Final Fantasy IV: Interlude', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_Complete_Collection', titleDate: '2011-03-24',
+    primary: {
+      tags: ['Optional', 'Sequel'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -309,11 +317,12 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
         { key: 'playstation-portable', noUrl: true, paren: 'Physical' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300, tags: ['Optional', 'Sequel', 'Episodic', 'Active time battles'],
-      title: 'Final Fantasy IV: The After Years', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', titleDate: '2008-02-18',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300,
+    title: 'Final Fantasy IV: The After Years', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', titleDate: '2008-02-18',
+    primary: {
+      tags: ['Optional', 'Sequel', 'Episodic', 'Active time battles'],
       subtitle: 'Remaster', subtitleDate: 2011,
       languages: [
         { value: 'JA', native: true },
@@ -361,37 +370,40 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
         },
       ],
     },
-    {
-      subtitle: '3D Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', subtitleDate: 2013,
-      label: 'Final Fantasy IV: The After Years (2013, 3D Remake)',
-      description: [
-        'This remake carries over 3D graphics from Final Fantasy IV 3D Remake, revamps the Band mechanic, removes the level cap, and adds four new Lunar superbosses. All versions support cloud saves.',
-      ],
-      profileUrl: 'https://www.jp.square-enix.com/ff4tay/en/',
-      languages: [
-        { value: 'EN' },
-        { value: 'FR' },
-        { value: 'DE' },
-        { value: 'IT' },
-        { value: 'PT-BR' },
-        { value: 'RU' },
-        { value: 'ES-ES' },
-      ],
-      ratings: [
-        { label: 'Steam', score: 'Mixed', url: 'https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/' },
-      ],
-      platforms: [
-        { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/' },
-        { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FF4AY_GP' },
-        { key: 'apple', url: 'https://apps.apple.com/app/ff-iv-the-after-years/id683029090' },
-        { key: 'apple-arcade', url: 'https://apps.apple.com/app/ff-iv-the-after-years/id6504608150' },
-      ],
-    },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 2500, recommendedOrder: 350, tags: ['Optional', 'Spin-off', 'Novel'],
-      title: 'Final Fantasy IV: The After ~Novel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2009-03-26',
+    alts: [
+      {
+        subtitle: '3D Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', subtitleDate: 2013,
+        label: 'Final Fantasy IV: The After Years (2013, 3D Remake)',
+        description: [
+          'This remake carries over 3D graphics from Final Fantasy IV 3D Remake, revamps the Band mechanic, removes the level cap, and adds four new Lunar superbosses. All versions support cloud saves.',
+        ],
+        profileUrl: 'https://www.jp.square-enix.com/ff4tay/en/',
+        languages: [
+          { value: 'EN' },
+          { value: 'FR' },
+          { value: 'DE' },
+          { value: 'IT' },
+          { value: 'PT-BR' },
+          { value: 'RU' },
+          { value: 'ES-ES' },
+        ],
+        ratings: [
+          { label: 'Steam', score: 'Mixed', url: 'https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/' },
+        ],
+        platforms: [
+          { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/' },
+          { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FF4AY_GP' },
+          { key: 'apple', url: 'https://apps.apple.com/app/ff-iv-the-after-years/id683029090' },
+          { key: 'apple-arcade', url: 'https://apps.apple.com/app/ff-iv-the-after-years/id6504608150' },
+        ],
+      },
+    ],
+  },
+  {
+    mediaType: 'Book', chronoOrder: 2500, recommendedOrder: 350,
+    title: 'Final Fantasy IV: The After ~Novel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2009-03-26',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Novel'],
       subtitle: 'Book',
       description: [
         'A novelization of Final Fantasy IV: The After Years (2008).',
@@ -409,6 +421,5 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy IV: The After ~Novel~', noResults: true },
       ],
     },
-  ] },
+  },
 ]};
-

@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['DM'] = { num: 'DM', chronoOrder: 1450, recommendedOrder: 1450, title: 'Dimensions', note: 'An original mobile-first entry that paved the way for bringing most of the 2D franchise to mobile, without gacha and microtransactions.', media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, tags: ['2D', 'RPG', 'Jobs', 'Active Time Battle', 'Single-player'],
-      title: 'Final Fantasy Dimensions', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Dimensions', titleDate: '2010-09-06',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy Dimensions', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Dimensions', titleDate: '2010-09-06',
+    primary: {
+      tags: ['2D', 'RPG', 'Jobs', 'Active Time Battle', 'Single-player'],
       description: [
         [{ text: 'Follows two parties, the Warriors of Light and the Warriors of Darkness, on their quest to reform their shattered world and foil the dark plans of the Avalon Empire.' }],
         [{ text: 'Originally released episodically in chapters, and using the title ' }, { emText: 'Final Fantasy Legends: Warriors of Light and Darkness' }, { text: ' in Japan, but unrelated to ' }, { emText: 'The Final Fantasy Legend (1989)' }, { text: ' from the SaGa series.' }],
@@ -30,11 +31,12 @@ window.__ffSeriesReg['DM'] = { num: 'DM', chronoOrder: 1450, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Dimensions' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200, tags: ['2D', 'RPG', 'Conditional Turn-Based Battle'],
-      title: 'Final Fantasy Dimensions II', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Dimensions_II', titleDate: '2015-02-12',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
+    title: 'Final Fantasy Dimensions II', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Dimensions_II', titleDate: '2015-02-12',
+    primary: {
+      tags: ['2D', 'RPG', 'Conditional Turn-Based Battle'],
       description: [
         [{ text: 'A boy named Morrow meets a girl named Aemo who work together to save time and space, making friends from all time periods as they time travel. Along the way, they find Signet Crystals which allow them to summon monsters to their aid.' }],
         [{ text: 'Originally released as ' }, { emText: 'Final Fantasy Legends: Crystal of Space-Time' }, { text: ' and ' }, { emText: 'Final Fantasy Legends II' }, { text: ' in Japan, but unrelated to ' }, { emText: 'The Final Fantasy Legend (1989)' }, { text: ' from the SaGa series.' }],
@@ -56,6 +58,5 @@ window.__ffSeriesReg['DM'] = { num: 'DM', chronoOrder: 1450, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Dimensions II' },
       ],
     },
-  ] },
+  },
 ]};
-

@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['MQ'] = { num: 'MQ', chronoOrder: 350, recommendedOrder: 350, title: 'Mystic Quest', note: 'A spin-off designed as a simplified turn-based RPG for new players, and the first Final Fantasy game released in Europe.', media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, tags: ['Optional', 'First-time players', 'RPG', 'Action-adventure'],
-      title: 'Final Fantasy Mystic Quest', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Mystic_Quest', titleDate: '1992-10-05',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy Mystic Quest', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Mystic_Quest', titleDate: '1992-10-05',
+    primary: {
+      tags: ['Optional', 'First-time players', 'RPG', 'Action-adventure'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -22,6 +23,5 @@ window.__ffSeriesReg['MQ'] = { num: 'MQ', chronoOrder: 350, recommendedOrder: 35
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Mystic Quest' },
       ],
     },
-  ] },
+  },
 ]};
-

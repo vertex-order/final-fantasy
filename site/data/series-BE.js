@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1550, title: 'Brave Exvius', note: 'A gacha mobile world remade into a standalone story driven turn-based RPG with modern pixel art. Incorporates original elements with existing titles, including other franchises altogether. Can be considered a bit of an alternate universe mashup spin-off.', media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, tags: ['Turn-based RPG', 'Single-player'],
-      title: 'Final Fantasy Resonance', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Resonance', titleDate: '2026-10-22',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy Resonance', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Resonance', titleDate: '2026-10-22',
+    primary: {
+      tags: ['Turn-based RPG', 'Single-player'],
       description: [
         [{ text: 'Rain, Lasswell, and Fina set out to protect the remaining crystals across the world after the Earth Crystal is destroyed by Veritas of the Dark.' }],
         [{ text: 'An adaptation of ' }, { emText: 'Brave Exvius (2015)' }, { text: "'s first story arc, incorporating elements and characters from other Final Fantasy titles as well as outside franchises. Graphics are in HD-2D." }],
@@ -35,11 +36,12 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Resonance', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 110, tags: ['Optional', 'Mobile', 'Turn-based RPG', 'Gacha', 'Terminated'],
-      title: 'Final Fantasy Brave Exvius', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Brave_Exvius', titleDate: '2015-10-22',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 110,
+    title: 'Final Fantasy Brave Exvius', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Brave_Exvius', titleDate: '2015-10-22',
+    primary: {
+      tags: ['Optional', 'Mobile', 'Turn-based RPG', 'Gacha', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -62,11 +64,12 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Brave Exvius' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Comic', chronoOrder: 50, recommendedOrder: 150, tags: ['Optional', 'Manga'],
-      title: 'Final Fantasy Brave Exvius Rikodoki!', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki!', titleDate: '2018-07-25',
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 50, recommendedOrder: 150,
+    title: 'Final Fantasy Brave Exvius Rikodoki!', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki!', titleDate: '2018-07-25',
+    primary: {
+      tags: ['Optional', 'Manga'],
       subtitle: 'Comic',
       length: '144p',
       description: [
@@ -82,11 +85,12 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Brave Exvius Rikodoki!', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200, tags: ['Optional', 'Spin-off', 'Clicker', 'Terminated'],
-      title: 'Final Fantasy Brave Exvius Tap!', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Tap!', titleDate: '2017-09-08',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
+    title: 'Final Fantasy Brave Exvius Tap!', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Tap!', titleDate: '2017-09-08',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Clicker', 'Terminated'],
       description: [
         'A clicker or incremental game.',
       ],
@@ -98,11 +102,12 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Brave Exvius Tap', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: -1000, recommendedOrder: 300, tags: ['Optional', 'Prequel', 'Tactical RPG', 'Mobile', 'Terminated'],
-      title: 'War of the Visions: Final Fantasy Brave Exvius', titleUrl: 'https://wikipedia.org/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius', titleDate: '2019-11-14',
+  },
+  {
+    mediaType: 'Game', chronoOrder: -1000, recommendedOrder: 300,
+    title: 'War of the Visions: Final Fantasy Brave Exvius', titleUrl: 'https://wikipedia.org/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius', titleDate: '2019-11-14',
+    primary: {
+      tags: ['Optional', 'Prequel', 'Tactical RPG', 'Mobile', 'Terminated'],
       description: [
         [{ text: 'War breaks out between five rival nations on Lapis in the distant past of ' }, { emText: 'Brave Exvius (2015)' }, { text: '.' }],
       ],
@@ -121,6 +126,5 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'War of the Visions Final Fantasy Brave Exvius' },
       ],
     },
-  ] },
+  },
 ]};
-
