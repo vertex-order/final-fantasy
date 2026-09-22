@@ -16,4 +16,8 @@
 
 - https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090006
 
+## wikipedia.org (Information)
+
+- https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media -- story, platforms -- accessed 2026-09-22
+
 ## Decisions

@@ -26,6 +26,7 @@
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series -- dates*, platforms* -- accessed 2026-09-22
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Bundled_releases -- dates, platforms -- accessed 2026-09-22
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Branded_subseries -- dates*, platforms* -- accessed 2026-09-22
+- https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Titles -- story, platforms -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_XIII
 - https://wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise
 

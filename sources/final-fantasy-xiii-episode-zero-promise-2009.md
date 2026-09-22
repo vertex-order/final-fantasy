@@ -17,6 +17,10 @@
 - https://www.goodreads.com/book/show/10152719-final-fantasy-xiii
 - https://www.goodreads.com/book/show/36257508-final-fantasy-xiii
 
+## wikipedia.org (Information)
+
+- https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media -- story, platforms -- accessed 2026-09-22
+
 ## youtube.com (Information)
 
 - https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20audiobook

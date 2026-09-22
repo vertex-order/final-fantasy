@@ -18,4 +18,8 @@
 - https://www.goodreads.com/book/show/42945374-final-fantasy-type-0-el-verdugo-de-hielo-1
 - https://www.goodreads.com/book/show/43411516-final-fantasy-reishiki-gaiden-hyoken-no-shinigami---vol-1-gangan-comics
 
+## wikipedia.org (Information)
+
+- https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media -- story, platforms -- accessed 2026-09-22
+
 ## Decisions
