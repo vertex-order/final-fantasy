@@ -13,4 +13,8 @@
 
 - https://duckduckgo.com/?q=Final%20Fantasy%3A%20Unlimited%20Twin%20Bonds%20translation
 
+## wikipedia.org (Information)
+
+- https://wikipedia.org/wiki/Final_Fantasy:_Unlimited#Printed -- dates, story -- accessed 2026-09-22
+
 ## Decisions
