@@ -17,4 +17,8 @@
 
 - https://www.metacritic.com/game/final-fantasy-portal-app/
 
+## wikipedia.org (Information)
+
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Other_games -- dates*, platforms*, tags -- accessed 2026-09-22
+
 ## Decisions

@@ -53,25 +53,6 @@ window.__ffSeriesReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 1
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 150, recommendedOrder: 250,
-    title: 'Theatrhythm Dragon Quest', titleUrl: 'https://wikipedia.org/wiki/Theatrhythm_Dragon_Quest', titleDate: '2015-03-26',
-    mediaDesc: [
-      [{ text: 'Part of the Theatrhythm series but not Final Fantasy related, it instead focuses on the Dragon Quest franchise also by Square Enix. Elements from this game would later make their way back into ' }, { emText: 'Theatrhythm Final Bar Line (2023)' }, { text: '.' }],
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Rhythm', 'Single-player'],
-      languages: [
-        { value: 'JA', native: true },
-        { value: 'EN', tip: 'English (fan translation)' },
-      ],
-      platforms: [
-        { key: 'fan-playthrough', search: 'youtube', term: 'Theatrhythm Dragon Quest' },
-        { key: 'nintendo-3ds', jpTag: true, noUrl: true },
-        { key: 'fan-translation', search: 'duckduckgo', term: 'Theatrhythm Dragon Quest', noResults: true },
-      ],
-    },
-  },
-  {
     mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300,
     title: 'Theatrhythm Final Fantasy All-Star Carnival', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy_All-Star_Carnival', titleDate: '2016-09-27',
     mediaDesc: [

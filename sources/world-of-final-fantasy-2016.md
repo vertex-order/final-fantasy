@@ -28,6 +28,7 @@
 
 ## wikipedia.org (Information)
 
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#World -- dates*, platforms* -- accessed 2026-09-22
 - https://wikipedia.org/wiki/World_of_Final_Fantasy
 - https://wikipedia.org/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy_Maxima
 

@@ -7,6 +7,7 @@
 
 ## wikipedia.org (Information)
 
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Final_Fantasy_XV_Universe -- dates*, platforms*, tags, story, versions -- accessed 2026-09-22
 - https://wikipedia.org/wiki/King's_Knight
 - https://wikipedia.org/wiki/King%27s_Knight#Remake
 - https://wikipedia.org/wiki/King%27s_Knight#Development_and_release

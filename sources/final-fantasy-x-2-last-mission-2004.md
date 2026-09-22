@@ -28,6 +28,7 @@
 
 ## wikipedia.org (Information)
 
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series-related_games -- dates*, platforms*, tags -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_X-2#Release
 
 ## Xbox (Platform)

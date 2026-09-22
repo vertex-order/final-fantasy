@@ -28,6 +28,7 @@
 
 ## wikipedia.org (Information)
 
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series -- dates* -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates
 
 ## Xbox (Platform)

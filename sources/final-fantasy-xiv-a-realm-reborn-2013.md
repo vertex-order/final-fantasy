@@ -31,6 +31,8 @@
 
 ## wikipedia.org (Information)
 
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series -- dates*, platforms* -- accessed 2026-09-22
+  - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Bundled_releases -- dates, platforms -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_XIV
 
 ## Xbox (Platform)

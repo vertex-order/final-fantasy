@@ -27,6 +27,7 @@
 
 ## wikipedia.org (Information)
 
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Compilation_of_Final_Fantasy_VII -- dates*, platforms*, tags -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_VII_Revelation
 
 ## Xbox (Platform)
