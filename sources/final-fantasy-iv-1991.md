@@ -56,7 +56,7 @@
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Bundled_releases -- dates, platforms -- accessed 2026-09-22
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Branded_subseries -- dates*, platforms* -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_IV
-- https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster
+- https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster -- dates, platforms, tags, versions -- accessed 2026-09-19
 - https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases
 - https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)
 - https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)#Ports
