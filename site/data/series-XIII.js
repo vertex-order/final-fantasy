@@ -3,6 +3,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
     title: 'Final Fantasy XIII', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII', titleDate: '2009-12-17',
+    mediaDesc: [
+      'The government of the floating world of Cocoon orders a purge of civilians who have supposedly come into contact with Pulse, the much-feared world below. The former soldier Lightning begins her fight against the government in order to save her sister who has been branded as an unwilling servant to a god-like being from Pulse, making her an enemy of Cocoon.',
+    ],
     primary: {
       mainline: true, tags: ['RPG', 'Paradigm Shift battle'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise', subtitleDate: 2014,
@@ -13,10 +16,6 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
         { value: 'IT', textOnly: true },
         { value: 'DE', textOnly: true },
         { value: 'ES-ES', textOnly: true },
-      ],
-      description: [
-        'The government of the floating world of Cocoon orders a purge of civilians who have supposedly come into contact with Pulse, the much-feared world below. The former soldier Lightning begins her fight against the government in order to save her sister who has been branded as an unwilling servant to a god-like being from Pulse, making her an enemy of Cocoon.',
-        'This remaster unlocks higher resolutions and up to 60 fps, removes the Xbox disc-swap requirement, and adds an Easy/Normal difficulty toggle. Voice over is toggleable between English and Japanese (Japanese only in the Asian release).',
       ],
       profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-xiii',
       ratings: [
@@ -35,15 +34,15 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
         { key: 'fan-recap', search: 'youtube', term: 'final fantasy XIII' },
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy XIII' },
       ],
+      versionDesc: [
+        'This remaster unlocks higher resolutions and up to 60 fps, removes the Xbox disc-swap requirement, and adds an Easy/Normal difficulty toggle. Voice over is toggleable between English and Japanese (Japanese only in the Asian release).',
+      ],
     },
     alts: [
       {
         versions: [
           {
             subtitle: 'International', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise', subtitleDate: 2010,
-            description: [
-              ['This release brings the international build — with its English voice option — to Japan a year after the worldwide launch, and adds an Easy/Normal difficulty toggle. Released as ', { emText: 'Final Fantasy XIII Ultimate Hits International' }, '.'],
-            ],
             languages: [
               { value: 'JA', native: true, voice: true },
               { value: 'EN', voice: true },
@@ -55,11 +54,11 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
               { key: 'xbox-one', paren: '360 compatibility', noUrl: true },
               { key: 'xbox-xs', paren: '360 compatibility', noUrl: true },
             ],
+            versionDesc: [
+              ['This release brings the international build — with its English voice option — to Japan a year after the worldwide launch, and adds an Easy/Normal difficulty toggle. Released as ', { emText: 'Final Fantasy XIII Ultimate Hits International' }, '.'],
+            ],
           },
           {
-            description: [
-              'The original release. A later patch adds an Easy/Normal difficulty toggle.',
-            ],
             languages: [
               { value: 'JA', native: true, voice: true },
               { value: 'EN', voice: true },
@@ -72,6 +71,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
               { key: 'xbox-one', paren: '360 compatibility', noUrl: true },
               { key: 'xbox-xs', paren: '360 compatibility', noUrl: true },
             ],
+            versionDesc: [
+              'The original release. A later patch adds an Easy/Normal difficulty toggle.',
+            ],
           },
         ],
       },
@@ -80,13 +82,13 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 200,
     title: 'Final Fantasy XIII: A Dreaming Cocoon Falls into the Dawn', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu', titleDate: '2010-09-30',
+    mediaDesc: [
+      [{ text: "While the Pulse l'Cie fight to defy their fate and save Cocoon, three citizens—an undercover reporter, a university student, and a pilot—secretly have unique parallel journeys. The story follows them as they stumble upon an ancient plot to destroy Cocoon from within, and their paths eventually converge in a united endeavor to save the floating world. Released as " }, { emText: 'Final Fantasy XIII Gaiden Shōsetsu: Yumemiru Mayu, Akatsuki ni Otsu' }, { text: '. May also be known as ' }, { emText: 'Final Fantasy XIII Side Story: A Dreaming Cocoon Falls into the Dawn' }, { text: '. Contained in the ' }, { emText: 'Final Fantasy XIII Ultimania Omega' }, { text: ' book.' }],
+    ],
     primary: {
       tags: ['Optional', 'Side-story', 'Novella'],
       subtitle: 'Book',
       length: '6 chapters',
-      description: [
-        [{ text: "While the Pulse l'Cie fight to defy their fate and save Cocoon, three citizens—an undercover reporter, a university student, and a pilot—secretly have unique parallel journeys. The story follows them as they stumble upon an ancient plot to destroy Cocoon from within, and their paths eventually converge in a united endeavor to save the floating world. Released as " }, { emText: 'Final Fantasy XIII Gaiden Shōsetsu: Yumemiru Mayu, Akatsuki ni Otsu' }, { text: '. May also be known as ' }, { emText: 'Final Fantasy XIII Side Story: A Dreaming Cocoon Falls into the Dawn' }, { text: '. Contained in the ' }, { emText: 'Final Fantasy XIII Ultimania Omega' }, { text: ' book.' }],
-      ],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/28466281' },
         { value: 'EN', tip: 'English (fan translation)' },
@@ -113,13 +115,13 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Book', chronoOrder: 1000, recommendedOrder: 300,
     title: 'Final Fantasy XIII-2 Fragments Before', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before', titleDate: '2011-12-15 10',
+    mediaDesc: [
+      [{ text: 'The first chapter is the novella ' }, { emLinkText: 'Final Fantasy XIII -Episode i-', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_-Episode_i-' }, { text: ' which acts as an epilogue to ' }, { emText: 'XIII (2009)' }, { text: '. The rest of the book is meant to cover the events before ' }, { emText: 'XIII-2 (2011)' }, { text: '.' }],
+    ],
     primary: {
       tags: ['Optional', 'Sequel', 'Short Stories'],
       subtitle: 'Book',
       length: '176p; P',
-      description: [
-        [{ text: 'The first chapter is the novella ' }, { emLinkText: 'Final Fantasy XIII -Episode i-', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_-Episode_i-' }, { text: ' which acts as an epilogue to ' }, { emText: 'XIII (2009)' }, { text: '. The rest of the book is meant to cover the events before ' }, { emText: 'XIII-2 (2011)' }, { text: '.' }],
-      ],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/13417855-final-fantasy-xiii-2' },
         { value: 'DE', url: 'https://www.goodreads.com/book/show/42769266-final-fantasy-xiii' },
@@ -141,6 +143,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 400,
     title: 'Final Fantasy XIII-2', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2', titleDate: '2011-12-15 20',
+    mediaDesc: [
+      [{ text: 'Lightning, the protagonist of ' }, { emText: 'XIII (2009)' }, { text: ', has disappeared into an unknown world. Her younger sister Serah and Noel  journey through time in an attempt to find her.' }],
+    ],
     primary: {
       tags: ['Sequel', 'RPG', 'Paradigm Shift battle'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2', subtitleDate: 2021,
@@ -151,10 +156,6 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
         { value: 'IT', textOnly: true },
         { value: 'DE', textOnly: true },
         { value: 'ES-ES', textOnly: true },
-      ],
-      description: [
-        [{ text: 'Lightning, the protagonist of ' }, { emText: 'XIII (2009)' }, { text: ', has disappeared into an unknown world. Her younger sister Serah and Noel  journey through time in an attempt to find her.' }],
-        [{ text: 'This remaster unlocks higher resolutions and up to 60 fps, and bundles all outfit and boss DLC free, apart from nine licensed crossover items dropped for rights issues. Its bonus scenarios and Coliseum battles unlock only after beating the game, versus Chapter 2 on the original consoles; voice over is toggleable between English and Japanese.' }],
       ],
       profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-xiii-2',
       ratings: [
@@ -173,15 +174,15 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
         { key: 'fan-recap', search: 'youtube', term: 'final fantasy XIII-2' },
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy XIII-2' },
       ],
+      versionDesc: [
+        [{ text: 'This remaster unlocks higher resolutions and up to 60 fps, and bundles all outfit and boss DLC free, apart from nine licensed crossover items dropped for rights issues. Its bonus scenarios and Coliseum battles unlock only after beating the game, versus Chapter 2 on the original consoles; voice over is toggleable between English and Japanese.' }],
+      ],
     },
     alts: [
       {
         versions: [
           {
             subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2', subtitleDate: 2014,
-            description: [
-              'This remaster unlocks higher resolutions and up to 60 fps on PC (capped at 30 fps on Xbox One).',
-            ],
             languages: [
               { value: 'JA', native: true },
               { value: 'EN', voice: true },
@@ -192,11 +193,11 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
               { key: 'steam', paren: 'PC', noUrl: true },
               { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' },
             ],
+            versionDesc: [
+              'This remaster unlocks higher resolutions and up to 60 fps on PC (capped at 30 fps on Xbox One).',
+            ],
           },
           {
-            description: [
-              'The original release. Gameplay framerate dips as low as 18 fps.',
-            ],
             languages: [
               { value: 'JA', native: true },
               { value: 'EN', voice: true },
@@ -209,6 +210,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
               { key: 'xbox-one', paren: '360 compatibility', noUrl: true },
               { key: 'xbox-xs', paren: '360 compatibility', noUrl: true },
             ],
+            versionDesc: [
+              'The original release. Gameplay framerate dips as low as 18 fps.',
+            ],
           },
         ],
       },
@@ -217,13 +221,13 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Book', chronoOrder: 3000, recommendedOrder: 500,
     title: 'Final Fantasy XIII-2 Fragments After', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After', titleDate: '2012-06-21',
+    mediaDesc: [
+      [{ text: 'Several stories mainly meant to cover loose ends within the plot of ' }, { emText: 'XIII-2 (2011)' }, { text: ', and highlight the mysteries yet to be resolved.' }],
+    ],
     primary: {
       tags: ['Optional', 'Sequel', 'Short Stories'],
       subtitle: 'Book',
       length: '146p; P',
-      description: [
-        [{ text: 'Several stories mainly meant to cover loose ends within the plot of ' }, { emText: 'XIII-2 (2011)' }, { text: ', and highlight the mysteries yet to be resolved.' }],
-      ],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/84828742-final-fantasy-xiii-2' },
         { value: 'DE', url: 'https://www.goodreads.com/book/show/42769002-final-fantasy-xiii-2' },
@@ -245,6 +249,10 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Game', chronoOrder: 4000, recommendedOrder: 600,
     title: 'Lightning Returns: Final Fantasy XIII', titleUrl: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII', titleDate: '2013-11-21',
+    mediaDesc: [
+      [{ text: '500 years after ' }, { emText: 'XIII-2 (2011)' }, { text: ", Lightning awakens from a self-imposed hibernation thirteen days before the world's end. The deity Bhunivelze chooses her to save the people of the dying world, including former friends and allies who have developed heavy emotional burdens. As she travels, she learns the truth behind the world's fate and Bhunivelze's true agenda." }],
+      [{ text: 'Sometimes also known as ' }, { emText: 'Final Fantasy XIII-3' }, { text: '. After finishing the game, you can optionally chose to read the Novella ' }, { emText: 'XIII: Reminiscence -tracer of memories- (2014)' }, { text: ' (listed separately) before watching the final epilogue ' }, { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, { text: '.' }],
+    ],
     primary: {
       tags: ['Sequel', 'Action RPG', 'Style-Change Active Time Battle'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', subtitleDate: 2021,
@@ -258,11 +266,6 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
         { value: 'ES-419', textOnly: true },
         { value: 'KO', textOnly: true },
         { value: 'ZH-TW', textOnly: true },
-      ],
-      description: [
-        [{ text: '500 years after ' }, { emText: 'XIII-2 (2011)' }, { text: ", Lightning awakens from a self-imposed hibernation thirteen days before the world's end. The deity Bhunivelze chooses her to save the people of the dying world, including former friends and allies who have developed heavy emotional burdens. As she travels, she learns the truth behind the world's fate and Bhunivelze's true agenda." }],
-        [{ text: 'Sometimes also known as ' }, { emText: 'Final Fantasy XIII-3' }, { text: '. After finishing the game, you can optionally chose to read the Novella ' }, { emText: 'XIII: Reminiscence -tracer of memories- (2014)' }, { text: ' (listed separately) before watching the final epilogue ' }, { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, { text: '.' }],
-        [{ text: "This remaster unlocks higher resolutions and up to 60 fps, and voice over is toggleable between English and Japanese. It bundles nearly all DLC free, including the Guardian Corps and Knight of Etro schemata by default, though the Midgar's Flower Girl schemata, Siegfried garb, and Outerworld Services are missing, and schemata/map marker names can no longer be customized." }],
       ],
       profileUrl: 'https://www.square-enix-games.com/games/lightning-returns-final-fantasy-xiii',
       ratings: [
@@ -282,15 +285,15 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
         { key: 'fan-recap', search: 'youtube', term: 'lightning returns final fantasy XIII-3' },
         { key: 'fan-playthrough', search: 'youtube', term: 'lightning returns final fantasy XIII-3' },
       ],
+      versionDesc: [
+        [{ text: "This remaster unlocks higher resolutions and up to 60 fps, and voice over is toggleable between English and Japanese. It bundles nearly all DLC free, including the Guardian Corps and Knight of Etro schemata by default, though the Midgar's Flower Girl schemata, Siegfried garb, and Outerworld Services are missing, and schemata/map marker names can no longer be customized." }],
+      ],
     },
     alts: [
       {
         versions: [
           {
             subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', subtitleDate: 2015,
-            description: [
-              'This remaster unlocks higher resolutions and up to 60 fps on PC (30 fps on Xbox).',
-            ],
             languages: [
               { value: 'JA', native: true, voice: true },
               { value: 'EN', voice: true },
@@ -302,11 +305,11 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
               { key: 'xbox-one', paren: 'Xbox 360 compatibility, Xbox One X Enhanced', noUrl: true },
               { key: 'xbox-xs', paren: 'Xbox One compatibility', noUrl: true },
             ],
+            versionDesc: [
+              'This remaster unlocks higher resolutions and up to 60 fps on PC (30 fps on Xbox).',
+            ],
           },
           {
-            description: [
-              'The original release. The international version (2014) softens some dialogue and innuendo, and offers Japanese audio as separate DLC.',
-            ],
             languages: [
               { value: 'JA', native: true, voice: true },
               { value: 'EN', voice: true },
@@ -317,6 +320,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
               { key: 'playstation3', noUrl: true },
               { key: 'xbox-360', noUrl: true },
             ],
+            versionDesc: [
+              'The original release. The international version (2014) softens some dialogue and innuendo, and offers Japanese audio as separate DLC.',
+            ],
           },
         ],
       },
@@ -325,13 +331,13 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Book', chronoOrder: 5000, recommendedOrder: 700,
     title: 'Final Fantasy XIII: Reminiscence -tracer of memories-', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-', titleDate: '2014-06-03',
+    mediaDesc: [
+      [{ text: 'Novella set after the events of ' }, { emText: 'Lightning Returns: XIII (2013)' }, { text: ' but before the epilogue ' }, { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, { text: '. It takes the form of interviews with the characters conducted by Aoede, and is narrated in first person from her point of view.' }],
+    ],
     primary: {
       tags: ['Optional', 'Sequel', 'Character interviews', 'Novella'],
       subtitle: 'Book',
       length: 'Ten episodes',
-      description: [
-        [{ text: 'Novella set after the events of ' }, { emText: 'Lightning Returns: XIII (2013)' }, { text: ' but before the epilogue ' }, { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, { text: '. It takes the form of interviews with the characters conducted by Aoede, and is narrated in first person from her point of view.' }],
-      ],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN', tip: 'English (fan translation)' },
@@ -351,12 +357,12 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Book', chronoOrder: -2000, recommendedOrder: 800,
     title: 'Final Fantasy XIII: Episode Zero: Promise', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-', titleDate: '2009-12-24',
+    mediaDesc: [
+      ['Series of web novellas depicting the thirteen days leading up to the events of ', { emText: 'XIII (2009)' }, '.'],
+    ],
     primary: {
       tags: ['Optional', 'Prequel', 'Short Stories'],
       subtitle: 'Book',
-      description: [
-        ['Series of web novellas depicting the thirteen days leading up to the events of ', { emText: 'XIII (2009)' }, '.'],
-      ],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/7913673-final-fantasy-xiii' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/42080020-final-fantasy-xiii' },
@@ -383,9 +389,6 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
         tags: ['Optional', 'Radio drama'],
         title: 'Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Alpha', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD', titleDate: 2010,
         subtitle: 'radio drama',
-        description: [
-          ['Features Part 1 of ', { emText: 'XIII: Episode Zero: Promise (2009)' }, ' as a radio drama. Some editions contain bonus stories ', { emText: 'Real -Reality-' }, ' and ', { emText: 'Departure -Starting-' }, '.'],
-        ],
         length: '7 chapters',
         languages: [
           { value: 'JA', native: true },
@@ -397,12 +400,18 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
           { key: 'fan-audiobook', searchSuffix: 'drama CD', search: 'youtube', term: 'final fantasy XIII episode zero promise' },
           { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'final fantasy XIII episode zero promise', noResults: true },
         ],
+        versionDesc: [
+          ['Features Part 1 of ', { emText: 'XIII: Episode Zero: Promise (2009)' }, ' as a radio drama. Some editions contain bonus stories ', { emText: 'Real -Reality-' }, ' and ', { emText: 'Departure -Starting-' }, '.'],
+        ],
       },
     ],
   },
   {
     mediaType: 'Game', chronoOrder: 100000, recommendedOrder: 900,
     title: 'Final Fantasy Type-0', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Type-0', titleDate: '2011-10-27',
+    mediaDesc: [
+      [{ text: 'Class Zero, a group of fourteen students from the Dominion of Rubrum must fight the neighboring Militesi Empire when they launch an assault on the other Crystal States of Orience. The group become entangled in both the efforts to push back and defeat the forces of Militesi, and the secret behind the war and the existence of the crystals.' }],
+    ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Action RPG', 'Alternate Universe'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Type-0_HD', subtitleDate: 2015,
@@ -416,10 +425,6 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
         { value: 'KO', textOnly: true },
         { value: 'ZH-CN', textOnly: true },
         { value: 'ZH-TW', textOnly: true },
-      ],
-      description: [
-        [{ text: 'Class Zero, a group of fourteen students from the Dominion of Rubrum must fight the neighboring Militesi Empire when they launch an assault on the other Crystal States of Orience. The group become entangled in both the efforts to push back and defeat the forces of Militesi, and the secret behind the war and the existence of the crystals.' }],
-        [{ text: 'This remaster updates the graphics, color palette, and blood levels, remasters the soundtrack with new vocal tracks, and adds dual Japanese/English audio and four difficulty modes. Multiplayer is removed, though its exclusive rewards remain obtainable in single-player. The Steam version further adds unlocked resolution options and an adjustable movement speed. Released as ' }, { emText: 'Final Fantasy Type-0 HD' }, { text: '.' }],
       ],
       profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-type-0-hd',
       ratings: [
@@ -438,15 +443,15 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'final fantasy type-0', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy type-0' },
       ],
+      versionDesc: [
+        [{ text: 'This remaster updates the graphics, color palette, and blood levels, remasters the soundtrack with new vocal tracks, and adds dual Japanese/English audio and four difficulty modes. Multiplayer is removed, though its exclusive rewards remain obtainable in single-player. The Steam version further adds unlocked resolution options and an adjustable movement speed. Released as ' }, { emText: 'Final Fantasy Type-0 HD' }, { text: '.' }],
+      ],
     },
     alts: [
       {
         versions: [
           {
             tags: ['Multiplayer'],
-            description: [
-              'The original release.',
-            ],
             languages: [
               { value: 'JA', native: true },
               { value: 'EN', tip: 'English (Fan Translation) (SkyBlazeCloud+ 2015)' },
@@ -457,6 +462,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
             platforms: [
               { key: 'playstation-portable', jpTag: true, noUrl: true },
             ],
+            versionDesc: [
+              'The original release.',
+            ],
           },
         ],
       },
@@ -465,12 +473,12 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Comic', chronoOrder: 100400, recommendedOrder: 940,
     title: 'Final Fantasy Type-0 ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_(manga)#Story', titleDate: '2011-11-11',
+    mediaDesc: [
+      [{ text: 'A manga adaptation of ' }, { emText: 'Type-0 (2011)' }, { text: ", following the story of the game while adding new characters and situations. Class Zero, led by Ace, defends Peristylium Suzaku from the invading Militesi Empire and its Magitek Armor pilot Qun'mi Tru'e. Bundled with the " }, { emText: "Final Fantasy Type-0 HD Collector's Edition" }, { text: '.' }],
+    ],
     primary: {
       tags: ['Optional', 'Manga'],
       subtitle: 'Comic',
-      description: [
-        [{ text: 'A manga adaptation of ' }, { emText: 'Type-0 (2011)' }, { text: ", following the story of the game while adding new characters and situations. Class Zero, led by Ace, defends Peristylium Suzaku from the invading Militesi Empire and its Magitek Armor pilot Qun'mi Tru'e. Bundled with the " }, { emText: "Final Fantasy Type-0 HD Collector's Edition" }, { text: '.' }],
-      ],
       languages: [
         { value: 'EN', url: 'https://www.goodreads.com/book/show/25746708-final-fantasy-type-0' },
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/18109747-final-fantasy-type-0' },
@@ -492,13 +500,13 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Comic', chronoOrder: 99900, recommendedOrder: 945,
     title: 'Final Fantasy Type-0: The Ice Reaper', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper', titleDate: '2012-09-22',
+    mediaDesc: [
+      [{ text: 'A manga set nine years before ' }, { emText: 'Type-0 (2011)' }, { text: ", following Kurasame Susaya's time as a student of Akademeia and member of the Four Champions of Rubrum. Kurasame, determined to prove himself worthy of promotion out of Class Third, survives a deadly attack by Concordian outlaws that kills most of his classmates. May also be known as " }, { emText: 'Final Fantasy Type-0 Side Story: The Ice Reaper' }, { text: ', or ' }, { emText: 'Final Fantasy Type-0 Side Story: The Reaper of the Icy Blade' }, { text: '.' }],
+    ],
     primary: {
       tags: ['Optional', 'Prequel', 'Manga'],
       subtitle: 'Comic',
       length: '5 volumes',
-      description: [
-        [{ text: 'A manga set nine years before ' }, { emText: 'Type-0 (2011)' }, { text: ", following Kurasame Susaya's time as a student of Akademeia and member of the Four Champions of Rubrum. Kurasame, determined to prove himself worthy of promotion out of Class Third, survives a deadly attack by Concordian outlaws that kills most of his classmates. May also be known as " }, { emText: 'Final Fantasy Type-0 Side Story: The Ice Reaper' }, { text: ', or ' }, { emText: 'Final Fantasy Type-0 Side Story: The Reaper of the Icy Blade' }, { text: '.' }],
-      ],
       languages: [
         { value: 'EN', url: 'https://www.goodreads.com/book/show/25112890-final-fantasy-type-0-side-story-vol-1' },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/28932172-final-fantasy-type-0---le-guerrier-l-p-e-de-glace-vol-1' },
@@ -522,13 +530,13 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Book', chronoOrder: 100500, recommendedOrder: 950,
     title: 'Final Fantasy Type-0: Change the World -The Answer- Vol.1', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-', titleDate: '2012-04-21',
+    mediaDesc: [
+      [{ text: 'A novelization of ' }, { emText: 'Type-0 (2011)' }, { text: ', following Izana Kunagiri as he searches for cadet Ace amid the chaos of the war against the Militesi Empire, recalling how he arrived at his current situation.' }],
+    ],
     primary: {
       tags: ['Optional', 'Novel'],
       subtitle: 'Book',
       length: '272p',
-      description: [
-        [{ text: 'A novelization of ' }, { emText: 'Type-0 (2011)' }, { text: ', following Izana Kunagiri as he searches for cadet Ace amid the chaos of the war against the Militesi Empire, recalling how he arrived at his current situation.' }],
-      ],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/84822449' },
         { value: 'FR' },
@@ -551,13 +559,13 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Book', chronoOrder: 99950, recommendedOrder: 960,
     title: 'Final Fantasy Type-0: Change the World -The Penultimate Truth- Vol.2', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-', titleDate: '2012-06-28',
+    mediaDesc: [
+      [{ text: 'A sequel to ' }, { emText: 'Change the World -The Answer-' }, { text: ", depicting the cycle previous to the one seen in the game, so its plot diverges from the game's." }],
+    ],
     primary: {
       tags: ['Optional', 'Novel'],
       subtitle: 'Book',
       length: '288p',
-      description: [
-        [{ text: 'A sequel to ' }, { emText: 'Change the World -The Answer-' }, { text: ", depicting the cycle previous to the one seen in the game, so its plot diverges from the game's." }],
-      ],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/84822454' },
         { value: 'FR' },
@@ -583,13 +591,13 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Book', chronoOrder: 100650, recommendedOrder: 965,
     title: 'Final Fantasy Type-0 ~The Last Truth~', titleUrl: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth', titleDate: '2015-06-04',
+    mediaDesc: [
+      "At the Akademeia in Rubrum, the gifted students of Class Zero study magic in peace until the empire of Milites declares war and unleashes a weapon that nullifies Rubrum's magic. Only the capital still resists, forcing the Council to send its best students into battle to reclaim their homeland.",
+    ],
     primary: {
       tags: ['Optional', 'Novel'],
       subtitle: 'Book',
       length: '572p; H',
-      description: [
-        "At the Akademeia in Rubrum, the gifted students of Class Zero study magic in peace until the empire of Milites declares war and unleashes a weapon that nullifies Rubrum's magic. Only the capital still resists, forcing the Council to send its best students into battle to reclaim their homeland.",
-      ],
       languages: [
         { value: 'FR', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth' },
         { value: '…?' },
@@ -609,12 +617,12 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Game', chronoOrder: 100550, recommendedOrder: 1000,
     title: 'Final Fantasy Agito', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Agito#', titleDate: '2014-05-14',
+    mediaDesc: [
+      [{ text: 'Companion entry to ' }, { emText: 'Type-0 (2011)' }, { text: ', you play a cadet entering the Rubrum Magical Academy during a time of war, and chosen to become the Agito, a figure destined to save Orience from destruction.' }],
+      [{ text: 'Due to it being terminated, and never released outside of Japan, it is recommended to watch a fan story recap or playthrough for story elements.' }],
+    ],
     primary: {
       tags: ['Optional', 'Spin-off', 'RPG', 'Multiplayer', 'Alternate Universe', 'Terminated'],
-      description: [
-        [{ text: 'Companion entry to ' }, { emText: 'Type-0 (2011)' }, { text: ', you play a cadet entering the Rubrum Magical Academy during a time of war, and chosen to become the Agito, a figure destined to save Orience from destruction.' }],
-        [{ text: 'Due to it being terminated, and never released outside of Japan, it is recommended to watch a fan story recap or playthrough for story elements.' }],
-      ],
       languages: [
         { value: 'JA', native: true },
       ],
@@ -630,12 +638,12 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Book', chronoOrder: 100560, recommendedOrder: 1050,
     title: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2015-04-30',
+    mediaDesc: [
+      [{ text: 'Focuses on the characters of Nine and Rubrum cadet Naghi Minatsuchi in continuity with ' }, { emText: 'Agito (2014)' }, { text: '.' }],
+    ],
     primary: {
       tags: ['Optional', 'Novel'],
       subtitle: 'Book',
-      description: [
-        [{ text: 'Focuses on the characters of Nine and Rubrum cadet Naghi Minatsuchi in continuity with ' }, { emText: 'Agito (2014)' }, { text: '.' }],
-      ],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/102911659' },
       ],
@@ -652,12 +660,12 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
   {
     mediaType: 'Game', chronoOrder: 100570, recommendedOrder: 1100,
     title: 'Final Fantasy Awakening', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Awakening', titleDate: '2016-12-14',
+    mediaDesc: [
+      [{ text: 'Set in the ' }, { emText: 'Type-0 (2011)' }, { text: ' alternate universe, you play as a cadet of the Dominion of Rubrum as the four nations of Orience are plunged into war.' }],
+      [{ text: 'Due to it being terminated, it is recommended to watch a fan story recap or playthrough for story elements.' }],
+    ],
     primary: {
       tags: ['Optional', 'Spin-off', 'RPG', 'Multiplayer', 'Alternate Universe', 'Terminated'],
-      description: [
-        [{ text: 'Set in the ' }, { emText: 'Type-0 (2011)' }, { text: ' alternate universe, you play as a cadet of the Dominion of Rubrum as the four nations of Orience are plunged into war.' }],
-        [{ text: 'Due to it being terminated, it is recommended to watch a fan story recap or playthrough for story elements.' }],
-      ],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

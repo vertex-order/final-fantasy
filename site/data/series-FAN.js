@@ -3,11 +3,11 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
   {
     mediaType: 'Game', chronoOrder: 300, recommendedOrder: 100,
     title: 'Final Fantasy: Endless Nova', titleUrl: 'https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Endless_Nova', titleDate: '2002',
+    mediaDesc: [
+      'Follows the story of a young man as he quests through the universe, looking for a place to belong. With an enigmatic cast of interesting characters.',
+    ],
     primary: {
       tags: ['Unofficial fan project', 'RPG', '2D', 'Sprites', 'Free'],
-      description: [
-        'Follows the story of a young man as he quests through the universe, looking for a place to belong. With an enigmatic cast of interesting characters.',
-      ],
       languages: [
         { value: 'EN', native: true },
       ],
@@ -23,12 +23,12 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
   {
     mediaType: 'Game', chronoOrder: 500, recommendedOrder: 200,
     title: 'Final Fantasy XIV: Legend of Balance', titleUrl: 'https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Legend_of_Balance', titleDate: '2013-01',
+    mediaDesc: [
+      [{ text: 'Taking place between the original ' }, { emText: 'XIV ~1.0~ (2010)' }, { text: ' and the start of ' }, { emText: 'XIV: A Realm Reborn (2013)' }, { text: ' with an original fan created story that can be considered an alternate universe. It can be played without knowing about either. Released as ' }, { emText: 'Final Fantasy: Legend of Balance' }, { text: '. Entry also found in our ' }, { emText: 'XIV' }, { text: ' series.' }],
+      'A group of heroes, champions of Eorzea, are transported away moments before facing certain death against Bahamut, and must find their way home through a strange new world entwined with crystals, old evils, and steadfast allies.',
+    ],
     primary: {
       tags: ['Unofficial fan project', '2D', 'Sprites', 'RPG', 'Alternate Universe', 'Free'],
-      description: [
-        [{ text: 'Taking place between the original ' }, { emText: 'XIV ~1.0~ (2010)' }, { text: ' and the start of ' }, { emText: 'XIV: A Realm Reborn (2013)' }, { text: ' with an original fan created story that can be considered an alternate universe. It can be played without knowing about either. Released as ' }, { emText: 'Final Fantasy: Legend of Balance' }, { text: '. Entry also found in our ' }, { emText: 'XIV' }, { text: ' series.' }],
-        'A group of heroes, champions of Eorzea, are transported away moments before facing certain death against Bahamut, and must find their way home through a strange new world entwined with crystals, old evils, and steadfast allies.',
-      ],
       languages: [
         { value: 'EN', native: true },
       ],
@@ -44,12 +44,12 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
   {
     mediaType: 'Game', chronoOrder: 400, recommendedOrder: 300,
     title: 'Final Fantasy XI: Braver', titleUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver', titleDate: '2021-07-10',
+    mediaDesc: [
+      [{ text: 'Taking place roughly in the world of ' }, { emText: 'XI: Rise of the Zilart (2003)' }, { text: ' with a sprinkle from other Final Fantasy titles, making it a bit of an alternate universe re-imagining. Entry also found in our ' }, { emText: 'XI' }, { text: ' series.' }],
+      'A party of adventurers, fresh off a win in the Valkurm Dunes, is summoned to Lower Jeuno by the Captain of the Ducal Guard for an urgent mission.',
+    ],
     primary: {
       tags: ['Unofficial fan project', 'RPG', '2D', 'Sprites', 'Alternate Universe', 'Free'],
-      description: [
-        [{ text: 'Taking place roughly in the world of ' }, { emText: 'XI: Rise of the Zilart (2003)' }, { text: ' with a sprinkle from other Final Fantasy titles, making it a bit of an alternate universe re-imagining. Entry also found in our ' }, { emText: 'XI' }, { text: ' series.' }],
-        'A party of adventurers, fresh off a win in the Valkurm Dunes, is summoned to Lower Jeuno by the Captain of the Ducal Guard for an urgent mission.',
-      ],
       languages: [
         { value: 'EN' },
       ],
@@ -65,11 +65,11 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
   {
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 400,
     title: 'Final Fantasy Renaissance', titleUrl: 'https://www.rengames.us/ffr', titleDate: '2024',
+    mediaDesc: [
+      [{ text: 'A fan-remake of ' }, { emText: 'Final Fantasy (1987)' }, { text: " in the Unity game engine that fixes many of the original's bugs. Also includes an extra mode with extra gameplay content like new jobs. Released free-to-play via Discord as " }, { emText: 'Final Fantasy Renaissance' }, { text: '. Entry also found in our ' }, { emText: 'Final Fantasy I' }, { text: ' series.' }],
+    ],
     primary: {
       tags: ['Unofficial fan project', 'Free'],
-      description: [
-        [{ text: 'A fan-remake of ' }, { emText: 'Final Fantasy (1987)' }, { text: " in the Unity game engine that fixes many of the original's bugs. Also includes an extra mode with extra gameplay content like new jobs. Released free-to-play via Discord as " }, { emText: 'Final Fantasy Renaissance' }, { text: '. Entry also found in our ' }, { emText: 'Final Fantasy I' }, { text: ' series.' }],
-      ],
       languages: [
         { value: 'EN' },
       ],
@@ -83,13 +83,13 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
   {
     mediaType: 'Book', chronoOrder: 200, recommendedOrder: 500,
     title: 'Final Fantasy IV: The Novel ~Fan Project~', titleUrl: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel', titleDate: '2002-08-10',
+    mediaDesc: [
+      [{ text: 'A fan novelization of ' }, { emText: 'IV (1991) 3D Remake (2007)' }, { text: ' and ' }, { emText: 'IV: The After Years (2008)' }, { text: '. Entry also found in our ' }, { emText: 'IV' }, { text: ' series.' }],
+      'This is the story of Cecil Harvey, a dark knight whose journey for redemption draws himself, his best friend Kain and Rosa into a dangerous battle for their planet.',
+    ],
     primary: {
       tags: ['Unofficial fan project', 'Novel', 'Free'],
       length: '27 chapters',
-      description: [
-        [{ text: 'A fan novelization of ' }, { emText: 'IV (1991) 3D Remake (2007)' }, { text: ' and ' }, { emText: 'IV: The After Years (2008)' }, { text: '. Entry also found in our ' }, { emText: 'IV' }, { text: ' series.' }],
-        'This is the story of Cecil Harvey, a dark knight whose journey for redemption draws himself, his best friend Kain and Rosa into a dangerous battle for their planet.',
-      ],
       languages: [
         { value: 'EN' },
       ],

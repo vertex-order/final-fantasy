@@ -3,6 +3,9 @@ window.__ffSeriesReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500,
   {
     mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
     title: 'Final Fantasy V', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_V', titleDate: '1992-12-06',
+    mediaDesc: [
+      'Wandering Bartz investigates a fallen meteor and must prevent the resurgence of evil sorcerer Exdeath into the world.',
+    ],
     primary: {
       mainline: true, tags: ['Active time battles'],
       subtitle: 'Pixel Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitleDate: 2021,
@@ -20,11 +23,6 @@ window.__ffSeriesReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500,
         { value: 'TH' },
         { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
         { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
-      ],
-      description: [
-        'Wandering Bartz investigates a fallen meteor and must prevent the resurgence of evil sorcerer Exdeath into the world.',
-        'This remaster has redrawn sprites, in-game maps, auto-battle, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
-        [{ text: 'Released as ' }, { emText: 'Final Fantasy V Pixel Remaster' }, { text: '. Included in the ' }, { emText: 'Final Fantasy I-VI Bundle / Collection' }, { text: '.' }],
       ],
       platformsUrl: 'https://finalfantasypixelremaster.square-enix-games.com/en_US/',
       ratings: [
@@ -49,15 +47,16 @@ window.__ffSeriesReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500,
         { key: 'fan-recap', search: 'youtube', term: 'final fantasy V' },
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy V' },
       ],
+      versionDesc: [
+        'This remaster has redrawn sprites, in-game maps, auto-battle, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
+        [{ text: 'Released as ' }, { emText: 'Final Fantasy V Pixel Remaster' }, { text: '. Included in the ' }, { emText: 'Final Fantasy I-VI Bundle / Collection' }, { text: '.' }],
+      ],
     },
     alts: [
       {
         versions: [
           {
             subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', subtitleDate: 2013,
-            description: [
-              'This remaster has new high-resolution graphics and sprites, eight-direction movement, auto battle. Also has the extra dungeon and optional boss from Edit 2006.',
-            ],
             languages: [
               { value: 'JA', native: true },
               { value: 'EN' },
@@ -73,12 +72,12 @@ window.__ffSeriesReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500,
               { key: 'android2', terminated: true, noUrl: true },
               { key: 'apple', terminated: true, noUrl: true },
             ],
+            versionDesc: [
+              'This remaster has new high-resolution graphics and sprites, eight-direction movement, auto battle. Also has the extra dungeon and optional boss from Edit 2006.',
+            ],
           },
           {
             subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', subtitleDate: 2006,
-            description: [
-              [{ text: 'This edit adds four new jobs, an extra dungeon, optional boss, additional equipment, and new translations. Released as ' }, { emText: 'Final Fantasy V Advance (2006)' }, { text: '.' }],
-            ],
             languages: [
               { value: 'JA', native: true },
               { value: 'EN' },
@@ -90,13 +89,12 @@ window.__ffSeriesReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500,
             platforms: [
               { key: 'nintendo-game-boy-advance', paren: 'Physical' },
             ],
+            versionDesc: [
+              [{ text: 'This edit adds four new jobs, an extra dungeon, optional boss, additional equipment, and new translations. Released as ' }, { emText: 'Final Fantasy V Advance (2006)' }, { text: '.' }],
+            ],
           },
           {
             subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', subtitleDate: 1998,
-            description: [
-              ['This edit adds opening and ending ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, 's, "memo" save feature. May have slow menus.'],
-              ['Released in the omnibus collections ', { emText: 'Final Fantasy Collection' }, { hintText: ' (JP)', tip: 'Japan' }, ' (1999), ', { emText: 'Final Fantasy Anthology' }, ' (2002).'],
-            ],
             languages: [
               { value: 'JA', native: true },
               { value: 'EN' },
@@ -110,13 +108,14 @@ window.__ffSeriesReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500,
               { key: 'playstation-vita', paren: 'Digital' },
               { key: 'playstation-portable', paren: 'Digital' },
             ],
+            versionDesc: [
+              ['This edit adds opening and ending ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, 's, "memo" save feature. May have slow menus.'],
+              ['Released in the omnibus collections ', { emText: 'Final Fantasy Collection' }, { hintText: ' (JP)', tip: 'Japan' }, ' (1999), ', { emText: 'Final Fantasy Anthology' }, ' (2002).'],
+            ],
           },
           {
             label: 'Final Fantasy V (1992)',
             url: 'https://wikipedia.org/wiki/Final_Fantasy_V',
-            description: [
-              'The original release.',
-            ],
             languages: [
               { value: 'JA', native: true },
               { value: 'EN', tip: 'English (Fan Translation) (RPGe 1998)' },
@@ -132,6 +131,9 @@ window.__ffSeriesReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500,
               { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
               { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
             ],
+            versionDesc: [
+              'The original release.',
+            ],
           },
         ],
       },
@@ -140,6 +142,10 @@ window.__ffSeriesReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500,
   {
     mediaType: 'Movie', chronoOrder: 1000, recommendedOrder: 200,
     title: 'Final Fantasy: Legend of the Crystals', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_Legend_of_the_Crystals', titleDate: '1994-03-21',
+    mediaDesc: [
+      [{ text: 'Two hundred years after ' }, { emText: 'V (1992)' }, { text: ', Prettz and Linally must defeat the new evil Deathgyunos.' }],
+      ['Four 30 minute ', { abbrTerm: 'OVA', abbrDef: 'Original Video Animation' }, ' episodes.'],
+    ],
     primary: {
       tags: ['Optional', 'Sequel', 'OVA'],
       subtitle: 'video',
@@ -147,10 +153,6 @@ window.__ffSeriesReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
-      ],
-      description: [
-        [{ text: 'Two hundred years after ' }, { emText: 'V (1992)' }, { text: ', Prettz and Linally must defeat the new evil Deathgyunos.' }],
-        ['Four 30 minute ', { abbrTerm: 'OVA', abbrDef: 'Original Video Animation' }, ' episodes.'],
       ],
       ratings: [
         { score: '6.1', url: 'https://www.imdb.com/title/tt0196692/', key: 'imdb' },

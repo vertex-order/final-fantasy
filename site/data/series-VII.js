@@ -5,6 +5,10 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
   {
     mediaType: 'Game', chronoOrder: -7000, recommendedOrder: 1710,
     title: 'Final Fantasy VII: The First Soldier', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_The_First_Soldier', titleDate: '2021-11-17',
+    mediaDesc: [
+      [{ text: '18 years before ' }, { emText: 'VII (1997)' }, { text: ', SOLDIER candidates train in a battle simulation.' }],
+      'Only the opening movie, season 2-4 trailers contain story elements, and the game itself is terminated. They can be viewed online.',
+    ],
     primary: {
       tags: ['Optional', 'Prequel', 'Battle Royale', 'Free-to-play', 'In-app purchases', 'Terminated'],
       profileUrl: 'https://www.ateam-entertainment.com/en/services/787/',
@@ -18,10 +22,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { value: 'TH' },
         { value: 'ES-ES', tip: 'Spanish (Europe)' },
         { value: 'ES-419' },
-      ],
-      description: [
-        [{ text: '18 years before ' }, { emText: 'VII (1997)' }, { text: ', SOLDIER candidates train in a battle simulation.' }],
-        'Only the opening movie, season 2-4 trailers contain story elements, and the game itself is terminated. They can be viewed online.',
       ],
       ratings: [
         { score: '62', url: 'https://www.metacritic.com/game/final-fantasy-vii-the-first-soldier/', key: 'metacritic' },
@@ -44,16 +44,16 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
   {
     mediaType: 'Game', chronoOrder: -6500, recommendedOrder: 1720,
     title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: '2023-09-07',
+    mediaDesc: [
+      [{ text: 'The ' }, { emText: 'Final Fantasy VII: The First Soldier' }, { text: ' episode with three chapters is set 15 years before ' }, { emText: 'VII (1997)' }, { text: ' and focuses on Sephiroth.' }],
+      'Do not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you watch fan story recap videos of the story elements or a playthrough.',
+    ],
     primary: {
       tags: ['Optional', 'Prequel', 'Episodic', 'Active time battle', 'Co-op', 'Free', 'In-app purchases', 'Terminated'],
       subtitle: 'The First Soldier',
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN', voice: true },
-      ],
-      description: [
-        [{ text: 'The ' }, { emText: 'Final Fantasy VII: The First Soldier' }, { text: ' episode with three chapters is set 15 years before ' }, { emText: 'VII (1997)' }, { text: ' and focuses on Sephiroth.' }],
-        'Do not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you watch fan story recap videos of the story elements or a playthrough.',
       ],
       profileUrl: 'https://en.ffviiec.com/',
       ratings: [
@@ -75,14 +75,14 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
   {
     mediaType: 'Game', chronoOrder: -6000, recommendedOrder: 1730,
     title: 'Before Crisis: Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Before_Crisis:_Final_Fantasy_VII', titleDate: '2004-09-24',
+    mediaDesc: [
+      'The Turks group of covert operatives working for Shinra Electric Power Company fight against both the rebel group AVALANCHE, and their corrupt employers.',
+      'Since the game is terminated we recommend you watch a fan story recap video or a playthrough.',
+    ],
     primary: {
       tags: ['Optional', 'Prequel', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
-      ],
-      description: [
-        'The Turks group of covert operatives working for Shinra Electric Power Company fight against both the rebel group AVALANCHE, and their corrupt employers.',
-        'Since the game is terminated we recommend you watch a fan story recap video or a playthrough.',
       ],
       length: [{ value: '9h', tip: 'Main Story', join: ' / ' }, { value: '9½h', tip: 'Main + Extra', join: ' / ' }, { value: '13½h', tip: 'Completionist' }],
       platforms: [
@@ -101,10 +101,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
           { value: 'JA', native: true, voice: true },
           { value: 'EN', voice: true },
         ],
-        description: [
-          ['The Before Crisis episode retells the story from ', { emText: 'Before Crisis: Final Fantasy VII (2004)' }, '.'],
-          'Do not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.',
-        ],
         profileUrl: 'https://en.ffviiec.com/',
         ratings: [
           { score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic' },
@@ -119,12 +115,19 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
           { key: 'android2', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
           { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
         ],
+        versionDesc: [
+          ['The Before Crisis episode retells the story from ', { emText: 'Before Crisis: Final Fantasy VII (2004)' }, '.'],
+          'Do not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.',
+        ],
       },
     ],
   },
   {
     mediaType: 'Movie', chronoOrder: -5000, recommendedOrder: 1740,
     title: 'Last Order: Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Last_Order:_Final_Fantasy_VII', titleDate: '2005-09-14 10',
+    mediaDesc: [
+      [{ text: 'Re-imagining of two flashbacks from ' }, { emText: 'VII (1997)' }, { text: ', one with Sephiroth and another for Zack and Cloud, that take place before ' }, { emText: 'Crisis Core: Final Fantasy VII (2007)' }, { text: '. Can be considered an alternate timeline.' }],
+    ],
     primary: {
       tags: ['Optional', 'Prequel', 'OVA'],
       subtitle: 'video',
@@ -132,10 +135,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
       languages: [
         { value: 'JA', native: true },
         { value: 'EN', tip: 'English (North America) — fan dub' },
-      ],
-      description: [
-        [{ text: 'Re-imagining of two flashbacks from ' }, { emText: 'VII (1997)' }, { text: ', one with Sephiroth and another for Zack and Cloud, that take place before ' }, { emText: 'Crisis Core: Final Fantasy VII (2007)' }, { text: '. Can be considered an alternate timeline.' }],
-        [{ text: 'Single ' }, { text: 'OVA', tip: 'Original Video Animation', helpStyle: 'text-decoration: underline dotted; cursor: help;' }, { text: ' episode. Included in ' }, { emText: 'Advent Pieces: Ultimate Edition' }, { text: ' (2005; ' }, { text: 'JP', tip: 'Japan', helpStyle: 'cursor: help;' }, { text: '), and ' }, { emText: "Advent Children: Limited Edition Collector's Set" }, { text: ' (2007; ' }, { text: 'NA', tip: 'North America', helpStyle: 'cursor: help;' }, { text: ').' }],
       ],
       ratings: [
         { score: '7.1', url: 'https://www.imdb.com/title/tt0489134/', key: 'imdb' },
@@ -146,11 +145,17 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { key: 'fan-movie', name: 'YouTube (unofficial)', search: 'youtube', term: 'Last Order: Final Fantasy VII (2005)', searchSuffix: '' },
         { key: 'fan-recap', search: 'youtube', term: 'Last Order: Final Fantasy VII' },
       ],
+      versionDesc: [
+        [{ text: 'Single ' }, { text: 'OVA', tip: 'Original Video Animation', helpStyle: 'text-decoration: underline dotted; cursor: help;' }, { text: ' episode. Included in ' }, { emText: 'Advent Pieces: Ultimate Edition' }, { text: ' (2005; ' }, { text: 'JP', tip: 'Japan', helpStyle: 'cursor: help;' }, { text: '), and ' }, { emText: "Advent Children: Limited Edition Collector's Set" }, { text: ' (2007; ' }, { text: 'NA', tip: 'North America', helpStyle: 'cursor: help;' }, { text: ').' }],
+      ],
     },
   },
   {
     mediaType: 'Game', chronoOrder: -4000, recommendedOrder: 1750,
     title: 'Crisis Core: Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII', titleDate: '2007-09-13',
+    mediaDesc: [
+      [{ text: 'Zack Fair, member of special forces organization SOLDIER searches for missing soldier Genesis Rhapsodos and uncovers many mysteries. Events end just before the start of ' }, { emText: 'Final Fantasy VII (1997)' }, { text: ' and are meant to pair with ' }, { emText: 'Remake Part 1: Intergrade (2021)' }, { text: '.' }],
+    ],
     primary: {
       tags: ['Prequel'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII#Crisis_Core:_Final_Fantasy_VII_Reunion', subtitleDate: 2022,
@@ -164,10 +169,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { value: 'ES-ES' },
         { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
         { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
-      ],
-      description: [
-        [{ text: 'Zack Fair, member of special forces organization SOLDIER searches for missing soldier Genesis Rhapsodos and uncovers many mysteries. Events end just before the start of ' }, { emText: 'Final Fantasy VII (1997)' }, { text: ' and are meant to pair with ' }, { emText: 'Remake Part 1: Intergrade (2021)' }, { text: '.' }],
-        [{ text: 'This remaster has HD graphics, new 3D models, new soundtrack arrangement, full voice acting, remade summons, and improvements to the battle system. Some releases are titled ' }, { emText: 'Crisis Core: Final Fantasy VII Reunion' }, { text: ' or ' }, { emText: 'CRISIS CORE –FINAL FANTASY VII– REUNION' }, { text: '.' }],
       ],
       profileUrl: 'https://www.square-enix.com/ffvii/en-us/games/crisis-core/',
       platformsUrl: 'https://www.square-enix.com/ffvii/en-us/games/crisis-core/',
@@ -193,6 +194,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { key: 'fan-recap', search: 'youtube', term: 'Crisis Core: Final Fantasy VII' },
         { key: 'fan-playthrough', search: 'youtube', term: 'Crisis Core: Final Fantasy VII' },
       ],
+      versionDesc: [
+        [{ text: 'This remaster has HD graphics, new 3D models, new soundtrack arrangement, full voice acting, remade summons, and improvements to the battle system. Some releases are titled ' }, { emText: 'Crisis Core: Final Fantasy VII Reunion' }, { text: ' or ' }, { emText: 'CRISIS CORE –FINAL FANTASY VII– REUNION' }, { text: '.' }],
+      ],
     },
     alts: [
       {
@@ -204,9 +208,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
             languages: [
               { value: 'JA', native: true, voice: true },
               { value: 'EN', voice: true },
-            ],
-            description: [
-              [{ text: 'The ' }, { emText: 'Crisis Core' }, { text: ' episode retells the story from ' }, { emText: 'Crisis Core: Final Fantasy VII (2007)' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you play a different version, watch a fan story recap video or a playthrough.' }],
             ],
             profileUrl: 'https://en.ffviiec.com/',
             ratings: [
@@ -222,19 +223,22 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
               { key: 'android2', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
               { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
             ],
+            versionDesc: [
+              [{ text: 'The ' }, { emText: 'Crisis Core' }, { text: ' episode retells the story from ' }, { emText: 'Crisis Core: Final Fantasy VII (2007)' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you play a different version, watch a fan story recap video or a playthrough.' }],
+            ],
           },
           {
             label: 'Crisis Core: Final Fantasy VII (2007)',
             url: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII',
-            description: [
-              'The original release. An International version followed in 2008 with selectable Normal/Hard difficulty (no more Game Over on failed missions), expanded voice acting, and one redesigned statue.',
-            ],
             languages: [
               { value: 'JA', native: true },
               { value: 'EN' },
             ],
             platforms: [
               { key: 'playstation-portable', noUrl: true, paren: 'Physical' },
+            ],
+            versionDesc: [
+              'The original release. An International version followed in 2008 with selectable Normal/Hard difficulty (no more Game Over on failed missions), expanded voice acting, and one redesigned statue.',
             ],
           },
         ],
@@ -244,6 +248,10 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
   {
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 600,
     title: 'Final Fantasy VII Remake ~Part 1~', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake', titleDate: '2020-04-10',
+    mediaDesc: [
+      'Cloud joins AVALANCHE, an eco-terrorist group trying to stop the megacorporation Shinra from destroying the planet. Covers story set in the metropolis Midgar.',
+      [{ text: 'Enhanced version of the first in a trilogy to completely remake ' }, { emText: 'VII (1997)' }, { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the remake trilogy, you can choose to play the original ' }, { emText: 'VII (1997; listed separately)' }, { text: '.' }],
+    ],
     primary: {
       mainline: true, tags: ['Trilogy', 'Real-time action'],
       subtitle: 'Intergrade', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake', subtitleDate: 2021,
@@ -259,11 +267,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { value: 'PT-BR' },
         { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
         { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
-      ],
-      description: [
-        'Cloud joins AVALANCHE, an eco-terrorist group trying to stop the megacorporation Shinra from destroying the planet. Covers story set in the metropolis Midgar.',
-        'Intergrade adds the Yuffie-led Episode INTERmission story, a Weiss superboss, Photo Mode, a Classic difficulty option, and multiple optional cheats.',
-        [{ text: 'Enhanced version of the first in a trilogy to completely remake ' }, { emText: 'VII (1997)' }, { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the remake trilogy, you can choose to play the original ' }, { emText: 'VII (1997; listed separately)' }, { text: '.' }],
       ],
       profileUrl: 'https://www.square-enix.com/ffvii/en-us/games/remake-intergrade/',
       ratings: [
@@ -285,15 +288,15 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy VII: Remake Intergrade' },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy VII: Remake Intergrade' },
       ],
+      versionDesc: [
+        'Intergrade adds the Yuffie-led Episode INTERmission story, a Weiss superboss, Photo Mode, a Classic difficulty option, and multiple optional cheats.',
+      ],
     },
     alts: [
       {
         versions: [
           {
             title: 'Final Fantasy VII Remake', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake', titleDate: 2020,
-            description: [
-              [{ text: 'The original release of the 3 part remake. ' }, { emText: 'Episode INTERmission' }, { text: ' DLC sold separately, later included in ' }, { emText: 'Intergrade' }, { text: ' (2021). Also known as ' }, { emText: 'Final Fantasy VII: Remake' }, { text: ', without the ' }, { emText: 'Intergrade' }, { text: ' suffix.' }],
-            ],
             languages: [
               { value: 'JA', native: true },
               { value: 'EN' },
@@ -305,6 +308,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
               { key: 'playstation5', paren: 'PS4 compatibility', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000' },
               { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000', paren: 'PS4; PS5; PSPortal' },
             ],
+            versionDesc: [
+              [{ text: 'The original release of the 3 part remake. ' }, { emText: 'Episode INTERmission' }, { text: ' DLC sold separately, later included in ' }, { emText: 'Intergrade' }, { text: ' (2021). Also known as ' }, { emText: 'Final Fantasy VII: Remake' }, { text: ', without the ' }, { emText: 'Intergrade' }, { text: ' suffix.' }],
+            ],
           },
         ],
       },
@@ -313,6 +319,10 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
   {
     mediaType: 'Game', chronoOrder: 200, recommendedOrder: 700,
     title: 'Final Fantasy VII Rebirth ~Part 2~', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Rebirth', titleDate: '2024-02-29',
+    mediaDesc: [
+      'Cloud and AVALANCHE embark on a journey across the planet to oppose Shinra and Sephiroth.',
+      [{ text: 'Second in a trilogy to completely remake ' }, { emText: 'VII (1997)' }, { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the remake trilogy, you can choose to play the original ' }, { emText: 'VII (1997; listed separately)' }, { text: '.' }],
+    ],
     primary: {
       mainline: true, tags: ['Trilogy', 'Real-time action'],
       languages: [
@@ -327,11 +337,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { value: 'PT-BR' },
         { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
         { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
-      ],
-      description: [
-        'Cloud and AVALANCHE embark on a journey across the planet to oppose Shinra and Sephiroth.',
-        'Includes multiple optional cheats and a Head Start new-game option starting at level 65.',
-        [{ text: 'Second in a trilogy to completely remake ' }, { emText: 'VII (1997)' }, { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the remake trilogy, you can choose to play the original ' }, { emText: 'VII (1997; listed separately)' }, { text: '.' }],
       ],
       profileUrl: 'https://www.square-enix.com/ffvii/en-us/games/rebirth/',
       ratings: [
@@ -353,11 +358,18 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy VII: rebirth' },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy VII: rebirth' },
       ],
+      versionDesc: [
+        'Includes multiple optional cheats and a Head Start new-game option starting at level 65.',
+      ],
     },
   },
   {
     mediaType: 'Game', chronoOrder: 300, recommendedOrder: 800,
     title: 'Final Fantasy VII Revelation ~Part 3~', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Revelation', titleDate: '2027-04-08',
+    mediaDesc: [
+      'Cloud and AVALANCHE journey to the Northern Crater to combat Shinra, Sephiroth, and an imminent cataclysmic event.',
+      [{ text: 'Not yet released. The final and third in a trilogy to completely remake ' }, { emText: 'VII (1997)' }, { text: ' as an expanded modern RPG with new sensibilities and features. Instead of the remake trilogy, you can choose to play the original ' }, { emText: 'VII (1997; listed separately)' }, { text: '.' }],
+    ],
     primary: {
       mainline: true, tags: ['Trilogy', 'Real-time action'],
       languages: [
@@ -372,10 +384,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { value: 'PT-BR' },
         { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
         { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
-      ],
-      description: [
-        'Cloud and AVALANCHE journey to the Northern Crater to combat Shinra, Sephiroth, and an imminent cataclysmic event.',
-        [{ text: 'Not yet released. The final and third in a trilogy to completely remake ' }, { emText: 'VII (1997)' }, { text: ' as an expanded modern RPG with new sensibilities and features. Instead of the remake trilogy, you can choose to play the original ' }, { emText: 'VII (1997; listed separately)' }, { text: '.' }],
       ],
       profileUrl: 'https://www.square-enix.com/ffvii/games/revelation/',
       platforms: [
@@ -394,14 +402,13 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
   {
     mediaType: 'Game', chronoOrder: 350, recommendedOrder: 900,
     title: 'Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII', titleDate: '1997-01-31',
+    mediaDesc: [
+      'Cloud joins AVALANCHE, an eco-terrorist group trying to stop the megacorporation Shinra from destroying the planet.',
+      'As originally told in one combined story. A different experience from the modern remake trilogy — many players play both.',
+    ],
     primary: {
       mainline: true, tags: ['Combined', 'Active time battle'],
       subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', subtitleDate: 2013,
-      description: [
-        'Cloud joins AVALANCHE, an eco-terrorist group trying to stop the megacorporation Shinra from destroying the planet.',
-        'As originally told in one combined story. A different experience from the modern remake trilogy — many players play both.',
-        'Includes autosave and cloud saves, multiple optional cheats, and disabled random encounters. PC versions (Steam, GOG) have extensive unofficial modding support.',
-      ],
       profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-vii',
       languages: [
         { value: 'JA', native: true },
@@ -430,15 +437,15 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy VII 1997' },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy VII 1997' },
       ],
+      versionDesc: [
+        'Includes autosave and cloud saves, multiple optional cheats, and disabled random encounters. PC versions (Steam, GOG) have extensive unofficial modding support.',
+      ],
     },
     alts: [
       {
         versions: [
           {
             subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', subtitleDate: 2015,
-            description: [
-              'This edit adds auto-save, toggle battle encounters, and an optional stat-max cheat. Some may find the mobile controls hard to use.',
-            ],
             languages: [
               { value: 'EN' },
               { value: 'FR' },
@@ -450,6 +457,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
               { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-vii/id1021566244' },
               { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVII' },
             ],
+            versionDesc: [
+              'This edit adds auto-save, toggle battle encounters, and an optional stat-max cheat. Some may find the mobile controls hard to use.',
+            ],
           },
           {
             tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
@@ -458,9 +468,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
             languages: [
               { value: 'JA', native: true, voice: true },
               { value: 'EN', voice: true },
-            ],
-            description: [
-              [{ text: 'The ' }, { emText: 'Final Fantasy VII' }, { text: ' episode retells the story from ' }, { emText: 'VII (1997)' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you play another version, watch a fan story recap video, or a playthrough.' }],
             ],
             profileUrl: 'https://en.ffviiec.com/',
             ratings: [
@@ -476,13 +483,12 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
               { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) Final Fantasy VII' },
               { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) Final Fantasy VII' },
             ],
+            versionDesc: [
+              [{ text: 'The ' }, { emText: 'Final Fantasy VII' }, { text: ' episode retells the story from ' }, { emText: 'VII (1997)' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you play another version, watch a fan story recap video, or a playthrough.' }],
+            ],
           },
           {
             subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', subtitleDate: 2012,
-            description: [
-              'This remake adds high-resolution support, upscaled graphics, cloud saves, and a character booster.',
-              'Japan-only features include a speed boost, a no-encounters mode, and other optional cheats.',
-            ],
             languages: [
               { value: 'EN' },
               { value: 'FR' },
@@ -493,14 +499,14 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
               { key: 'windows', noUrl: true },
               { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/', paren: 'PC' },
             ],
+            versionDesc: [
+              'This remake adds high-resolution support, upscaled graphics, cloud saves, and a character booster.',
+              'Japan-only features include a speed boost, a no-encounters mode, and other optional cheats.',
+            ],
           },
           {
             label: 'Final Fantasy VII (1997)',
             url: 'https://wikipedia.org/wiki/Final_Fantasy_VII',
-            description: [
-              ['The original release. A re-edit was released the same year as ', { emText: 'Final Fantasy VII International' }, '.'],
-              'Non-Japan releases saw streamlining of menu and Materia system, enemy health reductions, new world map visual cues, and an additional cutscene for Cloud.',
-            ],
             languages: [
               { value: 'JA', native: true },
               { value: 'EN', tip: 'English (Official; Fan Translation) (ProjectXsent 2020; GreenGoblin 2021)' },
@@ -519,6 +525,10 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
               { key: 'playstation-vita', paren: 'Digital' },
               { key: 'playstation-portable', paren: 'Digital' },
             ],
+            versionDesc: [
+              ['The original release. A re-edit was released the same year as ', { emText: 'Final Fantasy VII International' }, '.'],
+              'Non-Japan releases saw streamlining of menu and Materia system, enemy health reductions, new world map visual cues, and an additional cutscene for Cloud.',
+            ],
           },
         ],
       },
@@ -527,12 +537,12 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
   {
     mediaType: 'Book', chronoOrder: -500, recommendedOrder: 1000,
     title: 'Final Fantasy VII Remake: Traces of Two Pasts', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', titleDate: '2021-07-15',
+    mediaDesc: [
+      ['It takes place during the early events of ', { emText: 'Final Fantasy VII: Rebirth' }, ' and features Aerith and Tifa exchanging stories from their pasts.'],
+    ],
     primary: {
       tags: ['Optional', 'Novel'],
       subtitle: 'Book',
-      description: [
-        ['It takes place during the early events of ', { emText: 'Final Fantasy VII: Rebirth' }, ' and features Aerith and Tifa exchanging stories from their pasts.'],
-      ],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/117984595-final-fantasy-vii-remake' },
         { value: 'EN', tip: 'English (official & fan translation)', url: 'https://www.goodreads.com/book/show/60556665-final-fantasy-vii-remake' },
@@ -558,12 +568,12 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
   {
     mediaType: 'Book', chronoOrder: -400, recommendedOrder: 1100,
     title: 'Final Fantasy VII Rebirth: Dear Destiny', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', titleDate: '2026-01-30',
+    mediaDesc: [
+      ['A sequel to ', { emText: 'Traces of Two Pasts' }, ' that continues the stories of Tifa and Aerith before the events of the main story of the ', { emText: 'Remake' }, '.'],
+    ],
     primary: {
       tags: ['Optional', 'Novel'],
       subtitle: 'Book',
-      description: [
-        ['A sequel to ', { emText: 'Traces of Two Pasts' }, ' that continues the stories of Tifa and Aerith before the events of the main story of the ', { emText: 'Remake' }, '.'],
-      ],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/252507206-final-fantasy-vii-rebirth' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/254945294-final-fantasy-vii-rebirth' },
@@ -582,12 +592,12 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 1200,
     title: 'The Maiden Who Travels The Planet', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Related_media', titleDate: '2005-09-09',
+    mediaDesc: [
+      ["A novella describing Aerith's journey through the Lifestream and the ending for the original ", { emText: 'VII (1997)' }, ' game. Divided into seven chapters, it follows Aerith as she encounters other spirits in the Lifestream, including Jessie, Biggs, Wedge, Dyne, President Shinra, Professor Hojo, and Zack Fair.'],
+    ],
     primary: {
       tags: ['Optional', 'Novella'],
       subtitle: 'Book',
-      description: [
-        ["A novella describing Aerith's journey through the Lifestream and the ending for the original ", { emText: 'VII (1997)' }, ' game. Divided into seven chapters, it follows Aerith as she encounters other spirits in the Lifestream, including Jessie, Biggs, Wedge, Dyne, President Shinra, Professor Hojo, and Zack Fair.'],
-      ],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/60295273-the-maiden-who-travels-the-planet' },
         { value: 'EN', tip: 'English (fan translation)', url: 'https://www.goodreads.com/book/show/18139055-the-maiden-who-travels-the-planet' },
@@ -610,12 +620,12 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
   {
     mediaType: 'Book', chronoOrder: 1000, recommendedOrder: 1300,
     title: 'Final Fantasy VII: On the Way to a Smile', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile', titleDate: '2005-09-05',
+    mediaDesc: [
+      ['Seven short stories centered on the characters from ', { emText: 'VII (1997)' }, ' and meant to take place before ', { emText: 'Advent Children (2005)' }, ' compiled into an omnibus collection book.'],
+    ],
     primary: {
       tags: ['Optional', 'Sequel', 'Short Stories'],
       subtitle: 'Book',
-      description: [
-        ['Seven short stories centered on the characters from ', { emText: 'VII (1997)' }, ' and meant to take place before ', { emText: 'Advent Children (2005)' }, ' compiled into an omnibus collection book.'],
-      ],
       languages: [
         { value: 'EN', url: 'https://www.goodreads.com/book/show/38644528-final-fantasy-vii' },
         { value: 'DE', url: 'https://www.goodreads.com/book/show/12386746-final-fantasy-vii' },
@@ -644,10 +654,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
       {
         title: 'On the Way to a Smile - Episode: Denzel', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile', titleDate: 2009,
         subtitle: 'video',
-        description: [
-          ['Adapted into a short ', { abbrTerm: 'OVA', abbrDef: 'Original Video Animation' }, ' release.'],
-          ['Just the ', { emText: 'Case of Denzel' }, ' short story from ', { emText: 'On the Way to a Smile (2005)' }, ', included in ', { emText: 'Advent Children Complete (2009)' }, '.'],
-        ],
         languages: [
           { value: 'JA', native: true },
         ],
@@ -663,18 +669,22 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
             noResults: true,
           },
         ],
+        versionDesc: [
+          ['Adapted into a short ', { abbrTerm: 'OVA', abbrDef: 'Original Video Animation' }, ' release.'],
+          ['Just the ', { emText: 'Case of Denzel' }, ' short story from ', { emText: 'On the Way to a Smile (2005)' }, ', included in ', { emText: 'Advent Children Complete (2009)' }, '.'],
+        ],
       },
     ],
   },
   {
     mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 1400,
     title: 'Final Fantasy VII: The Kids Are Alright: A Turks Side Story', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', titleDate: '2011-01-01',
+    mediaDesc: [
+      ['Taking place a short time before ', { emText: 'Final Fantasy VII: Advent Children (2005)' }],
+    ],
     primary: {
       tags: ['Optional', 'Sequel', 'Novel'],
       subtitle: 'Book',
-      description: [
-        ['Taking place a short time before ', { emText: 'Final Fantasy VII: Advent Children (2005)' }],
-      ],
       languages: [
         { value: 'EN', url: 'https://www.goodreads.com/book/show/40223502-final-fantasy-vii' },
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/13083648-final-fantasy-vii-lateral-biography' },
@@ -704,6 +714,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
   {
     mediaType: 'Movie', chronoOrder: 2000, recommendedOrder: 1500,
     title: 'Final Fantasy VII: Advent Children', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children', titleDate: '2005-09-14 20',
+    mediaDesc: [
+      [{ text: 'Two years after ' }, { emText: 'VII (1997)' }, { text: ' Cloud must rescue children infected with the unexplained disease called Geostigma.' }],
+    ],
     primary: {
       tags: ['Optional', 'Sequel', 'Movie', "Director's Cut"],
       subtitle: 'Complete', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#Final_Fantasy_VII:_Advent_Children_Complete', subtitleDate: 2009,
@@ -714,10 +727,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { value: '…?' },
       ],
       helpWanted: true,
-      description: [
-        [{ text: 'Two years after ' }, { emText: 'VII (1997)' }, { text: ' Cloud must rescue children infected with the unexplained disease called Geostigma.' }],
-        [{ emText: 'Complete Edition' }, { text: ' (extra 26 minutes) with higher visual quality and many scene and some story revisions.' }],
-      ],
       ratings: [
         { score: '7.4', url: 'https://www.imdb.com/title/tt20913494/', key: 'imdb' },
         { score: '88', url: 'https://www.metacritic.com/game/final-fantasy-vii-advent-children/', key: 'metacritic' },
@@ -738,9 +747,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
             { value: 'JA', native: true, voice: true },
             { value: 'EN', voice: true },
           ],
-          description: [
-            [{ text: 'This was the only way to experience the movie as a game. The ' }, { emText: 'Advent Children' }, { text: ' episode retells the story from ' }, { emText: 'Final Fantasy VII: Advent Children (2005)' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you watch the movie, a fan story recap video or a playthrough.' }],
-          ],
           profileUrl: 'https://en.ffviiec.com/',
           ratings: [
             { score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic' },
@@ -755,26 +761,29 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
             { key: 'android2', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
             { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
           ],
+          versionDesc: [
+            [{ text: 'This was the only way to experience the movie as a game. The ' }, { emText: 'Advent Children' }, { text: ' episode retells the story from ' }, { emText: 'Final Fantasy VII: Advent Children (2005)' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you watch the movie, a fan story recap video or a playthrough.' }],
+          ],
         },
         {
-          description: [
-            'The original movie release.',
-          ],
           length: '101min',
           platforms: [
             { key: 'dvd', noUrl: true },
             { key: 'playstation-portable', paren: 'PlayStation Portable: Universal Media Disk', noUrl: true },
           ],
+          versionDesc: [
+            'The original movie release.',
+          ],
         },
+      ],
+      versionDesc: [
+        [{ emText: 'Complete Edition' }, { text: ' (extra 26 minutes) with higher visual quality and many scene and some story revisions.' }],
       ],
     },
     alts: [
       {
         title: 'Final Fantasy VII: Advent Children - The Novel', titleUrl: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children', titleDate: 2005,
         subtitle: 'Book',
-        description: [
-          ['A novelization of ', { emText: 'Final Fantasy VII: Advent Children (2005)' }, '.'],
-        ],
         languages: [
           { value: 'EN', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children' },
         ],
@@ -786,12 +795,18 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         platforms: [
           { key: 'book', name: 'Novel', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children' },
         ],
+        versionDesc: [
+          ['A novelization of ', { emText: 'Final Fantasy VII: Advent Children (2005)' }, '.'],
+        ],
       },
     ],
   },
   {
     mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 1600,
     title: 'Dirge of Cerberus: Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII', titleDate: '2006-01-26',
+    mediaDesc: [
+      ['Three years after ', { emText: 'VII (1997)' }, ', Vincent is targetted by Deepground, a mysterious organization that plans to awaken a creature known as Omega, with the ability to destroy the Planet.'],
+    ],
     primary: {
       tags: ['Optional', 'Sequel', 'Shooter'],
       subtitle: 'International', subtitleUrl: 'https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantasy_VII-#Version_differences', subtitleDate: 2006,
@@ -801,10 +816,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { value: '…?' },
       ],
       helpWanted: true,
-      description: [
-        ['Three years after ', { emText: 'VII (1997)' }, ', Vincent is targetted by Deepground, a mysterious organization that plans to awaken a creature known as Omega, with the ability to destroy the Planet.'],
-        [{ text: 'This edit makes many balance, difficulty and gameplay changes from the initial release 6½ months prior. Released as ' }, { emText: 'Dirge of Cerberus -Final Fantasy VII- International' }, { text: '.' }],
-      ],
       ratings: [
         { score: '57', url: 'https://www.metacritic.com/game/dirge-of-cerberus-final-fantasy-vii/', key: 'metacritic' },
         { score: '6.7', url: 'https://www.metacritic.com/game/dirge-of-cerberus-final-fantasy-vii/', key: 'metacritic-user' },
@@ -817,6 +828,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { key: 'fan-recap', search: 'youtube', term: 'Dirge of Cerberus Final Fantasy VII' },
         { key: 'fan-playthrough', search: 'youtube', term: 'Dirge of Cerberus Final Fantasy VII' },
       ],
+      versionDesc: [
+        [{ text: 'This edit makes many balance, difficulty and gameplay changes from the initial release 6½ months prior. Released as ' }, { emText: 'Dirge of Cerberus -Final Fantasy VII- International' }, { text: '.' }],
+      ],
     },
     alts: [
       {
@@ -828,9 +842,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
             languages: [
               { value: 'JA', native: true, voice: true },
               { value: 'EN', voice: true },
-            ],
-            description: [
-              [{ text: 'This was the only way to experience it as an RPG instead of a shooter. The ' }, { emText: 'Dirge of Cerberus' }, { text: ' episode retells the story from ' }, { emText: 'Dirge of Cerberus: Final Fantasy VII (2006)' }, { text: ' and includes details pertaining to ' }, { emText: 'Dirge of Cerberus Lost Episode: Final Fantasy VII (2006)' }, { text: '. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.' }],
             ],
             profileUrl: 'https://en.ffviiec.com/',
             ratings: [
@@ -846,17 +857,20 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
               { key: 'android2', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
               { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
             ],
+            versionDesc: [
+              [{ text: 'This was the only way to experience it as an RPG instead of a shooter. The ' }, { emText: 'Dirge of Cerberus' }, { text: ' episode retells the story from ' }, { emText: 'Dirge of Cerberus: Final Fantasy VII (2006)' }, { text: ' and includes details pertaining to ' }, { emText: 'Dirge of Cerberus Lost Episode: Final Fantasy VII (2006)' }, { text: '. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.' }],
+            ],
           },
           {
-            description: [
-              'The original release.',
-            ],
             languages: [
               { value: 'JA', native: true },
             ],
             platforms: [
               { key: 'playstation2', noUrl: true, jpTag: true },
               { key: 'playstation3', paren: 'PS2 compatibility', noUrl: true, jpTag: true },
+            ],
+            versionDesc: [
+              'The original release.',
             ],
           },
         ],
@@ -866,6 +880,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
   {
     mediaType: 'Game', chronoOrder: 3500, recommendedOrder: 1700,
     title: 'Dirge of Cerberus Lost Episode: Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII#Mobile_phone_games', titleDate: '2006-08-22',
+    mediaDesc: [
+      ['An extra story taking place between events in ', { emText: 'Dirge of Cerberus: Final Fantasy VII (2006)' }, '.'],
+    ],
     primary: {
       tags: ['Optional', 'Sequel', 'Shooter'],
       languages: [
@@ -874,9 +891,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { value: '…?' },
       ],
       helpWanted: true,
-      description: [
-        ['An extra story taking place between events in ', { emText: 'Dirge of Cerberus: Final Fantasy VII (2006)' }, '.'],
-      ],
       platforms: [
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'Dirge of Cerberus Lost Episode: Final Fantasy VII', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Dirge of Cerberus Lost Episode: Final Fantasy VII', noResults: true },
@@ -895,9 +909,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
               { value: 'JA', native: true, voice: true },
               { value: 'EN', voice: true },
             ],
-            description: [
-              [{ text: 'This was the only way to experience it as an RPG instead of a shooter. The ' }, { emText: 'Dirge of Cerberus' }, { text: ' episode retells the story from ' }, { emText: 'Dirge of Cerberus: Final Fantasy VII (2006)' }, { text: ' and includes details pertaining to ' }, { emText: 'Dirge of Cerberus Lost Episode: Final Fantasy VII (2006)' }, { text: '. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.' }],
-            ],
             profileUrl: 'https://en.ffviiec.com/',
             ratings: [
               { score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic' },
@@ -912,6 +923,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
               { key: 'android2', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
               { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
             ],
+            versionDesc: [
+              [{ text: 'This was the only way to experience it as an RPG instead of a shooter. The ' }, { emText: 'Dirge of Cerberus' }, { text: ' episode retells the story from ' }, { emText: 'Dirge of Cerberus: Final Fantasy VII (2006)' }, { text: ' and includes details pertaining to ' }, { emText: 'Dirge of Cerberus Lost Episode: Final Fantasy VII (2006)' }, { text: '. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.' }],
+            ],
           },
         ],
       },
@@ -920,6 +934,10 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
   {
     mediaType: 'Game', chronoOrder: 480, recommendedOrder: 1800,
     title: 'Final Fantasy VII: Snowboarding', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_Snowboarding', titleDate: '2005-03-29',
+    mediaDesc: [
+      'The main character is Cloud Strife, and the objective is to snowboard down tracks, dodging moogles, doing tricks off ramps, and collecting balloons. The "Chocobo Theme" song is played throughout the game.',
+      [{ text: 'It is a remake of the snowboarding minigame near the Icicle Inn, as well as its near-identical minigame in the Gold Saucer in ' }, { emText: 'VII (1997)' }, { text: '. It is terminated, but you can always replay the original minigame.' }],
+    ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Minigame', 'Mobile', 'Snowboarding', 'Single-player', 'Terminated'],
       languages: [
@@ -928,10 +946,6 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { value: '…?' },
       ],
       helpWanted: true,
-      description: [
-        'The main character is Cloud Strife, and the objective is to snowboard down tracks, dodging moogles, doing tricks off ramps, and collecting balloons. The "Chocobo Theme" song is played throughout the game.',
-        [{ text: 'It is a remake of the snowboarding minigame near the Icicle Inn, as well as its near-identical minigame in the Gold Saucer in ' }, { emText: 'VII (1997)' }, { text: '. It is terminated, but you can always replay the original minigame.' }],
-      ],
       platforms: [
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy VII: Snowboarding mobile' },
         { key: 'mobile-phone', terminated: true, noUrl: true },
@@ -941,13 +955,13 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
   {
     mediaType: 'Game', chronoOrder: 490, recommendedOrder: 1900,
     title: 'Final Fantasy VII G-Bike', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_G-Bike', titleDate: '2014-10-30',
+    mediaDesc: [
+      [{ text: 'Motorcycle racing game with role-playing elements inspired by a similar minigame in ' }, { emText: 'VII (1997)' }, { text: '. While riding on a motorcycle, Cloud battled enemies with melee weapons and magic with help from other characters. It is terminated, but you can always replay the original minigame.' }],
+    ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Minigame', 'Mobile', 'Racing', 'Motorcycle', 'Hack and slash', 'Single-player', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
-      ],
-      description: [
-        [{ text: 'Motorcycle racing game with role-playing elements inspired by a similar minigame in ' }, { emText: 'VII (1997)' }, { text: '. While riding on a motorcycle, Cloud battled enemies with melee weapons and magic with help from other characters. It is terminated, but you can always replay the original minigame.' }],
       ],
       platforms: [
         { key: 'android2', jpTag: true, terminated: true, noUrl: true },

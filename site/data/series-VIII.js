@@ -3,6 +3,9 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', chronoOrder: 800, recommendedOrder
   {
     mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
     title: 'Final Fantasy VIII', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VIII', titleDate: '1999-02-11',
+    mediaDesc: [
+      'Squall leads a group of mercenaries as they are drawn into a conflict with Edea who seized control of a powerful military state.',
+    ],
     primary: {
       mainline: true, tags: ['3D', 'RPG', 'Single-player'],
       subtitle: 'Remastered', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Final_Fantasy_VIII_Remastered', subtitleDate: 2019,
@@ -16,10 +19,6 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', chronoOrder: 800, recommendedOrder
         { value: 'ES-419' },
         { value: 'FR-CA' },
         { value: 'EN-US', tip: 'English (American)' },
-      ],
-      description: [
-        'Squall leads a group of mercenaries as they are drawn into a conflict with Edea who seized control of a powerful military state.',
-        [{ text: 'This remaster has remodeled character and Guardian Force models, restored missing visual effects, multiple optional cheats, and a no-encounters mode. A companion mini-game is removed, though its rewards are still obtainable. Released as ' }, { emText: 'Final Fantasy VIII Remastered' }, { text: '.' }],
       ],
       profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-viii-remastered',
       ratings: [
@@ -48,15 +47,15 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', chronoOrder: 800, recommendedOrder
         { key: 'fan-recap', search: 'youtube', term: 'final fantasy VIII' },
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy VIII' },
       ],
+      versionDesc: [
+        [{ text: 'This remaster has remodeled character and Guardian Force models, restored missing visual effects, multiple optional cheats, and a no-encounters mode. A companion mini-game is removed, though its rewards are still obtainable. Released as ' }, { emText: 'Final Fantasy VIII Remastered' }, { text: '.' }],
+      ],
     },
     alts: [
       {
         versions: [
           {
             subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', subtitleDate: 2013,
-            description: [
-              [{ text: 'This remaster has upscaled graphics, High Speed Mode, companion mini-game ' }, { emLinkText: 'Chocobo World', emLinkUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Other_media' }, { text: ', many accesibility and cheat booster commands; including Battle Assistance, Magic Booster, Max Damage, AP Max, Gil Max.' }],
-            ],
             languages: [
               { value: 'EN' },
               { value: 'FR' },
@@ -69,12 +68,12 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', chronoOrder: 800, recommendedOrder
               { key: 'windows', noUrl: true },
               { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/39150/FINAL_FANTASY_VIII/' },
             ],
+            versionDesc: [
+              [{ text: 'This remaster has upscaled graphics, High Speed Mode, companion mini-game ' }, { emLinkText: 'Chocobo World', emLinkUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Other_media' }, { text: ', many accesibility and cheat booster commands; including Battle Assistance, Magic Booster, Max Damage, AP Max, Gil Max.' }],
+            ],
           },
           {
             subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', subtitleDate: 2000,
-            description: [
-              'This port has MIDI audio instead of the original soundtrack and a slower battle interface that makes Limit Break inputs less precise. A companion mini-game no longer requires extra hardware to play.',
-            ],
             languages: [
               { value: 'EN', native: true },
               { value: 'JA' },
@@ -86,13 +85,13 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', chronoOrder: 800, recommendedOrder
             platforms: [
               { key: 'windows', noUrl: true },
             ],
+            versionDesc: [
+              'This port has MIDI audio instead of the original soundtrack and a slower battle interface that makes Limit Break inputs less precise. A companion mini-game no longer requires extra hardware to play.',
+            ],
           },
           {
             label: 'Final Fantasy VIII (1999)',
             url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII',
-            description: [
-              'The original release. Non-Japan releases add automatic tutorials and give two Guardian Forces their elemental/status junction abilities by default.',
-            ],
             languages: [
               { value: 'JA', native: true },
               { value: 'EN' },
@@ -105,6 +104,9 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', chronoOrder: 800, recommendedOrder
               { key: 'playstation3', paren: 'PSone compatibility; Digital' },
               { key: 'playstation-vita', paren: 'Digital' },
               { key: 'playstation-portable', paren: 'Digital' },
+            ],
+            versionDesc: [
+              'The original release. Non-Japan releases add automatic tutorials and give two Guardian Forces their elemental/status junction abilities by default.',
             ],
           },
         ],
