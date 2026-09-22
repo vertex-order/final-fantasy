@@ -15,6 +15,7 @@
 
 ## wikipedia.org (Information)
 
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Final_Fantasy_XV_Universe -- dates*, platforms*, tags, story -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#A_King's_Tale:_Final_Fantasy_XV
 
 ## Xbox (Platform)

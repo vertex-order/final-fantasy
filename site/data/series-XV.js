@@ -622,4 +622,25 @@ window.__ffSeriesReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 1
       ],
     },
   },
+  {
+    mediaType: 'Game', chronoOrder: 3800, recommendedOrder: 970,
+    title: 'Justice Monsters Five', titleUrl: 'https://wikipedia.org/wiki/Justice_Monsters_Five', titleDate: '2016-08-30',
+    mediaDesc: [
+      [{ text: 'Mobile pinball game based on a minigame from ' }, { emText: 'XV (2016)' }, { text: '. It is terminated.' }],
+    ],
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Minigame', 'Mobile', 'Pinball', 'Single-player', 'Terminated'],
+      languages: [
+        { value: 'JA', native: true },
+        { value: 'EN' },
+        { value: '…?' },
+      ],
+      helpWanted: true,
+      platforms: [
+        { key: 'android2', terminated: true, noUrl: true },
+        { key: 'apple', terminated: true, noUrl: true },
+        { key: 'fan-playthrough', search: 'youtube', term: 'Justice Monsters Five' },
+      ],
+    },
+  },
 ]};

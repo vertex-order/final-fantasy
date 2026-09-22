@@ -28,6 +28,21 @@
 - Id is overridable in `site/data/`. Override wins — rename the sources
   file to match it, don't re-derive from key/year.
 
+### Franchise-wide files
+
+- For a source that isn't tied to one entry — spans many entries, or
+  documents the franchise/series as a whole (a catalog/list page, a
+  series-overview article) — file as `sources/<slug>.md`, no year.
+  - e.g. `final-fantasy-franchise.md` for
+    [List of Final Fantasy video games](https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games).
+  - Same internal structure as an entry file (`## Sources`, `##
+    Decisions`, etc. — see below).
+- Doesn't replace per-entry citing: a page like the list article above
+  still gets cited from each entry's own file too (it's genuinely a
+  source for that entry's dates/platforms). The franchise file is for
+  the fact that the page *itself*, as a franchise-spanning catalog, is
+  worth recording once — not a substitute for the per-entry lines.
+
 ## Header policy for entry files: `##` only
 
 - Applies to files under `sources/`, not this doc.

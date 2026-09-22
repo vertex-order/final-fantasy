@@ -149,7 +149,9 @@ Mirror: https://web.archive.org/web/20180604041507/http://dlgames.square-enix.co
 
 ## wikipedia.org (Information)
 
-- https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series-related_games -- dates*, platforms*, versions* -- accessed 2026-09-19
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series -- dates*, platforms* -- accessed 2026-09-19
+  - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Bundled_releases -- dates, platforms -- accessed 2026-09-22
+  - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Branded_subseries -- dates*, platforms* -- accessed 2026-09-22
 
 - https://wikipedia.org/wiki/Final_Fantasy_(video_game) -- dates*, platforms*, story, tags -- accessed 2026-09-19
   - https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases -- dates, platforms*, versions* -- accessed 2026-09-19

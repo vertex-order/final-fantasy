@@ -15,6 +15,7 @@
 
 ## wikipedia.org (Information)
 
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Crystal_Chronicles -- dates*, platforms*, tags -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King
 
 ## Decisions

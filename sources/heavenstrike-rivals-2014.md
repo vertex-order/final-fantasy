@@ -13,4 +13,8 @@
 
 - https://www.metacritic.com/game/heavenstrike-rivals/
 
+## wikipedia.org (Information)
+
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Other_games -- dates*, platforms* -- accessed 2026-09-22
+
 ## Decisions
