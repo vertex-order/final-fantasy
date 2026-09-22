@@ -57,31 +57,27 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', chronoOrder: 1390, recommendedOrder:
         [{ text: 'Upon ending the twelfth cycle, the game remakes the thirteenth war from the original ' }, { emText: 'Dissidia (2008)' }, { text: ' and adds multiple side-stories.' }],
         [{ text: 'Released as ' }, { emText: 'Dissidia 012 Final Fantasy (2011)' }, { text: ', it is both a remake and a prequel with the bonus content.' }],
       ],
+      versions: [
+        {
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          ratings: [
+            { score: '79', url: 'https://www.metacritic.com/game/dissidia-final-fantasy/', key: 'metacritic' },
+            { score: '7.1', url: 'https://www.metacritic.com/game/dissidia-final-fantasy/', key: 'metacritic-user' },
+          ],
+          platforms: [
+            { key: 'playstation-portable', noUrl: true },
+          ],
+          versionDesc: [
+            [{ text: 'The original release. The Western versions add new cutscenes, an Arcade Mode, and ease unlocking Shade Impulse and grinding for player icons. Also released as ' }, { emText: 'Dissidia Final Fantasy: Universal Tuning' }, { text: ' in Japan, which offers a choice of English or Japanese voice audio in battles (cutscenes are English only).' }],
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            ratings: [
-              { score: '79', url: 'https://www.metacritic.com/game/dissidia-final-fantasy/', key: 'metacritic' },
-              { score: '7.1', url: 'https://www.metacritic.com/game/dissidia-final-fantasy/', key: 'metacritic-user' },
-            ],
-            platforms: [
-              { key: 'playstation-portable', noUrl: true },
-            ],
-            versionDesc: [
-              [{ text: 'The original release. The Western versions add new cutscenes, an Arcade Mode, and ease unlocking Shade Impulse and grinding for player icons. Also released as ' }, { emText: 'Dissidia Final Fantasy: Universal Tuning' }, { text: ' in Japan, which offers a choice of English or Japanese voice audio in battles (cutscenes are English only).' }],
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,

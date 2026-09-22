@@ -51,125 +51,121 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
         'This remaster has redrawn sprites, rearranged music, several UI improvements, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
         [{ text: 'Released as ' }, { emText: 'Final Fantasy II Pixel Remaster' }, { text: '. Included in the ' }, { emText: 'Final Fantasy I-VI Bundle / Collection' }, { text: '. Does not include the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign included in other versions.' }],
       ],
+      versions: [
+        {
+          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2012,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          length: [{ value: '5h', tip: 'Soul of Rebirth Main Story', join: ' / ' }, { value: '6h', tip: 'Soul of Rebirth Main + Extra', join: ' / ' }, { value: '7½h', tip: 'Soul of Rebirth Completionist' }],
+          platforms: [
+            { key: 'android2', terminated: true, paren: 'Digital' },
+          ],
+          versionDesc: [
+            [{ text: 'This mobile edit reworks the UI for touch controls, reduces music quality, and removes the Art Gallery and Item Collection. Includes the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign.' }],
+          ],
+        },
+        {
+          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2007,
+          helpWanted: true,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          platforms: [
+            { key: 'apple', terminated: true, paren: 'Digital' },
+            { key: 'playstation-portable', paren: 'Physical' },
+          ],
+          versionDesc: [
+            [{ text: "This edit adds a bonus dungeon and refines Remaster (2002)'s bonus content. Released as " }, { emText: 'Final Fantasy II Anniversary Edition (2007)' }, { text: '. Includes the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign.' }],
+          ],
+        },
+        {
+          subtitle: 'Mobile', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2005,
+          languages: [
+            { value: 'JA', native: true },
+          ],
+          platforms: [
+            { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'Digital' },
+          ],
+          versionDesc: [
+            [{ text: 'This mobile port is based on Remake (2004), with cutscenes, portraits, and bonus content removed. Does not include the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign. Released as ' }, { emText: 'Final Fantasy Mobile (2005)' }, { text: '.' }],
+          ],
+        },
+        {
+          title: 'Final Fantasy II', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II', titleDate: 1998,
+          subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2004,
+          helpWanted: true,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          platforms: [
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-game-boy-advance', paren: 'Physical' },
+          ],
+          versionDesc: [
+            [{ text: 'This remake redraws cutesy sprites, reworks the storyline, and updates terminology. Released in omnibus ' }, { emText: 'Final Fantasy I & II: Dawn of Souls (2004)' }, { text: '. Introduces the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign.' }],
+          ],
+        },
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2002,
+          helpWanted: true,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          platforms: [
+            { key: 'playstation3', paren: 'Digital' },
+            { key: 'playstation2', paren: 'PSone compatibility' },
+            { key: 'playstation1', paren: 'Physical' },
+            { key: 'playstation-vita', paren: 'Digital' },
+            { key: 'playstation-portable', paren: 'Digital' },
+          ],
+          versionDesc: [
+            [{ text: 'This remaster reworks graphics, adds a CGI opening cutscene, monster database, and art gallery. May have slow menus. Released in omnibus ' }, { emText: 'Final Fantasy Origins (2002)' }, { text: '.' }],
+          ],
+        },
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2001,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN', tip: 'English (Fan Translation) (RPGONE 2002)' },
+          ],
+          platforms: [
+            { key: 'wonderswan', paren: 'Physical; Japan Only' },
+          ],
+          versionDesc: [
+            'This remaster overhauls visuals and sound, and adds new cutscenes, auto-targeting, a dash button, and quicksave.',
+          ],
+        },
+        {
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN', tip: 'English (Fan Translation) (Demiforce 1998; Chaos Rush 2020)' },
+            { value: 'ES', tip: 'Spanish (Fan Translation) (Butz Klauser 2005)' },
+            { value: 'FR', tip: 'French (Fan Translation) (Terminus Traduction 2003)' },
+            { value: 'PT', tip: 'Portuguese (Fan Translation) (CBT 2000)' },
+            { value: 'SV', tip: 'Swedish (Fan Translation) (Cyndeline Translations 2007)' },
+          ],
+          platforms: [
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-fc', paren: 'Physical; Japan Only' },
+            { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
+          ],
+          versionDesc: [
+            [{ text: 'The original release. Release edits may include slight graphical or translation tweaks. On the ' }, { tipText: 'FC', tip: 'Nintendo Famicom' }, { jpTag: true }, { text: ', included in the omnibus release ' }, { emText: 'Final Fantasy I-II (1994)' }, { text: '.' }],
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2012,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            length: [{ value: '5h', tip: 'Soul of Rebirth Main Story', join: ' / ' }, { value: '6h', tip: 'Soul of Rebirth Main + Extra', join: ' / ' }, { value: '7½h', tip: 'Soul of Rebirth Completionist' }],
-            platforms: [
-              { key: 'android2', terminated: true, paren: 'Digital' },
-            ],
-            versionDesc: [
-              [{ text: 'This mobile edit reworks the UI for touch controls, reduces music quality, and removes the Art Gallery and Item Collection. Includes the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign.' }],
-            ],
-          },
-          {
-            subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2007,
-            helpWanted: true,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            platforms: [
-              { key: 'apple', terminated: true, paren: 'Digital' },
-              { key: 'playstation-portable', paren: 'Physical' },
-            ],
-            versionDesc: [
-              [{ text: "This edit adds a bonus dungeon and refines Remaster (2002)'s bonus content. Released as " }, { emText: 'Final Fantasy II Anniversary Edition (2007)' }, { text: '. Includes the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign.' }],
-            ],
-          },
-          {
-            subtitle: 'Mobile', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2005,
-            languages: [
-              { value: 'JA', native: true },
-            ],
-            platforms: [
-              { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'Digital' },
-            ],
-            versionDesc: [
-              [{ text: 'This mobile port is based on Remake (2004), with cutscenes, portraits, and bonus content removed. Does not include the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign. Released as ' }, { emText: 'Final Fantasy Mobile (2005)' }, { text: '.' }],
-            ],
-          },
-          {
-            title: 'Final Fantasy II', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II', titleDate: 1998,
-            subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2004,
-            helpWanted: true,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            platforms: [
-              { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
-              { key: 'nintendo-game-boy-advance', paren: 'Physical' },
-            ],
-            versionDesc: [
-              [{ text: 'This remake redraws cutesy sprites, reworks the storyline, and updates terminology. Released in omnibus ' }, { emText: 'Final Fantasy I & II: Dawn of Souls (2004)' }, { text: '. Introduces the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign.' }],
-            ],
-          },
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2002,
-            helpWanted: true,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            platforms: [
-              { key: 'playstation3', paren: 'Digital' },
-              { key: 'playstation2', paren: 'PSone compatibility' },
-              { key: 'playstation1', paren: 'Physical' },
-              { key: 'playstation-vita', paren: 'Digital' },
-              { key: 'playstation-portable', paren: 'Digital' },
-            ],
-            versionDesc: [
-              [{ text: 'This remaster reworks graphics, adds a CGI opening cutscene, monster database, and art gallery. May have slow menus. Released in omnibus ' }, { emText: 'Final Fantasy Origins (2002)' }, { text: '.' }],
-            ],
-          },
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2001,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN', tip: 'English (Fan Translation) (RPGONE 2002)' },
-            ],
-            platforms: [
-              { key: 'wonderswan', paren: 'Physical; Japan Only' },
-            ],
-            versionDesc: [
-              'This remaster overhauls visuals and sound, and adds new cutscenes, auto-targeting, a dash button, and quicksave.',
-            ],
-          },
-          {
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN', tip: 'English (Fan Translation) (Demiforce 1998; Chaos Rush 2020)' },
-              { value: 'ES', tip: 'Spanish (Fan Translation) (Butz Klauser 2005)' },
-              { value: 'FR', tip: 'French (Fan Translation) (Terminus Traduction 2003)' },
-              { value: 'PT', tip: 'Portuguese (Fan Translation) (CBT 2000)' },
-              { value: 'SV', tip: 'Swedish (Fan Translation) (Cyndeline Translations 2007)' },
-            ],
-            platforms: [
-              { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
-              { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console' },
-              { key: 'nintendo-fc', paren: 'Physical; Japan Only' },
-              { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
-            ],
-            versionDesc: [
-              [{ text: 'The original release. Release edits may include slight graphical or translation tweaks. On the ' }, { tipText: 'FC', tip: 'Nintendo Famicom' }, { jpTag: true }, { text: ', included in the omnibus release ' }, { emText: 'Final Fantasy I-II (1994)' }, { text: '.' }],
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 300,

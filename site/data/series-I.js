@@ -194,163 +194,159 @@ window.__ffSeriesReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100,
         'This remaster has redrawn sprites, rearranged music, in-game maps, auto-battle, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
         [{ text: 'Released as ' }, { emText: 'Final Fantasy Pixel Remaster' }, { text: '. Included in the ' }, { emText: 'Final Fantasy I-VI Bundle / Collection' }, { text: '. Also known as ' }, { emText: 'Final Fantasy+' }, { text: '.' }],
       ],
+      versions: [
+        {
+          tags: ['Unofficial fan project', 'Free'],
+          subtitle: 'Fan Remake', subtitleUrl: 'https://www.rengames.us/ffr', subtitleDate: 2024,
+          languages: [
+            { value: 'EN' },
+          ],
+          profileUrl: 'https://www.rengames.us/ffr',
+          platforms: [
+            { key: 'windows', url: 'https://discord.com/invite/Kg8fVsJW' },
+            { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy renaissance' },
+          ],
+          versionDesc: [
+            [{ text: "A fan-remake of Final Fantasy (1987) in the Unity game engine that fixes many of the original's bugs. Also includes an extra mode with extra gameplay content like new jobs. Released free-to-play via Discord as " }, { emText: 'Final Fantasy Renaissance' }, { text: '. Entry also found in our Fan Projects series.' }],
+          ],
+        },
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2015,
+          languages: [
+            { value: 'JA', native: true },
+          ],
+          platforms: [
+            { key: 'nintendo-3ds', paren: 'Digital', jpTag: true },
+          ],
+          versionDesc: [
+            ['This remaster has 3D stereoscopic graphics; higher resolution 2D graphics, ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, ' sequences, remixed soundtrack, additional dungeon from Remaster (2007); four additional dungeons, updated bestiary from Remaster (2004).'],
+          ],
+        },
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2012,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'android2', terminated: true, paren: 'Digital' },
+          ],
+          versionDesc: [
+            ['This remaster has higher resolution 2D graphics, ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, ' sequences, remixed soundtrack from Remaster (2007). No bonus content.'],
+          ],
+        },
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2007,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'apple', paren: 'Digital' },
+            { key: 'playstation-portable', paren: 'Physical' },
+            { key: 'windows-phone', paren: 'Digital' },
+          ],
+          versionDesc: [
+            ['This remaster has higher resolution 2D graphics, ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, ' sequences, remixed soundtrack, additional dungeon; four additional dungeons, updated bestiary from Remaster (2004).'],
+            ['Released as ', { emText: 'Final Fantasy Anniversary Edition' }, '.'],
+          ],
+        },
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2004,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'nintendo-game-boy-advance', paren: 'Physical' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+          ],
+          versionDesc: [
+            [{ text: 'This remaster adds a bonus dungeon and updates the bestiary. Released in the omnibus entry ' }, { emText: 'Final Fantasy I & II: Dawn of Souls (2004)' }, { text: '.' }],
+          ],
+        },
+        {
+          subtitle: 'Mobile', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2004,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'mobile-phone', terminated: true, paren: 'Digital' },
+          ],
+          versionDesc: [
+            [{ text: 'Based on the original release, with all bonus content removed. Released as ' }, { emText: 'Final Fantasy Mobile' }, { text: '.' }],
+          ],
+        },
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2002,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+            { key: 'playstation2', paren: 'PSone compatibility' },
+            { key: 'playstation1', paren: 'Physical' },
+            { key: 'playstation-vita', paren: 'Digital' },
+            { key: 'playstation-portable', paren: 'Digital' },
+          ],
+          versionDesc: [
+            ['This remaster has redrawn graphics and updated backgrounds from Remaster (2000); ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, ' sequences, remixed soundtrack, art galleries, memo save; May have slow menus.', { text: ' Released in the omnibus entry ' }, { emText: 'Final Fantasy Origins (2002)' }, { text: '.' }],
+          ],
+        },
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2000,
+          languages: [
+            { value: 'JA', native: true },
+          ],
+          platforms: [
+            { key: 'wonderswan', paren: 'Physical; Japan Only' },
+          ],
+          versionDesc: [
+            'This remaster overhauls visuals and sound, and adds new cutscenes, a dash button, and quicksave.',
+          ],
+        },
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 1989,
+          languages: [
+            { value: 'JA', native: true },
+          ],
+          platforms: [
+            { key: 'msx2', paren: 'Physical; Japan Only' },
+          ],
+          versionDesc: [
+            'This remaster expands music and sound and slightly improves the graphics, but has slow loading times and choppy movement rendering.',
+          ],
+        },
+        {
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+          ],
+          platforms: [
+            { key: 'nintendo-nes-fc', paren: 'Physical' },
+            { key: 'nintendo-nes-classic-edition', nonJpTag: true },
+            { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
+          ],
+          versionDesc: [
+            [{ text: 'The original release. Release edits may include slight graphical or translation tweaks. On the ' }, { tipText: 'FC', tip: 'Nintendo Famicom' }, { jpTag: true }, { text: ', included in the omnibus release ' }, { emText: 'Final Fantasy I-II (1994)' }, { text: '.' }],
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            tags: ['Unofficial fan project', 'Free'],
-            subtitle: 'Fan Remake', subtitleUrl: 'https://www.rengames.us/ffr', subtitleDate: 2024,
-            languages: [
-              { value: 'EN' },
-            ],
-            profileUrl: 'https://www.rengames.us/ffr',
-            platforms: [
-              { key: 'windows', url: 'https://discord.com/invite/Kg8fVsJW' },
-              { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy renaissance' },
-            ],
-            versionDesc: [
-              [{ text: "A fan-remake of Final Fantasy (1987) in the Unity game engine that fixes many of the original's bugs. Also includes an extra mode with extra gameplay content like new jobs. Released free-to-play via Discord as " }, { emText: 'Final Fantasy Renaissance' }, { text: '. Entry also found in our Fan Projects series.' }],
-            ],
-          },
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2015,
-            languages: [
-              { value: 'JA', native: true },
-            ],
-            platforms: [
-              { key: 'nintendo-3ds', paren: 'Digital', jpTag: true },
-            ],
-            versionDesc: [
-              ['This remaster has 3D stereoscopic graphics; higher resolution 2D graphics, ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, ' sequences, remixed soundtrack, additional dungeon from Remaster (2007); four additional dungeons, updated bestiary from Remaster (2004).'],
-            ],
-          },
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2012,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'android2', terminated: true, paren: 'Digital' },
-            ],
-            versionDesc: [
-              ['This remaster has higher resolution 2D graphics, ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, ' sequences, remixed soundtrack from Remaster (2007). No bonus content.'],
-            ],
-          },
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2007,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'apple', paren: 'Digital' },
-              { key: 'playstation-portable', paren: 'Physical' },
-              { key: 'windows-phone', paren: 'Digital' },
-            ],
-            versionDesc: [
-              ['This remaster has higher resolution 2D graphics, ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, ' sequences, remixed soundtrack, additional dungeon; four additional dungeons, updated bestiary from Remaster (2004).'],
-              ['Released as ', { emText: 'Final Fantasy Anniversary Edition' }, '.'],
-            ],
-          },
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2004,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'nintendo-game-boy-advance', paren: 'Physical' },
-              { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
-            ],
-            versionDesc: [
-              [{ text: 'This remaster adds a bonus dungeon and updates the bestiary. Released in the omnibus entry ' }, { emText: 'Final Fantasy I & II: Dawn of Souls (2004)' }, { text: '.' }],
-            ],
-          },
-          {
-            subtitle: 'Mobile', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2004,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'mobile-phone', terminated: true, paren: 'Digital' },
-            ],
-            versionDesc: [
-              [{ text: 'Based on the original release, with all bonus content removed. Released as ' }, { emText: 'Final Fantasy Mobile' }, { text: '.' }],
-            ],
-          },
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2002,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'playstation3', paren: 'PSone compatibility; Digital' },
-              { key: 'playstation2', paren: 'PSone compatibility' },
-              { key: 'playstation1', paren: 'Physical' },
-              { key: 'playstation-vita', paren: 'Digital' },
-              { key: 'playstation-portable', paren: 'Digital' },
-            ],
-            versionDesc: [
-              ['This remaster has redrawn graphics and updated backgrounds from Remaster (2000); ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, ' sequences, remixed soundtrack, art galleries, memo save; May have slow menus.', { text: ' Released in the omnibus entry ' }, { emText: 'Final Fantasy Origins (2002)' }, { text: '.' }],
-            ],
-          },
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2000,
-            languages: [
-              { value: 'JA', native: true },
-            ],
-            platforms: [
-              { key: 'wonderswan', paren: 'Physical; Japan Only' },
-            ],
-            versionDesc: [
-              'This remaster overhauls visuals and sound, and adds new cutscenes, a dash button, and quicksave.',
-            ],
-          },
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 1989,
-            languages: [
-              { value: 'JA', native: true },
-            ],
-            platforms: [
-              { key: 'msx2', paren: 'Physical; Japan Only' },
-            ],
-            versionDesc: [
-              'This remaster expands music and sound and slightly improves the graphics, but has slow loading times and choppy movement rendering.',
-            ],
-          },
-          {
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-            ],
-            platforms: [
-              { key: 'nintendo-nes-fc', paren: 'Physical' },
-              { key: 'nintendo-nes-classic-edition', nonJpTag: true },
-              { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console' },
-              { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
-              { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
-            ],
-            versionDesc: [
-              [{ text: 'The original release. Release edits may include slight graphical or translation tweaks. On the ' }, { tipText: 'FC', tip: 'Nintendo Famicom' }, { jpTag: true }, { text: ', included in the omnibus release ' }, { emText: 'Final Fantasy I-II (1994)' }, { text: '.' }],
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 300,
