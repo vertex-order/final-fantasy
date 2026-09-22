@@ -445,6 +445,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
       {
         versions: [
           {
+            // pinned: Ever Crisis (2023, below) is newer but terminated -- this still-
+            // available mobile port stays the top entry despite the older release date.
+            pinned: true,
             subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', subtitleDate: 2015,
             languages: [
               { value: 'EN' },
