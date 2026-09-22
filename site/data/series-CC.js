@@ -45,30 +45,26 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
       versionDesc: [
         'This remaster brings enhanced graphics, new and arranged music, thirteen new dungeons, voice acting, and cross-platform online multiplayer.',
       ],
+      versions: [
+        {
+          label: 'Final Fantasy Crystal Chronicles (2003)',
+          url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)',
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'nintendo-gamecube', paren: 'Physical', noUrl: true },
+            { key: 'nintendo-game-boy-advance', paren: 'Physical; one per player in co-op, with a GameCube', noUrl: true },
+          ],
+          versionDesc: [
+            'The original release, which used up to four Game Boy Advance units connected to a single GameCube to provide four player co-op multiplayer.',
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            label: 'Final Fantasy Crystal Chronicles (2003)',
-            url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)',
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'nintendo-gamecube', paren: 'Physical', noUrl: true },
-              { key: 'nintendo-game-boy-advance', paren: 'Physical; one per player in co-op, with a GameCube', noUrl: true },
-            ],
-            versionDesc: [
-              'The original release, which used up to four Game Boy Advance units connected to a single GameCube to provide four player co-op multiplayer.',
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 150,

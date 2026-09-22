@@ -293,52 +293,48 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
       versionDesc: [
         [{ text: 'This remake fully re-records the voice cast with an expanded script and new story scenes, adds three selectable difficulty options (Squire, Knight, and Tactician), and lets you avoid random encounters. It includes auto-save with battle retries and New Game+. Released as ' }, { emText: 'Final Fantasy Tactics: The Ivalice Chronicles (2025)' }, { text: '. Does not include ' }, { emText: 'The War of the Lions' }, { text: '’s exclusive jobs, playable characters, or multiplayer.' }],
       ],
+      versions: [
+        {
+          subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions', subtitleDate: 2007,
+          languages: [
+            { value: 'EN', voice: true },
+            { value: 'JA', native: true, textOnly: true },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          profileUrl: 'http://dlgames.square-enix.com/fft/en/',
+          platforms: [
+            { key: 'playstation-portable', url: 'http://dlgames.square-enix.com/fft/en/' },
+            { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2' },
+            { key: 'apple', url: 'http://dlgames.square-enix.com/fft/en/' },
+            { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy Tactics War of the Lions' },
+            { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy Tactics War of the Lions' },
+            { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Tactics War of the Lions' },
+          ],
+          versionDesc: [
+            [{ text: 'This remake re-translates the script with archaic English terminology (e.g., Priest becomes White Mage), and restores the original Japanese release’s harder difficulty and JP costs, reversing the North American version’s easing. It adds widescreen 16:9 support, new cutscenes, voice acting (English versions), ad-hoc multiplayer, new jobs, and two new playable characters. Released as ' }, { emText: 'Final Fantasy Tactics: The War of the Lions (2007)' }, { text: '.' }],
+          ],
+        },
+        {
+          label: 'Final Fantasy Tactics (1997)',
+          url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics',
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+          ],
+          platforms: [
+            { key: 'playstation1', paren: 'Physical', noUrl: true },
+            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
+            { key: 'playstation3', url: 'https://store.playstation.com/', paren: 'PSone compatibility; Digital' },
+            { key: 'playstation-vita', paren: 'Digital', url: 'https://store.playstation.com/' },
+            { key: 'playstation-portable', paren: 'Digital', url: 'https://store.playstation.com/' },
+          ],
+          versionDesc: [
+            'The original release. The North American release (1998) simplifies the translation and eases the difficulty (lower ability costs, faster charge times, weaker bosses). Also playable as the ‘Classic’ mode within the Remake (2025) release, with its script updated to the War of the Lions translation.',
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions', subtitleDate: 2007,
-            languages: [
-              { value: 'EN', voice: true },
-              { value: 'JA', native: true, textOnly: true },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            profileUrl: 'http://dlgames.square-enix.com/fft/en/',
-            platforms: [
-              { key: 'playstation-portable', url: 'http://dlgames.square-enix.com/fft/en/' },
-              { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2' },
-              { key: 'apple', url: 'http://dlgames.square-enix.com/fft/en/' },
-              { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy Tactics War of the Lions' },
-              { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy Tactics War of the Lions' },
-              { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Tactics War of the Lions' },
-            ],
-            versionDesc: [
-              [{ text: 'This remake re-translates the script with archaic English terminology (e.g., Priest becomes White Mage), and restores the original Japanese release’s harder difficulty and JP costs, reversing the North American version’s easing. It adds widescreen 16:9 support, new cutscenes, voice acting (English versions), ad-hoc multiplayer, new jobs, and two new playable characters. Released as ' }, { emText: 'Final Fantasy Tactics: The War of the Lions (2007)' }, { text: '.' }],
-            ],
-          },
-          {
-            label: 'Final Fantasy Tactics (1997)',
-            url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics',
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-            ],
-            platforms: [
-              { key: 'playstation1', paren: 'Physical', noUrl: true },
-              { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
-              { key: 'playstation3', url: 'https://store.playstation.com/', paren: 'PSone compatibility; Digital' },
-              { key: 'playstation-vita', paren: 'Digital', url: 'https://store.playstation.com/' },
-              { key: 'playstation-portable', paren: 'Digital', url: 'https://store.playstation.com/' },
-            ],
-            versionDesc: [
-              'The original release. The North American release (1998) simplifies the translation and eases the difficulty (lower ability costs, faster charge times, weaker bosses). Also playable as the ‘Classic’ mode within the Remake (2025) release, with its script updated to the War of the Lions translation.',
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Game', chronoOrder: 6100, recommendedOrder: 600,

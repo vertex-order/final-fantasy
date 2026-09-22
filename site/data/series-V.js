@@ -51,93 +51,89 @@ window.__ffSeriesReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500,
         'This remaster has redrawn sprites, in-game maps, auto-battle, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
         [{ text: 'Released as ' }, { emText: 'Final Fantasy V Pixel Remaster' }, { text: '. Included in the ' }, { emText: 'Final Fantasy I-VI Bundle / Collection' }, { text: '.' }],
       ],
+      versions: [
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', subtitleDate: 2013,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: 'FR' },
+            { value: 'DE' },
+            { value: 'IT' },
+            { value: 'PT-PT' },
+            { value: 'RU' },
+            { value: 'ES-ES' },
+          ],
+          platforms: [
+            { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/382890/FINAL_FANTASY_V_Old_ver/', paren: 'PC' },
+            { key: 'android2', terminated: true, noUrl: true },
+            { key: 'apple', terminated: true, noUrl: true },
+          ],
+          versionDesc: [
+            'This remaster has new high-resolution graphics and sprites, eight-direction movement, auto battle. Also has the extra dungeon and optional boss from Edit 2006.',
+          ],
+        },
+        {
+          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', subtitleDate: 2006,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: 'DE' },
+            { value: 'FR' },
+            { value: 'IT' },
+            { value: 'ES' },
+          ],
+          platforms: [
+            { key: 'nintendo-game-boy-advance', paren: 'Physical' },
+          ],
+          versionDesc: [
+            [{ text: 'This edit adds four new jobs, an extra dungeon, optional boss, additional equipment, and new translations. Released as ' }, { emText: 'Final Fantasy V Advance (2006)' }, { text: '.' }],
+          ],
+        },
+        {
+          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', subtitleDate: 1998,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+            { key: 'playstation2', paren: 'PSone compatibility' },
+            { key: 'playstation1', paren: 'Physical' },
+            { key: 'playstation-vita', paren: 'Digital' },
+            { key: 'playstation-portable', paren: 'Digital' },
+          ],
+          versionDesc: [
+            ['This edit adds opening and ending ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, 's, "memo" save feature. May have slow menus.'],
+            ['Released in the omnibus collections ', { emText: 'Final Fantasy Collection' }, { hintText: ' (JP)', tip: 'Japan' }, ' (1999), ', { emText: 'Final Fantasy Anthology' }, ' (2002).'],
+          ],
+        },
+        {
+          label: 'Final Fantasy V (1992)',
+          url: 'https://wikipedia.org/wiki/Final_Fantasy_V',
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN', tip: 'English (Fan Translation) (RPGe 1998)' },
+            { value: 'ES', tip: 'Spanish (Fan Translation) (noisecross 2015)' },
+            { value: 'IT', tip: 'Italian (Fan Translation) (SadNES cITy Translations 2001)' },
+            { value: 'PT', tip: 'Portuguese (Fan Translation) (CBT 1999)' },
+            { value: 'KO', tip: 'Korean (Fan Translation) (FFR 2015)' },
+            { value: 'SV', tip: 'Swedish (Fan Translation) (General CoolNES Translations 2001)' },
+          ],
+          platforms: [
+            { key: 'nintendo-snes', jpTag: true, paren: 'Super Famicom; Physical' },
+            { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
+          ],
+          versionDesc: [
+            'The original release.',
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', subtitleDate: 2013,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: 'FR' },
-              { value: 'DE' },
-              { value: 'IT' },
-              { value: 'PT-PT' },
-              { value: 'RU' },
-              { value: 'ES-ES' },
-            ],
-            platforms: [
-              { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/382890/FINAL_FANTASY_V_Old_ver/', paren: 'PC' },
-              { key: 'android2', terminated: true, noUrl: true },
-              { key: 'apple', terminated: true, noUrl: true },
-            ],
-            versionDesc: [
-              'This remaster has new high-resolution graphics and sprites, eight-direction movement, auto battle. Also has the extra dungeon and optional boss from Edit 2006.',
-            ],
-          },
-          {
-            subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', subtitleDate: 2006,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: 'DE' },
-              { value: 'FR' },
-              { value: 'IT' },
-              { value: 'ES' },
-            ],
-            platforms: [
-              { key: 'nintendo-game-boy-advance', paren: 'Physical' },
-            ],
-            versionDesc: [
-              [{ text: 'This edit adds four new jobs, an extra dungeon, optional boss, additional equipment, and new translations. Released as ' }, { emText: 'Final Fantasy V Advance (2006)' }, { text: '.' }],
-            ],
-          },
-          {
-            subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_V#Ports_and_remakes', subtitleDate: 1998,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'playstation3', paren: 'PSone compatibility; Digital' },
-              { key: 'playstation2', paren: 'PSone compatibility' },
-              { key: 'playstation1', paren: 'Physical' },
-              { key: 'playstation-vita', paren: 'Digital' },
-              { key: 'playstation-portable', paren: 'Digital' },
-            ],
-            versionDesc: [
-              ['This edit adds opening and ending ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, 's, "memo" save feature. May have slow menus.'],
-              ['Released in the omnibus collections ', { emText: 'Final Fantasy Collection' }, { hintText: ' (JP)', tip: 'Japan' }, ' (1999), ', { emText: 'Final Fantasy Anthology' }, ' (2002).'],
-            ],
-          },
-          {
-            label: 'Final Fantasy V (1992)',
-            url: 'https://wikipedia.org/wiki/Final_Fantasy_V',
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN', tip: 'English (Fan Translation) (RPGe 1998)' },
-              { value: 'ES', tip: 'Spanish (Fan Translation) (noisecross 2015)' },
-              { value: 'IT', tip: 'Italian (Fan Translation) (SadNES cITy Translations 2001)' },
-              { value: 'PT', tip: 'Portuguese (Fan Translation) (CBT 1999)' },
-              { value: 'KO', tip: 'Korean (Fan Translation) (FFR 2015)' },
-              { value: 'SV', tip: 'Swedish (Fan Translation) (General CoolNES Translations 2001)' },
-            ],
-            platforms: [
-              { key: 'nintendo-snes', jpTag: true, paren: 'Super Famicom; Physical' },
-              { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console' },
-              { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
-              { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
-            ],
-            versionDesc: [
-              'The original release.',
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Movie', chronoOrder: 1000, recommendedOrder: 200,

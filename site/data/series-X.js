@@ -47,75 +47,71 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
       versionDesc: [
         [{ text: 'This remaster has enhanced 4k graphics and a soundtrack switch, with auto-save, five game boosters including high speed and no encounter modes, and FMV skip on PC and PlayStation. Released as ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' and includes ' }, { emText: 'X-2 (2003)' }, { text: ' and ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '.' }],
       ],
+      versions: [
+        {
+          title: 'Final Fantasy X', titleDate: 2001,
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster', subtitleDate: 2013,
+          languages: [
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR' },
+            { value: 'IT' },
+            { value: 'DE' },
+            { value: 'ES-ES' },
+            { value: 'KO' },
+            { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
+            { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
+          ],
+          profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
+          platforms: [
+            { key: 'playstation3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+            { key: 'playstation4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+            { key: 'playstation-vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+          ],
+          versionDesc: [
+            [{ text: 'This remaster has enhanced 1080p graphics, soundtrack switch, cross-saves, and a Final Fantasy X -Will- audio drama. Also released as ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (not to be confused with ' }, { emText: 'Remaster (2016)' }, { text: ') and includes ' }, { emText: 'X-2 (2003)' }, { text: ' and ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '. Includes all content from ' }, { emText: 'International (2002)' }, { text: ' version.' }],
+          ],
+        },
+        {
+          title: 'Final Fantasy X', titleDate: 2001,
+          subtitle: 'International', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise', subtitleDate: 2002,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation1', paren: 'Physical', noUrl: true },
+            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
+            { key: 'playstation3', paren: 'PSone compatibility; Digital', noUrl: true },
+            { key: 'playstation-portable', paren: 'Digital', noUrl: true },
+            { key: 'playstation-vita', paren: 'Digital', noUrl: true },
+          ],
+          versionDesc: [
+            [{ text: 'Expert sphere grid mode, dark aeons, extra Penance fight. Includes the Eternal Calm video prequel to X-2 (2003). Included in the omnibus collection ' }, { emText: 'Final Fantasy X/X-2 Ultimate Box (JP; 2005)' }, { text: '.' }],
+          ],
+        },
+        {
+          label: 'Final Fantasy X (2001)',
+          url: 'https://wikipedia.org/wiki/Final_Fantasy_X',
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation1', paren: 'Physical', noUrl: true },
+            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
+            { key: 'playstation3', paren: 'PSone compatibility', noUrl: true },
+          ],
+          versionDesc: [
+            'The original release. PAL versions run 20% slower due to a 50Hz refresh rate.',
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            title: 'Final Fantasy X', titleDate: 2001,
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster', subtitleDate: 2013,
-            languages: [
-              { value: 'JA', native: true, voice: true },
-              { value: 'EN-US', voice: true },
-              { value: 'FR' },
-              { value: 'IT' },
-              { value: 'DE' },
-              { value: 'ES-ES' },
-              { value: 'KO' },
-              { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
-              { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
-            ],
-            profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
-            platforms: [
-              { key: 'playstation3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-              { key: 'playstation4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-              { key: 'playstation-vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-            ],
-            versionDesc: [
-              [{ text: 'This remaster has enhanced 1080p graphics, soundtrack switch, cross-saves, and a Final Fantasy X -Will- audio drama. Also released as ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (not to be confused with ' }, { emText: 'Remaster (2016)' }, { text: ') and includes ' }, { emText: 'X-2 (2003)' }, { text: ' and ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '. Includes all content from ' }, { emText: 'International (2002)' }, { text: ' version.' }],
-            ],
-          },
-          {
-            title: 'Final Fantasy X', titleDate: 2001,
-            subtitle: 'International', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise', subtitleDate: 2002,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'playstation1', paren: 'Physical', noUrl: true },
-              { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
-              { key: 'playstation3', paren: 'PSone compatibility; Digital', noUrl: true },
-              { key: 'playstation-portable', paren: 'Digital', noUrl: true },
-              { key: 'playstation-vita', paren: 'Digital', noUrl: true },
-            ],
-            versionDesc: [
-              [{ text: 'Expert sphere grid mode, dark aeons, extra Penance fight. Includes the Eternal Calm video prequel to X-2 (2003). Included in the omnibus collection ' }, { emText: 'Final Fantasy X/X-2 Ultimate Box (JP; 2005)' }, { text: '.' }],
-            ],
-          },
-          {
-            label: 'Final Fantasy X (2001)',
-            url: 'https://wikipedia.org/wiki/Final_Fantasy_X',
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'playstation1', paren: 'Physical', noUrl: true },
-              { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
-              { key: 'playstation3', paren: 'PSone compatibility', noUrl: true },
-            ],
-            versionDesc: [
-              'The original release. PAL versions run 20% slower due to a 50Hz refresh rate.',
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Video', chronoOrder: 1000, recommendedOrder: 200,
@@ -156,50 +152,46 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
         { key: 'fan-movie', search: 'youtube', term: 'final fantasy X eternal calm' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'final fantasy X eternal calm', noResults: true },
       ],
+      versions: [
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster', subtitleDate: 2013,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
+          platforms: [
+            { key: 'playstation3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+            { key: 'playstation4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+            { key: 'playstation-vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+          ],
+          versionDesc: [
+            [{ text: 'May be in 1080p. Included with ' }, { emText: 'X (2001) Remaster (2013)' }, { text: '.' }],
+          ],
+        },
+        {
+          subtitle: 'International', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise', subtitleDate: 2002,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation1', paren: 'Physical', noUrl: true },
+            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
+            { key: 'playstation3', paren: 'PSone compatibility; Digital', noUrl: true },
+            { key: 'playstation-portable', paren: 'Digital', noUrl: true },
+            { key: 'playstation-vita', paren: 'Digital', noUrl: true },
+          ],
+          versionDesc: [
+            [{ text: 'The original release. Included with ' }, { emText: 'X (2001) International (2002)' }, { text: '.' }],
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster', subtitleDate: 2013,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
-            platforms: [
-              { key: 'playstation3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-              { key: 'playstation4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-              { key: 'playstation-vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-            ],
-            versionDesc: [
-              [{ text: 'May be in 1080p. Included with ' }, { emText: 'X (2001) Remaster (2013)' }, { text: '.' }],
-            ],
-          },
-          {
-            subtitle: 'International', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise', subtitleDate: 2002,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'playstation1', paren: 'Physical', noUrl: true },
-              { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
-              { key: 'playstation3', paren: 'PSone compatibility; Digital', noUrl: true },
-              { key: 'playstation-portable', paren: 'Digital', noUrl: true },
-              { key: 'playstation-vita', paren: 'Digital', noUrl: true },
-            ],
-            versionDesc: [
-              [{ text: 'The original release. Included with ' }, { emText: 'X (2001) International (2002)' }, { text: '.' }],
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300,
@@ -248,67 +240,63 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
       versionDesc: [
         [{ text: 'This remaster has enhanced 4k graphics and a soundtrack switch, with auto-save, five game boosters including high speed and no encounter modes, and FMV skip on PC and PlayStation. Released as part of ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' and includes ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '.' }],
       ],
+      versions: [
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitleDate: 2013,
+          languages: [
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN-US', voice: true },
+            { value: 'FR' },
+            { value: 'IT' },
+            { value: 'DE' },
+            { value: 'ES-ES' },
+            { value: 'KO' },
+            { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
+            { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
+          ],
+          profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
+          platforms: [
+            { key: 'playstation3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+            { key: 'playstation4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+            { key: 'playstation-vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+          ],
+          versionDesc: [
+            [{ text: 'This remaster has enhanced 1080p graphics, soundtrack switch, cross-saves, and a ' }, { emText: 'Final Fantasy X -Will-' }, { text: ' audio drama. Also released as ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (not to be confused with Remaster 2016) and includes ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '. Includes ' }, { emText: 'Eternal Calm' }, { text: ' video prequel to ' }, { emText: 'X-2 (2003)' }, { text: '.' }],
+          ],
+        },
+        {
+          subtitle: 'International', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitleDate: 2004,
+          languages: [
+            { value: 'JA', tip: 'Japanese — text', native: true },
+            { value: 'EN', tip: 'English — voice only', voice: true },
+          ],
+          platforms: [
+            { key: 'playstation2', jpTag: true, noUrl: true },
+            { key: 'playstation3', paren: 'PS2 compatibility) (Japan only', jpTag: true, noUrl: true },
+          ],
+          versionDesc: [
+            [{ text: 'Two new dresspheres, two new superbosses, and capture monsters and characters. Also includes ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '. Released as ' }, { emText: 'Final Fantasy X-2 International + Last Mission' }, { text: '. Included in the omnibus collection ' }, { emText: 'Final Fantasy X/X-2 Ultimate Box (JP; 2005)' }, { text: '.' }],
+          ],
+        },
+        {
+          label: 'Final Fantasy X-2 (2003)',
+          url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2',
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation2', noUrl: true },
+            { key: 'playstation3', paren: 'PS2 compatibility', noUrl: true },
+          ],
+          versionDesc: [
+            'The original release.',
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitleDate: 2013,
-            languages: [
-              { value: 'JA', native: true, voice: true },
-              { value: 'EN-US', voice: true },
-              { value: 'FR' },
-              { value: 'IT' },
-              { value: 'DE' },
-              { value: 'ES-ES' },
-              { value: 'KO' },
-              { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
-              { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
-            ],
-            profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
-            platforms: [
-              { key: 'playstation3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-              { key: 'playstation4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-              { key: 'playstation-vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-            ],
-            versionDesc: [
-              [{ text: 'This remaster has enhanced 1080p graphics, soundtrack switch, cross-saves, and a ' }, { emText: 'Final Fantasy X -Will-' }, { text: ' audio drama. Also released as ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (not to be confused with Remaster 2016) and includes ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '. Includes ' }, { emText: 'Eternal Calm' }, { text: ' video prequel to ' }, { emText: 'X-2 (2003)' }, { text: '.' }],
-            ],
-          },
-          {
-            subtitle: 'International', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitleDate: 2004,
-            languages: [
-              { value: 'JA', tip: 'Japanese — text', native: true },
-              { value: 'EN', tip: 'English — voice only', voice: true },
-            ],
-            platforms: [
-              { key: 'playstation2', jpTag: true, noUrl: true },
-              { key: 'playstation3', paren: 'PS2 compatibility) (Japan only', jpTag: true, noUrl: true },
-            ],
-            versionDesc: [
-              [{ text: 'Two new dresspheres, two new superbosses, and capture monsters and characters. Also includes ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '. Released as ' }, { emText: 'Final Fantasy X-2 International + Last Mission' }, { text: '. Included in the omnibus collection ' }, { emText: 'Final Fantasy X/X-2 Ultimate Box (JP; 2005)' }, { text: '.' }],
-            ],
-          },
-          {
-            label: 'Final Fantasy X-2 (2003)',
-            url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2',
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'playstation2', noUrl: true },
-              { key: 'playstation3', paren: 'PS2 compatibility', noUrl: true },
-            ],
-            versionDesc: [
-              'The original release.',
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 400,
@@ -350,44 +338,40 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
       versionDesc: [
         [{ text: 'This remaster has enhanced 4K graphics and may include other bonuses from ' }, { emText: 'Final Fantasy X-2 (2003) Remaster (2016)' }, { text: '. Released as part of ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: '.' }],
       ],
+      versions: [
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitleDate: 2013,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
+          platforms: [
+            { key: 'playstation3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+            { key: 'playstation4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+            { key: 'playstation-vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+          ],
+          versionDesc: [
+            [{ text: 'This remaster has enhanced 1080p graphics and may include other bonuses from ' }, { emText: 'X-2 (2003) Remaster (2013)' }, { text: '. Also released as part of ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (not to be confused with Remaster 2016).' }],
+          ],
+        },
+        {
+          subtitle: 'International', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitleDate: 2004,
+          languages: [
+            { value: 'JA', native: true },
+          ],
+          platforms: [
+            { key: 'playstation2', jpTag: true, noUrl: true },
+            { key: 'playstation3', paren: 'PS2 compatibility) (Japan only', jpTag: true, noUrl: true },
+          ],
+          versionDesc: [
+            [{ text: 'The original release. Released as ' }, { emText: 'Final Fantasy X-2 International + Last Mission' }, { text: '.' }],
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitleDate: 2013,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster',
-            platforms: [
-              { key: 'playstation3', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-              { key: 'playstation4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-              { key: 'playstation-vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-            ],
-            versionDesc: [
-              [{ text: 'This remaster has enhanced 1080p graphics and may include other bonuses from ' }, { emText: 'X-2 (2003) Remaster (2013)' }, { text: '. Also released as part of ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (not to be confused with Remaster 2016).' }],
-            ],
-          },
-          {
-            subtitle: 'International', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitleDate: 2004,
-            languages: [
-              { value: 'JA', native: true },
-            ],
-            platforms: [
-              { key: 'playstation2', jpTag: true, noUrl: true },
-              { key: 'playstation3', paren: 'PS2 compatibility) (Japan only', jpTag: true, noUrl: true },
-            ],
-            versionDesc: [
-              [{ text: 'The original release. Released as ' }, { emText: 'Final Fantasy X-2 International + Last Mission' }, { text: '.' }],
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Book', chronoOrder: 4000, recommendedOrder: 500,

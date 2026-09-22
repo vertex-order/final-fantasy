@@ -504,53 +504,49 @@ window.__ffSeriesReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 1
       versionDesc: [
         [{ text: 'This is the original release, and the recommended way to play — the versions below are contemporary computer ports or a since-terminated mobile remake, not enhancements.' }],
       ],
+      versions: [
+        {
+          subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/King%27s_Knight#Remake', subtitleDate: 2017,
+          languages: [
+            { value: '…?', tip: 'Unknown languages' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'android2', terminated: true },
+            { key: 'apple', terminated: true },
+          ],
+          versionDesc: [
+            [{ text: "This remake adds a new camera perspective and an orchestral version of the former's chiptune soundtrack. It also add 4 player multiplayer. Released as " }, { emText: "King's Knight: Wrath of the Dark Dragon" }, { text: ' and marketed as a direct tie-in with XV.' }],
+          ],
+        },
+        {
+          subtitle: 'Edit', subtitleUrl: "https://wikipedia.org/wiki/King's_Knight", subtitleDate: 1987,
+          languages: [
+            { value: 'JA', native: true },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'pc8801', paren: 'Physical; Japan Only' },
+            { key: 'sharp-x1', paren: 'Physical; Japan Only' },
+          ],
+          versionDesc: [
+            [{ text: 'Released as ' }, { emText: "King's Knight Special" }, { text: '. Unclear whether this builds on the original Famicom release or carries over the improved graphics/audio from the MSX ' }, { emText: 'Remaster (1986)' }, { text: '.' }],
+          ],
+        },
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/King%27s_Knight#Development_and_release', subtitleDate: 1986,
+          languages: [
+            { value: 'JA', native: true },
+          ],
+          platforms: [
+            { key: 'msx', paren: 'Physical; Japan Only' },
+          ],
+          versionDesc: [
+            'Adds keyboard and joystick inputs, more sound channels with changed or improved sounds. Wider range of colors, updated graphics, new monster and boss designs, new UI sidebar. The MSX could not smoothly render vertical scrolling though, so movement can be described as "choppy".',
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/King%27s_Knight#Remake', subtitleDate: 2017,
-            languages: [
-              { value: '…?', tip: 'Unknown languages' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'android2', terminated: true },
-              { key: 'apple', terminated: true },
-            ],
-            versionDesc: [
-              [{ text: "This remake adds a new camera perspective and an orchestral version of the former's chiptune soundtrack. It also add 4 player multiplayer. Released as " }, { emText: "King's Knight: Wrath of the Dark Dragon" }, { text: ' and marketed as a direct tie-in with XV.' }],
-            ],
-          },
-          {
-            subtitle: 'Edit', subtitleUrl: "https://wikipedia.org/wiki/King's_Knight", subtitleDate: 1987,
-            languages: [
-              { value: 'JA', native: true },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'pc8801', paren: 'Physical; Japan Only' },
-              { key: 'sharp-x1', paren: 'Physical; Japan Only' },
-            ],
-            versionDesc: [
-              [{ text: 'Released as ' }, { emText: "King's Knight Special" }, { text: '. Unclear whether this builds on the original Famicom release or carries over the improved graphics/audio from the MSX ' }, { emText: 'Remaster (1986)' }, { text: '.' }],
-            ],
-          },
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/King%27s_Knight#Development_and_release', subtitleDate: 1986,
-            languages: [
-              { value: 'JA', native: true },
-            ],
-            platforms: [
-              { key: 'msx', paren: 'Physical; Japan Only' },
-            ],
-            versionDesc: [
-              'Adds keyboard and joystick inputs, more sound channels with changed or improved sounds. Wider range of colors, updated graphics, new monster and boss designs, new UI sidebar. The MSX could not smoothly render vertical scrolling though, so movement can be described as "choppy".',
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Book', chronoOrder: 3500, recommendedOrder: 950,

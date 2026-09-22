@@ -46,33 +46,29 @@ window.__ffSeriesReg['WD'] = { num: 'WD', chronoOrder: 1580, recommendedOrder: 1
       versionDesc: [
         [{ text: 'This remake is an expanded version of the game. Includes new narrative elements, gameplay additions, new boss fights, search options for treasure chests and other elements, adjustments to capturing mirages, short narratives featuring new characters, a new ending, and most of the original DLC. Released as ' }, { emText: 'World of Final Fantasy Maxima' }, { text: ', depending on the platform as a paid DLC.' }],
       ],
+      versions: [
+        {
+          languages: [
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN', voice: true },
+            { value: 'FR', textOnly: true },
+            { value: 'IT', textOnly: true },
+            { value: 'DE', textOnly: true },
+            { value: 'ES-ES', textOnly: true },
+            { value: 'KO', textOnly: true },
+            { value: 'ZH-TW', textOnly: true },
+          ],
+          platforms: [
+            { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/' },
+            { key: 'playstation4', paren: 'Digital', noUrl: true },
+            { key: 'playstation-vita', paren: 'Digital', noUrl: true },
+          ],
+          versionDesc: [
+            [{ text: 'The original release.' }],
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            languages: [
-              { value: 'JA', native: true, voice: true },
-              { value: 'EN', voice: true },
-              { value: 'FR', textOnly: true },
-              { value: 'IT', textOnly: true },
-              { value: 'DE', textOnly: true },
-              { value: 'ES-ES', textOnly: true },
-              { value: 'KO', textOnly: true },
-              { value: 'ZH-TW', textOnly: true },
-            ],
-            platforms: [
-              { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/' },
-              { key: 'playstation4', paren: 'Digital', noUrl: true },
-              { key: 'playstation-vita', paren: 'Digital', noUrl: true },
-            ],
-            versionDesc: [
-              [{ text: 'The original release.' }],
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,

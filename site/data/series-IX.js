@@ -44,33 +44,29 @@ window.__ffSeriesReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 90
       versionDesc: [
         'This remaster has high-definition movies and character models, autosave, achievements, multiple optional cheats, and a no-encounters mode. Switch and Xbox versions have slower load times, and Switch handheld mode runs at a lower resolution with occasional crashes.',
       ],
+      versions: [
+        {
+          label: 'Final Fantasy IX (2000)',
+          url: 'https://wikipedia.org/wiki/Final_Fantasy_IX',
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation1', paren: 'Physical', noUrl: true },
+            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
+            { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+            { key: 'playstation-vita', paren: 'Digital' },
+            { key: 'playstation-portable', paren: 'Digital' },
+          ],
+          versionDesc: [
+            'The original release.',
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            label: 'Final Fantasy IX (2000)',
-            url: 'https://wikipedia.org/wiki/Final_Fantasy_IX',
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'playstation1', paren: 'Physical', noUrl: true },
-              { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
-              { key: 'playstation3', paren: 'PSone compatibility; Digital' },
-              { key: 'playstation-vita', paren: 'Digital' },
-              { key: 'playstation-portable', paren: 'Digital' },
-            ],
-            versionDesc: [
-              'The original release.',
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 300,

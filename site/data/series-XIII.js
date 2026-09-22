@@ -37,47 +37,43 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
       versionDesc: [
         'This remaster unlocks higher resolutions and up to 60 fps, removes the Xbox disc-swap requirement, and adds an Easy/Normal difficulty toggle. Voice over is toggleable between English and Japanese (Japanese only in the Asian release).',
       ],
+      versions: [
+        {
+          subtitle: 'International', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise', subtitleDate: 2010,
+          languages: [
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN', voice: true },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'xbox-360', noUrl: true },
+            { key: 'xbox-one', paren: '360 compatibility', noUrl: true },
+            { key: 'xbox-xs', paren: '360 compatibility', noUrl: true },
+          ],
+          versionDesc: [
+            ['This release brings the international build — with its English voice option — to Japan a year after the worldwide launch, and adds an Easy/Normal difficulty toggle. Released as ', { emText: 'Final Fantasy XIII Ultimate Hits International' }, '.'],
+          ],
+        },
+        {
+          languages: [
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN', voice: true },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation3', paren: 'Physical; not on Digital', noUrl: true },
+            { key: 'xbox-360', paren: 'Physical; not on Digital', noUrl: true },
+            { key: 'xbox-one', paren: '360 compatibility', noUrl: true },
+            { key: 'xbox-xs', paren: '360 compatibility', noUrl: true },
+          ],
+          versionDesc: [
+            'The original release. A later patch adds an Easy/Normal difficulty toggle.',
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            subtitle: 'International', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise', subtitleDate: 2010,
-            languages: [
-              { value: 'JA', native: true, voice: true },
-              { value: 'EN', voice: true },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'xbox-360', noUrl: true },
-              { key: 'xbox-one', paren: '360 compatibility', noUrl: true },
-              { key: 'xbox-xs', paren: '360 compatibility', noUrl: true },
-            ],
-            versionDesc: [
-              ['This release brings the international build — with its English voice option — to Japan a year after the worldwide launch, and adds an Easy/Normal difficulty toggle. Released as ', { emText: 'Final Fantasy XIII Ultimate Hits International' }, '.'],
-            ],
-          },
-          {
-            languages: [
-              { value: 'JA', native: true, voice: true },
-              { value: 'EN', voice: true },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'playstation3', paren: 'Physical; not on Digital', noUrl: true },
-              { key: 'xbox-360', paren: 'Physical; not on Digital', noUrl: true },
-              { key: 'xbox-one', paren: '360 compatibility', noUrl: true },
-              { key: 'xbox-xs', paren: '360 compatibility', noUrl: true },
-            ],
-            versionDesc: [
-              'The original release. A later patch adds an Easy/Normal difficulty toggle.',
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 200,
@@ -177,46 +173,42 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
       versionDesc: [
         [{ text: 'This remaster unlocks higher resolutions and up to 60 fps, and bundles all outfit and boss DLC free, apart from nine licensed crossover items dropped for rights issues. Its bonus scenarios and Coliseum battles unlock only after beating the game, versus Chapter 2 on the original consoles; voice over is toggleable between English and Japanese.' }],
       ],
+      versions: [
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2', subtitleDate: 2014,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN', voice: true },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'steam', paren: 'PC', noUrl: true },
+            { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' },
+          ],
+          versionDesc: [
+            'This remaster unlocks higher resolutions and up to 60 fps on PC (capped at 30 fps on Xbox One).',
+          ],
+        },
+        {
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN', voice: true },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation3', noUrl: true },
+            { key: 'xbox-360', noUrl: true },
+            { key: 'xbox-one', paren: '360 compatibility', noUrl: true },
+            { key: 'xbox-xs', paren: '360 compatibility', noUrl: true },
+          ],
+          versionDesc: [
+            'The original release. Gameplay framerate dips as low as 18 fps.',
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2', subtitleDate: 2014,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN', voice: true },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'steam', paren: 'PC', noUrl: true },
-              { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' },
-            ],
-            versionDesc: [
-              'This remaster unlocks higher resolutions and up to 60 fps on PC (capped at 30 fps on Xbox One).',
-            ],
-          },
-          {
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN', voice: true },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'playstation3', noUrl: true },
-              { key: 'xbox-360', noUrl: true },
-              { key: 'xbox-one', paren: '360 compatibility', noUrl: true },
-              { key: 'xbox-xs', paren: '360 compatibility', noUrl: true },
-            ],
-            versionDesc: [
-              'The original release. Gameplay framerate dips as low as 18 fps.',
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Book', chronoOrder: 3000, recommendedOrder: 500,
@@ -288,45 +280,41 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
       versionDesc: [
         [{ text: "This remaster unlocks higher resolutions and up to 60 fps, and voice over is toggleable between English and Japanese. It bundles nearly all DLC free, including the Guardian Corps and Knight of Etro schemata by default, though the Midgar's Flower Girl schemata, Siegfried garb, and Outerworld Services are missing, and schemata/map marker names can no longer be customized." }],
       ],
+      versions: [
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', subtitleDate: 2015,
+          languages: [
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN', voice: true },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'steam', paren: 'PC', noUrl: true },
+            { key: 'xbox-one', paren: 'Xbox 360 compatibility, Xbox One X Enhanced', noUrl: true },
+            { key: 'xbox-xs', paren: 'Xbox One compatibility', noUrl: true },
+          ],
+          versionDesc: [
+            'This remaster unlocks higher resolutions and up to 60 fps on PC (30 fps on Xbox).',
+          ],
+        },
+        {
+          languages: [
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN', voice: true },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation3', noUrl: true },
+            { key: 'xbox-360', noUrl: true },
+          ],
+          versionDesc: [
+            'The original release. The international version (2014) softens some dialogue and innuendo, and offers Japanese audio as separate DLC.',
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', subtitleDate: 2015,
-            languages: [
-              { value: 'JA', native: true, voice: true },
-              { value: 'EN', voice: true },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'steam', paren: 'PC', noUrl: true },
-              { key: 'xbox-one', paren: 'Xbox 360 compatibility, Xbox One X Enhanced', noUrl: true },
-              { key: 'xbox-xs', paren: 'Xbox One compatibility', noUrl: true },
-            ],
-            versionDesc: [
-              'This remaster unlocks higher resolutions and up to 60 fps on PC (30 fps on Xbox).',
-            ],
-          },
-          {
-            languages: [
-              { value: 'JA', native: true, voice: true },
-              { value: 'EN', voice: true },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'playstation3', noUrl: true },
-              { key: 'xbox-360', noUrl: true },
-            ],
-            versionDesc: [
-              'The original release. The international version (2014) softens some dialogue and innuendo, and offers Japanese audio as separate DLC.',
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Book', chronoOrder: 5000, recommendedOrder: 700,
@@ -446,29 +434,25 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
       versionDesc: [
         [{ text: 'This remaster updates the graphics, color palette, and blood levels, remasters the soundtrack with new vocal tracks, and adds dual Japanese/English audio and four difficulty modes. Multiplayer is removed, though its exclusive rewards remain obtainable in single-player. The Steam version further adds unlocked resolution options and an adjustable movement speed. Released as ' }, { emText: 'Final Fantasy Type-0 HD' }, { text: '.' }],
       ],
+      versions: [
+        {
+          tags: ['Multiplayer'],
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN', tip: 'English (Fan Translation) (SkyBlazeCloud+ 2015)' },
+            { value: 'ES', tip: 'Spanish (Fan Translation) (SkyBlazeCloud+ 2015)' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation-portable', jpTag: true, noUrl: true },
+          ],
+          versionDesc: [
+            'The original release.',
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            tags: ['Multiplayer'],
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN', tip: 'English (Fan Translation) (SkyBlazeCloud+ 2015)' },
-              { value: 'ES', tip: 'Spanish (Fan Translation) (SkyBlazeCloud+ 2015)' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'playstation-portable', jpTag: true, noUrl: true },
-            ],
-            versionDesc: [
-              'The original release.',
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Comic', chronoOrder: 100400, recommendedOrder: 940,

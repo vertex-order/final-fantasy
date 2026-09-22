@@ -197,53 +197,49 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
       versionDesc: [
         [{ text: 'This remaster has HD graphics, new 3D models, new soundtrack arrangement, full voice acting, remade summons, and improvements to the battle system. Some releases are titled ' }, { emText: 'Crisis Core: Final Fantasy VII Reunion' }, { text: ' or ' }, { emText: 'CRISIS CORE –FINAL FANTASY VII– REUNION' }, { text: '.' }],
       ],
+      versions: [
+        {
+          tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
+          title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: 2023,
+          subtitle: 'Crisis Core',
+          languages: [
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN', voice: true },
+          ],
+          profileUrl: 'https://en.ffviiec.com/',
+          ratings: [
+            { score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic' },
+            { score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic-user' },
+            { score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', key: 'steam' },
+          ],
+          platforms: [
+            { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) Crisis Core' },
+            { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) Crisis Core' },
+            { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) Crisis Core' },
+            { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' },
+            { key: 'android2', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+            { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+          ],
+          versionDesc: [
+            [{ text: 'The ' }, { emText: 'Crisis Core' }, { text: ' episode retells the story from ' }, { emText: 'Crisis Core: Final Fantasy VII (2007)' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you play a different version, watch a fan story recap video or a playthrough.' }],
+          ],
+        },
+        {
+          label: 'Crisis Core: Final Fantasy VII (2007)',
+          url: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII',
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+          ],
+          platforms: [
+            { key: 'playstation-portable', noUrl: true, paren: 'Physical' },
+          ],
+          versionDesc: [
+            'The original release. An International version followed in 2008 with selectable Normal/Hard difficulty (no more Game Over on failed missions), expanded voice acting, and one redesigned statue.',
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
-            title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: 2023,
-            subtitle: 'Crisis Core',
-            languages: [
-              { value: 'JA', native: true, voice: true },
-              { value: 'EN', voice: true },
-            ],
-            profileUrl: 'https://en.ffviiec.com/',
-            ratings: [
-              { score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic' },
-              { score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic-user' },
-              { score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', key: 'steam' },
-            ],
-            platforms: [
-              { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) Crisis Core' },
-              { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) Crisis Core' },
-              { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) Crisis Core' },
-              { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' },
-              { key: 'android2', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-              { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
-            ],
-            versionDesc: [
-              [{ text: 'The ' }, { emText: 'Crisis Core' }, { text: ' episode retells the story from ' }, { emText: 'Crisis Core: Final Fantasy VII (2007)' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you play a different version, watch a fan story recap video or a playthrough.' }],
-            ],
-          },
-          {
-            label: 'Crisis Core: Final Fantasy VII (2007)',
-            url: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII',
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-            ],
-            platforms: [
-              { key: 'playstation-portable', noUrl: true, paren: 'Physical' },
-            ],
-            versionDesc: [
-              'The original release. An International version followed in 2008 with selectable Normal/Hard difficulty (no more Game Over on failed missions), expanded voice acting, and one redesigned statue.',
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 600,
@@ -291,30 +287,26 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
       versionDesc: [
         'Intergrade adds the Yuffie-led Episode INTERmission story, a Weiss superboss, Photo Mode, a Classic difficulty option, and multiple optional cheats.',
       ],
+      versions: [
+        {
+          title: 'Final Fantasy VII Remake', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake', titleDate: 2020,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000' },
+            { key: 'playstation5', paren: 'PS4 compatibility', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000' },
+            { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000', paren: 'PS4; PS5; PSPortal' },
+          ],
+          versionDesc: [
+            [{ text: 'The original release of the 3 part remake. ' }, { emText: 'Episode INTERmission' }, { text: ' DLC sold separately, later included in ' }, { emText: 'Intergrade' }, { text: ' (2021). Also known as ' }, { emText: 'Final Fantasy VII: Remake' }, { text: ', without the ' }, { emText: 'Intergrade' }, { text: ' suffix.' }],
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            title: 'Final Fantasy VII Remake', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake', titleDate: 2020,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000' },
-              { key: 'playstation5', paren: 'PS4 compatibility', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000' },
-              { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000', paren: 'PS4; PS5; PSPortal' },
-            ],
-            versionDesc: [
-              [{ text: 'The original release of the 3 part remake. ' }, { emText: 'Episode INTERmission' }, { text: ' DLC sold separately, later included in ' }, { emText: 'Intergrade' }, { text: ' (2021). Also known as ' }, { emText: 'Final Fantasy VII: Remake' }, { text: ', without the ' }, { emText: 'Intergrade' }, { text: ' suffix.' }],
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Game', chronoOrder: 200, recommendedOrder: 700,
@@ -440,102 +432,98 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
       versionDesc: [
         'Includes autosave and cloud saves, multiple optional cheats, and disabled random encounters. PC versions (Steam, GOG) have extensive unofficial modding support.',
       ],
+      versions: [
+        {
+          // pinned: Ever Crisis (2023, below) is newer but terminated -- this still-
+          // available mobile port stays the top entry despite the older release date.
+          pinned: true,
+          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', subtitleDate: 2015,
+          languages: [
+            { value: 'EN' },
+            { value: 'FR' },
+            { value: 'DE' },
+            { value: 'ES-ES' },
+          ],
+          profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-vii',
+          platforms: [
+            { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-vii/id1021566244' },
+            { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVII' },
+          ],
+          versionDesc: [
+            'This edit adds auto-save, toggle battle encounters, and an optional stat-max cheat. Some may find the mobile controls hard to use.',
+          ],
+        },
+        {
+          tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
+          title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: 2023,
+          subtitle: 'Final Fantasy VII',
+          languages: [
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN', voice: true },
+          ],
+          profileUrl: 'https://en.ffviiec.com/',
+          ratings: [
+            { score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic' },
+            { score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic-user' },
+            { score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', key: 'steam' },
+          ],
+          platforms: [
+            { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', paren: 'PC; Handheld' },
+            { key: 'android2', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffviiec' },
+            { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1546223882' },
+            { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) Final Fantasy VII' },
+            { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) Final Fantasy VII' },
+            { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) Final Fantasy VII' },
+          ],
+          versionDesc: [
+            [{ text: 'The ' }, { emText: 'Final Fantasy VII' }, { text: ' episode retells the story from ' }, { emText: 'VII (1997)' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you play another version, watch a fan story recap video, or a playthrough.' }],
+          ],
+        },
+        {
+          subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', subtitleDate: 2012,
+          languages: [
+            { value: 'EN' },
+            { value: 'FR' },
+            { value: 'DE' },
+            { value: 'ES-ES' },
+          ],
+          platforms: [
+            { key: 'windows', noUrl: true },
+            { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/', paren: 'PC' },
+          ],
+          versionDesc: [
+            'This remake adds high-resolution support, upscaled graphics, cloud saves, and a character booster.',
+            'Japan-only features include a speed boost, a no-encounters mode, and other optional cheats.',
+          ],
+        },
+        {
+          label: 'Final Fantasy VII (1997)',
+          url: 'https://wikipedia.org/wiki/Final_Fantasy_VII',
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN', tip: 'English (Official; Fan Translation) (ProjectXsent 2020; GreenGoblin 2021)' },
+            { value: 'ES', tip: 'Spanish (Fan Translation) (TraduccionesXT 2015)' },
+            { value: 'DE', tip: 'German (Fan Translation) (cebix 2014)' },
+            { value: 'IT', tip: 'Italian (Fan Translation) (SadNES cITy Translations 2011)' },
+            { value: 'ID', tip: 'Indonesian (Fan Translation) (Pi-Man 2021)' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation1', paren: 'Physical', noUrl: true },
+            { key: 'playstation-classic', noUrl: true },
+            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
+            { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+            { key: 'playstation-vita', paren: 'Digital' },
+            { key: 'playstation-portable', paren: 'Digital' },
+          ],
+          versionDesc: [
+            ['The original release. A re-edit was released the same year as ', { emText: 'Final Fantasy VII International' }, '.'],
+            'Non-Japan releases saw streamlining of menu and Materia system, enemy health reductions, new world map visual cues, and an additional cutscene for Cloud.',
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            // pinned: Ever Crisis (2023, below) is newer but terminated -- this still-
-            // available mobile port stays the top entry despite the older release date.
-            pinned: true,
-            subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', subtitleDate: 2015,
-            languages: [
-              { value: 'EN' },
-              { value: 'FR' },
-              { value: 'DE' },
-              { value: 'ES-ES' },
-            ],
-            profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-vii',
-            platforms: [
-              { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-vii/id1021566244' },
-              { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVII' },
-            ],
-            versionDesc: [
-              'This edit adds auto-save, toggle battle encounters, and an optional stat-max cheat. Some may find the mobile controls hard to use.',
-            ],
-          },
-          {
-            tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
-            title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: 2023,
-            subtitle: 'Final Fantasy VII',
-            languages: [
-              { value: 'JA', native: true, voice: true },
-              { value: 'EN', voice: true },
-            ],
-            profileUrl: 'https://en.ffviiec.com/',
-            ratings: [
-              { score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic' },
-              { score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic-user' },
-              { score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', key: 'steam' },
-            ],
-            platforms: [
-              { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', paren: 'PC; Handheld' },
-              { key: 'android2', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffviiec' },
-              { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1546223882' },
-              { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) Final Fantasy VII' },
-              { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) Final Fantasy VII' },
-              { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) Final Fantasy VII' },
-            ],
-            versionDesc: [
-              [{ text: 'The ' }, { emText: 'Final Fantasy VII' }, { text: ' episode retells the story from ' }, { emText: 'VII (1997)' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you play another version, watch a fan story recap video, or a playthrough.' }],
-            ],
-          },
-          {
-            subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', subtitleDate: 2012,
-            languages: [
-              { value: 'EN' },
-              { value: 'FR' },
-              { value: 'DE' },
-              { value: 'ES-ES' },
-            ],
-            platforms: [
-              { key: 'windows', noUrl: true },
-              { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/', paren: 'PC' },
-            ],
-            versionDesc: [
-              'This remake adds high-resolution support, upscaled graphics, cloud saves, and a character booster.',
-              'Japan-only features include a speed boost, a no-encounters mode, and other optional cheats.',
-            ],
-          },
-          {
-            label: 'Final Fantasy VII (1997)',
-            url: 'https://wikipedia.org/wiki/Final_Fantasy_VII',
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN', tip: 'English (Official; Fan Translation) (ProjectXsent 2020; GreenGoblin 2021)' },
-              { value: 'ES', tip: 'Spanish (Fan Translation) (TraduccionesXT 2015)' },
-              { value: 'DE', tip: 'German (Fan Translation) (cebix 2014)' },
-              { value: 'IT', tip: 'Italian (Fan Translation) (SadNES cITy Translations 2011)' },
-              { value: 'ID', tip: 'Indonesian (Fan Translation) (Pi-Man 2021)' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'playstation1', paren: 'Physical', noUrl: true },
-              { key: 'playstation-classic', noUrl: true },
-              { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
-              { key: 'playstation3', paren: 'PSone compatibility; Digital' },
-              { key: 'playstation-vita', paren: 'Digital' },
-              { key: 'playstation-portable', paren: 'Digital' },
-            ],
-            versionDesc: [
-              ['The original release. A re-edit was released the same year as ', { emText: 'Final Fantasy VII International' }, '.'],
-              'Non-Japan releases saw streamlining of menu and Materia system, enemy health reductions, new world map visual cues, and an additional cutscene for Cloud.',
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Book', chronoOrder: -500, recommendedOrder: 1000,
@@ -834,51 +822,47 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
       versionDesc: [
         [{ text: 'This edit makes many balance, difficulty and gameplay changes from the initial release 6½ months prior. Released as ' }, { emText: 'Dirge of Cerberus -Final Fantasy VII- International' }, { text: '.' }],
       ],
+      versions: [
+        {
+          tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
+          title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: 2023,
+          subtitle: 'Dirge of Cerberus',
+          languages: [
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN', voice: true },
+          ],
+          profileUrl: 'https://en.ffviiec.com/',
+          ratings: [
+            { score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic' },
+            { score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic-user' },
+            { score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', key: 'steam' },
+          ],
+          platforms: [
+            { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
+            { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus', noResults: true },
+            { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
+            { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', paren: 'PC; Handheld' },
+            { key: 'android2', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+            { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+          ],
+          versionDesc: [
+            [{ text: 'This was the only way to experience it as an RPG instead of a shooter. The ' }, { emText: 'Dirge of Cerberus' }, { text: ' episode retells the story from ' }, { emText: 'Dirge of Cerberus: Final Fantasy VII (2006)' }, { text: ' and includes details pertaining to ' }, { emText: 'Dirge of Cerberus Lost Episode: Final Fantasy VII (2006)' }, { text: '. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.' }],
+          ],
+        },
+        {
+          languages: [
+            { value: 'JA', native: true },
+          ],
+          platforms: [
+            { key: 'playstation2', noUrl: true, jpTag: true },
+            { key: 'playstation3', paren: 'PS2 compatibility', noUrl: true, jpTag: true },
+          ],
+          versionDesc: [
+            'The original release.',
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
-            title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: 2023,
-            subtitle: 'Dirge of Cerberus',
-            languages: [
-              { value: 'JA', native: true, voice: true },
-              { value: 'EN', voice: true },
-            ],
-            profileUrl: 'https://en.ffviiec.com/',
-            ratings: [
-              { score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic' },
-              { score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic-user' },
-              { score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', key: 'steam' },
-            ],
-            platforms: [
-              { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
-              { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus', noResults: true },
-              { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
-              { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', paren: 'PC; Handheld' },
-              { key: 'android2', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-              { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
-            ],
-            versionDesc: [
-              [{ text: 'This was the only way to experience it as an RPG instead of a shooter. The ' }, { emText: 'Dirge of Cerberus' }, { text: ' episode retells the story from ' }, { emText: 'Dirge of Cerberus: Final Fantasy VII (2006)' }, { text: ' and includes details pertaining to ' }, { emText: 'Dirge of Cerberus Lost Episode: Final Fantasy VII (2006)' }, { text: '. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.' }],
-            ],
-          },
-          {
-            languages: [
-              { value: 'JA', native: true },
-            ],
-            platforms: [
-              { key: 'playstation2', noUrl: true, jpTag: true },
-              { key: 'playstation3', paren: 'PS2 compatibility', noUrl: true, jpTag: true },
-            ],
-            versionDesc: [
-              'The original release.',
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Game', chronoOrder: 3500, recommendedOrder: 1700,
@@ -900,39 +884,35 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { key: 'fan-playthrough', search: 'youtube', term: 'Dirge of Cerberus Lost Episode: Final Fantasy VII' },
         { key: 'mobile-phone', noUrl: true, terminated: true },
       ],
+      versions: [
+        {
+          tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
+          title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: 2023,
+          subtitle: 'Dirge of Cerberus',
+          languages: [
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN', voice: true },
+          ],
+          profileUrl: 'https://en.ffviiec.com/',
+          ratings: [
+            { score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic' },
+            { score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic-user' },
+            { score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', key: 'steam' },
+          ],
+          platforms: [
+            { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
+            { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus', noResults: true },
+            { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
+            { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', paren: 'PC; Handheld' },
+            { key: 'android2', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+            { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
+          ],
+          versionDesc: [
+            [{ text: 'This was the only way to experience it as an RPG instead of a shooter. The ' }, { emText: 'Dirge of Cerberus' }, { text: ' episode retells the story from ' }, { emText: 'Dirge of Cerberus: Final Fantasy VII (2006)' }, { text: ' and includes details pertaining to ' }, { emText: 'Dirge of Cerberus Lost Episode: Final Fantasy VII (2006)' }, { text: '. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.' }],
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
-            title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: 2023,
-            subtitle: 'Dirge of Cerberus',
-            languages: [
-              { value: 'JA', native: true, voice: true },
-              { value: 'EN', voice: true },
-            ],
-            profileUrl: 'https://en.ffviiec.com/',
-            ratings: [
-              { score: '66', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic' },
-              { score: '4.8', url: 'https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/', key: 'metacritic-user' },
-              { score: 'Mixed', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', key: 'steam' },
-            ],
-            platforms: [
-              { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
-              { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus', noResults: true },
-              { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
-              { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', paren: 'PC; Handheld' },
-              { key: 'android2', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
-              { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
-            ],
-            versionDesc: [
-              [{ text: 'This was the only way to experience it as an RPG instead of a shooter. The ' }, { emText: 'Dirge of Cerberus' }, { text: ' episode retells the story from ' }, { emText: 'Dirge of Cerberus: Final Fantasy VII (2006)' }, { text: ' and includes details pertaining to ' }, { emText: 'Dirge of Cerberus Lost Episode: Final Fantasy VII (2006)' }, { text: '. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.' }],
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Game', chronoOrder: 480, recommendedOrder: 1800,

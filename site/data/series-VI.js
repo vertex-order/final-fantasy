@@ -51,89 +51,85 @@ window.__ffSeriesReg['VI'] = { num: 'VI', chronoOrder: 600, recommendedOrder: 60
         'This remaster has redrawn sprites, in-game maps, auto-battle, a fully voice-acted Opera scene, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
         [{ text: 'Released as ' }, { emText: 'Final Fantasy VI Pixel Remaster' }, { text: '. Included in the ' }, { emText: 'Final Fantasy I-VI Bundle / Collection' }, { text: '.' }],
       ],
+      versions: [
+        {
+          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitleDate: 2014,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: 'FR' },
+            { value: 'DE' },
+            { value: 'IT' },
+            { value: 'PT-PT' },
+            { value: 'RU' },
+            { value: 'ES-ES' },
+          ],
+          platforms: [
+            { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/', paren: 'PC' },
+            { key: 'android2', terminated: true, noUrl: true },
+            { key: 'apple', terminated: true, noUrl: true },
+          ],
+          versionDesc: [
+            'This remaster has high-resolution graphics, redesigned sprites, movement in eight directions, and auto-battle.',
+          ],
+        },
+        {
+          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitleDate: 2006,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: 'DE' },
+            { value: 'FR' },
+            { value: 'IT' },
+            { value: 'ES' },
+          ],
+          platforms: [
+            { key: 'nintendo-game-boy-advance', paren: 'Physical' },
+          ],
+          versionDesc: [
+            'This edit has slightly improved visuals and a new translation, plus four new espers, two new areas, and three new spells.',
+            ['Released as ', { emText: 'Final Fantasy VI Advance (2006)' }, ' and in the omnibus collection ', { emText: 'Finest Fantasy for Advance (2006)' }, '.'],
+          ],
+        },
+        {
+          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitleDate: 1999,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: '…?' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+            { key: 'playstation2', paren: 'PSone compatibility' },
+            { key: 'playstation1', paren: 'Physical' },
+            { key: 'playstation-vita', paren: 'Digital' },
+            { key: 'playstation-portable', paren: 'Digital' },
+          ],
+          versionDesc: [
+            ['This edit adds opening and ending ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, 's, screen-transition effects, and "memo" save feature. May have slow menus.'],
+            ['Released in omnibus collection ', { emText: 'Final Fantasy Collection' }, { hintText: ' (JP)', tip: 'Japan' }, ' (1999), and ', { emText: 'Final Fantasy Anthology' }, { hintText: ' (NA)', tip: 'North America' }, ' (1999).'],
+          ],
+        },
+        {
+          label: 'Final Fantasy VI (1994)',
+          url: 'https://wikipedia.org/wiki/Final_Fantasy_VI',
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+          ],
+          platforms: [
+            { key: 'nintendo-snes-classic-edition' },
+            { key: 'nintendo-snes', paren: 'Super Famicom; Physical' },
+            { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+          ],
+          versionDesc: [
+            [{ text: 'The original release. Early releases outside Japan on SNES and the non-Japan SNES Classic release were titled ' }, { emText: 'Final Fantasy III (Non-Japan, 1994)' }, { text: '.' }],
+          ],
+        },
+      ],
     },
-    alts: [
-      {
-        versions: [
-          {
-            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitleDate: 2014,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: 'FR' },
-              { value: 'DE' },
-              { value: 'IT' },
-              { value: 'PT-PT' },
-              { value: 'RU' },
-              { value: 'ES-ES' },
-            ],
-            platforms: [
-              { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/', paren: 'PC' },
-              { key: 'android2', terminated: true, noUrl: true },
-              { key: 'apple', terminated: true, noUrl: true },
-            ],
-            versionDesc: [
-              'This remaster has high-resolution graphics, redesigned sprites, movement in eight directions, and auto-battle.',
-            ],
-          },
-          {
-            subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitleDate: 2006,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: 'DE' },
-              { value: 'FR' },
-              { value: 'IT' },
-              { value: 'ES' },
-            ],
-            platforms: [
-              { key: 'nintendo-game-boy-advance', paren: 'Physical' },
-            ],
-            versionDesc: [
-              'This edit has slightly improved visuals and a new translation, plus four new espers, two new areas, and three new spells.',
-              ['Released as ', { emText: 'Final Fantasy VI Advance (2006)' }, ' and in the omnibus collection ', { emText: 'Finest Fantasy for Advance (2006)' }, '.'],
-            ],
-          },
-          {
-            subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI#Re-releases', subtitleDate: 1999,
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-              { value: '…?' },
-            ],
-            helpWanted: true,
-            platforms: [
-              { key: 'playstation3', paren: 'PSone compatibility; Digital' },
-              { key: 'playstation2', paren: 'PSone compatibility' },
-              { key: 'playstation1', paren: 'Physical' },
-              { key: 'playstation-vita', paren: 'Digital' },
-              { key: 'playstation-portable', paren: 'Digital' },
-            ],
-            versionDesc: [
-              ['This edit adds opening and ending ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, 's, screen-transition effects, and "memo" save feature. May have slow menus.'],
-              ['Released in omnibus collection ', { emText: 'Final Fantasy Collection' }, { hintText: ' (JP)', tip: 'Japan' }, ' (1999), and ', { emText: 'Final Fantasy Anthology' }, { hintText: ' (NA)', tip: 'North America' }, ' (1999).'],
-            ],
-          },
-          {
-            label: 'Final Fantasy VI (1994)',
-            url: 'https://wikipedia.org/wiki/Final_Fantasy_VI',
-            languages: [
-              { value: 'JA', native: true },
-              { value: 'EN' },
-            ],
-            platforms: [
-              { key: 'nintendo-snes-classic-edition' },
-              { key: 'nintendo-snes', paren: 'Super Famicom; Physical' },
-              { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console' },
-              { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
-            ],
-            versionDesc: [
-              [{ text: 'The original release. Early releases outside Japan on SNES and the non-Japan SNES Classic release were titled ' }, { emText: 'Final Fantasy III (Non-Japan, 1994)' }, { text: '.' }],
-            ],
-          },
-        ],
-      },
-    ],
   },
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 500,
