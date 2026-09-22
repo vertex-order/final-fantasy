@@ -17,4 +17,8 @@
 
 - https://www.nicovideo.jp/watch/sm1823501
 
+## wikipedia.org (Information)
+
+- https://wikipedia.org/wiki/Final_Fantasy:_Unlimited#Audio -- dates, story -- accessed 2026-09-22
+
 ## Decisions
