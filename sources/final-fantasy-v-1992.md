@@ -17,6 +17,11 @@
 
 - https://apps.apple.com/app/final-fantasy-v/id1492041611
 
+## finalfantasy.fandom.com (Information)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_V_version_differences -- versions*, platforms* -- accessed 2026-09-22
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differences
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/final-fantasy-v/

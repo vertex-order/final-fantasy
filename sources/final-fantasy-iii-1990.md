@@ -17,6 +17,14 @@
 
 - https://apps.apple.com/app/final-fantasy-iii/id1492041436?
 
+## finalfantasy.fandom.com (Information)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_III_version_differences -- versions*, platforms* -- accessed 2026-09-22
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_version_differences
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_III_(3D_Remake)_version_differences -- versions*, platforms* -- accessed 2026-09-22
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_version_differences
+
 ## GOG (Platform)
 
 - https://www.gog.com/en/game/final_fantasy_iii_3d_remake

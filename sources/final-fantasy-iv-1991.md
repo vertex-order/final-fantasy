@@ -21,6 +21,14 @@
 
 - https://apps.apple.com/app/final-fantasy-iv-3d-remake/id6504607951
 
+## finalfantasy.fandom.com (Information)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV_version_differences -- versions*, platforms* -- accessed 2026-09-22
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_version_differences
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV_(3D_Remake)_version_differences -- versions*, platforms* -- accessed 2026-09-22
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_version_differences
+
 ## GOG (Platform)
 
 - https://www.gog.com/en/game/final_fantasy_iv_3d_remake

@@ -9,6 +9,11 @@
 
 - https://www.square-enix-games.com/en_US/games/lightning-returns-final-fantasy-xiii
 
+## finalfantasy.fandom.com (Information)
+
+- https://finalfantasy.fandom.com/wiki/Lightning_Returns:_Final_Fantasy_XIII_version_differences -- versions*, platforms* -- accessed 2026-09-22
+Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantasy_XIII_version_differences
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/lightning-returns-final-fantasy-xiii/

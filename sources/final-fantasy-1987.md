@@ -34,7 +34,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy
   - https://finalfantasy.fandom.com/wiki/Final_Fantasy#Releases -- platforms, versions -- accessed 2026-09-19
   Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy#Releases
 
-- https://finalfantasy.fandom.com/wiki/Final_Fantasy_version_differences -- platforms, versions -- accessed 2026-09-19
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_version_differences -- versions*, platforms* -- accessed 2026-09-19
 Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_version_differences
 
 - https://finalfantasy.fandom.com/wiki/Final_Fantasy_I%E2%88%99II -- dates, platforms, versions -- accessed 2026-09-19

@@ -9,6 +9,11 @@
 
 - https://apps.microsoft.com/detail/9mvr4t7znq1t
 
+## finalfantasy.fandom.com (Information)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV_version_differences -- versions*, platforms* -- accessed 2026-09-22
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_version_differences
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/final-fantasy-xv-royal-edition/

@@ -17,6 +17,11 @@
 
 - https://en.ffviiec.com/
 
+## finalfantasy.fandom.com (Information)
+
+- https://finalfantasy.fandom.com/wiki/Crisis_Core_-Final_Fantasy_VII-_version_differences -- versions*, platforms* -- accessed 2026-09-22
+Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-_version_differences
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/crisis-core-final-fantasy-vii/
