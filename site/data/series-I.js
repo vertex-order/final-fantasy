@@ -409,4 +409,21 @@ window.__ffSeriesReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100,
       ],
     },
   },
+  {
+    mediaType: 'Comic', chronoOrder: 800, recommendedOrder: 460,
+    title: '8-Bit Theater ~FFI~', titleUrl: 'https://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EightBitTheater', titleDate: { start: '2001-03-02', end: '2010-06-01' },
+    mediaDesc: [
+      [{ text: 'A fan-made affectionate parody of ' }, { emText: 'Final Fantasy (1987)' }, { text: ", follows the four Light Warriors (who really aren't the best for the job): Fighter McWarrior, an astoundingly stupid sword-obsessed warrior; Black Mage Evilwizardington, an Ax-Crazy homicidal sociopath who is only held back by the Rule of Funny and a tendency to get hurt; Thief, a fugitive prince of elf clan Khee'bler armed with extreme greed and an expertise in manipulative contracts; and Red Mage Statscowski, a so-called strategist who considers life to be a tabletop game, is obsessed with his stats, and was tricked into liking cross dressing. Entry also found in our " }, { emText: 'Fan Projects' }, { text: ' series.' }],
+    ],
+    primary: {
+      tags: ['Optional', 'Unofficial fan project', 'Alternate Universe', 'Webcomic', 'Free'],
+      subtitle: 'Comic',
+      languages: [
+        { value: 'EN', native: true, textOnly: true },
+      ],
+      platforms: [
+        { key: 'book', name: 'Webcomic', url: 'https://www.nuklearpower.com/8-bit-theater/' },
+      ],
+    },
+  },
 ]};
