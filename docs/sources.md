@@ -43,6 +43,22 @@
   the fact that the page *itself*, as a franchise-spanning catalog, is
   worth recording once — not a substitute for the per-entry lines.
 
+### Series-wide files
+
+- For a source covering one subseries — file as `sources/<num>-series.md`,
+  no year. `<num>` = the site's own jump-link code (`#series-XII` →
+  `xii-series.md`), not the source's topic name — a series' article
+  title often doesn't match its series name (`Ivalice` vs. `XII`).
+  - e.g. `xii-series.md`, sourced from
+    [Ivalice](https://wikipedia.org/wiki/Ivalice).
+- Only add one when a source actually exists at that scope (a
+  series-overview article) — most series don't need one.
+- `-series` (no year) vs. entry's `-<year>`: dated = entry, `-series` =
+  series rollup, neither = franchise-wide.
+  - Exception: `chocobo-series-1997.md` is a real dated entry (cross-
+    listed in `site/data/` in lieu of a full series section) — "series"
+    is just its title, not this pattern. Not a template to copy.
+
 ## Header policy for entry files: `##` only
 
 - Applies to files under `sources/`, not this doc.
