@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrder: 1800, title: 'Other', note: 'A collection of standalone titles that nonetheless may be worth looking into.', media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 100, recommendedOrder: 100, tags: ['Spin-off', 'Action RPG', 'Single-player'],
-      title: 'Final Fantasy Adventure', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure', titleDate: '1991-06-28',
+  {
+    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 100,
+    title: 'Final Fantasy Adventure', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure', titleDate: '1991-06-28',
+    primary: {
+      tags: ['Spin-off', 'Action RPG', 'Single-player'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -22,11 +23,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Adventure' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 300, recommendedOrder: 200, tags: ['Spin-off', 'Turn-based RPG', 'Jobs', 'Single-player', 'Multiplayer', 'Co-op'],
-      title: 'Final Fantasy: The 4 Heroes of Light', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_The_4_Heroes_of_Light', titleDate: '2009-10-29',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 300, recommendedOrder: 200,
+    title: 'Final Fantasy: The 4 Heroes of Light', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_The_4_Heroes_of_Light', titleDate: '2009-10-29',
+    primary: {
+      tags: ['Spin-off', 'Turn-based RPG', 'Jobs', 'Single-player', 'Multiplayer', 'Co-op'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -48,11 +50,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy: The 4 Heroes of Light' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 1200, recommendedOrder: 202, tags: ['Spin-off', 'Turn-based RPG', 'Jobs', 'Single-player', 'Mobile', 'Free-to-play', 'Terminated'],
-      title: 'Mobius Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/Mobius_Final_Fantasy', titleDate: '2015-06-04',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 1200, recommendedOrder: 202,
+    title: 'Mobius Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/Mobius_Final_Fantasy', titleDate: '2015-06-04',
+    primary: {
+      tags: ['Spin-off', 'Turn-based RPG', 'Jobs', 'Single-player', 'Mobile', 'Free-to-play', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -76,11 +79,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         { key: 'fan-playthrough', search: 'youtube', term: 'Mobius Final Fantasy' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 900, recommendedOrder: 205, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', '2D sprites', 'RPG', 'Active Time Battles', 'Single-player', 'Multiplayer', 'Mobile', 'Free-to-play', 'Gacha', 'Non-Japan Terminated'],
-      title: 'Final Fantasy Record Keeper', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Record_Keeper', titleDate: '2014-09-24',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 900, recommendedOrder: 205,
+    title: 'Final Fantasy Record Keeper', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Record_Keeper', titleDate: '2014-09-24',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', '2D sprites', 'RPG', 'Active Time Battles', 'Single-player', 'Multiplayer', 'Mobile', 'Free-to-play', 'Gacha', 'Non-Japan Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN', tip: 'English (content up to 2022-09)' },
@@ -105,11 +109,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Record Keeper' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Comic', chronoOrder: 1400, recommendedOrder: 250, tags: ['Optional', 'Alternate Universe', 'Manga'],
-      title: 'Final Fantasy Lost Stranger', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Lost_Stranger', titleDate: '2017-07-12',
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 1400, recommendedOrder: 250,
+    title: 'Final Fantasy Lost Stranger', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Lost_Stranger', titleDate: '2017-07-12',
+    primary: {
+      tags: ['Optional', 'Alternate Universe', 'Manga'],
       subtitle: 'Comic',
       description: [
         'A manga following Square Enix employee Shogo Sasaki, a lifelong Final Fantasy fan, who is killed in a truck accident along with his sister Yuko and reborn into a Final Fantasy-style world unbound to any particular installment. Ongoing.',
@@ -138,11 +143,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300, tags: ['Optional', 'Spin-off', 'Casual'],
-      title: 'Chocobo (series)', titleUrl: 'https://wikipedia.org/wiki/Chocobo_(series)', titleDate: { start: 1997, end: 2022 },
+  },
+  {
+    mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300,
+    title: 'Chocobo (series)', titleUrl: 'https://wikipedia.org/wiki/Chocobo_(series)', titleDate: { start: 1997, end: 2022 },
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Casual'],
       description: [
         [{ text: "Over 21 titles in this series provide casual fun centered around a recurring cast of characters and all relating to Final Fantasy's Chocobo mounts. The games span different genres, and some entries are a bit too simplistic to deserve their own entries, as a whole the series may be worth checking out." }],
       ],
@@ -164,20 +170,22 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         { key: 'mobile-phone', noUrl: true, terminated: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 250, recommendedOrder: 305, tags: ['Optional', 'Crossover series'],
-      title: 'Kingdom Hearts (series)', titleUrl: 'https://vertex-order.github.io/kingdom-hearts', titleDate: { start: 2002, end: '2020+' },
+  },
+  {
+    mediaType: 'Game', chronoOrder: 250, recommendedOrder: 305,
+    title: 'Kingdom Hearts (series)', titleUrl: 'https://vertex-order.github.io/kingdom-hearts', titleDate: { start: 2002, end: '2020+' },
+    primary: {
+      tags: ['Optional', 'Crossover series'],
       description: [
         [{ text: 'A separate franchise in its own right, spanning games, manga, and novels. Six or more of its games prominently feature ' }, { emText: 'Final Fantasy' }, { text: ' characters, worlds, and music, alongside several related books and comics. We maintain a dedicated, fully documented play order for the whole series at the link above.' }],
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 400, recommendedOrder: 350, tags: ['Optional', 'Voice-controlled RPG', 'Jobs', 'Single-player', 'Mobile', 'Terminated'],
-      title: 'Voice Fantasy', titleUrl: 'https://wikipedia.org/wiki/Voice_Fantasy', titleDate: '2010-11-01',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 400, recommendedOrder: 350,
+    title: 'Voice Fantasy', titleUrl: 'https://wikipedia.org/wiki/Voice_Fantasy', titleDate: '2010-11-01',
+    primary: {
+      tags: ['Optional', 'Voice-controlled RPG', 'Jobs', 'Single-player', 'Mobile', 'Terminated'],
       description: [
         [{ text: "The game centered on battles between the player's army and enemy monsters or computer-controlled players. The characters in the army were generated using the sounds of the player's own voice, and then engaged in side-scrolling combat with the enemy. Combat was completely automated with the player only controlling character creation. The game is terminated." }],
       ],
@@ -189,11 +197,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         { key: 'fan-playthrough', search: 'youtube', term: 'Voice Fantasy' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 500, recommendedOrder: 355, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Social RPG', 'Jobs', 'Multiplayer', 'Co-op', 'Mobile', 'Terminated'],
-      title: 'Final Fantasy Airborne Brigade', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Airborne_Brigade', titleDate: '2012-01-06',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 500, recommendedOrder: 355,
+    title: 'Final Fantasy Airborne Brigade', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Airborne_Brigade', titleDate: '2012-01-06',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Social RPG', 'Jobs', 'Multiplayer', 'Co-op', 'Mobile', 'Terminated'],
       description: [
         'Long ago, the country was protected by two crystals. However, one was broken and scattered throughout the world following a monster invasion. The other lost its glow. Only the ancient summon beasts can return the crystals to their original shine, and the player must travel the world by air ship and defeat the summon beasts.',
         'Incorporates original elements with existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.',
@@ -215,11 +224,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Airborne Brigade' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 600, recommendedOrder: 357, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'RPG', 'Jobs', 'Active Time Battle', 'Mobile', 'Free-to-play', 'In-app purchases', 'Single-player', 'Terminated'],
-      title: 'Final Fantasy All the Bravest', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_All_the_Bravest', titleDate: '2013-01-17',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 600, recommendedOrder: 357,
+    title: 'Final Fantasy All the Bravest', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_All_the_Bravest', titleDate: '2013-01-17',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'RPG', 'Jobs', 'Active Time Battle', 'Mobile', 'Free-to-play', 'In-app purchases', 'Single-player', 'Terminated'],
       description: [
         'Players\' characters could traverse an overhead map between battles. After a series of battles, players could confront a boss enemy. There was no story elements. Self-described as an "app" not a game.',
         'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.',
@@ -241,11 +251,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy All the Bravest' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 700, recommendedOrder: 358, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Dot logic puzzle', 'RPG', 'Single-player', 'Multiplayer', 'Co-op', 'Terminated'],
-      title: 'Pictlogica Final Fantasy', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Pictlogica_Final_Fantasy', titleDate: '2013-10-28',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 700, recommendedOrder: 358,
+    title: 'Pictlogica Final Fantasy', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Pictlogica_Final_Fantasy', titleDate: '2013-10-28',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Dot logic puzzle', 'RPG', 'Single-player', 'Multiplayer', 'Co-op', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
       ],
@@ -263,11 +274,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         { key: 'fan-playthrough', search: 'youtube', term: 'Pictlogica Final Fantasy' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 800, recommendedOrder: 359, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Typing RPG', 'Mobile', 'Free-to-play', 'Multiplayer', 'Terminated'],
-      title: 'Final Fantasy: World Wide Words', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_World_Wide_Words', titleDate: '2014-09-16',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 800, recommendedOrder: 359,
+    title: 'Final Fantasy: World Wide Words', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_World_Wide_Words', titleDate: '2014-09-16',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Typing RPG', 'Mobile', 'Free-to-play', 'Multiplayer', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
       ],
@@ -281,11 +293,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy World Wide Words' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 360, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Social Tactical RPG', 'Terminated'],
-      title: 'Heavenstrike Rivals', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Heavenstrike_Rivals', titleDate: '2014-11-14',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 360,
+    title: 'Heavenstrike Rivals', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Heavenstrike_Rivals', titleDate: '2014-11-14',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Social Tactical RPG', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -309,11 +322,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         { key: 'fan-playthrough', search: 'youtube', term: 'Heavenstrike Rivals' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 250, recommendedOrder: 361, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Card game', 'Mobile', 'Terminated'],
-      title: 'Final Fantasy Portal App: Triple Triad', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Triple_Triad_(Portal_App)', titleDate: '2015-04-01',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 250, recommendedOrder: 361,
+    title: 'Final Fantasy Portal App: Triple Triad', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Triple_Triad_(Portal_App)', titleDate: '2015-04-01',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Card game', 'Mobile', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -333,11 +347,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Portal App Triple Triad' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 1300, recommendedOrder: 362, tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Card game', 'Free-to-play', 'In-app purchases', 'Multiplayer', 'Terminated'],
-      title: 'Final Fantasy Digital Card Game', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Digital_Card_Game', titleDate: '2019-07-09',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 1300, recommendedOrder: 362,
+    title: 'Final Fantasy Digital Card Game', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Digital_Card_Game', titleDate: '2019-07-09',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Card game', 'Free-to-play', 'In-app purchases', 'Multiplayer', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
       ],
@@ -352,11 +367,12 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Digital Card Game' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 1500, recommendedOrder: 400, tags: [],
-      title: 'The Final Fantasy Legend I–III', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#SaGa', titleDate: { start: 1989, end: 1991 },
+  },
+  {
+    mediaType: 'Game', chronoOrder: 1500, recommendedOrder: 400,
+    title: 'The Final Fantasy Legend I–III', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#SaGa', titleDate: { start: 1989, end: 1991 },
+    primary: {
+      tags: [],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN-US', tip: 'English (American)' },
@@ -378,6 +394,5 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
         },
       ],
     },
-  ] },
+  },
 ]};
-

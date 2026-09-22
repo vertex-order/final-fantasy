@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 950, title: 'Spirits Within', url: 'https://wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', note: "A bold departure into science fiction and photorealistic CG, laying the groundwork for the series' future cinematic ambitions.", media: [
-  { releases: [
-    {
-      mediaType: 'Movie', chronoOrder: 0, recommendedOrder: 100, tags: ['Movie'],
-      title: 'Final Fantasy: The Spirits Within', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', titleDate: '2001-07-02',
+  {
+    mediaType: 'Movie', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy: The Spirits Within', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', titleDate: '2001-07-02',
+    primary: {
+      tags: ['Movie'],
       subtitle: 'Movie',
       languages: [
         { value: 'EN', native: true, voice: true },
@@ -38,11 +39,12 @@ window.__ffSeriesReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 95
         { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy The Spirits Within' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 500, recommendedOrder: 200, tags: ['Optional', 'Novel'],
-      title: 'Final Fantasy: The Spirits Within Novel', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media', titleDate: '2001-06-26',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 200,
+    title: 'Final Fantasy: The Spirits Within Novel', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media', titleDate: '2001-06-26',
+    primary: {
+      tags: ['Optional', 'Novel'],
       subtitle: 'Book',
       description: [
         [{ text: 'Novelization of the ' }, { emText: 'Final Fantasy: The Spirits Within (2001)' }, { text: ' movie written by Dean Wesley Smith.' }],
@@ -59,25 +61,26 @@ window.__ffSeriesReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 95
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy The Spirits Within Novel Dean Wesley Smith', noResults: true },
       ],
     },
-    {
-      title: 'Final Fantasy: The Spirits Within YA Novel', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media', titleDate: 2001,
-      subtitle: 'Book',
-      description: [
-        [{ text: 'Different novelization as YA Novel of the ' }, { emText: 'Final Fantasy: The Spirits Within (2001)' }, { text: ' movie, written by John Vornholt.' }],
-      ],
-      languages: [
-        { value: 'EN', url: 'https://www.goodreads.com/book/show/5941120' },
-        { value: '…?' },
-      ],
-      helpWanted: true,
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/5941120', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'YA Novel', noUrl: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy The Spirits Within YA Novel John Vornholt', noResults: true },
-      ],
-    },
-  ] },
+    alts: [
+      {
+        title: 'Final Fantasy: The Spirits Within YA Novel', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media', titleDate: 2001,
+        subtitle: 'Book',
+        description: [
+          [{ text: 'Different novelization as YA Novel of the ' }, { emText: 'Final Fantasy: The Spirits Within (2001)' }, { text: ' movie, written by John Vornholt.' }],
+        ],
+        languages: [
+          { value: 'EN', url: 'https://www.goodreads.com/book/show/5941120' },
+          { value: '…?' },
+        ],
+        helpWanted: true,
+        ratings: [
+          { score: 'NYR', url: 'https://www.goodreads.com/book/show/5941120', key: 'goodreads' },
+        ],
+        platforms: [
+          { key: 'book', name: 'YA Novel', noUrl: true },
+          { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy The Spirits Within YA Novel John Vornholt', noResults: true },
+        ],
+      },
+    ],
+  },
 ]};
-

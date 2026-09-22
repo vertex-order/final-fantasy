@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1100, title: 'Final Fantasy XI', note: 'The first MMO in the franchise, told as a string of largely self-contained story arcs. Story complete. Also sports a long-running book spin-off series.', media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['MMORPG', 'Monthly subscription'],
-      title: 'Final Fantasy XI: Online', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI', titleDate: '2002-05-16',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy XI: Online', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI', titleDate: '2002-05-16',
+    primary: {
+      mainline: true, tags: ['MMORPG', 'Monthly subscription'],
       subtitle: 'Base Game',
       bylineParts: [
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
@@ -38,11 +39,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy XI base game' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200, tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
-      title: 'Final Fantasy XI: Rise of the Zilart', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2003-04-17',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200,
+    title: 'Final Fantasy XI: Rise of the Zilart', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2003-04-17',
+    primary: {
+      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
       bylineParts: [
         { text: 'Expansion · ' },
@@ -59,11 +61,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy xi rise of the zilart' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300, tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
-      title: 'Final Fantasy XI: Chains of Promathia', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2004-09-16',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300,
+    title: 'Final Fantasy XI: Chains of Promathia', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2004-09-16',
+    primary: {
+      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
       bylineParts: [
         { text: 'Expansion · ' },
@@ -84,11 +87,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy xi Chains of Promathia' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 400, tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
-      title: 'Final Fantasy XI: Treasures of Aht Urhgan', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2006-04-18',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 400,
+    title: 'Final Fantasy XI: Treasures of Aht Urhgan', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2006-04-18',
+    primary: {
+      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
       bylineParts: [
         { text: 'Expansion · ' },
@@ -109,11 +113,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy xi Treasures of Aht Urhgan' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 4000, recommendedOrder: 500, tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
-      title: 'Final Fantasy XI: Wings of the Goddess', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2007-11-20',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 4000, recommendedOrder: 500,
+    title: 'Final Fantasy XI: Wings of the Goddess', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2007-11-20',
+    primary: {
+      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
       bylineParts: [
         { text: 'Expansion · ' },
@@ -134,11 +139,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy xi: wings of the goddess' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 5000, recommendedOrder: 600, tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
-      title: 'Final Fantasy XI: Seekers of Adoulin', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2013-03-27',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 5000, recommendedOrder: 600,
+    title: 'Final Fantasy XI: Seekers of Adoulin', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2013-03-27',
+    primary: {
+      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
       bylineParts: [
         { text: 'Expansion · ' },
@@ -155,11 +161,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy xi: Seekers of Adoulin' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 100, recommendedOrder: 604, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~Winds of Prayer~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2002-12-18',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 100, recommendedOrder: 604,
+    title: 'Final Fantasy XI ~Winds of Prayer~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2002-12-18',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '286p;A6',
       description: [
@@ -181,11 +188,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Winds of Prayer', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Comic', chronoOrder: -10, recommendedOrder: 602, tags: ['Optional', 'Prequel', 'Alternate Universe', 'Manhwa', 'Incomplete'],
-      title: 'Final Fantasy XI ~The Out of Orders~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~', titleDate: '2003-04-19',
+  },
+  {
+    mediaType: 'Comic', chronoOrder: -10, recommendedOrder: 602,
+    title: 'Final Fantasy XI ~The Out of Orders~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~', titleDate: '2003-04-19',
+    primary: {
+      tags: ['Optional', 'Prequel', 'Alternate Universe', 'Manhwa', 'Incomplete'],
       subtitle: 'Comic',
       length: '3 issues',
       description: [
@@ -200,11 +208,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Out of Orders', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 1100, recommendedOrder: 605, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~The Star Oath~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-05',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 1100, recommendedOrder: 605,
+    title: 'Final Fantasy XI ~The Star Oath~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-05',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '287p;A6',
       description: [
@@ -224,11 +233,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Star Oath', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Comic', chronoOrder: 110, recommendedOrder: 606, tags: ['Optional', 'Spin-off', 'Manga'],
-      title: 'Final Fantasy XI ~Prayer of the Wind~ Vol.1', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2010',
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 110, recommendedOrder: 606,
+    title: 'Final Fantasy XI ~Prayer of the Wind~ Vol.1', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2010',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Manga'],
       subtitle: 'Comic',
       length: '144p',
       description: [
@@ -248,11 +258,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Prayer of the Wind comic', searchSuffix: '', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 1150, recommendedOrder: 603, tags: ['Optional', 'Spin-off', 'Play diary'],
-      title: "Final Fantasy XI ~Staying in Vana'diel~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2003-05',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 1150, recommendedOrder: 603,
+    title: "Final Fantasy XI ~Staying in Vana'diel~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2003-05',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Play diary'],
       subtitle: 'Book',
       length: '477p;B6',
       description: [
@@ -270,11 +281,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: "Final Fantasy XI Play Diary Staying in Vana'diel", searchSuffix: '', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 1200, recommendedOrder: 607, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~The Eternal Bond~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-07',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 1200, recommendedOrder: 607,
+    title: 'Final Fantasy XI ~The Eternal Bond~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-07',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '287p;A6',
       description: [
@@ -294,11 +306,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Eternal Bond', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 1300, recommendedOrder: 608, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~The Sword of Protection~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-10',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 1300, recommendedOrder: 608,
+    title: 'Final Fantasy XI ~The Sword of Protection~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-10',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '255p;A6',
       description: [
@@ -319,11 +332,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Sword of Protection', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 1400, recommendedOrder: 609, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~The Sword of Protection~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-12',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 1400, recommendedOrder: 609,
+    title: 'Final Fantasy XI ~The Sword of Protection~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-12',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '254p;A6',
       description: [
@@ -344,11 +358,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Sword of Protection', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 610, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~The Sword of Protection~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-01',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 610,
+    title: 'Final Fantasy XI ~The Sword of Protection~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-01',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '255p;A6',
       description: [
@@ -368,11 +383,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Sword of Protection', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 1600, recommendedOrder: 611, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~Faraway Wings~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-03',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 1600, recommendedOrder: 611,
+    title: 'Final Fantasy XI ~Faraway Wings~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-03',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '255p;A6',
       description: [
@@ -393,11 +409,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Faraway Wings', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 1700, recommendedOrder: 612, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~Pride of the Knight~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-07',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 1700, recommendedOrder: 612,
+    title: 'Final Fantasy XI ~Pride of the Knight~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-07',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '249p;A6',
       description: [
@@ -418,11 +435,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Pride of the Knight', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 1950, recommendedOrder: 613, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~Pride of the Knight~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-09',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 1950, recommendedOrder: 613,
+    title: 'Final Fantasy XI ~Pride of the Knight~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-09',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '250p;A6',
       description: [
@@ -443,11 +461,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Pride of the Knight', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 2100, recommendedOrder: 614, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~Pride of the Knight~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-12',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 2100, recommendedOrder: 614,
+    title: 'Final Fantasy XI ~Pride of the Knight~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-12',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '250p;A6',
       description: [
@@ -468,11 +487,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Pride of the Knight', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 2200, recommendedOrder: 615, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: "Final Fantasy XI ~Adventurer's Holiday~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-04',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 2200, recommendedOrder: 615,
+    title: "Final Fantasy XI ~Adventurer's Holiday~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-04',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '318p;A6',
       description: [
@@ -492,11 +512,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: "Final Fantasy XI Adventurer's Holiday", noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 2300, recommendedOrder: 616, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~A Distant Wish~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-07',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 2300, recommendedOrder: 616,
+    title: 'Final Fantasy XI ~A Distant Wish~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-07',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '249p;A6',
       description: [
@@ -516,11 +537,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI A Distant Wish', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 2400, recommendedOrder: 617, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~A Distant Wish~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-09',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 2400, recommendedOrder: 617,
+    title: 'Final Fantasy XI ~A Distant Wish~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-09',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '255p;A6',
       description: [
@@ -540,11 +562,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI A Distant Wish', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 2500, recommendedOrder: 618, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~A New Dream~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-11',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 2500, recommendedOrder: 618,
+    title: 'Final Fantasy XI ~A New Dream~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-11',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '255p;A6',
       description: [
@@ -564,11 +587,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI A New Dream', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 2600, recommendedOrder: 619, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~A New Dream~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-01',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 2600, recommendedOrder: 619,
+    title: 'Final Fantasy XI ~A New Dream~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-01',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '223p;A6',
       description: [
@@ -588,11 +612,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI A New Dream', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 2700, recommendedOrder: 626, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~The Blessings of the Journey~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-04',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 2700, recommendedOrder: 626,
+    title: 'Final Fantasy XI ~The Blessings of the Journey~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-04',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '287p;A6',
       description: [
@@ -610,11 +635,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Blessings of the Journey', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 3100, recommendedOrder: 627, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-08',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 3100, recommendedOrder: 627,
+    title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-08',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '287p;A6',
       description: [
@@ -632,11 +658,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Daughters of Aht Urhgan', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 3200, recommendedOrder: 628, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-10',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 3200, recommendedOrder: 628,
+    title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-10',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '251p;A6',
       description: [
@@ -654,11 +681,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Daughters of Aht Urhgan', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 3300, recommendedOrder: 629, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-12',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 3300, recommendedOrder: 629,
+    title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-12',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '254p;A6',
       description: [
@@ -676,11 +704,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Daughters of Aht Urhgan', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 3400, recommendedOrder: 620, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~The Testament of the Wise~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-03',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 3400, recommendedOrder: 620,
+    title: 'Final Fantasy XI ~The Testament of the Wise~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-03',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '250p;A6',
       description: [
@@ -700,11 +729,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Testament of the Wise', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 3500, recommendedOrder: 621, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~The Testament of the Wise~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-04',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 3500, recommendedOrder: 621,
+    title: 'Final Fantasy XI ~The Testament of the Wise~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-04',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '252p;A6',
       description: [
@@ -724,11 +754,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Testament of the Wise', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 3550, recommendedOrder: 622, tags: ['Optional', 'Spin-off', 'Novel'],
-      title: 'Final Fantasy XI ~The Song of the Storm~ Vol.1', titleUrl: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1', titleDate: '2007',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 3550, recommendedOrder: 622,
+    title: 'Final Fantasy XI ~The Song of the Storm~ Vol.1', titleUrl: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1', titleDate: '2007',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Novel'],
       subtitle: 'Book',
       length: '222p; P',
       description: [
@@ -749,11 +780,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Song of the Storm', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Comic', chronoOrder: 10, recommendedOrder: 601, tags: ['Optional', 'Spin-off', 'Manga'],
-      title: 'Final Fantasy XI ~Adventure Log~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2007-03-20',
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 10, recommendedOrder: 601,
+    title: 'Final Fantasy XI ~Adventure Log~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2007-03-20',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Manga'],
       subtitle: 'Comic',
       helpWanted: true,
       description: [
@@ -768,11 +800,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Adventure Log webcomic', searchSuffix: '', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 3600, recommendedOrder: 623, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~Conditions of Fortune~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-08',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 3600, recommendedOrder: 623,
+    title: 'Final Fantasy XI ~Conditions of Fortune~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-08',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '284p;A6',
       description: [
@@ -792,11 +825,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Conditions of Fortune', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 3700, recommendedOrder: 624, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~The Princess Knight of Ronfaure~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-11',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 3700, recommendedOrder: 624,
+    title: 'Final Fantasy XI ~The Princess Knight of Ronfaure~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-11',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '254p;A6',
       description: [
@@ -816,11 +850,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Princess Knight of Ronfaure', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 4100, recommendedOrder: 625, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: "Final Fantasy XI ~The Star's Call~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-01',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 4100, recommendedOrder: 625,
+    title: "Final Fantasy XI ~The Star's Call~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-01',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '287p;A6',
       description: [
@@ -840,11 +875,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: "Final Fantasy XI The Star's Call", noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 4200, recommendedOrder: 630, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~Happy Gift~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-04',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 4200, recommendedOrder: 630,
+    title: 'Final Fantasy XI ~Happy Gift~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-04',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '313p;A6',
       description: [
@@ -862,11 +898,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Happy Gift', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 4300, recommendedOrder: 631, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~A Message from Beyond~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-08',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 4300, recommendedOrder: 631,
+    title: 'Final Fantasy XI ~A Message from Beyond~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-08',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '255p;A6',
       description: [
@@ -884,11 +921,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI A Message from Beyond', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 4400, recommendedOrder: 632, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~A Message from Beyond~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-10',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 4400, recommendedOrder: 632,
+    title: 'Final Fantasy XI ~A Message from Beyond~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-10',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '255p;A6',
       description: [
@@ -906,11 +944,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI A Message from Beyond', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 4500, recommendedOrder: 633, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~A Message from Beyond~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-12',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 4500, recommendedOrder: 633,
+    title: 'Final Fantasy XI ~A Message from Beyond~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-12',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '255p;A6',
       description: [
@@ -928,11 +967,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI A Message from Beyond', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 4600, recommendedOrder: 634, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~Anthology~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-02',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 4600, recommendedOrder: 634,
+    title: 'Final Fantasy XI ~Anthology~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-02',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '311p;A6',
       description: [
@@ -950,11 +990,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Anthology of Short Stories', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 4700, recommendedOrder: 635, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-05',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 4700, recommendedOrder: 635,
+    title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-05',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '282p;A6',
       description: [
@@ -972,11 +1013,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Heartbeat of Xarcabard', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 4800, recommendedOrder: 636, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-08',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 4800, recommendedOrder: 636,
+    title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-08',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '247p;A6',
       description: [
@@ -994,11 +1036,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Heartbeat of Xarcabard', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 4900, recommendedOrder: 637, tags: ['Optional', 'Spin-off', 'Short Stories'],
-      title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-11',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 4900, recommendedOrder: 637,
+    title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-11',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Short Stories'],
       subtitle: 'Book',
       length: '283p;A6',
       description: [
@@ -1016,11 +1059,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Heartbeat of Xarcabard', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Comic', chronoOrder: 4950, recommendedOrder: 638, tags: ['Optional', 'Spin-off', 'Articles', 'Manga', 'Short Stories'],
-      title: 'Final Fantasy XI ~Lightning Brigade Encyclopedia~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Lightning_Brigade', titleDate: '2013-03',
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 4950, recommendedOrder: 638,
+    title: 'Final Fantasy XI ~Lightning Brigade Encyclopedia~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Lightning_Brigade', titleDate: '2013-03',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Articles', 'Manga', 'Short Stories'],
       subtitle: 'Book',
       length: '217p;AB',
       helpWanted: true,
@@ -1039,11 +1083,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Lightning Brigade Decennial Encyclopedia', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 5100, recommendedOrder: 640, tags: ['Optional', 'Spin-off', 'YA Short Stories'],
-      title: 'Final Fantasy XI ~Songs of the Endless Earth~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books', titleDate: '2015-12',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 5100, recommendedOrder: 640,
+    title: 'Final Fantasy XI ~Songs of the Endless Earth~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books', titleDate: '2015-12',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'YA Short Stories'],
       subtitle: 'Book',
       length: '287p;B6',
       description: [
@@ -1061,11 +1106,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: "Final Fantasy XI Adventurer's Holiday", noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Comic', chronoOrder: 5150, recommendedOrder: 641, tags: ['Optional', 'Spin-off', 'Manga'],
-      title: 'Final Fantasy XI ~Minagawa Fumio Illustrations~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Illustrations', titleDate: '2018-12',
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 5150, recommendedOrder: 641,
+    title: 'Final Fantasy XI ~Minagawa Fumio Illustrations~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Illustrations', titleDate: '2018-12',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Manga'],
       subtitle: 'Comic',
       length: '189p;K4',
       helpWanted: true,
@@ -1084,11 +1130,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Minagawa Fumio Illustrations', searchSuffix: '', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Comic', chronoOrder: 5050, recommendedOrder: 639, tags: ['Optional', 'Spin-off', 'Manga'],
-      title: 'Final Fantasy XI ~Aloha Iroha~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha', titleDate: '2015-08-11',
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 5050, recommendedOrder: 639,
+    title: 'Final Fantasy XI ~Aloha Iroha~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha', titleDate: '2015-08-11',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Manga'],
       subtitle: 'Comic',
       description: [
         "A series of four-panel manga based on Final Fantasy XI, following the story of Iroha, the main heroine of Rhapsodies of Vana'diel. Known in Japan as Iroha de Gozaru.",
@@ -1102,11 +1149,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI ~Aloha Iroha~', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 5160, recommendedOrder: 642, tags: ['Optional', 'Spin-off', 'Novel'],
-      title: 'Final Fantasy XI ~Minstrel of Strange Tales: Replica Script~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2024-02',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 5160, recommendedOrder: 642,
+    title: 'Final Fantasy XI ~Minstrel of Strange Tales: Replica Script~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2024-02',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Novel'],
       subtitle: 'Book',
       length: '96p;B5',
       description: [
@@ -1121,11 +1169,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Minstrel of Strange Tales', searchSuffix: '', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 5170, recommendedOrder: 643, tags: ['Optional', 'Spin-off', 'Novel'],
-      title: 'Final Fantasy XI ~Minstrel of Fantasies: Replica Script~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2025-03',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 5170, recommendedOrder: 643,
+    title: 'Final Fantasy XI ~Minstrel of Fantasies: Replica Script~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2025-03',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Novel'],
       subtitle: 'Book',
       length: '96p;B5',
       description: [
@@ -1140,11 +1189,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Minstrel of Fantasies', searchSuffix: '', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 5020, recommendedOrder: 700, tags: ['Optional', 'Spin-off', 'MMORPG', 'Mobile', 'Jobs', 'Active Time Battle', 'Terminated'],
-      title: 'Final Fantasy Grandmasters', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Grandmasters', titleDate: '2015-09-30',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 5020, recommendedOrder: 700,
+    title: 'Final Fantasy Grandmasters', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Grandmasters', titleDate: '2015-09-30',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'MMORPG', 'Mobile', 'Jobs', 'Active Time Battle', 'Terminated'],
       bylineParts: [
         { text: 'Optional · Spin-off · ' },
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
@@ -1163,11 +1213,12 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Grandmasters' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 1050, recommendedOrder: 700, tags: ['Optional', 'Unofficial fan project', 'RPG', '2D', 'Sprites', 'Alternate Universe', 'Free'],
-      title: 'Final Fantasy XI: Braver', titleUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver', titleDate: '2021-07-10',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 1050, recommendedOrder: 700,
+    title: 'Final Fantasy XI: Braver', titleUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver', titleDate: '2021-07-10',
+    primary: {
+      tags: ['Optional', 'Unofficial fan project', 'RPG', '2D', 'Sprites', 'Alternate Universe', 'Free'],
       description: [
         [{ text: 'Taking place roughly in the world of ' }, { emText: 'XI: Rise of the Zilart (2003)' }, { text: ' with a sprinkle from other Final Fantasy titles, making it a bit of an alternate universe re-imagining. Entry also found in our Fan Projects series.' }],
         'A party of adventurers, fresh off a win in the Valkurm Dunes, is summoned to Lower Jeuno by the Captain of the Ducal Guard for an urgent mission.',
@@ -1183,6 +1234,5 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy XI braver' },
       ],
     },
-  ] },
+  },
 ]};
-

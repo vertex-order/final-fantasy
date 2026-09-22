@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['VIII'] = { num: 'VIII', chronoOrder: 800, recommendedOrder: 800, title: 'Final Fantasy VIII', note: 'A more grounded, character-driven entry, centered on a love story and experimental mechanics.', media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['3D', 'RPG', 'Single-player'],
-      title: 'Final Fantasy VIII', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VIII', titleDate: '1999-02-11',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy VIII', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VIII', titleDate: '1999-02-11',
+    primary: {
+      mainline: true, tags: ['3D', 'RPG', 'Single-player'],
       subtitle: 'Remastered', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Final_Fantasy_VIII_Remastered', subtitleDate: 2019,
       languages: [
         { value: 'JA', native: true },
@@ -48,65 +49,66 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', chronoOrder: 800, recommendedOrder
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy VIII' },
       ],
     },
-    {
-      versions: [
-        {
-          subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', subtitleDate: 2013,
-          description: [
-            [{ text: 'This remaster has upscaled graphics, High Speed Mode, companion mini-game ' }, { emLinkText: 'Chocobo World', emLinkUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Other_media' }, { text: ', many accesibility and cheat booster commands; including Battle Assistance, Magic Booster, Max Damage, AP Max, Gil Max.' }],
-          ],
-          languages: [
-            { value: 'EN' },
-            { value: 'FR' },
-            { value: 'IT' },
-            { value: 'DE' },
-            { value: 'ES-ES' },
-          ],
-          profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-viii-pc',
-          platforms: [
-            { key: 'windows', noUrl: true },
-            { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/39150/FINAL_FANTASY_VIII/' },
-          ],
-        },
-        {
-          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', subtitleDate: 2000,
-          description: [
-            'This port has MIDI audio instead of the original soundtrack and a slower battle interface that makes Limit Break inputs less precise. A companion mini-game no longer requires extra hardware to play.',
-          ],
-          languages: [
-            { value: 'EN', native: true },
-            { value: 'JA' },
-            { value: 'FR' },
-            { value: 'DE' },
-            { value: 'IT' },
-            { value: 'ES-ES' },
-          ],
-          platforms: [
-            { key: 'windows', noUrl: true },
-          ],
-        },
-        {
-          label: 'Final Fantasy VIII (1999)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII',
-          description: [
-            'The original release. Non-Japan releases add automatic tutorials and give two Guardian Forces their elemental/status junction abilities by default.',
-          ],
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-            { value: '…?' },
-          ],
-          helpWanted: true,
-          platforms: [
-            { key: 'playstation1', paren: 'Physical', noUrl: true },
-            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
-            { key: 'playstation3', paren: 'PSone compatibility; Digital' },
-            { key: 'playstation-vita', paren: 'Digital' },
-            { key: 'playstation-portable', paren: 'Digital' },
-          ],
-        },
-      ],
-    },
-  ] },
+    alts: [
+      {
+        versions: [
+          {
+            subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', subtitleDate: 2013,
+            description: [
+              [{ text: 'This remaster has upscaled graphics, High Speed Mode, companion mini-game ' }, { emLinkText: 'Chocobo World', emLinkUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Other_media' }, { text: ', many accesibility and cheat booster commands; including Battle Assistance, Magic Booster, Max Damage, AP Max, Gil Max.' }],
+            ],
+            languages: [
+              { value: 'EN' },
+              { value: 'FR' },
+              { value: 'IT' },
+              { value: 'DE' },
+              { value: 'ES-ES' },
+            ],
+            profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-viii-pc',
+            platforms: [
+              { key: 'windows', noUrl: true },
+              { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/39150/FINAL_FANTASY_VIII/' },
+            ],
+          },
+          {
+            subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series', subtitleDate: 2000,
+            description: [
+              'This port has MIDI audio instead of the original soundtrack and a slower battle interface that makes Limit Break inputs less precise. A companion mini-game no longer requires extra hardware to play.',
+            ],
+            languages: [
+              { value: 'EN', native: true },
+              { value: 'JA' },
+              { value: 'FR' },
+              { value: 'DE' },
+              { value: 'IT' },
+              { value: 'ES-ES' },
+            ],
+            platforms: [
+              { key: 'windows', noUrl: true },
+            ],
+          },
+          {
+            label: 'Final Fantasy VIII (1999)',
+            url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII',
+            description: [
+              'The original release. Non-Japan releases add automatic tutorials and give two Guardian Forces their elemental/status junction abilities by default.',
+            ],
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN' },
+              { value: '…?' },
+            ],
+            helpWanted: true,
+            platforms: [
+              { key: 'playstation1', paren: 'Physical', noUrl: true },
+              { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
+              { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+              { key: 'playstation-vita', paren: 'Digital' },
+              { key: 'playstation-portable', paren: 'Digital' },
+            ],
+          },
+        ],
+      },
+    ],
+  },
 ]};
-

@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 1510, title: 'Theatrhythm', note: 'A rhythm spin-off, mashing up elements and music from across the franchise, and occasionally outside franchises altogether.', media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, tags: ['Rhythm', 'Single-player', 'Multiplayer'],
-      title: 'Theatrhythm Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy', titleDate: '2012-02-16',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Theatrhythm Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy', titleDate: '2012-02-16',
+    primary: {
+      tags: ['Rhythm', 'Single-player', 'Multiplayer'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -24,11 +25,12 @@ window.__ffSeriesReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 1
         { key: 'nintendo-3ds', paren: 'No Digital', noUrl: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200, tags: ['Sequel', 'Rhythm', 'Single-player', 'Multiplayer'],
-      title: 'Theatrhythm Final Fantasy: Curtain Call', titleUrl: 'https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy:_Curtain_Call', titleDate: '2014-04-24',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
+    title: 'Theatrhythm Final Fantasy: Curtain Call', titleUrl: 'https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy:_Curtain_Call', titleDate: '2014-04-24',
+    primary: {
+      tags: ['Sequel', 'Rhythm', 'Single-player', 'Multiplayer'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -49,11 +51,12 @@ window.__ffSeriesReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 1
         { key: 'nintendo-3ds', noUrl: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 150, recommendedOrder: 250, tags: ['Optional', 'Spin-off', 'Rhythm', 'Single-player'],
-      title: 'Theatrhythm Dragon Quest', titleUrl: 'https://wikipedia.org/wiki/Theatrhythm_Dragon_Quest', titleDate: '2015-03-26',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 150, recommendedOrder: 250,
+    title: 'Theatrhythm Dragon Quest', titleUrl: 'https://wikipedia.org/wiki/Theatrhythm_Dragon_Quest', titleDate: '2015-03-26',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Rhythm', 'Single-player'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN', tip: 'English (fan translation)' },
@@ -67,11 +70,12 @@ window.__ffSeriesReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 1
         { key: 'fan-translation', search: 'duckduckgo', term: 'Theatrhythm Dragon Quest', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300, tags: ['Sequel', 'Rhythm', 'Arcade', 'Single-player', 'Multiplayer', 'Co-op'],
-      title: 'Theatrhythm Final Fantasy All-Star Carnival', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy_All-Star_Carnival', titleDate: '2016-09-27',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300,
+    title: 'Theatrhythm Final Fantasy All-Star Carnival', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy_All-Star_Carnival', titleDate: '2016-09-27',
+    primary: {
+      tags: ['Sequel', 'Rhythm', 'Arcade', 'Single-player', 'Multiplayer', 'Co-op'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN', tip: 'English (JP version; most menus)' },
@@ -84,11 +88,12 @@ window.__ffSeriesReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 1
         { key: 'arcade', jpTag: true, noUrl: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 300, recommendedOrder: 400, tags: ['Sequel', 'Rhythm', 'Single-player', 'Multiplayer', 'Co-op'],
-      title: 'Theatrhythm Final Bar Line', titleUrl: 'https://wikipedia.org/wiki/Theatrhythm_Final_Bar_Line', titleDate: '2023-02-16',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 300, recommendedOrder: 400,
+    title: 'Theatrhythm Final Bar Line', titleUrl: 'https://wikipedia.org/wiki/Theatrhythm_Final_Bar_Line', titleDate: '2023-02-16',
+    primary: {
+      tags: ['Sequel', 'Rhythm', 'Single-player', 'Multiplayer', 'Co-op'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN-GB' },
@@ -119,6 +124,5 @@ window.__ffSeriesReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 1
         { key: 'playstation4', noUrl: true },
       ],
     },
-  ] },
+  },
 ]};
-

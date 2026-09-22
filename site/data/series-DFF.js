@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['DFF'] = { num: 'DFF', chronoOrder: 1390, recommendedOrder: 1390, title: 'Dissidia Final Fantasy', note: "Final Fantasy's take on the fighting game genre. Titles contain elements and characters from other Final Fantasy entries, and thus could be considered a mash-up or alternate universe.", media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: -100, recommendedOrder: 50, tags: ['Optional', 'Prequel', '3D', 'Fighting game', 'Action RPG', 'Single-player', 'Demo'],
-      title: 'Dissidia Duodecim Prologus Final Fantasy', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Dissidia_Duodecim_Prologus_Final_Fantasy', titleDate: '2011-01-18',
+  {
+    mediaType: 'Game', chronoOrder: -100, recommendedOrder: 50,
+    title: 'Dissidia Duodecim Prologus Final Fantasy', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Dissidia_Duodecim_Prologus_Final_Fantasy', titleDate: '2011-01-18',
+    primary: {
+      tags: ['Optional', 'Prequel', '3D', 'Fighting game', 'Action RPG', 'Single-player', 'Demo'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -25,11 +26,12 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', chronoOrder: 1390, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'Dissidia Duodecim Prologus Final Fantasy' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, tags: ['3D', 'Fighting game', 'Action RPG', 'Single-player', 'Multiplayer'],
-      title: 'Dissidia Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy', titleDate: '2008-12-18',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Dissidia Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy', titleDate: '2008-12-18',
+    primary: {
+      tags: ['3D', 'Fighting game', 'Action RPG', 'Single-player', 'Multiplayer'],
       subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Dissidia_012_Final_Fantasy', subtitleDate: '2011-03-03',
       languages: [
         { value: 'JA', native: true },
@@ -54,33 +56,36 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', chronoOrder: 1390, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'Dissidia 012 Final Fantasy' },
       ],
     },
-    {
-      versions: [
-        {
-          description: [
-            [{ text: 'The original release. The Western versions add new cutscenes, an Arcade Mode, and ease unlocking Shade Impulse and grinding for player icons. Also released as ' }, { emText: 'Dissidia Final Fantasy: Universal Tuning' }, { text: ' in Japan, which offers a choice of English or Japanese voice audio in battles (cutscenes are English only).' }],
-          ],
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-            { value: '…?' },
-          ],
-          helpWanted: true,
-          ratings: [
-            { score: '79', url: 'https://www.metacritic.com/game/dissidia-final-fantasy/', key: 'metacritic' },
-            { score: '7.1', url: 'https://www.metacritic.com/game/dissidia-final-fantasy/', key: 'metacritic-user' },
-          ],
-          platforms: [
-            { key: 'playstation-portable', noUrl: true },
-          ],
-        },
-      ],
-    },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200, tags: ['Sequel', '3D', 'Fighting game', 'Action RPG', 'Single-player', 'Multiplayer'],
-      title: 'Dissidia Final Fantasy NT', titleUrl: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_NT', titleDate: '2015-11-26',
+    alts: [
+      {
+        versions: [
+          {
+            description: [
+              [{ text: 'The original release. The Western versions add new cutscenes, an Arcade Mode, and ease unlocking Shade Impulse and grinding for player icons. Also released as ' }, { emText: 'Dissidia Final Fantasy: Universal Tuning' }, { text: ' in Japan, which offers a choice of English or Japanese voice audio in battles (cutscenes are English only).' }],
+            ],
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN' },
+              { value: '…?' },
+            ],
+            helpWanted: true,
+            ratings: [
+              { score: '79', url: 'https://www.metacritic.com/game/dissidia-final-fantasy/', key: 'metacritic' },
+              { score: '7.1', url: 'https://www.metacritic.com/game/dissidia-final-fantasy/', key: 'metacritic-user' },
+            ],
+            platforms: [
+              { key: 'playstation-portable', noUrl: true },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+  {
+    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
+    title: 'Dissidia Final Fantasy NT', titleUrl: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_NT', titleDate: '2015-11-26',
+    primary: {
+      tags: ['Sequel', '3D', 'Fighting game', 'Action RPG', 'Single-player', 'Multiplayer'],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN', voice: true },
@@ -113,11 +118,12 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', chronoOrder: 1390, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'Dissidia Final Fantasy NT' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300, tags: ['Optional', 'Spin-off', 'Mobile', 'Free-to-play', 'Turn-based RPG', 'Single-player', 'Terminated'],
-      title: 'Dissidia Final Fantasy Opera Omnia', titleUrl: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_Opera_Omnia', titleDate: '2017-02-01',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300,
+    title: 'Dissidia Final Fantasy Opera Omnia', titleUrl: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_Opera_Omnia', titleDate: '2017-02-01',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Mobile', 'Free-to-play', 'Turn-based RPG', 'Single-player', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -140,11 +146,12 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', chronoOrder: 1390, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'Dissidia Final Fantasy Opera Omnia' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 300, recommendedOrder: 400, tags: ['Spin-off', 'Mobile', 'Alternate Universe', 'Fighting game', 'Action RPG', 'Gacha', 'Multi-player', 'Free-to-play', 'In-App Purchases'],
-      title: 'Dissidia Duellum Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/Dissidia_Duellum_Final_Fantasy', titleDate: '2026-03-24',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 300, recommendedOrder: 400,
+    title: 'Dissidia Duellum Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/Dissidia_Duellum_Final_Fantasy', titleDate: '2026-03-24',
+    primary: {
+      tags: ['Spin-off', 'Mobile', 'Alternate Universe', 'Fighting game', 'Action RPG', 'Gacha', 'Multi-player', 'Free-to-play', 'In-App Purchases'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -166,6 +173,5 @@ window.__ffSeriesReg['DFF'] = { num: 'DFF', chronoOrder: 1390, recommendedOrder:
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', term: 'Dissidia Duellum Final Fantasy', noResults: true },
       ],
     },
-  ] },
+  },
 ]};
-

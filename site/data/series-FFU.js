@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 1050, title: 'Final Fantasy: Unlimited', note: 'The first anime in the franchise.', media: [
-  { releases: [
-    {
-      mediaType: 'TV', chronoOrder: 0, recommendedOrder: 100, tags: ['Anime', '2D', '3D'],
-      title: 'Final Fantasy: Unlimited', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited', titleDate: '2001-10-02',
+  {
+    mediaType: 'TV', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy: Unlimited', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited', titleDate: '2001-10-02',
+    primary: {
+      tags: ['Anime', '2D', '3D'],
       subtitle: 'anime',
       length: '25 episodes',
       description: [
@@ -24,11 +25,12 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited anime', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200, tags: ['Optional', 'Adaptation', 'Turn-based RPG', 'Mobile'],
-      title: 'Final Fantasy: Unlimited with U', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_with_U', titleDate: '2002-08-20',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
+    title: 'Final Fantasy: Unlimited with U', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_with_U', titleDate: '2002-08-20',
+    primary: {
+      tags: ['Optional', 'Adaptation', 'Turn-based RPG', 'Mobile'],
       description: [
         [{ text: 'Game adaptation of the ' }, { emText: 'Unlimited (2001)' }, { text: ' anime for mobile phones as a turn-based RPG.' }],
       ],
@@ -42,11 +44,12 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { key: 'mobile-phone', jpTag: true, noUrl: true, terminated: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300, tags: ['Optional', 'Adaptation', 'Adventure', 'Visual Novel game', 'Card battle'],
-      title: 'Final Fantasy: Unlimited on PC', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_on_PC_Adventure_-_Labyrinth', titleDate: '2003-05-16',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300,
+    title: 'Final Fantasy: Unlimited on PC', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_on_PC_Adventure_-_Labyrinth', titleDate: '2003-05-16',
+    primary: {
+      tags: ['Optional', 'Adaptation', 'Adventure', 'Visual Novel game', 'Card battle'],
       description: [
         [{ text: 'Game adaptation of the ' }, { emText: 'Unlimited (2001)' }, { text: ' anime as a card battle game.' }],
       ],
@@ -60,11 +63,12 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { key: 'windows', jpTag: true, noUrl: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Audio', chronoOrder: 250, recommendedOrder: 350, tags: ['Optional', 'Audio drama', 'Serial'],
-      title: 'Final Fantasy: Unlimited Voice Theater', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited#Audio', titleDate: '2002-01-15',
+  },
+  {
+    mediaType: 'Audio', chronoOrder: 250, recommendedOrder: 350,
+    title: 'Final Fantasy: Unlimited Voice Theater', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited#Audio', titleDate: '2002-01-15',
+    primary: {
+      tags: ['Optional', 'Audio drama', 'Serial'],
       subtitle: 'audio drama',
       length: '10 episodes',
       description: [
@@ -82,11 +86,12 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited Voice Theater', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 300, recommendedOrder: 400, tags: ['Optional', 'Side-story', 'Novel'],
-      title: 'Final Fantasy: Unlimited Twin Bonds', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited#Continuation_of_Final_Fantasy:_Unlimited', titleDate: '2002-03-28',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 300, recommendedOrder: 400,
+    title: 'Final Fantasy: Unlimited Twin Bonds', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited#Continuation_of_Final_Fantasy:_Unlimited', titleDate: '2002-03-28',
+    primary: {
+      tags: ['Optional', 'Side-story', 'Novel'],
       subtitle: 'Book',
       description: [
         [{ text: 'Covers a side story set somewhere before episode 12 of the ' }, { emText: 'Unlimited (2001)' }, { text: ' anime. Released as ' }, { emText: 'Final Fantasy: Unlimited Sō no Kizuna' }, { text: ', sometimes referred to as ' }, { emText: '~The Bonds of Two~' }, { text: '.' }],
@@ -101,11 +106,12 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited Sō no Kizuna', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Comic', chronoOrder: 320, recommendedOrder: 420, tags: ['Sequel', 'Manga', 'Script'],
-      title: 'Final Fantasy: Unlimited After', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After', titleDate: '2002-05-15',
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 320, recommendedOrder: 420,
+    title: 'Final Fantasy: Unlimited After', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After', titleDate: '2002-05-15',
+    primary: {
+      tags: ['Sequel', 'Manga', 'Script'],
       subtitle: 'Comic',
       length: '32p comic, 120p script',
       description: [
@@ -123,11 +129,12 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited After', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 335, recommendedOrder: 435, tags: ['Sequel', 'Side-story', 'Web novel'],
-      title: 'Final Fantasy: Unlimited After Spiral', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral', titleDate: '2002-06-01',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 335, recommendedOrder: 435,
+    title: 'Final Fantasy: Unlimited After Spiral', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral', titleDate: '2002-06-01',
+    primary: {
+      tags: ['Sequel', 'Side-story', 'Web novel'],
       subtitle: 'Book',
       length: '7 chapters',
       description: [
@@ -143,11 +150,12 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Audio', chronoOrder: 340, recommendedOrder: 440, tags: ['Sequel', 'Audio drama'],
-      title: 'Final Fantasy: Unlimited After 2', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_2', titleDate: '2002-12-26',
+  },
+  {
+    mediaType: 'Audio', chronoOrder: 340, recommendedOrder: 440,
+    title: 'Final Fantasy: Unlimited After 2', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_2', titleDate: '2002-12-26',
+    primary: {
+      tags: ['Sequel', 'Audio drama'],
       subtitle: 'audio drama',
       length: '39:48',
       description: [
@@ -163,11 +171,12 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited After 2', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Audio', chronoOrder: -50, recommendedOrder: 450, tags: ['Optional', 'Prequel', 'Side-story', 'Flashback', 'Drama'],
-      title: 'Final Fantasy: Unlimited Before', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_Before', titleDate: '2003-04-30',
+  },
+  {
+    mediaType: 'Audio', chronoOrder: -50, recommendedOrder: 450,
+    title: 'Final Fantasy: Unlimited Before', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_Before', titleDate: '2003-04-30',
+    primary: {
+      tags: ['Optional', 'Prequel', 'Side-story', 'Flashback', 'Drama'],
       subtitle: 'audio drama',
       length: '~18min',
       description: [
@@ -183,6 +192,5 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited Before', noResults: true },
       ],
     },
-  ] },
+  },
 ]};
-

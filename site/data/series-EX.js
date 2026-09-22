@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['EX'] = { num: 'EX', chronoOrder: 1520, recommendedOrder: 1520, title: 'Explorers', note: 'Features a unique multiplayer aspect, and lets you customize your party for each quest-driven encounter.', media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, tags: ['Action RPG', 'Jobs', 'Single-player', 'Multiplayer', 'Co-op'],
-      title: 'Final Fantasy Explorers', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Explorers', titleDate: '2014-12-18',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy Explorers', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Explorers', titleDate: '2014-12-18',
+    primary: {
+      tags: ['Action RPG', 'Jobs', 'Single-player', 'Multiplayer', 'Co-op'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -27,11 +28,12 @@ window.__ffSeriesReg['EX'] = { num: 'EX', chronoOrder: 1520, recommendedOrder: 1
         { key: 'nintendo-3ds', url: 'https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/FINAL-FANTASY-EXPLORERS-1079391.html' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200, tags: ['Optional', 'Action RPG', 'Jobs', 'Mobile', 'In-app Purchases', 'Multiplayer', 'Terminated'],
-      title: 'Final Fantasy Explorers-Force', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Explorers-Force', titleDate: '2018-03-20',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
+    title: 'Final Fantasy Explorers-Force', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Explorers-Force', titleDate: '2018-03-20',
+    primary: {
+      tags: ['Optional', 'Action RPG', 'Jobs', 'Mobile', 'In-app Purchases', 'Multiplayer', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
       ],
@@ -46,6 +48,5 @@ window.__ffSeriesReg['EX'] = { num: 'EX', chronoOrder: 1520, recommendedOrder: 1
         { key: 'apple', jpTag: true, terminated: true, noUrl: true },
       ],
     },
-  ] },
+  },
 ]};
-

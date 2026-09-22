@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['XVI'] = { num: 'XVI', chronoOrder: 1700, recommendedOrder: 1700, title: 'Final Fantasy XVI', note: 'A dark, mature tale full of spectacle, with real-time action combat and kaiju-scale Eikon battles, a recommended starting point for newcomers.', media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['First-time players', 'Action rpg'],
-      title: 'Final Fantasy XVI', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XVI', titleDate: '2023-06-22',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy XVI', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XVI', titleDate: '2023-06-22',
+    primary: {
+      mainline: true, tags: ['First-time players', 'Action rpg'],
       description: [
         "Clive Rosfield is passed over as successor to Rosaria's crown when his younger brother Joshua is revealed to yield great magical power as the Dominant of Phoenix. Embracing his new role as protector, he becomes embroiled in the region's wars as the nations vie for scarce resources.",
         'Two DLCs have been released, and while independent, slot in while playing the main game. They may also be played afterwards just for their story, and are listed separately.',
@@ -45,11 +46,12 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', chronoOrder: 1700, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy XVI' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 110, tags: ['Optional', 'DLC'],
-      title: 'Final Fantasy XVI: Echoes of the Fallen', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates', titleDate: '2023-12-07',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 110,
+    title: 'Final Fantasy XVI: Echoes of the Fallen', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates', titleDate: '2023-12-07',
+    primary: {
+      tags: ['Optional', 'DLC'],
       subtitle: 'DLC',
       description: [
         'Strange, dark crystals begin to circulate on the black market. Clive follows their trail to a long-abandoned Fallen tower known as the Sagespire and the terrible secrets that await within...',
@@ -72,11 +74,12 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', chronoOrder: 1700, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy XVI Echoes of the Fallen' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 120, tags: ['Optional', 'DLC'],
-      title: 'Final Fantasy XVI: The Rising Tide', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates', titleDate: '2024-04-18',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 120,
+    title: 'Final Fantasy XVI: The Rising Tide', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates', titleDate: '2024-04-18',
+    primary: {
+      tags: ['Optional', 'DLC'],
       subtitle: 'DLC',
       description: [
         'Clive receives a strange request; the Dominant of Leviathan, long lost Eikon of Water, is in need of rescue. Travel to Mysidia —a hidden land— and uncover the tragic history of a forgotten people.',
@@ -99,6 +102,5 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', chronoOrder: 1700, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy XVI The Rising Tide' },
       ],
     },
-  ] },
+  },
 ]};
-

@@ -2,10 +2,11 @@
 window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 1300, title: 'Ivalice Alliance – Final Fantasy XII', url: 'https://wikipedia.org/wiki/Ivalice', note: [
   [{ text: 'The titular title, a ' }, { emText: 'classic rpg' }, { text: ', is known for its divisive customizable auto-battle system. The series is also notable for ' }, { emText: 'Final Fantasy Tactics' }, { text: ' and several ' }, { emText: 'turn-based tactical rpgs' }, { text: ', which almost deserve their own series.' }],
 ], media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, mainline: true, tags: ['Open world', 'Gambit auto-battle'],
-      title: 'Final Fantasy XII', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII', titleDate: '2006-03-16',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy XII', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII', titleDate: '2006-03-16',
+    primary: {
+      mainline: true, tags: ['Open world', 'Gambit auto-battle'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', subtitleDate: 2018,
       description: [
         [{ text: 'The empires of Archadia and Rozarria are waging an endless war. Vaan meets princess Ashe of Dalmasca, who has established a resistance movement.' }],
@@ -45,66 +46,69 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy XII' },
       ],
     },
-    {
-      subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', subtitleDate: 2017,
-      description: [
-        ['This remaster has high-definition graphics, remastered soundtrack, and achievements. Released as ', { emText: 'Final Fantasy XII The Zodiac Age (2017)' }, '.'],
-      ],
-      languages: [
-        { value: 'JA', native: true, voice: true },
-        { value: 'EN-US', voice: true },
-        { value: 'FR' },
-        { value: 'IT' },
-        { value: 'DE' },
-        { value: 'ES-ES' },
-        { value: 'KO' },
-        { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
-        { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
-      ],
-      profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-xii-the-zodiac-age',
-      platforms: [
-        { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA05532_00-FFXIIGAMEPS400NA/' },
-        { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA05532_00-FFXIIGAMEPS400NA/' },
-      ],
-      versions: [
-        {
-          subtitle: 'International', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII#Sequels_and_re-releases', subtitleDate: 2007,
-          description: [
-            [{ text: 'This edit has twelve license boards (instead of one), controllable guest characters and Espers, a turbo mode, new game+, and new game- (no xp gain). Released as ' }, { emText: 'Final Fantasy XII International Zodiac Job System (2007)' }, { text: '.' }],
-          ],
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN', tip: 'English (Fan Translation) (ffgriever, DarknessSavior and Tauwasser 2009)' },
-          ],
-          platforms: [
-            { key: 'playstation2', paren: 'Physical) (Japan only', jpTag: true, noUrl: true },
-            { key: 'playstation3', paren: 'PS2 compatibility) (Physical) (Japan only', jpTag: true, noUrl: true },
-          ],
-        },
-        {
-          label: 'Final Fantasy XII (2006)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_XII',
-          description: [
-            'The original release. The Western versions add a 16:9 widescreen option and a distinct English localization with added voice direction.',
-          ],
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-            { value: '…?' },
-          ],
-          helpWanted: true,
-          platforms: [
-            { key: 'playstation2', paren: 'Physical', noUrl: true },
-            { key: 'playstation3', paren: 'PS2 compatibility) (Physical', noUrl: true },
-          ],
-        },
-      ],
-    },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Manga'],
-      title: 'Final Fantasy XII ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2006-12-22',
+    alts: [
+      {
+        subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', subtitleDate: 2017,
+        description: [
+          ['This remaster has high-definition graphics, remastered soundtrack, and achievements. Released as ', { emText: 'Final Fantasy XII The Zodiac Age (2017)' }, '.'],
+        ],
+        languages: [
+          { value: 'JA', native: true, voice: true },
+          { value: 'EN-US', voice: true },
+          { value: 'FR' },
+          { value: 'IT' },
+          { value: 'DE' },
+          { value: 'ES-ES' },
+          { value: 'KO' },
+          { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
+          { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
+        ],
+        profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-xii-the-zodiac-age',
+        platforms: [
+          { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA05532_00-FFXIIGAMEPS400NA/' },
+          { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA05532_00-FFXIIGAMEPS400NA/' },
+        ],
+        versions: [
+          {
+            subtitle: 'International', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII#Sequels_and_re-releases', subtitleDate: 2007,
+            description: [
+              [{ text: 'This edit has twelve license boards (instead of one), controllable guest characters and Espers, a turbo mode, new game+, and new game- (no xp gain). Released as ' }, { emText: 'Final Fantasy XII International Zodiac Job System (2007)' }, { text: '.' }],
+            ],
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN', tip: 'English (Fan Translation) (ffgriever, DarknessSavior and Tauwasser 2009)' },
+            ],
+            platforms: [
+              { key: 'playstation2', paren: 'Physical) (Japan only', jpTag: true, noUrl: true },
+              { key: 'playstation3', paren: 'PS2 compatibility) (Physical) (Japan only', jpTag: true, noUrl: true },
+            ],
+          },
+          {
+            label: 'Final Fantasy XII (2006)',
+            url: 'https://wikipedia.org/wiki/Final_Fantasy_XII',
+            description: [
+              'The original release. The Western versions add a 16:9 widescreen option and a distinct English localization with added voice direction.',
+            ],
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN' },
+              { value: '…?' },
+            ],
+            helpWanted: true,
+            platforms: [
+              { key: 'playstation2', paren: 'Physical', noUrl: true },
+              { key: 'playstation3', paren: 'PS2 compatibility) (Physical', noUrl: true },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 150,
+    title: 'Final Fantasy XII ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2006-12-22',
+    primary: {
+      tags: ['Optional', 'Manga'],
       subtitle: 'Comic',
       description: [
         "A manga adaptation of XII (2006). The Archadian Empire's invasion of neighboring lands and the death of the Dalmascan king prompt Princess Ashe, sole surviving heir to the Dalmascan throne, to take up arms against the invaders.",
@@ -123,11 +127,12 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XII manga', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200, tags: ['Sequel', 'Real-time strategy'],
-      title: 'Final Fantasy XII: Revenant Wings', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings', titleDate: '2007-04-26',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200,
+    title: 'Final Fantasy XII: Revenant Wings', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings', titleDate: '2007-04-26',
+    primary: {
+      tags: ['Sequel', 'Real-time strategy'],
       description: [
         [{ text: 'Vaan and Penelo become sky pirates and end up involved in a conflict surrounding the floating continent of Lemurés. A standalone sequel to ' }, { emText: 'XII (2006)' }, { text: '.' }],
       ],
@@ -150,11 +155,12 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy XII: Revenant Wings' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300, tags: ['Optional', 'Alternate universe', 'Turn-based tactical rpg'],
-      title: 'Final Fantasy Tactics Advance', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_Advance', titleDate: '2003-02-14',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300,
+    title: 'Final Fantasy Tactics Advance', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_Advance', titleDate: '2003-02-14',
+    primary: {
+      tags: ['Optional', 'Alternate universe', 'Turn-based tactical rpg'],
       description: [
         'Marche enters an alternate universe Ivalice populated with his friends living different lives; conflict ensues as he attempts to get home.',
         [{ text: 'Despite sharing the "Advance" branding with other Game Boy Advance ports, this is an entirely distinct game — not a port or edit of ' }, { emText: 'Tactics (1997)' }, { text: '.' }],
@@ -183,28 +189,31 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Tactics Advance' },
       ],
     },
-    {
-      title: 'Final Fantasy Tactics Advance Radio Edition', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance_Radio_Edition', titleDate: 2003,
-      subtitle: 'radio drama',
-      description: [
-        [{ text: 'Radio drama adaptation of ' }, { emText: 'Tactics Advance (2003)' }, { text: '. The plot is only slightly different.' }],
-      ],
-      languages: [
-        { value: 'JA', native: true },
-        { value: 'EN', tip: 'English (fan translation)' },
-      ],
-      length: [{ value: '13 tracks', br: true }, { value: '+ 4 extra chapters' }],
-      platforms: [
-        { key: 'compact-disc', jpTag: true, noUrl: true },
-        { key: 'fan-audiobook', searchSuffix: '', search: 'youtube', term: 'Final Fantasy Tactics Advance Radio Edition' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Tactics Advance Radio Edition', noResults: true },
-      ],
-    },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 400, tags: ['Optional', 'Spin-off', 'Turn-based tactical rpg'],
-      title: 'Final Fantasy Tactics A2: Grimoire of the Rift', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift', titleDate: '2007-10-25',
+    alts: [
+      {
+        title: 'Final Fantasy Tactics Advance Radio Edition', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance_Radio_Edition', titleDate: 2003,
+        subtitle: 'radio drama',
+        description: [
+          [{ text: 'Radio drama adaptation of ' }, { emText: 'Tactics Advance (2003)' }, { text: '. The plot is only slightly different.' }],
+        ],
+        languages: [
+          { value: 'JA', native: true },
+          { value: 'EN', tip: 'English (fan translation)' },
+        ],
+        length: [{ value: '13 tracks', br: true }, { value: '+ 4 extra chapters' }],
+        platforms: [
+          { key: 'compact-disc', jpTag: true, noUrl: true },
+          { key: 'fan-audiobook', searchSuffix: '', search: 'youtube', term: 'Final Fantasy Tactics Advance Radio Edition' },
+          { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Tactics Advance Radio Edition', noResults: true },
+        ],
+      },
+    ],
+  },
+  {
+    mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 400,
+    title: 'Final Fantasy Tactics A2: Grimoire of the Rift', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift', titleDate: '2007-10-25',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Turn-based tactical rpg'],
       description: [
         [{ text: 'Luso is transported to Ivalice and battles rival clans as he seeks a way home.' }],
         [{ text: 'Despite sometimes being considered an indirect sequel to ' }, { emText: 'Tactics Advance (2003)' }, { text: ', it actually fits better as a spin-off in the main ' }, { emText: 'Ivalice Alliance' }, { text: ' series, which the former is only loosely a part of.' }],
@@ -227,11 +236,12 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Tactics A2 Grimoire of the Rift' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 4000, recommendedOrder: 500, tags: ['Optional', 'Turn-based tactical rpg'],
-      title: 'Final Fantasy Tactics', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics', titleDate: '1997-06-20',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 4000, recommendedOrder: 500,
+    title: 'Final Fantasy Tactics', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics', titleDate: '1997-06-20',
+    primary: {
+      tags: ['Optional', 'Turn-based tactical rpg'],
       subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics#The_Ivalice_Chronicles', subtitleDate: 2025,
       description: [
         [{ text: 'Far in the future, the mercenary Ramza is involved in a civil war when an ancient demonic evil starts to take hold over the world.' }],
@@ -280,54 +290,57 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Tactics The Ivalice Chronicles' },
       ],
     },
-    {
-      versions: [
-        {
-          subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions', subtitleDate: 2007,
-          description: [
-            [{ text: 'This remake re-translates the script with archaic English terminology (e.g., Priest becomes White Mage), and restores the original Japanese release’s harder difficulty and JP costs, reversing the North American version’s easing. It adds widescreen 16:9 support, new cutscenes, voice acting (English versions), ad-hoc multiplayer, new jobs, and two new playable characters. Released as ' }, { emText: 'Final Fantasy Tactics: The War of the Lions (2007)' }, { text: '.' }],
-          ],
-          languages: [
-            { value: 'EN', voice: true },
-            { value: 'JA', native: true, textOnly: true },
-            { value: '…?' },
-          ],
-          helpWanted: true,
-          profileUrl: 'http://dlgames.square-enix.com/fft/en/',
-          platforms: [
-            { key: 'playstation-portable', url: 'http://dlgames.square-enix.com/fft/en/' },
-            { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2' },
-            { key: 'apple', url: 'http://dlgames.square-enix.com/fft/en/' },
-            { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy Tactics War of the Lions' },
-            { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy Tactics War of the Lions' },
-            { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Tactics War of the Lions' },
-          ],
-        },
-        {
-          label: 'Final Fantasy Tactics (1997)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics',
-          description: [
-            'The original release. The North American release (1998) simplifies the translation and eases the difficulty (lower ability costs, faster charge times, weaker bosses). Also playable as the ‘Classic’ mode within the Remake (2025) release, with its script updated to the War of the Lions translation.',
-          ],
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-          ],
-          platforms: [
-            { key: 'playstation1', paren: 'Physical', noUrl: true },
-            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
-            { key: 'playstation3', url: 'https://store.playstation.com/', paren: 'PSone compatibility; Digital' },
-            { key: 'playstation-vita', paren: 'Digital', url: 'https://store.playstation.com/' },
-            { key: 'playstation-portable', paren: 'Digital', url: 'https://store.playstation.com/' },
-          ],
-        },
-      ],
-    },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 6100, recommendedOrder: 600, tags: ['Optional', 'Action role-playing'],
-      title: 'Vagrant Story', titleUrl: 'https://wikipedia.org/wiki/Vagrant_Story', titleDate: '2000-02-10',
+    alts: [
+      {
+        versions: [
+          {
+            subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions', subtitleDate: 2007,
+            description: [
+              [{ text: 'This remake re-translates the script with archaic English terminology (e.g., Priest becomes White Mage), and restores the original Japanese release’s harder difficulty and JP costs, reversing the North American version’s easing. It adds widescreen 16:9 support, new cutscenes, voice acting (English versions), ad-hoc multiplayer, new jobs, and two new playable characters. Released as ' }, { emText: 'Final Fantasy Tactics: The War of the Lions (2007)' }, { text: '.' }],
+            ],
+            languages: [
+              { value: 'EN', voice: true },
+              { value: 'JA', native: true, textOnly: true },
+              { value: '…?' },
+            ],
+            helpWanted: true,
+            profileUrl: 'http://dlgames.square-enix.com/fft/en/',
+            platforms: [
+              { key: 'playstation-portable', url: 'http://dlgames.square-enix.com/fft/en/' },
+              { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2' },
+              { key: 'apple', url: 'http://dlgames.square-enix.com/fft/en/' },
+              { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy Tactics War of the Lions' },
+              { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy Tactics War of the Lions' },
+              { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Tactics War of the Lions' },
+            ],
+          },
+          {
+            label: 'Final Fantasy Tactics (1997)',
+            url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics',
+            description: [
+              'The original release. The North American release (1998) simplifies the translation and eases the difficulty (lower ability costs, faster charge times, weaker bosses). Also playable as the ‘Classic’ mode within the Remake (2025) release, with its script updated to the War of the Lions translation.',
+            ],
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN' },
+            ],
+            platforms: [
+              { key: 'playstation1', paren: 'Physical', noUrl: true },
+              { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
+              { key: 'playstation3', url: 'https://store.playstation.com/', paren: 'PSone compatibility; Digital' },
+              { key: 'playstation-vita', paren: 'Digital', url: 'https://store.playstation.com/' },
+              { key: 'playstation-portable', paren: 'Digital', url: 'https://store.playstation.com/' },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+  {
+    mediaType: 'Game', chronoOrder: 6100, recommendedOrder: 600,
+    title: 'Vagrant Story', titleUrl: 'https://wikipedia.org/wiki/Vagrant_Story', titleDate: '2000-02-10',
+    primary: {
+      tags: ['Optional', 'Action role-playing'],
       description: [
         [{ text: 'Ashley, an elite agent known as a Riskbreaker, must travel to Leá Monde to investigate the link between a cult leader and a senior Valendian Parliament member, Duke Bardorba. Considered to be in some future time after ' }, { emText: 'Final Fantasy Tactics (1997)' }, { text: '.' }],
       ],
@@ -353,11 +366,12 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'Vagrant Story' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 6000, recommendedOrder: 700, tags: ['Optional', 'Spin-off', 'Mobile', 'Tactical rpg', 'Jobs', 'Terminated'],
-      title: 'Final Fantasy Tactics S', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_S', titleDate: '2013-05-28',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 6000, recommendedOrder: 700,
+    title: 'Final Fantasy Tactics S', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_S', titleDate: '2013-05-28',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Mobile', 'Tactical rpg', 'Jobs', 'Terminated'],
       description: [
         [{ text: 'Mobile social game featuring jobs from the ' }, { emText: 'Tactics' }, { text: ' series, join a clan and engage in quests to compete with other clans in daily tournaments.' }],
         'Due to being terminated, and lacking a deep story, there is no story recap to catch up on.',
@@ -371,11 +385,12 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Tactics S', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 3100, recommendedOrder: 750, tags: ['Optional', 'Spin-off', 'Mobile', 'Turn-based strategy', 'Tower defense', 'Terminated'],
-      title: 'Crystal Defenders', titleUrl: 'https://wikipedia.org/wiki/Crystal_Defenders', titleDate: '2008-01-28',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 3100, recommendedOrder: 750,
+    title: 'Crystal Defenders', titleUrl: 'https://wikipedia.org/wiki/Crystal_Defenders', titleDate: '2008-01-28',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Mobile', 'Turn-based strategy', 'Tower defense', 'Terminated'],
       description: [
         [{ text: 'Tower defense game inspired by elements from ' }, { emText: 'Tactics A2: Grimoire of the Rift (2007)' }, { text: ' set in Ivalice. Initially released as ' }, { emText: 'Crystal Guardians' }, { text: '. Some platforms may have only partial content, or higher graphics under the name ' }, { emText: 'Crystal Defenders Plus' }, { text: '.' }],
       ],
@@ -400,11 +415,12 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'Crystal Defenders' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 3200, recommendedOrder: 800, tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile', 'Turn-based strategy', 'Tower defense', 'Terminated'],
-      title: 'Crystal Defenders: Vanguard Storm', titleUrl: 'https://wikipedia.org/wiki/Crystal_Defenders', titleDate: '2009-05-13',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 3200, recommendedOrder: 800,
+    title: 'Crystal Defenders: Vanguard Storm', titleUrl: 'https://wikipedia.org/wiki/Crystal_Defenders', titleDate: '2009-05-13',
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile', 'Turn-based strategy', 'Tower defense', 'Terminated'],
       description: [
         [{ text: 'Tower defense game inspired by elements from ' }, { emText: 'Tactics A2: Grimoire of the Rift (2007)' }, { text: ' set in Ivalice, as a direct sequel to ' }, { emText: 'Crystal Defenders (2008)' }, { text: '.' }],
       ],
@@ -419,6 +435,5 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
         { key: 'fan-playthrough', search: 'youtube', term: 'Crystal Defenders Vanguard Storm' },
       ],
     },
-  ] },
+  },
 ]};
-

@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1200, title: 'Crystal Chronicles', url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles', note: 'Known for its focus on co-operative gameplay, a return to Nintendo with the GameCube.', media: [
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100, tags: ['Action role-playing', 'Co-op'],
-      title: 'Final Fantasy Crystal Chronicles', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)', titleDate: '2003-08-08',
+  {
+    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    title: 'Final Fantasy Crystal Chronicles', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)', titleDate: '2003-08-08',
+    primary: {
+      tags: ['Action role-playing', 'Co-op'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)#Remastered_Edition', subtitleDate: 2020,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -43,32 +44,35 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Crystal Chronicles' },
       ],
     },
-    {
-      versions: [
-        {
-          label: 'Final Fantasy Crystal Chronicles (2003)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)',
-          description: [
-            'The original release, which used up to four Game Boy Advance units connected to a single GameCube to provide four player co-op multiplayer.',
-          ],
-          languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
-            { value: '…?' },
-          ],
-          helpWanted: true,
-          platforms: [
-            { key: 'nintendo-gamecube', paren: 'Physical', noUrl: true },
-            { key: 'nintendo-game-boy-advance', paren: 'Physical; one per player in co-op, with a GameCube', noUrl: true },
-          ],
-        },
-      ],
-    },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 150, tags: ['Optional', 'Manga'],
-      title: 'Final Fantasy Crystal Chronicles ~Beyond the Endless Sky~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2004-01-10',
+    alts: [
+      {
+        versions: [
+          {
+            label: 'Final Fantasy Crystal Chronicles (2003)',
+            url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)',
+            description: [
+              'The original release, which used up to four Game Boy Advance units connected to a single GameCube to provide four player co-op multiplayer.',
+            ],
+            languages: [
+              { value: 'JA', native: true },
+              { value: 'EN' },
+              { value: '…?' },
+            ],
+            helpWanted: true,
+            platforms: [
+              { key: 'nintendo-gamecube', paren: 'Physical', noUrl: true },
+              { key: 'nintendo-game-boy-advance', paren: 'Physical; one per player in co-op, with a GameCube', noUrl: true },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 150,
+    title: 'Final Fantasy Crystal Chronicles ~Beyond the Endless Sky~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2004-01-10',
+    primary: {
+      tags: ['Optional', 'Manga'],
       subtitle: 'Comic',
       length: '3 volumes',
       description: [
@@ -86,11 +90,12 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles manga', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 600, recommendedOrder: 160, tags: ['Optional', 'Novel'],
-      title: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2004-02-06',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 600, recommendedOrder: 160,
+    title: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2004-02-06',
+    primary: {
+      tags: ['Optional', 'Novel'],
       subtitle: 'Book',
       description: [
         [{ text: 'A novelization of ' }, { emText: 'Crystal Chronicles (2003)' }, { text: '. Released as ファイナルファンタジークリスタルクロニクル 〜小さな村の年代記〜 (Chiisana Mura no Nendaiki).' }],
@@ -107,11 +112,12 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Comic', chronoOrder: 700, recommendedOrder: 170, tags: ['Optional', 'Manga'],
-      title: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Manga', titleDate: '2004-01-16',
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 700, recommendedOrder: 170,
+    title: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Manga', titleDate: '2004-01-16',
+    primary: {
+      tags: ['Optional', 'Manga'],
       subtitle: 'Comic',
       description: [
         [{ text: 'A 4-panel gag manga based on ' }, { emText: 'Crystal Chronicles (2003)' }, { text: '. Released as ファイナルファンタジー・クリスタルクロニクル4コママンガ劇場.' }],
@@ -129,11 +135,12 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', noResults: true },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200, tags: ['Sequel', 'City-building', 'Terminated'],
-      title: 'Final Fantasy Crystal Chronicles: My Life as a King', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King', titleDate: '2008-03-25',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200,
+    title: 'Final Fantasy Crystal Chronicles: My Life as a King', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King', titleDate: '2008-03-25',
+    primary: {
+      tags: ['Sequel', 'City-building', 'Terminated'],
       description: [
         [{ text: 'Following ' }, { emText: 'Crystal Chronicles (2003)' }, { text: ', the son of a king who lost his kingdom establishes a new home to create a prosperous land.' }],
         [{ text: 'Due to the discontinuation of the WiiWare service it is recommend to watch a fan story recap or playthrough for story elements.' }],
@@ -157,11 +164,12 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Crystal Chronicles My Life as a King' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300, tags: ['Sequel', 'Tower defense', 'Terminated'],
-      title: 'Final Fantasy Crystal Chronicles: My Life as a Darklord', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_Darklord', titleDate: '2009-06-30',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300,
+    title: 'Final Fantasy Crystal Chronicles: My Life as a Darklord', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_Darklord', titleDate: '2009-06-30',
+    primary: {
+      tags: ['Sequel', 'Tower defense', 'Terminated'],
       description: [
         [{ text: 'Following ' }, { emText: 'Crystal Chronicles: My Life as a King (2008)' }, { text: ', the Darklord defends her mobile tower from waves of attacks as it travels across the kingdom.' }],
         [{ text: 'Due to the discontinuation of the WiiWare service it is recommend to watch a fan story recap or playthrough for story elements.' }],
@@ -185,11 +193,12 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Crystal Chronicles My Life as a Darklord' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 400, tags: ['Sequel', 'Action-adventure', 'Co-op'],
-      title: 'Final Fantasy Crystal Chronicles: The Crystal Bearers', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers', titleDate: '2009-11-12',
+  },
+  {
+    mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 400,
+    title: 'Final Fantasy Crystal Chronicles: The Crystal Bearers', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers', titleDate: '2009-11-12',
+    primary: {
+      tags: ['Sequel', 'Action-adventure', 'Co-op'],
       description: [
         [{ text: '1000 years after the events of ' }, { emText: 'Crystal Chronicles (2003)' }, { text: ', Layle, a bounty-hunting crystal bearer, is drawn into a conspiracy to seize an ancient, world-threatening power sealed within the crystals.' }],
       ],
@@ -211,11 +220,12 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Crystal Chronicles The Crystal Bearers' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: -300, recommendedOrder: 500, tags: ['Prequel', 'Action role-playing', 'Co-op'],
-      title: 'Final Fantasy Crystal Chronicles: Ring of Fates', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates', titleDate: '2007-08-23',
+  },
+  {
+    mediaType: 'Game', chronoOrder: -300, recommendedOrder: 500,
+    title: 'Final Fantasy Crystal Chronicles: Ring of Fates', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates', titleDate: '2007-08-23',
+    primary: {
+      tags: ['Prequel', 'Action role-playing', 'Co-op'],
       description: [
         [{ text: '8000 years before ' }, { emText: 'Crystal Chronicles (2003)' }, { text: '; Yuri and Chelinka come into conflict with Galdes, leader of the Red Crystal-allied Lunites.' }],
       ],
@@ -237,11 +247,12 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Crystal Chronicles Ring of Fates' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Comic', chronoOrder: -250, recommendedOrder: 550, tags: ['Optional', 'Manga'],
-      title: 'Final Fantasy Crystal Chronicles: Ring of Fates ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2008-03-01',
+  },
+  {
+    mediaType: 'Comic', chronoOrder: -250, recommendedOrder: 550,
+    title: 'Final Fantasy Crystal Chronicles: Ring of Fates ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2008-03-01',
+    primary: {
+      tags: ['Optional', 'Manga'],
       subtitle: 'Comic',
       length: '2 volumes',
       description: [
@@ -265,11 +276,12 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
         },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Game', chronoOrder: -200, recommendedOrder: 600, tags: ['Prequel', 'Action rpg', 'Co-op'],
-      title: 'Final Fantasy Crystal Chronicles: Echoes of Time', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time', titleDate: '2009-01-29',
+  },
+  {
+    mediaType: 'Game', chronoOrder: -200, recommendedOrder: 600,
+    title: 'Final Fantasy Crystal Chronicles: Echoes of Time', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time', titleDate: '2009-01-29',
+    primary: {
+      tags: ['Prequel', 'Action rpg', 'Co-op'],
       description: [
         [{ text: 'Takes place between ' }, { emText: 'Ring of Fates (2007)' }, { text: ' but before ' }, { emText: 'Crystal Chronicles (2003)' }, { text: '. You must receive your own crystal shard, embark on an adventure to save a friend, and confront scientist Larkeicus.' }],
       ],
@@ -292,6 +304,5 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Crystal Chronicles Echoes of Time' },
       ],
     },
-  ] },
+  },
 ]};
-

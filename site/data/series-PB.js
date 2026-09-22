@@ -1,9 +1,10 @@
 // schema: series.schema.json
 window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1750, title: 'Picture Books', note: "Illustrated children's picture books based on various Final Fantasy worlds. Also listed under their respective series.", media: [
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 200, recommendedOrder: 200, tags: ['Optional', 'Tie-in', 'Picture Book'],
-      title: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky", titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094738', titleDate: '2026-05-19',
+  {
+    mediaType: 'Book', chronoOrder: 200, recommendedOrder: 200,
+    title: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky", titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094738', titleDate: '2026-05-19',
+    primary: {
+      tags: ['Optional', 'Tie-in', 'Picture Book'],
       subtitle: 'Book',
       length: '48p',
       description: [
@@ -23,11 +24,12 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
         { key: 'fan-movie', search: 'youtube', term: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky reading", searchSuffix: '' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 100, recommendedOrder: 100, tags: ['Optional', 'Tie-in', 'Picture Book'],
-      title: 'Chocobo and the Airship: A Final Fantasy Picture Book', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092031', titleDate: '2023-03-21',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 100, recommendedOrder: 100,
+    title: 'Chocobo and the Airship: A Final Fantasy Picture Book', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092031', titleDate: '2023-03-21',
+    primary: {
+      tags: ['Optional', 'Tie-in', 'Picture Book'],
       subtitle: 'Book',
       length: '40p',
       description: [
@@ -48,11 +50,12 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
         { key: 'fan-movie', search: 'youtube', term: 'Chocobo and the Airship: A Final Fantasy Picture Book reading', searchSuffix: '' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 300, recommendedOrder: 300, tags: ['Optional', 'Tie-in', 'Picture Book'],
-      title: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447', titleDate: '2022-08-09',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 300, recommendedOrder: 300,
+    title: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447', titleDate: '2022-08-09',
+    primary: {
+      tags: ['Optional', 'Tie-in', 'Picture Book'],
       subtitle: 'Book',
       length: '24p',
       description: [
@@ -72,11 +75,12 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
         { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift reading', searchSuffix: '' },
       ],
     },
-  ] },
-  { releases: [
-    {
-      mediaType: 'Book', chronoOrder: 400, recommendedOrder: 400, tags: ['Optional', 'Tie-in', 'Picture Book'],
-      title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833', titleDate: '2027-04-13',
+  },
+  {
+    mediaType: 'Book', chronoOrder: 400, recommendedOrder: 400,
+    title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833', titleDate: '2027-04-13',
+    primary: {
+      tags: ['Optional', 'Tie-in', 'Picture Book'],
       subtitle: 'Book',
       length: '24p',
       description: [
@@ -103,6 +107,5 @@ window.__ffSeriesReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 1
         },
       ],
     },
-  ] },
+  },
 ]};
-
