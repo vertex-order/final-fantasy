@@ -50,6 +50,7 @@
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series -- dates*, platforms*, versions -- accessed 2026-09-22
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Bundled_releases -- dates, platforms -- accessed 2026-09-22
+- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII -- story, platforms -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_VII
 - https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases
 - https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis

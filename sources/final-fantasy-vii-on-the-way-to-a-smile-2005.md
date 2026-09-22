@@ -24,6 +24,7 @@
 
 ## wikipedia.org (Information)
 
+- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII -- story, platforms -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile
 
 ## youtube.com (Information)
