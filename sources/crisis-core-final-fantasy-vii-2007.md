@@ -43,7 +43,7 @@
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Compilation_of_Final_Fantasy_VII -- dates*, platforms*, tags, story, versions -- accessed 2026-09-22
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Branded_subseries -- dates*, platforms* -- accessed 2026-09-22
-- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII -- story, platforms -- accessed 2026-09-22
+- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- story, platforms -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII
 - https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII#Crisis_Core:_Final_Fantasy_VII_Reunion
 - https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis
