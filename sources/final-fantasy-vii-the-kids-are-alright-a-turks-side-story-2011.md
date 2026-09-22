@@ -23,6 +23,7 @@
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books
+  - https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII -- story, platforms -- accessed 2026-09-22
 
 ## yenpress.com (Information)
 
