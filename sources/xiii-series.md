@@ -5,6 +5,6 @@
 
 ## wikipedia.org (Information)
 
-- https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy -- games*, story -- accessed 2026-09-22
+- https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy -- media*, story -- accessed 2026-09-22
 
 ## Decisions

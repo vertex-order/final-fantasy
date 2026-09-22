@@ -6,6 +6,6 @@
 
 ## wikipedia.org (Information)
 
-- https://wikipedia.org/wiki/Ivalice -- games*, story -- accessed 2026-09-22
+- https://wikipedia.org/wiki/Ivalice -- media*, story -- accessed 2026-09-22
 
 ## Decisions
