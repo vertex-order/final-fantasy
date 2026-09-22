@@ -17,6 +17,10 @@
 - https://www.goodreads.com/book/show/43886659-final-fantasy-xiii-2
 - https://www.goodreads.com/book/show/216672280-final-fantasy-xiii-2-fragments-after
 
+## wikipedia.org (Information)
+
+- https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media -- story, platforms -- accessed 2026-09-22
+
 ## youtube.com (Information)
 
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20After%20story%20audiobook

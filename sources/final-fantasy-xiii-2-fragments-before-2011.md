@@ -18,4 +18,8 @@
 - https://www.goodreads.com/book/show/41214500-final-fantasy-xiii-2
 - https://www.goodreads.com/book/show/210053308-final-fantasy-xiii-2-fragments-before
 
+## wikipedia.org (Information)
+
+- https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media -- story, platforms -- accessed 2026-09-22
+
 ## Decisions

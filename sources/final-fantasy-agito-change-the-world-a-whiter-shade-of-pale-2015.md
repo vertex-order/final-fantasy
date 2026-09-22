@@ -15,6 +15,7 @@
 
 ## wikipedia.org (Information)
 
+- https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media -- story, platforms -- accessed 2026-09-22
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga
 
 ## Decisions

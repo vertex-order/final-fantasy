@@ -18,4 +18,8 @@
 - https://www.goodreads.com/book/show/46124509-final-fantasy-type-0
 - https://www.goodreads.com/book/show/75254100-final-fantasy---type-0
 
+## wikipedia.org (Information)
+
+- https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media -- story, platforms -- accessed 2026-09-22
+
 ## Decisions
