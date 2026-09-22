@@ -3,13 +3,12 @@ window.__ffSeriesReg['WD'] = { num: 'WD', chronoOrder: 1580, recommendedOrder: 1
   {
     mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
     title: 'World of Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/World_of_Final_Fantasy', titleDate: '2016-10-25',
+    mediaDesc: [
+      [{ text: 'Takes place in Grymoire, a world of coexisting Final Fantasy locations. The story follows siblings Lann and Reynn, who possess the power to tame monsters called Mirages, and are sent to Grymoire to reclaim their lost memories and thwart the plans of the Bahamutian Army.' }],
+    ],
     primary: {
       tags: ['RPG', 'Single-player', 'Active Time Battle'],
       subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy_Maxima', subtitleDate: 2018,
-      description: [
-        [{ text: 'Takes place in Grymoire, a world of coexisting Final Fantasy locations. The story follows siblings Lann and Reynn, who possess the power to tame monsters called Mirages, and are sent to Grymoire to reclaim their lost memories and thwart the plans of the Bahamutian Army.' }],
-        [{ text: 'This remake is an expanded version of the game. Includes new narrative elements, gameplay additions, new boss fights, search options for treasure chests and other elements, adjustments to capturing mirages, short narratives featuring new characters, a new ending, and most of the original DLC. Released as ' }, { emText: 'World of Final Fantasy Maxima' }, { text: ', depending on the platform as a paid DLC.' }],
-      ],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN-US', voice: true },
@@ -44,14 +43,14 @@ window.__ffSeriesReg['WD'] = { num: 'WD', chronoOrder: 1580, recommendedOrder: 1
         { key: 'fan-recap', search: 'youtube', term: 'World of Final Fantasy Maxima' },
         { key: 'fan-playthrough', search: 'youtube', term: 'World of Final Fantasy Maxima' },
       ],
+      versionDesc: [
+        [{ text: 'This remake is an expanded version of the game. Includes new narrative elements, gameplay additions, new boss fights, search options for treasure chests and other elements, adjustments to capturing mirages, short narratives featuring new characters, a new ending, and most of the original DLC. Released as ' }, { emText: 'World of Final Fantasy Maxima' }, { text: ', depending on the platform as a paid DLC.' }],
+      ],
     },
     alts: [
       {
         versions: [
           {
-            description: [
-              [{ text: 'The original release.' }],
-            ],
             languages: [
               { value: 'JA', native: true, voice: true },
               { value: 'EN', voice: true },
@@ -67,6 +66,9 @@ window.__ffSeriesReg['WD'] = { num: 'WD', chronoOrder: 1580, recommendedOrder: 1
               { key: 'playstation4', paren: 'Digital', noUrl: true },
               { key: 'playstation-vita', paren: 'Digital', noUrl: true },
             ],
+            versionDesc: [
+              [{ text: 'The original release.' }],
+            ],
           },
         ],
       },
@@ -75,11 +77,11 @@ window.__ffSeriesReg['WD'] = { num: 'WD', chronoOrder: 1580, recommendedOrder: 1
   {
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
     title: 'World of Final Fantasy: Meli-Melo', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy:_Meli-Melo', titleDate: '2017-12-12',
+    mediaDesc: [
+      [{ text: 'Similar gameplay to ' }, { emText: 'World of Final Fantasy (2016)' }, { text: ', the game is now terminated.' }],
+    ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Monster-taming RPG', 'Multiplayer', 'Co-op', 'Mobile', 'In-app purchases', 'Terminated'],
-      description: [
-        [{ text: 'Similar gameplay to ' }, { emText: 'World of Final Fantasy (2016)' }, { text: ', the game is now terminated.' }],
-      ],
       languages: [
         { value: 'JA', native: true },
       ],

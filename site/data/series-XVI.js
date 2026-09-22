@@ -3,13 +3,12 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', chronoOrder: 1700, recommendedOrder:
   {
     mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
     title: 'Final Fantasy XVI', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XVI', titleDate: '2023-06-22',
+    mediaDesc: [
+      "Clive Rosfield is passed over as successor to Rosaria's crown when his younger brother Joshua is revealed to yield great magical power as the Dominant of Phoenix. Embracing his new role as protector, he becomes embroiled in the region's wars as the nations vie for scarce resources.",
+      'Two DLCs have been released, and while independent, slot in while playing the main game. They may also be played afterwards just for their story, and are listed separately.',
+    ],
     primary: {
       mainline: true, tags: ['First-time players', 'Action rpg'],
-      description: [
-        "Clive Rosfield is passed over as successor to Rosaria's crown when his younger brother Joshua is revealed to yield great magical power as the Dominant of Phoenix. Embracing his new role as protector, he becomes embroiled in the region's wars as the nations vie for scarce resources.",
-        'Two DLCs have been released, and while independent, slot in while playing the main game. They may also be played afterwards just for their story, and are listed separately.',
-        "On Xbox, you cannot change your party's appearance.",
-      ],
       profileUrl: 'https://na.finalfantasyxvi.com/',
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -45,17 +44,20 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', chronoOrder: 1700, recommendedOrder:
         { key: 'fan-recap', search: 'youtube', term: 'final fantasy XVI' },
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy XVI' },
       ],
+      versionDesc: [
+        "On Xbox, you cannot change your party's appearance.",
+      ],
     },
   },
   {
     mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 110,
     title: 'Final Fantasy XVI: Echoes of the Fallen', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates', titleDate: '2023-12-07',
+    mediaDesc: [
+      'Strange, dark crystals begin to circulate on the black market. Clive follows their trail to a long-abandoned Fallen tower known as the Sagespire and the terrible secrets that await within...',
+    ],
     primary: {
       tags: ['Optional', 'DLC'],
       subtitle: 'DLC',
-      description: [
-        'Strange, dark crystals begin to circulate on the black market. Clive follows their trail to a long-abandoned Fallen tower known as the Sagespire and the terrible secrets that await within...',
-      ],
       profileUrl: 'https://na.finalfantasyxvi.com/',
       ratings: [
         { score: '76', url: 'https://www.metacritic.com/game/final-fantasy-xvi-echoes-of-the-fallen/', key: 'metacritic' },
@@ -78,12 +80,12 @@ window.__ffSeriesReg['XVI'] = { num: 'XVI', chronoOrder: 1700, recommendedOrder:
   {
     mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 120,
     title: 'Final Fantasy XVI: The Rising Tide', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XVI#Versions_and_updates', titleDate: '2024-04-18',
+    mediaDesc: [
+      'Clive receives a strange request; the Dominant of Leviathan, long lost Eikon of Water, is in need of rescue. Travel to Mysidia —a hidden land— and uncover the tragic history of a forgotten people.',
+    ],
     primary: {
       tags: ['Optional', 'DLC'],
       subtitle: 'DLC',
-      description: [
-        'Clive receives a strange request; the Dominant of Leviathan, long lost Eikon of Water, is in need of rescue. Travel to Mysidia —a hidden land— and uncover the tragic history of a forgotten people.',
-      ],
       profileUrl: 'https://na.finalfantasyxvi.com/',
       ratings: [
         { score: '78', url: 'https://www.metacritic.com/game/final-fantasy-xvi-the-rising-tide/', key: 'metacritic' },

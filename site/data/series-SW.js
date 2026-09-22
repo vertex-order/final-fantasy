@@ -3,6 +3,9 @@ window.__ffSeriesReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 95
   {
     mediaType: 'Movie', chronoOrder: 0, recommendedOrder: 100,
     title: 'Final Fantasy: The Spirits Within', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', titleDate: '2001-07-02',
+    mediaDesc: [
+      'In 2065, Earth is infested by alien life forms known as Phantoms which kill when touched. The surviving humans are engaged in an ongoing struggle to free the planet.',
+    ],
     primary: {
       tags: ['Movie'],
       subtitle: 'Movie',
@@ -24,9 +27,6 @@ window.__ffSeriesReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 95
         { value: 'PL', voice: true },
         { value: 'UK', voice: true },
       ],
-      description: [
-        'In 2065, Earth is infested by alien life forms known as Phantoms which kill when touched. The surviving humans are engaged in an ongoing struggle to free the planet.',
-      ],
       ratings: [
         { score: '6.4', url: 'https://www.imdb.com/title/tt0173840/', key: 'imdb' },
         { score: '49', url: 'https://www.metacritic.com/movie/final-fantasy-the-spirits-within/', key: 'metacritic' },
@@ -43,12 +43,12 @@ window.__ffSeriesReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 95
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 200,
     title: 'Final Fantasy: The Spirits Within Novel', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media', titleDate: '2001-06-26',
+    mediaDesc: [
+      [{ text: 'Novelization of the ' }, { emText: 'Final Fantasy: The Spirits Within (2001)' }, { text: ' movie written by Dean Wesley Smith.' }],
+    ],
     primary: {
       tags: ['Optional', 'Novel'],
       subtitle: 'Book',
-      description: [
-        [{ text: 'Novelization of the ' }, { emText: 'Final Fantasy: The Spirits Within (2001)' }, { text: ' movie written by Dean Wesley Smith.' }],
-      ],
       languages: [
         { value: 'EN', native: true, url: 'https://www.goodreads.com/book/show/2018984.Final_Fantasy' },
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/42405967-final-fantasy' },
@@ -65,9 +65,6 @@ window.__ffSeriesReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 95
       {
         title: 'Final Fantasy: The Spirits Within YA Novel', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media', titleDate: 2001,
         subtitle: 'Book',
-        description: [
-          [{ text: 'Different novelization as YA Novel of the ' }, { emText: 'Final Fantasy: The Spirits Within (2001)' }, { text: ' movie, written by John Vornholt.' }],
-        ],
         languages: [
           { value: 'EN', url: 'https://www.goodreads.com/book/show/5941120' },
           { value: '…?' },
@@ -79,6 +76,9 @@ window.__ffSeriesReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 95
         platforms: [
           { key: 'book', name: 'YA Novel', noUrl: true },
           { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy The Spirits Within YA Novel John Vornholt', noResults: true },
+        ],
+        versionDesc: [
+          [{ text: 'Different novelization as YA Novel of the ' }, { emText: 'Final Fantasy: The Spirits Within (2001)' }, { text: ' movie, written by John Vornholt.' }],
         ],
       },
     ],

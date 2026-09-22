@@ -3,12 +3,12 @@ window.__ffSeriesReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1
   {
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 100,
     title: 'Final Fantasy Artniks', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Artniks', titleDate: '2012-11-30',
+    mediaDesc: [
+      [{ text: 'Card collection game inspired by many different Final Fantasy series and titles all mashed together.' }],
+      'Since it does not have a deep story and is more of a mashup, and is also terminated, there it no story recap to view.',
+    ],
     primary: {
       tags: ['CCG', 'Mobile', 'Multiplayer', 'Terminated'],
-      description: [
-        [{ text: 'Card collection game inspired by many different Final Fantasy series and titles all mashed together.' }],
-        'Since it does not have a deep story and is more of a mashup, and is also terminated, there it no story recap to view.',
-      ],
       languages: [
         { value: 'JA', native: true },
       ],
@@ -22,12 +22,12 @@ window.__ffSeriesReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1
   {
     mediaType: 'Game', chronoOrder: 200, recommendedOrder: 200,
     title: 'Final Fantasy Artniks Dive', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Artniks_Dive', titleDate: '2014-11-10',
+    mediaDesc: [
+      [{ text: 'Dungeon crawl inspired by many different Final Fantasy series and titles all mashed together. Considered a sequel (despite different gameplay) to ' }, { emText: 'Artniks (2012)' }, { text: '.' }],
+      'Since it does not have a deep story and is more of a mashup, and is also terminated, there it no story recap to view.',
+    ],
     primary: {
       tags: ['Sequel', 'Dungeon crawl', 'Mobile', 'Multiplayer', 'Gacha', 'Terminated'],
-      description: [
-        [{ text: 'Dungeon crawl inspired by many different Final Fantasy series and titles all mashed together. Considered a sequel (despite different gameplay) to ' }, { emText: 'Artniks (2012)' }, { text: '.' }],
-        'Since it does not have a deep story and is more of a mashup, and is also terminated, there it no story recap to view.',
-      ],
       languages: [
         { value: 'JA', native: true },
       ],

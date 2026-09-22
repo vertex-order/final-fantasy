@@ -3,12 +3,12 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
   {
     mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
     title: 'Final Fantasy Resonance', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Resonance', titleDate: '2026-10-22',
+    mediaDesc: [
+      [{ text: 'Rain, Lasswell, and Fina set out to protect the remaining crystals across the world after the Earth Crystal is destroyed by Veritas of the Dark.' }],
+      [{ text: 'An adaptation of ' }, { emText: 'Brave Exvius (2015)' }, { text: "'s first story arc, incorporating elements and characters from other Final Fantasy titles as well as outside franchises. Graphics are in HD-2D." }],
+    ],
     primary: {
       tags: ['Turn-based RPG', 'Single-player'],
-      description: [
-        [{ text: 'Rain, Lasswell, and Fina set out to protect the remaining crystals across the world after the Earth Crystal is destroyed by Veritas of the Dark.' }],
-        [{ text: 'An adaptation of ' }, { emText: 'Brave Exvius (2015)' }, { text: "'s first story arc, incorporating elements and characters from other Final Fantasy titles as well as outside franchises. Graphics are in HD-2D." }],
-      ],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN-US', voice: true },
@@ -40,6 +40,10 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
   {
     mediaType: 'Game', chronoOrder: 0, recommendedOrder: 110,
     title: 'Final Fantasy Brave Exvius', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Brave_Exvius', titleDate: '2015-10-22',
+    mediaDesc: [
+      'Rain and Lasswell help fight off an attack on the Earth crystal. Incorporates elements and characters from other Final Fantasy titles, as well as outside franchises. Can be considered a bit of a mash-up.',
+      'Since the game is terminated we recommend you watch a fan story recap video or a playthrough.',
+    ],
     primary: {
       tags: ['Optional', 'Mobile', 'Turn-based RPG', 'Gacha', 'Terminated'],
       languages: [
@@ -50,10 +54,6 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
         { value: 'ES' },
         { value: 'KO' },
         { value: 'ZH-TW' },
-      ],
-      description: [
-        'Rain and Lasswell help fight off an attack on the Earth crystal. Incorporates elements and characters from other Final Fantasy titles, as well as outside franchises. Can be considered a bit of a mash-up.',
-        'Since the game is terminated we recommend you watch a fan story recap video or a playthrough.',
       ],
       profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-brave-exvius',
       platforms: [
@@ -68,13 +68,13 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
   {
     mediaType: 'Comic', chronoOrder: 50, recommendedOrder: 150,
     title: 'Final Fantasy Brave Exvius Rikodoki!', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki!', titleDate: '2018-07-25',
+    mediaDesc: [
+      [{ text: 'A 4-panel manga based on ' }, { emText: 'Brave Exvius (2015)' }, { text: '.' }],
+    ],
     primary: {
       tags: ['Optional', 'Manga'],
       subtitle: 'Comic',
       length: '144p',
-      description: [
-        [{ text: 'A 4-panel manga based on ' }, { emText: 'Brave Exvius (2015)' }, { text: '.' }],
-      ],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -89,11 +89,11 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
   {
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
     title: 'Final Fantasy Brave Exvius Tap!', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Tap!', titleDate: '2017-09-08',
+    mediaDesc: [
+      'A clicker or incremental game.',
+    ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Clicker', 'Terminated'],
-      description: [
-        'A clicker or incremental game.',
-      ],
       languages: [
         { value: 'EN', native: true },
       ],
@@ -106,11 +106,11 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
   {
     mediaType: 'Game', chronoOrder: -1000, recommendedOrder: 300,
     title: 'War of the Visions: Final Fantasy Brave Exvius', titleUrl: 'https://wikipedia.org/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius', titleDate: '2019-11-14',
+    mediaDesc: [
+      [{ text: 'War breaks out between five rival nations on Lapis in the distant past of ' }, { emText: 'Brave Exvius (2015)' }, { text: '.' }],
+    ],
     primary: {
       tags: ['Optional', 'Prequel', 'Tactical RPG', 'Mobile', 'Terminated'],
-      description: [
-        [{ text: 'War breaks out between five rival nations on Lapis in the distant past of ' }, { emText: 'Brave Exvius (2015)' }, { text: '.' }],
-      ],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

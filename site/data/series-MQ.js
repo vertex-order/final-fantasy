@@ -3,6 +3,10 @@ window.__ffSeriesReg['MQ'] = { num: 'MQ', chronoOrder: 350, recommendedOrder: 35
   {
     mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
     title: 'Final Fantasy Mystic Quest', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Mystic_Quest', titleDate: '1992-10-05',
+    mediaDesc: [
+      'Benjamin journeys to reclaim the stolen crystals and restore balance to the world.',
+      [{ text: 'Released in some regions as ' }, { emText: 'Mystic Quest Legend' }, { emText: ' (EU)', tip: 'Europe', helpStyle: 'cursor: help;' }, { text: ' and ' }, { emText: 'Final Fantasy USA: Mystic Quest' }, { emText: ' (JP)', tip: 'Japan', helpStyle: 'cursor: help;' }, { text: '. Not to be confused with ' }, { emText: 'Mystic Quest' }, { emText: ' (1991;' }, { emText: ' EU', tip: 'Europe', helpStyle: 'cursor: help;' }, { emText: ';' }, { emText: ' GB', tip: 'Game Boy', helpStyle: 'cursor: help;' }, { emText: ')' }, { text: ' by Square which was spun off into the unrelated series ' }, { emLinkText: 'Mana', emLinkUrl: 'https://wikipedia.org/wiki/Mana_(series)' }, { text: '.' }],
+    ],
     primary: {
       tags: ['Optional', 'First-time players', 'RPG', 'Action-adventure'],
       languages: [
@@ -10,10 +14,6 @@ window.__ffSeriesReg['MQ'] = { num: 'MQ', chronoOrder: 350, recommendedOrder: 35
         { value: 'EN' },
         { value: 'FR' },
         { value: 'DE' },
-      ],
-      description: [
-        'Benjamin journeys to reclaim the stolen crystals and restore balance to the world.',
-        [{ text: 'Released in some regions as ' }, { emText: 'Mystic Quest Legend' }, { emText: ' (EU)', tip: 'Europe', helpStyle: 'cursor: help;' }, { text: ' and ' }, { emText: 'Final Fantasy USA: Mystic Quest' }, { emText: ' (JP)', tip: 'Japan', helpStyle: 'cursor: help;' }, { text: '. Not to be confused with ' }, { emText: 'Mystic Quest' }, { emText: ' (1991;' }, { emText: ' EU', tip: 'Europe', helpStyle: 'cursor: help;' }, { emText: ';' }, { emText: ' GB', tip: 'Game Boy', helpStyle: 'cursor: help;' }, { emText: ')' }, { text: ' by Square which was spun off into the unrelated series ' }, { emLinkText: 'Mana', emLinkUrl: 'https://wikipedia.org/wiki/Mana_(series)' }, { text: '.' }],
       ],
       length: [{ value: '14h', tip: 'Main + Extra', join: ' / ' }, { value: '14½h', tip: 'Completionist' }],
       platforms: [

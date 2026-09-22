@@ -3,6 +3,9 @@ window.__ffSeriesReg['EX'] = { num: 'EX', chronoOrder: 1520, recommendedOrder: 1
   {
     mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
     title: 'Final Fantasy Explorers', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Explorers', titleDate: '2014-12-18',
+    mediaDesc: [
+      'Explore beyond your island to collect crystals scattered across the world. Keep the game challenging via customizable difficulty, and enjoy multiplayer kept alive by the fan community.',
+    ],
     primary: {
       tags: ['Action RPG', 'Jobs', 'Single-player', 'Multiplayer', 'Co-op'],
       languages: [
@@ -12,9 +15,6 @@ window.__ffSeriesReg['EX'] = { num: 'EX', chronoOrder: 1520, recommendedOrder: 1
         { value: '…?' },
       ],
       helpWanted: true,
-      description: [
-        'Explore beyond your island to collect crystals scattered across the world. Keep the game challenging via customizable difficulty, and enjoy multiplayer kept alive by the fan community.',
-      ],
       profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-explorers',
       ratings: [
         { score: '69', url: 'https://www.metacritic.com/game/final-fantasy-explorers/', key: 'metacritic' },
@@ -32,13 +32,13 @@ window.__ffSeriesReg['EX'] = { num: 'EX', chronoOrder: 1520, recommendedOrder: 1
   {
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
     title: 'Final Fantasy Explorers-Force', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Explorers-Force', titleDate: '2018-03-20',
+    mediaDesc: [
+      [{ text: 'Players used jobs, abilities and weapons to organize parties and defeat summoned beasts, similar to the gameplay from ' }, { emText: 'Explorers (2014)' }, { text: '. It also had character appearances from other Final Fantasy series, and could be considered a mash-up or alternate universe as a result. It is terminated.' }],
+    ],
     primary: {
       tags: ['Optional', 'Action RPG', 'Jobs', 'Mobile', 'In-app Purchases', 'Multiplayer', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
-      ],
-      description: [
-        [{ text: 'Players used jobs, abilities and weapons to organize parties and defeat summoned beasts, similar to the gameplay from ' }, { emText: 'Explorers (2014)' }, { text: '. It also had character appearances from other Final Fantasy series, and could be considered a mash-up or alternate universe as a result. It is terminated.' }],
       ],
       platforms: [
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Explorers-Force', noResults: true },
