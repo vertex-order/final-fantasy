@@ -36,7 +36,7 @@
 
 ## wikipedia.org (Information)
 
-- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII -- story, platforms -- accessed 2026-09-22
+- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Films -- story, platforms -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children
 - https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#Final_Fantasy_VII:_Advent_Children_Complete
 - https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis

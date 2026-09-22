@@ -24,7 +24,7 @@
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Compilation_of_Final_Fantasy_VII -- dates*, platforms*, tags -- accessed 2026-09-22
-- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII -- story, platforms -- accessed 2026-09-22
+- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- story, platforms -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_VII:_The_First_Soldier
 
 ## Decisions
