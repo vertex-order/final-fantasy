@@ -2,7 +2,7 @@
 
 # NOTICE — third-party parts
 
-© 2026 Vertex Industries, with help from the community. `data/` and the
+© 2026 [Vertex Projects](https://vertexprojects.org), with help from the community. `data/` and the
 page content as displayed are [CC BY-NC-SA 4.0](LICENSE); the code is
 [MIT](LICENSE-CODE) — see both for scope.
 

@@ -173,7 +173,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
   },
   {
     mediaType: 'Game', chronoOrder: 250, recommendedOrder: 305,
-    title: 'Kingdom Hearts (series)', titleUrl: 'https://vertex-order.github.io/kingdom-hearts', titleDate: { start: 2002, end: '2020+' },
+    title: 'Kingdom Hearts (series)', titleUrl: 'https://order.vertexprojects.org/kingdom-hearts', titleDate: { start: 2002, end: '2020+' },
     mediaDesc: [
       [{ text: 'A separate franchise in its own right, spanning games, manga, and novels. Six or more of its games prominently feature ' }, { emText: 'Final Fantasy' }, { text: ' characters, worlds, and music, alongside several related books and comics. We maintain a dedicated, fully documented play order for the whole series at the link above.' }],
     ],

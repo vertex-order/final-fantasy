@@ -5,8 +5,8 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
-## vertex-order.github.io (Information)
+## order.vertexprojects.org (Information)
 
-- https://vertex-order.github.io/kingdom-hearts
+- https://order.vertexprojects.org/kingdom-hearts
 
 ## Decisions
