@@ -23,7 +23,7 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "ea7d14a79b997a82ec7ccce103a929be87ae10ad"
+ref = "1d10b385f1e2386c9ad2318f1d1d549c86f1d290"
 paths = [
   "sync.list.toml",
   "docs/subtitle.md",
@@ -90,6 +90,7 @@ paths = [
   ".github/workflows/autofix.yml",
   ".github/workflows/autofix-apply.yml",
   ".github/workflows/check-generated.yml",
+  ".github/workflows/dependabot-automerge.yml",
   ".github/workflows/check-vendored.yml",
   ".github/workflows/check-dedup-drift.yml",
   ".github/workflows/check-data.yml",
@@ -108,7 +109,7 @@ paths = [
 
 [subscribe.platforms]
 repo = "vertex-order/platforms"
-ref = "4048594f4cf970a2b6f3076cc98c7d7595758ffc"
+ref = "9b509bb1dc89af1ba5f15a3cfe13cb1a42421a6a"
 paths = [
   "site/PlatformIcon.dc.html",
   "site/data/platform-icons.js",
