@@ -21,8 +21,8 @@ edit, preview in a browser, open a PR.
 ## Quick start
 
 ```sh
-git clone https://github.com/vertex-order/final-fantasy
-cd final-fantasy
+git clone https://github.com/vertex-order/final-fantasy vertex-order-final-fantasy
+cd vertex-order-final-fantasy
 # open site/page.dc.html in a browser — done, no build step
 ```
 
