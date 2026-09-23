@@ -7,7 +7,7 @@ build/CI tooling — whether authored here or vendored from
 [vertex-order/platforms](https://github.com/vertex-order/platforms) via
 [`sync.toml`](sync.toml) — are MIT; see [LICENSE-CODE](LICENSE-CODE).
 
-Copyright (c) 2026 Vertex Industries
+Copyright (c) 2026 Vertex Projects
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 

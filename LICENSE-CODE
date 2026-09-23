@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Vertex Industries
+Copyright (c) 2026 Vertex Projects
 
 Applies to the code in this repository — the `.dc.html` components (whether
 authored here, like `site/page.dc.html`, or vendored from vertex-order/kit /
