@@ -418,7 +418,7 @@ window.__ffSeriesReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100,
         { value: 'EN', native: true, textOnly: true },
       ],
       platforms: [
-        { key: 'book', name: 'Webcomic', url: 'https://www.nuklearpower.com/2001/03/02/episode-001-were-going-where/' },
+        { key: 'globe', name: 'Webcomic', url: 'https://www.nuklearpower.com/2001/03/02/episode-001-were-going-where/' },
       ],
     },
   },
