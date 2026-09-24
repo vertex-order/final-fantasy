@@ -17,7 +17,7 @@ window.__ffSeriesReg['MQ'] = { num: 'MQ', chronoOrder: 350, recommendedOrder: 35
       ],
       length: [{ value: '14h', tip: 'Main + Extra', join: ' / ' }, { value: '14½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'nintendo-snes', noUrl: true, paren: 'Super Famicom; Physical' },
+        { key: 'nintendo-snes', paren: 'Super Famicom; Physical' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Mystic Quest', noResults: true },
         { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy Mystic Quest' },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Mystic Quest' },

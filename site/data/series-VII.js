@@ -89,7 +89,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { key: 'fan-movie', search: 'youtube', term: 'Before Crisis: Final Fantasy VII' },
         { key: 'fan-recap', search: 'youtube', term: 'Before Crisis: Final Fantasy VII' },
         { key: 'fan-playthrough', search: 'youtube', term: 'Before Crisis: Final Fantasy VII' },
-        { key: 'mobile-phone', terminated: true, noUrl: true },
+        { key: 'mobile-phone', terminated: true },
       ],
     },
     alts: [
@@ -140,8 +140,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { score: '7.1', url: 'https://www.imdb.com/title/tt0489134/', key: 'imdb' },
       ],
       platforms: [
-        { key: 'dvd', noUrl: true },
-        { key: 'playstation-portable', paren: 'PlayStation Portable: Universal Media Disk', noUrl: true },
+        { key: 'dvd' },
+        { key: 'playstation-portable', paren: 'PlayStation Portable: Universal Media Disk' },
         { key: 'fan-movie', name: 'YouTube (unofficial)', search: 'youtube', term: 'Last Order: Final Fantasy VII (2005)', searchSuffix: '' },
         { key: 'fan-recap', search: 'youtube', term: 'Last Order: Final Fantasy VII' },
       ],
@@ -232,7 +232,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
             { value: 'EN' },
           ],
           platforms: [
-            { key: 'playstation-portable', noUrl: true, paren: 'Physical' },
+            { key: 'playstation-portable', paren: 'Physical' },
           ],
           versionDesc: [
             'The original release. An International version followed in 2008 with selectable Normal/Hard difficulty (no more Game Over on failed missions), expanded voice acting, and one redesigned statue.',
@@ -488,7 +488,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
             { value: 'ES-ES' },
           ],
           platforms: [
-            { key: 'windows', noUrl: true },
+            { key: 'windows' },
             { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/', paren: 'PC' },
           ],
           versionDesc: [
@@ -510,9 +510,9 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation1', paren: 'Physical', noUrl: true },
-            { key: 'playstation-classic', noUrl: true },
-            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
+            { key: 'playstation1', paren: 'Physical' },
+            { key: 'playstation-classic' },
+            { key: 'playstation2', paren: 'PSone compatibility' },
             { key: 'playstation3', paren: 'PSone compatibility; Digital' },
             { key: 'playstation-vita', paren: 'Digital' },
             { key: 'playstation-portable', paren: 'Digital' },
@@ -649,8 +649,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
           { value: 'JA', native: true },
         ],
         platforms: [
-          { key: 'blu-ray-ultra-hd', noUrl: true, prefix: 'U' },
-          { key: 'blu-ray', noUrl: true },
+          { key: 'blu-ray-ultra-hd', prefix: 'U' },
+          { key: 'blu-ray' },
           {
             key: 'fan-movie',
             name: 'YouTube (unofficial)',
@@ -724,8 +724,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { score: '7.5', url: 'https://www.metacritic.com/game/final-fantasy-vii-advent-children/', key: 'metacritic-user' },
       ],
       platforms: [
-        { key: 'blu-ray-ultra-hd', noUrl: true, prefix: 'U' },
-        { key: 'blu-ray', noUrl: true },
+        { key: 'blu-ray-ultra-hd', prefix: 'U' },
+        { key: 'blu-ray' },
         { key: 'fan-movie', name: 'YouTube (unofficial)', search: 'youtube', term: 'final fantasy VII advent children complete', searchSuffix: '' },
         { key: 'fan-recap', search: 'youtube', term: 'final fantasy VII advent children complete' },
       ],
@@ -759,8 +759,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         {
           length: '101min',
           platforms: [
-            { key: 'dvd', noUrl: true },
-            { key: 'playstation-portable', paren: 'PlayStation Portable: Universal Media Disk', noUrl: true },
+            { key: 'dvd' },
+            { key: 'playstation-portable', paren: 'PlayStation Portable: Universal Media Disk' },
           ],
           versionDesc: [
             'The original movie release.',
@@ -813,8 +813,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
       ],
       length: [{ value: '11½h', tip: 'Main Story', join: ' / ' }, { value: '14h', tip: 'Main + Extra', join: ' / ' }, { value: '34h', tip: 'Completionist' }],
       platforms: [
-        { key: 'playstation2', noUrl: true },
-        { key: 'playstation3', paren: 'PS2 compatibility', noUrl: true },
+        { key: 'playstation2' },
+        { key: 'playstation3', paren: 'PS2 compatibility' },
         { key: 'fan-movie', search: 'youtube', term: 'Dirge of Cerberus Final Fantasy VII' },
         { key: 'fan-recap', search: 'youtube', term: 'Dirge of Cerberus Final Fantasy VII' },
         { key: 'fan-playthrough', search: 'youtube', term: 'Dirge of Cerberus Final Fantasy VII' },
@@ -854,8 +854,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
             { value: 'JA', native: true },
           ],
           platforms: [
-            { key: 'playstation2', noUrl: true, jpTag: true },
-            { key: 'playstation3', paren: 'PS2 compatibility', noUrl: true, jpTag: true },
+            { key: 'playstation2', jpTag: true },
+            { key: 'playstation3', paren: 'PS2 compatibility', jpTag: true },
           ],
           versionDesc: [
             'The original release.',
@@ -882,7 +882,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'Dirge of Cerberus Lost Episode: Final Fantasy VII', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Dirge of Cerberus Lost Episode: Final Fantasy VII', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'Dirge of Cerberus Lost Episode: Final Fantasy VII' },
-        { key: 'mobile-phone', noUrl: true, terminated: true },
+        { key: 'mobile-phone', terminated: true },
       ],
       versions: [
         {
@@ -931,7 +931,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
       helpWanted: true,
       platforms: [
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy VII: Snowboarding mobile' },
-        { key: 'mobile-phone', terminated: true, noUrl: true },
+        { key: 'mobile-phone', terminated: true },
       ],
     },
   },
@@ -947,8 +947,8 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true, noUrl: true },
-        { key: 'apple', jpTag: true, terminated: true, noUrl: true },
+        { key: 'android2', jpTag: true, terminated: true },
+        { key: 'apple', jpTag: true, terminated: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy VII G-Bike' },
       ],
     },

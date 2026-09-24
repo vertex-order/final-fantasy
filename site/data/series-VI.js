@@ -66,8 +66,8 @@ window.__ffSeriesReg['VI'] = { num: 'VI', chronoOrder: 600, recommendedOrder: 60
           ],
           platforms: [
             { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/', paren: 'PC' },
-            { key: 'android2', terminated: true, noUrl: true },
-            { key: 'apple', terminated: true, noUrl: true },
+            { key: 'android2', terminated: true },
+            { key: 'apple', terminated: true },
           ],
           versionDesc: [
             'This remaster has high-resolution graphics, redesigned sprites, movement in eight directions, and auto-battle.',
@@ -145,7 +145,7 @@ window.__ffSeriesReg['VI'] = { num: 'VI', chronoOrder: 600, recommendedOrder: 60
       ],
       helpWanted: true,
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: "Final Fantasy VI Figaro No Kekkon Figaro's Wedding: Tales from Desert", noResults: true },
         {
           key: 'fan-recap',

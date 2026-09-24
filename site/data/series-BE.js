@@ -57,8 +57,8 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
       ],
       profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-brave-exvius',
       platforms: [
-        { key: 'android2', terminated: true, noUrl: true },
-        { key: 'apple', terminated: true, noUrl: true },
+        { key: 'android2', terminated: true },
+        { key: 'apple', terminated: true },
         { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy Brave Exvius' },
         { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy Brave Exvius' },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Brave Exvius' },
@@ -80,7 +80,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
         { value: 'EN' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy Brave Exvius Rikodoki!' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Brave Exvius Rikodoki!', noResults: true },
       ],
@@ -98,7 +98,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
         { value: 'EN', native: true },
       ],
       platforms: [
-        { key: 'facebook', terminated: true, noUrl: true, paren: 'Messenger' },
+        { key: 'facebook', terminated: true, paren: 'Messenger' },
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Brave Exvius Tap', noResults: true },
       ],
     },
@@ -119,8 +119,8 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
       helpWanted: true,
       length: [{ value: '48½h', tip: 'Main Story' }],
       platforms: [
-        { key: 'android2', terminated: true, noUrl: true },
-        { key: 'apple', terminated: true, noUrl: true },
+        { key: 'android2', terminated: true },
+        { key: 'apple', terminated: true },
         { key: 'fan-movie', search: 'youtube', term: 'War of the Visions Final Fantasy Brave Exvius' },
         { key: 'fan-recap', search: 'youtube', term: 'War of the Visions Final Fantasy Brave Exvius' },
         { key: 'fan-playthrough', search: 'youtube', term: 'War of the Visions Final Fantasy Brave Exvius' },

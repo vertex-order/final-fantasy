@@ -88,7 +88,7 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
       ],
       length: [{ value: '26h', tip: 'Main Story', join: ' / ' }, { value: '30h', tip: 'Main + Extra', join: ' / ' }, { value: '40h', tip: 'Completionist' }],
       platforms: [
-        { key: 'windows', noUrl: true },
+        { key: 'windows' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'final fantasy legend of balance', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'final fantasy legend of balance', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy legend of balance' },
@@ -108,7 +108,7 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
       ],
       length: [{ value: '23h', tip: 'Main Story' }],
       platforms: [
-        { key: 'windows', noUrl: true },
+        { key: 'windows' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'final fantasy endless nova', noResults: true },
         { key: 'fan-recap', search: 'youtube', term: 'final fantasy endless nova' },
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy endless nova' },

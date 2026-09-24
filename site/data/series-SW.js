@@ -33,9 +33,9 @@ window.__ffSeriesReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 95
         { score: '5.9', url: 'https://www.metacritic.com/movie/final-fantasy-the-spirits-within/', key: 'metacritic-user' },
       ],
       platforms: [
-        { key: 'blu-ray-ultra-hd', noUrl: true, prefix: 'U' },
-        { key: 'blu-ray', noUrl: true },
-        { key: 'dvd', noUrl: true },
+        { key: 'blu-ray-ultra-hd', prefix: 'U' },
+        { key: 'blu-ray' },
+        { key: 'dvd' },
         { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy The Spirits Within' },
       ],
     },
@@ -57,7 +57,7 @@ window.__ffSeriesReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 95
         { score: '3.31', url: 'https://www.goodreads.com/book/show/2018984.Final_Fantasy', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', noUrl: true },
+        { key: 'book', name: 'Novel' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy The Spirits Within Novel Dean Wesley Smith', noResults: true },
       ],
     },
@@ -74,7 +74,7 @@ window.__ffSeriesReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 95
           { score: 'NYR', url: 'https://www.goodreads.com/book/show/5941120', key: 'goodreads' },
         ],
         platforms: [
-          { key: 'book', name: 'YA Novel', noUrl: true },
+          { key: 'book', name: 'YA Novel' },
           { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy The Spirits Within YA Novel John Vornholt', noResults: true },
         ],
         versionDesc: [

@@ -62,7 +62,7 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', chronoOrder: 800, recommendedOrder
           ],
           profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-viii-pc',
           platforms: [
-            { key: 'windows', noUrl: true },
+            { key: 'windows' },
             { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/39150/FINAL_FANTASY_VIII/' },
           ],
           versionDesc: [
@@ -80,7 +80,7 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', chronoOrder: 800, recommendedOrder
             { value: 'ES-ES' },
           ],
           platforms: [
-            { key: 'windows', noUrl: true },
+            { key: 'windows' },
           ],
           versionDesc: [
             'This port has MIDI audio instead of the original soundtrack and a slower battle interface that makes Limit Break inputs less precise. A companion mini-game no longer requires extra hardware to play.',
@@ -96,8 +96,8 @@ window.__ffSeriesReg['VIII'] = { num: 'VIII', chronoOrder: 800, recommendedOrder
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation1', paren: 'Physical', noUrl: true },
-            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
+            { key: 'playstation1', paren: 'Physical' },
+            { key: 'playstation2', paren: 'PSone compatibility' },
             { key: 'playstation3', paren: 'PSone compatibility; Digital' },
             { key: 'playstation-vita', paren: 'Digital' },
             { key: 'playstation-portable', paren: 'Digital' },

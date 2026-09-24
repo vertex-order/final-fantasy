@@ -55,8 +55,8 @@ window.__ffSeriesReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 90
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation1', paren: 'Physical', noUrl: true },
-            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
+            { key: 'playstation1', paren: 'Physical' },
+            { key: 'playstation2', paren: 'PSone compatibility' },
             { key: 'playstation3', paren: 'PSone compatibility; Digital' },
             { key: 'playstation-vita', paren: 'Digital' },
             { key: 'playstation-portable', paren: 'Digital' },
@@ -88,7 +88,7 @@ window.__ffSeriesReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 90
         { score: '4.45', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Picture Book', noUrl: true },
+        { key: 'book', name: 'Picture Book' },
         { key: 'fan-movie', search: 'youtube', term: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky reading", searchSuffix: '' },
       ],
     },

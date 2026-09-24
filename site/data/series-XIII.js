@@ -47,9 +47,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
           ],
           helpWanted: true,
           platforms: [
-            { key: 'xbox-360', noUrl: true },
-            { key: 'xbox-one', paren: '360 compatibility', noUrl: true },
-            { key: 'xbox-xs', paren: '360 compatibility', noUrl: true },
+            { key: 'xbox-360' },
+            { key: 'xbox-one', paren: '360 compatibility' },
+            { key: 'xbox-xs', paren: '360 compatibility' },
           ],
           versionDesc: [
             ['This release brings the international build — with its English voice option — to Japan a year after the worldwide launch, and adds an Easy/Normal difficulty toggle. Released as ', { emText: 'Final Fantasy XIII Ultimate Hits International' }, '.'],
@@ -63,10 +63,10 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation3', paren: 'Physical; not on Digital', noUrl: true },
-            { key: 'xbox-360', paren: 'Physical; not on Digital', noUrl: true },
-            { key: 'xbox-one', paren: '360 compatibility', noUrl: true },
-            { key: 'xbox-xs', paren: '360 compatibility', noUrl: true },
+            { key: 'playstation3', paren: 'Physical; not on Digital' },
+            { key: 'xbox-360', paren: 'Physical; not on Digital' },
+            { key: 'xbox-one', paren: '360 compatibility' },
+            { key: 'xbox-xs', paren: '360 compatibility' },
           ],
           versionDesc: [
             'The original release. A later patch adds an Easy/Normal difficulty toggle.',
@@ -183,7 +183,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
           ],
           helpWanted: true,
           platforms: [
-            { key: 'steam', paren: 'PC', noUrl: true },
+            { key: 'steam', paren: 'PC' },
             { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' },
           ],
           versionDesc: [
@@ -198,10 +198,10 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation3', noUrl: true },
-            { key: 'xbox-360', noUrl: true },
-            { key: 'xbox-one', paren: '360 compatibility', noUrl: true },
-            { key: 'xbox-xs', paren: '360 compatibility', noUrl: true },
+            { key: 'playstation3' },
+            { key: 'xbox-360' },
+            { key: 'xbox-one', paren: '360 compatibility' },
+            { key: 'xbox-xs', paren: '360 compatibility' },
           ],
           versionDesc: [
             'The original release. Gameplay framerate dips as low as 18 fps.',
@@ -290,9 +290,9 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
           ],
           helpWanted: true,
           platforms: [
-            { key: 'steam', paren: 'PC', noUrl: true },
-            { key: 'xbox-one', paren: 'Xbox 360 compatibility, Xbox One X Enhanced', noUrl: true },
-            { key: 'xbox-xs', paren: 'Xbox One compatibility', noUrl: true },
+            { key: 'steam', paren: 'PC' },
+            { key: 'xbox-one', paren: 'Xbox 360 compatibility, Xbox One X Enhanced' },
+            { key: 'xbox-xs', paren: 'Xbox One compatibility' },
           ],
           versionDesc: [
             'This remaster unlocks higher resolutions and up to 60 fps on PC (30 fps on Xbox).',
@@ -306,8 +306,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation3', noUrl: true },
-            { key: 'xbox-360', noUrl: true },
+            { key: 'playstation3' },
+            { key: 'xbox-360' },
           ],
           versionDesc: [
             'The original release. The international version (2014) softens some dialogue and innuendo, and offers Japanese audio as separate DLC.',
@@ -332,7 +332,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
       ],
       profileUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-',
       platforms: [
-        { key: 'book', name: 'Novella', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novella', jpTag: true },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-#External_links' },
         {
           key: 'fan-recap',
@@ -445,7 +445,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation-portable', jpTag: true, noUrl: true },
+            { key: 'playstation-portable', jpTag: true },
           ],
           versionDesc: [
             'The original release.',
@@ -476,7 +476,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
       ],
       length: [{ value: '200p; P', br: true }, { value: '1 volume,', br: true }, { value: '3 chapters' }],
       platforms: [
-        { key: 'book', name: 'Manga', noUrl: true },
+        { key: 'book', name: 'Manga' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Type-0 manga', noResults: true },
       ],
     },
@@ -530,7 +530,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/84822449', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#External_links' },
         {
           key: 'fan-recap',
@@ -559,7 +559,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/84822454', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novel', jpTag: true },
         {
           key: 'fan-translation',
           url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-#External_links',
@@ -611,8 +611,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true, noUrl: true },
-        { key: 'apple', jpTag: true, terminated: true, noUrl: true },
+        { key: 'android2', jpTag: true, terminated: true },
+        { key: 'apple', jpTag: true, terminated: true },
         { key: 'fan-movie', paren: 'Youtube', jpTag: true, search: 'youtube', term: 'final fantasy agito' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'final fantasy agito', noResults: true },
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', term: 'final fantasy agito', noResults: true },
@@ -635,7 +635,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/102911659', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', noResults: true },
       ],
@@ -657,8 +657,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
       ],
       helpWanted: true,
       platforms: [
-        { key: 'android2', terminated: true, noUrl: true },
-        { key: 'apple', terminated: true, noUrl: true },
+        { key: 'android2', terminated: true },
+        { key: 'apple', terminated: true },
         { key: 'fan-movie', search: 'youtube', term: 'final fantasy awakening' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'final fantasy awakening', noResults: true },
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', term: 'final fantasy awakening', noResults: true },
