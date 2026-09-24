@@ -796,7 +796,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { value: 'EN' },
       ],
       platforms: [
-        { key: 'book', name: 'Webcomic', noUrl: true },
+        { key: 'globe', name: 'Webcomic', noUrl: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Adventure Log webcomic', searchSuffix: '', noResults: true },
       ],
     },

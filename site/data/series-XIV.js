@@ -280,7 +280,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder:
       helpWanted: true,
       length: [{ value: '9+ collections,', tip: 'As of 2026', br: true }, { value: '57+ stories', tip: 'As of 2026' }],
       platforms: [
-        { key: 'book', name: 'Official website', url: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes' },
+        { key: 'globe', name: 'Official website', url: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes' },
         { key: 'fan-recap', name: 'Fan story summaries (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Side_Stories#List_of_stories' },
       ],
     },
