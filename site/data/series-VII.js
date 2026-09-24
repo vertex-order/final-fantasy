@@ -146,7 +146,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
         { key: 'fan-recap', search: 'youtube', term: 'Last Order: Final Fantasy VII' },
       ],
       versionDesc: [
-        [{ text: 'Single ' }, { text: 'OVA', tip: 'Original Video Animation', helpStyle: 'text-decoration: underline dotted; cursor: help;' }, { text: ' episode. Included in ' }, { emText: 'Advent Pieces: Ultimate Edition' }, { text: ' (2005; ' }, { text: 'JP', tip: 'Japan', helpStyle: 'cursor: help;' }, { text: '), and ' }, { emText: "Advent Children: Limited Edition Collector's Set" }, { text: ' (2007; ' }, { text: 'NA', tip: 'North America', helpStyle: 'cursor: help;' }, { text: ').' }],
+        [{ text: 'Single ' }, { abbrTerm: 'OVA', abbrDef: 'Original Video Animation' }, { text: ' episode. Included in ' }, { emText: 'Advent Pieces: Ultimate Edition' }, { text: ' (2005; ' }, { text: 'JP', tip: 'Japan', helpStyle: 'cursor: help;' }, { text: '), and ' }, { emText: "Advent Children: Limited Edition Collector's Set" }, { text: ' (2007; ' }, { text: 'NA', tip: 'North America', helpStyle: 'cursor: help;' }, { text: ').' }],
       ],
     },
   },
