@@ -23,13 +23,14 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "7eb791b94b4a163f320fc0780de8189bde6d644d"
+ref = "43590a1b521fc8dd02ccf9445071486c10978c51"
 paths = [
   "sync.list.toml",
   "docs/subtitle.md",
   "docs/cache.md",
   "docs/data.md",
   "docs/tooling.md",
+  "docs/responsive.md",
   ".prettierignore",
   "uv.toml",
   "pyproject.toml",
@@ -111,7 +112,7 @@ paths = [
 
 [subscribe.platforms]
 repo = "vertex-order/platforms"
-ref = "71614fb1ff77cd99f52c1cf659f6d377e322d8de"
+ref = "098dc6f9a7bd333f20d82d0d97db515618771078"
 paths = [
   "site/PlatformIcon.dc.html",
   "site/data/platform-icons.js",
