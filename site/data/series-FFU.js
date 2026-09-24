@@ -145,7 +145,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { value: 'EN', tip: 'English (fan translation)' },
       ],
       platforms: [
-        { key: 'book', name: 'Web novel', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' },
+        { key: 'globe', name: 'Web novel', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' },
         { key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' },
       ],

@@ -31,7 +31,7 @@ window.__ffSeriesReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder:
         { value: 'EN', native: true, textOnly: true },
       ],
       platforms: [
-        { key: 'book', name: 'Webcomic', url: 'https://www.nuklearpower.com/8-bit-theater/' },
+        { key: 'globe', name: 'Webcomic', url: 'https://www.nuklearpower.com/2001/03/02/episode-001-were-going-where/' },
       ],
     },
   },
