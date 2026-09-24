@@ -26,7 +26,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder:
       ],
       length: [{ value: '181h', tip: 'Solo' }],
       platforms: [
-        { key: 'windows', terminated: true, noUrl: true },
+        { key: 'windows', terminated: true },
         {
           key: 'youtube',
           name: 'Cinematics (Youtube)',
@@ -72,7 +72,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder:
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/' },
         { key: 'macos', url: 'https://www.finalfantasyxiv.com' },
         { key: 'nintendo-switch-2', paren: 'Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-xiv-online-complete-edition-switch-2/' },
-        { key: 'playstation3', terminated: true, noUrl: true },
+        { key: 'playstation3', terminated: true },
         {
           key: 'playstation4',
           url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S',
@@ -257,7 +257,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder:
       ],
       helpWanted: true,
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XIV ~Winds of Eorzea~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XIV ~Winds of Eorzea~', noResults: true },
       ],
@@ -376,7 +376,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder:
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/69172609', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~" },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~", noResults: true },
       ],
@@ -396,7 +396,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder:
       ],
       helpWanted: true,
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~ Vol.1", noResults: true },
         {
           key: 'fan-recap',
@@ -479,7 +479,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder:
       ],
       length: [{ value: '26h', tip: 'Main Story', join: ' / ' }, { value: '30h', tip: 'Main + Extra', join: ' / ' }, { value: '40h', tip: 'Completionist' }],
       platforms: [
-        { key: 'windows', noUrl: true },
+        { key: 'windows' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'final fantasy legend of balance', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'final fantasy legend of balance', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy legend of balance' },

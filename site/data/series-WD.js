@@ -60,8 +60,8 @@ window.__ffSeriesReg['WD'] = { num: 'WD', chronoOrder: 1580, recommendedOrder: 1
           ],
           platforms: [
             { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/' },
-            { key: 'playstation4', paren: 'Digital', noUrl: true },
-            { key: 'playstation-vita', paren: 'Digital', noUrl: true },
+            { key: 'playstation4', paren: 'Digital' },
+            { key: 'playstation-vita', paren: 'Digital' },
           ],
           versionDesc: [
             [{ text: 'The original release.' }],
@@ -82,8 +82,8 @@ window.__ffSeriesReg['WD'] = { num: 'WD', chronoOrder: 1580, recommendedOrder: 1
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true, noUrl: true },
-        { key: 'apple', jpTag: true, terminated: true, noUrl: true },
+        { key: 'android2', jpTag: true, terminated: true },
+        { key: 'apple', jpTag: true, terminated: true },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'World of Final Fantasy Meli-Melo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'World of Final Fantasy Meli-Melo', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'World of Final Fantasy Meli-Melo' },

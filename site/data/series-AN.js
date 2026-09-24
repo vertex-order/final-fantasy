@@ -13,8 +13,8 @@ window.__ffSeriesReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true, noUrl: true },
-        { key: 'apple', jpTag: true, terminated: true, noUrl: true },
+        { key: 'android2', jpTag: true, terminated: true },
+        { key: 'apple', jpTag: true, terminated: true },
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Artniks', noResults: true },
       ],
     },
@@ -32,8 +32,8 @@ window.__ffSeriesReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true, noUrl: true },
-        { key: 'apple', jpTag: true, terminated: true, noUrl: true },
+        { key: 'android2', jpTag: true, terminated: true },
+        { key: 'apple', jpTag: true, terminated: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Artniks Dive' },
       ],
     },

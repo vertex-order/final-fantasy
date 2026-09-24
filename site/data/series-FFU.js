@@ -21,7 +21,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { score: '5.9', url: 'https://www.imdb.com/title/tt0304012/', key: 'imdb' },
       ],
       platforms: [
-        { key: 'dvd', noUrl: true },
+        { key: 'dvd' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited anime', noResults: true },
       ],
     },
@@ -41,7 +41,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited with U', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited with U', noResults: true },
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited with U', noResults: true },
-        { key: 'mobile-phone', jpTag: true, noUrl: true, terminated: true },
+        { key: 'mobile-phone', jpTag: true, terminated: true },
       ],
     },
   },
@@ -60,7 +60,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited on PC', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited on PC', noResults: true },
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited on PC', noResults: true },
-        { key: 'windows', jpTag: true, noUrl: true },
+        { key: 'windows', jpTag: true },
       ],
     },
   },
@@ -79,8 +79,8 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'mobile-phone', jpTag: true, noUrl: true, terminated: true },
-        { key: 'compact-disc', jpTag: true, noUrl: true },
+        { key: 'mobile-phone', jpTag: true, terminated: true },
+        { key: 'compact-disc', jpTag: true },
         { key: 'fan-audiobook', searchSuffix: 'audio drama', search: 'youtube', term: 'Final Fantasy: Unlimited Voice Theater', noResults: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy: Unlimited Voice Theater', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited Voice Theater', noResults: true },
@@ -101,7 +101,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy: Unlimited Twin Bonds', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited Sō no Kizuna', noResults: true },
       ],
@@ -124,7 +124,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77412483', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy: Unlimited After', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited After', noResults: true },
       ],
@@ -165,7 +165,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'compact-disc', jpTag: true, noUrl: true },
+        { key: 'compact-disc', jpTag: true },
         { key: 'fan-audiobook', name: 'Audio drama (unofficial)', jpTag: true, url: 'https://www.nicovideo.jp/watch/sm1823501' },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy: Unlimited After 2', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited After 2', noResults: true },
@@ -186,7 +186,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'compact-disc', jpTag: true, noUrl: true },
+        { key: 'compact-disc', jpTag: true },
         { key: 'fan-audiobook', name: 'Audio (unofficial)', jpTag: true, url: 'https://www.nicovideo.jp/watch/sm2427549' },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy: Unlimited Before', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy: Unlimited Before', noResults: true },

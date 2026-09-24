@@ -101,7 +101,7 @@ window.__ffSeriesReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 
           { score: 'MP', url: 'https://store.steampowered.com/app/239120/Final_Fantasy_III_3D_Remake/', key: 'steam' },
         ],
         platforms: [
-          { key: 'windows', url: null, noUrl: true },
+          { key: 'windows' },
           { key: 'gog', paren: 'PC', url: 'https://www.gog.com/en/game/final_fantasy_iii_3d_remake' },
           { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/agecheck/app/239120/' },
         ],
@@ -117,8 +117,8 @@ window.__ffSeriesReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 
             platforms: [
               { key: 'apple', paren: 'Digital' },
               { key: 'android2', paren: 'Digital' },
-              { key: 'ouya', terminated: true, noUrl: true, paren: 'Digital' },
-              { key: 'windows-phone', paren: 'Digital', url: null, noUrl: true },
+              { key: 'ouya', terminated: true, paren: 'Digital' },
+              { key: 'windows-phone', paren: 'Digital' },
             ],
             versionDesc: [
               'This port improves FMV framerate, music quality, and visuals, and reworks the Mognet sidequest chain to no longer require Wi-Fi.',
@@ -213,7 +213,7 @@ window.__ffSeriesReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 
         { score: '3.24', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', noUrl: true },
+        { key: 'book', name: 'Short Stories' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy I・II・III: Memory of Heroes', noResults: true },
         {
           key: 'fan-audiobook',

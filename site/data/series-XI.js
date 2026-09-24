@@ -31,9 +31,9 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
       platforms: [
         { key: 'windows', url: 'https://www.playonline.com/ff11us/' },
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/230330/FINAL_FANTASY_XI_Ultimate_Collection_Seekers_Edition/' },
-        { key: 'playstation2', terminated: true, noUrl: true },
-        { key: 'playstation3', terminated: true, noUrl: true, paren: 'PS2 compatibility' },
-        { key: 'xbox-360', terminated: true, noUrl: true },
+        { key: 'playstation2', terminated: true },
+        { key: 'playstation3', terminated: true, paren: 'PS2 compatibility' },
+        { key: 'xbox-360', terminated: true },
         { key: 'fan-movie', search: 'youtube', term: 'final fantasy XI base game' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'final fantasy XI base game', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy XI base game' },
@@ -183,7 +183,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/57214633', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Winds of Prayer~' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Winds of Prayer', noResults: true },
       ],
@@ -203,7 +203,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'book', name: 'Manhwa', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Manhwa', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~The Out of Orders~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Out of Orders', noResults: true },
       ],
@@ -228,7 +228,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: '3.17', url: 'https://www.goodreads.com/book/show/43464316-final-fantasy-xi-tome-2', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~The Star Oath~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Star Oath', noResults: true },
       ],
@@ -253,7 +253,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/78009261', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Prayer of the Wind~ Vol.1', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Prayer of the Wind comic', searchSuffix: '', noResults: true },
       ],
@@ -276,7 +276,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77429047', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: "Final Fantasy XI Play Diary Staying in Vana'diel", noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: "Final Fantasy XI Play Diary Staying in Vana'diel", searchSuffix: '', noResults: true },
       ],
@@ -301,7 +301,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: '3.83', url: 'https://www.goodreads.com/book/show/43464376-final-fantasy-xi-tome-3', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~The Eternal Bond~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Eternal Bond', noResults: true },
       ],
@@ -327,7 +327,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: '3.58', url: 'https://www.goodreads.com/book/show/43464339-final-fantasy-xi-tome-4', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~The Sword of Protection~ Vol.1', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Sword of Protection', noResults: true },
       ],
@@ -353,7 +353,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: '3.30', url: 'https://www.goodreads.com/book/show/43464361-final-fantasy-xi-tome-5', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~The Sword of Protection~ Vol.2', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Sword of Protection', noResults: true },
       ],
@@ -378,7 +378,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: '3.56', url: 'https://www.goodreads.com/book/show/78946739-final-fantasy-xi-on-line-tome-6', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~The Sword of Protection~ Vol.3', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Sword of Protection', noResults: true },
       ],
@@ -404,7 +404,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: '3.60', url: 'https://www.goodreads.com/book/show/4466882-final-fantasy-xi', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Faraway Wings~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Faraway Wings', noResults: true },
       ],
@@ -430,7 +430,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/4466881-final-fantasy-xi', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Pride of the Knight~ Vol.1', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Pride of the Knight', noResults: true },
       ],
@@ -456,7 +456,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/4466889-final-fantasy-xi', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Pride of the Knight~ Vol.2', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Pride of the Knight', noResults: true },
       ],
@@ -482,7 +482,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: '3.80', url: 'https://www.goodreads.com/book/show/4466890-final-fantasy-xi', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Pride of the Knight~ Vol.3', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Pride of the Knight', noResults: true },
       ],
@@ -507,7 +507,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77099305', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: "Final Fantasy XI ~Adventurer's Holiday~", noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: "Final Fantasy XI Adventurer's Holiday", noResults: true },
       ],
@@ -532,7 +532,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77131146', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~A Distant Wish~ Vol.1', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI A Distant Wish', noResults: true },
       ],
@@ -557,7 +557,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77654857', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~A Distant Wish~ Vol.2', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI A Distant Wish', noResults: true },
       ],
@@ -582,7 +582,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77686446', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~A New Dream~ Vol.1', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI A New Dream', noResults: true },
       ],
@@ -607,7 +607,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77695106', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~A New Dream~ Vol.2', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI A New Dream', noResults: true },
       ],
@@ -630,7 +630,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77163778', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~The Blessings of the Journey~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Blessings of the Journey', noResults: true },
       ],
@@ -653,7 +653,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77185190', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.1', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Daughters of Aht Urhgan', noResults: true },
       ],
@@ -676,7 +676,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77208504', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.2', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Daughters of Aht Urhgan', noResults: true },
       ],
@@ -699,7 +699,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77232781', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.3', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Daughters of Aht Urhgan', noResults: true },
       ],
@@ -724,7 +724,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77250550', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~The Testament of the Wise~ Vol.1', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Testament of the Wise', noResults: true },
       ],
@@ -749,7 +749,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77249549', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~The Testament of the Wise~ Vol.2', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Testament of the Wise', noResults: true },
       ],
@@ -796,7 +796,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { value: 'EN' },
       ],
       platforms: [
-        { key: 'globe', name: 'Webcomic', noUrl: true },
+        { key: 'globe', name: 'Webcomic' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Adventure Log webcomic', searchSuffix: '', noResults: true },
       ],
     },
@@ -820,7 +820,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/51275414', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Conditions of Fortune~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Conditions of Fortune', noResults: true },
       ],
@@ -845,7 +845,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77698241', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~The Princess Knight of Ronfaure~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Princess Knight of Ronfaure', noResults: true },
       ],
@@ -870,7 +870,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77709037', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: "Final Fantasy XI The Star's Call", noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: "Final Fantasy XI The Star's Call", noResults: true },
       ],
@@ -893,7 +893,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77438179', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Happy Gift~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Happy Gift', noResults: true },
       ],
@@ -916,7 +916,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77778217', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~A Message from Beyond~ Vol.1', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI A Message from Beyond', noResults: true },
       ],
@@ -939,7 +939,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77439898', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~A Message from Beyond~ Vol.2', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI A Message from Beyond', noResults: true },
       ],
@@ -962,7 +962,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77456526', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~A Message from Beyond~ Vol.3', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI A Message from Beyond', noResults: true },
       ],
@@ -985,7 +985,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77470246', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Anthology~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Anthology of Short Stories', noResults: true },
       ],
@@ -1008,7 +1008,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77328971', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.1', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Heartbeat of Xarcabard', noResults: true },
       ],
@@ -1031,7 +1031,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77348591', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.2', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Heartbeat of Xarcabard', noResults: true },
       ],
@@ -1054,7 +1054,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77379192', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.3', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI The Heartbeat of Xarcabard', noResults: true },
       ],
@@ -1078,7 +1078,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/28453696', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Lightning Brigade Encyclopedia~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Lightning Brigade Decennial Encyclopedia', noResults: true },
       ],
@@ -1101,7 +1101,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/69235773', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Short Stories', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Songs of the Endless Earth~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: "Final Fantasy XI Adventurer's Holiday", noResults: true },
       ],
@@ -1125,7 +1125,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/58665646', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Minagawa Fumio Illustrations~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Minagawa Fumio Illustrations', searchSuffix: '', noResults: true },
       ],
@@ -1164,7 +1164,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Minstrel of Strange Tales: Replica Script~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Minstrel of Strange Tales', searchSuffix: '', noResults: true },
       ],
@@ -1184,7 +1184,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy XI ~Minstrel of Fantasies: Replica Script~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy XI Minstrel of Fantasies', searchSuffix: '', noResults: true },
       ],
@@ -1208,8 +1208,8 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true, noUrl: true },
-        { key: 'apple', jpTag: true, terminated: true, noUrl: true },
+        { key: 'android2', jpTag: true, terminated: true },
+        { key: 'apple', jpTag: true, terminated: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Grandmasters' },
       ],
     },

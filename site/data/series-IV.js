@@ -182,7 +182,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
           { score: 'VP', url: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/', key: 'steam' },
         ],
         platforms: [
-          { key: 'windows', url: null, noUrl: true },
+          { key: 'windows' },
           { key: 'gog', paren: 'PC', url: 'https://www.gog.com/en/game/final_fantasy_iv_3d_remake' },
           { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/' },
           { key: 'apple-arcade', url: 'https://apps.apple.com/app/final-fantasy-iv-3d-remake/id6504607951' },
@@ -247,7 +247,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/50286956', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy IV ~Novel~ Vol.1', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy IV ~Novel~ Vol.1', noResults: true },
       ],
@@ -286,7 +286,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77457241', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy IV ~Novel~ Vol.2', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy IV ~Novel~ Vol.2', noResults: true },
       ],
@@ -315,7 +315,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
         { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy IV Interlude' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy IV Interlude', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy IV Interlude' },
-        { key: 'playstation-portable', noUrl: true, paren: 'Physical' },
+        { key: 'playstation-portable', paren: 'Physical' },
       ],
       versionDesc: [
         [{ text: 'Included in the omnibus compilation ' }, { emText: 'Final Fantasy IV: The Complete Collection' }, { text: ' along with ' }, { emText: 'IV (1991)' }, { text: ' and ' }, { emText: 'The After Years (2008)' }, { text: '.' }],
@@ -345,14 +345,14 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
         { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy IV: The After Years' },
         { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy IV: The After Years' },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy IV: The After Years' },
-        { key: 'playstation-portable', noUrl: true, paren: 'Physical' },
+        { key: 'playstation-portable', paren: 'Physical' },
       ],
       versions: [
         {
           subtitle: 'Edit', subtitleDate: 2009,
           platforms: [
-            { key: 'nintendo-wii', terminated: true, noUrl: true, paren: 'WiiWare' },
-            { key: 'nintendo-wii-u', terminated: true, noUrl: true, paren: 'WiiWare' },
+            { key: 'nintendo-wii', terminated: true, paren: 'WiiWare' },
+            { key: 'nintendo-wii-u', terminated: true, paren: 'WiiWare' },
           ],
           versionDesc: [
             'This release blends the Prologue, Ceodore’s Tale, and Kain’s Tale together, and was the first to release outside Japan.',
@@ -422,7 +422,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77476002', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy IV: The After ~Novel~', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy IV: The After ~Novel~', noResults: true },
       ],

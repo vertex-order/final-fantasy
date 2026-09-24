@@ -23,7 +23,7 @@ window.__ffSeriesReg['DM'] = { num: 'DM', chronoOrder: 1450, recommendedOrder: 1
       ],
       length: [{ value: '48h', tip: 'Main Story', join: ' / ' }, { value: '58h', tip: 'Main + Extra', join: ' / ' }, { value: '75½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'mobile-phone', noUrl: true, terminated: true },
+        { key: 'mobile-phone', terminated: true },
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-dimensions/id540992837' },
         { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp' },
         { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy Dimensions' },

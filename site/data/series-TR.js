@@ -21,8 +21,8 @@ window.__ffSeriesReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 1
       length: [{ value: '6h', tip: 'Main Story', join: ' / ' }, { value: '22½h', tip: 'Main + Extra', join: ' / ' }, { value: '55½h', tip: 'Completionist' }],
       platforms: [
         { key: 'fan-playthrough', search: 'youtube', term: 'Theatrhythm Final Fantasy' },
-        { key: 'apple', terminated: true, noUrl: true },
-        { key: 'nintendo-3ds', paren: 'No Digital', noUrl: true },
+        { key: 'apple', terminated: true },
+        { key: 'nintendo-3ds', paren: 'No Digital' },
       ],
     },
   },
@@ -48,7 +48,7 @@ window.__ffSeriesReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 1
       length: [{ value: '11½h', tip: 'Main Story', join: ' / ' }, { value: '36h', tip: 'Main + Extra', join: ' / ' }, { value: '103h', tip: 'Completionist' }],
       platforms: [
         { key: 'fan-playthrough', search: 'youtube', term: 'Theatrhythm Final Fantasy: Curtain Call' },
-        { key: 'nintendo-3ds', noUrl: true },
+        { key: 'nintendo-3ds' },
       ],
     },
   },
@@ -66,7 +66,7 @@ window.__ffSeriesReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 1
       ],
       platforms: [
         { key: 'fan-playthrough', search: 'youtube', term: 'Theatrhythm Final Fantasy All-Star Carnival' },
-        { key: 'arcade', jpTag: true, noUrl: true },
+        { key: 'arcade', jpTag: true },
       ],
     },
   },
@@ -101,7 +101,7 @@ window.__ffSeriesReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 1
           paren: 'Backwards Compatible; Digital',
           url: 'https://www.nintendo.com/store/products/theatrhythm-final-bar-line-switch/',
         },
-        { key: 'playstation4', noUrl: true },
+        { key: 'playstation4' },
       ],
       versionDesc: [
         'DLC is available on some platforms, adding additional music including tracks from additional Final Fantasy titles.',

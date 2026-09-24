@@ -82,11 +82,11 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation1', paren: 'Physical', noUrl: true },
-            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
-            { key: 'playstation3', paren: 'PSone compatibility; Digital', noUrl: true },
-            { key: 'playstation-portable', paren: 'Digital', noUrl: true },
-            { key: 'playstation-vita', paren: 'Digital', noUrl: true },
+            { key: 'playstation1', paren: 'Physical' },
+            { key: 'playstation2', paren: 'PSone compatibility' },
+            { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+            { key: 'playstation-portable', paren: 'Digital' },
+            { key: 'playstation-vita', paren: 'Digital' },
           ],
           versionDesc: [
             [{ text: 'Expert sphere grid mode, dark aeons, extra Penance fight. Includes the Eternal Calm video prequel to X-2 (2003). Included in the omnibus collection ' }, { emText: 'Final Fantasy X/X-2 Ultimate Box (JP; 2005)' }, { text: '.' }],
@@ -102,9 +102,9 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation1', paren: 'Physical', noUrl: true },
-            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
-            { key: 'playstation3', paren: 'PSone compatibility', noUrl: true },
+            { key: 'playstation1', paren: 'Physical' },
+            { key: 'playstation2', paren: 'PSone compatibility' },
+            { key: 'playstation3', paren: 'PSone compatibility' },
           ],
           versionDesc: [
             'The original release. PAL versions run 20% slower due to a 50Hz refresh rate.',
@@ -180,11 +180,11 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation1', paren: 'Physical', noUrl: true },
-            { key: 'playstation2', paren: 'PSone compatibility', noUrl: true },
-            { key: 'playstation3', paren: 'PSone compatibility; Digital', noUrl: true },
-            { key: 'playstation-portable', paren: 'Digital', noUrl: true },
-            { key: 'playstation-vita', paren: 'Digital', noUrl: true },
+            { key: 'playstation1', paren: 'Physical' },
+            { key: 'playstation2', paren: 'PSone compatibility' },
+            { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+            { key: 'playstation-portable', paren: 'Digital' },
+            { key: 'playstation-vita', paren: 'Digital' },
           ],
           versionDesc: [
             [{ text: 'The original release. Included with ' }, { emText: 'X (2001) International (2002)' }, { text: '.' }],
@@ -271,8 +271,8 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
             { value: 'EN', tip: 'English — voice only', voice: true },
           ],
           platforms: [
-            { key: 'playstation2', jpTag: true, noUrl: true },
-            { key: 'playstation3', paren: 'PS2 compatibility) (Japan only', jpTag: true, noUrl: true },
+            { key: 'playstation2', jpTag: true },
+            { key: 'playstation3', paren: 'PS2 compatibility) (Japan only', jpTag: true },
           ],
           versionDesc: [
             [{ text: 'Two new dresspheres, two new superbosses, and capture monsters and characters. Also includes ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '. Released as ' }, { emText: 'Final Fantasy X-2 International + Last Mission' }, { text: '. Included in the omnibus collection ' }, { emText: 'Final Fantasy X/X-2 Ultimate Box (JP; 2005)' }, { text: '.' }],
@@ -288,8 +288,8 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation2', noUrl: true },
-            { key: 'playstation3', paren: 'PS2 compatibility', noUrl: true },
+            { key: 'playstation2' },
+            { key: 'playstation3', paren: 'PS2 compatibility' },
           ],
           versionDesc: [
             'The original release.',
@@ -363,8 +363,8 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
             { value: 'JA', native: true },
           ],
           platforms: [
-            { key: 'playstation2', jpTag: true, noUrl: true },
-            { key: 'playstation3', paren: 'PS2 compatibility) (Japan only', jpTag: true, noUrl: true },
+            { key: 'playstation2', jpTag: true },
+            { key: 'playstation3', paren: 'PS2 compatibility) (Japan only', jpTag: true },
           ],
           versionDesc: [
             [{ text: 'The original release. Released as ' }, { emText: 'Final Fantasy X-2 International + Last Mission' }, { text: '.' }],

@@ -365,7 +365,7 @@ window.__ffSeriesReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100,
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/106524927', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy i manga' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'final fantasy i manga', noResults: true },
       ],
@@ -390,7 +390,7 @@ window.__ffSeriesReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100,
         { score: '3.24', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', noUrl: true },
+        { key: 'book', name: 'Short Stories' },
         {
           key: 'fan-recap',
           name: 'Fan story recap (wiki)',

@@ -56,8 +56,8 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
           ],
           helpWanted: true,
           platforms: [
-            { key: 'nintendo-gamecube', paren: 'Physical', noUrl: true },
-            { key: 'nintendo-game-boy-advance', paren: 'Physical; one per player in co-op, with a GameCube', noUrl: true },
+            { key: 'nintendo-gamecube', paren: 'Physical' },
+            { key: 'nintendo-game-boy-advance', paren: 'Physical; one per player in co-op, with a GameCube' },
           ],
           versionDesc: [
             'The original release, which used up to four Game Boy Advance units connected to a single GameCube to provide four player co-op multiplayer.',
@@ -83,7 +83,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77128941', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy Crystal Chronicles Beyond the Endless Sky', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles manga', noResults: true },
       ],
@@ -105,7 +105,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77092424', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy Crystal Chronicles Chronicle of a Small Village', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village', noResults: true },
       ],
@@ -128,7 +128,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77600584', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy Crystal Chronicles 4-Koma Manga Theater', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', noResults: true },
       ],
@@ -156,7 +156,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
       ],
       length: [{ value: '18h', tip: 'Main Story', join: ' / ' }, { value: '35h', tip: 'Main + Extra', join: ' / ' }, { value: '78½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'nintendo-wii', terminated: true, noUrl: true, paren: 'WiiWare' },
+        { key: 'nintendo-wii', terminated: true, paren: 'WiiWare' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles My Life as a King', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles My Life as a King', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Crystal Chronicles My Life as a King' },
@@ -185,7 +185,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
       ],
       length: [{ value: '10½h', tip: 'Main Story', join: ' / ' }, { value: '16h', tip: 'Main + Extra' }],
       platforms: [
-        { key: 'nintendo-wii', terminated: true, noUrl: true, paren: 'WiiWare' },
+        { key: 'nintendo-wii', terminated: true, paren: 'WiiWare' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles My Life as a Darklord', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles My Life as a Darklord', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Crystal Chronicles My Life as a Darklord' },
@@ -212,7 +212,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
       ],
       length: [{ value: '10½h', tip: 'Main Story', join: ' / ' }, { value: '16½h', tip: 'Main + Extra', join: ' / ' }, { value: '32h', tip: 'Completionist' }],
       platforms: [
-        { key: 'nintendo-wii', noUrl: true },
+        { key: 'nintendo-wii' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles The Crystal Bearers', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles The Crystal Bearers', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Crystal Chronicles The Crystal Bearers' },
@@ -239,7 +239,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
       ],
       length: [{ value: '12½h', tip: 'Main Story', join: ' / ' }, { value: '17½h', tip: 'Main + Extra', join: ' / ' }, { value: '23½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'nintendo-ds', noUrl: true },
+        { key: 'nintendo-ds' },
         { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy Crystal Chronicles Ring of Fates' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles Ring of Fates', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Crystal Chronicles Ring of Fates' },
@@ -263,7 +263,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77740139', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy Crystal Chronicles Ring of Fates Manga', noResults: true },
         {
           key: 'fan-recap',
@@ -295,8 +295,8 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
       ],
       length: [{ value: '14h', tip: 'Main Story', join: ' / ' }, { value: '19h', tip: 'Main + Extra', join: ' / ' }, { value: '31½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'nintendo-ds', noUrl: true },
-        { key: 'nintendo-wii', noUrl: true },
+        { key: 'nintendo-ds' },
+        { key: 'nintendo-wii' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles Echoes of Time', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Crystal Chronicles Echoes of Time', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy Crystal Chronicles Echoes of Time' },

@@ -185,7 +185,7 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77954969', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Novel', jpTag: true },
         {
           key: 'fan-translation',
           url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Muma%20no%20Meiky%C5%AB%20Nightmare%27s%20Labyrinth%20translation&t=h_',
@@ -211,7 +211,7 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/102713430', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Gamebook', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Gamebook', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy II Hihō no Dragon', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy II: Dragon Treasures', noResults: true },
       ],
@@ -231,7 +231,7 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
       ],
       helpWanted: true,
       platforms: [
-        { key: 'book', name: 'Gamebook', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Gamebook', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy II Shōri e no Tabidachi', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy II: Journey to Victory', noResults: true },
       ],
@@ -252,7 +252,7 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
       ],
       helpWanted: true,
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true, noUrl: true },
+        { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy II manga', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy II manga', noResults: true },
       ],
@@ -277,7 +277,7 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
         { score: '3.24', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', noUrl: true },
+        { key: 'book', name: 'Short Stories' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy I・II・III: Memory of Heroes', noResults: true },
         {
           key: 'fan-audiobook',
