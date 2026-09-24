@@ -1,5 +1,5 @@
 // schema: series.schema.json
-window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrder: 1800, title: 'Other', note: 'A collection of standalone titles that nonetheless may be worth looking into.', media: [
+window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrder: 1800, title: 'Other titles', note: 'A collection of standalone titles that nonetheless may be worth looking into.', media: [
   {
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 100,
     title: 'Final Fantasy Adventure', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure', titleDate: '1991-06-28',
