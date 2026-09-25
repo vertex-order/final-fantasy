@@ -44,7 +44,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200,
     title: 'Final Fantasy XI: Rise of the Zilart', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2003-04-17',
     mediaDesc: [
-      [{ text: "Thwart Zilart princes Eald'Narche and Kam'lanaut's plans to become Gods in this expansion for " }, { emText: 'XI (2002)' }, { text: '.' }],
+      [{ text: "Thwart Zilart princes Eald'Narche and Kam'lanaut's plans to become Gods in this expansion for " }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
@@ -66,7 +66,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300,
     title: 'Final Fantasy XI: Chains of Promathia', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2004-09-16',
     mediaDesc: [
-      [{ text: 'Various factions vie to either stop or complete the resurrection of Twilight God Promathia in this expansion for ' }, { emText: 'XI (2002)' }, { text: '.' }],
+      [{ text: 'Various factions vie to either stop or complete the resurrection of Twilight God Promathia in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
@@ -92,7 +92,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 400,
     title: 'Final Fantasy XI: Treasures of Aht Urhgan', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2006-04-18',
     mediaDesc: [
-      [{ text: 'The Empire of Aht Urhgan in the midlands becomes involved after years of self-imposed isolation, with the player being sent there as a representative in this expansion for ' }, { emText: 'XI (2002)' }, { text: '.' }],
+      [{ text: 'The Empire of Aht Urhgan in the midlands becomes involved after years of self-imposed isolation, with the player being sent there as a representative in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
@@ -118,7 +118,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: 4000, recommendedOrder: 500,
     title: 'Final Fantasy XI: Wings of the Goddess', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2007-11-20',
     mediaDesc: [
-      [{ text: 'Using newly discovered time portals, players travel 20 years in the past from the base game main story to experience the Crystal War first-hand and encounters a surprise character in this expansion for ' }, { emText: 'XI (2002)' }, { text: '.' }],
+      [{ text: 'Using newly discovered time portals, players travel 20 years in the past from the base game main story to experience the Crystal War first-hand and encounters a surprise character in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
@@ -144,7 +144,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: 5000, recommendedOrder: 600,
     title: 'Final Fantasy XI: Seekers of Adoulin', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2013-03-27',
     mediaDesc: [
-      [{ text: 'People are migrating to the underpopulated western continent archipelago of Adoulin and the Sacred City of Adoulin in this last expansion for ' }, { emText: 'XI (2002)' }, { text: '.' }],
+      [{ text: 'People are migrating to the underpopulated western continent archipelago of Adoulin and the Sacred City of Adoulin in this last expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
@@ -193,7 +193,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
     mediaType: 'Comic', chronoOrder: -10, recommendedOrder: 602,
     title: 'Final Fantasy XI ~The Out of Orders~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~', titleDate: '2003-04-19',
     mediaDesc: [
-      [{ text: 'An original story set during the Crystal War twenty years before the main story of ' }, { emText: 'XI (2003)' }, { text: ', which later became the setting for the ' }, { emText: 'Wings of the Goddess (2007)' }, { text: ' expansion. Some differences with characters from the game make it so it could be considered an alternate universe story. Cancelled so is incomplete.' }],
+      [{ text: 'An original story set during the Crystal War twenty years before the main story of ' }, { emText: 'XI (2003)' }, { text: ', which later became the setting for the ' }, { emLinkText: 'Wings of the Goddess (2007)', emLinkUrl: '#entry-XI-final-fantasy-xi-wings-of-the-goddess-2007' }, { text: ' expansion. Some differences with characters from the game make it so it could be considered an alternate universe story. Cancelled so is incomplete.' }],
     ],
     primary: {
       tags: ['Optional', 'Prequel', 'Alternate Universe', 'Manhwa', 'Incomplete'],
@@ -1218,7 +1218,7 @@ window.__ffSeriesReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: 1050, recommendedOrder: 700,
     title: 'Final Fantasy XI: Braver', titleUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver', titleDate: '2021-07-10',
     mediaDesc: [
-      [{ text: 'Taking place roughly in the world of ' }, { emText: 'XI: Rise of the Zilart (2003)' }, { text: ' with a sprinkle from other Final Fantasy titles, making it a bit of an alternate universe re-imagining. Entry also found in our Fan Projects series.' }],
+      [{ text: 'Taking place roughly in the world of ' }, { emLinkText: 'XI: Rise of the Zilart (2003)', emLinkUrl: '#entry-XI-final-fantasy-xi-rise-of-the-zilart-2003' }, { text: ' with a sprinkle from other Final Fantasy titles, making it a bit of an alternate universe re-imagining. Entry also found in our Fan Projects series.' }],
       'A party of adventurers, fresh off a win in the Valkurm Dunes, is summoned to Lower Jeuno by the Captain of the Ducal Guard for an urgent mission.',
     ],
     primary: {

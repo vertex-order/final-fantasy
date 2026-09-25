@@ -5,7 +5,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder:
     title: 'Final Fantasy XIV: Online ~1.0~', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIV_(2010_video_game)', titleDate: '2010-09-30',
     mediaDesc: [
       "Explore the world of Eorzea and get caught up in both an invasion by the hostile Garlean Empire and the threat of the primals, the deities of the land's beastmen tribes. It all ends in a cataclysmic event.",
-      [{ text: 'Terminated due to low ratings, it was remade into something akin to a sequel as ' }, { emText: 'XIV: A Realm Reborn (2013)' }, { text: ' listed below. We recommend watching the cinematics and story recap before heading into ' }, { emText: 'A Realm Reborn' }, { text: '.' }],
+      [{ text: 'Terminated due to low ratings, it was remade into something akin to a sequel as ' }, { emLinkText: 'XIV: A Realm Reborn (2013)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-a-realm-reborn-2013' }, { text: ' listed below. We recommend watching the cinematics and story recap before heading into ' }, { emText: 'A Realm Reborn' }, { text: '.' }],
       [{ text: 'Also known as ' }, { emText: 'Version 1.0' }, { text: ', to distinguish it from ' }, { emText: 'A Realm Reborn' }, { text: "'s 2.0 relaunch." }],
     ],
     primary: {
@@ -44,7 +44,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder:
     mediaDesc: [
       'Seven years after XIV: Online (2010), you must fend off a reignited invasion from the Garlean Empire in the world of Eorzea. From the base game, continue your adventure in 6 expansions (listed separately), with more expected to release.',
       [{ text: 'Sometimes referred to simply as ' }, { emText: 'Final Fantasy XIV: Online' }, { text: ', or ' }, { emText: 'Version 2.0' }, { text: '.' }],
-      [{ text: 'A campaign dubbed ' }, { emText: '"Return to Ivalice"' }, { text: ' ties into the ' }, { emText: 'Ivalice' }, { text: ' subseries, with characters based on those from ' }, { emText: 'XII (2006)' }, { text: ' and ' }, { emText: 'Tactics (1997)' }, { text: '.' }],
+      [{ text: 'A campaign dubbed ' }, { emText: '"Return to Ivalice"' }, { text: ' ties into the ' }, { emText: 'Ivalice' }, { text: ' subseries, with characters based on those from ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: ' and ' }, { emLinkText: 'Tactics (1997)', emLinkUrl: '#entry-XII-final-fantasy-tactics-1997' }, { text: '.' }],
     ],
     primary: {
       tags: ['Sequel', 'MMORPG', 'Monthly subscription'],
@@ -469,7 +469,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder:
     mediaType: 'Game', chronoOrder: 900, recommendedOrder: 900,
     title: 'Final Fantasy XIV: Legend of Balance', titleUrl: 'https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Legend_of_Balance', titleDate: '2013-01',
     mediaDesc: [
-      [{ text: 'Taking place between the original ' }, { emText: 'XIV ~1.0~ (2010)' }, { text: ' and the start of ' }, { emText: 'XIV: A Realm Reborn (2013)' }, { text: ' with an original fan created story that can be considered an alternate universe. It can be played without knowing about either. Released as ' }, { emText: 'Final Fantasy: Legend of Balance' }, { text: '. Entry also found in our ' }, { emText: 'Fan Projects' }, { text: ' series.' }],
+      [{ text: 'Taking place between the original ' }, { emText: 'XIV ~1.0~ (2010)' }, { text: ' and the start of ' }, { emLinkText: 'XIV: A Realm Reborn (2013)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-a-realm-reborn-2013' }, { text: ' with an original fan created story that can be considered an alternate universe. It can be played without knowing about either. Released as ' }, { emText: 'Final Fantasy: Legend of Balance' }, { text: '. Entry also found in our ' }, { emText: 'Fan Projects' }, { text: ' series.' }],
       'A group of heroes, champions of Eorzea, are transported away moments before facing certain death against Bahamut, and must find their way home through a strange new world entwined with crystals, old evils, and steadfast allies.',
     ],
     primary: {

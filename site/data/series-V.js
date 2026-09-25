@@ -139,7 +139,7 @@ window.__ffSeriesReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500,
     mediaType: 'Movie', chronoOrder: 1000, recommendedOrder: 200,
     title: 'Final Fantasy: Legend of the Crystals', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_Legend_of_the_Crystals', titleDate: '1994-03-21',
     mediaDesc: [
-      [{ text: 'Two hundred years after ' }, { emText: 'V (1992)' }, { text: ', Prettz and Linally must defeat the new evil Deathgyunos.' }],
+      [{ text: 'Two hundred years after ' }, { emLinkText: 'V (1992)', emLinkUrl: '#entry-V-final-fantasy-v-1992' }, { text: ', Prettz and Linally must defeat the new evil Deathgyunos.' }],
       ['Four 30 minute ', { abbrTerm: 'OVA', abbrDef: 'Original Video Animation' }, ' episodes.'],
     ],
     primary: {

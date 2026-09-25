@@ -134,7 +134,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
     mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200,
     title: 'Final Fantasy XII: Revenant Wings', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings', titleDate: '2007-04-26',
     mediaDesc: [
-      [{ text: 'Vaan and Penelo become sky pirates and end up involved in a conflict surrounding the floating continent of Lemurés. A standalone sequel to ' }, { emText: 'XII (2006)' }, { text: '.' }],
+      [{ text: 'Vaan and Penelo become sky pirates and end up involved in a conflict surrounding the floating continent of Lemurés. A standalone sequel to ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: '.' }],
     ],
     primary: {
       tags: ['Sequel', 'Real-time strategy'],
@@ -163,7 +163,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
     title: 'Final Fantasy Tactics Advance', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_Advance', titleDate: '2003-02-14',
     mediaDesc: [
       'Marche enters an alternate universe Ivalice populated with his friends living different lives; conflict ensues as he attempts to get home.',
-      [{ text: 'Despite sharing the "Advance" branding with other Game Boy Advance ports, this is an entirely distinct game — not a port or edit of ' }, { emText: 'Tactics (1997)' }, { text: '.' }],
+      [{ text: 'Despite sharing the "Advance" branding with other Game Boy Advance ports, this is an entirely distinct game — not a port or edit of ' }, { emLinkText: 'Tactics (1997)', emLinkUrl: '#entry-XII-final-fantasy-tactics-1997' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Alternate universe', 'Turn-based tactical rpg'],
@@ -206,7 +206,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
           { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy Tactics Advance Radio Edition', noResults: true },
         ],
         versionDesc: [
-          [{ text: 'Radio drama adaptation of ' }, { emText: 'Tactics Advance (2003)' }, { text: '. The plot is only slightly different.' }],
+          [{ text: 'Radio drama adaptation of ' }, { emLinkText: 'Tactics Advance (2003)', emLinkUrl: '#entry-XII-final-fantasy-tactics-advance-2003' }, { text: '. The plot is only slightly different.' }],
         ],
       },
     ],
@@ -216,7 +216,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
     title: 'Final Fantasy Tactics A2: Grimoire of the Rift', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift', titleDate: '2007-10-25',
     mediaDesc: [
       [{ text: 'Luso is transported to Ivalice and battles rival clans as he seeks a way home.' }],
-      [{ text: 'Despite sometimes being considered an indirect sequel to ' }, { emText: 'Tactics Advance (2003)' }, { text: ', it actually fits better as a spin-off in the main ' }, { emText: 'Ivalice Alliance' }, { text: ' series, which the former is only loosely a part of.' }],
+      [{ text: 'Despite sometimes being considered an indirect sequel to ' }, { emLinkText: 'Tactics Advance (2003)', emLinkUrl: '#entry-XII-final-fantasy-tactics-advance-2003' }, { text: ', it actually fits better as a spin-off in the main ' }, { emText: 'Ivalice Alliance' }, { text: ' series, which the former is only loosely a part of.' }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Turn-based tactical rpg'],
@@ -340,7 +340,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
     mediaType: 'Game', chronoOrder: 6100, recommendedOrder: 600,
     title: 'Vagrant Story', titleUrl: 'https://wikipedia.org/wiki/Vagrant_Story', titleDate: '2000-02-10',
     mediaDesc: [
-      [{ text: 'Ashley, an elite agent known as a Riskbreaker, must travel to Leá Monde to investigate the link between a cult leader and a senior Valendian Parliament member, Duke Bardorba. Considered to be in some future time after ' }, { emText: 'Final Fantasy Tactics (1997)' }, { text: '.' }],
+      [{ text: 'Ashley, an elite agent known as a Riskbreaker, must travel to Leá Monde to investigate the link between a cult leader and a senior Valendian Parliament member, Duke Bardorba. Considered to be in some future time after ' }, { emLinkText: 'Final Fantasy Tactics (1997)', emLinkUrl: '#entry-XII-final-fantasy-tactics-1997' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Action role-playing'],
@@ -390,7 +390,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
     mediaType: 'Game', chronoOrder: 3100, recommendedOrder: 750,
     title: 'Crystal Defenders', titleUrl: 'https://wikipedia.org/wiki/Crystal_Defenders', titleDate: '2008-01-28',
     mediaDesc: [
-      [{ text: 'Tower defense game inspired by elements from ' }, { emText: 'Tactics A2: Grimoire of the Rift (2007)' }, { text: ' set in Ivalice. Initially released as ' }, { emText: 'Crystal Guardians' }, { text: '. Some platforms may have only partial content, or higher graphics under the name ' }, { emText: 'Crystal Defenders Plus' }, { text: '.' }],
+      [{ text: 'Tower defense game inspired by elements from ' }, { emLinkText: 'Tactics A2: Grimoire of the Rift (2007)', emLinkUrl: '#entry-XII-final-fantasy-tactics-a2-grimoire-of-the-rift-2007' }, { text: ' set in Ivalice. Initially released as ' }, { emText: 'Crystal Guardians' }, { text: '. Some platforms may have only partial content, or higher graphics under the name ' }, { emText: 'Crystal Defenders Plus' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Mobile', 'Turn-based strategy', 'Tower defense', 'Terminated'],
@@ -420,7 +420,7 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
     mediaType: 'Game', chronoOrder: 3200, recommendedOrder: 800,
     title: 'Crystal Defenders: Vanguard Storm', titleUrl: 'https://wikipedia.org/wiki/Crystal_Defenders', titleDate: '2009-05-13',
     mediaDesc: [
-      [{ text: 'Tower defense game inspired by elements from ' }, { emText: 'Tactics A2: Grimoire of the Rift (2007)' }, { text: ' set in Ivalice, as a direct sequel to ' }, { emText: 'Crystal Defenders (2008)' }, { text: '.' }],
+      [{ text: 'Tower defense game inspired by elements from ' }, { emLinkText: 'Tactics A2: Grimoire of the Rift (2007)', emLinkUrl: '#entry-XII-final-fantasy-tactics-a2-grimoire-of-the-rift-2007' }, { text: ' set in Ivalice, as a direct sequel to ' }, { emLinkText: 'Crystal Defenders (2008)', emLinkUrl: '#entry-XII-crystal-defenders-2008' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile', 'Turn-based strategy', 'Tower defense', 'Terminated'],

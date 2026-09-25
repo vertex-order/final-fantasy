@@ -5,7 +5,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
     title: 'Final Fantasy Resonance', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Resonance', titleDate: '2026-10-22',
     mediaDesc: [
       [{ text: 'Rain, Lasswell, and Fina set out to protect the remaining crystals across the world after the Earth Crystal is destroyed by Veritas of the Dark.' }],
-      [{ text: 'An adaptation of ' }, { emText: 'Brave Exvius (2015)' }, { text: "'s first story arc, incorporating elements and characters from other Final Fantasy titles as well as outside franchises. Graphics are in HD-2D." }],
+      [{ text: 'An adaptation of ' }, { emLinkText: 'Brave Exvius (2015)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-2015' }, { text: "'s first story arc, incorporating elements and characters from other Final Fantasy titles as well as outside franchises. Graphics are in HD-2D." }],
     ],
     primary: {
       tags: ['Turn-based RPG', 'Single-player'],
@@ -69,7 +69,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
     mediaType: 'Comic', chronoOrder: 50, recommendedOrder: 150,
     title: 'Final Fantasy Brave Exvius Rikodoki!', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki!', titleDate: '2018-07-25',
     mediaDesc: [
-      [{ text: 'A 4-panel manga based on ' }, { emText: 'Brave Exvius (2015)' }, { text: '.' }],
+      [{ text: 'A 4-panel manga based on ' }, { emLinkText: 'Brave Exvius (2015)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-2015' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Manga'],
@@ -107,7 +107,7 @@ window.__ffSeriesReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: -1000, recommendedOrder: 300,
     title: 'War of the Visions: Final Fantasy Brave Exvius', titleUrl: 'https://wikipedia.org/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius', titleDate: '2019-11-14',
     mediaDesc: [
-      [{ text: 'War breaks out between five rival nations on Lapis in the distant past of ' }, { emText: 'Brave Exvius (2015)' }, { text: '.' }],
+      [{ text: 'War breaks out between five rival nations on Lapis in the distant past of ' }, { emLinkText: 'Brave Exvius (2015)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-2015' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Prequel', 'Tactical RPG', 'Mobile', 'Terminated'],

@@ -30,7 +30,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
     title: 'Final Fantasy: Unlimited with U', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_with_U', titleDate: '2002-08-20',
     mediaDesc: [
-      [{ text: 'Game adaptation of the ' }, { emText: 'Unlimited (2001)' }, { text: ' anime for mobile phones as a turn-based RPG.' }],
+      [{ text: 'Game adaptation of the ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime for mobile phones as a turn-based RPG.' }],
     ],
     primary: {
       tags: ['Optional', 'Adaptation', 'Turn-based RPG', 'Mobile'],
@@ -49,7 +49,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
     mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300,
     title: 'Final Fantasy: Unlimited on PC', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_on_PC_Adventure_-_Labyrinth', titleDate: '2003-05-16',
     mediaDesc: [
-      [{ text: 'Game adaptation of the ' }, { emText: 'Unlimited (2001)' }, { text: ' anime as a card battle game.' }],
+      [{ text: 'Game adaptation of the ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime as a card battle game.' }],
     ],
     primary: {
       tags: ['Optional', 'Adaptation', 'Adventure', 'Visual Novel game', 'Card battle'],
@@ -91,7 +91,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
     mediaType: 'Book', chronoOrder: 300, recommendedOrder: 400,
     title: 'Final Fantasy: Unlimited Twin Bonds', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited#Continuation_of_Final_Fantasy:_Unlimited', titleDate: '2002-03-28',
     mediaDesc: [
-      [{ text: 'Covers a side story set somewhere before episode 12 of the ' }, { emText: 'Unlimited (2001)' }, { text: ' anime. Released as ' }, { emText: 'Final Fantasy: Unlimited Sō no Kizuna' }, { text: ', sometimes referred to as ' }, { emText: '~The Bonds of Two~' }, { text: '.' }],
+      [{ text: 'Covers a side story set somewhere before episode 12 of the ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime. Released as ' }, { emText: 'Final Fantasy: Unlimited Sō no Kizuna' }, { text: ', sometimes referred to as ' }, { emText: '~The Bonds of Two~' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Side-story', 'Novel'],
@@ -111,7 +111,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
     mediaType: 'Comic', chronoOrder: 320, recommendedOrder: 420,
     title: 'Final Fantasy: Unlimited After', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After', titleDate: '2002-05-15',
     mediaDesc: [
-      [{ text: 'Taking place after ' }, { emText: 'Unlimited (2001)' }, { text: ' anime, exploring the C2 Organization Lisa works for, and their goals and purposes. Originally published online, later collected into a single anthology comprised of a comic and a script.' }],
+      [{ text: 'Taking place after ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime, exploring the C2 Organization Lisa works for, and their goals and purposes. Originally published online, later collected into a single anthology comprised of a comic and a script.' }],
     ],
     primary: {
       tags: ['Sequel', 'Manga', 'Script'],
@@ -134,7 +134,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
     mediaType: 'Book', chronoOrder: 335, recommendedOrder: 435,
     title: 'Final Fantasy: Unlimited After Spiral', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral', titleDate: '2002-06-01',
     mediaDesc: [
-      [{ text: 'Takes place after the events of ' }, { emText: 'Unlimited After (2002)' }, { text: ". It covers Makenshi's past and the events surrounding Ai and Yu's return to their home. A bonus side-story chapter " }, { emText: 'Final Fantasy: Unlimited After Zero' }, { text: ' about Makenshi and Madoushi. It was posted freely on the FF:U site.' }],
+      [{ text: 'Takes place after the events of ' }, { emLinkText: 'Unlimited After (2002)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-after-2002' }, { text: ". It covers Makenshi's past and the events surrounding Ai and Yu's return to their home. A bonus side-story chapter " }, { emText: 'Final Fantasy: Unlimited After Zero' }, { text: ' about Makenshi and Madoushi. It was posted freely on the FF:U site.' }],
     ],
     primary: {
       tags: ['Sequel', 'Side-story', 'Web novel'],
@@ -155,7 +155,7 @@ window.__ffSeriesReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder:
     mediaType: 'Audio', chronoOrder: 340, recommendedOrder: 440,
     title: 'Final Fantasy: Unlimited After 2', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_2', titleDate: '2002-12-26',
     mediaDesc: [
-      [{ text: 'Picks up where the anime ' }, { emText: 'Unlimited (2001)' }, { text: ' left off, as a followup to ' }, { emText: 'Unlimited After (2002)' }, { text: ". Deals with Comodeen's final attack on Gaudium and brings a conclusion to the conflict between Lisa and Soljashy." }],
+      [{ text: 'Picks up where the anime ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' left off, as a followup to ' }, { emLinkText: 'Unlimited After (2002)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-after-2002' }, { text: ". Deals with Comodeen's final attack on Gaudium and brings a conclusion to the conflict between Lisa and Soljashy." }],
     ],
     primary: {
       tags: ['Sequel', 'Audio drama'],

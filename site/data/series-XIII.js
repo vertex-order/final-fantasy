@@ -112,7 +112,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
     mediaType: 'Book', chronoOrder: 1000, recommendedOrder: 300,
     title: 'Final Fantasy XIII-2 Fragments Before', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before', titleDate: '2011-12-15 10',
     mediaDesc: [
-      [{ text: 'The first chapter is the novella ' }, { emLinkText: 'Final Fantasy XIII -Episode i-', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_-Episode_i-' }, { text: ' which acts as an epilogue to ' }, { emText: 'XIII (2009)' }, { text: '. The rest of the book is meant to cover the events before ' }, { emText: 'XIII-2 (2011)' }, { text: '.' }],
+      [{ text: 'The first chapter is the novella ' }, { emLinkText: 'Final Fantasy XIII -Episode i-', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_-Episode_i-' }, { text: ' which acts as an epilogue to ' }, { emLinkText: 'XIII (2009)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2009' }, { text: '. The rest of the book is meant to cover the events before ' }, { emLinkText: 'XIII-2 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2-2011' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Short Stories'],
@@ -140,7 +140,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
     mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 400,
     title: 'Final Fantasy XIII-2', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2', titleDate: '2011-12-15 20',
     mediaDesc: [
-      [{ text: 'Lightning, the protagonist of ' }, { emText: 'XIII (2009)' }, { text: ', has disappeared into an unknown world. Her younger sister Serah and Noel  journey through time in an attempt to find her.' }],
+      [{ text: 'Lightning, the protagonist of ' }, { emLinkText: 'XIII (2009)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2009' }, { text: ', has disappeared into an unknown world. Her younger sister Serah and Noel  journey through time in an attempt to find her.' }],
     ],
     primary: {
       tags: ['Sequel', 'RPG', 'Paradigm Shift battle'],
@@ -214,7 +214,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
     mediaType: 'Book', chronoOrder: 3000, recommendedOrder: 500,
     title: 'Final Fantasy XIII-2 Fragments After', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After', titleDate: '2012-06-21',
     mediaDesc: [
-      [{ text: 'Several stories mainly meant to cover loose ends within the plot of ' }, { emText: 'XIII-2 (2011)' }, { text: ', and highlight the mysteries yet to be resolved.' }],
+      [{ text: 'Several stories mainly meant to cover loose ends within the plot of ' }, { emLinkText: 'XIII-2 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2-2011' }, { text: ', and highlight the mysteries yet to be resolved.' }],
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Short Stories'],
@@ -242,8 +242,8 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
     mediaType: 'Game', chronoOrder: 4000, recommendedOrder: 600,
     title: 'Lightning Returns: Final Fantasy XIII', titleUrl: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII', titleDate: '2013-11-21',
     mediaDesc: [
-      [{ text: '500 years after ' }, { emText: 'XIII-2 (2011)' }, { text: ", Lightning awakens from a self-imposed hibernation thirteen days before the world's end. The deity Bhunivelze chooses her to save the people of the dying world, including former friends and allies who have developed heavy emotional burdens. As she travels, she learns the truth behind the world's fate and Bhunivelze's true agenda." }],
-      [{ text: 'Sometimes also known as ' }, { emText: 'Final Fantasy XIII-3' }, { text: '. After finishing the game, you can optionally chose to read the Novella ' }, { emText: 'XIII: Reminiscence -tracer of memories- (2014)' }, { text: ' (listed separately) before watching the final epilogue ' }, { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, { text: '.' }],
+      [{ text: '500 years after ' }, { emLinkText: 'XIII-2 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2-2011' }, { text: ", Lightning awakens from a self-imposed hibernation thirteen days before the world's end. The deity Bhunivelze chooses her to save the people of the dying world, including former friends and allies who have developed heavy emotional burdens. As she travels, she learns the truth behind the world's fate and Bhunivelze's true agenda." }],
+      [{ text: 'Sometimes also known as ' }, { emText: 'Final Fantasy XIII-3' }, { text: '. After finishing the game, you can optionally chose to read the Novella ' }, { emLinkText: 'XIII: Reminiscence -tracer of memories- (2014)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-reminiscence-tracer-of-memories-2014' }, { text: ' (listed separately) before watching the final epilogue ' }, { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, { text: '.' }],
     ],
     primary: {
       tags: ['Sequel', 'Action RPG', 'Style-Change Active Time Battle'],
@@ -346,7 +346,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
     mediaType: 'Book', chronoOrder: -2000, recommendedOrder: 800,
     title: 'Final Fantasy XIII: Episode Zero: Promise', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-', titleDate: '2009-12-24',
     mediaDesc: [
-      ['Series of web novellas depicting the thirteen days leading up to the events of ', { emText: 'XIII (2009)' }, '.'],
+      ['Series of web novellas depicting the thirteen days leading up to the events of ', { emLinkText: 'XIII (2009)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2009' }, '.'],
     ],
     primary: {
       tags: ['Optional', 'Prequel', 'Short Stories'],
@@ -389,7 +389,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
           { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'final fantasy XIII episode zero promise', noResults: true },
         ],
         versionDesc: [
-          ['Features Part 1 of ', { emText: 'XIII: Episode Zero: Promise (2009)' }, ' as a radio drama. Some editions contain bonus stories ', { emText: 'Real -Reality-' }, ' and ', { emText: 'Departure -Starting-' }, '.'],
+          ['Features Part 1 of ', { emLinkText: 'XIII: Episode Zero: Promise (2009)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-episode-zero-promise-2009' }, ' as a radio drama. Some editions contain bonus stories ', { emText: 'Real -Reality-' }, ' and ', { emText: 'Departure -Starting-' }, '.'],
         ],
       },
     ],
@@ -458,7 +458,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
     mediaType: 'Comic', chronoOrder: 100400, recommendedOrder: 940,
     title: 'Final Fantasy Type-0 ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_(manga)#Story', titleDate: '2011-11-11',
     mediaDesc: [
-      [{ text: 'A manga adaptation of ' }, { emText: 'Type-0 (2011)' }, { text: ", following the story of the game while adding new characters and situations. Class Zero, led by Ace, defends Peristylium Suzaku from the invading Militesi Empire and its Magitek Armor pilot Qun'mi Tru'e. Bundled with the " }, { emText: "Final Fantasy Type-0 HD Collector's Edition" }, { text: '.' }],
+      [{ text: 'A manga adaptation of ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ", following the story of the game while adding new characters and situations. Class Zero, led by Ace, defends Peristylium Suzaku from the invading Militesi Empire and its Magitek Armor pilot Qun'mi Tru'e. Bundled with the " }, { emText: "Final Fantasy Type-0 HD Collector's Edition" }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Manga'],
@@ -485,7 +485,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
     mediaType: 'Comic', chronoOrder: 99900, recommendedOrder: 945,
     title: 'Final Fantasy Type-0: The Ice Reaper', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper', titleDate: '2012-09-22',
     mediaDesc: [
-      [{ text: 'A manga set nine years before ' }, { emText: 'Type-0 (2011)' }, { text: ", following Kurasame Susaya's time as a student of Akademeia and member of the Four Champions of Rubrum. Kurasame, determined to prove himself worthy of promotion out of Class Third, survives a deadly attack by Concordian outlaws that kills most of his classmates. May also be known as " }, { emText: 'Final Fantasy Type-0 Side Story: The Ice Reaper' }, { text: ', or ' }, { emText: 'Final Fantasy Type-0 Side Story: The Reaper of the Icy Blade' }, { text: '.' }],
+      [{ text: 'A manga set nine years before ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ", following Kurasame Susaya's time as a student of Akademeia and member of the Four Champions of Rubrum. Kurasame, determined to prove himself worthy of promotion out of Class Third, survives a deadly attack by Concordian outlaws that kills most of his classmates. May also be known as " }, { emText: 'Final Fantasy Type-0 Side Story: The Ice Reaper' }, { text: ', or ' }, { emText: 'Final Fantasy Type-0 Side Story: The Reaper of the Icy Blade' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Prequel', 'Manga'],
@@ -515,7 +515,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
     mediaType: 'Book', chronoOrder: 100500, recommendedOrder: 950,
     title: 'Final Fantasy Type-0: Change the World -The Answer- Vol.1', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-', titleDate: '2012-04-21',
     mediaDesc: [
-      [{ text: 'A novelization of ' }, { emText: 'Type-0 (2011)' }, { text: ', following Izana Kunagiri as he searches for cadet Ace amid the chaos of the war against the Militesi Empire, recalling how he arrived at his current situation.' }],
+      [{ text: 'A novelization of ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ', following Izana Kunagiri as he searches for cadet Ace amid the chaos of the war against the Militesi Empire, recalling how he arrived at his current situation.' }],
     ],
     primary: {
       tags: ['Optional', 'Novel'],
@@ -602,7 +602,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
     mediaType: 'Game', chronoOrder: 100550, recommendedOrder: 1000,
     title: 'Final Fantasy Agito', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Agito#', titleDate: '2014-05-14',
     mediaDesc: [
-      [{ text: 'Companion entry to ' }, { emText: 'Type-0 (2011)' }, { text: ', you play a cadet entering the Rubrum Magical Academy during a time of war, and chosen to become the Agito, a figure destined to save Orience from destruction.' }],
+      [{ text: 'Companion entry to ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ', you play a cadet entering the Rubrum Magical Academy during a time of war, and chosen to become the Agito, a figure destined to save Orience from destruction.' }],
       [{ text: 'Due to it being terminated, and never released outside of Japan, it is recommended to watch a fan story recap or playthrough for story elements.' }],
     ],
     primary: {
@@ -623,7 +623,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
     mediaType: 'Book', chronoOrder: 100560, recommendedOrder: 1050,
     title: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2015-04-30',
     mediaDesc: [
-      [{ text: 'Focuses on the characters of Nine and Rubrum cadet Naghi Minatsuchi in continuity with ' }, { emText: 'Agito (2014)' }, { text: '.' }],
+      [{ text: 'Focuses on the characters of Nine and Rubrum cadet Naghi Minatsuchi in continuity with ' }, { emLinkText: 'Agito (2014)', emLinkUrl: '#entry-XIII-final-fantasy-agito-2014' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Novel'],
@@ -645,7 +645,7 @@ window.__ffSeriesReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrde
     mediaType: 'Game', chronoOrder: 100570, recommendedOrder: 1100,
     title: 'Final Fantasy Awakening', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Awakening', titleDate: '2016-12-14',
     mediaDesc: [
-      [{ text: 'Set in the ' }, { emText: 'Type-0 (2011)' }, { text: ' alternate universe, you play as a cadet of the Dominion of Rubrum as the four nations of Orience are plunged into war.' }],
+      [{ text: 'Set in the ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ' alternate universe, you play as a cadet of the Dominion of Rubrum as the four nations of Orience are plunged into war.' }],
       [{ text: 'Due to it being terminated, it is recommended to watch a fan story recap or playthrough for story elements.' }],
     ],
     primary: {

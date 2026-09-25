@@ -33,7 +33,7 @@ window.__ffSeriesReg['EX'] = { num: 'EX', chronoOrder: 1520, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
     title: 'Final Fantasy Explorers-Force', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Explorers-Force', titleDate: '2018-03-20',
     mediaDesc: [
-      [{ text: 'Players used jobs, abilities and weapons to organize parties and defeat summoned beasts, similar to the gameplay from ' }, { emText: 'Explorers (2014)' }, { text: '. It also had character appearances from other Final Fantasy series, and could be considered a mash-up or alternate universe as a result. It is terminated.' }],
+      [{ text: 'Players used jobs, abilities and weapons to organize parties and defeat summoned beasts, similar to the gameplay from ' }, { emLinkText: 'Explorers (2014)', emLinkUrl: '#entry-EX-final-fantasy-explorers-2014' }, { text: '. It also had character appearances from other Final Fantasy series, and could be considered a mash-up or alternate universe as a result. It is terminated.' }],
     ],
     primary: {
       tags: ['Optional', 'Action RPG', 'Jobs', 'Mobile', 'In-app Purchases', 'Multiplayer', 'Terminated'],

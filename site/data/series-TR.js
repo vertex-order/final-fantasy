@@ -30,7 +30,7 @@ window.__ffSeriesReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
     title: 'Theatrhythm Final Fantasy: Curtain Call', titleUrl: 'https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy:_Curtain_Call', titleDate: '2014-04-24',
     mediaDesc: [
-      [{ text: 'Adds Versus Battle and Quest Medleys modes, as well as expanding the track library to 221 tracks including from spin-off titles including other franchises. Followup to ' }, { emText: 'Theatrhythm Final Fantasy (2012)' }, { text: '.' }],
+      [{ text: 'Adds Versus Battle and Quest Medleys modes, as well as expanding the track library to 221 tracks including from spin-off titles including other franchises. Followup to ' }, { emLinkText: 'Theatrhythm Final Fantasy (2012)', emLinkUrl: '#entry-TR-theatrhythm-final-fantasy-2012' }, { text: '.' }],
     ],
     primary: {
       tags: ['Sequel', 'Rhythm', 'Single-player', 'Multiplayer'],
