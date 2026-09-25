@@ -42,7 +42,7 @@ window.__ffSeriesReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 95
   },
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 200,
-    title: 'Final Fantasy: The Spirits Within Novel', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media', titleDate: '2001-06-26',
+    title: 'Final Fantasy: The Spirits Within ~Novel~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media', titleDate: '2001-06-26',
     mediaDesc: [
       [{ text: 'Novelization of the ' }, { emLinkText: 'Final Fantasy: The Spirits Within (2001)', emLinkUrl: '#entry-SW-final-fantasy-the-spirits-within-2001' }, { text: ' movie written by Dean Wesley Smith.' }],
     ],
@@ -63,7 +63,7 @@ window.__ffSeriesReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 95
     },
     alts: [
       {
-        title: 'Final Fantasy: The Spirits Within YA Novel', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media', titleDate: 2001,
+        title: 'Final Fantasy: The Spirits Within ~YA Novel~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media', titleDate: 2001,
         subtitle: 'Book',
         languages: [
           { value: 'EN', url: 'https://www.goodreads.com/book/show/5941120' },
