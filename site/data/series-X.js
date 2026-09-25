@@ -272,7 +272,7 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
           ],
           platforms: [
             { key: 'playstation2', jpTag: true },
-            { key: 'playstation3', paren: 'PS2 compatibility) (Japan only', jpTag: true },
+            { key: 'playstation3', paren: 'PS2 compatibility', jpTag: true },
           ],
           versionDesc: [
             [{ text: 'Two new dresspheres, two new superbosses, and capture monsters and characters. Also includes ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '. Released as ' }, { emText: 'Final Fantasy X-2 International + Last Mission' }, { text: '. Included in the omnibus collection ' }, { emText: 'Final Fantasy X/X-2 Ultimate Box (JP; 2005)' }, { text: '.' }],
@@ -364,7 +364,7 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
           ],
           platforms: [
             { key: 'playstation2', jpTag: true },
-            { key: 'playstation3', paren: 'PS2 compatibility) (Japan only', jpTag: true },
+            { key: 'playstation3', paren: 'PS2 compatibility', jpTag: true },
           ],
           versionDesc: [
             [{ text: 'The original release. Released as ' }, { emText: 'Final Fantasy X-2 International + Last Mission' }, { text: '.' }],
