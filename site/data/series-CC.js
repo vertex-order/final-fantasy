@@ -70,7 +70,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
     mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 150,
     title: 'Final Fantasy Crystal Chronicles ~Beyond the Endless Sky~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2004-01-10',
     mediaDesc: [
-      [{ text: 'A manga adaptation of ' }, { emText: 'Crystal Chronicles (2003)' }, { text: '. Released as 〜果てなき空の向こうに〜. May also be known as ~Hatenaki Sora no Mukō ni~.' }],
+      [{ text: 'A manga adaptation of ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as 〜果てなき空の向こうに〜. May also be known as ~Hatenaki Sora no Mukō ni~.' }],
     ],
     primary: {
       tags: ['Optional', 'Manga'],
@@ -93,7 +93,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
     mediaType: 'Book', chronoOrder: 600, recommendedOrder: 160,
     title: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2004-02-06',
     mediaDesc: [
-      [{ text: 'A novelization of ' }, { emText: 'Crystal Chronicles (2003)' }, { text: '. Released as ファイナルファンタジークリスタルクロニクル 〜小さな村の年代記〜 (Chiisana Mura no Nendaiki).' }],
+      [{ text: 'A novelization of ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ファイナルファンタジークリスタルクロニクル 〜小さな村の年代記〜 (Chiisana Mura no Nendaiki).' }],
     ],
     primary: {
       tags: ['Optional', 'Novel'],
@@ -115,7 +115,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
     mediaType: 'Comic', chronoOrder: 700, recommendedOrder: 170,
     title: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Manga', titleDate: '2004-01-16',
     mediaDesc: [
-      [{ text: 'A 4-panel gag manga based on ' }, { emText: 'Crystal Chronicles (2003)' }, { text: '. Released as ファイナルファンタジー・クリスタルクロニクル4コママンガ劇場.' }],
+      [{ text: 'A 4-panel gag manga based on ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ファイナルファンタジー・クリスタルクロニクル4コママンガ劇場.' }],
     ],
     primary: {
       tags: ['Optional', 'Manga'],
@@ -138,7 +138,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200,
     title: 'Final Fantasy Crystal Chronicles: My Life as a King', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King', titleDate: '2008-03-25',
     mediaDesc: [
-      [{ text: 'Following ' }, { emText: 'Crystal Chronicles (2003)' }, { text: ', the son of a king who lost his kingdom establishes a new home to create a prosperous land.' }],
+      [{ text: 'Following ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: ', the son of a king who lost his kingdom establishes a new home to create a prosperous land.' }],
       [{ text: 'Due to the discontinuation of the WiiWare service it is recommend to watch a fan story recap or playthrough for story elements.' }],
     ],
     primary: {
@@ -167,7 +167,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300,
     title: 'Final Fantasy Crystal Chronicles: My Life as a Darklord', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_Darklord', titleDate: '2009-06-30',
     mediaDesc: [
-      [{ text: 'Following ' }, { emText: 'Crystal Chronicles: My Life as a King (2008)' }, { text: ', the Darklord defends her mobile tower from waves of attacks as it travels across the kingdom.' }],
+      [{ text: 'Following ' }, { emLinkText: 'Crystal Chronicles: My Life as a King (2008)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-my-life-as-a-king-2008' }, { text: ', the Darklord defends her mobile tower from waves of attacks as it travels across the kingdom.' }],
       [{ text: 'Due to the discontinuation of the WiiWare service it is recommend to watch a fan story recap or playthrough for story elements.' }],
     ],
     primary: {
@@ -196,7 +196,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 400,
     title: 'Final Fantasy Crystal Chronicles: The Crystal Bearers', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers', titleDate: '2009-11-12',
     mediaDesc: [
-      [{ text: '1000 years after the events of ' }, { emText: 'Crystal Chronicles (2003)' }, { text: ', Layle, a bounty-hunting crystal bearer, is drawn into a conspiracy to seize an ancient, world-threatening power sealed within the crystals.' }],
+      [{ text: '1000 years after the events of ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: ', Layle, a bounty-hunting crystal bearer, is drawn into a conspiracy to seize an ancient, world-threatening power sealed within the crystals.' }],
     ],
     primary: {
       tags: ['Sequel', 'Action-adventure', 'Co-op'],
@@ -223,7 +223,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: -300, recommendedOrder: 500,
     title: 'Final Fantasy Crystal Chronicles: Ring of Fates', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates', titleDate: '2007-08-23',
     mediaDesc: [
-      [{ text: '8000 years before ' }, { emText: 'Crystal Chronicles (2003)' }, { text: '; Yuri and Chelinka come into conflict with Galdes, leader of the Red Crystal-allied Lunites.' }],
+      [{ text: '8000 years before ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '; Yuri and Chelinka come into conflict with Galdes, leader of the Red Crystal-allied Lunites.' }],
     ],
     primary: {
       tags: ['Prequel', 'Action role-playing', 'Co-op'],
@@ -250,7 +250,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
     mediaType: 'Comic', chronoOrder: -250, recommendedOrder: 550,
     title: 'Final Fantasy Crystal Chronicles: Ring of Fates ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2008-03-01',
     mediaDesc: [
-      [{ text: 'A 4-panel gag manga anthology based on ' }, { emText: 'Ring of Fates (2007)' }, { text: '. Released as リング オブ フェイト4コマアンソロジーコミック. May also be known as Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~.' }],
+      [{ text: 'A 4-panel gag manga anthology based on ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: '. Released as リング オブ フェイト4コマアンソロジーコミック. May also be known as Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~.' }],
     ],
     primary: {
       tags: ['Optional', 'Manga'],
@@ -279,7 +279,7 @@ window.__ffSeriesReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: -200, recommendedOrder: 600,
     title: 'Final Fantasy Crystal Chronicles: Echoes of Time', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time', titleDate: '2009-01-29',
     mediaDesc: [
-      [{ text: 'Takes place between ' }, { emText: 'Ring of Fates (2007)' }, { text: ' but before ' }, { emText: 'Crystal Chronicles (2003)' }, { text: '. You must receive your own crystal shard, embark on an adventure to save a friend, and confront scientist Larkeicus.' }],
+      [{ text: 'Takes place between ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: ' but before ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. You must receive your own crystal shard, embark on an adventure to save a friend, and confront scientist Larkeicus.' }],
     ],
     primary: {
       tags: ['Prequel', 'Action rpg', 'Co-op'],

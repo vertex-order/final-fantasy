@@ -64,7 +64,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
           ],
           versionDesc: [
             'This port is based on Edit (2005), with a returning opening FMV, auto-battle, faster loading via Data Install, new 3D cutscenes, and a choice between Famicom and 3D Remake soundtracks.',
-            ['Included in the omnibus compilation ', { emText: 'Final Fantasy IV: The Complete Collection (2011)' }, ' along with ', { emText: 'Interlude (2011)' }, ' and ', { emText: 'The After Years (2008)' }, '.'],
+            ['Included in the omnibus compilation ', { emText: 'Final Fantasy IV: The Complete Collection (2011)' }, ' along with ', { emLinkText: 'Interlude (2011)', emLinkUrl: '#entry-IV-final-fantasy-iv-interlude-2011' }, ' and ', { emLinkText: 'The After Years (2008)', emLinkUrl: '#entry-IV-final-fantasy-iv-the-after-years-2008' }, '.'],
           ],
         },
         {
@@ -296,7 +296,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
     mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200,
     title: 'Final Fantasy IV: Interlude', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_Complete_Collection', titleDate: '2011-03-24',
     mediaDesc: [
-      ['Cecil and Rosa have a short adventure set between ', { emText: 'IV (1991)' }, ' and ', { emText: 'The After Years (2008)' }, ' meant to bridge the two games.'],
+      ['Cecil and Rosa have a short adventure set between ', { emLinkText: 'IV (1991)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991' }, ' and ', { emLinkText: 'The After Years (2008)', emLinkUrl: '#entry-IV-final-fantasy-iv-the-after-years-2008' }, ' meant to bridge the two games.'],
       'Due to generally unfavorable reviews and short length, it is recommended to experience it as a fan story recap video.',
     ],
     primary: {
@@ -318,7 +318,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
         { key: 'playstation-portable', paren: 'Physical' },
       ],
       versionDesc: [
-        [{ text: 'Included in the omnibus compilation ' }, { emText: 'Final Fantasy IV: The Complete Collection' }, { text: ' along with ' }, { emText: 'IV (1991)' }, { text: ' and ' }, { emText: 'The After Years (2008)' }, { text: '.' }],
+        [{ text: 'Included in the omnibus compilation ' }, { emText: 'Final Fantasy IV: The Complete Collection' }, { text: ' along with ' }, { emLinkText: 'IV (1991)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991' }, { text: ' and ' }, { emLinkText: 'The After Years (2008)', emLinkUrl: '#entry-IV-final-fantasy-iv-the-after-years-2008' }, { text: '.' }],
       ],
     },
   },
@@ -326,7 +326,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
     mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300,
     title: 'Final Fantasy IV: The After Years', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', titleDate: '2008-02-18',
     mediaDesc: [
-      ['Episodic tales following the cast of ', { emText: 'IV (1991)' }, ' 17 years later. Roughly compiled together from episodic phone games into a single disjointed title as ', { emText: 'The After Years' }, '.'],
+      ['Episodic tales following the cast of ', { emLinkText: 'IV (1991)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991' }, ' 17 years later. Roughly compiled together from episodic phone games into a single disjointed title as ', { emText: 'The After Years' }, '.'],
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Episodic', 'Active time battles'],
@@ -373,7 +373,7 @@ window.__ffSeriesReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 40
       ],
       versionDesc: [
         'This is the most complete 2D version — bundled with Final Fantasy IV and the interquel Interlude, with tales separated back out, HD sprites, a gallery/bestiary, and the new superboss Lost Babil.',
-        [{ text: 'Also known as ' }, { emText: 'Final Fantasy IV: TAY' }, { text: '. Included in the omnibus compilation ' }, { emText: 'Final Fantasy IV: The Complete Collection' }, { text: ' along with ' }, { emText: 'IV (1991)' }, { text: ' and ' }, { emText: 'Interlude (2011)' }, { text: '. Also known as ' }, { emText: 'Final Fantasy IV: The After Years+' }, { text: '.' }],
+        [{ text: 'Also known as ' }, { emText: 'Final Fantasy IV: TAY' }, { text: '. Included in the omnibus compilation ' }, { emText: 'Final Fantasy IV: The Complete Collection' }, { text: ' along with ' }, { emLinkText: 'IV (1991)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991' }, { text: ' and ' }, { emLinkText: 'Interlude (2011)', emLinkUrl: '#entry-IV-final-fantasy-iv-interlude-2011' }, { text: '. Also known as ' }, { emText: 'Final Fantasy IV: The After Years+' }, { text: '.' }],
       ],
     },
     alts: [

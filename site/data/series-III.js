@@ -166,7 +166,7 @@ window.__ffSeriesReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 
     mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 200,
     title: 'Legend of the Eternal Wind: from Final Fantasy III', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori', titleDate: '1991-01',
     mediaDesc: [
-      [{ text: 'Adaptation of ' }, { emText: 'Final Fantasy III (1990)' }, { text: ' as a manga with many changes, which could be considered an alternate universe retelling. Released as ' }, { emText: 'Yūkyū no Kaze Densetsu: Final Fantasy III Yori' }, { text: '.' }],
+      [{ text: 'Adaptation of ' }, { emLinkText: 'Final Fantasy III (1990)', emLinkUrl: '#entry-III-final-fantasy-iii-1990' }, { text: ' as a manga with many changes, which could be considered an alternate universe retelling. Released as ' }, { emText: 'Yūkyū no Kaze Densetsu: Final Fantasy III Yori' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Alternate Universe', 'Manga'],

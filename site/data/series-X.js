@@ -45,7 +45,7 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy X' },
       ],
       versionDesc: [
-        [{ text: 'This remaster has enhanced 4k graphics and a soundtrack switch, with auto-save, five game boosters including high speed and no encounter modes, and FMV skip on PC and PlayStation. Released as ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' and includes ' }, { emText: 'X-2 (2003)' }, { text: ' and ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '.' }],
+        [{ text: 'This remaster has enhanced 4k graphics and a soundtrack switch, with auto-save, five game boosters including high speed and no encounter modes, and FMV skip on PC and PlayStation. Released as ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' and includes ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: ' and ' }, { emLinkText: 'X-2: Last Mission (2004)', emLinkUrl: '#entry-X-final-fantasy-x-2-last-mission-2004' }, { text: '.' }],
       ],
       versions: [
         {
@@ -69,7 +69,7 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
             { key: 'playstation-vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
           ],
           versionDesc: [
-            [{ text: 'This remaster has enhanced 1080p graphics, soundtrack switch, cross-saves, and a Final Fantasy X -Will- audio drama. Also released as ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (not to be confused with ' }, { emText: 'Remaster (2016)' }, { text: ') and includes ' }, { emText: 'X-2 (2003)' }, { text: ' and ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '. Includes all content from ' }, { emText: 'International (2002)' }, { text: ' version.' }],
+            [{ text: 'This remaster has enhanced 1080p graphics, soundtrack switch, cross-saves, and a Final Fantasy X -Will- audio drama. Also released as ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (not to be confused with ' }, { emText: 'Remaster (2016)' }, { text: ') and includes ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: ' and ' }, { emLinkText: 'X-2: Last Mission (2004)', emLinkUrl: '#entry-X-final-fantasy-x-2-last-mission-2004' }, { text: '. Includes all content from ' }, { emLinkText: 'International (2002)', emLinkUrl: '#entry-X-final-fantasy-x-2001-x-international-2002' }, { text: ' version.' }],
           ],
         },
         {
@@ -117,7 +117,7 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
     mediaType: 'Video', chronoOrder: 1000, recommendedOrder: 200,
     title: 'Final Fantasy X: Eternal Calm', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise', titleDate: '2002-01-31',
     mediaDesc: [
-      [{ text: "Video that bridges Yuna's storyline between " }, { emText: 'X (2001)' }, { text: ' and ' }, { emText: 'X-2 (2003)' }, { text: '. Sometimes called ' }, { emText: 'X-2: Prologue' }, { text: '. Included in all releases since 2002 that include ' }, { emText: 'X (2001)' }, { text: '. May be in 4k.' }],
+      [{ text: "Video that bridges Yuna's storyline between " }, { emLinkText: 'X (2001)', emLinkUrl: '#entry-X-final-fantasy-x-2001' }, { text: ' and ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: '. Sometimes called ' }, { emText: 'X-2: Prologue' }, { text: '. Included in all releases since 2002 that include ' }, { emLinkText: 'X (2001)', emLinkUrl: '#entry-X-final-fantasy-x-2001' }, { text: '. May be in 4k.' }],
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Video'],
@@ -197,7 +197,7 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
     mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300,
     title: 'Final Fantasy X-2', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X-2', titleDate: '2003-03-13',
     mediaDesc: [
-      [{ text: 'Two years after ' }, { emText: 'X (2001)' }, { text: ', Yuna, separated, searches for Tidus while trying to keep political conflicts from escalating to war. Not to be confused with ' }, { emText: 'Final Fantasy XII (2006)' }, { text: '.' }],
+      [{ text: 'Two years after ' }, { emLinkText: 'X (2001)', emLinkUrl: '#entry-X-final-fantasy-x-2001' }, { text: ', Yuna, separated, searches for Tidus while trying to keep political conflicts from escalating to war. Not to be confused with ' }, { emLinkText: 'Final Fantasy XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: '.' }],
     ],
     primary: {
       tags: ['Sequel', 'Active Time Battle', 'Sphere Grids'],
@@ -238,7 +238,7 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
         { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy X-2' },
       ],
       versionDesc: [
-        [{ text: 'This remaster has enhanced 4k graphics and a soundtrack switch, with auto-save, five game boosters including high speed and no encounter modes, and FMV skip on PC and PlayStation. Released as part of ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' and includes ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '.' }],
+        [{ text: 'This remaster has enhanced 4k graphics and a soundtrack switch, with auto-save, five game boosters including high speed and no encounter modes, and FMV skip on PC and PlayStation. Released as part of ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' and includes ' }, { emLinkText: 'X-2: Last Mission (2004)', emLinkUrl: '#entry-X-final-fantasy-x-2-last-mission-2004' }, { text: '.' }],
       ],
       versions: [
         {
@@ -261,7 +261,7 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
             { key: 'playstation-vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
           ],
           versionDesc: [
-            [{ text: 'This remaster has enhanced 1080p graphics, soundtrack switch, cross-saves, and a ' }, { emText: 'Final Fantasy X -Will-' }, { text: ' audio drama. Also released as ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (not to be confused with Remaster 2016) and includes ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '. Includes ' }, { emText: 'Eternal Calm' }, { text: ' video prequel to ' }, { emText: 'X-2 (2003)' }, { text: '.' }],
+            [{ text: 'This remaster has enhanced 1080p graphics, soundtrack switch, cross-saves, and a ' }, { emText: 'Final Fantasy X -Will-' }, { text: ' audio drama. Also released as ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (not to be confused with Remaster 2016) and includes ' }, { emLinkText: 'X-2: Last Mission (2004)', emLinkUrl: '#entry-X-final-fantasy-x-2-last-mission-2004' }, { text: '. Includes ' }, { emText: 'Eternal Calm' }, { text: ' video prequel to ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: '.' }],
           ],
         },
         {
@@ -275,7 +275,7 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
             { key: 'playstation3', paren: 'PS2 compatibility', jpTag: true },
           ],
           versionDesc: [
-            [{ text: 'Two new dresspheres, two new superbosses, and capture monsters and characters. Also includes ' }, { emText: 'X-2: Last Mission (2004)' }, { text: '. Released as ' }, { emText: 'Final Fantasy X-2 International + Last Mission' }, { text: '. Included in the omnibus collection ' }, { emText: 'Final Fantasy X/X-2 Ultimate Box (JP; 2005)' }, { text: '.' }],
+            [{ text: 'Two new dresspheres, two new superbosses, and capture monsters and characters. Also includes ' }, { emLinkText: 'X-2: Last Mission (2004)', emLinkUrl: '#entry-X-final-fantasy-x-2-last-mission-2004' }, { text: '. Released as ' }, { emText: 'Final Fantasy X-2 International + Last Mission' }, { text: '. Included in the omnibus collection ' }, { emText: 'Final Fantasy X/X-2 Ultimate Box (JP; 2005)' }, { text: '.' }],
           ],
         },
         {
@@ -302,7 +302,7 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
     mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 400,
     title: 'Final Fantasy X-2: Last Mission', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2:_Last_Mission', titleDate: '2004-02-19',
     mediaDesc: [
-      [{ text: 'Taking place six months after ' }, { emText: 'X-2 (2003)' }, { text: ', play through a bonus mission as a member of YRP as you navigate through Iutycyr Tower with roguelike gameplay. Not integrated into the main ' }, { emText: 'X-2 (2003)' }, { text: ' game but played separately.' }],
+      [{ text: 'Taking place six months after ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: ', play through a bonus mission as a member of YRP as you navigate through Iutycyr Tower with roguelike gameplay. Not integrated into the main ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: ' game but played separately.' }],
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Bonus mission', 'Roguelike'],
@@ -377,7 +377,7 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
     mediaType: 'Book', chronoOrder: 4000, recommendedOrder: 500,
     title: 'Final Fantasy X-2.5', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~', titleDate: '2013-12-26 10',
     mediaDesc: [
-      [{ text: 'Starts off directly after ' }, { emText: 'X-2 (2003)' }, { text: ' ends and focuses on Yuna, Tidus, and 1000 year time travel. This results in sequel characters exploring prequel 1000 year old story, making it hard to place chronologically.' }],
+      [{ text: 'Starts off directly after ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: ' ends and focuses on Yuna, Tidus, and 1000 year time travel. This results in sequel characters exploring prequel 1000 year old story, making it hard to place chronologically.' }],
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Novel'],
@@ -403,7 +403,7 @@ window.__ffSeriesReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 100
     mediaType: 'Audio', chronoOrder: 5000, recommendedOrder: 600,
     title: 'Final Fantasy X -Will-', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_-Will-', titleDate: '2013-12-26 20',
     mediaDesc: [
-      [{ text: 'Listen to the events that occur one year after ' }, { emText: 'X-2 (2003)' }, { text: '. Released as part of ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (2013 and 2016 versions).' }],
+      [{ text: 'Listen to the events that occur one year after ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: '. Released as part of ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (2013 and 2016 versions).' }],
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Audio drama'],

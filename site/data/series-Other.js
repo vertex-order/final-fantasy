@@ -5,7 +5,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
     title: 'Final Fantasy Adventure', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure', titleDate: '1991-06-28',
     mediaDesc: [
       [{ text: 'The story follows the hero and the heroine as they attempt to thwart the Dark Lord of Glaive and his sorcerer assistant, Julius, from destroying the Tree of Mana and dooming their world. Similar in gameplay to the original ' }, { emText: 'The Legend of Zelda (1986; NES)' }, { text: ' with additional RPG elements.' }],
-      [{ text: 'Confusingly released as ' }, { emText: 'Mystic Quest (1993)' }, { text: ' in Europe, not to be confused with ' }, { emText: 'Final Fantasy Mystic Quest (1992)' }, { text: '. It spawned its own series which no longer contains Final Fantasy elements, ' }, { emLinkText: 'Mana', emLinkUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure' }, { text: ', whose sequel is the well known ' }, { emText: 'Secret of Mana (1993)' }, { text: '. It has multiple remakes, but they remove the Final Fantasy elements from the game.' }],
+      [{ text: 'Confusingly released as ' }, { emText: 'Mystic Quest (1993)' }, { text: ' in Europe, not to be confused with ' }, { emLinkText: 'Final Fantasy Mystic Quest (1992)', emLinkUrl: '#entry-MQ-final-fantasy-mystic-quest-1992' }, { text: '. It spawned its own series which no longer contains Final Fantasy elements, ' }, { emLinkText: 'Mana', emLinkUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure' }, { text: ', whose sequel is the well known ' }, { emText: 'Secret of Mana (1993)' }, { text: '. It has multiple remakes, but they remove the Final Fantasy elements from the game.' }],
     ],
     primary: {
       tags: ['Spin-off', 'Action RPG', 'Single-player'],
@@ -328,7 +328,7 @@ window.__ffSeriesReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOr
     mediaType: 'Game', chronoOrder: 250, recommendedOrder: 361,
     title: 'Final Fantasy Portal App: Triple Triad', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Triple_Triad_(Portal_App)', titleDate: '2015-04-01',
     mediaDesc: [
-      [{ text: 'An updated version of the recurring minigame Triple Triad first introduced in ' }, { emText: 'VIII (1999)' }, { text: ', with rules from the ' }, { emText: 'XIV (2010)' }, { text: ' version, with cards from many Final Fantasy games. Its bare story loosely tied it to the ' }, { emText: 'Dissidia' }, { text: ' series (2008).' }],
+      [{ text: 'An updated version of the recurring minigame Triple Triad first introduced in ' }, { emLinkText: 'VIII (1999)', emLinkUrl: '#entry-VIII-final-fantasy-viii-1999' }, { text: ', with rules from the ' }, { emText: 'XIV (2010)' }, { text: ' version, with cards from many Final Fantasy games. Its bare story loosely tied it to the ' }, { emText: 'Dissidia' }, { text: ' series (2008).' }],
       [{ text: 'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.' }],
     ],
     primary: {

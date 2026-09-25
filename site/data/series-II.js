@@ -171,7 +171,7 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 300,
     title: "Final Fantasy II Nightmare's Labyrinth", titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB', titleDate: '1989-03-20',
     mediaDesc: [
-      [{ text: 'Novelization of ' }, { emText: 'II (1988)' }, { text: '. Includes additional scenarios and story changes, which could be considered an alternate universe retelling. Released as ' }, { emText: 'Final Fantasy II Muma no Meikyū' }, { text: '.' }],
+      [{ text: 'Novelization of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: '. Includes additional scenarios and story changes, which could be considered an alternate universe retelling. Released as ' }, { emText: 'Final Fantasy II Muma no Meikyū' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Alternate Universe', 'Novel'],
@@ -221,7 +221,7 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
     mediaType: 'Book', chronoOrder: 630, recommendedOrder: 415,
     title: 'Final Fantasy II: Journey to Victory', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi', titleDate: '1988',
     mediaDesc: [
-      [{ text: 'A gamebook telling a side story set during the events of ' }, { emText: 'II (1988)' }, { text: ' and starring a young rebel as its protagonist. Released as ファイナルファンタジーII 勝利への旅立ち (Final Fantasy II Shōri e no Tabidachi).' }],
+      [{ text: 'A gamebook telling a side story set during the events of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ' and starring a young rebel as its protagonist. Released as ファイナルファンタジーII 勝利への旅立ち (Final Fantasy II Shōri e no Tabidachi).' }],
     ],
     primary: {
       tags: ['Optional', 'Side-story', 'Gamebook'],
@@ -241,7 +241,7 @@ window.__ffSeriesReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 20
     mediaType: 'Comic', chronoOrder: 600, recommendedOrder: 400,
     title: 'Final Fantasy II ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)#Behind_the_scenes', titleDate: '1989-12',
     mediaDesc: [
-      [{ text: 'Adaptation of ' }, { emText: 'II (1988)' }, { text: ' as a manga with what can be assumed are many story changes like the previous comic adaptation, which could be considered an alternate universe retelling. It was cancelled before completion.' }],
+      [{ text: 'Adaptation of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ' as a manga with what can be assumed are many story changes like the previous comic adaptation, which could be considered an alternate universe retelling. It was cancelled before completion.' }],
     ],
     primary: {
       tags: ['Optional', 'Alternate Universe', 'Manga', 'Incomplete'],

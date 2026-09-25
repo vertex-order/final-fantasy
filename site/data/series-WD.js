@@ -74,7 +74,7 @@ window.__ffSeriesReg['WD'] = { num: 'WD', chronoOrder: 1580, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
     title: 'World of Final Fantasy: Meli-Melo', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy:_Meli-Melo', titleDate: '2017-12-12',
     mediaDesc: [
-      [{ text: 'Similar gameplay to ' }, { emText: 'World of Final Fantasy (2016)' }, { text: ', the game is now terminated.' }],
+      [{ text: 'Similar gameplay to ' }, { emLinkText: 'World of Final Fantasy (2016)', emLinkUrl: '#entry-WD-world-of-final-fantasy-2016' }, { text: ', the game is now terminated.' }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Monster-taming RPG', 'Multiplayer', 'Co-op', 'Mobile', 'In-app purchases', 'Terminated'],

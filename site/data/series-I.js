@@ -56,7 +56,7 @@ window.__ffSeriesReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100,
     mediaType: 'Game', chronoOrder: -2500, recommendedOrder: 510,
     title: 'Stranger of Paradise: Trials of the Dragon King', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Trials_of_the_Dragon_King', titleDate: '2022-07-20',
     mediaDesc: [
-      [{ text: 'Immediately follows ' }, { emText: 'Stranger of Paradise: Final Fantasy Origin (2022)' }, { text: '. The warriors of light meet the Dragon King Bahamut.' }],
+      [{ text: 'Immediately follows ' }, { emLinkText: 'Stranger of Paradise: Final Fantasy Origin (2022)', emLinkUrl: '#entry-I-stranger-of-paradise-final-fantasy-origin-2022' }, { text: '. The warriors of light meet the Dragon King Bahamut.' }],
     ],
     primary: {
       tags: ['DLC', 'Optional'],
@@ -90,7 +90,7 @@ window.__ffSeriesReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100,
     mediaType: 'Game', chronoOrder: -2000, recommendedOrder: 520,
     title: 'Stranger of Paradise: Wanderer of the Rift', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Wanderer_of_the_Rift', titleDate: '2022-10-26',
     mediaDesc: [
-      [{ text: 'Follows ' }, { emText: 'Trials of the Dragon King (2022)' }, { text: ' as Jack investigates an incursion into their world.' }],
+      [{ text: 'Follows ' }, { emLinkText: 'Trials of the Dragon King (2022)', emLinkUrl: '#entry-I-stranger-of-paradise-trials-of-the-dragon-king-2022' }, { text: ' as Jack investigates an incursion into their world.' }],
     ],
     primary: {
       tags: ['DLC', 'Optional'],
@@ -118,7 +118,7 @@ window.__ffSeriesReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100,
     mediaType: 'Game', chronoOrder: -1000, recommendedOrder: 530,
     title: 'Stranger of Paradise: Different Future', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Different_Future', titleDate: '2023-01-27',
     mediaDesc: [
-      [{ text: 'Follows ' }, { emText: 'Wanderer of the Rift (2022)' }, { text: ', Jack must put an end to the machinations of the Lufenian Nil, who threatens their reality.' }],
+      [{ text: 'Follows ' }, { emLinkText: 'Wanderer of the Rift (2022)', emLinkUrl: '#entry-I-stranger-of-paradise-wanderer-of-the-rift-2022' }, { text: ', Jack must put an end to the machinations of the Lufenian Nil, who threatens their reality.' }],
     ],
     primary: {
       tags: ['DLC', 'Optional'],
@@ -352,7 +352,7 @@ window.__ffSeriesReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100,
     mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 300,
     title: 'Final Fantasy ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)', titleDate: '1989-12-30',
     mediaDesc: [
-      [{ text: 'Adaptation of ' }, { emText: 'Final Fantasy (1987)' }, { text: ' with many story changes, enough that it could be considered an alternate universe retelling: the Warriors of Light are Puffy, monk Flitz, witch Matoya, and Bahamut, joined by a princess and a pirate, guided by the robot DB-6 on behalf of the Lufenians, opposing the rogue knight Garland. Released as ' }, { emText: 'Final Fantasy' }, { text: '.' }],
+      [{ text: 'Adaptation of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ' with many story changes, enough that it could be considered an alternate universe retelling: the Warriors of Light are Puffy, monk Flitz, witch Matoya, and Bahamut, joined by a princess and a pirate, guided by the robot DB-6 on behalf of the Lufenians, opposing the rogue knight Garland. Released as ' }, { emText: 'Final Fantasy' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Alternate Universe', 'Manga'],
@@ -409,7 +409,7 @@ window.__ffSeriesReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100,
     mediaType: 'Comic', chronoOrder: 800, recommendedOrder: 460,
     title: '8-Bit Theater ~FFI~', titleUrl: 'https://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EightBitTheater', titleDate: { start: '2001-03-02', end: '2010-06-01' },
     mediaDesc: [
-      [{ text: 'A fan-made affectionate parody of ' }, { emText: 'Final Fantasy (1987)' }, { text: ", follows the four Light Warriors (who really aren't the best for the job): Fighter McWarrior, an astoundingly stupid sword-obsessed warrior; Black Mage Evilwizardington, an Ax-Crazy homicidal sociopath who is only held back by the Rule of Funny and a tendency to get hurt; Thief, a fugitive prince of elf clan Khee'bler armed with extreme greed and an expertise in manipulative contracts; and Red Mage Statscowski, a so-called strategist who considers life to be a tabletop game, is obsessed with his stats, and was tricked into liking cross dressing. Entry also found in our " }, { emText: 'Fan Projects' }, { text: ' series.' }],
+      [{ text: 'A fan-made affectionate parody of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ", follows the four Light Warriors (who really aren't the best for the job): Fighter McWarrior, an astoundingly stupid sword-obsessed warrior; Black Mage Evilwizardington, an Ax-Crazy homicidal sociopath who is only held back by the Rule of Funny and a tendency to get hurt; Thief, a fugitive prince of elf clan Khee'bler armed with extreme greed and an expertise in manipulative contracts; and Red Mage Statscowski, a so-called strategist who considers life to be a tabletop game, is obsessed with his stats, and was tricked into liking cross dressing. Entry also found in our " }, { emText: 'Fan Projects' }, { text: ' series.' }],
     ],
     primary: {
       tags: ['Optional', 'Unofficial fan project', 'Alternate Universe', 'Webcomic', 'Free'],

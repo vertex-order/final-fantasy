@@ -37,7 +37,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 1
     title: 'Final Fantasy XV', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV', titleDate: '2016-11-29 10',
     mediaDesc: [
       'Takes place on the fictional world of Eos; aside from Insomnia, the capital of Lucis, all the world is dominated by the empire of Niflheim, who seek control of the magical Crystal protected by the Lucian royal family. On the eve of peace negotiations, Niflheim attacks the capital and steals the Crystal. Noctis Lucis Caelum, heir to the Lucian throne, goes on a quest to rescue the Crystal and defeat Niflheim.',
-      [{ text: 'Considered loosely connected to the ' }, { emText: 'Fabula Nova Crystallis – Final Fantasy XIII' }, { text: ' series, you can optionally play that series first. If you plan to watch the ' }, { emText: 'Kingsglaive: Final Fantasy XV (2016)' }, { text: ' movie, the best time is after finishing Chapter 1 of the game.' }],
+      [{ text: 'Considered loosely connected to the ' }, { emText: 'Fabula Nova Crystallis – Final Fantasy XIII' }, { text: ' series, you can optionally play that series first. If you plan to watch the ' }, { emLinkText: 'Kingsglaive: Final Fantasy XV (2016)', emLinkUrl: '#entry-XV-kingsglaive-final-fantasy-xv-2016' }, { text: ' movie, the best time is after finishing Chapter 1 of the game.' }],
     ],
     primary: {
       mainline: true, tags: ['Action RPG', 'Open World', 'Action-based battle', 'Co-op', 'Official mod support'],
@@ -149,7 +149,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 1
     mediaType: 'Audio', chronoOrder: -1200, recommendedOrder: 280,
     title: 'Final Fantasy XV Prologue: Parting Ways', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_~Tabidatsu_Mono,_Nokoru_Mono~', titleDate: '2016-11-01',
     mediaDesc: [
-      [{ text: 'Noctis and his friends were doing just before the events of ' }, { emText: 'XV (2016)' }, { text: ', as Noctis heads to the Citadel to discuss his upcoming journey to Altissia for his wedding to Lunafreya. Also known as ' }, { emText: 'Final Fantasy XV Prologue ~Tabidatsu Mono, Nokoru Mono~' }, { text: '.' }],
+      [{ text: 'Noctis and his friends were doing just before the events of ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: ', as Noctis heads to the Citadel to discuss his upcoming journey to Altissia for his wedding to Lunafreya. Also known as ' }, { emText: 'Final Fantasy XV Prologue ~Tabidatsu Mono, Nokoru Mono~' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Prequel', 'Audio drama'],
@@ -190,7 +190,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 1
     mediaType: 'Movie', chronoOrder: -1000, recommendedOrder: 300,
     title: 'Kingsglaive: Final Fantasy XV', titleUrl: 'https://wikipedia.org/wiki/Kingsglaive:_Final_Fantasy_XV', titleDate: '2016-07-09',
     mediaDesc: [
-      [{ text: 'If you plan to play ' }, { emText: 'XV (2016)' }, { text: ', do chapter 1 of the game first before watching this movie to avoid spoiling early game reveals. Then come back and watch it.' }],
+      [{ text: 'If you plan to play ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: ', do chapter 1 of the game first before watching this movie to avoid spoiling early game reveals. Then come back and watch it.' }],
       [{ text: 'Kingsglaive runs parallel with the events in the beginning of ' }, { emText: 'XV' }, { text: ", focusing on Regis Lucis Caelum CXIII, the father of main character Noctis. The main protagonists are from the Kingsglaive, an elite combat corps who share Regis's magical powers and defend the kingdom of Lucis and its Crystal from the invading empire of Niflheim." }],
     ],
     primary: {
@@ -352,7 +352,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: -3000, recommendedOrder: 500,
     title: 'Platinum Demo – Final Fantasy XV Prologue', titleUrl: 'https://wikipedia.org/wiki/Development_of_Final_Fantasy_XV#Demos', titleDate: '2016-03-30 20',
     mediaDesc: [
-      [{ text: 'Meant as a prologue to ' }, { emText: 'XV (2016)' }, { text: '. Set in a dream world after Noctis is gravely wounded as a child, it follows his journey back to consciousness, guided by a creature called Carbuncle that protects Noctis.' }],
+      [{ text: 'Meant as a prologue to ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '. Set in a dream world after Noctis is gravely wounded as a child, it follows his journey back to consciousness, guided by a creature called Carbuncle that protects Noctis.' }],
       [{ text: 'Due to it being terminated, it is recommended to watch a fan story recap or playthrough for story elements.' }],
     ],
     primary: {
@@ -381,7 +381,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: -4000, recommendedOrder: 600,
     title: 'A King’s Tale: Final Fantasy XV', titleUrl: "https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#A_King's_Tale:_Final_Fantasy_XV", titleDate: '2016-11-29 20',
     mediaDesc: [
-      [{ text: 'Follows the exploits of Regis Lucis Caelum CXIII, the king of Lucis and father of Noctis thirty years before ' }, { emText: 'XV (2016)' }, { text: '’s events. Also known as ' }, { emText: "A King's Tale: Final Fantasy XV" }, { text: ' (straight apostrophe).' }],
+      [{ text: 'Follows the exploits of Regis Lucis Caelum CXIII, the king of Lucis and father of Noctis thirty years before ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '’s events. Also known as ' }, { emText: "A King's Tale: Final Fantasy XV" }, { text: ' (straight apostrophe).' }],
     ],
     primary: {
       tags: ['Optional', 'Prequel', 'Spin-off', 'Beat ’em up'],
@@ -460,7 +460,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 900,
     title: 'Final Fantasy XV: War for Eos', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_War_for_Eos', titleDate: '2022-03-21',
     mediaDesc: [
-      [{ text: 'Picking up where ' }, { emText: 'XV: A New Empire (2017)' }, { text: " left off, focuses on the rebuilding of Insomnia after the Niflheim Empire's attack. Game is terminated." }],
+      [{ text: 'Picking up where ' }, { emLinkText: 'XV: A New Empire (2017)', emLinkUrl: '#entry-XV-final-fantasy-xv-a-new-empire-2017' }, { text: " left off, focuses on the rebuilding of Insomnia after the Niflheim Empire's attack. Game is terminated." }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer', 'Terminated'],
@@ -530,7 +530,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 1
             { key: 'sharp-x1', paren: 'Physical; Japan Only' },
           ],
           versionDesc: [
-            [{ text: 'Released as ' }, { emText: "King's Knight Special" }, { text: '. Unclear whether this builds on the original Famicom release or carries over the improved graphics/audio from the MSX ' }, { emText: 'Remaster (1986)' }, { text: '.' }],
+            [{ text: 'Released as ' }, { emText: "King's Knight Special" }, { text: '. Unclear whether this builds on the original Famicom release or carries over the improved graphics/audio from the MSX ' }, { emLinkText: 'Remaster (1986)', emLinkUrl: '#entry-XV-kings-knight-1986-x-remaster-1986' }, { text: '.' }],
           ],
         },
         {
@@ -626,7 +626,7 @@ window.__ffSeriesReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 1
     mediaType: 'Game', chronoOrder: 3800, recommendedOrder: 970,
     title: 'Justice Monsters Five', titleUrl: 'https://wikipedia.org/wiki/Justice_Monsters_Five', titleDate: '2016-08-30',
     mediaDesc: [
-      [{ text: 'Mobile pinball game based on a minigame from ' }, { emText: 'XV (2016)' }, { text: '. It is terminated.' }],
+      [{ text: 'Mobile pinball game based on a minigame from ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '. It is terminated.' }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Minigame', 'Mobile', 'Pinball', 'Single-player', 'Terminated'],
