@@ -75,8 +75,8 @@ window.__ffSeriesReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder:
               { value: 'EN', tip: 'English (Fan Translation) (ffgriever, DarknessSavior and Tauwasser 2009)' },
             ],
             platforms: [
-              { key: 'playstation2', paren: 'Physical) (Japan only', jpTag: true },
-              { key: 'playstation3', paren: 'PS2 compatibility) (Physical) (Japan only', jpTag: true },
+              { key: 'playstation2', paren: 'Physical', jpTag: true },
+              { key: 'playstation3', paren: 'PS2 compatibility; Physical', jpTag: true },
             ],
             versionDesc: [
               [{ text: 'This edit has twelve license boards (instead of one), controllable guest characters and Espers, a turbo mode, new game+, and new game- (no xp gain). Released as ' }, { emText: 'Final Fantasy XII International Zodiac Job System (2007)' }, { text: '.' }],
