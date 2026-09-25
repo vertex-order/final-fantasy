@@ -23,14 +23,15 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "b44d7e41d5ded87ba3045d9d31c1bfb3d71020cb"
+ref = "2fbbaad5feb2e097b144f3375df6c49f50693345"
 paths = [
   "sync.list.toml",
   "docs/subtitle.md",
   "docs/cache.md",
   "docs/data.md",
   "docs/tooling.md",
-  "docs/responsive.md",
+  "docs/responsive-design.md",
+  "docs/sources.md",
   ".prettierignore",
   "uv.toml",
   "pyproject.toml",
