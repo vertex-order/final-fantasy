@@ -41,6 +41,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 - https://www.playstation.com/games/final-fantasy-vii/
 
+## reddit.com (Information)
+
+- https://old.reddit.com/r/FinalFantasy/comments/1wq7wey/ff7_was_considered_too_big_for_a_cartridge_now/ -- platform -- accessed 2026-09-26
+
 ## Square Enix (Publisher, Developer)
 
 - https://www.square-enix-games.com/games/final-fantasy-vii
