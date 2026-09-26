@@ -34,6 +34,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
 
 - https://store.playstation.com/product/UP0082-CUSA08749_00-FINALFANTASY80NA
 
+## reddit.com (Information)
+
+- https://old.reddit.com/r/FinalFantasy/comments/1wq7wey/ff7_was_considered_too_big_for_a_cartridge_now/ -- platform -- accessed 2026-09-26
+
 ## Square Enix (Publisher, Developer)
 
 - https://www.square-enix-games.com/games/final-fantasy-viii-remastered
