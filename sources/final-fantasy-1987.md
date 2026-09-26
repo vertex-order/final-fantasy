@@ -83,7 +83,7 @@ https://howlongtobeat.com/game/3480
 - https://www.metacritic.com/game/final-fantasy-pixel-remaster/ -- age, platforms, story, ratings* -- accessed 2026-09-19
 - https://www.metacritic.com/game/final-fantasy/ -- age, platforms, story, ratings* -- accessed 2026-09-19
 
-### represents multiple titles
+### Omnibus
 
 - https://www.metacritic.com/game/final-fantasy-pixel-remaster-ff35th-anniversary/ -- age, platforms -- accessed 2026-09-19
 - https://www.metacritic.com/game/final-fantasy-pixel-remaster/ -- age, platforms -- accessed 2026-09-19
