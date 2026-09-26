@@ -265,7 +265,7 @@ window.__ffSeriesReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder:
   },
   {
     mediaType: 'Book', chronoOrder: 7690, recommendedOrder: 860,
-    title: 'Final Fantasy XIV: Side Stories', titleUrl: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes', titleDate: { start: 2014, end: '2026+' },
+    title: 'Final Fantasy XIV: Side Stories', titleUrl: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes', titleDate: { start: 2014, end: 2026, ongoing: true },
     mediaDesc: [
       [{ text: 'Short stories set in the world of Final Fantasy XIV, generally featuring characters from the most recent expansion and publishing around The Rising anniversary events. Later gathered into the print collections ' }, { emText: 'Chronicles of Light' }, { text: ' and its sequel.' }],
     ],
