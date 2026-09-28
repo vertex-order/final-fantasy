@@ -246,7 +246,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
     title: 'Final Fantasy VII Remake ~Part 1~', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake', titleDate: '2020-04-10',
     mediaDesc: [
       'Cloud joins AVALANCHE, an eco-terrorist group trying to stop the megacorporation Shinra from destroying the planet. Covers story set in the metropolis Midgar.',
-      [{ text: 'Enhanced version of the first in a trilogy to completely remake ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the remake trilogy, you can choose to play the original ' }, { emLinkText: 'VII (1997; listed separately)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.' }],
+      [{ text: 'Enhanced version of the first in a trilogy to completely reimagine ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the reimagined trilogy, you can choose to play the original ' }, { emLinkText: 'VII (1997; listed separately)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.' }],
     ],
     primary: {
       mainline: true, tags: ['Trilogy', 'Real-time action'],
@@ -313,7 +313,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
     title: 'Final Fantasy VII Rebirth ~Part 2~', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Rebirth', titleDate: '2024-02-29',
     mediaDesc: [
       'Cloud and AVALANCHE embark on a journey across the planet to oppose Shinra and Sephiroth.',
-      [{ text: 'Second in a trilogy to completely remake ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the remake trilogy, you can choose to play the original ' }, { emLinkText: 'VII (1997; listed separately)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.' }],
+      [{ text: 'Second in a trilogy to completely reimagine ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the reimagined trilogy, you can choose to play the original ' }, { emLinkText: 'VII (1997; listed separately)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.' }],
     ],
     primary: {
       mainline: true, tags: ['Trilogy', 'Real-time action'],
@@ -360,7 +360,7 @@ window.__ffSeriesReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 
     title: 'Final Fantasy VII Revelation ~Part 3~', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Revelation', titleDate: '2027-04-08',
     mediaDesc: [
       'Cloud and AVALANCHE journey to the Northern Crater to combat Shinra, Sephiroth, and an imminent cataclysmic event.',
-      [{ text: 'Not yet released. The final and third in a trilogy to completely remake ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' as an expanded modern RPG with new sensibilities and features. Instead of the remake trilogy, you can choose to play the original ' }, { emLinkText: 'VII (1997; listed separately)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.' }],
+      [{ text: 'Not yet released. The final and third in a trilogy to completely reimagine ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' as an expanded modern RPG with new sensibilities and features. Instead of the reimagined trilogy, you can choose to play the original ' }, { emLinkText: 'VII (1997; listed separately)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.' }],
     ],
     primary: {
       mainline: true, tags: ['Trilogy', 'Real-time action'],
