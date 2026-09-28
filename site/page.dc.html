@@ -738,12 +738,16 @@ class Component extends DCLogic {
   toggleVersions(anchorId) {
     this.setState(s => ({ expandedVersions: { ...s.expandedVersions, [anchorId]: !s.expandedVersions[anchorId] } }));
   }
-  buildPilcrow(anchorId, hasSubtitle) {
+  buildPilcrow(anchorId) {
     return {
       anchorId,
       anchorHref: '#' + anchorId,
-      pilcrowAfterTitle: !hasSubtitle,
-      pilcrowAfterSubtitle: !!hasSubtitle,
+      // Always the title line -- a release's own `subtitle` (if any) is
+      // already one of `parts` on that same EntryTitleLinks line (see
+      // mapTitleParts), so the pilcrow lands after it for free. `byline`
+      // (the tags line) is a different, always-separate line and never
+      // gets the pilcrow, regardless of whether tags are present.
+      pilcrowAfterTitle: true,
       pilcrowOpacity: this.state.hoverAnchor === anchorId ? 1 : 0,
       onAnchorHoverEnter: () => this.setState({ hoverAnchor: anchorId }),
       onAnchorHoverLeave: () => this.setState(s => s.hoverAnchor === anchorId ? { hoverAnchor: null } : null),
@@ -930,11 +934,21 @@ class Component extends DCLogic {
           const text = (approx ? '~' : '') + yr + (ongoing ? '+' : '') + (tba ? '?' : '');
           return [{ text: ' (' + text + ')', tip: dateTipFor(d.start, { approx, ongoing, tba }) }];
         }
+        const startYr = String(d.start).slice(0, 4);
+        const endYr = String(d.end).slice(0, 4);
+        if (startYr === endYr) {
+          // Same-year range: one year, tooltip merges both full dates with
+          // " to " (not '–', which would collide visually with ISO dates'
+          // own '-' separators).
+          const text = (approx ? '~' : '') + startYr + (ongoing ? '+' : '') + (tba ? '?' : '');
+          const tips = [dateTipFor(d.start, { approx }), dateTipFor(d.end, { approx, ongoing, tba })].filter(Boolean);
+          return [{ text: ' (' + text + ')', tip: tips.length ? tips.join(' to ') : undefined }];
+        }
         return [
           { text: ' (' + (approx ? '~' : '') },
-          { text: String(d.start).slice(0, 4), tip: dateTipFor(d.start, { approx }) },
+          { text: startYr, tip: dateTipFor(d.start, { approx }) },
           { text: '–' },
-          { text: String(d.end).slice(0, 4), tip: dateTipFor(d.end, { approx, ongoing, tba }) },
+          { text: endYr, tip: dateTipFor(d.end, { approx, ongoing, tba }) },
           { text: (ongoing ? '+' : '') + (tba ? '?' : '') + ')' },
         ];
       }
@@ -1149,7 +1163,7 @@ class Component extends DCLogic {
       eyebrow: 'SERIES ' + s.num,
       id: 'series-' + s.num,
       anchor: '#series-' + s.num,
-      ...this.buildPilcrow('series-' + s.num, false),
+      ...this.buildPilcrow('series-' + s.num),
       sectionRef: el => { if (el) this.seriesEls[s.num] = el; else delete this.seriesEls[s.num]; },
       noteParas: toProseParas(note),
       media: s.media.map((m, i) => {
@@ -1169,7 +1183,7 @@ class Component extends DCLogic {
             otherLanguages: mapLangs(computeOtherLangs(release.languages, release.versions), release.langOrder),
             anchorId,
             titleJumpClick: null,
-            ...this.buildPilcrow(anchorId, !!(release.tags && release.tags.length)),
+            ...this.buildPilcrow(anchorId),
             langsTopStyle: release.versions ? 'border-top: 1px dashed var(--color-neutral-700); padding-top: 6px;' : '',
             extraPlatforms: extraPlatformsFor(release),
             extraExpanded: !!this.state.expandedVersions[anchorId],
@@ -1180,7 +1194,7 @@ class Component extends DCLogic {
               this.anchorRegistry[verAnchor] = { expandStateKey: 'expandedVersions', parentKey: anchorId };
               return {
                 ...mapVersionCommon(ver, titleSrc),
-                ...this.buildPilcrow(verAnchor, !!(ver.tags && ver.tags.length)),
+                ...this.buildPilcrow(verAnchor),
               };
             }),
           };
@@ -1284,7 +1298,7 @@ class Component extends DCLogic {
       const allSummary = buildSummary(media, null, g => g.checked, g => g.skipped);
       displaySeries = [{
         num: 'ALL', title: SITE.name, navLabel: SITE.name, eyebrow: '', id: 'series-ALL', anchor: '#series-ALL',
-        ...this.buildPilcrow('series-ALL', false),
+        ...this.buildPilcrow('series-ALL'),
         note: allSummary, noteParas: toProseParas(allSummary), media,
         sectionRef: el => { if (el) this.seriesEls['ALL'] = el; else delete this.seriesEls['ALL']; },
       }];
@@ -1309,8 +1323,20 @@ class Component extends DCLogic {
           showCheckbox: false,
           primary: {
             ...g.primary,
+            // g.primary was built by mapRelease against the real entry's
+            // anchor id (anchorId/anchorHref/onAnchorHoverEnter&Leave/
+            // onAnchorClick/pilcrowOpacity all close over it) -- left as-is,
+            // MediaEntry's `id="{{ g.primary.anchorId }}"` would render two
+            // elements sharing one id (this shortcut card and the real
+            // entry further down the page, since pseudoSeries are
+            // prepended), and the first one wins every #hash/getElementById
+            // lookup: title click and the real entry's own pilcrow both
+            // silently land here instead. Rebuild against this card's own
+            // id so none of that leaks; pilcrowAfterTitle is then forced
+            // back off since this shortcut still shouldn't show its own
+            // pilcrow (the title itself jumps to the real entry instead).
+            ...this.buildPilcrow(num + '-' + g.entryKey),
             pilcrowAfterTitle: false,
-            pilcrowAfterSubtitle: false,
             parts: (g.primary.parts || []).map(p => ({ ...p, url: '#' + realAnchorId })),
             titleJumpClick: e => { e.preventDefault(); history.pushState(null, '', '#' + realAnchorId); this.handleHashNav(realAnchorId); },
             ratings: null, length: null,
@@ -1334,13 +1360,13 @@ class Component extends DCLogic {
       });
       return {
         num, title, navLabel: title, eyebrow: '', id: 'series-' + num, anchor: '#series-' + num,
-        ...this.buildPilcrow('series-' + num, false),
+        ...this.buildPilcrow('series-' + num),
         note: note || null, noteParas: toProseParas(note), media,
         sectionRef: el => { if (el) this.seriesEls[num] = el; else delete this.seriesEls[num]; },
       };
     };
     const pseudoSeries = [
-      buildPseudoSeries('Upcoming', 'Upcoming Releases', g => g.upcoming, 'May already have a demo — check platform storefronts. A "?" after a year is our own best guess, not a confirmed date — it stays here, unchanged, until a firm date is announced, however long that takes.', false),
+      buildPseudoSeries('Upcoming', 'Upcoming Releases', g => g.upcoming, 'May already have a demo — check platform storefronts.', false),
       buildPseudoSeries('Recent', 'Recently Released', g => g.recentlyReleased, null, true),
     ].filter(Boolean);
     displaySeries = [...pseudoSeries, ...displaySeries];
@@ -1522,7 +1548,7 @@ class Component extends DCLogic {
     const hideDisplayInMenu = this.state.scrolled && !navShowDisplay;
     const hideProgressInMenu = this.state.scrolled && !!navProgress && !navShowProgress;
     // -------------------------------------------------------------------------
-    const ourOrderAnchor = this.buildPilcrow('our-order', false);
+    const ourOrderAnchor = this.buildPilcrow('our-order');
     const statTotal = (...keys) => keys.reduce((sum, k) => sum + (mediaCounts[k] || 0), 0);
     const statSegments = [
       { keys: ['Game'], label: 'games' },
