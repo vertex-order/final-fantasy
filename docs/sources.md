@@ -127,6 +127,13 @@ differently from the site-grouped pattern below:
     URL with the specific edition page (+ `accessed <date>`). Found
     nothing → keep the line, append `-- no results as of <date>`. Either
     way, the bare unresolved search URL doesn't linger once acted on.
+- **Priority is coverage, not triple-confirmation** — some source per
+  ISBN, `goodreads > google books > open library`. One hit is enough;
+  checking the other two for that ISBN is optional cleanup.
+  - Goodreads already covers most/all of a title's languages → Google
+    Books/Open Library become a "nice to have later," not a full sweep.
+  - Leave those two placeholder lines unresolved when skipped this way —
+    still a todo, just deprioritized.
 
 ### Sources — one flat, deduped list
 
