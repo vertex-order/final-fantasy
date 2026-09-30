@@ -2,6 +2,8 @@
 // schema: site-config.schema.json
 window.SITE_CONFIG = {
   name: "Final Fantasy",
+  groupLabel: "Series",
+  groupLabelPlural: "Series",
   tagline: [
     { text: "A recommended way to experience the Final Fantasy franchise, each series listing the mainline game alongside its prequels, sequels, remakes and spin-offs. Optional extras are marked — skip them and the series still holds together." }
   ],
