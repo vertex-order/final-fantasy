@@ -118,9 +118,10 @@ differently from the site-grouped pattern below:
   representative `languages[]`/rating link over an individual volume,
   when one exists — closer match to how the entry displays (e.g. one
   "4 volumes" unit) than an arbitrary single volume.
-- **Every ISBN'd book label gets 3 lookup links** (ASIN-only books skip
+- **Every ISBN'd book label gets 4 lookup links** (ASIN-only books skip
   these — no ISBN to search):
   - `wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=<isbn>` — permanent, a real portal on its own.
+  - `goodreads: https://www.goodreads.com/search?q=<isbn>` — placeholder.
   - `google books: https://www.google.com/search?tbm=bks&q=isbn:<isbn>` — placeholder.
   - `open library: https://openlibrary.org/search?isbn=<isbn>` — placeholder.
   - Once a placeholder is checked: found something → replace the search
@@ -195,6 +196,10 @@ Default pecking order when multiple sources could back the same fact.
 Default to reach for, not a hard rule — override and say why in
 `## Decisions` when needed.
 
+- **dates** — Wikipedia ≈ a specialized/fan wiki (khwiki, etc.) > other
+  sources (goodreads, amazon, google books, storefronts, ...) — a
+  retailer listing's date commonly drifts a few days from the announced
+  date; treat that drift as noise, not a competing fact
 - **story** — publisher/dev site > platform store page > fan wiki > Wikipedia
 - **platforms** — fan wiki ≈ Wikipedia for describing which platforms;
   a store page only proves *its own* platform's existence (different job)
@@ -216,9 +221,10 @@ defaults to `*`. Default star only where a site is *unconditionally* top
 (a store always proves its own platform exists); context-dependent picks
 (story, versions, which rating site) aren't pre-starred — decide per entry.
 
-- **Wikipedia** — dates, story, platforms, tags, versions
-- **Fandom wikis (+ mirrors)** — dates, platforms\*, tags, versions\*, age
-  — starred: top/tied-top of the platforms/versions pecking order
+- **Wikipedia** — dates\*, story, platforms, tags, versions
+- **Fandom wikis (+ mirrors)** — dates\*, platforms\*, tags, versions\*, age
+  — starred: tied-top of the dates pecking order, top/tied-top of the
+  platforms/versions pecking order
 - **MobyGames** — credits, platforms, regional release info
 - **Metacritic** — ratings\*, story, platforms, age — starred: top of the
   game-ratings order
@@ -283,6 +289,22 @@ source, don't backfill a citation to match it.
 
 Record a choice only when there *was* one (among rating sites, or wikis
 disagreeing). One line each, latest reasoning is enough:
+
+- **Not an editing-history log.** A line states the standing choice and
+  why — it never narrates the edit that produced it ("switched from X to
+  Y", "old link had a bug, fixed it", "re-pasted with fuller data, now
+  confirmed"). If a later edit changes the choice again, overwrite the
+  line in place — don't stack a second entry describing the change on
+  top of the first. Same rule for the rest of the file, not just this
+  section: no session-by-session/edit-history narration anywhere in a
+  `sources/` file — it records what's true and why, not what an editing
+  session did.
+- **AI-authored entries need a human's explicit go-ahead before they're
+  added.** An assistant proposes the line and its reasoning; a human
+  confirms it belongs; only then does it go in `## Decisions`. A
+  proposed-but-unconfirmed line isn't added and left standing on the
+  assumption it'll be caught on review — it doesn't belong in the file
+  until confirmed.
 
 ```md
 ## Decisions
@@ -362,3 +384,7 @@ the source's terms for real.
   cross-source conflicts need a line.
 - Not retroactive — new/edited entries get a sources file going forward,
   no obligation to backfill.
+- Not an editing-history/changelog of AI or human sessions — a
+  `sources/` file states current facts and standing decisions, not a
+  log of what got added, fixed, or re-checked and when. That belongs in
+  commit messages, not the file.
