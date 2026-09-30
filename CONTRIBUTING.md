@@ -6,7 +6,7 @@ edit, preview in a browser, open a PR.
 
 - [Quick start](#quick-start)
 - [Fix or add a game entry](#fix-or-add-a-game-entry) ← the common case
-- [Add, remove, or reorder a series](#add-remove-or-reorder-a-series)
+- [Add, remove, or reorder a group](#add-remove-or-reorder-a-group)
 - [Add a platform / content icon](#add-a-platform--content-icon)
 - [Edit page copy or the FAQ](#edit-page-copy-or-the-faq)
 - [Restyle](#restyle)
@@ -33,11 +33,11 @@ wire up the pre-commit hook (strips image metadata, regenerates
 
 ## Fix or add a game entry
 
-Game data lives in [`site/data/`](site/data/), **one file per series**:
-`series-<SLUG>.js` (e.g. `series-VII.js`, `series-X.js`). Each file assigns
+Game data lives in [`site/data/`](site/data/), **one file per group**:
+`group-<SLUG>.js` (e.g. `group-VII.js`, `group-X.js`). Each file assigns
 
 ```js
-window.__ffSeriesReg['VII'] = { num: 'VII', title: '...', /* ... */, games: [ /* entries */ ] };
+window.__ffGroupReg['VII'] = { num: 'VII', title: '...', /* ... */, games: [ /* entries */ ] };
 ```
 
 The `games` array holds the entries — title, release date, tags, languages,
@@ -46,11 +46,11 @@ field-heavy, so **copy a neighbouring entry in the same file as a template**
 and edit the fields rather than writing one from scratch. The render layer
 picks it up automatically on reload — no rebuild.
 
-## Add, remove, or reorder a series
+## Add, remove, or reorder a group
 
-Edit the `SERIES_ORDER` list in [`site/data/index.js`](site/data/index.js)
+Edit the `GROUP_ORDER` list in [`site/data/index.js`](site/data/index.js)
 (display order, top to bottom). To add one, also create the matching
-`site/data/series-<SLUG>.js` — copy an existing file's structure.
+`site/data/group-<SLUG>.js` — copy an existing file's structure.
 
 ## Add a platform / content icon
 
@@ -60,7 +60,7 @@ are **vendored from kit** (which gets them from
 don't drop a file in here directly. A new platform icon is added in
 `platforms`, following its own contributing guide; once it lands there and
 flows through kit, `just sync-update kit` here pulls it in. Then reference
-it as `images/platforms/yourfile.svg` in a series data file (see the
+it as `images/platforms/yourfile.svg` in a group data file (see the
 `iconImg` fields for examples, and `platform-icons.js` for the canonical
 `iconSize`/`imgStyle` to match).
 
@@ -90,7 +90,7 @@ something there needs to change.
 ## Edit a `.dc.html` component
 
 **Owned here:** only `page.dc.html`. **Everything else** —
-`PlatformIcon.dc.html`, `EntryTitleLinks.dc.html`, `SeriesSection.dc.html`,
+`PlatformIcon.dc.html`, `EntryTitleLinks.dc.html`, `GroupSection.dc.html`,
 `MediaEntry.dc.html`, `BackToTop.dc.html`, and the rest of the render layer
 — is **vendored from
 [`vertex-order/kit`](https://github.com/vertex-order/kit)**; don't hand-edit
@@ -131,7 +131,7 @@ stays local), the platform icons themselves (`images/platforms/`,
 SVG tooling), the `justfile` itself, and CI/editor config with no reason to
 differ per repo. This repo owns nothing another repo pulls.
 
-Every platform-icon reference in `site/data/series-*.js` — 1,407 of them —
+Every platform-icon reference in `site/data/group-*.js` — 1,407 of them —
 was migrated to the canonical `platforms` names, sizes, and rendering model
 (images instead of Bootstrap-icon classes for several platforms; one image
 per Xbox generation instead of a shared icon plus a suffix; the per-entry
@@ -193,7 +193,7 @@ deploy output.
 Scope notes:
 
 - Data corrections/additions (dates, platforms, links, descriptions) are
-  the easy path — edit the relevant `series-<SLUG>.js` entry.
+  the easy path — edit the relevant `group-<SLUG>.js` entry.
 - Vendored files (everything under [Cross-repo sync](#cross-repo-sync)) and
   the generated `components.js`: don't hand-edit.
 
@@ -203,7 +203,7 @@ Split by kind:
 
 - **Code** — `page.dc.html`, `PlatformIcon.dc.html`, and everything vendored
   from kit — is [MIT](LICENSE-CODE), in and out.
-- **`data/` and the page content as displayed** — game entries, series,
+- **`data/` and the page content as displayed** — game entries, groups,
   the FAQ — is published under [CC BY-NC-SA 4.0](LICENSE); you contribute it
   under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), which
   leaves Vertex Order free to run and evolve the project.
@@ -225,8 +225,8 @@ Owned here (edit these):
 site/
 ├── page.dc.html         page shell + render/logic layer
 └── data/
-    ├── index.js          SERIES_ORDER + loader
-    ├── series-*.js       one file per series: all its game entries
+    ├── index.js          GROUP_ORDER + loader
+    ├── group-*.js        one file per group: all its game entries
     └── faq.js            FAQ content
 sync.toml                 cross-repo file-sync manifest
 ```
@@ -243,7 +243,7 @@ site/PlatformIcon.dc.html, site/data/platform-icons.js,
 site/{BackToTop,HelpWanted,DescRun,EntryByline,EntryTitleLinks,
       ExtrasToggle,FAQ,FloatingCorner,FloatingNav,InPageControls,
       LanguageTag,LengthDisplay,MediaEntry,RatingDisplay,
-      SeriesSection,StatusBadge}.dc.html
+      GroupSection,StatusBadge}.dc.html
 scripts/bundle-components.py, scripts/sync.py,
 scripts/{normalize-svg,strip-c2pa,trim-svg}.py, svgo.config.mjs,
 justfile, .editorconfig, .gitattributes, .claude/settings.json,

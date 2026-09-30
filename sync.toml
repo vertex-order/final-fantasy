@@ -7,7 +7,7 @@
 #                 check-vendored.yml fails the PR if any has drifted.
 #
 # This repo publishes nothing — it owns no file another repo vendors. Every
-# platform icon reference in site/data/series-*.js was migrated to the
+# platform icon reference in site/data/group-*.js was migrated to the
 # canonical platforms names/sizes/model in the same pass that added
 # PlatformIcon.dc.html, platform-icons.js, and images/platforms/
 # ([subscribe.platforms] below — pulled directly, not via kit, to avoid an
@@ -23,7 +23,7 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "4398ad4fd1ba89d723733236541fdf339b72b0a1"
+ref = "f5f60bde67bcb343726bf33105d65161481dc763"
 paths = [
   "sync.list.toml",
   "docs/subtitle.md",
@@ -61,7 +61,7 @@ paths = [
   "site/Metadata.dc.html",
   "site/page.dc.html",
   "site/RatingDisplay.dc.html",
-  "site/SeriesSection.dc.html",
+  "site/GroupSection.dc.html",
   "site/StatusBadge.dc.html",
   "scripts/bundle-components.py",
   "scripts/ssr-render.js",
@@ -114,7 +114,7 @@ paths = [
 
 [subscribe.platforms]
 repo = "vertex-order/platforms"
-ref = "02c2cd955dc65e1796b11f41e026938250935d75"
+ref = "6815e58b1f775c2a6f3cc594a7e963911fdb3e21"
 paths = [
   "site/PlatformIcon.dc.html",
   "site/data/platform-icons.js",

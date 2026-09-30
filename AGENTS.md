@@ -43,7 +43,7 @@ renders — it only needs regenerating to keep the committed file diff-clean.
 
 | Editable (owned here) | Vendored from kit — don't hand-edit |
 | --- | --- |
-| `site/data/*.js` (game data, FAQ, series order) | `site/components.js` (generated) |
+| `site/data/*.js` (game data, FAQ, group order) | `site/components.js` (generated) |
 | `site/page.dc.html` | every other `site/*.dc.html`, `site/support.js`, `site/_ds/` |
 | | `site/images/ui/`, `site/images/platforms/`, `site/data/platform-icons.js` |
 | | every `scripts/*.py`, `svgo.config.mjs`, `justfile` |
@@ -58,7 +58,7 @@ per [`sync.toml`](sync.toml) — see AGENTS.md/CONTRIBUTING.md in `platforms`
 or `kit` for the full mechanics (`just sync` / `sync-check` / `sync-update`,
 the three anti-hand-edit guards). `PlatformIcon.dc.html`, `platform-icons.js`,
 and `images/platforms/` are vendored too, as of the platform-icon migration:
-every inline platform-icon object in `site/data/series-*.js` (1,407 of them)
+every inline platform-icon object in `site/data/group-*.js` (1,407 of them)
 was rewritten to the canonical filenames/sizes/model in that same pass.
 
 Not vendored, even though this repo needs its own:

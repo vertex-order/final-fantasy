@@ -1,0 +1,543 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "group.schema.json",
+  "description": "The value one site/data/group-<code>.js file assigns to window.__<prefix>GroupReg['<num>'] (prefix is per-repo, e.g. __ffGroupReg -- out of scope for a schema, which only covers the assigned object literal). `num` should match an entry in this repo's own index.js GROUP_ORDER (schema: index.schema.json) -- a cross-file constraint this single-file schema can't enforce itself.",
+  "type": "object",
+  "properties": {
+    "num": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Short code, e.g. 'I'..'XVI', 'MQ', 'SW', 'CC', 'DFF', 'DM', 'TR', 'EX', 'BE', 'WD', 'PB', 'FAN', 'Other', 'AN' -- per-repo, not a fixed enum."
+    },
+    "title": { "type": "string" },
+    "url": {
+      "type": ["string", "null"],
+      "description": "Group-level wiki link. Omit or null for an unlinked heading."
+    },
+    "note": {
+      "allOf": [{ "$ref": "#/$defs/Prose" }],
+      "description": "Prose blurb under the heading. Same shape as a release's `description`: a bare string (one paragraph), or an array of per-paragraph strings/TextSpan[] runs for inline <em>/<abbr> styling."
+    },
+    "chronoOrder": {
+      "type": "number",
+      "description": "Group sort key for Chronological mode. Defaults to 0 when omitted."
+    },
+    "recommendedOrder": {
+      "type": "number",
+      "description": "Group sort key for Narrative mode (the default). Defaults to 0 when omitted."
+    },
+    "media": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/MediaSlot" },
+      "minItems": 1,
+      "description": "One entry per checkbox-row slot. Renamed from `games` -- this group's items are routinely Books/Comics/Movies/etc, not just Games (see MediaType)."
+    }
+  },
+  "required": ["num", "title", "media"],
+  "additionalProperties": false,
+  "$defs": {
+    "MediaType": {
+      "enum": ["Game", "Book", "Comic", "Movie", "Video", "TV", "Audio", "App"]
+    },
+    "DateString": {
+      "description": "The full-date grammar shared by DateValue's bare-string form and its object form's start/end: a year, year-month, or year-month-day, optionally carrying a two-digit same-day tie-break ord suffix (' 10' / ' 20'); OR a bare year plus a coarser within-year estimate (' early'/' mid'/' late'/' q1'-' q4'); OR a year-month plus a within-month estimate (' early'/' mid'/' late' -- no quarters, a month has no quarters). The estimate suffix never combines with the ord suffix or with day-precision -- it's answering 'roughly when within the smallest unit given', which day-precision already answers exactly.",
+      "type": "string",
+      "pattern": "^(\\d{4}(-\\d{2}(-\\d{2})?)?( \\d{2})?|\\d{4} (early|mid|late|q[1-4])|\\d{4}-\\d{2} (early|mid|late))$"
+    },
+    "DateValue": {
+      "description": "titleDate / subtitleDate. A plain year, a DateString (see that $def for the full grammar, including the early/mid/late/q1-q4 estimate suffix), or an object for the handful of entries that need a range and/or the `approx`/`ongoing`/`tba` flags below. `start`/`end` each accept the same grammar as the bare form -- display still truncates to just the year, but the exact value is kept for entries (e.g. a webcomic's run, or an estimate's tooltip) where it's known. `end` is optional: omit it for a single date that still needs `approx`/`ongoing`/`tba` (a bare integer/string can't carry those). `approx: true` renders/tips the whole value with a leading '~' (`(~2006–2015)`) -- one flag for the whole value, not per-side, since an uncertain range is normally uncertain on both ends together. `ongoing: true` renders/tips a trailing '+' after the last date (`(2006–2015+)`), for a franchise or series expected to have more entries -- distinct from `releaseDate`'s own future-dated / `Upcoming` machinery (docs/upcoming.md), which is about one specific unreleased title, not a series with no announced end. `tba: true` marks a single date (no `end`) as our own best-guess floor, not a publisher-stated date -- renders/tips a trailing '?' instead of `approx`'s '~' (the two never combine -- `tba` always wins, even if `approx` is also set), never auto-clears from Upcoming once its year passes, and its sort position is frozen at the literal value given, never bumped to the current year -- see docs/upcoming.md.",
+      "oneOf": [
+        { "type": "integer" },
+        { "$ref": "#/$defs/DateString" },
+        {
+          "type": "object",
+          "properties": {
+            "start": {
+              "oneOf": [{ "type": "integer" }, { "$ref": "#/$defs/DateString" }]
+            },
+            "end": {
+              "oneOf": [{ "type": "integer" }, { "$ref": "#/$defs/DateString" }]
+            },
+            "approx": {
+              "type": "boolean",
+              "description": "Whole value is approximate -- prefixes the displayed (and tooltip) date(s) with '~'. One flag for the whole range, not split start_approx/end_approx. No effect when `tba` is also set -- see `tba`."
+            },
+            "ongoing": {
+              "type": "boolean",
+              "description": "More entries expected -- a still-active franchise, or a comic/novel series still being published. Suffixes the displayed (and tooltip) last date with '+'."
+            },
+            "tba": {
+              "type": "boolean",
+              "description": "`start` is our own best-guess floor for the next entry, not a publisher-stated date -- suffixes the displayed (and tooltip) date with '?' instead of `approx`'s '~'. Perpetual: never auto-clears from Upcoming just because its year has passed (unlike a firm date, which is trusted and auto-clears), and its sort/display value is frozen exactly as written -- never bumped forward to the current year. That's deliberate: bumping would silently imply the list has been re-checked as current through that whole span, which isn't true -- a stale, still-2027-labeled entry sitting in a 2029 list is a truthful signal that this one hasn't been revisited, not a bug to hide. Only a person clearing `tba` and supplying a real date should ever change how this displays."
+            }
+          },
+          "required": ["start"],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "TextSpan": {
+      "description": "One inline styled run of text (rendered by TextSpan.dc.html as a single <span>: plain/em/abbr/tooltip/linked-em/JP-tag). Used inside a Prose paragraph (description/note). A bare string auto-wraps to {text}.",
+      "oneOf": [
+        { "type": "string" },
+        {
+          "type": "object",
+          "properties": {
+            "text": { "type": "string" },
+            "emText": { "type": "string" },
+            "emLinkText": { "type": "string" },
+            "emLinkUrl": { "type": "string" },
+            "abbrTerm": { "type": "string" },
+            "abbrDef": { "type": "string" },
+            "tipText": { "type": "string" },
+            "hintText": { "type": "string" },
+            "tip": {
+              "type": "string",
+              "description": "Tooltip text. Required alongside tipText/hintText; optional alongside text/emText (e.g. { emText: ' (EU)', tip: 'Europe', helpStyle: 'cursor: help;' })."
+            },
+            "jpTag": {
+              "const": true,
+              "description": "Appends ' (JP)'. Unrelated to a PlatformItem's own jpTag field."
+            },
+            "helpStyle": {
+              "type": "string",
+              "description": "Extra inline CSS on the wrapping span, e.g. 'cursor: help;'."
+            }
+          },
+          "dependentRequired": {
+            "emLinkText": ["emLinkUrl"],
+            "emLinkUrl": ["emLinkText"],
+            "abbrTerm": ["abbrDef"],
+            "abbrDef": ["abbrTerm"],
+            "tipText": ["tip"],
+            "hintText": ["tip"]
+          },
+          "minProperties": 1,
+          "additionalProperties": false
+        }
+      ]
+    },
+    "Prose": {
+      "description": "Shared shape for a release/version's `description` and the group-level `note`: a bare string (one plain paragraph), or an array where each item is a plain string (one paragraph) or a nested TextSpan[] run (one paragraph built from styled parts).",
+      "oneOf": [
+        { "type": "string" },
+        {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              { "type": "string" },
+              {
+                "type": "array",
+                "items": { "$ref": "#/$defs/TextSpan" }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "BylinePart": {
+      "description": "bylineParts[] item -- EntryByline.dc.html's own narrower shape, not the same object as TextSpan.",
+      "oneOf": [
+        {
+          "type": "object",
+          "properties": { "text": { "type": "string" } },
+          "required": ["text"],
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "properties": {
+            "abbrTerm": { "type": "string" },
+            "abbrDef": { "type": "string" }
+          },
+          "required": ["abbrTerm", "abbrDef"],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "LengthPart": {
+      "type": "object",
+      "properties": {
+        "label": {
+          "type": "string",
+          "description": "Prefixes this segment AND implies a line break before it -- a labeled segment always starts its own line (e.g. an FFXI expansion name, or 'Comrades ' before a spin-off mode's own length). Write it as the first key when present, as a visual cue. Redundant (harmless) to also set `br` on the previous segment; the renderer emits at most one line break for the shared boundary either way."
+        },
+        "value": { "type": "string" },
+        "tip": {
+          "type": "string",
+          "description": "Tooltip, e.g. 'Main Story' / 'Main + Extra' / 'Completionist', or a custom tip like 'Solo' / 'Co-op' / 'Vs.'."
+        },
+        "join": {
+          "type": "string",
+          "description": "Overrides the joiner rendered after this segment (default ' / ' between any two consecutive segments, nothing after the last). Rare -- e.g. ', ' before an unrelated segment tacked onto the same line."
+        },
+        "br": {
+          "type": "boolean",
+          "description": "Line break after this segment, no joiner text. See `label` -- setting both on adjoining segments for the same boundary is redundant but harmless."
+        }
+      },
+      "required": ["value"],
+      "additionalProperties": false
+    },
+    "Length": {
+      "description": "A bare string (unstructured, e.g. '224p; P'), or an array of LengthPart segments (e.g. Main Story / Main + Extra / Completionist, joined by ' / ' unless overridden).",
+      "oneOf": [
+        { "type": "string" },
+        { "type": "array", "items": { "$ref": "#/$defs/LengthPart" } }
+      ]
+    },
+    "LanguageItem": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "string",
+          "minLength": 1,
+          "description": "A code from catalogs.js's LANGUAGE_NAMES, or the literal '…?' sentinel. Displayed verbatim as the badge text (with LANGUAGE_NAMES[value] as its tooltip) -- not a pure catalog lookup key like PlatformItem.key, so it keeps its own name rather than being renamed to `key`."
+        },
+        "native": {
+          "type": "boolean",
+          "description": "Marks the original/source language. Auto-appends ' (Native)' to the composed tooltip (see mapLangs in page.dc.html) unless `tip` overrides it -- don't also hand-type '(Native)' into `tip`."
+        },
+        "voice": {
+          "type": "boolean",
+          "description": "Full audio/voiced. Mutually exclusive with textOnly in practice."
+        },
+        "textOnly": { "type": "boolean" },
+        "tip": {
+          "type": "string",
+          "description": "Explicit tooltip override, used verbatim with no auto ' — full audio'/' — text only' suffix."
+        },
+        "url": { "type": "string" }
+      },
+      "required": ["value"],
+      "additionalProperties": false
+    },
+    "PlatformItem": {
+      "type": "object",
+      "properties": {
+        "key": {
+          "type": "string",
+          "description": "Looked up in platform-icons.js's PLATFORM_ICONS to merge in iconImg/iconSize/imgStyle/jpTag/base name."
+        },
+        "url": {
+          "type": ["string", "null"],
+          "description": "This release's own link. Unset falls back to the enclosing release/version's own `platformsUrl` if it has one."
+        },
+        "name": {
+          "type": "string",
+          "description": "Full override of the displayed label, bypassing the catalog base-label + paren composition -- only legitimate on a key platform-icons.js flags `nameOverride: true` for (a categorically different medium word `paren` can't produce, e.g. `book`'s 'Manga'/'Short Stories', since `paren` only ever appends). scripts/validate-data.py fails a `name` on any other key -- use `paren` instead."
+        },
+        "paren": {
+          "type": "string",
+          "description": "Appends \" (<paren>)\" to the catalog's base label. Mutually exclusive with `name` in practice (name wins if both given)."
+        },
+        "jpTag": {
+          "type": "boolean",
+          "description": "Shows the visible '(jp)' marker AND auto-appends ' (Japan Only)' to the composed tooltip -- don't also hand-type '(Japan Only)' into `name`/`paren`."
+        },
+        "nonJpTag": {
+          "type": "boolean",
+          "description": "Shows the visible '(non-jp)' marker AND auto-appends ' (Non-Japan Only)' to the composed tooltip -- don't also hand-type it into `name`/`paren`."
+        },
+        "terminated": {
+          "type": "boolean",
+          "description": "Dims + strikes through the icon AND auto-appends '; terminated' to the composed tooltip -- don't also hand-type 'terminated' into `name`/`paren`."
+        },
+        "noResults": {
+          "type": "boolean",
+          "description": "Dims the icon (same as `terminated`, no strike) AND auto-appends '; no results yet' to the composed tooltip -- don't also hand-type it, and there is no separate opacity override (every real use was the same dim level)."
+        },
+        "strikeColor": { "type": "string" },
+        "prefix": {
+          "type": "string",
+          "description": "Short text prefix before the icon (unlinked-icon render path), e.g. 'U' for an UltraHD Blu-ray variant."
+        },
+        "icon": {
+          "type": "string",
+          "description": "Bootstrap Icons class, alternative to iconImg."
+        },
+        "iconImg": { "type": "string" },
+        "iconSize": { "type": "number" },
+        "imgStyle": { "type": "string" },
+        "text": {
+          "type": "string",
+          "description": "Plain text badge instead of an icon."
+        },
+        "suffix": { "type": "string" },
+        "suffixFontSize": { "type": "string" },
+        "suffixOffsetY": { "type": "number" },
+        "suffixSmallCaps": { "type": "boolean" },
+        "search": {
+          "enum": ["youtube", "duckduckgo"],
+          "description": "Computes `url` as a search instead of stating the encoded URL by hand. Requires `term`."
+        },
+        "term": {
+          "type": "string",
+          "description": "The search query text (near-required alongside `search` -- default results are poor with none)."
+        },
+        "searchSuffix": {
+          "type": "string",
+          "description": "Overrides the per-key default suffix word(s) appended after `term` (platform-icons.js's own `searchSuffix`, e.g. fan-movie -> 'game movie'). '' suppresses it entirely."
+        }
+      },
+      "dependentRequired": { "term": ["search"], "search": ["term"] },
+      "additionalProperties": false
+    },
+    "RatingItem": {
+      "type": "object",
+      "properties": {
+        "key": {
+          "type": "string",
+          "description": "Looked up in catalogs.js's RATING_KINDS. Score-mode entries supply `label` (a tooltip, e.g. 'Metacritic'); badge-mode entries (`textOnly: true` in the catalog, e.g. 'nyr'/'tbd'/'favorable'/'unfavorable') supply `abbrTerm`/`abbrDef` or a bare `score` -- either way an entry states only `key`, never repeats the catalog's own text. Special-cased 'steam' (score is a STEAM_REVIEW_LABELS abbreviation)."
+        },
+        "score": {
+          "type": "string",
+          "description": "Required unless `key`'s catalog entry already supplies one (a textOnly badge kind)."
+        },
+        "url": { "type": "string" },
+        "label": {
+          "type": "string",
+          "description": "Explicit tooltip override for score-mode, or explicit badge text for badge-mode -- the escape hatch for a rating source with no RATING_KINDS entry at all."
+        },
+        "textOnly": {
+          "type": "boolean",
+          "description": "Plain text/abbr badge, not a link. Implied automatically when `key`'s catalog entry has textOnly:true -- set directly only for a genuine one-off with no catalog key (rare after `favorable`/`unfavorable` were added; prefer a catalog key over this)."
+        },
+        "abbrTerm": { "type": "string" },
+        "abbrDef": { "type": "string" }
+      },
+      "anyOf": [
+        { "required": ["score"] },
+        { "required": ["textOnly"] },
+        { "required": ["key"] }
+      ],
+      "additionalProperties": false
+    },
+    "MediaSlot": {
+      "description": "One item in `media[]` -- one checkbox-row slot. `mediaType`/`chronoOrder`/`recommendedOrder`/`title`/`titleUrl`/`titleDate` live here exactly once, since they describe the slot itself (what kind of media this is, where it sits in the timeline) independent of which specific edition is currently `primary` -- promoting an edition never requires touching them. `title`/`titleUrl`/`titleDate` are also this slot's inheritance root: `primary`, each `alts[]` item, and each of their `versions[]` items may each independently omit their own and inherit -- chained (a versions[] item inherits from its own release if that release set an override, else from this slot), not flat, so a genuinely distinct-titled alt's own versions[] still inherit the alt's title, not the slot's. `primary` is the checkbox row; `alts[]` are inline \"or <title>\" rows on the same line, in display order.",
+      "type": "object",
+      "properties": {
+        "mediaType": { "$ref": "#/$defs/MediaType" },
+        "chronoOrder": {
+          "type": "number",
+          "description": "Sort key for Chronological mode (mode B), read as `slot.chronoOrder ?? 0`. Distinct from the group-level chronoOrder on the enclosing group file."
+        },
+        "recommendedOrder": {
+          "type": "number",
+          "description": "Sort key for Narrative mode (the default), read as `slot.recommendedOrder ?? 0`. Distinct from the group-level recommendedOrder on the enclosing group file."
+        },
+        "title": { "type": "string" },
+        "titleUrl": { "type": ["string", "null"] },
+        "titleDate": { "$ref": "#/$defs/DateValue" },
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+          "description": "Manual override of this slot's derived slug/anchor id (title + release year). Currently unused in real data but a valid escape hatch."
+        },
+        "mediaDesc": {
+          "allOf": [{ "$ref": "#/$defs/Prose" }],
+          "description": "Plot/franchise-level prose describing the thing itself, independent of edition -- lives here exactly once for the same reason mediaType/title do, so it never needs copying when `primary` changes. Renders once, alongside primary's own `versionDesc` (never repeated on alts/versions[] rows)."
+        },
+        "primary": { "$ref": "#/$defs/ReleaseDetails" },
+        "alts": {
+          "type": "array",
+          "items": {
+            "allOf": [
+              { "$ref": "#/$defs/ReleaseDetails" },
+              {
+                "anyOf": [
+                  { "required": ["title"] },
+                  { "required": ["subtitle"] }
+                ],
+                "description": "Unlike `primary` (which can ride the slot's own title as the featured version) and a `versions[]` item (which can inherit silently), an alts[] item exists only to be its own inline \"or <title>\" row -- it must carry a title or subtitle of its own. A titleless alt that merely wraps `versions[]` is a data bug (those versions belong on `primary.versions` instead), not a display case to accommodate."
+              }
+            ]
+          },
+          "minItems": 1,
+          "description": "Inline \"or <title>\" rows on the same slot -- omit entirely when there are none (most slots). Every item must have its own title or subtitle (see the item schema) -- there's no such thing as a titleless alt."
+        }
+      },
+      "required": ["title", "primary"],
+      "additionalProperties": false
+    },
+    "VersionDetails": {
+      "description": "The content shape for one `versions[]` item (a release's own collapsible \"other versions and platforms\" list) -- subtitle through listItems, plus an optional title/titleUrl/titleDate override. Recursion is bounded: a VersionDetails has no `versions`/`alts` of its own (only ReleaseDetails does, one level).",
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "titleUrl": { "type": ["string", "null"] },
+        "titleDate": { "$ref": "#/$defs/DateValue" },
+        "subtitle": { "type": "string" },
+        "subtitleUrl": { "type": ["string", "null"] },
+        "subtitleDate": { "$ref": "#/$defs/DateValue" },
+        "pinned": {
+          "type": "boolean",
+          "description": "Auto-sorted reverse release order (most to least recent, by this entry's own subtitleDate/titleDate, falling back to the enclosing release's title date for a bare inheriting entry) is the default -- set true only for the rare platform-availability exception that needs to jump ahead of every non-pinned entry. Multiple pinned entries keep the same reverse-release order relative to each other, not authoring order."
+        },
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+          "description": "Manual override of the derived slug/anchor id. Currently unused in real data but a valid escape hatch."
+        },
+        "label": {
+          "type": "string",
+          "description": "Deprecated/legacy freeform display text, paired with `url`. Still rendered ahead of the title/subtitle output when present -- prefer title/subtitle for new entries."
+        },
+        "url": {
+          "type": "string",
+          "description": "Deprecated/legacy link paired with `label`. Distinct from platformsUrl/profileUrl."
+        },
+        "mainline": {
+          "type": "boolean",
+          "description": "Counted for the intro's mainlineCount stat, read off the slot's `primary`."
+        },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Free-text byline words (joined with ' · ' unless bylineParts is set). 'Expansion' and 'DLC' reclassify a Game for stats-counting; 'Optional' excludes a release from the release-order pseudo-group's earliest-date computation. Everything else is display text only -- do not enum-restrict."
+        },
+        "bylineParts": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/BylinePart" },
+          "description": "Alternative to a tags-derived byline, for an inline <abbr> in the byline. Wins over tags for display; tags are still read for their 'Expansion'/'DLC'/'Optional' semantics even when this is set."
+        },
+        "ratings": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/RatingItem" },
+          "minItems": 1,
+          "description": "One item per independently-resolved score/badge source -- no fixed critic/user slots, no separate score-link-vs-badge object shapes. Renamed from the singular `rating`."
+        },
+        "length": { "$ref": "#/$defs/Length" },
+        "helpWanted": { "type": "boolean" },
+        "noCheckbox": { "type": "boolean" },
+        "platforms": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/PlatformItem" },
+          "description": "Flat -- no grouping. (Grouping used to control flex-wrap positions, but every render path already flattens it via `.flat()` before display and re-sorts by catalog order regardless of source order, so it had zero effect on the rendered output; dropped rather than kept as unused structure.)"
+        },
+        "platformsUrl": {
+          "type": "string",
+          "description": "Fallback URL for any `platforms` item lacking its own url, on this same release/version."
+        },
+        "profileUrl": {
+          "type": "string",
+          "description": "\"Profile ↗\" link next to the Platforms label header. Renamed from `storeUrl` to match its own rendered label."
+        },
+        "languages": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/LanguageItem" }
+        },
+        "langOrder": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Per-entry override of the default language sort-priority order (default ['JA','EN'])."
+        },
+        "versionDesc": {
+          "allOf": [{ "$ref": "#/$defs/Prose" }],
+          "description": "Prose describing what's specific to *this* edition (a remaster's changes, a port's differences, or just \"The original release.\") -- as opposed to mediaDesc's plot/franchise-level text on the enclosing MediaSlot. Present on every self-contained release/version node (primary, each alts[] item, each versions[] item), never inherited."
+        },
+        "listTitle": {
+          "type": "string",
+          "description": "FFXI-style linked heading rendered as a plain <ul> under the description, alongside listItems."
+        },
+        "listTitleUrl": { "type": "string" },
+        "listItems": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Plain strings only, no parts support."
+        }
+      },
+      "additionalProperties": false
+    },
+    "ReleaseDetails": {
+      "description": "A `primary` or `alts[]` item: the same content shape as VersionDetails (kept as a literal duplicate of its `properties` here, not an `allOf`/$ref composition, because scripts/validate-data.py's hand-rolled validator doesn't implement `unevaluatedProperties` and an `allOf` branch's own `additionalProperties: false` would wrongly reject this def's extra `versions` field), plus its own collapsible `versions[]` (\"other versions and platforms\" toggle list). Each release has an independent versions[] -- not shared across the enclosing MediaSlot. Keep this in sync with VersionDetails by hand if either changes.",
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "titleUrl": { "type": ["string", "null"] },
+        "titleDate": { "$ref": "#/$defs/DateValue" },
+        "subtitle": { "type": "string" },
+        "subtitleUrl": { "type": ["string", "null"] },
+        "subtitleDate": { "$ref": "#/$defs/DateValue" },
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+          "description": "Manual override of the derived slug/anchor id. Currently unused in real data but a valid escape hatch."
+        },
+        "label": {
+          "type": "string",
+          "description": "Deprecated/legacy freeform display text, paired with `url`. Still rendered ahead of the title/subtitle output when present -- prefer title/subtitle for new entries."
+        },
+        "url": {
+          "type": "string",
+          "description": "Deprecated/legacy link paired with `label`. Distinct from platformsUrl/profileUrl."
+        },
+        "mainline": {
+          "type": "boolean",
+          "description": "Counted for the intro's mainlineCount stat, read off the slot's `primary`."
+        },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Free-text byline words (joined with ' · ' unless bylineParts is set). 'Expansion' and 'DLC' reclassify a Game for stats-counting; 'Optional' excludes a release from the release-order pseudo-group's earliest-date computation. Everything else is display text only -- do not enum-restrict."
+        },
+        "bylineParts": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/BylinePart" },
+          "description": "Alternative to a tags-derived byline, for an inline <abbr> in the byline. Wins over tags for display; tags are still read for their 'Expansion'/'DLC'/'Optional' semantics even when this is set."
+        },
+        "ratings": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/RatingItem" },
+          "minItems": 1,
+          "description": "One item per independently-resolved score/badge source -- no fixed critic/user slots, no separate score-link-vs-badge object shapes. Renamed from the singular `rating`."
+        },
+        "length": { "$ref": "#/$defs/Length" },
+        "helpWanted": { "type": "boolean" },
+        "noCheckbox": { "type": "boolean" },
+        "platforms": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/PlatformItem" },
+          "description": "Flat -- no grouping. (Grouping used to control flex-wrap positions, but every render path already flattens it via `.flat()` before display and re-sorts by catalog order regardless of source order, so it had zero effect on the rendered output; dropped rather than kept as unused structure.)"
+        },
+        "platformsUrl": {
+          "type": "string",
+          "description": "Fallback URL for any `platforms` item lacking its own url, on this same release/version."
+        },
+        "profileUrl": {
+          "type": "string",
+          "description": "\"Profile ↗\" link next to the Platforms label header. Renamed from `storeUrl` to match its own rendered label."
+        },
+        "languages": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/LanguageItem" }
+        },
+        "langOrder": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Per-entry override of the default language sort-priority order (default ['JA','EN'])."
+        },
+        "versionDesc": {
+          "allOf": [{ "$ref": "#/$defs/Prose" }],
+          "description": "Prose describing what's specific to *this* edition (a remaster's changes, a port's differences, or just \"The original release.\") -- as opposed to mediaDesc's plot/franchise-level text on the enclosing MediaSlot. Present on every self-contained release/version node (primary, each alts[] item, each versions[] item), never inherited."
+        },
+        "listTitle": {
+          "type": "string",
+          "description": "FFXI-style linked heading rendered as a plain <ul> under the description, alongside listItems."
+        },
+        "listTitleUrl": { "type": "string" },
+        "listItems": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Plain strings only, no parts support."
+        },
+        "versions": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/VersionDetails" },
+          "minItems": 1
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}
