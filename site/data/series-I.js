@@ -6,7 +6,7 @@ window.__ffSeriesReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100,
     mediaType: 'Game', chronoOrder: -3000, recommendedOrder: 500,
     title: 'Stranger of Paradise: Final Fantasy Origin', titleUrl: 'https://wikipedia.org/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin', titleDate: '2022-03-18',
     mediaDesc: [
-      'Warriors Jack, Ash and Jed venture forth to defeat Chaos and save their world. But not all is as it seems. Online co-op play may require an additional subscription on some platforms.',
+      'Warriors Jack, Ash and Jed venture forth to defeat Chaos and save their world. But not all is as it seems. Some areas deliberately draw inspiration from other titles. Online co-op play may require an additional subscription on some platforms.',
     ],
     primary: {
       tags: ['Prequel', 'Optional', 'Alternate Universe', 'Jobs', 'Co-op'],
