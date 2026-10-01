@@ -392,7 +392,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 350, recommendedOrder: 900,
+    mediaType: 'Game', chronoOrder: 350, recommendedOrder: 100,
     title: 'Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII', titleDate: '1997-01-31',
     mediaDesc: [
       'Cloud joins AVALANCHE, an eco-terrorist group trying to stop the megacorporation Shinra from destroying the planet.',
@@ -581,7 +581,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 1200,
+    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 200,
     title: 'The Maiden Who Travels The Planet', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Related_media', titleDate: '2005-09-09',
     mediaDesc: [
       ["A novella describing Aerith's journey through the Lifestream and the ending for the original ", { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, ' game. Divided into seven chapters, it follows Aerith as she encounters other spirits in the Lifestream, including Jessie, Biggs, Wedge, Dyne, President Shinra, Professor Hojo, and Zack Fair.'],
@@ -609,7 +609,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1000, recommendedOrder: 1300,
+    mediaType: 'Book', chronoOrder: 1000, recommendedOrder: 300,
     title: 'Final Fantasy VII: On the Way to a Smile', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile', titleDate: '2005-09-05',
     mediaDesc: [
       ['Seven short stories centered on the characters from ', { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, ' and meant to take place before ', { emLinkText: 'Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }, ' compiled into an omnibus collection book.'],
@@ -668,7 +668,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     ],
   },
   {
-    mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 1400,
+    mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 400,
     title: 'Final Fantasy VII: The Kids Are Alright: A Turks Side Story', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', titleDate: '2011-01-01',
     mediaDesc: [
       ['Taking place a short time before ', { emLinkText: 'Final Fantasy VII: Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }],
@@ -703,7 +703,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Movie', chronoOrder: 2000, recommendedOrder: 1500,
+    mediaType: 'Movie', chronoOrder: 2000, recommendedOrder: 500,
     title: 'Final Fantasy VII: Advent Children', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children', titleDate: '2005-09-14 20',
     mediaDesc: [
       [{ text: 'Two years after ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' Cloud must rescue children infected with the unexplained disease called Geostigma.' }],
