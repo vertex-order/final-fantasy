@@ -771,26 +771,28 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
         [{ emText: 'Complete Edition' }, { text: ' (extra 26 minutes) with higher visual quality and many scene and some story revisions.' }],
       ],
     },
-    alts: [
-      {
-        title: 'Final Fantasy VII: Advent Children - The Novel', titleUrl: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children', titleDate: 2005,
-        subtitle: 'Book',
-        languages: [
-          { value: 'EN', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children' },
-        ],
-        length: '71p; P',
-        profileUrl: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children',
-        ratings: [
-          { score: '3.67', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children', key: 'goodreads' },
-        ],
-        platforms: [
-          { key: 'book', name: 'Novel', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children' },
-        ],
-        versionDesc: [
-          ['A novelization of ', { emLinkText: 'Final Fantasy VII: Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }, '.'],
-        ],
-      },
+  },
+  {
+    mediaType: 'Book', chronoOrder: 2100, recommendedOrder: 550,
+    title: 'Final Fantasy VII: Advent Children - The Novel', titleUrl: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children', titleDate: 2005,
+    mediaDesc: [
+      ['A novelization of ', { emLinkText: 'Final Fantasy VII: Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }, '.'],
     ],
+    primary: {
+      tags: ['Optional'],
+      subtitle: 'Book',
+      languages: [
+        { value: 'EN', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children' },
+      ],
+      length: '71p; P',
+      profileUrl: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children',
+      ratings: [
+        { score: '3.67', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children', key: 'goodreads' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Novel', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children' },
+      ],
+    },
   },
   {
     mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 1600,
