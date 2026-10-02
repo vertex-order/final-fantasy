@@ -43,9 +43,9 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' },
         { key: 'amazon', url: 'https://www.amazon.com/dp/B099KBVZW1?' },
-        { key: 'fan-movie', search: 'youtube', term: 'final fantasy III' },
-        { key: 'fan-recap', search: 'youtube', term: 'final fantasy III' },
-        { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy III' },
+        { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy III' },
+        { key: 'fan-recap', search: 'youtube', searchTitle: 'final fantasy III' },
+        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy III' },
       ],
       versions: [
         {
@@ -190,7 +190,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
           key: 'fan-translation',
           url: 'https://duckduckgo.com/?q=Y%C5%ABky%C5%AB%20no%20Kaze%20Densetsu%20Final%20Fantasy%20III%20Legend%20of%20the%20Eternal%20Wind%3A%20from%20Final%20Fantasy%20III%20translation&t=h_&ia=web',
         },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Yūkyū no Kaze Densetsu Final Fantasy III Yori', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Yūkyū no Kaze Densetsu Final Fantasy III Yori', noResults: true },
       ],
     },
   },
@@ -214,7 +214,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
       ],
       platforms: [
         { key: 'book', name: 'Short Stories' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy I・II・III: Memory of Heroes', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy I・II・III: Memory of Heroes', noResults: true },
         {
           key: 'fan-audiobook',
           paren: 'Youtube',

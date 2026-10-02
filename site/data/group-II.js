@@ -43,9 +43,9 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-ii/9p8s1mn4066k?' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/final-fantasy-ii/9p8s1mn4066k?' },
         { key: 'amazon', url: 'https://www.amazon.com/dp/B09959P64G?' },
-        { key: 'fan-movie', search: 'youtube', term: 'final fantasy II' },
-        { key: 'fan-recap', search: 'youtube', term: 'final fantasy II' },
-        { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy II' },
+        { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy II' },
+        { key: 'fan-recap', search: 'youtube', searchTitle: 'final fantasy II' },
+        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy II' },
       ],
       versionDesc: [
         'This remaster has redrawn sprites, rearranged music, several UI improvements, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
@@ -190,7 +190,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
           key: 'fan-translation',
           url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Muma%20no%20Meiky%C5%AB%20Nightmare%27s%20Labyrinth%20translation&t=h_',
         },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy II Muma no Meikyū', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy II Muma no Meikyū', noResults: true },
       ],
     },
   },
@@ -212,8 +212,8 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       ],
       platforms: [
         { key: 'book', name: 'Gamebook', jpTag: true },
-        { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy II Hihō no Dragon', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy II: Dragon Treasures', noResults: true },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy II Hihō no Dragon', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy II: Dragon Treasures', noResults: true },
       ],
     },
   },
@@ -232,8 +232,8 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       helpWanted: true,
       platforms: [
         { key: 'book', name: 'Gamebook', jpTag: true },
-        { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy II Shōri e no Tabidachi', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy II: Journey to Victory', noResults: true },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy II Shōri e no Tabidachi', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy II: Journey to Victory', noResults: true },
       ],
     },
   },
@@ -253,8 +253,8 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       helpWanted: true,
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true },
-        { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy II manga', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy II manga', noResults: true },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy II manga', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy II manga', noResults: true },
       ],
     },
   },
@@ -278,7 +278,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       ],
       platforms: [
         { key: 'book', name: 'Short Stories' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy I・II・III: Memory of Heroes', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy I・II・III: Memory of Heroes', noResults: true },
         {
           key: 'fan-audiobook',
           paren: 'Youtube',
