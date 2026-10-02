@@ -20,7 +20,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 15
       ],
       length: [{ value: '6h', tip: 'Main Story', join: ' / ' }, { value: '22½h', tip: 'Main + Extra', join: ' / ' }, { value: '55½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'fan-playthrough', search: 'youtube', term: 'Theatrhythm Final Fantasy' },
+        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Theatrhythm Final Fantasy' },
         { key: 'apple', terminated: true },
         { key: 'nintendo-3ds', paren: 'No Digital' },
       ],
@@ -47,7 +47,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 15
       ],
       length: [{ value: '11½h', tip: 'Main Story', join: ' / ' }, { value: '36h', tip: 'Main + Extra', join: ' / ' }, { value: '103h', tip: 'Completionist' }],
       platforms: [
-        { key: 'fan-playthrough', search: 'youtube', term: 'Theatrhythm Final Fantasy: Curtain Call' },
+        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Theatrhythm Final Fantasy: Curtain Call' },
         { key: 'nintendo-3ds' },
       ],
     },
@@ -65,7 +65,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 15
         { value: 'EN', tip: 'English (JP version; most menus)' },
       ],
       platforms: [
-        { key: 'fan-playthrough', search: 'youtube', term: 'Theatrhythm Final Fantasy All-Star Carnival' },
+        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Theatrhythm Final Fantasy All-Star Carnival' },
         { key: 'arcade', jpTag: true },
       ],
     },
@@ -93,8 +93,8 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 15
         { score: '8.8', url: 'https://www.metacritic.com/game/theatrhythm-final-bar-line/', key: 'metacritic-user' },
       ],
       platforms: [
-        { key: 'fan-movie', search: 'youtube', term: 'Theatrhythm Final Bar Line' },
-        { key: 'fan-playthrough', search: 'youtube', term: 'Theatrhythm Final Bar Line' },
+        { key: 'fan-movie', search: 'youtube', searchTitle: 'Theatrhythm Final Bar Line' },
+        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Theatrhythm Final Bar Line' },
         { key: 'nintendo-switch', paren: 'Digital', url: 'https://www.nintendo.com/store/products/theatrhythm-final-bar-line-switch/' },
         {
           key: 'nintendo-switch-2',

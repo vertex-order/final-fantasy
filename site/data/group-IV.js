@@ -45,9 +45,9 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/final-fantasy-iv/9n8c07ss8c9d?' },
         { key: 'amazon', url: 'https://www.amazon.com/dp/B09D2Y1CHH?' },
-        { key: 'fan-movie', search: 'youtube', term: 'final fantasy IV' },
-        { key: 'fan-recap', search: 'youtube', term: 'final fantasy IV' },
-        { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy IV' },
+        { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy IV' },
+        { key: 'fan-recap', search: 'youtube', searchTitle: 'final fantasy IV' },
+        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy IV' },
       ],
       versions: [
         {
@@ -248,8 +248,8 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
       ],
       platforms: [
         { key: 'book', name: 'Novel', jpTag: true },
-        { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy IV ~Novel~ Vol.1', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy IV ~Novel~ Vol.1', noResults: true },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy IV ~Novel~ Vol.1', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy IV ~Novel~ Vol.1', noResults: true },
       ],
     },
     alts: [
@@ -287,8 +287,8 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
       ],
       platforms: [
         { key: 'book', name: 'Novel', jpTag: true },
-        { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy IV ~Novel~ Vol.2', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy IV ~Novel~ Vol.2', noResults: true },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy IV ~Novel~ Vol.2', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy IV ~Novel~ Vol.2', noResults: true },
       ],
     },
   },
@@ -312,9 +312,9 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
       ],
       length: [{ value: '2½h', tip: 'Main Story', join: ' / ' }, { value: '3h', tip: 'Main + Extra', join: ' / ' }, { value: '3h', tip: 'Completionist' }],
       platforms: [
-        { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy IV Interlude' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy IV Interlude', noResults: true },
-        { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy IV Interlude' },
+        { key: 'fan-movie', search: 'youtube', searchTitle: 'Final Fantasy IV Interlude' },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy IV Interlude', noResults: true },
+        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy IV Interlude' },
         { key: 'playstation-portable', paren: 'Physical' },
       ],
       versionDesc: [
@@ -342,9 +342,9 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
       ],
       length: [{ value: '35½h', tip: 'Main Story', join: ' / ' }, { value: '46½h', tip: 'Main + Extra', join: ' / ' }, { value: '108h', tip: 'Completionist' }],
       platforms: [
-        { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy IV: The After Years' },
-        { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy IV: The After Years' },
-        { key: 'fan-playthrough', search: 'youtube', term: 'Final Fantasy IV: The After Years' },
+        { key: 'fan-movie', search: 'youtube', searchTitle: 'Final Fantasy IV: The After Years' },
+        { key: 'fan-recap', search: 'youtube', searchTitle: 'Final Fantasy IV: The After Years' },
+        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy IV: The After Years' },
         { key: 'playstation-portable', paren: 'Physical' },
       ],
       versions: [
@@ -423,8 +423,8 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
       ],
       platforms: [
         { key: 'book', name: 'Novel', jpTag: true },
-        { key: 'fan-translation', search: 'duckduckgo', term: 'Final Fantasy IV: The After ~Novel~', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy IV: The After ~Novel~', noResults: true },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy IV: The After ~Novel~', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy IV: The After ~Novel~', noResults: true },
       ],
     },
   },

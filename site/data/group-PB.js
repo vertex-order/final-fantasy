@@ -21,7 +21,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 17
       ],
       platforms: [
         { key: 'book', name: 'Picture Book' },
-        { key: 'fan-movie', search: 'youtube', term: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky reading", searchSuffix: '' },
+        { key: 'fan-movie', search: 'youtube', searchTitle: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky reading", searchSuffix: '' },
       ],
     },
   },
@@ -47,7 +47,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 17
       ],
       platforms: [
         { key: 'book', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092031' },
-        { key: 'fan-movie', search: 'youtube', term: 'Chocobo and the Airship: A Final Fantasy Picture Book reading', searchSuffix: '' },
+        { key: 'fan-movie', search: 'youtube', searchTitle: 'Chocobo and the Airship: A Final Fantasy Picture Book reading', searchSuffix: '' },
       ],
     },
   },
@@ -72,7 +72,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 17
       ],
       platforms: [
         { key: 'book', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' },
-        { key: 'fan-movie', search: 'youtube', term: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift reading', searchSuffix: '' },
+        { key: 'fan-movie', search: 'youtube', searchTitle: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift reading', searchSuffix: '' },
       ],
     },
   },
@@ -101,7 +101,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 17
           key: 'fan-movie',
           paren: 'Youtube',
           search: 'youtube',
-          term: 'Final Fantasy XIV Picture Book: Me and the Cornservant reading',
+          searchTitle: 'Final Fantasy XIV Picture Book: Me and the Cornservant reading',
           searchSuffix: '',
           noResults: true,
         },

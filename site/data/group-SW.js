@@ -36,7 +36,7 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 950
         { key: 'blu-ray-ultra-hd', prefix: 'U' },
         { key: 'blu-ray' },
         { key: 'dvd' },
-        { key: 'fan-recap', search: 'youtube', term: 'Final Fantasy The Spirits Within' },
+        { key: 'fan-recap', search: 'youtube', searchTitle: 'Final Fantasy The Spirits Within' },
       ],
     },
   },
@@ -58,7 +58,7 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 950
       ],
       platforms: [
         { key: 'book', name: 'Novel' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy The Spirits Within Novel Dean Wesley Smith', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy The Spirits Within Novel Dean Wesley Smith', noResults: true },
       ],
     },
     alts: [
@@ -75,7 +75,7 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 950
         ],
         platforms: [
           { key: 'book', name: 'YA Novel' },
-          { key: 'fan-recap', paren: 'Youtube', search: 'youtube', term: 'Final Fantasy The Spirits Within YA Novel John Vornholt', noResults: true },
+          { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy The Spirits Within YA Novel John Vornholt', noResults: true },
         ],
         versionDesc: [
           [{ text: 'Different novelization as YA Novel of the ' }, { emLinkText: 'Final Fantasy: The Spirits Within (2001)', emLinkUrl: '#entry-SW-final-fantasy-the-spirits-within-2001' }, { text: ' movie, written by John Vornholt.' }],

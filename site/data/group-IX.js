@@ -37,9 +37,9 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 900
         { key: 'playstation5', paren: 'PS4 compatibility', url: 'https://store.playstation.com/product/UP0082-CUSA08877_00-FFIXDIGITALED000' },
         { key: 'xbox-one', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-ix/9npgtnqfc8b5' },
         { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-ix/9npgtnqfc8b5' },
-        { key: 'fan-movie', search: 'youtube', term: 'final fantasy IX' },
-        { key: 'fan-recap', search: 'youtube', term: 'final fantasy IX' },
-        { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy IX' },
+        { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy IX' },
+        { key: 'fan-recap', search: 'youtube', searchTitle: 'final fantasy IX' },
+        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy IX' },
       ],
       versionDesc: [
         'This remaster has high-definition movies and character models, autosave, achievements, multiple optional cheats, and a no-encounters mode. Switch and Xbox versions have slower load times, and Switch handheld mode runs at a lower resolution with occasional crashes.',
@@ -89,7 +89,7 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 900
       ],
       platforms: [
         { key: 'book', name: 'Picture Book' },
-        { key: 'fan-movie', search: 'youtube', term: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky reading", searchSuffix: '' },
+        { key: 'fan-movie', search: 'youtube', searchTitle: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky reading", searchSuffix: '' },
       ],
     },
   },

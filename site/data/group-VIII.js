@@ -43,9 +43,9 @@ window.__ffGroupReg['VIII'] = { num: 'VIII', chronoOrder: 800, recommendedOrder:
         { key: 'xbox-one', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-viii-remastered/9nntspsc35zb' },
         { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-viii-remastered/9nntspsc35zb' },
         { key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-viii-remastered/9nntspsc35zb' },
-        { key: 'fan-movie', search: 'youtube', term: 'final fantasy VIII' },
-        { key: 'fan-recap', search: 'youtube', term: 'final fantasy VIII' },
-        { key: 'fan-playthrough', search: 'youtube', term: 'final fantasy VIII' },
+        { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy VIII' },
+        { key: 'fan-recap', search: 'youtube', searchTitle: 'final fantasy VIII' },
+        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy VIII' },
       ],
       versionDesc: [
         [{ text: 'This remaster has remodeled character and Guardian Force models, restored missing visual effects, multiple optional cheats, and a no-encounters mode. A companion mini-game is removed, though its rewards are still obtainable. Released as ' }, { emText: 'Final Fantasy VIII Remastered' }, { text: '.' }],
