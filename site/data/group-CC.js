@@ -38,9 +38,9 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
         },
         { key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-CUSA16885_00-FFCCRE2003TO2020' },
         { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA16885_00-FFCCRE2003TO2020' },
-        { key: 'fan-movie', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles' },
-        { key: 'fan-recap', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles' },
-        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles' },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
       versionDesc: [
         'This remaster brings enhanced graphics, new and arranged music, thirteen new dungeons, voice acting, and cross-platform online multiplayer.',
@@ -107,7 +107,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
       platforms: [
         { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Chronicle of a Small Village', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -130,7 +130,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles 4-Koma Manga Theater', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
     },
   },

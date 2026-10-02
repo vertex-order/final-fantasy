@@ -70,9 +70,9 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
         { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION', paren: 'PS4; PS5; PSPortal' },
         { key: 'xbox-one', paren: 'Enhanced; Physical; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' },
         { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' },
-        { key: 'fan-movie', search: 'youtube', searchTitle: 'Final Fantasy XV Royal Edition' },
-        { key: 'fan-recap', search: 'youtube', searchTitle: 'Final Fantasy XV Royal Edition' },
-        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy XV Royal Edition' },
+        { key: 'fan-movie', search: 'youtube', searchQualifier: 'Royal Edition' },
+        { key: 'fan-recap', search: 'youtube', searchQualifier: 'Royal Edition' },
+        { key: 'fan-playthrough', search: 'youtube', searchQualifier: 'Royal Edition' },
       ],
       versions: [
         {
@@ -160,8 +160,8 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
       ],
       platforms: [
         { key: 'compact-disc', jpTag: true },
-        { key: 'fan-audiobook', searchSuffix: '', search: 'youtube', searchTitle: 'Final Fantasy XV Prologue: Parting Ways' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Prologue: Parting Ways', noResults: true },
+        { key: 'fan-audiobook', searchSuffix: '', search: 'youtube' },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
     },
     alts: [
@@ -569,7 +569,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
       ],
       platforms: [
         { key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090006' },
-        { key: 'fan-recap', search: 'youtube', searchTitle: 'Final Fantasy XV: The Dawn of the Future' },
+        { key: 'fan-recap', search: 'youtube' },
       ],
     },
   },
@@ -639,7 +639,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
       platforms: [
         { key: 'android2', terminated: true },
         { key: 'apple', terminated: true },
-        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Justice Monsters Five' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },

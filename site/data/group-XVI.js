@@ -40,9 +40,9 @@ window.__ffGroupReg['XVI'] = { num: 'XVI', chronoOrder: 1700, recommendedOrder: 
         { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-PPSA10664_00-SEIA0000000000CE', paren: 'PS5; PSPortal' },
         { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xvi-complete-edition/9nvns5fp3px5' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/final-fantasy-xvi-complete-edition/9nvns5fp3px5' },
-        { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy XVI' },
-        { key: 'fan-recap', search: 'youtube', searchTitle: 'final fantasy XVI' },
-        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy XVI' },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
       versionDesc: [
         "On Xbox, you cannot change your party's appearance.",

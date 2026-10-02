@@ -39,9 +39,9 @@ window.__ffGroupReg['WD'] = { num: 'WD', chronoOrder: 1580, recommendedOrder: 15
           url: 'https://www.nintendo.com/store/products/world-of-final-fantasy-maxima-switch/',
         },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/bundle/9112/WORLD_OF_FINAL_FANTASY_COMPLETE_EDITION/' },
-        { key: 'fan-movie', search: 'youtube', searchTitle: 'World of Final Fantasy Maxima' },
-        { key: 'fan-recap', search: 'youtube', searchTitle: 'World of Final Fantasy Maxima' },
-        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'World of Final Fantasy Maxima' },
+        { key: 'fan-movie', search: 'youtube', searchQualifier: 'Maxima' },
+        { key: 'fan-recap', search: 'youtube', searchQualifier: 'Maxima' },
+        { key: 'fan-playthrough', search: 'youtube', searchQualifier: 'Maxima' },
       ],
       versionDesc: [
         [{ text: 'This remake is an expanded version of the game. Includes new narrative elements, gameplay additions, new boss fights, search options for treasure chests and other elements, adjustments to capturing mirages, short narratives featuring new characters, a new ending, and most of the original DLC. Released as ' }, { emText: 'World of Final Fantasy Maxima' }, { text: ', depending on the platform as a paid DLC.' }],
