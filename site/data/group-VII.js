@@ -116,7 +116,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
           { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
         ],
         versionDesc: [
-          ['The Before Crisis episode retells the story from ', { emLinkText: 'Before Crisis: Final Fantasy VII (2004)', emLinkUrl: '#entry-VII-before-crisis-final-fantasy-vii-2004' }, '.'],
+          ['The Before Crisis episode retells the story from ', { emLinkText: 'Before Crisis (2004)', emLinkUrl: '#entry-VII-before-crisis-final-fantasy-vii-2004' }, '.'],
           'Do not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.',
         ],
       },
@@ -126,7 +126,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     mediaType: 'Movie', chronoOrder: -5000, recommendedOrder: 1740,
     title: 'Last Order: Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Last_Order:_Final_Fantasy_VII', titleDate: '2005-09-14 10',
     mediaDesc: [
-      [{ text: 'Re-imagining of two flashbacks from ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ', one with Sephiroth and another for Zack and Cloud, that take place before ' }, { emLinkText: 'Crisis Core: Final Fantasy VII (2007)', emLinkUrl: '#entry-VII-crisis-core-final-fantasy-vii-2007' }, { text: '. Can be considered an alternate timeline.' }],
+      [{ text: 'Re-imagining of two flashbacks from ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ', one with Sephiroth and another for Zack and Cloud, that take place before ' }, { emLinkText: 'Crisis Core (2007)', emLinkUrl: '#entry-VII-crisis-core-final-fantasy-vii-2007' }, { text: '. Can be considered an alternate timeline.' }],
     ],
     primary: {
       tags: ['Optional', 'Prequel', 'OVA'],
@@ -154,7 +154,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     mediaType: 'Game', chronoOrder: -4000, recommendedOrder: 1750,
     title: 'Crisis Core: Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII', titleDate: '2007-09-13',
     mediaDesc: [
-      [{ text: 'Zack Fair, member of special forces organization SOLDIER searches for missing soldier Genesis Rhapsodos and uncovers many mysteries. Events end just before the start of ' }, { emLinkText: 'Final Fantasy VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' and are meant to pair with ' }, { emText: 'Remake Part 1: Intergrade (2021)' }, { text: '.' }],
+      [{ text: 'Zack Fair, member of special forces organization SOLDIER searches for missing soldier Genesis Rhapsodos and uncovers many mysteries. Events end just before the start of ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' and are meant to pair with ' }, { emText: 'Remake Part 1: Intergrade (2021)' }, { text: '.' }],
     ],
     primary: {
       tags: ['Prequel'],
@@ -529,7 +529,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     mediaType: 'Book', chronoOrder: -500, recommendedOrder: 1000,
     title: 'Final Fantasy VII Remake: Traces of Two Pasts', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', titleDate: '2021-07-15',
     mediaDesc: [
-      ['It takes place during the early events of ', { emText: 'Final Fantasy VII: Rebirth' }, ' and features Aerith and Tifa exchanging stories from their pasts.'],
+      ['It takes place during the early events of ', { emLinkText: 'Final Fantasy VII: Rebirth', emLinkUrl: '#entry-VII-final-fantasy-vii-rebirth-part-2-2024' }, ' and features Aerith and Tifa exchanging stories from their pasts.'],
     ],
     primary: {
       tags: ['Optional', 'Novel'],
@@ -560,7 +560,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     mediaType: 'Book', chronoOrder: -400, recommendedOrder: 1100,
     title: 'Final Fantasy VII Rebirth: Dear Destiny', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', titleDate: '2026-01-30',
     mediaDesc: [
-      ['A sequel to ', { emText: 'Traces of Two Pasts' }, ' that continues the stories of Tifa and Aerith before the events of the main story of the ', { emText: 'Remake' }, '.'],
+      ['A sequel to ', { emLinkText: 'Traces of Two Pasts', emLinkUrl: '#entry-VII-final-fantasy-vii-remake-traces-of-two-pasts-2021' }, ' that continues the stories of Tifa and Aerith before the events of the main story of the ', { emText: 'Remake' }, '.'],
     ],
     primary: {
       tags: ['Optional', 'Novel'],
@@ -671,7 +671,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 400,
     title: 'Final Fantasy VII: The Kids Are Alright: A Turks Side Story', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', titleDate: '2011-01-01',
     mediaDesc: [
-      ['Taking place a short time before ', { emLinkText: 'Final Fantasy VII: Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }],
+      ['Taking place a short time before ', { emLinkText: 'Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }],
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Novel'],
@@ -776,10 +776,10 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     mediaType: 'Book', chronoOrder: 2100, recommendedOrder: 550,
     title: 'Final Fantasy VII: Advent Children - The Novel', titleUrl: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children', titleDate: 2005,
     mediaDesc: [
-      ['A novelization of ', { emLinkText: 'Final Fantasy VII: Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }, '.'],
+      ['A novelization of ', { emLinkText: 'Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }, '.'],
     ],
     primary: {
-      tags: ['Optional'],
+      tags: ['Optional', 'Novel'],
       subtitle: 'Book',
       languages: [
         { value: 'EN', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children' },
@@ -870,7 +870,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     mediaType: 'Game', chronoOrder: 3500, recommendedOrder: 1700,
     title: 'Dirge of Cerberus Lost Episode: Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII#Mobile_phone_games', titleDate: '2006-08-22',
     mediaDesc: [
-      ['An extra story taking place between events in ', { emLinkText: 'Dirge of Cerberus: Final Fantasy VII (2006)', emLinkUrl: '#entry-VII-dirge-of-cerberus-final-fantasy-vii-2006' }, '.'],
+      ['An extra story taking place between events in ', { emLinkText: 'Dirge of Cerberus (2006)', emLinkUrl: '#entry-VII-dirge-of-cerberus-final-fantasy-vii-2006' }, '.'],
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Shooter'],
