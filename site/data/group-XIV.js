@@ -258,8 +258,8 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
       helpWanted: true,
       platforms: [
         { key: 'book', name: 'Novel', jpTag: true },
-        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XIV ~Winds of Eorzea~', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV ~Winds of Eorzea~', noResults: true },
+        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -355,7 +355,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
       ],
       platforms: [
         { key: 'book', name: 'Manga', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092352' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV: Eorzea Academy', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -397,12 +397,11 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
       helpWanted: true,
       platforms: [
         { key: 'book', name: 'Novel', jpTag: true },
-        { key: 'fan-translation', search: 'duckduckgo', searchTitle: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~ Vol.1", noResults: true },
+        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         {
           key: 'fan-recap',
           paren: 'Youtube',
           search: 'youtube',
-          searchTitle: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~ Vol.1",
           noResults: true,
         },
       ],
@@ -429,7 +428,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
       ],
       platforms: [
         { key: 'book', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' },
-        { key: 'fan-movie', search: 'youtube', searchTitle: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift reading', searchSuffix: '' },
+        { key: 'fan-movie', search: 'youtube', searchQualifier: 'reading', searchSuffix: '' },
       ],
     },
   },
@@ -458,7 +457,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
           key: 'fan-movie',
           paren: 'Youtube',
           search: 'youtube',
-          searchTitle: 'Final Fantasy XIV Picture Book: Me and the Cornservant reading',
+          searchQualifier: 'reading',
           searchSuffix: '',
           noResults: true,
         },

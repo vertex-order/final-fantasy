@@ -43,9 +43,9 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' },
         { key: 'amazon', url: 'https://www.amazon.com/dp/B099KBVZW1?' },
-        { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy III' },
-        { key: 'fan-recap', search: 'youtube', searchTitle: 'final fantasy III' },
-        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy III' },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
       versions: [
         {

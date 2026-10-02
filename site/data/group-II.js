@@ -43,9 +43,9 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-ii/9p8s1mn4066k?' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/final-fantasy-ii/9p8s1mn4066k?' },
         { key: 'amazon', url: 'https://www.amazon.com/dp/B09959P64G?' },
-        { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy II' },
-        { key: 'fan-recap', search: 'youtube', searchTitle: 'final fantasy II' },
-        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy II' },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
       versionDesc: [
         'This remaster has redrawn sprites, rearranged music, several UI improvements, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',
@@ -213,7 +213,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       platforms: [
         { key: 'book', name: 'Gamebook', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy II Hihō no Dragon', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy II: Dragon Treasures', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -233,7 +233,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       platforms: [
         { key: 'book', name: 'Gamebook', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy II Shōri e no Tabidachi', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy II: Journey to Victory', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
     },
   },

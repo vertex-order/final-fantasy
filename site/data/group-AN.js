@@ -15,7 +15,7 @@ window.__ffGroupReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 19
       platforms: [
         { key: 'android2', jpTag: true, terminated: true },
         { key: 'apple', jpTag: true, terminated: true },
-        { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Artniks', noResults: true },
+        { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -34,7 +34,7 @@ window.__ffGroupReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 19
       platforms: [
         { key: 'android2', jpTag: true, terminated: true },
         { key: 'apple', jpTag: true, terminated: true },
-        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy Artniks Dive' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },

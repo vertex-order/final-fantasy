@@ -43,9 +43,9 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, recommendedOrder: 600
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/final-fantasy-vi/9n255k81xbd3?' },
         { key: 'amazon', url: 'https://www.amazon.com/dp/B09RFBLK4Y?' },
-        { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy VI' },
-        { key: 'fan-recap', search: 'youtube', searchTitle: 'final fantasy VI' },
-        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy VI' },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
       versionDesc: [
         'This remaster has redrawn sprites, in-game maps, auto-battle, a fully voice-acted Opera scene, and accessibility options including adjustable EXP/gil rates, disable-able random encounters, and a choice between remastered/original soundtrack and modern/classic typefaces.',

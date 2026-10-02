@@ -14,7 +14,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder: 
       profileUrl: 'https://www.rengames.us/ffr',
       platforms: [
         { key: 'windows', url: 'https://discord.com/invite/Kg8fVsJW' },
-        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy renaissance' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },
