@@ -118,7 +118,7 @@ just keeps the committed file honest.
 
 **Never hand-edit `components.js`.** Working without a shell (e.g. inside a
 design tool)? See the header comment at the top of `components.js` for the
-by-hand procedure, and [`.claude/CLAUDE.md`](.claude/CLAUDE.md).
+by-hand procedure, and [`AGENTS.md`](AGENTS.md).
 
 ## Cross-repo sync
 
