@@ -23,7 +23,7 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "7ee4285d21bd0103005eaba12797ff1957ed7183"
+ref = "266496e644f2dba91d4947265bce571f09deb498"
 paths = [
   "sync.list.toml",
   "docs/subtitle.md",
@@ -88,6 +88,7 @@ paths = [
   ".gitattributes",
   ".vscode/extensions.json",
   ".claude/settings.json",
+  ".claude/CLAUDE.md",
   "CODE_OF_CONDUCT.md",
   "AGENTS.md",
   ".githooks/pre-commit",
@@ -117,7 +118,7 @@ paths = [
 
 [subscribe.platforms]
 repo = "vertex-order/platforms"
-ref = "78dd30e76a8e0ed9631575a8883c6ca0a84ebec7"
+ref = "2565b31c0c485982e159c42805891e3d43bafc7c"
 paths = [
   "site/PlatformIcon.dc.html",
   "site/data/platform-icons.js",
