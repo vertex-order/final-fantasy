@@ -249,7 +249,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
       [{ text: 'Enhanced version of the first in a trilogy to completely reimagine ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the reimagined trilogy, you can choose to play the original ' }, { emLinkText: 'VII (1997; listed separately)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.' }],
     ],
     primary: {
-      mainline: true, tags: ['Trilogy', 'Real-time action'],
+      tags: ['Trilogy', 'Real-time action'],
       subtitle: 'Intergrade', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake', subtitleDate: 2021,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -316,7 +316,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
       [{ text: 'Second in a trilogy to completely reimagine ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the reimagined trilogy, you can choose to play the original ' }, { emLinkText: 'VII (1997; listed separately)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.' }],
     ],
     primary: {
-      mainline: true, tags: ['Trilogy', 'Real-time action'],
+      tags: ['Trilogy', 'Real-time action'],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN-US', voice: true },
@@ -363,7 +363,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
       [{ text: 'Not yet released. The final and third in a trilogy to completely reimagine ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' as an expanded modern RPG with new sensibilities and features. Instead of the reimagined trilogy, you can choose to play the original ' }, { emLinkText: 'VII (1997; listed separately)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.' }],
     ],
     primary: {
-      mainline: true, tags: ['Trilogy', 'Real-time action'],
+      tags: ['Trilogy', 'Real-time action'],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN-US', voice: true },
