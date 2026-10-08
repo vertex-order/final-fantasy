@@ -594,6 +594,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XV Official Comic Anthology' },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Anthology', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Official Comic Anthology', noResults: true },
       ],
     },
@@ -618,6 +619,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XV Official Comic Anthology 2', noResults: true },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Anthology', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Official Comic Anthology 2', noResults: true },
       ],
     },

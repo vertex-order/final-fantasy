@@ -477,6 +477,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
       length: [{ value: '200p; P', br: true }, { value: '1 volume,', br: true }, { value: '3 chapters' }],
       platforms: [
         { key: 'book', name: 'Manga' },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Type-0', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Type-0 manga', noResults: true },
       ],
     },
@@ -507,6 +508,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
       ],
       platforms: [
         { key: 'book', name: 'Manga', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper#External_links' },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Type-0: The Ice Reaper', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Type-0 Side Story: The Ice Reaper', noResults: true },
       ],
     },

@@ -136,6 +136,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
       length: [{ value: '14+ volumes', tip: 'As of 2026' }],
       platforms: [
         { key: 'book', name: 'Manga', url: 'https://yenpress.com/series/final-fantasy-lost-stranger' },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Lost Stranger', searchSuffix: 'manga dub', noResults: true },
         {
           key: 'fan-recap',
           name: 'Fan story recap (chapter-by-chapter wiki)',

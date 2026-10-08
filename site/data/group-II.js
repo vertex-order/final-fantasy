@@ -254,6 +254,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy II manga', noResults: true },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy II', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', name: 'Fan story recap video of II (1988)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy II' },
       ],
     },

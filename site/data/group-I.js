@@ -367,6 +367,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100, 
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy i manga' },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy I', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', name: 'Fan story recap video of Final Fantasy (1987)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy', searchQualifier: 'I' },
       ],
     },
