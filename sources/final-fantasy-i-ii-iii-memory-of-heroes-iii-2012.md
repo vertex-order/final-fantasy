@@ -5,9 +5,9 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
-## breezewiki.com (Information)
+## finalfantasy.fandom.com (Information)
 
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes — credits (written by Takashi Umemura)* — accessed 2026-10-08 — archived: TODO
 
 ## goodreads.com (Ratings)
 
@@ -19,3 +19,8 @@
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20I%E3%83%BBII%E3%83%BBIII%3A%20Memory%20of%20Heroes%20audiobook
 
 ## Decisions
+
+## Surveyed
+
+- [Fandom – Memory of Heroes](https://finalfantasy.fandom.com/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes) — see above — used
+  - [breezewiki mirror](https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes) — dup

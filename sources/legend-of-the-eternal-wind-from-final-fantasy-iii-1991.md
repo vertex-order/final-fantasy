@@ -9,9 +9,9 @@
 
 - https://archive.org/details/YukyunoKazeDensetsuFinalFantasyIIIYori/Legend%20of%20the%20Eternal%20Wind%20from%20Final%20Fantasy%20III%2001/mode/2up
 
-## breezewiki.com (Information)
+## finalfantasy.fandom.com (Information)
 
-- https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori
+- https://finalfantasy.fandom.com/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori — credits (written by Kenji Terada, illustrated by Yuu Kinutani)* — accessed 2026-10-08 — archived: TODO
 
 ## duckduckgo.com (Information)
 
@@ -22,3 +22,8 @@
 - https://www.goodreads.com/book/show/76171402
 
 ## Decisions
+
+## Surveyed
+
+- [Fandom – Legend of the Eternal Wind](https://finalfantasy.fandom.com/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori) — see above — used
+  - [breezewiki mirror](https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori) — dup

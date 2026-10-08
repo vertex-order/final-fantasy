@@ -165,6 +165,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
   {
     mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 200,
     title: 'Legend of the Eternal Wind: from Final Fantasy III', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori', titleDate: '1991-01',
+    by: [{ role: 'written', names: 'Kenji Terada' }, { role: 'illustrated', names: 'Yuu Kinutani' }],
     mediaDesc: [
       [{ text: 'Adaptation of ' }, { emLinkText: 'Final Fantasy III (1990)', emLinkUrl: '#entry-III-final-fantasy-iii-1990' }, { text: ' as a manga with many changes, which could be considered an alternate universe retelling. Released as ' }, { emText: 'Yūkyū no Kaze Densetsu: Final Fantasy III Yori' }, { text: '.' }],
     ],
@@ -198,8 +199,9 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
   {
     mediaType: 'Book', chronoOrder: 700, recommendedOrder: 300,
     title: 'Final Fantasy I・II・III: Memory of Heroes ~III~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', titleDate: '2012-10-25',
+    by: 'Takashi Umemura',
     mediaDesc: [
-      [{ text: 'A short story following Luneth, Arc, Refia, and Ingus, four young heroes chosen by the Crystals, as they leave their secluded home to answer a call to a great destiny. The book also contains a short story each for Final Fantasy I and Final Fantasy II. Also known as ' }, { emText: 'Final Fantasy ~Memory of Heroes~' }, { text: '.' }],
+      [{ text: 'Short story adaptation of ' }, { emLinkText: 'Final Fantasy III (1990)', emLinkUrl: '#entry-III-final-fantasy-iii-1990' }, { text: '. The book also contains short story adaptations of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ' and ' }, { emLinkText: 'Final Fantasy II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: '. Also known as ' }, { emText: 'Final Fantasy ~Memory of Heroes~' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Short Stories'],

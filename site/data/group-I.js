@@ -351,6 +351,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100, 
   {
     mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 300,
     title: 'Final Fantasy ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)', titleDate: '1989-12-30',
+    by: [{ role: 'adapted', names: 'Yuu Kaimeiji' }],
     mediaDesc: [
       [{ text: 'Adaptation of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ' with many story changes, enough that it could be considered an alternate universe retelling: the Warriors of Light are Puffy, monk Flitz, witch Matoya, and Bahamut, joined by a princess and a pirate, guided by the robot DB-6 on behalf of the Lufenians, opposing the rogue knight Garland. Released as ' }, { emText: 'Final Fantasy' }, { text: '.' }],
     ],
@@ -375,8 +376,9 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100, 
   {
     mediaType: 'Book', chronoOrder: 700, recommendedOrder: 450,
     title: 'Final Fantasy I・II・III: Memory of Heroes ~I~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', titleDate: '2012-10-25',
+    by: 'Takashi Umemura',
     mediaDesc: [
-      [{ text: 'A short story following the four Warriors of Light as they awaken with no memory of who they are, and set out to defeat the rogue knight Garland and begin restoring light to the world’s crystals. The book also contains a short story each for Final Fantasy II and Final Fantasy III. Also known as ' }, { emText: 'Final Fantasy ~Memory of Heroes~' }, { text: '.' }],
+      [{ text: 'Short story adaptation of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: '. The book also contains short story adaptations of ' }, { emLinkText: 'Final Fantasy II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ' and ' }, { emLinkText: 'Final Fantasy III (1990)', emLinkUrl: '#entry-III-final-fantasy-iii-1990' }, { text: '. Also known as ' }, { emText: 'Final Fantasy ~Memory of Heroes~' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Short Stories'],

@@ -5,9 +5,9 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
-## breezewiki.com (Information)
+## finalfantasy.fandom.com (Information)
 
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB — credits (adapted by Kenji Terada)* — accessed 2026-10-08 — archived: TODO
 
 ## duckduckgo.com (Information)
 
@@ -18,3 +18,8 @@
 - https://www.goodreads.com/book/show/77954969
 
 ## Decisions
+
+## Surveyed
+
+- [Fandom – Nightmare's Labyrinth](https://finalfantasy.fandom.com/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB) — see above — used
+  - [breezewiki mirror](https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB) — dup
