@@ -10,7 +10,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     ],
     primary: {
       mainline: true, tags: ['MMORPG', 'Monthly subscription', 'Terminated'],
-      bylineParts: [
+      tagParts: [
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Monthly subscription · Terminated' },
       ],
@@ -48,7 +48,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     ],
     primary: {
       tags: ['Sequel', 'MMORPG', 'Monthly subscription'],
-      bylineParts: [
+      tagParts: [
         { text: 'Sequel · ' },
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Monthly subscription' },
@@ -97,7 +97,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
-      bylineParts: [
+      tagParts: [
         { text: 'Expansion · ' },
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Monthly subscription' },
@@ -123,7 +123,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
-      bylineParts: [
+      tagParts: [
         { text: 'Expansion · ' },
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Monthly subscription' },
@@ -149,7 +149,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
-      bylineParts: [
+      tagParts: [
         { text: 'Expansion · ' },
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Monthly subscription' },
@@ -175,7 +175,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
-      bylineParts: [
+      tagParts: [
         { text: 'Expansion · ' },
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Monthly subscription' },
@@ -201,7 +201,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
-      bylineParts: [
+      tagParts: [
         { text: 'Expansion · ' },
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Monthly subscription' },
@@ -227,7 +227,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
-      bylineParts: [
+      tagParts: [
         { text: 'Expansion · ' },
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Monthly subscription' },

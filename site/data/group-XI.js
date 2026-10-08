@@ -10,7 +10,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     primary: {
       mainline: true, tags: ['MMORPG', 'Monthly subscription'],
       subtitle: 'Base Game',
-      bylineParts: [
+      tagParts: [
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Monthly subscription' },
       ],
@@ -49,7 +49,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
-      bylineParts: [
+      tagParts: [
         { text: 'Expansion · ' },
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Monthly subscription' },
@@ -71,7 +71,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
-      bylineParts: [
+      tagParts: [
         { text: 'Expansion · ' },
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Monthly subscription' },
@@ -97,7 +97,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
-      bylineParts: [
+      tagParts: [
         { text: 'Expansion · ' },
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Monthly subscription' },
@@ -123,7 +123,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
-      bylineParts: [
+      tagParts: [
         { text: 'Expansion · ' },
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Monthly subscription' },
@@ -149,7 +149,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     primary: {
       tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
       subtitle: 'Expansion',
-      bylineParts: [
+      tagParts: [
         { text: 'Expansion · ' },
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Monthly subscription' },
@@ -1204,7 +1204,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'MMORPG', 'Mobile', 'Jobs', 'Active Time Battle', 'Terminated'],
-      bylineParts: [
+      tagParts: [
         { text: 'Optional · Spin-off · ' },
         { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
         { text: ' · Mobile · Jobs · Active Time Battle · Terminated' },

@@ -240,7 +240,7 @@ Vendored from [`vertex-order/kit`](https://github.com/vertex-order/kit) via
 ```
 site/support.js, site/_ds/, site/images/ui/, site/images/platforms/,
 site/PlatformIcon.dc.html, site/data/platform-icons.js,
-site/{BackToTop,HelpWanted,DescRun,EntryByline,EntryTitleLinks,
+site/{BackToTop,HelpWanted,DescRun,EntryCredits,EntryTags,EntryTitleLinks,
       ExtrasToggle,FAQ,FloatingCorner,FloatingNav,InPageControls,
       LanguageTag,LengthDisplay,MediaEntry,RatingDisplay,
       GroupSection,StatusBadge}.dc.html
