@@ -228,6 +228,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 150,
     title: 'Final Fantasy IV ~Novel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: { start: '2008-12-25', end: '2009' },
+    by: [{ role: 'adapted', names: 'Ichiro Tezuka' }],
     mediaDesc: [
       [
         { text: 'Novelization of ' },
@@ -246,10 +247,10 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/50286956', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy IV', searchQualifier: 'novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', name: 'Fan story recap video of IV (1991)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy IV' },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
+        { key: 'fan-audiobook', search: 'youtube' },
       ],
     },
     alts: [
@@ -296,6 +297,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
       platforms: [
         { key: 'fan-movie', search: 'youtube', searchTitle: 'Final Fantasy IV Interlude' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy IV Interlude', noResults: true },
+        { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy IV Interlude' },
         { key: 'playstation-portable', paren: 'Physical' },
       ],
@@ -381,7 +383,11 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
           { key: 'apple-arcade', url: 'https://apps.apple.com/app/ff-iv-the-after-years/id6504608150' },
         ],
         versionDesc: [
-          'This remake carries over 3D graphics from Final Fantasy IV 3D Remake, revamps the Band mechanic, removes the level cap, and adds four new Lunar superbosses. All versions support cloud saves.',
+          [
+            { text: 'This remake carries over 3D graphics from ' },
+            { emLinkText: 'IV 3D Remake (2014)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991-or' },
+            { text: ', revamps the Band mechanic, removes the level cap, and adds four new Lunar superbosses. All versions support cloud saves.' },
+          ],
         ],
       },
     ],
@@ -389,13 +395,17 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
   {
     mediaType: 'Book', chronoOrder: 2500, recommendedOrder: 350,
     title: 'Final Fantasy IV: The After ~Novel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2009-03-26',
+    by: [{ role: 'adapted', names: 'Ichiro Tezuka' }],
     mediaDesc: [
-      'A novelization of Final Fantasy IV: The After Years (2008).',
+      [
+        { text: 'Novelization of ' },
+        { emLinkText: 'The After Years (2008)', emLinkUrl: '#entry-IV-final-fantasy-iv-the-after-years-2008' },
+        { text: '.' },
+      ],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Novel'],
       subtitle: 'Book',
-      helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77476002' },
       ],
@@ -403,10 +413,10 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77476002', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy IV: The After Years', searchQualifier: 'novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', name: 'Fan story recap video of The After Years (2008)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy IV: The After Years' },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
+        { key: 'fan-audiobook', search: 'youtube', searchTitle: 'Final Fantasy IV: The After Years' },
       ],
     },
   },

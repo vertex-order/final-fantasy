@@ -334,7 +334,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
       ],
       profileUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-',
       platforms: [
-        { key: 'book', name: 'Novella', jpTag: true },
+        { key: 'book', name: 'Novella', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XIII: Reminiscence -tracer of memories-', searchQualifier: 'novella' },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-#External_links' },
         {
           key: 'fan-recap',
@@ -479,7 +479,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
       ],
       length: [{ value: '200p; P', br: true }, { value: '1 volume,', br: true }, { value: '3 chapters' }],
       platforms: [
-        { key: 'book', name: 'Manga' },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: 'Final Fantasy Type-0', searchQualifier: 'manga' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Type-0', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Type-0 manga', noResults: true },
       ],
@@ -535,7 +535,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/84822449', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy Type-0: Change the World -The Answer- Vol.1', searchQualifier: 'novel' },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#External_links' },
         {
           key: 'fan-recap',
@@ -565,7 +565,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/84822454', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy Type-0: Change the World -The Penultimate Truth- Vol.2', searchQualifier: 'novel' },
         {
           key: 'fan-translation',
           url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-#External_links',
@@ -643,7 +643,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/102911659', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', searchQualifier: 'novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },

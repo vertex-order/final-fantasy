@@ -17,10 +17,6 @@
 
 - https://en.ffviiec.com/
 
-## goodreads.com (Ratings)
-
-- https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children
-
 ## imdb.com (Ratings)
 
 - https://www.imdb.com/title/tt20913494/

@@ -134,8 +134,13 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, recommendedOrder: 600
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 500,
     title: "Figaro's Wedding: Tales from Desert", titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Figaro_no_Kekkon:_Tales_from_Desert', titleDate: '1994',
+    by: 'Kaori Tanaka',
     mediaDesc: [
-      "A doujinshi by Kaori Tanaka exploring the backstory of Sabin and Edgar within Figaro Castle, told as a non-linear collection of short stories covering Edgar's flirtations, Sabin's training, and the kingdom's history. Tanaka wrote much of Sabin and Edgar's original characterization for Final Fantasy VI, giving this unofficial work unusual authority despite her own insert disclaiming it as non-canon. Included here as a notable alternate-universe curiosity rather than official media; now very rare. Released as フィガロの結婚 (Figaro no Kekkon).",
+      [
+        { text: "A doujinshi exploring the backstory of Sabin and Edgar within Figaro Castle, told as a non-linear collection of short stories covering Edgar's flirtations, Sabin's training, and the kingdom's history. Tanaka wrote much of Sabin and Edgar's original characterization for " },
+        { emLinkText: 'VI (1994)', emLinkUrl: '#entry-VI-final-fantasy-vi-1994' },
+        { text: ", giving this unofficial work unusual authority despite her own insert disclaiming it as non-canon. Included here as a notable alternate-universe curiosity rather than official media; now very rare. Released as フィガロの結婚 (Figaro no Kekkon)." },
+      ],
     ],
     primary: {
       tags: ['Optional', 'Alternate Universe', 'Non-canon', 'Fan-made', 'Short Stories', 'Doujinshi'],
@@ -145,7 +150,7 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, recommendedOrder: 600
       ],
       helpWanted: true,
       platforms: [
-        { key: 'book', name: 'Short Stories', jpTag: true },
+        { key: 'book', name: 'Doujinshi', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy VI Figaro No Kekkon Figaro's Wedding: Tales from Desert", searchQualifier: 'doujinshi' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: "Final Fantasy VI Figaro No Kekkon Figaro's Wedding: Tales from Desert", noResults: true },
         {
           key: 'fan-recap',
@@ -154,7 +159,12 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, recommendedOrder: 600
           searchTitle: "Final Fantasy VI Figaro No Kekkon Figaro's Wedding: Tales from Desert",
           noResults: true,
         },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
+        {
+          key: 'fan-audiobook',
+          search: 'youtube',
+          searchTitle: "Final Fantasy VI Figaro No Kekkon Figaro's Wedding: Tales from Desert",
+          noResults: true,
+        },
       ],
     },
   },

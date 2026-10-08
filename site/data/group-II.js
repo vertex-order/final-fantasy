@@ -186,7 +186,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77954969', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy II Muma no Meikyū Nightmare's Labyrinth", searchQualifier: 'novel' },
         {
           key: 'fan-translation',
           url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Muma%20no%20Meiky%C5%AB%20Nightmare%27s%20Labyrinth%20translation&t=h_',
@@ -214,10 +214,9 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/102713430', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Gamebook', jpTag: true },
+        { key: 'book', name: 'Gamebook', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy II Hihō no Dragon', searchQualifier: 'gamebook' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy II Hihō no Dragon', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -236,10 +235,9 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       ],
       helpWanted: true,
       platforms: [
-        { key: 'book', name: 'Gamebook', jpTag: true },
+        { key: 'book', name: 'Gamebook', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy II Shōri e no Tabidachi', searchQualifier: 'gamebook' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy II Shōri e no Tabidachi', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -259,7 +257,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       ],
       helpWanted: true,
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy II', searchQualifier: 'manga' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy II manga', noResults: true },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy II', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', name: 'Fan story recap video of II (1988)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy II' },
@@ -269,7 +267,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
   {
     mediaType: 'Book', chronoOrder: 700, recommendedOrder: 450,
     title: 'Final Fantasy I・II・III: Memory of Heroes ~II~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', titleDate: '2012-10-25',
-    by: 'Takashi Umemura',
+    by: [{ role: 'adapted', names: 'Takashi Umemura' }],
     mediaDesc: [
       [{ text: 'Short story adaptation of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: '. The book also contains short story adaptations of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ' and ' }, { emLinkText: 'Final Fantasy III (1990)', emLinkUrl: '#entry-III-final-fantasy-iii-1990' }, { text: '. Also known as ' }, { emText: 'Final Fantasy ~Memory of Heroes~' }, { text: '.' }],
     ],
@@ -277,7 +275,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       tags: ['Optional', 'Short Stories'],
       subtitle: 'Book',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/32993834' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/63253999-final-fantasy-i-ii-iii' },
       ],
@@ -286,7 +284,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
         { score: '3.24', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories' },
+        { key: 'book', name: 'Short Stories', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy I・II・III: Memory of Heroes', noResults: true },
         {
           key: 'fan-audiobook',

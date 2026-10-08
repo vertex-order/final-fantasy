@@ -257,7 +257,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
       ],
       helpWanted: true,
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XIV Winds of Eorzea', searchQualifier: 'novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -381,7 +381,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/69172609', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~", searchQualifier: 'manga' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~" },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: "Final Fantasy XIV Lalafell-sensei's Gonna Teach Ya!", searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~", noResults: true },
@@ -402,7 +402,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
       ],
       helpWanted: true,
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XIV A Realm Reborn Adventure Log: Hero's Eggs Vol.1", searchQualifier: 'novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         {
           key: 'fan-recap',

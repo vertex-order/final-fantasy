@@ -5,9 +5,9 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
-## duckduckgo.com (Information)
+## Author
 
-- https://duckduckgo.com/?q=Final%20Fantasy%20VII%20Rebirth%3A%20Dear%20Destiny%20translate
+Kazushige Nojima -- By (entry `by`) -- wikipedia, Compilation of Final Fantasy VII, Books (https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books): "a third novel by Nojima" -- accessed 2026-10-08
 
 ## goodreads.com (Ratings)
 
@@ -20,6 +20,6 @@
 
 ## wikipedia.org (Information)
 
-- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- story, platforms -- accessed 2026-09-22
+- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- story, platforms, credits* -- accessed 2026-09-22
 
 ## Decisions

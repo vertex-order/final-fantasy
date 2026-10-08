@@ -88,7 +88,7 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 900
         { score: '4.45', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Picture Book' },
+        { key: 'book', name: 'Picture Book', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky" },
         { key: 'fan-movie', search: 'youtube', searchQualifier: 'reading', searchSuffix: '' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],

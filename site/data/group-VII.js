@@ -1,6 +1,6 @@
 // schema: group.schema.json
-window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 700, title: 'Compilation of Final Fantasy VII', url: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII', note: [
-  [{ text: 'The first 3D Final Fantasy, the start of the PlayStation era, ' }, { tipText: 'FMVs', tip: 'Full-Motion Video' }, { text: ', and one of the most fleshed-out series.' }],
+window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 700, title: 'Final Fantasy VII', note: [
+  [{ text: 'The first 3D Final Fantasy, the start of the PlayStation era, ' }, { tipText: 'FMVs', tip: 'Full-Motion Video' }, { text: ', and one of the most fleshed-out series. Many entries are part of the ' }, { emLinkText: 'Compilation of Final Fantasy VII', emLinkUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII' }, { text: ', an official canon set of tie-ins that expands on ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.' }],
 ], media: [
   {
     mediaType: 'Game', chronoOrder: -7000, recommendedOrder: 1710,
@@ -528,6 +528,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
   {
     mediaType: 'Book', chronoOrder: -500, recommendedOrder: 1000,
     title: 'Final Fantasy VII Remake: Traces of Two Pasts', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', titleDate: '2021-07-15',
+    by: 'Kazushige Nojima',
     mediaDesc: [
       ['It takes place during the early events of ', { emLinkText: 'Final Fantasy VII: Rebirth', emLinkUrl: '#entry-VII-final-fantasy-vii-rebirth-part-2-2024' }, ' and features Aerith and Tifa exchanging stories from their pasts.'],
     ],
@@ -552,7 +553,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
       ],
       platforms: [
         { key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091775' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
@@ -560,6 +561,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
   {
     mediaType: 'Book', chronoOrder: -400, recommendedOrder: 1100,
     title: 'Final Fantasy VII Rebirth: Dear Destiny', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', titleDate: '2026-01-30',
+    by: 'Kazushige Nojima',
     mediaDesc: [
       ['A sequel to ', { emLinkText: 'Traces of Two Pasts', emLinkUrl: '#entry-VII-final-fantasy-vii-remake-traces-of-two-pasts-2021' }, ' that continues the stories of Tifa and Aerith before the events of the main story of the ', { emText: 'Remake' }, '.'],
     ],
@@ -576,7 +578,6 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
       ],
       platforms: [
         { key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100826' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
@@ -585,8 +586,9 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 200,
     title: 'The Maiden Who Travels The Planet', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Related_media', titleDate: '2005-09-09',
+    by: 'Benny Matsuyama',
     mediaDesc: [
-      ["A novella describing Aerith's journey through the Lifestream and the ending for the original ", { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, ' game. Divided into seven chapters, it follows Aerith as she encounters other spirits in the Lifestream, including Jessie, Biggs, Wedge, Dyne, President Shinra, Professor Hojo, and Zack Fair.'],
+      ["A novella describing Aerith's journey through the Lifestream and the ending for the original ", { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, ' game. Divided into seven chapters, it follows Aerith as she encounters other spirits in the Lifestream.'],
     ],
     primary: {
       tags: ['Optional', 'Novella'],
@@ -613,6 +615,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
   {
     mediaType: 'Book', chronoOrder: 1000, recommendedOrder: 300,
     title: 'Final Fantasy VII: On the Way to a Smile', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile', titleDate: '2005-09-05',
+    by: 'Kazushige Nojima',
     mediaDesc: [
       ['Seven short stories centered on the characters from ', { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, ' and meant to take place before ', { emLinkText: 'Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }, ' compiled into an omnibus collection book.'],
     ],
@@ -672,6 +675,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
   {
     mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 400,
     title: 'Final Fantasy VII: The Kids Are Alright: A Turks Side Story', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', titleDate: '2011-01-01',
+    by: 'Kazushige Nojima',
     mediaDesc: [
       ['Taking place a short time before ', { emLinkText: 'Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }],
     ],
@@ -777,7 +781,8 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
   },
   {
     mediaType: 'Book', chronoOrder: 2100, recommendedOrder: 550,
-    title: 'Final Fantasy VII: Advent Children - The Novel', titleUrl: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children', titleDate: 2005,
+    title: 'Final Fantasy VII Advent Children: The Novel', titleUrl: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children', titleDate: 2005,
+    by: [{ role: 'adapted', names: 'Tetsuya Nomura' }],
     mediaDesc: [
       ['A novelization of ', { emLinkText: 'Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }, '.'],
     ],

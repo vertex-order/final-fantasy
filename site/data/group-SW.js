@@ -57,7 +57,7 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 950
         { score: '3.31', url: 'https://www.goodreads.com/book/show/2018984.Final_Fantasy', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel' },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: 'Final Fantasy: The Spirits Within', searchQualifier: 'novel' },
         { key: 'fan-recap', name: 'Fan story recap video of The Spirits Within (2001)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy The Spirits Within' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
@@ -75,7 +75,7 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 950
           { score: 'NYR', url: 'https://www.goodreads.com/book/show/5941120', key: 'goodreads' },
         ],
         platforms: [
-          { key: 'book', name: 'YA Novel' },
+          { key: 'book', name: 'YA Novel', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: 'Final Fantasy: The Spirits Within', searchQualifier: 'novel' },
           { key: 'fan-recap', name: 'Fan story recap video of The Spirits Within (2001)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy The Spirits Within' },
         ],
         versionDesc: [

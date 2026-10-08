@@ -593,7 +593,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
         { score: '4.23', url: 'https://www.goodreads.com/book/show/36208245-final-fantasy-xv-official-comic-anthology-2017-7-27', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XV Official Comic Anthology', searchQualifier: 'manga' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XV Official Comic Anthology' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Anthology', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Official Comic Anthology', noResults: true },
@@ -618,7 +618,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
         { score: '4.57', url: 'https://www.goodreads.com/book/show/42416261-final-fantasy-xv-official-comic-anthology-2', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XV Official Comic Anthology 2', searchQualifier: 'manga' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XV Official Comic Anthology 2', noResults: true },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Anthology', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Official Comic Anthology 2', noResults: true },

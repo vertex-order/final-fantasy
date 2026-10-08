@@ -5,6 +5,10 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
+## Author
+
+Benny Matsuyama -- Written by (entry `by`) -- wikipedia, Compilation of Final Fantasy VII, Related media (https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Related_media) -- accessed 2026-10-08
+
 ## breezewiki.com (Information)
 
 - https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome
@@ -19,6 +23,6 @@
 
 ## wikipedia.org (Information)
 
-- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Related_media -- story, platforms -- accessed 2026-09-22
+- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Related_media -- story, platforms, credits* -- accessed 2026-09-22
 
 ## Decisions

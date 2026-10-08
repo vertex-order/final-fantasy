@@ -5,6 +5,10 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
+## Author
+
+Kazushige Nojima -- Written by (entry `by`) -- wikipedia, Final Fantasy VII: Advent Children, On the Way to a Smile (https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile) -- accessed 2026-10-08
+
 ## breezewiki.com (Information)
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_On_the_Way_to_a_Smile
@@ -25,7 +29,7 @@
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- story, platforms -- accessed 2026-09-22
-- https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile
+- https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile -- credits* -- accessed 2026-10-08
 
 ## youtube.com (Information)
 

@@ -101,7 +101,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy: Unlimited Twin Bonds', searchQualifier: 'novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy: Unlimited Sō no Kizuna', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -125,7 +125,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77412483', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy: Unlimited After', searchQualifier: 'manga' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy: Unlimited After', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },

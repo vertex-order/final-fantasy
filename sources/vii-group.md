@@ -5,7 +5,7 @@
 
 ## wikipedia.org (Information)
 
-- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII -- media*, story -- accessed 2026-09-22
+- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII -- media*, story, note* (Compilation tie-in sentence) -- accessed 2026-09-22
 
 ## reddit.com (Information)
 

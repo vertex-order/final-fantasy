@@ -80,7 +80,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 15
         { value: 'EN' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy Brave Exvius Rikodoki!', searchQualifier: 'manga' },
         { key: 'fan-translation', search: 'duckduckgo' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Brave Exvius Rikodoki!', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },

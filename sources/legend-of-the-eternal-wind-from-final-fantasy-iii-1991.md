@@ -5,6 +5,10 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
+## Author
+
+Kenji Terada -- Adapted by (entry `by`); Yuu Kinutani -- Illustrated by -- finalfantasy.fandom.com (below) lists Terada as writer; credited as adapter since the comic adapts the game -- accessed 2026-10-08
+
 ## archive.org (Information)
 
 - https://archive.org/details/YukyunoKazeDensetsuFinalFantasyIIIYori/Legend%20of%20the%20Eternal%20Wind%20from%20Final%20Fantasy%20III%2001/mode/2up

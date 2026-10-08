@@ -164,7 +164,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
   {
     mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 200,
     title: 'Legend of the Eternal Wind: from Final Fantasy III', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori', titleDate: '1991-01',
-    by: [{ role: 'written', names: 'Kenji Terada' }, { role: 'illustrated', names: 'Yuu Kinutani' }],
+    by: [{ role: 'adapted', names: 'Kenji Terada' }, { role: 'illustrated', names: 'Yuu Kinutani' }],
     mediaDesc: [
       [{ text: 'Adaptation of ' }, { emLinkText: 'Final Fantasy III (1990)', emLinkUrl: '#entry-III-final-fantasy-iii-1990' }, { text: ' as a manga with many changes, which could be considered an alternate universe retelling. Released as ' }, { emText: 'Yūkyū no Kaze Densetsu: Final Fantasy III Yori' }, { text: '.' }],
     ],
@@ -198,7 +198,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
   {
     mediaType: 'Book', chronoOrder: 700, recommendedOrder: 300,
     title: 'Final Fantasy I・II・III: Memory of Heroes ~III~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', titleDate: '2012-10-25',
-    by: 'Takashi Umemura',
+    by: [{ role: 'adapted', names: 'Takashi Umemura' }],
     mediaDesc: [
       [{ text: 'Short story adaptation of ' }, { emLinkText: 'Final Fantasy III (1990)', emLinkUrl: '#entry-III-final-fantasy-iii-1990' }, { text: '. The book also contains short story adaptations of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ' and ' }, { emLinkText: 'Final Fantasy II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: '. Also known as ' }, { emText: 'Final Fantasy ~Memory of Heroes~' }, { text: '.' }],
     ],
@@ -206,7 +206,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
       tags: ['Optional', 'Short Stories'],
       subtitle: 'Book',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/32993834' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/63253999-final-fantasy-i-ii-iii' },
       ],
@@ -215,7 +215,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
         { score: '3.24', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories' },
+        { key: 'book', name: 'Short Stories', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy I・II・III: Memory of Heroes', noResults: true },
         {
           key: 'fan-audiobook',

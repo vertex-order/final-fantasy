@@ -5,6 +5,10 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
+## Author
+
+Kazushige Nojima -- By (entry `by`) -- wikipedia, Compilation of Final Fantasy VII, Books (https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books): "written by Kazushige Nojima" -- accessed 2026-10-08 -- illustrator Shou Tajima deliberately not credited: books credit the author only
+
 ## breezewiki.com (Information)
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_Kids_Are_Alright:_A_Turks_Side_Story
@@ -22,7 +26,7 @@
 
 ## wikipedia.org (Information)
 
-- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- story, platforms -- accessed 2026-09-22
+- https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- story, platforms, credits* -- accessed 2026-09-22
 
 ## yenpress.com (Information)
 

@@ -83,7 +83,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77128941', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Beyond the Endless Sky', searchQualifier: 'manga' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Beyond the Endless Sky', noResults: true },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Beyond the Endless Sky', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', name: 'Fan story recap video of Crystal Chronicles (2003)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles' },
@@ -106,7 +106,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77092424', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', jpTag: true },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Chronicle of a Small Village', searchQualifier: 'novel' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Chronicle of a Small Village', noResults: true },
         { key: 'fan-recap', name: 'Fan story recap video of Crystal Chronicles (2003)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -130,7 +130,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77600584', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles 4-Koma Manga Theater' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles 4-Koma Manga Theater', noResults: true },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
@@ -266,7 +266,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77740139', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates Manga' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates Manga', noResults: true },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles: Ring of Fates', searchSuffix: 'manga dub', noResults: true },
         {
