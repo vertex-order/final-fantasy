@@ -233,13 +233,18 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
   },
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 150,
-    title: 'Final Fantasy IV ~Novel~ Vol.1', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2008-12-25',
+    title: 'Final Fantasy IV ~Novel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: { start: '2008-12-25', end: '2009' },
     mediaDesc: [
-      'The first of a two-volume novelization of Final Fantasy IV (1991).',
+      [
+        { text: 'Novelization of ' },
+        { emLinkText: 'IV (1991)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991' },
+        { text: '.' },
+      ],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Novel'],
       subtitle: 'Book',
+      length: [{ value: '2 volumes' }],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/50286956' },
       ],
@@ -266,33 +271,16 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
           { key: 'book', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' },
         ],
         versionDesc: [
-          'Fan novelization of Final Fantasy IV (1991) 3D Remake (2007) and IV: The After Years (2008). This is the story of Cecil Harvey, a dark knight whose journey for redemption draws himself, his best friend Kain and Rosa into a dangerous battle for their planet.',
+          [
+            { text: 'Fan novelization of ' },
+            { emLinkText: 'IV (1991) 3D Remake (2007)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991-or-x-3d-remake-2007' },
+            { text: ' and ' },
+            { emLinkText: 'The After Years (2008)', emLinkUrl: '#entry-IV-final-fantasy-iv-the-after-years-2008' },
+            { text: '. This is the story of Cecil Harvey, a dark knight whose journey for redemption draws himself, his best friend Kain and Rosa into a dangerous battle for their planet.' },
+          ],
         ],
       },
     ],
-  },
-  {
-    mediaType: 'Book', chronoOrder: 510, recommendedOrder: 151,
-    title: 'Final Fantasy IV ~Novel~ Vol.2', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2009',
-    mediaDesc: [
-      'The second of a two-volume novelization of Final Fantasy IV (1991).',
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Novel'],
-      subtitle: 'Book',
-      languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77457241' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77457241', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Novel', jpTag: true },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', name: 'Fan story recap video of IV (1991)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy IV' },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
   },
   {
     mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200,
