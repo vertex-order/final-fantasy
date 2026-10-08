@@ -260,6 +260,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
         { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -282,6 +283,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
       platforms: [
         { key: 'globe', name: 'Official website', url: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes' },
         { key: 'fan-recap', name: 'Fan story summaries (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Side_Stories#List_of_stories' },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -307,6 +309,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
       platforms: [
         { key: 'book', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091850' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV: Chronicles of Light', noResults: true },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -331,6 +334,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
       platforms: [
         { key: 'book', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094196' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV: Chronicles of Light, Volume II', noResults: true },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -406,6 +410,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
           search: 'youtube',
           noResults: true,
         },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -431,6 +436,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
       platforms: [
         { key: 'book', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' },
         { key: 'fan-movie', search: 'youtube', searchQualifier: 'reading', searchSuffix: '' },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -463,6 +469,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
           searchSuffix: '',
           noResults: true,
         },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },

@@ -420,6 +420,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100, 
       ],
       platforms: [
         { key: 'globe', name: 'Webcomic', url: 'https://www.nuklearpower.com/2001/03/02/episode-001-were-going-where/' },
+        { key: 'fan-audiobook', name: 'Fan comic dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: '8-Bit Theater', searchSuffix: 'comic dub', noResults: true },
       ],
     },
   },

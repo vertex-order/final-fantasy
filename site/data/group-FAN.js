@@ -32,6 +32,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder: 
       ],
       platforms: [
         { key: 'globe', name: 'Webcomic', url: 'https://www.nuklearpower.com/2001/03/02/episode-001-were-going-where/' },
+        { key: 'fan-audiobook', name: 'Fan comic dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: '8-Bit Theater', searchSuffix: 'comic dub', noResults: true },
       ],
     },
   },
@@ -50,6 +51,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder: 
       ],
       platforms: [
         { key: 'book', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },

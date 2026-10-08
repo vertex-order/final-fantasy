@@ -109,6 +109,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
         { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Chronicle of a Small Village', noResults: true },
         { key: 'fan-recap', name: 'Fan story recap video of Crystal Chronicles (2003)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles' },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },

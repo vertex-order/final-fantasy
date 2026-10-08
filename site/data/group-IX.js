@@ -90,6 +90,7 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 900
       platforms: [
         { key: 'book', name: 'Picture Book' },
         { key: 'fan-movie', search: 'youtube', searchQualifier: 'reading', searchSuffix: '' },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },

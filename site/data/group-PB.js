@@ -22,6 +22,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 17
       platforms: [
         { key: 'book', name: 'Picture Book' },
         { key: 'fan-movie', search: 'youtube', searchQualifier: 'reading', searchSuffix: '' },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -48,6 +49,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 17
       platforms: [
         { key: 'book', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092031' },
         { key: 'fan-movie', search: 'youtube', searchQualifier: 'reading', searchSuffix: '' },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -73,6 +75,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 17
       platforms: [
         { key: 'book', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' },
         { key: 'fan-movie', search: 'youtube', searchQualifier: 'reading', searchSuffix: '' },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -105,6 +108,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 17
           searchSuffix: '',
           noResults: true,
         },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },

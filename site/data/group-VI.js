@@ -154,6 +154,7 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, recommendedOrder: 600
           searchTitle: "Final Fantasy VI Figaro No Kekkon Figaro's Wedding: Tales from Desert",
           noResults: true,
         },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },

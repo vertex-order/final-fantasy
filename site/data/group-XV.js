@@ -570,6 +570,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
       platforms: [
         { key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090006' },
         { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
   },
