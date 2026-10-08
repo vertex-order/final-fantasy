@@ -23,7 +23,7 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "d0f1588fcc454fb041b221a93cb15913d07cffc9"
+ref = "edd7dce1444073efcd8bfa20401380f197b076fd"
 paths = [
   "sync.list.toml",
   "docs/subtitle.md",
