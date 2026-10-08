@@ -112,8 +112,8 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, recommendedOrder: 600
           ],
         },
         {
-          label: 'Final Fantasy VI (1994)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_VI',
+          title: 'Final Fantasy VI (1994)',
+          titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI',
           languages: [
             { value: 'JA', native: true },
             { value: 'EN' },

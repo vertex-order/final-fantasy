@@ -93,8 +93,8 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 1000
           ],
         },
         {
-          label: 'Final Fantasy X (2001)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_X',
+          title: 'Final Fantasy X (2001)',
+          titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X',
           languages: [
             { value: 'JA', native: true },
             { value: 'EN' },
@@ -279,8 +279,8 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 1000
           ],
         },
         {
-          label: 'Final Fantasy X-2 (2003)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_X-2',
+          title: 'Final Fantasy X-2 (2003)',
+          titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X-2',
           languages: [
             { value: 'JA', native: true },
             { value: 'EN' },

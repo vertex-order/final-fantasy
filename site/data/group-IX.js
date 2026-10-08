@@ -46,8 +46,8 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 900
       ],
       versions: [
         {
-          label: 'Final Fantasy IX (2000)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_IX',
+          title: 'Final Fantasy IX (2000)',
+          titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IX',
           languages: [
             { value: 'JA', native: true },
             { value: 'EN' },

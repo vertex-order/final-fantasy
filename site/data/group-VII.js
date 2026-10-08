@@ -225,8 +225,8 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
           ],
         },
         {
-          label: 'Crisis Core: Final Fantasy VII (2007)',
-          url: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII',
+          title: 'Crisis Core: Final Fantasy VII (2007)',
+          titleUrl: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII',
           languages: [
             { value: 'JA', native: true },
             { value: 'EN' },
@@ -497,8 +497,8 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
           ],
         },
         {
-          label: 'Final Fantasy VII (1997)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_VII',
+          title: 'Final Fantasy VII (1997)',
+          titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII',
           languages: [
             { value: 'JA', native: true },
             { value: 'EN', tip: 'English (Official; Fan Translation) (ProjectXsent 2020; GreenGoblin 2021)' },

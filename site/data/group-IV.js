@@ -52,7 +52,6 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
       versions: [
         {
           subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', subtitleDate: 2011,
-          label: 'Final Fantasy IV (1991)',
           helpWanted: true,
           languages: [
             { value: 'JA', native: true },
@@ -69,7 +68,6 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
         },
         {
           subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', subtitleDate: 2009,
-          label: 'Final Fantasy IV (1991)',
           languages: [
             { value: 'JA', native: true },
           ],
@@ -82,7 +80,6 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
         },
         {
           subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', subtitleDate: 2005,
-          label: 'Final Fantasy IV (1991)',
           helpWanted: true,
           languages: [
             { value: 'JA', native: true },
@@ -98,7 +95,6 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
         },
         {
           subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', subtitleDate: 2002,
-          label: 'Final Fantasy IV (1991)',
           languages: [
             { value: 'JA', native: true },
           ],
@@ -111,7 +107,6 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
         },
         {
           subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases', subtitleDate: 1997,
-          label: 'Final Fantasy IV (1991)',
           helpWanted: true,
           languages: [
             { value: 'JA', native: true },
@@ -131,8 +126,8 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
           ],
         },
         {
-          label: 'Final Fantasy IV (1991)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_IV',
+          title: 'Final Fantasy IV (1991)',
+          titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV',
           helpWanted: true,
           languages: [
             { value: 'JA', native: true },
@@ -158,7 +153,6 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
     alts: [
       {
         subtitle: '3D Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)', subtitleDate: 2014,
-        label: 'Final Fantasy IV (2007, 3D Remake)',
         length: '30½h / 39h / 73h',
         languages: [
           { value: 'JA', native: true, voice: true },
@@ -261,8 +255,6 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
     alts: [
       {
         title: 'Final Fantasy IV: The Novel ~Fan Project~', titleUrl: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel', titleDate: 2002,
-        label: 'Final Fantasy IV: The Novel ~Fan Project~ (2002)',
-        url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel',
         length: '27 chapters',
         languages: [
           { value: 'EN' },
@@ -369,7 +361,6 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
     alts: [
       {
         subtitle: '3D Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', subtitleDate: 2013,
-        label: 'Final Fantasy IV: The After Years (2013, 3D Remake)',
         profileUrl: 'https://www.jp.square-enix.com/ff4tay/en/',
         languages: [
           { value: 'EN' },

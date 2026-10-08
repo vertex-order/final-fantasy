@@ -111,8 +111,8 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500, 
           ],
         },
         {
-          label: 'Final Fantasy V (1992)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_V',
+          title: 'Final Fantasy V (1992)',
+          titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_V',
           languages: [
             { value: 'JA', native: true },
             { value: 'EN', tip: 'English (Fan Translation) (RPGe 1998)' },

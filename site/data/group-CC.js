@@ -47,8 +47,8 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
       ],
       versions: [
         {
-          label: 'Final Fantasy Crystal Chronicles (2003)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)',
+          title: 'Final Fantasy Crystal Chronicles (2003)',
+          titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)',
           languages: [
             { value: 'JA', native: true },
             { value: 'EN' },

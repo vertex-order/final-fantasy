@@ -83,8 +83,8 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
             ],
           },
           {
-            label: 'Final Fantasy XII (2006)',
-            url: 'https://wikipedia.org/wiki/Final_Fantasy_XII',
+            title: 'Final Fantasy XII (2006)',
+            titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII',
             languages: [
               { value: 'JA', native: true },
               { value: 'EN' },
@@ -317,8 +317,8 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
           ],
         },
         {
-          label: 'Final Fantasy Tactics (1997)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics',
+          title: 'Final Fantasy Tactics (1997)',
+          titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics',
           languages: [
             { value: 'JA', native: true },
             { value: 'EN' },

@@ -49,8 +49,8 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
       ],
       versions: [
         {
-          label: 'Final Fantasy III (1990)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_III',
+          title: 'Final Fantasy III (1990)',
+          titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_III',
           languages: [
             { value: 'JA', native: true },
             { value: 'EN', tip: 'English (Fan Translation) (A+N+S 1998; ad0220 2006; Chaos Rush 2020)' },
@@ -79,7 +79,6 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
     alts: [
       {
         subtitle: '3D Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', subtitleDate: 2014,
-        label: 'Final Fantasy III (2006, 3D Remake)',
         length: '30h / 34½h / 91h',
         languages: [
           { value: 'JA', native: true },

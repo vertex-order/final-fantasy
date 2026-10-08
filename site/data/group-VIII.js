@@ -87,8 +87,8 @@ window.__ffGroupReg['VIII'] = { num: 'VIII', chronoOrder: 800, recommendedOrder:
           ],
         },
         {
-          label: 'Final Fantasy VIII (1999)',
-          url: 'https://wikipedia.org/wiki/Final_Fantasy_VIII',
+          title: 'Final Fantasy VIII (1999)',
+          titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VIII',
           languages: [
             { value: 'JA', native: true },
             { value: 'EN' },
