@@ -190,7 +190,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
           key: 'fan-translation',
           url: 'https://duckduckgo.com/?q=Y%C5%ABky%C5%AB%20no%20Kaze%20Densetsu%20Final%20Fantasy%20III%20Legend%20of%20the%20Eternal%20Wind%3A%20from%20Final%20Fantasy%20III%20translation&t=h_&ia=web',
         },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Yūkyū no Kaze Densetsu Final Fantasy III Yori', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap video of III (1990)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy III' },
       ],
     },
   },

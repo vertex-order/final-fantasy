@@ -249,7 +249,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
       platforms: [
         { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap video of IV (1991)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy IV' },
       ],
     },
     alts: [
@@ -288,7 +288,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
       platforms: [
         { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap video of IV (1991)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy IV' },
       ],
     },
   },
@@ -424,7 +424,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
       platforms: [
         { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap video of The After Years (2008)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy IV: The After Years' },
       ],
     },
   },

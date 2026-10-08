@@ -85,7 +85,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Beyond the Endless Sky', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles manga', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap video of Crystal Chronicles (2003)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles' },
       ],
     },
   },
@@ -107,7 +107,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
       platforms: [
         { key: 'book', name: 'Novel', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Chronicle of a Small Village', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap video of Crystal Chronicles (2003)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles' },
       ],
     },
   },

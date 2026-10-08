@@ -126,7 +126,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', url: 'https://somethingorotherscans.com/ffxii.php' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XII manga', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap video of XII (2006)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XII' },
       ],
     },
   },

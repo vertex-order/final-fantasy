@@ -190,7 +190,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
           key: 'fan-translation',
           url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Muma%20no%20Meiky%C5%AB%20Nightmare%27s%20Labyrinth%20translation&t=h_',
         },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy II Muma no Meikyū', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap video of II (1988)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy II' },
       ],
     },
   },
@@ -254,7 +254,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy II manga', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy II manga', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap video of II (1988)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy II' },
       ],
     },
   },
