@@ -809,21 +809,21 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Comic', chronoOrder: 10, recommendedOrder: 601,
     title: 'Final Fantasy XI ~Adventure Log~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2007-03-20',
+    by: 'Scott Ramsoomair',
     mediaDesc: [
       'The official Final Fantasy XI webcomic.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Manga'],
+      tags: ['Optional', 'Tie-in', 'Webcomic'],
       subtitle: 'Comic',
-      helpWanted: true,
+      length: '7p',
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN' },
+        { value: 'EN', native: true },
       ],
       platforms: [
-        { key: 'globe', name: 'Webcomic' },
+        { key: 'globe', name: 'Webcomic', url: 'https://web.archive.org/web/20090318100016/http://www.vgcats.com/ffxi/?strip_id=0' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Adventure Log webcomic', searchSuffix: '', noResults: true },
-        { key: 'fan-audiobook', name: 'Fan comic dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Adventure Log', searchSuffix: 'comic dub', noResults: true },
+        { key: 'fan-audiobook', name: 'Fan comic dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Adventure Log', searchSuffix: 'comic dub' },
       ],
     },
   },

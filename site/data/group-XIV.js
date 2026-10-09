@@ -418,7 +418,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     mediaType: 'Book', chronoOrder: 5200, recommendedOrder: 885,
     title: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447', titleDate: '2022-08-09',
     mediaDesc: [
-      [{ text: 'When their river starts running dry, the catfish-like Namazu set out on a quest to make it rain, needing to find a "thing that no one has ever seen." Entry also found in our ' }, { emText: 'Picture Books' }, { text: ' series.' }],
+      [{ text: 'When their river starts running dry, the catfish-like Namazu set out on a quest to make it rain, needing to find a "thing that no one has ever seen." Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-xiv-picture-book-the-namazu-and-the-greatest-gift-2022' }, { text: ' series.' }],
     ],
     primary: {
       tags: ['Optional', 'Tie-in', 'Picture Book'],
@@ -444,7 +444,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     mediaType: 'Book', chronoOrder: 7200, recommendedOrder: 890,
     title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833', titleDate: '2027-04-13',
     mediaDesc: [
-      [{ text: 'A child stumbles upon a strange, corn-like creature that no adult can see, and after a curious poke sends its head flying off, an adventure with the Cornservant begins. Entry also found in our ' }, { emText: 'Picture Books' }, { text: ' series.' }],
+      [{ text: 'A child stumbles upon a strange, corn-like creature that no adult can see, and after a curious poke sends its head flying off, an adventure with the Cornservant begins. Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-xiv-picture-book-me-and-the-cornservant-2027' }, { text: ' series.' }],
     ],
     primary: {
       tags: ['Optional', 'Tie-in', 'Picture Book'],

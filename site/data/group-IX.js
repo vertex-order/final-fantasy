@@ -72,7 +72,7 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 900
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 300,
     title: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky", titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094738', titleDate: '2026-05-19',
     mediaDesc: [
-      [{ text: 'Vivi is a mysterious boy fished out of the ocean by Grandpa Quan, a gourmand trying to master the art of food. Once Grandpa Quan realizes Vivi is not food, he raises Vivi and teaches him about the world. Entry also found in our ' }, { emText: 'Picture Books' }, { text: ' series.' }],
+      [{ text: 'Vivi is a mysterious boy fished out of the ocean by Grandpa Quan, a gourmand trying to master the art of food. Once Grandpa Quan realizes Vivi is not food, he raises Vivi and teaches him about the world. Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-ix-picture-book-vivi-and-grandpas-memories-for-the-sky-2026' }, { text: ' series.' }],
     ],
     primary: {
       tags: ['Optional', 'Tie-in', 'Picture Book'],
@@ -89,8 +89,7 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 900
       ],
       platforms: [
         { key: 'book', name: 'Picture Book', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky" },
-        { key: 'fan-movie', search: 'youtube', searchQualifier: 'reading', searchSuffix: '' },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
+        { key: 'fan-audiobook', search: 'youtube' },
       ],
     },
   },

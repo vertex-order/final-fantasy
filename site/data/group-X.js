@@ -376,15 +376,16 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 1000
   {
     mediaType: 'Book', chronoOrder: 4000, recommendedOrder: 500,
     title: 'Final Fantasy X-2.5', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~', titleDate: '2013-12-26 10',
+    by: 'Kazushige Nojima',
     mediaDesc: [
-      [{ text: 'Starts off directly after ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: ' ends and focuses on Yuna, Tidus, and 1000 year time travel. This results in sequel characters exploring prequel 1000 year old story, making it hard to place chronologically.' }],
+      [{ text: 'Starts off directly after ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: ' ends and focuses on Yuna, Tidus, and 1000 year time travel. This results in sequel characters exploring prequel 1000 year old story, making it hard to place chronologically. Released as ' }, { emText: 'Final Fantasy X-2.5 ~Price of Eternity~' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Novel'],
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/23978849-final-fantasy-x-2-5-final-fantasy-x-2-5' },
-        { value: 'EN', tip: 'English (fan translation)', url: 'https://www.goodreads.com/book/show/56382146-final-fantasy-x-2-5-price-of-eternity' },
+        { value: 'EN', tip: 'English (Official; Fan translation)', url: 'https://www.goodreads.com/book/show/56382146-final-fantasy-x-2-5-price-of-eternity' },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/23978346-final-fantasy-x-2-5-le-prix-de-l-ternit' },
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/54251056-final-fantasy-x-2-5' },
       ],
@@ -395,8 +396,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 1000
         { key: 'book', name: 'Novel', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~' },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~#External_links' },
         { key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~#Story' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
+        { key: 'fan-audiobook', search: 'youtube' },
       ],
     },
   },

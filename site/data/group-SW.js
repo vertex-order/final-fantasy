@@ -43,8 +43,9 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 950
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 200,
     title: 'Final Fantasy: The Spirits Within ~Novel~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media', titleDate: '2001-06-26',
+    by: [{ role: 'adapted', names: 'Dean Wesley Smith' }],
     mediaDesc: [
-      [{ text: 'Novelization of the ' }, { emLinkText: 'Final Fantasy: The Spirits Within (2001)', emLinkUrl: '#entry-SW-final-fantasy-the-spirits-within-2001' }, { text: ' movie written by Dean Wesley Smith.' }],
+      [{ text: 'Novelization of ' }, { emLinkText: 'The Spirits Within (2001)', emLinkUrl: '#entry-SW-final-fantasy-the-spirits-within-2001' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Novel'],
@@ -57,14 +58,15 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 950
         { score: '3.31', url: 'https://www.goodreads.com/book/show/2018984.Final_Fantasy', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: 'Final Fantasy: The Spirits Within', searchQualifier: 'novel' },
-        { key: 'fan-recap', name: 'Fan story recap video of The Spirits Within (2001)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy The Spirits Within' },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: 'Final Fantasy: The Spirits Within', searchQualifier: 'novel Dean Wesley Smith' },
+        { key: 'fan-recap', name: 'Fan story recap video of The Spirits Within (2001)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy The Spirits Within', searchQualifier: 'novel Dean Wesley Smith' },
+        { key: 'fan-audiobook', search: 'youtube', searchTitle: 'Final Fantasy: The Spirits Within', searchQualifier: 'Dean Wesley Smith', noResults: true },
       ],
     },
     alts: [
       {
         title: 'Final Fantasy: The Spirits Within ~YA Novel~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media', titleDate: 2001,
+        by: [{ role: 'adapted', names: 'John Vornholt' }],
         subtitle: 'Book',
         languages: [
           { value: 'EN', url: 'https://www.goodreads.com/book/show/5941120' },
@@ -75,11 +77,12 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 950
           { score: 'NYR', url: 'https://www.goodreads.com/book/show/5941120', key: 'goodreads' },
         ],
         platforms: [
-          { key: 'book', name: 'YA Novel', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: 'Final Fantasy: The Spirits Within', searchQualifier: 'novel' },
-          { key: 'fan-recap', name: 'Fan story recap video of The Spirits Within (2001)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy The Spirits Within' },
+          { key: 'book', name: 'YA Novel', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: 'Final Fantasy: The Spirits Within', searchQualifier: 'YA novel John Vornholt' },
+          { key: 'fan-recap', name: 'Fan story recap video of The Spirits Within (2001)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy The Spirits Within', searchQualifier: 'YA novel John Vornholt' },
+          { key: 'fan-audiobook', search: 'youtube', searchTitle: 'Final Fantasy: The Spirits Within', searchQualifier: 'John Vornholt', noResults: true },
         ],
         versionDesc: [
-          [{ text: 'Different novelization as YA Novel of the ' }, { emLinkText: 'Final Fantasy: The Spirits Within (2001)', emLinkUrl: '#entry-SW-final-fantasy-the-spirits-within-2001' }, { text: ' movie, written by John Vornholt.' }],
+          [{ text: 'Different novelization as YA Novel of ' }, { emLinkText: 'The Spirits Within (2001)', emLinkUrl: '#entry-SW-final-fantasy-the-spirits-within-2001' }, { text: '.' }],
         ],
       },
     ],

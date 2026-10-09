@@ -11,7 +11,8 @@
 
 ## wikipedia.org (Information)
 
-- https://wikipedia.org/wiki/Final_Fantasy:_Unlimited#Audio -- dates, story -- accessed 2026-09-22
+- https://wikipedia.org/wiki/Final_Fantasy:_Unlimited#Audio -- dates*, story -- accessed 2026-10-08
+  - "A total of 10 episodes were released monthly beginning on January 15, 2002"; compiled and released as a full CD-ROM on September 30, 2002 -- end date 2002-09 taken from the compilation date; 10 monthly episodes from January 15 would otherwise end in October
 
 ## youtube.com (Information)
 

@@ -66,7 +66,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
   },
   {
     mediaType: 'Audio', chronoOrder: 250, recommendedOrder: 350,
-    title: 'Final Fantasy: Unlimited Voice Theater', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited#Audio', titleDate: '2002-01-15',
+    title: 'Final Fantasy: Unlimited Voice Theater', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited#Audio', titleDate: { start: '2002-01-15', end: '2002-09' },
     mediaDesc: [
       [{ text: 'Episodes were released monthly.' }],
     ],
@@ -90,15 +90,20 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
   {
     mediaType: 'Book', chronoOrder: 300, recommendedOrder: 400,
     title: 'Final Fantasy: Unlimited Twin Bonds', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited#Continuation_of_Final_Fantasy:_Unlimited', titleDate: '2002-03-28',
+    by: 'Syou Katagiri',
     mediaDesc: [
-      [{ text: 'Covers a side story set somewhere before episode 12 of the ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime. Released as ' }, { emText: 'Final Fantasy: Unlimited Sō no Kizuna' }, { text: ', sometimes referred to as ' }, { emText: '~The Bonds of Two~' }, { text: '.' }],
+      [{ text: 'Covers a side story set somewhere before episode 12 of the ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime. Released as ' }, { emText: 'Final Fantasy: Unlimited Sō no Kizuna' }, { text: ' (双の絆, literally "Twin Bonds"), sometimes referred to as ' }, { emText: '~The Bonds of Two~' }, { text: ' and ' }, { emText: 'Double Bond' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Side-story', 'Novel'],
       subtitle: 'Book',
+      length: '242p; P',
       helpWanted: true,
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/76924204' },
+      ],
+      ratings: [
+        { score: 'NYR', url: 'https://www.goodreads.com/book/show/76924204', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy: Unlimited Twin Bonds', searchQualifier: 'novel' },
@@ -111,8 +116,9 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
   {
     mediaType: 'Comic', chronoOrder: 320, recommendedOrder: 420,
     title: 'Final Fantasy: Unlimited After', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After', titleDate: '2002-05-15',
+    by: [{ role: 'manga', names: 'Hiroyuki Yamashita' }, { role: 'script', names: 'Atsuhiro Tomioka' }],
     mediaDesc: [
-      [{ text: 'Taking place after ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime, exploring the C2 Organization Lisa works for, and their goals and purposes. Originally published online, later collected into a single anthology comprised of a comic and a script.' }],
+      [{ text: 'Taking place after ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime, exploring the C2 Organization Lisa works for, and their goals and purposes. Originally published online, later collected into a single anthology comprised of a comic and a script. Released as ' }, { emText: 'Final Fantasy: Unlimited After – Gakai no Sho' }, { text: ' (外界の章, literally "Chapters of the Outside World").' }],
     ],
     primary: {
       tags: ['Sequel', 'Manga', 'Script'],
@@ -134,7 +140,8 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
   },
   {
     mediaType: 'Book', chronoOrder: 335, recommendedOrder: 435,
-    title: 'Final Fantasy: Unlimited After Spiral', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral', titleDate: '2002-06-01',
+    title: 'Final Fantasy: Unlimited After Spiral', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral', titleDate: { start: '2002-06-01', end: '2004' },
+    by: 'Syou Katagiri',
     mediaDesc: [
       [{ text: 'Takes place after the events of ' }, { emLinkText: 'Unlimited After (2002)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-after-2002' }, { text: ". It covers Makenshi's past and the events surrounding Ai and Yu's return to their home. A bonus side-story chapter " }, { emText: 'Final Fantasy: Unlimited After Zero' }, { text: ' about Makenshi and Madoushi. It was posted freely on the FF:U site.' }],
     ],
@@ -147,7 +154,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
         { value: 'EN', tip: 'English (fan translation)' },
       ],
       platforms: [
-        { key: 'globe', name: 'Web novel', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' },
+        { key: 'globe', name: 'Web novel', jpTag: true, url: 'https://web.archive.org/web/20040630063907/http://www.ff-u.com/after_project/index.html' },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' },
         { key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },

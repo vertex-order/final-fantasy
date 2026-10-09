@@ -4,7 +4,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 17
     mediaType: 'Book', chronoOrder: 200, recommendedOrder: 200,
     title: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky", titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094738', titleDate: '2026-05-19',
     mediaDesc: [
-      [{ text: 'Vivi is a mysterious boy fished out of the ocean by Grandpa Quan, a gourmand trying to master the art of food. Once Grandpa Quan realizes Vivi is not food, he raises Vivi and teaches him about the world. Entry also found in our ' }, { emText: 'IX' }, { text: ' series.' }],
+      [{ text: 'Vivi is a mysterious boy fished out of the ocean by Grandpa Quan, a gourmand trying to master the art of food. Once Grandpa Quan realizes Vivi is not food, he raises Vivi and teaches him about the world. Entry also found in our ' }, { emLinkText: 'IX', emLinkUrl: '#entry-IX-final-fantasy-ix-picture-book-vivi-and-grandpas-memories-for-the-sky-2026' }, { text: ' series.' }],
     ],
     primary: {
       tags: ['Optional', 'Tie-in', 'Picture Book'],
@@ -21,8 +21,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 17
       ],
       platforms: [
         { key: 'book', name: 'Picture Book', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky" },
-        { key: 'fan-movie', search: 'youtube', searchQualifier: 'reading', searchSuffix: '' },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
+        { key: 'fan-audiobook', search: 'youtube' },
       ],
     },
   },
@@ -57,7 +56,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 17
     mediaType: 'Book', chronoOrder: 300, recommendedOrder: 300,
     title: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447', titleDate: '2022-08-09',
     mediaDesc: [
-      [{ text: 'When their river starts running dry, the catfish-like Namazu set out on a quest to make it rain, needing to find a "thing that no one has ever seen." Entry also found in our ' }, { emText: 'XIV' }, { text: ' series.' }],
+      [{ text: 'When their river starts running dry, the catfish-like Namazu set out on a quest to make it rain, needing to find a "thing that no one has ever seen." Entry also found in our ' }, { emLinkText: 'XIV', emLinkUrl: '#entry-XIV-final-fantasy-xiv-picture-book-the-namazu-and-the-greatest-gift-2022' }, { text: ' series.' }],
     ],
     primary: {
       tags: ['Optional', 'Tie-in', 'Picture Book'],
@@ -83,7 +82,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 17
     mediaType: 'Book', chronoOrder: 400, recommendedOrder: 400,
     title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833', titleDate: '2027-04-13',
     mediaDesc: [
-      [{ text: 'A child stumbles upon a strange, corn-like creature that no adult can see, and after a curious poke sends its head flying off, an adventure with the Cornservant begins. Entry also found in our ' }, { emText: 'XIV' }, { text: ' series.' }],
+      [{ text: 'A child stumbles upon a strange, corn-like creature that no adult can see, and after a curious poke sends its head flying off, an adventure with the Cornservant begins. Entry also found in our ' }, { emLinkText: 'XIV', emLinkUrl: '#entry-XIV-final-fantasy-xiv-picture-book-me-and-the-cornservant-2027' }, { text: ' series.' }],
     ],
     primary: {
       tags: ['Optional', 'Tie-in', 'Picture Book'],
