@@ -390,6 +390,32 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
+    mediaType: 'Comic', chronoOrder: 7800, recommendedOrder: 876,
+    title: 'Final Fantasy XIV 14-Koma', titleUrl: 'https://ndlsearch.ndl.go.jp/search?cs=bib&keyword=ファイナルファンタジー14じゅうよんコマ', titleDate: '2019-12',
+    by: 'Fumio Minagawa',
+    mediaDesc: [
+      'A collection of four-panel (4-koma) comics for XIV. Released as ファイナルファンタジー14じゅうよんコマ (Juyon Koma, a pun on the four-panel format and the number 14).',
+    ],
+    primary: {
+      tags: ['Optional', 'Spin-off', 'Manga'],
+      subtitle: 'Comic',
+      length: '…?',
+      helpWanted: true,
+      languages: [
+        { value: 'JA', native: true },
+      ],
+      ratings: [
+        { score: 'NYR', key: 'goodreads' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XIV 14-Koma', searchQualifier: 'manga' },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XIV 14-Koma', noResults: true },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV 14-Koma', searchSuffix: 'manga dub', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV 14-Koma', noResults: true },
+      ],
+    },
+  },
+  {
     mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 850,
     title: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~ Vol.1", titleUrl: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20A%20Realm%20Reborn%20Adventure%20Log%20Hero%27s%20Eggs', titleDate: '2014-09',
     by: 'Miyabi Hasegawa',

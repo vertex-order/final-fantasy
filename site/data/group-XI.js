@@ -1109,26 +1109,41 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   },
   {
     mediaType: 'Comic', chronoOrder: 5150, recommendedOrder: 641,
-    title: 'Final Fantasy XI ~Minagawa Fumio Illustrations~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Illustrations', titleDate: '2018-12',
+    title: 'Final Fantasy XI ~Love in the Sky 1·2·3!~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Misc', titleDate: '2007-06',
     mediaDesc: [
-      [{ text: 'Includes a collection of manga for ' }, { emText: 'XI' }, { text: '.' }],
+      [{ text: 'A short manga for ' }, { emText: 'XI' }, { text: ", released as 恋の空蝉1・2・3! (Koi no Utsusemi). Serialized in the Vana'diel Communications mook; the earliest known printing is the June 2007 Vana'diel Memoirs special appendix." }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Manga'],
       subtitle: 'Comic',
-      length: '189p;K4',
+      length: '…?',
       helpWanted: true,
       languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/58665646' },
+        { value: 'JA', native: true },
       ],
       ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/58665646', key: 'goodreads' },
+        { score: 'NYR', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Minagawa Fumio Illustrations', searchQualifier: 'manga' },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Love in the Sky 1 2 3', searchQualifier: 'manga' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Minagawa Fumio Illustrations', searchSuffix: 'manga dub', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Minagawa Fumio Illustrations', searchSuffix: '', noResults: true },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Love in the Sky 1 2 3', searchSuffix: 'manga dub', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Love in the Sky 1 2 3', searchSuffix: '', noResults: true },
+      ],
+      versions: [
+        {
+          title: 'Final Fantasy XI ~Minagawa Fumio Illustrations~ (2018)', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Illustrations',
+          languages: [
+            { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/58665646' },
+          ],
+          helpWanted: true,
+          platforms: [
+            { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Minagawa Fumio Illustrations', searchQualifier: 'manga' },
+          ],
+          versionDesc: [
+            "December 2018 art book collecting every episode plus an extra episode of this manga, with character art and the artist's other XI illustrations.",
+          ],
+        },
       ],
     },
   },
