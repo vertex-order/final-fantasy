@@ -391,13 +391,15 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
   },
   {
     mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 850,
-    title: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~ Vol.1", titleUrl: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20A%20Realm%20Reborn%20Adventure%20Log%20Hero%27s%20Eggs', titleDate: '2014',
+    title: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~ Vol.1", titleUrl: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20A%20Realm%20Reborn%20Adventure%20Log%20Hero%27s%20Eggs', titleDate: '2014-09',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
-      "A play-diary-style adventure book collecting Miyabi Hasegawa's web serial, following her hot-blooded player character Ganbarund through the wastelands, dungeons, and monster dens of Eorzea. Released as ファイナルファンタジーXIV 新生エオルゼア冒険記 -勇者の卵-.",
+      "A play-diary-style adventure book collecting Miyabi Hasegawa's web serial, following her hot-blooded player character Ganbarund through the wastelands, dungeons, and monster dens of Eorzea. Released as ファイナルファンタジーXIV 新生エオルゼア冒険記 -英雄の卵たち-.",
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Play diary', 'Free'],
       subtitle: 'Book',
+      length: '339p; P',
       languages: [
         { value: 'JA', native: true },
       ],

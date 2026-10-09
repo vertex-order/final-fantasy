@@ -276,30 +276,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1150, recommendedOrder: 603,
-    title: "Final Fantasy XI ~Staying in Vana'diel~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2003-05',
-    mediaDesc: [
-      [{ text: 'Play diaries from the world of ' }, { emText: 'XI' }, { text: ". Released as プレイ日記 : ヴァナ・ディール滞在記. May also be known as Final Fantasy XI ~Play Diary: Staying in Vana'diel~." }],
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Play diary'],
-      subtitle: 'Book',
-      length: '477p;B6',
-      languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77429047' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77429047', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XI Play Diary Staying in Vana'diel", searchQualifier: 'novel' },
-        { key: 'fan-translation', search: 'duckduckgo', searchTitle: "Final Fantasy XI Play Diary Staying in Vana'diel", noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: "Final Fantasy XI Play Diary Staying in Vana'diel", searchSuffix: '', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
     mediaType: 'Book', chronoOrder: 1200, recommendedOrder: 607,
     title: 'Final Fantasy XI ~The Eternal Bond~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-07',
     mediaDesc: [
