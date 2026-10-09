@@ -576,17 +576,17 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
   },
   {
     mediaType: 'Comic', chronoOrder: 3600, recommendedOrder: 960,
-    title: 'Final Fantasy XV Anthology Vol. 1', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology', titleDate: '2017-07-27',
+    title: 'Final Fantasy XV Anthology', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology', titleDate: { start: '2017-07-27', end: '2017-12-26' },
     mediaDesc: [
-      'An anthology of short manga centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum.',
+      'Two anthologies of short manga centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum.',
     ],
     primary: {
       tags: ['Optional', 'Short Stories', 'Manga'],
       subtitle: 'Comic',
-      length: '128p',
+      length: '2 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/36208245-final-fantasy-xv-official-comic-anthology-2017-7-27' },
-        { value: 'EN', tip: 'English (fan translation)' },
+        { value: 'EN', tip: 'English (fan translation)', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%20translation' },
       ],
       helpWanted: true,
       ratings: [
@@ -597,31 +597,6 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XV Official Comic Anthology' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Anthology', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Official Comic Anthology', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Comic', chronoOrder: 3700, recommendedOrder: 965,
-    title: 'Final Fantasy XV Anthology Vol.2', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology_2', titleDate: '2017-12-26',
-    mediaDesc: [
-      'A second anthology of short manga, again centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum.',
-    ],
-    primary: {
-      tags: ['Optional', 'Short Stories', 'Manga'],
-      subtitle: 'Comic',
-      length: '128p',
-      languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/42416261-final-fantasy-xv-official-comic-anthology-2' },
-      ],
-      helpWanted: true,
-      ratings: [
-        { score: '4.57', url: 'https://www.goodreads.com/book/show/42416261-final-fantasy-xv-official-comic-anthology-2', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XV Official Comic Anthology 2', searchQualifier: 'manga' },
-        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XV Official Comic Anthology 2', noResults: true },
-        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Anthology', searchSuffix: 'manga dub', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Official Comic Anthology 2', noResults: true },
       ],
     },
   },
