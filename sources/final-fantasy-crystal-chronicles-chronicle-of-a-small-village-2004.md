@@ -17,4 +17,9 @@
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga
 
+## Sources
+
+goodreads.com (Information)
+- https://www.goodreads.com/book/show/77092424 -- format* (Paperback Shinsho; goodreads author 藤原カムイ (Kamui Fujiwara), title "小説 ファイナルファンタジー・クリスタルクロニクル"; not a bunko light-novel imprint, so the platform stays Novel) -- accessed 2026-10-09
+
 ## Decisions

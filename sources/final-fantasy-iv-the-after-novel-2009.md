@@ -22,7 +22,8 @@ duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20IV%3A%20The%20After%20~Novel~%20translation -- fan-translation search
 
 wikipedia.org (Information)
-- https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga -- novels*, dates*
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga -- dates*, ISBN* (agrees with google books) -- accessed 2026-10-09
+  - Wikipedia: March 26, 2009; novelization of Final Fantasy IV: The After Years; JP ISBN 978-4-7575-2536-8 (= 9784757525368, the ISBN on the google books record)
 
 youtube.com (Information)
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20audiobook -- audiobook* (results exist) -- accessed 2026-10-08

@@ -22,4 +22,9 @@
 
 - https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media -- story, platforms -- accessed 2026-09-22
 
+## Sources
+
+goodreads.com (Information)
+- https://www.goodreads.com/book/show/13417855-final-fantasy-xiii-2 -- format* (220 pages, Hardcover, part of the series 小説 ファイナルファンタジーXIII (#1); goodreads tags the genre "Manga", which is wrong for a series titled 小説 ("novel"), so the platform stays Short Stories (five episodes)) -- accessed 2026-10-09
+
 ## Decisions

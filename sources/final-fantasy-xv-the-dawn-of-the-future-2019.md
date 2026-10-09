@@ -20,4 +20,9 @@
 
 - https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media -- story, platforms -- accessed 2026-09-22
 
+## Sources
+
+goodreads.com (Information)
+- https://www.goodreads.com/book/show/51116768-final-fantasy-xv -- format* (408 pages, Hardcover, first published April 25, 2019, original title "Final Fantasy XV: The Dawn of the Future"; platform stays Novel) -- accessed 2026-10-09
+
 ## Decisions

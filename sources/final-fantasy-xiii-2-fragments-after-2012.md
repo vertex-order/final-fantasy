@@ -25,4 +25,9 @@
 
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20After%20story%20audiobook
 
+## Sources
+
+goodreads.com (Information)
+- https://www.goodreads.com/book/show/84828742-final-fantasy-xiii-2 -- format* (242 pages, Hardcover, Square Enix, June 21, 2012, ISBN 9784757536500, series 小説 ファイナルファンタジーXIII (#2); goodreads tags the genre "Manga", which is wrong for a novel series; platform stays Short Stories (five episodes)) -- accessed 2026-10-09
+
 ## Decisions

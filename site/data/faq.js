@@ -23,5 +23,21 @@ window.FAQ_ITEMS = [
       ] },
     ],
   },
+  {
+    id: "book-formats",
+    q: "What do Manga, Manhwa and Light Novel mean?",
+    a: [
+      "Books and comics are labeled with the name of their form in its country of origin.",
+      { parts: [
+        { em: "Manga" },
+        { text: " are Japanese comics, " },
+        { em: "Manhwa" },
+        { text: " are Korean comics, and a " },
+        { em: "Light Novel" },
+        { text: " is a Japanese pocket-paperback novel, usually illustrated and often aimed at younger readers. Translated editions keep the label." },
+      ] },
+      "A Novella is a shorter novel, Short Stories is a collection of separate stories, a Gamebook lets the reader choose the path, and a Picture Book is a short illustrated book for children.",
+    ],
+  },
   ...window.FAQ_ITEMS_COMMON,
 ];

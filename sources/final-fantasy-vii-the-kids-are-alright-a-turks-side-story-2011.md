@@ -32,4 +32,9 @@ Kazushige Nojima -- By (entry `by`) -- wikipedia, Compilation of Final Fantasy V
 
 - https://yenpress.com/titles/9781975382360-final-fantasy-vii-the-kids-are-alright-a-turks-side-story
 
+## Sources
+
+goodreads.com (Information)
+- https://www.goodreads.com/book/show/13083648-final-fantasy-vii-lateral-biography -- format* (349 pages, Paperback (an English edition page); goodreads tags the genre "Light Novel, Young Adult", not trusted without a Japanese imprint; platform stays Novel) -- accessed 2026-10-09
+
 ## Decisions

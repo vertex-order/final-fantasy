@@ -95,7 +95,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
       [{ text: 'Covers a side story set somewhere before episode 12 of the ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime. Released as ' }, { emText: 'Final Fantasy: Unlimited Sō no Kizuna' }, { text: ' (双の絆, literally "Twin Bonds"), sometimes referred to as ' }, { emText: '~The Bonds of Two~' }, { text: ' and ' }, { emText: 'Double Bond' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Side-story', 'Novel'],
+      tags: ['Optional', 'Side-story', 'Light Novel'],
       subtitle: 'Book',
       length: '242p; P',
       helpWanted: true,
@@ -106,7 +106,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/76924204', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy: Unlimited Twin Bonds', searchQualifier: 'novel' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy: Unlimited Twin Bonds', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy: Unlimited Sō no Kizuna', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },

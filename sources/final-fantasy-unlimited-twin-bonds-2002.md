@@ -31,6 +31,13 @@ wikipedia.org (Information)
   - "A novel titled, Final Fantasy: Unlimited – Sou no Kizuna was released on March 28, 2002, by Kadokawa Shoten. The novel was written by Sho Katigiri, illustrated by Kazuto Nakazawa, and supervised by Squaresoft. It explores a side story that is set in the time of the television series."
   - Author spelled "Sho Katigiri" here; goodreads has "Syou Katagiri" (entry uses the goodreads form)
 
+wikipedia.org (Information)
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga -- dates*, credits*, ISBN* (agrees with google books) -- accessed 2026-10-09
+  - Wikipedia: March 2002; "A side story to Final Fantasy: Unlimited"; roughly translates to "The Bonds of Two"; JP ISBN 978-4-04-427701-7 (= 9784044277017, the ISBN on the google books record)
+
+goodreads.com (Information)
+- https://www.goodreads.com/book/show/76924204 -- format* (Paperback Bunko, Kadokawa Shoten, "Kadokawa Sneaker Bunko" (2002): the Sneaker Bunko imprint is a light-novel line, so the platform is Light Novel) -- accessed 2026-10-09
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

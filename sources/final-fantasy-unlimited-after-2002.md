@@ -29,6 +29,10 @@ wikipedia.org (Information)
   - "A book titled FF:U After – Gakai no Sho was released on May 15, 2002, by DigiCube. The book contains a 32-page manga drawn by Hiroyuki Yamashita and a 120-page script written by Atsuhiro Tomioka. It covers the twins' return to their own world, the revelation of Lisa's past, and introduces a new villain under Gaudium: Soljashy."
   - Credits: Hiroyuki Yamashita (manga), Atsuhiro Tomioka (script) -- not yet on the entry as `by`
 
+wikipedia.org (Information)
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga -- ISBN* (agrees with google books) -- accessed 2026-10-09
+  - Wikipedia: May 2002; described as "a series of web novels published on the official Japanese Final Fantasy: Unlimited website, which continue the story of the anime", later published in a single anthology by DigiCube; JP ISBN 4-88787-035-3 (= 9784887870352, the ISBN on the google books record). This differs from the "Printed" section, which describes the DigiCube book as a 32-page manga plus a 120-page script; the web novel is the After Spiral entry
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

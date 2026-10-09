@@ -14,4 +14,9 @@
 
 - https://www.goodreads.com/book/show/28466281
 
+## Sources
+
+goodreads.com (Information)
+- https://www.goodreads.com/book/show/28466281 -- format* (511 pages, Tankobon Softcover; platform stays Novella) -- accessed 2026-10-09
+
 ## Decisions

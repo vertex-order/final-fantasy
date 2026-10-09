@@ -164,26 +164,36 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   },
   {
     mediaType: 'Book', chronoOrder: 100, recommendedOrder: 604,
-    title: 'Final Fantasy XI ~Winds of Prayer~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2002-12-18',
+    title: 'Final Fantasy XI ~Winds of Prayer~ (Novel)', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2002-12-18',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
-      'Al, an inexperienced warrior, is led into the shadows of evil lurking in the land after a fateful encounter with a Galka knight and a young white mage. Released as 〜祈りの風〜.',
+      [
+        { text: 'Al, an inexperienced warrior, is led into the shadows of evil lurking in the land after a fateful encounter with a Galka knight and a young white mage. Released as 〜祈りの風〜, and in French and German as ' },
+        { emText: 'The Song of the Storm' },
+        { text: ' (' },
+        { emText: 'Le Chant de la tempête' },
+        { text: ' and ' },
+        { emText: 'Das Lied des Sturms' },
+        { text: ').' },
+      ],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '286p;A6',
       helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/57214633' },
-        { value: 'DE' },
-        { value: 'EN', tip: 'English (fan translation)' },
+        { value: 'FR', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1' },
+        { value: 'DE', url: 'https://www.goodreads.com/book/show/4466888-final-fantasy-xi' },
+        { value: 'EN', tip: 'English (fan translation)', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Winds%20of%20Prayer~%20(Novel)%20english%20translation' },
         { value: '…?' },
       ],
       ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/57214633', key: 'goodreads' },
+        { score: '3.24', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Winds of Prayer', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Winds of Prayer', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Winds of Prayer', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -219,7 +229,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       "Rookie warrior Alfred (Al) and his companions, after defeating the tank at the Orc Fortress of Gelsba, head to Windurst with its blueprints. Sensing an evil dark shadow lurking in Vana'diel, Al and his group continue their journey. Released as 〜星の誓い〜. May also be known as ~Oath of the Stars~. Book #2 in the French/German translated release order.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '287p;A6',
       languages: [
@@ -231,7 +241,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: '3.17', url: 'https://www.goodreads.com/book/show/43464316-final-fantasy-xi-tome-2', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Star Oath', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Star Oath', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Star Oath', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -240,14 +250,15 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   },
   {
     mediaType: 'Comic', chronoOrder: 110, recommendedOrder: 606,
-    title: 'Final Fantasy XI ~Prayer of the Wind~ Vol.1', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2010',
+    title: 'Final Fantasy XI ~Winds of Prayer~ (Manga)', titleUrl: "https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Vana'diel", titleDate: { start: '2008-09', end: '2010-03' },
+    by: [{ role: 'adapted', names: 'You Satsuki' }],
     mediaDesc: [
-      [{ text: 'Adapted from ' }, { emText: '~Winds of Prayer~ (2003)' }, { text: '.' }],
+      [{ text: 'Manga adaptation of ' }, { emLinkText: '~Winds of Prayer~ (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-winds-of-prayer-novel-2002' }, { text: '. Shares its Japanese title, 〜祈りの風〜, with the novel. Sometimes referred to as ' }, { emText: 'Prayer of the Wind' }, { text: ', ' }, { emText: 'Wind of Prayer' }, { text: ' and ' }, { emText: 'Wind of Pray' }, { text: ' (the English title printed on the covers).' }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Manga'],
       subtitle: 'Comic',
-      length: '144p',
+      length: '2 volumes',
       helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/78009261' },
@@ -257,7 +268,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/78009261', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Prayer of the Wind Vol.1', searchQualifier: 'manga' },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Prayer of the Wind', searchQualifier: 'manga' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Prayer of the Wind', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Prayer of the Wind comic', searchSuffix: '', noResults: true },
@@ -295,7 +306,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'With the party scattered on their own errands—Al and Iris waiting in Bastok, Peta in Windurst, Jed and Shera off to break a curse in Jeuno—Al and the others are suddenly called back to Jeuno for a new mission. Released as 〜永遠の絆〜. May also be known as ~The Eternal Link~ or ~The Covenant of Eternity~. Book #3 in the French/German translated release order.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '287p;A6',
       languages: [
@@ -307,7 +318,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: '3.83', url: 'https://www.goodreads.com/book/show/43464376-final-fantasy-xi-tome-3', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Eternal Bond', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Eternal Bond', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Eternal Bond', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -321,7 +332,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       "An adventure unfolds in Gilgamesh where one mystery leads to another. Released as 〜護りの剣〜①. We're not sure which volume's plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back. Book #4 in the French/German translated release order.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '255p;A6',
       helpWanted: true,
@@ -334,7 +345,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: '3.58', url: 'https://www.goodreads.com/book/show/43464339-final-fantasy-xi-tome-4', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Sword of Protection Vol.1', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Sword of Protection Vol.1', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Sword of Protection', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -348,7 +359,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       "Dak sets out on a journey with three companions after his childhood friend and foster parent goes missing, and encounters Rin, who has come into possession of a dragon child, and her companions. Released as 〜護りの剣〜②. We're not sure which volume's plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back. Book #5 in the French/German translated release order.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '254p;A6',
       helpWanted: true,
@@ -361,7 +372,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: '3.30', url: 'https://www.goodreads.com/book/show/43464361-final-fantasy-xi-tome-5', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Sword of Protection Vol.2', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Sword of Protection Vol.2', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Sword of Protection', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -375,7 +386,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'The concluding volume of the Sword of Protection trilogy, following Douglas and his companions to the Uggalepih Temple. Released as 〜護りの剣〜③. Book #6 in the French/German translated release order.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '255p;A6',
       languages: [
@@ -387,7 +398,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: '3.56', url: 'https://www.goodreads.com/book/show/78946739-final-fantasy-xi-on-line-tome-6', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Sword of Protection Vol.3', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Sword of Protection Vol.3', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Sword of Protection', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -401,7 +412,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'After some time apart, Alfred and his companions reunite in Jeuno, where a new adventure awaits Iris. Released as 〜遥かなる翼〜. Book #7 in the French/German translated release order.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '255p;A6',
       helpWanted: true,
@@ -414,7 +425,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: '3.60', url: 'https://www.goodreads.com/book/show/4466882-final-fantasy-xi', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Faraway Wings', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Faraway Wings', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Faraway Wings', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -428,7 +439,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'The first volume of the Pride of the Knight trilogy. Doug, Lynn, and their companions travel to Bastok after Peta hears from her old friend, the Galka knight Max. Released as 〜騎士の誇り〜①. Book #8 in the French/German translated release order.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '249p;A6',
       helpWanted: true,
@@ -441,7 +452,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/4466881-final-fantasy-xi', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Pride of the Knight Vol.1', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Pride of the Knight Vol.1', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Pride of the Knight', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -455,7 +466,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       "The second volume of the Pride of the Knight trilogy, continuing the group's adventures in and around Bastok. Released as 〜騎士の誇り〜②. Book #9 in the French/German translated release order.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '250p;A6',
       helpWanted: true,
@@ -468,7 +479,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/4466889-final-fantasy-xi', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Pride of the Knight Vol.2', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Pride of the Knight Vol.2', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Pride of the Knight', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -482,7 +493,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'The third and final volume of the Pride of the Knight trilogy. Released as 〜騎士の誇り〜③. Book #10 in the French/German translated release order.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '250p;A6',
       helpWanted: true,
@@ -495,7 +506,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: '3.80', url: 'https://www.goodreads.com/book/show/4466890-final-fantasy-xi', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Pride of the Knight Vol.3', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Pride of the Knight Vol.3', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Pride of the Knight', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -509,7 +520,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       "Al and Iris attend a friend's wedding. There, Reisha, a spy from San d'Oria, arrives with a request. Released as 〜冒険者の休日〜.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '318p;A6',
       helpWanted: true,
@@ -521,7 +532,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77099305', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XI Adventurer's Holiday", searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XI Adventurer's Holiday", searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: "Final Fantasy XI Adventurer's Holiday", noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -535,7 +546,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'Al\'s message cuts off with the words "it\'s darkness, a vortex of darkness..." and Iris, Shera, and Peta immediately set out to find Al and Jed. Released as 〜遠い願い〜㊤.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '249p;A6',
       helpWanted: true,
@@ -547,7 +558,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77131146', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Distant Wish Vol.1', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Distant Wish Vol.1', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI A Distant Wish', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -561,7 +572,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'Al and Jed are swept into a sudden vortex of darkness. Then, recklessly, Bata and Chit leap into the vortex themselves, but it vanishes immediately afterward. Left behind, Iris and Shera learn that the dark vortex seems to connect to Tavnazia, a land thought to have been destroyed long ago, and resolve to pursue the others. Released as 〜遠い願い〜㊦.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '255p;A6',
       helpWanted: true,
@@ -573,7 +584,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77654857', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Distant Wish Vol.2', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Distant Wish Vol.2', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI A Distant Wish', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -587,7 +598,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'Once again spanning two volumes, it features Al and Iris in action, set in Tavnazia. Released as 〜新たな夢〜㊤.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '255p;A6',
       helpWanted: true,
@@ -599,7 +610,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77686446', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A New Dream Vol.1', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A New Dream Vol.1', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI A New Dream', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -613,7 +624,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       "Al and his companions arrive in Tavnazia after falling into the Vortex of Darkness, pursued by Iris and Shera, while Klaus and Shiri arrive in search of news of their childhood friend, as the machinations of San d'Oria, Windurst, Bastok, and Jeuno draw the long-sealed city back into the open. Released as 〜新たな夢〜㊦.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '223p;A6',
       helpWanted: true,
@@ -625,7 +636,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77695106', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A New Dream Vol.2', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A New Dream Vol.2', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI A New Dream', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -639,7 +650,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'The prelude to the Aht Urhgan saga. Released as 〜旅の恵み〜.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '287p;A6',
       languages: [
@@ -649,7 +660,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77163778', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Blessings of the Journey', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Blessings of the Journey', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Blessings of the Journey', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -663,7 +674,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       "Pasha and Nelly, a pair of Mithra thieves in Al Zahbi who dream of marrying into wealth, make their living picking pockets and burgling mansions—until one day they steal something far bigger than they bargained for. The series' first female leads. Released as 〜アトルガンの娘たち〜①.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '287p;A6',
       languages: [
@@ -673,7 +684,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77185190', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan Vol.1', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan Vol.1', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -687,7 +698,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       "The Mithra thief duo, Pasha and Nelly, successfully steal treasure from a merchant's mansion in Al Zahbi. But Pasha gets stuck in her transformed state as a Tarutaru and can't revert back, and they're being chased by the merchant's bodyguards. Released as 〜アトルガンの娘たち〜②.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '251p;A6',
       languages: [
@@ -697,7 +708,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77208504', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan Vol.2', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan Vol.2', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -711,7 +722,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       "Having stolen the treasure token proving Farmett's conspiracy, Pasha and Nelly travel with adventurers they meet in the Inner Country to pursue hostages held captive by the Lamia. Released as 〜アトルガンの娘たち〜③.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '254p;A6',
       languages: [
@@ -721,7 +732,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77232781', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan Vol.3', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan Vol.3', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -735,7 +746,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'Continues the series of illustrated short stories, opening on a shocking turn of events involving the character Peta. Released as 〜賢者の遺言〜㊤.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '250p;A6',
       helpWanted: true,
@@ -747,7 +758,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77250550', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Testament of the Wise Vol.1', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Testament of the Wise Vol.1', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Testament of the Wise', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -761,7 +772,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'Peta is in danger, and Al and Iris set sail for Nashmo to rescue her. Released as 〜賢者の遺言〜㊦. May also be known as ~The Testament of the Sages~.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '252p;A6',
       helpWanted: true,
@@ -773,36 +784,9 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77249549', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Testament of the Wise Vol.2', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Testament of the Wise Vol.2', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Testament of the Wise', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 3550, recommendedOrder: 622,
-    title: 'Final Fantasy XI ~The Song of the Storm~ Vol.1', titleUrl: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1', titleDate: '2007',
-    mediaDesc: [
-      "In the world of Vana'diel, anyone can make a living, and earn glory, as a mage, knight, thief, or warrior. Alfred learns this as he's thrust into the greatest adventure of his life. Alongside the impetuous young mage Iris, he sets out on a dangerous journey to join Altana's people in their fight against the beastmen. Over the course of this perilous apprenticeship, Alfred must face his destiny, still unaware of the infernal machine he'll have to fight. Labeled Book #1 in the French/German translated release order, though its 2007 release date is later than several other Al books translated as later volumes in that order — we haven't identified a Japanese source title, so this numbering is unconfirmed.",
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Novel'],
-      subtitle: 'Book',
-      length: '222p; P',
-      languages: [
-        { value: 'FR', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1' },
-        { value: 'DE', url: 'https://www.goodreads.com/book/show/4466888-final-fantasy-xi' },
-      ],
-      helpWanted: true,
-      profileUrl: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1',
-      ratings: [
-        { score: '3.27', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Novel', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1' },
-        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XI Song of the Storm', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Song of the Storm', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
@@ -835,7 +819,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'Al and Iris\'s party, staying in Aht Urhgan, encounter a Mithra corsair known as "Lucky Narfah" during a certain adventure, but the man she\'s infatuated with is extremely suspicious. Released as 〜幸運の条件〜. A secondary English source describes her instead as an Elvaan named "Nalfa the Lucky" — race and name unconfirmed.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '284p;A6',
       helpWanted: true,
@@ -847,7 +831,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/51275414', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Conditions of Fortune', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Conditions of Fortune', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Conditions of Fortune', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -861,7 +845,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       "Al and his companions encounter a baby chocobo in the Floating Swamps of Kadava, and with no owner to be found, Al and Iris decide to raise it themselves, leaving their companions to head to San d'Oria. Released as 〜ロンフォールの姫騎士〜.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '254p;A6',
       helpWanted: true,
@@ -873,7 +857,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77698241', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Princess Knight of Ronfaure', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Princess Knight of Ronfaure', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Princess Knight of Ronfaure', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -887,7 +871,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'Chance, the lost chocobo found by Al and Iris and raised in Sandoria, was actually a victim of a sinister plot. To save Chance, the pair return to Aht Urhgan where their comrades await. Released as 〜星のいざない〜. May also be known as ~Starfall~.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '287p;A6',
       helpWanted: true,
@@ -899,7 +883,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77709037', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XI The Star's Call", searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XI The Star's Call", searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: "Final Fantasy XI The Star's Call", noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: "Final Fantasy XI The Star's Call", noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -913,7 +897,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'Dark Knight Larry finds himself helping a troublesome young black mage girl named Bee, and before he knows it, the two are traveling together hunting monsters, armed with his "Beast Photographer." Released as ハッピーギフト.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '313p;A6',
       languages: [
@@ -923,7 +907,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77438179', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Happy Gift', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Happy Gift', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Happy Gift', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -937,7 +921,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       "One day, a stranger visits Doug, Rin, and the others as they search for Tikki's mother. She delivers a letter from Tikki's mother, written twenty years ago. Released as 〜彼方からの伝言〜①.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '255p;A6',
       languages: [
@@ -947,7 +931,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77778217', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Message from Beyond Vol.1', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Message from Beyond Vol.1', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI A Message from Beyond', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -961,7 +945,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       "Responding to a rescue request from Tikki's mother, what awaited them at the designated location was the 'Forbidden Mouth'. Through it, Dag and his companions were transported to the past of Vana'diel. Released as 〜彼方からの伝言〜②.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '255p;A6',
       languages: [
@@ -971,7 +955,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77439898', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Message from Beyond Vol.2', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Message from Beyond Vol.2', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI A Message from Beyond', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -985,7 +969,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       "While searching for Tikki's mother, Euphelin, Doug and Lynn's party are transported to the past of Vana'diel amid the Crystal War. Released as 〜彼方からの伝言〜③. May also be known as ~Messages from Afar~.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '255p;A6',
       languages: [
@@ -995,7 +979,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77456526', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Message from Beyond Vol.3', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Message from Beyond Vol.3', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI A Message from Beyond', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -1009,7 +993,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'Anthology of three short stories. Full title: "An Anthology of Short Stories: A Great Adventure for Everyone!!" Released as アンソロジー短編集みんなで大冒険！！.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel', 'Short Stories'],
       subtitle: 'Book',
       length: '311p;A6',
       languages: [
@@ -1019,7 +1003,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77470246', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Anthology', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Anthology', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Anthology of Short Stories', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -1033,7 +1017,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'Ron, a modestly skilled adventurer raised in Windurst, is dragged by his childhood friend Shari into searching for the Book of Gods, said to be in the hands of the thief Nanaa Mihgo. Released as ザルカバードの鼓動①.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '282p;A6',
       languages: [
@@ -1043,7 +1027,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77328971', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard Vol.1', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard Vol.1', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -1057,7 +1041,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'Ron and the others find the Book of Gods, but it has become a blank White Book, and the Duke of Jeuno tasks them with investigating a mysterious magicite as fears grow that the Shadow Lord is returning. Released as ザルカバードの鼓動②.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '247p;A6',
       languages: [
@@ -1067,7 +1051,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77348591', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard Vol.2', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard Vol.2', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -1081,7 +1065,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       'The Shadow Lord is returning. Ron and Shari bring this news back to Windurst, scattering the party as Savvy, Duga, and Riccorocco head to their own nations. The nations decide to entrust the defeat of the Shadow Lord to an elite force of adventurers, bringing them together once more. Released as ザルカバードの鼓動③.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '283p;A6',
       languages: [
@@ -1091,7 +1075,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77379192', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard Vol.3', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard Vol.3', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -1130,7 +1114,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       "A month after the crisis of Escafication, Vana'diel was slowly returning to normal. A sailing ship drifting along the South Ocean route encounters a colossal monster, marking the start of a new incident across Vana'diel, Tavnazia, and Reisenjima. Released as 〜終わりなき大地の唄〜. May also be known as ~The Song of the Endless Land~.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'YA Short Stories'],
+      tags: ['Optional', 'Spin-off', 'Novel'],
       subtitle: 'Book',
       length: '287p;B6',
       languages: [
@@ -1140,7 +1124,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/69235773', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Songs of the Endless Earth', searchQualifier: 'short stories' },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Songs of the Endless Earth', searchQualifier: 'novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: "Final Fantasy XI Adventurer's Holiday", noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },

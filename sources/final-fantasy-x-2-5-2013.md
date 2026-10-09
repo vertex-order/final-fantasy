@@ -41,4 +41,7 @@ breezewiki.com (Information)
 youtube.com (Information)
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20X-2.5%20audiobook -- audiobook* (results exist) -- accessed 2026-10-08
 
+goodreads.com (Information)
+- https://www.goodreads.com/book/show/23978849-final-fantasy-x-2-5-final-fantasy-x-2-5 -- format* (242 pages, Paperback, first published December 26, 2013, original title "Final Fantasy X-2.5 永遠の代償"; no bunko imprint shown, so the platform stays Novel) -- accessed 2026-10-09
+
 ## Decisions

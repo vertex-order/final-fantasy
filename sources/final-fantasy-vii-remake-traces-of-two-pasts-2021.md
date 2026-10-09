@@ -29,4 +29,9 @@ Kazushige Nojima -- By (entry `by`) -- wikipedia, Compilation of Final Fantasy V
 
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%20Remake%3A%20Traces%20of%20Two%20Pasts%20story%20recap -- recap* (results exist) -- accessed 2026-10-08
 
+## Sources
+
+goodreads.com (Information)
+- https://www.goodreads.com/book/show/117984595-final-fantasy-vii-remake -- format* (406 pages, Hardcover; goodreads tags the genre "Light Novel" among others, not trusted for a hardcover; platform stays Novel) -- accessed 2026-10-09
+
 ## Decisions

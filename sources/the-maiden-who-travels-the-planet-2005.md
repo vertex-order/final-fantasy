@@ -25,4 +25,9 @@ Benny Matsuyama -- Written by (entry `by`) -- wikipedia, Compilation of Final Fa
 
 - https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Related_media -- story, platforms, credits* -- accessed 2026-09-22
 
+## Sources
+
+goodreads.com (Information)
+- https://www.goodreads.com/book/show/60295273-the-maiden-who-travels-the-planet -- format* (45 pages, Paperback; a novella) -- accessed 2026-10-09
+
 ## Decisions

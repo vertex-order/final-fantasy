@@ -245,11 +245,12 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 840,
     title: 'Final Fantasy XIV ~Winds of Eorzea~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2010',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
-      [{ text: 'Novelization of ' }, { emText: 'XIV ~1.0~ (2010)' }, { text: " begins with three adventures set in three different city-states of Eorzea, following the Age of Calm after the nations' alliance against the Garlean Empire." }],
+      [{ text: 'An original story set in the world of ' }, { emText: 'XIV ~1.0~ (2010)' }, { text: ". It begins with three adventures set in three different city-states of Eorzea, following the Age of Calm after the nations' alliance against the Garlean Empire." }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Novel'],
+      tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       length: '254p;A6',
       languages: [
@@ -257,7 +258,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
       ],
       helpWanted: true,
       platforms: [
-        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XIV Winds of Eorzea', searchQualifier: 'novel' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XIV Winds of Eorzea', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },

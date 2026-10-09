@@ -34,7 +34,8 @@ fanfiction.net (Information)
 - https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel -- fan project alt*
 
 wikipedia.org (Information)
-- https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga -- novels*, ISBN*, dates (Wikipedia lists Dec 25, 2008 for both volumes; goodreads says 2009 for both) -- accessed 2026-10-08
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga -- dates*, ISBN* (agrees with the google books ISBNs) -- accessed 2026-10-09
+  - Wikipedia: December 25, 2008; two-volume novelization of Final Fantasy IV; JP ISBN 4-7575-2458-7 (Vol.1) and 4-7575-2459-5 (Vol.2)
 
 youtube.com (Information)
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20~Novel~%20audiobook -- audiobook* (results exist) -- accessed 2026-10-08

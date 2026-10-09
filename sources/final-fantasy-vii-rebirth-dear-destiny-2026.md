@@ -22,4 +22,9 @@ Kazushige Nojima -- By (entry `by`) -- wikipedia, Compilation of Final Fantasy V
 
 - https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- story, platforms, credits* -- accessed 2026-09-22
 
+## Sources
+
+goodreads.com (Information)
+- https://www.goodreads.com/book/show/252507206-final-fantasy-vii-rebirth -- format* (414 pages, Hardcover; platform stays Novel) -- accessed 2026-10-09
+
 ## Decisions

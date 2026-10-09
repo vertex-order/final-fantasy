@@ -175,7 +175,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       [{ text: 'Novelization of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: '. Includes additional scenarios and story changes, which could be considered an alternate universe retelling. Released as ' }, { emText: 'Final Fantasy II Muma no Meikyū' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Alternate Universe', 'Novel'],
+      tags: ['Optional', 'Alternate Universe', 'Light Novel'],
       subtitle: 'Book',
       length: '281p',
       languages: [
@@ -186,7 +186,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77954969', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy II Muma no Meikyū Nightmare's Labyrinth", searchQualifier: 'novel' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy II Muma no Meikyū Nightmare's Labyrinth", searchQualifier: 'light novel' },
         {
           key: 'fan-translation',
           url: 'https://duckduckgo.com/?q=Final%20Fantasy%20II%20Muma%20no%20Meiky%C5%AB%20Nightmare%27s%20Labyrinth%20translation&t=h_',
