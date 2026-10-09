@@ -120,6 +120,12 @@ and pull via `just sync`.
   split. `ongoing` (a franchise/series expected to get more entries) is
   unrelated to `releaseDate`'s future-dated / `Upcoming` machinery (see
   docs/upcoming.md), which is about one specific unreleased title.
+- **Native release is the authoritative date** for `titleDate`
+  start/end.
+  - Use the original-language release, even when a translation lands later.
+  - Range `end`: latest native release (e.g. last native volume), not
+    the translation's.
+  - Translation dates stay in `sources/`, unstarred.
 - **`releaseOrderDate` is a sort-only date** (on a `media[]` slot, same
   grammar as `titleDate`). It only affects the two release-order modes, for
   a primary that's a renamed remake/Final Mix whose own `titleDate` would
@@ -141,6 +147,25 @@ and pull via `just sync`.
 - `YA Novel`: only a book sold as young-adult in the West.
 - Content goes elsewhere (description, tags like `Short Stories`), not in
   place of the format.
+
+## Book platform link (`Book` and `Comic` entries only)
+
+- Applies to `mediaType: 'Book'` and `'Comic'`; no other media type.
+- The `book` platform row helps a reader find a copy in their language
+  from a store. We don't list stores: too regional, too many.
+- Pick, in order:
+  - Goodreads **series** page, when the series exists: it links every
+    volume and its language editions.
+  - Else a Goodreads book page that lists the other languages as alternate
+    editions.
+  - Otherwise the DuckDuckGo search row
+    (`paren: 'DuckDuckGo', search: 'duckduckgo'`).
+- Never repeat `profileUrl` in the `book` row (e.g. the publisher's English
+  store page). Same page twice, and no route to a store.
+- Search row:
+  - Omit `searchTitle` unless punctuation breaks the results.
+  - No language word in the query; the reader adds their own.
+  - `noResults` only if the search really comes back empty.
 
 ## Descriptions
 
