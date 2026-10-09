@@ -1,5 +1,5 @@
 // schema: group.schema.json
-window.__ffGroupReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1900, title: 'Artniks', note: 'Spin-off mashup pulling characters and settings from across the Final Fantasy franchise, tied to the GREE mobile-social gaming platform exclusively in Japan. The games could be considered an alternate universe, and gameplay is inspired by card-based elements.', media: [
+window.__ffGroupReg['AN'] = { num: 'AN', chronoOrder: 1900, recommendedOrder: 1740, title: 'Artniks', note: 'Spin-off mashup pulling characters and settings from across the Final Fantasy franchise, tied to the GREE mobile-social gaming platform exclusively in Japan. The games could be considered an alternate universe, and gameplay is inspired by card-based elements.', media: [
   {
     mediaType: 'Game', chronoOrder: 100, recommendedOrder: 100,
     title: 'Final Fantasy Artniks', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Artniks', titleDate: '2012-11-30',

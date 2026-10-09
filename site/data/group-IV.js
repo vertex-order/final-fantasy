@@ -258,10 +258,10 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
         title: 'Final Fantasy IV: The Novel ~Fan Project~', titleUrl: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel', titleDate: 2002,
         length: '27 chapters',
         languages: [
-          { value: 'EN' },
+          { value: 'EN', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' },
         ],
         platforms: [
-          { key: 'book', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' },
+          { key: 'globe', name: 'Web Novel', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' },
         ],
         versionDesc: [
           [

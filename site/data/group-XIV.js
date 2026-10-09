@@ -290,7 +290,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
   },
   {
     mediaType: 'Book', chronoOrder: 3800, recommendedOrder: 865,
-    title: 'Final Fantasy XIV: Chronicles of Light Vol.1', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091850', titleDate: '2019-03-09',
+    title: 'Final Fantasy XIV: Chronicles of Light Vol.1', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646091850', titleDate: '2019-03-09',
     mediaDesc: [
       [{ text: 'A collection of twenty-five short stories expanding on the lore of ' }, { emText: 'XIV' }, { text: ', including twenty-one stories originally published on the ' }, { emText: 'Side Stories' }, { text: ' web series, plus four stories new to this collection.' }],
     ],
@@ -308,7 +308,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
         { score: '4.39', url: 'https://www.goodreads.com/book/show/45701588-final-fantasy-xiv', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091850' },
+        { key: 'book', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646091850' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV: Chronicles of Light', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
@@ -316,7 +316,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
   },
   {
     mediaType: 'Book', chronoOrder: 6500, recommendedOrder: 870,
-    title: 'Final Fantasy XIV: Chronicles of Light, Vol.2', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094196', titleDate: '2025-10-07',
+    title: 'Final Fantasy XIV: Chronicles of Light, Vol.2', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646094196', titleDate: '2025-10-07',
     mediaDesc: [
       [{ text: 'A second collection of thirty short stories, continuing ' }, { emText: 'Vol.1 (2022)' }, { text: ', expanding on the lore of ' }, { emText: 'XIV' }, { text: '. Originally published on the ' }, { emText: 'Side Stories' }, { text: ' web series, adding to the lore of Shadowbringers, Endwalker, and Dawntrail.' }],
     ],
@@ -333,7 +333,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
         { score: '4.59', url: 'https://www.goodreads.com/book/show/236916972-final-fantasy-xiv', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094196' },
+        { key: 'book', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646094196' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV: Chronicles of Light, Volume II', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
@@ -341,7 +341,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
   },
   {
     mediaType: 'Comic', chronoOrder: 7800, recommendedOrder: 880,
-    title: 'Final Fantasy XIV: Eorzea Academy', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092352', titleDate: '2023-02-07',
+    title: 'Final Fantasy XIV: Eorzea Academy', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646092352', titleDate: '2023-02-07',
     mediaDesc: [
       [{ text: 'A modern-day high school comedy manga starring ' }, { emText: 'XIV' }, { text: ' characters. Alisaie attends Eorzea Academy, formed by the merger of rival schools the Academy of Light and the Academy of Darkness, where headmistress Tataru organizes school games to ease the ongoing tension between the two student bodies.' }],
     ],
@@ -359,7 +359,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
         { score: '4.30', url: 'https://www.goodreads.com/book/show/123259381-final-fantasy-xiv', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092352' },
+        { key: 'book', name: 'Manga', url: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646092352' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV: Eorzea Academy', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
@@ -445,42 +445,43 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
   },
   {
     mediaType: 'Book', chronoOrder: 5200, recommendedOrder: 885,
-    title: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447', titleDate: '2022-08-09',
+    title: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646091447', titleDate: '2021-05-08',
     mediaDesc: [
-      [{ text: 'When their river starts running dry, the catfish-like Namazu set out on a quest to make it rain, needing to find a "thing that no one has ever seen." Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-xiv-picture-book-the-namazu-and-the-greatest-gift-2022' }, { text: ' series.' }],
+      [{ text: 'When their river starts running dry, the catfish-like Namazu set out on a quest to make it rain, needing to find a "thing that no one has ever seen." Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-xiv-picture-book-the-namazu-and-the-greatest-gift-2021' }, { text: ' series.' }],
     ],
     primary: {
       tags: ['Optional', 'Tie-in', 'Picture Book'],
       subtitle: 'Book',
+      profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646091447',
       length: '24p',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/58813457' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/59912205-final-fantasy-xiv-picture-book' },
         { value: '…?' },
       ],
       helpWanted: true,
       ratings: [
-        { score: '4.65', url: 'https://www.goodreads.com/book/show/59912205-final-fantasy-xiv-picture-book', key: 'goodreads' },
+        { score: '4.64', url: 'https://www.goodreads.com/book/show/59912205-final-fantasy-xiv-picture-book', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091447' },
-        { key: 'fan-movie', search: 'youtube', searchQualifier: 'reading', searchSuffix: '' },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
+        { key: 'book', name: 'Picture Book', paren: 'DuckDuckGo', search: 'duckduckgo' },
+        { key: 'fan-audiobook', search: 'youtube' },
       ],
     },
   },
   {
     mediaType: 'Book', chronoOrder: 7200, recommendedOrder: 890,
-    title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833', titleDate: '2027-04-13',
+    title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9798899100833', titleDate: '2025-12-17',
     mediaDesc: [
-      [{ text: 'A child stumbles upon a strange, corn-like creature that no adult can see, and after a curious poke sends its head flying off, an adventure with the Cornservant begins. Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-xiv-picture-book-me-and-the-cornservant-2027' }, { text: ' series.' }],
+      [{ text: 'A child stumbles upon a strange, corn-like creature that no adult can see, and after a curious poke sends its head flying off, an adventure with the Cornservant begins. Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-xiv-picture-book-me-and-the-cornservant-2025' }, { text: ' series.' }],
     ],
     primary: {
       tags: ['Optional', 'Tie-in', 'Picture Book'],
       subtitle: 'Book',
+      profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9798899100833',
       length: '24p',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, url: 'https://magazine.jp.square-enix.com/gamebooks/books/10502' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/255391940' },
         { value: '…?' },
       ],
@@ -489,15 +490,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/255391940', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Picture Book', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100833' },
-        {
-          key: 'fan-movie',
-          paren: 'Youtube',
-          search: 'youtube',
-          searchQualifier: 'reading',
-          searchSuffix: '',
-          noResults: true,
-        },
+        { key: 'book', name: 'Picture Book', paren: 'DuckDuckGo', search: 'duckduckgo' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
@@ -506,7 +499,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     mediaType: 'Game', chronoOrder: 900, recommendedOrder: 900,
     title: 'Final Fantasy XIV: Legend of Balance', titleUrl: 'https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Legend_of_Balance', titleDate: '2013-01',
     mediaDesc: [
-      [{ text: 'Taking place between the original ' }, { emText: 'XIV ~1.0~ (2010)' }, { text: ' and the start of ' }, { emLinkText: 'XIV: A Realm Reborn (2013)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-a-realm-reborn-2013' }, { text: ' with an original fan created story that can be considered an alternate universe. It can be played without knowing about either. Released as ' }, { emText: 'Final Fantasy: Legend of Balance' }, { text: '. Entry also found in our ' }, { emText: 'Fan Projects' }, { text: ' series.' }],
+      [{ text: 'Taking place between the original ' }, { emText: 'XIV ~1.0~ (2010)' }, { text: ' and the start of ' }, { emLinkText: 'XIV: A Realm Reborn (2013)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-a-realm-reborn-2013' }, { text: ' with an original fan created story that can be considered an alternate universe. It can be played without knowing about either. Released as ' }, { emText: 'Final Fantasy: Legend of Balance' }, { text: '. Entry also found in our ' }, { emLinkText: 'Fan Projects', emLinkUrl: '#group-FAN' }, { text: ' series.' }],
       'A group of heroes, champions of Eorzea, are transported away moments before facing certain death against Bahamut, and must find their way home through a strange new world entwined with crystals, old evils, and steadfast allies.',
     ],
     primary: {

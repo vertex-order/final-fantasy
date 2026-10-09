@@ -207,7 +207,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100, 
             { key: 'fan-playthrough', search: 'youtube', searchQualifier: 'renaissance' },
           ],
           versionDesc: [
-            [{ text: "A fan-remake of Final Fantasy (1987) in the Unity game engine that fixes many of the original's bugs. Also includes an extra mode with extra gameplay content like new jobs. Released free-to-play via Discord as " }, { emText: 'Final Fantasy Renaissance' }, { text: '. Entry also found in our Fan Projects series.' }],
+            [{ text: "A fan-remake of Final Fantasy (1987) in the Unity game engine that fixes many of the original's bugs. Also includes an extra mode with extra gameplay content like new jobs. Released free-to-play via Discord as " }, { emText: 'Final Fantasy Renaissance' }, { text: '. Entry also found in our ' }, { emLinkText: 'Fan Projects', emLinkUrl: '#group-FAN' }, { text: ' series.' }],
           ],
         },
         {
@@ -412,7 +412,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100, 
     mediaType: 'Comic', chronoOrder: 800, recommendedOrder: 460,
     title: '8-Bit Theater ~FFI~', titleUrl: 'https://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EightBitTheater', titleDate: { start: '2001-03-02', end: '2010-06-01' },
     mediaDesc: [
-      [{ text: 'A fan-made affectionate parody of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ", follows the four Light Warriors (who really aren't the best for the job): Fighter McWarrior, an astoundingly stupid sword-obsessed warrior; Black Mage Evilwizardington, an Ax-Crazy homicidal sociopath who is only held back by the Rule of Funny and a tendency to get hurt; Thief, a fugitive prince of elf clan Khee'bler armed with extreme greed and an expertise in manipulative contracts; and Red Mage Statscowski, a so-called strategist who considers life to be a tabletop game, is obsessed with his stats, and was tricked into liking cross dressing. Entry also found in our " }, { emText: 'Fan Projects' }, { text: ' series.' }],
+      [{ text: 'A fan-made affectionate parody of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ", follows the four Light Warriors (who really aren't the best for the job): Fighter McWarrior, an astoundingly stupid sword-obsessed warrior; Black Mage Evilwizardington, an Ax-Crazy homicidal sociopath who is only held back by the Rule of Funny and a tendency to get hurt; Thief, a fugitive prince of elf clan Khee'bler armed with extreme greed and an expertise in manipulative contracts; and Red Mage Statscowski, a so-called strategist who considers life to be a tabletop game, is obsessed with his stats, and was tricked into liking cross dressing. Entry also found in our " }, { emLinkText: 'Fan Projects', emLinkUrl: '#group-FAN' }, { text: ' series.' }],
     ],
     primary: {
       tags: ['Optional', 'Unofficial fan project', 'Alternate Universe', 'Webcomic', 'Free'],

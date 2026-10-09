@@ -70,25 +70,26 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 900
   },
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 300,
-    title: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky", titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094738', titleDate: '2026-05-19',
+    title: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky", titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646094738', titleDate: '2025-07-02',
     mediaDesc: [
-      [{ text: 'Vivi is a mysterious boy fished out of the ocean by Grandpa Quan, a gourmand trying to master the art of food. Once Grandpa Quan realizes Vivi is not food, he raises Vivi and teaches him about the world. Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-ix-picture-book-vivi-and-grandpas-memories-for-the-sky-2026' }, { text: ' series.' }],
+      [{ text: 'Vivi is a mysterious boy fished out of the ocean by Grandpa Quan, a gourmand trying to master the art of food. Once Grandpa Quan realizes Vivi is not food, he raises Vivi and teaches him about the world. Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-ix-picture-book-vivi-and-grandpas-memories-for-the-sky-2025' }, { text: ' series.' }],
     ],
     primary: {
       tags: ['Optional', 'Tie-in', 'Picture Book'],
       subtitle: 'Book',
+      profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646094738',
       length: '48p',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/238657202' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book' },
         { value: '…?' },
       ],
       helpWanted: true,
       ratings: [
-        { score: '4.45', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book', key: 'goodreads' },
+        { score: '4.44', url: 'https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Picture Book', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky" },
+        { key: 'book', name: 'Picture Book', paren: 'DuckDuckGo', search: 'duckduckgo' },
         { key: 'fan-audiobook', search: 'youtube' },
       ],
     },

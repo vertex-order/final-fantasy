@@ -23,7 +23,7 @@ goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/241450087-final-fantasy-xiv-chroniken-des-lichts-01
 
 Square Enix (Publisher, Developer)
-- https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091850
+- https://squareenixmangaandbooks.square-enix-games.com/product/9781646091850
 - https://na.store.square-enix-games.com/final-fantasy-xiv_-chronicles-of-light
 
 goodreads.com (Information)

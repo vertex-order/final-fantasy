@@ -1237,7 +1237,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     mediaType: 'Game', chronoOrder: 1050, recommendedOrder: 700,
     title: 'Final Fantasy XI: Braver', titleUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver', titleDate: '2021-07-10',
     mediaDesc: [
-      [{ text: 'Taking place roughly in the world of ' }, { emLinkText: 'XI: Rise of the Zilart (2003)', emLinkUrl: '#entry-XI-final-fantasy-xi-rise-of-the-zilart-2003' }, { text: ' with a sprinkle from other Final Fantasy titles, making it a bit of an alternate universe re-imagining. Entry also found in our Fan Projects series.' }],
+      [{ text: 'Taking place roughly in the world of ' }, { emLinkText: 'XI: Rise of the Zilart (2003)', emLinkUrl: '#entry-XI-final-fantasy-xi-rise-of-the-zilart-2003' }, { text: ' with a sprinkle from other Final Fantasy titles, making it a bit of an alternate universe re-imagining. Entry also found in our ' }, { emLinkText: 'Fan Projects', emLinkUrl: '#group-FAN' }, { text: ' series.' }],
       'A party of adventurers, fresh off a win in the Valkurm Dunes, is summoned to Lower Jeuno by the Captain of the Ducal Guard for an urgent mission.',
     ],
     primary: {

@@ -16,7 +16,7 @@ Kazushige Nojima -- By (entry `by`) -- wikipedia, Compilation of Final Fantasy V
 
 ## Square Enix (Publisher, Developer)
 
-- https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100826
+- https://squareenixmangaandbooks.square-enix-games.com/product/9798899100826
 
 ## wikipedia.org (Information)
 

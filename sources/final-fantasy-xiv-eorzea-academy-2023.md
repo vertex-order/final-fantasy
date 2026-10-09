@@ -15,6 +15,6 @@
 
 ## Square Enix (Publisher, Developer)
 
-- https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646092352
+- https://squareenixmangaandbooks.square-enix-games.com/product/9781646092352
 
 ## Decisions

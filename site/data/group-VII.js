@@ -547,12 +547,12 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
         },
       ],
       length: '406p; H',
-      profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091775',
+      profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646091775',
       ratings: [
         { score: '4.14', url: 'https://www.goodreads.com/book/show/60556665-final-fantasy-vii-remake', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646091775' },
+        { key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646091775' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
@@ -572,12 +572,12 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/252507206-final-fantasy-vii-rebirth' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/254945294-final-fantasy-vii-rebirth' },
       ],
-      profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100826',
+      profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9798899100826',
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/254945294-final-fantasy-vii-rebirth', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100826' },
+        { key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/product/9798899100826' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],

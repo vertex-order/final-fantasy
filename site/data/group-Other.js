@@ -112,13 +112,15 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
   },
   {
     mediaType: 'Comic', chronoOrder: 1400, recommendedOrder: 250,
-    title: 'Final Fantasy Lost Stranger', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Lost_Stranger', titleDate: '2017-07-12',
+    title: 'Final Fantasy Lost Stranger', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Lost_Stranger', titleDate: { start: '2017-07-12', end: '2025-08', ongoing: true },
+    by: [{ role: 'written', names: 'Hazuki Minase' }, { role: 'illustrated', names: 'Itsuki Kameya' }],
     mediaDesc: [
       'A manga following Square Enix employee Shogo Sasaki, a lifelong Final Fantasy fan, who is killed in a truck accident along with his sister Yuko and reborn into a Final Fantasy-style world unbound to any particular installment. Ongoing.',
     ],
     primary: {
       tags: ['Optional', 'Alternate Universe', 'Manga'],
       subtitle: 'Comic',
+      profileUrl: 'https://yenpress.com/series/final-fantasy-lost-stranger',
       languages: [
         { value: 'EN', url: 'https://www.goodreads.com/book/show/40223499-final-fantasy-lost-stranger-vol-1' },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/40846282-final-fantasy-lost-stranger-1' },
@@ -133,9 +135,9 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
       ratings: [
         { score: '4.10', url: 'https://www.goodreads.com/book/show/40223499-final-fantasy-lost-stranger-vol-1', key: 'goodreads' },
       ],
-      length: [{ value: '14+ volumes', tip: 'As of 2026' }],
+      length: [{ value: '13+ volumes', tip: 'As of 2026-10-09' }],
       platforms: [
-        { key: 'book', name: 'Manga', url: 'https://yenpress.com/series/final-fantasy-lost-stranger' },
+        { key: 'book', name: 'Manga', url: 'https://www.goodreads.com/series/271153-final-fantasy-lost-stranger' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Lost Stranger', searchSuffix: 'manga dub', noResults: true },
         {
           key: 'fan-recap',
@@ -147,7 +149,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
   },
   {
     mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300,
-    title: 'Chocobo (series)', titleUrl: 'https://wikipedia.org/wiki/Chocobo_(series)', titleDate: { start: 1997, end: 2022 },
+    title: 'Chocobo (series)', titleUrl: 'https://wikipedia.org/wiki/Chocobo_(series)', titleDate: { start: 1997, end: 2022, ongoing: true },
     mediaDesc: [
       [{ text: "Over 21 titles in this series provide casual fun centered around a recurring cast of characters and all relating to Final Fantasy's Chocobo mounts. The games span different genres, and some entries are a bit too simplistic to deserve their own entries, as a whole the series may be worth checking out." }],
     ],

@@ -146,7 +146,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
       [{ text: 'Takes place after the events of ' }, { emLinkText: 'Unlimited After (2002)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-after-2002' }, { text: ". It covers Makenshi's past and the events surrounding Ai and Yu's return to their home. A bonus side-story chapter " }, { emText: 'Final Fantasy: Unlimited After Zero' }, { text: ' about Makenshi and Madoushi. It was posted freely on the FF:U site.' }],
     ],
     primary: {
-      tags: ['Sequel', 'Side-story', 'Web novel'],
+      tags: ['Sequel', 'Side-story', 'Web Novel'],
       subtitle: 'Book',
       length: '7 chapters',
       languages: [
@@ -154,7 +154,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
         { value: 'EN', tip: 'English (fan translation)' },
       ],
       platforms: [
-        { key: 'globe', name: 'Web novel', jpTag: true, url: 'https://web.archive.org/web/20040630063907/http://www.ff-u.com/after_project/index.html' },
+        { key: 'globe', name: 'Web Novel', jpTag: true, url: 'https://web.archive.org/web/20040630063907/http://www.ff-u.com/after_project/index.html' },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' },
         { key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },

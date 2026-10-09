@@ -14,7 +14,7 @@
 
 ## Square Enix (Publisher, Developer)
 
-- https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090006
+- https://squareenixmangaandbooks.square-enix-games.com/product/9781646090006
 
 ## wikipedia.org (Information)
 

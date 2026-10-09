@@ -2,11 +2,16 @@
 
 # Final Fantasy IV: The Novel ~Fan Project~
 
-<!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
-     dates/stars yet. Needs a human research pass per docs/sources.md. -->
+## Sources
 
-## fanfiction.net (Information)
+fanfiction.net (Information)
+- https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel — title link*, platforms* (Web novel), length* (27 chapters), dates* (2002-08-10), languages* (EN link) — accessed not recorded — archived: TODO
+  - Fields listed are what the entry carries from this page; not re-read in this pass
 
-- https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel
+## Surveyed
+
+## Not yet surveyed
+
+- Wayback copy · author credit (entry has no `by`)
 
 ## Decisions
