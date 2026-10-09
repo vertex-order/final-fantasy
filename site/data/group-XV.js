@@ -553,7 +553,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     title: 'Final Fantasy XV: The Dawn of the Future', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646090006', titleDate: '2019-04-25',
     by: 'Jun Eishima',
     mediaDesc: [
-      [{ text: 'Follows Ardyn, Aranea, Lunafreya, and Noctis as each confronts fate in the aftermath of ' }, { emText: 'XV' }, { text: ", closing out the stories of the world's dawning after the game's events." }],
+      [{ text: 'Follows Ardyn, Aranea, Lunafreya, and Noctis as each confronts fate in the aftermath of ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: ", closing out the stories of the world's dawning after the game's events." }],
     ],
     primary: {
       tags: ['Optional', 'Novel'],
