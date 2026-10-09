@@ -192,9 +192,10 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   },
   {
     mediaType: 'Comic', chronoOrder: -10, recommendedOrder: 602,
-    title: 'Final Fantasy XI ~The Out of Orders~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~', titleDate: '2003-04-19',
+    title: 'Final Fantasy XI ~The Out of Orders~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~', titleDate: '2004-12-17',
+    by: [{ role: 'written', names: 'Kim Sung-Jae' }, { role: 'illustrated', names: 'Kim Byung-Jin' }],
     mediaDesc: [
-      [{ text: 'An original story set during the Crystal War twenty years before the main story of ' }, { emText: 'XI (2003)' }, { text: ', which later became the setting for the ' }, { emLinkText: 'Wings of the Goddess (2007)', emLinkUrl: '#entry-XI-final-fantasy-xi-wings-of-the-goddess-2007' }, { text: ' expansion. Some differences with characters from the game make it so it could be considered an alternate universe story. Cancelled so is incomplete.' }],
+      [{ text: 'An original story set during the Crystal War twenty years before the main story of ' }, { emLinkText: 'XI (2003)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', which later became the setting for the ' }, { emLinkText: 'Wings of the Goddess (2007)', emLinkUrl: '#entry-XI-final-fantasy-xi-wings-of-the-goddess-2007' }, { text: ' expansion. Some differences with characters from the game make it so it could be considered an alternate universe story. It was cancelled after three issues and left incomplete.' }],
     ],
     primary: {
       tags: ['Optional', 'Prequel', 'Alternate Universe', 'Manhwa', 'Incomplete'],
@@ -204,7 +205,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'book', name: 'Manhwa', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Out of Orders', searchQualifier: 'manhwa' },
+        { key: 'book', name: 'Manhwa', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~#External_links' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-audiobook', name: 'Fan manhwa dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Out of Orders', searchSuffix: 'manhwa dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Out of Orders', noResults: true },
