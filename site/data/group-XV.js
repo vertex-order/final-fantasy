@@ -587,6 +587,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/36208245-final-fantasy-xv-official-comic-anthology-2017-7-27' },
         { value: 'EN', tip: 'English (fan translation)', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%20translation' },
+        { value: '…?' },
       ],
       helpWanted: true,
       ratings: [
