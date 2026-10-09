@@ -550,13 +550,15 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
   },
   {
     mediaType: 'Book', chronoOrder: 3500, recommendedOrder: 950,
-    title: 'Final Fantasy XV: The Dawn of the Future', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646090006', titleDate: '2019-01-31',
+    title: 'Final Fantasy XV: The Dawn of the Future', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646090006', titleDate: '2019-04-25',
+    by: 'Jun Eishima',
     mediaDesc: [
       [{ text: 'Follows Ardyn, Aranea, Lunafreya, and Noctis as each confronts fate in the aftermath of ' }, { emText: 'XV' }, { text: ", closing out the stories of the world's dawning after the game's events." }],
     ],
     primary: {
       tags: ['Optional', 'Novel'],
       subtitle: 'Book',
+      profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646090006',
       length: '384p; H',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/51116768-final-fantasy-xv' },
@@ -568,7 +570,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
         { score: '4.17', url: 'https://www.goodreads.com/book/show/48565746-final-fantasy-xv', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646090006' },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', search: 'duckduckgo' },
         { key: 'fan-recap', search: 'youtube' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
