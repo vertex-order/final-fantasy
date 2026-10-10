@@ -161,7 +161,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
       platforms: [
         { key: 'compact-disc', jpTag: true },
         { key: 'fan-audiobook', searchSuffix: '', search: 'youtube' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_Parting_Ways#Story' },
       ],
     },
     alts: [
@@ -178,7 +178,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
           { score: '3.76', url: 'https://www.goodreads.com/book/show/33232393-final-fantasy-xv-prologue-parting-ways', key: 'goodreads' },
         ],
         platforms: [
-          { key: 'book', name: 'Short Stories', url: 'https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf' },
+          { key: 'book', name: 'E-book (PDF)', url: 'https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf' },
         ],
         versionDesc: [
           'An official English translation of the Japan-only audio drama CD as a free web novel.',

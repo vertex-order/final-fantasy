@@ -596,6 +596,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/60295273-the-maiden-who-travels-the-planet' },
         { value: 'EN', tip: 'English (fan translation)', url: 'https://www.goodreads.com/book/show/18139055-the-maiden-who-travels-the-planet' },
+        { value: 'FR', tip: 'French (fan translation)', url: 'https://web.archive.org/web/20080206220318/http://www.ffshores.com/The-Maiden-who-Travels-the-Planet.html' },
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/51949522-the-maiden-who-travels-the-planet' },
       ],
       length: '45p;P',

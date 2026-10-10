@@ -156,7 +156,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
       platforms: [
         { key: 'globe', name: 'Web Novel', jpTag: true, url: 'https://web.archive.org/web/20040630063907/http://www.ff-u.com/after_project/index.html' },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' },
-        { key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral' },
+        { key: 'fan-recap', name: 'Fan story recap (blog)', url: 'https://web.archive.org/web/20191026053710/https://marathonrecaps.wordpress.com/2018/06/24/final-fantasy-unlimited-after-spiralmania/' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
