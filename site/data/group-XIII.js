@@ -518,21 +518,27 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
   },
   {
     mediaType: 'Book', chronoOrder: 100500, recommendedOrder: 950,
-    title: 'Final Fantasy Type-0: Change the World -The Answer- Vol.1', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-', titleDate: '2012-04-21',
+    title: 'Final Fantasy Type-0: Change the World', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-', titleDate: { start: '2012-04-21', end: '2012-06-28' },
+    by: [{ role: 'adapted', names: 'Souki Tsukishima' }],
     mediaDesc: [
-      [{ text: 'A novelization of ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ', following Izana Kunagiri as he searches for cadet Ace amid the chaos of the war against the Militesi Empire, recalling how he arrived at his current situation.' }],
+      [{ text: 'A novelization of ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ' in two volumes: ' }, { emText: 'Change the World -The Answer-' }, { text: ' (Vol.1) and ' }, { emText: 'Change the World -The Penultimate Truth-' }, { text: ' (Vol.2, 最後から二番目の真実).' }],
+      [{ text: "Vol.1 follows Izana Kunagiri as he searches for cadet Ace amid the chaos of the war against the Militesi Empire, recalling how he arrived at his current situation. Vol.2 depicts the cycle previous to the one seen in the game, so its plot diverges from the game's." }],
+      [{ text: 'Also known as ' }, { emText: 'Final Fantasy Type-0 ~The Last Truth~' }, { text: ', the title of its French edition, which collects both volumes.' }],
     ],
     primary: {
       tags: ['Optional', 'Novel'],
       subtitle: 'Book',
-      length: '272p',
+      profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/search?s=27',
+      length: '2 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/84822449' },
-        { value: 'FR' },
+        { value: 'FR', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth' },
         { value: 'EN', tip: 'English (fan translation)' },
+        { value: '…?' },
       ],
+      helpWanted: true,
       ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/84822449', key: 'goodreads' },
+        { score: '4.05', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy type-0 The Answer', searchQualifier: 'novel' },
@@ -540,68 +546,8 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
         {
           key: 'fan-recap',
           name: 'Fan story recap',
-          url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#Story',
+          url: 'https://gamefaqs.gamespot.com/boards/951986-final-fantasy-type-0/63567938',
         },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 99950, recommendedOrder: 960,
-    title: 'Final Fantasy Type-0: Change the World -The Penultimate Truth- Vol.2', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-', titleDate: '2012-06-28',
-    mediaDesc: [
-      [{ text: 'A sequel to ' }, { emText: 'Change the World -The Answer-' }, { text: ", depicting the cycle previous to the one seen in the game, so its plot diverges from the game's." }],
-    ],
-    primary: {
-      tags: ['Optional', 'Novel'],
-      subtitle: 'Book',
-      length: '288p',
-      languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/84822454' },
-        { value: 'FR' },
-        { value: 'EN', tip: 'English (fan translation)' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/84822454', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy Type-0: Change the World -The Penultimate Truth- Vol.2', searchQualifier: 'novel' },
-        {
-          key: 'fan-translation',
-          url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-#External_links',
-        },
-        {
-          key: 'fan-recap',
-          name: 'Fan story recap',
-          url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Penultimate_Truth-#Synopsis',
-        },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 100650, recommendedOrder: 965,
-    title: 'Final Fantasy Type-0 ~The Last Truth~', titleUrl: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth', titleDate: '2015-06-04',
-    mediaDesc: [
-      "At the Akademeia in Rubrum, the gifted students of Class Zero study magic in peace until the empire of Milites declares war and unleashes a weapon that nullifies Rubrum's magic. Only the capital still resists, forcing the Council to send its best students into battle to reclaim their homeland.",
-    ],
-    primary: {
-      tags: ['Optional', 'Novel'],
-      subtitle: 'Book',
-      length: '572p; H',
-      languages: [
-        { value: 'FR', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth' },
-        { value: '…?' },
-      ],
-      helpWanted: true,
-      profileUrl: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth',
-      ratings: [
-        { score: '4.05', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Novel', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth' },
-        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Type-0 The Last Truth', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Type-0 The Last Truth', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },

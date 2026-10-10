@@ -38,4 +38,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
 
 - https://www.xbox.com/games/store/final-fantasy-type-0-hd/c1f1hjk2njpj
 
+## ndlsearch.ndl.go.jp (Information)
+
+- http://id.ndl.go.jp/bib/000011313058 -- the PSP release as catalogued: ファイナルファンタジー零式 Final fantasy type-0, Square Enix, c2011, 2 UMD discs + 35p booklet, 7,700 yen incl. tax, system requirement PSP; title lookup for "Final Fantasy Type-0" -- accessed 2026-10-10 -- archived: TODO
+
+## Surveyed
+
+- NDL: ファイナルファンタジー零式アルティマニア (SE-mook, Studio BentStuff, 2011.11, 847p, ISBN 9784757534322, 2,000 yen) -- http://id.ndl.go.jp/bib/023165232 -- empty: guide book, out of scope per docs/data.md -- accessed 2026-10-10
+- NDL: ファイナルファンタジー零式ワールドプレビュー (SE-mook, Square Enix official, 2011.10, 139p, ISBN 9784757533530, 800 yen) -- http://id.ndl.go.jp/bib/000011307966 -- empty: preview/guide book, out of scope per docs/data.md -- accessed 2026-10-10
+- NDL: ファイナルファンタジー零式救世主(アギト)指南ノ書 PSP版 (V jump books, Shueisha, Square Enix supervised, 2011.10, 242p, ISBN 9784087796087, 1,238 yen) -- http://id.ndl.go.jp/bib/000011306844 -- empty: strategy guide, out of scope per docs/data.md -- accessed 2026-10-10
+
 ## Decisions
