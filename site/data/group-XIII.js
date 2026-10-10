@@ -517,7 +517,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 100500, recommendedOrder: 950,
+    mediaType: 'Book', chronoOrder: 100450, recommendedOrder: 942,
     title: 'Final Fantasy Type-0: Change the World', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-', titleDate: { start: '2012-04-21', end: '2012-06-28' },
     by: [{ role: 'adapted', names: 'Souki Tsukishima' }],
     mediaDesc: [
