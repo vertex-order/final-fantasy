@@ -68,16 +68,21 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 15
   {
     mediaType: 'Comic', chronoOrder: 50, recommendedOrder: 150,
     title: 'Final Fantasy Brave Exvius Rikodoki!', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki!', titleDate: '2018-07-25',
+    by: 'Takeshi Matsumoto',
     mediaDesc: [
       [{ text: 'A 4-panel manga based on ' }, { emLinkText: 'Brave Exvius (2015)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-2015' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Manga'],
       subtitle: 'Comic',
+      profileUrl: 'https://store.jp.square-enix.com/estore/g/g9784757557994/',
       length: '144p',
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN' },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/70078001-final-fantasy-brave-exvius' },
+        { value: 'EN', tip: 'English (fan translation)', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Brave%20Exvius%20Rikodoki!%20translation' },
+      ],
+      ratings: [
+        { score: 'NYR', url: 'https://www.goodreads.com/book/show/70078001-final-fantasy-brave-exvius', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy Brave Exvius Rikodoki!', searchQualifier: 'manga' },
