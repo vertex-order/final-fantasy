@@ -28,7 +28,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, recommendedOrder: 17
   },
   {
     mediaType: 'Book', chronoOrder: 100, recommendedOrder: 100,
-    title: 'Chocobo and the Airship: A Final Fantasy Picture Book', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646092031', titleDate: '2021-12-16',
+    title: 'Chocobo and the Airship: A Final Fantasy Picture Book', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Chocobo_and_the_Airship:_A_Final_Fantasy_Picture_Book', titleDate: '2021-12-16',
     mediaDesc: [
       'Cid and Chocobo build an airship to save their town from monsters, setting off to find a magic Flying Stone to make it fly, joined by a group of adventurers along the way.',
     ],

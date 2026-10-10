@@ -68,6 +68,8 @@ goodreads.com (Information)
 
 ## Surveyed
 
+- Final Fantasy Fandom wiki — no article for this book (as of 2026-10-10); the XIV navigation box (navbox) lists it under "Manga and illustrated books" as an unlinked name — empty
+
 - Google searches of the Square Enix magazine catalog (by ISBN and by title 私立エオルゼア学園) — empty (no results as of 2026-10-09); no catalog page found
 
 ## Decisions

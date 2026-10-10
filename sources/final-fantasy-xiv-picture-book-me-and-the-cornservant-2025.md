@@ -51,6 +51,8 @@ goodreads.com (Ratings)
 
 ## Surveyed
 
+- Final Fantasy Fandom wiki — no article for this book (as of 2026-10-10); the XIV navigation box (navbox) lists it under "Manga and illustrated books" as "Saki & Final Fantasy XIV -Final Fantasy 14 no Ehon: Boku to Morokoshi-sama", unlinked, by a different name than ours — empty
+
 - [Goodreads search, Japanese title](https://www.goodreads.com/search?q=%E3%83%9C%E3%82%AF%E3%81%A8%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7%E3%81%95%E3%81%BE) — empty (no results as of 2026-10-09)
 
 ## Not yet surveyed

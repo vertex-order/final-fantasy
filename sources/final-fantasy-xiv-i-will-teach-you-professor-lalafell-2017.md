@@ -87,6 +87,8 @@ duckduckgo.com (Information)
 
 ## Surveyed
 
+- Fandom wiki XIV navigation box (navbox), "Manga and illustrated books" — lists this book as "Final Fantasy XIV: I Will Teach You Professor Lalafell" — used: corroborates the title (seen 2026-10-10)
+
 - A fan translation's own listing (URL not recorded) — titles "Final Fantasy XIV - Lalafell-sensei Will Teach You!" and "Final Fantasy XIV - I Will Teach You Professor Lalafell", credit "Fakkuma, Square Enix" — used: corroborates the title and the credit; needs its URL
 
 - [Goodreads 3-volume set](https://www.goodreads.com/book/show/252591345) and [vols 1-2 set](https://www.goodreads.com/book/show/138425189) — bundle listings (ASIN B07KXFY9WC, B07BQPJV56), 0 ratings, unknown author — empty: not editions

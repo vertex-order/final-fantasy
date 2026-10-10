@@ -43,6 +43,8 @@ duckduckgo.com (Information)
 
 ## Surveyed
 
+- Final Fantasy Wiki (ffwiki) equivalent of the breezewiki article — none exists, so no mirror or duplicate to nest
+
 - Goodreads search by English title — empty (no results as of 2026-10-09)
 - Google searches of squareenixmangaandbooks.square-enix-games.com and square-enix-games.com for the English title — empty (no results as of 2026-10-09); no English Square Enix page
 

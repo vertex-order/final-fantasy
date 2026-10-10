@@ -42,7 +42,10 @@ ISBN 9782380714357 (ISBN10: 2380714355), French, Kurokawa, October 13, 2022, 40 
 ## Sources
 
 squareenixmangaandbooks.square-enix-games.com (Information)
-- https://squareenixmangaandbooks.square-enix-games.com/product/9781646092031 — title link*, profile*, credits, dates (EN March 21, 2023), length* (40 pages), format (hardcover), genres — accessed 2026-10-09 — archived: TODO
+- https://squareenixmangaandbooks.square-enix-games.com/product/9781646092031 — profile*, credits, dates (EN March 21, 2023), length* (40 pages), format (hardcover), genres — accessed 2026-10-09 — archived: TODO
+
+finalfantasy.fandom.com (Information)
+- https://breezewiki.com/finalfantasy/wiki/Chocobo_and_the_Airship:_A_Final_Fantasy_Picture_Book — title link*, ISBN (4757574983 — the Japanese ISBN10 — and 9781646092031) — accessed 2026-10-10 — archived: TODO
 
 magazine.jp.square-enix.com (Information)
 - https://magazine.jp.square-enix.com/gamebooks/books/10412 — dates* (JA December 16, 2021; start of `titleDate`, Japanese release authoritative), length (40 pages, 4-color), price (1,320 yen), size (B5 variant, 180 x 180 mm), ISBN — accessed 2026-10-09 — archived: TODO
@@ -66,6 +69,8 @@ goodreads.com (Information)
 - https://www.goodreads.com/book/show/63141628-chocobo-et-le-bateau-volant — languages* (FR), dates (FR October 13, 2022) — accessed 2026-10-09 — archived: TODO
 
 ## Surveyed
+
+- Final Fantasy Wiki (ffwiki) equivalent of the breezewiki article — none exists, so no mirror or duplicate to nest
 
 ## Decisions
 

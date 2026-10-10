@@ -52,6 +52,8 @@ google.com/books (Information)
 
 ## Surveyed
 
+- Final Fantasy Fandom wiki — no article for this book (as of 2026-10-10); the XIV navigation box (navbox) lists it under "Manga and illustrated books" as "Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift", unlinked — empty
+
 ## Decisions
 
 - No `by` credit on picture books: too little plot or art for authorship to drive anyone's choice. Names recorded under `## Author` where known.

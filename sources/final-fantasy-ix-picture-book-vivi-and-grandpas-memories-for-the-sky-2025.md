@@ -53,6 +53,8 @@ youtube.com (Information)
 
 ## Surveyed
 
+- Final Fantasy Fandom wiki — no article for this book (as of 2026-10-10) — empty
+
 - [Square Enix magazine – ビビとおじいちゃんのポストカードブック](https://magazine.jp.square-enix.com/gamebooks/books/10498) — separate product, not an edition: postcard book, November 21, 2025, B6 variant, 24 pages, 1,650 yen, ISBN 9784301001997 — empty: merch, excluded from data
 - [Square Enix store – ブック型付箋セット A](https://store.jp.square-enix.com/estore/g/gMFF901062/) — merch, not an edition: book-shaped sticky note set (IX series, Vivi and Grandpa tie-in), March 3, 2026, 70 sheets, 1,100 yen — empty: merch, excluded from data
 - [Goodreads search, Japanese title](https://www.goodreads.com/search?q=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX%20%E7%B5%B5%E6%9C%AC%20%E3%83%93%E3%83%93) — empty

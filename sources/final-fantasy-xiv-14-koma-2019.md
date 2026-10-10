@@ -47,6 +47,7 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Serialization start in 週刊ファミ通 not found; 2019-12 is the collected volume — mine: kit rule prefers the serialization date
 - English title is a stand-in: no official one found; "Juyon Koma" is a reading of じゅうよんコマ, a pun on 14 and 4-koma (unverified)
 - Google Books record — not found yet
+- Final Fantasy Fandom wiki — no article for this book (as of 2026-10-10); the XIV navigation box (navbox) doesn't list it either — empty
 - Google searches of store.jp.square-enix.com (by ISBN and by title) and magazine.jp.square-enix.com (by title) — empty (no results as of 2026-10-09); no Square Enix page found
 - [Lodestone player blog](https://jp.finalfantasyxiv.com/lodestone/character/1624/blog/4309556/) — a player's post saying the book came out December 20 and that they read the e-book — dup: agrees with NDL's digital date (2019-12-20); not an official page
 
