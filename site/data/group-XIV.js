@@ -393,7 +393,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
   },
   {
     mediaType: 'Comic', chronoOrder: 7800, recommendedOrder: 876,
-    title: 'Final Fantasy XIV 14-Koma', titleUrl: 'https://ndlsearch.ndl.go.jp/search?cs=bib&keyword=ファイナルファンタジー14じゅうよんコマ', titleDate: '2019-12',
+    title: 'Final Fantasy XIV 14-Koma', titleUrl: 'https://www.goodreads.com/book/show/72126545-xiv', titleDate: '2019-12-20',
     by: 'Fumio Minagawa',
     mediaDesc: [
       'A collection of four-panel (4-koma) comics for XIV. Released as ファイナルファンタジー14じゅうよんコマ (Juyon Koma, a pun on the four-panel format and the number 14).',
@@ -401,13 +401,14 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     primary: {
       tags: ['Optional', 'Spin-off', 'Manga'],
       subtitle: 'Comic',
-      length: '…?',
+      profileUrl: 'https://store.kadokawa.co.jp/shop/g/g321910001212/',
+      length: '127p',
       helpWanted: true,
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/72126545-xiv' },
       ],
       ratings: [
-        { score: 'NYR', key: 'goodreads' },
+        { score: 'NYR', url: 'https://www.goodreads.com/book/show/72126545-xiv', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XIV 14-Koma', searchQualifier: 'manga' },
