@@ -290,51 +290,27 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
   },
   {
     mediaType: 'Book', chronoOrder: 3800, recommendedOrder: 865,
-    title: 'Final Fantasy XIV: Chronicles of Light Vol.1', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646091850', titleDate: '2019-03-09',
+    title: 'Final Fantasy XIV: Chronicles of Light', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Chronicles_of_Light', titleDate: { start: '2019-03-09', end: '2025-10-07' },
     mediaDesc: [
-      [{ text: 'A collection of twenty-five short stories expanding on the lore of ' }, { emText: 'XIV' }, { text: ', including twenty-one stories originally published on the ' }, { emText: 'Side Stories' }, { text: ' web series, plus four stories new to this collection.' }],
+      [{ text: 'Two collections of short stories expanding on the lore of ' }, { emText: 'XIV' }, { text: ', originally published on the ' }, { emText: 'Side Stories' }, { text: ' web series. Vol.1 also adds new stories, and Vol.2 covers Shadowbringers, Endwalker, and Dawntrail.' }],
     ],
     primary: {
       tags: ['Optional', 'Short Stories'],
       subtitle: 'Book',
-      length: '222p; H',
+      profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/series/final-fantasy-xiv',
+      length: '2 volumes',
       helpWanted: true,
       languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/45835237-final-fantasy-xiv-chronicles-of-light' },
-        { value: 'EN', url: 'https://www.goodreads.com/book/show/45701588-final-fantasy-xiv' },
-        { value: 'DE', url: 'https://www.goodreads.com/book/show/241450087-final-fantasy-xiv-chroniken-des-lichts-01' },
+        { value: 'JA', native: true, url: 'https://store.jp.square-enix.com/estore/goods/search.aspx?keyword=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2%20Chronicles%20of%20Light&search=search' },
+        { value: 'EN', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/series/final-fantasy-xiv' },
+        { value: 'DE', url: 'https://altraverse.de/search?sSearch=final+fantasy+Chroniken+des+Li' },
       ],
       ratings: [
         { score: '4.39', url: 'https://www.goodreads.com/book/show/45701588-final-fantasy-xiv', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646091850' },
+        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', search: 'duckduckgo' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV: Chronicles of Light', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 6500, recommendedOrder: 870,
-    title: 'Final Fantasy XIV: Chronicles of Light, Vol.2', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646094196', titleDate: '2025-10-07',
-    mediaDesc: [
-      [{ text: 'A second collection of thirty short stories, continuing ' }, { emText: 'Vol.1 (2022)' }, { text: ', expanding on the lore of ' }, { emText: 'XIV' }, { text: '. Originally published on the ' }, { emText: 'Side Stories' }, { text: ' web series, adding to the lore of Shadowbringers, Endwalker, and Dawntrail.' }],
-    ],
-    primary: {
-      tags: ['Optional', 'Short Stories'],
-      subtitle: 'Book',
-      length: '288p; H',
-      languages: [
-        { value: 'JA', native: true },
-        { value: 'EN', url: 'https://www.goodreads.com/book/show/236916972-final-fantasy-xiv' },
-        { value: 'DE', url: 'https://www.goodreads.com/book/show/242696010-final-fantasy-chroniken-des-lichts-02' },
-      ],
-      ratings: [
-        { score: '4.59', url: 'https://www.goodreads.com/book/show/236916972-final-fantasy-xiv', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Short Stories', url: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646094196' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV: Chronicles of Light, Volume II', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
@@ -380,7 +356,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
       profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F',
       length: '3 volumes',
       languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/69172609' },
+        { value: 'JA', native: true, url: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F' },
         { value: 'EN', tip: 'English (fan translation)', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%3A%20I%20Will%20Teach%20You%20Professor%20Lalafell%20translation' },
       ],
       ratings: [

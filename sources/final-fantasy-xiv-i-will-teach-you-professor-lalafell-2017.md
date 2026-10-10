@@ -52,7 +52,7 @@ ISBN 9784049121797, Japanese, KADOKAWA (電撃コミックスEX), vol 3 (final),
 ## Sources
 
 kadokawa.co.jp (Information)
-- https://www.kadokawa.co.jp/product/search/?kw=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F — profile* (KADOKAWA product search for ララフェル先生: lists all three volumes) — accessed 2026-10-10
+- https://www.kadokawa.co.jp/product/search/?kw=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F — profile*, languages* (JA) (KADOKAWA product search for ララフェル先生: lists all three volumes) — accessed 2026-10-10
 - https://www.kadokawa.co.jp/product/321705000172/ — dates* (vol 1: August 26, 2017; start of `titleDate`), credits* (漫画 ふぁっ熊, 協力 スクウェア・エニックス), length (112 pages, A5), price (715 yen incl. tax), ISBN, story — accessed 2026-10-10 — archived: TODO
 - https://www.kadokawa.co.jp/product/321712000090/ — vol 2: March 26, 2018, 112 pages, 748 yen, ISBN 9784048937078 — accessed 2026-10-10 — archived: TODO
 - https://www.kadokawa.co.jp/product/321807000631/ — dates* (vol 3, final: November 26, 2018; end of `titleDate`), 112 pages, 748 yen, ISBN 9784049121797; "ついに完結" (finally complete) — accessed 2026-10-10 — archived: TODO
@@ -72,7 +72,7 @@ ndlsearch.ndl.go.jp (Information)
 - http://id.ndl.go.jp/bib/029333429 — dates* (JA vol 3: November 2018; confirms the end of `titleDate`), credits, size (110 p, 21 cm), price (680 yen), series (DE253-3), summary: 最終第3巻 (final volume) — accessed 2026-10-10 — archived: TODO
 
 goodreads.com (Ratings)
-- https://www.goodreads.com/book/show/69172609 — ratings* (NYR; 3.00 from 2 ratings, 0 reviews), languages* (JA), story (gag manga guiding a new adventurer through Eorzea) — accessed 2026-10-10 — archived: TODO
+- https://www.goodreads.com/book/show/69172609 — ratings* (NYR; 3.00 from 2 ratings, 0 reviews), languages (JA), story (gag manga guiding a new adventurer through Eorzea) — accessed 2026-10-10 — archived: TODO
 
 goodreads.com (Information)
 - https://www.goodreads.com/book/show/39932864-xiv-1-ex — Kindle edition: dates (August 26, 2017), length (119 pages) — accessed 2026-10-10 — archived: TODO
