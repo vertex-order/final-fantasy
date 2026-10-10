@@ -459,13 +459,15 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
   },
   {
     mediaType: 'Comic', chronoOrder: 100400, recommendedOrder: 940,
-    title: 'Final Fantasy Type-0 ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_(manga)#Story', titleDate: '2011-11-11',
+    title: 'Final Fantasy Type-0 ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_(manga)', titleDate: { start: '2011-11-11', end: '2012-03' },
+    by: [{ role: 'adapted', names: 'Hiroki Chiba' }, { role: 'illustrated', names: 'Takatoshi Shiozawa' }],
     mediaDesc: [
       [{ text: 'A manga adaptation of ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ", following the story of the game while adding new characters and situations. Class Zero, led by Ace, defends Peristylium Suzaku from the invading Militesi Empire and its Magitek Armor pilot Qun'mi Tru'e. Bundled with the " }, { emText: "Final Fantasy Type-0 HD Collector's Edition" }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Manga'],
+      tags: ['Optional', 'Manga', 'Alternate Universe'],
       subtitle: 'Comic',
+      profileUrl: 'https://yenpress.com/series/final-fantasy-type-0',
       languages: [
         { value: 'EN', url: 'https://www.goodreads.com/book/show/25746708-final-fantasy-type-0' },
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/18109747-final-fantasy-type-0' },
@@ -477,18 +479,18 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
       ratings: [
         { score: '3.16', url: 'https://www.goodreads.com/book/show/25746708-final-fantasy-type-0', key: 'goodreads' },
       ],
-      length: [{ value: '200p; P', br: true }, { value: '1 volume,', br: true }, { value: '3 chapters' }],
+      length: [{ value: '200p; P', br: true }, { value: '1 volume,', br: true }, { value: '4 chapters' }],
       platforms: [
-        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: 'Final Fantasy Type-0', searchQualifier: 'manga' },
+        { key: 'book', name: 'Manga', url: 'https://www.goodreads.com/book/show/25746708-final-fantasy-type-0' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Type-0', searchSuffix: 'manga dub', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Type-0 manga', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_(manga)#Story' },
       ],
     },
   },
   {
     mediaType: 'Comic', chronoOrder: 99900, recommendedOrder: 945,
-    title: 'Final Fantasy Type-0: The Ice Reaper', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper', titleDate: { start: '2012-05', end: '2014-02' },
-    by: [{ role: 'written', names: 'Tetsuya Nomura' }, { role: 'illustrated', names: 'Takatoshi Shiozawa' }],
+    title: 'Final Fantasy Type-0: The Ice Reaper', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper', titleDate: { start: '2012-04-11', end: '2014-02' },
+    by: 'Takatoshi Shiozawa',
     mediaDesc: [
       [{ text: 'A manga set nine years before ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ", following Kurasame Susaya's time as a student of Akademeia and member of the Four Champions of Rubrum. Kurasame, determined to prove himself worthy of promotion out of Class Third, survives a deadly attack by Concordian outlaws that kills most of his classmates." }],
       [{ text: 'May also be known as ' }, { emText: 'Final Fantasy Type-0 Side Story: The Ice Reaper' }, { text: ', or ' }, { emText: 'Final Fantasy Type-0 Side Story: The Reaper of the Icy Blade' }, { text: '.' }],
