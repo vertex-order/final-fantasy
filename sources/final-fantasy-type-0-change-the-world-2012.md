@@ -65,13 +65,14 @@ ISBN 9782371020382 (ISBN-10 2371020389), French "Final Fantasy Type-0 - The Last
 ## Sources
 
 magazine.jp.square-enix.com (Information)
-- https://magazine.jp.square-enix.com/gamebooks/search?s=27 — profile*: the Game Books Online listing for the 零式 series, which lists both novels (plus guide books, unfiltered) — accessed 2026-10-10 — archived: TODO
+- https://magazine.jp.square-enix.com/gamebooks/search?s=27&q=Change+the+World — profile*, languages* (JA): Game Books Online search (`q` is the search parameter) within the 零式 series for "Change the World"; returns exactly the two novels (Vol.2 2012.06.28, Vol.1 2012.04.21), no guide books — accessed 2026-10-10 — archived: TODO
+- https://magazine.jp.square-enix.com/gamebooks/search?s=27 — the unfiltered 零式 series listing: both novels plus four guide books (superseded as profile link) — accessed 2026-10-10
 - https://magazine.jp.square-enix.com/gamebooks/books/10113 — dates* (April 21, 2012), length (272P + 口絵2P), ISBN, price, format (小B6), credits (月島総記; 開発チーム 監修; character design 野村哲也), story (Class Zero candidates in wartime, "what they thought and what choices they made") — accessed 2026-10-10 — archived: TODO
 - https://magazine.jp.square-enix.com/gamebooks/books/10112 — dates* (June 28, 2012), ISBN, price, format (小B6), pages (1C288P + 4C2P), story (episodes Trey & Cinque, Eight & Kate, Seven & King, Rem, Machina) — accessed 2026-10-10 — archived: TODO
 
 breezewiki.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer- — title link*, ISBN, languages* (FR): "This novel, together with its sequel, ... The Penultimate Truth-, has been translated to French. The French version was released in June 2015 by Lumen and retailed for 15€" (no title or ISBN given); dates (April 21st, 2012), length (272p), format (Paperback, B6), price (980 yen = NDL's 933 + 5% tax at the time), infobox author "Souki Tukisima" and publisher "SE-Mook" (both off), Followed by The Penultimate Truth — accessed 2026-10-10 (page text pasted by user; the page is a Fandom mirror, fetch blocked)
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#External_links — platforms* (fan translation), languages (EN fan translation) — accessed 2026-10-10
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#External_links — platforms* (fan translation), languages* (EN fan translation; the EN language link is this page) — accessed 2026-10-10
   - The translation row is this wiki page (stable), so the translations themselves aren't logged here
   - Links the e-store page above
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#Story — Vol.1 story recap; not in the entry (the combined GameFAQs recap is used instead) — accessed not recorded
@@ -82,7 +83,7 @@ breezewiki.com (Information)
 
 goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth — ratings* (4.05; 22 ratings, 5 reviews), languages* (FR), length (572 pages), format (Hardcover; outlier), dates (June 4, 2015), credits (Souki Tsukishima), story — accessed 2026-10-10 — archived: TODO
-- https://www.goodreads.com/book/show/84822449 — languages* (JA), Vol.1, 0 ratings — accessed not recorded
+- https://www.goodreads.com/book/show/84822449 — Vol.1, 0 ratings; its Goodreads title is a romanization ("Fainaru fantajī reishiki chenji za wārudo ji ansā") with no author, so no Goodreads search returns both volumes — accessed not recorded
 - https://www.goodreads.com/book/show/84822454 — Vol.2, 0 ratings — accessed not recorded
 
 gamefaqs.gamespot.com (Information)
@@ -130,6 +131,7 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/Final_Fantasy_Type-0 — no mention of the French book; names Tsukishima as author of the 2012 novels — accessed 2026-10-10
 
 google.com/books (Information)
+- https://www.google.com/search?tbm=bks&q=inauthor%3A%E6%9C%88%E5%B3%B6%E7%B7%8F%E8%A8%98%20FINAL%20FANTASY%E9%9B%B6%E5%BC%8F — Google Books search by author 月島総記 and "FINAL FANTASY零式"; the top two results are Vol.1 and Vol.2 (the Google Books titles are "FINAL FANTASY零式 Change the World-The Answer" and "FINAL FANTASY零式: Change the World-最後から二番目の真実-"), followed by many unrelated results; other tried queries returned nothing useful (an ISBN `OR` query, quoted title phrases, author plus "Change the World"); no Goodreads search can return both volumes; kept as an alternative to the Square Enix search used for the JA link — accessed 2026-10-10 (checked by user)
 - https://www.google.com/books/edition/FINAL_FANTASY%E9%9B%B6%E5%BC%8F_Change_the_World_The/BJcUuwAACAAJ — dates (April 21, 2012), length (271 pages), ISBN (9784757535800, 4757535805), credits (月島総記; contributors the PSP game, 開発チーム), story and contents (publisher blurb listing five episodes: イザナ&エース, マキナ&レム (0組転入秘話), クイーン&クラサメ, ナイン&サイス, デュース&ジャック) — accessed 2026-10-10 — archived: TODO
 - https://www.google.com/books/edition/Final_Fantasy_Type_0/IH7SsgEACAAJ — dates (June 4, 2015), length (572 pages), ISBN (9782371020382, 2371020389), credits (Souki Tsukishima; translators Cécile Sénaux, Hana Kanehisa, Jean-Baptiste Flamin), language (French) — accessed 2026-10-10 — archived: TODO
 
@@ -140,7 +142,7 @@ ndlsearch.ndl.go.jp (Information)
 - https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909780310412 — Vol.2: same ISBN, titled 最後から二番目の真実, 2012.6, 月島総記著, series Game novels 2 (CiNii Books, NCID BB10200812); its parallel title reads ファイナルファンタジー零式チェンジ・ザ・ワールド-ジ・アンサー- (The Answer's title), a cataloguing carry-over, not a different book — accessed 2026-10-10 — archived: TODO
 
 duckduckgo.com (Information)
-- DuckDuckGo query `Final Fantasy type-0 The Answer` plus the qualifier novel — the entry's book search row; the Vol.1 title returned better results than the full title — used
+- DuckDuckGo query: the entry's own title plus the qualifier novel (no `searchTitle` override) — the book search row. The earlier Vol.1-only query `Final Fantasy type-0 The Answer` was dropped when the entry became the combined one — not tested for result quality
 
 ## Surveyed
 

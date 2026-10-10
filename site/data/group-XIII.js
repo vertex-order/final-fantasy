@@ -527,17 +527,17 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     mediaDesc: [
       [{ text: 'A novelization of ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ' in two volumes: ' }, { emText: 'Change the World -The Answer-' }, { text: ' (Vol.1) and ' }, { emText: 'Change the World -The Penultimate Truth-' }, { text: ' (Vol.2, 最後から二番目の真実).' }],
       [{ text: "Vol.1 follows Izana Kunagiri as he searches for cadet Ace amid the chaos of the war against the Militesi Empire, recalling how he arrived at his current situation. Vol.2 depicts the cycle previous to the one seen in the game, so its plot diverges from the game's." }],
-      [{ text: 'Also known as ' }, { emText: 'Final Fantasy Type-0 ~The Last Truth~' }, { text: ', the title of its French edition, which collects both volumes.' }],
+      [{ text: 'Also known as ' }, { emText: 'Final Fantasy Type-0 ~The Last Truth~' }, { text: ', the title of its French omnibus edition collecting both volumes.' }],
     ],
     primary: {
       tags: ['Optional', 'Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/search?s=27',
+      profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/search?s=27&q=Change+the+World',
       length: '2 volumes',
       languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/84822449' },
+        { value: 'JA', native: true, url: 'https://magazine.jp.square-enix.com/gamebooks/search?s=27&q=Change+the+World' },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth' },
-        { value: 'EN', tip: 'English (fan translation)' },
+        { value: 'EN', tip: 'English (fan translation)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#External_links' },
         { value: '…?' },
       ],
       helpWanted: true,
@@ -545,7 +545,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
         { score: '4.05', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy type-0 The Answer', searchQualifier: 'novel' },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchQualifier: 'novel' },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#External_links' },
         {
           key: 'fan-recap',

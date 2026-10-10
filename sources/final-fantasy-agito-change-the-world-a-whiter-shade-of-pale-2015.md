@@ -48,6 +48,10 @@ openlibrary.org (Information)
 ndlsearch.ndl.go.jp (Information)
 - http://id.ndl.go.jp/bib/026325471 — dates (JA 2015.4), length* (286p, 19cm), price (933 yen pre-tax = 1,026 incl. tax, agrees), ISBN (978-4-7575-4604-2 = 9784757546042, agrees), credits (月島トラ 著, b. 1987; 開発チーム 監修), series (GAME NOVELS), parallel title (FINAL FANTASY AGITO Change the World-A Whiter Shade of Pale-), NDC 913.6 — accessed 2026-10-10 — archived: TODO
 
+magazine.jp.square-enix.com/gamebooks (Publisher)
+- https://magazine.jp.square-enix.com/gamebooks/books/10013 — the book's Game Books Online page ("Final Fantasy - Other"): ISBN 9784757546042, April 30, 2015, ¥1,026 incl. tax, small B6, 288 pages + colour pages, 月島トラ; no second volume mentioned — accessed 2026-10-10 — archived: TODO
+- https://magazine.jp.square-enix.com/gamebooks/search?s=5&q=%E3%82%A2%E3%82%AE%E3%83%88 — Game Books Online search (`q` is the search parameter) for アギト within the Final Fantasy series; returns this one book only, so there is no second volume on Square Enix's site (checked by user and fetched) — accessed 2026-10-10
+
 amazon.co.jp (Information)
 - https://www.amazon.co.jp/dp/4757546041 — format (Paperback Shinsho), dates (April 30, 2015), length (290 pages), ISBN (4757546041 / 978-4757546042), credits (月島トラ(チーム月島)), story (blurb), 5.0 of 5 from 4 ratings, not used — accessed 2026-10-10 — archived: TODO
 
