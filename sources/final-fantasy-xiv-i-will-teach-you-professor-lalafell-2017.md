@@ -81,9 +81,14 @@ goodreads.com (Information)
 - https://www.goodreads.com/book/show/70663919-xiv-3 — vol 3 print comic: ASIN 4049121794 (= ISBN10), 0 ratings — accessed 2026-10-10 — archived: TODO
 - https://www.goodreads.com/book/show/52063724 — vol 3 Kindle: November 26, 2018, 119 pages, ISBN 9784049121797, 0 ratings — accessed 2026-10-10 — archived: TODO
 
+mangadex.org (Information)
+- https://mangadex.org/title/45599047-f246-49e9-be3a-48cc70ca675f/final-fantasy-xiv-lalafell-sensei-will-teach-you — languages (EN fan translation: a site with English translations of the chapters) — accessed 2026-10-10 — archived: TODO
+  - Titled "Final Fantasy XIV - Lalafell-sensei Will Teach You" in its URL, the literal-gloss name
+  - Not linked from the entry data
+
 duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20XIV%3A%20I%20Will%20Teach%20You%20Professor%20Lalafell%20translation — platforms* (fan translation), languages* (EN, fan translation) — accessed 2026-10-10
-  - Results confirmed to include an English fan translation; not linked directly
+  - Results confirmed to include an English fan translation (the MangaDex page above)
 
 ## Surveyed
 
