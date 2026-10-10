@@ -247,16 +247,21 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     title: 'Final Fantasy XIV ~Winds of Eorzea~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2010-12-25',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      [{ text: 'An original story set in the world of ' }, { emText: 'XIV ~1.0~ (2010)' }, { text: ". It begins with three adventures set in three different city-states of Eorzea, following the Age of Calm after the nations' alliance against the Garlean Empire." }],
+      [{ text: 'An original story set in the world of ' }, { emLinkText: 'XIV ~1.0~ (2010)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-online-1-0-2010' }, { text: ". It begins with three adventures set in three different city-states of Eorzea, following the Age of Calm after the nations' alliance against the Garlean Empire." }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
+      profileUrl: 'https://www.kadokawa.co.jp/product/201010000382/',
       length: '296p;A6',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/85601685' },
+        { value: '…?' },
       ],
       helpWanted: true,
+      ratings: [
+        { score: 'NYR', url: 'https://www.goodreads.com/book/show/85601685', key: 'goodreads' },
+      ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XIV Winds of Eorzea', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
@@ -413,7 +418,6 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
       languages: [
         { value: 'JA', native: true, url: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651' },
       ],
-      helpWanted: true,
       platforms: [
         { key: 'globe', name: 'Web serial (Wayback)', jpTag: true, url: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
@@ -430,7 +434,9 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
         length: '339p; P',
         languages: [
           { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/71627236' },
+          { value: '…?' },
         ],
+        helpWanted: true,
         ratings: [
           { score: 'NYR', url: 'https://www.goodreads.com/book/show/71627236', key: 'goodreads' },
         ],
