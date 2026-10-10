@@ -2,6 +2,8 @@
 
 # Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~
 
+Shown on the site as an alternate ("or") row of the Adventure Log web serial, with `id` pinned to this filename so the anchor and this file keep their names. The serial has its own sources file: `final-fantasy-xiv-a-realm-reborn-adventure-log-2014.md`.
+
 ## Author
 
 Miyabi Hasegawa (はせがわみやび) — By (entry `by`)
@@ -46,6 +48,7 @@ goodreads.com (Information)
 - https://www.goodreads.com/book/show/24923834-xiv---- — Kindle edition: 348 pages, September 19, 2014 — accessed 2026-10-10 — archived: TODO
 
 amazon.co.jp (Information)
+- https://www.amazon.co.jp/dp/4047299510 — print edition: Tankobon Hardcover, KADOKAWA/Enterbrain, September 19, 2014, 344 pages (agrees with KADOKAWA; NDL and Google Books say 339), ISBN-10 4047299510 / ISBN-13 978-4047299511, 320 g, 5.12 x 0.75 x 7.44 in; 3.6 of 5 from 5 ratings, not used; the blurb gives no contents list or episode range — accessed 2026-10-10 — archived: TODO
 - https://www.amazon.co.jp/dp/B00NPOEM2U — Kindle edition details, same blurb; 3.6 of 5 from 5 ratings, not used — accessed 2026-10-09
 
 duckduckgo.com (Information)
@@ -53,13 +56,10 @@ duckduckgo.com (Information)
 
 ## Surveyed
 
+- Other volumes — none found: the user's own searches found no mention of any other volume, or of this being volume 1 (2026-10-10); Google Books' "Volume 1" label on this record is likely the subtitle 英雄の卵たち ("Hero's Eggs") read as a volume title — empty
 - Goodreads search by Japanese title ファイナルファンタジーXIV 新生エオルゼア冒険記 勇者の卵 — no results (2026-10-09) — empty: searched the old, wrong subtitle
 - NDL search by Japanese title 新生エオルゼア冒険記 勇者の卵 — no results (2026-10-09) — empty: same wrong subtitle
 - NDL title search 新生エオルゼア冒険記 and author search はせがわみやび + ファイナルファンタジー14 — one Adventure Log record only (025758070); the only other XIV record is エオルゼアの風 (Winds of Eorzea, 2011, its own entry) — so no later volumes found (2026-10-10) — empty
 - NDL searches ファイナルファンタジー14 冒険記 (volume and 新生エオルゼア dropped) and ファイナルファンタジー14 新生エオルゼア冒険記 (volume name dropped) — both return only the one record (025758070); no sequel adventure logs for later expansions (2026-10-10) — empty
-
-## Not yet surveyed
-
-- Later volumes, in case NDL missed one (Google Books labels this "Volume 1")
 
 ## Decisions

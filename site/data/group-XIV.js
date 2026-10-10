@@ -400,35 +400,48 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
   },
   {
     mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 850,
-    title: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~", titleUrl: 'https://www.kadokawa.co.jp/product/301405000071/', titleDate: '2014-09-19',
+    title: "Final Fantasy XIV ~A Realm Reborn Adventure Log~", titleUrl: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651', titleDate: { start: '2014-01-16', end: '2014-11-10' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      "A play-diary-style adventure book collecting a web serial, following its hot-blooded player character Ganbarund through the wastelands, dungeons, and monster dens of Eorzea. Released as ファイナルファンタジーXIV 新生エオルゼア冒険記 -英雄の卵たち-.",
+      "A play-diary-style adventure serial following its hot-blooded player character Ganbarund through the wastelands, dungeons, and monster dens of Eorzea in A Realm Reborn. Published on Famitsu.com as FF14 新生エオルゼア冒険記.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Play diary', 'Free'],
-      subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/301405000071/',
-      length: '339p; P',
+      tags: ['Optional', 'Spin-off', 'Play diary', 'Web', 'Free'],
+      subtitle: 'Web',
+      profileUrl: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651',
+      length: [{ value: '40 episodes,', br: true }, { value: '5 specials' }],
       languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/71627236' },
+        { value: 'JA', native: true, url: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651' },
       ],
       helpWanted: true,
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/71627236', key: 'goodreads' },
-      ],
       platforms: [
-        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XIV A Realm Reborn Adventure Log: Hero's Eggs", searchQualifier: 'novel' },
+        { key: 'globe', name: 'Web serial (Wayback)', jpTag: true, url: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        {
-          key: 'fan-recap',
-          paren: 'Youtube',
-          search: 'youtube',
-          noResults: true,
-        },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
+    alts: [
+      {
+        title: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~", titleUrl: 'https://www.kadokawa.co.jp/product/301405000071/', titleDate: '2014-09-19',
+        subtitle: 'Book',
+        id: 'final-fantasy-xiv-a-realm-reborn-adventure-log-heros-eggs-2014',
+        profileUrl: 'https://www.kadokawa.co.jp/product/301405000071/',
+        length: '339p; P',
+        languages: [
+          { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/71627236' },
+        ],
+        ratings: [
+          { score: 'NYR', url: 'https://www.goodreads.com/book/show/71627236', key: 'goodreads' },
+        ],
+        platforms: [
+          { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XIV A Realm Reborn Adventure Log: Hero's Eggs", searchQualifier: 'novel' },
+        ],
+        versionDesc: [
+          [{ text: "Collects the serial from January to June 2014, with additional new written material. It does not include the 5 special episodes from the serial. Released as " }, { emText: 'ファイナルファンタジーXIV 新生エオルゼア冒険記 -英雄の卵たち-' }, { text: '.' }],
+        ],
+      },
+    ],
   },
   {
     mediaType: 'Book', chronoOrder: 5200, recommendedOrder: 885,
