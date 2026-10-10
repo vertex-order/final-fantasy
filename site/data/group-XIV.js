@@ -244,7 +244,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
   },
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 840,
-    title: 'Final Fantasy XIV ~Winds of Eorzea~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2010',
+    title: 'Final Fantasy XIV ~Winds of Eorzea~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2010-12-25',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       [{ text: 'An original story set in the world of ' }, { emText: 'XIV ~1.0~ (2010)' }, { text: ". It begins with three adventures set in three different city-states of Eorzea, following the Age of Calm after the nations' alliance against the Garlean Empire." }],
@@ -252,7 +252,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
-      length: '254p;A6',
+      length: '296p;A6',
       languages: [
         { value: 'JA', native: true },
       ],
@@ -269,11 +269,12 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     mediaType: 'Book', chronoOrder: 7690, recommendedOrder: 860,
     title: 'Final Fantasy XIV: Side Stories', titleUrl: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes', titleDate: { start: 2014, end: 2026, ongoing: true },
     mediaDesc: [
-      [{ text: 'Short stories set in the world of Final Fantasy XIV, generally featuring characters from the most recent expansion and publishing around The Rising anniversary events. Later gathered into the print collections ' }, { emText: 'Chronicles of Light' }, { text: ' and its sequel.' }],
+      [{ text: 'Short stories set in the world of Final Fantasy XIV, generally featuring characters from the most recent expansion and publishing around The Rising anniversary events.' }],
     ],
     primary: {
       tags: ['Optional', 'Short Stories', 'Web', 'Free', 'Ongoing'],
       subtitle: 'Web',
+      profileUrl: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes',
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -287,33 +288,33 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 3800, recommendedOrder: 865,
-    title: 'Final Fantasy XIV: Chronicles of Light', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Chronicles_of_Light', titleDate: { start: '2019-03-09', end: '2025-10-07' },
-    mediaDesc: [
-      [{ text: 'Two collections of short stories expanding on the lore of ' }, { emText: 'XIV' }, { text: ', originally published on the ' }, { emText: 'Side Stories' }, { text: ' web series. Vol.1 also adds new stories, and Vol.2 covers Shadowbringers, Endwalker, and Dawntrail.' }],
+    alts: [
+      {
+        title: 'Final Fantasy XIV: Chronicles of Light', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Chronicles_of_Light', titleDate: { start: '2019-03-09', end: '2025-10-07' },
+        subtitle: 'Book',
+        id: 'final-fantasy-xiv-chronicles-of-light-2019',
+        profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/series/final-fantasy-xiv',
+        length: '2 volumes',
+        helpWanted: true,
+        languages: [
+          { value: 'JA', native: true, url: 'https://store.jp.square-enix.com/estore/goods/search.aspx?keyword=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2%20Chronicles%20of%20Light&search=search' },
+          { value: 'EN', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/series/final-fantasy-xiv' },
+          { value: 'DE', url: 'https://altraverse.de/search?sSearch=final+fantasy+Chroniken+des+Li' },
+          { value: '…?' },
+        ],
+        ratings: [
+          { score: '4.39', url: 'https://www.goodreads.com/book/show/45701588-final-fantasy-xiv', key: 'goodreads' },
+        ],
+        platforms: [
+          { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', search: 'duckduckgo' },
+          { key: 'fan-recap', name: 'Fan story summaries (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Side_Stories#List_of_stories' },
+          { key: 'fan-audiobook', search: 'youtube', noResults: true },
+        ],
+        versionDesc: [
+          [{ text: 'The web stories gathered into two print volumes, covering 2014 to 2018 and 2019 to 2024. Each volume adds four stories not on the web, and the stories are reorganized into sections. The web series continues beyond the books.' }],
+        ],
+      },
     ],
-    primary: {
-      tags: ['Optional', 'Short Stories'],
-      subtitle: 'Book',
-      profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/series/final-fantasy-xiv',
-      length: '2 volumes',
-      helpWanted: true,
-      languages: [
-        { value: 'JA', native: true, url: 'https://store.jp.square-enix.com/estore/goods/search.aspx?keyword=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2%20Chronicles%20of%20Light&search=search' },
-        { value: 'EN', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/series/final-fantasy-xiv' },
-        { value: 'DE', url: 'https://altraverse.de/search?sSearch=final+fantasy+Chroniken+des+Li' },
-      ],
-      ratings: [
-        { score: '4.39', url: 'https://www.goodreads.com/book/show/45701588-final-fantasy-xiv', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo', search: 'duckduckgo' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV: Chronicles of Light', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
   },
   {
     mediaType: 'Comic', chronoOrder: 7800, recommendedOrder: 880,
@@ -399,21 +400,25 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
   },
   {
     mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 850,
-    title: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~ Vol.1", titleUrl: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%20A%20Realm%20Reborn%20Adventure%20Log%20Hero%27s%20Eggs', titleDate: '2014-09',
+    title: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~", titleUrl: 'https://www.kadokawa.co.jp/product/301405000071/', titleDate: '2014-09-19',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      "A play-diary-style adventure book collecting Miyabi Hasegawa's web serial, following her hot-blooded player character Ganbarund through the wastelands, dungeons, and monster dens of Eorzea. Released as ファイナルファンタジーXIV 新生エオルゼア冒険記 -英雄の卵たち-.",
+      "A play-diary-style adventure book collecting a web serial, following its hot-blooded player character Ganbarund through the wastelands, dungeons, and monster dens of Eorzea. Released as ファイナルファンタジーXIV 新生エオルゼア冒険記 -英雄の卵たち-.",
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Play diary', 'Free'],
       subtitle: 'Book',
+      profileUrl: 'https://www.kadokawa.co.jp/product/301405000071/',
       length: '339p; P',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/71627236' },
       ],
       helpWanted: true,
+      ratings: [
+        { score: 'NYR', url: 'https://www.goodreads.com/book/show/71627236', key: 'goodreads' },
+      ],
       platforms: [
-        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XIV A Realm Reborn Adventure Log: Hero's Eggs Vol.1", searchQualifier: 'novel' },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XIV A Realm Reborn Adventure Log: Hero's Eggs", searchQualifier: 'novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         {
           key: 'fan-recap',

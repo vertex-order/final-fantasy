@@ -2,6 +2,8 @@
 
 # Final Fantasy XIV: Chronicles of Light
 
+Shown on the site as an alternate ("or") row of the Side Stories entry, with `id` pinned to this filename so the anchor and this file keep their names. Kept as its own sources file because it has its own editions, ISBNs and publisher pages; the Side Stories file (`final-fantasy-xiv-side-stories-2014.md`) covers the web series.
+
 Two volumes merged into one entry: Vol.1 (`titleDate` start, 2019-03-09, the Japanese ebook) and Vol.2 (`titleDate` end, 2025-10-07). Rating, language links and platform rows from Vol.1; the entry's length is `2 volumes`. Vol.1 facts are below; Vol.2 is links plus the wiki's facts.
 
 ## Editions (ISBN)
@@ -87,8 +89,11 @@ goodreads.com (Information)
 - https://www.goodreads.com/book/show/252304660 -- Vol.2 Japanese: dates (October 7, 2025), 100 pages (the publisher says 398), ISBN 9784757599826, 0 ratings -- accessed 2026-10-10 -- archived: TODO
 - https://www.goodreads.com/book/show/45835237-final-fantasy-xiv-chronicles-of-light -- format* (263 pages, Tankobon Hardcover; platform stays Short Stories (a collection)) -- accessed 2026-10-09
 
+breezewiki.com (Information)
+- https://breezewiki.com/finalfantasy/wiki/Side_Stories#List_of_stories -- platforms* (fan story summaries; the same page the Side Stories entry uses) -- accessed 2026-10-10
+
 youtube.com (Information)
-- https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%3A%20Chronicles%20of%20Light -- fan-recap search, no results
+- https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%3A%20Chronicles%20of%20Light -- fan-recap search, no results; no longer in the entry (the recap link is now the Side Stories wiki page)
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20XIV%3A%20Chronicles%20of%20Light%2C%20Volume%20II -- Vol.2 fan-recap search, no results; not in the merged entry
 - fan-audiobook search (default title) -- no results
 

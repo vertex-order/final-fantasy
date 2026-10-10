@@ -225,6 +225,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 1100, recommendedOrder: 605,
     title: 'Final Fantasy XI ~The Star Oath~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-05',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Rookie warrior Alfred (Al) and his companions, after defeating the tank at the Orc Fortress of Gelsba, head to Windurst with its blueprints. Sensing an evil dark shadow lurking in Vana'diel, Al and his group continue their journey. Released as 〜星の誓い〜. May also be known as ~Oath of the Stars~. Book #2 in the French/German translated release order.",
     ],
@@ -278,6 +279,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 1200, recommendedOrder: 607,
     title: 'Final Fantasy XI ~The Eternal Bond~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-07',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'With the party scattered on their own errands—Al and Iris waiting in Bastok, Peta in Windurst, Jed and Shera off to break a curse in Jeuno—Al and the others are suddenly called back to Jeuno for a new mission. Released as 〜永遠の絆〜. May also be known as ~The Eternal Link~ or ~The Covenant of Eternity~. Book #3 in the French/German translated release order.',
     ],
@@ -304,6 +306,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 1300, recommendedOrder: 608,
     title: 'Final Fantasy XI ~The Sword of Protection~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-10',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       "An adventure unfolds in Gilgamesh where one mystery leads to another. Released as 〜護りの剣〜①. We're not sure which volume's plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back. Book #4 in the French/German translated release order.",
     ],
@@ -331,6 +334,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 1400, recommendedOrder: 609,
     title: 'Final Fantasy XI ~The Sword of Protection~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-12',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Dak sets out on a journey with three companions after his childhood friend and foster parent goes missing, and encounters Rin, who has come into possession of a dragon child, and her companions. Released as 〜護りの剣〜②. We're not sure which volume's plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back. Book #5 in the French/German translated release order.",
     ],
@@ -358,6 +362,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 610,
     title: 'Final Fantasy XI ~The Sword of Protection~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-01',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'The concluding volume of the Sword of Protection trilogy, following Douglas and his companions to the Uggalepih Temple. Released as 〜護りの剣〜③. Book #6 in the French/German translated release order.',
     ],
@@ -384,6 +389,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 1600, recommendedOrder: 611,
     title: 'Final Fantasy XI ~Faraway Wings~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-03',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'After some time apart, Alfred and his companions reunite in Jeuno, where a new adventure awaits Iris. Released as 〜遥かなる翼〜. Book #7 in the French/German translated release order.',
     ],
@@ -411,6 +417,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 1700, recommendedOrder: 612,
     title: 'Final Fantasy XI ~Pride of the Knight~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-07',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'The first volume of the Pride of the Knight trilogy. Doug, Lynn, and their companions travel to Bastok after Peta hears from her old friend, the Galka knight Max. Released as 〜騎士の誇り〜①. Book #8 in the French/German translated release order.',
     ],
@@ -438,6 +445,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 1950, recommendedOrder: 613,
     title: 'Final Fantasy XI ~Pride of the Knight~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-09',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       "The second volume of the Pride of the Knight trilogy, continuing the group's adventures in and around Bastok. Released as 〜騎士の誇り〜②. Book #9 in the French/German translated release order.",
     ],
@@ -465,6 +473,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 2100, recommendedOrder: 614,
     title: 'Final Fantasy XI ~Pride of the Knight~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-12',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'The third and final volume of the Pride of the Knight trilogy. Released as 〜騎士の誇り〜③. Book #10 in the French/German translated release order.',
     ],
@@ -492,6 +501,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 2200, recommendedOrder: 615,
     title: "Final Fantasy XI ~Adventurer's Holiday~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-04',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Al and Iris attend a friend's wedding. There, Reisha, a spy from San d'Oria, arrives with a request. Released as 〜冒険者の休日〜.",
     ],
@@ -518,6 +528,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 2300, recommendedOrder: 616,
     title: 'Final Fantasy XI ~A Distant Wish~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-07',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Al\'s message cuts off with the words "it\'s darkness, a vortex of darkness..." and Iris, Shera, and Peta immediately set out to find Al and Jed. Released as 〜遠い願い〜㊤.',
     ],
@@ -544,6 +555,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 2400, recommendedOrder: 617,
     title: 'Final Fantasy XI ~A Distant Wish~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-09',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Al and Jed are swept into a sudden vortex of darkness. Then, recklessly, Bata and Chit leap into the vortex themselves, but it vanishes immediately afterward. Left behind, Iris and Shera learn that the dark vortex seems to connect to Tavnazia, a land thought to have been destroyed long ago, and resolve to pursue the others. Released as 〜遠い願い〜㊦.',
     ],
@@ -570,6 +582,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 2500, recommendedOrder: 618,
     title: 'Final Fantasy XI ~A New Dream~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-11',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Once again spanning two volumes, it features Al and Iris in action, set in Tavnazia. Released as 〜新たな夢〜㊤.',
     ],
@@ -596,6 +609,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 2600, recommendedOrder: 619,
     title: 'Final Fantasy XI ~A New Dream~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-01',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Al and his companions arrive in Tavnazia after falling into the Vortex of Darkness, pursued by Iris and Shera, while Klaus and Shiri arrive in search of news of their childhood friend, as the machinations of San d'Oria, Windurst, Bastok, and Jeuno draw the long-sealed city back into the open. Released as 〜新たな夢〜㊦.",
     ],
@@ -622,6 +636,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 2700, recommendedOrder: 626,
     title: 'Final Fantasy XI ~The Blessings of the Journey~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-04',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'The prelude to the Aht Urhgan saga. Released as 〜旅の恵み〜.',
     ],
@@ -646,6 +661,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 3100, recommendedOrder: 627,
     title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-08',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Pasha and Nelly, a pair of Mithra thieves in Al Zahbi who dream of marrying into wealth, make their living picking pockets and burgling mansions—until one day they steal something far bigger than they bargained for. The series' first female leads. Released as 〜アトルガンの娘たち〜①.",
     ],
@@ -670,6 +686,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 3200, recommendedOrder: 628,
     title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-10',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       "The Mithra thief duo, Pasha and Nelly, successfully steal treasure from a merchant's mansion in Al Zahbi. But Pasha gets stuck in her transformed state as a Tarutaru and can't revert back, and they're being chased by the merchant's bodyguards. Released as 〜アトルガンの娘たち〜②.",
     ],
@@ -694,6 +711,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 3300, recommendedOrder: 629,
     title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-12',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Having stolen the treasure token proving Farmett's conspiracy, Pasha and Nelly travel with adventurers they meet in the Inner Country to pursue hostages held captive by the Lamia. Released as 〜アトルガンの娘たち〜③.",
     ],
@@ -718,6 +736,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 3400, recommendedOrder: 620,
     title: 'Final Fantasy XI ~The Testament of the Wise~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-03',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Continues the series of illustrated short stories, opening on a shocking turn of events involving the character Peta. Released as 〜賢者の遺言〜㊤.',
     ],
@@ -744,6 +763,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 3500, recommendedOrder: 621,
     title: 'Final Fantasy XI ~The Testament of the Wise~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-04',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Peta is in danger, and Al and Iris set sail for Nashmo to rescue her. Released as 〜賢者の遺言〜㊦. May also be known as ~The Testament of the Sages~.',
     ],
@@ -791,6 +811,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 3600, recommendedOrder: 623,
     title: 'Final Fantasy XI ~Conditions of Fortune~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-08',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Al and Iris\'s party, staying in Aht Urhgan, encounter a Mithra corsair known as "Lucky Narfah" during a certain adventure, but the man she\'s infatuated with is extremely suspicious. Released as 〜幸運の条件〜. A secondary English source describes her instead as an Elvaan named "Nalfa the Lucky" — race and name unconfirmed.',
     ],
@@ -817,6 +838,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 3700, recommendedOrder: 624,
     title: 'Final Fantasy XI ~The Princess Knight of Ronfaure~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-11',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Al and his companions encounter a baby chocobo in the Floating Swamps of Kadava, and with no owner to be found, Al and Iris decide to raise it themselves, leaving their companions to head to San d'Oria. Released as 〜ロンフォールの姫騎士〜.",
     ],
@@ -843,6 +865,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 4100, recommendedOrder: 625,
     title: "Final Fantasy XI ~The Star's Call~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-01',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Chance, the lost chocobo found by Al and Iris and raised in Sandoria, was actually a victim of a sinister plot. To save Chance, the pair return to Aht Urhgan where their comrades await. Released as 〜星のいざない〜. May also be known as ~Starfall~.',
     ],
@@ -869,6 +892,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 4200, recommendedOrder: 630,
     title: 'Final Fantasy XI ~Happy Gift~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-04',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Dark Knight Larry finds himself helping a troublesome young black mage girl named Bee, and before he knows it, the two are traveling together hunting monsters, armed with his "Beast Photographer." Released as ハッピーギフト.',
     ],
@@ -893,6 +917,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 4300, recommendedOrder: 631,
     title: 'Final Fantasy XI ~A Message from Beyond~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-08',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       "One day, a stranger visits Doug, Rin, and the others as they search for Tikki's mother. She delivers a letter from Tikki's mother, written twenty years ago. Released as 〜彼方からの伝言〜①.",
     ],
@@ -917,6 +942,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 4400, recommendedOrder: 632,
     title: 'Final Fantasy XI ~A Message from Beyond~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-10',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Responding to a rescue request from Tikki's mother, what awaited them at the designated location was the 'Forbidden Mouth'. Through it, Dag and his companions were transported to the past of Vana'diel. Released as 〜彼方からの伝言〜②.",
     ],
@@ -941,6 +967,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 4500, recommendedOrder: 633,
     title: 'Final Fantasy XI ~A Message from Beyond~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-12',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       "While searching for Tikki's mother, Euphelin, Doug and Lynn's party are transported to the past of Vana'diel amid the Crystal War. Released as 〜彼方からの伝言〜③. May also be known as ~Messages from Afar~.",
     ],
@@ -989,6 +1016,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 4700, recommendedOrder: 635,
     title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-05',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Ron, a modestly skilled adventurer raised in Windurst, is dragged by his childhood friend Shari into searching for the Book of Gods, said to be in the hands of the thief Nanaa Mihgo. Released as ザルカバードの鼓動①.',
     ],
@@ -1013,6 +1041,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 4800, recommendedOrder: 636,
     title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-08',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Ron and the others find the Book of Gods, but it has become a blank White Book, and the Duke of Jeuno tasks them with investigating a mysterious magicite as fears grow that the Shadow Lord is returning. Released as ザルカバードの鼓動②.',
     ],
@@ -1037,6 +1066,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 4900, recommendedOrder: 637,
     title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-11',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       'The Shadow Lord is returning. Ron and Shari bring this news back to Windurst, scattering the party as Savvy, Duga, and Riccorocco head to their own nations. The nations decide to entrust the defeat of the Shadow Lord to an elite force of adventurers, bringing them together once more. Released as ザルカバードの鼓動③.',
     ],
@@ -1086,6 +1116,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   {
     mediaType: 'Book', chronoOrder: 5100, recommendedOrder: 640,
     title: 'Final Fantasy XI ~Songs of the Endless Earth~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books', titleDate: '2015-12',
+    by: 'Miyabi Hasegawa',
     mediaDesc: [
       "A month after the crisis of Escafication, Vana'diel was slowly returning to normal. A sailing ship drifting along the South Ocean route encounters a colossal monster, marking the start of a new incident across Vana'diel, Tavnazia, and Reisenjima. Released as 〜終わりなき大地の唄〜. May also be known as ~The Song of the Endless Land~.",
     ],

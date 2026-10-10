@@ -2,41 +2,60 @@
 
 # Final Fantasy XI ~The Star Oath~
 
+## Author
+
+はせがわみやび (Miyabi Hasegawa) — By (entry `by`; plain by)
+- NDL: はせがわみやび 著 (authority 1963-) — accessed 2026-10-10
+
 ## Editions (ISBN)
 
 Per-book record, one book per label.
 
-Japanese edition "ファイナルファンタジー11 星の誓い" -- ISBN 9784757714243 (ISBN10: 4757714246), Japanese, エンターブレイン (Enterbrain), April 2003, 287pp -- author はせがわみやび -- ISBN+publisher+page count+date+language confirmed by google books; publisher blurb: the second volume of the "Final Fantasy 11" series (Al and his companions, after defeating the "chariot" at the Gelsba orc fortress, head for Windurst) -- JA language link*, length (287p;A6)* -- the entry's titleDate (2003-05) differs from google books (April 2003), not reconciled
+ISBN 9784757714243 (ISBN10: 4757714246), Japanese, Enterbrain (ファミ通文庫), 2003.5 (Google Books: April 2003), 287 pages, 15 cm, 640 yen — per google books + NDL — JA language link*, length*, dates*
+- Blurb: volume 2 of the series; Al and companions head for Windurst after the Gelsba orc fortress
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757714243
-- google books: https://www.google.com/books/edition/_/CKwgNwAACAAJ -- accessed 2026-10-09
-- goodreads: https://www.goodreads.com/book/show/57520205 -- accessed 2026-10-09
+- google books: https://www.google.com/books/edition/_/CKwgNwAACAAJ — accessed 2026-10-09
+- goodreads: https://www.goodreads.com/book/show/57520205 — accessed 2026-10-09
 - open library: https://openlibrary.org/search?isbn=9784757714243
+- NDL: http://id.ndl.go.jp/bib/000004107938 — accessed 2026-10-10
 
-German edition "Final Fantasy XI: Der Sternenschwur, Bd 2" -- ISBN 9783833214561 (ISBN10: 3833214562), German, Panini Verlags GmbH, November 15, 2006, 320pp per goodreads (google books: 300pp), Paperback -- author Miyabi Hasegawa, translators Koaru Iriyama-Gürtler and Stephan Gürtler; goodreads series "Final Fantasy XI Online" #2 -- ISBN+publisher+date+language per goodreads, google books (Panini-Verlag-GmbH, 2006) -- DE language link*
+ISBN 9783833214561 (ISBN10: 3833214562), German "Der Sternenschwur" (Bd 2), Panini Verlags GmbH, November 15, 2006, 320 pages (Google Books: 300), Paperback — per goodreads + google books — DE language link*
+- Translators: Koaru Iriyama-Gürtler, Stephan Gürtler
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9783833214561
-- google books: https://www.google.com/books/edition/_/UfZzzwEACAAJ -- accessed 2026-10-09
-- goodreads: https://www.goodreads.com/book/show/4466886-final-fantasy-xi -- accessed 2026-10-09 -- 24 ratings, 3.17
+- google books: https://www.google.com/books/edition/_/UfZzzwEACAAJ — accessed 2026-10-09
+- goodreads: https://www.goodreads.com/book/show/4466886-final-fantasy-xi — accessed 2026-10-09 (24 ratings, 3.17)
 - open library: https://openlibrary.org/search?isbn=9783833214561
 
-French edition "Final Fantasy XI, Tome 2 : Le Serment des Étoiles" -- ISBN 9782265085824 (ISBN10: 2265085820), French, Fleuve Noir, August 23, 2007, 224pp, Paperback -- author Miyabi Hasegawa, translator Guillaume Didier; goodreads series "Final Fantasy XI Online" #2 -- ISBN+publisher+date+page count+language per goodreads -- FR language link*, rating (3.17)*
+ISBN 9782265085824 (ISBN10: 2265085820), French "Le Serment des Étoiles" (Tome 2), Fleuve Noir, August 23, 2007, 224 pages, Paperback — per goodreads + NDL — FR language link*, rating (3.17)*
+- Translator: Guillaume Didier
+- German and French pages share the same Goodreads rating, so Goodreads treats them as one book
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9782265085824
-- goodreads: https://www.goodreads.com/book/show/43464316-final-fantasy-xi-tome-2 -- accessed 2026-10-09 -- 24 ratings, 3.17 (the German and French pages share the same rating, so goodreads treats them as one book)
+- goodreads: https://www.goodreads.com/book/show/43464316-final-fantasy-xi-tome-2 — accessed 2026-10-09
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9782265085824
 - open library: https://openlibrary.org/search?isbn=9782265085824
+- NDL: http://id.ndl.go.jp/bib/000009326266 — accessed 2026-10-10
 
 ## Sources
 
 bg-wiki.com (Information)
-- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories -- titleUrl*, length*, language (JA)* -- not yet re-read for this record
+- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — not yet re-read for this record
 
-duckduckgo.com (Information)
-- https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Star%20Oath~%20translation -- fan-translation search
+ndlsearch.ndl.go.jp (Information)
+- http://id.ndl.go.jp/bib/000004107938 — dates* (JA 2003.5; supports the entry's 2003-05), length (287 p, 15 cm; fold-in sheet), price (640 yen), ISBN (4-7577-1424-6 = 9784757714243), credits, series (ファミ通文庫), NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000009326266 — French edition: Paris, Fleuve noir, 2007, 219 p., 18 cm, ISBN 9782265085824; "Original title: Final fantasy XI : an oath of stars." — accessed 2026-10-10 — archived: TODO
 
 wikipedia.org (Information)
-- https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga -- ISBN* (agrees with google books), languages* (JA, DE, FR) -- accessed 2026-10-09
-  - Wikipedia (row "Final Fantasy XI", May 2003): the novel series "Released in Japanese, German, and French"; JP ISBN 978-4-7577-1424-3 (= 9784757714243, the Star Oath ISBN on the google books record)
+- https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga — ISBN* (agrees with google books), languages* (JA, DE, FR) — accessed 2026-10-09 — archived: TODO
+  - Row "Final Fantasy XI", May 2003: released in Japanese, German and French
+  - JP ISBN 978-4-7577-1424-3 = 9784757714243
 
-format (Light Novel)* -- accessed 2026-10-09
-- Enterbrain bunko-size (A6) novel in the Final Fantasy XI novel series, which bg-wiki's notes call "Famitsu Bunko" novelizations; the first book of the series (sources/final-fantasy-xi-winds-of-prayer-novel-2002.md) has a scanned cover with the ファミ通文庫 (Famitsu Bunko) mark, the Enterbrain light-novel imprint, and the AO3 translator calls it "the light novel"
+duckduckgo.com (Information)
+- https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Star%20Oath~%20translation — fan-translation search
+
+## Surveyed
+
+- Format (Light Novel)*: Enterbrain A6 novel in the XI series (bg-wiki calls them "Famitsu Bunko" novelizations)
+  - First book (`winds-of-prayer-novel-2002`) has a ファミ通文庫 cover scan
+  - AO3 translator calls it "the light novel"
 
 ## Decisions
