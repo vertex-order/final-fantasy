@@ -629,16 +629,21 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
   },
   {
     mediaType: 'Book', chronoOrder: 100560, recommendedOrder: 1050,
-    title: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2015-04-30',
+    title: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Agito#Post-release', titleDate: '2015-04-30',
+    by: 'Tora Tsukishima',
     mediaDesc: [
       [{ text: 'Focuses on the characters of Nine and Rubrum cadet Naghi Minatsuchi in continuity with ' }, { emLinkText: 'Agito (2014)', emLinkUrl: '#entry-XIII-final-fantasy-agito-2014' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Novel'],
       subtitle: 'Book',
+      profileUrl: 'https://magazine.jp.square-enix.com/top/comics/detail/9784757546042/',
+      length: '286p; P',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/102911659' },
+        { value: '…?' },
       ],
+      helpWanted: true,
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/102911659', key: 'goodreads' },
       ],
