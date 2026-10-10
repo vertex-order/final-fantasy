@@ -342,12 +342,14 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
   {
     mediaType: 'Comic', chronoOrder: 7800, recommendedOrder: 880,
     title: 'Final Fantasy XIV: Eorzea Academy', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646092352', titleDate: '2023-02-07',
+    by: 'Esora Amaichi',
     mediaDesc: [
       [{ text: 'A modern-day high school comedy manga starring ' }, { emText: 'XIV' }, { text: ' characters. Alisaie attends Eorzea Academy, formed by the merger of rival schools the Academy of Light and the Academy of Darkness, where headmistress Tataru organizes school games to ease the ongoing tension between the two student bodies.' }],
     ],
     primary: {
       tags: ['Optional', 'Alternate Universe', 'Manga'],
       subtitle: 'Comic',
+      profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646092352',
       length: '192p; P',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/242160761-xiv' },
@@ -356,10 +358,10 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
         { value: 'FR', url: 'https://www.goodreads.com/book/show/220294171-final-fantasy-xiv' },
       ],
       ratings: [
-        { score: '4.30', url: 'https://www.goodreads.com/book/show/123259381-final-fantasy-xiv', key: 'goodreads' },
+        { score: '4.30', url: 'https://www.goodreads.com/book/show/198004628-final-fantasy-xiv', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', url: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646092352' },
+        { key: 'book', name: 'Manga', url: 'https://www.goodreads.com/book/show/198004628-final-fantasy-xiv' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV: Eorzea Academy', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
