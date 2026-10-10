@@ -369,25 +369,28 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
   },
   {
     mediaType: 'Comic', chronoOrder: 3200, recommendedOrder: 875,
-    title: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~ Vol.1", titleUrl: 'https://www.kadokawa.co.jp/product/321705000172/', titleDate: '2017-08-26',
+    title: 'Final Fantasy XIV: I Will Teach You Professor Lalafell', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_I_Will_Teach_You_Professor_Lalafell', titleDate: { start: '2017-08-26', end: '2018-11-26' },
+    by: 'Fakkuma',
     mediaDesc: [
-      "A gag manga in which the sole Lalafell-obsessed 'Lalafell-sensei' guides a green adventurer through Eorzea. Collected editions add the spin-off 'The Scholar and Eorzea'. Released as ファイナルファンタジーXIV ララフェル先生の教えてやるよ！.",
+      [{ text: "A gag manga in which the sole Lalafell-obsessed 'Lalafell-sensei' guides a green adventurer through Eorzea. Collected editions add the spin-off 'The Scholar and Eorzea'. Released in Japan as " }, { emText: 'Final Fantasy XIV: Lalafell-sensei no Oshiete Yaru yo!' }, { text: " (ファイナルファンタジーXIV ララフェル先生の教えてやるよ！, literally \"Lalafell-sensei Will Teach You!\")." }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Manga'],
       subtitle: 'Comic',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F',
       length: '3 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/69172609' },
+        { value: 'EN', tip: 'English (fan translation)', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%3A%20I%20Will%20Teach%20You%20Professor%20Lalafell%20translation' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/69172609', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~", searchQualifier: 'manga' },
-        { key: 'fan-translation', search: 'duckduckgo', searchTitle: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~" },
-        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: "Final Fantasy XIV Lalafell-sensei's Gonna Teach Ya!", searchSuffix: 'manga dub', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: "Final Fantasy XIV ~Lalafell-sensei's Gonna Teach Ya!~", noResults: true },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XIV: I Will Teach You Professor Lalafell', searchQualifier: 'manga' },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XIV: I Will Teach You Professor Lalafell' },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV: I Will Teach You Professor Lalafell', searchSuffix: 'manga dub', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV: I Will Teach You Professor Lalafell', noResults: true },
       ],
     },
   },

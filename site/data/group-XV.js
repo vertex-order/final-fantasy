@@ -550,7 +550,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
   },
   {
     mediaType: 'Book', chronoOrder: 3500, recommendedOrder: 950,
-    title: 'Final Fantasy XV: The Dawn of the Future', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646090006', titleDate: '2019-04-25',
+    title: 'Final Fantasy XV: The Dawn of the Future', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_-The_Dawn_of_the_Future-', titleDate: '2019-04-25',
     by: 'Jun Eishima',
     mediaDesc: [
       [{ text: 'Follows Ardyn, Aranea, Lunafreya, and Noctis as each confronts fate in the aftermath of ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: ", closing out the stories of the world's dawning after the game's events." }],
@@ -578,27 +578,26 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
   },
   {
     mediaType: 'Comic', chronoOrder: 3600, recommendedOrder: 960,
-    title: 'Final Fantasy XV Anthology', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology', titleDate: { start: '2017-07-27', end: '2017-12-26' },
+    title: 'Final Fantasy XV Official Comic Anthology', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology', titleDate: { start: '2017-07-27', end: '2017-12-26' },
     mediaDesc: [
-      'Two anthologies of short manga centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum.',
+      [{ text: 'Two anthologies of short manga centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum. Released in Japan as ' }, { emText: 'Fainaru Fantajī Fifutīn Kōshiki Comikku Ansorojī' }, { text: ' (ファイナルファンタジーXV 公式コミックアンソロジー).' }],
     ],
     primary: {
-      tags: ['Optional', 'Short Stories', 'Manga'],
+      tags: ['Optional', 'Manga'],
       subtitle: 'Comic',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXV%20%E5%85%AC%E5%BC%8F%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC',
       length: '2 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/36208245-final-fantasy-xv-official-comic-anthology-2017-7-27' },
         { value: 'EN', tip: 'English (fan translation)', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%20translation' },
-        { value: '…?' },
       ],
-      helpWanted: true,
       ratings: [
         { score: '4.23', url: 'https://www.goodreads.com/book/show/36208245-final-fantasy-xv-official-comic-anthology-2017-7-27', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XV Official Comic Anthology', searchQualifier: 'manga' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XV Official Comic Anthology' },
-        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Anthology', searchSuffix: 'manga dub', noResults: true },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Official Comic Anthology', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Official Comic Anthology', noResults: true },
       ],
     },
