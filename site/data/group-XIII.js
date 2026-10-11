@@ -367,6 +367,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
       ],
       platforms: [
         { key: 'book', name: 'Short Stories', url: 'https://www.goodreads.com/book/show/42080020-final-fantasy-xiii' },
+        { key: 'globe', name: 'Web Novel (Wayback)', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20091230051142/http://www.square-enix.co.jp/fabula/ff13/' },
         { key: 'fan-translation', search: 'duckduckgo' },
         {
           key: 'fan-audiobook',
