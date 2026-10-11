@@ -320,21 +320,22 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
   },
   {
     mediaType: 'Book', chronoOrder: 5000, recommendedOrder: 700,
-    title: 'Final Fantasy XIII: Reminiscence -tracer of memories-', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-', titleDate: '2014-06-03',
+    title: 'Final Fantasy XIII: Reminiscence -tracer of memories-', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-', titleDate: { start: '2014-06-03', end: '2014-07-10' },
+    by: 'Daisuke Watanabe',
     mediaDesc: [
-      [{ text: 'Novella set after the events of ' }, { emText: 'Lightning Returns: XIII (2013)' }, { text: ' but before the epilogue ' }, { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, { text: '. It takes the form of interviews with the characters conducted by Aoede, and is narrated in first person from her point of view.' }],
+      [{ text: 'Web novella set after the events of ' }, { emLinkText: 'Lightning Returns: XIII (2013)', emLinkUrl: '#entry-XIII-lightning-returns-final-fantasy-xiii-2013' }, { text: ' but before the epilogue ' }, { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, { text: '. It takes the form of interviews with the characters conducted by Aoede, and is narrated in first person from her point of view.' }],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'Character interviews', 'Novella'],
-      subtitle: 'Book',
-      length: 'Ten episodes',
+      tags: ['Optional', 'Sequel', 'Character interviews', 'Web Novella', 'Free'],
+      subtitle: 'Web',
+      length: '10 episodes',
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN', tip: 'English (fan translation)' },
+        { value: 'JA', native: true, url: 'http://www.famitsu.com/sp/140623_ff13/' },
+        { value: 'EN', tip: 'English (fan translation)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-#External_links' },
       ],
-      profileUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-',
+      profileUrl: 'http://www.famitsu.com/sp/140623_ff13/',
       platforms: [
-        { key: 'book', name: 'Novella', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy tracer of memories', searchQualifier: 'novella' },
+        { key: 'globe', name: 'Web Novella', jpTag: true, url: 'http://www.famitsu.com/sp/140623_ff13/' },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-#External_links' },
         {
           key: 'fan-recap',
