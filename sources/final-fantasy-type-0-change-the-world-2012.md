@@ -6,7 +6,7 @@ Rolled-up entry: Vol.1 -The Answer- and Vol.2 -The Penultimate Truth- (Japanese,
 
 ## Author
 
-Souki Tsukishima (Sōki Tsukishima, 月島総記) — Adapted by (entry `by`, role `adapted`: a novelization of the Type-0 game, per docs/data.md; author per every page)
+Souki Tsukishima (Sōki Tsukishima, 月島総記) — By (entry `by`; plain by: the author per every page; not `adapted`, because the novels are a prequel to the game's story, set in the cycle before it, not a retelling of it)
 - Square Enix pages (Vol.1, Vol.2) and NDL: 月島総記 著; 開発チーム 監修 — accessed 2026-10-10
 - Wikipedia (Final Fantasy Type-0): "The novels were written by Sōki Tsukishima" — accessed 2026-10-10
 - French edition: Goodreads, Lalibrairie, Babelio, Google Books, Bookvillage: Souki Tsukishima; Amazon.fr, Fnac: Soki; manga-news, BDNet: Sôki — accessed 2026-10-10
@@ -146,6 +146,15 @@ duckduckgo.com (Information)
 
 ## Surveyed
 
+- How the two volumes relate to the game, from the wiki's Story and Synopsis sections and the Square Enix blurbs (text pasted by the user, 2026-10-11):
+  - Vol.1 (wiki Story) has six chapters: 1 Ace & Izana, 2 Machina & Rem, 3 Queen & Kurasame, 4 Nine & Sice, 5 Deuce & Jack, 6 Machina; Vol.2 (wiki Synopsis) has six: 7 Machina, 8 Trey & Cinque, 9 Cater & Eight, 10 King & Seven, 11 Machina & Rem, 12 Arecia, plus an Epilogue ("Everyone")
+  - They are one continuous story: Vol.1's last chapter ends with Machina refusing the dying White Tiger l'Cie Qun'mi and shooting a fireball at her, and Vol.2's first chapter picks up with Ace overhearing that conversation
+  - Both are set in the cycle before the game's: Vol.2's chapter 12 has Arecia tell Machina the world is locked in an endless spiral, repeatedly destroyed in Tempus Finis; its epilogue has Arecia note "The Agito was not born in this cycle either", decide to make Rem weak, extract her children's phantoma and rewind the world's clock, and ends with the opening of the next cycle (the game's): Qun'mi's attack with her crystal jammer, Class Zero's victory, Machina and Rem joining their class, Kurasame's voice asking them to step in, "This is the final story in the spiral"
+  - The game's own story (wiki) has Rem suffering from an incurable illness and the same Qun'mi, crystal jammer and Machina and Rem arrival, and says the game is the 600,104,972nd cycle: so Vol.2's ending leads straight into the game's cycle, and Vol.2 explains Rem's weakness
+  - Square Enix blurbs: Vol.1 (…/books/10113) "『FINAL FANTASY 零式』ついに小説化！" (finally novelized); Vol.2 (…/books/10112) 「謎は解き明かされる。０組（クラスゼロ）候補生の悲劇とともに。マキナの選択（The Answer）に世界はどう応えるのか。ついに完結！」 listing Trey & Cinque, Eight & Kate, Seven & King, Rem, Machina, ending 「そして世界は繰り返す。ただもう一度だけ。」
+  - Description and tags*: the two-volume prequel framing (tag `Prequel`) follows the continuous previous-cycle story and Vol.2's epilogue above; the general intro sentence follows Square Enix's Vol.1 blurb (「冷酷な戦争の時代、彼らが何を思い、何を選択したのか？」, what they thought and chose in the war) and the episode structure; it leaves out the time-loop mechanics as spoilers (the user's call)
+  - Chapter counts: the Square Enix blurbs name 5 episodes per volume, the wiki 6 chapters per volume (blurb omits Vol.1's closing Machina chapter and Vol.2's Arecia chapter and epilogue)
+
 - Content mapping to the French book is not one-to-one: Vol.1 has five episodes per Google Books' publisher blurb (Izana & Ace, Machina & Rem, Queen & Kurasame, Nine & Sice, Deuce & Jack) and Vol.2 five per Square Enix page 10112 (Trey & Cinque, Eight & Kate, Seven & King, Rem, Machina): ten episodes against nine numbered chapters plus a prologue — reordering or merging possible; unresolved. The two volumes total 560 pages (564 with front matter) against the French 568-572
   - jeuxvideo-world review (https://jeuxvideo-world.over-blog.com/2016/01/critique-roman-final-fantasy-type-0-the-last-truth.html) describes 13 parts: chapter 0, chapters 1-4, a 15-page section "Réponse" (French for "answer"), "L'engrenage", chapters 5-9, and a 6-page piece "The Last Truth" — per a search summary of the review, not read in full — mine
   - visionlivre.net says only "Langue originale : Japonais", "tome unique" — empty
@@ -156,3 +165,5 @@ duckduckgo.com (Information)
 - Also seen in search, not opened: librairie-dedicaces.fr, librairielecamphrier.fr, cdiscount — mine
 
 ## Decisions
+
+- Order: chronologically before the game and after The Ice Reaper (`chronoOrder` 99950), because the two volumes lead directly into the game's plot (Vol.2's epilogue hands off to the game's opening); in the recommended order after The Ice Reaper (`recommendedOrder` 950), so the prequels "catch up" to the game's plot.

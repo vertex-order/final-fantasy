@@ -526,16 +526,16 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 100450, recommendedOrder: 942,
+    mediaType: 'Book', chronoOrder: 99950, recommendedOrder: 950,
     title: 'Final Fantasy Type-0: Change the World', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-', titleDate: { start: '2012-04-21', end: '2012-06-28' },
-    by: [{ role: 'adapted', names: 'Souki Tsukishima' }],
+    by: 'Souki Tsukishima',
     mediaDesc: [
-      [{ text: 'A novelization of ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ' in two volumes: ' }, { emText: 'Change the World -The Answer-' }, { text: ' (Vol.1) and ' }, { emText: 'Change the World -The Penultimate Truth-' }, { text: ' (Vol.2, 最後から二番目の真実).' }],
-      [{ text: "Vol.1 follows Izana Kunagiri as he searches for cadet Ace amid the chaos of the war against the Militesi Empire, recalling how he arrived at his current situation. Vol.2 depicts the cycle previous to the one seen in the game, so its plot diverges from the game's." }],
+      [{ text: 'A two-volume prequel to ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ': ' }, { emText: 'Change the World -The Answer-' }, { text: ' (Vol.1) and ' }, { emText: 'Change the World -The Penultimate Truth-' }, { text: ' (Vol.2, 最後から二番目の真実).' }],
+      [{ text: 'Told in episodes centered on individual Class Zero cadets and pairs of them, the novels follow what they think and choose during the war between the Crystal-States of Orience. Vol.1 opens with Izana Kunagiri searching for the cadet Ace amid the chaos of the war against the Militesi Empire; Vol.2 completes the story and leads into the events of the game.' }],
       [{ text: 'Also known as ' }, { emText: 'Final Fantasy Type-0 ~The Last Truth~' }, { text: ', the title of its French omnibus edition collecting both volumes.' }],
     ],
     primary: {
-      tags: ['Optional', 'Novel'],
+      tags: ['Optional', 'Prequel', 'Novel'],
       subtitle: 'Book',
       profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/search?s=27&q=Change+the+World',
       length: '2 volumes',
