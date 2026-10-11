@@ -349,11 +349,12 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
   {
     mediaType: 'Book', chronoOrder: -2000, recommendedOrder: 800,
     title: 'Final Fantasy XIII: Episode Zero: Promise', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-', titleDate: { start: '2009-09-28', end: '2009-12-24' },
+    by: 'Jun Eishima',
     mediaDesc: [
-      ['Series of web novellas depicting the thirteen days leading up to the events of ', { emLinkText: 'XIII (2009)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2009' }, '.', 'Only three of its seven parts were serialized online, and those posts have since been taken down; the rest appear only in the book.'],
+      ['Series of novellas depicting the thirteen days leading up to the events of ', { emLinkText: 'XIII (2009)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2009' }, '.', 'Only three of its seven parts were serialized online, and those posts have since been taken down; the rest appear only in the book.'],
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Short Stories'],
+      tags: ['Optional', 'Prequel', 'Novellas'],
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/7913673-final-fantasy-xiii' },
@@ -367,8 +368,8 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
         { score: '3.70', url: 'https://www.goodreads.com/book/show/42080020-final-fantasy-xiii', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', url: 'https://www.goodreads.com/book/show/42080020-final-fantasy-xiii' },
-        { key: 'globe', name: 'Web Novel (Wayback)', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20091230051142/http://www.square-enix.co.jp/fabula/ff13/' },
+        { key: 'book', name: 'Novellas', url: 'https://www.goodreads.com/book/show/42080020-final-fantasy-xiii' },
+        { key: 'globe', name: 'Web Novellas (Wayback)', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20091230051142/http://www.square-enix.co.jp/fabula/ff13/' },
         { key: 'fan-translation', search: 'duckduckgo' },
         {
           key: 'fan-audiobook',

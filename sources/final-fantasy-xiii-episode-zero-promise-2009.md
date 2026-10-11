@@ -2,6 +2,15 @@
 
 # Final Fantasy XIII: Episode Zero: Promise
 
+## Author
+
+Jun Eishima (栄島ジュン) — By (entry `by`; plain by: the author per the publisher's own page)
+- Square Enix Game Books Online (https://magazine.jp.square-enix.com/gamebooks/books/10070): Jun Eishima; character design Tetsuya Nomura; no one else named — accessed 2026-10-10
+- English Wikipedia (List of Final Fantasy media): "Series of web novels written by Jun Eishima" — accessed 2026-10-10
+- Lissar's translation post: "Original Concept: Motomu Toriyama/Daisuke Watanabe, Author: Jun Eishima" — accessed 2026-10-10
+- Yen Press: Authors Jun Eishima and Motomu Toriyama, original author Daisuke Watanabe; Goodreads and the wiki infobox list all three as authors — accessed 2026-10-10; the English publisher's extra author credits are not followed: the Japanese publisher names only Eishima
+- Motomu Toriyama and Daisuke Watanabe (original concept, the game's scenario staff) and Tetsuya Nomura (character design) deliberately not credited; an original prequel, so not `adapted`
+
 ## Editions (ISBN)
 
 Per-book record, one book per label. Language discovery only; not a full print catalog.
@@ -77,7 +86,7 @@ goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/36257508-final-fantasy-xiii
 
 goodreads.com (Information)
-- https://www.goodreads.com/book/show/7913673-final-fantasy-xiii -- format* (325 pages, Hardcover; goodreads tags the genre "Light Novel", not trusted for a hardcover; platform stays Short Stories) -- accessed 2026-10-09
+- https://www.goodreads.com/book/show/7913673-final-fantasy-xiii -- format* (325 pages, Hardcover; goodreads tags the genre "Light Novel", not trusted for a hardcover; the book platform and tag read Novellas) -- accessed 2026-10-09
 
 ## Surveyed
 
