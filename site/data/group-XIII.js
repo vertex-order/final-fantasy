@@ -78,8 +78,10 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 200,
     title: 'Final Fantasy XIII: A Dreaming Cocoon Falls into the Dawn', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu', titleDate: '2010-09-30',
+    by: 'Benny Matsuyama',
     mediaDesc: [
-      [{ text: "While the Pulse l'Cie fight to defy their fate and save Cocoon, three citizens—an undercover reporter, a university student, and a pilot—secretly have unique parallel journeys. The story follows them as they stumble upon an ancient plot to destroy Cocoon from within, and their paths eventually converge in a united endeavor to save the floating world. Released as " }, { emText: 'Final Fantasy XIII Gaiden Shōsetsu: Yumemiru Mayu, Akatsuki ni Otsu' }, { text: '. May also be known as ' }, { emText: 'Final Fantasy XIII Side Story: A Dreaming Cocoon Falls into the Dawn' }, { text: '. Contained in the ' }, { emText: 'Final Fantasy XIII Ultimania Omega' }, { text: ' book.' }],
+      [{ text: "While the Pulse l'Cie fight to defy their fate and save Cocoon, three citizens—an undercover reporter, a university student, and a pilot—secretly have unique parallel journeys. The story follows them as they stumble upon an ancient plot to destroy Cocoon from within, and their paths eventually converge in a united endeavor to save the floating world." }],
+      [{ text: "Released as " }, { emText: 'Final Fantasy XIII Gaiden Shōsetsu: Yumemiru Mayu, Akatsuki ni Otsu' }, { text: '. May also be known as ' }, { emText: 'Final Fantasy XIII Side Story: A Dreaming Cocoon Falls into the Dawn' }, { text: '. Contained in the ' }, { emText: 'Final Fantasy XIII Ultimania Omega' }, { text: ' book.' }],
     ],
     primary: {
       tags: ['Optional', 'Side-story', 'Novella'],
@@ -87,24 +89,21 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
       length: '6 chapters',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/28466281' },
-        { value: 'EN', tip: 'English (fan translation)' },
+        { value: 'EN', tip: 'English (fan translation)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu#Fan_translation' },
       ],
-      profileUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu',
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/28466281', key: 'goodreads' },
-      ],
+      profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/books/10066',
       platforms: [
         {
           key: 'book',
           name: 'Novella',
           jpTag: true,
-          url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu',
+          url: 'https://www.goodreads.com/book/show/28466281',
         },
         {
           key: 'fan-translation',
           url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu#Fan_translation',
         },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIII A Dreaming Cocoon Falls into the Dawn', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu#Story' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },
