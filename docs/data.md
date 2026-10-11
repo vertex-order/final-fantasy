@@ -319,20 +319,32 @@ another entry.
 
 ## Dates for serialized comics
 
-- **Start:** the first release or serialization date we can find; a reprint
-  or collected volume never replaces it.
+- **Source preference, for both start and end:** syndication (the magazine
+  serialization) > volume publish > omnibus publish.
+  - Syndication includes web serialization and digital-first or app
+    releases that came before print.
+  - A work published only inside a guidebook or other book takes that
+    book's release date as its volume date.
+  - Start: the first date we can find in the best tier available; a
+    reprint or collected volume never replaces it.
+  - End: the last date in the best tier available.
+  - Both ends come from the same tier whenever it covers both: with
+    serialization dates for the start and the end, use them for both.
+    Mixing tiers only happens as a fallback, when the best tier has one
+    end and not the other; say so in the sources file.
 - **Use the best information available:** what we can find and record in
   sources, not just what the entry already shows. Look for serialization
   dates first.
   - Most sources only date books and volumes, not magazine
-    serializations; when that's all there is, use the volume dates.
+    serializations; when that's all there is, use the volume dates, and
+    an omnibus only when no single volume has a date.
   - Start known but not the end: end at the last volume's date, and say
     in the sources file that it's a fallback.
 - **Magazine serialization: use the on-sale date**, when a reader could
   actually buy the issue, not the issue's cover month.
   - Fallback order when no on-sale date can be found: the issue month
-    ("May 2012 issue"), then the volume's publish date. Say so in the
-    sources file.
+    ("May 2012 issue"), then the volume's publish date, then the
+    omnibus's. Say so in the sources file.
   - Don't derive an on-sale date from the magazine's usual sale day; it
     shifts around weekends and holidays. Record only a sourced date.
 
