@@ -537,7 +537,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/117984595-final-fantasy-vii-remake' },
-        { value: 'EN', tip: 'English (official & fan translation)', url: 'https://www.goodreads.com/book/show/60556665-final-fantasy-vii-remake' },
+        { value: 'EN', tip: 'English (Official; Fan Translation)', url: 'https://www.goodreads.com/book/show/60556665-final-fantasy-vii-remake' },
         { value: 'IT', url: 'https://www.goodreads.com/book/show/212676648-final-fantasy-vii-remake' },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/121827638-final-fantasy-vii-remake---traces-of-two-pasts' },
         {

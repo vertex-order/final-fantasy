@@ -123,7 +123,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/13417855-final-fantasy-xiii-2' },
         { value: 'DE', url: 'https://www.goodreads.com/book/show/42769266-final-fantasy-xiii' },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/33144607-final-fantasy-xiii-2-fragments-before' },
-        { value: 'EN', tip: 'English (official & fan translation)', url: 'https://www.goodreads.com/book/show/41214500-final-fantasy-xiii-2' },
+        { value: 'EN', tip: 'English (Official; Fan Translation)', url: 'https://www.goodreads.com/book/show/41214500-final-fantasy-xiii-2' },
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/210053308-final-fantasy-xiii-2-fragments-before' },
       ],
       profileUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before',
@@ -225,7 +225,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/84828742-final-fantasy-xiii-2' },
         { value: 'DE', url: 'https://www.goodreads.com/book/show/42769002-final-fantasy-xiii-2' },
-        { value: 'EN', tip: 'English (official & fan translation)', url: 'https://www.goodreads.com/book/show/43886659-final-fantasy-xiii-2' },
+        { value: 'EN', tip: 'English (Official; Fan Translation)', url: 'https://www.goodreads.com/book/show/43886659-final-fantasy-xiii-2' },
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/216672280-final-fantasy-xiii-2-fragments-after' },
       ],
       profileUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After',
@@ -347,32 +347,33 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
   },
   {
     mediaType: 'Book', chronoOrder: -2000, recommendedOrder: 800,
-    title: 'Final Fantasy XIII: Episode Zero: Promise', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-', titleDate: '2009-12-24',
+    title: 'Final Fantasy XIII: Episode Zero: Promise', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-', titleDate: { start: '2009-09-28', end: '2009-12-24' },
     mediaDesc: [
-      ['Series of web novellas depicting the thirteen days leading up to the events of ', { emLinkText: 'XIII (2009)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2009' }, '.'],
+      ['Series of web novellas depicting the thirteen days leading up to the events of ', { emLinkText: 'XIII (2009)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2009' }, '.', 'Only three of its seven parts were serialized online, and those posts have since been taken down; the rest appear only in the book.'],
     ],
     primary: {
       tags: ['Optional', 'Prequel', 'Short Stories'],
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/7913673-final-fantasy-xiii' },
-        { value: 'EN', url: 'https://www.goodreads.com/book/show/42080020-final-fantasy-xiii' },
+        { value: 'EN', tip: 'English (Official; Fan Translation)', url: 'https://www.goodreads.com/book/show/42080020-final-fantasy-xiii' },
         { value: 'DE', url: 'https://www.goodreads.com/book/show/10152719-final-fantasy-xiii' },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/36257508-final-fantasy-xiii' },
       ],
       length: '216p; P',
-      profileUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-',
+      profileUrl: 'https://yenpress.com/titles/9781975382407-final-fantasy-xiii-episode-zero-promise',
       ratings: [
         { score: '3.70', url: 'https://www.goodreads.com/book/show/42080020-final-fantasy-xiii', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-' },
+        { key: 'book', name: 'Short Stories', url: 'https://www.goodreads.com/book/show/42080020-final-fantasy-xiii' },
+        { key: 'fan-translation', search: 'duckduckgo' },
         {
           key: 'fan-audiobook',
           paren: 'Youtube',
           url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20audiobook',
         },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'final fantasy XIII episode zero promise', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Story' },
       ],
     },
     alts: [

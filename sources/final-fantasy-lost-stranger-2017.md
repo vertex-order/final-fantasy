@@ -105,6 +105,7 @@ wikipedia.org (Information)
 
 yenpress.com (Information)
 - https://yenpress.com/series/final-fantasy-lost-stranger — profile* (English publisher page), story — accessed not recorded — archived: TODO
+- https://yenpress.com/series/final-fantasy-lost-stranger-serial — Yen Press's digital serial of the manga: latest listed is "Final Fantasy Lost Stranger, Chapter 80", 80 chapters as of 2026-10-10 (checked by user; not opened by me); the entry counts volumes, not chapters — accessed 2026-10-10 — archived: TODO
 
 finalfantasy.fandom.com (Information)
 - https://finalfantasy.fandom.com/wiki/Category:Final_Fantasy_Lost_Stranger_chapters — platforms* (fan chapter-by-chapter recap) — accessed not recorded — archived: TODO

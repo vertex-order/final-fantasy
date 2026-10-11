@@ -385,7 +385,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 1000
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/23978849-final-fantasy-x-2-5-final-fantasy-x-2-5' },
-        { value: 'EN', tip: 'English (Official; Fan translation)', url: 'https://www.goodreads.com/book/show/56382146-final-fantasy-x-2-5-price-of-eternity' },
+        { value: 'EN', tip: 'English (Official; Fan Translation)', url: 'https://www.goodreads.com/book/show/56382146-final-fantasy-x-2-5-price-of-eternity' },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/23978346-final-fantasy-x-2-5-le-prix-de-l-ternit' },
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/54251056-final-fantasy-x-2-5' },
       ],
