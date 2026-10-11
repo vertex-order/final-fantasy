@@ -24,7 +24,7 @@ ISBN 9784757511224 (ISBN10: 4757511221), Japanese, Square Enix, January 16, 2004
 ## Sources
 
 magazine.jp.square-enix.com (Publisher, Japanese)
-- https://magazine.jp.square-enix.com/top/comics/detail/9784757511224/ — title link*, profile*, dates* (発売日 2004年1月16日: confirms titleDate), size* (A5判), price (681 yen incl. tax), ISBN 9784757511224, story (待望の「ファイナルファンタジー４コマ」がついに登場！選ばれしクリスタルキャラバンが、笑気あふれる道をゆく… — "the long-awaited Final Fantasy 4-panel book arrives; the chosen crystal caravan walks a road full of laughter"); no page count, no author, no serialization info — accessed 2026-10-11 (fetched) — archived: TODO
+- https://magazine.jp.square-enix.com/top/comics/detail/9784757511224/ — profile*, title link* (via Google's English translation proxy, https://magazine-jp-square--enix-com.translate.goog/top/comics/detail/9784757511224/?_x_tr_sl=ja&_x_tr_tl=en; confirmed working by the user 2026-10-11, since no English page exists), dates* (発売日 2004年1月16日: confirms titleDate), size* (A5判), price (681 yen incl. tax), ISBN 9784757511224, story (待望の「ファイナルファンタジー４コマ」がついに登場！選ばれしクリスタルキャラバンが、笑気あふれる道をゆく… — "the long-awaited Final Fantasy 4-panel book arrives; the chosen crystal caravan walks a road full of laughter"); no page count, no author, no serialization info — accessed 2026-10-11 (fetched) — archived: TODO
 
 ndlsearch.ndl.go.jp (Information)
 - https://ndlsearch.ndl.go.jp/books/R100000002-I000004343183 — length* (112p, 21 cm; the entry's `112p; A5`, the A5 from the publisher page), publisher (スクウェア・エニックス), ISBN 4-7575-1122-1 (= 9784757511224), price (619 yen), dates (2004.2: conflicts with the publisher's 2004年1月16日, a catalog month; the publisher wins), no author (著者 -) — accessed 2026-10-11 (page text pasted by user) — archived: TODO
@@ -49,7 +49,7 @@ Names in use, all seen 2026-10-11 (links pasted by user):
 
 ## Surveyed
 
-- [Suruga-ya WR3578](https://www.suruga-ya.com/en/product/WR3578) — English machine-translated page: release "06 Feb 2004", which **conflicts** with the publisher's 2004年1月16日 (NDL's month is also February, 2004.2); two sources say February and the publisher says January 16, so `titleDate` may need a second look — mine
+- [Suruga-ya WR3578](https://www.suruga-ya.com/en/product/WR3578) — English machine-translated page: release "06 Feb 2004", which conflicts with the publisher's 2004年1月16日 (NDL's month is also February, 2004.2); the entry follows the publisher's date (the user's call, 2026-10-11), so this is recorded but not used
 - [FF Compendium listing](https://www.ffcompendium.com/store/JAPAN-Final-Fantasy-Crystal-Chronicles-4-Koma-Manga-Theater-Damage-_304860516486.html) — a seller's "about 120 pages" (NDL says 112); a marketplace listing — empty
 - [MangaBaka entry 435674](https://mangabaka.org/manga/435674/Final-Fantasy-Crystal-Chronicles-4-koma-Manga-Gekijou) — an English-interface manga database with the Japanese title; details not read — mine: a possible English `titleUrl`
 - Wikipedia's and the Fandom wiki's Final Fantasy Crystal Chronicles game pages: neither mentions this manga (checked by the user, 2026-10-11) — empty

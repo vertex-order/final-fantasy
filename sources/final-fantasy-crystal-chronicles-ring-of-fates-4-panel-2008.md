@@ -59,6 +59,11 @@ goodreads.com (Ratings)
 - https://www.goodreads.com/search?q=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%204%E3%82%B3%E3%83%9E%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF — languages* (JA), book platform* (Manga link): a search that returns both volumes (77740139 and 77745769), checked by the user 2026-10-11
 - https://www.goodreads.com/book/show/77740139 — ratings* (volume 1, NYR: no ratings) — accessed 2026-10-11
 
+## Alternate names
+
+- "Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~" — our English rendering of the Japanese title (Wikipedia: "Translates to \"Ring of Fates 4-Panel Anthology Comic\"")*
+- "Final Fantasy Crystal Chronicles Ring of Fates 4 Komaansoroji Komikku" — Wikipedia's List of Final Fantasy media (https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga), the row's title — accessed 2026-10-11*
+
 ## Surveyed
 
 - [Mercari listing](https://jp.mercari.com/shops/product/4HugQSwSTJZ9BLwYq2CVGc) -- a used copy of volume 2 (ISBN 9784757741089) at ¥30,274, sold out; the seller's text gives no release date; a marketplace listing, not linked -- empty

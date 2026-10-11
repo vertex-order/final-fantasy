@@ -115,7 +115,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
   },
   {
     mediaType: 'Comic', chronoOrder: 700, recommendedOrder: 170,
-    title: 'Final Fantasy Crystal Chronicles: 4-Panel Manga Theater', titleUrl: 'https://magazine.jp.square-enix.com/top/comics/detail/9784757511224/', titleDate: '2004-01-16',
+    title: 'Final Fantasy Crystal Chronicles: 4-Panel Manga Theater', titleUrl: 'https://magazine-jp-square--enix-com.translate.goog/top/comics/detail/9784757511224/?_x_tr_sl=ja&_x_tr_tl=en', titleDate: '2004-01-16',
     mediaDesc: [
       [{ text: 'A 4-panel gag manga based on ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル4コママンガ劇場' }, { text: '. May also be known as ' }, { emText: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater' }, { text: '.' }],
     ],
@@ -285,7 +285,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
     mediaType: 'Comic', chronoOrder: -250, recommendedOrder: 550,
     title: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: { start: '2008-03-01', end: '2008-03-31' },
     mediaDesc: [
-      [{ text: 'A 4-panel gag manga anthology based on ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 4コマアンソロジーコミック' }, { text: '. May also be known as ' }, { emText: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~' }, { text: '.' }],
+      [{ text: 'A 4-panel gag manga anthology set in the world of ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 4コマアンソロジーコミック' }, { text: '. May also be known as ' }, { emText: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~' }, { text: ' and ' }, { emText: 'Final Fantasy Crystal Chronicles Ring of Fates 4 Komaansoroji Komikku' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Tie-in', 'Manga'],
