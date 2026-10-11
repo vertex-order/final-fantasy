@@ -43,6 +43,10 @@ ndlsearch.ndl.go.jp (Information)
 - https://ndlsearch.ndl.go.jp/books/R100000002-I000007828303 — dates (volume 3: 2005.7), credits (壱河柳乃助 著 = Ryunosuke Ichikawa, matches Wikipedia), publisher (スクウェア・エニックス, ガンガンコミックス), length (188p, 18 cm), price (390 yen), ISBN 4-7575-1455-7 = volume 3 (巻次 3) — accessed 2026-10-11 (page text pasted by user) — archived: TODO
   - Title ファイナルファンタジー・クリスタルクロニクル : はてなき空の向こうに, with "空" in kanji; the entry's form is 果てなき空の向こうに and the wiki's はてなきそらのむこうに
 
+cube.ign.com (Information)
+- https://web.archive.org/web/20110810173037/http://cube.ign.com/articles/446/446676p1.html — dates* (start: "FF Crystal Chronicles Goes Comic", IGN Staff, December 18, 2003: the series Hatenaki Sora no Mukou Ni begins in the January issue of Shounen Gangan, "scheduled for publication on 1/10/2004"), story (GameCube game turned comic) — accessed 2026-10-11 (page text pasted by user); the archived copy is the source Wikipedia cites for January 10, 2004
+  - A pre-publication announcement of the scheduled date, not a sale confirmation; IGN calls it the "January issue", while ja.wikipedia's Monthly Shonen Gangan page says February 2004 (the issue that went on sale in January)
+
 wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga -- dates*, credits*, length (three volumes), ISBN -- accessed 2026-10-09
   - Wikipedia: January 10, 2004; manga adaptation of Final Fantasy Crystal Chronicles by Ryunosuke Ichikawa (three volumes); roughly translates to "Beyond the Endless Sky"; JP ISBN 4-7575-1455-7
@@ -58,7 +62,6 @@ goodreads.com (Ratings)
   - https://honto.jp/netstore/pd-book_02558515.html -- honto volume 3 page
   - https://ja.wikipedia.org/wiki/%E5%A3%B1%E6%B2%B3%E6%9F%B3%E4%B9%83%E5%8A%A9 -- the author's page: serialized in Monthly Shonen Gangan, published in three volumes by Square Enix; no date range (the search summary wrongly implied one) -- accessed 2026-10-11 (machine-translated text pasted by user)
   - https://ja.wikipedia.org/wiki/%E6%9C%88%E5%88%8A%E5%B0%91%E5%B9%B4%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3 -- Monthly Shonen Gangan's page: the manga ran from the February 2004 issue to the June 2005 issue — accessed 2026-10-11 (machine-translated text pasted by user); the magazine run probably explains Wikipedia's January 10, 2004 date (a February issue goes on sale in early January), so that date is the serialization start, not volume 1 (August 2004 per NDL) — mine
-- titleDate `{ start: 2004-01-10, end: 2005-06 }`: start is Wikipedia's January 10, 2004 (the February 2004 issue's run begins; no on-sale date found on a page, so the start is Wikipedia's sourced date); end is a fallback to the issue month (the June 2005 issue, per the Monthly Shonen Gangan page), because no sourced on-sale date was found, ahead of the volume 3 date (July 2005 per NDL), per docs/data.md; not derived from the magazine's usual sale day -- mine: an issue on-sale date source such as NDL or the publisher's back-number list
-- Goodreads author search "Ryuunosuke Itikawa" -- too many unrelated works; author plus series returns only one result -- empty
+- titleDate `{ start: 2004-01-10, end: 2005-06 }`: start is sourced (IGN, below: first issue "scheduled for publication on 1/10/2004", the date Wikipedia cites); end is a fallback to the issue month (the June 2005 issue, per the Monthly Shonen Gangan page), because no sourced on-sale date was found, ahead of the volume 3 date (July 2005 per NDL), per docs/data.md; not derived from the magazine's usual sale day -- mine: an issue on-sale date source for the last issue, such as NDL or the publisher's back-number list
 
 ## Decisions

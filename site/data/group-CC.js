@@ -115,25 +115,28 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
   },
   {
     mediaType: 'Comic', chronoOrder: 700, recommendedOrder: 170,
-    title: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Manga', titleDate: '2004-01-16',
+    title: 'Final Fantasy Crystal Chronicles: 4-Panel Manga Theater', titleUrl: 'https://magazine.jp.square-enix.com/top/comics/detail/9784757511224/', titleDate: '2004-01-16',
     mediaDesc: [
-      [{ text: 'A 4-panel gag manga based on ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ファイナルファンタジー・クリスタルクロニクル4コママンガ劇場.' }],
+      [{ text: 'A 4-panel gag manga based on ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル4コママンガ劇場' }, { text: '. May also be known as ' }, { emText: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Manga'],
+      tags: ['Optional', 'Tie-in', 'Manga'],
       subtitle: 'Comic',
+      length: '112p; A5',
       helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77600584' },
+        { value: '…?' },
       ],
+      profileUrl: 'https://magazine.jp.square-enix.com/top/comics/detail/9784757511224/',
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77600584', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles 4-Koma Manga Theater' },
+        { key: 'book', name: 'Manga', jpTag: true, url: 'https://www.goodreads.com/book/show/77600584' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles 4-Koma Manga Theater', noResults: true },
-        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', searchSuffix: 'manga dub', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles 4-Koma Manga Theater', searchSuffix: 'manga dub', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles 4-Koma Manga Theater', noResults: true },
       ],
     },
   },
@@ -250,13 +253,42 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
     },
   },
   {
+    mediaType: 'Book', chronoOrder: -260, recommendedOrder: 540,
+    title: 'Final Fantasy Crystal Chronicles: Ring of Fates ~Our World~', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates#Release', titleDate: { start: '2008-05-30', end: '2008-07-30' },
+    by: [{ role: 'adapted', names: 'Osamu Kudo' }],
+    mediaDesc: [
+      [{ text: 'A novelization of the single-player campaign of ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: ', following the twins whose story Princess Teteo watches over.' }],
+      [{ text: 'Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 僕らの世界' }, { text: ' (Bokura no Sekai, literally "Our World").' }],
+    ],
+    primary: {
+      tags: ['Optional', 'Novel'],
+      subtitle: 'Book',
+      length: '2 volumes',
+      languages: [
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/search?q=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%20%E5%83%95%E3%82%89%E3%81%AE%E4%B8%96%E7%95%8C' },
+        { value: '…?' },
+      ],
+      helpWanted: true,
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%20%E5%83%95%E3%82%89%E3%81%AE%E4%B8%96%E7%95%8C',
+      ratings: [
+        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77752739', key: 'goodreads' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Novel', jpTag: true, url: 'https://www.goodreads.com/search?q=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%20%E5%83%95%E3%82%89%E3%81%AE%E4%B8%96%E7%95%8C' },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates', searchQualifier: 'novel', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap video of Ring of Fates (2007)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates', noResults: true },
+        { key: 'fan-audiobook', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates', searchQualifier: 'novel', noResults: true },
+      ],
+    },
+  },
+  {
     mediaType: 'Comic', chronoOrder: -250, recommendedOrder: 550,
-    title: 'Final Fantasy Crystal Chronicles: Ring of Fates ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: { start: '2008-03-01', end: '2008-03-31' },
+    title: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: { start: '2008-03-01', end: '2008-03-31' },
     mediaDesc: [
       [{ text: 'A 4-panel gag manga anthology based on ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 4コマアンソロジーコミック' }, { text: '. May also be known as ' }, { emText: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Manga'],
+      tags: ['Optional', 'Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '2 volumes',
       languages: [
@@ -270,34 +302,15 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
       ],
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true, url: 'https://www.goodreads.com/search?q=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%204%E3%82%B3%E3%83%9E%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF' },
-        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates Manga', noResults: true },
-        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles: Ring of Fates', searchSuffix: 'manga dub', noResults: true },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates 4-Koma Anthology', noResults: true },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates 4-Koma Anthology', searchSuffix: 'manga dub', noResults: true },
         {
           key: 'fan-recap',
           paren: 'Youtube',
           search: 'youtube',
-          searchTitle: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~',
+          searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates 4-Koma Anthology',
           noResults: true,
         },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: -240, recommendedOrder: 560,
-    title: 'Final Fantasy Crystal Chronicles: Ring of Fates ~Novel~', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates#Release', titleDate: { start: '2008-05-30', end: '2008-07-30' },
-    by: [{ role: 'adapted', names: 'Osamu Kudo' }],
-    mediaDesc: [
-      [{ text: 'A novelization of the single-player campaign of ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: '.' }],
-    ],
-    primary: {
-      tags: ['Optional', 'Novel'],
-      subtitle: 'Book',
-      length: '2 volumes',
-      languages: [
-        { value: 'JA', native: true },
-      ],
-      platforms: [
-        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates', searchQualifier: 'novel' },
       ],
     },
   },

@@ -1,6 +1,6 @@
-<!-- sources/final-fantasy-crystal-chronicles-ring-of-fates-manga-2008.md (markdown) -->
+<!-- sources/final-fantasy-crystal-chronicles-ring-of-fates-4-panel-2008.md (markdown) -->
 
-# Final Fantasy Crystal Chronicles: Ring of Fates ~Manga~
+# Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel~
 
 ## Editions (ISBN)
 
