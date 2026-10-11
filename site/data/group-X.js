@@ -121,7 +121,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 1000
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Video'],
-      subtitle: 'Remaster (2016) video', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster',
+      subtitle: 'Remaster (2016) Video', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster',
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN-US', voice: true },
@@ -408,7 +408,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 1000
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Audio drama'],
-      subtitle: 'audio drama',
+      subtitle: 'Audio Drama',
       length: '30min',
       languages: [
         { value: 'JA', native: true, voice: true },

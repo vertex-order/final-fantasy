@@ -195,7 +195,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
     alts: [
       {
         title: 'Final Fantasy Tactics Advance Radio Edition', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance_Radio_Edition', titleDate: 2003,
-        subtitle: 'radio drama',
+        subtitle: 'Radio Drama',
         languages: [
           { value: 'JA', native: true },
           { value: 'EN', tip: 'English (fan translation)' },

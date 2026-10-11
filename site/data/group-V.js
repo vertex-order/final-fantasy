@@ -144,7 +144,7 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500, 
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'OVA'],
-      subtitle: 'video',
+      subtitle: 'Video',
       length: '120min',
       languages: [
         { value: 'JA', native: true },

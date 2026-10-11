@@ -130,7 +130,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     ],
     primary: {
       tags: ['Optional', 'Prequel', 'OVA'],
-      subtitle: 'video',
+      subtitle: 'Video',
       length: '25min',
       languages: [
         { value: 'JA', native: true },
@@ -650,7 +650,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     alts: [
       {
         title: 'On the Way to a Smile - Episode: Denzel', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile', titleDate: 2009,
-        subtitle: 'video',
+        subtitle: 'Video',
         languages: [
           { value: 'JA', native: true },
         ],

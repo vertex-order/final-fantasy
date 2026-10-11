@@ -10,7 +10,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     ],
     primary: {
       tags: ['Prequel', 'Anime'],
-      subtitle: 'anime',
+      subtitle: 'Anime',
       length: '5 episodes',
       languages: [
         { value: 'JA', tip: 'Japanese — audio', native: true, voice: true },
@@ -153,7 +153,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     ],
     primary: {
       tags: ['Optional', 'Prequel', 'Audio drama'],
-      subtitle: 'Radio drama',
+      subtitle: 'Radio Drama',
       languages: [
         { value: 'JA', native: true },
         { value: 'EN', tip: 'English (fan translation)' },
@@ -195,7 +195,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     ],
     primary: {
       tags: ['Tie-in', 'Movie'],
-      subtitle: 'movie',
+      subtitle: 'Movie',
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -305,7 +305,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     ],
     primary: {
       tags: ['Optional', 'Prologue', 'Video'],
-      subtitle: 'video',
+      subtitle: 'Video',
       languages: [
         { value: 'JA', tip: 'Japanese — audio', native: true, voice: true },
         { value: 'EN', tip: 'English — subtitles' },

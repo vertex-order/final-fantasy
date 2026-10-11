@@ -8,7 +8,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     ],
     primary: {
       tags: ['Anime', '2D', '3D'],
-      subtitle: 'anime',
+      subtitle: 'Anime',
       length: '25 episodes',
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -72,7 +72,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     ],
     primary: {
       tags: ['Optional', 'Audio drama', 'Serial'],
-      subtitle: 'audio drama',
+      subtitle: 'Audio Drama',
       length: '10 episodes',
       helpWanted: true,
       languages: [
@@ -169,7 +169,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     ],
     primary: {
       tags: ['Sequel', 'Audio drama'],
-      subtitle: 'audio drama',
+      subtitle: 'Audio Drama',
       length: '39:48',
       languages: [
         { value: 'JA', native: true },
@@ -190,7 +190,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     ],
     primary: {
       tags: ['Optional', 'Prequel', 'Side-story', 'Flashback', 'Drama'],
-      subtitle: 'audio drama',
+      subtitle: 'Audio Drama',
       length: '~18min',
       languages: [
         { value: 'JA', native: true },

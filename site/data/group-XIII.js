@@ -382,7 +382,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
       {
         tags: ['Optional', 'Radio drama'],
         title: 'Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Alpha', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD', titleDate: 2010,
-        subtitle: 'radio drama',
+        subtitle: 'Radio Drama',
         length: '7 chapters',
         languages: [
           { value: 'JA', native: true },
