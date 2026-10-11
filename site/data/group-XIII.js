@@ -112,13 +112,14 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
   {
     mediaType: 'Book', chronoOrder: 1000, recommendedOrder: 300,
     title: 'Final Fantasy XIII-2 Fragments Before', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before', titleDate: '2011-12-15 10',
+    by: 'Jun Eishima',
     mediaDesc: [
       [{ text: 'The first chapter is the novella ' }, { emLinkText: 'Final Fantasy XIII -Episode i-', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_-Episode_i-' }, { text: ' which acts as an epilogue to ' }, { emLinkText: 'XIII (2009)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2009' }, { text: '. The rest of the book is meant to cover the events before ' }, { emLinkText: 'XIII-2 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2-2011' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Short Stories'],
       subtitle: 'Book',
-      length: '176p; P',
+      length: '184p; P',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/13417855-final-fantasy-xiii-2' },
         { value: 'DE', url: 'https://www.goodreads.com/book/show/42769266-final-fantasy-xiii' },
@@ -126,12 +127,12 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
         { value: 'EN', tip: 'English (Official; Fan Translation)', url: 'https://www.goodreads.com/book/show/41214500-final-fantasy-xiii-2' },
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/210053308-final-fantasy-xiii-2-fragments-before' },
       ],
-      profileUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before',
+      profileUrl: 'https://yenpress.com/titles/9781975382377-final-fantasy-xiii-2-fragments-before',
       ratings: [
         { score: '3.81', url: 'https://www.goodreads.com/book/show/13417855-final-fantasy-xiii-2', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before' },
+        { key: 'book', name: 'Short Stories', url: 'https://www.goodreads.com/book/show/13417855-final-fantasy-xiii-2' },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before#External_links' },
         { key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://web.archive.org/web/20230326130315/http://chrysaliswiki.com/fragments-before' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },

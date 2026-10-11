@@ -40,3 +40,5 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
 - https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz
 
 ## Decisions
+
+- Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

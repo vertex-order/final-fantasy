@@ -2,12 +2,21 @@
 
 # Final Fantasy XIII-2 Fragments Before
 
+## Author
+
+Jun Eishima (映島巡) — By (entry `by`; bare name, original story set around XIII-2, so not "adapted"); original concept Motomu Toriyama and Daisuke Watanabe (the game's scenario staff) deliberately left out
+- Square Enix Game Books (https://web.archive.org/web/20180820235814/http://www.square-enix.co.jp/magazine/gamebooks/ff/13_2_fragments_before/index.html): "著者：映島　巡 / 原案：鳥山　求、渡辺　大祐" — accessed 2026-10-11
+- Yen Press (https://yenpress.com/titles/9781975382377-final-fantasy-xiii-2-fragments-before): "Jun Eishima", no one else named — accessed 2026-10-11
+
 ## Editions (ISBN)
 
 Per-book record, one book per label. Publisher pages from the wiki's External links; the wiki cites each with the date its editors accessed it.
 
 ISBN 9784757534667 (from the e-store URL), Japanese "小説 ファイナルファンタジーXIII" series (#1), Square Enix, 220 pages, Hardcover — per goodreads — JA language link*, ratings*
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757534667
 - goodreads: https://www.goodreads.com/book/show/13417855-final-fantasy-xiii-2 — accessed 2026-10-09
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9784757534667
+- open library: https://openlibrary.org/search?isbn=9784757534667
 - store: http://store.jp.square-enix.com/detail/9784757534667 — the official Square Enix e-store; ours not recorded
 - publisher: http://www.square-enix.co.jp/magazine/gamebooks/ff/13_2_fragments_before/index.html — Square Enix Gamebooks Online; wiki editors accessed it August 20, 2018; ours not recorded
 
@@ -30,8 +39,15 @@ Spanish (Castilian) — ES language link*
 
 ## Sources
 
+yenpress.com (Publisher, English)
+- https://yenpress.com/titles/9781975382377-final-fantasy-xiii-2-fragments-before — profile*, credits (Jun Eishima, sole author named), length* (184 pages; paperback, ISBN 9781975382377), paperback, T (Teen) — accessed 2026-10-11 — archived: TODO
+  - The English publisher's page over the Japanese Square Enix page, since the book has an official English edition
+
+magazine.jp.square-enix.com (Publisher, Japanese; page since removed, Wayback only)
+- https://web.archive.org/web/20180820235814/http://www.square-enix.co.jp/magazine/gamebooks/ff/13_2_fragments_before/index.html — dates (2011年12月15日発売, matches titleDate 2011-12-15), length (口絵4C8P+本文1C224P; Goodreads says 220), ISBN 978-4-7575-3466-7 (matches), price (1,400 yen + tax), size (四六判), credits (著者 映島巡; 原案 鳥山求、渡辺大祐), story (five episodes: Sera, New Bodhum, Snow, Rygdea & Bartholomew, Noel) — accessed 2026-10-11 — archived: the Wayback URL itself (live page gone)
+
 breezewiki.com (Information)
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before — title link*, profile*, book platform* — accessed not recorded
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before — title link*, book platform (Short Stories) — accessed not recorded
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before#External_links — platforms* (fan translation), languages (EN fan translation) — accessed 2026-10-10
   - Links two English fan translations; the translation row is this wiki page, so the translations themselves aren't logged here
   - Also the source of the publisher links in Editions (JA, EN, DE, FR)
@@ -53,11 +69,11 @@ chrysaliswiki.com (Information)
   - Short recap of the book; the live site is down, so the entry links the capture
 
 goodreads.com (Ratings)
-- https://www.goodreads.com/book/show/13417855-final-fantasy-xiii-2 — ratings*, languages* (JA), format* (220 pages, Hardcover; part of the series 小説 ファイナルファンタジーXIII (#1)) — accessed 2026-10-09
+- https://www.goodreads.com/book/show/13417855-final-fantasy-xiii-2 — ratings*, languages* (JA), book platform* (Short Stories link), format* (220 pages, Hardcover; part of the series 小説 ファイナルファンタジーXIII (#1)) — accessed 2026-10-09
   - Goodreads tags the genre "Manga", wrong for a series titled 小説 (novel), so the platform stays Short Stories (five episodes)
 - https://www.goodreads.com/book/show/42769266-final-fantasy-xiii — languages* (DE) — accessed not recorded
 - https://www.goodreads.com/book/show/33144607-final-fantasy-xiii-2-fragments-before — languages* (FR) — accessed not recorded
-- https://www.goodreads.com/book/show/41214500-final-fantasy-xiii-2 — languages* (EN) — accessed not recorded
+- https://www.goodreads.com/book/show/41214500-final-fantasy-xiii-2 — languages* (EN), length (176 pages, Paperback, Yen On, July 30, 2019, ISBN 9781975382377; Yen Press's page for the same ISBN says 184, which wins) — accessed 2026-10-11
 - https://www.goodreads.com/book/show/210053308-final-fantasy-xiii-2-fragments-before — languages* (ES) — accessed not recorded
 
 wikipedia.org (Information)
@@ -67,3 +83,5 @@ wikipedia.org (Information)
 
 
 ## Decisions
+
+- Release-date order: `titleDate` is `2011-12-15 10` and the XIII-2 game is `2011-12-15 20`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.
