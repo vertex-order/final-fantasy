@@ -108,26 +108,28 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
   },
   {
     mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 150,
-    title: 'Final Fantasy XII ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2006-12-22',
+    title: 'Final Fantasy XII ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_(manga)', titleDate: { start: '2006-12-22', end: '2009-08-22' },
+    by: [{ role: 'adapted', names: 'Gin Amou' }],
     mediaDesc: [
-      "A manga adaptation of XII (2006). The Archadian Empire's invasion of neighboring lands and the death of the Dalmascan king prompt Princess Ashe, sole surviving heir to the Dalmascan throne, to take up arms against the invaders.",
+      [{ text: 'A manga adaptation of ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: ". The Archadian Empire's invasion of neighboring lands and the death of the Dalmascan king prompt Princess Ashe, sole surviving heir to the Dalmascan throne, to take up arms against the invaders." }],
     ],
     primary: {
       tags: ['Optional', 'Manga'],
       subtitle: 'Comic',
       languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/6926117-xii-1-final-fantasy-xii-1' },
-        { value: 'EN', tip: 'English (fan translation)' },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/series/108230-xii-final-fantasy-xii' },
+        { value: 'EN', tip: 'English (fan translation)', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XII%20~Manga~%20translation' },
       ],
+      profileUrl: 'https://magazine.jp.square-enix.com/top/comics/detail/9784757518308/',
       ratings: [
         { score: '3.71', url: 'https://www.goodreads.com/book/show/6926117-xii-1-final-fantasy-xii-1', key: 'goodreads' },
       ],
       length: [{ value: '5 volumes,', br: true }, { value: '19 chapters' }],
       platforms: [
-        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XII', searchQualifier: 'manga' },
-        { key: 'fan-translation', url: 'https://somethingorotherscans.com/ffxii.php' },
-        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XII', searchSuffix: 'manga dub', noResults: true },
-        { key: 'fan-recap', name: 'Fan story recap video of XII (2006)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XII' },
+        { key: 'book', name: 'Manga', jpTag: true, url: 'https://www.goodreads.com/series/108230-xii-final-fantasy-xii' },
+        { key: 'fan-translation', search: 'duckduckgo' },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XII', searchSuffix: 'manga dub' },
+        { key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_(manga)#Story' },
       ],
     },
   },
