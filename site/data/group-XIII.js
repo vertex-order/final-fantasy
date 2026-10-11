@@ -215,6 +215,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
   {
     mediaType: 'Book', chronoOrder: 3000, recommendedOrder: 500,
     title: 'Final Fantasy XIII-2 Fragments After', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After', titleDate: '2012-06-21',
+    by: 'Jun Eishima',
     mediaDesc: [
       [{ text: 'Several stories mainly meant to cover loose ends within the plot of ' }, { emLinkText: 'XIII-2 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2-2011' }, { text: ', and highlight the mysteries yet to be resolved.' }],
     ],
@@ -228,14 +229,14 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
         { value: 'EN', tip: 'English (Official; Fan Translation)', url: 'https://www.goodreads.com/book/show/43886659-final-fantasy-xiii-2' },
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/216672280-final-fantasy-xiii-2-fragments-after' },
       ],
-      profileUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After',
+      profileUrl: 'https://yenpress.com/titles/9781975382384-final-fantasy-xiii-2-fragments-after',
       ratings: [
         { score: '3.57', url: 'https://www.goodreads.com/book/show/43886659-final-fantasy-xiii-2', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After' },
+        { key: 'book', name: 'Short Stories', url: 'https://www.goodreads.com/book/show/43886659-final-fantasy-xiii-2' },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After#External_links' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap (wiki; incomplete)', url: 'https://web.archive.org/web/20230519083031/http://chrysaliswiki.com/fragments-after' },
         { key: 'fan-audiobook', search: 'youtube', searchQualifier: 'story' },
       ],
     },

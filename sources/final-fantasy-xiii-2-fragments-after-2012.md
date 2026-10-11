@@ -2,12 +2,22 @@
 
 # Final Fantasy XIII-2 Fragments After
 
+## Author
+
+Jun Eishima (映島巡) — By (entry `by`; bare name, original story set during XIII-2, so not "adapted"); original concept Motomu Toriyama and Daisuke Watanabe (the game's scenario staff) deliberately left out
+- Square Enix Game Books (https://web.archive.org/web/20190515154747/https://magazine.jp.square-enix.com/gamebooks/ff/13_2_fragments_after/index.html): "著者：映島　巡 / 原案：鳥山　求、渡辺　大祐" — accessed 2026-10-11
+- https://chrysaliswiki.com/fragments-after: "written by Jun Eishima"; June 21, 2012; ISBN 978-4-7575-3650-0 — accessed 2026-10-11 — archived: http://web.archive.org/web/20230519083031/http://chrysaliswiki.com/fragments-after (live site not reachable on fetch)
+- https://yenpress.com/titles/9781975382384-final-fantasy-xiii-2-fragments-after: "Jun Eishima", no one else named — accessed 2026-10-11
+
 ## Editions (ISBN)
 
 Per-book record, one book per label.
 
 ISBN 9784757536500, Japanese, Square Enix (小説 ファイナルファンタジーXIII #2), June 21, 2012, 242 pages, Hardcover — per goodreads — JA language link*, dates*
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757536500
 - goodreads: https://www.goodreads.com/book/show/84828742-final-fantasy-xiii-2 — accessed 2026-10-09
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9784757536500
+- open library: https://openlibrary.org/search?isbn=9784757536500
 
 German — DE language link*
 - goodreads: https://www.goodreads.com/book/show/42769002-final-fantasy-xiii-2
@@ -20,8 +30,15 @@ Spanish (Castilian) — ES language link*
 
 ## Sources
 
+yenpress.com (Publisher, English)
+- https://yenpress.com/titles/9781975382384-final-fantasy-xiii-2-fragments-after — profile*, credits (Jun Eishima, sole author named), length (146 pages), paperback, $14.00 US / $18.50 CAN, T (Teen), story — accessed 2026-10-11 — archived: TODO
+  - The English publisher's page over the dead Square Enix JA page, since the book has an official English edition
+
+magazine.jp.square-enix.com (Publisher, Japanese; page since removed, Wayback only)
+- https://web.archive.org/web/20190515154747/https://magazine.jp.square-enix.com/gamebooks/ff/13_2_fragments_after/index.html — dates* (2012年6月21日発売: confirms titleDate 2012-06-21), length (4C2P+1C240P = 242 pages, matches Goodreads), ISBN 978-4-7575-3650-0, price (1,400 yen + tax), size (四六判), credits (著者 映島巡; 原案 鳥山求、渡辺大祐), story (five episodes: Lightning, Snow, Alyssa, Noel, Yuel) — accessed 2026-10-11 — archived: the Wayback URL itself (live page gone)
+
 breezewiki.com (Information)
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After — title link*, profile*, book platform* — accessed not recorded
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After — title link*, book platform (Short Stories) — accessed not recorded
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After#External_links — platforms* (fan translation), languages (EN fan translation) — accessed not recorded
   - The translation row is this wiki page (stable), so the translations themselves aren't logged here
 
@@ -41,7 +58,7 @@ goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/84828742-final-fantasy-xiii-2 — languages* (JA), format* (242 pages, Hardcover; series 小説 ファイナルファンタジーXIII #2) — accessed 2026-10-09
   - Goodreads tags the genre "Manga", wrong for a novel series; the platform stays Short Stories (five episodes)
 - https://www.goodreads.com/book/show/42769002-final-fantasy-xiii-2 — languages* (DE) — accessed not recorded
-- https://www.goodreads.com/book/show/43886659-final-fantasy-xiii-2 — ratings*, languages* (EN) — accessed not recorded
+- https://www.goodreads.com/book/show/43886659-final-fantasy-xiii-2 — ratings*, languages* (EN), book platform* (Short Stories link) — accessed not recorded
 - https://www.goodreads.com/book/show/216672280-final-fantasy-xiii-2-fragments-after — languages* (ES) — accessed not recorded
 
 wikipedia.org (Information)
@@ -51,3 +68,9 @@ youtube.com (Information)
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20After%20story%20audiobook — platforms* (fan audiobook search) — accessed not recorded
 
 ## Decisions
+
+## Surveyed
+
+Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
+
+- [Chrysalis Wiki](https://chrysaliswiki.com/fragments-after) — credits* (Eishima), platforms* (fan story recap, linked via the Wayback snapshot), date, ISBN — accessed 2026-10-11 — used, shallow: only the intro line read; archived: https://web.archive.org/web/20230519083031/http://chrysaliswiki.com/fragments-after
