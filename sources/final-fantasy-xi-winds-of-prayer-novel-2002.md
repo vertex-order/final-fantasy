@@ -46,6 +46,7 @@ ISBN 9782265085596 (ISBN10: 2265085596), French "Le chant de la tempête" (Tome 
 - NDL: "Original title: Final fantasy XI : wind of pray."
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9782265085596
 - goodreads: https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1 — accessed 2026-10-09
+  - French cover marks "1" in the top right corner (cover seen 2026-10-12); Tome 1 is Book 1 in the series
 - bnf: https://catalogue.bnf.fr/ark:/12148/cb410718831 — accessed 2026-10-09
   - Translated from the Japanese by Cécile Sénaux
   - Series "Final fantasy XI on line ; 1"; Paris, Fleuve noir, printed 2007; 222 p., black-and-white and colour illustrations; 18 cm; 6.70 EUR; FRBNF41071883
@@ -111,6 +112,14 @@ ja.wikipedia.org (Information)
   - ISBN-10 4-7577-1244-8; no release date in the pasted text
   - The manga is based on this novel
   - Firefox machine translation pasted by user
+
+plaza.harmonix.ne.jp (Information)
+- http://plaza.harmonix.ne.jp/~miyabi/list1001.html — series number*, sale dates — accessed 2026-10-12
+  - The author's own book list; text pasted by user, not opened or archived
+  - Book 1 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
+  - Sale dates on the page, not the entry's day-level dates: 〜祈りの風〜 2002-12-20
+  - Cross-check: LibraryThing (https://www.librarything.com/nseries/148143/Final-Fantasy-XI-Novels): Vol.1 "The Winds of Prayer", Al & Iris 1
+  - Cross-check: Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): Book 1, "Das Lied des Sturms, Bd 1"
 
 ## Surveyed
 

@@ -40,6 +40,12 @@ ja.wikipedia.org (Information)
   - Firefox machine translation pasted by user
   - A year missing from the translation is inferred from the entry's month
 
+plaza.harmonix.ne.jp (Information)
+- http://plaza.harmonix.ne.jp/~miyabi/list1001.html — series number*, sale dates — accessed 2026-10-12
+  - The author's own book list; text pasted by user, not opened or archived
+  - Book 22 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
+  - Sale dates on the page, not the entry's day-level dates: 〜幸運の条件〜 2007-07-30
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

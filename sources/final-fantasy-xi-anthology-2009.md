@@ -34,6 +34,14 @@ ndlsearch.ndl.go.jp (Information)
 duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Anthology~%20translation — fan-translation search
 
+plaza.harmonix.ne.jp (Information)
+- http://plaza.harmonix.ne.jp/~miyabi/list1001.html — series number*, sale dates — accessed 2026-10-12
+  - The author's own book list; text pasted by user, not opened or archived
+  - Book 29 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
+  - Sale dates on the page, not the entry's day-level dates: アンソロジー短編集　みんなで大冒険!! 2009-01-30
+  - Cross-check: ja.wikipedia (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB)): volume 29 shared by Kaneda, Minagawa and Uzu; this book's illustrators are the same three
+  - Cross-check: The page lists it among the FF11 series books, between Message from Beyond 3 and Heartbeat of Xarcabard 1
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
@@ -43,3 +51,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
+
+- In the Final Fantasy XI Novels section, as Book 29
+  - Numbered by position in the author's list, not printed; ja.wikipedia's volume 29 (Kaneda, Minagawa, Uzu) matches this book's three illustrators
+  - Three authors (Hasegawa, Takadono Madoka, Taguchi Sennendō) per the author's page; still a numbered volume of the series
+  - See `xi-novels-group.md`

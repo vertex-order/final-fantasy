@@ -1,7 +1,13 @@
 // schema: group.schema.json
-window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100, title: 'Final Fantasy XI', note: 'The first MMO in the franchise, told as a string of largely self-contained story arcs. Story complete. Also sports a long-running book spin-off series.', media: [
+window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100, title: 'Final Fantasy XI', note: 'The first MMO in the franchise, told as a string of largely self-contained story arcs. Story complete. Also sports a long-running book spin-off series.',
+  sections: [
+    { id: 'Main', title: 'The Online Game and Extras', orders: ['narrative'], narrativeOrder: 10 },
+    { id: 'Novels', title: 'Final Fantasy XI Novels', orders: ['narrative'], narrativeOrder: 20,
+      note: "The novelization of the game, mostly by Miyabi Hasegawa, following several sets of adventurers through its missions and quests." },
+  ],
+  media: [
   {
-    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100, narrativeSection: 'Main',
     title: 'Final Fantasy XI: Online', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI', titleDate: '2002-05-16',
     mediaDesc: [
       [{ text: "Explore the world of Vana'diel using player-created avatars and embark on a grand story spanning 5 expansions and eight add-on scenarios, each expanding the major storyline, which is currently considered complete." }],
@@ -41,7 +47,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 1000, narrativeOrder: 200,
+    mediaType: 'Game', chronoOrder: 1000, narrativeOrder: 200, narrativeSection: 'Main',
     title: 'Final Fantasy XI: Rise of the Zilart', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2003-04-17',
     mediaDesc: [
       [{ text: "Thwart Zilart princes Eald'Narche and Kam'lanaut's plans to become Gods in this expansion for " }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
@@ -63,7 +69,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 2000, narrativeOrder: 300,
+    mediaType: 'Game', chronoOrder: 2000, narrativeOrder: 300, narrativeSection: 'Main',
     title: 'Final Fantasy XI: Chains of Promathia', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2004-09-16',
     mediaDesc: [
       [{ text: 'Various factions vie to either stop or complete the resurrection of Twilight God Promathia in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
@@ -89,7 +95,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 3000, narrativeOrder: 400,
+    mediaType: 'Game', chronoOrder: 3000, narrativeOrder: 400, narrativeSection: 'Main',
     title: 'Final Fantasy XI: Treasures of Aht Urhgan', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2006-04-18',
     mediaDesc: [
       [{ text: 'The Empire of Aht Urhgan in the midlands becomes involved after years of self-imposed isolation, with the player being sent there as a representative in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
@@ -115,7 +121,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 4000, narrativeOrder: 500,
+    mediaType: 'Game', chronoOrder: 4000, narrativeOrder: 500, narrativeSection: 'Main',
     title: 'Final Fantasy XI: Wings of the Goddess', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2007-11-20',
     mediaDesc: [
       [{ text: 'Using newly discovered time portals, players travel 20 years in the past from the base game main story to experience the Crystal War first-hand and encounters a surprise character in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
@@ -141,7 +147,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 5000, narrativeOrder: 600,
+    mediaType: 'Game', chronoOrder: 5000, narrativeOrder: 600, narrativeSection: 'Main',
     title: 'Final Fantasy XI: Seekers of Adoulin', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2013-03-27',
     mediaDesc: [
       [{ text: 'People are migrating to the underpopulated western continent archipelago of Adoulin and the Sacred City of Adoulin in this last expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
@@ -163,18 +169,14 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 100, narrativeOrder: 604,
+    mediaType: 'Book', chronoOrder: 100, narrativeOrder: 604, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~Winds of Prayer~ (Novel)', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2002-12-18',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       [
-        { text: 'Al, an inexperienced warrior, is led into the shadows of evil lurking in the land after a fateful encounter with a Galka knight and a young white mage. Released as 〜祈りの風〜, and in French and German as ' },
+        { text: 'Al, an inexperienced warrior, is led into the shadows of evil lurking in the land after a fateful encounter with a Galka knight and a young white mage. Book 1 in the series, released as 〜祈りの風〜. Also known as ' },
         { emText: 'The Song of the Storm' },
-        { text: ' (' },
-        { emText: 'Le Chant de la tempête' },
-        { text: ' and ' },
-        { emText: 'Das Lied des Sturms' },
-        { text: ').' },
+        { text: '.' },
       ],
     ],
     primary: {
@@ -201,7 +203,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: -10, narrativeOrder: 602,
+    mediaType: 'Comic', chronoOrder: -10, narrativeOrder: 602, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~The Out of Orders~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~', titleDate: '2004-12-17',
     by: [{ role: 'written', names: 'Kim Sung-Jae' }, { role: 'illustrated', names: 'Kim Byung-Jin' }],
     mediaDesc: [
@@ -225,11 +227,11 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1100, narrativeOrder: 605,
+    mediaType: 'Book', chronoOrder: 1100, narrativeOrder: 606, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~The Star Oath~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-04-19',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      "Rookie warrior Alfred (Al) and his companions, after defeating the tank at the Orc Fortress of Gelsba, head to Windurst with its blueprints. Sensing an evil dark shadow lurking in Vana'diel, Al and his group continue their journey. Released as 〜星の誓い〜. May also be known as ~Oath of the Stars~. Book #2 in the French/German translated release order.",
+      "Rookie warrior Alfred (Al) and his companions, after defeating the tank at the Orc Fortress of Gelsba, head to Windurst with its blueprints. Sensing an evil dark shadow lurking in Vana'diel, Al and his group continue their journey. Book 2 in the series, released as 〜星の誓い〜. May also be known as ~Oath of the Stars~.",
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -253,11 +255,11 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 110, narrativeOrder: 606,
+    mediaType: 'Comic', chronoOrder: 110, narrativeOrder: 605, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~Winds of Prayer~ (Manga)', titleUrl: "https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Vana'diel", titleDate: { start: '2008-09', end: '2010-03' },
     by: [{ role: 'adapted', names: 'You Satsuki' }],
     mediaDesc: [
-      [{ text: 'Manga adaptation of ' }, { emLinkText: '~Winds of Prayer~ (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-winds-of-prayer-novel-2002' }, { text: '. Shares its Japanese title, 〜祈りの風〜, with the novel. Sometimes referred to as ' }, { emText: 'Prayer of the Wind' }, { text: ', ' }, { emText: 'Wind of Prayer' }, { text: ' and ' }, { emText: 'Wind of Pray' }, { text: ' (the English title printed on the covers).' }],
+      [{ text: 'Manga adaptation of ' }, { emLinkText: '~Winds of Prayer~ (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-winds-of-prayer-novel-2002' }, { text: '. Released as 〜祈りの風〜. Also known as ' }, { emText: 'Prayer of the Wind' }, { text: ', ' }, { emText: 'Wind of Prayer' }, { text: ' and ' }, { emText: 'Wind of Pray' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Manga'],
@@ -280,11 +282,11 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1200, narrativeOrder: 607,
+    mediaType: 'Book', chronoOrder: 1200, narrativeOrder: 607, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~The Eternal Bond~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-06-20',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      'With the party scattered on their own errands—Al and Iris waiting in Bastok, Peta in Windurst, Jed and Shera off to break a curse in Jeuno—Al and the others are suddenly called back to Jeuno for a new mission. Released as 〜永遠の絆〜. May also be known as ~The Eternal Link~ or ~The Covenant of Eternity~. Book #3 in the French/German translated release order.',
+      'With the party scattered on their own errands—Al and Iris waiting in Bastok, Peta in Windurst, Jed and Shera off to break a curse in Jeuno—Al and the others are suddenly called back to Jeuno for a new mission. Book 3 in the series, released as 〜永遠の絆〜. May also be known as ~The Eternal Link~ or ~The Covenant of Eternity~.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -308,12 +310,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1300, narrativeOrder: 608,
+    mediaType: 'Book', chronoOrder: 1300, narrativeOrder: 608, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~The Sword of Protection~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2003-09-20', end: '2003-12-20' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       'A trilogy following the young Hume adventurer Douglas and his companions. Vol.1: an adventure unfolds in Gilgamesh where one mystery leads to another. Vol.2: Dak sets out on a journey with three companions after his childhood friend and foster parent goes missing, and encounters Rin, who has come into possession of a dragon child, and her companions. Vol.3: the concluding volume, following Douglas and his companions to the Uggalepih Temple.',
-      "Released as 〜護りの剣〜①②③. We're not sure which volume's plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back. Books #4 to #6 in the French/German translated release order.",
+      "Books 4–6 in the series, released as 〜護りの剣〜①②③. We're not sure which volume's plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back.",
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -337,11 +339,11 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1600, narrativeOrder: 611,
+    mediaType: 'Book', chronoOrder: 1600, narrativeOrder: 611, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~Faraway Wings~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-03',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      'After some time apart, Alfred and his companions reunite in Jeuno, where a new adventure awaits Iris. Released as 〜遥かなる翼〜. Book #7 in the French/German translated release order.',
+      'After some time apart, Alfred and his companions reunite in Jeuno, where a new adventure awaits Iris. Book 7 in the series, released as 〜遥かなる翼〜.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -365,12 +367,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1700, narrativeOrder: 612,
+    mediaType: 'Book', chronoOrder: 1700, narrativeOrder: 612, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~Pride of the Knight~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2004-07-20', end: '2004-12' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       "A trilogy. Vol.1: Doug, Lynn, and their companions travel to Bastok after Peta hears from her old friend, the Galka knight Max. Vol.2: continues the group's adventures in and around Bastok. Vol.3: the third and final volume.",
-      'Released as 〜騎士の誇り〜①②③. Books #8 to #10 in the French/German translated release order.',
+      'Books 8–10 in the series, released as 〜騎士の誇り〜①②③.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -394,11 +396,11 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 2200, narrativeOrder: 615,
+    mediaType: 'Book', chronoOrder: 2200, narrativeOrder: 615, narrativeSection: 'Novels',
     title: "Final Fantasy XI ~Adventurer's Holiday~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-04',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      "Al and Iris attend a friend's wedding. There, Reisha, a spy from San d'Oria, arrives with a request. Released as 〜冒険者の休日〜.",
+      "Al and Iris attend a friend's wedding. There, Reisha, a spy from San d'Oria, arrives with a request. Book 11 in the series, released as 〜冒険者の休日〜.",
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -421,12 +423,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 2300, narrativeOrder: 616,
+    mediaType: 'Book', chronoOrder: 2300, narrativeOrder: 616, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~A Distant Wish~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2005-06-20', end: '2005-08-29' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Vol.1: Al's message cuts off with the words \"it's darkness, a vortex of darkness...\" and Iris, Shera, and Peta immediately set out to find Al and Jed. Vol.2: Al and Jed are swept into a sudden vortex of darkness. Then, recklessly, Bata and Chit leap into the vortex themselves, but it vanishes immediately afterward. Left behind, Iris and Shera learn that the dark vortex seems to connect to Tavnazia, a land thought to have been destroyed long ago, and resolve to pursue the others.",
-      'Released as 〜遠い願い〜㊤㊦.',
+      'Books 12–13 in the series, released as 〜遠い願い〜㊤㊦.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -449,12 +451,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 2500, narrativeOrder: 618,
+    mediaType: 'Book', chronoOrder: 2500, narrativeOrder: 618, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~A New Dream~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2005-10-29', end: '2005-12-24' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       "A two-volume story featuring Al and Iris in action, set in Tavnazia. Vol.1: Al and his companions arrive in Tavnazia after falling into the Vortex of Darkness, pursued by Iris and Shera. Vol.2: Klaus and Shiri arrive in search of news of their childhood friend, as the machinations of San d'Oria, Windurst, Bastok, and Jeuno draw the long-sealed city back into the open.",
-      'Released as 〜新たな夢〜㊤㊦.',
+      'Books 14–15 in the series, released as 〜新たな夢〜㊤㊦.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -477,11 +479,11 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 2700, narrativeOrder: 626,
+    mediaType: 'Book', chronoOrder: 2700, narrativeOrder: 626, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~The Blessings of the Journey~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-04',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      'The prelude to the Aht Urhgan saga. Released as 〜旅の恵み〜.',
+      'The prelude to the Aht Urhgan saga. Book 16 in the series, released as 〜旅の恵み〜.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -504,12 +506,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 3100, narrativeOrder: 627,
+    mediaType: 'Book', chronoOrder: 3100, narrativeOrder: 627, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~Daughters of Aht Urhgan~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2006-07-29', end: '2006-11-30' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Pasha and Nelly, a pair of Mithra thieves in Al Zahbi who dream of marrying into wealth, make their living picking pockets and burgling mansions—until one day they steal something far bigger than they bargained for. The series' first female leads. Vol.2: they successfully steal treasure from a merchant's mansion, but Pasha gets stuck in her transformed state as a Tarutaru and can't revert back, and they're chased by the merchant's bodyguards. Vol.3: having stolen the treasure token proving Farmett's conspiracy, they travel with adventurers they meet in the Inner Country to pursue hostages held captive by the Lamia.",
-      'Released as 〜アトルガンの娘たち〜①②③.',
+      'Books 17–19 in the series, released as 〜アトルガンの娘たち〜①②③.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -532,12 +534,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 3400, narrativeOrder: 620,
+    mediaType: 'Book', chronoOrder: 3400, narrativeOrder: 620, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~The Testament of the Wise~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2007-03', end: '2007-04' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Continues the series of illustrated short stories. Vol.1: opens on a shocking turn of events involving the character Peta. Vol.2: Peta is in danger, and Al and Iris set sail for Nashmo to rescue her.',
-      'Released as 〜賢者の遺言〜㊤㊦. May also be known as ~The Testament of the Sages~.',
+      'Books 20–21 in the series, released as 〜賢者の遺言〜㊤㊦. May also be known as ~The Testament of the Sages~.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -560,7 +562,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 10, narrativeOrder: 601,
+    mediaType: 'Comic', chronoOrder: 10, narrativeOrder: 601, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Adventure Log~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2007-03-20',
     by: 'Scott Ramsoomair (VGCats)',
     mediaDesc: [
@@ -582,11 +584,11 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 3600, narrativeOrder: 623,
+    mediaType: 'Book', chronoOrder: 3600, narrativeOrder: 623, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~Conditions of Fortune~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-08',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      'Al and Iris\'s party, staying in Aht Urhgan, encounter a Mithra corsair known as "Lucky Narfah" during a certain adventure, but the man she\'s infatuated with is extremely suspicious. Released as 〜幸運の条件〜. A secondary English source describes her instead as an Elvaan named "Nalfa the Lucky" — race and name unconfirmed.',
+      'Al and Iris\'s party, staying in Aht Urhgan, encounter a Mithra corsair known as "Lucky Narfah" during a certain adventure, but the man she\'s infatuated with is extremely suspicious. Book 22 in the series, released as 〜幸運の条件〜. A secondary English source describes her instead as an Elvaan named "Nalfa the Lucky" — race and name unconfirmed.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -609,11 +611,11 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 3700, narrativeOrder: 624,
+    mediaType: 'Book', chronoOrder: 3700, narrativeOrder: 624, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~The Princess Knight of Ronfaure~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-10-30',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      "Al and his companions encounter a baby chocobo in the Floating Swamps of Kadava, and with no owner to be found, Al and Iris decide to raise it themselves, leaving their companions to head to San d'Oria. Released as 〜ロンフォールの姫騎士〜.",
+      "Al and his companions encounter a baby chocobo in the Floating Swamps of Kadava, and with no owner to be found, Al and Iris decide to raise it themselves, leaving their companions to head to San d'Oria. Book 23 in the series, released as 〜ロンフォールの姫騎士〜.",
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -636,11 +638,11 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 4100, narrativeOrder: 625,
+    mediaType: 'Book', chronoOrder: 4100, narrativeOrder: 625, narrativeSection: 'Novels',
     title: "Final Fantasy XI ~The Star's Call~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-01-04',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      'Chance, the lost chocobo found by Al and Iris and raised in Sandoria, was actually a victim of a sinister plot. To save Chance, the pair return to Aht Urhgan where their comrades await. Released as 〜星のいざない〜. May also be known as ~Starfall~.',
+      'Chance, the lost chocobo found by Al and Iris and raised in Sandoria, was actually a victim of a sinister plot. To save Chance, the pair return to Aht Urhgan where their comrades await. Book 24 in the series, released as 〜星のいざない〜. May also be known as ~Starfall~.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -663,11 +665,11 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 4200, narrativeOrder: 630,
+    mediaType: 'Book', chronoOrder: 4200, narrativeOrder: 630, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~Happy Gift~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-03-29',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      'Dark Knight Larry finds himself helping a troublesome young black mage girl named Bee, and before he knows it, the two are traveling together hunting monsters, armed with his "Beast Photographer." Released as ハッピーギフト.',
+      'Dark Knight Larry finds himself helping a troublesome young black mage girl named Bee, and before he knows it, the two are traveling together hunting monsters, armed with his "Beast Photographer." Book 25 in the series, released as ハッピーギフト.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -690,12 +692,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 4300, narrativeOrder: 631,
+    mediaType: 'Book', chronoOrder: 4300, narrativeOrder: 631, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~A Message from Beyond~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2008-08', end: '2008-11-29' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Vol.1: one day, a stranger visits Doug, Rin, and the others as they search for Tikki's mother. She delivers a letter from Tikki's mother, written twenty years ago. Vol.2: responding to a rescue request from Tikki's mother, what awaited them at the designated location was the 'Forbidden Mouth'. Through it, Dag and his companions were transported to the past of Vana'diel. Vol.3: while searching for Tikki's mother, Euphelin, Doug and Lynn's party are transported to the past of Vana'diel amid the Crystal War.",
-      'Released as 〜彼方からの伝言〜①②③. May also be known as ~Messages from Afar~.',
+      'Books 26–28 in the series, released as 〜彼方からの伝言〜①②③. May also be known as ~Messages from Afar~.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -718,10 +720,10 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 4600, narrativeOrder: 634,
+    mediaType: 'Book', chronoOrder: 4600, narrativeOrder: 634, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~Anthology~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-02',
     mediaDesc: [
-      [{ text: 'Anthology of three short stories. Released as アンソロジー短編集みんなで大冒険！！. May also be known as ' }, { emText: 'An Anthology of Short Stories: A Great Adventure for Everyone!!' }, { text: '.' }],
+      [{ text: 'Anthology of three short stories. Book 29 in the series, released as アンソロジー短編集みんなで大冒険！！. May also be known as ' }, { emText: 'An Anthology of Short Stories: A Great Adventure for Everyone!!' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel', 'Short Stories'],
@@ -744,12 +746,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 4700, narrativeOrder: 635,
+    mediaType: 'Book', chronoOrder: 4700, narrativeOrder: 635, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2009-04-30', end: '2009-10-30' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Vol.1: Ron, a modestly skilled adventurer raised in Windurst, is dragged by his childhood friend Shari into searching for the Book of Gods, said to be in the hands of the thief Nanaa Mihgo. Vol.2: Ron and the others find the Book of Gods, but it has become a blank White Book, and the Duke of Jeuno tasks them with investigating a mysterious magicite as fears grow that the Shadow Lord is returning. Vol.3: Ron and Shari bring the news back to Windurst, scattering the party as Savvy, Duga, and Riccorocco head to their own nations. The nations decide to entrust the defeat of the Shadow Lord to an elite force of adventurers, bringing them together once more.',
-      'Released as ザルカバードの鼓動①②③.',
+      'Books 30–32 in the series, released as ザルカバードの鼓動①②③.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -772,7 +774,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 4950, narrativeOrder: 638,
+    mediaType: 'Comic', chronoOrder: 4950, narrativeOrder: 638, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Lightning Brigade Encyclopedia~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Lightning_Brigade', titleDate: '2013-03',
     mediaDesc: [
       'Featuring stories and four original comics. Released as 電撃の旅団公式十年事典. May also be known as Final Fantasy XI ~Lightning Brigade Official Decennial Encyclopedia~.',
@@ -798,7 +800,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 5100, narrativeOrder: 640,
+    mediaType: 'Book', chronoOrder: 5100, narrativeOrder: 640, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Songs of the Endless Earth~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books', titleDate: '2015-12',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -825,7 +827,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 5150, narrativeOrder: 641,
+    mediaType: 'Comic', chronoOrder: 5150, narrativeOrder: 641, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Love in the Sky 1·2·3!~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Misc', titleDate: '2007-06',
     mediaDesc: [
       [{ text: 'A short manga for ' }, { emText: 'XI' }, { text: ", released as 恋の空蝉1・2・3! (Koi no Utsusemi). Serialized in the Vana'diel Communications mook; the earliest known printing is the June 2007 Vana'diel Memoirs special appendix." }],
@@ -866,7 +868,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 5050, narrativeOrder: 639,
+    mediaType: 'Comic', chronoOrder: 5050, narrativeOrder: 639, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Aloha Iroha~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha', titleDate: '2015-08-11',
     mediaDesc: [
       "A series of four-panel manga based on Final Fantasy XI, following the story of Iroha, the main heroine of Rhapsodies of Vana'diel. Known in Japan as Iroha de Gozaru.",
@@ -888,7 +890,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 5160, narrativeOrder: 642,
+    mediaType: 'Book', chronoOrder: 5160, narrativeOrder: 642, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Minstrel of Strange Tales: Replica Script~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2024-02',
     mediaDesc: [
       'A replica script for the reading drama\'s five strange tales: "Mimiroon\'s Sparkling Great Adventure", "Go For It! Allied Forces of Altana: Extreme Survival", "Seaside Serpent Taro", "A Small Gift For A Small Friend", and "Black Night Butterfly". Released as 朗読劇 : 異聞のウタイビト : 複製台本. May also be known as Final Fantasy XI ~Reading Drama: Minstrel of Strange Tales: Replica Script~.',
@@ -911,7 +913,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 5170, narrativeOrder: 643,
+    mediaType: 'Book', chronoOrder: 5170, narrativeOrder: 643, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Minstrel of Fantasies: Replica Script~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2025-03',
     mediaDesc: [
       'A replica script for the reading drama\'s stories of love and reunion across time and space: "Temple of the Heart\'s Secret" (a Star Sibyl story), "Girl of the Underworld" (an Aphmau story), "Blue Mage Blues" (a Blue Mage story), and "Memoirs of the Many-Headed Hydra -Memories of Heroes-" (a Hydra Squadron story). Released as 朗読劇 : 夢幻のウタイビト : 複製台本. May also be known as Final Fantasy XI ~Reading Drama: Minstrel of Fantasies: Replica Script~.',
@@ -934,7 +936,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 5020, narrativeOrder: 700,
+    mediaType: 'Game', chronoOrder: 5020, narrativeOrder: 700, narrativeSection: 'Main',
     title: 'Final Fantasy Grandmasters', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Grandmasters', titleDate: '2015-09-30',
     mediaDesc: [
       [{ text: 'Tie-in with the ' }, { emText: "Rhapsodies of Vana'diel (2015)" }, { text: ' scenario for ' }, { emText: 'Final Fantasy XI (2002)' }, { text: '. User avatars with chibi character models travel the world by airship in a quest to become the strongest "Grandmaster" adventurer while engaging in co-operative battles against enemies.' }],
@@ -958,7 +960,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 1050, narrativeOrder: 700,
+    mediaType: 'Game', chronoOrder: 1050, narrativeOrder: 700, narrativeSection: 'Main',
     title: 'Final Fantasy XI: Braver', titleUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver', titleDate: '2021-07-10',
     mediaDesc: [
       [{ text: 'Taking place roughly in the world of ' }, { emLinkText: 'XI: Rise of the Zilart (2003)', emLinkUrl: '#entry-XI-final-fantasy-xi-rise-of-the-zilart-2003' }, { text: ' with a sprinkle from other Final Fantasy titles, making it a bit of an alternate universe re-imagining. Entry also found in our ' }, { emLinkText: 'Fan Projects', emLinkUrl: '#group-FAN' }, { text: ' series.' }],

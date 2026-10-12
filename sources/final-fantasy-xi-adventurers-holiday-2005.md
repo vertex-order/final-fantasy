@@ -38,6 +38,13 @@ ja.wikipedia.org (Information)
   - Firefox machine translation pasted by user
   - A year missing from the translation is inferred from the entry's month
 
+plaza.harmonix.ne.jp (Information)
+- http://plaza.harmonix.ne.jp/~miyabi/list1001.html — series number*, sale dates — accessed 2026-10-12
+  - The author's own book list; text pasted by user, not opened or archived
+  - Book 11 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
+  - Sale dates on the page, not the entry's day-level dates: 〜冒険者の休日〜 2005-03-22
+  - Cross-check: LibraryThing (https://www.librarything.com/nseries/148143/Final-Fantasy-XI-Novels) and Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): no entry for this number (LibraryThing skips 11 and 12; Goodreads stops at 10)
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

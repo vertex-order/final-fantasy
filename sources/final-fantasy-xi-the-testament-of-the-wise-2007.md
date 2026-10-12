@@ -64,6 +64,12 @@ ja.wikipedia.org (Information)
   - Firefox machine translation pasted by user
   - A year missing from the translation is inferred from the entry's month
 
+plaza.harmonix.ne.jp (Information)
+- http://plaza.harmonix.ne.jp/~miyabi/list1001.html — series number*, sale dates — accessed 2026-10-12
+  - The author's own book list; text pasted by user, not opened or archived
+  - Books 20-21 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
+  - Sale dates on the page, not the entry's day-level dates: 〜賢者の遺言　上〜 2007-02-28; 〜賢者の遺言　下〜 2007-03-30
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

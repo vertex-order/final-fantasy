@@ -35,6 +35,7 @@ Vol.1: ISBN 9782265086012 (ISBN10: 2265086010), French "L'Épée du Gardien I (T
 - German and French pages share the same Goodreads rating (treated as one book)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9782265086012
 - goodreads: https://www.goodreads.com/book/show/43464339-final-fantasy-xi-tome-4 — accessed 2026-10-09
+  - French cover marks "4" in the top right corner (cover seen 2026-10-12); Tome 4 is Book 4 in the series
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9782265086012
 - open library: https://openlibrary.org/search?isbn=9782265086012
 - NDL: http://id.ndl.go.jp/bib/000009326287 — accessed 2026-10-10 (one record for the French volumes 4 to 6)
@@ -133,6 +134,14 @@ ja.wikipedia.org (Information)
   - Day-level date replaces the NDL/bg-wiki month (trails the real release by about a month)
   - Firefox machine translation pasted by user
   - A year missing from the translation is inferred from the entry's month
+
+plaza.harmonix.ne.jp (Information)
+- http://plaza.harmonix.ne.jp/~miyabi/list1001.html — series number*, sale dates — accessed 2026-10-12
+  - The author's own book list; text pasted by user, not opened or archived
+  - Books 4-6 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
+  - Sale dates on the page, not the entry's day-level dates: 〜護りの剣１〜 2003-09-20; 〜護りの剣２〜 2003-11-20; 〜護りの剣３〜 2003-12-20
+  - Cross-check: LibraryThing (https://www.librarything.com/nseries/148143/Final-Fantasy-XI-Novels): Vol.4-6 "Sword of the Guardian" 1-3, Doug & Lynn 1-3
+  - Cross-check: Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): Books 4-6, "Das Schwert des Wächters 1-3, Bd 4-6"
 
 ## Surveyed
 

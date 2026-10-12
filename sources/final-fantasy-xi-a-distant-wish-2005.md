@@ -66,6 +66,13 @@ ja.wikipedia.org (Information)
   - Firefox machine translation pasted by user
   - A year missing from the translation is inferred from the entry's month
 
+plaza.harmonix.ne.jp (Information)
+- http://plaza.harmonix.ne.jp/~miyabi/list1001.html — series number*, sale dates — accessed 2026-10-12
+  - The author's own book list; text pasted by user, not opened or archived
+  - Books 12-13 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
+  - Sale dates on the page, not the entry's day-level dates: 〜遠い願い　上〜 2005-06-20; 〜遠い願い　下〜 2005-08-29
+  - Cross-check: LibraryThing (https://www.librarything.com/nseries/148143/Final-Fantasy-XI-Novels): Vol.13 "Far Off Wishes", Al & Iris 7 = the second volume; Vol.12 absent
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

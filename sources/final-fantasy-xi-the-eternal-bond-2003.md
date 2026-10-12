@@ -30,6 +30,7 @@ ISBN 9782265085831 (ISBN10: 2265085839), French "Le Lien Éternel" (Tome 3), Fle
 - German and French pages share the same Goodreads rating (treated as one book)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9782265085831
 - goodreads: https://www.goodreads.com/book/show/43464376-final-fantasy-xi-tome-3 — accessed 2026-10-09
+  - French cover marks "3" in the top right corner (cover seen 2026-10-12); Tome 3 is Book 3 in the series
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9782265085831
 - open library: https://openlibrary.org/search?isbn=9782265085831
 - NDL: http://id.ndl.go.jp/bib/000009326279 — accessed 2026-10-10
@@ -59,6 +60,14 @@ ja.wikipedia.org (Information)
   - Day-level date replaces the NDL/bg-wiki month (trails the real release by about a month)
   - Firefox machine translation pasted by user
   - A year missing from the translation is inferred from the entry's month
+
+plaza.harmonix.ne.jp (Information)
+- http://plaza.harmonix.ne.jp/~miyabi/list1001.html — series number*, sale dates — accessed 2026-10-12
+  - The author's own book list; text pasted by user, not opened or archived
+  - Book 3 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
+  - Sale dates on the page, not the entry's day-level dates: 〜永遠の絆〜 2003-06-20
+  - Cross-check: LibraryThing (https://www.librarything.com/nseries/148143/Final-Fantasy-XI-Novels): Vol.3, Al & Iris 3
+  - Cross-check: Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): Book 3, "Der Bund der Ewigkeit, Bd 3"
 
 ## Surveyed
 
