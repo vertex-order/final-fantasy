@@ -564,7 +564,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     title: 'Final Fantasy XI ~Adventure Log~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2007-03-20',
     by: 'Scott Ramsoomair (VGCats)',
     mediaDesc: [
-      'The official Final Fantasy XI webcomic.',
+      [{ text: 'The official ' }, { emLinkText: 'Final Fantasy XI', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ' webcomic.' }],
     ],
     primary: {
       tags: ['Optional', 'Tie-in', 'Webcomic'],
