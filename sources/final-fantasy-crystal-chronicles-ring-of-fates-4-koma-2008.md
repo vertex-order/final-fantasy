@@ -1,6 +1,6 @@
-<!-- sources/final-fantasy-crystal-chronicles-ring-of-fates-4-panel-2008.md (markdown) -->
+<!-- sources/final-fantasy-crystal-chronicles-ring-of-fates-4-koma-2008.md (markdown) -->
 
-# Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel~
+# Final Fantasy Crystal Chronicles: Ring of Fates ~4-Koma~
 
 ## Editions (ISBN)
 
@@ -61,10 +61,17 @@ goodreads.com (Ratings)
 
 ## Alternate names
 
+- "Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel~" — the literal translation of 4コマ, the entry's earlier title; kept as an alias (the user's call, 2026-10-11: the entry title uses "4-Koma", since it returns more results)
 - "Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~" — our English rendering of the Japanese title (Wikipedia: "Translates to \"Ring of Fates 4-Panel Anthology Comic\"")*
 - "Final Fantasy Crystal Chronicles Ring of Fates 4 Komaansoroji Komikku" — Wikipedia's List of Final Fantasy media (https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga), the row's title — accessed 2026-10-11*
 
 ## Surveyed
+
+- The fan searches (translation, audiobook, recap) have no `searchTitle` override and use the entry's title, tildes included, the user's call 2026-10-11; if they return poorly, docs/data.md names `~…~` as punctuation that can break results, so revisit
+
+- NDL's month trails the publisher's by about a month for the same-era Fandom wiki rows on Beyond the Endless Sky (see that sources file: July 22, 2004 against NDL 2004.8), so NDL's 2008.4 for volume 2 fits KADOKAWA's March 31, 2008 release, and wikiwiki.jp's "March and April" probably repeats NDL's months — supports keeping the publisher's date
+
+- [wikiwiki.jp ffdic page for the book](https://wikiwiki.jp/ffdic/%E6%9B%B8%E7%B1%8D/%E3%80%90%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%83%AB%20%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%204%E3%82%B3%E3%83%9E%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%80%91) — a Japanese fan wiki: "2008年3月、4月にエンターブレインから出た" (out in March and April 2008 from Enterbrain; volume 2 in April, which agrees with NDL and CDJapan and **disagrees with KADOKAWA's 2008-03-31**), a 4-koma anthology on FFCCRoF, the first since 4コママンガ劇場 four years earlier, jokes about Chappy are funny (gags, matching our description); no authors named — accessed 2026-10-11 (text pasted by user; last modified 2018-07-07) — mine: weighs against the volume 2 date
 
 - [Mercari listing](https://jp.mercari.com/shops/product/4HugQSwSTJZ9BLwYq2CVGc) -- a used copy of volume 2 (ISBN 9784757741089) at ¥30,274, sold out; the seller's text gives no release date; a marketplace listing, not linked -- empty
 

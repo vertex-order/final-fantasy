@@ -40,4 +40,7 @@ wikipedia.org (Information)
 youtube.com (Information)
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20~Novel~%20audiobook -- audiobook* (results exist) -- accessed 2026-10-08
 
+breezewiki.com (Information)
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits (Ichiro Tezuka), dates (both volumes December 25, 2008), ISBNs (Jōkan 978-4-7575-2458-3, Gekan 978-4-7575-2459-0); the Novels table row only, no dedicated page — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
+
 ## Decisions

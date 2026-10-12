@@ -112,7 +112,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
   },
   {
     mediaType: 'Comic', chronoOrder: 1400, recommendedOrder: 250,
-    title: 'Final Fantasy Lost Stranger', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Lost_Stranger', titleDate: { start: '2017-07-12', end: '2025-08', ongoing: true },
+    title: 'Final Fantasy Lost Stranger', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Lost_Stranger', titleDate: { start: '2017-07-12', end: '2026-09-11', ongoing: true },
     by: [{ role: 'written', names: 'Hazuki Minase' }, { role: 'illustrated', names: 'Itsuki Kameya' }],
     mediaDesc: [
       'A manga following Square Enix employee Shogo Sasaki, a lifelong Final Fantasy fan, who is killed in a truck accident along with his sister Yuko and reborn into a Final Fantasy-style world unbound to any particular installment. Ongoing.',
@@ -135,7 +135,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
       ratings: [
         { score: '4.10', url: 'https://www.goodreads.com/book/show/40223499-final-fantasy-lost-stranger-vol-1', key: 'goodreads' },
       ],
-      length: [{ value: '13+ volumes', tip: 'As of 2026-10-09' }],
+      length: [{ value: '14+ volumes', tip: 'As of 2026-05-12' }],
       platforms: [
         { key: 'book', name: 'Manga', url: 'https://www.goodreads.com/series/271153-final-fantasy-lost-stranger' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Lost Stranger', searchSuffix: 'manga dub', noResults: true },

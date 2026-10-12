@@ -177,6 +177,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
     primary: {
       tags: ['Optional', 'Alternate Universe', 'Light Novel'],
       subtitle: 'Book',
+      helpWanted: true,
       length: '281p',
       languages: [
         { value: 'JA', url: 'https://www.goodreads.com/book/show/77954969' },
@@ -206,6 +207,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
     primary: {
       tags: ['Optional', 'Side-story', 'Gamebook'],
       subtitle: 'Book',
+      helpWanted: true,
       length: '283p',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/102713430' },
@@ -266,7 +268,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
   },
   {
     mediaType: 'Book', chronoOrder: 700, recommendedOrder: 450,
-    title: 'Final Fantasy I・II・III: Memory of Heroes ~II~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', titleDate: '2012-10-25',
+    title: 'Final Fantasy I・II・III: Memory of Heroes ~II~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', titleDate: '2012-10-31',
     by: [{ role: 'adapted', names: 'Takashi Umemura' }],
     mediaDesc: [
       [{ text: 'Short story adaptation of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: '. The book also contains short story adaptations of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ' and ' }, { emLinkText: 'Final Fantasy III (1990)', emLinkUrl: '#entry-III-final-fantasy-iii-1990' }, { text: '. Also known as ' }, { emText: 'Final Fantasy ~Memory of Heroes~' }, { text: '.' }],
@@ -274,6 +276,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
     primary: {
       tags: ['Optional', 'Short Stories'],
       subtitle: 'Book',
+      profileUrl: 'https://web.archive.org/web/20160304093601/http://www.square-enix.co.jp/magazine/gamebooks/ff/ff123_novel_moh/',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/32993834' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },
@@ -285,7 +288,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       ],
       platforms: [
         { key: 'book', name: 'Short Stories', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy I・II・III: Memory of Heroes', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes#Final_Fantasy_II' },
         {
           key: 'fan-audiobook',
           paren: 'Youtube',

@@ -28,4 +28,7 @@ wikipedia.org (Information)
 youtube.com (Information)
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%3A%20The%20After%20Years%20audiobook -- audiobook* (results exist) -- accessed 2026-10-08
 
+breezewiki.com (Information)
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits (Ichiro Tezuka), dates (March 26, 2009), ISBN 978-4-7575-2536-8, listed as "Final Fantasy IV: The After Years"; the Novels table row only, no dedicated page — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
+
 ## Decisions

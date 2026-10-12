@@ -50,6 +50,7 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 950
     primary: {
       tags: ['Optional', 'Novel'],
       subtitle: 'Book',
+      helpWanted: true,
       languages: [
         { value: 'EN', native: true, url: 'https://www.goodreads.com/book/show/2018984.Final_Fantasy' },
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/42405967-final-fantasy' },

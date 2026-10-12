@@ -4,7 +4,7 @@
 
 ## Author
 
-Scott Ramsoomair -- By (entry `by`; writer and artist are the same person) -- wikipedia, List of Final Fantasy media, Novels and manga (https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga) -- accessed 2026-10-08 -- the comic is by VG Cats; the VG Cats wiki (https://breezewiki.com/vgcats/wiki/VG_Cats) says it is "a web-comic written and drawn by Scott Ramsoomair"
+Scott Ramsoomair (VGCats) -- By (entry `by`, with "(VGCats)" after the name at the user's request: he is the creator of the VGCats webcomic; writer and artist are the same person) -- wikipedia, List of Final Fantasy media, Novels and manga (https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga) -- accessed 2026-10-08 -- the comic is by VG Cats; the VG Cats wiki (https://breezewiki.com/vgcats/wiki/VG_Cats) says it is "a web-comic written and drawn by Scott Ramsoomair"
 
 ## Sources
 

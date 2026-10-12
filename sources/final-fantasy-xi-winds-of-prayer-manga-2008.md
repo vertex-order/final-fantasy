@@ -56,6 +56,10 @@ duckduckgo.com (Information)
 wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga -- previous titleUrl; does not mention this manga (lists the manhwa, the novels and the webcomic) -- accessed 2026-10-09
 
+ja.wikipedia.org (Information)
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB)#漫画版 — the manga version: carried in Enterbrain's quarterly mook comic magazine (Comic Vana-dori, by the machine translation) from its first issue, based on the novel 『祈りの風』(the Al & Iris volume); drawn by Yu Satsuki, written by Square Enix, original story Miyabi Hasegawa, novel illustrations Eiji Kaneda; published by Enterbrain, distributed by Kadokawa Group Publishing; volume 1 first edition May 15, 2010 (ISBN-10 4047265179, ISBN-13 978-4047265172), volume 2 November 15, 2010 (ISBN-10 4047268661, ISBN-13 978-4047268630); the final story was written into the single final book — accessed 2026-10-11 (Firefox machine translation pasted by user); the volume dates are later than the entry's serialization end (2010-03), so the ending may be only in volume 2
+
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

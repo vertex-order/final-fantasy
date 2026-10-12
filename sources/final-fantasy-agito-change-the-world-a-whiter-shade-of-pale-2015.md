@@ -75,6 +75,9 @@ wikipedia.org (Information)
 duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20Agito%3A%20Change%20the%20World%20-A%20Whiter%20Shade%20of%20Pale-%20translation — fan-translation search
 
+breezewiki.com (Information)
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits (Tora Tsukishima), dates (April 30, 2015), ISBN 978-4-7575-4604-2; the Novels table row only, no dedicated page — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
+
 ## Surveyed
 
 - Search engines: a Final Fantasy song shares this title and dominates results, including English song translations; the entry is the novel, not the song. Title searches (incl. fan-translation, recap) mostly return the song — noted by user, 2026-10-10

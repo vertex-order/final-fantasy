@@ -53,6 +53,7 @@ magazine.jp.square-enix.com (Publisher, Japanese)
 - https://magazine.jp.square-enix.com/top/comics/detail/9784757526501/ — dates* (vol 5, final volume; titleDate end "５(完)": 2009年8月22日), credits (著者 天羽銀), price (440 yen incl. tax), size (新書判), ISBN 9784757526501 — accessed 2026-10-11 (page text pasted by user) — archived: TODO
 
 breezewiki.com (Information)
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — credits (Gin Amou, author and artist), dates (I December 22, 2006; II August 22, 2008 and III April 22, 2008 as listed, II likely a typo; IV December 22, 2008; V August 22, 2009; the entry's range is I to V), ISBNs (978-4-7575-1830-8, -2082-0, -2263-3, -2442-2, -2650-1); "The Final Fantasy XII manga was serialized in Gangan Powered"; the table rows, and the manga has a dedicated page (already cited above) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_(manga) — title link*, credits*, story — accessed 2026-10-11 — archived: TODO
   - Five volumes based on the game; plot the same, flashbacks add character detail; publishers Gangan Online, GanGan Powered; release 2006, cover price 180 yen
   - Year only and no ISBNs, so Wikipedia stays the date and ISBN source
@@ -84,6 +85,12 @@ goodreads.com (Ratings)
 - https://www.goodreads.com/series/108230-xii-final-fantasy-xii — languages* (JA), book platform* (Manga link; the series page covers all five volumes, English interface and retailer links) — accessed 2026-10-11 (per user)
 - https://www.goodreads.com/book/show/6926117-xii-1-final-fantasy-xii-1 — ratings* (volume 1 score, 3.71), dates* (December 22, 2006: confirms titleDate 2006-12-22), format (174 pages, Comic, Square Enix) — accessed 2026-10-11 (page text pasted by user)
 
+ja.wikipedia.org (Information)
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXII#コミック版 — dates* and credits: an official FF comic, serialized from Gangan Powered No.1 (the first issue of the magazine's bimonthly reorganization, June 2006; the titleDate start, an issue month); after the magazine closed in February 2009 it moved to the Gangan Online web site from April 23, 2009 and finished with chapter 19 on June 25, 2009 (the titleDate end; the entry's 19 chapters); drawn by 天羽銀; the story begins in the middle of the game, at Nam-Yensa in the Great Sand Sea, with developments not in the game's main story, and Square Enix has made no official statement on whether those are authorized settings — accessed 2026-10-11 (Firefox machine translation pasted by user)
+- https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%91%E3%83%AF%E3%83%BC%E3%83%89 — lists 『ファイナルファンタジーXII』(天羽銀) as transferred to Gangan Online — accessed 2026-10-11 (Firefox machine translation pasted by user)
+- https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3ONLINE — the Gangan Online works list: Final Fantasy XII (天羽銀), start April 23, 2009, end June 25, 2009, "transfer from Gangan Powered" — accessed 2026-10-11 (Firefox machine translation pasted by user)
+
+
 ## Surveyed
 
 - [OneManga – Final Fantasy XII](https://www.onemanga.com/Final_Fantasy_XII/) — a fan English translation, 404 now; confirmed on the Wayback Machine — used
@@ -91,5 +98,9 @@ goodreads.com (Ratings)
   - https://web.archive.org/web/20121017105552/http://www.onemanga.com/Final_Fantasy_XII/ — confirms 7 chapters, marked as scanned by SomethingOrOther; the scans don't load — accessed 2026-10-10
   - Links to the same translators as `somethingorotherscans.com` (the entry's translation row)
 - [kemono – Patreon post](https://kemono.cr/patreon/user/86756786/post/122208724) — a mirror of a paywalled Patreon post that appears to offer an English fan translation of parts 1 to 3 of the XII manga — shallow: files not confirmed (paywall); a mirror of paywalled content, so not used as a link, and not to be archived
+
+## Description wording
+
+- "Begins partway through the game" is from ja.wikipedia (the story starts mid-game, at Nam-Yensa); "flashbacks adding new details… a few details changed" is from the Fandom wiki's intro; the earlier Ashe premise sentence was dropped because it implied a start at the game's beginning — the user's call, 2026-10-11
 
 ## Decisions

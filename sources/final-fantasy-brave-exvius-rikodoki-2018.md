@@ -25,7 +25,7 @@ ISBN 9784757557994 (ISBN 978-4-7575-5799-4), Japanese, Square Enix, July 25, 201
 ## Sources
 
 store.jp.square-enix.com (Information)
-- https://store.jp.square-enix.com/estore/g/g9784757557994/ — profile*, dates* (JA July 25, 2018; Japanese Square Enix page is the date source), price (723 yen), series (ファイナルファンタジー その他), genre (コミック), size (B6, 144 pages) — accessed 2026-10-09 — archived: TODO
+- https://store.jp.square-enix.com/estore/g/g9784757557994/ — profile*, dates* (JA July 25, 2018; Japanese Square Enix page is the date source), price (723 yen), size* (B6判, 144 pages; the entry's `144p; B6`), series (ファイナルファンタジー その他), genre (コミック), serial code for the unit Rico (リコドキッ！) expired 2025/10/31, size (B6, 144 pages) — accessed 2026-10-09 — archived: TODO
 
 ndlsearch.ndl.go.jp (Information)
 - http://id.ndl.go.jp/bib/029099528 — dates (JA July 2018; agrees with the store page), credits, size (142 p, 19 cm), price (657 yen) — accessed 2026-10-09 — archived: TODO
@@ -35,7 +35,11 @@ goodreads.com (Information)
 - https://www.goodreads.com/book/show/51969052 — Kindle edition: 143 pages, no ratings — accessed 2026-10-09 — archived: TODO
 
 finalfantasy.fandom.com (Information)
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki! — title link*, credits*, story, length* (144 pages), ISBN, format (B5; store says B6) — accessed 2026-10-09 — archived: TODO
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki! — title link*, credits*, story, length* (144 pages), ISBN, format (B5; the Square Enix store says B6, so B6 is used), publisher (Gangan Comics UP!, the manga app/site; no serialization dates), a yonkoma manga written and drawn by Takeshi Matsumoto with an original character, Rico (title from "Rico no Dokidoki Days"), the only known way to obtain Rico in the game — accessed 2026-10-09, re-read 2026-10-11 (page text pasted by user) — archived: TODO
+
+ja.wikipedia.org (Information)
+- https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8%E5%89%9B%E5%BF%97 — dates* (the author's works list: "FINAL FANTASY BRAVE EXVIUS リコドキッ！ (マンガUP! 2017年9月20日 - 連載中)": serialized in the Manga UP! app from September 20, 2017, listed as still running; the titleDate start, with the single volume's July 25, 2018 as the end fallback; the app launched January 7, 2017, per https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%ACUP%21), credits (まつもと剛志 = Takeshi Matsumoto) — accessed 2026-10-11 (Firefox machine translation pasted by user) — archived: TODO
+  - リコドキッ！ is short for "Rico no Dokidoki Days" (リコのドキドキデイズ), as the Fandom wiki says
 
 reddit.com (Information)
 - https://www.reddit.com/r/FFBraveExvius/comments/abl8wc/final_fantasy_brave_exvius_rikodoki_eng/ — languages (EN fan translation); Wayback snapshots exist (checked by the user, 2026-10-10), credits ("written and illustrated by Takeshi Matsumoto"; a four-panel Brave Exvius parody) — accessed 2026-10-10 — archived: TODO
@@ -88,11 +92,19 @@ duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20Brave%20Exvius%20Rikodoki!%20translation — platforms* (fan translation), languages* (EN, fan translation) — accessed 2026-10-09
   - Results confirmed to include a fan translation; not linked directly
 
+breezewiki.com (Information)
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — credits (Takeshi Matsumoto, author and artist), dates (July 25, 2018), ISBN 978-4-7575-5799-4; the table row, and the manga has a dedicated page (already cited above) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
+
 ## Surveyed
 
 - Final Fantasy Wiki (ffwiki) equivalent of the breezewiki article — none exists, so no mirror or duplicate to nest
 
 - Goodreads search by English title — empty (no results as of 2026-10-09)
 - Google searches of squareenixmangaandbooks.square-enix-games.com and square-enix-games.com for the English title — empty (no results as of 2026-10-09); no English Square Enix page
+
+## Framing and search
+
+- Tagged Tie-in and described as "set in the world of" Brave Exvius: a yonkoma with an original character, not a retelling of the game — the user's call, 2026-10-11
+- The book platform is a DuckDuckGo search on the Japanese title as the publisher writes it (`FINAL FANTASY BRAVE EXVIUS リコドキッ！`, from the Square Enix store page)
 
 ## Decisions

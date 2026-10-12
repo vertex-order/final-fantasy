@@ -69,13 +69,15 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
   {
     mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 150,
     title: 'Final Fantasy Crystal Chronicles ~Beyond the Endless Sky~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: { start: '2004-01-10', end: '2005-06' },
+    by: [{ role: 'adapted', names: 'Ryunosuke Ichikawa' }],
     mediaDesc: [
-      [{ text: 'A manga adaptation of ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as 〜果てなき空の向こうに〜. May also be known as ~Hatenaki Sora no Mukō ni~.' }],
+      [{ text: 'A manga adaptation of ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル はてなき空の向こうに' }, { text: '. May also be known as ' }, { emText: '~Hatenaki Sora no Mukō ni~' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Manga'],
       subtitle: 'Comic',
       length: '3 volumes',
+      profileUrl: 'http://web.archive.org/web/20210411175537/https://www.ganganonline.com/contents/ffcc/',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77128941' },
       ],
@@ -83,7 +85,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77128941', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Beyond the Endless Sky', searchQualifier: 'manga' },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'ファイナルファンタジー・クリスタルクロニクル はてなき空の向こうに' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Beyond the Endless Sky', noResults: true },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Beyond the Endless Sky', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', name: 'Fan story recap video of Crystal Chronicles (2003)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles' },
@@ -91,14 +93,17 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 600, recommendedOrder: 160,
-    title: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2004-02-06',
+    mediaType: 'Book', chronoOrder: -100, recommendedOrder: 650,
+    title: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels', titleDate: '2004-02-06',
+    by: 'Takashi Umemura',
     mediaDesc: [
-      [{ text: 'A novelization of ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ファイナルファンタジークリスタルクロニクル 〜小さな村の年代記〜 (Chiisana Mura no Nendaiki).' }],
+      [{ text: 'Prequel novel set a little before ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: ", following Crim, a young caravaner from Tipa who is senior to the game's caravan, and telling episodes the game never covers. Released as " }, { emText: 'FINAL FANTASY CRYSTAL CHRONICLES 小さな村の年代記' }, { text: ' (Chiisana Mura no Nendaiki). May also be known as ' }, { emText: 'Chronicles of a Small Village' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Novel'],
+      tags: ['Optional', 'Prequel', 'Novel'],
       subtitle: 'Book',
+      helpWanted: true,
+      length: '351p; P',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77092424' },
       ],
@@ -106,7 +111,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77092424', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Chronicle of a Small Village', searchQualifier: 'novel' },
+        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'FINAL FANTASY CRYSTAL CHRONICLES 小さな村の年代記' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Chronicle of a Small Village', noResults: true },
         { key: 'fan-recap', name: 'Fan story recap video of Crystal Chronicles (2003)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -115,9 +120,9 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
   },
   {
     mediaType: 'Comic', chronoOrder: 700, recommendedOrder: 170,
-    title: 'Final Fantasy Crystal Chronicles: 4-Panel Manga Theater', titleUrl: 'https://magazine-jp-square--enix-com.translate.goog/top/comics/detail/9784757511224/?_x_tr_sl=ja&_x_tr_tl=en', titleDate: '2004-01-16',
+    title: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga', titleDate: '2004-01-16',
     mediaDesc: [
-      [{ text: 'A 4-panel gag manga based on ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル4コママンガ劇場' }, { text: '. May also be known as ' }, { emText: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater' }, { text: '.' }],
+      [{ text: 'A 4-panel gag manga based on ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル4コママンガ劇場' }, { text: '. May also be known as ' }, { emText: 'Final Fantasy Crystal Chronicles: 4-Panel Manga Theater' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Tie-in', 'Manga'],
@@ -134,9 +139,9 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
       ],
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true, url: 'https://www.goodreads.com/book/show/77600584' },
-        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles 4-Koma Manga Theater', noResults: true },
-        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles 4-Koma Manga Theater', searchSuffix: 'manga dub', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles 4-Koma Manga Theater', noResults: true },
+        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchSuffix: 'manga dub', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
     },
   },
@@ -257,7 +262,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
     title: 'Final Fantasy Crystal Chronicles: Ring of Fates ~Our World~', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates#Release', titleDate: { start: '2008-05-30', end: '2008-07-30' },
     by: [{ role: 'adapted', names: 'Osamu Kudo' }],
     mediaDesc: [
-      [{ text: 'A novelization of the single-player campaign of ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: ', following the twins whose story Princess Teteo watches over.' }],
+      [{ text: 'Novelization of the single-player campaign of ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: ', following the twins whose story Princess Teteo watches over.' }],
       [{ text: 'Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 僕らの世界' }, { text: ' (Bokura no Sekai, literally "Our World").' }],
     ],
     primary: {
@@ -283,9 +288,9 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
   },
   {
     mediaType: 'Comic', chronoOrder: -250, recommendedOrder: 550,
-    title: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: { start: '2008-03-01', end: '2008-03-31' },
+    title: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Koma~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: { start: '2008-03-01', end: '2008-03-31' },
     mediaDesc: [
-      [{ text: 'A 4-panel gag manga anthology set in the world of ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 4コマアンソロジーコミック' }, { text: '. May also be known as ' }, { emText: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~' }, { text: ' and ' }, { emText: 'Final Fantasy Crystal Chronicles Ring of Fates 4 Komaansoroji Komikku' }, { text: '.' }],
+      [{ text: 'A 4-panel gag manga anthology set in the world of ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 4コマアンソロジーコミック' }, { text: '. May also be known as ' }, { emText: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel~' }, { text: ', ' }, { emText: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~' }, { text: ' and ' }, { emText: 'Final Fantasy Crystal Chronicles Ring of Fates 4 Komaansoroji Komikku' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Tie-in', 'Manga'],
@@ -302,13 +307,12 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
       ],
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true, url: 'https://www.goodreads.com/search?q=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%204%E3%82%B3%E3%83%9E%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF' },
-        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates 4-Koma Anthology', noResults: true },
-        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates 4-Koma Anthology', searchSuffix: 'manga dub', noResults: true },
+        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchSuffix: 'manga dub', noResults: true },
         {
           key: 'fan-recap',
           paren: 'Youtube',
           search: 'youtube',
-          searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates 4-Koma Anthology',
           noResults: true,
         },
       ],

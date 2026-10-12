@@ -153,7 +153,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     ],
     primary: {
       tags: ['Optional', 'Prequel', 'Audio drama'],
-      subtitle: 'Radio Drama',
+      subtitle: 'Audio Drama',
       languages: [
         { value: 'JA', native: true },
         { value: 'EN', tip: 'English (fan translation)' },
@@ -169,6 +169,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
         tags: ['Optional', 'Prequel', 'Web Novel', 'Free'],
         title: 'Final Fantasy XV Prologue: Parting Ways ~Book~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_Parting_Ways', titleDate: 2016,
         subtitle: 'Book',
+        helpWanted: true,
         languages: [
           { value: 'EN', native: true, url: 'https://www.goodreads.com/book/show/33232393-final-fantasy-xv-prologue-parting-ways' },
           { value: 'IT', url: 'https://www.goodreads.com/book/show/60437037-final-fantasy-xv-prologo--strade-che-si-dividono-' },
@@ -181,7 +182,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
           { key: 'book', name: 'E-book (PDF)', url: 'https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf' },
         ],
         versionDesc: [
-          'An official English translation of the Japan-only audio drama CD as a free web novel.',
+          'An official English translation of the Japan-only audio drama as a free web novel.',
         ],
       },
     ],
@@ -553,7 +554,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     title: 'Final Fantasy XV: The Dawn of the Future', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_-The_Dawn_of_the_Future-', titleDate: '2019-04-25',
     by: 'Jun Eishima',
     mediaDesc: [
-      [{ text: 'Follows Ardyn, Aranea, Lunafreya, and Noctis as each confronts fate in the aftermath of ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: ", closing out the stories of the world's dawning after the game's events." }],
+      [{ text: 'Retells the cancelled ' }, { emText: 'Dawn of the Future' }, { text: ' DLC. Follows Ardyn, Aranea, Lunafreya, and Noctis after the events of ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Novel'],
@@ -562,7 +563,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
       length: '384p; H',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/51116768-final-fantasy-xv' },
-        { value: 'EN', url: 'https://www.goodreads.com/book/show/48565746-final-fantasy-xv' },
+        { value: 'EN', tip: 'English (Official; Fan Translation)', url: 'https://www.goodreads.com/book/show/48565746-final-fantasy-xv' },
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/123300882-final-fantasy-xv-el-amanecer-del-futuro' },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/54952399-final-fantasy-xv' },
       ],
@@ -571,7 +572,8 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
       ],
       platforms: [
         { key: 'book', name: 'Novel', paren: 'DuckDuckGo', search: 'duckduckgo' },
-        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_-The_Dawn_of_the_Future-#External_links' },
+        { key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_-The_Dawn_of_the_Future-#Story' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
     },

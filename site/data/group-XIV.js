@@ -298,13 +298,13 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
         title: 'Final Fantasy XIV: Chronicles of Light', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Chronicles_of_Light', titleDate: { start: '2019-03-09', end: '2025-10-07' },
         subtitle: 'Book',
         id: 'final-fantasy-xiv-chronicles-of-light-2019',
-        profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/series/final-fantasy-xiv',
+        profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/search?q=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2',
         length: '2 volumes',
         helpWanted: true,
         languages: [
-          { value: 'JA', native: true, url: 'https://store.jp.square-enix.com/estore/goods/search.aspx?keyword=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2%20Chronicles%20of%20Light&search=search' },
+          { value: 'JA', native: true, url: 'https://magazine.jp.square-enix.com/gamebooks/search?q=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2' },
           { value: 'EN', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/series/final-fantasy-xiv' },
-          { value: 'DE', url: 'https://altraverse.de/search?sSearch=final+fantasy+Chroniken+des+Li' },
+          { value: 'DE', url: 'https://altraverse.de/manga/final-fantasy-chroniken-des-lichts/' },
           { value: '…?' },
         ],
         ratings: [

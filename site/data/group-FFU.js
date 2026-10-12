@@ -123,6 +123,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     primary: {
       tags: ['Sequel', 'Manga', 'Script'],
       subtitle: 'Comic',
+      helpWanted: true,
       length: '32p comic, 120p script',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77412483' },
@@ -148,6 +149,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     primary: {
       tags: ['Sequel', 'Side-story', 'Web Novel'],
       subtitle: 'Book',
+      helpWanted: true,
       length: '7 chapters',
       languages: [
         { value: 'JA', native: true },

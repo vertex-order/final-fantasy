@@ -89,6 +89,9 @@ wikipedia.org (Information)
   - Row "Final Fantasy XI", May 2003: novels by Miyabi Hasegawa, released in Japanese, German and French
   - JP ISBN 978-4-7577-1424-3 is the Star Oath ISBN, not this book's; a series-level row with a copied ISBN
 
+ja.wikipedia.org (Information)
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — the Famitsu Bunko Final Fantasy XI series list: Al & Iris; ISBN-10 4-7577-1244-8; no release date in the pasted text (the manga is based on this novel) — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

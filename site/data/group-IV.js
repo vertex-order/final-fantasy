@@ -239,6 +239,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
     primary: {
       tags: ['Optional', 'Spin-off', 'Novel'],
       subtitle: 'Book',
+      helpWanted: true,
       length: [{ value: '2 volumes' }],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/50286956' },
@@ -406,6 +407,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
     primary: {
       tags: ['Optional', 'Spin-off', 'Novel'],
       subtitle: 'Book',
+      helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77476002' },
       ],

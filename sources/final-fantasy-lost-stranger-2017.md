@@ -108,6 +108,7 @@ yenpress.com (Information)
 - https://yenpress.com/series/final-fantasy-lost-stranger-serial — Yen Press's digital serial of the manga: latest listed is "Final Fantasy Lost Stranger, Chapter 80", 80 chapters as of 2026-10-10 (checked by user; not opened by me); the entry counts volumes, not chapters — accessed 2026-10-10 — archived: TODO
 
 finalfantasy.fandom.com (Information)
+- Recap choice (the user's call, 2026-10-11): the chapters category stays the recap platform; the dedicated page's `#Story` section is only chapter titles and release dates, with no summary, so it is not used
 - https://finalfantasy.fandom.com/wiki/Category:Final_Fantasy_Lost_Stranger_chapters — platforms* (fan chapter-by-chapter recap) — accessed not recorded — archived: TODO
   - Entry links the breezewiki mirror
 
@@ -133,6 +134,16 @@ ndlsearch.ndl.go.jp (Information)
 
 google.com/books (Information)
 - https://www.google.com/books/edition/Final_Fantasy_Lost_Stranger_13/8e760QEACAAJ — dates (DE vol 13 listed 2027, future-dated; not used for `titleDate`) — accessed 2026-10-09 — archived: TODO
+
+ja.wikipedia.org (Information)
+- https://ja.wikipedia.org/wiki/FINAL_FANTASY_LOST_STRANGER — dates* (presentation period July 12, 2017 - ongoing: the start of titleDate is the on-sale date of the August 2017 issue; confirms the infobox's July 12 over the chapter table's July 14), length* (14 volumes as of May 12, 2026; the entry's `14+`), magazine (Monthly Shonen Gangan), label (Gangan Comics SUPER), credits (original Haruki Mizuse (Hazuki Minase), drawn by Itsuki Kameya) — accessed 2026-10-11 (Firefox machine translation pasted by user) — archived: TODO
+- https://ja.wikipedia.org/wiki/%E6%9C%88%E5%88%8A%E5%B0%91%E5%B9%B4%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3 — dates ("FINAL FANTASY LOST STRANGER: 2017年8月号 -": serialized from the August 2017 issue, still running) — accessed 2026-10-11 (Firefox machine translation pasted by user)
+- https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%ACUP%21 — also published on the Manga UP! app (listed under works from other magazines) — accessed 2026-10-11 (Firefox machine translation pasted by user)
+
+breezewiki.com (Information)
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Lost_Stranger — dates (serialized in Monthly Shōnen Gangan starting with the July 2017 issue; infobox "Japan July 12, 2017 (Chapter 1)", while the chapter table says chapter 1 is **July 14, 2017**; chapter 80 is September 11, 2026, so still running; Gangan Comics volume 1 November 22, 2017), credits (Writer Hazuki Minase, Artist Itsuki Kameya), story (a Square Enix employee dies and is reborn in a Final Fantasy world), announced January 31, 2017 at the 30th Anniversary event, English online by Crunchyroll and Yen Press volumes from August 21, 2018 — accessed 2026-10-11 (infobox and chapter table pasted by user) — archived: TODO
+  - Serialization tier for `titleDate`: start July 12, 2017 (the August 2017 issue's on-sale date, confirmed by ja.wikipedia), end the latest chapter's date, chapter 80 on September 11, 2026 (the Fandom chapter table), with `ongoing`; this replaced NDL's volume 13 (2025-08), the volume tier, 2026-10-11. September 11, 2026 is a Friday, the day before the magazine's usual 12th, so it fits an on-sale date; the end moves with each new chapter
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — credits (author Hazuki Minase, art Itsuki Kameya), dates (1 November 22, 2017; 2 May 22, 2018; 3 January 22, 2019; 4 June 12, 2019; 5 January 11, 2020), ISBNs (978-4-7575-5520-4, -5719-2, -5975-2, -6155-7, -6463-3); the table rows; the manga has a dedicated page (cited below) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
 
 ## Surveyed
 

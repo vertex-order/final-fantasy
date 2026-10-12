@@ -585,7 +585,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
   },
   {
     mediaType: 'Book', chronoOrder: 500, recommendedOrder: 200,
-    title: 'The Maiden Who Travels The Planet', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Related_media', titleDate: '2005-09-09',
+    title: 'The Maiden Who Travels The Planet', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome', titleDate: '2005-09-09',
     by: 'Benny Matsuyama',
     mediaDesc: [
       ["A novella describing Aerith's journey through the Lifestream and the ending for the original ", { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, ' game. Divided into seven chapters, it follows Aerith as she encounters other spirits in the Lifestream.'],
@@ -595,27 +595,26 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/60295273-the-maiden-who-travels-the-planet' },
-        { value: 'EN', tip: 'English (fan translation)', url: 'https://www.goodreads.com/book/show/18139055-the-maiden-who-travels-the-planet' },
-        { value: 'FR', tip: 'French (fan translation)', url: 'https://web.archive.org/web/20080206220318/http://www.ffshores.com/The-Maiden-who-Travels-the-Planet.html' },
+        { value: 'EN', tip: 'English (fan translation)', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#External_links' },
+        { value: 'FR', tip: 'French (fan translation)', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#External_links' },
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/51949522-the-maiden-who-travels-the-planet' },
       ],
-      length: '45p;P',
-      profileUrl: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome',
+      length: '45p; P',
+      profileUrl: 'https://www.bent.co.jp/lineup_day/%e4%bd%9c%e5%93%81%e7%b4%b9%e4%bb%8b%e8%a9%b3%e7%b4%b0%e3%80%80um19/',
       ratings: [
         { score: '3.93', url: 'https://www.goodreads.com/book/show/18139055-the-maiden-who-travels-the-planet', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novella', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome' },
+        { key: 'book', name: 'Novella', jpTag: true, url: 'https://www.goodreads.com/book/show/60295273-the-maiden-who-travels-the-planet' },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#External_links' },
         { key: 'fan-audiobook', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#External_links' },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy VII The Maiden Who Travels The Planet)', noResults: true },
         { key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#Story' },
       ],
     },
   },
   {
     mediaType: 'Book', chronoOrder: 1000, recommendedOrder: 300,
-    title: 'Final Fantasy VII: On the Way to a Smile', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile', titleDate: '2005-09-05',
+    title: 'Final Fantasy VII: On the Way to a Smile', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_On_the_Way_to_a_Smile', titleDate: { start: '2005-09-05', end: '2009-04-16' },
     by: 'Kazushige Nojima',
     mediaDesc: [
       ['Seven short stories centered on the characters from ', { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, ' and meant to take place before ', { emLinkText: 'Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }, ' compiled into an omnibus collection book.'],
@@ -632,24 +631,25 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/50923178-final-fantasy-vii' },
       ],
       length: '204p; P',
-      profileUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_On_the_Way_to_a_Smile',
+      profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/books/10040',
       ratings: [
         { score: '3.94', url: 'https://www.goodreads.com/book/show/38644528-final-fantasy-vii', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_On_the_Way_to_a_Smile' },
+        { key: 'globe', name: 'Web Stories (Wayback; episodes 1-4)', jpTag: true, url: 'https://web.archive.org/web/20260609030029/http://www.square-enix.co.jp/dvd/ff7ac/ff7ac_novelmain.html' },
         { key: 'fan-translation', url: 'https://thelifestream.net/novels-novellas/' },
         {
           key: 'fan-audiobook',
           paren: 'Youtube',
           url: 'https://www.youtube.com/results?search_query=Final%20Fantasy%20VII%3A%20On%20the%20Way%20to%20a%20Smile%20audiobook',
         },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy VII On the Way to a Smile', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_On_the_Way_to_a_Smile#Content' },
       ],
     },
     alts: [
       {
-        title: 'On the Way to a Smile - Episode: Denzel', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#On_the_Way_to_a_Smile', titleDate: 2009,
+        title: 'On the Way to a Smile - Episode: Denzel', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/On_the_Way_to_a_Smile_-Episode:_Denzel-_Final_Fantasy_VII', titleDate: '2009-04-16',
         subtitle: 'Video',
         languages: [
           { value: 'JA', native: true },
@@ -675,10 +675,10 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
   },
   {
     mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 400,
-    title: 'Final Fantasy VII: The Kids Are Alright: A Turks Side Story', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', titleDate: '2011-01-01',
+    title: 'Final Fantasy VII: The Kids Are Alright: A Turks Side Story', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_Kids_Are_Alright:_A_Turks_Side_Story', titleDate: '2011-12-15',
     by: 'Kazushige Nojima',
     mediaDesc: [
-      ['Taking place a short time before ', { emLinkText: 'Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }],
+      ['Set a short time before ', { emLinkText: 'Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }, '. Follows Evan Townshend, a private detective in Edge, and the Turks.'],
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Novel'],
@@ -690,7 +690,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
         { value: 'DE', url: 'https://www.goodreads.com/book/show/60458824-final-fantasy-vii' },
       ],
       length: '228p; P',
-      profileUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_Kids_Are_Alright:_A_Turks_Side_Story',
+      profileUrl: 'https://web.archive.org/web/20180911030219/http://www.square-enix.co.jp/magazine/gamebooks/ff/7_turks_tkaa/index.html',
       ratings: [
         { score: '3.96', url: 'https://www.goodreads.com/book/show/40223502-final-fantasy-vii', key: 'goodreads' },
       ],
@@ -698,13 +698,12 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
         { key: 'book', name: 'Novel', url: 'https://yenpress.com/titles/9781975382360-final-fantasy-vii-the-kids-are-alright-a-turks-side-story' },
         {
           key: 'fan-translation',
-          url: 'https://thelifestream.net/lifestream-projects/translations/31877/tls-pesents-lateral-biography-turks-the-kids-are-alright-part-1/',
+          url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_Kids_Are_Alright:_A_Turks_Side_Story#External_links',
         },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         {
           key: 'fan-recap',
           name: 'Fan story recap (wiki)',
-          url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_Kids_Are_Alright:_A_Turks_Side_Story',
+          url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_Kids_Are_Alright:_A_Turks_Side_Story#Story',
         },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],

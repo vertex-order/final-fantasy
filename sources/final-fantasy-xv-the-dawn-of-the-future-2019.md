@@ -51,7 +51,8 @@ store.jp.square-enix.com (Information)
 - https://store.jp.square-enix.com/estore/g/g9784757561083/ — dates* (JA April 25, 2019), series (ファイナルファンタジーXV), genre (小説), price (1,650 yen), size (四六判 408 pages) — accessed 2026-10-10 — archived: TODO
 
 finalfantasy.fandom.com (Information)
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_-The_Dawn_of_the_Future- — title link*, credits* (Jun Eishima; the wiki says it's the pen name of Emi Nagashima), story (a novel follow-up to XV), dates (JA April 25, 2019; EN digital June 23, 2020; EN print July 14, 2020), publisher (SE-Mook / Square Enix Books), translator (Stephen Kohler), length (408 p JA, 400 p EN; publisher says 384) — accessed 2026-10-10 — archived: TODO
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_-The_Dawn_of_the_Future-#External_links — platforms* (fan translation), languages* (EN, tip "Official; Fan Translation"): the wiki's External links list English fan translations (per the user, 2026-10-11; the section's contents were not seen by me, so the translation pages themselves aren't logged here); the entry links this stable wiki page, so no extra lines are needed (docs/sources.md) — accessed 2026-10-11
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_-The_Dawn_of_the_Future- — title link*, credits* (Jun Eishima; the wiki says it's the pen name of Emi Nagashima; its intro: written "based on a draft by the Final Fantasy XV development team", the novel "retells the events of the cancelled downloadable content tetralogy of the same name" — re-read 2026-10-11, page text pasted by user), story (a novel follow-up to XV), dates (JA April 25, 2019; EN digital June 23, 2020; EN print July 14, 2020), publisher (SE-Mook / Square Enix Books), translator (Stephen Kohler), length (408 p JA, 400 p EN; publisher says 384) — accessed 2026-10-10 — archived: TODO
   - The wiki gives the Japanese title as ファイナルファンタジーＸＶ 未来への夜明け (Mirai e no Yoake); the publisher's pages use 小説 FINAL FANTASY XV -The Dawn Of The Future-
 
 ndlsearch.ndl.go.jp (Information)
@@ -68,6 +69,16 @@ goodreads.com (Information)
 wikipedia.org (Information)
 - https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media — story, platforms — accessed 2026-09-22 — archived: TODO
 
+breezewiki.com (Information)
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits (Jun Eishima), dates (April 25, 2019), ISBN 978-4-7575-6108-3; the table row, and the book has a dedicated page (already cited above) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
+
 ## Surveyed
+
+## Framing choices
+
+- Description leads with the cancelled DLC (the wiki intro: the novel "retells the events of the cancelled downloadable content tetralogy"), kept short — the user's call, 2026-10-11
+- `by` stays a bare name, not `adapted`: the DLC was never released, so the novel is the form the story was released in
+- `length` stays the English hardcover (`384p; H`)
+- Recap platform: the wiki's `#Story` section (replaces a bare YouTube search)
 
 ## Decisions

@@ -383,6 +383,8 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 1000
     primary: {
       tags: ['Optional', 'Sequel', 'Novel'],
       subtitle: 'Book',
+      profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/books/10053',
+      length: '242p; H',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/23978849-final-fantasy-x-2-5-final-fantasy-x-2-5' },
         { value: 'EN', tip: 'English (Official; Fan Translation)', url: 'https://www.goodreads.com/book/show/56382146-final-fantasy-x-2-5-price-of-eternity' },

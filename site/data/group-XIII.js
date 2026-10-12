@@ -81,7 +81,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     by: 'Benny Matsuyama',
     mediaDesc: [
       [{ text: "While the Pulse l'Cie fight to defy their fate and save Cocoon, three citizens—an undercover reporter, a university student, and a pilot—secretly have unique parallel journeys. The story follows them as they stumble upon an ancient plot to destroy Cocoon from within, and their paths eventually converge in a united endeavor to save the floating world." }],
-      [{ text: "Released as " }, { emText: 'Final Fantasy XIII Gaiden Shōsetsu: Yumemiru Mayu, Akatsuki ni Otsu' }, { text: '. May also be known as ' }, { emText: 'Final Fantasy XIII Side Story: A Dreaming Cocoon Falls into the Dawn' }, { text: '. Contained in the ' }, { emText: 'Final Fantasy XIII Ultimania Omega' }, { text: ' book.' }],
+      [{ text: "Released as " }, { emText: 'ファイナルファンタジーXIII 外伝小説 夢見る繭、暁に墜つ' }, { text: ' (' }, { emText: 'Final Fantasy XIII Gaiden Shōsetsu: Yumemiru Mayu, Akatsuki ni Otsu' }, { text: '). May also be known as ' }, { emText: 'Final Fantasy XIII Side Story: A Dreaming Cocoon Falls into the Dawn' }, { text: '. Contained in the ' }, { emText: 'Final Fantasy XIII Ultimania Omega' }, { text: ' book.' }],
     ],
     primary: {
       tags: ['Optional', 'Side-story', 'Novella'],
@@ -382,22 +382,23 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
     alts: [
       {
-        tags: ['Optional', 'Radio drama'],
-        title: 'Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Alpha', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD', titleDate: 2010,
-        subtitle: 'Radio Drama',
-        length: '7 chapters',
+        tags: ['Optional', 'Audio drama'],
+        title: 'Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD', titleDate: { start: '2010-09-15', end: '2010-11-17' },
+        subtitle: 'Audio Drama',
+        length: '2 volumes',
         languages: [
-          { value: 'JA', native: true },
-          { value: 'EN', tip: 'English (fan translation)' },
+          { value: 'JA', native: true, url: 'http://web.archive.org/web/20180509131833/http://www.square-enix.co.jp:80/music/sem/page/fabula/ff13/drama/' },
+          { value: 'EN', tip: 'English (fan translation)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20audio%20drama' },
         ],
-        profileUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD',
+        profileUrl: 'http://web.archive.org/web/20180509131833/http://www.square-enix.co.jp:80/music/sem/page/fabula/ff13/drama/',
         platforms: [
-          { key: 'compact-disc', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD' },
-          { key: 'fan-audiobook', searchSuffix: 'drama CD', search: 'youtube', searchTitle: 'final fantasy XIII episode zero promise' },
+          { key: 'compact-disc', paren: 'Alpha', jpTag: true, url: 'http://web.archive.org/web/20140322212736/http://store.jp.square-enix.com/item/music/SQEX-10199' },
+          { key: 'compact-disc', paren: 'Omega', jpTag: true, url: 'http://web.archive.org/web/20140322212710/http://store.jp.square-enix.com/detail/SQEX-10210' },
+          { key: 'fan-audiobook', searchSuffix: 'audio drama', search: 'youtube', searchTitle: 'final fantasy XIII episode zero promise' },
           { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'final fantasy XIII episode zero promise', noResults: true },
         ],
         versionDesc: [
-          ['Features Part 1 of ', { emLinkText: 'XIII: Episode Zero: Promise (2009)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-episode-zero-promise-2009' }, ' as a radio drama. Some editions contain bonus stories ', { emText: 'Real -Reality-' }, ' and ', { emText: 'Departure -Starting-' }, '.'],
+          ['Audio drama of the novellas, on two discs: ', { emText: 'Alpha' }, ' (', { emText: 'Stranger' }, ', ', { emText: 'Treasure' }, ', ', { emText: 'Search' }, ', plus the bonus story ', { emText: 'Real -Reality-' }, ') and ', { emText: 'Omega' }, ' (', { emText: 'Friends' }, ', ', { emText: 'Present' }, ', ', { emText: 'Tomorrow' }, ', plus ', { emText: 'Departure -Starting-' }, ').'],
         ],
       },
     ],

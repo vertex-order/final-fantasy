@@ -108,10 +108,10 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
   },
   {
     mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 150,
-    title: 'Final Fantasy XII ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_(manga)', titleDate: { start: '2006-12-22', end: '2009-08-22' },
+    title: 'Final Fantasy XII ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_(manga)', titleDate: { start: '2006-06', end: '2009-06-25' },
     by: [{ role: 'adapted', names: 'Gin Amou' }],
     mediaDesc: [
-      [{ text: 'A manga adaptation of ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: ". The Archadian Empire's invasion of neighboring lands and the death of the Dalmascan king prompt Princess Ashe, sole surviving heir to the Dalmascan throne, to take up arms against the invaders." }],
+      [{ text: 'A manga adaptation of ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: ' that begins partway through the game, with flashbacks adding new details about the characters and a few details changed from the game.' }],
     ],
     primary: {
       tags: ['Optional', 'Manga'],
@@ -197,7 +197,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
     alts: [
       {
         title: 'Final Fantasy Tactics Advance Radio Edition', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance_Radio_Edition', titleDate: 2003,
-        subtitle: 'Radio Drama',
+        subtitle: 'Audio Drama',
         languages: [
           { value: 'JA', native: true },
           { value: 'EN', tip: 'English (fan translation)' },
@@ -209,7 +209,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
           { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         ],
         versionDesc: [
-          [{ text: 'Radio drama adaptation of ' }, { emLinkText: 'Tactics Advance (2003)', emLinkUrl: '#entry-XII-final-fantasy-tactics-advance-2003' }, { text: '. The plot is only slightly different.' }],
+          [{ text: 'Audio drama adaptation of ' }, { emLinkText: 'Tactics Advance (2003)', emLinkUrl: '#entry-XII-final-fantasy-tactics-advance-2003' }, { text: '. The plot is only slightly different.' }],
         ],
       },
     ],

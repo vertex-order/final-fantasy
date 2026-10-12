@@ -36,4 +36,10 @@ goodreads.com (Information)
 - https://www.goodreads.com/book/show/28466281 — languages* (JA), book platform* (Novella link; English interface and retailer links for the Japanese book), format* (511 pages, Tankobon Softcover; platform stays Novella) — accessed 2026-10-09
   - Goodreads rates the Ultimania Omega guidebook as a whole, so the score wouldn't apply to just this story; the entry has no `ratings`
 
+## Choices (2026-10-11)
+
+- The "Released as" title gives the Japanese script first, ファイナルファンタジーXIII 外伝小説 夢見る繭、暁に墜つ (the title the Square Enix page and the wiki's infobox use), with the romanization in parentheses; the user's call
+- The audiobook row stays a YouTube search marked no results: no fan audiobook has been found for this novella, and the entry needs a sourced link before it changes (compare The Maiden Who Travels The Planet, whose wiki page lists one)
+- The recap is the wiki's `#Story` (a real summary, per the user); `length` stays `6 chapters`
+
 ## Decisions

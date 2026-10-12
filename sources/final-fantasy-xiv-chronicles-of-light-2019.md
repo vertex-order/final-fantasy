@@ -90,6 +90,7 @@ goodreads.com (Information)
 - https://www.goodreads.com/book/show/45835237-final-fantasy-xiv-chronicles-of-light -- format* (263 pages, Tankobon Hardcover; platform stays Short Stories (a collection)) -- accessed 2026-10-09
 
 breezewiki.com (Information)
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits ("Various"), dates (March 9, 2019), ISBN 978-4-7575-6035-2; the table row, and the book has a dedicated page (already cited above) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
 - https://breezewiki.com/finalfantasy/wiki/Side_Stories#List_of_stories -- platforms* (fan story summaries; the same page the Side Stories entry uses) -- accessed 2026-10-10
 
 youtube.com (Information)
@@ -105,5 +106,11 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Goodreads title search "final fantasy Chronicles of Light" -- lists the vol 1 JA page (book 45835237, grouped with 5 editions: 60550731, 45701588 (EN), 61762479, 45499559), the vol 2 pages (236916972, 236918646, 53755205, 252304660) and a few unrelated books; none of the grouped editions is the German one -- shallow: too mixed to use as a language link
 - [Goodreads 241024438](https://www.goodreads.com/book/show/241024438) -- "Chronicles of Light: A Final Fantasy XIV Tale", Square Enix, Unknown Binding, ASIN B0FPBGTC89 -- empty: a placeholder with no details; can't place it as an edition of either volume
 - Altraverse site (altraverse.de) -- first looked at with an unrelated search that found nothing; its own search later found both volumes (see Sources) -- used
+
+## Links and dates (2026-10-11)
+
+- JA language link and `profileUrl`: the Square Enix Game Books search for 光の回顧録, https://magazine.jp.square-enix.com/gamebooks/search?q=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2, which lists both volumes: https://magazine.jp.square-enix.com/gamebooks/books/10088 (volume 1, 小説 FINAL FANTASY XIV 光の回顧録 Chronicles of Light, **発売日 2019年03月09日**, ISBN 9784757560352) and https://magazine.jp.square-enix.com/gamebooks/books/10497 (Volume II, 発売日 2025年10月07日, 1C398ページ, ISBN 9784757599826) — fetched
+- The titleDate start 2019-03-09 is also the print book's release date per the publisher (the same day as the ebook), so no change was needed; an earlier note called it the ebook's date only
+- DE language link: Altraverse's series page, https://altraverse.de/manga/final-fantasy-chroniken-des-lichts/ (Band 01, 25 stories, and Band 02, "30 neue Kurzgeschichten" from Shadowbringers to Dawntrail), replacing a search with a truncated query — fetched
 
 ## Decisions
