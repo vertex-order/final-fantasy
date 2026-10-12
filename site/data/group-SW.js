@@ -54,6 +54,7 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 950
       languages: [
         { value: 'EN', native: true, url: 'https://www.goodreads.com/book/show/2018984.Final_Fantasy' },
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/42405967-final-fantasy' },
+        { value: '…?' },
       ],
       ratings: [
         { score: '3.31', url: 'https://www.goodreads.com/book/show/2018984.Final_Fantasy', key: 'goodreads' },

@@ -80,7 +80,9 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
       profileUrl: 'http://web.archive.org/web/20210411175537/https://www.ganganonline.com/contents/ffcc/',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77128941' },
+        { value: '…?' },
       ],
+      helpWanted: true,
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77128941', key: 'goodreads' },
       ],
@@ -106,6 +108,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, recommendedOrder: 12
       length: '351p; P',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77092424' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77092424', key: 'goodreads' },

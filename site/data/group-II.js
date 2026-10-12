@@ -211,6 +211,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       length: '283p',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/102713430' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/102713430', key: 'goodreads' },
@@ -234,6 +235,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true },
+        { value: '…?' },
       ],
       helpWanted: true,
       platforms: [
@@ -256,6 +258,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
       length: '~60p',
       languages: [
         { value: 'JA', native: true },
+        { value: '…?' },
       ],
       helpWanted: true,
       platforms: [

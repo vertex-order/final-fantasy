@@ -391,6 +391,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
       helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/72126545-xiv' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/72126545-xiv', key: 'goodreads' },

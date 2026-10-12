@@ -214,6 +214,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '3 issues',
       languages: [
         { value: 'JA', native: true },
+        { value: '…?' },
       ],
       platforms: [
         { key: 'book', name: 'Manhwa', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~#External_links' },
@@ -651,6 +652,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '287p;A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77163778' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77163778', key: 'goodreads' },
@@ -677,6 +679,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '287p;A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77185190' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77185190', key: 'goodreads' },
@@ -703,6 +706,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '251p;A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77208504' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77208504', key: 'goodreads' },
@@ -729,6 +733,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '254p;A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77232781' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77232781', key: 'goodreads' },
@@ -912,6 +917,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '313p;A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77438179' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77438179', key: 'goodreads' },
@@ -938,6 +944,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '255p;A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77778217' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77778217', key: 'goodreads' },
@@ -964,6 +971,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '255p;A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77439898' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77439898', key: 'goodreads' },
@@ -990,6 +998,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '255p;A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77456526' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77456526', key: 'goodreads' },
@@ -1006,7 +1015,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     mediaType: 'Book', chronoOrder: 4600, recommendedOrder: 634,
     title: 'Final Fantasy XI ~Anthology~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-02',
     mediaDesc: [
-      'Anthology of three short stories. Full title: "An Anthology of Short Stories: A Great Adventure for Everyone!!" Released as アンソロジー短編集みんなで大冒険！！.',
+      [{ text: 'Anthology of three short stories. Released as アンソロジー短編集みんなで大冒険！！. May also be known as ' }, { emText: 'An Anthology of Short Stories: A Great Adventure for Everyone!!' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel', 'Short Stories'],
@@ -1015,6 +1024,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '311p;A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77470246' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77470246', key: 'goodreads' },
@@ -1041,6 +1051,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '282p;A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77328971' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77328971', key: 'goodreads' },
@@ -1067,6 +1078,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '247p;A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77348591' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77348591', key: 'goodreads' },
@@ -1093,6 +1105,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '283p;A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77379192' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77379192', key: 'goodreads' },
@@ -1118,6 +1131,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/28453696' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/28453696', key: 'goodreads' },
@@ -1144,6 +1158,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '287p;B6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/69235773' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/69235773', key: 'goodreads' },
@@ -1169,6 +1184,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       helpWanted: true,
       languages: [
         { value: 'JA', native: true },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', key: 'goodreads' },
@@ -1209,6 +1225,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
+        { value: '…?' },
       ],
       platforms: [
         { key: 'book', name: 'Manga', url: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha#External_links' },
@@ -1230,6 +1247,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '96p;B5',
       languages: [
         { value: 'JA', native: true },
+        { value: '…?' },
       ],
       platforms: [
         { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Minstrel of Strange Tales: Replica Script', searchQualifier: 'novel' },
@@ -1252,6 +1270,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
       length: '96p;B5',
       languages: [
         { value: 'JA', native: true },
+        { value: '…?' },
       ],
       platforms: [
         { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Minstrel of Fantasies: Replica Script', searchQualifier: 'novel' },

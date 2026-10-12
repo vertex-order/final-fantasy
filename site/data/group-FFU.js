@@ -101,6 +101,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
       helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/76924204' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/76924204', key: 'goodreads' },
@@ -127,6 +128,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
       length: '32p comic, 120p script',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77412483' },
+        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77412483', key: 'goodreads' },
@@ -172,9 +174,11 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     primary: {
       tags: ['Sequel', 'Audio drama'],
       subtitle: 'Audio Drama',
+      helpWanted: true,
       length: '39:48',
       languages: [
         { value: 'JA', native: true },
+        { value: '…?' },
       ],
       platforms: [
         { key: 'compact-disc', jpTag: true },
@@ -193,9 +197,11 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     primary: {
       tags: ['Optional', 'Prequel', 'Side-story', 'Flashback', 'Drama'],
       subtitle: 'Audio Drama',
+      helpWanted: true,
       length: '~18min',
       languages: [
         { value: 'JA', native: true },
+        { value: '…?' },
       ],
       platforms: [
         { key: 'compact-disc', jpTag: true },

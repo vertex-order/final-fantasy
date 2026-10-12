@@ -171,15 +171,16 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
         subtitle: 'Book',
         helpWanted: true,
         languages: [
-          { value: 'EN', native: true, url: 'https://www.goodreads.com/book/show/33232393-final-fantasy-xv-prologue-parting-ways' },
+          { value: 'EN', native: true, url: 'https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf' },
           { value: 'IT', url: 'https://www.goodreads.com/book/show/60437037-final-fantasy-xv-prologo--strade-che-si-dividono-' },
+          { value: '…?' },
         ],
         length: '48p',
         ratings: [
           { score: '3.76', url: 'https://www.goodreads.com/book/show/33232393-final-fantasy-xv-prologue-parting-ways', key: 'goodreads' },
         ],
         platforms: [
-          { key: 'book', name: 'E-book (PDF)', url: 'https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf' },
+          { key: 'globe', name: 'E-book (PDF)', url: 'https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf' },
         ],
         versionDesc: [
           'An official English translation of the Japan-only audio drama as a free web novel.',
