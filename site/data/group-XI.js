@@ -174,7 +174,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       [
-        { text: 'Al, an inexperienced warrior, is led into the shadows of evil lurking in the land after a fateful encounter with a Galka knight and a young white mage. Book 1 in the series, released as 〜祈りの風〜. Also known as ' },
+        { text: 'Al, an inexperienced warrior, is led into the shadows of evil lurking in the land after a fateful encounter with a Galka knight and a young white mage. Book 1 in the series, released as 〜祈りの風〜, also known as ' },
         { emText: 'The Song of the Storm' },
         { text: '.' },
       ],
@@ -231,7 +231,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~The Star Oath~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-04-19',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      "Rookie warrior Alfred (Al) and his companions, after defeating the tank at the Orc Fortress of Gelsba, head to Windurst with its blueprints. Sensing an evil dark shadow lurking in Vana'diel, Al and his group continue their journey. Book 2 in the series, released as 〜星の誓い〜. May also be known as ~Oath of the Stars~.",
+      "Rookie warrior Alfred (Al) and his companions, after defeating the tank at the Orc Fortress of Gelsba, head to Windurst with its blueprints. Sensing an evil dark shadow lurking in Vana'diel, Al and his group continue their journey. Book 2 in the series, released as 〜星の誓い〜, also known as ~Oath of the Stars~.",
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -259,7 +259,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~Winds of Prayer~ (Manga)', titleUrl: "https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Vana'diel", titleDate: { start: '2008-09', end: '2010-03' },
     by: [{ role: 'adapted', names: 'You Satsuki' }],
     mediaDesc: [
-      [{ text: 'Manga adaptation of ' }, { emLinkText: '~Winds of Prayer~ (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-winds-of-prayer-novel-2002' }, { text: '. Released as 〜祈りの風〜. Also known as ' }, { emText: 'Prayer of the Wind' }, { text: ', ' }, { emText: 'Wind of Prayer' }, { text: ' and ' }, { emText: 'Wind of Pray' }, { text: '.' }],
+      [{ text: 'Manga adaptation of ' }, { emLinkText: '~Winds of Prayer~ (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-winds-of-prayer-novel-2002' }, { text: '. Released as 〜祈りの風〜, also known as ' }, { emText: 'Prayer of the Wind' }, { text: ', ' }, { emText: 'Wind of Prayer' }, { text: ' and ' }, { emText: 'Wind of Pray' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Manga'],
@@ -286,7 +286,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~The Eternal Bond~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-06-20',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      'With the party scattered on their own errands—Al and Iris waiting in Bastok, Peta in Windurst, Jed and Shera off to break a curse in Jeuno—Al and the others are suddenly called back to Jeuno for a new mission. Book 3 in the series, released as 〜永遠の絆〜. May also be known as ~The Eternal Link~ or ~The Covenant of Eternity~.',
+      'With the party scattered on their own errands—Al and Iris waiting in Bastok, Peta in Windurst, Jed and Shera off to break a curse in Jeuno—Al and the others are suddenly called back to Jeuno for a new mission. Book 3 in the series, released as 〜永遠の絆〜, also known as ~The Eternal Link~ or ~The Covenant of Eternity~.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -539,7 +539,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Continues the series of illustrated short stories. Vol.1: opens on a shocking turn of events involving the character Peta. Vol.2: Peta is in danger, and Al and Iris set sail for Nashmo to rescue her.',
-      'Books 20–21 in the series, released as 〜賢者の遺言〜㊤㊦. May also be known as ~The Testament of the Sages~.',
+      'Books 20–21 in the series, released as 〜賢者の遺言〜㊤㊦, also known as ~The Testament of the Sages~.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -642,7 +642,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: "Final Fantasy XI ~The Star's Call~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-01-04',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      'Chance, the lost chocobo found by Al and Iris and raised in Sandoria, was actually a victim of a sinister plot. To save Chance, the pair return to Aht Urhgan where their comrades await. Book 24 in the series, released as 〜星のいざない〜. May also be known as ~Starfall~.',
+      'Chance, the lost chocobo found by Al and Iris and raised in Sandoria, was actually a victim of a sinister plot. To save Chance, the pair return to Aht Urhgan where their comrades await. Book 24 in the series, released as 〜星のいざない〜, also known as ~Starfall~.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -697,7 +697,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Vol.1: one day, a stranger visits Doug, Rin, and the others as they search for Tikki's mother. She delivers a letter from Tikki's mother, written twenty years ago. Vol.2: responding to a rescue request from Tikki's mother, what awaited them at the designated location was the 'Forbidden Mouth'. Through it, Dag and his companions were transported to the past of Vana'diel. Vol.3: while searching for Tikki's mother, Euphelin, Doug and Lynn's party are transported to the past of Vana'diel amid the Crystal War.",
-      'Books 26–28 in the series, released as 〜彼方からの伝言〜①②③. May also be known as ~Messages from Afar~.',
+      'Books 26–28 in the series, released as 〜彼方からの伝言〜①②③, also known as ~Messages from Afar~.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
@@ -723,7 +723,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     mediaType: 'Book', chronoOrder: 4600, narrativeOrder: 634, narrativeSection: 'Novels',
     title: 'Final Fantasy XI ~Anthology~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-02',
     mediaDesc: [
-      [{ text: 'Anthology of three short stories. Book 29 in the series, released as アンソロジー短編集みんなで大冒険！！. May also be known as ' }, { emText: 'An Anthology of Short Stories: A Great Adventure for Everyone!!' }, { text: '.' }],
+      [{ text: 'Anthology of three short stories. Book 29 in the series, released as アンソロジー短編集みんなで大冒険！！, also known as ' }, { emText: 'An Anthology of Short Stories: A Great Adventure for Everyone!!' }, { text: '.' }],
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel', 'Short Stories'],
@@ -777,7 +777,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     mediaType: 'Comic', chronoOrder: 4950, narrativeOrder: 638, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Lightning Brigade Encyclopedia~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Lightning_Brigade', titleDate: '2013-03',
     mediaDesc: [
-      'Featuring stories and four original comics. Released as 電撃の旅団公式十年事典. May also be known as Final Fantasy XI ~Lightning Brigade Official Decennial Encyclopedia~.',
+      'Featuring stories and four original comics. Released as 電撃の旅団公式十年事典, also known as Final Fantasy XI ~Lightning Brigade Official Decennial Encyclopedia~.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Articles', 'Manga', 'Short Stories'],
@@ -804,7 +804,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~Songs of the Endless Earth~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books', titleDate: '2015-12',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      "A month after the crisis of Escafication, Vana'diel was slowly returning to normal. A sailing ship drifting along the South Ocean route encounters a colossal monster, marking the start of a new incident across Vana'diel, Tavnazia, and Reisenjima. Released as 〜終わりなき大地の唄〜. May also be known as ~The Song of the Endless Land~.",
+      "A month after the crisis of Escafication, Vana'diel was slowly returning to normal. A sailing ship drifting along the South Ocean route encounters a colossal monster, marking the start of a new incident across Vana'diel, Tavnazia, and Reisenjima. Released as 〜終わりなき大地の唄〜, also known as ~The Song of the Endless Land~.",
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Novel'],
@@ -893,7 +893,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     mediaType: 'Book', chronoOrder: 5160, narrativeOrder: 642, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Minstrel of Strange Tales: Replica Script~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2024-02',
     mediaDesc: [
-      'A replica script for the reading drama\'s five strange tales: "Mimiroon\'s Sparkling Great Adventure", "Go For It! Allied Forces of Altana: Extreme Survival", "Seaside Serpent Taro", "A Small Gift For A Small Friend", and "Black Night Butterfly". Released as 朗読劇 : 異聞のウタイビト : 複製台本. May also be known as Final Fantasy XI ~Reading Drama: Minstrel of Strange Tales: Replica Script~.',
+      'A replica script for the reading drama\'s five strange tales: "Mimiroon\'s Sparkling Great Adventure", "Go For It! Allied Forces of Altana: Extreme Survival", "Seaside Serpent Taro", "A Small Gift For A Small Friend", and "Black Night Butterfly". Released as 朗読劇 : 異聞のウタイビト : 複製台本, also known as Final Fantasy XI ~Reading Drama: Minstrel of Strange Tales: Replica Script~.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Novel'],
@@ -916,7 +916,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     mediaType: 'Book', chronoOrder: 5170, narrativeOrder: 643, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Minstrel of Fantasies: Replica Script~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2025-03',
     mediaDesc: [
-      'A replica script for the reading drama\'s stories of love and reunion across time and space: "Temple of the Heart\'s Secret" (a Star Sibyl story), "Girl of the Underworld" (an Aphmau story), "Blue Mage Blues" (a Blue Mage story), and "Memoirs of the Many-Headed Hydra -Memories of Heroes-" (a Hydra Squadron story). Released as 朗読劇 : 夢幻のウタイビト : 複製台本. May also be known as Final Fantasy XI ~Reading Drama: Minstrel of Fantasies: Replica Script~.',
+      'A replica script for the reading drama\'s stories of love and reunion across time and space: "Temple of the Heart\'s Secret" (a Star Sibyl story), "Girl of the Underworld" (an Aphmau story), "Blue Mage Blues" (a Blue Mage story), and "Memoirs of the Many-Headed Hydra -Memories of Heroes-" (a Hydra Squadron story). Released as 朗読劇 : 夢幻のウタイビト : 複製台本, also known as Final Fantasy XI ~Reading Drama: Minstrel of Fantasies: Replica Script~.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Novel'],
