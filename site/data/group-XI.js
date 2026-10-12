@@ -309,15 +309,16 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   },
   {
     mediaType: 'Book', chronoOrder: 1300, recommendedOrder: 608,
-    title: 'Final Fantasy XI ~The Sword of Protection~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-09-20',
+    title: 'Final Fantasy XI ~The Sword of Protection~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2003-09-20', end: '2003-12-20' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      "An adventure unfolds in Gilgamesh where one mystery leads to another. Released as 〜護りの剣〜①. We're not sure which volume's plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back. Book #4 in the French/German translated release order.",
+      'A trilogy following the young Hume adventurer Douglas and his companions. Vol.1: an adventure unfolds in Gilgamesh where one mystery leads to another. Vol.2: Dak sets out on a journey with three companions after his childhood friend and foster parent goes missing, and encounters Rin, who has come into possession of a dragon child, and her companions. Vol.3: the concluding volume, following Douglas and his companions to the Uggalepih Temple.',
+      "Released as 〜護りの剣〜①②③. We're not sure which volume's plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back. Books #4 to #6 in the French/German translated release order.",
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
-      length: '255p;A6',
+      length: '3 volumes',
       helpWanted: true,
       languages: [
         { value: 'JA', native: true },
@@ -328,63 +329,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: '3.58', url: 'https://www.goodreads.com/book/show/43464339-final-fantasy-xi-tome-4', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Sword of Protection Vol.1', searchQualifier: 'light novel' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Sword of Protection', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 1400, recommendedOrder: 609,
-    title: 'Final Fantasy XI ~The Sword of Protection~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-12',
-    by: 'Miyabi Hasegawa',
-    mediaDesc: [
-      "Dak sets out on a journey with three companions after his childhood friend and foster parent goes missing, and encounters Rin, who has come into possession of a dragon child, and her companions. Released as 〜護りの剣〜②. We're not sure which volume's plot summary belongs to Vol.1 vs Vol.2 — this may need swapping back. Book #5 in the French/German translated release order.",
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
-      subtitle: 'Book',
-      length: '254p;A6',
-      helpWanted: true,
-      languages: [
-        { value: 'JA', native: true },
-        { value: 'FR', url: 'https://www.goodreads.com/book/show/43464361-final-fantasy-xi-tome-5' },
-        { value: 'DE', url: 'https://www.goodreads.com/book/show/4466884-final-fantasy-xi' },
-      ],
-      ratings: [
-        { score: '3.30', url: 'https://www.goodreads.com/book/show/43464361-final-fantasy-xi-tome-5', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Sword of Protection Vol.2', searchQualifier: 'light novel' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Sword of Protection', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 610,
-    title: 'Final Fantasy XI ~The Sword of Protection~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-12-20',
-    by: 'Miyabi Hasegawa',
-    mediaDesc: [
-      'The concluding volume of the Sword of Protection trilogy, following Douglas and his companions to the Uggalepih Temple. Released as 〜護りの剣〜③. Book #6 in the French/German translated release order.',
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
-      subtitle: 'Book',
-      helpWanted: true,
-      length: '255p;A6',
-      languages: [
-        { value: 'JA', native: true },
-        { value: 'FR', url: 'https://www.goodreads.com/book/show/78946739-final-fantasy-xi-on-line-tome-6' },
-        { value: 'DE', url: 'https://www.goodreads.com/book/show/4466885-final-fantasy-xi' },
-      ],
-      ratings: [
-        { score: '3.56', url: 'https://www.goodreads.com/book/show/78946739-final-fantasy-xi-on-line-tome-6', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Sword of Protection Vol.3', searchQualifier: 'light novel' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Sword of Protection', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Sword of Protection', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -421,15 +366,16 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   },
   {
     mediaType: 'Book', chronoOrder: 1700, recommendedOrder: 612,
-    title: 'Final Fantasy XI ~Pride of the Knight~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-07-20',
+    title: 'Final Fantasy XI ~Pride of the Knight~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2004-07-20', end: '2004-12' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      'The first volume of the Pride of the Knight trilogy. Doug, Lynn, and their companions travel to Bastok after Peta hears from her old friend, the Galka knight Max. Released as 〜騎士の誇り〜①. Book #8 in the French/German translated release order.',
+      "A trilogy. Vol.1: Doug, Lynn, and their companions travel to Bastok after Peta hears from her old friend, the Galka knight Max. Vol.2: continues the group's adventures in and around Bastok. Vol.3: the third and final volume.",
+      'Released as 〜騎士の誇り〜①②③. Books #8 to #10 in the French/German translated release order.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
-      length: '249p;A6',
+      length: '3 volumes',
       helpWanted: true,
       languages: [
         { value: 'JA', native: true },
@@ -440,63 +386,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/4466881-final-fantasy-xi', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Pride of the Knight Vol.1', searchQualifier: 'light novel' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Pride of the Knight', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 1950, recommendedOrder: 613,
-    title: 'Final Fantasy XI ~Pride of the Knight~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-09-18',
-    by: 'Miyabi Hasegawa',
-    mediaDesc: [
-      "The second volume of the Pride of the Knight trilogy, continuing the group's adventures in and around Bastok. Released as 〜騎士の誇り〜②. Book #9 in the French/German translated release order.",
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
-      subtitle: 'Book',
-      length: '250p;A6',
-      helpWanted: true,
-      languages: [
-        { value: 'JA', native: true },
-        { value: 'DE', url: 'https://www.goodreads.com/book/show/4466889-final-fantasy-xi' },
-        { value: '…?' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/4466889-final-fantasy-xi', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Pride of the Knight Vol.2', searchQualifier: 'light novel' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Pride of the Knight', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 2100, recommendedOrder: 614,
-    title: 'Final Fantasy XI ~Pride of the Knight~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-12',
-    by: 'Miyabi Hasegawa',
-    mediaDesc: [
-      'The third and final volume of the Pride of the Knight trilogy. Released as 〜騎士の誇り〜③. Book #10 in the French/German translated release order.',
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
-      subtitle: 'Book',
-      length: '250p;A6',
-      helpWanted: true,
-      languages: [
-        { value: 'JA', native: true },
-        { value: 'DE', url: 'https://www.goodreads.com/book/show/4466890-final-fantasy-xi' },
-        { value: '…?' },
-      ],
-      ratings: [
-        { score: '3.80', url: 'https://www.goodreads.com/book/show/4466890-final-fantasy-xi', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Pride of the Knight Vol.3', searchQualifier: 'light novel' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Pride of the Knight', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Pride of the Knight', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -532,15 +422,16 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   },
   {
     mediaType: 'Book', chronoOrder: 2300, recommendedOrder: 616,
-    title: 'Final Fantasy XI ~A Distant Wish~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-06-20',
+    title: 'Final Fantasy XI ~A Distant Wish~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2005-06-20', end: '2005-08-29' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      'Al\'s message cuts off with the words "it\'s darkness, a vortex of darkness..." and Iris, Shera, and Peta immediately set out to find Al and Jed. Released as 〜遠い願い〜㊤.',
+      "Vol.1: Al's message cuts off with the words \"it's darkness, a vortex of darkness...\" and Iris, Shera, and Peta immediately set out to find Al and Jed. Vol.2: Al and Jed are swept into a sudden vortex of darkness. Then, recklessly, Bata and Chit leap into the vortex themselves, but it vanishes immediately afterward. Left behind, Iris and Shera learn that the dark vortex seems to connect to Tavnazia, a land thought to have been destroyed long ago, and resolve to pursue the others.",
+      'Released as 〜遠い願い〜㊤㊦.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
-      length: '249p;A6',
+      length: '2 volumes',
       helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77131146' },
@@ -550,34 +441,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77131146', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Distant Wish Vol.1', searchQualifier: 'light novel' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI A Distant Wish', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 2400, recommendedOrder: 617,
-    title: 'Final Fantasy XI ~A Distant Wish~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-08-29',
-    by: 'Miyabi Hasegawa',
-    mediaDesc: [
-      'Al and Jed are swept into a sudden vortex of darkness. Then, recklessly, Bata and Chit leap into the vortex themselves, but it vanishes immediately afterward. Left behind, Iris and Shera learn that the dark vortex seems to connect to Tavnazia, a land thought to have been destroyed long ago, and resolve to pursue the others. Released as 〜遠い願い〜㊦.',
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
-      subtitle: 'Book',
-      length: '255p;A6',
-      helpWanted: true,
-      languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77654857' },
-        { value: '…?' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77654857', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Distant Wish Vol.2', searchQualifier: 'light novel' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Distant Wish', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI A Distant Wish', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -586,15 +450,16 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   },
   {
     mediaType: 'Book', chronoOrder: 2500, recommendedOrder: 618,
-    title: 'Final Fantasy XI ~A New Dream~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-10-29',
+    title: 'Final Fantasy XI ~A New Dream~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2005-10-29', end: '2005-12-24' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      'Once again spanning two volumes, it features Al and Iris in action, set in Tavnazia. Released as 〜新たな夢〜㊤.',
+      "A two-volume story featuring Al and Iris in action, set in Tavnazia. Vol.1: Al and his companions arrive in Tavnazia after falling into the Vortex of Darkness, pursued by Iris and Shera. Vol.2: Klaus and Shiri arrive in search of news of their childhood friend, as the machinations of San d'Oria, Windurst, Bastok, and Jeuno draw the long-sealed city back into the open.",
+      'Released as 〜新たな夢〜㊤㊦.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
-      length: '255p;A6',
+      length: '2 volumes',
       helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77686446' },
@@ -604,34 +469,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77686446', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A New Dream Vol.1', searchQualifier: 'light novel' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI A New Dream', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 2600, recommendedOrder: 619,
-    title: 'Final Fantasy XI ~A New Dream~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-12-24',
-    by: 'Miyabi Hasegawa',
-    mediaDesc: [
-      "Al and his companions arrive in Tavnazia after falling into the Vortex of Darkness, pursued by Iris and Shera, while Klaus and Shiri arrive in search of news of their childhood friend, as the machinations of San d'Oria, Windurst, Bastok, and Jeuno draw the long-sealed city back into the open. Released as 〜新たな夢〜㊦.",
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
-      subtitle: 'Book',
-      length: '223p;A6',
-      helpWanted: true,
-      languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77695106' },
-        { value: '…?' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77695106', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A New Dream Vol.2', searchQualifier: 'light novel' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A New Dream', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI A New Dream', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -667,16 +505,17 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   },
   {
     mediaType: 'Book', chronoOrder: 3100, recommendedOrder: 627,
-    title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-07-29',
+    title: 'Final Fantasy XI ~Daughters of Aht Urhgan~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2006-07-29', end: '2006-11-30' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      "Pasha and Nelly, a pair of Mithra thieves in Al Zahbi who dream of marrying into wealth, make their living picking pockets and burgling mansions—until one day they steal something far bigger than they bargained for. The series' first female leads. Released as 〜アトルガンの娘たち〜①.",
+      "Pasha and Nelly, a pair of Mithra thieves in Al Zahbi who dream of marrying into wealth, make their living picking pockets and burgling mansions—until one day they steal something far bigger than they bargained for. The series' first female leads. Vol.2: they successfully steal treasure from a merchant's mansion, but Pasha gets stuck in her transformed state as a Tarutaru and can't revert back, and they're chased by the merchant's bodyguards. Vol.3: having stolen the treasure token proving Farmett's conspiracy, they travel with adventurers they meet in the Inner Country to pursue hostages held captive by the Lamia.",
+      'Released as 〜アトルガンの娘たち〜①②③.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
-      length: '287p;A6',
+      length: '3 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77185190' },
         { value: '…?' },
@@ -685,61 +524,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77185190', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan Vol.1', searchQualifier: 'light novel' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 3200, recommendedOrder: 628,
-    title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-09-30',
-    by: 'Miyabi Hasegawa',
-    mediaDesc: [
-      "The Mithra thief duo, Pasha and Nelly, successfully steal treasure from a merchant's mansion in Al Zahbi. But Pasha gets stuck in her transformed state as a Tarutaru and can't revert back, and they're being chased by the merchant's bodyguards. Released as 〜アトルガンの娘たち〜②.",
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
-      subtitle: 'Book',
-      helpWanted: true,
-      length: '251p;A6',
-      languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77208504' },
-        { value: '…?' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77208504', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan Vol.2', searchQualifier: 'light novel' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 3300, recommendedOrder: 629,
-    title: 'Final Fantasy XI ~Daughters of Aht Urhgan~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-11-30',
-    by: 'Miyabi Hasegawa',
-    mediaDesc: [
-      "Having stolen the treasure token proving Farmett's conspiracy, Pasha and Nelly travel with adventurers they meet in the Inner Country to pursue hostages held captive by the Lamia. Released as 〜アトルガンの娘たち〜③.",
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
-      subtitle: 'Book',
-      helpWanted: true,
-      length: '254p;A6',
-      languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77232781' },
-        { value: '…?' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77232781', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan Vol.3', searchQualifier: 'light novel' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -748,15 +533,16 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   },
   {
     mediaType: 'Book', chronoOrder: 3400, recommendedOrder: 620,
-    title: 'Final Fantasy XI ~The Testament of the Wise~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-03',
+    title: 'Final Fantasy XI ~The Testament of the Wise~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2007-03', end: '2007-04' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      'Continues the series of illustrated short stories, opening on a shocking turn of events involving the character Peta. Released as 〜賢者の遺言〜㊤.',
+      'Continues the series of illustrated short stories. Vol.1: opens on a shocking turn of events involving the character Peta. Vol.2: Peta is in danger, and Al and Iris set sail for Nashmo to rescue her.',
+      'Released as 〜賢者の遺言〜㊤㊦. May also be known as ~The Testament of the Sages~.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
-      length: '250p;A6',
+      length: '2 volumes',
       helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77250550' },
@@ -766,34 +552,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77250550', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Testament of the Wise Vol.1', searchQualifier: 'light novel' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Testament of the Wise', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 3500, recommendedOrder: 621,
-    title: 'Final Fantasy XI ~The Testament of the Wise~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-04',
-    by: 'Miyabi Hasegawa',
-    mediaDesc: [
-      'Peta is in danger, and Al and Iris set sail for Nashmo to rescue her. Released as 〜賢者の遺言〜㊦. May also be known as ~The Testament of the Sages~.',
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
-      subtitle: 'Book',
-      length: '252p;A6',
-      helpWanted: true,
-      languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77249549' },
-        { value: '…?' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77249549', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Testament of the Wise Vol.2', searchQualifier: 'light novel' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Testament of the Wise', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Testament of the Wise', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -932,16 +691,17 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   },
   {
     mediaType: 'Book', chronoOrder: 4300, recommendedOrder: 631,
-    title: 'Final Fantasy XI ~A Message from Beyond~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-08',
+    title: 'Final Fantasy XI ~A Message from Beyond~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2008-08', end: '2008-11-29' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      "One day, a stranger visits Doug, Rin, and the others as they search for Tikki's mother. She delivers a letter from Tikki's mother, written twenty years ago. Released as 〜彼方からの伝言〜①.",
+      "Vol.1: one day, a stranger visits Doug, Rin, and the others as they search for Tikki's mother. She delivers a letter from Tikki's mother, written twenty years ago. Vol.2: responding to a rescue request from Tikki's mother, what awaited them at the designated location was the 'Forbidden Mouth'. Through it, Dag and his companions were transported to the past of Vana'diel. Vol.3: while searching for Tikki's mother, Euphelin, Doug and Lynn's party are transported to the past of Vana'diel amid the Crystal War.",
+      'Released as 〜彼方からの伝言〜①②③. May also be known as ~Messages from Afar~.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
-      length: '255p;A6',
+      length: '3 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77778217' },
         { value: '…?' },
@@ -950,61 +710,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77778217', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Message from Beyond Vol.1', searchQualifier: 'light novel' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI A Message from Beyond', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 4400, recommendedOrder: 632,
-    title: 'Final Fantasy XI ~A Message from Beyond~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-09-30',
-    by: 'Miyabi Hasegawa',
-    mediaDesc: [
-      "Responding to a rescue request from Tikki's mother, what awaited them at the designated location was the 'Forbidden Mouth'. Through it, Dag and his companions were transported to the past of Vana'diel. Released as 〜彼方からの伝言〜②.",
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
-      subtitle: 'Book',
-      helpWanted: true,
-      length: '255p;A6',
-      languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77439898' },
-        { value: '…?' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77439898', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Message from Beyond Vol.2', searchQualifier: 'light novel' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI A Message from Beyond', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 4500, recommendedOrder: 633,
-    title: 'Final Fantasy XI ~A Message from Beyond~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-11-29',
-    by: 'Miyabi Hasegawa',
-    mediaDesc: [
-      "While searching for Tikki's mother, Euphelin, Doug and Lynn's party are transported to the past of Vana'diel amid the Crystal War. Released as 〜彼方からの伝言〜③. May also be known as ~Messages from Afar~.",
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
-      subtitle: 'Book',
-      helpWanted: true,
-      length: '255p;A6',
-      languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77456526' },
-        { value: '…?' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77456526', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Message from Beyond Vol.3', searchQualifier: 'light novel' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Message from Beyond', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI A Message from Beyond', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -1039,16 +745,17 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
   },
   {
     mediaType: 'Book', chronoOrder: 4700, recommendedOrder: 635,
-    title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.1', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-04-30',
+    title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2009-04-30', end: '2009-10-30' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      'Ron, a modestly skilled adventurer raised in Windurst, is dragged by his childhood friend Shari into searching for the Book of Gods, said to be in the hands of the thief Nanaa Mihgo. Released as ザルカバードの鼓動①.',
+      'Vol.1: Ron, a modestly skilled adventurer raised in Windurst, is dragged by his childhood friend Shari into searching for the Book of Gods, said to be in the hands of the thief Nanaa Mihgo. Vol.2: Ron and the others find the Book of Gods, but it has become a blank White Book, and the Duke of Jeuno tasks them with investigating a mysterious magicite as fears grow that the Shadow Lord is returning. Vol.3: Ron and Shari bring the news back to Windurst, scattering the party as Savvy, Duga, and Riccorocco head to their own nations. The nations decide to entrust the defeat of the Shadow Lord to an elite force of adventurers, bringing them together once more.',
+      'Released as ザルカバードの鼓動①②③.',
     ],
     primary: {
       tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
-      length: '282p;A6',
+      length: '3 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77328971' },
         { value: '…?' },
@@ -1057,61 +764,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77328971', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard Vol.1', searchQualifier: 'light novel' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 4800, recommendedOrder: 636,
-    title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.2', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-07-30',
-    by: 'Miyabi Hasegawa',
-    mediaDesc: [
-      'Ron and the others find the Book of Gods, but it has become a blank White Book, and the Duke of Jeuno tasks them with investigating a mysterious magicite as fears grow that the Shadow Lord is returning. Released as ザルカバードの鼓動②.',
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
-      subtitle: 'Book',
-      helpWanted: true,
-      length: '247p;A6',
-      languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77348591' },
-        { value: '…?' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77348591', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard Vol.2', searchQualifier: 'light novel' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard', noResults: true },
-        { key: 'fan-audiobook', search: 'youtube', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 4900, recommendedOrder: 637,
-    title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~ Vol.3', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-10-30',
-    by: 'Miyabi Hasegawa',
-    mediaDesc: [
-      'The Shadow Lord is returning. Ron and Shari bring this news back to Windurst, scattering the party as Savvy, Duga, and Riccorocco head to their own nations. The nations decide to entrust the defeat of the Shadow Lord to an elite force of adventurers, bringing them together once more. Released as ザルカバードの鼓動③.',
-    ],
-    primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
-      subtitle: 'Book',
-      helpWanted: true,
-      length: '283p;A6',
-      languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77379192' },
-        { value: '…?' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77379192', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard Vol.3', searchQualifier: 'light novel' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },

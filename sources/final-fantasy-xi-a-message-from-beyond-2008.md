@@ -1,6 +1,8 @@
-<!-- sources/final-fantasy-xi-a-message-from-beyond-vol-1-2008.md (markdown) -->
+<!-- sources/final-fantasy-xi-a-message-from-beyond-2008.md (markdown) -->
 
-# Final Fantasy XI ~A Message from Beyond~ Vol.1
+# Final Fantasy XI ~A Message from Beyond~
+
+3 volumes merged into one entry (were 3 entries, "Vol.1" to "Vol.3"): `titleDate` runs from Vol.1 to Vol.3, `length` is `3 volumes`, and rating, language links and platform rows come from Vol.1. Per-volume facts are labelled below; merged from the old per-volume sources files.
 
 ## Author
 
@@ -11,12 +13,26 @@
 
 Per-book record, one book per label. No French edition on the entry; NDL French list has none for this book.
 
-ISBN 9784757743366 (ISBN10: 475774336X; NDL 978-4-7577-4336-6), Japanese, Enterbrain (ファミ通文庫), 2008.8, 255 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
+Vol.1: ISBN 9784757743366 (ISBN10: 475774336X; NDL 978-4-7577-4336-6), Japanese, Enterbrain (ファミ通文庫), 2008.8, 255 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757743366
 - goodreads: https://www.goodreads.com/book/show/77778217 — accessed 2026-10-09
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757743366
 - open library: https://openlibrary.org/search?isbn=9784757743366
 - NDL: http://id.ndl.go.jp/bib/000009428355 — accessed 2026-10-10
+
+Vol.2: ISBN 9784757744479 (ISBN10: 4757744471; NDL 978-4-7577-4447-9), Japanese, Enterbrain (ファミ通文庫), 2008.10, 255 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757744479
+- goodreads: https://www.goodreads.com/book/show/77439898 — accessed 2026-10-09
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9784757744479
+- open library: https://openlibrary.org/search?isbn=9784757744479
+- NDL: http://id.ndl.go.jp/bib/000009719141 — accessed 2026-10-10
+
+Vol.3: ISBN 9784757745223 (ISBN10: 4757745222; NDL 978-4-7577-4522-3), Japanese, Enterbrain (ファミ通文庫), 2008.12, 255 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757745223
+- goodreads: https://www.goodreads.com/book/show/77456526 — accessed 2026-10-09
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9784757745223
+- open library: https://openlibrary.org/search?isbn=9784757745223
+- NDL: http://id.ndl.go.jp/bib/000009980806 — accessed 2026-10-10
 
 ## Sources
 
@@ -24,13 +40,17 @@ bg-wiki.com (Information)
 - https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — not yet re-read for this record
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000009428355 — dates* (JA 2008.8; supports the entry's 2008-08), length (255 p, 15 cm; fold-in sheet), price (640 yen), ISBN (978-4-7577-4336-6 = 9784757743366, agrees), credits, series (ファミ通文庫), volume 1, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000009428355 — Vol.1: dates* (JA 2008.8; supports the entry's 2008-08), length (255 p, 15 cm; fold-in sheet), price (640 yen), ISBN (978-4-7577-4336-6 = 9784757743366, agrees), credits, series (ファミ通文庫), volume 1, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000009719141 — Vol.2: dates* (JA 2008.10; supports the entry's 2008-10), length (255 p, 15 cm; fold-in sheet), price (640 yen), ISBN (978-4-7577-4447-9 = 9784757744479, agrees), credits, series (ファミ通文庫), volume 2, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000009980806 — Vol.3: dates* (JA 2008.12; supports the entry's 2008-12), length (255 p, 15 cm; fold-in sheet), price (640 yen), ISBN (978-4-7577-4522-3 = 9784757745223, agrees), credits, series (ファミ通文庫), volume 3, NDC 913.6 — accessed 2026-10-10 — archived: TODO
 
 duckduckgo.com (Information)
-- https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Message%20from%20Beyond~%20Vol.1%20translation — fan-translation search
+- https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~A%20Message%20from%20Beyond~%20translation — fan-translation search
 
 ja.wikipedia.org (Information)
-- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — the Famitsu Bunko Final Fantasy XI series list: Doug & Lin; 640 yen + tax, ISBN 978-4-7577-4336-6; no release date in the pasted text — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.1: the Famitsu Bunko Final Fantasy XI series list: Doug & Lin; 640 yen + tax, ISBN 978-4-7577-4336-6; no release date in the pasted text — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.2: the Famitsu Bunko Final Fantasy XI series list: Doug & Lin; released September 30, 2008, 640 yen + tax, ISBN 978-4-7577-4447-9 — dates* (day-level, replacing the NDL/bg-wiki month, which trails the real release by about a month; titleDate now 2008-09-30) — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.3: the Famitsu Bunko Final Fantasy XI series list: Doug & Lin; released November 29, 2008, 640 yen + tax, ISBN 978-4-7577-4522-3 — dates* (day-level, replacing the NDL/bg-wiki month, which trails the real release by about a month; titleDate now 2008-11-29) — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
 
 ## Surveyed
 
