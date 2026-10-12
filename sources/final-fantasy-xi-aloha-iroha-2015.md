@@ -2,12 +2,10 @@
 
 # Final Fantasy XI ~Aloha Iroha~
 
-<!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
-     dates/stars yet. Needs a human research pass per docs/sources.md. -->
+## Sources
 
-## breezewiki.com (Information)
-
-- https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha#External_links
-- https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha
+breezewiki.com (Information)
+- https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha — titleUrl — shallow: URL from the entry data, not read
+- https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha#External_links — manga platform link — shallow: URL from the entry data, not read
 
 ## Decisions

@@ -9,8 +9,6 @@
 
 ## Editions (ISBN)
 
-Per-book record, one book per label.
-
 ISBN 9784757714243 (ISBN10: 4757714246), Japanese, Enterbrain (ファミ通文庫), 2003.5 (Google Books: April 2003), 287 pages, 15 cm, 640 yen — per google books + NDL — JA language link*, length*, dates*
 - Blurb: volume 2 of the series; Al and companions head for Windurst after the Gelsba orc fortress
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757714243
@@ -38,11 +36,18 @@ ISBN 9782265085824 (ISBN10: 2265085820), French "Le Serment des Étoiles" (Tome 
 ## Sources
 
 bg-wiki.com (Information)
-- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — not yet re-read for this record
+- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — shallow: not re-read
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000004107938 — dates* (JA 2003.5; supports the entry's 2003-05), length (287 p, 15 cm; fold-in sheet), price (640 yen), ISBN (4-7577-1424-6 = 9784757714243), credits, series (ファミ通文庫), NDC 913.6 — accessed 2026-10-10 — archived: TODO
-- http://id.ndl.go.jp/bib/000009326266 — French edition: Paris, Fleuve noir, 2007, 219 p., 18 cm, ISBN 9782265085824; "Original title: Final fantasy XI : an oath of stars." — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000004107938 — dates*, length, price, ISBN, credits, series, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+  - dates: JA 2003.5
+  - length: 287 p, 15 cm; fold-in sheet
+  - price: 640 yen
+  - ISBN: 4-7577-1424-6 = 9784757714243
+  - series: ファミ通文庫
+- http://id.ndl.go.jp/bib/000009326266 — FR edition record — accessed 2026-10-10 — archived: TODO
+  - Paris, Fleuve noir, 2007, 219 p., 18 cm, ISBN 9782265085824
+  - "Original title: Final fantasy XI : an oath of stars."
 
 wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga — ISBN* (agrees with google books), languages* (JA, DE, FR) — accessed 2026-10-09 — archived: TODO
@@ -53,11 +58,17 @@ duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Star%20Oath~%20translation — fan-translation search
 
 ja.wikipedia.org (Information)
-- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — the Famitsu Bunko Final Fantasy XI series list: Al & Iris; released April 19 (year inferred 2003), ISBN-10 4-7577-1424-6 — dates* (day-level, replacing the NDL/bg-wiki month, which trails the real release by about a month; titleDate now 2003-04-19) — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — dates* — accessed 2026-10-11
+  - Famitsu Bunko Final Fantasy XI series list: Al & Iris; released April 19 (year inferred 2003), ISBN-10 4-7577-1424-6
+  - Day-level date replaces the NDL/bg-wiki month (trails the real release by about a month)
+  - Firefox machine translation pasted by user
+  - A year missing from the translation is inferred from the entry's month
 
 ## Surveyed
 
-- Format (Light Novel)*: Enterbrain A6 novel in the XI series (bg-wiki calls them "Famitsu Bunko" novelizations)
+Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
+
+- [bg-wiki – Books](https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories) — Enterbrain A6 novel in the XI series; bg-wiki calls them "Famitsu Bunko" novelizations; format Light Novel* — used
   - First book (`winds-of-prayer-novel-2002`) has a ファミ通文庫 cover scan
   - AO3 translator calls it "the light novel"
 

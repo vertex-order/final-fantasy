@@ -2,7 +2,10 @@
 
 # Final Fantasy XI ~The Sword of Protection~
 
-3 volumes merged into one entry (were 3 entries, "Vol.1" to "Vol.3"): `titleDate` runs from Vol.1 to Vol.3, `length` is `3 volumes`, and rating, language links and platform rows come from Vol.1. Per-volume facts are labelled below; merged from the old per-volume sources files.
+- 3 volumes, one entry
+- `titleDate` runs Vol.1 to Vol.3; `length` is `3 volumes`
+- Rating, language links, platform rows: Vol.1
+- Per-volume facts labelled Vol.N
 
 ## Author
 
@@ -10,8 +13,6 @@
 - NDL: はせがわみやび 著 (authority 1963-) — accessed 2026-10-10
 
 ## Editions (ISBN)
-
-Per-book record, one book per label.
 
 Vol.1: ISBN 9784757715752 (ISBN10: 4757715757; NDL 4-7577-1575-7), Japanese, Enterbrain (ファミ通文庫), 2003.10, 255 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757715752
@@ -90,25 +91,54 @@ Vol.3: ISBN 9782265086128 (ISBN10: 2265086126), French "L'Épée du Gardien : Tr
 ## Sources
 
 bg-wiki.com (Information)
-- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — not yet re-read for this record
+- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — shallow: not re-read
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000004236157 — Vol.1: dates* (JA 2003.10; supports the entry's 2003-10), length (255 p, 15 cm; fold-in sheet), price (640 yen), ISBN (4-7577-1575-7 = 9784757715752, agrees), credits, series (ファミ通文庫), volume 1, NDC 913.6 — accessed 2026-10-10 — archived: TODO
-- http://id.ndl.go.jp/bib/000009326287 — French edition "L'épée du gardien" (Final fantasy 11. Online ; 4-6): Paris, Fleuve noir, c2007-, 3 volumes, 18 cm, ISBNs 9782265086012 (1), 9782265086111 (2), 9782265086128 (3) (all agree) — accessed 2026-10-10 — archived: TODO
-- http://id.ndl.go.jp/bib/000004294776 — Vol.2: dates* (JA 2003.12; supports the entry's 2003-12), length (254 p, 15 cm; fold-in sheet), price (640 yen), ISBN (4-7577-1635-4 = 9784757716353, agrees), credits, series (ファミ通文庫), volume 2, NDC 913.6 — accessed 2026-10-10 — archived: TODO
-- http://id.ndl.go.jp/bib/000004326559 — Vol.3: dates* (JA 2004.1; supports the entry's 2004-01), length (255 p, 15 cm; fold-in sheet), price (640 yen), ISBN (4-7577-1675-3 = 9784757716759, agrees), credits, series (ファミ通文庫), volume 3, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000004236157 — Vol.1: dates*, length, price, ISBN, credits, series, volume 1, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+  - dates: JA 2003.10
+  - length: 255 p, 15 cm; fold-in sheet
+  - price: 640 yen
+  - ISBN: 4-7577-1575-7 = 9784757715752, agrees
+  - series: ファミ通文庫
+- http://id.ndl.go.jp/bib/000009326287 — FR edition record — accessed 2026-10-10 — archived: TODO
+  - "L'épée du gardien" (Final fantasy 11. Online ; 4-6): Paris, Fleuve noir, c2007-, 3 volumes, 18 cm, ISBNs 9782265086012 (1), 9782265086111 (2), 9782265086128 (3) (all agree)
+- http://id.ndl.go.jp/bib/000004294776 — Vol.2: dates*, length, price, ISBN, credits, series, volume 2, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+  - dates: JA 2003.12
+  - length: 254 p, 15 cm; fold-in sheet
+  - price: 640 yen
+  - ISBN: 4-7577-1635-4 = 9784757716353, agrees
+  - series: ファミ通文庫
+- http://id.ndl.go.jp/bib/000004326559 — Vol.3: dates*, length, price, ISBN, credits, series, volume 3, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+  - dates: JA 2004.1
+  - length: 255 p, 15 cm; fold-in sheet
+  - price: 640 yen
+  - ISBN: 4-7577-1675-3 = 9784757716759, agrees
+  - series: ファミ通文庫
 
 duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Sword%20of%20Protection~%20translation — fan-translation search
 
 ja.wikipedia.org (Information)
-- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.1: the Famitsu Bunko Final Fantasy XI series list: Doug & Lin; released September 20 (year inferred 2003), ISBN-10 4-7577-1575-7 — dates* (day-level, replacing the NDL/bg-wiki month, which trails the real release by about a month; titleDate now 2003-09-20) — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
-- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.2: the Famitsu Bunko Final Fantasy XI series list: Doug & Lin; ISBN-10 4-7577-1635-4; no release date in the pasted text — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
-- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.3: the Famitsu Bunko Final Fantasy XI series list: Doug & Lin; released December 20, 2003, ISBN-10 4-7577-1675-3 — dates* (day-level, replacing the NDL/bg-wiki month, which trails the real release by about a month; titleDate now 2003-12-20) — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.1: dates* — accessed 2026-10-11
+  - Famitsu Bunko Final Fantasy XI series list: Doug & Lin; released September 20 (year inferred 2003), ISBN-10 4-7577-1575-7
+  - Day-level date replaces the NDL/bg-wiki month (trails the real release by about a month)
+  - Firefox machine translation pasted by user
+  - A year missing from the translation is inferred from the entry's month
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.2: ISBN — accessed 2026-10-11
+  - Famitsu Bunko Final Fantasy XI series list: Doug & Lin; ISBN-10 4-7577-1635-4; no release date in the pasted text
+  - Firefox machine translation pasted by user
+  - A year missing from the translation is inferred from the entry's month
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.3: dates* — accessed 2026-10-11
+  - Famitsu Bunko Final Fantasy XI series list: Doug & Lin; released December 20, 2003, ISBN-10 4-7577-1675-3
+  - Day-level date replaces the NDL/bg-wiki month (trails the real release by about a month)
+  - Firefox machine translation pasted by user
+  - A year missing from the translation is inferred from the entry's month
 
 ## Surveyed
 
-- Format (Light Novel)*: Enterbrain A6 novel in the XI series (bg-wiki calls them "Famitsu Bunko" novelizations)
+Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
+
+- [bg-wiki – Books](https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories) — Enterbrain A6 novel in the XI series; bg-wiki calls them "Famitsu Bunko" novelizations; format Light Novel* — used
   - First book (`winds-of-prayer-novel-2002`) has a ファミ通文庫 cover scan
   - AO3 translator calls it "the light novel"
 

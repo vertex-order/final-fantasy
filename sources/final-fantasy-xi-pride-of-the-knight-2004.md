@@ -2,7 +2,10 @@
 
 # Final Fantasy XI ~Pride of the Knight~
 
-3 volumes merged into one entry (were 3 entries, "Vol.1" to "Vol.3"): `titleDate` runs from Vol.1 to Vol.3, `length` is `3 volumes`, and rating, language links and platform rows come from Vol.1. Per-volume facts are labelled below; merged from the old per-volume sources files.
+- 3 volumes, one entry
+- `titleDate` runs Vol.1 to Vol.3; `length` is `3 volumes`
+- Rating, language links, platform rows: Vol.1
+- Per-volume facts labelled Vol.N
 
 ## Author
 
@@ -11,7 +14,7 @@
 
 ## Editions (ISBN)
 
-Per-book record, one book per label. No French edition on the entry; NDL's French list has none for this book.
+No French edition on the entry; NDL's French list has none for this book.
 
 Vol.1: ISBN 9784757719354 (ISBN10: 4757719353; NDL 4-7577-1935-3), Japanese, Enterbrain (ファミ通文庫), 2004.7, 249 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757719354
@@ -62,24 +65,52 @@ Vol.3: ISBN 9783833217296 (ISBN10: 3833217294), German "Der Stolz der Paladine 3
 ## Sources
 
 bg-wiki.com (Information)
-- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — not yet re-read for this record
+- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — shallow: not re-read
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000007434305 — Vol.1: dates* (JA 2004.7; supports the entry's 2004-07), length (249 p, 15 cm; fold-in sheet), price (640 yen), ISBN (4-7577-1935-3 = 9784757719354, agrees), credits, series (ファミ通文庫), volume 1, NDC 913.6 — accessed 2026-10-10 — archived: TODO
-- http://id.ndl.go.jp/bib/000007500211 — Vol.2: dates* (JA 2004.9; supports the entry's 2004-09), length (250 p, 15 cm; fold-in sheet), price (640 yen), ISBN (4-7577-2002-5 = 9784757720022, agrees), credits, series (ファミ通文庫), volume 2, NDC 913.6 — accessed 2026-10-10 — archived: TODO
-- http://id.ndl.go.jp/bib/000007568375 — Vol.3: dates* (JA 2004.12; supports the entry's 2004-12), length (250 p, 15 cm; fold-in sheet), price (640 yen), ISBN (4-7577-2059-9 = 9784757720596, agrees), credits, series (ファミ通文庫), volume 3, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000007434305 — Vol.1: dates*, length, price, ISBN, credits, series, volume 1, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+  - dates: JA 2004.7
+  - length: 249 p, 15 cm; fold-in sheet
+  - price: 640 yen
+  - ISBN: 4-7577-1935-3 = 9784757719354, agrees
+  - series: ファミ通文庫
+- http://id.ndl.go.jp/bib/000007500211 — Vol.2: dates*, length, price, ISBN, credits, series, volume 2, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+  - dates: JA 2004.9
+  - length: 250 p, 15 cm; fold-in sheet
+  - price: 640 yen
+  - ISBN: 4-7577-2002-5 = 9784757720022, agrees
+  - series: ファミ通文庫
+- http://id.ndl.go.jp/bib/000007568375 — Vol.3: dates*, length, price, ISBN, credits, series, volume 3, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+  - dates: JA 2004.12
+  - length: 250 p, 15 cm; fold-in sheet
+  - price: 640 yen
+  - ISBN: 4-7577-2059-9 = 9784757720596, agrees
+  - series: ファミ通文庫
 
 duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Pride%20of%20the%20Knight~%20translation — fan-translation search
 
 ja.wikipedia.org (Information)
-- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.1: the Famitsu Bunko Final Fantasy XI series list: Doug & Lin; released July 20 (year inferred 2004), ISBN-10 4-7577-1935-3 — dates* (day-level, replacing the NDL/bg-wiki month, which trails the real release by about a month; titleDate now 2004-07-20) — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
-- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.2: the Famitsu Bunko Final Fantasy XI series list: Doug & Lin; released September 18 (year inferred 2004), ISBN-10 4-7577-2002-5 — dates* (day-level, replacing the NDL/bg-wiki month, which trails the real release by about a month; titleDate now 2004-09-18) — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
-- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.3: the Famitsu Bunko Final Fantasy XI series list: Doug & Lin; ISBN-10 4-7577-2059-9; no release date in the pasted text — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.1: dates* — accessed 2026-10-11
+  - Famitsu Bunko Final Fantasy XI series list: Doug & Lin; released July 20 (year inferred 2004), ISBN-10 4-7577-1935-3
+  - Day-level date replaces the NDL/bg-wiki month (trails the real release by about a month)
+  - Firefox machine translation pasted by user
+  - A year missing from the translation is inferred from the entry's month
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.2: dates* — accessed 2026-10-11
+  - Famitsu Bunko Final Fantasy XI series list: Doug & Lin; released September 18 (year inferred 2004), ISBN-10 4-7577-2002-5
+  - Day-level date replaces the NDL/bg-wiki month (trails the real release by about a month)
+  - Firefox machine translation pasted by user
+  - A year missing from the translation is inferred from the entry's month
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.3: ISBN — accessed 2026-10-11
+  - Famitsu Bunko Final Fantasy XI series list: Doug & Lin; ISBN-10 4-7577-2059-9; no release date in the pasted text
+  - Firefox machine translation pasted by user
+  - A year missing from the translation is inferred from the entry's month
 
 ## Surveyed
 
-- Format (Light Novel)*: Enterbrain A6 novel in the XI series (bg-wiki calls them "Famitsu Bunko" novelizations)
+Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
+
+- [bg-wiki – Books](https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories) — Enterbrain A6 novel in the XI series; bg-wiki calls them "Famitsu Bunko" novelizations; format Light Novel* — used
   - First book (`winds-of-prayer-novel-2002`) has a ファミ通文庫 cover scan
   - AO3 translator calls it "the light novel"
 

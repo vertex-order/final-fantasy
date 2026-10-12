@@ -2,7 +2,10 @@
 
 # Final Fantasy XI ~The Testament of the Wise~
 
-2 volumes merged into one entry (were 2 entries, "Vol.1" to "Vol.2"): `titleDate` runs from Vol.1 to Vol.2, `length` is `2 volumes`, and rating, language links and platform rows come from Vol.1. Per-volume facts are labelled below; merged from the old per-volume sources files.
+- 2 volumes, one entry
+- `titleDate` runs Vol.1 to Vol.2; `length` is `2 volumes`
+- Rating, language links, platform rows: Vol.1
+- Per-volume facts labelled Vol.N
 
 ## Author
 
@@ -11,7 +14,7 @@
 
 ## Editions (ISBN)
 
-Per-book record, one book per label. No French edition on the entry; NDL French list has none for this book.
+No French edition on the entry; NDL French list has none for this book.
 
 Vol.1: ISBN 9784757733473 (ISBN10: 475773347X; NDL 978-4-7577-3347-3), Japanese, Enterbrain (ファミ通文庫), 2007.3, 250 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757733473
@@ -30,22 +33,42 @@ Vol.2: ISBN 9784757734265 (ISBN10: 4757734263; NDL 978-4-7577-3426-5), Japanese,
 ## Sources
 
 bg-wiki.com (Information)
-- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — not yet re-read for this record
+- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — shallow: not re-read
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000008473164 — Vol.1: dates* (JA 2007.3; supports the entry's 2007-03), length (250 p, 15 cm; fold-in sheet), price (640 yen), ISBN (978-4-7577-3347-3 = 9784757733473, agrees), credits, series (ファミ通文庫), part 上 (volume 1), NDC 913.6 — accessed 2026-10-10 — archived: TODO
-- http://id.ndl.go.jp/bib/000008512611 — Vol.2: dates* (JA 2007.4; supports the entry's 2007-04), length (252 p, 15 cm; fold-in sheet), price (640 yen), ISBN (978-4-7577-3426-5 = 9784757734265, agrees), credits, series (ファミ通文庫), part 下 (volume 2), NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000008473164 — Vol.1: dates*, length, price, ISBN, credits, series, part 上, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+  - dates: JA 2007.3
+  - length: 250 p, 15 cm; fold-in sheet
+  - price: 640 yen
+  - ISBN: 978-4-7577-3347-3 = 9784757733473, agrees
+  - series: ファミ通文庫
+  - part 上: volume 1
+- http://id.ndl.go.jp/bib/000008512611 — Vol.2: dates*, length, price, ISBN, credits, series, part 下, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+  - dates: JA 2007.4
+  - length: 252 p, 15 cm; fold-in sheet
+  - price: 640 yen
+  - ISBN: 978-4-7577-3426-5 = 9784757734265, agrees
+  - series: ファミ通文庫
+  - part 下: volume 2
 
 duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~The%20Testament%20of%20the%20Wise~%20translation — fan-translation search
 
 ja.wikipedia.org (Information)
-- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.1: the Famitsu Bunko Final Fantasy XI series list: Al & Iris; ISBN-10 4-7577-3347-X; no release date in the pasted text — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
-- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.2: the Famitsu Bunko Final Fantasy XI series list: Al & Iris; ISBN 978-4-7577-3426-5; no release date in the pasted text — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.1: ISBN — accessed 2026-10-11
+  - Famitsu Bunko Final Fantasy XI series list: Al & Iris; ISBN-10 4-7577-3347-X; no release date in the pasted text
+  - Firefox machine translation pasted by user
+  - A year missing from the translation is inferred from the entry's month
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — Vol.2: ISBN — accessed 2026-10-11
+  - Famitsu Bunko Final Fantasy XI series list: Al & Iris; ISBN 978-4-7577-3426-5; no release date in the pasted text
+  - Firefox machine translation pasted by user
+  - A year missing from the translation is inferred from the entry's month
 
 ## Surveyed
 
-- Format (Light Novel)*: Enterbrain A6 novel in the XI series (bg-wiki calls them "Famitsu Bunko" novelizations)
+Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
+
+- [bg-wiki – Books](https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories) — Enterbrain A6 novel in the XI series; bg-wiki calls them "Famitsu Bunko" novelizations; format Light Novel* — used
   - First book (`winds-of-prayer-novel-2002`) has a ファミ通文庫 cover scan
   - AO3 translator calls it "the light novel"
 

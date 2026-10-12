@@ -9,8 +9,6 @@
 
 ## Editions (ISBN)
 
-Per-book record, one book per label.
-
 ISBN 9784757722071 (ISBN10: 4757722079; NDL 4-7577-2207-9), Japanese, Enterbrain (ファミ通文庫), 2005.4, 318 pages, 15 cm, 660 yen — per bg-wiki + NDL — JA language link*, length*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757722071
 - goodreads: https://www.goodreads.com/book/show/77099305 — accessed 2026-10-09
@@ -21,20 +19,30 @@ ISBN 9784757722071 (ISBN10: 4757722079; NDL 4-7577-2207-9), Japanese, Enterbrain
 ## Sources
 
 bg-wiki.com (Information)
-- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — not yet re-read for this record
+- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — shallow: not re-read
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000007687011 — dates* (JA 2005.4; supports the entry's 2005-04), length (318 p, 15 cm; fold-in sheet), price (660 yen), ISBN (4-7577-2207-9 = 9784757722071, agrees), credits, series (ファミ通文庫), NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000007687011 — dates*, length, price, ISBN, credits, series, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+  - dates: JA 2005.4
+  - length: 318 p, 15 cm; fold-in sheet
+  - price: 660 yen
+  - ISBN: 4-7577-2207-9 = 9784757722071, agrees
+  - series: ファミ通文庫
 
 duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Adventurer%27s%20Holiday~%20translation — fan-translation search
 
 ja.wikipedia.org (Information)
-- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — the Famitsu Bunko Final Fantasy XI series list: Al & Iris; ISBN-10 4-7577-2207-9; no release date in the pasted text — accessed 2026-10-11 (Firefox machine translation pasted by user; a year missing from the translation is inferred from the entry's month and marked 'year inferred')
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB) — ISBN — accessed 2026-10-11
+  - Famitsu Bunko Final Fantasy XI series list: Al & Iris; ISBN-10 4-7577-2207-9; no release date in the pasted text
+  - Firefox machine translation pasted by user
+  - A year missing from the translation is inferred from the entry's month
 
 ## Surveyed
 
-- Format (Light Novel)*: Enterbrain A6 novel in the XI series (bg-wiki calls them "Famitsu Bunko" novelizations)
+Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
+
+- [bg-wiki – Books](https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories) — Enterbrain A6 novel in the XI series; bg-wiki calls them "Famitsu Bunko" novelizations; format Light Novel* — used
   - First book (`winds-of-prayer-novel-2002`) has a ファミ通文庫 cover scan
   - AO3 translator calls it "the light novel"
 
