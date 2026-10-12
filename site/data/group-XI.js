@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 1100, title: 'Final Fantasy XI', note: 'The first MMO in the franchise, told as a string of largely self-contained story arcs. Story complete. Also sports a long-running book spin-off series.', media: [
+window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100, title: 'Final Fantasy XI', note: 'The first MMO in the franchise, told as a string of largely self-contained story arcs. Story complete. Also sports a long-running book spin-off series.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy XI: Online', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI', titleDate: '2002-05-16',
     mediaDesc: [
       [{ text: "Explore the world of Vana'diel using player-created avatars and embark on a grand story spanning 5 expansions and eight add-on scenarios, each expanding the major storyline, which is currently considered complete." }],
@@ -41,7 +41,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200,
+    mediaType: 'Game', chronoOrder: 1000, narrativeOrder: 200,
     title: 'Final Fantasy XI: Rise of the Zilart', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2003-04-17',
     mediaDesc: [
       [{ text: "Thwart Zilart princes Eald'Narche and Kam'lanaut's plans to become Gods in this expansion for " }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
@@ -63,7 +63,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300,
+    mediaType: 'Game', chronoOrder: 2000, narrativeOrder: 300,
     title: 'Final Fantasy XI: Chains of Promathia', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2004-09-16',
     mediaDesc: [
       [{ text: 'Various factions vie to either stop or complete the resurrection of Twilight God Promathia in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
@@ -89,7 +89,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 400,
+    mediaType: 'Game', chronoOrder: 3000, narrativeOrder: 400,
     title: 'Final Fantasy XI: Treasures of Aht Urhgan', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2006-04-18',
     mediaDesc: [
       [{ text: 'The Empire of Aht Urhgan in the midlands becomes involved after years of self-imposed isolation, with the player being sent there as a representative in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
@@ -115,7 +115,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 4000, recommendedOrder: 500,
+    mediaType: 'Game', chronoOrder: 4000, narrativeOrder: 500,
     title: 'Final Fantasy XI: Wings of the Goddess', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2007-11-20',
     mediaDesc: [
       [{ text: 'Using newly discovered time portals, players travel 20 years in the past from the base game main story to experience the Crystal War first-hand and encounters a surprise character in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
@@ -141,7 +141,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 5000, recommendedOrder: 600,
+    mediaType: 'Game', chronoOrder: 5000, narrativeOrder: 600,
     title: 'Final Fantasy XI: Seekers of Adoulin', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Story', titleDate: '2013-03-27',
     mediaDesc: [
       [{ text: 'People are migrating to the underpopulated western continent archipelago of Adoulin and the Sacred City of Adoulin in this last expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
@@ -163,7 +163,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 100, recommendedOrder: 604,
+    mediaType: 'Book', chronoOrder: 100, narrativeOrder: 604,
     title: 'Final Fantasy XI ~Winds of Prayer~ (Novel)', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2002-12-18',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -201,7 +201,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: -10, recommendedOrder: 602,
+    mediaType: 'Comic', chronoOrder: -10, narrativeOrder: 602,
     title: 'Final Fantasy XI ~The Out of Orders~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~', titleDate: '2004-12-17',
     by: [{ role: 'written', names: 'Kim Sung-Jae' }, { role: 'illustrated', names: 'Kim Byung-Jin' }],
     mediaDesc: [
@@ -225,7 +225,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1100, recommendedOrder: 605,
+    mediaType: 'Book', chronoOrder: 1100, narrativeOrder: 605,
     title: 'Final Fantasy XI ~The Star Oath~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-04-19',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -253,7 +253,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 110, recommendedOrder: 606,
+    mediaType: 'Comic', chronoOrder: 110, narrativeOrder: 606,
     title: 'Final Fantasy XI ~Winds of Prayer~ (Manga)', titleUrl: "https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Vana'diel", titleDate: { start: '2008-09', end: '2010-03' },
     by: [{ role: 'adapted', names: 'You Satsuki' }],
     mediaDesc: [
@@ -280,7 +280,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1200, recommendedOrder: 607,
+    mediaType: 'Book', chronoOrder: 1200, narrativeOrder: 607,
     title: 'Final Fantasy XI ~The Eternal Bond~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2003-06-20',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -308,7 +308,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1300, recommendedOrder: 608,
+    mediaType: 'Book', chronoOrder: 1300, narrativeOrder: 608,
     title: 'Final Fantasy XI ~The Sword of Protection~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2003-09-20', end: '2003-12-20' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -337,7 +337,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1600, recommendedOrder: 611,
+    mediaType: 'Book', chronoOrder: 1600, narrativeOrder: 611,
     title: 'Final Fantasy XI ~Faraway Wings~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2004-03',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -365,7 +365,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1700, recommendedOrder: 612,
+    mediaType: 'Book', chronoOrder: 1700, narrativeOrder: 612,
     title: 'Final Fantasy XI ~Pride of the Knight~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2004-07-20', end: '2004-12' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -394,7 +394,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 2200, recommendedOrder: 615,
+    mediaType: 'Book', chronoOrder: 2200, narrativeOrder: 615,
     title: "Final Fantasy XI ~Adventurer's Holiday~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2005-04',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -421,7 +421,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 2300, recommendedOrder: 616,
+    mediaType: 'Book', chronoOrder: 2300, narrativeOrder: 616,
     title: 'Final Fantasy XI ~A Distant Wish~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2005-06-20', end: '2005-08-29' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -449,7 +449,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 2500, recommendedOrder: 618,
+    mediaType: 'Book', chronoOrder: 2500, narrativeOrder: 618,
     title: 'Final Fantasy XI ~A New Dream~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2005-10-29', end: '2005-12-24' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -477,7 +477,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 2700, recommendedOrder: 626,
+    mediaType: 'Book', chronoOrder: 2700, narrativeOrder: 626,
     title: 'Final Fantasy XI ~The Blessings of the Journey~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2006-04',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -504,7 +504,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 3100, recommendedOrder: 627,
+    mediaType: 'Book', chronoOrder: 3100, narrativeOrder: 627,
     title: 'Final Fantasy XI ~Daughters of Aht Urhgan~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2006-07-29', end: '2006-11-30' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -532,7 +532,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 3400, recommendedOrder: 620,
+    mediaType: 'Book', chronoOrder: 3400, narrativeOrder: 620,
     title: 'Final Fantasy XI ~The Testament of the Wise~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2007-03', end: '2007-04' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -560,7 +560,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 10, recommendedOrder: 601,
+    mediaType: 'Comic', chronoOrder: 10, narrativeOrder: 601,
     title: 'Final Fantasy XI ~Adventure Log~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2007-03-20',
     by: 'Scott Ramsoomair (VGCats)',
     mediaDesc: [
@@ -582,7 +582,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 3600, recommendedOrder: 623,
+    mediaType: 'Book', chronoOrder: 3600, narrativeOrder: 623,
     title: 'Final Fantasy XI ~Conditions of Fortune~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-08',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -609,7 +609,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 3700, recommendedOrder: 624,
+    mediaType: 'Book', chronoOrder: 3700, narrativeOrder: 624,
     title: 'Final Fantasy XI ~The Princess Knight of Ronfaure~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2007-10-30',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -636,7 +636,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 4100, recommendedOrder: 625,
+    mediaType: 'Book', chronoOrder: 4100, narrativeOrder: 625,
     title: "Final Fantasy XI ~The Star's Call~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-01-04',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -663,7 +663,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 4200, recommendedOrder: 630,
+    mediaType: 'Book', chronoOrder: 4200, narrativeOrder: 630,
     title: 'Final Fantasy XI ~Happy Gift~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2008-03-29',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -690,7 +690,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 4300, recommendedOrder: 631,
+    mediaType: 'Book', chronoOrder: 4300, narrativeOrder: 631,
     title: 'Final Fantasy XI ~A Message from Beyond~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2008-08', end: '2008-11-29' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -718,7 +718,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 4600, recommendedOrder: 634,
+    mediaType: 'Book', chronoOrder: 4600, narrativeOrder: 634,
     title: 'Final Fantasy XI ~Anthology~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-02',
     mediaDesc: [
       [{ text: 'Anthology of three short stories. Released as アンソロジー短編集みんなで大冒険！！. May also be known as ' }, { emText: 'An Anthology of Short Stories: A Great Adventure for Everyone!!' }, { text: '.' }],
@@ -744,7 +744,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 4700, recommendedOrder: 635,
+    mediaType: 'Book', chronoOrder: 4700, narrativeOrder: 635,
     title: 'Final Fantasy XI ~The Heartbeat of Xarcabard~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: { start: '2009-04-30', end: '2009-10-30' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -772,7 +772,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 4950, recommendedOrder: 638,
+    mediaType: 'Comic', chronoOrder: 4950, narrativeOrder: 638,
     title: 'Final Fantasy XI ~Lightning Brigade Encyclopedia~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Lightning_Brigade', titleDate: '2013-03',
     mediaDesc: [
       'Featuring stories and four original comics. Released as 電撃の旅団公式十年事典. May also be known as Final Fantasy XI ~Lightning Brigade Official Decennial Encyclopedia~.',
@@ -798,7 +798,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 5100, recommendedOrder: 640,
+    mediaType: 'Book', chronoOrder: 5100, narrativeOrder: 640,
     title: 'Final Fantasy XI ~Songs of the Endless Earth~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books', titleDate: '2015-12',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -825,7 +825,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 5150, recommendedOrder: 641,
+    mediaType: 'Comic', chronoOrder: 5150, narrativeOrder: 641,
     title: 'Final Fantasy XI ~Love in the Sky 1·2·3!~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Misc', titleDate: '2007-06',
     mediaDesc: [
       [{ text: 'A short manga for ' }, { emText: 'XI' }, { text: ", released as 恋の空蝉1・2・3! (Koi no Utsusemi). Serialized in the Vana'diel Communications mook; the earliest known printing is the June 2007 Vana'diel Memoirs special appendix." }],
@@ -866,7 +866,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 5050, recommendedOrder: 639,
+    mediaType: 'Comic', chronoOrder: 5050, narrativeOrder: 639,
     title: 'Final Fantasy XI ~Aloha Iroha~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha', titleDate: '2015-08-11',
     mediaDesc: [
       "A series of four-panel manga based on Final Fantasy XI, following the story of Iroha, the main heroine of Rhapsodies of Vana'diel. Known in Japan as Iroha de Gozaru.",
@@ -888,7 +888,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 5160, recommendedOrder: 642,
+    mediaType: 'Book', chronoOrder: 5160, narrativeOrder: 642,
     title: 'Final Fantasy XI ~Minstrel of Strange Tales: Replica Script~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2024-02',
     mediaDesc: [
       'A replica script for the reading drama\'s five strange tales: "Mimiroon\'s Sparkling Great Adventure", "Go For It! Allied Forces of Altana: Extreme Survival", "Seaside Serpent Taro", "A Small Gift For A Small Friend", and "Black Night Butterfly". Released as 朗読劇 : 異聞のウタイビト : 複製台本. May also be known as Final Fantasy XI ~Reading Drama: Minstrel of Strange Tales: Replica Script~.',
@@ -911,7 +911,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 5170, recommendedOrder: 643,
+    mediaType: 'Book', chronoOrder: 5170, narrativeOrder: 643,
     title: 'Final Fantasy XI ~Minstrel of Fantasies: Replica Script~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2025-03',
     mediaDesc: [
       'A replica script for the reading drama\'s stories of love and reunion across time and space: "Temple of the Heart\'s Secret" (a Star Sibyl story), "Girl of the Underworld" (an Aphmau story), "Blue Mage Blues" (a Blue Mage story), and "Memoirs of the Many-Headed Hydra -Memories of Heroes-" (a Hydra Squadron story). Released as 朗読劇 : 夢幻のウタイビト : 複製台本. May also be known as Final Fantasy XI ~Reading Drama: Minstrel of Fantasies: Replica Script~.',
@@ -934,7 +934,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 5020, recommendedOrder: 700,
+    mediaType: 'Game', chronoOrder: 5020, narrativeOrder: 700,
     title: 'Final Fantasy Grandmasters', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Grandmasters', titleDate: '2015-09-30',
     mediaDesc: [
       [{ text: 'Tie-in with the ' }, { emText: "Rhapsodies of Vana'diel (2015)" }, { text: ' scenario for ' }, { emText: 'Final Fantasy XI (2002)' }, { text: '. User avatars with chibi character models travel the world by airship in a quest to become the strongest "Grandmaster" adventurer while engaging in co-operative battles against enemies.' }],
@@ -958,7 +958,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, recommendedOrder: 11
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 1050, recommendedOrder: 700,
+    mediaType: 'Game', chronoOrder: 1050, narrativeOrder: 700,
     title: 'Final Fantasy XI: Braver', titleUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver', titleDate: '2021-07-10',
     mediaDesc: [
       [{ text: 'Taking place roughly in the world of ' }, { emLinkText: 'XI: Rise of the Zilart (2003)', emLinkUrl: '#entry-XI-final-fantasy-xi-rise-of-the-zilart-2003' }, { text: ' with a sprinkle from other Final Fantasy titles, making it a bit of an alternate universe re-imagining. Entry also found in our ' }, { emLinkText: 'Fan Projects', emLinkUrl: '#group-FAN' }, { text: ' series.' }],

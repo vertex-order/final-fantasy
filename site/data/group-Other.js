@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrder: 1800, title: 'Other titles', note: 'A collection of standalone titles that nonetheless may be worth looking into.', media: [
+window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder: 1800, title: 'Other titles', note: 'A collection of standalone titles that nonetheless may be worth looking into.', media: [
   {
-    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 100, narrativeOrder: 100,
     title: 'Final Fantasy Adventure', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure', titleDate: '1991-06-28',
     mediaDesc: [
       [{ text: 'The story follows the hero and the heroine as they attempt to thwart the Dark Lord of Glaive and his sorcerer assistant, Julius, from destroying the Tree of Mana and dooming their world. Similar in gameplay to the original ' }, { emText: 'The Legend of Zelda (1986; NES)' }, { text: ' with additional RPG elements.' }],
@@ -25,7 +25,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 300, recommendedOrder: 200,
+    mediaType: 'Game', chronoOrder: 300, narrativeOrder: 200,
     title: 'Final Fantasy: The 4 Heroes of Light', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_The_4_Heroes_of_Light', titleDate: '2009-10-29',
     mediaDesc: [
       [{ text: 'Four youths journey around their world to free their home from a terrible curse. A sequel morphed into the unrelated ' }, { emText: 'Bravely Default (2012)' }, { text: ' game and franchise.' }],
@@ -52,7 +52,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 1200, recommendedOrder: 202,
+    mediaType: 'Game', chronoOrder: 1200, narrativeOrder: 202,
     title: 'Mobius Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/Mobius_Final_Fantasy', titleDate: '2015-06-04',
     mediaDesc: [
       [{ text: 'The players could control Warrior of Light (Wol), a man who wakes with amnesia in the world of Palamecia, and must help conquer the dark forces attacking its people. The game is terminated.' }],
@@ -81,7 +81,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 900, recommendedOrder: 205,
+    mediaType: 'Game', chronoOrder: 900, narrativeOrder: 205,
     title: 'Final Fantasy Record Keeper', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Record_Keeper', titleDate: '2014-09-24',
     mediaDesc: [
       [{ text: 'Tyro is a researcher who works in the history department for Dr. Mog. Being his best student, Dr. Mog shares his magic so that Tyro can enter paintings and see memories of different worlds, which are previous Final Fantasy titles.' }],
@@ -111,7 +111,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 1400, recommendedOrder: 250,
+    mediaType: 'Comic', chronoOrder: 1400, narrativeOrder: 250,
     title: 'Final Fantasy Lost Stranger', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Lost_Stranger', titleDate: { start: '2017-07-12', end: '2026-09-11', ongoing: true },
     by: [{ role: 'written', names: 'Hazuki Minase' }, { role: 'illustrated', names: 'Itsuki Kameya' }],
     mediaDesc: [
@@ -148,7 +148,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300,
+    mediaType: 'Game', chronoOrder: 200, narrativeOrder: 300,
     title: 'Chocobo (series)', titleUrl: 'https://wikipedia.org/wiki/Chocobo_(series)', titleDate: { start: 1997, end: 2022, ongoing: true },
     mediaDesc: [
       [{ text: "Over 21 titles in this series provide casual fun centered around a recurring cast of characters and all relating to Final Fantasy's Chocobo mounts. The games span different genres, and some entries are a bit too simplistic to deserve their own entries, as a whole the series may be worth checking out." }],
@@ -175,7 +175,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 250, recommendedOrder: 305,
+    mediaType: 'Game', chronoOrder: 250, narrativeOrder: 305,
     title: 'Kingdom Hearts (series)', titleUrl: '/kingdom-hearts', titleDate: { start: 2002, end: 2020, ongoing: true },
     mediaDesc: [
       [{ text: 'A separate franchise in its own right, spanning games, manga, and novels. Six or more of its games prominently feature ' }, { emText: 'Final Fantasy' }, { text: ' characters, worlds, and music, alongside several related books and comics. We maintain a dedicated, fully documented vertex order for the whole series at the link above.' }],
@@ -186,7 +186,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 400, recommendedOrder: 350,
+    mediaType: 'Game', chronoOrder: 400, narrativeOrder: 350,
     title: 'Voice Fantasy', titleUrl: 'https://wikipedia.org/wiki/Voice_Fantasy', titleDate: '2010-11-01',
     mediaDesc: [
       [{ text: "The game centered on battles between the player's army and enemy monsters or computer-controlled players. The characters in the army were generated using the sounds of the player's own voice, and then engaged in side-scrolling combat with the enemy. Combat was completely automated with the player only controlling character creation. The game is terminated." }],
@@ -203,7 +203,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 500, recommendedOrder: 355,
+    mediaType: 'Game', chronoOrder: 500, narrativeOrder: 355,
     title: 'Final Fantasy Airborne Brigade', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Airborne_Brigade', titleDate: '2012-01-06',
     mediaDesc: [
       'Long ago, the country was protected by two crystals. However, one was broken and scattered throughout the world following a monster invasion. The other lost its glow. Only the ancient summon beasts can return the crystals to their original shine, and the player must travel the world by air ship and defeat the summon beasts.',
@@ -230,7 +230,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 600, recommendedOrder: 357,
+    mediaType: 'Game', chronoOrder: 600, narrativeOrder: 357,
     title: 'Final Fantasy All the Bravest', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_All_the_Bravest', titleDate: '2013-01-17',
     mediaDesc: [
       'Players\' characters could traverse an overhead map between battles. After a series of battles, players could confront a boss enemy. There was no story elements. Self-described as an "app" not a game.',
@@ -257,7 +257,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 700, recommendedOrder: 358,
+    mediaType: 'Game', chronoOrder: 700, narrativeOrder: 358,
     title: 'Pictlogica Final Fantasy', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Pictlogica_Final_Fantasy', titleDate: '2013-10-28',
     mediaDesc: [
       [{ text: 'Mixes RPG elements with dot logic puzzles. The player controls a party of four, plus one optional friend, as they battle their way through waves of enemies while solving puzzles. The 3DS version had a few extra features. The game is terminated.' }],
@@ -280,7 +280,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 800, recommendedOrder: 359,
+    mediaType: 'Game', chronoOrder: 800, narrativeOrder: 359,
     title: 'Final Fantasy: World Wide Words', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_World_Wide_Words', titleDate: '2014-09-16',
     mediaDesc: [
       [{ text: 'Players fight several rounds of enemies. Attacks are initiated by typing the words that pop out next to each of the enemies. Words that appear include Final Fantasy-themed ones.' }],
@@ -299,7 +299,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 360,
+    mediaType: 'Game', chronoOrder: 1000, narrativeOrder: 360,
     title: 'Heavenstrike Rivals', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Heavenstrike_Rivals', titleDate: '2014-11-14',
     mediaDesc: [
       [{ text: 'The player was recruited as the commander of a battalion of units commissioned to do battle against Fallen demons. There is a story and PvP mode.' }],
@@ -328,7 +328,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 250, recommendedOrder: 361,
+    mediaType: 'Game', chronoOrder: 250, narrativeOrder: 361,
     title: 'Final Fantasy Portal App: Triple Triad', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Triple_Triad_(Portal_App)', titleDate: '2015-04-01',
     mediaDesc: [
       [{ text: 'An updated version of the recurring minigame Triple Triad first introduced in ' }, { emLinkText: 'VIII (1999)', emLinkUrl: '#entry-VIII-final-fantasy-viii-1999' }, { text: ', with rules from the ' }, { emText: 'XIV (2010)' }, { text: ' version, with cards from many Final Fantasy games. Its bare story loosely tied it to the ' }, { emText: 'Dissidia' }, { text: ' series (2008).' }],
@@ -353,7 +353,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 1300, recommendedOrder: 362,
+    mediaType: 'Game', chronoOrder: 1300, narrativeOrder: 362,
     title: 'Final Fantasy Digital Card Game', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Digital_Card_Game', titleDate: '2019-07-09',
     mediaDesc: [
       [{ text: 'Players deployed various characters and creatures from the Final Fantasy series in a board to compete with one another.' }],
@@ -373,7 +373,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, recommendedOrd
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 1500, recommendedOrder: 400,
+    mediaType: 'Game', chronoOrder: 1500, narrativeOrder: 400,
     title: 'The Final Fantasy Legend I–III', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#SaGa', titleDate: { start: 1989, end: 1991 },
     mediaDesc: [
       [{ text: 'Originally created for the ' }, { emLinkText: 'SaGa', emLinkUrl: 'https://wikipedia.org/wiki/SaGa' }, { text: ' series of games in Japan, three were initially re-released outside Japan as ' }, { emText: 'The Final Fantasy Legend' }, { text: ' for marketing reasons, despite not incorporating any elements found in Final Fantasy games. Later releases dropped the Final Fantasy title branding and used ' }, { emLinkText: 'SaGa', emLinkUrl: 'https://wikipedia.org/wiki/SaGa' }, { text: ' instead. Not to be confused with ' }, { emText: 'Final Fantasy Legends (2010)' }, { text: ' later renamed ' }, { emText: 'Final Fantasy Dimensions' }, { text: '.' }],

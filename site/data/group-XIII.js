@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder: 1400, title: 'Fabula Nova Crystallis – Final Fantasy XIII', note: 'With stories revolving around crystals associated with deities, the series marks the start of the cross-platform launch era, with PlayStation 3 and its Xbox debut on the Xbox 360.', media: [
+window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 1400, title: 'Fabula Nova Crystallis – Final Fantasy XIII', note: 'With stories revolving around crystals associated with deities, the series marks the start of the cross-platform launch era, with PlayStation 3 and its Xbox debut on the Xbox 360.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy XIII', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII', titleDate: '2009-12-17',
     mediaDesc: [
       'The government of the floating world of Cocoon orders a purge of civilians who have supposedly come into contact with Pulse, the much-feared world below. The former soldier Lightning begins her fight against the government in order to save her sister who has been branded as an unwilling servant to a god-like being from Pulse, making her an enemy of Cocoon.',
@@ -76,7 +76,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 200,
+    mediaType: 'Book', chronoOrder: 500, narrativeOrder: 200,
     title: 'Final Fantasy XIII: A Dreaming Cocoon Falls into the Dawn', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu', titleDate: '2010-09-30',
     by: 'Benny Matsuyama',
     mediaDesc: [
@@ -109,7 +109,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1000, recommendedOrder: 300,
+    mediaType: 'Book', chronoOrder: 1000, narrativeOrder: 300,
     title: 'Final Fantasy XIII-2 Fragments Before', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before', titleDate: '2011-12-15 10',
     by: 'Jun Eishima',
     mediaDesc: [
@@ -139,7 +139,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 400,
+    mediaType: 'Game', chronoOrder: 2000, narrativeOrder: 400,
     title: 'Final Fantasy XIII-2', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2', titleDate: '2011-12-15 20',
     mediaDesc: [
       [{ text: 'Lightning, the protagonist of ' }, { emLinkText: 'XIII (2009)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2009' }, { text: ', has disappeared into an unknown world. Her younger sister Serah and Noel  journey through time in an attempt to find her.' }],
@@ -213,7 +213,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 3000, recommendedOrder: 500,
+    mediaType: 'Book', chronoOrder: 3000, narrativeOrder: 500,
     title: 'Final Fantasy XIII-2 Fragments After', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_After', titleDate: '2012-06-21',
     by: 'Jun Eishima',
     mediaDesc: [
@@ -242,7 +242,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 4000, recommendedOrder: 600,
+    mediaType: 'Game', chronoOrder: 4000, narrativeOrder: 600,
     title: 'Lightning Returns: Final Fantasy XIII', titleUrl: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII', titleDate: '2013-11-21',
     mediaDesc: [
       [{ text: '500 years after ' }, { emLinkText: 'XIII-2 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2-2011' }, { text: ", Lightning awakens from a self-imposed hibernation thirteen days before the world's end. The deity Bhunivelze chooses her to save the people of the dying world, including former friends and allies who have developed heavy emotional burdens. As she travels, she learns the truth behind the world's fate and Bhunivelze's true agenda." }],
@@ -320,7 +320,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 5000, recommendedOrder: 700,
+    mediaType: 'Book', chronoOrder: 5000, narrativeOrder: 700,
     title: 'Final Fantasy XIII: Reminiscence -tracer of memories-', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-', titleDate: { start: '2014-06-03', end: '2014-07-10' },
     by: 'Daisuke Watanabe',
     mediaDesc: [
@@ -348,7 +348,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Book', chronoOrder: -2000, recommendedOrder: 800,
+    mediaType: 'Book', chronoOrder: -2000, narrativeOrder: 800,
     title: 'Final Fantasy XIII: Episode Zero: Promise', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-', titleDate: { start: '2009-09-28', end: '2009-12-24' },
     by: 'Jun Eishima',
     mediaDesc: [
@@ -404,7 +404,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     ],
   },
   {
-    mediaType: 'Game', chronoOrder: 100000, recommendedOrder: 900,
+    mediaType: 'Game', chronoOrder: 100000, narrativeOrder: 900,
     title: 'Final Fantasy Type-0', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Type-0', titleDate: '2011-10-27',
     mediaDesc: [
       [{ text: 'Class Zero, a group of fourteen students from the Dominion of Rubrum must fight the neighboring Militesi Empire when they launch an assault on the other Crystal States of Orience. The group become entangled in both the efforts to push back and defeat the forces of Militesi, and the secret behind the war and the existence of the crystals.' }],
@@ -464,7 +464,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 100400, recommendedOrder: 940,
+    mediaType: 'Comic', chronoOrder: 100400, narrativeOrder: 940,
     title: 'Final Fantasy Type-0 ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_(manga)', titleDate: { start: '2011-11-11', end: '2012-03' },
     by: [{ role: 'adapted', names: 'Hiroki Chiba' }, { role: 'illustrated', names: 'Takatoshi Shiozawa' }],
     mediaDesc: [
@@ -494,7 +494,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 99900, recommendedOrder: 945,
+    mediaType: 'Comic', chronoOrder: 99900, narrativeOrder: 945,
     title: 'Final Fantasy Type-0: The Ice Reaper', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper', titleDate: { start: '2012-04-11', end: '2014-02' },
     by: 'Takatoshi Shiozawa',
     mediaDesc: [
@@ -529,7 +529,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 99950, recommendedOrder: 950,
+    mediaType: 'Book', chronoOrder: 99950, narrativeOrder: 950,
     title: 'Final Fantasy Type-0: Change the World', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-', titleDate: { start: '2012-04-21', end: '2012-06-28' },
     by: 'Souki Tsukishima',
     mediaDesc: [
@@ -565,7 +565,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 100550, recommendedOrder: 1000,
+    mediaType: 'Game', chronoOrder: 100550, narrativeOrder: 1000,
     title: 'Final Fantasy Agito', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Agito#', titleDate: '2014-05-14',
     mediaDesc: [
       [{ text: 'Companion entry to ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ', you play a cadet entering the Rubrum Magical Academy during a time of war, and chosen to become the Agito, a figure destined to save Orience from destruction.' }],
@@ -586,7 +586,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 100560, recommendedOrder: 1050,
+    mediaType: 'Book', chronoOrder: 100560, narrativeOrder: 1050,
     title: 'Final Fantasy Agito: Change the World -A Whiter Shade of Pale-', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Agito#Post-release', titleDate: '2015-04-30',
     by: 'Tora Tsukishima',
     mediaDesc: [
@@ -614,7 +614,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, recommendedOrder
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 100570, recommendedOrder: 1100,
+    mediaType: 'Game', chronoOrder: 100570, narrativeOrder: 1100,
     title: 'Final Fantasy Awakening', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Awakening', titleDate: '2016-12-14',
     mediaDesc: [
       [{ text: 'Set in the ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ' alternate universe, you play as a cadet of the Dominion of Rubrum as the four nations of Orience are plunged into war.' }],

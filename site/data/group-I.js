@@ -1,9 +1,9 @@
 // schema: group.schema.json
-window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100, title: 'Final Fantasy I', note: [
+window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, title: 'Final Fantasy I', note: [
   [{ text: 'Where it all began, during the ' }, { tipText: 'NES', tip: 'Nintendo Entertainment System' }, { text: ' era, initially in limited 8-bit graphics.' }],
 ], media: [
   {
-    mediaType: 'Game', chronoOrder: -3000, recommendedOrder: 500,
+    mediaType: 'Game', chronoOrder: -3000, narrativeOrder: 500,
     title: 'Stranger of Paradise: Final Fantasy Origin', titleUrl: 'https://wikipedia.org/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin', titleDate: '2022-03-18',
     mediaDesc: [
       'Warriors Jack, Ash and Jed venture forth to defeat Chaos and save their world. But not all is as it seems. Some areas deliberately draw inspiration from other titles. Online co-op play may require an additional subscription on some platforms.',
@@ -53,7 +53,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100, 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: -2500, recommendedOrder: 510,
+    mediaType: 'Game', chronoOrder: -2500, narrativeOrder: 510,
     title: 'Stranger of Paradise: Trials of the Dragon King', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Trials_of_the_Dragon_King', titleDate: '2022-07-20',
     mediaDesc: [
       [{ text: 'Immediately follows ' }, { emLinkText: 'Stranger of Paradise: Final Fantasy Origin (2022)', emLinkUrl: '#entry-I-stranger-of-paradise-final-fantasy-origin-2022' }, { text: '. The warriors of light meet the Dragon King Bahamut.' }],
@@ -87,7 +87,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100, 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: -2000, recommendedOrder: 520,
+    mediaType: 'Game', chronoOrder: -2000, narrativeOrder: 520,
     title: 'Stranger of Paradise: Wanderer of the Rift', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Wanderer_of_the_Rift', titleDate: '2022-10-26',
     mediaDesc: [
       [{ text: 'Follows ' }, { emLinkText: 'Trials of the Dragon King (2022)', emLinkUrl: '#entry-I-stranger-of-paradise-trials-of-the-dragon-king-2022' }, { text: ' as Jack investigates an incursion into their world.' }],
@@ -115,7 +115,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100, 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: -1000, recommendedOrder: 530,
+    mediaType: 'Game', chronoOrder: -1000, narrativeOrder: 530,
     title: 'Stranger of Paradise: Different Future', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Different_Future', titleDate: '2023-01-27',
     mediaDesc: [
       [{ text: 'Follows ' }, { emLinkText: 'Wanderer of the Rift (2022)', emLinkUrl: '#entry-I-stranger-of-paradise-wanderer-of-the-rift-2022' }, { text: ', Jack must put an end to the machinations of the Lufenian Nil, who threatens their reality.' }],
@@ -143,7 +143,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100, 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 200,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 200,
     title: 'Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)', titleDate: '1987-12-18',
     mediaDesc: [
       'Four Warriors of Light depart on a quest to restore light to the crystals, defeat Chaos, and save their world. The first Final Fantasy game ever created.',
@@ -349,7 +349,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100, 
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 300,
+    mediaType: 'Comic', chronoOrder: 500, narrativeOrder: 300,
     title: 'Final Fantasy ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)', titleDate: '1989-12-30',
     by: [{ role: 'adapted', names: 'Yuu Kaimeiji' }],
     mediaDesc: [
@@ -375,7 +375,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100, 
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 700, recommendedOrder: 450,
+    mediaType: 'Book', chronoOrder: 700, narrativeOrder: 450,
     title: 'Final Fantasy I・II・III: Memory of Heroes ~I~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', titleDate: '2012-10-31',
     by: [{ role: 'adapted', names: 'Takashi Umemura' }],
     mediaDesc: [
@@ -411,7 +411,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, recommendedOrder: 100, 
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 800, recommendedOrder: 460,
+    mediaType: 'Comic', chronoOrder: 800, narrativeOrder: 460,
     title: '8-Bit Theater ~FFI~', titleUrl: 'https://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EightBitTheater', titleDate: { start: '2001-03-02', end: '2010-06-01' },
     mediaDesc: [
       [{ text: 'A fan-made affectionate parody of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ", follows the four Light Warriors (who really aren't the best for the job): Fighter McWarrior, an astoundingly stupid sword-obsessed warrior; Black Mage Evilwizardington, an Ax-Crazy homicidal sociopath who is only held back by the Rule of Funny and a tendency to get hurt; Thief, a fugitive prince of elf clan Khee'bler armed with extreme greed and an expertise in manipulative contracts; and Red Mage Statscowski, a so-called strategist who considers life to be a tabletop game, is obsessed with his stats, and was tricked into liking cross dressing. Entry also found in our " }, { emLinkText: 'Fan Projects', emLinkUrl: '#group-FAN' }, { text: ' series.' }],

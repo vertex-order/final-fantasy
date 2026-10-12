@@ -1,9 +1,9 @@
 // schema: group.schema.json
-window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 1600, title: 'Final Fantasy XV Universe', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Final_Fantasy_XV_Universe', note: [
+window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600, title: 'Final Fantasy XV Universe', url: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Final_Fantasy_XV_Universe', note: [
   [{ text: 'Loosely connected to ' }, { emText: 'Fabula Nova Crystallis – Final Fantasy XIII' }, { text: ' (optional to play first), XV was designed from the start as a multi-media story across games, TV, movies, and manga.' }],
 ], media: [
   {
-    mediaType: 'TV', chronoOrder: -2000, recommendedOrder: 100,
+    mediaType: 'TV', chronoOrder: -2000, narrativeOrder: 100,
     title: 'Brotherhood: Final Fantasy XV', titleUrl: 'https://wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV', titleDate: '2016-03-30 10',
     mediaDesc: [
       'Details the backstories of Noctis Lucis Caelum and his friends. Also included with some game releases in the XV series.',
@@ -33,7 +33,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 200,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 200,
     title: 'Final Fantasy XV', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV', titleDate: '2016-11-29 10',
     mediaDesc: [
       'Takes place on the fictional world of Eos; aside from Insomnia, the capital of Lucis, all the world is dominated by the empire of Niflheim, who seek control of the magical Crystal protected by the Lucian royal family. On the eve of peace negotiations, Niflheim attacks the capital and steals the Crystal. Noctis Lucis Caelum, heir to the Lucian throne, goes on a quest to rescue the Crystal and defeat Niflheim.',
@@ -146,7 +146,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     ],
   },
   {
-    mediaType: 'Audio', chronoOrder: -1200, recommendedOrder: 280,
+    mediaType: 'Audio', chronoOrder: -1200, narrativeOrder: 280,
     title: 'Final Fantasy XV Prologue: Parting Ways', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_~Tabidatsu_Mono,_Nokoru_Mono~', titleDate: '2016-11-01',
     mediaDesc: [
       [{ text: 'Noctis and his friends were doing just before the events of ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: ', as Noctis heads to the Citadel to discuss his upcoming journey to Altissia for his wedding to Lunafreya. Also known as ' }, { emText: 'Final Fantasy XV Prologue ~Tabidatsu Mono, Nokoru Mono~' }, { text: '.' }],
@@ -189,7 +189,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     ],
   },
   {
-    mediaType: 'Movie', chronoOrder: -1000, recommendedOrder: 300,
+    mediaType: 'Movie', chronoOrder: -1000, narrativeOrder: 300,
     title: 'Kingsglaive: Final Fantasy XV', titleUrl: 'https://wikipedia.org/wiki/Kingsglaive:_Final_Fantasy_XV', titleDate: '2016-07-09',
     mediaDesc: [
       [{ text: 'If you plan to play ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: ', do chapter 1 of the game first before watching this movie to avoid spoiling early game reveals. Then come back and watch it.' }],
@@ -216,7 +216,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 500, recommendedOrder: 310,
+    mediaType: 'Game', chronoOrder: 500, narrativeOrder: 310,
     title: 'Final Fantasy XV: Episode Gladiolus', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content', titleDate: '2017-03-28',
     mediaDesc: [
       'Gladiolus Amicitia as the player character.',
@@ -245,7 +245,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 600, recommendedOrder: 320,
+    mediaType: 'Game', chronoOrder: 600, narrativeOrder: 320,
     title: 'Final Fantasy XV: Episode Prompto', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content', titleDate: '2017-06-27',
     mediaDesc: [
       'Takes place during a late-game narrative gap and follows Prompto Argentum as the player character, with the gameplay shifting towards third-person shooting and stealth-based mechanics.',
@@ -273,7 +273,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 700, recommendedOrder: 330,
+    mediaType: 'Game', chronoOrder: 700, narrativeOrder: 330,
     title: 'Final Fantasy XV: Episode Ignis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content', titleDate: '2017-12-13',
     mediaDesc: [
       'Follows Ignis Scientia as he allies with the Imperial commander Ravus Nox Fleuret to protect Noctis.',
@@ -300,7 +300,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Video', chronoOrder: -5000, recommendedOrder: 400,
+    mediaType: 'Video', chronoOrder: -5000, narrativeOrder: 400,
     title: 'Final Fantasy XV: Episode Ardyn – Prologue', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Episode_Ardyn_%E2%80%93_Prologue', titleDate: '2019-02-16',
     mediaDesc: [
       "Details the background of Ardyn Izunia from 2,000 years ago in Eos' history when he used to work as a healer. Closed captioning is available.",
@@ -322,7 +322,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Game', chronoOrder: -4500, recommendedOrder: 410,
+    mediaType: 'Game', chronoOrder: -4500, narrativeOrder: 410,
     title: 'Final Fantasy XV: Episode Ardyn', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content', titleDate: '2019-03-26',
     mediaDesc: [
       'Set thirty years prior to the main game, Episode Ardyn details how Ardyn was discovered by the Empire of Niflheim and began his plot of revenge against the Lucian bloodline.',
@@ -351,7 +351,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Game', chronoOrder: -3000, recommendedOrder: 500,
+    mediaType: 'Game', chronoOrder: -3000, narrativeOrder: 500,
     title: 'Platinum Demo – Final Fantasy XV Prologue', titleUrl: 'https://wikipedia.org/wiki/Development_of_Final_Fantasy_XV#Demos', titleDate: '2016-03-30 20',
     mediaDesc: [
       [{ text: 'Meant as a prologue to ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '. Set in a dream world after Noctis is gravely wounded as a child, it follows his journey back to consciousness, guided by a creature called Carbuncle that protects Noctis.' }],
@@ -380,7 +380,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Game', chronoOrder: -4000, recommendedOrder: 600,
+    mediaType: 'Game', chronoOrder: -4000, narrativeOrder: 600,
     title: 'A King’s Tale: Final Fantasy XV', titleUrl: "https://wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#A_King's_Tale:_Final_Fantasy_XV", titleDate: '2016-11-29 20',
     mediaDesc: [
       [{ text: 'Follows the exploits of Regis Lucis Caelum CXIII, the king of Lucis and father of Noctis thirty years before ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '’s events. Also known as ' }, { emText: "A King's Tale: Final Fantasy XV" }, { text: ' (straight apostrophe).' }],
@@ -407,7 +407,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 700,
+    mediaType: 'Game', chronoOrder: 1000, narrativeOrder: 700,
     title: 'Monster of the Deep: Final Fantasy XV', titleUrl: 'https://wikipedia.org/wiki/Monster_of_the_Deep:_Final_Fantasy_XV', titleDate: '2017-11-21',
     mediaDesc: [
       [{ text: 'Players interact with the four main characters of ' }, { emText: 'XV' }, { text: ' while taking part in fishing around a variety of locations.' }],
@@ -436,7 +436,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 800,
+    mediaType: 'Game', chronoOrder: 2000, narrativeOrder: 800,
     title: 'Final Fantasy XV: A New Empire', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV:_A_New_Empire', titleDate: '2017-06-29',
     mediaDesc: [
       'Focused on the development of Insomnia as a kingdom. Due to it being terminated, it is recommended to watch the official clips and/or a fan story recap or playthrough for story elements.',
@@ -459,7 +459,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 900,
+    mediaType: 'Game', chronoOrder: 3000, narrativeOrder: 900,
     title: 'Final Fantasy XV: War for Eos', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_War_for_Eos', titleDate: '2022-03-21',
     mediaDesc: [
       [{ text: 'Picking up where ' }, { emLinkText: 'XV: A New Empire (2017)', emLinkUrl: '#entry-XV-final-fantasy-xv-a-new-empire-2017' }, { text: " left off, focuses on the rebuilding of Insomnia after the Niflheim Empire's attack. Game is terminated." }],
@@ -480,7 +480,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Game', chronoOrder: -3100, recommendedOrder: 1000,
+    mediaType: 'Game', chronoOrder: -3100, narrativeOrder: 1000,
     title: "King's Knight", titleUrl: "https://wikipedia.org/wiki/King's_Knight", titleDate: '1986-09-18',
     mediaDesc: [
       [{ text: 'Retroactively put inside the ' }, { emText: 'Final Fantasy XV' }, { text: ' universe after one of the characters mentions it being their favorite game. You can play it as a tie-in curiosity but its story does not relate directly to ' }, { emText: 'XV' }, { text: '. It was briefly re-made as ' }, { emLinkText: "King's Knight: Wrath of the Dark Dragon (2017)", emLinkUrl: 'https://wikipedia.org/wiki/King%27s_Knight#Remake' }, { text: ' as an official tie-in but that version was terminated.' }],
@@ -551,7 +551,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 3500, recommendedOrder: 950,
+    mediaType: 'Book', chronoOrder: 3500, narrativeOrder: 950,
     title: 'Final Fantasy XV: The Dawn of the Future', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_-The_Dawn_of_the_Future-', titleDate: '2019-04-25',
     by: 'Jun Eishima',
     mediaDesc: [
@@ -580,7 +580,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 3600, recommendedOrder: 960,
+    mediaType: 'Comic', chronoOrder: 3600, narrativeOrder: 960,
     title: 'Final Fantasy XV Official Comic Anthology', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology', titleDate: { start: '2017-07-27', end: '2017-12-26' },
     mediaDesc: [
       [{ text: 'Two anthologies of short manga centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum. Released in Japan as ' }, { emText: 'Fainaru Fantajī Fifutīn Kōshiki Comikku Ansorojī' }, { text: ' (ファイナルファンタジーXV 公式コミックアンソロジー).' }],
@@ -606,7 +606,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, recommendedOrder: 16
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 3800, recommendedOrder: 970,
+    mediaType: 'Game', chronoOrder: 3800, narrativeOrder: 970,
     title: 'Justice Monsters Five', titleUrl: 'https://wikipedia.org/wiki/Justice_Monsters_Five', titleDate: '2016-08-30',
     mediaDesc: [
       [{ text: 'Mobile pinball game based on a minigame from ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '. It is terminated.' }],

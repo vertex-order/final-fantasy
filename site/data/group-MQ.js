@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['MQ'] = { num: 'MQ', chronoOrder: 350, recommendedOrder: 350, title: 'Mystic Quest', note: 'A spin-off designed as a simplified turn-based RPG for new players, and the first Final Fantasy game released in Europe.', media: [
+window.__ffGroupReg['MQ'] = { num: 'MQ', chronoOrder: 350, narrativeOrder: 350, title: 'Mystic Quest', note: 'A spin-off designed as a simplified turn-based RPG for new players, and the first Final Fantasy game released in Europe.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy Mystic Quest', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Mystic_Quest', titleDate: '1992-10-05',
     mediaDesc: [
       'Benjamin journeys to reclaim the stolen crystals and restore balance to the world.',

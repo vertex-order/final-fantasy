@@ -1,9 +1,9 @@
 // schema: group.schema.json
-window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400, title: 'Final Fantasy IV', note: [
+window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, title: 'Final Fantasy IV', note: [
   [{ text: 'The first Final Fantasy to be made in glorious 16-bit graphics, initially during the ' }, { tipText: 'SNES', tip: 'Super Nintendo Entertainment System' }, { text: ' era.' }],
 ], media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy IV', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV', titleDate: '1991-07-19',
     mediaDesc: [
       'The dark knight Cecil tries to prevent sorcerer Golbez from seizing powerful crystals and destroying the world.',
@@ -226,7 +226,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
     ],
   },
   {
-    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 150,
+    mediaType: 'Book', chronoOrder: 500, narrativeOrder: 150,
     title: 'Final Fantasy IV ~Novel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: { start: '2008-12-25', end: '2009' },
     by: [{ role: 'adapted', names: 'Ichiro Tezuka' }],
     mediaDesc: [
@@ -278,7 +278,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
     ],
   },
   {
-    mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200,
+    mediaType: 'Game', chronoOrder: 1000, narrativeOrder: 200,
     title: 'Final Fantasy IV: Interlude', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_Complete_Collection', titleDate: '2011-03-24',
     mediaDesc: [
       ['Cecil and Rosa have a short adventure set between ', { emLinkText: 'IV (1991)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991' }, ' and ', { emLinkText: 'The After Years (2008)', emLinkUrl: '#entry-IV-final-fantasy-iv-the-after-years-2008' }, ' meant to bridge the two games.'],
@@ -309,7 +309,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300,
+    mediaType: 'Game', chronoOrder: 2000, narrativeOrder: 300,
     title: 'Final Fantasy IV: The After Years', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', titleDate: '2008-02-18',
     mediaDesc: [
       ['Episodic tales following the cast of ', { emLinkText: 'IV (1991)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991' }, ' 17 years later. Roughly compiled together from episodic phone games into a single disjointed title as ', { emText: 'The After Years' }, '.'],
@@ -395,7 +395,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, recommendedOrder: 400
     ],
   },
   {
-    mediaType: 'Book', chronoOrder: 2500, recommendedOrder: 350,
+    mediaType: 'Book', chronoOrder: 2500, narrativeOrder: 350,
     title: 'Final Fantasy IV: The After ~Novel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2009-03-26',
     by: [{ role: 'adapted', names: 'Ichiro Tezuka' }],
     mediaDesc: [

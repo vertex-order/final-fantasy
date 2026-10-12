@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 1510, title: 'Theatrhythm', note: 'A rhythm spin-off, mashing up elements and music from across the franchise, and occasionally outside franchises altogether.', media: [
+window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, narrativeOrder: 1510, title: 'Theatrhythm', note: 'A rhythm spin-off, mashing up elements and music from across the franchise, and occasionally outside franchises altogether.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Theatrhythm Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy', titleDate: '2012-02-16',
     mediaDesc: [
       'Players take control of four Final Fantasy characters, and select a game from the first Final Fantasy to XIII. Each game has three stages: field, battle, and event. Each stage features different game mechanics than the others; once a stage is completed, the characters level up.',
@@ -27,7 +27,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 15
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
+    mediaType: 'Game', chronoOrder: 100, narrativeOrder: 200,
     title: 'Theatrhythm Final Fantasy: Curtain Call', titleUrl: 'https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy:_Curtain_Call', titleDate: '2014-04-24',
     mediaDesc: [
       [{ text: 'Adds Versus Battle and Quest Medleys modes, as well as expanding the track library to 221 tracks including from spin-off titles including other franchises. Followup to ' }, { emLinkText: 'Theatrhythm Final Fantasy (2012)', emLinkUrl: '#entry-TR-theatrhythm-final-fantasy-2012' }, { text: '.' }],
@@ -53,7 +53,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 15
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300,
+    mediaType: 'Game', chronoOrder: 200, narrativeOrder: 300,
     title: 'Theatrhythm Final Fantasy All-Star Carnival', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy_All-Star_Carnival', titleDate: '2016-09-27',
     mediaDesc: [
       'The game features revamped arcade controls, improved graphics, cooperative play.',
@@ -71,7 +71,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, recommendedOrder: 15
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 300, recommendedOrder: 400,
+    mediaType: 'Game', chronoOrder: 300, narrativeOrder: 400,
     title: 'Theatrhythm Final Bar Line', titleUrl: 'https://wikipedia.org/wiki/Theatrhythm_Final_Bar_Line', titleDate: '2023-02-16',
     mediaDesc: [
       '505 tracks from Final Fantasy and other franchises. Has elements from all previous games, with an enhanced role-playing element.',

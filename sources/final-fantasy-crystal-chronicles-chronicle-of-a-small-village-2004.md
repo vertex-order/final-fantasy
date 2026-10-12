@@ -76,7 +76,7 @@ duckduckgo.com (Information)
 
 ## Prequel framing
 
-- A Japanese fan wiki (wikiwiki.jp) describes the contents as events shortly before the game starts, with new episodes the game never told; the English "probably a direct adaptation" guesses (Marathon Recaps, The Lifestream forum) are unsure, so the entry is tagged Prequel, credited with a bare `by`, and ordered before the game in chrono order and after the sequels and the other prequels in recommended order (chronoOrder -100, recommendedOrder 650) — the user's call, 2026-10-11
+- A Japanese fan wiki (wikiwiki.jp) describes the contents as events shortly before the game starts, with new episodes the game never told; the English "probably a direct adaptation" guesses (Marathon Recaps, The Lifestream forum) are unsure, so the entry is tagged Prequel, credited with a bare `by`, and ordered before the game in chrono order and after the sequels and the other prequels in recommended order (chronoOrder -100, narrativeOrder 650) — the user's call, 2026-10-11
 - Names: "Crim" (the Chibis wiki's spelling of クリム) is the protagonist, a Tipa caravaner senior to the game's caravan
 
 ## Publisher page

@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 900, title: 'Final Fantasy IX', note: 'A retrospective entry, returning to the medieval style of the earlier games.', media: [
+window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, narrativeOrder: 900, title: 'Final Fantasy IX', note: 'A retrospective entry, returning to the medieval style of the earlier games.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy IX', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IX', titleDate: '2000-07-07',
     mediaDesc: [
       'Zidane kidnaps princess Garnet as part of a ploy between nations at war in this medieval setting.',
@@ -69,7 +69,7 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, recommendedOrder: 900
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 300,
+    mediaType: 'Book', chronoOrder: 500, narrativeOrder: 300,
     title: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky", titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646094738', titleDate: '2025-07-02',
     mediaDesc: [
       [{ text: 'Vivi is a mysterious boy fished out of the ocean by Grandpa Quan, a gourmand trying to master the art of food. Once Grandpa Quan realizes Vivi is not food, he raises Vivi and teaches him about the world. Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-ix-picture-book-vivi-and-grandpas-memories-for-the-sky-2025' }, { text: ' series.' }],

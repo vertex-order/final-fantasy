@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, recommendedOrder: 1390, title: 'Dissidia Final Fantasy', note: "Final Fantasy's take on the fighting game genre. Titles contain elements and characters from other Final Fantasy entries, and thus could be considered a mash-up or alternate universe.", media: [
+window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 1390, title: 'Dissidia Final Fantasy', note: "Final Fantasy's take on the fighting game genre. Titles contain elements and characters from other Final Fantasy entries, and thus could be considered a mash-up or alternate universe.", media: [
   {
-    mediaType: 'Game', chronoOrder: -100, recommendedOrder: 50,
+    mediaType: 'Game', chronoOrder: -100, narrativeOrder: 50,
     title: 'Dissidia Duodecim Prologus Final Fantasy', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Dissidia_Duodecim_Prologus_Final_Fantasy', titleDate: '2011-01-18',
     mediaDesc: [
       [{ text: 'This prologue features a single storyline with Lightning and the Warrior of Light as the main characters, teaming up to investigate enemy movement and clashing with several villains from across the series.' }],
@@ -28,7 +28,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Dissidia Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy', titleDate: '2008-12-18',
     mediaDesc: [
       'Focuses on the twelfth war between the gods Chaos and Cosmos who have summoned several warriors from parallel worlds to fight for them.',
@@ -80,7 +80,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
+    mediaType: 'Game', chronoOrder: 100, narrativeOrder: 200,
     title: 'Dissidia Final Fantasy NT', titleUrl: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_NT', titleDate: '2015-11-26',
     mediaDesc: [
       [{ text: 'Set long after the events of ' }, { emText: 'Dissidia 012 (2011)' }, { text: ', the story centers around the conflict between the goddess Materia and the god Spiritus, who have summoned warriors to fight for them against the other.' }],
@@ -118,7 +118,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300,
+    mediaType: 'Game', chronoOrder: 200, narrativeOrder: 300,
     title: 'Dissidia Final Fantasy Opera Omnia', titleUrl: 'https://wikipedia.org/wiki/Dissidia_Final_Fantasy_Opera_Omnia', titleDate: '2017-02-01',
     mediaDesc: [
       [{ text: 'The events that took place were complementary to those that transpire in the world of the ' }, { emText: 'Dissidia NT (2015)' }, { text: ' since they share the same gods and the same crystals.' }],
@@ -146,7 +146,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 300, recommendedOrder: 400,
+    mediaType: 'Game', chronoOrder: 300, narrativeOrder: 400,
     title: 'Dissidia Duellum Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/Dissidia_Duellum_Final_Fantasy', titleDate: '2026-03-24',
     mediaDesc: [
       [{ text: 'The warriors of light find themselves transported to a new and unfamiliar world, which is revealed to be modern-day Tokyo. Despite their preceding titles, it is presumed that this is an entirely stand-alone story, as the warriors of light in Dissidia Duellum do not seem to recognize each other. Swarms of monsters start appearing in the city and draining the civilians of their vitality.' }],

@@ -1,9 +1,9 @@
 // schema: group.schema.json
-window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 1300, title: 'Ivalice Alliance – Final Fantasy XII', url: 'https://wikipedia.org/wiki/Ivalice', note: [
+window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 1300, title: 'Ivalice Alliance – Final Fantasy XII', url: 'https://wikipedia.org/wiki/Ivalice', note: [
   [{ text: 'The titular title, a ' }, { emText: 'classic rpg' }, { text: ', is known for its divisive customizable auto-battle system. The series is also notable for ' }, { emText: 'Final Fantasy Tactics' }, { text: ' and several ' }, { emText: 'turn-based tactical rpgs' }, { text: ', which almost deserve their own series.' }],
 ], media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy XII', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII', titleDate: '2006-03-16',
     mediaDesc: [
       [{ text: 'The empires of Archadia and Rozarria are waging an endless war. Vaan meets princess Ashe of Dalmasca, who has established a resistance movement.' }],
@@ -107,7 +107,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
     ],
   },
   {
-    mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 150,
+    mediaType: 'Comic', chronoOrder: 500, narrativeOrder: 150,
     title: 'Final Fantasy XII ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_(manga)', titleDate: { start: '2006-06', end: '2009-06-25' },
     by: [{ role: 'adapted', names: 'Gin Amou' }],
     mediaDesc: [
@@ -134,7 +134,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200,
+    mediaType: 'Game', chronoOrder: 1000, narrativeOrder: 200,
     title: 'Final Fantasy XII: Revenant Wings', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings', titleDate: '2007-04-26',
     mediaDesc: [
       [{ text: 'Vaan and Penelo become sky pirates and end up involved in a conflict surrounding the floating continent of Lemurés. A standalone sequel to ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: '.' }],
@@ -162,7 +162,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300,
+    mediaType: 'Game', chronoOrder: 2000, narrativeOrder: 300,
     title: 'Final Fantasy Tactics Advance', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_Advance', titleDate: '2003-02-14',
     mediaDesc: [
       'Marche enters an alternate universe Ivalice populated with his friends living different lives; conflict ensues as he attempts to get home.',
@@ -215,7 +215,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
     ],
   },
   {
-    mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 400,
+    mediaType: 'Game', chronoOrder: 3000, narrativeOrder: 400,
     title: 'Final Fantasy Tactics A2: Grimoire of the Rift', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift', titleDate: '2007-10-25',
     mediaDesc: [
       [{ text: 'Luso is transported to Ivalice and battles rival clans as he seeks a way home.' }],
@@ -243,7 +243,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 4000, recommendedOrder: 500,
+    mediaType: 'Game', chronoOrder: 4000, narrativeOrder: 500,
     title: 'Final Fantasy Tactics', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics', titleDate: '1997-06-20',
     mediaDesc: [
       [{ text: 'Far in the future, the mercenary Ramza is involved in a civil war when an ancient demonic evil starts to take hold over the world.' }],
@@ -340,7 +340,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 6100, recommendedOrder: 600,
+    mediaType: 'Game', chronoOrder: 6100, narrativeOrder: 600,
     title: 'Vagrant Story', titleUrl: 'https://wikipedia.org/wiki/Vagrant_Story', titleDate: '2000-02-10',
     mediaDesc: [
       [{ text: 'Ashley, an elite agent known as a Riskbreaker, must travel to Leá Monde to investigate the link between a cult leader and a senior Valendian Parliament member, Duke Bardorba. Considered to be in some future time after ' }, { emLinkText: 'Final Fantasy Tactics (1997)', emLinkUrl: '#entry-XII-final-fantasy-tactics-1997' }, { text: '.' }],
@@ -371,7 +371,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 6000, recommendedOrder: 700,
+    mediaType: 'Game', chronoOrder: 6000, narrativeOrder: 700,
     title: 'Final Fantasy Tactics S', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_S', titleDate: '2013-05-28',
     mediaDesc: [
       [{ text: 'Mobile social game featuring jobs from the ' }, { emText: 'Tactics' }, { text: ' series, join a clan and engage in quests to compete with other clans in daily tournaments.' }],
@@ -390,7 +390,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 3100, recommendedOrder: 750,
+    mediaType: 'Game', chronoOrder: 3100, narrativeOrder: 750,
     title: 'Crystal Defenders', titleUrl: 'https://wikipedia.org/wiki/Crystal_Defenders', titleDate: '2008-01-28',
     mediaDesc: [
       [{ text: 'Tower defense game inspired by elements from ' }, { emLinkText: 'Tactics A2: Grimoire of the Rift (2007)', emLinkUrl: '#entry-XII-final-fantasy-tactics-a2-grimoire-of-the-rift-2007' }, { text: ' set in Ivalice. Initially released as ' }, { emText: 'Crystal Guardians' }, { text: '. Some platforms may have only partial content, or higher graphics under the name ' }, { emText: 'Crystal Defenders Plus' }, { text: '.' }],
@@ -420,7 +420,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 3200, recommendedOrder: 800,
+    mediaType: 'Game', chronoOrder: 3200, narrativeOrder: 800,
     title: 'Crystal Defenders: Vanguard Storm', titleUrl: 'https://wikipedia.org/wiki/Crystal_Defenders', titleDate: '2009-05-13',
     mediaDesc: [
       [{ text: 'Tower defense game inspired by elements from ' }, { emLinkText: 'Tactics A2: Grimoire of the Rift (2007)', emLinkUrl: '#entry-XII-final-fantasy-tactics-a2-grimoire-of-the-rift-2007' }, { text: ' set in Ivalice, as a direct sequel to ' }, { emLinkText: 'Crystal Defenders (2008)', emLinkUrl: '#entry-XII-crystal-defenders-2008' }, { text: '.' }],

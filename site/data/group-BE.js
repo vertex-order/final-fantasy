@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 1550, title: 'Brave Exvius', note: 'A gacha mobile world remade into a standalone story driven turn-based RPG with modern pixel art. Incorporates original elements with existing titles, including other franchises altogether. Can be considered a bit of an alternate universe mashup spin-off.', media: [
+window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550, title: 'Brave Exvius', note: 'A gacha mobile world remade into a standalone story driven turn-based RPG with modern pixel art. Incorporates original elements with existing titles, including other franchises altogether. Can be considered a bit of an alternate universe mashup spin-off.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy Resonance', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Resonance', titleDate: '2026-10-22',
     mediaDesc: [
       [{ text: 'Rain, Lasswell, and Fina set out to protect the remaining crystals across the world after the Earth Crystal is destroyed by Veritas of the Dark.' }],
@@ -38,7 +38,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 15
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 110,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 110,
     title: 'Final Fantasy Brave Exvius', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Brave_Exvius', titleDate: '2015-10-22',
     mediaDesc: [
       'Rain and Lasswell help fight off an attack on the Earth crystal. Incorporates elements and characters from other Final Fantasy titles, as well as outside franchises. Can be considered a bit of a mash-up.',
@@ -66,7 +66,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 15
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 50, recommendedOrder: 150,
+    mediaType: 'Comic', chronoOrder: 50, narrativeOrder: 150,
     title: 'Final Fantasy Brave Exvius Rikodoki!', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki!', titleDate: { start: '2017-09-20', end: '2018-07-25' },
     by: 'Takeshi Matsumoto',
     mediaDesc: [
@@ -93,7 +93,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 15
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
+    mediaType: 'Game', chronoOrder: 100, narrativeOrder: 200,
     title: 'Final Fantasy Brave Exvius Tap!', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Tap!', titleDate: '2017-09-08',
     mediaDesc: [
       'A clicker or incremental game.',
@@ -110,7 +110,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, recommendedOrder: 15
     },
   },
   {
-    mediaType: 'Game', chronoOrder: -1000, recommendedOrder: 300,
+    mediaType: 'Game', chronoOrder: -1000, narrativeOrder: 300,
     title: 'War of the Visions: Final Fantasy Brave Exvius', titleUrl: 'https://wikipedia.org/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius', titleDate: '2019-11-14',
     mediaDesc: [
       [{ text: 'War breaks out between five rival nations on Lapis in the distant past of ' }, { emLinkText: 'Brave Exvius (2015)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-2015' }, { text: '.' }],

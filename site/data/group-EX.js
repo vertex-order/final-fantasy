@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['EX'] = { num: 'EX', chronoOrder: 1520, recommendedOrder: 1520, title: 'Explorers', note: 'Features a unique multiplayer aspect, and lets you customize your party for each quest-driven encounter.', media: [
+window.__ffGroupReg['EX'] = { num: 'EX', chronoOrder: 1520, narrativeOrder: 1520, title: 'Explorers', note: 'Features a unique multiplayer aspect, and lets you customize your party for each quest-driven encounter.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy Explorers', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Explorers', titleDate: '2014-12-18',
     mediaDesc: [
       'Explore beyond your island to collect crystals scattered across the world. Keep the game challenging via customizable difficulty, and enjoy multiplayer kept alive by the fan community.',
@@ -30,7 +30,7 @@ window.__ffGroupReg['EX'] = { num: 'EX', chronoOrder: 1520, recommendedOrder: 15
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
+    mediaType: 'Game', chronoOrder: 100, narrativeOrder: 200,
     title: 'Final Fantasy Explorers-Force', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Explorers-Force', titleDate: '2018-03-20',
     mediaDesc: [
       [{ text: 'Players used jobs, abilities and weapons to organize parties and defeat summoned beasts, similar to the gameplay from ' }, { emLinkText: 'Explorers (2014)', emLinkUrl: '#entry-EX-final-fantasy-explorers-2014' }, { text: '. It also had character appearances from other Final Fantasy series, and could be considered a mash-up or alternate universe as a result. It is terminated.' }],

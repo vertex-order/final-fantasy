@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, recommendedOrder: 600, title: 'Final Fantasy VI', note: 'The last mainline entry to feature 2D sprite graphics, especially outside of mobile games.', media: [
+window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, narrativeOrder: 600, title: 'Final Fantasy VI', note: 'The last mainline entry to feature 2D sprite graphics, especially outside of mobile games.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy VI', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VI', titleDate: '1994-04-02',
     mediaDesc: [
       [{ text: 'Join the rebellion (the ' }, { emText: 'Returners' }, { text: ') against the immoral military dictatorship; the industrial ' }, { emText: 'Gestahl Empire' }, { text: '.' }],
@@ -132,7 +132,7 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, recommendedOrder: 600
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 500,
+    mediaType: 'Book', chronoOrder: 500, narrativeOrder: 500,
     title: "Figaro's Wedding: Tales from Desert", titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Figaro_no_Kekkon:_Tales_from_Desert', titleDate: '1994',
     by: 'Kaori Tanaka',
     mediaDesc: [

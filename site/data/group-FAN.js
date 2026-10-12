@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder: 1790, title: 'Fan Projects', note: 'Unofficial, usually unsanctioned, fan projects set in the Final Fantasy universe that are mostly original and could be considered of high quality.', media: [
+window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, narrativeOrder: 1790, title: 'Fan Projects', note: 'Unofficial, usually unsanctioned, fan projects set in the Final Fantasy universe that are mostly original and could be considered of high quality.', media: [
   {
-    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 100, narrativeOrder: 100,
     title: 'Final Fantasy Renaissance', titleUrl: 'https://www.rengames.us/ffr', titleDate: '2024',
     mediaDesc: [
       [{ text: 'A fan-remake of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: " in the Unity game engine that fixes many of the original's bugs. Also includes an extra mode with extra gameplay content like new jobs. Released free-to-play via Discord as " }, { emText: 'Final Fantasy Renaissance' }, { text: '. Entry also found in our ' }, { emLinkText: 'Final Fantasy I', emLinkUrl: '#group-I' }, { text: ' series.' }],
@@ -19,7 +19,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 200, recommendedOrder: 200,
+    mediaType: 'Comic', chronoOrder: 200, narrativeOrder: 200,
     title: '8-Bit Theater ~FFI~', titleUrl: 'https://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EightBitTheater', titleDate: { start: '2001-03-02', end: '2010-06-01' },
     mediaDesc: [
       [{ text: 'A fan-made affectionate parody of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ", follows the four Light Warriors (who really aren't the best for the job): Fighter McWarrior, an astoundingly stupid sword-obsessed warrior; Black Mage Evilwizardington, an Ax-Crazy homicidal sociopath who is only held back by the Rule of Funny and a tendency to get hurt; Thief, a fugitive prince of elf clan Khee'bler armed with extreme greed and an expertise in manipulative contracts; and Red Mage Statscowski, a so-called strategist who considers life to be a tabletop game, is obsessed with his stats, and was tricked into liking cross dressing. Entry also found in our " }, { emLinkText: 'Final Fantasy I', emLinkUrl: '#group-I' }, { text: ' series.' }],
@@ -37,7 +37,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 300, recommendedOrder: 300,
+    mediaType: 'Book', chronoOrder: 300, narrativeOrder: 300,
     title: 'Final Fantasy IV: The Novel ~Fan Project~', titleUrl: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel', titleDate: '2002-08-10',
     mediaDesc: [
       [{ text: 'A fan novelization of ' }, { emLinkText: 'IV (1991) 3D Remake (2007)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991-or-x-3d-remake-2007' }, { text: ' and ' }, { emLinkText: 'IV: The After Years (2008)', emLinkUrl: '#entry-IV-final-fantasy-iv-the-after-years-2008' }, { text: '. Entry also found in our ' }, { emLinkText: 'IV', emLinkUrl: '#group-IV' }, { text: ' series.' }],
@@ -56,7 +56,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 400, recommendedOrder: 400,
+    mediaType: 'Game', chronoOrder: 400, narrativeOrder: 400,
     title: 'Final Fantasy XI: Braver', titleUrl: 'https://mithrandir133.itch.io/final-fantasy-xi-braver', titleDate: '2021-07-10',
     mediaDesc: [
       [{ text: 'Taking place roughly in the world of ' }, { emLinkText: 'XI: Rise of the Zilart (2003)', emLinkUrl: '#entry-XI-final-fantasy-xi-rise-of-the-zilart-2003' }, { text: ' with a sprinkle from other Final Fantasy titles, making it a bit of an alternate universe re-imagining. Entry also found in our ' }, { emLinkText: 'XI', emLinkUrl: '#group-XI' }, { text: ' series.' }],
@@ -77,7 +77,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 500, recommendedOrder: 500,
+    mediaType: 'Game', chronoOrder: 500, narrativeOrder: 500,
     title: 'Final Fantasy XIV: Legend of Balance', titleUrl: 'https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Legend_of_Balance', titleDate: '2013-01',
     mediaDesc: [
       [{ text: 'Taking place between the original ' }, { emText: 'XIV ~1.0~ (2010)' }, { text: ' and the start of ' }, { emLinkText: 'XIV: A Realm Reborn (2013)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-a-realm-reborn-2013' }, { text: ' with an original fan created story that can be considered an alternate universe. It can be played without knowing about either. Released as ' }, { emText: 'Final Fantasy: Legend of Balance' }, { text: '. Entry also found in our ' }, { emLinkText: 'XIV', emLinkUrl: '#group-XIV' }, { text: ' series.' }],
@@ -98,7 +98,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 600, recommendedOrder: 600,
+    mediaType: 'Game', chronoOrder: 600, narrativeOrder: 600,
     title: 'Final Fantasy: Endless Nova', titleUrl: 'https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Endless_Nova', titleDate: '2002',
     mediaDesc: [
       'Follows the story of a young man as he quests through the universe, looking for a place to belong. With an enigmatic cast of interesting characters.',

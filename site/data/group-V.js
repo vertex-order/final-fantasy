@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500, title: 'Final Fantasy V', note: 'For the first 7 years, this series was only available in Japan.', media: [
+window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, title: 'Final Fantasy V', note: 'For the first 7 years, this series was only available in Japan.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy V', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_V', titleDate: '1992-12-06',
     mediaDesc: [
       'Wandering Bartz investigates a fallen meteor and must prevent the resurgence of evil sorcerer Exdeath into the world.',
@@ -136,7 +136,7 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, recommendedOrder: 500, 
     },
   },
   {
-    mediaType: 'Movie', chronoOrder: 1000, recommendedOrder: 200,
+    mediaType: 'Movie', chronoOrder: 1000, narrativeOrder: 200,
     title: 'Final Fantasy: Legend of the Crystals', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_Legend_of_the_Crystals', titleDate: '1994-03-21',
     mediaDesc: [
       [{ text: 'Two hundred years after ' }, { emLinkText: 'V (1992)', emLinkUrl: '#entry-V-final-fantasy-v-1992' }, { text: ', Prettz and Linally must defeat the new evil Deathgyunos.' }],

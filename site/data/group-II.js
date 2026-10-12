@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200, title: 'Final Fantasy II', note: 'For the first 14 years, this series was only available in Japan.', media: [
+window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, title: 'Final Fantasy II', note: 'For the first 14 years, this series was only available in Japan.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy II', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II', titleDate: '1988-12-17',
     mediaDesc: [
       'Warrior Firion and his allies join a rebellion against the expanding Palamecian Empire.',
@@ -168,7 +168,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 300,
+    mediaType: 'Book', chronoOrder: 500, narrativeOrder: 300,
     title: "Final Fantasy II Nightmare's Labyrinth", titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB', titleDate: '1989-03-20',
     by: [{ role: 'adapted', names: 'Kenji Terada' }],
     mediaDesc: [
@@ -198,7 +198,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 620, recommendedOrder: 410,
+    mediaType: 'Book', chronoOrder: 620, narrativeOrder: 410,
     title: 'Final Fantasy II: Dragon Treasures', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Hih%C5%8D_no_Dragon', titleDate: '1988-12',
     by: 'Naomi Inoue',
     mediaDesc: [
@@ -224,7 +224,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 630, recommendedOrder: 415,
+    mediaType: 'Book', chronoOrder: 630, narrativeOrder: 415,
     title: 'Final Fantasy II: Journey to Victory', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi', titleDate: '1988',
     by: 'Tatsumi Yamashita',
     mediaDesc: [
@@ -246,7 +246,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 600, recommendedOrder: 400,
+    mediaType: 'Comic', chronoOrder: 600, narrativeOrder: 400,
     title: 'Final Fantasy II ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)#Behind_the_scenes', titleDate: '1989-12',
     by: [{ role: 'adapted', names: 'Yuu Kaimeiji' }],
     mediaDesc: [
@@ -270,7 +270,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 200
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 700, recommendedOrder: 450,
+    mediaType: 'Book', chronoOrder: 700, narrativeOrder: 450,
     title: 'Final Fantasy I・II・III: Memory of Heroes ~II~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', titleDate: '2012-10-31',
     by: [{ role: 'adapted', names: 'Takashi Umemura' }],
     mediaDesc: [

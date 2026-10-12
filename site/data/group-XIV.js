@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 1500, title: 'Final Fantasy XIV', note: 'The second MMO in the franchise, and its longest story by far — one overarching tale still unfolding through new content.', media: [
+window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 1500, title: 'Final Fantasy XIV', note: 'The second MMO in the franchise, and its longest story by far — one overarching tale still unfolding through new content.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy XIV: Online ~1.0~', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIV_(2010_video_game)', titleDate: '2010-09-30',
     mediaDesc: [
       "Explore the world of Eorzea and get caught up in both an invasion by the hostile Garlean Empire and the threat of the primals, the deities of the land's beastmen tribes. It all ends in a cataclysmic event.",
@@ -39,7 +39,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 200,
+    mediaType: 'Game', chronoOrder: 1000, narrativeOrder: 200,
     title: 'Final Fantasy XIV: A Realm Reborn', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIV', titleDate: '2013-08-27',
     mediaDesc: [
       'Seven years after XIV: Online (2010), you must fend off a reignited invasion from the Garlean Empire in the world of Eorzea. From the base game, continue your adventure in 6 expansions (listed separately), with more expected to release.',
@@ -89,7 +89,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300,
+    mediaType: 'Game', chronoOrder: 2000, narrativeOrder: 300,
     title: 'Final Fantasy XIV: Heavensward', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIV:_Heavensward', titleDate: '2015-06-23',
     mediaDesc: [
       [{ text: 'Travel to Ishgard a city-state mired in a 1000-year conflict with the dragons of the Dravanian Horde. Will you be able to reveal the ancient truths buried in Ishgard’s bloody history and help bring an end to the Dragonsong War?' }],
@@ -115,7 +115,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 400,
+    mediaType: 'Game', chronoOrder: 3000, narrativeOrder: 400,
     title: 'Final Fantasy XIV: Stormblood', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood', titleDate: '2017-07-20',
     mediaDesc: [
       [{ text: 'Lead rebellions in the imperial provinces of Ala Mhigo, an Eorzean city-state conquered twenty years ago, and Doma, a Far Eastern nation with a proud ninja tradition.' }],
@@ -141,7 +141,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 4000, recommendedOrder: 500,
+    mediaType: 'Game', chronoOrder: 4000, narrativeOrder: 500,
     title: 'Final Fantasy XIV: Shadowbringers', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers', titleDate: '2019-07-02',
     mediaDesc: [
       [{ text: 'Rescue and restore the First, a parallel dimension on the brink of collapse, opposed by Emet-Selch who seeks to harness the power of the calamity for his own ends.' }],
@@ -167,7 +167,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 5000, recommendedOrder: 600,
+    mediaType: 'Game', chronoOrder: 5000, narrativeOrder: 600,
     title: 'Final Fantasy XIV: Endwalker', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIV:_Endwalker', titleDate: '2021-12-07',
     mediaDesc: [
       [{ text: 'Travel the world, space, and time to stop the team of Garlean crown prince Zenos and rogue Ascian Fandaniel from successfully resuming the Final Days, an apocalyptic event that threatens all of existence.' }],
@@ -193,7 +193,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 6000, recommendedOrder: 700,
+    mediaType: 'Game', chronoOrder: 6000, narrativeOrder: 700,
     title: 'Final Fantasy XIV: Dawntrail', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIV:_Dawntrail', titleDate: '2024-07-02',
     mediaDesc: [
       [{ text: 'Explore Tural, a continent across the sea, to participate in a rite of succession to determine the next leader of Tuliyollal.' }],
@@ -219,7 +219,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 7000, recommendedOrder: 800,
+    mediaType: 'Game', chronoOrder: 7000, narrativeOrder: 800,
     title: 'Final Fantasy XIV: Evercold', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIV#Evercold', titleDate: '2027-01-01',
     mediaDesc: [
       [{ text: 'Travel to a new dimension, the Fourth, a world covered in an icy permafrost where the inhabitants have fled to the sky to live on massive magical airships.' }],
@@ -243,7 +243,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 840,
+    mediaType: 'Book', chronoOrder: 500, narrativeOrder: 840,
     title: 'Final Fantasy XIV ~Winds of Eorzea~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: '2010-12-25',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -271,7 +271,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 7690, recommendedOrder: 860,
+    mediaType: 'Book', chronoOrder: 7690, narrativeOrder: 860,
     title: 'Final Fantasy XIV: Side Stories', titleUrl: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes', titleDate: { start: 2014, end: 2026, ongoing: true },
     mediaDesc: [
       [{ text: 'Short stories set in the world of Final Fantasy XIV, generally featuring characters from the most recent expansion and publishing around The Rising anniversary events.' }],
@@ -322,7 +322,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     ],
   },
   {
-    mediaType: 'Comic', chronoOrder: 7800, recommendedOrder: 880,
+    mediaType: 'Comic', chronoOrder: 7800, narrativeOrder: 880,
     title: 'Final Fantasy XIV: Eorzea Academy', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646092352', titleDate: '2023-02-07',
     by: 'Esora Amaichi',
     mediaDesc: [
@@ -350,7 +350,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 3200, recommendedOrder: 875,
+    mediaType: 'Comic', chronoOrder: 3200, narrativeOrder: 875,
     title: 'Final Fantasy XIV: I Will Teach You Professor Lalafell', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_I_Will_Teach_You_Professor_Lalafell', titleDate: { start: '2017-08-26', end: '2018-11-26' },
     by: 'Fakkuma',
     mediaDesc: [
@@ -377,7 +377,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 7800, recommendedOrder: 876,
+    mediaType: 'Comic', chronoOrder: 7800, narrativeOrder: 876,
     title: 'Final Fantasy XIV 14-Koma', titleUrl: 'https://www.goodreads.com/book/show/72126545-xiv', titleDate: '2019-12-20',
     by: 'Fumio Minagawa',
     mediaDesc: [
@@ -405,7 +405,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 850,
+    mediaType: 'Book', chronoOrder: 1500, narrativeOrder: 850,
     title: "Final Fantasy XIV ~A Realm Reborn Adventure Log~", titleUrl: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651', titleDate: { start: '2014-01-16', end: '2014-11-10' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -451,7 +451,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     ],
   },
   {
-    mediaType: 'Book', chronoOrder: 5200, recommendedOrder: 885,
+    mediaType: 'Book', chronoOrder: 5200, narrativeOrder: 885,
     title: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646091447', titleDate: '2021-05-08',
     mediaDesc: [
       [{ text: 'When their river starts running dry, the catfish-like Namazu set out on a quest to make it rain, needing to find a "thing that no one has ever seen." Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-xiv-picture-book-the-namazu-and-the-greatest-gift-2021' }, { text: ' series.' }],
@@ -477,7 +477,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 7200, recommendedOrder: 890,
+    mediaType: 'Book', chronoOrder: 7200, narrativeOrder: 890,
     title: 'Final Fantasy XIV Picture Book: Me and the Cornservant', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9798899100833', titleDate: '2025-12-17',
     mediaDesc: [
       [{ text: 'A child stumbles upon a strange, corn-like creature that no adult can see, and after a curious poke sends its head flying off, an adventure with the Cornservant begins. Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-xiv-picture-book-me-and-the-cornservant-2025' }, { text: ' series.' }],
@@ -503,7 +503,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 900, recommendedOrder: 900,
+    mediaType: 'Game', chronoOrder: 900, narrativeOrder: 900,
     title: 'Final Fantasy XIV: Legend of Balance', titleUrl: 'https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Legend_of_Balance', titleDate: '2013-01',
     mediaDesc: [
       [{ text: 'Taking place between the original ' }, { emText: 'XIV ~1.0~ (2010)' }, { text: ' and the start of ' }, { emLinkText: 'XIV: A Realm Reborn (2013)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-a-realm-reborn-2013' }, { text: ' with an original fan created story that can be considered an alternate universe. It can be played without knowing about either. Released as ' }, { emText: 'Final Fantasy: Legend of Balance' }, { text: '. Entry also found in our ' }, { emLinkText: 'Fan Projects', emLinkUrl: '#group-FAN' }, { text: ' series.' }],
@@ -524,7 +524,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, recommendedOrder: 
     },
   },
   {
-    mediaType: 'App', chronoOrder: 10000, recommendedOrder: 950,
+    mediaType: 'App', chronoOrder: 10000, narrativeOrder: 950,
     title: 'FINAL FANTASY XIV Companion', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV_Companion', titleDate: '2018-07',
     mediaDesc: [
       [{ text: 'It allows the registered users of ' }, { emText: 'XIV' }, { text: ' to Chat with friends and Free Company members, Organize events with the scheduler, Organize inventory and armoury chest, peruse the Market Board, Put items up for sale and purchase items, Register an additional favored destination Aetheryte.' }],

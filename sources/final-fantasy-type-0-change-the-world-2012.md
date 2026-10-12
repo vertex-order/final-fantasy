@@ -170,4 +170,4 @@ duckduckgo.com (Information)
 
 ## Decisions
 
-- Order: chronologically before the game and after The Ice Reaper (`chronoOrder` 99950), because the two volumes lead directly into the game's plot (Vol.2's epilogue hands off to the game's opening); in the recommended order after The Ice Reaper (`recommendedOrder` 950), so the prequels "catch up" to the game's plot.
+- Order: chronologically before the game and after The Ice Reaper (`chronoOrder` 99950), because the two volumes lead directly into the game's plot (Vol.2's epilogue hands off to the game's opening); in the recommended order after The Ice Reaper (`narrativeOrder` 950), so the prequels "catch up" to the game's plot.

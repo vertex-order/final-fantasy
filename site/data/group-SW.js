@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 950, title: 'Spirits Within', url: 'https://wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', note: "A bold departure into science fiction and photorealistic CG, laying the groundwork for the series' future cinematic ambitions.", media: [
+window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, narrativeOrder: 950, title: 'Spirits Within', url: 'https://wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', note: "A bold departure into science fiction and photorealistic CG, laying the groundwork for the series' future cinematic ambitions.", media: [
   {
-    mediaType: 'Movie', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Movie', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy: The Spirits Within', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', titleDate: '2001-07-02',
     mediaDesc: [
       'In 2065, Earth is infested by alien life forms known as Phantoms which kill when touched. The surviving humans are engaged in an ongoing struggle to free the planet.',
@@ -41,7 +41,7 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, recommendedOrder: 950
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 200,
+    mediaType: 'Book', chronoOrder: 500, narrativeOrder: 200,
     title: 'Final Fantasy: The Spirits Within ~Novel~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media', titleDate: '2001-06-26',
     by: [{ role: 'adapted', names: 'Dean Wesley Smith' }],
     mediaDesc: [

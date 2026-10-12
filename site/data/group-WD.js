@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['WD'] = { num: 'WD', chronoOrder: 1580, recommendedOrder: 1580, title: 'World', note: 'Light hearted spin-off mixing chibi art and humor, aimed at a younger audience with plenty of throwbacks to previous titles.', media: [
+window.__ffGroupReg['WD'] = { num: 'WD', chronoOrder: 1580, narrativeOrder: 1580, title: 'World', note: 'Light hearted spin-off mixing chibi art and humor, aimed at a younger audience with plenty of throwbacks to previous titles.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'World of Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/World_of_Final_Fantasy', titleDate: '2016-10-25',
     mediaDesc: [
       [{ text: 'Takes place in Grymoire, a world of coexisting Final Fantasy locations. The story follows siblings Lann and Reynn, who possess the power to tame monsters called Mirages, and are sent to Grymoire to reclaim their lost memories and thwart the plans of the Bahamutian Army.' }],
@@ -71,7 +71,7 @@ window.__ffGroupReg['WD'] = { num: 'WD', chronoOrder: 1580, recommendedOrder: 15
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
+    mediaType: 'Game', chronoOrder: 100, narrativeOrder: 200,
     title: 'World of Final Fantasy: Meli-Melo', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy:_Meli-Melo', titleDate: '2017-12-12',
     mediaDesc: [
       [{ text: 'Similar gameplay to ' }, { emLinkText: 'World of Final Fantasy (2016)', emLinkUrl: '#entry-WD-world-of-final-fantasy-2016' }, { text: ', the game is now terminated.' }],

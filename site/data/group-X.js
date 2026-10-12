@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 1000, title: 'Final Fantasy X', note: 'The first to feature voice acting and direct game sequels, the start of the PlayStation 2 era.', media: [
+window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, title: 'Final Fantasy X', note: 'The first to feature voice acting and direct game sequels, the start of the PlayStation 2 era.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy X', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X', titleDate: '2001-07-19',
     mediaDesc: [
       [{ text: 'Tidus, the star athlete in the fiction sport of blitzball, and the summoner Yuna, embark on a quest to vanquish the city-destroying Sin.' }],
@@ -114,7 +114,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 1000
     },
   },
   {
-    mediaType: 'Video', chronoOrder: 1000, recommendedOrder: 200,
+    mediaType: 'Video', chronoOrder: 1000, narrativeOrder: 200,
     title: 'Final Fantasy X: Eternal Calm', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X#Versions_and_merchandise', titleDate: '2002-01-31',
     mediaDesc: [
       [{ text: "Video that bridges Yuna's storyline between " }, { emLinkText: 'X (2001)', emLinkUrl: '#entry-X-final-fantasy-x-2001' }, { text: ' and ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: '. Sometimes called ' }, { emText: 'X-2: Prologue' }, { text: '. Included in all releases since 2002 that include ' }, { emLinkText: 'X (2001)', emLinkUrl: '#entry-X-final-fantasy-x-2001' }, { text: '. May be in 4k.' }],
@@ -194,7 +194,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 1000
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 2000, recommendedOrder: 300,
+    mediaType: 'Game', chronoOrder: 2000, narrativeOrder: 300,
     title: 'Final Fantasy X-2', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X-2', titleDate: '2003-03-13',
     mediaDesc: [
       [{ text: 'Two years after ' }, { emLinkText: 'X (2001)', emLinkUrl: '#entry-X-final-fantasy-x-2001' }, { text: ', Yuna, separated, searches for Tidus while trying to keep political conflicts from escalating to war. Not to be confused with ' }, { emLinkText: 'Final Fantasy XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: '.' }],
@@ -299,7 +299,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 1000
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 400,
+    mediaType: 'Game', chronoOrder: 3000, narrativeOrder: 400,
     title: 'Final Fantasy X-2: Last Mission', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2:_Last_Mission', titleDate: '2004-02-19',
     mediaDesc: [
       [{ text: 'Taking place six months after ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: ', play through a bonus mission as a member of YRP as you navigate through Iutycyr Tower with roguelike gameplay. Not integrated into the main ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: ' game but played separately.' }],
@@ -374,7 +374,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 1000
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 4000, recommendedOrder: 500,
+    mediaType: 'Book', chronoOrder: 4000, narrativeOrder: 500,
     title: 'Final Fantasy X-2.5', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2.5_~Eien_no_Daish%C5%8D~', titleDate: '2013-12-26 10',
     by: 'Kazushige Nojima',
     mediaDesc: [
@@ -403,7 +403,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, recommendedOrder: 1000
     },
   },
   {
-    mediaType: 'Audio', chronoOrder: 5000, recommendedOrder: 600,
+    mediaType: 'Audio', chronoOrder: 5000, narrativeOrder: 600,
     title: 'Final Fantasy X -Will-', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_-Will-', titleDate: '2013-12-26 20',
     mediaDesc: [
       [{ text: 'Listen to the events that occur one year after ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: '. Released as part of ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (2013 and 2016 versions).' }],

@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 300, title: 'Final Fantasy III', note: 'It was 16 years until a 3D remake brought this series outside Japan, and a total of 31 years until the original pixel art version did.', media: [
+window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300, title: 'Final Fantasy III', note: 'It was 16 years until a 3D remake brought this series outside Japan, and a total of 31 years until the original pixel art version did.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy III', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_III', titleDate: '1990-04-27',
     mediaDesc: [
       'Four orphans from the village of Ur are chosen by the dying four elemental crystals to defeat Xande who is spreading a flood of darkness over the world.',
@@ -162,7 +162,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
     ],
   },
   {
-    mediaType: 'Comic', chronoOrder: 500, recommendedOrder: 200,
+    mediaType: 'Comic', chronoOrder: 500, narrativeOrder: 200,
     title: 'Legend of the Eternal Wind: from Final Fantasy III', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori', titleDate: '1991-01',
     by: [{ role: 'adapted', names: 'Kenji Terada' }, { role: 'illustrated', names: 'Yuu Kinutani' }],
     mediaDesc: [
@@ -197,7 +197,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, recommendedOrder: 3
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 700, recommendedOrder: 300,
+    mediaType: 'Book', chronoOrder: 700, narrativeOrder: 300,
     title: 'Final Fantasy I・II・III: Memory of Heroes ~III~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes', titleDate: '2012-10-31',
     by: [{ role: 'adapted', names: 'Takashi Umemura' }],
     mediaDesc: [

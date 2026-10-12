@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['DM'] = { num: 'DM', chronoOrder: 1450, recommendedOrder: 1450, title: 'Dimensions', note: 'An original mobile-first entry that paved the way for bringing most of the 2D franchise to mobile, without gacha and microtransactions.', media: [
+window.__ffGroupReg['DM'] = { num: 'DM', chronoOrder: 1450, narrativeOrder: 1450, title: 'Dimensions', note: 'An original mobile-first entry that paved the way for bringing most of the 2D franchise to mobile, without gacha and microtransactions.', media: [
   {
-    mediaType: 'Game', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy Dimensions', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Dimensions', titleDate: '2010-09-06',
     mediaDesc: [
       [{ text: 'Follows two parties, the Warriors of Light and the Warriors of Darkness, on their quest to reform their shattered world and foil the dark plans of the Avalon Empire.' }],
@@ -33,7 +33,7 @@ window.__ffGroupReg['DM'] = { num: 'DM', chronoOrder: 1450, recommendedOrder: 14
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
+    mediaType: 'Game', chronoOrder: 100, narrativeOrder: 200,
     title: 'Final Fantasy Dimensions II', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Dimensions_II', titleDate: '2015-02-12',
     mediaDesc: [
       [{ text: 'A boy named Morrow meets a girl named Aemo who work together to save time and space, making friends from all time periods as they time travel. Along the way, they find Signet Crystals which allow them to summon monsters to their aid.' }],

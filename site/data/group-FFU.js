@@ -1,7 +1,7 @@
 // schema: group.schema.json
-window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 1050, title: 'Final Fantasy: Unlimited', note: 'The first anime in the franchise.', media: [
+window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 1050, title: 'Final Fantasy: Unlimited', note: 'The first anime in the franchise.', media: [
   {
-    mediaType: 'TV', chronoOrder: 0, recommendedOrder: 100,
+    mediaType: 'TV', chronoOrder: 0, narrativeOrder: 100,
     title: 'Final Fantasy: Unlimited', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited', titleDate: '2001-10-02',
     mediaDesc: [
       'Ai and Yu Hayakawa, 12-year-old twins travel into Wonderland, a mysterious parallel dimension, in search of their missing parents. 25 episodes were released (of a planned 52), leaving the story unfinished.',
@@ -27,7 +27,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 200,
+    mediaType: 'Game', chronoOrder: 100, narrativeOrder: 200,
     title: 'Final Fantasy: Unlimited with U', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_with_U', titleDate: '2002-08-20',
     mediaDesc: [
       [{ text: 'Game adaptation of the ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime for mobile phones as a turn-based RPG.' }],
@@ -46,7 +46,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 200, recommendedOrder: 300,
+    mediaType: 'Game', chronoOrder: 200, narrativeOrder: 300,
     title: 'Final Fantasy: Unlimited on PC', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_on_PC_Adventure_-_Labyrinth', titleDate: '2003-05-16',
     mediaDesc: [
       [{ text: 'Game adaptation of the ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime as a card battle game.' }],
@@ -65,7 +65,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Audio', chronoOrder: 250, recommendedOrder: 350,
+    mediaType: 'Audio', chronoOrder: 250, narrativeOrder: 350,
     title: 'Final Fantasy: Unlimited Voice Theater', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_Unlimited#Audio', titleDate: { start: '2002-01-15', end: '2002-09' },
     mediaDesc: [
       [{ text: 'Episodes were released monthly.' }],
@@ -88,7 +88,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 300, recommendedOrder: 400,
+    mediaType: 'Book', chronoOrder: 300, narrativeOrder: 400,
     title: 'Final Fantasy: Unlimited Twin Bonds', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited#Continuation_of_Final_Fantasy:_Unlimited', titleDate: '2002-03-28',
     by: 'Syou Katagiri',
     mediaDesc: [
@@ -115,7 +115,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 320, recommendedOrder: 420,
+    mediaType: 'Comic', chronoOrder: 320, narrativeOrder: 420,
     title: 'Final Fantasy: Unlimited After', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After', titleDate: '2002-05-15',
     by: [{ role: 'manga', names: 'Hiroyuki Yamashita' }, { role: 'script', names: 'Atsuhiro Tomioka' }],
     mediaDesc: [
@@ -142,7 +142,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 335, recommendedOrder: 435,
+    mediaType: 'Book', chronoOrder: 335, narrativeOrder: 435,
     title: 'Final Fantasy: Unlimited After Spiral', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_Spiral', titleDate: { start: '2002-06-01', end: '2004' },
     by: 'Syou Katagiri',
     mediaDesc: [
@@ -166,7 +166,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Audio', chronoOrder: 340, recommendedOrder: 440,
+    mediaType: 'Audio', chronoOrder: 340, narrativeOrder: 440,
     title: 'Final Fantasy: Unlimited After 2', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After_2', titleDate: '2002-12-26',
     mediaDesc: [
       [{ text: 'Picks up where the anime ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' left off, as a followup to ' }, { emLinkText: 'Unlimited After (2002)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-after-2002' }, { text: ". Deals with Comodeen's final attack on Gaudium and brings a conclusion to the conflict between Lisa and Soljashy." }],
@@ -189,7 +189,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, recommendedOrder: 
     },
   },
   {
-    mediaType: 'Audio', chronoOrder: -50, recommendedOrder: 450,
+    mediaType: 'Audio', chronoOrder: -50, narrativeOrder: 450,
     title: 'Final Fantasy: Unlimited Before', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_Before', titleDate: '2003-04-30',
     mediaDesc: [
       [{ text: "Covers the fate of Windaria and Misteria, and Kaze and Makenshi's first battle with Chaos." }],

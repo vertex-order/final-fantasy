@@ -1,9 +1,9 @@
 // schema: group.schema.json
-window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 700, title: 'Final Fantasy VII', note: [
+window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700, title: 'Final Fantasy VII', note: [
   [{ text: 'The first 3D Final Fantasy, the start of the PlayStation era, ' }, { tipText: 'FMVs', tip: 'Full-Motion Video' }, { text: ', and one of the most fleshed-out series. Many entries are part of the ' }, { emLinkText: 'Compilation of Final Fantasy VII', emLinkUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII' }, { text: ', an official canon set of tie-ins that expands on ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.' }],
 ], media: [
   {
-    mediaType: 'Game', chronoOrder: -7000, recommendedOrder: 1710,
+    mediaType: 'Game', chronoOrder: -7000, narrativeOrder: 1710,
     title: 'Final Fantasy VII: The First Soldier', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_The_First_Soldier', titleDate: '2021-11-17',
     mediaDesc: [
       [{ text: '18 years before ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ', SOLDIER candidates train in a battle simulation.' }],
@@ -42,7 +42,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Game', chronoOrder: -6500, recommendedOrder: 1720,
+    mediaType: 'Game', chronoOrder: -6500, narrativeOrder: 1720,
     title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: '2023-09-07',
     mediaDesc: [
       [{ text: 'The ' }, { emText: 'Final Fantasy VII: The First Soldier' }, { text: ' episode with three chapters is set 15 years before ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' and focuses on Sephiroth.' }],
@@ -73,7 +73,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Game', chronoOrder: -6000, recommendedOrder: 1730,
+    mediaType: 'Game', chronoOrder: -6000, narrativeOrder: 1730,
     title: 'Before Crisis: Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Before_Crisis:_Final_Fantasy_VII', titleDate: '2004-09-24',
     mediaDesc: [
       'The Turks group of covert operatives working for Shinra Electric Power Company fight against both the rebel group AVALANCHE, and their corrupt employers.',
@@ -123,7 +123,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     ],
   },
   {
-    mediaType: 'Movie', chronoOrder: -5000, recommendedOrder: 1740,
+    mediaType: 'Movie', chronoOrder: -5000, narrativeOrder: 1740,
     title: 'Last Order: Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Last_Order:_Final_Fantasy_VII', titleDate: '2005-09-14 10',
     mediaDesc: [
       [{ text: 'Re-imagining of two flashbacks from ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ', one with Sephiroth and another for Zack and Cloud, that take place before ' }, { emLinkText: 'Crisis Core (2007)', emLinkUrl: '#entry-VII-crisis-core-final-fantasy-vii-2007' }, { text: '. Can be considered an alternate timeline.' }],
@@ -151,7 +151,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Game', chronoOrder: -4000, recommendedOrder: 1750,
+    mediaType: 'Game', chronoOrder: -4000, narrativeOrder: 1750,
     title: 'Crisis Core: Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII', titleDate: '2007-09-13',
     mediaDesc: [
       [{ text: 'Zack Fair, member of special forces organization SOLDIER searches for missing soldier Genesis Rhapsodos and uncovers many mysteries. Events end just before the start of ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' and are meant to pair with ' }, { emText: 'Remake Part 1: Intergrade (2021)' }, { text: '.' }],
@@ -242,7 +242,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 100, recommendedOrder: 600,
+    mediaType: 'Game', chronoOrder: 100, narrativeOrder: 600,
     title: 'Final Fantasy VII Remake ~Part 1~', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake', titleDate: '2020-04-10',
     mediaDesc: [
       'Cloud joins AVALANCHE, an eco-terrorist group trying to stop the megacorporation Shinra from destroying the planet. Covers story set in the metropolis Midgar.',
@@ -309,7 +309,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 200, recommendedOrder: 700,
+    mediaType: 'Game', chronoOrder: 200, narrativeOrder: 700,
     title: 'Final Fantasy VII Rebirth ~Part 2~', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Rebirth', titleDate: '2024-02-29',
     mediaDesc: [
       'Cloud and AVALANCHE embark on a journey across the planet to oppose Shinra and Sephiroth.',
@@ -356,7 +356,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 300, recommendedOrder: 800,
+    mediaType: 'Game', chronoOrder: 300, narrativeOrder: 800,
     title: 'Final Fantasy VII Revelation ~Part 3~', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Revelation', titleDate: '2027-04-08',
     mediaDesc: [
       'Cloud and AVALANCHE journey to the Northern Crater to combat Shinra, Sephiroth, and an imminent cataclysmic event.',
@@ -392,7 +392,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 350, recommendedOrder: 100,
+    mediaType: 'Game', chronoOrder: 350, narrativeOrder: 100,
     title: 'Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII', titleDate: '1997-01-31',
     mediaDesc: [
       'Cloud joins AVALANCHE, an eco-terrorist group trying to stop the megacorporation Shinra from destroying the planet.',
@@ -526,7 +526,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Book', chronoOrder: -500, recommendedOrder: 1000,
+    mediaType: 'Book', chronoOrder: -500, narrativeOrder: 1000,
     title: 'Final Fantasy VII Remake: Traces of Two Pasts', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', titleDate: '2021-07-15',
     by: 'Kazushige Nojima',
     mediaDesc: [
@@ -559,7 +559,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Book', chronoOrder: -400, recommendedOrder: 1100,
+    mediaType: 'Book', chronoOrder: -400, narrativeOrder: 1100,
     title: 'Final Fantasy VII Rebirth: Dear Destiny', titleUrl: 'https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books', titleDate: '2026-01-30',
     by: 'Kazushige Nojima',
     mediaDesc: [
@@ -584,7 +584,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 500, recommendedOrder: 200,
+    mediaType: 'Book', chronoOrder: 500, narrativeOrder: 200,
     title: 'The Maiden Who Travels The Planet', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome', titleDate: '2005-09-09',
     by: 'Benny Matsuyama',
     mediaDesc: [
@@ -613,7 +613,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 1000, recommendedOrder: 300,
+    mediaType: 'Book', chronoOrder: 1000, narrativeOrder: 300,
     title: 'Final Fantasy VII: On the Way to a Smile', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_On_the_Way_to_a_Smile', titleDate: { start: '2005-09-05', end: '2009-04-16' },
     by: 'Kazushige Nojima',
     mediaDesc: [
@@ -674,7 +674,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     ],
   },
   {
-    mediaType: 'Book', chronoOrder: 1500, recommendedOrder: 400,
+    mediaType: 'Book', chronoOrder: 1500, narrativeOrder: 400,
     title: 'Final Fantasy VII: The Kids Are Alright: A Turks Side Story', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_Kids_Are_Alright:_A_Turks_Side_Story', titleDate: '2011-12-15',
     by: 'Kazushige Nojima',
     mediaDesc: [
@@ -710,7 +710,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Movie', chronoOrder: 2000, recommendedOrder: 500,
+    mediaType: 'Movie', chronoOrder: 2000, narrativeOrder: 500,
     title: 'Final Fantasy VII: Advent Children', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children', titleDate: '2005-09-14 20',
     mediaDesc: [
       [{ text: 'Two years after ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' Cloud must rescue children infected with the unexplained disease called Geostigma.' }],
@@ -780,7 +780,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 2100, recommendedOrder: 550,
+    mediaType: 'Book', chronoOrder: 2100, narrativeOrder: 550,
     title: 'Final Fantasy VII Advent Children: The Novel', titleUrl: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children', titleDate: 2005,
     by: [{ role: 'adapted', names: 'Tetsuya Nomura' }],
     mediaDesc: [
@@ -804,7 +804,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 3000, recommendedOrder: 1600,
+    mediaType: 'Game', chronoOrder: 3000, narrativeOrder: 1600,
     title: 'Dirge of Cerberus: Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII', titleDate: '2006-01-26',
     mediaDesc: [
       ['Three years after ', { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, ', Vincent is targetted by Deepground, a mysterious organization that plans to awaken a creature known as Omega, with the ability to destroy the Planet.'],
@@ -876,7 +876,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 3500, recommendedOrder: 1700,
+    mediaType: 'Game', chronoOrder: 3500, narrativeOrder: 1700,
     title: 'Dirge of Cerberus Lost Episode: Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII#Mobile_phone_games', titleDate: '2006-08-22',
     mediaDesc: [
       ['An extra story taking place between events in ', { emLinkText: 'Dirge of Cerberus (2006)', emLinkUrl: '#entry-VII-dirge-of-cerberus-final-fantasy-vii-2006' }, '.'],
@@ -926,7 +926,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 480, recommendedOrder: 1800,
+    mediaType: 'Game', chronoOrder: 480, narrativeOrder: 1800,
     title: 'Final Fantasy VII: Snowboarding', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_Snowboarding', titleDate: '2005-03-29',
     mediaDesc: [
       'The main character is Cloud Strife, and the objective is to snowboard down tracks, dodging moogles, doing tricks off ramps, and collecting balloons. The "Chocobo Theme" song is played throughout the game.',
@@ -947,7 +947,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, recommendedOrder: 7
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 490, recommendedOrder: 1900,
+    mediaType: 'Game', chronoOrder: 490, narrativeOrder: 1900,
     title: 'Final Fantasy VII G-Bike', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_G-Bike', titleDate: '2014-10-30',
     mediaDesc: [
       [{ text: 'Motorcycle racing game with role-playing elements inspired by a similar minigame in ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '. While riding on a motorcycle, Cloud battled enemies with melee weapons and magic with help from other characters. It is terminated, but you can always replay the original minigame.' }],
