@@ -81,13 +81,13 @@ and pull via `just sync`.
   `by` replaces the inherited one wholesale (`by: null` clears it). A row
   only displays credits when they differ from its parent's: the primary
   always, an alt only if different from the primary, a version only if
-  different from its release. ("Tags line" is `tags`/`tagParts` and
+  different from its release. ("Tags line" is `tags` and
   `EntryTags`; "credits" is `by` and `EntryCredits`.)
 - **There are three different "styled text run" shapes**, not
   interchangeable: `ConfigPart`/`Paragraph` (site config, credits, FAQ
   answers — `common.schema.json`), `DescPart` (entry `description[]` —
-  richer, supports `<abbr>`/tooltips), and `TagPart` (`tagParts[]` —
-  narrower still). Using the wrong one for a given field is a schema
+  richer, supports `<abbr>`/tooltips), and the abbreviation object a
+  `tags[]` item can be (`{ abbrTerm, abbrDef }`). Using the wrong one for a given field is a schema
   validation error, not a silent no-op.
 - **A `Prose` paragraph's own array can mix two kinds of item**: a bare
   `DescPart` object (`{ text: '...' }`/`{ emLinkText: '...', ... }`,
@@ -204,6 +204,28 @@ Applies to `Spin-off`, `Tie-in`, `Sequel`, `Prequel`, `Side-story`,
   in.
 - **Expansion / DLC:** literal add-ons to a game in the same group. They
   also drive the page's Expansion count.
+
+## Flags: status pills
+
+- A flag is a boolean property on a release (`primary`, an `alts[]` item,
+  or a `versions[]` item), drawn as a pill under the title. Not a tag.
+  - `helpWanted: true`: we want more information on this entry.
+  - `terminated: true`: no official way to play this release remains.
+  - `Upcoming` and `Recently released` come from the date, not a flag.
+- **Why properties, not a list of strings:** a misspelt property fails
+  the schema check; a misspelt string in a list would just do nothing.
+- **`terminated`:**
+  - Set it when every official platform or backend service is gone.
+    Fan recaps, fan translations and playthroughs never keep a game
+    playable.
+  - A game that is only partly terminated gets `terminated: true` on the
+    platforms that are gone (struck through) and no flag.
+  - The flag says it all. Don't repeat it in the description, including
+    "so watch a fan recap or playthrough".
+  - Regional cases (still playable in Japan only): no flag. Say which
+    regions in the description.
+  - Keep it consistent with the platforms: flag set means every official
+    platform is flagged `terminated`.
 
 ## Book format labels (tags and platform names)
 
