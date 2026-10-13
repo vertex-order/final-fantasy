@@ -55,3 +55,7 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
+
+- Description names the corsair "Lucky Narfah" (Mithra) only
+  - Removed from the description: a secondary English source called her an Elvaan named "Nalfa the Lucky"; race and name unconfirmed
+  - That source was not recorded when the line was written, so it cannot be re-checked from here

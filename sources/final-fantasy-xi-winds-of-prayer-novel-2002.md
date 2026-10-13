@@ -22,7 +22,7 @@
 - Entry length: Japanese 286p;A6
 
 ISBN 9784757712447 (ISBN10: 4757712448), Japanese, Enterbrain (ファミ通文庫), 286 pages, A6, 15 cm, 640 yen, Paperback — per google books + goodreads + NDL — JA language link*, rating (NYR)*, length*, dates*
-- Dates: Goodreads December 18, 2002; Google Books December 2002; NDL and bg-wiki 2003.01; entry 2002-12-18; not reconciled
+- Dates: KADOKAWA product page and the author's page 2002-12-20; Goodreads December 18, 2002; Google Books December 2002; NDL and bg-wiki 2003.01; entry 2002-12-20
 - NDL's month may be its cataloging month (cf. the XIV Adventure Log)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757712447
 - goodreads: https://www.goodreads.com/book/show/57214633 — accessed 2026-10-09 (1 rating, 3.00)
@@ -64,7 +64,7 @@ bg-wiki.com (Information)
 
 ndlsearch.ndl.go.jp (Information)
 - http://id.ndl.go.jp/bib/000004003372 — dates, length, price, ISBN, credits, series, NDC — accessed 2026-10-10 — archived: TODO
-  - dates: JA 2003.1 (entry has 2002-12-18)
+  - dates: JA 2003.1 (entry has 2002-12-20)
   - length: 286 p, 15 cm; fold-in sheet
   - price: 640 yen
   - ISBN: 4-7577-1244-8, agrees
@@ -113,6 +113,15 @@ ja.wikipedia.org (Information)
   - The manga is based on this novel
   - Firefox machine translation pasted by user
 
+kadokawa.co.jp (Information)
+- https://www.kadokawa.co.jp/product/200700003832/ — profileUrl*, dates*, price, credits, ISBN — accessed 2026-10-13
+  - Publisher product page (KADOKAWA, which absorbed Enterbrain); text pasted by user, not archived
+  - Title printed ファイナルファンタジーＸＩ －祈りの風－; Famitsu Bunko, paper edition
+  - Release 2002-12-20; list price 704 yen (640 yen + tax)
+  - Author はせがわ みやび; illustrator 金田 榮路
+  - ISBN 9784757712447 (agrees); size shown as その他
+  - Release date 2002-12-20 is the entry's `titleDate`*; the author's page agrees
+
 plaza.harmonix.ne.jp (Information)
 - http://plaza.harmonix.ne.jp/~miyabi/list1001.html — series number*, sale dates — accessed 2026-10-12
   - The author's own book list; text pasted by user, not opened or archived
@@ -135,4 +144,5 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 ## Decisions
 
-- Date: keep `2002-12-18` (Goodreads) over NDL and bg-wiki's 2003.01. NDL's month may be its cataloging month, as with the XIV Adventure Log.
+- Date: `2002-12-20`, the publisher's (KADOKAWA product page) and the author's page; replaces Goodreads' 2002-12-18
+  - NDL and bg-wiki's 2003.01 is probably NDL's cataloging month, as with the XIV Adventure Log

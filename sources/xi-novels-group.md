@@ -84,6 +84,10 @@ ja.wikipedia.org (Information)
   - 20-21 Testament of the Wise; 22 Conditions of Fortune; 23 Princess Knight of Ronfaure; 24 The Star's Call; 25 Happy Gift
   - 26-28 A Message from Beyond; 29 Anthology; 30-32 Heartbeat of Xarcabard
   - German titles for books 1-10: Das Lied des Sturms, Der Sternenschwur, Der Bund der Ewigkeit, Das Schwert des Wächters 1-3, Die Flügel der Ferne, Der Stolz der Paladine 1-3
+- Descriptions are premise only, no spoilers
+  - Multi-volume entries describe the opening setup of Vol.1 only; later-volume plots are left out
+  - Nothing that reveals how an earlier book ended, or events after the opening of the entry
+  - Audited 2026-10-12: Star Oath (Gelsba tank), Eternal Bond, Sword of Protection, Pride of the Knight, A Distant Wish, A New Dream, Daughters of Aht Urhgan, Testament of the Wise, The Star's Call, A Message from Beyond, Heartbeat of Xarcabard trimmed
 - Members: the 18 entries in the ja.wikipedia protagonist grouping, all Hasegawa novels, plus the Anthology and the Winds of Prayer manga
   - The Anthology is Book 29 (three authors: Hasegawa, Takadono Madoka, Taguchi Sennendō, per the author's page), moved in because it is a numbered volume
   - The manga adapts the first novel, so it sits with the series it comes from

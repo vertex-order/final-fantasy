@@ -253,7 +253,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       tags: ['Optional', 'Spin-off', 'Light Novel'],
       subtitle: 'Book',
       profileUrl: 'https://www.kadokawa.co.jp/product/201010000382/',
-      length: '296p;A6',
+      length: '296p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/85601685' },
         { value: '…?' },

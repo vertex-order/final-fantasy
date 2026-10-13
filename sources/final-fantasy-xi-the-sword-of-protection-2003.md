@@ -152,3 +152,7 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
+
+- Description is the Vol.1 premise only; per-volume plot summaries removed as spoilers
+  - The earlier Vol.2 and Vol.3 summaries (Dak and Rin's dragon child; the Uggalepih Temple) are gone
+  - It was never settled which source summary belonged to Vol.1 and which to Vol.2
