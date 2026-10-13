@@ -237,7 +237,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
       ],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Novel'],
+      tags: ['Optional', 'Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: [{ value: '2 volumes' }],
@@ -406,7 +406,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
       ],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Novel'],
+      tags: ['Optional', 'Novel'],
       subtitle: 'Book',
       helpWanted: true,
       languages: [

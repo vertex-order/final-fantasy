@@ -8,7 +8,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'Confusingly released as ' }, { emText: 'Mystic Quest (1993)' }, { text: ' in Europe, not to be confused with ' }, { emLinkText: 'Final Fantasy Mystic Quest (1992)', emLinkUrl: '#entry-MQ-final-fantasy-mystic-quest-1992' }, { text: '. It spawned its own series which no longer contains Final Fantasy elements, ' }, { emLinkText: 'Mana', emLinkUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure' }, { text: ', whose sequel is the well known ' }, { emText: 'Secret of Mana (1993)' }, { text: '. It has multiple remakes, but they remove the Final Fantasy elements from the game.' }],
     ],
     primary: {
-      tags: ['Spin-off', 'Action RPG', 'Single-player'],
+      tags: ['Action RPG', 'Single-player'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -31,7 +31,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'Four youths journey around their world to free their home from a terrible curse. A sequel morphed into the unrelated ' }, { emText: 'Bravely Default (2012)' }, { text: ' game and franchise.' }],
     ],
     primary: {
-      tags: ['Spin-off', 'Turn-based RPG', 'Jobs', 'Single-player', 'Multiplayer', 'Co-op'],
+      tags: ['Turn-based RPG', 'Jobs', 'Single-player', 'Multiplayer', 'Co-op'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -58,7 +58,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'The players could control Warrior of Light (Wol), a man who wakes with amnesia in the world of Palamecia, and must help conquer the dark forces attacking its people. The game is terminated.' }],
     ],
     primary: {
-      tags: ['Spin-off', 'Turn-based RPG', 'Jobs', 'Single-player', 'Mobile', 'Free-to-play', 'Terminated'],
+      tags: ['Turn-based RPG', 'Jobs', 'Single-player', 'Mobile', 'Free-to-play', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -88,7 +88,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'Incorporates original elements with existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. Only the Japan region is still playable, other regions are terminated.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', '2D sprites', 'RPG', 'Active Time Battles', 'Single-player', 'Multiplayer', 'Mobile', 'Free-to-play', 'Gacha', 'Non-Japan Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', '2D sprites', 'RPG', 'Active Time Battles', 'Single-player', 'Multiplayer', 'Mobile', 'Free-to-play', 'Gacha', 'Non-Japan Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN', tip: 'English (content up to 2022-09)' },
@@ -154,7 +154,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: "Over 21 titles in this series provide casual fun centered around a recurring cast of characters and all relating to Final Fantasy's Chocobo mounts. The games span different genres, and some entries are a bit too simplistic to deserve their own entries, as a whole the series may be worth checking out." }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Casual'],
+      tags: ['Optional', 'Casual'],
       platforms: [
         { key: 'playstation4' },
         { key: 'playstation1', paren: 'Physical' },
@@ -210,7 +210,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       'Incorporates original elements with existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Social RPG', 'Jobs', 'Multiplayer', 'Co-op', 'Mobile', 'Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Social RPG', 'Jobs', 'Multiplayer', 'Co-op', 'Mobile', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -237,7 +237,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'RPG', 'Jobs', 'Active Time Battle', 'Mobile', 'Free-to-play', 'In-app purchases', 'Single-player', 'Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', 'RPG', 'Jobs', 'Active Time Battle', 'Mobile', 'Free-to-play', 'In-app purchases', 'Single-player', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -263,7 +263,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'Mixes RPG elements with dot logic puzzles. The player controls a party of four, plus one optional friend, as they battle their way through waves of enemies while solving puzzles. The 3DS version had a few extra features. The game is terminated.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Dot logic puzzle', 'RPG', 'Single-player', 'Multiplayer', 'Co-op', 'Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Dot logic puzzle', 'RPG', 'Single-player', 'Multiplayer', 'Co-op', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
       ],
@@ -287,7 +287,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Typing RPG', 'Mobile', 'Free-to-play', 'Multiplayer', 'Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Typing RPG', 'Mobile', 'Free-to-play', 'Multiplayer', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
       ],
@@ -306,7 +306,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'Incorporates original elements with existing series and titles, including other franchises altogether. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Social Tactical RPG', 'Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Social Tactical RPG', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -335,7 +335,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Card game', 'Mobile', 'Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Card game', 'Mobile', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -360,7 +360,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mashup', 'Alternate Universe', 'Card game', 'Free-to-play', 'In-app purchases', 'Multiplayer', 'Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Card game', 'Free-to-play', 'In-app purchases', 'Multiplayer', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
       ],

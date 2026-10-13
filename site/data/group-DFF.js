@@ -124,7 +124,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
       [{ text: 'The events that took place were complementary to those that transpire in the world of the ' }, { emText: 'Dissidia NT (2015)' }, { text: ' since they share the same gods and the same crystals.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mobile', 'Free-to-play', 'Turn-based RPG', 'Single-player', 'Terminated'],
+      tags: ['Optional', 'Mobile', 'Free-to-play', 'Turn-based RPG', 'Single-player', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -152,7 +152,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
       [{ text: 'The warriors of light find themselves transported to a new and unfamiliar world, which is revealed to be modern-day Tokyo. Despite their preceding titles, it is presumed that this is an entirely stand-alone story, as the warriors of light in Dissidia Duellum do not seem to recognize each other. Swarms of monsters start appearing in the city and draining the civilians of their vitality.' }],
     ],
     primary: {
-      tags: ['Spin-off', 'Mobile', 'Alternate Universe', 'Fighting game', 'Action RPG', 'Gacha', 'Multi-player', 'Free-to-play', 'In-App Purchases'],
+      tags: ['Mobile', 'Alternate Universe', 'Fighting game', 'Action RPG', 'Gacha', 'Multi-player', 'Free-to-play', 'In-App Purchases'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

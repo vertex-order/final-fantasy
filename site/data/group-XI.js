@@ -181,7 +181,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       ],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       length: '286p; A6',
       profileUrl: 'https://www.kadokawa.co.jp/product/200700003832/',
@@ -237,7 +237,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: "Book 2 in the series, released as 星の誓い, also known as " }, { emText: 'Oath of the Stars' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '287p; A6',
@@ -266,7 +266,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Released as 祈りの風, also known as ' }, { emText: 'Prayer of the Wind' }, { text: ', ' }, { emText: 'Wind of Prayer' }, { text: ' and ' }, { emText: 'Wind of Pray' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Manga'],
+      tags: ['Optional', 'Manga'],
       subtitle: 'Comic',
       length: '2 volumes',
       helpWanted: true,
@@ -294,7 +294,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Book 3 in the series, released as 永遠の絆, also known as ' }, { emText: 'The Eternal Link' }, { text: ' or ' }, { emText: 'The Covenant of Eternity' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '287p; A6',
@@ -323,7 +323,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       "Books 4–6 in the series, released as 護りの剣①②③.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       length: '3 volumes',
       helpWanted: true,
@@ -352,7 +352,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Book 7 in the series, released as 遥かなる翼.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       length: '255p; A6',
       helpWanted: true,
@@ -381,7 +381,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Books 8–10 in the series, released as 騎士の誇り①②③.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       length: '3 volumes',
       helpWanted: true,
@@ -410,7 +410,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       "Book 11 in the series, released as 冒険者の休日.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       length: '318p; A6',
       helpWanted: true,
@@ -438,7 +438,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Books 12–13 in the series, released as 遠い願い㊤㊦.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       length: '2 volumes',
       helpWanted: true,
@@ -466,7 +466,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Books 14–15 in the series, released as 新たな夢㊤㊦.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       length: '2 volumes',
       helpWanted: true,
@@ -494,7 +494,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Book 16 in the series, released as 旅の恵み.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '287p; A6',
@@ -522,7 +522,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Books 17–19 in the series, released as アトルガンの娘たち①②③.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '3 volumes',
@@ -550,7 +550,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Books 20–21 in the series, released as 賢者の遺言㊤㊦, also known as ' }, { emText: 'The Testament of the Sages' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       length: '2 volumes',
       helpWanted: true,
@@ -600,7 +600,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Book 22 in the series, released as 幸運の条件.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       length: '284p; A6',
       helpWanted: true,
@@ -628,7 +628,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       "Book 23 in the series, released as ロンフォールの姫騎士.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       length: '254p; A6',
       helpWanted: true,
@@ -656,7 +656,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Book 24 in the series, released as 星のいざない, also known as ' }, { emText: 'Starfall' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       length: '287p; A6',
       helpWanted: true,
@@ -684,7 +684,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Book 25 in the series, released as ハッピーギフト.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '313p; A6',
@@ -712,7 +712,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Books 26–28 in the series, released as 彼方からの伝言①②③, also known as ' }, { emText: 'Messages from Afar' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '3 volumes',
@@ -739,7 +739,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Book 29 in the series, released as アンソロジー短編集みんなで大冒険！！, also known as ' }, { emText: 'An Anthology of Short Stories: A Great Adventure for Everyone!!' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel', 'Short Stories'],
+      tags: ['Optional', 'Light Novel', 'Short Stories'],
       subtitle: 'Book',
       helpWanted: true,
       length: '311p; A6',
@@ -767,7 +767,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Books 30–32 in the series, released as ザルカバードの鼓動①②③.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '3 volumes',
@@ -793,7 +793,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Featuring stories and four original comics. Released as 電撃の旅団公式十年事典, also known as ' }, { emText: 'Lightning Brigade Official Decennial Encyclopedia' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Articles', 'Manga', 'Short Stories'],
+      tags: ['Optional', 'Tie-in', 'Articles', 'Manga', 'Short Stories'],
       subtitle: 'Book',
       length: '217p; AB',
       helpWanted: true,
@@ -820,7 +820,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: "A month after the crisis of Escafication, Vana'diel was slowly returning to normal. A sailing ship drifting along the South Ocean route encounters a colossal monster, marking the start of a new incident across Vana'diel, Tavnazia, and Reisenjima. Released as 終わりなき大地の唄, also known as " }, { emText: 'The Song of the Endless Land' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Novel'],
+      tags: ['Optional', 'Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '287p; B6',
@@ -846,7 +846,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'A short manga for ' }, { emText: 'XI' }, { text: ", released as 恋の空蝉1・2・3! (Koi no Utsusemi). Serialized in the Vana'diel Communications mook; the earliest known printing is the June 2007 Vana'diel Memoirs special appendix." }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Manga'],
+      tags: ['Optional', 'Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '…?',
       helpWanted: true,
@@ -887,7 +887,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       "A series of four-panel manga based on Final Fantasy XI, following the story of Iroha, the main heroine of Rhapsodies of Vana'diel. Known in Japan as Iroha de Gozaru.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Manga'],
+      tags: ['Optional', 'Tie-in', 'Manga'],
       subtitle: 'Comic',
       helpWanted: true,
       languages: [
@@ -909,7 +909,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'A replica script for the reading drama\'s five strange tales: "Mimiroon\'s Sparkling Great Adventure", "Go For It! Allied Forces of Altana: Extreme Survival", "Seaside Serpent Taro", "A Small Gift For A Small Friend", and "Black Night Butterfly". Released as 朗読劇 : 異聞のウタイビト : 複製台本, also known as ' }, { emText: 'Reading Drama: Minstrel of Strange Tales: Replica Script' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Novel'],
+      tags: ['Optional', 'Tie-in', 'Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '96p; B5',
@@ -932,7 +932,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'A replica script for the reading drama\'s stories of love and reunion across time and space: "Temple of the Heart\'s Secret" (a Star Sibyl story), "Girl of the Underworld" (an Aphmau story), "Blue Mage Blues" (a Blue Mage story), and "Memoirs of the Many-Headed Hydra -Memories of Heroes-" (a Hydra Squadron story). Released as 朗読劇 : 夢幻のウタイビト : 複製台本, also known as ' }, { emText: 'Reading Drama: Minstrel of Fantasies: Replica Script' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Novel'],
+      tags: ['Optional', 'Tie-in', 'Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '96p; B5',

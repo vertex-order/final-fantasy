@@ -99,7 +99,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
       'A clicker or incremental game.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Clicker', 'Terminated'],
+      tags: ['Optional', 'Clicker', 'Terminated'],
       languages: [
         { value: 'EN', native: true },
       ],

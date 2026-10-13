@@ -933,7 +933,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       [{ text: 'It is a remake of the snowboarding minigame near the Icicle Inn, as well as its near-identical minigame in the Gold Saucer in ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '. It is terminated, but you can always replay the original minigame.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Minigame', 'Mobile', 'Snowboarding', 'Single-player', 'Terminated'],
+      tags: ['Optional', 'Minigame', 'Mobile', 'Snowboarding', 'Single-player', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -953,7 +953,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       [{ text: 'Motorcycle racing game with role-playing elements inspired by a similar minigame in ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '. While riding on a motorcycle, Cloud battled enemies with melee weapons and magic with help from other characters. It is terminated, but you can always replay the original minigame.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Minigame', 'Mobile', 'Racing', 'Motorcycle', 'Hack and slash', 'Single-player', 'Terminated'],
+      tags: ['Optional', 'Minigame', 'Mobile', 'Racing', 'Motorcycle', 'Hack and slash', 'Single-player', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
       ],

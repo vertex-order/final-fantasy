@@ -250,7 +250,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'An original story set in the world of ' }, { emLinkText: 'XIV ~1.0~ (2010)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-online-1-0-2010' }, { text: ". It begins with three adventures set in three different city-states of Eorzea, following the Age of Calm after the nations' alliance against the Garlean Empire." }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Light Novel'],
+      tags: ['Optional', 'Light Novel'],
       subtitle: 'Book',
       profileUrl: 'https://www.kadokawa.co.jp/product/201010000382/',
       length: '296p; A6',
@@ -357,7 +357,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: "A gag manga in which the sole Lalafell-obsessed 'Lalafell-sensei' guides a green adventurer through Eorzea. Collected editions add the spin-off 'The Scholar and Eorzea'. Released in Japan as " }, { emText: 'Final Fantasy XIV: Lalafell-sensei no Oshiete Yaru yo!' }, { text: " (ファイナルファンタジーXIV ララフェル先生の教えてやるよ！, literally \"Lalafell-sensei Will Teach You!\")." }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Manga'],
+      tags: ['Optional', 'Tie-in', 'Manga'],
       subtitle: 'Comic',
       profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F',
       length: '3 volumes',
@@ -384,7 +384,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       'A collection of four-panel (4-koma) comics for XIV. Released as ファイナルファンタジー14じゅうよんコマ (Juyon Koma, a pun on the four-panel format and the number 14).',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Manga'],
+      tags: ['Optional', 'Tie-in', 'Manga'],
       subtitle: 'Comic',
       profileUrl: 'https://store.kadokawa.co.jp/shop/g/g321910001212/',
       length: '127p',
@@ -412,7 +412,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       "A play-diary-style adventure serial following its hot-blooded player character Ganbarund through the wastelands, dungeons, and monster dens of Eorzea in A Realm Reborn. Published on Famitsu.com as FF14 新生エオルゼア冒険記.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Play diary', 'Web', 'Free'],
+      tags: ['Optional', 'Tie-in', 'Play diary', 'Web', 'Free'],
       subtitle: 'Web',
       profileUrl: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651',
       length: [{ value: '40 episodes,', br: true }, { value: '5 specials' }],

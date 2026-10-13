@@ -77,7 +77,7 @@ window.__ffGroupReg['WD'] = { num: 'WD', chronoOrder: 1580, narrativeOrder: 1580
       [{ text: 'Similar gameplay to ' }, { emLinkText: 'World of Final Fantasy (2016)', emLinkUrl: '#entry-WD-world-of-final-fantasy-2016' }, { text: ', the game is now terminated.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Monster-taming RPG', 'Multiplayer', 'Co-op', 'Mobile', 'In-app purchases', 'Terminated'],
+      tags: ['Optional', 'Monster-taming RPG', 'Multiplayer', 'Co-op', 'Mobile', 'In-app purchases', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
       ],

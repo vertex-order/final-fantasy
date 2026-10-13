@@ -612,7 +612,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       [{ text: 'Mobile pinball game based on a minigame from ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '. It is terminated.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Minigame', 'Mobile', 'Pinball', 'Single-player', 'Terminated'],
+      tags: ['Optional', 'Minigame', 'Mobile', 'Pinball', 'Single-player', 'Terminated'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
