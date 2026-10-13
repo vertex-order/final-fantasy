@@ -1,0 +1,26 @@
+<!-- sources/final-fantasy-xi-dengeki-4-koma-international-2004.md (markdown) -->
+
+# Final Fantasy XI ~Dengeki 4-Koma International~
+<!-- site/data/group-XI.js, #entry-XI-final-fantasy-xi-dengeki-4-koma-international-2004 -->
+
+## Editions (ISBN)
+
+- Placeholder: only the bg-wiki row below read so far; no lookups done
+- Lookup links (wikipedia, goodreads, google books, open library) not yet added
+
+電撃4コマインターナショナル : 〜ヴァナ・ディールで使える英単語/英会話〜 — ISBN 4-8402-2764-0, Japanese and English, MediaWorks, September 2004, 402p;B6, 1429 yen, NDL 000007468576 — per bg-wiki — length*, dates*
+- English "Lightning Brigade 4-Panel International : ~Vana'diel English Vocabulary / Phrases~"
+- 352 English-language four-panel comics with Japanese translations, English phrases and vocabulary for Vana'diel, and a mini-column on dealing with people overseas
+
+## Sources
+
+bg-wiki.com (Information)
+- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma — titleUrl*, dates*, length* — shallow: row noted while researching the Lightning Brigade Encyclopedia (2026-10-13), page not re-read
+
+## Decisions
+
+- Placeholder entry (`helpWanted`): description, credits, languages and links to confirm
+- Title is our translation: "Dengeki 4-Koma International" for 電撃4コマインターナショナル
+- It is Final Fantasy XI strips (the subtitle and the Vana'diel vocabulary say so); 352 strips is gag-comic scale, but the English-learning material makes it half a language aid
+- Still to confirm: credits (likely the Brigade's artist, 江本 聖; not verified), languages, links
+- Added 2026-10-13 alongside the other Brigade four-panel books (see final-fantasy-xi-lightning-brigade-encyclopedia-2013.md)

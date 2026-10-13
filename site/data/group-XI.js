@@ -758,33 +758,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 4950, narrativeOrder: 638, narrativeSection: 'Main',
-    title: 'Final Fantasy XI ~Lightning Brigade Encyclopedia~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Lightning_Brigade', titleDate: '2013-03',
-    mediaDesc: [
-      [{ text: 'Featuring stories and four original comics. Released as 電撃の旅団公式十年事典, also known as ' }, { emText: 'Lightning Brigade Official Decennial Encyclopedia' }, { text: '.' }],
-    ],
-    primary: {
-      tags: ['Tie-in', 'Articles', 'Manga', 'Short Stories'],
-      subtitle: 'Book',
-      length: '217p; AB',
-      helpWanted: true,
-      languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/28453696' },
-        { value: '…?' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/28453696', key: 'goodreads' },
-      ],
-      platforms: [
-        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Lightning Brigade Encyclopedia', searchQualifier: 'manga' },
-        { key: 'fan-translation', search: 'duckduckgo', noResults: true },
-        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Lightning Brigade Encyclopedia', searchSuffix: 'manga dub', noResults: true },
-        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Lightning Brigade Decennial Encyclopedia', noResults: true },
-      ],
-    },
-  },
-  {
-    mediaType: 'Book', chronoOrder: 5100, narrativeOrder: 640, narrativeSection: 'Main',
+    mediaType: 'Book', chronoOrder: 5100, narrativeOrder: 641, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Songs of the Endless Earth~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books', titleDate: '2015-12',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
@@ -811,7 +785,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 5150, narrativeOrder: 641, narrativeSection: 'Main',
+    mediaType: 'Comic', chronoOrder: 5150, narrativeOrder: 642, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Love in the Sky 1·2·3!~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Misc', titleDate: '2007-06',
     mediaDesc: [
       [{ text: 'A short manga for ' }, { emText: 'XI' }, { text: ", released as 恋の空蝉1・2・3! (Koi no Utsusemi). Serialized in the Vana'diel Communications mook; the earliest known printing is the June 2007 Vana'diel Memoirs special appendix." }],
@@ -852,7 +826,91 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Comic', chronoOrder: 5050, narrativeOrder: 639, narrativeSection: 'Main',
+    mediaType: 'Comic', chronoOrder: 5060, narrativeOrder: 636, narrativeSection: 'Main',
+    title: 'Final Fantasy XI ~Lightning Brigade 4-Koma Manga~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: { start: '2004-02-20', end: '2007-03-23' },
+    by: 'Hijiri Emoto',
+    mediaDesc: [
+      [{ text: 'Four-panel comics about ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: " from the Dengeki Brigade, drawn for the Dengeki PlayStation series with new strips added, following the game from its launch. Released as 電撃・えふえふいれぶん・4コマ・マンガ NO.1・NO.2." }],
+    ],
+    primary: {
+      tags: ['Tie-in', 'Manga'],
+      subtitle: 'Comic',
+      length: '2 volumes',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200401000507/',
+      languages: [
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77594373' },
+      ],
+      ratings: [
+        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77594373', key: 'goodreads' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Manga', jpTag: true },
+      ],
+    },
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 5070, narrativeOrder: 637, narrativeSection: 'Main',
+    title: 'Final Fantasy XI ~Dengeki 4-Koma International~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: '2004-09',
+    mediaDesc: [
+      [{ text: 'English-language four-panel comics about ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ", with Japanese translations, plus English vocabulary and phrases for Vana'diel. Released as 電撃4コマインターナショナル ヴァナ・ディールで使える英単語/英会話." }],
+    ],
+    primary: {
+      tags: ['Tie-in', 'Manga'],
+      subtitle: 'Comic',
+      length: '402p; B6',
+      helpWanted: true,
+      languages: [
+        { value: 'JA', native: true },
+        { value: 'EN' },
+        { value: '…?' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Manga', jpTag: true },
+      ],
+    },
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 5075, narrativeOrder: 638, narrativeSection: 'Main',
+    title: 'Final Fantasy XI ~4-Panel Anthology Comic~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma_-_Bros', titleDate: { start: '2004-10', end: '2006-03' },
+    mediaDesc: [
+      [{ text: 'An anthology of four-panel comics by many artists about daily life in the world of ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '. Released as 4コマアンソロジーコミック.' }],
+    ],
+    primary: {
+      tags: ['Tie-in', 'Manga'],
+      subtitle: 'Comic',
+      length: '10 volumes',
+      helpWanted: true,
+      languages: [
+        { value: 'JA', native: true },
+        { value: '…?' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Manga', jpTag: true },
+      ],
+    },
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 5080, narrativeOrder: 639, narrativeSection: 'Main',
+    title: "Final Fantasy XI ~The Beast's Path~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: '2007-03',
+    mediaDesc: [
+      [{ text: "A story four-panel comic following the Tarutaru Oru and his companions through a relaxed adventuring life in Vana'diel, across 27 chapters. Released as 獣の花道 FFXI・電撃の旅団外伝." }],
+    ],
+    primary: {
+      tags: ['Tie-in', 'Manga'],
+      subtitle: 'Comic',
+      length: '2 volumes',
+      helpWanted: true,
+      languages: [
+        { value: 'JA', native: true },
+        { value: '…?' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Manga', jpTag: true },
+      ],
+    },
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 5050, narrativeOrder: 640, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Aloha Iroha~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha', titleDate: '2015-08-11',
     mediaDesc: [
       "A series of four-panel manga based on Final Fantasy XI, following the story of Iroha, the main heroine of Rhapsodies of Vana'diel. Known in Japan as Iroha de Gozaru.",
@@ -874,7 +932,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 5160, narrativeOrder: 642, narrativeSection: 'Main',
+    mediaType: 'Book', chronoOrder: 5160, narrativeOrder: 643, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Minstrel of Strange Tales: Replica Script~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2024-02',
     mediaDesc: [
       [{ text: 'A replica script for the reading drama\'s five strange tales: "Mimiroon\'s Sparkling Great Adventure", "Go For It! Allied Forces of Altana: Extreme Survival", "Seaside Serpent Taro", "A Small Gift For A Small Friend", and "Black Night Butterfly". Released as 朗読劇 : 異聞のウタイビト : 複製台本, also known as ' }, { emText: 'Reading Drama: Minstrel of Strange Tales: Replica Script' }, { text: '.' }],
@@ -897,7 +955,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 5170, narrativeOrder: 643, narrativeSection: 'Main',
+    mediaType: 'Book', chronoOrder: 5170, narrativeOrder: 644, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Minstrel of Fantasies: Replica Script~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2025-03',
     mediaDesc: [
       [{ text: 'A replica script for the reading drama\'s stories of love and reunion across time and space: "Temple of the Heart\'s Secret" (a Star Sibyl story), "Girl of the Underworld" (an Aphmau story), "Blue Mage Blues" (a Blue Mage story), and "Memoirs of the Many-Headed Hydra -Memories of Heroes-" (a Hydra Squadron story). Released as 朗読劇 : 夢幻のウタイビト : 複製台本, also known as ' }, { emText: 'Reading Drama: Minstrel of Fantasies: Replica Script' }, { text: '.' }],
