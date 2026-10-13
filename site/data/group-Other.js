@@ -55,10 +55,11 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     mediaType: 'Game', chronoOrder: 1200, narrativeOrder: 202,
     title: 'Mobius Final Fantasy', titleUrl: 'https://wikipedia.org/wiki/Mobius_Final_Fantasy', titleDate: '2015-06-04',
     mediaDesc: [
-      [{ text: 'The players could control Warrior of Light (Wol), a man who wakes with amnesia in the world of Palamecia, and must help conquer the dark forces attacking its people. The game is terminated.' }],
+      [{ text: 'The players could control Warrior of Light (Wol), a man who wakes with amnesia in the world of Palamecia, and must help conquer the dark forces attacking its people.' }],
     ],
     primary: {
-      tags: ['Turn-based RPG', 'Jobs', 'Single-player', 'Mobile', 'Free-to-play', 'Terminated'],
+      tags: ['Turn-based RPG', 'Jobs', 'Single-player', 'Mobile', 'Free-to-play'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -88,7 +89,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'Incorporates original elements with existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. Only the Japan region is still playable, other regions are terminated.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', '2D sprites', 'RPG', 'Active Time Battles', 'Single-player', 'Multiplayer', 'Mobile', 'Free-to-play', 'Gacha', 'Non-Japan Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', '2D sprites', 'RPG', 'Active Time Battles', 'Single-player', 'Multiplayer', 'Mobile', 'Free-to-play', 'Gacha'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN', tip: 'English (content up to 2022-09)' },
@@ -189,10 +190,11 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     mediaType: 'Game', chronoOrder: 400, narrativeOrder: 350,
     title: 'Voice Fantasy', titleUrl: 'https://wikipedia.org/wiki/Voice_Fantasy', titleDate: '2010-11-01',
     mediaDesc: [
-      [{ text: "The game centered on battles between the player's army and enemy monsters or computer-controlled players. The characters in the army were generated using the sounds of the player's own voice, and then engaged in side-scrolling combat with the enemy. Combat was completely automated with the player only controlling character creation. The game is terminated." }],
+      [{ text: "The game centered on battles between the player's army and enemy monsters or computer-controlled players. The characters in the army were generated using the sounds of the player's own voice, and then engaged in side-scrolling combat with the enemy. Combat was completely automated with the player only controlling character creation." }],
     ],
     primary: {
-      tags: ['Optional', 'Voice-controlled RPG', 'Jobs', 'Single-player', 'Mobile', 'Terminated'],
+      tags: ['Optional', 'Voice-controlled RPG', 'Jobs', 'Single-player', 'Mobile'],
+      terminated: true,
       ratings: [
         { score: '46', url: 'https://www.metacritic.com/game/voice-fantasy/', key: 'metacritic' },
       ],
@@ -207,10 +209,11 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: 'Final Fantasy Airborne Brigade', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Airborne_Brigade', titleDate: '2012-01-06',
     mediaDesc: [
       'Long ago, the country was protected by two crystals. However, one was broken and scattered throughout the world following a monster invasion. The other lost its glow. Only the ancient summon beasts can return the crystals to their original shine, and the player must travel the world by air ship and defeat the summon beasts.',
-      'Incorporates original elements with existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.',
+      'Incorporates original elements with existing series and titles. Can be considered a bit of an alternate universe mashup spin-off.',
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Social RPG', 'Jobs', 'Multiplayer', 'Co-op', 'Mobile', 'Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Social RPG', 'Jobs', 'Multiplayer', 'Co-op', 'Mobile'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -234,10 +237,11 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: 'Final Fantasy All the Bravest', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_All_the_Bravest', titleDate: '2013-01-17',
     mediaDesc: [
       'Players\' characters could traverse an overhead map between battles. After a series of battles, players could confront a boss enemy. There was no story elements. Self-described as an "app" not a game.',
-      'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.',
+      'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off.',
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', 'RPG', 'Jobs', 'Active Time Battle', 'Mobile', 'Free-to-play', 'In-app purchases', 'Single-player', 'Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', 'RPG', 'Jobs', 'Active Time Battle', 'Mobile', 'Free-to-play', 'In-app purchases', 'Single-player'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -260,10 +264,11 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     mediaType: 'Game', chronoOrder: 700, narrativeOrder: 358,
     title: 'Pictlogica Final Fantasy', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Pictlogica_Final_Fantasy', titleDate: '2013-10-28',
     mediaDesc: [
-      [{ text: 'Mixes RPG elements with dot logic puzzles. The player controls a party of four, plus one optional friend, as they battle their way through waves of enemies while solving puzzles. The 3DS version had a few extra features. The game is terminated.' }],
+      [{ text: 'Mixes RPG elements with dot logic puzzles. The player controls a party of four, plus one optional friend, as they battle their way through waves of enemies while solving puzzles. The 3DS version had a few extra features.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Dot logic puzzle', 'RPG', 'Single-player', 'Multiplayer', 'Co-op', 'Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Dot logic puzzle', 'RPG', 'Single-player', 'Multiplayer', 'Co-op'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
       ],
@@ -284,10 +289,11 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: 'Final Fantasy: World Wide Words', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_World_Wide_Words', titleDate: '2014-09-16',
     mediaDesc: [
       [{ text: 'Players fight several rounds of enemies. Attacks are initiated by typing the words that pop out next to each of the enemies. Words that appear include Final Fantasy-themed ones.' }],
-      [{ text: 'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.' }],
+      [{ text: 'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Typing RPG', 'Mobile', 'Free-to-play', 'Multiplayer', 'Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Typing RPG', 'Mobile', 'Free-to-play', 'Multiplayer'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
       ],
@@ -303,10 +309,11 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: 'Heavenstrike Rivals', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Heavenstrike_Rivals', titleDate: '2014-11-14',
     mediaDesc: [
       [{ text: 'The player was recruited as the commander of a battalion of units commissioned to do battle against Fallen demons. There is a story and PvP mode.' }],
-      [{ text: 'Incorporates original elements with existing series and titles, including other franchises altogether. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.' }],
+      [{ text: 'Incorporates original elements with existing series and titles, including other franchises altogether. Can be considered a bit of an alternate universe mashup spin-off.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Social Tactical RPG', 'Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Social Tactical RPG'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -332,10 +339,11 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: 'Final Fantasy Portal App: Triple Triad', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Triple_Triad_(Portal_App)', titleDate: '2015-04-01',
     mediaDesc: [
       [{ text: 'An updated version of the recurring minigame Triple Triad first introduced in ' }, { emLinkText: 'VIII (1999)', emLinkUrl: '#entry-VIII-final-fantasy-viii-1999' }, { text: ', with rules from the ' }, { emText: 'XIV (2010)' }, { text: ' version, with cards from many Final Fantasy games. Its bare story loosely tied it to the ' }, { emText: 'Dissidia' }, { text: ' series (2008).' }],
-      [{ text: 'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.' }],
+      [{ text: 'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Card game', 'Mobile', 'Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Card game', 'Mobile'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -357,10 +365,11 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: 'Final Fantasy Digital Card Game', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Digital_Card_Game', titleDate: '2019-07-09',
     mediaDesc: [
       [{ text: 'Players deployed various characters and creatures from the Final Fantasy series in a board to compete with one another.' }],
-      [{ text: 'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. The game is terminated.' }],
+      [{ text: 'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Card game', 'Free-to-play', 'In-app purchases', 'Multiplayer', 'Terminated'],
+      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Card game', 'Free-to-play', 'In-app purchases', 'Multiplayer'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
       ],

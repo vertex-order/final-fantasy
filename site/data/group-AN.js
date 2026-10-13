@@ -5,10 +5,11 @@ window.__ffGroupReg['AN'] = { num: 'AN', chronoOrder: 1515, narrativeOrder: 1740
     title: 'Final Fantasy Artniks', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Artniks', titleDate: '2012-11-30',
     mediaDesc: [
       [{ text: 'Card collection game inspired by many different Final Fantasy series and titles all mashed together.' }],
-      'Since it does not have a deep story and is more of a mashup, and is also terminated, there it no story recap to view.',
+      'It does not have a deep story and is more of a mashup, so there is no story recap to view.',
     ],
     primary: {
-      tags: ['CCG', 'Mobile', 'Multiplayer', 'Terminated'],
+      tags: ['CCG', 'Mobile', 'Multiplayer'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
       ],
@@ -24,10 +25,11 @@ window.__ffGroupReg['AN'] = { num: 'AN', chronoOrder: 1515, narrativeOrder: 1740
     title: 'Final Fantasy Artniks Dive', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Artniks_Dive', titleDate: '2014-11-10',
     mediaDesc: [
       [{ text: 'Dungeon crawl inspired by many different Final Fantasy series and titles all mashed together. Considered a sequel (despite different gameplay) to ' }, { emLinkText: 'Artniks (2012)', emLinkUrl: '#entry-AN-final-fantasy-artniks-2012' }, { text: '.' }],
-      'Since it does not have a deep story and is more of a mashup, and is also terminated, there it no story recap to view.',
+      'It does not have a deep story and is more of a mashup, so there is no story recap to view.',
     ],
     primary: {
-      tags: ['Sequel', 'Dungeon crawl', 'Mobile', 'Multiplayer', 'Gacha', 'Terminated'],
+      tags: ['Sequel', 'Dungeon crawl', 'Mobile', 'Multiplayer', 'Gacha'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
       ],

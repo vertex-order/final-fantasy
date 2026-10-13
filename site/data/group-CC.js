@@ -156,7 +156,8 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       [{ text: 'Due to the discontinuation of the WiiWare service it is recommend to watch a fan story recap or playthrough for story elements.' }],
     ],
     primary: {
-      tags: ['Sequel', 'City-building', 'Terminated'],
+      tags: ['Sequel', 'City-building'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -185,7 +186,8 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       [{ text: 'Due to the discontinuation of the WiiWare service it is recommend to watch a fan story recap or playthrough for story elements.' }],
     ],
     primary: {
-      tags: ['Sequel', 'Tower defense', 'Terminated'],
+      tags: ['Sequel', 'Tower defense'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

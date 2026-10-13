@@ -355,10 +355,10 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
     title: 'Platinum Demo – Final Fantasy XV Prologue', titleUrl: 'https://wikipedia.org/wiki/Development_of_Final_Fantasy_XV#Demos', titleDate: '2016-03-30 20',
     mediaDesc: [
       [{ text: 'Meant as a prologue to ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '. Set in a dream world after Noctis is gravely wounded as a child, it follows his journey back to consciousness, guided by a creature called Carbuncle that protects Noctis.' }],
-      [{ text: 'Due to it being terminated, it is recommended to watch a fan story recap or playthrough for story elements.' }],
     ],
     primary: {
-      tags: ['Optional', 'Demo', 'Prologue', 'Terminated'],
+      tags: ['Optional', 'Demo', 'Prologue'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -439,10 +439,11 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
     mediaType: 'Game', chronoOrder: 2000, narrativeOrder: 800,
     title: 'Final Fantasy XV: A New Empire', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV:_A_New_Empire', titleDate: '2017-06-29',
     mediaDesc: [
-      'Focused on the development of Insomnia as a kingdom. Due to it being terminated, it is recommended to watch the official clips and/or a fan story recap or playthrough for story elements.',
+      'Focused on the development of Insomnia as a kingdom. We recommend you watch the official clips for story elements.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer', 'Terminated'],
+      tags: ['Optional', 'Spin-off', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer'],
+      terminated: true,
       languages: [
         { value: 'EN', native: true },
         { value: '…?' },
@@ -462,10 +463,11 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
     mediaType: 'Game', chronoOrder: 3000, narrativeOrder: 900,
     title: 'Final Fantasy XV: War for Eos', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_War_for_Eos', titleDate: '2022-03-21',
     mediaDesc: [
-      [{ text: 'Picking up where ' }, { emLinkText: 'XV: A New Empire (2017)', emLinkUrl: '#entry-XV-final-fantasy-xv-a-new-empire-2017' }, { text: " left off, focuses on the rebuilding of Insomnia after the Niflheim Empire's attack. Game is terminated." }],
+      [{ text: 'Picking up where ' }, { emLinkText: 'XV: A New Empire (2017)', emLinkUrl: '#entry-XV-final-fantasy-xv-a-new-empire-2017' }, { text: " left off, focuses on the rebuilding of Insomnia after the Niflheim Empire's attack." }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer', 'Terminated'],
+      tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer'],
+      terminated: true,
       languages: [
         { value: '…?', tip: 'Unknown languages' },
       ],
@@ -609,10 +611,11 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
     mediaType: 'Game', chronoOrder: 3800, narrativeOrder: 970,
     title: 'Justice Monsters Five', titleUrl: 'https://wikipedia.org/wiki/Justice_Monsters_Five', titleDate: '2016-08-30',
     mediaDesc: [
-      [{ text: 'Mobile pinball game based on a minigame from ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '. It is terminated.' }],
+      [{ text: 'Mobile pinball game based on a minigame from ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Minigame', 'Mobile', 'Pinball', 'Single-player', 'Terminated'],
+      tags: ['Optional', 'Minigame', 'Mobile', 'Pinball', 'Single-player'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

@@ -14,12 +14,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Add-on scenarios comprise of a series of quests and are smaller in scope than expansions and purchased separately, often requiring certain expansions. Their chronological order is much more complicated and we recommend consulting a dedicated play order guide for them like ' }, { emLinkText: "sorenohde's", emLinkUrl: 'https://www.reddit.com/r/ffxi/comments/upfga9/chart_on_how_to_go_through_rhapsodies_of_vanadiel/' }, { text: '.' }],
     ],
     primary: {
-      mainline: true, tags: ['MMORPG', 'Monthly subscription'],
+      mainline: true, tags: [{ abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Base Game',
-      tagParts: [
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Monthly subscription' },
-      ],
       listTitle: 'Add-ons & scenarios:',
       listTitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Expansions_and_add-ons',
       listItems: ['A Crystalline Prophecy (2009)', "A Moogle Kupo d'Etat (2009)", 'A Shantotto Ascension (2009)', 'Vision of Abyssea (2010)', 'Scars of Abyssea (2010)', 'Heroes of Abyssea (2010)', "Rhapsodies of Vana'diel (2015)", 'The Voracious Resurgence (2020)'],
@@ -53,13 +49,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: "Thwart Zilart princes Eald'Narche and Kam'lanaut's plans to become Gods in this expansion for " }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
-      tagParts: [
-        { text: 'Expansion · ' },
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Monthly subscription' },
-      ],
       length: [{ value: '33h', tip: 'Solo', join: ' / ' }, { value: '11h', tip: 'Co-op' }],
       platforms: [
         { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy xi rise of the zilart' },
@@ -75,13 +66,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Various factions vie to either stop or complete the resurrection of Twilight God Promathia in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
-      tagParts: [
-        { text: 'Expansion · ' },
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Monthly subscription' },
-      ],
       ratings: [
         { score: '77', url: 'https://www.metacritic.com/game/final-fantasy-xi-chains-of-promathia/', key: 'metacritic' },
         { score: '7.9', url: 'https://www.metacritic.com/game/final-fantasy-xi-chains-of-promathia/', key: 'metacritic-user' },
@@ -101,13 +87,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'The Empire of Aht Urhgan in the midlands becomes involved after years of self-imposed isolation, with the player being sent there as a representative in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
-      tagParts: [
-        { text: 'Expansion · ' },
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Monthly subscription' },
-      ],
       ratings: [
         { score: '87', url: 'https://www.metacritic.com/game/final-fantasy-xi-treasures-of-aht-urhgan/', key: 'metacritic' },
         { score: '6.8', url: 'https://www.metacritic.com/game/final-fantasy-xi-treasures-of-aht-urhgan/', key: 'metacritic-user' },
@@ -127,13 +108,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Using newly discovered time portals, players travel 20 years in the past from the base game main story to experience the Crystal War first-hand and encounters a surprise character in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
-      tagParts: [
-        { text: 'Expansion · ' },
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Monthly subscription' },
-      ],
       ratings: [
         { score: '63', url: 'https://www.metacritic.com/game/final-fantasy-xi-wings-of-the-goddess/', key: 'metacritic' },
         { score: '7.2', url: 'https://www.metacritic.com/game/final-fantasy-xi-wings-of-the-goddess/', key: 'metacritic-user' },
@@ -153,13 +129,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'People are migrating to the underpopulated western continent archipelago of Adoulin and the Sacred City of Adoulin in this last expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
-      tagParts: [
-        { text: 'Expansion · ' },
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Monthly subscription' },
-      ],
       length: [{ value: '43h', tip: 'Solo', join: ' / ' }, { value: '11h', tip: 'Co-op' }],
       platforms: [
         { key: 'fan-movie', search: 'youtube' },
@@ -953,15 +924,11 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy Grandmasters', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Grandmasters', titleDate: '2015-09-30',
     mediaDesc: [
       [{ text: 'Tie-in with the ' }, { emText: "Rhapsodies of Vana'diel (2015)" }, { text: ' scenario for ' }, { emText: 'Final Fantasy XI (2002)' }, { text: '. User avatars with chibi character models travel the world by airship in a quest to become the strongest "Grandmaster" adventurer while engaging in co-operative battles against enemies.' }],
-      "Terminated, the general lack of deep story means there isn't anything to get caught up on or experience through recaps.",
+      "The general lack of deep story means there isn't anything to get caught up on or experience through recaps.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'MMORPG', 'Mobile', 'Jobs', 'Active Time Battle', 'Terminated'],
-      tagParts: [
-        { text: 'Optional · Spin-off · ' },
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Mobile · Jobs · Active Time Battle · Terminated' },
-      ],
+      tags: ['Optional', 'Spin-off', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Mobile', 'Jobs', 'Active Time Battle'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
       ],

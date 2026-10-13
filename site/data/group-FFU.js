@@ -34,6 +34,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
     ],
     primary: {
       tags: ['Optional', 'Adaptation', 'Turn-based RPG', 'Mobile'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
       ],

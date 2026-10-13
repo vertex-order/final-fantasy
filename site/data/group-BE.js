@@ -42,10 +42,10 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
     title: 'Final Fantasy Brave Exvius', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Brave_Exvius', titleDate: '2015-10-22',
     mediaDesc: [
       'Rain and Lasswell help fight off an attack on the Earth crystal. Incorporates elements and characters from other Final Fantasy titles, as well as outside franchises. Can be considered a bit of a mash-up.',
-      'Since the game is terminated we recommend you watch a fan story recap video or a playthrough.',
     ],
     primary: {
-      tags: ['Optional', 'Mobile', 'Turn-based RPG', 'Gacha', 'Terminated'],
+      tags: ['Optional', 'Mobile', 'Turn-based RPG', 'Gacha'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -99,7 +99,8 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
       'A clicker or incremental game.',
     ],
     primary: {
-      tags: ['Optional', 'Clicker', 'Terminated'],
+      tags: ['Optional', 'Clicker'],
+      terminated: true,
       languages: [
         { value: 'EN', native: true },
       ],
@@ -116,7 +117,8 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
       [{ text: 'War breaks out between five rival nations on Lapis in the distant past of ' }, { emLinkText: 'Brave Exvius (2015)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-2015' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Tactical RPG', 'Mobile', 'Terminated'],
+      tags: ['Optional', 'Prequel', 'Tactical RPG', 'Mobile'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

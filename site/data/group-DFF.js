@@ -124,7 +124,8 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
       [{ text: 'The events that took place were complementary to those that transpire in the world of the ' }, { emText: 'Dissidia NT (2015)' }, { text: ' since they share the same gods and the same crystals.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mobile', 'Free-to-play', 'Turn-based RPG', 'Single-player', 'Terminated'],
+      tags: ['Optional', 'Mobile', 'Free-to-play', 'Turn-based RPG', 'Single-player'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

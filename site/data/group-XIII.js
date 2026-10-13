@@ -569,10 +569,11 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
     title: 'Final Fantasy Agito', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Agito#', titleDate: '2014-05-14',
     mediaDesc: [
       [{ text: 'Companion entry to ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ', you play a cadet entering the Rubrum Magical Academy during a time of war, and chosen to become the Agito, a figure destined to save Orience from destruction.' }],
-      [{ text: 'Due to it being terminated, and never released outside of Japan, it is recommended to watch a fan story recap or playthrough for story elements.' }],
+      [{ text: 'It was never released outside of Japan.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'RPG', 'Multiplayer', 'Alternate Universe', 'Terminated'],
+      tags: ['Optional', 'Spin-off', 'RPG', 'Multiplayer', 'Alternate Universe'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
       ],
@@ -618,10 +619,10 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
     title: 'Final Fantasy Awakening', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Awakening', titleDate: '2016-12-14',
     mediaDesc: [
       [{ text: 'Set in the ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ' alternate universe, you play as a cadet of the Dominion of Rubrum as the four nations of Orience are plunged into war.' }],
-      [{ text: 'Due to it being terminated, it is recommended to watch a fan story recap or playthrough for story elements.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'RPG', 'Multiplayer', 'Alternate Universe', 'Terminated'],
+      tags: ['Optional', 'Spin-off', 'RPG', 'Multiplayer', 'Alternate Universe'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

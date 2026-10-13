@@ -7,10 +7,11 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
     title: 'Final Fantasy VII: The First Soldier', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_The_First_Soldier', titleDate: '2021-11-17',
     mediaDesc: [
       [{ text: '18 years before ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ', SOLDIER candidates train in a battle simulation.' }],
-      'Only the opening movie, season 2-4 trailers contain story elements, and the game itself is terminated. They can be viewed online.',
+      'Only the opening movie, season 2-4 trailers contain story elements. They can be viewed online.',
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Battle Royale', 'Free-to-play', 'In-app purchases', 'Terminated'],
+      tags: ['Optional', 'Prequel', 'Battle Royale', 'Free-to-play', 'In-app purchases'],
+      terminated: true,
       profileUrl: 'https://www.ateam-entertainment.com/en/services/787/',
       languages: [
         { value: 'JA', native: true },
@@ -46,10 +47,11 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
     title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: '2023-09-07',
     mediaDesc: [
       [{ text: 'The ' }, { emText: 'Final Fantasy VII: The First Soldier' }, { text: ' episode with three chapters is set 15 years before ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' and focuses on Sephiroth.' }],
-      'Do not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you watch fan story recap videos of the story elements or a playthrough.',
+      'Do not watch or play the other episodes at this time, they contain spoilers for other games.',
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Episodic', 'Active time battle', 'Co-op', 'Free', 'In-app purchases', 'Terminated'],
+      tags: ['Optional', 'Prequel', 'Episodic', 'Active time battle', 'Co-op', 'Free', 'In-app purchases'],
+      terminated: true,
       subtitle: 'The First Soldier',
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -77,10 +79,10 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
     title: 'Before Crisis: Final Fantasy VII', titleUrl: 'https://wikipedia.org/wiki/Before_Crisis:_Final_Fantasy_VII', titleDate: '2004-09-24',
     mediaDesc: [
       'The Turks group of covert operatives working for Shinra Electric Power Company fight against both the rebel group AVALANCHE, and their corrupt employers.',
-      'Since the game is terminated we recommend you watch a fan story recap video or a playthrough.',
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Terminated'],
+      tags: ['Optional', 'Prequel'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
       ],
@@ -94,7 +96,8 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
     },
     alts: [
       {
-        tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
+        tags: ['Co-op', 'Free', 'In-app purchases'],
+        terminated: true,
         title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: 2023,
         subtitle: 'Before Crisis',
         languages: [
@@ -117,7 +120,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         ],
         versionDesc: [
           ['The Before Crisis episode retells the story from ', { emLinkText: 'Before Crisis (2004)', emLinkUrl: '#entry-VII-before-crisis-final-fantasy-vii-2004' }, '.'],
-          'Do not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.',
+          'Do not watch or play the other episodes at this time, they contain spoilers for other games.',
         ],
       },
     ],
@@ -199,7 +202,8 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       ],
       versions: [
         {
-          tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
+          tags: ['Co-op', 'Free', 'In-app purchases'],
+          terminated: true,
           title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: 2023,
           subtitle: 'Crisis Core',
           languages: [
@@ -221,7 +225,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
             { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
           ],
           versionDesc: [
-            [{ text: 'The ' }, { emText: 'Crisis Core' }, { text: ' episode retells the story from ' }, { emLinkText: 'Crisis Core: Final Fantasy VII (2007)', emLinkUrl: '#entry-VII-crisis-core-final-fantasy-vii-2007' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you play a different version, watch a fan story recap video or a playthrough.' }],
+            [{ text: 'The ' }, { emText: 'Crisis Core' }, { text: ' episode retells the story from ' }, { emLinkText: 'Crisis Core: Final Fantasy VII (2007)', emLinkUrl: '#entry-VII-crisis-core-final-fantasy-vii-2007' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games.' }],
           ],
         },
         {
@@ -454,7 +458,8 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
           ],
         },
         {
-          tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
+          tags: ['Co-op', 'Free', 'In-app purchases'],
+          terminated: true,
           title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: 2023,
           subtitle: 'Final Fantasy VII',
           languages: [
@@ -476,7 +481,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
             { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) Final Fantasy VII' },
           ],
           versionDesc: [
-            [{ text: 'The ' }, { emText: 'Final Fantasy VII' }, { text: ' episode retells the story from ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you play another version, watch a fan story recap video, or a playthrough.' }],
+            [{ text: 'The ' }, { emText: 'Final Fantasy VII' }, { text: ' episode retells the story from ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games.' }],
           ],
         },
         {
@@ -738,7 +743,8 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       ],
       versions: [
         {
-          tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
+          tags: ['Co-op', 'Free', 'In-app purchases'],
+          terminated: true,
           title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: 2023,
           subtitle: 'Advent Children',
           languages: [
@@ -760,7 +766,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
             { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
           ],
           versionDesc: [
-            [{ text: 'This was the only way to experience the movie as a game. The ' }, { emText: 'Advent Children' }, { text: ' episode retells the story from ' }, { emLinkText: 'Final Fantasy VII: Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games. Since the game is terminated we recommend you watch the movie, a fan story recap video or a playthrough.' }],
+            [{ text: 'This was the only way to experience the movie as a game. The ' }, { emText: 'Advent Children' }, { text: ' episode retells the story from ' }, { emLinkText: 'Final Fantasy VII: Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }, { text: '.\n\nDo not watch or play the other episodes at this time, they contain spoilers for other games.' }],
           ],
         },
         {
@@ -835,7 +841,8 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       ],
       versions: [
         {
-          tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
+          tags: ['Co-op', 'Free', 'In-app purchases'],
+          terminated: true,
           title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: 2023,
           subtitle: 'Dirge of Cerberus',
           languages: [
@@ -857,7 +864,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
             { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
           ],
           versionDesc: [
-            [{ text: 'This was the only way to experience it as an RPG instead of a shooter. The ' }, { emText: 'Dirge of Cerberus' }, { text: ' episode retells the story from ' }, { emLinkText: 'Dirge of Cerberus: Final Fantasy VII (2006)', emLinkUrl: '#entry-VII-dirge-of-cerberus-final-fantasy-vii-2006' }, { text: ' and includes details pertaining to ' }, { emLinkText: 'Dirge of Cerberus Lost Episode: Final Fantasy VII (2006)', emLinkUrl: '#entry-VII-dirge-of-cerberus-lost-episode-final-fantasy-vii-2006' }, { text: '. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.' }],
+            [{ text: 'This was the only way to experience it as an RPG instead of a shooter. The ' }, { emText: 'Dirge of Cerberus' }, { text: ' episode retells the story from ' }, { emLinkText: 'Dirge of Cerberus: Final Fantasy VII (2006)', emLinkUrl: '#entry-VII-dirge-of-cerberus-final-fantasy-vii-2006' }, { text: ' and includes details pertaining to ' }, { emLinkText: 'Dirge of Cerberus Lost Episode: Final Fantasy VII (2006)', emLinkUrl: '#entry-VII-dirge-of-cerberus-lost-episode-final-fantasy-vii-2006' }, { text: '.' }],
           ],
         },
         {
@@ -883,6 +890,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
     ],
     primary: {
       tags: ['Optional', 'Sequel', 'Shooter'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -897,7 +905,8 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       ],
       versions: [
         {
-          tags: ['Co-op', 'Free', 'In-app purchases', 'Terminated'],
+          tags: ['Co-op', 'Free', 'In-app purchases'],
+          terminated: true,
           title: 'Final Fantasy VII: Ever Crisis', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis', titleDate: 2023,
           subtitle: 'Dirge of Cerberus',
           languages: [
@@ -919,7 +928,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
             { key: 'apple', terminated: true, url: 'https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430' },
           ],
           versionDesc: [
-            [{ text: 'This was the only way to experience it as an RPG instead of a shooter. The ' }, { emText: 'Dirge of Cerberus' }, { text: ' episode retells the story from ' }, { emLinkText: 'Dirge of Cerberus: Final Fantasy VII (2006)', emLinkUrl: '#entry-VII-dirge-of-cerberus-final-fantasy-vii-2006' }, { text: ' and includes details pertaining to ' }, { emLinkText: 'Dirge of Cerberus Lost Episode: Final Fantasy VII (2006)', emLinkUrl: '#entry-VII-dirge-of-cerberus-lost-episode-final-fantasy-vii-2006' }, { text: '. Since the game is terminated we recommend you watch a fan story recap video or a playthrough.' }],
+            [{ text: 'This was the only way to experience it as an RPG instead of a shooter. The ' }, { emText: 'Dirge of Cerberus' }, { text: ' episode retells the story from ' }, { emLinkText: 'Dirge of Cerberus: Final Fantasy VII (2006)', emLinkUrl: '#entry-VII-dirge-of-cerberus-final-fantasy-vii-2006' }, { text: ' and includes details pertaining to ' }, { emLinkText: 'Dirge of Cerberus Lost Episode: Final Fantasy VII (2006)', emLinkUrl: '#entry-VII-dirge-of-cerberus-lost-episode-final-fantasy-vii-2006' }, { text: '.' }],
           ],
         },
       ],
@@ -930,10 +939,11 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
     title: 'Final Fantasy VII: Snowboarding', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_Snowboarding', titleDate: '2005-03-29',
     mediaDesc: [
       'The main character is Cloud Strife, and the objective is to snowboard down tracks, dodging moogles, doing tricks off ramps, and collecting balloons. The "Chocobo Theme" song is played throughout the game.',
-      [{ text: 'It is a remake of the snowboarding minigame near the Icicle Inn, as well as its near-identical minigame in the Gold Saucer in ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '. It is terminated, but you can always replay the original minigame.' }],
+      [{ text: 'It is a remake of the snowboarding minigame near the Icicle Inn, as well as its near-identical minigame in the Gold Saucer in ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '. You can always replay the original minigame.' }],
     ],
     primary: {
-      tags: ['Optional', 'Minigame', 'Mobile', 'Snowboarding', 'Single-player', 'Terminated'],
+      tags: ['Optional', 'Minigame', 'Mobile', 'Snowboarding', 'Single-player'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -950,10 +960,11 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
     mediaType: 'Game', chronoOrder: 490, narrativeOrder: 1900,
     title: 'Final Fantasy VII G-Bike', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_G-Bike', titleDate: '2014-10-30',
     mediaDesc: [
-      [{ text: 'Motorcycle racing game with role-playing elements inspired by a similar minigame in ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '. While riding on a motorcycle, Cloud battled enemies with melee weapons and magic with help from other characters. It is terminated, but you can always replay the original minigame.' }],
+      [{ text: 'Motorcycle racing game with role-playing elements inspired by a similar minigame in ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '. While riding on a motorcycle, Cloud battled enemies with melee weapons and magic with help from other characters. You can always replay the original minigame.' }],
     ],
     primary: {
-      tags: ['Optional', 'Minigame', 'Mobile', 'Racing', 'Motorcycle', 'Hack and slash', 'Single-player', 'Terminated'],
+      tags: ['Optional', 'Minigame', 'Mobile', 'Racing', 'Motorcycle', 'Hack and slash', 'Single-player'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
       ],

@@ -375,10 +375,11 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
     title: 'Final Fantasy Tactics S', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_S', titleDate: '2013-05-28',
     mediaDesc: [
       [{ text: 'Mobile social game featuring jobs from the ' }, { emText: 'Tactics' }, { text: ' series, join a clan and engage in quests to compete with other clans in daily tournaments.' }],
-      'Due to being terminated, and lacking a deep story, there is no story recap to catch up on.',
+      'It lacks a deep story, so there is no story recap to catch up on.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mobile', 'Tactical rpg', 'Jobs', 'Terminated'],
+      tags: ['Optional', 'Spin-off', 'Mobile', 'Tactical rpg', 'Jobs'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
       ],
@@ -396,7 +397,8 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       [{ text: 'Tower defense game inspired by elements from ' }, { emLinkText: 'Tactics A2: Grimoire of the Rift (2007)', emLinkUrl: '#entry-XII-final-fantasy-tactics-a2-grimoire-of-the-rift-2007' }, { text: ' set in Ivalice. Initially released as ' }, { emText: 'Crystal Guardians' }, { text: '. Some platforms may have only partial content, or higher graphics under the name ' }, { emText: 'Crystal Defenders Plus' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mobile', 'Turn-based strategy', 'Tower defense', 'Terminated'],
+      tags: ['Optional', 'Spin-off', 'Mobile', 'Turn-based strategy', 'Tower defense'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -426,7 +428,8 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       [{ text: 'Tower defense game inspired by elements from ' }, { emLinkText: 'Tactics A2: Grimoire of the Rift (2007)', emLinkUrl: '#entry-XII-final-fantasy-tactics-a2-grimoire-of-the-rift-2007' }, { text: ' set in Ivalice, as a direct sequel to ' }, { emLinkText: 'Crystal Defenders (2008)', emLinkUrl: '#entry-XII-crystal-defenders-2008' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile', 'Turn-based strategy', 'Tower defense', 'Terminated'],
+      tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile', 'Turn-based strategy', 'Tower defense'],
+      terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

@@ -9,11 +9,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Also known as ' }, { emText: 'Version 1.0' }, { text: ', to distinguish it from ' }, { emText: 'A Realm Reborn' }, { text: "'s 2.0 relaunch." }],
     ],
     primary: {
-      mainline: true, tags: ['MMORPG', 'Monthly subscription', 'Terminated'],
-      tagParts: [
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Monthly subscription · Terminated' },
-      ],
+      mainline: true, tags: [{ abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'], terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN', voice: true },
@@ -47,12 +43,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'A campaign dubbed ' }, { emText: '"Return to Ivalice"' }, { text: ' ties into the ' }, { emText: 'Ivalice' }, { text: ' subseries, with characters based on those from ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: ' and ' }, { emLinkText: 'Tactics (1997)', emLinkUrl: '#entry-XII-final-fantasy-tactics-1997' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Sequel', 'MMORPG', 'Monthly subscription'],
-      tagParts: [
-        { text: 'Sequel · ' },
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Monthly subscription' },
-      ],
+      tags: ['Sequel', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN-GB', voice: true },
@@ -95,13 +86,8 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Travel to Ishgard a city-state mired in a 1000-year conflict with the dragons of the Dravanian Horde. Will you be able to reveal the ancient truths buried in Ishgard’s bloody history and help bring an end to the Dragonsong War?' }],
     ],
     primary: {
-      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
-      tagParts: [
-        { text: 'Expansion · ' },
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Monthly subscription' },
-      ],
       ratings: [
         { score: '86', url: 'https://www.metacritic.com/game/final-fantasy-xiv-heavensward/', key: 'metacritic' },
         { score: '8.0', url: 'https://www.metacritic.com/game/final-fantasy-xiv-heavensward/', key: 'metacritic-user' },
@@ -121,13 +107,8 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Lead rebellions in the imperial provinces of Ala Mhigo, an Eorzean city-state conquered twenty years ago, and Doma, a Far Eastern nation with a proud ninja tradition.' }],
     ],
     primary: {
-      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
-      tagParts: [
-        { text: 'Expansion · ' },
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Monthly subscription' },
-      ],
       ratings: [
         { score: '89', url: 'https://www.metacritic.com/game/final-fantasy-xiv-stormblood/', key: 'metacritic' },
         { score: '7.6', url: 'https://www.metacritic.com/game/final-fantasy-xiv-stormblood/', key: 'metacritic-user' },
@@ -147,13 +128,8 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Rescue and restore the First, a parallel dimension on the brink of collapse, opposed by Emet-Selch who seeks to harness the power of the calamity for his own ends.' }],
     ],
     primary: {
-      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
-      tagParts: [
-        { text: 'Expansion · ' },
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Monthly subscription' },
-      ],
       ratings: [
         { score: '91', url: 'https://www.metacritic.com/game/final-fantasy-xiv-shadowbringers/', key: 'metacritic' },
         { score: '9.0', url: 'https://www.metacritic.com/game/final-fantasy-xiv-shadowbringers/', key: 'metacritic-user' },
@@ -173,13 +149,8 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Travel the world, space, and time to stop the team of Garlean crown prince Zenos and rogue Ascian Fandaniel from successfully resuming the Final Days, an apocalyptic event that threatens all of existence.' }],
     ],
     primary: {
-      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
-      tagParts: [
-        { text: 'Expansion · ' },
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Monthly subscription' },
-      ],
       ratings: [
         { score: '92', url: 'https://www.metacritic.com/game/final-fantasy-xiv-endwalker/', key: 'metacritic' },
         { score: '8.9', url: 'https://www.metacritic.com/game/final-fantasy-xiv-endwalker/', key: 'metacritic-user' },
@@ -199,13 +170,8 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Explore Tural, a continent across the sea, to participate in a rite of succession to determine the next leader of Tuliyollal.' }],
     ],
     primary: {
-      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
-      tagParts: [
-        { text: 'Expansion · ' },
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Monthly subscription' },
-      ],
       ratings: [
         { score: '81', url: 'https://www.metacritic.com/game/final-fantasy-xiv-dawntrail/', key: 'metacritic' },
         { score: '5.2', url: 'https://www.metacritic.com/game/final-fantasy-xiv-dawntrail/', key: 'metacritic-user' },
@@ -225,13 +191,8 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Travel to a new dimension, the Fourth, a world covered in an icy permafrost where the inhabitants have fled to the sky to live on massive magical airships.' }],
     ],
     primary: {
-      tags: ['Expansion', 'MMORPG', 'Monthly subscription'],
+      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
-      tagParts: [
-        { text: 'Expansion · ' },
-        { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' },
-        { text: ' · Monthly subscription' },
-      ],
       ratings: [
         { key: 'tbd' },
       ],
