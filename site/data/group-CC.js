@@ -7,7 +7,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       'Help a caravan hailing from the village of Tipa as they harvest myrrh energy from magical trees to ward off deadly Miasma, and uncover the source of it all.',
     ],
     primary: {
-      tags: ['Action role-playing', 'Co-op'],
+      tags: ['Essential', 'Action RPG', 'Co-op'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)#Remastered_Edition', subtitleDate: 2020,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -74,7 +74,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       [{ text: 'A manga adaptation of ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル はてなき空の向こうに' }, { text: ', also known as ' }, { emText: '~Hatenaki Sora no Mukō ni~' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Manga'],
+      tags: ['Manga'],
       subtitle: 'Comic',
       length: '3 volumes',
       profileUrl: 'http://web.archive.org/web/20210411175537/https://www.ganganonline.com/contents/ffcc/',
@@ -102,7 +102,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       [{ text: 'Prequel novel set a little before ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: ", following Crim, a young caravaner from Tipa who is senior to the game's caravan, and telling episodes the game never covers. Released as " }, { emText: 'FINAL FANTASY CRYSTAL CHRONICLES 小さな村の年代記' }, { text: ' (Chiisana Mura no Nendaiki), also known as ' }, { emText: 'Chronicles of a Small Village' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Novel'],
+      tags: ['Prequel', 'Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '351p; P',
@@ -128,7 +128,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       [{ text: 'A 4-panel gag manga based on ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル4コママンガ劇場' }, { text: ', also known as ' }, { emText: 'Final Fantasy Crystal Chronicles: 4-Panel Manga Theater' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Manga'],
+      tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '112p; A5',
       helpWanted: true,
@@ -156,7 +156,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       [{ text: 'Due to the discontinuation of the WiiWare service it is recommend to watch a fan story recap or playthrough for story elements.' }],
     ],
     primary: {
-      tags: ['Sequel', 'City-building'],
+      tags: ['Essential', 'City-building'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -186,7 +186,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       [{ text: 'Due to the discontinuation of the WiiWare service it is recommend to watch a fan story recap or playthrough for story elements.' }],
     ],
     primary: {
-      tags: ['Sequel', 'Tower defense'],
+      tags: ['Essential', 'Tower defense'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -215,7 +215,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       [{ text: '1000 years after the events of ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: ', Layle, a bounty-hunting crystal bearer, is drawn into a conspiracy to seize an ancient, world-threatening power sealed within the crystals.' }],
     ],
     primary: {
-      tags: ['Sequel', 'Action-adventure', 'Co-op'],
+      tags: ['Essential', 'Action-adventure', 'Co-op'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -242,7 +242,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       [{ text: '8000 years before ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '; Yuri and Chelinka come into conflict with Galdes, leader of the Red Crystal-allied Lunites.' }],
     ],
     primary: {
-      tags: ['Prequel', 'Action role-playing', 'Co-op'],
+      tags: ['Essential', 'Action RPG', 'Co-op'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -271,7 +271,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       [{ text: 'Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 僕らの世界' }, { text: ' (Bokura no Sekai, literally "Our World").' }],
     ],
     primary: {
-      tags: ['Optional', 'Novel'],
+      tags: ['Novel'],
       subtitle: 'Book',
       length: '2 volumes',
       languages: [
@@ -298,7 +298,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       [{ text: 'A 4-panel gag manga anthology set in the world of ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 4コマアンソロジーコミック' }, { text: ', also known as ' }, { emText: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel~' }, { text: ', ' }, { emText: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~' }, { text: ' and ' }, { emText: 'Final Fantasy Crystal Chronicles Ring of Fates 4 Komaansoroji Komikku' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Manga'],
+      tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '2 volumes',
       languages: [
@@ -330,7 +330,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       [{ text: 'Takes place between ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: ' but before ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. You must receive your own crystal shard, embark on an adventure to save a friend, and confront scientist Larkeicus.' }],
     ],
     primary: {
-      tags: ['Prequel', 'Action rpg', 'Co-op'],
+      tags: ['Essential', 'Action RPG', 'Co-op'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

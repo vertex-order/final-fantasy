@@ -7,7 +7,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       'Ai and Yu Hayakawa, 12-year-old twins travel into Wonderland, a mysterious parallel dimension, in search of their missing parents. 25 episodes were released (of a planned 52), leaving the story unfinished.',
     ],
     primary: {
-      tags: ['Anime', '2D', '3D'],
+      tags: ['Essential', 'Anime', '2D', '3D'],
       subtitle: 'Anime',
       length: '25 episodes',
       languages: [
@@ -33,7 +33,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       [{ text: 'Game adaptation of the ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime for mobile phones as a turn-based RPG.' }],
     ],
     primary: {
-      tags: ['Optional', 'Adaptation', 'Turn-based RPG', 'Mobile'],
+      tags: ['Turn-based RPG', 'Mobile'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -53,7 +53,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       [{ text: 'Game adaptation of the ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime as a card battle game.' }],
     ],
     primary: {
-      tags: ['Optional', 'Adaptation', 'Adventure', 'Visual Novel game', 'Card battle'],
+      tags: ['Adventure', 'Visual Novel game', 'Card battle'],
       languages: [
         { value: 'JA', native: true },
       ],
@@ -72,7 +72,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       [{ text: 'Episodes were released monthly.' }],
     ],
     primary: {
-      tags: ['Optional', 'Audio drama', 'Serial'],
+      tags: ['Audio drama', 'Serial'],
       subtitle: 'Audio Drama',
       length: '10 episodes',
       helpWanted: true,
@@ -96,7 +96,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       [{ text: 'Covers a side story set somewhere before episode 12 of the ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime. Released as ' }, { emText: 'Final Fantasy: Unlimited Sō no Kizuna' }, { text: ' (双の絆, literally "Twin Bonds"), sometimes referred to as ' }, { emText: '~The Bonds of Two~' }, { text: ' and ' }, { emText: 'Double Bond' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Side-story', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       length: '242p; P',
       helpWanted: true,
@@ -123,7 +123,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       [{ text: 'Taking place after ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime, exploring the C2 Organization Lisa works for, and their goals and purposes. Originally published online, later collected into a single anthology comprised of a comic and a script. Released as ' }, { emText: 'Final Fantasy: Unlimited After – Gakai no Sho' }, { text: ' (外界の章, literally "Chapters of the Outside World").' }],
     ],
     primary: {
-      tags: ['Sequel', 'Manga', 'Script'],
+      tags: ['Essential', 'Sequel', 'Manga', 'Script'],
       subtitle: 'Comic',
       helpWanted: true,
       length: '32p comic, 120p script',
@@ -150,7 +150,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       [{ text: 'Takes place after the events of ' }, { emLinkText: 'Unlimited After (2002)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-after-2002' }, { text: ". It covers Makenshi's past and the events surrounding Ai and Yu's return to their home. A bonus side-story chapter " }, { emText: 'Final Fantasy: Unlimited After Zero' }, { text: ' about Makenshi and Madoushi. It was posted freely on the FF:U site.' }],
     ],
     primary: {
-      tags: ['Sequel', 'Side-story', 'Web Novel'],
+      tags: ['Essential', 'Sequel', 'Web Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '7 chapters',
@@ -173,7 +173,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       [{ text: 'Picks up where the anime ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' left off, as a followup to ' }, { emLinkText: 'Unlimited After (2002)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-after-2002' }, { text: ". Deals with Comodeen's final attack on Gaudium and brings a conclusion to the conflict between Lisa and Soljashy." }],
     ],
     primary: {
-      tags: ['Sequel', 'Audio drama'],
+      tags: ['Essential', 'Sequel', 'Audio drama'],
       subtitle: 'Audio Drama',
       helpWanted: true,
       length: '39:48',
@@ -196,7 +196,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       [{ text: "Covers the fate of Windaria and Misteria, and Kaze and Makenshi's first battle with Chaos." }],
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Side-story', 'Flashback', 'Drama'],
+      tags: ['Prequel', 'Drama'],
       subtitle: 'Audio Drama',
       helpWanted: true,
       length: '~18min',

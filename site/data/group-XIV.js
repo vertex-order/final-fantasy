@@ -9,7 +9,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Also known as ' }, { emText: 'Version 1.0' }, { text: ', to distinguish it from ' }, { emText: 'A Realm Reborn' }, { text: "'s 2.0 relaunch." }],
     ],
     primary: {
-      mainline: true, tags: [{ abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'], terminated: true,
+      tags: ['Mainline', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'], terminated: true,
       languages: [
         { value: 'JA', native: true },
         { value: 'EN', voice: true },
@@ -43,7 +43,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'A campaign dubbed ' }, { emText: '"Return to Ivalice"' }, { text: ' ties into the ' }, { emText: 'Ivalice' }, { text: ' subseries, with characters based on those from ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: ' and ' }, { emLinkText: 'Tactics (1997)', emLinkUrl: '#entry-XII-final-fantasy-tactics-1997' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Sequel', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
+      tags: ['Essential', 'Sequel', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN-GB', voice: true },
@@ -86,7 +86,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Travel to Ishgard a city-state mired in a 1000-year conflict with the dragons of the Dravanian Horde. Will you be able to reveal the ancient truths buried in Ishgard’s bloody history and help bring an end to the Dragonsong War?' }],
     ],
     primary: {
-      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
+      tags: ['Essential', 'Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
       ratings: [
         { score: '86', url: 'https://www.metacritic.com/game/final-fantasy-xiv-heavensward/', key: 'metacritic' },
@@ -107,7 +107,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Lead rebellions in the imperial provinces of Ala Mhigo, an Eorzean city-state conquered twenty years ago, and Doma, a Far Eastern nation with a proud ninja tradition.' }],
     ],
     primary: {
-      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
+      tags: ['Essential', 'Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
       ratings: [
         { score: '89', url: 'https://www.metacritic.com/game/final-fantasy-xiv-stormblood/', key: 'metacritic' },
@@ -128,7 +128,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Rescue and restore the First, a parallel dimension on the brink of collapse, opposed by Emet-Selch who seeks to harness the power of the calamity for his own ends.' }],
     ],
     primary: {
-      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
+      tags: ['Essential', 'Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
       ratings: [
         { score: '91', url: 'https://www.metacritic.com/game/final-fantasy-xiv-shadowbringers/', key: 'metacritic' },
@@ -149,7 +149,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Travel the world, space, and time to stop the team of Garlean crown prince Zenos and rogue Ascian Fandaniel from successfully resuming the Final Days, an apocalyptic event that threatens all of existence.' }],
     ],
     primary: {
-      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
+      tags: ['Essential', 'Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
       ratings: [
         { score: '92', url: 'https://www.metacritic.com/game/final-fantasy-xiv-endwalker/', key: 'metacritic' },
@@ -170,7 +170,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Explore Tural, a continent across the sea, to participate in a rite of succession to determine the next leader of Tuliyollal.' }],
     ],
     primary: {
-      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
+      tags: ['Essential', 'Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
       ratings: [
         { score: '81', url: 'https://www.metacritic.com/game/final-fantasy-xiv-dawntrail/', key: 'metacritic' },
@@ -191,7 +191,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Travel to a new dimension, the Fourth, a world covered in an icy permafrost where the inhabitants have fled to the sky to live on massive magical airships.' }],
     ],
     primary: {
-      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
+      tags: ['Essential', 'Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
       ratings: [
         { key: 'tbd' },
@@ -211,7 +211,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'An original story set in the world of ' }, { emLinkText: 'XIV ~1.0~ (2010)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-online-1-0-2010' }, { text: ". It begins with three adventures set in three different city-states of Eorzea, following the Age of Calm after the nations' alliance against the Garlean Empire." }],
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       profileUrl: 'https://www.kadokawa.co.jp/product/201010000382/',
       length: '296p; A6',
@@ -238,7 +238,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'Short stories set in the world of Final Fantasy XIV, generally featuring characters from the most recent expansion and publishing around The Rising anniversary events.' }],
     ],
     primary: {
-      tags: ['Optional', 'Short Stories', 'Web', 'Free', 'Ongoing'],
+      tags: ['Short Stories', 'Web', 'Free', 'Ongoing'],
       subtitle: 'Web',
       profileUrl: 'https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes',
       languages: [
@@ -290,7 +290,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'A modern-day high school comedy manga starring ' }, { emText: 'XIV' }, { text: ' characters. Alisaie attends Eorzea Academy, formed by the merger of rival schools the Academy of Light and the Academy of Darkness, where headmistress Tataru organizes school games to ease the ongoing tension between the two student bodies.' }],
     ],
     primary: {
-      tags: ['Optional', 'Alternate Universe', 'Manga'],
+      tags: ['Alternate Universe', 'Manga'],
       subtitle: 'Comic',
       profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646092352',
       length: '192p; P',
@@ -318,7 +318,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: "A gag manga in which the sole Lalafell-obsessed 'Lalafell-sensei' guides a green adventurer through Eorzea. Collected editions add the spin-off 'The Scholar and Eorzea'. Released in Japan as " }, { emText: 'Final Fantasy XIV: Lalafell-sensei no Oshiete Yaru yo!' }, { text: " (ファイナルファンタジーXIV ララフェル先生の教えてやるよ！, literally \"Lalafell-sensei Will Teach You!\")." }],
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Manga'],
+      tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F',
       length: '3 volumes',
@@ -345,7 +345,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       'A collection of four-panel (4-koma) comics for XIV. Released as ファイナルファンタジー14じゅうよんコマ (Juyon Koma, a pun on the four-panel format and the number 14).',
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Manga'],
+      tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       profileUrl: 'https://store.kadokawa.co.jp/shop/g/g321910001212/',
       length: '127p',
@@ -373,7 +373,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       "A play-diary-style adventure serial following its hot-blooded player character Ganbarund through the wastelands, dungeons, and monster dens of Eorzea in A Realm Reborn. Published on Famitsu.com as FF14 新生エオルゼア冒険記.",
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Play diary', 'Web', 'Free'],
+      tags: ['Tie-in', 'Play diary', 'Web', 'Free'],
       subtitle: 'Web',
       profileUrl: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651',
       length: [{ value: '40 episodes,', br: true }, { value: '5 specials' }],
@@ -418,7 +418,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'When their river starts running dry, the catfish-like Namazu set out on a quest to make it rain, needing to find a "thing that no one has ever seen." Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-xiv-picture-book-the-namazu-and-the-greatest-gift-2021' }, { text: ' series.' }],
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Picture Book'],
+      tags: ['Tie-in', 'Picture Book'],
       subtitle: 'Book',
       profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646091447',
       length: '24p',
@@ -444,7 +444,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'A child stumbles upon a strange, corn-like creature that no adult can see, and after a curious poke sends its head flying off, an adventure with the Cornservant begins. Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-xiv-picture-book-me-and-the-cornservant-2025' }, { text: ' series.' }],
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Picture Book'],
+      tags: ['Tie-in', 'Picture Book'],
       subtitle: 'Book',
       profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9798899100833',
       length: '24p',
@@ -471,7 +471,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       'A group of heroes, champions of Eorzea, are transported away moments before facing certain death against Bahamut, and must find their way home through a strange new world entwined with crystals, old evils, and steadfast allies.',
     ],
     primary: {
-      tags: ['Unofficial fan project', '2D', 'Sprites', 'RPG', 'Alternate Universe', 'Free'],
+      tags: ['Fan-made', '2D', 'Sprites', 'RPG', 'Free'],
       languages: [
         { value: 'EN', native: true },
       ],
@@ -492,7 +492,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'With premium plan; Organize Chocobo Saddlebags and Retainer Inventories, Saddlebag capacity is doubled, one additional Retainer can be employed.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mobile', 'Companion', 'Premium features'],
+      tags: ['Mobile', 'Tie-in', 'Premium features'],
       subtitle: 'App',
       languages: [
         { value: 'JA', native: true },

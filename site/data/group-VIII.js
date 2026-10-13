@@ -7,7 +7,7 @@ window.__ffGroupReg['VIII'] = { num: 'VIII', chronoOrder: 800, narrativeOrder: 8
       'Squall leads a group of mercenaries as they are drawn into a conflict with Edea who seized control of a powerful military state.',
     ],
     primary: {
-      mainline: true, tags: ['3D', 'RPG', 'Single-player'],
+      tags: ['Mainline', '3D', 'RPG', 'Single-player'],
       subtitle: 'Remastered', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Final_Fantasy_VIII_Remastered', subtitleDate: 2019,
       languages: [
         { value: 'JA', native: true },

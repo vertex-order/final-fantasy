@@ -8,7 +8,7 @@ window.__ffGroupReg['AN'] = { num: 'AN', chronoOrder: 1515, narrativeOrder: 1740
       'It does not have a deep story and is more of a mashup, so there is no story recap to view.',
     ],
     primary: {
-      tags: ['CCG', 'Mobile', 'Multiplayer'],
+      tags: ['Essential', 'CCG', 'Mobile', 'Multiplayer'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -28,7 +28,7 @@ window.__ffGroupReg['AN'] = { num: 'AN', chronoOrder: 1515, narrativeOrder: 1740
       'It does not have a deep story and is more of a mashup, so there is no story recap to view.',
     ],
     primary: {
-      tags: ['Sequel', 'Dungeon crawl', 'Mobile', 'Multiplayer', 'Gacha'],
+      tags: ['Essential', 'Dungeon crawl', 'Mobile', 'Multiplayer', 'Gacha'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },

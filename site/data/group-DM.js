@@ -8,7 +8,7 @@ window.__ffGroupReg['DM'] = { num: 'DM', chronoOrder: 1450, narrativeOrder: 1450
       [{ text: 'Originally released episodically in chapters, and using the title ' }, { emText: 'Final Fantasy Legends: Warriors of Light and Darkness' }, { text: ' in Japan, but unrelated to ' }, { emText: 'The Final Fantasy Legend (1989)' }, { text: ' from the SaGa series.' }],
     ],
     primary: {
-      tags: ['2D', 'RPG', 'Jobs', 'Active Time Battle', 'Single-player'],
+      tags: ['Essential', '2D', 'RPG', 'Jobs', 'Active Time Battle', 'Single-player'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -40,7 +40,7 @@ window.__ffGroupReg['DM'] = { num: 'DM', chronoOrder: 1450, narrativeOrder: 1450
       [{ text: 'Originally released as ' }, { emText: 'Final Fantasy Legends: Crystal of Space-Time' }, { text: ' and ' }, { emText: 'Final Fantasy Legends II' }, { text: ' in Japan, but unrelated to ' }, { emText: 'The Final Fantasy Legend (1989)' }, { text: ' from the SaGa series.' }],
     ],
     primary: {
-      tags: ['2D', 'RPG', 'Conditional Turn-Based Battle'],
+      tags: ['Essential', '2D', 'RPG', 'Conditional Turn-Based Battle'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

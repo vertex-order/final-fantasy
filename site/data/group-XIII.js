@@ -7,7 +7,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       'The government of the floating world of Cocoon orders a purge of civilians who have supposedly come into contact with Pulse, the much-feared world below. The former soldier Lightning begins her fight against the government in order to save her sister who has been branded as an unwilling servant to a god-like being from Pulse, making her an enemy of Cocoon.',
     ],
     primary: {
-      mainline: true, tags: ['RPG', 'Paradigm Shift battle'],
+      tags: ['Mainline', 'RPG', 'Paradigm Shift battle'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise', subtitleDate: 2014,
       languages: [
         { value: 'JA', tip: 'Japanese — audio only', native: true, voice: true },
@@ -84,7 +84,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       [{ text: "Released as " }, { emText: 'ファイナルファンタジーXIII 外伝小説 夢見る繭、暁に墜つ' }, { text: ' (' }, { emText: 'Final Fantasy XIII Gaiden Shōsetsu: Yumemiru Mayu, Akatsuki ni Otsu' }, { text: '), also known as ' }, { emText: 'Final Fantasy XIII Side Story: A Dreaming Cocoon Falls into the Dawn' }, { text: '. Contained in the ' }, { emText: 'Final Fantasy XIII Ultimania Omega' }, { text: ' book.' }],
     ],
     primary: {
-      tags: ['Optional', 'Side-story', 'Novella'],
+      tags: ['Novella'],
       subtitle: 'Book',
       length: '6 chapters',
       languages: [
@@ -116,7 +116,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       [{ text: 'The first chapter is the novella ' }, { emLinkText: 'Final Fantasy XIII -Episode i-', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_-Episode_i-' }, { text: ' which acts as an epilogue to ' }, { emLinkText: 'XIII (2009)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2009' }, { text: '. The rest of the book is meant to cover the events before ' }, { emLinkText: 'XIII-2 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2-2011' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'Short Stories'],
+      tags: ['Sequel', 'Short Stories'],
       subtitle: 'Book',
       length: '184p; P',
       languages: [
@@ -145,7 +145,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       [{ text: 'Lightning, the protagonist of ' }, { emLinkText: 'XIII (2009)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2009' }, { text: ', has disappeared into an unknown world. Her younger sister Serah and Noel  journey through time in an attempt to find her.' }],
     ],
     primary: {
-      tags: ['Sequel', 'RPG', 'Paradigm Shift battle'],
+      tags: ['Essential', 'Sequel', 'RPG', 'Paradigm Shift battle'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2', subtitleDate: 2021,
       languages: [
         { value: 'JA', tip: 'Japanese — audio only', native: true, voice: true },
@@ -220,7 +220,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       [{ text: 'Several stories mainly meant to cover loose ends within the plot of ' }, { emLinkText: 'XIII-2 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2-2011' }, { text: ', and highlight the mysteries yet to be resolved.' }],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'Short Stories'],
+      tags: ['Sequel', 'Short Stories'],
       subtitle: 'Book',
       length: '146p; P',
       languages: [
@@ -249,7 +249,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       [{ text: 'Sometimes also known as ' }, { emText: 'Final Fantasy XIII-3' }, { text: '. After finishing the game, you can optionally chose to read the Novella ' }, { emLinkText: 'XIII: Reminiscence -tracer of memories- (2014)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-reminiscence-tracer-of-memories-2014' }, { text: ' (listed separately) before watching the final epilogue ' }, { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Sequel', 'Action RPG', 'Style-Change Active Time Battle'],
+      tags: ['Essential', 'Sequel', 'Action RPG', 'Style-Change Active Time Battle'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#Versions_and_merchandise', subtitleDate: 2021,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -327,7 +327,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       [{ text: 'Web novella set after the events of ' }, { emLinkText: 'Lightning Returns: XIII (2013)', emLinkUrl: '#entry-XIII-lightning-returns-final-fantasy-xiii-2013' }, { text: ' but before the epilogue ' }, { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, { text: '. It takes the form of interviews with the characters conducted by Aoede, and is narrated in first person from her point of view.' }],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'Character interviews', 'Web Novella', 'Free'],
+      tags: ['Sequel', 'Character interviews', 'Web Novella', 'Free'],
       subtitle: 'Web',
       length: '10 episodes',
       languages: [
@@ -355,7 +355,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       ['Series of novellas depicting the thirteen days leading up to the events of ', { emLinkText: 'XIII (2009)', emLinkUrl: '#entry-XIII-final-fantasy-xiii-2009' }, '.', 'Only three of its seven parts were serialized online, and those posts have since been taken down; the rest appear only in the book.'],
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Novellas'],
+      tags: ['Prequel', 'Novellas'],
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/7913673-final-fantasy-xiii' },
@@ -382,7 +382,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
     },
     alts: [
       {
-        tags: ['Optional', 'Audio drama'],
+        tags: ['Audio drama'],
         title: 'Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD', titleDate: { start: '2010-09-15', end: '2010-11-17' },
         subtitle: 'Audio Drama',
         length: '2 volumes',
@@ -410,7 +410,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       [{ text: 'Class Zero, a group of fourteen students from the Dominion of Rubrum must fight the neighboring Militesi Empire when they launch an assault on the other Crystal States of Orience. The group become entangled in both the efforts to push back and defeat the forces of Militesi, and the secret behind the war and the existence of the crystals.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Action RPG', 'Alternate Universe'],
+      tags: ['Spin-off', 'Action RPG'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Type-0_HD', subtitleDate: 2015,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -471,7 +471,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       [{ text: 'A manga adaptation of ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ", following the story of the game while adding new characters and situations. Class Zero, led by Ace, defends Peristylium Suzaku from the invading Militesi Empire and its Magitek Armor pilot Qun'mi Tru'e. Bundled with the " }, { emText: "Final Fantasy Type-0 HD Collector's Edition" }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Manga', 'Alternate Universe'],
+      tags: ['Manga', 'Alternate Universe'],
       subtitle: 'Comic',
       profileUrl: 'https://yenpress.com/series/final-fantasy-type-0',
       languages: [
@@ -502,7 +502,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       [{ text: 'May also be known as ' }, { emText: 'Final Fantasy Type-0 Side Story: The Ice Reaper' }, { text: ', or ' }, { emText: 'Final Fantasy Type-0 Side Story: The Reaper of the Icy Blade' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Manga'],
+      tags: ['Prequel', 'Manga'],
       subtitle: 'Comic',
       profileUrl: 'https://yenpress.com/series/final-fantasy-type-0-side-story',
       length: '5 volumes',
@@ -538,7 +538,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       [{ text: 'Also known as ' }, { emText: 'Final Fantasy Type-0 ~The Last Truth~' }, { text: ', the title of its French omnibus edition collecting both volumes.' }],
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Novel'],
+      tags: ['Prequel', 'Novel'],
       subtitle: 'Book',
       profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/search?s=27&q=Change+the+World',
       length: '2 volumes',
@@ -572,7 +572,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       [{ text: 'It was never released outside of Japan.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'RPG', 'Multiplayer', 'Alternate Universe'],
+      tags: ['Spin-off', 'RPG', 'Multiplayer'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -594,7 +594,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       [{ text: 'Focuses on the characters of Nine and Rubrum cadet Naghi Minatsuchi in continuity with ' }, { emLinkText: 'Agito (2014)', emLinkUrl: '#entry-XIII-final-fantasy-agito-2014' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Novel'],
+      tags: ['Novel'],
       subtitle: 'Book',
       profileUrl: 'https://magazine.jp.square-enix.com/top/comics/detail/9784757546042/',
       length: '286p; P',
@@ -621,7 +621,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       [{ text: 'Set in the ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ' alternate universe, you play as a cadet of the Dominion of Rubrum as the four nations of Orience are plunged into war.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'RPG', 'Multiplayer', 'Alternate Universe'],
+      tags: ['Spin-off', 'RPG', 'Multiplayer'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },

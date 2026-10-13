@@ -7,7 +7,7 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, narrativeOrder: 950, 
       'In 2065, Earth is infested by alien life forms known as Phantoms which kill when touched. The surviving humans are engaged in an ongoing struggle to free the planet.',
     ],
     primary: {
-      tags: ['Movie'],
+      tags: ['Essential', 'Movie'],
       subtitle: 'Movie',
       languages: [
         { value: 'EN', native: true, voice: true },
@@ -48,7 +48,7 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, narrativeOrder: 950, 
       [{ text: 'Novelization of ' }, { emLinkText: 'The Spirits Within (2001)', emLinkUrl: '#entry-SW-final-fantasy-the-spirits-within-2001' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Novel'],
+      tags: ['Novel'],
       subtitle: 'Book',
       helpWanted: true,
       languages: [

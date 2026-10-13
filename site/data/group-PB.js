@@ -7,7 +7,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, narrativeOrder: 1750
       [{ text: 'Vivi is a mysterious boy fished out of the ocean by Grandpa Quan, a gourmand trying to master the art of food. Once Grandpa Quan realizes Vivi is not food, he raises Vivi and teaches him about the world. Entry also found in our ' }, { emLinkText: 'IX', emLinkUrl: '#entry-IX-final-fantasy-ix-picture-book-vivi-and-grandpas-memories-for-the-sky-2025' }, { text: ' series.' }],
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Picture Book'],
+      tags: ['Tie-in', 'Picture Book'],
       subtitle: 'Book',
       profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646094738',
       length: '48p',
@@ -33,7 +33,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, narrativeOrder: 1750
       'Cid and Chocobo build an airship to save their town from monsters, setting off to find a magic Flying Stone to make it fly, joined by a group of adventurers along the way.',
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Picture Book'],
+      tags: ['Tie-in', 'Picture Book'],
       subtitle: 'Book',
       profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646092031',
       length: '40p',
@@ -60,7 +60,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, narrativeOrder: 1750
       [{ text: 'When their river starts running dry, the catfish-like Namazu set out on a quest to make it rain, needing to find a "thing that no one has ever seen." Entry also found in our ' }, { emLinkText: 'XIV', emLinkUrl: '#entry-XIV-final-fantasy-xiv-picture-book-the-namazu-and-the-greatest-gift-2021' }, { text: ' series.' }],
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Picture Book'],
+      tags: ['Tie-in', 'Picture Book'],
       subtitle: 'Book',
       profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646091447',
       length: '24p',
@@ -86,7 +86,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, narrativeOrder: 1750
       [{ text: 'A child stumbles upon a strange, corn-like creature that no adult can see, and after a curious poke sends its head flying off, an adventure with the Cornservant begins. Entry also found in our ' }, { emLinkText: 'XIV', emLinkUrl: '#entry-XIV-final-fantasy-xiv-picture-book-me-and-the-cornservant-2025' }, { text: ' series.' }],
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Picture Book'],
+      tags: ['Tie-in', 'Picture Book'],
       subtitle: 'Book',
       profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9798899100833',
       length: '24p',

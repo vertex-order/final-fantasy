@@ -9,7 +9,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       'Warriors Jack, Ash and Jed venture forth to defeat Chaos and save their world. But not all is as it seems. Some areas deliberately draw inspiration from other titles. Online co-op play may require an additional subscription on some platforms.',
     ],
     primary: {
-      tags: ['Prequel', 'Optional', 'Alternate Universe', 'Jobs', 'Co-op'],
+      tags: ['Prequel', 'Alternate Universe', 'Jobs', 'Co-op'],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN', voice: true },
@@ -59,7 +59,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       [{ text: 'Immediately follows ' }, { emLinkText: 'Stranger of Paradise: Final Fantasy Origin (2022)', emLinkUrl: '#entry-I-stranger-of-paradise-final-fantasy-origin-2022' }, { text: '. The warriors of light meet the Dragon King Bahamut.' }],
     ],
     primary: {
-      tags: ['DLC', 'Optional'],
+      tags: ['DLC'],
       subtitle: 'DLC',
       profileUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin',
       platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin',
@@ -93,7 +93,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       [{ text: 'Follows ' }, { emLinkText: 'Trials of the Dragon King (2022)', emLinkUrl: '#entry-I-stranger-of-paradise-trials-of-the-dragon-king-2022' }, { text: ' as Jack investigates an incursion into their world.' }],
     ],
     primary: {
-      tags: ['DLC', 'Optional'],
+      tags: ['DLC'],
       subtitle: 'DLC',
       profileUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin',
       platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin',
@@ -121,7 +121,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       [{ text: 'Follows ' }, { emLinkText: 'Wanderer of the Rift (2022)', emLinkUrl: '#entry-I-stranger-of-paradise-wanderer-of-the-rift-2022' }, { text: ', Jack must put an end to the machinations of the Lufenian Nil, who threatens their reality.' }],
     ],
     primary: {
-      tags: ['DLC', 'Optional'],
+      tags: ['DLC'],
       subtitle: 'DLC',
       profileUrl: 'https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin',
       platformsUrl: 'https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin',
@@ -149,7 +149,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       'Four Warriors of Light depart on a quest to restore light to the crystals, defeat Chaos, and save their world. The first Final Fantasy game ever created.',
     ],
     primary: {
-      mainline: true, tags: [],
+      tags: ['Mainline'],
       subtitle: 'Pixel Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitleDate: 2021,
       languages: [
         { value: 'JA', native: true },
@@ -196,7 +196,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       ],
       versions: [
         {
-          tags: ['Unofficial fan project', 'Free'],
+          tags: ['Fan-made', 'Free'],
           subtitle: 'Fan Remake', subtitleUrl: 'https://www.rengames.us/ffr', subtitleDate: 2024,
           languages: [
             { value: 'EN' },
@@ -356,7 +356,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       [{ text: 'Adaptation of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ' with many story changes, enough that it could be considered an alternate universe retelling: the Warriors of Light are Puffy, monk Flitz, witch Matoya, and Bahamut, joined by a princess and a pirate, guided by the robot DB-6 on behalf of the Lufenians, opposing the rogue knight Garland. Released as ' }, { emText: 'Final Fantasy' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Alternate Universe', 'Manga'],
+      tags: ['Alternate Universe', 'Manga'],
       subtitle: 'Comic',
       helpWanted: true,
       languages: [
@@ -382,7 +382,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       [{ text: 'Short story adaptation of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: '. The book also contains short story adaptations of ' }, { emLinkText: 'Final Fantasy II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ' and ' }, { emLinkText: 'Final Fantasy III (1990)', emLinkUrl: '#entry-III-final-fantasy-iii-1990' }, { text: '. Also known as ' }, { emText: 'Final Fantasy ~Memory of Heroes~' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Short Stories'],
+      tags: ['Short Stories'],
       subtitle: 'Book',
       profileUrl: 'https://web.archive.org/web/20160304093601/http://www.square-enix.co.jp/magazine/gamebooks/ff/ff123_novel_moh/',
       languages: [
@@ -417,7 +417,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       [{ text: 'A fan-made affectionate parody of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ", follows the four Light Warriors (who really aren't the best for the job): Fighter McWarrior, an astoundingly stupid sword-obsessed warrior; Black Mage Evilwizardington, an Ax-Crazy homicidal sociopath who is only held back by the Rule of Funny and a tendency to get hurt; Thief, a fugitive prince of elf clan Khee'bler armed with extreme greed and an expertise in manipulative contracts; and Red Mage Statscowski, a so-called strategist who considers life to be a tabletop game, is obsessed with his stats, and was tricked into liking cross dressing. Entry also found in our " }, { emLinkText: 'Fan Projects', emLinkUrl: '#group-FAN' }, { text: ' series.' }],
     ],
     primary: {
-      tags: ['Optional', 'Unofficial fan project', 'Alternate Universe', 'Webcomic', 'Free'],
+      tags: ['Fan-made', 'Webcomic', 'Free'],
       subtitle: 'Comic',
       languages: [
         { value: 'EN', native: true, textOnly: true },

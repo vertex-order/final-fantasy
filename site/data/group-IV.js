@@ -9,7 +9,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
       'The dark knight Cecil tries to prevent sorcerer Golbez from seizing powerful crystals and destroying the world.',
     ],
     primary: {
-      mainline: true, tags: ['Active time battles'],
+      tags: ['Mainline', 'Active Time Battle'],
       subtitle: 'Pixel Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitleDate: 2021,
       languages: [
         { value: 'JA', native: true },
@@ -237,7 +237,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
       ],
     ],
     primary: {
-      tags: ['Optional', 'Novel'],
+      tags: ['Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: [{ value: '2 volumes' }],
@@ -285,7 +285,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
       'Due to generally unfavorable reviews and short length, it is recommended to experience it as a fan story recap video.',
     ],
     primary: {
-      tags: ['Optional', 'Sequel'],
+      tags: ['Sequel'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -315,7 +315,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
       ['Episodic tales following the cast of ', { emLinkText: 'IV (1991)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991' }, ' 17 years later. Roughly compiled together from episodic phone games into a single disjointed title as ', { emText: 'The After Years' }, '.'],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'Episodic', 'Active time battles'],
+      tags: ['Sequel', 'Episodic', 'Active Time Battle'],
       subtitle: 'Remaster', subtitleDate: 2011,
       languages: [
         { value: 'JA', native: true },
@@ -406,7 +406,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
       ],
     ],
     primary: {
-      tags: ['Optional', 'Novel'],
+      tags: ['Novel'],
       subtitle: 'Book',
       helpWanted: true,
       languages: [

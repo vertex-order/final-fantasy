@@ -8,7 +8,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'Confusingly released as ' }, { emText: 'Mystic Quest (1993)' }, { text: ' in Europe, not to be confused with ' }, { emLinkText: 'Final Fantasy Mystic Quest (1992)', emLinkUrl: '#entry-MQ-final-fantasy-mystic-quest-1992' }, { text: '. It spawned its own series which no longer contains Final Fantasy elements, ' }, { emLinkText: 'Mana', emLinkUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure' }, { text: ', whose sequel is the well known ' }, { emText: 'Secret of Mana (1993)' }, { text: '. It has multiple remakes, but they remove the Final Fantasy elements from the game.' }],
     ],
     primary: {
-      tags: ['Action RPG', 'Single-player'],
+      tags: ['Essential', 'Action RPG', 'Single-player'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -31,7 +31,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'Four youths journey around their world to free their home from a terrible curse. A sequel morphed into the unrelated ' }, { emText: 'Bravely Default (2012)' }, { text: ' game and franchise.' }],
     ],
     primary: {
-      tags: ['Turn-based RPG', 'Jobs', 'Single-player', 'Multiplayer', 'Co-op'],
+      tags: ['Essential', 'Turn-based RPG', 'Jobs', 'Single-player', 'Multiplayer', 'Co-op'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -58,7 +58,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'The players could control Warrior of Light (Wol), a man who wakes with amnesia in the world of Palamecia, and must help conquer the dark forces attacking its people.' }],
     ],
     primary: {
-      tags: ['Turn-based RPG', 'Jobs', 'Single-player', 'Mobile', 'Free-to-play'],
+      tags: ['Essential', 'Turn-based RPG', 'Jobs', 'Single-player', 'Mobile', 'Free-to-play'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -86,10 +86,10 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: 'Final Fantasy Record Keeper', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Record_Keeper', titleDate: '2014-09-24',
     mediaDesc: [
       [{ text: 'Tyro is a researcher who works in the history department for Dr. Mog. Being his best student, Dr. Mog shares his magic so that Tyro can enter paintings and see memories of different worlds, which are previous Final Fantasy titles.' }],
-      [{ text: 'Incorporates original elements with existing series and titles. Can be considered a bit of an alternate universe mashup spin-off. Only the Japan region is still playable, other regions are terminated.' }],
+      [{ text: 'Incorporates original elements with existing series and titles. Only the Japan region is still playable, other regions are terminated.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', '2D sprites', 'RPG', 'Active Time Battles', 'Single-player', 'Multiplayer', 'Mobile', 'Free-to-play', 'Gacha'],
+      tags: ['Mashup', '2D', 'Sprites', 'RPG', 'Active Time Battle', 'Single-player', 'Multiplayer', 'Mobile', 'Free-to-play', 'Gacha'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN', tip: 'English (content up to 2022-09)' },
@@ -119,7 +119,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       'A manga following Square Enix employee Shogo Sasaki, a lifelong Final Fantasy fan, who is killed in a truck accident along with his sister Yuko and reborn into a Final Fantasy-style world unbound to any particular installment. Ongoing.',
     ],
     primary: {
-      tags: ['Optional', 'Alternate Universe', 'Manga'],
+      tags: ['Alternate Universe', 'Manga'],
       subtitle: 'Comic',
       profileUrl: 'https://yenpress.com/series/final-fantasy-lost-stranger',
       languages: [
@@ -155,7 +155,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: "Over 21 titles in this series provide casual fun centered around a recurring cast of characters and all relating to Final Fantasy's Chocobo mounts. The games span different genres, and some entries are a bit too simplistic to deserve their own entries, as a whole the series may be worth checking out." }],
     ],
     primary: {
-      tags: ['Optional', 'Casual'],
+      tags: ['Casual'],
       platforms: [
         { key: 'playstation4' },
         { key: 'playstation1', paren: 'Physical' },
@@ -182,7 +182,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'A separate franchise in its own right, spanning games, manga, and novels. Six or more of its games prominently feature ' }, { emText: 'Final Fantasy' }, { text: ' characters, worlds, and music, alongside several related books and comics. We maintain a dedicated, fully documented vertex order for the whole series at the link above.' }],
     ],
     primary: {
-      tags: ['Optional', 'Crossover series'],
+      tags: ['Mashup'],
       noCheckbox: true,
     },
   },
@@ -193,7 +193,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: "The game centered on battles between the player's army and enemy monsters or computer-controlled players. The characters in the army were generated using the sounds of the player's own voice, and then engaged in side-scrolling combat with the enemy. Combat was completely automated with the player only controlling character creation." }],
     ],
     primary: {
-      tags: ['Optional', 'Voice-controlled RPG', 'Jobs', 'Single-player', 'Mobile'],
+      tags: ['Voice-controlled RPG', 'Jobs', 'Single-player', 'Mobile'],
       terminated: true,
       ratings: [
         { score: '46', url: 'https://www.metacritic.com/game/voice-fantasy/', key: 'metacritic' },
@@ -209,10 +209,10 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: 'Final Fantasy Airborne Brigade', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Airborne_Brigade', titleDate: '2012-01-06',
     mediaDesc: [
       'Long ago, the country was protected by two crystals. However, one was broken and scattered throughout the world following a monster invasion. The other lost its glow. Only the ancient summon beasts can return the crystals to their original shine, and the player must travel the world by air ship and defeat the summon beasts.',
-      'Incorporates original elements with existing series and titles. Can be considered a bit of an alternate universe mashup spin-off.',
+      'Incorporates original elements with existing series and titles.',
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Social RPG', 'Jobs', 'Multiplayer', 'Co-op', 'Mobile'],
+      tags: ['Mashup', 'Social RPG', 'Jobs', 'Multiplayer', 'Co-op', 'Mobile'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -237,10 +237,10 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: 'Final Fantasy All the Bravest', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_All_the_Bravest', titleDate: '2013-01-17',
     mediaDesc: [
       'Players\' characters could traverse an overhead map between battles. After a series of battles, players could confront a boss enemy. There was no story elements. Self-described as an "app" not a game.',
-      'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off.',
+      'Incorporates existing series and titles.',
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', 'RPG', 'Jobs', 'Active Time Battle', 'Mobile', 'Free-to-play', 'In-app purchases', 'Single-player'],
+      tags: ['Mashup', 'RPG', 'Jobs', 'Active Time Battle', 'Mobile', 'Free-to-play', 'In-app purchases', 'Single-player'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -267,7 +267,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'Mixes RPG elements with dot logic puzzles. The player controls a party of four, plus one optional friend, as they battle their way through waves of enemies while solving puzzles. The 3DS version had a few extra features.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Dot logic puzzle', 'RPG', 'Single-player', 'Multiplayer', 'Co-op'],
+      tags: ['Mashup', 'Dot logic puzzle', 'RPG', 'Single-player', 'Multiplayer', 'Co-op'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -289,10 +289,10 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: 'Final Fantasy: World Wide Words', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_World_Wide_Words', titleDate: '2014-09-16',
     mediaDesc: [
       [{ text: 'Players fight several rounds of enemies. Attacks are initiated by typing the words that pop out next to each of the enemies. Words that appear include Final Fantasy-themed ones.' }],
-      [{ text: 'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off.' }],
+      [{ text: 'Incorporates existing series and titles.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Typing RPG', 'Mobile', 'Free-to-play', 'Multiplayer'],
+      tags: ['Mashup', 'Typing RPG', 'Mobile', 'Free-to-play', 'Multiplayer'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -309,10 +309,10 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: 'Heavenstrike Rivals', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Heavenstrike_Rivals', titleDate: '2014-11-14',
     mediaDesc: [
       [{ text: 'The player was recruited as the commander of a battalion of units commissioned to do battle against Fallen demons. There is a story and PvP mode.' }],
-      [{ text: 'Incorporates original elements with existing series and titles, including other franchises altogether. Can be considered a bit of an alternate universe mashup spin-off.' }],
+      [{ text: 'Incorporates original elements with existing series and titles, including other franchises altogether.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Social Tactical RPG'],
+      tags: ['Mashup', 'Social Tactical RPG'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -339,10 +339,10 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: 'Final Fantasy Portal App: Triple Triad', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Triple_Triad_(Portal_App)', titleDate: '2015-04-01',
     mediaDesc: [
       [{ text: 'An updated version of the recurring minigame Triple Triad first introduced in ' }, { emLinkText: 'VIII (1999)', emLinkUrl: '#entry-VIII-final-fantasy-viii-1999' }, { text: ', with rules from the ' }, { emText: 'XIV (2010)' }, { text: ' version, with cards from many Final Fantasy games. Its bare story loosely tied it to the ' }, { emText: 'Dissidia' }, { text: ' series (2008).' }],
-      [{ text: 'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off.' }],
+      [{ text: 'Incorporates existing series and titles.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Card game', 'Mobile'],
+      tags: ['Mashup', 'Card game', 'Mobile'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -365,10 +365,10 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: 'Final Fantasy Digital Card Game', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Digital_Card_Game', titleDate: '2019-07-09',
     mediaDesc: [
       [{ text: 'Players deployed various characters and creatures from the Final Fantasy series in a board to compete with one another.' }],
-      [{ text: 'Incorporates existing series and titles. Can be considered a bit of an alternate universe mashup spin-off.' }],
+      [{ text: 'Incorporates existing series and titles.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mashup', 'Alternate Universe', 'Card game', 'Free-to-play', 'In-app purchases', 'Multiplayer'],
+      tags: ['Mashup', 'Card game', 'Free-to-play', 'In-app purchases', 'Multiplayer'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -388,7 +388,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: 'Originally created for the ' }, { emLinkText: 'SaGa', emLinkUrl: 'https://wikipedia.org/wiki/SaGa' }, { text: ' series of games in Japan, three were initially re-released outside Japan as ' }, { emText: 'The Final Fantasy Legend' }, { text: ' for marketing reasons, despite not incorporating any elements found in Final Fantasy games. Later releases dropped the Final Fantasy title branding and used ' }, { emLinkText: 'SaGa', emLinkUrl: 'https://wikipedia.org/wiki/SaGa' }, { text: ' instead. Not to be confused with ' }, { emText: 'Final Fantasy Legends (2010)' }, { text: ' later renamed ' }, { emText: 'Final Fantasy Dimensions' }, { text: '.' }],
     ],
     primary: {
-      tags: [],
+      tags: ['Essential'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN-US', tip: 'English (American)' },

@@ -7,7 +7,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
       [{ text: 'Tidus, the star athlete in the fiction sport of blitzball, and the summoner Yuna, embark on a quest to vanquish the city-destroying Sin.' }],
     ],
     primary: {
-      mainline: true, tags: ['Conditional Turn-Based Battle', 'Sphere Grid leveling'],
+      tags: ['Mainline', 'Conditional Turn-Based Battle', 'Sphere Grid'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster', subtitleDate: 2016,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -120,7 +120,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
       [{ text: "Video that bridges Yuna's storyline between " }, { emLinkText: 'X (2001)', emLinkUrl: '#entry-X-final-fantasy-x-2001' }, { text: ' and ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: '. Sometimes called ' }, { emText: 'X-2: Prologue' }, { text: '. Included in all releases since 2002 that include ' }, { emLinkText: 'X (2001)', emLinkUrl: '#entry-X-final-fantasy-x-2001' }, { text: '. May be in 4k.' }],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'Video'],
+      tags: ['Sequel', 'Video'],
       subtitle: 'Remaster (2016) Video', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X#HD_Remaster',
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -200,7 +200,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
       [{ text: 'Two years after ' }, { emLinkText: 'X (2001)', emLinkUrl: '#entry-X-final-fantasy-x-2001' }, { text: ', Yuna, separated, searches for Tidus while trying to keep political conflicts from escalating to war. Not to be confused with ' }, { emLinkText: 'Final Fantasy XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Sequel', 'Active Time Battle', 'Sphere Grids'],
+      tags: ['Essential', 'Sequel', 'Active Time Battle', 'Sphere Grid'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitleDate: 2016,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -305,7 +305,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
       [{ text: 'Taking place six months after ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: ', play through a bonus mission as a member of YRP as you navigate through Iutycyr Tower with roguelike gameplay. Not integrated into the main ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: ' game but played separately.' }],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'Bonus mission', 'Roguelike'],
+      tags: ['Sequel', 'Bonus mission', 'Roguelike'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_X-2#Release', subtitleDate: 2016,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -381,7 +381,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
       [{ text: 'Starts off directly after ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: ' ends and focuses on Yuna, Tidus, and 1000 year time travel. This results in sequel characters exploring prequel 1000 year old story, making it hard to place chronologically. Released as ' }, { emText: 'Final Fantasy X-2.5 ~Price of Eternity~' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'Novel'],
+      tags: ['Sequel', 'Novel'],
       subtitle: 'Book',
       profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/books/10053',
       length: '242p; H',
@@ -409,7 +409,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
       [{ text: 'Listen to the events that occur one year after ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: '. Released as part of ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (2013 and 2016 versions).' }],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'Audio drama'],
+      tags: ['Sequel', 'Audio drama'],
       subtitle: 'Audio Drama',
       length: '30min',
       languages: [

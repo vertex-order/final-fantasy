@@ -7,7 +7,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
       'Warrior Firion and his allies join a rebellion against the expanding Palamecian Empire.',
     ],
     primary: {
-      mainline: true, tags: ['Usage system'],
+      tags: ['Mainline', 'Usage system'],
       subtitle: 'Pixel Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitleDate: 2021,
       profileUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
       languages: [
@@ -175,7 +175,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
       [{ text: 'Novelization of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: '. Includes additional scenarios and story changes, which could be considered an alternate universe retelling. Released as ' }, { emText: 'Final Fantasy II Muma no Meikyū' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Alternate Universe', 'Light Novel'],
+      tags: ['Alternate Universe', 'Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '281p',
@@ -205,7 +205,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
       'A gamebook set in the world of Final Fantasy II. Centers on Princess Marie of Fynn, an original character combining traits of Maria and Hilda, alongside Firion, Guy, and Minwu. Released as ファイナルファンタジーII 秘宝のドラゴン (Final Fantasy II Hihō no Dragon).',
     ],
     primary: {
-      tags: ['Optional', 'Side-story', 'Gamebook'],
+      tags: ['Gamebook'],
       subtitle: 'Book',
       helpWanted: true,
       length: '283p',
@@ -231,7 +231,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
       [{ text: 'A gamebook telling a side story set during the events of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ' and starring a young rebel as its protagonist. Released as ファイナルファンタジーII 勝利への旅立ち (Final Fantasy II Shōri e no Tabidachi).' }],
     ],
     primary: {
-      tags: ['Optional', 'Side-story', 'Gamebook'],
+      tags: ['Gamebook'],
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true },
@@ -253,7 +253,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
       [{ text: 'Adaptation of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ' as a manga with what can be assumed are many story changes like the previous comic adaptation, which could be considered an alternate universe retelling. It was cancelled before completion.' }],
     ],
     primary: {
-      tags: ['Optional', 'Alternate Universe', 'Manga', 'Incomplete'],
+      tags: ['Alternate Universe', 'Manga', 'Incomplete'],
       subtitle: 'Comic',
       length: '~60p',
       languages: [
@@ -277,7 +277,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
       [{ text: 'Short story adaptation of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: '. The book also contains short story adaptations of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ' and ' }, { emLinkText: 'Final Fantasy III (1990)', emLinkUrl: '#entry-III-final-fantasy-iii-1990' }, { text: '. Also known as ' }, { emText: 'Final Fantasy ~Memory of Heroes~' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Short Stories'],
+      tags: ['Short Stories'],
       subtitle: 'Book',
       profileUrl: 'https://web.archive.org/web/20160304093601/http://www.square-enix.co.jp/magazine/gamebooks/ff/ff123_novel_moh/',
       languages: [

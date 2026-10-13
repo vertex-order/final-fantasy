@@ -7,7 +7,7 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
       'Wandering Bartz investigates a fallen meteor and must prevent the resurgence of evil sorcerer Exdeath into the world.',
     ],
     primary: {
-      mainline: true, tags: ['Active time battles'],
+      tags: ['Mainline', 'Active Time Battle'],
       subtitle: 'Pixel Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitleDate: 2021,
       profileUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
       languages: [
@@ -143,7 +143,7 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
       ['Four 30 minute ', { abbrTerm: 'OVA', abbrDef: 'Original Video Animation' }, ' episodes.'],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'OVA'],
+      tags: ['Sequel', 'OVA'],
       subtitle: 'Video',
       length: '120min',
       languages: [

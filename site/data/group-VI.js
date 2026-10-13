@@ -7,7 +7,7 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, narrativeOrder: 600, 
       [{ text: 'Join the rebellion (the ' }, { emText: 'Returners' }, { text: ') against the immoral military dictatorship; the industrial ' }, { emText: 'Gestahl Empire' }, { text: '.' }],
     ],
     primary: {
-      mainline: true, tags: ['Active time battles'],
+      tags: ['Mainline', 'Active Time Battle'],
       subtitle: 'Pixel Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitleDate: 2022,
       profileUrl: 'https://finalfantasypixelremaster.square-enix-games.com/',
       languages: [
@@ -143,7 +143,7 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, narrativeOrder: 600, 
       ],
     ],
     primary: {
-      tags: ['Optional', 'Alternate Universe', 'Non-canon', 'Fan-made', 'Short Stories', 'Doujinshi'],
+      tags: ['Fan-made', 'Short Stories', 'Doujinshi'],
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true },

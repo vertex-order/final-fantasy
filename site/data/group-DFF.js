@@ -8,7 +8,8 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
       [{ text: 'Also gives the assist character Aerith for ' }, { emText: 'Dissidia 012 (2011)' }, { text: '. Despite being considered a demo, it has an original story.' }],
     ],
     primary: {
-      tags: ['Optional', 'Prequel', '3D', 'Fighting game', 'Action RPG', 'Single-player', 'Demo'],
+      tags: ['Prologue', '3D', 'Fighting game', 'Action RPG', 'Single-player', 'Demo'],
+      subtitle: 'Demo',
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -34,7 +35,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
       'Focuses on the twelfth war between the gods Chaos and Cosmos who have summoned several warriors from parallel worlds to fight for them.',
     ],
     primary: {
-      tags: ['3D', 'Fighting game', 'Action RPG', 'Single-player', 'Multiplayer'],
+      tags: ['Essential', '3D', 'Fighting game', 'Action RPG', 'Single-player', 'Multiplayer'],
       subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Dissidia_012_Final_Fantasy', subtitleDate: '2011-03-03',
       languages: [
         { value: 'JA', native: true },
@@ -87,7 +88,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
       [{ text: 'Confusingly released to arcades in Japan as ' }, { emText: 'Dissidia Final Fantasy' }, { text: ' (which already existed on the PSP as a different game) before being rebranded ' }, { emText: 'Dissidia Final Fantasy NT' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Sequel', '3D', 'Fighting game', 'Action RPG', 'Single-player', 'Multiplayer'],
+      tags: ['Essential', '3D', 'Fighting game', 'Action RPG', 'Single-player', 'Multiplayer'],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN', voice: true },
@@ -124,7 +125,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
       [{ text: 'The events that took place were complementary to those that transpire in the world of the ' }, { emText: 'Dissidia NT (2015)' }, { text: ' since they share the same gods and the same crystals.' }],
     ],
     primary: {
-      tags: ['Optional', 'Mobile', 'Free-to-play', 'Turn-based RPG', 'Single-player'],
+      tags: ['Mobile', 'Free-to-play', 'Turn-based RPG', 'Single-player'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -153,7 +154,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
       [{ text: 'The warriors of light find themselves transported to a new and unfamiliar world, which is revealed to be modern-day Tokyo. Despite their preceding titles, it is presumed that this is an entirely stand-alone story, as the warriors of light in Dissidia Duellum do not seem to recognize each other. Swarms of monsters start appearing in the city and draining the civilians of their vitality.' }],
     ],
     primary: {
-      tags: ['Mobile', 'Alternate Universe', 'Fighting game', 'Action RPG', 'Gacha', 'Multi-player', 'Free-to-play', 'In-App Purchases'],
+      tags: ['Essential', 'Mobile', 'Fighting game', 'Action RPG', 'Gacha', 'Multiplayer', 'Free-to-play', 'In-app purchases'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

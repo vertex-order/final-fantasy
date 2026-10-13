@@ -9,7 +9,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       'Details the backstories of Noctis Lucis Caelum and his friends. Also included with some game releases in the XV series.',
     ],
     primary: {
-      tags: ['Prequel', 'Anime'],
+      tags: ['Essential', 'Prologue', 'Anime'],
       subtitle: 'Anime',
       length: '5 episodes',
       languages: [
@@ -40,7 +40,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       [{ text: 'Considered loosely connected to the ' }, { emText: 'Fabula Nova Crystallis – Final Fantasy XIII' }, { text: ' series, you can optionally play that series first. If you plan to watch the ' }, { emLinkText: 'Kingsglaive: Final Fantasy XV (2016)', emLinkUrl: '#entry-XV-kingsglaive-final-fantasy-xv-2016' }, { text: ' movie, the best time is after finishing Chapter 1 of the game.' }],
     ],
     primary: {
-      mainline: true, tags: ['Action RPG', 'Open World', 'Action-based battle', 'Co-op', 'Official mod support'],
+      tags: ['Mainline', 'Action RPG', 'Open world', 'Action-based battle', 'Co-op', 'Official mod support'],
       subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV#Release', subtitleDate: 2018,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -98,7 +98,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
     },
     alts: [
       {
-        tags: ['Optional'],
+        tags: [],
         title: 'Final Fantasy XV: Pocket Edition', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV:_Pocket_Edition', titleDate: 2018,
         languages: [
           { value: 'JA', native: true, voice: true },
@@ -152,7 +152,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       [{ text: 'Noctis and his friends were doing just before the events of ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: ', as Noctis heads to the Citadel to discuss his upcoming journey to Altissia for his wedding to Lunafreya. Also known as ' }, { emText: 'Final Fantasy XV Prologue ~Tabidatsu Mono, Nokoru Mono~' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Audio drama'],
+      tags: ['Prologue', 'Audio drama'],
       subtitle: 'Audio Drama',
       languages: [
         { value: 'JA', native: true },
@@ -166,7 +166,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
     },
     alts: [
       {
-        tags: ['Optional', 'Prequel', 'Web Novel', 'Free'],
+        tags: ['Prequel', 'Web Novel', 'Free'],
         title: 'Final Fantasy XV Prologue: Parting Ways ~Book~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_Parting_Ways', titleDate: 2016,
         subtitle: 'Book',
         helpWanted: true,
@@ -196,7 +196,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       [{ text: 'Kingsglaive runs parallel with the events in the beginning of ' }, { emText: 'XV' }, { text: ", focusing on Regis Lucis Caelum CXIII, the father of main character Noctis. The main protagonists are from the Kingsglaive, an elite combat corps who share Regis's magical powers and defend the kingdom of Lucis and its Crystal from the invading empire of Niflheim." }],
     ],
     primary: {
-      tags: ['Tie-in', 'Movie'],
+      tags: ['Essential', 'Tie-in', 'Movie'],
       subtitle: 'Movie',
       languages: [
         { value: 'JA', native: true },
@@ -222,7 +222,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       'Gladiolus Amicitia as the player character.',
     ],
     primary: {
-      tags: ['Optional', 'DLC'],
+      tags: ['DLC'],
       subtitle: 'DLC',
       helpWanted: true,
       profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
@@ -251,7 +251,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       'Takes place during a late-game narrative gap and follows Prompto Argentum as the player character, with the gameplay shifting towards third-person shooting and stealth-based mechanics.',
     ],
     primary: {
-      tags: ['Optional', 'DLC'],
+      tags: ['DLC'],
       subtitle: 'DLC',
       profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
       ratings: [
@@ -279,7 +279,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       'Follows Ignis Scientia as he allies with the Imperial commander Ravus Nox Fleuret to protect Noctis.',
     ],
     primary: {
-      tags: ['Optional', 'DLC'],
+      tags: ['DLC'],
       subtitle: 'DLC',
       profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
       ratings: [
@@ -306,7 +306,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       "Details the background of Ardyn Izunia from 2,000 years ago in Eos' history when he used to work as a healer. Closed captioning is available.",
     ],
     primary: {
-      tags: ['Optional', 'Prologue', 'Video'],
+      tags: ['Prologue', 'Video'],
       subtitle: 'Video',
       languages: [
         { value: 'JA', tip: 'Japanese — audio', native: true, voice: true },
@@ -328,7 +328,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       'Set thirty years prior to the main game, Episode Ardyn details how Ardyn was discovered by the Empire of Niflheim and began his plot of revenge against the Lucian bloodline.',
     ],
     primary: {
-      tags: ['Optional', 'DLC', 'Prequel'],
+      tags: ['DLC'],
       subtitle: 'DLC',
       profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-xv',
       ratings: [
@@ -357,7 +357,8 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       [{ text: 'Meant as a prologue to ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '. Set in a dream world after Noctis is gravely wounded as a child, it follows his journey back to consciousness, guided by a creature called Carbuncle that protects Noctis.' }],
     ],
     primary: {
-      tags: ['Optional', 'Demo', 'Prologue'],
+      tags: ['Demo', 'Prologue'],
+      subtitle: 'Demo',
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -386,7 +387,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       [{ text: 'Follows the exploits of Regis Lucis Caelum CXIII, the king of Lucis and father of Noctis thirty years before ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '’s events. Also known as ' }, { emText: "A King's Tale: Final Fantasy XV" }, { text: ' (straight apostrophe).' }],
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Spin-off', 'Beat ’em up'],
+      tags: ['Spin-off', 'Beat ’em up'],
       languages: [
         { value: 'EN-US', tip: 'English (United States) — audio', native: true, voice: true },
       ],
@@ -413,7 +414,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       [{ text: 'Players interact with the four main characters of ' }, { emText: 'XV' }, { text: ' while taking part in fishing around a variety of locations.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Simulation', 'VR'],
+      tags: ['Spin-off', 'Simulation', 'VR'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -442,7 +443,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       'Focused on the development of Insomnia as a kingdom. We recommend you watch the official clips for story elements.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer'],
+      tags: ['Spin-off', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer'],
       terminated: true,
       languages: [
         { value: 'EN', native: true },
@@ -466,7 +467,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       [{ text: 'Picking up where ' }, { emLinkText: 'XV: A New Empire (2017)', emLinkUrl: '#entry-XV-final-fantasy-xv-a-new-empire-2017' }, { text: " left off, focuses on the rebuilding of Insomnia after the Niflheim Empire's attack." }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer'],
+      tags: ['Spin-off', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer'],
       terminated: true,
       languages: [
         { value: '…?', tip: 'Unknown languages' },
@@ -489,7 +490,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       'Princess Claire of Olthea has been kidnapped in the Kingdom of Izander, and the player must choose one of the four heroes to train and set forth to attack Gargatua Castle, defeat the evil dragon Tolfida and rescue the princess.',
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Scrolling shooter', 'Referenced'],
+      tags: ['Tie-in', 'Scrolling shooter'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -560,7 +561,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       [{ text: 'Retells the cancelled ' }, { emText: 'Dawn of the Future' }, { text: ' DLC. Follows Ardyn, Aranea, Lunafreya, and Noctis after the events of ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Novel'],
+      tags: ['Novel'],
       subtitle: 'Book',
       profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646090006',
       length: '384p; H',
@@ -588,7 +589,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       [{ text: 'Two anthologies of short manga centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum. Released in Japan as ' }, { emText: 'Fainaru Fantajī Fifutīn Kōshiki Comikku Ansorojī' }, { text: ' (ファイナルファンタジーXV 公式コミックアンソロジー).' }],
     ],
     primary: {
-      tags: ['Optional', 'Manga'],
+      tags: ['Manga'],
       subtitle: 'Comic',
       profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXV%20%E5%85%AC%E5%BC%8F%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC',
       length: '2 volumes',
@@ -614,7 +615,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       [{ text: 'Mobile pinball game based on a minigame from ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Minigame', 'Mobile', 'Pinball', 'Single-player'],
+      tags: ['Minigame', 'Mobile', 'Pinball', 'Single-player'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },

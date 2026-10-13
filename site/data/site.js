@@ -5,7 +5,7 @@ window.SITE_CONFIG = {
   groupLabel: "Series",
   groupLabelPlural: "Series",
   tagline: [
-    { text: "A recommended way to experience the Final Fantasy franchise, each series listing the mainline game alongside its prequels, sequels, remakes and spin-offs. Optional extras are marked — skip them and the series still holds together." }
+    { text: "A recommended way to experience the Final Fantasy franchise, each series listing the mainline game alongside its prequels, sequels, remakes and spin-offs. Essential entries are marked; the rest are optional extras — skip them and the series still holds together." }
   ],
   description: "A recommended order for playing each Final Fantasy series, mainline games plus prequels, sequels, remakes, and spin-offs — Vertex Order.",
   lastUpdated: "2026-08-01",

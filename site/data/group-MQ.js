@@ -8,7 +8,7 @@ window.__ffGroupReg['MQ'] = { num: 'MQ', chronoOrder: 350, narrativeOrder: 350, 
       [{ text: 'Released in some regions as ' }, { emText: 'Mystic Quest Legend' }, { emText: ' (EU)', tip: 'Europe', helpStyle: 'cursor: help;' }, { text: ' and ' }, { emText: 'Final Fantasy USA: Mystic Quest' }, { emText: ' (JP)', tip: 'Japan', helpStyle: 'cursor: help;' }, { text: '. Not to be confused with ' }, { emText: 'Mystic Quest' }, { emText: ' (1991;' }, { emText: ' EU', tip: 'Europe', helpStyle: 'cursor: help;' }, { emText: ';' }, { emText: ' GB', tip: 'Game Boy', helpStyle: 'cursor: help;' }, { emText: ')' }, { text: ' by Square which was spun off into the unrelated series ' }, { emLinkText: 'Mana', emLinkUrl: 'https://wikipedia.org/wiki/Mana_(series)' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'First-time players', 'RPG', 'Action-adventure'],
+      tags: ['RPG', 'Action-adventure'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

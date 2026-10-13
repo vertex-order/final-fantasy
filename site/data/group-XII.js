@@ -9,7 +9,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       [{ text: 'The empires of Archadia and Rozarria are waging an endless war. Vaan meets princess Ashe of Dalmasca, who has established a resistance movement.' }],
     ],
     primary: {
-      mainline: true, tags: ['Open world', 'Gambit auto-battle'],
+      tags: ['Mainline', 'Open world', 'Gambit auto-battle'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII#The_Zodiac_Age', subtitleDate: 2018,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -114,7 +114,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       [{ text: 'A manga adaptation of ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: ' that begins partway through the game, with flashbacks adding new details about the characters and a few details changed from the game.' }],
     ],
     primary: {
-      tags: ['Optional', 'Manga'],
+      tags: ['Manga'],
       subtitle: 'Comic',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/series/108230-xii-final-fantasy-xii' },
@@ -140,7 +140,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       [{ text: 'Vaan and Penelo become sky pirates and end up involved in a conflict surrounding the floating continent of Lemurés. A standalone sequel to ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Sequel', 'Real-time strategy'],
+      tags: ['Essential', 'Sequel', 'Real-time strategy'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -169,7 +169,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       [{ text: 'Despite sharing the "Advance" branding with other Game Boy Advance ports, this is an entirely distinct game — not a port or edit of ' }, { emLinkText: 'Tactics (1997)', emLinkUrl: '#entry-XII-final-fantasy-tactics-1997' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Alternate universe', 'Turn-based tactical rpg'],
+      tags: ['Spin-off', 'Turn-based tactical RPG'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -222,7 +222,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       [{ text: 'Despite sometimes being considered an indirect sequel to ' }, { emLinkText: 'Tactics Advance (2003)', emLinkUrl: '#entry-XII-final-fantasy-tactics-advance-2003' }, { text: ', it actually fits better as a spin-off in the main ' }, { emText: 'Ivalice Alliance' }, { text: ' series, which the former is only loosely a part of.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Turn-based tactical rpg'],
+      tags: ['Spin-off', 'Turn-based tactical RPG'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -249,7 +249,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       [{ text: 'Far in the future, the mercenary Ramza is involved in a civil war when an ancient demonic evil starts to take hold over the world.' }],
     ],
     primary: {
-      tags: ['Optional', 'Turn-based tactical rpg'],
+      tags: ['Turn-based tactical RPG'],
       subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics#The_Ivalice_Chronicles', subtitleDate: 2025,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -346,7 +346,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       [{ text: 'Ashley, an elite agent known as a Riskbreaker, must travel to Leá Monde to investigate the link between a cult leader and a senior Valendian Parliament member, Duke Bardorba. Considered to be in some future time after ' }, { emLinkText: 'Final Fantasy Tactics (1997)', emLinkUrl: '#entry-XII-final-fantasy-tactics-1997' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Action role-playing'],
+      tags: ['Action RPG'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -378,7 +378,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       'It lacks a deep story, so there is no story recap to catch up on.',
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mobile', 'Tactical rpg', 'Jobs'],
+      tags: ['Spin-off', 'Mobile', 'Tactical RPG', 'Jobs'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -397,7 +397,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       [{ text: 'Tower defense game inspired by elements from ' }, { emLinkText: 'Tactics A2: Grimoire of the Rift (2007)', emLinkUrl: '#entry-XII-final-fantasy-tactics-a2-grimoire-of-the-rift-2007' }, { text: ' set in Ivalice. Initially released as ' }, { emText: 'Crystal Guardians' }, { text: '. Some platforms may have only partial content, or higher graphics under the name ' }, { emText: 'Crystal Defenders Plus' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Mobile', 'Turn-based strategy', 'Tower defense'],
+      tags: ['Spin-off', 'Mobile', 'Turn-based strategy', 'Tower defense'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -428,7 +428,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       [{ text: 'Tower defense game inspired by elements from ' }, { emLinkText: 'Tactics A2: Grimoire of the Rift (2007)', emLinkUrl: '#entry-XII-final-fantasy-tactics-a2-grimoire-of-the-rift-2007' }, { text: ' set in Ivalice, as a direct sequel to ' }, { emLinkText: 'Crystal Defenders (2008)', emLinkUrl: '#entry-XII-crystal-defenders-2008' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', 'Sequel', 'Mobile', 'Turn-based strategy', 'Tower defense'],
+      tags: ['Spin-off', 'Mobile', 'Turn-based strategy', 'Tower defense'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },

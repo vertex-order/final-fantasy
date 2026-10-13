@@ -8,7 +8,7 @@ window.__ffGroupReg['XVI'] = { num: 'XVI', chronoOrder: 1700, narrativeOrder: 17
       'Two DLCs have been released, and while independent, slot in while playing the main game. They may also be played afterwards just for their story, and are listed separately.',
     ],
     primary: {
-      mainline: true, tags: ['First-time players', 'Action rpg'],
+      tags: ['Mainline', 'Action RPG'],
       profileUrl: 'https://na.finalfantasyxvi.com/',
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -56,7 +56,7 @@ window.__ffGroupReg['XVI'] = { num: 'XVI', chronoOrder: 1700, narrativeOrder: 17
       'Strange, dark crystals begin to circulate on the black market. Clive follows their trail to a long-abandoned Fallen tower known as the Sagespire and the terrible secrets that await within...',
     ],
     primary: {
-      tags: ['Optional', 'DLC'],
+      tags: ['DLC'],
       subtitle: 'DLC',
       profileUrl: 'https://na.finalfantasyxvi.com/',
       ratings: [
@@ -84,7 +84,7 @@ window.__ffGroupReg['XVI'] = { num: 'XVI', chronoOrder: 1700, narrativeOrder: 17
       'Clive receives a strange request; the Dominant of Leviathan, long lost Eikon of Water, is in need of rescue. Travel to Mysidia —a hidden land— and uncover the tragic history of a forgotten people.',
     ],
     primary: {
-      tags: ['Optional', 'DLC'],
+      tags: ['DLC'],
       subtitle: 'DLC',
       profileUrl: 'https://na.finalfantasyxvi.com/',
       ratings: [

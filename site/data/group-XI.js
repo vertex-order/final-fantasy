@@ -14,7 +14,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Add-on scenarios comprise of a series of quests and are smaller in scope than expansions and purchased separately, often requiring certain expansions. Their chronological order is much more complicated and we recommend consulting a dedicated play order guide for them like ' }, { emLinkText: "sorenohde's", emLinkUrl: 'https://www.reddit.com/r/ffxi/comments/upfga9/chart_on_how_to_go_through_rhapsodies_of_vanadiel/' }, { text: '.' }],
     ],
     primary: {
-      mainline: true, tags: [{ abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
+      tags: ['Mainline', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Base Game',
       listTitle: 'Add-ons & scenarios:',
       listTitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XI#Expansions_and_add-ons',
@@ -49,7 +49,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: "Thwart Zilart princes Eald'Narche and Kam'lanaut's plans to become Gods in this expansion for " }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
+      tags: ['Essential', 'Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
       length: [{ value: '33h', tip: 'Solo', join: ' / ' }, { value: '11h', tip: 'Co-op' }],
       platforms: [
@@ -66,7 +66,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Various factions vie to either stop or complete the resurrection of Twilight God Promathia in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
+      tags: ['Essential', 'Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
       ratings: [
         { score: '77', url: 'https://www.metacritic.com/game/final-fantasy-xi-chains-of-promathia/', key: 'metacritic' },
@@ -87,7 +87,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'The Empire of Aht Urhgan in the midlands becomes involved after years of self-imposed isolation, with the player being sent there as a representative in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
+      tags: ['Essential', 'Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
       ratings: [
         { score: '87', url: 'https://www.metacritic.com/game/final-fantasy-xi-treasures-of-aht-urhgan/', key: 'metacritic' },
@@ -108,7 +108,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Using newly discovered time portals, players travel 20 years in the past from the base game main story to experience the Crystal War first-hand and encounters a surprise character in this expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
+      tags: ['Essential', 'Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
       ratings: [
         { score: '63', url: 'https://www.metacritic.com/game/final-fantasy-xi-wings-of-the-goddess/', key: 'metacritic' },
@@ -129,7 +129,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'People are migrating to the underpopulated western continent archipelago of Adoulin and the Sacred City of Adoulin in this last expansion for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
+      tags: ['Essential', 'Expansion', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
       subtitle: 'Expansion',
       length: [{ value: '43h', tip: 'Solo', join: ' / ' }, { value: '11h', tip: 'Co-op' }],
       platforms: [
@@ -152,7 +152,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       ],
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       length: '286p; A6',
       profileUrl: 'https://www.kadokawa.co.jp/product/200700003832/',
@@ -183,7 +183,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'An original story set during the Crystal War twenty years before the main story of ' }, { emLinkText: 'XI (2003)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', which later became the setting for the ' }, { emLinkText: 'Wings of the Goddess (2007)', emLinkUrl: '#entry-XI-final-fantasy-xi-wings-of-the-goddess-2007' }, { text: ' expansion. Some differences with characters from the game make it so it could be considered an alternate universe story. It was cancelled after three issues and left incomplete.' }],
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Alternate Universe', 'Manhwa', 'Incomplete'],
+      tags: ['Prequel', 'Alternate Universe', 'Manhwa', 'Incomplete'],
       subtitle: 'Comic',
       helpWanted: true,
       length: '3 issues',
@@ -208,7 +208,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: "Book 2 in the series, released as 星の誓い, also known as " }, { emText: 'Oath of the Stars' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '287p; A6',
@@ -237,7 +237,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Released as 祈りの風, also known as ' }, { emText: 'Prayer of the Wind' }, { text: ', ' }, { emText: 'Wind of Prayer' }, { text: ' and ' }, { emText: 'Wind of Pray' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Manga'],
+      tags: ['Manga'],
       subtitle: 'Comic',
       length: '2 volumes',
       helpWanted: true,
@@ -265,7 +265,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Book 3 in the series, released as 永遠の絆, also known as ' }, { emText: 'The Eternal Link' }, { text: ' or ' }, { emText: 'The Covenant of Eternity' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '287p; A6',
@@ -294,7 +294,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       "Books 4–6 in the series, released as 護りの剣①②③.",
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       length: '3 volumes',
       helpWanted: true,
@@ -323,7 +323,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Book 7 in the series, released as 遥かなる翼.',
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       length: '255p; A6',
       helpWanted: true,
@@ -352,7 +352,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Books 8–10 in the series, released as 騎士の誇り①②③.',
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       length: '3 volumes',
       helpWanted: true,
@@ -381,7 +381,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       "Book 11 in the series, released as 冒険者の休日.",
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       length: '318p; A6',
       helpWanted: true,
@@ -409,7 +409,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Books 12–13 in the series, released as 遠い願い㊤㊦.',
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       length: '2 volumes',
       helpWanted: true,
@@ -437,7 +437,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Books 14–15 in the series, released as 新たな夢㊤㊦.',
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       length: '2 volumes',
       helpWanted: true,
@@ -465,7 +465,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Book 16 in the series, released as 旅の恵み.',
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '287p; A6',
@@ -493,7 +493,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Books 17–19 in the series, released as アトルガンの娘たち①②③.',
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '3 volumes',
@@ -521,7 +521,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Books 20–21 in the series, released as 賢者の遺言㊤㊦, also known as ' }, { emText: 'The Testament of the Sages' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       length: '2 volumes',
       helpWanted: true,
@@ -548,7 +548,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'The official ' }, { emLinkText: 'Final Fantasy XI', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ' webcomic.' }],
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Webcomic'],
+      tags: ['Tie-in', 'Webcomic'],
       subtitle: 'Comic',
       helpWanted: true,
       length: '7p',
@@ -571,7 +571,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Book 22 in the series, released as 幸運の条件.',
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       length: '284p; A6',
       helpWanted: true,
@@ -599,7 +599,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       "Book 23 in the series, released as ロンフォールの姫騎士.",
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       length: '254p; A6',
       helpWanted: true,
@@ -627,7 +627,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Book 24 in the series, released as 星のいざない, also known as ' }, { emText: 'Starfall' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       length: '287p; A6',
       helpWanted: true,
@@ -655,7 +655,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Book 25 in the series, released as ハッピーギフト.',
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '313p; A6',
@@ -683,7 +683,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Books 26–28 in the series, released as 彼方からの伝言①②③, also known as ' }, { emText: 'Messages from Afar' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '3 volumes',
@@ -710,7 +710,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Book 29 in the series, released as アンソロジー短編集みんなで大冒険！！, also known as ' }, { emText: 'An Anthology of Short Stories: A Great Adventure for Everyone!!' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Light Novel', 'Short Stories'],
+      tags: ['Light Novel', 'Short Stories'],
       subtitle: 'Book',
       helpWanted: true,
       length: '311p; A6',
@@ -738,7 +738,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'Books 30–32 in the series, released as ザルカバードの鼓動①②③.',
     ],
     primary: {
-      tags: ['Optional', 'Light Novel'],
+      tags: ['Light Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '3 volumes',
@@ -764,7 +764,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'Featuring stories and four original comics. Released as 電撃の旅団公式十年事典, also known as ' }, { emText: 'Lightning Brigade Official Decennial Encyclopedia' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Articles', 'Manga', 'Short Stories'],
+      tags: ['Tie-in', 'Articles', 'Manga', 'Short Stories'],
       subtitle: 'Book',
       length: '217p; AB',
       helpWanted: true,
@@ -791,7 +791,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: "A month after the crisis of Escafication, Vana'diel was slowly returning to normal. A sailing ship drifting along the South Ocean route encounters a colossal monster, marking the start of a new incident across Vana'diel, Tavnazia, and Reisenjima. Released as 終わりなき大地の唄, also known as " }, { emText: 'The Song of the Endless Land' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Novel'],
+      tags: ['Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '287p; B6',
@@ -817,7 +817,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'A short manga for ' }, { emText: 'XI' }, { text: ", released as 恋の空蝉1・2・3! (Koi no Utsusemi). Serialized in the Vana'diel Communications mook; the earliest known printing is the June 2007 Vana'diel Memoirs special appendix." }],
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Manga'],
+      tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '…?',
       helpWanted: true,
@@ -858,7 +858,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       "A series of four-panel manga based on Final Fantasy XI, following the story of Iroha, the main heroine of Rhapsodies of Vana'diel. Known in Japan as Iroha de Gozaru.",
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Manga'],
+      tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       helpWanted: true,
       languages: [
@@ -880,7 +880,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'A replica script for the reading drama\'s five strange tales: "Mimiroon\'s Sparkling Great Adventure", "Go For It! Allied Forces of Altana: Extreme Survival", "Seaside Serpent Taro", "A Small Gift For A Small Friend", and "Black Night Butterfly". Released as 朗読劇 : 異聞のウタイビト : 複製台本, also known as ' }, { emText: 'Reading Drama: Minstrel of Strange Tales: Replica Script' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Novel'],
+      tags: ['Tie-in', 'Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '96p; B5',
@@ -903,7 +903,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'A replica script for the reading drama\'s stories of love and reunion across time and space: "Temple of the Heart\'s Secret" (a Star Sibyl story), "Girl of the Underworld" (an Aphmau story), "Blue Mage Blues" (a Blue Mage story), and "Memoirs of the Many-Headed Hydra -Memories of Heroes-" (a Hydra Squadron story). Released as 朗読劇 : 夢幻のウタイビト : 複製台本, also known as ' }, { emText: 'Reading Drama: Minstrel of Fantasies: Replica Script' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Novel'],
+      tags: ['Tie-in', 'Novel'],
       subtitle: 'Book',
       helpWanted: true,
       length: '96p; B5',
@@ -927,7 +927,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       "The general lack of deep story means there isn't anything to get caught up on or experience through recaps.",
     ],
     primary: {
-      tags: ['Optional', 'Spin-off', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Mobile', 'Jobs', 'Active Time Battle'],
+      tags: ['Spin-off', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Mobile', 'Jobs', 'Active Time Battle'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -947,7 +947,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       'A party of adventurers, fresh off a win in the Valkurm Dunes, is summoned to Lower Jeuno by the Captain of the Ducal Guard for an urgent mission.',
     ],
     primary: {
-      tags: ['Optional', 'Unofficial fan project', 'RPG', '2D', 'Sprites', 'Alternate Universe', 'Free'],
+      tags: ['Fan-made', 'RPG', '2D', 'Sprites', 'Free'],
       languages: [
         { value: 'EN' },
       ],

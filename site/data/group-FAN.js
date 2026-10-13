@@ -7,7 +7,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, narrativeOrder: 17
       [{ text: 'A fan-remake of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: " in the Unity game engine that fixes many of the original's bugs. Also includes an extra mode with extra gameplay content like new jobs. Released free-to-play via Discord as " }, { emText: 'Final Fantasy Renaissance' }, { text: '. Entry also found in our ' }, { emLinkText: 'Final Fantasy I', emLinkUrl: '#group-I' }, { text: ' series.' }],
     ],
     primary: {
-      tags: ['Unofficial fan project', 'Free'],
+      tags: ['Fan-made', 'Free'],
       languages: [
         { value: 'EN' },
       ],
@@ -25,7 +25,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, narrativeOrder: 17
       [{ text: 'A fan-made affectionate parody of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ", follows the four Light Warriors (who really aren't the best for the job): Fighter McWarrior, an astoundingly stupid sword-obsessed warrior; Black Mage Evilwizardington, an Ax-Crazy homicidal sociopath who is only held back by the Rule of Funny and a tendency to get hurt; Thief, a fugitive prince of elf clan Khee'bler armed with extreme greed and an expertise in manipulative contracts; and Red Mage Statscowski, a so-called strategist who considers life to be a tabletop game, is obsessed with his stats, and was tricked into liking cross dressing. Entry also found in our " }, { emLinkText: 'Final Fantasy I', emLinkUrl: '#group-I' }, { text: ' series.' }],
     ],
     primary: {
-      tags: ['Unofficial fan project', 'Alternate Universe', 'Webcomic', 'Free'],
+      tags: ['Fan-made', 'Webcomic', 'Free'],
       subtitle: 'Comic',
       languages: [
         { value: 'EN', native: true, textOnly: true },
@@ -44,7 +44,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, narrativeOrder: 17
       'This is the story of Cecil Harvey, a dark knight whose journey for redemption draws himself, his best friend Kain and Rosa into a dangerous battle for their planet.',
     ],
     primary: {
-      tags: ['Unofficial fan project', 'Web Novel', 'Free'],
+      tags: ['Fan-made', 'Web Novel', 'Free'],
       length: '27 chapters',
       languages: [
         { value: 'EN', url: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel' },
@@ -63,7 +63,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, narrativeOrder: 17
       'A party of adventurers, fresh off a win in the Valkurm Dunes, is summoned to Lower Jeuno by the Captain of the Ducal Guard for an urgent mission.',
     ],
     primary: {
-      tags: ['Unofficial fan project', 'RPG', '2D', 'Sprites', 'Alternate Universe', 'Free'],
+      tags: ['Fan-made', 'RPG', '2D', 'Sprites', 'Free'],
       languages: [
         { value: 'EN' },
       ],
@@ -84,7 +84,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, narrativeOrder: 17
       'A group of heroes, champions of Eorzea, are transported away moments before facing certain death against Bahamut, and must find their way home through a strange new world entwined with crystals, old evils, and steadfast allies.',
     ],
     primary: {
-      tags: ['Unofficial fan project', '2D', 'Sprites', 'RPG', 'Alternate Universe', 'Free'],
+      tags: ['Fan-made', '2D', 'Sprites', 'RPG', 'Free'],
       languages: [
         { value: 'EN', native: true },
       ],
@@ -104,7 +104,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, narrativeOrder: 17
       'Follows the story of a young man as he quests through the universe, looking for a place to belong. With an enigmatic cast of interesting characters.',
     ],
     primary: {
-      tags: ['Unofficial fan project', 'RPG', '2D', 'Sprites', 'Free'],
+      tags: ['Fan-made', 'RPG', '2D', 'Sprites', 'Free'],
       languages: [
         { value: 'EN', native: true },
       ],

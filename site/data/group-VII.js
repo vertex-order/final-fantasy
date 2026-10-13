@@ -10,7 +10,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       'Only the opening movie, season 2-4 trailers contain story elements. They can be viewed online.',
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Battle Royale', 'Free-to-play', 'In-app purchases'],
+      tags: ['Battle Royale', 'Free-to-play', 'In-app purchases'],
       terminated: true,
       profileUrl: 'https://www.ateam-entertainment.com/en/services/787/',
       languages: [
@@ -50,7 +50,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       'Do not watch or play the other episodes at this time, they contain spoilers for other games.',
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'Episodic', 'Active time battle', 'Co-op', 'Free', 'In-app purchases'],
+      tags: ['Episodic', 'Active Time Battle', 'Co-op', 'Free', 'In-app purchases'],
       terminated: true,
       subtitle: 'The First Soldier',
       languages: [
@@ -81,7 +81,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       'The Turks group of covert operatives working for Shinra Electric Power Company fight against both the rebel group AVALANCHE, and their corrupt employers.',
     ],
     primary: {
-      tags: ['Optional', 'Prequel'],
+      tags: ['Prequel'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -132,7 +132,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       [{ text: 'Re-imagining of two flashbacks from ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ', one with Sephiroth and another for Zack and Cloud, that take place before ' }, { emLinkText: 'Crisis Core (2007)', emLinkUrl: '#entry-VII-crisis-core-final-fantasy-vii-2007' }, { text: '. Can be considered an alternate timeline.' }],
     ],
     primary: {
-      tags: ['Optional', 'Prequel', 'OVA'],
+      tags: ['Prequel', 'OVA'],
       subtitle: 'Video',
       length: '25min',
       languages: [
@@ -160,7 +160,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       [{ text: 'Zack Fair, member of special forces organization SOLDIER searches for missing soldier Genesis Rhapsodos and uncovers many mysteries. Events end just before the start of ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' and are meant to pair with ' }, { emText: 'Remake Part 1: Intergrade (2021)' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Prequel'],
+      tags: ['Essential', 'Prequel'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII#Crisis_Core:_Final_Fantasy_VII_Reunion', subtitleDate: 2022,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -253,7 +253,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       [{ text: 'Enhanced version of the first in a trilogy to completely reimagine ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the reimagined trilogy, you can choose to play the original ' }, { emLinkText: 'VII (1997; listed separately)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Trilogy', 'Real-time action'],
+      tags: ['Essential', 'Real-time action'],
       subtitle: 'Intergrade', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake', subtitleDate: 2021,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -320,7 +320,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       [{ text: 'Second in a trilogy to completely reimagine ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' as an expanded modern RPG with new sensibilities and features. Part 3 (the last) has yet to be released. Instead of the reimagined trilogy, you can choose to play the original ' }, { emLinkText: 'VII (1997; listed separately)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Trilogy', 'Real-time action'],
+      tags: ['Essential', 'Real-time action'],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN-US', voice: true },
@@ -367,7 +367,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       [{ text: 'Not yet released. The final and third in a trilogy to completely reimagine ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' as an expanded modern RPG with new sensibilities and features. Instead of the reimagined trilogy, you can choose to play the original ' }, { emLinkText: 'VII (1997; listed separately)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Trilogy', 'Real-time action'],
+      tags: ['Essential', 'Real-time action'],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN-US', voice: true },
@@ -403,7 +403,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       'As originally told in one combined story. A different experience from the modern remake trilogy — many players play both.',
     ],
     primary: {
-      mainline: true, tags: ['Combined', 'Active time battle'],
+      tags: ['Mainline', 'Active Time Battle'],
       subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', subtitleDate: 2013,
       profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-vii',
       languages: [
@@ -538,7 +538,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       ['It takes place during the early events of ', { emLinkText: 'Final Fantasy VII: Rebirth', emLinkUrl: '#entry-VII-final-fantasy-vii-rebirth-part-2-2024' }, ' and features Aerith and Tifa exchanging stories from their pasts.'],
     ],
     primary: {
-      tags: ['Optional', 'Novel'],
+      tags: ['Novel'],
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/117984595-final-fantasy-vii-remake' },
@@ -571,7 +571,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       ['A sequel to ', { emLinkText: 'Traces of Two Pasts', emLinkUrl: '#entry-VII-final-fantasy-vii-remake-traces-of-two-pasts-2021' }, ' that continues the stories of Tifa and Aerith before the events of the main story of the ', { emText: 'Remake' }, '.'],
     ],
     primary: {
-      tags: ['Optional', 'Novel'],
+      tags: ['Novel'],
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/252507206-final-fantasy-vii-rebirth' },
@@ -596,7 +596,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       ["A novella describing Aerith's journey through the Lifestream and the ending for the original ", { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, ' game. Divided into seven chapters, it follows Aerith as she encounters other spirits in the Lifestream.'],
     ],
     primary: {
-      tags: ['Optional', 'Novella'],
+      tags: ['Novella'],
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/60295273-the-maiden-who-travels-the-planet' },
@@ -625,7 +625,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       ['Seven short stories centered on the characters from ', { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, ' and meant to take place before ', { emLinkText: 'Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }, ' compiled into an omnibus collection book.'],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'Short Stories'],
+      tags: ['Sequel', 'Short Stories'],
       subtitle: 'Book',
       languages: [
         { value: 'EN', url: 'https://www.goodreads.com/book/show/38644528-final-fantasy-vii' },
@@ -686,7 +686,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       ['Set a short time before ', { emLinkText: 'Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }, '. Follows Evan Townshend, a private detective in Edge, and the Turks.'],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'Novel'],
+      tags: ['Sequel', 'Novel'],
       subtitle: 'Book',
       languages: [
         { value: 'EN', url: 'https://www.goodreads.com/book/show/40223502-final-fantasy-vii' },
@@ -721,7 +721,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       [{ text: 'Two years after ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: ' Cloud must rescue children infected with the unexplained disease called Geostigma.' }],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'Movie', "Director's Cut"],
+      tags: ['Sequel', 'Movie', "Director's Cut"],
       subtitle: 'Complete', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#Final_Fantasy_VII:_Advent_Children_Complete', subtitleDate: 2009,
       length: '127min',
       languages: [
@@ -793,7 +793,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       ['A novelization of ', { emLinkText: 'Advent Children (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-advent-children-2005' }, '.'],
     ],
     primary: {
-      tags: ['Optional', 'Novel'],
+      tags: ['Novel'],
       subtitle: 'Book',
       languages: [
         { value: 'EN', url: 'https://www.goodreads.com/book/show/17731668-final-fantasy-vii-advent-children' },
@@ -816,7 +816,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       ['Three years after ', { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, ', Vincent is targetted by Deepground, a mysterious organization that plans to awaken a creature known as Omega, with the ability to destroy the Planet.'],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'Shooter'],
+      tags: ['Sequel', 'Shooter'],
       subtitle: 'International', subtitleUrl: 'https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantasy_VII-#Version_differences', subtitleDate: 2006,
       languages: [
         { value: 'JA', native: true },
@@ -889,7 +889,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       ['An extra story taking place between events in ', { emLinkText: 'Dirge of Cerberus (2006)', emLinkUrl: '#entry-VII-dirge-of-cerberus-final-fantasy-vii-2006' }, '.'],
     ],
     primary: {
-      tags: ['Optional', 'Sequel', 'Shooter'],
+      tags: ['Shooter'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -942,7 +942,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       [{ text: 'It is a remake of the snowboarding minigame near the Icicle Inn, as well as its near-identical minigame in the Gold Saucer in ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '. You can always replay the original minigame.' }],
     ],
     primary: {
-      tags: ['Optional', 'Minigame', 'Mobile', 'Snowboarding', 'Single-player'],
+      tags: ['Minigame', 'Mobile', 'Snowboarding', 'Single-player'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -963,7 +963,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       [{ text: 'Motorcycle racing game with role-playing elements inspired by a similar minigame in ' }, { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, { text: '. While riding on a motorcycle, Cloud battled enemies with melee weapons and magic with help from other characters. You can always replay the original minigame.' }],
     ],
     primary: {
-      tags: ['Optional', 'Minigame', 'Mobile', 'Racing', 'Motorcycle', 'Hack and slash', 'Single-player'],
+      tags: ['Minigame', 'Mobile', 'Racing', 'Motorcycle', 'Hack and slash', 'Single-player'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },

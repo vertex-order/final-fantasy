@@ -7,7 +7,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, narrativeOrder: 1510
       'Players take control of four Final Fantasy characters, and select a game from the first Final Fantasy to XIII. Each game has three stages: field, battle, and event. Each stage features different game mechanics than the others; once a stage is completed, the characters level up.',
     ],
     primary: {
-      tags: ['Rhythm', 'Single-player', 'Multiplayer'],
+      tags: ['Essential', 'Rhythm', 'Single-player', 'Multiplayer'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -33,7 +33,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, narrativeOrder: 1510
       [{ text: 'Adds Versus Battle and Quest Medleys modes, as well as expanding the track library to 221 tracks including from spin-off titles including other franchises. Followup to ' }, { emLinkText: 'Theatrhythm Final Fantasy (2012)', emLinkUrl: '#entry-TR-theatrhythm-final-fantasy-2012' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Sequel', 'Rhythm', 'Single-player', 'Multiplayer'],
+      tags: ['Essential', 'Rhythm', 'Single-player', 'Multiplayer'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -59,7 +59,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, narrativeOrder: 1510
       'The game features revamped arcade controls, improved graphics, cooperative play.',
     ],
     primary: {
-      tags: ['Sequel', 'Rhythm', 'Arcade', 'Single-player', 'Multiplayer', 'Co-op'],
+      tags: ['Essential', 'Rhythm', 'Arcade', 'Single-player', 'Multiplayer', 'Co-op'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN', tip: 'English (JP version; most menus)' },
@@ -77,7 +77,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, narrativeOrder: 1510
       '505 tracks from Final Fantasy and other franchises. Has elements from all previous games, with an enhanced role-playing element.',
     ],
     primary: {
-      tags: ['Sequel', 'Rhythm', 'Single-player', 'Multiplayer', 'Co-op'],
+      tags: ['Essential', 'Rhythm', 'Single-player', 'Multiplayer', 'Co-op'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN-GB' },

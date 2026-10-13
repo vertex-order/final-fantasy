@@ -7,7 +7,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
       'Four orphans from the village of Ur are chosen by the dying four elemental crystals to defeat Xande who is spreading a flood of darkness over the world.',
     ],
     primary: {
-      mainline: true, tags: ['Job system'],
+      tags: ['Mainline', 'Jobs'],
       subtitle: 'Pixel Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster', subtitleDate: 2021,
       languages: [
         { value: 'JA', native: true },
@@ -169,7 +169,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
       [{ text: 'Adaptation of ' }, { emLinkText: 'Final Fantasy III (1990)', emLinkUrl: '#entry-III-final-fantasy-iii-1990' }, { text: ' as a manga with many changes, which could be considered an alternate universe retelling. Released as ' }, { emText: 'Yūkyū no Kaze Densetsu: Final Fantasy III Yori' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Alternate Universe', 'Manga'],
+      tags: ['Alternate Universe', 'Manga'],
       subtitle: 'Comic',
       helpWanted: true,
       length: '3 volumes',
@@ -204,7 +204,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
       [{ text: 'Short story adaptation of ' }, { emLinkText: 'Final Fantasy III (1990)', emLinkUrl: '#entry-III-final-fantasy-iii-1990' }, { text: '. The book also contains short story adaptations of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ' and ' }, { emLinkText: 'Final Fantasy II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: '. Also known as ' }, { emText: 'Final Fantasy ~Memory of Heroes~' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Optional', 'Short Stories'],
+      tags: ['Short Stories'],
       subtitle: 'Book',
       profileUrl: 'https://web.archive.org/web/20160304093601/http://www.square-enix.co.jp/magazine/gamebooks/ff/ff123_novel_moh/',
       languages: [

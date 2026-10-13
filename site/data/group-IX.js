@@ -7,7 +7,7 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, narrativeOrder: 900, 
       'Zidane kidnaps princess Garnet as part of a ploy between nations at war in this medieval setting.',
     ],
     primary: {
-      mainline: true, tags: [],
+      tags: ['Mainline'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IX#Release', subtitleDate: 2016,
       languages: [
         { value: 'JA', native: true },
@@ -75,7 +75,7 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, narrativeOrder: 900, 
       [{ text: 'Vivi is a mysterious boy fished out of the ocean by Grandpa Quan, a gourmand trying to master the art of food. Once Grandpa Quan realizes Vivi is not food, he raises Vivi and teaches him about the world. Entry also found in our ' }, { emLinkText: 'Picture Books', emLinkUrl: '#entry-PB-final-fantasy-ix-picture-book-vivi-and-grandpas-memories-for-the-sky-2025' }, { text: ' series.' }],
     ],
     primary: {
-      tags: ['Optional', 'Tie-in', 'Picture Book'],
+      tags: ['Tie-in', 'Picture Book'],
       subtitle: 'Book',
       profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646094738',
       length: '48p',
