@@ -28,6 +28,9 @@ wikipedia.org (Information)
   - March 20, 2007 (North America)
   - "Official Final Fantasy XI webcomic. Written and drawn by Scott Ramsoomair."
 
+description* -- accessed 2026-10-13
+- Wikipedia calls it the "official" webcomic, but it is a 7-page promotional webcomic commissioned from an outside webcomic creator, not made by the game team (comparable to Penny Arcade's paid "Presents" comics); the entry description says "commissioned to promote" instead of "official", per the user (the commission is the user's account, not yet backed by a cited source)
+
 youtube.com (Information)
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20XI%20Adventure%20Log%20comic%20dub — comic dub* (results exist) — accessed 2026-10-08
 
