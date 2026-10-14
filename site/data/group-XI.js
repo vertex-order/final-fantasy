@@ -930,15 +930,15 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       [{ text: 'A replica script for the reading drama\'s stories of love and reunion across time and space: "Temple of the Heart\'s Secret" (a Star Sibyl story), "Girl of the Underworld" (an Aphmau story), "Blue Mage Blues" (a Blue Mage story), and "Memoirs of the Many-Headed Hydra -Memories of Heroes-" (a Hydra Squadron story). Released as 朗読劇 : 夢幻のウタイビト : 複製台本, also known as ' }, { emText: 'Reading Drama: Minstrel of Fantasies: Replica Script' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Tie-in', 'Novel'],
+      tags: ['Tie-in', 'Short Stories'],
       subtitle: 'Book',
-      helpWanted: true,
       length: '96p; B5',
+      profileUrl: 'https://store.kadokawa.co.jp/shop/g/g4942330370001/',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Minstrel of Fantasies: Replica Script', searchQualifier: 'novel' },
+        { key: 'book', name: 'Short Stories', paren: 'DuckDuckGo; Digital; Physical', jpTag: true, search: 'duckduckgo', searchTitle: '朗読劇 夢幻のウタイビト 複製台本' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Minstrel of Fantasies', searchSuffix: '', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
