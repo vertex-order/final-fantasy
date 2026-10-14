@@ -512,16 +512,18 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       versions: [
         {
           subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/King%27s_Knight#Remake', subtitleDate: 2017,
+          profileUrl: 'https://web.archive.org/web/20180123233012/https://www.finalfantasyxv.com/en/kingsknight/',
           languages: [
+            { value: 'EN', url: 'https://web.archive.org/web/20190227010228/https://itunes.apple.com/US/app/id1087305272?mt=8' },
             { value: '…?', tip: 'Unknown languages' },
           ],
           helpWanted: true,
           platforms: [
-            { key: 'android2', terminated: true },
-            { key: 'apple', terminated: true },
+            { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20171004061029/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.KingsKnightww' },
+            { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20190227010228/https://itunes.apple.com/US/app/id1087305272?mt=8' },
           ],
           versionDesc: [
-            [{ text: "This remake adds a new camera perspective and an orchestral version of the former's chiptune soundtrack. It also add 4 player multiplayer. Released as " }, { emText: "King's Knight: Wrath of the Dark Dragon" }, { text: ' and marketed as a direct tie-in with XV.' }],
+            [{ text: "A free-to-play mobile spin-off with a new story and world, a new battle system, an orchestral take on the chiptune soundtrack, and four-player co-op. Released as " }, { emText: "King's Knight: Wrath of the Dark Dragon" }, { text: ' and marketed as a direct tie-in with XV.' }],
           ],
         },
         {
@@ -529,13 +531,12 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
           languages: [
             { value: 'JA', native: true },
           ],
-          helpWanted: true,
           platforms: [
             { key: 'pc8801', paren: 'Physical; Japan Only' },
             { key: 'sharp-x1', paren: 'Physical; Japan Only' },
           ],
           versionDesc: [
-            [{ text: 'Released as ' }, { emText: "King's Knight Special" }, { text: '. Unclear whether this builds on the original Famicom release or carries over the improved graphics/audio from the MSX ' }, { emLinkText: 'Remaster (1986)', emLinkUrl: '#entry-XV-kings-knight-1986-x-remaster-1986' }, { text: '.' }],
+            [{ text: 'Released as ' }, { emText: "King's Knight Special" }, { text: ', an expanded edition: it keeps the sidebar of the MSX ' }, { emLinkText: 'Remaster (1986)', emLinkUrl: '#entry-XV-kings-knight-1986-x-remaster-1986' }, { text: ' and adds a labyrinth to every stage, new items and puzzles, and story scenes, making it more of an RPG than the Famicom original.' }],
           ],
         },
         {
