@@ -9,7 +9,7 @@ Multi-author anthology; entry has no `by` credit
 
 ## Editions (ISBN)
 
-ISBN 9784757745865 (ISBN10: 4757745869; NDL 978-4-7577-4586-5), Japanese "ファイナルファンタジー11アンソロジー短編集みんなで大冒険!!" (An Anthology of Short Stories: A Great Adventure for Everyone!), Enterbrain (ファミ通文庫 ; 843 [Special story]), 2009.2, 311 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
+ISBN 9784757745865 (ISBN10: 4757745869; NDL 978-4-7577-4586-5), Japanese "ファイナルファンタジー11アンソロジー短編集みんなで大冒険!!" (An Anthology of Short Stories: A Great Adventure for Everyone!), Enterbrain (ファミ通文庫 ; 843 [Special story]), 2009.2 per NDL (the author's own list gives the sale date January 30, 2009, which the entry uses), 311 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
 - Blurb: the first anthology of Final Fantasy XI novelizations
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757745865
 - goodreads: https://www.goodreads.com/book/show/77470246 — accessed 2026-10-09
@@ -38,7 +38,7 @@ plaza.harmonix.ne.jp (Information)
 - http://plaza.harmonix.ne.jp/~miyabi/list1001.html — series number*, sale dates — accessed 2026-10-12
   - The author's own book list; text pasted by user, not opened or archived
   - Book 29 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
-  - Sale dates on the page, not the entry's day-level dates: アンソロジー短編集　みんなで大冒険!! 2009-01-30
+  - Sale date: アンソロジー短編集　みんなで大冒険!! 2009-01-30 -- dates* (the entry's titleDate, chosen 2026-10-14 over NDL's month-only 2009.2, which is a catalog month)
   - Cross-check: ja.wikipedia (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB)): volume 29 shared by Kaneda, Minagawa and Uzu; this book's illustrators are the same three
   - Cross-check: The page lists it among the FF11 series books, between Message from Beyond 3 and Heartbeat of Xarcabard 1
 
@@ -52,6 +52,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 ## Decisions
 
+- No `by` credit, per the user 2026-10-14: a multi-author anthology (Hasegawa, Takadono, Taguchi) like the Crystal Chronicles anthologies; the authors stay in this file only
+- Date: the author's sale date 2009-01-30, not NDL's 2009.2 (user, 2026-10-14)
 - In the Final Fantasy XI Novels section, as Book 29
   - Numbered by position in the author's list, not printed; ja.wikipedia's volume 29 (Kaneda, Minagawa, Uzu) matches this book's three illustrators
   - Three authors (Hasegawa, Takadono Madoka, Taguchi Sennendō) per the author's page; still a numbered volume of the series
