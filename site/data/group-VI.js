@@ -133,7 +133,7 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, narrativeOrder: 600, 
   },
   {
     mediaType: 'Book', chronoOrder: 500, narrativeOrder: 500,
-    title: "Figaro's Wedding: Tales from Desert", titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Figaro_no_Kekkon:_Tales_from_Desert', titleDate: '1994',
+    title: "Figaro's Wedding: Tales from Desert", titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Figaro_no_Kekkon:_Tales_from_Desert', titleDate: '1994-12',
     by: 'Kaori Tanaka',
     mediaDesc: [
       [
@@ -145,20 +145,14 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, narrativeOrder: 600, 
     primary: {
       tags: ['Fan-made', 'Short Stories', 'Doujinshi'],
       subtitle: 'Book',
+      length: '42p; B5',
       languages: [
         { value: 'JA', native: true },
       ],
-      helpWanted: true,
       platforms: [
-        { key: 'book', name: 'Doujinshi', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy VI Figaro No Kekkon Figaro's Wedding: Tales from Desert", searchQualifier: 'doujinshi' },
+        { key: 'book', name: 'Doujinshi', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'フィガロの結婚 tales from desert', searchQualifier: '田中香' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: "Final Fantasy VI Figaro No Kekkon Figaro's Wedding: Tales from Desert", noResults: true },
-        {
-          key: 'fan-recap',
-          paren: 'Youtube',
-          search: 'youtube',
-          searchTitle: "Final Fantasy VI Figaro No Kekkon Figaro's Wedding: Tales from Desert",
-          noResults: true,
-        },
+        { key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Figaro_no_Kekkon:_Tales_from_Desert#Events' },
         {
           key: 'fan-audiobook',
           search: 'youtube',
