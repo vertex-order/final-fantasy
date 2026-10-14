@@ -337,17 +337,16 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
   },
   {
     mediaType: 'Comic', chronoOrder: 7800, narrativeOrder: 876,
-    title: 'Final Fantasy XIV 14-Koma', titleUrl: 'https://www.goodreads.com/book/show/72126545-xiv', titleDate: '2019-12-20',
+    title: 'Final Fantasy XIV 14-Koma', titleUrl: 'https://www.goodreads.com/book/show/72126545-xiv', titleDate: { start: '2013-09', end: '2019-10' },
     by: 'Fumio Minagawa',
     mediaDesc: [
-      'A collection of four-panel (4-koma) comics for XIV. Released as ファイナルファンタジー14じゅうよんコマ (Juyon Koma, a pun on the four-panel format and the number 14).',
+      [{ text: 'A four-panel (4-koma) comic series for ' }, { emLinkText: 'XIV: A Realm Reborn (2013)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-a-realm-reborn-2013' }, { text: ', originally serialized in Weekly Famitsu and collected in one volume. Released as ファイナルファンタジーXIV じゅうよんコマ (Juyon Koma, a pun on the four-panel format and the number 14).' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
-      profileUrl: 'https://store.kadokawa.co.jp/shop/g/g321910001212/',
-      length: '127p',
-      helpWanted: true,
+      profileUrl: 'https://www.kadokawa.co.jp/product/321910001212/',
+      length: '128p; A5',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/72126545-xiv' },
       ],
@@ -355,7 +354,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/72126545-xiv', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XIV 14-Koma', searchQualifier: 'manga' },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'ファイナルファンタジーXIV じゅうよんコマ' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XIV 14-Koma', noResults: true },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV 14-Koma', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV 14-Koma', noResults: true },

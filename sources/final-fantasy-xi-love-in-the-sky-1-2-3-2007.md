@@ -71,7 +71,7 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Every item is FFXI work from 2004-2018, so those comics are FFXI manga, but none can be named; no entries added
 - [NDL 029349645](https://ndlsearch.ndl.go.jp/books/R100000002-I029349645) — no contents — empty
 - NDL "same author" list — ファイナルファンタジー14じゅうよんコマ (FINAL FANTASY XIV 4-koma, 皆川史生 漫画, KADOKAWA Game Likage, 2019.12) — dup
-  - A separate XIV manga, postdates this book; placeholder entry in the XIV group (`sources/final-fantasy-xiv-14-koma-2019.md`)
+  - A separate XIV manga, postdates this book; placeholder entry in the XIV group (`sources/final-fantasy-xiv-14-koma-2013.md`)
 - Manga 恋の空蝉 (Koi no Utsusemi, "Love in the Sky 1·2·3!") in ヴァナ・ディール通信 — mine: the primary work of this entry; page count and plot not yet found
   - A complete short series, reprinted in chapter 4 of the 2018 book
   - Mentioned on bg-wiki's Books page under the 5th Anniversary Memoirs supplement
