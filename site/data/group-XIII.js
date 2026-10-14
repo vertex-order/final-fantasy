@@ -600,9 +600,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       length: '286p; P',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/102911659' },
-        { value: '…?' },
       ],
-      helpWanted: true,
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/102911659', key: 'goodreads' },
       ],

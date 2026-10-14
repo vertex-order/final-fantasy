@@ -147,7 +147,6 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, narrativeOrder: 600, 
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true },
-        { value: '…?' },
       ],
       helpWanted: true,
       platforms: [

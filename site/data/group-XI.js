@@ -185,11 +185,9 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     primary: {
       tags: ['Prequel', 'Alternate Universe', 'Manhwa', 'Incomplete'],
       subtitle: 'Comic',
-      helpWanted: true,
       length: '3 issues',
       languages: [
         { value: 'JA', native: true },
-        { value: '…?' },
       ],
       platforms: [
         { key: 'book', name: 'Manhwa', jpTag: true, url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~#External_links' },
@@ -240,10 +238,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       tags: ['Manga'],
       subtitle: 'Comic',
       length: '2 volumes',
-      helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/78009261' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/78009261', key: 'goodreads' },
@@ -384,10 +380,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       tags: ['Light Novel'],
       subtitle: 'Book',
       length: '318p; A6',
-      helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77099305' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77099305', key: 'goodreads' },
@@ -412,10 +406,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       tags: ['Light Novel'],
       subtitle: 'Book',
       length: '2 volumes',
-      helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77131146' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77131146', key: 'goodreads' },
@@ -440,10 +432,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       tags: ['Light Novel'],
       subtitle: 'Book',
       length: '2 volumes',
-      helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77686446' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77686446', key: 'goodreads' },
@@ -467,11 +457,9 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      helpWanted: true,
       length: '287p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77163778' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77163778', key: 'goodreads' },
@@ -495,11 +483,9 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      helpWanted: true,
       length: '3 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77185190' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77185190', key: 'goodreads' },
@@ -524,10 +510,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       tags: ['Light Novel'],
       subtitle: 'Book',
       length: '2 volumes',
-      helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77250550' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77250550', key: 'goodreads' },
@@ -574,10 +558,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       tags: ['Light Novel'],
       subtitle: 'Book',
       length: '284p; A6',
-      helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/51275414' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/51275414', key: 'goodreads' },
@@ -602,10 +584,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       tags: ['Light Novel'],
       subtitle: 'Book',
       length: '254p; A6',
-      helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77698241' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77698241', key: 'goodreads' },
@@ -630,10 +610,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       tags: ['Light Novel'],
       subtitle: 'Book',
       length: '287p; A6',
-      helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77709037' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77709037', key: 'goodreads' },
@@ -657,11 +635,9 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      helpWanted: true,
       length: '313p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77438179' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77438179', key: 'goodreads' },
@@ -685,11 +661,9 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      helpWanted: true,
       length: '3 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77778217' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77778217', key: 'goodreads' },
@@ -716,7 +690,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: '311p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77470246' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77470246', key: 'goodreads' },
@@ -740,11 +713,9 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      helpWanted: true,
       length: '3 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77328971' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77328971', key: 'goodreads' },
@@ -767,11 +738,9 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     primary: {
       tags: ['Novel'],
       subtitle: 'Book',
-      helpWanted: true,
       length: '287p; B6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/69235773' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/69235773', key: 'goodreads' },
@@ -787,6 +756,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
   {
     mediaType: 'Comic', chronoOrder: 5150, narrativeOrder: 642, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Love in the Sky 1·2·3!~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Misc', titleDate: '2007-06',
+    by: 'Fumio Minagawa',
     mediaDesc: [
       [{ text: 'A short manga for ' }, { emText: 'XI' }, { text: ", released as 恋の空蝉1・2・3! (Koi no Utsusemi). Serialized in the Vana'diel Communications mook; the earliest known printing is the June 2007 Vana'diel Memoirs special appendix." }],
     ],
@@ -797,7 +767,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       helpWanted: true,
       languages: [
         { value: 'JA', native: true },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', key: 'goodreads' },
@@ -814,7 +783,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
           languages: [
             { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/58665646' },
           ],
-          helpWanted: true,
           platforms: [
             { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Minagawa Fumio Illustrations', searchQualifier: 'manga' },
           ],
@@ -883,7 +851,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       helpWanted: true,
       languages: [
         { value: 'JA', native: true },
-        { value: '…?' },
       ],
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true },
@@ -904,7 +871,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       helpWanted: true,
       languages: [
         { value: 'JA', native: true },
-        { value: '…?' },
       ],
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true },
@@ -946,7 +912,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: '96p; B5',
       languages: [
         { value: 'JA', native: true },
-        { value: '…?' },
       ],
       platforms: [
         { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Minstrel of Strange Tales: Replica Script', searchQualifier: 'novel' },
@@ -969,7 +934,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: '96p; B5',
       languages: [
         { value: 'JA', native: true },
-        { value: '…?' },
       ],
       platforms: [
         { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Minstrel of Fantasies: Replica Script', searchQualifier: 'novel' },

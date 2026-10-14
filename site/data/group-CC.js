@@ -80,9 +80,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       profileUrl: 'http://web.archive.org/web/20210411175537/https://www.ganganonline.com/contents/ffcc/',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77128941' },
-        { value: '…?' },
       ],
-      helpWanted: true,
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77128941', key: 'goodreads' },
       ],
@@ -104,11 +102,9 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
     primary: {
       tags: ['Prequel', 'Novel'],
       subtitle: 'Book',
-      helpWanted: true,
       length: '351p; P',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77092424' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77092424', key: 'goodreads' },
@@ -134,7 +130,6 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77600584' },
-        { value: '…?' },
       ],
       profileUrl: 'https://magazine.jp.square-enix.com/top/comics/detail/9784757511224/',
       ratings: [
@@ -246,9 +241,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
-        { value: '…?' },
       ],
-      helpWanted: true,
       ratings: [
         { score: '77', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-ring-of-fates/', key: 'metacritic' },
         { score: '7.2', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-ring-of-fates/', key: 'metacritic-user' },

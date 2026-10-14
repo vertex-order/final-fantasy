@@ -75,7 +75,6 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       tags: ['Audio drama', 'Serial'],
       subtitle: 'Audio Drama',
       length: '10 episodes',
-      helpWanted: true,
       languages: [
         { value: 'JA', native: true },
       ],
@@ -99,10 +98,8 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       tags: ['Light Novel'],
       subtitle: 'Book',
       length: '242p; P',
-      helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/76924204' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/76924204', key: 'goodreads' },
@@ -125,11 +122,9 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
     primary: {
       tags: ['Essential', 'Sequel', 'Manga', 'Script'],
       subtitle: 'Comic',
-      helpWanted: true,
       length: '32p comic, 120p script',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77412483' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77412483', key: 'goodreads' },
@@ -175,11 +170,9 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
     primary: {
       tags: ['Essential', 'Sequel', 'Audio drama'],
       subtitle: 'Audio Drama',
-      helpWanted: true,
       length: '39:48',
       languages: [
         { value: 'JA', native: true },
-        { value: '…?' },
       ],
       platforms: [
         { key: 'compact-disc', jpTag: true },
@@ -198,11 +191,9 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
     primary: {
       tags: ['Prequel', 'Drama'],
       subtitle: 'Audio Drama',
-      helpWanted: true,
       length: '~18min',
       languages: [
         { value: 'JA', native: true },
-        { value: '…?' },
       ],
       platforms: [
         { key: 'compact-disc', jpTag: true },

@@ -239,11 +239,9 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
     primary: {
       tags: ['Novel'],
       subtitle: 'Book',
-      helpWanted: true,
       length: [{ value: '2 volumes' }],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/50286956' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/50286956', key: 'goodreads' },
@@ -411,7 +409,6 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
       helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77476002' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77476002', key: 'goodreads' },

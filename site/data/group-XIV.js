@@ -217,9 +217,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       length: '296p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/85601685' },
-        { value: '…?' },
       ],
-      helpWanted: true,
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/85601685', key: 'goodreads' },
       ],
@@ -352,7 +350,6 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/72126545-xiv' },
-        { value: '…?' },
       ],
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/72126545-xiv', key: 'goodreads' },
@@ -396,9 +393,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
         length: '339p; P',
         languages: [
           { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/71627236' },
-          { value: '…?' },
         ],
-        helpWanted: true,
         ratings: [
           { score: 'NYR', url: 'https://www.goodreads.com/book/show/71627236', key: 'goodreads' },
         ],
