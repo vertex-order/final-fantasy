@@ -46,6 +46,9 @@ magazine.jp.square-enix.com (Publisher, Japanese; Wayback only)
 breezewiki.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits (Takashi Umemura), dates (October 31, 2012 — **differs** from the entries' titleDate of 2012-10-25, to recheck), ISBN 978-4-7575-3775-0; the table row, and the book has a dedicated page (already cited above) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
 
+finalfancast.com (Information, secondary: a podcast's book list, not a primary source)
+- https://finalfancast.com/category/games/final-fantasy-ii/ -- accessed 2026-10-14 -- lists "Final Fantasy I * I * III: Memory of Heroes, by Takashi Umemura; novella collection, pub.: 10/25/2012, Square Enix (JP); 8/18/2020, Yen On (EN)" -- corroborates the credit, the collection, and the Yen On English edition (August 18, 2020); CONFLICTS on the Japanese date: October 25, 2012 against the entry's 2012-10-31; unresolved
+
 ## Surveyed
 
 - [Fandom – Memory of Heroes](https://finalfantasy.fandom.com/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes) — see above — used

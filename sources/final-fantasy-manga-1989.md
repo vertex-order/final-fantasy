@@ -34,6 +34,9 @@ marathonrecaps.wordpress.com (Information)
   - States the manga was released in a single book on December 30, 1989, with seemingly no serialized run (no source given)
   - Used as the recap link because no manga-specific recap was otherwise found (the other recap is a Final Fantasy (1987) game recap)
 
+finalfancast.com (Information, secondary: a podcast's book list, not a primary source)
+- https://finalfancast.com/category/games/final-fantasy-ii/ -- accessed 2026-10-14 -- lists "Komikku-Ban Final Fantasy (Final Fantasy Comic Version), by Yuu Kaimeiji; manga, 12/1/1989, pub.: Takarajimasha, Inc." on its Final Fantasy II page -- corroborates the credit and December 1989; the day differs from this entry's December 30, 1989; may be this entry or the Final Fantasy II ~Manga~ entry, unresolved
+
 ## Surveyed
 
 - [Fandom – Final Fantasy (manga)](https://finalfantasy.fandom.com/wiki/Final_Fantasy_(manga)) — see above — used

@@ -198,6 +198,28 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     },
   },
   {
+    mediaType: 'Book', chronoOrder: 610, narrativeOrder: 405,
+    title: 'Final Fantasy II: Battle to the Death with General Borghen!', titleUrl: 'https://finalfancast.com/category/games/final-fantasy-ii/', titleDate: '1988-01-13',
+    by: 'Ryūji Kōsaku and Hiroyuki Fukuda',
+    mediaDesc: [
+      'A gamebook set in the world of Final Fantasy II. Released as ファイナルファンタジーII 将軍ボーゲンとの死闘！ (Final Fantasy II Shōgun Bōgen to no Shitō!).',
+    ],
+    primary: {
+      tags: ['Gamebook'],
+      subtitle: 'Book',
+      length: '…?',
+      helpWanted: true,
+      languages: [
+        { value: 'JA', native: true },
+      ],
+      platforms: [
+        { key: 'book', name: 'Gamebook', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy II Shōgun Bōgen to no Shitō', searchQualifier: 'gamebook' },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy II Shōgun Bōgen to no Shitō', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
+      ],
+    },
+  },
+  {
     mediaType: 'Book', chronoOrder: 620, narrativeOrder: 410,
     title: 'Final Fantasy II: Dragon Treasures', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Hih%C5%8D_no_Dragon', titleDate: '1988-12',
     by: 'Naomi Inoue',

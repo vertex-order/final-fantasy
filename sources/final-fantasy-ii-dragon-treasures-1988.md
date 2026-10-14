@@ -17,6 +17,11 @@
 
 - https://www.goodreads.com/book/show/102713430
 
+## Sources
+
+finalfancast.com (Information, secondary: a podcast's book list, not a primary source)
+- https://finalfancast.com/category/games/final-fantasy-ii/ -- accessed 2026-10-14 -- lists "Final Fantasy II Hihō no Doragon (Final Fantasy II: Dragon of the Hidden Treasure), by Naomi Inoue; gamebook, pub.: 12/1/1988, Futabasha Publishers Ltd." -- corroborates the credit (Naomi Inoue) and the month; adds the day (1988-12-01), not yet in the entry date
+
 ## Decisions
 
 ## Surveyed

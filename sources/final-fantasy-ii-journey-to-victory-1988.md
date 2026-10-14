@@ -45,6 +45,9 @@ wikiwiki.jp (Information, description)
 duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20II%20Sh%C5%8Dri%20e%20no%20Tabidachi%20translation -- fan-translation search (no results yet)
 
+finalfancast.com (Information, secondary: a podcast's book list, not a primary source)
+- https://finalfancast.com/category/games/final-fantasy-ii/ -- accessed 2026-10-14 -- lists "Final Fantasy II Shōri e no Tabidachi (Final Fantasy II: Journey to Victory), by Naoko Uehara; gamebook, pub.: 12/31/1988, Tokuma Shoten" -- corroborates the date (1988-12-31); CONFLICTS on the writer: it credits Naoko Uehara (上原尚子), whom tradersguild names as the editor, against wikiwiki's Tatsumi Yamashita; `by` is unresolved
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

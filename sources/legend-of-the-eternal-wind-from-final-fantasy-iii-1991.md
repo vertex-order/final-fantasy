@@ -43,6 +43,9 @@ mangadex.org (Information)
 trafalgarlog.wordpress.com (Information)
 - https://trafalgarlog.wordpress.com/projects/ — the translation group TrafalgarScans' list of Japanese-to-English projects; this manga ("FF III Manga - Legend of the Eternal Wind: From Final Fantasy III") is on it — accessed 2026-10-10 — archived: TODO
 
+finalfancast.com (Information, secondary: a podcast's book list, not a primary source)
+- https://finalfancast.com/category/games/final-fantasy-ii/ -- accessed 2026-10-14 -- lists "Yūkyū no Kaze Densetsu Final Fantasy III Yori (Legend of the Eternal Wind: from Final Fantasy III), by Kenji Terada and Yuu Kunitani; manga, pub.: 1991-1993, Kadokawa Shoten" -- corroborates the writer and the 1991 start; spells the artist "Kunitani" where the entry has "Kinutani" (check the 衣谷 reading); adds an end of 1993
+
 ## Surveyed
 
 - [Fandom – Legend of the Eternal Wind](https://finalfantasy.fandom.com/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori) — see above — used

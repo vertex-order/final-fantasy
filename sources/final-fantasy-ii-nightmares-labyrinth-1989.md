@@ -30,6 +30,9 @@ goodreads.com (Ratings)
 goodreads.com (Information)
 - https://www.goodreads.com/book/show/77954969 -- format* (Paperback Bunko, Kadokawa Shoten, "Kadokawa Bunko - Sneaker Bunko" (1989), listed as "Labyrinth of Nightmare - 2": the Sneaker Bunko imprint is a light-novel line, so the platform is Light Novel) -- accessed 2026-10-09
 
+finalfancast.com (Information, secondary: a podcast's book list, not a primary source)
+- https://finalfancast.com/category/games/final-fantasy-ii/ -- accessed 2026-10-14 -- lists "Final Fantasy II Muma no Meikyū (Final Fantasy II: Labyrinth of Nightmares), by Kenji Terada; novel, pub.: 4/1/1989, Kadokawa Shoten" -- corroborates the credit; CONFLICTS on the date: April 1, 1989 against the entry's March 20, 1989 (Wikipedia); unresolved
+
 ## Surveyed
 
 - [Fandom – Nightmare's Labyrinth](https://finalfantasy.fandom.com/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB) — see above — used
