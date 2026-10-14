@@ -59,8 +59,8 @@ value, ours, and why, so the corrections can be reported upstream.
 
 - Page: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi
 - Says: no author listed.
-- Probably: add the author; the candidates conflict (Tatsumi Yamashita per
-  wikiwiki.jp, Naoko Uehara per a podcast list and a retailer's editor credit).
+- Probably: add the author, Naoko Uehara (上原尚子), per a podcast list and a
+  retailer's editor credit; wikiwiki.jp names Tatsumi Yamashita instead.
 - Our source: [final-fantasy-ii-journey-to-victory-1988.md](../sources/final-fantasy-ii-journey-to-victory-1988.md)
-- Reason: the credit itself is still unresolved, so report it only once
-  settled.
+- Reason: no primary catalog names a writer, so report it only after a
+  primary record is found.

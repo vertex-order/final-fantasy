@@ -5,16 +5,18 @@
 
 ## Author
 
-山下辰巳 (Tatsumi Yamashita) -- plain `by` -- per wikiwiki.jp; the fandom page lists no author
+上原尚子 (Naoko Uehara) -- plain `by` -- per finalfancast.com (secondary: credits her as author); tradersguild names 上原尚子 as 編集 (editor) and the retail records credit the Famimaga editorial department, so she is the credited editor-author of the Famimaga team's book
+- wikiwiki.jp credits 山下辰巳 (Tatsumi Yamashita) as author instead; it is the only source naming him (a fan wiki last edited 2009), so the entry follows the two sources that agree on Uehara
+- The fandom page lists no author
 
 ## Editions (ISBN)
 
-ファイナルファンタジーII 勝利への旅立ち -- ISBN 9784194738345 (ISBN10: 4194738349), Japanese, Tokuma Shoten (Famimaga Gamebook series), 1988, gamebook -- per fandom (ISBN10 given there; the ISBN-13 is converted) and Amazon.co.jp (271 pages, Paperback Bunko, December 1, 1988, Famimaga Gamebook Series No. 2), corroborated by 日本の古本屋 (271p, 15cm A6, 1988.12.31), Book Off (1988/12/31), a Mercari listing quoting the colophon (初版発行 1988年12月31日) and Rakuten Books (12/01 "頃", approximate) -- date (1988-12-31)*, length (271p;A6)*, JA language*
+ファイナルファンタジーII 勝利への旅立ち -- ISBN 9784194738345 (ISBN10: 4194738349), Japanese, Tokuma Shoten (Famimaga Gamebook series), 1988, gamebook -- per fandom (ISBN10 given there; the ISBN-13 is converted) and Amazon.co.jp (271 pages, Paperback Bunko, December 1, 1988, Famimaga Gamebook Series No. 2), corroborated by 日本の古本屋 (271p, 15cm A6, 1988.12.31), Book Off (1988/12/31), a Mercari listing quoting the colophon (初版発行 1988年12月31日) and Rakuten Books (12/01 "頃", approximate) -- date (1988-12-31)*, length (271p; A6)*, JA language*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784194738345
 - goodreads: https://www.goodreads.com/search?q=9784194738345 -- accessed 2026-10-14, no results
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784194738345 -- accessed 2026-10-14, no results
 - open library: https://openlibrary.org/search?isbn=9784194738345 -- accessed 2026-10-14, no results
-- NDL: https://ndlsearch.ndl.go.jp/search?cs=bib&keyword=9784194738345 -- accessed 2026-10-14, no results (the ISBN-10 or title search is untried)
+- NDL: https://ndlsearch.ndl.go.jp/search?cs=bib&keyword=9784194738345 -- accessed 2026-10-14, no results; the ISBN-10 (4194738349) and the title searches also returned nothing, so NDL has no record of this book
 - amazon.co.jp: https://www.amazon.co.jp/dp/4194738349 -- accessed 2026-10-14 -- length*, format; date December 1, 1988 (retailer date, superseded below) -- titled ファイナルファンタジー2: 勝利への旅立ち (ファミマガゲームブックシリーズ No. 2), 271 pages, Paperback Bunko (bunko is the A6 size class), Tokuma Shoten, December 1, 1988; credited to ファミリーコンピュータMagazine編 (Editor), which is the magazine's editorial credit and not the writer, so `by` stays Yamashita per wikiwiki.jp
 - kosho.or.jp: https://www.kosho.or.jp/products/catalog_detail.php?nh_id=4620494 -- accessed 2026-10-14 -- length*, date*, format* -- 271p, 15cm (A6), release 1988.12.31, ISBN 4194738349, editor ファミリーコンピュータMagazine編集部
 - rakuten books: https://books.rakuten.co.jp/search?sitem=4194738349 -- accessed 2026-10-14 -- 1988年12月01日頃 (approximate, "around"), 新書 format, 462 yen, ISBN 9784194738345; the 12/01 is an approximation and loses to the colophon date
@@ -53,7 +55,7 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
 
 - Resolved 2026-10-14: length and date, corroborated beyond Amazon; `helpWanted` removed. Date chosen as the colophon's 12/31 (three independent sources) over the retailers' 12/01 -- mine
-- Credit: only wikiwiki.jp names Yamashita as the writer; the retail records credit the Famimaga editorial department (editor 上原尚子 per tradersguild); `by` stays Yamashita, single-source -- mine
+- Credit: switched 2026-10-14 from Tatsumi Yamashita (wikiwiki.jp only) to Naoko Uehara (finalfancast.com and tradersguild); still no primary catalog names a writer, so this stays secondary -- mine
 - [Fandom -- Journey to Victory](https://finalfantasy.fandom.com/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi) -- used
   - [breezewiki mirror](https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi) -- dup
 
