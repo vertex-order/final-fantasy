@@ -38,4 +38,6 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
 - [Fandom – Nightmare's Labyrinth](https://finalfantasy.fandom.com/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB) — see above — used
   - [breezewiki mirror](https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB) — dup
 
+- https://ndlsearch.ndl.go.jp/search?cs=bib&keyword=ファイナルファンタジーⅡ -- date -- accessed 2026-10-14 (results pasted by user): the NDL search for the Roman-numeral title lists ファイナルファンタジーⅡ : 夢魔の迷宮 (角川文庫), 寺田憲史 [著], 角川書店, **1989.4** (call number KH613-E58, with a digital copy); NDL's month is April, which agrees with the podcast's 4/1/1989 and not with Wikipedia's March 20, 1989 (the entry's date); NDL's month has trailed the publisher's in several other records and the podcast is unreliable for dates, so the conflict stays unresolved
+
 ## Decisions
