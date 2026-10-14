@@ -20,6 +20,8 @@ bg-wiki.com (Information)
 ja.wikipedia.org (Information)
 - https://ja.wikipedia.org/wiki/電撃の旅団 -- by* -- accessed 2026-10-13 -- section "その他" (Other) lists 電撃・えふえふいれぶん・4コマ・マンガ No.1 and No.2, 電撃4コマ インターナショナル 〜ヴァナ･ディールで使える英単語/英会話〜 and 獣の花道 FFXI・電撃の旅団外伝 Vol.1 and Vol.2, each as 著作: 江本 聖 (Hijiri Emoto per the NDL authority reading); the page carries a no-sources notice, so it only confirms the credit
 
+- KADOKAWA search https://www.kadokawa.co.jp/product/search/?kw=ファイナルファンタジーXI+4コマ -- dates* (2004-08-27, the entry's titleDate, replacing bg-wiki's 2004-09), credits (電撃プレイステーション編集部 and 江本聖), 1,572 yen incl. tax -- accessed 2026-10-14 (results pasted by user)
+
 ## Decisions
 
 - Placeholder entry (`helpWanted`): description, credits, languages and links to confirm

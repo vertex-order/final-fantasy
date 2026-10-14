@@ -817,7 +817,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
   },
   {
     mediaType: 'Comic', chronoOrder: 5070, narrativeOrder: 637, narrativeSection: 'Main',
-    title: 'Final Fantasy XI ~Dengeki 4-Koma International~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: '2004-09',
+    title: 'Final Fantasy XI ~Dengeki 4-Koma International~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: '2004-08-27',
     by: 'Hijiri Emoto',
     mediaDesc: [
       [{ text: 'English-language four-panel comics about ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ", with Japanese translations, plus English vocabulary and phrases for Vana'diel. Released as 電撃4コマインターナショナル ヴァナ・ディールで使える英単語/英会話." }],
@@ -839,20 +839,23 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
   },
   {
     mediaType: 'Comic', chronoOrder: 5075, narrativeOrder: 638, narrativeSection: 'Main',
-    title: 'Final Fantasy XI ~4-Panel Anthology Comic~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma_-_Bros', titleDate: { start: '2004-10', end: '2006-03' },
+    title: 'Final Fantasy XI ~4-Panel Anthology Comic~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma_-_Bros', titleDate: { start: '2004-09-25', end: '2006-02-25' },
     mediaDesc: [
-      [{ text: 'An anthology of four-panel comics by many artists about daily life in the world of ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '. Released as 4コマアンソロジーコミック.' }],
+      [{ text: 'An anthology of four-panel comics by many artists about daily life in the world of ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '. Released as ファイナルファンタジーXI 4コマアンソロジーコミック.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '10 volumes',
-      helpWanted: true,
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%204%E3%82%B3%E3%83%9E',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/search?q=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%204%E3%82%B3%E3%83%9E' },
+      ],
+      ratings: [
+        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77545544', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'ファイナルファンタジーXI 4コマアンソロジーコミック' },
       ],
     },
   },
