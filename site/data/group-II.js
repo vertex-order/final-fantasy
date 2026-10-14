@@ -223,10 +223,10 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
   },
   {
     mediaType: 'Book', chronoOrder: 630, narrativeOrder: 415,
-    title: 'Final Fantasy II: Journey to Victory', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi', titleDate: '1988-12-01',
+    title: 'Final Fantasy II: Journey to Victory', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi', titleDate: '1988-12-31',
     by: 'Tatsumi Yamashita',
     mediaDesc: [
-      [{ text: 'A gamebook telling a side story set during the events of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ' and starring a young rebel as its protagonist. Released as ファイナルファンタジーII 勝利への旅立ち (Final Fantasy II Shōri e no Tabidachi).' }],
+      [{ text: 'A gamebook telling a side story set just before the main events of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ' and starring Mid, an original character who joins the rebel army. Released as ファイナルファンタジーII 勝利への旅立ち (Final Fantasy II Shōri e no Tabidachi).' }],
     ],
     primary: {
       tags: ['Gamebook'],
