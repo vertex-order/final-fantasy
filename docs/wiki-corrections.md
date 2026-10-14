@@ -44,6 +44,14 @@ value, ours, and why, so the corrections can be reported upstream.
   Japanese Wikipedia, KADOKAWA and Amazon.co.jp all print the same
   characters.
 
+### Goodreads: Beast's Path (獣の花道) Vol.1 (author)
+
+- Page: https://www.goodreads.com/book/show/77246831 (獣の花道Vol.1 FFXI・電撃の旅団外伝, ISBN 9784840238144; a community-edited catalog, not a wiki).
+- Says: author "Satoshi Emoto".
+- Should be: Hijiri Emoto (江本 聖).
+- Our source: [final-fantasy-xi-the-beasts-path-2007.md](../sources/final-fantasy-xi-the-beasts-path-2007.md)
+- Backed by: the NDL authority record reads 江本聖 as エモト ヒジリ for both volumes (Vol.2 on Goodreads already says Hijiri Emoto).
+
 ## Candidates
 
 ### Square Enix Magazine & Book (Final Fantasy XII manga volume dates)

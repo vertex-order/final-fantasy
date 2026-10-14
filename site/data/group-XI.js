@@ -861,21 +861,24 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
   },
   {
     mediaType: 'Comic', chronoOrder: 5080, narrativeOrder: 639, narrativeSection: 'Main',
-    title: "Final Fantasy XI ~The Beast's Path~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: '2007-03',
+    title: "Final Fantasy XI ~The Beast's Path~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: '2007-03-09',
     by: 'Hijiri Emoto',
     mediaDesc: [
-      [{ text: "A story four-panel comic following the Tarutaru Oru and his companions through a relaxed adventuring life in Vana'diel, across 27 chapters. Released as 獣の花道 FFXI・電撃の旅団外伝." }],
+      [{ text: "A story four-panel comic following the Tarutaru Oru and his companions through a relaxed adventuring life in Vana'diel. Released as 獣の花道 FFXI・電撃の旅団外伝." }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '2 volumes',
-      helpWanted: true,
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E7%8D%A3%E3%81%AE%E8%8A%B1%E9%81%93',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/search?q=%E7%8D%A3%E3%81%AE%E8%8A%B1%E9%81%93' },
+      ],
+      ratings: [
+        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77246831', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', jpTag: true, url: 'https://www.goodreads.com/search?q=%E7%8D%A3%E3%81%AE%E8%8A%B1%E9%81%93' },
       ],
     },
   },
