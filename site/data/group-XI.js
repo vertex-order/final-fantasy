@@ -851,6 +851,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
   {
     mediaType: 'Comic', chronoOrder: 5070, narrativeOrder: 637, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Dengeki 4-Koma International~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: '2004-09',
+    by: 'Hijiri Emoto',
     mediaDesc: [
       [{ text: 'English-language four-panel comics about ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ", with Japanese translations, plus English vocabulary and phrases for Vana'diel. Released as 電撃4コマインターナショナル ヴァナ・ディールで使える英単語/英会話." }],
     ],
@@ -892,6 +893,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
   {
     mediaType: 'Comic', chronoOrder: 5080, narrativeOrder: 639, narrativeSection: 'Main',
     title: "Final Fantasy XI ~The Beast's Path~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: '2007-03',
+    by: 'Hijiri Emoto',
     mediaDesc: [
       [{ text: "A story four-panel comic following the Tarutaru Oru and his companions through a relaxed adventuring life in Vana'diel, across 27 chapters. Released as 獣の花道 FFXI・電撃の旅団外伝." }],
     ],

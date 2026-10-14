@@ -78,6 +78,9 @@ bg-wiki.com (Information)
   - NO.1 Japanese 電撃の旅団編 : えふえふいれぶん・4コマ・マンガNo.1; English "Lightning Brigade Edition : FFEleven · 4-Panel Manga No.1"; NDL 000004360633; 2004.03; 1000 yen; 257p;B6; notes: 312 four-panel comics, new material added to the Dengeki PlayStation series, from the start of the service to the Brigade's journey, plus feature articles ("Brigade Member Encyclopedia", job macros)
   - NO.2 Japanese 電撃の旅団編 : えふえふいれぶん・4コマ・マンガ : no.2; English "Lightning Brigade Edition : FFEleven · 4-Panel Manga No.2"; NDL 000008490843; 2007.04; 1300 yen; 353p;B6; notes: "packed with hundreds of more four-panel comics"
 
+ja.wikipedia.org (Information)
+- https://ja.wikipedia.org/wiki/電撃の旅団 -- by* -- accessed 2026-10-13 -- section "その他" (Other) lists 電撃・えふえふいれぶん・4コマ・マンガ No.1 and No.2, 電撃4コマ インターナショナル 〜ヴァナ･ディールで使える英単語/英会話〜 and 獣の花道 FFXI・電撃の旅団外伝 Vol.1 and Vol.2, each as 著作: 江本 聖 (Hijiri Emoto per the NDL authority reading); the page carries a no-sources notice, so it only confirms the credit
+
 ## Decisions
 
 - No longer flagged `helpWanted`: both volumes looked up; credit, language and links are NO.1's

@@ -17,10 +17,13 @@
 bg-wiki.com (Information)
 - https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma — titleUrl*, dates*, length* — shallow: row noted while researching the Lightning Brigade Encyclopedia (2026-10-13), page not re-read
 
+ja.wikipedia.org (Information)
+- https://ja.wikipedia.org/wiki/電撃の旅団 -- by* -- accessed 2026-10-13 -- section "その他" (Other) lists 電撃・えふえふいれぶん・4コマ・マンガ No.1 and No.2, 電撃4コマ インターナショナル 〜ヴァナ･ディールで使える英単語/英会話〜 and 獣の花道 FFXI・電撃の旅団外伝 Vol.1 and Vol.2, each as 著作: 江本 聖 (Hijiri Emoto per the NDL authority reading); the page carries a no-sources notice, so it only confirms the credit
+
 ## Decisions
 
 - Placeholder entry (`helpWanted`): description, credits, languages and links to confirm
 - Title is our translation: "Dengeki 4-Koma International" for 電撃4コマインターナショナル
 - It is Final Fantasy XI strips (the subtitle and the Vana'diel vocabulary say so); 352 strips is gag-comic scale, but the English-learning material makes it half a language aid
-- Still to confirm: credits (likely the Brigade's artist, 江本 聖; not verified), languages, links
+- Credit 江本 聖 (Hijiri Emoto) confirmed by the ja.wikipedia 電撃の旅団 page (`by` added); still to confirm: languages, links
 - Added 2026-10-13 alongside the other Brigade four-panel books (see final-fantasy-xi-lightning-brigade-encyclopedia-2013.md)

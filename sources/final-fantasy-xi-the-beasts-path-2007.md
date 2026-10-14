@@ -20,6 +20,9 @@ bg-wiki.com (Information)
 - https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma — titleUrl*, dates*, length* — shallow: rows noted while researching the Lightning Brigade Encyclopedia (2026-10-13), page not re-read
   - Story four-panel comic following the Tarutaru "Oru" and his companions, 14 + 13 chapters
 
+ja.wikipedia.org (Information)
+- https://ja.wikipedia.org/wiki/電撃の旅団 -- by* -- accessed 2026-10-13 -- section "その他" (Other) lists 電撃・えふえふいれぶん・4コマ・マンガ No.1 and No.2, 電撃4コマ インターナショナル 〜ヴァナ･ディールで使える英単語/英会話〜 and 獣の花道 FFXI・電撃の旅団外伝 Vol.1 and Vol.2, each as 著作: 江本 聖 (Hijiri Emoto per the NDL authority reading); the page carries a no-sources notice, so it only confirms the credit
+
 ## Decisions
 
 - Placeholder entry (`helpWanted`): description, credits, languages and links to confirm
