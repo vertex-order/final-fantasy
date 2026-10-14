@@ -121,13 +121,12 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
     mediaType: 'Comic', chronoOrder: 700, narrativeOrder: 170,
     title: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga', titleDate: '2004-01-16',
     mediaDesc: [
-      [{ text: 'A 4-panel gag manga based on ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル4コママンガ劇場' }, { text: ', also known as ' }, { emText: 'Final Fantasy Crystal Chronicles: 4-Panel Manga Theater' }, { text: '.' }],
+      [{ text: 'A 4-panel gag manga anthology based on ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル4コママンガ劇場' }, { text: ', also known as ' }, { emText: 'Final Fantasy Crystal Chronicles: 4-Panel Manga Theater' }, { text: '.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '112p; A5',
-      helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77600584' },
       ],

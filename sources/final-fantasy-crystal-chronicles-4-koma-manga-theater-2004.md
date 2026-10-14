@@ -4,16 +4,18 @@
 
 ## Author
 
-No `by` credit yet: no author found.
+No `by` credit: it is an anthology by multiple artists (see below), so no single author applies.
 - https://magazine.jp.square-enix.com/top/comics/detail/9784757511224/: no author field — accessed 2026-10-11 (fetched)
 - https://www.goodreads.com/book/show/77600584: "Unknown Author" — accessed 2026-10-11 (page text pasted by user)
-- Likely a multi-artist anthology, like the Ring of Fates 4-koma book; not confirmed
+- A multi-artist anthology, confirmed 2026-10-14: the Japanese Wikipedia's hover text for "4コママンガ劇場" (the series article, text pasted by user, machine-translated) says "Four-frame Manga Theater" is a series of four-frame manga based on parody gags about video games and the like, "published in the form of an anthology by multiple artists from the 1990s to 2006", published by Square Enix (formerly Enix); so no single `by` credit applies
+- Colophon page (奥付) photographed by the user 2026-10-14 (seller photo from https://paypayfleamarket.yahoo.co.jp/item/z662130232, a PayPay Flea Market listing, which also gave the front cover image below): lists no artists, only the 編集 (editors) 安藤充謙, 松下正孝, 内野健志, 日浅浩民, 中川薫, 居場?? (partly cut off), 松崎武吏, 平本雄介, 菊池亜希子; 制作 (production) 田口浩司; ©2003 THE GAME DESIGNERS STUDIO, INC.; "CHARACTER DESIGN/Toshiyuki Itahana"; the facing page is a call for reader submissions (4-koma or short stories, 3 pages or 6 pages minimum, to the "4コママンガ劇場" desk at Square Enix's publishing division), and a fan-letter slip to write in a favourite artist's name -- both point to an anthology of many artists, but no page states it, and the strips' own signatures were not seen
+- Front cover image provided by the user 2026-10-14 (seller photo): the title ファイナルファンタジー・クリスタルクロニクル 4コママンガ劇場 over art of the four tribes (Clavat, Selkie, Lilty, Yuke) and a moogle; no artist or author credit appears on the front, so the credit would be on the back cover or the colophon (奥付)
 
 ## Editions (ISBN)
 
 Per-book record, one book per label.
 
-ISBN 9784757511224 (ISBN10: 4757511221), Japanese, Square Enix, January 16, 2004, A5, 681 yen incl. tax — per publisher and goodreads — JA language link*, book platform*, dates*, profile*
+ISBN 9784757511224 (ISBN10: 4757511221), Japanese, Square Enix, January 16, 2004 per the publisher page (the colophon says 2004年2月6日 初版第1刷発行, February 6, 2004, first printing, matching NDL's 2004.2 and Suruga-ya), A5, 681 yen incl. tax — per publisher and goodreads — JA language link*, book platform*, dates*, profile*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757511224
 - goodreads: https://www.goodreads.com/book/show/77600584 — accessed 2026-10-11 (page text pasted by user): Comic, Japanese, no author, no ratings
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757511224
@@ -38,6 +40,11 @@ duckduckgo.com (Information)
 wikipedia.org (Information)
 - https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — title link* (an English wiki; the Manga table has the row "Final Fantasy Crystal Chronicles 4-koma Manga Gekijō", January 16, 2004, ISBN 978-4-7575-1122-4, no author or artist named; the section says it "was only released in a standalone volume", so it was **not serialized**; confirms the publisher's date) — accessed 2026-10-11 (table pasted by user)
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Manga — former title link; this book is **not** on the list (the `#Manga` row there is Beyond the Endless Sky), so it isn't a source for this entry — checked 2026-10-11 (row text pasted by user)
+
+ja.wikipedia.org (Information)
+- https://ja.wikipedia.org/wiki/4コママンガ劇場 -- series, dates* -- accessed 2026-10-14 (machine translation pasted by user) -- the series page: "a series of four-frame manga based on parody gags such as video games, published in the form of an anthology by multiple artists from the 1990s to 2006", Square Enix (formerly Enix); its list has "Final Fantasy Crystal Chronicles, Square Enix, 16th January, all one volume", so it agrees with the publisher's January 16 and not with the colophon's February 6
+  - Same page, section "Development staff drawn 4frames" (machine translation): "The four frames written by the development staff of the target game are posted. It has been published in the late books such as 'Kronoa of the Wind' [Klonoa] and 'Final Fantasy Crystal Chronicle'" -- so this book likely carries four-panel strips drawn by the Crystal Chronicles development staff alongside the outside artists; the page does not say which strips or who
+  - Date conflict, unresolved: January 16, 2004 (publisher page, this Wikipedia list) against February 6, 2004 (colophon first printing; NDL 2004.2; Suruga-ya); the entry keeps January 16
 
 ## Alternate names
 
