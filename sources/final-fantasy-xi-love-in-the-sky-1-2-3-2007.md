@@ -14,7 +14,7 @@ Vana'diel Memoirs special appendix (ヴァナ・ディール通信 : Vana'diel M
 - Length (…?)* is a placeholder: 48p covers both Love in the Sky and Daddy is a Warrior 75, so the manga alone is unknown
 
 皆川史生イラストレーションズ (Minagawa Fumio Illustrations, collected version) — ISBN 9784047333697 (ISBN10: 4047333697; bg-wiki 978-4-04-733369-7), Japanese, Gz Brain, December 2018, 189pp, K4, 3900 yen, NDL 029349645 — per bg-wiki — version "Final Fantasy XI ~Minagawa Fumio Illustrations~ (2018)"* with JA language link*
-- 189p;K4 and 2018-12 describe the book, not the manga, so they are not on the primary
+- 189p; K4 and 2018-12 describe the book, not the manga, so they are not on the primary
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784047333697
 - goodreads: https://www.goodreads.com/book/show/58665646 — accessed 2026-10-09
   - Titled "Final Fantasy XI Minagawa Fumio Illustrations ファイナルファンタジーXI 皆川史生イラストレーションズ", author fumio minagawa, 0 ratings
