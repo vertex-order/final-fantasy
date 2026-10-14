@@ -37,6 +37,11 @@ goodreads.com (Ratings)
 goodreads.com (Information)
 - https://www.goodreads.com/book/show/52081857 — Kindle edition: 137 pages, December 20, 2019, 0 ratings — accessed 2026-10-09 — archived: TODO
 
+books.rakuten.co.jp (Information)
+- https://books.rakuten.co.jp/author/200000000760131/ -- description*, date*, length*, price -- accessed 2026-10-14 (page text pasted by user): the author page for 皆川史生 (7 items); the entry is https://books.rakuten.co.jp/rb/16155878/ , ファイナルファンタジーXIV じゅうよんコマ, 2019年12月20日, 990 yen incl. tax, not currently orderable
+  - Blurb: the 4-koma manga "じゅうよんコマ" for Final Fantasy XIV "serialized for six whole years in Weekly Famitsu" (週刊ファミ通), all 212 episodes, plus illustration columns and production materials; so it is a long-running serialization collected in one volume, and the 2019-12 `titleDate` is the book's date; the serialization start (about 2013 to 2014) is not given
+  - The same author page lists only one other Final Fantasy book, ファイナルファンタジーXI 皆川史生イラストレーションズ (2018-12-05, 4,290 yen incl. tax); the other five are a Minecraft collaboration novel and the 灰と王国 novels (not Final Fantasy)
+
 duckduckgo.com (Information)
 - fan-translation, fan-audiobook and fan-recap searches — no results yet
 
