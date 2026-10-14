@@ -2,6 +2,10 @@
 
 # Final Fantasy Crystal Chronicles: Ring of Fates ~4-Koma~
 
+## Author
+
+No `by` credit: an anthology by many artists, so no single author applies. NDL credits no author for either volume, and the Japanese title and Wikipedia both call it an anthology (アンソロジーコミック, "manga anthology") -- accessed 2026-10-14
+
 ## Editions (ISBN)
 
 Per-book record, one book per label.
@@ -66,6 +70,8 @@ goodreads.com (Ratings)
 - "Final Fantasy Crystal Chronicles Ring of Fates 4 Komaansoroji Komikku" — Wikipedia's List of Final Fantasy media (https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga), the row's title — accessed 2026-10-11*
 
 ## Surveyed
+
+- Entry changes 2026-10-14: `helpWanted` and the unknown-languages marker removed (no single credit applies, nothing else missing); the description no longer says "gag" (Wikipedia describes both serious single-player-related stories and humorous multiplayer ones); links follow docs/data.md for an entry that stands for many items: `profileUrl` is the KADOKAWA product search that returns both volumes (`リング・オブ・フェイト 4コマアンソロジー`), the book platform row is the Goodreads search that returns both volumes, and the JA language link is the same Goodreads search (checked by the user 2026-10-14: it returns both volumes, and only Japanese editions exist); the rating stays on the volume 1 Goodreads page (https://www.goodreads.com/book/show/77740139) -- mine
 
 - The fan searches (translation, audiobook, recap) have no `searchTitle` override and use the entry's title, tildes included, the user's call 2026-10-11; if they return poorly, docs/data.md names `~…~` as punctuation that can break results, so revisit
 
