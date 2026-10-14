@@ -38,6 +38,11 @@ breezewiki.com (Information)
 wikiwiki.jp (Information)
 - https://wikiwiki.jp/ffdic/%E6%9B%B8%E7%B1%8D/%E3%80%90%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCII%20%E5%8B%9D%E5%88%A9%E3%81%B8%E3%81%AE%E6%97%85%E7%AB%8B%E3%81%A1%E3%80%91 -- author (山下辰巳 / Tatsumi Yamashita)*
 
+ndlsearch.ndl.go.jp (Information, the series' first book)
+- https://ndlsearch.ndl.go.jp/books/R100000002-I000001945616 -- series*, date, credit pattern -- accessed 2026-10-14 (record pasted by user): スーパーマリオブラザーズ3 : 7本の聖杖 (ファミマガゲームブックシリーズ), the series' first book, ファミリーコンピュータmagazine編集部 編, 徳間書店, 1988.11, 279p, 15cm, 420 yen, ISBN 4-19-813792-7, NDC 798; also digitized in the NDL Digital Collection (in-library viewing only)
+  - It shows the Famimaga gamebooks credited to the magazine's editorial department (編集部 編) with no individual author, which fits the retail records for Journey to Victory (kosho, Rakuten, Book Off); the individual writer credit (Uehara or Yamashita) therefore comes from secondary sources only
+  - Journey to Victory's own NDL record is still not found; searching the series name (https://ndlsearch.ndl.go.jp/search?cs=bib&keyword=ファミマガゲームブックシリーズ) may show whether No.2 is there under another title
+
 ja.wikipedia.org (Information)
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーII -- description*, date (December 1988) -- accessed 2026-10-14 -- section ゲームブック: "ファイナルファンタジーII 勝利への旅立ち（ファミマガゲームブック第2弾）", December 1988 from Tokuma Shoten; a side-story gamebook whose protagonist is Mid (ミッド), an original character (not Firion) who volunteers for the rebel army
 
