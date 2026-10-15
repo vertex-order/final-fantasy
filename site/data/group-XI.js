@@ -855,6 +855,31 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
+    mediaType: 'Comic', chronoOrder: 5059, narrativeOrder: 636.9, narrativeSection: 'Main',
+    title: 'Final Fantasy XI ~Claude and Haru~', titleUrl: "https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Vana'diel", titleDate: { start: '2010-06-15', end: '2012-06-15' },
+    by: 'Ootsukiberuno',
+    mediaDesc: [
+      [{ text: 'A story manga about the knight Claude, the white mage Haru and their party, whose adventures in ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ' take them to Aht Urhgan and into Dynamis.' }],
+    ],
+    primary: {
+      tags: ['Tie-in', 'Manga'],
+      subtitle: 'Comic',
+      length: '3 volumes',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?auth=%E3%81%8A%E3%81%8A%E3%81%A4%E3%81%8D%E3%81%B9%E3%82%8B%E3%81%AE&label=192',
+      languages: [
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/78012577' },
+      ],
+      contents: [
+        { title: 'Go to Aht Urhgan', titleDate: '2010-06-15', titleUrl: 'https://www.goodreads.com/book/show/78012577' },
+        { title: 'See You Tomorrow', titleDate: '2010-10-15', titleUrl: 'https://www.goodreads.com/book/show/85562182' },
+        { title: 'Promise for the Future', titleDate: '2012-06-15', titleUrl: 'https://www.goodreads.com/book/show/80233892' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Manga', jpTag: true },
+      ],
+    },
+  },
+  {
     mediaType: 'Comic', chronoOrder: 5060, narrativeOrder: 636, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Lightning Brigade 4-Koma Manga~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: { start: '2004-02-20', end: '2007-03-23' },
     by: 'Hijiri Emoto',
