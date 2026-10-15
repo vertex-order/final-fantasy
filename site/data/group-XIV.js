@@ -318,11 +318,8 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F',
       length: '3 volumes',
       languages: [
-        { value: 'JA', native: true, url: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F' },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/search?q=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F%E3%81%AE%E6%95%99%E3%81%88%E3%81%A6%E3%82%84%E3%82%8B%E3%82%88' },
         { value: 'EN', tip: 'English (fan translation)', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XIV%3A%20I%20Will%20Teach%20You%20Professor%20Lalafell%20translation' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/69172609', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XIV: I Will Teach You Professor Lalafell', searchQualifier: 'manga' },

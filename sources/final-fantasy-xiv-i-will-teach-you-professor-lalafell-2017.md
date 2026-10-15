@@ -52,10 +52,13 @@ ISBN 9784049121797, Japanese, KADOKAWA (電撃コミックスEX), vol 3 (final),
 ## Sources
 
 kadokawa.co.jp (Information)
-- https://www.kadokawa.co.jp/product/search/?kw=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F — profile*, languages* (JA) (KADOKAWA product search for ララフェル先生: lists all three volumes) — accessed 2026-10-10
+- https://www.kadokawa.co.jp/product/search/?kw=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F — profile* (KADOKAWA product search for ララフェル先生: lists all three volumes) — accessed 2026-10-10
 - https://www.kadokawa.co.jp/product/321705000172/ — dates* (vol 1: August 26, 2017; start of `titleDate`), credits* (漫画 ふぁっ熊, 協力 スクウェア・エニックス), length (112 pages, A5), price (715 yen incl. tax), ISBN, story — accessed 2026-10-10 — archived: TODO
 - https://www.kadokawa.co.jp/product/321712000090/ — vol 2: March 26, 2018, 112 pages, 748 yen, ISBN 9784048937078 — accessed 2026-10-10 — archived: TODO
 - https://www.kadokawa.co.jp/product/321807000631/ — dates* (vol 3, final: November 26, 2018; end of `titleDate`), 112 pages, 748 yen, ISBN 9784049121797; "ついに完結" (finally complete) — accessed 2026-10-10 — archived: TODO
+
+goodreads.com (Ratings)
+- https://www.goodreads.com/search?q=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F%E3%81%AE%E6%95%99%E3%81%88%E3%81%A6%E3%82%84%E3%82%8B%E3%82%88 — languages* (JA) — accessed 2026-10-15 (fetched and read): the search `ララフェル先生の教えてやるよ` returns volumes 1, 2 and 3 (two editions each in some cases, e.g. the Kindle-style (1) page next to the print one) plus a 3-volume set and a 1-2 volume set; it replaced the NYR rating's page https://www.goodreads.com/book/show/69172609 (print volume 1, no ratings), which is kept here
 
 finalfantasy.fandom.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_I_Will_Teach_You_Professor_Lalafell — title link*, credits* (writer and artist both Fakkuma; spelling confirmed), story, dates (August 26, 2017), publisher (Dengeki), cover price (702 yen) — accessed 2026-10-10 — archived: TODO
