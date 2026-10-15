@@ -358,7 +358,8 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
     primary: {
       tags: ['Alternate Universe', 'Manga'],
       subtitle: 'Comic',
-      helpWanted: true,
+      length: '205p; A5',
+      profileUrl: 'https://ndlsearch.ndl.go.jp/books/R100000098-Icm_itemM207213',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/106524927' },
         { value: 'EN', tip: 'English (fan translation)' },
