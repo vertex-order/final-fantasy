@@ -943,7 +943,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
         { title: 'Volume 10', titleDate: '2006-02-25', titleUrl: 'https://www.goodreads.com/book/show/77152441', num: false },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'ファイナルファンタジーXI 4コマアンソロジーコミック' },
+        { key: 'book', name: 'Manga', jpTag: true },
       ],
     },
   },

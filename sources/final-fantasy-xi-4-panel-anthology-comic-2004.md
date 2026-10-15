@@ -75,7 +75,7 @@ kadokawa.co.jp (Publisher, Japanese)
 
 ## Decisions
 
-- Entry finished 2026-10-14 (`helpWanted` removed, user): dates follow the publisher (KADOKAWA), `profileUrl` is the KADOKAWA search that lists all 10 volumes, the book row is a DuckDuckGo search on the full Japanese title, the JA language link is the Goodreads search `ファイナルファンタジーXI 4コマ` (6 of the 10 volumes, plus our three other XI four-panel books), the rating is NYR on the volume 1 Goodreads page; no `by` (anthology)
+- Entry finished 2026-10-14 (`helpWanted` removed, user): dates follow the publisher (KADOKAWA), `profileUrl` is the KADOKAWA search that lists all 10 volumes, the book row had a DuckDuckGo search on the full Japanese title until every volume got its own Goodreads link (user, 2026-10-15), the JA language link is the Goodreads search `ファイナルファンタジーXI 4コマ` (6 of the 10 volumes, plus our three other XI four-panel books), the rating is NYR on the volume 1 Goodreads page; no `by` (anthology)
 - Volumes 1 to 10 are one series, so one entry with a "10 volumes" length
   - `titleDate` runs from Vol.1 (2004-09-25) to Vol.10 (2006-02-25), the publisher's (KADOKAWA) days; bg-wiki and NDL give months a month later (2004-10 to 2006-03)
 - Title is our translation: "4-Panel Anthology Comic" for ファイナルファンタジーXI 4コマアンソロジーコミック (the printed Japanese title carries "Final Fantasy XI", per KADOKAWA and Goodreads)
