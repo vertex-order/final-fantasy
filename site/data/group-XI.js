@@ -832,6 +832,43 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
+    mediaType: 'Comic', chronoOrder: 5057, narrativeOrder: 636.7, narrativeSection: 'Main',
+    title: 'Final Fantasy XI ~Ozora Anthology Comic~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Ozora', titleDate: { start: '2003-12-24', end: '2005-12-24' },
+    mediaDesc: [
+      [{ text: 'An anthology mixing story comics and four-panel gags about the adventurers of ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', in volumes titled with plus signs and music dynamics marks, then with subtitles.' }],
+    ],
+    primary: {
+      tags: ['Tie-in', 'Manga'],
+      subtitle: 'Comic',
+      length: '13 volumes',
+      profileUrl: 'https://ohzora.jp/?s=FINAL+FANTASY+XI',
+      languages: [
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/84686270' },
+      ],
+      ratings: [
+        { score: 'NYR', url: 'https://www.goodreads.com/book/show/84686270', key: 'goodreads' },
+      ],
+      contents: [
+        { title: 'Final Fantasy XI', titleDate: '2003-12-24', titleUrl: 'https://www.goodreads.com/book/show/84686270' },
+        { title: '+', titleDate: '2004-02-24', titleUrl: 'https://www.goodreads.com/book/show/84686295' },
+        { title: '++', titleDate: '2004-04-24', titleUrl: 'https://www.goodreads.com/book/show/84686277' },
+        { title: 'f', titleDate: '2004-06-24', titleUrl: 'https://www.goodreads.com/book/show/84686283' },
+        { title: '4-Panel Manga Laugh Stadium', titleDate: '2004-08-24', titleUrl: 'https://www.goodreads.com/book/show/104517863' },
+        { title: 'mf', titleDate: '2004-10-25', titleUrl: 'https://www.goodreads.com/book/show/84686290' },
+        { title: 'ff', titleDate: '2004-12-25', titleUrl: 'https://www.goodreads.com/book/show/84686303' },
+        { title: 'Rainbow Chapter', titleDate: '2005-02-24', titleUrl: 'https://www.goodreads.com/book/show/84686325' },
+        { title: 'Circle of Adventures', titleDate: '2005-04-23', titleUrl: 'https://www.goodreads.com/book/show/84686299' },
+        { title: 'Over the Wilds', titleDate: '2005-06-25', titleUrl: 'https://www.goodreads.com/book/show/84686316' },
+        { title: 'Endless Tales', titleDate: '2005-08-24', titleUrl: 'https://www.goodreads.com/book/show/84686320' },
+        { title: 'Party Synergism', titleDate: '2005-10-24', titleUrl: 'https://www.goodreads.com/book/show/84686274' },
+        { title: 'Eternal Lounge', titleDate: '2005-12-24', titleUrl: 'https://www.goodreads.com/book/show/84686308' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Manga', jpTag: true },
+      ],
+    },
+  },
+  {
     mediaType: 'Comic', chronoOrder: 5060, narrativeOrder: 636, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Lightning Brigade 4-Koma Manga~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: { start: '2004-02-20', end: '2007-03-23' },
     by: 'Hijiri Emoto',
