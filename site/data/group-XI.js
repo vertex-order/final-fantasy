@@ -741,9 +741,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/search?q=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%20%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77394328', key: 'goodreads' },
-      ],
       contents: [
         { title: 'Anthology Comic', titleUrl: 'https://www.goodreads.com/book/show/77394328', count: 2 },
         { title: "Adventurer's Trail", titleUrl: 'https://www.goodreads.com/book/show/77050877', searchTitle: '冒険者の軌跡' },
@@ -870,9 +867,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/search?q=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%204%E3%82%B3%E3%83%9E' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77545544', key: 'goodreads' },
-      ],
       contents: [
         { title: 'Volume 1', titleDate: '2004-09-25', titleUrl: 'https://www.goodreads.com/book/show/77545544', num: false },
         { title: 'Volume 2', titleDate: '2004-11-25', titleUrl: 'https://www.goodreads.com/book/show/77581978', num: false },
@@ -904,9 +898,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E7%8D%A3%E3%81%AE%E8%8A%B1%E9%81%93',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/search?q=%E7%8D%A3%E3%81%AE%E8%8A%B1%E9%81%93' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77246831', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true, url: 'https://www.goodreads.com/search?q=%E7%8D%A3%E3%81%AE%E8%8A%B1%E9%81%93' },
