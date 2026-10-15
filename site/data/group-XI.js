@@ -241,9 +241,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/78009261' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/78009261', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Prayer of the Wind', searchQualifier: 'manga' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
@@ -357,9 +354,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
         { value: 'DE', url: 'https://www.goodreads.com/book/show/4466881-final-fantasy-xi' },
         { value: '…?' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/4466881-final-fantasy-xi', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Pride of the Knight', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
@@ -382,9 +376,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: '318p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77099305' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77099305', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XI Adventurer's Holiday", searchQualifier: 'light novel' },
@@ -409,9 +400,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77131146' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77131146', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Distant Wish', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
@@ -434,9 +422,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: '2 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77686446' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77686446', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A New Dream', searchQualifier: 'light novel' },
@@ -461,9 +446,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77163778' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77163778', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Blessings of the Journey', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
@@ -487,9 +469,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77185190' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77185190', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Daughters of Aht Urhgan', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
@@ -512,9 +491,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: '2 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77250550' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77250550', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Testament of the Wise', searchQualifier: 'light novel' },
@@ -561,9 +537,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/51275414' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/51275414', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Conditions of Fortune', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
@@ -586,9 +559,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: '254p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77698241' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77698241', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Princess Knight of Ronfaure', searchQualifier: 'light novel' },
@@ -613,9 +583,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77709037' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77709037', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XI The Star's Call", searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: "Final Fantasy XI The Star's Call", noResults: true },
@@ -638,9 +605,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: '313p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77438179' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77438179', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Happy Gift', searchQualifier: 'light novel' },
@@ -665,9 +629,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77778217' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77778217', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI A Message from Beyond', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
@@ -689,9 +650,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: '311p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77470246' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77470246', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Anthology', searchQualifier: 'light novel' },
@@ -716,9 +674,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77328971' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77328971', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Heartbeat of Xarcabard', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
@@ -741,9 +696,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/69235773' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/69235773', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Songs of the Endless Earth', searchQualifier: 'novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
@@ -765,9 +717,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       profileUrl: 'https://www.kadokawa.co.jp/product/321810000635/',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/58665646' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/58665646', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'ファイナルファンタジーXI 皆川史生イラストレーションズ' },
@@ -845,9 +794,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/84686270' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/84686270', key: 'goodreads' },
-      ],
       contents: [
         { title: 'Final Fantasy XI', titleDate: '2003-12-24', titleUrl: 'https://www.goodreads.com/book/show/84686270' },
         { title: '+', titleDate: '2004-02-24', titleUrl: 'https://www.goodreads.com/book/show/84686295' },
@@ -882,9 +828,6 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       profileUrl: 'https://www.kadokawa.co.jp/product/200401000507/',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77594373' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77594373', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true },

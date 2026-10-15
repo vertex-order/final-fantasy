@@ -177,9 +177,6 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/76171402' },
         { value: 'EN', tip: 'English (fan translation)' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/76171402', key: 'goodreads' },
-      ],
       platforms: [
         {
           key: 'book',

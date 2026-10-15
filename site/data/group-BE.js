@@ -81,9 +81,6 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/70078001-final-fantasy-brave-exvius' },
         { value: 'EN', tip: 'English (fan translation)', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20Brave%20Exvius%20Rikodoki!%20translation' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/70078001-final-fantasy-brave-exvius', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'FINAL FANTASY BRAVE EXVIUS リコドキッ！' },
         { key: 'fan-translation', search: 'duckduckgo' },

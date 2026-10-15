@@ -96,9 +96,6 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, narrativeOrder: 1750
         { value: '…?' },
       ],
       helpWanted: true,
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/255391940', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Picture Book', paren: 'DuckDuckGo', search: 'duckduckgo' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },

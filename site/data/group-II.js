@@ -183,9 +183,6 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
         { value: 'JA', url: 'https://www.goodreads.com/book/show/77954969' },
         { value: 'EN', tip: 'English (fan translation)' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77954969', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy II Muma no Meikyū Nightmare's Labyrinth", searchQualifier: 'light novel' },
         {
@@ -212,9 +209,6 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77945774' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77945774', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Gamebook', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'ファイナルファンタジー2 将軍ボーゲンとの死闘', searchQualifier: 'gamebook' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'ファイナルファンタジー2 将軍ボーゲンとの死闘', noResults: true },
@@ -236,9 +230,6 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
       profileUrl: 'https://ndlsearch.ndl.go.jp/books/R100000001-I36111100548362',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/102713430' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/102713430', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Gamebook', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy II Hihō no Dragon', searchQualifier: 'gamebook' },

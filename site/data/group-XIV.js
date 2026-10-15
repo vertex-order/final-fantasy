@@ -218,9 +218,6 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/85601685' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/85601685', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XIV Winds of Eorzea', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
@@ -350,9 +347,6 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/72126545-xiv' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/72126545-xiv', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'ファイナルファンタジーXIV じゅうよんコマ' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XIV 14-Koma', noResults: true },
@@ -392,9 +386,6 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
         length: '339p; P',
         languages: [
           { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/71627236' },
-        ],
-        ratings: [
-          { score: 'NYR', url: 'https://www.goodreads.com/book/show/71627236', key: 'goodreads' },
         ],
         platforms: [
           { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XIV A Realm Reborn Adventure Log: Hero's Eggs", searchQualifier: 'novel' },
@@ -448,9 +439,6 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
         { value: '…?' },
       ],
       helpWanted: true,
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/255391940', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Picture Book', paren: 'DuckDuckGo', search: 'duckduckgo' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },

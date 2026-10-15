@@ -75,9 +75,6 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, narrativeOrder: 950, 
           { value: '…?' },
         ],
         helpWanted: true,
-        ratings: [
-          { score: 'NYR', url: 'https://www.goodreads.com/book/show/5941120', key: 'goodreads' },
-        ],
         platforms: [
           { key: 'book', name: 'YA Novel', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: 'Final Fantasy: The Spirits Within', searchQualifier: 'YA novel John Vornholt' },
           { key: 'fan-recap', name: 'Fan story recap video of The Spirits Within (2001)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy The Spirits Within', searchQualifier: 'YA novel John Vornholt' },

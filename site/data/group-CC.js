@@ -81,9 +81,6 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77128941' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77128941', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'ファイナルファンタジー・クリスタルクロニクル はてなき空の向こうに' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Beyond the Endless Sky', noResults: true },
@@ -105,9 +102,6 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       length: '351p; P',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77092424' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77092424', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'FINAL FANTASY CRYSTAL CHRONICLES 小さな村の年代記' },
@@ -131,9 +125,6 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77600584' },
       ],
       profileUrl: 'https://magazine.jp.square-enix.com/top/comics/detail/9784757511224/',
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77600584', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true, url: 'https://www.goodreads.com/book/show/77600584' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },

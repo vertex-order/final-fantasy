@@ -578,9 +578,6 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         { value: 'EN', url: 'https://www.goodreads.com/book/show/254945294-final-fantasy-vii-rebirth' },
       ],
       profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9798899100826',
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/254945294-final-fantasy-vii-rebirth', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/product/9798899100826' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },

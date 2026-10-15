@@ -101,9 +101,6 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/76924204' },
       ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/76924204', key: 'goodreads' },
-      ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy: Unlimited Twin Bonds', searchQualifier: 'light novel' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
@@ -125,9 +122,6 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       length: '32p comic, 120p script',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77412483' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/77412483', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy: Unlimited After', searchQualifier: 'manga' },
