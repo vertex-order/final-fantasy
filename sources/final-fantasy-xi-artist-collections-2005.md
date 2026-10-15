@@ -63,6 +63,7 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Parts are titled artist first, "Artist: Book" (user, 2026-10-15): `contents[]` has no credit field and the artist is what a reader chooses by; the English artist names are our romanization
 - The three player-diary books (Haruu, Suzume, Ponkichi) are kept in (user, 2026-10-14)
 - Parts are sorted by artist, then full date, then title (user, 2026-10-15), for this list only: the entry is single-artist collections with several volumes per artist, so the artist leads; other lists keep date order or a custom narrative order
+- The parts set `narrativeOrder` and `chronoOrder` (10 to 220, gaps of 10) so the artist-first order is stated, not incidental; release modes sort them by date (user, 2026-10-15)
 - Parts are unnumbered (bullets, `num: false`): the books are independent, not a numbered series
 - Left out: Wind of Pray 1 and 2 (the Winds of Prayer manga entry), the Claude and Haru books (their own entry, planned), Love in the Sky (its own entry), the two anthology lines and the magazine supplements (see sources/final-fantasy-xi-anthology-comic-2002.md)
 - No JA language URL (no Goodreads search lists the 22 books together), no book-row search (every part links to its Goodreads page), no rating (no trusted score)
