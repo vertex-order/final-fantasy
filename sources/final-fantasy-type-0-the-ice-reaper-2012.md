@@ -90,3 +90,5 @@ wikipedia.org (Information)
 - EN, FR, DE, ES editions: Goodreads pages linked in the entry, not researched (ISBNs, publishers, dates) — mine
 
 ## Decisions
+
+- No `contents[]` list (user, 2026-10-15): the five volumes have no titles beyond their numbers, the book platform already links the Goodreads series page that lists all five, and a part carries one link while the book has six language editions; the JA volume dates are 2012-09-22, 2013-01-22, 2013-06-22, 2013-11-22 and 2014-04-22 (the Final Fantasy Wiki table), if a list is ever wanted
