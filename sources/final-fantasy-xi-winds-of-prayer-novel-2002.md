@@ -146,3 +146,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - Date: `2002-12-20`, the publisher's (KADOKAWA product page) and the author's page; replaces Goodreads' 2002-12-18
   - NDL and bg-wiki's 2003.01 is probably NDL's cataloging month, as with the XIV Adventure Log
+- The XI novel section stays as separate entries, not one `contents[]` roll-up (user, 2026-10-15): the 19 entries in the Novels section (Hasegawa's numbered series, Books 1 to 32, in reading order; already rolled up per multi-volume arc) each have their own description, mostly about a different cast, and some have a rating or a FR/DE edition, which a part cannot carry; this file is the series' first book. Left open: whether the series reads as one continuous story (which would favour a single numbered roll-up), a section note saying it is one numbered series read in order, and `contents[]` on the eight 2 to 3 volume arcs
