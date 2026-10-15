@@ -893,6 +893,18 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       ratings: [
         { score: 'NYR', url: 'https://www.goodreads.com/book/show/77545544', key: 'goodreads' },
       ],
+      contents: [
+        { title: 'Volume 1', titleDate: '2004-09-25', titleUrl: 'https://www.goodreads.com/book/show/77545544', num: false },
+        { title: 'Volume 2', titleDate: '2004-11-25', titleUrl: 'https://www.goodreads.com/book/show/77581978', num: false },
+        { title: 'Volume 3', titleDate: '2004-12-25', titleUrl: 'https://www.goodreads.com/book/show/77588031', num: false },
+        { title: 'Volume 4', titleDate: '2005-03-25', titleUrl: 'https://www.goodreads.com/book/show/77114903', num: false },
+        { title: 'Volume 5', titleDate: '2005-04-25', titleUrl: 'https://www.goodreads.com/book/show/77115875', num: false },
+        { title: 'Volume 6', titleDate: '2005-06-25', titleUrl: 'https://www.goodreads.com/book/show/77133526', num: false },
+        { title: 'Volume 7', titleDate: '2005-08-31', titleUrl: 'https://www.goodreads.com/book/show/77654024', num: false },
+        { title: 'Volume 8', titleDate: '2005-10-24', titleUrl: 'https://www.goodreads.com/book/show/77673956', num: false },
+        { title: 'Volume 9', titleDate: '2005-12-26', titleUrl: 'https://www.goodreads.com/book/show/77685671', num: false },
+        { title: 'Volume 10', titleDate: '2006-02-25', titleUrl: 'https://www.goodreads.com/book/show/77152441', num: false },
+      ],
       platforms: [
         { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'ファイナルファンタジーXI 4コマアンソロジーコミック' },
       ],
