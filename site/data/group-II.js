@@ -261,7 +261,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
   },
   {
     mediaType: 'Comic', chronoOrder: 600, narrativeOrder: 400,
-    title: 'Final Fantasy II ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)#Behind_the_scenes', titleDate: '1989-12',
+    title: 'Final Fantasy II ~Manga~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)#Behind_the_scenes', titleDate: { start: '1990', approx: true },
     by: [{ role: 'adapted', names: 'Yuu Kaimeiji' }],
     mediaDesc: [
       [{ text: 'Adaptation of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ' as a manga with what can be assumed are many story changes like the previous comic adaptation, which could be considered an alternate universe retelling. It was cancelled before completion.' }],

@@ -22,7 +22,7 @@ finalfantasy.fandom.com (Information)
 
 ja.wikipedia.org (Information)
 - https://ja.wikipedia.org/wiki/ファイナルファンタジー#漫画版 -- dates*, credits*, story -- accessed 2026-10-15 (section text pasted by user): first edition 1989年12月30日; drawn by 海明寺裕 and published by JICC出版局 as 「宝島COMIC」 in a single volume (全1巻), titled ファイナルファンタジー like the game; the Warriors of Light and Garland are fleshed out, a character who does not join in the game is made a main character, and the hero is an original character (Puffy Torte, the daughter of an inn in an elf village) -- the same characters our description names (Puffy, the monk Flitz, Matoya, Bahamut, the princess Sarah, the pirate Bikke, the robot DB-6)
-  - the page also says the author planned a Final Fantasy II manga, drew about 60 pages, and Square withdrew the license, see sources/final-fantasy-ii-manga-1989.md
+  - the page also says the author planned a Final Fantasy II manga, drew about 60 pages, and Square withdrew the license, see sources/final-fantasy-ii-manga-1990.md
 - https://ja.wikipedia.org/wiki/海明寺裕 -- serialization -- accessed 2026-10-15 (fetched and read): the manga version of 『ファイナルファンタジー』 was "published in magazines of the 『ファミコン必勝本』 (JICC出版局) family" in the late 1980s and is the artist's best-known work; e-book editions are hard because of rights; no issue dates are given, and the artist's work list says only 1989
 - https://ja.wikipedia.org/wiki/ファミコン必勝本 -- serialization -- accessed 2026-10-15 (fetched and read): the magazine ran as 『ファミコン必勝本』 from 1986-03-08 to 1990, then as HiPPON SUPER! from 1991; it does not mention the Final Fantasy manga, so the page gives no serialization dates (searched for 海明寺, ファイナルファンタジー, 連載, コミック, 別冊)
 

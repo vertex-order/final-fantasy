@@ -1,4 +1,4 @@
-<!-- sources/final-fantasy-ii-manga-1989.md (markdown) -->
+<!-- sources/final-fantasy-ii-manga-1990.md (markdown) -->
 
 # Final Fantasy II ~Manga~
 
@@ -25,7 +25,11 @@ duckduckgo.com (Information)
 - [Fandom – Final Fantasy (manga)](https://finalfantasy.fandom.com/wiki/Final_Fantasy_(manga)) — see above — used
   - [breezewiki mirror](https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)) — dup
 - The entry's `titleDate` 1989-12 is not supported: both sources put the work after the Final Fantasy ~Manga~ book (30 December 1989), and the partial release was in a Famicom Hisshobon 別冊 whose date is not given -- mine
-- NDL (OpenSearch, checked 2026-10-15): no Final Fantasy II manga by Kaimeiji; one lead only, a JICC comic-and-novel magazine, "Fantasy land : TVゲーム世代のためのコミック&小説マガジン", issue 1 dated 1990.11.30 (https://ndlsearch.ndl.go.jp/books/R100000002-I032629938), which may or may not be the 別冊; not confirmed, nothing in it was read -- mine
+- NDL record of the likely 別冊: https://ndlsearch.ndl.go.jp/books/R100000002-I032629938 -- accessed 2026-10-15 (record text pasted by user): "Fantasy land (ファンタジーランド): TVゲーム世代のためのコミック&小説マガジン", a magazine by JICC出版局 (JICC), noted "「ファミコン必勝本」の増刊" (a supplement of Famicom Hisshobon), 26 cm, genre manga, issue Vol. 1 dated [1990年]11月30日 (the only issue NDL holds), NDL bib id 032629938, call number Z31-C398; this fits ja.wikipedia's description of a game-comic-anthology-style supplement that JICC published after the FFI manga, but nothing says the FFII manga is in this issue or which issue it is in -- lead only, not confirmed -- mine
+- The entry's `titleDate` 1989-12 has no source: it is in the first data import (2026-09-05) and was never cited; the finalfancast line that seemed to corroborate it turned out to be the FFI book
 - The `~60p` length is the number of pages drawn; how many were printed is not stated -- mine
 
 ## Decisions
+
+- `titleDate` is an approximate 1990, `{ start: '1990', approx: true }` (user, 2026-10-15): the FFII manga was begun after the FFI book (30 December 1989) and partly printed in a Famicom Hisshobon supplement of unknown date; the old 1989-12 had no source; the anchor and this file's name moved from 1989 to 1990
+- The description is unchanged (user, 2026-10-15), and `~60p` stays as the pages drawn
