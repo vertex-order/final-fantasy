@@ -427,8 +427,50 @@ How many entries a body of work gets (labelling is docs/subtitle.md).
   - are read together, in order, and skipped or marked read as a unit;
   - are sometimes re-released as one omnibus.
 - **Rolled-up entry format:**
-  - `length`: `N volumes`.
-  - Volume subtitles in the description, for lookup.
+  - `length`: `N volumes` (or `N games`, `N episodes`; a game series
+    counts its games, not play time).
+  - `contents[]`: the parts, in order, as a collapsed numbered list
+    under the entry. On the primary or an `alts[]` item, not `versions[]`.
+    Not a version or an alt.
+    - `contentsLabel` (beside it): the bar's word. Default `volumes`; set
+      `games`, `episodes` and so on.
+    - Fields, only `title` required:
+      - `title`: English; ours if there is no official one.
+      - `titleDate`: as an entry's; a span for a run.
+      - `num`, `count`: the number shown before the title.
+        - `num` omitted continues from the last counted item.
+        - An integer is counted: skip or restart (0 is allowed).
+        - A string shows as written (`alpha`, `S2`); `false` shows none.
+          Neither advances the count.
+        - `count: 3` covers a run (shows `1-3`).
+        - Array order is display order; nothing is sorted.
+      - `titleUrl`: one link on the title, to find the part, not read
+        about it. Prefer a Goodreads page with editions and ISBNs.
+        - Unset: a search from the release's `book` search row plus
+          `searchTitle`, query in the tooltip. No such row, no link.
+      - `searchTitle`: the part's search words, added to the release's.
+        Not displayed.
+      - `platforms`: bare icons after the date, no header. For games.
+        - Soft guidance: where it came out, the main one or two; no
+          backward-compatible ones, no `book` icon, no fan rows (recap,
+          movie, playthrough). Fan translation and audio case by case.
+    - Parts carry no tags, `by`, languages, ratings, lengths,
+      descriptions, subtitles, `versions[]` or `alts[]`. They aren't
+      important enough for their own entry.
+    - A part that needs one of those, or whose rating really matters
+      (the one great game in a series), outgrows the list: promote it.
+      - Whether it stays in `contents[]` and the `length` count is a
+        judgement call; record it in the series sources file's Decisions.
+    - Entry rating: optional. Averaging is a judgement call we avoid
+      (what to include, review age, versions rated all shift it).
+      - Books and comics: the omnibus's, else the first volume's, as a
+        hook signal.
+      - Games and other media: usually omit; a game worth rating earns
+        its own entry (Kingdom Hearts lists each game, omnibus or not).
+    - Entry languages mean some or all parts have them.
+    - Parts by different people: no entry `by` (see "Crediting books and
+      comics").
+  - Short lists: volume subtitles in the description still work.
   - Link the omnibus, else the first volume.
   - Usual cases: manga, multi-volume game novelizations.
   - Chapters never listed; nobody looks them up once volumes exist.
@@ -540,6 +582,12 @@ another entry.
   Fewer overrides, less to keep in step.
 - Use `searchQualifier` to narrow a search that is otherwise fine
   (e.g. an author or format word) instead of rewriting the title.
+- **`searchTitle` above the row:** on an entry, release (primary or
+  alt), version or `contents[]` part, it is the default for every search
+  row below it; a row's own `searchTitle` wins.
+  - A titled version or alt searches by its own title, not its parent's
+    override.
+  - Never displayed. On a part it is added to the release's words.
 
 ## `~...~` in titles
 

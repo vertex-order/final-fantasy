@@ -440,6 +440,10 @@
           "description": "Id of the group `sections[]` entry this slot belongs to in Release mode. Required on every slot when any section lists 'release' in `orders`; forbidden otherwise."
         },
         "title": { "type": "string" },
+        "searchTitle": {
+          "type": "string",
+          "description": "The default search words for every search-computed platform row of this entry (inherited by its primary, alts and their versions) (a row can still set its own searchTitle). Defaults to its own title (a version or alt with a title of its own searches by that title, not its parent's override). Not displayed."
+        },
         "titleUrl": { "type": ["string", "null"] },
         "titleDate": { "$ref": "#/$defs/DateValue" },
         "releaseOrderDate": {
@@ -481,11 +485,58 @@
       "required": ["title", "primary"],
       "additionalProperties": false
     },
+    "ContentsItem": {
+      "type": "object",
+      "description": "One part of a rolled-up entry (a volume or a run of numbered volumes, an episode, a season, a game in a spin-off series): just enough to get a reader going. Not a version (the same work in another form) and not an alt (a parallel \"or\" row). Detail such as ISBNs and evidence stays in the sources file. The fields are expected to grow; start small.",
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "The part's title: English, our own translation when there is no official one (the entry's own title rule)."
+        },
+        "titleUrl": {
+          "type": "string",
+          "description": "One link for the part, on its title (the same field as an entry's titleUrl, so promoting a part is a move). It is for finding or identifying this part, not for reading about it: prefer a page that lists the editions and their ISBNs (a Goodreads book page), then another edition or official page. Unset, the title links to a search built from the release's own book search row (its search title plus this part's searchTitle, else its title), with the query in the tooltip; no book search row, no link."
+        },
+        "searchTitle": {
+          "type": "string",
+          "description": "The part-specific search words, added to the release's search title for the fallback link (and for any platform row's search on this part). Not displayed. Defaults to the part's title."
+        },
+        "platforms": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/PlatformItem" },
+          "minItems": 1,
+          "description": "Platform rows for the part, drawn as small icons before the title (name and any paren in the tooltip, url as a link). The full PlatformItem shape is allowed; by guidance keep them bare: the platforms it came out on, the main one or two, no backward-compatible ones, no `book` row (use url) and no fan rows (recap, movie, playthrough); fan translation and audio only case by case."
+        },
+        "titleDate": {
+          "$ref": "#/$defs/DateValue",
+          "description": "When the part came out, or the span of a run (the same field and grammar as an entry's titleDate)."
+        },
+        "num": {
+          "oneOf": [
+            { "type": "integer", "minimum": 0 },
+            { "type": "string", "minLength": 1 },
+            { "const": false }
+          ],
+          "description": "The label shown before this item in the list (the list reads like a numbered list). Optional: when omitted it continues from the previous counted item (that item's num plus its count, starting at 1), so most items need none. An integer is counted: use it to skip numbers or restart (0 is allowed, for a volume 0). A string is shown as written (alpha, beta, gamma; A, B; S2) and does not advance the count. `false` shows no label (an unnumbered extra) and does not advance the count. The array order is the display order; nothing is sorted by num."
+        },
+        "count": {
+          "type": "integer",
+          "minimum": 2,
+          "description": "How many consecutive parts this item covers (count 3 at number 1 shows as 1-3, and the next item continues at 4). Omit for a single part."
+        }
+      },
+      "required": ["title"],
+      "additionalProperties": false
+    },
     "VersionDetails": {
       "description": "The content shape for one `versions[]` item (a release's own collapsible \"other versions and platforms\" list) -- subtitle through listItems, plus an optional title/titleUrl/titleDate override. Recursion is bounded: a VersionDetails has no `versions`/`alts` of its own (only ReleaseDetails does, one level).",
       "type": "object",
       "properties": {
         "title": { "type": "string" },
+        "searchTitle": {
+          "type": "string",
+          "description": "The default search words for every search-computed platform row of this version (a row can still set its own searchTitle). Defaults to its own title (a version or alt with a title of its own searches by that title, not its parent's override). Not displayed."
+        },
         "titleUrl": { "type": ["string", "null"] },
         "titleDate": { "$ref": "#/$defs/DateValue" },
         "subtitle": { "type": "string" },
@@ -566,6 +617,10 @@
       "type": "object",
       "properties": {
         "title": { "type": "string" },
+        "searchTitle": {
+          "type": "string",
+          "description": "The default search words for every search-computed platform row of this release (a row can still set its own searchTitle). Defaults to its own title (a version or alt with a title of its own searches by that title, not its parent's override). Not displayed."
+        },
         "titleUrl": { "type": ["string", "null"] },
         "titleDate": { "$ref": "#/$defs/DateValue" },
         "subtitle": { "type": "string" },
@@ -638,6 +693,17 @@
           "type": "array",
           "items": { "$ref": "#/$defs/VersionDetails" },
           "minItems": 1
+        },
+        "contents": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/ContentsItem" },
+          "minItems": 1,
+          "description": "The parts of a rolled-up entry (an entry whose length is 'N volumes', 'N episodes' and so on): one item per part or per run of numbered parts, listed in order. See ContentsItem. Present on a release (primary or an alts[] item), like versions[]."
+        },
+        "contentsLabel": {
+          "type": "string",
+          "minLength": 1,
+          "description": "The word on the toggle bar that opens contents[]. Defaults to 'volumes' (books and comics are the usual case); set it for other kinds of part ('games', 'episodes', 'seasons', 'films')."
         }
       },
       "additionalProperties": false
