@@ -807,7 +807,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
         { title: 'Eternal Lounge', titleDate: '2005-12-24', titleUrl: 'https://www.goodreads.com/book/show/84686308' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', jpTag: true, opensContents: true },
       ],
     },
   },
@@ -850,7 +850,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
         { title: 'Yoshida Mitsuru: Plump Butt March', titleDate: '2007-09', titleUrl: 'https://www.goodreads.com/book/show/77318961', narrativeOrder: 220, chronoOrder: 220, num: false },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', jpTag: true, opensContents: true },
       ],
     },
   },
@@ -875,7 +875,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
         { title: 'Promise for the Future', titleDate: '2012-06-15', titleUrl: 'https://www.goodreads.com/book/show/80233892' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', jpTag: true, opensContents: true },
       ],
     },
   },
@@ -948,7 +948,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
         { title: 'Volume 10', titleDate: '2006-02-25', titleUrl: 'https://www.goodreads.com/book/show/77152441', num: false },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', jpTag: true, opensContents: true },
       ],
     },
   },

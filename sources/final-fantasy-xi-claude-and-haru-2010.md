@@ -39,3 +39,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Part titles are our translations: 未来への約束 is "Promise for the Future" (bg-wiki's "Hope to See You in Vana'diel" does not match the title) and またあした is "See You Tomorrow" (bg-wiki's "A Promise for Tomorrow" reads as a mistranslation); \"Go to Aht Urhgan\" is bg-wiki's
 - Title "Final Fantasy XI ~Claude and Haru~" is ours: no series name is printed (the volumes are titled ファイナルファンタジーXI plus the subtitle)
 - No book-row search and no rating: every part links to its Goodreads page, and no page has ratings
+- The book platform has `opensContents: true` (user, 2026-10-15): clicking it opens the list of volumes, where each volume's link is

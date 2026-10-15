@@ -51,3 +51,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Title "Final Fantasy XI ~Ozora Anthology Comic~" is ours (user, 2026-10-15): no official series name found; the volumes print only FINAL FANTASY XI (publisher) / アンソロジーgameコミックス (Amazon, Goodreads)
 - No `by` credit; start date 2003-12-24 and end 2005-12-24 (publisher, ohzora.jp); volume titles are bg-wiki's English forms
 - The book row has no search link (user, 2026-10-15): every part links to its Goodreads page, so a series search adds nothing
+- The book platform has `opensContents: true` (user, 2026-10-15): clicking it opens the list of volumes, where each volume's link is
