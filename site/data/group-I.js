@@ -360,11 +360,8 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       subtitle: 'Comic',
       helpWanted: true,
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/106524927' },
         { value: 'EN', tip: 'English (fan translation)' },
-      ],
-      ratings: [
-        { score: 'NYR', url: 'https://www.goodreads.com/book/show/106524927', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy i', searchQualifier: 'manga' },
