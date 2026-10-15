@@ -161,4 +161,7 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - The book logged above as an unrelated 2006 record (ISBN 9784757726840)
   - Collects her Final Fantasy XI anthology comics from Bros Comics EX, plus 40 pages of new comics
 
+- cover scan (bg-wiki, pasted by user 2026-10-14): volume 1, 祈りの風① by 作画 沙月ゆう (Yuu Satsuki), ファイナルファンタジーXI, in the ファミ通クリアコミックス (Famitsu Clear Comics) imprint, with the English "FINAL FANTASY XI WIND OF PRAY" on the back; back: ISBN 978-4-04-726517-2, C0979, 630 yen before tax, published by Enterbrain; the back blurb says Al, an adventurer training to be a warrior, meets the White Mage Iris and the Paladin Max, and that it is the manga version of the original novel by Hasegawa Miyabi (illustrated 沙月ゆう); the entry's data agrees
+
+
 ## Decisions

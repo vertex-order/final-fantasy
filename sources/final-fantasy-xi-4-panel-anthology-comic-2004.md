@@ -11,6 +11,7 @@
 4コマアンソロジーコミック — ISBN 4-7577-2008-4, Japanese, Enterbrain, 2004.10, 100p;A5, 780 yen, NDL 000007499675 — per bg-wiki — dates*, length*
 - bg-wiki note: Look for Hayanon's illustrations
 - goodreads: https://www.goodreads.com/book/show/77545544 -- accessed 2026-10-14 (page text pasted by user): titled ファイナルファンタジーXI 4コマアンソロジーコミック, ISBN 9784757720084 (ISBN10 4757720084; agrees with bg-wiki's 4-7577-2008-4), Comic, Japanese, Unknown Author, 0 ratings
+- cover scan (bg-wiki, pasted by user 2026-10-14): volume 1, front ファイナルファンタジーXI 4コマ アンソロジーコミック (printed with XI and the English line "FINAL FANTASY XI 4コマ アンソロジーコミック"), a Galka 4-koma strip on the back flap; back: ISBN 4-7577-2008-4, C0979, 780 yen before tax, Enterbrain, the same "BROS COMICS EX" logo as the story anthology line, about 20 credited artists; the printed title confirms the entry's Japanese title
 - NDL: https://ndlsearch.ndl.go.jp/books/R100000002-I000007499675 -- accessed 2026-10-14 (record pasted by user) -- length (100p, 21cm; agrees with bg-wiki's 100p;A5), ISBN 4-7577-2008-4 (agrees), publisher エンターブレイン, series Bros.comics EX (the same Enterbrain line as the Ring of Fates 4-koma), 2004.10, 780 yen, no author (anthology), genre manga; titled ファイナルファンタジー11 4コマアンソロジーコミック with the numerals 11, not XI
 4コマアンソロジーコミック2 — ISBN 4-7577-2065-3, Japanese, Enterbrain, 2004.12, 106p;A5, 780 yen, NDL 000007581136 — per bg-wiki — dates*, length*
 - bg-wiki note: cover by Shiryuu Sakurai; contributors named include Kotaro, Hajime, Hondaru, Yu Sanada, Nagomu

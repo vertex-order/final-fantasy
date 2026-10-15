@@ -15,6 +15,7 @@
 
 NO.1: ISBN 9784840224697 (ISBN10: 4840224692), Japanese, MediaWorks (sold by Kadokawa Shoten), 2004-02-20, 257 pages, B6, 19 cm, 1,000 yen (1,050 with tax), Comic — per KADOKAWA + NDL + Amazon.co.jp + Goodreads — JA language link*, rating (NYR)*, profileUrl*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784840224697
+- cover scan (bg-wiki, pasted by user 2026-10-14): front 電撃・えふえふいれぶん・4コマ・マンガ No.1 under ファイナルファンタジーXI 電撃の旅団編 with a 4-koma strip "ガンバレ団長" on the back and flap; back: ISBN 4-8402-2469-2 (agrees), C0076, 1,000 yen before tax, published by MediaWorks; the entry's data agrees
 - goodreads: https://www.goodreads.com/book/show/77594373 — accessed 2026-10-13
 - google books: https://books.google.ca/books?vid=ISBN9784840224697 — accessed 2026-10-13
 - open library: https://openlibrary.org/search?isbn=9784840224697 — accessed 2026-10-13, no results
