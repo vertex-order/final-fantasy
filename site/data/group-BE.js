@@ -67,7 +67,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
   },
   {
     mediaType: 'Comic', chronoOrder: 50, narrativeOrder: 150,
-    title: 'Final Fantasy Brave Exvius Rikodoki!', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki!', titleDate: { start: '2017-09-20', end: '2018-07-25' },
+    title: 'Final Fantasy Brave Exvius Rikodoki!', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki!', titleDate: { start: '2017-09-20', end: '2019-02-27', approx: true },
     by: 'Takeshi Matsumoto',
     mediaDesc: [
       [{ text: 'A 4-panel manga set in the world of ' }, { emLinkText: 'Brave Exvius (2015)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-2015' }, { text: '.' }],
