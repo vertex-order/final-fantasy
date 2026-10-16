@@ -114,6 +114,9 @@ plaza.harmonix.ne.jp (Information)
   - Cross-check: LibraryThing (https://www.librarything.com/nseries/148143/Final-Fantasy-XI-Novels): Vol.8-10 "The Pride of the Paladins" 1-3, Doug & Lynn 4-6
   - Cross-check: Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): Books 8-10, "Der Stolz der Paladine 1-3, Bd 8-10"
 
+worldcat.org (Information, library catalog)
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- languages* -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the German Der Stolz der Paladine Bd 8, Bd 9 and Bd 10 (Panini-Verl.-GmbH, 2008 and 2009, 1. Aufl); no French edition, and no Japanese record for 騎士の誇り was among the 64 results
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
@@ -123,3 +126,6 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
+- The `…?` language row is dropped (user, 2026-10-16): every catalog searched (NDL, DNB, BnF, Library of Congress, BNE, Open Library, Google Books, Goodreads, LibraryThing and WorldCat) shows only the Japanese, French and German editions, so no other official edition is likely; see sources/xi-novels-group.md
+- The book row has no `jpTag` (user, 2026-10-16): official German (Panini, 2008 and 2009) editions exist, so the book is not Japan-only (`jpTag` means no official edition outside Japan, a non-English edition counts); part of the `jpTag` audit, see sources/xi-novels-group.md
+- The book row is the Goodreads series page "Final Fantasy XI Online" (user, 2026-10-16; https://www.goodreads.com/series/252821-final-fantasy-xi-online), replacing the DuckDuckGo search: the docs' first choice, it lists every German volume with its French edition merged in; the Japanese edition is reached through the JA language link, and the fan translation through the `fan-translation` row; see sources/xi-novels-group.md

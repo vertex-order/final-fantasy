@@ -130,6 +130,9 @@ plaza.harmonix.ne.jp (Information)
   - Cross-check: LibraryThing (https://www.librarything.com/nseries/148143/Final-Fantasy-XI-Novels): Vol.1 "The Winds of Prayer", Al & Iris 1
   - Cross-check: Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): Book 1, "Das Lied des Sturms, Bd 1"
 
+worldcat.org (Information, library catalog)
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- languages*, dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 祈りの風 (Enterbrain, 2003), the French print Le chant de la tempête (Fleuve noir, impr. 2007; Miyabi Hasegawa, translator Cécile Sénaux; series Final fantasy XI on line) and the German Das Lied des Sturms (Dino, Stuttgart, 2006) plus a German eBook record (Panini-Verl.-GmbH, 2006, marked open access) of the same title
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
@@ -147,3 +150,6 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Date: `2002-12-20`, the publisher's (KADOKAWA product page) and the author's page; replaces Goodreads' 2002-12-18
   - NDL and bg-wiki's 2003.01 is probably NDL's cataloging month, as with the XIV Adventure Log
 - The XI novel section stays as separate entries, not one `contents[]` roll-up (user, 2026-10-15): the 19 entries in the Novels section (Hasegawa's numbered series, Books 1 to 32, in reading order; already rolled up per multi-volume arc) each have their own description, mostly about a different cast, and some have a rating or a FR/DE edition, which a part cannot carry; this file is the series' first book. Left open: whether the series reads as one continuous story (which would favour a single numbered roll-up), a section note saying it is one numbered series read in order, and `contents[]` on the eight 2 to 3 volume arcs
+- The book row has no `jpTag` (user, 2026-10-16): official French (Fleuve Noir, 2007, translated by Cécile Sénaux) and German (Panini, 2006, translated by Kaoru Iriyama-Gürtler) editions exist, so the book is not Japan-only; part of the `jpTag` audit (a book row's `jpTag` should agree with the entry's official languages)
+- The `…?` language row is dropped (user, 2026-10-16): every catalog searched (NDL, DNB, BnF, Library of Congress, BNE, Open Library, Google Books, Goodreads, LibraryThing and WorldCat) shows only the Japanese, French and German editions, so no other official edition is likely; see sources/xi-novels-group.md; `helpWanted` is removed too
+- The book row is the Goodreads series page "Final Fantasy XI Online" (user, 2026-10-16; https://www.goodreads.com/series/252821-final-fantasy-xi-online), replacing the DuckDuckGo search: the docs' first choice, it lists every German volume with its French edition merged in; the Japanese edition is reached through the JA language link, and the fan translation through the `fan-translation` row; see sources/xi-novels-group.md

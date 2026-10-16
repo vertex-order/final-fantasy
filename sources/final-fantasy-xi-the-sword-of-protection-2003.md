@@ -143,6 +143,9 @@ plaza.harmonix.ne.jp (Information)
   - Cross-check: LibraryThing (https://www.librarything.com/nseries/148143/Final-Fantasy-XI-Novels): Vol.4-6 "Sword of the Guardian" 1-3, Doug & Lynn 1-3
   - Cross-check: Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): Books 4-6, "Das Schwert des Wächters 1-3, Bd 4-6"
 
+worldcat.org (Information, library catalog)
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- languages* -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the French L'épée du gardien (Fleuve noir, 2007 to 2008: part 1 translated by Guillaume Didier, part 2 by Cécile Sénaux, and a combined record for volumes 4 to 6) and the German Das Schwert des Wächters Bd 5 and Bd 6 and the volume listed only as [4] (Panini-Verl.-GmbH, 2007, 1. Aufl); no Japanese record for 護りの剣 was among the 64 results
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
@@ -156,3 +159,5 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Description is the Vol.1 premise only; per-volume plot summaries removed as spoilers
   - The earlier Vol.2 and Vol.3 summaries (Dak and Rin's dragon child; the Uggalepih Temple) are gone
   - It was never settled which source summary belonged to Vol.1 and which to Vol.2
+- The book row has no `jpTag` (user, 2026-10-16): official German (Panini, 2007) and French (Fleuve Noir, 2007 to 2008) editions exist, so the book is not Japan-only (`jpTag` means no official edition outside Japan, a non-English edition counts); part of the `jpTag` audit, see sources/xi-novels-group.md
+- The book row is the Goodreads series page "Final Fantasy XI Online" (user, 2026-10-16; https://www.goodreads.com/series/252821-final-fantasy-xi-online), replacing the DuckDuckGo search: the docs' first choice, it lists every German volume with its French edition merged in; the Japanese edition is reached through the JA language link, and the fan translation through the `fan-translation` row; see sources/xi-novels-group.md

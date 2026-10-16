@@ -156,19 +156,17 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       subtitle: 'Book',
       length: '286p; A6',
       profileUrl: 'https://www.kadokawa.co.jp/product/200700003832/',
-      helpWanted: true,
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/57214633' },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1' },
         { value: 'DE', url: 'https://www.goodreads.com/book/show/4466888-final-fantasy-xi' },
         { value: 'EN', tip: 'English (fan translation)', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Winds%20of%20Prayer~%20(Novel)%20english%20translation' },
-        { value: '…?' },
       ],
       ratings: [
         { score: '3.24', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Winds of Prayer', searchQualifier: 'light novel' },
+        { key: 'book', name: 'Light Novel', url: 'https://www.goodreads.com/series/252821-final-fantasy-xi-online' },
         { key: 'fan-translation', search: 'duckduckgo' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Winds of Prayer', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -219,7 +217,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
         { score: '3.17', url: 'https://www.goodreads.com/book/show/43464316-final-fantasy-xi-tome-2', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Star Oath', searchQualifier: 'light novel' },
+        { key: 'book', name: 'Light Novel', url: 'https://www.goodreads.com/series/252821-final-fantasy-xi-online' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Star Oath', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -271,7 +269,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
         { score: '3.83', url: 'https://www.goodreads.com/book/show/43464376-final-fantasy-xi-tome-3', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Eternal Bond', searchQualifier: 'light novel' },
+        { key: 'book', name: 'Light Novel', url: 'https://www.goodreads.com/series/252821-final-fantasy-xi-online' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Eternal Bond', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -300,7 +298,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
         { score: '3.58', url: 'https://www.goodreads.com/book/show/43464339-final-fantasy-xi-tome-4', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI The Sword of Protection', searchQualifier: 'light novel' },
+        { key: 'book', name: 'Light Novel', url: 'https://www.goodreads.com/series/252821-final-fantasy-xi-online' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI The Sword of Protection', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -323,13 +321,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       languages: [
         { value: 'JA', native: true },
         { value: 'DE', url: 'https://www.goodreads.com/book/show/4466882-final-fantasy-xi' },
-        { value: '…?' },
       ],
       ratings: [
         { score: '3.60', url: 'https://www.goodreads.com/book/show/4466882-final-fantasy-xi', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Faraway Wings', searchQualifier: 'light novel' },
+        { key: 'book', name: 'Light Novel', url: 'https://www.goodreads.com/series/252821-final-fantasy-xi-online' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Faraway Wings', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -352,10 +349,9 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       languages: [
         { value: 'JA', native: true },
         { value: 'DE', url: 'https://www.goodreads.com/book/show/4466881-final-fantasy-xi' },
-        { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'Final Fantasy XI Pride of the Knight', searchQualifier: 'light novel' },
+        { key: 'book', name: 'Light Novel', url: 'https://www.goodreads.com/series/252821-final-fantasy-xi-online' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Pride of the Knight', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
