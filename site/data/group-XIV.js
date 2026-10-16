@@ -307,7 +307,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
   },
   {
     mediaType: 'Comic', chronoOrder: 3200, narrativeOrder: 875,
-    title: 'Final Fantasy XIV: I Will Teach You Professor Lalafell', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_I_Will_Teach_You_Professor_Lalafell', titleDate: { start: '2017-08-26', end: '2018-11-26' },
+    title: 'Final Fantasy XIV: I Will Teach You Professor Lalafell', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_I_Will_Teach_You_Professor_Lalafell', titleDate: { start: '2017-01-26', end: '2018-08', approx: true },
     by: 'Fakkuma',
     mediaDesc: [
       [{ text: "A gag manga in which the sole Lalafell-obsessed 'Lalafell-sensei' guides a green adventurer through Eorzea. Collected editions add the spin-off 'The Scholar and Eorzea'. Released in Japan as " }, { emText: 'Final Fantasy XIV: Lalafell-sensei no Oshiete Yaru yo!' }, { text: " (ファイナルファンタジーXIV ララフェル先生の教えてやるよ！, literally \"Lalafell-sensei Will Teach You!\")." }],
