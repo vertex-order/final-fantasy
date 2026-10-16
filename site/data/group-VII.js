@@ -599,15 +599,15 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/60295273-the-maiden-who-travels-the-planet' },
         { value: 'EN', tip: 'English (fan translation)', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#External_links' },
         { value: 'FR', tip: 'French (fan translation)', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#External_links' },
-        { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/51949522-the-maiden-who-travels-the-planet' },
+        { value: 'ES', tip: 'Spanish (fan translation; self-published print)', url: 'https://www.goodreads.com/book/show/51949522-the-maiden-who-travels-the-planet' },
       ],
-      length: '45p; P',
+      length: '45p; A4',
       profileUrl: 'https://www.bent.co.jp/lineup_day/%e4%bd%9c%e5%93%81%e7%b4%b9%e4%bb%8b%e8%a9%b3%e7%b4%b0%e3%80%80um19/',
       ratings: [
         { score: '3.93', url: 'https://www.goodreads.com/book/show/18139055-the-maiden-who-travels-the-planet', key: 'goodreads' },
       ],
       platforms: [
-        { key: 'book', name: 'Novella', jpTag: true, url: 'https://www.goodreads.com/book/show/60295273-the-maiden-who-travels-the-planet' },
+        { key: 'book', name: 'Novella', paren: 'Goodreads', jpTag: true, url: 'https://www.goodreads.com/search?q=The%20Maiden%20Who%20Travels%20The%20Planet' },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#External_links' },
         { key: 'fan-audiobook', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#External_links' },
         { key: 'fan-recap', name: 'Fan story recap (wiki)', url: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome#Story' },
