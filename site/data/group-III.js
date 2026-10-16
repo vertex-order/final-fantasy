@@ -178,8 +178,8 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
         { value: 'EN', tip: 'English (fan translation)' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', paren: 'Goodreads', url: 'https://www.goodreads.com/search?q=from%20Final%20Fantasy%20III%20Dragon%20Comics' },
-        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: '悠久の風伝説 ファイナルファンタジーⅢより', searchQualifier: '衣谷遊 電子書籍 角川' },
+        { key: 'book', name: 'Manga', paren: 'Goodreads', jpTag: true, url: 'https://www.goodreads.com/search?q=from%20Final%20Fantasy%20III%20Dragon%20Comics' },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', suffix: 'ebook', jpTag: true, search: 'duckduckgo', searchTitle: '悠久の風伝説 ファイナルファンタジーⅢより', searchQualifier: '衣谷遊' },
         {
           key: 'fan-translation',
           url: 'https://duckduckgo.com/?q=Y%C5%ABky%C5%AB%20no%20Kaze%20Densetsu%20Final%20Fantasy%20III%20Legend%20of%20the%20Eternal%20Wind%3A%20from%20Final%20Fantasy%20III%20translation&t=h_&ia=web',
