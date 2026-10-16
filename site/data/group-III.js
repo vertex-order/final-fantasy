@@ -163,7 +163,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
   },
   {
     mediaType: 'Comic', chronoOrder: 500, narrativeOrder: 200,
-    title: 'Legend of the Eternal Wind: from Final Fantasy III', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori', titleDate: '1991-01',
+    title: 'Legend of the Eternal Wind: from Final Fantasy III', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori', titleDate: { start: '1990', end: '1992-09-04' },
     by: [{ role: 'adapted', names: 'Kenji Terada' }, { role: 'illustrated', names: 'Yuu Kinutani' }],
     mediaDesc: [
       [{ text: 'Adaptation of ' }, { emLinkText: 'Final Fantasy III (1990)', emLinkUrl: '#entry-III-final-fantasy-iii-1990' }, { text: ' as a manga with many changes, which could be considered an alternate universe retelling. Released as ' }, { emText: 'Yūkyū no Kaze Densetsu: Final Fantasy III Yori' }, { text: '.' }],
@@ -171,25 +171,21 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
     primary: {
       tags: ['Alternate Universe', 'Manga'],
       subtitle: 'Comic',
-      helpWanted: true,
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E6%82%A0%E4%B9%85%E3%81%AE%E9%A2%A8%E4%BC%9D%E8%AA%AC',
       length: '3 volumes',
       languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/76171402' },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/76161074' },
         { value: 'EN', tip: 'English (fan translation)' },
       ],
       platforms: [
-        {
-          key: 'book',
-          name: 'Manga',
-          jpTag: true,
-          url: 'https://archive.org/details/YukyunoKazeDensetsuFinalFantasyIIIYori/Legend%20of%20the%20Eternal%20Wind%20from%20Final%20Fantasy%20III%2001/mode/2up',
-        },
+        { key: 'book', name: 'Manga', paren: 'Goodreads', url: 'https://www.goodreads.com/search?q=from%20Final%20Fantasy%20III%20Dragon%20Comics' },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: '悠久の風伝説 ファイナルファンタジーⅢより', searchQualifier: '衣谷遊 電子書籍 角川' },
         {
           key: 'fan-translation',
           url: 'https://duckduckgo.com/?q=Y%C5%ABky%C5%AB%20no%20Kaze%20Densetsu%20Final%20Fantasy%20III%20Legend%20of%20the%20Eternal%20Wind%3A%20from%20Final%20Fantasy%20III%20translation&t=h_&ia=web',
         },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Legend of the Eternal Wind: from Final Fantasy III', searchSuffix: 'manga dub', noResults: true },
-        { key: 'fan-recap', name: 'Fan story recap video of III (1990)', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy III' },
+        { key: 'fan-recap', name: 'Fan story recap of the manga (blog)', url: 'https://marathonrecaps.wordpress.com/2024/06/13/final-fantasy-iii-legend-of-the-eternal-wind-language-barriers/' },
       ],
     },
   },
