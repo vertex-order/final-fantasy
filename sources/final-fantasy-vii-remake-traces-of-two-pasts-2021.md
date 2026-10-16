@@ -34,4 +34,13 @@ Kazushige Nojima -- By (entry `by`) -- wikipedia, Compilation of Final Fantasy V
 goodreads.com (Information)
 - https://www.goodreads.com/book/show/117984595-final-fantasy-vii-remake -- format* (406 pages, Hardcover; goodreads tags the genre "Light Novel" among others, not trusted for a hardcover; platform stays Novel) -- accessed 2026-10-09
 
+reddit.com and tumblr.com (Information; fan translations) -- fan translation*, EN language -- the pages pasted by user 2026-10-16 (not read by me):
+- https://www.reddit.com/r/FFVIIRemake/comments/r8m26b/final_fantasy_vii_remake_traces_of_two_pasts/ -- "Final Fantasy VII Remake : Traces of Two Pasts Novel - Translations fused and formated in EPUB e-book" (fan content, author deleted): the poster found only two separate, incomplete English translations, one of each part, and merged them into one EPUB: Peko's (the Tifa part) and Stanley's (the Aerith part)
+- https://pekotranslates.tumblr.com/ -- Peko's translation (the Tifa part), per the user still online, in blog posts in segments, not one continuous document
+- https://istanleyff7.tumblr.com/ -- Stanley's translation (the Aerith part), per the user still online, in sections as posts, with a table of contents
+- https://www.reddit.com/r/FFVIIRemake/comments/p242de/traces_of_two_pasts_episode_aerith_full_english/ -- Stanley's own post about the Aerith translation
+- So the English "Fan Translation" in the EN tip is real: the two parts were translated by fans from the Japanese, before the official English edition (Square Enix Books, 2023-03-21, per Goodreads)
+
 ## Decisions
+- A `fan-translation` platform with a DuckDuckGo search was added, and the EN language row stays as it is (user, 2026-10-16): the EN tip "English (Official; Fan Translation)" is accurate, since two fan translations exist besides the official edition
+- `length` is `384p; H` (user, 2026-10-16): the official English edition, Square Enix Books hardcover, 384 pages (Goodreads https://www.goodreads.com/book/show/60556665-final-fantasy-vii-remake, read 2026-10-16), the English count being preferred; it was `406p; H`, the Japanese hardcover's count

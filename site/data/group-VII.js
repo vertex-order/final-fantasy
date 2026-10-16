@@ -551,13 +551,14 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
           url: 'https://www.goodreads.com/book/show/123275998-final-fantasy-vii-remake-huellas-de-dos-pasados-novela',
         },
       ],
-      length: '406p; H',
+      length: '384p; H',
       profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646091775',
       ratings: [
         { score: '4.14', url: 'https://www.goodreads.com/book/show/60556665-final-fantasy-vii-remake', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Novel', url: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646091775' },
+        { key: 'fan-translation', search: 'duckduckgo' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
       ],
