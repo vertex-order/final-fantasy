@@ -41,3 +41,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - No book-row search and no rating: every part links to its Goodreads page, and no page has ratings
 - The book platform has `opensContents: true` (user, 2026-10-15): clicking it opens the list of volumes, where each volume's link is
 - A `fan-translation` row was added (2026-10-16): a DuckDuckGo search on the series' English title, marked `noResults` (no results yet; not searched by us); it is the series search, not one per part, and the book row stays the official Japanese print
+- The description ends "Parts were originally published in ~Vana Digest~ (2008)." (user, 2026-10-16: "Parts were originally published in" when only parts): the Boy meets Girl IV-V series ran in all seven issues of the mook and continued on ファミ通コミッククリア from 2011-06-24 to 2012-03-30, per ja.wikipedia (https://ja.wikipedia.org/wiki/コミックヴァナ通); which of the three volumes holds which part was not checked
