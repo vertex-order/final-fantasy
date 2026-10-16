@@ -70,6 +70,9 @@ plaza.harmonix.ne.jp (Information)
   - Books 20-21 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
   - Sale dates on the page, not the entry's day-level dates: 〜賢者の遺言　上〜 2007-02-28; 〜賢者の遺言　下〜 2007-03-30
 
+kadokawa.co.jp (Publisher, Japanese)
+- https://www.kadokawa.co.jp/product/search/?kw=%E8%B3%A2%E8%80%85%E3%81%AE%E9%81%BA%E8%A8%80 -- profile* -- accessed 2026-10-16: search 賢者の遺言 (user, 2026-10-16): exactly the 2 volumes, 上 2007-02-28 and 下 2007-03-30, illustrations 金田榮路, 704 yen incl. tax each
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
@@ -79,3 +82,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
+- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)

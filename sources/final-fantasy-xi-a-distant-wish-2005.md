@@ -73,6 +73,9 @@ plaza.harmonix.ne.jp (Information)
   - Sale dates on the page, not the entry's day-level dates: 〜遠い願い　上〜 2005-06-20; 〜遠い願い　下〜 2005-08-29
   - Cross-check: LibraryThing (https://www.librarything.com/nseries/148143/Final-Fantasy-XI-Novels): Vol.13 "Far Off Wishes", Al & Iris 7 = the second volume; Vol.12 absent
 
+kadokawa.co.jp (Publisher, Japanese)
+- https://www.kadokawa.co.jp/product/search/?kw=%E9%81%A0%E3%81%84%E9%A1%98%E3%81%84 -- profile* -- accessed 2026-10-16: search 遠い願い (user, 2026-10-16): exactly the 2 volumes, 上 2005-06-20 and 下 2005-08-29, illustrations 金田榮路, 704 yen incl. tax each
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
@@ -82,3 +85,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
+- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)

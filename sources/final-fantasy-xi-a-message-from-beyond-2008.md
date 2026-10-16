@@ -87,6 +87,9 @@ plaza.harmonix.ne.jp (Information)
   - Books 26-28 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
   - Sale dates on the page, not the entry's day-level dates: 〜彼方からの伝言　１〜 2008-07-30; 〜彼方からの伝言　２〜 2008-09-29; 〜彼方からの伝言　３〜 2008-11-29
 
+kadokawa.co.jp (Publisher, Japanese)
+- https://www.kadokawa.co.jp/product/search/?kw=%E5%BD%BC%E6%96%B9%E3%81%8B%E3%82%89%E3%81%AE%E4%BC%9D%E8%A8%80 -- profile* -- accessed 2026-10-16: search 彼方からの伝言 (user, 2026-10-16): exactly the 3 volumes, A6, 2008-07-30, 2008-09-29 and 2008-11-29, 704 yen incl. tax each
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
@@ -96,3 +99,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
+- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)

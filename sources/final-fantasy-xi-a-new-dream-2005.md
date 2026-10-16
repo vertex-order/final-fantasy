@@ -72,6 +72,9 @@ plaza.harmonix.ne.jp (Information)
   - Books 14-15 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
   - Sale dates on the page, not the entry's day-level dates: 〜新たな夢　上〜 2005-10-29; 〜新たな夢　下〜 2005-12-24
 
+kadokawa.co.jp (Publisher, Japanese)
+- https://www.kadokawa.co.jp/product/search/?auth=%E3%81%AF%E3%81%9B%E3%81%8C%E3%82%8F%E3%81%BF%E3%82%84%E3%81%B3&kw=%E6%96%B0%E3%81%9F%E3%81%AA%E5%A4%A2 -- profile* -- accessed 2026-10-16: search 新たな夢 with the author はせがわみやび (user, 2026-10-16): exactly the 2 volumes, 上 2005-10-29 and 下 2005-12-24, illustrations 金田榮路, 704 yen incl. tax each; without the author the keyword returns 8 books, mostly unrelated
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
@@ -81,3 +84,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
+- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)

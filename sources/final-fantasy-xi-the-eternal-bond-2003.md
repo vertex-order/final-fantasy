@@ -69,6 +69,9 @@ plaza.harmonix.ne.jp (Information)
   - Cross-check: LibraryThing (https://www.librarything.com/nseries/148143/Final-Fantasy-XI-Novels): Vol.3, Al & Iris 3
   - Cross-check: Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): Book 3, "Der Bund der Ewigkeit, Bd 3"
 
+kadokawa.co.jp (Publisher, Japanese)
+- https://www.kadokawa.co.jp/product/200700003876/ -- profile* -- accessed 2026-10-16: product page for ファイナルファンタジーＸＩ －永遠の絆－ (page text pasted by user 2026-10-16): 著者 はせがわみやび, イラスト 金田榮路, 704 yen incl. tax (640 before), 発売日 2003-06-20, ISBN 9784757714809, paper book; the page lists no page count
+
 worldcat.org (Information, library catalog)
 - https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- languages* -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 永遠の絆 (Enterbrain, 2003), the French print Le lien éternel (Fleuve noir, 2007) and the German Der Bund der Ewigkeit (Panini-Verl.-GmbH, 2007, 1. Aufl, Bd 3; also available as an eBook; a second record, Panini, Stuttgart, 2007)
 
@@ -83,3 +86,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 ## Decisions
 - The book row has no `jpTag` (user, 2026-10-16): official German (Panini, 2007) and French (Fleuve Noir, 2007) editions exist, so the book is not Japan-only (`jpTag` means no official edition outside Japan, a non-English edition counts); part of the `jpTag` audit, see sources/xi-novels-group.md
 - The book row is the Goodreads series page "Final Fantasy XI Online" (user, 2026-10-16; https://www.goodreads.com/series/252821-final-fantasy-xi-online), replacing the DuckDuckGo search: the docs' first choice, it lists every German volume with its French edition merged in; the Japanese edition is reached through the JA language link, and the fan translation through the `fan-translation` row; see sources/xi-novels-group.md
+- `profileUrl` is the KADOKAWA page above (user, 2026-10-16) and `helpWanted` is removed: the publisher link was the missing piece

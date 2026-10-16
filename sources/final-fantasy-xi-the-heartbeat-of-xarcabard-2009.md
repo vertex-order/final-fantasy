@@ -90,6 +90,9 @@ plaza.harmonix.ne.jp (Information)
   - Sale dates on the page, not the entry's day-level dates: 〜ザルカバードの鼓動　１〜 2009-04-30; 〜ザルカバードの鼓動　２〜 2009-07-30; 〜ザルカバードの鼓動　３〜 2009-10-30
   - Cross-check: ja.wikipedia (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB)): volume 30 illustrated by Fumio Minagawa; this book's illustrator is Minagawa
 
+kadokawa.co.jp (Publisher, Japanese)
+- https://www.kadokawa.co.jp/product/search/?kw=%E3%82%B6%E3%83%AB%E3%82%AB%E3%83%90%E3%83%BC%E3%83%89%E3%81%AE%E9%BC%93%E5%8B%95 -- profile* -- accessed 2026-10-16: search ザルカバードの鼓動 (user, 2026-10-16): exactly the 3 volumes, A6, 2009-04-30, 2009-07-30 and 2009-10-30, 704 yen incl. tax each
+
 worldcat.org (Information, library catalog)
 - https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11. ザルカバードの鼓動 1, 2 and 3 (Enterbrain with Kadokawa Group Publishing, 2009); no translation
 
@@ -102,3 +105,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
+- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)

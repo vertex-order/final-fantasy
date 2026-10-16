@@ -47,6 +47,9 @@ plaza.harmonix.ne.jp (Information)
   - Book 24 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
   - Sale dates on the page, not the entry's day-level dates: 〜星のいざない〜 2007-12-25
 
+kadokawa.co.jp (Publisher, Japanese)
+- https://www.kadokawa.co.jp/product/200712000062/ -- profile* -- accessed 2026-10-16: product page 200712000062 (user, 2026-10-16): 星のいざない, A6, 264 pages (the entry has 287p), 704 yen incl. tax, 2007-12-25, ISBN 9784757739215
+
 worldcat.org (Information, library catalog)
 - https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 星のいざない (Enterbrain, 2008); no translation
 
@@ -59,3 +62,5 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
+- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
+- `length` is `264p; A6` (user, 2026-10-16): the native publisher's (KADOKAWA) page count and size, not the earlier 287p; we use the native publisher's count when there is no English edition

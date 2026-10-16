@@ -46,6 +46,9 @@ plaza.harmonix.ne.jp (Information)
   - Book 22 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
   - Sale dates on the page, not the entry's day-level dates: 〜幸運の条件〜 2007-07-30
 
+kadokawa.co.jp (Publisher, Japanese)
+- https://www.kadokawa.co.jp/product/200707000165/ -- profile* -- accessed 2026-10-16: product page 200707000165 (user, 2026-10-16): 幸運の条件, A6, 296 pages (the entry has 284p; publisher pages can include front matter), 704 yen incl. tax, 2007-07-30, ISBN 9784757736344
+
 worldcat.org (Information, library catalog)
 - https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 幸運の条件 (Enterbrain, 2007); no translation
 
@@ -62,3 +65,5 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Description names the corsair "Lucky Narfah" (Mithra) only
   - Removed from the description: a secondary English source called her an Elvaan named "Nalfa the Lucky"; race and name unconfirmed
   - That source was not recorded when the line was written, so it cannot be re-checked from here
+- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
+- `length` is `296p; A6` (user, 2026-10-16): the native publisher's (KADOKAWA) page count and size, not the earlier 284p; we use the native publisher's count when there is no English edition

@@ -88,6 +88,9 @@ plaza.harmonix.ne.jp (Information)
   - Books 17-19 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
   - Sale dates on the page, not the entry's day-level dates: 〜アトルガンの娘たち　１〜 2006-07-29; 〜アトルガンの娘たち　２〜 2006-09-30; 〜アトルガンの娘たち　３〜 2006-11-30
 
+kadokawa.co.jp (Publisher, Japanese)
+- https://www.kadokawa.co.jp/product/search/?kw=%E3%82%A2%E3%83%88%E3%83%AB%E3%82%AC%E3%83%B3%E3%81%AE%E5%A8%98%E3%81%9F%E3%81%A1 -- profile* -- accessed 2026-10-16: search アトルガンの娘たち (user, 2026-10-16): exactly the 3 volumes, 2006-07-29, 2006-09-30 and 2006-11-30, illustrations 金田榮路, 704 yen incl. tax each
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
@@ -97,3 +100,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
+- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
