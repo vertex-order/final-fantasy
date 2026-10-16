@@ -52,3 +52,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - No `by` credit; start date 2003-12-24 and end 2005-12-24 (publisher, ohzora.jp); volume titles are bg-wiki's English forms
 - The book row has no search link (user, 2026-10-15): every part links to its Goodreads page, so a series search adds nothing
 - The book platform has `opensContents: true` (user, 2026-10-15): clicking it opens the list of volumes, where each volume's link is
+- A `fan-translation` row was added (2026-10-16): a DuckDuckGo search on the series' English title, marked `noResults` (no results yet; not searched by us); it is the series search, not one per part, and the book row stays the official Japanese print

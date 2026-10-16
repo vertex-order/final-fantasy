@@ -96,3 +96,4 @@ ja.wikipedia.org (Information)
 - Title is our translation: "Lightning Brigade 4-Koma Manga" for 電撃の旅団編 えふえふいれぶん・4コマ・マンガ
 - Description wording from the Amazon.co.jp blurb; no strip count given since it is only NO.1's (312)
 - Added 2026-10-13 as the Dengeki Brigade's gag-comic collections, in place of the Lightning Brigade Encyclopedia (see final-fantasy-xi-lightning-brigade-encyclopedia-2013.md)
+- A `fan-translation` row was added (2026-10-16): a DuckDuckGo search on the series' English title, marked `noResults` (no results yet; not searched by us); it is the series search, not one per part, and the book row stays the official Japanese print

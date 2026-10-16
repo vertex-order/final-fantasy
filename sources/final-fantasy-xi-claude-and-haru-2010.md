@@ -40,3 +40,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Title "Final Fantasy XI ~Claude and Haru~" is ours: no series name is printed (the volumes are titled ファイナルファンタジーXI plus the subtitle)
 - No book-row search and no rating: every part links to its Goodreads page, and no page has ratings
 - The book platform has `opensContents: true` (user, 2026-10-15): clicking it opens the list of volumes, where each volume's link is
+- A `fan-translation` row was added (2026-10-16): a DuckDuckGo search on the series' English title, marked `noResults` (no results yet; not searched by us); it is the series search, not one per part, and the book row stays the official Japanese print

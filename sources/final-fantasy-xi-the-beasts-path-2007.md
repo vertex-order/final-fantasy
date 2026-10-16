@@ -41,3 +41,4 @@ goodreads.com (Ratings)
 - The two volumes are one series, so one entry with a "2 volumes" length
 - Title is our translation: "The Beast's Path" for 獣の花道 (subtitle 電撃の旅団外伝, a Dengeki Brigade side story)
 - Added 2026-10-13: a four-panel comic with a storyline, the best fit of the Brigade books (see final-fantasy-xi-lightning-brigade-encyclopedia-2013.md)
+- A `fan-translation` row was added (2026-10-16): a DuckDuckGo search on the series' English title, marked `noResults` (no results yet; not searched by us); it is the series search, not one per part, and the book row stays the official Japanese print

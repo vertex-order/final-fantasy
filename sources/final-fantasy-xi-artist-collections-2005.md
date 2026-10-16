@@ -68,3 +68,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Left out: Wind of Pray 1 and 2 (the Winds of Prayer manga entry), the Claude and Haru books (their own entry, planned), Love in the Sky (its own entry), the two anthology lines and the magazine supplements (see sources/final-fantasy-xi-anthology-comic-2002.md)
 - No JA language URL (no Goodreads search lists the 22 books together), no book-row search (every part links to its Goodreads page), no rating (no trusted score)
 - The book platform has `opensContents: true` (user, 2026-10-15): clicking it opens the list of volumes, where each volume's link is
+- A `fan-translation` row was added (2026-10-16): a DuckDuckGo search on the series' English title, marked `noResults` (no results yet; not searched by us); it is the series search, not one per part, and the book row stays the official Japanese print

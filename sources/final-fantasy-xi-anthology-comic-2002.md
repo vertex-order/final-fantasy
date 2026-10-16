@@ -36,6 +36,7 @@ ndlsearch.ndl.go.jp (Information)
 
 covers (bg-wiki scans, pasted by user 2026-10-14)
 - Original vol 1: ファイナルファンタジーXI アンソロジーコミック 第1巻, "BROS.COMICS ANTHOLOGY COMICS SERIES", ISBN 4-7577-1279-0, 680 yen before tax, about 17 artists; 冒険者の軌跡: the title with the subtitle in tildes, the "BROS COMICS EX" logo, 780 yen before tax, about 13 comic and 6 illustration artists; 夢の扉1: printed English "FINAL FANTASY XI ANTHOLOGY COMIC Door of dream 1", the EX logo, 880 yen before tax, about 20 artists; Shorts (Funny & Smile): ファイナルファンタジーXI ショートコミック集, the EX logo, 840 yen before tax, about 10 artists
+- Vana'diel Petit (ヴァナ・ディール通信プチ ファイナルファンタジーXI アンソロジーコミック出張版, "ヴァナ通ぷち"; bg-wiki scan pasted by user 2026-10-14; the evidence for omitting it): front with a "BROS.COMICS EX" tag and "ファミ通PS2 2005.10.28 SPECIAL ISSUE"; the back advertises a Treasures of Aht Urhgan feature, NPC introductions and a "new disc" report, "comics are not just for reading"; no ISBN (a magazine barcode only, 491026464105400600) and no NDL record; 8 issues, 2005.10 to 2006.06, 100p, B6, 590 to 630 yen (bg-wiki); so a special-issue supplement of Famitsu PS2 that mixes a taste of the Bros anthology comics with guide pages
 - The printed title uses XI, so the entry's title follows the covers, not NDL's numeral
 
 duckduckgo.com (Information)
@@ -46,7 +47,7 @@ duckduckgo.com (Information)
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
 
 - Not yet done: a Goodreads series check (the series search address I guessed was a bad link; none of the volume pages showed a series link), a check that no volume is about a different game (the bg-wiki list is XI-only) -- mine
-- Related lines considered and kept out of this entry (see Decisions): the 4-koma volumes (own entry), the single-artist collections, Ozora, Famitsu Clear Comics, Vana'diel Petit, Vana Digest
+- Related lines considered and kept out of this entry (see Decisions): the 4-koma volumes (own entry), the single-artist collections, Ozora, Famitsu Clear Comics, Vana'diel Petit; Vana Digest has its own entry (sources/final-fantasy-xi-vana-digest-2008.md)
 
 ## Decisions
 
@@ -55,6 +56,7 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - One entry for the line (user, 2026-10-14): Original, Regular and Black are one continuous line (same title, numbered volumes, the same Bros Comics EX imprint and size except for the first two), so the wiki's section names are not used
 - Story manga and gag-strip collections are separate entries (user): the 4-koma volumes stay in the 4-Panel Anthology Comic entry (sources/final-fantasy-xi-4-panel-anthology-comic-2004.md), and the gag volume うきうきヴァナ・ディール日記 (2004.04, "FFXI gag and 4-panel comics") goes there too; it is counted here in the 50 until it is moved
 - Different publishers or imprints stay separate unless clearly one series (user): Ozora (13 volumes, 2003.12 to 2005.12), the single-artist collections, and the Famitsu Clear Comics Vana'diel books are not part of this entry
-- Omitted and why: Vana'diel Petit (8 magazine supplements of Famitsu PS2 with guide pages, no ISBN) and Vana Digest (7 comics-led magazine mooks with guides); the 3 player comic collections (Haruu, Suzume, Ponkichi) and the single-artist books go in the single-artist entry
+- Omitted and why: Vana'diel Petit (8 magazine supplements of Famitsu PS2 with guide pages, no ISBN; its contents were not found); Vana Digest was first left out as a guide mook, then found to be a comic anthology magazine and given its own entry (user, 2026-10-16; sources/final-fantasy-xi-vana-digest-2008.md); the 3 player comic collections (Haruu, Suzume, Ponkichi) and the single-artist books go in the single-artist entry
 - The 4 ショートコミック集 volumes (Funny & Smile 1 and 2, Happy Harmony 1 and 2; 2007.08 to 2007.11) join this entry (user, 2026-10-14), making 54 volumes: all four are in the Bros.comics EX series per NDL, fill the line's skipped monthly slots between また会えたね 3 (2007.07) and ラウンドアップ! (2007.12), and carry the same ISBN run and price tier; the humor-leaning blurbs did not move them to the gag entry, as they are short comics and not 4-panel strips
 - うきうきヴァナ・ディール日記 stays in this entry (user, 2026-10-15): its cover prints the Bros line's title form (ファイナルファンタジーXI アンソロジーコミック ~うきうきヴァナ・ディール日記~, no 4コマ), it sits in the line's 2004 slot with an ISBN from the same run, and its content is mixed (gag and 4-panel per bg-wiki), so the gag-collection rule does not move it to the 4-Panel entry; the 54 count stands
+- A `fan-translation` row was added (2026-10-16): a DuckDuckGo search on the series' English title, marked `noResults` (no results yet; not searched by us); it is the series search, not one per part, and the book row stays the official Japanese print

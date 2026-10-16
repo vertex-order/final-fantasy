@@ -83,3 +83,4 @@ kadokawa.co.jp (Publisher, Japanese)
 - Added 2026-10-13 as the multi-artist counterpart of the Crystal Chronicles four-panel books (see xi-group.md)
 - Stays at 10 volumes (user, 2026-10-15): うきうきヴァナ・ディール日記 is not folded in; see sources/final-fantasy-xi-anthology-comic-2002.md. `contents[]` lists volumes 1 to 10 with the publisher dates and Goodreads pages (volumes 4, 5, 7, 8, 9, 10 from the Goodreads search `ファイナルファンタジーXI 4コマ`, fetched 2026-10-15; 1, 2, 3, 6 as above)
 - The book platform has `opensContents: true` (user, 2026-10-15): clicking it opens the list of volumes, where each volume's link is
+- A `fan-translation` row was added (2026-10-16): a DuckDuckGo search on the series' English title, marked `noResults` (no results yet; not searched by us); it is the series search, not one per part, and the book row stays the official Japanese print

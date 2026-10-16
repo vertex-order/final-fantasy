@@ -785,6 +785,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       ],
       platforms: [
         { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo' },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XI Anthology Comic', noResults: true },
       ],
     },
   },
@@ -819,6 +820,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       ],
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true, opensContents: true },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XI Ozora Anthology Comic', noResults: true },
       ],
     },
   },
@@ -862,6 +864,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       ],
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true, opensContents: true },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XI Artist Collections', noResults: true },
       ],
     },
   },
@@ -887,6 +890,38 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       ],
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true, opensContents: true },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XI Claude and Haru', noResults: true },
+      ],
+    },
+  },
+  {
+    mediaType: 'Comic', chronoOrder: 5059.5, narrativeOrder: 636.95, narrativeSection: 'Main',
+    title: 'Final Fantasy XI ~Vana Digest~', titleUrl: 'https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%B4%E3%82%A1%E3%83%8A%E9%80%9A', titleDate: { start: '2008-08-25', end: '2010-03-15' },
+    mediaDesc: [
+      [{ text: 'A comic anthology magazine about the adventurers and non-player characters of ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ': short comics themed each volume on the NPCs of a country or a race, serials, and strips from guest artists. Released as コミックヴァナ通 (Comic Vana-tsu).' }],
+      [{ text: 'Also included elsewhere: ' }, { emLinkText: 'Winds of Prayer (Manga)', emLinkUrl: '#entry-XI-final-fantasy-xi-winds-of-prayer-manga-2008' }, { text: ', the Boy meets Girl series in ' }, { emLinkText: 'Claude and Haru', emLinkUrl: '#entry-XI-final-fantasy-xi-claude-and-haru-2010' }, { text: ' and Ribbon in ' }, { emLinkText: 'Artist Collections', emLinkUrl: '#entry-XI-final-fantasy-xi-artist-collections-2005' }, { text: '.' }],
+    ],
+    primary: {
+      tags: ['Tie-in', 'Manga'],
+      subtitle: 'Comic',
+      length: '7 volumes',
+      searchTitle: 'コミックヴァナ通',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%B4%E3%82%A1%E3%83%8A%E9%80%9A',
+      languages: [
+        { value: 'JA', native: true, url: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%B4%E3%82%A1%E3%83%8A%E9%80%9A' },
+      ],
+      contents: [
+        { title: 'Jeuno NPCs', titleDate: '2008-08-25', searchTitle: '9784757744097' },
+        { title: 'Aht Urhgan NPCs', titleDate: '2008-11-25', searchTitle: '9784757745520' },
+        { title: 'Wings of the Goddess', titleDate: '2009-02-25', searchTitle: '9784757747227' },
+        { title: 'Small-Town NPCs', titleDate: '2009-05-25', searchTitle: '9784757749207' },
+        { title: 'Tarutaru and Elvaan NPCs', titleDate: '2009-08-25', searchTitle: '9784757750616' },
+        { title: 'Galka and Mithra NPCs', titleDate: '2009-11-25', searchTitle: '9784047261730' },
+        { title: 'Hume NPCs', titleDate: '2010-03-15', searchTitle: '9784047264496' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Mook', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo' },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XI Vana Digest', noResults: true },
       ],
     },
   },
@@ -907,6 +942,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       ],
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XI Lightning Brigade 4-Koma Manga', noResults: true },
       ],
     },
   },
@@ -959,6 +995,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       ],
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true, opensContents: true },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XI 4-Panel Anthology Comic', noResults: true },
       ],
     },
   },
@@ -979,6 +1016,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       ],
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true, url: 'https://www.goodreads.com/search?q=%E7%8D%A3%E3%81%AE%E8%8A%B1%E9%81%93' },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: "Final Fantasy XI The Beast's Path", noResults: true },
       ],
     },
   },

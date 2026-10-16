@@ -138,6 +138,8 @@ ja.wikipedia.org (Information)
 kadokawa.co.jp (Publisher, Japanese)
 - https://www.kadokawa.co.jp/product/search/?auth=%E6%B2%99%E6%9C%88%E3%82%86%E3%81%86&kw=%E7%A5%88%E3%82%8A%E3%81%AE%E9%A2%A8 -- profile*, dates* -- accessed 2026-10-16 (found by the KADOKAWA search by ISBN 9784047265172 and 9784047268630; the search, and both product pages, pasted by user): search 祈りの風 with the artist 沙月ゆう returns exactly the two volumes; ファイナルファンタジーＸＩ －祈りの風－（１）: https://www.kadokawa.co.jp/product/201003000121/, 2010-05-15, B6, 144 pages, 693 yen incl. tax (630 before), ISBN 9784047265172, credits 漫画 沙月ゆう, 原作 スクウェア・エニックス, ストーリー はせがわみやび, 小説版イラスト 金田榮路; （２）: https://www.kadokawa.co.jp/product/201009000409/, 2010-11-15, B6, 144 pages, 715 yen incl. tax (650 before), ISBN 9784047268630, 著者 沙月ゆう, blurb 祈りの風、完結！; Goodreads has volume 1 (78009261, already the JA link) and no page for volume 2 by ISBN
 
+- https://www.kadokawa.co.jp/product/200808000098/ -- dates (not applied) -- accessed 2026-10-16 (page text pasted by user): コミックヴァナ通 vol.01 released **2008-08-25** (A5, 260 pages, 1,320 yen incl. tax, ISBN 9784757744097); NDL says 2008.9, and the entry's `titleDate` start is 2008-09 (NDL's month), so by the publisher-date rule (see the Anthology Comic sources, where KADOKAWA's dates run a month before NDL's) the start would be 2008-08-25; the end's Vol.07 is 2010-03-15 per KADOKAWA's own page (https://www.kadokawa.co.jp/product/201002000078/), Rakuten and Amazon, agreeing with wiki.ffo.jp, so the end could be 2010-03-15; the entry is unchanged, pending the user
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
