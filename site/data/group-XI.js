@@ -1022,21 +1022,21 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
   },
   {
     mediaType: 'Comic', chronoOrder: 5050, narrativeOrder: 640, narrativeSection: 'Main',
-    title: 'Final Fantasy XI ~Aloha Iroha~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha', titleDate: '2015-08-11',
+    title: 'Final Fantasy XI ~Aloha Iroha~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha', titleDate: { start: '2015-08-11', end: '2015-12-25' },
+    by: 'Tomokichi',
     mediaDesc: [
-      "A series of four-panel manga based on Final Fantasy XI, following the story of Iroha, the main heroine of Rhapsodies of Vana'diel. Known in Japan as Iroha de Gozaru.",
+      [{ text: "A series of four-panel manga based on Final Fantasy XI, following the story of Iroha, the main heroine of Rhapsodies of Vana'diel. Also known as " }, { emText: 'Iroha de Gozaru' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Tie-in', 'Manga'],
+      tags: ['Tie-in', 'Manga', 'Free'],
       subtitle: 'Comic',
-      helpWanted: true,
+      length: '20 issues',
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN' },
-        { value: '…?' },
+        { value: 'JA', native: true, url: 'https://www.playonline.com/ff11us/vanaproj/detail/manga.html?lng=ja&rgn=jp&manga=iroha_1' },
+        { value: 'EN', url: 'https://www.playonline.com/ff11us/vanaproj/detail/manga.html?lng=en&rgn=us&manga=iroha_1' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', url: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha#External_links' },
+        { key: 'globe', name: 'Webcomic', url: 'https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha#External_links' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XI Aloha Iroha', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
