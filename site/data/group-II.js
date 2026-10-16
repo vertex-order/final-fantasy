@@ -177,8 +177,8 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     primary: {
       tags: ['Alternate Universe', 'Light Novel'],
       subtitle: 'Book',
-      helpWanted: true,
-      length: '281p',
+      profileUrl: 'https://www.kadokawa.co.jp/product/199999410604/',
+      length: '288p; A6',
       languages: [
         { value: 'JA', url: 'https://www.goodreads.com/book/show/77954969' },
         { value: 'EN', tip: 'English (fan translation)' },
