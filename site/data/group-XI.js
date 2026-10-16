@@ -226,7 +226,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
   },
   {
     mediaType: 'Comic', chronoOrder: 110, narrativeOrder: 605, narrativeSection: 'Novels',
-    title: 'Final Fantasy XI ~Winds of Prayer~ (Manga)', titleUrl: "https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Vana'diel", titleDate: { start: '2008-09', end: '2010-11-15' },
+    title: 'Final Fantasy XI ~Winds of Prayer~ (Manga)', titleUrl: "https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Vana'diel", titleDate: { start: '2008-09', end: '2010-03' },
     by: [{ role: 'adapted', names: 'You Satsuki' }],
     mediaDesc: [
       [{ text: 'Manga adaptation of ' }, { emLinkText: '~Winds of Prayer~ (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-winds-of-prayer-novel-2002' }, { text: '.' }],
