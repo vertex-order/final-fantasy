@@ -163,7 +163,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
   },
   {
     mediaType: 'Comic', chronoOrder: 500, narrativeOrder: 200,
-    title: 'Legend of the Eternal Wind: from Final Fantasy III', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori', titleDate: { start: '1990', end: '1992-09-04' },
+    title: 'Legend of the Eternal Wind: from Final Fantasy III', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori', titleDate: { start: '1990', end: '1992-09-04', approx: true },
     by: [{ role: 'adapted', names: 'Kenji Terada' }, { role: 'illustrated', names: 'Yuu Kinutani' }],
     mediaDesc: [
       [{ text: 'Adaptation of ' }, { emLinkText: 'Final Fantasy III (1990)', emLinkUrl: '#entry-III-final-fantasy-iii-1990' }, { text: ' as a manga with many changes, which could be considered an alternate universe retelling. Released as ' }, { emText: 'Yūkyū no Kaze Densetsu: Final Fantasy III Yori' }, { text: '.' }],

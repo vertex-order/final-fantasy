@@ -94,7 +94,7 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
 
 ## Decisions
 
-- `titleDate` is `{ start: '1990', end: '1992-09-04' }` (user, 2026-10-15): the start is the serialization in Maru Katsu Famicom (1990 vol.9 per ja.wikipedia, year only since issue dates are not given; the wiki and the recap blog say 1991), the end is the last volume's publisher date; the old 1991-01 had no source; the anchor and this file's name moved from 1991 to 1990
+- `titleDate` is `{ start: '1990', end: '1992-09-04', approx: true }` (user, 2026-10-16): the serialization is known only to the year (ja.wikipedia: 1990 vol.9 to 1992 vol.9, the ninth issue of each year; the magazine was renamed マル勝スーパーファミコン in April 1991), so the start is 1990, and the end is the last volume's publisher date, because the serialization must have finished before its last volume came out (volume 3, 1992-09-04; the volumes are 1991-10-07, 1992-04-17 and 1992-09-04); `approx` marks that neither end is an exact date; the exact issue dates were looked for and not found: NDL Search has no result for either magazine title, ja.wikipedia has no issue calendar, and the Media Arts Database has only the one-off Extra (マル勝ファミコン増刊, 1988-10-21, vol. 3 no. 19, https://mediaarts-db.artmuseums.go.jp/id/M540500); the anchor stays 1990
 - `profileUrl` is the KADOKAWA search for 悠久の風伝説, which returns exactly the three volumes (confirmed by user in a browser)
 - The `fan-recap` is the Marathon Recaps blog post on the manga (user, 2026-10-15), better than the wiki's #Story section, and it replaces the YouTube recap of the game, which is a different story
 - The English translation on MangaDex and the 2008 e-book are not in the entry data (user, 2026-10-15)
