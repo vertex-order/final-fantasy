@@ -590,7 +590,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
     title: 'The Maiden Who Travels The Planet', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Hoshi_o_Meguru_Otome', titleDate: '2005-09-09',
     by: 'Benny Matsuyama',
     mediaDesc: [
-      ["A novella describing Aerith's journey through the Lifestream and the ending for the original ", { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, ' game. Divided into seven chapters, it follows Aerith as she encounters other spirits in the Lifestream.'],
+      ["A novella describing Aerith's journey through the Lifestream and the ending for the original ", { emLinkText: 'VII (1997)', emLinkUrl: '#entry-VII-final-fantasy-vii-1997' }, ' game.'],
     ],
     primary: {
       tags: ['Novella'],
