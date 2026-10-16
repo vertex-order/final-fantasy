@@ -904,20 +904,19 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~Dengeki 4-Koma International~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: '2004-08-27',
     by: 'Hijiri Emoto',
     mediaDesc: [
-      [{ text: 'English-language four-panel comics about ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ", with Japanese translations, plus English vocabulary and phrases for Vana'diel. Released as 電撃4コマインターナショナル ヴァナ・ディールで使える英単語/英会話." }],
+      [{ text: 'English translations of four-panel comics about ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ' from the Dengeki Brigade, with the Japanese alongside. Released as 電撃4コマインターナショナル ヴァナ・ディールで使える英単語/英会話.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200408000116/',
       length: '402p; B6',
-      helpWanted: true,
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN' },
-        { value: '…?' },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77555347' },
+        { value: 'EN', tip: 'English — alongside the Japanese' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', jpTag: true },
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'ファイナルファンタジーXI 電撃4コマ インターナショナル' },
       ],
     },
   },
