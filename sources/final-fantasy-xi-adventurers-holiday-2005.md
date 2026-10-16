@@ -45,6 +45,9 @@ plaza.harmonix.ne.jp (Information)
   - Sale dates on the page, not the entry's day-level dates: 〜冒険者の休日〜 2005-03-22
   - Cross-check: LibraryThing (https://www.librarything.com/nseries/148143/Final-Fantasy-XI-Novels) and Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): no entry for this number (LibraryThing skips 11 and 12; Goodreads stops at 10)
 
+worldcat.org (Information, library catalog)
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 冒険者の休日 (Enterbrain, 2005); no translation
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

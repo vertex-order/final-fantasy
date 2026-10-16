@@ -44,6 +44,9 @@ goodreads.com (Information)
 duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Songs%20of%20the%20Endless%20Earth~%20translation — fan-translation search
 
+worldcat.org (Information, library catalog)
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 終わりなき大地の唄 (KADOKAWA, 2015); no translation
+
 ## Decisions
 
 - Not in the Final Fantasy XI Novels section; stays in the main section

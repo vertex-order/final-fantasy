@@ -42,6 +42,9 @@ plaza.harmonix.ne.jp (Information)
   - Cross-check: ja.wikipedia (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB)): volume 29 shared by Kaneda, Minagawa and Uzu; this book's illustrators are the same three
   - Cross-check: The page lists it among the FF11 series books, between Message from Beyond 3 and Heartbeat of Xarcabard 1
 
+worldcat.org (Information, library catalog)
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11アンソロジー短編集みんなで大冒険!! (Enterbrain, 2009; author given as Hasegawa Miyabi and others); no translation
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
