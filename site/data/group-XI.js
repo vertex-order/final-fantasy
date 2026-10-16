@@ -229,8 +229,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~Winds of Prayer~ (Manga)', titleUrl: "https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Vana'diel", titleDate: { start: '2008-08-25', end: '2010-03-15' },
     by: [{ role: 'adapted', names: 'You Satsuki' }],
     mediaDesc: [
-      [{ text: 'Manga adaptation of ' }, { emLinkText: '~Winds of Prayer~ (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-winds-of-prayer-novel-2002' }, { text: '.' }],
-      [{ text: 'Released as 祈りの風, also known as ' }, { emText: 'Prayer of the Wind' }, { text: ', ' }, { emText: 'Wind of Prayer' }, { text: ' and ' }, { emText: 'Wind of Pray' }, { text: '. Originally published in ' }, { emLinkText: '~Vana Digest~ (2008)', emLinkUrl: '#entry-XI-final-fantasy-xi-vana-digest-2008' }, { text: '.' }],
+      [{ text: 'Manga adaptation of ' }, { emLinkText: 'Winds of Prayer (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-winds-of-prayer-novel-2002' }, { text: '.' }],
+      [{ text: 'Released as 祈りの風, also known as ' }, { emText: 'Prayer of the Wind' }, { text: ', ' }, { emText: 'Wind of Prayer' }, { text: ' and ' }, { emText: 'Wind of Pray' }, { text: '. Originally published in ' }, { emLinkText: 'Vana Digest (2008)', emLinkUrl: '#entry-XI-final-fantasy-xi-vana-digest-2008' }, { text: '.' }],
     ],
     primary: {
       tags: ['Manga'],
@@ -828,7 +828,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     mediaType: 'Comic', chronoOrder: 5058, narrativeOrder: 636.8, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Artist Collections~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Bros', titleDate: { start: '2005-02-25', end: '2010-09-15' },
     mediaDesc: [
-      [{ text: 'Single-artist collections of comics about ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', mixing story and gag, by contributors to the Enterbrain anthologies, plus three player-diary books. Parts were originally published in ' }, { emLinkText: '~Vana Digest~ (2008)', emLinkUrl: '#entry-XI-final-fantasy-xi-vana-digest-2008' }, { text: '.' }],
+      [{ text: 'Single-artist collections of comics about ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', mixing story and gag, by contributors to the Enterbrain anthologies, plus three player-diary books. Parts were originally published in ' }, { emLinkText: 'Vana Digest (2008)', emLinkUrl: '#entry-XI-final-fantasy-xi-vana-digest-2008' }, { text: '.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
@@ -873,7 +873,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~Claude and Haru~', titleUrl: "https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Vana'diel", titleDate: { start: '2010-06-15', end: '2012-06-15' },
     by: 'Ootsukiberuno',
     mediaDesc: [
-      [{ text: 'A story manga about the knight Claude, the white mage Haru and their party, whose adventures in ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ' take them to Aht Urhgan and into Dynamis. Parts were originally published in ' }, { emLinkText: '~Vana Digest~ (2008)', emLinkUrl: '#entry-XI-final-fantasy-xi-vana-digest-2008' }, { text: '.' }],
+      [{ text: 'A story manga about the knight Claude, the white mage Haru and their party, whose adventures in ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ' take them to Aht Urhgan and into Dynamis. Parts were originally published in ' }, { emLinkText: 'Vana Digest (2008)', emLinkUrl: '#entry-XI-final-fantasy-xi-vana-digest-2008' }, { text: '.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],

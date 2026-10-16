@@ -172,4 +172,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 ## Decisions
 - `profileUrl` is the KADOKAWA search above (user, 2026-10-16); `titleDate` stays 2008-09 to 2010-03, the serialization's start and end: with both known, every chapter was published by that end, and the volumes (2010-05-15 and 2010-11-15) are later editions of the same content, so they do not move the end (a wrong change to 2010-11-15 was made and reverted on 2026-10-16)
 - `titleDate` is `{ start: '2008-08-25', end: '2010-03-15' }` (user, 2026-10-16): the on-sale dates of Vana Digest vol.01 and vol.07 (KADOKAWA's pages), the serialization's start and end; it was 2008-09 to 2010-03, NDL's issue months
-- The description ends "Originally published in ~Vana Digest~ (2008).", linked to that entry (user, 2026-10-16)
+- The description ends "Originally published in Vana Digest (2008).", linked to that entry (user, 2026-10-16)
