@@ -135,6 +135,9 @@ ja.wikipedia.org (Information)
   - Volume dates are later than the serialization end (2010-03), so the ending may be only in volume 2
   - Firefox machine translation pasted by user
 
+kadokawa.co.jp (Publisher, Japanese)
+- https://www.kadokawa.co.jp/product/search/?auth=%E6%B2%99%E6%9C%88%E3%82%86%E3%81%86&kw=%E7%A5%88%E3%82%8A%E3%81%AE%E9%A2%A8 -- profile*, dates* -- accessed 2026-10-16 (found by the KADOKAWA search by ISBN 9784047265172 and 9784047268630; the search, and both product pages, pasted by user): search 祈りの風 with the artist 沙月ゆう returns exactly the two volumes; ファイナルファンタジーＸＩ －祈りの風－（１）: https://www.kadokawa.co.jp/product/201003000121/, 2010-05-15, B6, 144 pages, 693 yen incl. tax (630 before), ISBN 9784047265172, credits 漫画 沙月ゆう, 原作 スクウェア・エニックス, ストーリー はせがわみやび, 小説版イラスト 金田榮路; （２）: https://www.kadokawa.co.jp/product/201009000409/, 2010-11-15, B6, 144 pages, 715 yen incl. tax (650 before), ISBN 9784047268630, 著者 沙月ゆう, blurb 祈りの風、完結！; Goodreads has volume 1 (78009261, already the JA link) and no page for volume 2 by ISBN
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
@@ -165,3 +168,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 
 ## Decisions
+- `profileUrl` is the KADOKAWA search above (user, 2026-10-16), and `titleDate` ends 2010-11-15, the last volume's publisher date, not 2010-03 (the serialization's end): a range ends on the latest native release
