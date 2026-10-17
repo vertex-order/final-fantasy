@@ -536,6 +536,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
     by: 'Kazushige Nojima',
     mediaDesc: [
       ['It takes place during the early events of ', { emLinkText: 'Final Fantasy VII: Rebirth', emLinkUrl: '#entry-VII-final-fantasy-vii-rebirth-part-2-2024' }, ' and features Aerith and Tifa exchanging stories from their pasts.'],
+      ['Some editions also include ', { emLinkText: 'Picturing the Past', emLinkUrl: '#entry-VII-final-fantasy-vii-remake-picturing-the-past-2020' }, '.'],
     ],
     primary: {
       tags: ['Novel'],
@@ -561,6 +562,30 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         { key: 'fan-translation', search: 'duckduckgo' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube' },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
+      ],
+    },
+  },
+  {
+    mediaType: 'Book', chronoOrder: -450, narrativeOrder: 1050,
+    title: 'Final Fantasy VII Remake: Picturing the Past', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake:_Picturing_the_Past', titleDate: '2020-03-19',
+    by: 'Kazushige Nojima',
+    mediaDesc: [
+      ['A short story about a Shinra trooper who knew Aerith as a child and looks into the events surrounding her capture in the Shinra Building fifteen years earlier. First printed in the Final Fantasy VII Remake World Preview.'],
+      ['Also included in some editions of ', { emLinkText: 'Traces of Two Pasts', emLinkUrl: '#entry-VII-final-fantasy-vii-remake-traces-of-two-pasts-2021' }, '.'],
+    ],
+    primary: {
+      tags: ['Short Stories'],
+      subtitle: 'Book',
+      profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090846',
+      languages: [
+        { value: 'JA', native: true, url: 'https://magazine.jp.square-enix.com/gamebooks/books/10044' },
+        { value: 'EN', url: 'https://www.goodreads.com/book/show/52658168' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Short story', suffix: 'World Preview', url: 'https://www.goodreads.com/book/show/52658168' },
+        { key: 'book', name: 'Short story', suffix: 'Traces', url: 'https://www.goodreads.com/book/show/60556665-final-fantasy-vii-remake' },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy VII Remake Picturing the Past' },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy VII Remake Picturing the Past', noResults: true },
       ],
     },
   },

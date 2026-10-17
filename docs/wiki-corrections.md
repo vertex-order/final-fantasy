@@ -34,6 +34,16 @@ value, ours, and why, so the corrections can be reported upstream.
 - Backed by: the Yen Press product page lists 146 pages
   (https://yenpress.com/titles/9781975382384-final-fantasy-xiii-2-fragments-after).
 
+### Final Fantasy VII Remake Trace of Two Pasts (page counts and English date)
+
+- Page: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake_Trace_of_Two_Pasts
+- Says: 288 pages (Japanese), 373 pages (English), English release 20 March 2023.
+- Should be: 406 pages (Japanese), 384 pages (English), English release 21 March 2023.
+- Our source: [final-fantasy-vii-remake-traces-of-two-pasts-2021.md](../sources/final-fantasy-vii-remake-traces-of-two-pasts-2021.md)
+- Backed by: the NDL record of the Japanese edition (406p, ISBN 978-4-7575-7348-2) and the
+  Square Enix Books page of the English edition (384 pages, March 21, 2023)
+  (https://squareenixmangaandbooks.square-enix-games.com/product/9781646091775).
+
 ### Goodreads: Final Fantasy XI Lightning Brigade 4-Koma Manga NO.2 (author)
 
 - Page: Goodreads record for ISBN 9784840238199 (a community-edited catalog, not a wiki).
