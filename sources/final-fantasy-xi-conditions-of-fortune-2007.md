@@ -67,3 +67,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - That source was not recorded when the line was written, so it cannot be re-checked from here
 - `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
 - `length` is `296p; A6` (user, 2026-10-16): the native publisher's (KADOKAWA) page count and size, not the earlier 284p; we use the native publisher's count when there is no English edition
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates, prices and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～幸運の条件～ -- elemen.jp: 2007/07/30, 672円（税込640円）, エンターブレイン, はせがわみやび, ASIN 4757736347; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2007/978-4-7577-3634-4.html (not archived)

@@ -47,3 +47,4 @@ duckduckgo.com (Information)
 - The date is the publisher's, 2004-08-27 (KADOKAWA and Amazon.co.jp); bg-wiki and NDL give 2004.09
 - Added 2026-10-13 alongside the other Brigade four-panel books (see final-fantasy-xi-lightning-brigade-encyclopedia-2013.md)
 - The EN language row stays, with the tip "English — alongside the Japanese" (user, 2026-10-15): the English is in the book itself (NDL 英語併記, language codes jpn and eng); the `…?` row is dropped, since NDL lists no other language and nothing shows other editions; `profileUrl` is the KADOKAWA product page; `helpWanted` is removed
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/comic_mediaworks.html, fetched by me 2026-10-17 at the user's request; dates, prices and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI 電撃４コマ インターナショナル －ヴァナ・ディールで使える英単語／英会話－ -- elemen.jp: 2004/08/27, 1428円（税込1500円）, メディアワークス, 400p, ASIN 4840227640

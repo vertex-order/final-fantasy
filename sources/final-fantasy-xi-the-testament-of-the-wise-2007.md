@@ -83,3 +83,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 ## Decisions
 - `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates, prices and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～賢者の遺言 上～ -- elemen.jp: 2007/02/28, 672円（税込640円）, エンターブレイン, はせがわみやび, ASIN 475773347X; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2007/978-4-7577-3347-3.html (not archived); ファイナルファンタジーXI ～賢者の遺言 下～ -- elemen.jp: 2007/03/30, 672円（税込640円）, エンターブレイン, はせがわみやび, ASIN 4757734263; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2007/978-4-7577-3426-5.html (not archived)

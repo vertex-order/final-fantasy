@@ -61,3 +61,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 ## Decisions
 - `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates, prices and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～冒険者の休日～ -- elemen.jp: 2005/03/22, 672円（税込640円）, エンターブレイン, はせがわみやび, ASIN 4757722079; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2207-9.html (not archived)

@@ -64,3 +64,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 ## Decisions
 - `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
 - `length` is `264p; A6` (user, 2026-10-16): the native publisher's (KADOKAWA) page count and size, not the earlier 287p; we use the native publisher's count when there is no English edition
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates, prices and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～星のいざない～ -- elemen.jp: 2007/12/25, 672円（税込640円）, エンターブレイン, はせがわみやび, ASIN 4757739214; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2007/978-4-7577-3921-5.html (not archived)

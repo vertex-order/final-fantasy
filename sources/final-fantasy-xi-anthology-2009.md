@@ -66,3 +66,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - See `xi-novels-group.md`
 - `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
 - `length` is `328p; A6` (user, 2026-10-16): the native publisher's (KADOKAWA) page count and size, not the earlier 311p; we use the native publisher's count when there is no English edition
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates, prices and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI アンソロジー短編集 みんなで大冒険!! -- elemen.jp: 2009/01/30, 672円（税込640円）, エンターブレイン, はせがわみやび、田口仙年堂、高殿円, ASIN 4757745869; reference page listed: http://www.enterbrain.co.jp/product/pocketbook/fami_novel/08275401.html (not archived)
