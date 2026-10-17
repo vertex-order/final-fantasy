@@ -720,7 +720,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~Love in the Sky 1·2·3!~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Misc', titleDate: '2007-06',
     by: 'Fumio Minagawa',
     mediaDesc: [
-      [{ text: 'A short manga for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', released as 恋の空蝉1・2・3! (Koi no Utsusemi) and collected in the art book ' }, { emText: 'Final Fantasy XI Minagawa Fumio Illustrations' }, { text: " (ファイナルファンタジーXI 皆川史生イラストレーションズ). Originally serialized in the Vana'diel Communications mook." }],
+      [{ text: 'A short manga for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', released as 恋の空蝉1・2・3! (Koi no Utsusemi) and collected in the art book ' }, { emText: 'Final Fantasy XI Minagawa Fumio Illustrations' }, { text: " (ファイナルファンタジーXI 皆川史生イラストレーションズ). Originally published in the Vana'diel Communications mook, as the special appendix of 5th Anniversary Vana'diel Memoirs (5thアニバーサリーヴァナ・ディールメモワールズ)." }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],

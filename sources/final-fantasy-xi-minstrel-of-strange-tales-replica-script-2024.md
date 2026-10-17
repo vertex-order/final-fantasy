@@ -27,7 +27,7 @@ bg-wiki.com (Information)
 
 wiki.ffo.jp (Information, fan wiki: Final Fantasy Online wiki, Japan)
 - https://wiki.ffo.jp/html/39169.html -- description, cast, tales -- accessed 2026-10-14 (page text pasted by user) -- the wiki's page for the reading drama: held 2024-02-17 in Saitama, well received, which led to the 2025-03-01 sequel 夢幻のウタイビト; director 早川康介; tale list matching the five above; also credits the actors 池田海咲, 谷口誠太郎 and 宮古風佳 beside the four main cast; tickets were sold for the venue and for streaming, with archive viewing until 2024-02-23 23:59
-  - Lists a related term 記憶のウタイビト ("Utaibito of Memory"), which is not a reading drama we have seen; not yet looked up
+  - Lists a related term 記憶のウタイビト ("Utaibito of Memory"), which is not a reading drama: it is the in-game NPC service "Melody Minstrel" that replays event scenes for 10 gil (wiki.ffo.jp https://wiki.ffo.jp/html/9654.html, fetched 2026-10-17), and the reading dramas' ウタイビト titles borrow the word; the 2015 Official Memorial Book ~記憶のウタイビト~ is named after it
   - Says the official site https://readpia.jp/event/ff11reading/ is closed and no longer reachable (the Kadokawa group page above is the surviving official page)
 
 game.watch.impress.co.jp (Information, press report)
