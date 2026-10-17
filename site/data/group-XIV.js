@@ -394,6 +394,33 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
     ],
   },
   {
+    mediaType: 'Comic', chronoOrder: 1550, narrativeOrder: 851,
+    title: 'Final Fantasy XIV ~A Realm Reborn Lightning Brigade Play Guides~', titleUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E6%96%B0%E7%94%9F%E3%82%A8%E3%82%AA%E3%83%AB%E3%82%BC%E3%82%A2%E3%80%80%E3%83%97%E3%83%AC%E3%82%A4%E3%82%AC%E3%82%A4%E3%83%89', titleDate: { start: '2013-12-12', end: '2015-04-02' },
+    mediaDesc: [
+      [{ text: 'Play guides to A Realm Reborn by the Lightning Brigade, the Dengeki PlayStation writers who also wrote the ' }, { emLinkText: 'XI Lightning Brigade Guides', emLinkUrl: '#entry-XI-final-fantasy-xi-lightning-brigade-guides-2003' }, { text: ". Part strategy guide, part reading, with four-panel manga running alongside the text (fewer in the last volume). Released as 新生エオルゼア 電撃の旅団公式プレイガイド." }],
+    ],
+    primary: {
+      tags: ['Tie-in', 'Manga'],
+      subtitle: 'Comic',
+      length: '3 books',
+      contentsLabel: 'books',
+      searchTitle: 'Final Fantasy XIV Lightning Brigade',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E6%96%B0%E7%94%9F%E3%82%A8%E3%82%AA%E3%83%AB%E3%82%BC%E3%82%A2%E3%80%80%E3%83%97%E3%83%AC%E3%82%A4%E3%82%AC%E3%82%A4%E3%83%89',
+      languages: [
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/102365367' },
+      ],
+      contents: [
+        { title: 'Play Guide', titleDate: '2013-12-12', titleUrl: 'https://www.goodreads.com/book/show/102365367', searchTitle: '9784048660570' },
+        { title: 'Play Guide Vol.2', titleDate: '2014-09-30', titleUrl: 'https://www.goodreads.com/book/show/117930261', searchTitle: '9784048667548' },
+        { title: 'Play Guide Vol.3', titleDate: '2015-04-02', titleUrl: 'https://www.goodreads.com/book/show/102366584', searchTitle: '9784048693493' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Guides', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo' },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XIV Lightning Brigade Play Guide', noResults: true },
+      ],
+    },
+  },
+  {
     mediaType: 'Book', chronoOrder: 5200, narrativeOrder: 885,
     title: 'Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift', titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646091447', titleDate: '2021-05-08',
     mediaDesc: [

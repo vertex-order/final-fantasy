@@ -947,16 +947,16 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
-    mediaType: 'Book', chronoOrder: 5065, narrativeOrder: 636.5, narrativeSection: 'Main',
+    mediaType: 'Comic', chronoOrder: 5065, narrativeOrder: 636.5, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Lightning Brigade Guides~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Guides', titleDate: { start: '2003-04-04', end: '2013-03-12' },
     mediaDesc: [
       [{ text: 'A long-running series of guides and companion books by the Lightning Brigade, the Dengeki PlayStation writers for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: " who play as a group of characters you follow and come to know. Part strategy guide, part account of their adventures (\"we did this quest, here's what happened\"), and part four-panel manga, often humorous, that brings them to life, with dozens to hundreds of all-new strips per book." }],
-      [{ text: 'Also included elsewhere: ' }, { emLinkText: 'Dengeki 4-Koma International', emLinkUrl: '#entry-XI-final-fantasy-xi-dengeki-4-koma-international-2004' }, { text: ' (the English strips of Vol.1 and Vol.2). Released as 電撃の旅団編 ヴァナ・ディール公式ワールドガイド.' }],
+      [{ text: 'Also included elsewhere: ' }, { emLinkText: 'Dengeki 4-Koma International', emLinkUrl: '#entry-XI-final-fantasy-xi-dengeki-4-koma-international-2004' }, { text: ' (the English strips of Vol.1 and Vol.2). Some books repeat content from other books in the series. Released as 電撃の旅団編 ヴァナ・ディール公式ワールドガイド.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
-      subtitle: 'Book',
-      length: '19 books',
+      subtitle: 'Comic',
+      length: '20 books',
       contentsLabel: 'books',
       searchTitle: 'Final Fantasy XI Lightning Brigade',
       profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E9%9B%BB%E6%92%83%E3%81%AE%E6%97%85%E5%9B%A3',
@@ -968,6 +968,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
         { title: 'Vol.2', titleDate: '2003-09-22', titleUrl: 'https://www.goodreads.com/book/show/120496856', searchTitle: '9784840225038' },
         { title: 'Vol.2.6 (magazine supplement)', titleDate: '2004-10', searchTitle: "Vana'diel Latest World Guide Vol.2.6" },
         { title: 'Vol.3: Communication Edition', titleDate: '2005-12-28', titleUrl: 'https://www.google.com/books/edition/_/9n3cMgAACAAJ?hl=en&kptab=getbook', searchTitle: '9784840232654' },
+        { title: 'Dengeki Xbox 360 Special (magazine)', titleDate: '2006-03-24', searchTitle: 'Dengeki Xbox 360 Final Fantasy XI Lightning Brigade Special' },
         { title: 'Treasures of Aht Urhgan Edition', titleDate: '2006-06-30', titleUrl: 'https://www.goodreads.com/book/show/120464402', searchTitle: '9784840235631' },
         { title: 'Vol.3: Adventure Edition', titleDate: '2006-10-27', titleUrl: 'https://www.goodreads.com/book/show/77232403', searchTitle: '9784840236515' },
         { title: 'World Edition 2007', titleDate: '2007-07-27', titleUrl: 'https://www.goodreads.com/book/show/77308924', searchTitle: '9784840238175' },
