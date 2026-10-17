@@ -119,3 +119,5 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Guides, encyclopedias and lists of NPCs, monsters and missions are out of scope
   - The tags `Manga` and `Short Stories` it carried had no source behind them
   - The Brigade's own four-panel books were added instead as placeholder entries; see the XI group sources (xi-group.md)
+- **Kept 2026-10-17 (user), within the context of the entire series:** the Encyclopedia is part 19 of the Lightning Brigade Guides entry (sources/final-fantasy-xi-lightning-brigade-guides-2003.md), the last book of a long-running series the reader follows; it is in only as part of that series, with its 108 all-new four-panel comics; the "Removed from the list" decision above still holds for it as a standalone entry (an encyclopedia, strips scattered through reference pages), so it is not listed on its own
+

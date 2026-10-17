@@ -950,8 +950,8 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     mediaType: 'Book', chronoOrder: 5065, narrativeOrder: 636.5, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Lightning Brigade Guides~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Guides', titleDate: { start: '2003-04-04', end: '2013-03-12' },
     mediaDesc: [
-      [{ text: 'A long-running series of guides and companion books by the Lightning Brigade, the Dengeki PlayStation writers for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: " who play as a group of characters you follow and come to know. Part strategy guide, part account of their adventures (\"we did this quest, here's what happened\"), and part four-panel manga, often humorous, that brings them to life, with dozens to hundreds of all-new strips per book. Released as 電撃の旅団編 ヴァナ・ディール公式ワールドガイド." }],
-      [{ text: 'Also included elsewhere: ' }, { emLinkText: 'Dengeki 4-Koma International', emLinkUrl: '#entry-XI-final-fantasy-xi-dengeki-4-koma-international-2004' }, { text: ' (the English strips of Vol.1 and Vol.2).' }],
+      [{ text: 'A long-running series of guides and companion books by the Lightning Brigade, the Dengeki PlayStation writers for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: " who play as a group of characters you follow and come to know. Part strategy guide, part account of their adventures (\"we did this quest, here's what happened\"), and part four-panel manga, often humorous, that brings them to life, with dozens to hundreds of all-new strips per book." }],
+      [{ text: 'Also included elsewhere: ' }, { emLinkText: 'Dengeki 4-Koma International', emLinkUrl: '#entry-XI-final-fantasy-xi-dengeki-4-koma-international-2004' }, { text: ' (the English strips of Vol.1 and Vol.2). Released as 電撃の旅団編 ヴァナ・ディール公式ワールドガイド.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
