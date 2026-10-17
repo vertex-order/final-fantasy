@@ -49,13 +49,13 @@ ISBN 9784757526501 (ISBN10: 4757526504; wikipedia 978-4-7575-2650-1), Japanese, 
 ## Sources
 
 magazine.jp.square-enix.com (Publisher, Japanese)
-- https://magazine.jp.square-enix.com/top/comics/detail/9784757518308/ — profile*, dates* (vol 1: 2006年12月22日: confirms titleDate), credits (著者 天羽銀), price (429 yen incl. tax), size (新書判), ISBN 9784757518308, story — accessed 2026-10-11 (page text pasted by user) — archived: TODO
-- https://magazine.jp.square-enix.com/top/comics/detail/9784757526501/ — dates* (vol 5, final volume; titleDate end "５(完)": 2009年8月22日), credits (著者 天羽銀), price (440 yen incl. tax), size (新書判), ISBN 9784757526501 — accessed 2026-10-11 (page text pasted by user) — archived: TODO
+- https://magazine.jp.square-enix.com/top/comics/detail/9784757518308/ — profile*, dates* (vol 1: 2006年12月22日: confirms titleDate), credits (著者 天羽銀), size (新書判), ISBN 9784757518308, story — accessed 2026-10-11 (page text pasted by user) — archived: TODO
+- https://magazine.jp.square-enix.com/top/comics/detail/9784757526501/ — dates* (vol 5, final volume; titleDate end "５(完)": 2009年8月22日), credits (著者 天羽銀), size (新書判), ISBN 9784757526501 — accessed 2026-10-11 (page text pasted by user) — archived: TODO
 
 breezewiki.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — credits (Gin Amou, author and artist), dates (I December 22, 2006; II August 22, 2008 and III April 22, 2008 as listed, II likely a typo; IV December 22, 2008; V August 22, 2009; the entry's range is I to V), ISBNs (978-4-7575-1830-8, -2082-0, -2263-3, -2442-2, -2650-1); "The Final Fantasy XII manga was serialized in Gangan Powered"; the table rows, and the manga has a dedicated page (already cited above) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_(manga) — title link*, credits*, story — accessed 2026-10-11 — archived: TODO
-  - Five volumes based on the game; plot the same, flashbacks add character detail; publishers Gangan Online, GanGan Powered; release 2006, cover price 180 yen
+  - Five volumes based on the game; plot the same, flashbacks add character detail; publishers Gangan Online, GanGan Powered; release 2006
   - Year only and no ISBNs, so Wikipedia stays the date and ISBN source
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_(manga)#Story — platforms* (fan story recap) — accessed 2026-10-11
 

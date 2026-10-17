@@ -16,14 +16,14 @@
 
 No French edition on the entry; NDL French list has none for this book.
 
-Vol.1: ISBN 9784757733473 (ISBN10: 475773347X; NDL 978-4-7577-3347-3), Japanese, Enterbrain (ファミ通文庫), 2007.3, 250 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
+Vol.1: ISBN 9784757733473 (ISBN10: 475773347X; NDL 978-4-7577-3347-3), Japanese, Enterbrain (ファミ通文庫), 2007.3, 250 pages, 15 cm — per bg-wiki + NDL — JA language link*, length*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757733473
 - goodreads: https://www.goodreads.com/book/show/77250550 — accessed 2026-10-09
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757733473
 - open library: https://openlibrary.org/search?isbn=9784757733473
 - NDL: http://id.ndl.go.jp/bib/000008473164 — accessed 2026-10-10
 
-Vol.2: ISBN 9784757734265 (ISBN10: 4757734263; NDL 978-4-7577-3426-5), Japanese, Enterbrain (ファミ通文庫), 2007.4, 252 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
+Vol.2: ISBN 9784757734265 (ISBN10: 4757734263; NDL 978-4-7577-3426-5), Japanese, Enterbrain (ファミ通文庫), 2007.4, 252 pages, 15 cm — per bg-wiki + NDL — JA language link*, length*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757734265
 - goodreads: https://www.goodreads.com/book/show/77249549 — accessed 2026-10-09
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757734265
@@ -36,17 +36,15 @@ bg-wiki.com (Information)
 - https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — shallow: not re-read
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000008473164 — Vol.1: dates*, length, price, ISBN, credits, series, part 上, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000008473164 — Vol.1: dates*, length, ISBN, credits, series, part 上, NDC 913.6 — accessed 2026-10-10 — archived: TODO
   - dates: JA 2007.3
   - length: 250 p, 15 cm; fold-in sheet
-  - price: 640 yen
   - ISBN: 978-4-7577-3347-3 = 9784757733473, agrees
   - series: ファミ通文庫
   - part 上: volume 1
-- http://id.ndl.go.jp/bib/000008512611 — Vol.2: dates*, length, price, ISBN, credits, series, part 下, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000008512611 — Vol.2: dates*, length, ISBN, credits, series, part 下, NDC 913.6 — accessed 2026-10-10 — archived: TODO
   - dates: JA 2007.4
   - length: 252 p, 15 cm; fold-in sheet
-  - price: 640 yen
   - ISBN: 978-4-7577-3426-5 = 9784757734265, agrees
   - series: ファミ通文庫
   - part 下: volume 2
@@ -71,7 +69,7 @@ plaza.harmonix.ne.jp (Information)
   - Sale dates on the page, not the entry's day-level dates: 〜賢者の遺言　上〜 2007-02-28; 〜賢者の遺言　下〜 2007-03-30
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/search/?kw=%E8%B3%A2%E8%80%85%E3%81%AE%E9%81%BA%E8%A8%80 -- profile* -- accessed 2026-10-16: search 賢者の遺言 (user, 2026-10-16): exactly the 2 volumes, 上 2007-02-28 and 下 2007-03-30, illustrations 金田榮路, 704 yen incl. tax each
+- https://www.kadokawa.co.jp/product/search/?kw=%E8%B3%A2%E8%80%85%E3%81%AE%E9%81%BA%E8%A8%80 -- profile* -- accessed 2026-10-16: search 賢者の遺言 (user, 2026-10-16): exactly the 2 volumes, 上 2007-02-28 and 下 2007-03-30, illustrations 金田榮路 each
 
 ## Surveyed
 
@@ -83,4 +81,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 ## Decisions
 - `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates, prices and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～賢者の遺言 上～ -- elemen.jp: 2007/02/28, 672円（税込640円）, エンターブレイン, はせがわみやび, ASIN 475773347X; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2007/978-4-7577-3347-3.html (not archived); ファイナルファンタジーXI ～賢者の遺言 下～ -- elemen.jp: 2007/03/30, 672円（税込640円）, エンターブレイン, はせがわみやび, ASIN 4757734263; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2007/978-4-7577-3426-5.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～賢者の遺言 上～ -- elemen.jp: 2007/02/28, エンターブレイン, はせがわみやび, ASIN 475773347X; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2007/978-4-7577-3347-3.html (not archived); ファイナルファンタジーXI ～賢者の遺言 下～ -- elemen.jp: 2007/03/30, エンターブレイン, はせがわみやび, ASIN 4757734263; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2007/978-4-7577-3426-5.html (not archived)

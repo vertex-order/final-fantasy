@@ -11,7 +11,7 @@
 
 No French edition on the entry; NDL French list has none for this book.
 
-ISBN 9784757739215 (ISBN10: 4757739214; NDL 978-4-7577-3921-5), Japanese, Enterbrain (ファミ通文庫), 2008.1, 287 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
+ISBN 9784757739215 (ISBN10: 4757739214; NDL 978-4-7577-3921-5), Japanese, Enterbrain (ファミ通文庫), 2008.1, 287 pages, 15 cm — per bg-wiki + NDL — JA language link*, length*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757739215
 - goodreads: https://www.goodreads.com/book/show/77709037 — accessed 2026-10-09
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757739215
@@ -24,10 +24,9 @@ bg-wiki.com (Information)
 - https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — shallow: not re-read
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000009221937 — dates*, length, price, ISBN, credits, series, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000009221937 — dates*, length, ISBN, credits, series, NDC 913.6 — accessed 2026-10-10 — archived: TODO
   - dates: JA 2008.1
   - length: 287 p, 15 cm; fold-in sheet
-  - price: 640 yen
   - ISBN: 978-4-7577-3921-5 = 9784757739215, agrees
   - series: ファミ通文庫
 
@@ -48,7 +47,7 @@ plaza.harmonix.ne.jp (Information)
   - Sale dates on the page, not the entry's day-level dates: 〜星のいざない〜 2007-12-25
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/200712000062/ -- profile* -- accessed 2026-10-16: product page 200712000062 (user, 2026-10-16): 星のいざない, A6, 264 pages (the entry has 287p), 704 yen incl. tax, 2007-12-25, ISBN 9784757739215
+- https://www.kadokawa.co.jp/product/200712000062/ -- profile* -- accessed 2026-10-16: product page 200712000062 (user, 2026-10-16): 星のいざない, A6, 264 pages (the entry has 287p), 2007-12-25, ISBN 9784757739215
 
 worldcat.org (Information, library catalog)
 - https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 星のいざない (Enterbrain, 2008); no translation
@@ -64,4 +63,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 ## Decisions
 - `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
 - `length` is `264p; A6` (user, 2026-10-16): the native publisher's (KADOKAWA) page count and size, not the earlier 287p; we use the native publisher's count when there is no English edition
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates, prices and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～星のいざない～ -- elemen.jp: 2007/12/25, 672円（税込640円）, エンターブレイン, はせがわみやび, ASIN 4757739214; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2007/978-4-7577-3921-5.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～星のいざない～ -- elemen.jp: 2007/12/25, エンターブレイン, はせがわみやび, ASIN 4757739214; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2007/978-4-7577-3921-5.html (not archived)

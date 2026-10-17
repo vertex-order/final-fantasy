@@ -16,14 +16,14 @@
 
 No French edition on the entry; NDL French list has none for this book.
 
-Vol.1: ISBN 9784757724914 (ISBN10: 4757724918; NDL 4-7577-2491-8), Japanese, Enterbrain (ファミ通文庫), 2005.11, 255 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
+Vol.1: ISBN 9784757724914 (ISBN10: 4757724918; NDL 4-7577-2491-8), Japanese, Enterbrain (ファミ通文庫), 2005.11, 255 pages, 15 cm — per bg-wiki + NDL — JA language link*, length*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757724914
 - goodreads: https://www.goodreads.com/book/show/77686446 — accessed 2026-10-09
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757724914
 - open library: https://openlibrary.org/search?isbn=9784757724914
 - NDL: http://id.ndl.go.jp/bib/000007992656 — accessed 2026-10-10
 
-Vol.2: ISBN 9784757725584 (ISBN10: 4757725582; NDL 4-7577-2558-2), Japanese, Enterbrain (ファミ通文庫), 2006.1, 223 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
+Vol.2: ISBN 9784757725584 (ISBN10: 4757725582; NDL 4-7577-2558-2), Japanese, Enterbrain (ファミ通文庫), 2006.1, 223 pages, 15 cm — per bg-wiki + NDL — JA language link*, length*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757725584
 - goodreads: https://www.goodreads.com/book/show/77695106 — accessed 2026-10-09
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757725584
@@ -36,17 +36,15 @@ bg-wiki.com (Information)
 - https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — shallow: not re-read
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000007992656 — Vol.1: dates*, length, price, ISBN, credits, series, part 上, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000007992656 — Vol.1: dates*, length, ISBN, credits, series, part 上, NDC 913.6 — accessed 2026-10-10 — archived: TODO
   - dates: JA 2005.11
   - length: 255 p, 15 cm; fold-in sheet
-  - price: 640 yen
   - ISBN: 4-7577-2491-8 = 9784757724914, agrees
   - series: ファミ通文庫
   - part 上: volume 1
-- http://id.ndl.go.jp/bib/000008051390 — Vol.2: dates*, length, price, ISBN, credits, series, part 下, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000008051390 — Vol.2: dates*, length, ISBN, credits, series, part 下, NDC 913.6 — accessed 2026-10-10 — archived: TODO
   - dates: JA 2006.1
   - length: 223 p, 15 cm; fold-in sheet
-  - price: 640 yen
   - ISBN: 4-7577-2558-2 = 9784757725584, agrees
   - series: ファミ通文庫
   - part 下: volume 2
@@ -73,7 +71,7 @@ plaza.harmonix.ne.jp (Information)
   - Sale dates on the page, not the entry's day-level dates: 〜新たな夢　上〜 2005-10-29; 〜新たな夢　下〜 2005-12-24
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/search/?auth=%E3%81%AF%E3%81%9B%E3%81%8C%E3%82%8F%E3%81%BF%E3%82%84%E3%81%B3&kw=%E6%96%B0%E3%81%9F%E3%81%AA%E5%A4%A2 -- profile* -- accessed 2026-10-16: search 新たな夢 with the author はせがわみやび (user, 2026-10-16): exactly the 2 volumes, 上 2005-10-29 and 下 2005-12-24, illustrations 金田榮路, 704 yen incl. tax each; without the author the keyword returns 8 books, mostly unrelated
+- https://www.kadokawa.co.jp/product/search/?auth=%E3%81%AF%E3%81%9B%E3%81%8C%E3%82%8F%E3%81%BF%E3%82%84%E3%81%B3&kw=%E6%96%B0%E3%81%9F%E3%81%AA%E5%A4%A2 -- profile* -- accessed 2026-10-16: search 新たな夢 with the author はせがわみやび (user, 2026-10-16): exactly the 2 volumes, 上 2005-10-29 and 下 2005-12-24, illustrations 金田榮路 each; without the author the keyword returns 8 books, mostly unrelated
 
 ## Surveyed
 
@@ -85,4 +83,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 ## Decisions
 - `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates, prices and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～新たな夢 上～ -- elemen.jp: 2005/10/29, 672円（税込640円）, エンターブレイン, はせがわみやび, ASIN 4757724918; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2491-8.html (not archived); ファイナルファンタジーXI ～新たな夢 下～ -- elemen.jp: 2005/12/24, 672円（税込640円）, エンターブレイン, はせがわみやび, ASIN 4757725582; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2558-2.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～新たな夢 上～ -- elemen.jp: 2005/10/29, エンターブレイン, はせがわみやび, ASIN 4757724918; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2491-8.html (not archived); ファイナルファンタジーXI ～新たな夢 下～ -- elemen.jp: 2005/12/24, エンターブレイン, はせがわみやび, ASIN 4757725582; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2558-2.html (not archived)

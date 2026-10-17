@@ -20,7 +20,7 @@ ISBN 9781975380908 (ISBN10: 1975380908), English, Yen Press, August 21, 2018, 23
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9781975380908
 - open library: https://openlibrary.org/search?isbn=9781975380908
 
-ISBN 9784757555204 (ISBN10: 4757555202), Japanese, Square Enix (ガンガンコミックスsuper), November 2017 (goodreads: November 22), 224 pages (NDL: 207 p), 19 cm, 590 yen, Paperback — per goodreads + NDL — JA language link*
+ISBN 9784757555204 (ISBN10: 4757555202), Japanese, Square Enix (ガンガンコミックスsuper), November 2017 (goodreads: November 22), 224 pages (NDL: 207 p), 19 cm, Paperback — per goodreads + NDL — JA language link*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757555204
 - goodreads: https://www.goodreads.com/book/show/51966385-final-fantasy-lost-stranger-1 — accessed 2026-10-09
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757555204
@@ -80,7 +80,7 @@ ISBN 9798855436051 (ASIN B0GNMRTQ3L), Yen Press World, Kindle Edition — per go
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9798855436051
 - open library: https://openlibrary.org/search?isbn=9798855436051
 
-ISBN 9784301000020, Japanese, Square Enix (ガンガンコミックスsuper), August 2025, vol 13, 1 volume, 736 yen — per NDL — not linked to goodreads series
+ISBN 9784301000020, Japanese, Square Enix (ガンガンコミックスsuper), August 2025, vol 13, 1 volume — per NDL — not linked to goodreads series
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784301000020
 - goodreads: https://www.goodreads.com/search?q=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%20%E3%83%AD%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B8%2013 -- no results as of 2026-10-09
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784301000020
@@ -128,7 +128,7 @@ goodreads.com (Information)
 - Other editions: see Editions (ISBN); each is its language link*, accessed 2026-10-09 — archived: TODO
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/028644200 — dates (JA vol 1: November 2017, after the Wikipedia date), credits*, size, price (590 yen) — accessed 2026-10-09 — archived: TODO
+- http://id.ndl.go.jp/bib/028644200 — dates (JA vol 1: November 2017, after the Wikipedia date), credits*, size — accessed 2026-10-09 — archived: TODO
   - Start of `titleDate` stays Wikipedia's July 12, 2017: earlier than vol 1, assumed to be the magazine serialization date (magazine itself not checked)
 - http://id.ndl.go.jp/bib/034232699 — dates* (JA vol 13: August 2025, end of `titleDate` range; Japanese release is authoritative), credits (manga: 亀屋樹 only; record doesn't name Minase) — accessed 2026-10-09 — archived: TODO
 

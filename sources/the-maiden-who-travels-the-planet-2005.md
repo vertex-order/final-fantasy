@@ -39,7 +39,7 @@ wikipedia.org (Information)
 
 ## Surveyed
 
-- [https://www.bent.co.jp/lineup_day/%e4%bd%9c%e5%93%81%e7%b4%b9%e4%bb%8b%e8%a9%b3%e7%b4%b0%e3%80%80um19/](https://www.bent.co.jp/lineup_day/%e4%bd%9c%e5%93%81%e7%b4%b9%e4%bb%8b%e8%a9%b3%e7%b4%b0%e3%80%80um19/) — Studio BentStuff (the guidebook's author and editor) page for ファイナルファンタジーVII アルティマニアオメガ: published and edited by Square Enix, 著 スタジオベントスタッフ, 発売日 2005年9月9日, 1,900 yen + tax, A5判, 592 pages (all colour), ISBN 4-7575-1520-0; the blurb says the book ends with the Aerith-point-of-view novel 「星を巡る乙女」 — accessed 2026-10-11 (page text pasted by user) — used (profile*, dates*): the entry's profile link, the creator's page, since no Square Enix page was found
+- [https://www.bent.co.jp/lineup_day/%e4%bd%9c%e5%93%81%e7%b4%b9%e4%bb%8b%e8%a9%b3%e7%b4%b0%e3%80%80um19/](https://www.bent.co.jp/lineup_day/%e4%bd%9c%e5%93%81%e7%b4%b9%e4%bb%8b%e8%a9%b3%e7%b4%b0%e3%80%80um19/) — Studio BentStuff (the guidebook's author and editor) page for ファイナルファンタジーVII アルティマニアオメガ: published and edited by Square Enix, 著 スタジオベントスタッフ, 発売日 2005年9月9日, A5判, 592 pages (all colour), ISBN 4-7575-1520-0; the blurb says the book ends with the Aerith-point-of-view novel 「星を巡る乙女」 — accessed 2026-10-11 (page text pasted by user) — used (profile*, dates*): the entry's profile link, the creator's page, since no Square Enix page was found
 
 - DuckDuckGo search https://duckduckgo.com/?q=The%20Maiden%20Who%20Travels%20The%20Planet%20translation — not the entry's link (the entry links the wiki page); you confirmed the wiki page links two English fan translations — dup
 

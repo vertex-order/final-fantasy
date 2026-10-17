@@ -17,14 +17,14 @@ No `by` credit: an anthology of many artists (see Decisions). KADOKAWA credits �
 
 Per-book record, one book per label.
 
-ISBN 9784048932165 (ISBN 978-4-0489-3216-5), Japanese, KADOKAWA (Dengeki Comics NEXT), vol 1, July 27, 2017, B6, 128 pages (wiki intro says 126), 715 yen incl. tax — per publisher + wiki — dates* (start of `titleDate`)
+ISBN 9784048932165 (ISBN 978-4-0489-3216-5), Japanese, KADOKAWA (Dengeki Comics NEXT), vol 1, July 27, 2017, B6, 128 pages (wiki intro says 126) — per publisher + wiki — dates* (start of `titleDate`)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784048932165
 - publisher: https://www.kadokawa.co.jp/product/321704000071/ — accessed 2026-10-10
 - goodreads: https://www.goodreads.com/book/show/36208245-final-fantasy-xv-official-comic-anthology-2017-7-27 — accessed not recorded
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784048932165
 - open library: https://openlibrary.org/search?isbn=9784048932165
 
-ISBN 9784048935364 (ISBN 978-4-0489-3536-4), Japanese, KADOKAWA (Dengeki Comics NEXT), vol 2, December 26, 2017, B6, 128 pages, 748 yen incl. tax — per publisher + wiki — dates* (end of `titleDate`)
+ISBN 9784048935364 (ISBN 978-4-0489-3536-4), Japanese, KADOKAWA (Dengeki Comics NEXT), vol 2, December 26, 2017, B6, 128 pages — per publisher + wiki — dates* (end of `titleDate`)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784048935364
 - publisher: https://www.kadokawa.co.jp/product/321709000210/ — accessed 2026-10-10
 - goodreads: https://www.goodreads.com/book/show/42416261-final-fantasy-xv-official-comic-anthology-2 — accessed not recorded
@@ -35,8 +35,8 @@ ISBN 9784048935364 (ISBN 978-4-0489-3536-4), Japanese, KADOKAWA (Dengeki Comics 
 
 kadokawa.co.jp (Information)
 - https://www.kadokawa.co.jp/product/search/?kw=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXV%20%E5%85%AC%E5%BC%8F%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC — profile* (KADOKAWA product search; lists both volumes) — accessed 2026-10-10
-- https://www.kadokawa.co.jp/product/321704000071/ — dates* (vol 1: July 27, 2017; start of `titleDate`), credits (原作 スクウェア・エニックス), length (128 pages, B6), price (715 yen incl. tax), ISBN, story — accessed 2026-10-10 — archived: TODO
-- https://www.kadokawa.co.jp/product/321709000210/ — dates* (vol 2: December 26, 2017; end of `titleDate`), 128 pages, B6, 748 yen incl. tax, ISBN; "第1巻は重版御礼" (vol 1 reprinted) — accessed 2026-10-10 — archived: TODO
+- https://www.kadokawa.co.jp/product/321704000071/ — dates* (vol 1: July 27, 2017; start of `titleDate`), credits (原作 スクウェア・エニックス), length (128 pages, B6), ISBN, story — accessed 2026-10-10 — archived: TODO
+- https://www.kadokawa.co.jp/product/321709000210/ — dates* (vol 2: December 26, 2017; end of `titleDate`), 128 pages, B6, ISBN; "第1巻は重版御礼" (vol 1 reprinted) — accessed 2026-10-10 — archived: TODO
 
 breezewiki.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology — title link*, dates (vol 1, 2017-07-27), story, wiki intro: 126 pages — accessed not recorded — archived: TODO

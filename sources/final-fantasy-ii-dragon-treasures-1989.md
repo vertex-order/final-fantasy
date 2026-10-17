@@ -9,12 +9,12 @@
 
 ## Editions (ISBN)
 
-ファイナルファンタジー : 秘宝のドラゴン Ⅱ (series ファミコン冒険ゲームブック; volume Ⅱ of Futabasha's Final Fantasy gamebooks) -- ISBN 9784575760927 (ISBN10: 4575760927; NDL 4-575-76092-7), Japanese, 双葉社 (Futabasha), January 1989 per NDL (December 1, 1988 per the podcast), 283pp, 15 cm (bunko), 430 yen -- per NDL -- length (283p; A6)*, JA language*, date (1989-01)*
+ファイナルファンタジー : 秘宝のドラゴン Ⅱ (series ファミコン冒険ゲームブック; volume Ⅱ of Futabasha's Final Fantasy gamebooks) -- ISBN 9784575760927 (ISBN10: 4575760927; NDL 4-575-76092-7), Japanese, 双葉社 (Futabasha), January 1989 per NDL (December 1, 1988 per the podcast), 283pp, 15 cm (bunko) -- per NDL -- length (283p; A6)*, JA language*, date (1989-01)*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784575760927
 - goodreads: https://www.goodreads.com/book/show/102713430
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784575760927
 - open library: https://openlibrary.org/search?isbn=9784575760927
-- NDL: https://ndlsearch.ndl.go.jp/search?cs=bib&keyword=秘宝のドラゴン ファイナルファンタジー -- accessed 2026-10-14 (record text pasted by user; the record's own URL is https://ndlsearch.ndl.go.jp/books/R100000001-I36111100548362, given by the user later): ファイナルファンタジー : 秘宝のドラゴン Ⅱ (volume Ⅱ), 井上尚美 著 ; レッカ社 編, 双葉社, 1989.01, 283p, 15cm, 430 yen, ISBN 4-575-76092-7, series ファミコン　冒険　ゲームブックック, NDC 798, a union-catalog record held by Tokushima and Nagasaki prefectural libraries (holdings, not the NDL's own copy)
+- NDL: https://ndlsearch.ndl.go.jp/search?cs=bib&keyword=秘宝のドラゴン ファイナルファンタジー -- accessed 2026-10-14 (record text pasted by user; the record's own URL is https://ndlsearch.ndl.go.jp/books/R100000001-I36111100548362, given by the user later): ファイナルファンタジー : 秘宝のドラゴン Ⅱ (volume Ⅱ), 井上尚美 著 ; レッカ社 編, 双葉社, 1989.01, 283p, 15cm, ISBN 4-575-76092-7, series ファミコン　冒険　ゲームブックック, NDC 798, a union-catalog record held by Tokushima and Nagasaki prefectural libraries (holdings, not the NDL's own copy)
 
 ## Sources
 

@@ -15,7 +15,7 @@ No `by` credit: it is an anthology by multiple artists (see below), so no single
 
 Per-book record, one book per label.
 
-ISBN 9784757511224 (ISBN10: 4757511221), Japanese, Square Enix, January 16, 2004 per the publisher page (the colophon says 2004年2月6日 初版第1刷発行, February 6, 2004, first printing, matching NDL's 2004.2 and Suruga-ya), A5, 681 yen incl. tax — per publisher and goodreads — JA language link*, book platform*, dates*, profile*
+ISBN 9784757511224 (ISBN10: 4757511221), Japanese, Square Enix, January 16, 2004 per the publisher page (the colophon says 2004年2月6日 初版第1刷発行, February 6, 2004, first printing, matching NDL's 2004.2 and Suruga-ya), A5 — per publisher and goodreads — JA language link*, book platform*, dates*, profile*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757511224
 - goodreads: https://www.goodreads.com/book/show/77600584 — accessed 2026-10-11 (page text pasted by user): Comic, Japanese, no author, no ratings
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757511224
@@ -26,10 +26,10 @@ ISBN 9784757511224 (ISBN10: 4757511221), Japanese, Square Enix, January 16, 2004
 ## Sources
 
 magazine.jp.square-enix.com (Publisher, Japanese)
-- https://magazine.jp.square-enix.com/top/comics/detail/9784757511224/ — profile*, (the title link earlier went through Google's English translation proxy, https://magazine-jp-square--enix-com.translate.goog/top/comics/detail/9784757511224/?_x_tr_sl=ja&_x_tr_tl=en; confirmed working by the user 2026-10-11, since no English page exists), dates* (発売日 2004年1月16日: confirms titleDate), size* (A5判), price (681 yen incl. tax), ISBN 9784757511224, story (待望の「ファイナルファンタジー４コマ」がついに登場！選ばれしクリスタルキャラバンが、笑気あふれる道をゆく… — "the long-awaited Final Fantasy 4-panel book arrives; the chosen crystal caravan walks a road full of laughter"); no page count, no author, no serialization info — accessed 2026-10-11 (fetched) — archived: TODO
+- https://magazine.jp.square-enix.com/top/comics/detail/9784757511224/ — profile*, (the title link earlier went through Google's English translation proxy, https://magazine-jp-square--enix-com.translate.goog/top/comics/detail/9784757511224/?_x_tr_sl=ja&_x_tr_tl=en; confirmed working by the user 2026-10-11, since no English page exists), dates* (発売日 2004年1月16日: confirms titleDate), size* (A5判), ISBN 9784757511224, story (待望の「ファイナルファンタジー４コマ」がついに登場！選ばれしクリスタルキャラバンが、笑気あふれる道をゆく… — "the long-awaited Final Fantasy 4-panel book arrives; the chosen crystal caravan walks a road full of laughter"); no page count, no author, no serialization info — accessed 2026-10-11 (fetched) — archived: TODO
 
 ndlsearch.ndl.go.jp (Information)
-- https://ndlsearch.ndl.go.jp/books/R100000002-I000004343183 — length* (112p, 21 cm; the entry's `112p; A5`, the A5 from the publisher page), publisher (スクウェア・エニックス), ISBN 4-7575-1122-1 (= 9784757511224), price (619 yen), dates (2004.2: conflicts with the publisher's 2004年1月16日, a catalog month; the publisher wins), no author (著者 -) — accessed 2026-10-11 (page text pasted by user) — archived: TODO
+- https://ndlsearch.ndl.go.jp/books/R100000002-I000004343183 — length* (112p, 21 cm; the entry's `112p; A5`, the A5 from the publisher page), publisher (スクウェア・エニックス), ISBN 4-7575-1122-1 (= 9784757511224), dates (2004.2: conflicts with the publisher's 2004年1月16日, a catalog month; the publisher wins), no author (著者 -) — accessed 2026-10-11 (page text pasted by user) — archived: TODO
 
 goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/77600584 — languages* (JA), book platform* (Manga link), ratings* (NYR: no ratings), format (Comic) — accessed 2026-10-11 (page text pasted by user)
@@ -63,7 +63,7 @@ Names in use, all seen 2026-10-11 (links pasted by user):
 - [FF Compendium listing](https://www.ffcompendium.com/store/JAPAN-Final-Fantasy-Crystal-Chronicles-4-Koma-Manga-Theater-Damage-_304860516486.html) — a seller's "about 120 pages" (NDL says 112); a marketplace listing — empty
 - [MangaBaka entry 435674](https://mangabaka.org/manga/435674/Final-Fantasy-Crystal-Chronicles-4-koma-Manga-Gekijou) — an English-interface manga database with the Japanese title; details not read — mine: a possible English `titleUrl`
 - Wikipedia's and the Fandom wiki's Final Fantasy Crystal Chronicles game pages: neither mentions this manga (checked by the user, 2026-10-11) — empty
-- [https://forum.gamer.com.tw/G2.php?bsn=60071&sn=2024](https://forum.gamer.com.tw/G2.php?bsn=60071&sn=2024) — a 2007 Taiwanese forum list of official FFCC books "from the S.E site and personal compilation": 4コママンガ劇場, A5, **120 pages**, 650 yen, called a doujin-style illustration collection; the FF Compendium seller also says about 120 pages, against NDL's 112p (the entry's `112p`); unreliable on details (its entry for the novel is clearly off) — accessed 2026-10-11 (page text pasted by user) — empty
+- [https://forum.gamer.com.tw/G2.php?bsn=60071&sn=2024](https://forum.gamer.com.tw/G2.php?bsn=60071&sn=2024) — a 2007 Taiwanese forum list of official FFCC books "from the S.E site and personal compilation": 4コママンガ劇場, A5, **120 pages**, called a doujin-style illustration collection; the FF Compendium seller also says about 120 pages, against NDL's 112p (the entry's `112p`); unreliable on details (its entry for the novel is clearly off) — accessed 2026-10-11 (page text pasted by user) — empty
 - wikiwiki.jp ffdic book index (https://wikiwiki.jp/ffdic/%E6%9B%B8%E7%B1%8D): no page for this book — accessed 2026-10-11 — empty
 
 ## Not yet surveyed

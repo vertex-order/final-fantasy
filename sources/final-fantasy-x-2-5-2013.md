@@ -34,13 +34,13 @@ Spanish edition -- ISBN 9788491740186 (ISBN10: 849174018X), Spanish (Castilian) 
 ## Sources
 
 magazine.jp.square-enix.com (Publisher, Japanese)
-- https://magazine.jp.square-enix.com/gamebooks/books/10053 — profile*, dates* (発売日 2013年12月26日: confirms titleDate), length (244P; five other sources say 242, see below; the entry uses `242p; H`), size (四六判), price (1,540 yen incl. tax), ISBN 9784757541573, credits (著者 野島一成), story (真実は太陽の光にも似て　人の目を眩ませる — two years and a few months after Yuna's group defeated Sin, a storm on the voyage wrecks Yuna and Tidus on an unknown island, where Yuna faces the island's truth; a story of Spira after X-2) — accessed 2026-10-11 (page text pasted by user) — archived: TODO
-- https://store.jp.square-enix.com/estore/g/g9784757541573/ — dates (2013年12月26日), size (四六判 246ページ; a third page count), price (1,540 yen), series (ファイナルファンタジー その他), genre (小説) — accessed 2026-10-11 (page text pasted by user) — archived: TODO
+- https://magazine.jp.square-enix.com/gamebooks/books/10053 — profile*, dates* (発売日 2013年12月26日: confirms titleDate), length (244P; five other sources say 242, see below; the entry uses `242p; H`), size (四六判), ISBN 9784757541573, credits (著者 野島一成), story (真実は太陽の光にも似て　人の目を眩ませる — two years and a few months after Yuna's group defeated Sin, a storm on the voyage wrecks Yuna and Tidus on an unknown island, where Yuna faces the island's truth; a story of Spira after X-2) — accessed 2026-10-11 (page text pasted by user) — archived: TODO
+- https://store.jp.square-enix.com/estore/g/g9784757541573/ — dates (2013年12月26日), size (四六判 246ページ; a third page count), series (ファイナルファンタジー その他), genre (小説) — accessed 2026-10-11 (page text pasted by user) — archived: TODO
   - Page counts disagree: NDL, Google Books, Amazon.co.jp, the wiki and Goodreads all say 242; the Game Books page says 244P and the e-store 246 (likely counting front matter); the entry uses 242, the figure five independent records agree on
   - Format: Hardcover per Google Books (publisher-sourced), Amazon.co.jp (Tankobon Hardcover) and the wiki; Goodreads' Paperback is the odd one out, so the entry uses `; H`
 
 ndlsearch.ndl.go.jp (Information)
-- https://ndlsearch.ndl.go.jp/books/R100000002-I025082575 — length* (242p, 20 cm), credits (野島一成 著, with cooperation and supervision by the FINAL FANTASY X and X-2 development and promotion staff, left out of `by`: books credit the author only), price (1,400 yen), dates (2013.12), ISBN 978-4-7575-4157-3 — accessed 2026-10-11 (page text pasted by user) — archived: TODO
+- https://ndlsearch.ndl.go.jp/books/R100000002-I025082575 — length* (242p, 20 cm), credits (野島一成 著, with cooperation and supervision by the FINAL FANTASY X and X-2 development and promotion staff, left out of `by`: books credit the author only), dates (2013.12), ISBN 978-4-7575-4157-3 — accessed 2026-10-11 (page text pasted by user) — archived: TODO
 
 books.google.com (Information)
 - https://www.google.com/books/edition/_/zGvzngEACAAJ — length* (242 pages) and format* (Hardcover), both publisher-sourced; published December 2013; ISBN 9784757541573 / 4757541570 — accessed 2026-10-11 (page text pasted by user; locale and `hl` stripped)

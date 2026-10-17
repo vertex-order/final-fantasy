@@ -14,7 +14,7 @@ Esora Amaichi (雨壱絵穹) — By (entry `by`; bare name: the publisher credit
 
 Per-book record, one book per label.
 
-ISBN 9784757583801 (ISBN10: 475758380X), Japanese, Square Enix, February 7, 2023, 194 pages (NDL: 193 p, 19 cm), B6, 730 yen (NDL: 664 yen), Paperback, ガンガンコミックスup!, title ファイナルファンタジーXIV 私立エオルゼア学園 — per goodreads + store + NDL — JA language link*, dates* (`titleDate`)
+ISBN 9784757583801 (ISBN10: 475758380X), Japanese, Square Enix, February 7, 2023, 194 pages (NDL: 193 p, 19 cm), B6, Paperback, ガンガンコミックスup!, title ファイナルファンタジーXIV 私立エオルゼア学園 — per goodreads + store + NDL — JA language link*, dates* (`titleDate`)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757583801
 - goodreads: https://www.goodreads.com/book/show/242160761-xiv — accessed 2026-10-09
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757583801
@@ -52,10 +52,10 @@ squareenixmangaandbooks.square-enix-games.com (Information)
 - https://squareenixmangaandbooks.square-enix-games.com/product/9781646092352 — title link*, profile*, credits*, dates (EN September 19, 2023), length (192 pages), format (trade paperback, 5-3/4 x 8-1/4), category (Manga), age rating (Teen), genres — accessed 2026-10-09 — archived: TODO
 
 store.jp.square-enix.com (Information)
-- https://store.jp.square-enix.com/estore/g/g9784757583801/ — dates* (JA February 7, 2023; Japanese Square Enix page is the date source), price (730 yen), series (ファイナルファンタジーXIV), genre (コミック), size (B6), stock (品切れ中, out of stock) — accessed 2026-10-09 — archived: TODO
+- https://store.jp.square-enix.com/estore/g/g9784757583801/ — dates* (JA February 7, 2023; Japanese Square Enix page is the date source), series (ファイナルファンタジーXIV), genre (コミック), size (B6), stock (品切れ中, out of stock) — accessed 2026-10-09 — archived: TODO
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/032628335 — dates* (JA February 2023; confirms the store page), credits, size (193 p, 19 cm), price (664 yen), series (ガンガンコミックスup!) — accessed 2026-10-09 — archived: TODO
+- http://id.ndl.go.jp/bib/032628335 — dates* (JA February 2023; confirms the store page), credits, size (193 p, 19 cm), series (ガンガンコミックスup!) — accessed 2026-10-09 — archived: TODO
 
 goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/198004628-final-fantasy-xiv — ratings* (4.30, 303 ratings), languages* (EN), platforms* (Manga row: lists the other language editions), length* (192 pages, paperback), credits, dates (EN September 19, 2023) — accessed 2026-10-09 — archived: TODO

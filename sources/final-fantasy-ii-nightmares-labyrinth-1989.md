@@ -19,7 +19,7 @@ finalfantasy.fandom.com (Information)
   - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB (page text pasted by user 2026-10-15): a novelization of Final Fantasy II written by Kenji Terada "with new art by Yoshitaka Amano" (the game's writer and character designer), Kadokawa Shoten, Sneaker Bunko, released exclusively in Japan; infobox release date April 1989, ISBN 978-4-04-410604-1, size 15 cm, 281 pages (the origin of the entry's `281p`; the publisher says 288 and 1989-03-20, so the wiki's month and page count look like NDL's late month and the numbered pages only)
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/199999410604/ -- profile*, dates*, length*, credits* -- accessed 2026-10-15 (the KADOKAWA search by title and ISBN fetched, and the product page read): 「ファイナルファンタジ－　２ 夢魔の迷宮」, author 寺田憲史, illustrator 天野喜孝, label 角川スニーカー文庫 (category ライトノベル), release 1989年03月20日 (the entry's date), 文庫判 (bunko, A6), 288 pages, 567 yen incl. tax (540 before), ISBN 978-4-04-410604-1 (4-04-410604-5); the search by the ISBN-10 returns nothing
+- https://www.kadokawa.co.jp/product/199999410604/ -- profile*, dates*, length*, credits* -- accessed 2026-10-15 (the KADOKAWA search by title and ISBN fetched, and the product page read): 「ファイナルファンタジ－　２ 夢魔の迷宮」, author 寺田憲史, illustrator 天野喜孝, label 角川スニーカー文庫 (category ライトノベル), release 1989年03月20日 (the entry's date), 文庫判 (bunko, A6), 288 pages, ISBN 978-4-04-410604-1 (4-04-410604-5); the search by the ISBN-10 returns nothing
 
 duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20II%20Muma%20no%20Meiky%C5%AB%20Nightmare%27s%20Labyrinth%20translation&t=h_ -- fan-translation search

@@ -11,7 +11,7 @@
 
 No French edition on the entry; NDL's French list has none for this book.
 
-ISBN 9784757717923 (ISBN10: 475771792X; NDL 4-7577-1792-X), Japanese, Enterbrain (ファミ通文庫), 2004.3, 255 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
+ISBN 9784757717923 (ISBN10: 475771792X; NDL 4-7577-1792-X), Japanese, Enterbrain (ファミ通文庫), 2004.3, 255 pages, 15 cm — per bg-wiki + NDL — JA language link*, length*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757717923
 - goodreads: https://www.goodreads.com/search?q=9784757717923
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757717923
@@ -32,10 +32,9 @@ bg-wiki.com (Information)
 - https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — shallow: not re-read
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000007306615 — dates*, length, price, ISBN, credits, series, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000007306615 — dates*, length, ISBN, credits, series, NDC 913.6 — accessed 2026-10-10 — archived: TODO
   - dates: JA 2004.3
   - length: 255 p, 15 cm; fold-in sheet
-  - price: 640 yen
   - ISBN: 4-7577-1792-X = 9784757717923, agrees
   - series: ファミ通文庫
 
@@ -57,7 +56,7 @@ plaza.harmonix.ne.jp (Information)
   - Cross-check: Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): Book 7, "Die Flügel der Ferne, Bd 7"
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/200700003939/ -- profile* -- accessed 2026-10-16: product page for ファイナルファンタジーＸＩ －遥かなる翼－ (page text pasted by user 2026-10-16): 著者 はせがわみやび, イラスト スクウェア, 704 yen incl. tax (640 before), 発売日 2004-03-19, ISBN 9784757717923, paper book; the page lists no page count
+- https://www.kadokawa.co.jp/product/200700003939/ -- profile* -- accessed 2026-10-16: product page for ファイナルファンタジーＸＩ －遥かなる翼－ (page text pasted by user 2026-10-16): 著者 はせがわみやび, イラスト スクウェア, 発売日 2004-03-19, ISBN 9784757717923, paper book; the page lists no page count
 
 worldcat.org (Information, library catalog)
 - https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- languages* -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 遥かなる翼 (Enterbrain, 2004) and the German Die Flügel der Ferne (Bd 7, Panini-Verl.-GmbH, 2008, 1. Aufl; a second record, Panini, Stuttgart, 2008); no French edition
@@ -75,4 +74,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - The book row has no `jpTag` (user, 2026-10-16): official German (Panini, 2008) editions exist, so the book is not Japan-only (`jpTag` means no official edition outside Japan, a non-English edition counts); part of the `jpTag` audit, see sources/xi-novels-group.md
 - The book row is the Goodreads series page "Final Fantasy XI Online" (user, 2026-10-16; https://www.goodreads.com/series/252821-final-fantasy-xi-online), replacing the DuckDuckGo search: the docs' first choice, it lists every German volume with its French edition merged in; the Japanese edition is reached through the JA language link, and the fan translation through the `fan-translation` row; see sources/xi-novels-group.md
 - `profileUrl` is the KADOKAWA page above (user, 2026-10-16) and `helpWanted` is removed: the publisher link was the missing piece
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates, prices and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～遥かなる翼～ -- elemen.jp: 2004/03/19, 640円（税込672円）, エンターブレイン, 255p, はせがわみやび, ASIN 475771792X; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-1792-X.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～遥かなる翼～ -- elemen.jp: 2004/03/19, エンターブレイン, 255p, はせがわみやび, ASIN 475771792X; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-1792-X.html (not archived)

@@ -13,7 +13,7 @@ Osamu Kudo (工藤治) — Adapted (entry `by`; role `adapted`: a novelization o
 
 Per-book record, one book per label.
 
-ISBN 9784757742376, Japanese, volume 1 (上), Famitsu Bunko (Enterbrain, now KADOKAWA), May 30, 2008, A6, 328 pages, 704 yen incl. tax — per KADOKAWA and goodreads — dates*, ratings*
+ISBN 9784757742376, Japanese, volume 1 (上), Famitsu Bunko (Enterbrain, now KADOKAWA), May 30, 2008, A6, 328 pages — per KADOKAWA and goodreads — dates*, ratings*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757742376
 - goodreads: https://www.goodreads.com/book/show/77752739 — accessed 2026-10-11 (page text pasted by user): Osamu Kudō, Paperback Bunko, Japanese, ISBN10 4757742371, no ratings
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757742376
@@ -36,8 +36,8 @@ wikipedia.org (Information)
 
 kadokawa.co.jp (Publisher, Japanese)
 - https://www.kadokawa.co.jp/product/search/?kw=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%20%E5%83%95%E3%82%89%E3%81%AE%E4%B8%96%E7%95%8C — profile*: KADOKAWA product search for `リング・オブ・フェイト 僕らの世界`; lists both volumes — accessed 2026-10-11 (confirmed by the user) — archived: TODO
-- https://www.kadokawa.co.jp/product/200805000185/ — dates* (volume 1: 2008年05月30日; titleDate start), credits (著者 工藤治), size (A6判), length (328 pages), price (704 yen incl. tax), blurb あの子たちの望む世界が始まる時まで－－少女は見守る, ISBN 9784757742376, title ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 僕らの世界 上 — accessed 2026-10-11 (fetched) — archived: TODO
-- https://www.kadokawa.co.jp/product/200806000441/ — dates* (volume 2: 2008年07月30日; titleDate end), credits (著者 工藤治), size (A6判), length (328 pages), price (726 yen incl. tax), blurb テテオ王女の魂が見守る双子の物語が遂に完結！！ ("the twins' story, watched over by Princess Teteo's soul, finally concludes"), ISBN 9784757742871, title …僕らの世界 下 — accessed 2026-10-11 (fetched) — archived: TODO
+- https://www.kadokawa.co.jp/product/200805000185/ — dates* (volume 1: 2008年05月30日; titleDate start), credits (著者 工藤治), size (A6判), length (328 pages), blurb あの子たちの望む世界が始まる時まで－－少女は見守る, ISBN 9784757742376, title ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 僕らの世界 上 — accessed 2026-10-11 (fetched) — archived: TODO
+- https://www.kadokawa.co.jp/product/200806000441/ — dates* (volume 2: 2008年07月30日; titleDate end), credits (著者 工藤治), size (A6判), length (328 pages), blurb テテオ王女の魂が見守る双子の物語が遂に完結！！ ("the twins' story, watched over by Princess Teteo's soul, finally concludes"), ISBN 9784757742871, title …僕らの世界 下 — accessed 2026-10-11 (fetched) — archived: TODO
 - https://famitsubunko.jp/product/finalfantasy/200805000185.html and .../200806000441.html — the Famitsu Bunko site's pages for the same two volumes — accessed 2026-10-11 (fetched; same data)
 - https://store.kadokawa.co.jp/shop/g/g200806000441/ — the KADOKAWA store page for volume 2 — seen in a search result only
 

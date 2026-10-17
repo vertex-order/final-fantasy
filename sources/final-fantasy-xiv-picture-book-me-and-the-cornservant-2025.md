@@ -20,7 +20,7 @@ ISBN 9798899100833 (ASIN B0H8RLHR8H), English, Square Enix Books, expected April
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9798899100833
 - open library: https://openlibrary.org/search?isbn=9798899100833
 
-ISBN 9784301001409, Japanese, Square Enix, December 17, 2025, 24 pages, B5 variant (170 x 170 mm), 1,430 yen incl. tax — per publisher + store — title ファイナルファンタジー14の絵本　ボクとモロコシさま; JA language link* (publisher page)
+ISBN 9784301001409, Japanese, Square Enix, December 17, 2025, 24 pages, B5 variant (170 x 170 mm) — per publisher + store — title ファイナルファンタジー14の絵本　ボクとモロコシさま; JA language link* (publisher page)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784301001409
 - goodreads: https://www.goodreads.com/search?q=9784301001409 -- no results as of 2026-10-09
 - google books: https://www.google.com/books/edition/%E3%83%9C%E3%82%AF%E3%81%A8%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7%E3%81%95%E3%81%BE/gLjG0QEACAAJ — accessed 2026-10-09
@@ -35,17 +35,17 @@ squareenixmangaandbooks.square-enix-games.com (Information)
 - https://squareenixmangaandbooks.square-enix-games.com/product/9798899100833 — title link*, profile*, credits, dates (April 13, 2027), length (24 pages), format (hardcover, 8 5/8 x 8 5/8), category (Picture Book), genres (Action / Adventure, Fantasy, Game Tie-In), age rating N/A — accessed 2026-10-09, re-read 2026-10-11 (page text pasted by user; the `en-us/` locale segment is dropped, the site auto-detects locale) — archived: TODO
 
 press.na.square-enix.com (Publisher, English press release)
-- https://press.na.square-enix.com/SQUARE-ENIX-ANNOUNCES-EIGHT-NEW-MANGA-AND-TWO-NEW-BOOK-RELEASES-SLATED -- dates (EN "scheduled for release in April 2027", matches the product page's April 13, 2027), price ($17.99 USD), credits ("Written by Main Scenario Writer Banri Oda and illustrated by Naoki Ikushima and Rina Yoshiura"), story (original story by the game's development team); pre-orders from Penguin Random House and other major booksellers from July 2026 -- accessed 2026-10-11 (text pasted by user; page not opened by me) -- archived: TODO
+- https://press.na.square-enix.com/SQUARE-ENIX-ANNOUNCES-EIGHT-NEW-MANGA-AND-TWO-NEW-BOOK-RELEASES-SLATED -- dates (EN "scheduled for release in April 2027", matches the product page's April 13, 2027), credits ("Written by Main Scenario Writer Banri Oda and illustrated by Naoki Ikushima and Rina Yoshiura"), story (original story by the game's development team); pre-orders from Penguin Random House and other major booksellers from July 2026 -- accessed 2026-10-11 (text pasted by user; page not opened by me) -- archived: TODO
   - Banri Oda is the game's main scenario writer
 
 magazine.jp.square-enix.com (Information)
 - https://magazine.jp.square-enix.com/gamebooks/books/10502 — languages* (JA), dates (JA December 17, 2025), length (24 pages, 4-color), format (B5 variant), ISBN — accessed 2026-10-09 — archived: TODO
 
 store.jp.square-enix.com (Information)
-- https://store.jp.square-enix.com/estore/g/g9784301001409-1/ — dates (JA December 17, 2025), price (1,430 yen), series (ファイナルファンタジーXIV), genre (えほん) — accessed 2026-10-09 — archived: TODO
+- https://store.jp.square-enix.com/estore/g/g9784301001409-1/ — dates (JA December 17, 2025), series (ファイナルファンタジーXIV), genre (えほん) — accessed 2026-10-09 — archived: TODO
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/034444709 — credits, dates (JA December 2025), size (18 x 18 cm), price (1,300 yen at NDL; publisher says 1,430), series (ファイナルファンタジー14の絵本, second book) — accessed 2026-10-09 — archived: TODO
+- http://id.ndl.go.jp/bib/034444709 — credits, dates (JA December 2025), size (18 x 18 cm), series (ファイナルファンタジー14の絵本, second book) — accessed 2026-10-09 — archived: TODO
 
 google.com/books (Information)
 - https://www.google.com/books/edition/%E3%83%9C%E3%82%AF%E3%81%A8%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7%E3%81%95%E3%81%BE/gLjG0QEACAAJ — dates (JA December 2025), credits, ISBN, story — accessed 2026-10-09 — archived: TODO

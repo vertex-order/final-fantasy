@@ -40,11 +40,11 @@ goodreads.com (Information)
 
 ## Square Enix (Publisher, Japanese; page since removed, Wayback only)
 
-- https://web.archive.org/web/20180911030219/http://www.square-enix.co.jp/magazine/gamebooks/ff/7_turks_tkaa/index.html — dates* (発売日 2011年12月15日: the entry's titleDate, replacing the placeholder 2011-01-01), size (四六判), length (口絵4C2P+本文1C352P), price (1,400 yen + tax), ISBN 978-4-7575-3467-4, credits (著者 野島一成; 表紙イラスト 田島昭宇, the cover illustrator, left out), story (two young men, Evan and Kyrie, run a detective agency in Edge; the Turks, Reno and Rude, rebuild the Shinra Company; Cloud and Tifa also appear) — accessed 2026-10-11 (page text pasted by user)
+- https://web.archive.org/web/20180911030219/http://www.square-enix.co.jp/magazine/gamebooks/ff/7_turks_tkaa/index.html — dates* (発売日 2011年12月15日: the entry's titleDate, replacing the placeholder 2011-01-01), size (四六判), length (口絵4C2P+本文1C352P), ISBN 978-4-7575-3467-4, credits (著者 野島一成; 表紙イラスト 田島昭宇, the cover illustrator, left out), story (two young men, Evan and Kyrie, run a detective agency in Edge; the Turks, Reno and Rude, rebuild the Shinra Company; Cloud and Tifa also appear) — accessed 2026-10-11 (page text pasted by user)
 
 ## yenpress.com (Publisher, English)
 
-- https://yenpress.com/titles/9781975382360-final-fantasy-vii-the-kids-are-alright-a-turks-side-story — length* (228 pages, paperback; the wiki says 224 for the English edition), trim size (5.5" x 8.25"), dates (English release January 22, 2019), ISBN 9781975382360, $14.00 US / $18.50 CAN, T (Teen), imprint Yen On, credits (Kazushige Nojima author, Sho-u Tajima artist, Tetsuya Nomura listed as an author too), story (Evan Townshend works for Mireille's Investigative Services after Meteorfall; a run-in with the Turks), "a prequel to Advent Children" — accessed 2026-10-11 (page text pasted by user)
+- https://yenpress.com/titles/9781975382360-final-fantasy-vii-the-kids-are-alright-a-turks-side-story — length* (228 pages, paperback; the wiki says 224 for the English edition), trim size (5.5" x 8.25"), dates (English release January 22, 2019), ISBN 9781975382360, T (Teen), imprint Yen On, credits (Kazushige Nojima author, Sho-u Tajima artist, Tetsuya Nomura listed as an author too), story (Evan Townshend works for Mireille's Investigative Services after Meteorfall; a run-in with the Turks), "a prequel to Advent Children" — accessed 2026-10-11 (page text pasted by user)
 
 ## breezewiki.com (Information)
 

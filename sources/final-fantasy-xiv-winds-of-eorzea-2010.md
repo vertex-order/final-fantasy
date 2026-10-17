@@ -13,7 +13,7 @@ Miyabi Hasegawa (はせがわみやび) — By (entry `by`; plain by: the cover 
 
 Per-book record, one book per label.
 
-ISBN 9784047269651 (NDL 978-4-04-726965-1), Japanese "エオルゼアの風" (Eorzea no Kaze, Winds of Eorzea), Enterbrain / KADOKAWA (ファミ通文庫 ; 996 [Special story]), 15 cm, 640 yen (KADOKAWA: 704 yen incl. tax) — per publisher + NDL + cover — JA language link*, Light Novel format*
+ISBN 9784047269651 (NDL 978-4-04-726965-1), Japanese "エオルゼアの風" (Eorzea no Kaze, Winds of Eorzea), Enterbrain / KADOKAWA (ファミ通文庫 ; 996 [Special story]), 15 cm — per publisher + NDL + cover — JA language link*, Light Novel format*
 - Dates: KADOKAWA December 25, 2010 (the entry's `titleDate`); NDL 2011.1
 - Pages: KADOKAWA 296 (A6) and Amazon.co.jp 296 (Paperback Bunko); NDL 254 and Google Books 254; the entry's length is 296
 - Cover: "FINAL FANTASY XIV ONLINE エオルゼアの風 ファイナルファンタジーXIV", Famitsu Bunko mark, "SPECIAL STORY"
@@ -42,10 +42,10 @@ google.com/books (Information)
 - https://www.google.com/books/edition/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC14/thleYgEACAAJ — dates (December 2010), length (254 pages), story (blurb), ISBN — accessed 2026-10-10 — archived: TODO
 
 kadokawa.co.jp (Information)
-- https://www.kadokawa.co.jp/product/201010000382/ — profile*, dates* (December 25, 2010), length* (296 pages, A6), price (704 yen incl. tax), credits (はせがわみやび), story ("ファイナルファンタジーXIVノベライズがいよいよスタート！", the start of the XIV novelizations) — accessed 2026-10-10 — archived: TODO
+- https://www.kadokawa.co.jp/product/201010000382/ — profile*, dates* (December 25, 2010), length* (296 pages, A6), credits (はせがわみやび), story ("ファイナルファンタジーXIVノベライズがいよいよスタート！", the start of the XIV novelizations) — accessed 2026-10-10 — archived: TODO
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000011087648 — dates (JA 2011.1), length (254 p, 15 cm), price (640 yen), ISBN (978-4-04-726965-1 = 9784047269651, agrees), credits, series (ファミ通文庫 ; 996 [Special story], parallel name Famitsu Bunko), NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000011087648 — dates (JA 2011.1), length (254 p, 15 cm), ISBN (978-4-04-726965-1 = 9784047269651, agrees), credits, series (ファミ通文庫 ; 996 [Special story], parallel name Famitsu Bunko), NDC 913.6 — accessed 2026-10-10 — archived: TODO
 
 wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga — title link*

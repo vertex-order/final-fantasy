@@ -14,7 +14,7 @@ Takashi Umemura (梅村崇) — By (entry `by`; bare name: the book is a prequel
 
 Per-book record, one book per label.
 
-ISBN 9784757510968 (ISBN10: 4757510969; NDL 4-7575-1096-9), Japanese, Game Novels series, Square Enix, February 6, 2004, 351 pages (NDL and Kinokuniya; Google Books says 346), 19 cm, Paperback Shinsho, 933 yen — per NDL, google books and goodreads — JA language link*, ratings*, dates*, length*
+ISBN 9784757510968 (ISBN10: 4757510969; NDL 4-7575-1096-9), Japanese, Game Novels series, Square Enix, February 6, 2004, 351 pages (NDL and Kinokuniya; Google Books says 346), 19 cm, Paperback Shinsho — per NDL, google books and goodreads — JA language link*, ratings*, dates*, length*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757510968
 - goodreads: https://www.goodreads.com/book/show/77092424 — accessed 2026-10-11 (page text pasted by user): title "小説 ファイナルファンタジー・クリスタルクロニクル", Paperback Shinsho, Japanese, ISBN10 4757510969, no ratings; author listed wrongly as 藤原カムイ
 - google books: https://www.google.com/books/edition/_/u1woNwAACAAJ — accessed 2026-10-11 (page text pasted by user; locale and `hl` stripped): FINAL FANTASY CRYSTAL CHRONICLES 小さな村の年代記, 梅村崇, Square Enix, published February 6, 2004, 346 pages, Japanese
@@ -24,7 +24,7 @@ ISBN 9784757510968 (ISBN10: 4757510969; NDL 4-7575-1096-9), Japanese, Game Novel
 ## Sources
 
 ndlsearch.ndl.go.jp (Information)
-- https://ndlsearch.ndl.go.jp/books/R100000002-I000004343122 — credits* (梅村崇), dates (2004.2; agrees with Google Books' February 6, 2004), length* (351p, 19 cm; Kinokuniya agrees), price (933 yen), series (Game novels), ISBN 4-7575-1096-9, title "Final fantasy crystal chronicles小さな村の年代記" — accessed 2026-10-11 (page text pasted by user) — archived: TODO
+- https://ndlsearch.ndl.go.jp/books/R100000002-I000004343122 — credits* (梅村崇), dates (2004.2; agrees with Google Books' February 6, 2004), length* (351p, 19 cm; Kinokuniya agrees), series (Game novels), ISBN 4-7575-1096-9, title "Final fantasy crystal chronicles小さな村の年代記" — accessed 2026-10-11 (page text pasted by user) — archived: TODO
 
 books.google.com (Information)
 - https://www.google.com/books/edition/_/u1woNwAACAAJ — dates* (February 6, 2004; matches titleDate), length (346 pages; outvoted by NDL and Kinokuniya's 351), credits (梅村崇), story (辺境の村、ティパは4種族の人間が手を取り合って暮らす小さな集落… "Tipa, a remote village where four races live together; Clim is unexpectedly chosen for the crystal caravan to bring back myrrh drops"), title FINAL FANTASY CRYSTAL CHRONICLES 小さな村の年代記 — accessed 2026-10-11 (page text pasted by user) — archived: TODO
@@ -37,7 +37,7 @@ amazon.co.jp (Retailer, Japanese)
   - Also the likely source of Goodreads' title "小説 ファイナルファンタジー・クリスタルクロニクル"
 
 suruga-ya.jp (Retailer, Japanese)
-- https://www.suruga-ya.jp/product/detail/2L1306 — dates (2004/02/06, agrees with Google Books), publisher スクウェア・エニックス, label GAME NOVELS, price (1,026 yen), title FINAL FANTASY CRYSTAL CHRONICLES 小さな村の年代記 — accessed 2026-10-11 (page text pasted by user); out of stock, a retailer, not linked
+- https://www.suruga-ya.jp/product/detail/2L1306 — dates (2004/02/06, agrees with Google Books), publisher スクウェア・エニックス, label GAME NOVELS, title FINAL FANTASY CRYSTAL CHRONICLES 小さな村の年代記 — accessed 2026-10-11 (page text pasted by user); out of stock, a retailer, not linked
 
 wikiwiki.jp (Information, Japanese fan wiki)
 - https://wikiwiki.jp/ffdic/書籍/【ファイナルファンタジークリスタルクロニクル　小さな村の年代記】 — dates (2004年1月発行: January 2004), credits (梅村崇), **story** (a novel about the time shortly before the game begins; the protagonist is Clim, a young man in Tipa's current caravan who is senior to the player's; Hardy and the Black Knight appear; episodes not told in the game, such as Ivan, an acquaintance of Chad's (Lilty's) father) — accessed 2026-10-11 (page text pasted by user; last modified 2016-06-24); suggests a side story set before the game, not a retelling of its plot
@@ -63,7 +63,7 @@ duckduckgo.com (Information)
 - Wikipedia's Final Fantasy Crystal Chronicles (video game) page (https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)), the Fandom wiki's Final Fantasy Crystal Chronicles page (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles) and finalfantasywiki.com's page (https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles): none mentions this novel (finalfantasywiki.com mentions no novel or manga at all) — checked by the user 2026-10-11 — empty; so no English wiki source exists for `titleUrl`
 - Square Enix Game Books search by ISBN 9784757510968 — no result (2026-10-11): the 2004 book isn't on the current site — empty
 
-- [https://forum.gamer.com.tw/G2.php?bsn=60071&sn=2024](https://forum.gamer.com.tw/G2.php?bsn=60071&sn=2024) — a 2007 Taiwanese forum list of official FFCC books "from the S.E site and personal compilation": 小さな村の年代記, 梅村崇 (author), 鳥居大介 (illustrator), 小B5, **256 pages**, 980 yen; the size and page count disagree with NDL, Kinokuniya and Amazon.co.jp (351 pages, shinsho), so the list is unreliable on details — accessed 2026-10-11 (page text pasted by user) — empty; shows the old Square Enix site once listed the book
+- [https://forum.gamer.com.tw/G2.php?bsn=60071&sn=2024](https://forum.gamer.com.tw/G2.php?bsn=60071&sn=2024) — a 2007 Taiwanese forum list of official FFCC books "from the S.E site and personal compilation": 小さな村の年代記, 梅村崇 (author), 鳥居大介 (illustrator), 小B5, **256 pages**; the size and page count disagree with NDL, Kinokuniya and Amazon.co.jp (351 pages, shinsho), so the list is unreliable on details — accessed 2026-10-11 (page text pasted by user) — empty; shows the old Square Enix site once listed the book
 - [wikiwiki.jp ffdic book index](https://wikiwiki.jp/ffdic/%E6%9B%B8%E7%B1%8D) — a Japanese fan wiki with pages for this book, Beyond the Endless Sky and the Ring of Fates 4-panel book; none for 4コママンガ劇場 or 僕らの世界 — accessed 2026-10-11 (page text pasted by user) — mine: a possible titleUrl via Google's translation proxy
 
 - [Terralibro listing](https://www.terralibro.com/libro/isbn/9784757510968.html) — a German bookseller: Takashi Umemura, "Final Fantasy Crystal Chronicles - Chiisana Mura no Nendaiki", 2004, ISBN 9784757510968, softcover, 352 pages, 18 x 11.8 x 2.6 cm, 275 g, "Offiziell lizenzierter Roman" (officially licensed novel); another page count (352, against 351) — accessed 2026-10-11 (text pasted by user) — empty (marketplace)

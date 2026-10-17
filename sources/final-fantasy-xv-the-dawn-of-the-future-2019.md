@@ -12,7 +12,7 @@
 
 Per-book record, one book per label.
 
-ISBN 9784757561083 (ISBN10: 4757561083), Japanese, Square Enix (GAME NOVELS), April 25, 2019, 408 pages (NDL: 399 p, 20 cm), 四六判, 1,650 yen incl. tax (NDL: 1,500 yen), Hardcover, title 小説 FINAL FANTASY XV -The Dawn Of The Future- — per publisher + goodreads + NDL — JA language link*, dates* (`titleDate`)
+ISBN 9784757561083 (ISBN10: 4757561083), Japanese, Square Enix (GAME NOVELS), April 25, 2019, 408 pages (NDL: 399 p, 20 cm), 四六判, Hardcover, title 小説 FINAL FANTASY XV -The Dawn Of The Future- — per publisher + goodreads + NDL — JA language link*, dates* (`titleDate`)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757561083
 - goodreads: https://www.goodreads.com/book/show/51116768-final-fantasy-xv — accessed 2026-10-09
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757561083
@@ -45,10 +45,10 @@ squareenixmangaandbooks.square-enix-games.com (Information)
 - https://squareenixmangaandbooks.square-enix-games.com/product/9781646090006 — profile*, credits ("By: Jun Eishima, FINAL FANTASY XV Development Team"), dates (EN print July 14, 2020; digital June 23, 2020), length* (384 pages), format (hardcover, 5 3/4 x 8 3/8), category (Novel), genres — accessed 2026-10-10 — archived: TODO
 
 magazine.jp.square-enix.com (Information)
-- https://magazine.jp.square-enix.com/gamebooks/books/10109 — dates* (JA April 25, 2019; the Japanese Square Enix page is the date source), length (408 pages, 四六判), price (1,650 yen incl. tax), ISBN — accessed 2026-10-10 — archived: TODO
+- https://magazine.jp.square-enix.com/gamebooks/books/10109 — dates* (JA April 25, 2019; the Japanese Square Enix page is the date source), length (408 pages, 四六判), ISBN — accessed 2026-10-10 — archived: TODO
 
 store.jp.square-enix.com (Information)
-- https://store.jp.square-enix.com/estore/g/g9784757561083/ — dates* (JA April 25, 2019), series (ファイナルファンタジーXV), genre (小説), price (1,650 yen), size (四六判 408 pages) — accessed 2026-10-10 — archived: TODO
+- https://store.jp.square-enix.com/estore/g/g9784757561083/ — dates* (JA April 25, 2019), series (ファイナルファンタジーXV), genre (小説), size (四六判 408 pages) — accessed 2026-10-10 — archived: TODO
 
 finalfantasy.fandom.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_-The_Dawn_of_the_Future-#External_links — platforms* (fan translation), languages* (EN, tip "Official; Fan Translation"): the wiki's External links list English fan translations (per the user, 2026-10-11; the section's contents were not seen by me, so the translation pages themselves aren't logged here); the entry links this stable wiki page, so no extra lines are needed (docs/sources.md) — accessed 2026-10-11
@@ -56,7 +56,7 @@ finalfantasy.fandom.com (Information)
   - The wiki gives the Japanese title as ファイナルファンタジーＸＶ 未来への夜明け (Mirai e no Yoake); the publisher's pages use 小説 FINAL FANTASY XV -The Dawn Of The Future-
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/029629273 — dates (JA April 2019; agrees with the publisher), credits, size, price — accessed 2026-10-09 — archived: TODO
+- http://id.ndl.go.jp/bib/029629273 — dates (JA April 2019; agrees with the publisher), credits, size — accessed 2026-10-09 — archived: TODO
 
 goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/48565746-final-fantasy-xv — ratings* (4.17, 1,331 ratings), languages* (EN), length* (384 pages, hardcover), dates (EN July 14, 2020) — accessed 2026-10-09 — archived: TODO

@@ -13,7 +13,7 @@
 
 Per-book record, one book per label. No English edition found; the EN flag is the fan translation.
 
-ISBN 9784757557994 (ISBN 978-4-7575-5799-4), Japanese, Square Enix, July 25, 2018, 144 pages (NDL: 142 p, 19 cm; goodreads: 143), B6 (breezewiki says B5), 723 yen incl. tax (NDL: 657 yen, ガンガンコミックスup!) — per fandom wiki + store + NDL + goodreads — JA language link*, profile*, dates*, length*
+ISBN 9784757557994 (ISBN 978-4-7575-5799-4), Japanese, Square Enix, July 25, 2018, 144 pages (NDL: 142 p, 19 cm; goodreads: 143), B6 (breezewiki says B5) (NDL: ガンガンコミックスup!) — per fandom wiki + store + NDL + goodreads — JA language link*, profile*, dates*, length*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757557994
 - goodreads: https://www.goodreads.com/book/show/70078001-final-fantasy-brave-exvius — accessed 2026-10-09 (print comic, ASIN 475755799X = the ISBN10; 143 pages)
 - goodreads (Kindle, digital ガンガンコミックスUP!): https://www.goodreads.com/book/show/51969052 — accessed 2026-10-09
@@ -25,17 +25,17 @@ ISBN 9784757557994 (ISBN 978-4-7575-5799-4), Japanese, Square Enix, July 25, 201
 ## Sources
 
 store.jp.square-enix.com (Information)
-- https://store.jp.square-enix.com/estore/g/g9784757557994/ — profile*, dates* (JA July 25, 2018; Japanese Square Enix page is the date source), price (723 yen), size* (B6判, 144 pages; the entry's `144p; B6`), series (ファイナルファンタジー その他), genre (コミック), stock status (在庫あり, in stock, so the print book is still sold by the publisher), serial code for the unit Rico (リコドキッ！) has ended; the page's note was added 2025/10/31 (2025/10/31 12:00 追記), which is when the note was written, not the code's end date (the end was 2019-07-24, per magazine.jp.square-enix.com below); page footer © 2015-2021 SQUARE ENIX, Developed by Alim Co., Ltd. (template date only); no serialization dates and nothing on whether it continues — accessed 2026-10-09, re-read 2026-10-16 (page text pasted by user) — archived: TODO
+- https://store.jp.square-enix.com/estore/g/g9784757557994/ — profile*, dates* (JA July 25, 2018; Japanese Square Enix page is the date source), size* (B6判, 144 pages; the entry's `144p; B6`), series (ファイナルファンタジー その他), genre (コミック), stock status (在庫あり, in stock, so the print book is still sold by the publisher), serial code for the unit Rico (リコドキッ！) has ended; the page's note was added 2025/10/31 (2025/10/31 12:00 追記), which is when the note was written, not the code's end date (the end was 2019-07-24, per magazine.jp.square-enix.com below); page footer © 2015-2021 SQUARE ENIX, Developed by Alim Co., Ltd. (template date only); no serialization dates and nothing on whether it continues — accessed 2026-10-09, re-read 2026-10-16 (page text pasted by user) — archived: TODO
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/029099528 — dates (JA July 2018; agrees with the store page), credits, size (142 p, 19 cm), price (657 yen) — accessed 2026-10-09 — archived: TODO
+- http://id.ndl.go.jp/bib/029099528 — dates (JA July 2018; agrees with the store page), credits, size (142 p, 19 cm) — accessed 2026-10-09 — archived: TODO
 
 goodreads.com (Information)
 - https://www.goodreads.com/book/show/70078001-final-fantasy-brave-exvius — languages* (JA), ratings* (NYR; the Kindle page shows 0 ratings, 0 reviews), credits, dates (JA July 25, 2018), length (143 pages, Comic) — accessed 2026-10-09 — archived: TODO
 - https://www.goodreads.com/book/show/51969052 — Kindle edition: 143 pages, no ratings — accessed 2026-10-09 — archived: TODO
 
 magazine.jp.square-enix.com (Publisher, Japanese)
-- https://magazine.jp.square-enix.com/top/comics/detail/9784757557994/ -- profile, dates*, length, story -- accessed 2026-10-16 (page text pasted by user): the Manga UP! (マンガＵＰ！) book page for FINAL FANTASY BRAVE EXVIUS リコドキッ!, 著者 まつもと剛志, 発売日 2018年7月25日, 723 yen incl. tax, B6, ISBN 9784757557994; "FFBE初のマンガ" (the first manga of FFBE, said to have passed 30 million downloads worldwide), a full-color comedy about the dreaming Moogle girl Rico; the volume comes with a serial code for the units Rico (リコドキッ！) and her Trust Moogle (valid from 2018-07-25 to 2019-07-24 per this page; the Square Enix store page's 2025/10/31 is only the date its note about the ended code was added), claimable on the PC (AndApp) version of the game; the page links a first-episode trial reading (第1話 試し読み) and the official site; it gives no serialization dates and does not say whether the serialization continues
+- https://magazine.jp.square-enix.com/top/comics/detail/9784757557994/ -- profile, dates*, length, story -- accessed 2026-10-16 (page text pasted by user): the Manga UP! (マンガＵＰ！) book page for FINAL FANTASY BRAVE EXVIUS リコドキッ!, 著者 まつもと剛志, 発売日 2018年7月25日, B6, ISBN 9784757557994; "FFBE初のマンガ" (the first manga of FFBE, said to have passed 30 million downloads worldwide), a full-color comedy about the dreaming Moogle girl Rico; the volume comes with a serial code for the units Rico (リコドキッ！) and her Trust Moogle (valid from 2018-07-25 to 2019-07-24 per this page; the Square Enix store page's 2025/10/31 is only the date its note about the ended code was added), claimable on the PC (AndApp) version of the game; the page links a first-episode trial reading (第1話 試し読み) and the official site; it gives no serialization dates and does not say whether the serialization continues
 
 x.com (Publisher, Japanese)
 - Posts by the Manga UP! account @mangaup_PR (マンガＵＰ！, Square Enix) -- dates*, serialization -- accessed 2026-10-16 (post text and images pasted by user from account searches, e.g. https://x.com/search?q=from%3Amangaup_PR%20until%3A2018-01-31%20FFBE&f=live; the dates are the ones x.com showed beside each post):

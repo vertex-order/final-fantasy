@@ -8,7 +8,7 @@
 - Pages: 217 per NDL, Google Books, Amazon.com and bg-wiki; 216 per KADOKAWA and Amazon.co.jp; the entry uses 217 (see Decisions)
 - Date 2013-03-12: KADOKAWA and Amazon.co.jp; the others give 2013-03 or a placeholder
 
-電撃の旅団公式十年事典 (Lightning Brigade Official Decennial Encyclopedia) — ISBN 9784048867573 (bg-wiki: 978-4-04-886757-3), Japanese, ASCII MediaWorks, March 2013, 217pp, AB, 3200 yen, NDL 024289701 — per bg-wiki — JA language link*, rating (NYR)*, length (217p; AB)*, date (2013-03-12)*
+電撃の旅団公式十年事典 (Lightning Brigade Official Decennial Encyclopedia) — ISBN 9784048867573 (bg-wiki: 978-4-04-886757-3), Japanese, ASCII MediaWorks, March 2013, 217pp, AB, NDL 024289701 — per bg-wiki — JA language link*, rating (NYR)*, length (217p; AB)*, date (2013-03-12)*
 - 10th-anniversary book of Final Fantasy XI from the Dengeki Brigade
 - Encyclopedia of the game's ten-year history, jobs, NPCs, monsters and stories
 - Long developer interview and new four-panel comics (描き下ろし4コマ; Dengeki Online counts 108); the entry says "scattered four-panel comics" without a number
@@ -23,25 +23,25 @@
 bg-wiki.com (Information)
 - https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Lightning_Brigade — titleUrl*, title (Japanese and English)*, description (original source of the "four original comics" wording), publisher — accessed 2026-10-13
   - Row pasted by user again; page not re-opened or archived
-  - Japanese 電撃の旅団公式十年事典; English "Lightning Brigade Official Decennial Encyclopedia"; NDL 024289701; ISBN 978-4-04-886757-3; ASCII MediaWorks; 2013.03; 3200 yen; 217p;AB
+  - Japanese 電撃の旅団公式十年事典; English "Lightning Brigade Official Decennial Encyclopedia"; NDL 024289701; ISBN 978-4-04-886757-3; ASCII MediaWorks; 2013.03; 217p;AB
   - Notes: "The 10th anniversary commemorative book of FFXI that brings together the efforts of the Dengeki Brigade! Packed with memories, this is the most comprehensive encyclopedia in the history of the Brigade, detailing the adventures' 10-year history, jobs, NPCs, monsters, and stories! Featuring a long interview with the developers and four original comics!"
   - "Four original comics" is a mistranslation of 描き下ろし4コマ (newly drawn four-panel comics), as the publisher blurb on Google Books shows
   - Date is superseded by KADOKAWA (below)
 
 kadokawa.co.jp (Information)
-- https://www.kadokawa.co.jp/product/201204000046/ — profileUrl*, date, length, price, credits, ISBN — accessed 2026-10-13
+- https://www.kadokawa.co.jp/product/201204000046/ — profileUrl*, date, length, credits, ISBN — accessed 2026-10-13
   - Publisher product page; text pasted by user, not archived
   - Title printed ファイナルファンタジーＸＩ　電撃の旅団公式　十年事典; editor 電撃プレイステーション編集部 (Dengeki PlayStation editorial staff)
-  - Release 2013-03-12; AB size; 216 pages; list price 3,520 yen (3,200 yen + tax); ISBN 9784048867573 (agrees)
+  - Release 2013-03-12; AB size; 216 pages; ISBN 9784048867573 (agrees)
   - Blurb: the 10-year history from the Dengeki Brigade; jobs, NPCs, monsters and story; "the first and strongest encyclopedia in the Brigade's history"
 - https://store.kadokawa.co.jp/shop/g/g201204000046/ — store listing — accessed 2026-10-13
-  - Same title, editor and date; 3,520 yen; out of stock
+  - Same title, editor and date; out of stock
   - Text pasted by user, not archived
 
 dengekionline.com (Information)
-- https://dengekionline.com/elem/000/000/607/607957/ — contents, original price and publisher, cover — accessed 2026-10-13
+- https://dengekionline.com/elem/000/000/607/607957/ — contents, publisher, cover — accessed 2026-10-13
   - Dengeki PlayStation post of 2013-03-04 announcing the book; text pasted by user, not archived
-  - Publisher listed as アスキー・メディアワークス (ASCII MediaWorks); release 2013-03-12 (a Tuesday); price 3,360 yen with tax (the 5% tax rate then)
+  - Publisher listed as アスキー・メディアワークス (ASCII MediaWorks); release 2013-03-12 (a Tuesday)
   - Cover: a new illustration of Brigade characters by Ryosuke Aiba, the game's art director (Tarutaru riding a Galka)
   - Not the usual quest or battle-content guide
   - Contents:
@@ -55,11 +55,11 @@ dengekionline.com (Information)
     - 108 new four-panel comics, plus smaller features
 
 ndlsearch.ndl.go.jp (Information)
-- https://ndlsearch.ndl.go.jp/books/R100000002-I024289701 — length*, dates*, price, publisher, series, title, summary — accessed 2026-10-13
+- https://ndlsearch.ndl.go.jp/books/R100000002-I024289701 — length*, dates*, publisher, series, title, summary — accessed 2026-10-13
   - Record text pasted by user, not archived; NDL bib ID 024289701 (http://id.ndl.go.jp/bib/024289701); national bibliography no. 22223187; call no. Y88-L185
   - Title ファイナルファンタジー11電撃の旅団公式十年事典 : ジラートの幻影 プロマシアの呪縛 アトルガンの秘宝 アルタナの神兵 アドゥリンの魔境 (the subtitle names the five expansions)
   - Series 電撃PlayStation; ASCII MediaWorks, sold by 角川グループパブリッシング (Kadokawa Group Publishing); 2013.3
-  - 217p; 26cm; NDC 798.5; list price 3200 yen; ISBN 978-4-04-886757-3
+  - 217p; 26cm; NDC 798.5; ISBN 978-4-04-886757-3
   - Summary (from JPRO, the publisher information registry): 10-year history for all adventurers; jobs, NPCs, monsters and story; "the first and strongest encyclopedia in the Brigade's history"; "our ten years aren't over unless you read this book"
   - No authors listed; editor is 電撃プレイステーション編集部 per the publisher
 
@@ -89,9 +89,9 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - [bg-wiki – Lightning Brigade section](https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Lightning_Brigade) — same page, other entries — mine: magazine article collections, not on the list; no comics noted
   - The Dengeki Brigade: a Final Fantasy XI feature in the magazine Dengeki PlayStation, about six years from the 2002 beta
-  - 電撃の旅団クロニクル1 (Chronicle 1, 2002.2~2004.5): MediaWorks, April 2008, ISBN 978-4-8402-4208-0, 482pp, 1800 yen, NDL 000009313233
-  - クロニクル2 (2004.6~2006.12): ASCII MediaWorks, September 2008, ISBN 978-4-04-867305-1, 434pp, 2000 yen, NDL 000009593145
-- [bg-wiki – Books](https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books) — 電撃の旅団公式同人誌 (Lightning Brigade Official Doujinshi, ASCII MediaWorks, June 2012, JAN 4942330054987, 100pp, A5, 1000 yen), "more of a fan question and answer book" — mine: not on the list; a different book from this encyclopedia
+  - 電撃の旅団クロニクル1 (Chronicle 1, 2002.2~2004.5): MediaWorks, April 2008, ISBN 978-4-8402-4208-0, 482pp, NDL 000009313233
+  - クロニクル2 (2004.6~2006.12): ASCII MediaWorks, September 2008, ISBN 978-4-04-867305-1, 434pp, NDL 000009593145
+- [bg-wiki – Books](https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books) — 電撃の旅団公式同人誌 (Lightning Brigade Official Doujinshi, ASCII MediaWorks, June 2012, JAN 4942330054987, 100pp, A5), "more of a fan question and answer book" — mine: not on the list; a different book from this encyclopedia
 - [bg-wiki – Manga, 4-Koma](https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma) — Lightning Brigade four-panel books from MediaWorks — mine: not on the list
   - 電撃の旅団編 えふえふいれぶん・4コマ・マンガ No.1: March 2004, 257p;B6, ISBN 4-8402-2469-2, 312 four-panel comics from the Dengeki PlayStation series plus articles
   - No.2: April 2007, 353p;B6, ISBN 978-4-8402-3819-9

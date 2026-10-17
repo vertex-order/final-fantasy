@@ -27,7 +27,7 @@ Vol.2 (English) -- ISBN 9781646094196 (from the Square Enix product URL; the fan
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9781646094196
 - open library: https://openlibrary.org/search?isbn=9781646094196
 
-Vol.2 (Japanese) -- ISBN 9784757599826 (ISBN10: 475759982X), Japanese, スクウェア・エニックス (Square Enix), October 7, 2025, 398 pages (goodreads says 100), 四六上製 (hardcover), 1,760 yen incl. tax, ASIN B0FTWLB969 -- FINAL FANTASY XIV 光の回顧録 Chronicles of Light Volume II -- per publisher + goodreads (no ratings) -- dates* (end of `titleDate`)
+Vol.2 (Japanese) -- ISBN 9784757599826 (ISBN10: 475759982X), Japanese, スクウェア・エニックス (Square Enix), October 7, 2025, 398 pages (goodreads says 100), 四六上製 (hardcover), ASIN B0FTWLB969 -- FINAL FANTASY XIV 光の回顧録 Chronicles of Light Volume II -- per publisher + goodreads (no ratings) -- dates* (end of `titleDate`)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757599826
 - goodreads: https://www.goodreads.com/book/show/252304660 -- accessed 2026-10-10
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757599826
@@ -67,17 +67,17 @@ altraverse.de (Information)
 
 magazine.jp.square-enix.com (Information)
 - https://magazine.jp.square-enix.com/gamebooks/search?q=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2+Chronicles+of+Light -- catalog search for 光の回顧録 Chronicles of Light: brings up both volumes -- accessed 2026-10-10
-- https://magazine.jp.square-enix.com/gamebooks/books/10088 -- dates* (Vol.1 Japan: March 9, 2019; start of `titleDate`, the Japanese Square Enix page is the date source), length (272 pages, 四六判; google books says 263, goodreads 263), price (1,527 yen incl. tax), title (小説 FINAL FANTASY XIV 光の回顧録 Chronicles of Light), ISBN 9784757560352 -- accessed 2026-10-10 -- archived: TODO
+- https://magazine.jp.square-enix.com/gamebooks/books/10088 -- dates* (Vol.1 Japan: March 9, 2019; start of `titleDate`, the Japanese Square Enix page is the date source), length (272 pages, 四六判; google books says 263, goodreads 263), title (小説 FINAL FANTASY XIV 光の回顧録 Chronicles of Light), ISBN 9784757560352 -- accessed 2026-10-10 -- archived: TODO
 
 magazine.jp.square-enix.com (Information, Vol.2)
-- https://magazine.jp.square-enix.com/gamebooks/books/10497 -- dates* (Vol.2 Japan: October 7, 2025; end of `titleDate`, the Japanese Square Enix page is the date source), length (1C398: 398 pages, 1-color), price (1,760 yen incl. tax), size (四六上製, hardcover), ISBN 9784757599826 -- accessed 2026-10-10 -- archived: TODO
+- https://magazine.jp.square-enix.com/gamebooks/books/10497 -- dates* (Vol.2 Japan: October 7, 2025; end of `titleDate`, the Japanese Square Enix page is the date source), length (1C398: 398 pages, 1-color), size (四六上製, hardcover), ISBN 9784757599826 -- accessed 2026-10-10 -- archived: TODO
 
 store.jp.square-enix.com (Information)
-- https://store.jp.square-enix.com/estore/goods/search.aspx?keyword=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2%20Chronicles%20of%20Light&search=search -- languages* (JA) (e-store search for 光の回顧録 Chronicles of Light: brings up both volumes; has descriptions and prices, ISBN only in the product URLs; the site's own link carried a tracking parameter seq=exp1-d, dropped) -- accessed 2026-10-10
-- https://store.jp.square-enix.com/estore/g/g9784757560352/ -- dates (Vol.1 Japan: March 9, 2019; agrees with the magazine page), price (1,528 yen), series (ファイナルファンタジーXIV), genre (ファンブック・その他), size (四六判/上製, hardcover, "268 pages planned"; the magazine page says 272) -- accessed 2026-10-10 -- archived: TODO
+- https://store.jp.square-enix.com/estore/goods/search.aspx?keyword=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2%20Chronicles%20of%20Light&search=search -- languages* (JA) (e-store search for 光の回顧録 Chronicles of Light: brings up both volumes; has descriptions, ISBN only in the product URLs; the site's own link carried a tracking parameter seq=exp1-d, dropped) -- accessed 2026-10-10
+- https://store.jp.square-enix.com/estore/g/g9784757560352/ -- dates (Vol.1 Japan: March 9, 2019; agrees with the magazine page), series (ファイナルファンタジーXIV), genre (ファンブック・その他), size (四六判/上製, hardcover, "268 pages planned"; the magazine page says 272) -- accessed 2026-10-10 -- archived: TODO
 
 store.jp.square-enix.com (Information, Vol.2)
-- https://store.jp.square-enix.com/estore/g/g9784757599826/ -- dates (Vol.2 Japan: October 7, 2025; agrees with the magazine page), price (1,760 yen), series (ファイナルファンタジーXIV), genre (ファンブック・その他), size (四六判/上製, 398 pages planned) -- accessed 2026-10-10 -- archived: TODO
+- https://store.jp.square-enix.com/estore/g/g9784757599826/ -- dates (Vol.2 Japan: October 7, 2025; agrees with the magazine page), series (ファイナルファンタジーXIV), genre (ファンブック・その他), size (四六判/上製, 398 pages planned) -- accessed 2026-10-10 -- archived: TODO
 
 finalfantasy.fandom.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Chronicles_of_Light -- title link*, dates (Vol.1: March 9, 2019 Japan; October 18, 2022 reprint, North America), length (224 pages, print, English), credits (authors Banri Oda, Natsuko Ishikawa, Daichi Hiroi, Yuki Kimura, John Crow, Naoki Yoshida; editors Kazuhiro Oya (EIC), Tomoko Hatakeyama, Takuji Tada), story (the first printed collection of Lodestone Side Stories, 2014-2018, plus four new stories) -- accessed 2026-10-10

@@ -30,7 +30,7 @@ breezewiki.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Ultimania_Omega — the containing guidebook: SE-Mook, Studio BentStuff, September 30, 2010, ISBN 978-4-7575-2958-8, A5, 512p — accessed 2026-10-11
 
 magazine.jp.square-enix.com (Publisher, Japanese)
-- https://magazine.jp.square-enix.com/gamebooks/books/10066 — profile*, dates* (2010年09月30日発売: the guidebook's release date, confirms titleDate 2010-09-30; the novella has no separate date), ISBN, size (A5判), length (512 pages), price (2,090 yen incl. tax), credits (original novel by ベニー松山 inside the guidebook) — accessed 2026-10-11 — archived: TODO
+- https://magazine.jp.square-enix.com/gamebooks/books/10066 — profile*, dates* (2010年09月30日発売: the guidebook's release date, confirms titleDate 2010-09-30; the novella has no separate date), ISBN, size (A5判), length (512 pages), credits (original novel by ベニー松山 inside the guidebook) — accessed 2026-10-11 — archived: TODO
 
 goodreads.com (Information)
 - https://www.goodreads.com/book/show/28466281 — languages* (JA), book platform* (Novella link; English interface and retailer links for the Japanese book), format* (511 pages, Tankobon Softcover; platform stays Novella) — accessed 2026-10-09

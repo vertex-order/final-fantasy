@@ -10,7 +10,7 @@ No `by` credit, per the user 2026-10-14: the stories were written by unnamed for
 
 - No ISBN: bg-wiki gives a UPC
 
-朗読劇 : 異聞のウタイビト : 複製台本 (Reading Drama : Minstrel of Strange Tales : Replica Script) — UPC 4942330227312, Japanese, Kadokawa, February 2024, 96pp, B5, 2530 yen, NDL N/A — per bg-wiki — JA language*, length (96p;B5)*, date (2024-02)*
+朗読劇 : 異聞のウタイビト : 複製台本 (Reading Drama : Minstrel of Strange Tales : Replica Script) — UPC 4942330227312, Japanese, Kadokawa, February 2024, 96pp, B5, NDL N/A — per bg-wiki — JA language*, length (96p;B5)*, date (2024-02)*
 - Includes a playbill with comments from the performers, writer, director and producer, and a scenario overview
 - Performed live on 2024-02-17 (playonline); the book is the script of that performance
 - Five tales:
@@ -38,12 +38,12 @@ game.watch.impress.co.jp (Information, press report)
   - Editor's note: a separate Granblue Fantasy collaboration event, ファイナルファンタジーXI 幻想のウタイビト, covered Prishe's later story (not a reading drama; not in the list)
 
 store.kadokawa.co.jp (Publisher, Japanese: Kadokawa's own store)
-- https://store.kadokawa.co.jp/shop/g/g4942330227312/ -- profile*, date -- accessed 2026-10-14 (page text pasted by user): 朗読劇 ファイナルファンタジーXI 異聞のウタイビト リーフレット＋複製台本, the leaflet and replica script set, release "end of February 2024 (planned)", 2,530 yen, marked 販売が終了している商品です (sold out / sales ended); the page's code 4942330227312 is the UPC bg-wiki gives; the page still loads, so it is the entry's profile link, not a place to buy; page text re-read 2026-10-14 in full: pre-orders 2023-12-04 17:00 to 2023-12-20 23:59, shipping from the end of February 2024, contents a four-page event leaflet plus the replica script holding the reading drama's scenarios, size B5; the same listing appears in Kadokawa's Famitsu, Dengeki and KGL stores (also under Famitsu's International Shipping)
+- https://store.kadokawa.co.jp/shop/g/g4942330227312/ -- profile*, date -- accessed 2026-10-14 (page text pasted by user): 朗読劇 ファイナルファンタジーXI 異聞のウタイビト リーフレット＋複製台本, the leaflet and replica script set, release "end of February 2024 (planned)", marked 販売が終了している商品です (sold out / sales ended); the page's code 4942330227312 is the UPC bg-wiki gives; the page still loads, so it is the entry's profile link, not a place to buy; page text re-read 2026-10-14 in full: pre-orders 2023-12-04 17:00 to 2023-12-20 23:59, shipping from the end of February 2024, contents a four-page event leaflet plus the replica script holding the reading drama's scenarios, size B5; the same listing appears in Kadokawa's Famitsu, Dengeki and KGL stores (also under Famitsu's International Shipping)
 
 group.kadokawa.co.jp (Publisher, Japanese: Kadokawa, the script's publisher)
 - https://group.kadokawa.co.jp/information/promotional_topics/article-9001.html -- profile*, credits*, description* -- accessed 2026-10-14 (page text pasted by user): Kadokawa's own product/service topic of 2023-12-11 for the performance
   - Content: "stories never told in the game" ("異聞"), all scenarios completely newly written; the scenarios were written "under the supervision of the FFXI team and produced by Famitsu and Dengeki" by staff who had worked on FFXI scenarios and development in the past -- no writer is named
-  - Director (演出) 早川康介 (Kosuke Hayakawa); cast Emiri Katō, Yū Asakawa, Nozomu Sasaki, Hiroshi Shirokuma; two performances on 2024-02-17 at Tokorozawa Sakura Town, Japan Pavilion Hall A (8,800 yen); original work Final Fantasy XI (Square Enix); planning KADOKAWA and KADOKAWA Game Linkage; organizer KADOKAWA; cooperation and supervision Square Enix; event page https://readpia.jp/event/ff11reading/
+  - Director (演出) 早川康介 (Kosuke Hayakawa); cast Emiri Katō, Yū Asakawa, Nozomu Sasaki, Hiroshi Shirokuma; two performances on 2024-02-17 at Tokorozawa Sakura Town, Japan Pavilion Hall A; original work Final Fantasy XI (Square Enix); planning KADOKAWA and KADOKAWA Game Linkage; organizer KADOKAWA; cooperation and supervision Square Enix; event page https://readpia.jp/event/ff11reading/
 - Official X account for the 2025 performance (the companion entry): https://x.com/ffxi_roudoku, site https://dengekionline.com/special/content/ffxi-roudoku-mugen/
 
 playonline.com (Publisher, Japanese: Square Enix's Final Fantasy XI site)

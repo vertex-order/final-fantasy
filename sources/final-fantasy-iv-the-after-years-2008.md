@@ -13,7 +13,7 @@ Square Enix (Publisher, Developer)
 - https://www.jp.square-enix.com/ff4tay/en/ -- platforms*, profileUrl* -- accessed 2026-10-14 (page text pasted by user)
   - English page lists Apple Arcade, App Store, Google Play and Steam, with a store link for each
 - https://www.jp.square-enix.com/topics/detail/3336/ -- platforms* -- accessed 2026-10-14 (page text pasted by user)
-  - Apple Arcade release 2024-12-10 (beside the IV 3D Remake) as FF IV: THE AFTER YEARS+, gamepad support, ¥900 per month subscription
+  - Apple Arcade release 2024-12-10 (beside the IV 3D Remake) as FF IV: THE AFTER YEARS+, gamepad support per month subscription
   - Describes the game as the "authentic sequel" set over a decade after IV, told in 10 chapters around Prince Theodor of Baron
 
 Android (Platform)

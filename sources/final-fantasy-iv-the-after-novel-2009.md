@@ -16,9 +16,9 @@ Per-book record, one book per label.
 - google books: https://www.google.com/books/edition/_/ugqCPgAACAAJ -- accessed 2026-10-08
 - goodreads: https://www.goodreads.com/book/show/77476002 -- accessed 2026-10-08
 - open library: https://openlibrary.org/search?isbn=9784757525368
-- NDL: https://ndlsearch.ndl.go.jp/books/R100000002-I000010066540 -- accessed 2026-10-14 -- length*, publisher, ISBN, series, credits -- ファイナルファンタジー4ジ・アフター : 月の帰還, 295p, 19cm, 2009.4 (NDL's month is April, the usual receipt month), 933 yen before tax, series "Game novels", NDC 913.6, audience 一般 (so a regular novel line, not a bunko light-novel imprint: the platform stays Novel)
+- NDL: https://ndlsearch.ndl.go.jp/books/R100000002-I000010066540 -- accessed 2026-10-14 -- length*, publisher, ISBN, series, credits -- ファイナルファンタジー4ジ・アフター : 月の帰還, 295p, 19cm, 2009.4 (NDL's month is April, the usual receipt month), series "Game novels", NDC 913.6, audience 一般 (so a regular novel line, not a bunko light-novel imprint: the platform stays Novel)
 - amazon.co.jp: https://www.amazon.co.jp/dp/4757525362 -- accessed 2026-10-14 -- length*, date -- 295 pages, Paperback Shinsho, March 26, 2009, Square Enix, 440 g; Amazon rating 3.6 of 12 ratings
-- square enix magazine (book page): https://magazine.jp.square-enix.com/top/comics/detail/9784757525368/ -- accessed 2026-10-14 -- date*, credits -- the other Square Enix page for the same book (the gamebooks page is the one used for `profileUrl`, matching the VII, X and XIII novel entries) -- 2009年3月26日, 小B6判, 1,026 yen incl. tax, writer 手塚一郎, illustrator オグロアキラ, original plan and supervision 時田貴司
+- square enix magazine (book page): https://magazine.jp.square-enix.com/top/comics/detail/9784757525368/ -- accessed 2026-10-14 -- date*, credits -- the other Square Enix page for the same book (the gamebooks page is the one used for `profileUrl`, matching the VII, X and XIII novel entries) -- 2009年3月26日, 小B6判, writer 手塚一郎, illustrator オグロアキラ, original plan and supervision 時田貴司
 - square enix magazine (gamebooks page): https://magazine.jp.square-enix.com/gamebooks/books/10030 -- accessed 2026-10-14 -- profileUrl*, length -- 288ページ＋フルカラー口絵8ページ (288 text pages plus 8 colour pages, which sums to the 296 of the catalogs' 295-page count, give or take a blank page); 2009年03月26日
 
 ## Sources

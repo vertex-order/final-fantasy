@@ -14,7 +14,7 @@
 
 Per-book record, one book per label. Goal is language discovery.
 
-ISBN 9784757574984 (ISBN10: 4757574983), Japanese, Square Enix, December 16, 2021, B5 variant (180 x 180 mm), 1,320 yen incl. tax (NDL: 19 x 19 cm, 1,200 yen), 40 pages (4-color; goodreads says 49), Hardcover — per publisher + NDL + goodreads + google books — title ファイナルファンタジーえほん チョコボと空飛ぶ船 — dates* (start of `titleDate`), JA language link*
+ISBN 9784757574984 (ISBN10: 4757574983), Japanese, Square Enix, December 16, 2021, B5 variant (180 x 180 mm) (NDL: 19 x 19 cm), 40 pages (4-color; goodreads says 49), Hardcover — per publisher + NDL + goodreads + google books — title ファイナルファンタジーえほん チョコボと空飛ぶ船 — dates* (start of `titleDate`), JA language link*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757574984
 - goodreads: https://www.goodreads.com/book/show/97504720-final-fantasy-e-hon — accessed 2026-10-09 (print edition, ASIN 4757574983 = the ISBN10)
 - goodreads (Kindle): https://www.goodreads.com/book/show/61121994-final-fantasy-e-hon — accessed 2026-10-09
@@ -48,13 +48,13 @@ finalfantasy.fandom.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Chocobo_and_the_Airship:_A_Final_Fantasy_Picture_Book — title link*, ISBN (4757574983 — the Japanese ISBN10 — and 9781646092031) — accessed 2026-10-10 — archived: TODO
 
 magazine.jp.square-enix.com (Information)
-- https://magazine.jp.square-enix.com/gamebooks/books/10412 — dates* (JA December 16, 2021; start of `titleDate`, Japanese release authoritative), length (40 pages, 4-color), price (1,320 yen), size (B5 variant, 180 x 180 mm), ISBN — accessed 2026-10-09 — archived: TODO
+- https://magazine.jp.square-enix.com/gamebooks/books/10412 — dates* (JA December 16, 2021; start of `titleDate`, Japanese release authoritative), length (40 pages, 4-color), size (B5 variant, 180 x 180 mm), ISBN — accessed 2026-10-09 — archived: TODO
 
 store.jp.square-enix.com (Information)
-- https://store.jp.square-enix.com/estore/g/g9784757574984/ — dates (JA December 16, 2021), price (1,320 yen), series (ファイナルファンタジー その他), genre (えほん) — accessed 2026-10-09 — archived: TODO
+- https://store.jp.square-enix.com/estore/g/g9784757574984/ — dates (JA December 16, 2021), series (ファイナルファンタジー その他), genre (えほん) — accessed 2026-10-09 — archived: TODO
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/031845083 — dates (JA December 2021; month precision), credits, size, price (1,200 yen) — accessed 2026-10-09 — archived: TODO
+- http://id.ndl.go.jp/bib/031845083 — dates (JA December 2021; month precision), credits, size — accessed 2026-10-09 — archived: TODO
 
 google.com/books (Information)
 - https://www.google.com/books/edition/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%81%88%E3%81%BB/xF2lzgEACAAJ — dates (JA December 2021), credits, ISBN — accessed 2026-10-09 — archived: TODO

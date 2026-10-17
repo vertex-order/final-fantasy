@@ -9,7 +9,7 @@ Multi-author anthology; entry has no `by` credit
 
 ## Editions (ISBN)
 
-ISBN 9784757745865 (ISBN10: 4757745869; NDL 978-4-7577-4586-5), Japanese "ファイナルファンタジー11アンソロジー短編集みんなで大冒険!!" (An Anthology of Short Stories: A Great Adventure for Everyone!), Enterbrain (ファミ通文庫 ; 843 [Special story]), 2009.2 per NDL (the author's own list gives the sale date January 30, 2009, which the entry uses), 311 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
+ISBN 9784757745865 (ISBN10: 4757745869; NDL 978-4-7577-4586-5), Japanese "ファイナルファンタジー11アンソロジー短編集みんなで大冒険!!" (An Anthology of Short Stories: A Great Adventure for Everyone!), Enterbrain (ファミ通文庫 ; 843 [Special story]), 2009.2 per NDL (the author's own list gives the sale date January 30, 2009, which the entry uses), 311 pages, 15 cm — per bg-wiki + NDL — JA language link*, length*, dates*
 - Blurb: the first anthology of Final Fantasy XI novelizations
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757745865
 - goodreads: https://www.goodreads.com/book/show/77470246 — accessed 2026-10-09
@@ -23,10 +23,9 @@ bg-wiki.com (Information)
 - https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — shallow: not re-read
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000010031150 — dates*, length, price, ISBN, credits, series, NDC 913.68, contents list — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000010031150 — dates*, length, ISBN, credits, series, NDC 913.68, contents list — accessed 2026-10-10 — archived: TODO
   - dates: JA 2009.2
   - length: 311 p, 15 cm
-  - price: 640 yen
   - ISBN: 978-4-7577-4586-5, agrees
   - credits: はせがわみやび 他著
   - series: ファミ通文庫 ; 843, parallel series name Famitsu bunko
@@ -43,7 +42,7 @@ plaza.harmonix.ne.jp (Information)
   - Cross-check: The page lists it among the FF11 series books, between Message from Beyond 3 and Heartbeat of Xarcabard 1
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/200812000129/ -- profile* -- accessed 2026-10-16: product page 200812000129 (user, 2026-10-16): アンソロジー短編集 みんなで大冒険!!, authors はせがわみやび, 田口仙年堂 and 高殿円, A6, 328 pages (the entry has 311p), 704 yen incl. tax, 2009-01-30, ISBN 9784757745865
+- https://www.kadokawa.co.jp/product/200812000129/ -- profile* -- accessed 2026-10-16: product page 200812000129 (user, 2026-10-16): アンソロジー短編集 みんなで大冒険!!, authors はせがわみやび, 田口仙年堂 and 高殿円, A6, 328 pages (the entry has 311p), 2009-01-30, ISBN 9784757745865
 
 worldcat.org (Information, library catalog)
 - https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11アンソロジー短編集みんなで大冒険!! (Enterbrain, 2009; author given as Hasegawa Miyabi and others); no translation
@@ -66,4 +65,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - See `xi-novels-group.md`
 - `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
 - `length` is `328p; A6` (user, 2026-10-16): the native publisher's (KADOKAWA) page count and size, not the earlier 311p; we use the native publisher's count when there is no English edition
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates, prices and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI アンソロジー短編集 みんなで大冒険!! -- elemen.jp: 2009/01/30, 672円（税込640円）, エンターブレイン, はせがわみやび、田口仙年堂、高殿円, ASIN 4757745869; reference page listed: http://www.enterbrain.co.jp/product/pocketbook/fami_novel/08275401.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI アンソロジー短編集 みんなで大冒険!! -- elemen.jp: 2009/01/30, エンターブレイン, はせがわみやび、田口仙年堂、高殿円, ASIN 4757745869; reference page listed: http://www.enterbrain.co.jp/product/pocketbook/fami_novel/08275401.html (not archived)

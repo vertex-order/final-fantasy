@@ -20,7 +20,7 @@ Three volumes (complete) in one entry: vol 1 (2017-08-26) to vol 3 (2018-11-26).
 
 Per-book record, one book per label.
 
-ISBN 9784048932981 (ISBN10: 4048932985), Japanese, KADOKAWA (電撃コミックスEX), vol 1, August 26, 2017, A5, 112 pages (NDL: 111 p, 21 cm), 715 yen incl. tax (NDL: 650 yen), Comic — per publisher + goodreads + NDL — JA language link*, ratings*, dates* (start of `titleDate`)
+ISBN 9784048932981 (ISBN10: 4048932985), Japanese, KADOKAWA (電撃コミックスEX), vol 1, August 26, 2017, A5, 112 pages (NDL: 111 p, 21 cm), Comic — per publisher + goodreads + NDL — JA language link*, ratings*, dates* (start of `titleDate`)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784048932981
 - publisher: https://www.kadokawa.co.jp/product/321705000172/ — accessed 2026-10-10
 - goodreads: https://www.goodreads.com/book/show/69172609 — accessed 2026-10-10 (print comic, ASIN 4048932985 = the ISBN10)
@@ -31,7 +31,7 @@ ISBN 9784048932981 (ISBN10: 4048932985), Japanese, KADOKAWA (電撃コミック�
 Japanese ebook (Kindle, ASIN B074NVT761), KADOKAWA, August 26, 2017, 119 pages — per goodreads — dates*
 - goodreads: https://www.goodreads.com/book/show/39932864-xiv-1-ex — accessed 2026-10-10
 
-ISBN 9784048937078, Japanese, KADOKAWA (電撃コミックスEX), vol 2, March 26, 2018, A5, 112 pages (NDL: 111 p, 21 cm), 748 yen incl. tax (NDL: 680 yen), Comic — per publisher + goodreads + NDL
+ISBN 9784048937078, Japanese, KADOKAWA (電撃コミックスEX), vol 2, March 26, 2018, A5, 112 pages (NDL: 111 p, 21 cm), Comic — per publisher + goodreads + NDL
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784048937078
 - publisher: https://www.kadokawa.co.jp/product/321712000090/ — accessed 2026-10-10
 - goodreads: https://www.goodreads.com/book/show/69884335-xiv-2 — accessed 2026-10-10 (print comic, ASIN 4048937073 = the ISBN10)
@@ -40,7 +40,7 @@ ISBN 9784048937078, Japanese, KADOKAWA (電撃コミックスEX), vol 2, March 2
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784048937078
 - open library: https://openlibrary.org/search?isbn=9784048937078
 
-ISBN 9784049121797, Japanese, KADOKAWA (電撃コミックスEX), vol 3 (final), November 26, 2018, A5, 112 pages (NDL: 110 p, 21 cm), 748 yen incl. tax (NDL: 680 yen), Comic — per publisher + goodreads + NDL — dates* (end of `titleDate`)
+ISBN 9784049121797, Japanese, KADOKAWA (電撃コミックスEX), vol 3 (final), November 26, 2018, A5, 112 pages (NDL: 110 p, 21 cm), Comic — per publisher + goodreads + NDL — dates* (end of `titleDate`)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784049121797
 - publisher: https://www.kadokawa.co.jp/product/321807000631/ — accessed 2026-10-10
 - goodreads: https://www.goodreads.com/book/show/70663919-xiv-3 — accessed 2026-10-10 (print comic, ASIN 4049121794 = the ISBN10)
@@ -53,15 +53,15 @@ ISBN 9784049121797, Japanese, KADOKAWA (電撃コミックスEX), vol 3 (final),
 
 kadokawa.co.jp (Information)
 - https://www.kadokawa.co.jp/product/search/?kw=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F — profile* (KADOKAWA product search for ララフェル先生: lists all three volumes) — accessed 2026-10-10
-- https://www.kadokawa.co.jp/product/321705000172/ — dates* (vol 1: August 26, 2017; start of `titleDate`), credits* (漫画 ふぁっ熊, 協力 スクウェア・エニックス), length (112 pages, A5), price (715 yen incl. tax), ISBN, story — accessed 2026-10-10 — archived: TODO
-- https://www.kadokawa.co.jp/product/321712000090/ — vol 2: March 26, 2018, 112 pages, 748 yen, ISBN 9784048937078 — accessed 2026-10-10 — archived: TODO
-- https://www.kadokawa.co.jp/product/321807000631/ — dates* (vol 3, final: November 26, 2018; end of `titleDate`), 112 pages, 748 yen, ISBN 9784049121797; "ついに完結" (finally complete) — accessed 2026-10-10 — archived: TODO
+- https://www.kadokawa.co.jp/product/321705000172/ — dates* (vol 1: August 26, 2017; start of `titleDate`), credits* (漫画 ふぁっ熊, 協力 スクウェア・エニックス), length (112 pages, A5), ISBN, story — accessed 2026-10-10 — archived: TODO
+- https://www.kadokawa.co.jp/product/321712000090/ — vol 2: March 26, 2018, 112 pages, ISBN 9784048937078 — accessed 2026-10-10 — archived: TODO
+- https://www.kadokawa.co.jp/product/321807000631/ — dates* (vol 3, final: November 26, 2018; end of `titleDate`), 112 pages, ISBN 9784049121797; "ついに完結" (finally complete) — accessed 2026-10-10 — archived: TODO
 
 goodreads.com (Ratings)
 - https://www.goodreads.com/search?q=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F%E3%81%AE%E6%95%99%E3%81%88%E3%81%A6%E3%82%84%E3%82%8B%E3%82%88 — languages* (JA) — accessed 2026-10-15 (fetched and read): the search `ララフェル先生の教えてやるよ` returns volumes 1, 2 and 3 (two editions each in some cases, e.g. the Kindle-style (1) page next to the print one) plus a 3-volume set and a 1-2 volume set; it replaced the NYR rating's page https://www.goodreads.com/book/show/69172609 (print volume 1, no ratings), which is kept here
 
 finalfantasy.fandom.com (Information)
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_I_Will_Teach_You_Professor_Lalafell — title link*, credits* (writer and artist both Fakkuma; spelling confirmed), story, dates (August 26, 2017), publisher (Dengeki), cover price (702 yen) — accessed 2026-10-10 — archived: TODO
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_I_Will_Teach_You_Professor_Lalafell — title link*, credits* (writer and artist both Fakkuma; spelling confirmed), story, dates (August 26, 2017), publisher (Dengeki), cover — accessed 2026-10-10 — archived: TODO
   - The page says the official English title, "Final Fantasy XIV: I Will Teach You Professor Lalafell", is printed inside the book; the entry title differs
 
 jp.finalfantasyxiv.com (Information)
@@ -70,9 +70,9 @@ jp.finalfantasyxiv.com (Information)
   - Official FFXIV Japanese site posts; they link KADOKAWA's pages, not a Square Enix store page
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/028442100 — dates (JA August 2017; agrees with the publisher), credits*, size (111 p, 21 cm), price (650 yen), series (電撃コミックスEX DE253-1) — accessed 2026-10-10 — archived: TODO
-- http://id.ndl.go.jp/bib/028877839 — dates (JA vol 2: March 2018; agrees with the publisher), credits, size (111 p, 21 cm), price (680 yen), series (電撃コミックスEX DE253-2) — accessed 2026-10-10 — archived: TODO
-- http://id.ndl.go.jp/bib/029333429 — dates* (JA vol 3: November 2018; confirms the end of `titleDate`), credits, size (110 p, 21 cm), price (680 yen), series (DE253-3), summary: 最終第3巻 (final volume) — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/028442100 — dates (JA August 2017; agrees with the publisher), credits*, size (111 p, 21 cm), series (電撃コミックスEX DE253-1) — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/028877839 — dates (JA vol 2: March 2018; agrees with the publisher), credits, size (111 p, 21 cm), series (電撃コミックスEX DE253-2) — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/029333429 — dates* (JA vol 3: November 2018; confirms the end of `titleDate`), credits, size (110 p, 21 cm), series (DE253-3), summary: 最終第3巻 (final volume) — accessed 2026-10-10 — archived: TODO
 
 goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/69172609 — ratings* (NYR; 3.00 from 2 ratings, 0 reviews), languages (JA), story (gag manga guiding a new adventurer through Eorzea) — accessed 2026-10-10 — archived: TODO
@@ -108,7 +108,7 @@ jp.finalfantasyxiv.com Lodestone (Publisher, Japanese; the monthly "ファイナ
 - https://jp.finalfantasyxiv.com/lodestone/topics/detail/36478a847c0e047e826dc611cf8ea0d5125b4ee9 (notice of 2018/01/12): **電撃PlayStation 655号** (Friday 2018-01-26), 別冊付録 「デンプレコミック」: **第12回 (episode 12)**
 - So the series ran monthly in the Dempre Comic supplement: episode 16 on 2018-05-24, 17 on 2018-06-28, 18 on 2018-07-27 (three in a row, about a month apart); earlier: episode 6 on 2017-06-22, 11 on 2017-12-28 and 12 on 2018-01-26 (so strictly monthly from December 2017; from episode 6 to 11 it is five episodes in six months, one month skipped between June and December 2017); counted back monthly from episode 6, **episode 1 falls about January 2017** (five months before 2017-06-22), which agrees with the 2017-01-26 post already calling it serialized, so the start is about January 2017 (our inference: no notice for 第1回 seen yet, and a skipped month earlier would put it a month before); find the notice for 第1回 (2016年12月 or 2017年1月 notice) and for the final episode (2018年9月 to 12月)
 - After episode 18 (666号, 2018-07-27) the next three issues list **no デンプレコミック or Lalafell episode**: https://jp.finalfantasyxiv.com/lodestone/topics/detail/69487fe379af4e4f43d09828521b2a1428d1e1d0 (notice of 2018/09/10, updated 09/14): 電撃PlayStation 668号 (2018-09-28); https://jp.finalfantasyxiv.com/lodestone/topics/detail/d12f8e4badfc391e5504681e2e467b67db825217 (notice of 2018/10/09): 669号 (2018-10-26); https://jp.finalfantasyxiv.com/lodestone/topics/detail/d7b19ec39c8d735aba939c59a7bbfa4e4f31a062 (notice of 2018/11/09, updated 11/27): 670号 (2018-11-28); the monthly 667号 (August 2018) is not seen (no August notice found yet); so the last episode is **18 (2018-07-27) or 19 (in 667号, about late August 2018)**, three months before volume 3 (2018-11-26), which is the date the entry now uses for the end; the absence is an inference from the notices (they list each issue's contents, but could omit an item)
-- 電撃PlayStation Vol.667 (the August 2018 issue): released **2018-08-28** with the supplement 「デンプレコミック」 (a Falcom page whose URL was cut off in the search result, KADOKAWA's store listing dated 2018-08-28, PR Times of 2018-07-27 giving 8月28日発売予定 and Dengeki Online of 2018-08-27), and SEGA's page for とある魔術の電脳戦機 (https://vo-index.sega.jp/topics/20180828_01.html, 2018-08-28, text pasted by user: its comic's 9th episode is in the supplement, price 950 yen, no other series named) calls it **「デンプレコミック＃21」** (supplement number 21); search results pasted by user 2026-10-16, the pages not opened, and no source found yet for whether Lalafell-sensei episode 19 or a final episode is in #21; our inference: with the supplement monthly, #21 in 2018-08 means **#1 was December 2016** (Lalafell-sensei not in it: the December 2016 notice lists none), and the series' episode numbers lag the supplement's by one in mid-2017 (ep 6 in the June 2017 issue, #7) and two in mid-2018 (ep 18 in the July issue, #20), which fits the one skipped month between June and December 2017, so **episode 1 is #2, the January 2017 issue**
+- 電撃PlayStation Vol.667 (the August 2018 issue): released **2018-08-28** with the supplement 「デンプレコミック」 (a Falcom page whose URL was cut off in the search result, KADOKAWA's store listing dated 2018-08-28, PR Times of 2018-07-27 giving 8月28日発売予定 and Dengeki Online of 2018-08-27), and SEGA's page for とある魔術の電脳戦機 (https://vo-index.sega.jp/topics/20180828_01.html, 2018-08-28, text pasted by user: its comic's 9th episode is in the supplement, no other series named) calls it **「デンプレコミック＃21」** (supplement number 21); search results pasted by user 2026-10-16, the pages not opened, and no source found yet for whether Lalafell-sensei episode 19 or a final episode is in #21; our inference: with the supplement monthly, #21 in 2018-08 means **#1 was December 2016** (Lalafell-sensei not in it: the December 2016 notice lists none), and the series' episode numbers lag the supplement's by one in mid-2017 (ep 6 in the June 2017 issue, #7) and two in mid-2018 (ep 18 in the July issue, #20), which fits the one skipped month between June and December 2017, so **episode 1 is #2, the January 2017 issue**
 - The same notices list みながわふみお's weekly 4-koma in Weekly Famitsu's エオルゼア倶楽部 (the XIV 14-Koma entry's serialization), at least through 2018-07-26
 
 mangadex.org (Information)

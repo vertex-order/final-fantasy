@@ -45,7 +45,7 @@ goodreads.com (Information)
 - https://www.goodreads.com/book/show/32993834 -- format* (Tankobon Hardcover; not a bunko light novel, so the platform stays Short Stories (a collection of three)) -- accessed 2026-10-09
 
 magazine.jp.square-enix.com (Publisher, Japanese; Wayback only)
-- https://web.archive.org/web/20160304093601/http://www.square-enix.co.jp/magazine/gamebooks/ff/ff123_novel_moh/ — profile*, dates* (発売日 **2012年10月31日**: the titleDate of the three entries, replacing 2012-10-25 from the dedicated wiki page), size (四六判), length (4C8P+1C304P = 312 pages; the wiki says 303), price (1,500 yen + tax), ISBN 978-4-7575-3775-0, story ("the story began here": three novels for the first three Final Fantasy games) — accessed 2026-10-11 (page text pasted by user) — archived: the Wayback capture of 2016-03-04
+- https://web.archive.org/web/20160304093601/http://www.square-enix.co.jp/magazine/gamebooks/ff/ff123_novel_moh/ — profile*, dates* (発売日 **2012年10月31日**: the titleDate of the three entries, replacing 2012-10-25 from the dedicated wiki page), size (四六判), length (4C8P+1C304P = 312 pages; the wiki says 303), ISBN 978-4-7575-3775-0, story ("the story began here": three novels for the first three Final Fantasy games) — accessed 2026-10-11 (page text pasted by user) — archived: the Wayback capture of 2016-03-04
 
 breezewiki.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits (Takashi Umemura), dates (October 31, 2012 — **differs** from the entries' titleDate of 2012-10-25, to recheck), ISBN 978-4-7575-3775-0; the table row, and the book has a dedicated page (already cited above) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO

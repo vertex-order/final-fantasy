@@ -16,7 +16,7 @@
 
 No French edition on the entry; NDL's French list has none for this book.
 
-Vol.1: ISBN 9784757719354 (ISBN10: 4757719353; NDL 4-7577-1935-3), Japanese, Enterbrain (ファミ通文庫), 2004.7, 249 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
+Vol.1: ISBN 9784757719354 (ISBN10: 4757719353; NDL 4-7577-1935-3), Japanese, Enterbrain (ファミ通文庫), 2004.7, 249 pages, 15 cm — per bg-wiki + NDL — JA language link*, length*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757719354
 - goodreads: https://www.goodreads.com/search?q=9784757719354
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757719354
@@ -32,7 +32,7 @@ Vol.1: ISBN 9783833217272 (ISBN10: 3833217278), German "Der Stolz der Paladine 1
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9783833217272
 - open library: https://openlibrary.org/search?isbn=9783833217272
 
-Vol.2: ISBN 9784757720022 (ISBN10: 4757720025; NDL 4-7577-2002-5), Japanese, Enterbrain (ファミ通文庫), 2004.9, 250 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
+Vol.2: ISBN 9784757720022 (ISBN10: 4757720025; NDL 4-7577-2002-5), Japanese, Enterbrain (ファミ通文庫), 2004.9, 250 pages, 15 cm — per bg-wiki + NDL — JA language link*, length*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757720022
 - goodreads: https://www.goodreads.com/search?q=9784757720022
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757720022
@@ -47,7 +47,7 @@ Vol.2: ISBN 9783833217289 (ISBN10: 3833217286), German "Der Stolz der Paladine 2
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9783833217289
 - open library: https://openlibrary.org/search?isbn=9783833217289
 
-Vol.3: ISBN 9784757720596 (ISBN10: 4757720599; NDL 4-7577-2059-9), Japanese, Enterbrain (ファミ通文庫), 2004.12, 250 pages, 15 cm, 640 yen — per bg-wiki + NDL — JA language link*, length*, dates*
+Vol.3: ISBN 9784757720596 (ISBN10: 4757720599; NDL 4-7577-2059-9), Japanese, Enterbrain (ファミ通文庫), 2004.12, 250 pages, 15 cm — per bg-wiki + NDL — JA language link*, length*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757720596
 - goodreads: https://www.goodreads.com/search?q=9784757720596
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757720596
@@ -68,22 +68,19 @@ bg-wiki.com (Information)
 - https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — shallow: not re-read
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000007434305 — Vol.1: dates*, length, price, ISBN, credits, series, volume 1, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000007434305 — Vol.1: dates*, length, ISBN, credits, series, volume 1, NDC 913.6 — accessed 2026-10-10 — archived: TODO
   - dates: JA 2004.7
   - length: 249 p, 15 cm; fold-in sheet
-  - price: 640 yen
   - ISBN: 4-7577-1935-3 = 9784757719354, agrees
   - series: ファミ通文庫
-- http://id.ndl.go.jp/bib/000007500211 — Vol.2: dates*, length, price, ISBN, credits, series, volume 2, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000007500211 — Vol.2: dates*, length, ISBN, credits, series, volume 2, NDC 913.6 — accessed 2026-10-10 — archived: TODO
   - dates: JA 2004.9
   - length: 250 p, 15 cm; fold-in sheet
-  - price: 640 yen
   - ISBN: 4-7577-2002-5 = 9784757720022, agrees
   - series: ファミ通文庫
-- http://id.ndl.go.jp/bib/000007568375 — Vol.3: dates*, length, price, ISBN, credits, series, volume 3, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000007568375 — Vol.3: dates*, length, ISBN, credits, series, volume 3, NDC 913.6 — accessed 2026-10-10 — archived: TODO
   - dates: JA 2004.12
   - length: 250 p, 15 cm; fold-in sheet
-  - price: 640 yen
   - ISBN: 4-7577-2059-9 = 9784757720596, agrees
   - series: ファミ通文庫
 
@@ -115,7 +112,7 @@ plaza.harmonix.ne.jp (Information)
   - Cross-check: Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): Books 8-10, "Der Stolz der Paladine 1-3, Bd 8-10"
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/search/?auth=%E3%81%AF%E3%81%9B%E3%81%8C%E3%82%8F%E3%81%BF%E3%82%84%E3%81%B3&kw=%E9%A8%8E%E5%A3%AB%E3%81%AE%E8%AA%87%E3%82%8A -- profile* -- accessed 2026-10-16: search 騎士の誇り with the author はせがわみやび, confirmed by the user in a browser (2026-10-16) to return exactly the three volumes: 騎士の誇り 1 (2004-07-20), 2 (2004-09-18) and 3 (2004-11-20), light novels, illustrations by 金田榮路 on volumes 1 and 2, 704 yen incl. tax each; without the author the keyword also returns unrelated books
+- https://www.kadokawa.co.jp/product/search/?auth=%E3%81%AF%E3%81%9B%E3%81%8C%E3%82%8F%E3%81%BF%E3%82%84%E3%81%B3&kw=%E9%A8%8E%E5%A3%AB%E3%81%AE%E8%AA%87%E3%82%8A -- profile* -- accessed 2026-10-16: search 騎士の誇り with the author はせがわみやび, confirmed by the user in a browser (2026-10-16) to return exactly the three volumes: 騎士の誇り 1 (2004-07-20), 2 (2004-09-18) and 3 (2004-11-20), light novels, illustrations by 金田榮路 on volumes 1 and 2 each; without the author the keyword also returns unrelated books
 
 worldcat.org (Information, library catalog)
 - https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- languages* -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the German Der Stolz der Paladine Bd 8, Bd 9 and Bd 10 (Panini-Verl.-GmbH, 2008 and 2009, 1. Aufl); no French edition, and no Japanese record for 騎士の誇り was among the 64 results
@@ -133,4 +130,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - The book row has no `jpTag` (user, 2026-10-16): official German (Panini, 2008 and 2009) editions exist, so the book is not Japan-only (`jpTag` means no official edition outside Japan, a non-English edition counts); part of the `jpTag` audit, see sources/xi-novels-group.md
 - The book row is the Goodreads series page "Final Fantasy XI Online" (user, 2026-10-16; https://www.goodreads.com/series/252821-final-fantasy-xi-online), replacing the DuckDuckGo search: the docs' first choice, it lists every German volume with its French edition merged in; the Japanese edition is reached through the JA language link, and the fan translation through the `fan-translation` row; see sources/xi-novels-group.md
 - `profileUrl` is the KADOKAWA page above (user, 2026-10-16) and `helpWanted` is removed: the publisher link was the missing piece
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates, prices and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～騎士の誇り1～ -- elemen.jp: 2004/07/20, 640円（税込672円）, エンターブレイン, 249p, はせがわみやび, ASIN 4757719353; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-1935-3.html (not archived); ファイナルファンタジーXI ～騎士の誇り2～ -- elemen.jp: 2004/09/18, 672円（税込640円）, エンターブレイン, はせがわみやび, ASIN 4757720025; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-2002-5.html (not archived); ファイナルファンタジーXI ～騎士の誇り3～ -- elemen.jp: 2004/11/20, 672円（税込640円）, エンターブレイン, はせがわみやび, ASIN 4757720599; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-2059-9.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～騎士の誇り1～ -- elemen.jp: 2004/07/20, エンターブレイン, 249p, はせがわみやび, ASIN 4757719353; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-1935-3.html (not archived); ファイナルファンタジーXI ～騎士の誇り2～ -- elemen.jp: 2004/09/18, エンターブレイン, はせがわみやび, ASIN 4757720025; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-2002-5.html (not archived); ファイナルファンタジーXI ～騎士の誇り3～ -- elemen.jp: 2004/11/20, エンターブレイン, はせがわみやび, ASIN 4757720599; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-2059-9.html (not archived)

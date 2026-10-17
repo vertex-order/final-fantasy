@@ -36,10 +36,10 @@ squareenixmangaandbooks.square-enix-games.com (Information)
 - https://squareenixmangaandbooks.square-enix-games.com/product/9781646091447 — title link*, profile*, credits, dates (EN August 9, 2022), length (24 pages), format (hardcover), category, genres — accessed 2026-10-09 — archived: TODO
 
 magazine.jp.square-enix.com (Information)
-- https://magazine.jp.square-enix.com/gamebooks/books/10377 — dates* (JA May 8, 2021; start of `titleDate`, Japanese release authoritative), length (24 pages, 4-color), price (1,300 yen), ISBN — accessed 2026-10-09 — archived: TODO
+- https://magazine.jp.square-enix.com/gamebooks/books/10377 — dates* (JA May 8, 2021; start of `titleDate`, Japanese release authoritative), length (24 pages, 4-color), ISBN — accessed 2026-10-09 — archived: TODO
 
 store.jp.square-enix.com (Information)
-- https://store.jp.square-enix.com/estore/g/g9784757571204/ — dates (JA May 8, 2021), price (1,300 yen), size (B5 variant, 170 x 170 mm, 24 pages) — accessed 2026-10-09 — archived: TODO
+- https://store.jp.square-enix.com/estore/g/g9784757571204/ — dates (JA May 8, 2021), size (B5 variant, 170 x 170 mm, 24 pages) — accessed 2026-10-09 — archived: TODO
 
 goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/59912205-final-fantasy-xiv-picture-book — ratings* (4.64, 72 ratings), languages* (EN), credits, dates (EN August 9, 2022) — accessed 2026-10-09 — archived: TODO

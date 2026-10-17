@@ -9,7 +9,7 @@
 
 ## Editions (ISBN)
 
-ISBN 9784757714243 (ISBN10: 4757714246), Japanese, Enterbrain (ファミ通文庫), 2003.5 (Google Books: April 2003), 287 pages, 15 cm, 640 yen — per google books + NDL — JA language link*, length*, dates*
+ISBN 9784757714243 (ISBN10: 4757714246), Japanese, Enterbrain (ファミ通文庫), 2003.5 (Google Books: April 2003), 287 pages, 15 cm — per google books + NDL — JA language link*, length*, dates*
 - Blurb: volume 2 of the series; Al and companions head for Windurst after the Gelsba orc fortress
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757714243
 - google books: https://www.google.com/books/edition/_/CKwgNwAACAAJ — accessed 2026-10-09
@@ -40,10 +40,9 @@ bg-wiki.com (Information)
 - https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories — title link*, length*, languages (JA)* — shallow: not re-read
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000004107938 — dates*, length, price, ISBN, credits, series, NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000004107938 — dates*, length, ISBN, credits, series, NDC 913.6 — accessed 2026-10-10 — archived: TODO
   - dates: JA 2003.5
   - length: 287 p, 15 cm; fold-in sheet
-  - price: 640 yen
   - ISBN: 4-7577-1424-6 = 9784757714243
   - series: ファミ通文庫
 - http://id.ndl.go.jp/bib/000009326266 — FR edition record — accessed 2026-10-10 — archived: TODO
@@ -74,7 +73,7 @@ plaza.harmonix.ne.jp (Information)
   - Cross-check: Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): Book 2, "Der Sternenschwur, Bd 2"
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/200700003858/ -- profile* -- accessed 2026-10-16: product page for ファイナルファンタジーＸＩ －星の誓い－ (page text pasted by user 2026-10-16): 著者 はせがわみやび, イラスト 金田榮路, 704 yen incl. tax (640 before), 発売日 2003-04-19, ISBN 9784757714243, paper book; the page lists no page count
+- https://www.kadokawa.co.jp/product/200700003858/ -- profile* -- accessed 2026-10-16: product page for ファイナルファンタジーＸＩ －星の誓い－ (page text pasted by user 2026-10-16): 著者 はせがわみやび, イラスト 金田榮路, 発売日 2003-04-19, ISBN 9784757714243, paper book; the page lists no page count
 
 worldcat.org (Information, library catalog)
 - https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- languages* -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 星の誓い (Enterbrain, 2003), the French print Le serment des étoiles (Fleuve noir, impr. 2007; translator Guillaume Didier; also available as an eBook) and the German Der Sternenschwur (Panini, Stuttgart, 2006, 1. Aufl; also available as an eBook) with a second German record (Panini-Verl.-GmbH, Bd 2)
@@ -91,4 +90,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - The book row has no `jpTag` (user, 2026-10-16): official German (Panini, 2006) and French (Fleuve Noir, 2007) editions exist, so the book is not Japan-only (`jpTag` means no official edition outside Japan, a non-English edition counts); part of the `jpTag` audit, see sources/xi-novels-group.md
 - The book row is the Goodreads series page "Final Fantasy XI Online" (user, 2026-10-16; https://www.goodreads.com/series/252821-final-fantasy-xi-online), replacing the DuckDuckGo search: the docs' first choice, it lists every German volume with its French edition merged in; the Japanese edition is reached through the JA language link, and the fan translation through the `fan-translation` row; see sources/xi-novels-group.md
 - `profileUrl` is the KADOKAWA page above (user, 2026-10-16) and `helpWanted` is removed: the publisher link was the missing piece
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates, prices and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～星の誓い～ -- elemen.jp: 2003/04/19, 640円（税込672円）, エンターブレイン, 287p, はせがわみやび, ASIN 4757714246; official page (Wayback 2010, http://www.enterbrain.co.jp/jp/p_catalog/book/2003/4-7577-1424-6.html): 4-7577-1424-6, 2003-04-19, 672円(本体640円＋税)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～星の誓い～ -- elemen.jp: 2003/04/19, エンターブレイン, 287p, はせがわみやび, ASIN 4757714246; official page (Wayback 2010, http://www.enterbrain.co.jp/jp/p_catalog/book/2003/4-7577-1424-6.html): 4-7577-1424-6, 2003-04-19

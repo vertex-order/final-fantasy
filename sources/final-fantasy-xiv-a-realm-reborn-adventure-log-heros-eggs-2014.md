@@ -31,7 +31,7 @@ Kindle, ASIN B00NPOEM2U (no ISBN), Japanese, KADOKAWA Game Linkage, September 19
 ## Sources
 
 kadokawa.co.jp (Information)
-- https://www.kadokawa.co.jp/product/301405000071/ — title link*, profile*, dates* (September 19, 2014, print and e-book; the publisher's page is the date source), length (344 pages, B6), price (1,320 yen incl. tax), credits (はせがわみやび) — accessed 2026-10-10 — archived: TODO
+- https://www.kadokawa.co.jp/product/301405000071/ — title link*, profile*, dates* (September 19, 2014, print and e-book; the publisher's page is the date source), length (344 pages, B6), credits (はせがわみやび) — accessed 2026-10-10 — archived: TODO
   - NDL says 2014.10 and 339 p, Google Books 339 p; the entry's length (339p; P) follows Google Books, not this page
 
 books.google.com (Information)
@@ -40,7 +40,7 @@ books.google.com (Information)
   - Subject: Games & Activities / Video & Mobile
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/025758070 — dates (JA October 2014; the publisher says September 19, so NDL is likely its cataloging month), length (339 p, 19 cm), price (1,200 yen), credits (はせがわみやび 著), series (ファミ通Books) — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/025758070 — dates (JA October 2014; the publisher says September 19, so NDL is likely its cataloging month), length (339 p, 19 cm), credits (はせがわみやび 著), series (ファミ通Books) — accessed 2026-10-10 — archived: TODO
   - NDL's title: ファイナルファンタジー14 : 新生エオルゼア冒険記～英雄の卵たち～ (per the colophon, spine and cover; title page: FINAL FANTASY 14)
 
 goodreads.com (Information)

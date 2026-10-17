@@ -13,9 +13,9 @@
 
 ## Editions (ISBN)
 
-NO.1: ISBN 9784840224697 (ISBN10: 4840224692), Japanese, MediaWorks (sold by Kadokawa Shoten), 2004-02-20, 257 pages, B6, 19 cm, 1,000 yen (1,050 with tax), Comic — per KADOKAWA + NDL + Amazon.co.jp + Goodreads — JA language link*, rating (NYR)*, profileUrl*, dates*
+NO.1: ISBN 9784840224697 (ISBN10: 4840224692), Japanese, MediaWorks (sold by Kadokawa Shoten), 2004-02-20, 257 pages, B6, 19 cm, Comic — per KADOKAWA + NDL + Amazon.co.jp + Goodreads — JA language link*, rating (NYR)*, profileUrl*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784840224697
-- cover scan (bg-wiki, pasted by user 2026-10-14): front 電撃・えふえふいれぶん・4コマ・マンガ No.1 under ファイナルファンタジーXI 電撃の旅団編 with a 4-koma strip "ガンバレ団長" on the back and flap; back: ISBN 4-8402-2469-2 (agrees), C0076, 1,000 yen before tax, published by MediaWorks; the entry's data agrees
+- cover scan (bg-wiki, pasted by user 2026-10-14): front 電撃・えふえふいれぶん・4コマ・マンガ No.1 under ファイナルファンタジーXI 電撃の旅団編 with a 4-koma strip "ガンバレ団長" on the back and flap; back: ISBN 4-8402-2469-2 (agrees), C0076, published by MediaWorks; the entry's data agrees
 - goodreads: https://www.goodreads.com/book/show/77594373 — accessed 2026-10-13
 - google books: https://books.google.ca/books?vid=ISBN9784840224697 — accessed 2026-10-13
 - open library: https://openlibrary.org/search?isbn=9784840224697 — accessed 2026-10-13, no results
@@ -23,7 +23,7 @@ NO.1: ISBN 9784840224697 (ISBN10: 4840224692), Japanese, MediaWorks (sold by Kad
 - amazon.co.jp: https://www.amazon.co.jp/dp/4840224692 — accessed 2026-10-13
 - kadokawa: https://www.kadokawa.co.jp/product/200401000507/ — accessed 2026-10-13
 
-NO.2: ISBN 9784840238199 (ISBN10: 4840238197), Japanese, MediaWorks (sold by Kadokawa Group Publishing), 2007-03-23, 352 pages, B6, 19 cm, 1,300 yen (1,365 with tax), Tankobon softcover — per KADOKAWA + Amazon.co.jp + Google Books + NDL — JA language link, dates*
+NO.2: ISBN 9784840238199 (ISBN10: 4840238197), Japanese, MediaWorks (sold by Kadokawa Group Publishing), 2007-03-23, 352 pages, B6, 19 cm, Tankobon softcover — per KADOKAWA + Amazon.co.jp + Google Books + NDL — JA language link, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784840238199
 - goodreads: https://www.goodreads.com/book/show/77249282 — accessed 2026-10-13
 - google books: https://books.google.ca/books?vid=ISBN9784840238199 — accessed 2026-10-13
@@ -42,21 +42,21 @@ goodreads.com (Ratings)
   - Not used for the entry's rating or language link, which are NO.1's
 
 kadokawa.co.jp (Information)
-- https://www.kadokawa.co.jp/product/200401000507/ — profileUrl*, dates*, credits, length, price — accessed 2026-10-13
+- https://www.kadokawa.co.jp/product/200401000507/ — profileUrl*, dates*, credits, length — accessed 2026-10-13
   - Text pasted by user, not archived
   - Title ファイナルファンタジーＸＩ　電撃の旅団　編 電撃・えふえふいれぶん・４コマ・マンガ　Ｎｏ．１
-  - Authors 江本 聖 and 電撃プレイステーション; release 2004-02-20; B6; 256 pages; 1,050 yen (1,000 + tax)
-- https://www.kadokawa.co.jp/product/200702000479/ — NO.2 dates*, credits, length, price — accessed 2026-10-13
+  - Authors 江本 聖 and 電撃プレイステーション; release 2004-02-20; B6; 256 pages
+- https://www.kadokawa.co.jp/product/200702000479/ — NO.2 dates*, credits, length — accessed 2026-10-13
   - Text pasted by user, not archived
   - Title ファイナルファンタジーＸＩ　電撃の旅団　編 電撃・えふえふいれぶん・４コマ・マンガＮｏ．２; author 江本 聖, editor 電撃プレイステーション
-  - Release 2007-03-23; B6; 352 pages; 1,365 yen (1,300 + tax); ISBN 9784840238199
+  - Release 2007-03-23; B6; 352 pages; ISBN 9784840238199
 
 ndlsearch.ndl.go.jp (Information)
-- https://ndlsearch.ndl.go.jp/books/R100000002-I000004360633 — length*, credits*, dates, publisher, price — accessed 2026-10-13
+- https://ndlsearch.ndl.go.jp/books/R100000002-I000004360633 — length*, credits*, dates, publisher — accessed 2026-10-13
   - Text pasted by user, not archived; NDL bib ID 000004360633; national bibliography no. 20546206; call no. Y84-H7795
-  - NO.2: https://ndlsearch.ndl.go.jp/books/R100000002-I000008490843 — NDL bib ID 000008490843; national bibliography no. 21214739; call no. Y84-H28268; 江本聖 [漫画]; MediaWorks, sold by 角川グループパブリッシング; 2007.4; 353p; 19 cm; NDC 726.1; 1300 yen; ISBN 978-4-8402-3819-9
+  - NO.2: https://ndlsearch.ndl.go.jp/books/R100000002-I000008490843 — NDL bib ID 000008490843; national bibliography no. 21214739; call no. Y84-H28268; 江本聖 [漫画]; MediaWorks, sold by 角川グループパブリッシング; 2007.4; 353p; 19 cm; NDC 726.1; ISBN 978-4-8402-3819-9
   - Title 電撃・えふえふいれぶん・4コマ・マンガ : ファイナルファンタジー11電撃の旅団編, volume no.1
-  - 江本聖 [漫画]; MediaWorks, sold by 角川書店; 2004.3; 257p; 19 cm; NDC 726.1; 1000 yen; ISBN 4-8402-2469-2
+  - 江本聖 [漫画]; MediaWorks, sold by 角川書店; 2004.3; 257p; 19 cm; NDC 726.1; ISBN 4-8402-2469-2
 
 books.google.ca (Information)
 - https://books.google.ca/books?vid=ISBN9784840224697 — credits, length — accessed 2026-10-13
@@ -76,8 +76,8 @@ bg-wiki.com (Information)
 - https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma — titleUrl*, dates, length — shallow: rows noted while researching the Lightning Brigade Encyclopedia (2026-10-13), page not re-read
   - Section "4-Koma": Lightning Brigade four-panel books from MediaWorks
   - Page text pasted by user again on 2026-10-13 (NO.1 and NO.2 rows below; not re-opened)
-  - NO.1 Japanese 電撃の旅団編 : えふえふいれぶん・4コマ・マンガNo.1; English "Lightning Brigade Edition : FFEleven · 4-Panel Manga No.1"; NDL 000004360633; 2004.03; 1000 yen; 257p;B6; notes: 312 four-panel comics, new material added to the Dengeki PlayStation series, from the start of the service to the Brigade's journey, plus feature articles ("Brigade Member Encyclopedia", job macros)
-  - NO.2 Japanese 電撃の旅団編 : えふえふいれぶん・4コマ・マンガ : no.2; English "Lightning Brigade Edition : FFEleven · 4-Panel Manga No.2"; NDL 000008490843; 2007.04; 1300 yen; 353p;B6; notes: "packed with hundreds of more four-panel comics"
+  - NO.1 Japanese 電撃の旅団編 : えふえふいれぶん・4コマ・マンガNo.1; English "Lightning Brigade Edition : FFEleven · 4-Panel Manga No.1"; NDL 000004360633; 2004.03; 257p;B6; notes: 312 four-panel comics, new material added to the Dengeki PlayStation series, from the start of the service to the Brigade's journey, plus feature articles ("Brigade Member Encyclopedia", job macros)
+  - NO.2 Japanese 電撃の旅団編 : えふえふいれぶん・4コマ・マンガ : no.2; English "Lightning Brigade Edition : FFEleven · 4-Panel Manga No.2"; NDL 000008490843; 2007.04; 353p;B6; notes: "packed with hundreds of more four-panel comics"
 
 ja.wikipedia.org (Information)
 - https://ja.wikipedia.org/wiki/電撃の旅団 -- by* -- accessed 2026-10-13 -- section "その他" (Other) lists 電撃・えふえふいれぶん・4コマ・マンガ No.1 and No.2, 電撃4コマ インターナショナル 〜ヴァナ･ディールで使える英単語/英会話〜 and 獣の花道 FFXI・電撃の旅団外伝 Vol.1 and Vol.2, each as 著作: 江本 聖 (Hijiri Emoto per the NDL authority reading); the page carries a no-sources notice, so it only confirms the credit
@@ -97,4 +97,4 @@ ja.wikipedia.org (Information)
 - Description wording from the Amazon.co.jp blurb; no strip count given since it is only NO.1's (312)
 - Added 2026-10-13 as the Dengeki Brigade's gag-comic collections, in place of the Lightning Brigade Encyclopedia (see final-fantasy-xi-lightning-brigade-encyclopedia-2013.md)
 - A `fan-translation` row was added (2026-10-16): a DuckDuckGo search on the series' English title, marked `noResults` (no results yet; not searched by us); it is the series search, not one per part, and the book row stays the official Japanese print
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/comic_mediaworks.html, fetched by me 2026-10-17 at the user's request; dates, prices and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI 電撃の旅団 編 電撃・えふえふいれぶん・4コマ・マンガ No.1 -- elemen.jp: 2004/02/20, 1000円（税込1050円）, メディアワークス, 258p, ASIN 4840224692; ファイナルファンタジーXI 電撃の旅団 編 電撃・えふえふいれぶん・4コマ・マンガ No.2 -- elemen.jp: 2007/03/23, 1300円（税込1365円）, メディアワークス, 352p, ASIN 4840238197
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/comic_mediaworks.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI 電撃の旅団 編 電撃・えふえふいれぶん・4コマ・マンガ No.1 -- elemen.jp: 2004/02/20, メディアワークス, 258p, ASIN 4840224692; ファイナルファンタジーXI 電撃の旅団 編 電撃・えふえふいれぶん・4コマ・マンガ No.2 -- elemen.jp: 2007/03/23, メディアワークス, 352p, ASIN 4840238197
