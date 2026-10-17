@@ -28,6 +28,7 @@ No `by` credit: the mooks are by the Vana'diel Communications editorial team (�
 - Wayback captures of the official Enterbrain catalogue pages (pattern http://www.enterbrain.co.jp/jp/p_catalog/book/<year>/<ISBN with hyphens>.html through https://web.archive.org/web/2012/): found for the first 11 issues, not for vol.7, 8, 9 or the Fact Books
 - Amazon.co.jp pages of the issues (pasted by the user 2026-10-17): see xi-group.md for the page-by-page findings and URLs
 - http://elemen.jp/ff11/contents/goods/guidebook_enterbrain.html -- fan page listing the Enterbrain FFXI guidebooks with comments (pasted by the user 2026-10-17); the entry's titleUrl
+- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Guides -- lists the mook in its Vana'diel Special (prep issue and three Famitsu PS2 extra issues, Summer Carnival 2005, Adoulin guide), Nation (San d'Oria, Bastok, Windurst), News (vol.1 to 9) and Fact Book sections; checked item by item 2026-10-17 (page text pasted by user); the three Famitsu PS2 extra issues of 2004-12, 2005-06 and 2005-09 (36 to 52 pages, strategy text) are not listed, see xi-group.md
 - NDL's list of 19 records of the series (2026-10-14): see final-fantasy-xi-love-in-the-sky-1-2-3-2005.md
 - KADOKAWA product search for ヴァナ・ディール通信 (the entry's profile link; client-rendered, so not verified by me)
 

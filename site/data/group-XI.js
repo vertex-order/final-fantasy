@@ -995,6 +995,32 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     },
   },
   {
+    mediaType: 'Comic', chronoOrder: 5059.7, narrativeOrder: 636.97, narrativeSection: 'Main',
+    title: 'Final Fantasy XI ~Vana Panel~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Guides#Famitsu', titleDate: { start: '2008-10-27', end: '2008-12-27' },
+    mediaDesc: [
+      [{ text: 'Four-panel comics about life in ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ' by the serial artists of the online-game magazine Famitsu Connect!On, among them Haruu, Ponkichi and Suzume, whose books are in ' }, { emLinkText: 'Artist Collections', emLinkUrl: '#entry-XI-final-fantasy-xi-artist-collections-2005' }, { text: '.' }],
+      [{ text: 'Bundled with two issues of the magazine, read from the back cover of the screenshot booklet ' }, { emText: 'Fun Book' }, { text: '. Released as ヴァナ・コマ (Vana Panel).' }],
+    ],
+    primary: {
+      tags: ['Tie-in', 'Manga'],
+      subtitle: 'Comic',
+      length: '2 booklets',
+      contentsLabel: 'booklets',
+      searchTitle: 'ヴァナ・コマ ファミ通Connect!On',
+      languages: [
+        { value: 'JA', native: true },
+      ],
+      contents: [
+        { title: 'Fun Book', titleDate: '2008-10-27', titleUrl: 'https://www.google.com/books/edition/_/FttnPgAACAAJ?hl=en&kptab=getbook', searchTitle: '9784757745155' },
+        { title: 'Fun Book Vol.2', titleDate: '2008-12-27', titleUrl: 'https://www.google.com/books/edition/_/WsUJYAAACAAJ?hl=en&kptab=getbook', searchTitle: '9784757746855' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Booklets', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo' },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy XI Vana Panel', noResults: true },
+      ],
+    },
+  },
+  {
     mediaType: 'Comic', chronoOrder: 5060, narrativeOrder: 636, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Lightning Brigade 4-Koma Manga~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: { start: '2004-02-20', end: '2007-03-23' },
     by: 'Hijiri Emoto',
