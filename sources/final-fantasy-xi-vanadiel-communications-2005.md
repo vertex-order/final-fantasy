@@ -1,0 +1,41 @@
+<!-- sources/final-fantasy-xi-vanadiel-communications-2005.md (markdown) -->
+
+# Final Fantasy XI ~Vana'diel Communications~
+<!-- site/data/group-XI.js, #entry-XI-final-fantasy-xi-vanadiel-communications-2005 -->
+
+## Author
+
+No `by` credit: the mooks are by the Vana'diel Communications editorial team (ヴァナ通 / ファミ通Wave編集部, "FFXI CPチーム" on the Enterbrain catalogue) with many contributing artists; the artists named in the evidence are Minagawa (恋の空蝉), Haru (ミスラのしっぽ), Cocoan (ここあんカフェ), Ikeda Tapuo (a Shiva story) and Ponkichi.
+
+## Editions (ISBN)
+
+ヴァナ・ディール通信 (Vana'diel Communications), Enterbrain mooks (エンターブレインムック, mostly DVD mooks), AB size, 2005-08 to 2010-04; **12 issues listed, the ones that carry manga**; part dates are the on-sale dates, from the Enterbrain catalogue pages (Wayback) and Amazon.co.jp; part searches are the ISBN-13 (no Goodreads pages looked up):
+- Bastok Edition (ヴァナ・ディール通信 バストゥーク共和国特集号) -- 2005-08-05, ISBN 4-7577-2370-9 / 978-4-7577-2370-2, 175p, 1,890円 -- the fan page says the manga begins with this issue (not official); official contents list names no manga; booklet and DVD
+- Summer Carnival 2005 Edition (ヴァナ・ディール通信 サマーカーニバル2005特集号) -- 2005-11-11, ISBN 4-7577-2532-9, 63p (Amazon), 64p (fan page), 1,890円 -- official text: 人気急上昇中！！ マンガ「恋の空蝉１・２・３」; 2 DVDs
+- Windurst Edition (ヴァナ・ディール通信 ウィンダス連邦特集号) -- 2006-02-24, ISBN 4-7577-2710-0, 175p (Amazon), 176p (fan page), 1,344円 -- official text: マンガ・恋の空蝉１・２・３; no DVD; last of the three nation specials
+- Vol.1: Treasures of Aht Urhgan Edition (ヴァナ・ディール通信 Vol.1 アトルガンの秘宝特集号) -- 2006-04-20, ISBN 4-7577-2810-7, 95p, 1,575円 -- official text: マンガ 恋の空蝉1・2・3！ (school-romance slapstick comedy), パパは戦士75 and ママはエルメス reprinted; DVD
+- Vol.2: Assault Edition (ヴァナ・ディール通信 Vol.2 アサルトだよ!全員集号!) -- 2006-07-20, ISBN 4-7577-2893-X, 111-112p, 1,890円 -- official text: 【マンガ】恋の空蝉1・2・3！, final chapter of パパは戦士75; DVD
+- Vol.3: My Chocobo Edition (ヴァナ・ディール通信 vol.3 マイチョコボ特集GO!) -- 2006-11-24, ISBN 4-7577-3108-6, 143p, 1,890円 -- official page (Wayback): accessories コミック、DVD; a Ponkichi blog-manga booklet and 【マンガ】恋の空蝉1・2・3！
+- Vol.4: Salvage Festival Edition (ヴァナ・ディール通信 vol.4 春のサルベージ祭り号) -- 2007-03-16, ISBN 978-4-7577-3475-3, 159p, 1,580円 -- official text: manga by Minagawa (恋蝉), Haru (みすらのしっぽ), Cocoan (ここあんカフェ), Ikeda Tapuo (a Shiva story), and a ぽん吉 manga-and-strategy article
+- 5th Anniversary Vana'diel Memoirs (appendix) (5th Anniversary Vana'diel Memoirs) -- 2007-05-31, ISBN 978-4-7577-3570-5, 176p (fan page); the appendix booklet 48p, 1,950円 -- official page: the appendix booklet compiles 恋の空蝉１・２・３, manga from the blog not in the magazine, and パパは戦士７５; the main book is a chronicle, interviews and an illustration collection, so only the appendix is the comics (user, 2026-10-17)
+- Vol.5: Wings of the Goddess Edition (ヴァナ・ディール通信 vol.5 アルタナの神兵攻略特集号) -- 2008-02-08, ISBN 978-4-7577-4062-4, 192p, 1,890円 -- Amazon: 「お馴染みの作家陣によるマンガ」; a reviewer says the authors' works carry it; DVD
+- Vol.6: Autumn Version Update Edition (ヴァナ・ディール通信 vol.6 秋のバージョンアップ特集号) -- 2008-11-21, ISBN 978-4-7577-4629-9, 159p, 1,500円 -- Amazon: 「お馴染みの連載マンガ」; the account-security manga is a public-service comic and does not count, the serials do; no DVD
+- Vol.7: Salvage Video Edition (ヴァナ・ディール通信 Vol.7 -サルベージ攻略映像特集号-) -- 2009-04-02, ISBN 978-4-7577-4873-6, 111p, 2,000円 -- cover box: フルカラーマンガ連載 (the blurb names no manga); DVD
+- Vol.9: Under the Sky of Vana'diel (ヴァナ・ディール通信 vol.9 ～ヴァナ・ディールの空の下で～) -- 2010-04-02, ISBN 978-4-04-726509-7, 144p, 1,680円 -- Amazon: the serialized manga including 恋の空蝉1・2・3 reach their final chapter; the fan page: 恋の空蝉1.2.3, パパ戦75 and ギャル侍 all end here
+
+## Sources
+
+- Wayback captures of the official Enterbrain catalogue pages (pattern http://www.enterbrain.co.jp/jp/p_catalog/book/<year>/<ISBN with hyphens>.html through https://web.archive.org/web/2012/): found for the first 11 issues, not for vol.7, 8, 9 or the Fact Books
+- Amazon.co.jp pages of the issues (pasted by the user 2026-10-17): see xi-group.md for the page-by-page findings and URLs
+- http://elemen.jp/ff11/contents/goods/guidebook_enterbrain.html -- fan page listing the Enterbrain FFXI guidebooks with comments (pasted by the user 2026-10-17); the entry's titleUrl
+- NDL's list of 19 records of the series (2026-10-14): see final-fantasy-xi-love-in-the-sky-1-2-3-2005.md
+- KADOKAWA product search for ヴァナ・ディール通信 (the entry's profile link; client-rendered, so not verified by me)
+
+## Decisions
+
+- Added 2026-10-17 (user): one entry for the mook issues that carry manga, parts only for those issues; the Comic type, the order values (5056.5 and 636.65, next to the Petit entry) and the part titles are ours; the earlier "outside the scope as a game-guide series" note was dropped because the same test as the Brigade Guides and Vana Digest applies (listed for the comics, which are what we sell), see xi-group.md
+- In: Bastok (user: yes, on the fan note), Summer Carnival 2005, Windurst, vol.1 to 7, the 5th Anniversary Memoirs (user: yes, with only its appendix counting) and vol.9
+- Out (named exclusions in xi-group.md): the Chains of Promathia prep issue (2004-09, strategy and data), the San d'Oria special (2005-04-28, official contents list has no manga and the serial began with the next issue), vol.8 (cover and blurb show no manga), Fact Books 1 to 3 (2010-09 to 2011-11, covers show no manga) and the Adoulin area guide (2013-07, a guide, not checked)
+- The sibling guidance was a guess and concrete text overrode it throughout (vol.7 is in on its cover box although its blurb names no manga; the Windurst special is in on its contents although its small cover showed none); a public-service comic (vol.6's account-security manga) does not count
+- The description names no popularity (user, 2026-10-17: no comment on fans or popularity); the 12 issues are not a strip count, and some issues repeat Love in the Sky and the Petit series' corners
+- Part links: no Goodreads or Google Books pages looked up; parts use the ISBN-13 search
