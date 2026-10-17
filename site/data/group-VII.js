@@ -570,8 +570,8 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
     title: 'Final Fantasy VII Remake: Picturing the Past', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake:_Picturing_the_Past', titleDate: '2020-03-19',
     by: 'Kazushige Nojima',
     mediaDesc: [
-      ['A short story about a Shinra trooper who knew Aerith as a child and looks into the events surrounding her capture in the Shinra Building fifteen years earlier. First printed in the Final Fantasy VII Remake World Preview.'],
-      ['Also included in some editions of ', { emLinkText: 'Traces of Two Pasts', emLinkUrl: '#entry-VII-final-fantasy-vii-remake-traces-of-two-pasts-2021' }, '.'],
+      ['A short story about a Shinra trooper who knew Aerith as a child and looks into the events surrounding her capture in the Shinra Building fifteen years earlier.'],
+      ['First printed in ', { emText: 'Final Fantasy VII Remake World Preview' }, '. Also included in some editions of ', { emLinkText: 'Traces of Two Pasts', emLinkUrl: '#entry-VII-final-fantasy-vii-remake-traces-of-two-pasts-2021' }, '.'],
     ],
     primary: {
       tags: ['Short Stories'],
