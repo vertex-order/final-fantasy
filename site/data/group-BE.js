@@ -67,9 +67,10 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
   },
   {
     mediaType: 'Comic', chronoOrder: 45, narrativeOrder: 145,
-    title: 'Final Fantasy Brave Exvius Rico no Doki x2 DAYS', titleUrl: 'https://x.com/FFRS_JP/status/902367909707530240', titleDate: { start: '2017-08-29', end: '2017-09-13', approx: true },
+    title: 'Final Fantasy Brave Exvius Rico no Doki x2 DAYS', titleUrl: 'https://game.watch.impress.co.jp/docs/news/1044074.html', titleDate: { start: '2017-02-07', end: '2017-09-13', approx: true },
+    by: 'Takeshi Matsumoto',
     mediaDesc: [
-      [{ text: 'A 4-panel manga set in the world of ' }, { emLinkText: 'Brave Exvius (2015)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-2015' }, { text: ", about Rico, a Moogle child who dreams of becoming human and has a crush on the knight Rain. The predecessor of " }, { emLinkText: 'Rikodoki! (2017)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-rikodoki-2017' }, { text: '.' }],
+      [{ text: 'The first manga of ' }, { emLinkText: 'Brave Exvius (2015)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-2015' }, { text: ": a 4-panel comedy about Rico, a Moogle child who dreams of becoming human, and her romance and friendships, with the knight Rain and other characters from the game. The predecessor of " }, { emLinkText: 'Rikodoki! (2017)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-rikodoki-2017' }, { text: '.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga', 'Free'],
@@ -78,6 +79,8 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
         { value: 'JA', native: true },
       ],
       platforms: [
+        { key: 'apple', name: 'comico PLUS', jpTag: true, terminated: true, url: 'https://apps.apple.com/jp/app/id1019143399' },
+        { key: 'android2', name: 'comico PLUS', jpTag: true, terminated: true, url: 'https://play.google.com/store/apps/details?id=jp.comico.plus' },
         { key: 'globe', name: 'Twitter', url: 'https://x.com/FFRS_JP/status/902367909707530240' },
         { key: 'apple', name: 'Manga UP!', jpTag: true, terminated: true, url: 'https://apps.apple.com/jp/app/id1178874028' },
         { key: 'android2', name: 'Manga UP!', jpTag: true, terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_jp' },
