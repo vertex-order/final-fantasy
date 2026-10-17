@@ -90,6 +90,8 @@ ja.wikipedia.org (Information)
 - https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%91%E3%83%AF%E3%83%BC%E3%83%89 — lists 『ファイナルファンタジーXII』(天羽銀) as transferred to Gangan Online — accessed 2026-10-11 (Firefox machine translation pasted by user)
 - https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3ONLINE — the Gangan Online works list: Final Fantasy XII (天羽銀), start April 23, 2009, end June 25, 2009, "transfer from Gangan Powered" — accessed 2026-10-11 (Firefox machine translation pasted by user)
 
+tokyo otaku mode (Information; Otapedia, English)
+- https://otakumode.com/otapedia/games/final_fantasy/manga -- credits, dates, description -- accessed 2026-10-17 (fetched by me; the page lists 8 manga, this entry's section is "Final Fantasy XII (Manga)"): only "a number of manga pieces" based on XII with the same plot and some extra minor details; no credits, dates or counts; no new fact
 
 ## Surveyed
 

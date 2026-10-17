@@ -74,6 +74,14 @@ value, ours, and why, so the corrections can be reported upstream.
   2004-12-03; the Star Oath is dated 2003-04-19 in
   [final-fantasy-xi-the-star-oath-2003.md](../sources/final-fantasy-xi-the-star-oath-2003.md).
 
+### Tokyo Otaku Mode Otapedia: Derivative Manga (Figaro no Kekkon game)
+
+- Page: https://otakumode.com/otapedia/games/final_fantasy/manga
+- Says: Figaro no Kekkon: Tales from Desert is a doujinshi "based on Final Fantasy VII".
+- Should be: Final Fantasy VI (it is about Sabin, Edgar and Figaro Castle).
+- Our source: [figaros-wedding-tales-from-desert-1994.md](../sources/figaros-wedding-tales-from-desert-1994.md)
+- Backed by: the characters and castle are from Final Fantasy VI; the entry sits in the VI group.
+
 ## Candidates
 
 ### Square Enix Magazine & Book (Final Fantasy XII manga volume dates)

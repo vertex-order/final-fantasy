@@ -119,6 +119,9 @@ duckduckgo.com (Information)
 breezewiki.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — credits (Takeshi Matsumoto, author and artist), dates (July 25, 2018), ISBN 978-4-7575-5799-4; the table row, and the manga has a dedicated page (already cited above) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
 
+tokyo otaku mode (Information; Otapedia, English)
+- https://otakumode.com/otapedia/games/final_fantasy/manga -- credits, dates, description -- accessed 2026-10-17 (fetched by me; the page lists 8 manga, this entry's section is "Final Fantasy Brave Exvius Rikodoki!"): a yonkoma by Takeshi Matsumoto published by Square Enix's Gangan Comics UP!, introducing the new character Rico (from Rico's Heart Throbbing Days) with Rain, Lasswell, Fina, Lid and Sakura; agrees with the entry; no new fact
+
 ## Surveyed
 
 - Final Fantasy Wiki (ffwiki) equivalent of the breezewiki article — none exists, so no mirror or duplicate to nest

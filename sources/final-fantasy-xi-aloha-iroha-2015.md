@@ -20,6 +20,9 @@ breezewiki.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha — titleUrl — shallow: URL from the entry data, not read
 - https://breezewiki.com/finalfantasy/wiki/Aloha_Iroha#External_links — manga platform link — shallow: URL from the entry data, not read
 
+tokyo otaku mode (Information; Otapedia, English)
+- https://otakumode.com/otapedia/games/final_fantasy/manga -- credits, dates, description -- accessed 2026-10-17 (fetched by me; the page lists 8 manga, this entry's section is "Aloha Iroha"): a 20-chapter adventure manga about Iroha, the heroine of Rhapsodies of Vana'diel, by Tomokichi, released on PlayOnline's FFXI site from 2015-08-11 to 2015-12-25; agrees with the entry (length, credit and dates); also notes the heroine speaks an archaic honorific Japanese; no new fact
+
 ## Decisions
 - The platform is the browser icon (`globe`, named Webcomic), not `book` (user, 2026-10-16): it is a free web comic, not a physical book; the link stays the Fandom page that lists the official PlayOnline pages (user, 2026-10-16): two web rows with a language suffix would only repeat what the language links do, and a wiki page can come to list translations or other official languages later; the wiki page also lists both the EN and JA links, so if Square moves the PlayOnline pages (as it has when redoing its sites) the wiki can be updated and still work while our direct language links break
 - `Free` tag and the JA and EN language links to the official PlayOnline pages added (user, 2026-10-16)

@@ -87,6 +87,9 @@ trafalgarlog.wordpress.com (Information)
 finalfancast.com (Information, secondary: a podcast's book list, not a primary source)
 - https://finalfancast.com/category/games/final-fantasy-ii/ -- accessed 2026-10-14 -- lists "Yūkyū no Kaze Densetsu Final Fantasy III Yori (Legend of the Eternal Wind: from Final Fantasy III), by Kenji Terada and Yuu Kunitani; manga, pub.: 1991-1993, Kadokawa Shoten" -- corroborates the writer and the 1991 start; spells the artist "Kunitani" where the entry has "Kinutani" (NDL and KADOKAWA give 衣谷遊, Kinutani Yū, so "Kunitani" is a misspelling); adds an end of 1993
 
+tokyo otaku mode (Information; Otapedia, English)
+- https://otakumode.com/otapedia/games/final_fantasy/manga -- credits, dates, description -- accessed 2026-10-17 (fetched by me; the page lists 8 manga, this entry's section is "Yukyu no Kaze Densetsu: Final Fantasy III Yori"): published in 1991 by Kadokawa Shoten, written by Kenji Terada with Yuu Kinutani; the year agrees with NDL's vol.1 date (1991-10-07); no new fact
+
 ## Surveyed
 
 - [Fandom – Legend of the Eternal Wind](https://finalfantasy.fandom.com/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori) — see above — used

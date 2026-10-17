@@ -145,6 +145,9 @@ breezewiki.com (Information)
   - Serialization tier for `titleDate`: start July 12, 2017 (the August 2017 issue's on-sale date, confirmed by ja.wikipedia), end the latest chapter's date, chapter 80 on September 11, 2026 (the Fandom chapter table), with `ongoing`; this replaced NDL's volume 13 (2025-08), the volume tier, 2026-10-11. September 11, 2026 is a Friday, the day before the magazine's usual 12th, so it fits an on-sale date; the end moves with each new chapter
 - https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — credits (author Hazuki Minase, art Itsuki Kameya), dates (1 November 22, 2017; 2 May 22, 2018; 3 January 22, 2019; 4 June 12, 2019; 5 January 11, 2020), ISBNs (978-4-7575-5520-4, -5719-2, -5975-2, -6155-7, -6463-3); the table rows; the manga has a dedicated page (cited below) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
 
+tokyo otaku mode (Information; Otapedia, English)
+- https://otakumode.com/otapedia/games/final_fantasy/manga -- credits, dates, description -- accessed 2026-10-17 (fetched by me; the page lists 8 manga, this entry's section is "Final Fantasy Lost Stranger"): announced 2017-01-31 during Square Enix's Final Fantasy 30th Anniversary event, published in Japanese in 2017 by Gangan Comics; a former Square employee dies and is reborn in the Final Fantasy world; lists Shogo Sasaki, Yuko Sasaki, Sharuru Rinkinfeza, Rei Hagakure and Duston Voruta; the announcement date is not recorded elsewhere in this file, nothing else is new
+
 ## Surveyed
 
 Tags: `used` · `dup` · `mine` · `empty` · `shallow`

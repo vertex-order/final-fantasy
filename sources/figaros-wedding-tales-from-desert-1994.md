@@ -66,6 +66,9 @@ duckduckgo.com (Information)
 - book search: `フィガロの結婚 tales from desert 田中香` -- the NDL catalog's own title spelling plus the author as printed there; the English title only returns Final Fantasy IV and VI results, never this book -- accessed 2026-10-14
 - fan-translation search -- no results (the MangaDex title above has no chapters)
 
+tokyo otaku mode (Information; Otapedia, English)
+- https://otakumode.com/otapedia/games/final_fantasy/manga -- credits, dates, description -- accessed 2026-10-17 (fetched by me; the page lists 8 manga, this entry's section is "Figaro no Kekkon: Tales from Desert"): a doujinshi by Kaori Tanaka on the backstory of Sabin and Edgar and life at Figaro Castle, she says it is not official, and it is hard to come by; **it says the work is based on Final Fantasy VII, which is wrong: Sabin, Edgar and Figaro Castle are Final Fantasy VI** (see docs/wiki-corrections.md)
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

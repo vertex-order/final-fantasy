@@ -120,6 +120,9 @@ duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20XIV%3A%20I%20Will%20Teach%20You%20Professor%20Lalafell%20translation — platforms* (fan translation), languages* (EN, fan translation) — accessed 2026-10-10
   - Results confirmed to include an English fan translation (the MangaDex page above)
 
+tokyo otaku mode (Information; Otapedia, English)
+- https://otakumode.com/otapedia/games/final_fantasy/manga -- credits, dates, description -- accessed 2026-10-17 (fetched by me; the page lists 8 manga, this entry's section is "Final Fantasy XIV: I Will Teach You Professor Lalafell"): written by Fakkuma, with a new Hyur player, a Lalafell mentor and an Au Ra companion; agrees with the entry; no new fact
+
 ## Surveyed
 
 - Fandom wiki XIV navigation box (navbox), "Manga and illustrated books" — lists this book as "Final Fantasy XIV: I Will Teach You Professor Lalafell" — used: corroborates the title (seen 2026-10-10)
