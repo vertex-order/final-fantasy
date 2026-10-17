@@ -66,6 +66,28 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
     },
   },
   {
+    mediaType: 'Comic', chronoOrder: 45, narrativeOrder: 145,
+    title: 'Final Fantasy Brave Exvius Rico no Doki x2 DAYS', titleUrl: 'https://x.com/FFRS_JP/status/902367909707530240', titleDate: { start: '2017-08-29', end: '2017-09-13', approx: true },
+    mediaDesc: [
+      [{ text: 'A 4-panel manga set in the world of ' }, { emLinkText: 'Brave Exvius (2015)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-2015' }, { text: ", about Rico, a Moogle child who dreams of becoming human and has a crush on the knight Rain. The predecessor of " }, { emLinkText: 'Rikodoki! (2017)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-rikodoki-2017' }, { text: '.' }],
+    ],
+    primary: {
+      tags: ['Tie-in', 'Manga', 'Free'],
+      subtitle: 'Comic',
+      languages: [
+        { value: 'JA', native: true },
+      ],
+      platforms: [
+        { key: 'globe', name: 'Twitter', url: 'https://x.com/FFRS_JP/status/902367909707530240' },
+        { key: 'apple', name: 'Manga UP!', jpTag: true, terminated: true, url: 'https://apps.apple.com/jp/app/id1178874028' },
+        { key: 'android2', name: 'Manga UP!', jpTag: true, terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_jp' },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Brave Exvius Rico no Doki x2 DAYS', noResults: true },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Brave Exvius Rico no Doki x2 DAYS', searchSuffix: 'manga dub', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Brave Exvius Rico no Doki x2 DAYS', noResults: true },
+      ],
+    },
+  },
+  {
     mediaType: 'Comic', chronoOrder: 50, narrativeOrder: 150,
     title: 'Final Fantasy Brave Exvius Rikodoki!', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_Rikodoki!', titleDate: { start: '2017-09-20', end: '2019-02-27', approx: true },
     by: 'Takeshi Matsumoto',
