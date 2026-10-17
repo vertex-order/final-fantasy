@@ -33,13 +33,13 @@ dengekionline.com (Publisher, Japanese: the performance's official site, Kadokaw
   - News items (2025-03-11): performance reports on Dengeki Online and on Famitsu.com (links not pasted)
 
 store.kadokawa.co.jp (Publisher, Japanese: Kadokawa's own store)
-- https://store.kadokawa.co.jp/shop/g/g4942330370001/ -- profile*, size*, date -- accessed 2026-10-14 (page text pasted by user): 朗読劇 ファイナルファンタジーXI 夢幻のウタイビト リーフレット・複製台本セット, release mid-March 2025 (planned), out of stock (在庫なし), paper, W182 x H257 x D5 mm (B5), advance-sold at the 2025-03-01 event venue; the same listing sits in the Famitsu store's International Shipping category; the page still loads, so it is the entry's profile link, not a place to buy
+- https://store.kadokawa.co.jp/shop/g/g4942330370001/ -- profile*, size*, date -- accessed 2026-10-14 (page text pasted by user): 朗読劇 ファイナルファンタジーXI 夢幻のウタイビト リーフレット・複製台本セット, release mid-March 2025 (planned), paper, W182 x H257 x D5 mm (B5), advance-sold at the 2025-03-01 event venue; the same listing sits in the Famitsu store's International Shipping category; the page still loads, so it is the entry's profile link, not a place to buy
 - The 2024 set's page (https://store.kadokawa.co.jp/shop/g/g4942330227312/, see sources/final-fantasy-xi-minstrel-of-strange-tales-replica-script-2024.md) adds the pattern: the 2024 set took pre-orders 2023-12-04 to 2023-12-20, shipped from the end of February 2024, and held a four-page leaflet plus the replica script, size B5; the 2025 page does not repeat that
 
 web.archive.org (Information, archived ebten product pages)
 - https://web.archive.org/web/20250622121251/https://ebten.jp/p/4942330370001 -- length*, format*, description -- accessed 2026-10-14 (page text pasted by user): product code 4942330370001, 朗読劇 ファイナルファンタジーXI 夢幻のウタイビト リーフレット・複製台本セット, "a set of the leaflet and the replica script", paper, W182 x H257 x D5 mm (B5, which agrees with bg-wiki's B5); "sold in advance at the 2025-03-01 event venue", release mid-March 2025 (planned)
-- https://web.archive.org/web/20250712125310/https://ebten.jp/p/4942330369999 -- version* (digital) -- accessed 2026-10-14 (page text pasted by user): product code 4942330369999, Mカード デジタル複製台本, "the digital edition of the replica script"; the card's QR code downloads the digital data; a PET card, W85.6 x H54 x D0.25 mm; same event pre-sale, mid-March 2025 release (planned); out of stock when archived (2025-07-12)
-  - So the first purchase code is the digital M-card and the second the paper set, as inferred earlier; both are Kadokawa's ebten shop (stock sold out), not a place to buy now
+- https://web.archive.org/web/20250712125310/https://ebten.jp/p/4942330369999 -- version* (digital) -- accessed 2026-10-14 (page text pasted by user): product code 4942330369999, Mカード デジタル複製台本, "the digital edition of the replica script"; the card's QR code downloads the digital data; a PET card, W85.6 x H54 x D0.25 mm; same event pre-sale, mid-March 2025 release (planned)
+  - So the first purchase code is the digital M-card and the second the paper set, as inferred earlier; both are Kadokawa's ebten shop
 
 duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Minstrel%20of%20Fantasies%3A%20Replica%20Script~%20translation — fan-translation search

@@ -121,7 +121,7 @@ bdnet.com (Information)
 - https://www.bdnet.com/articles/final-fantasy-type-0-the-last-truth-final-fantasy-type-0-the-last-truth-roman-35148/ — format* (couverture souple = soft cover), length (572 pages), dates (4 juin 2015), EAN, 211 x 136 x 38 mm, 542 g, credits (scénario and "dessin" both Sôki Tsukishima; database field, not read as illustrator), public ados-adultes — accessed 2026-10-10 — archived: TODO
 
 bookvillage.app (Information)
-- https://bookvillage.app/produit-final-fantasy-type-0-:-the-last-truth-9782371020382-87451 — format (Broché = paperback), length (568 pages), dates (03/06/2015, a day off the 04/06 elsewhere; noise), 21 x 14 x 3 cm, 542 g, credits, EAN; used-book marketplace, out of stock, not used — accessed 2026-10-10 — archived: TODO
+- https://bookvillage.app/produit-final-fantasy-type-0-:-the-last-truth-9782371020382-87451 — format (Broché = paperback), length (568 pages), dates (03/06/2015, a day off the 04/06 elsewhere; noise), 21 x 14 x 3 cm, 542 g, credits, EAN; used-book marketplace, not used — accessed 2026-10-10 — archived: TODO
 
 nautiljon.com (Information)
 - https://www.nautiljon.com/litterature_asiatique/final+fantasy+type-0+-+the+last+truth.html — original (titre original Final Fantasy Type-0 Change the World -The Answer- / ファイナルファンタジー零式 Change the World -The Answer-, Japan, 21/04/2012, Square Enix), dates (VF 04/06/2015), length (570 pages), credits (Tsukishima Souki; translator Hana Kanehisa only), publisher (Lumen Gaming), group (Fabula Nova Crystallis - Final Fantasy) — accessed 2026-10-10 — archived: TODO

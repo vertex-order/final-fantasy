@@ -28,7 +28,7 @@ duckduckgo.com (Information)
 - fan-translation and fan-recap searches -- no results yet
 
 yahoo shopping (Information, a used-book vendor listing)
-- https://store.shopping.yahoo.co.jp/funfunhomes/boko0096gb23182x28165.html -- title*, credits*, publisher* -- accessed 2026-10-14 (page text pasted by user): a used-book listing from FUNFUNほうむず, ファイナルファンタジー2 将軍ボーゲンとの死闘, 香坂隆二（著）、福田博行（構成）, 大陸書房 (Tairiku Shobō), category 大陸書房ゲームブック (Tairiku Shobō gamebooks), a "gamebook of the second game in the popular RPG series" used, out of stock, six photos, no date, no ISBN, no page count; the title is printed with the numeral 2 and no closing "!" (which may be dropped by the vendor)
+- https://store.shopping.yahoo.co.jp/funfunhomes/boko0096gb23182x28165.html -- title*, credits*, publisher* -- accessed 2026-10-14 (page text pasted by user): a used-book listing from FUNFUNほうむず, ファイナルファンタジー2 将軍ボーゲンとの死闘, 香坂隆二（著）、福田博行（構成）, 大陸書房 (Tairiku Shobō), category 大陸書房ゲームブック (Tairiku Shobō gamebooks), a "gamebook of the second game in the popular RPG series", six photos, no date, no ISBN, no page count; the title is printed with the numeral 2 and no closing "!" (which may be dropped by the vendor)
 
 ## Surveyed
 

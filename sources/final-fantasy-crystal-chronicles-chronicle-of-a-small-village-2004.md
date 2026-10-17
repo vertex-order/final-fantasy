@@ -37,7 +37,7 @@ amazon.co.jp (Retailer, Japanese)
   - Also the likely source of Goodreads' title "小説 ファイナルファンタジー・クリスタルクロニクル"
 
 suruga-ya.jp (Retailer, Japanese)
-- https://www.suruga-ya.jp/product/detail/2L1306 — dates (2004/02/06, agrees with Google Books), publisher スクウェア・エニックス, label GAME NOVELS, title FINAL FANTASY CRYSTAL CHRONICLES 小さな村の年代記 — accessed 2026-10-11 (page text pasted by user); out of stock, a retailer, not linked
+- https://www.suruga-ya.jp/product/detail/2L1306 — dates (2004/02/06, agrees with Google Books), publisher スクウェア・エニックス, label GAME NOVELS, title FINAL FANTASY CRYSTAL CHRONICLES 小さな村の年代記 — accessed 2026-10-11 (page text pasted by user); a retailer, not linked
 
 wikiwiki.jp (Information, Japanese fan wiki)
 - https://wikiwiki.jp/ffdic/書籍/【ファイナルファンタジークリスタルクロニクル　小さな村の年代記】 — dates (2004年1月発行: January 2004), credits (梅村崇), **story** (a novel about the time shortly before the game begins; the protagonist is Clim, a young man in Tipa's current caravan who is senior to the player's; Hardy and the Black Knight appear; episodes not told in the game, such as Ivan, an acquaintance of Chad's (Lilty's) father) — accessed 2026-10-11 (page text pasted by user; last modified 2016-06-24); suggests a side story set before the game, not a retelling of its plot

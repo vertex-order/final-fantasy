@@ -35,7 +35,7 @@ kadokawa.co.jp (Information)
   - Release 2013-03-12; AB size; 216 pages; ISBN 9784048867573 (agrees)
   - Blurb: the 10-year history from the Dengeki Brigade; jobs, NPCs, monsters and story; "the first and strongest encyclopedia in the Brigade's history"
 - https://store.kadokawa.co.jp/shop/g/g201204000046/ — store listing — accessed 2026-10-13
-  - Same title, editor and date; out of stock
+  - Same title, editor and date
   - Text pasted by user, not archived
 
 dengekionline.com (Information)

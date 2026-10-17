@@ -20,7 +20,7 @@ ISBN 9784757583801 (ISBN10: 475758380X), Japanese, Square Enix, February 7, 2023
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757583801
 - open library: https://openlibrary.org/search?isbn=9784757583801
 - NDL: http://id.ndl.go.jp/bib/032628335 — accessed 2026-10-09
-- store: https://store.jp.square-enix.com/estore/g/g9784757583801/ — accessed 2026-10-09 (out of stock)
+- store: https://store.jp.square-enix.com/estore/g/g9784757583801/ — accessed 2026-10-09
 
 ISBN 9781646092352 (ISBN10: 164609235X), English, Square Enix Manga, September 19, 2023, 192 pages, Paperback — per goodreads — EN language link*, ratings*, length* (192p; P)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9781646092352
@@ -52,7 +52,7 @@ squareenixmangaandbooks.square-enix-games.com (Information)
 - https://squareenixmangaandbooks.square-enix-games.com/product/9781646092352 — title link*, profile*, credits*, dates (EN September 19, 2023), length (192 pages), format (trade paperback, 5-3/4 x 8-1/4), category (Manga), age rating (Teen), genres — accessed 2026-10-09 — archived: TODO
 
 store.jp.square-enix.com (Information)
-- https://store.jp.square-enix.com/estore/g/g9784757583801/ — dates* (JA February 7, 2023; Japanese Square Enix page is the date source), series (ファイナルファンタジーXIV), genre (コミック), size (B6), stock (品切れ中, out of stock) — accessed 2026-10-09 — archived: TODO
+- https://store.jp.square-enix.com/estore/g/g9784757583801/ — dates* (JA February 7, 2023; Japanese Square Enix page is the date source), series (ファイナルファンタジーXIV), genre (コミック), size (B6) — accessed 2026-10-09 — archived: TODO
 
 ndlsearch.ndl.go.jp (Information)
 - http://id.ndl.go.jp/bib/032628335 — dates* (JA February 2023; confirms the store page), credits, size (193 p, 19 cm), series (ガンガンコミックスup!) — accessed 2026-10-09 — archived: TODO

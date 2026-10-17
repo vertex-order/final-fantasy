@@ -17,7 +17,7 @@ ISBN 9784047334434 (ISBN 978-4-04-733443-4), Japanese, KADOKAWA Game Linkage (pu
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784047334434
 - open library: https://openlibrary.org/search?isbn=9784047334434
 - NDL: http://id.ndl.go.jp/bib/030122855 — accessed 2026-10-09
-- publisher store: https://store.kadokawa.co.jp/shop/g/g321910001212/ — accessed 2026-10-09 (out of stock; links the e-book)
+- publisher store: https://store.kadokawa.co.jp/shop/g/g321910001212/ — accessed 2026-10-09 (links the e-book)
 
 Digital edition (e-book, Kindle ASIN B082DVC9LS), KADOKAWA Game Linkage, December 20, 2019, 137 pages — per NDL (製作年 2019-12-20, JP-eコード 04000000A09217900000) + goodreads
 - goodreads: https://www.goodreads.com/book/show/52081857 — accessed 2026-10-09
@@ -25,7 +25,7 @@ Digital edition (e-book, Kindle ASIN B082DVC9LS), KADOKAWA Game Linkage, Decembe
 ## Sources
 
 store.kadokawa.co.jp (Information)
-- https://store.kadokawa.co.jp/shop/g/g321910001212/ — profile*, dates* (December 20, 2019; publisher's own page is the date source), credits (漫画 皆川史生), stock (在庫なし, out of stock) — accessed 2026-10-09 — archived: TODO
+- https://store.kadokawa.co.jp/shop/g/g321910001212/ — profile*, dates* (December 20, 2019; publisher's own page is the date source), credits (漫画 皆川史生) — accessed 2026-10-09 — archived: TODO
 
 ndlsearch.ndl.go.jp (Information)
 - http://id.ndl.go.jp/bib/030122855 — by*, dates (2019.12; digital edition 2019-12-20; agrees with the store), credits, length* (127 p, 22 cm), story (serialized in 週刊ファミ通, 4-koma about XIV, first collected) — accessed 2026-10-09 — archived: TODO
@@ -42,12 +42,12 @@ famitsu.com (Information, Kadokawa group's game news site)
   - Serialization 2013-09 to 2019-10 is the entry's `titleDate` start and end; the collected volume's date does not replace it
 
 books.rakuten.co.jp (Information)
-- https://books.rakuten.co.jp/author/200000000760131/ -- description*, date*, length* -- accessed 2026-10-14 (page text pasted by user): the author page for 皆川史生 (7 items); the entry is https://books.rakuten.co.jp/rb/16155878/ , ファイナルファンタジーXIV じゅうよんコマ, 2019年12月20日, not currently orderable
+- https://books.rakuten.co.jp/author/200000000760131/ -- description*, date*, length* -- accessed 2026-10-14 (page text pasted by user): the author page for 皆川史生 (7 items); the entry is https://books.rakuten.co.jp/rb/16155878/ , ファイナルファンタジーXIV じゅうよんコマ, 2019年12月20日
   - Blurb: the 4-koma manga "じゅうよんコマ" for Final Fantasy XIV "serialized for six whole years in Weekly Famitsu" (週刊ファミ通), all 212 episodes, plus illustration columns and production materials; so it is a long-running serialization collected in one volume, and the 2019-12 `titleDate` is the book's date; the serialization start (about 2013 to 2014) is not given
   - The same author page lists only one other Final Fantasy book, ファイナルファンタジーXI 皆川史生イラストレーションズ (2018-12-05); the other five are a Minecraft collaboration novel and the 灰と王国 novels (not Final Fantasy)
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/321910001212/ -- profile*, length, date, ISBN -- accessed 2026-10-14 (page text pasted by user): the publisher's product page for the print book, ファイナルファンタジーXIV じゅうよんコマ, 漫画 皆川史生, ISBN 9784047334434, A5判, 128 pages, released 2019-12-20, with a link to the e-book edition; this is the entry's `profileUrl` (it replaced the store page https://store.kadokawa.co.jp/shop/g/g321910001212/, which is out of stock)
+- https://www.kadokawa.co.jp/product/321910001212/ -- profile*, length, date, ISBN -- accessed 2026-10-14 (page text pasted by user): the publisher's product page for the print book, ファイナルファンタジーXIV じゅうよんコマ, 漫画 皆川史生, ISBN 9784047334434, A5判, 128 pages, released 2019-12-20, with a link to the e-book edition; this is the entry's `profileUrl` (it replaced the store page https://store.kadokawa.co.jp/shop/g/g321910001212/)
 - https://www.kadokawa.co.jp/product/321910001223/ -- e-book edition -- accessed 2026-10-14 (page text pasted by user earlier): the e-book's page, with the same facts (A5判 / 128 pages for the print, 2019-12-20); the print and e-book have the codes 321910001212 and 321910001223
   - Length: the publisher's pages and Famitsu.com say 128 and NDL and goodreads say 127; Amazon.co.jp (https://www.amazon.co.jp/dp/404733443X, checked 2026-10-14, page text pasted by user: 128 pages, 5.83 x 8.27 inches (A5), 240 g, KADOKAWA, 2019-12-20, rating 4.3 of 46 on Amazon, goodreads has none) breaks the tie, so the entry now says 128 (most records agree, per docs/data.md)
 
