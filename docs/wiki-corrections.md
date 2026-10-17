@@ -62,6 +62,18 @@ value, ours, and why, so the corrections can be reported upstream.
 - Our source: [final-fantasy-xi-the-beasts-path-2007.md](../sources/final-fantasy-xi-the-beasts-path-2007.md)
 - Backed by: the NDL authority record reads 江本聖 as エモト ヒジリ for both volumes (Vol.2 on Goodreads already says Hijiri Emoto).
 
+### Wikipedia: List of Final Fantasy media (The Out of Orders date and ISBN)
+
+- Page: https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga
+- Says: Final Fantasy XI ~The Out of Orders~ released April 19, 2003, JP ISBN
+  978-4-7577-1424-3.
+- Should be: serialized from December 2004; the date and ISBN belong to the
+  Star Oath novel (4-7577-1424-6), whose row lists the same ISBN.
+- Our source: [final-fantasy-xi-the-out-of-orders-2004.md](../sources/final-fantasy-xi-the-out-of-orders-2004.md)
+- Backed by: Square Enix's archived back-number page puts issue 1 on sale
+  2004-12-03; the Star Oath is dated 2003-04-19 in
+  [final-fantasy-xi-the-star-oath-2003.md](../sources/final-fantasy-xi-the-star-oath-2003.md).
+
 ## Candidates
 
 ### Square Enix Magazine & Book (Final Fantasy XII manga volume dates)
