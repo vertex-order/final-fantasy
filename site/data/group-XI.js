@@ -175,7 +175,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
   },
   {
     mediaType: 'Comic', chronoOrder: -10, narrativeOrder: 602, narrativeSection: 'Main',
-    title: 'Final Fantasy XI ~The Out of Orders~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~', titleDate: '2004-12-17',
+    title: 'Final Fantasy XI ~The Out of Orders~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~', titleDate: '2004-12-03',
     by: [{ role: 'written', names: 'Kim Sung-Jae' }, { role: 'illustrated', names: 'Kim Byung-Jin' }],
     mediaDesc: [
       [{ text: 'An original story set during the Crystal War twenty years before the main story of ' }, { emLinkText: 'XI (2003)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', which later became the setting for the ' }, { emLinkText: 'Wings of the Goddess (2007)', emLinkUrl: '#entry-XI-final-fantasy-xi-wings-of-the-goddess-2007' }, { text: ' expansion. Some differences with characters from the game make it so it could be considered an alternate universe story. It was cancelled after three issues and left incomplete.' }],
@@ -184,6 +184,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       tags: ['Prequel', 'Alternate Universe', 'Manhwa', 'Incomplete'],
       subtitle: 'Comic',
       length: '3 issues',
+      profileUrl: 'https://web.archive.org/web/20130305015755/http://www.square-enix.co.jp/magazine/yg/backnumber/backnumber001.shtml',
       languages: [
         { value: 'JA', native: true },
       ],
