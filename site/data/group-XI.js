@@ -830,7 +830,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
-      length: '12 issues',
+      length: '13 issues',
       contentsLabel: 'issues',
       searchTitle: 'ヴァナ・ディール通信',
       profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%B4%E3%82%A1%E3%83%8A%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BC%E3%83%AB%E9%80%9A%E4%BF%A1',
@@ -849,6 +849,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
         { title: 'Vol.5: Wings of the Goddess Edition', titleDate: '2008-02-08', titleUrl: 'https://www.google.com/books/edition/_/ZkqHZwEACAAJ?hl=en&kptab=getbook', searchTitle: '9784757740624' },
         { title: 'Vol.6: Autumn Version Update Edition', titleDate: '2008-11-21', titleUrl: 'https://www.google.com/books/edition/_/25CVPgAACAAJ?hl=en&kptab=getbook', searchTitle: '9784757746299' },
         { title: 'Vol.7: Salvage Video Edition', titleDate: '2009-04-02', titleUrl: 'https://www.google.com/books/edition/_/g3XlXwAACAAJ?hl=en&kptab=getbook', searchTitle: '9784757748736' },
+        { title: 'Vol.8: Pandemonium Edition', titleDate: '2009-09-18', titleUrl: 'https://www.google.com/books/edition/_/pYWiQwAACAAJ?hl=en&kptab=getbook', searchTitle: '9784047260917' },
         { title: "Vol.9: Under the Sky of Vana'diel", titleDate: '2010-04-02', titleUrl: 'https://www.google.com/books/edition/_/NEXrZwEACAAJ?hl=en&kptab=getbook', searchTitle: '9784047265097' },
       ],
       platforms: [

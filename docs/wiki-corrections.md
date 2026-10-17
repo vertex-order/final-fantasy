@@ -63,6 +63,18 @@ value, ours, and why, so the corrections can be reported upstream.
 - Reason: volume order disagrees with the release dates; no catalog record
   checked yet.
 
+### Final Fantasy XI The Out of Orders (start date is the cover date)
+
+- Page: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI_~The_Out_of_Orders~
+- Says: started in issue 1, December 17, 2004.
+- Probably: issue 1 went on sale December 3, 2004; December 17 is the issue
+  date printed on the cover (the wiki's date is not wrong as an issue date,
+  but other pages list on-sale dates).
+- Our source: [final-fantasy-xi-the-out-of-orders-2004.md](../sources/final-fantasy-xi-the-out-of-orders-2004.md)
+- Reason: Square Enix's archived back-number page for the first issue
+  (創刊号【2004.12.17号】) says 2004年12月3日発売; candidate until the wiki's
+  own convention (cover date or on-sale date) is known.
+
 ### Final Fantasy II Shōri e no Tabidachi (author missing)
 
 - Page: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi
