@@ -246,7 +246,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
     mediaType: 'Game', chronoOrder: 4000, narrativeOrder: 500,
     title: 'Final Fantasy Tactics', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics', titleDate: '1997-06-20',
     mediaDesc: [
-      [{ text: 'Far in the future, the mercenary Ramza is involved in a civil war when an ancient demonic evil starts to take hold over the world.' }],
+      [{ text: 'Long after the era of ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: ', the highborn cadet Ramza is caught in a war between two noble factions and uncovers the sinister plot behind it.' }],
     ],
     primary: {
       tags: ['Turn-based tactical RPG'],
@@ -309,6 +309,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
           platforms: [
             { key: 'playstation-portable', url: 'http://dlgames.square-enix.com/fft/en/' },
             { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2' },
+            { key: 'android2', jpTag: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_jp2' },
             { key: 'apple', url: 'https://apps.apple.com/us/app/final-fantasy-tactics-wotl/id446760220' },
             { key: 'fan-movie', search: 'youtube', searchQualifier: 'War of the Lions' },
             { key: 'fan-recap', search: 'youtube', searchQualifier: 'War of the Lions' },
