@@ -19,4 +19,23 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_vers
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Brave_Exvius -- dates*, platforms* -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_Brave_Exvius
 
+## otakumode.com (Information)
+
+- https://otakumode.com/otapedia/games/final_fantasy/brave_exvius -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Plot, Characters, Gameplay, Development)
+  - Plot: a short summary (the world of Lapis, the knights Rain and Lasswell of the Kingdom of Grandshelt, Fina trapped in the Earth Crystal, Veritas of the Dark attacking the crystals); agrees with the entry's description (Rain and Lasswell help fight off an attack on the Earth crystal); the later turns are not in the description
+  - Release: free-to-play, produced by Alim and Square Enix for iOS, Android and Amazon Fire devices, Japan 2015 and worldwide 2016; consistent with the entry (2015-10-22, native); it also names War of the Visions: Final Fantasy Brave Exvius (2019) as a spinoff; its Gameplay section describes the turn-based combat, the gacha system and chains; no new fact
+  - Its Links section names https://www.square-enix.com/ and the official site https://www.finalfantasyexvius.com/ (below)
+
+finalfantasyexvius.com (Publisher, official)
+
+- https://www.finalfantasyexvius.com/ -- global official site -- accessed 2026-10-17 (named by the Otapedia page; the live address did not answer when I tried): the entry's service is terminated; archived: https://web.archive.org/web/20241111211722/https://www.finalfantasyexvius.com/ (latest capture, 2024-11-11; titled "FINAL FANTASY BRAVE EXVIUS Global Official Site | SQUARE ENIX", with About, Characters and Story Seasons 1 to 4, English and Chinese, developed by gumi Inc., logo art by Yoshitaka Amano); earliest capture 2016-05-16: https://web.archive.org/web/20160516200522/https://www.finalfantasyexvius.com/ -- shallow: front page only
+
+## Store pages of the terminated service (Platform)
+
+- https://apps.apple.com/app/final-fantasy-brave-exvius/id1078553808 -- iOS platform row* -- accessed 2026-10-17 (from the official site's store button: https://itunes.apple.com/app/final-fantasy-brave-exvius/id1078553808?at=11lc5S&ct=BE_N_06, which redirected to this page; user, 2026-10-17); archived: https://web.archive.org/web/20230928143311/https://apps.apple.com/app/final-fantasy-brave-exvius/id1078553808 (the listing, version 8.4.0 in the capture; earlier captures from 2023-06-08); **languages* (user, 2026-10-17: confirmed from this capture): English, French, German, Indonesian, Korean, Simplified Chinese, Spanish, Thai, Traditional Chinese**; the entry had no Indonesian, Thai or Simplified Chinese before
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW -- Android platform row* -- accessed 2026-10-17 (the official site's store button, user); archived: https://web.archive.org/web/20240909211105/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW (the listing, updated Aug 1, 2024 in the capture); confirmed by the user as the real listing (2026-10-17)
+- https://www.amazon.com/gp/product/B01KUHETFY -- Amazon App Store (Fire) platform row* -- accessed 2026-10-17 (the official site's store button, user); archived: https://web.archive.org/web/20240207072104/https://www.amazon.com/gp/product/B01KUHETFY (the full listing; a later capture, 2025-02-16, is only a small page, so not used); languages (user, 2026-10-17: confirmed from this capture): Chinese, English, a subset of the App Store's list
+
 ## Decisions
+- The three terminated platform rows link Wayback captures of their store pages, and an Amazon App Store row was added (user, 2026-10-17: the store links came from the official site, each needs a Wayback, and they go on the struck platforms); the profile link stays the Square Enix games page, since the entry has one and the archived official site is a last resort (mine; the user said the archived site could be the profile "if we don't have one")
+- Added Indonesian, Thai and Simplified Chinese to the languages (user, 2026-10-17): the Apple App Store capture lists English, French, German, Indonesian, Korean, Simplified Chinese, Spanish, Thai and Traditional Chinese; Japanese stays as the native language (the Japanese release is a separate store listing)

@@ -28,7 +28,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_versi
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix.com/ffvii/en-us/games/rebirth/
+- https://www.square-enix.com/ffvii/en-us/games/rebirth/ -- story -- accessed 2026-10-17 (page text pasted by user): the new story in the Final Fantasy VII remake project, a reimagining of the original into three standalone titles by its original creators, culminating in the party's journey to the Forgotten Capital; story: Cloud and his comrades escape Midgar in pursuit of the fallen hero Sephiroth, on a journey that decides the fate of the planet; agrees with the entry's description (Cloud and Avalanche across the planet against Shinra and Sephiroth) and its trilogy note; **the locale stays in this link (user, 2026-10-17): it cannot be removed**
 
 ## Steam (Platform)
 

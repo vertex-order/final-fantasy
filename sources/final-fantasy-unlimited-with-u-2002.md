@@ -14,4 +14,8 @@
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Unlimited -- dates*, platforms*, tags -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy:_Unlimited#Video_games -- dates, story -- accessed 2026-09-22
 
+## otakumode.com (Information)
+
+- https://otakumode.com/otapedia/games/final_fantasy/unlimited -- related media -- accessed 2026-10-17 (fetched by me, text pasted by user; the Unlimited page of Tokyo Otaku Mode's Otapedia): lists FF:U with U as a role-playing-style game related to the show; agrees with the entry's description (a mobile-phone turn-based RPG adaptation); no new fact
+
 ## Decisions

@@ -58,4 +58,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
 
 - https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?
 
+## otakumode.com (Information)
+
+- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_5 -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Prologue, Final Fantasy V Plot, Gameplay, Character Jobs, Characters)
+  - Final Fantasy V Plot: a very brief summary (the winds dying, the wind crystal shattering, Bartz finding Lenna by the fallen meteorite, the crystals sealing the sorcerer Exdeath); agrees with the entry's description (Bartz, a fallen meteor, Exdeath); no new fact
+  - Release: Japan 1992 on the Super Famicom, later ports (iOS, PlayStation, Game Boy Advance and others); consistent with the entry (1992-12-06)
+  - It calls Final Fantasy: Legend of the Crystals a sequel set 200 years after the game, which agrees with that entry's description
+
 ## Decisions

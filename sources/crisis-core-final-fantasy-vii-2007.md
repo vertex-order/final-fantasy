@@ -37,7 +37,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix.com/ffvii/en-us/games/crisis-core/
+- https://www.square-enix.com/ffvii/en-us/games/crisis-core/ -- story, title -- accessed 2026-10-17 (page text pasted by user; the page's game is titled Crisis Core Final Fantasy VII Reunion, the 2022 remaster): the story begins seven years before Final Fantasy VII and follows Zack Fair, a young and ambitious Shinra SOLDIER operative, who is tasked with tracking down the missing SOLDIER 1st Class Genesis Rhapsodos and discovers the dark secrets of Shinra's experiments; it features Cloud, Sephiroth, Aerith and others; agrees with the entry's description (Zack searches for Genesis and uncovers mysteries); **the locale stays in this link (user, 2026-10-17): it cannot be removed**
 
 ## Steam (Platform)
 
@@ -56,5 +56,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
 ## Xbox (Platform)
 
 - https://www.xbox.com/games/store/crisis-core-final-fantasy-vii-reunion/9p6j9nfkgj68
+
+## otakumode.com (Information)
+
+- https://otakumode.com/otapedia/games/final_fantasy/psp_games -- PSP platform*, story -- accessed 2026-10-17 (fetched by me, text pasted by user; the user, 2026-10-17: the games on it should have a PSP version or alt): describes Crisis Core: Final Fantasy VII as an action RPG from Square Enix for the PlayStation Portable, a prequel to Final Fantasy VII and the fourth entry of the Compilation of Final Fantasy VII, played as Zack Fair, a Shinra soldier, with fast turns that feel like real-time combat; the story takes about 15 hours and a full completion about 50; the entry has a `playstation-portable` row
 
 ## Decisions

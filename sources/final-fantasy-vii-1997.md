@@ -68,4 +68,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 - https://www.xbox.com/games/store/final-fantasy-vii/bwkxqc5bl5r1
 
+## otakumode.com (Information)
+
+- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_7 -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Final Fantasy VII Plot, Characters, Gameplay, Development)
+  - Final Fantasy VII Plot: a brief summary (Shinra harvesting Mako, AVALANCHE, SOLDIER, the Turks, the Cetra, Sephiroth and the Black Materia); agrees with the entry; no new fact
+  - Release: 1997, the first Final Fantasy on the PlayStation, later ports (PlayStation 4, iOS, Android, Xbox One, Windows, PS3, PSP, Vita, Switch); consistent with the entry (1997-01-31)
+  - It says the Remake is "set to be released in March 2020"; stale (the page was written before the delay to 2020-04-10, which its timeline page gives); not an error to report
+  - Its Development section links an IGN interview, "Best Selling FF7 Interview" (https://www.ign.com/articles/2008/04/28/crisis-core-final-fantasy-vii-uk-interview): developer interview content, outside our scope; not read by me
+
 ## Decisions

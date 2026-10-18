@@ -59,4 +59,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
 
 - https://www.xbox.com/games/store/final-fantasy-viii-remastered/9nntspsc35zb
 
+## otakumode.com (Information)
+
+- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_8 -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Prologue, Final Fantasy VIII Plot, Gameplay, Characters, Development)
+  - Final Fantasy VIII Plot: a very brief summary (the five continents, Squall of SeeD and Balamb Garden, the sorceress Ultimecia who wants to compress time); the prologue is the manual's intro (Galbadia's war declaration, Rinoa, Laguna in Squall's dreams); agrees with the entry in outline; the entry names Edea, the page does not; no new fact
+  - **It says the game was released in 1997, which is wrong:** the Japanese release was 1999-02-11, and the page's own timeline gives that date (see docs/wiki-corrections.md)
+  - It mentions the 2019 remaster for PlayStation 4, Xbox One, Windows and Switch, consistent with the entry's platforms
+
 ## Decisions

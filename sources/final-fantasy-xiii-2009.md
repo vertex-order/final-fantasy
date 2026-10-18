@@ -40,4 +40,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
 - https://www.xbox.com/games/store/final-fantasy-xiii/9mtv87hfmf43
 - https://www.xbox.com/games/store/final-fantasy-xiii/bsg43bdrn81r
 
+## otakumode.com (Information)
+
+- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_13 -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Final Fantasy XIII Plot, Characters, Gameplay, Development)
+  - Final Fantasy XIII Plot: a short recap (Cocoon and Pulse, the Sanctum's purge, Lightning against the government to save her sister, the fal'Cie and the l'Cie Focus); it is close to the entry's description, which is the same premise; the l'Cie Focus and the monster-or-crystal fate are beyond the description and left out; it misspells names ("Lighting", "Sarah" for Serah), nothing to report
+  - Release: Japan December 2009, worldwide March 2010, on PlayStation 3 and Xbox 360, later Windows; consistent with the entry (2009-12-17)
+  - Its Development section links a StrategyWiki page (https://strategywiki.org/wiki/Final_Fantasy_XIII/Combat#Stagger, "FF13 Combat System"): a game-guide page, outside our scope; not read by me
+
 ## Decisions

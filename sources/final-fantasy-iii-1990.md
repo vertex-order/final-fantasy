@@ -67,4 +67,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 
 - https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?
 
+## otakumode.com (Information)
+
+- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_3 -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Prologue, Final Fantasy III Plot, Gameplay, Characters, Development)
+  - Final Fantasy III Plot: a short summary (the four orphans of Ur, Topapa, the crystal of light, Xande, the quest chapters and locations, the final boss the Cloud of Darkness); agrees with the entry's description, which names Xande and the flood of darkness; the final boss is a spoiler and is not in the description
+  - Gameplay and Characters: the job-change system, the job lists, the four heroes (Luneth, Arc, Refia, Ingus) and guest characters; the first game with Moogles; no change to the entry
+  - Release: Japan 1990 on the Famicom, later ports (Nintendo DS, Wii U, iOS, Android and others); consistent with the entry (1990-04-27, which the timeline page also gives); no new fact
+
 ## Decisions

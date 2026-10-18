@@ -309,7 +309,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
           platforms: [
             { key: 'playstation-portable', url: 'http://dlgames.square-enix.com/fft/en/' },
             { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2' },
-            { key: 'apple', url: 'http://dlgames.square-enix.com/fft/en/' },
+            { key: 'apple', url: 'https://apps.apple.com/us/app/final-fantasy-tactics-wotl/id446760220' },
             { key: 'fan-movie', search: 'youtube', searchQualifier: 'War of the Lions' },
             { key: 'fan-recap', search: 'youtube', searchQualifier: 'War of the Lions' },
             { key: 'fan-playthrough', search: 'youtube', searchQualifier: 'War of the Lions' },

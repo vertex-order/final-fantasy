@@ -27,4 +27,8 @@ wikipedia.org (Information)
   - A serial web novel "FF:U After Spiral", by Sho Katigiri, supervised by Atsuhiro Tomioka, published on the official Japanese FF:U website
   - Seven chapters plus one spin-off chapter, after the events of FF:U After
 
+## otakumode.com (Information)
+
+- https://otakumode.com/otapedia/games/final_fantasy/unlimited -- related media -- accessed 2026-10-17 (fetched by me, text pasted by user; the Unlimited page of Tokyo Otaku Mode's Otapedia): says a serial web novel, After Spiral, was also released; consistent with the entry (a web novel after Unlimited After); no new fact
+
 ## Decisions

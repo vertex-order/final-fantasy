@@ -82,7 +82,47 @@ value, ours, and why, so the corrections can be reported upstream.
 - Our source: [figaros-wedding-tales-from-desert-1994.md](../sources/figaros-wedding-tales-from-desert-1994.md)
 - Backed by: the characters and castle are from Final Fantasy VI; the entry sits in the VI group.
 
+### Tokyo Otaku Mode Otapedia: Final Fantasy VIII (release year)
+
+- Page: https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_8
+- Says: released in 1997.
+- Should be: 1999 (Japan, 1999-02-11).
+- Our source: [final-fantasy-viii-1999.md](../sources/final-fantasy-viii-1999.md)
+- Backed by: the page's own Final Fantasy timeline gives February 11th, 1999, and en.wikipedia's Japanese release date is the same.
+
+### Tokyo Otaku Mode Otapedia: Final Fantasy IX (release year)
+
+- Page: https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_9
+- Says: released in 1999.
+- Should be: 2000 (Japan, 2000-07-07).
+- Our source: [final-fantasy-ix-2000.md](../sources/final-fantasy-ix-2000.md)
+- Backed by: the page's own Final Fantasy timeline gives July 7th, 2000, and en.wikipedia's Japanese release date is the same.
+
+### Tokyo Otaku Mode Otapedia: Final Fantasy X (release year)
+
+- Page: https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_10
+- Says: released on the PlayStation 2 in 2003.
+- Should be: 2001 (Japan, 2001-07-19).
+- Our source: [final-fantasy-x-2001.md](../sources/final-fantasy-x-2001.md)
+- Backed by: the page's own Final Fantasy timeline gives July 19th, 2001, and en.wikipedia's Japanese release date is the same.
+
 ## Candidates
+
+### Tokyo Otaku Mode Otapedia: Final Fantasy timeline (Final Fantasy release date)
+
+- Page: https://otakumode.com/otapedia/games/final_fantasy/timeline
+- Says: Final Fantasy, December 17th, 1987.
+- Probably: December 18, 1987, the Japanese release date en.wikipedia gives.
+- Our source: [final-fantasy-1987.md](../sources/final-fantasy-1987.md)
+- Reason: only en.wikipedia checked; no Square primary record found for the day yet.
+
+### Tokyo Otaku Mode Otapedia: Final Fantasy timeline (Crystal Chronicles release date)
+
+- Page: https://otakumode.com/otapedia/games/final_fantasy/timeline
+- Says: Final Fantasy Crystal Chronicles, February 15th, 2004.
+- Probably: the Japanese release, August 8, 2003 (the native date we use); February 2004 matches the North American launch month, but 15 February is not a date we found for any release.
+- Our source: [final-fantasy-crystal-chronicles-2003.md](../sources/final-fantasy-crystal-chronicles-2003.md)
+- Reason: not checked against a primary record; the timeline otherwise lists native Japanese dates.
 
 ### Square Enix Magazine & Book (Final Fantasy XII manga volume dates)
 

@@ -21,4 +21,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)_v
 - https://wikipedia.org/wiki/Dissidia_Final_Fantasy
 - https://wikipedia.org/wiki/Dissidia_012_Final_Fantasy
 
+## otakumode.com (Information)
+
+- https://otakumode.com/otapedia/games/final_fantasy/dissidia -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Plot, Characters, Gameplay, Development, Reception; the original Dissidia, not 012)
+  - Plot: a short summary (World B, an alternate dimension; the gods summon characters from earlier Final Fantasy games; Cosmos gives them missions to retrieve crystals to defeat Chaos; the ending is a spoiler); agrees with the entry's description (a war between the gods Chaos and Cosmos who summon warriors from parallel worlds)
+  - Release: PlayStation Portable, Japan 2008 and the rest of the world 2009, directed by Takeshi Arakawa and produced by Yoshinori Kitase; consistent with the entry (2008-12-18, native); it says the game inspired the sequel Dissidia 012, which is the Remake version of this entry
+  - Its Characters list mixes in Shantotto and Gabranth, who are Dissidia 012 characters; its Development and Reception sections are developer and critical content, outside our scope; its Links section names the Dissidia NT official site (see the NT entry's sources)
+- https://otakumode.com/otapedia/games/final_fantasy/psp_games -- PSP platform*, story -- accessed 2026-10-17 (fetched by me, text pasted by user; the user, 2026-10-17: the games on it should have a version or alt with a PSP platform): describes Dissidia Final Fantasy as a fighting action-RPG spinoff on the PlayStation Portable, Japan 2008 and the rest of the world 2009, directed by Takeshi Arakawa and produced by Yoshinori Kitase, around the conflict between Cosmos and Chaos; and Dissidia 012 Final Fantasy as its sequel, also on the PSP, in 2011, with classic characters (Cloud, Lightning, Laguna) and less RPG emphasis; the entry has `playstation-portable` rows on both its versions, the original and the 012 Remake
+
 ## Decisions

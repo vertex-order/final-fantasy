@@ -42,6 +42,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
 
 - http://id.ndl.go.jp/bib/000011313058 -- the PSP release as catalogued: ファイナルファンタジー零式 Final fantasy type-0, Square Enix, c2011, 2 UMD discs + 35p booklet, system requirement PSP; title lookup for "Final Fantasy Type-0" -- accessed 2026-10-10 -- archived: TODO
 
+## otakumode.com (Information)
+
+- https://otakumode.com/otapedia/games/final_fantasy/type_0 -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Plot, Characters, Gameplay, Development)
+  - Plot: a short summary (Orience, four Crystal States, the l'Cie, the fourteen students of Class Zero from the Vermillion Peristylium, the Militesi Empire invading, the secrets behind the war and the students' existence); agrees with the entry's description (Class Zero, fourteen students of Rubrum, the Militesi invasion, the secret behind the war and the crystals); no new fact
+  - Release: PlayStation Portable, Japan only, October 2011, then re-released as Final Fantasy Type-0 HD on PlayStation 4, Xbox One and Windows; consistent with the entry (2011-10-27); directed by Hajime Tabata, characters by Tetsuya Nomura, score by Takeharu Ishimoto
+  - Its Gameplay and Characters sections list the fourteen playable characters and the battle system (Break Sight, Kill Sight, Triad Maneuver, Altocrystarium, Eidolons); game-mechanics content, outside our scope; its Links section names only https://www.square-enix.com/
+
 ## Surveyed
 
 - NDL: ファイナルファンタジー零式アルティマニア (SE-mook, Studio BentStuff, 2011.11, 847p, ISBN 9784757534322) -- http://id.ndl.go.jp/bib/023165232 -- empty: guide book, out of scope per docs/data.md -- accessed 2026-10-10

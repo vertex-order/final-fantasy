@@ -19,7 +19,7 @@
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix.com/ffvii/games/revelation/
+- https://www.square-enix.com/ffvii/games/revelation/ -- story -- accessed 2026-10-17 (page text pasted by user, fetched before the release): "A vast planet awaits. Everything leads here.": the final battle to decide the fate of the world, take to the skies, chart a course and stand with companions against Sephiroth one last time; agrees with the entry's description (the final part, against Sephiroth); **this locale-less link redirects to the reader's locale-specific site (user, 2026-10-17), so it stays without a locale, unlike the Remake, Intergrade and Rebirth pages**
 
 ## Steam (Platform)
 

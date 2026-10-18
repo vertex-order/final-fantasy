@@ -306,7 +306,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       "Details the background of Ardyn Izunia from 2,000 years ago in Eos' history when he used to work as a healer. Closed captioning is available.",
     ],
     primary: {
-      tags: ['Prologue', 'Video'],
+      tags: ['Prologue', 'Video', 'Free'],
       subtitle: 'Video',
       languages: [
         { value: 'JA', tip: 'Japanese — audio', native: true, voice: true },
