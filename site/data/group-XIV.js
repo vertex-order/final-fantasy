@@ -38,7 +38,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
     mediaType: 'Game', chronoOrder: 1000, narrativeOrder: 200,
     title: 'Final Fantasy XIV: A Realm Reborn', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIV', titleDate: '2013-08-27',
     mediaDesc: [
-      'Seven years after XIV: Online (2010), you must fend off a reignited invasion from the Garlean Empire in the world of Eorzea. From the base game, continue your adventure in 6 expansions (listed separately), with more expected to release.',
+      [{ text: 'Five years after ' }, { emLinkText: 'XIV: Online (2010)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-online-1-0-2010' }, { text: ', you must fend off a reignited invasion from the Garlean Empire in the world of Eorzea. From the base game, continue your adventure in 6 expansions (listed separately), with more expected to release.' }],
       [{ text: 'Sometimes referred to simply as ' }, { emText: 'Final Fantasy XIV: Online' }, { text: ', or ' }, { emText: 'Version 2.0' }, { text: '.' }],
       [{ text: 'A campaign dubbed ' }, { emText: '"Return to Ivalice"' }, { text: ' ties into the ' }, { emText: 'Ivalice' }, { text: ' subseries, with characters based on those from ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: ' and ' }, { emLinkText: 'Tactics (1997)', emLinkUrl: '#entry-XII-final-fantasy-tactics-1997' }, { text: '.' }],
     ],
