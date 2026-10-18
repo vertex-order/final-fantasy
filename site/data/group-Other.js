@@ -5,25 +5,65 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: 'Final Fantasy Adventure', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure', titleDate: '1991-06-28',
     mediaDesc: [
       [{ text: 'The story follows the hero and the heroine as they attempt to thwart the Dark Lord of Glaive and his sorcerer assistant, Julius, from destroying the Tree of Mana and dooming their world. Similar in gameplay to the original ' }, { emText: 'The Legend of Zelda (1986; NES)' }, { text: ' with additional RPG elements.' }],
-      [{ text: 'Confusingly released as ' }, { emText: 'Mystic Quest (1993)' }, { text: ' in Europe, not to be confused with ' }, { emLinkText: 'Final Fantasy Mystic Quest (1992)', emLinkUrl: '#entry-MQ-final-fantasy-mystic-quest-1992' }, { text: '. It spawned its own series which no longer contains Final Fantasy elements, ' }, { emLinkText: 'Mana', emLinkUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure' }, { text: ', whose sequel is the well known ' }, { emText: 'Secret of Mana (1993)' }, { text: '. It has multiple remakes, but they remove the Final Fantasy elements from the game.' }],
+      [{ text: 'Confusingly released as ' }, { emText: 'Mystic Quest (1993)' }, { text: ' in Europe, not to be confused with ' }, { emLinkText: 'Final Fantasy Mystic Quest (1992)', emLinkUrl: '#entry-MQ-final-fantasy-mystic-quest-1992' }, { text: '. It spawned its own series which no longer contains Final Fantasy elements, ' }, { emLinkText: 'Mana', emLinkUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure' }, { text: ', whose sequel is the well known ' }, { emText: 'Secret of Mana (1993)' }, { text: '. The Game Boy Advance remake, ' }, { emText: 'Sword of Mana (2003)' }, { text: ', removes the Final Fantasy elements from the game.' }],
+      [{ text: 'Included in ' }, { emText: 'Collection of Mana' }, { text: ' and ' }, { emText: 'Seiken Densetsu Collection' }, { text: '.' }],
     ],
     primary: {
       tags: ['Essential', 'Action RPG', 'Single-player'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
+        { value: 'FR' },
+        { value: 'DE' },
         { value: '…?' },
       ],
       helpWanted: true,
       length: [{ value: '10½h', tip: 'Main + Extra', join: ' / ' }, { value: '11½h', tip: 'Completionist' }],
       platforms: [
         { key: 'nintendo-game-boy', paren: 'Physical' },
-        { key: 'nintendo-switch', paren: 'Collection of Mana' },
+        { key: 'nintendo-switch', paren: 'Collection of Mana', url: 'https://www.nintendo.com/store/products/collection-of-mana-switch/' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-recap', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
+      versions: [
+        {
+          subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure#Versions_and_merchandise', subtitleDate: 2006,
+          languages: [
+            { value: 'JA', native: true },
+          ],
+          platforms: [
+            { key: 'mobile-phone', jpTag: true },
+          ],
+          versionDesc: [
+            [{ text: 'Closer to the original design, with updated graphics and sound, an improved world map and a new sickle.' }],
+          ],
+        },
+      ],
     },
+    alts: [
+      {
+        subtitle: '3D Remake', subtitleUrl: 'https://wikipedia.org/wiki/Adventures_of_Mana', subtitleDate: 2016,
+        profileUrl: 'https://www.jp.square-enix.com/seiken/en/',
+        languages: [
+          { value: 'JA', native: true },
+          { value: 'EN' },
+          { value: '…?' },
+        ],
+        helpWanted: true,
+        platforms: [
+          { key: 'apple', url: 'https://apps.apple.com/us/app/adventures-of-mana/id1048629983' },
+          { key: 'apple', jpTag: true, url: 'https://apps.apple.com/jp/app/id1048629552' },
+          { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.adventures' },
+          { key: 'amazon', url: 'https://www.amazon.com/dp/B01CZKNQQM' },
+          { key: 'amazon', jpTag: true, url: 'https://www.amazon.co.jp/dp/B01CZKNQQM' },
+          { key: 'playstation-vita', paren: 'Digital', url: 'https://www.jp.square-enix.com/seiken/en/psvita/' },
+        ],
+        versionDesc: [
+          [{ text: 'A 3D remake with a ring menu. Released as ' }, { emText: 'Adventures of Mana' }, { text: ' outside Japan.' }],
+        ],
+      },
+    ],
   },
   {
     mediaType: 'Game', chronoOrder: 300, narrativeOrder: 200,
