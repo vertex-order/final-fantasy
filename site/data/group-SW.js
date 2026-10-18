@@ -2,7 +2,7 @@
 window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, narrativeOrder: 950, title: 'Spirits Within', url: 'https://wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', note: "A bold departure into science fiction and photorealistic CG, laying the groundwork for the series' future cinematic ambitions.", media: [
   {
     mediaType: 'Movie', chronoOrder: 0, narrativeOrder: 100,
-    title: 'Final Fantasy: The Spirits Within', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', titleDate: '2001-07-02',
+    title: 'Final Fantasy: The Spirits Within', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within', titleDate: '2001-07-11',
     mediaDesc: [
       'In 2065, Earth is infested by alien life forms known as Phantoms which kill when touched. The surviving humans are engaged in an ongoing struggle to free the planet.',
     ],
