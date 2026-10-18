@@ -148,13 +148,15 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
+        { value: 'ZH-TW' },
         { value: '…?' },
       ],
       helpWanted: true,
       length: [{ value: '48½h', tip: 'Main Story' }],
       platforms: [
-        { key: 'android2', terminated: true },
-        { key: 'apple', terminated: true },
+        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20250107195003/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.WOTVffbeww' },
+        { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20241128152909/https://apps.apple.com/us/app/final-fantasy-be-wotv/id1484937345' },
+        { key: 'amazon', terminated: true, url: 'https://web.archive.org/web/20230404032551/https://www.amazon.com/gp/product/B0844M7STY' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'War of the Visions Final Fantasy Brave Exvius' },
         { key: 'fan-recap', search: 'youtube', searchTitle: 'War of the Visions Final Fantasy Brave Exvius' },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'War of the Visions Final Fantasy Brave Exvius' },
