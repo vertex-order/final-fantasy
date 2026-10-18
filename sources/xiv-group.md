@@ -24,7 +24,7 @@ wikipedia.org (Information)
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
 
-- Dad of Light is not in our data (checked 2026-10-17): neither the drama, the 2019 film (劇場版ファイナルファンタジーXIV 光のお父さん / Brave Father Online), the blog, nor a Kodansha book edition named by the official site (the page is gone); asked the user whether to build entries (see .plan/review-later.md) -- mine
+- Dad of Light is not in our data (checked 2026-10-17): neither the drama, the 2019 film (劇場版ファイナルファンタジーXIV 光のお父さん / Brave Father Online), the blog, nor a Kodansha book edition named by the official site (the page is gone); asked the user whether to build entries (see .plan/todo.md) -- mine
 
 ## Decisions
 

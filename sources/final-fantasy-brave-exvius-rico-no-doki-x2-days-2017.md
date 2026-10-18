@@ -1,7 +1,7 @@
 <!-- sources/final-fantasy-brave-exvius-rico-no-doki-x2-days-2017.md (markdown) -->
 
 # Final Fantasy Brave Exvius Rico no Doki x2 DAYS
-<!-- site/data/group-BE.js, #entry-BE-final-fantasy-brave-exvius-rico-no-doki-x2-days-2017; collected while sourcing sources/final-fantasy-brave-exvius-rikodoki-2018.md; see .plan/review-later.md -->
+<!-- site/data/group-BE.js, #entry-BE-final-fantasy-brave-exvius-rico-no-doki-x2-days-2017; collected while sourcing sources/final-fantasy-brave-exvius-rikodoki-2018.md; see .plan/todo.md -->
 
 ## Author
 
