@@ -58,7 +58,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
         { value: 'ZH-CN' },
         { value: 'ZH-TW' },
       ],
-      profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-brave-exvius',
+      profileUrl: 'https://web.archive.org/web/20241111211722/https://www.finalfantasyexvius.com/',
       platforms: [
         { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20240909211105/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20230928143311/https://apps.apple.com/app/final-fantasy-brave-exvius/id1078553808' },
