@@ -160,7 +160,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       'A manga following Square Enix employee Shogo Sasaki, a lifelong Final Fantasy fan, who is killed in a truck accident along with his sister Yuko and reborn into a Final Fantasy-style world unbound to any particular installment. Ongoing.',
     ],
     primary: {
-      tags: ['Alternate Universe', 'Manga'],
+      tags: ['Manga'],
       subtitle: 'Comic',
       profileUrl: 'https://yenpress.com/series/final-fantasy-lost-stranger',
       languages: [
