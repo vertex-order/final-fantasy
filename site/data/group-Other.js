@@ -452,4 +452,22 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       ],
     },
   },
+  {
+    mediaType: 'Movie', chronoOrder: 1600, narrativeOrder: 450,
+    title: 'Final Fantasy XR: The Ride', titleUrl: 'https://otakumode.com/otapedia/games/final_fantasy/universal_studios_japan', titleDate: { start: '2018-01-19', end: '2018-06-24' },
+    mediaDesc: [
+      'A limited-time VR roller coaster ride at Universal Studios Japan in Osaka. Riders put on VR headsets to board an airship through Final Fantasy landscapes, passing Chocobos and Cactuars, and end up in a battle between Cloud and Sephiroth in Midgar.',
+    ],
+    primary: {
+      tags: ['VR', 'Theme park'],
+      subtitle: 'Ride',
+      terminated: true,
+      languages: [
+        { value: 'JA', native: true },
+      ],
+      platforms: [
+        { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XR The Ride' },
+      ],
+    },
+  },
 ]};
