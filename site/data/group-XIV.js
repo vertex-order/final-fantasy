@@ -491,7 +491,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
     },
   },
   {
-    mediaType: 'App', chronoOrder: 10000, narrativeOrder: 950,
+    mediaType: 'App', chronoOrder: 9999, narrativeOrder: 9999,
     title: 'FINAL FANTASY XIV Companion', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV_Companion', titleDate: '2018-07',
     mediaDesc: [
       [{ text: 'It allows the registered users of ' }, { emText: 'XIV' }, { text: ' to Chat with friends and Free Company members, Organize events with the scheduler, Organize inventory and armoury chest, peruse the Market Board, Put items up for sale and purchase items, Register an additional favored destination Aetheryte.' }],
@@ -510,6 +510,58 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       platforms: [
         { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffxivcomapp_n' },
         { key: 'apple', url: 'https://itunes.apple.com/app/id1293636320' },
+      ],
+    },
+  },
+  {
+    mediaType: 'TV', chronoOrder: 1100, narrativeOrder: 960,
+    title: 'Final Fantasy XIV: Dad of Light', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIV:_Dad_of_Light', titleDate: { start: '2017-04-17', end: '2017-06-01' },
+    mediaDesc: [
+      [{ text: 'A young salaryman reconnects with his suddenly retired father by secretly joining his guild in ' }, { emLinkText: 'XIV (2013)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-a-realm-reborn-2013' }, { text: '.' }],
+      [{ text: 'A live-action drama based on the blog ' }, { emText: 'Hikari no Otousan' }, { text: ' by a player of the game.' }],
+    ],
+    primary: {
+      tags: ['Spin-off', 'Live-action', 'Drama'],
+      subtitle: 'Live-action',
+      length: '8 episodes',
+      languages: [
+        { value: 'JA', native: true },
+        { value: '…?' },
+      ],
+      helpWanted: true,
+      profileUrl: 'https://hikarinootosan.jp/',
+      ratings: [
+        { score: '7.1', url: 'https://www.imdb.com/title/tt6497076/', key: 'imdb' },
+      ],
+      platforms: [
+        { key: 'cast', paren: 'Netflix', url: 'https://www.netflix.com/title/80178543' },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XIV Dad of Light', noResults: true },
+      ],
+    },
+  },
+  {
+    mediaType: 'Movie', chronoOrder: 1110, narrativeOrder: 970,
+    title: 'Brave Father Online: Our Story of Final Fantasy XIV', titleUrl: 'https://wikipedia.org/wiki/Brave_Father_Online:_Our_Story_of_Final_Fantasy_XIV', titleDate: '2019-06-21',
+    mediaDesc: [
+      [{ text: 'A film adaptation of ' }, { emLinkText: 'Dad of Light (2017)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-dad-of-light-2017' }, { text: ' with story changes, a new cast, including a fourth sibling.' }],
+      [{ text: 'Also known as ' }, { emText: '劇場版 ファイナルファンタジーXIV 光のお父さん' }, { text: '.' }],
+    ],
+    primary: {
+      tags: ['Spin-off', 'Live-action', 'Movie'],
+      subtitle: 'Movie',
+      length: '114min',
+      languages: [
+        { value: 'JA', native: true },
+        { value: '…?' },
+      ],
+      helpWanted: true,
+      profileUrl: 'https://gaga.ne.jp/hikarinootosan/',
+      ratings: [
+        { score: '7.2', url: 'https://www.imdb.com/title/tt10551160/', key: 'imdb' },
+      ],
+      platforms: [
+        { key: 'cast', paren: 'Crunchyroll', url: 'https://www.imdb.com/title/tt10551160/' },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Brave Father Online Final Fantasy XIV' },
       ],
     },
   },

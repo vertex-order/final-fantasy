@@ -24,7 +24,7 @@ wikipedia.org (Information)
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
 
-- Dad of Light is not in our data (checked 2026-10-17): neither the drama, the 2019 film (劇場版ファイナルファンタジーXIV 光のお父さん / Brave Father Online), the blog, nor a Kodansha book edition named by the official site (the page is gone); asked the user whether to build entries (see .plan/todo.md) -- mine
+- Dad of Light is not in our data (checked 2026-10-17): neither the drama, the 2019 film (劇場版ファイナルファンタジーXIV 光のお父さん / Brave Father Online), the blog, nor a Kodansha book edition named by the official site (the page is gone); the drama and the film became entries on 2026-10-18 (sources/final-fantasy-xiv-dad-of-light-2017.md and sources/brave-father-online-our-story-of-final-fantasy-xiv-2019.md); the blog and the Kodansha edition are still leads -- mine
 
 ## Decisions
-
+- Dad of Light drama and Brave Father Online film built as two separate entries (user, 2026-10-18); the Sony Pictures Television / Hivemind series is a lookup only, no entry unless it exists
