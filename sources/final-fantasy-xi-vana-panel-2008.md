@@ -17,12 +17,20 @@ No `by` credit: the strips are by the serial artists of Famitsu Connect!On, a gr
 ## Sources
 
 bg-wiki.com (Information; the XI Guides page, Famitsu section)
-- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Guides#Famitsu -- title*, dates*, format* -- accessed 2026-10-17 (page text pasted by user, covers fetched by the user): items "Fun Book & Vana Panel" (おもしろブック & ヴァナ・コマ, 2008.11, 32p, ISBN 978-4-7577-4515-5, Famitsu Connect!On issue 24: a FFXI 4-panel comic by the "Connect!On" series creators) and "Vol.2" (2009.01, 60p, ISBN 978-4-7577-4685-5, issue 26: more pages and 4-frame comics); the entry's title link
-  - The booklet covers (bg-wiki's images, pasted by the user): back cover reads コネクト!オン連載陣による『FFXI』4コママンガ ヴァナ・コマ 裏バージョン (Vol.24) and 真バージョン (Vol.26), "read the 4-koma from this side"; front covers read おもしろブック, with 連載マンガ陣の裏4コマ! and 裏4コマが大増量! (Vol.26)
+- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Guides#Famitsu -- title*, dates*, format* -- accessed 2026-10-17
+  - (page text pasted by user, covers fetched by the user)
+  - items "Fun Book & Vana Panel" (おもしろブック & ヴァナ・コマ, 2008.11, 32p, ISBN 978-4-7577-4515-5, Famitsu Connect!On issue 24: a FFXI 4-panel comic by the "Connect!On" series creators) and "Vol.2" (2009.01, 60p, ISBN 978-4-7577-4685-5, issue 26: more pages and 4-frame comics)
+  - the entry's title link
+  - The booklet covers (bg-wiki's images, pasted by the user): back cover reads コネクト!オン連載陣による『FFXI』4コママンガ ヴァナ・コマ 裏バージョン (Vol.24) and 真バージョン (Vol.26), "read the 4-koma from this side"
+    - front covers read おもしろブック, with 連載マンガ陣の裏4コマ! and 裏4コマが大増量! (Vol.26)
 
 elemen.jp (Information; fan site, Japanese)
-- http://elemen.jp/ff11/archives/2008/10.html -- contents*, dates* -- accessed 2026-10-17 (fetched by me): Vol.24, listed 2008-10-27: 「今回はFF11の特集でページ数多め。冊子は全て?のミスラNPCのSSや4コママンガなど。」 (a booklet of Mithra NPC screenshots, 4-koma manga and so on; the question mark is the site's own)
-- http://elemen.jp/ff11/archives/2008/12.html -- contents*, dates* -- accessed 2026-10-17 (fetched by me): Vol.26, listed 2008-12-27: 「今号は小冊子がついてFF11の内容多目。内容は全?エル♂のSSや4コマなど。」 (a booklet of Elvaan male screenshots, 4-koma and so on)
+- http://elemen.jp/ff11/archives/2008/10.html -- contents*, dates* -- accessed 2026-10-17
+  - (fetched by me)
+  - Vol.24, listed 2008-10-27: 「今回はFF11の特集でページ数多め。冊子は全て?のミスラNPCのSSや4コママンガなど。」 (a booklet of Mithra NPC screenshots, 4-koma manga and so on; the question mark is the site's own)
+- http://elemen.jp/ff11/archives/2008/12.html -- contents*, dates* -- accessed 2026-10-17
+  - (fetched by me)
+  - Vol.26, listed 2008-12-27: 「今号は小冊子がついてFF11の内容多目。内容は全?エル♂のSSや4コマなど。」 (a booklet of Elvaan male screenshots, 4-koma and so on)
 - http://elemen.jp/ff11/contents/goods/book_etc.html -- the Connect!On issues list; ends at Vol.16 (2008-04), so Vol.24 and 26 are not there -- accessed 2026-10-17 (fetched by me) -- shallow: only the issues to Vol.16
 
 ndlsearch.ndl.go.jp (Information; National Diet Library)
@@ -30,7 +38,10 @@ ndlsearch.ndl.go.jp (Information; National Diet Library)
 - https://ndlsearch.ndl.go.jp/books/R100000002-I000010007765 -- Vol.26: pages*, date* -- accessed 2026-10-17 (SRU API, fetched by me): 146p ; 26cm + 59p, 2009.1, supplement ファイナルファンタジー11おもしろブックvol.2, no summary
 
 store.kadokawa.co.jp (Publisher, Japanese)
-- https://store.kadokawa.co.jp/shop/g/g200810000080/ -- Vol.24: pages, date -- accessed 2026-10-17 (page text pasted by user, also fetched by me): released 2008-10-27, A4 variant 210 × 260 mm, 128 pages, JAN 4910619566483, label カドカワエンタメムック; no description. Not used as a link: it is one issue's page, and the Vol.26 page was not found
+- https://store.kadokawa.co.jp/shop/g/g200810000080/ -- Vol.24: pages, date -- accessed 2026-10-17
+  - (page text pasted by user, also fetched by me)
+  - released 2008-10-27, A4 variant 210 × 260 mm, 128 pages, JAN 4910619566483, label カドカワエンタメムック
+  - no description. Not used as a link: it is one issue's page, and the Vol.26 page was not found
 
 amazon.co.jp (Information; retailer)
 - https://www.amazon.co.jp/dp/475774515X -- Vol.24: date*, pages -- accessed 2026-10-17 (page text and cover pasted by user): 2008-10-27, 130 pages, bonus 付属資料 ファイナルファンタジー11おもしろブック (31P), cover text 初の4コマ! 個性派作家が熱く本性をさらけ出す!
@@ -41,7 +52,10 @@ google books
 - https://www.google.com/books/edition/_/WsUJYAAACAAJ?hl=en&kptab=getbook -- Vol.26 part link -- accessed 2026-10-17: bare record, no description
 
 blog.livedoor.jp (Information; fan blog)
-- http://blog.livedoor.jp/roaming_sheeps/archives/51407861.html -- artist lead -- accessed 2026-10-17 (page text and photo pasted by user): reviewing Suzume's book (Special Edition, in Artist Collections), calls Suzume active in Famitsu PS2, Vana Tsu and Connect!On; does not mention the Vana Panel
+- http://blog.livedoor.jp/roaming_sheeps/archives/51407861.html -- artist lead -- accessed 2026-10-17
+  - (page text and photo pasted by user)
+  - reviewing Suzume's book (Special Edition, in Artist Collections), calls Suzume active in Famitsu PS2, Vana Tsu and Connect!On
+  - does not mention the Vana Panel
 
 ## Surveyed
 
@@ -60,11 +74,12 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 ## Decisions
 
-- Own entry for the two booklets (user, 2026-10-17): the covers show a multi-artist 4-koma team (the Connect!On serial artists, three of whom have books in Artist Collections), and bg-wiki lists them; the evidence for comic share is thin (elemen.jp's notes put screenshots first), and the user chose to include them together, with Vol.1 as the start of the later one
+- Own entry for the two booklets (user, 2026-10-17): the covers show a multi-artist 4-koma team (the Connect!On serial artists, three of whom have books in Artist Collections), and bg-wiki lists them
+  - the evidence for comic share is thin (elemen.jp's notes put screenshots first), and the user chose to include them together, with Vol.1 as the start of the later one
 - Title "Final Fantasy XI ~Vana Panel~" is ours: the printed label is ヴァナ・コマ; parts are titled by the booklet's name (Fun Book, Fun Book Vol.2), not the issue (mine)
 - `titleDate` runs from the first on-sale date (2008-10-27) to the second (2008-12-27), on-sale dates from Amazon, not the NDL months or cover months (mine, per the standing on-sale rule)
-- No `profileUrl` and no JA language link (mine): the KADOKAWA store page covers Vol.24 only and the Vol.26 page was not found; part links are the Google Books edition pages, the best found (no Goodreads record, no catalogue capture)
-- The book row is a DuckDuckGo search with `jpTag`, searched by the ISBN-13 per part, and a `fan-translation` row marked `noResults`, as in Vana Digest (mine)
+- No `profileUrl` and no JA language link (mine): the KADOKAWA store page covers Vol.24 only and the Vol.26 page was not found
+  - part links are the Google Books edition pages, the best found (no Goodreads record, no catalogue capture)
 - The artist names in the description are the three with books in the group, on the cover evidence (mine); the other names are only recorded here
 - Orders `chronoOrder` 5059.7 and `narrativeOrder` 636.97: right after Vana Digest (2008-08 start) in the XI manga block (mine)
 - The booklet's 4-koma sit at the back of a flip booklet: the covers say to read the manga from the back, so the description says "read from the back cover of the screenshot booklet" (mine)

@@ -49,7 +49,10 @@ kadokawa.co.jp (Publisher, Japanese)
 - https://www.kadokawa.co.jp/product/200700004129/ -- profile* -- accessed 2026-10-16: product page 200700004129 (user, 2026-10-16): 旅の恵み, illustrations 金田榮路, 2006-03-30, ISBN 9784757726673; no page count
 
 worldcat.org (Information, library catalog)
-- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 旅の恵み (Enterbrain, 2006); no translation
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16
+  - (the author search, results pages 1 to 7 of 64 pasted by user, logged in)
+  - lists the Japanese ファイナルファンタジー11 : 旅の恵み (Enterbrain, 2006)
+  - no translation
 
 ## Surveyed
 
@@ -60,5 +63,5 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
-- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～旅の恵み～ -- elemen.jp: 2006/03/30, エンターブレイン, はせがわみやび, ASIN 4757726678; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2006/4-7577-2667-8.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～旅の恵み～ -- elemen.jp: 2006/03/30, エンターブレイン, はせがわみやび, ASIN 4757726678
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2006/4-7577-2667-8.html (not archived)

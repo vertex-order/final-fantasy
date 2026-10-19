@@ -20,6 +20,11 @@
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_14 -- story, dates, reception -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia; one page for both the original game and A Realm Reborn): says the original was released in 2010 for Windows, received poorly (Reception section: user interface, performance, "released before it was finished") and was shut down in 2012; the Calamity at its end sends the player five years forward; consistent with the entry (2010-09-30); no new fact
+- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_14 -- story, dates, reception -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia; one page for both the original game and A Realm Reborn)
+  - says the original was released in 2010 for Windows, received poorly (Reception section: user interface, performance, "released before it was finished") and was shut down in 2012
+  - the Calamity at its end sends the player five years forward
+  - consistent with the entry (2010-09-30)
+  - no new fact
 
 ## Decisions

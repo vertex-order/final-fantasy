@@ -38,14 +38,26 @@
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/crystal_chronicles -- story, dates, platforms, co-op* -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Plot, Gameplay, Tribes, Development Team): **written before the 2020 port (user, 2026-10-17)**; it still says the remake is "planned to debut" in 2020 on iOS, Android, PlayStation 4 and Nintendo Switch
-  - Plot: a short summary (a world shared by four races, the Miasma spread by the Meteor Parasite from a meteor that shattered the Great Crystal, settlement crystals kept charged with myrrh from magical trees, the caravans collecting myrrh, the Carbuncles directing them to the parasite); agrees with the entry's description (a caravan from the village of Tipa harvesting myrrh to ward off the Miasma and uncovering its source); the later turns are spoilers and not copied
-  - Release: Nintendo GameCube, Japan 2003 and Europe, North America and Australia in 2004, the first Final Fantasy on a Nintendo console since Final Fantasy VI; consistent with the entry (2003-08-08, native); it mentions a Metacritic score of 80/100; the 2004 release differs from the timeline page's 2004-02-15, which is in docs/wiki-corrections.md
-  - Co-op (user, 2026-10-17): the page describes up to four players at once, each using a Game Boy Advance connected to the GameCube by a link cable, as the game's most unique aspect; this is where the entry's Co-op tag is reflected
-  - It calls the game "Final Fantasy Chronicles" in its first sentence, a slip; its Tribes and Development Team sections are character and developer content, outside our scope; its Links section names only https://www.square-enix.com/
+- https://otakumode.com/otapedia/games/final_fantasy/crystal_chronicles -- story, dates, platforms, co-op* -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Plot, Gameplay, Tribes, Development Team)
+  - **written before the 2020 port (user, 2026-10-17)**
+  - it still says the remake is "planned to debut" in 2020 on iOS, Android, PlayStation 4 and Nintendo Switch
+  - Plot: a short summary (a world shared by four races, the Miasma spread by the Meteor Parasite from a meteor that shattered the Great Crystal, settlement crystals kept charged with myrrh from magical trees, the caravans collecting myrrh, the Carbuncles directing them to the parasite)
+    - agrees with the entry's description (a caravan from the village of Tipa harvesting myrrh to ward off the Miasma and uncovering its source)
+    - the later turns are spoilers and not copied
+  - Release: Nintendo GameCube, Japan 2003 and Europe, North America and Australia in 2004, the first Final Fantasy on a Nintendo console since Final Fantasy VI
+    - consistent with the entry (2003-08-08, native)
+    - it mentions a Metacritic score of 80/100
+    - the 2004 release differs from the timeline page's 2004-02-15, which is in docs/wiki-corrections.md
+  - Co-op (user, 2026-10-17): the page describes up to four players at once, each using a Game Boy Advance connected to the GameCube by a link cable, as the game's most unique aspect
+    - this is where the entry's Co-op tag is reflected
+  - It calls the game "Final Fantasy Chronicles" in its first sentence, a slip
+    - its Tribes and Development Team sections are character and developer content, outside our scope
+    - its Links section names only https://www.square-enix.com/
 
 ## Surveyed
 
-- [FFCC 公式ガイドブック コンプリートエディション](https://magazine.jp.square-enix.com/gamebooks/books/10021) — Square Enix Game Books page for the official guide; title seen in the series listing; details not read — accessed 2026-10-11 — not used: a strategy guide is not a source for the game's fields — empty
+- [FFCC 公式ガイドブック コンプリートエディション](https://magazine.jp.square-enix.com/gamebooks/books/10021) — Square Enix Game Books page for the official guide; title seen in the series listing; details not read — accessed 2026-10-11
+  - not used: a strategy guide is not a source for the game's fields — empty
 
 ## Decisions

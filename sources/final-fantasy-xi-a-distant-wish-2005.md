@@ -83,5 +83,7 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
-- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～遠い願い 上～ -- elemen.jp: 2005/06/20, エンターブレイン, はせがわみやび, ASIN 4757723229; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2322-9.html (not archived); ファイナルファンタジーXI ～遠い願い 下～ -- elemen.jp: 2005/08/29, エンターブレイン, はせがわみやび, ASIN 475772392X; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2392-X.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～遠い願い 上～ -- elemen.jp: 2005/06/20, エンターブレイン, はせがわみやび, ASIN 4757723229
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2322-9.html (not archived)
+  - ファイナルファンタジーXI ～遠い願い 下～ -- elemen.jp: 2005/08/29, エンターブレイン, はせがわみやび, ASIN 475772392X
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2392-X.html (not archived)

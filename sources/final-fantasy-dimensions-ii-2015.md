@@ -24,6 +24,10 @@
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/android_games -- Android platform*, names -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia): lists Final Fantasy Dimensions II (2017) among the Android and iOS releases, and separately lists "Final Fantasy Legends: Toki no Suisho" (2015) as a game developed by Square Enix and Matrix Software; Toki no Suisho is the Japanese title ("Crystal of Space-Time") of this game, so the page lists one game twice, and the entry's description already names its Japanese titles; the entry has Android and iOS rows
+- https://otakumode.com/otapedia/games/final_fantasy/android_games -- Android platform*, names -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia)
+  - lists Final Fantasy Dimensions II (2017) among the Android and iOS releases, and separately lists "Final Fantasy Legends: Toki no Suisho" (2015) as a game developed by Square Enix and Matrix Software
+  - Toki no Suisho is the Japanese title ("Crystal of Space-Time") of this game, so the page lists one game twice, and the entry's description already names its Japanese titles
+  - the entry has Android and iOS rows
 
 ## Decisions

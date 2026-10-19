@@ -112,10 +112,15 @@ plaza.harmonix.ne.jp (Information)
   - Cross-check: Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): Books 8-10, "Der Stolz der Paladine 1-3, Bd 8-10"
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/search/?auth=%E3%81%AF%E3%81%9B%E3%81%8C%E3%82%8F%E3%81%BF%E3%82%84%E3%81%B3&kw=%E9%A8%8E%E5%A3%AB%E3%81%AE%E8%AA%87%E3%82%8A -- profile* -- accessed 2026-10-16: search 騎士の誇り with the author はせがわみやび, confirmed by the user in a browser (2026-10-16) to return exactly the three volumes: 騎士の誇り 1 (2004-07-20), 2 (2004-09-18) and 3 (2004-11-20), light novels, illustrations by 金田榮路 on volumes 1 and 2 each; without the author the keyword also returns unrelated books
+- https://www.kadokawa.co.jp/product/search/?auth=%E3%81%AF%E3%81%9B%E3%81%8C%E3%82%8F%E3%81%BF%E3%82%84%E3%81%B3&kw=%E9%A8%8E%E5%A3%AB%E3%81%AE%E8%AA%87%E3%82%8A -- profile* -- accessed 2026-10-16
+  - search 騎士の誇り with the author はせがわみやび, confirmed by the user in a browser (2026-10-16) to return exactly the three volumes: 騎士の誇り 1 (2004-07-20), 2 (2004-09-18) and 3 (2004-11-20), light novels, illustrations by 金田榮路 on volumes 1 and 2 each
+  - without the author the keyword also returns unrelated books
 
 worldcat.org (Information, library catalog)
-- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- languages* -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the German Der Stolz der Paladine Bd 8, Bd 9 and Bd 10 (Panini-Verl.-GmbH, 2008 and 2009, 1. Aufl); no French edition, and no Japanese record for 騎士の誇り was among the 64 results
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- languages* -- accessed 2026-10-16
+  - (the author search, results pages 1 to 7 of 64 pasted by user, logged in)
+  - lists the German Der Stolz der Paladine Bd 8, Bd 9 and Bd 10 (Panini-Verl.-GmbH, 2008 and 2009, 1. Aufl)
+  - no French edition, and no Japanese record for 騎士の誇り was among the 64 results
 
 ## Surveyed
 
@@ -126,8 +131,12 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
-- The `…?` language row is dropped (user, 2026-10-16): every catalog searched (NDL, DNB, BnF, Library of Congress, BNE, Open Library, Google Books, Goodreads, LibraryThing and WorldCat) shows only the Japanese, French and German editions, so no other official edition is likely; see sources/xi-novels-group.md
-- The book row has no `jpTag` (user, 2026-10-16): official German (Panini, 2008 and 2009) editions exist, so the book is not Japan-only (`jpTag` means no official edition outside Japan, a non-English edition counts); part of the `jpTag` audit, see sources/xi-novels-group.md
-- The book row is the Goodreads series page "Final Fantasy XI Online" (user, 2026-10-16; https://www.goodreads.com/series/252821-final-fantasy-xi-online), replacing the DuckDuckGo search: the docs' first choice, it lists every German volume with its French edition merged in; the Japanese edition is reached through the JA language link, and the fan translation through the `fan-translation` row; see sources/xi-novels-group.md
-- `profileUrl` is the KADOKAWA page above (user, 2026-10-16) and `helpWanted` is removed: the publisher link was the missing piece
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～騎士の誇り1～ -- elemen.jp: 2004/07/20, エンターブレイン, 249p, はせがわみやび, ASIN 4757719353; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-1935-3.html (not archived); ファイナルファンタジーXI ～騎士の誇り2～ -- elemen.jp: 2004/09/18, エンターブレイン, はせがわみやび, ASIN 4757720025; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-2002-5.html (not archived); ファイナルファンタジーXI ～騎士の誇り3～ -- elemen.jp: 2004/11/20, エンターブレイン, はせがわみやび, ASIN 4757720599; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-2059-9.html (not archived)
+- The book row is the Goodreads series page "Final Fantasy XI Online" (user, 2026-10-16; https://www.goodreads.com/series/252821-final-fantasy-xi-online), replacing the DuckDuckGo search: the docs' first choice, it lists every German volume with its French edition merged in
+  - the Japanese edition is reached through the JA language link, and the fan translation through the `fan-translation` row
+  - see sources/xi-novels-group.md
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～騎士の誇り1～ -- elemen.jp: 2004/07/20, エンターブレイン, 249p, はせがわみやび, ASIN 4757719353
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-1935-3.html (not archived)
+  - ファイナルファンタジーXI ～騎士の誇り2～ -- elemen.jp: 2004/09/18, エンターブレイン, はせがわみやび, ASIN 4757720025
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-2002-5.html (not archived)
+  - ファイナルファンタジーXI ～騎士の誇り3～ -- elemen.jp: 2004/11/20, エンターブレイン, はせがわみやび, ASIN 4757720599
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-2059-9.html (not archived)

@@ -29,6 +29,10 @@ wikipedia.org (Information)
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/unlimited -- related media -- accessed 2026-10-17 (fetched by me, text pasted by user; the Unlimited page of Tokyo Otaku Mode's Otapedia): says a serial web novel, After Spiral, was also released; consistent with the entry (a web novel after Unlimited After); no new fact
+- https://otakumode.com/otapedia/games/final_fantasy/unlimited -- related media -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; the Unlimited page of Tokyo Otaku Mode's Otapedia)
+  - says a serial web novel, After Spiral, was also released
+  - consistent with the entry (a web novel after Unlimited After)
+  - no new fact
 
 ## Decisions

@@ -37,23 +37,46 @@ No `by` credit: 16 different artists (the parts' titles name them). The English 
 ## Sources
 
 kadokawa.co.jp (Publisher, Japanese)
-- KADOKAWA product pages for the eight month-only parts -- dates*, lengths -- accessed 2026-10-16 (page text pasted by user): every page gives the on-sale date as the **1st of the month**, the month agreeing with NDL's, so the day is a placeholder and the months stay; each A5, ISBN as in the Editions lines: https://www.kadokawa.co.jp/product/200708000139/ (Uzu: Welcome Back! 2, 2007-09-01, 160p); https://www.kadokawa.co.jp/product/200708000138/ (Yoshida Mitsuru: Plump Butt March, 2007-09-01, 160p); https://www.kadokawa.co.jp/product/200710000016/ (Kobayashi Kotaro: Strangers, 2007-11-01, 160p); https://www.kadokawa.co.jp/product/200711000083/ (Kankucho: GO! GO! Vana'diel!!, 2007-12-01, 240p); https://www.kadokawa.co.jp/product/200810000042/ (Hondaru: Your Songs, My Footsteps, 2008-11-01, 208p); https://www.kadokawa.co.jp/product/200904000130/ (Miho Shimazu: Free Days, 2009-05-01, 160p); https://www.kadokawa.co.jp/product/200904000322/ (Kankucho: GO! GO! Vana'diel!! 2, 2009-06-01, 144p); https://www.kadokawa.co.jp/product/200904000321/ (Kotora: Let's Go Spinning!, 2009-06-01, 144p)
+- KADOKAWA product pages for the eight month-only parts -- dates*, lengths -- accessed 2026-10-16
+  - (page text pasted by user)
+  - every page gives the on-sale date as the **1st of the month**, the month agreeing with NDL's, so the day is a placeholder and the months stay
+  - each A5, ISBN as in the Editions lines: https://www.kadokawa.co.jp/product/200708000139/ (Uzu: Welcome Back! 2, 2007-09-01, 160p)
+  - https://www.kadokawa.co.jp/product/200708000138/ (Yoshida Mitsuru: Plump Butt March, 2007-09-01, 160p)
+  - https://www.kadokawa.co.jp/product/200710000016/ (Kobayashi Kotaro: Strangers, 2007-11-01, 160p)
+  - https://www.kadokawa.co.jp/product/200711000083/ (Kankucho: GO! GO! Vana'diel!!, 2007-12-01, 240p)
+  - https://www.kadokawa.co.jp/product/200810000042/ (Hondaru: Your Songs, My Footsteps, 2008-11-01, 208p)
+  - https://www.kadokawa.co.jp/product/200904000130/ (Miho Shimazu: Free Days, 2009-05-01, 160p)
+  - https://www.kadokawa.co.jp/product/200904000322/ (Kankucho: GO! GO! Vana'diel!! 2, 2009-06-01, 144p)
+  - https://www.kadokawa.co.jp/product/200904000321/ (Kotora: Let's Go Spinning!, 2009-06-01, 144p)
 - https://www.kadokawa.co.jp/product/200700002835/ -- profile*, dates* -- accessed 2026-10-15 (full page text pasted by user): ファイナルファンタジーＸＩ　ＬＡＮＤＳ　ＥＮＤ, 清瀬のどか, 2005-02-25 (NDL 2005.03), ISBN 9784757721395
-- KADOKAWA product search for ファイナルファンタジーXI (200 results) -- dates*, authors -- accessed 2026-10-15 (the result blurbs of the other 21 books pasted by user; **search-result blurbs only: the individual product pages were not opened**): each blurb gives author, release date and format, and the dates in the Editions lines are these; eight are the 1st of a month (2007-09-01 twice, 2007-11-01, 2007-12-01, 2008-11-01, 2009-05-01, 2009-06-01 twice) and agree with NDL's month, so they are kept as months only
+- KADOKAWA product search for ファイナルファンタジーXI (200 results) -- dates*, authors -- accessed 2026-10-15
+  - (the result blurbs of the other 21 books pasted by user; **search-result blurbs only: the individual product pages were not opened**)
+  - each blurb gives author, release date and format, and the dates in the Editions lines are these
+  - eight are the 1st of a month (2007-09-01 twice, 2007-11-01, 2007-12-01, 2008-11-01, 2009-05-01, 2009-06-01 twice) and agree with NDL's month, so they are kept as months only
 
 goodreads.com (Information)
-- Each book's page, found by ISBN search with curl 2026-10-15 (the ISBN search redirects to the book page): the `titleUrl` of each part; none has ratings recorded here; Goodreads credits the artists in Japanese or romanized (Yuu Satuki, Mr paburohu, Kankutyou, Mitiru Yosida, Aru Honda); it credits Ribbon to うず (Uzu), whom bg-wiki does not name; Song of the Summit is titled "Boy meets Girl 2" there; Fatal Connection, Ribbon, Inhabitants, Suzume and Ponkichi have machine-translated English titles and a "Famitsu Clear Comics" label on some pages
+- Each book's page, found by ISBN search with curl 2026-10-15 (the ISBN search redirects to the book page): the `titleUrl` of each part
+  - none has ratings recorded here
+  - Goodreads credits the artists in Japanese or romanized (Yuu Satuki, Mr paburohu, Kankutyou, Mitiru Yosida, Aru Honda)
+  - it credits Ribbon to うず (Uzu), whom bg-wiki does not name
+  - Song of the Summit is titled "Boy meets Girl 2" there
+  - Fatal Connection, Ribbon, Inhabitants, Suzume and Ponkichi have machine-translated English titles and a "Famitsu Clear Comics" label on some pages
 
 bg-wiki.com (Information)
-- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga -- titleUrl* (the `#Personal_Collection_-_Bros` anchor is assumed from the section heading, not tested), volumes*, ISBNs, NDL ids, pages -- accessed 2026-10-14 (full page text pasted by user): sections "Personal Collection - Bros" (16 books), "Personal Collection - Vana'diel" (8, of which Wind of Pray 1 and 2 and the three Claude and Haru books are not here) and "Personal Collection - Misc" (4, of which Love in the Sky has its own entry)
+- https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga -- titleUrl* (the `#Personal_Collection_-_Bros` anchor is assumed from the section heading, not tested), volumes*, ISBNs, NDL ids, pages -- accessed 2026-10-14
+  - (full page text pasted by user)
+  - sections "Personal Collection - Bros" (16 books), "Personal Collection - Vana'diel" (8, of which Wind of Pray 1 and 2 and the three Claude and Haru books are not here) and "Personal Collection - Misc" (4, of which Love in the Sky has its own entry)
 
 books.rakuten.co.jp and amazon.co.jp (Information; Uzu: Welcome Back! 2, checked for a real day, 2026-10-16, page text pasted by user)
 - https://books.rakuten.co.jp/rb/4507879/ -- 発売日 **2007年08月** (month only, and August, a month before the others), label Bros.comics EX, Enterbrain / KADOKAWAエンタメ, 156p, ISBN 9784757737020
-- https://www.amazon.co.jp/dp/4757737025 -- published **September 1, 2007** (the publisher's 1st again), 156 pages, 259 g, Bros.comics EX, rated 4.2 from 5; the blurb: Uzu's second personal collection, with comics drawn so far, memorial comments on past works and new comics
+- https://www.amazon.co.jp/dp/4757737025 -- published **September 1, 2007** (the publisher's 1st again), 156 pages, 259 g, Bros.comics EX, rated 4.2 from 5
+  - the blurb: Uzu's second personal collection, with comics drawn so far, memorial comments on past works and new comics
 - So no source gives a day: KADOKAWA, Amazon and NDL say September 2007, Rakuten August 2007; three sources give 156 pages against KADOKAWA's 160; the part stays 2007-09
 
 ndlsearch.ndl.go.jp (Information)
-- https://ndlsearch.ndl.go.jp/books/R100000002-I000009095589 (NDL 000009095589; found through NDL's SRU API by ISBN 9784757737020, 2026-10-16) -- Uzu: Welcome Back! 2 -- dates: **2007.9, month only, issued 2007**; 156p, 21cm, series Bros.comics EX, volume 2 (the publisher's page says 160p and 2007-09-01); so NDL gives no day for these eight either
+- https://ndlsearch.ndl.go.jp/books/R100000002-I000009095589 (NDL 000009095589; found through NDL's SRU API by ISBN 9784757737020, 2026-10-16) -- Uzu: Welcome Back! 2 -- dates: **2007.9, month only, issued 2007**
+  - 156p, 21cm, series Bros.comics EX, volume 2 (the publisher's page says 160p and 2007-09-01)
+  - so NDL gives no day for these eight either
 - the NDL ids above, months only; no record was read in full
 
 ## Surveyed
@@ -69,13 +92,23 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Story and gag mixed in (user, 2026-10-15): the collections mix story and gag (Plump Butt March, Free Days and Inhabitants are mostly gag), and story outweighs comedy, so none is left out
 - Parts are titled artist first, "Artist: Book" (user, 2026-10-15): `contents[]` has no credit field and the artist is what a reader chooses by; the English artist names are our romanization
 - The three player-diary books (Haruu, Suzume, Ponkichi) are kept in (user, 2026-10-14)
-- Parts are sorted by artist, then full date, then title (user, 2026-10-15), for this list only: the entry is single-artist collections with several volumes per artist, so the artist leads; other lists keep date order or a custom narrative order
+- Parts are sorted by artist, then full date, then title (user, 2026-10-15), for this list only: the entry is single-artist collections with several volumes per artist, so the artist leads
+  - other lists keep date order or a custom narrative order
 - The parts set `narrativeOrder` and `chronoOrder` (10 to 220, gaps of 10) so the artist-first order is stated, not incidental; release modes sort them by date (user, 2026-10-15)
 - Parts are unnumbered (bullets, `num: false`): the books are independent, not a numbered series
 - Left out: Wind of Pray 1 and 2 (the Winds of Prayer manga entry), the Claude and Haru books (their own entry, planned), Love in the Sky (its own entry), the two anthology lines and the magazine supplements (see sources/final-fantasy-xi-anthology-comic-2002.md)
 - No JA language URL (no Goodreads search lists the 22 books together), no book-row search (every part links to its Goodreads page), no rating (no trusted score)
-- The book platform has `opensContents: true` (user, 2026-10-15): clicking it opens the list of volumes, where each volume's link is
-- A `fan-translation` row was added (2026-10-16): a DuckDuckGo search on the series' English title, marked `noResults` (no results yet; not searched by us); it is the series search, not one per part, and the book row stays the official Japanese print
-- The description ends "Parts were originally published in Vana Digest (2008)." (user, 2026-10-16: "Parts were originally published in" when only parts): Uzu's Ribbon was a serial in vol.1 to 7 of the mook (ja.wikipedia), collected as Ribbon in 2010; the other volumes were not checked for a mook origin, so only Ribbon is named
-- The eight month-only dates stay months, and only those (user, 2026-10-16): the publisher's pages list only the 1st of the month, a placeholder, and NDL, Rakuten and Amazon give no day either; the other parts keep their full dates where we have them
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/comic_enterbrain.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXIのマンガ? 特刊すずめ自身 -- elemen.jp: 2010/03/03, エンターブレイン, 128p, すずめ, ASIN 4047263524; official page (Wayback 2012, http://www.enterbrain.co.jp/product/mook/fami_books/09441501.html): 978-4-04-726352-9, 2010-03-03, A5, 128p; ファイナルファンタジーXI Fatal Connection -- elemen.jp: 2010/07/15, エンターブレイン, 小林こたろ, ASIN 4047266728; official page (Wayback 2012, http://www.enterbrain.co.jp/product/comic/fami_cr/09571401.html): 978-4-04-726672-8, 2010-07-15, B6, 176p; ファイナルファンタジーXI リボン -- elemen.jp: 2010/08/11, エンターブレイン, うず, ASIN 4047267066; official page (Wayback 2012, http://www.enterbrain.co.jp/product/comic/fami_cr/10568301.html): 978-4-04-726706-0, 2010-08-11, B6, 208p; ファイナルファンタジーXI もきゅっとヴァナ日記 ぽん吉ぼん -- elemen.jp: 2010/08/27, エンターブレイン, ぽん吉, ASIN 4047266949; official page (Wayback 2012, http://www.enterbrain.co.jp/product/mook/mook/10441001.html): 978-4-04-726694-0, 2010-08-27, A5変型, 256p; ファイナルファンタジーXI -ヴァナ・ディールの住人たち- -- elemen.jp: 2010/09/15, エンターブレイン, 高広, ASIN 4047267546; official page (Wayback 2012, http://www.enterbrain.co.jp/product/comic/fami_cr/10569101.html): 978-4-04-726754-1, 2010-09-15, B6, 176p
+- A `fan-translation` row was added (2026-10-16): a DuckDuckGo search on the series' English title, marked `noResults` (no results yet; not searched by us)
+  - it is the series search, not one per part, and the book row stays the official Japanese print
+- The eight month-only dates stay months, and only those (user, 2026-10-16): the publisher's pages list only the 1st of the month, a placeholder, and NDL, Rakuten and Amazon give no day either
+  - the other parts keep their full dates where we have them
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/comic_enterbrain.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXIのマンガ? 特刊すずめ自身 -- elemen.jp: 2010/03/03, エンターブレイン, 128p, すずめ, ASIN 4047263524
+  - official page (Wayback 2012, http://www.enterbrain.co.jp/product/mook/fami_books/09441501.html): 978-4-04-726352-9, 2010-03-03, A5, 128p
+  - ファイナルファンタジーXI Fatal Connection -- elemen.jp: 2010/07/15, エンターブレイン, 小林こたろ, ASIN 4047266728
+  - official page (Wayback 2012, http://www.enterbrain.co.jp/product/comic/fami_cr/09571401.html): 978-4-04-726672-8, 2010-07-15, B6, 176p
+  - ファイナルファンタジーXI リボン -- elemen.jp: 2010/08/11, エンターブレイン, うず, ASIN 4047267066
+  - official page (Wayback 2012, http://www.enterbrain.co.jp/product/comic/fami_cr/10568301.html): 978-4-04-726706-0, 2010-08-11, B6, 208p
+  - ファイナルファンタジーXI もきゅっとヴァナ日記 ぽん吉ぼん -- elemen.jp: 2010/08/27, エンターブレイン, ぽん吉, ASIN 4047266949
+  - official page (Wayback 2012, http://www.enterbrain.co.jp/product/mook/mook/10441001.html): 978-4-04-726694-0, 2010-08-27, A5変型, 256p
+  - ファイナルファンタジーXI -ヴァナ・ディールの住人たち- -- elemen.jp: 2010/09/15, エンターブレイン, 高広, ASIN 4047267546
+  - official page (Wayback 2012, http://www.enterbrain.co.jp/product/comic/fami_cr/10569101.html): 978-4-04-726754-1, 2010-09-15, B6, 176p

@@ -59,9 +59,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_6 -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Final Fantasy VI Plot, Gameplay, Play Modes, Characters, Development)
+- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_6 -- story, dates, platforms -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Final Fantasy VI Plot, Gameplay, Play Modes, Characters, Development)
   - Final Fantasy VI Plot: a very short summary (the Gestahlian Empire against the Returners, the experiments on espers, Terra Branford); agrees with the entry's premise; no new fact
   - Release: Japan 1994 on the Super Famicom, the first game without Sakaguchi as director (Kitase and Ito instead), later ports (iOS, Android, PlayStation, Game Boy Advance, Windows); consistent with the entry (1994-04-02)
-  - Its Development section links a Siliconera article, "Director Kitase - FF6 Took 1 Year to Complete" (https://www.siliconera.com/final-fantasy-vi-took-just-one-year-to-make-says-director-yoshinori-kitase/): developer interview content, outside our scope; not read by me
+  - Its Development section links a Siliconera article, "Director Kitase - FF6 Took 1 Year to Complete" (https://www.siliconera.com/final-fantasy-vi-took-just-one-year-to-make-says-director-yoshinori-kitase/): developer interview content, outside our scope
+    - not read by me
 
 ## Decisions

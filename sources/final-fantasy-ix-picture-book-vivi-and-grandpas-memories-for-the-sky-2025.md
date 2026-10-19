@@ -43,10 +43,12 @@ store.jp.square-enix.com (Information)
 - https://store.jp.square-enix.com/estore/g/g9784757598737/ — dates (JA July 2, 2025), series (ファイナルファンタジーIX), genre (えほん), size (B5 variant) — accessed 2026-10-09 — archived: TODO
 
 goodreads.com (Information)
-- https://www.goodreads.com/book/show/238657202 — languages* (JA), credits (青木和彦, 板鼻利幸 (Illustrator)), dates (JA July 2, 2025), length (48 pages, Paperback; magazine says 44, publisher English says 48) — accessed 2026-10-09 — archived: TODO
+- https://www.goodreads.com/book/show/238657202 — languages* (JA), credits (青木和彦, 板鼻利幸 (Illustrator)), dates (JA July 2, 2025), length (48 pages, Paperback; magazine says 44, publisher English says 48) — accessed 2026-10-09
+  - archived: TODO
 
 goodreads.com (Ratings)
-- https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book — ratings* (4.44, 73 ratings), languages* (EN), credits, dates (May 19, 2026), length (44 pages; publisher says 48, publisher wins) — accessed 2026-10-09 — archived: TODO
+- https://www.goodreads.com/book/show/240381479-final-fantasy-ix-picture-book — ratings* (4.44, 73 ratings), languages* (EN), credits, dates (May 19, 2026), length (44 pages; publisher says 48, publisher wins) — accessed 2026-10-09
+  - archived: TODO
 
 youtube.com (Information)
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20IX%20Picture%20Book%3A%20Vivi%20and%20Grandpa%27s%20Memories%20for%20the%20Sky%20audiobook -- audiobook* (results exist) -- accessed 2026-10-08

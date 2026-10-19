@@ -48,7 +48,8 @@ finalfantasy.fandom.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Chocobo_and_the_Airship:_A_Final_Fantasy_Picture_Book — title link*, ISBN (4757574983 — the Japanese ISBN10 — and 9781646092031) — accessed 2026-10-10 — archived: TODO
 
 magazine.jp.square-enix.com (Information)
-- https://magazine.jp.square-enix.com/gamebooks/books/10412 — dates* (JA December 16, 2021; start of `titleDate`, Japanese release authoritative), length (40 pages, 4-color), size (B5 variant, 180 x 180 mm), ISBN — accessed 2026-10-09 — archived: TODO
+- https://magazine.jp.square-enix.com/gamebooks/books/10412 — dates* (JA December 16, 2021; start of `titleDate`, Japanese release authoritative), length (40 pages, 4-color), size (B5 variant, 180 x 180 mm), ISBN — accessed 2026-10-09
+  - archived: TODO
 
 store.jp.square-enix.com (Information)
 - https://store.jp.square-enix.com/estore/g/g9784757574984/ — dates (JA December 16, 2021), series (ファイナルファンタジー その他), genre (えほん) — accessed 2026-10-09 — archived: TODO
@@ -57,7 +58,8 @@ ndlsearch.ndl.go.jp (Information)
 - http://id.ndl.go.jp/bib/031845083 — dates (JA December 2021; month precision), credits, size — accessed 2026-10-09 — archived: TODO
 
 google.com/books (Information)
-- https://www.google.com/books/edition/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%81%88%E3%81%BB/xF2lzgEACAAJ — dates (JA December 2021), credits, ISBN — accessed 2026-10-09 — archived: TODO
+- https://www.google.com/books/edition/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%81%88%E3%81%BB/xF2lzgEACAAJ — dates (JA December 2021), credits, ISBN — accessed 2026-10-09
+  - archived: TODO
 - https://www.google.com/books/edition/_/fblTEAAAQBAJ — dates (JA ebook December 16, 2021), length (48 pages) — accessed 2026-10-09 — archived: TODO
 
 goodreads.com (Ratings)

@@ -38,7 +38,8 @@ ISBN 9783833214554 (ISBN10: 3833214554), German "Das Lied des Sturms" (Bd 1), Pa
 - google books: https://www.google.com/books/edition/_/ipzyPAAACAAJ — accessed 2026-10-09 (299 pages; Panini-Verlag-GmbH, 2006; blurb: Al and the magic adept Iris, the same Al as the Japanese blurb)
 - worldcat: https://search.worldcat.org/title/1280870564 — accessed 2026-10-09 ("Final fantasy XI 1. Das Lied des Sturms", Panini-Verl.-GmbH, 2006; its "eBook" format looks like a catalog error)
 - worldcat: https://search.worldcat.org/title/965434482 — accessed 2026-10-09 (print, 2006, publisher listed as Dino, Stuttgart, Panini's German arm then; summary is the Google Books blurb; same Amazon listing as the other)
-- amazon: https://www.amazon.ca/dp/3833214554 — accessed 2026-10-09 ("Final Fantasy XI Bd. 01", paperback, published November 1, 2006 (Goodreads: November 15), 280 g, 12 x 2.1 x 18 cm; none of these records names the Japanese original)
+- amazon: https://www.amazon.ca/dp/3833214554 — accessed 2026-10-09
+  - ("Final Fantasy XI Bd. 01", paperback, published November 1, 2006 (Goodreads: November 15), 280 g, 12 x 2.1 x 18 cm; none of these records names the Japanese original)
 - open library: https://openlibrary.org/search?isbn=9783833214554
 
 ISBN 9782265085596 (ISBN10: 2265085596), French "Le chant de la tempête" (Tome 1), Fleuve Noir, January 18, 2007, 222 pages, Mass Market Paperback — per goodreads + BnF + NDL — FR language link*, rating*
@@ -130,7 +131,9 @@ plaza.harmonix.ne.jp (Information)
   - Cross-check: Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): Book 1, "Das Lied des Sturms, Bd 1"
 
 worldcat.org (Information, library catalog)
-- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- languages*, dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 祈りの風 (Enterbrain, 2003), the French print Le chant de la tempête (Fleuve noir, impr. 2007; Miyabi Hasegawa, translator Cécile Sénaux; series Final fantasy XI on line) and the German Das Lied des Sturms (Dino, Stuttgart, 2006) plus a German eBook record (Panini-Verl.-GmbH, 2006, marked open access) of the same title
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- languages*, dates -- accessed 2026-10-16
+  - (the author search, results pages 1 to 7 of 64 pasted by user, logged in)
+  - lists the Japanese ファイナルファンタジー11 : 祈りの風 (Enterbrain, 2003), the French print Le chant de la tempête (Fleuve noir, impr. 2007; Miyabi Hasegawa, translator Cécile Sénaux; series Final fantasy XI on line) and the German Das Lied des Sturms (Dino, Stuttgart, 2006) plus a German eBook record (Panini-Verl.-GmbH, 2006, marked open access) of the same title
 
 ## Surveyed
 
@@ -148,8 +151,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - Date: `2002-12-20`, the publisher's (KADOKAWA product page) and the author's page; replaces Goodreads' 2002-12-18
   - NDL and bg-wiki's 2003.01 is probably NDL's cataloging month, as with the XIV Adventure Log
-- The XI novel section stays as separate entries, not one `contents[]` roll-up (user, 2026-10-15): the 19 entries in the Novels section (Hasegawa's numbered series, Books 1 to 32, in reading order; already rolled up per multi-volume arc) each have their own description, mostly about a different cast, and some have a rating or a FR/DE edition, which a part cannot carry; this file is the series' first book. Left open: whether the series reads as one continuous story (which would favour a single numbered roll-up), a section note saying it is one numbered series read in order, and `contents[]` on the eight 2 to 3 volume arcs
-- The book row has no `jpTag` (user, 2026-10-16): official French (Fleuve Noir, 2007, translated by Cécile Sénaux) and German (Panini, 2006, translated by Kaoru Iriyama-Gürtler) editions exist, so the book is not Japan-only; part of the `jpTag` audit (a book row's `jpTag` should agree with the entry's official languages)
-- The `…?` language row is dropped (user, 2026-10-16): every catalog searched (NDL, DNB, BnF, Library of Congress, BNE, Open Library, Google Books, Goodreads, LibraryThing and WorldCat) shows only the Japanese, French and German editions, so no other official edition is likely; see sources/xi-novels-group.md; `helpWanted` is removed too
-- The book row is the Goodreads series page "Final Fantasy XI Online" (user, 2026-10-16; https://www.goodreads.com/series/252821-final-fantasy-xi-online), replacing the DuckDuckGo search: the docs' first choice, it lists every German volume with its French edition merged in; the Japanese edition is reached through the JA language link, and the fan translation through the `fan-translation` row; see sources/xi-novels-group.md
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～祈りの風～ -- elemen.jp: 2002/12/20, エンターブレイン, 286p, はせがわみやび, ASIN 4757712448; official page (Wayback 2010, http://www.enterbrain.co.jp/jp/p_catalog/book/2002/4-7577-1244-8.html): 4-7577-1244-8, 2002-12-20
+- The XI novel section stays as separate entries, not one `contents[]` roll-up (user, 2026-10-15): the 19 entries in the Novels section (Hasegawa's numbered series, Books 1 to 32, in reading order; already rolled up per multi-volume arc) each have their own description, mostly about a different cast, and some have a rating or a FR/DE edition, which a part cannot carry
+  - this file is the series' first book. Left open: whether the series reads as one continuous story (which would favour a single numbered roll-up), a section note saying it is one numbered series read in order, and `contents[]` on the eight 2 to 3 volume arcs
+- The book row is the Goodreads series page "Final Fantasy XI Online" (user, 2026-10-16; https://www.goodreads.com/series/252821-final-fantasy-xi-online), replacing the DuckDuckGo search: the docs' first choice, it lists every German volume with its French edition merged in
+  - the Japanese edition is reached through the JA language link, and the fan translation through the `fan-translation` row
+  - see sources/xi-novels-group.md
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～祈りの風～ -- elemen.jp: 2002/12/20, エンターブレイン, 286p, はせがわみやび, ASIN 4757712448
+  - official page (Wayback 2010, http://www.enterbrain.co.jp/jp/p_catalog/book/2002/4-7577-1244-8.html): 4-7577-1244-8, 2002-12-20

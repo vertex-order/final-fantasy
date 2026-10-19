@@ -16,6 +16,9 @@
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/derivative_games -- story, tags -- accessed 2026-10-17 (fetched by me, text pasted by user): in its Final Fantasy XV Universe list, calls the Platinum Demo "a free-to-play prologue to Final Fantasy XV when the main character Noctis is 8 years old"; agrees with the entry's description (a prologue set in a dream world after Noctis is gravely wounded as a child)
+- https://otakumode.com/otapedia/games/final_fantasy/derivative_games -- story, tags -- accessed 2026-10-17
+  - (fetched by me, text pasted by user)
+  - in its Final Fantasy XV Universe list, calls the Platinum Demo "a free-to-play prologue to Final Fantasy XV when the main character Noctis is 8 years old"
+  - agrees with the entry's description (a prologue set in a dream world after Noctis is gravely wounded as a child)
 
 ## Decisions

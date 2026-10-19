@@ -36,16 +36,20 @@ goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/85601685 — languages* (JA), ratings* (NYR; 0 ratings, 0 reviews), format (Paperback Bunko) — accessed 2026-10-10 — archived: TODO
 
 amazon.co.jp (Information)
-- https://www.amazon.co.jp/dp/4047269654 — format (Paperback Bunko), dates (December 25, 2010), length* (296 pages), credits (author はせがわみやび; illustrator 吉田明彦; one more contributor), 4.0 of 5 from 6 ratings, not used — accessed 2026-10-10 — archived: TODO
+- https://www.amazon.co.jp/dp/4047269654 — format (Paperback Bunko), dates (December 25, 2010), length* (296 pages), credits (author はせがわみやび; illustrator 吉田明彦; one more contributor), 4.0 of 5 from 6 ratings, not used — accessed 2026-10-10
+  - archived: TODO
 
 google.com/books (Information)
-- https://www.google.com/books/edition/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC14/thleYgEACAAJ — dates (December 2010), length (254 pages), story (blurb), ISBN — accessed 2026-10-10 — archived: TODO
+- https://www.google.com/books/edition/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC14/thleYgEACAAJ — dates (December 2010), length (254 pages), story (blurb), ISBN — accessed 2026-10-10
+  - archived: TODO
 
 kadokawa.co.jp (Information)
-- https://www.kadokawa.co.jp/product/201010000382/ — profile*, dates* (December 25, 2010), length* (296 pages, A6), credits (はせがわみやび), story ("ファイナルファンタジーXIVノベライズがいよいよスタート！", the start of the XIV novelizations) — accessed 2026-10-10 — archived: TODO
+- https://www.kadokawa.co.jp/product/201010000382/ — profile*, dates* (December 25, 2010), length* (296 pages, A6), credits (はせがわみやび), story ("ファイナルファンタジーXIVノベライズがいよいよスタート！", the start of the XIV novelizations) — accessed 2026-10-10
+  - archived: TODO
 
 ndlsearch.ndl.go.jp (Information)
-- http://id.ndl.go.jp/bib/000011087648 — dates (JA 2011.1), length (254 p, 15 cm), ISBN (978-4-04-726965-1 = 9784047269651, agrees), credits, series (ファミ通文庫 ; 996 [Special story], parallel name Famitsu Bunko), NDC 913.6 — accessed 2026-10-10 — archived: TODO
+- http://id.ndl.go.jp/bib/000011087648 — dates (JA 2011.1), length (254 p, 15 cm), ISBN (978-4-04-726965-1 = 9784047269651, agrees), credits, series (ファミ通文庫 ; 996 [Special story], parallel name Famitsu Bunko), NDC 913.6 — accessed 2026-10-10
+  - archived: TODO
 
 wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga — title link*
@@ -61,4 +65,3 @@ duckduckgo.com (Information)
 
 ## Decisions
 
-- Date and length follow the publisher (KADOKAWA): 2010-12-25 and 296 pages, over NDL's 2011.1 and 254 pages.

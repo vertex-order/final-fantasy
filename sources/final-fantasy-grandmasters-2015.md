@@ -12,6 +12,10 @@
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_11 -- tie-in, dates -- accessed 2026-10-17 (fetched by me, text pasted by user; the Final Fantasy XI page of Tokyo Otaku Mode's Otapedia): calls Final Fantasy Grandmasters a spinoff of Final Fantasy XI released for mobile in 2015; consistent with the entry (a tie-in in the XI group, 2015-09-30); no new fact
+- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_11 -- tie-in, dates -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; the Final Fantasy XI page of Tokyo Otaku Mode's Otapedia)
+  - calls Final Fantasy Grandmasters a spinoff of Final Fantasy XI released for mobile in 2015
+  - consistent with the entry (a tie-in in the XI group, 2015-09-30)
+  - no new fact
 
 ## Decisions

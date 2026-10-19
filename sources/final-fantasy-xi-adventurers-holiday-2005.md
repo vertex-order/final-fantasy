@@ -48,7 +48,10 @@ kadokawa.co.jp (Publisher, Japanese)
 - https://www.kadokawa.co.jp/product/200700004032/ -- profile* -- accessed 2026-10-16: product page 200700004032 (user, 2026-10-16): 冒険者の休日, 2005-03-22, ISBN 9784757722071; no page count
 
 worldcat.org (Information, library catalog)
-- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 冒険者の休日 (Enterbrain, 2005); no translation
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16
+  - (the author search, results pages 1 to 7 of 64 pasted by user, logged in)
+  - lists the Japanese ファイナルファンタジー11 : 冒険者の休日 (Enterbrain, 2005)
+  - no translation
 
 ## Surveyed
 
@@ -59,5 +62,5 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
-- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～冒険者の休日～ -- elemen.jp: 2005/03/22, エンターブレイン, はせがわみやび, ASIN 4757722079; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2207-9.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～冒険者の休日～ -- elemen.jp: 2005/03/22, エンターブレイン, はせがわみやび, ASIN 4757722079
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2207-9.html (not archived)

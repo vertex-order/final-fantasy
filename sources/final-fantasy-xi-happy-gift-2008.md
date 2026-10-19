@@ -45,13 +45,19 @@ plaza.harmonix.ne.jp (Information)
   - The author's own book list; text pasted by user, not opened or archived
   - Book 25 in the series: counted from the page's release-ordered FF11 list; the page prints no series numbers
   - Sale dates on the page, not the entry's day-level dates: 〜ハッピーギフト〜 2008-03-29
-  - Cross-check: ja.wikipedia (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB)): volume 25 illustrated by Fumio Minagawa; this book's illustrator is Minagawa
+  - Cross-check: ja.wikipedia (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA_(%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E6%96%87%E5%BA%AB)): volume 25 illustrated by Fumio Minagawa
+    - this book's illustrator is Minagawa
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/200803000263/ -- profile* -- accessed 2026-10-16: product page 200803000263 (page text pasted by user 2026-10-16): ハッピーギフト, A6, 328 pages (the entry has 313p; publisher pages can include front matter), 2008-03-29, ISBN 9784757740815; blurb: a new series starts as a collaboration with Vana-dori (ヴァナ通)
+- https://www.kadokawa.co.jp/product/200803000263/ -- profile* -- accessed 2026-10-16
+  - product page 200803000263 (page text pasted by user 2026-10-16): ハッピーギフト, A6, 328 pages (the entry has 313p; publisher pages can include front matter), 2008-03-29, ISBN 9784757740815
+  - blurb: a new series starts as a collaboration with Vana-dori (ヴァナ通)
 
 worldcat.org (Information, library catalog)
-- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : ハッピーギフト (Enterbrain, 2008); no translation
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16
+  - (the author search, results pages 1 to 7 of 64 pasted by user, logged in)
+  - lists the Japanese ファイナルファンタジー11 : ハッピーギフト (Enterbrain, 2008)
+  - no translation
 
 ## Surveyed
 
@@ -62,6 +68,5 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
-- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
-- `length` is `328p; A6` (user, 2026-10-16): the native publisher's (KADOKAWA) page count and size, not the earlier 313p; we use the native publisher's count when there is no English edition
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ハッピーギフト -- elemen.jp: 2008/03/29, エンターブレイン, はせがわみやび, ASIN 4757740816; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2008/978-4-7577-4081-5.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ハッピーギフト -- elemen.jp: 2008/03/29, エンターブレイン, はせがわみやび, ASIN 4757740816
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2008/978-4-7577-4081-5.html (not archived)

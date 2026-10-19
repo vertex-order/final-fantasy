@@ -20,8 +20,12 @@
 ## otakumode.com (Information)
 
 - https://otakumode.com/otapedia/games/final_fantasy/spirits_within -- story, credits, dates -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Plot, Characters, Reception)
-  - Plot: a long summary (Earth in 2065, the alien Phantoms, barrier cities, Aki Ross infected, Doctor Sid and the eight spirit signatures, Gray Edwards and the Deep Eyes, General Hein and the Zeus cannon); agrees with the entry's description (2065, Earth infested by Phantoms that kill when touched, humans struggling to free the planet); the rest is spoilers and not copied
-  - Credits: a computer-animated science-fiction film, released in 2001, the first photorealistic computer-animated feature, directed by Motonori Sakakibara and Hironobu Sakaguchi, with a cast including Ming-Na Wen, Alec Baldwin, James Woods, Donald Sutherland, Ving Rhames, Steve Buscemi and Peri Gilpin, and a score by Elliot Goldenthal; mixed reviews; the Characters and Reception sections (box office, critics) are outside our scope
+  - Plot: a long summary (Earth in 2065, the alien Phantoms, barrier cities, Aki Ross infected, Doctor Sid and the eight spirit signatures, Gray Edwards and the Deep Eyes, General Hein and the Zeus cannon)
+    - agrees with the entry's description (2065, Earth infested by Phantoms that kill when touched, humans struggling to free the planet)
+    - the rest is spoilers and not copied
+  - Credits: a computer-animated science-fiction film, released in 2001, the first photorealistic computer-animated feature, directed by Motonori Sakakibara and Hironobu Sakaguchi, with a cast including Ming-Na Wen, Alec Baldwin, James Woods, Donald Sutherland, Ving Rhames, Steve Buscemi and Peri Gilpin, and a score by Elliot Goldenthal
+    - mixed reviews
+    - the Characters and Reception sections (box office, critics) are outside our scope
   - **Date:** en.wikipedia gives the Los Angeles premiere (2001-07-02) and the US release (2001-07-11); the entry uses the release
   - Its Links section names only https://www.square-enix.com/
 

@@ -43,45 +43,72 @@ ISBN 9788868839284 (ISBN-10 8868839288), Italian "Final Fantasy Type-0: Il mieti
 ## Sources
 
 magazine.jp.square-enix.com (Publisher)
-- https://magazine.jp.square-enix.com/top/comics/detail/9784757537262/ — dates* (Vol.1 released 2012年9月22日: start of the `titleDate` range), ISBN, format (B6), credits (作画 塩沢天人志; 監修 野村哲也), story (Kurasame, Class Zero's commander, once one of the four Vermillion elite) — accessed 2026-10-10 — archived: TODO
-- https://magazine.jp.square-enix.com/top/comics/detail/9784757542426/ — dates* (Vol.5, the final volume, released 2014年4月22日: end of the `titleDate` range), ISBN, format (B6), credits (art 塩沢天人志; 監修 野村哲也), story (the assassination of Emperor Cid) — accessed 2026-10-10 — archived: TODO
+- https://magazine.jp.square-enix.com/top/comics/detail/9784757537262/ — dates* (Vol.1 released 2012年9月22日: start of the `titleDate` range), ISBN, format (B6), credits (作画 塩沢天人志; 監修 野村哲也), story (Kurasame, Class Zero's commander, once one of the four Vermillion elite) — accessed 2026-10-10
+  - archived: TODO
+- https://magazine.jp.square-enix.com/top/comics/detail/9784757542426/ — dates* (Vol.5, the final volume, released 2014年4月22日: end of the `titleDate` range), ISBN, format (B6), credits (art 塩沢天人志; 監修 野村哲也), story (the assassination of Emperor Cid) — accessed 2026-10-10
+  - archived: TODO
 
 yenpress.com (Publisher, English)
-- https://yenpress.com/series/final-fantasy-type-0-side-story — profile*, credits*: English series page (Yen Press, not Square Enix); lists all 5 volumes; credits Tetsuya Nomura as author and Takatoshi Shiozawa as artist (Yen Press's credit; Japanese pages credit Nomura as supervision only) — accessed 2026-10-10 — archived: TODO
-- https://yenpress.com/titles/9780316269384-final-fantasy-type-0-side-story-vol-3 — Vol.3: January 26, 2016, print ISBN 9780316268912, digital 9780316269384, translators Alethea and Athena Nibley — accessed 2026-10-10 — archived: TODO
+- https://yenpress.com/series/final-fantasy-type-0-side-story — profile*, credits*: English series page (Yen Press, not Square Enix); lists all 5 volumes; credits Tetsuya Nomura as author and Takatoshi Shiozawa as artist (Yen Press's credit; Japanese pages credit Nomura as supervision only) — accessed 2026-10-10
+  - archived: TODO
+- https://yenpress.com/titles/9780316269384-final-fantasy-type-0-side-story-vol-3 — Vol.3: January 26, 2016, print ISBN 9780316268912, digital 9780316269384, translators Alethea and Athena Nibley — accessed 2026-10-10
+  - archived: TODO
   - Volume dates from search results (not yet opened per page): Vol.1 July 21, 2015; Vol.2 Nov 2015; Vol.4 April 26, 2016; Vol.5 July 26, 2016
 
 gangan.square-enix.co.jp (Publisher)
-- http://gangan.square-enix.co.jp/introduction/ff_type_0_gaiden/ — the official Japanese site for the series; redirects to https://magazine.jp.square-enix.com/gangan/introduction/ff_type_0_gaiden/, which is also gone now (404; checked by user) — credits (塩沢天人志; 監修 野村哲也; no writer or scenario credit), story (the young Kurasame and the four Vermillion elite: their battles, glory and hidden secrets), characters (Kurasame, Glen, Miwa, Kotetsu, Kazusa, Emina), keywords, volumes 1-5 listed — accessed 2026-10-10 (Wayback capture text pasted by user) — archived: http://web.archive.org/web/20181009191715/http://gangan.square-enix.co.jp:80/introduction/ff_type_0_gaiden/ (the old domain itself, 2018-10-09; the 2019-11-19 capture is of the redirect target, https://web.archive.org/web/20191119053507/https://magazine.jp.square-enix.com/gangan/introduction/ff_type_0_gaiden/)
+- http://gangan.square-enix.co.jp/introduction/ff_type_0_gaiden/ — the official Japanese site for the series; redirects to https://magazine.jp.square-enix.com/gangan/introduction/ff_type_0_gaiden/, which is also gone now (404; checked by user) — credits (塩沢天人志; 監修 野村哲也; no writer or scenario credit), story (the young Kurasame and the four Vermillion elite: their battles, glory and hidden secrets), characters (Kurasame, Glen, Miwa, Kotetsu, Kazusa, Emina), keywords, volumes 1-5 listed — accessed 2026-10-10
+  - (Wayback capture text pasted by user)
+  - archived: http://web.archive.org/web/20181009191715/http://gangan.square-enix.co.jp:80/introduction/ff_type_0_gaiden/ (the old domain itself, 2018-10-09; the 2019-11-19 capture is of the redirect target, https://web.archive.org/web/20191119053507/https://magazine.jp.square-enix.com/gangan/introduction/ff_type_0_gaiden/)
 
 ja.wikipedia.org (Information)
-- https://ja.wikipedia.org/wiki/%E6%9C%88%E5%88%8A%E5%B0%91%E5%B9%B4%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3 — dates* ("FINAL FANTASY 零式外伝 氷剣の死神: 2012年5月号 - 2014年2月号"; drawn by 塩沢天人志, supervised by 野村哲也; no writer named, as on the official pages: the issue range behind titleDate, May 2012 on sale April 11, 2012 to the February 2014 issue month) — accessed 2026-10-11 (Firefox machine translation pasted by user)
-- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E9%9B%B6%E5%BC%8F#漫画 — serialized from May 2012 to February 2014: 22 episodes plus one extra; volume 1 September 22, 2012 (episodes 1-4), 2 January 22, 2013 (5-8), 3 June 22, 2013 (9-13), 4 November 22, 2013 (14-18), 5 April 22, 2014 (19-22 and the extra, in which the Agito Class Zero children appear) — accessed 2026-10-11 (Firefox machine translation pasted by user)
+- https://ja.wikipedia.org/wiki/%E6%9C%88%E5%88%8A%E5%B0%91%E5%B9%B4%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3 — dates* ("FINAL FANTASY 零式外伝 氷剣の死神: 2012年5月号 - 2014年2月号"; drawn by 塩沢天人志, supervised by 野村哲也; no writer named, as on the official pages: the issue range behind titleDate, May 2012 on sale April 11, 2012 to the February 2014 issue month) — accessed 2026-10-11
+  - (Firefox machine translation pasted by user)
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E9%9B%B6%E5%BC%8F#漫画 — serialized from May 2012 to February 2014: 22 episodes plus one extra; volume 1 September 22, 2012 (episodes 1-4), 2 January 22, 2013 (5-8), 3 June 22, 2013 (9-13), 4 November 22, 2013 (14-18), 5 April 22, 2014 (19-22 and the extra, in which the Agito Class Zero children appear) — accessed 2026-10-11
+  - (Firefox machine translation pasted by user)
 
 breezewiki.com (Information)
-- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — credits (author Hiroki Chiba, art Takatoshi Shiozawa), dates (01 September 22, 2012; 02 January 22, 2013; 03 June 22, 2013; 04 November 22, 2013; 05 April 22, 2014), ISBNs (978-4-7575-3726-2, -3856-6, -3963-1, -4087-3, -4242-6); the table rows, and the manga has a dedicated page (already cited above) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_(manga) — dates* (the Final Fantasy Wiki mirror says the side story began serialization in Shonen Gangan on April 11, 2012, the on-sale date of the May 2012 issue; the start of `titleDate`) — accessed 2026-10-10 (page text pasted by user; fetch blocked)
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — credits (author Hiroki Chiba, art Takatoshi Shiozawa), dates (01 September 22, 2012; 02 January 22, 2013; 03 June 22, 2013; 04 November 22, 2013; 05 April 22, 2014), ISBNs (978-4-7575-3726-2, -3856-6, -3963-1, -4087-3, -4242-6); the table rows, and the manga has a dedicated page (already cited above) — accessed 2026-10-11
+  - (table pasted by user; fetch blocked)
+  - archived: TODO
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_(manga) — dates* (the Final Fantasy Wiki mirror says the side story began serialization in Shonen Gangan on April 11, 2012, the on-sale date of the May 2012 issue; the start of `titleDate`) — accessed 2026-10-10
+  - (page text pasted by user; fetch blocked)
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper#Story — platforms* (fan story recap) — accessed 2026-10-10
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper#External_links — former book link, replaced by the Goodreads series page — accessed not recorded
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper — title link*, credits (infobox: Writer **Sara Okabe**, Artist Takatoshi Shiozawa; the Japanese official pages credit no writer, and Yen Press credits Tetsuya Nomura as author, so the writer is unconfirmed and `by` stays the artist), dates (Japan: Book 1 September 22, 2012; 2 January 22, 2013; 3 June 22, 2013; 4 November 22, 2013; 5 April 22, 2014; US/EU: July 21, 2015; October 27, 2015; January 26, 2016; April 26, 2016; July 26, 2016), story (takes place about nine years before Type-0, Kurasame Susaya as an Akademeia student and one of the Four Champions of Rubrum; published in Shonen Gangan alongside the game's manga), cover — accessed 2026-10-11 (lead and infobox pasted by user)
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper — title link*, credits (infobox: Writer **Sara Okabe**, Artist Takatoshi Shiozawa; the Japanese official pages credit no writer, and Yen Press credits Tetsuya Nomura as author, so the writer is unconfirmed and `by` stays the artist), dates (Japan: Book 1 September 22, 2012; 2 January 22, 2013; 3 June 22, 2013; 4 November 22, 2013; 5 April 22, 2014; US/EU: July 21, 2015; October 27, 2015; January 26, 2016; April 26, 2016; July 26, 2016), story (takes place about nine years before Type-0, Kurasame Susaya as an Akademeia student and one of the Four Champions of Rubrum; published in Shonen Gangan alongside the game's manga), cover — accessed 2026-10-11
+  - (lead and infobox pasted by user)
 
 goodreads.com (Ratings)
-- https://www.goodreads.com/series/177013-final-fantasy-type-0-side-story — platforms* (book link): series page listing all 5 volumes plus the omnibus (link from the user; fetch timed out); lists the official English title as "Final Fantasy Type-0 Side Story, Vol. 1: The Ice Reaper" — accessed 2026-10-10 — archived: TODO
+- https://www.goodreads.com/series/177013-final-fantasy-type-0-side-story — platforms* (book link): series page listing all 5 volumes plus the omnibus (link from the user; fetch timed out); lists the official English title as "Final Fantasy Type-0 Side Story, Vol. 1: The Ice Reaper" — accessed 2026-10-10
+  - archived: TODO
 - https://www.goodreads.com/book/show/25112890-final-fantasy-type-0-side-story-vol-1 — ratings* (3.95), languages* (EN) — accessed not recorded
 - https://www.goodreads.com/book/show/28932172-final-fantasy-type-0---le-guerrier-l-p-e-de-glace-vol-1 — languages* (FR) — accessed not recorded
 - https://www.goodreads.com/book/show/35604088-final-fantasy---type-0 — languages* (DE) — accessed not recorded
 - https://www.goodreads.com/book/show/42945374-final-fantasy-type-0-el-verdugo-de-hielo-1 — languages* (ES) — accessed not recorded
-- https://www.goodreads.com/book/show/43411516-final-fantasy-reishiki-gaiden-hyoken-no-shinigami---vol-1-gangan-comics — languages* (JA), Vol.1: 164 pages, Comic, September 22, 2012, ISBN 9784757537262, listed as Final Fantasy Type-0 Side Story #1 — accessed 2026-10-10 — archived: TODO
+- https://www.goodreads.com/book/show/43411516-final-fantasy-reishiki-gaiden-hyoken-no-shinigami---vol-1-gangan-comics — languages* (JA), Vol.1: 164 pages, Comic, September 22, 2012, ISBN 9784757537262, listed as Final Fantasy Type-0 Side Story #1 — accessed 2026-10-10
+  - archived: TODO
 - https://www.goodreads.com/book/show/70695280-5 — Vol.5, ISBN 9784757542426, listed as Final Fantasy Type-0 Side Story #5 — accessed 2026-10-10 — archived: TODO
-- https://www.goodreads.com/book/show/35130808-final-fantasy-type-0-il-mietitore-dalla-spada-di-ghiaccio-vol-1-5 — languages* (IT): omnibus of vols 1-5, 950 pages, Paperback, March 29, 2017, Edizioni BD - J-Pop, ISBN 9788868839284 — accessed 2026-10-10 — archived: TODO
+- https://www.goodreads.com/book/show/35130808-final-fantasy-type-0-il-mietitore-dalla-spada-di-ghiaccio-vol-1-5 — languages* (IT): omnibus of vols 1-5, 950 pages, Paperback, March 29, 2017, Edizioni BD - J-Pop, ISBN 9788868839284 — accessed 2026-10-10
+  - archived: TODO
 
 finalfantasy.fandom.com (Information)
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper — the Final Fantasy Wiki page (mirror; text pasted by the user, read 2026-10-11): infobox Writer **Sara Okabe**, Artist Takatoshi Shiozawa; publishers Shonen Gangan and Yen Press; Japan books 1-5: 2012-09-22, 2013-01-22, 2013-06-22, 2013-11-22, 2014-04-22; US/Europe books 1-5: 2015-07-21, 2015-10-27, 2016-01-26, 2016-04-26, 2016-07-26; a message quoted from "Sara Okabe, Scenario Writer": the manga is the story of the young commander Kurasame, who guides Class Zero in the game; "takes place around nine years before the events of Final Fantasy Type-0"; published in Shonen Gangan along with the game's manga; Yen Press first called it "The Reaper of the Icy Blade"; story, 22 chapters (Vol.1 ch.1-4, Vol.2 ch.5-8, Vol.3 ch.9-13, Vol.4 ch.14-18, Vol.5 ch.19-22) plus the extra chapter "If Only..." — credits: a scenario writer, Sara Okabe, which the Japanese and English publisher pages seen earlier do not name
-  - Story outline, no spoilers beyond this: Kurasame as a Class Third cadet and one of the Four Champions of Rubrum, up to his later years as Class Zero's commanding officer; the last scenes flash forward to the game's events (his sacrifice to let Lady Caetuna summon Alexander, then the afterlife reunion); the extra chapter is a no-war parallel timeline with the young Class Zero members
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_Side_Story:_The_Ice_Reaper — the Final Fantasy Wiki page (mirror; text pasted by the user, read 2026-10-11): infobox Writer **Sara Okabe**, Artist Takatoshi Shiozawa
+  - publishers Shonen Gangan and Yen Press
+  - Japan books 1-5: 2012-09-22, 2013-01-22, 2013-06-22, 2013-11-22, 2014-04-22
+  - US/Europe books 1-5: 2015-07-21, 2015-10-27, 2016-01-26, 2016-04-26, 2016-07-26
+  - a message quoted from "Sara Okabe, Scenario Writer": the manga is the story of the young commander Kurasame, who guides Class Zero in the game
+  - "takes place around nine years before the events of Final Fantasy Type-0"
+  - published in Shonen Gangan along with the game's manga
+  - Yen Press first called it "The Reaper of the Icy Blade"
+  - story, 22 chapters (Vol.1 ch.1-4, Vol.2 ch.5-8, Vol.3 ch.9-13, Vol.4 ch.14-18, Vol.5 ch.19-22) plus the extra chapter "If Only..." — credits: a scenario writer, Sara Okabe, which the Japanese and English publisher pages seen earlier do not name
+  - Story outline, no spoilers beyond this: Kurasame as a Class Third cadet and one of the Four Champions of Rubrum, up to his later years as Class Zero's commanding officer
+    - the last scenes flash forward to the game's events (his sacrifice to let Lady Caetuna summon Alexander, then the afterlife reunion)
+    - the extra chapter is a no-war parallel timeline with the young Class Zero members
   - Relation to the cycles: nothing in the summary says which cycle it is; its flash-forward shows the game's outcome for Kurasame (which Vol.2's previous cycle shows differently, with Kurasame a l'Cie)
 
 wikipedia.org (Information)
-- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E9%9B%B6%E5%BC%8F#%E6%BC%AB%E7%94%BB — dates* (漫画 section: 氷剣の死神 serialized in 月刊少年ガンガン from the May 2012 issue to the February 2014 issue, 22 chapters plus 1 extra; the end of `titleDate` is the February 2014 issue month, a fallback because no on-sale date for the last issue is sourced), volume dates (Vol.1 2012-09-22, Vol.2 2013-01-22, Vol.3 2013-06-22, Vol.4 2013-11-22, Vol.5 2014-04-22; chapter ranges 1-4, 5-8, 9-13, 14-18, 19-22 plus the extra), credits (the earlier 4-chapter 零式 manga: 作画 塩沢天人志, シナリオ 千葉広樹) — accessed 2026-10-10 (text pasted by user) — archived: TODO
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E9%9B%B6%E5%BC%8F#%E6%BC%AB%E7%94%BB — dates* (漫画 section: 氷剣の死神 serialized in 月刊少年ガンガン from the May 2012 issue to the February 2014 issue, 22 chapters plus 1 extra; the end of `titleDate` is the February 2014 issue month, a fallback because no on-sale date for the last issue is sourced), volume dates (Vol.1 2012-09-22, Vol.2 2013-01-22, Vol.3 2013-06-22, Vol.4 2013-11-22, Vol.5 2014-04-22; chapter ranges 1-4, 5-8, 9-13, 14-18, 19-22 plus the extra), credits (the earlier 4-chapter 零式 manga: 作画 塩沢天人志, シナリオ 千葉広樹) — accessed 2026-10-10
+  - (text pasted by user)
+  - archived: TODO
 - https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media -- story, platforms -- accessed 2026-09-22
 
 ## Surveyed
@@ -91,4 +118,5 @@ wikipedia.org (Information)
 
 ## Decisions
 
-- No `contents[]` list (user, 2026-10-15): the five volumes have no titles beyond their numbers, the book platform already links the Goodreads series page that lists all five, and a part carries one link while the book has six language editions; the JA volume dates are 2012-09-22, 2013-01-22, 2013-06-22, 2013-11-22 and 2014-04-22 (the Final Fantasy Wiki table), if a list is ever wanted
+- No `contents[]` list (user, 2026-10-15): the five volumes have no titles beyond their numbers, the book platform already links the Goodreads series page that lists all five, and a part carries one link while the book has six language editions
+  - the JA volume dates are 2012-09-22, 2013-01-22, 2013-06-22, 2013-11-22 and 2014-04-22 (the Final Fantasy Wiki table), if a list is ever wanted

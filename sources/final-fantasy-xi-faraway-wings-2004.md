@@ -56,10 +56,15 @@ plaza.harmonix.ne.jp (Information)
   - Cross-check: Goodreads German series (https://www.goodreads.com/series/252821-final-fantasy-xi-online): Book 7, "Die Flügel der Ferne, Bd 7"
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/200700003939/ -- profile* -- accessed 2026-10-16: product page for ファイナルファンタジーＸＩ －遥かなる翼－ (page text pasted by user 2026-10-16): 著者 はせがわみやび, イラスト スクウェア, 発売日 2004-03-19, ISBN 9784757717923, paper book; the page lists no page count
+- https://www.kadokawa.co.jp/product/200700003939/ -- profile* -- accessed 2026-10-16
+  - product page for ファイナルファンタジーＸＩ －遥かなる翼－ (page text pasted by user 2026-10-16): 著者 はせがわみやび, イラスト スクウェア, 発売日 2004-03-19, ISBN 9784757717923, paper book
+  - the page lists no page count
 
 worldcat.org (Information, library catalog)
-- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- languages* -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 遥かなる翼 (Enterbrain, 2004) and the German Die Flügel der Ferne (Bd 7, Panini-Verl.-GmbH, 2008, 1. Aufl; a second record, Panini, Stuttgart, 2008); no French edition
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- languages* -- accessed 2026-10-16
+  - (the author search, results pages 1 to 7 of 64 pasted by user, logged in)
+  - lists the Japanese ファイナルファンタジー11 : 遥かなる翼 (Enterbrain, 2004) and the German Die Flügel der Ferne (Bd 7, Panini-Verl.-GmbH, 2008, 1. Aufl; a second record, Panini, Stuttgart, 2008)
+  - no French edition
 
 ## Surveyed
 
@@ -70,8 +75,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
-- The `…?` language row is dropped (user, 2026-10-16): every catalog searched (NDL, DNB, BnF, Library of Congress, BNE, Open Library, Google Books, Goodreads, LibraryThing and WorldCat) shows only the Japanese, French and German editions, so no other official edition is likely; see sources/xi-novels-group.md
-- The book row has no `jpTag` (user, 2026-10-16): official German (Panini, 2008) editions exist, so the book is not Japan-only (`jpTag` means no official edition outside Japan, a non-English edition counts); part of the `jpTag` audit, see sources/xi-novels-group.md
-- The book row is the Goodreads series page "Final Fantasy XI Online" (user, 2026-10-16; https://www.goodreads.com/series/252821-final-fantasy-xi-online), replacing the DuckDuckGo search: the docs' first choice, it lists every German volume with its French edition merged in; the Japanese edition is reached through the JA language link, and the fan translation through the `fan-translation` row; see sources/xi-novels-group.md
-- `profileUrl` is the KADOKAWA page above (user, 2026-10-16) and `helpWanted` is removed: the publisher link was the missing piece
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～遥かなる翼～ -- elemen.jp: 2004/03/19, エンターブレイン, 255p, はせがわみやび, ASIN 475771792X; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-1792-X.html (not archived)
+- The book row is the Goodreads series page "Final Fantasy XI Online" (user, 2026-10-16; https://www.goodreads.com/series/252821-final-fantasy-xi-online), replacing the DuckDuckGo search: the docs' first choice, it lists every German volume with its French edition merged in
+  - the Japanese edition is reached through the JA language link, and the fan translation through the `fan-translation` row
+  - see sources/xi-novels-group.md
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～遥かなる翼～ -- elemen.jp: 2004/03/19, エンターブレイン, 255p, はせがわみやび, ASIN 475771792X
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2004/4-7577-1792-X.html (not archived)

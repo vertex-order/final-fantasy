@@ -67,17 +67,21 @@ altraverse.de (Information)
 
 magazine.jp.square-enix.com (Information)
 - https://magazine.jp.square-enix.com/gamebooks/search?q=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2+Chronicles+of+Light -- catalog search for 光の回顧録 Chronicles of Light: brings up both volumes -- accessed 2026-10-10
-- https://magazine.jp.square-enix.com/gamebooks/books/10088 -- dates* (Vol.1 Japan: March 9, 2019; start of `titleDate`, the Japanese Square Enix page is the date source), length (272 pages, 四六判; google books says 263, goodreads 263), title (小説 FINAL FANTASY XIV 光の回顧録 Chronicles of Light), ISBN 9784757560352 -- accessed 2026-10-10 -- archived: TODO
+- https://magazine.jp.square-enix.com/gamebooks/books/10088 -- dates* (Vol.1 Japan: March 9, 2019; start of `titleDate`, the Japanese Square Enix page is the date source), length (272 pages, 四六判; google books says 263, goodreads 263), title (小説 FINAL FANTASY XIV 光の回顧録 Chronicles of Light), ISBN 9784757560352 -- accessed 2026-10-10
+  - archived: TODO
 
 magazine.jp.square-enix.com (Information, Vol.2)
-- https://magazine.jp.square-enix.com/gamebooks/books/10497 -- dates* (Vol.2 Japan: October 7, 2025; end of `titleDate`, the Japanese Square Enix page is the date source), length (1C398: 398 pages, 1-color), size (四六上製, hardcover), ISBN 9784757599826 -- accessed 2026-10-10 -- archived: TODO
+- https://magazine.jp.square-enix.com/gamebooks/books/10497 -- dates* (Vol.2 Japan: October 7, 2025; end of `titleDate`, the Japanese Square Enix page is the date source), length (1C398: 398 pages, 1-color), size (四六上製, hardcover), ISBN 9784757599826 -- accessed 2026-10-10
+  - archived: TODO
 
 store.jp.square-enix.com (Information)
 - https://store.jp.square-enix.com/estore/goods/search.aspx?keyword=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2%20Chronicles%20of%20Light&search=search -- languages* (JA) (e-store search for 光の回顧録 Chronicles of Light: brings up both volumes; has descriptions, ISBN only in the product URLs; the site's own link carried a tracking parameter seq=exp1-d, dropped) -- accessed 2026-10-10
-- https://store.jp.square-enix.com/estore/g/g9784757560352/ -- dates (Vol.1 Japan: March 9, 2019; agrees with the magazine page), series (ファイナルファンタジーXIV), genre (ファンブック・その他), size (四六判/上製, hardcover, "268 pages planned"; the magazine page says 272) -- accessed 2026-10-10 -- archived: TODO
+- https://store.jp.square-enix.com/estore/g/g9784757560352/ -- dates (Vol.1 Japan: March 9, 2019; agrees with the magazine page), series (ファイナルファンタジーXIV), genre (ファンブック・その他), size (四六判/上製, hardcover, "268 pages planned"; the magazine page says 272) -- accessed 2026-10-10
+  - archived: TODO
 
 store.jp.square-enix.com (Information, Vol.2)
-- https://store.jp.square-enix.com/estore/g/g9784757599826/ -- dates (Vol.2 Japan: October 7, 2025; agrees with the magazine page), series (ファイナルファンタジーXIV), genre (ファンブック・その他), size (四六判/上製, 398 pages planned) -- accessed 2026-10-10 -- archived: TODO
+- https://store.jp.square-enix.com/estore/g/g9784757599826/ -- dates (Vol.2 Japan: October 7, 2025; agrees with the magazine page), series (ファイナルファンタジーXIV), genre (ファンブック・その他), size (四六判/上製, 398 pages planned) -- accessed 2026-10-10
+  - archived: TODO
 
 finalfantasy.fandom.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Chronicles_of_Light -- title link*, dates (Vol.1: March 9, 2019 Japan; October 18, 2022 reprint, North America), length (224 pages, print, English), credits (authors Banri Oda, Natsuko Ishikawa, Daichi Hiroi, Yuki Kimura, John Crow, Naoki Yoshida; editors Kazuhiro Oya (EIC), Tomoko Hatakeyama, Takuji Tada), story (the first printed collection of Lodestone Side Stories, 2014-2018, plus four new stories) -- accessed 2026-10-10
@@ -85,12 +89,15 @@ finalfantasy.fandom.com (Information)
   - The wiki lists Vol.2 only in English, but a Japanese Vol.2 exists on Goodreads (October 7, 2025), so the range end (2025-10-07) is also the Japanese date
 
 goodreads.com (Information)
-- https://www.goodreads.com/search?tab=books&filter=all&page=1&q=final%20fantasy%20Chroniken%20des%20Lichts -- Goodreads search for the German title: returns only the two German volumes, 242696010 and 241450087 -- accessed 2026-10-10 (former DE language link)
+- https://www.goodreads.com/search?tab=books&filter=all&page=1&q=final%20fantasy%20Chroniken%20des%20Lichts -- Goodreads search for the German title: returns only the two German volumes, 242696010 and 241450087 -- accessed 2026-10-10
+  - (former DE language link)
 - https://www.goodreads.com/book/show/252304660 -- Vol.2 Japanese: dates (October 7, 2025), 100 pages (the publisher says 398), ISBN 9784757599826, 0 ratings -- accessed 2026-10-10 -- archived: TODO
 - https://www.goodreads.com/book/show/45835237-final-fantasy-xiv-chronicles-of-light -- format* (263 pages, Tankobon Hardcover; platform stays Short Stories (a collection)) -- accessed 2026-10-09
 
 breezewiki.com (Information)
-- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits ("Various"), dates (March 9, 2019), ISBN 978-4-7575-6035-2; the table row, and the book has a dedicated page (already cited above) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits ("Various"), dates (March 9, 2019), ISBN 978-4-7575-6035-2; the table row, and the book has a dedicated page (already cited above) — accessed 2026-10-11
+  - (table pasted by user; fetch blocked)
+  - archived: TODO
 - https://breezewiki.com/finalfantasy/wiki/Side_Stories#List_of_stories -- platforms* (fan story summaries; the same page the Side Stories entry uses) -- accessed 2026-10-10
 
 youtube.com (Information)
@@ -103,8 +110,10 @@ youtube.com (Information)
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
 
 - [Goodreads title search "final fantasy xiv" "chronicles of light"](https://www.goodreads.com/search?tab=books&filter=title&page=1&q=%22final%20fantasy%20xiv%22%20%22chronicles%20of%20light%22) -- many editions of vol 2 with no clear English one, vol 1 grouped with 5 editions, and two placeholder entries with no details -- empty: not used for the EN link (the Square Enix English series page is clearer)
-- Goodreads title search "final fantasy Chronicles of Light" -- lists the vol 1 JA page (book 45835237, grouped with 5 editions: 60550731, 45701588 (EN), 61762479, 45499559), the vol 2 pages (236916972, 236918646, 53755205, 252304660) and a few unrelated books; none of the grouped editions is the German one -- shallow: too mixed to use as a language link
-- [Goodreads 241024438](https://www.goodreads.com/book/show/241024438) -- "Chronicles of Light: A Final Fantasy XIV Tale", Square Enix, Unknown Binding, ASIN B0FPBGTC89 -- empty: a placeholder with no details; can't place it as an edition of either volume
+- Goodreads title search "final fantasy Chronicles of Light" -- lists the vol 1 JA page (book 45835237, grouped with 5 editions: 60550731, 45701588 (EN), 61762479, 45499559), the vol 2 pages (236916972, 236918646, 53755205, 252304660) and a few unrelated books
+  - none of the grouped editions is the German one -- shallow: too mixed to use as a language link
+- [Goodreads 241024438](https://www.goodreads.com/book/show/241024438) -- "Chronicles of Light: A Final Fantasy XIV Tale", Square Enix, Unknown Binding, ASIN B0FPBGTC89 -- empty: a placeholder with no details
+  - can't place it as an edition of either volume
 - Altraverse site (altraverse.de) -- first looked at with an unrelated search that found nothing; its own search later found both volumes (see Sources) -- used
 
 ## Links and dates (2026-10-11)

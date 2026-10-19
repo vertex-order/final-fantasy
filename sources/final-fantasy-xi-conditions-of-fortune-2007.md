@@ -46,10 +46,14 @@ plaza.harmonix.ne.jp (Information)
   - Sale dates on the page, not the entry's day-level dates: 〜幸運の条件〜 2007-07-30
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/200707000165/ -- profile* -- accessed 2026-10-16: product page 200707000165 (user, 2026-10-16): 幸運の条件, A6, 296 pages (the entry has 284p; publisher pages can include front matter), 2007-07-30, ISBN 9784757736344
+- https://www.kadokawa.co.jp/product/200707000165/ -- profile* -- accessed 2026-10-16
+  - product page 200707000165 (user, 2026-10-16): 幸運の条件, A6, 296 pages (the entry has 284p; publisher pages can include front matter), 2007-07-30, ISBN 9784757736344
 
 worldcat.org (Information, library catalog)
-- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 幸運の条件 (Enterbrain, 2007); no translation
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16
+  - (the author search, results pages 1 to 7 of 64 pasted by user, logged in)
+  - lists the Japanese ファイナルファンタジー11 : 幸運の条件 (Enterbrain, 2007)
+  - no translation
 
 ## Surveyed
 
@@ -64,6 +68,5 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Description names the corsair "Lucky Narfah" (Mithra) only
   - Removed from the description: a secondary English source called her an Elvaan named "Nalfa the Lucky"; race and name unconfirmed
   - That source was not recorded when the line was written, so it cannot be re-checked from here
-- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
-- `length` is `296p; A6` (user, 2026-10-16): the native publisher's (KADOKAWA) page count and size, not the earlier 284p; we use the native publisher's count when there is no English edition
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～幸運の条件～ -- elemen.jp: 2007/07/30, エンターブレイン, はせがわみやび, ASIN 4757736347; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2007/978-4-7577-3634-4.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～幸運の条件～ -- elemen.jp: 2007/07/30, エンターブレイン, はせがわみやび, ASIN 4757736347
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2007/978-4-7577-3634-4.html (not archived)

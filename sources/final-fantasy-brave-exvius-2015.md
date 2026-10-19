@@ -21,21 +21,42 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius_vers
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/brave_exvius -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Plot, Characters, Gameplay, Development)
-  - Plot: a short summary (the world of Lapis, the knights Rain and Lasswell of the Kingdom of Grandshelt, Fina trapped in the Earth Crystal, Veritas of the Dark attacking the crystals); agrees with the entry's description (Rain and Lasswell help fight off an attack on the Earth crystal); the later turns are not in the description
-  - Release: free-to-play, produced by Alim and Square Enix for iOS, Android and Amazon Fire devices, Japan 2015 and worldwide 2016; consistent with the entry (2015-10-22, native); it also names War of the Visions: Final Fantasy Brave Exvius (2019) as a spinoff; its Gameplay section describes the turn-based combat, the gacha system and chains; no new fact
+- https://otakumode.com/otapedia/games/final_fantasy/brave_exvius -- story, dates, platforms -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Plot, Characters, Gameplay, Development)
+  - Plot: a short summary (the world of Lapis, the knights Rain and Lasswell of the Kingdom of Grandshelt, Fina trapped in the Earth Crystal, Veritas of the Dark attacking the crystals)
+    - agrees with the entry's description (Rain and Lasswell help fight off an attack on the Earth crystal)
+    - the later turns are not in the description
+  - Release: free-to-play, produced by Alim and Square Enix for iOS, Android and Amazon Fire devices, Japan 2015 and worldwide 2016
+    - consistent with the entry (2015-10-22, native)
+    - it also names War of the Visions: Final Fantasy Brave Exvius (2019) as a spinoff
+    - its Gameplay section describes the turn-based combat, the gacha system and chains
+    - no new fact
   - Its Links section names https://www.square-enix.com/ and the official site https://www.finalfantasyexvius.com/ (below)
 
 finalfantasyexvius.com (Publisher, official)
 
-- https://www.finalfantasyexvius.com/ -- global official site -- accessed 2026-10-17 (named by the Otapedia page; the live address did not answer when I tried): the entry's service is terminated; archived: https://web.archive.org/web/20241111211722/https://www.finalfantasyexvius.com/ (latest capture, 2024-11-11; titled "FINAL FANTASY BRAVE EXVIUS Global Official Site | SQUARE ENIX", with About, Characters and Story Seasons 1 to 4, English and Chinese, developed by gumi Inc., logo art by Yoshitaka Amano); earliest capture 2016-05-16: https://web.archive.org/web/20160516200522/https://www.finalfantasyexvius.com/ -- shallow: front page only
+- https://www.finalfantasyexvius.com/ -- global official site -- accessed 2026-10-17
+  - (named by the Otapedia page; the live address did not answer when I tried)
+  - the entry's service is terminated
+  - archived: https://web.archive.org/web/20241111211722/https://www.finalfantasyexvius.com/ (latest capture, 2024-11-11; titled "FINAL FANTASY BRAVE EXVIUS Global Official Site | SQUARE ENIX", with About, Characters and Story Seasons 1 to 4, English and Chinese, developed by gumi Inc., logo art by Yoshitaka Amano)
+  - earliest capture 2016-05-16: https://web.archive.org/web/20160516200522/https://www.finalfantasyexvius.com/ -- shallow: front page only
 
 ## Store pages of the terminated service (Platform)
 
-- https://apps.apple.com/app/final-fantasy-brave-exvius/id1078553808 -- iOS platform row* -- accessed 2026-10-17 (from the official site's store button: https://itunes.apple.com/app/final-fantasy-brave-exvius/id1078553808?at=11lc5S&ct=BE_N_06, which redirected to this page; user, 2026-10-17); archived: https://web.archive.org/web/20230928143311/https://apps.apple.com/app/final-fantasy-brave-exvius/id1078553808 (the listing, version 8.4.0 in the capture; earlier captures from 2023-06-08); **languages* (user, 2026-10-17: confirmed from this capture): English, French, German, Indonesian, Korean, Simplified Chinese, Spanish, Thai, Traditional Chinese**; the entry had no Indonesian, Thai or Simplified Chinese before
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW -- Android platform row* -- accessed 2026-10-17 (the official site's store button, user); archived: https://web.archive.org/web/20240909211105/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW (the listing, updated Aug 1, 2024 in the capture); confirmed by the user as the real listing (2026-10-17)
-- https://www.amazon.com/gp/product/B01KUHETFY -- Amazon App Store (Fire) platform row* -- accessed 2026-10-17 (the official site's store button, user); archived: https://web.archive.org/web/20240207072104/https://www.amazon.com/gp/product/B01KUHETFY (the full listing; a later capture, 2025-02-16, is only a small page, so not used); languages (user, 2026-10-17: confirmed from this capture): Chinese, English, a subset of the App Store's list
+- https://apps.apple.com/app/final-fantasy-brave-exvius/id1078553808 -- iOS platform row* -- accessed 2026-10-17
+  - (from the official site's store button: https://itunes.apple.com/app/final-fantasy-brave-exvius/id1078553808?at=11lc5S&ct=BE_N_06, which redirected to this page; user, 2026-10-17)
+  - archived: https://web.archive.org/web/20230928143311/https://apps.apple.com/app/final-fantasy-brave-exvius/id1078553808 (the listing, version 8.4.0 in the capture; earlier captures from 2023-06-08)
+  - **languages* (user, 2026-10-17: confirmed from this capture): English, French, German, Indonesian, Korean, Simplified Chinese, Spanish, Thai, Traditional Chinese**
+  - the entry had no Indonesian, Thai or Simplified Chinese before
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW -- Android platform row* -- accessed 2026-10-17
+  - (the official site's store button, user)
+  - archived: https://web.archive.org/web/20240909211105/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW (the listing, updated Aug 1, 2024 in the capture)
+  - confirmed by the user as the real listing (2026-10-17)
+- https://www.amazon.com/gp/product/B01KUHETFY -- Amazon App Store (Fire) platform row* -- accessed 2026-10-17
+  - (the official site's store button, user)
+  - archived: https://web.archive.org/web/20240207072104/https://www.amazon.com/gp/product/B01KUHETFY (the full listing; a later capture, 2025-02-16, is only a small page, so not used)
+  - languages (user, 2026-10-17: confirmed from this capture): Chinese, English, a subset of the App Store's list
 
 ## Decisions
-- Terminated platform rows link Wayback captures of their store pages; the profile link is the 2024-11-11 Wayback capture of the official site (user): the Square Enix games page is still up but expected to go with end of service, and its Wayback captures don't render (script-rendered page; latest 2026-08-23: https://web.archive.org/web/20260823032823/https://www.square-enix-games.com/en_US/games/final-fantasy-brave-exvius)
-- Added Indonesian, Thai and Simplified Chinese to the languages (user, 2026-10-17): the Apple App Store capture lists English, French, German, Indonesian, Korean, Simplified Chinese, Spanish, Thai and Traditional Chinese; Japanese stays as the native language (the Japanese release is a separate store listing)
+- Terminated platform rows link Wayback captures of their store pages
+  - the profile link is the 2024-11-11 Wayback capture of the official site (user): the Square Enix games page is still up but expected to go with end of service, and its Wayback captures don't render (script-rendered page; latest 2026-08-23: https://web.archive.org/web/20260823032823/https://www.square-enix-games.com/en_US/games/final-fantasy-brave-exvius)

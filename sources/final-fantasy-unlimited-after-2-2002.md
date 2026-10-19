@@ -23,6 +23,9 @@
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/unlimited -- related media, dates -- accessed 2026-10-17 (fetched by me, text pasted by user; the Unlimited page of Tokyo Otaku Mode's Otapedia): says a radio drama, FF:U After 2 - Risa tachi kira reta kusari, was broadcast on December 26, 2002 by Avex; consistent with the entry's date (2002-12-26)
+- https://otakumode.com/otapedia/games/final_fantasy/unlimited -- related media, dates -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; the Unlimited page of Tokyo Otaku Mode's Otapedia)
+  - says a radio drama, FF:U After 2 - Risa tachi kira reta kusari, was broadcast on December 26, 2002 by Avex
+  - consistent with the entry's date (2002-12-26)
 
 ## Decisions

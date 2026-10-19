@@ -85,7 +85,8 @@ plaza.harmonix.ne.jp (Information)
   - Sale dates on the page, not the entry's day-level dates: 〜彼方からの伝言　１〜 2008-07-30; 〜彼方からの伝言　２〜 2008-09-29; 〜彼方からの伝言　３〜 2008-11-29
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/search/?kw=%E5%BD%BC%E6%96%B9%E3%81%8B%E3%82%89%E3%81%AE%E4%BC%9D%E8%A8%80 -- profile* -- accessed 2026-10-16: search 彼方からの伝言 (user, 2026-10-16): exactly the 3 volumes, A6, 2008-07-30, 2008-09-29 and 2008-11-29 each
+- https://www.kadokawa.co.jp/product/search/?kw=%E5%BD%BC%E6%96%B9%E3%81%8B%E3%82%89%E3%81%AE%E4%BC%9D%E8%A8%80 -- profile* -- accessed 2026-10-16
+  - search 彼方からの伝言 (user, 2026-10-16): exactly the 3 volumes, A6, 2008-07-30, 2008-09-29 and 2008-11-29 each
 
 ## Surveyed
 
@@ -96,5 +97,9 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
-- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～彼方からの伝言1～ -- elemen.jp: 2008/07/30, エンターブレイン, はせがわみやび, ASIN 475774336X; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2008/978-4-7577-4336-6.html (not archived); ファイナルファンタジーXI ～彼方からの伝言2～ -- elemen.jp: 2008/09/29, エンターブレイン, はせがわみやび, ASIN 4757744471; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2008/978-4-7577-4447-9.html (not archived); ファイナルファンタジーXI ～彼方からの伝言3～ -- elemen.jp: 2008/11/29, エンターブレイン, はせがわみやび, ASIN 4757745222; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2008/978-4-7577-4522-3.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～彼方からの伝言1～ -- elemen.jp: 2008/07/30, エンターブレイン, はせがわみやび, ASIN 475774336X
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2008/978-4-7577-4336-6.html (not archived)
+  - ファイナルファンタジーXI ～彼方からの伝言2～ -- elemen.jp: 2008/09/29, エンターブレイン, はせがわみやび, ASIN 4757744471
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2008/978-4-7577-4447-9.html (not archived)
+  - ファイナルファンタジーXI ～彼方からの伝言3～ -- elemen.jp: 2008/11/29, エンターブレイン, はせがわみやび, ASIN 4757745222
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2008/978-4-7577-4522-3.html (not archived)

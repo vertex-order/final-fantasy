@@ -16,6 +16,10 @@
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/unlimited -- related media -- accessed 2026-10-17 (fetched by me, text pasted by user; the Unlimited page of Tokyo Otaku Mode's Otapedia): lists FF:U with U as a role-playing-style game related to the show; agrees with the entry's description (a mobile-phone turn-based RPG adaptation); no new fact
+- https://otakumode.com/otapedia/games/final_fantasy/unlimited -- related media -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; the Unlimited page of Tokyo Otaku Mode's Otapedia)
+  - lists FF:U with U as a role-playing-style game related to the show
+  - agrees with the entry's description (a mobile-phone turn-based RPG adaptation)
+  - no new fact
 
 ## Decisions

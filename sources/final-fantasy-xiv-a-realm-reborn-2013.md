@@ -42,9 +42,12 @@
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_14 -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Final Fantasy XIV Plot, Gameplay, Characters, Development, Reception; one page for both the original game and A Realm Reborn)
+- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_14 -- story, dates, platforms -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Final Fantasy XIV Plot, Gameplay, Characters, Development, Reception; one page for both the original game and A Realm Reborn)
   - Final Fantasy XIV Plot: short recap (Hydaelyn, the Seventh Umbral Calamity, the player five years into the future, the Garlean menace); set five years after the original's end, as en.wikipedia (Final Fantasy XIV) also says
   - Release: the original in 2010 for Windows, shut down in 2012, A Realm Reborn worldwide for Windows and PlayStation 3 in August 2013, later PlayStation 4 and macOS; consistent with the entry (2013-08-27)
-  - Its Plot, Characters and Development sections also cover later expansions (Au Ra, Viera, Hrothgar) and the development history; developer content, outside our scope; its Links section only has the official site (https://www.finalfantasyxiv.com/)
+  - Its Plot, Characters and Development sections also cover later expansions (Au Ra, Viera, Hrothgar) and the development history
+    - developer content, outside our scope
+    - its Links section only has the official site (https://www.finalfantasyxiv.com/)
 
 ## Decisions

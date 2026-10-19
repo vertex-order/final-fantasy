@@ -166,9 +166,14 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_1 -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Prologue, Final Fantasy I Plot, Gameplay, Development)
+- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_1 -- story, dates, platforms -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Prologue, Final Fantasy I Plot, Gameplay, Development)
   - Prologue: the intro blurb (the world out of balance; four Light Warriors each carry a darkened Orb)
-  - Final Fantasy I Plot: a long walkthrough-style summary (Cornelia, Garland, Matoya, Astos, the four fiends, the time loop with Chaos); it has spoilers, so nothing is copied into the description, which stays spoiler-free; it says Orbs where the entry's description says crystals, a wording difference between sources, so no change (mine)
-  - Release: Japan 1987, North America 1990, ports on iOS, Android, PlayStation and Game Boy Advance, among others; consistent with the entry; the day is not given here (its timeline page says 1987-12-17, see docs/wiki-corrections.md)
+  - Final Fantasy I Plot: a long walkthrough-style summary (Cornelia, Garland, Matoya, Astos, the four fiends, the time loop with Chaos)
+    - it has spoilers, so nothing is copied into the description, which stays spoiler-free
+    - it says Orbs where the entry's description says crystals, a wording difference between sources, so no change (mine)
+  - Release: Japan 1987, North America 1990, ports on iOS, Android, PlayStation and Game Boy Advance, among others
+    - consistent with the entry
+    - the day is not given here (its timeline page says 1987-12-17, see docs/wiki-corrections.md)
 
 ## Decisions

@@ -49,7 +49,8 @@ ISBN 9791035506544, French, Mana Books, January 2, 2025, 194 pages, Paperback, A
 ## Sources
 
 squareenixmangaandbooks.square-enix-games.com (Information)
-- https://squareenixmangaandbooks.square-enix-games.com/product/9781646092352 — title link*, profile*, credits*, dates (EN September 19, 2023), length (192 pages), format (trade paperback, 5-3/4 x 8-1/4), category (Manga), age rating (Teen), genres — accessed 2026-10-09 — archived: TODO
+- https://squareenixmangaandbooks.square-enix-games.com/product/9781646092352 — title link*, profile*, credits*, dates (EN September 19, 2023), length (192 pages), format (trade paperback, 5-3/4 x 8-1/4), category (Manga), age rating (Teen), genres — accessed 2026-10-09
+  - archived: TODO
 
 store.jp.square-enix.com (Information)
 - https://store.jp.square-enix.com/estore/g/g9784757583801/ — dates* (JA February 7, 2023; Japanese Square Enix page is the date source), series (ファイナルファンタジーXIV), genre (コミック), size (B6) — accessed 2026-10-09 — archived: TODO
@@ -58,7 +59,8 @@ ndlsearch.ndl.go.jp (Information)
 - http://id.ndl.go.jp/bib/032628335 — dates* (JA February 2023; confirms the store page), credits, size (193 p, 19 cm), series (ガンガンコミックスup!) — accessed 2026-10-09 — archived: TODO
 
 goodreads.com (Ratings)
-- https://www.goodreads.com/book/show/198004628-final-fantasy-xiv — ratings* (4.30, 303 ratings), languages* (EN), platforms* (Manga row: lists the other language editions), length* (192 pages, paperback), credits, dates (EN September 19, 2023) — accessed 2026-10-09 — archived: TODO
+- https://www.goodreads.com/book/show/198004628-final-fantasy-xiv — ratings* (4.30, 303 ratings), languages* (EN), platforms* (Manga row: lists the other language editions), length* (192 pages, paperback), credits, dates (EN September 19, 2023) — accessed 2026-10-09
+  - archived: TODO
 
 goodreads.com (Information)
 - https://www.goodreads.com/book/show/242160761-xiv — languages* (JA), dates (JA February 7, 2023), credits, length (194 pages) — accessed 2026-10-09 — archived: TODO

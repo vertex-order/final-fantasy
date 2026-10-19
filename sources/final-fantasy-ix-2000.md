@@ -55,8 +55,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_9 -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Final Fantasy IX Plot, Characters, Gameplay, Development)
-  - Final Fantasy IX Plot: a short summary (the Tantalus troupe disguised as actors, Garnet and Zidane, Queen Brahne, Kuja and Necron); agrees with the entry's description (Zidane kidnaps princess Garnet amid nations at war); the later turns are spoilers and are not in the description
+- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_9 -- story, dates, platforms -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Final Fantasy IX Plot, Characters, Gameplay, Development)
+  - Final Fantasy IX Plot: a short summary (the Tantalus troupe disguised as actors, Garnet and Zidane, Queen Brahne, Kuja and Necron)
+    - agrees with the entry's description (Zidane kidnaps princess Garnet amid nations at war)
+    - the later turns are spoilers and are not in the description
   - **It says the game was released in 1999, which is wrong:** the Japanese release was 2000-07-07, and the page's own timeline gives that date (see docs/wiki-corrections.md)
   - Later ports named (PlayStation 3, PSP, "PlayStation Vista", a typo for Vita); consistent with the entry; no new fact
   - Its Development section links an archived review ("Web Archive Review", https://web.archive.org/web/20061212043620/http://www.squarenation.com/ffix/): a game review, outside our scope; not read by me

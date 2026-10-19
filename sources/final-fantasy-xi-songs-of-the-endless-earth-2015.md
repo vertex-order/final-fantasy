@@ -44,10 +44,14 @@ duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Songs%20of%20the%20Endless%20Earth~%20translation — fan-translation search
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/321509000280/ -- profile* -- accessed 2026-10-16: product page 321509000280 (user, 2026-10-16): 終わりなき大地の唄, B6, 320 pages (the entry has 287p), 2015-11-30, ISBN 9784047308039, illustrations スクウェア・エニックス, and an e-book (電子版) released 2015-12-26
+- https://www.kadokawa.co.jp/product/321509000280/ -- profile* -- accessed 2026-10-16
+  - product page 321509000280 (user, 2026-10-16): 終わりなき大地の唄, B6, 320 pages (the entry has 287p), 2015-11-30, ISBN 9784047308039, illustrations スクウェア・エニックス, and an e-book (電子版) released 2015-12-26
 
 worldcat.org (Information, library catalog)
-- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : 終わりなき大地の唄 (KADOKAWA, 2015); no translation
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16
+  - (the author search, results pages 1 to 7 of 64 pasted by user, logged in)
+  - lists the Japanese ファイナルファンタジー11 : 終わりなき大地の唄 (KADOKAWA, 2015)
+  - no translation
 
 ## Decisions
 
@@ -58,5 +62,3 @@ worldcat.org (Information, library catalog)
   - "Continuation" in the blurb is the game's timeline (after the Escafication crisis), not the earlier novels' characters
   - Not found on LibraryThing's series list or in the ja.wikipedia protagonist grouping
   - Revisit if a source ties it to Al & Iris or Doug & Lin
-- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
-- `length` is `320p; B6` (user, 2026-10-16): the native publisher's (KADOKAWA) page count and size, not the earlier 287p; we use the native publisher's count when there is no English edition

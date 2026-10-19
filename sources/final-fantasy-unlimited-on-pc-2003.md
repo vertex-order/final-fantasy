@@ -16,6 +16,10 @@
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/unlimited -- related media -- accessed 2026-10-17 (fetched by me, text pasted by user; the Unlimited page of Tokyo Otaku Mode's Otapedia): lists "Final Fantasy: Unlimited on PC Adventure - Labyrinth" as one of the two video games related to the show; the entry's description calls it a card battle game; no new fact
+- https://otakumode.com/otapedia/games/final_fantasy/unlimited -- related media -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; the Unlimited page of Tokyo Otaku Mode's Otapedia)
+  - lists "Final Fantasy: Unlimited on PC Adventure - Labyrinth" as one of the two video games related to the show
+  - the entry's description calls it a card battle game
+  - no new fact
 
 ## Decisions

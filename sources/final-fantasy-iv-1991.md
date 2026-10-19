@@ -75,7 +75,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_4 -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Prologue, Gameplay, Characters, Development): nothing to note (user, 2026-10-17); the Super Nintendo release in 1991, the Active Battle System, Cecil and Golbez, all consistent with the entry; no plot summary beyond the prologue
-  - Its Development section links an archived interview, "FFIV For The Famicom Was 80% Complete" (https://web.archive.org/web/20161216181140/http://matotree.com/2012/08/final-fantasy-iv-for-the-famicom-was-80-complete/): about a cancelled Famicom version; interesting but not pertinent to the entry (user, 2026-10-17); not read by me
+- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_4 -- story, dates, platforms -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Prologue, Gameplay, Characters, Development)
+  - nothing to note (user, 2026-10-17)
+  - the Super Nintendo release in 1991, the Active Battle System, Cecil and Golbez, all consistent with the entry
+  - no plot summary beyond the prologue
+  - Its Development section links an archived interview, "FFIV For The Famicom Was 80% Complete" (https://web.archive.org/web/20161216181140/http://matotree.com/2012/08/final-fantasy-iv-for-the-famicom-was-80-complete/): about a cancelled Famicom version
+    - interesting but not pertinent to the entry (user, 2026-10-17)
+    - not read by me
 
 ## Decisions

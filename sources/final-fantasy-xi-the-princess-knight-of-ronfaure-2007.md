@@ -50,7 +50,10 @@ kadokawa.co.jp (Publisher, Japanese)
 - https://www.kadokawa.co.jp/product/200709000325/ -- profile* -- accessed 2026-10-16: product page 200709000325 (user, 2026-10-16): ロンフォールの姫騎士, A6, 264 pages (the entry has 254p), 2007-10-29, ISBN 9784757738331
 
 worldcat.org (Information, library catalog)
-- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16 (the author search, results pages 1 to 7 of 64 pasted by user, logged in): lists the Japanese ファイナルファンタジー11 : ロンフォールの姫騎士 (Enterbrain, 2007); no translation
+- https://search.worldcat.org/search?q=au%3A%22Hasegawa%2C%20Miyabi%22&offset=1 -- dates -- accessed 2026-10-16
+  - (the author search, results pages 1 to 7 of 64 pasted by user, logged in)
+  - lists the Japanese ファイナルファンタジー11 : ロンフォールの姫騎士 (Enterbrain, 2007)
+  - no translation
 
 ## Surveyed
 
@@ -61,6 +64,5 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
-- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
-- `length` is `264p; A6` (user, 2026-10-16): the native publisher's (KADOKAWA) page count and size, not the earlier 254p; we use the native publisher's count when there is no English edition
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～ロンフォールの姫騎士～ -- elemen.jp: 2007/10/29, エンターブレイン, はせがわみやび, ASIN 4757738331; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2007/978-4-7577-3833-1.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～ロンフォールの姫騎士～ -- elemen.jp: 2007/10/29, エンターブレイン, はせがわみやび, ASIN 4757738331
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2007/978-4-7577-3833-1.html (not archived)

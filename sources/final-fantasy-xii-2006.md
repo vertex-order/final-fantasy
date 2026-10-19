@@ -48,8 +48,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_12 -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Final Fantasy XII Plot, Gameplay, Characters, Development)
-  - Final Fantasy XII Plot: a short summary (Ivalice, Dalmasca annexed by Archadia, Ashe's resistance joined by Vaan, the antagonist Vayne and the battle aboard the Bahamut); agrees with the entry's description (Archadia and Rozarria at war, Vaan meets princess Ashe of Dalmasca); the ending is a spoiler and is not in the description
+- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_12 -- story, dates, platforms -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Final Fantasy XII Plot, Gameplay, Characters, Development)
+  - Final Fantasy XII Plot: a short summary (Ivalice, Dalmasca annexed by Archadia, Ashe's resistance joined by Vaan, the antagonist Vayne and the battle aboard the Bahamut)
+    - agrees with the entry's description (Archadia and Rozarria at war, Vaan meets princess Ashe of Dalmasca)
+    - the ending is a spoiler and is not in the description
   - Release: PlayStation 2 in 2006, later re-released as Final Fantasy XII International Zodiac Job System on PlayStation 4 and Steam; consistent with the entry (2006-03-16)
   - Development: the active dimension battle system replaced random encounters, and Uematsu contributed only the ending song; developer content, outside our scope; no new fact
 

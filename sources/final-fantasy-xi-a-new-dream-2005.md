@@ -71,7 +71,9 @@ plaza.harmonix.ne.jp (Information)
   - Sale dates on the page, not the entry's day-level dates: 〜新たな夢　上〜 2005-10-29; 〜新たな夢　下〜 2005-12-24
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/search/?auth=%E3%81%AF%E3%81%9B%E3%81%8C%E3%82%8F%E3%81%BF%E3%82%84%E3%81%B3&kw=%E6%96%B0%E3%81%9F%E3%81%AA%E5%A4%A2 -- profile* -- accessed 2026-10-16: search 新たな夢 with the author はせがわみやび (user, 2026-10-16): exactly the 2 volumes, 上 2005-10-29 and 下 2005-12-24, illustrations 金田榮路 each; without the author the keyword returns 8 books, mostly unrelated
+- https://www.kadokawa.co.jp/product/search/?auth=%E3%81%AF%E3%81%9B%E3%81%8C%E3%82%8F%E3%81%BF%E3%82%84%E3%81%B3&kw=%E6%96%B0%E3%81%9F%E3%81%AA%E5%A4%A2 -- profile* -- accessed 2026-10-16
+  - search 新たな夢 with the author はせがわみやび (user, 2026-10-16): exactly the 2 volumes, 上 2005-10-29 and 下 2005-12-24, illustrations 金田榮路 each
+  - without the author the keyword returns 8 books, mostly unrelated
 
 ## Surveyed
 
@@ -82,5 +84,7 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
-- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～新たな夢 上～ -- elemen.jp: 2005/10/29, エンターブレイン, はせがわみやび, ASIN 4757724918; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2491-8.html (not archived); ファイナルファンタジーXI ～新たな夢 下～ -- elemen.jp: 2005/12/24, エンターブレイン, はせがわみやび, ASIN 4757725582; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2558-2.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～新たな夢 上～ -- elemen.jp: 2005/10/29, エンターブレイン, はせがわみやび, ASIN 4757724918
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2491-8.html (not archived)
+  - ファイナルファンタジーXI ～新たな夢 下～ -- elemen.jp: 2005/12/24, エンターブレイン, はせがわみやび, ASIN 4757725582
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2005/4-7577-2558-2.html (not archived)

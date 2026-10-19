@@ -30,14 +30,22 @@ ISBN 9784757742871, Japanese, volume 2 (下), Famitsu Bunko, July 30, 2008, A6, 
 ## Sources
 
 wikipedia.org (Information)
-- https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates#Release — title link*, credits*, dates (volume 1 May 30, 2008; volume 2 July 30, 2008; both agree with the publisher), length* (two volumes), story* (novelization of the single-player campaign) — accessed 2026-10-11 (page text pasted by user) — archived: TODO
+- https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates#Release — title link*, credits*, dates (volume 1 May 30, 2008; volume 2 July 30, 2008; both agree with the publisher), length* (two volumes), story* (novelization of the single-player campaign) — accessed 2026-10-11
+  - (page text pasted by user)
+  - archived: TODO
   - "published by Enterbrain's Famitsu Bunko in two volumes on May 30 and July 30 the same year" (2008)
   - Not on the List of Final Fantasy media page (checked 2026-10-11)
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/search/?kw=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%20%E5%83%95%E3%82%89%E3%81%AE%E4%B8%96%E7%95%8C — profile*: KADOKAWA product search for `リング・オブ・フェイト 僕らの世界`; lists both volumes — accessed 2026-10-11 (confirmed by the user) — archived: TODO
-- https://www.kadokawa.co.jp/product/200805000185/ — dates* (volume 1: 2008年05月30日; titleDate start), credits (著者 工藤治), size (A6判), length (328 pages), blurb あの子たちの望む世界が始まる時まで－－少女は見守る, ISBN 9784757742376, title ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 僕らの世界 上 — accessed 2026-10-11 (fetched) — archived: TODO
-- https://www.kadokawa.co.jp/product/200806000441/ — dates* (volume 2: 2008年07月30日; titleDate end), credits (著者 工藤治), size (A6判), length (328 pages), blurb テテオ王女の魂が見守る双子の物語が遂に完結！！ ("the twins' story, watched over by Princess Teteo's soul, finally concludes"), ISBN 9784757742871, title …僕らの世界 下 — accessed 2026-10-11 (fetched) — archived: TODO
+- https://www.kadokawa.co.jp/product/search/?kw=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%20%E5%83%95%E3%82%89%E3%81%AE%E4%B8%96%E7%95%8C — profile*: KADOKAWA product search for `リング・オブ・フェイト 僕らの世界`; lists both volumes — accessed 2026-10-11
+  - (confirmed by the user)
+  - archived: TODO
+- https://www.kadokawa.co.jp/product/200805000185/ — dates* (volume 1: 2008年05月30日; titleDate start), credits (著者 工藤治), size (A6判), length (328 pages), blurb あの子たちの望む世界が始まる時まで－－少女は見守る, ISBN 9784757742376, title ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 僕らの世界 上 — accessed 2026-10-11
+  - (fetched)
+  - archived: TODO
+- https://www.kadokawa.co.jp/product/200806000441/ — dates* (volume 2: 2008年07月30日; titleDate end), credits (著者 工藤治), size (A6判), length (328 pages), blurb テテオ王女の魂が見守る双子の物語が遂に完結！！ ("the twins' story, watched over by Princess Teteo's soul, finally concludes"), ISBN 9784757742871, title …僕らの世界 下 — accessed 2026-10-11
+  - (fetched)
+  - archived: TODO
 - https://famitsubunko.jp/product/finalfantasy/200805000185.html and .../200806000441.html — the Famitsu Bunko site's pages for the same two volumes — accessed 2026-10-11 (fetched; same data)
 - https://store.kadokawa.co.jp/shop/g/g200806000441/ — the KADOKAWA store page for volume 2 — seen in a search result only
 
@@ -48,7 +56,9 @@ goodreads.com (Ratings)
 
 ## Surveyed
 
-- The Japanese title is 僕らの世界 (Bokura no Sekai) with 上/下 (upper/lower) volumes; "Our World" (the entry title's `~Our World~` subtitle and the description's gloss) is our literal gloss, not a sourced English title; switch if a source gives an English one
+- The Japanese title is 僕らの世界 (Bokura no Sekai) with 上/下 (upper/lower) volumes
+  - "Our World" (the entry title's `~Our World~` subtitle and the description's gloss) is our literal gloss, not a sourced English title
+  - switch if a source gives an English one
 
 ## Not yet surveyed
 

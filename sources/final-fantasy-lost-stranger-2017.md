@@ -105,7 +105,8 @@ wikipedia.org (Information)
 
 yenpress.com (Information)
 - https://yenpress.com/series/final-fantasy-lost-stranger — profile* (English publisher page), story — accessed not recorded — archived: TODO
-- https://yenpress.com/series/final-fantasy-lost-stranger-serial — Yen Press's digital serial of the manga: latest listed is "Final Fantasy Lost Stranger, Chapter 80", 80 chapters as of 2026-10-10 (checked by user; not opened by me); the entry counts volumes, not chapters — accessed 2026-10-10 — archived: TODO
+- https://yenpress.com/series/final-fantasy-lost-stranger-serial — Yen Press's digital serial of the manga: latest listed is "Final Fantasy Lost Stranger, Chapter 80", 80 chapters as of 2026-10-10 (checked by user; not opened by me); the entry counts volumes, not chapters — accessed 2026-10-10
+  - archived: TODO
 
 finalfantasy.fandom.com (Information)
 - Recap choice (the user's call, 2026-10-11): the chapters category stays the recap platform; the dedicated page's `#Story` section is only chapter titles and release dates, with no summary, so it is not used
@@ -119,7 +120,8 @@ goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/40223499-final-fantasy-lost-stranger-vol-1 — ratings* (4.10, 765 ratings), languages* (EN), credits*, pages (230, EN edition; not shown in entry) — accessed 2026-10-09 — archived: TODO
 
 goodreads.com (Information)
-- https://www.goodreads.com/series/271153-final-fantasy-lost-stranger — length* (13 primary works, 13 total; ongoing, so entry shows 13+), platforms* (Manga row: reaches every language edition and its ISBN, and Goodreads' retailer links, so readers find a store in their region) — accessed 2026-10-09 — archived: TODO
+- https://www.goodreads.com/series/271153-final-fantasy-lost-stranger — length* (13 primary works, 13 total; ongoing, so entry shows 13+), platforms* (Manga row: reaches every language edition and its ISBN, and Goodreads' retailer links, so readers find a store in their region) — accessed 2026-10-09
+  - archived: TODO
   - Vol 1 only checked for language editions; vols 2–13 not drilled into
 - https://www.goodreads.com/book/show/51966385-final-fantasy-lost-stranger-1 — languages* (JA, native), credits* — accessed 2026-10-09 — archived: TODO
 - https://www.goodreads.com/book/show/248120426-final-fantasy-lost-stranger-vol-13 — dates (vol 13 English paperback, August 25, 2026; later than JA, not the range end) — accessed 2026-10-09 — archived: TODO
@@ -136,27 +138,57 @@ google.com/books (Information)
 - https://www.google.com/books/edition/Final_Fantasy_Lost_Stranger_13/8e760QEACAAJ — dates (DE vol 13 listed 2027, future-dated; not used for `titleDate`) — accessed 2026-10-09 — archived: TODO
 
 ja.wikipedia.org (Information)
-- https://ja.wikipedia.org/wiki/FINAL_FANTASY_LOST_STRANGER — dates* (presentation period July 12, 2017 - ongoing: the start of titleDate is the on-sale date of the August 2017 issue; confirms the infobox's July 12 over the chapter table's July 14), length* (14 volumes as of May 12, 2026; the entry's `14+`), magazine (Monthly Shonen Gangan), label (Gangan Comics SUPER), credits (original Haruki Mizuse (Hazuki Minase), drawn by Itsuki Kameya) — accessed 2026-10-11 (Firefox machine translation pasted by user) — archived: TODO
-- https://ja.wikipedia.org/wiki/%E6%9C%88%E5%88%8A%E5%B0%91%E5%B9%B4%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3 — dates ("FINAL FANTASY LOST STRANGER: 2017年8月号 -": serialized from the August 2017 issue, still running) — accessed 2026-10-11 (Firefox machine translation pasted by user)
+- https://ja.wikipedia.org/wiki/FINAL_FANTASY_LOST_STRANGER — dates* (presentation period July 12, 2017 - ongoing: the start of titleDate is the on-sale date of the August 2017 issue; confirms the infobox's July 12 over the chapter table's July 14), length* (14 volumes as of May 12, 2026; the entry's `14+`), magazine (Monthly Shonen Gangan), label (Gangan Comics SUPER), credits (original Haruki Mizuse (Hazuki Minase), drawn by Itsuki Kameya) — accessed 2026-10-11
+  - (Firefox machine translation pasted by user)
+  - archived: TODO
+- https://ja.wikipedia.org/wiki/%E6%9C%88%E5%88%8A%E5%B0%91%E5%B9%B4%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3 — dates ("FINAL FANTASY LOST STRANGER: 2017年8月号 -": serialized from the August 2017 issue, still running) — accessed 2026-10-11
+  - (Firefox machine translation pasted by user)
 - https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%ACUP%21 — also published on the Manga UP! app (listed under works from other magazines) — accessed 2026-10-11 (Firefox machine translation pasted by user)
 
 breezewiki.com (Information)
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Lost_Stranger — dates (serialized in Monthly Shōnen Gangan starting with the July 2017 issue; infobox "Japan July 12, 2017 (Chapter 1)", while the chapter table says chapter 1 is **July 14, 2017**; chapter 80 is September 11, 2026, so still running; Gangan Comics volume 1 November 22, 2017), credits (Writer Hazuki Minase, Artist Itsuki Kameya), story (a Square Enix employee dies and is reborn in a Final Fantasy world), announced January 31, 2017 at the 30th Anniversary event, English online by Crunchyroll and Yen Press volumes from August 21, 2018 — accessed 2026-10-11 (infobox and chapter table pasted by user) — archived: TODO
-  - Serialization tier for `titleDate`: start July 12, 2017 (the August 2017 issue's on-sale date, confirmed by ja.wikipedia), end the latest chapter's date, chapter 80 on September 11, 2026 (the Fandom chapter table), with `ongoing`; this replaced NDL's volume 13 (2025-08), the volume tier, 2026-10-11. September 11, 2026 is a Friday, the day before the magazine's usual 12th, so it fits an on-sale date; the end moves with each new chapter
-- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — credits (author Hazuki Minase, art Itsuki Kameya), dates (1 November 22, 2017; 2 May 22, 2018; 3 January 22, 2019; 4 June 12, 2019; 5 January 11, 2020), ISBNs (978-4-7575-5520-4, -5719-2, -5975-2, -6155-7, -6463-3); the table rows; the manga has a dedicated page (cited below) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Lost_Stranger — dates (serialized in Monthly Shōnen Gangan starting with the July 2017 issue; infobox "Japan July 12, 2017 (Chapter 1)", while the chapter table says chapter 1 is **July 14, 2017**; chapter 80 is September 11, 2026, so still running; Gangan Comics volume 1 November 22, 2017), credits (Writer Hazuki Minase, Artist Itsuki Kameya), story (a Square Enix employee dies and is reborn in a Final Fantasy world), announced January 31, 2017 at the 30th Anniversary event, English online by Crunchyroll and Yen Press volumes from August 21, 2018 — accessed 2026-10-11
+  - (infobox and chapter table pasted by user)
+  - archived: TODO
+  - Serialization tier for `titleDate`: start July 12, 2017 (the August 2017 issue's on-sale date, confirmed by ja.wikipedia), end the latest chapter's date, chapter 80 on September 11, 2026 (the Fandom chapter table), with `ongoing`
+    - this replaced NDL's volume 13 (2025-08), the volume tier, 2026-10-11. September 11, 2026 is a Friday, the day before the magazine's usual 12th, so it fits an on-sale date
+    - the end moves with each new chapter
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — credits (author Hazuki Minase, art Itsuki Kameya), dates (1 November 22, 2017; 2 May 22, 2018; 3 January 22, 2019; 4 June 12, 2019; 5 January 11, 2020), ISBNs (978-4-7575-5520-4, -5719-2, -5975-2, -6155-7, -6463-3); the table rows; the manga has a dedicated page (cited below) — accessed 2026-10-11
+  - (table pasted by user; fetch blocked)
+  - archived: TODO
 
 tokyo otaku mode (Information; Otapedia, English)
-- https://otakumode.com/otapedia/games/final_fantasy/manga -- credits, dates, description -- accessed 2026-10-17 (fetched by me; the page lists 8 manga, this entry's section is "Final Fantasy Lost Stranger"): announced 2017-01-31 during Square Enix's Final Fantasy 30th Anniversary event, published in Japanese in 2017 by Gangan Comics; a former Square employee dies and is reborn in the Final Fantasy world; lists Shogo Sasaki, Yuko Sasaki, Sharuru Rinkinfeza, Rei Hagakure and Duston Voruta; the announcement date is not recorded elsewhere in this file, nothing else is new
+- https://otakumode.com/otapedia/games/final_fantasy/manga -- credits, dates, description -- accessed 2026-10-17
+  - (fetched by me; the page lists 8 manga, this entry's section is "Final Fantasy Lost Stranger")
+  - announced 2017-01-31 during Square Enix's Final Fantasy 30th Anniversary event, published in Japanese in 2017 by Gangan Comics
+  - a former Square employee dies and is reborn in the Final Fantasy world
+  - lists Shogo Sasaki, Yuko Sasaki, Sharuru Rinkinfeza, Rei Hagakure and Duston Voruta
+  - the announcement date is not recorded elsewhere in this file, nothing else is new
 
-- https://otakumode.com/otapedia/games/final_fantasy/lost_stranger -- serialization, translations, story -- accessed 2026-10-17 (fetched by me, text pasted by user; the page of this manga in Tokyo Otaku Mode's Otapedia, sections Characters, Official Synopsis, Plot): announced January 31, 2017 by Square Enix as part of the Final Fantasy 30th Anniversary event; written by Hazuki Minase and illustrated by Itsuki Kameya; published in Japanese in July 2017 by Gangan Comics (Square Enix's own imprint) and **serialized in Gekkan Shōnen Gangan**; after the Japanese volume it was translated into French and published by **Mana Books in April 2018**; chapters were also published online in English through **Crunchyroll** and compiled into a volume by **Yen Press in August 2018**; in the following months it was also translated and published in **Italian, German and Spanish**; this agrees with the entry's languages (EN, FR, DE, IT, ES, and more), its credits and the Mana Books FR edition in this file (April 5, 2018)
-  - Story: the official synopsis (Yen Press's text) and a plot recap: Shogo Sasaki, an uber-fan who joins Square Enix hoping to work on a Final Fantasy game, and his sister and co-worker Yuko are hit by a runaway truck and wake in a Final Fantasy world "unbound to any particular installment", where Shogo meets a Moogle and a party of Sharuru (white mage), Rei (warrior) and Duston (black mage); agrees with the entry's description; the page's spellings of the party names differ from the other Otapedia page (Linkingfeather and Volta against Rinkinfeza and Voruta); its Links section names only the Crunchyroll page below
+- https://otakumode.com/otapedia/games/final_fantasy/lost_stranger -- serialization, translations, story -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; the page of this manga in Tokyo Otaku Mode's Otapedia, sections Characters, Official Synopsis, Plot)
+  - announced January 31, 2017 by Square Enix as part of the Final Fantasy 30th Anniversary event
+  - written by Hazuki Minase and illustrated by Itsuki Kameya
+  - published in Japanese in July 2017 by Gangan Comics (Square Enix's own imprint) and **serialized in Gekkan Shōnen Gangan**
+  - after the Japanese volume it was translated into French and published by **Mana Books in April 2018**
+  - chapters were also published online in English through **Crunchyroll** and compiled into a volume by **Yen Press in August 2018**
+  - in the following months it was also translated and published in **Italian, German and Spanish**
+  - this agrees with the entry's languages (EN, FR, DE, IT, ES, and more), its credits and the Mana Books FR edition in this file (April 5, 2018)
+  - Story: the official synopsis (Yen Press's text) and a plot recap: Shogo Sasaki, an uber-fan who joins Square Enix hoping to work on a Final Fantasy game, and his sister and co-worker Yuko are hit by a runaway truck and wake in a Final Fantasy world "unbound to any particular installment", where Shogo meets a Moogle and a party of Sharuru (white mage), Rei (warrior) and Duston (black mage)
+    - agrees with the entry's description
+    - the page's spellings of the party names differ from the other Otapedia page (Linkingfeather and Volta against Rinkinfeza and Voruta)
+    - its Links section names only the Crunchyroll page below
   - Final Fantasy Wiki intro: serialized from July 2017; English chapters online via Crunchyroll; volume 1 dates: JP 2017-11-22, FR 2018-04-05, US 2018-08-21, IT 2018-09-27, ES 2019-05-24, DE 2019-07-02, BR 2022-06-14
   - en.wikipedia (Publication): Yen Press and Crunchyroll both announced simultaneous English chapters at Anime Expo 2017; 14 volumes as of 2026-05; NA volume 1 2018-08-28 (ISBN 978-1-9753-8090-8)
   - https://www.animenewsnetwork.com/encyclopedia/manga.php?id=19824 -- English edition licensed by Yen Press (digital), online via Crunchyroll and Manga UP!; translator Melody Pan
 - https://global.manga-up.com/manga/156 -- Manga UP! Global, official English reader (platform row) -- accessed 2026-10-18 -- first chapters free, the rest for members; listed through Chapter 80.2
-- https://www.crunchyroll.com/news/latest/2017/7/2/crunchyroll-announces-aho-girl-elegant-yokai-apartment-life-netsuzou-trap-ntr-and-tsuredure-children-at-anime-expo -- official English release announcement -- accessed 2026-10-18 -- launch July 12, 2017
-  - Volumes page, Wayback 2023-11-30: https://web.archive.org/web/20231130084624/https://www.crunchyroll.com/comics/manga/final-fantasy-lost-stranger/volumes -- opens (user); the live page redirects to the home page from 2025-08, so the row is terminated (inferred)
-- https://www.crunchyroll.com/comics/manga/final-fantasy-lost-stranger/volumes -- official English translation, Crunchyroll's volumes page -- accessed 2026-10-17 (the user, 2026-10-17: one of the official English translations; named by the Otapedia page; my fetch is blocked by Crunchyroll's bot check, so the page itself is not read by me); the entry's English link is the Goodreads page of the Yen Press volume, and Crunchyroll is not linked in the entry; asked the user whether to add it (see .plan/todo.md)
+- https://www.crunchyroll.com/news/latest/2017/7/2/crunchyroll-announces-aho-girl-elegant-yokai-apartment-life-netsuzou-trap-ntr-and-tsuredure-children-at-anime-expo -- official English release announcement -- accessed 2026-10-18
+  - launch July 12, 2017
+  - Volumes page, Wayback 2023-11-30: https://web.archive.org/web/20231130084624/https://www.crunchyroll.com/comics/manga/final-fantasy-lost-stranger/volumes -- opens (user)
+    - the live page redirects to the home page from 2025-08, so the row is terminated (inferred)
+- https://www.crunchyroll.com/comics/manga/final-fantasy-lost-stranger/volumes -- official English translation, Crunchyroll's volumes page -- accessed 2026-10-17
+  - (the user, 2026-10-17: one of the official English translations; named by the Otapedia page; my fetch is blocked by Crunchyroll's bot check, so the page itself is not read by me)
+  - the entry's English link is the Goodreads page of the Yen Press volume, and Crunchyroll is not linked in the entry
+  - asked the user whether to add it (see .plan/todo.md)
 ## Surveyed
 
 Tags: `used` · `dup` · `mine` · `empty` · `shallow`

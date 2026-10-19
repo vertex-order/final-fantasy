@@ -14,4 +14,5 @@
 ## Decisions
 
 - Narrative order: VII (1997) leads, then The Maiden Who Travels The Planet, On the Way to a Smile, The Kids Are Alright, Advent Children, then the Remake/Rebirth/Revelation reimaginings -- per the community placement in the reddit.com thread above.
-- Final Fantasy VII Remake World Preview (the preview and reference mook: characters, world, battle system, art, keywords; Japanese 2020-03-19, SE-mook, 128 pages, ISBN 978-4-7575-6541-8; English 2020-09-22, Square Enix Books, 136 pages, ISBN 9781646090846) is not listed (reason ours: a preview and reference book, outside the scope); its Nojima short story is listed as [Picturing the Past](final-fantasy-vii-remake-picturing-the-past-2020.md)
+- Final Fantasy VII Remake World Preview (the preview and reference mook: characters, world, battle system, art, keywords; Japanese 2020-03-19, SE-mook, 128 pages, ISBN 978-4-7575-6541-8; English 2020-09-22, Square Enix Books, 136 pages, ISBN 9781646090846) is not listed (reason ours: a preview and reference book, outside the scope)
+  - its Nojima short story is listed as [Picturing the Past](final-fantasy-vii-remake-picturing-the-past-2020.md)

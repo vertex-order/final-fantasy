@@ -16,7 +16,12 @@
 ## en.ffviiec.com (Information)
 
 - https://en.ffviiec.com/ -- profile*, title -- accessed 2026-10-17 (the game's official site; the English locale stays in the link, user 2026-10-17: it cannot be removed)
-- https://en.ffviiec.com/news/end-of-service/ -- terminated*, dates -- accessed 2026-10-17 (page text pasted by user): the management team's notice that service for Final Fantasy VII Ever Crisis ends on **Oct. 6, 2026, at 11:00 PM PDT**; the end-of-service notice was posted Jul. 7, 2026, 7:00 PM PDT; the App Store and Google Play versions launched Sep. 7, 2023 and the Steam version Dec. 6, 2023 (the entry's 2023-09-07 is the first); the entry's `terminated` flags on the Steam, Android and Apple rows and on the entry agree with the date, which has passed
+- https://en.ffviiec.com/news/end-of-service/ -- terminated*, dates -- accessed 2026-10-17
+  - (page text pasted by user)
+  - the management team's notice that service for Final Fantasy VII Ever Crisis ends on **Oct. 6, 2026, at 11:00 PM PDT**
+  - the end-of-service notice was posted Jul. 7, 2026, 7:00 PM PDT
+  - the App Store and Google Play versions launched Sep. 7, 2023 and the Steam version Dec. 6, 2023 (the entry's 2023-09-07 is the first)
+  - the entry's `terminated` flags on the Steam, Android and Apple rows and on the entry agree with the date, which has passed
 
 ## metacritic.com (Ratings)
 

@@ -32,10 +32,13 @@ ISBN 9784301001409, Japanese, Square Enix, December 17, 2025, 24 pages, B5 varia
 ## Sources
 
 squareenixmangaandbooks.square-enix-games.com (Information)
-- https://squareenixmangaandbooks.square-enix-games.com/product/9798899100833 — title link*, profile*, credits, dates (April 13, 2027), length (24 pages), format (hardcover, 8 5/8 x 8 5/8), category (Picture Book), genres (Action / Adventure, Fantasy, Game Tie-In), age rating N/A — accessed 2026-10-09, re-read 2026-10-11 (page text pasted by user; the `en-us/` locale segment is dropped, the site auto-detects locale) — archived: TODO
+- https://squareenixmangaandbooks.square-enix-games.com/product/9798899100833 — title link*, profile*, credits, dates (April 13, 2027), length (24 pages), format (hardcover, 8 5/8 x 8 5/8), category (Picture Book), genres (Action / Adventure, Fantasy, Game Tie-In), age rating N/A — accessed 2026-10-09
+  - , re-read 2026-10-11 (page text pasted by user; the `en-us/` locale segment is dropped, the site auto-detects locale) — archived: TODO
 
 press.na.square-enix.com (Publisher, English press release)
-- https://press.na.square-enix.com/SQUARE-ENIX-ANNOUNCES-EIGHT-NEW-MANGA-AND-TWO-NEW-BOOK-RELEASES-SLATED -- dates (EN "scheduled for release in April 2027", matches the product page's April 13, 2027), credits ("Written by Main Scenario Writer Banri Oda and illustrated by Naoki Ikushima and Rina Yoshiura"), story (original story by the game's development team); pre-orders from Penguin Random House and other major booksellers from July 2026 -- accessed 2026-10-11 (text pasted by user; page not opened by me) -- archived: TODO
+- https://press.na.square-enix.com/SQUARE-ENIX-ANNOUNCES-EIGHT-NEW-MANGA-AND-TWO-NEW-BOOK-RELEASES-SLATED -- dates (EN "scheduled for release in April 2027", matches the product page's April 13, 2027), credits ("Written by Main Scenario Writer Banri Oda and illustrated by Naoki Ikushima and Rina Yoshiura"), story (original story by the game's development team); pre-orders from Penguin Random House and other major booksellers from July 2026 -- accessed 2026-10-11
+  - (text pasted by user; page not opened by me)
+  - archived: TODO
   - Banri Oda is the game's main scenario writer
 
 magazine.jp.square-enix.com (Information)
@@ -55,7 +58,8 @@ goodreads.com (Ratings)
 
 ## Surveyed
 
-- Final Fantasy Fandom wiki — no article for this book (as of 2026-10-10); the XIV navigation box (navbox) lists it under "Manga and illustrated books" as "Saki & Final Fantasy XIV -Final Fantasy 14 no Ehon: Boku to Morokoshi-sama", unlinked, by a different name than ours — empty
+- Final Fantasy Fandom wiki — no article for this book (as of 2026-10-10)
+  - the XIV navigation box (navbox) lists it under "Manga and illustrated books" as "Saki & Final Fantasy XIV -Final Fantasy 14 no Ehon: Boku to Morokoshi-sama", unlinked, by a different name than ours — empty
 
 - [Goodreads search, Japanese title](https://www.goodreads.com/search?q=%E3%83%9C%E3%82%AF%E3%81%A8%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7%E3%81%95%E3%81%BE) — empty (no results as of 2026-10-09)
 

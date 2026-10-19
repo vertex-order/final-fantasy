@@ -28,9 +28,14 @@
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/tactics_advance -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Plot, Characters, Gameplay, Development)
-  - Plot: a short summary (four children of the town of St. Ivalice, Marche, Mewt, Ritz and Doned; an ancient magical book changes the world into Ivalice; Marche tries to restore it against the opposition of Queen Remedi, the ruler); agrees with the entry's description (Marche enters an alternate Ivalice with his friends living different lives, and tries to get home); the antagonist is a spoiler and is not in the description
-  - Release: Game Boy Advance, 2003, re-released on the Wii U Virtual Console in 2016; consistent with the entry (2003-02-14); it calls the game not a sequel but sharing much with Final Fantasy Tactics, and says it inspired the sequel Tactics A2: Grimoire of the Rift, consistent with the entry's note that it is a distinct game and with the A2 entry
+- https://otakumode.com/otapedia/games/final_fantasy/tactics_advance -- story, dates, platforms -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Plot, Characters, Gameplay, Development)
+  - Plot: a short summary (four children of the town of St. Ivalice, Marche, Mewt, Ritz and Doned; an ancient magical book changes the world into Ivalice; Marche tries to restore it against the opposition of Queen Remedi, the ruler)
+    - agrees with the entry's description (Marche enters an alternate Ivalice with his friends living different lives, and tries to get home)
+    - the antagonist is a spoiler and is not in the description
+  - Release: Game Boy Advance, 2003, re-released on the Wii U Virtual Console in 2016
+    - consistent with the entry (2003-02-14)
+    - it calls the game not a sequel but sharing much with Final Fantasy Tactics, and says it inspired the sequel Tactics A2: Grimoire of the Rift, consistent with the entry's note that it is a distinct game and with the A2 entry
   - Its Development section only has a Rumors subsection (not read); developer content, outside our scope; its Links section names only https://www.square-enix.com/
 
 ## Decisions

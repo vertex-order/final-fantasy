@@ -60,14 +60,20 @@ ndlsearch.ndl.go.jp (Information)
   - Title ファイナルファンタジー11電撃の旅団公式十年事典 : ジラートの幻影 プロマシアの呪縛 アトルガンの秘宝 アルタナの神兵 アドゥリンの魔境 (the subtitle names the five expansions)
   - Series 電撃PlayStation; ASCII MediaWorks, sold by 角川グループパブリッシング (Kadokawa Group Publishing); 2013.3
   - 217p; 26cm; NDC 798.5; ISBN 978-4-04-886757-3
-  - Summary (from JPRO, the publisher information registry): 10-year history for all adventurers; jobs, NPCs, monsters and story; "the first and strongest encyclopedia in the Brigade's history"; "our ten years aren't over unless you read this book"
+  - Summary (from JPRO, the publisher information registry): 10-year history for all adventurers
+    - jobs, NPCs, monsters and story
+    - "the first and strongest encyclopedia in the Brigade's history"
+    - "our ten years aren't over unless you read this book"
   - No authors listed; editor is 電撃プレイステーション編集部 per the publisher
 
 books.google.ca (Information)
 - https://books.google.ca/books?vid=ISBN9784048867573 — length*, publisher blurb, editor — accessed 2026-10-13
   - Text pasted by user, not archived; edition page https://www.google.ca/books/edition/_/IKLdmQEACAAJ
   - Editor 電撃プレイステーション編集部; ASCII MediaWorks; March 2013; 217 pages; ISBN 4048867571 / 9784048867573; preview unavailable
-  - Blurb (marked "Source: Publisher"): the Brigade's combined effort for the 10th anniversary of FF11; a ten-year history packed with memories; jobs, NPCs, monsters and story; "開発者ロングインタビューや描き下ろし4コマ掲載" (a long developer interview and newly drawn four-panel comics)
+  - Blurb (marked "Source: Publisher"): the Brigade's combined effort for the 10th anniversary of FF11
+    - a ten-year history packed with memories
+    - jobs, NPCs, monsters and story
+    - "開発者ロングインタビューや描き下ろし4コマ掲載" (a long developer interview and newly drawn four-panel comics)
 
 amazon.co.jp (Information)
 - https://www.amazon.co.jp/dp/4048867571 — length, date, blurb — accessed 2026-10-13
@@ -87,11 +93,13 @@ duckduckgo.com (Information)
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
 
-- [bg-wiki – Lightning Brigade section](https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Lightning_Brigade) — same page, other entries — mine: magazine article collections, not on the list; no comics noted
+- [bg-wiki – Lightning Brigade section](https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Lightning_Brigade) — same page, other entries — mine: magazine article collections, not on the list
+  - no comics noted
   - The Dengeki Brigade: a Final Fantasy XI feature in the magazine Dengeki PlayStation, about six years from the 2002 beta
   - 電撃の旅団クロニクル1 (Chronicle 1, 2002.2~2004.5): MediaWorks, April 2008, ISBN 978-4-8402-4208-0, 482pp, NDL 000009313233
   - クロニクル2 (2004.6~2006.12): ASCII MediaWorks, September 2008, ISBN 978-4-04-867305-1, 434pp, NDL 000009593145
-- [bg-wiki – Books](https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books) — 電撃の旅団公式同人誌 (Lightning Brigade Official Doujinshi, ASCII MediaWorks, June 2012, JAN 4942330054987, 100pp, A5), "more of a fan question and answer book" — mine: not on the list; a different book from this encyclopedia
+- [bg-wiki – Books](https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books) — 電撃の旅団公式同人誌 (Lightning Brigade Official Doujinshi, ASCII MediaWorks, June 2012, JAN 4942330054987, 100pp, A5), "more of a fan question and answer book" — mine: not on the list
+  - a different book from this encyclopedia
 - [bg-wiki – Manga, 4-Koma](https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma) — Lightning Brigade four-panel books from MediaWorks — mine: not on the list
   - 電撃の旅団編 えふえふいれぶん・4コマ・マンガ No.1: March 2004, 257p;B6, ISBN 4-8402-2469-2, 312 four-panel comics from the Dengeki PlayStation series plus articles
   - No.2: April 2007, 353p;B6, ISBN 978-4-8402-3819-9
@@ -119,5 +127,7 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Guides, encyclopedias and lists of NPCs, monsters and missions are out of scope
   - The tags `Manga` and `Short Stories` it carried had no source behind them
   - The Brigade's own four-panel books were added instead as placeholder entries; see the XI group sources (xi-group.md)
-- **Kept 2026-10-17 (user), within the context of the entire series:** the Encyclopedia is part 19 of the Lightning Brigade Guides entry (sources/final-fantasy-xi-lightning-brigade-guides-2003.md), the last book of a long-running series the reader follows; it is in only as part of that series, with its 108 all-new four-panel comics; the "Removed from the list" decision above still holds for it as a standalone entry (an encyclopedia, strips scattered through reference pages), so it is not listed on its own
+- **Kept 2026-10-17 (user), within the context of the entire series:** the Encyclopedia is part 19 of the Lightning Brigade Guides entry (sources/final-fantasy-xi-lightning-brigade-guides-2003.md), the last book of a long-running series the reader follows
+  - it is in only as part of that series, with its 108 all-new four-panel comics
+  - the "Removed from the list" decision above still holds for it as a standalone entry (an encyclopedia, strips scattered through reference pages), so it is not listed on its own
 

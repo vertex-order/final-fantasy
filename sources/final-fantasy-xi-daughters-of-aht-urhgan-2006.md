@@ -86,7 +86,8 @@ plaza.harmonix.ne.jp (Information)
   - Sale dates on the page, not the entry's day-level dates: 〜アトルガンの娘たち　１〜 2006-07-29; 〜アトルガンの娘たち　２〜 2006-09-30; 〜アトルガンの娘たち　３〜 2006-11-30
 
 kadokawa.co.jp (Publisher, Japanese)
-- https://www.kadokawa.co.jp/product/search/?kw=%E3%82%A2%E3%83%88%E3%83%AB%E3%82%AC%E3%83%B3%E3%81%AE%E5%A8%98%E3%81%9F%E3%81%A1 -- profile* -- accessed 2026-10-16: search アトルガンの娘たち (user, 2026-10-16): exactly the 3 volumes, 2006-07-29, 2006-09-30 and 2006-11-30, illustrations 金田榮路 each
+- https://www.kadokawa.co.jp/product/search/?kw=%E3%82%A2%E3%83%88%E3%83%AB%E3%82%AC%E3%83%B3%E3%81%AE%E5%A8%98%E3%81%9F%E3%81%A1 -- profile* -- accessed 2026-10-16
+  - search アトルガンの娘たち (user, 2026-10-16): exactly the 3 volumes, 2006-07-29, 2006-09-30 and 2006-11-30, illustrations 金田榮路 each
 
 ## Surveyed
 
@@ -97,5 +98,9 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - AO3 translator calls it "the light novel"
 
 ## Decisions
-- `profileUrl` is the KADOKAWA page above (user, 2026-10-16)
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～アトルガンの娘たち1～ -- elemen.jp: 2006/07/29, エンターブレイン, はせがわみやび, ASIN 4757728727; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2006/4-7577-2872-7.html (not archived); ファイナルファンタジーXI ～アトルガンの娘たち2～ -- elemen.jp: 2006/09/30, エンターブレイン, はせがわみやび, ASIN 4757729391; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2006/4-7577-2939-1.html (not archived); ファイナルファンタジーXI ～アトルガンの娘たち3～ -- elemen.jp: 2006/11/30, エンターブレイン, はせがわみやび, ASIN 4757730365; reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2006/4-7577-3036-5.html (not archived)
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～アトルガンの娘たち1～ -- elemen.jp: 2006/07/29, エンターブレイン, はせがわみやび, ASIN 4757728727
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2006/4-7577-2872-7.html (not archived)
+  - ファイナルファンタジーXI ～アトルガンの娘たち2～ -- elemen.jp: 2006/09/30, エンターブレイン, はせがわみやび, ASIN 4757729391
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2006/4-7577-2939-1.html (not archived)
+  - ファイナルファンタジーXI ～アトルガンの娘たち3～ -- elemen.jp: 2006/11/30, エンターブレイン, はせがわみやび, ASIN 4757730365
+  - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2006/4-7577-3036-5.html (not archived)

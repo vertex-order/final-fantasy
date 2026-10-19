@@ -47,8 +47,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
 
 ## otakumode.com (Information)
 
-- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_10 -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Final Fantasy X Plot, Gameplay, Characters, Development)
-  - Final Fantasy X Plot: a very short summary (Tidus of Zanarkand, a blitzball player, awakening in Spira, Sin, the summoner Yuna's quest, the Machina War a thousand years ago); agrees with the entry's description (Tidus, blitzball, Yuna, vanquishing Sin); no new fact
+- https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_10 -- story, dates, platforms -- accessed 2026-10-17
+  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Final Fantasy X Plot, Gameplay, Characters, Development)
+  - Final Fantasy X Plot: a very short summary (Tidus of Zanarkand, a blitzball player, awakening in Spira, Sin, the summoner Yuna's quest, the Machina War a thousand years ago)
+    - agrees with the entry's description (Tidus, blitzball, Yuna, vanquishing Sin)
+    - no new fact
   - **It says the game was released on the PlayStation 2 in 2003, which is wrong:** the Japanese release was 2001-07-19, and the page's own timeline gives July 19th, 2001 (see docs/wiki-corrections.md)
   - The HD Remaster releases it lists (PS3 and Vita 2013, PS4 2015, Windows 2016, Switch and Xbox One 2019) are consistent with the entry's platforms; no new fact
   - Its Development section links a GameSpy page (http://ps2.gamespy.com/playstation-2/final-fantasy-x/539181p2.html): a game review, outside our scope; not read by me

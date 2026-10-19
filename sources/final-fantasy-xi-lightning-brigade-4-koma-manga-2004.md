@@ -15,7 +15,9 @@
 
 NO.1: ISBN 9784840224697 (ISBN10: 4840224692), Japanese, MediaWorks (sold by Kadokawa Shoten), 2004-02-20, 257 pages, B6, 19 cm, Comic — per KADOKAWA + NDL + Amazon.co.jp + Goodreads — JA language link*, rating (NYR)*, profileUrl*, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784840224697
-- cover scan (bg-wiki, pasted by user 2026-10-14): front 電撃・えふえふいれぶん・4コマ・マンガ No.1 under ファイナルファンタジーXI 電撃の旅団編 with a 4-koma strip "ガンバレ団長" on the back and flap; back: ISBN 4-8402-2469-2 (agrees), C0076, published by MediaWorks; the entry's data agrees
+- cover scan (bg-wiki, pasted by user 2026-10-14): front 電撃・えふえふいれぶん・4コマ・マンガ No.1 under ファイナルファンタジーXI 電撃の旅団編 with a 4-koma strip "ガンバレ団長" on the back and flap
+  - back: ISBN 4-8402-2469-2 (agrees), C0076, published by MediaWorks
+  - the entry's data agrees
 - goodreads: https://www.goodreads.com/book/show/77594373 — accessed 2026-10-13
 - google books: https://books.google.ca/books?vid=ISBN9784840224697 — accessed 2026-10-13
 - open library: https://openlibrary.org/search?isbn=9784840224697 — accessed 2026-10-13, no results
@@ -54,7 +56,16 @@ kadokawa.co.jp (Information)
 ndlsearch.ndl.go.jp (Information)
 - https://ndlsearch.ndl.go.jp/books/R100000002-I000004360633 — length*, credits*, dates, publisher — accessed 2026-10-13
   - Text pasted by user, not archived; NDL bib ID 000004360633; national bibliography no. 20546206; call no. Y84-H7795
-  - NO.2: https://ndlsearch.ndl.go.jp/books/R100000002-I000008490843 — NDL bib ID 000008490843; national bibliography no. 21214739; call no. Y84-H28268; 江本聖 [漫画]; MediaWorks, sold by 角川グループパブリッシング; 2007.4; 353p; 19 cm; NDC 726.1; ISBN 978-4-8402-3819-9
+  - NO.2: https://ndlsearch.ndl.go.jp/books/R100000002-I000008490843 — NDL bib ID 000008490843
+    - national bibliography no. 21214739
+    - call no. Y84-H28268
+    - 江本聖 [漫画]
+    - MediaWorks, sold by 角川グループパブリッシング
+    - 2007.4
+    - 353p
+    - 19 cm
+    - NDC 726.1
+    - ISBN 978-4-8402-3819-9
   - Title 電撃・えふえふいれぶん・4コマ・マンガ : ファイナルファンタジー11電撃の旅団編, volume no.1
   - 江本聖 [漫画]; MediaWorks, sold by 角川書店; 2004.3; 257p; 19 cm; NDC 726.1; ISBN 4-8402-2469-2
 
@@ -68,19 +79,35 @@ amazon.co.jp (Information)
 - https://www.amazon.co.jp/dp/4840224692 — description*, length, date — accessed 2026-10-13
   - Text pasted by user, not archived
   - Authors 江本 聖 and 電撃プレイステーション; Comic; 257 pages; MediaWorks; February 20, 2004; 4.2 of 5 (14 ratings)
-  - Blurb: four-panel comics that ran in Dengeki PlayStation, with new strips drawn for the book, 312 in total; episodes from the start of the Final Fantasy XI service and the Brigade's progress; plus feature articles ("Brigade member encyclopedia" with their data, job-specific practical macros)
+  - Blurb: four-panel comics that ran in Dengeki PlayStation, with new strips drawn for the book, 312 in total
+    - episodes from the start of the Final Fantasy XI service and the Brigade's progress
+    - plus feature articles ("Brigade member encyclopedia" with their data, job-specific practical macros)
   - Also lists NO.2 and The Beast's Path Vol.1 and Vol.2 (江本 聖) as related books
-  - NO.2: https://www.amazon.co.jp/dp/4840238197; 江本 聖 (Author), 電撃PlayStation (Editor); Tankobon softcover; 352 pages; MediaWorks; March 23, 2007; 4.4 of 5 (9 ratings); blurb only "four-panel manga, Final Fantasy, published in 2007"
+  - NO.2: https://www.amazon.co.jp/dp/4840238197
+    - 江本 聖 (Author), 電撃PlayStation (Editor)
+    - Tankobon softcover
+    - 352 pages
+    - MediaWorks
+    - March 23, 2007
+    - 4.4 of 5 (9 ratings)
+    - blurb only "four-panel manga, Final Fantasy, published in 2007"
 
 bg-wiki.com (Information)
 - https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma — titleUrl*, dates, length — shallow: rows noted while researching the Lightning Brigade Encyclopedia (2026-10-13), page not re-read
   - Section "4-Koma": Lightning Brigade four-panel books from MediaWorks
   - Page text pasted by user again on 2026-10-13 (NO.1 and NO.2 rows below; not re-opened)
-  - NO.1 Japanese 電撃の旅団編 : えふえふいれぶん・4コマ・マンガNo.1; English "Lightning Brigade Edition : FFEleven · 4-Panel Manga No.1"; NDL 000004360633; 2004.03; 257p;B6; notes: 312 four-panel comics, new material added to the Dengeki PlayStation series, from the start of the service to the Brigade's journey, plus feature articles ("Brigade Member Encyclopedia", job macros)
+  - NO.1 Japanese 電撃の旅団編 : えふえふいれぶん・4コマ・マンガNo.1
+    - English "Lightning Brigade Edition : FFEleven · 4-Panel Manga No.1"
+    - NDL 000004360633
+    - 2004.03
+    - 257p;B6
+    - notes: 312 four-panel comics, new material added to the Dengeki PlayStation series, from the start of the service to the Brigade's journey, plus feature articles ("Brigade Member Encyclopedia", job macros)
   - NO.2 Japanese 電撃の旅団編 : えふえふいれぶん・4コマ・マンガ : no.2; English "Lightning Brigade Edition : FFEleven · 4-Panel Manga No.2"; NDL 000008490843; 2007.04; 353p;B6; notes: "packed with hundreds of more four-panel comics"
 
 ja.wikipedia.org (Information)
-- https://ja.wikipedia.org/wiki/電撃の旅団 -- by* -- accessed 2026-10-13 -- section "その他" (Other) lists 電撃・えふえふいれぶん・4コマ・マンガ No.1 and No.2, 電撃4コマ インターナショナル 〜ヴァナ･ディールで使える英単語/英会話〜 and 獣の花道 FFXI・電撃の旅団外伝 Vol.1 and Vol.2, each as 著作: 江本 聖 (Hijiri Emoto per the NDL authority reading); the page carries a no-sources notice, so it only confirms the credit
+- https://ja.wikipedia.org/wiki/電撃の旅団 -- by* -- accessed 2026-10-13
+  - section "その他" (Other) lists 電撃・えふえふいれぶん・4コマ・マンガ No.1 and No.2, 電撃4コマ インターナショナル 〜ヴァナ･ディールで使える英単語/英会話〜 and 獣の花道 FFXI・電撃の旅団外伝 Vol.1 and Vol.2, each as 著作: 江本 聖 (Hijiri Emoto per the NDL authority reading)
+  - the page carries a no-sources notice, so it only confirms the credit
 
 ## Decisions
 
@@ -95,6 +122,7 @@ ja.wikipedia.org (Information)
   - Rule: the figure most records agree on
 - Title is our translation: "Lightning Brigade 4-Koma Manga" for 電撃の旅団編 えふえふいれぶん・4コマ・マンガ
 - Description wording from the Amazon.co.jp blurb; no strip count given since it is only NO.1's (312)
-- Added 2026-10-13 as the Dengeki Brigade's gag-comic collections, in place of the Lightning Brigade Encyclopedia (see final-fantasy-xi-lightning-brigade-encyclopedia-2013.md)
-- A `fan-translation` row was added (2026-10-16): a DuckDuckGo search on the series' English title, marked `noResults` (no results yet; not searched by us); it is the series search, not one per part, and the book row stays the official Japanese print
-- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/comic_mediaworks.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI 電撃の旅団 編 電撃・えふえふいれぶん・4コマ・マンガ No.1 -- elemen.jp: 2004/02/20, メディアワークス, 258p, ASIN 4840224692; ファイナルファンタジーXI 電撃の旅団 編 電撃・えふえふいれぶん・4コマ・マンガ No.2 -- elemen.jp: 2007/03/23, メディアワークス, 352p, ASIN 4840238197
+- A `fan-translation` row was added (2026-10-16): a DuckDuckGo search on the series' English title, marked `noResults` (no results yet; not searched by us)
+  - it is the series search, not one per part, and the book row stays the official Japanese print
+- elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/comic_mediaworks.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI 電撃の旅団 編 電撃・えふえふいれぶん・4コマ・マンガ No.1 -- elemen.jp: 2004/02/20, メディアワークス, 258p, ASIN 4840224692
+  - ファイナルファンタジーXI 電撃の旅団 編 電撃・えふえふいれぶん・4コマ・マンガ No.2 -- elemen.jp: 2007/03/23, メディアワークス, 352p, ASIN 4840238197

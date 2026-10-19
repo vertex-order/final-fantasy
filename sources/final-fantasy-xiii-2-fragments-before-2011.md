@@ -41,17 +41,28 @@ Spanish (Castilian) — ES language link*
 ## Sources
 
 yenpress.com (Publisher, English)
-- https://yenpress.com/titles/9781975382377-final-fantasy-xiii-2-fragments-before — profile*, credits (Jun Eishima, sole author named), length* (184 pages; paperback, ISBN 9781975382377), paperback, T (Teen) — accessed 2026-10-11 — archived: TODO
+- https://yenpress.com/titles/9781975382377-final-fantasy-xiii-2-fragments-before — profile*, credits (Jun Eishima, sole author named), length* (184 pages; paperback, ISBN 9781975382377), paperback, T (Teen) — accessed 2026-10-11
+  - archived: TODO
   - The English publisher's page over the Japanese Square Enix page, since the book has an official English edition
 
 magazine.jp.square-enix.com (Publisher, Japanese)
-- https://magazine.jp.square-enix.com/gamebooks/books/10076 — the current Game Books page (it exists, so the older page below is no longer Wayback-only): dates (発売日 2011年12月15日; confirms titleDate), size (四六判), length (口絵4C8P+本文1C224P = 232 pages, agrees with the wiki's intro), ISBN 9784757534667, story (five episodes: Serah, New Bodhum, Snow, Rygdea & Bartholomew, Noel), credits (著者 映島巡, 原案 鳥山求・渡辺大祐) — accessed 2026-10-11 (page text pasted by user) — archived: TODO
+- https://magazine.jp.square-enix.com/gamebooks/books/10076 — the current Game Books page (it exists, so the older page below is no longer Wayback-only): dates (発売日 2011年12月15日; confirms titleDate), size (四六判), length (口絵4C8P+本文1C224P = 232 pages, agrees with the wiki's intro), ISBN 9784757534667, story (five episodes: Serah, New Bodhum, Snow, Rygdea & Bartholomew, Noel), credits (著者 映島巡, 原案 鳥山求・渡辺大祐) — accessed 2026-10-11
+  - (page text pasted by user)
+  - archived: TODO
 - Older page (Wayback only now; a second capture of the magazine.jp form: https://web.archive.org/web/20210124053449/https://magazine.jp.square-enix.com/gamebooks/ff/13_2_fragments_before/index.html):
-- https://web.archive.org/web/20180820235814/http://www.square-enix.co.jp/magazine/gamebooks/ff/13_2_fragments_before/index.html — dates (2011年12月15日発売, matches titleDate 2011-12-15), length (口絵4C8P+本文1C224P; Goodreads says 220), ISBN 978-4-7575-3466-7 (matches), size (四六判), credits (著者 映島巡; 原案 鳥山求、渡辺大祐), story (five episodes: Sera, New Bodhum, Snow, Rygdea & Bartholomew, Noel) — accessed 2026-10-11 — archived: the Wayback URL itself (live page gone)
+- https://web.archive.org/web/20180820235814/http://www.square-enix.co.jp/magazine/gamebooks/ff/13_2_fragments_before/index.html — dates (2011年12月15日発売, matches titleDate 2011-12-15), length (口絵4C8P+本文1C224P; Goodreads says 220), ISBN 978-4-7575-3466-7 (matches), size (四六判), credits (著者 映島巡; 原案 鳥山求、渡辺大祐), story (five episodes: Sera, New Bodhum, Snow, Rygdea & Bartholomew, Noel) — accessed 2026-10-11
+  - archived: the Wayback URL itself (live page gone)
 
 breezewiki.com (Information)
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before — re-read 2026-10-11 (intro and infobox pasted by user): 232 pages (intro; the infobox says 224p, the JA main text), December 15, 2011; English by Yen Press (the intro says July 30, 2019, the infobox July 16, 2019; Goodreads says July 30), ISBN 978-1-9753-8237-7, 176p per the wiki (our entry's 184p follows Yen Press); German by Panini April 8, 2014 (ISBN 978-3-8332-2863-6, 288p); French by Lumen December 3, 2015 (ISBN 978-2-3710-2053-5, translator Cécile Sénaux, 245p); Spanish by Planeta Cómic June 12, 2024 (ISBN 978-84-1161-199-2, translator Mónica Rodríguez R., 216p); the infobox author field also lists Motomu Toriyama and Daisuke Watanabe, the original concept credits left out of `by`
-- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits (Jun Eishima), dates (December 15, 2011; matches the Square Enix page), ISBN 978-4-7575-3466-7; the table row, and the book has a dedicated page (already cited above) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before — re-read 2026-10-11 (intro and infobox pasted by user): 232 pages (intro; the infobox says 224p, the JA main text), December 15, 2011
+  - English by Yen Press (the intro says July 30, 2019, the infobox July 16, 2019; Goodreads says July 30), ISBN 978-1-9753-8237-7, 176p per the wiki (our entry's 184p follows Yen Press)
+  - German by Panini April 8, 2014 (ISBN 978-3-8332-2863-6, 288p)
+  - French by Lumen December 3, 2015 (ISBN 978-2-3710-2053-5, translator Cécile Sénaux, 245p)
+  - Spanish by Planeta Cómic June 12, 2024 (ISBN 978-84-1161-199-2, translator Mónica Rodríguez R., 216p)
+  - the infobox author field also lists Motomu Toriyama and Daisuke Watanabe, the original concept credits left out of `by`
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits (Jun Eishima), dates (December 15, 2011; matches the Square Enix page), ISBN 978-4-7575-3466-7; the table row, and the book has a dedicated page (already cited above) — accessed 2026-10-11
+  - (table pasted by user; fetch blocked)
+  - archived: TODO
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before — title link*, book platform (Short Stories) — accessed not recorded
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_Fragments_Before#External_links — platforms* (fan translation), languages (EN fan translation) — accessed 2026-10-10
   - Links two English fan translations; the translation row is this wiki page, so the translations themselves aren't logged here

@@ -33,7 +33,8 @@ ISBN 9784757571204 (ISBN10: 4757571208), Japanese, Square Enix, May 8, 2021, 24 
 ## Sources
 
 squareenixmangaandbooks.square-enix-games.com (Information)
-- https://squareenixmangaandbooks.square-enix-games.com/product/9781646091447 — title link*, profile*, credits, dates (EN August 9, 2022), length (24 pages), format (hardcover), category, genres — accessed 2026-10-09 — archived: TODO
+- https://squareenixmangaandbooks.square-enix-games.com/product/9781646091447 — title link*, profile*, credits, dates (EN August 9, 2022), length (24 pages), format (hardcover), category, genres — accessed 2026-10-09
+  - archived: TODO
 
 magazine.jp.square-enix.com (Information)
 - https://magazine.jp.square-enix.com/gamebooks/books/10377 — dates* (JA May 8, 2021; start of `titleDate`, Japanese release authoritative), length (24 pages, 4-color), ISBN — accessed 2026-10-09 — archived: TODO
@@ -48,11 +49,13 @@ goodreads.com (Information)
 - https://www.goodreads.com/book/show/58813457 — credits (JA text: 織田 万里), dates (JA May 8, 2021), length (24 pages), languages* (JA) — accessed 2026-10-09 — archived: TODO
 
 google.com/books (Information)
-- https://www.google.com/books/edition/%E3%83%8A%E3%83%9E%E3%82%BA%E3%82%AA%E3%81%A8%E3%81%A0%E3%82%8C%E3%82%82%E3%81%BF%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AE/iH1xzgEACAAJ — credits (Japanese text and illustrator), dates (May 2021, publisher-sourced), languages (JA) — accessed 2026-10-09 — archived: TODO
+- https://www.google.com/books/edition/%E3%83%8A%E3%83%9E%E3%82%BA%E3%82%AA%E3%81%A8%E3%81%A0%E3%82%8C%E3%82%82%E3%81%BF%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AE/iH1xzgEACAAJ — credits (Japanese text and illustrator), dates (May 2021, publisher-sourced), languages (JA) — accessed 2026-10-09
+  - archived: TODO
 
 ## Surveyed
 
-- Final Fantasy Fandom wiki — no article for this book (as of 2026-10-10); the XIV navigation box (navbox) lists it under "Manga and illustrated books" as "Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift", unlinked — empty
+- Final Fantasy Fandom wiki — no article for this book (as of 2026-10-10)
+  - the XIV navigation box (navbox) lists it under "Manga and illustrated books" as "Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift", unlinked — empty
 
 ## Decisions
 

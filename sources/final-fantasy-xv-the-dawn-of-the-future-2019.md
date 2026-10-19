@@ -42,7 +42,8 @@ ISBN 9788411403009 (ISBN10: 8411403009), Spanish (Castilian), Planeta Cómic, Ju
 ## Sources
 
 squareenixmangaandbooks.square-enix-games.com (Information)
-- https://squareenixmangaandbooks.square-enix-games.com/product/9781646090006 — profile*, credits ("By: Jun Eishima, FINAL FANTASY XV Development Team"), dates (EN print July 14, 2020; digital June 23, 2020), length* (384 pages), format (hardcover, 5 3/4 x 8 3/8), category (Novel), genres — accessed 2026-10-10 — archived: TODO
+- https://squareenixmangaandbooks.square-enix-games.com/product/9781646090006 — profile*, credits ("By: Jun Eishima, FINAL FANTASY XV Development Team"), dates (EN print July 14, 2020; digital June 23, 2020), length* (384 pages), format (hardcover, 5 3/4 x 8 3/8), category (Novel), genres — accessed 2026-10-10
+  - archived: TODO
 
 magazine.jp.square-enix.com (Information)
 - https://magazine.jp.square-enix.com/gamebooks/books/10109 — dates* (JA April 25, 2019; the Japanese Square Enix page is the date source), length (408 pages, 四六判), ISBN — accessed 2026-10-10 — archived: TODO
@@ -52,7 +53,8 @@ store.jp.square-enix.com (Information)
 
 finalfantasy.fandom.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_-The_Dawn_of_the_Future-#External_links — platforms* (fan translation), languages* (EN, tip "Official; Fan Translation"): the wiki's External links list English fan translations (per the user, 2026-10-11; the section's contents were not seen by me, so the translation pages themselves aren't logged here); the entry links this stable wiki page, so no extra lines are needed (docs/sources.md) — accessed 2026-10-11
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_-The_Dawn_of_the_Future- — title link*, credits* (Jun Eishima; the wiki says it's the pen name of Emi Nagashima; its intro: written "based on a draft by the Final Fantasy XV development team", the novel "retells the events of the cancelled downloadable content tetralogy of the same name" — re-read 2026-10-11, page text pasted by user), story (a novel follow-up to XV), dates (JA April 25, 2019; EN digital June 23, 2020; EN print July 14, 2020), publisher (SE-Mook / Square Enix Books), translator (Stephen Kohler), length (408 p JA, 400 p EN; publisher says 384) — accessed 2026-10-10 — archived: TODO
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_-The_Dawn_of_the_Future- — title link*, credits* (Jun Eishima; the wiki says it's the pen name of Emi Nagashima; its intro: written "based on a draft by the Final Fantasy XV development team", the novel "retells the events of the cancelled downloadable content tetralogy of the same name" — re-read 2026-10-11, page text pasted by user), story (a novel follow-up to XV), dates (JA April 25, 2019; EN digital June 23, 2020; EN print July 14, 2020), publisher (SE-Mook / Square Enix Books), translator (Stephen Kohler), length (408 p JA, 400 p EN; publisher says 384) — accessed 2026-10-10
+  - archived: TODO
   - The wiki gives the Japanese title as ファイナルファンタジーＸＶ 未来への夜明け (Mirai e no Yoake); the publisher's pages use 小説 FINAL FANTASY XV -The Dawn Of The Future-
 
 ndlsearch.ndl.go.jp (Information)
@@ -62,7 +64,8 @@ goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/48565746-final-fantasy-xv — ratings* (4.17, 1,331 ratings), languages* (EN), length* (384 pages, hardcover), dates (EN July 14, 2020) — accessed 2026-10-09 — archived: TODO
 
 goodreads.com (Information)
-- https://www.goodreads.com/book/show/51116768-final-fantasy-xv — languages* (JA), dates (JA April 25, 2019), format* (408 pages, Hardcover, original title "Final Fantasy XV: The Dawn of the Future"; platform stays Novel) — accessed 2026-10-09 — archived: TODO
+- https://www.goodreads.com/book/show/51116768-final-fantasy-xv — languages* (JA), dates (JA April 25, 2019), format* (408 pages, Hardcover, original title "Final Fantasy XV: The Dawn of the Future"; platform stays Novel) — accessed 2026-10-09
+  - archived: TODO
 - https://www.goodreads.com/book/show/54952399-final-fantasy-xv — languages* (FR), dates (FR September 3, 2020) — accessed 2026-10-09 — archived: TODO
 - https://www.goodreads.com/book/show/123300882-final-fantasy-xv-el-amanecer-del-futuro — languages* (ES), dates (ES June 14, 2023) — accessed 2026-10-09 — archived: TODO
 
@@ -70,7 +73,9 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media — story, platforms — accessed 2026-09-22 — archived: TODO
 
 breezewiki.com (Information)
-- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits (Jun Eishima), dates (April 25, 2019), ISBN 978-4-7575-6108-3; the table row, and the book has a dedicated page (already cited above) — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits (Jun Eishima), dates (April 25, 2019), ISBN 978-4-7575-6108-3; the table row, and the book has a dedicated page (already cited above) — accessed 2026-10-11
+  - (table pasted by user; fetch blocked)
+  - archived: TODO
 
 ## Surveyed
 
