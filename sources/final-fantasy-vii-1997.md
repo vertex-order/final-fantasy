@@ -9,11 +9,13 @@
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVII
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffviiec
+  - Not working (404, checked 2026-10-19; confirmed by user); the Ever Crisis rows link the ff7ecww Play page instead
 
 ## Apple App Store (Platform)
 
 - https://apps.apple.com/app/final-fantasy-vii/id1021566244
 - https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1546223882
+  - Not working (404, checked 2026-10-19; confirmed by user); the Ever Crisis rows link the id1536905430 App Store page instead
 
 ## en.ffviiec.com (Information)
 

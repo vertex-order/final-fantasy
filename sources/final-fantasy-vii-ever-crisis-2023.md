@@ -8,14 +8,18 @@
 ## Android (Platform)
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww
+  - Entry rows link the Wayback capture of 2026-10-07 (taken down soon after end of service, as other Square Enix apps were): https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww
 
 ## Apple App Store (Platform)
 
 - https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430
+  - Entry rows link the Wayback capture of 2026-10-07 (US page): https://web.archive.org/web/20261007234945/https://apps.apple.com/us/app/final-fantasy-vii-ever-crisis/id1536905430
 
 ## en.ffviiec.com (Information)
 
 - https://en.ffviiec.com/ -- profile*, title -- accessed 2026-10-17 (the game's official site; the English locale stays in the link, user 2026-10-17: it cannot be removed)
+  - Still live 2026-10-19, but end of service (2026-10-06) makes it likely to go down or redirect; every Ever Crisis `profileUrl` links the Wayback capture of 2026-10-07 instead: https://web.archive.org/web/20261007185033/https://en.ffviiec.com/
+  - Capture list (CDX 2026-10-19): latest full captures 2026-09-29 and 2026-10-07; a fresh save request returned the 2026-10-07 capture, so no capture of 2026-10-19 exists
 - https://en.ffviiec.com/news/end-of-service/ -- terminated*, dates -- accessed 2026-10-17
   - (page text pasted by user)
   - the management team's notice that service for Final Fantasy VII Ever Crisis ends on **Oct. 6, 2026, at 11:00 PM PDT**
