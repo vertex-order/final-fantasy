@@ -181,7 +181,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
       length: '288p; A6',
       languages: [
         { value: 'JA', url: 'https://www.goodreads.com/book/show/77954969' },
-        { value: 'EN', tip: 'English (fan translation)' },
+        { value: 'EN', tip: 'English (partial fan translation)' },
       ],
       platforms: [
         { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy II Muma no Meikyū Nightmare's Labyrinth", searchQualifier: 'light novel' },
@@ -221,7 +221,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     title: 'Final Fantasy II: Dragon Treasures', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Hih%C5%8D_no_Dragon', titleDate: '1989-01',
     by: 'Naomi Inoue',
     mediaDesc: [
-      'A gamebook set in the world of Final Fantasy II. Centers on Princess Marie of Fynn, an original character combining traits of Maria and Hilda, alongside Firion, Guy, and Minwu. Released as ファイナルファンタジーII 秘宝のドラゴン (Final Fantasy II Hihō no Dragon).',
+      'A gamebook set in the world of Final Fantasy II. Centers on Princess Marie of Fynn, an original character combining traits of Maria and Hilda, alongside Firion, Guy, and Minwu. Released as ファイナルファンタジーII 秘宝のドラゴン (Final Fantasy II Hihō no Dragon), also known as Dragon of Hidden Treasure and The Hidden Dragon, and printed in the book as Treasure of Dragon.',
     ],
     primary: {
       tags: ['Gamebook'],

@@ -44,6 +44,12 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
   - novel, pub.: 4/1/1989, Kadokawa Shoten" -- corroborates the credit
   - the date conflict is resolved: the publisher's page says March 20, 1989, and the podcast's April 1 follows NDL's month (checked 2026-10-15)
 
+ffii-book.tumblr.com (Information; fan translation)
+- https://ffii-book.tumblr.com/index -- English fan translation of the novel (its title there: Labyrinth of Nightmares), incomplete; EN language flag* -- accessed 2026-10-19 (page text pasted by user) -- archived: TODO
+  - Chapter index: prologue; Part One "Prelude to a Nightmare" chapters 1 to 7; Part Two "Hunters of Transient Dreams" chapters 1 and 2 listed, with a note "Part 2, Chapter 5 - July 10, 2020" as the latest update
+  - Also shows fanart and other goodies; target dates are projections
+  - Stays out of `site/data` (translation pages are sources only); the entry's EN flag says partial fan translation (user, 2026-10-19)
+
 ## Surveyed
 
 - [Fandom – Nightmare's Labyrinth](https://finalfantasy.fandom.com/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB) — see above — used

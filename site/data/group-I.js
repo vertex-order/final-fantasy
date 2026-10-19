@@ -448,4 +448,26 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       ],
     },
   },
+  {
+    mediaType: 'Book', chronoOrder: 510, narrativeOrder: 310,
+    title: 'Final Fantasy: May Light Be Upon the Heroes!', titleUrl: 'https://www.thevideogamelibrary.org/book/final-fantasy-let-the-brave-light', titleDate: '1988-04-25',
+    by: 'Naomi Inoue',
+    mediaDesc: [
+      [{ text: 'A gamebook adaptation of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ', set in a reimagined version of its world, in which four boys born under the moon of Ulm are guided by a crystal blessed by the Priestess of Light. Released as ファイナルファンタジー 勇者に光あれ！ (Fainaru Fantajī Yūsha ni Hikari Are!), printed inside as “Quest of the Sanctuary ‘Light’”.' }],
+    ],
+    primary: {
+      tags: ['Alternate Universe', 'Gamebook'],
+      subtitle: 'Book',
+      length: '265p; A6',
+      profileUrl: 'https://ndlsearch.ndl.go.jp/books/R100000002-I000001922850',
+      languages: [
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77930245' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Gamebook', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'ファイナルファンタジー 勇者に光あれ', searchQualifier: 'gamebook' },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'ファイナルファンタジー 勇者に光あれ', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'ファイナルファンタジー 勇者に光あれ', noResults: true },
+      ],
+    },
+  },
 ]};
