@@ -6,6 +6,11 @@
 
 - https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games -- media*, dates*, platforms* -- accessed 2026-09-22
 - https://wikipedia.org/wiki/List_of_Square_Enix_video_games -- games, platforms, date -- accessed 2026-09-25
+- https://wikipedia.org/wiki/Category:Stadia_games -- Stadia games -- accessed 2026-10-19 (confirmed by user; the category list read by me through the API, 213 pages)
+  - Only Final Fantasy XV (and its downloadable content) is listed among the Final Fantasy games; no other Final Fantasy game was on Stadia
+  - The entry's Stadia row is the Final Fantasy XV Stadia Edition
+- https://web.archive.org/web/20201112104757/https://store.google.com/product/stadia_games -- Google Store Stadia games page -- accessed 2026-10-19 (capture 2020-11-12)
+  - Confirms Final Fantasy XV was listed on Stadia
 
 ## otakumode.com (Information; Tokyo Otaku Mode, Otapedia, English)
 

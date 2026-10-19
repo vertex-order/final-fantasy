@@ -117,6 +117,16 @@ square-enix-games.com (Publisher, official)
   - it includes the main game (the same contents as the Royal Edition), the Royal Pack DLC, Episodes Gladiolus, Prompto, Ignis and Ardyn, **Multiplayer: Comrades ("matching will only be among Stadia users")**, Booster Pack+ and Holiday Pack+ (without the "Carnival Passport"), and **the "Minigame collection 'Crazy Challenge' (new feature for Stadia version)"**
   - so the only content exclusive to the Stadia version is the Crazy Challenge minigame collection
   - the rest is the Royal Edition contents, with Comrades matchmaking limited to Stadia players and the Holiday Pack+ lacking the Carnival Passport
+- https://sqex.link/9d3 -- Square Enix short link to the Stadia Edition page -- accessed 2026-10-19
+  - Live now: redirects (302) to https://www.square-enix-games.com/404, a dead page
+  - Wayback captures 2019-11-19, 2020-11-12 and 2021-04-16 redirect (301) to https://finalfantasyxv.square-enix-games.com/stadia, the same Stadia Version page the row already links in the 2024-10-24 capture
+- https://web.archive.org/web/20210207121513/https://finalfantasyxv.square-enix-games.com/en/stadia -- Stadia Edition page; profileUrl of the Stadia version -- accessed 2026-10-19 (capture 2021-02-07)
+  - Lists no supported languages; the screenshots show English
+  - Other languages unknown and unlikely to surface without an actual build; the version lists EN with `…?` and no `helpWanted`
+- https://web.archive.org/web/20201112104757/https://store.google.com/product/stadia_games -- Google Store Stadia games page; Stadia rows -- accessed 2026-10-19 (capture 2020-11-12)
+  - Lists Final Fantasy XV, confirming it was on Stadia; the entry's Stadia row and the DLC Stadia rows link this page
+  - The Stadia Edition page (2021-02-07 capture) lists what it included: the main game (same contents as the Royal Edition), Royal Pack, Episodes Gladiolus, Prompto, Ignis and Ardyn, Multiplayer: Comrades (matching only among Stadia users), Booster Pack+, Holiday Pack+ (no Carnival Passport) and the new minigame collection "Crazy Challenge"
+  - So the Episodes, Ardyn and Comrades each carry a terminated Stadia row
 
 - https://www.youtube.com/watch?v=qKNfcMQQbi8 -- Royal and Windows Editions, contents -- accessed 2026-10-18
   - (page text and a YouTube AI Q&A given by the user; not verified by me)
