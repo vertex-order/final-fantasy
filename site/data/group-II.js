@@ -218,10 +218,11 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
   },
   {
     mediaType: 'Book', chronoOrder: 620, narrativeOrder: 410,
-    title: 'Final Fantasy II: Dragon Treasures', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Hih%C5%8D_no_Dragon', titleDate: '1989-01',
+    title: 'Final Fantasy II: Dragon Treasures', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Hih%C5%8D_no_Dragon', titleDate: '1988-12',
     by: 'Naomi Inoue',
     mediaDesc: [
-      'A gamebook set in the world of Final Fantasy II. Centers on Princess Marie of Fynn, an original character combining traits of Maria and Hilda, alongside Firion, Guy, and Minwu. Released as ファイナルファンタジーII 秘宝のドラゴン (Final Fantasy II Hihō no Dragon), also known as Dragon of Hidden Treasure and The Hidden Dragon, and printed in the book as Treasure of Dragon.',
+      'A gamebook set in the world of Final Fantasy II. Centers on Princess Marie of Fynn, an original character combining traits of Maria and Hilda, alongside Firion, Guy, and Minwu.',
+      'Released as ファイナルファンタジーII 秘宝のドラゴン (Final Fantasy II Hihō no Dragon), also known as Dragon of Hidden Treasure and The Hidden Dragon, and printed in the book as Treasure of Dragon.',
     ],
     primary: {
       tags: ['Gamebook'],

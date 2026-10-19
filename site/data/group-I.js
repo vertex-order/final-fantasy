@@ -431,7 +431,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
     title: 'Final Fantasy: Crystal Inheritance Legend', titleUrl: 'https://www.thevideogamelibrary.org/book/final-fantasy-crystal-inheritance-legend', titleDate: '1988-01-10',
     by: ['Osamu Mihara', 'Shoko Uehara'],
     mediaDesc: [
-      'A gamebook with an original story set before the first game, in which a boy and a girl search for the lost Water Crystal. Includes a short timeline of the world. Released as ファイナルファンタジー クリスタル継承伝説 (Fainaru Fantajī Kurisutaru Keishō Densetsu), printed "Cristal Saga".',
+      [{ text: 'A gamebook with an original story set before ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ', in which a boy and a girl search for the lost Water Crystal. Includes a short timeline of the world. Released as ファイナルファンタジー クリスタル継承伝説 (Fainaru Fantajī Kurisutaru Keishō Densetsu), printed "Cristal Saga".' }],
     ],
     primary: {
       tags: ['Gamebook'],

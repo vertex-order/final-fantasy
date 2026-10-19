@@ -1,7 +1,7 @@
-<!-- sources/final-fantasy-ii-dragon-treasures-1989.md (markdown) -->
+<!-- sources/final-fantasy-ii-dragon-treasures-1988.md (markdown) -->
 
 # Final Fantasy II: Dragon Treasures
-<!-- site/data/group-II.js, #entry-II-final-fantasy-ii-dragon-treasures-1989 -->
+<!-- site/data/group-II.js, #entry-II-final-fantasy-ii-dragon-treasures-1988 -->
 
 ## Author
 
@@ -62,4 +62,4 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 ## Decisions
 
-- Date (user, 2026-10-14): the podcast is not a reliable source for dates; the entry's `titleDate` moved from 1988-12 to NDL's 1989-01, so the anchor and this file's name moved to 1989
+- Date: `titleDate` is 1988-12 (user, 2026-10-19), the podcast's month (12/1/1988) over NDL's 1989.01; the copyright pages say 1988; the colophon with the printing date was not seen
