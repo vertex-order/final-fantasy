@@ -53,10 +53,8 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         helpWanted: true,
         platforms: [
           { key: 'apple', url: 'https://apps.apple.com/us/app/adventures-of-mana/id1048629983' },
-          { key: 'apple', jpTag: true, url: 'https://apps.apple.com/jp/app/id1048629552' },
           { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.adventures' },
           { key: 'amazon', url: 'https://www.amazon.com/dp/B01CZKNQQM' },
-          { key: 'amazon', jpTag: true, url: 'https://www.amazon.co.jp/dp/B01CZKNQQM' },
           { key: 'playstation-vita', paren: 'Digital', url: 'https://www.jp.square-enix.com/seiken/en/psvita/' },
         ],
         versionDesc: [
