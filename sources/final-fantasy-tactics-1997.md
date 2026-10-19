@@ -178,3 +178,5 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 - The War of the Lions languages: the smartphone stores show only English and Japanese, the PSP release likely has European languages; audit before dropping `…?` and `helpWanted`
 
 ## Decisions
+
+
