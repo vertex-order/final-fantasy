@@ -34,6 +34,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
 ## Playstation (Platform)
 
 - https://store.playstation.com/product/UP0082-PPSA07809_00-CRISISCORE000000
+- https://store.playstation.com/product/UP0082-PPSA07809_00-CRISISCORE000000/ -- Reunion, PlayStation Plus row* -- accessed 2026-10-19 (page seen by user)
+  - PS Plus on PS5 and PS4, and PS Portal; the paren is `PS5; PS4; PSPortal`
 
 ## Square Enix (Publisher, Developer)
 

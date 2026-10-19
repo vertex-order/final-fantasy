@@ -191,6 +191,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         },
         { key: 'playstation4', paren: 'Pro Enhanced; Physical; Digital', url: 'https://store.playstation.com/product/UP0082-PPSA07809_00-CRISISCORE000000' },
         { key: 'playstation5', paren: 'Digital; PS4 compat; Physical', url: 'https://store.playstation.com/product/UP0082-PPSA07809_00-CRISISCORE000000' },
+        { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-PPSA07809_00-CRISISCORE000000', paren: 'PS5; PS4; PSPortal' },
         { key: 'xbox-one', paren: 'Physical; Digital', url: 'https://www.xbox.com/games/store/crisis-core-final-fantasy-vii-reunion/9p6j9nfkgj68' },
         { key: 'xbox-xs', paren: 'Physical; Digital', url: 'https://www.xbox.com/games/store/crisis-core-final-fantasy-vii-reunion/9p6j9nfkgj68' },
         { key: 'fan-movie', search: 'youtube' },

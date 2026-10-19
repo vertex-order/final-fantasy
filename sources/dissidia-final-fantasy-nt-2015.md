@@ -12,6 +12,11 @@
 ## Playstation (Platform)
 
 - https://store.playstation.com/product/UP0082-CUSA09512_00-DISSIDIAFFDELUXE
+- https://store.playstation.com/en-ca/product/UP0082-CUSA09512_00-NTPKG00000000000 -- PlayStation Plus row* -- accessed 2026-10-19 (page seen by user)
+  - Dissidia Final Fantasy NT: PlayStation Plus listed for online multiplayer only; no PS Portal
+- https://store.playstation.com/product/UP0082-CUSA14210_00-NTPKG00000000000 -- Free Edition page -- accessed 2026-10-19 (page seen by user)
+  - Same: PlayStation Plus for online multiplayer only; no PS Portal
+- https://psportal.games/Games?market=en-ca&f=1&search=final+fantasy&category=PS+Plus&category=Ubisoft+Classics&category=Plus+Classics&category=PS+Plus+%28Monthly%29&category=Free&category=Buy&sort=release -- which Final Fantasy games carry PS Plus with PS Portal -- accessed 2026-10-19 (list given by user; this game is not on it)
 
 ## Square Enix (Publisher, Developer)
 
