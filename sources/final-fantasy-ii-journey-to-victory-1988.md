@@ -41,6 +41,9 @@
   - ファミマガゲームブック ファイナルファンタジーII 勝利への旅立ち, 272 pages, bunko, by the Famicom Magazine editorial department; 1988/12/31
 - paypay fleamarket: https://paypayfleamarket.yahoo.co.jp/item/z670891906 and https://paypayfleamarket.yahoo.co.jp/item/z535709828 -- title, series -- accessed 2026-10-19 (page text pasted by user)
   - Titled ファイナルファンタジーII 勝利への旅立ち ファミマガゲームブック 第2弾 (Tokuma Shoten); the second listing is a three-book Final Fantasy II set (also names 夢魔への前奏曲 books: a Kadokawa Bunko novel by 寺田憲史 and a Katsu Famicom monster-guide edition) -- lead in .plan/todo.md
+- paypay fleamarket: https://paypayfleamarket.yahoo.co.jp/item/z535709828 -- photos of the copy (cover, obi, back) -- accessed 2026-10-19 (photos pasted by user)
+  - Obi: ファミマガゲームブック 第2弾, ファミリーコンピュータMagazine 編集部編著 (written by the Famicom Magazine editorial department), 帝国軍の野望を打ち砕くため、少年は果てしない戦いへ旅立った！
+  - Back cover: © Square 1988, Tokuma Shoten (徳間書店), ISBN 4-19-473834-9, ¥420 (not recorded)
 
 ## Sources
 

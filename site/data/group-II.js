@@ -195,6 +195,27 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     },
   },
   {
+    mediaType: 'Book', chronoOrder: 505, narrativeOrder: 305,
+    title: 'Final Fantasy II: Prelude to a Nightmare', titleUrl: 'https://www.goodreads.com/book/show/45554076', titleDate: '1988-12-09',
+    by: 'Kenji Terada',
+    mediaDesc: [
+      [{ text: 'A booklet of original fiction set in ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ', given away with the magazine マル勝ファミコン. ' }, { emLinkText: "Nightmare's Labyrinth (1989)", emLinkUrl: '#entry-II-final-fantasy-ii-nightmares-labyrinth-1989' }, { text: ' has a part with the same title; whether the two share text is unconfirmed. Released as ' }, { emText: 'ファイナルファンタジーII 夢魔への前奏曲' }, { text: ' (Final Fantasy II Muma e no Zensōkyoku).' }],
+    ],
+    primary: {
+      tags: ['Light Novel'],
+      subtitle: 'Book',
+      languages: [
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/45554076' },
+      ],
+      helpWanted: true,
+      platforms: [
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'ファイナルファンタジーII 夢魔への前奏曲', searchQualifier: 'light novel' },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'ファイナルファンタジーII 夢魔への前奏曲', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
+      ],
+    },
+  },
+  {
     mediaType: 'Book', chronoOrder: 610, narrativeOrder: 405,
     title: 'Final Fantasy II: Battle to the Death with General Borghen!', titleUrl: 'https://www.goodreads.com/book/show/77945774', titleDate: '1989-01',
     by: 'Ryūji Kōsaka',
