@@ -249,7 +249,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       [{ text: 'Long after the era of ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: ', the highborn cadet Ramza is caught in a war between two noble factions and uncovers the sinister plot behind it.' }],
     ],
     primary: {
-      tags: ['Turn-based tactical RPG'],
+      tags: ['Turn-based tactical RPG', 'Single-player'],
       subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics#The_Ivalice_Chronicles', subtitleDate: 2025,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -299,6 +299,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       versions: [
         {
           subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions', subtitleDate: 2007,
+          tags: ['Single-player', 'Multiplayer', 'Co-op'],
           languages: [
             { value: 'EN', voice: true },
             { value: 'JA', native: true, textOnly: true },
@@ -308,6 +309,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
           profileUrl: 'http://dlgames.square-enix.com/fft/en/',
           platforms: [
             { key: 'playstation-portable', url: 'http://dlgames.square-enix.com/fft/en/' },
+            { key: 'playstation-vita', paren: 'Digital', terminated: true },
             { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2' },
             { key: 'android2', jpTag: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_jp2' },
             { key: 'apple', url: 'https://apps.apple.com/us/app/final-fantasy-tactics-wotl/id446760220' },
@@ -316,7 +318,8 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
             { key: 'fan-playthrough', search: 'youtube', searchQualifier: 'War of the Lions' },
           ],
           versionDesc: [
-            [{ text: 'This remake re-translates the script with archaic English terminology (e.g., Priest becomes White Mage), and restores the original Japanese release’s harder difficulty and JP costs, reversing the North American version’s easing. It adds widescreen 16:9 support, new cutscenes, voice acting (English versions), ad-hoc multiplayer, new jobs, and two new playable characters. Released as ' }, { emText: 'Final Fantasy Tactics: The War of the Lions (2007)' }, { text: '.' }],
+            [{ text: 'This remake re-translates the script with archaic English terminology (e.g., Priest becomes White Mage), and restores the original Japanese release’s harder difficulty and JP costs, reversing the North American version’s easing. It adds widescreen 16:9 support, new cutscenes, voice acting (English versions), new jobs, and two new playable characters. Released as ' }, { emText: 'Final Fantasy Tactics: The War of the Lions (2007)' }, { text: '.' }],
+            'The PSP and PS Vita versions experience gameplay slowdowns, but have ad-hoc multiplayer (in-person only, with multiple PSPs or PS Vitas near each other) for exclusive co-op content and equipment.',
           ],
         },
         {
