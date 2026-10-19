@@ -180,6 +180,8 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       length: [{ value: '14+ volumes', tip: 'As of 2026-05-12' }],
       platforms: [
         { key: 'book', name: 'Manga', url: 'https://www.goodreads.com/series/271153-final-fantasy-lost-stranger' },
+        { key: 'globe', name: 'Manga UP! Global', url: 'https://global.manga-up.com/manga/156' },
+        { key: 'globe', name: 'Crunchyroll (Manga)', terminated: true, url: 'https://web.archive.org/web/20231130084624/https://www.crunchyroll.com/comics/manga/final-fantasy-lost-stranger/volumes' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Lost Stranger', searchSuffix: 'manga dub', noResults: true },
         {
           key: 'fan-recap',
