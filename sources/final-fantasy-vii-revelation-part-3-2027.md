@@ -19,7 +19,7 @@
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix.com/ffvii/games/revelation/ -- story -- accessed 2026-10-17
+- https://www.square-enix.com/ffvii/games/revelation/ -- story -- accessed 2026-10-19
   - (page text pasted by user, fetched before the release)
   - "A vast planet awaits. Everything leads here.": the final battle to decide the fate of the world, take to the skies, chart a course and stand with companions against Sephiroth one last time
   - agrees with the entry's description (the final part, against Sephiroth)
