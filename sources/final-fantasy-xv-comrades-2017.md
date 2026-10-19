@@ -88,13 +88,17 @@ store.steampowered.com (Platform)
   - Separate DLC listed: 4K pack, Episode Ardyn, soundtrack, Piano Collections; no Comrades listing
   - Steam tags list online co-op, which explains the base entry's `Co-op` tag
 
+howlongtobeat.com (Length)
+- https://howlongtobeat.com/game/65937 -- length* -- accessed 2026-10-19 (confirmed by user)
+  - 39½ hours (All Styles; the longest) and 38½ hours (Co-Op); the entry uses 39½, labelled Completionist
+
 otakumode.com (Information)
 - Not used; its XV page does not mention Comrades
 
 ## Surveyed
 
 - Whether Steam copies kept online matchmaking after 2020-06-24: the notice does not list it; probably still works
-- 38½h length: carried over from the base entry, source not recorded
+- Length: HowLongToBeat gives 39½ hours (All Styles) and 38½ hours (Co-Op); the entry uses the longest
 
 ## Decisions
 

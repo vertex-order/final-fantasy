@@ -338,7 +338,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
         { score: '60', url: 'https://www.metacritic.com/game/final-fantasy-xv-multiplayer-expansion-comrades/', key: 'metacritic' },
         { score: '5.6', url: 'https://www.metacritic.com/game/final-fantasy-xv-multiplayer-expansion-comrades/', key: 'metacritic-user' },
       ],
-      length: [{ value: '38½h', tip: 'Co-op' }],
+      length: [{ value: '39½h', tip: 'Completionist' }],
       platforms: [
         { key: 'windows', paren: 'PC; Handheld; Digital; Version 2.00', url: 'https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5' },
         { key: 'steam', paren: 'PC; Handheld; Version 2.00', url: 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/' },
@@ -352,7 +352,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy XV Comrades' },
       ],
       versionDesc: [
-        [{ text: 'Later updates added ten new bosses, costumes and weapons. Released as a standalone game on consoles, and included in the ' }, { emText: 'Royal Edition' }, { text: '. Integrated as built-in DLC in the ' }, { emText: 'Windows Edition' }, { text: '.' }],
+        [{ text: 'Subsequent updates added ten new bosses, costumes and weapons. Released as a standalone game on consoles, and included in the ' }, { emText: 'Royal Edition' }, { text: '. Integrated as built-in DLC in the ' }, { emText: 'Windows Edition' }, { text: '.' }],
         'Online co-op play may require an additional subscription on some platforms.',
       ],
     },
