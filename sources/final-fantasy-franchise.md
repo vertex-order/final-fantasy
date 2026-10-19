@@ -87,6 +87,10 @@
   - the one Ultimania we looked at in detail, the XI Story Ultimania, is a named exclusion in xi-group.md
   - an individual Ultimania that turns out to hold comics or short stories is to be judged on its own
   - the Dark Horse page of Final Fantasy Ultimania Archive Volume 1 (https://www.darkhorse.com/Books/3000-773/Final-Fantasy-Ultimania-Archive-Volume-1) is rejected as a link for the same reason (user, 2026-10-17): it is one of the evaluated and rejected guidebook and artbook titles
+- **Not to be listed: the NTT Publishing setting guides for Final Fantasy IV and VI (user, 2026-10-19):** reference and setting material, like the Ultimania, which reprinted much of it (the Reddit uploader says so)
+  - ファイナルファンタジーIV 設定資料編: NTT出版, 1991-06-14 (Internet Archive date), ISBN 4-87188-128-8 (978-4-87188-128-9), 80p per the Fandom wiki; contents: characters, the world and its nations, vehicles, monsters and items, four previews
+  - ファイナルファンタジーVI 設定資料編: NTT出版, 1994-02-11 (Internet Archive date), ISBN 4-87188-299-3 (978-4-87188-299-6), about 94p; contents: characters with backstories, a world timeline, espers and magic, monsters and items, system guidance
+  - Scans: https://archive.org/details/final-fantasy-iv-setting-materials-guide and https://archive.org/details/final-fantasy-vi-setting-materials-guide (uploaded 2026-07-26 by J. Karns, per https://www.reddit.com/r/FinalFantasy/comments/1v7fs09/i_uploaded_scans_of_squares_early_setting_guides/)
 - **Not to be listed: the Final Fantasy cafes (user, 2026-10-18):** Final Fantasy Eorzea Cafe (https://paselabo.pasela.co.jp/ff_eorzea/; Pasela, Akihabara 2014, Osaka 2017; XIV-inn decor, a few PCs; borderline) and SQUARE ENIX Cafe & Shop Shinjuku (https://paselabo.pasela.co.jp/sqex_cafe_shop/; multi-franchise, opened 2026-06-12). Themed restaurants with decor, menus and merchandise but no narrative or exclusive content count as merchandise. Background: https://otakumode.com/otapedia/games/final_fantasy/eorzea_cafe (stale, early 2020)
 
 ## Not yet surveyed
