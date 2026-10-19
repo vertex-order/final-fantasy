@@ -25,5 +25,6 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Entered as a Movie with the subtitle Ride and a description saying it is a VR coaster ride (user, 2026-10-18); there is no ride media type, and a Game would suggest a home VR game; the user is not sure how the ride differs from a home-headset coaster, hence "VR roller coaster ride at Universal Studios Japan" in the description
 - Terminated, strikethrough: the attraction closed 2018-06-24 (mine)
 - `titleDate` is the run, 2018-01-19 to 2018-06-24 (Otapedia); the group is Other, orders `chronoOrder` 1600 and `narrativeOrder` 450, last in the group (mine)
-- Tags VR and Theme park (mine); language Japanese only (mine, unconfirmed); a YouTube lookup for ride-through footage on the movie row (mine)
+- Tags VR and Theme park (mine); language Japanese only (mine, unconfirmed); a YouTube lookup on the movie row, named Clips & Promos and searching for "movie" instead of the default "game movie" (user, 2026-10-18)
 - No prices recorded for the food and goods
+- The Clips & Promos YouTube search has results (user, 2026-10-18), so the row stays a live search

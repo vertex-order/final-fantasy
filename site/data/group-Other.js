@@ -466,7 +466,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XR The Ride' },
+        { key: 'fan-movie', name: 'Clips & Promos', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XR The Ride', searchSuffix: 'movie' },
       ],
     },
   },
