@@ -303,7 +303,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
           platforms: [
             { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000' },
             { key: 'playstation5', paren: 'PS4 compatibility', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000' },
-            { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000', paren: 'PS4; PS5; PSPortal' },
+            { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-CUSA07211_00-FFVIIREMAKE00000', paren: 'PS5; PS4; PSPortal' },
           ],
           versionDesc: [
             [{ text: 'The original release of the 3 part remake. ' }, { emText: 'Episode INTERmission' }, { text: ' DLC sold separately, later included in ' }, { emText: 'Intergrade' }, { text: ' (2021). Also known as ' }, { emText: 'Final Fantasy VII: Remake' }, { text: ', without the ' }, { emText: 'Intergrade' }, { text: ' suffix.' }],

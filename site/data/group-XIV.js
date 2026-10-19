@@ -70,7 +70,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
           paren: 'Pro Enhanced; Physical; Digital; Terminated 2027',
         },
         { key: 'playstation5', paren: 'PS4 compat; Digital', url: 'https://www.finalfantasyxiv.com' },
-        { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S', paren: 'PS4; PS5; PSPortal' },
+        { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S', paren: 'PS5; PS4; PSPortal' },
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiv-online-complete-edition/9p3lzjnnmpzs' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/final-fantasy-xiv-online-complete-edition/9p3lzjnnmpzs' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy XIV a realm reborn' },
