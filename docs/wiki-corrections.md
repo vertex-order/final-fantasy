@@ -128,6 +128,61 @@ value, ours, and why, so the corrections can be reported upstream.
 
 ## Candidates
 
+### Co-Optimus: Final Fantasy Tactics: The War of the Lions (PSP co-op modes)
+
+- Page: https://www.co-optimus.com/game/127/psp/final-fantasy-tactics-the-war-of-the-lions.html
+- Says: every co-op mode "No" (local, online, combo, LAN), 0 players offline, and an
+  automatic note that the game "no longer is playable in co-op".
+- Should be: the PSP version has Ad Hoc multiplayer, local only (competitive Melee
+  Battle and cooperative Rendezvous); the table has no option for PSP Ad Hoc.
+- Our source: [final-fantasy-tactics-1997.md](../sources/final-fantasy-tactics-1997.md)
+- Reason: Square Enix's PSP-era site (Wayback 2011-10-11) describes both modes and the entry text
+  itself claims multiplayer, but the banner is read as automatic; no Co-Optimus statement checked.
+
+### Wikipedia: Final Fantasy XV (Multiplayer shutdown)
+
+- Page: https://wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer
+- Says: the multiplayer mode was shut down for Origin and Microsoft Store copies in June 2020
+  (and, on the downloadable-content page, online functionality shut down in June 2020).
+- Should be: Square Enix's notice (2020-04-01, effective 2020-06-24) ends Origin
+  matchmaking and Steam-Origin cross-matching on the Windows Edition; consoles lose only
+  the in-game INFORMATION item.
+- Our source: [final-fantasy-xv-comrades-2017.md](../sources/final-fantasy-xv-comrades-2017.md)
+- Reason: the official notice (Wayback capture of finalfantasy.jp) is narrower than the wiki; Microsoft Store copies are not named in the notice either way.
+
+### Fandom Final Fantasy Wiki: Final Fantasy Adventure (Adventures of Mana Vita dates)
+
+- Page: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure
+- Says: PS Vita "Europe June 27, 2016" and "Europe June 28, 2016" in the infobox.
+- Probably: the second is North America (the page's own text says the Vita version came to North America a day later).
+- Our source: [final-fantasy-adventure-1991.md](../sources/final-fantasy-adventure-1991.md)
+- Reason: the infobox contradicts its text; not checked against a Square Enix record.
+
+### Fandom Final Fantasy Wiki: Final Fantasy XIV Dad of Light (premiere date)
+
+- Page: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV_Dad_of_Light
+- Says: premiered in Japan April 16, 2017.
+- Probably: April 17, 2017 (en.wikipedia's start date for the MBS/TBS run).
+- Our source: [final-fantasy-xiv-dad-of-light-2017.md](../sources/final-fantasy-xiv-dad-of-light-2017.md)
+- Reason: late-night broadcast, so one source may give the evening and the other the calendar day; no broadcaster record checked.
+
+### Fandom Final Fantasy Wiki: Final Fantasy Lost Stranger (Yen Press volume 1 date)
+
+- Page: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Lost_Stranger
+- Says: English paperback by Yen Press starting August 21, 2018 (electronic a week later).
+- Probably: August 28, 2018, the North American date en.wikipedia gives.
+- Our source: [final-fantasy-lost-stranger-2017.md](../sources/final-fantasy-lost-stranger-2017.md)
+- Reason: the two dates may be the paperback and the e-book; no Yen Press record checked.
+
+### Tokyo Otaku Mode Otapedia: slips found while cross-checking
+
+- Final Fantasy XV (https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_15): calls the capital "Lucis" where the game says Insomnia (Lucis is the kingdom).
+- Final Fantasy XIII (https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_13): misspells names ("Lighting" for Lightning, "Sarah" for Serah).
+- Dissidia (https://otakumode.com/otapedia/games/final_fantasy/dissidia): the Characters list mixes in Shantotto and Gabranth, who are Dissidia 012 characters.
+- Crystal Chronicles (https://otakumode.com/otapedia/games/final_fantasy/crystal_chronicles): calls the game "Final Fantasy Chronicles" in its first sentence.
+- Our sources: [final-fantasy-xv-2016.md](../sources/final-fantasy-xv-2016.md), [final-fantasy-xiii-2009.md](../sources/final-fantasy-xiii-2009.md), [dissidia-final-fantasy-2008.md](../sources/dissidia-final-fantasy-2008.md), [final-fantasy-crystal-chronicles-2003.md](../sources/final-fantasy-crystal-chronicles-2003.md)
+- Reason: slips on the page; our entries are unaffected.
+
 ### Square Enix Magazine & Book (Final Fantasy XII manga volume dates)
 
 - Page: https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga
