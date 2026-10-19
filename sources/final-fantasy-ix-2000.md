@@ -36,7 +36,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/final-fantasy-ix
+- https://www.square-enix-games.com/games/final-fantasy-ix -- accessed 2026-10-19
 
 ## Steam (Platform)
 

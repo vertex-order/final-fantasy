@@ -40,8 +40,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/final-fantasy-viii-remastered
-- https://www.square-enix-games.com/games/final-fantasy-viii-pc
+- https://www.square-enix-games.com/games/final-fantasy-viii-remastered -- accessed 2026-10-19
+- https://www.square-enix-games.com/games/final-fantasy-viii-pc -- accessed 2026-10-19
 
 ## Steam (Platform)
 

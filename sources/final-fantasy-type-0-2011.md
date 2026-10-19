@@ -20,7 +20,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/final-fantasy-type-0-hd
+- https://www.square-enix-games.com/games/final-fantasy-type-0-hd -- accessed 2026-10-19
 
 ## Steam (Platform)
 

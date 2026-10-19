@@ -15,7 +15,7 @@
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/dissidia-final-fantasy-nt -- profile*, platforms*, story, season pass -- accessed 2026-10-17
+- https://www.square-enix-games.com/games/dissidia-final-fantasy-nt -- profile*, platforms*, story, season pass -- accessed 2026-10-19
   - (page text pasted by user; the old official site https://dissidiafinalfantasynt.square-enix-games.com/, named by the Otapedia page, now redirects here, and this address loads the reader's own locale)
   - "Play the epic team brawler, online for free": the Free Edition on Steam and PS4 (a sample with four pre-selected characters rotating weekly, online play against owners of the full game, no story mode, save data carries over to the full game, characters and weapons also sold separately)
   - the full game is a 3-vs-3 team brawler developed with Team NINJA of Koei Tecmo, with characters from across the series, summons, online and offline modes, customisation and "a brand-new and original story"

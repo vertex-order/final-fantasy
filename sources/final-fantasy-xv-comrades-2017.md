@@ -62,7 +62,7 @@ co-optimus.com (Information)
 - https://www.co-optimus.com/game/4852/pc/final-fantasy-15.html -- co-op*, tags* -- accessed 2026-10-18 -- same
 
 square-enix-games.com (Publisher, official)
-- https://www.square-enix-games.com/games/final-fantasy-xv -- profileUrl*, season pass -- accessed 2026-10-17
+- https://www.square-enix-games.com/games/final-fantasy-xv -- profileUrl*, season pass -- accessed 2026-10-19
   - Season Pass includes Comrades, up to 4 players; PS Plus or Game Pass Core needed online
 
 metacritic.com (Ratings)

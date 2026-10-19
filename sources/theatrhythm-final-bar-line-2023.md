@@ -15,7 +15,7 @@
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/theatrhythm-final-bar-line
+- https://www.square-enix-games.com/games/theatrhythm-final-bar-line -- accessed 2026-10-19
 
 ## wikipedia.org (Information)
 

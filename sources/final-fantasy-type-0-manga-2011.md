@@ -32,7 +32,7 @@ Japanese edition (Gangan Comics, one volume), スクウェア・エニックス,
 ## Sources
 
 gangan.square-enix.co.jp (Publisher)
-- http://gangan.square-enix.co.jp/introduction/ff_type_0/ — the official Japanese website for the manga (found via the wiki's links); redirects to https://magazine.jp.square-enix.com/gangan/introduction/ff_type_0/, which is also gone now (404; checked by user) — credits* (作画 塩沢天人志, シナリオ 千葉広樹, キャラクター原案 野村哲也 (character original design)), story (young warriors of Class Zero thrown into the war over the crystals; the game's story of Class Zero "now begins"), 第1話 preview, character and keyword lists — accessed 2026-10-10
+- http://gangan.square-enix.co.jp/introduction/ff_type_0/ — the official Japanese website for the manga (found via the wiki's links); redirects to https://magazine.jp.square-enix.com/gangan/introduction/ff_type_0/, which is also gone now (404; dead in Brave and Firefox, confirmed by user 2026-10-19) — credits* (作画 塩沢天人志, シナリオ 千葉広樹, キャラクター原案 野村哲也 (character original design)), story (young warriors of Class Zero thrown into the war over the crystals; the game's story of Class Zero "now begins"), 第1話 preview, character and keyword lists — accessed 2026-10-19
   - (Wayback capture text pasted by user)
   - archived: https://web.archive.org/web/20191119043706/https://magazine.jp.square-enix.com/gangan/introduction/ff_type_0/
 

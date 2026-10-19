@@ -23,7 +23,7 @@
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/final-fantasy-xiv-online
+- https://www.square-enix-games.com/games/final-fantasy-xiv-online -- accessed 2026-10-19
 
 ## Steam (Platform)
 

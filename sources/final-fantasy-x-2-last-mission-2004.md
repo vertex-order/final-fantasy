@@ -16,11 +16,11 @@
 
 ## Playstation (Platform)
 
-- https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster
+- https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster -- accessed 2026-10-19
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster
+- https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster -- accessed 2026-10-19
 
 ## Steam (Platform)
 

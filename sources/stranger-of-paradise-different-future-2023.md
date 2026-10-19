@@ -23,8 +23,8 @@
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin
-- https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin
+- https://www.square-enix-games.com/en_EU/games/stranger-paradise-final-fantasy-origin -- accessed 2026-10-19
+- https://www.square-enix-games.com/games/stranger-paradise-final-fantasy-origin -- accessed 2026-10-19
 
 ## Steam (Platform)
 

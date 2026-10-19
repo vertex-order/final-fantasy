@@ -15,7 +15,7 @@
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/monster-of-the-deep-final-fantasy-xv
+- https://www.square-enix-games.com/games/monster-of-the-deep-final-fantasy-xv -- accessed 2026-10-19
 
 ## wikipedia.org (Information)
 

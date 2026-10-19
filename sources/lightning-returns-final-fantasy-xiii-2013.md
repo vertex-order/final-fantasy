@@ -7,7 +7,7 @@
 
 ## Android (Platform)
 
-- https://www.square-enix-games.com/en_US/games/lightning-returns-final-fantasy-xiii
+- https://www.square-enix-games.com/en_US/games/lightning-returns-final-fantasy-xiii -- accessed 2026-10-19
 
 ## finalfantasy.fandom.com (Information)
 
@@ -20,7 +20,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/lightning-returns-final-fantasy-xiii
+- https://www.square-enix-games.com/games/lightning-returns-final-fantasy-xiii -- accessed 2026-10-19
 
 ## Steam (Platform)
 

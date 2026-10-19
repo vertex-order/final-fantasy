@@ -30,7 +30,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_version_differ
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/final-fantasy-xv -- story, platforms*, season pass -- accessed 2026-10-17
+- https://www.square-enix-games.com/games/final-fantasy-xv -- story, platforms*, season pass -- accessed 2026-10-19
   - (page text pasted by user, the en_US version)
   - "Reclaim your throne"
   - you are Noctis, Crown Prince of Lucis, who reclaims his homeland from the imperial army with his friends, travelling the world of Eos
@@ -39,7 +39,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_version_differ
   - "Available on" lists PS4, Steam, Xbox One, Xbox Series X|S and Windows, the same platforms as the entry's rows, and the user (2026-10-17) says its Windows link is the Xbox Play Anywhere PC purchase page, which is what the entry's `windows` row links
   - the page does not list Episode Ardyn (a separate release)
   - Comrades, Holiday Pack + and Booster Pack + are not entries here (see Decisions)
-- https://www.square-enix-games.com/games/final-fantasy-xv-pocket-edition
+- https://www.square-enix-games.com/games/final-fantasy-xv-pocket-edition -- accessed 2026-10-19
 
 ## Steam (Platform)
 

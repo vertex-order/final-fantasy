@@ -15,7 +15,7 @@
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/final-fantasy-explorers
+- https://www.square-enix-games.com/games/final-fantasy-explorers -- accessed 2026-10-19
 
 ## wikipedia.org (Information)
 

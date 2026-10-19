@@ -91,8 +91,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
   - (seen by user)
   - links to the Japanese store pages and to the Square Enix M@rket (http://www.square-enix.co.jp/smart/market/), Square Enix's Android store for Japan
   - archived: https://web.archive.org/web/2012/http://dlgames.square-enix.com/fft/jp/ (the Japanese site in 2012)
-- http://www.square-enix.co.jp/smart/market/ -- Square Enix M@rket (SQUARE ENIX MARKET) -- accessed 2026-10-17
-  - (the live address does not load for the user; I checked: it answers 301 to https://www.jp.square-enix.com/market/)
+- http://www.square-enix.co.jp/smart/market/ -- Square Enix M@rket (SQUARE ENIX MARKET) -- accessed 2026-10-19
+  - (dead in Brave and Firefox, confirmed by user 2026-10-19; it answers 301 to https://www.jp.square-enix.com/market/, also dead, as is https://square-enix.co.jp/smart/market/)
   - Square Enix's Android store
   - Wayback captures with content run from 2011-12-06 (https://web.archive.org/web/20111206035339/http://www.square-enix.co.jp/smart/market/) to 2019-01-11 (https://web.archive.org/web/20190111092325/http://www.square-enix.co.jp/smart/market/)
   - the 2019 capture's news list includes 『ファイナルファンタジータクティクス 獅子戦争』配信開始！ (delivery started) among other Final Fantasy titles, but its date list is commented out in the page source and does not line up with the entries, so no date is taken from it -- shallow: only the front page read

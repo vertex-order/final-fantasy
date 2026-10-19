@@ -47,7 +47,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/final-fantasy-vii
+- https://www.square-enix-games.com/games/final-fantasy-vii -- accessed 2026-10-19
 
 ## Steam (Platform)
 

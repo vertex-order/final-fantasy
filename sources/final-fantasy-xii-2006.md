@@ -25,7 +25,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/final-fantasy-xii-the-zodiac-age
+- https://www.square-enix-games.com/games/final-fantasy-xii-the-zodiac-age -- accessed 2026-10-19
 
 ## Steam (Platform)
 

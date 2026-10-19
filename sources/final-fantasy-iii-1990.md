@@ -45,7 +45,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 ## Square Enix (Publisher, Developer)
 
 - https://finalfantasypixelremaster.square-enix-games.com/
-- https://www.square-enix-games.com/games/final-fantasy-iii
+- https://www.square-enix-games.com/games/final-fantasy-iii -- accessed 2026-10-19
 
 ## Steam (Platform)
 

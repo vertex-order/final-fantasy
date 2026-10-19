@@ -56,7 +56,7 @@ yenpress.com (Publisher, English)
   - Volume dates from search results (not yet opened per page): Vol.1 July 21, 2015; Vol.2 Nov 2015; Vol.4 April 26, 2016; Vol.5 July 26, 2016
 
 gangan.square-enix.co.jp (Publisher)
-- http://gangan.square-enix.co.jp/introduction/ff_type_0_gaiden/ — the official Japanese site for the series; redirects to https://magazine.jp.square-enix.com/gangan/introduction/ff_type_0_gaiden/, which is also gone now (404; checked by user) — credits (塩沢天人志; 監修 野村哲也; no writer or scenario credit), story (the young Kurasame and the four Vermillion elite: their battles, glory and hidden secrets), characters (Kurasame, Glen, Miwa, Kotetsu, Kazusa, Emina), keywords, volumes 1-5 listed — accessed 2026-10-10
+- http://gangan.square-enix.co.jp/introduction/ff_type_0_gaiden/ — the official Japanese site for the series; redirects to https://magazine.jp.square-enix.com/gangan/introduction/ff_type_0_gaiden/, which is also gone now (404; dead in Brave and Firefox, confirmed by user 2026-10-19) — credits (塩沢天人志; 監修 野村哲也; no writer or scenario credit), story (the young Kurasame and the four Vermillion elite: their battles, glory and hidden secrets), characters (Kurasame, Glen, Miwa, Kotetsu, Kazusa, Emina), keywords, volumes 1-5 listed — accessed 2026-10-19
   - (Wayback capture text pasted by user)
   - archived: http://web.archive.org/web/20181009191715/http://gangan.square-enix.co.jp:80/introduction/ff_type_0_gaiden/ (the old domain itself, 2018-10-09; the 2019-11-19 capture is of the redirect target, https://web.archive.org/web/20191119053507/https://magazine.jp.square-enix.com/gangan/introduction/ff_type_0_gaiden/)
 

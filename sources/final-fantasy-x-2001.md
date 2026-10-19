@@ -22,11 +22,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
 ## Playstation (Platform)
 
 - https://store.playstation.com/product/UP0082-CUSA01227_00-FFX0FFX20USA0PS4
-- https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster
+- https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster -- accessed 2026-10-19
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster
+- https://www.square-enix-games.com/games/final-fantasy-x-x-2-hd-remaster -- accessed 2026-10-19
 
 ## Steam (Platform)
 

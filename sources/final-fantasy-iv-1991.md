@@ -50,7 +50,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 ## Square Enix (Publisher, Developer)
 
 - https://finalfantasypixelremaster.square-enix-games.com/
-- https://www.square-enix-games.com/games/final-fantasy-iv
+- https://www.square-enix-games.com/games/final-fantasy-iv -- accessed 2026-10-19
 
 ## Steam (Platform)
 

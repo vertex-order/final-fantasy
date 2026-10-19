@@ -7,7 +7,7 @@
 
 ## Android (Platform)
 
-- https://www.square-enix-games.com/en_US/games/final-fantasy-xiii
+- https://www.square-enix-games.com/en_US/games/final-fantasy-xiii -- accessed 2026-10-19
 
 ## finalfantasy.fandom.com (Information)
 
@@ -20,7 +20,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/final-fantasy-xiii
+- https://www.square-enix-games.com/games/final-fantasy-xiii -- accessed 2026-10-19
 
 ## Steam (Platform)
 

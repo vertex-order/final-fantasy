@@ -11,7 +11,7 @@
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/theatrhythm-final-fantasy-curtain-call
+- https://www.square-enix-games.com/games/theatrhythm-final-fantasy-curtain-call -- accessed 2026-10-19
 
 ## wikipedia.org (Information)
 

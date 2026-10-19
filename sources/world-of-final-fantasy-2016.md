@@ -19,7 +19,7 @@
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/world-of-final-fantasy-maxima
+- https://www.square-enix-games.com/games/world-of-final-fantasy-maxima -- accessed 2026-10-19
 
 ## Steam (Platform)
 

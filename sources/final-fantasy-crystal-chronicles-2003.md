@@ -27,7 +27,7 @@
 
 ## Square Enix (Publisher, Developer)
 
-- https://www.square-enix-games.com/games/final-fantasy-crystal-chronicles-remastered-edition
+- https://www.square-enix-games.com/games/final-fantasy-crystal-chronicles-remastered-edition -- accessed 2026-10-19
 
 ## wikipedia.org (Information)
 
