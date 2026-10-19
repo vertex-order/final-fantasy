@@ -21,7 +21,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       length: [{ value: '10½h', tip: 'Main + Extra', join: ' / ' }, { value: '11½h', tip: 'Completionist' }],
       platforms: [
         { key: 'nintendo-game-boy', paren: 'Physical' },
-        { key: 'nintendo-switch', paren: 'Collection of Mana', url: 'https://www.nintendo.com/store/products/collection-of-mana-switch/' },
+        { key: 'nintendo-switch', paren: 'Digital', url: 'https://www.nintendo.com/store/products/collection-of-mana-switch/' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-recap', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube' },
