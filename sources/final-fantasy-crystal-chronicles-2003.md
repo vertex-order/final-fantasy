@@ -36,6 +36,13 @@
 - https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)
 - https://wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)#Remastered_Edition
 
+## Other wikis (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles -- release dates* -- accessed 2026-10-19
+  - Japan August 8, 2003; 2004: February 9, March 12, March 19; no February 15
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles -- release dates* (Fandom Final Fantasy Wiki mirror) -- accessed 2026-10-19 (read by the user)
+  - GameCube: Japan August 8, 2003
+
 ## otakumode.com (Information)
 
 - https://otakumode.com/otapedia/games/final_fantasy/crystal_chronicles -- story, dates, platforms, co-op* -- accessed 2026-10-17

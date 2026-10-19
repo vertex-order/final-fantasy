@@ -106,23 +106,27 @@ value, ours, and why, so the corrections can be reported upstream.
 - Our source: [final-fantasy-x-2001.md](../sources/final-fantasy-x-2001.md)
 - Backed by: the page's own Final Fantasy timeline gives July 19th, 2001, and en.wikipedia's Japanese release date is the same.
 
-## Candidates
-
 ### Tokyo Otaku Mode Otapedia: Final Fantasy timeline (Final Fantasy release date)
 
 - Page: https://otakumode.com/otapedia/games/final_fantasy/timeline
 - Says: Final Fantasy, December 17th, 1987.
-- Probably: December 18, 1987, the Japanese release date en.wikipedia gives.
+- Should be: December 18, 1987 (Japan, Famicom).
 - Our source: [final-fantasy-1987.md](../sources/final-fantasy-1987.md)
-- Reason: only en.wikipedia checked; no Square primary record found for the day yet.
+- Backed by: en.wikipedia, finalfantasywiki.com and the Fandom Final Fantasy Wiki
+  all give December 18, 1987.
 
 ### Tokyo Otaku Mode Otapedia: Final Fantasy timeline (Crystal Chronicles release date)
 
 - Page: https://otakumode.com/otapedia/games/final_fantasy/timeline
 - Says: Final Fantasy Crystal Chronicles, February 15th, 2004.
-- Probably: the Japanese release, August 8, 2003 (the native date we use); February 2004 matches the North American launch month, but 15 February is not a date we found for any release.
+- Should be: Japan, August 8, 2003 (the native date the timeline otherwise uses);
+  the 2004 releases are February 9 (North America), March 12 and March 19,
+  with no February 15.
 - Our source: [final-fantasy-crystal-chronicles-2003.md](../sources/final-fantasy-crystal-chronicles-2003.md)
-- Reason: not checked against a primary record; the timeline otherwise lists native Japanese dates.
+- Backed by: finalfantasywiki.com lists August 8, 2003 and the 2004 dates above;
+  en.wikipedia and the Fandom Final Fantasy Wiki both give Japan August 8, 2003.
+
+## Candidates
 
 ### Square Enix Magazine & Book (Final Fantasy XII manga volume dates)
 

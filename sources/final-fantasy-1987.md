@@ -30,6 +30,7 @@ https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay
 
 - https://finalfantasy.fandom.com/wiki/Final_Fantasy -- age, dates, platforms, story, tags -- accessed 2026-09-19
 Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy
+  - Release date: Japan (Famicom) December 18, 1987 (read by the user on the breezewiki mirror, 2026-10-19)
 
   - https://finalfantasy.fandom.com/wiki/Final_Fantasy#Releases -- platforms, versions -- accessed 2026-09-19
   Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy#Releases
@@ -56,6 +57,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Origins
 ## finalfantasywiki.com (Information)
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy -- age, dates, platforms, tags, versions -- accessed 2026-09-19 
+  - Release date: Famicom/NES, Japan December 18, 1987 (accessed 2026-10-19)
 
   - https://finalfantasywiki.com/wiki/Final_Fantasy#Story -- story -- accessed 2026-09-19 
   - https://finalfantasywiki.com/wiki/Final_Fantasy#Release_history -- platforms, versions -- accessed 2026-09-19  
