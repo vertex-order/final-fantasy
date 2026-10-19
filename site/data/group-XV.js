@@ -9,7 +9,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       'Details the backstories of Noctis Lucis Caelum and his friends. Also included with some game releases in the XV series.',
     ],
     primary: {
-      tags: ['Essential', 'Prologue', 'Anime'],
+      tags: ['Essential', 'Prologue', 'Anime', 'Free'],
       subtitle: 'Anime',
       length: '5 episodes',
       languages: [
