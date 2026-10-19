@@ -26,4 +26,3 @@
   - Plot and Setting: it retells the game's opening (the peace treaty, Noctis's wedding to Lunafreya, Niflheim's betrayal and theft of the crystal) rather than the series' own content, which the entry correctly describes as the backstories of Noctis and his friends; the page's Production section says the aim was to elaborate the story and show how Noctis and his friends came together; its Reception section says reviews were generally positive; its Links section names only https://www.square-enix.com/
 
 ## Decisions
-- `Free` tag (user, 2026-10-18): the five episodes are on the official Square Enix YouTube playlist (the entry's youtube row), like Episode Ardyn - Prologue; the only other official free video work in the data

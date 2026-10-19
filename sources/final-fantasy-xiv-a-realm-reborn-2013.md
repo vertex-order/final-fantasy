@@ -43,7 +43,7 @@
 ## otakumode.com (Information)
 
 - https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_14 -- story, dates, platforms -- accessed 2026-10-17 (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Final Fantasy XIV Plot, Gameplay, Characters, Development, Reception; one page for both the original game and A Realm Reborn)
-  - Final Fantasy XIV Plot: a very short recap (Hydaelyn and Eorzea, Bahamut escaping his lunar prison and the Seventh Umbral Calamity, the player character escaping through time travel five years into the future, the menace of the Garlean Empire); **it says A Realm Reborn is set five years after the original's end; the description said "Seven years after XIV: Online (2010)" (likely a mix-up with the *Seventh* Umbral Calamity); en.wikipedia (Final Fantasy XIV: "five years after the devastating Seventh Umbral Calamity which ended the original version") agrees with five; description corrected to "Five years after XIV: Online (2010)", the year kept and the title linked to its entry (user, 2026-10-18)**
+  - Final Fantasy XIV Plot: short recap (Hydaelyn, the Seventh Umbral Calamity, the player five years into the future, the Garlean menace); set five years after the original's end, as en.wikipedia (Final Fantasy XIV) also says
   - Release: the original in 2010 for Windows, shut down in 2012, A Realm Reborn worldwide for Windows and PlayStation 3 in August 2013, later PlayStation 4 and macOS; consistent with the entry (2013-08-27)
   - Its Plot, Characters and Development sections also cover later expansions (Au Ra, Viera, Hrothgar) and the development history; developer content, outside our scope; its Links section only has the official site (https://www.finalfantasyxiv.com/)
 

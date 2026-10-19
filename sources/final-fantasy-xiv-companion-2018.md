@@ -22,4 +22,3 @@
 - https://na.finalfantasyxiv.com/companion/
 
 ## Decisions
-- `chronoOrder` and `narrativeOrder` 9999: last in the XIV group in both orders, after Dad of Light and Brave Father Online (user, 2026-10-18); both were last before (10000 and 950)
