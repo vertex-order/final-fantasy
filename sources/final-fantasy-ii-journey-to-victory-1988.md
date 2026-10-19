@@ -5,9 +5,12 @@
 
 ## Author
 
-上原尚子 (Naoko Uehara) -- plain `by` -- per finalfancast.com (secondary: credits her as author); tradersguild names 上原尚子 as 編集 (editor) and the retail records credit the Famimaga editorial department, so she is the credited editor-author of the Famimaga team's book
-- wikiwiki.jp credits 山下辰巳 (Tatsumi Yamashita) as author instead; it is the only source naming him (a fan wiki last edited 2009), so the entry follows the two sources that agree on Uehara
-- The fandom page lists no author
+- No `by` credit (user, 2026-10-19)
+  - Retail pages (booklog, Bookoff, Suruga-ya, Amazon) credit the Famicom Magazine editorial department (ファミリーコンピュータMagazine編集部)
+  - 上原尚子 (Shoko Uehara) appears only as 編集 (editor) on tradersguild, and as author on finalfancast.com; not listed
+  - wikiwiki.jp credits 山下辰巳 (Tatsumi Yamashita) as author; the only source naming him (a fan wiki last edited 2009)
+  - The fandom page lists no author
+  - Name reading: NDL's authority "上原, 尚子, 1966-" is read ウエハラ ショウコ (Shoko); NDL has no record of this book
 
 ## Editions (ISBN)
 
@@ -29,6 +32,15 @@
   - cover photo
   - editor 上原尚子
   - notes this is the second and last Famimaga gamebook from the Tokuma editorial team, with a prequel story that ends on an "our battle has just begun" note
+- booklog: https://booklog.jp/item/1/4194738349 -- credit, date -- accessed 2026-10-19 (page text pasted by user)
+  - ファミリーコンピュータMagazine編集部, Tokuma Shoten, 1988年12月31日 on sale
+- bookoff: https://shopping.bookoff.co.jp/used/0012073996 -- re-read 2026-10-19: editor ファミリーコンピュータMagazine編集部, bunko, 1988/12/31, JAN 9784194738345
+- tradersguild: https://tradersguild.jp/ca44/2472/ -- second listing (copy without the map) -- accessed 2026-10-19 (page text pasted by user)
+  - Same text as the 2770 listing: 上原尚子 編集; the second and last Famimaga gamebook; a prequel starring the original hero Mid who joins Firion, Hilda and others
+- suruga-ya: https://www.suruga-ya.jp/kaitori/kaitori_detail/607512361 -- credit, length -- accessed 2026-10-19 (page text pasted by user)
+  - ファミマガゲームブック ファイナルファンタジーII 勝利への旅立ち, 272 pages, bunko, by the Famicom Magazine editorial department; 1988/12/31
+- paypay fleamarket: https://paypayfleamarket.yahoo.co.jp/item/z670891906 and https://paypayfleamarket.yahoo.co.jp/item/z535709828 -- title, series -- accessed 2026-10-19 (page text pasted by user)
+  - Titled ファイナルファンタジーII 勝利への旅立ち ファミマガゲームブック 第2弾 (Tokuma Shoten); the second listing is a three-book Final Fantasy II set (also names 夢魔への前奏曲 books: a Kadokawa Bunko novel by 寺田憲史 and a Katsu Famicom monster-guide edition) -- lead in .plan/todo.md
 
 ## Sources
 

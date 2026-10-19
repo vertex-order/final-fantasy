@@ -426,4 +426,26 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       ],
     },
   },
+  {
+    mediaType: 'Book', chronoOrder: -3500, narrativeOrder: 540,
+    title: 'Final Fantasy: Crystal Inheritance Legend', titleUrl: 'https://www.thevideogamelibrary.org/book/final-fantasy-crystal-inheritance-legend', titleDate: '1988-01-10',
+    by: ['Osamu Mihara', 'Shoko Uehara'],
+    mediaDesc: [
+      'A gamebook with an original story set before the first game, in which a boy and a girl search for the lost Water Crystal. Includes a short timeline of the world. Released as ファイナルファンタジー クリスタル継承伝説 (Fainaru Fantajī Kurisutaru Keishō Densetsu), printed "Cristal Saga".',
+    ],
+    primary: {
+      tags: ['Gamebook'],
+      subtitle: 'Book',
+      length: '235p; P',
+      profileUrl: 'https://ndlsearch.ndl.go.jp/books/R100000002-I000001965142',
+      languages: [
+        { value: 'JA', native: true },
+      ],
+      platforms: [
+        { key: 'book', name: 'Gamebook', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: 'ファイナルファンタジー クリスタル継承伝説', searchQualifier: 'gamebook' },
+        { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'ファイナルファンタジー クリスタル継承伝説', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'ファイナルファンタジー クリスタル継承伝説', noResults: true },
+      ],
+    },
+  },
 ]};

@@ -150,6 +150,14 @@ value, ours, and why, so the corrections can be reported upstream.
 - Our source: [final-fantasy-xv-comrades-2017.md](../sources/final-fantasy-xv-comrades-2017.md)
 - Reason: the official notice (Wayback capture of finalfantasy.jp) is narrower than the wiki; Microsoft Store copies are not named in the notice either way.
 
+### ja.wikipedia: Final Fantasy (Crystal Inheritance Legend publication date)
+
+- Page: https://ja.wikipedia.org/wiki/ファイナルファンタジー
+- Says: published December 1987 (and 1987 on the Adventure Hero's Books page).
+- Probably: first printed 1988-01-10 (the jacket says 初版発行 昭和63年1月10日; NDL gives 1988.1).
+- Our source: [final-fantasy-crystal-inheritance-legend-1988.md](../sources/final-fantasy-crystal-inheritance-legend-1988.md)
+- Reason: the printed first-edition date on the jacket and NDL disagree with the wiki; the wiki may give the announced or cover year.
+
 ### Fandom Final Fantasy Wiki: Final Fantasy Adventure (Adventures of Mana Vita dates)
 
 - Page: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure
