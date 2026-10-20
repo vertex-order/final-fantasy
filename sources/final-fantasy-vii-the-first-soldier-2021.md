@@ -8,10 +8,12 @@
 ## Android (Platform)
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7fsww&hl=en
+  - Wayback capture 2022-11-14 (the last 200 capture, showing the app page; original URL above): https://web.archive.org/web/20221114015437/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7fsww&hl=en -- accessed 2026-10-19
 
 ## Apple App Store (Platform)
 
 - https://apps.apple.com/us/app/ffvii-the-first-soldier/id1536906780
+  - Wayback capture 2023-01-10 (the last 200 capture, showing the app page; original URL above): https://web.archive.org/web/20230110035724/https://apps.apple.com/us/app/ffvii-the-first-soldier/id1536906780 -- accessed 2026-10-19
 
 ## ateam-entertainment.com (Information)
 

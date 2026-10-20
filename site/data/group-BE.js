@@ -83,8 +83,8 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'apple', name: 'comico PLUS', jpTag: true, terminated: true, url: 'https://apps.apple.com/jp/app/id1019143399' },
-        { key: 'android2', name: 'comico PLUS', jpTag: true, terminated: true, url: 'https://play.google.com/store/apps/details?id=jp.comico.plus' },
+        { key: 'apple', name: 'comico PLUS', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20171002135327/https://itunes.apple.com/jp/app/comico-plus/id1019143399?l=ja&ls=1&mt=8' },
+        { key: 'android2', name: 'comico PLUS', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20161225233751/https://play.google.com/store/apps/details?id=jp.comico.plus' },
         { key: 'globe', name: 'Twitter', url: 'https://x.com/FFRS_JP/status/902367909707530240' },
         { key: 'apple', name: 'Manga UP!', jpTag: true, terminated: true, url: 'https://apps.apple.com/jp/app/id1178874028' },
         { key: 'android2', name: 'Manga UP!', jpTag: true, terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_jp' },

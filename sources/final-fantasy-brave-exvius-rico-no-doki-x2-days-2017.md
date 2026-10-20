@@ -76,7 +76,13 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - the `titleUrl` is the Game Watch article
   - `by` Takeshi Matsumoto
   - comico PLUS iOS and Android rows added, struck through (the title's page is dead) and Japan only
-  - whether the comico PLUS service itself ended is unchecked
+  - the comico PLUS app pages are gone (2026-10-19: Apple JP and Google Play both return 404), so the Android row links the Wayback capture of 2016-12-25, the last 200 capture (it predates the series and has no title listing); the Apple row links the Wayback capture of 2017-10-02, https://web.archive.org/web/20171002135327/https://itunes.apple.com/jp/app/comico-plus/id1019143399?l=ja&ls=1&mt=8 (the only 200 capture among the 301 and 404 ones; the page title reads comico PLUS - オリジナルマンガが読み放題を App Store で)
+  - the Manga UP! app pages are live and their descriptions do not list this title, so those rows keep the live links (the strikethrough is because the title is gone from the app)
+  - App page captures checked by the user 2026-10-19 (Find in page for the series and Final Fantasy): none lists this title or names any product
+    - Manga UP! iOS, first capture 2019-06-19 (https://web.archive.org/web/20190619092936/https://apps.apple.com/jp/app/id1178874028): no DAYS, no Final Fantasy
+    - Manga UP! Android, first capture 2019-04-04 (https://web.archive.org/web/20190404014920/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_jp): no Final Fantasy
+    - comico PLUS iOS, first capture 2017-10-02 (inside the run): no Final Fantasy, no product named in the description
+    - comico PLUS Android, only 200 capture 2016-12-25 (predates the series): same
   - Wayback was offline when tried (2026-10-17)
 - https://web.archive.org/web/20171113073033/plus.comico.jp/manga/1649/ -- Wayback capture of the comico PLUS title page, **2017-11-13** (the last working capture; the first capture is 2017-04-03; the capture of 2017-12-14 says the data does not exist; page text pasted by the user 2026-10-17): FFぶれいぶ えくすう゛ぃあす!!リコのドキ×2 DAYS, まつもと 剛志, 更新曜日 毎週月曜日 (updated every Monday), genres 日常・ドラマ・恋愛・ロング, tags スクエニ, ファイナルファンタジー, FFBE, コメディ
   - blurb: 夢見る妄想少女、モーグリの女の子「リコ」ちゃんが、ドキドキワクワクの大冒険＆ほっこりする日常をお届けします！ スクウェア･エニックスのスマホRPGゲーム『FFBE』**初のマンガ化**、FFBEの主人公たちとリコとの恋愛？友情？ドタバタコメディ！

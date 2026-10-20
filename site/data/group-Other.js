@@ -396,7 +396,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { url: 'https://www.metacritic.com/game/final-fantasy-portal-app/', key: 'nyr' },
       ],
       platforms: [
-        { key: 'android2', terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay' },
+        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20240909220125/https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay' },
         { key: 'apple', terminated: true },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy Portal App Triple Triad' },
       ],
