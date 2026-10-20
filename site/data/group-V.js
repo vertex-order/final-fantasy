@@ -145,7 +145,7 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
     primary: {
       tags: ['Sequel', 'OVA'],
       subtitle: 'Video',
-      length: '4 episodes; totalling 120min',
+      length: [{ value: '4 episodes;', br: true }, { value: 'totalling 120min' }],
       contentsLabel: 'episodes',
       languages: [
         { value: 'JA', native: true },
