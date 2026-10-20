@@ -40,4 +40,10 @@
     - this game is not an entry of its own here
   - Its Links section names only https://www.square-enix.com/
 
+## appstor.io (Platform; iOS)
+
+- https://appstor.io/app/chocobo-panic -- Chocobo Panic, an iOS game of the series, not an entry of its own here -- accessed 2026-10-20 (found by the user in the Square Enix developer list, https://appstor.io/developers/300186801-square-enix)
+  - App Store id 373052434 (https://geo.itunes.apple.com/us/app/download/id373052434?mt=8&at=11l5Kb&ct=appstor); its own page: https://chocobo-panic.appstor.io/
+  - Not in the iTunes lookup API (country us), so it is off the store; page address https://itunes.apple.com/us/app/chocobo-panic/id373052434 (captures run from 2010-05-31; the later ones are redirects)
+
 ## Decisions

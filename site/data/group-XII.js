@@ -399,7 +399,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
     mediaType: 'Game', chronoOrder: 3100, narrativeOrder: 750,
     title: 'Crystal Defenders', titleUrl: 'https://wikipedia.org/wiki/Crystal_Defenders', titleDate: { start: '2008-01-28', end: '2008-05-08' },
     mediaDesc: [
-      [{ text: 'Tower defense game inspired by elements from ' }, { emLinkText: 'Tactics A2: Grimoire of the Rift (2007)', emLinkUrl: '#entry-XII-final-fantasy-tactics-a2-grimoire-of-the-rift-2007' }, { text: ' set in Ivalice. Initially released as ' }, { emText: 'Crystal Guardians' }, { text: ' (クリスタル ガーディアンズ, Kurisutaru Gādianzu). Some platforms may have only partial content, or higher graphics under the name ' }, { emText: 'Crystal Defenders Plus' }, { text: ', also known as クリスタル・ディフェンダーズ Plus (Kurisutaru Difendāzu Plus).' }],
+      [{ text: 'Tower defense game inspired by elements from ' }, { emLinkText: 'Tactics A2: Grimoire of the Rift (2007)', emLinkUrl: '#entry-XII-final-fantasy-tactics-a2-grimoire-of-the-rift-2007' }, { text: ' set in Ivalice.' }],
     ],
     primary: {
       tags: ['Spin-off', 'Mobile', 'Turn-based strategy', 'Tower defense'],
@@ -421,7 +421,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         { key: 'mobile-phone', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20160307051837/http://www.square-enix.co.jp/mobile/ff/cg/' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20160203052424/https://itunes.apple.com/us/app/crystal-defenders/id300186798?mt=8' },
         { key: 'apple', suffix: 'pod', terminated: true, url: 'https://web.archive.org/web/20130225135614/https://www.jp.square-enix.com/cdplus/' },
-        { key: 'nintendo-wii', terminated: true, paren: 'WiiWare', url: 'https://web.archive.org/web/20130318031911/http://na.square-enix.com/crystaldefenders/' },
+        { key: 'apple', name: 'iPadOS', suffix: 'pad', terminated: true, url: 'https://web.archive.org/web/20160709085514/https://itunes.apple.com/us/app/crystal-defenders-for-ipad/id379052382?mt=8' },
         { key: 'xbox-360', terminated: true, paren: 'Xbox Live Arcade', url: 'https://www.xbox.com/games/store/crystal-defenders/BVCHVG7HM8LG' },
         { key: 'xbox-one', paren: '360 Live Arcade compatibility', url: 'https://www.xbox.com/games/store/crystal-defenders/BVCHVG7HM8LG' },
         { key: 'xbox-xs', paren: '360 Live Arcade compatibility', url: 'https://www.xbox.com/games/store/crystal-defenders/BVCHVG7HM8LG' },
@@ -431,6 +431,38 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20190417193354/https://play.google.com/store/apps/details?id=com.squareenix.android.crystaldefenders_r' },
         { key: 'amazon', terminated: true },
         { key: 'fan-playthrough', search: 'youtube' },
+      ],
+      versionDesc: [
+        [{ text: 'Episodes W1 to W3, initially released as ' }, { emText: 'Crystal Guardians' }, { text: ' (クリスタル ガーディアンズ, Kurisutaru Gādianzu). Some platforms may have only partial content.' }],
+      ],
+      versions: [
+        {
+          subtitle: 'Remake', subtitleUrl: 'https://breezewiki.com/finalfantasy/wiki/Crystal_Defenders#Versions', subtitleDate: 2013,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: 'FR' },
+            { value: 'IT' },
+            { value: 'DE' },
+            { value: 'ES' },
+            { value: 'ZH' },
+          ],
+          platforms: [
+            { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20150409073058/https://itunes.apple.com/us/app/crystal-defenders-plus/id573525925?mt=8' },
+          ],
+          versionDesc: [
+            [{ text: 'Higher graphics, smoother play and downloadable maps. Also known as クリスタル・ディフェンダーズ Plus (Kurisutaru Difendāzu Plus).' }],
+          ],
+        },
+        {
+          subtitle: 'Edit', subtitleUrl: 'https://breezewiki.com/finalfantasy/wiki/Crystal_Defenders#Versions', subtitleDate: 2009,
+          platforms: [
+            { key: 'nintendo-wii', terminated: true, paren: 'WiiWare', url: 'https://web.archive.org/web/20130318031911/http://na.square-enix.com/crystaldefenders/' },
+          ],
+          versionDesc: [
+            [{ text: 'Released in two installments, R1 and R2, with a bonus stage for a perfect run and a much lower difficulty than ' }, { emLinkText: 'Crystal Defenders (2008)', emLinkUrl: '#entry-XII-crystal-defenders-2008' }, { text: '.' }],
+          ],
+        },
       ],
     },
   },
