@@ -991,12 +991,13 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
     primary: {
       tags: ['Minigame', 'Mobile', 'Racing', 'Motorcycle', 'Hack and slash', 'Single-player'],
       terminated: true,
+      profileUrl: 'https://web.archive.org/web/20151006085040/https://www.jp.square-enix.com/ff7_gbike/',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true },
-        { key: 'apple', jpTag: true, terminated: true },
+        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151128160608/https://play.google.com/store/apps/details?id=com.square_enix.ff7g_bike' },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150616025532/https://itunes.apple.com/jp/app/final-fantasy-vii-g-bike/id900316991' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
     },

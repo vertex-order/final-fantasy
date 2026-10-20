@@ -79,12 +79,13 @@ window.__ffGroupReg['WD'] = { num: 'WD', chronoOrder: 1580, narrativeOrder: 1580
     primary: {
       tags: ['Monster-taming RPG', 'Multiplayer', 'Co-op', 'Mobile', 'In-app purchases'],
       terminated: true,
+      profileUrl: 'https://web.archive.org/web/20180626105926/https://woffmm.jp/',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true },
-        { key: 'apple', jpTag: true, terminated: true },
+        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20190916133924/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.WOFFMeliMeloj' },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20171212144235/https://itunes.apple.com/jp/app/id1255100940' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchTitle: 'World of Final Fantasy Meli-Melo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'World of Final Fantasy Meli-Melo', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'World of Final Fantasy Meli-Melo' },

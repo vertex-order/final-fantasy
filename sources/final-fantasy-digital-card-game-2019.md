@@ -13,4 +13,24 @@
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Other_games -- dates*, platforms*, tags -- accessed 2026-09-22
 
+## Final Fantasy Wiki and the official site (Information)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Digital_Card_Game -- accessed 2026-10-20 (read by me through the Fandom API; found by the user)
+  - ファイナルファンタジー デジタルカードゲーム (Fainaru Fantajī Dejitaru Kādo Gēmu): a free-to-play online competitive card game, developer and publisher Square Enix, a browser game launched for Yahoo!'s Game Plus service; platform listed: Game Plus; first announced 2019-01-09, closed beta from 2019-01-18, released 2019-07-09, service ended 2020-07-09; 1v1 card battles with leader cards and cards played on a board
+  - External links: the Famitsu announcement https://www.famitsu.com/news/201901/09170125.html, the official Twitter @FFDCG_PR, and the official site https://www.jp.square-enix.com/ffdcg/
+- https://www.jp.square-enix.com/ffdcg/ -- the official site, the entry's `profileUrl`, capture of 2020-07-02: https://web.archive.org/web/20200702055727/https://www.jp.square-enix.com/ffdcg/
+  - FINAL FANTASY DIGITAL CARD GAME 公式サイト | SQUARE ENIX, described as "対戦型ブラウザゲーム" (a competitive browser game); the news runs from 2019-01-09 (site opened, closed beta testers wanted) to 2019-12-27; pre-registration passed 100,000 (2019-06-28) and 150,000 (2019-07-09); its only play links go to Yahoo! Game Plus (games.yahoo.co.jp/ffdcg and games.yahoo-net.jp/title/casual/752490904), no store pages
+  - The browser platform link (the `globe` row, to play online) is the Yahoo! Game Plus page, capture of 2020-05-13: https://web.archive.org/web/20200513022613/https://games.yahoo.co.jp/ffdcg (user, 2026-10-20); the official site is the `profileUrl` only
+  - The entry's description says "Also known as" the Japanese name, because the site shows the title in English letters (user, 2026-10-20)
+- Other sources (pasted by user 2026-10-20), all consistent with a browser game that ran on PC and smartphones:
+  - https://en.androidayuda.com/final-fantasy-digital-card-game-android/ (pre-release): a free online TCG with microtransactions "designed for browser, PC and Android devices", retro 16-bit graphics, matches of about twelve turns, a closed beta in Japan for 10,000 players through Yahoo! Japan Game Plus!; it expected the full launch first on the browser platform and apps on iOS and Android later (the apps did not materialize)
+  - https://gamefaqs.gamespot.com/android/255395-final-fantasy-digital-card-game: an Android listing, a simultaneous turn-based card battle, release July 9, 2019, Square Enix; no posts or other activity
+  - https://www.rpgfan.com/game/final-fantasy-digital-card-game/: platforms Android, Windows and iOS, Japan 2019-07-09, shut down exactly a year later because of the difficulty of providing a satisfactory experience; never released in English
+  - https://www.siliconera.com/final-fantasy-digital-card-game-will-fold-after-a-year-of-service-on-july-9-2020/: the end-of-service report; announced by Square Enix in January 2019, in full service through Yahoo! Japan Game+ from July 2019, ending on July 9, 2020 at 3:00pm JST; it calls the game "available to play in Japan for PC, iOS, and Android", the same browser-device list as the Yahoo! page
+  - https://www.eurogamer.net/games/final-fantasy-digital-card-game: a database listing, platforms Android, iOS and PC, initial release July 9, 2019, developer and publisher Square Enix, genres card games and strategy; no store links, the same device list as the others
+- https://twitter.com/FFDCG_PR -- the official Twitter account, capture of 2019-09-20 (https://web.archive.org/web/20190920195135/https://twitter.com/FFDCG_PR, found by the user): only three posts, with no details on iOS, Android or PC
+  - The Yahoo! Game Plus page (capture of 2020-05-13) explains those platform lists: it names the supported devices as PC (Windows with Edge, Chrome or Firefox; Mac with Safari), Android (6.0 or later, Chrome, 3 GB RAM) and iOS (12 or later, iPhone 6s or later, Safari), all through a web browser; the official site says "play on a PC or a smartphone, wherever you are"
+  - The Android and iOS rows were removed (2026-10-20): the game was a browser game on Game Plus and the official site's captures (2020-05-17 and 2020-07-02, checked by the user) show no iOS or Android links; only the browser row stays
+
 ## Decisions
+- No iOS, Android or PC platform rows (user, 2026-10-20): the claims of those versions (androidayuda, GameFAQs, RPGFan, Siliconera, Eurogamer) come from the time of or before the Yahoo! Game Plus closed beta, the official site, the Yahoo! page and the Twitter account show only the browser game, and the run was a single year, so we decide those versions were cancelled before they materialized, even though they were announced; only the browser row (Yahoo! Game Plus) is listed

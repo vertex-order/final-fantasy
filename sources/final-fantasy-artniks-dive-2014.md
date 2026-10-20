@@ -13,4 +13,27 @@
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Artniks -- dates*, platforms* -- accessed 2026-09-22
 
+## apps.gree.net (Platform; GREE)
+
+- http://jp.apps.gree.net/ja/60521 -- the Android and iOS rows (Japan only) -- accessed 2026-10-20 (found by the user; Wayback capture of 2015-07-29: https://web.archive.org/web/20150729143635/http://jp.apps.gree.net/ja/60521)
+  - FINAL FANTASY ARTNIKS DIVE - GREE, category RPG, device smartphone, provided by GREE Inc.; tagline: a map-type dungeon RPG where you roam the world of Final Fantasy with free choice (遊び方は君次第！), with the Legend Stone, command upgrades in battle and party building by job
+  - The page carries no store links and names no platform beyond smartphone; the Wayback index shows 40 captures from 2014-11-12 to 2025-06-21
+  - No Play or App Store page is known (the game ran through GREE), so both rows link this page
+- http://www.jp.square-enix.com/ff_artniks_d/ -- the official site, the entry's `profileUrl` (user, 2026-10-20), capture of 2015-02-24: https://web.archive.org/web/20150224013222/http://www.jp.square-enix.com/ff_artniks_d/
+  - FINAL FANTASY ARTNIKS DIVE | SQUARE ENIX; the page links only GREE (a share link "play FINAL FANTASY ARTNIKS DIVE on GREE", gree.jp/r/69326/1), no store pages
+- QR codes and links on the official site (read by the user, 2026-10-20): http://games.gree.net/announce/60521 (no Wayback capture) and http://gree.jp/r/69326/1, which redirects to the capture https://web.archive.org/web/20220425042013/http://games.gree.net/?action=preopen_app_top&app_id=60521&from_externallink=sqexofficial_60521_01
+  - That page only says it is not a pre-registration period; it carries three promotional images (the GREE app id is 60521, as in the GREE apps page above):
+    - Point 1: the long-awaited newest Final Fantasy, with all-original characters
+    - Point 2: a "map dungeon" RPG: explore wide maps as you choose, gather materials to craft the strongest weapons (screens marked as in development)
+    - Point 3: fight battles with "command upgrades": character cards set on commands make them stronger (cards of series characters, including Dissidia heroes)
+- https://web.archive.org/web/20141111191738/http://games.gree.net/?action=preopen_app_top&app_id=60521&from_externallink=sqexofficial_60521 -- another GREE pre-registration page for the game, capture of 2014-11-11 (found by the user; the Wayback index shows 18 captures from 2014-07-11 to 2025-06-21) -- accessed 2026-10-20
+  - FINAL FANTASY ARTNIKS DIVE 事前登録 - GREE: closed ("not a pre-registration period"), with the same three promotional images and more graphics; the campaign notes list what pre-registration gave (a Talisman accessory; a random pre-gacha item; invitation rewards of a Flame Rod, Coral Sword, Ice Armor and Ice Brand), a limit of one tweet-earned gacha ticket per day, and an end the day before the official release; the pictured screens are in development
+
+## legendra.com (Information; database)
+
+- https://www.legendra.com/rpg/fiche-rpg_id-6637-supports_id-97-so-fiche.html -- the Japanese name -- accessed 2026-10-20 (page text pasted by user)
+  - Final Fantasy Artniks Dive, a CRPG for Android, also on iOS, 1 player, group Final Fantasy; original name ファイナルファンタジー アートニクス ダイ (the final ブ is cut off)
+  - The full name ファイナルファンタジー アートニクス ダイブ is on the official site (capture of 2015-02-24, see above); the entry's description says "Also known as" that name with a romanization, because the Japanese official site shows the title in English letters as ARTNIKS DIVE (user, 2026-10-20)
+
 ## Decisions
+- GREE is the link for the Android and iOS rows (user, 2026-10-20): the search for direct Play Store and App Store pages is closed, since the game was only available through registration on the GREE website; the rows link the GREE apps page capture of 2015-07-29 and no store page is expected to exist

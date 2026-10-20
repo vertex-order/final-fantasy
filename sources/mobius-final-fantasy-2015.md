@@ -19,4 +19,9 @@
 - https://apps.apple.com/us/app/mobius-final-fantasy/id1091974564 -- the iOS row -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
   - gone (404); the capture shows version 2.1.106: https://web.archive.org/web/20200612163359/https://apps.apple.com/us/app/mobius-final-fantasy/id1091974564
 
+## play.google.com (Platform)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mobiusff_ne -- the Android row -- accessed 2026-10-20 (the package id comes from the 2017-03-16 Wayback capture of the Square Enix developer page in the Japanese layout, https://web.archive.org/web/20170316161328/https://play.google.com/store/apps/dev?id=8026010256970589886&hl=ja, where Mobius Final Fantasy is listed as a free app)
+  - The store page is gone (404); the row links the last capture, 2019-10-21, which still shows the app page: https://web.archive.org/web/20191021201143/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mobiusff_ne
+
 ## Decisions

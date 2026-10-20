@@ -58,5 +58,6 @@ finalfantasyexvius.com (Publisher, official)
   - languages (user, 2026-10-17: confirmed from this capture): Chinese, English, a subset of the App Store's list
 
 ## Decisions
+- Brave Exvius Memorial Version not listed (user, 2026-10-20): the Japanese offline app released after the service ended is an archive and viewer (story, encyclopedias, galleries), not content, so the entry gets no Japanese or Memorial rows; same decision as the Libra Eorzea app (see final-fantasy-franchise.md Decisions)
 - Terminated platform rows link Wayback captures of their store pages
   - the profile link is the 2024-11-11 Wayback capture of the official site (user): the Square Enix games page is still up but expected to go with end of service, and its Wayback captures don't render (script-rendered page; latest 2026-08-23: https://web.archive.org/web/20260823032823/https://www.square-enix-games.com/en_US/games/final-fantasy-brave-exvius)

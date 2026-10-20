@@ -10,4 +10,22 @@
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Crystal_Defenders -- dates*, platforms*, tags -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Crystal_Defenders
 
+## itunes.apple.com and the official site (Platform; Information)
+
+- http://www.cd-vanguardstorm.com/ -- the official English site, the entry's `profileUrl` (user, 2026-10-20), capture of 2010-04-29 (picked at random; the Wayback index lists captures from 2009-05-16, and the site is down or parked now, so a later capture may work better): https://web.archive.org/web/20100429055149/http://www.cd-vanguardstorm.com/
+- http://itunes.apple.com/app/vanguard-storm/id313457759 -- the iOS row -- accessed 2026-10-20 (page text pasted by user)
+  - Gone. The row links the last capture, 2016-06-10 (the same version 1.0.1 of 2009-07-03, 899 ratings over all versions, the same six languages): https://web.archive.org/web/20160610064226/http://itunes.apple.com/app/vanguard-storm/id313457759?mt=8
+  - The capture of 2010-05-13 (https://web.archive.org/web/20100513063450/http://itunes.apple.com/app/vanguard-storm/id313457759?mt=8, page text pasted by user) was the first one used; the official site linked the old MZStore viewSoftware URL, which redirects to this page; other captures exist for 2010-07-19, 2010-08-27, 2012-05-19, 2012-11-13, 2013-06-30 and 2016-06-10
+  - VANGUARD STORM by SQUARE ENIX Co., LTD., version 1.0.1 of 2009-07-03 (a save-and-quit fix), 45.4 MB, iPhone OS 2.2 or later, rated 9+ for mild cartoon or fantasy violence, seller SQUARE ENIX Co., Ltd.; the newest Crystal Defenders game, a real-time turn "defensive simulation" with jobs from Final Fantasy Tactics A2 (Soldier, Archer, Dragoon, Black Mage, White Mage, Flintock, Bishop, Paladin), ten maps of three to five waves and an endless-mode request in reviews
+  - **Languages on the page: English, French, German, Italian, Japanese, Spanish** (the entry's language list now matches; the old list had Japanese, English and an unknown)
+
+## finalfantasy.fandom.com (Information; Final Fantasy Wiki, mirror breezewiki.com)
+
+- https://breezewiki.com/finalfantasy/wiki/Crystal_Defenders:_Vanguard_Storm -- the entry's `titleUrl` (user, 2026-10-20) -- accessed 2026-10-20 (page text pasted by user)
+  - Vanguard Storm (クリスタル・ディフェンダーズ ヴァンガード・ストーム, Kurisutaru Difendāzu Vangādo Sutōmu): developer MSF/Winds, publisher Square Enix in Japan, the United States and Canada, and Europe and Australia; a defense simulation, single player, rated 9+, for iOS and iPadOS; released May 13, 2009 in all three regions; closure Aug 31, 2017
+  - A turn-based strategy game set in Ivalice that, like the original Crystal Defenders, features jobs from Final Fantasy Tactics A2: Grimoire of the Rift
+  - Service ended August 31, 2017; the game was never updated for modern hardware (compatibility is limited to iOS 10.3.3 and earlier, such as iPhone 5 and 5c), and neither the game nor its purchased content can be downloaded any more
+  - The page carries a stub notice asking for a full article
+
 ## Decisions
+- Help wanted removed (user, 2026-10-20): the language list is now known

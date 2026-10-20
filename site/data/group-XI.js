@@ -1236,12 +1236,13 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     primary: {
       tags: ['Spin-off', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Mobile', 'Jobs', 'Active Time Battle'],
       terminated: true,
+      profileUrl: 'https://web.archive.org/web/20151117042801/http://www.jp.square-enix.com/FFGM/',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true },
-        { key: 'apple', jpTag: true, terminated: true },
+        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20190824064747/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffgm' },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20190822052100/https://apps.apple.com/jp/app/id1011102761' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
     },

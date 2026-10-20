@@ -67,4 +67,11 @@
 - [FFCC 公式ガイドブック コンプリートエディション](https://magazine.jp.square-enix.com/gamebooks/books/10021) — Square Enix Game Books page for the official guide; title seen in the series listing; details not read — accessed 2026-10-11
   - not used: a strategy guide is not a source for the game's fields — empty
 
+## apps.apple.com (Platform; iOS)
+
+- https://apps.apple.com/us/app/finalfantasy-crystalchronicles/id1478870957 -- the iOS row (the Remastered Edition) -- accessed 2026-10-20 (the id was found in the Wayback captures of the Square Enix developer page on the App Store, see final-fantasy-franchise.md)
+  - Gone (404). The row links the last capture, 2024-12-22 (version 1.2.0, 3.1 GB, iOS 13.0 or later, seller SQUARE ENIX Co., Ltd.; the description says the classic returns with online multiplayer and cross-platform play, with up to 13 dungeons free to play): https://web.archive.org/web/20241222152916/https://apps.apple.com/us/app/finalfantasy-crystalchronicles/id1478870957
+  - Captures exist from 2020-08-29 to 2024-12-22; the Final Fantasy Wiki's iOS page lists the game as retired due to bugs
+  - The row used to link the news post https://na.finalfantasy.com/news/2719 (the remaster's announcement), which is no longer the row's link
+
 ## Decisions

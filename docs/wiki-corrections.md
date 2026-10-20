@@ -158,6 +158,30 @@ value, ours, and why, so the corrections can be reported upstream.
 - Our source: [final-fantasy-portal-app-triple-triad-2015.md](../sources/final-fantasy-portal-app-triple-triad-2015.md)
 - Reason: the English wiki, the Final Fantasy Wiki's Portal App page and its version-difference pages are silent on the Portal Versions; only the store text and ja.wikipedia name them.
 
+### zh.wikipedia: 最终幻想Artniks (release date in the infobox)
+
+- Page: https://zh.wikipedia.org/wiki/最终幻想Artniks
+- Says: the infobox gives the Japan release as 2013-11-30, while the article text says 2012-11-30.
+- Probably: 2012-11-30 (the text, our entry's date); the infobox year looks like a slip.
+- Our source: [final-fantasy-artniks-2012.md](../sources/final-fantasy-artniks-2012.md)
+- Reason: the page contradicts itself; the other sources we hold for the game agree on 2012.
+
+### thefinalfantasy.net: Final Fantasy Artniks (the sequel)
+
+- Page: https://thefinalfantasy.net/final-fantasy-artniks/
+- Says: a sequel titled "Final Fantasy Artniks Drive" was planned but axed, along with the original.
+- Probably: the sequel is Final Fantasy Artniks Dive, which launched in Japan on 2014-11-10 (store and GREE pages exist in Wayback captures).
+- Our source: [final-fantasy-artniks-2012.md](../sources/final-fantasy-artniks-2012.md), [final-fantasy-artniks-dive-2014.md](../sources/final-fantasy-artniks-dive-2014.md)
+- Reason: the name looks misspelled, and the claim that the sequel was cancelled conflicts with the captures of its GREE and official pages; the page's other facts agree with ours.
+
+### ja.wikipedia: クリスタル ガーディアンズ (Crystal Defenders Android release date)
+
+- Page: https://ja.wikipedia.org/wiki/クリスタル_ガーディアンズ
+- Says: the Android version was released on 2011-12-01.
+- Probably: 2011-01-26 (Square Enix's official Japanese game page for Crystal Defenders gives Android 2011.01.26, and the Final Fantasy Wiki says 2011-01-25).
+- Our source: [crystal-defenders-2008.md](../sources/crystal-defenders-2008.md)
+- Reason: the publisher's page and another wiki agree on January 2011, so the December month looks like a slip.
+
 ### ja.wikipedia: Final Fantasy (Crystal Inheritance Legend publication date)
 
 - Page: https://ja.wikipedia.org/wiki/ファイナルファンタジー

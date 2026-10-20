@@ -573,17 +573,18 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
     title: 'Final Fantasy Agito', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Agito#', titleDate: '2014-05-14',
     mediaDesc: [
       [{ text: 'Companion entry to ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ', you play a cadet entering the Rubrum Magical Academy during a time of war, and chosen to become the Agito, a figure destined to save Orience from destruction.' }],
-      [{ text: 'It was never released outside of Japan.' }],
+      [{ text: 'It was never released outside of Japan. Its successor was ' }, { emLinkText: 'Awakening (2016)', emLinkUrl: '#entry-XIII-final-fantasy-awakening-2016' }, { text: '.' }],
     ],
     primary: {
       tags: ['Spin-off', 'RPG', 'Multiplayer'],
       terminated: true,
+      profileUrl: 'https://web.archive.org/web/20151013060037/http://www.jp.square-enix.com/ff-agito/',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true },
-        { key: 'apple', jpTag: true, terminated: true },
+        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151128155733/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFAgitoj' },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151112001904/https://itunes.apple.com/jp/app/final-fantasy-agito/id774609884' },
         { key: 'fan-movie', paren: 'Youtube', jpTag: true, search: 'youtube' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', noResults: true },
@@ -618,6 +619,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
     title: 'Final Fantasy Awakening', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Awakening', titleDate: '2016-12-14',
     mediaDesc: [
       [{ text: 'Set in the ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ' alternate universe, you play as a cadet of the Dominion of Rubrum as the four nations of Orience are plunged into war.' }],
+      [{ text: 'The successor to ' }, { emLinkText: 'Agito (2014)', emLinkUrl: '#entry-XIII-final-fantasy-agito-2014' }, { text: '.' }],
     ],
     primary: {
       tags: ['Spin-off', 'RPG', 'Multiplayer'],

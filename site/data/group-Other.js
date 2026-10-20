@@ -113,7 +113,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       platforms: [
         { key: 'steam', terminated: true },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20200612163359/https://apps.apple.com/us/app/mobius-final-fantasy/id1091974564' },
-        { key: 'android2', terminated: true },
+        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20191021201143/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mobiusff_ne' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube' },
@@ -311,6 +311,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     primary: {
       tags: ['Mashup', 'Dot logic puzzle', 'RPG', 'Single-player', 'Multiplayer', 'Co-op'],
       terminated: true,
+      profileUrl: 'https://web.archive.org/web/20170310061304/http://www.jp.square-enix.com/p_ff/',
       languages: [
         { value: 'JA', native: true },
       ],
@@ -319,8 +320,8 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       ],
       length: [{ value: '20h', tip: 'Main Story', join: ' / ' }, { value: '34h', tip: 'Main + Extra', join: ' / ' }, { value: '47½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true },
-        { key: 'apple', jpTag: true, terminated: true },
+        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20161011031113/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.pictlogicaff' },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20160625171900/https://itunes.apple.com/jp/app/pictlogica-final-fantasy/id715441573' },
         { key: 'nintendo-3ds', jpTag: true, terminated: true, paren: 'Digital' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
@@ -336,12 +337,13 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     primary: {
       tags: ['Mashup', 'Typing RPG', 'Mobile', 'Free-to-play', 'Multiplayer'],
       terminated: true,
+      profileUrl: 'https://web.archive.org/web/20150206053603/http://www.jp.square-enix.com/ff_www/',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'apple', jpTag: true, terminated: true },
-        { key: 'android2', jpTag: true, terminated: true },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150616025539/https://itunes.apple.com/jp/app/final-fantasy-world-wide-words/id900312607?mt=8' },
+        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151128160812/https://play.google.com/store/apps/details?id=com.square_enix.ffwww' },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy World Wide Words' },
       ],
     },
@@ -369,7 +371,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       platforms: [
         { key: 'steam', terminated: true },
         { key: 'apple', terminated: true },
-        { key: 'android2', terminated: true },
+        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20161213092938/https://play.google.com/store/apps/details?id=com.square_enix.HEAVENSTRIKERIVALS_WW' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-playthrough', search: 'youtube' },
@@ -408,17 +410,17 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     mediaDesc: [
       [{ text: 'Players deployed various characters and creatures from the Final Fantasy series in a board to compete with one another.' }],
       [{ text: 'Incorporates existing series and titles.' }],
+      'Also known as ファイナルファンタジー デジタルカードゲーム (Final Fantasy Dejitaru Kādo Gēmu).',
     ],
     primary: {
       tags: ['Mashup', 'Card game', 'Free-to-play', 'In-app purchases', 'Multiplayer'],
       terminated: true,
+      profileUrl: 'https://web.archive.org/web/20200702055727/https://www.jp.square-enix.com/ffdcg/',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'globe', jpTag: true, terminated: true },
-        { key: 'android2', jpTag: true, terminated: true },
-        { key: 'apple', jpTag: true, terminated: true },
+        { key: 'globe', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20200513022613/https://games.yahoo.co.jp/ffdcg' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
