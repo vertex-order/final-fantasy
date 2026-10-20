@@ -34,3 +34,4 @@
 
 ## Decisions
 - No iOS, Android or PC platform rows (user, 2026-10-20): the claims of those versions (androidayuda, GameFAQs, RPGFan, Siliconera, Eurogamer) come from the time of or before the Yahoo! Game Plus closed beta, the official site, the Yahoo! page and the Twitter account show only the browser game, and the run was a single year, so we decide those versions were cancelled before they materialized, even though they were announced; only the browser row (Yahoo! Game Plus) is listed
+- No description line (user, 2026-10-20): the entry does not say it was a browser game on Yahoo! Game Plus played on PC and smartphones

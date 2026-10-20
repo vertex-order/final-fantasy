@@ -237,11 +237,15 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     primary: {
       tags: ['Voice-controlled RPG', 'Jobs', 'Single-player', 'Mobile'],
       terminated: true,
+      languages: [
+        { value: 'JA', native: true },
+        { value: 'EN' },
+      ],
       ratings: [
         { score: '46', url: 'https://www.metacritic.com/game/voice-fantasy/', key: 'metacritic' },
       ],
       platforms: [
-        { key: 'apple', jpTag: true, terminated: true },
+        { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20160203051749/https://itunes.apple.com/us/app/voice-fantasy/id398443202?mt=8' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
     },

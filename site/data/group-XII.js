@@ -443,7 +443,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
     primary: {
       tags: ['Spin-off', 'Mobile', 'Turn-based strategy', 'Tower defense'],
       terminated: true,
-      profileUrl: 'https://web.archive.org/web/20100429055149/http://www.cd-vanguardstorm.com/',
+      profileUrl: 'https://web.archive.org/web/20170724024627/http://www.cd-vanguardstorm.com/',
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

@@ -12,7 +12,9 @@
 
 ## itunes.apple.com and the official site (Platform; Information)
 
-- http://www.cd-vanguardstorm.com/ -- the official English site, the entry's `profileUrl` (user, 2026-10-20), capture of 2010-04-29 (picked at random; the Wayback index lists captures from 2009-05-16, and the site is down or parked now, so a later capture may work better): https://web.archive.org/web/20100429055149/http://www.cd-vanguardstorm.com/
+- http://www.cd-vanguardstorm.com/ -- the official site (its page is in Japanese, lang="ja"), the entry's `profileUrl` (user, 2026-10-20), capture of 2017-07-24, the last one showing the original page: https://web.archive.org/web/20170724024627/http://www.cd-vanguardstorm.com/
+  - Captures of 2009-05-16 through 2017-07-24 show the same page (title "CRYSTAL DEFENDERS Vanguard Storm"; iPhone visitors are sent to iphone/index.html); the stylesheet and banner images load in the capture
+  - Captures of 2018 to early 2020 redirect (to a Square Enix support news page), and those from 2021-10-23 show an unrelated WordPress site ("The Bridge")
 - http://itunes.apple.com/app/vanguard-storm/id313457759 -- the iOS row -- accessed 2026-10-20 (page text pasted by user)
   - Gone. The row links the last capture, 2016-06-10 (the same version 1.0.1 of 2009-07-03, 899 ratings over all versions, the same six languages): https://web.archive.org/web/20160610064226/http://itunes.apple.com/app/vanguard-storm/id313457759?mt=8
   - The capture of 2010-05-13 (https://web.archive.org/web/20100513063450/http://itunes.apple.com/app/vanguard-storm/id313457759?mt=8, page text pasted by user) was the first one used; the official site linked the old MZStore viewSoftware URL, which redirects to this page; other captures exist for 2010-07-19, 2010-08-27, 2012-05-19, 2012-11-13, 2013-06-30 and 2016-06-10

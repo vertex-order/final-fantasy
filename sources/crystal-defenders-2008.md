@@ -119,3 +119,4 @@
 
 ## Decisions
 - Search closed (user, 2026-10-20): the Amazon Appstore page was not found (searches, the 2013 holiday sale blog post whose captures are only a Square Enix sign-in redirect, and the Final Fantasy Union article gave no link), so the `amazon` row stays struck without a link; the iOS and iPod rows keep the Crystal Defenders Plus site because no App Store capture was found
+- No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
