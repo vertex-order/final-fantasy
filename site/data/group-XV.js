@@ -4,7 +4,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
 ], media: [
   {
     mediaType: 'TV', chronoOrder: -2000, narrativeOrder: 100,
-    title: 'Brotherhood: Final Fantasy XV', titleUrl: 'https://wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV', titleDate: '2016-03-30 10',
+    title: 'Brotherhood: Final Fantasy XV', titleUrl: 'https://wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV', titleDate: { start: '2016-03-30 10', end: '2016-09-17' },
     mediaDesc: [
       'Details the backstories of Noctis Lucis Caelum and his friends. Also included with some game releases in the XV series.',
     ],
@@ -12,6 +12,14 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       tags: ['Essential', 'Prologue', 'Anime', 'Free'],
       subtitle: 'Anime',
       length: '5 episodes',
+      contentsLabel: 'episodes',
+      contents: [
+        { title: 'Before the Storm' },
+        { title: 'Dogged Runner' },
+        { title: 'Sword and Shield' },
+        { title: 'Bittersweet Memories' },
+        { title: 'The Warmth of Light' },
+      ],
       languages: [
         { value: 'JA', tip: 'Japanese — audio', native: true, voice: true },
         { value: 'FR', textOnly: true },

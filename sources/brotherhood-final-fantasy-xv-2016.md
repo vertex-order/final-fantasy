@@ -12,7 +12,8 @@
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media -- story, platforms -- accessed 2026-09-22
-- https://wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV
+- https://wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV -- titleUrl; dates* -- accessed 2026-10-19 (release table pasted by user from the #Release section; the #Episodes anchor is for citing only)
+  - Episode 1 "Before the Storm" original release March 30, 2016; episode 5 "The Warmth of Light" September 17, 2016, matching Otapedia's airing period
 
 ## youtube.com (Information)
 
@@ -27,7 +28,7 @@
     - produced as one element of the Final Fantasy XV Universe and related to Fabula Nova Crystallis
     - the entry's start date (2016-03-30) and 5 episodes agree
     - the page's end date (2016-09-17) is not in the entry, which has a single date (asked the user, see .plan/todo.md)
-  - **Episodes (the page's list): 1 Before the Storm, 2 Dogged Runner, 3 Sword and Shield, 4 Bittersweet Memories, 5 The Warmth of Light**; the entry has no `contents` parts for them (asked the user)
+  - **Episodes (the page's list): 1 Before the Storm, 2 Dogged Runner, 3 Sword and Shield, 4 Bittersweet Memories, 5 The Warmth of Light**; the entry lists them as `contents` parts, label "episodes" (user, 2026-10-19)
   - Plot and Setting: it retells the game's opening (the peace treaty, Noctis's wedding to Lunafreya, Niflheim's betrayal and theft of the crystal) rather than the series' own content, which the entry correctly describes as the backstories of Noctis and his friends
     - the page's Production section says the aim was to elaborate the story and show how Noctis and his friends came together
     - its Reception section says reviews were generally positive
