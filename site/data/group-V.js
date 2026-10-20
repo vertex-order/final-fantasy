@@ -145,10 +145,17 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
     primary: {
       tags: ['Sequel', 'OVA'],
       subtitle: 'Video',
-      length: '120min',
+      length: '4 episodes; totalling 120min',
+      contentsLabel: 'episodes',
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
+      ],
+      contents: [
+        { title: 'Wind Chapter' },
+        { title: 'Fire Chapter' },
+        { title: 'Dragon Chapter' },
+        { title: 'Star Chapter' },
       ],
       ratings: [
         { score: '6.1', url: 'https://www.imdb.com/title/tt0196692/', key: 'imdb' },

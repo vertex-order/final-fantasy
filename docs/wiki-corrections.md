@@ -188,6 +188,7 @@ value, ours, and why, so the corrections can be reported upstream.
 - Final Fantasy XIII (https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_13): misspells names ("Lighting" for Lightning, "Sarah" for Serah).
 - Dissidia (https://otakumode.com/otapedia/games/final_fantasy/dissidia): the Characters list mixes in Shantotto and Gabranth, who are Dissidia 012 characters.
 - Crystal Chronicles (https://otakumode.com/otapedia/games/final_fantasy/crystal_chronicles): calls the game "Final Fantasy Chronicles" in its first sentence.
+- Legend of the Crystals (https://otakumode.com/otapedia/games/final_fantasy/legend_of_the_crystals): spells the heroine "Linaly"; Wikipedia's spelling "Linally" is likely correct (user, 2026-10-19).
 - Our sources: [final-fantasy-xv-2016.md](../sources/final-fantasy-xv-2016.md), [final-fantasy-xiii-2009.md](../sources/final-fantasy-xiii-2009.md), [dissidia-final-fantasy-2008.md](../sources/dissidia-final-fantasy-2008.md), [final-fantasy-crystal-chronicles-2003.md](../sources/final-fantasy-crystal-chronicles-2003.md)
 - Reason: slips on the page; our entries are unaffected.
 

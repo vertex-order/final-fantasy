@@ -27,13 +27,15 @@
     - the antagonist Ra Devil from the Black Moon, who becomes Deathgyunos, wants all the crystals
     - Prettz and Linaly, with the ghost Mid, the sky pirate Rouge and General Valkus of Tycoon, become the next Warriors of Light
     - agrees with the entry's description (200 years after V, Prettz and Linally against Deathgyunos)
-    - the entry spells the name Linally and the page Linaly
+    - the entry spells the name Linally (Wikipedia's spelling, likely correct) and the page Linaly; listed as a candidate in docs/wiki-corrections.md
     - the ending is not in the description
   - **Episodes (the page's list, in order, on two VHS tapes with episodes 1 and 2 on the first and 3 and 4 on the second): Wind Chapter, Fire Chapter, Dragon Chapter, Star Chapter**
-    - the entry has no `contents` parts for them (asked the user, see .plan/todo.md)
+    - the entry lists them as `contents` parts, label "episodes" (user, 2026-10-19)
   - Release and credits: released in 1994 in Japan and distributed on VHS in North America by Urban Vision in 1997, which has since lost the rights
     - directed by Rintaro with Naoto Kanda and Tomohiko Ohkuda, plot by Satoru Akahori, music by Masahiko Sato
     - consistent with the entry (1994-03-21, native; VHS and JP laserdisc rows, EN language)
     - its Reception section collects mixed reviews (GameSpot, EX, Animefringe), a critical-content note outside our scope
     - its Links section names only https://www.square-enix.com/
 ## Decisions
+
+- Episode parts (user, 2026-10-19): the four chapters are `contents` parts, for the planned per-part tracking
