@@ -64,6 +64,30 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     ],
   },
   {
+    mediaType: 'Comic', chronoOrder: 150, narrativeOrder: 150,
+    title: 'Seiken Densetsu: Final Fantasy Gaiden Guidebooks', titleUrl: 'https://ja.wikipedia.org/wiki/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC_%E3%80%9C%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E5%A4%96%E4%BC%9D%E3%80%9C', titleDate: { start: '1991-05-31', end: '1991-08-10' },
+    mediaDesc: [
+      [{ text: 'Official strategy guidebooks for ' }, { emLinkText: 'Final Fantasy Adventure (1991)', emLinkUrl: '#entry-Other-final-fantasy-adventure-1991' }, { text: ', with character illustrations and manga.' }],
+    ],
+    primary: {
+      tags: ['Tie-in', 'Manga'],
+      subtitle: 'Comic',
+      length: '2 books',
+      contentsLabel: 'books',
+      searchTitle: 'Seiken Densetsu Final Fantasy Gaiden',
+      languages: [
+        { value: 'JA', native: true },
+      ],
+      contents: [
+        { title: 'Basic Knowledge Edition', titleDate: '1991-05-31', titleUrl: 'https://www.goodreads.com/book/show/106121481', searchTitle: '9784871881234' },
+        { title: 'Complete Strategy Edition', titleDate: '1991-08-10', titleUrl: 'https://www.goodreads.com/book/show/77907055', searchTitle: '9784871881326' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Guides', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo' },
+      ],
+    },
+  },
+  {
     mediaType: 'Game', chronoOrder: 300, narrativeOrder: 200,
     title: 'Final Fantasy: The 4 Heroes of Light', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_The_4_Heroes_of_Light', titleDate: '2009-10-29',
     mediaDesc: [

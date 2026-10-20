@@ -6,7 +6,7 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Other_games -- dates*, platforms* -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_Adventure -- title link
   - Versions and merchandise: Sword of Mana (GBA 2003), Japan mobile remake (2006), Adventures of Mana (2016), Collection of Mana (JP 2017, WW 2019)
-  - Two 1991 Japanese guidebooks (kiso chishiki-hen, kanzen kōryaku-hen) with illustrations and manga: lead in .plan/todo.md
+  - Two 1991 Japanese guidebooks (kiso chishiki-hen, kanzen kōryaku-hen) with illustrations and manga: their own entry, see seiken-densetsu-final-fantasy-gaiden-guidebooks-1991.md
 
 otakumode.com (Information)
 - https://otakumode.com/otapedia/games/final_fantasy/switch_games -- Switch row* -- accessed 2026-10-17
