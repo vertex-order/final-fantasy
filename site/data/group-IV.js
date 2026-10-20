@@ -193,8 +193,8 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
               { value: 'ES-ES', textOnly: true },
             ],
             platforms: [
-              { key: 'apple', paren: 'Digital' },
-              { key: 'android2', paren: 'Digital' },
+              { key: 'apple', paren: 'Digital', url: 'https://apps.apple.com/app/final-fantasy-iv-3d-remake/id575119311' },
+              { key: 'android2', paren: 'Digital', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP' },
             ],
             versionDesc: [
               'This port reworks the dual-screen interface into a single screen, improves visuals and audio, and adds cloud saves and achievements, but removes the Whyt minigames.',

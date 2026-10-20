@@ -66,8 +66,8 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, narrativeOrder: 600, 
           ],
           platforms: [
             { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/', paren: 'PC' },
-            { key: 'android2', terminated: true },
-            { key: 'apple', terminated: true },
+            { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20210701173802/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVI' },
+            { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20210321160547/https://apps.apple.com/us/app/final-fantasy-vi/id719401490' },
           ],
           versionDesc: [
             'This remaster has high-resolution graphics, redesigned sprites, movement in eight directions, and auto-battle.',

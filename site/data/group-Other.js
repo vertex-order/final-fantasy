@@ -112,7 +112,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       length: [{ value: '207h', tip: 'Main Story', join: ' / ' }, { value: '307h', tip: 'Main + Extra', join: ' / ' }, { value: '1666h', tip: 'Completionist' }],
       platforms: [
         { key: 'steam', terminated: true },
-        { key: 'apple', terminated: true },
+        { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20200612163359/https://apps.apple.com/us/app/mobius-final-fantasy/id1091974564' },
         { key: 'android2', terminated: true },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', search: 'youtube' },
@@ -296,8 +296,8 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       ],
       length: [{ value: '4h', tip: 'Main Story', join: ' / ' }, { value: '4½h', tip: 'Main + Extra', join: ' / ' }, { value: '4½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'android2', terminated: true },
-        { key: 'apple', terminated: true },
+        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20221013014513/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffatb' },
+        { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20230722174326/https://apps.apple.com/us/app/final-fantasy-all-the-bravest/id581058256' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
@@ -378,7 +378,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
   },
   {
     mediaType: 'Game', chronoOrder: 250, narrativeOrder: 361,
-    title: 'Final Fantasy Portal App: Triple Triad', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Triple_Triad_(Portal_App)', titleDate: '2015-04-01',
+    title: 'Final Fantasy Portal App: Triple Triad', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Triple_Triad_(Portal_App)', titleDate: '2015-02-05',
     mediaDesc: [
       [{ text: 'An updated version of the recurring minigame Triple Triad first introduced in ' }, { emLinkText: 'VIII (1999)', emLinkUrl: '#entry-VIII-final-fantasy-viii-1999' }, { text: ', with rules from the ' }, { emText: 'XIV (2010)' }, { text: ' version, with cards from many Final Fantasy games. Its bare story loosely tied it to the ' }, { emText: 'Dissidia' }, { text: ' series (2008).' }],
       [{ text: 'Incorporates existing series and titles.' }],
@@ -441,6 +441,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { key: 'nintendo-game-boy', paren: 'Physical' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1642620/COLLECTION_of_SaGa_FINAL_FANTASY_LEGEND/' },
         { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.SagaCollection_Sww' },
+        { key: 'apple', url: 'https://apps.apple.com/app/collection-of-saga-ff-legend/id1565119677' },
         { key: 'nintendo-switch', paren: 'Digital', url: 'https://www.nintendo.com/store/products/collection-of-saga-final-fantasy-legend-switch/' },
         {
           key: 'nintendo-switch-2',

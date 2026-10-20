@@ -70,4 +70,19 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
   - the Final Fantasy II text (the same as its game page): released in 1988 on the NES in Japan only, later ports on the Game Boy Advance, PlayStation, PlayStation Portable and other systems
   - the entry has a `playstation-portable` row
 
+## play.google.com (Platform; old Android port)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.finalfantasy2 -- the struck "Edit 2012" Android row -- accessed 2026-10-20
+  - The store page is gone (404); the row links the last capture, 2020-11-27: https://web.archive.org/web/20201127015350/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.finalfantasy2
+  - Earlier capture of 2020-11-27 (page text pasted by user): version 6.2, updated March 27, 2020, 3,166 ratings (3.5 stars), 50,000+ installs, "Arcade"; includes the Soul of Rebirth and Arcane Labyrinth bonus dungeons, without the memory minigame
+  - Its description says the app is not compatible with "FINAL FANTASY II (Portal Version)", the in-app game of the Portal App
+  - Listed on the developer's 2020-12-23 app list (see final-fantasy-franchise.md)
+
+## apps.apple.com (Platform; old iOS app)
+
+- https://apps.apple.com/us/app/final-fantasy-ii/id354974729 -- the "Edit 2007" iOS row -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
+  - FINAL FANTASY II (20th Anniversary engine), released 2010-02-25; gone (404); the capture shows version 1.1.2: https://web.archive.org/web/20210629040229/https://apps.apple.com/us/app/final-fantasy-ii/id354974729
+
 ## Decisions
+
+- Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

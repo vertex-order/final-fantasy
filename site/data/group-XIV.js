@@ -494,7 +494,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
     mediaType: 'App', chronoOrder: 9999, narrativeOrder: 9999,
     title: 'FINAL FANTASY XIV Companion', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV_Companion', titleDate: '2018-07',
     mediaDesc: [
-      [{ text: 'It allows the registered users of ' }, { emText: 'XIV' }, { text: ' to Chat with friends and Free Company members, Organize events with the scheduler, Organize inventory and armoury chest, peruse the Market Board, Put items up for sale and purchase items, Register an additional favored destination Aetheryte.' }],
+      [{ text: 'It allows the registered users of ' }, { emText: 'XIV' }, { text: ' to Chat with friends and Free Company members, Organize events with the scheduler, Organize inventory and armoury chest, peruse the Market Board, Put items up for sale and purchase items, Register an additional favored destination Aetheryte. Replaced the earlier Libra Eorzea app.' }],
       [{ text: 'With premium plan; Organize Chocobo Saddlebags and Retainer Inventories, Saddlebag capacity is doubled, one additional Retainer can be employed.' }],
     ],
     primary: {

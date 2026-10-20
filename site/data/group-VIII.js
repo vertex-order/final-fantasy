@@ -64,6 +64,8 @@ window.__ffGroupReg['VIII'] = { num: 'VIII', chronoOrder: 800, narrativeOrder: 8
           platforms: [
             { key: 'windows' },
             { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/39150/FINAL_FANTASY_VIII/' },
+            { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/' },
+            { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/' },
           ],
           versionDesc: [
             [{ text: 'This remaster has upscaled graphics, High Speed Mode, companion mini-game ' }, { emLinkText: 'Chocobo World', emLinkUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VIII#Other_media' }, { text: ', many accesibility and cheat booster commands; including Battle Assistance, Magic Booster, Max Damage, AP Max, Gil Max.' }],

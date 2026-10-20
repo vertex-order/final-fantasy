@@ -19,6 +19,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_version_differ
 - https://www.metacritic.com/game/final-fantasy-xv-royal-edition/
 - https://www.metacritic.com/game/final-fantasy-xv-pocket-edition/
 
+## play.google.com (Platform; Pocket Edition)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_google.ffxvpe -- the Pocket Edition Android row (alt 1), struck -- accessed 2026-10-20
+  - The store page is gone (404) and the app is not on the developer's current app list; the row links the last capture, 2024-08-21, which still shows the app (Japanese page, version updated 2020-04-29): https://web.archive.org/web/20240821072717/https://play.google.com/store/apps/details?id=com.square_enix.android_google.ffxvpe
+  - Capture of 2021-08-20 (page text pasted by user, Portuguese): 22,245 ratings (3.9 stars), 1,000,000+ installs, version 1.0.7.705, chapter 1 free and chapters 2 to 10 purchasable, the story as 10 chapters; the package id has `android_google`, not `android_googleplay`
+  - Listed on the developer's 2021-08-05 app list (see final-fantasy-franchise.md); the Apple row is not checked
+
 ## Nintendo (Platform)
 
 - https://www.nintendo.com/store/products/final-fantasy-xv-pocket-edition-hd-switch/
@@ -135,6 +142,11 @@ square-enix-games.com (Publisher, official)
   - **this conflicts with the official store pages**, where the Xbox Royal Edition page lists "First-Person View mode" among its new features and the Steam Windows Edition page lists "First Person Mode" too, so first-person mode is in both
   - the Windows Edition's differences in our sources are the 120 fps support, the 4K Resolution Pack, the MOD Organizer and official mod support
   - the video itself should be watched at those timestamps to confirm
+
+## apps.apple.com (Platform; old iOS app)
+
+- https://apps.apple.com/us/app/finalfantasy-xv-pocket-edition/id1152350815 -- the Pocket Edition iOS row (now struck) -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
+  - gone (404) and not in any storefront the iTunes lookup covers; the capture shows version 1.0.8: https://web.archive.org/web/20240828125756/https://apps.apple.com/us/app/finalfantasy-xv-pocket-edition/id1152350815
 
 ## Decisions
 - **REVERSED, to be built as an entry (user, 2026-10-18; confirmed with a second source the same day):** the user first thought Comrades added co-op to the whole game with no story of its own

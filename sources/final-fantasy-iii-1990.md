@@ -77,4 +77,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Gameplay and Characters: the job-change system, the job lists, the four heroes (Luneth, Arc, Refia, Ingus) and guest characters; the first game with Moogles; no change to the entry
   - Release: Japan 1990 on the Famicom, later ports (Nintendo DS, Wii U, iOS, Android and others); consistent with the entry (1990-04-27, which the timeline page also gives); no new fact
 
+## apps.apple.com and play.google.com (Platform; 3D Remaster 2011)
+
+- https://apps.apple.com/app/final-fantasy-iii-3d-remake/id424591347 -- the iPhone row of the "3D Remaster 2011" version -- accessed 2026-10-20
+  - Live: the iTunes lookup API for the Square Enix developer (id 300186801) lists FINAL FANTASY III (3D REMAKE), released 2011-03-24, current version 2021-06-07, and FINAL FANTASY III for iPad(3D) (id 430823968, released 2011-04-21), https://apps.apple.com/app/final-fantasy-iii-for-ipad-3d/id430823968, the `iPadOS` row
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP -- the Android row -- accessed 2026-10-20; live; user's pasted 2021-01-17 capture: version 2.0.0, updated 2020-02-27, 24,454 ratings (4.3 stars), 500,000+ installs
+
 ## Decisions

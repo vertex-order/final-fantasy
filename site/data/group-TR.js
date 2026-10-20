@@ -21,7 +21,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, narrativeOrder: 1510
       length: [{ value: '6h', tip: 'Main Story', join: ' / ' }, { value: '22½h', tip: 'Main + Extra', join: ' / ' }, { value: '55½h', tip: 'Completionist' }],
       platforms: [
         { key: 'fan-playthrough', search: 'youtube' },
-        { key: 'apple', terminated: true },
+        { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20160909141422/https://itunes.apple.com/us/app/theatrhythm-final-fantasy/id572828338' },
         { key: 'nintendo-3ds', paren: 'No Digital' },
       ],
     },

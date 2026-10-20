@@ -66,4 +66,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
   - Its Development section links a Siliconera article, "Director Kitase - FF6 Took 1 Year to Complete" (https://www.siliconera.com/final-fantasy-vi-took-just-one-year-to-make-says-director-yoshinori-kitase/): developer interview content, outside our scope
     - not read by me
 
+## play.google.com (Platform; old Android port)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVI -- the struck "Remaster 2014" Android row -- accessed 2026-10-20
+  - The store page is gone (404); the row links the last capture, 2021-07-01: https://web.archive.org/web/20210701173802/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVI
+  - Earlier capture of 2021-01-05 (page text pasted by user): version 2.1.7, updated January 6, 2020, 25,874 ratings (3.4 stars), 100,000+ installs; includes the new magicites and events of the 2006 remake
+  - The last capture is titled "FINAL FANTASY VI (Old Ver.)"
+  - Listed on the developer's 2020-12-23 app list (see final-fantasy-franchise.md)
+
+## apps.apple.com (Platform; old iOS app)
+
+- https://apps.apple.com/us/app/final-fantasy-vi/id719401490 -- the "Remaster 2014" iOS row -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
+  - FINAL FANTASY VI (Advance engine); gone (404); the capture shows version 2.0.6: https://web.archive.org/web/20210321160547/https://apps.apple.com/us/app/final-fantasy-vi/id719401490
+
 ## Decisions

@@ -84,4 +84,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
     - interesting but not pertinent to the entry (user, 2026-10-17)
     - not read by me
 
+## apps.apple.com and play.google.com (Platform; 3D Remaster 2012)
+
+- https://apps.apple.com/app/final-fantasy-iv-3d-remake/id575119311 -- the iOS row of the "3D Remaster 2012" version -- accessed 2026-10-20
+  - Live: the iTunes lookup API for the Square Enix developer (id 300186801) lists FINAL FANTASY IV (3D REMAKE), released 2012-12-20, current version 2025-02-12; the user's click on the iPad row of the developer page opened the Apple Arcade app instead (FINAL FANTASY IV (3D REMAKE)+, id 6504607951, released 2024-12-09, already the `apple-arcade` row)
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP -- the Android row -- accessed 2026-10-20; live; user's pasted 2021-01-05 capture: version 2.0.0, updated 2020-11-03, 22,984 ratings (4.0 stars)
+
 ## Decisions

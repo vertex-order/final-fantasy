@@ -62,10 +62,12 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
           helpWanted: true,
           length: [{ value: '5h', tip: 'Soul of Rebirth Main Story', join: ' / ' }, { value: '6h', tip: 'Soul of Rebirth Main + Extra', join: ' / ' }, { value: '7½h', tip: 'Soul of Rebirth Completionist' }],
           platforms: [
-            { key: 'android2', terminated: true, paren: 'Digital' },
+            { key: 'android2', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20201127015350/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.finalfantasy2' },
+            { key: 'android2', suffix: 'portal', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20231211133701/https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay' },
+            { key: 'apple', suffix: 'portal', terminated: true, paren: 'Digital' },
           ],
           versionDesc: [
-            [{ text: 'This mobile edit reworks the UI for touch controls, reduces music quality, and removes the Art Gallery and Item Collection. Includes the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign.' }],
+            [{ text: 'This mobile edit reworks the UI for touch controls, reduces music quality, and removes the Art Gallery and Item Collection. Includes the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign. Also playable inside the Final Fantasy Portal App.' }],
           ],
         },
         {
@@ -77,7 +79,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
             { value: '…?' },
           ],
           platforms: [
-            { key: 'apple', terminated: true, paren: 'Digital' },
+            { key: 'apple', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20210629040229/https://apps.apple.com/us/app/final-fantasy-ii/id354974729' },
             { key: 'playstation-portable', paren: 'Physical' },
           ],
           versionDesc: [

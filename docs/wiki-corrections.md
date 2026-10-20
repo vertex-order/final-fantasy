@@ -150,6 +150,14 @@ value, ours, and why, so the corrections can be reported upstream.
 - Our source: [final-fantasy-xv-comrades-2017.md](../sources/final-fantasy-xv-comrades-2017.md)
 - Reason: the official notice (Wayback capture of finalfantasy.jp) is narrower than the wiki; Microsoft Store copies are not named in the notice either way.
 
+### Wikipedia: List of Final Fantasy video games (Portal App games)
+
+- Page: https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Final_Fantasy_Portal_App
+- Says: the app contains the Triple Triad card game from Final Fantasy VIII.
+- Probably: also Final Fantasy and Final Fantasy II as playable "Portal Version" games (ja.wikipedia's list says FFI, FFII and Triple Triad can be played; the Play Store description from 2015 (FFI) and 2020 (FFII) agrees).
+- Our source: [final-fantasy-portal-app-triple-triad-2015.md](../sources/final-fantasy-portal-app-triple-triad-2015.md)
+- Reason: the English wiki, the Final Fantasy Wiki's Portal App page and its version-difference pages are silent on the Portal Versions; only the store text and ja.wikipedia name them.
+
 ### ja.wikipedia: Final Fantasy (Crystal Inheritance Legend publication date)
 
 - Page: https://ja.wikipedia.org/wiki/ファイナルファンタジー

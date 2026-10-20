@@ -178,4 +178,19 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
     - consistent with the entry
     - the day is not given here (its timeline page says 1987-12-17, see docs/wiki-corrections.md)
 
+## play.google.com (Platform; old Android port)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.finalfantasy -- the struck "Remaster 2012" Android row -- accessed 2026-10-20
+  - The store page is gone (404); the row links the last capture, 2021-06-03: https://web.archive.org/web/20210603211025/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.finalfantasy
+  - Earlier capture of 2020-11-26 (page text pasted by user): version 5.5, updated March 27, 2020, 8,535 ratings (3.6 stars), 100,000+ installs, "Casual"; says it may not perform as intended on the latest Android
+  - Its description says the app is not compatible with "FINAL FANTASY (Portal Version)", the in-app game of the Portal App
+  - Listed on the developer's 2020-12-23 app list (see final-fantasy-franchise.md)
+
+## apps.apple.com (Platform; old iOS app)
+
+- https://apps.apple.com/us/app/final-fantasy/id354972939 -- the "Remaster 2007" iOS row (now struck) -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
+  - FINAL FANTASY (20th Anniversary engine), released 2010-02-25 per the Final Fantasy Wiki; the app page is gone (404); the capture shows version 1.1.4: https://web.archive.org/web/20210123061113/https://apps.apple.com/us/app/final-fantasy/id354972939
+
 ## Decisions
+
+- Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

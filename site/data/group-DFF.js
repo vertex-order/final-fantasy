@@ -139,8 +139,8 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
       ],
       length: [{ value: '14h', tip: 'Main Story', join: ' / ' }, { value: '150h', tip: 'Main + Extra' }],
       platforms: [
-        { key: 'android2', terminated: true },
-        { key: 'apple', terminated: true },
+        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20240106202351/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DFFOperaOmnian' },
+        { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20231221001501/https://apps.apple.com/us/app/dissidia-final-fantasy-oo/id1282951846' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube' },

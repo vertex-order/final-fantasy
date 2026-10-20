@@ -50,3 +50,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Dad of Light drama and film are now entries; the blog and a Kodansha book edition (page gone) are leads
 
 ## Decisions
+
+- **Not to be listed: Final Fantasy XIV: Libra Eorzea (user, 2026-10-20):** a free smartphone app by Square Enix (ファイナルファンタジーXIV: ライブラ エオルゼア), iOS 2013-09-10 and Android 2013-11-01 in all regions, giving offline access to the official XIV database and a character profile viewer for gear and attributes; discontinued 2019-04-23 and supplanted by the Final Fantasy XIV Companion
+  - A different app, not a version of the Companion: its own store listing (iOS id 682415504, the Companion is id 1293636320) and a different function (an offline reference database and profile viewer, not the Companion's chat, market board and subscription service)
+  - It does not meet the content bar: the database is encyclopedia-like content and the profile viewer is too minor a tool for XIV players; and as a discontinued app there is nothing left to load, and no experience to gain from an old build or old videos of it
+  - The Companion stays (it barely meets the bar, but it is an important tool and the subscription service for XIV players)
+  - Evidence: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Libra_Eorzea (the Final Fantasy Wiki page, pasted by user 2026-10-20) and the official end-of-service notice, http://na.finalfantasyxiv.com/pr/special/libraeorzea/ (still live; "As of April 23, 2019, service for FINAL FANTASY XIV: Libra Eorzea will be discontinued", pointing to the Companion and the Lodestone database)
+  - See sources/final-fantasy-franchise.md for the same decision and how the app was found

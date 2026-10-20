@@ -68,4 +68,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
   - Release: Japan 1992 on the Super Famicom, later ports (iOS, PlayStation, Game Boy Advance and others); consistent with the entry (1992-12-06)
   - It calls Final Fantasy: Legend of the Crystals a sequel set 200 years after the game, which agrees with that entry's description
 
+## play.google.com (Platform; old Android port)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFV_GP -- the struck "Remaster 2013" Android row -- accessed 2026-10-20
+  - The store page is gone (404); the row links the last capture, 2021-06-03: https://web.archive.org/web/20210603211101/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFV_GP
+  - Earlier capture of 2021-01-05 (page text pasted by user): version 1.2.5, updated March 23, 2020, 16,769 ratings (4.3 stars), 100,000+ installs; cloud save warning
+  - The last capture is the one the row links
+  - Listed on the developer's 2020-12-23 app list (see final-fantasy-franchise.md)
+
+## apps.apple.com (Platform; old iOS app)
+
+- https://apps.apple.com/us/app/final-fantasy-v/id609577016 -- the "Remaster 2013" iOS row -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
+  - FINAL FANTASY V (Advance engine); gone (404); the capture shows version 1.1.4: https://web.archive.org/web/20201223151124/https://apps.apple.com/us/app/final-fantasy-v/id609577016
+
 ## Decisions

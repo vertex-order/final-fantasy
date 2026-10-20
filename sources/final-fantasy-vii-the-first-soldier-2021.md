@@ -9,6 +9,7 @@
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7fsww&hl=en
   - Wayback capture 2022-11-14 (the last 200 capture, showing the app page; original URL above): https://web.archive.org/web/20221114015437/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7fsww&hl=en -- accessed 2026-10-19
+  - Earlier capture of 2021-11-15 (page text pasted by user): version 1.0.1, updated Nov 11, 2021, 2,558 ratings (4.4 stars), 10,000+ installs; a battle royale shooter by Ateam Entertainment, with the Tetsuya Nomura, Kitase, Ichikawa and Nojima credits; not used as the row's link (the 2022-11-14 capture is later)
 
 ## Apple App Store (Platform)
 
