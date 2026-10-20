@@ -433,11 +433,12 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         { key: 'fan-playthrough', search: 'youtube' },
       ],
       versionDesc: [
-        [{ text: 'Episodes W1 to W3, initially released as ' }, { emText: 'Crystal Guardians' }, { text: ' (クリスタル ガーディアンズ, Kurisutaru Gādianzu). Some platforms may have only partial content.' }],
+        [{ text: 'Originally released episodically (W1 to W3) as ' }, { emText: 'Crystal Guardians' }, { text: ' (クリスタル ガーディアンズ, Kurisutaru Gādianzu). Some platforms may have only partial content.' }],
       ],
       versions: [
         {
           subtitle: 'Remake', subtitleUrl: 'https://breezewiki.com/finalfantasy/wiki/Crystal_Defenders#Versions', subtitleDate: 2013,
+          terminated: true,
           languages: [
             { value: 'JA', native: true },
             { value: 'EN' },
@@ -455,12 +456,21 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
           ],
         },
         {
-          subtitle: 'Edit', subtitleUrl: 'https://breezewiki.com/finalfantasy/wiki/Crystal_Defenders#Versions', subtitleDate: 2009,
+          subtitle: 'Edit', subtitleUrl: 'https://breezewiki.com/finalfantasy/wiki/Crystal_Defenders#Versions', subtitleDate: { start: '2009-01-27', end: '2009-02-24' },
+          terminated: true,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: 'DE' },
+            { value: 'FR' },
+            { value: 'ES' },
+            { value: 'IT' },
+          ],
           platforms: [
-            { key: 'nintendo-wii', terminated: true, paren: 'WiiWare', url: 'https://web.archive.org/web/20130318031911/http://na.square-enix.com/crystaldefenders/' },
+            { key: 'nintendo-wii', terminated: true, paren: 'WiiWare', url: 'https://www.nintendo.com/en-gb/Games/WiiWare/CRYSTAL-DEFENDERS-R1-284919.html' },
           ],
           versionDesc: [
-            [{ text: 'Released in two installments, R1 and R2, with a bonus stage for a perfect run and a much lower difficulty than ' }, { emLinkText: 'Crystal Defenders (2008)', emLinkUrl: '#entry-XII-crystal-defenders-2008' }, { text: '.' }],
+            [{ text: 'A new series on separate maps, in two installments: R1, a tutorial for beginners, and R2. A Moogle youth gathers companions to protect the crystals. Has a bonus stage for a perfect run and a much lower difficulty than ' }, { emLinkText: 'Crystal Defenders (2008)', emLinkUrl: '#entry-XII-crystal-defenders-2008' }, { text: '.' }],
           ],
         },
       ],
