@@ -42,6 +42,10 @@ Marketplaces (Information)
 
 - Relation to the novel Nightmare's Labyrinth (1989): the novel has a part 夢魔への前奏曲 (NDL full text of https://dl.ndl.go.jp/pid/13445035; the fan translation's Part One "Prelude to a Nightmare"); no source says the booklet is that part or that it is not; details in final-fantasy-ii-nightmares-labyrinth-1989.md
 - NDL: no record for the booklet
+- http://ff2.s18.xrea.com/other/goods.htm -- FF2 related goods list (とってもかんたんFF2, last update 2021-08-01) -- accessed 2026-10-19 (page text pasted by user)
+  - Lists guides, the three gamebooks, scores, the novel and Memory of Heroes, CDs; does not list the booklet
+  - Closing note: magazine supplements of the era included a Famimaga flexi-disc of 7 songs, and for Maru-Katsu New Year cards and manga by Takeshi Okazaki (岡崎武士); no title given
+- Google searches for the ASIN B0DV16YGGL alone, with the title, and the amazon.com dp page (user, 2026-10-19): nothing found
 - Google searches for the title with あらすじ, 感想, 同じ and 角川勝文庫 (seen by user): no plot summary, review or description; あらすじ returned nothing related to Final Fantasy
 - Scans: none known; Internet Archive search by title and Maru-Katsu (run by me): nothing relevant
 - Fan translation and fan recap: none known (the novel's fan translation is a different book)
