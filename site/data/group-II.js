@@ -174,7 +174,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     title: "Final Fantasy II Nightmare's Labyrinth", titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Muma_no_Meiky%C5%AB', titleDate: '1989-03-20',
     by: [{ role: 'adapted', names: 'Kenji Terada' }],
     mediaDesc: [
-      [{ text: 'Novelization of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: '. Includes additional scenarios and story changes, which could be considered an alternate universe retelling. Released as ' }, { emText: 'Final Fantasy II Muma no Meikyū' }, { text: '.' }],
+      [{ text: 'Novelization of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: '. Includes additional scenarios and story changes, which could be considered an alternate universe retelling. Released as ' }, { emText: 'Final Fantasy II Muma no Meikyū', lang: 'ja-Latn' }, { text: '.' }],
     ],
     primary: {
       tags: ['Alternate Universe', 'Light Novel'],
@@ -201,7 +201,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     title: 'Final Fantasy II: Prelude to a Nightmare', titleUrl: 'https://www.goodreads.com/book/show/45554076', titleDate: '1988-12-09',
     by: 'Kenji Terada',
     mediaDesc: [
-      [{ text: 'A booklet of original fiction set in ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ', given away with the magazine ' }, { text: 'マル勝ファミコン', lang: 'ja' }, { text: '. ' }, { emLinkText: "Nightmare's Labyrinth (1989)", emLinkUrl: '#entry-II-final-fantasy-ii-nightmares-labyrinth-1989' }, { text: ' has a part with the same title; whether the two share text is unconfirmed. Released as ' }, { emText: 'ファイナルファンタジー', lang: 'ja' }, { emText: 'II ' }, { emText: '夢魔への前奏曲', lang: 'ja' }, { text: ' (Final Fantasy II Muma e no Zensōkyoku).' }],
+      [{ text: 'A booklet of original fiction set in ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ', given away with the magazine ' }, { text: 'マル勝ファミコン', lang: 'ja' }, { text: '. ' }, { emLinkText: "Nightmare's Labyrinth (1989)", emLinkUrl: '#entry-II-final-fantasy-ii-nightmares-labyrinth-1989' }, { text: ' has a part with the same title; whether the two share text is unconfirmed. Released as ' }, { emText: 'Final Fantasy II Muma e no Zensōkyoku', lang: 'ja-Latn' }, { text: ' (' }, { emText: 'ファイナルファンタジー', lang: 'ja' }, { emText: 'II ' }, { emText: '夢魔への前奏曲', lang: 'ja' }, { text: ').' }],
     ],
     primary: {
       tags: ['Light Novel'],
@@ -222,7 +222,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     title: 'Final Fantasy II: Battle to the Death with General Borghen!', titleUrl: 'https://www.goodreads.com/book/show/77945774', titleDate: '1989-01',
     by: 'Ryūji Kōsaka',
     mediaDesc: [
-      ['A gamebook set in the world of Final Fantasy II. Released as ', { text: 'ファイナルファンタジー2 将軍ボーゲンとの死闘', lang: 'ja' }, ' (Final Fantasy II Shōgun Bōgen to no Shitō).'],
+      ['A gamebook set in the world of Final Fantasy II. Released as ', { emText: 'Final Fantasy II Shōgun Bōgen to no Shitō', lang: 'ja-Latn' }, ' (', { text: 'ファイナルファンタジー2 将軍ボーゲンとの死闘', lang: 'ja' }, ').'],
     ],
     primary: {
       tags: ['Gamebook'],
@@ -245,7 +245,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     by: 'Naomi Inoue',
     mediaDesc: [
       'A gamebook set in the world of Final Fantasy II. Centers on Princess Marie of Fynn, an original character combining traits of Maria and Hilda, alongside Firion, Guy, and Minwu.',
-      ['Released as ', { text: 'ファイナルファンタジー', lang: 'ja' }, 'II ', { text: '秘宝のドラゴン', lang: 'ja' }, ' (Final Fantasy II Hihō no Dragon), also known as Dragon of Hidden Treasure and The Hidden Dragon, and printed in the book as Treasure of Dragon.'],
+      ['Released as ', { emText: 'Final Fantasy II Hihō no Dragon', lang: 'ja-Latn' }, ' (', { text: 'ファイナルファンタジー', lang: 'ja' }, 'II ', { text: '秘宝のドラゴン', lang: 'ja' }, '), also known as Dragon of Hidden Treasure and The Hidden Dragon, and printed in the book as Treasure of Dragon.'],
     ],
     primary: {
       tags: ['Gamebook'],
@@ -266,7 +266,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     mediaType: 'Book', chronoOrder: 630, narrativeOrder: 415,
     title: 'Final Fantasy II: Journey to Victory', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi', titleDate: '1988-12-31',
     mediaDesc: [
-      [{ text: 'A gamebook telling a side story set just before the main events of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ' and starring Mid, an original character who joins the rebel army. Released as ' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'II ' }, { text: '勝利への旅立ち', lang: 'ja' }, { text: ' (Final Fantasy II Shōri e no Tabidachi).' }],
+      [{ text: 'A gamebook telling a side story set just before the main events of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ' and starring Mid, an original character who joins the rebel army. Released as ' }, { emText: 'Final Fantasy II Shōri e no Tabidachi', lang: 'ja-Latn' }, { text: ' (' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'II ' }, { text: '勝利への旅立ち', lang: 'ja' }, { text: ').' }],
     ],
     primary: {
       tags: ['Gamebook'],

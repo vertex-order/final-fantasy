@@ -438,7 +438,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     mediaDesc: [
       [{ text: 'Players deployed various characters and creatures from the Final Fantasy series in a board to compete with one another.' }],
       [{ text: 'Incorporates existing series and titles.' }],
-      ['Also known as ', { text: 'ファイナルファンタジー デジタルカードゲーム', lang: 'ja' }, ' (Final Fantasy Dejitaru Kādo Gēmu).'],
+      ['Also known as ', { emText: 'Final Fantasy Dejitaru Kādo Gēmu', lang: 'ja-Latn' }, ' (', { text: 'ファイナルファンタジー デジタルカードゲーム', lang: 'ja' }, ').'],
     ],
     primary: {
       tags: ['Mashup', 'Card game', 'Free-to-play', 'In-app purchases', 'Multiplayer'],

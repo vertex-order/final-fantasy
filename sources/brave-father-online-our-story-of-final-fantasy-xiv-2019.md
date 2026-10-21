@@ -15,7 +15,7 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/Final_Fantasy_XIV:_Dad_of_Light -- date* -- accessed 2026-10-17
 
 breezewiki.com (Information; Final Fantasy Wiki)
-- https://breezewiki.com/finalfantasy/wiki/Brave_Father_Online -- dates -- accessed 2026-10-18
+- https://breezewiki.com/finalfantasy/wiki/Brave_Father_Online -- dates, Japanese-name romanization* (Gekijōban Fainaru Fantajī Fōtīn Hikari no Otōsan; text given by user 2026-10-21) -- accessed 2026-10-18
 
 gaga.ne.jp (Publisher, official; Japanese)
 - https://gaga.ne.jp/hikarinootosan/ -- profileUrl -- accessed 2026-10-17

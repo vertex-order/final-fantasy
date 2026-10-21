@@ -48,7 +48,7 @@ duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20Crystal%20Chronicles%204-Koma%20Manga%20Theater%20translation — fan-translation search (the entry title is now `4-Koma Manga Theater`, so the searches use it with no `searchTitle` override; the colon in the title is left in)
 
 wikipedia.org (Information)
-- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — title link* (an English wiki; the Manga table has the row "Final Fantasy Crystal Chronicles 4-koma Manga Gekijō", January 16, 2004, ISBN 978-4-7575-1122-4, no author or artist named; the section says it "was only released in a standalone volume", so it was **not serialized**; confirms the publisher's date) — accessed 2026-10-11
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — title link*, Japanese-name romanization* (an English wiki; the Manga table has the row "Final Fantasy Crystal Chronicles 4-koma Manga Gekijō", January 16, 2004, ISBN 978-4-7575-1122-4, no author or artist named; the section says it "was only released in a standalone volume", so it was **not serialized**; confirms the publisher's date) — accessed 2026-10-11
   - (table pasted by user)
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Manga — former title link
   - this book is **not** on the list (the `#Manga` row there is Beyond the Endless Sky), so it isn't a source for this entry — checked 2026-10-11 (row text pasted by user)

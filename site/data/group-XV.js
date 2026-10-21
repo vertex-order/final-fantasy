@@ -684,7 +684,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
     mediaType: 'Comic', chronoOrder: 3600, narrativeOrder: 960,
     title: 'Final Fantasy XV Official Comic Anthology', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology', titleDate: { start: '2017-07-27', end: '2017-12-26' },
     mediaDesc: [
-      [{ text: 'Two anthologies of short manga centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum. Released in Japan as ' }, { emText: 'Fainaru Fantajī Fifutīn Kōshiki Comikku Ansorojī' }, { text: ' (' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'XV ' }, { text: '公式コミックアンソロジー', lang: 'ja' }, { text: ').' }],
+      [{ text: 'Two anthologies of short manga centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum. Released in Japan as ' }, { emText: 'Fainaru Fantajī Fifutīn Kōshiki Comikku Ansorojī', lang: 'ja-Latn' }, { text: ' (' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'XV ' }, { text: '公式コミックアンソロジー', lang: 'ja' }, { text: ').' }],
     ],
     primary: {
       tags: ['Manga'],
@@ -708,12 +708,12 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
   },
   {
     mediaType: 'Game', chronoOrder: 3800, narrativeOrder: 970,
-    title: 'Justice Monsters Five', titleUrl: 'https://wikipedia.org/wiki/Justice_Monsters_Five', titleDate: '2016-08-30',
+    title: 'Justice Monsters Five', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Justice_Monsters_Five', titleDate: '2016-08-30',
     mediaDesc: [
-      [{ text: 'Mobile pinball game based on a minigame from ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '.' }],
+      [{ text: 'Mobile pinball game based on a minigame from ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: '. Also released as ' }, { emText: 'Jasutisu Monsutāzu Faibu', lang: 'ja-Latn' }, { text: ' (' }, { text: 'ジャスティスモンスターズファイブ', lang: 'ja' }, { text: ').' }],
     ],
     primary: {
-      tags: ['Minigame', 'Mobile', 'Pinball', 'Single-player'],
+      tags: ['Minigame', 'Mobile', 'Premium currency', 'Pinball', 'Single-player'],
       terminated: true,
       languages: [
         { value: 'JA', native: true },
@@ -722,8 +722,8 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       ],
       helpWanted: true,
       platforms: [
-        { key: 'android2', terminated: true },
-        { key: 'apple', terminated: true },
+        { key: 'android2', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20170121161028/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.jusmonvw' },
+        { key: 'apple', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20180125044910/https://itunes.apple.com/us/app/justice-monsters-five/id1075780355?mt=8' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
     },

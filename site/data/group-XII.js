@@ -433,7 +433,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         { key: 'fan-playthrough', search: 'youtube' },
       ],
       versionDesc: [
-        [{ text: 'Originally released episodically (W1 to W3) as ' }, { emText: 'Crystal Guardians' }, { text: ' (' }, { text: 'クリスタル ガーディアンズ', lang: 'ja' }, { text: ', Kurisutaru Gādianzu). Some platforms may have only partial content.' }],
+        [{ text: 'Originally released episodically (W1 to W3) as ' }, { emText: 'Crystal Guardians' }, { text: ' (' }, { emText: 'Kurisutaru Gādianzu', lang: 'ja-Latn' }, { text: ', ' }, { text: 'クリスタル ガーディアンズ', lang: 'ja' }, { text: '). Some platforms may have only partial content.' }],
       ],
       versions: [
         {
@@ -452,7 +452,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
             { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20150409073058/https://itunes.apple.com/us/app/crystal-defenders-plus/id573525925?mt=8' },
           ],
           versionDesc: [
-            [{ text: 'Higher graphics, smoother play and downloadable maps. Also known as ' }, { text: 'クリスタル・ディフェンダーズ', lang: 'ja' }, { text: ' Plus (Kurisutaru Difendāzu Plus).' }],
+            [{ text: 'Higher graphics, smoother play and downloadable maps. Also known as ' }, { emText: 'Kurisutaru Difendāzu Plus', lang: 'ja-Latn' }, { text: ' (' }, { text: 'クリスタル・ディフェンダーズ', lang: 'ja' }, { text: ' Plus).' }],
           ],
         },
         {

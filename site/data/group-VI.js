@@ -139,7 +139,7 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, narrativeOrder: 600, 
       [
         { text: "A doujinshi exploring the backstory of Sabin and Edgar within Figaro Castle, told as a non-linear collection of short stories covering Edgar's flirtations, Sabin's training, and the kingdom's history. Tanaka wrote much of Sabin and Edgar's original characterization for " },
         { emLinkText: 'VI (1994)', emLinkUrl: '#entry-VI-final-fantasy-vi-1994' },
-        { text: ', giving this unofficial work unusual authority despite her own insert disclaiming it as non-canon. Included here as a notable alternate-universe curiosity rather than official media; now very rare. Released as ' }, { text: 'フィガロの結婚', lang: 'ja' }, { text: ' (Figaro no Kekkon).' },
+        { text: ', giving this unofficial work unusual authority despite her own insert disclaiming it as non-canon. Included here as a notable alternate-universe curiosity rather than official media; now very rare. Released as ' }, { emText: 'Figaro no Kekkon', lang: 'ja-Latn' }, { text: ' (' }, { text: 'フィガロの結婚', lang: 'ja' }, { text: ').' },
       ],
     ],
     primary: {

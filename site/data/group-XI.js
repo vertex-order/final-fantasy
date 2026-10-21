@@ -721,7 +721,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~Love in the Sky 1·2·3!~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Misc', titleDate: { start: '2005-08', end: '2010-04' },
     by: 'Fumio Minagawa',
     mediaDesc: [
-      [{ text: 'A school-romance slapstick comedy manga for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', released as ' }, { text: '恋の空蝉1・2・3!', lang: 'ja' }, { text: ' (Koi no Utsusemi) and collected in the art book ' }, { emText: 'Final Fantasy XI Minagawa Fumio Illustrations' }, { text: ' (' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'XI ' }, { text: '皆川史生イラストレーションズ', lang: 'ja' }, { text: '). Originally published in ' }, { emLinkText: "Vana'diel Communications (2005)", emLinkUrl: '#entry-XI-final-fantasy-xi-vanadiel-communications-2005' }, { text: ", and compiled in the appendix of 5th Anniversary Vana'diel Memoirs." }],
+      [{ text: 'A school-romance slapstick comedy manga for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', released as ' }, { emText: 'Koi no Utsusemi', lang: 'ja-Latn' }, { text: ' (' }, { text: '恋の空蝉1・2・3!', lang: 'ja' }, { text: ') and collected in the art book ' }, { emText: 'Final Fantasy XI Minagawa Fumio Illustrations' }, { text: ' (' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'XI ' }, { text: '皆川史生イラストレーションズ', lang: 'ja' }, { text: '). Originally published in ' }, { emLinkText: "Vana'diel Communications (2005)", emLinkUrl: '#entry-XI-final-fantasy-xi-vanadiel-communications-2005' }, { text: ", and compiled in the appendix of 5th Anniversary Vana'diel Memoirs." }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
@@ -967,7 +967,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     mediaType: 'Comic', chronoOrder: 5059.5, narrativeOrder: 636.95, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Vana Digest~', titleUrl: 'https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%B4%E3%82%A1%E3%83%8A%E9%80%9A', titleHreflang: 'ja', titleDate: { start: '2008-08-25', end: '2010-03-15' },
     mediaDesc: [
-      [{ text: 'A comic anthology magazine about the adventurers and non-player characters of ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ': short comics themed each volume on the NPCs of a country or a race, serials, and strips from guest artists. Released as ' }, { text: 'コミックヴァナ通', lang: 'ja' }, { text: ' (Comic Vana-tsu).' }],
+      [{ text: 'A comic anthology magazine about the adventurers and non-player characters of ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ': short comics themed each volume on the NPCs of a country or a race, serials, and strips from guest artists. Released as ' }, { emText: 'Comic Vana-tsu', lang: 'ja-Latn' }, { text: ' (' }, { text: 'コミックヴァナ通', lang: 'ja' }, { text: ').' }],
       [{ text: 'Also included elsewhere: ' }, { emLinkText: 'Winds of Prayer (Manga)', emLinkUrl: '#entry-XI-final-fantasy-xi-winds-of-prayer-manga-2008' }, { text: ', the Boy meets Girl series in ' }, { emLinkText: 'Claude and Haru', emLinkUrl: '#entry-XI-final-fantasy-xi-claude-and-haru-2010' }, { text: ' and Ribbon in ' }, { emLinkText: 'Artist Collections', emLinkUrl: '#entry-XI-final-fantasy-xi-artist-collections-2005' }, { text: '.' }],
     ],
     primary: {

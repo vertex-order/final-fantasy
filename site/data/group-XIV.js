@@ -310,7 +310,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
     title: 'Final Fantasy XIV: I Will Teach You Professor Lalafell', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_I_Will_Teach_You_Professor_Lalafell', titleDate: { start: '2017-01-26', end: '2018-08', approx: true },
     by: 'Fakkuma',
     mediaDesc: [
-      [{ text: "A gag manga in which the sole Lalafell-obsessed 'Lalafell-sensei' guides a green adventurer through Eorzea. Collected editions add the spin-off 'The Scholar and Eorzea'. Released in Japan as " }, { emText: 'Final Fantasy XIV: Lalafell-sensei no Oshiete Yaru yo!' }, { text: ' (' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'XIV ' }, { text: 'ララフェル先生の教えてやるよ！', lang: 'ja' }, { text: ', literally "Lalafell-sensei Will Teach You!").' }],
+      [{ text: "A gag manga in which the sole Lalafell-obsessed 'Lalafell-sensei' guides a green adventurer through Eorzea. Collected editions add the spin-off 'The Scholar and Eorzea'. Released in Japan as " }, { emText: 'Final Fantasy XIV: Lalafell-sensei no Oshiete Yaru yo!', lang: 'ja-Latn' }, { text: ' (' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'XIV ' }, { text: 'ララフェル先生の教えてやるよ！', lang: 'ja' }, { text: ', literally "Lalafell-sensei Will Teach You!").' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
@@ -334,7 +334,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
     title: 'Final Fantasy XIV 14-Koma', titleUrl: 'https://www.goodreads.com/book/show/72126545-xiv', titleDate: { start: '2013-09', end: '2019-10' },
     by: 'Fumio Minagawa',
     mediaDesc: [
-      [{ text: 'A four-panel (4-koma) comic series for ' }, { emLinkText: 'XIV: A Realm Reborn (2013)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-a-realm-reborn-2013' }, { text: ', originally serialized in Weekly Famitsu and collected in one volume. Released as ' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'XIV ' }, { text: 'じゅうよんコマ', lang: 'ja' }, { text: ' (Juyon Koma, a pun on the four-panel format and the number 14).' }],
+      [{ text: 'A four-panel (4-koma) comic series for ' }, { emLinkText: 'XIV: A Realm Reborn (2013)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-a-realm-reborn-2013' }, { text: ', originally serialized in Weekly Famitsu and collected in one volume. Released as ' }, { emText: 'Juyon Koma', lang: 'ja-Latn' }, { text: ' (' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'XIV ' }, { text: 'じゅうよんコマ', lang: 'ja' }, { text: '), a pun on the four-panel format and the number 14.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
@@ -544,7 +544,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
     title: 'Brave Father Online: Our Story of Final Fantasy XIV', titleUrl: 'https://wikipedia.org/wiki/Brave_Father_Online:_Our_Story_of_Final_Fantasy_XIV', titleDate: '2019-06-21',
     mediaDesc: [
       [{ text: 'A film adaptation of ' }, { emLinkText: 'Dad of Light (2017)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-dad-of-light-2017' }, { text: ' with story changes, a new cast, including a fourth sibling.' }],
-      [{ text: 'Also known as ' }, { emText: '劇場版 ファイナルファンタジー', lang: 'ja' }, { emText: 'XIV ' }, { emText: '光のお父さん', lang: 'ja' }, { text: '.' }],
+      [{ text: 'Also known as ' }, { emText: 'Gekijōban Fainaru Fantajī Fōtīn Hikari no Otōsan', lang: 'ja-Latn' }, { text: ' (' }, { emText: '劇場版 ファイナルファンタジー', lang: 'ja' }, { emText: 'XIV ' }, { emText: '光のお父さん', lang: 'ja' }, { text: ').' }],
     ],
     primary: {
       tags: ['Spin-off', 'Live-action', 'Movie'],

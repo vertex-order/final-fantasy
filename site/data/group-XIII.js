@@ -83,7 +83,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
     by: 'Benny Matsuyama',
     mediaDesc: [
       [{ text: "While the Pulse l'Cie fight to defy their fate and save Cocoon, three citizens—an undercover reporter, a university student, and a pilot—secretly have unique parallel journeys. The story follows them as they stumble upon an ancient plot to destroy Cocoon from within, and their paths eventually converge in a united endeavor to save the floating world." }],
-      [{ text: "Released as " }, { emText: 'ファイナルファンタジー', lang: 'ja' }, { emText: 'XIII ' }, { emText: '外伝小説 夢見る繭、暁に墜つ', lang: 'ja' }, { text: ' (' }, { emText: 'Final Fantasy XIII Gaiden Shōsetsu: Yumemiru Mayu, Akatsuki ni Otsu' }, { text: '), also known as ' }, { emText: 'Final Fantasy XIII Side Story: A Dreaming Cocoon Falls into the Dawn' }, { text: '. Contained in the ' }, { emText: 'Final Fantasy XIII Ultimania Omega' }, { text: ' book.' }],
+      [{ text: "Released as " }, { emText: 'Final Fantasy XIII Gaiden Shōsetsu: Yumemiru Mayu, Akatsuki ni Otsu', lang: 'ja-Latn' }, { text: ' (' }, { emText: 'ファイナルファンタジー', lang: 'ja' }, { emText: 'XIII ' }, { emText: '外伝小説 夢見る繭、暁に墜つ', lang: 'ja' }, { text: '), also known as ' }, { emText: 'Final Fantasy XIII Side Story: A Dreaming Cocoon Falls into the Dawn' }, { text: '. Contained in the ' }, { emText: 'Final Fantasy XIII Ultimania Omega' }, { text: ' book.' }],
     ],
     primary: {
       tags: ['Novella'],

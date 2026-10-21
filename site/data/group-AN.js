@@ -27,7 +27,7 @@ window.__ffGroupReg['AN'] = { num: 'AN', chronoOrder: 1515, narrativeOrder: 1740
     mediaDesc: [
       [{ text: 'Dungeon crawl inspired by many different Final Fantasy series and titles all mashed together. Considered a sequel (despite different gameplay) to ' }, { emLinkText: 'Artniks (2012)', emLinkUrl: '#entry-AN-final-fantasy-artniks-2012' }, { text: '.' }],
       'It does not have a deep story and is more of a mashup, so there is no story recap to view.',
-      ['Also known as ', { text: 'ファイナルファンタジー アートニクス ダイブ', lang: 'ja' }, ' (Final Fantasy Artniks Daibu).'],
+      ['Also known as ', { emText: 'Final Fantasy Artniks Daibu', lang: 'ja-Latn' }, ' (', { text: 'ファイナルファンタジー アートニクス ダイブ', lang: 'ja' }, ').'],
     ],
     primary: {
       tags: ['Essential', 'Dungeon crawl', 'Mobile', 'Multiplayer', 'Gacha'],
