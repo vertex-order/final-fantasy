@@ -12,4 +12,5 @@ window.SITE_CONFIG = {
   entities: ["Square Enix"],
   noticeUrl: "https://github.com/vertex-order/final-fantasy/blob/main/NOTICE.md",
   discussionsUrl: "https://github.com/vertex-order/final-fantasy/discussions",
+  langOrder: ["EN"],
 };
