@@ -63,6 +63,6 @@
   - Live page returns 404.
   - Captures with status 200: 2016-10-11, 2016-12-13, 2017-01-21 (two). The row links the last: https://web.archive.org/web/20170121161028/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.jusmonvw
   - Capture HTML not read.
-  - Link rendering in a browser: not confirmed.
+  - Link rendering in a browser (the 2017-01-21 capture, user 2026-10-21): works.
 
 ## Decisions
