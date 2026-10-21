@@ -261,6 +261,17 @@ value, ours, and why, so the corrections can be reported upstream.
   (創刊号【2004.12.17号】) says 2004年12月3日発売; candidate until the wiki's
   own convention (cover date or on-sale date) is known.
 
+### Wikipedia: List of Final Fantasy media (Final Fantasy XI novel series ISBN)
+
+- Page: https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga
+- Says: the Final Fantasy XI novel series row (May 2003, Miyabi Hasegawa) gives JP ISBN
+  978-4-7577-1424-3, the same ISBN as the Out of Orders row.
+- Probably: that ISBN is the Star Oath novel (book 2, 4-7577-1424-6); the series' book 1,
+  Winds of Prayer, is 978-4-7577-1244-7.
+- Our source: [final-fantasy-xi-the-star-oath-2003.md](../sources/final-fantasy-xi-the-star-oath-2003.md), [final-fantasy-xi-winds-of-prayer-novel-2002.md](../sources/final-fantasy-xi-winds-of-prayer-novel-2002.md)
+- Reason: candidate only: a series row may list any one volume by the wiki's convention; the
+  copy onto the Out of Orders row is the confirmed error (see the Confirmed item above).
+
 ### Final Fantasy II Shōri e no Tabidachi (author missing)
 
 - Page: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi
