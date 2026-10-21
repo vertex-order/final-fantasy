@@ -137,7 +137,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
     mediaType: 'Game', chronoOrder: 1000, narrativeOrder: 200,
     title: 'Final Fantasy XII: Revenant Wings', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings', titleDate: '2007-04-26',
     mediaDesc: [
-      [{ text: 'Vaan and Penelo become sky pirates and end up involved in a conflict surrounding the floating continent of Lemurés. A standalone sequel to ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: '.' }],
+      [{ text: 'Vaan and Penelo become sky pirates and end up involved in a conflict surrounding the floating continent of Lemurés. A standalone sequel to ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: ', set a year after its events.' }],
     ],
     primary: {
       tags: ['Essential', 'Sequel', 'Real-time strategy'],
