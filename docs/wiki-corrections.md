@@ -153,7 +153,7 @@ value, ours, and why, so the corrections can be reported upstream.
 - Says: the infobox gives the release as June 29, 2017, and the article text says "released worldwide on June 28, 2017".
 - Should be: one date (the Final Fantasy Wiki says WW June 28, 2017; the Verge's release article is dated 2017-06-28); the New Zealand iOS soft launch on 2017-03-31 (Gematsu) is not mentioned.
 - Our source: [final-fantasy-xv-a-new-empire-2017.md](../sources/final-fantasy-xv-a-new-empire-2017.md)
-- Reason: candidate only: the two dates may be one release seen from two time zones; the entry keeps 2017-06-29.
+- Reason: candidate only: the two dates may be one release seen from two time zones; our entry uses the New Zealand limited release, 2017-03-31, so it is unaffected.
 
 ### Wikipedia: Final Fantasy XV (Multiplayer shutdown)
 

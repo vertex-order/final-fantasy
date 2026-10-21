@@ -514,12 +514,12 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
   },
   {
     mediaType: 'Game', chronoOrder: 2000, narrativeOrder: 800,
-    title: 'Final Fantasy XV: A New Empire', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV:_A_New_Empire', titleDate: '2017-06-29',
+    title: 'Final Fantasy XV: A New Empire', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV:_A_New_Empire', titleDate: '2017-03-31',
     mediaDesc: [
       'Focused on the development of Insomnia as a kingdom. We recommend you watch the official clips for story elements.',
     ],
     primary: {
-      tags: ['Spin-off', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer'],
+      tags: ['Spin-off', 'Strategy', 'City-building', 'Multiplayer'],
       terminated: true,
       profileUrl: 'https://web.archive.org/web/20241126204152/https://www.finalfantasyxv-anewempire.com/en-us',
       languages: [
@@ -554,15 +554,25 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       [{ text: 'Picking up where ' }, { emLinkText: 'XV: A New Empire (2017)', emLinkUrl: '#entry-XV-final-fantasy-xv-a-new-empire-2017' }, { text: " left off, focuses on the rebuilding of Insomnia after the Niflheim Empire's attack." }],
     ],
     primary: {
-      tags: ['Spin-off', 'Mobile-only', 'Strategy', 'City-building', 'Multiplayer'],
+      tags: ['Spin-off', 'Strategy', 'City-building', 'Multiplayer'],
       terminated: true,
       languages: [
-        { value: '…?', tip: 'Unknown languages' },
+        { value: 'EN', native: true },
+        { value: 'FR' },
+        { value: 'DE' },
+        { value: 'IT' },
+        { value: 'JA' },
+        { value: 'KO' },
+        { value: 'PT' },
+        { value: 'RU' },
+        { value: 'ES' },
+        { value: 'TR' },
+        { value: 'ZH-CN', tip: 'Chinese (Simplified)' },
+        { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
       ],
-      helpWanted: true,
       platforms: [
-        { key: 'android2', terminated: true },
-        { key: 'apple', terminated: true },
+        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20240930205609/https://play.google.com/store/apps/details?id=com.machinezone.ffane' },
+        { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20240507050129/https://apps.apple.com/us/app/final-fantasy-xv-war-for-eos/id1530078225' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchTitle: 'final fantasy XV War for Eos', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'final fantasy XV War for Eos', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy XV War for Eos' },
