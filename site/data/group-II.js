@@ -179,7 +179,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     primary: {
       tags: ['Alternate Universe', 'Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/199999410604/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/199999410604/', profileHreflang: 'ja',
       length: '288p; A6',
       languages: [
         { value: 'JA', url: 'https://www.goodreads.com/book/show/77954969' },
@@ -201,7 +201,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     title: 'Final Fantasy II: Prelude to a Nightmare', titleUrl: 'https://www.goodreads.com/book/show/45554076', titleDate: '1988-12-09',
     by: 'Kenji Terada',
     mediaDesc: [
-      [{ text: 'A booklet of original fiction set in ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ', given away with the magazine マル勝ファミコン. ' }, { emLinkText: "Nightmare's Labyrinth (1989)", emLinkUrl: '#entry-II-final-fantasy-ii-nightmares-labyrinth-1989' }, { text: ' has a part with the same title; whether the two share text is unconfirmed. Released as ' }, { emText: 'ファイナルファンタジーII 夢魔への前奏曲' }, { text: ' (Final Fantasy II Muma e no Zensōkyoku).' }],
+      [{ text: 'A booklet of original fiction set in ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ', given away with the magazine ' }, { text: 'マル勝ファミコン', lang: 'ja' }, { text: '. ' }, { emLinkText: "Nightmare's Labyrinth (1989)", emLinkUrl: '#entry-II-final-fantasy-ii-nightmares-labyrinth-1989' }, { text: ' has a part with the same title; whether the two share text is unconfirmed. Released as ' }, { emText: 'ファイナルファンタジー', lang: 'ja' }, { emText: 'II ' }, { emText: '夢魔への前奏曲', lang: 'ja' }, { text: ' (Final Fantasy II Muma e no Zensōkyoku).' }],
     ],
     primary: {
       tags: ['Light Novel'],
@@ -222,13 +222,13 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     title: 'Final Fantasy II: Battle to the Death with General Borghen!', titleUrl: 'https://www.goodreads.com/book/show/77945774', titleDate: '1989-01',
     by: 'Ryūji Kōsaka',
     mediaDesc: [
-      'A gamebook set in the world of Final Fantasy II. Released as ファイナルファンタジー2 将軍ボーゲンとの死闘 (Final Fantasy II Shōgun Bōgen to no Shitō).',
+      ['A gamebook set in the world of Final Fantasy II. Released as ', { text: 'ファイナルファンタジー2 将軍ボーゲンとの死闘', lang: 'ja' }, ' (Final Fantasy II Shōgun Bōgen to no Shitō).'],
     ],
     primary: {
       tags: ['Gamebook'],
       subtitle: 'Book',
       length: '317p; A6',
-      profileUrl: 'https://ndlsearch.ndl.go.jp/books/R100000002-I000001956793',
+      profileUrl: 'https://ndlsearch.ndl.go.jp/books/R100000002-I000001956793', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77945774' },
       ],
@@ -245,13 +245,13 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     by: 'Naomi Inoue',
     mediaDesc: [
       'A gamebook set in the world of Final Fantasy II. Centers on Princess Marie of Fynn, an original character combining traits of Maria and Hilda, alongside Firion, Guy, and Minwu.',
-      'Released as ファイナルファンタジーII 秘宝のドラゴン (Final Fantasy II Hihō no Dragon), also known as Dragon of Hidden Treasure and The Hidden Dragon, and printed in the book as Treasure of Dragon.',
+      ['Released as ', { text: 'ファイナルファンタジー', lang: 'ja' }, 'II ', { text: '秘宝のドラゴン', lang: 'ja' }, ' (Final Fantasy II Hihō no Dragon), also known as Dragon of Hidden Treasure and The Hidden Dragon, and printed in the book as Treasure of Dragon.'],
     ],
     primary: {
       tags: ['Gamebook'],
       subtitle: 'Book',
       length: '283p; A6',
-      profileUrl: 'https://ndlsearch.ndl.go.jp/books/R100000001-I36111100548362',
+      profileUrl: 'https://ndlsearch.ndl.go.jp/books/R100000001-I36111100548362', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/102713430' },
       ],
@@ -266,7 +266,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     mediaType: 'Book', chronoOrder: 630, narrativeOrder: 415,
     title: 'Final Fantasy II: Journey to Victory', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi', titleDate: '1988-12-31',
     mediaDesc: [
-      [{ text: 'A gamebook telling a side story set just before the main events of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ' and starring Mid, an original character who joins the rebel army. Released as ファイナルファンタジーII 勝利への旅立ち (Final Fantasy II Shōri e no Tabidachi).' }],
+      [{ text: 'A gamebook telling a side story set just before the main events of ' }, { emLinkText: 'II (1988)', emLinkUrl: '#entry-II-final-fantasy-ii-1988' }, { text: ' and starring Mid, an original character who joins the rebel army. Released as ' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'II ' }, { text: '勝利への旅立ち', lang: 'ja' }, { text: ' (Final Fantasy II Shōri e no Tabidachi).' }],
     ],
     primary: {
       tags: ['Gamebook'],
@@ -314,7 +314,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
     primary: {
       tags: ['Short Stories'],
       subtitle: 'Book',
-      profileUrl: 'https://web.archive.org/web/20160304093601/http://www.square-enix.co.jp/magazine/gamebooks/ff/ff123_novel_moh/',
+      profileUrl: 'https://web.archive.org/web/20160304093601/http://www.square-enix.co.jp/magazine/gamebooks/ff/ff123_novel_moh/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/32993834' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },

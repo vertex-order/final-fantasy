@@ -71,7 +71,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
   },
   {
     mediaType: 'Comic', chronoOrder: 45, narrativeOrder: 145,
-    title: 'Final Fantasy Brave Exvius Rico no Doki x2 DAYS', titleUrl: 'https://game.watch.impress.co.jp/docs/news/1044074.html', titleDate: { start: '2017-02-07', end: '2017-09-13', approx: true },
+    title: 'Final Fantasy Brave Exvius Rico no Doki x2 DAYS', titleUrl: 'https://game.watch.impress.co.jp/docs/news/1044074.html', titleHreflang: 'ja', titleDate: { start: '2017-02-07', end: '2017-09-13', approx: true },
     by: 'Takeshi Matsumoto',
     mediaDesc: [
       [{ text: 'The first manga of ' }, { emLinkText: 'Brave Exvius (2015)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-2015' }, { text: ": a 4-panel comedy about Rico, a Moogle child who dreams of becoming human, and her romance and friendships, with the knight Rain and other characters from the game. The predecessor of " }, { emLinkText: 'Rikodoki! (2017)', emLinkUrl: '#entry-BE-final-fantasy-brave-exvius-rikodoki-2017' }, { text: '.' }],
@@ -83,10 +83,10 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'apple', name: 'comico PLUS', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20171002135327/https://itunes.apple.com/jp/app/comico-plus/id1019143399?l=ja&ls=1&mt=8' },
+        { key: 'apple', name: 'comico PLUS', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20171002135327/https://itunes.apple.com/jp/app/comico-plus/id1019143399?l=ja&ls=1&mt=8', hreflang: 'ja' },
         { key: 'android2', name: 'comico PLUS', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20161225233751/https://play.google.com/store/apps/details?id=jp.comico.plus' },
         { key: 'globe', name: 'Twitter', url: 'https://x.com/FFRS_JP/status/902367909707530240' },
-        { key: 'apple', name: 'Manga UP!', jpTag: true, terminated: true, url: 'https://apps.apple.com/jp/app/id1178874028' },
+        { key: 'apple', name: 'Manga UP!', jpTag: true, terminated: true, url: 'https://apps.apple.com/jp/app/id1178874028', hreflang: 'ja' },
         { key: 'android2', name: 'Manga UP!', jpTag: true, terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_jp' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Brave Exvius Rico no Doki x2 DAYS', noResults: true },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Brave Exvius Rico no Doki x2 DAYS', searchSuffix: 'manga dub', noResults: true },
@@ -104,7 +104,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
-      profileUrl: 'https://store.jp.square-enix.com/estore/g/g9784757557994/',
+      profileUrl: 'https://store.jp.square-enix.com/estore/g/g9784757557994/', profileHreflang: 'ja',
       length: '144p; B6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/70078001-final-fantasy-brave-exvius' },

@@ -213,7 +213,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/201010000382/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/201010000382/', profileHreflang: 'ja',
       length: '296p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/85601685' },
@@ -254,13 +254,13 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
         title: 'Final Fantasy XIV: Chronicles of Light', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Chronicles_of_Light', titleDate: { start: '2019-03-09', end: '2025-10-07' },
         subtitle: 'Book',
         id: 'final-fantasy-xiv-chronicles-of-light-2019',
-        profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/search?q=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2',
+        profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/search?q=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2', profileHreflang: 'ja',
         length: '2 volumes',
         helpWanted: true,
         languages: [
-          { value: 'JA', native: true, url: 'https://magazine.jp.square-enix.com/gamebooks/search?q=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2' },
+          { value: 'JA', native: true, url: 'https://magazine.jp.square-enix.com/gamebooks/search?q=%E5%85%89%E3%81%AE%E5%9B%9E%E9%A1%A7%E9%8C%B2', hreflang: 'ja' },
           { value: 'EN', url: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/series/final-fantasy-xiv' },
-          { value: 'DE', url: 'https://altraverse.de/manga/final-fantasy-chroniken-des-lichts/' },
+          { value: 'DE', url: 'https://altraverse.de/manga/final-fantasy-chroniken-des-lichts/', hreflang: 'de' },
           { value: '…?' },
         ],
         ratings: [
@@ -310,12 +310,12 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
     title: 'Final Fantasy XIV: I Will Teach You Professor Lalafell', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_I_Will_Teach_You_Professor_Lalafell', titleDate: { start: '2017-01-26', end: '2018-08', approx: true },
     by: 'Fakkuma',
     mediaDesc: [
-      [{ text: "A gag manga in which the sole Lalafell-obsessed 'Lalafell-sensei' guides a green adventurer through Eorzea. Collected editions add the spin-off 'The Scholar and Eorzea'. Released in Japan as " }, { emText: 'Final Fantasy XIV: Lalafell-sensei no Oshiete Yaru yo!' }, { text: " (ファイナルファンタジーXIV ララフェル先生の教えてやるよ！, literally \"Lalafell-sensei Will Teach You!\")." }],
+      [{ text: "A gag manga in which the sole Lalafell-obsessed 'Lalafell-sensei' guides a green adventurer through Eorzea. Collected editions add the spin-off 'The Scholar and Eorzea'. Released in Japan as " }, { emText: 'Final Fantasy XIV: Lalafell-sensei no Oshiete Yaru yo!' }, { text: ' (' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'XIV ' }, { text: 'ララフェル先生の教えてやるよ！', lang: 'ja' }, { text: ', literally "Lalafell-sensei Will Teach You!").' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F', profileHreflang: 'ja',
       length: '3 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/search?q=%E3%83%A9%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E5%85%88%E7%94%9F%E3%81%AE%E6%95%99%E3%81%88%E3%81%A6%E3%82%84%E3%82%8B%E3%82%88' },
@@ -334,12 +334,12 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
     title: 'Final Fantasy XIV 14-Koma', titleUrl: 'https://www.goodreads.com/book/show/72126545-xiv', titleDate: { start: '2013-09', end: '2019-10' },
     by: 'Fumio Minagawa',
     mediaDesc: [
-      [{ text: 'A four-panel (4-koma) comic series for ' }, { emLinkText: 'XIV: A Realm Reborn (2013)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-a-realm-reborn-2013' }, { text: ', originally serialized in Weekly Famitsu and collected in one volume. Released as ファイナルファンタジーXIV じゅうよんコマ (Juyon Koma, a pun on the four-panel format and the number 14).' }],
+      [{ text: 'A four-panel (4-koma) comic series for ' }, { emLinkText: 'XIV: A Realm Reborn (2013)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-a-realm-reborn-2013' }, { text: ', originally serialized in Weekly Famitsu and collected in one volume. Released as ' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'XIV ' }, { text: 'じゅうよんコマ', lang: 'ja' }, { text: ' (Juyon Koma, a pun on the four-panel format and the number 14).' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
-      profileUrl: 'https://www.kadokawa.co.jp/product/321910001212/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/321910001212/', profileHreflang: 'ja',
       length: '128p; A5',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/72126545-xiv' },
@@ -354,21 +354,21 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
   },
   {
     mediaType: 'Book', chronoOrder: 1500, narrativeOrder: 850,
-    title: "Final Fantasy XIV ~A Realm Reborn Adventure Log~", titleUrl: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651', titleDate: { start: '2014-01-16', end: '2014-11-10' },
+    title: "Final Fantasy XIV ~A Realm Reborn Adventure Log~", titleUrl: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651', titleHreflang: 'ja', titleDate: { start: '2014-01-16', end: '2014-11-10' },
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      "A play-diary-style adventure serial following its hot-blooded player character Ganbarund through the wastelands, dungeons, and monster dens of Eorzea in A Realm Reborn. Published on Famitsu.com as FF14 新生エオルゼア冒険記.",
+      ['A play-diary-style adventure serial following its hot-blooded player character Ganbarund through the wastelands, dungeons, and monster dens of Eorzea in A Realm Reborn. Published on Famitsu.com as FF14 ', { text: '新生エオルゼア冒険記', lang: 'ja' }, '.'],
     ],
     primary: {
       tags: ['Tie-in', 'Play diary', 'Web', 'Free'],
       subtitle: 'Web',
-      profileUrl: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651',
+      profileUrl: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651', profileHreflang: 'ja',
       length: [{ value: '40 episodes,', br: true }, { value: '5 specials' }],
       languages: [
-        { value: 'JA', native: true, url: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651' },
+        { value: 'JA', native: true, url: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651', hreflang: 'ja' },
       ],
       platforms: [
-        { key: 'globe', name: 'Web serial (Wayback)', jpTag: true, url: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651' },
+        { key: 'globe', name: 'Web serial (Wayback)', jpTag: true, url: 'https://web.archive.org/web/2099/http://www.famitsu.com/cominy/?m=pc&a=page_fh_diary&target_c_diary_id=75651', hreflang: 'ja' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-audiobook', search: 'youtube', noResults: true },
@@ -376,10 +376,10 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
     },
     alts: [
       {
-        title: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~", titleUrl: 'https://www.kadokawa.co.jp/product/301405000071/', titleDate: '2014-09-19',
+        title: "Final Fantasy XIV ~A Realm Reborn Adventure Log: Hero's Eggs~", titleUrl: 'https://www.kadokawa.co.jp/product/301405000071/', titleHreflang: 'ja', titleDate: '2014-09-19',
         subtitle: 'Book',
         id: 'final-fantasy-xiv-a-realm-reborn-adventure-log-heros-eggs-2014',
-        profileUrl: 'https://www.kadokawa.co.jp/product/301405000071/',
+        profileUrl: 'https://www.kadokawa.co.jp/product/301405000071/', profileHreflang: 'ja',
         length: '339p; P',
         languages: [
           { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/71627236' },
@@ -388,16 +388,16 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
           { key: 'book', name: 'Novel', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo', searchTitle: "Final Fantasy XIV A Realm Reborn Adventure Log: Hero's Eggs", searchQualifier: 'novel' },
         ],
         versionDesc: [
-          [{ text: "Collects the serial from January to June 2014, with additional new written material. It does not include the 5 special episodes from the serial. Released as " }, { emText: 'ファイナルファンタジーXIV 新生エオルゼア冒険記 -英雄の卵たち-' }, { text: '.' }],
+          [{ text: "Collects the serial from January to June 2014, with additional new written material. It does not include the 5 special episodes from the serial. Released as " }, { emText: 'ファイナルファンタジー', lang: 'ja' }, { emText: 'XIV ' }, { emText: '新生エオルゼア冒険記 -英雄の卵たち', lang: 'ja' }, { emText: '-' }, { text: '.' }],
         ],
       },
     ],
   },
   {
     mediaType: 'Comic', chronoOrder: 1550, narrativeOrder: 851,
-    title: 'Final Fantasy XIV ~A Realm Reborn Lightning Brigade Play Guides~', titleUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E6%96%B0%E7%94%9F%E3%82%A8%E3%82%AA%E3%83%AB%E3%82%BC%E3%82%A2%E3%80%80%E3%83%97%E3%83%AC%E3%82%A4%E3%82%AC%E3%82%A4%E3%83%89', titleDate: { start: '2013-12-12', end: '2015-04-02' },
+    title: 'Final Fantasy XIV ~A Realm Reborn Lightning Brigade Play Guides~', titleUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E6%96%B0%E7%94%9F%E3%82%A8%E3%82%AA%E3%83%AB%E3%82%BC%E3%82%A2%E3%80%80%E3%83%97%E3%83%AC%E3%82%A4%E3%82%AC%E3%82%A4%E3%83%89', titleHreflang: 'ja', titleDate: { start: '2013-12-12', end: '2015-04-02' },
     mediaDesc: [
-      [{ text: 'Play guides to A Realm Reborn by the Lightning Brigade, the Dengeki PlayStation writers who also wrote the ' }, { emLinkText: 'XI Lightning Brigade Guides', emLinkUrl: '#entry-XI-final-fantasy-xi-lightning-brigade-guides-2003' }, { text: ". Part strategy guide, part reading, with four-panel manga running alongside the text (fewer in the last volume). Released as 新生エオルゼア 電撃の旅団公式プレイガイド." }],
+      [{ text: 'Play guides to A Realm Reborn by the Lightning Brigade, the Dengeki PlayStation writers who also wrote the ' }, { emLinkText: 'XI Lightning Brigade Guides', emLinkUrl: '#entry-XI-final-fantasy-xi-lightning-brigade-guides-2003' }, { text: '. Part strategy guide, part reading, with four-panel manga running alongside the text (fewer in the last volume). Released as ' }, { text: '新生エオルゼア 電撃の旅団公式プレイガイド', lang: 'ja' }, { text: '.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
@@ -405,7 +405,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       length: '3 books',
       contentsLabel: 'books',
       searchTitle: 'Final Fantasy XIV Lightning Brigade',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E6%96%B0%E7%94%9F%E3%82%A8%E3%82%AA%E3%83%AB%E3%82%BC%E3%82%A2%E3%80%80%E3%83%97%E3%83%AC%E3%82%A4%E3%82%AC%E3%82%A4%E3%83%89',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E6%96%B0%E7%94%9F%E3%82%A8%E3%82%AA%E3%83%AB%E3%82%BC%E3%82%A2%E3%80%80%E3%83%97%E3%83%AC%E3%82%A4%E3%82%AC%E3%82%A4%E3%83%89', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/102365367' },
       ],
@@ -458,7 +458,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9798899100833',
       length: '24p',
       languages: [
-        { value: 'JA', native: true, url: 'https://magazine.jp.square-enix.com/gamebooks/books/10502' },
+        { value: 'JA', native: true, url: 'https://magazine.jp.square-enix.com/gamebooks/books/10502', hreflang: 'ja' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/255391940' },
         { value: '…?' },
       ],
@@ -529,7 +529,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
         { value: '…?' },
       ],
       helpWanted: true,
-      profileUrl: 'https://hikarinootosan.jp/',
+      profileUrl: 'https://hikarinootosan.jp/', profileHreflang: 'ja',
       ratings: [
         { score: '7.1', url: 'https://www.imdb.com/title/tt6497076/', key: 'imdb' },
       ],
@@ -544,7 +544,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
     title: 'Brave Father Online: Our Story of Final Fantasy XIV', titleUrl: 'https://wikipedia.org/wiki/Brave_Father_Online:_Our_Story_of_Final_Fantasy_XIV', titleDate: '2019-06-21',
     mediaDesc: [
       [{ text: 'A film adaptation of ' }, { emLinkText: 'Dad of Light (2017)', emLinkUrl: '#entry-XIV-final-fantasy-xiv-dad-of-light-2017' }, { text: ' with story changes, a new cast, including a fourth sibling.' }],
-      [{ text: 'Also known as ' }, { emText: '劇場版 ファイナルファンタジーXIV 光のお父さん' }, { text: '.' }],
+      [{ text: 'Also known as ' }, { emText: '劇場版 ファイナルファンタジー', lang: 'ja' }, { emText: 'XIV ' }, { emText: '光のお父さん', lang: 'ja' }, { text: '.' }],
     ],
     primary: {
       tags: ['Spin-off', 'Live-action', 'Movie'],
@@ -555,7 +555,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
         { value: '…?' },
       ],
       helpWanted: true,
-      profileUrl: 'https://gaga.ne.jp/hikarinootosan/',
+      profileUrl: 'https://gaga.ne.jp/hikarinootosan/', profileHreflang: 'ja',
       ratings: [
         { score: '7.2', url: 'https://www.imdb.com/title/tt10551160/', key: 'imdb' },
       ],

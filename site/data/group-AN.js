@@ -10,13 +10,13 @@ window.__ffGroupReg['AN'] = { num: 'AN', chronoOrder: 1515, narrativeOrder: 1740
     primary: {
       tags: ['Essential', 'CCG', 'Mobile', 'Multiplayer'],
       terminated: true,
-      profileUrl: 'https://web.archive.org/web/20141030083726/http://www.jp.square-enix.com/ff_artniks/',
+      profileUrl: 'https://web.archive.org/web/20141030083726/http://www.jp.square-enix.com/ff_artniks/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20131219024545/http://jp.apps.gree.net/ja/57737' },
-        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20131219024545/http://jp.apps.gree.net/ja/57737' },
+        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20131219024545/http://jp.apps.gree.net/ja/57737', hreflang: 'ja' },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20131219024545/http://jp.apps.gree.net/ja/57737', hreflang: 'ja' },
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
     },
@@ -27,18 +27,18 @@ window.__ffGroupReg['AN'] = { num: 'AN', chronoOrder: 1515, narrativeOrder: 1740
     mediaDesc: [
       [{ text: 'Dungeon crawl inspired by many different Final Fantasy series and titles all mashed together. Considered a sequel (despite different gameplay) to ' }, { emLinkText: 'Artniks (2012)', emLinkUrl: '#entry-AN-final-fantasy-artniks-2012' }, { text: '.' }],
       'It does not have a deep story and is more of a mashup, so there is no story recap to view.',
-      'Also known as ファイナルファンタジー アートニクス ダイブ (Final Fantasy Artniks Daibu).',
+      ['Also known as ', { text: 'ファイナルファンタジー アートニクス ダイブ', lang: 'ja' }, ' (Final Fantasy Artniks Daibu).'],
     ],
     primary: {
       tags: ['Essential', 'Dungeon crawl', 'Mobile', 'Multiplayer', 'Gacha'],
       terminated: true,
-      profileUrl: 'https://web.archive.org/web/20150224013222/http://www.jp.square-enix.com/ff_artniks_d/',
+      profileUrl: 'https://web.archive.org/web/20150224013222/http://www.jp.square-enix.com/ff_artniks_d/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150729143635/http://jp.apps.gree.net/ja/60521' },
-        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150729143635/http://jp.apps.gree.net/ja/60521' },
+        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150729143635/http://jp.apps.gree.net/ja/60521', hreflang: 'ja' },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150729143635/http://jp.apps.gree.net/ja/60521', hreflang: 'ja' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
     },

@@ -91,7 +91,7 @@ window.__ffGroupReg['PB'] = { num: 'PB', chronoOrder: 1750, narrativeOrder: 1750
       profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9798899100833',
       length: '24p',
       languages: [
-        { value: 'JA', native: true, url: 'https://magazine.jp.square-enix.com/gamebooks/books/10502' },
+        { value: 'JA', native: true, url: 'https://magazine.jp.square-enix.com/gamebooks/books/10502', hreflang: 'ja' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/255391940' },
         { value: '…?' },
       ],

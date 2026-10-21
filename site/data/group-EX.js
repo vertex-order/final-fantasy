@@ -38,7 +38,7 @@ window.__ffGroupReg['EX'] = { num: 'EX', chronoOrder: 1520, narrativeOrder: 1520
     primary: {
       tags: ['Action RPG', 'Jobs', 'Mobile', 'In-app purchases', 'Multiplayer'],
       terminated: true,
-      profileUrl: 'https://web.archive.org/web/20180930221736/http://www.ffexforce.jp/',
+      profileUrl: 'https://web.archive.org/web/20180930221736/http://www.ffexforce.jp/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
@@ -47,7 +47,7 @@ window.__ffGroupReg['EX'] = { num: 'EX', chronoOrder: 1520, narrativeOrder: 1520
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-playthrough', search: 'youtube' },
         { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20190522105621/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFFEXFjp' },
-        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20181007085213/https://itunes.apple.com/jp/app/id1161393372' },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20181007085213/https://itunes.apple.com/jp/app/id1161393372', hreflang: 'ja' },
       ],
     },
   },

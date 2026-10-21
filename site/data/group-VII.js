@@ -522,8 +522,8 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
             { key: 'playstation3', paren: 'PSone compatibility; Digital' },
             { key: 'playstation-vita', paren: 'Digital' },
             { key: 'playstation-portable', paren: 'Digital' },
-            { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/' },
-            { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/' },
+            { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
+            { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
           ],
           versionDesc: [
             ['The original release. A re-edit was released the same year as ', { emText: 'Final Fantasy VII International' }, '.'],
@@ -581,7 +581,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       subtitle: 'Book',
       profileUrl: 'https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646090846',
       languages: [
-        { value: 'JA', native: true, url: 'https://magazine.jp.square-enix.com/gamebooks/books/10044' },
+        { value: 'JA', native: true, url: 'https://magazine.jp.square-enix.com/gamebooks/books/10044', hreflang: 'ja' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/52658168' },
       ],
       platforms: [
@@ -631,7 +631,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         { value: 'ES', tip: 'Spanish (fan translation; self-published print)', url: 'https://www.goodreads.com/book/show/51949522-the-maiden-who-travels-the-planet' },
       ],
       length: '45p; A4',
-      profileUrl: 'https://www.bent.co.jp/lineup_day/%e4%bd%9c%e5%93%81%e7%b4%b9%e4%bb%8b%e8%a9%b3%e7%b4%b0%e3%80%80um19/',
+      profileUrl: 'https://www.bent.co.jp/lineup_day/%e4%bd%9c%e5%93%81%e7%b4%b9%e4%bb%8b%e8%a9%b3%e7%b4%b0%e3%80%80um19/', profileHreflang: 'ja',
       ratings: [
         { score: '3.93', url: 'https://www.goodreads.com/book/show/18139055-the-maiden-who-travels-the-planet', key: 'goodreads' },
       ],
@@ -662,13 +662,13 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         { value: 'ES', tip: 'Spanish (Castilian)', url: 'https://www.goodreads.com/book/show/50923178-final-fantasy-vii' },
       ],
       length: '204p; P',
-      profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/books/10040',
+      profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/books/10040', profileHreflang: 'ja',
       ratings: [
         { score: '3.94', url: 'https://www.goodreads.com/book/show/38644528-final-fantasy-vii', key: 'goodreads' },
       ],
       platforms: [
         { key: 'book', name: 'Short Stories', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_On_the_Way_to_a_Smile' },
-        { key: 'globe', name: 'Web Stories (Wayback; episodes 1-4)', jpTag: true, url: 'https://web.archive.org/web/20260609030029/http://www.square-enix.co.jp/dvd/ff7ac/ff7ac_novelmain.html' },
+        { key: 'globe', name: 'Web Stories (Wayback; episodes 1-4)', jpTag: true, url: 'https://web.archive.org/web/20260609030029/http://www.square-enix.co.jp/dvd/ff7ac/ff7ac_novelmain.html', hreflang: 'ja' },
         { key: 'fan-translation', url: 'https://thelifestream.net/novels-novellas/' },
         {
           key: 'fan-audiobook',
@@ -721,7 +721,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         { value: 'DE', url: 'https://www.goodreads.com/book/show/60458824-final-fantasy-vii' },
       ],
       length: '228p; P',
-      profileUrl: 'https://web.archive.org/web/20180911030219/http://www.square-enix.co.jp/magazine/gamebooks/ff/7_turks_tkaa/index.html',
+      profileUrl: 'https://web.archive.org/web/20180911030219/http://www.square-enix.co.jp/magazine/gamebooks/ff/7_turks_tkaa/index.html', profileHreflang: 'ja',
       ratings: [
         { score: '3.96', url: 'https://www.goodreads.com/book/show/40223502-final-fantasy-vii', key: 'goodreads' },
       ],
@@ -991,13 +991,13 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
     primary: {
       tags: ['Minigame', 'Mobile', 'Racing', 'Motorcycle', 'Hack and slash', 'Single-player'],
       terminated: true,
-      profileUrl: 'https://web.archive.org/web/20151006085040/https://www.jp.square-enix.com/ff7_gbike/',
+      profileUrl: 'https://web.archive.org/web/20151006085040/https://www.jp.square-enix.com/ff7_gbike/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
         { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151128160608/https://play.google.com/store/apps/details?id=com.square_enix.ff7g_bike' },
-        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150616025532/https://itunes.apple.com/jp/app/final-fantasy-vii-g-bike/id900316991' },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150616025532/https://itunes.apple.com/jp/app/final-fantasy-vii-g-bike/id900316991', hreflang: 'ja' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
     },

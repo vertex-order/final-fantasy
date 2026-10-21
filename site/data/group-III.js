@@ -172,7 +172,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
     primary: {
       tags: ['Alternate Universe', 'Manga'],
       subtitle: 'Comic',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E6%82%A0%E4%B9%85%E3%81%AE%E9%A2%A8%E4%BC%9D%E8%AA%AC',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E6%82%A0%E4%B9%85%E3%81%AE%E9%A2%A8%E4%BC%9D%E8%AA%AC', profileHreflang: 'ja',
       length: '3 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/76161074' },
@@ -200,7 +200,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
     primary: {
       tags: ['Short Stories'],
       subtitle: 'Book',
-      profileUrl: 'https://web.archive.org/web/20160304093601/http://www.square-enix.co.jp/magazine/gamebooks/ff/ff123_novel_moh/',
+      profileUrl: 'https://web.archive.org/web/20160304093601/http://www.square-enix.co.jp/magazine/gamebooks/ff/ff123_novel_moh/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/32993834' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },

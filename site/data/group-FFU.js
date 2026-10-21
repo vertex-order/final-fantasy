@@ -92,7 +92,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
     title: 'Final Fantasy: Unlimited Twin Bonds', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited#Continuation_of_Final_Fantasy:_Unlimited', titleDate: '2002-03-28',
     by: 'Syou Katagiri',
     mediaDesc: [
-      [{ text: 'Covers a side story set somewhere before episode 12 of the ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime. Released as ' }, { emText: 'Final Fantasy: Unlimited Sō no Kizuna' }, { text: ' (双の絆, literally "Twin Bonds"), sometimes referred to as ' }, { emText: '~The Bonds of Two~' }, { text: ' and ' }, { emText: 'Double Bond' }, { text: '.' }],
+      [{ text: 'Covers a side story set somewhere before episode 12 of the ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime. Released as ' }, { emText: 'Final Fantasy: Unlimited Sō no Kizuna' }, { text: ' (' }, { text: '双の絆', lang: 'ja' }, { text: ', literally "Twin Bonds"), sometimes referred to as ' }, { emText: '~The Bonds of Two~' }, { text: ' and ' }, { emText: 'Double Bond' }, { text: '.' }],
     ],
     primary: {
       tags: ['Light Novel'],
@@ -114,7 +114,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
     title: 'Final Fantasy: Unlimited After', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_After', titleDate: '2002-05-15',
     by: [{ role: 'manga', names: 'Hiroyuki Yamashita' }, { role: 'script', names: 'Atsuhiro Tomioka' }],
     mediaDesc: [
-      [{ text: 'Taking place after ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime, exploring the C2 Organization Lisa works for, and their goals and purposes. Originally published online, later collected into a single anthology comprised of a comic and a script. Released as ' }, { emText: 'Final Fantasy: Unlimited After – Gakai no Sho' }, { text: ' (外界の章, literally "Chapters of the Outside World").' }],
+      [{ text: 'Taking place after ' }, { emLinkText: 'Unlimited (2001)', emLinkUrl: '#entry-FFU-final-fantasy-unlimited-2001' }, { text: ' anime, exploring the C2 Organization Lisa works for, and their goals and purposes. Originally published online, later collected into a single anthology comprised of a comic and a script. Released as ' }, { emText: 'Final Fantasy: Unlimited After – Gakai no Sho' }, { text: ' (' }, { text: '外界の章', lang: 'ja' }, { text: ', literally "Chapters of the Outside World").' }],
     ],
     primary: {
       tags: ['Essential', 'Sequel', 'Manga', 'Script'],
@@ -170,7 +170,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       ],
       platforms: [
         { key: 'compact-disc', jpTag: true },
-        { key: 'fan-audiobook', name: 'Audio drama (unofficial)', jpTag: true, url: 'https://www.nicovideo.jp/watch/sm1823501' },
+        { key: 'fan-audiobook', name: 'Audio drama (unofficial)', jpTag: true, url: 'https://www.nicovideo.jp/watch/sm1823501', hreflang: 'ja' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
@@ -191,7 +191,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       ],
       platforms: [
         { key: 'compact-disc', jpTag: true },
-        { key: 'fan-audiobook', name: 'Audio (unofficial)', jpTag: true, url: 'https://www.nicovideo.jp/watch/sm2427549' },
+        { key: 'fan-audiobook', name: 'Audio (unofficial)', jpTag: true, url: 'https://www.nicovideo.jp/watch/sm2427549', hreflang: 'ja' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
       ],

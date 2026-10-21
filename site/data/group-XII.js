@@ -120,7 +120,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         { value: 'JA', native: true, url: 'https://www.goodreads.com/series/108230-xii-final-fantasy-xii' },
         { value: 'EN', tip: 'English (fan translation)', url: 'https://duckduckgo.com/?q=Final%20Fantasy%20XII%20~Manga~%20translation' },
       ],
-      profileUrl: 'https://magazine.jp.square-enix.com/top/comics/detail/9784757518308/',
+      profileUrl: 'https://magazine.jp.square-enix.com/top/comics/detail/9784757518308/', profileHreflang: 'ja',
       ratings: [
         { score: '3.71', url: 'https://www.goodreads.com/book/show/6926117-xii-1-final-fantasy-xii-1', key: 'goodreads' },
       ],
@@ -384,13 +384,13 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
     primary: {
       tags: ['Spin-off', 'Mobile', 'Tactical RPG', 'Jobs'],
       terminated: true,
-      profileUrl: 'https://web.archive.org/web/20140320170649/https://www.jp.square-enix.com/ffts/',
+      profileUrl: 'https://web.archive.org/web/20140320170649/https://www.jp.square-enix.com/ffts/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20140402061126/http://www.mbga.jp/_game_intro?game_id=12014055' },
-        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20140402061126/http://www.mbga.jp/_game_intro?game_id=12014055' },
+        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20140402061126/http://www.mbga.jp/_game_intro?game_id=12014055', hreflang: 'ja' },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20140402061126/http://www.mbga.jp/_game_intro?game_id=12014055', hreflang: 'ja' },
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
     },
@@ -403,7 +403,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
     ],
     primary: {
       tags: ['Spin-off', 'Mobile', 'Turn-based strategy', 'Tower defense'],
-      profileUrl: 'https://www.jp.square-enix.com/game/detail/crystaldefenders/',
+      profileUrl: 'https://www.jp.square-enix.com/game/detail/crystaldefenders/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
@@ -418,9 +418,9 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         { score: '7.0', url: 'https://www.metacritic.com/game/crystal-defenders/', key: 'metacritic-user' },
       ],
       platforms: [
-        { key: 'mobile-phone', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20160307051837/http://www.square-enix.co.jp/mobile/ff/cg/' },
+        { key: 'mobile-phone', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20160307051837/http://www.square-enix.co.jp/mobile/ff/cg/', hreflang: 'ja' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20160203052424/https://itunes.apple.com/us/app/crystal-defenders/id300186798?mt=8' },
-        { key: 'apple', suffix: 'pod', terminated: true, url: 'https://web.archive.org/web/20130225135614/https://www.jp.square-enix.com/cdplus/' },
+        { key: 'apple', suffix: 'pod', terminated: true, url: 'https://web.archive.org/web/20130225135614/https://www.jp.square-enix.com/cdplus/', hreflang: 'ja' },
         { key: 'apple', name: 'iPadOS', suffix: 'pad', terminated: true, url: 'https://web.archive.org/web/20160709085514/https://itunes.apple.com/us/app/crystal-defenders-for-ipad/id379052382?mt=8' },
         { key: 'xbox-360', terminated: true, paren: 'Xbox Live Arcade', url: 'https://www.xbox.com/games/store/crystal-defenders/BVCHVG7HM8LG' },
         { key: 'xbox-one', paren: '360 Live Arcade compatibility', url: 'https://www.xbox.com/games/store/crystal-defenders/BVCHVG7HM8LG' },
@@ -433,7 +433,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         { key: 'fan-playthrough', search: 'youtube' },
       ],
       versionDesc: [
-        [{ text: 'Originally released episodically (W1 to W3) as ' }, { emText: 'Crystal Guardians' }, { text: ' (クリスタル ガーディアンズ, Kurisutaru Gādianzu). Some platforms may have only partial content.' }],
+        [{ text: 'Originally released episodically (W1 to W3) as ' }, { emText: 'Crystal Guardians' }, { text: ' (' }, { text: 'クリスタル ガーディアンズ', lang: 'ja' }, { text: ', Kurisutaru Gādianzu). Some platforms may have only partial content.' }],
       ],
       versions: [
         {
@@ -452,7 +452,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
             { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20150409073058/https://itunes.apple.com/us/app/crystal-defenders-plus/id573525925?mt=8' },
           ],
           versionDesc: [
-            [{ text: 'Higher graphics, smoother play and downloadable maps. Also known as クリスタル・ディフェンダーズ Plus (Kurisutaru Difendāzu Plus).' }],
+            [{ text: 'Higher graphics, smoother play and downloadable maps. Also known as ' }, { text: 'クリスタル・ディフェンダーズ', lang: 'ja' }, { text: ' Plus (Kurisutaru Difendāzu Plus).' }],
           ],
         },
         {

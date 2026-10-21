@@ -361,7 +361,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       tags: ['Alternate Universe', 'Manga'],
       subtitle: 'Comic',
       length: '205p; A5',
-      profileUrl: 'https://ndlsearch.ndl.go.jp/books/R100000098-Icm_itemM207213',
+      profileUrl: 'https://ndlsearch.ndl.go.jp/books/R100000098-Icm_itemM207213', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/106524927' },
         { value: 'EN', tip: 'English (fan translation)' },
@@ -384,7 +384,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
     primary: {
       tags: ['Short Stories'],
       subtitle: 'Book',
-      profileUrl: 'https://web.archive.org/web/20160304093601/http://www.square-enix.co.jp/magazine/gamebooks/ff/ff123_novel_moh/',
+      profileUrl: 'https://web.archive.org/web/20160304093601/http://www.square-enix.co.jp/magazine/gamebooks/ff/ff123_novel_moh/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/32993834' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/45731773-final-fantasy-i-ii-iii' },
@@ -433,13 +433,13 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
     title: 'Final Fantasy: Crystal Inheritance Legend', titleUrl: 'https://www.thevideogamelibrary.org/book/final-fantasy-crystal-inheritance-legend', titleDate: '1988-01-10',
     by: ['Osamu Mihara', 'Shoko Uehara'],
     mediaDesc: [
-      [{ text: 'A gamebook with an original story set before ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ', in which a boy and a girl search for the lost Water Crystal. Includes a short timeline of the world. Released as ファイナルファンタジー クリスタル継承伝説 (Fainaru Fantajī Kurisutaru Keishō Densetsu), printed "Cristal Saga".' }],
+      [{ text: 'A gamebook with an original story set before ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ', in which a boy and a girl search for the lost Water Crystal. Includes a short timeline of the world. Released as ' }, { text: 'ファイナルファンタジー クリスタル継承伝説', lang: 'ja' }, { text: ' (Fainaru Fantajī Kurisutaru Keishō Densetsu), printed "Cristal Saga".' }],
     ],
     primary: {
       tags: ['Gamebook'],
       subtitle: 'Book',
       length: '235p; P',
-      profileUrl: 'https://ndlsearch.ndl.go.jp/books/R100000002-I000001965142',
+      profileUrl: 'https://ndlsearch.ndl.go.jp/books/R100000002-I000001965142', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
@@ -455,13 +455,13 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
     title: 'Final Fantasy: May Light Be Upon the Heroes!', titleUrl: 'https://www.thevideogamelibrary.org/book/final-fantasy-let-the-brave-light', titleDate: '1988-04-25',
     by: 'Naomi Inoue',
     mediaDesc: [
-      [{ text: 'A gamebook adaptation of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ', set in a reimagined version of its world, in which four boys born under the moon of Ulm are guided by a crystal blessed by the Priestess of Light. Released as ファイナルファンタジー 勇者に光あれ！ (Fainaru Fantajī Yūsha ni Hikari Are!), printed inside as “Quest of the Sanctuary ‘Light’”.' }],
+      [{ text: 'A gamebook adaptation of ' }, { emLinkText: 'Final Fantasy (1987)', emLinkUrl: '#entry-I-final-fantasy-1987' }, { text: ', set in a reimagined version of its world, in which four boys born under the moon of Ulm are guided by a crystal blessed by the Priestess of Light. Released as ' }, { text: 'ファイナルファンタジー 勇者に光あれ！', lang: 'ja' }, { text: ' (Fainaru Fantajī Yūsha ni Hikari Are!), printed inside as “Quest of the Sanctuary ‘Light’”.' }],
     ],
     primary: {
       tags: ['Alternate Universe', 'Gamebook'],
       subtitle: 'Book',
       length: '265p; A6',
-      profileUrl: 'https://ndlsearch.ndl.go.jp/books/R100000002-I000001922850',
+      profileUrl: 'https://ndlsearch.ndl.go.jp/books/R100000002-I000001922850', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77930245' },
       ],

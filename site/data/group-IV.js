@@ -404,7 +404,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
       tags: ['Novel'],
       subtitle: 'Book',
       length: '295p; P',
-      profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/books/10030',
+      profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/books/10030', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77476002' },
       ],

@@ -663,12 +663,12 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
     mediaType: 'Comic', chronoOrder: 3600, narrativeOrder: 960,
     title: 'Final Fantasy XV Official Comic Anthology', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Official_Comic_Anthology', titleDate: { start: '2017-07-27', end: '2017-12-26' },
     mediaDesc: [
-      [{ text: 'Two anthologies of short manga centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum. Released in Japan as ' }, { emText: 'Fainaru Fantajī Fifutīn Kōshiki Comikku Ansorojī' }, { text: ' (ファイナルファンタジーXV 公式コミックアンソロジー).' }],
+      [{ text: 'Two anthologies of short manga centered on Noctis Lucis Caelum, Ignis Scientia, Gladiolus Amicitia, and Prompto Argentum. Released in Japan as ' }, { emText: 'Fainaru Fantajī Fifutīn Kōshiki Comikku Ansorojī' }, { text: ' (' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'XV ' }, { text: '公式コミックアンソロジー', lang: 'ja' }, { text: ').' }],
     ],
     primary: {
       tags: ['Manga'],
       subtitle: 'Comic',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXV%20%E5%85%AC%E5%BC%8F%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXV%20%E5%85%AC%E5%BC%8F%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC', profileHreflang: 'ja',
       length: '2 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/36208245-final-fantasy-xv-official-comic-anthology-2017-7-27' },

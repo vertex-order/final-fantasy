@@ -27,7 +27,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii/9mtv87hfmf43' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/292120/FINAL_FANTASY_XIII/' },
         { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20250116064039/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13' },
-        { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20160122153630/https://itunes.apple.com/jp/app/final-fantasy-xiii-fainarufantajixiii/id960145054' },
+        { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20160122153630/https://itunes.apple.com/jp/app/final-fantasy-xiii-fainarufantajixiii/id960145054', hreflang: 'ja' },
         { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii/bsg43bdrn81r' },
         { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii/bsg43bdrn81r' },
         { key: 'fan-movie', search: 'youtube' },
@@ -67,8 +67,8 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
             { key: 'xbox-360', paren: 'Physical; not on Digital' },
             { key: 'xbox-one', paren: '360 compatibility' },
             { key: 'xbox-xs', paren: '360 compatibility' },
-            { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/' },
-            { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/' },
+            { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
+            { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
           ],
           versionDesc: [
             'The original release. A later patch adds an Easy/Normal difficulty toggle.',
@@ -83,7 +83,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
     by: 'Benny Matsuyama',
     mediaDesc: [
       [{ text: "While the Pulse l'Cie fight to defy their fate and save Cocoon, three citizens—an undercover reporter, a university student, and a pilot—secretly have unique parallel journeys. The story follows them as they stumble upon an ancient plot to destroy Cocoon from within, and their paths eventually converge in a united endeavor to save the floating world." }],
-      [{ text: "Released as " }, { emText: 'ファイナルファンタジーXIII 外伝小説 夢見る繭、暁に墜つ' }, { text: ' (' }, { emText: 'Final Fantasy XIII Gaiden Shōsetsu: Yumemiru Mayu, Akatsuki ni Otsu' }, { text: '), also known as ' }, { emText: 'Final Fantasy XIII Side Story: A Dreaming Cocoon Falls into the Dawn' }, { text: '. Contained in the ' }, { emText: 'Final Fantasy XIII Ultimania Omega' }, { text: ' book.' }],
+      [{ text: "Released as " }, { emText: 'ファイナルファンタジー', lang: 'ja' }, { emText: 'XIII ' }, { emText: '外伝小説 夢見る繭、暁に墜つ', lang: 'ja' }, { text: ' (' }, { emText: 'Final Fantasy XIII Gaiden Shōsetsu: Yumemiru Mayu, Akatsuki ni Otsu' }, { text: '), also known as ' }, { emText: 'Final Fantasy XIII Side Story: A Dreaming Cocoon Falls into the Dawn' }, { text: '. Contained in the ' }, { emText: 'Final Fantasy XIII Ultimania Omega' }, { text: ' book.' }],
     ],
     primary: {
       tags: ['Novella'],
@@ -93,7 +93,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/28466281' },
         { value: 'EN', tip: 'English (fan translation)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Gaiden_Sh%C5%8Dsetsu:_Yumemiru_Mayu,_Akatsuki_ni_Otsu#Fan_translation' },
       ],
-      profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/books/10066',
+      profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/books/10066', profileHreflang: 'ja',
       platforms: [
         {
           key: 'book',
@@ -168,7 +168,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/9mvj3vl1v3vp' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/' },
         { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20250120170603/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13_2' },
-        { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20250114090020/https://gcluster.jp/pc/app/sqex/ff13-2/index.html' },
+        { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20250114090020/https://gcluster.jp/pc/app/sqex/ff13-2/index.html', hreflang: 'ja' },
         { key: 'xbox-xs', paren: 'FPS Boost; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', search: 'youtube' },
@@ -189,8 +189,8 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           platforms: [
             { key: 'steam', paren: 'PC' },
             { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' },
-            { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/' },
-            { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/' },
+            { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
+            { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
           ],
           versionDesc: [
             'This remaster unlocks higher resolutions and up to 60 fps on PC (capped at 30 fps on Xbox One).',
@@ -277,7 +277,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/lightning-returns-final-fantasy-xiii/9plf9mr720sj' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/' },
         { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20240902075537/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13_3' },
-        { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20250114090019/https://gcluster.jp/pc/app/sqex/lrff13/index.html' },
+        { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20250114090019/https://gcluster.jp/pc/app/sqex/lrff13/index.html', hreflang: 'ja' },
         { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg' },
         { key: 'xbox-xs', paren: 'FPS Boost; Digital', url: 'https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'lightning returns final fantasy XIII-3' },
@@ -335,12 +335,12 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       subtitle: 'Web',
       length: '10 episodes',
       languages: [
-        { value: 'JA', native: true, url: 'http://www.famitsu.com/sp/140623_ff13/' },
+        { value: 'JA', native: true, url: 'http://www.famitsu.com/sp/140623_ff13/', hreflang: 'ja' },
         { value: 'EN', tip: 'English (fan translation)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-#External_links' },
       ],
-      profileUrl: 'http://www.famitsu.com/sp/140623_ff13/',
+      profileUrl: 'http://www.famitsu.com/sp/140623_ff13/', profileHreflang: 'ja',
       platforms: [
-        { key: 'globe', name: 'Web Novella', jpTag: true, url: 'http://www.famitsu.com/sp/140623_ff13/' },
+        { key: 'globe', name: 'Web Novella', jpTag: true, url: 'http://www.famitsu.com/sp/140623_ff13/', hreflang: 'ja' },
         { key: 'fan-translation', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII:_Reminiscence_-tracer_of_memories-#External_links' },
         {
           key: 'fan-recap',
@@ -374,7 +374,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       ],
       platforms: [
         { key: 'book', name: 'Novellas', url: 'https://www.goodreads.com/book/show/42080020-final-fantasy-xiii' },
-        { key: 'globe', name: 'Web Novellas (Wayback)', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20091230051142/http://www.square-enix.co.jp/fabula/ff13/' },
+        { key: 'globe', name: 'Web Novellas (Wayback)', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20091230051142/http://www.square-enix.co.jp/fabula/ff13/', hreflang: 'ja' },
         { key: 'fan-translation', search: 'duckduckgo' },
         {
           key: 'fan-audiobook',
@@ -391,13 +391,13 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
         subtitle: 'Audio Drama',
         length: '2 volumes',
         languages: [
-          { value: 'JA', native: true, url: 'http://web.archive.org/web/20180509131833/http://www.square-enix.co.jp:80/music/sem/page/fabula/ff13/drama/' },
+          { value: 'JA', native: true, url: 'http://web.archive.org/web/20180509131833/http://www.square-enix.co.jp:80/music/sem/page/fabula/ff13/drama/', hreflang: 'ja' },
           { value: 'EN', tip: 'English (fan translation)', url: 'https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20audio%20drama' },
         ],
-        profileUrl: 'http://web.archive.org/web/20180509131833/http://www.square-enix.co.jp:80/music/sem/page/fabula/ff13/drama/',
+        profileUrl: 'http://web.archive.org/web/20180509131833/http://www.square-enix.co.jp:80/music/sem/page/fabula/ff13/drama/', profileHreflang: 'ja',
         platforms: [
-          { key: 'compact-disc', paren: 'Alpha', jpTag: true, url: 'http://web.archive.org/web/20140322212736/http://store.jp.square-enix.com/item/music/SQEX-10199' },
-          { key: 'compact-disc', paren: 'Omega', jpTag: true, url: 'http://web.archive.org/web/20140322212710/http://store.jp.square-enix.com/detail/SQEX-10210' },
+          { key: 'compact-disc', paren: 'Alpha', jpTag: true, url: 'http://web.archive.org/web/20140322212736/http://store.jp.square-enix.com/item/music/SQEX-10199', hreflang: 'ja' },
+          { key: 'compact-disc', paren: 'Omega', jpTag: true, url: 'http://web.archive.org/web/20140322212710/http://store.jp.square-enix.com/detail/SQEX-10210', hreflang: 'ja' },
           { key: 'fan-audiobook', searchSuffix: 'audio drama', search: 'youtube', searchTitle: 'final fantasy XIII episode zero promise' },
           { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'final fantasy XIII episode zero promise', noResults: true },
         ],
@@ -537,17 +537,17 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
     title: 'Final Fantasy Type-0: Change the World', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-', titleDate: { start: '2012-04-21', end: '2012-06-28' },
     by: 'Souki Tsukishima',
     mediaDesc: [
-      [{ text: 'A two-volume prequel to ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ': ' }, { emText: 'Change the World -The Answer-' }, { text: ' (Vol.1) and ' }, { emText: 'Change the World -The Penultimate Truth-' }, { text: ' (Vol.2, 最後から二番目の真実).' }],
+      [{ text: 'A two-volume prequel to ' }, { emLinkText: 'Type-0 (2011)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: ': ' }, { emText: 'Change the World -The Answer-' }, { text: ' (Vol.1) and ' }, { emText: 'Change the World -The Penultimate Truth-' }, { text: ' (Vol.2, ' }, { text: '最後から二番目の真実', lang: 'ja' }, { text: ').' }],
       [{ text: 'Told in episodes centered on individual Class Zero cadets and pairs of them, the novels follow what they think and choose during the war between the Crystal-States of Orience. Vol.1 opens with Izana Kunagiri searching for the cadet Ace amid the chaos of the war against the Militesi Empire; Vol.2 completes the story and leads into the events of the game.' }],
       [{ text: 'Also known as ' }, { emText: 'Final Fantasy Type-0 ~The Last Truth~' }, { text: ', the title of its French omnibus edition collecting both volumes.' }],
     ],
     primary: {
       tags: ['Prequel', 'Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/search?s=27&q=Change+the+World',
+      profileUrl: 'https://magazine.jp.square-enix.com/gamebooks/search?s=27&q=Change+the+World', profileHreflang: 'ja',
       length: '2 volumes',
       languages: [
-        { value: 'JA', native: true, url: 'https://magazine.jp.square-enix.com/gamebooks/search?s=27&q=Change+the+World' },
+        { value: 'JA', native: true, url: 'https://magazine.jp.square-enix.com/gamebooks/search?s=27&q=Change+the+World', hreflang: 'ja' },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/49536638-final-fantasy-type-0---the-last-truth' },
         { value: 'EN', tip: 'English (fan translation)', url: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0:_Change_the_World_-The_Answer-#External_links' },
         { value: '…?' },
@@ -578,13 +578,13 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
     primary: {
       tags: ['Spin-off', 'RPG', 'Multiplayer'],
       terminated: true,
-      profileUrl: 'https://web.archive.org/web/20151013060037/http://www.jp.square-enix.com/ff-agito/',
+      profileUrl: 'https://web.archive.org/web/20151013060037/http://www.jp.square-enix.com/ff-agito/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
         { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151128155733/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFAgitoj' },
-        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151112001904/https://itunes.apple.com/jp/app/final-fantasy-agito/id774609884' },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151112001904/https://itunes.apple.com/jp/app/final-fantasy-agito/id774609884', hreflang: 'ja' },
         { key: 'fan-movie', paren: 'Youtube', jpTag: true, search: 'youtube' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', noResults: true },
@@ -601,7 +601,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
     primary: {
       tags: ['Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://magazine.jp.square-enix.com/top/comics/detail/9784757546042/',
+      profileUrl: 'https://magazine.jp.square-enix.com/top/comics/detail/9784757546042/', profileHreflang: 'ja',
       length: '286p; P',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/102911659' },

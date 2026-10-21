@@ -71,7 +71,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
     title: 'Final Fantasy Crystal Chronicles ~Beyond the Endless Sky~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: { start: '2004-01-10', end: '2005-06' },
     by: [{ role: 'adapted', names: 'Ryunosuke Ichikawa' }],
     mediaDesc: [
-      [{ text: 'A manga adaptation of ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル はてなき空の向こうに' }, { text: ', also known as ' }, { emText: '~Hatenaki Sora no Mukō ni~' }, { text: '.' }],
+      [{ text: 'A manga adaptation of ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル はてなき空の向こうに', lang: 'ja' }, { text: ', also known as ' }, { emText: '~Hatenaki Sora no Mukō ni~' }, { text: '.' }],
     ],
     primary: {
       tags: ['Manga'],
@@ -94,7 +94,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
     title: 'Final Fantasy Crystal Chronicles: Chronicle of a Small Village', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels', titleDate: '2004-02-06',
     by: 'Takashi Umemura',
     mediaDesc: [
-      [{ text: 'Prequel novel set a little before ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: ", following Crim, a young caravaner from Tipa who is senior to the game's caravan, and telling episodes the game never covers. Released as " }, { emText: 'FINAL FANTASY CRYSTAL CHRONICLES 小さな村の年代記' }, { text: ' (Chiisana Mura no Nendaiki), also known as ' }, { emText: 'Chronicles of a Small Village' }, { text: '.' }],
+      [{ text: 'Prequel novel set a little before ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: ", following Crim, a young caravaner from Tipa who is senior to the game's caravan, and telling episodes the game never covers. Released as " }, { emText: 'FINAL FANTASY CRYSTAL CHRONICLES ' }, { emText: '小さな村の年代記', lang: 'ja' }, { text: ' (Chiisana Mura no Nendaiki), also known as ' }, { emText: 'Chronicles of a Small Village' }, { text: '.' }],
     ],
     primary: {
       tags: ['Prequel', 'Novel'],
@@ -115,7 +115,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
     mediaType: 'Comic', chronoOrder: 700, narrativeOrder: 170,
     title: 'Final Fantasy Crystal Chronicles: 4-Koma Manga Theater', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga', titleDate: '2004-01-16',
     mediaDesc: [
-      [{ text: 'A 4-panel gag manga anthology based on ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル4コママンガ劇場' }, { text: ', also known as ' }, { emText: 'Final Fantasy Crystal Chronicles: 4-Panel Manga Theater' }, { text: '.' }],
+      [{ text: 'A 4-panel gag manga anthology based on ' }, { emLinkText: 'Crystal Chronicles (2003)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-2003' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル4コママンガ劇場', lang: 'ja' }, { text: ', also known as ' }, { emText: 'Final Fantasy Crystal Chronicles: 4-Panel Manga Theater' }, { text: '.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
@@ -124,7 +124,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77600584' },
       ],
-      profileUrl: 'https://magazine.jp.square-enix.com/top/comics/detail/9784757511224/',
+      profileUrl: 'https://magazine.jp.square-enix.com/top/comics/detail/9784757511224/', profileHreflang: 'ja',
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true, url: 'https://www.goodreads.com/book/show/77600584' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },
@@ -253,7 +253,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
     by: [{ role: 'adapted', names: 'Osamu Kudo' }],
     mediaDesc: [
       [{ text: 'Novelization of the single-player campaign of ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: ', following the twins whose story Princess Teteo watches over.' }],
-      [{ text: 'Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 僕らの世界' }, { text: ' (Bokura no Sekai, literally "Our World").' }],
+      [{ text: 'Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 僕らの世界', lang: 'ja' }, { text: ' (Bokura no Sekai, literally "Our World").' }],
     ],
     primary: {
       tags: ['Novel'],
@@ -262,7 +262,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/search?q=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%20%E5%83%95%E3%82%89%E3%81%AE%E4%B8%96%E7%95%8C' },
       ],
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%20%E5%83%95%E3%82%89%E3%81%AE%E4%B8%96%E7%95%8C',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%20%E5%83%95%E3%82%89%E3%81%AE%E4%B8%96%E7%95%8C', profileHreflang: 'ja',
       platforms: [
         { key: 'book', name: 'Novel', jpTag: true, url: 'https://www.goodreads.com/search?q=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%20%E5%83%95%E3%82%89%E3%81%AE%E4%B8%96%E7%95%8C' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates', searchQualifier: 'novel', noResults: true },
@@ -275,7 +275,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
     mediaType: 'Comic', chronoOrder: -250, narrativeOrder: 550,
     title: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Koma~', titleUrl: 'https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga', titleDate: { start: '2008-03-01', end: '2008-03-31' },
     mediaDesc: [
-      [{ text: 'A 4-panel manga anthology set in the world of ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 4コマアンソロジーコミック' }, { text: ', also known as ' }, { emText: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel~' }, { text: ', ' }, { emText: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~' }, { text: ' and ' }, { emText: 'Final Fantasy Crystal Chronicles Ring of Fates 4 Komaansoroji Komikku' }, { text: '.' }],
+      [{ text: 'A 4-panel manga anthology set in the world of ' }, { emLinkText: 'Ring of Fates (2007)', emLinkUrl: '#entry-CC-final-fantasy-crystal-chronicles-ring-of-fates-2007' }, { text: '. Released as ' }, { emText: 'ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト 4コマアンソロジーコミック', lang: 'ja' }, { text: ', also known as ' }, { emText: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel~' }, { text: ', ' }, { emText: 'Final Fantasy Crystal Chronicles: Ring of Fates ~4-Panel Anthology Comic~' }, { text: ' and ' }, { emText: 'Final Fantasy Crystal Chronicles Ring of Fates 4 Komaansoroji Komikku' }, { text: '.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
@@ -284,7 +284,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/search?q=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%204%E3%82%B3%E3%83%9E%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF' },
       ],
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%204%E3%82%B3%E3%83%9E%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%204%E3%82%B3%E3%83%9E%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC', profileHreflang: 'ja',
       platforms: [
         { key: 'book', name: 'Manga', jpTag: true, url: 'https://www.goodreads.com/search?q=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%204%E3%82%B3%E3%83%9E%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF' },
         { key: 'fan-translation', search: 'duckduckgo', noResults: true },

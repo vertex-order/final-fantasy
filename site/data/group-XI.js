@@ -146,7 +146,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     mediaDesc: [
       [{ text: 'Al, an inexperienced warrior, is led into the shadows of evil lurking in the land after a fateful encounter with a Galka knight and a young white mage.' }],
       [
-        { text: 'Book 1 in the series, released as 祈りの風, also known as ' },
+        { text: 'Book 1 in the series, released as ' }, { text: '祈りの風', lang: 'ja' }, { text: ', also known as ' },
         { emText: 'The Song of the Storm' },
         { text: '.' },
       ],
@@ -155,7 +155,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       tags: ['Light Novel'],
       subtitle: 'Book',
       length: '286p; A6',
-      profileUrl: 'https://www.kadokawa.co.jp/product/200700003832/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200700003832/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/57214633' },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/4641976-final-fantasy-xi-tome-1' },
@@ -184,7 +184,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       tags: ['Prequel', 'Alternate Universe', 'Manhwa', 'Incomplete'],
       subtitle: 'Comic',
       length: '3 issues',
-      profileUrl: 'https://web.archive.org/web/20130305015755/http://www.square-enix.co.jp/magazine/yg/backnumber/backnumber001.shtml',
+      profileUrl: 'https://web.archive.org/web/20130305015755/http://www.square-enix.co.jp/magazine/yg/backnumber/backnumber001.shtml', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
@@ -202,12 +202,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       [{ text: "Rookie warrior Alfred (Al) and his companions continue their journey, sensing an evil dark shadow lurking in Vana'diel." }],
-      [{ text: "Book 2 in the series, released as 星の誓い, also known as " }, { emText: 'Oath of the Stars' }, { text: '.' }],
+      [{ text: 'Book 2 in the series, released as ' }, { text: '星の誓い', lang: 'ja' }, { text: ', also known as ' }, { emText: 'Oath of the Stars' }, { text: '.' }],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/200700003858/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200700003858/', profileHreflang: 'ja',
       length: '287p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/57520205' },
@@ -231,12 +231,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: [{ role: 'adapted', names: 'You Satsuki' }],
     mediaDesc: [
       [{ text: 'Manga adaptation of ' }, { emLinkText: 'Winds of Prayer (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-winds-of-prayer-novel-2002' }, { text: '.' }],
-      [{ text: 'Released as 祈りの風, also known as ' }, { emText: 'Prayer of the Wind' }, { text: ', ' }, { emText: 'Wind of Prayer' }, { text: ' and ' }, { emText: 'Wind of Pray' }, { text: '. Originally published in ' }, { emLinkText: 'Vana Digest (2008)', emLinkUrl: '#entry-XI-final-fantasy-xi-vana-digest-2008' }, { text: '.' }],
+      [{ text: 'Released as ' }, { text: '祈りの風', lang: 'ja' }, { text: ', also known as ' }, { emText: 'Prayer of the Wind' }, { text: ', ' }, { emText: 'Wind of Prayer' }, { text: ' and ' }, { emText: 'Wind of Pray' }, { text: '. Originally published in ' }, { emLinkText: 'Vana Digest (2008)', emLinkUrl: '#entry-XI-final-fantasy-xi-vana-digest-2008' }, { text: '.' }],
     ],
     primary: {
       tags: ['Manga'],
       subtitle: 'Comic',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?auth=%E6%B2%99%E6%9C%88%E3%82%86%E3%81%86&kw=%E7%A5%88%E3%82%8A%E3%81%AE%E9%A2%A8',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?auth=%E6%B2%99%E6%9C%88%E3%82%86%E3%81%86&kw=%E7%A5%88%E3%82%8A%E3%81%AE%E9%A2%A8', profileHreflang: 'ja',
       length: '2 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/78009261' },
@@ -255,12 +255,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       [{ text: 'With the party scattered on their own errands, Al and the others are suddenly called back to Jeuno for a new mission.' }],
-      [{ text: 'Book 3 in the series, released as 永遠の絆, also known as ' }, { emText: 'The Eternal Link' }, { text: ' or ' }, { emText: 'The Covenant of Eternity' }, { text: '.' }],
+      [{ text: 'Book 3 in the series, released as ' }, { text: '永遠の絆', lang: 'ja' }, { text: ', also known as ' }, { emText: 'The Eternal Link' }, { text: ' or ' }, { emText: 'The Covenant of Eternity' }, { text: '.' }],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/200700003876/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200700003876/', profileHreflang: 'ja',
       length: '287p; A6',
       languages: [
         { value: 'JA', native: true },
@@ -284,13 +284,13 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       'A trilogy following the young Hume adventurer Douglas and his companions, beginning with an adventure in Gilgamesh where one mystery leads to another.',
-      "Books 4–6 in the series, released as 護りの剣①②③.",
+      ['Books 4–6 in the series, released as ', { text: '護りの剣①②③', lang: 'ja' }, '.'],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
       length: '3 volumes',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E8%AD%B7%E3%82%8A%E3%81%AE%E5%89%A3',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E8%AD%B7%E3%82%8A%E3%81%AE%E5%89%A3', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/43464339-final-fantasy-xi-tome-4' },
@@ -313,13 +313,13 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       'After some time apart, Alfred and his companions reunite in Jeuno, where a new adventure awaits Iris.',
-      'Book 7 in the series, released as 遥かなる翼.',
+      ['Book 7 in the series, released as ', { text: '遥かなる翼', lang: 'ja' }, '.'],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
       length: '255p; A6',
-      profileUrl: 'https://www.kadokawa.co.jp/product/200700003939/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200700003939/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
         { value: 'DE', url: 'https://www.goodreads.com/book/show/4466882-final-fantasy-xi' },
@@ -341,13 +341,13 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       "A trilogy. Doug, Lynn, and their companions travel to Bastok after Peta hears from her old friend, the Galka knight Max.",
-      'Books 8–10 in the series, released as 騎士の誇り①②③.',
+      ['Books 8–10 in the series, released as ', { text: '騎士の誇り①②③', lang: 'ja' }, '.'],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
       length: '3 volumes',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?auth=%E3%81%AF%E3%81%9B%E3%81%8C%E3%82%8F%E3%81%BF%E3%82%84%E3%81%B3&kw=%E9%A8%8E%E5%A3%AB%E3%81%AE%E8%AA%87%E3%82%8A',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?auth=%E3%81%AF%E3%81%9B%E3%81%8C%E3%82%8F%E3%81%BF%E3%82%84%E3%81%B3&kw=%E9%A8%8E%E5%A3%AB%E3%81%AE%E8%AA%87%E3%82%8A', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
         { value: 'DE', url: 'https://www.goodreads.com/book/show/4466881-final-fantasy-xi' },
@@ -366,12 +366,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Al and Iris attend a friend's wedding. There, Reisha, a spy from San d'Oria, arrives with a request.",
-      "Book 11 in the series, released as 冒険者の休日.",
+      ['Book 11 in the series, released as ', { text: '冒険者の休日', lang: 'ja' }, '.'],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/200700004032/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200700004032/', profileHreflang: 'ja',
       length: '318p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77099305' },
@@ -390,12 +390,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Al's message cuts off with the words \"it's darkness, a vortex of darkness...\" and Iris, Shera, and Peta immediately set out to find Al and Jed.",
-      'Books 12–13 in the series, released as 遠い願い㊤㊦.',
+      ['Books 12–13 in the series, released as ', { text: '遠い願い㊤㊦', lang: 'ja' }, '.'],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E9%81%A0%E3%81%84%E9%A1%98%E3%81%84',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E9%81%A0%E3%81%84%E9%A1%98%E3%81%84', profileHreflang: 'ja',
       length: '2 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77131146' },
@@ -414,12 +414,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       "A two-volume story featuring Al and Iris in action, picking up directly after A Distant Wish.",
-      'Books 14–15 in the series, released as 新たな夢㊤㊦.',
+      ['Books 14–15 in the series, released as ', { text: '新たな夢㊤㊦', lang: 'ja' }, '.'],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?auth=%E3%81%AF%E3%81%9B%E3%81%8C%E3%82%8F%E3%81%BF%E3%82%84%E3%81%B3&kw=%E6%96%B0%E3%81%9F%E3%81%AA%E5%A4%A2',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?auth=%E3%81%AF%E3%81%9B%E3%81%8C%E3%82%8F%E3%81%BF%E3%82%84%E3%81%B3&kw=%E6%96%B0%E3%81%9F%E3%81%AA%E5%A4%A2', profileHreflang: 'ja',
       length: '2 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77686446' },
@@ -438,12 +438,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       'The prelude to the Aht Urhgan saga.',
-      'Book 16 in the series, released as 旅の恵み.',
+      ['Book 16 in the series, released as ', { text: '旅の恵み', lang: 'ja' }, '.'],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/200700004129/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200700004129/', profileHreflang: 'ja',
       length: '287p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77163778' },
@@ -462,12 +462,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Pasha and Nelly, a pair of Mithra thieves in Al Zahbi who dream of marrying into wealth, make their living picking pockets and burgling mansions—until one day they steal something far bigger than they bargained for. The series' first female leads.",
-      'Books 17–19 in the series, released as アトルガンの娘たち①②③.',
+      ['Books 17–19 in the series, released as ', { text: 'アトルガンの娘たち①②③', lang: 'ja' }, '.'],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%82%A2%E3%83%88%E3%83%AB%E3%82%AC%E3%83%B3%E3%81%AE%E5%A8%98%E3%81%9F%E3%81%A1',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%82%A2%E3%83%88%E3%83%AB%E3%82%AC%E3%83%B3%E3%81%AE%E5%A8%98%E3%81%9F%E3%81%A1', profileHreflang: 'ja',
       length: '3 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77185190' },
@@ -486,12 +486,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Opens on a shocking turn of events involving the character Peta.',
-      [{ text: 'Books 20–21 in the series, released as 賢者の遺言㊤㊦, also known as ' }, { emText: 'The Testament of the Sages' }, { text: '.' }],
+      [{ text: 'Books 20–21 in the series, released as ' }, { text: '賢者の遺言㊤㊦', lang: 'ja' }, { text: ', also known as ' }, { emText: 'The Testament of the Sages' }, { text: '.' }],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E8%B3%A2%E8%80%85%E3%81%AE%E9%81%BA%E8%A8%80',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E8%B3%A2%E8%80%85%E3%81%AE%E9%81%BA%E8%A8%80', profileHreflang: 'ja',
       length: '2 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77250550' },
@@ -532,12 +532,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Al and Iris\'s party, staying in Aht Urhgan, encounter a Mithra corsair known as "Lucky Narfah" during a certain adventure, but the man she\'s infatuated with is extremely suspicious.',
-      'Book 22 in the series, released as 幸運の条件.',
+      ['Book 22 in the series, released as ', { text: '幸運の条件', lang: 'ja' }, '.'],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/200707000165/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200707000165/', profileHreflang: 'ja',
       length: '296p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/51275414' },
@@ -556,12 +556,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Al and his companions encounter a baby chocobo in the Floating Swamps of Kadava, and with no owner to be found, Al and Iris decide to raise it themselves, leaving their companions to head to San d'Oria.",
-      "Book 23 in the series, released as ロンフォールの姫騎士.",
+      ['Book 23 in the series, released as ', { text: 'ロンフォールの姫騎士', lang: 'ja' }, '.'],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/200709000325/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200709000325/', profileHreflang: 'ja',
       length: '264p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77698241' },
@@ -580,12 +580,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       [{ text: 'Chance, the chocobo raised by Al and Iris, is in danger, and the pair return to Aht Urhgan, where their comrades await.' }],
-      [{ text: 'Book 24 in the series, released as 星のいざない, also known as ' }, { emText: 'Starfall' }, { text: '.' }],
+      [{ text: 'Book 24 in the series, released as ' }, { text: '星のいざない', lang: 'ja' }, { text: ', also known as ' }, { emText: 'Starfall' }, { text: '.' }],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/200712000062/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200712000062/', profileHreflang: 'ja',
       length: '264p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77709037' },
@@ -604,12 +604,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Dark Knight Larry finds himself helping a troublesome young black mage girl named Bee, and before he knows it, the two are traveling together hunting monsters, armed with his "Beast Photographer."',
-      'Book 25 in the series, released as ハッピーギフト.',
+      ['Book 25 in the series, released as ', { text: 'ハッピーギフト', lang: 'ja' }, '.'],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/200803000263/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200803000263/', profileHreflang: 'ja',
       length: '328p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77438179' },
@@ -628,12 +628,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       "Doug, Rin, and the others search for Tikki's mother until a stranger arrives with a letter from her, written twenty years ago.",
-      [{ text: 'Books 26–28 in the series, released as 彼方からの伝言①②③, also known as ' }, { emText: 'Messages from Afar' }, { text: '.' }],
+      [{ text: 'Books 26–28 in the series, released as ' }, { text: '彼方からの伝言①②③', lang: 'ja' }, { text: ', also known as ' }, { emText: 'Messages from Afar' }, { text: '.' }],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E5%BD%BC%E6%96%B9%E3%81%8B%E3%82%89%E3%81%AE%E4%BC%9D%E8%A8%80',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E5%BD%BC%E6%96%B9%E3%81%8B%E3%82%89%E3%81%AE%E4%BC%9D%E8%A8%80', profileHreflang: 'ja',
       length: '3 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77778217' },
@@ -651,12 +651,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~Anthology~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Short_Stories', titleDate: '2009-01-30',
     mediaDesc: [
       [{ text: 'Anthology of three short stories.' }],
-      [{ text: 'Book 29 in the series, released as アンソロジー短編集みんなで大冒険！！, also known as ' }, { emText: 'An Anthology of Short Stories: A Great Adventure for Everyone!!' }, { text: '.' }],
+      [{ text: 'Book 29 in the series, released as ' }, { text: 'アンソロジー短編集みんなで大冒険！！', lang: 'ja' }, { text: ', also known as ' }, { emText: 'An Anthology of Short Stories: A Great Adventure for Everyone!!' }, { text: '.' }],
     ],
     primary: {
       tags: ['Light Novel', 'Short Stories'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/200812000129/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200812000129/', profileHreflang: 'ja',
       length: '328p; A6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77470246' },
@@ -675,12 +675,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     by: 'Miyabi Hasegawa',
     mediaDesc: [
       'Ron, a modestly skilled adventurer raised in Windurst, is dragged by his childhood friend Shari into searching for the Book of Gods, said to be in the hands of the thief Nanaa Mihgo.',
-      'Books 30–32 in the series, released as ザルカバードの鼓動①②③.',
+      ['Books 30–32 in the series, released as ', { text: 'ザルカバードの鼓動①②③', lang: 'ja' }, '.'],
     ],
     primary: {
       tags: ['Light Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%82%B6%E3%83%AB%E3%82%AB%E3%83%90%E3%83%BC%E3%83%89%E3%81%AE%E9%BC%93%E5%8B%95',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%82%B6%E3%83%AB%E3%82%AB%E3%83%90%E3%83%BC%E3%83%89%E3%81%AE%E9%BC%93%E5%8B%95', profileHreflang: 'ja',
       length: '3 volumes',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77328971' },
@@ -698,12 +698,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~Songs of the Endless Earth~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books', titleDate: '2015-12',
     by: 'Miyabi Hasegawa',
     mediaDesc: [
-      [{ text: "A month after the crisis of Escafication, Vana'diel was slowly returning to normal. A sailing ship drifting along the South Ocean route encounters a colossal monster, marking the start of a new incident across Vana'diel, Tavnazia, and Reisenjima. Released as 終わりなき大地の唄, also known as " }, { emText: 'The Song of the Endless Land' }, { text: '.' }],
+      [{ text: "A month after the crisis of Escafication, Vana'diel was slowly returning to normal. A sailing ship drifting along the South Ocean route encounters a colossal monster, marking the start of a new incident across Vana'diel, Tavnazia, and Reisenjima. Released as " }, { text: '終わりなき大地の唄', lang: 'ja' }, { text: ', also known as ' }, { emText: 'The Song of the Endless Land' }, { text: '.' }],
     ],
     primary: {
       tags: ['Novel'],
       subtitle: 'Book',
-      profileUrl: 'https://www.kadokawa.co.jp/product/321509000280/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/321509000280/', profileHreflang: 'ja',
       length: '320p; B6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/69235773' },
@@ -721,12 +721,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~Love in the Sky 1·2·3!~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Personal_Collection_-_Misc', titleDate: { start: '2005-08', end: '2010-04' },
     by: 'Fumio Minagawa',
     mediaDesc: [
-      [{ text: 'A school-romance slapstick comedy manga for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', released as 恋の空蝉1・2・3! (Koi no Utsusemi) and collected in the art book ' }, { emText: 'Final Fantasy XI Minagawa Fumio Illustrations' }, { text: " (ファイナルファンタジーXI 皆川史生イラストレーションズ). Originally published in " }, { emLinkText: "Vana'diel Communications (2005)", emLinkUrl: '#entry-XI-final-fantasy-xi-vanadiel-communications-2005' }, { text: ", and compiled in the appendix of 5th Anniversary Vana'diel Memoirs." }],
+      [{ text: 'A school-romance slapstick comedy manga for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', released as ' }, { text: '恋の空蝉1・2・3!', lang: 'ja' }, { text: ' (Koi no Utsusemi) and collected in the art book ' }, { emText: 'Final Fantasy XI Minagawa Fumio Illustrations' }, { text: ' (' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'XI ' }, { text: '皆川史生イラストレーションズ', lang: 'ja' }, { text: '). Originally published in ' }, { emLinkText: "Vana'diel Communications (2005)", emLinkUrl: '#entry-XI-final-fantasy-xi-vanadiel-communications-2005' }, { text: ", and compiled in the appendix of 5th Anniversary Vana'diel Memoirs." }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
-      profileUrl: 'https://www.kadokawa.co.jp/product/321810000635/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/321810000635/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/58665646' },
       ],
@@ -742,14 +742,14 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     mediaType: 'Comic', chronoOrder: 5055, narrativeOrder: 636.5, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Anthology Comic~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Bros_Anthology_-_Original', titleDate: { start: '2002-12', end: '2008-03-31' },
     mediaDesc: [
-      [{ text: 'A long-running anthology of comics about the adventurers and inhabitants of ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ", released as ファイナルファンタジーXI アンソロジーコミック in subtitled volumes and short series, plus short comic collections." }],
+      [{ text: 'A long-running anthology of comics about the adventurers and inhabitants of ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', released as ' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'XI ' }, { text: 'アンソロジーコミック', lang: 'ja' }, { text: ' in subtitled volumes and short series, plus short comic collections.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '54 volumes',
       searchTitle: 'ファイナルファンタジーXI アンソロジーコミック',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%20%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%20%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/search?q=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%20%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF' },
       ],
@@ -794,7 +794,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     mediaType: 'Comic', chronoOrder: 5056, narrativeOrder: 636.6, narrativeSection: 'Main',
     title: "Final Fantasy XI ~Vana'diel Petit~", titleUrl: "https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#Vana'diel_Petit", titleDate: { start: '2005-10', end: '2006-06' },
     mediaDesc: [
-      [{ text: 'Special editions of the Enterbrain anthology comic and novel series for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', issued as supplements to Famitsu PlayStation2: short comics about the adventurers, two booklets of short novel stories, and features such as a Mithra NPC encyclopedia. Released as ヴァナ・ディール通信プチ (ヴァナ通ぷち).' }],
+      [{ text: 'Special editions of the Enterbrain anthology comic and novel series for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ', issued as supplements to Famitsu PlayStation2: short comics about the adventurers, two booklets of short novel stories, and features such as a Mithra NPC encyclopedia. Released as ' }, { text: 'ヴァナ・ディール通信プチ', lang: 'ja' }, { text: ' (' }, { text: 'ヴァナ通ぷち', lang: 'ja' }, { text: ').' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
@@ -823,9 +823,9 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
   },
   {
     mediaType: 'Comic', chronoOrder: 5056.5, narrativeOrder: 636.65, narrativeSection: 'Main',
-    title: "Final Fantasy XI ~Vana'diel Communications~", titleUrl: 'http://elemen.jp/ff11/contents/goods/guidebook_enterbrain.html', titleDate: { start: '2005-08', end: '2010-04' },
+    title: "Final Fantasy XI ~Vana'diel Communications~", titleUrl: 'http://elemen.jp/ff11/contents/goods/guidebook_enterbrain.html', titleHreflang: 'ja', titleDate: { start: '2005-08', end: '2010-04' },
     mediaDesc: [
-      [{ text: "Enterbrain's fan-book mooks for " }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ", full of guides, interviews, gag corners and DVDs, with serial manga by community artists such as Minagawa, Haru and Ponkichi, including " }, { emLinkText: 'Love in the Sky 1·2·3!', emLinkUrl: '#entry-XI-final-fantasy-xi-love-in-the-sky-1-2-3-2005' }, { text: '. Only the issues that carry manga are listed. Released as ヴァナ・ディール通信 (ヴァナ通).' }],
+      [{ text: "Enterbrain's fan-book mooks for " }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ", full of guides, interviews, gag corners and DVDs, with serial manga by community artists such as Minagawa, Haru and Ponkichi, including " }, { emLinkText: 'Love in the Sky 1·2·3!', emLinkUrl: '#entry-XI-final-fantasy-xi-love-in-the-sky-1-2-3-2005' }, { text: '. Only the issues that carry manga are listed. Released as ' }, { text: 'ヴァナ・ディール通信', lang: 'ja' }, { text: ' (' }, { text: 'ヴァナ通', lang: 'ja' }, { text: ').' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
@@ -833,7 +833,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: '13 issues',
       contentsLabel: 'issues',
       searchTitle: 'ヴァナ・ディール通信',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%B4%E3%82%A1%E3%83%8A%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BC%E3%83%AB%E9%80%9A%E4%BF%A1',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%B4%E3%82%A1%E3%83%8A%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BC%E3%83%AB%E9%80%9A%E4%BF%A1', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
@@ -868,7 +868,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '13 volumes',
-      profileUrl: 'https://ohzora.jp/?s=FINAL+FANTASY+XI',
+      profileUrl: 'https://ohzora.jp/?s=FINAL+FANTASY+XI', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/84686270' },
       ],
@@ -903,7 +903,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '22 volumes',
-      profileUrl: 'https://www.kadokawa.co.jp/product/200700002835/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200700002835/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
@@ -948,7 +948,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '3 volumes',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?auth=%E3%81%8A%E3%81%8A%E3%81%A4%E3%81%8D%E3%81%B9%E3%82%8B%E3%81%AE&label=192',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?auth=%E3%81%8A%E3%81%8A%E3%81%A4%E3%81%8D%E3%81%B9%E3%82%8B%E3%81%AE&label=192', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/78012577' },
       ],
@@ -965,9 +965,9 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
   },
   {
     mediaType: 'Comic', chronoOrder: 5059.5, narrativeOrder: 636.95, narrativeSection: 'Main',
-    title: 'Final Fantasy XI ~Vana Digest~', titleUrl: 'https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%B4%E3%82%A1%E3%83%8A%E9%80%9A', titleDate: { start: '2008-08-25', end: '2010-03-15' },
+    title: 'Final Fantasy XI ~Vana Digest~', titleUrl: 'https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%B4%E3%82%A1%E3%83%8A%E9%80%9A', titleHreflang: 'ja', titleDate: { start: '2008-08-25', end: '2010-03-15' },
     mediaDesc: [
-      [{ text: 'A comic anthology magazine about the adventurers and non-player characters of ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ': short comics themed each volume on the NPCs of a country or a race, serials, and strips from guest artists. Released as コミックヴァナ通 (Comic Vana-tsu).' }],
+      [{ text: 'A comic anthology magazine about the adventurers and non-player characters of ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ': short comics themed each volume on the NPCs of a country or a race, serials, and strips from guest artists. Released as ' }, { text: 'コミックヴァナ通', lang: 'ja' }, { text: ' (Comic Vana-tsu).' }],
       [{ text: 'Also included elsewhere: ' }, { emLinkText: 'Winds of Prayer (Manga)', emLinkUrl: '#entry-XI-final-fantasy-xi-winds-of-prayer-manga-2008' }, { text: ', the Boy meets Girl series in ' }, { emLinkText: 'Claude and Haru', emLinkUrl: '#entry-XI-final-fantasy-xi-claude-and-haru-2010' }, { text: ' and Ribbon in ' }, { emLinkText: 'Artist Collections', emLinkUrl: '#entry-XI-final-fantasy-xi-artist-collections-2005' }, { text: '.' }],
     ],
     primary: {
@@ -975,9 +975,9 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       subtitle: 'Comic',
       length: '7 volumes',
       searchTitle: 'コミックヴァナ通',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%B4%E3%82%A1%E3%83%8A%E9%80%9A',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%B4%E3%82%A1%E3%83%8A%E9%80%9A', profileHreflang: 'ja',
       languages: [
-        { value: 'JA', native: true, url: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%B4%E3%82%A1%E3%83%8A%E9%80%9A' },
+        { value: 'JA', native: true, url: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%B4%E3%82%A1%E3%83%8A%E9%80%9A', hreflang: 'ja' },
       ],
       contents: [
         { title: 'Jeuno NPCs', titleDate: '2008-08-25', searchTitle: 'vol.01 9784757744097' },
@@ -999,7 +999,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~Vana Panel~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Guides#Famitsu', titleDate: { start: '2008-10-27', end: '2008-12-27' },
     mediaDesc: [
       [{ text: 'Four-panel comics about life in ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ' by the serial artists of the online-game magazine Famitsu Connect!On, among them Haruu, Ponkichi and Suzume, whose books are in ' }, { emLinkText: 'Artist Collections', emLinkUrl: '#entry-XI-final-fantasy-xi-artist-collections-2005' }, { text: '.' }],
-      [{ text: 'Bundled with two issues of the magazine, read from the back cover of the screenshot booklet ' }, { emText: 'Fun Book' }, { text: '. Released as ヴァナ・コマ (Vana Panel).' }],
+      [{ text: 'Bundled with two issues of the magazine, read from the back cover of the screenshot booklet ' }, { emText: 'Fun Book' }, { text: '. Released as ' }, { text: 'ヴァナ・コマ', lang: 'ja' }, { text: ' (Vana Panel).' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
@@ -1025,13 +1025,13 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~Lightning Brigade 4-Koma Manga~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: { start: '2004-02-20', end: '2007-03-23' },
     by: 'Hijiri Emoto',
     mediaDesc: [
-      [{ text: 'Four-panel comics about ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: " from the Dengeki Brigade, drawn for the Dengeki PlayStation series with new strips added, following the game from its launch. Released as 電撃・えふえふいれぶん・4コマ・マンガ NO.1・NO.2." }],
+      [{ text: 'Four-panel comics about ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ' from the Dengeki Brigade, drawn for the Dengeki PlayStation series with new strips added, following the game from its launch. Released as ' }, { text: '電撃・えふえふいれぶん・4コマ・マンガ', lang: 'ja' }, { text: ' NO.1・NO.2.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '2 volumes',
-      profileUrl: 'https://www.kadokawa.co.jp/product/200401000507/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200401000507/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77594373' },
       ],
@@ -1046,7 +1046,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~Lightning Brigade Guides~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Guides', titleDate: { start: '2003-04-04', end: '2013-03-12' },
     mediaDesc: [
       [{ text: 'A long-running series of guides and companion books by the Lightning Brigade, the Dengeki PlayStation writers for ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: " who play as a group of characters you follow and come to know. Part strategy guide, part account of their adventures (\"we did this quest, here's what happened\"), and part four-panel manga, often humorous, that brings them to life, with dozens to hundreds of all-new strips per book." }],
-      [{ text: 'Also included elsewhere: ' }, { emLinkText: 'Dengeki 4-Koma International', emLinkUrl: '#entry-XI-final-fantasy-xi-dengeki-4-koma-international-2004' }, { text: ' (the English strips of Vol.1 and Vol.2). Some books repeat content from other books in the series. Released as 電撃の旅団編 ヴァナ・ディール公式ワールドガイド.' }],
+      [{ text: 'Also included elsewhere: ' }, { emLinkText: 'Dengeki 4-Koma International', emLinkUrl: '#entry-XI-final-fantasy-xi-dengeki-4-koma-international-2004' }, { text: ' (the English strips of Vol.1 and Vol.2). Some books repeat content from other books in the series. Released as ' }, { text: '電撃の旅団編 ヴァナ・ディール公式ワールドガイド', lang: 'ja' }, { text: '.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
@@ -1054,7 +1054,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: '20 books',
       contentsLabel: 'books',
       searchTitle: 'Final Fantasy XI Lightning Brigade',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E9%9B%BB%E6%92%83%E3%81%AE%E6%97%85%E5%9B%A3',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E9%9B%BB%E6%92%83%E3%81%AE%E6%97%85%E5%9B%A3', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77422157' },
       ],
@@ -1091,12 +1091,12 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: 'Final Fantasy XI ~Dengeki 4-Koma International~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: '2004-08-27',
     by: 'Hijiri Emoto',
     mediaDesc: [
-      [{ text: 'English translations of four-panel comics about ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ' from the Dengeki Brigade, with the Japanese alongside. Released as 電撃4コマインターナショナル ヴァナ・ディールで使える英単語/英会話.' }],
+      [{ text: 'English translations of four-panel comics about ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: ' from the Dengeki Brigade, with the Japanese alongside. Released as ' }, { text: '電撃4コマインターナショナル ヴァナ・ディールで使える英単語', lang: 'ja' }, { text: '/' }, { text: '英会話', lang: 'ja' }, { text: '.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
-      profileUrl: 'https://www.kadokawa.co.jp/product/200408000116/',
+      profileUrl: 'https://www.kadokawa.co.jp/product/200408000116/', profileHreflang: 'ja',
       length: '402p; B6',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77555347' },
@@ -1111,13 +1111,13 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     mediaType: 'Comic', chronoOrder: 5075, narrativeOrder: 638, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~4-Panel Anthology Comic~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma_-_Bros', titleDate: { start: '2004-09-25', end: '2006-02-25' },
     mediaDesc: [
-      [{ text: 'An anthology of four-panel comics by many artists about daily life in the world of ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '. Released as ファイナルファンタジーXI 4コマアンソロジーコミック.' }],
+      [{ text: 'An anthology of four-panel comics by many artists about daily life in the world of ' }, { emLinkText: 'XI (2002)', emLinkUrl: '#entry-XI-final-fantasy-xi-online-2002' }, { text: '. Released as ' }, { text: 'ファイナルファンタジー', lang: 'ja' }, { text: 'XI 4' }, { text: 'コマアンソロジーコミック', lang: 'ja' }, { text: '.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '10 volumes',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%204%E3%82%B3%E3%83%9E',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%204%E3%82%B3%E3%83%9E', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/search?q=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI%204%E3%82%B3%E3%83%9E' },
       ],
@@ -1144,13 +1144,13 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     title: "Final Fantasy XI ~The Beast's Path~", titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Manga#4-Koma', titleDate: '2007-03-09',
     by: 'Hijiri Emoto',
     mediaDesc: [
-      [{ text: "A story four-panel comic following the Tarutaru Oru and his companions through a relaxed adventuring life in Vana'diel. Released as 獣の花道 FFXI・電撃の旅団外伝." }],
+      [{ text: "A story four-panel comic following the Tarutaru Oru and his companions through a relaxed adventuring life in Vana'diel. Released as " }, { text: '獣の花道', lang: 'ja' }, { text: ' FFXI・' }, { text: '電撃の旅団外伝', lang: 'ja' }, { text: '.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Manga'],
       subtitle: 'Comic',
       length: '2 volumes',
-      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E7%8D%A3%E3%81%AE%E8%8A%B1%E9%81%93',
+      profileUrl: 'https://www.kadokawa.co.jp/product/search/?kw=%E7%8D%A3%E3%81%AE%E8%8A%B1%E9%81%93', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/search?q=%E7%8D%A3%E3%81%AE%E8%8A%B1%E9%81%93' },
       ],
@@ -1186,13 +1186,13 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     mediaType: 'Book', chronoOrder: 5160, narrativeOrder: 643, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Minstrel of Strange Tales: Replica Script~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2024-02',
     mediaDesc: [
-      [{ text: 'A replica script for the reading drama\'s five strange tales: "Mimiroon\'s Sparkling Great Adventure", "Go For It! Allied Forces of Altana: Extreme Survival", "Seaside Serpent Taro", "A Small Gift For A Small Friend", and "Black Night Butterfly". Released as 朗読劇 : 異聞のウタイビト : 複製台本, also known as ' }, { emText: 'Reading Drama: Minstrel of Strange Tales: Replica Script' }, { text: '.' }],
+      [{ text: 'A replica script for the reading drama\'s five strange tales: "Mimiroon\'s Sparkling Great Adventure", "Go For It! Allied Forces of Altana: Extreme Survival", "Seaside Serpent Taro", "A Small Gift For A Small Friend", and "Black Night Butterfly". Released as ' }, { text: '朗読劇', lang: 'ja' }, { text: ' : ' }, { text: '異聞のウタイビト', lang: 'ja' }, { text: ' : ' }, { text: '複製台本', lang: 'ja' }, { text: ', also known as ' }, { emText: 'Reading Drama: Minstrel of Strange Tales: Replica Script' }, { text: '.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Short Stories'],
       subtitle: 'Book',
       length: '96p; B5',
-      profileUrl: 'https://store.kadokawa.co.jp/shop/g/g4942330227312/',
+      profileUrl: 'https://store.kadokawa.co.jp/shop/g/g4942330227312/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
@@ -1208,13 +1208,13 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     mediaType: 'Book', chronoOrder: 5170, narrativeOrder: 644, narrativeSection: 'Main',
     title: 'Final Fantasy XI ~Minstrel of Fantasies: Replica Script~', titleUrl: 'https://www.bg-wiki.com/ffxi/Media,_Merchandise,_and_More/Publications/Books#Books', titleDate: '2025-03',
     mediaDesc: [
-      [{ text: 'A replica script for the reading drama\'s stories of love and reunion across time and space: "Temple of the Heart\'s Secret" (a Star Sibyl story), "Girl of the Underworld" (an Aphmau story), "Blue Mage Blues" (a Blue Mage story), and "Memoirs of the Many-Headed Hydra -Memories of Heroes-" (a Hydra Squadron story). Released as 朗読劇 : 夢幻のウタイビト : 複製台本, also known as ' }, { emText: 'Reading Drama: Minstrel of Fantasies: Replica Script' }, { text: '.' }],
+      [{ text: 'A replica script for the reading drama\'s stories of love and reunion across time and space: "Temple of the Heart\'s Secret" (a Star Sibyl story), "Girl of the Underworld" (an Aphmau story), "Blue Mage Blues" (a Blue Mage story), and "Memoirs of the Many-Headed Hydra -Memories of Heroes-" (a Hydra Squadron story). Released as ' }, { text: '朗読劇', lang: 'ja' }, { text: ' : ' }, { text: '夢幻のウタイビト', lang: 'ja' }, { text: ' : ' }, { text: '複製台本', lang: 'ja' }, { text: ', also known as ' }, { emText: 'Reading Drama: Minstrel of Fantasies: Replica Script' }, { text: '.' }],
     ],
     primary: {
       tags: ['Tie-in', 'Short Stories'],
       subtitle: 'Book',
       length: '96p; B5',
-      profileUrl: 'https://store.kadokawa.co.jp/shop/g/g4942330370001/',
+      profileUrl: 'https://store.kadokawa.co.jp/shop/g/g4942330370001/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
@@ -1236,13 +1236,13 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
     primary: {
       tags: ['Spin-off', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Mobile', 'Jobs', 'Active Time Battle'],
       terminated: true,
-      profileUrl: 'https://web.archive.org/web/20151117042801/http://www.jp.square-enix.com/FFGM/',
+      profileUrl: 'https://web.archive.org/web/20151117042801/http://www.jp.square-enix.com/FFGM/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
         { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20190824064747/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffgm' },
-        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20190822052100/https://apps.apple.com/jp/app/id1011102761' },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20190822052100/https://apps.apple.com/jp/app/id1011102761', hreflang: 'ja' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
     },

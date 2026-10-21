@@ -65,7 +65,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
   },
   {
     mediaType: 'Comic', chronoOrder: 150, narrativeOrder: 150,
-    title: 'Seiken Densetsu: Final Fantasy Gaiden Guidebooks', titleUrl: 'https://ja.wikipedia.org/wiki/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC_%E3%80%9C%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E5%A4%96%E4%BC%9D%E3%80%9C', titleDate: { start: '1991-05-31', end: '1991-08-10' },
+    title: 'Seiken Densetsu: Final Fantasy Gaiden Guidebooks', titleUrl: 'https://ja.wikipedia.org/wiki/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC_%E3%80%9C%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E5%A4%96%E4%BC%9D%E3%80%9C', titleHreflang: 'ja', titleDate: { start: '1991-05-31', end: '1991-08-10' },
     mediaDesc: [
       [{ text: 'Official strategy guidebooks for ' }, { emLinkText: 'Final Fantasy Adventure (1991)', emLinkUrl: '#entry-Other-final-fantasy-adventure-1991' }, { text: ', with character illustrations and manga.' }],
     ],
@@ -339,7 +339,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     primary: {
       tags: ['Mashup', 'Dot logic puzzle', 'RPG', 'Single-player', 'Multiplayer', 'Co-op'],
       terminated: true,
-      profileUrl: 'https://web.archive.org/web/20170310061304/http://www.jp.square-enix.com/p_ff/',
+      profileUrl: 'https://web.archive.org/web/20170310061304/http://www.jp.square-enix.com/p_ff/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
@@ -349,7 +349,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       length: [{ value: '20h', tip: 'Main Story', join: ' / ' }, { value: '34h', tip: 'Main + Extra', join: ' / ' }, { value: '47½h', tip: 'Completionist' }],
       platforms: [
         { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20161011031113/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.pictlogicaff' },
-        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20160625171900/https://itunes.apple.com/jp/app/pictlogica-final-fantasy/id715441573' },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20160625171900/https://itunes.apple.com/jp/app/pictlogica-final-fantasy/id715441573', hreflang: 'ja' },
         { key: 'nintendo-3ds', jpTag: true, terminated: true, paren: 'Digital' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
@@ -365,12 +365,12 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     primary: {
       tags: ['Mashup', 'Typing RPG', 'Mobile', 'Free-to-play', 'Multiplayer'],
       terminated: true,
-      profileUrl: 'https://web.archive.org/web/20150206053603/http://www.jp.square-enix.com/ff_www/',
+      profileUrl: 'https://web.archive.org/web/20150206053603/http://www.jp.square-enix.com/ff_www/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150616025539/https://itunes.apple.com/jp/app/final-fantasy-world-wide-words/id900312607?mt=8' },
+        { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150616025539/https://itunes.apple.com/jp/app/final-fantasy-world-wide-words/id900312607?mt=8', hreflang: 'ja' },
         { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151128160812/https://play.google.com/store/apps/details?id=com.square_enix.ffwww' },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy World Wide Words' },
       ],
@@ -438,17 +438,17 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     mediaDesc: [
       [{ text: 'Players deployed various characters and creatures from the Final Fantasy series in a board to compete with one another.' }],
       [{ text: 'Incorporates existing series and titles.' }],
-      'Also known as ファイナルファンタジー デジタルカードゲーム (Final Fantasy Dejitaru Kādo Gēmu).',
+      ['Also known as ', { text: 'ファイナルファンタジー デジタルカードゲーム', lang: 'ja' }, ' (Final Fantasy Dejitaru Kādo Gēmu).'],
     ],
     primary: {
       tags: ['Mashup', 'Card game', 'Free-to-play', 'In-app purchases', 'Multiplayer'],
       terminated: true,
-      profileUrl: 'https://web.archive.org/web/20200702055727/https://www.jp.square-enix.com/ffdcg/',
+      profileUrl: 'https://web.archive.org/web/20200702055727/https://www.jp.square-enix.com/ffdcg/', profileHreflang: 'ja',
       languages: [
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'globe', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20200513022613/https://games.yahoo.co.jp/ffdcg' },
+        { key: 'globe', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20200513022613/https://games.yahoo.co.jp/ffdcg', hreflang: 'ja' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
