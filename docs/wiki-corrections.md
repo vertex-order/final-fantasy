@@ -139,6 +139,14 @@ value, ours, and why, so the corrections can be reported upstream.
 - Reason: Square Enix's PSP-era site (Wayback 2011-10-11) describes both modes and the entry text
   itself claims multiplayer, but the banner is read as automatic; no Co-Optimus statement checked.
 
+### Japanese Wikipedia: Final Fantasy series list (Final Fantasy Awakening closing dates)
+
+- Page: https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 (the Agito / Type-0 Online entry)
+- Says: the China (2016) and English (2018) versions of Final Fantasy Awakening "いずれも2020年にサービス終了" (both ended service in 2020).
+- Should be: the English version closed on 2019-10-31 (en.wikipedia, citing Oasis Games); the OASIS Android page is 404 from 2019-10-05 in Wayback; the Final Fantasy Wiki says the original (China) version closed 2020-05-18.
+- Our source: [final-fantasy-awakening-2016.md](../sources/final-fantasy-awakening-2016.md)
+- Reason: candidate only: the sentence may mean the Chinese closing (2020) for both; the English start year (2018) is also unchecked (the OASIS Play page was live by 2018-12-08).
+
 ### Wikipedia: Final Fantasy XV (Multiplayer shutdown)
 
 - Page: https://wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer
