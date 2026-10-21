@@ -191,6 +191,8 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
 - https://apps.apple.com/us/app/final-fantasy/id354972939 -- the "Remaster 2007" iOS row (now struck) -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
   - FINAL FANTASY (20th Anniversary engine), released 2010-02-25 per the Final Fantasy Wiki; the app page is gone (404); the capture shows version 1.1.4: https://web.archive.org/web/20210123061113/https://apps.apple.com/us/app/final-fantasy/id354972939
 
+- The iOS `portal` row links the last App Store capture of the Portal App that lists the Portal Versions (2023-08-05; the Portal App page is shared with Final Fantasy and II): https://web.archive.org/web/20230805063250/https://apps.apple.com/app/final-fantasy-portal-app/id933149812 -- see final-fantasy-portal-app-triple-triad-2015.md
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

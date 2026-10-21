@@ -29,6 +29,14 @@
 
 - https://www.metacritic.com/game/final-fantasy-portal-app/
 
+## apps.apple.com (Platform; iOS)
+
+- https://apps.apple.com/us/app/final-fantasy-portal-app/id933149812 -- the iOS row, and the iOS `portal` rows of Final Fantasy and II -- accessed 2026-10-21 (Wayback captures read by me)
+  - The app page is live; its description today names only the point system, news and wallpapers, no in-app games
+  - Descriptions with the in-app games: captures from 2020-01-15 to 2023-08-05 say you can play Triple Triad, "FINAL FANTASY (Portal Version)" and "FINAL FANTASY II (Portal Version)" (not compatible with the non-Portal apps of the same name); the capture of 2023-12-31 (the next one) has dropped both Portal Versions and keeps Triple Triad; the capture of 2024-11-24 still lists Triple Triad and that of 2024-11-27 does not (closed 2024-11-26)
+  - The Triple Triad row links the capture of 2024-11-24: https://web.archive.org/web/20241124160321/https://apps.apple.com/us/app/final-fantasy-portal-app/id933149812
+  - The Final Fantasy and II `portal` rows link the capture of 2023-08-05, the last one that lists the Portal Versions: https://web.archive.org/web/20230805063250/https://apps.apple.com/app/final-fantasy-portal-app/id933149812
+
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Other_games -- dates*, platforms*, tags -- accessed 2026-09-22

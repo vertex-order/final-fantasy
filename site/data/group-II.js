@@ -64,7 +64,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
           platforms: [
             { key: 'android2', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20201127015350/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.finalfantasy2' },
             { key: 'android2', suffix: 'portal', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20231211133701/https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay' },
-            { key: 'apple', suffix: 'portal', terminated: true, paren: 'Digital' },
+            { key: 'apple', suffix: 'portal', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20230805063250/https://apps.apple.com/app/final-fantasy-portal-app/id933149812' },
           ],
           versionDesc: [
             [{ text: 'This mobile edit reworks the UI for touch controls, reduces music quality, and removes the Art Gallery and Item Collection. Includes the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign. Also playable inside the Final Fantasy Portal App.' }],

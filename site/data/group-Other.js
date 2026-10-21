@@ -427,7 +427,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       ],
       platforms: [
         { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20240909220125/https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay' },
-        { key: 'apple', terminated: true },
+        { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20241124160321/https://apps.apple.com/us/app/final-fantasy-portal-app/id933149812' },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy Portal App Triple Triad' },
       ],
     },

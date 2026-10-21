@@ -233,7 +233,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
           platforms: [
             { key: 'android2', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20210603211025/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.finalfantasy' },
             { key: 'android2', suffix: 'portal', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20231211133701/https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay' },
-            { key: 'apple', suffix: 'portal', terminated: true, paren: 'Digital' },
+            { key: 'apple', suffix: 'portal', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20230805063250/https://apps.apple.com/app/final-fantasy-portal-app/id933149812' },
           ],
           versionDesc: [
             ['This remaster has higher resolution 2D graphics, ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, ' sequences, remixed soundtrack from Remaster (2007). No bonus content. Also playable inside the Final Fantasy Portal App.'],
