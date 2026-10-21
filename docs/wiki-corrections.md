@@ -147,6 +147,14 @@ value, ours, and why, so the corrections can be reported upstream.
 - Our source: [final-fantasy-awakening-2016.md](../sources/final-fantasy-awakening-2016.md)
 - Reason: candidate only: the sentence may mean the Chinese closing (2020) for both; the English start year (2018) is also unchecked (the OASIS Play page was live by 2018-12-08).
 
+### Wikipedia: Final Fantasy XV: A New Empire (release date, infobox against text)
+
+- Page: https://en.wikipedia.org/wiki/Final_Fantasy_XV:_A_New_Empire
+- Says: the infobox gives the release as June 29, 2017, and the article text says "released worldwide on June 28, 2017".
+- Should be: one date (the Final Fantasy Wiki says WW June 28, 2017; the Verge's release article is dated 2017-06-28); the New Zealand iOS soft launch on 2017-03-31 (Gematsu) is not mentioned.
+- Our source: [final-fantasy-xv-a-new-empire-2017.md](../sources/final-fantasy-xv-a-new-empire-2017.md)
+- Reason: candidate only: the two dates may be one release seen from two time zones; the entry keeps 2017-06-29.
+
 ### Wikipedia: Final Fantasy XV (Multiplayer shutdown)
 
 - Page: https://wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer
