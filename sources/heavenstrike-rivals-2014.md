@@ -22,4 +22,68 @@
 - https://play.google.com/store/apps/details?id=com.square_enix.HEAVENSTRIKERIVALS_WW -- the Android row -- accessed 2026-10-20 (the package id comes from the 2015-06-15 Wayback capture of the Square Enix developer page, see final-fantasy-franchise.md)
   - The store page is gone (404); the row links the last capture, 2016-12-13, which still shows the app page with its reviews: https://web.archive.org/web/20161213092938/https://play.google.com/store/apps/details?id=com.square_enix.HEAVENSTRIKERIVALS_WW
 
+## itunes.apple.com (Platform)
+
+- https://itunes.apple.com/us/app/heavenstrike-rivals-monster/id929464758?mt=8 -- the iOS row*, languages (English only), dates (`datePublished` 2015-02-25) -- accessed 2026-10-21
+  - Found through the official site capture below (App Store badge).
+  - Off the store: the live lookup (`itunes.apple.com/lookup?id=929464758&country=us`) returns 0 results.
+  - The row links the 2016-10-25 capture (the nearest capture to 2017-05-05): https://web.archive.org/web/20161025035217/https://itunes.apple.com/us/app/heavenstrike-rivals-monster/id929464758?mt=8
+    - Raw HTML: title "Heavenstrike Rivals – A Monster Tactical TCG!", version 6.5.0, Language: English, rated 12+, seller Square Enix. Renders (user checked).
+
+## heavenstrikerivals.com (Information)
+
+- https://web.archive.org/web/20170505215245/http://www.heavenstrikerivals.com/ -- official site; `profileUrl`* and the EN language link* (archived: the live site is gone); links the App Store, Google Play and Steam pages -- accessed 2026-10-21
+  - Flash errors in the capture; the store links still show.
+
+## store.steampowered.com (Platform)
+
+- http://store.steampowered.com/app/441020 -- the Steam row -- accessed 2026-10-21
+  - Live URL redirects to the store front page: the page is gone.
+  - Only capture found: 2016-05-18, pre-release ("Release Date: May 2016"): https://web.archive.org/web/20160518041354/http://store.steampowered.com/app/441020/ ; later captures show the age check. The 2017-05-05 link from the official site has no capture.
+  - The Wayback index (CDX) is blocked, so a slugged store URL could not be searched for.
+- https://steamcommunity.com/app/441020 -- the Steam row* (no Wayback link for now) -- live (200) community hub, accessed 2026-10-21
+- https://store.steampowered.com/oldnews/21996 -- Valve news "Now Available on Steam", 2016-05-23 -- dates
+- https://steamdb.info/app/441020/ -- Steam release 2016-05-23 17:52 UTC; 1 language (English) -- dates, languages
+
+## jp.square-enix.com (Information)
+
+- https://www.jp.square-enix.com/company/ja/news/2015/html/50314d81ad50ac5cfa19017e53e66006.html -- Japanese press release, 2015-05-27, "over 1 million downloads" -- dates, platforms, languages (a Japanese edition), credits -- accessed 2026-10-21 -- archived: TODO
+  - Title ヘブンストライク ライバルズ (HEAVENSTRIKE RIVALS); iOS and Android; tactical RPG; free with in-app purchases.
+  - Says the game was released overseas first, from February 2015 (no Japanese date given). Fits App Store `datePublished` 2015-02-25 and Metacritic.
+  - Co-developed with Mediatonic (UK); scenario supervision Benny Matsuyama, character design Ryoma Ito, music Ryo Yamazaki.
+  - Lists the Japanese store pages (a separate listing from the worldwide one):
+    - App Store: https://itunes.apple.com/us/app/hebunsutoraiku-raibaruzu/id948617073?l=ja&ls=1&mt=8 -- live lookup (country jp) returns 0 results: off the store
+    - Google Play: package `com.square_enix.HEAVENSTRIKERIVALS_JP` -- live page 404
+    - Official site: http://www.heavenstrikerivals.com/jp/ -- live returns 403
+- https://web.archive.org/web/20161108003953/http://heavenstrikerivals.com/jp/ -- Japanese official site; the JA language link* (`hreflang: ja`) -- title ヘブンストライク ライバルズ | SQUARE ENIX -- accessed 2026-10-21
+  - The same 2016-11-08 timestamp holds the Japanese store captures below; the site links all three stores.
+- https://web.archive.org/web/20161108003953/https://itunes.apple.com/jp/app/hebunsutoraiku-raibaruzu/id948617073?mt=8 -- Japanese App Store page (not a row: an English-region store exists, docs/data.md) -- dates, languages -- accessed 2026-10-21
+  - Redirects to the nearest capture, 2017-05-06; raw HTML title ヘブンストライクライバルズを App Store で, `datePublished` 2015-04-27 (the Japan release), language line 英語 (English) only.
+  - The language line is wrong or incomplete for this listing: the site, promo images and the in-game UI (video below) are Japanese. Store metadata not used for JA.
+- https://web.archive.org/web/20161108003953/http://store.steampowered.com/app/441020 -- the Steam page from the Japanese site -- shows the age check, not the game page; not used
+- https://web.archive.org/web/20161108003953/https://play.google.com/store/apps/details?id=com.square_enix.HEAVENSTRIKERIVALS_JP -- Japanese Google Play page (not a row) -- accessed 2026-10-21
+  - Redirects to the nearest capture, 2017-03-11.
+
+## press.na.square-enix.com (Information)
+
+- https://press.na.square-enix.com/Heavenstrike-Rivals -- Square Enix North America press hub page -- dates, platforms -- accessed 2026-10-21 -- archived: TODO
+  - Release date 2015-03-24; platforms "Android, iOS" (truncated on the page); "Rating Pending"; no languages, no press releases, no store links.
+  - Links the game's Facebook (facebook.com/hsr.en), X (x.com/HSR_global) and a YouTube video (youtube.com/watch?v=UUTjzjUQLA0): not yet read.
+
+## youtube.com (Information)
+
+- https://www.youtube.com/watch?v=swfQSjmO_e0 -- official Square Enix promo video with in-game gameplay; Japanese UI -- languages (JA edition) -- accessed 2026-10-21
+
+- https://www.youtube.com/watch?v=D1O83UweRV8 -- official Square Enix trailer "Heavenstrike Rivals GameplayTrailer - PC Available Now", posted 2016-05-23 -- dates (Steam), platforms -- accessed 2026-10-21
+  - Description links the same App Store page (id929464758) and Google Play package as the rows: nothing new to archive.
+
+## Release dates (sources disagree; unsettled)
+
+- 2014-11-14, all platforms (WW) -- Wikipedia list (its Steam-in-2014 claim is contradicted by Valve's 2016-05-23)
+- 2015-02-25, iOS -- App Store `datePublished`, Metacritic
+- 2015-03-24 -- Square Enix NA press hub
+- 2015-04-27, iOS and Android -- Final Fantasy Wiki infobox, ja.wikipedia 2015 Square Enix titles list (https://ja.wikipedia.org/wiki/スクウェア・エニックスのゲームタイトル一覧, footnote [27] not read)
+- Steam 2016-05-23 (Valve, SteamDB, the wiki's article text); the wiki infobox says 2016-05-28
+- Closure: Steam 2017-02-01, the rest 2018-05-01 -- Final Fantasy Wiki
+
 ## Decisions

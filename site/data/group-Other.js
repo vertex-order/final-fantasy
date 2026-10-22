@@ -385,19 +385,18 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     primary: {
       tags: ['Mashup', 'Social Tactical RPG'],
       terminated: true,
+      profileUrl: 'https://web.archive.org/web/20170505215245/http://www.heavenstrikerivals.com/',
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN' },
-        { value: '…?' },
+        { value: 'JA', native: true, url: 'https://web.archive.org/web/20161108003953/http://heavenstrikerivals.com/jp/', hreflang: 'ja' },
+        { value: 'EN', url: 'https://web.archive.org/web/20170505215245/http://www.heavenstrikerivals.com/' },
       ],
-      helpWanted: true,
       ratings: [
         { score: '78', url: 'https://www.metacritic.com/game/heavenstrike-rivals/', key: 'metacritic' },
         { score: '7.1', url: 'https://www.metacritic.com/game/heavenstrike-rivals/', key: 'metacritic-user' },
       ],
       platforms: [
-        { key: 'steam', terminated: true },
-        { key: 'apple', terminated: true },
+        { key: 'steam', terminated: true, url: 'https://steamcommunity.com/app/441020' },
+        { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20161025035217/https://itunes.apple.com/us/app/heavenstrike-rivals-monster/id929464758?mt=8' },
         { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20161213092938/https://play.google.com/store/apps/details?id=com.square_enix.HEAVENSTRIKERIVALS_WW' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
