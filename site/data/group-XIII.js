@@ -26,8 +26,8 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       platforms: [
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii/9mtv87hfmf43' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/292120/FINAL_FANTASY_XIII/' },
-        { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20250116064039/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13' },
-        { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20160122153630/https://itunes.apple.com/jp/app/final-fantasy-xiii-fainarufantajixiii/id960145054', hreflang: 'ja' },
+        { key: 'android2', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20250116064039/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13' },
+        { key: 'apple', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20160122153630/https://itunes.apple.com/jp/app/final-fantasy-xiii-fainarufantajixiii/id960145054', hreflang: 'ja' },
         { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii/bsg43bdrn81r' },
         { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii/bsg43bdrn81r' },
         { key: 'fan-movie', search: 'youtube' },
@@ -67,8 +67,8 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
             { key: 'xbox-360', paren: 'Physical; not on Digital' },
             { key: 'xbox-one', paren: '360 compatibility' },
             { key: 'xbox-xs', paren: '360 compatibility' },
-            { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
-            { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
+            { key: 'android2', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
+            { key: 'apple', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
           ],
           versionDesc: [
             'The original release. A later patch adds an Easy/Normal difficulty toggle.',
@@ -167,8 +167,8 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       platforms: [
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/9mvj3vl1v3vp' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/' },
-        { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20250120170603/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13_2' },
-        { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20250114090020/https://gcluster.jp/pc/app/sqex/ff13-2/index.html', hreflang: 'ja' },
+        { key: 'android2', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20250120170603/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13_2' },
+        { key: 'apple', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20250114090020/https://gcluster.jp/pc/app/sqex/ff13-2/index.html', hreflang: 'ja' },
         { key: 'xbox-xs', paren: 'FPS Boost; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', search: 'youtube' },
@@ -189,8 +189,8 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           platforms: [
             { key: 'steam', paren: 'PC' },
             { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' },
-            { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
-            { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: Dive In', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
+            { key: 'android2', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
+            { key: 'apple', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
           ],
           versionDesc: [
             'This remaster unlocks higher resolutions and up to 60 fps on PC (capped at 30 fps on Xbox One).',
@@ -276,8 +276,8 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       platforms: [
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/lightning-returns-final-fantasy-xiii/9plf9mr720sj' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/' },
-        { key: 'android2', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20240902075537/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13_3' },
-        { key: 'apple', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20250114090019/https://gcluster.jp/pc/app/sqex/lrff13/index.html', hreflang: 'ja' },
+        { key: 'android2', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20240902075537/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13_3' },
+        { key: 'apple', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20250114090019/https://gcluster.jp/pc/app/sqex/lrff13/index.html', hreflang: 'ja' },
         { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg' },
         { key: 'xbox-xs', paren: 'FPS Boost; Digital', url: 'https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'lightning returns final fantasy XIII-3' },

@@ -70,7 +70,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
   - Languages line: 日本語 only, so the entry's languages are unchanged; the page's raw HTML was read (the capture shows only an Apple "Connecting" splash in a browser)
 - https://web.archive.org/web/20191231113138/https://apps.apple.com/jp/developer/broadmedia-gc-corporation/id1144024684 -- Broadmedia's App Store developer page (user, 2026-10-22): IX is listed under Apple TV only, not under iPhone and iPad, which is why there is no `apple` row and the row uses `apple-tv`
 - http://gcluster.jp/pc/app/sqex/ff9/index.html -- the row's link, G-cluster's game page (captured 2025-01-14; the original is http) -- accessed 2026-10-22; archived: https://web.archive.org/web/20250114090014/http://gcluster.jp/pc/app/sqex/ff9/index.html
-  - Cloud-streaming app, Japan only (`Cloud: G-cluster`); the whole G-cluster service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the row is struck
+  - Cloud-streaming app, Japan only (`G-cluster cloud`); the whole G-cluster service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the row is struck
   - The live App Store lookup for the id returns no result for Japan (checked 2026-10-22)
   - Also captured 2020-01-06 and 2019-11-18 (same Languages line)
   - No source names the edition streamed; the row sits on the Remaster (2016) primary

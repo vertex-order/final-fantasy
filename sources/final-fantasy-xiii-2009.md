@@ -56,7 +56,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
 - https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13 -- the Android row -- accessed 2026-10-20; last capture 2025-01-16: https://web.archive.org/web/20250116064039/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13
 - https://itunes.apple.com/jp/app/final-fantasy-xiii-fainarufantajixiii/id960145054 -- the iOS row -- last capture 2016-01-22 (the app page): https://web.archive.org/web/20160122153630/https://itunes.apple.com/jp/app/final-fantasy-xiii-fainarufantajixiii/id960145054
   - Cloud-streaming apps by Broadmedia's G-cluster (Japan only): new sales stopped 2024-08-30 noon, service for buyers until 2025-02-28 noon (the Play page notice, https://gcluster.jp/news/20240808.html); the store pages are gone (404), so the rows are struck and link the last captures
-  - The same notice's apps run on the G-cluster cloud, so the rows say `Cloud: G-cluster`
+  - The same notice's apps run on the G-cluster cloud, so the rows say `G-cluster cloud`
   - soft112, https://final-fantasy-xiii.soft112.com/ (found by the user, 2026-10-21): an APK backup of the G-cluster Android launcher for XIII; confirms the app existed, not linked (a download mirror)
   - ja.wikipedia (https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII, text pasted by user 2026-10-20): the 対応機種 line lists G-cluster, G-cluster TVs, ひかりTVゲーム, DIVE IN, Android and iOS; release dates G-cluster Japan 2014-10-09 and Android and iOS 2015-04-10; Steam and Windows worldwide 2014-10-09
   - Gematsu, https://www.gematsu.com/2015/04/cloud-powered-final-fantasy-xiii-hits-ios-android-japan (2015-04-09): the cloud-powered XIII hits iOS and Android in Japan, with those store links
