@@ -30,6 +30,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
       platforms: [
         { key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/9ndnp3j6xwvh' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/' },
+        { key: 'apple-tv', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20250114090015/http://gcluster.jp/pc/app/sqex/ff10/index.html', hreflang: 'ja' },
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch/' },
         {
           key: 'nintendo-switch-2',
@@ -223,6 +224,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
       platforms: [
         { key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/9ndnp3j6xwvh' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/' },
+        { key: 'apple-tv', jpTag: true, terminated: true, paren: 'Cloud: G-cluster', url: 'https://web.archive.org/web/20250114090015/http://gcluster.jp/pc/app/sqex/ff10/index.html', hreflang: 'ja' },
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-x-x-2-hd-remaster-switch/' },
         {
           key: 'nintendo-switch-2',

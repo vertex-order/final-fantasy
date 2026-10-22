@@ -44,4 +44,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
 - https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/9ndnp3j6xwvh
 - https://www.xbox.com/games/store/final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z
 
+## Apple TV (Platform; G-cluster cloud app)
+
+- https://apps.apple.com/jp/app/id1297115524 -- the Apple TV row's app, FINAL FANTASY X/X-2 HD リマスター, by Broadmedia GC Corporation (G-cluster) -- accessed 2026-10-22; last page capture with the app: https://web.archive.org/web/20221006021639/https://apps.apple.com/jp/app/id1297115524
+  - Languages line: 日本語 only, so the entry's languages are unchanged; the page's raw HTML was read (the capture shows only an Apple "Connecting" splash in a browser)
+- https://web.archive.org/web/20191231113138/https://apps.apple.com/jp/developer/broadmedia-gc-corporation/id1144024684 -- Broadmedia's App Store developer page (user, 2026-10-22): X/X-2 HD is listed under Apple TV only, not under iPhone and iPad, which is why there is no `apple` row and the row uses `apple-tv`
+- http://gcluster.jp/pc/app/sqex/ff10/index.html -- the row's link, G-cluster's game page (captured 2025-01-14; the original is http) -- accessed 2026-10-22; archived: https://web.archive.org/web/20250114090015/http://gcluster.jp/pc/app/sqex/ff10/index.html
+  - Cloud-streaming app, Japan only (`Cloud: G-cluster`); the whole G-cluster service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the row is struck
+  - The live App Store lookup for the id returns no result for Japan (checked 2026-10-22)
+  - Same app for X and X-2 (title FINAL FANTASY X/X-2 HD リマスター, one row on each entry's primary); also captured 2020-10-17 (same Languages line)
+  - No source names the edition streamed; the row sits on the Remaster (2016) primary
+
 ## Decisions

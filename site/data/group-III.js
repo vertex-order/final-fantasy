@@ -115,7 +115,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
             helpWanted: true,
             platforms: [
               { key: 'apple', paren: 'Digital', url: 'https://apps.apple.com/app/final-fantasy-iii-3d-remake/id424591347' },
-              { key: 'apple', name: 'iPadOS', suffix: 'pad', paren: 'Digital', url: 'https://apps.apple.com/app/final-fantasy-iii-for-ipad-3d/id430823968' },
+              { key: 'apple-ipad', paren: 'Digital', url: 'https://apps.apple.com/app/final-fantasy-iii-for-ipad-3d/id430823968' },
               { key: 'android2', paren: 'Digital', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP' },
               { key: 'ouya', terminated: true, paren: 'Digital' },
               { key: 'windows-phone', paren: 'Digital' },

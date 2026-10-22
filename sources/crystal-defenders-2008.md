@@ -84,7 +84,7 @@
 - https://breezewiki.com/gamicus/wiki/Crystal_Defenders -- accessed 2026-10-20 (page text pasted by user; the Japanese name read by me from the page's wikitext through the Fandom API)
   - Crystal Defenders, a tower defense game by Square Enix (developers Square Enix and TOSE for the XBLA and PSN ports), artist Ryoma Ito, single player, ESRB E, PEGI 7+, Apple 4+, download only; "originally released under the title Crystal Guardians (クリスタル ガーディアンズ, Kurisutaru Gādianzu) for mobile phones", the name now in the description
   - Release dates: mobile phone 2008-01-28 (Japan, the entry's date), iOS and iPod 2008-12-17 (international), WiiWare 2009-01-27 (Japan), 2009-04-20 (R1) and 2009-05-18 (R2) in North America and 2009-04-24 and 2009-05-22 in Europe, XBLA 2009-03-11, PS3 2009-07-23 (Europe) and 2009-08-06 (North America), PSP 2009-10-29 (North America); the iOS date differs from the official Japanese page (2008-12-23)
-  - It lists an iPod version, so the entry has an `apple` row with the suffix `pod` (struck), linking the same page as the iOS row (user, 2026-10-20)
+  - It lists an iPod version (the click-wheel iPod Nano and Classic version, an iTunes Store game); no platform row: an iPod touch runs the iOS app, and the click-wheel version has no page of its own to link (user, 2026-10-22)
 
 ## ja.wikipedia.org (Information)
 
@@ -125,7 +125,6 @@
 - https://itunes.apple.com/us/app/crystal-defenders/id300186798 -- the iOS row -- accessed 2026-10-20 (the id comes from the user's geo.itunes.apple.com link, https://geo.itunes.apple.com/us/app/download/id300186798?mt=8&at=11l5Kb&ct=appstor, which is not in Wayback; the generic itunes.apple.com address with ?mt=8 has captures from 2009-12-06 to 2024)
   - Gone (the later captures are redirects). The row links the last capture that shows the app, 2016-02-03 (the app's removal was 2016-05-31): https://web.archive.org/web/20160203052424/https://itunes.apple.com/us/app/crystal-defenders/id300186798?mt=8
   - The page: CRYSTAL DEFENDERS, version 3.0.3 of 2013-04-30, 67.6 MB, rated 4+, seller SQUARE ENIX Co., Ltd., 3,160 ratings over all versions; **languages: English, Chinese, French, German, Italian, Japanese, Spanish** (the entry's languages are now JA native, EN, FR, IT, DE, ES and ZH; the App Store says "Chinese" without Simplified or Traditional, so it is listed as plain `ZH`, like `EN` without a locale, and the kit catalog gets a `ZH: Chinese` name (user, 2026-10-20); `helpWanted` and the unknown language were removed)
-  - The iOS row's earlier link, the Crystal Defenders Plus site, stays on the iPod row
 
 - https://itunes.apple.com/us/app/crystal-defenders-for-ipad/id379052382 -- Crystal Defenders for iPad, its own app (the iPad row, suffix pad) -- accessed 2026-10-20 (the id comes from the user's appstor.io listing, https://appstor.io/app/crystal-defenders-ipad, link https://geo.itunes.apple.com/us/app/download/id379052382?mt=8&at=11l5Kb&ct=appstor)
   - Not in the iTunes lookup API (country us), so it is off the store. The row links the last capture showing the app, 2016-07-09 (title "CRYSTAL DEFENDERS for iPad on the App Store"): https://web.archive.org/web/20160709085514/https://itunes.apple.com/us/app/crystal-defenders-for-ipad/id379052382?mt=8
@@ -140,6 +139,5 @@
   - The Edit's `subtitleDate` is a range of the first releases of R1 and R2, the Japanese ones 2009-01-27 and 2009-02-24 (ja.wikipedia, above) (user, 2026-10-20)
 
 ## Decisions
-- The iOS and iPod rows keep the Crystal Defenders Plus site because no App Store capture was found (user, 2026-10-20)
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
-- Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPod, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it
+- Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it

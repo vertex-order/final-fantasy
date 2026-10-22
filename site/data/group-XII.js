@@ -312,7 +312,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
             { key: 'playstation-vita', paren: 'Digital', terminated: true },
             { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2' },
             { key: 'apple', url: 'https://apps.apple.com/us/app/final-fantasy-tactics-wotl/id446760220' },
-            { key: 'apple', name: 'iPadOS', suffix: 'pad', url: 'https://apps.apple.com/us/app/final-fantasy-tactics/id500098096' },
+            { key: 'apple-ipad', url: 'https://apps.apple.com/us/app/final-fantasy-tactics/id500098096' },
             { key: 'fan-movie', search: 'youtube', searchQualifier: 'War of the Lions' },
             { key: 'fan-recap', search: 'youtube', searchQualifier: 'War of the Lions' },
             { key: 'fan-playthrough', search: 'youtube', searchQualifier: 'War of the Lions' },
@@ -420,8 +420,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       platforms: [
         { key: 'mobile-phone', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20160307051837/http://www.square-enix.co.jp/mobile/ff/cg/', hreflang: 'ja' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20160203052424/https://itunes.apple.com/us/app/crystal-defenders/id300186798?mt=8' },
-        { key: 'apple', suffix: 'pod', terminated: true, url: 'https://web.archive.org/web/20130225135614/https://www.jp.square-enix.com/cdplus/' },
-        { key: 'apple', name: 'iPadOS', suffix: 'pad', terminated: true, url: 'https://web.archive.org/web/20160709085514/https://itunes.apple.com/us/app/crystal-defenders-for-ipad/id379052382?mt=8' },
+        { key: 'apple-ipad', terminated: true, url: 'https://web.archive.org/web/20160709085514/https://itunes.apple.com/us/app/crystal-defenders-for-ipad/id379052382?mt=8' },
         { key: 'xbox-360', terminated: true, paren: 'Xbox Live Arcade', url: 'https://www.xbox.com/games/store/crystal-defenders/BVCHVG7HM8LG' },
         { key: 'xbox-one', paren: '360 Live Arcade compatibility', url: 'https://www.xbox.com/games/store/crystal-defenders/BVCHVG7HM8LG' },
         { key: 'xbox-xs', paren: '360 Live Arcade compatibility', url: 'https://www.xbox.com/games/store/crystal-defenders/BVCHVG7HM8LG' },
