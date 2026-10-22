@@ -111,6 +111,15 @@
   - Gone (404 since 2019-10, matching the removal from Google Play in July 2019). The row links the last capture that loads, 2019-04-17: https://web.archive.org/web/20190417193354/https://play.google.com/store/apps/details?id=com.squareenix.android.crystaldefenders_r
   - Captures run from 2012-10-04; the first (page text read by me): Crystal Defenders, category Brain and Puzzle, version 1.0 of 2012-06-29, Android 2.0 or later, 16 MB, 10,000 to 50,000 installs, a paid app, Low Maturity
 
+## alchetron.com (Information; app store links)
+
+- https://alchetron.com/Crystal-Defenders -- Amazon Appstore link (ASIN B00AEAUU6U) -- accessed 2026-10-21 (found by the user; read by me with curl) -- archived: TODO
+  - Its rating widget links the Android version's two stores: Google Play (3/5) com.squareenix.android.crystaldefenders_r (matches the Play row below) and Amazon (2.1/5) https://www.amazon.com/SQUARE-ENIX-CO-LTD-DEFENDERS/dp/B00AEAUU6U
+  - Lead for other mobile games: the page keeps the original store URLs of removed apps; check the same page for each game missing a store link
+  - Amazon page, Wayback capture of 2016-02-16 (found by the user): https://web.archive.org/web/20160216162329/https://www.amazon.com/SQUARE-ENIX-CO-LTD-DEFENDERS/dp/B00AEAUU6U
+    - Raw HTML read by me: title "CRYSTAL DEFENDERS: Appstore for Android", developer SQUARE ENIX CO., LTD., release date 2012-12-04, version 1.0, description of the full game (jobs from Final Fantasy Tactics A2), a link to defenders.jp; not the Lite trial
+    - Wayback CDX (accessed 2026-10-21): 11 captures with status 200, from 2012-12-31 to 2016-02-16, none later, so this is the last; the `amazon` row links it
+
 ## itunes.apple.com (Platform; iOS)
 
 - https://itunes.apple.com/us/app/crystal-defenders/id300186798 -- the iOS row -- accessed 2026-10-20 (the id comes from the user's geo.itunes.apple.com link, https://geo.itunes.apple.com/us/app/download/id300186798?mt=8&at=11l5Kb&ct=appstor, which is not in Wayback; the generic itunes.apple.com address with ?mt=8 has captures from 2009-12-06 to 2024)
@@ -131,6 +140,6 @@
   - The Edit's `subtitleDate` is a range of the first releases of R1 and R2, the Japanese ones 2009-01-27 and 2009-02-24 (ja.wikipedia, above) (user, 2026-10-20)
 
 ## Decisions
-- Search closed (user, 2026-10-20): the Amazon Appstore page was not found (searches, the 2013 holiday sale blog post whose captures are only a Square Enix sign-in redirect, and the Final Fantasy Union article gave no link), so the `amazon` row stays struck without a link; the iOS and iPod rows keep the Crystal Defenders Plus site because no App Store capture was found
+- The iOS and iPod rows keep the Crystal Defenders Plus site because no App Store capture was found (user, 2026-10-20)
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPod, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it

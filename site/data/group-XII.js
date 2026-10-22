@@ -429,7 +429,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         { key: 'playstation-portable', paren: 'Digital', url: 'https://web.archive.org/web/20200630034404/https://store.playstation.com/en-us/product/UP0082-NPUH10026_00-CD00000000000000' },
         { key: 'playstation-vita', paren: 'PSP compatibility', url: 'https://web.archive.org/web/20200630034404/https://store.playstation.com/en-us/product/UP0082-NPUH10026_00-CD00000000000000' },
         { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20190417193354/https://play.google.com/store/apps/details?id=com.squareenix.android.crystaldefenders_r' },
-        { key: 'amazon', terminated: true },
+        { key: 'amazon', terminated: true, url: 'https://web.archive.org/web/20160216162329/https://www.amazon.com/SQUARE-ENIX-CO-LTD-DEFENDERS/dp/B00AEAUU6U' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
       versionDesc: [

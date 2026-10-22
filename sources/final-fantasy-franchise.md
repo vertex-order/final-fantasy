@@ -127,6 +127,11 @@
     - Missing from the data: an Apple row on The Final Fantasy Legend I-III (Collection of SaGa Final Fantasy Legend)
     - Live Apple rows without a store URL: Final Fantasy I "Remaster 2007", III "3D Remaster 2011", IV "3D Remaster 2012" (the Apple Arcade rows for I, IV 3D Remake and After Years already carry URLs), Final Fantasy XV (alt 1), Record Keeper, Chocobo (series)
 
+## alchetron.com (Information; app store links)
+
+- https://alchetron.com/Crystal-Defenders -- a catalog page that links the original Google Play and Amazon Appstore URLs of a removed mobile game -- accessed 2026-10-21 (found by the user; see the Crystal Defenders source)
+  - Only this page checked; other mobile games not yet tried: look up `https://alchetron.com/<Game-Title>` for store links when a struck Android, iOS or Amazon row has none
+
 ## Decisions
 
 - **Not to be listed: Final Fantasy XIV: Libra Eorzea (user, 2026-10-20):** a free smartphone app by Square Enix (ファイナルファンタジーXIV: ライブラ エオルゼア), iOS 2013-09-10 and Android 2013-11-01 in all regions, giving offline access to the official XIV database and a character profile viewer for gear and attributes; discontinued 2019-04-23 and supplanted by the Final Fantasy XIV Companion
