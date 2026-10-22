@@ -46,6 +46,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
 - The iOS row links the official G-cluster game page, capture of 2025-01-14 (no App Store id found): https://web.archive.org/web/20250114090019/https://gcluster.jp/pc/app/sqex/lrff13/index.html -- same notice and supported OS list as the XIII-2 page
   - Cloud-streaming apps by Broadmedia's G-cluster (Japan only): new sales stopped 2024-08-30 noon, service for buyers until 2025-02-28 noon (the Play page notice, https://gcluster.jp/news/20240808.html); the store pages are gone (404), so the rows are struck and link the last captures
   - The same notice's apps run on the G-cluster cloud, so the rows say `G-cluster cloud`
+- The Apple TV row links the official G-cluster game page, capture of 2025-01-14: https://web.archive.org/web/20250114090019/https://gcluster.jp/pc/app/sqex/lrff13/index.html -- accessed 2026-10-22
+  - Broadmedia's App Store developer page (https://web.archive.org/web/20191231113138/https://apps.apple.com/jp/developer/broadmedia-gc-corporation/id1144024684, user 2026-10-22) lists Lightning Returns (id 1080609940) under both iPhone/iPad and Apple TV; the same app
   - Uptodown (https://xiii.jp.uptodown.com/android, text pasted by user 2026-10-20): Lightning Returns Final Fantasy XIII, version 1.10.200 dated 2024-10-08, developer Broadmedia G-cluster, a cloud game with a 30-minute free trial (progress is not saved during the trial) and Android 6.0 or later; package jp.co.sqex.game.ff13_3
   - Dive In: a PC Lightning Returns was planned but never made available (the Final Fantasy Wiki's Dive In page)
 
