@@ -488,6 +488,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         {
           subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', subtitleDate: 2012,
           languages: [
+            { value: 'JA', native: true },
             { value: 'EN' },
             { value: 'FR' },
             { value: 'DE' },
@@ -496,6 +497,11 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
           platforms: [
             { key: 'windows' },
             { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/', paren: 'PC' },
+            { key: 'g-cluster-tv', jpTag: true, terminated: true, paren: 'Cloud; G-cluster console, Sharp, LG, Sony Bravia, Android TV', url: 'https://web.archive.org/web/20250114090029/https://gcluster.jp/pc/games/ff7.html', hreflang: 'ja' },
+            { key: 'sharp-tv', jpTag: true, terminated: true, paren: 'COCORO GAME cloud', url: 'https://web.archive.org/web/20190724070019/https://cocoroplus.jp.sharp/game/list/', hreflang: 'ja' },
+            { key: 'hikari-tv-games', jpTag: true, terminated: true, paren: 'Cloud; Hikari TV set-top box', url: 'https://web.archive.org/web/20220618054218/http://game.hikaritv.net/title/ff7/index.html', hreflang: 'ja' },
+            { key: 'android2', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
+            { key: 'apple', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
           ],
           versionDesc: [
             'This remake adds high-resolution support, upscaled graphics, cloud saves, and a character booster.',
@@ -522,8 +528,6 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
             { key: 'playstation3', paren: 'PSone compatibility; Digital' },
             { key: 'playstation-vita', paren: 'Digital' },
             { key: 'playstation-portable', paren: 'Digital' },
-            { key: 'android2', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
-            { key: 'apple', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
           ],
           versionDesc: [
             ['The original release. A re-edit was released the same year as ', { emText: 'Final Fantasy VII International' }, '.'],

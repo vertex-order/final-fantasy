@@ -223,6 +223,10 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     ],
     primary: {
       tags: ['Casual'],
+      contentsLabel: 'games',
+      contents: [
+        { title: "Chocobo's Chocotto Farm", titleUrl: 'https://web.archive.org/web/20171017202521/https://www.dmkt-sp.jp/?url=http%3A%2F%2Fportal.dmkt-sp.jp%2Fsp%2Fgame-store%2Ftop', platforms: [{ key: 'android2', jpTag: true, terminated: true }, { key: 'apple', jpTag: true, terminated: true }] },
+      ],
       platforms: [
         { key: 'playstation4' },
         { key: 'playstation1', paren: 'Physical' },

@@ -45,9 +45,37 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
 - The iOS row links the official G-cluster game page, capture of 2025-01-14 (no App Store id found): https://web.archive.org/web/20250114090020/https://gcluster.jp/pc/app/sqex/ff13-2/index.html -- title FINAL FANTASY XIII-2 | SQUARE ENIX in G-cluster App; sales stopped 2024-08-30 noon, service until 2025-02-28 noon; supported OS: Android 6.0 or later, iOS/iPadOS 13 or later, tvOS 12 or later, Fire OS 5 or later; provided by Broadmedia
   - Cloud-streaming apps by Broadmedia's G-cluster (Japan only): new sales stopped 2024-08-30 noon, service for buyers until 2025-02-28 noon (the Play page notice, https://gcluster.jp/news/20240808.html); the store pages are gone (404), so the rows are struck and link the last captures
   - The same notice's apps run on the G-cluster cloud, so the rows say `G-cluster cloud`
+- https://web.archive.org/web/20161229063201/https://www.amazon.co.jp/dp/B01E56F8Z6 -- the Amazon Appstore (Japan) row's app, FINAL FANTASY XIII-2, by Broadmedia GC, ASIN B01E56F8Z6, first listed 2016-04-22, last updated 2016-12-23, support language Japanese, Fire tablets and Fire TV (game controller on Fire TV), same Amazon account carries the game between TV and phone or tablet; the developer link on the page is http://gcluster.jp/app/sqex/ff13-2/ (the Broadmedia publisher link has no Wayback capture) -- user, 2026-10-22; capture of 2016-12-29 renders
 - The Apple TV row links the official G-cluster game page, capture of 2025-01-14: https://web.archive.org/web/20250114090020/https://gcluster.jp/pc/app/sqex/ff13-2/index.html -- accessed 2026-10-22
   - Broadmedia's App Store developer page (https://web.archive.org/web/20191231113138/https://apps.apple.com/jp/developer/broadmedia-gc-corporation/id1144024684, user 2026-10-22) lists FINAL FANTASY XIII-2 (id 1033424082) under both iPhone/iPad and Apple TV; the same app
   - Dive In offered XIII-2 from December 2014 (see final-fantasy-franchise.md)
+
+## G-cluster (Platform; G-cluster cloud TV version)
+
+- https://web.archive.org/web/20250114090028/https://gcluster.jp/pc/games/ff13-2.html -- the `android-tv` row's link, G-cluster's TV game page (last capture, 2025-01-14, renders) -- accessed 2026-10-22
+  - First capture https://web.archive.org/web/20151223124156/https://gcluster.jp/pc/games/ff13-2.html (2015-12-23, "Smart G-cluster ○"); start 2014-12-11
+  - The original story with no changes, and part of the downloadable content bundled (episodes, enemies, some costumes), which fits the 2014 Windows Remaster; the page does not say Windows
+  - The TV version, playable on the G-cluster console and on TVs with G-cluster built in or Android TV (device logos: Android TV, G-cluster, Sharp, Bravia, LG); one row, `g-cluster-tv`, names the console, Sharp, LG, Sony Bravia and Android TV in its tooltip; no stop-of-sale notice on the 2025-01-14 page
+  - Also on Sharp's own COCORO GAME service, which ended 2021-05-31 (notice: https://cocoroplus.jp.sharp/news/7280/); its game list (first capture https://web.archive.org/web/20190724070019/https://cocoroplus.jp.sharp/game/list/, with all seven FF titles and no links; the last capture, 2026-02-13, is stale) -- user, 2026-10-22; not part of the G-cluster TV row, whose service ended 2025-02-28
+  - Japan only; the whole G-cluster service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the row is struck
+
+## Hikari TV Games (Platform; Hikari TV cloud, set-top box)
+
+- https://web.archive.org/web/20220617033813/http://game.hikaritv.net/title/ff13-2/index.html -- the `hikari-tv-games` row's link, the service's own game page; start 2015-01-08 (the service's news list) -- user, 2026-10-22; accessed 2026-10-22
+  - The original story with no changes and part of the downloadable content bundled (episodes, enemies, some costumes), the same list as the G-cluster page; copyright 2011, 2012 and 2014
+  - Played with a game pad on a Hikari TV set-top box (NTT Plala, later Docomo), sold as a single title, not in the play-all pack; Japan only
+  - The service ended 2023-09-30 23:59 (see sources/final-fantasy-franchise.md), so the row is struck; the row sits on the Remaster 2014 version, the same one as the G-cluster row
+  - Phone or tablet use is not recorded either way: the site never marked which titles ran on its Android app (2013-11-20 to 2016-08-31, no iOS app; the service said only some titles did), so there is no phone row; one needs a source that names this title on the app. Unresolved lead: the service's news items of 2014-03-04 (the phone titles changed) and 2016-08-01 (the end of the phone and tablet app), if either lists titles (user, 2026-10-22)
+
+## Cloud service launches (Platform; G-cluster)
+
+- Phone app (Android and iOS): 2015-09-26, per the phone app news page (https://web.archive.org/web/20250114083821/https://gcluster.jp/sp/app/sqex/news.html)
+- Apple TV: 2016-08-04, after XIII's (https://www.broadmedia.co.jp/news/20160804_001_J.pdf); one Apple ID syncs the saves with the iPhone and iPad app, and a controller is needed
+- Amazon Android app store: 2016-04-27, one of five apps released together (https://www.broadmedia.co.jp/news/dock/20160428-001_01.pdf)
+
+## Dive In (Platform; Square Enix cloud service, 2014-10-09 to 2015-09-13)
+
+- https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/ -- the `Dive In cloud` rows link this capture; per the Final Fantasy Wiki's Dive In page (pasted by user 2026-10-20): XIII-2 from December 2014, on the "Remaster 2014" (Windows) version, with the `G-cluster cloud` rows; the version is our matching (see sources/final-fantasy-franchise.md)
 
 ## Decisions
 

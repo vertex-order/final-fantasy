@@ -71,4 +71,29 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
   - **It says the game was released in 1997, which is wrong:** the Japanese release was 1999-02-11, and the page's own timeline gives that date (see docs/wiki-corrections.md)
   - It mentions the 2019 remaster for PlayStation 4, Xbox One, Windows and Switch, consistent with the entry's platforms
 
+## G-cluster (Platform; G-cluster cloud TV version)
+
+- https://web.archive.org/web/20250114090033/https://gcluster.jp/pc/games/ff8.html -- the row's link, G-cluster's game page (last capture, 2025-01-14, renders; first capture 2014-10-11) -- accessed 2026-10-22
+  - Title ファイナルファンタジーⅧ for Gクラスタ; start 2014-08-28 (the 2015-12-23 capture, https://web.archive.org/web/20151223124213/http://gcluster.jp/pc/games/ff8.html); a port of the 2014 Windows "Final Fantasy VIII for PC" to G-cluster, no story changes, no Chocobo World support, no achievements; game boosters (high speed, battle assist, four nines, AP and magic/gil max)
+  - Sales stopped at noon on 2019-10-31; existing buyers could keep playing; the TV version is playable on the G-cluster console and on TVs with G-cluster built in or Android TV (device logos: Android TV, G-cluster, Sharp, Bravia, LG); one row, `g-cluster-tv`, names the console, Sharp, LG, Sony Bravia and Android TV in its tooltip
+  - Also on Sharp's own COCORO GAME service, which ended 2021-05-31 (notice: https://cocoroplus.jp.sharp/news/7280/); its game list (first capture https://web.archive.org/web/20190724070019/https://cocoroplus.jp.sharp/game/list/, with all seven FF titles and no links; the last capture, 2026-02-13, is stale) -- user, 2026-10-22; not part of the G-cluster TV row, whose service ended 2025-02-28
+  - Japan only; the whole G-cluster service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the row is struck
+  - The Windows release it ports, "Final Fantasy VIII for PC" (2014), is the Japanese release, so the version lists JA (native) beside the western languages; the page text is Japanese but does not name the game's language
+  - The row sits on the Remaster 2013 version (the Windows release it ports)
+  - The first capture (2014-10-11, https://web.archive.org/web/20141011035823/http://gcluster.jp/pc/games/ff8.html) names only the game controller as playable device and the T'sTV G-cluster service; the 2015-12-23 capture adds "Smart G-cluster ○" (support for the smartphone service), so it arrived between those dates; the guide (https://web.archive.org/web/20160101123917/http://gcluster.jp/pc/about/index.html, 2016-01-01) gives only the G-cluster console, Sharp AQUOS and LG TVs as ways to play, and lists the smartphone app under controllers, so Smart G-cluster looks like phone-as-controller support, not streaming to phones (not stated outright), and no smartphone page or store link was found, so no Android or iOS row
+  - Not the Dive In row (Square Enix's service from 2014-10-09, see final-fantasy-franchise.md)
+
+## Hikari TV Games (Platform; Hikari TV cloud, set-top box)
+
+- https://web.archive.org/web/20191222141911/http://game.hikaritv.net/title/ff8/index.html -- the `hikari-tv-games` row's link, the service's own game page; start 2014-09-18 (the service's news list) -- user, 2026-10-22; accessed 2026-10-22
+  - Title "Final Fantasy VIII for ひかりTV", the same boosters and notes as the G-cluster port (no Chocobo World support, no achievements); button maps for Logicool and Elecom pads
+  - Sales stopped at noon on 2019-10-31, announced on 2019-10-08 (https://web.archive.org/web/20210924204545/http://game.hikaritv.net/news/20191008.html -- the only FF news item with its own page, user, 2026-10-22), the same day as G-cluster's VIII stop; buyers keep playing while they hold Hikari TV and the service runs; the 2019-12-22 capture still describes it (the 2022 captures are later)
+  - Played with a game pad on a Hikari TV set-top box (NTT Plala, later Docomo), sold as a single title, not in the play-all pack; Japan only
+  - The service ended 2023-09-30 23:59 (see sources/final-fantasy-franchise.md), so the row is struck; the row sits on the Remaster 2013 version, the same one as the G-cluster row
+  - Phone or tablet use is not recorded either way: the site never marked which titles ran on its Android app (2013-11-20 to 2016-08-31, no iOS app; the service said only some titles did), so there is no phone row; one needs a source that names this title on the app. Unresolved lead: the service's news items of 2014-03-04 (the phone titles changed) and 2016-08-01 (the end of the phone and tablet app), if either lists titles (user, 2026-10-22)
+
+## Dive In (Platform; Square Enix cloud service, 2014-10-09 to 2015-09-13)
+
+- https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/ -- the `Dive In cloud` rows link this capture; per the Final Fantasy Wiki's Dive In page (pasted by user 2026-10-20): VIII from November 2014, on the "Remaster 2013" (Windows) version, with the `G-cluster cloud` row; the version is our matching (see sources/final-fantasy-franchise.md)
+
 ## Decisions

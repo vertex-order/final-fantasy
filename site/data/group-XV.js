@@ -79,6 +79,8 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
         { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION', paren: 'Comrades only; PS5; PS4' },
         { key: 'xbox-one', paren: 'Enhanced; Physical; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' },
         { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' },
+        { key: 'android2', jpTag: true, terminated: true, paren: 'd game Play Ticket cloud' },
+        { key: 'apple', jpTag: true, terminated: true, paren: 'd game Play Ticket cloud' },
         { key: 'fan-movie', search: 'youtube', searchQualifier: 'Royal Edition' },
         { key: 'fan-recap', search: 'youtube', searchQualifier: 'Royal Edition' },
         { key: 'fan-playthrough', search: 'youtube', searchQualifier: 'Royal Edition' },

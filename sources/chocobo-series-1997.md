@@ -46,4 +46,15 @@
   - App Store id 373052434 (https://geo.itunes.apple.com/us/app/download/id373052434?mt=8&at=11l5Kb&ct=appstor); its own page: https://chocobo-panic.appstor.io/
   - Not in the iTunes lookup API (country us), so it is off the store; page address https://itunes.apple.com/us/app/chocobo-panic/id373052434 (captures run from 2010-05-31; the later ones are redirects)
 
+## dmkt-sp.jp (d game; Information)
+
+- https://web.archive.org/web/20171017202521/https://www.dmkt-sp.jp/?url=http%3A%2F%2Fportal.dmkt-sp.jp%2Fsp%2Fgame-store%2Ftop -- Chocobo's Chocotto Farm (チョコボのチョコッと農園), listed on NTT Docomo's d game store, capture of 2017-10-17 -- accessed 2026-10-22; found by the user while checking the d game cloud service's store page; archived: TODO
+  - The listing reads (translated): "A farm game full of cute animals. A farm game, the first social farm game from Square Enix, in which Chocobo, familiar from the Final Fantasy series, also appears"
+  - The same listing is in the capture of 2016-10-12: https://web.archive.org/web/20161012012854/https://www.dmkt-sp.jp/?url=http%3A%2F%2Fportal.dmkt-sp.jp%2Fsp%2Fgame-store%2Ftop
+  - d game was Docomo's portal for Android and iPhone social games (Game Watch, https://game.watch.impress.co.jp/docs/news/1470536.html, 2023-01-16); it ended 2023-09-27
+  - The English title is a literal rendering of the Japanese (ちょこっと "just a little", 農園 "farm"); no official English title found; machine translation gives "Chocobo's Choco and Farm"
+  - Not the next listing on the same page, ちょこっとファーム (Chokotto Farm, another publisher's farm game)
+  - Platforms: Android and iOS, struck and Japan only, because d game was Docomo's portal for Android smartphones and iPhones and the listing is on its smartphone store page (`sp/game-store`); the capture does not say which devices each listed game ran on, so that is an inference from the portal; the portal ended 2023-09-27 (an earlier end for the game itself is not known)
+  - Unknown: release date, publisher page, end date, and whether it also ran outside d game; the entry lists it as a part of the series with its title, this listing and those platforms
+
 ## Decisions
