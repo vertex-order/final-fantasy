@@ -35,7 +35,7 @@ window.__ffGroupReg['WD'] = { num: 'WD', chronoOrder: 1580, narrativeOrder: 1580
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/world-of-final-fantasy-maxima-switch/' },
         {
           key: 'nintendo-switch-2',
-          paren: 'Nintendo Switch compatibility; Digital',
+          paren: 'Digital; Nintendo Switch compatibility',
           url: 'https://www.nintendo.com/store/products/world-of-final-fantasy-maxima-switch/',
         },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/bundle/9112/WORLD_OF_FINAL_FANTASY_COMPLETE_EDITION/' },

@@ -37,7 +37,7 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
         { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR5&' },
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-v/id1492041611' },
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-v-switch/' },
-        { key: 'nintendo-switch-2', paren: 'Switch 1 compatibility; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-v-switch/' },
+        { key: 'nintendo-switch-2', paren: 'Digital; Switch 1 compatibility', url: 'https://www.nintendo.com/store/products/final-fantasy-v-switch/' },
         { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA33833_00-FF5PS4APPNA00001' },
         { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA33833_00-FF5PS4APPNA00001' },
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' },
@@ -99,7 +99,7 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+            { key: 'playstation3', paren: 'Digital; PSone compatibility' },
             { key: 'playstation2', paren: 'PSone compatibility' },
             { key: 'playstation1', paren: 'Physical' },
             { key: 'playstation-vita', paren: 'Digital' },

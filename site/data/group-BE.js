@@ -27,7 +27,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
         { key: 'playstation5', paren: 'Digital', url: 'https://store.playstation.com/product/JP0082-PPSA31544_00-FFRSSTDWW0000000' },
         {
           key: 'nintendo-switch-2',
-          paren: 'Switch compatibility; Physical; Digital',
+          paren: 'Physical; Digital; Switch compatibility',
           url: 'https://www.nintendo.com/store/products/final-fantasy-resonance-switch-2/',
         },
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-resonance-switch/' },

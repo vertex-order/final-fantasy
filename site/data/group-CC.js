@@ -33,7 +33,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
         },
         {
           key: 'nintendo-switch-2',
-          paren: 'Switch compatibility; Digital',
+          paren: 'Digital; Switch compatibility',
           url: 'https://www.nintendo.com/store/products/final-fantasy-crystal-chronicles-remastered-edition-switch/',
         },
         { key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-CUSA16885_00-FFCCRE2003TO2020' },

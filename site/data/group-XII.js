@@ -35,7 +35,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-xii-the-zodiac-age-switch/' },
         {
           key: 'nintendo-switch-2',
-          paren: 'Switch compatibility; Digital',
+          paren: 'Digital; Switch compatibility',
           url: 'https://www.nintendo.com/store/products/final-fantasy-xii-the-zodiac-age-switch/',
         },
         { key: 'xbox-one', paren: 'Enhanced; Physical; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xii-the-zodiac-age/bxdh919m16g9' },
@@ -93,7 +93,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
             helpWanted: true,
             platforms: [
               { key: 'playstation2', paren: 'Physical' },
-              { key: 'playstation3', paren: 'PS2 compatibility) (Physical' },
+              { key: 'playstation3', paren: 'PS2 compatibility; Physical' },
             ],
             versionDesc: [
               'The original release. The Western versions add a 16:9 widescreen option and a distinct English localization with added voice direction.',
@@ -273,7 +273,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         { key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/JP0082-PPSA21783_00-FFTACTICS0000000' },
         {
           key: 'playstation5',
-          paren: 'PS4 compatibility; Physical; Digital',
+          paren: 'Physical; Digital; PS4 compatibility',
           url: 'https://store.playstation.com/product/JP0082-PPSA21783_00-FFTACTICS0000000',
         },
         { key: 'playstation-plus', url: 'https://store.playstation.com/product/JP0082-PPSA21783_00-FFTACTICS0000000', paren: 'PS5; PS4; PSPortal' },
@@ -284,7 +284,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         },
         {
           key: 'nintendo-switch-2',
-          paren: 'Switch compatibility; free Switch upgrade; Digital',
+          paren: 'Digital; Switch compatibility; free Switch upgrade',
           url: 'https://www.nintendo.com/store/products/final-fantasy-tactics-the-ivalice-chronicles-nintendo-switch-2-edition-switch-2/',
         },
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-tactics-the-ivalice-chronicles/9mz2mc7t85t5' },
@@ -332,7 +332,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
           platforms: [
             { key: 'playstation1', paren: 'Physical' },
             { key: 'playstation2', paren: 'PSone compatibility' },
-            { key: 'playstation3', url: 'https://store.playstation.com/', paren: 'PSone compatibility; Digital' },
+            { key: 'playstation3', url: 'https://store.playstation.com/', paren: 'Digital; PSone compatibility' },
             { key: 'playstation-vita', paren: 'Digital', url: 'https://store.playstation.com/' },
             { key: 'playstation-portable', paren: 'Digital', url: 'https://store.playstation.com/' },
           ],
@@ -365,7 +365,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       platforms: [
         { key: 'playstation1', paren: 'Physical', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
         { key: 'playstation2', paren: 'PSone compatibility', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
-        { key: 'playstation3', paren: 'PSone compatibility; Digital', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
+        { key: 'playstation3', paren: 'Digital; PSone compatibility', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
         { key: 'playstation-portable', paren: 'Digital', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
         { key: 'playstation-vita', paren: 'Digital', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
         { key: 'fan-movie', search: 'youtube' },

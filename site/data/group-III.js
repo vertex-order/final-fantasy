@@ -37,7 +37,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
         { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR3&' },
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-iii/id1492041436?' },
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-iii-switch/' },
-        { key: 'nintendo-switch-2', paren: 'Switch 1 compatibility; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-iii-switch/' },
+        { key: 'nintendo-switch-2', paren: 'Digital; Switch 1 compatibility', url: 'https://www.nintendo.com/store/products/final-fantasy-iii-switch/' },
         { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA33825_00-FF3PS4APPNA00001' },
         { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA33825_00-FF3PS4APPNA00001' },
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' },

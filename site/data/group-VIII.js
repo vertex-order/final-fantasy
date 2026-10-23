@@ -35,7 +35,7 @@ window.__ffGroupReg['VIII'] = { num: 'VIII', chronoOrder: 800, narrativeOrder: 8
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-viii-remastered-switch/' },
         {
           key: 'nintendo-switch-2',
-          paren: 'Switch 1 compatibility; Digital',
+          paren: 'Digital; Switch 1 compatibility',
           url: 'https://www.nintendo.com/store/products/final-fantasy-viii-remastered-switch/',
         },
         { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA08749_00-FINALFANTASY80NA' },
@@ -104,7 +104,7 @@ window.__ffGroupReg['VIII'] = { num: 'VIII', chronoOrder: 800, narrativeOrder: 8
           platforms: [
             { key: 'playstation1', paren: 'Physical' },
             { key: 'playstation2', paren: 'PSone compatibility' },
-            { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+            { key: 'playstation3', paren: 'Digital; PSone compatibility' },
             { key: 'playstation-vita', paren: 'Digital' },
             { key: 'playstation-portable', paren: 'Digital' },
           ],

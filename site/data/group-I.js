@@ -33,7 +33,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' },
         { key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin' },
         { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00' },
-        { key: 'playstation5', paren: 'Digital; PS4 compat; Physical', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00' },
+        { key: 'playstation5', paren: 'Physical; Digital; PS4 compat', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00' },
         { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00', paren: 'PS5; PSPortal' },
         {
           key: 'xbox-one',
@@ -180,7 +180,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy/id1492041278' },
         { key: 'apple-arcade', url: 'https://apps.apple.com/app/final-fantasy/id6504607244' },
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-switch/' },
-        { key: 'nintendo-switch-2', paren: 'Switch 1 compatibility; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-switch/' },
+        { key: 'nintendo-switch-2', paren: 'Digital; Switch 1 compatibility', url: 'https://www.nintendo.com/store/products/final-fantasy-switch/' },
         { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA33817_00-FF1PS4APPNA00001' },
         { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA33817_00-FF1PS4APPNA00001' },
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' },
@@ -297,7 +297,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation3', paren: 'PSone compatibility; Digital' },
+            { key: 'playstation3', paren: 'Digital; PSone compatibility' },
             { key: 'playstation2', paren: 'PSone compatibility' },
             { key: 'playstation1', paren: 'Physical' },
             { key: 'playstation-vita', paren: 'Digital' },

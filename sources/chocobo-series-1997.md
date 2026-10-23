@@ -15,6 +15,7 @@
   - Lists the series' released games with Japan, North America and PAL release dates and a notes block each
   - Adds three games the series page does not list: Chocobo World (PocketStation minigame of Final Fantasy VIII, 1999-02-11 in Japan; included in the Windows version of Final Fantasy VIII, 2000), Chocobo Stallion and Dice de Chocobo (both 1999-12-22, in the Chocobo Collection compilation)
   - Chocobo Collection (1999-12-22) compiles Chocobo Racing, Chocobo Stallion and Dice de Chocobo; Dice de Chocobo was released on Game Boy Advance in 2002 as Chocobo Land: A Game of Dice
+  - Chocobo's Mysterious Dungeon notes: released on PlayStation (1997-12-23, Japan only), also available on WonderSwan (1999) and PlayStation Network (2010); Chocobo's Dungeon 2 notes: PlayStation, also on PlayStation Network (2010), a WonderSwan Color version planned and not released
   - Dice de Chocobo notes: developed by Denyusha and published by Square in the Chocobo Collection; a board game; the PlayStation version is on PlayStation Network (2008); the Game Boy Advance version (Chocobo Land: A Game of Dice, 2002) came to the Nintendo Wii U Virtual Console on 2016-02-10
   - Chocobo Stallion notes: developed by ParityBit and published by Square in the Chocobo Collection; a Chocobo raising and racing simulation; also available on PlayStation Network (2008)
   - Chocobo Anywhere 2.5 is a stand-alone download of 2004, no day given; Chocobo Land: A Game of Dice is given as 2002, no day
@@ -55,6 +56,11 @@
   - Progress in the first half carries over to the second; (C) 2003 Square
 - https://quicksave.live/game/18069 -- Final Fantasy Fables: Chocobo's Dungeon platforms*, dates*, languages (text pasted by user) -- accessed 2026-10-23; archived: TODO
   - Wii only: 2007-12-13, 2008-07-08 and 2008-11-07; languages listed: English (US) and Japanese, interface
+- https://quicksave.live/game/22894 -- Chocobo's Dungeon 2 platforms*, dates*, languages (text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - PlayStation 1998-12-23 and 1999-12-17; PlayStation Portable and PlayStation 3 2010-10-27
+  - Languages listed: English (US) and Japanese, with audio, subtitles and interface
+- https://quicksave.live/game/22904 -- Cid to Chocobo no Fushigi na Dungeon Toki Wasure no Meikyuu DS+ platform*, date* (text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - Nintendo DS only, 2008-10-30
 - https://quicksave.live/game/109465 -- Chocobo's Mystery Dungeon EVERY BUDDY! platforms*, dates*, languages (text pasted by user) -- accessed 2026-10-23; archived: TODO
   - PlayStation 4 and Nintendo Switch, both 2019-03-20; languages listed: English (US) and Japanese, interface
 - https://quicksave.live/game/22896 -- Chocobo Racing platforms*, dates*, languages (text pasted by user) -- accessed 2026-10-23; archived: TODO
