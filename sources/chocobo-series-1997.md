@@ -8,9 +8,24 @@
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Chocobo -- games*, dates*, platforms* -- accessed 2026-09-22
-- https://wikipedia.org/wiki/Chocobo_(series)
+- https://wikipedia.org/wiki/Chocobo_(series) -- games*, years* (the list of the series by year, 1997 to 2022; titles and links of the `contents[]` parts) -- accessed 2026-10-23
+  - Article pages linked from the list: Chocobo's_Mysterious_Dungeon, Chocobo's_Dungeon_2, Chocobo_Racing, Chocobo_Collection, Chocobo_Land:_A_Game_of_Dice, Choco-Mate, Final_Fantasy_Fables:_Chocobo_Tales, Chocobo_de_Mobile, Final_Fantasy_Fables:_Chocobo's_Dungeon, Cid_and_Chocobo's_Mysterious_Dungeon:_Labyrinth_of_Forgotten_Time_DS+, Chocobo_Panic, Chocobo's_Crystal_Tower, Chocobo%E2%80%99s_Chocotto_Farm, Chocobo's_Mystery_Dungeon_Every_Buddy!, Chocobo_GP (all under https://wikipedia.org/wiki/)
+  - No article linked for: Hataraku Chocobo, Chocobo Anywhere (1 to 3), Chocobo Tales: The Witch, the Girl, and the Five Heroes, Chocobo GP'
+- https://wikipedia.org/wiki/List_of_Chocobo_media#Games -- games*, Japan release dates*, platforms*, notes -- accessed 2026-10-23
+  - Lists the series' released games with Japan, North America and PAL release dates and a notes block each
+  - Adds three games the series page does not list: Chocobo World (PocketStation minigame of Final Fantasy VIII, 1999-02-11 in Japan; included in the Windows version of Final Fantasy VIII, 2000), Chocobo Stallion and Dice de Chocobo (both 1999-12-22, in the Chocobo Collection compilation)
+  - Chocobo Collection (1999-12-22) compiles Chocobo Racing, Chocobo Stallion and Dice de Chocobo; Dice de Chocobo was released on Game Boy Advance in 2002 as Chocobo Land: A Game of Dice
+  - Chocobo Anywhere 2.5 is a stand-alone download of 2004, no day given; Chocobo Land: A Game of Dice is given as 2002, no day
+  - Chocobo's Chocotto Farm (Chocobo no Chocotto Nouen, 2012-12-19): a farming game on the GREE mobile platform, developed by Smile-Lab, published by Square Enix
+  - Removed or shut down per its notes: Chocobo Panic (removed from the Apple App Store in 2017), Chocobo's Crystal Tower ("later shut down"), Chocobo GP' ("later delisted from marketplaces")
+  - Lists no article for: Chocobo GP', Chocobo no Chocotto Nouen, Chocobo's Crystal Tower, Chocobo Panic, Chocobo and the Magic Picture Book: The Witch, the Girl, and the Five Heroes, Chocobo de Mobile, Dokodemo Chocobo 1 to 3, Choco-Mate, Hataraku Chocobo, Chocobo Collection, Dice de Chocobo, Chocobo Stallion (user, 2026-10-23); the series page links articles for some of these
 
-## otakumode.com (Information)
+## breezewiki.com (Information; Final Fantasy Wiki mirror)
+
+- https://breezewiki.com/finalfantasy/wiki/Chocobo_World -- Chocobo World release dates*, platforms* (text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - PocketStation: Japan 1999-02-11, United States/Canada 1999-09-09, Europe/Australia 1999-10-27
+  - PC version: United States/Canada 1999-12-31, Japan 2000-03-23
+  - Steam: Europe/United States/Canada 2013-12-05, Asia 2013-12-12, Japan 2014-05-08
 
 - https://otakumode.com/otapedia/games/final_fantasy/chocobo_mystery_dungeon -- series, platforms, dates -- accessed 2026-10-17
   - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Gameplay, Plot, Characters, Development, Reception)
