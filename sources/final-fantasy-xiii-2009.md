@@ -91,7 +91,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
 - Amazon Android app store (Fire TV, Fire TV Stick, Fire tablets, Android phones): 2016-04-27, one of five apps released together (https://www.broadmedia.co.jp/news/dock/20160428-001_01.pdf; Amazon's campaign page https://www.amazon.co.jp/se2016 has no capture); saves sync through one Amazon account; a Fire TV Stick needs the Amazon Fire TV game controller
 - Android TV (Sony BRAVIA, 2015 and 2016 models): 2017-04-11 (https://www.broadmedia.co.jp/news/2017/04/11-001516.html); saves sync through one Google account with the Google Play app
 - au Game (KDDI): sold there until 2023-05-15, then buyers moved to the Google Play version (the news page's notice of 2023-02-28)
-- d game Play Ticket: in the browser from 2020-03-18 (https://www.broadmedia.co.jp/news/2020/03/18-001869.html), one of the launch titles; the service ended 2023-09-27 (see sources/final-fantasy-franchise.md)
+- d game Play Ticket: in the browser from 2020-03-18 (https://www.broadmedia.co.jp/news/2020/03/18-001869.html), one of the launch titles (Famitsu quotes the release, https://www.famitsu.com/news/202003/18194848.html: a browser on iPhone, iPad and Android, which backs the Android and iOS rows); Den Faminico Gamer (https://news.denfaminicogamer.jp/news/200318d, user, 2026-10-22) lists XIII as on sale at the 2020-03-18 launch, which confirms the date; the service ended 2023-09-27 (see sources/final-fantasy-franchise.md)
 
 ## Dive In (Platform; Square Enix cloud service, 2014-10-09 to 2015-09-13)
 
