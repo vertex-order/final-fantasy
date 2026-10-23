@@ -13,6 +13,9 @@
 - https://breezewiki.com/finalfantasy/wiki/Chocobo_World#Story -- story* (text pasted by user) -- accessed 2026-10-23; archived: TODO
   - Boko, MiniMog, Moomba and Cactuar are friends; MiniMog goes alone to find a treasure in Scary Mountain and does not return, and the other three set out to rescue it, Boko leading, Moomba searching for weapons, Cactuar for items
   - The rest of the section is a spoiler and is not used
+- https://breezewiki.com/finalfantasy/wiki/PocketStation -- PocketStation platform* (text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - A memory unit and companion device made by Sony for the PlayStation, released only in Japan on 1999-01-23
+  - Compatible with Final Fantasy VIII and its Chocobo World, and with Chocobo Stallion
 - https://breezewiki.com/finalfantasy/wiki/Chocobo_series -- the series page's short entry for the game (text pasted by user) -- accessed 2026-10-23
   - Chocobo World (おでかけチョコボRPG, Odekake Chokobo RPG), a PocketStation minigame released as part of Final Fantasy VIII; Boko, a baby chocobo, wanders a nondescript landscape in search of "events" such as enemy battles
   - Some items obtained in it, such as the Moomba summon, could not be accessed overseas; ported to the PC version of Final Fantasy VIII in 2000 and released in North America
@@ -23,6 +26,8 @@
 - https://wikipedia.org/wiki/Final_Fantasy_VIII#Other_media -- accessed 2026-10-23
   - The 2000 PC version includes Chocobo World, a minigame starring Boko, a Chocobo from a side-quest in the game
   - For most North American and European players the PC version was the only way to play it, as it was designed for the PocketStation, a handheld never released outside Japan
+- https://wikipedia.org/wiki/PocketStation#Compatible_PlayStation_games -- PocketStation platform* for Chocobo Stallion and Chocobo World -- accessed 2026-10-23
+  - Lists Final Fantasy VIII (the game Chocobo World belongs to) and Chocobo Stallion among the compatible PlayStation games
 
 ## store.steampowered.com (Platform)
 
