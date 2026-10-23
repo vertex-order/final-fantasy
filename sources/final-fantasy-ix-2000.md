@@ -70,9 +70,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 - https://web.archive.org/web/20250114091548/https://gcluster.jp/pc/app/sqex/ff9/index_ios.html -- the `apple` G-cluster row's page, G-cluster's iOS game page (last capture; the first capture, https://web.archive.org/web/20170924015451/https://gcluster.jp/pc/app/sqex/ff9/index_ios.html, lists iOS) -- user, 2026-10-22
 - https://apps.apple.com/jp/app/id1273920512 -- the App Store listing (capture 2020-01-06 shows Apple's splash; the page source holds the data): one app for iPhone, iPad, iPod touch (iOS 9.0 or later) and Apple TV; the Apple TV row's app, above -- accessed 2026-10-22
 - Launch: the iOS app on 2017-09-19, per the phone app news page (https://web.archive.org/web/20250114083821/https://gcluster.jp/sp/app/sqex/news.html); the 2023-02-28 notice there says IX was also sold in KDDI's "au Game" service, which ended 2023-05-15, with buyers moved to the Google Play version
-- The service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the rows are struck; Japan only; the Fire OS 5 or later line on G-cluster's app page has no matching Amazon listing found
+- The service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the rows are struck; Japan only
+- https://www.amazon.co.jp/dp/B075MCK6XC -- the Amazon appstore listing (ASIN B075MCK6XC), FINAL FANTASY IX クラウド版 by ブロードメディアGC株式会社, as linked from G-cluster's game page http://gcluster.jp/pc/app/sqex/ff9/index.html; user-pasted 2026-10-23
+  - Capture that renders: https://web.archive.org/web/20230814145211/https://www.amazon.co.jp/dp/B075MCK6XC/ref=sr_1_6 (2023-08-14, the only capture of that form); the 2024-09-02 capture of the `ref=sr_1_6&s=mobile-apps…` form has no page
+  - Listing: first listed on Amazon 2017-09-21, price 2,580 yen with a 30-minute free trial, works with Fire TV Voice Remote and game controllers, minimum Android 5.1, 52 ratings (3.3 of 5), Languages Supported: Japanese; the listing's developer link is https://gcluster.jp/app/sqex/ff9/
 
-- Releases (user, 2026-10-22): https://www.broadmedia.co.jp/news/2017/09/19-001571.html -- IX started 2017-09-19 on G-cluster, G-cluster for LEONET (Life Stick), Apple TV and Google Play; the App Store, the Amazon Android app store and Amazon Fire TV were announced as coming soon and are not confirmed for IX
+- Releases (user, 2026-10-22): https://www.broadmedia.co.jp/news/2017/09/19-001571.html -- IX started 2017-09-19 on G-cluster, G-cluster for LEONET (Life Stick), Apple TV and Google Play; the App Store, the Amazon Android app store and Amazon Fire TV were announced as coming soon; the Amazon listing was first listed 2017-09-21
 
 ## Apple TV (Platform; G-cluster cloud app)
 
