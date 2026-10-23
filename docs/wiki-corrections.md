@@ -281,3 +281,21 @@ value, ours, and why, so the corrections can be reported upstream.
 - Our source: [final-fantasy-ii-journey-to-victory-1988.md](../sources/final-fantasy-ii-journey-to-victory-1988.md)
 - Reason: no primary catalog names a writer, so report it only after a
   primary record is found.
+
+### quicksave.live: Chocobo to Mahou no Ehon: Majo to Shoujo to Go-nin no Yuusha (release year)
+
+- Page: https://quicksave.live/game/125583
+- Says: Nintendo DS, 11 December 2011.
+- Probably: 11 December 2008.
+- Our source: [chocobo-series-1997.md](../sources/chocobo-series-1997.md)
+- Reason: candidate only: the Final Fantasy Wiki and Wikipedia's media list both give 11 December 2008; no
+  primary record has been checked.
+
+### quicksave.live: Dice de Chocobo / Chocobo Land: A Game of Dice (PlayStation date)
+
+- Page: https://quicksave.live/game/49559
+- Says: PlayStation, 13 December 2002 (the Game Boy Advance remake's date), on one page for both games.
+- Probably: PlayStation 22 December 1999 (in the Chocobo Collection); the page merges the PlayStation game and the Game Boy Advance remake.
+- Our source: [chocobo-series-1997.md](../sources/chocobo-series-1997.md)
+- Reason: candidate only: Wikipedia's media list, finalfantasywiki.com and the Final Fantasy Wiki all give 22 December 1999; no
+  primary record has been checked.

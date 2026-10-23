@@ -56,6 +56,26 @@
   - Progress in the first half carries over to the second; (C) 2003 Square
 - https://quicksave.live/game/18069 -- Final Fantasy Fables: Chocobo's Dungeon platforms*, dates*, languages (text pasted by user) -- accessed 2026-10-23; archived: TODO
   - Wii only: 2007-12-13, 2008-07-08 and 2008-11-07; languages listed: English (US) and Japanese, interface
+- https://quicksave.live/game/49559 -- Chocobo Land: A Game of Dice / Dice de Chocobo platforms*, dates (text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - One page for both names, Japanese interface: Game Boy Advance 2002-12-13, PlayStation 2002-12-13, PlayStation 3 and PlayStation Portable 2008-07-23, Wii U 2016-02-10
+  - The PlayStation date of 2002-12-13 disagrees with Wikipedia's media list, finalfantasywiki.com and the Final Fantasy Wiki, which put the PlayStation game in the Chocobo Collection on 1999-12-22 (candidate in docs/wiki-corrections.md)
+- https://quicksave.live/game/22899 -- Hataraku Chocobo platform*, date* (text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - WonderSwan Color, tagged Japan-only, 2000-09-21
+- https://quicksave.live/game/22905 -- Chocobo Panic platform*, date (text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - iOS, 2010-05-24 (Wikipedia's media list gives iPad and 2010-05-28)
+  - Its description: a game for iPad where the player catches and holds colourful chocobos moving around the screen until told to "Let go!"; co-op mode and a high score; the platform list is iOS only, so the description gives the iPad
+- https://quicksave.live/game/22906 -- Chocobo de Mobile year* (text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - Developed and published by Square Enix, released in Japan in 2006; no platform or day listed
+- https://quicksave.live/game/22907 -- Chocobo's Crystal Tower platform*, date (text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - Legacy Mobile Device, 2010-06-22 (Wikipedia's media list gives 2010-06-29 for Japan and 2010-11-02 for the Facebook app); no Facebook listed
+- https://quicksave.live/game/22908 -- Chocobo no Chocotto Nouen (Chocobo's Chocotto Farm) platforms*, date (text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - A farming simulation with Chocobo for GREE Social in Japan; iOS and Android, both 2012-12-20 (Wikipedia's media list gives 2012-12-19)
+- https://quicksave.live/game/125583 -- Chocobo to Mahou no Ehon: Majo to Shoujo to Go-nin no Yuusha platform*, date (text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - Nintendo DS, tagged Japan-only, dated 2011-12-11; the Final Fantasy Wiki and Wikipedia's media list give 2008-12-11, so the year here disagrees with both (candidate in docs/wiki-corrections.md)
+- https://quicksave.live/game/143246 -- Chocobo no Fushigi na Dungeon for WonderSwan platform*, date* (text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - WonderSwan, 1999-03-04
+- https://quicksave.live/game/18070 -- Chocobo's Mysterious Dungeon (Chocobo no Fushigi na Dungeon) platforms*, dates* (text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - PlayStation 1997-12-22; PlayStation Portable and PlayStation 3 2010-08-25; no WonderSwan listed
 - https://quicksave.live/game/22894 -- Chocobo's Dungeon 2 platforms*, dates*, languages (text pasted by user) -- accessed 2026-10-23; archived: TODO
   - PlayStation 1998-12-23 and 1999-12-17; PlayStation Portable and PlayStation 3 2010-10-27
   - Languages listed: English (US) and Japanese, with audio, subtitles and interface
@@ -138,8 +158,8 @@
   - d game was Docomo's portal for Android and iPhone social games (Game Watch, https://game.watch.impress.co.jp/docs/news/1470536.html, 2023-01-16); it ended 2023-09-27
   - The English title is a literal rendering of the Japanese (ちょこっと "just a little", 農園 "farm"); no official English title found; machine translation gives "Chocobo's Choco and Farm"
   - Not the next listing on the same page, ちょこっとファーム (Chokotto Farm, another publisher's farm game)
-  - Platforms: Android and iOS, struck and Japan only, because d game was Docomo's portal for Android smartphones and iPhones and the listing is on its smartphone store page (`sp/game-store`); the capture does not say which devices each listed game ran on, so that is an inference from the portal; the portal ended 2023-09-27 (an earlier end for the game itself is not known)
-  - Unknown: release date, publisher page, end date, and whether it also ran outside d game
+  - Platforms: Android and iOS, Japan only; quicksave (https://quicksave.live/game/22908) lists both, and Wikipedia's media list puts the game on GREE; the capture does not say which devices each listed game ran on; d game was Docomo's portal for Android smartphones and iPhones, and the listing is on its smartphone store page (`sp/game-store`), which ended 2023-09-27 (an earlier end for the game itself is not known)
+  - Unknown: publisher page, end date, and whether it also ran outside GREE and d game
 
 ## Decisions
 
