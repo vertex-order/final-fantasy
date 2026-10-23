@@ -340,7 +340,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
             { key: 'nintendo-nes-fc', paren: 'Physical' },
             { key: 'nintendo-nes-classic-edition', nonJpTag: true },
             { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console' },
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility' },
             { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
           ],
           versionDesc: [

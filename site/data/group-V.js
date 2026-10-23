@@ -125,7 +125,7 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
           platforms: [
             { key: 'nintendo-snes', jpTag: true, paren: 'Super Famicom; Physical' },
             { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console' },
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility' },
             { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
           ],
           versionDesc: [

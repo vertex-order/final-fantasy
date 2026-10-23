@@ -157,7 +157,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
             { value: 'SV', tip: 'Swedish (Fan Translation) (Cyndeline Translations 2007)' },
           ],
           platforms: [
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility' },
             { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console' },
             { key: 'nintendo-fc', paren: 'Physical; Japan Only' },
             { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },

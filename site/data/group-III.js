@@ -60,7 +60,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
             { value: 'KO', tip: 'Korean (Fan Translation) (2003)' },
           ],
           platforms: [
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility' },
             { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console' },
             { key: 'nintendo-nes-classic-edition', jpTag: true },
             { key: 'nintendo-fc', paren: 'Physical; Japan Only' },

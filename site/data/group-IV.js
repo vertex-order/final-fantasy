@@ -137,7 +137,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
           platforms: [
             { key: 'nintendo-snes', paren: 'Super Famicom; Physical' },
             { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console' },
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility' },
             { key: 'nintendo-game-boy-advance', paren: 'Physical' },
           ],
           versionDesc: [
@@ -333,7 +333,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
           subtitle: 'Edit', subtitleDate: 2009,
           platforms: [
             { key: 'nintendo-wii', terminated: true, paren: 'WiiWare' },
-            { key: 'nintendo-wii-u', terminated: true, paren: 'WiiWare' },
+            { key: 'nintendo-wii-u', terminated: true, paren: 'WiiWare; Wii compatibility' },
           ],
           versionDesc: [
             'This release blends the Prologue, Ceodore’s Tale, and Kain’s Tale together, and was the first to release outside Japan.',

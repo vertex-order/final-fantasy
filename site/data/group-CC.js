@@ -157,6 +157,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       length: [{ value: '18h', tip: 'Main Story', join: ' / ' }, { value: '35h', tip: 'Main + Extra', join: ' / ' }, { value: '78½h', tip: 'Completionist' }],
       platforms: [
         { key: 'nintendo-wii', terminated: true, paren: 'WiiWare' },
+        { key: 'nintendo-wii-u', terminated: true, paren: 'Wii compatibility' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles My Life as a King', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles My Life as a King', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles My Life as a King' },
@@ -187,6 +188,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       length: [{ value: '10½h', tip: 'Main Story', join: ' / ' }, { value: '16h', tip: 'Main + Extra' }],
       platforms: [
         { key: 'nintendo-wii', terminated: true, paren: 'WiiWare' },
+        { key: 'nintendo-wii-u', terminated: true, paren: 'Wii compatibility' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles My Life as a Darklord', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles My Life as a Darklord', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles My Life as a Darklord' },
@@ -214,6 +216,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       length: [{ value: '10½h', tip: 'Main Story', join: ' / ' }, { value: '16½h', tip: 'Main + Extra', join: ' / ' }, { value: '32h', tip: 'Completionist' }],
       platforms: [
         { key: 'nintendo-wii' },
+        { key: 'nintendo-wii-u', paren: 'Wii compatibility' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles The Crystal Bearers', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles The Crystal Bearers', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles The Crystal Bearers' },
@@ -320,6 +323,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       platforms: [
         { key: 'nintendo-ds' },
         { key: 'nintendo-wii' },
+        { key: 'nintendo-wii-u', paren: 'Wii compatibility' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Echoes of Time', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Echoes of Time', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Echoes of Time' },

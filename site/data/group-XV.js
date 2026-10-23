@@ -599,7 +599,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       platforms: [
         { key: 'nintendo-nes-fc', paren: 'Physical' },
         { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console' },
-        { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+        { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility' },
         { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
         { key: 'fan-movie', paren: 'Youtube', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', noResults: true },

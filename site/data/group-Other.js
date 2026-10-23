@@ -255,6 +255,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { key: 'nintendo-switch' },
         { key: 'nintendo-switch-2', paren: 'Switch compatibility' },
         { key: 'nintendo-wii' },
+        { key: 'nintendo-wii-u', paren: 'Wii compatibility' },
         { key: 'nintendo-3ds' },
         { key: 'nintendo-ds' },
         { key: 'nintendo-game-boy-advance', paren: 'Physical' },

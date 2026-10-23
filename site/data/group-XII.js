@@ -467,6 +467,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
           ],
           platforms: [
             { key: 'nintendo-wii', terminated: true, paren: 'WiiWare', url: 'https://www.nintendo.com/en-gb/Games/WiiWare/CRYSTAL-DEFENDERS-R1-284919.html' },
+            { key: 'nintendo-wii-u', terminated: true, paren: 'Wii compatibility', url: 'https://www.nintendo.com/en-gb/Games/WiiWare/CRYSTAL-DEFENDERS-R1-284919.html' },
           ],
           versionDesc: [
             [{ text: 'A new series on separate maps, in two installments: R1, a tutorial for beginners, and R2. A Moogle youth gathers companions to protect the crystals. Has a bonus stage for a perfect run and a much lower difficulty than ' }, { emLinkText: 'Crystal Defenders (2008)', emLinkUrl: '#entry-XII-crystal-defenders-2008' }, { text: '.' }],
