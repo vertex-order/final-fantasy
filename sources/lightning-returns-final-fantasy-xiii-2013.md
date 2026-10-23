@@ -54,10 +54,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
 
 ## G-cluster (Platform; G-cluster cloud TV version)
 
-- https://web.archive.org/web/20250114090031/https://gcluster.jp/pc/games/lrff13.html -- the `android-tv` row's link, G-cluster's TV game page (last capture, 2025-01-14, renders) -- accessed 2026-10-22
+- https://web.archive.org/web/20250114090031/https://gcluster.jp/pc/games/lrff13.html -- the `g-cluster-tv` row's link, G-cluster's TV game page (last capture, 2025-01-14, renders) -- accessed 2026-10-22
   - First capture https://web.archive.org/web/20160125071127/https://gcluster.jp/pc/games/lrff13.html (2016-01-25); start 2016-01-21
   - The original story with no changes, part of the downloadable content bundled, no Dolby Digital; fits the 2015 Windows Remaster, the page does not say Windows
-  - The TV version, playable on the G-cluster console and on TVs with G-cluster built in or Android TV (device logos: Android TV, G-cluster, Sharp, Bravia, LG); one row, `g-cluster-tv`, names the console, Sharp, LG, Sony Bravia and Android TV in its tooltip; no stop-of-sale notice on the 2025-01-14 page
+  - The TV version; the page's device logos: Android TV, G-cluster, Sharp, Bravia, LG; no stop-of-sale notice on the 2025-01-14 page
   - Also on Sharp's own COCORO GAME service, which ended 2021-05-31 (notice: https://cocoroplus.jp.sharp/news/7280/); its game list (first capture https://web.archive.org/web/20190724070019/https://cocoroplus.jp.sharp/game/list/, with all seven FF titles and no links; the last capture, 2026-02-13, is stale) -- user, 2026-10-22; not part of the G-cluster TV row, whose service ended 2025-02-28
   - Japan only; the whole G-cluster service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the row is struck
 

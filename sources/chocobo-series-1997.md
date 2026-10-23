@@ -13,12 +13,11 @@
 ## otakumode.com (Information)
 
 - https://otakumode.com/otapedia/games/final_fantasy/chocobo_mystery_dungeon -- series, platforms, dates -- accessed 2026-10-17
-  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Gameplay, Plot, Characters, Development, Reception; added to this entry at the user's request)
+  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Gameplay, Plot, Characters, Development, Reception)
   - a page on one game of the series, Chocobo Mystery Dungeon
   - The game: an RPG for the Nintendo Wii, Japan 2007 and the rest of the world 2008, remastered on the Nintendo DS in 2008
     - a related sequel, Chocobo's Mystery Dungeon: Every Buddy!, came to the Nintendo Switch and PlayStation 4 in 2019
     - random dungeons, a job system with ten jobs, card duels, WiFi battles
-    - all of these platforms (Wii, DS, Switch, PlayStation 4) are among this entry's platform rows
   - Plot (short): during a quest for the Timeless Power Gem, Cid and Chocobo fall into a vortex and land in Lostime on the island of Memoria, where a Bell of Oblivion makes everyone lose their memory
     - with Shirma and the mysterious Raffaello, Chocobo sets out to recover the residents' memories
     - this one game is not an entry of its own here
@@ -26,13 +25,12 @@
     - consistent with the entry's description (casual fun around a recurring cast, different genres)
   - Its Links section names only https://www.square-enix.com/
 - https://otakumode.com/otapedia/games/final_fantasy/chocobo_racing -- series, platforms, dates -- accessed 2026-10-17
-  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Gameplay, Characters, Plot; added to this entry at the user's request)
+  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Gameplay, Characters, Plot)
   - a page on one game of the series, Chocobo Racing
   - The game: a kart-style racing game by Square for the Sony PlayStation in 1999, compared to Mario Kart and Crash Team Racing, starring Chocobo with Mog the Moogle and the Black Mage
     - modes: Story Mode (Cid narrates in a storybook style), Versus (multiplayer or against the computer), Grand-Prix, a relay race and Time Attack
     - Magic Stones (Haste, Fire, Blizzard, Thunder, Minimize, Reflect, Doom) that level up when collected again
     - average reviews
-    - the PlayStation is among this entry's platform rows (`playstation1`, physical)
   - Plot (short): in chapters, Chocobo races challengers to uncover the mystery behind the blue crystals (Magicite shards of a crystal that the founder of Mysidia broke into eight pieces), travelling with the Moogle Mog
     - the White Mage tells them the secret if they beat her in a race
     - after all eight shards are gathered Bahamut opens a portal to the Esper kingdom of Fantasia after a race
@@ -55,6 +53,6 @@
   - The English title is a literal rendering of the Japanese (ちょこっと "just a little", 農園 "farm"); no official English title found; machine translation gives "Chocobo's Choco and Farm"
   - Not the next listing on the same page, ちょこっとファーム (Chokotto Farm, another publisher's farm game)
   - Platforms: Android and iOS, struck and Japan only, because d game was Docomo's portal for Android smartphones and iPhones and the listing is on its smartphone store page (`sp/game-store`); the capture does not say which devices each listed game ran on, so that is an inference from the portal; the portal ended 2023-09-27 (an earlier end for the game itself is not known)
-  - Unknown: release date, publisher page, end date, and whether it also ran outside d game; the entry lists it as a part of the series with its title, this listing and those platforms
+  - Unknown: release date, publisher page, end date, and whether it also ran outside d game
 
 ## Decisions

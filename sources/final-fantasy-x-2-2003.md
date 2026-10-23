@@ -52,12 +52,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
 - Launch: the app on 2017-11-16, per the phone app news page (https://web.archive.org/web/20250114083821/https://gcluster.jp/sp/app/sqex/news.html); the 2023-02-28 notice there says it was also sold in KDDI's "au Game" service, which ended 2023-05-15, with buyers moved to the Google Play version
 - The service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the rows are struck; Japan only; no Amazon listing found
 
-- Release: https://www.broadmedia.co.jp/news/2017/11/16-001589.html (user, 2026-10-22) -- X/X-2 HD Remaster started 2017-11-16 on G-cluster, the App Store, Apple TV, Google Play, the Amazon Android app store, Amazon Fire TV, G-cluster for LEONET and COCORO GAME (Sharp's G-cluster service for AQUOS 4K TVs); the `amazon` rows have no link because no Amazon page was found; the release names its Google Play and App Store pages (the same as above)
+- Release: https://www.broadmedia.co.jp/news/2017/11/16-001589.html (user, 2026-10-22) -- X/X-2 HD Remaster started 2017-11-16 on G-cluster, the App Store, Apple TV, Google Play, the Amazon Android app store, Amazon Fire TV, G-cluster for LEONET and COCORO GAME (Sharp's G-cluster service for AQUOS 4K TVs); no Amazon page was found; the release names its Google Play and App Store pages (the same as above)
 
 ## Apple TV (Platform; G-cluster cloud app)
 
 - https://apps.apple.com/jp/app/id1297115524 -- the Apple TV row's app, FINAL FANTASY X/X-2 HD リマスター, by Broadmedia GC Corporation (G-cluster) -- accessed 2026-10-22; last page capture with the app: https://web.archive.org/web/20221006021639/https://apps.apple.com/jp/app/id1297115524
-  - Languages line: 日本語 only, so the entry's languages are unchanged; the page's raw HTML was read (the capture shows only an Apple "Connecting" splash in a browser)
+  - Languages line: 日本語 only; the page's raw HTML was read (the capture shows only an Apple "Connecting" splash in a browser)
 - https://web.archive.org/web/20191231113138/https://apps.apple.com/jp/developer/broadmedia-gc-corporation/id1144024684 -- Broadmedia's App Store developer page (user, 2026-10-22): X/X-2 HD is listed under Apple TV only, not under iPhone and iPad, which is why there is no `apple` row and the row uses `apple-tv`
 - http://gcluster.jp/pc/app/sqex/ff10/index.html -- the row's link, G-cluster's game page (captured 2025-01-14; the original is http) -- accessed 2026-10-22; archived: https://web.archive.org/web/20250114090015/http://gcluster.jp/pc/app/sqex/ff10/index.html
   - Cloud-streaming app, Japan only (`G-cluster cloud`); the whole G-cluster service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the row is struck
@@ -67,10 +67,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
 
 ## G-cluster (Platform; G-cluster cloud TV version)
 
-- https://web.archive.org/web/20250114090033/https://gcluster.jp/pc/games/ff10.html -- the `android-tv` row's link, G-cluster's TV game page (last capture, 2025-01-14, renders) -- accessed 2026-10-22
+- https://web.archive.org/web/20250114090033/https://gcluster.jp/pc/games/ff10.html -- the `g-cluster-tv` row's link, G-cluster's TV game page (last capture, 2025-01-14, renders) -- accessed 2026-10-22
   - First capture https://web.archive.org/web/20210301010911/https://gcluster.jp/pc/games/ff10.html (2021-03-01); start 2017-11-16 (the 2021 capture has no TV device line; it appears by 2025)
   - One set with X (see final-fantasy-x-2001.md); the page links the app version site (the Apple TV app, above)
-  - The TV version, playable on the G-cluster console and on TVs with G-cluster built in or Android TV (device logos: Android TV, G-cluster, Sharp, Bravia, LG); one row, `g-cluster-tv`, names the console, Sharp, LG, Sony Bravia and Android TV in its tooltip; no stop-of-sale notice on the 2025-01-14 page
+  - The TV version; the page's device logos: Android TV, G-cluster, Sharp, Bravia, LG; no stop-of-sale notice on the 2025-01-14 page
   - Also on Sharp's own COCORO GAME service, which ended 2021-05-31 (notice: https://cocoroplus.jp.sharp/news/7280/); its game list (first capture https://web.archive.org/web/20190724070019/https://cocoroplus.jp.sharp/game/list/, with all seven FF titles and no links; the last capture, 2026-02-13, is stale) -- user, 2026-10-22; not part of the G-cluster TV row, whose service ended 2025-02-28
   - Japan only; the whole G-cluster service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the row is struck
 

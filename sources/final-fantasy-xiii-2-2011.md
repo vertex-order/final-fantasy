@@ -52,10 +52,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
 
 ## G-cluster (Platform; G-cluster cloud TV version)
 
-- https://web.archive.org/web/20250114090028/https://gcluster.jp/pc/games/ff13-2.html -- the `android-tv` row's link, G-cluster's TV game page (last capture, 2025-01-14, renders) -- accessed 2026-10-22
+- https://web.archive.org/web/20250114090028/https://gcluster.jp/pc/games/ff13-2.html -- the `g-cluster-tv` row's link, G-cluster's TV game page (last capture, 2025-01-14, renders) -- accessed 2026-10-22
   - First capture https://web.archive.org/web/20151223124156/https://gcluster.jp/pc/games/ff13-2.html (2015-12-23, "Smart G-cluster ○"); start 2014-12-11
   - The original story with no changes, and part of the downloadable content bundled (episodes, enemies, some costumes), which fits the 2014 Windows Remaster; the page does not say Windows
-  - The TV version, playable on the G-cluster console and on TVs with G-cluster built in or Android TV (device logos: Android TV, G-cluster, Sharp, Bravia, LG); one row, `g-cluster-tv`, names the console, Sharp, LG, Sony Bravia and Android TV in its tooltip; no stop-of-sale notice on the 2025-01-14 page
+  - The TV version; the page's device logos: Android TV, G-cluster, Sharp, Bravia, LG; no stop-of-sale notice on the 2025-01-14 page
   - Also on Sharp's own COCORO GAME service, which ended 2021-05-31 (notice: https://cocoroplus.jp.sharp/news/7280/); its game list (first capture https://web.archive.org/web/20190724070019/https://cocoroplus.jp.sharp/game/list/, with all seven FF titles and no links; the last capture, 2026-02-13, is stale) -- user, 2026-10-22; not part of the G-cluster TV row, whose service ended 2025-02-28
   - Japan only; the whole G-cluster service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the row is struck
 

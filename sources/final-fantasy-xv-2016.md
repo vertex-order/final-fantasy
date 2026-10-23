@@ -109,7 +109,6 @@ square-enix-games.com (Publisher, official)
   - its list of the four "Crazy Challenges" in the Stadia Edition: **Challenge Rally** (a racing track using the off-road Regalia), **Expert Duel** (a challenge mode with new super bosses such as Death Gaze), **Endless Magitek Armor** (the Magitek Armor without the usual 30-minute limit) and **Magna Flight** (a minigame moving objects with magnetic force)
   - it also notes the price (a Stadia Founders Edition at $130 plus the game at $30 to $40) and criticizes the spending on Stadia exclusives while the promised level and script editors for the Windows Edition were not delivered
   - the content is challenge modes with no story
-  - the entry has no Stadia version or row (see .plan/todo.md, item 23)
 - https://www.pcgamer.com/oh-wow-final-fantasy-15s-stadia-exclusive-minigames-are-hilariously-awful/ -- Stadia version, exclusive content -- accessed 2026-10-18
   - (given by the user and fetched by me)
   - "Oh wow, Final Fantasy 15's Stadia-exclusive minigames are hilariously awful" by Steven Messner for PC Gamer, published March 10, 2020
@@ -131,9 +130,8 @@ square-enix-games.com (Publisher, official)
   - Lists no supported languages; the screenshots show English
   - Other languages unknown and unlikely to surface without an actual build; the version lists EN with `…?` and no `helpWanted`
 - https://web.archive.org/web/20201112104757/https://store.google.com/product/stadia_games -- Google Store Stadia games page; Stadia rows -- accessed 2026-10-19 (capture 2020-11-12)
-  - Lists Final Fantasy XV, confirming it was on Stadia; the entry's Stadia row and the DLC Stadia rows link this page
+  - Lists Final Fantasy XV, confirming it was on Stadia
   - The Stadia Edition page (2021-02-07 capture) lists what it included: the main game (same contents as the Royal Edition), Royal Pack, Episodes Gladiolus, Prompto, Ignis and Ardyn, Multiplayer: Comrades (matching only among Stadia users), Booster Pack+, Holiday Pack+ (no Carnival Passport) and the new minigame collection "Crazy Challenge"
-  - So the Episodes, Ardyn and Comrades each carry a terminated Stadia row
 
 - https://www.youtube.com/watch?v=qKNfcMQQbi8 -- Royal and Windows Editions, contents -- accessed 2026-10-18
   - (page text and a YouTube AI Q&A given by the user; not verified by me)
@@ -145,46 +143,42 @@ square-enix-games.com (Publisher, official)
 
 ## apps.apple.com (Platform; old iOS app)
 
-- https://apps.apple.com/us/app/finalfantasy-xv-pocket-edition/id1152350815 -- the Pocket Edition iOS row (now struck) -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
+- https://apps.apple.com/us/app/finalfantasy-xv-pocket-edition/id1152350815 -- the Pocket Edition iOS row (struck) -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
   - gone (404) and not in any storefront the iTunes lookup covers; the capture shows version 1.0.8: https://web.archive.org/web/20240828125756/https://apps.apple.com/us/app/finalfantasy-xv-pocket-edition/id1152350815
 
 ## Cloud service launches (Platform; d game Play Ticket)
 - The `android2` and `apple` rows ("d game Play Ticket cloud") sit on the primary, the "Remake" 2018 entry with the Windows build, struck, with no link, on the device families the service ran on (iPhone, iPad, Android; not a general browser); the build is our matching, since the release and Game Watch say only "PC games on smartphones and tablets"; the Stadia version ("Edit" 2019) is a different cloud service
 
-- d game Play Ticket (NTT Docomo, browser-based cloud games on G-cluster technology): FINAL FANTASY XV from 2020-05-21, as a play ticket good for 3 years (Famitsu https://www.famitsu.com/news/202005/21198747.html, quoting the Broadmedia release https://www.broadmedia.co.jp/news/2020/05/21-001897.html); the service ended 2023-09-27 (see sources/final-fantasy-franchise.md); no platform row yet and no store page found
+- d game Play Ticket (NTT Docomo, browser-based cloud games on G-cluster technology): FINAL FANTASY XV from 2020-05-21, as a play ticket good for 3 years (Famitsu https://www.famitsu.com/news/202005/21198747.html, quoting the Broadmedia release https://www.broadmedia.co.jp/news/2020/05/21-001897.html); the service ended 2023-09-27 (see sources/final-fantasy-franchise.md); no store page found
 - Game Watch (Impress), https://game.watch.impress.co.jp/docs/news/1253746.html (user, 2026-10-22): XV started on d game Play Ticket on 2020-05-21, price 5,478 yen for 3 years; "you can enjoy PC games on smartphones and tablets", usable on any carrier and on 5G; the article names the original PS4, Xbox One and PC releases of 2016-11
 - Gamer, https://www.gamer.ne.jp/news/202005210007/ (user, 2026-10-22): also confirms the start on 2020-05-21 on d game Play Ticket, with the cloud version of XV 5G-ready and "experienced on a smartphone"; usable with a d account on any carrier; its service link is http://www.dmkt-sp.jp/g/, the dead end already tried on Wayback
 
 ## Decisions
-- **REVERSED, to be built as an entry (user, 2026-10-18; confirmed with a second source the same day):** the user first thought Comrades added co-op to the whole game with no story of its own
+- **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations
   - it can be played alone with NPC party members
   - released November 15, 2017 (delayed from October 31), sold as a standalone DLC for $19.99, in the Season Pass and in the Royal and Windows Editions
   - revealed as a standalone game at PAX East 2018 and released as one in December 2018 (ten new bosses; the original stopped working and owners got it free)
   - online play shut down in June 2020 (for Origin and Microsoft Store copies per the main article), offline play remains
   - the base game's story stays single-player
-  - the earlier decision below (no entry) is superseded, see .plan/todo.md
-  - the old text follows: Comrades was "not an entry of its own" (user, 2026-10-18): it is a DLC that was rolled into most editions of the game, which the entry's version description already says ("This remake integrates the DLC Episode Gladiolus, Prompto, Ignis, and co-op expansion Comrades..."), and the base entry's length lists the Comrades co-op hours
   - the **standalone Comrades version is left out on purpose**: per en.wikipedia (Final Fantasy XV downloadable content) the multiplayer DLC came out in November 2017 and a standalone version in December 2018 superseded it (ten new bosses and other expansions; the original version stopped working and its owners got the new one free; a planned PC version was cancelled and the PC original kept working), so the standalone is treated as the same DLC for a specific platform, not a separate entry, and too many exceptions and alternates would only confuse (the user did not want it outlined as a standalone, and a co-op expansion is not necessarily a standalone)
-  - Comrades has a story (a Kingsglaive survivor defending Lestallum), but it is covered by the base entry
 - Holiday Pack + and Booster Pack + are purposely left out (user, 2026-10-18): the Season Pass item and cosmetic packs have no story or entertainment content of their own
-- Comrades has its own entry now (user, 2026-10-18; see final-fantasy-xv-comrades-2017.md), so the base entry's version description names it like the other DLC ("the DLC Episode Gladiolus, Prompto, Ignis, and Comrades"), without the "co-op expansion" wording or the online-subscription sentence, and its 38½h co-op length moved to the Comrades entry
-  - Holiday Pack + and Booster Pack + stay out on purpose (user, 2026-10-18)
+- The base entry's version description names Comrades like the other DLC ("the DLC Episode Gladiolus, Prompto, Ignis, and Comrades"), and the 38½h co-op length is on the Comrades entry (user, 2026-10-18; see final-fantasy-xv-comrades-2017.md)
   - the standalone version is a `versions[]` item of the Comrades entry, not an entry of its own
-- A Stadia Edition was added to the entry's `versions[]` (user, 2026-10-18): a terminated `stadia` row (the platform, Google Stadia, was added to the platforms micro-kit the same day, with the Wikimedia Commons logo mark, public domain) and a version note on the four exclusive challenge minigames (Challenge Rally in the off-road Regalia, Expert Duel with new super bosses, Endless Magitek Armor, Magna Flight), a launch title of November 19, 2019
+- The Stadia Edition is a `versions[]` item (user, 2026-10-18): a terminated `stadia` row (Google Stadia's logo mark is from Wikimedia Commons, public domain) and a version note on the four exclusive challenge minigames (Challenge Rally in the off-road Regalia, Expert Duel with new super bosses, Endless Magitek Armor, Magna Flight), a launch title of November 19, 2019
   - the user's reasons: the content exists nowhere else, and extra content is extra content even when it is bad (as with the bonus content dropped from the Pixel Remasters)
   - Stadia ran about 3 years 2 months (the public launch in November 2019 to the shutdown on 2023-01-18), so the platform is struck through
   - the user believes XV is the only Final Fantasy game on Stadia (not checked against Stadia's full catalogue)
   - no languages are set on the version, and the 30 FPS cap one commenter mentions is not in the note (unofficial)
 - The Stadia row links the official Stadia Edition page through its Wayback capture (user, 2026-10-18): https://web.archive.org/web/20241024083316/https://finalfantasyxv.square-enix-games.com/en/stadia
   - the platform is gone and the original page now redirects, so the archived copy is the link
-- The base entry's `Co-op` tag became `Co-op content`, and the version description says "and Comrades (Co-op content)," (user, 2026-10-18): the user was torn on the plain Co-op tag, since people read the base game's tags as "what is possible in this game" and the built-in Comrades DLC adds a co-op segment, but a plain Co-op tag makes the whole entry look co-op, which it is not
+- The base entry's tag is `Co-op content`, not plain `Co-op`, and the version description says "and Comrades (Co-op content)," (user, 2026-10-18): the user was torn on the plain Co-op tag, since people read the base game's tags as "what is possible in this game" and the built-in Comrades DLC adds a co-op segment, but a plain Co-op tag makes the whole entry look co-op, which it is not
   - the Comrades DLC has its own entry, so the main entry speaks less about DLC features, but the DLC is built into the release we link to (the Royal and Windows Editions), which is why it still gets a short mention with the clarifying paren
   - the Steam page's online co-op tag (only Comrades provides it) is the evidence
 - The primary's version description ends "Does not include Stadia bonus content." (user, 2026-10-18): the Royal and Windows Editions do not carry the Crazy Challenge minigames, which exist only in the Stadia Edition (a version of this entry)
-- The version description's additions were shortened (user, 2026-10-18): "adds a new Insomnia City Ruins dungeon, an explorable royal vessel, an Armiger Unleashed ultimate ability, and a first-person camera mode" became "adds a new dungeon, area, and ultimate ability, and a first-person camera mode"
+- The version description's additions are kept short (user, 2026-10-18): "adds a new dungeon, area, and ultimate ability, and a first-person camera mode"
   - the names are on the store pages (Insomnia City Ruins: Expanded Map, the Royal Cruiser, Armiger Unleashed)
-- The Stadia version's subtitle is "Edit" (2019) (user, 2026-10-18: change the subtitle from "Stadia (2019)" to "Edit (2019)"; first misread by me as "Edition"): `Edit` is the kit's subtitle for a small gameplay or content tweak with no fidelity change (docs/subtitle.md), which fits the Stadia version's added minigames
+- The Stadia version's subtitle is "Edit" (2019) (user, 2026-10-18): `Edit` is the kit's subtitle for a small gameplay or content tweak with no fidelity change (docs/subtitle.md), which fits the Stadia version's added minigames
   - the Stadia platform row and its icon name the platform
 - PlayStation Store pages of the XV add-ons (given by the user, 2026-10-18): the Season Pass https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVSEASONPASS00 (Holiday Pack +, Booster Pack +, Episodes Gladiolus, Ignis and Prompto, Multiplayer Expansion: Comrades (PlayStation Plus required) and the Gourmand Set; no links to the individual DLC)
   - the individual pages of Episode Gladiolus (UP0082-CUSA01633_00-GLADIOLUS0000001), Episode Ignis (...-IGNIS00000000001), Episode Prompto (...-PROMPTO000000001) and Episode Ardyn (...-ARDYN00000000001), each with no link to other editions, DLC or packs, and the Comrades standalone (UP0082-CUSA13613_00-ONLINESTANDALONE), which shows it is included in the Royal Edition

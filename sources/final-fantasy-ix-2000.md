@@ -77,7 +77,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 ## Apple TV (Platform; G-cluster cloud app)
 
 - https://apps.apple.com/jp/app/id1273920512 -- the Apple TV row's app, FINAL FANTASY IX クラウド版 (IX Cloud Version), by Broadmedia GC Corporation (G-cluster) -- accessed 2026-10-22; last page capture with the app: https://web.archive.org/web/20201028124806/https://apps.apple.com/jp/app/id1273920512
-  - Languages line: 日本語 only, so the entry's languages are unchanged; the page's raw HTML was read (the capture shows only an Apple "Connecting" splash in a browser)
+  - Languages line: 日本語 only; the page's raw HTML was read (the capture shows only an Apple "Connecting" splash in a browser)
 - https://web.archive.org/web/20191231113138/https://apps.apple.com/jp/developer/broadmedia-gc-corporation/id1144024684 -- Broadmedia's App Store developer page (user, 2026-10-22): IX is listed under Apple TV only, not under iPhone and iPad, which is why there is no `apple` row and the row uses `apple-tv`
 - http://gcluster.jp/pc/app/sqex/ff9/index.html -- the row's link, G-cluster's game page (captured 2025-01-14; the original is http) -- accessed 2026-10-22; archived: https://web.archive.org/web/20250114090014/http://gcluster.jp/pc/app/sqex/ff9/index.html
   - Cloud-streaming app, Japan only (`G-cluster cloud`); the whole G-cluster service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the row is struck
@@ -87,10 +87,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 
 ## G-cluster (Platform; G-cluster cloud TV version)
 
-- https://web.archive.org/web/20250114090030/https://gcluster.jp/pc/games/ff9.html -- the `android-tv` row's link, G-cluster's TV game page (last capture, 2025-01-14, renders) -- accessed 2026-10-22
+- https://web.archive.org/web/20250114090030/https://gcluster.jp/pc/games/ff9.html -- the `g-cluster-tv` row's link, G-cluster's TV game page (last capture, 2025-01-14, renders) -- accessed 2026-10-22
   - First capture https://web.archive.org/web/20190824122012/https://gcluster.jp/pc/games/ff9.html (2019-08-24); start 2017-09-19
   - The page links the app version page (the Apple TV app, above)
-  - The TV version, playable on the G-cluster console and on TVs with G-cluster built in or Android TV (device logos: Android TV, G-cluster, Sharp, Bravia, LG); one row, `g-cluster-tv`, names the console, Sharp, LG, Sony Bravia and Android TV in its tooltip; no stop-of-sale notice on the 2025-01-14 page
+  - The TV version; the page's device logos: Android TV, G-cluster, Sharp, Bravia, LG; no stop-of-sale notice on the 2025-01-14 page
   - Also on Sharp's own COCORO GAME service, which ended 2021-05-31 (notice: https://cocoroplus.jp.sharp/news/7280/); its game list (first capture https://web.archive.org/web/20190724070019/https://cocoroplus.jp.sharp/game/list/, with all seven FF titles and no links; the last capture, 2026-02-13, is stale) -- user, 2026-10-22; not part of the G-cluster TV row, whose service ended 2025-02-28
   - Japan only; the whole G-cluster service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the row is struck
 
