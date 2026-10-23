@@ -50,9 +50,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
 - https://web.archive.org/web/20250114091555/https://gcluster.jp/pc/app/sqex/ff10/index_ios.html -- the `apple` G-cluster row's page, G-cluster's iOS game page (last capture) -- accessed 2026-10-22
 - https://apps.apple.com/jp/app/id1297115524 -- the App Store listing (capture 2020-01-08 shows Apple's splash; the page source holds the data): one app for iPhone, iPad, iPod touch (iOS 9.0 or later) and Apple TV; the Apple TV row's app, above
 - Launch: the app on 2017-11-16, per the phone app news page (https://web.archive.org/web/20250114083821/https://gcluster.jp/sp/app/sqex/news.html); the 2023-02-28 notice there says it was also sold in KDDI's "au Game" service, which ended 2023-05-15, with buyers moved to the Google Play version
-- The service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the rows are struck; Japan only; no Amazon listing found
+- The service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the rows are struck; Japan only
 
-- Release: https://www.broadmedia.co.jp/news/2017/11/16-001589.html (user, 2026-10-22) -- X/X-2 HD Remaster started 2017-11-16 on G-cluster, the App Store, Apple TV, Google Play, the Amazon Android app store, Amazon Fire TV, G-cluster for LEONET and COCORO GAME (Sharp's G-cluster service for AQUOS 4K TVs); no Amazon page was found; the release names its Google Play and App Store pages (the same as above)
+- Release: https://www.broadmedia.co.jp/news/2017/11/16-001589.html (user, 2026-10-22) -- X/X-2 HD Remaster started 2017-11-16 on G-cluster, the App Store, Apple TV, Google Play, the Amazon Android app store, Amazon Fire TV, G-cluster for LEONET and COCORO GAME (Sharp's G-cluster service for AQUOS 4K TVs); the release names its Google Play and App Store pages (the same as above)
+- https://www.amazon.co.jp/gp/product/B0779PLP64 -- the Amazon appstore listing (ASIN B0779PLP64), as linked from G-cluster's game page http://gcluster.jp/pc/app/sqex/ff10/index.html; first capture of that page https://web.archive.org/web/20171121025255/http://gcluster.jp/pc/app/sqex/ff10/index.html (2017-11-21), last capture that lists it https://web.archive.org/web/20231003101330/https://gcluster.jp/pc/app/sqex/ff10/index.html (2023-10-03); the link is the same in both -- user, 2026-10-23
+  - Wayback captures of the listing (`/gp/product/` and `/dp/` forms, 2019 to 2025) are 503, 404, a redirect to Amazon's not-found page, or Amazon's bot-check page; none shows the app (raw HTML read 2026-10-23); a domain scan for title-slug forms returned a blank page, unverified
 
 ## Apple TV (Platform; G-cluster cloud app)
 
