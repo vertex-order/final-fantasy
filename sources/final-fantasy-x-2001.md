@@ -88,6 +88,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
 
 ## Cloud service launches (Platform; G-cluster)
 
+- Amazon.co.jp review of the G-cluster console set (ASIN B00CXJV6PE, https://web.archive.org/web/20190420223943/https://www.amazon.co.jp/dp/B00CXJV6PE, user-pasted 2026-10-22): 2019-01-09 says X was played on the home TV; it does not say which device, so corroboration only
 - Phone app: 2017-11-16, per the phone app news page (https://web.archive.org/web/20250114083821/https://gcluster.jp/sp/app/sqex/news.html)
 - au Game (KDDI): sold there until 2023-05-15, then buyers moved to the Google Play version (the news page's notice of 2023-02-28)
 

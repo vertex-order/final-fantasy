@@ -65,7 +65,7 @@ window.__ffGroupReg['VIII'] = { num: 'VIII', chronoOrder: 800, narrativeOrder: 8
           platforms: [
             { key: 'windows' },
             { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/39150/FINAL_FANTASY_VIII/' },
-            { key: 'g-cluster-tv', jpTag: true, terminated: true, paren: 'Cloud; G-cluster console, Sharp, LG, Sony Bravia, Android TV', url: 'https://web.archive.org/web/20250114090033/https://gcluster.jp/pc/games/ff8.html', hreflang: 'ja' },
+            { key: 'g-cluster-tv', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20250114090033/https://gcluster.jp/pc/games/ff8.html', hreflang: 'ja' },
             { key: 'sharp-tv', jpTag: true, terminated: true, paren: 'COCORO GAME cloud', url: 'https://web.archive.org/web/20190724070019/https://cocoroplus.jp.sharp/game/list/', hreflang: 'ja' },
             { key: 'hikari-tv-games', jpTag: true, terminated: true, paren: 'Cloud; Hikari TV set-top box', url: 'https://web.archive.org/web/20191222141911/http://game.hikaritv.net/title/ff8/index.html', hreflang: 'ja' },
             { key: 'android2', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },

@@ -497,7 +497,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
           platforms: [
             { key: 'windows' },
             { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/', paren: 'PC' },
-            { key: 'g-cluster-tv', jpTag: true, terminated: true, paren: 'Cloud; G-cluster console, Sharp, LG, Sony Bravia, Android TV', url: 'https://web.archive.org/web/20250114090029/https://gcluster.jp/pc/games/ff7.html', hreflang: 'ja' },
+            { key: 'g-cluster-tv', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20250114090029/https://gcluster.jp/pc/games/ff7.html', hreflang: 'ja' },
             { key: 'sharp-tv', jpTag: true, terminated: true, paren: 'COCORO GAME cloud', url: 'https://web.archive.org/web/20190724070019/https://cocoroplus.jp.sharp/game/list/', hreflang: 'ja' },
             { key: 'hikari-tv-games', jpTag: true, terminated: true, paren: 'Cloud; Hikari TV set-top box', url: 'https://web.archive.org/web/20220618054218/http://game.hikaritv.net/title/ff7/index.html', hreflang: 'ja' },
             { key: 'android2', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },

@@ -104,6 +104,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 
 ## Cloud service launches (Platform; G-cluster)
 
+- LEONET (Life Stick): from 2017-09-19, per the release above; its mirror, https://www.atpress.ne.jp/news/138097 (user-pasted 2026-10-23), adds the details
+  - The Life Stick is pre-installed in the TVs of about 550,000 Leopalace21 rentals; "G-cluster for LEONET" is Leopalace21's resident internet service
+  - Trial: 120 minutes on G-cluster and G-cluster for LEONET, 30 minutes on the app stores
+  - TVs in the release's footnote (as of 2017-09): Sony BRAVIA and LG Smart TV models; Sharp AQUOS is not in it
+- Broadmedia FY2017 Q2 deck (https://www.broadmedia.co.jp/ir/ir-library/presentations/dock/ir/171027_FY2017_2Q.pdf, 2017-10-27, user-pasted 2026-10-23): announces the FF IX cloud version, delivery from September; names no device; its partnership slide dates the LEONET Life Stick to June 2017
+- Amazon.co.jp review of the G-cluster console set (ASIN B00CXJV6PE, https://web.archive.org/web/20190420223943/https://www.amazon.co.jp/dp/B00CXJV6PE, user-pasted 2026-10-22): 2018-01-12 says IX was played on a phone and the box then bought for the controller; it does not say which device ran the game, so corroboration only
 - iOS app: 2017-09-19, per the phone app news page (https://web.archive.org/web/20250114083821/https://gcluster.jp/sp/app/sqex/news.html), whose notices of 2017-10 and 2017-11 call it the iOS version
 - TV linkage page (https://web.archive.org/web/20170923211747/http://gcluster.jp/pc/app/sqex/connectTV.html): some Sharp AQUOS models do not support IX
 - au Game (KDDI): sold there until 2023-05-15, then buyers moved to the Google Play version (the news page's notice of 2023-02-28)
