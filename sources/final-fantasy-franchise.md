@@ -125,7 +125,15 @@
     - 魔界塔士サ・ガ (i-mode 2007-07-02, EZweb 2007-12-13, SoftBank 2008-03-12): [the-final-fantasy-legend-i-iii-1989.md](the-final-fantasy-legend-i-iii-1989.md)
     - 聖剣伝説 -ファイナルファンタジー外伝- (distribution resumed 2011-05-18 and 2011-05-19): [final-fantasy-adventure-1991.md](final-fantasy-adventure-1991.md)
     - ファイナルファンタジー in いただきストリート MOBILE (2010-07-01), renamed 2011-02-03: [dragon-quest-final-fantasy-in-itadaki-street-mobile-2010.md](dragon-quest-final-fantasy-in-itadaki-street-mobile-2010.md)
-  - Titles on the site with none of the three names, not read: TOBAL M, MONOTONE
+  - MONOTONE: original RPG for keitai, concept design by Tetsuya Nomura (https://web.archive.org/web/20080519043806/http://www.square-enix.co.jp/mobile/mono/, Flash site: story, system and delivered-episodes pages) -- accessed 2026-10-24
+    - Story: a boy names himself the last hero in a world losing "color" and "sound" to a Demon King
+    - Command battle (attack, magic, item); art is not Final Fantasy's
+    - The page names no Final Fantasy content
+    - Moved to the スクエニMobile site 2007-11-01
+  - TOBAL M (トバルM): 3D fighting action game, a revival of the トバル series for keitai (https://web.archive.org/web/20080528183543/http://www.square-enix.co.jp/mobile/sem/tobal/, Flash intro and the carrier boxes) -- accessed 2026-10-24
+    - Carriers: i-mode 2007-12-12, EZweb 2008-08-07, from 500 points (525 yen)
+    - The Flash intro (`index.swf`, not saved) shows only トバル characters; the page names no Final Fantasy content
+    - Not Final Fantasy: left out
   - ポケットロジック and ポケットラビリンス: free Flash picture puzzles (copyright 2006 and 2007, puzzles by たきせ あきひこ), from the paid-app series スクエニ ポケットパズル (https://web.archive.org/web/20070109185249/http://www.square-enix.co.jp/mobile/game/pocket/pocket_puzzle.html, first capture listing ロジックパズル vol.1; https://web.archive.org/web/20080429140736/http://www.square-enix.co.jp/mobile/game/pocket/pocket_puzzle.html, the last before the end notice) and the Flash page (https://web.archive.org/web/20080615171012/http://www.square-enix.co.jp/mobile/sem/flash/index.html) -- accessed 2026-10-24
     - Every page says only that "familiar Square Enix characters appear" in the puzzles; none names Final Fantasy or any character
     - The screenshots (`pl_title.jpg`, `pl_game.jpg`, `plabylinth_title.jpg`, `plabylinth_game.jpg`) have no Wayback capture; the screenshots that load show no Final Fantasy content (user)
