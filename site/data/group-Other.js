@@ -269,6 +269,34 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     },
   },
   {
+    mediaType: 'Comic', chronoOrder: 210, narrativeOrder: 302,
+    title: "Chocobo's Mysterious Story", titleUrl: 'https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%9C%E3%81%AE%E3%81%B5%E3%81%97%E3%81%8E%E3%82%82%E3%81%AE%E3%81%8C%E3%81%9F%E3%82%8A', titleHreflang: 'ja', titleDate: { start: '1998-08', end: '2001-01' },
+    by: 'Hiroshi Kato',
+    mediaDesc: [
+      [{ text: 'A young chocobo searching for his father is rescued in the desert by a scheming moogle, who talks him into a treasure-hunting trip. An original story set in the world of the Chocobo\'s Dungeon games, with characters, monsters and dungeons from ' }, { emLinkText: "Chocobo's Dungeon 2 (1998)", emLinkUrl: '#entry-Other-chocobo-series-1997' }, { text: ', from volume 2. Released as ' }, { text: 'Chocobo no Fushigi Monogatari', lang: 'ja-Latn' }, { text: ' (' }, { text: 'チョコボのふしぎものがたり', lang: 'ja' }, { text: ', literally "Chocobo\'s Mysterious Story").' }],
+    ],
+    primary: {
+      tags: ['Manga'],
+      subtitle: 'Comic',
+      length: '6 volumes',
+      searchTitle: 'Chocobo no Fushigi Monogatari',
+      languages: [
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/76508809' },
+      ],
+      contents: [
+        { title: 'Vol.1', titleDate: '1999-03', titleUrl: 'https://www.goodreads.com/book/show/76508809', searchTitle: '9784091422545' },
+        { title: 'Vol.2', titleDate: '1999-05', titleUrl: 'https://www.goodreads.com/book/show/76529771', searchTitle: '9784091422552' },
+        { title: 'Vol.3', titleDate: '1999-10', titleUrl: 'https://www.goodreads.com/book/show/76592182', searchTitle: '9784091422569' },
+        { title: 'Vol.4', titleDate: '2000-04', titleUrl: 'https://www.goodreads.com/book/show/76652118', searchTitle: '9784091422576' },
+        { title: 'Vol.5', titleDate: '2000-09', titleUrl: 'https://www.goodreads.com/book/show/76680496', searchTitle: '9784091422583' },
+        { title: 'Vol.6', titleDate: '2001-03', titleUrl: 'https://www.goodreads.com/book/show/76781995', searchTitle: '9784091422590' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Manga', paren: 'DuckDuckGo', jpTag: true, search: 'duckduckgo' },
+      ],
+    },
+  },
+  {
     mediaType: 'Game', chronoOrder: 250, narrativeOrder: 305,
     title: 'Kingdom Hearts (series)', titleUrl: '/kingdom-hearts', titleDate: { start: 2002, end: 2020, ongoing: true },
     mediaDesc: [

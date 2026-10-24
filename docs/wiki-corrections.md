@@ -126,7 +126,28 @@ value, ours, and why, so the corrections can be reported upstream.
 - Backed by: finalfantasywiki.com lists August 8, 2003 and the 2004 dates above;
   en.wikipedia and the Fandom Final Fantasy Wiki both give Japan August 8, 2003.
 
+### ja.wikipedia: チョコボのふしぎものがたり (title spelling in the bibliography)
+
+- Page: https://ja.wikipedia.org/wiki/チョコボのふしぎものがたり
+- Says: the bibliography line gives 『チョコボのふしぎ**な**ものがたり』.
+- Should be: チョコボのふしぎものがたり (the page's own title).
+- Our source: [chocobos-mysterious-story-1998.md](../sources/chocobos-mysterious-story-1998.md)
+- Backed by: the NDL record of volume 1, and the author's own Palmie and note.com bios, spell it ふしぎものがたり.
+
 ## Candidates
+
+### Hiroshi Kato (かとうひろし): "Katou" on community pages, "Fushi" in a title
+
+- Pages:
+  - https://tvtropes.org/pmwiki/pmwiki.php/Manga/ShippuuTengokuKazeNoKlonoa
+  - https://www.anime-planet.com/people/hiroshi-katou-2
+  - https://mangadex.org/title/abc9c38c-6130-42a7-ac0f-896f29665a75/gale-heaven-wind-klonoa
+  - Goodreads records of the six volumes (community-edited catalog, not a wiki), for example https://www.goodreads.com/book/show/76508809
+- Say: "Hiroshi Katou" (MangaDex: "Katou Hiroshi").
+- Probably: Hiroshi Kato, the spelling in his own handle, @mangakato on X and on his official website (note.mu/mangakato, now https://note.com/mangakato), and his official YouTube channel's handle, @katohiroshi1951.
+- Anime-Planet's manga page (https://www.anime-planet.com/manga/chocobo-no-fushi-monogatari) and its people page spell the title "Chocobo no Fushi Monogatari"; the title is ふしぎものがたり, Fushigi.
+- Our source: [chocobos-mysterious-story-1998.md](../sources/chocobos-mysterious-story-1998.md)
+- Reason: candidate only: "Katou" is a common transliteration of かとう, so this is a difference of convention; the handle, used on his X account, official website and YouTube channel, is the only Latin form he has chosen, and no official romanization of the full name is known.
 
 ### Co-Optimus: Final Fantasy Tactics: The War of the Lions (PSP co-op modes)
 
