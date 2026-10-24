@@ -119,14 +119,13 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
               { value: 'ZH-CN' },
               { value: 'ZH-TW' },
             ],
-            helpWanted: true,
             platforms: [
               { key: 'apple', paren: 'Digital', url: 'https://apps.apple.com/app/final-fantasy-iii-3d-remake/id424591347' },
               { key: 'apple-ipad', paren: 'Digital', url: 'https://apps.apple.com/app/final-fantasy-iii-for-ipad-3d/id430823968' },
               { key: 'android2', paren: 'Digital', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP' },
               { key: 'amazon', paren: 'Digital', url: 'https://www.amazon.com/dp/B009YG2ND8' },
               { key: 'ouya', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20150202220530/https://www.ouya.tv/game/final-fantasy-iii/' },
-              { key: 'windows-phone', paren: 'Digital', url: 'https://web.archive.org/web/20140606081258/http://www.windowsphone.com/en-us/store/app/final-fantasy-iii/14ee2c62-1f7d-4e57-8380-5433d4df54b2' },
+              { key: 'windows-phone', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20140606081258/http://www.windowsphone.com/en-us/store/app/final-fantasy-iii/14ee2c62-1f7d-4e57-8380-5433d4df54b2' },
             ],
             versionDesc: [
               'This port improves FMV framerate, music quality, and visuals, and reworks the Mognet sidequest chain to no longer require Wi-Fi.',

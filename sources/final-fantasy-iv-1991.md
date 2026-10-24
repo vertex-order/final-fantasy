@@ -55,7 +55,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 ## Steam (Platform)
 
 - https://store.steampowered.com/app/1173800?
-- https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/
+- https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/ -- languages* -- accessed 2026-10-24
+  - Interface and subtitles: English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Japanese, Korean, Simplified Chinese, Thai, Traditional Chinese; full audio: English and Japanese only
 - https://store.steampowered.com/app/1173800/FINAL_FANTASY_IV/
 
 ## wikipedia.org (Information)
