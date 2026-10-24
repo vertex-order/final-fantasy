@@ -525,9 +525,9 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
             { key: 'playstation1', paren: 'Physical' },
             { key: 'playstation-classic' },
             { key: 'playstation2', paren: 'PSone compatibility' },
-            { key: 'playstation3', paren: 'Digital; PSone compatibility' },
-            { key: 'playstation-vita', paren: 'Digital' },
-            { key: 'playstation-portable', paren: 'Digital' },
+            { key: 'playstation3', paren: 'Digital; PSone compatibility', url: 'https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2009/ff7/' },
+            { key: 'playstation-vita', paren: 'Digital; PSP compatibility', url: 'https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2009/ff7/' },
+            { key: 'playstation-portable', paren: 'Digital', url: 'https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2009/ff7/' },
           ],
           versionDesc: [
             ['The original release. A re-edit was released the same year as ', { emText: 'Final Fantasy VII International' }, '.'],

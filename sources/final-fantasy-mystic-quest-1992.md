@@ -23,4 +23,9 @@
     - its Gameplay and Battle System sections are mechanics content, outside our scope
     - its Links section names only https://www.square-enix.com/
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, Virtual Console)
+
+- http://dlgames.square-enix.com/na/vc/2010/mystic_quest/ -- the Virtual Console detail page: the Wii row* and its Wii U compatibility row* -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260510205916/http://dlgames.square-enix.com/na/vc/2010/mystic_quest/
+  - FINAL FANTASY Mystic Quest ((C) 1992, 1993); Platform: Wii; Price 800 Wii Points; ESRB E Mild Fantasy Violence; 1 player; release date 2010.10.18
+
 ## Decisions

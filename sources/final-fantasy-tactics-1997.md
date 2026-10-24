@@ -177,6 +177,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 
 - The War of the Lions languages: the smartphone stores show only English and Japanese, the PSP release likely has European languages; audit before dropping `…?` and `helpWanted`
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, PSOne Classics)
+
+- http://dlgames.square-enix.com/na/psga/2009/fftactics/ -- the PSOne Classics detail page: the PS3, PSP and Vita rows* (PSone Classics, digital; the Vita plays the PSP version) -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2009/fftactics/
+  - FINAL FANTASY TACTICS (the page title reads "FAINAL"); Platform: PlayStation3 / PlayStation Portable; Price 9.99 USD; ESRB T; 1 player; release date 2009.09.17
+
 ## Decisions
 
 

@@ -39,4 +39,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)_v
   - and Dissidia 012 Final Fantasy as its sequel, also on the PSP, in 2011, with classic characters (Cloud, Lightning, Laguna) and less RPG emphasis
   - the entry has `playstation-portable` rows on both its versions, the original and the 012 Remake
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, North America)
+
+- http://dlgames.square-enix.com/na/psp_dl/ -- the original's PSP row (Digital)*, North American date 2009.08.25 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260510203011/http://dlgames.square-enix.com/na/psp_dl/
+  - Menu "PSP DL delivery" under the header "Square Enix Downloadable Games"; lists DISSIDIA FINAL FANTASY (Action, 2009.08.25) linking http://na.square-enix.com/dissidia/ (not read)
+
 ## Decisions

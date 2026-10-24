@@ -311,7 +311,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
           profileUrl: 'http://dlgames.square-enix.com/fft/en/',
           platforms: [
             { key: 'playstation-portable', url: 'http://dlgames.square-enix.com/fft/en/' },
-            { key: 'playstation-vita', paren: 'Digital', terminated: true },
+            { key: 'playstation-vita', paren: 'Digital; PSP compatibility', terminated: true },
             { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2' },
             { key: 'apple', url: 'https://apps.apple.com/us/app/final-fantasy-tactics-wotl/id446760220' },
             { key: 'apple-ipad', url: 'https://apps.apple.com/us/app/final-fantasy-tactics/id500098096' },
@@ -334,9 +334,9 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
           platforms: [
             { key: 'playstation1', paren: 'Physical' },
             { key: 'playstation2', paren: 'PSone compatibility' },
-            { key: 'playstation3', url: 'https://store.playstation.com/', paren: 'Digital; PSone compatibility' },
-            { key: 'playstation-vita', paren: 'Digital', url: 'https://store.playstation.com/' },
-            { key: 'playstation-portable', paren: 'Digital', url: 'https://store.playstation.com/' },
+            { key: 'playstation3', url: 'https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2009/fftactics/', paren: 'Digital; PSone compatibility' },
+            { key: 'playstation-vita', paren: 'Digital; PSP compatibility', url: 'https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2009/fftactics/' },
+            { key: 'playstation-portable', paren: 'Digital', url: 'https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2009/fftactics/' },
           ],
           versionDesc: [
             'The original release. The North American release (1998) simplifies the translation and eases the difficulty (lower ability costs, faster charge times, weaker bosses). Also playable as the ‘Classic’ mode within the Remake (2025) release, with its script updated to the War of the Lions translation.',
@@ -369,7 +369,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         { key: 'playstation2', paren: 'PSone compatibility', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
         { key: 'playstation3', paren: 'Digital; PSone compatibility', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
         { key: 'playstation-portable', paren: 'Digital', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
-        { key: 'playstation-vita', paren: 'Digital', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
+        { key: 'playstation-vita', paren: 'Digital; PSP compatibility', url: 'http://dlgames.square-enix.com/eu/en/psga/2009/vagrantstory/' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube' },

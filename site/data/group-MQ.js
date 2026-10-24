@@ -18,6 +18,8 @@ window.__ffGroupReg['MQ'] = { num: 'MQ', chronoOrder: 350, narrativeOrder: 350, 
       length: [{ value: '14h', tip: 'Main + Extra', join: ' / ' }, { value: '14½h', tip: 'Completionist' }],
       platforms: [
         { key: 'nintendo-snes', paren: 'Super Famicom; Physical' },
+        { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console', url: 'https://web.archive.org/web/20260510205916/http://dlgames.square-enix.com/na/vc/2010/mystic_quest/' },
+        { key: 'nintendo-wii-u', terminated: true, paren: 'Virtual Console; Wii compatibility', url: 'https://web.archive.org/web/20260510205916/http://dlgames.square-enix.com/na/vc/2010/mystic_quest/' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-recap', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube' },

@@ -104,9 +104,9 @@ window.__ffGroupReg['VIII'] = { num: 'VIII', chronoOrder: 800, narrativeOrder: 8
           platforms: [
             { key: 'playstation1', paren: 'Physical' },
             { key: 'playstation2', paren: 'PSone compatibility' },
-            { key: 'playstation3', paren: 'Digital; PSone compatibility' },
-            { key: 'playstation-vita', paren: 'Digital' },
-            { key: 'playstation-portable', paren: 'Digital' },
+            { key: 'playstation3', paren: 'Digital; PSone compatibility', url: 'https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2009/ff8/' },
+            { key: 'playstation-vita', paren: 'Digital; PSP compatibility', url: 'https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2009/ff8/' },
+            { key: 'playstation-portable', paren: 'Digital', url: 'https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2009/ff8/' },
           ],
           versionDesc: [
             [{ text: 'The original release. Non-Japan releases add automatic tutorials and give two Guardian Forces their elemental/status junction abilities by default. The companion game ' }, { emLinkText: 'Chocobo World (1999)', emLinkUrl: '#entry-VIII-chocobo-world-1999' }, { text: ' requires a PocketStation.' }],

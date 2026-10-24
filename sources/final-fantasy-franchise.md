@@ -141,6 +141,43 @@
     - Not Final Fantasy: left out
   - Other titles listed on the site, not Final Fantasy: ポートピア連続殺人事件, 北海道連鎖殺人オホーツクに消ゆ, 軽井沢誘拐案内, 武蔵伝II EPISODE ZERO, 倉庫番, ルービックキューブ, ぱにぽに大富豪, ハガレン15パズル, ヘキサイト, どこでもソリティア, どこでも神経衰弱, 地獄のハイウェイ, ナインプレイス, スターオーシャン ブルースフィア, 国破れて山河あり (and 2), ロマンシング サガ (and 2), 元祖 半熟英雄, DEMON CHAIN, ロンゴロンゴ, グイン・サーガmobile, It's NEW FRONTIER, クロノ・トリガー, 聖剣伝説2, 伝説のオウガバトル, ワンダープロジェクト J2, シグマハーモニクス コーダ, いたストMOBILE, スクモバスケジューラー, アイテム
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, North America)
+
+- http://dlgames.square-enix.com/na/psp_dl/ -- "PSP DL delivery" menu, capture of 2026-05-10 (the last): https://web.archive.org/web/20260510203011/http://dlgames.square-enix.com/na/psp_dl/ -- visited and audited -- accessed 2026-10-24 (raw HTML read by me)
+  - Lists DISSIDIA FINAL FANTASY (Action, 2009.08.25; links http://na.square-enix.com/dissidia/), CRYSTAL DEFENDERS (Defensive Simulation, 2009.10.29; detail page ../psp_dl/2009/crystaldefenders/ has no capture)
+  - The site's header is "Square Enix Downloadable Games": the PSP titles are digital downloads
+- http://dlgames.square-enix.com/na/ps3_dl/ -- "PlayStation3 DL delivery" menu, captures of 2010-11-29 (https://web.archive.org/web/20101129034233/http://dlgames.square-enix.com/na/ps3_dl/) and 2026-05-10 (the last, https://web.archive.org/web/20260510210031/http://dlgames.square-enix.com/na/ps3_dl/) -- visited and audited -- accessed 2026-10-24 (raw HTML read by me)
+  - Lists CRYSTAL DEFENDERS (2009.10.29, the PSP date; the PS3 releases are 2009-03-11 in Japan and 2009-07-23 and 2009-08-06 in the West), the only Final Fantasy title on either capture
+  - The official site http://www.crystaldefenders.jp/ (capture of 2010-11-29) holds only the title
+
+## dlgames.square-enix.com (Platform; PSOne Classics, North America)
+
+- http://dlgames.square-enix.com/na/psga/ -- "PSOne Classics" menu, capture of 2026-06-10 (the last): https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/ -- visited and audited -- accessed 2026-10-24 (raw HTML read by me)
+  - Lists FINAL FANTASY IX (2010.06.15), VIII (2009.12.17), TACTICS (2009.09.17) and VII (2009.06.02); each links a detail page (all four have captures, see the games' own sources files) and an official site (final-fantasyviii.com, na.square-enix.com/ff7psn/)
+  - Final Fantasy V, VI and Origins (2011 to 2012 on Wikipedia's list of downloadable PlayStation games) are not on the menu
+## dlgames.square-enix.com (Platform; Virtual Console, North America)
+
+- http://dlgames.square-enix.com/na/vc/ -- "Virtual Console" menu, capture of 2026-05-10 (the last): https://web.archive.org/web/20260510205916/http://dlgames.square-enix.com/na/vc/ -- visited and audited -- accessed 2026-10-24 (raw HTML read by me)
+  - Lists FINAL FANTASY Mystic Quest (2010.10.18), FINAL FANTASY II (2010.03.08), FINAL FANTASY (2009.10.05), King's Knight (2008.03.24) and Secret of Mana (2008.10.13)
+  - Detail pages (Platform: Wii only) read for FINAL FANTASY, II and Mystic Quest; the others not read
+## dlgames.square-enix.com (Platform; Xbox Live Arcade, North America)
+
+- http://dlgames.square-enix.com/na/xboxlivearcade/ -- "Xbox LIVE Arcade" menu, capture of 2026-05-10 (the last): https://web.archive.org/web/20260510210536/http://dlgames.square-enix.com/na/xboxlivearcade/ -- visited and audited -- accessed 2026-10-24 (raw HTML read by me)
+  - CRYSTAL DEFENDERS (2009.03.11) is the only Final Fantasy title (detail page in [crystal-defenders-2008.md](crystal-defenders-2008.md))
+## dlgames.square-enix.com (Platform; WiiWare, North America)
+
+- http://dlgames.square-enix.com/na/wiiware/ -- "Wii ware" menu, capture of 2026-05-10 (the last): https://web.archive.org/web/20260510211218/http://dlgames.square-enix.com/na/wiiware/ -- visited and audited -- accessed 2026-10-24 (raw HTML read by me)
+  - Lists FINAL FANTASY IV: The After Years (2009.07.21), FINAL FANTASY CRYSTAL CHRONICLES: My Life as a Darkloard (2009.07.20) and My Life as a King (2008.05.12), CRYSTAL DEFENDERS R1 (2009.01.27) and R2 (2009.02.24)
+  - The Final Fantasy titles have no dlgames detail page: their links go to na.square-enix.com/ff4ay, /mylifeasaking and /crystaldefenders and www.mylifeasadarklord.com, which the 2026-05-10 capture shows as the Square Enix home page (the first three) and an unrelated SEO company page (the Darklord site)
+  - The R1 and R2 dates are the Japanese WiiWare dates (the North American ones are 2009-04-20 and 2009-05-18)
+
+## dlgames.square-enix.com (Platform; iPod / iPhone, North America)
+
+- http://dlgames.square-enix.com/na/ipod/ -- "iPod / iPhone" menu, capture of 2026-04-22 (the last): https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/ -- visited and audited -- accessed 2026-10-24 (raw HTML read by me)
+  - 40 apps, 2008.07.08 to 2013.03.28; Final Fantasy and Chocobo titles on it: FINAL FANTASY (2010.02.25), II (2010.02.25), III (2011.03.24; for iPad 2011.04.21), IV (2012.12.20), V (2013.03.28), TACTICS: The War of the Lions (2011.08.31; for iPad 2012.02.23), DIMENSIONS (2012.08.31), THEATRHYTHM (2012.12.13), Chocobo Panic (2010.05.28), Voice Fantasy (2010.11.01), CRYSTAL DEFENDERS (2008.12.23; iPad 2010.07.01), Plus (2013.02.20), VANGUARD STORM (2009.05.13)
+  - Detail pages read (platform, USD price): Final Fantasy and II iPhone / iPod touch, $8.99; III iPhone / iPod touch, $15.99 (capture of 2011-04-10, https://web.archive.org/web/20110410131825/http://dlgames.square-enix.com/na/ipod/2011/ff3/, page text pasted by user); III for iPad $16.99; War of the Lions for iPad $17.99; Chocobo Panic iPad, $3.99; Voice Fantasy iPhone / iPod touch, $2.99; Vanguard Storm iPhone / iPod touch, $4.99
+  - Titles whose menu link leaves /na/ (IV, V, Dimensions, Theatrhythm, Crystal Defenders Plus and others): detail pages not read
+  - Gallery and wallpaper apps and an AR app (Advent Children Complete, Dissidia, Final Fantasy XIII, VII Compilation, Soul Eater and Fullmetal Alchemist galleries; Dissidia 012 AR): not games, left out
 ## Decisions
 
 - **Not to be listed: collector and special-edition bundles (user, 2026-10-24):** boxed sets, anniversary boxes and collector editions of games that are sold separately; not widely sold, out of print, and dearer than the games bought separately, so they do not help a reader find the games

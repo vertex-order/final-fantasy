@@ -104,4 +104,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 - https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/ -- the `Dive In cloud` rows link this capture; per the Final Fantasy Wiki's Dive In page (pasted by user 2026-10-20): VII International at launch (2014-10-09), on the "Remake 2012" (Windows) version, with the `G-cluster cloud` row; the version is our matching (see sources/final-fantasy-franchise.md)
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, PSOne Classics)
+
+- http://dlgames.square-enix.com/na/psga/2009/ff7/ -- the PSOne Classics detail page: the PS3, PSP and Vita rows* (PSone Classics, digital; the Vita plays the PSP version) -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2009/ff7/
+  - FINAL FANTASY VII; Platform: PlayStation3 / PlayStation Portable; Price 9.99 USD; ESRB T; 1 player; release date 2009.06.22 (the menu says 2009.06.02, matching Wikipedia's list of downloadable PlayStation games)
+
 ## Decisions

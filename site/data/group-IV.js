@@ -117,7 +117,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
             { key: 'playstation3', jpTag: true, paren: 'Digital; PSone compatibility' },
             { key: 'playstation2', paren: 'PSone compatibility' },
             { key: 'playstation1', paren: 'Physical' },
-            { key: 'playstation-vita', jpTag: true, paren: 'Digital' },
+            { key: 'playstation-vita', jpTag: true, paren: 'Digital; PSP compatibility' },
             { key: 'playstation-portable', jpTag: true, paren: 'Digital' },
           ],
           versionDesc: [

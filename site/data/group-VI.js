@@ -103,7 +103,7 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, narrativeOrder: 600, 
             { key: 'playstation3', paren: 'Digital; PSone compatibility' },
             { key: 'playstation2', paren: 'PSone compatibility' },
             { key: 'playstation1', paren: 'Physical' },
-            { key: 'playstation-vita', paren: 'Digital' },
+            { key: 'playstation-vita', paren: 'Digital; PSP compatibility' },
             { key: 'playstation-portable', paren: 'Digital' },
           ],
           versionDesc: [

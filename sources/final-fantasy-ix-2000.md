@@ -118,4 +118,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 - TV linkage page (https://web.archive.org/web/20170923211747/http://gcluster.jp/pc/app/sqex/connectTV.html): some Sharp AQUOS models do not support IX
 - au Game (KDDI): sold there until 2023-05-15, then buyers moved to the Google Play version (the news page's notice of 2023-02-28)
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, PSOne Classics)
+
+- http://dlgames.square-enix.com/na/psga/2010/ff9/ -- the PSOne Classics detail page: the PS3, PSP and Vita rows* (PSone Classics, digital; the Vita plays the PSP version) -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2010/ff9/
+  - FINAL FANTASY IX; Platform: PlayStation3 / PlayStation Portable; Price 9.99 USD; ESRB T; 1 player; release date 2010.06.15
+
 ## Decisions

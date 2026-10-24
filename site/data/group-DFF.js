@@ -71,7 +71,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
             { score: '7.1', url: 'https://www.metacritic.com/game/dissidia-final-fantasy/', key: 'metacritic-user' },
           ],
           platforms: [
-            { key: 'playstation-portable' },
+            { key: 'playstation-portable', paren: 'Digital' },
           ],
           versionDesc: [
             [{ text: 'The original release. The Western versions add new cutscenes, an Arcade Mode, and ease unlocking Shade Impulse and grinding for player icons. Also released as ' }, { emText: 'Dissidia Final Fantasy: Universal Tuning' }, { text: ' in Japan, which offers a choice of English or Japanese voice audio in battles (cutscenes are English only).' }],

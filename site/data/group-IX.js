@@ -64,9 +64,9 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, narrativeOrder: 900, 
           platforms: [
             { key: 'playstation1', paren: 'Physical' },
             { key: 'playstation2', paren: 'PSone compatibility' },
-            { key: 'playstation3', paren: 'Digital; PSone compatibility' },
-            { key: 'playstation-vita', paren: 'Digital' },
-            { key: 'playstation-portable', paren: 'Digital' },
+            { key: 'playstation3', paren: 'Digital; PSone compatibility', url: 'https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2010/ff9/' },
+            { key: 'playstation-vita', paren: 'Digital; PSP compatibility', url: 'https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2010/ff9/' },
+            { key: 'playstation-portable', paren: 'Digital', url: 'https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2010/ff9/' },
           ],
           versionDesc: [
             'The original release.',

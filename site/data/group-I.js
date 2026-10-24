@@ -300,7 +300,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
             { key: 'playstation3', paren: 'Digital; PSone compatibility' },
             { key: 'playstation2', paren: 'PSone compatibility' },
             { key: 'playstation1', paren: 'Physical' },
-            { key: 'playstation-vita', paren: 'Digital' },
+            { key: 'playstation-vita', paren: 'Digital; PSP compatibility' },
             { key: 'playstation-portable', paren: 'Digital' },
           ],
           versionDesc: [
@@ -339,8 +339,8 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
           platforms: [
             { key: 'nintendo-nes-fc', paren: 'Physical' },
             { key: 'nintendo-nes-classic-edition', nonJpTag: true },
-            { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console' },
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility' },
+            { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console', url: 'https://web.archive.org/web/20260510205916/http://dlgames.square-enix.com/na/vc/2009/ff1/' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility', url: 'https://web.archive.org/web/20260510205916/http://dlgames.square-enix.com/na/vc/2009/ff1/' },
             { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
           ],
           versionDesc: [
