@@ -1,6 +1,6 @@
 <!-- sources/final-fantasy-xii-tabletop-games-2024.md (markdown) -->
 
-# Final Fantasy XII tabletop games
+# Final Fantasy XII Tabletop Games
 
 ## Square Enix Store, North America (Publisher)
 

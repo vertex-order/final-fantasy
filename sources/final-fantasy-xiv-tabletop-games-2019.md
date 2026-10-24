@@ -1,6 +1,6 @@
 <!-- sources/final-fantasy-xiv-tabletop-games-2024.md (markdown) -->
 
-# Final Fantasy XIV tabletop games
+# Final Fantasy XIV Tabletop Games
 
 ## BoardGameGeek (Information)
 
@@ -25,7 +25,7 @@ Dates on these pages are approximate; the store does not update them after relea
 
 Japanese-language editions (日本語版); genre card/board game, series Final Fantasy XIV.
 
-- https://store.jp.square-enix.com/estore/g/gMFF140017-1/ -- TTRPG スターターセット (Starter Set); 発売日 2024-06-29 -- accessed 2026-10-24
+- https://store.jp.square-enix.com/estore/g/gMFF140017-1/ -- TTRPG スターターセット (Starter Set); 発売日 2024-06-29 -- dates* -- accessed 2026-10-24
 - https://store.jp.square-enix.com/estore/g/gMFF140022/ -- TTRPG スタンダードルールブック (Standard Rulebook); 発売日 2024-11-23 -- dates* -- accessed 2026-10-24
   - https://store.jp.square-enix.com/estore/g/gMFF140023-1/ -- Deluxe Edition; 発売日 2024-12-21 -- accessed 2026-10-24
 - https://store.jp.square-enix.com/estore/g/gMFF140041/ -- TTRPG シナリオ＆ゲームマスターガイド (Scenario & Gamemaster Guide); 発売日 2025-07-26 -- dates* -- accessed 2026-10-24
@@ -35,7 +35,7 @@ Japanese-language editions (日本語版); genre card/board game, series Final F
 
 ## finalfantasy.fandom.com (Information)
 
-- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV_TTRPG -- Starter Set released 2024-05-25 (search result snippet, page not opened); Standard Rulebook 2025-02-28 -- dates* -- accessed 2026-10-24
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV_TTRPG -- Starter Set released 2024-05-25, first product, announced 2023-09-20 (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV_TTRPG, read by the user); Standard Rulebook 2025-02-28 (search result snippet, page not opened) -- dates -- accessed 2026-10-24
 
 ## Surveyed
 

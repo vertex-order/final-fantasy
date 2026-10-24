@@ -1,6 +1,6 @@
 <!-- sources/final-fantasy-tabletop-games-1999.md (markdown) -->
 
-# Final Fantasy tabletop games
+# Final Fantasy Tabletop Games
 
 ## Square Enix Store, North America (Publisher)
 
@@ -21,7 +21,7 @@ Dates on these pages are approximate; the store does not update them after relea
   - https://fftcg.square-enix-games.com/en/release/opus-i -- Opus I set page -- dates* -- search result, page not opened -- accessed 2026-10-24
 - https://na.store.square-enix-games.com/merchandise/table-top/trading-card-game -- Square Enix Store trading card game category -- accessed 2026-10-24
 - https://en.wikipedia.org/wiki/Final_Fantasy_Trading_Card_Game -- search result, page not opened -- accessed 2026-10-24
-- Opus I: worldwide 2016-10-28 (216 cards; starter sets Final Fantasy VII, X and XIII), Japan 2016-12-09; earlier Japan-only "Chapter" series from 2011, discontinued before Opus -- dates* -- search result (gamrconnect.vgchartz.com thread, Fandom wiki), pages not opened -- accessed 2026-10-24
+- Opus I: worldwide 2016-10-28 (216 cards; starter sets Final Fantasy VII, X and XIII), Japan 2016-12-09; earlier Japan-only "Chapter" series from 2011, discontinued before Opus -- dates* -- search result (gamrconnect.vgchartz.com thread), page not opened; dates confirmed on the Final Fantasy Wiki page below -- accessed 2026-10-24
 - Developed by Hobby Japan, published by Square Enix -- search result, page not opened -- accessed 2026-10-24
 
 ## Square Enix e-STORE, Japan (Publisher)
@@ -49,6 +49,18 @@ Genre card/board game, series Final Fantasy その他 (other).
 - https://boardgamegeek.com/boardgame/479062/origins-of-light-a-final-fantasy-board-game -- Origins of Light (2027); 1-4 players, 90-180 min, age 12+; designer Alex Kessler, artist Jordan Robbins, publisher Kess Co.; strategy RPG based on the Pixel Remaster editions of Final Fantasy I, II and III, with a module for each; competitive or cooperative; category Admin: Upcoming Releases; 8 ratings -- dates, story -- accessed 2026-10-24
 - https://www.kickstarter.com/projects/kessent/origins-of-light-a-final-fantasy-board-game/ -- Kickstarter project page
   - As reported by the user, not read here: the campaign includes an expansion for Final Fantasy IV; a pre-order campaign whose risks section says every order will be fulfilled; production Dec 2026 to Mar 2027; images carry a Square Enix copyright line; over $1M raised after 5 days -- dates*, licence* -- accessed 2026-10-24
+
+## finalfantasy.fandom.com (Information)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Trading_Card_Game -- Chapter series: Japan 2011-02-25; Opus series: Europe/United States 2016-10-28, Japan 2016-12-09 -- dates* -- read by the user -- accessed 2026-10-24
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV_TTRPG -- announced 2023-09-20, first product (Starter Set) 2024-05-25; players are an adventurer or the gamemaster, with pre-packed scenarios supervised by the game's development team -- dates* -- read by the user -- accessed 2026-10-24
+- https://breezewiki.com/finalfantasy/wiki/Magic:_The_Gathering -- lists the Final Fantasy Magic: The Gathering Commander cards -- read by the user -- accessed 2026-10-24
+- Searches "board game" (https://breezewiki.com/finalfantasy/search?q=board+game), "card game" (the Trading Card Game page and video game versions only) and "tabletop" (the XIV TTRPG page only) -- no other tabletop game covered; the navigation box "Other spinoffs" lists the Final Fantasy Trading Card Game as the only tabletop item -- read by the user -- accessed 2026-10-24
+
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/w/index.php?title=Special%3ASearch&search=board%20game&fulltext=1 -- no results for "board game" -- read by the user -- accessed 2026-10-24
+- https://finalfantasywiki.com/w/index.php?title=Special%3ASearch&search=tabletop&fulltext=1 -- no results for "tabletop" -- read by the user -- accessed 2026-10-24
 
 ## Wikipedia (Information)
 

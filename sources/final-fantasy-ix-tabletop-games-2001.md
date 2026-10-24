@@ -1,6 +1,6 @@
 <!-- sources/final-fantasy-ix-tabletop-games-2001.md (markdown) -->
 
-# Final Fantasy IX tabletop games
+# Final Fantasy IX Tabletop Games
 
 ## BoardGameGeek (Information)
 

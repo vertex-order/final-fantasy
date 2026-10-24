@@ -1,6 +1,6 @@
 <!-- sources/final-fantasy-viii-tabletop-games-1999.md (markdown) -->
 
-# Final Fantasy VIII tabletop games
+# Final Fantasy VIII Tabletop Games
 
 ## BoardGameGeek (Information)
 

@@ -504,7 +504,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
   },
   {
     mediaType: 'Tabletop', chronoOrder: 6200, narrativeOrder: 900,
-    title: 'Final Fantasy XII tabletop games', titleUrl: 'https://na.store.square-enix-games.com/final-fantasy-moogle-bounty-mayhem-board-game', titleDate: { start: '2024-11', approx: true },
+    title: 'Final Fantasy XII Tabletop Games', titleUrl: 'https://na.store.square-enix-games.com/final-fantasy-moogle-bounty-mayhem-board-game', titleDate: { start: '2024-11', approx: true },
     mediaDesc: [
       'Card-based board game set in the world of Final Fantasy XII, where players are one of six moogle siblings hunting monsters.',
     ],

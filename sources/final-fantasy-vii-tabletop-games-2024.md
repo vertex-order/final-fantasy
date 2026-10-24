@@ -1,6 +1,6 @@
 <!-- sources/final-fantasy-vii-tabletop-games-2024.md (markdown) -->
 
-# Final Fantasy VII tabletop games
+# Final Fantasy VII Tabletop Games
 
 ## BoardGameGeek (Information)
 
