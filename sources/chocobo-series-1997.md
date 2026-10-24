@@ -82,9 +82,12 @@
   - The PlayStation date of 2002-12-13 disagrees with Wikipedia's media list, finalfantasywiki.com and the Final Fantasy Wiki, which put the PlayStation game in the Chocobo Collection on 1999-12-22 (candidate in docs/wiki-corrections.md)
 - https://quicksave.live/game/22899 -- Hataraku Chocobo platform*, date* (text pasted by user) -- accessed 2026-10-23; archived: TODO
   - WonderSwan Color, tagged Japan-only, 2000-09-21
+- https://breezewiki.com/finalfantasy/wiki/Chocobo_Panic -- Chocobo Panic titleUrl* (the Final Fantasy Wiki page, linked by the user; text not read here) -- accessed 2026-10-23; archived: TODO
+- https://itunes.apple.com/gb/app/chocobo-panic/id373052434 -- Chocobo Panic iPad row (found by the user) -- accessed 2026-10-23
+  - The row links the capture of 2016-02-08 (https://web.archive.org/web/20160208062817/https://itunes.apple.com/gb/app/chocobo-panic/id373052434?mt=8): Chocobo Panic on the App Store (UK storefront), released 25 May 2010, version 1.0.0, 18.5 MB, languages English and Japanese, developer Square Enix, rated 4+, requires iOS 3.2 or later, compatible with iPad, 9 ratings
 - http://dlgames.square-enix.com/na/ipod/2010/chocobopanic/ -- Chocobo Panic date*, platform*, the iPad row's link (Square Enix's North America download games page; text of the 2016-03-04 capture pasted by user) -- accessed 2026-10-23
   - Release date 2010-05-28; platform iPad; genre party game; one to six players
-  - The row links the capture of 2024-12-09: https://web.archive.org/web/20241209123911/http://dlgames.square-enix.com/na/ipod/2010/chocobopanic/ (the 2016-03-04 capture, https://web.archive.org/web/20160304055936/http://dlgames.square-enix.com/na/ipod/2010/chocobopanic/, carries the release date, platform, genre and players)
+  - Captures: 2024-12-09, https://web.archive.org/web/20241209123911/http://dlgames.square-enix.com/na/ipod/2010/chocobopanic/ (not read), and the 2016-03-04 capture, https://web.archive.org/web/20160304055936/http://dlgames.square-enix.com/na/ipod/2010/chocobopanic/, carries the release date, platform, genre and players)
 - https://quicksave.live/game/22905 -- Chocobo Panic platform*, date (text pasted by user) -- accessed 2026-10-23; archived: TODO
   - iOS, 2010-05-24 (Wikipedia's media list gives iPad and 2010-05-28)
   - Its description: a game for iPad where the player catches and holds colourful chocobos moving around the screen until told to "Let go!"; co-op mode and a high score; the platform list is iOS only, so the description gives the iPad
@@ -116,6 +119,7 @@
   - The article calls it a sequel to 1999's Chocobo Racing
 - https://press.na.square-enix.com/Chocobo-GP-36707 -- Chocobo GP' region (found by the user; the page text was not read here) -- accessed 2026-10-23; archived: TODO
   - Square Enix's North America press hub for Chocobo GP; its screenshots show a full English interface, so the mobile game was not a Japan-only release (the App Store capture lists only Japanese)
+- https://breezewiki.com/finalfantasy/wiki/Chocobo%27s_Crystal_Tower -- Chocobo's Crystal Tower titleUrl* (the Final Fantasy Wiki page, linked by the user; text not read here) -- accessed 2026-10-23; archived: TODO
 - https://www.4gamer.net/games/123/G012325/20101102028/ -- Chocobo's Crystal Tower Facebook platform*, date*, link* (4Gamer news of 2010-11-02; text pasted by user) -- accessed 2026-10-23; archived: TODO
   - Square Enix started Chocobo's Crystal Tower (ver.β) on Facebook on 2010-11-02: a free-to-play game of raising a Chocobo and sending it up towers, with item purchases; address http://apps.facebook.com/chocobos/; promotional site http://www.chocoboscrystaltower.com/
   - The same article's other game, Knights of the Crystals (ver.β), is a separate Facebook RPG, announced as already on mobile phones since August 2010 (official site http://www.square-enix.co.jp/facebook/koc/)
@@ -136,7 +140,7 @@
   - Square Enix announces ちょこメ～と, a mail-linked i-appli DX for the 505i series only; release date and price not yet set
   - On the standby screen it shows friends' and family's messages and status as live animation, with the Chocobo as the character; the character can be changed, and Dragon Quest characters were considered
 - https://finalfantasy.fandom.com/es/wiki/Choco-mate -- Choco-Mate (found by the user; the page text was not read here) -- accessed 2026-10-23; archived: TODO
-  - The Spanish Final Fantasy Wiki's page; the English Final Fantasy Wiki has none; the part links Wikipedia's media list instead (https://wikipedia.org/wiki/List_of_Chocobo_media#Choco-Mate), which has an entry for it
+  - The Spanish Final Fantasy Wiki's page; the English Final Fantasy Wiki has none; the part links https://wikipedia.org/wiki/Choco-Mate instead (a redirect to Wikipedia's media list, https://wikipedia.org/wiki/List_of_Chocobo_media#Choco-Mate, which has an entry for it)
 - https://play.google.com/store/apps/details?id=com.smilelab.chocoboFarm -- Chocotto Farm Android row -- accessed 2026-10-23
   - The only status-200 capture, 2016-08-05 (https://web.archive.org/web/20160805125814/https://play.google.com/store/apps/details?id=com.smilelab.chocoboFarm): チョコボのチョコッと農園, Smile-Lab, version 1.1.1 updated 2016-03-01, 5,000 to 10,000 installs, Everyone; the description calls it the Android version of the Chocotto Farm that 600,000 people played on feature phones (ガラケー版)
 - https://games.app-liv.jp/archives/17633 -- Chocotto Farm smartphone release* (news of 2015-09-16 quoting Square Enix's release; text pasted by user) -- accessed 2026-10-23; archived: TODO
