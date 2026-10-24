@@ -26,6 +26,14 @@
   - Chocobo's Mystery Dungeon EVERY BUDDY!: a remastered port developed by Rocket Studio, released for the Nintendo Switch and PlayStation 4 on 2019-03-20, with a new buddy system that brings monsters and other characters into the dungeon
 - https://wikipedia.org/wiki/Final_Fantasy_Fables:_Chocobo%27s_Dungeon#Nintendo_DS_port -- platforms*, release date* -- accessed 2026-10-23
   - An enhanced port, Cid to Chocobo no Fushigi na Dungeon: Toki Wasure no Meikyū DS+ (シドとチョコボの不思議なダンジョン 時忘れの迷宮 DS+), released in Japan for the Nintendo DS on 2008-10-30, with a new storyline centred on Cid and new jobs
+- https://www.igdb.com/collections/chocobo -- games*, years* (IGDB's Chocobo collection, 22 titles; text pasted by user) -- accessed 2026-10-23; visited and audited against the part list; archived: TODO
+  - Titles: Chocobo GP; Chocobo's Mystery Dungeon Every Buddy!; Chocobo no Chocotto Nouen; Chocobo to Mahou no Ehon: Majo to Shoujo to Go-nin no Yuusha; Chocobo's Crystal Tower; Chocobo Panic; Cid to Chocobo no Fushigi na Dungeon Toki Wasure no Meikyuu DS+; Final Fantasy Fables: Chocobo's Dungeon; Final Fantasy Fables: Chocobo Tales; Chocobo Land: A Game of Dice; Doko demo Chocobo; Hataraku Chocobo; Chocobo Stallion; Chocobo Racing; Chocobo no Fushigi na Dungeon for WonderSwan; Chocobo World; Chocobo's Dungeon 2; Chocobo no Fushigi na Dungeon; Dokodemo Chocobo 2: Dasshutsu! Yuureisen; Choco-Mate; Dokodemo Chocobo 3: Taose! Niji-iro Daimaou; Chocobo de Mobile
+  - Lists the remakes and ports as their own titles (Every Buddy, Cid DS+, Chocobo Land, the WonderSwan Mysterious Dungeon); not on it: Dice de Chocobo (the PlayStation game; Chocobo Land stands for it), Chocobo Anywhere 2.5, Chocobo GP', Chocobo Collection and the cancelled games
+- https://finalfantasywiki.com/wiki/Chocobo_(series) -- games*, years* (text pasted by user) -- accessed 2026-10-23; visited and audited against the part list; archived: TODO
+  - Games, 18: Chokobo no Fushigina Danjon (1997), Chocobo's Dungeon 2 (1999), Chocobo World (1999), Chocobo Racing (1999), Dice de Chocobo (1999, originally released for a compilation), Hataraku Chocobo (2000), Dokodemo Chocobo (2002), Dokodemo Chocobo 2: Dasshutsu! Yūreisen (2003), Choco-Mate (2003), Dokodemo Chocobo 3: Taose! Niji Iro Daimaō (2003), Chocobo de Mobile (2006), Final Fantasy Fables: Chocobo Tales (2007), Final Fantasy Fables: Chocobo's Dungeon (2007), Cid to Chocobo no Fushigi na Dungeon Toki Wasure no Meikyū DS+ (2008), Chocobo to Mahō no Ehon: Majo to Shōjo to Gonin no Yūsha (2008), Chocobo Panic (2010), Chocobo's Crystal Tower (2010), Chocobo no Chocotto Nouen (2012)
+  - Remake: Chocobo's Mystery Dungeon Every Buddy! (2019); compilation: Chocobo Collection (1999); cancelled: Chocobo de Battle, Chocobo Racing 3D
+  - Not on the page: Chocobo Stallion (in the Collection), Chocobo Anywhere 2.5, Chocobo GP and Chocobo GP' (2022)
+  - Differences: Chocobo's Dungeon 2 is dated 1999 (the North America release; Japan 1998-12-23), Dokodemo Chocobo 3 is dated 2003 (Wikipedia's media list: 2004-05-19, the D506i's release date, see the phone pages below), and Chocobo no Chocotto Nouen 2012 (Smile-Lab's smartphone release is 2015-09-16)
 - https://finalfantasywiki.com/wiki/Chocobo_Collection -- Chocobo Collection is a compilation of three games (text pasted by user) -- accessed 2026-10-23; archived: TODO
   - A PlayStation compilation by Square, released only in Japan on 1999-12-22, the tenth anniversary of the chocobo's first appearance in Final Fantasy II; single player and multiplayer
   - Contains Chocobo Racing (a Mario Kart-style racing game, also released standalone in Japan and overseas), Chocobo Stallion (a breeding and racing game based on the Final Fantasy VII system) and Dice de Chocobo (a board game)
@@ -50,6 +58,19 @@
   - The row links the capture of 2022-08-24 (https://web.archive.org/web/20220824052651/https://apps.apple.com/us/app/chocobogp/id1567147111?mt=8): ChocoboGP' on the App Store for iPhone, iPad and iPod touch, free, age rating 4+, languages listed: Japanese, copyright 2022 Square Enix
 - https://www.square-enix-games.com/games/chocobo-gp -- Chocobo GP (Nintendo Switch) official page, the Switch row's link -- accessed 2026-10-23; archived: TODO
   - Square Enix's own game page (found by the user as /en_EU/; the address without a locale redirects to /en_US/); the page is built in the browser, so its text was not read here
+- https://ascii.jp/elem/000/000/342/342537/ -- Chocobo Anywhere 3 platforms*, date (ASCII24 news of 2004-04-27, "NTTドコモ、“ムーバ506i”シリーズ3機種の開発を発表"; text and a photo pasted by user) -- accessed 2026-10-23; archived: https://web.archive.org/web/20131109063447/http://ascii.jp/elem/000/000/342/342537/
+  - NTT DoCoMo announces the development of three 506i i-mode phones (Mitsubishi D506i, Fujitsu F506i, NEC N506i); the D506i has built-in i-appli, among them Taito's 3D racer BATTLE GEAR D and 「どこでもチョコボ 3 倒せ! 虹色大魔王 前編」, the latest of the Square Enix Doko de mo Chocobo series that earlier phones also carried; the second half can be downloaded only by D506i users from Mitsubishi's i-mode site
+  - A development announcement: it gives no release date and says specifications may change at launch; Wikipedia's media list cites it for the game's 2004-05-19 date, the D506i's release date
+  - The photo (a D506i showing the title screen of どこでもチョコボ3 倒せ！虹色大魔王 前編, with the chocobo and "© SQUARE ENIX") shows the game running on the D506i
+- https://ja.wikipedia.org/wiki/D504i, https://ja.wikipedia.org/wiki/D505i, https://ja.wikipedia.org/wiki/D505iS, https://ja.wikipedia.org/wiki/D506i -- Chocobo Anywhere 1 to 3 dates* (the phones' pages; text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - D504i, released 2002-05-24: the i-appli Doko de mo Chocobo was built in
+  - D505i, released 2003-05-23: the page does not name the game (its built-in i-appli list shows Dimo i emoji mail and 珍さんのTVリモコン)
+  - D505iS, released 2003-11-16: built-in i-appli include 「どこでもチョコボ2 前編」 (part 1 of Chocobo Anywhere 2)
+  - D506i, released 2004-05-19: built-in i-appli include 「どこでもチョコボ3倒せ！虹色大魔王編」
+  - The pre-installed games share their phone's release date: 2002-05-24, 2003-05-23 and 2004-05-19 are the dates Wikipedia's media list gives for Chocobo Anywhere, 2 and 3; the Final Fantasy Wiki's 2003 for Chocobo Anywhere 3 does not fit
+  - No announcement of the games' own release dates was found; the dates are the phones' launch dates, as the games were pre-installed (the D505i page does not name the game; the D505iS page and the stoical.egoism.jp fan page do for Chocobo Anywhere 2)
+- https://finalfantasy.fandom.com/pt-br/wiki/Doko_de_mo_Chocobo -- Chocobo Anywhere 1 to 3 dates* (the Brazilian Portuguese Final Fantasy Wiki; text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - Dokodemo Chocobo 2002-05-24, Dokodemo Chocobo 2: Dasshutsu! Yūreisen 2003-05-23, Dokodemo Chocobo 3: Taose! Niji Iro Daimaō 2004-05-19; the intro (a game for Japanese NTT DoCoMo i-mode phones, pre-installed on Mitsubishi Electric and movaD phones, a Chocobo solving a riddle) translates the English Final Fantasy Wiki's, so the page is probably a copy and not independent evidence
 - https://stoical.egoism.jp/game/chocobo/chocobo.htm -- Chocobo Anywhere 2 and 2.5 platforms* (a fan page, 携帯電話【D505ⅰ／D505ⅰＳ】ゲーム どこでもチョコボ; text pasted by user) -- accessed 2026-10-23; archived: TODO
   - Covers Chocobo Anywhere 2 (脱出！幽霊船, in two halves) and 2.5 (潜入！古代遺跡) on the Mitsubishi Electric D505i and D505iS, NTT DoCoMo i-mode phones; it names neither Chocobo Anywhere 1 nor 3
   - The first half of Chocobo Anywhere 2 comes pre-installed and is free to play; the second half and the sequel are downloaded from Mitsubishi's My D-style site through the i-menu, with packet fees (about 72 yen to download, about 480 yen on the first connection, as of March 2004)
@@ -61,9 +82,18 @@
   - The PlayStation date of 2002-12-13 disagrees with Wikipedia's media list, finalfantasywiki.com and the Final Fantasy Wiki, which put the PlayStation game in the Chocobo Collection on 1999-12-22 (candidate in docs/wiki-corrections.md)
 - https://quicksave.live/game/22899 -- Hataraku Chocobo platform*, date* (text pasted by user) -- accessed 2026-10-23; archived: TODO
   - WonderSwan Color, tagged Japan-only, 2000-09-21
+- http://dlgames.square-enix.com/na/ipod/2010/chocobopanic/ -- Chocobo Panic date*, platform*, the iPad row's link (Square Enix's North America download games page; text of the 2016-03-04 capture pasted by user) -- accessed 2026-10-23
+  - Release date 2010-05-28; platform iPad; genre party game; one to six players
+  - The row links the capture of 2024-12-09: https://web.archive.org/web/20241209123911/http://dlgames.square-enix.com/na/ipod/2010/chocobopanic/ (the 2016-03-04 capture, https://web.archive.org/web/20160304055936/http://dlgames.square-enix.com/na/ipod/2010/chocobopanic/, carries the release date, platform, genre and players)
 - https://quicksave.live/game/22905 -- Chocobo Panic platform*, date (text pasted by user) -- accessed 2026-10-23; archived: TODO
   - iOS, 2010-05-24 (Wikipedia's media list gives iPad and 2010-05-28)
   - Its description: a game for iPad where the player catches and holds colourful chocobos moving around the screen until told to "Let go!"; co-op mode and a high score; the platform list is iOS only, so the description gives the iPad
+- https://breezewiki.com/finalfantasy/wiki/Chocobo_de_Mobile -- Chocobo de Mobile titleUrl*, platforms*, terminated*, dates (text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - A mobile application game by Square Enix, a collection of mini-games sold in several packages through Square Enix's mobile site; distribution of the application version ended 2010-03-31
+  - Japan 2006-12-06 (au EZweb) and 2007-08-01 (NTT DoCoMo); platforms: NTT DoCoMo FOMA series and au EZweb phones; Wikipedia's media list gives 2006-12-14
+- https://web.archive.org/web/20071015040815/http://www.square-enix.co.jp/mobile/game/chocomoba/main.html -- Chocobo de Mobile platform* (Square Enix's own mobile page for the game, under square-enix.co.jp/mobile/; the source Wikipedia's media list cites for its date; capture of 2007-10-15) -- accessed 2026-10-23
+  - A collection of mini-games with ability checks, in packs (戦士の書, シーフの書) with more packs planned; trial versions are pre-installed on the au W47T and DRAPE phones; the page text states no release date (it is built from frames)
+  - ja.wikipedia: the au W47T went on sale in order from 2006-12-13 and the au DRAPE (W46T) on 2006-12-22, both with a trial version of Chocobo de Mobile pre-installed; neither equals Wikipedia's 2006-12-14 or the Final Fantasy Wiki's 2006-12-06
 - https://quicksave.live/game/22906 -- Chocobo de Mobile year* (text pasted by user) -- accessed 2026-10-23; archived: TODO
   - Developed and published by Square Enix, released in Japan in 2006; no platform or day listed
 - https://quicksave.live/game/22907 -- Chocobo's Crystal Tower platform*, date (text pasted by user) -- accessed 2026-10-23; archived: TODO
@@ -89,6 +119,8 @@
 - https://www.4gamer.net/games/123/G012325/20101102028/ -- Chocobo's Crystal Tower Facebook platform*, date*, link* (4Gamer news of 2010-11-02; text pasted by user) -- accessed 2026-10-23; archived: TODO
   - Square Enix started Chocobo's Crystal Tower (ver.β) on Facebook on 2010-11-02: a free-to-play game of raising a Chocobo and sending it up towers, with item purchases; address http://apps.facebook.com/chocobos/; promotional site http://www.chocoboscrystaltower.com/
   - The same article's other game, Knights of the Crystals (ver.β), is a separate Facebook RPG, announced as already on mobile phones since August 2010 (official site http://www.square-enix.co.jp/facebook/koc/)
+- https://web.archive.org/web/20140108204710/http://www.hand.co.jp/works/mobile_social.html -- Chocobo's Crystal Tower Facebook platform*, date* (the developer h.a.n.d.'s works page, capture of 2014-01-08; text pasted by user) -- accessed 2026-10-23
+  - Chocobo's Crystal Tower (social app): platform Facebook, distributed by Square Enix, developed by h.a.n.d., distribution start 2010-11-02
 - http://apps.facebook.com/chocobos/ -- Chocobo's Crystal Tower Facebook row -- accessed 2026-10-23
   - Captures of 2011-10-21 and of 2013 to 2015 are the Facebook login page (title "Chocobo's Crystal Tower on Facebook | Facebook", "You need Javascript enabled…"), not the game, so the row links the plain address
 - http://www.chocoboscrystaltower.com/ -- Chocobo's Crystal Tower promotional site -- accessed 2026-10-23
@@ -96,11 +128,15 @@
   - The English choice leads to https://web.archive.org/web/20120325150103/http://www.chocoboscrystaltower.com/en/: the title, a placeholder for a trailer that does not load, and a Play Now link to the Facebook game (https://web.archive.org/web/20120325150103/http://apps.facebook.com/chocobos/) (user)
   - Captures from 2012-09-26 (and 2012-12-27) redirect to https://www.square-enix.com/jp/
   - It says little about the game beyond its title, so the Chocobo's Crystal Tower part does not link it
+- https://game.watch.impress.co.jp/docs/20030523/sqen.htm -- Choco-Mate release date, platforms* (Game Watch news of 2003-05-23, スクウェア・エニックス、チョコボのメール連動型iアプリ; Japanese text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - Square Enix plans (予定) to start distributing the i-appli DX ちょこメ～と on 2003-07-07 as content for the 505i series of NTT DoCoMo i-mode phones, at 150 yen a month; it is a mail-linked app that shows friends' and family's messages and moods as animation on the standby screen, with the Chocobo, and works with people who do not use the app
+  - A function-limited version (機能限定版) of ちょこメ～と is pre-installed on the D505i, which NTT DoCoMo released on 2003-05-23, the day of the article
+  - Wikipedia's media list dates the game 2003-05-23, the D505i's launch (the limited version); the paid service itself was scheduled for 2003-07-07
 - https://www.itmedia.co.jp/mobile/0304/09/n_squareenix.html -- Choco-Mate platforms* (ITMedia Mobile, announcement dated 2003-04-09 by its address; text pasted by user) -- accessed 2026-10-23; archived: TODO
   - Square Enix announces ちょこメ～と, a mail-linked i-appli DX for the 505i series only; release date and price not yet set
   - On the standby screen it shows friends' and family's messages and status as live animation, with the Chocobo as the character; the character can be changed, and Dragon Quest characters were considered
-- https://finalfantasy.fandom.com/es/wiki/Choco-mate -- Choco-Mate titleUrl* (found by the user; the page text was not read here) -- accessed 2026-10-23; archived: TODO
-  - The Spanish Final Fantasy Wiki's page; the English Final Fantasy Wiki has none; the locale stays, as it is a different wiki
+- https://finalfantasy.fandom.com/es/wiki/Choco-mate -- Choco-Mate (found by the user; the page text was not read here) -- accessed 2026-10-23; archived: TODO
+  - The Spanish Final Fantasy Wiki's page; the English Final Fantasy Wiki has none; the part links Wikipedia's media list instead (https://wikipedia.org/wiki/List_of_Chocobo_media#Choco-Mate), which has an entry for it
 - https://play.google.com/store/apps/details?id=com.smilelab.chocoboFarm -- Chocotto Farm Android row -- accessed 2026-10-23
   - The only status-200 capture, 2016-08-05 (https://web.archive.org/web/20160805125814/https://play.google.com/store/apps/details?id=com.smilelab.chocoboFarm): チョコボのチョコッと農園, Smile-Lab, version 1.1.1 updated 2016-03-01, 5,000 to 10,000 installs, Everyone; the description calls it the Android version of the Chocotto Farm that 600,000 people played on feature phones (ガラケー版)
 - https://games.app-liv.jp/archives/17633 -- Chocotto Farm smartphone release* (news of 2015-09-16 quoting Square Enix's release; text pasted by user) -- accessed 2026-10-23; archived: TODO

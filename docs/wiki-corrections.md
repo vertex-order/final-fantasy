@@ -299,3 +299,12 @@ value, ours, and why, so the corrections can be reported upstream.
 - Our source: [chocobo-series-1997.md](../sources/chocobo-series-1997.md)
 - Reason: candidate only: Wikipedia's media list, finalfantasywiki.com and the Final Fantasy Wiki all give 22 December 1999; no
   primary record has been checked.
+
+### Final Fantasy Wiki: Chocobo (series) (Dokodemo Chocobo 3 year)
+
+- Page: https://finalfantasywiki.com/wiki/Chocobo_(series)
+- Says: Dokodemo Chocobo 3: Taose! Niji Iro Daimaō, 2003.
+- Probably: 19 May 2004.
+- Our source: [chocobo-series-1997.md](../sources/chocobo-series-1997.md)
+- Reason: candidate only: the game was built into the Mitsubishi D506i, released 2004-05-19 (ja.wikipedia.org/wiki/D506i),
+  and Wikipedia's media list gives the same date; no primary record has been checked.
