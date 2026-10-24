@@ -551,4 +551,32 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       ],
     },
   },
+  {
+    mediaType: 'Tabletop', chronoOrder: 1700, narrativeOrder: 310,
+    id: 'final-fantasy-tabletop-games',
+    title: 'Final Fantasy tabletop games', titleUrl: 'https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=210', titleDate: { start: '2016-10', end: '2027-03', approx: true, ongoing: true },
+    mediaDesc: [
+      [{ text: 'Board games, card games and tabletop role-playing games from the whole franchise, including the ones also listed under ' }, { emLinkText: 'VII', emLinkUrl: '#group-VII' }, { text: ' and ' }, { emLinkText: 'XIV', emLinkUrl: '#group-XIV' }, { text: '.' }],
+    ],
+    primary: {
+      contentsLabel: 'games',
+      length: '10 games',
+      helpWanted: true,
+      contents: [
+        { title: 'Final Fantasy Trading Card Game', titleDate: '2016-10', titleUrl: 'https://fftcg.square-enix-games.com' },
+        { title: "Chocobo's Crystal Hunt", titleDate: '2016-11', titleUrl: 'https://na.store.square-enix-games.com/the-card-game-chocobo_s-crystal-hunt-deluxe' },
+        { title: 'Chocobo Party Up!', titleDate: '2019-11', titleUrl: 'https://na.store.square-enix-games.com/chocobo-party-up_-the-board-game' },
+        { title: "Chocobo's Dungeon: The Board Game", titleDate: '2024-02', titleUrl: 'https://na.store.square-enix-games.com/chocobo_s-dungeon_-the-board-game' },
+        { title: 'Final Fantasy XIV TTRPG', titleDate: '2024-05', titleUrl: '#entry-XIV-final-fantasy-xiv-tabletop-games' },
+        { title: 'Final Fantasy: Moogle Bounty Mayhem', titleDate: '2024-11', titleUrl: '#entry-XII-final-fantasy-xii-tabletop-games' },
+        { title: 'Magic: The Gathering - Final Fantasy', titleDate: '2025-06-13', titleUrl: 'https://na.store.square-enix-games.com/mtg_-universes-beyond--final-fantasy-commander-deck-display-_4-decks_' },
+        { title: 'Ascend the Shinra Tower: A Final Fantasy VII Board Game', titleDate: { start: '2027-01', approx: true }, titleUrl: '#entry-VII-final-fantasy-vii-tabletop-games' },
+        { title: 'Final Fantasy VII Remake Board Game: Materia Hunter', titleDate: { start: '2027-03', approx: true }, titleUrl: '#entry-VII-final-fantasy-vii-tabletop-games' },
+        { title: 'Final Fantasy XIV Agents of Enquiry: A Realm Reborn', titleDate: { start: '2027-03', approx: true }, titleUrl: '#entry-XIV-final-fantasy-xiv-tabletop-games' },
+      ],
+      platforms: [
+        { key: 'globe', name: 'Board game', paren: 'Square Enix Store', url: 'https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=210' },
+      ],
+    },
+  },
 ]};

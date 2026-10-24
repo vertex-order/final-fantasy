@@ -1006,4 +1006,25 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       ],
     },
   },
+  {
+    mediaType: 'Tabletop', chronoOrder: 4000, narrativeOrder: 2000,
+    id: 'final-fantasy-vii-tabletop-games',
+    title: 'Final Fantasy VII tabletop games', titleUrl: 'https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=252', titleDate: { start: '2027-01', end: '2027-03', approx: true },
+    mediaDesc: [
+      'Board games based on Final Fantasy VII and its Remake.',
+    ],
+    primary: {
+      contentsLabel: 'games',
+      length: '2 games',
+      helpWanted: true,
+      contents: [
+        { title: 'Ascend the Shinra Tower: A Final Fantasy VII Board Game', titleDate: { start: '2027-01', approx: true }, titleUrl: 'https://na.store.square-enix-games.com/ascend-the-shinra-tower---final-fantasy-vii-board-game' },
+        { title: 'Final Fantasy VII Remake Board Game: Materia Hunter', titleDate: { start: '2027-03', approx: true }, titleUrl: 'https://na.store.square-enix-games.com/final-fantasy-vii-remake--board-game--materia-hunter' },
+      ],
+      platforms: [
+        { key: 'globe', name: 'Board game', suffix: 'Ascend the Shinra Tower', paren: 'Square Enix Store', url: 'https://na.store.square-enix-games.com/ascend-the-shinra-tower---final-fantasy-vii-board-game' },
+        { key: 'globe', name: 'Board game', suffix: 'Materia Hunter', paren: 'Square Enix Store', url: 'https://na.store.square-enix-games.com/final-fantasy-vii-remake--board-game--materia-hunter' },
+      ],
+    },
+  },
 ]};
