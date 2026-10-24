@@ -394,7 +394,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     mediaType: 'Game', chronoOrder: 700, narrativeOrder: 358,
     title: 'Pictlogica Final Fantasy', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Pictlogica_Final_Fantasy', titleDate: '2013-10-28',
     mediaDesc: [
-      [{ text: 'Mixes RPG elements with dot logic puzzles. The player controls a party of four, plus one optional friend, as they battle their way through waves of enemies while solving puzzles. The 3DS version had a few extra features.' }],
+      [{ text: 'Mixes RPG elements with dot logic puzzles. The player controls a party of four, plus one optional friend, as they battle their way through waves of enemies while solving puzzles. The 3DS version has different puzzles and an easier difficulty.' }],
     ],
     primary: {
       tags: ['Mashup', 'Dot logic puzzle', 'RPG', 'Single-player', 'Multiplayer', 'Co-op'],
@@ -410,7 +410,8 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       platforms: [
         { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20161011031113/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.pictlogicaff' },
         { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20160625171900/https://itunes.apple.com/jp/app/pictlogica-final-fantasy/id715441573', hreflang: 'ja' },
-        { key: 'nintendo-3ds', jpTag: true, terminated: true, paren: 'Digital' },
+        { key: 'nintendo-3ds', jpTag: true, terminated: true, paren: 'Digital', url: 'https://www.jp.square-enix.com/game/detail/p_ffne/', hreflang: 'ja' },
+        { key: 'nintendo-wii-u', jpTag: true, terminated: true, paren: 'Digital', url: 'https://www.jp.square-enix.com/game/detail/p_ffne/', hreflang: 'ja' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
     },

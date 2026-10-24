@@ -20,8 +20,16 @@
 ## jp.square-enix.com (Publisher, official; Japanese)
 
 - https://www.jp.square-enix.com/p_ff/ and http://www.jp.square-enix.com/p_ffne/ -- the official sites, linked from the ja.wikipedia page ピクトロジカ ファイナルファンタジー -- accessed 2026-10-20 (found by me through the ja.wikipedia API, which lists these two as its relevant external links)
-  - First captures: p_ff 2013-10-25 (title ピクトロジカ ファイナルファンタジー), p_ffne 2017-06-10 (ピクトロジカ ファイナルファンタジー≒, the sequel); last captures carry a notice about refunding "ジェム" (gems), p_ff dated 12/1, so the service has ended
+  - First captures: p_ff 2013-10-25 (title ピクトロジカ ファイナルファンタジー), p_ffne 2017-06-10 (ピクトロジカ ファイナルファンタジー≒, the 3DS release); last captures carry a notice about refunding "ジェム" (gems), p_ff dated 12/1, so the service has ended
   - No Play or App Store link in the pages' HTML; the ja.wikipedia page links no store pages
+
+## jp.square-enix.com game page (Platform; Nintendo 3DS and Wii U; Japanese)
+
+- https://www.jp.square-enix.com/game/detail/p_ffne/ -- the 3DS and Wii U rows -- accessed 2026-10-24 (page text pasted by user)
+  - ピクトロジカ ファイナルファンタジー≒: the smartphone app "in a new guise" on Nintendo 3DS; 3DS release 2017-07-12, CERO A
+  - Over 300 new Pictlogica puzzles (Final Fantasy pixel art) plus the turn-based "Quest" battles; 160 series characters to collect and raise
+  - Notice: online features of the 3DS and Wii U software ended with the online services of those consoles
+  - The release block lists Nintendo 3DS only; Wii U appears only in the shutdown notice
 
 ## an.sqexm.net (Platform; Square Enix Mobile, Android)
 

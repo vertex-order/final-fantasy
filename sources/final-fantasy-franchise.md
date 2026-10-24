@@ -125,7 +125,12 @@
     - 魔界塔士サ・ガ (i-mode 2007-07-02, EZweb 2007-12-13, SoftBank 2008-03-12): [the-final-fantasy-legend-i-iii-1989.md](the-final-fantasy-legend-i-iii-1989.md)
     - 聖剣伝説 -ファイナルファンタジー外伝- (distribution resumed 2011-05-18 and 2011-05-19): [final-fantasy-adventure-1991.md](final-fantasy-adventure-1991.md)
     - ファイナルファンタジー in いただきストリート MOBILE (2010-07-01), renamed 2011-02-03: [dragon-quest-final-fantasy-in-itadaki-street-mobile-2010.md](dragon-quest-final-fantasy-in-itadaki-street-mobile-2010.md)
-  - Titles on the site with none of the three names, not read: ポケットロジック, ポケットラビリンス, TOBAL M, MONOTONE (the first two say "familiar Square Enix characters appear")
+  - Titles on the site with none of the three names, not read: TOBAL M, MONOTONE
+  - ポケットロジック and ポケットラビリンス: free Flash picture puzzles (copyright 2006 and 2007, puzzles by たきせ あきひこ), from the paid-app series スクエニ ポケットパズル (https://web.archive.org/web/20070109185249/http://www.square-enix.co.jp/mobile/game/pocket/pocket_puzzle.html, first capture listing ロジックパズル vol.1; https://web.archive.org/web/20080429140736/http://www.square-enix.co.jp/mobile/game/pocket/pocket_puzzle.html, the last before the end notice) and the Flash page (https://web.archive.org/web/20080615171012/http://www.square-enix.co.jp/mobile/sem/flash/index.html) -- accessed 2026-10-24
+    - Every page says only that "familiar Square Enix characters appear" in the puzzles; none names Final Fantasy or any character
+    - The screenshots (`pl_title.jpg`, `pl_game.jpg`, `plabylinth_title.jpg`, `plabylinth_game.jpg`) have no Wayback capture; the screenshots that load show no Final Fantasy content (user)
+    - The paid-app version is listed as ロジックパズル vol.1 (20×20 grid, colour image revealed on completion) and ポケットラビリンス vol.1, on Yahoo!ケータイ and iモード
+    - Not Final Fantasy: left out
   - Other titles listed on the site, not Final Fantasy: ポートピア連続殺人事件, 北海道連鎖殺人オホーツクに消ゆ, 軽井沢誘拐案内, 武蔵伝II EPISODE ZERO, 倉庫番, ルービックキューブ, ぱにぽに大富豪, ハガレン15パズル, ヘキサイト, どこでもソリティア, どこでも神経衰弱, 地獄のハイウェイ, ナインプレイス, スターオーシャン ブルースフィア, 国破れて山河あり (and 2), ロマンシング サガ (and 2), 元祖 半熟英雄, DEMON CHAIN, ロンゴロンゴ, グイン・サーガmobile, It's NEW FRONTIER, クロノ・トリガー, 聖剣伝説2, 伝説のオウガバトル, ワンダープロジェクト J2, シグマハーモニクス コーダ, いたストMOBILE, スクモバスケジューラー, アイテム
 
 ## Decisions
