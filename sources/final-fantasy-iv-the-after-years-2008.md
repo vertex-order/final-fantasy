@@ -38,6 +38,12 @@ wikipedia.org (Information)
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Bundled_releases -- dates, platforms -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years
 
+dlgames.square-enix.com (Square Enix, smartphone sites)
+
+- https://web.archive.org/web/20131030033953/http://dlgames.square-enix.com/ff/ -- "for smartphone" menu lists Final Fantasy IV: The After Years -- platforms -- accessed 2026-10-24
+  - https://web.archive.org/web/20131030033953/http://dlgames.square-enix.com/ff/ff4tay/en/index.html -- EN site
+  - https://web.archive.org/web/20131030033953/http://dlgames.square-enix.com/ff/ff4tay/jp/index.html -- JA site
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

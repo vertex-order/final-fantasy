@@ -81,4 +81,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
 - https://apps.apple.com/us/app/final-fantasy-v/id609577016 -- the "Remaster 2013" iOS row -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
   - FINAL FANTASY V (Advance engine); gone (404); the capture shows version 1.1.4: https://web.archive.org/web/20201223151124/https://apps.apple.com/us/app/final-fantasy-v/id609577016
 
+## dlgames.square-enix.com (Platform; Square Enix, smartphone sites)
+
+- https://web.archive.org/web/20131030033953/http://dlgames.square-enix.com/ff/ -- "for smartphone" menu lists Final Fantasy V -- platforms -- accessed 2026-10-24
+  - https://web.archive.org/web/20131030033953/http://dlgames.square-enix.com/ff/ff5/en/ -- EN site
+  - https://web.archive.org/web/20131030033953/http://dlgames.square-enix.com/ff/ff5/jp/ -- JA site
+
 ## Decisions
