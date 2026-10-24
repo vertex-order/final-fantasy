@@ -179,6 +179,8 @@
   - Titles whose menu link leaves /na/ (IV, V, Dimensions, Theatrhythm, Crystal Defenders Plus and others): detail pages not read
   - Gallery and wallpaper apps and an AR app (Advent Children Complete, Dissidia, Final Fantasy XIII, VII Compilation, Soul Eater and Fullmetal Alchemist galleries; Dissidia 012 AR): not games, left out
   - http://dlgames.square-enix.com/ff/ -- Final Fantasy "for smartphone" menu, capture of 2013-10-30: https://web.archive.org/web/20131030033953/http://dlgames.square-enix.com/ff/ -- lists Final Fantasy IV: The After Years, V and IV; V and The After Years each have an EN and a JA site -- accessed 2026-10-24
+    - https://web.archive.org/web/20210627002414/http://dlgames.square-enix.com/ff/ -- last working capture of the menu (2021-06-27); same list as the earlier captures; later captures redirect to the Japanese Pixel Remaster site -- accessed 2026-10-24
+
 ## Decisions
 
 - **Not to be listed: collector and special-edition bundles (user, 2026-10-24):** boxed sets, anniversary boxes and collector editions of games that are sold separately; not widely sold, out of print, and dearer than the games bought separately, so they do not help a reader find the games

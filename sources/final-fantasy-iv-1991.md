@@ -89,6 +89,34 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 - https://apps.apple.com/app/final-fantasy-iv-3d-remake/id575119311 -- the iOS row of the "3D Remaster 2012" version -- accessed 2026-10-20
   - Live: the iTunes lookup API for the Square Enix developer (id 300186801) lists FINAL FANTASY IV (3D REMAKE), released 2012-12-20, current version 2025-02-12; the user's click on the iPad row of the developer page opened the Apple Arcade app instead (FINAL FANTASY IV (3D REMAKE)+, id 6504607951, released 2024-12-09, already the `apple-arcade` row)
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP -- the Android row -- accessed 2026-10-20; live; user's pasted 2021-01-05 capture: version 2.0.0, updated 2020-11-03, 22,984 ratings (4.0 stars)
+  - https://web.archive.org/web/20170530165254/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP&hl=en -- capture of 2017-05-30, 3D remake by screenshots; 21,513 ratings (4.5 stars), Teen; no languages line -- accessed 2026-10-24
+- https://web.archive.org/web/20260611154927/https://apps.apple.com/us/app/final-fantasy-iv-3d-remake/id575119311 -- capture of 2026-06-11; v2.0.4 (2025-02-11), 644.5 MB, 539 ratings (4.4), rated 9+, Game Center; Languages: English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese -- languages* -- accessed 2026-10-24
+- https://web.archive.org/web/20170507003754/http://dlgames.square-enix.com/ff/ff4/en/ -- Square Enix NA site; first capture with content, not "coming soon"; trailer shows the 3D remake -- platforms -- accessed 2026-10-24
+  - https://web.archive.org/web/20200517230245/http://dlgames.square-enix.com/ff/ff4/en/ -- last working capture (2020-05-17); later captures show no page and no redirect
+  - https://web.archive.org/web/20170712043257/https://itunes.apple.com/us/app/final-fantasy-iv/id575119311?mt=8&at=11lc5S -- iPhone button
+  - https://web.archive.org/web/20170712043257/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP&hl=en -- Android button
+  - https://web.archive.org/web/20170712043257/http://www.amazon.com/gp/product/B00IHX3TIW -- Amazon button
+- https://web.archive.org/web/20160304194423/http://dlgames.square-enix.com/ff/ff4/jp/index.html -- Square Enix JP site; earliest capture found that is not "coming soon" (found by scrolling years, may not be the first); platforms App Store, Square Enix Market, Android, Amazon -- platforms -- accessed 2026-10-24
+  - https://web.archive.org/web/20160731021835/https://itunes.apple.com/jp/app/final-fantasy-iv/id577363831?&mt=8&at=11lc5S -- App Store JP button; id577363831
+    - redirects to https://web.archive.org/web/20240902223058/https://apps.apple.com/jp/app/final-fantasy-iv-3d-remake/id577363831 -- Japan storefront listing, a different id from the US id575119311; FINAL FANTASY IV (3D REMAKE), v2.0.1 (2021-06-07, retitled), 646.4 MB, ¥2,400, 640 ratings (3.7), 9+, © 1991,2012; 言語: 日本語、イタリア語、スペイン語、タイ語、ドイツ語、フランス語、ポルトガル語、ロシア語、簡体字中国語、繁体字中国語、英語、韓国語 (the same twelve as the US page); cards link FF XII, X/X-2 and IX -- languages, platforms -- accessed 2026-10-24
+  - https://web.archive.org/web/20160731021835/http://www.square-enix.co.jp/smart/market/ -- Square Enix Market button
+  - https://web.archive.org/web/20160731021835/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP -- Android button
+  - https://web.archive.org/web/20160731021835/http://www.amazon.co.jp/gp/product/B00IHX3TIW -- Amazon button; ASIN B00IHX3TIW
+- https://web.archive.org/web/20240229214653/http://dlgames.square-enix.com/ff/ff4/jp/index.html -- redesigned Square Enix JP site (capture of 2024-02-29); platforms Steam, App Store, Google Play, Amazon Appstore, Square Enix Market -- platforms -- accessed 2026-10-24
+  - https://web.archive.org/web/20240229214653/https://store.steampowered.com/app/312750/FINAL_FANTASY_IV/ -- Steam button; app 312750
+  - https://web.archive.org/web/20240229214653/https://apps.apple.com/jp/app/final-fantasy-iv/id577363831?l=ja -- App Store JP button
+  - https://web.archive.org/web/20240229214653/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP -- Google Play button
+  - https://web.archive.org/web/20240229214653/https://www.amazon.co.jp/gp/product/B00IHX3TIW -- Amazon button
+  - https://web.archive.org/web/20240229214653/https://www.jp.square-enix.com/market/ -- Square Enix Market button
+- https://web.archive.org/web/20250707205402/https://www.jp.square-enix.com/ff4/index.html -- Square Enix JP site at a new URL (capture of 2025-07-07), 3D remake; platforms Apple Arcade, App Store, Google Play, Amazon Appstore, Square Enix Market, Steam -- platforms -- accessed 2026-10-24
+  - https://web.archive.org/web/20250707205402/https://apps.apple.com/jp/app/final-fantasy-iv-3d-remake/id6504607951 -- Apple Arcade button; id6504607951
+  - https://web.archive.org/web/20250707205402/https://apps.apple.com/jp/app/final-fantasy-iv/id577363831?l=ja -- App Store button
+  - https://web.archive.org/web/20250707205402/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP -- Google Play button
+  - https://web.archive.org/web/20250707205402/https://www.amazon.co.jp/gp/product/B00IHX3TIW -- Amazon button
+  - https://web.archive.org/web/20250707205402/https://an.sqexm.net/sp/site/Page/sqmk/ff4/top -- Square Enix Market button
+  - https://web.archive.org/web/20250707205402/https://store.steampowered.com/app/312750/FINAL_FANTASY_IV/ -- Steam button
+- https://web.archive.org/web/20160108012323/http://www.amazon.com/SQUARE-ENIX-CO-LTD-FANTASY/dp/B00IHX3TIW -- Amazon Appstore, FINAL FANTASY IV, ASIN B00IHX3TIW, 3D remake by screenshots; 205 reviews (3.8 stars) -- platforms*, languages* -- accessed 2026-10-24
+  - Live: https://www.amazon.com/SQUARE-ENIX-CO-LTD-FANTASY/dp/B00IHX3TIW -- FINAL FANTASY IV (3D REMAKE), 591 ratings (3.6 stars); Languages Supported: Chinese, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Spanish -- accessed 2026-10-24
 
 ## dlgames.square-enix.com (Platform; Square Enix, smartphone sites)
 
