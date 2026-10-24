@@ -218,7 +218,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
   },
   {
     mediaType: 'Game', chronoOrder: 200, narrativeOrder: 300,
-    title: 'Chocobo (series)', titleUrl: 'https://wikipedia.org/wiki/Chocobo_(series)', titleDate: { start: 1997, end: 2022, ongoing: true },
+    title: 'Chocobo (game series)', titleUrl: 'https://wikipedia.org/wiki/Chocobo_(series)', titleDate: { start: 1997, end: 2022, ongoing: true },
     mediaDesc: [
       [{ text: "Over 21 titles in this series provide casual fun centered around a recurring cast of characters and all relating to Final Fantasy's Chocobo mounts. The games span different genres, and some entries are a bit too simplistic to deserve their own entries, as a whole the series may be worth checking out." }],
     ],
@@ -273,7 +273,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     title: "Chocobo's Mysterious Story", titleUrl: 'https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%9C%E3%81%AE%E3%81%B5%E3%81%97%E3%81%8E%E3%82%82%E3%81%AE%E3%81%8C%E3%81%9F%E3%82%8A', titleHreflang: 'ja', titleDate: { start: '1998-08', end: '2001-01' },
     by: 'Hiroshi Kato',
     mediaDesc: [
-      [{ text: 'A young chocobo searching for his father is rescued in the desert by a scheming moogle, who talks him into a treasure-hunting trip. An original story set in the world of the Chocobo\'s Dungeon games, with characters, monsters and dungeons from ' }, { emLinkText: "Chocobo's Dungeon 2 (1998)", emLinkUrl: '#entry-Other-chocobo-series-1997' }, { text: ', from volume 2. Released as ' }, { text: 'Chocobo no Fushigi Monogatari', lang: 'ja-Latn' }, { text: ' (' }, { text: 'チョコボのふしぎものがたり', lang: 'ja' }, { text: ', literally "Chocobo\'s Mysterious Story").' }],
+      [{ text: 'A young chocobo searching for his father is rescued in the desert by a scheming moogle, who talks him into a treasure-hunting trip. An original story set in the world of the Chocobo\'s Dungeon games, with characters, monsters and dungeons from ' }, { emLinkText: "Chocobo's Dungeon 2 (1998)", emLinkUrl: '#entry-Other-chocobo-game-series-1997' }, { text: ', from volume 2. Released as ' }, { text: 'Chocobo no Fushigi Monogatari', lang: 'ja-Latn' }, { text: ' (' }, { text: 'チョコボのふしぎものがたり', lang: 'ja' }, { text: ', literally "Chocobo\'s Mysterious Story").' }],
     ],
     primary: {
       tags: ['Manga'],
@@ -553,26 +553,25 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
   },
   {
     mediaType: 'Tabletop', chronoOrder: 1700, narrativeOrder: 310,
-    id: 'final-fantasy-tabletop-games',
     title: 'Final Fantasy tabletop games', titleUrl: 'https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=210', titleDate: { start: '2016-10', end: '2027-03', approx: true, ongoing: true },
     mediaDesc: [
-      [{ text: 'Board games, card games and tabletop role-playing games from the whole franchise, including the ones also listed under ' }, { emLinkText: 'VII', emLinkUrl: '#group-VII' }, { text: ' and ' }, { emLinkText: 'XIV', emLinkUrl: '#group-XIV' }, { text: '.' }],
+      [{ text: 'Board games, card games and tabletop role-playing games from the whole franchise, including the ones also listed under ' }, { emLinkText: 'VII', emLinkUrl: '#group-VII' }, { text: ', ' }, { emLinkText: 'XII', emLinkUrl: '#group-XII' }, { text: ' and ' }, { emLinkText: 'XIV', emLinkUrl: '#group-XIV' }, { text: '.' }],
     ],
     primary: {
       contentsLabel: 'games',
       length: '10 games',
       helpWanted: true,
       contents: [
-        { title: 'Final Fantasy Trading Card Game', titleDate: '2016-10', titleUrl: 'https://fftcg.square-enix-games.com' },
+        { title: 'Ascend the Shinra Tower: A Final Fantasy VII Board Game', titleDate: { start: '2027-01', approx: true }, titleUrl: '#entry-VII-final-fantasy-vii-tabletop-games-2027' },
+        { title: 'Final Fantasy VII Remake Board Game: Materia Hunter', titleDate: { start: '2027-03', approx: true }, titleUrl: '#entry-VII-final-fantasy-vii-tabletop-games-2027' },
+        { title: 'Final Fantasy: Moogle Bounty Mayhem', titleDate: '2024-11', titleUrl: '#entry-XII-final-fantasy-xii-tabletop-games-2024' },
+        { title: 'Final Fantasy XIV TTRPG', titleDate: '2024-05', titleUrl: '#entry-XIV-final-fantasy-xiv-tabletop-games-2024' },
+        { title: 'Final Fantasy XIV Agents of Enquiry: A Realm Reborn', titleDate: { start: '2027-03', approx: true }, titleUrl: '#entry-XIV-final-fantasy-xiv-tabletop-games-2024' },
         { title: "Chocobo's Crystal Hunt", titleDate: '2016-11', titleUrl: 'https://na.store.square-enix-games.com/the-card-game-chocobo_s-crystal-hunt-deluxe' },
         { title: 'Chocobo Party Up!', titleDate: '2019-11', titleUrl: 'https://na.store.square-enix-games.com/chocobo-party-up_-the-board-game' },
         { title: "Chocobo's Dungeon: The Board Game", titleDate: '2024-02', titleUrl: 'https://na.store.square-enix-games.com/chocobo_s-dungeon_-the-board-game' },
-        { title: 'Final Fantasy XIV TTRPG', titleDate: '2024-05', titleUrl: '#entry-XIV-final-fantasy-xiv-tabletop-games' },
-        { title: 'Final Fantasy: Moogle Bounty Mayhem', titleDate: '2024-11', titleUrl: '#entry-XII-final-fantasy-xii-tabletop-games' },
+        { title: 'Final Fantasy Trading Card Game', titleDate: '2016-10', titleUrl: 'https://fftcg.square-enix-games.com' },
         { title: 'Magic: The Gathering - Final Fantasy', titleDate: '2025-06-13', titleUrl: 'https://na.store.square-enix-games.com/mtg_-universes-beyond--final-fantasy-commander-deck-display-_4-decks_' },
-        { title: 'Ascend the Shinra Tower: A Final Fantasy VII Board Game', titleDate: { start: '2027-01', approx: true }, titleUrl: '#entry-VII-final-fantasy-vii-tabletop-games' },
-        { title: 'Final Fantasy VII Remake Board Game: Materia Hunter', titleDate: { start: '2027-03', approx: true }, titleUrl: '#entry-VII-final-fantasy-vii-tabletop-games' },
-        { title: 'Final Fantasy XIV Agents of Enquiry: A Realm Reborn', titleDate: { start: '2027-03', approx: true }, titleUrl: '#entry-XIV-final-fantasy-xiv-tabletop-games' },
       ],
       platforms: [
         { key: 'globe', name: 'Board game', paren: 'Square Enix Store', url: 'https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=210' },

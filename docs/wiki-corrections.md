@@ -308,7 +308,7 @@ value, ours, and why, so the corrections can be reported upstream.
 - Page: https://quicksave.live/game/125583
 - Says: Nintendo DS, 11 December 2011.
 - Probably: 11 December 2008.
-- Our source: [chocobo-series-1997.md](../sources/chocobo-series-1997.md)
+- Our source: [chocobo-game-series-1997.md](../sources/chocobo-game-series-1997.md)
 - Reason: candidate only: the Final Fantasy Wiki and Wikipedia's media list both give 11 December 2008; no
   primary record has been checked.
 
@@ -317,7 +317,7 @@ value, ours, and why, so the corrections can be reported upstream.
 - Page: https://quicksave.live/game/49559
 - Says: PlayStation, 13 December 2002 (the Game Boy Advance remake's date), on one page for both games.
 - Probably: PlayStation 22 December 1999 (in the Chocobo Collection); the page merges the PlayStation game and the Game Boy Advance remake.
-- Our source: [chocobo-series-1997.md](../sources/chocobo-series-1997.md)
+- Our source: [chocobo-game-series-1997.md](../sources/chocobo-game-series-1997.md)
 - Reason: candidate only: Wikipedia's media list, finalfantasywiki.com and the Final Fantasy Wiki all give 22 December 1999; no
   primary record has been checked.
 
@@ -326,6 +326,6 @@ value, ours, and why, so the corrections can be reported upstream.
 - Page: https://finalfantasywiki.com/wiki/Chocobo_(series)
 - Says: Dokodemo Chocobo 3: Taose! Niji Iro Daimaō, 2003.
 - Probably: 19 May 2004.
-- Our source: [chocobo-series-1997.md](../sources/chocobo-series-1997.md)
+- Our source: [chocobo-game-series-1997.md](../sources/chocobo-game-series-1997.md)
 - Reason: candidate only: the game was built into the Mitsubishi D506i, released 2004-05-19 (ja.wikipedia.org/wiki/D506i),
   and Wikipedia's media list gives the same date; no primary record has been checked.

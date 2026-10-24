@@ -567,7 +567,6 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
   },
   {
     mediaType: 'Tabletop', chronoOrder: 1200, narrativeOrder: 1000,
-    id: 'final-fantasy-xiv-tabletop-games',
     title: 'Final Fantasy XIV tabletop games', titleUrl: 'https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=238', titleDate: { start: '2024-05', end: '2027-03', approx: true },
     mediaDesc: [
       'A tabletop role-playing game and a party card game set in Eorzea. The role-playing game is sold as a starter set and further rulebooks.',

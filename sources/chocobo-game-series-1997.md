@@ -1,6 +1,6 @@
-<!-- sources/chocobo-series-1997.md (markdown) -->
+<!-- sources/chocobo-game-series-1997.md (markdown) -->
 
-# Chocobo (series)
+# Chocobo (game series)
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->

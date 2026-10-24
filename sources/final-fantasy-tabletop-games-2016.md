@@ -1,4 +1,4 @@
-<!-- sources/final-fantasy-tabletop-games.md (markdown) -->
+<!-- sources/final-fantasy-tabletop-games-2016.md (markdown) -->
 
 # Final Fantasy tabletop games
 
@@ -12,7 +12,7 @@ Dates on these pages are approximate; the store does not update them after relea
 - https://na.store.square-enix-games.com/final-fantasy-moogle-bounty-mayhem-board-game -- Final Fantasy Moogle Bounty Mayhem board game -- platforms* -- accessed 2026-10-24
 - https://na.store.square-enix-games.com/mtg_-universes-beyond--final-fantasy-commander-deck-display-_4-decks_ -- Magic: The Gathering Universes Beyond Final Fantasy Commander deck display (four decks) -- platforms* -- accessed 2026-10-24
 - https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=210 -- Final Fantasy board games brand listing (four results: Crystal Hunt Deluxe, Moogle Bounty Mayhem, Chocobo's Dungeon, Chocobo Party Up!) -- platforms* -- accessed 2026-10-24
-- Entries for the Final Fantasy VII, Final Fantasy VII Remake and Final Fantasy XIV games, with their store pages: [final-fantasy-vii-tabletop-games.md](final-fantasy-vii-tabletop-games.md), [final-fantasy-xiv-tabletop-games.md](final-fantasy-xiv-tabletop-games.md)
+- Series-specific games and their store pages: [final-fantasy-vii-tabletop-games-2027.md](final-fantasy-vii-tabletop-games-2027.md), [final-fantasy-xii-tabletop-games-2024.md](final-fantasy-xii-tabletop-games-2024.md), [final-fantasy-xiv-tabletop-games-2024.md](final-fantasy-xiv-tabletop-games-2024.md)
 
 ## Final Fantasy Trading Card Game
 

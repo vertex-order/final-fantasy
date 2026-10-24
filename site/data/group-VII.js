@@ -1008,7 +1008,6 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
   },
   {
     mediaType: 'Tabletop', chronoOrder: 4000, narrativeOrder: 2000,
-    id: 'final-fantasy-vii-tabletop-games',
     title: 'Final Fantasy VII tabletop games', titleUrl: 'https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=252', titleDate: { start: '2027-01', end: '2027-03', approx: true },
     mediaDesc: [
       'Board games based on Final Fantasy VII and its Remake.',
