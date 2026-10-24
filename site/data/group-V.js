@@ -63,11 +63,16 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
             { value: 'PT-PT' },
             { value: 'RU' },
             { value: 'ES-ES' },
+            { value: 'KO' },
+            { value: 'TH' },
+            { value: 'ZH-CN' },
+            { value: 'ZH-TW' },
           ],
           platforms: [
             { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/382890/FINAL_FANTASY_V_Old_ver/', paren: 'PC' },
             { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20210603211101/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFV_GP' },
-            { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20201223151124/https://apps.apple.com/us/app/final-fantasy-v/id609577016' },
+            { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20190909000513/https://apps.apple.com/us/app/final-fantasy-v/id609577016' },
+            { key: 'amazon', url: 'https://web.archive.org/web/20160324053626/http://www.amazon.com/SQUARE-ENIX-CO-LTD-FANTASY/dp/B00MGLAPOC' },
           ],
           versionDesc: [
             'This remaster has new high-resolution graphics and sprites, eight-direction movement, auto battle. Also has the extra dungeon and optional boss from Edit 2006.',

@@ -75,11 +75,32 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
   - Earlier capture of 2021-01-05 (page text pasted by user): version 1.2.5, updated March 23, 2020, 16,769 ratings (4.3 stars), 100,000+ installs; cloud save warning
   - The last capture is the one the row links
   - Listed on the developer's 2020-12-23 app list (see final-fantasy-franchise.md)
+  - Capture of 2016-02-12 (page text pasted by user): https://web.archive.org/web/20160212004806/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFV_GP
+    - 15,027 ratings (4.5 stars), rated Teen, "Android TV is now supported"; no languages line
+  - Capture of 2016-03-10, linked from the JA smartphone site: https://web.archive.org/web/20160310025636/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFV_GP (not read)
+
+## amazon.com (Platform; old Amazon Appstore app)
+
+- http://www.amazon.com/gp/product/B00MGLAPOC -- the "Remaster 2013" Amazon row -- accessed 2026-10-24
+  - The amazon.com and amazon.co.jp product pages did not load (checked by user 2026-10-24)
+  - Capture of 2016-03-24 (page text pasted by user): https://web.archive.org/web/20160324053626/http://www.amazon.com/SQUARE-ENIX-CO-LTD-FANTASY/dp/B00MGLAPOC
+    - Appstore for Android; original release 2014-08-21; version 1.2.0 (Fire TV support, cloud save) of 2015-09-17; 77 reviews (4.1 stars); no languages line
+  - https://www.amazon.co.jp/dp/B00MGLAPOC -- Japan listing; capture of 2015-11-13 (page text pasted by user): https://web.archive.org/web/20151113071337/http://www.amazon.co.jp/130/dp/B00MGLAPOC
+    - Languages: Italian, Spanish, German, French, Portuguese, Russian, Chinese, Japanese, English, Korean
+- https://developer.amazon.com/apps-and-games/blogs/2025/02/upcoming-changes-to-amazon-appstore-for-android-devices-and-coins-program -- Amazon ended the Appstore for non-Amazon Android devices on 2025-08-20; the Fire TV and Fire Tablet Appstore continues -- accessed 2026-10-24
 
 ## apps.apple.com (Platform; old iOS app)
 
 - https://apps.apple.com/us/app/final-fantasy-v/id609577016 -- the "Remaster 2013" iOS row -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
-  - FINAL FANTASY V (Advance engine); gone (404); the capture shows version 1.1.4: https://web.archive.org/web/20201223151124/https://apps.apple.com/us/app/final-fantasy-v/id609577016
+  - FINAL FANTASY V (Advance engine); gone (404); the capture of 2020-12-23 shows version 1.1.4: https://web.archive.org/web/20201223151124/https://apps.apple.com/us/app/final-fantasy-v/id609577016
+  - Capture of 2019-09-09 (the last that renders; page text pasted by user): https://web.archive.org/web/20190909000513/https://apps.apple.com/us/app/final-fantasy-v/id609577016
+    - Version 1.1.3 of 2015-10-28, rated 9+, © 1992, 2006, 2013; description includes "The Sealed Temple" from the 2006 release and the optional boss Enuo
+    - Languages*: English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese
+  - Captures of 2019-09-24, 2019-10-14 and 2020-02-17 show a "connecting" splash; the HTML source was not read
+- https://apps.apple.com/jp/app/final-fantasy-v/id609589784 -- Japan storefront listing of the same app -- accessed 2026-10-24
+  - Capture of 2019-06-30 (page text pasted by user): https://web.archive.org/web/20190630120817/https://apps.apple.com/jp/app/final-fantasy-v/id609589784
+  - Same 12 languages as the US listing*, version 1.1.3 of 2015-10-28, rated 9+, Japanese description
+  - Capture of 2016-03-10 (linked from the JA smartphone site): https://web.archive.org/web/20160310025636/https://itunes.apple.com/jp/app/final-fantasy-v/id609589784?mt=8&at=11lc5S
 
 ## dlgames.square-enix.com (Platform; Square Enix, smartphone sites)
 
