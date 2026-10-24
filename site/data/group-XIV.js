@@ -577,9 +577,9 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       helpWanted: true,
       contents: [
         { title: 'Final Fantasy XIV TTRPG Starter Set', titleDate: '2024-05', titleUrl: 'https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-starter-set' },
-        { title: 'Final Fantasy XIV TTRPG Standard Rulebook', num: false, titleDate: '2025-02', titleUrl: 'https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-standard-rulebook-deluxe-edition' },
-        { title: 'Final Fantasy XIV TTRPG Scenario & Gamemaster Guide', num: false, titleDate: '2025-12', titleUrl: 'https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-scenario-_-gamemaster-guide' },
-        { title: 'Final Fantasy XIV TTRPG Advanced Rulebook: Stormblood', num: false, titleDate: '2026-08', titleUrl: 'https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-advanced-rulebook_-stormblood' },
+        { title: 'Final Fantasy XIV TTRPG Standard Rulebook', num: false, titleDate: '2024-11-23', titleUrl: 'https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-standard-rulebook-deluxe-edition' },
+        { title: 'Final Fantasy XIV TTRPG Scenario & Gamemaster Guide', num: false, titleDate: '2025-07-26', titleUrl: 'https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-scenario-_-gamemaster-guide' },
+        { title: 'Final Fantasy XIV TTRPG Advanced Rulebook: Stormblood', num: false, titleDate: '2026-03-21', titleUrl: 'https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-advanced-rulebook_-stormblood' },
         { title: 'Final Fantasy XIV Agents of Enquiry: A Realm Reborn', titleDate: { start: '2027-03', approx: true }, titleUrl: 'https://na.store.square-enix-games.com/final-fantasy-xiv-agents-of-enquiry---a-realm-reborn' },
       ],
       platforms: [

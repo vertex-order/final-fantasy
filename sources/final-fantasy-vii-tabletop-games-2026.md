@@ -1,4 +1,4 @@
-<!-- sources/final-fantasy-vii-tabletop-games-2027.md (markdown) -->
+<!-- sources/final-fantasy-vii-tabletop-games-2026.md (markdown) -->
 
 # Final Fantasy VII tabletop games
 
@@ -6,9 +6,14 @@
 
 Dates on these pages are approximate; the store does not update them after release.
 
-- https://na.store.square-enix-games.com/ascend-the-shinra-tower---final-fantasy-vii-board-game -- Release Date: January 2027; cooperative balance board game inspired by Final Fantasy VII; $34.99 -- dates*, platforms* -- accessed 2026-10-24
-- https://na.store.square-enix-games.com/final-fantasy-vii-remake--board-game--materia-hunter -- Release Date: March 2027; competitive game for two players (1 vs. 1) or four players (2 vs. 2) collecting Materia with Remake characters -- dates*, platforms* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/ascend-the-shinra-tower---final-fantasy-vii-board-game -- Release Date: January 2027; cooperative balance board game inspired by Final Fantasy VII; $34.99 -- dates, platforms* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/final-fantasy-vii-remake--board-game--materia-hunter -- Release Date: March 2027; competitive game for two players (1 vs. 1) or four players (2 vs. 2) collecting Materia with Remake characters -- dates, platforms* -- accessed 2026-10-24
 - https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=252 -- Final Fantasy VII board games brand listing (one result) -- accessed 2026-10-24
+
+## Square Enix e-STORE, Japan (Publisher)
+
+- https://store.jp.square-enix.com/estore/g/gMFF709171/ -- ファイナルファンタジーVII 神羅ビルを登れ (Ascend the Shinra Tower); genre card/board game; series Final Fantasy VII; 発売日 2026-11-06 -- dates* -- accessed 2026-10-24
+- https://store.jp.square-enix.com/estore/g/gMFF700363-1/ -- ファイナルファンタジーVII リメイク ボードゲーム マテリアハンター (Materia Hunter); series Final Fantasy VII; 発売日 2027-01-30 -- dates* -- accessed 2026-10-24
 
 ## Square Enix North America (Press)
 

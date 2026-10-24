@@ -12,7 +12,7 @@ Dates on these pages are approximate; the store does not update them after relea
 - https://na.store.square-enix-games.com/final-fantasy-moogle-bounty-mayhem-board-game -- Final Fantasy Moogle Bounty Mayhem board game -- platforms* -- accessed 2026-10-24
 - https://na.store.square-enix-games.com/mtg_-universes-beyond--final-fantasy-commander-deck-display-_4-decks_ -- Magic: The Gathering Universes Beyond Final Fantasy Commander deck display (four decks) -- platforms* -- accessed 2026-10-24
 - https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=210 -- Final Fantasy board games brand listing (four results: Crystal Hunt Deluxe, Moogle Bounty Mayhem, Chocobo's Dungeon, Chocobo Party Up!) -- platforms* -- accessed 2026-10-24
-- Series-specific games and their store pages: [final-fantasy-vii-tabletop-games-2027.md](final-fantasy-vii-tabletop-games-2027.md), [final-fantasy-xii-tabletop-games-2024.md](final-fantasy-xii-tabletop-games-2024.md), [final-fantasy-xiv-tabletop-games-2024.md](final-fantasy-xiv-tabletop-games-2024.md)
+- Series-specific games and their store pages: [final-fantasy-vii-tabletop-games-2026.md](final-fantasy-vii-tabletop-games-2026.md), [final-fantasy-xii-tabletop-games-2024.md](final-fantasy-xii-tabletop-games-2024.md), [final-fantasy-xiv-tabletop-games-2024.md](final-fantasy-xiv-tabletop-games-2024.md)
 
 ## Final Fantasy Trading Card Game
 
@@ -22,6 +22,25 @@ Dates on these pages are approximate; the store does not update them after relea
 - https://en.wikipedia.org/wiki/Final_Fantasy_Trading_Card_Game -- search result, page not opened -- accessed 2026-10-24
 - Opus I: worldwide 2016-10-28 (216 cards; starter sets Final Fantasy VII, X and XIII), Japan 2016-12-09; earlier Japan-only "Chapter" series from 2011, discontinued before Opus -- dates* -- search result (gamrconnect.vgchartz.com thread, Fandom wiki), pages not opened -- accessed 2026-10-24
 - Developed by Hobby Japan, published by Square Enix -- search result, page not opened -- accessed 2026-10-24
+
+## Square Enix e-STORE, Japan (Publisher)
+
+Genre card/board game, series Final Fantasy その他 (other).
+
+- https://store.jp.square-enix.com/estore/g/gMFFS30411/ -- チョコボのスカウトフレンジーボードゲーム (Chocobo's Scout Frenzy Board Game); 発売日 2027-03-27 -- dates*, profile link* -- accessed 2026-10-24
+- https://store.jp.square-enix.com/estore/g/gMMC06021/ -- カードゲーム チョコボのクリスタルハント デラックス; 発売日 2025-11-29 -- accessed 2026-10-24
+- https://store.jp.square-enix.com/estore/g/gMFF1100074-1/ -- ボードゲーム チョコボのパーティーアップ！; 発売日 2025-10-25 -- accessed 2026-10-24
+- https://store.jp.square-enix.com/estore/g/gMFFS30129-1/ -- チョコボの不思議なダンジョンボードゲーム; 発売日 2024-11-09 -- accessed 2026-10-24
+- The three Chocobo dates above are later than the Wikipedia dates for the same games (2016-11, 2019-11, 2024-02); the e-STORE pages do not say whether they are first releases
+
+## Chocobo's Scout Frenzy
+
+- https://www.appbank.net/2026/10/16/game/3133671.php -- announced 2026-10-15, release 2027-03-27 in Japan; 4,400 yen -- search result, page not opened -- accessed 2026-10-24
+- https://www.xeznaff.com/post/chocobo-s-scout-frenzy-board-game-launches-in-japan-next-march -- Japan March 2027 -- search result, page not opened -- accessed 2026-10-24
+- https://www.hlj.com/product/ENX29894 -- retailer -- search result, page not opened -- accessed 2026-10-24
+- https://hobby-genki.com/en/final-fantasy/102707-chocobo-s-scout-frenzy-board-game-square-enix--4988601298940.html -- retailer; some overseas shops list March 31 -- search result, page not opened -- accessed 2026-10-24
+- https://www.nin-nin-game.com/en/card-board-games/264011-final-fantasy-chocobo-s-scout-frenzy-the-board-game-multi-language-square-enix-.html -- retailer, multi-language edition -- search result, page not opened -- accessed 2026-10-24
+- Search result summary: 2-5 players, about 30 minutes, ages 10+; players secretly pick numbered Chocobo cards each turn, higher number takes the scoring card first; vegetables score, monsters subtract; box has rulebooks in English, Japanese, French and German, 100 Chocobo cards, 50 exploration cards, 15 command coins -- accessed 2026-10-24
 
 ## Wikipedia (Information)
 

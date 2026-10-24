@@ -9,12 +9,24 @@ Dates on these pages are approximate; the store does not update them after relea
 - https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-starter-set -- Final Fantasy XIV tabletop role-playing game based on the MMO, players are adventurers or game master -- platforms* -- accessed 2026-10-24
   - https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-starter-set---wave-2 -- Starter Set Wave 2, $69.99 -- accessed 2026-10-24
 - https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-standard-rulebook-deluxe-edition -- Release Date: September 2025; Deluxe Edition combines the Standard Rulebook with play-enhancing items, $189.99 -- accessed 2026-10-24
-- https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-scenario-_-gamemaster-guide -- Release Date: December 2025; $69.99 -- dates*, platforms* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-scenario-_-gamemaster-guide -- Release Date: December 2025; $69.99 -- dates, platforms* -- accessed 2026-10-24
   - https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-scenario-_-gamemaster-guide-deluxe-edition -- Deluxe Edition, Release Date: December 2025 -- accessed 2026-10-24
-- https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-advanced-rulebook_-stormblood -- Release Date: August 2026; adds level 65 and 70 abilities and traits -- dates*, platforms* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-advanced-rulebook_-stormblood -- Release Date: August 2026; adds level 65 and 70 abilities and traits -- dates, platforms* -- accessed 2026-10-24
   - https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-advanced-rulebook_-stormblood-deluxe-edition -- Deluxe Edition, Release Date: August 2026 -- accessed 2026-10-24
-- https://na.store.square-enix-games.com/final-fantasy-xiv-agents-of-enquiry---a-realm-reborn -- Release: March 2027; party game with Final Fantasy XIV characters; Japanese and English; $47.99 -- dates*, platforms* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/final-fantasy-xiv-agents-of-enquiry---a-realm-reborn -- Release: March 2027; party game with Final Fantasy XIV characters; Japanese and English; $47.99 -- dates, platforms* -- accessed 2026-10-24
 - https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=238 -- Final Fantasy XIV tabletop listing (eight results: the role-playing game books and sets, Agents of Enquiry, Loporrit playing cards) -- accessed 2026-10-24
+
+## Square Enix e-STORE, Japan (Publisher)
+
+Japanese-language editions (日本語版); genre card/board game, series Final Fantasy XIV.
+
+- https://store.jp.square-enix.com/estore/g/gMFF140017-1/ -- TTRPG スターターセット (Starter Set); 発売日 2024-06-29 -- accessed 2026-10-24
+- https://store.jp.square-enix.com/estore/g/gMFF140022/ -- TTRPG スタンダードルールブック (Standard Rulebook); 発売日 2024-11-23 -- dates* -- accessed 2026-10-24
+  - https://store.jp.square-enix.com/estore/g/gMFF140023-1/ -- Deluxe Edition; 発売日 2024-12-21 -- accessed 2026-10-24
+- https://store.jp.square-enix.com/estore/g/gMFF140041/ -- TTRPG シナリオ＆ゲームマスターガイド (Scenario & Gamemaster Guide); 発売日 2025-07-26 -- dates* -- accessed 2026-10-24
+  - https://store.jp.square-enix.com/estore/g/gMFF140042/ -- Deluxe Edition; 発売日 2025-07-26 -- accessed 2026-10-24
+- https://store.jp.square-enix.com/estore/g/gMFF140045/ -- TTRPG アドバンスドルールブック 紅蓮のリベレーター (Advanced Rulebook: Stormblood); 発売日 2026-03-21 -- dates* -- accessed 2026-10-24
+  - https://store.jp.square-enix.com/estore/g/gMFF140046/ -- Deluxe Edition; 発売日 2026-03-21 -- accessed 2026-10-24
 
 ## finalfantasy.fandom.com (Information)
 
