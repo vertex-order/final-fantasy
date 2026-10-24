@@ -125,7 +125,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
     alts: [
       {
         tags: [],
-        title: 'Final Fantasy XV: Pocket Edition', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV:_Pocket_Edition', titleDate: 2018,
+        title: 'Final Fantasy XV: Pocket Edition', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV:_Pocket_Edition', titleDate: '2018-02-08',
         languages: [
           { value: 'JA', native: true, voice: true },
           { value: 'EN-GB' },

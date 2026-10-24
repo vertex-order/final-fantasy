@@ -103,7 +103,18 @@
 - https://alchetron.com/Crystal-Defenders -- a catalog page that links the original Google Play and Amazon Appstore URLs of a removed mobile game -- accessed 2026-10-21 (found by the user; see the Crystal Defenders source)
   - Only this page checked; other mobile games not yet tried (URL pattern `https://alchetron.com/<Game-Title>`)
 
+## ultimatepopculture.fandom.com (Information)
+
+- https://breezewiki.com/ultimatepopculture/wiki/List_of_Final_Fantasy_video_games -- games, platforms, dates -- accessed 2026-10-24 (page text saved by user; proxied from https://ultimatepopculture.fandom.com/wiki/List_of_Final_Fantasy_video_games)
+  - A copy of Wikipedia's List of Final Fantasy video games, same sections, notes and 175 references, with no entries of its own
+  - The newest items are Chocobo's Mystery Dungeon: Every Buddy! (2019) and Crystal Chronicles Remastered (2020)
+  - Its Fortress item is a cancelled game (2011)
+
 ## Decisions
+
+- **Not to be listed: collector and special-edition bundles (user, 2026-10-24):** boxed sets, anniversary boxes and collector editions of games that are sold separately; not widely sold, out of print, and dearer than the games bought separately, so they do not help a reader find the games
+  - A standard omnibus that sold widely and whose name does not say what is in it is listed as an edition (Final Fantasy I & II: Dawn of Souls)
+  - Applied to: the XIII/XIII-2 Dual Pack, the 25th Anniversary Ultimate Box and the XIII Ultimate Collection (see sources/xiii-group.md)
 
 - **Not to be listed: Final Fantasy XIV: Libra Eorzea (user, 2026-10-20):** a free smartphone app by Square Enix (ファイナルファンタジーXIV: ライブラ エオルゼア), iOS 2013-09-10 and Android 2013-11-01 in all regions, giving offline access to the official XIV database and a character profile viewer for gear and attributes; discontinued 2019-04-23 and supplanted by the Final Fantasy XIV Companion
   - A different app, not a version of the Companion: its own store listing (iOS id 682415504, the Companion is id 1293636320) and a different function (an offline reference database and profile viewer, not the Companion's chat, market board and subscription service)

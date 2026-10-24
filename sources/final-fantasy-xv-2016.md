@@ -60,7 +60,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_version_differ
 - https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Titles -- story, platforms -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_XV
 - https://wikipedia.org/wiki/Final_Fantasy_XV#Release
-- https://wikipedia.org/wiki/Final_Fantasy_XV:_Pocket_Edition
+- https://wikipedia.org/wiki/Final_Fantasy_XV:_Pocket_Edition -- dates* -- accessed 2026-10-24 (infobox pasted by user)
+  - Release: Android and iOS 2018-02-08; Windows 10 2018-06-06; PlayStation 4 and Xbox One 2018-09-07; Nintendo Switch 2018-09-13
 
 ## Xbox (Platform)
 
