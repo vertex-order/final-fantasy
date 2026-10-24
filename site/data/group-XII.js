@@ -515,9 +515,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       contents: [
         { title: 'Final Fantasy: Moogle Bounty Mayhem', titleDate: '2024-11', titleUrl: 'https://na.store.square-enix-games.com/final-fantasy-moogle-bounty-mayhem-board-game' },
       ],
-      platforms: [
-        { key: 'globe', name: 'Board game', paren: 'Square Enix Store', url: 'https://na.store.square-enix-games.com/final-fantasy-moogle-bounty-mayhem-board-game' },
-      ],
+      profileUrl: 'https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1',
     },
   },
 ]};

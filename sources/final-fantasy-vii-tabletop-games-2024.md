@@ -1,13 +1,18 @@
-<!-- sources/final-fantasy-vii-tabletop-games-2026.md (markdown) -->
+<!-- sources/final-fantasy-vii-tabletop-games-2024.md (markdown) -->
 
 # Final Fantasy VII tabletop games
+
+## BoardGameGeek (Information)
+
+- https://boardgamegeek.com/boardgame/426154/queens-blood -- Queen's Blood (2024); publisher Square Enix Co., Ltd.; 2 players; physical card game of the minigame in Final Fantasy VII Rebirth, 3x5 grid, 15-card decks, cards with power and pawn cost; category Admin: Upcoming Releases; 1 rating -- dates, links* -- accessed 2026-10-24
+- The 2024 year may not be a release date; a Square Enix page for the physical game has not been found
 
 ## Square Enix Store, North America (Publisher)
 
 Dates on these pages are approximate; the store does not update them after release.
 
-- https://na.store.square-enix-games.com/ascend-the-shinra-tower---final-fantasy-vii-board-game -- Release Date: January 2027; cooperative balance board game inspired by Final Fantasy VII; $34.99 -- dates, platforms* -- accessed 2026-10-24
-- https://na.store.square-enix-games.com/final-fantasy-vii-remake--board-game--materia-hunter -- Release Date: March 2027; competitive game for two players (1 vs. 1) or four players (2 vs. 2) collecting Materia with Remake characters -- dates, platforms* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/ascend-the-shinra-tower---final-fantasy-vii-board-game -- Release Date: January 2027; cooperative balance board game inspired by Final Fantasy VII; $34.99 -- dates, links* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/final-fantasy-vii-remake--board-game--materia-hunter -- Release Date: March 2027; competitive game for two players (1 vs. 1) or four players (2 vs. 2) collecting Materia with Remake characters -- dates, links* -- accessed 2026-10-24
 - https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=252 -- Final Fantasy VII board games brand listing (one result) -- accessed 2026-10-24
 
 ## Square Enix e-STORE, Japan (Publisher)

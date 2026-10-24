@@ -2,18 +2,23 @@
 
 # Final Fantasy XIV tabletop games
 
+## BoardGameGeek (Information)
+
+- https://boardgamegeek.com/boardgame/283713/final-fantasy-xiv-gold-saucer-cactpot-party -- Final Fantasy XIV: Gold Saucer Cactpot Party (2019); 2-4 players, 10-20 min, age 6+; designer Yoshihiko Uto; publisher Square Enix Co., Ltd.; board game reimagining of the Mini Cactpot attraction at the Manderville Gold Saucer; images credited to the publisher's website; 78 ratings, 6.7 -- dates*, links* -- accessed 2026-10-24
+- The Square Enix page for the game has not been found
+
 ## Square Enix Store, North America (Publisher)
 
 Dates on these pages are approximate; the store does not update them after release.
 
-- https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-starter-set -- Final Fantasy XIV tabletop role-playing game based on the MMO, players are adventurers or game master -- platforms* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-starter-set -- Final Fantasy XIV tabletop role-playing game based on the MMO, players are adventurers or game master -- links* -- accessed 2026-10-24
   - https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-starter-set---wave-2 -- Starter Set Wave 2, $69.99 -- accessed 2026-10-24
 - https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-standard-rulebook-deluxe-edition -- Release Date: September 2025; Deluxe Edition combines the Standard Rulebook with play-enhancing items, $189.99 -- accessed 2026-10-24
-- https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-scenario-_-gamemaster-guide -- Release Date: December 2025; $69.99 -- dates, platforms* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-scenario-_-gamemaster-guide -- Release Date: December 2025; $69.99 -- dates, links* -- accessed 2026-10-24
   - https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-scenario-_-gamemaster-guide-deluxe-edition -- Deluxe Edition, Release Date: December 2025 -- accessed 2026-10-24
-- https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-advanced-rulebook_-stormblood -- Release Date: August 2026; adds level 65 and 70 abilities and traits -- dates, platforms* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-advanced-rulebook_-stormblood -- Release Date: August 2026; adds level 65 and 70 abilities and traits -- dates, links* -- accessed 2026-10-24
   - https://na.store.square-enix-games.com/final-fantasy-xiv-ttrpg-advanced-rulebook_-stormblood-deluxe-edition -- Deluxe Edition, Release Date: August 2026 -- accessed 2026-10-24
-- https://na.store.square-enix-games.com/final-fantasy-xiv-agents-of-enquiry---a-realm-reborn -- Release: March 2027; party game with Final Fantasy XIV characters; Japanese and English; $47.99 -- dates, platforms* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/final-fantasy-xiv-agents-of-enquiry---a-realm-reborn -- Release: March 2027; party game with Final Fantasy XIV characters; Japanese and English; $47.99 -- dates, links* -- accessed 2026-10-24
 - https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=238 -- Final Fantasy XIV tabletop listing (eight results: the role-playing game books and sets, Agents of Enquiry, Loporrit playing cards) -- accessed 2026-10-24
 
 ## Square Enix e-STORE, Japan (Publisher)

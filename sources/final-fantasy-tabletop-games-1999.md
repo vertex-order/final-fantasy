@@ -1,4 +1,4 @@
-<!-- sources/final-fantasy-tabletop-games-2016.md (markdown) -->
+<!-- sources/final-fantasy-tabletop-games-1999.md (markdown) -->
 
 # Final Fantasy tabletop games
 
@@ -6,17 +6,18 @@
 
 Dates on these pages are approximate; the store does not update them after release.
 
-- https://na.store.square-enix-games.com/the-card-game-chocobo_s-crystal-hunt-deluxe -- Release Date: February 2026; Deluxe edition of Chocobo's Crystal Hunt with the expansion Chocobo's Dungeon & Monsters; $34.99 -- platforms* -- accessed 2026-10-24
-- https://na.store.square-enix-games.com/chocobo-party-up_-the-board-game -- Release Date: November 2019; board game, $49.99 -- dates*, platforms* -- accessed 2026-10-24
-- https://na.store.square-enix-games.com/chocobo_s-dungeon_-the-board-game -- Release Date: February 2024; board game, $49.99 -- dates*, platforms* -- accessed 2026-10-24
-- https://na.store.square-enix-games.com/final-fantasy-moogle-bounty-mayhem-board-game -- Final Fantasy Moogle Bounty Mayhem board game -- platforms* -- accessed 2026-10-24
-- https://na.store.square-enix-games.com/mtg_-universes-beyond--final-fantasy-commander-deck-display-_4-decks_ -- Magic: The Gathering Universes Beyond Final Fantasy Commander deck display (four decks) -- platforms* -- accessed 2026-10-24
-- https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=210 -- Final Fantasy board games brand listing (four results: Crystal Hunt Deluxe, Moogle Bounty Mayhem, Chocobo's Dungeon, Chocobo Party Up!) -- platforms* -- accessed 2026-10-24
-- Series-specific games and their store pages: [final-fantasy-vii-tabletop-games-2026.md](final-fantasy-vii-tabletop-games-2026.md), [final-fantasy-xii-tabletop-games-2024.md](final-fantasy-xii-tabletop-games-2024.md), [final-fantasy-xiv-tabletop-games-2024.md](final-fantasy-xiv-tabletop-games-2024.md)
+- https://na.store.square-enix-games.com/the-card-game-chocobo_s-crystal-hunt-deluxe -- Release Date: February 2026; Deluxe edition of Chocobo's Crystal Hunt with the expansion Chocobo's Dungeon & Monsters; $34.99 -- links* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/chocobo-party-up_-the-board-game -- Release Date: November 2019; board game, $49.99 -- dates*, links* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/chocobo_s-dungeon_-the-board-game -- Release Date: February 2024; board game, $49.99 -- dates*, links* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/final-fantasy-moogle-bounty-mayhem-board-game -- Final Fantasy Moogle Bounty Mayhem board game -- links* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/mtg_-universes-beyond--final-fantasy-commander-deck-display-_4-decks_ -- Magic: The Gathering Universes Beyond Final Fantasy Commander deck display (four decks) -- links* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1 -- Square Enix Store board games category; profile link* for the tabletop entries -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=210 -- Final Fantasy board games brand listing (four results: Crystal Hunt Deluxe, Moogle Bounty Mayhem, Chocobo's Dungeon, Chocobo Party Up!) -- links* -- accessed 2026-10-24
+- Series-specific games and their store pages: [final-fantasy-vii-tabletop-games-2024.md](final-fantasy-vii-tabletop-games-2026.md), [final-fantasy-viii-tabletop-games-1999.md](final-fantasy-viii-tabletop-games-1999.md), [final-fantasy-ix-tabletop-games-2001.md](final-fantasy-ix-tabletop-games-2001.md), [final-fantasy-xii-tabletop-games-2024.md](final-fantasy-xii-tabletop-games-2024.md), [final-fantasy-xiv-tabletop-games-2019.md](final-fantasy-xiv-tabletop-games-2019.md)
 
 ## Final Fantasy Trading Card Game
 
-- https://fftcg.square-enix-games.com -- official North American site, English only; rules in the Starter Guide, card browser; promotes the Blissful Eternity set -- platforms*, profile link* -- accessed 2026-10-24
+- https://fftcg.square-enix-games.com -- official North American site, English only; rules in the Starter Guide, card browser; promotes the Blissful Eternity set -- links*, profile link* -- accessed 2026-10-24
   - https://fftcg.square-enix-games.com/en/release/opus-i -- Opus I set page -- dates* -- search result, page not opened -- accessed 2026-10-24
 - https://na.store.square-enix-games.com/merchandise/table-top/trading-card-game -- Square Enix Store trading card game category -- accessed 2026-10-24
 - https://en.wikipedia.org/wiki/Final_Fantasy_Trading_Card_Game -- search result, page not opened -- accessed 2026-10-24
@@ -42,6 +43,13 @@ Genre card/board game, series Final Fantasy その他 (other).
 - https://www.nin-nin-game.com/en/card-board-games/264011-final-fantasy-chocobo-s-scout-frenzy-the-board-game-multi-language-square-enix-.html -- retailer, multi-language edition -- search result, page not opened -- accessed 2026-10-24
 - Search result summary: 2-5 players, about 30 minutes, ages 10+; players secretly pick numbered Chocobo cards each turn, higher number takes the scoring card first; vegetables score, monsters subtract; box has rulebooks in English, Japanese, French and German, 100 Chocobo cards, 50 exploration cards, 15 command coins -- accessed 2026-10-24
 
+## Origins of Light: A Final Fantasy Board Game
+
+- https://www.kessentertainment.co/origins-of-light-final-fantasy-game -- Kess Entertainment page for the game (page title "Final Fantasy I-III: The Board Game"), image banners and a link to the Kickstarter project; no release date, price or Square Enix statement on the page; links the pre-order and, per the user, will move to regular sales -- links* -- accessed 2026-10-24
+- https://boardgamegeek.com/boardgame/479062/origins-of-light-a-final-fantasy-board-game -- Origins of Light (2027); 1-4 players, 90-180 min, age 12+; designer Alex Kessler, artist Jordan Robbins, publisher Kess Co.; strategy RPG based on the Pixel Remaster editions of Final Fantasy I, II and III, with a module for each; competitive or cooperative; category Admin: Upcoming Releases; 8 ratings -- dates, story -- accessed 2026-10-24
+- https://www.kickstarter.com/projects/kessent/origins-of-light-a-final-fantasy-board-game/ -- Kickstarter project page
+  - As reported by the user, not read here: the campaign includes an expansion for Final Fantasy IV; a pre-order campaign whose risks section says every order will be fulfilled; production Dec 2026 to Mar 2027; images carry a Square Enix copyright line; over $1M raised after 5 days -- dates*, licence* -- accessed 2026-10-24
+
 ## Wikipedia (Information)
 
 - https://en.wikipedia.org/wiki/List_of_Chocobo_media#Printed -- Chocobo's Crystal Hunt November 2016 (card game, two to four players), Chocobo's Dungeon & Monsters expansion August 2017, Crystal Hunt Deluxe February 2026; Chocobo Party Up! November 2019; Chocobo's Dungeon: The Board Game February 2024 (one to four players) -- dates* -- accessed 2026-10-24
@@ -49,8 +57,7 @@ Genre card/board game, series Final Fantasy その他 (other).
 ## BoardGameGeek (Information)
 
 - https://boardgamegeek.com/geeklist/341102/final-fantasy -- geeklist "Final Fantasy themed/inspired/related games" by twistedblackrose2, 14 items added 2024-08-16 -- accessed 2026-10-24
-  - Listed and covered: Chocobo Party Up!, Chocobo's Crystal Hunt, Chocobo's Crystal Hunt: Chocobo's Dungeons & Monsters, Chocobo's Dungeon: The Board Game, Final Fantasy VII Remake Boardgame: Materia Hunter, Final Fantasy: Moogle Bounty Mayhem
-  - Listed, not yet checked: Final Fantasy VIII: Triple Triad, Final Fantasy IX Tetra Master Card Game, Final Fantasy XIV: Gold Saucer Cactpot Party, Queen's Blood
+  - Listed and covered: Chocobo Party Up!, Chocobo's Crystal Hunt, Chocobo's Crystal Hunt: Chocobo's Dungeons & Monsters, Chocobo's Dungeon: The Board Game, Final Fantasy VII Remake Boardgame: Materia Hunter, Queen's Blood, Final Fantasy VIII: Triple Triad, Final Fantasy IX Tetra Master Card Game, Final Fantasy XIV: Gold Saucer Cactpot Party, Final Fantasy: Moogle Bounty Mayhem
   - Out of scope: Final Fantasy Monopoly (a rebrand of an existing game), Final Fantasy: The Stolen Seed (fan expansion for T.I.M.E Stories), Kingdom Hearts TCG (listed in the Kingdom Hearts vertex order)
 - https://boardgamegeek.com/boardgame/426962/final-fantasy-moogle-bounty-mayhem -- Moogle Bounty Mayhem, designed by Seiji Kanai, 2-4 players, about 15 minutes (search result snippet, page not opened) -- accessed 2026-10-24
 
@@ -73,6 +80,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 ## Not yet surveyed
 
-- Japan Square Enix product pages for the native release dates · Final Fantasy VIII: Triple Triad · Final Fantasy IX Tetra Master Card Game · Final Fantasy XIV: Gold Saucer Cactpot Party · Queen's Blood
+- Japan Square Enix product pages for the native release dates
 
 ## Decisions
+
+- Origins of Light: A Final Fantasy Board Game is listed as upcoming. Its Kickstarter is a pre-order campaign (the risks section says every order will be fulfilled) and the game is Square Enix-licensed, so it will be produced.

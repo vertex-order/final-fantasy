@@ -1008,22 +1008,20 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
   },
   {
     mediaType: 'Tabletop', chronoOrder: 4000, narrativeOrder: 2000,
-    title: 'Final Fantasy VII tabletop games', titleUrl: 'https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=252', titleDate: { start: '2026-11-06', end: '2027-01-30', approx: true },
+    title: 'Final Fantasy VII tabletop games', titleUrl: 'https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1&brand=252', titleDate: { start: '2024', end: '2027-01-30', approx: true },
     mediaDesc: [
-      'Board games based on Final Fantasy VII and its Remake.',
+      'Board and card games based on Final Fantasy VII and its Remake.',
     ],
     primary: {
       contentsLabel: 'games',
-      length: '2 games',
+      length: '3 games',
       helpWanted: true,
       contents: [
+        { title: "Queen's Blood", titleDate: { start: '2024', approx: true }, titleUrl: 'https://boardgamegeek.com/boardgame/426154/queens-blood' },
         { title: 'Ascend the Shinra Tower: A Final Fantasy VII Board Game', titleDate: { start: '2026-11-06', approx: true }, titleUrl: 'https://na.store.square-enix-games.com/ascend-the-shinra-tower---final-fantasy-vii-board-game' },
         { title: 'Final Fantasy VII Remake Board Game: Materia Hunter', titleDate: { start: '2027-01-30', approx: true }, titleUrl: 'https://na.store.square-enix-games.com/final-fantasy-vii-remake--board-game--materia-hunter' },
       ],
-      platforms: [
-        { key: 'globe', name: 'Board game', suffix: 'Ascend the Shinra Tower', paren: 'Square Enix Store', url: 'https://na.store.square-enix-games.com/ascend-the-shinra-tower---final-fantasy-vii-board-game' },
-        { key: 'globe', name: 'Board game', suffix: 'Materia Hunter', paren: 'Square Enix Store', url: 'https://na.store.square-enix-games.com/final-fantasy-vii-remake--board-game--materia-hunter' },
-      ],
+      profileUrl: 'https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1',
     },
   },
 ]};

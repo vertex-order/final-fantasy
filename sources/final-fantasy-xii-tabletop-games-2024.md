@@ -4,7 +4,7 @@
 
 ## Square Enix Store, North America (Publisher)
 
-- https://na.store.square-enix-games.com/final-fantasy-moogle-bounty-mayhem-board-game -- Final Fantasy Moogle Bounty Mayhem board game, $50.99; six Moogle siblings with unique abilities battle monsters from the Final Fantasy XII universe; designed by Seiji Kanai; artwork by Final Fantasy XII Art Supervisor Ryoma Ito; English language version, other language versions sold separately in their countries -- story*, platforms* -- accessed 2026-10-24
+- https://na.store.square-enix-games.com/final-fantasy-moogle-bounty-mayhem-board-game -- Final Fantasy Moogle Bounty Mayhem board game, $50.99; six Moogle siblings with unique abilities battle monsters from the Final Fantasy XII universe; designed by Seiji Kanai; artwork by Final Fantasy XII Art Supervisor Ryoma Ito; English language version, other language versions sold separately in their countries -- story*, links* -- accessed 2026-10-24
 - https://press.na.square-enix.com/SQUARE-ENIX-RELEASES-FINAL-FANTASY-MOOGLE-BOUNTY-MAYHEM-BOARD-GAME -- press release of 2025-08-07, available on the Square Enix Store -- English release -- search result, page not opened -- accessed 2026-10-24
 
 ## Search results (Information)

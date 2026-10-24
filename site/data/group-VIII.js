@@ -139,4 +139,22 @@ window.__ffGroupReg['VIII'] = { num: 'VIII', chronoOrder: 800, narrativeOrder: 8
       ],
     },
   },
+  {
+    mediaType: 'Tabletop', chronoOrder: 1000, narrativeOrder: 400,
+    title: 'Final Fantasy VIII tabletop games', titleUrl: 'https://boardgamegeek.com/boardgame/15957/final-fantasy-viii-triple-triad', titleDate: 1999,
+    mediaDesc: [
+      [{ text: 'A physical collectible card game version of the Triple Triad card minigame inside ' }, { emLinkText: 'VIII (1999)', emLinkUrl: '#entry-VIII-final-fantasy-viii-1999' }, { text: ', for two players on a 3x3 grid, sold in booster packs with art by Tetsuya Nomura.' }],
+    ],
+    primary: {
+      contentsLabel: 'games',
+      length: '1 game',
+      helpWanted: true,
+      languages: [
+        { value: 'JA', native: true },
+      ],
+      contents: [
+        { title: 'Final Fantasy VIII: Triple Triad', titleDate: 1999, titleUrl: 'https://boardgamegeek.com/boardgame/15957/final-fantasy-viii-triple-triad' },
+      ],
+    },
+  },
 ]};

@@ -101,4 +101,22 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, narrativeOrder: 900, 
       ],
     },
   },
+  {
+    mediaType: 'Tabletop', chronoOrder: 1000, narrativeOrder: 400,
+    title: 'Final Fantasy IX tabletop games', titleUrl: 'https://boardgamegeek.com/boardgame/7604/final-fantasy-ix-tetra-master-card-game', titleDate: 2001,
+    mediaDesc: [
+      [{ text: 'A physical card game version of the Tetra Master card minigame inside ' }, { emLinkText: 'IX (2000)', emLinkUrl: '#entry-IX-final-fantasy-ix-2000' }, { text: ', for two players on a 4x4 grid.' }],
+    ],
+    primary: {
+      contentsLabel: 'games',
+      length: '1 game',
+      helpWanted: true,
+      languages: [
+        { value: 'DE' },
+      ],
+      contents: [
+        { title: 'Final Fantasy IX Tetra Master Card Game', titleDate: 2001, titleUrl: 'https://boardgamegeek.com/boardgame/7604/final-fantasy-ix-tetra-master-card-game' },
+      ],
+    },
+  },
 ]};
