@@ -59,6 +59,13 @@ square-enix.com and stores (Publisher)
   - "Relive the excitement of Final Fantasy Adventure"
   - Shows the 3D remake
 - Google Play and Amazon pages not readable by my fetch; rows rely on the official badges
+- https://web.archive.org/web/20110122011850/http://web.square-enix.co.jp/mobile/seiken/sdff/ -- Remake (2006 mobile) platform*, link* (Square Enix Mobile's page for 聖剣伝説 -ファイナルファンタジー外伝-; capture of 2011-01-22, redirected from http://www.square-enix.co.jp/mobile/seiken/sdff/) -- accessed 2026-10-24
+  - Copyright 1991, 2006 Square Enix; 500 points (525 yen with tax)
+  - 配信再開日 (distribution resumed): i-mode (NTT DoCoMo) 2011-05-18, FOMA903i and 703i series and later; EZweb (au) 2011-05-19, WIN BREW; Yahoo!ケータイ (SoftBank) 2011-05-18, SoftBank 3G and later; the access box is a script served from a later capture than the page
+- https://web.archive.org/web/20140706034432/http://www.square-enix.co.jp/mobile/sem/ -- Remake dates (Square Enix Mobile index; capture of 2014-07-06) -- accessed 2026-10-24
+  - News of 2011-05-18: the 『聖剣伝説』 series arrives on スクエニMOBILE, with the first game 『聖剣伝説 -ファイナルファンタジー外伝-』 and 『聖剣伝説2』 as phone apps
+- https://www.jp.square-enix.com/announce/semobile/ -- terminated* (Square Enix's end-of-service notice for 「スクエニモバイル」, the live page; text pasted by user, identical to the capture of 2018-04-02, https://web.archive.org/web/20180402064630/http://www.square-enix.co.jp/mobile/sem/) -- accessed 2026-10-24
+  - Square Enix Mobile ended all services on 2018-03-31; from 2018-04-01 its member data and installed apps are unusable
 
 ## Surveyed
 

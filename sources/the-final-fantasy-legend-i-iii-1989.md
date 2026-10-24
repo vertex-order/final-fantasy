@@ -24,6 +24,15 @@
 
 - https://www.square-enix.com/saga/en-us/games/collection-saga-final-fantasy-legend/
 
+## Square Enix Mobile (Platform)
+
+- https://web.archive.org/web/20080704111206/http://www.square-enix.co.jp/mobile/sem/saga/ -- 魔界塔士サ・ガ (the first game, Makai Toushi Sa・Ga) on Square Enix Mobile: platform*, link* (capture of 2008-07-04) -- accessed 2026-10-24
+  - A paid mobile app, 500 points (525 yen with tax); copyright 1989, 2002, 2007, 2008 Square Enix
+  - Start dates and terminals: i-mode (NTT DoCoMo) 2007-07-02, FOMA900i series and later; EZweb (au) 2007-12-13, WIN BREW; Yahoo!ケータイ (SoftBank) 2008-03-12, 3G series
+  - Listed on the site's menu from 2007-07-04 (the first capture) through the 2012-10-21 Flash index
+- https://www.jp.square-enix.com/announce/semobile/ -- terminated* (Square Enix's end-of-service notice for 「スクエニモバイル」, the live page; text pasted by user, identical to the capture of 2018-04-02, https://web.archive.org/web/20180402064630/http://www.square-enix.co.jp/mobile/sem/) -- accessed 2026-10-24
+  - Square Enix Mobile ended all services on 2018-03-31; from 2018-04-01 its member data and installed apps are unusable
+
 ## Steam (Platform)
 
 - https://store.steampowered.com/app/1642620/COLLECTION_of_SaGa_FINAL_FANTASY_LEGEND/

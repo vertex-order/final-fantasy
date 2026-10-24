@@ -100,6 +100,27 @@
 - https://web.archive.org/web/20071015040815/http://www.square-enix.co.jp/mobile/game/chocomoba/main.html -- Chocobo de Mobile platform* (Square Enix's own mobile page for the game, under square-enix.co.jp/mobile/; the source Wikipedia's media list cites for its date; capture of 2007-10-15) -- accessed 2026-10-23
   - A collection of mini-games with ability checks, in packs (戦士の書, シーフの書) with more packs planned; trial versions are pre-installed on the au W47T and DRAPE phones; the page text states no release date (it is built from frames)
   - ja.wikipedia: the au W47T went on sale in order from 2006-12-13 and the au DRAPE (W46T) on 2006-12-22, both with a trial version of Chocobo de Mobile pre-installed; neither equals Wikipedia's 2006-12-14 or the Final Fantasy Wiki's 2006-12-06
+- https://web.archive.org/web/20070704192702/http://www.square-enix.co.jp/mobile/sem/flash/index.html -- Patapata Chocobo (ぱたぱたチョコボ) title*, date*, platform* (Square Enix's mobile site, Flash games page; capture of 2007-07-04, the first capture of the site) -- accessed 2026-10-24
+  - Listed as a free Flash game; copyright 2007 Square Enix; no release date, carriers or English title stated
+  - Description: a Chocobo mini-game "familiar from the Final Fantasy series"; move the Chocobo to take Gysahl vegetables (the red ones) before the time limit; consecutive vegetables raise the score
+  - Listed in the site's menu captures from 2007-07-04 to 2010-01-14 (the latest read); not among the tiles of the Flash index (data file captured 2012-10-21)
+- https://web.archive.org/web/20080706054924/http://www.square-enix.co.jp/mobile/sem/flash/index.html -- Patapata Chocobo titleUrl* (capture of 2008-07-06, same page, same text) -- accessed 2026-10-24
+- https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html -- the five ranking Flash games with Chocobo in the title: titles*, dates*, platforms*, titleUrl* (Square Enix's mobile site, ranking-enabled Flash games page; capture of 2009-08-30) -- accessed 2026-10-24
+  - Nine free Flash games with a weekly ranking and an all-time high-score ranking; copyright 2008 Square Enix on all nine; no release dates, carriers or English titles stated; the English titles are ours (literal)
+  - チョコボのギリギリストップ プレミアム (anchor #chocogiri): stop a Chocobo running at a cliff at the last moment; too greedy and it falls
+  - チョコリンピックジャンプ (#chocorin): the Chocobo enters the "Chocolympics" jump event for a best record
+  - チョコボの算数マラソン (#marathon): run while solving arithmetic problems
+  - チョコボと記憶の迷宮 (#chocobo_kioku): remember the path a Moogle walked to lead the Chocobo out of a labyrinth
+  - チョコボのクリスタルハンター (#chocobo_crystal): match card pictures so the Chocobo's magic opens treasure chests
+  - The other four on the page: 素モーグリの海底探検, モーグリの一日店長, ボムの大逆襲, サボテンダーパニック
+  - Release window, from the site's menu captures: the 2008-07-06 menu lists none of the nine (https://web.archive.org/web/20080706054924/http://www.square-enix.co.jp/mobile/sem/); the 2008-09-17 menu lists seven, all but チョコボと記憶の迷宮 and チョコボのクリスタルハンター (https://web.archive.org/web/20080917031959/http://www.square-enix.co.jp/mobile/sem/); the 2009-01-22 menu lists all nine (https://web.archive.org/web/20090122231957/http://www.square-enix.co.jp/mobile/sem/)
+  - Only capture of the ranking page before 2009: 2008-09-18 (https://web.archive.org/web/20080918073450/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html)
+- https://www.jp.square-enix.com/announce/semobile/ -- Patapata Chocobo terminated* (Square Enix's end-of-service notice for 「スクエニモバイル」, the live page; text pasted by user, identical to the capture of 2018-04-02, https://web.archive.org/web/20180402064630/http://www.square-enix.co.jp/mobile/sem/) -- accessed 2026-10-24
+  - Square Enix Mobile ended all services on 2018-03-31; from 2018-04-01 its member data and installed apps are unusable
+- https://web.archive.org/web/20080529041911/http://www.square-enix.co.jp/mobile/game/chocomoba/main.html -- Chocobo de Mobile date*, platforms* (Square Enix's own mobile page for the game; capture of 2008-05-29; the page `/mobile/game/chocomoba/` is one animated image linking to it) -- accessed 2026-10-24
+  - Start dates: EZweb (au) 2006-12-14, WIN BREW terminals; i-mode (NTT DoCoMo) 2007-08-01, FOMA900i series and later
+  - One pack costs 300 points (315 yen with tax); copyright 2007, 2008 Square Enix
+  - A Moogle comments on each ability-check result; clearing games earns coins, and coins earn titles
 - https://quicksave.live/game/22906 -- Chocobo de Mobile year* (text pasted by user) -- accessed 2026-10-23; archived: TODO
   - Developed and published by Square Enix, released in Japan in 2006; no platform or day listed
 - https://quicksave.live/game/22907 -- Chocobo's Crystal Tower platform*, date (text pasted by user) -- accessed 2026-10-23; archived: TODO

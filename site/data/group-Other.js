@@ -29,11 +29,12 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       versions: [
         {
           subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Adventure#Versions_and_merchandise', subtitleDate: 2006,
+          terminated: true,
           languages: [
             { value: 'JA', native: true },
           ],
           platforms: [
-            { key: 'mobile-phone', jpTag: true },
+            { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'NTT DoCoMo i-mode; au EZweb; SoftBank', url: 'https://web.archive.org/web/20110122011850/http://web.square-enix.co.jp/mobile/seiken/sdff/', hreflang: 'ja' },
           ],
           versionDesc: [
             [{ text: 'Closer to the original design, with updated graphics and sound, an improved world map and a new sickle.' }],
@@ -244,6 +245,12 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { title: 'Final Fantasy Fables: Chocobo Tales', titleDate: '2006-12-14 10', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_Fables:_Chocobo_Tales', platforms: [{ key: 'nintendo-ds' }, { key: 'nintendo-3ds', paren: 'DS compatibility', more: true }] },
         { title: 'Chocobo Tales: The Witch, the Girl, and the Five Heroes', titleDate: '2008-12-11', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Chocobo_to_Mahou_no_Ehon:_Majo_to_Shoujo_to_Go-nin_no_Yuusha', platforms: [{ key: 'nintendo-ds', jpTag: true }, { key: 'nintendo-3ds', jpTag: true, paren: 'DS compatibility', more: true }] },
         { title: 'Chocobo de Mobile', titleDate: '2006-12-14 20', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Chocobo_de_Mobile', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true, paren: 'au EZweb; NTT DoCoMo FOMA series', url: 'https://web.archive.org/web/20071015040815/http://www.square-enix.co.jp/mobile/game/chocomoba/main.html', hreflang: 'ja' }] },
+        { title: 'Patapata Chocobo', titleDate: '2007', titleUrl: 'https://web.archive.org/web/20080706054924/http://www.square-enix.co.jp/mobile/sem/flash/index.html#chocobo', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
+        { title: "Chocobo's Giri-Giri Stop Premium", titleDate: '2008', titleUrl: 'https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html#chocogiri', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
+        { title: 'Chocolympic Jump', titleDate: '2008', titleUrl: 'https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html#chocorin', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
+        { title: "Chocobo's Arithmetic Marathon", titleDate: '2008', titleUrl: 'https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html#marathon', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
+        { title: 'Chocobo and the Labyrinth of Memory', titleDate: '2008', titleUrl: 'https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html#chocobo_kioku', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
+        { title: "Chocobo's Crystal Hunter", titleDate: '2008', titleUrl: 'https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html#chocobo_crystal', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
         { title: 'Chocobo Panic', titleDate: '2010-05-28', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Chocobo_Panic', platforms: [{ key: 'apple-ipad', terminated: true, url: 'https://web.archive.org/web/20160208062817/https://itunes.apple.com/gb/app/chocobo-panic/id373052434?mt=8' }] },
         { title: "Chocobo's Crystal Tower", titleDate: '2010-06-29', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Chocobo%27s_Crystal_Tower', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }, { key: 'facebook', terminated: true, more: true, url: 'https://apps.facebook.com/chocobos/' }] },
         { title: "Chocobo's Chocotto Farm", titleDate: '2012-12-19', titleUrl: 'https://wikipedia.org/wiki/Chocobo%E2%80%99s_Chocotto_Farm', platforms: [{ key: 'mobile-phone', jpTag: true, paren: 'GREE' }, { key: 'android2', jpTag: true, terminated: true, paren: 'd game store', url: 'https://web.archive.org/web/20160805125814/https://play.google.com/store/apps/details?id=com.smilelab.chocoboFarm', more: true }, { key: 'apple', jpTag: true, terminated: true, paren: 'd game store', url: 'https://web.archive.org/web/20171017202521/https://www.dmkt-sp.jp/?url=http%3A%2F%2Fportal.dmkt-sp.jp%2Fsp%2Fgame-store%2Ftop', more: true }] },
@@ -530,6 +537,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
           paren: 'Digital; Switch compatibility',
           url: 'https://www.nintendo.com/store/products/collection-of-saga-final-fantasy-legend-switch/',
         },
+        { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'Part I; NTT DoCoMo i-mode; au EZweb; SoftBank', url: 'https://web.archive.org/web/20080704111206/http://www.square-enix.co.jp/mobile/sem/saga/', hreflang: 'ja' },
       ],
     },
   },
@@ -580,6 +588,45 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { title: 'Final Fantasy XIV Agents of Enquiry: A Realm Reborn', titleDate: { start: '2027-03', approx: true }, titleUrl: 'https://na.store.square-enix-games.com/final-fantasy-xiv-agents-of-enquiry---a-realm-reborn' },
       ],
       profileUrl: 'https://na.store.square-enix-games.com/merchandise/table-top/board-games?_bc_fsnf=1',
+    },
+  },
+  {
+    mediaType: 'Game', chronoOrder: 350, narrativeOrder: 330,
+    title: 'Dragon Quest & Final Fantasy in Itadaki Street Mobile', titleDate: '2010-07-01',
+    mediaDesc: [
+      [{ text: 'A mobile board game in the ' }, { emText: 'Itadaki Street' }, { text: ' style, where rivals race to become the richest, with characters from both series, among them Cloud, Tifa, Aerith, Yuffie, Squall, Rinoa and a Moogle, and maps such as Alexandria, Tycoon Castle and the Crystal Tower. Launched as ' }, { emText: 'Final Fantasy in Itadaki Street Mobile' }, { text: ' (' }, { text: 'ファイナルファンタジー in いただきストリートMOBILE', lang: 'ja' }, { text: ') and renamed on 2011-02-03.' }],
+    ],
+    primary: {
+      tags: ['Mashup', 'Board game', 'Mobile'],
+      terminated: true,
+      languages: [
+        { value: 'JA', native: true },
+      ],
+      profileUrl: 'https://web.archive.org/web/20110511091729/http://www.square-enix.co.jp/mobile/sem/itast-sp/', profileHreflang: 'ja',
+      platforms: [
+        { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'NTT DoCoMo i-mode; au EZweb' },
+      ],
+    },
+  },
+  {
+    mediaType: 'Game', chronoOrder: 1750, narrativeOrder: 320,
+    title: 'Final Fantasy Minigames', titleDate: { start: '2005-03-29', end: '2016-08-30' },
+    mediaDesc: [
+      [{ text: 'Small standalone games from across the franchise, mostly for phones, including the ones also listed under ' }, { emLinkText: 'VII (2005)', emLinkUrl: '#entry-VII-final-fantasy-vii-snowboarding-2005' }, { text: ', ' }, { emLinkText: 'VII (2014)', emLinkUrl: '#entry-VII-final-fantasy-vii-g-bike-2014' }, { text: ' and ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-justice-monsters-five-2016' }, { text: '. Minigames themed on Chocobo, including ' }, { emLinkText: 'Chocobo World (1999)', emLinkUrl: '#entry-VIII-chocobo-world-1999' }, { text: ', are in ' }, { emLinkText: 'Chocobo (game series)', emLinkUrl: '#entry-Other-chocobo-game-series-1997' }, { text: '.' }],
+    ],
+    primary: {
+      contentsLabel: 'games',
+      length: '7 games',
+      terminated: true,
+      contents: [
+        { title: "Bombs' Great Counterattack", titleDate: '2008', titleUrl: 'https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html#bom', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
+        { title: "Free-Diving Moogle's Undersea Expedition", titleDate: '2008', titleUrl: 'https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html#sumoguri', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
+        { title: 'Cactuar Panic', titleDate: '2008', titleUrl: 'https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html#sabo_panic', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
+        { title: "Moogle's Shop Manager for a Day", titleDate: '2008', titleUrl: 'https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html#mogu_tencho', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
+        { title: 'Final Fantasy VII: Snowboarding', titleDate: '2005-03-29', titleUrl: '#entry-VII-final-fantasy-vii-snowboarding-2005', platforms: [{ key: 'mobile-phone', terminated: true }] },
+        { title: 'Final Fantasy VII G-Bike', titleDate: '2014-10-30', titleUrl: '#entry-VII-final-fantasy-vii-g-bike-2014', platforms: [{ key: 'android2', jpTag: true, terminated: true }, { key: 'apple', jpTag: true, terminated: true }] },
+        { title: 'Justice Monsters Five', titleDate: '2016-08-30', titleUrl: '#entry-XV-justice-monsters-five-2016', platforms: [{ key: 'android2', terminated: true }, { key: 'apple', terminated: true }] },
+      ],
     },
   },
 ]};

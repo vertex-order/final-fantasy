@@ -110,6 +110,24 @@
   - The newest items are Chocobo's Mystery Dungeon: Every Buddy! (2019) and Crystal Chronicles Remastered (2020)
   - Its Fortress item is a cancelled game (2011)
 
+## square-enix.co.jp/mobile/sem (Platform; Square Enix Mobile, Japan)
+
+- https://web.archive.org/web/20070704192702/http://www.square-enix.co.jp/mobile/sem/ -- the site's title list, one capture per year, visited and audited -- accessed 2026-10-24 (pages saved by user; the capture of 2007-10-06 named in the audit request was not read, the first capture, 2007-07-04, was)
+  - スクエニMobile: Square Enix's paid content service for phones in Japan, on i-mode (NTT DoCoMo), EZweb (au) and Yahoo!ケータイ (SoftBank); it ended all services on 2018-03-31 (https://www.jp.square-enix.com/announce/semobile/, the live notice, identical to the capture of 2018-04-02)
+  - Captures read: 2007-07-04 (13 titles), 2008-07-06 (21), 2008-09-17, 2009-01-22, 2009-07-12 (35), 2009-08-30 (the ranking Flash page), 2010-01-14 (38), 2011-01-19 and 2012-01-19 (Flash index), 2014-07-06
+  - The index page's HTML is unchanged from 2010-09-20 to 2017-11-18 (the Wayback index; the last capture before the shutdown notice is 2017-11-18); the 2015, 2016 and 2017 captures were not read
+  - The Flash index reads its tiles from `swf/xml/images.xml`, which has one 200 capture, 2012-10-21; every Flash capture shows that list (21 tiles), so the tile list is the 2012-10-21 one
+  - Scripts and data files on a saved page come from a later capture than the page: news and carrier boxes can be from 2011 or 2012
+  - Titles with Chocobo, Moogle or Final Fantasy in the name or premise, with details in their own sources files:
+    - ぱたぱたチョコボ (free Flash, 2007) and five ranking Flash games with Chocobo in the title (2008): [chocobo-game-series-1997.md](chocobo-game-series-1997.md)
+    - チョコボdeモバイル (EZweb 2006-12-14, i-mode 2007-08-01): [chocobo-game-series-1997.md](chocobo-game-series-1997.md)
+    - Four ranking Flash games with Moogle, Bomb and Cactuar (2008): [final-fantasy-minigames-2005.md](final-fantasy-minigames-2005.md)
+    - 魔界塔士サ・ガ (i-mode 2007-07-02, EZweb 2007-12-13, SoftBank 2008-03-12): [the-final-fantasy-legend-i-iii-1989.md](the-final-fantasy-legend-i-iii-1989.md)
+    - 聖剣伝説 -ファイナルファンタジー外伝- (distribution resumed 2011-05-18 and 2011-05-19): [final-fantasy-adventure-1991.md](final-fantasy-adventure-1991.md)
+    - ファイナルファンタジー in いただきストリート MOBILE (2010-07-01), renamed 2011-02-03: [dragon-quest-final-fantasy-in-itadaki-street-mobile-2010.md](dragon-quest-final-fantasy-in-itadaki-street-mobile-2010.md)
+  - Titles on the site with none of the three names, not read: ポケットロジック, ポケットラビリンス, TOBAL M, MONOTONE (the first two say "familiar Square Enix characters appear")
+  - Other titles listed on the site, not Final Fantasy: ポートピア連続殺人事件, 北海道連鎖殺人オホーツクに消ゆ, 軽井沢誘拐案内, 武蔵伝II EPISODE ZERO, 倉庫番, ルービックキューブ, ぱにぽに大富豪, ハガレン15パズル, ヘキサイト, どこでもソリティア, どこでも神経衰弱, 地獄のハイウェイ, ナインプレイス, スターオーシャン ブルースフィア, 国破れて山河あり (and 2), ロマンシング サガ (and 2), 元祖 半熟英雄, DEMON CHAIN, ロンゴロンゴ, グイン・サーガmobile, It's NEW FRONTIER, クロノ・トリガー, 聖剣伝説2, 伝説のオウガバトル, ワンダープロジェクト J2, シグマハーモニクス コーダ, いたストMOBILE, スクモバスケジューラー, アイテム
+
 ## Decisions
 
 - **Not to be listed: collector and special-edition bundles (user, 2026-10-24):** boxed sets, anniversary boxes and collector editions of games that are sold separately; not widely sold, out of print, and dearer than the games bought separately, so they do not help a reader find the games
