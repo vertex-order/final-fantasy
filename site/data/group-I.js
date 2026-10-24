@@ -242,8 +242,8 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
         {
           subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_(video_game)#Versions_and_re-releases', subtitleDate: 2007,
           languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
+            { value: 'JA', native: true, hreflang: 'ja', url: 'https://web.archive.org/web/20100528005654/http://dlgames.square-enix.com/ff/ff1/jp/index.html' },
+            { value: 'EN', url: 'https://web.archive.org/web/20100228164725/http://dlgames.square-enix.com/ff/ff1/en/index.html' },
             { value: '…?' },
           ],
           helpWanted: true,

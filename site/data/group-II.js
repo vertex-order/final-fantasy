@@ -74,8 +74,8 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
           subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_II#Remakes', subtitleDate: 2007,
           helpWanted: true,
           languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
+            { value: 'JA', native: true, hreflang: 'ja', url: 'https://web.archive.org/web/20100528005654/http://dlgames.square-enix.com/ff/ff2/jp/index.html' },
+            { value: 'EN', url: 'https://web.archive.org/web/20100228170338/http://dlgames.square-enix.com/ff/ff2/en/index.html' },
             { value: '…?' },
           ],
           platforms: [

@@ -82,6 +82,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
 
 - https://apps.apple.com/us/app/final-fantasy-ii/id354974729 -- the "Edit 2007" iOS row -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
   - FINAL FANTASY II (20th Anniversary engine), released 2010-02-25; gone (404); the capture shows version 1.1.2: https://web.archive.org/web/20210629040229/https://apps.apple.com/us/app/final-fantasy-ii/id354974729
+  - US App Store capture of 2010-02-28 lists English and Japanese as languages; description says the edition contains the Soul of Rebirth and Arcane Labyrinth bonus dungeons; "for iPhone / iPod touch": https://web.archive.org/web/20100228170338/http://itunes.apple.com/us/app/final-fantasy-ii/id354974729?mt=8
+- http://dlgames.square-enix.com/ff/ -- iPhone / iPod touch menu listing Final Fantasy and Final Fantasy II, each with a Japanese and an English site -- `languages`* (EN, JA links) -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20100528005654/http://dlgames.square-enix.com/ff/
+  - English site: https://web.archive.org/web/20100228170338/http://dlgames.square-enix.com/ff/ff2/en/index.html
+  - Japanese site (links the same US App Store page): https://web.archive.org/web/20100528005654/http://dlgames.square-enix.com/ff/ff2/jp/index.html
 
 - The iOS `portal` row links the last App Store capture of the Portal App that lists the Portal Versions (2023-08-05; the Portal App page is shared with Final Fantasy II): https://web.archive.org/web/20230805063250/https://apps.apple.com/app/final-fantasy-portal-app/id933149812 -- see final-fantasy-portal-app-triple-triad-2015.md
 

@@ -190,6 +190,10 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
 
 - https://apps.apple.com/us/app/final-fantasy/id354972939 -- the "Remaster 2007" iOS row (now struck) -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
   - FINAL FANTASY (20th Anniversary engine), released 2010-02-25 per the Final Fantasy Wiki; the app page is gone (404); the capture shows version 1.1.4: https://web.archive.org/web/20210123061113/https://apps.apple.com/us/app/final-fantasy/id354972939
+  - US App Store capture of 2010-03-03 lists English and Japanese as languages; description says the edition contains the Soul of Chaos and Labyrinth of Time bonus dungeons; "for iPhone / iPod touch": https://web.archive.org/web/20100303094844/http://itunes.apple.com/us/app/final-fantasy/id354972939?mt=8
+- http://dlgames.square-enix.com/ff/ -- iPhone / iPod touch menu listing Final Fantasy and Final Fantasy II, each with a Japanese and an English site -- `languages`* (EN, JA links) -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20100528005654/http://dlgames.square-enix.com/ff/
+  - English site: https://web.archive.org/web/20100228164725/http://dlgames.square-enix.com/ff/ff1/en/index.html
+  - Japanese site (links the same US App Store page): https://web.archive.org/web/20100528005654/http://dlgames.square-enix.com/ff/ff1/jp/index.html
 
 - The iOS `portal` row links the last App Store capture of the Portal App that lists the Portal Versions (2023-08-05; the Portal App page is shared with Final Fantasy and II): https://web.archive.org/web/20230805063250/https://apps.apple.com/app/final-fantasy-portal-app/id933149812 -- see final-fantasy-portal-app-triple-triad-2015.md
 
