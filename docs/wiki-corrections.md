@@ -329,11 +329,3 @@ value, ours, and why, so the corrections can be reported upstream.
 - Our source: [chocobo-game-series-1997.md](../sources/chocobo-game-series-1997.md)
 - Reason: candidate only: the game was built into the Mitsubishi D506i, released 2004-05-19 (ja.wikipedia.org/wiki/D506i),
   and Wikipedia's media list gives the same date; no primary record has been checked.
-
-### Final Fantasy Wiki: tabletop games missing
-
-- Page: https://finalfantasy.fandom.com/wiki/Final_Fantasy_Trading_Card_Game (the "Other spinoffs" navigation box)
-- Says: lists the Final Fantasy Trading Card Game as the only tabletop item; searches for "board game" and "card game" find no other tabletop game, and "tabletop" finds only the Final Fantasy XIV TTRPG.
-- Probably: pages for Moogle Bounty Mayhem, Materia Hunter, Chocobo's Crystal Hunt, Chocobo Party Up!, Chocobo's Dungeon: The Board Game, Gold Saucer Cactpot Party, Agents of Enquiry and the other official tabletop games.
-- Our source: [final-fantasy-tabletop-games-1999.md](../sources/final-fantasy-tabletop-games-1999.md)
-- Reason: candidate only: the Square Enix Store and BoardGameGeek list these as official Square Enix products; finalfantasywiki.com also returns no results for "board game" or "tabletop".
