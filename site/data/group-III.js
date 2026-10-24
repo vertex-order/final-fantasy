@@ -149,6 +149,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
             helpWanted: true,
             platforms: [
               { key: 'nintendo-ds', paren: 'Physical' },
+              { key: 'nintendo-3ds', paren: 'Physical; DS compatibility' },
             ],
             versionDesc: [
               'The original release of the 3D remake, introducing 3D graphics in a cutesy character style, a reworked job system, and a new cast of playable characters, as well as Mognet, a mail-based sidequest chain that is no longer functional in this version now that Nintendo Wi-Fi Connection has been discontinued.',

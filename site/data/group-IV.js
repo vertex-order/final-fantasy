@@ -212,6 +212,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
             ],
             platforms: [
               { key: 'nintendo-ds', paren: 'Physical' },
+              { key: 'nintendo-3ds', paren: 'Physical; DS compatibility' },
             ],
             versionDesc: [
               'The original 3D remake release. Uses the DS’s touch screen and dual-screen interface; enemies are noticeably tougher than in the 2D versions.',

@@ -244,6 +244,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       length: [{ value: '12½h', tip: 'Main Story', join: ' / ' }, { value: '17½h', tip: 'Main + Extra', join: ' / ' }, { value: '23½h', tip: 'Completionist' }],
       platforms: [
         { key: 'nintendo-ds' },
+        { key: 'nintendo-3ds', paren: 'DS compatibility' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Ring of Fates' },
@@ -322,6 +323,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       length: [{ value: '14h', tip: 'Main Story', join: ' / ' }, { value: '19h', tip: 'Main + Extra', join: ' / ' }, { value: '31½h', tip: 'Completionist' }],
       platforms: [
         { key: 'nintendo-ds' },
+        { key: 'nintendo-3ds', paren: 'DS compatibility' },
         { key: 'nintendo-wii' },
         { key: 'nintendo-wii-u', paren: 'Wii compatibility' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Echoes of Time', noResults: true },
