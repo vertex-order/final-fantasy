@@ -68,6 +68,44 @@
   - Developed and published by Square Enix, released in Japan in 2006; no platform or day listed
 - https://quicksave.live/game/22907 -- Chocobo's Crystal Tower platform*, date (text pasted by user) -- accessed 2026-10-23; archived: TODO
   - Legacy Mobile Device, 2010-06-22 (Wikipedia's media list gives 2010-06-29 for Japan and 2010-11-02 for the Facebook app); no Facebook listed
+- https://wikipedia.org/wiki/Chocobo's_Mysterious_Dungeon -- platforms*, dates* -- accessed 2026-10-23
+  - PlayStation, Japan 1997-12-23; WonderSwan, Japan 1999-03-04
+- https://wikipedia.org/wiki/Chocobo's_Dungeon_2 -- platforms*, dates* -- accessed 2026-10-23
+  - PlayStation, Japan 1998-12-23, North America 1999-12-17
+  - The sequel to Chocobo's Mysterious Dungeon (1997); the article opens "It is the sequel to 1997's Chocobo's Mysterious Dungeon"
+  - The Final Fantasy Wiki's series page says the same: Chocobo's Dungeon 2 is a sequel to Chocobo's Mysterious Dungeon, the series' first two-player game (https://breezewiki.com/finalfantasy/wiki/Chocobo_series)
+- https://wikipedia.org/wiki/Chocobo_Racing -- platforms*, dates* -- accessed 2026-10-23
+  - PlayStation, Japan 1999-03-18, North America 1999-08-12, Europe 1999-10-11
+- https://wikipedia.org/wiki/Final_Fantasy_Fables:_Chocobo_Tales -- platforms*, dates* -- accessed 2026-10-23
+  - Nintendo DS, Japan 2006-12-14, North America 2007-04-03, Australia 2007-05-24, Europe 2007-05-25
+- https://wikipedia.org/wiki/Final_Fantasy_Fables:_Chocobo's_Dungeon -- platforms*, dates* -- accessed 2026-10-23
+  - Wii, Japan 2007-12-13, North America 2008-07-08, Australia 2008-07-30, Europe 2008-11-07; Nintendo DS, Japan 2008-10-30; Nintendo Switch and PlayStation 4, worldwide 2019-03-20
+  - A loose sequel to Chocobo's Dungeon 2 (the article's wording)
+- https://wikipedia.org/wiki/Chocobo_GP -- Nintendo Switch platform*, date* -- accessed 2026-10-23
+  - Nintendo Switch, 2022-03-10
+  - The article calls it a sequel to 1999's Chocobo Racing
+- https://press.na.square-enix.com/Chocobo-GP-36707 -- Chocobo GP' region (found by the user; the page text was not read here) -- accessed 2026-10-23; archived: TODO
+  - Square Enix's North America press hub for Chocobo GP; its screenshots show a full English interface, so the mobile game was not a Japan-only release (the App Store capture lists only Japanese)
+- https://www.4gamer.net/games/123/G012325/20101102028/ -- Chocobo's Crystal Tower Facebook platform*, date*, link* (4Gamer news of 2010-11-02; text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - Square Enix started Chocobo's Crystal Tower (ver.β) on Facebook on 2010-11-02: a free-to-play game of raising a Chocobo and sending it up towers, with item purchases; address http://apps.facebook.com/chocobos/; promotional site http://www.chocoboscrystaltower.com/
+  - The same article's other game, Knights of the Crystals (ver.β), is a separate Facebook RPG, announced as already on mobile phones since August 2010 (official site http://www.square-enix.co.jp/facebook/koc/)
+- http://apps.facebook.com/chocobos/ -- Chocobo's Crystal Tower Facebook row -- accessed 2026-10-23
+  - Captures of 2011-10-21 and of 2013 to 2015 are the Facebook login page (title "Chocobo's Crystal Tower on Facebook | Facebook", "You need Javascript enabled…"), not the game, so the row links the plain address
+- http://www.chocoboscrystaltower.com/ -- Chocobo's Crystal Tower promotional site -- accessed 2026-10-23
+  - Captures from 2010-11-07 to 2012-03-25 are a one-page Flash container titled "Chocobo's Crystal Tower | SQUARE ENIX"; Wayback's Flash player runs it, and the last capture that works, 2012-03-25 (https://web.archive.org/web/20120325145856/http://www.chocoboscrystaltower.com/), shows a choice of English or Japanese (user)
+  - The English choice leads to https://web.archive.org/web/20120325150103/http://www.chocoboscrystaltower.com/en/: the title, a placeholder for a trailer that does not load, and a Play Now link to the Facebook game (https://web.archive.org/web/20120325150103/http://apps.facebook.com/chocobos/) (user)
+  - Captures from 2012-09-26 (and 2012-12-27) redirect to https://www.square-enix.com/jp/
+  - It says little about the game beyond its title, so the Chocobo's Crystal Tower part does not link it
+- https://www.itmedia.co.jp/mobile/0304/09/n_squareenix.html -- Choco-Mate platforms* (ITMedia Mobile, announcement dated 2003-04-09 by its address; text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - Square Enix announces ちょこメ～と, a mail-linked i-appli DX for the 505i series only; release date and price not yet set
+  - On the standby screen it shows friends' and family's messages and status as live animation, with the Chocobo as the character; the character can be changed, and Dragon Quest characters were considered
+- https://finalfantasy.fandom.com/es/wiki/Choco-mate -- Choco-Mate titleUrl* (found by the user; the page text was not read here) -- accessed 2026-10-23; archived: TODO
+  - The Spanish Final Fantasy Wiki's page; the English Final Fantasy Wiki has none; the locale stays, as it is a different wiki
+- https://play.google.com/store/apps/details?id=com.smilelab.chocoboFarm -- Chocotto Farm Android row -- accessed 2026-10-23
+  - The only status-200 capture, 2016-08-05 (https://web.archive.org/web/20160805125814/https://play.google.com/store/apps/details?id=com.smilelab.chocoboFarm): チョコボのチョコッと農園, Smile-Lab, version 1.1.1 updated 2016-03-01, 5,000 to 10,000 installs, Everyone; the description calls it the Android version of the Chocotto Farm that 600,000 people played on feature phones (ガラケー版)
+- https://games.app-liv.jp/archives/17633 -- Chocotto Farm smartphone release* (news of 2015-09-16 quoting Square Enix's release; text pasted by user) -- accessed 2026-10-23; archived: TODO
+  - Smile-Lab, a Square Enix group company, started the iOS and Android versions at the same time on 2015-09-16, the group's first smartphone social game; a farm game of raising plants, crops and animals with Chocobo; free with item purchases; a Cloud item for the launch campaign
+  - App Store address https://itunes.apple.com/jp/app/id1021879139: off the store; the only captures are of 2025-11-08 (a 301 and a 404), so no working capture of the iOS page was found
 - https://quicksave.live/game/22908 -- Chocobo no Chocotto Nouen (Chocobo's Chocotto Farm) platforms*, date (text pasted by user) -- accessed 2026-10-23; archived: TODO
   - A farming simulation with Chocobo for GREE Social in Japan; iOS and Android, both 2012-12-20 (Wikipedia's media list gives 2012-12-19)
 - https://quicksave.live/game/125583 -- Chocobo to Mahou no Ehon: Majo to Shoujo to Go-nin no Yuusha platform*, date (text pasted by user) -- accessed 2026-10-23; archived: TODO
@@ -158,9 +196,12 @@
   - d game was Docomo's portal for Android and iPhone social games (Game Watch, https://game.watch.impress.co.jp/docs/news/1470536.html, 2023-01-16); it ended 2023-09-27
   - The English title is a literal rendering of the Japanese (ちょこっと "just a little", 農園 "farm"); no official English title found; machine translation gives "Chocobo's Choco and Farm"
   - Not the next listing on the same page, ちょこっとファーム (Chokotto Farm, another publisher's farm game)
-  - Platforms: Android and iOS, Japan only; quicksave (https://quicksave.live/game/22908) lists both, and Wikipedia's media list puts the game on GREE; the capture does not say which devices each listed game ran on; d game was Docomo's portal for Android smartphones and iPhones, and the listing is on its smartphone store page (`sp/game-store`), which ended 2023-09-27 (an earlier end for the game itself is not known)
+  - Platforms: Wikipedia's media list puts the game on GREE on 2012-12-19; the Play Store description says the Android version followed a feature-phone version that 600,000 people played, and Smile-Lab started the iOS and Android versions on 2015-09-16 (games.app-liv.jp, above); quicksave (https://quicksave.live/game/22908) lists iOS and Android on 2012-12-20; the capture does not say which devices each listed game ran on; d game was Docomo's portal for Android smartphones and iPhones, and the listing is on its smartphone store page (`sp/game-store`), which ended 2023-09-27 (an earlier end for the game itself is not known)
   - Unknown: publisher page, end date, and whether it also ran outside GREE and d game
 
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.
+- Part order in Narrative and Chronological: array order (no sort keys); a sequel sits directly after the game it follows (and Chocobo GP, with the promotional Chocobo GP' after it, sits directly after Chocobo Racing): Chocobo's Dungeon 2 after Chocobo's Mysterious Dungeon, Final Fantasy Fables: Chocobo's Dungeon (a loose sequel) after Chocobo's Dungeon 2, Chocobo Tales: The Witch, the Girl, and the Five Heroes after Final Fantasy Fables: Chocobo Tales.
+- Part order, series and promos: the Chocobo Anywhere games stay together, starting at the first game (Choco-Mate after them); the promotional Chocobo GP' follows Chocobo GP, as other promo entries follow the game they promote (Final Fantasy XI ~Adventure Log~, the Kingdom Hearts promo minigames).
+- Chocobo World stays a part here and is also its own entry in group VIII (a minigame spin-off belongs with Final Fantasy VIII; the Chocobo series part is a shortcut row to it, linked by its anchor).
