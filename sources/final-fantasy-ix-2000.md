@@ -67,8 +67,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 ## Google Play and App Store (Platform; G-cluster cloud apps)
 
 - https://web.archive.org/web/20240813233441/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff9 -- the `android2` G-cluster row's page, FINAL FANTASY IX クラウド版 by ブロードメディア株式会社 G-cluster (package jp.co.sqex.game.ff9), 10K+ downloads, Android 6.0 or later, TV linkage supported, updated 2024-07-16; the page carries the service-end notice (sales stop noon 2024-08-30, service ends noon 2025-02-28) -- user, 2026-10-22; last capture, renders
-- https://web.archive.org/web/20250114091548/https://gcluster.jp/pc/app/sqex/ff9/index_ios.html -- the `apple` G-cluster row's page, G-cluster's iOS game page (last capture; the first capture, https://web.archive.org/web/20170924015451/https://gcluster.jp/pc/app/sqex/ff9/index_ios.html, lists iOS) -- user, 2026-10-22
-- https://apps.apple.com/jp/app/id1273920512 -- the App Store listing (capture 2020-01-06 shows Apple's splash; the page source holds the data): one app for iPhone, iPad, iPod touch (iOS 9.0 or later) and Apple TV; the Apple TV row's app, above -- accessed 2026-10-22
+- https://web.archive.org/web/20250114091548/https://gcluster.jp/pc/app/sqex/ff9/index_ios.html -- G-cluster's iOS game page (last capture; the first capture, https://web.archive.org/web/20170924015451/https://gcluster.jp/pc/app/sqex/ff9/index_ios.html, lists iOS) -- user, 2026-10-22
+- https://apps.apple.com/jp/app/id1273920512 -- the App Store listing (capture 2020-01-06 shows Apple's splash; the page source holds the data): one app for iPhone, iPad, iPod touch (iOS 9.0 or later) and Apple TV -- accessed 2026-10-22
 - Launch: the iOS app on 2017-09-19, per the phone app news page (https://web.archive.org/web/20250114083821/https://gcluster.jp/sp/app/sqex/news.html); the 2023-02-28 notice there says IX was also sold in KDDI's "au Game" service, which ended 2023-05-15, with buyers moved to the Google Play version
 - The service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the rows are struck; Japan only
 - https://www.amazon.co.jp/dp/B075MCK6XC -- the Amazon appstore listing (ASIN B075MCK6XC), FINAL FANTASY IX クラウド版 by ブロードメディアGC株式会社, as linked from G-cluster's game page http://gcluster.jp/pc/app/sqex/ff9/index.html; user-pasted 2026-10-23
@@ -79,11 +79,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 
 ## Apple TV (Platform; G-cluster cloud app)
 
-- https://apps.apple.com/jp/app/id1273920512 -- the Apple TV row's app, FINAL FANTASY IX クラウド版 (IX Cloud Version), by Broadmedia GC Corporation (G-cluster) -- accessed 2026-10-22; last page capture with the app: https://web.archive.org/web/20201028124806/https://apps.apple.com/jp/app/id1273920512
+- https://apps.apple.com/jp/app/id1273920512 -- the app, FINAL FANTASY IX クラウド版 (IX Cloud Version), by Broadmedia GC Corporation (G-cluster) -- accessed 2026-10-22; last page capture with the app: https://web.archive.org/web/20201028124806/https://apps.apple.com/jp/app/id1273920512
   - Languages line: 日本語 only; the page's raw HTML was read (the capture shows only an Apple "Connecting" splash in a browser)
-- https://web.archive.org/web/20191231113138/https://apps.apple.com/jp/developer/broadmedia-gc-corporation/id1144024684 -- Broadmedia's App Store developer page (user, 2026-10-22): IX is listed under Apple TV only, not under iPhone and iPad, which is why there is no `apple` row and the row uses `apple-tv`
+  - Capture of 2024-09-02, renders (user, 2026-10-25): https://web.archive.org/web/20240902075542/https://apps.apple.com/jp/app/final-fantasy-ix-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%89%88/id1273920512 ; 12 captures, 2019-09-19 to 2024-09-02
+    - Developer "Broadmedia Corporation"; version 1.7.100, updated 2023-10-10; iOS 12.0 or later; 18 ratings, 3.5; free with in-app purchases; age 12+
+    - Tabs iPhone, iPad, Apple TV; compatibility lists iPhone, iPad, iPod touch, Apple TV and Apple Vision; Languages: 日本語
+    - Description carries the service-end notice: new sales stopped noon 2024-08-30, buyers served until noon 2025-02-28
+- https://web.archive.org/web/20191231113138/https://apps.apple.com/jp/developer/broadmedia-gc-corporation/id1144024684 -- Broadmedia's App Store developer page (user, 2026-10-22): IX is listed under Apple TV only, not under iPhone and iPad
   - Older captures of the same page, raw HTML read, accessed 2026-10-23: 2017-08-27 (https://web.archive.org/web/20170827175654/https://itunes.apple.com/jp/developer/broadmedia-gc-corporation/id1144024684) lists XIII, XIII-2 and Lightning Returns as its FF apps, no IX; 2018-10-11 (https://web.archive.org/web/20181011083645/https://itunes.apple.com/jp/developer/broadmedia-gc-corporation/id1144024684?mt=8) lists IX Cloud Version (id1273920512)
-- http://gcluster.jp/pc/app/sqex/ff9/index.html -- the row's link, G-cluster's game page (captured 2025-01-14; the original is http) -- accessed 2026-10-22; archived: https://web.archive.org/web/20250114090014/http://gcluster.jp/pc/app/sqex/ff9/index.html
+- http://gcluster.jp/pc/app/sqex/ff9/index.html -- G-cluster's game page (captured 2025-01-14; the original is http) -- accessed 2026-10-22; archived: https://web.archive.org/web/20250114090014/http://gcluster.jp/pc/app/sqex/ff9/index.html
   - Cloud-streaming app, Japan only (`G-cluster cloud`); the whole G-cluster service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the row is struck
   - The live App Store lookup for the id returns no result for Japan (checked 2026-10-22)
   - Also captured 2020-01-06 and 2019-11-18 (same Languages line)
