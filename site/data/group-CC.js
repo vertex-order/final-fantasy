@@ -209,6 +209,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
         { value: '…?' },
       ],
       helpWanted: true,
+      profileUrl: 'https://www.jp.square-enix.com/game/detail/ffcc_tcb/',
       ratings: [
         { score: '66', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-the-crystal-bear/', key: 'metacritic' },
         { score: '6.0', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-the-crystal-bear/', key: 'metacritic-user' },
@@ -316,6 +317,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
         { value: '…?' },
       ],
       helpWanted: true,
+      profileUrl: 'https://www.jp.square-enix.com/game/detail/ffcc_eot/',
       ratings: [
         { score: '75', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-echoes-of-time/', key: 'metacritic' },
         { score: '7.2', url: 'https://www.metacritic.com/game/final-fantasy-crystal-chronicles-echoes-of-time/', key: 'metacritic-user' },

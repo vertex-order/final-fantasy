@@ -211,13 +211,21 @@ value, ours, and why, so the corrections can be reported upstream.
 - Our source: [final-fantasy-artniks-2012.md](../sources/final-fantasy-artniks-2012.md), [final-fantasy-artniks-dive-2014.md](../sources/final-fantasy-artniks-dive-2014.md)
 - Reason: the name looks misspelled, and the claim that the sequel was cancelled conflicts with the captures of its GREE and official pages; the page's other facts agree with ours.
 
+### ja.wikipedia: ファイナルファンタジーIV THE AFTER 月の帰還 (i-mode release date, infobox against text)
+
+- Page: https://ja.wikipedia.org/wiki/ファイナルファンタジーIV_THE_AFTER_月の帰還
+- Says: the infobox gives the i-mode release as 2008-02-20; the text says distribution began on 2008-02-18.
+- Probably: 2008-02-18 (the English Wikipedia infobox gives FOMA 2008-02-18, and the page's own text agrees).
+- Our source: [final-fantasy-iv-the-after-years-2008.md](../sources/final-fantasy-iv-the-after-years-2008.md)
+- Reason: the page disagrees with itself; no carrier or publisher record read.
+
 ### ja.wikipedia: クリスタル ガーディアンズ (Crystal Defenders Android release date)
 
 - Page: https://ja.wikipedia.org/wiki/クリスタル_ガーディアンズ
 - Says: the Android version was released on 2011-12-01.
-- Probably: 2011-01-26 (Square Enix's official Japanese game page for Crystal Defenders gives Android 2011.01.26, and the Final Fantasy Wiki says 2011-01-25).
+- Probably: unsettled. 2011-12-01 is the date Square Enix Market (Japan only) gives for its Android version; Square Enix's official Japanese game page gives Android 2011.01.26 and the Final Fantasy Wiki 2011-01-25 (the Google Play release).
 - Our source: [crystal-defenders-2008.md](../sources/crystal-defenders-2008.md)
-- Reason: the publisher's page and another wiki agree on January 2011, so the December month looks like a slip.
+- Reason: two Android stores with different dates; the wiki may name the Market date without saying so. Not reportable until the wiki's store is known.
 
 ### ja.wikipedia: Final Fantasy (Crystal Inheritance Legend publication date)
 

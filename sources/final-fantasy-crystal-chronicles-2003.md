@@ -74,4 +74,17 @@
   - Captures exist from 2020-08-29 to 2024-12-22; the Final Fantasy Wiki's iOS page lists the game as retired due to bugs
   - The row used to link the news post https://na.finalfantasy.com/news/2719 (the remaster's announcement), which is no longer the row's link
 
+## www.jp.square-enix.com (Square Enix, Japan; Remastered Edition site)
+
+- https://www.jp.square-enix.com/ffcc/ -- the official Japanese site of the Remastered Edition; platforms*, dates* -- accessed 2026-10-25 (captures read by user, one sampled per year, so a capture date only bounds when a change happened; the live site read by user)
+  - https://web.archive.org/web/20190721164830/https://www.jp.square-enix.com/ffcc/ -- capture of 2019-07-21 (reached from the old crystalbearers.jp address): ファイナルファンタジー・クリスタルクロニクル リマスター, platforms PS4, Switch, iPhone, Android, none linked
+  - https://web.archive.org/web/20200730172000/https://www.jp.square-enix.com/ffcc/ -- capture of 2020-07-30: FINAL FANTASY CRYSTAL CHRONICLES Remastered Edition, release 2020-08-27 (smartphone date subject to change), Nintendo Switch / PlayStation 4 / iOS / Android, up to 4 players in multiplayer, CERO A, action RPG
+  - https://web.archive.org/web/20210803062707/https://www.jp.square-enix.com/ffcc/ -- capture of 2021-08-03, "now on sale", store links:
+    - Switch: https://web.archive.org/web/20210803062707/https://ec.nintendo.com/JP/ja/titles/70010000021323
+    - PS4: https://web.archive.org/web/20210803062707/https://store.playstation.com/ja-jp/product/JP0082-CUSA16764_00-FFCCRE2003TO2020
+    - App Store: https://web.archive.org/web/20210803062707/https://apps.apple.com/jp/app/id1466742490 (the Japan storefront id; the US page is id1478870957)
+    - Google Play: https://web.archive.org/web/20210803062707/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFCCREjp (the Japan package; the world package is FFCCREww)
+  - https://web.archive.org/web/20250903010053/https://www.jp.square-enix.com/ffcc/ -- capture of 2025-09-03: the App Store not listed as a platform; it was dropped some time after the 2021-08-03 capture (the captures between were not checked)
+  - Live site: still lists Switch, PS4 and Google Play
+
 ## Decisions

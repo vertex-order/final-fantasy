@@ -339,6 +339,11 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
       versions: [
         {
           subtitle: 'Edit', subtitleDate: 2009,
+          languages: [
+            { value: 'JA', native: true },
+            { value: 'EN' },
+            { value: 'FR' },
+          ],
           platforms: [
             { key: 'nintendo-wii', terminated: true, paren: 'WiiWare' },
             { key: 'nintendo-wii-u', terminated: true, paren: 'WiiWare; Wii compatibility' },

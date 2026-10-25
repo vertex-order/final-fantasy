@@ -170,6 +170,7 @@
   - Lists FINAL FANTASY IV: The After Years (2009.07.21), FINAL FANTASY CRYSTAL CHRONICLES: My Life as a Darkloard (2009.07.20) and My Life as a King (2008.05.12), CRYSTAL DEFENDERS R1 (2009.01.27) and R2 (2009.02.24)
   - The Final Fantasy titles have no dlgames detail page: their links go to na.square-enix.com/ff4ay, /mylifeasaking and /crystaldefenders and www.mylifeasadarklord.com, which the 2026-05-10 capture shows as the Square Enix home page (the first three) and an unrelated SEO company page (the Darklord site)
   - The R1 and R2 dates are the Japanese WiiWare dates (the North American ones are 2009-04-20 and 2009-05-18)
+  - Capture of 2010-02-23 (https://web.archive.org/web/20100223043745/http://dlgames.square-enix.com/na/wiiware/, read by user): My Life as a King, genre Simulation, release 2008.05.12, linked to the promo site capture https://web.archive.org/web/20100223043745/http://na.square-enix.com/mylifeasaking/ (the promo sites are in the games' sources files)
 
 ## dlgames.square-enix.com (Platform; iPod / iPhone, North America)
 
