@@ -47,8 +47,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
 ## Google Play and App Store (Platform; G-cluster cloud apps)
 
 - https://web.archive.org/web/20240813233433/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff10 -- the `android2` G-cluster row's page, FINAL FANTASY X/X-2 HDリマスター by ブロードメディア株式会社 G-cluster (package jp.co.sqex.game.ff10), 10K+ downloads, Android 6.0 or later, TV linkage supported, updated 2024-07-16, with the service-end notice; a five-title set (X, X-2, X-2 Last Mission, Eternal Calm, credits and bonus) -- user, 2026-10-22; last capture, renders
-- https://web.archive.org/web/20250114091555/https://gcluster.jp/pc/app/sqex/ff10/index_ios.html -- the `apple` G-cluster row's page, G-cluster's iOS game page (last capture) -- accessed 2026-10-22
+- https://web.archive.org/web/20250114091555/https://gcluster.jp/pc/app/sqex/ff10/index_ios.html -- G-cluster's iOS game page (last capture) -- accessed 2026-10-22
 - https://apps.apple.com/jp/app/id1297115524 -- the App Store listing (capture 2020-01-08 shows Apple's splash; the page source holds the data): one app for iPhone, iPad, iPod touch (iOS 9.0 or later) and Apple TV; the Apple TV row's app, above
+  - Capture https://web.archive.org/web/20240902075547/https://apps.apple.com/jp/app/final-fantasy-x-x-2-hd%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id1297115524 (2024-09-02; linked from the Japan App Store page of FF IV 3D Remake, same date) -- user, 2026-10-25
+    - Japan page, Broadmedia Corporation, 12+, 2.4 from 537 ratings, free with in-app purchase (X/X-2 HD Remaster use right ¥3,400)
+    - Languages: Japanese only
+    - Notice: new sales stopped 2024-08-30 noon; service for buyers until 2025-02-28 noon
+    - Version 1.7.000 (2023-10-10); iPhone, iPad, Apple TV; tvOS 13.0 or later; iOS 12.0 or later
+    - Contents: X, X-2, Eternal Calm, X-2 Last Mission, credits and bonus
 - Launch: the app on 2017-11-16, per the phone app news page (https://web.archive.org/web/20250114083821/https://gcluster.jp/sp/app/sqex/news.html); the 2023-02-28 notice there says it was also sold in KDDI's "au Game" service, which ended 2023-05-15, with buyers moved to the Google Play version
 - The service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the rows are struck; Japan only
 
@@ -62,7 +68,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
   - Languages line: 日本語 only; the page's raw HTML was read (the capture shows only an Apple "Connecting" splash in a browser)
 - https://web.archive.org/web/20191231113138/https://apps.apple.com/jp/developer/broadmedia-gc-corporation/id1144024684 -- Broadmedia's App Store developer page (user, 2026-10-22): X/X-2 HD is listed under Apple TV only, not under iPhone and iPad, which is why there is no `apple` row and the row uses `apple-tv`
   - Older captures of the same page, raw HTML read, accessed 2026-10-23: 2017-08-27 (https://web.archive.org/web/20170827175654/https://itunes.apple.com/jp/developer/broadmedia-gc-corporation/id1144024684) lists XIII, XIII-2 and Lightning Returns as its FF apps, no X or X-2; 2018-10-11 (https://web.archive.org/web/20181011083645/https://itunes.apple.com/jp/developer/broadmedia-gc-corporation/id1144024684?mt=8) lists X/X-2 HD Remaster (id1297115524)
-- http://gcluster.jp/pc/app/sqex/ff10/index.html -- the row's link, G-cluster's game page (captured 2025-01-14; the original is http) -- accessed 2026-10-22; archived: https://web.archive.org/web/20250114090015/http://gcluster.jp/pc/app/sqex/ff10/index.html
+- http://gcluster.jp/pc/app/sqex/ff10/index.html -- G-cluster's game page (captured 2025-01-14; the original is http) -- accessed 2026-10-22; archived: https://web.archive.org/web/20250114090015/http://gcluster.jp/pc/app/sqex/ff10/index.html
   - Cloud-streaming app, Japan only (`G-cluster cloud`); the whole G-cluster service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the row is struck
   - The live App Store lookup for the id returns no result for Japan (checked 2026-10-22)
   - Same app for X and X-2 (title FINAL FANTASY X/X-2 HD リマスター, one row on each entry's primary); also captured 2020-10-17 (same Languages line)
