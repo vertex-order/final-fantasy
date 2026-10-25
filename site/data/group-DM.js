@@ -23,7 +23,7 @@ window.__ffGroupReg['DM'] = { num: 'DM', chronoOrder: 1450, narrativeOrder: 1450
       ],
       length: [{ value: '48h', tip: 'Main Story', join: ' / ' }, { value: '58h', tip: 'Main + Extra', join: ' / ' }, { value: '75½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'mobile-phone', terminated: true },
+        { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'NTT DoCoMo i-mode; au EZweb' },
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-dimensions/id540992837' },
         { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp' },
         { key: 'fan-movie', search: 'youtube' },
