@@ -106,4 +106,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 - https://web.archive.org/web/20200125071135/http://dlgames.square-enix.com/ff/ff3/en/ -- last working capture of the NA site (and of its index.html form); still lists Ouya -- platforms -- accessed 2026-10-24
 - https://web.archive.org/web/20201030111419/http://dlgames.square-enix.com/ff/ -- menu capture of 2020-10-30; Final Fantasy III links the JA site only -- platforms -- accessed 2026-10-24
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://www.square-enix.co.jp/smart/market/game008.html -- the 3D remake sold on Square Enix Market, Japan only, confirmed by the user (2026-10-25) in the capture of 2013-02-02; also listed in the capture of 2013-02-16 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20130202020730/http://www.square-enix.co.jp/smart/market/game008.html, https://web.archive.org/web/20130216030731/http://www.square-enix.co.jp/smart/market/game008.html
+- http://an.sqexm.net/sp/site/Page/sqmk/FF3/top -- Final Fantasy III (3D Remake) on Square Enix Market, Japan only, labelled as the 3D remake on the title list of 2023-02-04 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20230204080504/http://an.sqexm.net/sp/site/Page/sqmk/FF3/top (page not read; URL given by user)
+  - The store is described in final-fantasy-franchise.md
+
 ## Decisions

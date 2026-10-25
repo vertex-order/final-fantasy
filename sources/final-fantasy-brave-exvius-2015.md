@@ -57,6 +57,12 @@ finalfantasyexvius.com (Publisher, official)
   - archived: https://web.archive.org/web/20240207072104/https://www.amazon.com/gp/product/B01KUHETFY (the full listing; a later capture, 2025-02-16, is only a small page, so not used)
   - languages (user, 2026-10-17: confirmed from this capture): Chinese, English, a subset of the App Store's list
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://an.sqexm.net/sp/site/Page/sqmk/ffbe/top -- Final Fantasy Brave Exvius on Square Enix Market, Japan only, listed in the capture of 2016-03-02 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20160302005440/http://an.sqexm.net/sp/site/Page/sqmk/ffbe/top (page not read; URL given by user)
+  - https://wikipedia.org/wiki/Final_Fantasy_Brave_Exvius -- shut down outside Japan on 2024-10-30 and in Japan on 2025-10-31 -- accessed 2026-10-25; a Market listing of the app on the live title list does not mean it works
+  - The store is described in final-fantasy-franchise.md
+
 ## Decisions
 - Brave Exvius Memorial Version not listed (user, 2026-10-20): the Japanese offline app released after the service ended is an archive and viewer (story, encyclopedias, galleries), not content, so the entry gets no Japanese or Memorial rows; same decision as the Libra Eorzea app (see final-fantasy-franchise.md Decisions)
 - Terminated platform rows link Wayback captures of their store pages

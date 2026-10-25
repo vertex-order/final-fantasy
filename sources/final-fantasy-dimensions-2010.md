@@ -50,4 +50,9 @@
   - Opening: developed by Matrix Software, published by Square Enix for mobile devices; released episodically like The After Years.
   - First two installments September 2010 on the Japanese i-mode service (NTT DoCoMo), December 2010 on the EZweb service (au); the iOS and Android remake released internationally in August 2012.
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://www.square-enix.co.jp/smart/market/game012.html -- Final Fantasy Legends (Dimensions) on Square Enix Market, Japan only, listed in the capture of 2013-02-16 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20130216030731/http://www.square-enix.co.jp/smart/market/game012.html (page not read; URL given by user)
+  - The store is described in final-fantasy-franchise.md
+
 ## Decisions

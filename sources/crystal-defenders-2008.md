@@ -149,6 +149,11 @@
 - http://dlgames.square-enix.com/na/xboxlivearcade/2009/crystaldefenders/index.html -- the Xbox Live Arcade detail page: the Xbox 360 row* -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260510210536/http://dlgames.square-enix.com/na/xboxlivearcade/2009/crystaldefenders/index.html
   - CRYSTAL DEFENDERS; Platform: Xbox LIVE Arcade; Price 800 MSP; ESRB E; 1 player; release date 2009/03/11; the download holds W1, W2 and W3; the official site http://www.crystaldefenders.jp/ is linked
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://www.square-enix.co.jp/smart/market/game004.html -- the Android version sold on Square Enix Market, Japan only: release 2011-12-01; holds W1 and W2 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120204205708/http://www.square-enix.co.jp/smart/market/game004.html
+  - The store is described in final-fantasy-franchise.md
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it

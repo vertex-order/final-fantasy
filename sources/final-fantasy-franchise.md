@@ -182,7 +182,29 @@
   - http://dlgames.square-enix.com/ff/ -- Final Fantasy "for smartphone" menu, capture of 2013-10-30: https://web.archive.org/web/20131030033953/http://dlgames.square-enix.com/ff/ -- lists Final Fantasy IV: The After Years, V and IV; V and The After Years each have an EN and a JA site -- accessed 2026-10-24
     - https://web.archive.org/web/20210627002414/http://dlgames.square-enix.com/ff/ -- last working capture of the menu (2021-06-27); same list as the earlier captures; later captures redirect to the Japanese Pixel Remaster site -- accessed 2026-10-24
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://www.square-enix.co.jp/smart/market/ -- SQUARE ENIX MARKET, Square Enix's portal for Android phones in Japan, first working capture 2012-02-04: https://web.archive.org/web/20120204205708/http://www.square-enix.co.jp/smart/market/ -- visited and audited -- accessed 2026-10-25 (raw HTML read by me; a capture of 2016-03-13, https://web.archive.org/web/20160313074848/http://www.square-enix.co.jp/smart/market/, also loads and was not read)
+  - Reached through the NTT docomo d menu and the au one menu; the service's address is http://sqmk.jp; au phones from 2011-12-01, docomo phones from 2012-01-23 (the page's news list)
+  - Seven titles: Final Fantasy, Final Fantasy II, Crystal Defenders, Chrono Trigger, Dragon Quest Monsters WANTED!, Chaos Rings and Itadaki Street for SMARTPHONE
+  - Final Fantasy: release 2011-12-01; detail page game003.html
+  - Final Fantasy II: release 2012-02-01, with the two EX dungeons of earlier ports (Soul of Rebirth, Arcane Labyrinth); detail page game007.html
+  - Crystal Defenders: release 2011-12-01, the Android version holds W1 and W2; detail page game004.html
+  - Itadaki Street for SMARTPHONE: not examined for Final Fantasy content
+  - Capture of 2013-02-16 (https://web.archive.org/web/20130216030731/http://www.square-enix.co.jp/smart/market/, given by user, not read) adds Final Fantasy Tactics: The Lion War (game016.html), Final Fantasy Legends (Dimensions) (game012.html) and Final Fantasy III (game008.html)
+  - Capture of 2014-02-17 (https://web.archive.org/web/20140217005214/http://www.square-enix.co.jp/smart/market/, given by user, not read) adds Final Fantasy VI, Final Fantasy IV: The After Years (3D), Pictlogica Final Fantasy, Final Fantasy V, Final Fantasy IV and Final Fantasy All the Bravest; the title pages are on an.sqexm.net (/sp/site/Page/sqmk/ff6/top, ff4ay, pictlogica, ff5, ff4, ffatb)
+  - Capture of 2016-03-02 (https://web.archive.org/web/20160302005440/http://www.square-enix.co.jp/smart/market/, given by user, not read) adds Final Fantasy Brave Exvius (an.sqexm.net/sp/site/Page/sqmk/ffbe/top)
+  - Capture of 2017-06-06 (https://web.archive.org/web/20170606071609/http://www.square-enix.co.jp/smart/market/, given by user, not read) adds Final Fantasy IX (an.sqexm.net/sp/site/Page/sqmk/ff9/top)
+  - Title list of 2023-02-04 (https://web.archive.org/web/20230204080504/http://an.sqexm.net/sp/site/Page/comm/sys/titlelist, given by user, not read) labels Final Fantasy III and Final Fantasy IV as 3D remakes (an.sqexm.net/sp/site/Page/sqmk/FF3/top, /ff4/top)
+  - Last capture checked: the title list of 2026-07-12 (https://web.archive.org/web/20260712081254/http://an.sqexm.net/sp/site/Page/comm/sys/titlelist, given by user, not read)
+  - Live title list, checked by the user 2026-10-25: https://an.sqexm.net/sp/site/Page/comm/sys/titlelist (not read by me); the Final Fantasy titles it lists as currently sold: Final Fantasy Brave Exvius, Final Fantasy IX, Final Fantasy IV (3D Remake), Final Fantasy IV: The After Years (3D), Final Fantasy III (3D Remake), Final Fantasy Legends (Dimensions) and Final Fantasy Tactics: The Lion War
+  - Audit cadence: yearly captures are a first-pass spot check; titles can come and go between captures
+  - A title's first capture only shows it was listed by then, not when it was added or removed; the exact date is the 発売日 field on a detail page, where one was read
+  - Detail pages read from the capture of 2012-02-04 (https://web.archive.org/web/20120204205708/http://www.square-enix.co.jp/smart/market/game003.html, game007.html, game004.html)
+
 ## Decisions
+
+- **Square Enix Market is not a listed platform (user, 2026-10-25):** a Japan-only Android store; it is audited for Final Fantasy and Chocobo titles the list lacks, and is reconsidered if it is the only way to obtain a title
 
 - **Not to be listed: collector and special-edition bundles (user, 2026-10-24):** boxed sets, anniversary boxes and collector editions of games that are sold separately; not widely sold, out of print, and dearer than the games bought separately, so they do not help a reader find the games
   - A standard omnibus that sold widely and whose name does not say what is in it is listed as an edition (Final Fantasy I & II: Dawn of Souls)

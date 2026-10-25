@@ -112,4 +112,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
 - https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/ -- languages* -- accessed 2026-10-25
   - Interface and subtitles: English, French, Italian, German, Spanish - Spain, Portuguese - Portugal, Russian; no voice
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://an.sqexm.net/sp/site/Page/sqmk/ff6/top -- Final Fantasy VI on Square Enix Market, Japan only, listed in the capture of 2014-02-17 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20140217005214/http://an.sqexm.net/sp/site/Page/sqmk/ff6/top (page not read; URL given by user)
+  - The store is described in final-fantasy-franchise.md
+
 ## Decisions

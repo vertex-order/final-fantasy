@@ -26,4 +26,9 @@
 - https://apps.apple.com/us/app/final-fantasy-all-the-bravest/id581058256 -- the iOS row -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
   - gone (404); the capture shows version 1.1.2: https://web.archive.org/web/20230722174326/https://apps.apple.com/us/app/final-fantasy-all-the-bravest/id581058256
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://an.sqexm.net/sp/site/Page/sqmk/ffatb/top?index_s -- Final Fantasy All the Bravest on Square Enix Market, Japan only, listed in the capture of 2014-02-17 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20140217005214/http://an.sqexm.net/sp/site/Page/sqmk/ffatb/top?index_s (page not read; URL given by user)
+  - The store is described in final-fantasy-franchise.md
+
 ## Decisions

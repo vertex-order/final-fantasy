@@ -108,4 +108,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
   - https://web.archive.org/web/20131030033953/http://dlgames.square-enix.com/ff/ff5/en/ -- EN site
   - https://web.archive.org/web/20131030033953/http://dlgames.square-enix.com/ff/ff5/jp/ -- JA site
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://an.sqexm.net/sp/site/Page/sqmk/ff5/top?index_s -- Final Fantasy V on Square Enix Market, Japan only, listed in the capture of 2014-02-17 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20140217005214/http://an.sqexm.net/sp/site/Page/sqmk/ff5/top?index_s (page not read; URL given by user)
+  - The store is described in final-fantasy-franchise.md
+
 ## Decisions

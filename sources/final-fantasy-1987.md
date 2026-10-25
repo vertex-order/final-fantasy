@@ -202,6 +202,11 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
 - http://dlgames.square-enix.com/na/vc/2009/ff1/ -- the Virtual Console detail page: the Wii row* and its Wii U compatibility row* -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260510205916/http://dlgames.square-enix.com/na/vc/2009/ff1/
   - FINAL FANTASY (Final Fantasy, (C) 1987); Platform: Wii; Price 500 Wii Points; ESRB E Mild Fantasy Violence; 1 player; release date 2009.10.05
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://www.square-enix.co.jp/smart/market/game003.html -- the Android version sold on Square Enix Market, Japan only: release 2011-12-01 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120204205708/http://www.square-enix.co.jp/smart/market/game003.html
+  - The store is described in final-fantasy-franchise.md
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

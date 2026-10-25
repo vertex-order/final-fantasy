@@ -123,4 +123,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 - https://web.archive.org/web/20131030033953/http://dlgames.square-enix.com/ff/ -- "for smartphone" menu lists Final Fantasy IV -- platforms -- accessed 2026-10-24
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://an.sqexm.net/sp/site/Page/sqmk/ff4/top?index_s -- the 3D remake on Square Enix Market, Japan only, confirmed by the user (2026-10-25) in the capture of 2013-09-26; also listed in the capture of 2014-02-17 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20130926052625/http://an.sqexm.net/sp/site/Page/sqmk/ff4/top?index_s, https://web.archive.org/web/20140217005214/http://an.sqexm.net/sp/site/Page/sqmk/ff4/top?index_s
+- http://an.sqexm.net/sp/site/Page/sqmk/ff4/top -- Final Fantasy IV (3D Remake) on Square Enix Market, Japan only, labelled as the 3D remake on the title list of 2023-02-04 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20230204080504/http://an.sqexm.net/sp/site/Page/sqmk/ff4/top (page not read; URL given by user)
+  - The store is described in final-fantasy-franchise.md
+
 ## Decisions

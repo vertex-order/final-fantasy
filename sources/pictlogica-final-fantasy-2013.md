@@ -49,4 +49,9 @@
 
 - The official site is the entry's `profileUrl` (user, 2026-10-20), the capture that links the store pages while the game was live: https://web.archive.org/web/20170310061304/http://www.jp.square-enix.com/p_ff/
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://an.sqexm.net/sp/site/Page/sqmk/pictlogica/top?index_s -- Pictlogica Final Fantasy on Square Enix Market, Japan only, listed in the capture of 2014-02-17 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20140217005214/http://an.sqexm.net/sp/site/Page/sqmk/pictlogica/top?index_s (page not read; URL given by user)
+  - The store is described in final-fantasy-franchise.md
+
 ## Decisions

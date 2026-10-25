@@ -127,4 +127,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 - http://dlgames.square-enix.com/na/psga/2010/ff9/ -- the PSOne Classics detail page: the PS3, PSP and Vita rows* (PSone Classics, digital; the Vita plays the PSP version) -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2010/ff9/
   - FINAL FANTASY IX; Platform: PlayStation3 / PlayStation Portable; Price 9.99 USD; ESRB T; 1 player; release date 2010.06.15
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://an.sqexm.net/sp/site/Page/sqmk/ff9/top -- Final Fantasy IX on Square Enix Market, Japan only, listed in the capture of 2017-06-06 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20170606071609/http://an.sqexm.net/sp/site/Page/sqmk/ff9/top (page not read; URL given by user)
+  - The store is described in final-fantasy-franchise.md
+
 ## Decisions

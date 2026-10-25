@@ -94,6 +94,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
 - http://dlgames.square-enix.com/na/vc/2010/ff2/ -- the Virtual Console detail page: the Wii row*, its Wii U compatibility row* and the official `EN` language* -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260510205916/http://dlgames.square-enix.com/na/vc/2010/ff2/
   - FINAL FANTASY II ((C) 1988); an English-language North American release; Platform: Wii; Price 800 Wii Points; ESRB E Mild Fantasy Violence/Mild Suggestive Themes; 1 player; release date 2010.03.08
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://www.square-enix.co.jp/smart/market/game007.html -- the Android version sold on Square Enix Market, Japan only: release 2012-02-01, with the two EX dungeons of earlier ports -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120204205708/http://www.square-enix.co.jp/smart/market/game007.html
+  - The store is described in final-fantasy-franchise.md
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

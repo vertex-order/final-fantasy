@@ -60,4 +60,9 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Checked 2026-10-14: the entry's platform list already has WiiWare on both the Wii and the Wii U (the Wii U runs WiiWare titles in its Wii mode), marked `terminated`, matching the Square Enix page's Wii (WiiWare) row. The Japanese release date 2009.07.21 is consistent with the version's 2009 -- mine
 - Novelization: sources/final-fantasy-iv-the-after-novel-2009.md
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://an.sqexm.net/sp/site/Page/sqmk/ff4ay/top -- Final Fantasy IV: The After Years (3D) on Square Enix Market, Japan only, listed in the capture of 2014-02-17 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20140217005214/http://an.sqexm.net/sp/site/Page/sqmk/ff4ay/top (page not read; URL given by user)
+  - The store is described in final-fantasy-franchise.md
+
 ## Decisions

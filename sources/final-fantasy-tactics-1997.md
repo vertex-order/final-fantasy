@@ -190,6 +190,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 - http://dlgames.square-enix.com/na/psga/2009/fftactics/ -- the PSOne Classics detail page: the PS3, PSP and Vita rows* (PSone Classics, digital; the Vita plays the PSP version) -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2009/fftactics/
   - FINAL FANTASY TACTICS (the page title reads "FAINAL"); Platform: PlayStation3 / PlayStation Portable; Price 9.99 USD; ESRB T; 1 player; release date 2009.09.17
 
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
+
+- http://www.square-enix.co.jp/smart/market/game016.html -- Final Fantasy Tactics: The Lion War on Square Enix Market, Japan only, listed in the capture of 2013-02-16 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20130216030731/http://www.square-enix.co.jp/smart/market/game016.html (page not read; URL given by user)
+  - The store is described in final-fantasy-franchise.md
+
 ## Decisions
 
 
