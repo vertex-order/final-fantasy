@@ -46,9 +46,6 @@ window.__ffGroupReg['DM'] = { num: 'DM', chronoOrder: 1450, narrativeOrder: 1450
         { value: 'EN' },
       ],
       profileUrl: 'https://www.jp.square-enix.com/FFL2/en/',
-      ratings: [
-        { key: 'nyr' },
-      ],
       length: [{ value: '36h', tip: 'Main Story', join: ' / ' }, { value: '51½h', tip: 'Main + Extra', join: ' / ' }, { value: '79½h', tip: 'Completionist' }],
       platforms: [
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-dimensions-ii/id1239279234' },
