@@ -308,9 +308,9 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
             { value: '…?' },
           ],
           helpWanted: true,
-          profileUrl: 'http://dlgames.square-enix.com/fft/en/',
+          profileUrl: 'https://web.archive.org/web/20260228155204/http://dlgames.square-enix.com/fft/en/',
           platforms: [
-            { key: 'playstation-portable', url: 'http://dlgames.square-enix.com/fft/en/' },
+            { key: 'playstation-portable' },
             { key: 'playstation-vita', paren: 'Digital; PSP compatibility', terminated: true },
             { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2' },
             { key: 'apple', url: 'https://apps.apple.com/us/app/final-fantasy-tactics-wotl/id446760220' },

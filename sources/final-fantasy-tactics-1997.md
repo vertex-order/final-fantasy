@@ -26,11 +26,15 @@
   - (page seen by user)
   - the US store page of FINAL FANTASY TACTICS : WotL
   - language listed as English only, compatibility iOS only
+  - archived: https://web.archive.org/web/20190917195451/https://apps.apple.com/us/app/final-fantasy-tactics-wotl/id446760220 (first capture, 2019-09-17; English only)
+  - archived: https://web.archive.org/web/20250720163208/https://apps.apple.com/us/app/final-fantasy-tactics-wotl/id446760220 (2025-07-20; page text pasted by user; 367 captures, 2019-09-17 to 2026-10-06)
+    - Languages: English; seller SQUARE ENIX Co., Ltd.; iPhone and iPod touch, iOS 13.0 or later; age 9+; copyright 1997, 2007, 2011
+    - description: "has arrived for iPhone/iPod touch", "in 2011"; Game Center, Family Sharing; no multiplayer mentioned
   - also the old link https://itunes.apple.com/us/app/final-fantasy-tactics-war/id446760220?mt=8&at=11lc5S, named by the official site
 - https://apps.apple.com/us/app/final-fantasy-tactics/id500098096 -- iPad, English -- accessed 2026-10-17
   - (page seen by user)
   - a separate store entry for the iPad, titled Final Fantasy Tactics
-  - language English only, compatibility iPadOS only
+  - language English only, compatibility iPadOS only (checked 2026-10-25)
   - also the old link https://itunes.apple.com/us/app/final-fantasy-tactics-war/id500098096?mt=8&at=11lc5S, named by the official site
 - https://apps.apple.com/jp/app/final-fantasy-tactics-%E7%8D%85%E5%AD%90%E6%88%A6%E4%BA%89/id446761242 -- iPhone, Japanese -- accessed 2026-10-17
   - (page seen by user)
@@ -82,11 +86,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 ## Square Enix (Publisher, Developer)
 
 - https://final-fantasy-tactics-the-ivalice-chronicles.square-enix-games.com/
-- http://dlgames.square-enix.com/fft/en/ -- War of the Lions version's profile*, platforms*, features -- accessed 2026-10-17
+- http://dlgames.square-enix.com/fft/en/ -- War of the Lions version's profile*, platforms*, features -- accessed 2026-10-17 -- archived: https://web.archive.org/web/20260228155204/http://dlgames.square-enix.com/fft/en/
   - (page text and a screenshot pasted by user; the site also has a Japanese version, http://dlgames.square-enix.com/fft/jp/)
+  - the live page no longer returns data from Square Enix; the 2026-02-28 capture is what the entry links
   - the official site of the smartphone versions of The War of the Lions, with links to the iPhone, iPad and Android stores
   - its "Features for Smartphone" box: optimized graphics for smartphone screens, improved loading times (some cut scenes can be skipped) and intuitive touch-screen controls (tap units and menus; rotate, move and resize the map by sliding and pinching)
   - the entry's WotL version profile link
+- http://www.final-fantasy-tactics.com/ -- PSP-era official site, War of the Lions -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20130726130303/http://www.final-fantasy-tactics.com/
+  - (capture seen by user)
+  - lore and game promo only; no store or other links
 - http://dlgames.square-enix.com/fft/jp/ -- Japanese edition's site -- accessed 2026-10-17
   - (seen by user)
   - links to the Japanese store pages and to the Square Enix M@rket (http://www.square-enix.co.jp/smart/market/), Square Enix's Android store for Japan
