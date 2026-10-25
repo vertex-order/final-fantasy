@@ -79,4 +79,37 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
 - https://apps.apple.com/us/app/final-fantasy-vi/id719401490 -- the "Remaster 2014" iOS row -- accessed 2026-10-20 (the id comes from Wayback captures of the Square Enix developer page; see final-fantasy-franchise.md)
   - FINAL FANTASY VI (Advance engine); gone (404); the capture shows version 2.0.6: https://web.archive.org/web/20210321160547/https://apps.apple.com/us/app/final-fantasy-vi/id719401490
 
+## dlgames.square-enix.com (Publisher; old smartphone port)
+
+- http://dlgames.square-enix.com/ff/ff6/en/ -- profile*, platforms, languages -- accessed 2026-10-25
+  - Capture of 2017-05-01: https://web.archive.org/web/20170501134623/http://dlgames.square-enix.com/ff/ff6/en/
+    - Store links: App Store US (id719401490), Square Enix Market, Google Play (com.square_enix.android_googleplay.FFVI), Amazon.com (B00QA2C5E6)
+  - JA site, capture of 2016-01-03: https://web.archive.org/web/20160103015947/http://dlgames.square-enix.com/ff/ff6/jp/
+    - Store links: App Store JP (id719401542), Square Enix Market, Google Play, Amazon.co.jp (B00QA2C5E6)
+  - Square Enix Market (an.sqexm.net/sp/site/Page/sqmk/ff6/top) is Square Enix's Japan-only Android store
+
+## amazon.com (Platform; old Android port)
+
+- https://www.amazon.com/gp/product/B00QA2C5E6 -- platforms*, languages* -- accessed 2026-10-25
+  - Capture of 2018-08-22: https://web.archive.org/web/20180822060144/https://www.amazon.com/gp/product/B00QA2C5E6/
+    - Original release 2014-12-09; version 1.0.4, last developer update 2015-09-17; Android 3.2 or later; Fire TV supported
+  - Capture of 2025-07-28: https://web.archive.org/web/20250728065203/https://www.amazon.com/gp/product/B00QA2C5E6
+    - Titled "FINAL FANTASY VI (Old Ver.)"; languages: Chinese, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Spanish
+- https://www.amazon.co.jp/dp/B00QA2C5E6 -- JA storefront, same ASIN -- accessed 2026-10-25
+  - Capture of 2016-04-20: https://web.archive.org/web/20160420151353/http://www.amazon.co.jp/SQUARE-ENIX-CO-LTD-FANTASY/dp/B00QA2C5E6
+    - Same release date and version; languages: Italian, Spanish, German, French, Portuguese, Russian, Chinese, Japanese, English, Korean
+
+## apps.apple.com (Platform; old iOS app, JP storefront)
+
+- https://apps.apple.com/jp/app/final-fantasy-vi/id719401542 -- languages* -- accessed 2026-10-25
+  - Capture of 2019-07-02: https://web.archive.org/web/20190702162040/https://apps.apple.com/jp/app/final-fantasy-vi/id719401542
+    - Languages: Japanese, Italian, Spanish, Thai, German, French, Portuguese, Russian, Simplified Chinese, Traditional Chinese, English, Korean; iOS 7.0 or later
+  - US storefront (id719401490), capture of 2019-09-07: https://web.archive.org/web/20190907102639/https://apps.apple.com/us/app/final-fantasy-vi/id719401490
+    - Languages: English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese; version 2.0.4 of 2015-11-25; iOS 7.0 or later
+
+## Steam languages (old ver.)
+
+- https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/ -- languages* -- accessed 2026-10-25
+  - Interface and subtitles: English, French, Italian, German, Spanish - Spain, Portuguese - Portugal, Russian; no voice
+
 ## Decisions
