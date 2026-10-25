@@ -42,11 +42,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
 ## Android and iOS (Platform; G-cluster cloud apps)
 
 - https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13_2 -- the Android row -- accessed 2026-10-20; last capture 2025-01-20: https://web.archive.org/web/20250120170603/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13_2
-- The iOS row links the official G-cluster game page, capture of 2025-01-14 (no App Store id found): https://web.archive.org/web/20250114090020/https://gcluster.jp/pc/app/sqex/ff13-2/index.html -- title FINAL FANTASY XIII-2 | SQUARE ENIX in G-cluster App; sales stopped 2024-08-30 noon, service until 2025-02-28 noon; supported OS: Android 6.0 or later, iOS/iPadOS 13 or later, tvOS 12 or later, Fire OS 5 or later; provided by Broadmedia
+- Official G-cluster game page, capture of 2025-01-14: https://web.archive.org/web/20250114090020/https://gcluster.jp/pc/app/sqex/ff13-2/index.html -- title FINAL FANTASY XIII-2 | SQUARE ENIX in G-cluster App; sales stopped 2024-08-30 noon, service until 2025-02-28 noon; supported OS: Android 6.0 or later, iOS/iPadOS 13 or later, tvOS 12 or later, Fire OS 5 or later; provided by Broadmedia
   - Cloud-streaming apps by Broadmedia's G-cluster (Japan only): new sales stopped 2024-08-30 noon, service for buyers until 2025-02-28 noon (the Play page notice, https://gcluster.jp/news/20240808.html); the store pages are gone (404), so the rows are struck and link the last captures
   - The same notice's apps run on the G-cluster cloud, so the rows say `G-cluster cloud`
 - https://web.archive.org/web/20161229063201/https://www.amazon.co.jp/dp/B01E56F8Z6 -- the Amazon Appstore (Japan) row's app, FINAL FANTASY XIII-2, by Broadmedia GC, ASIN B01E56F8Z6, first listed 2016-04-22, last updated 2016-12-23, support language Japanese, Fire tablets and Fire TV (game controller on Fire TV), same Amazon account carries the game between TV and phone or tablet; the developer link on the page is http://gcluster.jp/app/sqex/ff13-2/ (the Broadmedia publisher link has no Wayback capture) -- user, 2026-10-22; capture of 2016-12-29 renders
-- The Apple TV row links the official G-cluster game page, capture of 2025-01-14: https://web.archive.org/web/20250114090020/https://gcluster.jp/pc/app/sqex/ff13-2/index.html -- accessed 2026-10-22
+- https://apps.apple.com/jp/app/final-fantasy-xiii-2/id1033424082 -- the App Store listing, one app for iPhone, iPad and Apple TV; capture https://web.archive.org/web/20240902075526/https://apps.apple.com/jp/app/final-fantasy-xiii-2/id1033424082 (2024-09-02; linked from the Japan App Store page of FF IV 3D Remake, same date) -- user, 2026-10-25
+  - Japan page, Broadmedia Corporation, 12+, 3.3 from 69 ratings, free with in-app purchase (XIII-2 use right ¥2,400)
+  - Languages: Japanese only
+  - Notice: new sales stopped 2024-08-30 noon; service for buyers until 2025-02-28 noon
+  - Version 2.7.800 (2023-10-10); iPhone, iPad, Apple TV; tvOS 13.0 or later; iOS 12.0 or later
+  - Includes the episodes, enemies and some costumes as bundled DLC
+- Official G-cluster game page, capture of 2025-01-14: https://web.archive.org/web/20250114090020/https://gcluster.jp/pc/app/sqex/ff13-2/index.html -- accessed 2026-10-22
   - Broadmedia's App Store developer page (https://web.archive.org/web/20191231113138/https://apps.apple.com/jp/developer/broadmedia-gc-corporation/id1144024684, user 2026-10-22) lists FINAL FANTASY XIII-2 (id 1033424082) under both iPhone/iPad and Apple TV; the same app
   - Dive In offered XIII-2 from December 2014 (see final-fantasy-franchise.md)
 
