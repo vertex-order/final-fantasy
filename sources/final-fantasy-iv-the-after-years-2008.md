@@ -17,7 +17,7 @@ Square Enix (Publisher, Developer)
   - Describes the game as the "authentic sequel" set over a decade after IV, told in 10 chapters around Prince Theodor of Baron
 
 Android (Platform)
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FF4AY_GP -- platform link* (key android2); lists no languages -- accessed 2026-10-25
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FF4AY_GP -- platform link* (key android); lists no languages -- accessed 2026-10-25
 
 Square Market (Platform)
 - http://an.sqexm.net/sp/site/Page/sqmk/ff4ay/top -- Square Enix's Android store for Japan only; lists no languages

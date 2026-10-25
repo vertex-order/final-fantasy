@@ -60,7 +60,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
       ],
       profileUrl: 'https://web.archive.org/web/20241111211722/https://www.finalfantasyexvius.com/',
       platforms: [
-        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20240909211105/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW' },
+        { key: 'android', terminated: true, url: 'https://web.archive.org/web/20240909211105/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20230928143311/https://apps.apple.com/app/final-fantasy-brave-exvius/id1078553808' },
         { key: 'amazon', terminated: true, url: 'https://web.archive.org/web/20240207072104/https://www.amazon.com/gp/product/B01KUHETFY' },
         { key: 'fan-movie', search: 'youtube' },
@@ -84,10 +84,10 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
       ],
       platforms: [
         { key: 'apple', name: 'comico PLUS', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20171002135327/https://itunes.apple.com/jp/app/comico-plus/id1019143399?l=ja&ls=1&mt=8', hreflang: 'ja' },
-        { key: 'android2', name: 'comico PLUS', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20161225233751/https://play.google.com/store/apps/details?id=jp.comico.plus' },
+        { key: 'android', name: 'comico PLUS', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20161225233751/https://play.google.com/store/apps/details?id=jp.comico.plus' },
         { key: 'globe', name: 'Twitter', url: 'https://x.com/FFRS_JP/status/902367909707530240' },
         { key: 'apple', name: 'Manga UP!', jpTag: true, terminated: true, url: 'https://apps.apple.com/jp/app/id1178874028', hreflang: 'ja' },
-        { key: 'android2', name: 'Manga UP!', jpTag: true, terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_jp' },
+        { key: 'android', name: 'Manga UP!', jpTag: true, terminated: true, url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_jp' },
         { key: 'fan-translation', search: 'duckduckgo', searchTitle: 'Final Fantasy Brave Exvius Rico no Doki x2 DAYS', noResults: true },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Brave Exvius Rico no Doki x2 DAYS', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Brave Exvius Rico no Doki x2 DAYS', noResults: true },
@@ -154,7 +154,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
       helpWanted: true,
       length: [{ value: '48½h', tip: 'Main Story' }],
       platforms: [
-        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20250107195003/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.WOTVffbeww' },
+        { key: 'android', terminated: true, url: 'https://web.archive.org/web/20250107195003/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.WOTVffbeww' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20241128152909/https://apps.apple.com/us/app/final-fantasy-be-wotv/id1484937345' },
         { key: 'amazon', terminated: true, url: 'https://web.archive.org/web/20230404032551/https://www.amazon.com/gp/product/B0844M7STY' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'War of the Visions Final Fantasy Brave Exvius' },

@@ -46,7 +46,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
 
 ## Google Play and App Store (Platform; G-cluster cloud apps)
 
-- https://web.archive.org/web/20240813233433/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff10 -- the `android2` G-cluster row's page, FINAL FANTASY X/X-2 HDリマスター by ブロードメディア株式会社 G-cluster (package jp.co.sqex.game.ff10), 10K+ downloads, Android 6.0 or later, TV linkage supported, updated 2024-07-16, with the service-end notice; a five-title set (X, X-2, X-2 Last Mission, Eternal Calm, credits and bonus) -- user, 2026-10-22; last capture, renders
+- https://web.archive.org/web/20240813233433/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff10 -- the `android` G-cluster row's page, FINAL FANTASY X/X-2 HDリマスター by ブロードメディア株式会社 G-cluster (package jp.co.sqex.game.ff10), 10K+ downloads, Android 6.0 or later, TV linkage supported, updated 2024-07-16, with the service-end notice; a five-title set (X, X-2, X-2 Last Mission, Eternal Calm, credits and bonus) -- user, 2026-10-22; last capture, renders
 - https://web.archive.org/web/20250114091555/https://gcluster.jp/pc/app/sqex/ff10/index_ios.html -- G-cluster's iOS game page (last capture) -- accessed 2026-10-22
 - https://apps.apple.com/jp/app/id1297115524 -- the App Store listing (capture 2020-01-08 shows Apple's splash; the page source holds the data): one app for iPhone, iPad, iPod touch (iOS 9.0 or later) and Apple TV; the Apple TV row's app, above
   - Capture https://web.archive.org/web/20240902075547/https://apps.apple.com/jp/app/final-fantasy-x-x-2-hd%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id1297115524 (2024-09-02; linked from the Japan App Store page of FF IV 3D Remake, same date) -- user, 2026-10-25

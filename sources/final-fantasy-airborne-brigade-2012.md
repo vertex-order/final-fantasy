@@ -49,7 +49,7 @@ Japanese Mobage pages (index and raw HTML read 2026-10-21); the 2019-09-15 captu
 
 ## play.google.com (Google Play)
 
-- https://play.google.com/store/apps/details?id=com.mobage.ww.a1174.FINAL_FANTASY_AIRBORNE_BRIGADE_Android -- `android2` row url*, platforms (proves Android platform) -- archived: https://web.archive.org/web/20131030143435/https://play.google.com/store/apps/details?id=com.mobage.ww.a1174.FINAL_FANTASY_AIRBORNE_BRIGADE_Android -- accessed 2026-10-21
+- https://play.google.com/store/apps/details?id=com.mobage.ww.a1174.FINAL_FANTASY_AIRBORNE_BRIGADE_Android -- `android` row url*, platforms (proves Android platform) -- archived: https://web.archive.org/web/20131030143435/https://play.google.com/store/apps/details?id=com.mobage.ww.a1174.FINAL_FANTASY_AIRBORNE_BRIGADE_Android -- accessed 2026-10-21
   - 7 status-200 captures (index), 2013-01-15 to 2014-08-17; linked capture is 2013-10-30, the latest that renders (user: it and 2013-08-25 render); raw HTML: title "FINAL FANTASY AIRBORNE BRIGADE", version 1.0.3, updated April 5, 2013
   - 2014-08-17 capture (last in index) not reported as rendering; not linked
   - live: 404

@@ -139,7 +139,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
       ],
       length: [{ value: '14h', tip: 'Main Story', join: ' / ' }, { value: '150h', tip: 'Main + Extra' }],
       platforms: [
-        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20240106202351/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DFFOperaOmnian' },
+        { key: 'android', terminated: true, url: 'https://web.archive.org/web/20240106202351/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DFFOperaOmnian' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20231221001501/https://apps.apple.com/us/app/dissidia-final-fantasy-oo/id1282951846' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', search: 'youtube' },
@@ -166,7 +166,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
         { key: 'nyr' },
       ],
       platforms: [
-        { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD' },
+        { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD' },
         { key: 'apple', url: 'https://apps.apple.com/app/dissidia-duellum-final-fantasy/id6480398822' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },

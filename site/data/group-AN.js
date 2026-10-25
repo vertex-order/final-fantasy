@@ -15,7 +15,7 @@ window.__ffGroupReg['AN'] = { num: 'AN', chronoOrder: 1515, narrativeOrder: 1740
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20131219024545/http://jp.apps.gree.net/ja/57737', hreflang: 'ja' },
+        { key: 'android', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20131219024545/http://jp.apps.gree.net/ja/57737', hreflang: 'ja' },
         { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20131219024545/http://jp.apps.gree.net/ja/57737', hreflang: 'ja' },
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
@@ -37,7 +37,7 @@ window.__ffGroupReg['AN'] = { num: 'AN', chronoOrder: 1515, narrativeOrder: 1740
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150729143635/http://jp.apps.gree.net/ja/60521', hreflang: 'ja' },
+        { key: 'android', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150729143635/http://jp.apps.gree.net/ja/60521', hreflang: 'ja' },
         { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150729143635/http://jp.apps.gree.net/ja/60521', hreflang: 'ja' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],

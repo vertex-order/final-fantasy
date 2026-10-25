@@ -25,7 +25,7 @@ window.__ffGroupReg['DM'] = { num: 'DM', chronoOrder: 1450, narrativeOrder: 1450
       platforms: [
         { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'NTT DoCoMo i-mode; au EZweb' },
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-dimensions/id540992837' },
-        { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp' },
+        { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-playthrough', search: 'youtube' },
@@ -49,7 +49,7 @@ window.__ffGroupReg['DM'] = { num: 'DM', chronoOrder: 1450, narrativeOrder: 1450
       length: [{ value: '36h', tip: 'Main Story', join: ' / ' }, { value: '51½h', tip: 'Main + Extra', join: ' / ' }, { value: '79½h', tip: 'Completionist' }],
       platforms: [
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-dimensions-ii/id1239279234' },
-        { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl2w&pli=1' },
+        { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl2w&pli=1' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-playthrough', search: 'youtube' },

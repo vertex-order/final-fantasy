@@ -176,7 +176,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       platforms: [
         { key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1173770/FINAL_FANTASY/' },
-        { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR&' },
+        { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR&' },
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy/id1492041278' },
         { key: 'apple-arcade', url: 'https://apps.apple.com/app/final-fantasy/id6504607244' },
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-switch/' },
@@ -231,8 +231,8 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
           ],
           helpWanted: true,
           platforms: [
-            { key: 'android2', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20210603211025/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.finalfantasy' },
-            { key: 'android2', suffix: 'portal', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20231211133701/https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay' },
+            { key: 'android', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20210603211025/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.finalfantasy' },
+            { key: 'android', suffix: 'portal', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20231211133701/https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay' },
             { key: 'apple', suffix: 'portal', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20230805063250/https://apps.apple.com/app/final-fantasy-portal-app/id933149812' },
           ],
           versionDesc: [

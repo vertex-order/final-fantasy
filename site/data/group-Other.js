@@ -54,7 +54,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         helpWanted: true,
         platforms: [
           { key: 'apple', url: 'https://apps.apple.com/us/app/adventures-of-mana/id1048629983' },
-          { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.adventures' },
+          { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.adventures' },
           { key: 'amazon', url: 'https://www.amazon.com/dp/B01CZKNQQM' },
           { key: 'playstation-vita', paren: 'Digital', url: 'https://www.jp.square-enix.com/seiken/en/psvita/' },
         ],
@@ -139,7 +139,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       platforms: [
         { key: 'steam', terminated: true },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20200612163359/https://apps.apple.com/us/app/mobius-final-fantasy/id1091974564' },
-        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20191021201143/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mobiusff_ne' },
+        { key: 'android', terminated: true, url: 'https://web.archive.org/web/20191021201143/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mobiusff_ne' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube' },
@@ -167,8 +167,8 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { score: '7.0', url: 'https://www.metacritic.com/game/final-fantasy-record-keeper/', key: 'metacritic-user' },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, url: 'https://play.google.com/store/apps/details?id=jp.mbga.a12019103.lite' },
-        { key: 'android2', terminated: true, paren: 'Non-Japan', url: 'https://web.archive.org/web/20220703095849/https://play.google.com/store/apps/details?id=com.dena.west.FFRK' },
+        { key: 'android', jpTag: true, url: 'https://play.google.com/store/apps/details?id=jp.mbga.a12019103.lite' },
+        { key: 'android', terminated: true, paren: 'Non-Japan', url: 'https://web.archive.org/web/20220703095849/https://play.google.com/store/apps/details?id=com.dena.west.FFRK' },
         { key: 'apple', jpTag: true, url: 'https://apps.apple.com/jp/app/final-fantasy-record-keeper/id866037912' },
         { key: 'apple', terminated: true, paren: 'Non-Japan', url: 'https://web.archive.org/web/20220703201323/https://apps.apple.com/app/id964320334?mt=8' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', noResults: true },
@@ -234,7 +234,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { title: 'Chocobo Stallion', titleDate: '1999-12-22 10', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Chocobo_Stallion', platforms: [{ key: 'playstation1', jpTag: true }, { key: 'pocketstation' }, { key: 'playstation2', jpTag: true, paren: 'PSone compatibility', more: true }, { key: 'playstation3', jpTag: true, paren: 'Digital; PSone compatibility', more: true }, { key: 'playstation-portable', jpTag: true, paren: 'Digital', more: true }, { key: 'playstation-vita', jpTag: true, paren: 'PSP compatibility', more: true }] },
         { title: 'Chocobo Racing', titleDate: '1999-03-18', titleUrl: 'https://wikipedia.org/wiki/Chocobo_Racing', platforms: [{ key: 'playstation1' }, { key: 'playstation2', paren: 'PSone compatibility', more: true }, { key: 'playstation3', paren: 'Digital; PSone compatibility', more: true }, { key: 'playstation-portable', paren: 'Digital', more: true }, { key: 'playstation-vita', paren: 'PSP compatibility', more: true }] },
         { title: 'Chocobo GP', titleDate: '2022-03-10', titleUrl: 'https://wikipedia.org/wiki/Chocobo_GP', platforms: [{ key: 'nintendo-switch', url: 'https://www.square-enix-games.com/games/chocobo-gp' }, { key: 'nintendo-switch-2', paren: 'Switch compatibility', url: 'https://www.square-enix-games.com/games/chocobo-gp', more: true }] },
-        { title: "Chocobo GP'", titleDate: '2022-01-13', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Chocobo_GP%27', platforms: [{ key: 'android2', terminated: true, url: 'https://web.archive.org/web/20221229104027/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.chocodash' }, { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20220824052651/https://apps.apple.com/us/app/chocobogp/id1567147111?mt=8' }] },
+        { title: "Chocobo GP'", titleDate: '2022-01-13', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Chocobo_GP%27', platforms: [{ key: 'android', terminated: true, url: 'https://web.archive.org/web/20221229104027/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.chocodash' }, { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20220824052651/https://apps.apple.com/us/app/chocobogp/id1567147111?mt=8' }] },
         { title: 'Dice de Chocobo', titleDate: '1999-12-22 20', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Dice_de_Chocobo', platforms: [{ key: 'playstation1', jpTag: true }, { key: 'playstation2', jpTag: true, paren: 'PSone compatibility', more: true }, { key: 'nintendo-game-boy-advance', jpTag: true, more: true }, { key: 'playstation3', jpTag: true, paren: 'Digital; PSone compatibility', more: true }, { key: 'playstation-portable', jpTag: true, paren: 'Digital', more: true }, { key: 'playstation-vita', jpTag: true, paren: 'PSP compatibility', more: true }, { key: 'nintendo-wii-u', terminated: true, paren: 'Virtual Console', more: true }] },
         { title: 'Hataraku Chocobo', titleDate: '2000-09-21', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Hataraku_Chocobo', platforms: [{ key: 'wonderswan', jpTag: true, paren: 'B&W; Color' }] },
         { title: 'Chocobo Anywhere', titleDate: '2002-05-24', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Doko_de_mo_Chocobo', platforms: [{ key: 'mobile-phone', jpTag: true, paren: 'NTT DoCoMo i-appli; Mitsubishi D504i' }] },
@@ -253,7 +253,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { title: "Chocobo's Crystal Hunter", titleDate: '2008', titleUrl: 'https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html#chocobo_crystal', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
         { title: 'Chocobo Panic', titleDate: '2010-05-28', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Chocobo_Panic', platforms: [{ key: 'apple-ipad', terminated: true, url: 'https://web.archive.org/web/20160924114712/https://itunes.apple.com/us/app/chocobo-panic/id373052434?mt=8' }] },
         { title: "Chocobo's Crystal Tower", titleDate: '2010-06-29', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Chocobo%27s_Crystal_Tower', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }, { key: 'facebook', terminated: true, more: true, url: 'https://apps.facebook.com/chocobos/' }] },
-        { title: "Chocobo's Chocotto Farm", titleDate: '2012-12-19', titleUrl: 'https://wikipedia.org/wiki/Chocobo%E2%80%99s_Chocotto_Farm', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true, paren: 'GREE', url: 'https://web.archive.org/web/20180912002134/http://jp.apps.gree.net:80/ja/58407' }, { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20160805125814/https://play.google.com/store/apps/details?id=com.smilelab.chocoboFarm', more: true }, { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20161121175524/https://itunes.apple.com/jp/app/chokobonochokotto-nong-yuan/id1021879139?mt=8', more: true }] },
+        { title: "Chocobo's Chocotto Farm", titleDate: '2012-12-19', titleUrl: 'https://wikipedia.org/wiki/Chocobo%E2%80%99s_Chocotto_Farm', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true, paren: 'GREE', url: 'https://web.archive.org/web/20180912002134/http://jp.apps.gree.net:80/ja/58407' }, { key: 'android', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20160805125814/https://play.google.com/store/apps/details?id=com.smilelab.chocoboFarm', more: true }, { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20161121175524/https://itunes.apple.com/jp/app/chokobonochokotto-nong-yuan/id1021879139?mt=8', more: true }] },
       ],
       platforms: [
         { key: 'playstation4' },
@@ -268,7 +268,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { key: 'nintendo-ds' },
         { key: 'nintendo-game-boy-advance', paren: 'Physical' },
         { key: 'wonderswan', paren: 'Physical; Japan Only' },
-        { key: 'android2' },
+        { key: 'android' },
         { key: 'apple' },
         { key: 'facebook', paren: 'Messenger' },
         { key: 'mobile-phone', terminated: true },
@@ -354,7 +354,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       ],
       platforms: [
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20131104150941/https://itunes.apple.com/app/id576445141' },
-        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20131030143435/https://play.google.com/store/apps/details?id=com.mobage.ww.a1174.FINAL_FANTASY_AIRBORNE_BRIGADE_Android' },
+        { key: 'android', terminated: true, url: 'https://web.archive.org/web/20131030143435/https://play.google.com/store/apps/details?id=com.mobage.ww.a1174.FINAL_FANTASY_AIRBORNE_BRIGADE_Android' },
         { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'Mobage', url: 'https://web.archive.org/web/20190915045811/http://mbga.jp/_ffjm_top', hreflang: 'ja' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchQualifier: 'movie', searchSuffix: '', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
@@ -384,7 +384,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       ],
       length: [{ value: '4h', tip: 'Main Story', join: ' / ' }, { value: '4½h', tip: 'Main + Extra', join: ' / ' }, { value: '4½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20221013014513/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffatb' },
+        { key: 'android', terminated: true, url: 'https://web.archive.org/web/20221013014513/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffatb' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20230722174326/https://apps.apple.com/us/app/final-fantasy-all-the-bravest/id581058256' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
@@ -408,7 +408,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       ],
       length: [{ value: '20h', tip: 'Main Story', join: ' / ' }, { value: '34h', tip: 'Main + Extra', join: ' / ' }, { value: '47½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20161011031113/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.pictlogicaff' },
+        { key: 'android', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20161011031113/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.pictlogicaff' },
         { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20160625171900/https://itunes.apple.com/jp/app/pictlogica-final-fantasy/id715441573', hreflang: 'ja' },
         { key: 'nintendo-3ds', jpTag: true, terminated: true, paren: 'Digital', url: 'https://www.jp.square-enix.com/game/detail/p_ffne/', hreflang: 'ja' },
         { key: 'nintendo-wii-u', jpTag: true, terminated: true, paren: 'Digital', url: 'https://www.jp.square-enix.com/game/detail/p_ffne/', hreflang: 'ja' },
@@ -432,7 +432,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       ],
       platforms: [
         { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150616025539/https://itunes.apple.com/jp/app/final-fantasy-world-wide-words/id900312607?mt=8', hreflang: 'ja' },
-        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151128160812/https://play.google.com/store/apps/details?id=com.square_enix.ffwww' },
+        { key: 'android', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151128160812/https://play.google.com/store/apps/details?id=com.square_enix.ffwww' },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy World Wide Words' },
       ],
     },
@@ -459,7 +459,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       platforms: [
         { key: 'steam', terminated: true, url: 'https://steamcommunity.com/app/441020' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20161025035217/https://itunes.apple.com/us/app/heavenstrike-rivals-monster/id929464758?mt=8' },
-        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20161213092938/https://play.google.com/store/apps/details?id=com.square_enix.HEAVENSTRIKERIVALS_WW' },
+        { key: 'android', terminated: true, url: 'https://web.archive.org/web/20161213092938/https://play.google.com/store/apps/details?id=com.square_enix.HEAVENSTRIKERIVALS_WW' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-playthrough', search: 'youtube' },
@@ -486,7 +486,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { url: 'https://www.metacritic.com/game/final-fantasy-portal-app/', key: 'nyr' },
       ],
       platforms: [
-        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20240909220125/https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay' },
+        { key: 'android', terminated: true, url: 'https://web.archive.org/web/20240909220125/https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20241124160321/https://apps.apple.com/us/app/final-fantasy-portal-app/id933149812' },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy Portal App Triple Triad' },
       ],
@@ -530,7 +530,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       platforms: [
         { key: 'nintendo-game-boy', paren: 'Physical' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1642620/COLLECTION_of_SaGa_FINAL_FANTASY_LEGEND/' },
-        { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.SagaCollection_Sww' },
+        { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.SagaCollection_Sww' },
         { key: 'apple', url: 'https://apps.apple.com/app/collection-of-saga-ff-legend/id1565119677' },
         { key: 'nintendo-switch', paren: 'Digital', url: 'https://www.nintendo.com/store/products/collection-of-saga-final-fantasy-legend-switch/' },
         {
@@ -625,8 +625,8 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { title: 'Cactuar Panic', titleDate: '2008', titleUrl: 'https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html#sabo_panic', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
         { title: "Moogle's Shop Manager for a Day", titleDate: '2008', titleUrl: 'https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html#mogu_tencho', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
         { title: 'Final Fantasy VII: Snowboarding', titleDate: '2005-03-29', titleUrl: '#entry-VII-final-fantasy-vii-snowboarding-2005', platforms: [{ key: 'mobile-phone', terminated: true }] },
-        { title: 'Final Fantasy VII G-Bike', titleDate: '2014-10-30', titleUrl: '#entry-VII-final-fantasy-vii-g-bike-2014', platforms: [{ key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151128160608/https://play.google.com/store/apps/details?id=com.square_enix.ff7g_bike' }, { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150616025532/https://itunes.apple.com/jp/app/final-fantasy-vii-g-bike/id900316991', hreflang: 'ja' }] },
-        { title: 'Justice Monsters Five', titleDate: '2016-08-30', titleUrl: '#entry-XV-justice-monsters-five-2016', platforms: [{ key: 'android2', terminated: true, url: 'https://web.archive.org/web/20170121161028/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.jusmonvw' }, { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20170827002101/https://itunes.apple.com/us/app/justice-monsters-five/id1075780355?mt=8' }] },
+        { title: 'Final Fantasy VII G-Bike', titleDate: '2014-10-30', titleUrl: '#entry-VII-final-fantasy-vii-g-bike-2014', platforms: [{ key: 'android', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151128160608/https://play.google.com/store/apps/details?id=com.square_enix.ff7g_bike' }, { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150616025532/https://itunes.apple.com/jp/app/final-fantasy-vii-g-bike/id900316991', hreflang: 'ja' }] },
+        { title: 'Justice Monsters Five', titleDate: '2016-08-30', titleUrl: '#entry-XV-justice-monsters-five-2016', platforms: [{ key: 'android', terminated: true, url: 'https://web.archive.org/web/20170121161028/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.jusmonvw' }, { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20170827002101/https://itunes.apple.com/us/app/justice-monsters-five/id1075780355?mt=8' }] },
       ],
     },
   },

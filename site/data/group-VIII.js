@@ -30,7 +30,7 @@ window.__ffGroupReg['VIII'] = { num: 'VIII', chronoOrder: 800, narrativeOrder: 8
       platforms: [
         { key: 'gog', paren: 'PC', url: 'https://www.gog.com/en/game/final_fantasy_viii_remastered' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII__REMASTERED/' },
-        { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVIII' },
+        { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVIII' },
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-viii-remastered/id1326740784' },
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-viii-remastered-switch/' },
         {
@@ -68,7 +68,7 @@ window.__ffGroupReg['VIII'] = { num: 'VIII', chronoOrder: 800, narrativeOrder: 8
             { key: 'g-cluster-tv', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20250114090033/https://gcluster.jp/pc/games/ff8.html', hreflang: 'ja' },
             { key: 'sharp-tv', jpTag: true, terminated: true, paren: 'COCORO GAME cloud', url: 'https://web.archive.org/web/20190724070019/https://cocoroplus.jp.sharp/game/list/', hreflang: 'ja' },
             { key: 'hikari-tv-games', jpTag: true, terminated: true, paren: 'Cloud; Hikari TV set-top box', url: 'https://web.archive.org/web/20191222141911/http://game.hikaritv.net/title/ff8/index.html', hreflang: 'ja' },
-            { key: 'android2', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
+            { key: 'android', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
             { key: 'apple', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
           ],
           versionDesc: [

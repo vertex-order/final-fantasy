@@ -34,7 +34,7 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
       platforms: [
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1173810?' },
-        { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR5&' },
+        { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR5&' },
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-v/id1492041611' },
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-v-switch/' },
         { key: 'nintendo-switch-2', paren: 'Digital; Switch 1 compatibility', url: 'https://www.nintendo.com/store/products/final-fantasy-v-switch/' },
@@ -70,7 +70,7 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
           ],
           platforms: [
             { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/382890/FINAL_FANTASY_V_Old_ver/', paren: 'PC' },
-            { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20210603211101/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFV_GP' },
+            { key: 'android', terminated: true, url: 'https://web.archive.org/web/20210603211101/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFV_GP' },
             { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20190909000513/https://apps.apple.com/us/app/final-fantasy-v/id609577016' },
             { key: 'amazon', url: 'https://web.archive.org/web/20160324053626/http://www.amazon.com/SQUARE-ENIX-CO-LTD-FANTASY/dp/B00MGLAPOC' },
           ],

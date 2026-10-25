@@ -37,7 +37,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
           searchSuffix: '',
         },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
-        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20221114015437/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7fsww&hl=en' },
+        { key: 'android', terminated: true, url: 'https://web.archive.org/web/20221114015437/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7fsww&hl=en' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20230110035724/https://apps.apple.com/us/app/ffvii-the-first-soldier/id1536906780' },
       ],
     },
@@ -69,7 +69,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         { key: 'fan-recap', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) The First Soldier' },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) The First Soldier' },
         { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', paren: 'PC; Handheld' },
-        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+        { key: 'android', terminated: true, url: 'https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20261007234945/https://apps.apple.com/us/app/final-fantasy-vii-ever-crisis/id1536905430' },
       ],
     },
@@ -115,7 +115,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
           { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) before crisis', noResults: true },
           { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) before crisis' },
           { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', paren: 'PC; Handheld' },
-          { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+          { key: 'android', terminated: true, url: 'https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
           { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20261007234945/https://apps.apple.com/us/app/final-fantasy-vii-ever-crisis/id1536905430' },
         ],
         versionDesc: [
@@ -222,7 +222,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
             { key: 'fan-recap', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) Crisis Core' },
             { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) Crisis Core' },
             { key: 'steam', terminated: true, paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/' },
-            { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+            { key: 'android', terminated: true, url: 'https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
             { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20261007234945/https://apps.apple.com/us/app/final-fantasy-vii-ever-crisis/id1536905430' },
           ],
           versionDesc: [
@@ -452,7 +452,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
           profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-vii',
           platforms: [
             { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-vii/id1021566244' },
-            { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVII' },
+            { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVII' },
           ],
           versionDesc: [
             'This edit adds auto-save, toggle battle encounters, and an optional stat-max cheat. Some may find the mobile controls hard to use.',
@@ -475,7 +475,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
           ],
           platforms: [
             { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', paren: 'PC; Handheld' },
-            { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+            { key: 'android', terminated: true, url: 'https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
             { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20261007234945/https://apps.apple.com/us/app/final-fantasy-vii-ever-crisis/id1536905430' },
             { key: 'fan-movie', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) Final Fantasy VII' },
             { key: 'fan-recap', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) Final Fantasy VII' },
@@ -500,7 +500,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
             { key: 'g-cluster-tv', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20250114090029/https://gcluster.jp/pc/games/ff7.html', hreflang: 'ja' },
             { key: 'sharp-tv', jpTag: true, terminated: true, paren: 'COCORO GAME cloud', url: 'https://web.archive.org/web/20190724070019/https://cocoroplus.jp.sharp/game/list/', hreflang: 'ja' },
             { key: 'hikari-tv-games', jpTag: true, terminated: true, paren: 'Cloud; Hikari TV set-top box', url: 'https://web.archive.org/web/20220618054218/http://game.hikaritv.net/title/ff7/index.html', hreflang: 'ja' },
-            { key: 'android2', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
+            { key: 'android', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
             { key: 'apple', jpTag: true, terminated: true, paren: 'Dive In cloud', url: 'https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/', hreflang: 'ja' },
           ],
           versionDesc: [
@@ -792,7 +792,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
             { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) advent children', noResults: true },
             { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) advent children' },
             { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', paren: 'PC; Handheld' },
-            { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+            { key: 'android', terminated: true, url: 'https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
             { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20261007234945/https://apps.apple.com/us/app/final-fantasy-vii-ever-crisis/id1536905430' },
           ],
           versionDesc: [
@@ -890,7 +890,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
             { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus', noResults: true },
             { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
             { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', paren: 'PC; Handheld' },
-            { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+            { key: 'android', terminated: true, url: 'https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
             { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20261007234945/https://apps.apple.com/us/app/final-fantasy-vii-ever-crisis/id1536905430' },
           ],
           versionDesc: [
@@ -954,7 +954,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
             { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus', noResults: true },
             { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy: Ever Crisis (2023) dirge of cerberus' },
             { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/', paren: 'PC; Handheld' },
-            { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
+            { key: 'android', terminated: true, url: 'https://web.archive.org/web/20261007234947/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww' },
             { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20261007234945/https://apps.apple.com/us/app/final-fantasy-vii-ever-crisis/id1536905430' },
           ],
           versionDesc: [
@@ -1000,7 +1000,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         { value: 'JA', native: true },
       ],
       platforms: [
-        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151128160608/https://play.google.com/store/apps/details?id=com.square_enix.ff7g_bike' },
+        { key: 'android', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151128160608/https://play.google.com/store/apps/details?id=com.square_enix.ff7g_bike' },
         { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150616025532/https://itunes.apple.com/jp/app/final-fantasy-vii-g-bike/id900316991', hreflang: 'ja' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],

@@ -24,7 +24,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       ],
       length: [{ value: '17½h', tip: 'Main Story', join: ' / ' }, { value: '43h', tip: 'Main + Extra', join: ' / ' }, { value: '93h', tip: 'Completionist' }],
       platforms: [
-        { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFCCREww' },
+        { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFCCREww' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20241222152916/https://apps.apple.com/us/app/finalfantasy-crystalchronicles/id1478870957' },
         {
           key: 'nintendo-switch',

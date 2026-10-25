@@ -79,7 +79,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
         { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-CUSA01633_00-FFXVROYALEDITION', paren: 'Comrades only; PS5; PS4' },
         { key: 'xbox-one', paren: 'Enhanced; Physical; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' },
         { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw' },
-        { key: 'android2', jpTag: true, terminated: true, paren: 'd game Play Ticket cloud' },
+        { key: 'android', jpTag: true, terminated: true, paren: 'd game Play Ticket cloud' },
         { key: 'apple', jpTag: true, terminated: true, paren: 'd game Play Ticket cloud' },
         { key: 'fan-movie', search: 'youtube', searchQualifier: 'Royal Edition' },
         { key: 'fan-recap', search: 'youtube', searchQualifier: 'Royal Edition' },
@@ -149,7 +149,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
         ],
         platforms: [
           { key: 'windows', url: 'https://apps.microsoft.com/detail/9mvr4t7znq1t' },
-          { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20240821072717/https://play.google.com/store/apps/details?id=com.square_enix.android_google.ffxvpe' },
+          { key: 'android', terminated: true, url: 'https://web.archive.org/web/20240821072717/https://play.google.com/store/apps/details?id=com.square_enix.android_google.ffxvpe' },
           { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20240828125756/https://apps.apple.com/us/app/finalfantasy-xv-pocket-edition/id1152350815' },
           { key: 'nintendo-switch', paren: 'Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-xv-pocket-edition-hd-switch/' },
           {
@@ -540,7 +540,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
         { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
       ],
       platforms: [
-        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20240816005628/https://play.google.com/store/apps/details?id=com.epicactiononline.ffxv.ane' },
+        { key: 'android', terminated: true, url: 'https://web.archive.org/web/20240816005628/https://play.google.com/store/apps/details?id=com.epicactiononline.ffxv.ane' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20241113020955/https://apps.apple.com/us/app/final-fantasy-xv-a-new-empire/id1186994231' },
         { key: 'youtube', name: 'Official trailers and clips (Youtube)', url: 'https://www.youtube.com/@ffxvmobile/videos' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchTitle: 'final fantasy XV A New Empire', noResults: true },
@@ -573,7 +573,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
         { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
       ],
       platforms: [
-        { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20240930205609/https://play.google.com/store/apps/details?id=com.machinezone.ffane' },
+        { key: 'android', terminated: true, url: 'https://web.archive.org/web/20240930205609/https://play.google.com/store/apps/details?id=com.machinezone.ffane' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20240507050129/https://apps.apple.com/us/app/final-fantasy-xv-war-for-eos/id1530078225' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchTitle: 'final fantasy XV War for Eos', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'final fantasy XV War for Eos', noResults: true },
@@ -618,7 +618,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
           ],
           helpWanted: true,
           platforms: [
-            { key: 'android2', terminated: true, url: 'https://web.archive.org/web/20171004061029/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.KingsKnightww' },
+            { key: 'android', terminated: true, url: 'https://web.archive.org/web/20171004061029/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.KingsKnightww' },
             { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20190227010228/https://itunes.apple.com/US/app/id1087305272?mt=8' },
           ],
           versionDesc: [
@@ -722,7 +722,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
         { value: 'EN' },
       ],
       platforms: [
-        { key: 'android2', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20170121161028/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.jusmonvw' },
+        { key: 'android', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20170121161028/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.jusmonvw' },
         { key: 'apple', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20170827002101/https://itunes.apple.com/us/app/justice-monsters-five/id1075780355?mt=8' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],

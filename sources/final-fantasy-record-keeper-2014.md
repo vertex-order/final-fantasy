@@ -55,10 +55,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Record_Keeper_ver
 
 ## play.google.com (Google Play)
 
-- https://play.google.com/store/apps/details?id=jp.mbga.a12019103.lite -- platforms (android2 jp row)* -- accessed 2026-10-21
+- https://play.google.com/store/apps/details?id=jp.mbga.a12019103.lite -- platforms (android jp row)* -- accessed 2026-10-21
   - Live: 1M+ downloads, updated 2026-10-01. Package under DeNA's mbga namespace, so absent from Square Enix's developer list.
   - URL from user 2026-10-21.
-- https://play.google.com/store/apps/details?id=com.dena.west.FFRK -- platforms (android2 Non-Japan row)* -- accessed 2026-10-21 -- archived: https://web.archive.org/web/20220703095849/https://play.google.com/store/apps/details?id=com.dena.west.FFRK
+- https://play.google.com/store/apps/details?id=com.dena.west.FFRK -- platforms (android Non-Japan row)* -- accessed 2026-10-21 -- archived: https://web.archive.org/web/20220703095849/https://play.google.com/store/apps/details?id=com.dena.west.FFRK
   - Live page 404. Raw HTML of the capture: Italian page (`lang="it"`), description says supported languages English, Japanese.
   - Capture given by user 2026-10-21; the page language is Italian because of the capture's locale, not the app's.
 

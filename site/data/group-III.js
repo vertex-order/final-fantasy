@@ -34,7 +34,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
       platforms: [
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1173790?' },
-        { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR3&' },
+        { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR3&' },
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-iii/id1492041436?' },
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-iii-switch/' },
         { key: 'nintendo-switch-2', paren: 'Digital; Switch 1 compatibility', url: 'https://www.nintendo.com/store/products/final-fantasy-iii-switch/' },
@@ -122,7 +122,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
             platforms: [
               { key: 'apple', paren: 'Digital', url: 'https://apps.apple.com/app/final-fantasy-iii-3d-remake/id424591347' },
               { key: 'apple-ipad', paren: 'Digital', url: 'https://apps.apple.com/app/final-fantasy-iii-for-ipad-3d/id430823968' },
-              { key: 'android2', paren: 'Digital', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP' },
+              { key: 'android', paren: 'Digital', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP' },
               { key: 'amazon', paren: 'Digital', url: 'https://www.amazon.com/dp/B009YG2ND8' },
               { key: 'ouya', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20150202220530/https://www.ouya.tv/game/final-fantasy-iii/' },
               { key: 'windows-phone', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20140606081258/http://www.windowsphone.com/en-us/store/app/final-fantasy-iii/14ee2c62-1f7d-4e57-8380-5433d4df54b2' },

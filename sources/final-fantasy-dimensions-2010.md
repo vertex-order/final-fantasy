@@ -7,7 +7,7 @@
 
 ## Android (Platform)
 
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp -- platforms (android2 row)* -- accessed 2026-10-25 -- archived: TODO
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp -- platforms (android row)* -- accessed 2026-10-25 -- archived: TODO
   - Live; title "FINAL FANTASY DIMENSIONS", SQUARE ENIX Co.,Ltd., updated 2025-09-29 (page text given by user 2026-10-25).
   - Capture of 2013-04-29, linked from the Final Fantasy III Android page: https://web.archive.org/web/20130429194648/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp&feature=more_from_developer
   - Linked from both the JA and EN official sites' footers (2013-06-15 capture and live).

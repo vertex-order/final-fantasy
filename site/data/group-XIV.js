@@ -508,7 +508,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       ],
       profileUrl: 'https://na.finalfantasyxiv.com/companion/',
       platforms: [
-        { key: 'android2', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffxivcomapp_n' },
+        { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffxivcomapp_n' },
         { key: 'apple', url: 'https://itunes.apple.com/app/id1293636320' },
       ],
     },

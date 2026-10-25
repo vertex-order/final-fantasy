@@ -46,7 +46,7 @@ window.__ffGroupReg['EX'] = { num: 'EX', chronoOrder: 1520, narrativeOrder: 1520
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-playthrough', search: 'youtube' },
-        { key: 'android2', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20190522105621/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFFEXFjp' },
+        { key: 'android', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20190522105621/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFFEXFjp' },
         { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20181007085213/https://itunes.apple.com/jp/app/id1161393372', hreflang: 'ja' },
       ],
     },
