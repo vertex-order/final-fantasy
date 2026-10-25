@@ -17,17 +17,25 @@ Square Enix (Publisher, Developer)
   - Describes the game as the "authentic sequel" set over a decade after IV, told in 10 chapters around Prince Theodor of Baron
 
 Android (Platform)
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FF4AY_GP -- platform link* (key android2)
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FF4AY_GP -- platform link* (key android2); lists no languages -- accessed 2026-10-25
+
+Square Market (Platform)
+- http://an.sqexm.net/sp/site/Page/sqmk/ff4ay/top -- Square Enix's Android store for Japan only; lists no languages
+  - https://web.archive.org/web/20160306031448/http://an.sqexm.net/sp/site/Page/sqmk/ff4ay/top -- linked from the JA site
+  - https://web.archive.org/web/20160730135616/http://an.sqexm.net/sp/site/Page/sqmk/ff4ay/top -- linked from the EN site
 
 Apple App Store (Platform)
 - https://apps.apple.com/app/ff-iv-the-after-years/id683029090 -- platform link* (key apple)
 - https://itunes.apple.com/us/app/final-fantasy-iv-after-years/id683029090?mt=8 -- same listing, the older form given on the Square Enix English page
+  - https://web.archive.org/web/20160520142214/https://itunes.apple.com/us/app/final-fantasy-iv-after-years/id683029090?mt=8 -- languages*: English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese -- accessed 2026-10-25
+- https://itunes.apple.com/jp/app/final-fantasy-iv-after-years/id683031700?mt=8 -- Japan storefront listing, its own id; same 12 languages as the US listing, none unique to it
+  - https://web.archive.org/web/20160325050344/https://itunes.apple.com/jp/app/final-fantasy-iv-after-years/id683031700?mt=8 -- languages*: the same 12 -- accessed 2026-10-25
 
 Apple Arcade (Platform)
-- https://apps.apple.com/app/ff-iv-the-after-years/id6504608150 -- platform link* (key apple-arcade)
+- https://apps.apple.com/app/ff-iv-the-after-years/id6504608150 -- platform link* (key apple-arcade), languages*: the same 12 as the App Store -- accessed 2026-10-25
 
 Steam (Platform)
-- https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/ -- platform link*, rating (Steam, Mixed)*
+- https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/ -- platform link*, rating (Steam, Mixed)*, languages*: English, French, Italian, German, Spanish - Spain, Russian, Portuguese - Brazil (interface and subtitles, no audio) -- accessed 2026-10-25
 
 finalfantasy.fandom.com (Information)
 - https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV:_The_After_Years_version_differences -- versions*, platforms* -- accessed 2026-09-22
@@ -36,7 +44,8 @@ finalfantasy.fandom.com (Information)
 wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series-related_games -- dates*, platforms*, tags, versions -- accessed 2026-09-22
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Bundled_releases -- dates, platforms -- accessed 2026-09-22
-- https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years
+- https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years -- dates* -- accessed 2026-10-25
+  - Remake: iOS and Android 2013-11-25, Microsoft Windows 2015-05-11
 
 dlgames.square-enix.com (Square Enix, smartphone sites)
 

@@ -367,7 +367,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
     },
     alts: [
       {
-        subtitle: '3D Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', subtitleDate: 2013,
+        subtitle: '3D Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', subtitleDate: '2013-11-25',
         profileUrl: 'https://www.jp.square-enix.com/ff4tay/en/',
         languages: [
           { value: 'EN' },
@@ -377,6 +377,11 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
           { value: 'PT-BR' },
           { value: 'RU' },
           { value: 'ES-ES' },
+          { value: 'JA' },
+          { value: 'KO' },
+          { value: 'ZH-CN' },
+          { value: 'ZH-TW' },
+          { value: 'TH' },
         ],
         ratings: [
           { label: 'Steam', score: 'Mixed', url: 'https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/' },
