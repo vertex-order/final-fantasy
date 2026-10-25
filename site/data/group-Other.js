@@ -625,7 +625,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { title: 'Cactuar Panic', titleDate: '2008', titleUrl: 'https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html#sabo_panic', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
         { title: "Moogle's Shop Manager for a Day", titleDate: '2008', titleUrl: 'https://web.archive.org/web/20090830052615/http://www.square-enix.co.jp/mobile/sem/flash_ranking/index.html#mogu_tencho', titleHreflang: 'ja', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true }] },
         { title: 'Final Fantasy VII: Snowboarding', titleDate: '2005-03-29', titleUrl: '#entry-VII-final-fantasy-vii-snowboarding-2005', platforms: [{ key: 'mobile-phone', terminated: true }] },
-        { title: 'Final Fantasy VII G-Bike', titleDate: '2014-10-30', titleUrl: '#entry-VII-final-fantasy-vii-g-bike-2014', platforms: [{ key: 'android2', jpTag: true, terminated: true }, { key: 'apple', jpTag: true, terminated: true }] },
+        { title: 'Final Fantasy VII G-Bike', titleDate: '2014-10-30', titleUrl: '#entry-VII-final-fantasy-vii-g-bike-2014', platforms: [{ key: 'android2', jpTag: true, terminated: true }, { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20150616025532/https://itunes.apple.com/jp/app/final-fantasy-vii-g-bike/id900316991', hreflang: 'ja' }] },
         { title: 'Justice Monsters Five', titleDate: '2016-08-30', titleUrl: '#entry-XV-justice-monsters-five-2016', platforms: [{ key: 'android2', terminated: true }, { key: 'apple', terminated: true }] },
       ],
     },
