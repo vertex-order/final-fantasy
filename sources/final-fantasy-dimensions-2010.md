@@ -10,6 +10,13 @@
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp -- platforms (android row)* -- accessed 2026-10-25 -- archived: TODO
   - Live; title "FINAL FANTASY DIMENSIONS", SQUARE ENIX Co.,Ltd., updated 2025-09-29 (page text given by user 2026-10-25).
   - Capture of 2013-04-29, linked from the Final Fantasy III Android page: https://web.archive.org/web/20130429194648/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp&feature=more_from_developer
+  - Capture of 2013-05-12 (Croatian-language page; 2 captures, 2013-05-12 to 2021-04-15): https://web.archive.org/web/20130512120131/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp&feature=more_from_developer (page text given by user 2026-10-25)
+    - Updated 2013-05-10; version 1.0.4; requires Android 2.3.3+; $19.99; 50,000-100,000 installs; 200M; 2,010 ratings, 4.3; content rating low maturity.
+    - Description (English): smartphone version "also marks the title's overseas debut"; Chiptune BGM arrange sold in the shop.
+    - No languages line on the page.
+  - Capture of 2021-04-15 (English UI, US storefront; the last of the 2 captures): https://web.archive.org/web/20210415100936/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp&feature=more_from_developer (page text given by user 2026-10-25)
+    - Updated 2017-03-15; version 1.1.3; requires Android 2.3.3+; 100,000+ installs; category Role Playing; content rating Everyone; 8,797 ratings, 4.3.
+    - Same description as the 2013 capture. No languages line, no price shown.
   - Linked from both the JA and EN official sites' footers (2013-06-15 capture and live).
 
 ## Apple App Store (Platform)
