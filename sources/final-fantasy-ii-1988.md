@@ -99,6 +99,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
 - http://www.square-enix.co.jp/smart/market/game007.html -- the Android version sold on Square Enix Market, Japan only: release 2012-02-01, with the two EX dungeons of earlier ports -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120204205708/http://www.square-enix.co.jp/smart/market/game007.html
   - The store is described in final-fantasy-franchise.md
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone)
+
+- http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists II, release 2010.02.25 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
+  - Detail page read: Platform iPhone / iPod touch
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

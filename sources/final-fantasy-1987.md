@@ -207,6 +207,11 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
 - http://www.square-enix.co.jp/smart/market/game003.html -- the Android version sold on Square Enix Market, Japan only: release 2011-12-01 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120204205708/http://www.square-enix.co.jp/smart/market/game003.html
   - The store is described in final-fantasy-franchise.md
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone)
+
+- http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists FINAL FANTASY, release 2010.02.25 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
+  - Detail page read: Platform iPhone / iPod touch
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

@@ -30,5 +30,10 @@
   - Service ended August 31, 2017; the game was never updated for modern hardware (compatibility is limited to iOS 10.3.3 and earlier, such as iPhone 5 and 5c), and neither the game nor its purchased content can be downloaded any more
   - The page carries a stub notice asking for a full article
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone)
+
+- http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists VANGUARD STORM, release 2009.05.13 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
+  - Detail page read: Platform iPhone / iPod touch
+
 ## Decisions
 - Help wanted removed (user, 2026-10-20): the language list is now known

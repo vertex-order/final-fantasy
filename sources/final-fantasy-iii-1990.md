@@ -112,4 +112,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 - http://an.sqexm.net/sp/site/Page/sqmk/FF3/top -- Final Fantasy III (3D Remake) on Square Enix Market, Japan only, labelled as the 3D remake on the title list of 2023-02-04 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20230204080504/http://an.sqexm.net/sp/site/Page/sqmk/FF3/top (page not read; URL given by user)
   - The store is described in final-fantasy-franchise.md
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone)
+
+- http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists III, release 2011.03.24; for iPad 2011.04.21 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
+  - The iPad version's detail page was read too
+- http://dlgames.square-enix.com/na/ipod/2011/ff3/ -- the iPhone / iPod touch detail page, Platform iPhone / iPod touch -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20110410131825/http://dlgames.square-enix.com/na/ipod/2011/ff3/ (capture of 2011-04-10; text pasted by user)
+
 ## Decisions

@@ -129,4 +129,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 - http://an.sqexm.net/sp/site/Page/sqmk/ff4/top -- Final Fantasy IV (3D Remake) on Square Enix Market, Japan only, labelled as the 3D remake on the title list of 2023-02-04 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20230204080504/http://an.sqexm.net/sp/site/Page/sqmk/ff4/top (page not read; URL given by user)
   - The store is described in final-fantasy-franchise.md
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone)
+
+- http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists IV, release 2012.12.20 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
+  - The menu link leaves /na/; detail page not read
+
 ## Decisions

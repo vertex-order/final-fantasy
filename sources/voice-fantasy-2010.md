@@ -26,4 +26,9 @@
 - http://dlgames.square-enix.com/voicefantasy/ -- official site -- accessed 2026-10-25 (read by the user)
   - Does not link the App Store page
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone)
+
+- http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists Voice Fantasy, release 2010.11.01 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
+  - Detail page read: Platform iPhone / iPod touch
+
 ## Decisions

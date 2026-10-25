@@ -49,4 +49,9 @@
   - earlier captures are Flash and load nothing
   - 2018-10-15 redirects to theatrhythm.square-enix-games.com; 2020-12-04 redirects to the Curtain Call page on square-enix-games.com, "Available on Nintendo 3DS"
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone)
+
+- http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists THEATRHYTHM, release 2012.12.13 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
+  - The menu link leaves /na/; detail page not read
+
 ## Decisions
