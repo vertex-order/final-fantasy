@@ -30,4 +30,13 @@
     - https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-C0EX04SET0000000 -- PlayStation Store link, listed 2021-11-19 to 2024-10-07 -- link recorded only -- archived: https://web.archive.org/web/20211119031606/https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-C0EX04SET0000000 (last listing: https://web.archive.org/web/20240925012046/https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-C0EX04SET0000000)
     - https://jp.finalfantasyxiv.com/endwalker/ -- 公式サイト link, listed 2021-11-19 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20211119031606/https://jp.finalfantasyxiv.com/endwalker/
 
+## jp.square-enix.com (Publisher; Japan, PS5 list, captures of 2021-06-26 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 5 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: https://www.jp.square-enix.com/game/?pf=33; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: プレイステーション5 (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - ファイナルファンタジーXIV: 暁月のフィナーレ; MMORPG(オンラインゲーム); first listed 2021-06-26: release 2021.11.23; icons: オンライン専用, ダウンロード; CERO: 審査予定; changes: 2022-09-17: release 2021.11.23 to 2021.12.07; CERO: 審査予定 to CERO C; listed in every capture from 2021-06-26 to live (2026-10-26)
+    - https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-C0EX04SET0000000 -- PlayStation Store link, listed 2021-06-26 to 2024-10-09 -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-C0EX04SET0000000 (last listing: https://web.archive.org/web/20240925012046/https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-C0EX04SET0000000)
+    - https://jp.finalfantasyxiv.com/endwalker/ -- 公式サイト link, listed 2021-06-26 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://jp.finalfantasyxiv.com/endwalker/
+
 ## Decisions

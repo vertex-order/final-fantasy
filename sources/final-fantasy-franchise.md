@@ -236,6 +236,13 @@
 - the same list, capture of 2025-10-17: https://web.archive.org/web/20251017110549/https://www.jp.square-enix.com/game/?pf=1 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
 - the same list, capture of 2026-10-17: https://web.archive.org/web/20261017121812/https://www.jp.square-enix.com/game/?pf=1 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
 - the same list, live page of 2026-10-26: https://www.jp.square-enix.com/game/?pf=1 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- https://www.jp.square-enix.com/game/?pf=33 -- the PlayStation 5 list (one of the "By model" lists, platform filter ?pf=33), capture of 2021-06-26: https://web.archive.org/web/20210626221128/https://www.jp.square-enix.com/game/?pf=33 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2022-09-17: https://web.archive.org/web/20220917052837/https://www.jp.square-enix.com/game/?pf=33 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2023-11-13: https://web.archive.org/web/20231113020837/https://www.jp.square-enix.com/game/?pf=33 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2024-10-09: https://web.archive.org/web/20241009154230/https://www.jp.square-enix.com/game/?pf=33 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2025-09-25: https://web.archive.org/web/20250925101946/https://www.jp.square-enix.com/game/?pf=33 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2026-10-01: https://web.archive.org/web/20261001230959/https://www.jp.square-enix.com/game/?pf=33 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, live page of 2026-10-26: https://www.jp.square-enix.com/game/?pf=33 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 

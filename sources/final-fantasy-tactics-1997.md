@@ -254,6 +254,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
     - https://www.jp.square-enix.com/fft_tic/ -- 公式サイト link, listed 2025-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20251107123723/https://www.jp.square-enix.com/fft_tic/
     - https://store.jp.square-enix.com/estore/g/gPLJM-17445/ -- e-STOREで購入 link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store.jp.square-enix.com/estore/g/gPLJM-17445/
 
+## jp.square-enix.com (Publisher; Japan, PS5 list, captures of 2025-09-25 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 5 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: https://www.jp.square-enix.com/game/?pf=33; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: プレイステーション5 (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - ファイナルファンタジータクティクス - イヴァリース クロニクルズ; タクティカルRPG; first listed 2025-09-25: release 2025.09.30; icons: パッケージ, ダウンロード; CERO C; listed in every capture from 2025-09-25 to live (2026-10-26)
+    - https://store.jp.square-enix.com/sp/fft_tic/index.html -- e-STOREで予約 link, listed 2025-09-25 -- link recorded only -- archived: https://web.archive.org/web/20250925101854/https://store.jp.square-enix.com/sp/fft_tic/index.html
+    - https://store.playstation.com/ja-jp/concept/10008527/ -- PlayStation Store link, listed 2025-09-25 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20250925101854/https://store.playstation.com/ja-jp/concept/10008527/
+    - https://www.jp.square-enix.com/fft_tic/ -- 公式サイト link, listed 2025-09-25 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20250925101854/https://www.jp.square-enix.com/fft_tic/
+    - https://store.jp.square-enix.com/estore/g/gELJM-30730/ -- e-STOREで購入 link, listed 2026-10-01 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store.jp.square-enix.com/estore/g/gELJM-30730/
+
 ## Decisions
 
 

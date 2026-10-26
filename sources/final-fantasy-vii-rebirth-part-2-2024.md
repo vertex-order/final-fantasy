@@ -49,4 +49,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_versi
 
 - https://www.xbox.com/games/store/final-fantasy-vii-rebirth/9np9f7wwkrp1
 
+## jp.square-enix.com (Publisher; Japan, PS5 list, captures of 2022-09-17 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 5 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: https://www.jp.square-enix.com/game/?pf=33; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: プレイステーション5 (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - ファイナルファンタジーVII リバース; RPG; first listed 2022-09-17: release 来冬予定; icons: none; CERO: 審査予定; changes: 2023-11-13: release 来冬予定 to 2024.02.29予定; icons none to パッケージ, ダウンロード / 2024-10-09: release 2024.02.29予定 to 2024.02.29; CERO: 審査予定 to CERO C; listed in every capture from 2022-09-17 to live (2026-10-26)
+    - https://www.jp.square-enix.com/ffvii_rebirth/ -- 公式サイト link, listed 2022-09-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20220917052709/https://www.jp.square-enix.com/ffvii_rebirth/
+    - https://store.jp.square-enix.com/sp/ffvii_rebirth/index.html -- e-STOREで予約 link, listed 2023-11-13 -- link recorded only -- archived: https://web.archive.org/web/20231113020627/https://store.jp.square-enix.com/sp/ffvii_rebirth/index.html
+    - https://store.playstation.com/ja-jp/product/JP0082-PPSA08664_00-0783148264580163 -- PlayStation Store link, listed 2023-11-13 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20231113020627/https://store.playstation.com/ja-jp/product/JP0082-PPSA08664_00-0783148264580163
+    - https://store.jp.square-enix.com/item/ELJM_30394.html -- e-STOREで購入 link, listed 2024-10-09 to 2025-09-25 -- link recorded only -- archived: https://web.archive.org/web/20240925012046/https://store.jp.square-enix.com/item/ELJM_30394.html (last listing: https://web.archive.org/web/20250925101854/https://store.jp.square-enix.com/item/ELJM_30394.html)
+    - https://store.jp.square-enix.com/estore/g/gELJM-30908/ -- e-STOREで購入 link, listed 2026-10-01 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store.jp.square-enix.com/estore/g/gELJM-30908/
+
 ## Decisions

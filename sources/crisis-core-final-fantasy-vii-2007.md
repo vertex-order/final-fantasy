@@ -90,4 +90,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
     - https://store.playstation.com/ja-jp/product/JP0082-PPSA07807_00-CRISISCORE000000 -- PlayStation Store link, listed 2022-12-25 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20221214022351/https://store.playstation.com/ja-jp/product/JP0082-PPSA07807_00-CRISISCORE000000
     - https://store.jp.square-enix.com/estore/g/gPLJM-17065/ -- e-STOREで購入 link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store.jp.square-enix.com/estore/g/gPLJM-17065/
 
+## jp.square-enix.com (Publisher; Japan, PS5 list, captures of 2022-09-17 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 5 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: https://www.jp.square-enix.com/game/?pf=33; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: プレイステーション5 (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - クライシス コア -ファイナルファンタジーVII- リユニオン; アクションRPG; first listed 2022-09-17: release 2022.12.13予定; icons: パッケージ, ダウンロード; CERO C; changes: 2023-11-13: release 2022.12.13予定 to 2022.12.13; listed in every capture from 2022-09-17 to live (2026-10-26)
+    - https://store.jp.square-enix.com/sp/ccffvii_reunion/index.html -- e-STOREで予約 link, listed 2022-09-17 -- link recorded only -- archived: https://web.archive.org/web/20220917052709/https://store.jp.square-enix.com/sp/ccffvii_reunion/index.html
+    - https://store.playstation.com/ja-jp/product/JP0082-PPSA07807_00-CRISISCORE000000 -- PlayStation Store link, listed 2022-09-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20220917052709/https://store.playstation.com/ja-jp/product/JP0082-PPSA07807_00-CRISISCORE000000
+    - https://www.jp.square-enix.com/ccffvii_reunion/ -- 公式サイト link, listed 2022-09-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20220917052709/https://www.jp.square-enix.com/ccffvii_reunion/
+    - https://store.jp.square-enix.com/item/ELJM_30165.html -- e-STOREで購入 link, listed 2023-11-13 to 2025-09-25 -- link recorded only -- archived: https://web.archive.org/web/20231113020627/https://store.jp.square-enix.com/item/ELJM_30165.html (last listing: https://web.archive.org/web/20250925101854/https://store.jp.square-enix.com/item/ELJM_30165.html)
+
 ## Decisions

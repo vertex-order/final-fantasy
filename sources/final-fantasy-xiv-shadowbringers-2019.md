@@ -32,4 +32,13 @@
     - https://jp.finalfantasyxiv.com/shadowbringers/ -- 公式サイト link, listed 2019-09-18 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://jp.finalfantasyxiv.com/shadowbringers/
     - https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-SHADOWBRINGERSSE -- PlayStation Store link, listed 2021-11-19 -- link recorded only -- archived: https://web.archive.org/web/20211119031606/https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-SHADOWBRINGERSSE
 
+## jp.square-enix.com (Publisher; Japan, PS5 list, captures of 2021-06-26 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 5 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: https://www.jp.square-enix.com/game/?pf=33; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: プレイステーション5 (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - ファイナルファンタジーXIV: 漆黒のヴィランズ; MMORPG(オンラインゲーム); first listed 2021-06-26: release 2021.05.25; icons: オンライン専用, ダウンロード; CERO C; listed in every capture from 2021-06-26 to live (2026-10-26)
+    - https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-SHADOWBRINGERSSE -- PlayStation Store link, listed 2021-06-26 -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-SHADOWBRINGERSSE
+    - https://jp.finalfantasyxiv.com/shadowbringers/ -- 公式サイト link, listed 2021-06-26 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://jp.finalfantasyxiv.com/shadowbringers/
+
 ## Decisions

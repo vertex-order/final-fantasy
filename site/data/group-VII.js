@@ -388,7 +388,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/4354570/FINAL_FANTASY_VII_REVELATION/' },
         { key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/final-fantasy-vii-revelation' },
         { key: 'nintendo-switch-2', paren: 'Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-vii-revelation-switch-2/' },
-        { key: 'playstation5', paren: 'Pro Enhanced; Digital', url: 'https://store.playstation.com/concept/10018084' },
+        { key: 'playstation5', paren: 'Pro Enhanced; Physical; Digital', url: 'https://store.playstation.com/concept/10018084' },
         { key: 'xbox-xs', url: 'https://www.xbox.com/games/store/final-fantasy-vii-revelation/9pf6cf5ctzs3' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy VII: Revelation', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy VII: Revelation', noResults: true },

@@ -104,4 +104,18 @@
     - https://store.playstation.com/#!/ja-jp/cid=JP0082-CUSA00301_00-FFXIVARRPS4000SE -- PlayStation Store link, listed 2019-09-18 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://store.playstation.com/#!/ja-jp/cid=JP0082-CUSA00301_00-FFXIVARRPS4000SE
     - https://jp.finalfantasyxiv.com/ -- 公式サイト link, listed 2019-09-18 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://jp.finalfantasyxiv.com/
 
+## jp.square-enix.com (Publisher; Japan, PS5 list, captures of 2021-06-26 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 5 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: https://www.jp.square-enix.com/game/?pf=33; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: プレイステーション5 (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - ファイナルファンタジーXIV コンプリートパック; MMORPG(オンラインゲーム); first listed 2021-06-26: release 2021.05.25; icons: オンライン専用, ダウンロード; CERO C; changes: 2022-09-17: release 2021.05.25 to 2021.12.07 / 2024-10-09: release 2021.12.07 to 2024.07.02 / 2026-10-01: release 2024.07.02 to 2021.05.25; listed in every capture from 2021-06-26 to live (2026-10-26)
+    - https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-FFXIVCOMPLETESTA -- PlayStation Store link, listed 2021-06-26 -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-FFXIVCOMPLETESTA
+    - https://jp.finalfantasyxiv.com/product/ -- 公式サイト link, listed 2021-06-26 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://jp.finalfantasyxiv.com/product/
+    - https://store.playstation.com/product/JP0082-PPSA02862_00-FFXIVCOMPLETE04S -- PlayStation Store link, listed 2022-09-17 to 2023-11-13 -- link recorded only -- archived: https://web.archive.org/web/20220917052709/https://store.playstation.com/product/JP0082-PPSA02862_00-FFXIVCOMPLETE04S (last listing: https://web.archive.org/web/20231113020627/https://store.playstation.com/product/JP0082-PPSA02862_00-FFXIVCOMPLETE04S)
+    - https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-FFXIVCOMPLETE05S/ -- PlayStation Store link, listed 2024-10-09 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20240925012046/https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-FFXIVCOMPLETE05S/
+  - ファイナルファンタジーXIV スターターパック; MMORPG(オンラインゲーム); first listed 2021-06-26: release 2021.05.25; icons: オンライン専用, ダウンロード; CERO C; changes: 2026-10-01: CERO C to CERO D; listed in every capture from 2021-06-26 to live (2026-10-26)
+    - https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-FFXIVONLPS5000SE -- PlayStation Store link, listed 2021-06-26 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-FFXIVONLPS5000SE
+    - https://jp.finalfantasyxiv.com/ -- 公式サイト link, listed 2021-06-26 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://jp.finalfantasyxiv.com/
+
 ## Decisions

@@ -24,7 +24,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
         { key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-resonance/9nncprh9vwg4' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/3259780/FINAL_FANTASY_RESONANCE/' },
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-resonance/9nncprh9vwg4' },
-        { key: 'playstation5', paren: 'Digital', url: 'https://store.playstation.com/product/JP0082-PPSA31544_00-FFRSSTDWW0000000' },
+        { key: 'playstation5', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/JP0082-PPSA31544_00-FFRSSTDWW0000000' },
         {
           key: 'nintendo-switch-2',
           paren: 'Physical; Digital; Switch compatibility',

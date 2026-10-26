@@ -31,4 +31,14 @@
 
 - https://www.xbox.com/games/store/final-fantasy-resonance/9nncprh9vwg4
 
+## jp.square-enix.com (Publisher; Japan, PS5 list, captures of 2026-10-01 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 5 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: https://www.jp.square-enix.com/game/?pf=33; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: プレイステーション5 (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - ファイナルファンタジー レゾナンス; RPG; first listed 2026-10-01: release 2026.10.22予定; icons: パッケージ, ダウンロード; CERO C; changes: live (2026-10-26): release 2026.10.22予定 to 2026.10.22; listed in every capture from 2026-10-01 to live (2026-10-26)
+    - https://store.jp.square-enix.com/estore/pages/sp_ffrs.aspx -- e-STOREで予約 / e-STOREで購入 link, listed 2026-10-01 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store.jp.square-enix.com/estore/pages/sp_ffrs.aspx
+    - https://store.playstation.com/ja-jp/concept/10015961 -- PlayStation Store link, listed 2026-10-01 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store.playstation.com/ja-jp/concept/10015961
+    - https://www.jp.square-enix.com/FFRS/ -- 公式サイト link, listed 2026-10-01 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://www.jp.square-enix.com/FFRS/
+
 ## Decisions
