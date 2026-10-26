@@ -216,7 +216,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation3' },
+            { key: 'playstation3', paren: 'Physical; Digital' },
             { key: 'xbox-360' },
             { key: 'xbox-one', paren: '360 compatibility' },
             { key: 'xbox-xs', paren: '360 compatibility' },
@@ -330,7 +330,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation3' },
+            { key: 'playstation3', paren: 'Physical; Digital' },
             { key: 'xbox-360' },
           ],
           versionDesc: [

@@ -91,4 +91,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
 - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Lightning Returns: Final Fantasy XIII links the pages below; the PlayStation Store link and the Final Fantasy XIII portal link are no longer listed -- accessed 2026-10-25
   - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/lrff13/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
+## jp.square-enix.com (Publisher; Japan, PS3 list, captures of 2012-10-06 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 3 game list -- saved pages of each capture read by me, the 2015-04-10 capture from the text pasted by user; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: 2012-10-06 to 2018-05-24 http://www.jp.square-enix.com/game/ps3/ (2016-05-12 is the English-language page, 2017-06-06 the Japanese-language page); 2019-10-29 to live https://www.jp.square-enix.com/game/?pf=99,2; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in the franchise sources file (sources/final-fantasy-franchise.md in the final-fantasy repo)
+  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou; Game Archives = the text label on the 2015-04-10 capture; from 2019-10-29 the labels パッケージ (disc), ダウンロード and オンライン専用 are shown as text; "none" = no icon (not stated). CERO ratings are shown as text from 2025-02-17. The 2016-05-12 capture's release and genre text was not read.
+  - Items appear only in the captures listed after "listed:"; the 2015-12-08 to 2018-05-24 captures show a short list (recent releases only).
+  - ライトニング リターンズ ファイナルファンタジーXIII; RPG; first listed 2012-10-06: release 2013年予定; icons: none; changes: 2013-10-20: release 2013年予定 to 2013.11.21発売予定, icons none to ダウンロード対応 / 2014-11-27: release 2013.11.21発売予定 to 2013.11.21 / 2025-02-17: CERO C first shown; listed: 2012-10-06 to 2015-04-10; 2019-10-29 to live (2026-10-26)
+
 ## Decisions

@@ -385,6 +385,18 @@
     - https://store.jp.square-enix.com/item/PLJM_16380.html -- e-STOREで購入 link, listed 2019-09-18 to 2021-11-19 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://store.jp.square-enix.com/item/PLJM_16380.html (last listing: https://web.archive.org/web/20211119031606/https://store.jp.square-enix.com/item/PLJM_16380.html)
     - https://store.playstation.com/ja-jp/product/JP0082-CUSA14078_00-CHOCOBOSDUNGEONE -- PlayStation Store link, listed 2019-09-18 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://store.playstation.com/ja-jp/product/JP0082-CUSA14078_00-CHOCOBOSDUNGEONE
 
+## jp.square-enix.com (Publisher; Japan, PS3 list, captures of 2012-10-06 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 3 game list -- saved pages of each capture read by me, the 2015-04-10 capture from the text pasted by user; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: 2012-10-06 to 2018-05-24 http://www.jp.square-enix.com/game/ps3/ (2016-05-12 is the English-language page, 2017-06-06 the Japanese-language page); 2019-10-29 to live https://www.jp.square-enix.com/game/?pf=99,2; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in the franchise sources file (sources/final-fantasy-franchise.md in the final-fantasy repo)
+  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou; Game Archives = the text label on the 2015-04-10 capture; from 2019-10-29 the labels パッケージ (disc), ダウンロード and オンライン専用 are shown as text; "none" = no icon (not stated). CERO ratings are shown as text from 2025-02-17. The 2016-05-12 capture's release and genre text was not read.
+  - Items appear only in the captures listed after "listed:"; the 2015-12-08 to 2018-05-24 captures show a short list (recent releases only).
+  - ダイスDEチョコボ（ゲームアーカイブス）; ボードゲーム; first listed 2015-04-10: release 2008.07.23; icons: Game Archives (PS3/PSP/PSV); changes: 2019-10-29: note ※2012.08.28からPlayStation Vitaに対応 to ※none / 2025-02-17: CERO A first shown; listed: 2015-04-10; 2019-10-29 to live (2026-10-26)
+  - チョコボレーシング ～幻界へのロード～（ゲームアーカイブス）; レース; first listed 2015-04-10: release 2009.02.10; icons: Game Archives (PS3/PSP/PSV); changes: 2019-10-29: note ※2012.08.28からPlayStation Vitaに対応 to ※none / 2025-02-17: CERO A first shown; listed: 2015-04-10; 2019-10-29 to live (2026-10-26)
+  - チョコボスタリオン（ゲームアーカイブス）; 育成シミュレーション; first listed 2015-04-10: release 2008.07.23; icons: Game Archives (PS3/PSP/PSV); changes: 2019-10-29: note ※2012.08.28からPlayStation Vitaに対応 to ※none / 2025-02-17: CERO A first shown; listed: 2015-04-10; 2019-10-29 to live (2026-10-26)
+  - チョコボの不思議なダンジョン（ゲームアーカイブス）; RPG; first listed 2015-04-10: release 2010.08.25; icons: Game Archives (PS3/PSP/PSV); changes: 2019-10-29: note ※2012.08.28からPlayStation Vitaに対応 to ※none / 2025-02-17: CERO A first shown; listed: 2015-04-10; 2019-10-29 to live (2026-10-26)
+  - チョコボの不思議なダンジョン２（ゲームアーカイブス）; RPG; first listed 2015-04-10: release 2010.10.27; icons: Game Archives (PS3/PSP/PSV); changes: 2019-10-29: note ※2012.08.28からPlayStation Vitaに対応 to ※none / 2025-02-17: CERO A first shown; listed: 2015-04-10; 2019-10-29 to live (2026-10-26)
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

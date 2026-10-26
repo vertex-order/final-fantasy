@@ -173,4 +173,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
     - https://store.playstation.com/#!/ja-jp/cid=JP0082-CUSA08836_00-FF9FORPS42017000 -- PlayStation Store link, listed 2019-09-18 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://store.playstation.com/#!/ja-jp/cid=JP0082-CUSA08836_00-FF9FORPS42017000
     - https://www.jp.square-enix.com/game/detail/ff9/ -- 商品詳細 link, listed 2019-09-18 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20190918234142mp_/https://www.jp.square-enix.com/game/detail/ff9/
 
+## jp.square-enix.com (Publisher; Japan, PS3 list, captures of 2012-10-06 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 3 game list -- saved pages of each capture read by me, the 2015-04-10 capture from the text pasted by user; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: 2012-10-06 to 2018-05-24 http://www.jp.square-enix.com/game/ps3/ (2016-05-12 is the English-language page, 2017-06-06 the Japanese-language page); 2019-10-29 to live https://www.jp.square-enix.com/game/?pf=99,2; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in the franchise sources file (sources/final-fantasy-franchise.md in the final-fantasy repo)
+  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou; Game Archives = the text label on the 2015-04-10 capture; from 2019-10-29 the labels パッケージ (disc), ダウンロード and オンライン専用 are shown as text; "none" = no icon (not stated). CERO ratings are shown as text from 2025-02-17. The 2016-05-12 capture's release and genre text was not read.
+  - Items appear only in the captures listed after "listed:"; the 2015-12-08 to 2018-05-24 captures show a short list (recent releases only).
+  - ファイナルファンタジーIX（ゲームアーカイブス）; RPG; first listed 2015-04-10: release 2010.05.20; icons: Game Archives (PS3/PSP/PSV); changes: 2019-10-29: note ※2012.08.28からPlayStation Vitaに対応 to ※none / 2025-02-17: CERO A first shown; listed: 2015-04-10; 2019-10-29 to live (2026-10-26)
+
 ## Decisions
