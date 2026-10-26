@@ -134,6 +134,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
 - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy II (Game Archives) links the pages below; the PlayStation Store link is no longer listed and so is the "Wii VC ended" mark -- accessed 2026-10-25
   - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/ff2/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone, Japan)
+
+- http://dlgames.square-enix.com/jp/ipod -- the Japanese "iPod / iPhone" menu, capture of 2011-07-14: ファイナルファンタジーII, RPG, release 2010.02.25; links http://dlgames.square-enix.com/jp/ipod/2010/ff2/ and http://dlgames.square-enix.com/ff/ -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20110714025513/http://dlgames.square-enix.com/jp/ipod/
+  - Capture of 2012-10-20: same title, genre, release and links -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20121020050826/http://dlgames.square-enix.com/jp/ipod/
+  - Capture of 2009-12-26: the title is not listed (five apps, release 2008.12.23 to 2009.12.03) -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20091226172251/http://dlgames.square-enix.com/jp/ipod/
+- http://dlgames.square-enix.com/jp/ipod/2010/ff2/ -- the detail page, last status-200 capture 2011-10-25 (the index lists captures from 2010-04-07): ファイナルファンタジーII; RPG; 1 player; Platform iPhone / iPod touch; release 2010.02.25; touch-screen controls; includes the two EX dungeons added in earlier ports, ソウル・オブ・リバース and 秘紋の迷宮; (C) 1988, 2010; links the official site http://dlgames.square-enix.com/ff/ and, as the related title, http://dlgames.square-enix.com/jp/ipod/2010/ff1/ -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20111025121948/http://dlgames.square-enix.com/jp/ipod/2010/ff2/
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

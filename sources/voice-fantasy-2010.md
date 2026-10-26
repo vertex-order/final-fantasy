@@ -31,4 +31,11 @@
 - http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists Voice Fantasy, release 2010.11.01 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
   - Detail page read: Platform iPhone / iPod touch
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone, Japan)
+
+- http://dlgames.square-enix.com/jp/ipod -- the Japanese "iPod / iPhone" menu, capture of 2011-07-14: ボイスファンタジー, パーティゲーム, release 2010.11.01; links http://dlgames.square-enix.com/jp/ipod/2010/voicefantasy/ and http://dlgames.square-enix.com/voicefantasy/ -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20110714025513/http://dlgames.square-enix.com/jp/ipod/
+  - Capture of 2012-10-20: same title, genre, release and links -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20121020050826/http://dlgames.square-enix.com/jp/ipod/
+- http://dlgames.square-enix.com/jp/ipod/2010/voicefantasy/ -- the detail page, last status-200 capture 2011-10-25 (the index lists captures from 2011-01-11): ボイスファンタジー; party game; 1 to 2 players; Platform iPhone / iPod touch; release 2010.11.01; devices: supported iPhone (3G, 3GS, 4), iPad and iPod touch (4th generation); iPod touch (2nd, 3rd) needs a microphone; iPhone (1st) and iPod touch (1st) not supported; you record a voice and the app summons a character from it, with single match, tag match and a fight against the Demon Lord's army; (C) 2010 -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20111025220800/http://dlgames.square-enix.com/jp/ipod/2010/voicefantasy/
+- http://dlgames.square-enix.com/voicefantasy/ -- the official site linked from the menu and the detail page, capture of 2011-07-16: title VOICE FANTASY | SQUARE ENIX; a language choice, Japanese (index-jp.html) or English (index-eng.html) -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20110716122946/http://dlgames.square-enix.com/voicefantasy/
+
 ## Decisions

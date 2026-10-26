@@ -201,6 +201,9 @@
 - http://dlgames.square-enix.com/jp/xboxlivearcade/ -- "Xbox LIVE アーケード" menu, capture of 2009-12-25: https://web.archive.org/web/20091225145920/http://dlgames.square-enix.com/jp/xboxlivearcade/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
   - Capture of 2011-04-30: https://web.archive.org/web/20110430151451/http://dlgames.square-enix.com/jp/xboxlivearcade/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
   - Capture of 2012-05-01: https://web.archive.org/web/20120501044222/http://dlgames.square-enix.com/jp/xboxlivearcade/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- http://dlgames.square-enix.com/jp/ipod -- "iPod / iPhone" menu (titled iPod/iPhone/iPad from 2011), capture of 2009-12-26: https://web.archive.org/web/20091226172251/http://dlgames.square-enix.com/jp/ipod/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2011-07-14: https://web.archive.org/web/20110714025513/http://dlgames.square-enix.com/jp/ipod/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2012-10-20: https://web.archive.org/web/20121020050826/http://dlgames.square-enix.com/jp/ipod/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
 
 ## jp.square-enix.com (Publisher; Square Enix Japan game list)
 

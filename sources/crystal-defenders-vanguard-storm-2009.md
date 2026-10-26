@@ -35,5 +35,12 @@
 - http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists VANGUARD STORM, release 2009.05.13 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
   - Detail page read: Platform iPhone / iPod touch
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone, Japan)
+
+- http://dlgames.square-enix.com/jp/ipod -- the Japanese "iPod / iPhone" menu, capture of 2009-12-26: クリスタル・ディフェンダーズ　ヴァンガード・ストーム, ディフェンス・シミュレーション, release 2009.05.13; links only the official site http://www.cd-vanguardstorm.com/ -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20091226172251/http://dlgames.square-enix.com/jp/ipod/
+  - Captures of 2011-07-14 and 2012-10-20: same title, genre and release, also linking the detail page http://dlgames.square-enix.com/jp/ipod/2009/cd-vanguardstorm/ -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20110714025513/http://dlgames.square-enix.com/jp/ipod/ and https://web.archive.org/web/20121020050826/http://dlgames.square-enix.com/jp/ipod/
+- http://dlgames.square-enix.com/jp/ipod/2009/cd-vanguardstorm/ -- the detail page, last status-200 capture 2011-10-25 (the index lists captures from 2010-04-07): ディフェンス・シミュレーション; 1 player; hardware iPod / iPhone; release 2009.05.13; a new type of defense simulation where lined-up monsters are held at the front by job characters from Final Fantasy Tactics A2, with support jobs such as White Mage and Bishop; real-time play; (C) 2009; illustrations by Ryoma Ito; links the official site http://www.cd-vanguardstorm.com/ -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20111025220659/http://dlgames.square-enix.com/jp/ipod/2009/cd-vanguardstorm/
+- http://www.cd-vanguardstorm.com/ -- the official site, captures of 2009-12-25 and 2011-07-08 (read the same): title CRYSTAL DEFENDERS Vanguard Storm; Japanese (jp/index.html) and English (en/index.html) pages; a banner to http://www.crystaldefenders.jp/ and a banner to the App Store page http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=313457759&mt=8; (C) 2009, illustrations by Ryoma Ito -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20091225081254/http://www.cd-vanguardstorm.com/
+
 ## Decisions
 - Help wanted removed (user, 2026-10-20): the language list is now known

@@ -354,6 +354,13 @@
   - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/chocobostallion/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
   - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/dicedechocobo/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone, Japan)
+
+- http://dlgames.square-enix.com/jp/ipod -- the Japanese "iPod / iPhone" menu, capture of 2011-07-14: チョコボパニック, パーティゲーム, release 2010.05.28; links only the detail page http://dlgames.square-enix.com/jp/ipod/2010/chocobopanic/ (no official site) -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20110714025513/http://dlgames.square-enix.com/jp/ipod/
+  - Capture of 2012-10-20: same title, genre, release and link -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20121020050826/http://dlgames.square-enix.com/jp/ipod/
+  - Capture of 2009-12-26: the title is not listed (five apps, release 2008.12.23 to 2009.12.03) -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20091226172251/http://dlgames.square-enix.com/jp/ipod/
+- http://dlgames.square-enix.com/jp/ipod/2010/chocobopanic/ -- the detail page, last status-200 capture 2017-06-09 (the index lists captures from 2010-06-05): チョコボパニック; party game; 1 to 6 players; Platform iPad; release 2010.05.28; catch the coloured chocobos on the screen as told and keep the finger down until the "release" instruction; a 1-player and co-op mode and a 2-player versus mode on one iPad; (C) 2010; no official-site link -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20170609115940/http://dlgames.square-enix.com/jp/ipod/2010/chocobopanic/
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.
