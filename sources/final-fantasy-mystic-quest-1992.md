@@ -28,4 +28,9 @@
 - http://dlgames.square-enix.com/na/vc/2010/mystic_quest/ -- the Virtual Console detail page: the Wii row* and its Wii U compatibility row* -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260510205916/http://dlgames.square-enix.com/na/vc/2010/mystic_quest/
   - FINAL FANTASY Mystic Quest ((C) 1992, 1993); Platform: Wii; Price 800 Wii Points; ESRB E Mild Fantasy Violence; 1 player; release date 2010.10.18
 
+## dlgames.square-enix.com (Platform; Virtual Console, Japan, menu captures of 2010-03-28, 2011-05-13 and 2012-05-14)
+
+- http://dlgames.square-enix.com/jp/vc/ -- the Japanese Virtual Console (バーチャルコンソール) menu, saved pages read by me: ファイナルファンタジーUSA ミスティッククエスト; genre RPG; release 2010.12.21; listed in the captures of 2011-05-13 and 2012-05-14 (absent from 2010-03-28); links http://dlgames.square-enix.com/jp/vc/2010/mystic_quest/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/
+  - the captures' own links to the detail page: https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/2010/mystic_quest/, https://web.archive.org/web/20120514024939/http://dlgames.square-enix.com/jp/vc/2010/mystic_quest/ -- accessed 2026-10-25 -- link recorded only
+
 ## Decisions

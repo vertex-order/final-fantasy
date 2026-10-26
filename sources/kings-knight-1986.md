@@ -73,6 +73,11 @@ web.archive.org (Information, archived pages of the remake's dead official pages
   - the Google Play page, KING'S KNIGHT, Square Enix, updated September 28, 2017, Teen, 3.4 of 397 ratings, 10,000 to 50,000 installs, Android 4.4 and up, version 2.1.2
   - The Android language list was not shown; Japanese is likely (the game was announced for Japan first) but not confirmed, so the entry keeps its unknown-languages marker beside English
 
+dlgames.square-enix.com (Platform; Virtual Console, Japan, menu captures of 2010-03-28, 2011-05-13 and 2012-05-14)
+
+- http://dlgames.square-enix.com/jp/vc/ -- the Japanese Virtual Console (バーチャルコンソール) menu, saved pages read by me: キングスナイト; genre フォーメーションRPG; release 2007.11.27; listed in all three captures; links http://dlgames.square-enix.com/jp/vc/2007/kingsknight/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/
+  - the captures' own links to the detail page: https://web.archive.org/web/20100328070952/http://dlgames.square-enix.com/jp/vc/2007/kingsknight/, https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/2007/kingsknight/, https://web.archive.org/web/20120514024939/http://dlgames.square-enix.com/jp/vc/2007/kingsknight/ -- accessed 2026-10-25 -- link recorded only
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

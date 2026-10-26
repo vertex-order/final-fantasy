@@ -52,6 +52,6 @@
 ## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone)
 
 - http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists THEATRHYTHM, release 2012.12.13 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
-  - The menu link leaves /na/; detail page not read
+  - The menu link leaves /na/; link recorded only
 
 ## Decisions

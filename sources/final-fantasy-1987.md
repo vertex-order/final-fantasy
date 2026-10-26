@@ -253,6 +253,11 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - Capture of 2009-12-26: the title is not listed (five apps, release 2008.12.23 to 2009.12.03) -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20091226172251/http://dlgames.square-enix.com/jp/ipod/
 - http://dlgames.square-enix.com/jp/ipod/2010/ff1/ -- the detail page, last status-200 capture 2011-12-25 (the index lists captures from 2010-04-07): ファイナルファンタジー; RPG; 1 player; Platform iPhone / iPod touch; release 2010.02.25; touch-screen controls; includes the two EX dungeons added in earlier ports, ソウル・オブ・カオス and 時の迷宮; (C) 1987, 2010; links the official site http://dlgames.square-enix.com/ff/ and, as the related title, http://dlgames.square-enix.com/jp/ipod/2010/ff2/ -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20111225035004/http://dlgames.square-enix.com/jp/ipod/2010/ff1/
 
+## dlgames.square-enix.com (Platform; Virtual Console, Japan, menu captures of 2010-03-28, 2011-05-13 and 2012-05-14)
+
+- http://dlgames.square-enix.com/jp/vc/ -- the Japanese Virtual Console (バーチャルコンソール) menu, saved pages read by me: ファイナルファンタジー; genre RPG; release 2009.05.26; listed in all three captures; links http://dlgames.square-enix.com/jp/vc/2009/ff1/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/
+  - the captures' own links to the detail page: https://web.archive.org/web/20100328070952/http://dlgames.square-enix.com/jp/vc/2009/ff1/, https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/2009/ff1/, https://web.archive.org/web/20120514024939/http://dlgames.square-enix.com/jp/vc/2009/ff1/ -- accessed 2026-10-25 -- link recorded only
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

@@ -20,7 +20,7 @@
 
 ## jp.square-enix.com (Publisher; Japan)
 
-- https://web.archive.org/web/20160512034938/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2016-05-12 (saved page read by me): Vagrant Story (ベイグラントストーリー), role-playing adventure, release 2009.08.12, "supported PlayStation Vita from 2012.08.28"; links the pages below -- accessed 2026-10-25 (detail page not read)
+- https://web.archive.org/web/20160512034938/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2016-05-12 (saved page read by me): Vagrant Story (ベイグラントストーリー), role-playing adventure, release 2009.08.12, "supported PlayStation Vita from 2012.08.28"; links the pages below -- accessed 2026-10-25 (link recorded only)
   - https://web.archive.org/web/20160512034938/http://dlgames.square-enix.com/jp/psga/2009/vagrantstory/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
       - https://web.archive.org/web/20160420120917/http://dlgames.square-enix.com/jp/psga/2009/vagrantstory/ -- the page's capture of 2016-04-20 (text pasted by user): ベイグラントストーリー; release 2009.8.12 (PS3, PSP) and 2012.08.28 (PS Vita); genre RPG/アドベンチャー; 1 player; CERO B; hardware PlayStation 3, PlayStation Portable, PlayStation Vita; Ashley Riot in the city of レアモンデ
 

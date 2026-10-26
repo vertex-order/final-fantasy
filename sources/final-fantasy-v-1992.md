@@ -116,7 +116,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
 ## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone)
 
 - http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists V, release 2013.03.28 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
-  - The menu link leaves /na/; detail page not read
+  - The menu link leaves /na/; link recorded only
 
 ## dlgames.square-enix.com (Platform; Game Archives, Japan)
 
@@ -143,5 +143,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
     - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/detail/ff5/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy V (Game Archives) links the pages below; the PlayStation Store link is no longer listed and so is the "Wii VC ended" mark -- accessed 2026-10-25
   - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/ff5/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+
+## dlgames.square-enix.com (Platform; Virtual Console, Japan, menu captures of 2010-03-28, 2011-05-13 and 2012-05-14)
+
+- http://dlgames.square-enix.com/jp/vc/ -- the Japanese Virtual Console (バーチャルコンソール) menu, saved pages read by me: ファイナルファンタジーV; genre RPG; release 2011.01.18; listed in the captures of 2011-05-13 and 2012-05-14 (absent from 2010-03-28); links http://dlgames.square-enix.com/jp/vc/2011/ff5/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/
+  - the captures' own links to the detail page: https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/2011/ff5/, https://web.archive.org/web/20120514024939/http://dlgames.square-enix.com/jp/vc/2011/ff5/ -- accessed 2026-10-25 -- link recorded only
 
 ## Decisions

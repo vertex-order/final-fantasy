@@ -207,6 +207,9 @@
 - http://dlgames.square-enix.com/jp/ipod -- "iPod / iPhone" menu (titled iPod/iPhone/iPad from 2011), capture of 2009-12-26: https://web.archive.org/web/20091226172251/http://dlgames.square-enix.com/jp/ipod/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
   - Capture of 2011-07-14: https://web.archive.org/web/20110714025513/http://dlgames.square-enix.com/jp/ipod/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
   - Capture of 2012-10-20: https://web.archive.org/web/20121020050826/http://dlgames.square-enix.com/jp/ipod/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- http://dlgames.square-enix.com/jp/vc/ -- "バーチャルコンソール" menu, capture of 2010-03-28: https://web.archive.org/web/20100328070952/http://dlgames.square-enix.com/jp/vc/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2011-05-13: https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2012-05-14: https://web.archive.org/web/20120514024939/http://dlgames.square-enix.com/jp/vc/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
 
 ## jp.square-enix.com (Publisher; Square Enix Japan game list)
 

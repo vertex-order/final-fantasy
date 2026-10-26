@@ -153,7 +153,7 @@
 
 - http://dlgames.square-enix.com/na/psp_dl/2009/crystaldefenders/ -- the PSP detail page; no Wayback capture, so not read (checked by user, 2026-10-25)
 
-- http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists CRYSTAL DEFENDERS, release 2008.12.23; for iPad 2010.07.01; and Plus, release 2013.02.20 (its link leaves /na/; detail page not read) -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
+- http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists CRYSTAL DEFENDERS, release 2008.12.23; for iPad 2010.07.01; and Plus, release 2013.02.20 (its link leaves /na/; link recorded only) -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
 - http://dlgames.square-enix.com/na/ipod/2008/crystaldefenders/ -- the iPhone / iPod touch detail page: the iOS row's platform and date -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20100818072414/http://dlgames.square-enix.com/na/ipod/2008/crystaldefenders/ (text pasted by user)
   - Platform: iPhone / iPod touch; genre Defensive Simulation; 1 player; release date 2008.12.23
 - http://dlgames.square-enix.com/na/ipod/2010/crystaldefenders_ipad/ -- the iPad detail page: the iPad row's platform and date -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20100719124256/http://dlgames.square-enix.com/na/ipod/2010/crystaldefenders_ipad/ (text pasted by user)
