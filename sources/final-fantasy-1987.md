@@ -224,6 +224,11 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
 - http://dlgames.square-enix.com/jp/psp_dl/2011/ff1/ -- the detail page: PSP download; CERO A; 1 player; graphics redrawn for the PSP, the PlayStation version's opening movie and the Game Boy Advance version's added scenario included, an original added dungeon; (C) 1987, 2007; links the official site and http://dlgames.square-enix.com/jp/psp_dl/2011/ff2/ as the related title -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20111006080227/http://dlgames.square-enix.com/jp/psp_dl/2011/ff1/
 - http://www.square-enix.co.jp/ff20th/ -- the 20th anniversary site (Flash; title ファイナルファンタジー20周年), the detail page's official-site link -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110423180159/http://web.square-enix.co.jp/ff20th/
 
+## dlgames.square-enix.com (Platform; Game Archives, Japan, menu captures of 2010-05-28, 2011-07-27 and 2012-09-25)
+
+- http://dlgames.square-enix.com/jp/psga/ -- the Japanese "PSOne Classics" (ゲームアーカイブス) menu, captures of 2010-05-28, 2011-07-27 and 2012-09-25 (saved pages read by me): ファイナルファンタジー; RPG; release 2009.06.24 in each capture; links http://dlgames.square-enix.com/jp/psga/2009/ff1/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20100528185114/http://dlgames.square-enix.com/jp/psga/, https://web.archive.org/web/20110727071851/http://dlgames.square-enix.com/jp/psga/, https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/
+  - the captures' own links to the detail page: https://web.archive.org/web/20100528185114/http://dlgames.square-enix.com/jp/psga/2009/ff1/, https://web.archive.org/web/20110727071851/http://dlgames.square-enix.com/jp/psga/2009/ff1/, https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/2009/ff1/ -- accessed 2026-10-25 -- shallow: not read at these captures
+
 ## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
 
 - http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/

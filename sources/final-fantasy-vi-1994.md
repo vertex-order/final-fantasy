@@ -123,6 +123,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
 - http://dlgames.square-enix.com/jp/psga/2011/ff6/ -- the Japanese Game Archives detail page: release 2011.04.20 (PS3, PSP) and 2012.08.28 (PS Vita); RPG; 1 player; CERO B; platforms PS3, PSP and PS Vita; an official site is linked -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20170604031906/http://dlgames.square-enix.com/jp/psga/2011/ff6/
 - https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2011/ff6/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)
 
+## dlgames.square-enix.com (Platform; Game Archives, Japan, menu captures of 2010-05-28, 2011-07-27 and 2012-09-25)
+
+- http://dlgames.square-enix.com/jp/psga/ -- the Japanese "PSOne Classics" (ゲームアーカイブス) menu, captures of 2011-07-27 and 2012-09-25 (saved pages read by me): ファイナルファンタジーVI; RPG; release 2011.04.20 in both captures; not in 2010-05-28; links http://dlgames.square-enix.com/jp/psga/2011/ff6/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110727071851/http://dlgames.square-enix.com/jp/psga/, https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/
+  - the captures' own links to the detail page: https://web.archive.org/web/20110727071851/http://dlgames.square-enix.com/jp/psga/2011/ff6/, https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/2011/ff6/ -- accessed 2026-10-25 -- shallow: not read at these captures
+  - http://dlgames.square-enix.com/jp/psga/2011/ff6/ -- the detail page, capture of 2011-07-27 (raw HTML read by me): release 2011.04.20; RPG; 1 player; CERO B (12 and over); hardware PlayStation 3 and PlayStation Portable; (C) 1994, 1999; illustration credit Yoshitaka Amano -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110727071900/http://dlgames.square-enix.com/jp/psga/2011/ff6/
+
 ## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
 
 - http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/

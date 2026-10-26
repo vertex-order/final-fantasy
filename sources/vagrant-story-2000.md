@@ -24,6 +24,12 @@
   - https://web.archive.org/web/20160512034938/http://dlgames.square-enix.com/jp/psga/2009/vagrantstory/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
       - https://web.archive.org/web/20160420120917/http://dlgames.square-enix.com/jp/psga/2009/vagrantstory/ -- the page's capture of 2016-04-20 (text pasted by user): ベイグラントストーリー; release 2009.8.12 (PS3, PSP) and 2012.08.28 (PS Vita); genre RPG/アドベンチャー; 1 player; CERO B; hardware PlayStation 3, PlayStation Portable, PlayStation Vita; Ashley Riot in the city of レアモンデ
 
+## dlgames.square-enix.com (Platform; Game Archives, Japan, menu captures of 2010-05-28, 2011-07-27 and 2012-09-25)
+
+- http://dlgames.square-enix.com/jp/psga/ -- the Japanese "PSOne Classics" (ゲームアーカイブス) menu, captures of 2010-05-28, 2011-07-27 and 2012-09-25 (saved pages read by me): ベイグラントストーリー; RPG/アドベンチャー; release 2009.08.12 in each capture; links http://dlgames.square-enix.com/jp/psga/2009/vagrantstory/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20100528185114/http://dlgames.square-enix.com/jp/psga/, https://web.archive.org/web/20110727071851/http://dlgames.square-enix.com/jp/psga/, https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/
+  - the menu's banner strip (mini02 image) links the detail page in the capture of 2010-05-28
+  - the captures' own links to the detail page: https://web.archive.org/web/20100528185114/http://dlgames.square-enix.com/jp/psga/2009/vagrantstory/, https://web.archive.org/web/20110727071851/http://dlgames.square-enix.com/jp/psga/2009/vagrantstory/, https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/2009/vagrantstory/ -- accessed 2026-10-25 -- shallow: not read at these captures
+
 ## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
 
 - http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/

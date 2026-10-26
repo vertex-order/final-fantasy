@@ -145,6 +145,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 - http://dlgames.square-enix.com/jp/psp_dl/ -- the Japanese PSP download menu, capture of 2012-04-29 (new against 2011-04-29): ファイナルファンタジーIV コンプリートコレクション, RPG, release 2011.03.24; links http://www.square-enix.co.jp/ff4cc/ (no dlgames detail page) -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20120429230553/http://dlgames.square-enix.com/jp/psp_dl/
 - http://www.square-enix.co.jp/ff4cc/ -- the official site, FINAL FANTASY IV Complete Collection -FINAL FANTASY IV & THE AFTER YEARS- (Flash) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120503031039/http://www.square-enix.co.jp/ff4cc/
 
+## dlgames.square-enix.com (Platform; Game Archives, Japan, menu captures of 2010-05-28, 2011-07-27 and 2012-09-25)
+
+- http://dlgames.square-enix.com/jp/psga/ -- the Japanese "PSOne Classics" (ゲームアーカイブス) menu, capture of 2012-09-25 (saved page read by me): ファイナルファンタジーIV; RPG; release 2012.06.27; first listed in this capture, not in 2011-07-27; links http://dlgames.square-enix.com/jp/psga/2012/ff4/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/
+  - the capture's own link to the detail page: https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/2012/ff4/ -- accessed 2026-10-25 -- shallow: not read at this capture
+
 ## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
 
 - http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/

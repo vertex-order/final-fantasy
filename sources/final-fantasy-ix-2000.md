@@ -138,6 +138,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 - http://dlgames.square-enix.com/jp/psga/2010/ff9/ -- the Japanese Game Archives detail page: release 2010.5.20 (PS3, PSP) and 2012.08.28 (PS Vita); RPG; 1 player; CERO A; platforms PS3, PSP and PS Vita -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20170316160605/http://dlgames.square-enix.com/jp/psga/2010/ff9/
 - https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2010/ff9/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)
 
+## dlgames.square-enix.com (Platform; Game Archives, Japan, menu captures of 2010-05-28, 2011-07-27 and 2012-09-25)
+
+- http://dlgames.square-enix.com/jp/psga/ -- the Japanese "PSOne Classics" (ゲームアーカイブス) menu, captures of 2010-05-28, 2011-07-27 and 2012-09-25 (saved pages read by me): ファイナルファンタジーIX; RPG; release 2010.05.20 in each capture; links http://dlgames.square-enix.com/jp/psga/2010/ff9/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20100528185114/http://dlgames.square-enix.com/jp/psga/, https://web.archive.org/web/20110727071851/http://dlgames.square-enix.com/jp/psga/, https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/
+  - the menu's main banner links the detail page in the capture of 2010-05-28; the banner strip (mini02 image) links it in 2011-07-27 and 2012-09-25
+  - the captures' own links to the detail page: https://web.archive.org/web/20100528185114/http://dlgames.square-enix.com/jp/psga/2010/ff9/, https://web.archive.org/web/20110727071851/http://dlgames.square-enix.com/jp/psga/2010/ff9/, https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/2010/ff9/ -- accessed 2026-10-25 -- shallow: not read at these captures
+  - http://dlgames.square-enix.com/jp/psga/2010/ff9/ -- the detail page, capture of 2010-05-25 (raw HTML read by me): release 2010.5.20; RPG; 1 player; CERO A (all ages); hardware PlayStation 3 and PlayStation Portable; (C) 2000; illustration credit Yoshitaka Amano -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20100525075009/http://dlgames.square-enix.com/jp/psga/2010/ff9/
+
 ## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
 
 - http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/
