@@ -20,12 +20,16 @@
 
 ## jp.square-enix.com (Publisher; Japan)
 
-- https://web.archive.org/web/20160512034938/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2016-05-12 (saved page read by me): Vagrant Story (ベイグラントストーリー), role-playing adventure, release 2009.08.12, "supported PlayStation Vita from 2012.08.28"; links the Game Archives detail page http://dlgames.square-enix.com/jp/psga/2009/vagrantstory/ -- accessed 2026-10-25 (detail page not read)
+- https://web.archive.org/web/20160512034938/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2016-05-12 (saved page read by me): Vagrant Story (ベイグラントストーリー), role-playing adventure, release 2009.08.12, "supported PlayStation Vita from 2012.08.28"; links the pages below -- accessed 2026-10-25 (detail page not read)
+  - https://web.archive.org/web/20160512034938/http://dlgames.square-enix.com/jp/psga/2009/vagrantstory/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
 ## jp.square-enix.com (Publisher; Japan, 2019 capture)
 
 - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
-  - Vagrant Story (Game Archives), release 2009.08.12; links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00282_00-0000000000000001, https://www.jp.square-enix.com/game/detail/vagrantstory/
-- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Vagrant Story (Game Archives) links https://www.jp.square-enix.com/game/detail/vagrantstory/; the PlayStation Store link is no longer listed -- accessed 2026-10-25
+  - Vagrant Story (Game Archives), release 2009.08.12; links the pages below
+    - https://web.archive.org/web/20191029171046/https://store.playstation.com/ja-jp/product/JP0082-NPJJ00282_00-0000000000000001 -- the PlayStation Store page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+    - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/detail/vagrantstory/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Vagrant Story (Game Archives) links the pages below; the PlayStation Store link is no longer listed -- accessed 2026-10-25
+  - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/vagrantstory/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
 ## Decisions

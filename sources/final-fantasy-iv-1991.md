@@ -138,11 +138,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 - https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Final Fantasy IV, Game Archives (PS3/PSP/PSV), RPG, release 2012.06.27, "supported PlayStation Vita from 2012.08.28" -- accessed 2026-10-25 (text pasted by user)
 - http://dlgames.square-enix.com/jp/psga/2012/ff4/ -- the Japanese Game Archives detail page: release 2012.06.27 (PS3, PSP) and 2012.08.28 (PS Vita); copyright 1991, 1997; platforms PS3, PSP and PS Vita; RPG; 1 player; CERO A (all ages) -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20161223034138/http://dlgames.square-enix.com/jp/psga/2012/ff4/
+- https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2012/ff4/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)
 
 ## jp.square-enix.com (Publisher; Japan, 2019 capture)
 
 - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
-  - Final Fantasy IV (Game Archives), release 2012.06.27; marked "Wii VC ended" (※Wii VC終了); links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00652_00-0000000000000001, https://www.jp.square-enix.com/game/detail/ff4/
-- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy IV (Game Archives) links only https://www.jp.square-enix.com/game/detail/ff4/; the PlayStation Store link is no longer listed and so is the "Wii VC ended" mark -- accessed 2026-10-25
+  - Final Fantasy IV (Game Archives), release 2012.06.27; marked "Wii VC ended" (※Wii VC終了); links the pages below
+    - https://web.archive.org/web/20191029171046/https://store.playstation.com/ja-jp/product/JP0082-NPJJ00652_00-0000000000000001 -- the PlayStation Store page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+    - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/detail/ff4/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy IV (Game Archives) links the pages below; the PlayStation Store link is no longer listed and so is the "Wii VC ended" mark -- accessed 2026-10-25
+  - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/ff4/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
 ## Decisions

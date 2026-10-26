@@ -86,8 +86,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
 ## jp.square-enix.com (Publisher; Japan)
 
 - https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10 -- accessed 2026-10-25 (text pasted by user)
-  - Final Fantasy XIII-2, RPG, release 2011.12.15 (no Download label); links the official site https://web.archive.org/web/20150410063306/http://www.square-enix.co.jp/fabula/ff13-2/
-  - Ultimate Hits Final Fantasy XIII-2, RPG, release 2013.07.18 (the budget re-release); links https://web.archive.org/web/20150410063306/http://www.square-enix.co.jp/uh/
+  - Final Fantasy XIII-2, RPG, release 2011.12.15 (no Download label); links the pages below
+    - https://web.archive.org/web/20150410063306/http://www.square-enix.co.jp/fabula/ff13-2/ -- the official page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+  - Ultimate Hits Final Fantasy XIII-2, RPG, release 2013.07.18 (the budget re-release); links the pages below
+    - https://web.archive.org/web/20150410063306/http://www.square-enix.co.jp/uh/ -- the official page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
 ## jp.square-enix.com (Publisher; Japan, 2016 capture)
 
@@ -97,9 +99,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
 ## jp.square-enix.com (Publisher; Japan, 2019 capture)
 
 - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
-  - Final Fantasy XIII-2 (Ultimate Hits), release 2013.07.18; links http://store.jp.square-enix.com/item/BLJM_61073.html (Square Enix e-STORE), https://store.playstation.com/#!/ja-jp/cid=JP0082-NPJB00285_00-DLOADVERSION0100, https://www.jp.square-enix.com/game/detail/ff13-2/, http://www.square-enix.co.jp/uh/
+  - Final Fantasy XIII-2 (Ultimate Hits), release 2013.07.18; links the pages below
+    - https://web.archive.org/web/20191029171046/http://store.jp.square-enix.com/item/BLJM_61073.html -- the Square Enix e-STORE page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+    - https://web.archive.org/web/20191029171046/https://store.playstation.com/#!/ja-jp/cid=JP0082-NPJB00285_00-DLOADVERSION0100 -- the PlayStation Store page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+    - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/detail/ff13-2/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+    - https://web.archive.org/web/20191029171046/http://www.square-enix.co.jp/uh/ -- the official page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
   - the list no longer has the Digital Content Selection disc that the 2013 to 2018 captures list
-- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy XIII-2 (Ultimate Hits) links https://www.jp.square-enix.com/game/detail/ff13-2/; the e-STORE, PlayStation Store and Ultimate Hits links are no longer listed -- accessed 2026-10-25
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy XIII-2 (Ultimate Hits) links the pages below; the e-STORE, PlayStation Store and Ultimate Hits links are no longer listed -- accessed 2026-10-25
+  - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/ff13-2/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
 ## Decisions
 

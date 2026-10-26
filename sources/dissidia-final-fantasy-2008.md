@@ -44,4 +44,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)_v
 - http://dlgames.square-enix.com/na/psp_dl/ -- the original's PSP row (Digital)*, North American date 2009.08.25 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260510203011/http://dlgames.square-enix.com/na/psp_dl/
   - Menu "PSP DL delivery" under the header "Square Enix Downloadable Games"; lists DISSIDIA FINAL FANTASY (Action, 2009.08.25) linking http://na.square-enix.com/dissidia/ (not read)
 
+## dlgames.square-enix.com (Platform; Game Archives and PSP downloads, Japan)
+
+- http://dlgames.square-enix.com/jp/psp_dl/ -- the Japanese PSP download menu, capture of 2009-12-26: ディシディア ファイナルファンタジー ユニバーサルチューニング, ドラマチック プログレッシブ アクション, release 2009.11.01; links http://www.square-enix.co.jp/dissidia_ut/ -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20091226170104/http://dlgames.square-enix.com/jp/psp_dl/
+- http://www.square-enix.co.jp/dissidia_ut/ -- the Universal Tuning product site, capture of 2009-12-27 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20091227023303/http://www.square-enix.co.jp/dissidia_ut/
+  - A Flash site (loader.swf): the HTML shell holds only the title DISSIDIA FINAL FANTASY UNIVERSAL TUNING, the keywords プログレッシブ ドラマチック アクション and PSP, and two banners; the Flash content is not read
+  - Banners link the member special site http://member.square-enix.com/jp/special/dissidia/ and a guidebook page, http://www.square-enix.co.jp/magazine/gamebooks/ff/ffdd_ult2/index.html (ディシディア ファイナルファンタジー ユニバーサルチューニング 調査報告書)
+
 ## Decisions

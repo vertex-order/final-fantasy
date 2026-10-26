@@ -167,7 +167,9 @@
   - Square Enix announces ちょこメ～と, a mail-linked i-appli DX for the 505i series only; release date and price not yet set
   - On the standby screen it shows friends' and family's messages and status as live animation, with the Chocobo as the character; the character can be changed, and Dragon Quest characters were considered
 - https://finalfantasy.fandom.com/es/wiki/Choco-mate -- Choco-Mate (found by the user; the page text was not read here) -- accessed 2026-10-23; archived: TODO
-  - The Spanish Final Fantasy Wiki's page; the English Final Fantasy Wiki has none; the part links https://wikipedia.org/wiki/Choco-Mate instead (a redirect to Wikipedia's media list, https://wikipedia.org/wiki/List_of_Chocobo_media#Choco-Mate, which has an entry for it)
+  - The Spanish Final Fantasy Wiki's page; the English Final Fantasy Wiki has none; the part links the pages below
+    - https://web.archive.org/web/20140108204710/https://wikipedia.org/wiki/Choco-Mate -- the official page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+    - https://web.archive.org/web/20140108204710/https://wikipedia.org/wiki/List_of_Chocobo_media#Choco-Mate -- the official page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 - https://play.google.com/store/apps/details?id=com.smilelab.chocoboFarm -- Chocotto Farm Android row -- accessed 2026-10-23
   - The only status-200 capture, 2016-08-05 (https://web.archive.org/web/20160805125814/https://play.google.com/store/apps/details?id=com.smilelab.chocoboFarm): チョコボのチョコッと農園, Smile-Lab, version 1.1.1 updated 2016-03-01, 5,000 to 10,000 installs, Everyone; the description calls it the Android version of the Chocotto Farm that 600,000 people played on feature phones (ガラケー版)
 - https://games.app-liv.jp/archives/17633 -- Chocotto Farm smartphone release* (news of 2015-09-16 quoting Square Enix's release; text pasted by user) -- accessed 2026-10-23; archived: TODO
@@ -306,20 +308,40 @@
   - Chocobo Stallion, Training Simulation, release 2008.07.23
 - Japanese Game Archives detail pages, platforms PS3, PSP and PS Vita on each; release dates PS3 and PSP / PS Vita 2012.08.28 -- accessed 2026-10-25 (raw HTML read by me except the first)
   - http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon1/ -- Wayback captures to 2016-06-17 (https://web.archive.org/web/20160617085055/http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon1/) -- shallow: not read (Wayback answered 429)
+  - https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon1/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)
   - http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon2/ -- 2010.10.27; RPG; 1 player; CERO A; copyright 1998; related title Chocobo's Mysterious Dungeon -- archived: https://web.archive.org/web/20161222233716/http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon2/
+  - https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon2/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)
   - http://dlgames.square-enix.com/jp/psga/2009/chocoboracing/ -- チョコボレーシング ～幻界へのロード～; 2009.02.10; race; 1 player; CERO A; copyright 1999; five game modes -- archived: https://web.archive.org/web/20160617085041/http://dlgames.square-enix.com/jp/psga/2009/chocoboracing/
+  - https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2009/chocoboracing/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)
   - http://dlgames.square-enix.com/jp/psga/2008/dicedechocobo/ -- ダイスDEチョコボ; 2008.07.23; board game; 1 player; CERO A; copyright 1999 -- archived: https://web.archive.org/web/20160616173640/http://dlgames.square-enix.com/jp/psga/2008/dicedechocobo/
+  - https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2008/dicedechocobo/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)
   - http://dlgames.square-enix.com/jp/psga/2008/chocobostallion/ -- チョコボスタリオン; 2008.07.23; training simulation; 1 player; CERO A; copyright 1999 Square Enix / Parity Bit -- archived: https://web.archive.org/web/20160617084949/http://dlgames.square-enix.com/jp/psga/2008/chocobostallion/
+  - https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2008/chocobostallion/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)
 
 ## jp.square-enix.com (Publisher; Japan, 2019 capture)
 
 - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
-  - Chocobo's Mysterious Dungeon (Game Archives), release 2010.08.25; links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00443_00-0000000000000001, https://www.jp.square-enix.com/game/detail/chocobodungeon1/
-  - Chocobo's Mysterious Dungeon 2 (Game Archives), release 2010.10.27; links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00444_00-0000000000000001, https://www.jp.square-enix.com/game/detail/chocobodungeon2/
-  - Chocobo Racing ~Road to the Phantom World~ (Game Archives), release 2009.02.10; links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00184_00-0000000000000001, https://www.jp.square-enix.com/game/detail/chocobo_rc/
-  - Chocobo Stallion (Game Archives), release 2008.07.23; links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00185_00-0000000000000001, https://www.jp.square-enix.com/game/detail/chocobostallion/
-  - Dice de Chocobo (Game Archives), release 2008.07.23; links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00186_00-0000000000000001, https://www.jp.square-enix.com/game/detail/dicedechocobo/
+  - Chocobo's Mysterious Dungeon (Game Archives), release 2010.08.25; links the pages below
+    - https://web.archive.org/web/20191029171046/https://store.playstation.com/ja-jp/product/JP0082-NPJJ00443_00-0000000000000001 -- the PlayStation Store page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+    - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/detail/chocobodungeon1/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+  - Chocobo's Mysterious Dungeon 2 (Game Archives), release 2010.10.27; links the pages below
+    - https://web.archive.org/web/20191029171046/https://store.playstation.com/ja-jp/product/JP0082-NPJJ00444_00-0000000000000001 -- the PlayStation Store page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+    - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/detail/chocobodungeon2/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+  - Chocobo Racing ~Road to the Phantom World~ (Game Archives), release 2009.02.10; links the pages below
+    - https://web.archive.org/web/20191029171046/https://store.playstation.com/ja-jp/product/JP0082-NPJJ00184_00-0000000000000001 -- the PlayStation Store page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+    - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/detail/chocobo_rc/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+  - Chocobo Stallion (Game Archives), release 2008.07.23; links the pages below
+    - https://web.archive.org/web/20191029171046/https://store.playstation.com/ja-jp/product/JP0082-NPJJ00185_00-0000000000000001 -- the PlayStation Store page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+    - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/detail/chocobostallion/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+  - Dice de Chocobo (Game Archives), release 2008.07.23; links the pages below
+    - https://web.archive.org/web/20191029171046/https://store.playstation.com/ja-jp/product/JP0082-NPJJ00186_00-0000000000000001 -- the PlayStation Store page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+    - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/detail/dicedechocobo/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Chocobo's Mysterious Dungeon, Chocobo's Mysterious Dungeon 2, Chocobo Racing, Chocobo Stallion and Dice de Chocobo each link only their game detail page (chocobodungeon1, chocobodungeon2, chocobo_rc, chocobostallion, dicedechocobo under https://www.jp.square-enix.com/game/detail/); the PlayStation Store links are no longer listed -- accessed 2026-10-25
+  - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/chocobodungeon1/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+  - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/chocobodungeon2/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+  - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/chocobo_rc/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+  - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/chocobostallion/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+  - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/dicedechocobo/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
 ## Decisions
 

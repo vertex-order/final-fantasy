@@ -162,8 +162,10 @@
 ## dlgames.square-enix.com (Platform; Game Archives and PS3 downloads, Japan)
 
 - http://dlgames.square-enix.com/jp/ps3_dl -- the Japanese PlayStation 3 download menu, capture of 2009-12-25: Crystal Defenders, Defense Simulation, release 2009.10.29 (the PSP date; the official page above gives the PS3 date as 2009-03-11); links http://www.crystaldefenders.jp/jp/ -- accessed 2026-10-25 (text pasted by user) -- archived: https://web.archive.org/web/20091225145915/http://dlgames.square-enix.com/jp/ps3_dl
+- http://dlgames.square-enix.com/jp/psp_dl/ -- the Japanese PSP download menu, capture of 2009-12-26: クリスタル・ディフェンダーズ, ディフェンス・シミュレーション, release 2009.10.29; links http://www.crystaldefenders.jp/jp/ -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20091226170104/http://dlgames.square-enix.com/jp/psp_dl/
 - http://www.crystaldefenders.jp/jp/ -- the Japanese product site, capture of 2009-12-25: news item 09.03.11 "Crystal Defenders for PS3 and Xbox Live Arcade launched today!" -- accessed 2026-10-25 (text pasted by user) -- archived: https://web.archive.org/web/20091225145915/http://www.crystaldefenders.jp/jp/
-- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Crystal Defenders, Download, Defense Simulation, release 2009.03.11, "the PlayStation 3 (download) version is available from W1 to W3"; links http://www.crystaldefenders.jp/jp/ -- accessed 2026-10-25 (text pasted by user)
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Crystal Defenders, Download, Defense Simulation, release 2009.03.11, "the PlayStation 3 (download) version is available from W1 to W3" -- accessed 2026-10-25 (text pasted by user)
+- https://web.archive.org/web/20150410063306/http://www.crystaldefenders.jp/jp/ -- the game's official website link on the 2015-04-10 list -- accessed 2026-10-25 (link given by user)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 
@@ -173,8 +175,13 @@
 ## jp.square-enix.com (Publisher; Japan, 2019 capture)
 
 - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
-  - Crystal Defenders, release 2009.03.11; marked "smartphone version distribution ended" (※スマホ版配信終了); links https://store.playstation.com/ja-jp/search/CRYSTAL%20DEFENDERS, https://www.jp.square-enix.com/game/detail/crystaldefenders/, https://www.jp.square-enix.com/crystaldefenders/
-- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Crystal Defenders links https://www.jp.square-enix.com/game/detail/crystaldefenders/ and https://www.jp.square-enix.com/crystaldefenders/; the PlayStation Store search link is no longer listed, the "smartphone version distribution ended" mark is still there -- accessed 2026-10-25
+  - Crystal Defenders, release 2009.03.11; marked "smartphone version distribution ended" (※スマホ版配信終了); links the pages below
+    - https://web.archive.org/web/20191029171046/https://store.playstation.com/ja-jp/search/CRYSTAL%20DEFENDERS -- the PlayStation Store page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+    - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/detail/crystaldefenders/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+    - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/crystaldefenders/ -- the official page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Crystal Defenders links the pages below; the PlayStation Store search link is no longer listed, the "smartphone version distribution ended" mark is still there -- accessed 2026-10-25
+  - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/crystaldefenders/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
+  - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/crystaldefenders/ -- the official page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
