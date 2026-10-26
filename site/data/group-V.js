@@ -104,11 +104,11 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation3', paren: 'Digital; PSone compatibility' },
+            { key: 'playstation3', paren: 'Digital; PSone compatibility', url: 'https://web.archive.org/web/20161022091938/http://dlgames.square-enix.com/jp/psga/2011/ff5/' },
             { key: 'playstation2', paren: 'PSone compatibility' },
             { key: 'playstation1', paren: 'Physical' },
-            { key: 'playstation-vita', paren: 'Digital; PSP compatibility' },
-            { key: 'playstation-portable', paren: 'Digital' },
+            { key: 'playstation-vita', paren: 'Digital; PSP compatibility', url: 'https://web.archive.org/web/20161022091938/http://dlgames.square-enix.com/jp/psga/2011/ff5/' },
+            { key: 'playstation-portable', paren: 'Digital', url: 'https://web.archive.org/web/20161022091938/http://dlgames.square-enix.com/jp/psga/2011/ff5/' },
           ],
           versionDesc: [
             ['This edit adds opening and ending ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, 's, "memo" save feature. May have slow menus.'],

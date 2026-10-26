@@ -109,4 +109,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 - http://dlgames.square-enix.com/na/psga/2009/ff7/ -- the PSOne Classics detail page: the PS3, PSP and Vita rows* (PSone Classics, digital; the Vita plays the PSP version) -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260610215136/http://dlgames.square-enix.com/na/psga/2009/ff7/
   - FINAL FANTASY VII; Platform: PlayStation3 / PlayStation Portable; Price 9.99 USD; ESRB T; 1 player; release date 2009.06.22 (the menu says 2009.06.02, matching Wikipedia's list of downloadable PlayStation games)
 
+## dlgames.square-enix.com (Platform; Game Archives, Japan)
+
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Final Fantasy VII International, Game Archives (PS3/PSP/PSV), RPG, release 2009.04.10, "supported PlayStation Vita from 2012.08.28" -- accessed 2026-10-25 (text pasted by user)
+- http://dlgames.square-enix.com/jp/psga/2009/ff7/ -- the Japanese Game Archives detail page: release 2009.04.10 (PS3, PSP) and 2012.08.28 (PS Vita); the page is titled Final Fantasy VII International; platforms PS3, PSP and PS Vita; RPG; 1 player; CERO B (ages 12 and up) -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20170723220611/http://dlgames.square-enix.com/jp/psga/2009/ff7/
+
+## jp.square-enix.com (Publisher; Japan, 2019 capture)
+
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+  - Final Fantasy VII International (Game Archives), release 2009.04.10; links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00260_00-0000000000000001, https://www.jp.square-enix.com/game/detail/ff7/, http://www.jp.square-enix.com/ff7sp/
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy VII International (Game Archives) links https://www.jp.square-enix.com/game/detail/ff7/ and https://www.jp.square-enix.com/ff7sp/; the PlayStation Store link is no longer listed -- accessed 2026-10-25
+
 ## Decisions
+
+- PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

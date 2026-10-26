@@ -83,6 +83,24 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
 
 - https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/ -- the `Dive In cloud` rows link this capture; per the Final Fantasy Wiki's Dive In page (pasted by user 2026-10-20): XIII-2 from December 2014, on the "Remaster 2014" (Windows) version, with the `G-cluster cloud` rows; the version is our matching (see sources/final-fantasy-franchise.md)
 
+## jp.square-enix.com (Publisher; Japan)
+
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10 -- accessed 2026-10-25 (text pasted by user)
+  - Final Fantasy XIII-2, RPG, release 2011.12.15 (no Download label); links the official site https://web.archive.org/web/20150410063306/http://www.square-enix.co.jp/fabula/ff13-2/
+  - Ultimate Hits Final Fantasy XIII-2, RPG, release 2013.07.18 (the budget re-release); links https://web.archive.org/web/20150410063306/http://www.square-enix.co.jp/uh/
+
+## jp.square-enix.com (Publisher; Japan, 2016 capture)
+
+- https://web.archive.org/web/20160512034938/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2016-05-12 (saved page read by me): Final Fantasy XIII-2 Digital Content Selection, RPG, release 2013.07.18, a product with a disc holding the digital items distributed after the release of Final Fantasy XIII-2; the page also lists Ultimate Hits Final Fantasy XIII-2 -- accessed 2026-10-25
+  - Out of scope (user, 2026-10-25): an add-on disc of already distributed DLC items, with no story or gameplay of its own (docs/data.md, "What belongs on a list")
+
+## jp.square-enix.com (Publisher; Japan, 2019 capture)
+
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+  - Final Fantasy XIII-2 (Ultimate Hits), release 2013.07.18; links http://store.jp.square-enix.com/item/BLJM_61073.html (Square Enix e-STORE), https://store.playstation.com/#!/ja-jp/cid=JP0082-NPJB00285_00-DLOADVERSION0100, https://www.jp.square-enix.com/game/detail/ff13-2/, http://www.square-enix.co.jp/uh/
+  - the list no longer has the Digital Content Selection disc that the 2013 to 2018 captures list
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy XIII-2 (Ultimate Hits) links https://www.jp.square-enix.com/game/detail/ff13-2/; the e-STORE, PlayStation Store and Ultimate Hits links are no longer listed -- accessed 2026-10-25
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

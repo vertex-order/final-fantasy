@@ -212,6 +212,17 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
 - http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists FINAL FANTASY, release 2010.02.25 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
   - Detail page read: Platform iPhone / iPod touch
 
+## dlgames.square-enix.com (Platform; Game Archives, Japan)
+
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Final Fantasy, Game Archives (PS3/PSP/PSV), RPG, release 2009.06.24, "supported PlayStation Vita from 2012.08.28" -- accessed 2026-10-25 (text pasted by user)
+- http://dlgames.square-enix.com/jp/psga/2009/ff1/ -- the Japanese Game Archives detail page: release 2008.06.24 (PS3, PSP; the list and the page's /2009/ path say 2009) and 2012.08.28 (PS Vita); platforms PS3, PSP and PS Vita; RPG; 1 player; CERO A (all ages) -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20161223040335/http://dlgames.square-enix.com/jp/psga/2009/ff1/
+
+## jp.square-enix.com (Publisher; Japan, 2019 capture)
+
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+  - Final Fantasy (Game Archives), release 2009.06.24; marked "Wii VC ended" (※Wii VC終了); links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00270_00-0000000000000001, https://www.jp.square-enix.com/game/detail/ff/
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy (Game Archives) links only https://www.jp.square-enix.com/game/detail/ff/; the PlayStation Store link is no longer listed and so is the "Wii VC ended" mark -- accessed 2026-10-25
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

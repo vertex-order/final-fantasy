@@ -129,10 +129,13 @@
   - PlayStation, Japan 1997-12-23; WonderSwan, Japan 1999-03-04
 - https://wikipedia.org/wiki/Chocobo's_Dungeon_2 -- platforms*, dates* -- accessed 2026-10-23
   - PlayStation, Japan 1998-12-23, North America 1999-12-17
+  - The article text (read 2026-10-25) names no PlayStation Network release; it is listed in the category PlayStation Network games
+  - The Final Fantasy Wiki page (https://breezewiki.com/finalfantasy/wiki/Chocobo's_Dungeon_2, read 2026-10-25) lists the platform PlayStation only, Japan 1998-12-23, United States and Canada 1999-11-30
   - The sequel to Chocobo's Mysterious Dungeon (1997); the article opens "It is the sequel to 1997's Chocobo's Mysterious Dungeon"
   - The Final Fantasy Wiki's series page says the same: Chocobo's Dungeon 2 is a sequel to Chocobo's Mysterious Dungeon, the series' first two-player game (https://breezewiki.com/finalfantasy/wiki/Chocobo_series)
 - https://wikipedia.org/wiki/Chocobo_Racing -- platforms*, dates* -- accessed 2026-10-23
   - PlayStation, Japan 1999-03-18, North America 1999-08-12, Europe 1999-10-11
+  - The article text (read 2026-10-25) says it was released in Japan as a PSOne Classic on 2009-02-10 and gives no Western PSN release; it also gives Japan as March 25, 1999 (DigiCube) in the text against March 1999 in the lead
 - https://wikipedia.org/wiki/Final_Fantasy_Fables:_Chocobo_Tales -- platforms*, dates* -- accessed 2026-10-23
   - Nintendo DS, Japan 2006-12-14, North America 2007-04-03, Australia 2007-05-24, Europe 2007-05-25
 - https://wikipedia.org/wiki/Final_Fantasy_Fables:_Chocobo's_Dungeon -- platforms*, dates* -- accessed 2026-10-23
@@ -292,6 +295,31 @@
   - Not the next listing on the same page, ちょこっとファーム (Chokotto Farm, another publisher's farm game)
   - Platforms: Wikipedia's media list puts the game on GREE on 2012-12-19; the Play Store description says the Android version followed a feature-phone version that 600,000 people played, and Smile-Lab started the iOS and Android versions on 2015-09-16 (games.app-liv.jp, above); quicksave (https://quicksave.live/game/22908) lists iOS and Android on 2012-12-20; the capture does not say which devices each listed game ran on; d game was Docomo's portal for Android smartphones and iPhones, and the listing is on its smartphone store page (`sp/game-store`), which ended 2023-09-27 (an earlier end for the game itself is not known)
   - Unknown: publisher page, end date, and whether it also ran outside GREE and d game
+
+## dlgames.square-enix.com (Platform; Game Archives, Japan)
+
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10, all Game Archives (PS3/PSP/PSV) with "supported PlayStation Vita from 2012.08.28" -- accessed 2026-10-25 (text pasted by user)
+  - Chocobo's Mysterious Dungeon, RPG, release 2010.08.25
+  - Chocobo's Mysterious Dungeon 2, RPG, release 2010.10.27
+  - Chocobo Racing ~Road to the Phantom World~, Race, release 2009.02.10
+  - Dice de Chocobo, Board Game, release 2008.07.23
+  - Chocobo Stallion, Training Simulation, release 2008.07.23
+- Japanese Game Archives detail pages, platforms PS3, PSP and PS Vita on each; release dates PS3 and PSP / PS Vita 2012.08.28 -- accessed 2026-10-25 (raw HTML read by me except the first)
+  - http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon1/ -- Wayback captures to 2016-06-17 (https://web.archive.org/web/20160617085055/http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon1/) -- shallow: not read (Wayback answered 429)
+  - http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon2/ -- 2010.10.27; RPG; 1 player; CERO A; copyright 1998; related title Chocobo's Mysterious Dungeon -- archived: https://web.archive.org/web/20161222233716/http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon2/
+  - http://dlgames.square-enix.com/jp/psga/2009/chocoboracing/ -- チョコボレーシング ～幻界へのロード～; 2009.02.10; race; 1 player; CERO A; copyright 1999; five game modes -- archived: https://web.archive.org/web/20160617085041/http://dlgames.square-enix.com/jp/psga/2009/chocoboracing/
+  - http://dlgames.square-enix.com/jp/psga/2008/dicedechocobo/ -- ダイスDEチョコボ; 2008.07.23; board game; 1 player; CERO A; copyright 1999 -- archived: https://web.archive.org/web/20160616173640/http://dlgames.square-enix.com/jp/psga/2008/dicedechocobo/
+  - http://dlgames.square-enix.com/jp/psga/2008/chocobostallion/ -- チョコボスタリオン; 2008.07.23; training simulation; 1 player; CERO A; copyright 1999 Square Enix / Parity Bit -- archived: https://web.archive.org/web/20160617084949/http://dlgames.square-enix.com/jp/psga/2008/chocobostallion/
+
+## jp.square-enix.com (Publisher; Japan, 2019 capture)
+
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+  - Chocobo's Mysterious Dungeon (Game Archives), release 2010.08.25; links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00443_00-0000000000000001, https://www.jp.square-enix.com/game/detail/chocobodungeon1/
+  - Chocobo's Mysterious Dungeon 2 (Game Archives), release 2010.10.27; links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00444_00-0000000000000001, https://www.jp.square-enix.com/game/detail/chocobodungeon2/
+  - Chocobo Racing ~Road to the Phantom World~ (Game Archives), release 2009.02.10; links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00184_00-0000000000000001, https://www.jp.square-enix.com/game/detail/chocobo_rc/
+  - Chocobo Stallion (Game Archives), release 2008.07.23; links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00185_00-0000000000000001, https://www.jp.square-enix.com/game/detail/chocobostallion/
+  - Dice de Chocobo (Game Archives), release 2008.07.23; links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00186_00-0000000000000001, https://www.jp.square-enix.com/game/detail/dicedechocobo/
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Chocobo's Mysterious Dungeon, Chocobo's Mysterious Dungeon 2, Chocobo Racing, Chocobo Stallion and Dice de Chocobo each link only their game detail page (chocobodungeon1, chocobodungeon2, chocobo_rc, chocobostallion, dicedechocobo under https://www.jp.square-enix.com/game/detail/); the PlayStation Store links are no longer listed -- accessed 2026-10-25
 
 ## Decisions
 

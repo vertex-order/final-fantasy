@@ -134,4 +134,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 - http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists IV, release 2012.12.20 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
   - The menu link leaves /na/; detail page not read
 
+## dlgames.square-enix.com (Platform; Game Archives, Japan)
+
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Final Fantasy IV, Game Archives (PS3/PSP/PSV), RPG, release 2012.06.27, "supported PlayStation Vita from 2012.08.28" -- accessed 2026-10-25 (text pasted by user)
+- http://dlgames.square-enix.com/jp/psga/2012/ff4/ -- the Japanese Game Archives detail page: release 2012.06.27 (PS3, PSP) and 2012.08.28 (PS Vita); copyright 1991, 1997; platforms PS3, PSP and PS Vita; RPG; 1 player; CERO A (all ages) -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20161223034138/http://dlgames.square-enix.com/jp/psga/2012/ff4/
+
+## jp.square-enix.com (Publisher; Japan, 2019 capture)
+
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+  - Final Fantasy IV (Game Archives), release 2012.06.27; marked "Wii VC ended" (※Wii VC終了); links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00652_00-0000000000000001, https://www.jp.square-enix.com/game/detail/ff4/
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy IV (Game Archives) links only https://www.jp.square-enix.com/game/detail/ff4/; the PlayStation Store link is no longer listed and so is the "Wii VC ended" mark -- accessed 2026-10-25
+
 ## Decisions

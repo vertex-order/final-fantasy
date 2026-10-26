@@ -297,11 +297,11 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation3', paren: 'Digital; PSone compatibility' },
+            { key: 'playstation3', paren: 'Digital; PSone compatibility', url: 'https://web.archive.org/web/20161223040335/http://dlgames.square-enix.com/jp/psga/2009/ff1/' },
             { key: 'playstation2', paren: 'PSone compatibility' },
             { key: 'playstation1', paren: 'Physical' },
-            { key: 'playstation-vita', paren: 'Digital; PSP compatibility' },
-            { key: 'playstation-portable', paren: 'Digital' },
+            { key: 'playstation-vita', paren: 'Digital; PSP compatibility', url: 'https://web.archive.org/web/20161223040335/http://dlgames.square-enix.com/jp/psga/2009/ff1/' },
+            { key: 'playstation-portable', paren: 'Digital', url: 'https://web.archive.org/web/20161223040335/http://dlgames.square-enix.com/jp/psga/2009/ff1/' },
           ],
           versionDesc: [
             ['This remaster has redrawn graphics and updated backgrounds from Remaster (2000); ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, ' sequences, remixed soundtrack, art galleries, memo save; May have slow menus.', { text: ' Released in the omnibus entry ' }, { emText: 'Final Fantasy Origins (2002)' }, { text: '.' }],

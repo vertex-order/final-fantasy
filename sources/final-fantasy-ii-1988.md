@@ -104,6 +104,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
 - http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists II, release 2010.02.25 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
   - Detail page read: Platform iPhone / iPod touch
 
+## dlgames.square-enix.com (Platform; Game Archives, Japan)
+
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Final Fantasy II, Game Archives (PS3/PSP/PSV), RPG, release 2009.07.08, "supported PlayStation Vita from 2012.08.28" -- accessed 2026-10-25 (text pasted by user)
+- http://dlgames.square-enix.com/jp/psga/2009/ff2/ -- the Japanese Game Archives detail page: release 2009.07.08 (PS3, PSP) and 2012.08.28 (PS Vita); platforms PS3, PSP and PS Vita; RPG; 1 player; CERO A (all ages) -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20160820174734/http://dlgames.square-enix.com/jp/psga/2009/ff2/
+
+## jp.square-enix.com (Publisher; Japan, 2019 capture)
+
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+  - Final Fantasy II (Game Archives), release 2009.07.08; marked "Wii VC ended" (※Wii VC終了); links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00273_00-0000000000000001, https://www.jp.square-enix.com/game/detail/ff2/
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy II (Game Archives) links only https://www.jp.square-enix.com/game/detail/ff2/; the PlayStation Store link is no longer listed and so is the "Wii VC ended" mark -- accessed 2026-10-25
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

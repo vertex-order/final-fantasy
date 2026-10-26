@@ -76,4 +76,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
 - Apple TV: 2016-08-04 (https://www.broadmedia.co.jp/news/20160804_001_J.pdf)
 - Amazon Android app store: 2016-04-27, one of five apps released together (https://www.broadmedia.co.jp/news/dock/20160428-001_01.pdf)
 
+## jp.square-enix.com (Publisher; Japan)
+
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Lightning Returns: Final Fantasy XIII, Download, RPG, release 2013.11.21; links the official site https://web.archive.org/web/20150410063306/http://www.square-enix.co.jp/fabula/LightningReturnsFFXIII/ -- accessed 2026-10-25 (text pasted by user)
+
+## jp.square-enix.com (Publisher; Japan, 2019 capture)
+
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+  - Lightning Returns: Final Fantasy XIII, release 2013.11.21; links https://store.playstation.com/#!/ja-jp/cid=JP0082-NPJB00326_00-DLOADVERSION0100, http://www.square-enix.co.jp/fabula/FF13_Portal/
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Lightning Returns: Final Fantasy XIII links https://www.jp.square-enix.com/game/detail/lrff13/; the PlayStation Store link and the Final Fantasy XIII portal link are no longer listed -- accessed 2026-10-25
+
 ## Decisions

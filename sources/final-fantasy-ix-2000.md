@@ -132,4 +132,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 - http://an.sqexm.net/sp/site/Page/sqmk/ff9/top -- Final Fantasy IX on Square Enix Market, Japan only, listed in the capture of 2017-06-06 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20170606071609/http://an.sqexm.net/sp/site/Page/sqmk/ff9/top (page not read; URL given by user)
   - The store is described in final-fantasy-franchise.md
 
+## dlgames.square-enix.com (Platform; Game Archives, Japan)
+
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Final Fantasy IX, Game Archives (PS3/PSP/PSV), RPG, release 2010.05.20, "supported PlayStation Vita from 2012.08.28" -- accessed 2026-10-25 (text pasted by user)
+- http://dlgames.square-enix.com/jp/psga/2010/ff9/ -- the Japanese Game Archives detail page: release 2010.5.20 (PS3, PSP) and 2012.08.28 (PS Vita); RPG; 1 player; CERO A; platforms PS3, PSP and PS Vita -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20170316160605/http://dlgames.square-enix.com/jp/psga/2010/ff9/
+
+## jp.square-enix.com (Publisher; Japan, 2019 capture)
+
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+  - Final Fantasy IX (Game Archives), release 2010.05.20; links https://store.sonyentertainmentnetwork.com/#!/ja-jp/cid=JP0082-NPJJ00368_00-0000000000000001, https://www.jp.square-enix.com/game/detail/ff9/, http://www.jp.square-enix.com/ff9/
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy IX (Game Archives) links https://www.jp.square-enix.com/game/detail/ff9/ and https://www.jp.square-enix.com/ff9/; the PlayStation Store link is no longer listed -- accessed 2026-10-25
+
 ## Decisions

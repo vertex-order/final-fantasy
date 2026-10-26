@@ -159,10 +159,22 @@
 - http://dlgames.square-enix.com/na/ipod/2010/crystaldefenders_ipad/ -- the iPad detail page: the iPad row's platform and date -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20100719124256/http://dlgames.square-enix.com/na/ipod/2010/crystaldefenders_ipad/ (text pasted by user)
   - Platform: iPad; genre Defensive Simulation; 1 player; release date 2010.07.01
 
+## dlgames.square-enix.com (Platform; Game Archives and PS3 downloads, Japan)
+
+- http://dlgames.square-enix.com/jp/ps3_dl -- the Japanese PlayStation 3 download menu, capture of 2009-12-25: Crystal Defenders, Defense Simulation, release 2009.10.29 (the PSP date; the official page above gives the PS3 date as 2009-03-11); links http://www.crystaldefenders.jp/jp/ -- accessed 2026-10-25 (text pasted by user) -- archived: https://web.archive.org/web/20091225145915/http://dlgames.square-enix.com/jp/ps3_dl
+- http://www.crystaldefenders.jp/jp/ -- the Japanese product site, capture of 2009-12-25: news item 09.03.11 "Crystal Defenders for PS3 and Xbox Live Arcade launched today!" -- accessed 2026-10-25 (text pasted by user) -- archived: https://web.archive.org/web/20091225145915/http://www.crystaldefenders.jp/jp/
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Crystal Defenders, Download, Defense Simulation, release 2009.03.11, "the PlayStation 3 (download) version is available from W1 to W3"; links http://www.crystaldefenders.jp/jp/ -- accessed 2026-10-25 (text pasted by user)
+
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 
 - http://www.square-enix.co.jp/smart/market/game004.html -- the Android version sold on Square Enix Market, Japan only: release 2011-12-01; holds W1 and W2 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120204205708/http://www.square-enix.co.jp/smart/market/game004.html
   - The store is described in final-fantasy-franchise.md
+
+## jp.square-enix.com (Publisher; Japan, 2019 capture)
+
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+  - Crystal Defenders, release 2009.03.11; marked "smartphone version distribution ended" (※スマホ版配信終了); links https://store.playstation.com/ja-jp/search/CRYSTAL%20DEFENDERS, https://www.jp.square-enix.com/game/detail/crystaldefenders/, https://www.jp.square-enix.com/crystaldefenders/
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Crystal Defenders links https://www.jp.square-enix.com/game/detail/crystaldefenders/ and https://www.jp.square-enix.com/crystaldefenders/; the PlayStation Store search link is no longer listed, the "smartphone version distribution ended" mark is still there -- accessed 2026-10-25
 
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits

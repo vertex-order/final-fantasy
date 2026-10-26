@@ -117,4 +117,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
 - http://an.sqexm.net/sp/site/Page/sqmk/ff6/top -- Final Fantasy VI on Square Enix Market, Japan only, listed in the capture of 2014-02-17 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20140217005214/http://an.sqexm.net/sp/site/Page/sqmk/ff6/top (page not read; URL given by user)
   - The store is described in final-fantasy-franchise.md
 
+## dlgames.square-enix.com (Platform; Game Archives, Japan)
+
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Final Fantasy VI, Game Archives (PS3/PSP/PSV), RPG, release 2011.04.20, "supported PlayStation Vita from 2012.08.28" -- accessed 2026-10-25 (text pasted by user)
+- http://dlgames.square-enix.com/jp/psga/2011/ff6/ -- the Japanese Game Archives detail page: release 2011.04.20 (PS3, PSP) and 2012.08.28 (PS Vita); RPG; 1 player; CERO B; platforms PS3, PSP and PS Vita; an official site is linked -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20170604031906/http://dlgames.square-enix.com/jp/psga/2011/ff6/
+
+## jp.square-enix.com (Publisher; Japan, 2019 capture)
+
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+  - Final Fantasy VI (Game Archives), release 2011.04.20; marked "Wii VC ended" (※Wii VC終了); links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00522_00-0000000000000001, https://www.jp.square-enix.com/game/detail/ff6/
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy VI (Game Archives) links only https://www.jp.square-enix.com/game/detail/ff6/; the PlayStation Store link is no longer listed and so is the "Wii VC ended" mark -- accessed 2026-10-25
+
 ## Decisions

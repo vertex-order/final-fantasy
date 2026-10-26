@@ -116,4 +116,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
 
 - https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/ -- the `Dive In cloud` rows link this capture; per the Final Fantasy Wiki's Dive In page (pasted by user 2026-10-20): XIII at launch (2014-10-09), on the primary, the 2014 Remaster, with the `G-cluster cloud` rows; the version is our matching (see sources/final-fantasy-franchise.md)
 
+## jp.square-enix.com (Publisher; Japan)
+
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10 -- accessed 2026-10-25 (text pasted by user)
+  - Final Fantasy XIII, RPG, release 2009.12.17 (no Download label); links the official site https://web.archive.org/web/20150410063306/http://www.square-enix.co.jp/fabula/ff13/
+  - Ultimate Hits Final Fantasy XIII, RPG, release 2011.07.21 (the budget re-release); links https://web.archive.org/web/20150410063306/http://www.square-enix.co.jp/uh/
+
+## jp.square-enix.com (Publisher; Japan, 2019 capture)
+
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+  - Final Fantasy XIII (Ultimate Hits), release 2011.07.21; links https://www.jp.square-enix.com/game/detail/ff13/, http://www.square-enix.co.jp/fabula/FF13_Portal/
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy XIII (Ultimate Hits) links https://www.jp.square-enix.com/game/detail/ff13/; the Final Fantasy XIII portal link is no longer listed -- accessed 2026-10-25
+
 ## Decisions

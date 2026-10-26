@@ -181,6 +181,19 @@
   - http://dlgames.square-enix.com/ff/ -- Final Fantasy "for smartphone" menu, capture of 2013-10-30: https://web.archive.org/web/20131030033953/http://dlgames.square-enix.com/ff/ -- lists Final Fantasy IV: The After Years, V and IV; V and The After Years each have an EN and a JA site -- accessed 2026-10-24
     - https://web.archive.org/web/20210627002414/http://dlgames.square-enix.com/ff/ -- last working capture of the menu (2021-06-27); same list as the earlier captures; later captures redirect to the Japanese Pixel Remaster site -- accessed 2026-10-24
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, PlayStation 3, Japan)
+
+- http://dlgames.square-enix.com/jp/ps3_dl -- "PlayStation3" download menu, capture of 2009-12-25: https://web.archive.org/web/20091225145915/http://dlgames.square-enix.com/jp/ps3_dl -- visited and audited -- accessed 2026-10-25 (text pasted by user)
+
+## jp.square-enix.com (Publisher; Square Enix Japan game list)
+
+- http://www.jp.square-enix.com/game/ps3/ -- the PlayStation 3 list (one of the "By model" lists), capture of 2015-04-10: https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- visited and audited -- accessed 2026-10-25 (text pasted by user)
+- the same list, capture of 2016-05-12: https://web.archive.org/web/20160512034938/http://www.jp.square-enix.com/game/ps3/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- the same list, capture of 2017-06-06 (the Japanese-language page): https://web.archive.org/web/20170606052956/http://www.jp.square-enix.com/game/ps3/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- the same list, capture of 2018-05-24: https://web.archive.org/web/20180524231957/http://www.jp.square-enix.com/game/ps3/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- the same list in its later layout (platform filter ?pf=99,2), capture of 2019-10-29: https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- the same list, capture of 2025-02-17 (the last): https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 
 - http://www.square-enix.co.jp/smart/market/ -- SQUARE ENIX MARKET, Square Enix's portal for Android phones in Japan, first working capture 2012-02-04: https://web.archive.org/web/20120204205708/http://www.square-enix.co.jp/smart/market/ -- visited and audited -- accessed 2026-10-25 (raw HTML read by me; a capture of 2016-03-13, https://web.archive.org/web/20160313074848/http://www.square-enix.co.jp/smart/market/, also loads and was not read)

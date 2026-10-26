@@ -88,4 +88,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
 - Phone app: 2017-11-16, per the phone app news page (https://web.archive.org/web/20250114083821/https://gcluster.jp/sp/app/sqex/news.html)
 - au Game (KDDI): sold there until 2023-05-15, then buyers moved to the Google Play version (the news page's notice of 2023-02-28)
 
+## jp.square-enix.com (Publisher; Japan)
+
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Final Fantasy X/X-2 HD Remaster, Download, RPG, release 2013.12.26; links the official site https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/ffx_x-2HD/ -- accessed 2026-10-25 (text pasted by user)
+
+## jp.square-enix.com (Publisher; Japan, 2019 capture)
+
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+  - Final Fantasy X/X-2 HD Remaster, release 2013.12.26; links http://store.jp.square-enix.com/item/BLJM_61093.html (Square Enix e-STORE), http://www.jp.square-enix.com/ffx_x-2HD/
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy X/X-2 HD Remaster links https://www.jp.square-enix.com/ffx_x-2HD/; the Square Enix e-STORE link is no longer listed -- accessed 2026-10-25
+
 ## Decisions

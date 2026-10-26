@@ -199,6 +199,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 - http://www.square-enix.co.jp/smart/market/game016.html -- Final Fantasy Tactics: The Lion War on Square Enix Market, Japan only, listed in the capture of 2013-02-16 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20130216030731/http://www.square-enix.co.jp/smart/market/game016.html (page not read; URL given by user)
   - The store is described in final-fantasy-franchise.md
 
+## dlgames.square-enix.com (Platform; Game Archives, Japan)
+
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Final Fantasy Tactics, Game Archives (PS3/PSP/PSV), Simulation RPG, release 2009.05.13, "supported PlayStation Vita from 2012.08.28" -- accessed 2026-10-25 (text pasted by user)
+- http://dlgames.square-enix.com/jp/psga/2009/fftactics/ -- the Japanese Game Archives detail page; Wayback captures to 2016-07-22 (https://web.archive.org/web/20160722203405/http://dlgames.square-enix.com/jp/psga/2009/fftactics/) -- accessed 2026-10-25 -- shallow: not read (Wayback answered 429)
+
+## jp.square-enix.com (Publisher; Japan, 2019 capture)
+
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+  - Final Fantasy Tactics (Game Archives), release 2009.05.13; links https://store.playstation.com/ja-jp/product/JP0082-NPJJ00265_00-0000000000000001, https://www.jp.square-enix.com/game/detail/fft/
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy Tactics (Game Archives) links https://www.jp.square-enix.com/game/detail/fft/; the PlayStation Store link is no longer listed -- accessed 2026-10-25
+
 ## Decisions
 
 
