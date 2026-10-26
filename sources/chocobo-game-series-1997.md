@@ -375,6 +375,16 @@
   - Capture of 2009-12-26: the title is not listed (five apps, release 2008.12.23 to 2009.12.03) -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20091226172251/http://dlgames.square-enix.com/jp/ipod/
 - http://dlgames.square-enix.com/jp/ipod/2010/chocobopanic/ -- the detail page, last status-200 capture 2017-06-09 (the index lists captures from 2010-06-05): チョコボパニック; party game; 1 to 6 players; Platform iPad; release 2010.05.28; catch the coloured chocobos on the screen as told and keep the finger down until the "release" instruction; a 1-player and co-op mode and a 2-player versus mode on one iPad; (C) 2010; no official-site link -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20170609115940/http://dlgames.square-enix.com/jp/ipod/2010/chocobopanic/
 
+## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2018-10-10 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 4 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: 2013-10-20 to 2016-12-22 http://www.jp.square-enix.com/game/ps4/; 2018-01-30 http://www.jp.square-enix.com/game/pf/ps4/; 2018-10-10 https://www.jp.square-enix.com/game/pf/ps4/; 2019-09-18 to live https://www.jp.square-enix.com/game/?pf=1; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou (2013 to 2016 captures); from 2018 the labels パッケージ (disc), ダウンロード, オンライン専用, VR専用 and VR対応 are shown as text; "none" = no icon (not stated). CERO ratings are recorded from the 2018 captures, where the page shows them as text.
+  - チョコボの不思議なダンジョン エブリバディ！; ダンジョンRPG; first listed 2018-10-10: release 今冬予定; icons: none; CERO審査予定; changes: 2019-09-18: release 今冬予定 to 2019.03.20; icons none to ダウンロード, パッケージ; CERO審査予定 to CERO A; listed in every capture from 2018-10-10 to live (2026-10-26)
+    - https://www.jp.square-enix.com/chocobo/ -- 公式サイト link, listed 2018-10-10 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20181010135604/https://www.jp.square-enix.com/chocobo/
+    - https://store.jp.square-enix.com/item/PLJM_16380.html -- e-STOREで購入 link, listed 2019-09-18 to 2021-11-19 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://store.jp.square-enix.com/item/PLJM_16380.html (last listing: https://web.archive.org/web/20211119031606/https://store.jp.square-enix.com/item/PLJM_16380.html)
+    - https://store.playstation.com/ja-jp/product/JP0082-CUSA14078_00-CHOCOBOSDUNGEONE -- PlayStation Store link, listed 2019-09-18 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://store.playstation.com/ja-jp/product/JP0082-CUSA14078_00-CHOCOBOSDUNGEONE
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

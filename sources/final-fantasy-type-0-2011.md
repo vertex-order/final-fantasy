@@ -74,4 +74,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
   - アルティメット ヒッツ ファイナルファンタジー零式; RPG; release 2012.12.06; icons: online; links http://www.square-enix.co.jp/uh/
   - ファイナルファンタジー 零式; RPG; release 2011.10.27; 本作品は『ファイナルファンタジー アギトXIII』から名称を変更したものです。; icons: online, Download (compatible); links http://www.square-enix.co.jp/fabula/0/
 
+## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2014-11-27 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 4 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: 2013-10-20 to 2016-12-22 http://www.jp.square-enix.com/game/ps4/; 2018-01-30 http://www.jp.square-enix.com/game/pf/ps4/; 2018-10-10 https://www.jp.square-enix.com/game/pf/ps4/; 2019-09-18 to live https://www.jp.square-enix.com/game/?pf=1; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou (2013 to 2016 captures); from 2018 the labels パッケージ (disc), ダウンロード, オンライン専用, VR専用 and VR対応 are shown as text; "none" = no icon (not stated). CERO ratings are recorded from the 2018 captures, where the page shows them as text.
+  - ファイナルファンタジー 零式 HD; RPG; first listed 2014-11-27: release 2015.03.19発売予定; icons: none; changes: 2015-12-06: release 2015.03.19発売予定 to 2015.03.19; icons none to ダウンロード対応 / 2018-01-30: CERO D / 2019-09-18: CERO D to CERO C; listed in every capture from 2014-11-27 to live (2026-10-26) except 2016-12-22
+    - http://www.square-enix.co.jp/fabula/0/ -- 公式サイト link, listed 2014-11-27 to 2020-11-05 -- link recorded only -- archived: https://web.archive.org/web/20141127151101/http://www.square-enix.co.jp/fabula/0/ (last listing: https://web.archive.org/web/20201104192604/http://www.square-enix.co.jp/fabula/0/)
+    - https://store.playstation.com/ja-jp/product/JP0082-CUSA00837_00-00000000SUZAKUJP -- PlayStation Storeでダウンロード link, listed 2018-01-30 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20180130171310/https://store.playstation.com/ja-jp/product/JP0082-CUSA00837_00-00000000SUZAKUJP
+    - https://store.playstation.com/#!/ja-jp/cid=JP0082-CUSA00837_00-00000000SUZAKUJP -- PlayStation Store link, listed 2019-09-18 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://store.playstation.com/#!/ja-jp/cid=JP0082-CUSA00837_00-00000000SUZAKUJP
+    - https://www.jp.square-enix.com/ff_reishiki/ -- 公式サイト link, listed 2021-11-19 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20211119031606/https://www.jp.square-enix.com/ff_reishiki/
+
 ## Decisions

@@ -37,4 +37,14 @@
 - https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/ -- Steam row* (the store's appdetails text read by me, accessed 2026-10-25)
   - The free trial description names A Realm Reborn, Heavensward, Stormblood and Shadowbringers; the Complete Edition is the other package
 
+## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2015-12-06 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 4 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: 2013-10-20 to 2016-12-22 http://www.jp.square-enix.com/game/ps4/; 2018-01-30 http://www.jp.square-enix.com/game/pf/ps4/; 2018-10-10 https://www.jp.square-enix.com/game/pf/ps4/; 2019-09-18 to live https://www.jp.square-enix.com/game/?pf=1; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou (2013 to 2016 captures); from 2018 the labels パッケージ (disc), ダウンロード, オンライン専用, VR専用 and VR対応 are shown as text; "none" = no icon (not stated). CERO ratings are recorded from the 2018 captures, where the page shows them as text.
+  - ファイナルファンタジーXIV オンライン; MMOPRG; first listed 2015-12-06: release 2015.06.23; icons: オンライン専用, ダウンロード対応; changes: 2019-09-18: genre MMOPRG to MMOPRG ※PS3サービス終了; CERO C / 2021-11-19: genre MMOPRG ※PS3サービス終了 to MMORPG(オンラインゲーム) ※PS3サービス終了; listed in every capture from 2015-12-06 to live (2026-10-26) except 2018-01-30, 2018-10-10
+    - http://jp.finalfantasyxiv.com/heavensward/ -- 公式サイト link, listed 2015-12-06 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20151206141827/http://jp.finalfantasyxiv.com/heavensward/
+  - ファイナルファンタジーXIV: 蒼天のイシュガルド; MMOPRG; first listed 2015-12-06: release 2015.06.23; icons: オンライン専用, ダウンロード対応; changes: 2018-01-30: genre MMOPRG to MMORPG; CERO C / 2019-09-18: genre MMORPG to MMOPRG ※PS3サービス終了 / 2021-11-19: genre MMOPRG ※PS3サービス終了 to MMORPG(オンラインゲーム) ※PS3サービス終了; listed in every capture from 2015-12-06 to live (2026-10-26)
+    - http://jp.finalfantasyxiv.com/heavensward/ -- 公式サイト link, listed 2015-12-06 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20151206141827/http://jp.finalfantasyxiv.com/heavensward/
+
 ## Decisions

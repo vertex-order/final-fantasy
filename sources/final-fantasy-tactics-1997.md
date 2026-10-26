@@ -243,6 +243,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 - http://dlgames.square-enix.com/jp/ipod/2012/fft_ipad/ -- the iPad detail page, its only status-200 capture 2012-11-07: Platform iPad; シミュレーションRPG; 1 player; release 2012.02.24; the same text as the iPhone page, saying the game comes to the iPad in 2012; (C) 1997, 2007, 2012; links the official site http://dlgames.square-enix.com/fft/ -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20121107002400/http://dlgames.square-enix.com/jp/ipod/2012/fft_ipad/
 - http://dlgames.square-enix.com/fft/ -- the official site linked from both detail pages, captures of 2011-09-25 and 2012-10-20 (read the same): title FINAL FANTASY TACTICS 獅子戦争 | SQUARE ENIX; a language choice, Japanese (jp/) or English (en/); (C) 1997, 2007, 2011 -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20110925044902/http://dlgames.square-enix.com/fft/
 
+## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2025-10-17 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 4 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: 2013-10-20 to 2016-12-22 http://www.jp.square-enix.com/game/ps4/; 2018-01-30 http://www.jp.square-enix.com/game/pf/ps4/; 2018-10-10 https://www.jp.square-enix.com/game/pf/ps4/; 2019-09-18 to live https://www.jp.square-enix.com/game/?pf=1; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou (2013 to 2016 captures); from 2018 the labels パッケージ (disc), ダウンロード, オンライン専用, VR専用 and VR対応 are shown as text; "none" = no icon (not stated). CERO ratings are recorded from the 2018 captures, where the page shows them as text.
+  - ファイナルファンタジータクティクス - イヴァリース クロニクルズ; タクティカルRPG; first listed 2025-10-17: release 2025.09.30; icons: パッケージ, ダウンロード; CERO C; listed in every capture from 2025-10-17 to live (2026-10-26)
+    - https://store.jp.square-enix.com/sp/fft_tic/index.html -- e-STOREで購入 link, listed 2025-10-17 -- link recorded only -- archived: https://web.archive.org/web/20251107123723/https://store.jp.square-enix.com/sp/fft_tic/index.html
+    - https://store.playstation.com/ja-jp/concept/10008527/ -- PlayStation Store link, listed 2025-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20251107123723/https://store.playstation.com/ja-jp/concept/10008527/
+    - https://www.jp.square-enix.com/fft_tic/ -- 公式サイト link, listed 2025-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20251107123723/https://www.jp.square-enix.com/fft_tic/
+    - https://store.jp.square-enix.com/estore/g/gPLJM-17445/ -- e-STOREで購入 link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store.jp.square-enix.com/estore/g/gPLJM-17445/
+
 ## Decisions
 
 

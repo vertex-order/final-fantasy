@@ -35,4 +35,16 @@
 
 - https://www.xbox.com/games/store/stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition/9pnbm7k445cm
 
+## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2021-11-19 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 4 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: 2013-10-20 to 2016-12-22 http://www.jp.square-enix.com/game/ps4/; 2018-01-30 http://www.jp.square-enix.com/game/pf/ps4/; 2018-10-10 https://www.jp.square-enix.com/game/pf/ps4/; 2019-09-18 to live https://www.jp.square-enix.com/game/?pf=1; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou (2013 to 2016 captures); from 2018 the labels パッケージ (disc), ダウンロード, オンライン専用, VR専用 and VR対応 are shown as text; "none" = no icon (not stated). CERO ratings are recorded from the 2018 captures, where the page shows them as text.
+  - ストレンジャー オブ パラダイス ファイナルファンタジー オリジン; アクションRPG; first listed 2021-11-19: release 2022.03.18予定; icons: パッケージ, ダウンロード; 審査予定; changes: 2022-08-22: release 2022.03.18予定 to 2022.03.18; 審査予定 to CERO D; listed in every capture from 2021-11-19 to live (2026-10-26)
+    - https://store.jp.square-enix.com/sp/fforigin/index.html -- e-STOREで予約 link, listed 2021-11-19 -- link recorded only -- archived: https://web.archive.org/web/20211119031606/https://store.jp.square-enix.com/sp/fforigin/index.html
+    - https://store.playstation.com/ja-jp/concept/10002585/ -- PlayStation Store link, listed 2021-11-19 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20211119031606/https://store.playstation.com/ja-jp/concept/10002585/
+    - https://www.jp.square-enix.com/sopffo/ -- 公式サイト link, listed 2021-11-19 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20211119031606/https://www.jp.square-enix.com/sopffo/
+    - https://store.jp.square-enix.com/item/PLJM_16961.html -- e-STOREで購入 link, listed 2022-08-22 to 2025-10-17 -- link recorded only -- archived: https://web.archive.org/web/20220822180926/https://store.jp.square-enix.com/item/PLJM_16961.html (last listing: https://web.archive.org/web/20251107123723/https://store.jp.square-enix.com/item/PLJM_16961.html)
+    - https://store.jp.square-enix.com/estore/g/gPLJM-16961/ -- e-STOREで購入 link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store.jp.square-enix.com/estore/g/gPLJM-16961/
+
 ## Decisions

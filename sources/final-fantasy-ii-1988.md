@@ -152,6 +152,19 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
 - http://dlgames.square-enix.com/jp/vc/ -- the Japanese Virtual Console (バーチャルコンソール) menu, saved pages read by me: ファイナルファンタジーII; genre RPG; release 2009.06.16; listed in all three captures; links http://dlgames.square-enix.com/jp/vc/2009/ff2/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/
   - the captures' own links to the detail page: https://web.archive.org/web/20100328070952/http://dlgames.square-enix.com/jp/vc/2009/ff2/, https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/2009/ff2/, https://web.archive.org/web/20120514024939/http://dlgames.square-enix.com/jp/vc/2009/ff2/ -- accessed 2026-10-25 -- link recorded only
 
+## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2023-09-15 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 4 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: 2013-10-20 to 2016-12-22 http://www.jp.square-enix.com/game/ps4/; 2018-01-30 http://www.jp.square-enix.com/game/pf/ps4/; 2018-10-10 https://www.jp.square-enix.com/game/pf/ps4/; 2019-09-18 to live https://www.jp.square-enix.com/game/?pf=1; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou (2013 to 2016 captures); from 2018 the labels パッケージ (disc), ダウンロード, オンライン専用, VR専用 and VR対応 are shown as text; "none" = no icon (not stated). CERO ratings are recorded from the 2018 captures, where the page shows them as text.
+  - ファイナルファンタジーII（ピクセルリマスター）; RPG; first listed 2023-09-15: release 2023.04.20; icons: ダウンロード; CERO A; listed in every capture from 2023-09-15 to live (2026-10-26)
+    - https://store.playstation.com/ja-jp/product/JP0082-CUSA33820_00-FF2PS4APPJPN0001 -- PlayStation Store link, listed 2023-09-15 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20230915044930/https://store.playstation.com/ja-jp/product/JP0082-CUSA33820_00-FF2PS4APPJPN0001
+    - https://www.jp.square-enix.com/game/detail/ff2/ -- 商品詳細 link, listed 2023-09-15 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20230915045010mp_/https://www.jp.square-enix.com/game/detail/ff2/
+  - ファイナルファンタジーI-VI コレクション メモリアルパッケージ; RPG; first listed 2025-10-17: release 2025.03.20; icons: パッケージ; CERO B; listed in every capture from 2025-10-17 to live (2026-10-26)
+    - https://store.jp.square-enix.com/item/PLJM_17186.html -- e-STOREで購入 link, listed 2025-10-17 -- link recorded only -- archived: https://web.archive.org/web/20251107123723/https://store.jp.square-enix.com/item/PLJM_17186.html
+    - https://www.jp.square-enix.com/ff_pixelremaster/ -- 公式サイト link, listed 2025-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20251107123723/https://www.jp.square-enix.com/ff_pixelremaster/
+    - https://store.jp.square-enix.com/estore/g/gPLJM-17186/ -- e-STOREで購入 link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store.jp.square-enix.com/estore/g/gPLJM-17186/
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

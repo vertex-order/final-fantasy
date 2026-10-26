@@ -592,20 +592,23 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     },
   },
   {
-    mediaType: 'Game', chronoOrder: 350, narrativeOrder: 330,
-    title: 'Dragon Quest & Final Fantasy in Itadaki Street Mobile', titleDate: '2010-07-01',
+    mediaType: 'Game', chronoOrder: 360, narrativeOrder: 335,
+    title: 'Itadaki Street Party Games', titleUrl: 'https://wikipedia.org/wiki/Itadaki_Street', titleDate: { start: '2004-12-22', end: '2017-10-19' },
     mediaDesc: [
-      [{ text: 'A mobile board game in the ' }, { emText: 'Itadaki Street' }, { text: ' style, where rivals race to become the richest, with characters from both series, among them Cloud, Tifa, Aerith, Yuffie, Squall, Rinoa and a Moogle, and maps such as Alexandria, Tycoon Castle and the Crystal Tower. Launched as ' }, { emText: 'Final Fantasy in Itadaki Street Mobile' }, { text: ' (' }, { text: 'ファイナルファンタジー in いただきストリートMOBILE', lang: 'ja' }, { text: ') and renamed on 2011-02-03.' }],
+      [{ text: 'Digital Board games in the ' }, { emText: 'Itadaki Street' }, { text: ' style, where rivals race to become the richest, that bring Final Fantasy characters together, as well as multiple other franchises.' }],
     ],
     primary: {
-      tags: ['Mashup', 'Board game', 'Mobile'],
-      terminated: true,
+      tags: ['Mashup', 'Board game'],
+      contentsLabel: 'games',
+      length: '4 games',
       languages: [
         { value: 'JA', native: true },
       ],
-      profileUrl: 'https://web.archive.org/web/20110511091729/http://www.square-enix.co.jp/mobile/sem/itast-sp/', profileHreflang: 'ja',
-      platforms: [
-        { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'NTT DoCoMo i-mode; au EZweb' },
+      contents: [
+        { title: 'Dragon Quest & Final Fantasy in Itadaki Street Special', titleDate: '2004-12-22', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Dragon_Quest_%26_Final_Fantasy_in_Itadaki_Street_Special', platforms: [{ key: 'playstation2', jpTag: true }] },
+        { title: 'Dragon Quest & Final Fantasy in Itadaki Street Portable', titleDate: '2006-05-25', titleUrl: 'https://wikipedia.org/wiki/Dragon_Quest_%26_Final_Fantasy_in_Itadaki_Street_Portable', platforms: [{ key: 'playstation-portable', jpTag: true }, { key: 'playstation-vita', jpTag: true, paren: 'PSP compatibility', more: true }] },
+        { title: 'Dragon Quest & Final Fantasy in Itadaki Street Mobile', titleDate: '2010-07-01', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Dragon_Quest_%26_Final_Fantasy_in_Itadaki_Street_Mobile', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true, paren: 'NTT DoCoMo i-mode; au EZweb' }] },
+        { title: 'Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary', titleDate: '2017-10-19', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Itadaki_Street:_Dragon_Quest_%26_Final_Fantasy_30th_Anniversary', platforms: [{ key: 'playstation4', jpTag: true, paren: 'Physical; Digital', url: 'https://store.playstation.com/ja-jp/product/JP0082-CUSA05408_00-APPCONVPS4XXXXXX', hreflang: 'ja' }, { key: 'playstation-vita', jpTag: true }, { key: 'playstation5', jpTag: true, paren: 'PS4 compatibility', more: true }] },
       ],
     },
   },

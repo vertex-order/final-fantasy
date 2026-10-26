@@ -134,6 +134,14 @@ value, ours, and why, so the corrections can be reported upstream.
 - Our source: [chocobos-mysterious-story-1998.md](../sources/chocobos-mysterious-story-1998.md)
 - Backed by: the NDL record of volume 1, and the author's own Palmie and note.com bios, spell it ふしぎものがたり.
 
+### Dragon Quest & Final Fantasy in Itadaki Street Mobile (platforms)
+
+- Page: https://breezewiki.com/finalfantasy/wiki/Dragon_Quest_%26_Final_Fantasy_in_Itadaki_Street_Mobile
+- Says: platforms iOS and iPadOS.
+- Should be: i-mode (NTT DoCoMo) and EZweb (au) feature phones; not on iOS.
+- Our source: [itadaki-street-party-games-2004.md](../sources/itadaki-street-party-games-2004.md)
+- Backed by: Square Enix Mobile's own game page lists i-mode and EZweb
+
 ## Candidates
 
 ### Hiroshi Kato (かとうひろし): "Katou" on community pages, "Fushi" in a title

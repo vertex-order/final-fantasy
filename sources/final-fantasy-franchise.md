@@ -124,7 +124,7 @@
     - Four ranking Flash games with Moogle, Bomb and Cactuar (2008): [final-fantasy-minigames-2005.md](final-fantasy-minigames-2005.md)
     - 魔界塔士サ・ガ (i-mode 2007-07-02, EZweb 2007-12-13, SoftBank 2008-03-12): [the-final-fantasy-legend-i-iii-1989.md](the-final-fantasy-legend-i-iii-1989.md)
     - 聖剣伝説 -ファイナルファンタジー外伝- (distribution resumed 2011-05-18 and 2011-05-19): [final-fantasy-adventure-1991.md](final-fantasy-adventure-1991.md)
-    - ファイナルファンタジー in いただきストリート MOBILE (2010-07-01), renamed 2011-02-03: [dragon-quest-final-fantasy-in-itadaki-street-mobile-2010.md](dragon-quest-final-fantasy-in-itadaki-street-mobile-2010.md)
+    - ファイナルファンタジー in いただきストリート MOBILE (2010-07-01), renamed 2011-02-03: [itadaki-street-party-games-2004.md](itadaki-street-party-games-2004.md)
   - MONOTONE: original RPG for keitai, concept design by Tetsuya Nomura (https://web.archive.org/web/20080519043806/http://www.square-enix.co.jp/mobile/mono/, Flash site: story, system and delivered-episodes pages) -- accessed 2026-10-24
     - Story: a boy names himself the last hero in a world losing "color" and "sound" to a Demon King
     - Command battle (attack, magic, item); art is not Final Fantasy's
@@ -220,6 +220,22 @@
 - the same list in its later layout (platform filter ?pf=99,2), capture of 2019-10-29: https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- visited and audited -- accessed 2026-10-25 (saved page read by me)
 - the same list, capture of 2025-02-17 (the last): https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- visited and audited -- accessed 2026-10-25 (saved page read by me)
 - http://www.jp.square-enix.com/game/psp/ -- the PlayStation Portable list (one of the "By model" lists), capture of 2015-03-18: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- http://www.jp.square-enix.com/game/ps4/ -- the PlayStation 4 list (one of the "By model" lists), capture of 2013-10-20: https://web.archive.org/web/20131020014858/http://www.jp.square-enix.com/game/ps4/ -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2014-11-27: https://web.archive.org/web/20141127151101/http://www.jp.square-enix.com/game/ps4/ -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2015-12-06: https://web.archive.org/web/20151206141827/http://www.jp.square-enix.com/game/ps4/ -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2016-12-22: https://web.archive.org/web/20161222160033/http://www.jp.square-enix.com/game/ps4/ -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2018-01-30: https://web.archive.org/web/20180130171310/http://www.jp.square-enix.com/game/pf/ps4/ -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2018-10-10: https://web.archive.org/web/20181010135604/https://www.jp.square-enix.com/game/pf/ps4/ -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list in its later layout (platform filter ?pf=1), capture of 2019-09-18: https://web.archive.org/web/20190918234142/https://www.jp.square-enix.com/game/?pf=1 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2020-11-05: https://web.archive.org/web/20201105134105/https://www.jp.square-enix.com/game/?pf=1 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2021-11-19: https://web.archive.org/web/20211119031622/https://www.jp.square-enix.com/game/?pf=1 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2022-08-22: https://web.archive.org/web/20220822181112/https://www.jp.square-enix.com/game/?pf=1 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2022-12-25: https://web.archive.org/web/20221225063644/https://www.jp.square-enix.com/game/?pf=1 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2023-09-15: https://web.archive.org/web/20230915045010/https://www.jp.square-enix.com/game/?pf=1 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2024-10-07: https://web.archive.org/web/20241007113239/https://www.jp.square-enix.com/game/?pf=1 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2025-10-17: https://web.archive.org/web/20251017110549/https://www.jp.square-enix.com/game/?pf=1 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, capture of 2026-10-17: https://web.archive.org/web/20261017121812/https://www.jp.square-enix.com/game/?pf=1 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- the same list, live page of 2026-10-26: https://www.jp.square-enix.com/game/?pf=1 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 
