@@ -81,6 +81,8 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
           platforms: [
             { key: 'apple', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20210629040229/https://apps.apple.com/us/app/final-fantasy-ii/id354974729' },
             { key: 'playstation-portable', paren: 'Physical' },
+            { key: 'playstation-portable', jpTag: true, paren: 'Digital', url: 'https://web.archive.org/web/20110826084409/http://dlgames.square-enix.com/jp/psp_dl/2011/ff2/' },
+            { key: 'playstation-vita', jpTag: true, paren: 'Digital; PSP compatibility' },
           ],
           versionDesc: [
             [{ text: "This edit adds a bonus dungeon and refines Remaster (2002)'s bonus content. Released as " }, { emText: 'Final Fantasy II Anniversary Edition (2007)' }, { text: '. Includes the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign.' }],

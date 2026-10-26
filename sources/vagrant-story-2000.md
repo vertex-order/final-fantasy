@@ -23,6 +23,12 @@
 - https://web.archive.org/web/20160512034938/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2016-05-12 (saved page read by me): Vagrant Story (ベイグラントストーリー), role-playing adventure, release 2009.08.12, "supported PlayStation Vita from 2012.08.28"; links the pages below -- accessed 2026-10-25 (detail page not read)
   - https://web.archive.org/web/20160512034938/http://dlgames.square-enix.com/jp/psga/2009/vagrantstory/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
+## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
+
+- http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/
+  - Each item carries icons, read from the images: ONLINE 対応 ("online"), ダウンロード対応 ("Download (compatible)"), ダウンロード専用 ("Download (exclusive)"), Game Archives 専用 (alt text ゲームアーカイブス(PS3/PSP/PSV)), or none
+  - ベイグラントストーリー; ロールプレイング・アドベンチャー; release 2009.08.12; PlayStation Vita supported from 2012.08.28; icons: Game Archives (PS3/PSP/PSV); links http://dlgames.square-enix.com/jp/psga/2009/vagrantstory/
+
 ## jp.square-enix.com (Publisher; Japan, 2019 capture)
 
 - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25

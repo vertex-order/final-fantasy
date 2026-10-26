@@ -163,6 +163,9 @@
 
 - http://dlgames.square-enix.com/jp/ps3_dl -- the Japanese PlayStation 3 download menu, capture of 2009-12-25: Crystal Defenders, Defense Simulation, release 2009.10.29 (the PSP date; the official page above gives the PS3 date as 2009-03-11); links http://www.crystaldefenders.jp/jp/ -- accessed 2026-10-25 (text pasted by user) -- archived: https://web.archive.org/web/20091225145915/http://dlgames.square-enix.com/jp/ps3_dl
 - http://dlgames.square-enix.com/jp/psp_dl/ -- the Japanese PSP download menu, capture of 2009-12-26: クリスタル・ディフェンダーズ, ディフェンス・シミュレーション, release 2009.10.29; links http://www.crystaldefenders.jp/jp/ -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20091226170104/http://dlgames.square-enix.com/jp/psp_dl/
+- http://dlgames.square-enix.com/jp/psp_dl/ -- the Japanese PSP download menu, capture of 2011-04-29: クリスタル・ディフェンダーズ, release 2009.10.29, links http://dlgames.square-enix.com/jp/psp_dl/2009/crystaldefenders/ and http://www.crystaldefenders.jp/jp/ (unchanged against 2009-12-26) -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20110429212138/http://dlgames.square-enix.com/jp/psp_dl/
+- http://dlgames.square-enix.com/jp/psp_dl/2009/crystaldefenders/ -- the menu's detail page; the captures of 2010-05-16 and 2010-05-18 show the FINAL FANTASY TACTICS 獅子戦争 detail page's text, so the page shows nothing about the game -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20100518142555/http://dlgames.square-enix.com/jp/psp_dl/2009/crystaldefenders/
+
 - http://www.crystaldefenders.jp/jp/ -- the Japanese product site, capture of 2009-12-25: news item 09.03.11 "Crystal Defenders for PS3 and Xbox Live Arcade launched today!" -- accessed 2026-10-25 (text pasted by user) -- archived: https://web.archive.org/web/20091225145915/http://www.crystaldefenders.jp/jp/
 - https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Crystal Defenders, Download, Defense Simulation, release 2009.03.11, "the PlayStation 3 (download) version is available from W1 to W3" -- accessed 2026-10-25 (text pasted by user)
 - https://web.archive.org/web/20150410063306/http://www.crystaldefenders.jp/jp/ -- the game's official website link on the 2015-04-10 list -- accessed 2026-10-25 (link given by user)
@@ -171,6 +174,12 @@
 
 - http://www.square-enix.co.jp/smart/market/game004.html -- the Android version sold on Square Enix Market, Japan only: release 2011-12-01; holds W1 and W2 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120204205708/http://www.square-enix.co.jp/smart/market/game004.html
   - The store is described in final-fantasy-franchise.md
+
+## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
+
+- http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/
+  - Each item carries icons, read from the images: ONLINE 対応 ("online"), ダウンロード対応 ("Download (compatible)"), ダウンロード専用 ("Download (exclusive)"), Game Archives 専用 (alt text ゲームアーカイブス(PS3/PSP/PSV)), or none
+  - クリスタル・ディフェンダーズ; ディフェンス・シミュレーション; release 2009.10.29; icons: Download (exclusive); links http://www.crystaldefenders.jp/jp/
 
 ## jp.square-enix.com (Publisher; Japan, 2019 capture)
 

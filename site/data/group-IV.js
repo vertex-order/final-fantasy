@@ -60,6 +60,8 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
           ],
           platforms: [
             { key: 'playstation-portable', paren: 'Physical' },
+            { key: 'playstation-portable', jpTag: true, paren: 'Digital' },
+            { key: 'playstation-vita', jpTag: true, paren: 'Digital; PSP compatibility' },
           ],
           versionDesc: [
             'This port is based on Edit (2005), with a returning opening FMV, auto-battle, faster loading via Data Install, new 3D cutscenes, and a choice between Famicom and 3D Remake soundtracks.',
@@ -305,6 +307,8 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy IV Interlude' },
         { key: 'playstation-portable', paren: 'Physical' },
+        { key: 'playstation-portable', jpTag: true, paren: 'Digital' },
+        { key: 'playstation-vita', jpTag: true, paren: 'Digital; PSP compatibility' },
       ],
       versionDesc: [
         [{ text: 'Included in the omnibus compilation ' }, { emText: 'Final Fantasy IV: The Complete Collection' }, { text: ' along with ' }, { emLinkText: 'IV (1991)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991' }, { text: ' and ' }, { emLinkText: 'The After Years (2008)', emLinkUrl: '#entry-IV-final-fantasy-iv-the-after-years-2008' }, { text: '.' }],
@@ -335,6 +339,8 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
         { key: 'fan-recap', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube' },
         { key: 'playstation-portable', paren: 'Physical' },
+        { key: 'playstation-portable', jpTag: true, paren: 'Digital' },
+        { key: 'playstation-vita', jpTag: true, paren: 'Digital; PSP compatibility' },
       ],
       versions: [
         {

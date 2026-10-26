@@ -51,4 +51,21 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)_v
   - A Flash site (loader.swf): the HTML shell holds only the title DISSIDIA FINAL FANTASY UNIVERSAL TUNING, the keywords プログレッシブ ドラマチック アクション and PSP, and two banners; the Flash content is not read
   - Banners link the member special site http://member.square-enix.com/jp/special/dissidia/ and a guidebook page, http://www.square-enix.co.jp/magazine/gamebooks/ff/ffdd_ult2/index.html (ディシディア ファイナルファンタジー ユニバーサルチューニング 調査報告書)
 
+- http://dlgames.square-enix.com/jp/psp_dl/ -- the Japanese PSP download menu, capture of 2011-04-29 (new against 2009-12-26): DISSIDIA 012[duodecim] FINAL FANTASY, ドラマチック プログレッシブ アクション, release 2011.03.03, links http://www.square-enix.co.jp/dissidia_012/; DISSIDIA FINAL FANTASY, same genre, release 2010.09.16, links http://dlgames.square-enix.com/jp/psp_dl/2010/dissidia/ and http://www.square-enix.co.jp/dissidia/top.html; Universal Tuning, release 2009.11.01, now links http://dlgames.square-enix.com/jp/psp_dl/2009/dissidia_ut/ and http://www.square-enix.co.jp/dissidia_ut/top.html -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20110429212138/http://dlgames.square-enix.com/jp/psp_dl/
+- http://www.square-enix.co.jp/dissidia_012/ -- the Dissidia 012 official site (Flash; keywords DISSIDIA 012, デュオデシム, PSP) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110430093425/http://web.square-enix.co.jp/dissidia_012/
+- http://www.square-enix.co.jp/dissidia/top.html -- the Dissidia official site (Flash; title DISSIDIA FINAL FANTASY) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110513210103/http://www.square-enix.co.jp/dissidia/top.html
+- http://www.square-enix.co.jp/dissidia_ut/top.html -- the Universal Tuning site's top page (Flash) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110512061407/http://www.square-enix.co.jp/dissidia_ut/top.html
+- http://dlgames.square-enix.com/jp/psp_dl/2010/dissidia/ and http://dlgames.square-enix.com/jp/psp_dl/2009/dissidia_ut/ -- the menu's detail pages; no status-200 capture in the Wayback index for 2009 to 2012, so not read
+
+## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
+
+- http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/
+  - Each item carries icons, read from the images: ONLINE 対応 ("online"), ダウンロード対応 ("Download (compatible)"), ダウンロード専用 ("Download (exclusive)"), Game Archives 専用 (alt text ゲームアーカイブス(PS3/PSP/PSV)), or none
+  - アルティメット ヒッツ ディシディア デュオデシム ファイナルファンタジー; ドラマチック プログレッシブ アクション; release 2012.07.05; icons: online; links http://www.square-enix.co.jp/uh/
+  - ディシディア デュオデシム ファイナルファンタジー; ドラマチック プログレッシブ アクション; release 2011.03.03; icons: online, Download (compatible); links http://www.square-enix.co.jp/dissidia_012/
+  - アルティメット ヒッツ ディシディア ファイナルファンタジー ユニバーサルチューニング; ドラマチック プログレッシブ アクション; release 2010.09.16; icons: online; links http://www.square-enix.co.jp/uh/
+  - アルティメット ヒッツ ディシディア ファイナルファンタジー; ドラマチック プログレッシブ アクション; release 2010.09.16; icons: online; links http://www.square-enix.co.jp/uh/
+  - ディシディア ファイナルファンタジー ユニバーサルチューニング; ドラマチック プログレッシブ アクション; release 2009.11.01; icons: online, Download (compatible); links http://www.square-enix.co.jp/dissidia_ut/
+  - ディシディア ファイナルファンタジー; ドラマチック プログレッシブ アクション; release 2008.12.18; icons: online, Download (compatible); links http://www.square-enix.co.jp/dissidia/
+
 ## Decisions

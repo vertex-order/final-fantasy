@@ -72,4 +72,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
   - the story takes about 15 hours and a full completion about 50
   - the entry has a `playstation-portable` row
 
+## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
+
+- http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/
+  - Each item carries icons, read from the images: ONLINE 対応 ("online"), ダウンロード対応 ("Download (compatible)"), ダウンロード専用 ("Download (exclusive)"), Game Archives 専用 (alt text ゲームアーカイブス(PS3/PSP/PSV)), or none
+  - アルティメット ヒッツ クライシスコア －ファイナルファンタジーVII－; アクションRPG; release 2009.07.30; no icon; links http://www.square-enix.co.jp/uh/
+  - クライシス コア -ファイナルファンタジーVII-; アクションRPG; release 2007.09.13; no icon; links http://www.square-enix.co.jp/ccff7/
+
 ## Decisions

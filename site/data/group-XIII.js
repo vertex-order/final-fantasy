@@ -475,7 +475,9 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation-portable', jpTag: true },
+            { key: 'playstation-portable', jpTag: true, paren: 'Physical' },
+            { key: 'playstation-portable', jpTag: true, paren: 'Digital' },
+            { key: 'playstation-vita', jpTag: true, paren: 'Digital; PSP compatibility' },
           ],
           versionDesc: [
             'The original release.',

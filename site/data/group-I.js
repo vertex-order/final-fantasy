@@ -250,6 +250,8 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
           platforms: [
             { key: 'apple', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20210123061113/https://apps.apple.com/us/app/final-fantasy/id354972939' },
             { key: 'playstation-portable', paren: 'Physical' },
+            { key: 'playstation-portable', jpTag: true, paren: 'Digital', url: 'https://web.archive.org/web/20111006080227/http://dlgames.square-enix.com/jp/psp_dl/2011/ff1/' },
+            { key: 'playstation-vita', jpTag: true, paren: 'Digital; PSP compatibility' },
             { key: 'windows-phone', paren: 'Digital' },
           ],
           versionDesc: [

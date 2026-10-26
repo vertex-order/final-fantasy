@@ -118,4 +118,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - The iPad version's detail page was read too
 - http://dlgames.square-enix.com/na/ipod/2011/ff3/ -- the iPhone / iPod touch detail page, Platform iPhone / iPod touch -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20110410131825/http://dlgames.square-enix.com/na/ipod/2011/ff3/ (capture of 2011-04-10; text pasted by user)
 
+## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
+
+- http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/
+  - Each item carries icons, read from the images: ONLINE 対応 ("online"), ダウンロード対応 ("Download (compatible)"), ダウンロード専用 ("Download (exclusive)"), Game Archives 専用 (alt text ゲームアーカイブス(PS3/PSP/PSV)), or none
+  - ファイナルファンタジーIII; RPG; release 2012.09.20; icons: Download (compatible); links http://www.square-enix.co.jp/ff3/
+
 ## Decisions

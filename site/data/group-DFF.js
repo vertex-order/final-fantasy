@@ -49,7 +49,9 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
       ],
       length: [{ value: '29h', tip: 'Main Story', join: ' / ' }, { value: '65½h', tip: 'Main + Extra', join: ' / ' }, { value: '150h', tip: 'Completionist' }],
       platforms: [
-        { key: 'playstation-portable' },
+        { key: 'playstation-portable', paren: 'Physical' },
+        { key: 'playstation-portable', jpTag: true, paren: 'Digital' },
+        { key: 'playstation-vita', jpTag: true, paren: 'Digital; PSP compatibility' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'Dissidia 012 Final Fantasy' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Dissidia 012 Final Fantasy', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Dissidia 012 Final Fantasy' },

@@ -205,6 +205,20 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 - http://dlgames.square-enix.com/jp/psga/2009/fftactics/ -- the Japanese Game Archives detail page; Wayback captures to 2016-07-22 (https://web.archive.org/web/20160722203405/http://dlgames.square-enix.com/jp/psga/2009/fftactics/) -- accessed 2026-10-25 -- shallow: not read (Wayback answered 429)
 - https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2009/fftactics/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)
 
+## dlgames.square-enix.com (Platform; PSP downloads, Japan)
+
+- http://dlgames.square-enix.com/jp/psp_dl/ -- the Japanese PSP download menu, capture of 2011-04-29: ファイナルファンタジータクティクス 獅子戦争, シミュレーションRPG, release 2011.03.09; links http://dlgames.square-enix.com/jp/psp_dl/2011/fftactics/ and http://www.square-enix.co.jp/fft/ -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20110429212138/http://dlgames.square-enix.com/jp/psp_dl/
+- http://dlgames.square-enix.com/jp/psp_dl/2011/fftactics/ -- the detail page: PSP download; CERO B; 1 to 2 players; new movie and new jobs; (C) 1997, 2007; links the official site -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110318181401/http://dlgames.square-enix.com/jp/psp_dl/2011/fftactics/
+- http://www.square-enix.co.jp/fft/ -- the official site, FINAL FANTASY TACTICS 獅子戦争 OFFICIAL SITE (no Flash) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110423082027/http://web.square-enix.co.jp/fft/
+
+## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
+
+- http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/
+  - Each item carries icons, read from the images: ONLINE 対応 ("online"), ダウンロード対応 ("Download (compatible)"), ダウンロード専用 ("Download (exclusive)"), Game Archives 専用 (alt text ゲームアーカイブス(PS3/PSP/PSV)), or none
+  - アルティメット ヒッツ ファイナルファンタジータクティクス 獅子戦争; シミュレーションRPG; release 2009.07.30; no icon; links http://www.square-enix.co.jp/uh/
+  - ファイナルファンタジータクティクス; シミュレーションRPG; release 2009.05.13; PlayStation Vita supported from 2012.08.28; icons: Game Archives (PS3/PSP/PSV); links http://dlgames.square-enix.com/jp/psga/2009/fftactics/
+  - ファイナルファンタジータクティクス 獅子戦争; シミュレーションRPG; release 2007.05.10; icons: Download (compatible); links http://www.square-enix.co.jp/fft/
+
 ## jp.square-enix.com (Publisher; Japan, 2019 capture)
 
 - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25

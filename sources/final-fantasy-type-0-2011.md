@@ -62,4 +62,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
 - NDL: ファイナルファンタジー零式ワールドプレビュー (SE-mook, Square Enix official, 2011.10, 139p, ISBN 9784757533530) -- http://id.ndl.go.jp/bib/000011307966 -- empty: preview/guide book, out of scope per docs/data.md -- accessed 2026-10-10
 - NDL: ファイナルファンタジー零式救世主(アギト)指南ノ書 PSP版 (V jump books, Shueisha, Square Enix supervised, 2011.10, 242p, ISBN 9784087796087) -- http://id.ndl.go.jp/bib/000011306844 -- empty: strategy guide, out of scope per docs/data.md -- accessed 2026-10-10
 
+## dlgames.square-enix.com (Platform; PSP downloads, Japan)
+
+- http://dlgames.square-enix.com/jp/psp_dl/ -- the Japanese PSP download menu, capture of 2012-04-29 (new against 2011-04-29): FINAL FANTASY 零式, RPG, release 2011.10.27; links http://www.square-enix.co.jp/fabula/0/ (no dlgames detail page) -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20120429230553/http://dlgames.square-enix.com/jp/psp_dl/
+- http://www.square-enix.co.jp/fabula/0/ -- the official site, FINAL FANTASY 零式 (Flash) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120502075031/http://www.square-enix.co.jp/fabula/0/
+
+## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
+
+- http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/
+  - Each item carries icons, read from the images: ONLINE 対応 ("online"), ダウンロード対応 ("Download (compatible)"), ダウンロード専用 ("Download (exclusive)"), Game Archives 専用 (alt text ゲームアーカイブス(PS3/PSP/PSV)), or none
+  - アルティメット ヒッツ ファイナルファンタジー零式; RPG; release 2012.12.06; icons: online; links http://www.square-enix.co.jp/uh/
+  - ファイナルファンタジー 零式; RPG; release 2011.10.27; 本作品は『ファイナルファンタジー アギトXIII』から名称を変更したものです。; icons: online, Download (compatible); links http://www.square-enix.co.jp/fabula/0/
+
 ## Decisions

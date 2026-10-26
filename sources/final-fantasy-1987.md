@@ -218,6 +218,20 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
 - http://dlgames.square-enix.com/jp/psga/2009/ff1/ -- the Japanese Game Archives detail page: release 2008.06.24 (PS3, PSP; the list and the page's /2009/ path say 2009) and 2012.08.28 (PS Vita); platforms PS3, PSP and PS Vita; RPG; 1 player; CERO A (all ages) -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20161223040335/http://dlgames.square-enix.com/jp/psga/2009/ff1/
 - https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2009/ff1/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)
 
+## dlgames.square-enix.com (Platform; PSP downloads, Japan)
+
+- http://dlgames.square-enix.com/jp/psp_dl/ -- the Japanese PSP download menu, capture of 2011-04-29: ファイナルファンタジー, RPG, release 2011.02.22; links http://dlgames.square-enix.com/jp/psp_dl/2011/ff1/ and http://www.square-enix.co.jp/ff20th/ -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20110429212138/http://dlgames.square-enix.com/jp/psp_dl/
+- http://dlgames.square-enix.com/jp/psp_dl/2011/ff1/ -- the detail page: PSP download; CERO A; 1 player; graphics redrawn for the PSP, the PlayStation version's opening movie and the Game Boy Advance version's added scenario included, an original added dungeon; (C) 1987, 2007; links the official site and http://dlgames.square-enix.com/jp/psp_dl/2011/ff2/ as the related title -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20111006080227/http://dlgames.square-enix.com/jp/psp_dl/2011/ff1/
+- http://www.square-enix.co.jp/ff20th/ -- the 20th anniversary site (Flash; title ファイナルファンタジー20周年), the detail page's official-site link -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110423180159/http://web.square-enix.co.jp/ff20th/
+
+## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
+
+- http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/
+  - Each item carries icons, read from the images: ONLINE 対応 ("online"), ダウンロード対応 ("Download (compatible)"), ダウンロード専用 ("Download (exclusive)"), Game Archives 専用 (alt text ゲームアーカイブス(PS3/PSP/PSV)), or none
+  - アルティメット ヒッツ ファイナルファンタジー; RPG; release 2009.07.30; no icon; links http://www.square-enix.co.jp/uh/
+  - ファイナルファンタジー; RPG; release 2009.06.24; PlayStation Vita supported from 2012.08.28; icons: Game Archives (PS3/PSP/PSV); links http://dlgames.square-enix.com/jp/psga/2009/ff1/
+  - ファイナルファンタジー; RPG; release 2007.04.19; icons: Download (compatible); links http://www.jp.square-enix.com/archive/ff1_psp/
+
 ## jp.square-enix.com (Publisher; Japan, 2019 capture)
 
 - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25

@@ -140,7 +140,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
             ],
             helpWanted: true,
             platforms: [
-              { key: 'playstation-portable', paren: 'Physical in Japan; Digital elsewhere' },
+              { key: 'playstation-portable', paren: 'Physical; Digital' },
             ],
             versionDesc: [
               [{ text: 'This port adds auto-battle, a soundtrack toggle, a bonus Art Gallery and BGM player, and faster loading via Data Install.' }],
