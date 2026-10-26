@@ -202,7 +202,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 ## dlgames.square-enix.com (Platform; Game Archives, Japan)
 
 - https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Final Fantasy Tactics, Game Archives (PS3/PSP/PSV), Simulation RPG, release 2009.05.13, "supported PlayStation Vita from 2012.08.28" -- accessed 2026-10-25 (text pasted by user)
-- http://dlgames.square-enix.com/jp/psga/2009/fftactics/ -- the Japanese Game Archives detail page; Wayback captures to 2016-07-22 (https://web.archive.org/web/20160722203405/http://dlgames.square-enix.com/jp/psga/2009/fftactics/) -- accessed 2026-10-25 -- shallow: not read (Wayback answered 429)
+- http://dlgames.square-enix.com/jp/psga/2009/fftactics/ -- the Japanese Game Archives detail page; Wayback captures to 2016-07-22 (https://web.archive.org/web/20160722203405/http://dlgames.square-enix.com/jp/psga/2009/fftactics/) -- accessed 2026-10-25 (page text pasted by user; the capture's Flash loader fails in the browser, the text is the page's own)
+  - ファイナルファンタジータクティクス; the original, now on Game Archives; release 2009.05.13 (PS3, PSP) and 2012.08.28 (PS Vita); genre シュミレーションRPG; 1 player; CERO B; hardware PlayStation 3, PlayStation Portable, PlayStation Vita; story text of Ramza and Delita in Ivalice's Lion War
 - https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2009/fftactics/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)
 
 ## dlgames.square-enix.com (Platform; PSP downloads, Japan)

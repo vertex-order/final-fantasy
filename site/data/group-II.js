@@ -126,7 +126,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
             { value: '…?' },
           ],
           platforms: [
-            { key: 'playstation3', paren: 'Digital', url: 'https://web.archive.org/web/20160820174734/http://dlgames.square-enix.com/jp/psga/2009/ff2/' },
+            { key: 'playstation3', paren: 'Digital', url: 'https://web.archive.org/web/20191020025526/https://store.playstation.com/ja-jp/product/JP0082-NPJJ00273_00-0000000000000001' },
             { key: 'playstation2', paren: 'PSone compatibility' },
             { key: 'playstation1', paren: 'Physical' },
             { key: 'playstation-vita', paren: 'Digital; PSP compatibility', url: 'https://web.archive.org/web/20160820174734/http://dlgames.square-enix.com/jp/psga/2009/ff2/' },

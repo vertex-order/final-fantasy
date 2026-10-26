@@ -48,6 +48,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
         { score: '7.3', url: 'https://www.metacritic.com/game/dissidia-012-duodecim-final-fantasy/', key: 'metacritic-user' },
       ],
       length: [{ value: '29h', tip: 'Main Story', join: ' / ' }, { value: '65½h', tip: 'Main + Extra', join: ' / ' }, { value: '150h', tip: 'Completionist' }],
+      profileUrl: 'https://web.archive.org/web/20110430093425/http://web.square-enix.co.jp/dissidia_012/', profileHreflang: 'ja',
       platforms: [
         { key: 'playstation-portable', paren: 'Physical' },
         { key: 'playstation-portable', jpTag: true, paren: 'Digital' },

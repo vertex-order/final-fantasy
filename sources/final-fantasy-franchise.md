@@ -184,10 +184,23 @@
 ## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, PlayStation 3, Japan)
 
 - http://dlgames.square-enix.com/jp/ps3_dl -- "PlayStation3" download menu, capture of 2009-12-25: https://web.archive.org/web/20091225145915/http://dlgames.square-enix.com/jp/ps3_dl -- visited and audited -- accessed 2026-10-25 (text pasted by user)
+  - Capture of 2012-04-29: https://web.archive.org/web/20120429093926/http://dlgames.square-enix.com/jp/ps3_dl/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- http://dlgames.square-enix.com/jp/psp_dl/ -- "PSP ダウンロード配信" menu, capture of 2009-12-26: https://web.archive.org/web/20091226170104/http://dlgames.square-enix.com/jp/psp_dl/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2011-04-29: https://web.archive.org/web/20110429212138/http://dlgames.square-enix.com/jp/psp_dl/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2012-04-29: https://web.archive.org/web/20120429230553/http://dlgames.square-enix.com/jp/psp_dl/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2013-05-28: https://web.archive.org/web/20130528193159/http://dlgames.square-enix.com/jp/psp_dl/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
 - http://dlgames.square-enix.com/jp/wiiware/ -- "Wiiウェア" menu, capture of 2009-12-26: https://web.archive.org/web/20091226170109/http://dlgames.square-enix.com/jp/wiiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
   - Capture of 2011-02-25: https://web.archive.org/web/20110225052950/http://dlgames.square-enix.com/jp/wiiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
   - Capture of 2012-02-25: https://web.archive.org/web/20120225175917/http://dlgames.square-enix.com/jp/wiiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
   - Capture of 2013-04-02: https://web.archive.org/web/20130402122500/http://dlgames.square-enix.com/jp/wiiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- http://dlgames.square-enix.com/jp/dsiware/ -- "ニンテンドーDSiウェア" menu, capture of 2009-12-26: https://web.archive.org/web/20091226170345/http://dlgames.square-enix.com/jp/dsiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2010-02-25: https://web.archive.org/web/20100225223527/http://dlgames.square-enix.com/jp/dsiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2010-04-27: https://web.archive.org/web/20100427144457/http://dlgames.square-enix.com/jp/dsiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2011-04-28: https://web.archive.org/web/20110428124647/http://dlgames.square-enix.com/jp/dsiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2012-04-29: https://web.archive.org/web/20120429172820/http://dlgames.square-enix.com/jp/dsiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- http://dlgames.square-enix.com/jp/xboxlivearcade/ -- "Xbox LIVE アーケード" menu, capture of 2009-12-25: https://web.archive.org/web/20091225145920/http://dlgames.square-enix.com/jp/xboxlivearcade/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2011-04-30: https://web.archive.org/web/20110430151451/http://dlgames.square-enix.com/jp/xboxlivearcade/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2012-05-01: https://web.archive.org/web/20120501044222/http://dlgames.square-enix.com/jp/xboxlivearcade/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
 
 ## jp.square-enix.com (Publisher; Square Enix Japan game list)
 
@@ -197,6 +210,7 @@
 - the same list, capture of 2018-05-24: https://web.archive.org/web/20180524231957/http://www.jp.square-enix.com/game/ps3/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
 - the same list in its later layout (platform filter ?pf=99,2), capture of 2019-10-29: https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- visited and audited -- accessed 2026-10-25 (saved page read by me)
 - the same list, capture of 2025-02-17 (the last): https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- http://www.jp.square-enix.com/game/psp/ -- the PlayStation Portable list (one of the "By model" lists), capture of 2015-03-18: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 

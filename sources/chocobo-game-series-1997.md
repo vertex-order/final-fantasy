@@ -135,7 +135,7 @@
   - The Final Fantasy Wiki's series page says the same: Chocobo's Dungeon 2 is a sequel to Chocobo's Mysterious Dungeon, the series' first two-player game (https://breezewiki.com/finalfantasy/wiki/Chocobo_series)
 - https://wikipedia.org/wiki/Chocobo_Racing -- platforms*, dates* -- accessed 2026-10-23
   - PlayStation, Japan 1999-03-18, North America 1999-08-12, Europe 1999-10-11
-  - The article text (read 2026-10-25) says it was released in Japan as a PSOne Classic on 2009-02-10 and gives no Western PSN release; it also gives Japan as March 25, 1999 (DigiCube) in the text against March 1999 in the lead
+  - The article text (read 2026-10-25) says it was released in Japan as a PSOne Classic on 2009-02-10 and gives no Western PSN release; the March 25, 1999 (DigiCube) in the article is the soundtrack album's release, not the game's
 - https://wikipedia.org/wiki/Final_Fantasy_Fables:_Chocobo_Tales -- platforms*, dates* -- accessed 2026-10-23
   - Nintendo DS, Japan 2006-12-14, North America 2007-04-03, Australia 2007-05-24, Europe 2007-05-25
 - https://wikipedia.org/wiki/Final_Fantasy_Fables:_Chocobo's_Dungeon -- platforms*, dates* -- accessed 2026-10-23
@@ -307,7 +307,8 @@
   - Dice de Chocobo, Board Game, release 2008.07.23
   - Chocobo Stallion, Training Simulation, release 2008.07.23
 - Japanese Game Archives detail pages, platforms PS3, PSP and PS Vita on each; release dates PS3 and PSP / PS Vita 2012.08.28 -- accessed 2026-10-25 (raw HTML read by me except the first)
-  - http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon1/ -- Wayback captures to 2016-06-17 (https://web.archive.org/web/20160617085055/http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon1/) -- shallow: not read (Wayback answered 429)
+  - http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon1/ -- Wayback captures to 2016-06-17 (https://web.archive.org/web/20160617085055/http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon1/) -- accessed 2026-10-25 (page text pasted by user)
+    - チョコボの不思議なダンジョン; release 2010.08.25 (PS3, PSP) and 2012.08.28 (PS Vita); genre RPG; 1 player; CERO A; hardware PlayStation 3, PlayStation Portable, PlayStation Vita; Chocobo as the lead who saves a village; uses the ATB system and the new turn-based TATB
   - https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon1/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)
   - http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon2/ -- 2010.10.27; RPG; 1 player; CERO A; copyright 1998; related title Chocobo's Mysterious Dungeon -- archived: https://web.archive.org/web/20161222233716/http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon2/
   - https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon2/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)

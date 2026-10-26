@@ -474,6 +474,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
             { value: '…?' },
           ],
           helpWanted: true,
+          profileUrl: 'https://web.archive.org/web/20120502075031/http://www.square-enix.co.jp/fabula/0/', profileHreflang: 'ja',
           platforms: [
             { key: 'playstation-portable', jpTag: true, paren: 'Physical' },
             { key: 'playstation-portable', jpTag: true, paren: 'Digital' },
