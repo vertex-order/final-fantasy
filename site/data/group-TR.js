@@ -101,7 +101,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, narrativeOrder: 1510
           paren: 'Backwards Compatible; Digital',
           url: 'https://www.nintendo.com/store/products/theatrhythm-final-bar-line-switch/',
         },
-        { key: 'playstation4' },
+        { key: 'playstation4', paren: 'Physical; Digital' },
       ],
       versionDesc: [
         'DLC is available on some platforms, adding additional music including tracks from additional Final Fantasy titles.',

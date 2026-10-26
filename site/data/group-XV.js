@@ -94,7 +94,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation4' },
+            { key: 'playstation4', paren: 'Physical; Digital' },
             { key: 'playstation5', paren: 'PS4 compat' },
             { key: 'xbox-one', paren: 'Physical' },
             { key: 'xbox-xs', paren: 'Xbox One compatibility' },
@@ -506,7 +506,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       ],
       length: [{ value: '3½h', tip: 'Main Story', join: ' / ' }, { value: '5½h', tip: 'Main + Extra', join: ' / ' }, { value: '11½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'playstation4', url: 'https://www.playstation.com/games/monster-of-the-deep-final-fantasy-xv/' },
+        { key: 'playstation4', paren: 'Digital; VR only', url: 'https://www.playstation.com/games/monster-of-the-deep-final-fantasy-xv/' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'Monster of the Deep Final Fantasy XV' },
         { key: 'fan-recap', search: 'youtube', searchTitle: 'Monster of the Deep Final Fantasy XV' },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Monster of the Deep Final Fantasy XV' },

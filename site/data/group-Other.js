@@ -256,7 +256,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { title: "Chocobo's Chocotto Farm", titleDate: '2012-12-19', titleUrl: 'https://wikipedia.org/wiki/Chocobo%E2%80%99s_Chocotto_Farm', platforms: [{ key: 'mobile-phone', jpTag: true, terminated: true, paren: 'GREE', url: 'https://web.archive.org/web/20180912002134/http://jp.apps.gree.net:80/ja/58407' }, { key: 'android', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20160805125814/https://play.google.com/store/apps/details?id=com.smilelab.chocoboFarm', more: true }, { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20161121175524/https://itunes.apple.com/jp/app/chokobonochokotto-nong-yuan/id1021879139?mt=8', more: true }] },
       ],
       platforms: [
-        { key: 'playstation4' },
+        { key: 'playstation4', paren: 'Physical; Digital' },
         { key: 'playstation1', paren: 'Physical' },
         { key: 'playstation2', paren: 'PSone compatibility' },
         { key: 'playstation3', paren: 'PSone compatibility' },
