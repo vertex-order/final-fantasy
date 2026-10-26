@@ -127,4 +127,16 @@
   - ファイナルファンタジーXIV: 新生エオルゼア; MMORPG(オンラインゲーム); first listed 2013-10-20: release 2013.08.27; icons: オンライン専用, ダウンロード対応; changes: 2019-10-29: note ※none to ※PS3サービス終了 / 2025-02-17: CERO C first shown; listed: 2013-10-20 to 2015-12-08; 2019-10-29 to live (2026-10-26)
   - ファイナルファンタジーXIV オンライン; MMORPG(オンラインゲーム); first listed 2015-04-10: release 2015.06.23; icons: オンライン専用, ダウンロード対応; changes: 2019-10-29: note ※none to ※PS3サービス終了 / 2025-02-17: CERO C first shown; listed: 2015-04-10 to 2017-06-06; 2019-10-29 to live (2026-10-26)
 
+## jp.square-enix.com (Publisher; Japan, Switch 2 list, captures of 2026-10-17 to live (2026-10-26))
+
+- Square Enix Japan's Nintendo Switch 2 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: https://www.jp.square-enix.com/game/?pf=35; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Nintendo Switch2 (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - ファイナルファンタジーXIV コンプリートパック; MMORPG(オンラインゲーム); first listed 2026-10-17: release 2026.08.04; icons: オンライン専用, ダウンロード; CERO D; listed in every capture from 2026-10-17 to live (2026-10-26)
+    - https://store-jp.nintendo.com/item/software/D70070000033649 -- マイニンテンドーストア link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store-jp.nintendo.com/item/software/D70070000033649
+    - https://jp.finalfantasyxiv.com/product/ -- 公式サイト link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://jp.finalfantasyxiv.com/product/
+  - ファイナルファンタジーXIV スターターパック; MMORPG(オンラインゲーム); first listed 2026-10-17: release 2026.08.04; icons: オンライン専用, ダウンロード; CERO D; listed in every capture from 2026-10-17 to live (2026-10-26)
+    - https://store-jp.nintendo.com/item/software/D70070000033648 -- マイニンテンドーストア link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store-jp.nintendo.com/item/software/D70070000033648
+    - https://jp.finalfantasyxiv.com/product/ -- 公式サイト link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://jp.finalfantasyxiv.com/product/
+
 ## Decisions

@@ -108,4 +108,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
     - https://www.jp.square-enix.com/ccffvii_reunion/ -- 公式サイト link, listed 2022-09-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20220917052709/https://www.jp.square-enix.com/ccffvii_reunion/
     - https://store.jp.square-enix.com/item/ELJM_30165.html -- e-STOREで購入 link, listed 2023-11-13 to 2025-09-25 -- link recorded only -- archived: https://web.archive.org/web/20231113020627/https://store.jp.square-enix.com/item/ELJM_30165.html (last listing: https://web.archive.org/web/20250925101854/https://store.jp.square-enix.com/item/ELJM_30165.html)
 
+## jp.square-enix.com (Publisher; Japan, Switch 2 list, captures of 2026-10-26 to live (2026-10-26))
+
+- Square Enix Japan's Nintendo Switch 2 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: https://www.jp.square-enix.com/game/?pf=35; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Nintendo Switch2 (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - クライシス コア -ファイナルファンタジーVII- リユニオン; アクションRPG; first listed live (2026-10-26): release 2026.09.10; icons: ダウンロード; CERO C; listed on the live page of 2026-10-26 only
+    - https://store-jp.nintendo.com/item/software/D70010000106972 -- マイニンテンドーストア link, listed live (2026-10-26) -- link recorded only
+    - https://www.jp.square-enix.com/ccffvii_reunion/ -- 公式サイト link, listed live (2026-10-26) -- link recorded only
+
 ## Decisions

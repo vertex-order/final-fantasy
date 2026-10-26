@@ -272,7 +272,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       platforms: [
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-tactics-the-ivalice-chronicles/9mz2mc7t85t5' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/' },
-        { key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/JP0082-PPSA21783_00-FFTACTICS0000000' },
+        { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/JP0082-PPSA21783_00-FFTACTICS0000000' },
         {
           key: 'playstation5',
           paren: 'Physical; Digital; PS4 compatibility',
@@ -286,7 +286,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         },
         {
           key: 'nintendo-switch-2',
-          paren: 'Digital; Switch compatibility; free Switch upgrade',
+          paren: 'Physical; Digital; Switch compatibility; free Switch upgrade',
           url: 'https://www.nintendo.com/store/products/final-fantasy-tactics-the-ivalice-chronicles-nintendo-switch-2-edition-switch-2/',
         },
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-tactics-the-ivalice-chronicles/9mz2mc7t85t5' },

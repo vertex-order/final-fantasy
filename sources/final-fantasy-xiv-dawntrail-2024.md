@@ -39,4 +39,13 @@
     - https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-C0EX05SET0000000 -- PlayStation Store link, listed 2024-10-09 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20240925012046/https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-C0EX05SET0000000
     - https://jp.finalfantasyxiv.com/dawntrail/ -- 公式サイト link, listed 2024-10-09 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20240925012046/https://jp.finalfantasyxiv.com/dawntrail/
 
+## jp.square-enix.com (Publisher; Japan, Switch 2 list, captures of 2026-10-17 to live (2026-10-26))
+
+- Square Enix Japan's Nintendo Switch 2 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: https://www.jp.square-enix.com/game/?pf=35; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Nintendo Switch2 (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - ファイナルファンタジーXIV: 黄金のレガシー; MMORPG(オンラインゲーム); first listed 2026-10-17: release 2026.08.04; icons: オンライン専用, ダウンロード; CERO D; listed in every capture from 2026-10-17 to live (2026-10-26)
+    - https://store-jp.nintendo.com/item/software/D70050000069447 -- マイニンテンドーストア link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store-jp.nintendo.com/item/software/D70050000069447
+    - https://jp.finalfantasyxiv.com/dawntrail/ -- 公式サイト link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://jp.finalfantasyxiv.com/dawntrail/
+
 ## Decisions

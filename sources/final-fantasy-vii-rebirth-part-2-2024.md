@@ -61,4 +61,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_versi
     - https://store.jp.square-enix.com/item/ELJM_30394.html -- e-STOREで購入 link, listed 2024-10-09 to 2025-09-25 -- link recorded only -- archived: https://web.archive.org/web/20240925012046/https://store.jp.square-enix.com/item/ELJM_30394.html (last listing: https://web.archive.org/web/20250925101854/https://store.jp.square-enix.com/item/ELJM_30394.html)
     - https://store.jp.square-enix.com/estore/g/gELJM-30908/ -- e-STOREで購入 link, listed 2026-10-01 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store.jp.square-enix.com/estore/g/gELJM-30908/
 
+## jp.square-enix.com (Publisher; Japan, Switch 2 list, captures of 2026-10-17 to live (2026-10-26))
+
+- Square Enix Japan's Nintendo Switch 2 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: https://www.jp.square-enix.com/game/?pf=35; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Nintendo Switch2 (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - ファイナルファンタジーVII リバース; RPG; first listed 2026-10-17: release 2026.06.03; icons: パッケージ, ダウンロード; CERO C; listed in every capture from 2026-10-17 to live (2026-10-26)
+    - https://store.jp.square-enix.com/estore/g/gPOT-P-ABMTA/ -- e-STOREで購入 link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store.jp.square-enix.com/estore/g/gPOT-P-ABMTA/
+    - https://store-jp.nintendo.com/item/software/D70010000112479 -- マイニンテンドーストア link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store-jp.nintendo.com/item/software/D70010000112479
+    - https://www.jp.square-enix.com/ffvii_rebirth/ -- 公式サイト link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://www.jp.square-enix.com/ffvii_rebirth/
+
 ## Decisions
