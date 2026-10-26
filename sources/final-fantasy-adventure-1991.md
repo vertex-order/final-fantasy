@@ -67,6 +67,19 @@ square-enix.com and stores (Publisher)
 - https://www.jp.square-enix.com/announce/semobile/ -- terminated* (Square Enix's end-of-service notice for 「スクエニモバイル」, the live page; text pasted by user, identical to the capture of 2018-04-02, https://web.archive.org/web/20180402064630/http://www.square-enix.co.jp/mobile/sem/) -- accessed 2026-10-24
   - Square Enix Mobile ended all services on 2018-03-31; from 2018-04-01 its member data and installed apps are unusable
 
+## jp.square-enix.com (Publisher; Japan, PlayStation Vita list, captures of 2013-10-08 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation Vita game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: 2012-10-02 to 2017-01-22 http://www.jp.square-enix.com/game/psvita/; 2017-10-26 http://www.jp.square-enix.com/game/pf/psvita/; 2018-10-10 https://www.jp.square-enix.com/game/pf/psvita/; 2019-03-09 to live https://www.jp.square-enix.com/game/?pf=3; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in the franchise sources file (sources/final-fantasy-franchise.md in the final-fantasy repo)
+  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou; Game Archives = icon-gamearchives (ゲームアーカイブス(PS3/PSP/PSV)), 2013-10-08 to 2017-01-22; from 2017-10-26 the labels パッケージ (disc) and ダウンロード are shown as images, and from 2019-03-09 also the model label プレイステーション ヴィータ (PSV before); "none" = no icon (not stated). CERO ratings are recorded from the 2017-10-26 capture, where they are shown as text (before, as images).
+  - Items appear only in the captures listed after "listed:"; the 2012-10-02 capture lists two titles, none of them in scope; the 2017-10-26 and 2018-10-10 captures show a short list of 26 items (recent releases only).
+  - Release dates: the Game Archives items show the original release date in the 2013-10-08 to 2017-01-22 captures, with the note ※2012.08.28よりプレイステーション ヴィータに対応 (the date Vita support began), and 2012.08.28 from 2019-03-09.
+  - 聖剣伝説 -ファイナルファンタジー外伝-; アクションRPG; first listed 2017-01-22: release 2016.02.04; icons: ダウンロード専用; changes: 2017-10-26: icons ダウンロード専用 to ダウンロード, CERO B first shown; listed: in every capture from 2017-01-22 to live (2026-10-26)
+    - http://www.jp.square-enix.com/seiken/ -- title link / 公式サイト link, listed 2017-01-22 to 2018-10-10 -- link recorded only -- archived: https://web.archive.org/web/20170312080843/http://www.jp.square-enix.com/seiken/
+    - https://store.sonyentertainmentnetwork.com/#!/ja-jp/cid=JP0082-PCSG00759_00-SEIKENFFGAIDENRM -- PlayStation Storeでダウンロード link, listed 2017-10-26 -- link recorded only -- archived: none (a #! address: Wayback keeps only the store front page)
+    - https://store.playstation.com/ja-jp/product/JP0082-PCSG00759_00-SEIKENFFGAIDENRM -- PlayStation Storeでダウンロード link / PlayStation Store link, listed 2018-10-10 to 2020-04-23 -- link recorded only -- archived: https://web.archive.org/web/20181010213234/https://store.playstation.com/ja-jp/product/JP0082-PCSG00759_00-SEIKENFFGAIDENRM
+    - https://www.jp.square-enix.com/game/detail/seiken/ -- 商品詳細 link, listed in every capture from 2019-03-09 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20190626085341/https://www.jp.square-enix.com/game/detail/seiken/
+
 ## Surveyed
 
 - Sword of Mana out (removes the FF elements); the 2006 mobile remake and Adventures of Mana kept them (wikis, publisher page)

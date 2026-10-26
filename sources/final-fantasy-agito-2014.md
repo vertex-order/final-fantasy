@@ -32,4 +32,14 @@
 
 - The official site is the entry's `profileUrl` (user, 2026-10-20), the capture that links the store pages while the game was live: https://web.archive.org/web/20151013060037/http://www.jp.square-enix.com/ff-agito/
 
+## jp.square-enix.com (Publisher; Japan, PlayStation Vita list, captures of 2013-10-08 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation Vita game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: 2012-10-02 to 2017-01-22 http://www.jp.square-enix.com/game/psvita/; 2017-10-26 http://www.jp.square-enix.com/game/pf/psvita/; 2018-10-10 https://www.jp.square-enix.com/game/pf/psvita/; 2019-03-09 to live https://www.jp.square-enix.com/game/?pf=3; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in the franchise sources file (sources/final-fantasy-franchise.md in the final-fantasy repo)
+  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou; Game Archives = icon-gamearchives (ゲームアーカイブス(PS3/PSP/PSV)), 2013-10-08 to 2017-01-22; from 2017-10-26 the labels パッケージ (disc) and ダウンロード are shown as images, and from 2019-03-09 also the model label プレイステーション ヴィータ (PSV before); "none" = no icon (not stated). CERO ratings are recorded from the 2017-10-26 capture, where they are shown as text (before, as images).
+  - Items appear only in the captures listed after "listed:"; the 2012-10-02 capture lists two titles, none of them in scope; the 2017-10-26 and 2018-10-10 captures show a short list of 26 items (recent releases only).
+  - Release dates: the Game Archives items show the original release date in the 2013-10-08 to 2017-01-22 captures, with the note ※2012.08.28よりプレイステーション ヴィータに対応 (the date Vita support began), and 2012.08.28 from 2019-03-09.
+  - ファイナルファンタジーアギト プラス; RPG; first listed 2014-11-19: release 未定; icons: オンライン専用, ダウンロード対応; listed: 2014-11-19
+    - http://www.jp.square-enix.com/ff-agito/ff-agitoplus/ -- title link / 公式サイト link, listed 2014-11-19 -- link recorded only -- archived: https://web.archive.org/web/20141022081316/http://www.jp.square-enix.com:80/ff-agito/ff-agitoplus/
+
 ## Decisions

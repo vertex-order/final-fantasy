@@ -72,7 +72,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
           platforms: [
             { key: 'playstation3', paren: 'Physical; Digital', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
             { key: 'playstation4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-            { key: 'playstation-vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+            { key: 'playstation-vita', paren: 'Physical; Digital', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
           ],
           versionDesc: [
             [{ text: 'This remaster has enhanced 1080p graphics, soundtrack switch, cross-saves, and a Final Fantasy X -Will- audio drama. Also released as ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (not to be confused with ' }, { emText: 'Remaster (2016)' }, { text: ') and includes ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: ' and ' }, { emLinkText: 'X-2: Last Mission (2004)', emLinkUrl: '#entry-X-final-fantasy-x-2-last-mission-2004' }, { text: '. Includes all content from ' }, { emLinkText: 'International (2002)', emLinkUrl: '#entry-X-final-fantasy-x-2001-x-international-2002' }, { text: ' version.' }],
@@ -171,7 +171,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
           platforms: [
             { key: 'playstation3', paren: 'Physical; Digital', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
             { key: 'playstation4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-            { key: 'playstation-vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+            { key: 'playstation-vita', paren: 'Physical; Digital', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
           ],
           versionDesc: [
             [{ text: 'May be in 1080p. Included with ' }, { emText: 'X (2001) Remaster (2013)' }, { text: '.' }],
@@ -270,7 +270,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
           platforms: [
             { key: 'playstation3', paren: 'Physical; Digital', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
             { key: 'playstation4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-            { key: 'playstation-vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+            { key: 'playstation-vita', paren: 'Physical; Digital', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
           ],
           versionDesc: [
             [{ text: 'This remaster has enhanced 1080p graphics, soundtrack switch, cross-saves, and a ' }, { emText: 'Final Fantasy X -Will-' }, { text: ' audio drama. Also released as ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (not to be confused with Remaster 2016) and includes ' }, { emLinkText: 'X-2: Last Mission (2004)', emLinkUrl: '#entry-X-final-fantasy-x-2-last-mission-2004' }, { text: '. Includes ' }, { emText: 'Eternal Calm' }, { text: ' video prequel to ' }, { emLinkText: 'X-2 (2003)', emLinkUrl: '#entry-X-final-fantasy-x-2-2003' }, { text: '.' }],
@@ -363,7 +363,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
           platforms: [
             { key: 'playstation3', paren: 'Physical; Digital', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
             { key: 'playstation4', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
-            { key: 'playstation-vita', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
+            { key: 'playstation-vita', paren: 'Physical; Digital', url: 'https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster' },
           ],
           versionDesc: [
             [{ text: 'This remaster has enhanced 1080p graphics and may include other bonuses from ' }, { emText: 'X-2 (2003) Remaster (2013)' }, { text: '. Also released as part of ' }, { emText: 'Final Fantasy X/X-2 HD Remaster' }, { text: ' (not to be confused with Remaster 2016).' }],

@@ -52,4 +52,17 @@
     - https://www.jp.square-enix.com/WOFF/MAXIMA/ -- 公式サイト link, listed 2018-10-10 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20181010135604/https://www.jp.square-enix.com/WOFF/MAXIMA/
     - https://store.playstation.com/ja-jp/product/JP0082-CUSA03043_00-WOFFMAXIMASET000 -- PlayStation Store link, listed 2019-09-18 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://store.playstation.com/ja-jp/product/JP0082-CUSA03043_00-WOFFMAXIMASET000
 
+## jp.square-enix.com (Publisher; Japan, PlayStation Vita list, captures of 2013-10-08 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation Vita game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: 2012-10-02 to 2017-01-22 http://www.jp.square-enix.com/game/psvita/; 2017-10-26 http://www.jp.square-enix.com/game/pf/psvita/; 2018-10-10 https://www.jp.square-enix.com/game/pf/psvita/; 2019-03-09 to live https://www.jp.square-enix.com/game/?pf=3; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in the franchise sources file (sources/final-fantasy-franchise.md in the final-fantasy repo)
+  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou; Game Archives = icon-gamearchives (ゲームアーカイブス(PS3/PSP/PSV)), 2013-10-08 to 2017-01-22; from 2017-10-26 the labels パッケージ (disc) and ダウンロード are shown as images, and from 2019-03-09 also the model label プレイステーション ヴィータ (PSV before); "none" = no icon (not stated). CERO ratings are recorded from the 2017-10-26 capture, where they are shown as text (before, as images).
+  - Items appear only in the captures listed after "listed:"; the 2012-10-02 capture lists two titles, none of them in scope; the 2017-10-26 and 2018-10-10 captures show a short list of 26 items (recent releases only).
+  - Release dates: the Game Archives items show the original release date in the 2013-10-08 to 2017-01-22 captures, with the note ※2012.08.28よりプレイステーション ヴィータに対応 (the date Vita support began), and 2012.08.28 from 2019-03-09.
+  - ワールド オブ ファイナルファンタジー; RPG; first listed 2015-12-06: release 2016年発売予定; icons: none; changes: 2017-01-22: release 2016年発売予定 to 2016.10.27, icons none to ダウンロード対応 / 2017-10-26: icons ダウンロード対応 to パッケージ, ダウンロード, CERO B first shown; listed: in every capture from 2015-12-06 to live (2026-10-26)
+    - https://www.jp.square-enix.com/WOFF/ -- title link / 公式サイト link, listed in every capture from 2015-12-06 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20151122031115/http://www.jp.square-enix.com:80/WOFF/
+    - http://store.jp.square-enix.com/item/VLJM_35293.html -- e-STOREで購入 link, listed 2017-10-26 to 2019-03-09 -- link recorded only -- archived: https://web.archive.org/web/20171117042937/http://store.jp.square-enix.com:80/item/VLJM_35293.html
+    - https://store.playstation.com/#!/ja-jp/cid=PN.CH.JP-PN.CH.MIXED.JP-CATEGORY00000176 -- PlayStation Storeでダウンロード link / PlayStation Store link, listed 2017-10-26; 2019-03-09 to 2020-04-23 -- link recorded only -- archived: none (a #! address: Wayback keeps only the store front page)
+    - https://store.playstation.com/ja-jp/grid/PN.CH.JP-PN.CH.MIXED.JP-CATEGORY00000176/1 -- PlayStation Storeでダウンロード link, listed 2018-10-10 -- link recorded only -- archived: none (the Wayback index lists no capture)
+
 ## Decisions

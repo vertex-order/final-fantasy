@@ -181,6 +181,19 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 - https://www.tweaktown.com/news/105864/final-fantasy-tactics-remaster-wont-have-war-of-the-lions-content-no-new-jobs-or-co-op/index.html -- the 2025 remaster has no War of the Lions content or co-op -- accessed 2026-10-18
   - (pre-release article, text pasted by user)
 
+## jp.square-enix.com (Publisher; Japan, PlayStation Vita list, captures of 2013-10-08 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation Vita game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: 2012-10-02 to 2017-01-22 http://www.jp.square-enix.com/game/psvita/; 2017-10-26 http://www.jp.square-enix.com/game/pf/psvita/; 2018-10-10 https://www.jp.square-enix.com/game/pf/psvita/; 2019-03-09 to live https://www.jp.square-enix.com/game/?pf=3; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in the franchise sources file (sources/final-fantasy-franchise.md in the final-fantasy repo)
+  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou; Game Archives = icon-gamearchives (ゲームアーカイブス(PS3/PSP/PSV)), 2013-10-08 to 2017-01-22; from 2017-10-26 the labels パッケージ (disc) and ダウンロード are shown as images, and from 2019-03-09 also the model label プレイステーション ヴィータ (PSV before); "none" = no icon (not stated). CERO ratings are recorded from the 2017-10-26 capture, where they are shown as text (before, as images).
+  - Items appear only in the captures listed after "listed:"; the 2012-10-02 capture lists two titles, none of them in scope; the 2017-10-26 and 2018-10-10 captures show a short list of 26 items (recent releases only).
+  - Release dates: the Game Archives items show the original release date in the 2013-10-08 to 2017-01-22 captures, with the note ※2012.08.28よりプレイステーション ヴィータに対応 (the date Vita support began), and 2012.08.28 from 2019-03-09.
+  - ファイナルファンタジータクティクス（ゲームアーカイブス）; シミュレーションRPG; first listed 2013-10-08: release 2009.05.13; icons: Game Archives; note ※2012.08.28よりプレイステーション ヴィータに対応; changes: 2019-03-09: title ファイナルファンタジータクティクス to ファイナルファンタジータクティクス（ゲームアーカイブス）, release 2009.05.13 to 2012.08.28, icons Game Archives to ダウンロード, CERO B first shown, note ※2012.08.28よりプレイステーション ヴィータに対応 to none; listed: 2013-10-08 to 2017-01-22; 2019-03-09 to live (2026-10-26)
+    - http://dlgames.square-enix.com/jp/psga/2009/fftactics/ -- title link / 公式サイト link, listed 2013-10-08 to 2017-01-22 -- link recorded only -- archived: https://web.archive.org/web/20140703001457/http://dlgames.square-enix.com/jp/psga/2009/fftactics/
+    - http://www.jp.square-enix.com/archive/psga_fft/ -- 商品詳細 link, listed 2013-10-08 -- link recorded only -- archived: none (the Wayback index lists only redirect or 404 captures)
+    - https://store.playstation.com/ja-jp/product/JP0082-NPJJ00265_00-0000000000000001 -- PlayStation Store link, listed 2019-03-09 to 2020-04-23 -- link recorded only -- archived: https://web.archive.org/web/20190308041632/https://store.playstation.com/ja-jp/product/JP0082-NPJJ00265_00-0000000000000001
+    - https://www.jp.square-enix.com/game/detail/fft/ -- 商品詳細 link, listed in every capture from 2019-03-09 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20191112101631/https://www.jp.square-enix.com/game/detail/fft/
+
 ## Surveyed
 
 - The War of the Lions languages: the smartphone stores show only English and Japanese, the PSP release likely has European languages; audit before dropping `…?` and `helpWanted`

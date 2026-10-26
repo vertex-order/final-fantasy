@@ -61,7 +61,7 @@ window.__ffGroupReg['WD'] = { num: 'WD', chronoOrder: 1580, narrativeOrder: 1580
           platforms: [
             { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/' },
             { key: 'playstation4', paren: 'Digital' },
-            { key: 'playstation-vita', paren: 'Digital' },
+            { key: 'playstation-vita', paren: 'Physical; Digital' },
           ],
           versionDesc: [
             [{ text: 'The original release.' }],
