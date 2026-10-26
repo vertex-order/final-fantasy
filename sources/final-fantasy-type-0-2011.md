@@ -67,12 +67,19 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
 - http://dlgames.square-enix.com/jp/psp_dl/ -- the Japanese PSP download menu, capture of 2012-04-29 (new against 2011-04-29): FINAL FANTASY 零式, RPG, release 2011.10.27; links http://www.square-enix.co.jp/fabula/0/ (no dlgames detail page) -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20120429230553/http://dlgames.square-enix.com/jp/psp_dl/
 - http://www.square-enix.co.jp/fabula/0/ -- the official site, FINAL FANTASY 零式 (Flash) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120502075031/http://www.square-enix.co.jp/fabula/0/
 
-## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
+## jp.square-enix.com (Publisher; Japan, PSP list, captures of 2012-10-06 to live (2026-10-26))
 
-- http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/
-  - Each item carries icons, read from the images: ONLINE 対応 ("online"), ダウンロード対応 ("Download (compatible)"), ダウンロード専用 ("Download (exclusive)"), Game Archives 専用 (alt text ゲームアーカイブス(PS3/PSP/PSV)), or none
-  - アルティメット ヒッツ ファイナルファンタジー零式; RPG; release 2012.12.06; icons: online; links http://www.square-enix.co.jp/uh/
-  - ファイナルファンタジー 零式; RPG; release 2011.10.27; 本作品は『ファイナルファンタジー アギトXIII』から名称を変更したものです。; icons: online, Download (compatible); links http://www.square-enix.co.jp/fabula/0/
+- Square Enix Japan's PlayStation Portable game list -- saved pages of each capture read by me; one line per title and release date, with what each capture shows -- accessed 2026-10-25 and 2026-10-26
+  - Page URL by capture: 2012-10-06 to 2018-03-20 http://www.jp.square-enix.com/game/psp/; 2023-01-07 to live https://www.jp.square-enix.com/game/?pf=18 (platform filter 18 = プレイステーション・ポータブル); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the image file names (alt text read plyaOnline in the 2013-10-20 and 2014-11-19 captures and Download from 2015-03-18, for the same images): ONLINE対応 = icon-online-taiou; ダウンロード対応 (also sold as a download) = icon-download-taiou; ダウンロード専用 = icon-download-senyou; Game Archives専用 = icon-gamearchives; "none" = no icon (not stated; the 2012-10-06 capture shows none on any item). From 2023-01-07 the page shows the labels パッケージ (disc) and ダウンロード as text instead, and the CERO rating as an image with alt text.
+  - CERO: from 2012-10-06 to 2018-03-20 the rating image's file name (cero200 = A, cero212 = B, cero215 = C, cero217 = D, matched against the 2023-01-07 labels of the same titles); from 2023-01-07 the image's alt text
+  - Links: 公式サイト = the item's official-site link; 商品詳細 = the detail-page link; the item's title also links to its official site. "listed" gives the captures that carry the link; the archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - アルティメット ヒッツ ファイナルファンタジー零式; RPG; release 2012.12.06; listed 2014-11-19 to 2018-03-20; icons: ONLINE対応; CERO: CERO C
+    - http://www.square-enix.co.jp/uh/ -- 公式サイト link, listed 2014-11-19 to 2018-03-20 -- link recorded only -- archived: https://web.archive.org/web/20141119172354/http://www.square-enix.co.jp/uh/ (last listing: https://web.archive.org/web/20180320203912/http://www.square-enix.co.jp/uh/)
+  - ファイナルファンタジー零式（アルティメット ヒッツ）; RPG; release 2012.12.06; listed 2023-01-07 to live (2026-10-26); icons: パッケージ, ダウンロード; CERO: CERO C
+    - https://www.jp.square-enix.com/game/detail/ff0/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20230107101214/https://www.jp.square-enix.com/game/detail/ff0/
+  - ファイナルファンタジー 零式; RPG; release 2011.10.27; listed 2013-10-20 to 2018-03-20; icons: ONLINE対応, ダウンロード対応; CERO: CERO C; note ※本作品は『ファイナルファンタジー アギトXIII』から名称を変更したものです。 (2013-10-20 to 2018-03-20)
+    - http://www.square-enix.co.jp/fabula/0/ -- 公式サイト link, listed 2013-10-20 to 2018-03-20 -- link recorded only -- archived: https://web.archive.org/web/20131020014844/http://www.square-enix.co.jp/fabula/0/ (last listing: https://web.archive.org/web/20180320203912/http://www.square-enix.co.jp/fabula/0/)
 
 ## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2014-11-27 to live (2026-10-26))
 
