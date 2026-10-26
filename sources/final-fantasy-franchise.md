@@ -184,6 +184,10 @@
 ## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, PlayStation 3, Japan)
 
 - http://dlgames.square-enix.com/jp/ps3_dl -- "PlayStation3" download menu, capture of 2009-12-25: https://web.archive.org/web/20091225145915/http://dlgames.square-enix.com/jp/ps3_dl -- visited and audited -- accessed 2026-10-25 (text pasted by user)
+- http://dlgames.square-enix.com/jp/wiiware/ -- "Wiiウェア" menu, capture of 2009-12-26: https://web.archive.org/web/20091226170109/http://dlgames.square-enix.com/jp/wiiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2011-02-25: https://web.archive.org/web/20110225052950/http://dlgames.square-enix.com/jp/wiiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2012-02-25: https://web.archive.org/web/20120225175917/http://dlgames.square-enix.com/jp/wiiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2013-04-02: https://web.archive.org/web/20130402122500/http://dlgames.square-enix.com/jp/wiiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
 
 ## jp.square-enix.com (Publisher; Square Enix Japan game list)
 

@@ -170,6 +170,13 @@
 - https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Crystal Defenders, Download, Defense Simulation, release 2009.03.11, "the PlayStation 3 (download) version is available from W1 to W3" -- accessed 2026-10-25 (text pasted by user)
 - https://web.archive.org/web/20150410063306/http://www.crystaldefenders.jp/jp/ -- the game's official website link on the 2015-04-10 list -- accessed 2026-10-25 (link given by user)
 
+## dlgames.square-enix.com (Platform; WiiWare, Japan)
+
+- http://dlgames.square-enix.com/jp/wiiware/ -- the Japanese WiiWare menu, capture of 2009-12-26: クリスタル・ディフェンダーズR1 (release 2009.01.27) and R2 (release 2009.02.24), genre ディフェンス・シミュレーション; no dlgames detail pages, both rows link http://www.crystaldefenders.jp/jp/wii/ -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20091226170109/http://dlgames.square-enix.com/jp/wiiware/
+- http://www.crystaldefenders.jp/jp/wii/ -- the menu's link; nearest capture to the menu's, 2009-12-19: https://web.archive.org/web/20091219062152/http://www.crystaldefenders.jp/jp/wii/ -- accessed 2026-10-25 (raw HTML read by me)
+  - Title CRYSTAL DEFENDERS; text holds only the title, a Flash page; links the iPhone page ../../iphone/jp/index.html
+  - Captures: 36 with status 200, 2009-01-25 to 2017-09-23 (the index)
+
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 
 - http://www.square-enix.co.jp/smart/market/game004.html -- the Android version sold on Square Enix Market, Japan only: release 2011-12-01; holds W1 and W2 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120204205708/http://www.square-enix.co.jp/smart/market/game004.html

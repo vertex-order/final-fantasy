@@ -34,4 +34,11 @@
     - earlier captures lose the Flash parts; this one shows a splash page and a menu with lore and promo movies, no link to the official site
   - https://web.archive.org/web/20150405034523/http://archive.na.square-enix.com//mylifeasaking/ -- last capture; same as the 2014 one
 
+## dlgames.square-enix.com (Platform; WiiWare, Japan)
+
+- http://dlgames.square-enix.com/jp/wiiware/ -- the Japanese WiiWare menu, capture of 2009-12-26: 小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル, genre 国造りRPG, release 2008.03.25; the oldest item on the menu; no dlgames detail page, the row links http://www.square-enix.co.jp/littleking/ -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20091226170109/http://dlgames.square-enix.com/jp/wiiware/
+- http://www.square-enix.co.jp/littleking/ -- the menu's link, the Japanese official site; nearest capture to the menu's, 2009-12-24: https://web.archive.org/web/20091224124015/http://www.square-enix.co.jp/littleking/ -- accessed 2026-10-25 (raw HTML read by me; Shift_JIS)
+  - Title 小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル; news items 2008-06-17 to 2008-06-30 (additional content 無限の塔 and お城リフォーム delivered 2008-06-24; the "みんなの王国" online kingdom); a Flash page with a trailer page and a diary series
+  - Captures: 166 with status 200, 2007-10-11 to 2019-02-20 (the index)
+
 ## Decisions

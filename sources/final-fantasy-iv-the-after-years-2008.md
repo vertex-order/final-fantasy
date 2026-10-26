@@ -122,4 +122,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - アルティメット ヒッツ ファイナルファンタジーIV コンプリートコレクション; RPG; release 2012.07.05; no icon; links http://www.square-enix.co.jp/uh/
   - ファイナルファンタジーIV コンプリートコレクション; RPG; release 2011.03.24; icons: Download (compatible); links http://www.jp.square-enix.com/archive/ff4cc/
 
+## dlgames.square-enix.com (Platform; WiiWare, Japan)
+
+- http://dlgames.square-enix.com/jp/wiiware/ -- the Japanese WiiWare menu, capture of 2009-12-26: ファイナルファンタジーIV ジ・アフターイヤーズ -月の帰還-, RPG, release 2009.07.21; one of the three banners at the top; no dlgames detail page, the row and banner link http://www.ff4theafteryears.jp/ -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20091226170109/http://dlgames.square-enix.com/jp/wiiware/
+- http://www.ff4theafteryears.jp/ -- the menu's link; nearest capture to the menu's, 2010-03-06: https://web.archive.org/web/20100306011136/http://www.ff4theafteryears.jp/ -- accessed 2026-10-25 (raw HTML read by me)
+  - Title FINAL FANTASY IV THE AFTER YEARS -月の帰還-; keywords Wii, Wiiウェア; a Flash page whose text holds only the title and a Flash Player prompt
+
 ## Decisions

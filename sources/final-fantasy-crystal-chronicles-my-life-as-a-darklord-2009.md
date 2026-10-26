@@ -54,4 +54,11 @@
   - "Distribution ended 2019-01-31 with the end of the Wii Shopping Channel"
   - Describes a "world conquest RPG": the player, as the Dark Lord's daughter, sets traps and monsters in a tower to repel invading adventurers
 
+## dlgames.square-enix.com (Platform; WiiWare, Japan)
+
+- http://dlgames.square-enix.com/jp/wiiware/ -- the Japanese WiiWare menu, capture of 2009-12-26: 光と闇の姫君と世界征服の塔 ファイナルファンタジー･クリスタルクロニクル, genre 世界征服RPG, release 2009.06.30; one of the three banners at the top; no dlgames detail page, the row and banner link http://www.mylifeasadarklord.jp/ -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20091226170109/http://dlgames.square-enix.com/jp/wiiware/
+- http://www.mylifeasadarklord.jp/ -- the menu's link, the Japanese official site; nearest capture to the menu's, 2010-01-05: https://web.archive.org/web/20100105152457/http://www.mylifeasadarklord.jp/ -- accessed 2026-10-25 (raw HTML read by me; Shift_JIS)
+  - Title 光と闇の姫君と世界征服の塔 ファイナルファンタジー・クリスタルクロニクル 公式サイト; links the member site (member.square-enix.com/jp/special/mylifeasadarklord/), http://www.ffccnews.jp/ and the My Life as a King site http://www.square-enix.co.jp/littleking/
+  - Captures: 106 with status 200, 2009-04-27 to 2025-02-06 (the index)
+
 ## Decisions
