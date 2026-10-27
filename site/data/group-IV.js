@@ -142,6 +142,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
             { key: 'nintendo-snes', paren: 'Super Famicom; Physical' },
             { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console' },
             { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility' },
+            { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
             { key: 'nintendo-game-boy-advance', paren: 'Physical' },
           ],
           versionDesc: [
