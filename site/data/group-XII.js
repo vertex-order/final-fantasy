@@ -154,7 +154,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       ],
       length: [{ value: '24h', tip: 'Main Story', join: ' / ' }, { value: '33h', tip: 'Main + Extra', join: ' / ' }, { value: '49½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'nintendo-ds', url: 'https://www.nintendo.com/en-gb/Games/Nintendo-DS/Final-Fantasy-XII-Revenant-Wings-270814.html' },
+        { key: 'nintendo-ds', paren: 'Physical', url: 'https://www.nintendo.com/en-gb/Games/Nintendo-DS/Final-Fantasy-XII-Revenant-Wings-270814.html' },
         { key: 'nintendo-3ds', paren: 'DS compatibility', url: 'https://www.nintendo.com/en-gb/Games/Nintendo-DS/Final-Fantasy-XII-Revenant-Wings-270814.html' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-recap', search: 'youtube' },
@@ -236,7 +236,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       ],
       length: [{ value: '47h', tip: 'Main Story', join: ' / ' }, { value: '80h', tip: 'Main + Extra', join: ' / ' }, { value: '112h', tip: 'Completionist' }],
       platforms: [
-        { key: 'nintendo-ds' },
+        { key: 'nintendo-ds', paren: 'Physical' },
         { key: 'nintendo-3ds', paren: 'DS compatibility' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'Final Fantasy Tactics A2 Grimoire of the Rift' },
         { key: 'fan-recap', search: 'youtube', searchTitle: 'Final Fantasy Tactics A2 Grimoire of the Rift' },

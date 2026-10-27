@@ -117,16 +117,6 @@
       - http://itunes.apple.com/jp/app/itadakisutorito-for-smartphone/id485548636?mt=8 -- App Store link on that page -- link recorded only -- archived: https://web.archive.org/web/20171015123203/https://itunes.apple.com/jp/app/itadakisutorito-for-smartphone/id485548636?mt=8 (first capture of the id: https://web.archive.org/web/20120324170118/http://itunes.apple.com:80/jp/app/itadakisutorito-for-smartphone/id485548636?)
       - http://www.square-enix.co.jp/smart/market/ -- SQUARE ENIX Market link on that page -- link recorded only -- archived: https://web.archive.org/web/20121024025820/http://www.square-enix.co.jp/smart/market/
 
-## jp.square-enix.com (Publisher; Japan, Wii list, captures of 2013-06-26 to live (2026-10-27))
-
-- Square Enix Japan's Wii game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
-  - Page URL by capture: 2013-06-26 http://www.jp.square-enix.com/game/wii/; 2014-07-19 to 2017-12-01 http://www.jp.square-enix.com:80/game/wii/; live (2026-10-27) https://www.jp.square-enix.com/game/?pf=21 (platform filter 21 = Wii; the model checkbox value is 21, beside a disabled checked 99); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
-  - Icons: 2013-06-26 to 2017-12-01 the images icon-wiivc (alt text バーチャルコンソール(Wii), the Virtual Console download mark), icon-wiiware (alt Wiiウェア, the WiiWare download mark) and icon-online-taiou (alt text online, ONLINE 対応); live the labels as images: Wii (the model, not repeated below), ダウンロード (also sold as a download), パッケージ (sold as a package) and オンライン専用 (online only); "none" = no icon (not stated). CERO: 2013-06-26 to 2017-12-01 the rating image's file name (cero200 = A, cero212 = B, cero215 = C, matched against the live labels of the same titles); live the label's alt text
-  - Link labels: 公式サイト (official site), 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
-  - いただきストリートWii; ボードゲーム; first listed (earliest capture read) 2013-06-26: release 2011.12.01; icons: icon-online-taiou; CERO A; listed: all six captures, 2013-06-26 to live (2026-10-27); changes: live: icons icon-online-taiou to パッケージ
-    - http://www.square-enix.co.jp/itastwii/ -- 公式サイト link (the title links here too), listed 2013-06-26 to 2017-12-01 -- link recorded only -- archived: https://web.archive.org/web/20130626122610/http://www.square-enix.co.jp/itastwii/ (last listing: https://web.archive.org/web/20171201221325/http://www.square-enix.co.jp/itastwii/)
-    - https://www.jp.square-enix.com/itastwii/ -- 公式サイト link, listed live (2026-10-27) -- link recorded only -- archived: TODO
-
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

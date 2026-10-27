@@ -311,6 +311,14 @@
 - the same list, capture of 2023-11-07: https://web.archive.org/web/20231107213618/https://www.jp.square-enix.com/game/?pf=6 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list, capture of 2024-11-18: https://web.archive.org/web/20241118184754/https://www.jp.square-enix.com/game/?pf=6 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list, live page of 2026-10-27: https://www.jp.square-enix.com/game/?pf=6 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- http://www.jp.square-enix.com/game/nds/ -- the Nintendo DS / Nintendo DSi list (one of the "By model" lists), capture of 2012-10-06: https://web.archive.org/web/20121006013900/http://www.jp.square-enix.com:80/game/nds/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2013-10-20: https://web.archive.org/web/20131020014805/http://www.jp.square-enix.com/game/nds/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2014-12-03: https://web.archive.org/web/20141203045740/http://www.jp.square-enix.com:80/game/nds/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2015-12-10: https://web.archive.org/web/20151210143952/http://www.jp.square-enix.com:80/game/nds/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2016-12-22: https://web.archive.org/web/20161222212554/http://www.jp.square-enix.com/game/nds/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list in its later layout (platform filter ?pf=99,22), capture of 2019-06-26: https://web.archive.org/web/20190626224307/https://www.jp.square-enix.com/game/?pf=99,22 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2025-08-30: https://web.archive.org/web/20250830120859/https://www.jp.square-enix.com/game/?pf=99,22 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list (platform filter ?pf=22), live page of 2026-10-27: https://www.jp.square-enix.com/game/?pf=22 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 
