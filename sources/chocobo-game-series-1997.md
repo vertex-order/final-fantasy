@@ -450,6 +450,16 @@
     - http://www.jp.square-enix.com/archive/tokiwasureds/ -- シドとチョコボの不思議なダンジョン 時忘れの迷宮 DS+ link and 商品詳細 link, listed 2014-12-03 to 2016-12-22 -- link recorded only -- archived: https://web.archive.org/web/20141203045740/http://www.jp.square-enix.com/archive/tokiwasureds/ (last listing: https://web.archive.org/web/20161222212554/http://www.jp.square-enix.com/archive/tokiwasureds/)
     - https://www.jp.square-enix.com/game/detail/tokiwasure_ds/ -- 商品詳細 link, listed 2019-06-26 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20190626224307/https://www.jp.square-enix.com/game/detail/tokiwasure_ds/ (last listing: https://web.archive.org/web/20250830120859/https://www.jp.square-enix.com/game/detail/tokiwasure_ds/)
 
+## jp.square-enix.com (Publisher; Japan, PC browser list, captures of 2013-06-13 to live (2026-10-27))
+
+- Square Enix Japan's PC browser game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-13 to 2018-05-29 http://www.jp.square-enix.com/game/browser/ (the per-model page); 2019-03-21 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to PCブラウザ, platform filter ?pf=10 (the saved pages show the model checkbox value 10 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: no icon image on any item of the 2013 to 2018 captures; from 2019-03-21 the model label image PCブラウザ (the model, not repeated below) and the purchase button 購入する (a hidden button with no link on the rows read), no パッケージ or ダウンロード label. Date label: 発売日 (release) to 2018, 配信日 (delivery) from 2019-03-21. CERO: no rating label on any capture
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page); 2013 to 2018 the title links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - Chocobo's Crystal Tower; チョコボ育成アドベンチャー; first listed 2013-06-13: release 2010.11.02; icons: none; changes: 2019-03-21: genre チョコボ育成アドベンチャー to チョコボ育成アドベンチャー ※サービス停止; listed in every capture from 2013-06-13 to live (2026-10-27)
+    - http://www.jp.square-enix.com/archive/web_chococrystal/ -- 商品詳細 link, listed 2013-06-13 to 2018-05-29 -- link recorded only -- archived: https://web.archive.org/web/20130613051605/http://www.jp.square-enix.com/archive/web_chococrystal/ (last listing: https://web.archive.org/web/20180529022122/http://www.jp.square-enix.com/archive/web_chococrystal/)
+    - https://www.jp.square-enix.com/game/detail/chococrystal/ -- 商品詳細 link, listed 2019-03-21 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20190321135629mp_/https://www.jp.square-enix.com/game/detail/chococrystal/
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.
