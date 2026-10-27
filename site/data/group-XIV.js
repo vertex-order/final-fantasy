@@ -61,7 +61,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       platforms: [
         { key: 'windows', url: 'https://www.finalfantasyxiv.com' },
         { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/' },
-        { key: 'macos', url: 'https://www.finalfantasyxiv.com' },
+        { key: 'macos', paren: 'Digital', url: 'https://www.finalfantasyxiv.com' },
         { key: 'nintendo-switch-2', paren: 'Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-xiv-online-complete-edition-switch-2/' },
         { key: 'playstation3', terminated: true, paren: 'Physical; Digital' },
         {
@@ -96,7 +96,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       platforms: [
         { key: 'windows', url: 'https://www.finalfantasyxiv.com' },
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/' },
-        { key: 'macos', url: 'https://www.finalfantasyxiv.com' },
+        { key: 'macos', paren: 'Digital', url: 'https://www.finalfantasyxiv.com' },
         { key: 'nintendo-switch-2', url: 'https://www.nintendo.com/store/products/final-fantasy-xiv-online-complete-edition-switch-2/' },
         { key: 'playstation3', terminated: true, paren: 'Physical; Digital' },
         { key: 'playstation4', paren: 'Terminated 2027', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S' },
@@ -125,7 +125,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       platforms: [
         { key: 'windows', url: 'https://www.finalfantasyxiv.com' },
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/' },
-        { key: 'macos', url: 'https://www.finalfantasyxiv.com' },
+        { key: 'macos', paren: 'Digital', url: 'https://www.finalfantasyxiv.com' },
         { key: 'nintendo-switch-2', url: 'https://www.nintendo.com/store/products/final-fantasy-xiv-online-complete-edition-switch-2/' },
         { key: 'playstation4', paren: 'Terminated 2027', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S' },
         { key: 'playstation5', url: 'https://www.finalfantasyxiv.com' },
@@ -153,7 +153,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       platforms: [
         { key: 'windows', url: 'https://www.finalfantasyxiv.com' },
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/' },
-        { key: 'macos', url: 'https://www.finalfantasyxiv.com' },
+        { key: 'macos', paren: 'Digital', url: 'https://www.finalfantasyxiv.com' },
         { key: 'nintendo-switch-2', url: 'https://www.nintendo.com/store/products/final-fantasy-xiv-online-complete-edition-switch-2/' },
         { key: 'playstation4', paren: 'Terminated 2027', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S' },
         { key: 'playstation5', paren: 'Digital', url: 'https://www.finalfantasyxiv.com' },
@@ -181,7 +181,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       platforms: [
         { key: 'windows', url: 'https://www.finalfantasyxiv.com' },
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/1592500/FINAL_FANTASY_XIV_Endwalker/' },
-        { key: 'macos', url: 'https://www.finalfantasyxiv.com' },
+        { key: 'macos', paren: 'Digital', url: 'https://www.finalfantasyxiv.com' },
         { key: 'nintendo-switch-2', url: 'https://www.nintendo.com/store/products/final-fantasy-xiv-online-complete-edition-switch-2/' },
         { key: 'playstation4', paren: 'Terminated 2027', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S' },
         { key: 'playstation5', paren: 'Digital', url: 'https://www.finalfantasyxiv.com' },
@@ -209,7 +209,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       platforms: [
         { key: 'windows', url: 'https://www.finalfantasyxiv.com' },
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/2649240/FINAL_FANTASY_XIV_Dawntrail/' },
-        { key: 'macos', url: 'https://www.finalfantasyxiv.com' },
+        { key: 'macos', paren: 'Digital', url: 'https://www.finalfantasyxiv.com' },
         { key: 'nintendo-switch-2', paren: 'Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-xiv-online-complete-edition-switch-2/' },
         { key: 'playstation4', paren: 'Terminated 2027', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S' },
         { key: 'playstation5', paren: 'Digital', url: 'https://www.finalfantasyxiv.com' },

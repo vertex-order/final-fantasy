@@ -43,4 +43,14 @@
     - http://store.jp.square-enix.com/category/FFXIVSB -- e-STOREで購入 link, listed 2018-07-06 -- link recorded only -- archived: https://web.archive.org/web/20180706020353/http://store.jp.square-enix.com/category/FFXIVSB
     - https://jp.finalfantasyxiv.com/stormblood/ -- 公式サイト link, listed 2019-09-18 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://jp.finalfantasyxiv.com/stormblood/
 
+## jp.square-enix.com (Publisher; Japan, Mac list, captures of 2017-08-03 to live (2026-10-27))
+
+- Square Enix Japan's Mac game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2015-06-11 to 2018-07-01 http://www.jp.square-enix.com/game/mac/; 2023-01-07 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Mac, platform filter ?pf=9 (the saved pages show the model checkbox value 9 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images (2015 to 2018 captures): ダウンロード専用 (download only) = icon-download-senyou, オンライン専用 (online only) = icon-online-senyou; from 2023 the label images' alt text: オンライン専用 (online only), ダウンロード (sold as a download), the store buttons (購入する, e-STOREで購入 / e-STOREで予約) are links, listed below; no パッケージ label on any capture. CERO: the label's alt text from the 2023 captures (2015 to 2018 captures: a rating image named cero215, no alt text); CERO審査予定 = rating pending
+  - Link labels: 公式サイト (official site), e-STOREで購入 / e-STOREで予約 (Square Enix e-STORE purchase / pre-order); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジーXIV: 紅蓮のリベレーター; MMORPG; first listed 2017-08-03: release 2017.06.20; icons: オンライン専用, ダウンロード専用; changes: 2023-01-07: genre MMORPG to MMORPG(オンラインゲーム), icons オンライン専用, ダウンロード専用 to オンライン専用, ダウンロード, rating label CERO C appears; listed in every capture from 2017-08-03 to live (2026-10-27)
+    - http://jp.finalfantasyxiv.com/stormblood/ -- 公式サイト link, listed 2017-08-03 to 2018-07-01 -- link recorded only -- archived: https://web.archive.org/web/20170803033044/http://jp.finalfantasyxiv.com/stormblood/ (last listing: https://web.archive.org/web/20180701101308/http://jp.finalfantasyxiv.com/stormblood/)
+    - https://jp.finalfantasyxiv.com/stormblood/ -- 公式サイト link, listed 2023-01-07 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230107093749/https://jp.finalfantasyxiv.com/stormblood/
+
 ## Decisions

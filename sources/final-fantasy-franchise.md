@@ -363,6 +363,13 @@
 - the same list, capture of 2024-09-24: https://web.archive.org/web/20240924082331/https://www.jp.square-enix.com/game/?pf=8 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list, capture of 2025-09-25: https://web.archive.org/web/20250925101918/https://www.jp.square-enix.com/game/?pf=8 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list (platform filter ?pf=8), live page of 2026-10-27: https://www.jp.square-enix.com/game/?pf=8 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- http://www.jp.square-enix.com/game/ -- the Mac list (per-model page /game/mac/ to 2018, model filter 9 and platform filter ?pf=9 from 2023), capture of 2015-06-11: https://web.archive.org/web/20150611071558/http://www.jp.square-enix.com/game/mac/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2016-06-12: https://web.archive.org/web/20160612202635/http://www.jp.square-enix.com:80/game/mac/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2017-08-03: https://web.archive.org/web/20170803033044/http://www.jp.square-enix.com:80/game/mac/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2018-07-01: https://web.archive.org/web/20180701101308/http://www.jp.square-enix.com:80/game/mac/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list in its later layout, capture of 2023-01-07: https://web.archive.org/web/20230107093746/https://www.jp.square-enix.com/game/?pf=9 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2024-03-28: https://web.archive.org/web/20240328144452/https://www.jp.square-enix.com/game/?pf=9 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list (platform filter ?pf=9), live page of 2026-10-27: https://www.jp.square-enix.com/game/?pf=9 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 
