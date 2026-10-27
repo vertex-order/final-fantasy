@@ -25,7 +25,7 @@ window.__ffGroupReg['EX'] = { num: 'EX', chronoOrder: 1520, narrativeOrder: 1520
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-playthrough', search: 'youtube' },
-        { key: 'nintendo-3ds', url: 'https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/FINAL-FANTASY-EXPLORERS-1079391.html' },
+        { key: 'nintendo-3ds', paren: 'Physical; Digital', url: 'https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/FINAL-FANTASY-EXPLORERS-1079391.html' },
       ],
     },
   },

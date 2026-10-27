@@ -22,7 +22,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
       profileUrl: 'https://www.square-enix.com/finalfantasyresonance/',
       platforms: [
         { key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-resonance/9nncprh9vwg4' },
-        { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/3259780/FINAL_FANTASY_RESONANCE/' },
+        { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/app/3259780/FINAL_FANTASY_RESONANCE/' },
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-resonance/9nncprh9vwg4' },
         { key: 'playstation5', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/JP0082-PPSA31544_00-FFRSSTDWW0000000' },
         {
@@ -60,6 +60,7 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
       ],
       profileUrl: 'https://web.archive.org/web/20241111211722/https://www.finalfantasyexvius.com/',
       platforms: [
+        { key: 'windows', paren: 'Digital', jpTag: true, terminated: true },
         { key: 'android', terminated: true, url: 'https://web.archive.org/web/20240909211105/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20230928143311/https://apps.apple.com/app/final-fantasy-brave-exvius/id1078553808' },
         { key: 'amazon', terminated: true, url: 'https://web.archive.org/web/20240207072104/https://www.amazon.com/gp/product/B01KUHETFY' },

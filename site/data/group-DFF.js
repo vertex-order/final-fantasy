@@ -74,7 +74,9 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
             { score: '7.1', url: 'https://www.metacritic.com/game/dissidia-final-fantasy/', key: 'metacritic-user' },
           ],
           platforms: [
+            { key: 'playstation-portable', paren: 'Physical' },
             { key: 'playstation-portable', paren: 'Digital' },
+            { key: 'playstation-vita', paren: 'Digital; PSP compatibility' },
           ],
           versionDesc: [
             [{ text: 'The original release. The Western versions add new cutscenes, an Arcade Mode, and ease unlocking Shade Impulse and grinding for player icons. Also released as ' }, { emText: 'Dissidia Final Fantasy: Universal Tuning' }, { text: ' in Japan, which offers a choice of English or Japanese voice audio in battles (cutscenes are English only).' }],
@@ -111,7 +113,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
       length: [{ value: '33½h', tip: 'Solo', join: ' / ' }, { value: '110h', tip: 'Vs.' }],
       platforms: [
         { key: 'arcade' },
-        { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/sub/346805/' },
+        { key: 'steam', paren: 'PC; Digital', url: 'https://store.steampowered.com/sub/346805/' },
         { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA09512_00-DISSIDIAFFDELUXE' },
         { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA09512_00-DISSIDIAFFDELUXE' },
         { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-CUSA09512_00-DISSIDIAFFDELUXE', paren: 'PS5; PS4' },

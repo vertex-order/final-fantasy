@@ -29,7 +29,7 @@ window.__ffGroupReg['VIII'] = { num: 'VIII', chronoOrder: 800, narrativeOrder: 8
       length: [{ value: '38h', tip: 'Main Story', join: ' / ' }, { value: '52½h', tip: 'Main + Extra', join: ' / ' }, { value: '75½h', tip: 'Completionist' }],
       platforms: [
         { key: 'gog', paren: 'PC', url: 'https://www.gog.com/en/game/final_fantasy_viii_remastered' },
-        { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII__REMASTERED/' },
+        { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII__REMASTERED/' },
         { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVIII' },
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-viii-remastered/id1326740784' },
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-viii-remastered-switch/' },
@@ -63,7 +63,7 @@ window.__ffGroupReg['VIII'] = { num: 'VIII', chronoOrder: 800, narrativeOrder: 8
           ],
           profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-viii-pc',
           platforms: [
-            { key: 'windows' },
+            { key: 'windows', paren: 'Physical; Digital' },
             { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/39150/FINAL_FANTASY_VIII/' },
             { key: 'g-cluster-tv', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20250114090033/https://gcluster.jp/pc/games/ff8.html', hreflang: 'ja' },
             { key: 'sharp-tv', jpTag: true, terminated: true, paren: 'COCORO GAME cloud', url: 'https://web.archive.org/web/20190724070019/https://cocoroplus.jp.sharp/game/list/', hreflang: 'ja' },

@@ -324,7 +324,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       ],
       length: [{ value: '14h', tip: 'Main Story', join: ' / ' }, { value: '19h', tip: 'Main + Extra', join: ' / ' }, { value: '31½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'nintendo-ds', paren: 'Physical' },
+        { key: 'nintendo-ds', paren: 'Physical', url: 'https://web.archive.org/web/20190918234144/http://store.jp.square-enix.com/item/NTR_P_CFIJ.html', hreflang: 'ja' },
         { key: 'nintendo-3ds', paren: 'DS compatibility' },
         { key: 'nintendo-wii', paren: 'Physical' },
         { key: 'nintendo-wii-u', paren: 'Wii compatibility' },

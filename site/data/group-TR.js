@@ -22,7 +22,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, narrativeOrder: 1510
       platforms: [
         { key: 'fan-playthrough', search: 'youtube' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20160909141422/https://itunes.apple.com/us/app/theatrhythm-final-fantasy/id572828338' },
-        { key: 'nintendo-3ds', paren: 'No Digital' },
+        { key: 'nintendo-3ds', paren: 'No Digital', url: 'https://www.jp.square-enix.com/game/detail/t_ff/', hreflang: 'ja' },
       ],
     },
   },
@@ -48,7 +48,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, narrativeOrder: 1510
       length: [{ value: '11½h', tip: 'Main Story', join: ' / ' }, { value: '36h', tip: 'Main + Extra', join: ' / ' }, { value: '103h', tip: 'Completionist' }],
       platforms: [
         { key: 'fan-playthrough', search: 'youtube' },
-        { key: 'nintendo-3ds' },
+        { key: 'nintendo-3ds', paren: 'Physical; Digital', url: 'https://www.jp.square-enix.com/game/detail/t_ffcc/', hreflang: 'ja' },
       ],
     },
   },
@@ -101,7 +101,8 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, narrativeOrder: 1510
           paren: 'Backwards Compatible; Digital',
           url: 'https://www.nintendo.com/store/products/theatrhythm-final-bar-line-switch/',
         },
-        { key: 'playstation4', paren: 'Physical; Digital' },
+        { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/JP0082-CUSA32502_00-TFBL000000000000', hreflang: 'ja' },
+        { key: 'playstation5', paren: 'PS4 compatibility' },
       ],
       versionDesc: [
         'DLC is available on some platforms, adding additional music including tracks from additional Final Fantasy titles.',

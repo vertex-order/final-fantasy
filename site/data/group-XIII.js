@@ -25,7 +25,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       length: [{ value: '48h', tip: 'Main Story', join: ' / ' }, { value: '61h', tip: 'Main + Extra', join: ' / ' }, { value: '105h', tip: 'Completionist' }],
       platforms: [
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii/9mtv87hfmf43' },
-        { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/292120/FINAL_FANTASY_XIII/' },
+        { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/app/292120/FINAL_FANTASY_XIII/' },
         { key: 'android', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20250116064039/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13' },
         { key: 'apple', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20160122153630/https://itunes.apple.com/jp/app/final-fantasy-xiii-fainarufantajixiii/id960145054', hreflang: 'ja' },
         { key: 'amazon', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20161129065758/https://www.amazon.co.jp/%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2GC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-FINAL-FANTASY-XIII-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIII/dp/B01CSJ0VM2', hreflang: 'ja' },
@@ -56,7 +56,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           ],
           helpWanted: true,
           platforms: [
-            { key: 'xbox-360', paren: 'Physical; Digital' },
+            { key: 'xbox-360', paren: 'Physical; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-ultimate-hits-international/BT35RRBKKB99' },
             { key: 'xbox-one', paren: '360 compatibility' },
             { key: 'xbox-xs', paren: '360 compatibility' },
           ],
@@ -173,7 +173,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       length: [{ value: '28h', tip: 'Main Story', join: ' / ' }, { value: '41½h', tip: 'Main + Extra', join: ' / ' }, { value: '71h', tip: 'Completionist', join: ', ' }, { value: 'Requiem of the Goddess 1h', tip: 'Requiem of the Goddess Main Story', join: ' / ' }, { value: '1½h', tip: 'Requiem of the Goddess Main + Extra', join: ' / ' }, { value: '2h', tip: 'Requiem of the Goddess Completionist', join: ', ' }, { value: "Sazh's Story - Heads or Tails? 1h", tip: "Sazh's Story - Heads or Tails?", join: ', ' }, { value: "Snow's Story - Perpetual Battlefield 1h", tip: "Snow's Story - Perpetual Battlefield" }],
       platforms: [
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/9mvj3vl1v3vp' },
-        { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/' },
+        { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/' },
         { key: 'xbox-xs', paren: 'FPS Boost; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', search: 'youtube' },
@@ -216,8 +216,8 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation3', paren: 'Physical; Digital' },
-            { key: 'xbox-360', paren: 'Physical; Digital' },
+            { key: 'playstation3', paren: 'Physical; Digital', url: 'https://web.archive.org/web/20180220234333/http://store.jp.square-enix.com/item/BLJM_61073.html', hreflang: 'ja' },
+            { key: 'xbox-360', paren: 'Physical; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/C4Z18B1HM4FZ' },
             { key: 'xbox-one', paren: '360 compatibility' },
             { key: 'xbox-xs', paren: '360 compatibility' },
           ],
@@ -287,7 +287,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       length: [{ value: '33h', tip: 'Main Story', join: ' / ' }, { value: '47h', tip: 'Main + Extra', join: ' / ' }, { value: '66½h', tip: 'Completionist' }],
       platforms: [
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/lightning-returns-final-fantasy-xiii/9plf9mr720sj' },
-        { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/' },
+        { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/' },
         { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg' },
         { key: 'xbox-xs', paren: 'FPS Boost; Digital', url: 'https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'lightning returns final fantasy XIII-3' },
@@ -331,7 +331,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           helpWanted: true,
           platforms: [
             { key: 'playstation3', paren: 'Physical; Digital' },
-            { key: 'xbox-360', paren: 'Physical; Digital' },
+            { key: 'xbox-360', paren: 'Physical; Digital', url: 'https://www.xbox.com/games/store/lightning-returns-final-fantasy-xiii/BRRSMNBM1QGG' },
           ],
           versionDesc: [
             'The original release. The international version (2014) softens some dialogue and innuendo, and offers Japanese audio as separate DLC.',
@@ -452,7 +452,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       ],
       length: [{ value: '23½h', tip: 'Main Story', join: ' / ' }, { value: '36h', tip: 'Main + Extra', join: ' / ' }, { value: '50h', tip: 'Completionist' }],
       platforms: [
-        { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/340170/FINAL_FANTASY_TYPE0_HD/' },
+        { key: 'steam', paren: 'PC; Digital', url: 'https://store.steampowered.com/app/340170/FINAL_FANTASY_TYPE0_HD/' },
         { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA00994_00-00000000SUZAKUNA' },
         { key: 'playstation5', paren: 'PS4 compat', url: 'https://store.playstation.com/product/UP0082-CUSA00994_00-00000000SUZAKUNA' },
         { key: 'xbox-one', paren: 'Physical; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-type-0-hd/c1f1hjk2njpj' },

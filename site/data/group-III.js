@@ -33,7 +33,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
       length: [{ value: '16h', tip: 'Main Story', join: ' / ' }, { value: '18h', tip: 'Main + Extra', join: ' / ' }, { value: '18½h', tip: 'Completionist' }],
       platforms: [
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-iii/9nwdpfppk30v?' },
-        { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1173790?' },
+        { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/app/1173790?' },
         { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR3&' },
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-iii/id1492041436?' },
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-iii-switch/' },
@@ -60,11 +60,11 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
             { value: 'KO', tip: 'Korean (Fan Translation) (2003)' },
           ],
           platforms: [
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility' },
-            { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility', url: 'https://web.archive.org/web/20110128073401/http://dlgames.square-enix.com/jp/vc/2009/ff3/', hreflang: 'ja' },
+            { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console', url: 'https://web.archive.org/web/20110128073401/http://dlgames.square-enix.com/jp/vc/2009/ff3/', hreflang: 'ja' },
             { key: 'nintendo-nes-classic-edition', jpTag: true },
             { key: 'nintendo-fc', paren: 'Physical; Japan Only' },
-            { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console; Digital', url: 'https://www.jp.square-enix.com/game/detail/ff3/', hreflang: 'ja' },
           ],
           versionDesc: [
             'The original release.',
@@ -102,7 +102,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
         platforms: [
           { key: 'windows' },
           { key: 'gog', paren: 'PC', url: 'https://www.gog.com/en/game/final_fantasy_iii_3d_remake' },
-          { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/agecheck/app/239120/' },
+          { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/agecheck/app/239120/' },
         ],
         versions: [
           {
@@ -141,6 +141,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
             helpWanted: true,
             platforms: [
               { key: 'playstation-portable', paren: 'Physical; Digital' },
+              { key: 'playstation-vita', paren: 'Digital; PSP compatibility' },
             ],
             versionDesc: [
               [{ text: 'This port adds auto-battle, a soundtrack toggle, a bonus Art Gallery and BGM player, and faster loading via Data Install.' }],

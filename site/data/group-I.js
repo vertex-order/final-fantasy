@@ -30,8 +30,8 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       ],
       length: [{ value: '17½h', tip: 'Main Story', join: ' / ' }, { value: '29h', tip: 'Main + Extra', join: ' / ' }, { value: '50½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' },
-        { key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin' },
+        { key: 'steam', paren: 'PC; Digital', url: 'https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/' },
+        { key: 'epic-games', paren: 'PC; Digital', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin' },
         { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00' },
         { key: 'playstation5', paren: 'Physical; Digital; PS4 compat', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00' },
         { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00', paren: 'PS5; PSPortal' },
@@ -175,7 +175,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       length: [{ value: '15h', tip: 'Main Story', join: ' / ' }, { value: '17h', tip: 'Main + Extra', join: ' / ' }, { value: '18h', tip: 'Completionist' }],
       platforms: [
         { key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93?' },
-        { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1173770/FINAL_FANTASY/' },
+        { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/app/1173770/FINAL_FANTASY/' },
         { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR&' },
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy/id1492041278' },
         { key: 'apple-arcade', url: 'https://apps.apple.com/app/final-fantasy/id6504607244' },
@@ -216,7 +216,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
             { value: 'JA', native: true },
           ],
           platforms: [
-            { key: 'nintendo-3ds', paren: 'Digital', jpTag: true },
+            { key: 'nintendo-3ds', paren: 'Digital', jpTag: true, url: 'https://www.jp.square-enix.com/game/detail/ff/', hreflang: 'ja' },
           ],
           versionDesc: [
             ['This remaster has 3D stereoscopic graphics; higher resolution 2D graphics, ', { abbrTerm: 'FMV', abbrDef: 'Full Motion Video' }, ' sequences, remixed soundtrack, additional dungeon from Remaster (2007); four additional dungeons, updated bestiary from Remaster (2004).'],

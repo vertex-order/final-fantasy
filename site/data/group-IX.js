@@ -28,7 +28,7 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, narrativeOrder: 900, 
       platforms: [
         { key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-ix/9npgtnqfc8b5' },
         { key: 'gog', paren: 'PC', url: 'https://www.gog.com/en/game/final_fantasy_ix' },
-        { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/377840/FINAL_FANTASY_IX/' },
+        { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/app/377840/FINAL_FANTASY_IX/' },
         { key: 'android', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20240813233441/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff9' },
         { key: 'apple', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20240902075542/https://apps.apple.com/jp/app/final-fantasy-ix-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%89%88/id1273920512', hreflang: 'ja' },
         { key: 'amazon', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20230814145211/https://www.amazon.co.jp/dp/B075MCK6XC/ref=sr_1_6', hreflang: 'ja' },

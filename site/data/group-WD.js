@@ -38,7 +38,7 @@ window.__ffGroupReg['WD'] = { num: 'WD', chronoOrder: 1580, narrativeOrder: 1580
           paren: 'Digital; Nintendo Switch compatibility',
           url: 'https://www.nintendo.com/store/products/world-of-final-fantasy-maxima-switch/',
         },
-        { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/bundle/9112/WORLD_OF_FINAL_FANTASY_COMPLETE_EDITION/' },
+        { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/bundle/9112/WORLD_OF_FINAL_FANTASY_COMPLETE_EDITION/' },
         { key: 'fan-movie', search: 'youtube', searchQualifier: 'Maxima' },
         { key: 'fan-recap', search: 'youtube', searchQualifier: 'Maxima' },
         { key: 'fan-playthrough', search: 'youtube', searchQualifier: 'Maxima' },
@@ -59,9 +59,10 @@ window.__ffGroupReg['WD'] = { num: 'WD', chronoOrder: 1580, narrativeOrder: 1580
             { value: 'ZH-TW', textOnly: true },
           ],
           platforms: [
-            { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/' },
-            { key: 'playstation4', paren: 'Digital' },
-            { key: 'playstation-vita', paren: 'Physical; Digital' },
+            { key: 'steam', paren: 'PC; Digital', url: 'https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/' },
+            { key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/ja-jp/product/JP0082-CUSA03043_00-WOFFMAXIMASET000', hreflang: 'ja' },
+            { key: 'playstation5', paren: 'PS4 compatibility' },
+            { key: 'playstation-vita', paren: 'Physical; Digital', url: 'https://web.archive.org/web/20171117042937/http://store.jp.square-enix.com/item/VLJM_35293.html', hreflang: 'ja' },
           ],
           versionDesc: [
             [{ text: 'The original release.' }],

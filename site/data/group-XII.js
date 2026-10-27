@@ -31,7 +31,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       length: [{ value: '40½h', tip: 'Main Story', join: ' / ' }, { value: '62h', tip: 'Main + Extra', join: ' / ' }, { value: '105h', tip: 'Completionist' }],
       platforms: [
         { key: 'windows', paren: 'PC; Handheld; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xii-the-zodiac-age/9nm6ng7knhwj' },
-        { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/' },
+        { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/' },
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-xii-the-zodiac-age-switch/' },
         {
           key: 'nintendo-switch-2',
@@ -271,7 +271,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       length: [{ value: '37h', tip: 'Main Story', join: ' / ' }, { value: '46h', tip: 'Main + Extra', join: ' / ' }, { value: '63½h', tip: 'Completionist' }],
       platforms: [
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-tactics-the-ivalice-chronicles/9mz2mc7t85t5' },
-        { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/' },
+        { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/' },
         { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/JP0082-PPSA21783_00-FFTACTICS0000000' },
         {
           key: 'playstation5',
@@ -314,8 +314,8 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
             { key: 'playstation-portable', jpTag: true, paren: 'Digital', url: 'https://web.archive.org/web/20110318181401/http://dlgames.square-enix.com/jp/psp_dl/2011/fftactics/' },
             { key: 'playstation-vita', paren: 'Digital; PSP compatibility', terminated: true },
             { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2' },
-            { key: 'apple', url: 'https://apps.apple.com/us/app/final-fantasy-tactics-wotl/id446760220' },
-            { key: 'apple-ipad', url: 'https://apps.apple.com/us/app/final-fantasy-tactics/id500098096' },
+            { key: 'apple', paren: 'Digital', url: 'https://apps.apple.com/us/app/final-fantasy-tactics-wotl/id446760220' },
+            { key: 'apple-ipad', paren: 'Digital', url: 'https://apps.apple.com/us/app/final-fantasy-tactics/id500098096' },
             { key: 'fan-movie', search: 'youtube', searchQualifier: 'War of the Lions' },
             { key: 'fan-recap', search: 'youtube', searchQualifier: 'War of the Lions' },
             { key: 'fan-playthrough', search: 'youtube', searchQualifier: 'War of the Lions' },
@@ -422,8 +422,8 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
       ],
       platforms: [
         { key: 'mobile-phone', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20160307051837/http://www.square-enix.co.jp/mobile/ff/cg/', hreflang: 'ja' },
-        { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20160203052424/https://itunes.apple.com/us/app/crystal-defenders/id300186798?mt=8' },
-        { key: 'apple-ipad', terminated: true, url: 'https://web.archive.org/web/20160709085514/https://itunes.apple.com/us/app/crystal-defenders-for-ipad/id379052382?mt=8' },
+        { key: 'apple', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20160203052424/https://itunes.apple.com/us/app/crystal-defenders/id300186798?mt=8' },
+        { key: 'apple-ipad', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20160709085514/https://itunes.apple.com/us/app/crystal-defenders-for-ipad/id379052382?mt=8' },
         { key: 'xbox-360', terminated: true, paren: 'Xbox Live Arcade', url: 'https://www.xbox.com/games/store/crystal-defenders/BVCHVG7HM8LG' },
         { key: 'xbox-one', paren: '360 Live Arcade compatibility', url: 'https://www.xbox.com/games/store/crystal-defenders/BVCHVG7HM8LG' },
         { key: 'xbox-xs', paren: '360 Live Arcade compatibility', url: 'https://www.xbox.com/games/store/crystal-defenders/BVCHVG7HM8LG' },
@@ -498,7 +498,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         { value: 'ES' },
       ],
       platforms: [
-        { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20160610064226/http://itunes.apple.com/app/vanguard-storm/id313457759?mt=8' },
+        { key: 'apple', terminated: true, paren: 'Digital', url: 'https://web.archive.org/web/20160610064226/http://itunes.apple.com/app/vanguard-storm/id313457759?mt=8' },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Crystal Defenders Vanguard Storm' },
       ],
     },

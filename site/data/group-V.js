@@ -33,7 +33,7 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
       length: [{ value: '30½h', tip: 'Main Story', join: ' / ' }, { value: '35½h', tip: 'Main + Extra', join: ' / ' }, { value: '51½h', tip: 'Completionist' }],
       platforms: [
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-v/9n9c8sv0s16w?' },
-        { key: 'steam', paren: 'PC; Handheld', url: 'https://store.steampowered.com/app/1173810?' },
+        { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/app/1173810?' },
         { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR5&' },
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-v/id1492041611' },
         { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-v-switch/' },
@@ -130,9 +130,9 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
           ],
           platforms: [
             { key: 'nintendo-snes', jpTag: true, paren: 'Super Famicom; Physical' },
-            { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console' },
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility' },
-            { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console', url: 'https://web.archive.org/web/20110916224951/http://dlgames.square-enix.com/jp/vc/2011/ff5/', hreflang: 'ja' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility', url: 'https://web.archive.org/web/20110916224951/http://dlgames.square-enix.com/jp/vc/2011/ff5/', hreflang: 'ja' },
+            { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console; Digital', url: 'https://www.jp.square-enix.com/game/detail/ff5/', hreflang: 'ja' },
           ],
           versionDesc: [
             'The original release.',
