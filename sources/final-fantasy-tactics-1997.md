@@ -293,30 +293,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 
 - Square Enix Japan's PlayStation 3 game list -- saved pages of each capture read by me, the 2015-04-10 capture from the text pasted by user; each capture read only for what is new against the previous one -- accessed 2026-10-26
   - Page URL by capture: 2012-10-06 to 2018-05-24 http://www.jp.square-enix.com/game/ps3/ (2016-05-12 is the English-language page, 2017-06-06 the Japanese-language page); 2019-10-29 to live https://www.jp.square-enix.com/game/?pf=99,2; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in the franchise sources file (sources/final-fantasy-franchise.md in the final-fantasy repo)
-  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou; Game Archives = the text label on the 2015-04-10 capture; from 2019-10-29 the labels パッケージ (disc), ダウンロード and オンライン専用 are shown as text; "none" = no icon (not stated). CERO ratings are shown as text from 2025-02-17. The 2016-05-12 capture's release and genre text was not read.
-  - Items appear only in the captures listed after "listed:"; the 2015-12-08 to 2018-05-24 captures show a short list (recent releases only).
-  - ファイナルファンタジータクティクス（ゲームアーカイブス）; シミュレーションRPG; first listed 2015-04-10: release 2009.05.13; icons: Game Archives (PS3/PSP/PSV); changes: 2019-10-29: note ※2012.08.28からPlayStation Vitaに対応 to ※none / 2025-02-17: CERO B first shown; listed: 2015-04-10; 2019-10-29 to live (2026-10-26)
-
-## jp.square-enix.com (Publisher; Japan, Switch 2 list, captures of 2025-09-25 to live (2026-10-26))
-
-- Square Enix Japan's Nintendo Switch 2 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
-  - Page URL by capture: https://www.jp.square-enix.com/game/?pf=35; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
-  - Icons, read from the alt text of the label images: Nintendo Switch2 (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
-  - ファイナルファンタジータクティクス - イヴァリース クロニクルズ; タクティカルRPG; first listed 2025-09-25: release 2025.09.30; icons: パッケージ, ダウンロード; CERO C; listed in every capture from 2025-09-25 to live (2026-10-26)
-    - https://store.jp.square-enix.com/sp/fft_tic/index.html -- e-STOREで予約 link, listed 2025-09-25 -- link recorded only -- archived: https://web.archive.org/web/20250925101854/https://store.jp.square-enix.com/sp/fft_tic/index.html
-    - https://store-jp.nintendo.com/item/software/D70010000100753 -- マイニンテンドーストア link, listed 2025-09-25 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20250925101854/https://store-jp.nintendo.com/item/software/D70010000100753 (last listing: https://web.archive.org/web/20260811215419/https://store-jp.nintendo.com/item/software/D70010000100753)
-    - https://www.jp.square-enix.com/fft_tic/ -- 公式サイト link, listed 2025-09-25 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20250925101854/https://www.jp.square-enix.com/fft_tic/ (last listing: https://web.archive.org/web/20260811215419/https://www.jp.square-enix.com/fft_tic/)
-
-## jp.square-enix.com (Publisher; Japan, Switch list, captures of 2019-03-31 to live (2026-10-27))
-
-- Square Enix Japan's Nintendo Switch game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
-  - Page URL by capture: 2017-05-03 http://www.jp.square-enix.com/game/switch/; 2018-05-24 http://www.jp.square-enix.com/game/pf/switch/; 2019-03-31 to live https://www.jp.square-enix.com/game/?pf=4; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
-  - Icons, read from the alt text of the label images: Nintendo Switch (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only), クラウド (cloud version); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
-  - Link labels: e-STORE (Square Enix's store), 任天堂ホームページ / マイニンテンドーストア (Nintendo's store, same link under its two names), 公式サイト, 商品詳細
-  - ファイナルファンタジータクティクス - イヴァリース クロニクルズ; タクティカルRPG; first listed 2025-10-28: release 2025.09.30; icons: パッケージ, ダウンロード; CERO C; listed in every capture from 2025-10-28 to live (2026-10-27)
-    - https://store.jp.square-enix.com/sp/fft_tic/index.html -- e-STOREで購入 link, listed 2025-10-28 -- link recorded only -- archived: https://web.archive.org/web/20251107123723/https://store.jp.square-enix.com/sp/fft_tic/index.html
-    - https://store-jp.nintendo.com/item/software/D70010000088804 -- マイニンテンドーストア link, listed 2025-10-28 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20251107123723/https://store-jp.nintendo.com/item/software/D70010000088804
-    - https://www.jp.square-enix.com/fft_tic/ -- 公式サイト link, listed 2025-10-28 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20251107123723/https://www.jp.square-enix.com/fft_tic/
+  - The 2012 to 2018 captures hold two blocks: the newer releases with a description and the older titles (Game Archives and earlier) as compact rows; both were read. Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou; Game Archives (PS3/PSP/PSV) = icon-gamearchives; the 2015-04-10 capture gives only the text labels Online, Download and Game Archives; from 2019-10-29 the labels パッケージ (disc), ダウンロード and オンライン専用 are shown as text; "none" = no icon (not stated). CERO ratings are shown as images before 2019-10-29 and as text from 2025-02-17; they are recorded from 2025-02-17.
+  - A title appears only in the captures listed after "listed:"; the 2012-10-06 capture holds 34 titles, the 2013-10-20 capture 104 and the later 2012 to 2018 captures 113 to 125.
+  - ファイナルファンタジータクティクス（ゲームアーカイブス）; シミュレーションRPG; first listed 2013-10-20: release 2009.05.13; icons: Game Archives (PS3/PSP/PSV); changes: 2019-10-29: note ※2012.08.28よりプレイステーション ヴィータに対応 to ※none / 2025-02-17: CERO B first shown; listed: 2013-10-20 to live (2026-10-26)
 
 ## Decisions
 

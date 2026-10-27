@@ -106,6 +106,17 @@
     - http://www.square-enix.co.jp/itastpsp/ -- 公式サイト link, listed 2012-10-06 to 2014-11-19 -- link recorded only -- archived: https://web.archive.org/web/20121006013905/http://www.square-enix.co.jp/itastpsp/ (last listing: https://web.archive.org/web/20141119172354/http://www.square-enix.co.jp/itastpsp/)
     - http://www.jp.square-enix.com/archive/itast_psp/ -- 商品詳細 link, listed 2015-03-18 to 2018-03-20 -- link recorded only -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/archive/itast_psp/ (last listing: https://web.archive.org/web/20180320203912/http://www.jp.square-enix.com/archive/itast_psp/)
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone, Japan)
+
+- http://dlgames.square-enix.com/jp/ipod/ -- the Japanese "iPod / iPhone" menu; three captures read, saved pages read by me -- accessed 2026-10-27
+  - Page URL by capture: 2009-12-26 http://dlgames.square-enix.com/jp/ipod/; 2011-07-14 http://dlgames.square-enix.com/jp/ipod/; 2012-10-20 http://dlgames.square-enix.com/jp/ipod/; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: the menu shows none. CERO: the menu shows none.
+  - いただきストリート for SMARTPHONE わたしのお店にタッチして！; ボードゲーム; release 2012.03.22; first and last capture read that lists it: 2012-10-20 (not listed in the captures of 2009-12-26 and 2011-07-14)
+    - http://www.square-enix.co.jp/smart/itast/jp/ -- 公式サイト link, listed 2012-10-20 -- link recorded only -- archived: https://web.archive.org/web/20121022093542/http://www.square-enix.co.jp/smart/itast/jp (the nearest capture to the menu capture; the index lists captures from 2012-03-24 to 2019-01-10)
+      - Page read from that capture: title いただきストリート for SMARTPHONE わたしのお店にタッチして！ | SQUARE ENIX; Android release 2012年1月23日, download sale at SQUARE ENIX MARKET; iPhone / iPod touch release 2012年3月22日, download sale on the App Store; a free trial version; (C) 2012 ARMOR PROJECT / SQUARE ENIX; no Dragon Quest or Final Fantasy name or character on the page
+      - http://itunes.apple.com/jp/app/itadakisutorito-for-smartphone/id485548636?mt=8 -- App Store link on that page -- link recorded only -- archived: https://web.archive.org/web/20171015123203/https://itunes.apple.com/jp/app/itadakisutorito-for-smartphone/id485548636?mt=8 (first capture of the id: https://web.archive.org/web/20120324170118/http://itunes.apple.com:80/jp/app/itadakisutorito-for-smartphone/id485548636?)
+      - http://www.square-enix.co.jp/smart/market/ -- SQUARE ENIX Market link on that page -- link recorded only -- archived: https://web.archive.org/web/20121024025820/http://www.square-enix.co.jp/smart/market/
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
