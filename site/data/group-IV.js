@@ -91,6 +91,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
           ],
           platforms: [
             { key: 'nintendo-game-boy-advance', paren: 'Physical' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
           ],
           versionDesc: [
             [{ text: 'This edit adds two bonus dungeons, a Bestiary, and a Music Player. Has several known bugs and glitches, only partially fixed in the PAL/Version 1.1 release. Released as ' }, { emText: 'Final Fantasy IV Advance (2005)' }, { text: ', and included in omnibus collection ' }, { emText: 'Finest Fantasy for Advance (2005)' }, { text: '.' }],

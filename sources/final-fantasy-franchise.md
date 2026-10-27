@@ -283,6 +283,15 @@
 - the same list, capture of 2022-12-24: https://web.archive.org/web/20221224162345/https://www.jp.square-enix.com/game/?pf=3 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
 - the same list, capture of 2024-04-06: https://web.archive.org/web/20240406093627/https://www.jp.square-enix.com/game/?pf=3 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
 - the same list, live page of 2026-10-26: https://www.jp.square-enix.com/game/?pf=3 -- visited and audited -- accessed 2026-10-26 (saved page read by me)
+- http://www.jp.square-enix.com/game/wiiu/ -- the Wii U list (one of the "By model" lists), capture of 2012-10-06: https://web.archive.org/web/20121006013914/http://www.jp.square-enix.com:80/game/wiiu/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2013-10-20: https://web.archive.org/web/20131020014910/http://www.jp.square-enix.com/game/wiiu/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2014-11-27: https://web.archive.org/web/20141127151121/http://www.jp.square-enix.com:80/game/wiiu/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2015-12-10: https://web.archive.org/web/20151210144002/http://www.jp.square-enix.com:80/game/wiiu/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2016-12-23: https://web.archive.org/web/20161223042418/http://www.jp.square-enix.com:80/game/wiiu/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2018-01-17: https://web.archive.org/web/20180117163533/http://www.jp.square-enix.com:80/game/wiiu/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list in its later layout (platform filter ?pf=99,5), capture of 2019-06-26: https://web.archive.org/web/20190626191855/https://www.jp.square-enix.com/game/?pf=99,5 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list (platform filter ?pf=5), capture of 2023-01-07: https://web.archive.org/web/20230107120441/https://www.jp.square-enix.com/game/?pf=5 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, live page of 2026-10-27: https://www.jp.square-enix.com/game/?pf=5 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 

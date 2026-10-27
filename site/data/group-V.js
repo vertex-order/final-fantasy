@@ -90,6 +90,7 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
           ],
           platforms: [
             { key: 'nintendo-game-boy-advance', paren: 'Physical' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
           ],
           versionDesc: [
             [{ text: 'This edit adds four new jobs, an extra dungeon, optional boss, additional equipment, and new translations. Released as ' }, { emText: 'Final Fantasy V Advance (2006)' }, { text: '.' }],

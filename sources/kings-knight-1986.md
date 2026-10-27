@@ -78,6 +78,15 @@ dlgames.square-enix.com (Platform; Virtual Console, Japan, menu captures of 2010
 - http://dlgames.square-enix.com/jp/vc/ -- the Japanese Virtual Console (バーチャルコンソール) menu, saved pages read by me: キングスナイト; genre フォーメーションRPG; release 2007.11.27; listed in all three captures; links http://dlgames.square-enix.com/jp/vc/2007/kingsknight/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/
   - the captures' own links to the detail page: https://web.archive.org/web/20100328070952/http://dlgames.square-enix.com/jp/vc/2007/kingsknight/, https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/2007/kingsknight/, https://web.archive.org/web/20120514024939/http://dlgames.square-enix.com/jp/vc/2007/kingsknight/ -- accessed 2026-10-25 -- link recorded only
 
+jp.square-enix.com (Publisher; Japan, Wii U list, captures of 2012-10-06 to live (2026-10-27))
+
+- Square Enix Japan's Wii U game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2012-10-06 to 2018-01-17 http://www.jp.square-enix.com/game/wiiu/; 2019-06-26 https://www.jp.square-enix.com/game/?pf=99,5; 2023-01-07 to live https://www.jp.square-enix.com/game/?pf=5 (platform filter 5 = Wii U); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: the labels Wii U (the model, not repeated below) and ダウンロード (also sold as a download); CERO: the label's alt text; links: 商品詳細 (detail page), 任天堂ホームページ (Nintendo's site, here a search page); a link's archived URL is the capture of the link as the saved page renders it; links of the live page have no archive
+  - キングスナイト（バーチャルコンソール）; フォーメーションRPG; first listed 2023-01-07: release 2016.07.06; icons: ダウンロード; CERO A; listed: 2023-01-07, live (2026-10-27); not listed in the 2012-10-06 to 2019-06-26 captures
+    - https://www.nintendo.co.jp/search/?q=%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88&mode=soft -- 任天堂ホームページ link, listed 2023-01-07 -- link recorded only -- archived: https://web.archive.org/web/20230107093749/https://www.nintendo.co.jp/search/?q=%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88&mode=soft
+    - https://www.jp.square-enix.com/game/detail/kingsknight/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230107120441mp_/https://www.jp.square-enix.com/game/detail/kingsknight/ (live page: TODO)
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

@@ -91,6 +91,7 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, narrativeOrder: 600, 
           ],
           platforms: [
             { key: 'nintendo-game-boy-advance', paren: 'Physical' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
           ],
           versionDesc: [
             'This edit has slightly improved visuals and a new translation, plus four new espers, two new areas, and three new spells.',
