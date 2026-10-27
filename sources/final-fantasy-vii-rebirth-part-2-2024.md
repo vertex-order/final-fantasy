@@ -81,4 +81,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_versi
     - https://www.xbox.com/ja-jp/games/store/i/9NP9F7WWKRP1 -- Microsoft Store link, listed live (2026-10-27) -- link recorded only -- archived: TODO
     - https://www.jp.square-enix.com/ffvii_rebirth/ -- 公式サイト link, listed live (2026-10-27) -- link recorded only -- archived: TODO
 
+## jp.square-enix.com (Publisher; Japan, Windows list, captures of 2025-09-25 to live (2026-10-27))
+
+- Square Enix Japan's Windows game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2012-10-05 to 2017-12-26 http://www.jp.square-enix.com/game/win/; 2018-07-06 http://www.jp.square-enix.com/game/pf/win/; 2019-09-18 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Windows, platform filter ?pf=8 (the saved pages show the model checkbox value 8 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images (2012 to 2017 captures): ダウンロード専用 (download only) = icon-download-senyou, ダウンロード対応 (also sold as a download) = icon-download-taiou, オンライン専用 (online only) = icon-online-senyou, ONLINE対応 = icon-online-taiou; from 2018 the label images' alt text: パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only), the store buttons (Steam, Epic Games Store, Microsoft Store) are links, listed below; "none" = no icon beyond the model (not stated). CERO: the label's alt text from the 2018 captures; CERO審査予定 = rating pending
+  - Link labels: 公式サイト (official site), 商品詳細 (product detail page, 2021 on), Steam (Steamでダウンロード in 2018), Microsoft Store, Epic Games Store, e-STOREで購入 (Square Enix e-STORE purchase); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジーVII リバース; RPG; first listed 2025-09-25: release 2025.01.23; icons: ダウンロード; CERO C; changes: live (2026-10-27): release 2025.01.23 to 2026.06.03; listed in every capture from 2025-09-25 to live (2026-10-27)
+    - https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/ -- Steam link, listed 2025-09-25 -- link recorded only -- archived: https://web.archive.org/web/20250925101854/https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/
+    - https://store.epicgames.com/ja/p/final-fantasy-vii-rebirth -- Epic Games Store link, listed 2025-09-25 -- link recorded only -- archived: https://web.archive.org/web/20250925101854/https://store.epicgames.com/ja/p/final-fantasy-vii-rebirth
+    - https://www.jp.square-enix.com/ffvii_rebirth/ -- 公式サイト link, listed 2025-09-25 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20250925101854/https://www.jp.square-enix.com/ffvii_rebirth/
+
 ## Decisions

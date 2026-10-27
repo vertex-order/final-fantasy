@@ -72,4 +72,15 @@
     - https://www.xbox.com/ja-JP/games/store/FFRS/9P44MG3WG8R2 -- Microsoft Store link, listed live (2026-10-27) -- link recorded only -- archived: TODO
     - https://www.jp.square-enix.com/FFRS/ -- 公式サイト link, listed live (2026-10-27) -- link recorded only -- archived: TODO
 
+## jp.square-enix.com (Publisher; Japan, Windows list, live page of 2026-10-27)
+
+- Square Enix Japan's Windows game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2012-10-05 to 2017-12-26 http://www.jp.square-enix.com/game/win/; 2018-07-06 http://www.jp.square-enix.com/game/pf/win/; 2019-09-18 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Windows, platform filter ?pf=8 (the saved pages show the model checkbox value 8 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images (2012 to 2017 captures): ダウンロード専用 (download only) = icon-download-senyou, ダウンロード対応 (also sold as a download) = icon-download-taiou, オンライン専用 (online only) = icon-online-senyou, ONLINE対応 = icon-online-taiou; from 2018 the label images' alt text: パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only), the store buttons (Steam, Epic Games Store, Microsoft Store) are links, listed below; "none" = no icon beyond the model (not stated). CERO: the label's alt text from the 2018 captures; CERO審査予定 = rating pending
+  - Link labels: 公式サイト (official site), 商品詳細 (product detail page, 2021 on), Steam (Steamでダウンロード in 2018), Microsoft Store, Epic Games Store, e-STOREで購入 (Square Enix e-STORE purchase); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジー レゾナンス; RPG; first listed on the live page: release 2026.10.23; icons: ダウンロード; CERO C; listed on the live page only
+    - https://store.steampowered.com/app/3259780/ -- Steam link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+    - https://www.xbox.com/ja-JP/games/store/FFRS/9P44MG3WG8R2 -- Microsoft Store link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+    - https://www.jp.square-enix.com/FFRS/ -- 公式サイト link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+
 ## Decisions

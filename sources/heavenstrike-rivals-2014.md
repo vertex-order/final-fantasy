@@ -86,4 +86,13 @@
 - Steam 2016-05-23 (Valve, SteamDB, the wiki's article text); the wiki infobox says 2016-05-28
 - Closure: Steam 2017-02-01, the rest 2018-05-01 -- Final Fantasy Wiki
 
+## jp.square-enix.com (Publisher; Japan, Windows list, captures of 2016-12-21 to live (2026-10-27))
+
+- Square Enix Japan's Windows game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2012-10-05 to 2017-12-26 http://www.jp.square-enix.com/game/win/; 2018-07-06 http://www.jp.square-enix.com/game/pf/win/; 2019-09-18 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Windows, platform filter ?pf=8 (the saved pages show the model checkbox value 8 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images (2012 to 2017 captures): ダウンロード専用 (download only) = icon-download-senyou, ダウンロード対応 (also sold as a download) = icon-download-taiou, オンライン専用 (online only) = icon-online-senyou, ONLINE対応 = icon-online-taiou; from 2018 the label images' alt text: パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only), the store buttons (Steam, Epic Games Store, Microsoft Store) are links, listed below; "none" = no icon beyond the model (not stated). CERO: the label's alt text from the 2018 captures; CERO審査予定 = rating pending
+  - Link labels: 公式サイト (official site), 商品詳細 (product detail page, 2021 on), Steam (Steamでダウンロード in 2018), Microsoft Store, Epic Games Store, e-STOREで購入 (Square Enix e-STORE purchase); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ヘブンストライク ライバルズ; タクティカルRPG; first listed 2016-12-21: release 2016.05.24; icons: オンライン専用, ダウンロード専用; changes: 2019-09-18: release 2016.05.24 to (none stated), genre タクティカルRPG to タクティカルRPG ※サービス終了, icons オンライン専用, ダウンロード専用 to オンライン専用, ダウンロード; listed in every capture from 2016-12-21 to live (2026-10-27) except 2018-07-06
+    - http://www.heavenstrikerivals.com/jp/ -- 公式サイト link, listed 2016-12-21 to 2017-12-26 -- link recorded only -- archived: https://web.archive.org/web/20161221144014/http://www.heavenstrikerivals.com/jp/ (last listing: https://web.archive.org/web/20171226044753/http://www.heavenstrikerivals.com/jp/)
+
 ## Decisions

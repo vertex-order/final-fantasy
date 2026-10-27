@@ -19,7 +19,8 @@
 - https://wikipedia.org/wiki/Final_Fantasy_XIV:_Endwalker -- platforms* -- accessed 2026-10-25 (infobox read through the MediaWiki API)
   - Platforms: macOS, PlayStation 4, PlayStation 5, Windows, Xbox Series X/S (since March 2024), Nintendo Switch 2 (since August 2026)
 - https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/ -- accessed 2026-10-25 (the store's appdetails text read by me)
-  - The description names only A Realm Reborn, Heavensward, Stormblood and Shadowbringers, so there is no Steam row for this expansion
+  - The description names only A Realm Reborn, Heavensward, Stormblood and Shadowbringers
+- https://store.steampowered.com/app/1592500/FINAL_FANTASY_XIV_Endwalker/ -- platforms*, Steam link -- accessed 2026-10-27 (the store's appdetails read by me: success, type dlc, name FINAL FANTASY XIV: Endwalker, Collector's Edition text) -- archived: https://web.archive.org/web/20210702110910/https://store.steampowered.com/app/1592500/FINAL_FANTASY_XIV_Endwalker/
 
 ## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2021-11-19 to live (2026-10-26))
 
@@ -38,5 +39,16 @@
   - ファイナルファンタジーXIV: 暁月のフィナーレ; MMORPG(オンラインゲーム); first listed 2021-06-26: release 2021.11.23; icons: オンライン専用, ダウンロード; CERO: 審査予定; changes: 2022-09-17: release 2021.11.23 to 2021.12.07; CERO: 審査予定 to CERO C; listed in every capture from 2021-06-26 to live (2026-10-26)
     - https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-C0EX04SET0000000 -- PlayStation Store link, listed 2021-06-26 to 2024-10-09 -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-C0EX04SET0000000 (last listing: https://web.archive.org/web/20240925012046/https://store.playstation.com/ja-jp/product/JP0082-PPSA02862_00-C0EX04SET0000000)
     - https://jp.finalfantasyxiv.com/endwalker/ -- 公式サイト link, listed 2021-06-26 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://jp.finalfantasyxiv.com/endwalker/
+
+## jp.square-enix.com (Publisher; Japan, Windows list, captures of 2021-06-27 to live (2026-10-27))
+
+- Square Enix Japan's Windows game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2012-10-05 to 2017-12-26 http://www.jp.square-enix.com/game/win/; 2018-07-06 http://www.jp.square-enix.com/game/pf/win/; 2019-09-18 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Windows, platform filter ?pf=8 (the saved pages show the model checkbox value 8 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images (2012 to 2017 captures): ダウンロード専用 (download only) = icon-download-senyou, ダウンロード対応 (also sold as a download) = icon-download-taiou, オンライン専用 (online only) = icon-online-senyou, ONLINE対応 = icon-online-taiou; from 2018 the label images' alt text: パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only), the store buttons (Steam, Epic Games Store, Microsoft Store) are links, listed below; "none" = no icon beyond the model (not stated). CERO: the label's alt text from the 2018 captures; CERO審査予定 = rating pending
+  - Link labels: 公式サイト (official site), 商品詳細 (product detail page, 2021 on), Steam (Steamでダウンロード in 2018), Microsoft Store, Epic Games Store, e-STOREで購入 (Square Enix e-STORE purchase); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジーXIV: 暁月のフィナーレ; MMORPG(オンラインゲーム); first listed 2021-06-27: release 2021.11.23; icons: e-STOREで予約, オンライン専用, ダウンロード, 審査予定; changes: 2022-06-28: release 2021.11.23 to 2021.12.07, icons e-STOREで予約, オンライン専用, ダウンロード, 審査予定 to オンライン専用, ダウンロード, rating label CERO C appears; listed in every capture from 2021-06-27 to live (2026-10-27)
+    - https://store.jp.square-enix.com/category/FF14ENDWALKER_GAME.html?model_cd=11 -- e-STOREで予約 link, listed 2021-06-27 to 2024-09-24 -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://store.jp.square-enix.com/category/FF14ENDWALKER_GAME.html?model_cd=11 (last listing: https://web.archive.org/web/20240925012046/https://store.jp.square-enix.com/category/FF14ENDWALKER_GAME.html?model_cd=11)
+    - https://store.steampowered.com/app/1592500/FINAL_FANTASY_XIV_Endwalker/ -- Steam link, listed 2021-06-27 to 2024-09-24 -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://store.steampowered.com/app/1592500/FINAL_FANTASY_XIV_Endwalker/ (last listing: https://web.archive.org/web/20240925012046/https://store.steampowered.com/app/1592500/FINAL_FANTASY_XIV_Endwalker/)
+    - https://jp.finalfantasyxiv.com/endwalker/ -- 公式サイト link, listed 2021-06-27 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://jp.finalfantasyxiv.com/endwalker/
 
 ## Decisions

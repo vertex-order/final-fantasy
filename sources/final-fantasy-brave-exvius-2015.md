@@ -63,6 +63,16 @@ finalfantasyexvius.com (Publisher, official)
   - https://wikipedia.org/wiki/Final_Fantasy_Brave_Exvius -- shut down outside Japan on 2024-10-30 and in Japan on 2025-10-31 -- accessed 2026-10-25; a Market listing of the app on the live title list does not mean it works
   - The store is described in final-fantasy-franchise.md
 
+## jp.square-enix.com (Publisher; Japan, Windows list, captures of 2018-07-06 to live (2026-10-27))
+
+- Square Enix Japan's Windows game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2012-10-05 to 2017-12-26 http://www.jp.square-enix.com/game/win/; 2018-07-06 http://www.jp.square-enix.com/game/pf/win/; 2019-09-18 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Windows, platform filter ?pf=8 (the saved pages show the model checkbox value 8 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images (2012 to 2017 captures): ダウンロード専用 (download only) = icon-download-senyou, ダウンロード対応 (also sold as a download) = icon-download-taiou, オンライン専用 (online only) = icon-online-senyou, ONLINE対応 = icon-online-taiou; from 2018 the label images' alt text: パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only), the store buttons (Steam, Epic Games Store, Microsoft Store) are links, listed below; "none" = no icon beyond the model (not stated). CERO: the label's alt text from the 2018 captures; CERO審査予定 = rating pending
+  - Link labels: 公式サイト (official site), 商品詳細 (product detail page, 2021 on), Steam (Steamでダウンロード in 2018), Microsoft Store, Epic Games Store, e-STOREで購入 (Square Enix e-STORE purchase); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジー ブレイブエクスヴィアス; RPG; first listed 2018-07-06: release (none stated); icons: ダウンロード; changes: live (2026-10-27): genre RPG to RPG ※サービス終了; listed in every capture from 2018-07-06 to live (2026-10-27)
+    - http://www.jp.square-enix.com/FFBE/ -- 公式サイト link, listed 2018-07-06 -- link recorded only -- archived: https://web.archive.org/web/20180706020353/http://www.jp.square-enix.com/FFBE/
+    - https://www.jp.square-enix.com/FFBE/ -- 公式サイト link, listed 2019-09-18 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://www.jp.square-enix.com/FFBE/
+
 ## Decisions
 - Brave Exvius Memorial Version not listed (user, 2026-10-20): the Japanese offline app released after the service ended is an archive and viewer (story, encyclopedias, galleries), not content, so the entry gets no Japanese or Memorial rows; same decision as the Libra Eorzea app (see final-fantasy-franchise.md Decisions)
 - Terminated platform rows link Wayback captures of their store pages
