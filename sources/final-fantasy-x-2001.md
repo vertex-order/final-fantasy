@@ -137,4 +137,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
   - A title appears only in the captures listed after "listed:"; the 2012-10-06 capture holds 34 titles, the 2013-10-20 capture 104 and the later 2012 to 2018 captures 113 to 125.
   - ファイナルファンタジーX/X-2 HDリマスター; RPG; first listed 2013-10-20: release 2013.12.26発売予定; icons: ダウンロード対応; changes: 2014-11-27: release 2013.12.26発売予定 to 2013.12.26 / 2025-02-17: CERO C first shown; listed: 2013-10-20 to live (2026-10-26)
 
+## jp.square-enix.com (Publisher; Japan, Xbox One list, captures of 2019-03-09 to live (2026-10-27))
+
+- Square Enix Japan's Xbox One game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-13 to 2016-10-06 http://www.jp.square-enix.com/game/xboxone/; 2018-01-29 http://www.jp.square-enix.com/game/pf/xboxone/; 2019-03-09 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Xbox One, platform filter ?pf=7 (the saved pages show the model checkbox value 7 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images (2013 to 2016 captures): ダウンロード対応 (also sold as a download) = icon-download-taiou; from 2018 the label images' alt text: パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no icon beyond the model (not stated). CERO: the label's alt text from the 2018 captures; CERO審査予定 = rating pending
+  - Link labels: 公式サイト (official site), Microsoft Store (also Microsoft Storeでダウンロード in the 2018 capture), e-STOREで購入 (Square Enix e-STORE purchase); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジーX/X-2 HDリマスター; RPG; first listed 2019-03-09: release 2019.04.11; icons: ダウンロード; CERO C; listed in every capture from 2019-03-09 to live (2026-10-27)
+    - https://www.microsoft.com/store/apps/C0KSN20BRP7Z -- Microsoft Store link, listed 2019-03-09 to 2024-09-25 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://www.microsoft.com/store/apps/C0KSN20BRP7Z (last listing: https://web.archive.org/web/20240925012046/https://www.microsoft.com/store/apps/C0KSN20BRP7Z)
+    - http://www.jp.square-enix.com/ffx_x-2HD/ -- 公式サイト link, listed 2019-03-09 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/http://www.jp.square-enix.com/ffx_x-2HD/
+    - https://www.jp.square-enix.com/ffx_x-2HD/ -- 公式サイト link, listed 2020-03-12 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20200312231958/https://www.jp.square-enix.com/ffx_x-2HD/
+    - https://www.xbox.com/ja-jp/games/store/i/c0ksn20brp7z -- Microsoft Store link, listed 2025-09-25 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20250925101854/https://www.xbox.com/ja-jp/games/store/i/c0ksn20brp7z
+
 ## Decisions

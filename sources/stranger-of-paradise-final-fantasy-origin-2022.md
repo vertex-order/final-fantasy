@@ -68,4 +68,14 @@
     - https://www.jp.square-enix.com/sopffo/ -- 公式サイト link, listed 2021-12-24 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20220113005222/https://www.jp.square-enix.com/sopffo/
     - https://www.xbox.com/ja-JP/games/store/stranger-of-paradise-final-fantasy-origin/9P90PC10BZW8 -- Microsoft Store link, listed 2023-01-17 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230117034211/https://www.xbox.com/ja-JP/games/store/stranger-of-paradise-final-fantasy-origin/9P90PC10BZW8
 
+## jp.square-enix.com (Publisher; Japan, Xbox One list, captures of 2022-06-20 to live (2026-10-27))
+
+- Square Enix Japan's Xbox One game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-13 to 2016-10-06 http://www.jp.square-enix.com/game/xboxone/; 2018-01-29 http://www.jp.square-enix.com/game/pf/xboxone/; 2019-03-09 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Xbox One, platform filter ?pf=7 (the saved pages show the model checkbox value 7 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images (2013 to 2016 captures): ダウンロード対応 (also sold as a download) = icon-download-taiou; from 2018 the label images' alt text: パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no icon beyond the model (not stated). CERO: the label's alt text from the 2018 captures; CERO審査予定 = rating pending
+  - Link labels: 公式サイト (official site), Microsoft Store (also Microsoft Storeでダウンロード in the 2018 capture), e-STOREで購入 (Square Enix e-STORE purchase); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ストレンジャー オブ パラダイス ファイナルファンタジー オリジン; アクションRPG; first listed 2022-06-20: release 2022.03.18; icons: ダウンロード; CERO D; listed in every capture from 2022-06-20 to live (2026-10-27)
+    - https://www.xbox.com/ja-JP/games/store/stranger-of-paradise-final-fantasy-origin/9P90PC10BZW8 -- Microsoft Store link, listed 2022-06-20 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20220620195217/https://www.xbox.com/ja-JP/games/store/stranger-of-paradise-final-fantasy-origin/9P90PC10BZW8
+    - https://www.jp.square-enix.com/sopffo/ -- 公式サイト link, listed 2022-06-20 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20220620195217/https://www.jp.square-enix.com/sopffo/
+
 ## Decisions
