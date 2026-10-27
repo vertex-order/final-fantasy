@@ -85,6 +85,19 @@ square-enix.com and stores (Publisher)
 - Sword of Mana out (removes the FF elements); the 2006 mobile remake and Adventures of Mana kept them (wikis, publisher page)
 - PAL Game Boy text languages: not found
 
+## jp.square-enix.com (Publisher; Japan, Switch list, captures of 2017-05-03 to live (2026-10-27))
+
+- Square Enix Japan's Nintendo Switch game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2017-05-03 http://www.jp.square-enix.com/game/switch/; 2018-05-24 http://www.jp.square-enix.com/game/pf/switch/; 2019-03-31 to live https://www.jp.square-enix.com/game/?pf=4; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Nintendo Switch (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only), クラウド (cloud version); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - Link labels: e-STORE (Square Enix's store), 任天堂ホームページ / マイニンテンドーストア (Nintendo's store, same link under its two names), 公式サイト, 商品詳細
+  - 聖剣伝説コレクション; アクションRPG; first listed 2017-05-03: release 2017.06.01発売予定; icons: ダウンロード対応; CERO image cero999; changes: 2018-05-24: release 2017.06.01発売予定 to 2017.06.01; icons ダウンロード対応 to パッケージ, ダウンロード; CERO image cero999 to CERO B; listed in every capture from 2017-05-03 to live (2026-10-27)
+    - 2017-05-03 capture text: the collection holds 『聖剣伝説-ファイナルファンタジー外伝-』, 『聖剣伝説2』 and 『聖剣伝説3』, the first three Seiken Densetsu games, for Nintendo Switch
+    - http://www.jp.square-enix.com/seiken_collection/ -- 公式サイト link, listed 2017-05-03 to live (2026-10-27) -- link recorded only -- listed as https://www.jp.square-enix.com/seiken_collection/ from 2020-04-23 -- archived: https://web.archive.org/web/20170503094850/http://www.jp.square-enix.com/seiken_collection/
+    - http://store.jp.square-enix.com/item/HAC_P_ADAVA.html -- e-STOREで購入 link, listed 2018-05-24 to 2023-09-15 -- link recorded only -- listed as https://store.jp.square-enix.com/item/HAC_P_ADAVA.html from 2020-04-23 -- archived: https://web.archive.org/web/20180524121537/http://store.jp.square-enix.com/item/HAC_P_ADAVA.html (last listing: https://web.archive.org/web/20230915044930/https://store.jp.square-enix.com/item/HAC_P_ADAVA.html)
+    - https://ec.nintendo.com/JP/ja/titles/70010000000312 -- 任天堂ホームページでダウンロード / 任天堂ホームページ link, listed 2018-05-24 to 2022-06-28 -- link recorded only -- archived: https://web.archive.org/web/20180524121537/https://ec.nintendo.com/JP/ja/titles/70010000000312 (last listing: https://web.archive.org/web/20220628170027/https://ec.nintendo.com/JP/ja/titles/70010000000312)
+    - https://store-jp.nintendo.com/list/software/70010000000312.html -- 任天堂ホームページ / マイニンテンドーストア link, listed 2023-09-15 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230915044930/https://store-jp.nintendo.com/list/software/70010000000312.html
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results
