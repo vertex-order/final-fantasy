@@ -339,6 +339,15 @@
 - the same list, capture of 2025-09-25: https://web.archive.org/web/20250925101852/https://www.jp.square-enix.com/game/?pf=7 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list, capture of 2026-10-17: https://web.archive.org/web/20261017121813/https://www.jp.square-enix.com/game/?pf=7 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list (platform filter ?pf=7), live page of 2026-10-27: https://www.jp.square-enix.com/game/?pf=7 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- http://www.jp.square-enix.com/game/ -- the Xbox 360 list (per-model page /game/xbox360/ to 2018, model filter 29 and platform filter ?pf=99,29 from 2019), capture of 2012-10-06: https://web.archive.org/web/20121006013924/http://www.jp.square-enix.com:80/game/xbox360/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2013-10-20: https://web.archive.org/web/20131020014928/http://www.jp.square-enix.com:80/game/xbox360/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2014-11-27: https://web.archive.org/web/20141127151145/http://www.jp.square-enix.com:80/game/xbox360/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2016-02-04: https://web.archive.org/web/20160204224034/http://www.jp.square-enix.com:80/game/xbox360/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2017-03-25: https://web.archive.org/web/20170325093056/http://www.jp.square-enix.com:80/game/xbox360/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2018-05-25: https://web.archive.org/web/20180525173446/http://www.jp.square-enix.com:80/game/xbox360/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list in its later layout, capture of 2019-10-29: https://web.archive.org/web/20191029171057/https://www.jp.square-enix.com/game/?pf=99,29 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2022-09-11: https://web.archive.org/web/20220911034942/https://www.jp.square-enix.com/game/?pf=99,29 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list (platform filter ?pf=99,29), live page of 2026-10-27: https://www.jp.square-enix.com/game/?pf=99,29 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 

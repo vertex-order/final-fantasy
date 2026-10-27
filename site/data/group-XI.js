@@ -35,7 +35,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/230330/FINAL_FANTASY_XI_Ultimate_Collection_Seekers_Edition/' },
         { key: 'playstation2', terminated: true },
         { key: 'playstation3', terminated: true, paren: 'PS2 compatibility' },
-        { key: 'xbox-360', terminated: true },
+        { key: 'xbox-360', terminated: true, paren: 'Physical' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy XI base game' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'final fantasy XI base game', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy XI base game' },
