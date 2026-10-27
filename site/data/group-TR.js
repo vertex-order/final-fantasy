@@ -95,7 +95,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, narrativeOrder: 1510
       platforms: [
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube' },
-        { key: 'nintendo-switch', paren: 'Digital', url: 'https://www.nintendo.com/store/products/theatrhythm-final-bar-line-switch/' },
+        { key: 'nintendo-switch', paren: 'Physical; Digital', url: 'https://www.nintendo.com/store/products/theatrhythm-final-bar-line-switch/' },
         {
           key: 'nintendo-switch-2',
           paren: 'Backwards Compatible; Digital',

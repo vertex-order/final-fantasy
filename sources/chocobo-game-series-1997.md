@@ -449,6 +449,26 @@
     - https://store.playstation.com/ja-jp/product/JP0082-NPJJ00185_00-0000000000000001 -- PlayStation Store link, listed 2019-03-09 to 2020-04-23 -- link recorded only -- archived: https://web.archive.org/web/20201020023151/https://store.playstation.com/ja-jp/product/JP0082-NPJJ00185_00-0000000000000001
     - https://www.jp.square-enix.com/game/detail/chocobostallion/ -- 商品詳細 link, listed in every capture from 2019-03-09 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20201012215719/https://www.jp.square-enix.com/game/detail/chocobostallion/
 
+## jp.square-enix.com (Publisher; Japan, Switch list, captures of 2019-03-31 to live (2026-10-27))
+
+- Square Enix Japan's Nintendo Switch game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2017-05-03 http://www.jp.square-enix.com/game/switch/; 2018-05-24 http://www.jp.square-enix.com/game/pf/switch/; 2019-03-31 to live https://www.jp.square-enix.com/game/?pf=4; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Nintendo Switch (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only), クラウド (cloud version); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - Link labels: e-STORE (Square Enix's store), 任天堂ホームページ / マイニンテンドーストア (Nintendo's store, same link under its two names), 公式サイト, 商品詳細
+  - チョコボの不思議なダンジョン エブリバディ！; ダンジョンRPG; first listed 2019-03-31: release 2019.03.20; icons: パッケージ, ダウンロード; CERO A; listed in every capture from 2019-03-31 to live (2026-10-27)
+    - https://store.jp.square-enix.com/item/HAC_P_ARFQA.html -- e-STOREで購入 link, listed 2019-03-31 to 2022-06-28 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://store.jp.square-enix.com/item/HAC_P_ARFQA.html (last listing: https://web.archive.org/web/20220628170027/https://store.jp.square-enix.com/item/HAC_P_ARFQA.html)
+    - https://ec.nintendo.com/JP/ja/titles/70010000013438 -- 任天堂ホームページ link, listed 2019-03-31 to 2022-06-28 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://ec.nintendo.com/JP/ja/titles/70010000013438 (last listing: https://web.archive.org/web/20220628170027/https://ec.nintendo.com/JP/ja/titles/70010000013438)
+    - https://www.jp.square-enix.com/chocobo/ -- 公式サイト link, listed 2019-03-31 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://www.jp.square-enix.com/chocobo/
+    - https://store-jp.nintendo.com/list/software/70010000013438.html -- 任天堂ホームページ / マイニンテンドーストア link, listed 2023-09-15 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230915044930/https://store-jp.nintendo.com/list/software/70010000013438.html
+  - チョコボグランプリ; レース; first listed 2022-06-28: release 2022.03.10; icons: パッケージ, ダウンロード; CERO A; listed in every capture from 2022-06-28 to live (2026-10-27)
+    - https://store.jp.square-enix.com/item/SE_W0038.html -- e-STOREで購入 link, listed 2022-06-28 -- link recorded only -- archived: https://web.archive.org/web/20220628170027/https://store.jp.square-enix.com/item/SE_W0038.html
+    - https://store-jp.nintendo.com/list/software/70070000013686.html -- 任天堂ホームページ link, listed 2022-06-28 -- link recorded only -- archived: https://web.archive.org/web/20220628170027/https://store-jp.nintendo.com/list/software/70070000013686.html
+    - https://store.jp.square-enix.com/sp/chocobo_gp/index.html -- 公式サイト link, listed 2022-06-28 to 2024-10-07 -- link recorded only -- archived: https://web.archive.org/web/20220628170027/https://store.jp.square-enix.com/sp/chocobo_gp/index.html (last listing: https://web.archive.org/web/20240925012046/https://store.jp.square-enix.com/sp/chocobo_gp/index.html)
+    - https://store.jp.square-enix.com/item/HAC_P_AYP7J.html -- e-STOREで購入 link, listed 2023-09-15 to 2025-10-28 -- link recorded only -- archived: https://web.archive.org/web/20230915044930/https://store.jp.square-enix.com/item/HAC_P_AYP7J.html (last listing: https://web.archive.org/web/20251107123723/https://store.jp.square-enix.com/item/HAC_P_AYP7J.html)
+    - https://store-jp.nintendo.com/list/software/70010000068155.html -- 任天堂ホームページ / マイニンテンドーストア link, listed 2023-09-15 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230915044930/https://store-jp.nintendo.com/list/software/70010000068155.html
+    - https://www.jp.square-enix.com/chocobo_gp/ -- 公式サイト link, listed 2025-10-28 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20251107123723/https://www.jp.square-enix.com/chocobo_gp/
+    - https://store.jp.square-enix.com/estore/g/gHAC-P-AYP7J/ -- e-STOREで購入 link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

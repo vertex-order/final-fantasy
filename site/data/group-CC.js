@@ -28,7 +28,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20241222152916/https://apps.apple.com/us/app/finalfantasy-crystalchronicles/id1478870957' },
         {
           key: 'nintendo-switch',
-          paren: 'Digital',
+          paren: 'Physical; Digital',
           url: 'https://www.nintendo.com/store/products/final-fantasy-crystal-chronicles-remastered-edition-switch/',
         },
         {

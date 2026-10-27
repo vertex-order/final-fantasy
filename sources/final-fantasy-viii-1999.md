@@ -165,4 +165,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
     - https://store.playstation.com/ja-jp/product/JP0082-NPJJ00294_00-0000000000000001 -- PlayStation Store link, listed 2019-03-09 to 2020-04-23 -- link recorded only -- archived: https://web.archive.org/web/20190724153809/https://store.playstation.com/ja-jp/product/JP0082-NPJJ00294_00-0000000000000001
     - https://www.jp.square-enix.com/game/detail/ff8/ -- 商品詳細 link, listed in every capture from 2019-03-09 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20190502160401/https://www.jp.square-enix.com/game/detail/ff8/
 
+## jp.square-enix.com (Publisher; Japan, Switch list, captures of 2019-03-31 to live (2026-10-27))
+
+- Square Enix Japan's Nintendo Switch game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2017-05-03 http://www.jp.square-enix.com/game/switch/; 2018-05-24 http://www.jp.square-enix.com/game/pf/switch/; 2019-03-31 to live https://www.jp.square-enix.com/game/?pf=4; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Nintendo Switch (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only), クラウド (cloud version); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - Link labels: e-STORE (Square Enix's store), 任天堂ホームページ / マイニンテンドーストア (Nintendo's store, same link under its two names), 公式サイト, 商品詳細
+  - ファイナルファンタジーVIII リマスタード; RPG; first listed 2019-03-31: release 2019.09.03; icons: ダウンロード; CERO B; listed in every capture from 2019-03-31 to live (2026-10-27)
+    - https://ec.nintendo.com/JP/ja/titles/70010000019038 -- 任天堂ホームページ link, listed 2019-03-31 to 2022-06-28 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://ec.nintendo.com/JP/ja/titles/70010000019038 (last listing: https://web.archive.org/web/20220628170027/https://ec.nintendo.com/JP/ja/titles/70010000019038)
+    - https://www.jp.square-enix.com/ffviii/ -- 公式サイト link, listed 2019-03-31 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://www.jp.square-enix.com/ffviii/
+    - https://store-jp.nintendo.com/list/software/70010000019038.html -- 任天堂ホームページ / マイニンテンドーストア link, listed 2023-09-15 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230915044930/https://store-jp.nintendo.com/list/software/70010000019038.html
+
 ## Decisions

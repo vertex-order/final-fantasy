@@ -51,4 +51,15 @@
     - https://store-jp.nintendo.com/item/software/D70010000117102 -- マイニンテンドーストア link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store-jp.nintendo.com/item/software/D70010000117102
     - https://www.jp.square-enix.com/FFRS/ -- 公式サイト link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://www.jp.square-enix.com/FFRS/
 
+## jp.square-enix.com (Publisher; Japan, Switch list, captures of 2019-03-31 to live (2026-10-27))
+
+- Square Enix Japan's Nintendo Switch game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2017-05-03 http://www.jp.square-enix.com/game/switch/; 2018-05-24 http://www.jp.square-enix.com/game/pf/switch/; 2019-03-31 to live https://www.jp.square-enix.com/game/?pf=4; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Nintendo Switch (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only), クラウド (cloud version); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - Link labels: e-STORE (Square Enix's store), 任天堂ホームページ / マイニンテンドーストア (Nintendo's store, same link under its two names), 公式サイト, 商品詳細
+  - ファイナルファンタジー レゾナンス; RPG; first listed live (2026-10-27): release 2026.10.22; icons: パッケージ, ダウンロード; CERO C; listed on the live page only
+    - https://store.jp.square-enix.com/estore/pages/sp_ffrs.aspx -- e-STOREで購入 link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+    - https://store-jp.nintendo.com/item/software/D70010000117095 -- マイニンテンドーストア link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+    - https://www.jp.square-enix.com/FFRS/ -- 公式サイト link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+
 ## Decisions
