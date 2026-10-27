@@ -177,4 +177,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
   - A title appears only in the captures listed after "listed:"; the 2012-10-06 capture holds 34 titles, the 2013-10-20 capture 104 and the later 2012 to 2018 captures 113 to 125.
   - ファイナルファンタジーVI（ゲームアーカイブス）; RPG; first listed 2013-10-20: release 2011.04.20; icons: Game Archives (PS3/PSP/PSV); changes: 2019-10-29: note ※2012.08.28よりプレイステーション ヴィータに対応 to ※Wii VC終了 / 2025-02-17: CERO B first shown, note ※Wii VC終了 to ※none; listed: 2013-10-20 to live (2026-10-26)
 
+## jp.square-enix.com (Publisher; Japan, Wii list, captures of 2013-06-26 to live (2026-10-27))
+
+- Square Enix Japan's Wii game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-26 http://www.jp.square-enix.com/game/wii/; 2014-07-19 to 2017-12-01 http://www.jp.square-enix.com:80/game/wii/; live (2026-10-27) https://www.jp.square-enix.com/game/?pf=21 (platform filter 21 = Wii; the model checkbox value is 21, beside a disabled checked 99); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: 2013-06-26 to 2017-12-01 the images icon-wiivc (alt text バーチャルコンソール(Wii), the Virtual Console download mark), icon-wiiware (alt Wiiウェア, the WiiWare download mark) and icon-online-taiou (alt text online, ONLINE 対応); live the labels as images: Wii (the model, not repeated below), ダウンロード (also sold as a download), パッケージ (sold as a package) and オンライン専用 (online only); "none" = no icon (not stated). CERO: 2013-06-26 to 2017-12-01 the rating image's file name (cero200 = A, cero212 = B, cero215 = C, matched against the live labels of the same titles); live the label's alt text
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジーVI; RPG; first listed (earliest capture read) 2013-06-26: release 2011.03.15; icons: icon-wiivc; CERO B; listed: all six captures, 2013-06-26 to live (2026-10-27); changes: live: title ファイナルファンタジーVI to ファイナルファンタジーVI（バーチャルコンソール）; icons icon-wiivc to ダウンロード
+    - http://dlgames.square-enix.com/jp/vc/2011/ff6/ -- 公式サイト link (the title links here too), listed 2013-06-26 to 2017-12-01 -- link recorded only -- archived: https://web.archive.org/web/20130626122610/http://dlgames.square-enix.com/jp/vc/2011/ff6/ (last listing: https://web.archive.org/web/20171201221325/http://dlgames.square-enix.com/jp/vc/2011/ff6/)
+    - https://www.jp.square-enix.com/game/detail/ff6/ -- 商品詳細 link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+
 ## Decisions

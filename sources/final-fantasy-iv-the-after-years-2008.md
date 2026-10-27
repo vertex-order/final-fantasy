@@ -98,6 +98,18 @@ www.ff4theafteryears.com (Square Enix, North America promo site)
   - https://web.archive.org/web/20110129164722/http://www.ff4theafteryears.com/ -- first capture that loads (read by user); the enter button links to http://na.square-enix.com/ff4ay/, the WiiWare placeholder page above (the target is the only address in the page's `index_0610.swf`, read from the raw capture)
   - https://web.archive.org/web/20210125020826/https://square-enix-games.com/games/final-fantasy-iv -- where the domain redirects in that capture (read by user); the capture dates are sampled, so when the redirect began is unknown
 
+## jp.square-enix.com (Publisher; Japan, Wii list, captures of 2013-06-26 to live (2026-10-27))
+
+- Square Enix Japan's Wii game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-26 http://www.jp.square-enix.com/game/wii/; 2014-07-19 to 2017-12-01 http://www.jp.square-enix.com:80/game/wii/; live (2026-10-27) https://www.jp.square-enix.com/game/?pf=21 (platform filter 21 = Wii; the model checkbox value is 21, beside a disabled checked 99); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: 2013-06-26 to 2017-12-01 the images icon-wiivc (alt text バーチャルコンソール(Wii), the Virtual Console download mark), icon-wiiware (alt Wiiウェア, the WiiWare download mark) and icon-online-taiou (alt text online, ONLINE 対応); live the labels as images: Wii (the model, not repeated below), ダウンロード (also sold as a download), パッケージ (sold as a package) and オンライン専用 (online only); "none" = no icon (not stated). CERO: 2013-06-26 to 2017-12-01 the rating image's file name (cero200 = A, cero212 = B, cero215 = C, matched against the live labels of the same titles); live the label's alt text
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジーIV ジ・アフターイヤーズ -月の帰還-; RPG; first listed (earliest capture read) 2013-06-26: release 2009.07.21; icons: icon-wiiware; CERO A; listed: all six captures, 2013-06-26 to live (2026-10-27); changes: live: title ファイナルファンタジーIV ジ・アフターイヤーズ -月の帰還- to ファイナルファンタジーIV ジ・アフターイヤーズ -月の帰還-（Wiiウェア）; genre RPG to RPG ※Wii配信終了; icons icon-wiiware to ダウンロード
+    - http://www.ff4theafteryears.jp/ -- 公式サイト link (the title links here too), listed 2013-06-26 -- link recorded only -- archived: https://web.archive.org/web/20130626122610/http://www.ff4theafteryears.jp/
+    - http://www.jp.square-enix.com/archive/ff4theafteryears/ -- 商品詳細 link (the title links here too), listed 2014-07-19 to 2017-12-01 -- link recorded only -- archived: https://web.archive.org/web/20140719081503/http://www.jp.square-enix.com/archive/ff4theafteryears/ (last listing: https://web.archive.org/web/20171201221325/http://www.jp.square-enix.com/archive/ff4theafteryears/)
+    - https://www.jp.square-enix.com/game/detail/ff4tay/ -- 商品詳細 link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+    - https://www.jp.square-enix.com/ff4tay/jp/ -- 公式サイト link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

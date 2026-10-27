@@ -128,7 +128,7 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, narrativeOrder: 600, 
           platforms: [
             { key: 'nintendo-snes-classic-edition' },
             { key: 'nintendo-snes', paren: 'Super Famicom; Physical' },
-            { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console' },
             { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility' },
           ],
           versionDesc: [

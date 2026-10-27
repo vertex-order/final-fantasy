@@ -418,6 +418,17 @@
   - チョコボの不思議なダンジョン（ゲームアーカイブス）; RPG; first listed 2013-10-20: release 2010.08.25; icons: Game Archives (PS3/PSP/PSV); changes: 2019-10-29: note ※2012.08.28よりプレイステーション ヴィータに対応 to ※none / 2025-02-17: CERO A first shown; listed: 2013-10-20 to live (2026-10-26)
   - チョコボの不思議なダンジョン２（ゲームアーカイブス）; RPG; first listed 2013-10-20: release 2010.10.27; icons: Game Archives (PS3/PSP/PSV); changes: 2019-10-29: note ※2012.08.28よりプレイステーション ヴィータに対応 to ※none / 2025-02-17: CERO A first shown; listed: 2013-10-20 to live (2026-10-26)
 
+## jp.square-enix.com (Publisher; Japan, Wii list, captures of 2013-06-26 to live (2026-10-27))
+
+- Square Enix Japan's Wii game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-26 http://www.jp.square-enix.com/game/wii/; 2014-07-19 to 2017-12-01 http://www.jp.square-enix.com:80/game/wii/; live (2026-10-27) https://www.jp.square-enix.com/game/?pf=21 (platform filter 21 = Wii; the model checkbox value is 21, beside a disabled checked 99); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: 2013-06-26 to 2017-12-01 the images icon-wiivc (alt text バーチャルコンソール(Wii), the Virtual Console download mark), icon-wiiware (alt Wiiウェア, the WiiWare download mark) and icon-online-taiou (alt text online, ONLINE 対応); live the labels as images: Wii (the model, not repeated below), ダウンロード (also sold as a download), パッケージ (sold as a package) and オンライン専用 (online only); "none" = no icon (not stated). CERO: 2013-06-26 to 2017-12-01 the rating image's file name (cero200 = A, cero212 = B, cero215 = C, matched against the live labels of the same titles); live the label's alt text
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - チョコボの不思議なダンジョン 時忘れの迷宮; ダンジョンRPG; first listed (earliest capture read) 2013-06-26: release 2007.12.13; icons: icon-online-taiou; CERO A; listed: all six captures, 2013-06-26 to live (2026-10-27); changes: live: icons icon-online-taiou to パッケージ
+    - http://www.chocobo.com/tokiwasureds/index2.html -- 公式サイト link (the title links here too), listed 2013-06-26 -- link recorded only -- archived: https://web.archive.org/web/20130626122610/http://www.chocobo.com/tokiwasureds/index2.html
+    - http://www.jp.square-enix.com/archive/tokiwasure/ -- 商品詳細 link (the title links here too), listed 2014-07-19 to 2017-12-01 -- link recorded only -- archived: https://web.archive.org/web/20140719081503/http://www.jp.square-enix.com/archive/tokiwasure/ (last listing: https://web.archive.org/web/20171201221325/http://www.jp.square-enix.com/archive/tokiwasure/)
+    - https://www.jp.square-enix.com/game/detail/tokiwasure/ -- 商品詳細 link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

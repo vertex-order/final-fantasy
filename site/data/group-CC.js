@@ -216,7 +216,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       ],
       length: [{ value: '10½h', tip: 'Main Story', join: ' / ' }, { value: '16½h', tip: 'Main + Extra', join: ' / ' }, { value: '32h', tip: 'Completionist' }],
       platforms: [
-        { key: 'nintendo-wii' },
+        { key: 'nintendo-wii', paren: 'Physical' },
         { key: 'nintendo-wii-u', paren: 'Wii compatibility' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles The Crystal Bearers', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles The Crystal Bearers', noResults: true },
@@ -326,7 +326,7 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
       platforms: [
         { key: 'nintendo-ds' },
         { key: 'nintendo-3ds', paren: 'DS compatibility' },
-        { key: 'nintendo-wii' },
+        { key: 'nintendo-wii', paren: 'Physical' },
         { key: 'nintendo-wii-u', paren: 'Wii compatibility' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Echoes of Time', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy Crystal Chronicles Echoes of Time', noResults: true },

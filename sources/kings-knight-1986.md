@@ -87,6 +87,17 @@ jp.square-enix.com (Publisher; Japan, Wii U list, captures of 2012-10-06 to live
     - https://www.nintendo.co.jp/search/?q=%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88&mode=soft -- 任天堂ホームページ link, listed 2023-01-07 -- link recorded only -- archived: https://web.archive.org/web/20230107093749/https://www.nintendo.co.jp/search/?q=%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88&mode=soft
     - https://www.jp.square-enix.com/game/detail/kingsknight/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230107120441mp_/https://www.jp.square-enix.com/game/detail/kingsknight/ (live page: TODO)
 
+## jp.square-enix.com (Publisher; Japan, Wii list, captures of 2013-06-26 to live (2026-10-27))
+
+- Square Enix Japan's Wii game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-26 http://www.jp.square-enix.com/game/wii/; 2014-07-19 to 2017-12-01 http://www.jp.square-enix.com:80/game/wii/; live (2026-10-27) https://www.jp.square-enix.com/game/?pf=21 (platform filter 21 = Wii; the model checkbox value is 21, beside a disabled checked 99); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: 2013-06-26 to 2017-12-01 the images icon-wiivc (alt text バーチャルコンソール(Wii), the Virtual Console download mark), icon-wiiware (alt Wiiウェア, the WiiWare download mark) and icon-online-taiou (alt text online, ONLINE 対応); live the labels as images: Wii (the model, not repeated below), ダウンロード (also sold as a download), パッケージ (sold as a package) and オンライン専用 (online only); "none" = no icon (not stated). CERO: 2013-06-26 to 2017-12-01 the rating image's file name (cero200 = A, cero212 = B, cero215 = C, matched against the live labels of the same titles); live the label's alt text
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - キングスナイト; フォーメーションRPG; first listed (earliest capture read) 2013-06-26: release 2007.11.27; icons: icon-wiivc; CERO A; listed: all six captures, 2013-06-26 to live (2026-10-27); changes: live: title キングスナイト to キングスナイト（バーチャルコンソール）; icons icon-wiivc to ダウンロード
+    - http://dlgames.square-enix.com/jp/vc/2007/kingsknight/ -- 公式サイト link (the title links here too), listed 2013-06-26 to 2017-12-01 -- link recorded only -- archived: https://web.archive.org/web/20130626122610/http://dlgames.square-enix.com/jp/vc/2007/kingsknight/ (last listing: https://web.archive.org/web/20171201221325/http://dlgames.square-enix.com/jp/vc/2007/kingsknight/)
+    - http://www.jp.square-enix.com/archive/vc_kingsknight/ -- 商品詳細 link, listed 2013-06-26 -- link recorded only -- archived: https://web.archive.org/web/20130626122610/http://www.jp.square-enix.com/archive/vc_kingsknight/
+    - https://www.jp.square-enix.com/game/detail/kingsknight/ -- 商品詳細 link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

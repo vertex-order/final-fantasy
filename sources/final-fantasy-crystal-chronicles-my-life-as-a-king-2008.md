@@ -41,4 +41,15 @@
   - Title 小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル; news items 2008-06-17 to 2008-06-30 (additional content 無限の塔 and お城リフォーム delivered 2008-06-24; the "みんなの王国" online kingdom); a Flash page with a trailer page and a diary series
   - Captures: 166 with status 200, 2007-10-11 to 2019-02-20 (the index)
 
+## jp.square-enix.com (Publisher; Japan, Wii list, captures of 2013-06-26 to live (2026-10-27))
+
+- Square Enix Japan's Wii game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-26 http://www.jp.square-enix.com/game/wii/; 2014-07-19 to 2017-12-01 http://www.jp.square-enix.com:80/game/wii/; live (2026-10-27) https://www.jp.square-enix.com/game/?pf=21 (platform filter 21 = Wii; the model checkbox value is 21, beside a disabled checked 99); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: 2013-06-26 to 2017-12-01 the images icon-wiivc (alt text バーチャルコンソール(Wii), the Virtual Console download mark), icon-wiiware (alt Wiiウェア, the WiiWare download mark) and icon-online-taiou (alt text online, ONLINE 対応); live the labels as images: Wii (the model, not repeated below), ダウンロード (also sold as a download), パッケージ (sold as a package) and オンライン専用 (online only); "none" = no icon (not stated). CERO: 2013-06-26 to 2017-12-01 the rating image's file name (cero200 = A, cero212 = B, cero215 = C, matched against the live labels of the same titles); live the label's alt text
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - 小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル; 国造りRPG; first listed (earliest capture read) 2013-06-26: release 2008.03.25; icons: icon-wiiware; CERO A; listed: all six captures, 2013-06-26 to live (2026-10-27); changes: live: title 小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル to 小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル（Wiiウェア）; genre 国造りRPG to 国造りRPG ※配信終了; icons icon-wiiware to ダウンロード
+    - http://www.square-enix.co.jp/littleking/ -- 公式サイト link (the title links here too), listed 2013-06-26 -- link recorded only -- archived: https://web.archive.org/web/20130626122610/http://www.square-enix.co.jp/littleking/
+    - http://www.jp.square-enix.com/archive/littleking/ -- 商品詳細 link (the title links here too), listed 2014-07-19 to 2017-12-01 -- link recorded only -- archived: https://web.archive.org/web/20140719081503/http://www.jp.square-enix.com/archive/littleking/ (last listing: https://web.archive.org/web/20171201221325/http://www.jp.square-enix.com/archive/littleking/)
+    - https://www.jp.square-enix.com/game/detail/littleking/ -- 商品詳細 link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+
 ## Decisions

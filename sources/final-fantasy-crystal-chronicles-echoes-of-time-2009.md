@@ -30,6 +30,16 @@ ja.wikipedia.org (Information)
   - Action RPG, 1 player (1 to 4); Wii release 2009.01.29, CERO A; Nintendo DS / DSi release 2009.01.29, CERO A; each with a Square Enix e-STORE purchase link (Wii http://store.jp.square-enix.com/item/RVL_P_RFFJ.html, DS http://store.jp.square-enix.com/item/NTR_P_CFIJ.html, capture of 2021-01-29)
   - Notice: with the end of the Nintendo Wi-Fi Connection service, the in-game multiplayer that used it ended on 2014-05-20; multiplayer over DS wireless communication still works
 
+## jp.square-enix.com (Publisher; Japan, Wii list, captures of 2013-06-26 to live (2026-10-27))
+
+- Square Enix Japan's Wii game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-26 http://www.jp.square-enix.com/game/wii/; 2014-07-19 to 2017-12-01 http://www.jp.square-enix.com:80/game/wii/; live (2026-10-27) https://www.jp.square-enix.com/game/?pf=21 (platform filter 21 = Wii; the model checkbox value is 21, beside a disabled checked 99); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: 2013-06-26 to 2017-12-01 the images icon-wiivc (alt text バーチャルコンソール(Wii), the Virtual Console download mark), icon-wiiware (alt Wiiウェア, the WiiWare download mark) and icon-online-taiou (alt text online, ONLINE 対応); live the labels as images: Wii (the model, not repeated below), ダウンロード (also sold as a download), パッケージ (sold as a package) and オンライン専用 (online only); "none" = no icon (not stated). CERO: 2013-06-26 to 2017-12-01 the rating image's file name (cero200 = A, cero212 = B, cero215 = C, matched against the live labels of the same titles); live the label's alt text
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジー・クリスタルクロニクル エコーズ・オブ・タイム; アクションRPG; first listed (earliest capture read) 2013-06-26: release 2009.01.29; icons: icon-online-taiou; CERO A; listed: all six captures, 2013-06-26 to live (2026-10-27); changes: live: icons icon-online-taiou to パッケージ
+    - http://www.square-enix.co.jp/ffcc/eot/ -- 公式サイト link (the title links here too), listed 2013-06-26 to 2017-12-01 -- link recorded only -- archived: https://web.archive.org/web/20130626122610/http://www.square-enix.co.jp/ffcc/eot/ (last listing: https://web.archive.org/web/20171201221325/http://www.square-enix.co.jp/ffcc/eot/)
+    - https://www.jp.square-enix.com/game/detail/ffcc_eot/ -- 商品詳細 link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+
 ## Surveyed
 
 - [FFCC Echoes of Time 公式コンプリートガイド](https://magazine.jp.square-enix.com/gamebooks/books/10018) — Square Enix Game Books page for the official guide; released 2009年02月26日, A5判, 432 pages, ISBN 9784757525061; also on the comics site as https://magazine.jp.square-enix.com/top/comics/detail/9784757525061/ (the DS and Wii versions both covered; the blurb mentions developer interviews and setting art) — accessed 2026-10-11
