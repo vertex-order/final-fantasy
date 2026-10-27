@@ -57,4 +57,15 @@
     - https://store.jp.square-enix.com/item/ELJM_30103.html -- e-STOREで購入 link, listed 2022-09-17 to 2024-10-09 -- link recorded only -- archived: https://web.archive.org/web/20220917052709/https://store.jp.square-enix.com/item/ELJM_30103.html (last listing: https://web.archive.org/web/20240925012046/https://store.jp.square-enix.com/item/ELJM_30103.html)
     - https://store.playstation.com/ja-jp/concept/10002585/ -- PlayStation Store link, listed 2022-09-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20220917052709/https://store.playstation.com/ja-jp/concept/10002585/
 
+## jp.square-enix.com (Publisher; Japan, Xbox Series X|S list, captures of 2020-11-11 to live (2026-10-27))
+
+- Square Enix Japan's Xbox Series X|S game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2020-11-11 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Xbox Series X (2020-11-11) / Xbox Series X|S, platform filter ?pf=34 (the saved pages show the model checkbox value 34 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/https://www.jp.square-enix.com/game/, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Xbox SX (2020-11-11) or Xbox Series X|S (the model, not repeated below), パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the label's alt text; 審査予定 = rating pending
+  - Link labels: 公式サイト (official site), Microsoft Store, 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ストレンジャー オブ パラダイス ファイナルファンタジー オリジン; アクションRPG; first listed (earliest capture read) 2021-12-24: release 2022.03.18予定; icons: ダウンロード; CERO D; listed: 2021-12-24, 2023-01-17, 2024-01-19, 2025-03-28, live (2026-10-27); changes: 2023-01-17: release 2022.03.18予定 to 2022.03.18
+    - https://www.xbox.com/ja-jp/games/store/stranger-of-paradise-final-fantasy-origin/9nrr49nm7f1n -- Microsoft Store link, listed 2021-12-24 -- link recorded only -- archived: https://web.archive.org/web/20220113005222/https://www.xbox.com/ja-jp/games/store/stranger-of-paradise-final-fantasy-origin/9nrr49nm7f1n
+    - https://www.jp.square-enix.com/sopffo/ -- 公式サイト link, listed 2021-12-24 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20220113005222/https://www.jp.square-enix.com/sopffo/
+    - https://www.xbox.com/ja-JP/games/store/stranger-of-paradise-final-fantasy-origin/9P90PC10BZW8 -- Microsoft Store link, listed 2023-01-17 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230117034211/https://www.xbox.com/ja-JP/games/store/stranger-of-paradise-final-fantasy-origin/9P90PC10BZW8
+
 ## Decisions

@@ -128,4 +128,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
     - https://store.jp.square-enix.com/item/HAC_P_A6J6A.html -- e-STOREで購入 link, listed 2023-09-15 to 2025-10-28 -- link recorded only -- archived: https://web.archive.org/web/20230915044930/https://store.jp.square-enix.com/item/HAC_P_A6J6A.html (last listing: https://web.archive.org/web/20251107123723/https://store.jp.square-enix.com/item/HAC_P_A6J6A.html)
     - https://store-jp.nintendo.com/list/software/70010000047999.html -- 任天堂ホームページ / マイニンテンドーストア link, listed 2023-09-15 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230915044930/https://store-jp.nintendo.com/list/software/70010000047999.html
 
+## jp.square-enix.com (Publisher; Japan, Xbox Series X|S list, captures of 2020-11-11 to live (2026-10-27))
+
+- Square Enix Japan's Xbox Series X|S game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2020-11-11 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Xbox Series X (2020-11-11) / Xbox Series X|S, platform filter ?pf=34 (the saved pages show the model checkbox value 34 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/https://www.jp.square-enix.com/game/, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Xbox SX (2020-11-11) or Xbox Series X|S (the model, not repeated below), パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the label's alt text; 審査予定 = rating pending
+  - Link labels: 公式サイト (official site), Microsoft Store, 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - クライシス コア -ファイナルファンタジーVII- リユニオン; アクションRPG; first listed (earliest capture read) 2023-01-17: release 2022.12.13; icons: ダウンロード; CERO C; listed: 2023-01-17, 2024-01-19, 2025-03-28, live (2026-10-27)
+    - https://www.xbox.com/ja-JP/games/store/crisis-core-final-fantasy-vii-reunion/9P6J9NFKGJ68 -- Microsoft Store link, listed 2023-01-17 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230117034211/https://www.xbox.com/ja-JP/games/store/crisis-core-final-fantasy-vii-reunion/9P6J9NFKGJ68
+    - https://www.jp.square-enix.com/ccffvii_reunion/ -- 公式サイト link, listed 2023-01-17 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230117034211/https://www.jp.square-enix.com/ccffvii_reunion/
+
 ## Decisions

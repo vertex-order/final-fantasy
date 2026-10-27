@@ -127,4 +127,17 @@
   - ファイナルファンタジーXIV: 新生エオルゼア; MMORPG(オンラインゲーム); first listed 2013-10-20: release 2013.08.27; icons: オンライン専用, ダウンロード対応; changes: 2018-05-24: note ※none to ※サービス終了 プレイステーション®4版、Windows版、Mac版はサービス継続中 / 2019-10-29: note ※サービス終了 プレイステーション®4版、Windows版、Mac版はサービス継続中 to ※PS3サービス終了 / 2025-02-17: CERO C first shown; listed: 2013-10-20 to live (2026-10-26)
   - ファイナルファンタジーXIV オンライン; MMORPG(オンラインゲーム); first listed 2015-04-10: release 2015.06.23; icons: Online, Download; changes: 2018-05-24: note ※none to ※サービス終了 プレイステーション®4版、Windows版、Mac版はサービス継続中 / 2019-10-29: note ※サービス終了 プレイステーション®4版、Windows版、Mac版はサービス継続中 to ※PS3サービス終了 / 2025-02-17: CERO C first shown; listed: 2015-04-10 to live (2026-10-26)
 
+## jp.square-enix.com (Publisher; Japan, Xbox Series X|S list, captures of 2020-11-11 to live (2026-10-27))
+
+- Square Enix Japan's Xbox Series X|S game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2020-11-11 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Xbox Series X (2020-11-11) / Xbox Series X|S, platform filter ?pf=34 (the saved pages show the model checkbox value 34 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/https://www.jp.square-enix.com/game/, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Xbox SX (2020-11-11) or Xbox Series X|S (the model, not repeated below), パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the label's alt text; 審査予定 = rating pending
+  - Link labels: 公式サイト (official site), Microsoft Store, 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジーXIV コンプリートパック; MMORPG(オンラインゲーム); first listed (earliest capture read) 2025-03-28: release 2024.07.02; icons: オンライン専用, ダウンロード; CERO C; listed: 2025-03-28, live (2026-10-27); changes: live (2026-10-27): rating CERO C to CERO D
+    - https://www.xbox.com/ja-JP/games/store/ffxiv/9pd7bc17sznq -- Microsoft Store link, listed 2025-03-28 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20250325071555/https://www.xbox.com/ja-JP/games/store/ffxiv/9pd7bc17sznq
+    - https://jp.finalfantasyxiv.com/product/ -- 公式サイト link, listed 2025-03-28 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20250325071555/https://jp.finalfantasyxiv.com/product/
+  - ファイナルファンタジーXIV スターターパック; MMORPG(オンラインゲーム); first listed (earliest capture read) 2025-03-28: release 2024.03.21; icons: オンライン専用, ダウンロード; CERO C; listed: 2025-03-28, live (2026-10-27); changes: live (2026-10-27): rating CERO C to CERO D
+    - https://www.xbox.com/ja-JP/games/store/xiv/9NR4C1F8BWWS/0010 -- Microsoft Store link, listed 2025-03-28 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20250325071555/https://www.xbox.com/ja-JP/games/store/xiv/9NR4C1F8BWWS/0010
+    - https://jp.finalfantasyxiv.com/ -- 公式サイト link, listed 2025-03-28 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20250325071555/https://jp.finalfantasyxiv.com/
+
 ## Decisions

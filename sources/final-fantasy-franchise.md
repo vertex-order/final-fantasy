@@ -319,6 +319,12 @@
 - the same list in its later layout (platform filter ?pf=99,22), capture of 2019-06-26: https://web.archive.org/web/20190626224307/https://www.jp.square-enix.com/game/?pf=99,22 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list, capture of 2025-08-30: https://web.archive.org/web/20250830120859/https://www.jp.square-enix.com/game/?pf=99,22 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list (platform filter ?pf=22), live page of 2026-10-27: https://www.jp.square-enix.com/game/?pf=22 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- http://www.jp.square-enix.com/game/ -- the Xbox Series X|S list (model filter 34, platform filter ?pf=34), capture of 2020-11-11 (titled Xbox Series X): https://web.archive.org/web/20201111195041/https://www.jp.square-enix.com/game/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2021-12-24: https://web.archive.org/web/20211224150841/https://www.jp.square-enix.com/game/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2023-01-17: https://web.archive.org/web/20230117034214/https://www.jp.square-enix.com/game/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2024-01-19: https://web.archive.org/web/20240119133740/https://www.jp.square-enix.com/game/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2025-03-28: https://web.archive.org/web/20250328093209/https://www.jp.square-enix.com/game/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list (platform filter ?pf=34), live page of 2026-10-27: https://www.jp.square-enix.com/game/?pf=34 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 

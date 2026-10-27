@@ -220,4 +220,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
     - https://www.jp.square-enix.com/game/detail/ff3/ -- 商品詳細 link, listed 2019-06-26 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20190626224307/https://www.jp.square-enix.com/game/detail/ff3/ (last listing: https://web.archive.org/web/20250830120859/https://www.jp.square-enix.com/game/detail/ff3/)
     - http://www.square-enix.co.jp/ff3/ -- 公式サイト link, listed 2019-06-26 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/http://www.square-enix.co.jp/ff3/
 
+## jp.square-enix.com (Publisher; Japan, Xbox Series X|S list, captures of 2020-11-11 to live (2026-10-27))
+
+- Square Enix Japan's Xbox Series X|S game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2020-11-11 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Xbox Series X (2020-11-11) / Xbox Series X|S, platform filter ?pf=34 (the saved pages show the model checkbox value 34 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/https://www.jp.square-enix.com/game/, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Xbox SX (2020-11-11) or Xbox Series X|S (the model, not repeated below), パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the label's alt text; 審査予定 = rating pending
+  - Link labels: 公式サイト (official site), Microsoft Store, 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジーIII（ピクセルリマスター）; RPG; first listed (earliest capture read) 2025-03-28: release 2024.09.26; icons: ダウンロード; CERO B; listed: 2025-03-28, live (2026-10-27)
+    - https://www.xbox.com/ja-JP/games/store/final-fantasy-iii/9nwdpfppk30v -- Microsoft Store link, listed 2025-03-28 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20250325071555/https://www.xbox.com/ja-JP/games/store/final-fantasy-iii/9nwdpfppk30v
+    - https://www.jp.square-enix.com/game/detail/ff3/ -- 商品詳細 link, listed 2025-03-28 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20250328093209mp_/https://www.jp.square-enix.com/game/detail/ff3/
+    - https://www.jp.square-enix.com/ff_pixelremaster/ff3/ -- 公式サイト link, listed 2025-03-28 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20250325071555/https://www.jp.square-enix.com/ff_pixelremaster/ff3/
+
 ## Decisions
