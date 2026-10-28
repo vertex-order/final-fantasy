@@ -355,6 +355,72 @@ square-enix-games.com (Publisher, official)
   - FINAL FANTASY XV POCKET EDITION HD; first listed live (2026-10-28): platforms PS4, Xbox One, Nintendo Switch; (Ya disponible); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/es_XL/games/final-fantasy-xv-pocket-edition-hd -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## square-enix-games.com (Publisher; Brazil, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Portuguese (Brazil) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/pt_BR/games with no filter set (the saved page is in Portuguese, `lang="pt"`, the Plataforma filter with nothing selected; the page's Brazil country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponível), a day-first release date, (Em breve), (Disponível em 30 de outubro de 2025), (End of service)), no genres or ratings
+  - FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, Xbox Series X|S, Windows; (Disponível); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/pt_BR/games/final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION; first listed live (2026-10-28): platforms iPhone, Android, iPad, Windows Phone; (Disponível); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/pt_BR/games/final-fantasy-xv-pocket-edition -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION HD; first listed live (2026-10-28): platforms PS4, Xbox One, Nintendo Switch; (Disponível); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/pt_BR/games/final-fantasy-xv-pocket-edition-hd -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Germany, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' German (Germany) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/de_DE/games with no filter set (the saved page is in German, `lang="de"`, the Plattformen filter with nothing selected; the page's Germany country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Jetzt verfügbar), a day-first release date, (Erscheint bald), (Erscheint am 30. Oktober 2025), (End of service)), no genres or ratings
+  - FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, Xbox Series X|S, Windows; (Jetzt verfügbar); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/de_DE/games/final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION; first listed live (2026-10-28): platforms iPhone, iPad, Android, Windows Phone; (Jetzt verfügbar); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/de_DE/games/final-fantasy-xv-pocket-edition -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION HD; first listed live (2026-10-28): platforms PS4, Xbox One, Nintendo Switch; (Jetzt verfügbar); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/de_DE/games/final-fantasy-xv-pocket-edition-hd -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Spain, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Spanish (Spain) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_ES/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Spain country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Coming 30 October 2025), (End of service)), no genres or ratings
+  - FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, Xbox Series X|S, Windows; (Ya disponible); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/es_ES/games/final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION; first listed live (2026-10-28): platforms iPhone, Android, iPad, Windows Phone; (Ya disponible); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/es_ES/games/final-fantasy-xv-pocket-edition -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION HD; first listed live (2026-10-28): platforms PS4, Xbox One, Nintendo Switch; (Ya disponible); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/es_ES/games/final-fantasy-xv-pocket-edition-hd -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Italy, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Italian (Italy) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/it_IT/games with no filter set (the saved page is in Italian, `lang="it"`, the Piattaforma filter with nothing selected; the page's Italy country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ora disponibile), a day-first release date, (Presto disponibile), (Coming 30 October 2025), (End of service)), no genres or ratings
+  - FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, Xbox Series X|S, Windows; (Ora disponibile); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/it_IT/games/final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION; first listed live (2026-10-28): platforms iPhone, Android, iPad, Windows Phone; (Ora disponibile); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/it_IT/games/final-fantasy-xv-pocket-edition -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION HD; first listed live (2026-10-28): platforms PS4, Xbox One, Nintendo Switch; (Ora disponibile); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/it_IT/games/final-fantasy-xv-pocket-edition-hd -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Poland, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Polish (Poland) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/pl_PL/games with no filter set (the saved page is in Polish, `lang="pl"`, the Platforma filter with nothing selected; the page's Poland country link returns to this address; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Dostępne teraz), a day-first release date, (Już wkrótce), (Coming 30 October 2025), (End of service)), no genres or ratings
+  - FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, Xbox Series X|S, Windows; (Dostępne teraz); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/pl_PL/games/final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION; first listed live (2026-10-28): platforms iPhone, Android, iPad, Windows Phone; (Dostępne teraz); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/pl_PL/games/final-fantasy-xv-pocket-edition -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION HD; first listed live (2026-10-28): platforms PS4, Xbox One, Nintendo Switch; (Dostępne teraz); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/pl_PL/games/final-fantasy-xv-pocket-edition-hd -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Czech Republic, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Czech (Czech Republic) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/cs_CZ/games with no filter set (the saved page is in Czech, `lang="cs"`, the Platforma filter with nothing selected; the page's Czech Republic country link returns to this address; the saved file does not record the page's own address, and its file name carries no date); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Právě vychází), a day-first release date, (Již brzy), (Coming 30 October 2025), (End of service)), no genres or ratings
+  - FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, Xbox Series X|S, Windows; (Právě vychází); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION; first listed live (2026-10-28): platforms iPhone, Android, iPad, Windows Phone; (Právě vychází); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-xv-pocket-edition -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION HD; first listed live (2026-10-28): platforms PS4, Xbox One, Nintendo Switch; (Právě vychází); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-xv-pocket-edition-hd -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations

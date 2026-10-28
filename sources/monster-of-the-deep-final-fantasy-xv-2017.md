@@ -95,4 +95,46 @@
   - MONSTER OF THE DEEP: FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4; (Ya disponible); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/es_XL/games/monster-of-the-deep-final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## square-enix-games.com (Publisher; Brazil, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Portuguese (Brazil) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/pt_BR/games with no filter set (the saved page is in Portuguese, `lang="pt"`, the Plataforma filter with nothing selected; the page's Brazil country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponível), a day-first release date, (Em breve), (Disponível em 30 de outubro de 2025), (End of service)), no genres or ratings
+  - MONSTER OF THE DEEP: FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4; (Disponível); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/pt_BR/games/monster-of-the-deep-final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Germany, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' German (Germany) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/de_DE/games with no filter set (the saved page is in German, `lang="de"`, the Plattformen filter with nothing selected; the page's Germany country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Jetzt verfügbar), a day-first release date, (Erscheint bald), (Erscheint am 30. Oktober 2025), (End of service)), no genres or ratings
+  - MONSTER OF THE DEEP: FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4; (Jetzt verfügbar); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/de_DE/games/monster-of-the-deep-final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Spain, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Spanish (Spain) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_ES/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Spain country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Coming 30 October 2025), (End of service)), no genres or ratings
+  - MONSTER OF THE DEEP: FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4; (Ya disponible); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/es_ES/games/monster-of-the-deep-final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Italy, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Italian (Italy) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/it_IT/games with no filter set (the saved page is in Italian, `lang="it"`, the Piattaforma filter with nothing selected; the page's Italy country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ora disponibile), a day-first release date, (Presto disponibile), (Coming 30 October 2025), (End of service)), no genres or ratings
+  - MONSTER OF THE DEEP: FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4; (Ora disponibile); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/it_IT/games/monster-of-the-deep-final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Poland, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Polish (Poland) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/pl_PL/games with no filter set (the saved page is in Polish, `lang="pl"`, the Platforma filter with nothing selected; the page's Poland country link returns to this address; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Dostępne teraz), a day-first release date, (Już wkrótce), (Coming 30 October 2025), (End of service)), no genres or ratings
+  - MONSTER OF THE DEEP: FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4; (Dostępne teraz); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/pl_PL/games/monster-of-the-deep-final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Czech Republic, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Czech (Czech Republic) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/cs_CZ/games with no filter set (the saved page is in Czech, `lang="cs"`, the Platforma filter with nothing selected; the page's Czech Republic country link returns to this address; the saved file does not record the page's own address, and its file name carries no date); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Právě vychází), a day-first release date, (Již brzy), (Coming 30 October 2025), (End of service)), no genres or ratings
+  - MONSTER OF THE DEEP: FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4; (Právě vychází); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/cs_CZ/games/monster-of-the-deep-final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
