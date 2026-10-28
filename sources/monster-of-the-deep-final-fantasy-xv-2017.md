@@ -78,4 +78,12 @@
   - MONSTER OF THE DEEP: FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4; (Out Now); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/en_AU/games/monster-of-the-deep-final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## square-enix-games.com (Publisher; France, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' French (France) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/fr_FR/games with no filter set (the saved page is in French, `lang="fr"`, Plateformes filter with nothing selected; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponible maintenant), a day-first release date, (Bientôt disponible), (Fin de service)), no genres or ratings
+  - MONSTER OF THE DEEP: FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4; (Disponible maintenant); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/fr_FR/games/monster-of-the-deep-final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+      - the page links an English-language trailer: https://www.youtube.com/watch?v=CfDSuFb2myM -- the video's title notes "(with subs)" (watched by user, 2026-10-28) -- accessed 2026-10-28 -- archived: TODO
+
 ## Decisions

@@ -298,6 +298,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
           languages: [
             { value: 'JA', native: true },
             { value: 'EN' },
+            { value: 'FR', voice: true },
             { value: '…?' },
           ],
           helpWanted: true,

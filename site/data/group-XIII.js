@@ -326,6 +326,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           languages: [
             { value: 'JA', native: true, voice: true },
             { value: 'EN', voice: true },
+            { value: 'FR', textOnly: true },
             { value: '…?' },
           ],
           helpWanted: true,

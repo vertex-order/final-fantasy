@@ -282,4 +282,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
   - FINAL FANTASY VIII; first listed live (2026-10-28): platforms Steam; (Out Now); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/en_AU/games/final-fantasy-viii-pc -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## square-enix-games.com (Publisher; France, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' French (France) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/fr_FR/games with no filter set (the saved page is in French, `lang="fr"`, the Plateformes filter with nothing selected; the page's France country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponible maintenant), a day-first release date, (Bientôt disponible), (Fin de service)), no genres or ratings
+  - FINAL FANTASY VIII Remastered; first listed live (2026-10-28): platforms Xbox One, Steam, PS4, Nintendo Switch, iOS, Android; (Disponible maintenant); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/fr_FR/games/final-fantasy-viii-remastered -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY VIII; first listed live (2026-10-28): platforms Steam; (Disponible maintenant); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/fr_FR/games/final-fantasy-viii-pc -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
