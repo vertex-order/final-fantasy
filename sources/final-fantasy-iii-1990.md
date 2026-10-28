@@ -282,4 +282,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - ファイナルファンタジーIII; RPG; first listed 2023-04-21: release 2013.12.27; icons: ダウンロード; listed in every capture from 2023-04-21 to live (2026-10-27); not on the captures of 2013-06-13 to 2019-05-19
     - https://www.jp.square-enix.com/game/detail/ff3/ -- 商品詳細 link, listed live (2026-10-27) -- link recorded only
 
+## jp.square-enix.com (Publisher; Japan, Famicom list, captures of 2022-11-07 to live (2026-10-28))
+
+- Square Enix Japan's Famicom game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2022-11-07 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=28 (platform filter 28 = ファミリーコンピュータ; the saved pages show the model checkbox value 28 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: the labels as images: ファミリーコンピュータ (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
+  - Link labels: 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジーIII; RPG; first listed 2022-11-07: release 1990.04.27; icons: パッケージ, ファミリーコンピュータ; listed in every capture from 2022-11-07 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/ff3/ -- 商品詳細 link, listed 2022-11-07 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20221107101636mp_/https://www.jp.square-enix.com/game/detail/ff3/
+
 ## Decisions

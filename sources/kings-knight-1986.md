@@ -144,6 +144,15 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
     - http://www.jp.square-enix.com/kingsknight/ -- 公式サイト link, listed 2016-10-04 to 2018-06-27 -- link recorded only -- archived: https://web.archive.org/web/20161004145544/http://www.jp.square-enix.com/kingsknight/ (last listing: http://www.jp.square-enix.com/kingsknight/)
     - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.KingsKnightj -- Google Playでダウンロード link, listed 2018-06-27 -- link recorded only -- archived: TODO
 
+## jp.square-enix.com (Publisher; Japan, Famicom list, captures of 2022-11-07 to live (2026-10-28))
+
+- Square Enix Japan's Famicom game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2022-11-07 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=28 (platform filter 28 = ファミリーコンピュータ; the saved pages show the model checkbox value 28 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: the labels as images: ファミリーコンピュータ (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
+  - Link labels: 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - キングスナイト; フォーメーションRPG; first listed 2022-11-07: release 1986.09.18; icons: パッケージ, ファミリーコンピュータ; listed in every capture from 2022-11-07 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/kingsknight/ -- 商品詳細 link, listed 2022-11-07 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20221107101636mp_/https://www.jp.square-enix.com/game/detail/kingsknight/
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)

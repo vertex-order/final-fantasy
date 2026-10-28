@@ -461,6 +461,8 @@
 - the same list (platform filter ?pf=26), live page of 2026-10-28: https://www.jp.square-enix.com/game/?pf=26 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 - https://www.jp.square-enix.com/game/?pf=27 -- the Game Boy list (platform filter ?pf=27; the model checkbox value is 27, beside a disabled checked 99), captures of 2022-10-31: https://web.archive.org/web/20221031075528/https://www.jp.square-enix.com/game/?pf=27 and 2025-02-19: https://web.archive.org/web/20250219123346/https://www.jp.square-enix.com/game/?pf=27 -- visited and audited -- accessed 2026-10-28 (saved pages read by me)
 - the same list (platform filter ?pf=27), live page of 2026-10-28: https://www.jp.square-enix.com/game/?pf=27 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- https://www.jp.square-enix.com/game/?pf=28 -- the Famicom list (platform filter ?pf=28; the model checkbox value is 28, beside a disabled checked 99), captures of 2022-11-07: https://web.archive.org/web/20221107101636/https://www.jp.square-enix.com/game/?pf=28 and 2026-01-31: https://web.archive.org/web/20260131005035/https://www.jp.square-enix.com/game/?pf=28 -- visited and audited -- accessed 2026-10-28 (saved pages read by me)
+- the same list (platform filter ?pf=28), live page of 2026-10-28: https://www.jp.square-enix.com/game/?pf=28 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 
