@@ -62,6 +62,15 @@
   - ファイナルファンタジー アートニクス; menu section ソーシャル; first listed 2013-10-20; listed in every capture from 2013-10-20 to 2013-10-20; not on the captures after 2013-10-20; not on the captures before 2013-10-20
     - http://www.jp.square-enix.com/ff_artniks/ -- 公式サイト link, listed 2013-10-20 -- link recorded only -- archived: https://web.archive.org/web/20131020014959/http://www.jp.square-enix.com/ff_artniks/
 
+## jp.square-enix.com (Publisher; Japan, EZweb list, captures of 2013-10-20 to 2016-12-23)
+
+- Square Enix Japan's EZweb list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2012-10-08 to 2016-12-23 http://www.jp.square-enix.com/mobile/e/ (the feature-phone menu page for au EZweb, titled EZweb | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Layout: menu sections COMING SOON, IT'S NEW, 総合サイト (portal sites), メダルアプリ, 着信メロディ, 待受, ゲーム (from 2013-10-20 also ソーシャル), その他; each item has a thumbnail, a one-line blurb and a 公式サイト (official site) link; no release date, genre, icon or CERO label on any capture; blocks commented out in the page source are not counted as listed
+  - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different)
+  - ファイナルファンタジー アートニクス; menu section ソーシャル; first listed 2013-10-20; listed in every capture from 2013-10-20 to 2013-10-20; not on the captures after 2013-10-20; not on the captures before 2013-10-20
+    - http://www.jp.square-enix.com/ff_artniks/ -- 公式サイト link, listed 2013-10-20 -- link recorded only -- archived: https://web.archive.org/web/20131020014901/http://www.jp.square-enix.com/ff_artniks/
+
 ## Decisions
 - GREE is the link for the Android and iOS rows (user, 2026-10-20): the search for direct Play Store and App Store pages is closed, since the game was only available through registration on the GREE website; the rows link the GREE apps page capture of 2013-12-19 and no store page is expected to exist
 - No `by` line (user, 2026-10-20): director Kazunari Itakura and producer Ichiro Hazama are named by zh.wikipedia and thefinalfantasy.net, but the entry carries no credits
