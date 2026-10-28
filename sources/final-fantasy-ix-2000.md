@@ -258,4 +258,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
   - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
   - ファイナルファンタジーIX; RPG; first listed 2023-09-28: release 2019.02.14(Switch, XONE); icons: Android, Nintendo Switch, Windows, Xbox One, iOS, ダウンロード, パッケージ, プレイステーション, プレイステーション ヴィータ, プレイステーション3, プレイステーション4, プレイステーション・ポータブル; CERO A; changes: live (2026-10-28): release 2019.02.14(Switch, XONE) to 2019.02.14; listed in every capture from 2023-09-28 to live (2026-10-28)
 
+## jp.square-enix.com (Publisher; Japan, Steam list, capture of live (2026-10-28))
+
+- Square Enix Japan's Steam list (the game list filtered by the Steam tag) -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?s=9 (search filter 9 = Steam; the saved page shows the checkbox value 9 checked and the result heading Steam; the page's own address is https://www.jp.square-enix.com/game/); only the live page is saved, no Wayback capture read; every item lists the Windows model
+  - Icons: the labels as images: Windows (the model, not repeated below), ダウンロード (download), オンライン専用 (online only), 審査予定 (rating pending), buttons (購入する, e-STOREで購入 / e-STOREで予約, Steam); "none" = no other icon. CERO: the label's alt text where shown
+  - Link labels: Steam (the Steam store page), e-STOREで購入 / e-STOREで予約 (the Square Enix e-STORE page), 公式サイト (official site), 商品詳細 (detail page); links of the live page have no archive
+  - ファイナルファンタジーIX; RPG; first listed live (2026-10-28): release 2016.04.14; icons: ダウンロード; CERO A; listed on the capture of live (2026-10-28) only
+    - http://store.steampowered.com/app/377840/ -- Steam link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions

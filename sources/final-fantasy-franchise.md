@@ -467,6 +467,7 @@
 - the same search (series filter ?s=2), live page of 2026-10-28: https://www.jp.square-enix.com/game/?s=2 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 - https://www.jp.square-enix.com/game/?s=3 -- the Kingdom Hearts franchise search (series filter ?s=3; the series checkbox value is 3, result heading キングダム ハーツ), capture of 2021-05-06 (the saved page's own address is https://www.jp.square-enix.com/game/): https://web.archive.org/web/20210506224629/https://www.jp.square-enix.com/game/ -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 - the same search (series filter ?s=3), live page of 2026-10-28: https://www.jp.square-enix.com/game/?s=3 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- https://www.jp.square-enix.com/game/?s=9 -- the Steam list (search filter ?s=9 = Steam; the checkbox value is 9, result heading Steam), live page of 2026-10-28 (the saved page's own address is https://www.jp.square-enix.com/game/) -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 

@@ -95,4 +95,13 @@
     - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecjp -- Google Play link, listed 2023-09-28 -- link recorded only -- archived: https://web.archive.org/web/20230921045724/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecjp
     - https://jp.ffviiec.com/ -- 公式サイト link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230921045724/https://jp.ffviiec.com/
 
+## jp.square-enix.com (Publisher; Japan, Steam list, capture of live (2026-10-28))
+
+- Square Enix Japan's Steam list (the game list filtered by the Steam tag) -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?s=9 (search filter 9 = Steam; the saved page shows the checkbox value 9 checked and the result heading Steam; the page's own address is https://www.jp.square-enix.com/game/); only the live page is saved, no Wayback capture read; every item lists the Windows model
+  - Icons: the labels as images: Windows (the model, not repeated below), ダウンロード (download), オンライン専用 (online only), 審査予定 (rating pending), buttons (購入する, e-STOREで購入 / e-STOREで予約, Steam); "none" = no other icon. CERO: the label's alt text where shown
+  - Link labels: Steam (the Steam store page), e-STOREで購入 / e-STOREで予約 (the Square Enix e-STORE page), 公式サイト (official site), 商品詳細 (detail page); links of the live page have no archive
+  - ファイナルファンタジーVII エバークライシス; RPG ※サービス終了; first listed live (2026-10-28): release 2023.12.07; icons: ダウンロード; CERO B; listed on the capture of live (2026-10-28) only
+    - https://jp.ffviiec.com/ -- 公式サイト link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions

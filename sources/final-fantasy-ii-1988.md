@@ -358,6 +358,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
     - https://store.jp.square-enix.com/estore/e/ee-ff1-6-collection/ -- e-STOREで購入 link, listed live (2026-10-28) -- link recorded only -- archived: TODO
     - https://www.jp.square-enix.com/ff_pixelremaster/ -- 公式サイト link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## jp.square-enix.com (Publisher; Japan, Steam list, capture of live (2026-10-28))
+
+- Square Enix Japan's Steam list (the game list filtered by the Steam tag) -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?s=9 (search filter 9 = Steam; the saved page shows the checkbox value 9 checked and the result heading Steam; the page's own address is https://www.jp.square-enix.com/game/); only the live page is saved, no Wayback capture read; every item lists the Windows model
+  - Icons: the labels as images: Windows (the model, not repeated below), ダウンロード (download), オンライン専用 (online only), 審査予定 (rating pending), buttons (購入する, e-STOREで購入 / e-STOREで予約, Steam); "none" = no other icon. CERO: the label's alt text where shown
+  - Link labels: Steam (the Steam store page), e-STOREで購入 / e-STOREで予約 (the Square Enix e-STORE page), 公式サイト (official site), 商品詳細 (detail page); links of the live page have no archive
+  - ファイナルファンタジーII; RPG; first listed live (2026-10-28): release 2021.07.29; icons: ダウンロード; CERO A; listed on the capture of live (2026-10-28) only
+    - https://store.steampowered.com/app/1173780/FINAL_FANTASY_II/ -- Steam link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+    - https://www.jp.square-enix.com/game/detail/ff2/ -- 商品詳細 link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

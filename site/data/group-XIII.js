@@ -192,7 +192,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           ],
           helpWanted: true,
           platforms: [
-            { key: 'steam', paren: 'PC' },
+            { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/' },
             { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' },
             { key: 'android', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20250120170603/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13_2' },
             { key: 'apple', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20240902075526/https://apps.apple.com/jp/app/final-fantasy-xiii-2/id1033424082', hreflang: 'ja' },
@@ -307,7 +307,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           ],
           helpWanted: true,
           platforms: [
-            { key: 'steam', paren: 'PC' },
+            { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/' },
             { key: 'xbox-one', paren: 'Xbox 360 compatibility, Xbox One X Enhanced' },
             { key: 'xbox-xs', paren: 'Xbox One compatibility' },
             { key: 'android', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20240902075537/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13_3' },
