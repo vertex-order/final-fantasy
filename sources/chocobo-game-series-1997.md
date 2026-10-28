@@ -551,6 +551,23 @@
   - はたらくチョコボ; 開拓シミュレーション; first listed 2022-09-11: release 2000.09.21; icons: パッケージ; listed in every capture from 2022-09-11 to live (2026-10-28)
     - https://www.jp.square-enix.com/game/detail/h_chocobo/ -- 商品詳細 link, listed 2022-09-11 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20220911034935mp_/https://www.jp.square-enix.com/game/detail/h_chocobo/
 
+## jp.square-enix.com (Publisher; Japan, PlayStation list, captures of 2023-01-07 to live (2026-10-28))
+
+- Square Enix Japan's PlayStation game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2023-01-07 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=20 (platform filter 20 = プレイステーション; the saved pages show the model checkbox value 20 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: the labels as images: プレイステーション (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown. Genre notes are part of the genre text
+  - Link labels: 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - チョコボの不思議なダンジョン; RPG; first listed 2023-01-07: release 1997.12.23; icons: パッケージ; listed in every capture from 2023-01-07 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/chocobodungeon1/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230107100947mp_/https://www.jp.square-enix.com/game/detail/chocobodungeon1/
+  - チョコボの不思議なダンジョン２; RPG; first listed 2023-01-07: release 1998.12.23; icons: パッケージ; listed in every capture from 2023-01-07 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/chocobodungeon2/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230107100947mp_/https://www.jp.square-enix.com/game/detail/chocobodungeon2/
+  - チョコボレーシング ～幻界へのロード～（PS one Books）; レース; first listed 2023-01-07: release 2001.12.20; icons: パッケージ; listed in every capture from 2023-01-07 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/chocobo_rc/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230107100947mp_/https://www.jp.square-enix.com/game/detail/chocobo_rc/
+  - チョコボスタリオン; 育成シミュレーション; first listed 2023-01-07: release 1999.12.22; icons: パッケージ; listed in every capture from 2023-01-07 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/chocobostallion/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230107100947mp_/https://www.jp.square-enix.com/game/detail/chocobostallion/
+  - チョコボコレクション; ; first listed 2023-01-07: release 1999.12.22; icons: パッケージ; listed in every capture from 2023-01-07 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/chocobo_col/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230107100947mp_/https://www.jp.square-enix.com/game/detail/chocobo_col/
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

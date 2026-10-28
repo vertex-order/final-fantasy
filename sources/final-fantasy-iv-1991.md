@@ -355,4 +355,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - ファイナルファンタジーIV; RPG; first listed 2022-09-11: release 2002.03.28; icons: パッケージ; listed in every capture from 2022-09-11 to live (2026-10-28)
     - https://www.jp.square-enix.com/game/detail/ff4/ -- 商品詳細 link, listed 2022-09-11 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20220911034935mp_/https://www.jp.square-enix.com/game/detail/ff4/
 
+## jp.square-enix.com (Publisher; Japan, PlayStation list, captures of 2023-01-07 to live (2026-10-28))
+
+- Square Enix Japan's PlayStation game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2023-01-07 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=20 (platform filter 20 = プレイステーション; the saved pages show the model checkbox value 20 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: the labels as images: プレイステーション (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown. Genre notes are part of the genre text
+  - Link labels: 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジーIV; RPG; first listed 2023-01-07: release 1997.03.21; icons: パッケージ; listed in every capture from 2023-01-07 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/ff4/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230107100947mp_/https://www.jp.square-enix.com/game/detail/ff4/
+  - ファイナルファンタジーコレクション; RPG; first listed 2023-01-07: release 1999.03.11; icons: パッケージ; listed in every capture from 2023-01-07 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/ff_collection/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230107100947mp_/https://www.jp.square-enix.com/game/detail/ff_collection/
+
 ## Decisions

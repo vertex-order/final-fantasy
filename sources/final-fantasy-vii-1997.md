@@ -222,6 +222,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - ファイナルファンタジーVII インターナショナル（PS one Books）; RPG; platform section プレイステーション; first listed 2013-06-06: release 2001.12.20; icons: none; listed in every capture from 2013-06-06 to 2016-12-22; not on the captures after 2016-12-22
     - http://www.jp.square-enix.com/archive/ff7int_psonebooks/ -- 商品詳細 link, listed 2013-06-06 to 2016-12-22 -- link recorded only -- archived: https://web.archive.org/web/20130606035128/http://www.jp.square-enix.com/archive/ff7int_psonebooks/ (last listing: https://web.archive.org/web/20161222213809/http://www.jp.square-enix.com/archive/ff7int_psonebooks/)
 
+## jp.square-enix.com (Publisher; Japan, PlayStation list, captures of 2023-01-07 to live (2026-10-28))
+
+- Square Enix Japan's PlayStation game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2023-01-07 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=20 (platform filter 20 = プレイステーション; the saved pages show the model checkbox value 20 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: the labels as images: プレイステーション (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown. Genre notes are part of the genre text
+  - Link labels: 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジーVII（インターナショナル（アルティメット ヒッツ））; RPG; first listed 2023-01-07: release 2006.07.20; icons: パッケージ; CERO B; listed in every capture from 2023-01-07 to live (2026-10-28)
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.
