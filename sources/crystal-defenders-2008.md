@@ -273,6 +273,15 @@
   - クリスタル ガーディアンズ; menu section ゲーム; first listed 2012-10-08; listed in every capture from 2012-10-08 to 2016-12-23
     - http://www.square-enix.co.jp/mobile/ff/cg/ -- 公式サイト link, listed 2012-10-08 to 2016-12-23 -- link recorded only -- archived: https://web.archive.org/web/20121008084254/http://www.square-enix.co.jp/mobile/ff/cg/ (last listing: https://web.archive.org/web/20161223032942/http://www.square-enix.co.jp/mobile/ff/cg/)
 
+## jp.square-enix.com (Publisher; Japan, Yahoo! Keitai list, captures of 2012-10-08 to 2017-04-01)
+
+- Square Enix Japan's Yahoo! Keitai list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2012-10-08 to 2017-04-01 http://www.jp.square-enix.com/mobile/y/ (the feature-phone menu page for Yahoo!ケータイ, titled Yahoo!ケータイ | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Layout: menu sections 着信メロディ, ゲーム (from 2013-10-20 also ソーシャル), その他; the portal items (ドラゴンクエスト モバイル, ファイナルファンタジー モバイル and others) stand before 着信メロディ, their 総合サイト heading and the COMING SOON and IT'S NEW headings being commented out in the page source; each item has a thumbnail, a one-line blurb and a 公式サイト (official site) link; no release date, genre, icon or CERO label on any capture; blocks commented out in the page source are not counted as listed
+  - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different)
+  - クリスタル ガーディアンズ; menu section ゲーム; first listed 2012-10-08; listed in every capture from 2012-10-08 to 2017-04-01
+    - http://www.square-enix.co.jp/mobile/ff/cg/ -- 公式サイト link, listed 2012-10-08 to 2017-04-01 -- link recorded only -- archived: https://web.archive.org/web/20121008085058/http://www.square-enix.co.jp/mobile/ff/cg/ (last listing: https://web.archive.org/web/20170401210413/http://www.square-enix.co.jp/mobile/ff/cg/)
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it

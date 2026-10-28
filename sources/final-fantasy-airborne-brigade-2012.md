@@ -112,4 +112,13 @@ Korean version (Daum Mobage):
   - ファイナルファンタジー ブリゲイド ブレイク ザ シール; menu section ソーシャル; first listed 2013-10-20; listed in every capture from 2013-10-20 to 2016-12-23; not on the captures before 2013-10-20
     - http://www.square-enix.co.jp/mobile/etc/ff_b/ -- 公式サイト link, listed 2013-10-20 to 2016-12-23 -- link recorded only -- archived: https://web.archive.org/web/20131020014901/http://www.square-enix.co.jp/mobile/etc/ff_b/ (last listing: https://web.archive.org/web/20161223032942/http://www.square-enix.co.jp/mobile/etc/ff_b/)
 
+## jp.square-enix.com (Publisher; Japan, Yahoo! Keitai list, captures of 2013-10-20 to 2017-04-01)
+
+- Square Enix Japan's Yahoo! Keitai list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2012-10-08 to 2017-04-01 http://www.jp.square-enix.com/mobile/y/ (the feature-phone menu page for Yahoo!ケータイ, titled Yahoo!ケータイ | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Layout: menu sections 着信メロディ, ゲーム (from 2013-10-20 also ソーシャル), その他; the portal items (ドラゴンクエスト モバイル, ファイナルファンタジー モバイル and others) stand before 着信メロディ, their 総合サイト heading and the COMING SOON and IT'S NEW headings being commented out in the page source; each item has a thumbnail, a one-line blurb and a 公式サイト (official site) link; no release date, genre, icon or CERO label on any capture; blocks commented out in the page source are not counted as listed
+  - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different)
+  - ファイナルファンタジー ブリゲイド ブレイク ザ シール; menu section ソーシャル; first listed 2013-10-20; listed in every capture from 2013-10-20 to 2017-04-01; not on the captures before 2013-10-20
+    - http://www.square-enix.co.jp/mobile/etc/ff_b/ -- 公式サイト link, listed 2013-10-20 to 2017-04-01 -- link recorded only -- archived: https://web.archive.org/web/20131020014932/http://www.square-enix.co.jp/mobile/etc/ff_b/ (last listing: https://web.archive.org/web/20170401210413/http://www.square-enix.co.jp/mobile/etc/ff_b/)
+
 ## Decisions

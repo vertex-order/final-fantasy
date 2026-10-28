@@ -75,7 +75,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
             { value: 'JA', native: true },
           ],
           platforms: [
-            { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'Digital; NTT DoCoMo i-mode; au EZweb' },
+            { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'Digital; NTT DoCoMo i-mode; au EZweb; SoftBank' },
           ],
           versionDesc: [
             'Introduced the EX Dungeon bonus content and an unlimited inventory, both later folded into Edit (2011).',
@@ -369,7 +369,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
             { value: 'JA', native: true },
           ],
           platforms: [
-            { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'Digital; NTT DoCoMo i-mode; au EZweb' },
+            { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'Digital; NTT DoCoMo i-mode; au EZweb; SoftBank' },
           ],
           versionDesc: [
             'The original release, published episodically.',

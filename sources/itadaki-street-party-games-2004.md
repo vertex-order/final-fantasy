@@ -46,6 +46,11 @@
   - Characters from VII to X, XI, XII, XIII
   - Maps section: https://breezewiki.com/finalfantasy/wiki/Dragon_Quest_%26_Final_Fantasy_in_Itadaki_Street_Mobile#Maps -- link recorded only -- archived: TODO
   - Official site http://www.square-enix.co.jp/mobile/sem/itast-sp/ (captures in the Square Enix Mobile section below)
+- https://ja.wikipedia.org/wiki/ドラゴンクエスト&ファイナルファンタジー_in_いただきストリート_MOBILE -- Mobile (page text pasted by user): title*, date*, platforms*, disambiguation* -- accessed 2026-10-27 -- archived: TODO
+  - Titles: 「ファイナルファンタジー in いただきストリート MOBILE」 (FF version, i-mode and EZweb 2010-07-01), renamed 「ドラゴンクエスト&ファイナルファンタジー in いただきストリート MOBILE」 (DQ&FF version, i-mode and EZweb 2011-02-03) by a version-up that kept the FF content and added Dragon Quest; the FF-only distribution ended at the same time; the two are one game
+  - Platforms: i-appli and EZapp (BREW) only; developers Square Enix and 有限会社パパイヤ電池 (Papaya Denchi); Itadaki Street series entries 9 and 10
+  - Free trial version 2010-06-07, full version 2010-07-01; one new map and opposing character each month from 2010-07-01 to 2012-02-13; characters and maps drawn from Special and Portable; 1 player
+  - 「いただきストリートMOBILE どんどん開店!増築中!」 is a different, earlier phone game: it follows the original Itadaki Street world, while the FF version follows the Special and Portable collaboration games; no Final Fantasy, Chocobo or Moogle content, so outside the list's scope
 
 ## Square Enix Mobile (Publisher; Dragon Quest & Final Fantasy in Itadaki Street Mobile)
 
@@ -60,7 +65,7 @@
 - https://web.archive.org/web/20110119194334/http://www.square-enix.co.jp/mobile/sem/ -- the 2011-02-03 rename (news on the Square Enix Mobile index; the news box is a script served from a later capture) -- accessed 2026-10-24
   - 2011-02-03: 「ファイナルファンタジー in いただきストリートMOBILE」 became 「ドラゴンクエスト & ファイナルファンタジー in いただきストリートMOBILE」, with Dragon Quest characters and maps to be added
 - https://web.archive.org/web/20091230053155/http://www.square-enix.co.jp/mobile/sem/itast/ -- plain いただきストリートMOBILE (capture of 2009-12-30) -- accessed 2026-10-24
-  - A separate earlier app (i-mode 2007-10-01, EZweb 2008-03-13, Yahoo!ケータイ 2008-09-01) with no Final Fantasy, Chocobo or Moogle content; not listed
+  - A separate earlier app, not the Final Fantasy game under its earlier title (i-mode 2007-10-01, EZweb 2008-03-13, Yahoo!ケータイ 2008-09-01) with no Final Fantasy, Chocobo or Moogle content; out of scope (ja.wikipedia page above)
   - Page text: a popular board game, "Itadaki Street", on phones; beat the rivals and aim to be the richest (「大金持ち」); description*
 - https://www.jp.square-enix.com/announce/semobile/ -- terminated* (Square Enix's end-of-service notice for 「スクエニモバイル」, the live page; text pasted by user, identical to the capture of 2018-04-02, https://web.archive.org/web/20180402064630/http://www.square-enix.co.jp/mobile/sem/) -- accessed 2026-10-24
   - Square Enix Mobile ended all services on 2018-03-31; from 2018-04-01 its member data and installed apps are unusable
