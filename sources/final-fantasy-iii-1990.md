@@ -273,4 +273,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - ファイナルファンタジーIII（ピクセルリマスター）; RPG; first listed 2022-03-16: release 2021.07.29; icons: ダウンロード; listed in every capture from 2022-03-16 to 2023-03-16
   - ファイナルファンタジーIII（3D REMAKE）; RPG; first listed 2024-04-15: release 2012.03.01; icons: ダウンロード; listed in every capture from 2024-04-15 to live (2026-10-27)
 
+## jp.square-enix.com (Publisher; Japan, Windows Phone list, captures of 2013-06-13 to live (2026-10-27))
+
+- Square Enix Japan's Windows Phone game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-13 to 2017-12-02 http://www.jp.square-enix.com/game/windowsphone/ (the per-model page, titled WindowsPhone); 2019-05-19 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Windows Phone, platform filter ?pf=13 (the saved pages show the model checkbox value 13 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: 2013-06-13 to 2017-12-02 none on items; from 2019-05-19 the model label image Windows Phone (the model, not repeated below), the label ダウンロード and the button 購入する on items, and the store button Microsoft Store on one item in 2019. Date label: 発売日 (release) or 配信日 (delivery), by item. CERO: no rating label on any capture
+  - Link labels: 公式サイト (official site, 2013 to 2017), Microsoft Store (the store page, 2019), 商品詳細 (detail page, live page); a link's archived URL is the capture of the link as the saved page renders it; links of the live page have no archive
+  - ファイナルファンタジーIII; RPG; first listed 2023-04-21: release 2013.12.27; icons: ダウンロード; listed in every capture from 2023-04-21 to live (2026-10-27); not on the captures of 2013-06-13 to 2019-05-19
+    - https://www.jp.square-enix.com/game/detail/ff3/ -- 商品詳細 link, listed live (2026-10-27) -- link recorded only
+
 ## Decisions

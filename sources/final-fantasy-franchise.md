@@ -413,6 +413,14 @@
 - the same list, capture of 2024-04-15: https://web.archive.org/web/20240415030409/https://www.jp.square-enix.com/game/?pf=12 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list, capture of 2025-07-30: https://web.archive.org/web/20250730161521/https://www.jp.square-enix.com/game/?pf=12 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list (platform filter ?pf=12), live page of 2026-10-27: https://www.jp.square-enix.com/game/?pf=12 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- http://www.jp.square-enix.com/game/windowsphone/ -- the Windows Phone list (per-model page /game/windowsphone/ to 2017, model filter 13 and platform filter ?pf=13 from 2019), capture of 2013-06-13: https://web.archive.org/web/20130613071207/http://www.jp.square-enix.com/game/windowsphone/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2014-07-18: https://web.archive.org/web/20140718103752/http://www.jp.square-enix.com/game/windowsphone/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2015-08-11: https://web.archive.org/web/20150811081125/http://www.jp.square-enix.com/game/windowsphone/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2016-10-10: https://web.archive.org/web/20161010095336/http://www.jp.square-enix.com/game/windowsphone/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2017-12-02: https://web.archive.org/web/20171202215600/http://www.jp.square-enix.com/game/windowsphone/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list in its later layout, capture of 2019-05-19: https://web.archive.org/web/20190519081904/https://www.jp.square-enix.com/game/?pf=13 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list in its later layout, capture of 2023-04-21: https://web.archive.org/web/20230421081908/https://www.jp.square-enix.com/game/?pf=13 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list (platform filter ?pf=13), live page of 2026-10-27: https://www.jp.square-enix.com/game/?pf=13 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 
