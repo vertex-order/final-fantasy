@@ -65,4 +65,13 @@
   - Capture HTML not read.
   - Link rendering in a browser (the 2017-01-21 capture, user 2026-10-21): works.
 
+## jp.square-enix.com (Publisher; Japan, iOS list, captures of 2016-10-04 to live (2026-10-27))
+
+- Square Enix Japan's iOS game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-15 to 2017-10-09 http://www.jp.square-enix.com/game/ios/ (the per-model page, titled iPod/iPhone/iPad in 2013 and iPhone/iPod touch/iPad from 2014); 2018-07-06 http://www.jp.square-enix.com/game/pf/ios/ (the per-model page, titled iOS; the saved page lists 73 items and a もっと見る button); 2019-03-21 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to iOS, platform filter ?pf=11 (the saved pages show the model checkbox value 11 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: 2013-06-15 to 2017-10-09 the icon image ダウンロード専用 (download only) on items, none on others; from 2018-07-06 the model label image iOS (the model, not repeated below) and the label ダウンロード on items, the buttons App Storeでダウンロード (2018) or 購入する and App Store (2019 on), and 事前登録する (2018) or 事前登録 (2019 on) on items not yet out; the ダウンロード専用 image and the ダウンロード label are both written ダウンロード below, 事前登録する and 事前登録 both 事前登録. Date label: 発売日 (release) or 配信日 (delivery), by item. CERO: no rating label on any capture
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page, 2019 on), App Store (the store page); 2013 to 2017 the title links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ジャスティス モンスターズ ファイブ; ピンボールRPG; first listed 2016-10-04: release 2016.08.30; icons: ダウンロード; changes: 2019-03-21: genre ピンボールRPG to ピンボールRPG ※サービス終了; listed in every capture from 2016-10-04 to live (2026-10-27) except 2018-07-06
+    - http://www.jp.square-enix.com/jusmonv/ -- 公式サイト link, listed 2016-10-04 to 2017-10-09 -- link recorded only -- archived: https://web.archive.org/web/20161004145554/http://www.jp.square-enix.com/jusmonv/ (last listing: https://web.archive.org/web/20171009232939/http://www.jp.square-enix.com/jusmonv/)
+
 ## Decisions

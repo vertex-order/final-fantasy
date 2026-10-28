@@ -124,6 +124,16 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Platform links (user, 2026-10-14): the remake's Android and iOS rows link the archived store pages (Google Play capture 2017-10-04, US App Store capture 2019-02-27), since the live pages are gone
   - the earlier official-site captures of 2018-01-23 link the same two stores
 
+## jp.square-enix.com (Publisher; Japan, iOS list, captures of 2016-10-04 to live (2026-10-27))
+
+- Square Enix Japan's iOS game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-15 to 2017-10-09 http://www.jp.square-enix.com/game/ios/ (the per-model page, titled iPod/iPhone/iPad in 2013 and iPhone/iPod touch/iPad from 2014); 2018-07-06 http://www.jp.square-enix.com/game/pf/ios/ (the per-model page, titled iOS; the saved page lists 73 items and a もっと見る button); 2019-03-21 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to iOS, platform filter ?pf=11 (the saved pages show the model checkbox value 11 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: 2013-06-15 to 2017-10-09 the icon image ダウンロード専用 (download only) on items, none on others; from 2018-07-06 the model label image iOS (the model, not repeated below) and the label ダウンロード on items, the buttons App Storeでダウンロード (2018) or 購入する and App Store (2019 on), and 事前登録する (2018) or 事前登録 (2019 on) on items not yet out; the ダウンロード専用 image and the ダウンロード label are both written ダウンロード below, 事前登録する and 事前登録 both 事前登録. Date label: 発売日 (release) or 配信日 (delivery), by item. CERO: no rating label on any capture
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page, 2019 on), App Store (the store page); 2013 to 2017 the title links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - キングスナイト -Wrath of the Dark Dragon-; アクションRPG; first listed 2016-10-04: release 2016年配信予定; icons: ダウンロード; changes: 2017-10-09: release 2016年配信予定 to 2017.09.13 / 2019-03-21: genre アクションRPG to アクションRPG ※サービス終了; listed in every capture from 2016-10-04 to live (2026-10-27)
+    - http://www.jp.square-enix.com/kingsknight/ -- 公式サイト link, listed 2016-10-04 to 2018-07-06 -- link recorded only -- archived: https://web.archive.org/web/20161004145554/http://www.jp.square-enix.com/kingsknight/ (last listing: http://www.jp.square-enix.com/kingsknight/)
+    - https://itunes.apple.com/JP/app/id1087305260?mt=8 -- App Storeでダウンロード link, listed 2018-07-06 -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)

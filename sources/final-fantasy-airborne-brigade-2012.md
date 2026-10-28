@@ -76,4 +76,13 @@ Korean version (Daum Mobage):
   - links the Play page above and `phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=576445141` (same iOS app id as the App Store line)
   - 20 status-200 captures, 2013-01-15 to 2014-01-22 (index limit 20, later ones not listed)
 
+## jp.square-enix.com (Publisher; Japan, iOS list, captures of 2013-06-15 to live (2026-10-27))
+
+- Square Enix Japan's iOS game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-15 to 2017-10-09 http://www.jp.square-enix.com/game/ios/ (the per-model page, titled iPod/iPhone/iPad in 2013 and iPhone/iPod touch/iPad from 2014); 2018-07-06 http://www.jp.square-enix.com/game/pf/ios/ (the per-model page, titled iOS; the saved page lists 73 items and a もっと見る button); 2019-03-21 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to iOS, platform filter ?pf=11 (the saved pages show the model checkbox value 11 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: 2013-06-15 to 2017-10-09 the icon image ダウンロード専用 (download only) on items, none on others; from 2018-07-06 the model label image iOS (the model, not repeated below) and the label ダウンロード on items, the buttons App Storeでダウンロード (2018) or 購入する and App Store (2019 on), and 事前登録する (2018) or 事前登録 (2019 on) on items not yet out; the ダウンロード専用 image and the ダウンロード label are both written ダウンロード below, 事前登録する and 事前登録 both 事前登録. Date label: 発売日 (release) or 配信日 (delivery), by item. CERO: no rating label on any capture
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page, 2019 on), App Store (the store page); 2013 to 2017 the title links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジー ブリゲイド ブレイク ザ シール; ソーシャルRPG; first listed 2013-06-15: release 2012.01.13; icons: none; changes: 2020-04-23: genre ソーシャルRPG to ソーシャルRPG ※サービス終了; listed in every capture from 2013-06-15 to live (2026-10-27) except 2018-07-06
+    - http://www.square-enix.co.jp/mobile/etc/ff_b/ -- 公式サイト link, listed 2013-06-15 to 2019-03-21 -- link recorded only -- archived: https://web.archive.org/web/20130615010510/http://www.square-enix.co.jp/mobile/etc/ff_b/ (last listing: https://web.archive.org/web/20190918234144/http://www.square-enix.co.jp/mobile/etc/ff_b/)
+
 ## Decisions
