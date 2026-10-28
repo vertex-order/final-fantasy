@@ -12,6 +12,7 @@
 ## Playstation (Platform)
 
 - https://www.playstation.com/games/monster-of-the-deep-final-fantasy-xv/
+  - the PlayStation Store page lists no languages (checked by user, 2026-10-28)
 
 ## Square Enix (Publisher, Developer)
 
@@ -20,7 +21,8 @@
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Final_Fantasy_XV_Universe -- dates*, platforms*, tags -- accessed 2026-09-22
-- https://wikipedia.org/wiki/Monster_of_the_Deep:_Final_Fantasy_XV
+- https://wikipedia.org/wiki/Monster_of_the_Deep:_Final_Fantasy_XV -- releases -- accessed 2026-10-28 (checked by user)
+  - lists only a worldwide release
 
 ## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2018-01-30 to live (2026-10-26))
 
@@ -85,5 +87,12 @@
   - MONSTER OF THE DEEP: FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4; (Disponible maintenant); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/fr_FR/games/monster-of-the-deep-final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
       - the page links an English-language trailer: https://www.youtube.com/watch?v=CfDSuFb2myM -- the video's title notes "(with subs)" (watched by user, 2026-10-28) -- accessed 2026-10-28 -- archived: TODO
+
+## square-enix-games.com (Publisher; Latin America, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_XL/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Latin America country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Disponible el 30 de octubre de 2025), (End of service)), no genres or ratings
+  - MONSTER OF THE DEEP: FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4; (Ya disponible); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/es_XL/games/monster-of-the-deep-final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## Decisions

@@ -12,9 +12,7 @@ window.__ffGroupReg['EX'] = { num: 'EX', chronoOrder: 1520, narrativeOrder: 1520
         { value: 'JA', native: true },
         { value: 'EN' },
         { value: 'FR' },
-        { value: '…?' },
       ],
-      helpWanted: true,
       profileUrl: 'https://www.square-enix-games.com/games/final-fantasy-explorers',
       ratings: [
         { score: '69', url: 'https://www.metacritic.com/game/final-fantasy-explorers/', key: 'metacritic' },

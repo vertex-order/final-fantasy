@@ -39,6 +39,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
 
 - https://www.xbox.com/games/store/lightning-returns-final-fantasy-xiii/9plf9mr720sj
 - https://www.xbox.com/games/store/lightning-returns-ffxiii/brrsmnbm1qgg
+- http://marketplace.xbox.com/en-US/Product/LIGHTNING-RETURNS-FF13/66acd000-77fe-1000-9115-d8025351081b -- platform, dates -- accessed 2026-10-28 (checked by user) -- archived: https://web.archive.org/web/20160209192255/http://marketplace.xbox.com/en-US/Product/LIGHTNING-RETURNS-FF13/66acd000-77fe-1000-9115-d8025351081b
+  - the Xbox 360 Marketplace page, United States region (en-US), capture of 2016-02-09
+  - overview page 2: original release date 2/11/2014, developer Square Enix, publisher Square Enix, genre Role Playing; features: Dolby Digital; online features: Content downloads
+  - lists no languages
 
 ## Android and iOS (Platform; G-cluster cloud apps)
 
@@ -187,5 +191,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
   - LIGHTNING RETURNS: FINAL FANTASY XIII; first listed live (2026-10-28): platforms PS3, Steam, Xbox 360; (Disponible maintenant); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/fr_FR/games/lightning-returns-final-fantasy-xiii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
       - the page links a French-language trailer: https://www.youtube.com/watch?v=ylLSgM6T9s4 -- the trailer shows gameplay with English voice and French subtitles, and lists PS3, PSN, Xbox 360 and Xbox Live (watched by user, 2026-10-28) -- accessed 2026-10-28 -- archived: TODO
+
+## square-enix-games.com (Publisher; Latin America, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_XL/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Latin America country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Disponible el 30 de octubre de 2025), (End of service)), no genres or ratings
+  - LIGHTNING RETURNS: FINAL FANTASY XIII; first listed live (2026-10-28): platforms PS3, Steam, Xbox 360; (Ya disponible); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/es_XL/games/lightning-returns-final-fantasy-xiii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## Decisions

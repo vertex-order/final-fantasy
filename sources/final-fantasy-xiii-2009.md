@@ -5,6 +5,12 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
+## amazon.com (Retail)
+
+- https://www.amazon.com/gp/product/B001CMIUYS -- languages -- accessed 2026-10-28 (checked by user) -- archived: TODO
+  - listing "Final Fantasy XIII: Platinum Hits", platform Xbox 360, language English
+  - a retailer listing field, not definitive (user)
+
 ## Android (Platform)
 
 - https://www.square-enix-games.com/en_US/games/final-fantasy-xiii -- accessed 2026-10-19
@@ -21,6 +27,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
 ## Square Enix (Publisher, Developer)
 
 - https://www.square-enix-games.com/games/final-fantasy-xiii -- accessed 2026-10-19
+- https://eu.finalfantasy.com/titles/finalfantasy13 -- the Final Fantasy portal page (Europe); only story and character details -- accessed 2026-10-28 (checked by user) -- archived: https://web.archive.org/web/20190719192635/https://eu.finalfantasy.com/titles/finalfantasy13
+- https://store.eu.square-enix.com/uk/product/307673 -- the buy link from the portal page (Europe, UK store); the Wayback address https://web.archive.org/web/20190823174118/https://store.eu.square-enix.com/uk/product/307673 is not captured; other regions' store pages may have captures -- accessed 2026-10-28 (checked by user)
 
 ## Steam (Platform)
 
@@ -32,13 +40,21 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Bundled_releases -- dates, platforms -- accessed 2026-09-22
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Branded_subseries -- dates*, platforms* -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Titles -- story, platforms -- accessed 2026-09-22
-- https://wikipedia.org/wiki/Final_Fantasy_XIII
+- https://wikipedia.org/wiki/Final_Fantasy_XIII -- releases -- accessed 2026-10-28 (checked by user)
+  - lists a Japanese and a worldwide release for the PlayStation 3
+  - the Ultimate Hits International version, released in Japan, also contains an "Easy" mode option
 - https://wikipedia.org/wiki/Final_Fantasy_XIII#Versions_and_merchandise
 
 ## Xbox (Platform)
 
 - https://www.xbox.com/games/store/final-fantasy-xiii/9mtv87hfmf43
 - https://www.xbox.com/games/store/final-fantasy-xiii/bsg43bdrn81r
+- https://www.xbox.com/en-US/games/store/FINAL-FANTASY-XIII/BSG43BDRN81R -- languages -- accessed 2026-10-28 (saved page of the live site read by me; the saved page header reads "5 Supported languages") -- archived: TODO
+  - Languages Supported table: English (United States): audio, interface, subtitles; German, Spanish (Spain), French, Italian: interface, subtitles (no audio); the other 33 languages in the table are marked not supported
+- https://www.xbox.com/games/store/final-fantasy-xiii-ultimate-hits-international/BT35RRBKKB99 -- the Xbox 360 International page; no Wayback capture (checked by user, 2026-10-28)
+- http://marketplace.xbox.com/en-US/Product/FINAL-FANTASY-XIII-ULTIMATE-HITS-INTERNATIONAL/66acd000-77fe-1000-9115-d802535107e4 -- the Xbox 360 Marketplace page, United States region (en-US) for the International edition; no Wayback capture (checked by user, 2026-10-28)
+- https://marketplace.xbox.com/en-uS/Product/FINAL-FANTASY-XIII/66acd000-77fe-1000-9115-d802535107e4 -- the Xbox 360 Marketplace page, United States region, under the product name FINAL-FANTASY-XIII with the same product ID -- dates -- accessed 2026-10-28 -- archived: https://web.archive.org/web/20240727114215/https://marketplace.xbox.com/en-uS/Product/FINAL-FANTASY-XIII/66acd000-77fe-1000-9115-d802535107e4
+  - capture of 2024-07-27: original release date 7/19/2010, developer Square Enix, publisher Square Enix, genre Role Playing, feature Dolby Digital; lists no languages
 
 ## otakumode.com (Information)
 
@@ -237,5 +253,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
   - FINAL FANTASY XIII; first listed live (2026-10-28): platforms PS3, Xbox 360, PC; (Disponible maintenant); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/fr_FR/games/final-fantasy-xiii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
       - the page links a French-language trailer for the Steam version: https://www.youtube.com/watch?v=WvVOZjcdGHg -- the trailer shows no voice or text (watched by user, 2026-10-28) -- accessed 2026-10-28 -- archived: TODO
+
+## square-enix-games.com (Publisher; Latin America, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_XL/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Latin America country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Disponible el 30 de octubre de 2025), (End of service)), no genres or ratings
+  - FINAL FANTASY XIII; first listed live (2026-10-28): platforms PS3, Xbox 360, PC; (Ya disponible); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/es_XL/games/final-fantasy-xiii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## Decisions

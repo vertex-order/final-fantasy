@@ -52,13 +52,11 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           languages: [
             { value: 'JA', native: true, voice: true },
             { value: 'EN', voice: true },
-            { value: '…?' },
           ],
-          helpWanted: true,
           platforms: [
-            { key: 'xbox-360', paren: 'Physical; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-ultimate-hits-international/BT35RRBKKB99' },
-            { key: 'xbox-one', paren: '360 compatibility' },
-            { key: 'xbox-xs', paren: '360 compatibility' },
+            { key: 'xbox-360', jpTag: true, paren: 'Physical; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-ultimate-hits-international/BT35RRBKKB99' },
+            { key: 'xbox-one', jpTag: true, paren: '360 compatibility' },
+            { key: 'xbox-xs', jpTag: true, paren: '360 compatibility' },
           ],
           versionDesc: [
             ['This release brings the international build — with its English voice option — to Japan a year after the worldwide launch, and adds an Easy/Normal difficulty toggle. Released as ', { emText: 'Final Fantasy XIII Ultimate Hits International' }, '.'],
@@ -194,6 +192,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           platforms: [
             { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/' },
             { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' },
+            { key: 'xbox-xs', paren: 'FPS Boost; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz' },
             { key: 'android', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20250120170603/https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13_2' },
             { key: 'apple', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20240902075526/https://apps.apple.com/jp/app/final-fantasy-xiii-2/id1033424082', hreflang: 'ja' },
             { key: 'amazon', jpTag: true, terminated: true, paren: 'G-cluster cloud', url: 'https://web.archive.org/web/20161229063201/https://www.amazon.co.jp/%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2GC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-FINAL-FANTASY-XIII-2-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIII-2/dp/B01E56F8Z6', hreflang: 'ja' },
@@ -218,8 +217,8 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           platforms: [
             { key: 'playstation3', paren: 'Physical; Digital', url: 'https://web.archive.org/web/20180220234333/http://store.jp.square-enix.com/item/BLJM_61073.html', hreflang: 'ja' },
             { key: 'xbox-360', paren: 'Physical; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xiii-2/C4Z18B1HM4FZ' },
-            { key: 'xbox-one', paren: '360 compatibility' },
-            { key: 'xbox-xs', paren: '360 compatibility' },
+            { key: 'xbox-one', paren: '360 compatibility; Enhanced' },
+            { key: 'xbox-xs', paren: '360 compatibility; FPS Boost' },
           ],
           versionDesc: [
             'The original release. Gameplay framerate dips as low as 18 fps.',

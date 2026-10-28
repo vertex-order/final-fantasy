@@ -21,10 +21,19 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
 ## Square Enix (Publisher, Developer)
 
 - https://www.square-enix-games.com/games/final-fantasy-xiii-2 -- accessed 2026-10-19
+- https://square-enix-games.com/en_GB/games/final-fantasy-xiii-2/ -- the game page, English (UK) site -- accessed 2026-10-28 (checked by user) -- archived: https://web.archive.org/web/20200816061246/https://square-enix-games.com/en_GB/games/final-fantasy-xiii-2/
+  - capture of 2022-11-01 https://web.archive.org/web/20221101070423/https://www.square-enix-games.com/en_GB/games/final-fantasy-xiii-2 : the store lists PS3, Xbox 360 and Steam; the live page https://www.square-enix-games.com/en_GB/games/final-fantasy-xiii-2 still says the same
+  - links the buy page https://store.eu.square-enix.com/uk/product/307843 (Wayback address https://web.archive.org/web/20200816091302/https://store.eu.square-enix.com/uk/product/307843 is not captured; other regions' store pages may have captures)
+- http://www.finalfantasy13-2game.com/ -- the European official site, a full Flash site -- accessed 2026-10-28 -- archived: https://web.archive.org/web/20150617023721/http://www.finalfantasy13-2game.com/
+  - the capture of 2015-06-17 is only the page shell (it embeds main.swf, which the Wayback Flash player fails to run); the Flash files and settings are recovered from the same capture
+  - settings/settings.xml (https://web.archive.org/web/20150617023721id_/http://www.finalfantasy13-2game.com/settings/settings.xml): a language gate with United Kingdom, United States (redirects to http://na.square-enix.com/ffxiii-2/), France, Deutschland, Italia and España; the site content is per language
+  - content/UK/mainMenuHome.xml and content/FR/mainMenuHome.xml (same capture, id_ form): the site menu in English and French; sections systems, game (info, story), locations, characters, media (screenshots, trailers); no game language list found in the files recovered
+  - the non-Flash fallback loads scripts/ssi/contentAjaxConnector.inc.php; rss/rss_uk.rss is the UK news feed
 
 ## Steam (Platform)
 
 - https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/
+  - accessed 2026-10-28 (checked by user): the page does not call it a remaster; it says "Now Enhanced for Windows PC": including a range of the downloadable content from the original console, plus the choice for either English or Japanese voiceovers, 60 frames-per-second graphics and customizeable rendering resolution (720p, 1080p, and more)
 
 ## wikipedia.org (Information)
 
@@ -32,12 +41,21 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Bundled_releases -- dates, platforms -- accessed 2026-09-22
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Branded_subseries -- dates*, platforms* -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Titles -- story, platforms -- accessed 2026-09-22
-- https://wikipedia.org/wiki/Final_Fantasy_XIII-2
+- https://wikipedia.org/wiki/Final_Fantasy_XIII-2 -- releases, platforms -- accessed 2026-10-28 (checked by user)
+  - the game was added to Xbox One backward compatibility along with its predecessor and sequel in November 2018; it is also Xbox One X Enhanced, displaying in 4K Ultra HD; in November 2021 support for FPS Boost on Xbox Series X/S was added, running at 60 frames per second
+  - PlayStation 3, Xbox 360: JP December 15, 2011; NA January 31, 2012; AU February 2, 2012; EU February 3, 2012
 
 ## Xbox (Platform)
 
 - https://www.xbox.com/games/store/final-fantasy-xiii-2/9mvj3vl1v3vp
 - https://www.xbox.com/games/store/final-fantasy-xiii-2/c4z18b1hm4fz
+- https://www.xbox.com/en-US/games/store/final-fantasy-xiii-2/c4z18b1hm4fz -- platforms -- accessed 2026-10-28 (checked by user) -- archived: TODO
+  - lists Xbox One and Xbox Series X|S, with FPS Boost for Series X|S and Enhanced for Xbox One
+- http://marketplace.xbox.com/en-US/Product/FINAL-FANTASY-XIII-2/66acd000-77fe-1000-9115-d80253510806 -- the Xbox 360 Marketplace address, United States region (en-US), built from the Japanese page's product ID; Wayback gives only a general redirect for this http form (checked by user, 2026-10-28)
+- https://marketplace.xbox.com/en-US/Product/FINAL-FANTASY-XIII-2/66acd000-77fe-1000-9115-d80253510806 -- the same page in its https form -- languages, dates -- accessed 2026-10-28 -- archived: https://web.archive.org/web/20240723002412/https://marketplace.xbox.com/en-US/Product/FINAL-FANTASY-XIII-2/66acd000-77fe-1000-9115-d80253510806
+  - capture of 2024-07-23 (the Xbox 360 Marketplace page, United States region): original release date 1/31/2012, developer Square Enix, publisher Square Enix, genre Role Playing, feature Dolby Digital; the description states "The Games on Demand version supports English, French, Spanish"
+- https://marketplace.xbox.com/en-us/Product/FINAL-FANTASY-XIII-2-Demo/66acd000-77fe-1000-9115-d80253518810 -- the demo page, Xbox 360 Marketplace, United States region -- dates -- accessed 2026-10-28 -- archived: https://web.archive.org/web/20240625081959/https://marketplace.xbox.com/en-us/Product/FINAL-FANTASY-XIII-2-Demo/66acd000-77fe-1000-9115-d80253518810
+  - capture of 2024-06-25: demo release date 1/17/2012, size 1.29 GB, "Download to Xbox 360", links the full game page; lists no languages
 
 ## Android and iOS (Platform; G-cluster cloud apps)
 
@@ -216,6 +234,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
   - FINAL FANTASY XIII-2; first listed live (2026-10-28): platforms PS3, Xbox 360, Steam; (Disponible maintenant); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/fr_FR/games/final-fantasy-xiii-2 -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
       - the page links a French-language trailer for the Steam version: https://www.youtube.com/watch?v=Qa2BR6Vg2M0 -- the trailer shows no voice or text (watched by user, 2026-10-28) -- accessed 2026-10-28 -- archived: TODO
+
+## square-enix-games.com (Publisher; Latin America, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_XL/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Latin America country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Disponible el 30 de octubre de 2025), (End of service)), no genres or ratings
+  - FINAL FANTASY XIII-2; first listed live (2026-10-28): platforms PS3, Xbox 360, PC; (Ya disponible); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/es_XL/games/final-fantasy-xiii-2 -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## Decisions
 

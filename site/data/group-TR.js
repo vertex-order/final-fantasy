@@ -37,9 +37,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, narrativeOrder: 1510
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
-        { value: '…?' },
       ],
-      helpWanted: true,
       profileUrl: 'https://www.square-enix-games.com/games/theatrhythm-final-fantasy-curtain-call',
       ratings: [
         { score: '83', url: 'https://www.metacritic.com/game/theatrhythm-final-fantasy-curtain-call/', key: 'metacritic' },

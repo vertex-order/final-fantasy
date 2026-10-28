@@ -9,6 +9,17 @@
 
 - https://www.metacritic.com/game/theatrhythm-final-fantasy-curtain-call/
 
+## Nintendo (Platform; Nintendo of Europe, United Kingdom)
+
+- https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/THEATRHYTHM-FINAL-FANTASY-CURTAIN-CALL--914385.html -- platform, languages -- accessed 2026-10-28 (text pasted by user) -- archived: TODO
+  - Nintendo 3DS Game Card: system Nintendo 3DS (European version), release date 19/09/2014, age rating PEGI 12, languages: English
+  - Download version (Nintendo 3DS): system Nintendo 3DS (European version), release date 19/09/2014, age rating PEGI 12, languages: English, download size 13408 blocks
+  - the page lists both a physical and a digital version of the game for the European Nintendo 3DS
+- https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-3DS/THEATRHYTHM-FINAL-FANTASY-CURTAIN-CALL--914385.html -- languages -- accessed 2026-10-28 (checked by user) -- archived: TODO
+  - the French-region page repeats the same European release, English only
+- https://www.nintendo.com/de-de/Spiele/Nintendo-3DS-Spiele/THEATRHYTHM-FINAL-FANTASY-CURTAIN-CALL--914385.html -- languages -- accessed 2026-10-28 (checked by user) -- archived: TODO
+  - the German-region page is an announcement that links the European cartridge, which still lists English only
+
 ## Square Enix (Publisher, Developer)
 
 - https://www.square-enix-games.com/games/theatrhythm-final-fantasy-curtain-call -- accessed 2026-10-19
@@ -16,7 +27,8 @@
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Theatrhythm -- dates*, platforms* -- accessed 2026-09-22
-- https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy:_Curtain_Call
+- https://wikipedia.org/wiki/Theatrhythm_Final_Fantasy:_Curtain_Call -- releases -- accessed 2026-10-28 (checked by user)
+  - calls out only a Japanese, a North American and a European release
 
 ## jp.square-enix.com (Publisher; Japan, Nintendo 3DS list, captures of 2012-10-06 to live (2026-10-27))
 
@@ -75,5 +87,12 @@
   - THEATRHYTHM FINAL FANTASY Curtain Call; first listed live (2026-10-28): platforms Nintendo 3DS; (Disponible maintenant); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/fr_FR/games/theatrhythm-final-fantasy-curtain-call -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
       - the page shows a French trailer: https://www.youtube.com/watch?v=N_7Nr4h2Rf8 -- the trailer shows English-language gameplay under French marketing titles superimposed (watched by user, 2026-10-28) -- accessed 2026-10-28 -- archived: TODO
+
+## square-enix-games.com (Publisher; Latin America, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_XL/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Latin America country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Disponible el 30 de octubre de 2025), (End of service)), no genres or ratings
+  - THEATRHYTHM FINAL FANTASY Curtain Call; first listed live (2026-10-28): platforms Nintendo 3DS; (Ya disponible); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/es_XL/games/theatrhythm-final-fantasy-curtain-call -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## Decisions

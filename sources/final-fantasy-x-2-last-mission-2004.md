@@ -116,4 +116,11 @@
       - the page links a French-language trailer for Switch 2: https://www.youtube.com/watch?v=ehwvH5XTofs -- the trailer shows Japanese and English voice gameplay for X-2, no French gameplay clearly shown (watched by user, 2026-10-28) -- accessed 2026-10-28 -- archived: TODO
       - the trailer description links the Nintendo Switch 2 store page https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch-2/FINAL-FANTASY-X-X-2-HD-Remaster-3117022.html -- release date 23/07/2026, age rating PEGI 12, languages: Japonais, Anglais, Espagnol, Français, Allemand, Italien, Coréen, Chinois (text pasted by user, 2026-10-28) -- accessed 2026-10-28 -- archived: TODO
 
+## square-enix-games.com (Publisher; Latin America, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_XL/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Latin America country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Disponible el 30 de octubre de 2025), (End of service)), no genres or ratings
+  - FINAL FANTASY X | X-2 HD Remaster; first listed live (2026-10-28): platforms PlayStation Vita, PS3, PS4, Steam, Nintendo Switch, Xbox One, Xbox Series X|S, Windows, Nintendo Switch 2; (Ya disponible); one card for the HD Remaster of X, X-2 and their bonus content; listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/es_XL/games/final-fantasy-x-x-2-hd-remaster -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions

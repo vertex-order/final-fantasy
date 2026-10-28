@@ -12,6 +12,12 @@
 ## Nintendo (Platform)
 
 - https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/FINAL-FANTASY-EXPLORERS-1079391.html
+- https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-3DS/FINAL-FANTASY-EXPLORERS-1079391.html -- platform, languages -- accessed 2026-10-28 (text pasted by user) -- archived: TODO
+  - Carte de jeu Nintendo 3DS: console Nintendo 3DS (version européenne), date de publication 29/01/2016, classe d'âge PEGI 12, langues: Anglais, Français
+  - Version téléchargeable (Nintendo 3DS): console Nintendo 3DS (version européenne), date de publication 28/01/2016, classe d'âge PEGI 12, langues: Anglais, Français, taille 5016 blocs
+  - the page lists both a physical and a digital version of the game for the European Nintendo 3DS
+- https://www.nintendo.com/de-de/Spiele/Nintendo-3DS-Spiele/FINAL-FANTASY-EXPLORERS-1079391.html -- platform -- accessed 2026-10-28 (checked by user) -- archived: TODO
+  - the German-language display of the European version; a separate German cartridge is unlikely but not confirmed
 
 ## Square Enix (Publisher, Developer)
 
@@ -20,7 +26,8 @@
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Explorers -- dates*, platforms*, tags -- accessed 2026-09-22
-- https://wikipedia.org/wiki/Final_Fantasy_Explorers
+- https://wikipedia.org/wiki/Final_Fantasy_Explorers -- releases -- accessed 2026-10-28 (checked by user)
+  - calls out only a Japanese, a North American and a European release
 
 ## otakumode.com (Information)
 
@@ -98,5 +105,12 @@
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/fr_FR/games with no filter set (the saved page is in French, `lang="fr"`, the Plateformes filter with nothing selected; the page's France country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponible maintenant), a day-first release date, (Bientôt disponible), (Fin de service)), no genres or ratings
   - FINAL FANTASY EXPLORERS; first listed live (2026-10-28): platforms Nintendo 3DS; (Disponible maintenant); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/fr_FR/games/final-fantasy-explorers -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Latin America, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_XL/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Latin America country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Disponible el 30 de octubre de 2025), (End of service)), no genres or ratings
+  - FINAL FANTASY EXPLORERS; first listed live (2026-10-28): platforms Nintendo 3DS; (Ya disponible); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/es_XL/games/final-fantasy-explorers -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## Decisions
