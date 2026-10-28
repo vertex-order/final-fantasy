@@ -195,6 +195,20 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
   - FINAL FANTASY XIII-2; first listed live (2026-10-28): platforms PS3, Xbox 360, Steam; (Out Now); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/en_GB/games/final-fantasy-xiii-2 -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## square-enix-games.com (Publisher; Rest of Europe, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' English (Rest of Europe) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_EU/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's Rest of Europe country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
+  - FINAL FANTASY XIII-2; first listed live (2026-10-28): platforms PS3, Xbox 360, Steam; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_EU/games/final-fantasy-xiii-2 -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Australia & New Zealand, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' English (Australia & New Zealand) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_AU/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's Australia & New Zealand country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
+  - FINAL FANTASY XIII-2; first listed live (2026-10-28): platforms PS3, Xbox 360, Steam; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_AU/games/final-fantasy-xiii-2 -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

@@ -639,6 +639,24 @@
   - Chocobo’s Mystery Dungeon EVERY BUDDY!; first listed live (2026-10-28): platforms PS4, Nintendo Switch; (Out Now); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/en_GB/games/chocobos-mystery-dungeon-every-buddy -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## square-enix-games.com (Publisher; Rest of Europe, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' English (Rest of Europe) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_EU/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's Rest of Europe country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
+  - Chocobo GP; first listed live (2026-10-28): platforms Nintendo Switch; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_EU/games/chocobo-gp -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - Chocobo’s Mystery Dungeon EVERY BUDDY!; first listed live (2026-10-28): platforms PS4, Nintendo Switch; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_EU/games/chocobos-mystery-dungeon-every-buddy -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Australia & New Zealand, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' English (Australia & New Zealand) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_AU/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's Australia & New Zealand country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
+  - Chocobo GP; first listed live (2026-10-28): platforms Nintendo Switch; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_AU/games/chocobo-gp -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - Chocobo’s Mystery Dungeon EVERY BUDDY!; first listed live (2026-10-28): platforms PS4, Nintendo Switch; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_AU/games/chocobos-mystery-dungeon-every-buddy -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.
