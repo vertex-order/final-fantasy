@@ -15,6 +15,7 @@ window.__ffGroupReg['AN'] = { num: 'AN', chronoOrder: 1515, narrativeOrder: 1740
         { value: 'JA', native: true },
       ],
       platforms: [
+        { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'NTT DoCoMo i-mode', url: 'https://web.archive.org/web/20131020014959/http://www.jp.square-enix.com/ff_artniks/', hreflang: 'ja' },
         { key: 'android', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20131219024545/http://jp.apps.gree.net/ja/57737', hreflang: 'ja' },
         { key: 'apple', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20131219024545/http://jp.apps.gree.net/ja/57737', hreflang: 'ja' },
         { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', noResults: true },

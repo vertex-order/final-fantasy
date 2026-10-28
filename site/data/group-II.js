@@ -94,7 +94,7 @@ window.__ffGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 200, 
             { value: 'JA', native: true },
           ],
           platforms: [
-            { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'Digital' },
+            { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'Digital; NTT DoCoMo i-mode' },
           ],
           versionDesc: [
             [{ text: 'This mobile port is based on Remake (2004), with cutscenes, portraits, and bonus content removed. Does not include the ' }, { emLinkText: 'Soul of Rebirth', emLinkUrl: 'https://breezewiki.com/finalfantasy/wiki/Soul_of_Rebirth' }, { text: ' bonus campaign. Released as ' }, { emText: 'Final Fantasy Mobile (2005)' }, { text: '.' }],

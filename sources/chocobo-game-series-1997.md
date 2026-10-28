@@ -487,6 +487,15 @@
     - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.chocodash -- Google Play link, listed 2022-03-16 to 2023-03-16 -- link recorded only -- archived: https://web.archive.org/web/20220316124717/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.chocodash (last listing: https://web.archive.org/web/20230402034019/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.chocodash)
     - https://www.jp.square-enix.com/chocobo_gp/ -- 公式サイト link, listed 2022-03-16 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20220316124717/https://www.jp.square-enix.com/chocobo_gp/
 
+## jp.square-enix.com (Publisher; Japan, i-mode list, captures of 2013-10-20 to 2017-04-01)
+
+- Square Enix Japan's i-mode list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2012-10-08 to 2017-04-01 http://www.jp.square-enix.com/mobile/i/ (the feature-phone menu page for NTT DoCoMo i-mode, titled iモード | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Layout: menu sections 総合サイト (portal sites), 着信メロディ, 待受, ゲーム (from 2013-10-20 also ソーシャル), その他; each item has a thumbnail, a one-line blurb and a 公式サイト (official site) link; no release date, genre, icon or CERO label on any capture; blocks commented out in the page source are not counted as listed
+  - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different)
+  - チョコボのチョコッと農園; menu section ソーシャル; first listed 2013-10-20; listed in every capture from 2013-10-20 to 2017-04-01; not on the captures before 2013-10-20
+    - http://www.jp.square-enix.com/chocobo_nouen/ -- 公式サイト link, listed 2013-10-20 to 2017-04-01 -- link recorded only -- archived: https://web.archive.org/web/20131020014959/http://www.jp.square-enix.com/chocobo_nouen/ (last listing: https://web.archive.org/web/20170401210408/http://www.jp.square-enix.com/chocobo_nouen/)
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

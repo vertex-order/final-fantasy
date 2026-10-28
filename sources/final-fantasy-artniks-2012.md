@@ -53,6 +53,15 @@
   - ファイナルファンタジー アートニクス; ソーシャルRPG; first listed 2013-06-11: release 2012.12.03; icons: none; changes: 2019-03-09: genre ソーシャルRPG to ソーシャルRPG ※サービス終了; listed in every capture from 2013-06-11 to live (2026-10-27) except 2018-06-27
     - http://www.jp.square-enix.com/ff_artniks/ -- 公式サイト link, listed 2013-06-11 to 2014-07-01 -- link recorded only -- archived: https://web.archive.org/web/20130611124444/http://www.jp.square-enix.com/ff_artniks/ (last listing: https://web.archive.org/web/20140701120121/http://www.jp.square-enix.com/ff_artniks/)
 
+## jp.square-enix.com (Publisher; Japan, i-mode list, captures of 2013-10-20 to 2017-04-01)
+
+- Square Enix Japan's i-mode list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2012-10-08 to 2017-04-01 http://www.jp.square-enix.com/mobile/i/ (the feature-phone menu page for NTT DoCoMo i-mode, titled iモード | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Layout: menu sections 総合サイト (portal sites), 着信メロディ, 待受, ゲーム (from 2013-10-20 also ソーシャル), その他; each item has a thumbnail, a one-line blurb and a 公式サイト (official site) link; no release date, genre, icon or CERO label on any capture; blocks commented out in the page source are not counted as listed
+  - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different)
+  - ファイナルファンタジー アートニクス; menu section ソーシャル; first listed 2013-10-20; listed in every capture from 2013-10-20 to 2013-10-20; not on the captures after 2013-10-20; not on the captures before 2013-10-20
+    - http://www.jp.square-enix.com/ff_artniks/ -- 公式サイト link, listed 2013-10-20 -- link recorded only -- archived: https://web.archive.org/web/20131020014959/http://www.jp.square-enix.com/ff_artniks/
+
 ## Decisions
 - GREE is the link for the Android and iOS rows (user, 2026-10-20): the search for direct Play Store and App Store pages is closed, since the game was only available through registration on the GREE website; the rows link the GREE apps page capture of 2013-12-19 and no store page is expected to exist
 - No `by` line (user, 2026-10-20): director Kazunari Itakura and producer Ichiro Hazama are named by zh.wikipedia and thefinalfantasy.net, but the entry carries no credits
