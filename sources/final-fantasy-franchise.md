@@ -450,6 +450,8 @@
 - https://www.jp.square-enix.com/game/?pf=23 -- the GameCube list (platform filter ?pf=23; the model checkbox value is 23, beside a disabled checked 99), live page of 2026-10-28 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 - https://www.jp.square-enix.com/game/?pf=19 -- the PlayStation 2 list (platform filter ?pf=19; the model checkbox value is 19, beside a disabled checked 99), capture of 2023-01-07: https://web.archive.org/web/20230107101112/https://www.jp.square-enix.com/game/?pf=19 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 - the same list (platform filter ?pf=19), live page of 2026-10-28: https://www.jp.square-enix.com/game/?pf=19 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- https://www.jp.square-enix.com/game/?pf=31 -- the WonderSwan list (platform filter ?pf=31; the model checkbox value is 31, beside a disabled checked 99), capture of 2022-09-11: https://web.archive.org/web/20220911034935/https://www.jp.square-enix.com/game/?pf=31 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- the same list (platform filter ?pf=31), live page of 2026-10-28: https://www.jp.square-enix.com/game/?pf=31 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 
