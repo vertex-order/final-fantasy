@@ -119,4 +119,17 @@
   - 魔界塔士 サ・ガ; RPG; first listed 2022-09-11: release 2002.03.20; icons: パッケージ; listed in every capture from 2022-09-11 to live (2026-10-28)
     - https://www.jp.square-enix.com/game/detail/saga/ -- 商品詳細 link, listed 2022-09-11 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20220911034935mp_/https://www.jp.square-enix.com/game/detail/saga/
 
+## jp.square-enix.com (Publisher; Japan, Game Boy list, captures of 2022-10-31 to live (2026-10-28))
+
+- Square Enix Japan's Game Boy game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2022-10-31 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=27 (platform filter 27 = ゲームボーイ; the saved pages show the model checkbox value 27 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: the labels as images: ゲームボーイ (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
+  - Link labels: 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - 魔界塔士 サ・ガ; RPG; first listed 2022-10-31: release 1989.12.15; icons: パッケージ; listed in every capture from 2022-10-31 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/saga/ -- 商品詳細 link, listed 2022-10-31 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20221031075528mp_/https://www.jp.square-enix.com/game/detail/saga/
+  - サ・ガ2 秘宝伝説; RPG; first listed 2022-10-31: release 1990.12.14; icons: パッケージ; listed in every capture from 2022-10-31 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/saga2/ -- 商品詳細 link, listed 2022-10-31 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20221031075528mp_/https://www.jp.square-enix.com/game/detail/saga2/
+  - 時空の覇者 サ・ガ3 ［完結編］; RPG; first listed 2022-10-31: release 1991.12.13; icons: パッケージ; listed in every capture from 2022-10-31 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/saga3/ -- 商品詳細 link, listed 2022-10-31 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20221031075528mp_/https://www.jp.square-enix.com/game/detail/saga3/
+
 ## Decisions
