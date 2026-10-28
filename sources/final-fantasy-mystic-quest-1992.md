@@ -55,4 +55,13 @@
     - http://dlgames.square-enix.com/jp/vc/2010/mystic_quest/ -- 公式サイト link (the title links here too), listed 2013-06-26 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20130626122610/http://dlgames.square-enix.com/jp/vc/2010/mystic_quest/ (last listing: https://web.archive.org/web/20171201221325/http://dlgames.square-enix.com/jp/vc/2010/mystic_quest/) (live page: TODO)
     - https://www.jp.square-enix.com/game/detail/ffusa/ -- 商品詳細 link, listed live (2026-10-27) -- link recorded only -- archived: TODO
 
+## jp.square-enix.com (Publisher; Japan, Super Famicom list, captures of 2021-08-11 to live (2026-10-28))
+
+- Square Enix Japan's Super Famicom game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2021-08-11 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=26 (platform filter 26 = スーパーファミコン; the saved pages show the model checkbox value 26 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: the labels as images: スーパーファミコン (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
+  - Link labels: 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジーUSA ミスティッククエスト; RPG; first listed 2021-08-11: release 1993.09.10; icons: パッケージ; listed in every capture from 2021-08-11 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/ffusa/ -- 商品詳細 link, listed 2021-08-11 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20210811155007mp_/https://www.jp.square-enix.com/game/detail/ffusa/
+
 ## Decisions
