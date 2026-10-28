@@ -468,6 +468,13 @@
 - https://www.jp.square-enix.com/game/?s=9 -- the Steam list (search filter ?s=9 = Steam; the checkbox value is 9, result heading Steam), live page of 2026-10-28 (the saved page's own address is https://www.jp.square-enix.com/game/) -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 - https://www.jp.square-enix.com/game/?pf=14 -- the Arcade list (platform filter ?pf=14; the model checkbox value is 14, beside a disabled checked 99), live page of 2026-10-28 (the saved page's own address is https://www.jp.square-enix.com/game/) -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 
+## square-enix-games.com (Publisher; Square Enix Games, North America)
+
+- https://www.square-enix-games.com/en_US/games -- the English (US) game list, platform filter PC (the saved page shows "Platform (1)"; the saved file does not record the page's own address), live page of 2026-10-28 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- the same list, platform filter PS3 (the saved page shows "Platform (1)"), live page of 2026-10-28 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- the same list, platform filter PS4 (the saved page shows "Platform (1)"), live page of 2026-10-28 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- the same list, no filter (144 titles), live page of 2026-10-28 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 
 - http://www.square-enix.co.jp/smart/market/ -- SQUARE ENIX MARKET, Square Enix's portal for Android phones in Japan, first working capture 2012-02-04: https://web.archive.org/web/20120204205708/http://www.square-enix.co.jp/smart/market/ -- visited and audited -- accessed 2026-10-25 (raw HTML read by me; a capture of 2016-03-13, https://web.archive.org/web/20160313074848/http://www.square-enix.co.jp/smart/market/, also loads and was not read)

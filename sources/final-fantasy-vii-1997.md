@@ -247,6 +247,20 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - ファイナルファンタジーVII; RPG; first listed live (2026-10-28): release 2026.02.25(Steam); icons: ダウンロード; CERO B; listed on the capture of live (2026-10-28) only
     - https://store.steampowered.com/app/3837340/ -- Steam link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## square-enix-games.com (Publisher; North America, Games list, PS4 filter, live page of 2026-10-28)
+
+- Square Enix Games' English (US) game list filtered by platform PS4 -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with the platform filter set to PS4 (the saved page shows the filter "Platform (1)", and every card lists PS4; its links use the en_US locale; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 88 titles, each with platform names and "(Out Now)", no dates, genres or ratings
+  - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_US/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; North America, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' English (US) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with no filter set (the saved page shows the Platform filter with nothing selected; its links use the en_US locale; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 144 titles, each with platform names and a status ((Out Now), a release date, (Coming Soon), (End of service)), no genres or ratings
+  - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_US/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

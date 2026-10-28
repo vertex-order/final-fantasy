@@ -280,6 +280,26 @@ square-enix-games.com (Publisher, official)
     - https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/ -- Steam link, listed live (2026-10-28) -- link recorded only -- archived: TODO
     - https://www.jp.square-enix.com/ff15/PC/ -- 公式サイト link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## square-enix-games.com (Publisher; North America, Games list, PS4 filter, live page of 2026-10-28)
+
+- Square Enix Games' English (US) game list filtered by platform PS4 -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with the platform filter set to PS4 (the saved page shows the filter "Platform (1)", and every card lists PS4; its links use the en_US locale; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 88 titles, each with platform names and "(Out Now)", no dates, genres or ratings
+  - FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, Xbox Series X|S, Windows; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_US/games/final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION HD; first listed live (2026-10-28): platforms PS4, Xbox One, Nintendo Switch; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_US/games/final-fantasy-xv-pocket-edition-hd -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; North America, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' English (US) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with no filter set (the saved page shows the Platform filter with nothing selected; its links use the en_US locale; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 144 titles, each with platform names and a status ((Out Now), a release date, (Coming Soon), (End of service)), no genres or ratings
+  - FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, Xbox Series X|S, Windows; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_US/games/final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION; first listed live (2026-10-28): platforms iPhone, Android, iPad, Windows Phone; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_US/games/final-fantasy-xv-pocket-edition -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XV POCKET EDITION HD; first listed live (2026-10-28): platforms PS4, Xbox One, Nintendo Switch; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_US/games/final-fantasy-xv-pocket-edition-hd -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations

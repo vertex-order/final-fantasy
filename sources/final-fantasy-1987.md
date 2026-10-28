@@ -458,6 +458,20 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
     - https://store.steampowered.com/app/1173770/FINAL_FANTASY/ -- Steam link, listed live (2026-10-28) -- link recorded only -- archived: TODO
     - https://www.jp.square-enix.com/game/detail/ff/ -- 商品詳細 link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## square-enix-games.com (Publisher; North America, Games list, PS4 filter, live page of 2026-10-28)
+
+- Square Enix Games' English (US) game list filtered by platform PS4 -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with the platform filter set to PS4 (the saved page shows the filter "Platform (1)", and every card lists PS4; its links use the en_US locale; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 88 titles, each with platform names and "(Out Now)", no dates, genres or ratings
+  - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Out Now); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
+    - https://finalfantasypixelremaster.square-enix-games.com/en_US -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; North America, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' English (US) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with no filter set (the saved page shows the Platform filter with nothing selected; its links use the en_US locale; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 144 titles, each with platform names and a status ((Out Now), a release date, (Coming Soon), (End of service)), no genres or ratings
+  - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Out Now); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
+    - https://finalfantasypixelremaster.square-enix-games.com/en_US -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

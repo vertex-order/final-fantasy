@@ -108,4 +108,18 @@
   - ディシディア ファイナルファンタジー; オンライン・パーティ対戦型アクションゲーム ※ネットワークサービス終了; first listed live (2026-10-28): release (none stated); icons: アーケード; listed on the capture of live (2026-10-28) only
     - http://www.jp.square-enix.com/DFF/ -- 公式サイト link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## square-enix-games.com (Publisher; North America, Games list, PS4 filter, live page of 2026-10-28)
+
+- Square Enix Games' English (US) game list filtered by platform PS4 -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with the platform filter set to PS4 (the saved page shows the filter "Platform (1)", and every card lists PS4; its links use the en_US locale; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 88 titles, each with platform names and "(Out Now)", no dates, genres or ratings
+  - DISSIDIA FINAL FANTASY NT; first listed live (2026-10-28): platforms PS4, Steam; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_US/games/dissidia-final-fantasy-nt -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; North America, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' English (US) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with no filter set (the saved page shows the Platform filter with nothing selected; its links use the en_US locale; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 144 titles, each with platform names and a status ((Out Now), a release date, (Coming Soon), (End of service)), no genres or ratings
+  - DISSIDIA FINAL FANTASY NT; first listed live (2026-10-28): platforms PS4, Steam; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_US/games/dissidia-final-fantasy-nt -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions

@@ -208,4 +208,11 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - ファイナルファンタジーIV コンプリートコレクション; RPG; first listed 2023-09-28: release 2012.07.05; icons: ダウンロード, パッケージ, プレイステーション・ポータブル; CERO A; listed in every capture from 2023-09-28 to live (2026-10-28)
     - https://www.jp.square-enix.com/game/detail/ff4cc/ -- 商品詳細 link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230928143327mp_/https://www.jp.square-enix.com/game/detail/ff4cc/
 
+## square-enix-games.com (Publisher; North America, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' English (US) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with no filter set (the saved page shows the Platform filter with nothing selected; its links use the en_US locale; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 144 titles, each with platform names and a status ((Out Now), a release date, (Coming Soon), (End of service)), no genres or ratings
+  - FINAL FANTASY IV: The After Years; first listed live (2026-10-28): platforms Steam, iOS, Android; (Out Now); listed on the capture of live (2026-10-28) only
+    - http://dlgames.square-enix.com/ff/ff4tay/en/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions

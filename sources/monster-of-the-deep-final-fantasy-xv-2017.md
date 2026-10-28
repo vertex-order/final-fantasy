@@ -43,4 +43,18 @@
     - https://store.playstation.com/ja-jp/product/JP0082-CUSA08610_00-FFXVVR0000000000 -- PlayStation Store link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230921045724/https://store.playstation.com/ja-jp/product/JP0082-CUSA08610_00-FFXVVR0000000000
     - https://www.jp.square-enix.com/ff15/vr/ -- 公式サイト link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230921045724/https://www.jp.square-enix.com/ff15/vr/
 
+## square-enix-games.com (Publisher; North America, Games list, PS4 filter, live page of 2026-10-28)
+
+- Square Enix Games' English (US) game list filtered by platform PS4 -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with the platform filter set to PS4 (the saved page shows the filter "Platform (1)", and every card lists PS4; its links use the en_US locale; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 88 titles, each with platform names and "(Out Now)", no dates, genres or ratings
+  - MONSTER OF THE DEEP: FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_US/games/monster-of-the-deep-final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; North America, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' English (US) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with no filter set (the saved page shows the Platform filter with nothing selected; its links use the en_US locale; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 144 titles, each with platform names and a status ((Out Now), a release date, (Coming Soon), (End of service)), no genres or ratings
+  - MONSTER OF THE DEEP: FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_US/games/monster-of-the-deep-final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions

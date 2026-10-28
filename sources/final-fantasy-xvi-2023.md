@@ -93,4 +93,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XVI_version_diffe
     - https://store.steampowered.com/app/2515020/ -- Steam link, listed live (2026-10-28) -- link recorded only -- archived: TODO
     - https://jp.finalfantasyxvi.com/ -- 公式サイト link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## square-enix-games.com (Publisher; North America, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' English (US) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with no filter set (the saved page shows the Platform filter with nothing selected; its links use the en_US locale; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 144 titles, each with platform names and a status ((Out Now), a release date, (Coming Soon), (End of service)), no genres or ratings
+  - FINAL FANTASY XVI; first listed live (2026-10-28): platforms PS5, Steam, Epic Games Store, Xbox Series X|S; (Out Now); listed on the capture of live (2026-10-28) only
+    - https://na.finalfantasyxvi.com/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
