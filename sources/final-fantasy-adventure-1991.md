@@ -146,6 +146,16 @@ square-enix.com and stores (Publisher)
   - 聖剣伝説 －ファイナルファンタジー外伝－; menu section ゲーム; first listed 2012-10-08; listed in every capture from 2012-10-08 to 2017-04-01
     - http://www.square-enix.co.jp/mobile/seiken/sdff/ -- 公式サイト link, listed 2012-10-08 to 2017-04-01 -- link recorded only -- archived: https://web.archive.org/web/20121008085058/http://www.square-enix.co.jp/mobile/seiken/sdff/ (last listing: https://web.archive.org/web/20170401210413/http://www.square-enix.co.jp/mobile/seiken/sdff/)
 
+## jp.square-enix.com (Publisher; Japan, Game Boy Advance list, capture of live (2026-10-28))
+
+- Square Enix Japan's Game Boy Advance game list -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?pf=24 (platform filter 24 = Game Boy Advance; the model checkbox value is 24, beside a disabled checked 99); only the live page is saved, no Wayback capture read
+  - Icons: the labels as images: ゲームボーイアドバンス (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
+  - Link labels: 商品詳細 (detail page); links of the live page have no archive
+  - 新約 聖剣伝説（デラックスパック）; アクションRPG; first listed live (2026-10-28): release 2003.08.29; icons: パッケージ; listed on the capture of live (2026-10-28) only
+    - Sword of Mana (GBA 2003), the remake with the Final Fantasy elements removed; out of scope, no entry (user, 2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/s_seiken/ -- 商品詳細 link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

@@ -446,6 +446,7 @@
 - the same list in its later layout, capture of 2019-05-19: https://web.archive.org/web/20190519081904/https://www.jp.square-enix.com/game/?pf=13 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list in its later layout, capture of 2023-04-21: https://web.archive.org/web/20230421081908/https://www.jp.square-enix.com/game/?pf=13 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list (platform filter ?pf=13), live page of 2026-10-27: https://www.jp.square-enix.com/game/?pf=13 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- https://www.jp.square-enix.com/game/?pf=24 -- the Game Boy Advance list (platform filter ?pf=24; the model checkbox value is 24, beside a disabled checked 99), live page of 2026-10-28 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 

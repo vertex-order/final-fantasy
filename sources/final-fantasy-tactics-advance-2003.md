@@ -50,4 +50,13 @@
     - https://www.nintendo.co.jp/titles/20010000021488 -- 任天堂ホームページ link, listed 2019-06-26 to 2023-01-07 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://www.nintendo.co.jp/titles/20010000021488 (last listing: https://web.archive.org/web/20230107093749/https://www.nintendo.co.jp/titles/20010000021488)
     - https://www.jp.square-enix.com/game/detail/ffta/ -- 商品詳細 link, listed 2019-06-26 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20190626191855mp_/https://www.jp.square-enix.com/game/detail/ffta/ (last listing: https://web.archive.org/web/20230107120441mp_/https://www.jp.square-enix.com/game/detail/ffta/)
 
+## jp.square-enix.com (Publisher; Japan, Game Boy Advance list, capture of live (2026-10-28))
+
+- Square Enix Japan's Game Boy Advance game list -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?pf=24 (platform filter 24 = Game Boy Advance; the model checkbox value is 24, beside a disabled checked 99); only the live page is saved, no Wayback capture read
+  - Icons: the labels as images: ゲームボーイアドバンス (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
+  - Link labels: 商品詳細 (detail page); links of the live page have no archive
+  - ファイナルファンタジータクティクス アドバンス（アルティメット ヒッツ）; シミュレーションRPG; first listed live (2026-10-28): release 2006.03.09; icons: パッケージ; CERO A; listed on the capture of live (2026-10-28) only
+    - https://www.jp.square-enix.com/game/detail/ffta/ -- 商品詳細 link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions

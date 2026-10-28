@@ -533,6 +533,15 @@
   - チョコボコレクション; チョコボスタリオン/育成シミュレーション チョコボレーシング/レース ダイスDEチョコボ/ボードゲーム; platform section プレイステーション; first listed 2013-06-06: release 1999.12.22; icons: none; listed in every capture from 2013-06-06 to 2016-12-22; not on the captures after 2016-12-22
     - http://www.jp.square-enix.com/archive/chocobo_collection/ -- 商品詳細 link, listed 2013-06-06 to 2016-12-22 -- link recorded only -- archived: https://web.archive.org/web/20130606035128/http://www.jp.square-enix.com/archive/chocobo_collection/ (last listing: https://web.archive.org/web/20161222213809/http://www.jp.square-enix.com/archive/chocobo_collection/)
 
+## jp.square-enix.com (Publisher; Japan, Game Boy Advance list, capture of live (2026-10-28))
+
+- Square Enix Japan's Game Boy Advance game list -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?pf=24 (platform filter 24 = Game Boy Advance; the model checkbox value is 24, beside a disabled checked 99); only the live page is saved, no Wayback capture read
+  - Icons: the labels as images: ゲームボーイアドバンス (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
+  - Link labels: 商品詳細 (detail page); links of the live page have no archive
+  - チョコボランド; ボードゲーム; first listed live (2026-10-28): release 2002.12.13; icons: パッケージ; listed on the capture of live (2026-10-28) only
+    - https://www.jp.square-enix.com/game/detail/chocoboland/ -- 商品詳細 link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

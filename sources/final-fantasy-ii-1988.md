@@ -300,6 +300,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
   - ファイナルファンタジーI・II プレミアムパッケージ; RPG; platform section プレイステーション; first listed 2013-06-06: release 2002.10.31; icons: none; listed in every capture from 2013-06-06 to 2016-12-22; not on the captures after 2016-12-22
     - http://www.jp.square-enix.com/archive/ff1-2_premiumpackage/ -- 商品詳細 link, listed 2013-06-06 to 2016-12-22 -- link recorded only -- archived: https://web.archive.org/web/20130606035128/http://www.jp.square-enix.com/archive/ff1-2_premiumpackage/ (last listing: https://web.archive.org/web/20161222213809/http://www.jp.square-enix.com/archive/ff1-2_premiumpackage/)
 
+## jp.square-enix.com (Publisher; Japan, Game Boy Advance list, capture of live (2026-10-28))
+
+- Square Enix Japan's Game Boy Advance game list -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?pf=24 (platform filter 24 = Game Boy Advance; the model checkbox value is 24, beside a disabled checked 99); only the live page is saved, no Wayback capture read
+  - Icons: the labels as images: ゲームボーイアドバンス (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
+  - Link labels: 商品詳細 (detail page); links of the live page have no archive
+  - ファイナルファンタジーI・II アドバンス; RPG; first listed live (2026-10-28): release 2004.07.29; icons: パッケージ; listed on the capture of live (2026-10-28) only
+    - https://www.jp.square-enix.com/game/detail/ff1-2a/ -- 商品詳細 link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)
