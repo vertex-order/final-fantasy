@@ -122,6 +122,25 @@
       - http://itunes.apple.com/jp/app/itadakisutorito-for-smartphone/id485548636?mt=8 -- App Store link on that page -- link recorded only -- archived: https://web.archive.org/web/20171015123203/https://itunes.apple.com/jp/app/itadakisutorito-for-smartphone/id485548636?mt=8 (first capture of the id: https://web.archive.org/web/20120324170118/http://itunes.apple.com:80/jp/app/itadakisutorito-for-smartphone/id485548636?)
       - http://www.square-enix.co.jp/smart/market/ -- SQUARE ENIX Market link on that page -- link recorded only -- archived: https://web.archive.org/web/20121024025820/http://www.square-enix.co.jp/smart/market/
 
+## Itadaki Street series: titles with Final Fantasy characters, and titles without
+
+Source: https://wikipedia.org/wiki/Itadaki_Street (Games table; text pasted by user) -- accessed 2026-10-28
+
+With Final Fantasy characters (in scope):
+- Dragon Quest & Final Fantasy in Itadaki Street Special -- 2004-12-22 -- PlayStation 2
+- Dragon Quest & Final Fantasy in Itadaki Street Portable -- 2006-05-25 -- PlayStation Portable
+- Dragon Quest & Final Fantasy in Itadaki Street Mobile -- 2010-07-01 -- mobile phones (Final Fantasy characters from many games, including Lightning of XIII)
+- Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary -- 2017-10-19 -- PlayStation 4, PlayStation Vita
+
+Without Final Fantasy characters (out of scope):
+- Itadaki Street: Watashi no Omise ni Yottette -- 1991-03-21 -- Family Computer
+- Itadaki Street 2: Neon Sign wa Bara Iro ni -- 1994-02-26 -- Super Famicom
+- Itadaki Street: Gorgeous King -- 1998-09-23 -- PlayStation
+- Itadaki Street 3 Okumanchouja ni Shite Ageru: Kateikyoushi Tsuki -- 2002-02-28 -- PlayStation 2; the table names no Final Fantasy characters- Itadaki Street DS -- 2007-06-21 -- Nintendo DS; Dragon Quest and Mario characters
+- Itadaki Street Mobile -- 2007-10-01 -- mobile phones; no branded characters from any franchise
+- Itadaki Street Wii (Fortune Street in North America, Boom Street in Europe) -- 2011-12-01 Japan, 2011-12-05 North America, 2011-12-23 Europe, 2012-01-05 Australia -- Wii; Dragon Quest and Mario characters
+- Itadaki Street for Smartphone (Fortune Street Smart, Boom Street Smart) -- 2012-01-23 Japan, 2012-05-31 worldwide -- Android, iOS; no licensed characters from Dragon Quest, Final Fantasy or Mario
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
@@ -157,3 +176,12 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
     - http://www.jp.square-enix.com/archive/itastsp/ -- 商品詳細 link, listed 2013-06-06 to 2016-12-22 -- link recorded only -- archived: https://web.archive.org/web/20130606035128/http://www.jp.square-enix.com/archive/itastsp/ (last listing: https://web.archive.org/web/20161222213809/http://www.jp.square-enix.com/archive/itastsp/)
   - アルティメットヒッツ ドラゴンクエスト＆ファイナルファンタジー in いただきストリート Special; ボードゲーム; platform section プレイステーション2; first listed 2013-06-06: release 2008.06.26; icons: none; listed in every capture from 2013-06-06 to 2016-12-22; not on the captures after 2016-12-22
     - http://www.square-enix.co.jp/uh/ -- 公式サイト link, listed 2013-06-06 to 2016-12-22 -- link recorded only -- archived: https://web.archive.org/web/20130606035128/http://www.square-enix.co.jp/uh/ (last listing: https://web.archive.org/web/20161222213809/http://www.square-enix.co.jp/uh/)
+
+## jp.square-enix.com (Publisher; Japan, PlayStation 2 list, captures of 2023-01-07 to live (2026-10-28))
+
+- Square Enix Japan's PlayStation 2 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2023-01-07 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=19 (platform filter 19 = プレイステーション2; the saved pages show the model checkbox value 19 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: the labels as images: プレイステーション2 (the model, not repeated below), パッケージ (sold as a package), オンライン専用 (online only), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown. Genre notes such as ※PS2/X360サービス終了 (PS2 and Xbox 360 service ended) are part of the genre text
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ドラゴンクエスト＆ファイナルファンタジー in いただきストリート Special（アルティメット ヒッツ）; ボードゲーム; first listed 2023-01-07: release 2008.06.26; icons: パッケージ; CERO A; listed in every capture from 2023-01-07 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/itastsp/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230107101112mp_/https://www.jp.square-enix.com/game/detail/itastsp/

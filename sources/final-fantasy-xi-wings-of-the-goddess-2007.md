@@ -41,4 +41,13 @@
   - ファイナルファンタジーXI アルタナの神兵 拡張データディスク; MMORPG; platform section プレイステーション2; note: サービス終了 ※windows版はサービス継続中; first listed 2016-12-22: release 2007.11.22; icons: オンライン専用; listed on the capture of 2016-12-22 only; not on the captures after 2016-12-22
     - http://www.playonline.com/ff11/ -- 公式サイト link, listed 2016-12-22 -- link recorded only -- archived: https://web.archive.org/web/20161222213809/http://www.playonline.com/ff11/
 
+## jp.square-enix.com (Publisher; Japan, PlayStation 2 list, captures of 2023-01-07 to live (2026-10-28))
+
+- Square Enix Japan's PlayStation 2 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2023-01-07 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=19 (platform filter 19 = プレイステーション2; the saved pages show the model checkbox value 19 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: the labels as images: プレイステーション2 (the model, not repeated below), パッケージ (sold as a package), オンライン専用 (online only), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown. Genre notes such as ※PS2/X360サービス終了 (PS2 and Xbox 360 service ended) are part of the genre text
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジーXI アルタナの神兵 拡張データディスク; MMORPG ※PS2/X360サービス終了; first listed 2023-01-07: release 2007.11.22; icons: オンライン専用, パッケージ; CERO B; listed in every capture from 2023-01-07 to live (2026-10-28)
+    - http://www.playonline.com/ff11/ -- 公式サイト link, listed 2023-01-07 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230107093749/http://www.playonline.com/ff11/
+
 ## Decisions

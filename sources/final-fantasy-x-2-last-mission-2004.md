@@ -47,4 +47,13 @@
   - アルティメットヒッツ ファイナルファンタジーX-2 インターナショナル+ラストミッション; RPG; platform section プレイステーション2; first listed 2013-06-06: release 2007.01.25; icons: none; listed in every capture from 2013-06-06 to 2016-12-22; not on the captures after 2016-12-22
     - http://www.square-enix.co.jp/uh/ -- 公式サイト link, listed 2013-06-06 to 2016-12-22 -- link recorded only -- archived: https://web.archive.org/web/20130606035128/http://www.square-enix.co.jp/uh/ (last listing: https://web.archive.org/web/20161222213809/http://www.square-enix.co.jp/uh/)
 
+## jp.square-enix.com (Publisher; Japan, PlayStation 2 list, captures of 2023-01-07 to live (2026-10-28))
+
+- Square Enix Japan's PlayStation 2 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2023-01-07 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=19 (platform filter 19 = プレイステーション2; the saved pages show the model checkbox value 19 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: the labels as images: プレイステーション2 (the model, not repeated below), パッケージ (sold as a package), オンライン専用 (online only), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown. Genre notes such as ※PS2/X360サービス終了 (PS2 and Xbox 360 service ended) are part of the genre text
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - ファイナルファンタジーX-2 インターナショナル+ラストミッション（アルティメット ヒッツ）; RPG; first listed 2023-01-07: release 2007.01.25; icons: パッケージ; CERO B; listed in every capture from 2023-01-07 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/ff10-2inter/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230107101112mp_/https://www.jp.square-enix.com/game/detail/ff10-2inter/
+
 ## Decisions
