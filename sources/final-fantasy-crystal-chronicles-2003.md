@@ -139,4 +139,14 @@
   - ファイナルファンタジー・クリスタルクロニクル; RPG; platform section ゲームキューブ; first listed 2013-06-06: release 2003.08.08; icons: none; listed in every capture from 2013-06-06 to 2016-12-22; not on the captures after 2016-12-22
     - http://www.jp.square-enix.com/archive/ffcc/ -- 商品詳細 link, listed 2013-06-06 to 2016-12-22 -- link recorded only -- archived: https://web.archive.org/web/20130606035128/http://www.jp.square-enix.com/archive/ffcc/ (last listing: https://web.archive.org/web/20161222213809/http://www.jp.square-enix.com/archive/ffcc/)
 
+## jp.square-enix.com (Publisher; Japan, GameCube list, capture of live (2026-10-28))
+
+- Square Enix Japan's GameCube game list -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?pf=23 (platform filter 23 = GameCube; the model checkbox value is 23, beside a disabled checked 99); only the live page is saved, no Wayback capture read
+  - Icons: the labels as images: ゲームキューブ (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon
+  - Link labels: 商品詳細 (detail page); links of the live page have no archive
+  - The page lists one game
+  - ファイナルファンタジー・クリスタルクロニクル; RPG; first listed live (2026-10-28): release 2003.08.08; icons: パッケージ; listed on the capture of live (2026-10-28) only
+    - https://www.jp.square-enix.com/game/detail/ffcc/ -- 商品詳細 link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
