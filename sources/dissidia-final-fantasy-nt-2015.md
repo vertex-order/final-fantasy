@@ -99,4 +99,13 @@
     - https://store.steampowered.com/app/921590/DISSIDIA_FINAL_FANTASY_NT_Free_Edition/ -- Steam link, listed live (2026-10-28) -- link recorded only -- archived: TODO
     - https://www.jp.square-enix.com/dffnt/fe/ -- 公式サイト link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## jp.square-enix.com (Publisher; Japan, Arcade list, capture of live (2026-10-28))
+
+- Square Enix Japan's Arcade game list -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?pf=14 (platform filter 14 = アーケード; the model checkbox value is 14, beside a disabled checked 99; the page's own address is https://www.jp.square-enix.com/game/); only the live page is saved, no Wayback capture read
+  - Icons: the labels as images: アーケード (the model, not repeated below), 購入する (buy button); "none" = no other icon. No release date or CERO label on any item. The genre text carries the service state (※ネットワークサービス終了 network service ended, ※稼働終了 operation ended)
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page); links of the live page have no archive
+  - ディシディア ファイナルファンタジー; オンライン・パーティ対戦型アクションゲーム ※ネットワークサービス終了; first listed live (2026-10-28): release (none stated); icons: アーケード; listed on the capture of live (2026-10-28) only
+    - http://www.jp.square-enix.com/DFF/ -- 公式サイト link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions

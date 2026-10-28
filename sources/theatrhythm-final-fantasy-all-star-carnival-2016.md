@@ -22,4 +22,13 @@
   - シアトリズム ファイナルファンタジー オールスターカーニバル; リズムアクションゲーム ※ネットワークサービス終了; first listed 2023-09-28: release (none stated); icons: アーケード; listed in every capture from 2023-09-28 to live (2026-10-28)
     - http://www.jp.square-enix.com/t_ffac/ -- 公式サイト link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230921045724/http://www.jp.square-enix.com/t_ffac/
 
+## jp.square-enix.com (Publisher; Japan, Arcade list, capture of live (2026-10-28))
+
+- Square Enix Japan's Arcade game list -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?pf=14 (platform filter 14 = アーケード; the model checkbox value is 14, beside a disabled checked 99; the page's own address is https://www.jp.square-enix.com/game/); only the live page is saved, no Wayback capture read
+  - Icons: the labels as images: アーケード (the model, not repeated below), 購入する (buy button); "none" = no other icon. No release date or CERO label on any item. The genre text carries the service state (※ネットワークサービス終了 network service ended, ※稼働終了 operation ended)
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page); links of the live page have no archive
+  - シアトリズム ファイナルファンタジー オールスターカーニバル; リズムアクションゲーム ※ネットワークサービス終了; first listed live (2026-10-28): release (none stated); icons: アーケード; listed on the capture of live (2026-10-28) only
+    - http://www.jp.square-enix.com/t_ffac/ -- 公式サイト link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions

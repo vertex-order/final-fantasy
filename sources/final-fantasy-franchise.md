@@ -466,6 +466,7 @@
 - https://www.jp.square-enix.com/game/?s=2 -- the Final Fantasy franchise search (series filter ?s=2; the series checkbox value is 2, result heading ファイナルファンタジー), capture of 2023-09-28 (the saved page's own address is https://www.jp.square-enix.com/game/): https://web.archive.org/web/20230928143327/https://www.jp.square-enix.com/game/ -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 - the same search (series filter ?s=2), live page of 2026-10-28: https://www.jp.square-enix.com/game/?s=2 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 - https://www.jp.square-enix.com/game/?s=9 -- the Steam list (search filter ?s=9 = Steam; the checkbox value is 9, result heading Steam), live page of 2026-10-28 (the saved page's own address is https://www.jp.square-enix.com/game/) -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- https://www.jp.square-enix.com/game/?pf=14 -- the Arcade list (platform filter ?pf=14; the model checkbox value is 14, beside a disabled checked 99), live page of 2026-10-28 (the saved page's own address is https://www.jp.square-enix.com/game/) -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 
