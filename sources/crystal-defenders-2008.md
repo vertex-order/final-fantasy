@@ -282,6 +282,19 @@
   - クリスタル ガーディアンズ; menu section ゲーム; first listed 2012-10-08; listed in every capture from 2012-10-08 to 2017-04-01
     - http://www.square-enix.co.jp/mobile/ff/cg/ -- 公式サイト link, listed 2012-10-08 to 2017-04-01 -- link recorded only -- archived: https://web.archive.org/web/20121008085058/http://www.square-enix.co.jp/mobile/ff/cg/ (last listing: https://web.archive.org/web/20170401210413/http://www.square-enix.co.jp/mobile/ff/cg/)
 
+## jp.square-enix.com (Publisher; Japan, Final Fantasy franchise list, captures of 2023-09-28 to live (2026-10-28))
+
+- Square Enix Japan's Final Fantasy franchise search (the game list filtered by series) -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2023-09-28 to live (2026-10-28) https://www.jp.square-enix.com/game/?s=2 (series filter 2 = ファイナルファンタジー; the saved pages show the series checkbox value 2 checked and the result heading ファイナルファンタジー; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md; the list covers every platform at once, so each item names its platforms
+  - Icons: the labels as images, platform names first (the models the item is listed for), then パッケージ (sold as a package), ダウンロード / ダウンロード専用 / ダウンロード対応 (download), オンライン専用 (online only), 審査予定 (rating pending), buttons (e-STOREで購入 / e-STOREで予約, PlayStation Store, App Store, Google Play and the like); "none" = no icon. CERO: the label's alt text where shown
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - クリスタル・ディフェンダーズ Plus; ディフェンス・シミュレーション ※配信終了; first listed 2023-09-28: release 2013.02.20; icons: iOS, ダウンロード; listed in every capture from 2023-09-28 to live (2026-10-28)
+  - クリスタル・ディフェンダーズ; ディフェンス・シミュレーション ※スマホ版配信終了; first listed 2023-09-28: release 2011.01.26(Android); icons: Android, Microsoft Store, Xbox 360, iOS, ダウンロード, プレイステーション3, プレイステーション・ポータブル; CERO A; listed in every capture from 2023-09-28 to live (2026-10-28)
+    - https://marketplace.xbox.com/ja-jp/Product/CRYSTAL-DEFENDERS/66acd000-77fe-1000-9115-d80258410989 -- Microsoft Store link, listed 2023-09-28 -- link recorded only -- archived: https://web.archive.org/web/20230921045724/https://marketplace.xbox.com/ja-jp/Product/CRYSTAL-DEFENDERS/66acd000-77fe-1000-9115-d80258410989
+    - https://www.xbox.com/ja-JP/games/store/crystal-defenders/BVCHVG7HM8LG/0001 -- Microsoft Store link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - クリスタル・ディフェンダーズR2; ディフェンス・シミュレーション ※配信終了; first listed 2023-09-28: release 2009.02.24; icons: Wii, ダウンロード; CERO A; listed in every capture from 2023-09-28 to live (2026-10-28)
+  - クリスタル・ディフェンダーズR1; ディフェンス・シミュレーション ※配信終了; first listed 2023-09-28: release 2009.01.27; icons: Wii, ダウンロード; CERO A; listed in every capture from 2023-09-28 to live (2026-10-28)
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it

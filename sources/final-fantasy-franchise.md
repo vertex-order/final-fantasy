@@ -463,6 +463,8 @@
 - the same list (platform filter ?pf=27), live page of 2026-10-28: https://www.jp.square-enix.com/game/?pf=27 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 - https://www.jp.square-enix.com/game/?pf=28 -- the Famicom list (platform filter ?pf=28; the model checkbox value is 28, beside a disabled checked 99), captures of 2022-11-07: https://web.archive.org/web/20221107101636/https://www.jp.square-enix.com/game/?pf=28 and 2026-01-31: https://web.archive.org/web/20260131005035/https://www.jp.square-enix.com/game/?pf=28 -- visited and audited -- accessed 2026-10-28 (saved pages read by me)
 - the same list (platform filter ?pf=28), live page of 2026-10-28: https://www.jp.square-enix.com/game/?pf=28 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- https://www.jp.square-enix.com/game/?s=2 -- the Final Fantasy franchise search (series filter ?s=2; the series checkbox value is 2, result heading ファイナルファンタジー), capture of 2023-09-28 (the saved page's own address is https://www.jp.square-enix.com/game/): https://web.archive.org/web/20230928143327/https://www.jp.square-enix.com/game/ -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- the same search (series filter ?s=2), live page of 2026-10-28: https://www.jp.square-enix.com/game/?s=2 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 
 ## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
 

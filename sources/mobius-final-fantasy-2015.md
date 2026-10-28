@@ -64,4 +64,12 @@
     - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mobiusff_j -- Google Playでダウンロード link, listed 2018-06-27 to 2020-03-12 -- link recorded only -- archived: https://web.archive.org/web/20180627171014/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mobiusff_j (last listing: https://web.archive.org/web/20200312224040/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mobiusff_j)
     - http://www.jp.square-enix.com/MOBIUSFF/ -- 公式サイト link, listed 2018-06-27 to 2020-03-12 -- link recorded only -- archived: https://web.archive.org/web/20180627171014/http://www.jp.square-enix.com/MOBIUSFF/ (last listing: https://web.archive.org/web/20200312224040/http://www.jp.square-enix.com/MOBIUSFF/)
 
+## jp.square-enix.com (Publisher; Japan, Final Fantasy franchise list, captures of 2023-09-28 to live (2026-10-28))
+
+- Square Enix Japan's Final Fantasy franchise search (the game list filtered by series) -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2023-09-28 to live (2026-10-28) https://www.jp.square-enix.com/game/?s=2 (series filter 2 = ファイナルファンタジー; the saved pages show the series checkbox value 2 checked and the result heading ファイナルファンタジー; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md; the list covers every platform at once, so each item names its platforms
+  - Icons: the labels as images, platform names first (the models the item is listed for), then パッケージ (sold as a package), ダウンロード / ダウンロード専用 / ダウンロード対応 (download), オンライン専用 (online only), 審査予定 (rating pending), buttons (e-STOREで購入 / e-STOREで予約, PlayStation Store, App Store, Google Play and the like); "none" = no icon. CERO: the label's alt text where shown
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - メビウス ファイナルファンタジー 破滅の戦士; RPG ※サービス終了; first listed 2023-09-28: release 2018.04.27; icons: Android, Windows, iOS, オンライン専用, ダウンロード; listed in every capture from 2023-09-28 to live (2026-10-28)
+
 ## Decisions
