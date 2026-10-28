@@ -90,7 +90,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
           helpWanted: true,
           platforms: [
             { key: 'playstation1', paren: 'Physical' },
-            { key: 'playstation2', paren: 'PSone compatibility' },
+            { key: 'playstation2', paren: 'Physical; PSone compatibility' },
             { key: 'playstation3', paren: 'Digital; PSone compatibility' },
             { key: 'playstation-portable', paren: 'Digital' },
             { key: 'playstation-vita', paren: 'Digital; PSP compatibility' },
@@ -110,7 +110,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
           helpWanted: true,
           platforms: [
             { key: 'playstation1', paren: 'Physical' },
-            { key: 'playstation2', paren: 'PSone compatibility' },
+            { key: 'playstation2', paren: 'Physical; PSone compatibility' },
             { key: 'playstation3', paren: 'PSone compatibility' },
           ],
           versionDesc: [
@@ -189,7 +189,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
           helpWanted: true,
           platforms: [
             { key: 'playstation1', paren: 'Physical' },
-            { key: 'playstation2', paren: 'PSone compatibility' },
+            { key: 'playstation2', paren: 'Physical; PSone compatibility' },
             { key: 'playstation3', paren: 'Digital; PSone compatibility' },
             { key: 'playstation-portable', paren: 'Digital' },
             { key: 'playstation-vita', paren: 'Digital; PSP compatibility' },
@@ -286,7 +286,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
             { value: 'EN', tip: 'English — voice only', voice: true },
           ],
           platforms: [
-            { key: 'playstation2', jpTag: true },
+            { key: 'playstation2', paren: 'Physical', jpTag: true },
             { key: 'playstation3', paren: 'PS2 compatibility', jpTag: true },
           ],
           versionDesc: [
@@ -303,7 +303,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
           ],
           helpWanted: true,
           platforms: [
-            { key: 'playstation2' },
+            { key: 'playstation2', paren: 'Physical' },
             { key: 'playstation3', paren: 'PS2 compatibility' },
           ],
           versionDesc: [
@@ -379,7 +379,7 @@ window.__ffGroupReg['X'] = { num: 'X', chronoOrder: 1000, narrativeOrder: 1000, 
             { value: 'JA', native: true },
           ],
           platforms: [
-            { key: 'playstation2', jpTag: true },
+            { key: 'playstation2', paren: 'Physical', jpTag: true },
             { key: 'playstation3', paren: 'PS2 compatibility', jpTag: true },
           ],
           versionDesc: [

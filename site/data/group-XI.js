@@ -33,7 +33,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       platforms: [
         { key: 'windows', paren: 'Physical', url: 'https://www.playonline.com/ff11us/' },
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/230330/FINAL_FANTASY_XI_Ultimate_Collection_Seekers_Edition/' },
-        { key: 'playstation2', terminated: true },
+        { key: 'playstation2', terminated: true, paren: 'Physical' },
         { key: 'playstation3', terminated: true, paren: 'PS2 compatibility' },
         { key: 'xbox-360', terminated: true, paren: 'Physical' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy XI base game' },
@@ -54,6 +54,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: [{ value: '33h', tip: 'Solo', join: ' / ' }, { value: '11h', tip: 'Co-op' }],
       platforms: [
         { key: 'windows', paren: 'Physical' },
+        { key: 'playstation2', terminated: true, paren: 'Physical' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy xi rise of the zilart' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'final fantasy xi rise of the zilart', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy xi rise of the zilart' },
@@ -76,6 +77,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: [{ value: '35½h', tip: 'Solo', join: ' / ' }, { value: '16½h', tip: 'Co-op' }],
       platforms: [
         { key: 'windows', paren: 'Physical' },
+        { key: 'playstation2', terminated: true, paren: 'Physical' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy xi Chains of Promathia' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'final fantasy xi Chains of Promathia', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy xi Chains of Promathia' },
@@ -98,6 +100,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: [{ value: '22½h', tip: 'Solo', join: ' / ' }, { value: '14½h', tip: 'Co-op' }],
       platforms: [
         { key: 'windows', paren: 'Physical' },
+        { key: 'playstation2', terminated: true, paren: 'Physical' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy xi Treasures of Aht Urhgan' },
         { key: 'fan-recap', search: 'youtube', searchTitle: 'final fantasy xi Treasures of Aht Urhgan' },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy xi Treasures of Aht Urhgan' },
@@ -120,6 +123,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: [{ value: '40½h', tip: 'Solo', join: ' / ' }, { value: '29h', tip: 'Co-op' }],
       platforms: [
         { key: 'windows', paren: 'Physical' },
+        { key: 'playstation2', terminated: true, paren: 'Physical' },
         { key: 'xbox-360', terminated: true, paren: 'Physical' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', search: 'youtube' },
@@ -139,6 +143,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: [{ value: '43h', tip: 'Solo', join: ' / ' }, { value: '11h', tip: 'Co-op' }],
       platforms: [
         { key: 'windows', paren: 'Physical; Digital' },
+        { key: 'playstation2', terminated: true, paren: 'Physical; Digital' },
         { key: 'xbox-360', terminated: true, paren: 'Physical' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', search: 'youtube' },

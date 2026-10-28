@@ -860,7 +860,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       ],
       length: [{ value: '11½h', tip: 'Main Story', join: ' / ' }, { value: '14h', tip: 'Main + Extra', join: ' / ' }, { value: '34h', tip: 'Completionist' }],
       platforms: [
-        { key: 'playstation2' },
+        { key: 'playstation2', paren: 'Physical' },
         { key: 'playstation3', paren: 'PS2 compatibility' },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'Dirge of Cerberus Final Fantasy VII' },
         { key: 'fan-recap', search: 'youtube', searchTitle: 'Dirge of Cerberus Final Fantasy VII' },
@@ -902,7 +902,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
             { value: 'JA', native: true },
           ],
           platforms: [
-            { key: 'playstation2', jpTag: true },
+            { key: 'playstation2', paren: 'Physical', jpTag: true },
             { key: 'playstation3', paren: 'PS2 compatibility', jpTag: true },
           ],
           versionDesc: [
