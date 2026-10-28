@@ -226,4 +226,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
   - FINAL FANTASY X | X-2 HD Remaster; first listed live (2026-10-28): platforms PlayStation Vita, PS3, PS4, Steam, Nintendo Switch, Xbox One, Xbox Series X|S, Windows, Nintendo Switch 2; (Out Now); one card for the HD Remaster of X, X-2 and their bonus content; listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/en_US/games/final-fantasy-x-x-2-hd-remaster -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## square-enix-games.com (Publisher; United Kingdom, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' English (UK) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_GB/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's United Kingdom country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
+  - FINAL FANTASY X | X-2 HD Remaster; first listed live (2026-10-28): platforms PlayStation Vita, PS3, PS4, Steam, Nintendo Switch, Xbox One, Xbox Series X|S, Windows, Nintendo Switch 2; (Out Now); one card for the HD Remaster of X, X-2 and their bonus content; listed on the capture of live (2026-10-28) only
+    - https://www.square-enix-games.com/en_GB/games/final-fantasy-x-x-2-hd-remaster -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions

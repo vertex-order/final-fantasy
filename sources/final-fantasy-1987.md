@@ -472,6 +472,13 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Out Now); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_US -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## square-enix-games.com (Publisher; United Kingdom, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' English (UK) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_GB/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's United Kingdom country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
+  - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Out Now); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
+    - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)
