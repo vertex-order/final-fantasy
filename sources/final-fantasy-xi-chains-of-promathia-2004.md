@@ -54,4 +54,13 @@
   - ファイナルファンタジーXI プロマシアの呪縛 オールインワンパック2004; MMORPG ※PS2サービス終了; first listed 2023-09-28: release 2004.09.16; icons: Windows, オンライン専用, パッケージ, プレイステーション2; CERO B; listed in every capture from 2023-09-28 to live (2026-10-28)
   - ファイナルファンタジーXI プロマシアの呪縛 拡張データディスク; MMORPG ※PS2サービス終了; first listed 2023-09-28: release 2004.09.16; icons: Windows, オンライン専用, パッケージ, プレイステーション2; CERO B; listed in every capture from 2023-09-28 to live (2026-10-28)
 
+## ja.wikipedia.org (Information; PlayStation 2 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2004年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110833801 of 2026-08-30); archived: TODO
+  - Lists the games released in Japan for PlayStation 2 (2004; date, title, publisher, note)
+  - Row (発売されたタイトル, 2004年): ファイナルファンタジーXI プロマシアの呪縛; 2004-09-16; スクウェア・エニックス; note: 拡張データディスク; 単体での動作はしない (bold); オンライン専用; 同日『プレイオンライン/ファイナルファンタジーXI オールインワンパック2004』発売; サービス終了済み
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111510836 of 2026-10-25); archived: TODO
+  - Index page of the PlayStation 2 game title list: summary, links to the per-year lists, and the tables for 2008 to 2013 and the unreleased titles (date, title, publisher, note)
+  - Row (2009年): プレイオンライン/ファイナルファンタジーXI ヴァナ・ディール コレクション2; 2009-11-12; スクウェア・エニックス; note: 『ファイナルファンタジーXI』の拡張ディスクのうち、『ジラートの幻影』から『アルタナの神兵』までの4本を収録
+
 ## Decisions

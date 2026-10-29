@@ -172,4 +172,10 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ナンバリング作品とその続編): ファイナルファンタジーXI（PS2・2002年5月16日、Win、Xbox 360・2006年）
 
+## ja.wikipedia.org (Information; PlayStation 2 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2002年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 109108664 of 2026-04-10); archived: TODO
+  - Lists the games released in Japan for PlayStation 2 (2002; date, title, publisher, note)
+  - Row (発売されたタイトル, 2002年): ファイナルファンタジーXI; 2002-05-16; スクウェア; note: ファイナルファンタジーシリーズ史上初となるオンラインゲーム; サービス終了済み
+
 ## Decisions

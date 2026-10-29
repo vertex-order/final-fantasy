@@ -56,4 +56,13 @@
   - ファイナルファンタジーXI オールインワンパック2006; MMORPG ※PS2/X360サービス終了; first listed 2023-09-28: release 2006.04.20; icons: Windows, Xbox 360, オンライン専用, パッケージ, プレイステーション2; CERO B; listed in every capture from 2023-09-28 to live (2026-10-28)
     - http://www.playonline.com/ff11/ -- 公式サイト link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230921045724/http://www.playonline.com/ff11/
 
+## ja.wikipedia.org (Information; PlayStation 2 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2006年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111233218 of 2026-10-01); archived: TODO
+  - Lists the games released in Japan for PlayStation 2 (2006; date, title, publisher, note)
+  - Row (発売されたタイトル, 2006年): ファイナルファンタジーXI アトルガンの秘宝; 2006-04-20; スクウェア・エニックス; note: オンラインゲーム『ファイナルファンタジーXI』の拡張データディスク; 単体での動作はしない (bold); 同日に『ファイナルファンタジーXI オールインワンパック2006』発売; オンラインサービス終了済み
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111510836 of 2026-10-25); archived: TODO
+  - Index page of the PlayStation 2 game title list: summary, links to the per-year lists, and the tables for 2008 to 2013 and the unreleased titles (date, title, publisher, note)
+  - Row (2009年): プレイオンライン/ファイナルファンタジーXI ヴァナ・ディール コレクション2; 2009-11-12; スクウェア・エニックス; note: 『ファイナルファンタジーXI』の拡張ディスクのうち、『ジラートの幻影』から『アルタナの神兵』までの4本を収録
+
 ## Decisions

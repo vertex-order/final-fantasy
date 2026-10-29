@@ -59,4 +59,10 @@
     - http://www.playonline.com/ff11/ -- 公式サイト link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230921045724/http://www.playonline.com/ff11/
     - https://store.jp.square-enix.com/estore/g/gSEDL-1009/ -- e-STOREで購入 link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; PlayStation 2 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111510836 of 2026-10-25); archived: TODO
+  - Index page of the PlayStation 2 game title list: summary, links to the per-year lists, and the tables for 2008 to 2013 and the unreleased titles (date, title, publisher, note)
+  - Row (2013年): ファイナルファンタジーXI アドゥリンの魔境; 2013-03-27; スクウェア・エニックス; note: 『ファイナルファンタジーXI』の拡張データディスク; 単体での動作はしない (bold); オンライン専用; サービス終了済; the page calls it the last new software released in Japan for PS2
+
 ## Decisions

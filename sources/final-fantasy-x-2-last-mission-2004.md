@@ -165,4 +165,10 @@
   - FINAL FANTASY X | X-2 HD Remaster; first listed live (2026-10-28): platforms PlayStation Vita, PS3, PS4, Steam, Nintendo Switch, Xbox One, Xbox Series X|S, Windows, Nintendo Switch 2; (Právě vychází); one card for the HD Remaster of X, X-2 and their bonus content; listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-x-x-2-hd-remaster -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; PlayStation 2 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2004年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110833801 of 2026-08-30); archived: TODO
+  - Lists the games released in Japan for PlayStation 2 (2004; date, title, publisher, note)
+  - Row (発売されたタイトル, 2004年): ファイナルファンタジーX-2 インターナショナル+ラストミッション; 2004-02-19; スクウェア・エニックス; note: 北米版『ファイナルファンタジーX-2』をもとに、後日談「ラストミッション」を追加した作品
+
 ## Decisions

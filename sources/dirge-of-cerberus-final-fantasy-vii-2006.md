@@ -75,4 +75,13 @@
   - Row (コンピレーション・オブ・ファイナルファンタジーVII): ダージュ オブ ケルベロス ファイナルファンタジーVII（PS2・2006年1月26日）
   - Row (コンピレーション・オブ・ファイナルファンタジーVII): アルティメットヒッツ ダージュ オブ ケルベロス ファイナルファンタジーVII インターナショナル（PS2・2008年9月4日）
 
+## ja.wikipedia.org (Information; PlayStation 2 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2006年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111233218 of 2026-10-01); archived: TODO
+  - Lists the games released in Japan for PlayStation 2 (2006; date, title, publisher, note)
+  - Row (発売されたタイトル, 2006年): ダージュ オブ ケルベロス ファイナルファンタジーVII; 2006-01-26; スクウェア・エニックス; note: 『ファイナルファンタジーVII』のスピンオフ
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111510836 of 2026-10-25); archived: TODO
+  - Index page of the PlayStation 2 game title list: summary, links to the per-year lists, and the tables for 2008 to 2013 and the unreleased titles (date, title, publisher, note)
+  - Row (2008年): アルティメットヒッツ ダージュ オブ ケルベロス ファイナルファンタジーVII インターナショナル; 2008-09-04; スクウェア・エニックス; note: 北米版『ダージュ オブ ケルベロス ファイナルファンタジーVII』をもとにリニューアルした作品
+
 ## Decisions

@@ -319,4 +319,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
   - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
   - Row (配信専用タイトル, 2019年): FINAL FANTASY X/X-2 HD Remaster; 2019-04-11; スクウェア・エニックス; note: Xbox One X Enhanced対応
 
+## ja.wikipedia.org (Information; PlayStation 2 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2003年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111264315 of 2026-10-04); archived: TODO
+  - Lists the games released in Japan for PlayStation 2 (2003; date, title, publisher, note)
+  - Row (発売されたタイトル, 2003年): ファイナルファンタジーX-2; 2003-03-13; スクウェア; note: 『ファイナルファンタジーX』の続編であり、スクウェアにとっては最後のPlayStation2用ソフト
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2004年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110833801 of 2026-08-30); archived: TODO
+  - Lists the games released in Japan for PlayStation 2 (2004; date, title, publisher, note)
+  - Row (発売されたタイトル, 2004年): ファイナルファンタジーX-2 インターナショナル+ラストミッション; 2004-02-19; スクウェア・エニックス; note: 北米版『ファイナルファンタジーX-2』をもとに、後日談「ラストミッション」を追加した作品
+
 ## Decisions

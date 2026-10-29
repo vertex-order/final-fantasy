@@ -342,4 +342,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
   - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
   - Row (配信専用タイトル, 2019年): FINAL FANTASY X/X-2 HD Remaster; 2019-04-11; スクウェア・エニックス; note: Xbox One X Enhanced対応
 
+## ja.wikipedia.org (Information; PlayStation 2 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2000年-2001年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111265692 of 2026-10-04); archived: TODO
+  - Lists the games released in Japan for PlayStation 2 (2000 and 2001; date, title, publisher, note)
+  - Row (2001年): ファイナルファンタジーX; 2001-07-19; スクウェア; note: ファイナルファンタジーシリーズのナンバリング作品第10弾
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2002年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 109108664 of 2026-04-10); archived: TODO
+  - Lists the games released in Japan for PlayStation 2 (2002; date, title, publisher, note)
+  - Row (発売されたタイトル, 2002年): ファイナルファンタジーX インターナショナル; 2002-01-31; スクウェア; no note
+
 ## Decisions

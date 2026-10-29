@@ -271,4 +271,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
   - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
   - Row (配信専用タイトル, 2019年): FINAL FANTASY XII THE ZODIAC AGE; 2019-04-25; スクウェア・エニックス; note: Xbox One X Enhanced対応
 
+## ja.wikipedia.org (Information; PlayStation 2 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2006年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111233218 of 2026-10-01); archived: TODO
+  - Lists the games released in Japan for PlayStation 2 (2006; date, title, publisher, note)
+  - Row (発売されたタイトル, 2006年): ファイナルファンタジーXII; 2006-03-16; スクウェア・エニックス; note: 本体同梱版も同時発売; North America 2006-10-31 (footnote)
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2007年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110833777 of 2026-08-30); archived: TODO
+  - Lists the games released in Japan for PlayStation 2 (2007; date, title, publisher, note)
+  - Row (2007年): ファイナルファンタジーXII インターナショナル ゾディアックジョブシステム; 2007-08-09; スクウェア・エニックス; note: 2006年発売の『ファイナルファンタジーXII』にジョブシステムを追加した作品
+
 ## Decisions
