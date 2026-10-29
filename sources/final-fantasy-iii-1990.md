@@ -529,4 +529,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Footnote 21: 4Gamer.net article of 2012-08-01 announcing Final Fantasy III as an Ouya launch title
   - No Ouya category on the page
 
+## ja.wikipedia.org (Information; NES Classic Edition console article, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ニンテンドークラシックミニ_ファミリーコンピュータ -- platforms*, dates -- accessed 2026-10-29 (revision 110144411 of 2026-07-03; wikitext read through the MediaWiki API); archived: TODO
+  - Console released 2016-11-10 in Japan and Australia, 2016-11-11 in North America and Europe; 30 built-in titles in each version
+  - Section 収録タイトル: one table of 38 rows for both versions; cell colour green = both versions (22), yellow = Japan only (8), red = overseas only (8); columns: Japanese title, overseas title, release year in Japan and overseas, publisher, note
+  - Row (yellow, Japan only): ファイナルファンタジーIII; overseas title (未発売); Japan 1990, overseas (未発売); スクウェア; note 海外版には収録なし (not in the overseas version)
+
 ## Decisions

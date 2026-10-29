@@ -665,6 +665,13 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - Carrier terminals: FOMA 900i series (iアプリ), CDMA 1X WIN terminals (ファイナルファンタジーEZ, EZアプリ BREW), ボーダフォン3G (Vアプリ)
   - The 15 puzzle minigame does not exist in the feature-phone version; the P900i had it pre-installed with no registration needed
 
+## ja.wikipedia.org (Information; NES Classic Edition console article, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ニンテンドークラシックミニ_ファミリーコンピュータ -- platforms*, dates -- accessed 2026-10-29 (revision 110144411 of 2026-07-03; wikitext read through the MediaWiki API); archived: TODO
+  - Console released 2016-11-10 in Japan and Australia, 2016-11-11 in North America and Europe; 30 built-in titles in each version
+  - Section 収録タイトル: one table of 38 rows for both versions; cell colour green = both versions (22), yellow = Japan only (8), red = overseas only (8); columns: Japanese title, overseas title, release year in Japan and overseas, publisher, note
+  - Row (red, overseas only): ファイナルファンタジー; overseas title Final Fantasy; Japan 1987, overseas 1990; スクウェア; note 日本版には収録なし (not in the Japanese version)
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)
