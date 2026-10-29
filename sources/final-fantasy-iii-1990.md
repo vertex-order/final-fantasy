@@ -519,4 +519,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: ファイナルファンタジーIII (リメイク版)
 
+## ja.wikipedia.org (Information; Ouya console article and Final Fantasy III remake article, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Ouya -- platforms*, dates -- accessed 2026-10-29 (revision 111342466 of 2026-10-10); archived: TODO
+  - No Japanese list of Ouya titles or Ouya category; "関連項目" links only en:List of Ouya software
+  - Developer section: announcement of the Final Fantasy III release (refs: Square Enix press item "スクウェア・エニックス、新ゲームプラットフォーム「OUYA」向けに「ファイナルファンタジーIII」を提供"; a news item on the Japan launch of the Android-based console)
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIII_(リメイク版) -- platforms*, dates -- accessed 2026-10-29 (revision 111454378 of 2026-10-20); archived: TODO
+  - Infobox: "Ouya: 2013年4月"; Ouya version section: released April 2013 as one of the console's launch titles
+  - Footnote 21: 4Gamer.net article of 2012-08-01 announcing Final Fantasy III as an Ouya launch title
+  - No Ouya category on the page
+
 ## Decisions
