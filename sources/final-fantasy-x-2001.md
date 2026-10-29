@@ -351,4 +351,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
   - Lists the games released in Japan for PlayStation 2 (2002; date, title, publisher, note)
   - Row (発売されたタイトル, 2002年): ファイナルファンタジーX インターナショナル; 2002-01-31; スクウェア; no note
 
+## ja.wikipedia.org (Information; PlayStation 3 game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_3のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111327003 of 2026-10-09); archived: TODO
+  - Lists the games released in Japan for PlayStation 3 in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, online column (オ: ○ = dedicated online title), 3D column, note
+  - Row (パッケージタイトル, 2013年): ファイナルファンタジーX/X-2 HDリマスター; 2013-12-26; スクウェア・エニックス; no note
+
 ## Decisions

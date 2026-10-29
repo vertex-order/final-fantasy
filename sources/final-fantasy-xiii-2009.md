@@ -317,4 +317,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
   - Row (ナンバリング作品とその続編): ファイナルファンタジーXIII（PS3・2009年12月17日、Xbox 360・2010年、Win、iOS、Android、G-cluster、ひかりTVゲーム）
   - Row (ナンバリング作品とその続編): ファイナルファンタジーXIII アルティメット ヒッツ インターナショナル（Xbox 360・2010年12月16日）
 
+## ja.wikipedia.org (Information; PlayStation 3 game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_3のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111327003 of 2026-10-09); archived: TODO
+  - Lists the games released in Japan for PlayStation 3 in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, online column (オ: ○ = dedicated online title), 3D column, note
+  - Row (パッケージタイトル, 2009年): ファイナルファンタジーXIII; 2009-12-17; スクウェア・エニックス; no note
+
 ## Decisions

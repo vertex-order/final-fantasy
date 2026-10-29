@@ -290,6 +290,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ナンバリング作品とその続編): ファイナルファンタジーXIII-2（PS3、Xbox 360・2011年12月15日、Win、iOS、Android、G-cluster、ひかりTVゲーム）
 
+## ja.wikipedia.org (Information; PlayStation 3 game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_3のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111327003 of 2026-10-09); archived: TODO
+  - Lists the games released in Japan for PlayStation 3 in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, online column (オ: ○ = dedicated online title), 3D column, note
+  - Row (パッケージタイトル, 2011年): ファイナルファンタジーXIII-2; 2011-12-15; スクウェア・エニックス; note: 『ファイナルファンタジーXIII』の続編
+  - Row (パッケージタイトル, 2013年): ファイナルファンタジーXIII-2 デジタルコンテンツセレクション; 2013-07-18; スクウェア・エニックス; no note
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

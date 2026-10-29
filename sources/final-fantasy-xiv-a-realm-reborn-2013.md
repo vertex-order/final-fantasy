@@ -337,4 +337,10 @@
   - Row (配信専用タイトル, 2024年): ファイナルファンタジーXIV; 2024-04-21; スクウェア・エニックス; bold; the note cites Xbox Wire Japan of 2023-07-31 (Xbox Series X|S version in spring 2024)
   - Row (配信専用タイトル, 2024年): ファイナルファンタジーXIV - コンプリートパック; 2024-07-02; スクウェア・エニックス; note 新生エオルゼア～黄金のレガシーまで
 
+## ja.wikipedia.org (Information; PlayStation 3 game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_3のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111327003 of 2026-10-09); archived: TODO
+  - Lists the games released in Japan for PlayStation 3 in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, online column (オ: ○ = dedicated online title), 3D column, note
+  - Row (パッケージタイトル, 2013年): ファイナルファンタジーXIV: 新生エオルゼア; 2013-08-27; スクウェア・エニックス; online column: ○; note: コレクターズエディションあり
+
 ## Decisions

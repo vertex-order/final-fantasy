@@ -328,4 +328,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
   - Lists the games released in Japan for PlayStation 2 (2004; date, title, publisher, note)
   - Row (発売されたタイトル, 2004年): ファイナルファンタジーX-2 インターナショナル+ラストミッション; 2004-02-19; スクウェア・エニックス; note: 北米版『ファイナルファンタジーX-2』をもとに、後日談「ラストミッション」を追加した作品
 
+## ja.wikipedia.org (Information; PlayStation 3 game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_3のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111327003 of 2026-10-09); archived: TODO
+  - Lists the games released in Japan for PlayStation 3 in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, online column (オ: ○ = dedicated online title), 3D column, note
+  - Row (パッケージタイトル, 2013年): ファイナルファンタジーX/X-2 HDリマスター; 2013-12-26; スクウェア・エニックス; no note
+
 ## Decisions
