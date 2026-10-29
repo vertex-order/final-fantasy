@@ -443,4 +443,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Columns: 配信開始日, OP (original platform: FC = Famicom, SFC = Super Famicom, GBA = Game Boy Advance), タイトル, 販売メーカー, 備考
   - Row (2014年): ファイナルファンタジーIII; 配信開始日 2014-01-08; OP FC; スクウェア・エニックス; no note
 
+## ja.wikipedia.org (Information; Nintendo 3DS Virtual Console game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ニンテンドー3DS版バーチャルコンソールのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 109377561 of 2026-05-03); archived: TODO
+  - Lists the Virtual Console titles distributed on Nintendo 3DS in Japan, by 配信開始日 under year headings 2011 to 2018 (no 2015 section); data as of 2023-04-01; all distribution ended 2023-03-28 with the closing of the ニンテンドー3DS ニンテンドーeショップ
+  - Columns: 配信開始日, OP (original platform: GB, GBC, GBA, DS, FC = Famicom, SFC = Super Famicom, GG, PCE), タイトル, 販売メーカー, 備考, 出典; the Super Famicom titles are the Newニンテンドー3DS-only Virtual Console
+  - Row (2014年: ファイナルファンタジーIII; 配信開始日 2014-04-23; OP FC); スクウェア・エニックス; no note
+
 ## Decisions

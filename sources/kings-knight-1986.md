@@ -167,6 +167,13 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Columns: 配信開始日, OP (original platform: FC = Famicom, SFC = Super Famicom, GBA = Game Boy Advance), タイトル, 販売メーカー, 備考
   - Row (2016年): キングスナイト; 配信開始日 2016-07-06; OP FC; スクウェア・エニックス; no note
 
+## ja.wikipedia.org (Information; Nintendo 3DS Virtual Console game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ニンテンドー3DS版バーチャルコンソールのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 109377561 of 2026-05-03); archived: TODO
+  - Lists the Virtual Console titles distributed on Nintendo 3DS in Japan, by 配信開始日 under year headings 2011 to 2018 (no 2015 section); data as of 2023-04-01; all distribution ended 2023-03-28 with the closing of the ニンテンドー3DS ニンテンドーeショップ
+  - Columns: 配信開始日, OP (original platform: GB, GBC, GBA, DS, FC = Famicom, SFC = Super Famicom, GG, PCE), タイトル, 販売メーカー, 備考, 出典; the Super Famicom titles are the Newニンテンドー3DS-only Virtual Console
+  - Row (2014年: キングスナイト; 配信開始日 2014-02-05; OP FC); スクウェア・エニックス; no note
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)

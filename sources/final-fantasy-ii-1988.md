@@ -474,6 +474,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
   - Row (2013年): ファイナルファンタジーII; 配信開始日 2013-12-11; OP FC; スクウェア・エニックス; no note
   - Row (2016年): ファイナルファンタジーI・II アドバンス; 配信開始日 2016-01-06; OP GBA; スクウェア・エニックス; no note; one row for the I and II compilation
 
+## ja.wikipedia.org (Information; Nintendo 3DS Virtual Console game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ニンテンドー3DS版バーチャルコンソールのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 109377561 of 2026-05-03); archived: TODO
+  - Lists the Virtual Console titles distributed on Nintendo 3DS in Japan, by 配信開始日 under year headings 2011 to 2018 (no 2015 section); data as of 2023-04-01; all distribution ended 2023-03-28 with the closing of the ニンテンドー3DS ニンテンドーeショップ
+  - Columns: 配信開始日, OP (original platform: GB, GBC, GBA, DS, FC = Famicom, SFC = Super Famicom, GG, PCE), タイトル, 販売メーカー, 備考, 出典; the Super Famicom titles are the Newニンテンドー3DS-only Virtual Console
+  - Row (2014年: ファイナルファンタジーII; 配信開始日 2014-02-12; OP FC); スクウェア・エニックス; no note
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)
