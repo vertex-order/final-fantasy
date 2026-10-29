@@ -430,6 +430,32 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
     },
   },
   {
+    mediaType: 'Game', chronoOrder: 100, narrativeOrder: 510,
+    title: 'Final Fantasy XV: Episode Duscae', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Episode_Duscae', titleDate: '2015-03-19',
+    mediaDesc: [
+      [{ text: 'Playable demo of ' }, { emLinkText: 'XV (2016)', emLinkUrl: '#entry-XV-final-fantasy-xv-2016' }, { text: ', given away with ' }, { emLinkText: 'Type-0 HD (2015)', emLinkUrl: '#entry-XIII-final-fantasy-type-0-2011' }, { text: '. Stranded in the region of Duscae without their car, Noctis and his party must earn the gil to repair it by hunting down a bounty. The plot is original to the demo.' }],
+    ],
+    primary: {
+      tags: ['Demo'],
+      subtitle: 'Demo',
+      terminated: true,
+      languages: [
+        { value: 'JA', native: true, voice: true },
+        { value: 'EN', voice: true },
+        { value: '…?' },
+      ],
+      platforms: [
+        { key: 'playstation4', terminated: true },
+        { key: 'playstation5', terminated: true, paren: 'PS4 compat' },
+        { key: 'xbox-one', terminated: true },
+        { key: 'xbox-xs', terminated: true, paren: 'Xbox One compatibility' },
+        { key: 'fan-movie', search: 'youtube', searchTitle: 'Final Fantasy XV Episode Duscae' },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'Final Fantasy XV Episode Duscae' },
+        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Final Fantasy XV Episode Duscae' },
+      ],
+    },
+  },
+  {
     mediaType: 'Game', chronoOrder: -3000, narrativeOrder: 500,
     title: 'Platinum Demo – Final Fantasy XV Prologue', titleUrl: 'https://wikipedia.org/wiki/Development_of_Final_Fantasy_XV#Demos', titleDate: '2016-03-30 20',
     mediaDesc: [
