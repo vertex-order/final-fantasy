@@ -194,6 +194,14 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - List of Japan-market PC-8800 series games, a bulleted section per year 1983 to 1991 (month, title, publisher)
   - The 1987 section holds three rows (ガンダーラ 仏陀の聖戦, ドラゴンバスター, かわいそう物語); no キングスナイト・スペシャル and no other Square row
 
+## ja.wikipedia.org (Information; Sharp X1 game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:X1用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 108413532 of 2026-02-15; members read through the MediaWiki API); archived: TODO
+  - Category of Sharp X1 game software: 170 pages, alphabetical by reading, no subcategories
+  - Member: キングスナイト (the page of the series)
+- https://ja.wikipedia.org/wiki/キングスナイト -- platforms*, dates* -- accessed 2026-10-29 (revision 110322217 of 2026-07-18); archived: TODO
+  - Ports table row: キングスナイト・スペシャル; 1987-06; PC-8801mkIISR and X1 under one row, no separate X1 date; Square; floppy disk
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)
