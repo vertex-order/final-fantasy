@@ -606,6 +606,12 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
   - Row (2007年): ファイナルファンタジー; Japan 2007-04-19; North America 2007-06-26; Europe 2008-02-08; スクウェア・エニックス; DL: ●
 
+## ja.wikipedia.org (Information; Nintendo 3DS game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ニンテンドー3DSのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 110577828 of 2026-08-09); archived: TODO
+  - Lists the games released for Nintendo 3DS (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [◎ package, download card and eShop, △ download card and eShop, □ eShop only, × no download version, blank download only], note)
+  - Row: FINAL FANTASY (linked to the ファイナルファンタジー article); Japan 2015-01-21; North America and Europe not released; スクウェア・エニックス; DL: blank (download only per the legend); no note
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

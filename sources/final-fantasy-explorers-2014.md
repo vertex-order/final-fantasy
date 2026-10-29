@@ -161,4 +161,10 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (その他の派生作品): ファイナルファンタジー エクスプローラーズ（3DS・2014年12月18日）
 
+## ja.wikipedia.org (Information; Nintendo 3DS game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ニンテンドー3DSのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 110577828 of 2026-08-09); archived: TODO
+  - Lists the games released for Nintendo 3DS (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [◎ package, download card and eShop, △ download card and eShop, □ eShop only, × no download version, blank download only], note)
+  - Row: ファイナルファンタジー エクスプローラーズ; Japan 2014-12-18; North America 2016-01-26; Europe 2016-01-29; スクウェア・エニックス; DL: △; note: 3D display not supported, Circle Pad Pro support; free trial FINAL FANTASY EXPLORERS Light released 2014-11-14, save data carries over
+
 ## Decisions

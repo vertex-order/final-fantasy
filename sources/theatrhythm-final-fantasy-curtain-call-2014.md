@@ -143,4 +143,10 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (その他の派生作品): シアトリズム ファイナルファンタジー カーテンコール（3DS・2014年4月24日）
 
+## ja.wikipedia.org (Information; Nintendo 3DS game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ニンテンドー3DSのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 110577828 of 2026-08-09); archived: TODO
+  - Lists the games released for Nintendo 3DS (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [◎ package, download card and eShop, △ download card and eShop, □ eShop only, × no download version, blank download only], note)
+  - Row: シアトリズム ファイナルファンタジー カーテンコール; Japan 2014-04-24; North America 2014-09-16; Europe 2014-09-19; スクウェア・エニックス; DL: □
+
 ## Decisions

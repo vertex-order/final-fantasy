@@ -105,4 +105,10 @@
   - Row (その他の派生作品): ピクトロジカ ファイナルファンタジー（iOS、Android・2013年10月21日）
   - Row (その他の派生作品): ピクトロジカ ファイナルファンタジー≒（3DS・2017年7月12日）
 
+## ja.wikipedia.org (Information; Nintendo 3DS game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ニンテンドー3DSのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 110577828 of 2026-08-09); archived: TODO
+  - Lists the games released for Nintendo 3DS (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [◎ package, download card and eShop, △ download card and eShop, □ eShop only, × no download version, blank download only], note)
+  - Row: PICTLOGICA FINAL FANTASY ≒ (linked to the ピクトロジカ ファイナルファンタジー article); Japan 2017-07-12; North America and Europe not released; スクウェア・エニックス; DL: blank (download only per the legend); note: free, item purchases, 3D display not supported
+
 ## Decisions
