@@ -127,4 +127,11 @@
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: ファイナルファンタジー レジェンズ 光と闇の戦士
 
+## ja.wikipedia.org (Information; mobile phone app game category and title article, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム -- lists the article below -- accessed 2026-10-29 (category page revision 104400790 of 2025-04-06); archived: TODO
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー レジェンズ 光と闇の戦士 -- mobile editions, platforms, release dates -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 109759342 of 2026-05-31); archived: TODO
+  - Infobox: iアプリ (FOMA 903i series and later) 2010-09-06, EZアプリ (BREW) 2010-12-09, iOS and Android 2012-08-31; the prose calls the first two the i-mode and EZweb versions
+  - Free prologue; the main and sub scenarios were bought with points, added about monthly; the final chapter (part 2) began on 2011-08-08 (i-mode and EZweb: 2011-11-10)
+
 ## Decisions

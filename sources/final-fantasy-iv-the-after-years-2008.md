@@ -333,4 +333,12 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: ファイナルファンタジーIV THE AFTER 月の帰還
 
+## ja.wikipedia.org (Information; mobile phone app game category and title article, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム -- lists the article below -- accessed 2026-10-29 (category page revision 104400790 of 2025-04-06); archived: TODO
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIV THE AFTER 月の帰還 -- mobile editions, platforms, release dates -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 109758923 of 2026-05-31); archived: TODO
+  - Infobox: [i] 2008-02-20, [EZ] 2008-05-15, [S!] 2008-11-04; the prose says the iアプリ (docomo) version began on 2008-02-18 and the EZアプリ and S!アプリ versions followed (the page gives two dates for the iアプリ start)
+  - Carrier terminals: 903i series and later (iアプリ), W41 series and later (EZアプリ), S!アプリ
+  - Mobile version delivered as a free prologue and chapters bought individually, 11 chapters including the prologue; the final chapter (part 2) started on 2008-12-24 (iアプリ)
+
 ## Decisions

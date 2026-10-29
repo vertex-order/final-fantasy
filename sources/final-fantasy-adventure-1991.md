@@ -298,6 +298,13 @@ square-enix.com and stores (Publisher)
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: 聖剣伝説 〜ファイナルファンタジー外伝〜
 
+## ja.wikipedia.org (Information; mobile phone app game category and title article, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム -- lists the article below -- accessed 2026-10-29 (category page revision 104400790 of 2025-04-06); archived: TODO
+- https://ja.wikipedia.org/wiki/聖剣伝説 〜ファイナルファンタジー外伝〜 -- mobile editions, carriers, dates -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 111083046 of 2026-09-20); archived: TODO
+  - Mobile colour remake 聖剣伝説 -ファイナルファンタジー外伝-: S!アプリ (SoftBank 3G) 2006-08-16, a further S!アプリ for the 905SH 2006-08-30, megaiアプリ for FOMA 903i 2006-11-06, EZアプリ (WIN BREW) 2007-02-05
+  - The 聖剣伝説モバイル site ended on 2011-03-03 and distribution paused; resumed on スクエニMOBILE on 2011-05-18 (iアプリ, S!アプリ) and 2011-05-19 (EZアプリ), with no later terminal updates
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

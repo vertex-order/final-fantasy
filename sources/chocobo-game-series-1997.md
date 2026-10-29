@@ -828,6 +828,20 @@
   - Category of iPad game software: 186 pages, no subcategories
   - Member: チョコボパニック
 
+## ja.wikipedia.org (Information; mobile phone game article, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/携帯電話ゲーム -- release year, platform, publisher -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 110753861 of 2026-08-23); archived: TODO
+  - Section 「Javaアプリの登場と3Dゲームの登場 (2001年)」: names 『どこでもチョコボ』 (スクウェア) among the games made for Mitsubishi Electric's Z3D graphics engine, which appeared in 2002; year only, no day or carrier
+
+## ja.wikipedia.org (Information; mobile phone app game category and title article, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム -- lists the two articles below -- accessed 2026-10-29 (category page revision 104400790 of 2025-04-06); archived: TODO
+- https://ja.wikipedia.org/wiki/チョコボdeモバイル -- platforms, release dates -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 110372993 of 2026-07-22); archived: TODO
+  - Infobox dates: EZ 2006-12-06, i 2007-08-01; carriers: au EZweb (EZアプリ BREW) and NTT docomo i-mode (iアプリ); genre: ability-check minigame collection
+  - Bought by points on the Square Enix Mobile site; a trial version was pre-installed on the Toshiba au W47T and DRAPE
+- https://ja.wikipedia.org/wiki/どこでもチョコボ -- platform, carrier -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 108937215 of 2026-03-28); archived: TODO
+  - NTT DoCoMo i-mode only; pre-installed on Mitsubishi Electric mova D-series phones; the D504i has an adventure part (冒険編) and an i-appli standby screen part (待受編); the series ran in several installments, mostly pre-installed; no release dates on the page
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

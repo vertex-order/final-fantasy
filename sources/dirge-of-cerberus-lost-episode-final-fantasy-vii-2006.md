@@ -48,4 +48,11 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (コンピレーション・オブ・ファイナルファンタジーVII): ダージュ オブ ケルベロス ロスト エピソード ファイナルファンタジーVII*（i・2006年11月1日）
 
+## ja.wikipedia.org (Information; mobile phone app game category and title article, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム -- lists the article below -- accessed 2026-10-29 (category page revision 104400790 of 2025-04-06); archived: TODO
+- https://ja.wikipedia.org/wiki/ダージュ オブ ケルベロス ロスト エピソード ファイナルファンタジーVII -- platforms, carriers -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 107851407 of 2026-01-03); archived: TODO
+  - Japan: NTT DoCoMo FOMA 903i series (P903i, P903iX, P904i, N904i; pre-installed on the P903i and P903iX HIGH-SPEED); North America: Verizon and Amp'd Mobile
+  - Announced at E3 2006 for North America from that summer; the Japanese DoCoMo release was announced in September 2006
+
 ## Decisions

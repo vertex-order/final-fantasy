@@ -637,4 +637,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: ファイナルファンタジーIV
 
+## ja.wikipedia.org (Information; mobile phone app game category and title article, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム -- lists the article below -- accessed 2026-10-29 (category page revision 104400790 of 2025-04-06); archived: TODO
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIV -- mobile editions, platforms, release dates -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 111319733 of 2026-10-08); archived: TODO
+  - Prose: iアプリ (NTT docomo) from 2009-10-05, EZアプリ (au) from 2009-12-10, S!アプリ (SoftBank Mobile) from 2010-01-13; the infobox gives the same three dates
+  - Carrier terminals: FOMA 903i series and later (iアプリ), BREW-compatible models (EZアプリ), Yahoo!ケータイ (S!アプリ)
+  - Based on the Game Boy Advance version with some original additions (a suspend function, a changed Lunar Ruins)
+
 ## Decisions

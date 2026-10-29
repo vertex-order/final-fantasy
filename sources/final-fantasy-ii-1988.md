@@ -551,6 +551,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: ファイナルファンタジーII
 
+## ja.wikipedia.org (Information; mobile phone app game category and title article, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム -- lists the article below -- accessed 2026-10-29 (category page revision 104400790 of 2025-04-06); archived: TODO
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーII -- mobile editions, platforms, release dates -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 110746553 of 2026-08-23); archived: TODO
+  - Infobox dates: iアプリ 2005-02-04, EZアプリ 2005-12-15, S!アプリ 2006 (year only); prose: distributed on the carriers from 2005
+  - Carrier terminals: FOMA 901i (iアプリ), BREW-compatible models (EZアプリ, download as ファイナルファンタジーEZ), SoftBank 3G terminals (S!アプリ)
+  - Based on the Game Boy Advance version, without the memory game and added scenario
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

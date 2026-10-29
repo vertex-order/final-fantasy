@@ -235,3 +235,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - https://ja.wikipedia.org/wiki/PlayStation_Vitaのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840908 of 2026-08-31); archived: TODO
   - Lists the games released for PlayStation Vita (index page with the 2016 to 2021 tables; release dates per region Japan, North America and Europe, title, publisher, TV column [PlayStation Vita TV compatible], パ column [sold as a package], note)
   - Row (2017年): いただきストリート ドラゴンクエスト&ファイナルファンタジー 30th ANNIVERSARY; Japan 2017-10-19; North America unreleased; Europe unreleased; スクウェア・エニックス; TV: blank; パ: ●; no note
+
+## ja.wikipedia.org (Information; mobile phone app game category and title article, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム -- lists the article below -- accessed 2026-10-29 (category page revision 104400790 of 2025-04-06); archived: TODO
+- https://ja.wikipedia.org/wiki/ドラゴンクエスト&ファイナルファンタジー in いただきストリート MOBILE -- platforms, release dates -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 107857739 of 2026-01-03); archived: TODO
+  - Infobox platforms iアプリ and EZアプリ (BREW); dates: FF version (Final Fantasy in Itadaki Street Mobile) 2010-07-01, Dragon Quest & Final Fantasy version 2011-02-03 (the title and content changed by update); entries 9 and 10 of the Itadaki Street series
+  - Follows the Special and Portable crossovers; the earlier mobile title いただきストリートMOBILE どんどん開店!増築中! follows the original world instead

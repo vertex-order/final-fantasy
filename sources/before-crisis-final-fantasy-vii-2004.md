@@ -66,4 +66,16 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (コンピレーション・オブ・ファイナルファンタジーVII): ビフォア クライシス ファイナルファンタジーVII（i･2004年9月24日、EZ*、S!*）
 
+## ja.wikipedia.org (Information; mobile phone game article, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/携帯電話ゲーム -- release year, platform, publisher -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 110753861 of 2026-08-23); archived: TODO
+  - Section 「大作RPGの登場 (2003年)」: Square Enix distributed 『ビフォア クライシス ファイナルファンタジーVII』 (2004) as a spin-off of Final Fantasy VII, on mobile phones; year only, no day or carrier
+
+## ja.wikipedia.org (Information; mobile phone app game category and title article, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム -- lists the article below -- accessed 2026-10-29 (category page revision 104400790 of 2025-04-06); archived: TODO
+- https://ja.wikipedia.org/wiki/ビフォア クライシス ファイナルファンタジーVII -- mobile platforms, carrier dates -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 110820110 of 2026-08-29); archived: TODO
+  - Distributed from 2004-09-24 through the carrier site ファイナルファンタジーモバイル; at first only NTT docomo i-mode FOMA 900i and later; SoftBank Mobile Yahoo!ケータイ from 2007-01-30; au EZweb from 2007-04-05
+  - Minigame and extra apps (ゴールドソーサー, バトルスクェア, ウェポンモード) were free separate downloads needed for all content
+
 ## Decisions
