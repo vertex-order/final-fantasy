@@ -236,4 +236,12 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (関連作品): Sa・Gaシリーズ（GB）
 
+## ja.wikipedia.org (Information; computer game title index, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section さ) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
+  - Alphabetical index of computer game titles; gives each title and its article link only, no platforms or dates
+- https://ja.wikipedia.org/wiki/サガシリーズ -- series article -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111303701 of 2026-10-07); archived: TODO
+  - Lead: SaGa series of computer RPGs from Square (now Square Enix); begins with 魔界塔士Sa・Ga, released 1989-12-15 as the first RPG on the Game Boy
+  - Lead: 15 titles as of October 2024; the title changes and the numbering restarts with each platform
+
 ## Decisions
