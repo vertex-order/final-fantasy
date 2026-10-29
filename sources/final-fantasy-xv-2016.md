@@ -478,6 +478,13 @@ square-enix-games.com (Publisher, official)
   - Infobox: Stadia, worldwide 2019年11月19日 (PS4 and Xbox One 2016年11月29日, Windows 2018年3月7日)
   - Categories include no Stadia or cloud-gaming category
 
+## ja.wikipedia.org (Information; PlayStation Plus article, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/PlayStation_Plus -- platforms -- accessed 2026-10-29 (revision 110749864 of 2026-08-23); archived: TODO
+  - No Japanese PlayStation Plus title list or game category; the article lists only the PlayStation Plus Collection titles
+  - PlayStation Plus Collection: 18 PS4 titles offered as free play to PS5 owners in Japan, ended 2023-05-09; lists ファイナルファンタジーXV ロイヤルエディション (Square Enix) among the third-party titles
+  - Game catalogue and classics catalogue titles are streamable (streaming games, Premium only); the article does not name FFXV as streamable
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations
