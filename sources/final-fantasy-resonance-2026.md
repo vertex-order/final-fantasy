@@ -220,4 +220,10 @@
   - Lists the games released in Japan for PlayStation 5 (2024 onward, index page; date, title, publisher, パ column [● also sold as a package], online (オ: ● online play, ◎ online only), CERO rating (レ), note)
   - Row (2026年): ファイナルファンタジー レゾナンス; 2026-10-22; スクウェア・エニックス; パ: ●; オ: blank; レ: C; note: スマートフォンアプリ『ファイナルファンタジー ブレイブエクスヴィアス』のコンシューマ向けリメイク作品
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111559099 of 2026-10-29; wikitext read through the MediaWiki API); archived: TODO
+  - Index page of the Nintendo Switch games released in Japan, with the 2026 and 2027 tables (columns: release date, title, publisher, パ [●: also sold as a package; blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2026年): ファイナルファンタジー レゾナンス; Japan 2026-10-22; スクウェア・エニックス; パ: ●; CERO: C; note: スマートフォンアプリ『ファイナルファンタジー ブレイブエクスヴィアス』のコンシューマ向け作品 / Nintendo Switch 2版も同日発売
+
 ## Decisions

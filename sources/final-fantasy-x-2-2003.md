@@ -346,4 +346,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
   - Lists the games released for PlayStation Vita (the 2013 list; release dates per region Japan, North America and Europe, title, publisher, TV column [PlayStation Vita TV compatible], パ column [sold as a package], note)
   - Row (2013年): ファイナルファンタジーX-2 HDリマスター; Japan 2013-12-26; North America 2014-03-18; Europe 2014-03-21; スクウェア・エニックス; TV: ●; パ: ●; note: 中国では2015年3月20日にローンチタイトルとして発売された
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2019年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111212943 of 2026-09-30; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2019年, 発売されたタイトル): FINAL FANTASY X/X-2 HD Remaster (one row for both games); Japan 2019-04-11; スクウェア・エニックス; パ: ●; CERO: C; no note
+
 ## Decisions

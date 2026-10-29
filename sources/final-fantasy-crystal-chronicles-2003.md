@@ -264,4 +264,10 @@
   - Lists the games released in Japan for PlayStation 4 (2020; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2020年): ファイナルファンタジー・クリスタルクロニクル リマスター; 2020-08-27; スクウェア・エニックス; パ: ●; note: 変更前の発売日は1月23日
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2020年) -- dates*, platforms* -- accessed 2026-10-29 (revision 110918503 of 2026-09-06; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2020年, 発売されたタイトル): ファイナルファンタジー・クリスタルクロニクル リマスター; Japan 2020-08-27; スクウェア・エニックス; パ: ●; CERO: A; note: 他機種間でのクロスプレイ対応
+
 ## Decisions

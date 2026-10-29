@@ -464,4 +464,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
     - reference link recorded only: https://www.jp.square-enix.com/game/detail/ff6a/
     - reference link recorded only: https://www.inside-games.jp/article/2011/03/23/48044.html
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2023年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111393543 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2023年, ダウンロード table): FINAL FANTASY VI; Japan 2023-04-20; スクウェア・エニックス; パ: blank; CERO: B; note: 6作品をまとめて収録したパッケージソフトに加え、アナログレコードやアートブックなどを同梱した限定版『ファイナルファンタジーI-VI ピクセルリマスター FF35周年限定特装版』も同日発売 (one note shared by the six Pixel Remaster rows)
+
 ## Decisions

@@ -798,6 +798,15 @@
   - Row: チョコボランド A Game Of Dice; Japan 2002-12-13; スクウェア; note: 『ファイナルファンタジー』シリーズの登場キャラクター・チョコボを題材とした作品 (the Game Boy Advance remake of Dice de Chocobo)
     - reference link recorded only: https://game.watch.impress.co.jp/docs/20021212/square.htm
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2019年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111212943 of 2026-09-30; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2019年, 発売されたタイトル): チョコボの不思議なダンジョン エブリバディ!; Japan 2019-03-20; スクウェア・エニックス; パ: ●; CERO: A; note: 『チョコボの不思議なダンジョン 時忘れの迷宮』のリメイク / Joy-Con横持ち対応
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2022年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111248774 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2022年, 3月): チョコボGP; Japan 2022-03-10; スクウェア・エニックス; パ: ●; CERO: A; note: e-STORE限定版あり
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

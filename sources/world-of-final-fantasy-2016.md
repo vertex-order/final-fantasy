@@ -247,4 +247,10 @@
   - Lists the games released for PlayStation Vita (index page with the 2016 to 2021 tables; release dates per region Japan, North America and Europe, title, publisher, TV column [PlayStation Vita TV compatible], パ column [sold as a package], note)
   - Row (2016年): ワールド オブ ファイナルファンタジー; Japan 2016-10-27; North America 2016-10-25; Europe 2016-10-27; スクウェア・エニックス; TV: blank; パ: ●; note: 『ファイナルファンタジー』シリーズのさまざまなモンスターとともに旅をするRPG
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2018年) -- dates*, platforms* -- accessed 2026-10-29 (revision 110840793 of 2026-08-31; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2018年, 発売されたタイトル): ワールド オブ ファイナルファンタジー マキシマ; Japan 2018-11-06; スクウェア・エニックス; パ: blank; CERO: B; note: 『ワールド オブ ファイナルファンタジー』の強化移植。
+
 ## Decisions

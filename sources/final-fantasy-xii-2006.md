@@ -286,4 +286,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
   - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2017年): ファイナルファンタジーXII ザ ゾディアック エイジ; 2017-07-13; スクウェア・エニックス; パ: ●; note: PlayStation 4 Pro対応
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2019年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111212943 of 2026-09-30; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2019年, 発売されたタイトル): FINAL FANTASY XII THE ZODIAC AGE; Japan 2019-04-25; スクウェア・エニックス; パ: ●; CERO: B; note: 5.1chサラウンド対応
+
 ## Decisions

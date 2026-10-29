@@ -389,4 +389,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
   - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2017年): ファイナルファンタジーIX; 2017-09-19; スクウェア・エニックス; パ: blank (download only per the legend); note: 同名PlayStation用ソフトの移植版
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2019年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111212943 of 2026-09-30; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2019年, 発売されたタイトル): FINAL FANTASY IX; Japan 2019-02-14; スクウェア・エニックス; パ: blank; CERO: A; note: 同名作品の移植版
+
 ## Decisions

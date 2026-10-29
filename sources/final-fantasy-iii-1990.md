@@ -488,4 +488,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
     - reference link recorded only: https://web.archive.org/web/20240715120527/https://game.watch.impress.co.jp/docs/20060712/ff.htm
     - reference link recorded only: https://game.watch.impress.co.jp/docs/20060601/ff.htm
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2023年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111393543 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2023年, ダウンロード table): FINAL FANTASY III; Japan 2023-04-20; スクウェア・エニックス; パ: blank; CERO: B; note: 6作品をまとめて収録したパッケージソフトに加え、アナログレコードやアートブックなどを同梱した限定版『ファイナルファンタジーI-VI ピクセルリマスター FF35周年限定特装版』も同日発売 (one note shared by the six Pixel Remaster rows)
+
 ## Decisions

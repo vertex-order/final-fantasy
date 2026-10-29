@@ -386,4 +386,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
   - Lists the games released in Japan for PlayStation 4 (2019; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2019年): FINAL FANTASY VIII Remastered; 2019-09-03; スクウェア・エニックス; パ: blank (download only per the legend)
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2019年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111212943 of 2026-09-30; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2019年, 発売されたタイトル): FINAL FANTASY VIII Remastered; Japan 2019-09-03; スクウェア・エニックス; パ: blank; CERO: B; note: 『FINAL FANTASY VIII』のリマスター版
+
 ## Decisions

@@ -283,6 +283,12 @@ square-enix.com and stores (Publisher)
   - Single page of the Game Boy games released in Japan, in release order by year (columns: Japan, North America and Europe release dates, title, publisher, SGB [Super Game Boy compatible], note, reference); no package or download mark; Game Boy only
   - Row (1991年): 聖剣伝説 〜ファイナルファンタジー外伝〜 / Final Fantasy Adventure (North America) / Mystic Quest (Europe); Japan 1991-06-28; North America 1991-11; Europe 1993; スクウェア (Europe: Nintendo); SGB: blank; no note
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2017年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111384312 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2017年, 発売されたタイトル): 聖剣伝説コレクション (Collection of Mana; the row names no contents); Japan 2017-06-01; スクウェア・エニックス; パ: ●; CERO: B; note: Joy-Con横持ち対応。
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

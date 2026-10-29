@@ -510,6 +510,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
   - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
   - Row (2007年): ファイナルファンタジータクティクス 獅子戦争 (Final Fantasy Tactics: The War of the Lions); Japan 2007-05-10; North America 2007-10-09; Europe 2007-10-05; スクウェア・エニックス; DL: ●
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2025年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111184365 of 2026-09-27; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (一覧): ファイナルファンタジータクティクス - イヴァリース クロニクルズ; Japan 2025-09-30; スクウェア・エニックス; パ: ●; CERO: C; note: PlayStation用ソフト『ファイナルファンタジータクティクス』のリマスター版。 / パッケージ版は「デラックスエディション」のみの販売 / Nintendo Switch 2版も同日発売 / 限定版あり
+
 ## Decisions
 
 

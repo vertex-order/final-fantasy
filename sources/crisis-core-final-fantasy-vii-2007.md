@@ -315,4 +315,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
   - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
   - Row (2007年): クライシス コア ファイナルファンタジーVII; Japan 2007-09-13; North America 2008-03-24; Europe 2008-06-20; スクウェア・エニックス; DL: blank; note: 『ファイナルファンタジーVII』の派生作品群・“COMPILATION of FINAL FANTASY VII”のひとつ
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2022年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111248774 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2022年, 12月): クライシス コア -ファイナルファンタジーVII- リユニオン; Japan 2022-12-13; スクウェア・エニックス; パ: ●; CERO: C; no note
+
 ## Decisions

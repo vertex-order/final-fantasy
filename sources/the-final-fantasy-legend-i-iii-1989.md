@@ -259,4 +259,10 @@
 - https://ja.wikipedia.org/wiki/ゲームボーイカラーのゲームタイトル一覧 -- platforms* -- accessed 2026-10-29 (revision 111419004 of 2026-10-17; wikitext read through the MediaWiki API); archived: TODO
   - Holds no Sa・Ga, Final Fantasy or Chocobo title
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2020年) -- dates*, platforms* -- accessed 2026-10-29 (revision 110918503 of 2026-09-06; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2020年, 発売されたタイトル): Sa・Ga COLLECTION; Japan 2020-12-15; スクウェア・エニックス; パ: blank; CERO: B; note: サガシリーズ30周年記念作品であり、シリーズのうちゲームボーイで発売された3作品を収録。
+
 ## Decisions
