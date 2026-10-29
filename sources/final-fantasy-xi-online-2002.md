@@ -166,4 +166,10 @@
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXI -- series position, type -- accessed 2026-10-28 (article read through the MediaWiki API, revision 109759274 of 2026-05-31); archived: TODO
   - Lead: eleventh numbered title of the Final Fantasy series, the first online game and MMORPG of the series; announced 2000-01-29 at the Square Millennium event; no release date in the lead
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーXI（PS2・2002年5月16日、Win、Xbox 360・2006年）
+
 ## Decisions

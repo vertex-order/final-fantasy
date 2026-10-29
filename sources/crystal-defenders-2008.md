@@ -304,6 +304,15 @@
   - Row: クリスタル・ディフェンダーズR2; 配信開始日 2009-02-24; スクウェア・エニックス; 216 blocks; Wi-Fi 対応; no Classic Controller mark; no note
   - Both rows link the article クリスタル ガーディアンズ (cited above)
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (関連作品): クリスタル ガーディアンズ/ディフェンダーズシリーズ
+  - Row (関連作品): クリスタル ガーディアンズW1/W2/W3（i、S!、EZ）
+  - Row (関連作品): クリスタル・ディフェンダーズ（iOS・2008年12月23日、Xbox 360（XBLA）、PS3（PSN）、PSP、Android）
+  - Row (関連作品): クリスタル・ディフェンダーズR1/R2（Wiiウェア）
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it

@@ -236,4 +236,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
   - FINAL FANTASY TYPE-0 HD; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, PC; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-type-0-hd -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ファブラ ノヴァ クリスタリス ファイナルファンタジー): ファイナルファンタジー零式（PSP・2011年10月27日）
+  - Row (ファブラ ノヴァ クリスタリス ファイナルファンタジー): ファイナルファンタジー零式HD（PS4、XB1・2015年3月19日、Win）
+
 ## Decisions

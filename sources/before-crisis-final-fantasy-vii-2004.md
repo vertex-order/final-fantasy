@@ -60,4 +60,10 @@
   - ビフォア クライシス -ファイナルファンタジーVII-; menu section ゲーム; first listed 2012-10-08; listed in every capture from 2012-10-08 to 2017-04-01
     - http://www.square-enix.co.jp/mobile/bcff7.html -- 公式サイト link, listed 2012-10-08 to 2017-04-01 -- link recorded only -- archived: https://web.archive.org/web/20121008085058/http://www.square-enix.co.jp/mobile/bcff7.html (last listing: https://web.archive.org/web/20170401210413/http://www.square-enix.co.jp/mobile/bcff7.html)
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (コンピレーション・オブ・ファイナルファンタジーVII): ビフォア クライシス ファイナルファンタジーVII（i･2004年9月24日、EZ*、S!*）
+
 ## Decisions

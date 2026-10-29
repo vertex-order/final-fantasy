@@ -69,4 +69,10 @@
   - Row: 小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル; 配信開始日 2008-03-25; スクウェア・エニックス; 287 blocks; Wi-Fi 対応; Classic Controller ●; note 有料追加コンテンツ配信対応 (paid downloadable content)
 - https://ja.wikipedia.org/wiki/小さな王様と約束の国_ファイナルファンタジー・クリスタルクロニクル -- the game's own article, linked from the row -- link recorded only, page not visited; archived: TODO
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ファイナルファンタジー・クリスタルクロニクルシリーズ): 小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル（Wiiウェア・2008年3月25日）
+
 ## Decisions

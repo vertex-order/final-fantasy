@@ -265,6 +265,12 @@ square-enix.com and stores (Publisher)
 - https://ja.wikipedia.org/wiki/聖剣伝説_〜ファイナルファンタジー外伝〜 -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111083046 of 2026-09-20); archived: TODO
   - Lead: 聖剣伝説 〜ファイナルファンタジー外伝〜 (Seiken Densetsu: Final Fantasy Gaiden); Game Boy title released 1991-06-28 by Square
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (その他の派生作品): 聖剣伝説 〜ファイナルファンタジー外伝〜（GB・1991年6月28日、S!、i、EZ、Vita、iOS、Android）
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

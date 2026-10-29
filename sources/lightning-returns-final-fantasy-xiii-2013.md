@@ -241,4 +241,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
   - LIGHTNING RETURNS: FINAL FANTASY XIII; first listed live (2026-10-28): platforms PS3, Steam, Xbox 360; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/lightning-returns-final-fantasy-xiii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ライトニング リターンズ ファイナルファンタジーXIII（PS3、Xbox 360・2013年11月21日、Win、iOS、Android、G-cluster、ひかりTVゲーム）
+
 ## Decisions

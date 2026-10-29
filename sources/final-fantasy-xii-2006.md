@@ -257,4 +257,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXII -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111444197 of 2026-10-19); archived: TODO
   - Lead: twelfth numbered title of the Final Fantasy series; released 2006-03-16 in Japan as a PlayStation 2-only title
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーXII（PS2・2006年3月16日）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーXII インターナショナル ゾディアックジョブシステム（PS2・2007年8月9日）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーXII ザ ゾディアック エイジ（PS4・2017年7月13日、Switch、XB1）
+
 ## Decisions

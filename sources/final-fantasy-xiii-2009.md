@@ -310,4 +310,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII -- series position -- accessed 2026-10-28 (article read through the MediaWiki API, revision 109888938 of 2026-06-11); archived: TODO
   - Lead: thirteenth numbered title of the Final Fantasy series, published by Square Enix; names the sequels Final Fantasy XIII-2 and Lightning Returns; no release date in the lead
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーXIII（PS3・2009年12月17日、Xbox 360・2010年、Win、iOS、Android、G-cluster、ひかりTVゲーム）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーXIII アルティメット ヒッツ インターナショナル（Xbox 360・2010年12月16日）
+
 ## Decisions

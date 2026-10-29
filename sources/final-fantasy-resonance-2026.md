@@ -208,4 +208,10 @@
   - FINAL FANTASY RESONANCE; first listed live (2026-10-28): platforms Nintendo Switch 2, Nintendo Switch, PS5, Xbox Series X|S, Windows, Steam; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://www.square-enix.com/finalfantasyresonance/en_GB/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (その他の派生作品): ファイナルファンタジー レゾナンス（Switch2、Switch、PS5、XBX、Win、2026年10月22日予定）
+
 ## Decisions

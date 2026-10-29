@@ -198,4 +198,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_versi
   - FINAL FANTASY VII REBIRTH; first listed live (2026-10-28): platforms PS5, Steam, Epic Games Store, Nintendo Switch 2, Xbox Series X|S, Windows; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://ffvii.square-enix-games.com/games/rebirth/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーVII リバース（PS5・2024年2月29日、Win、Switch2、XBX）
+
 ## Decisions

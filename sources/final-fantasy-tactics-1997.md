@@ -485,6 +485,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
   - Lists the PlayStation games released in Japan, split by year; rows are date, title, publisher, note (columns 発売日, タイトル, 発売元, 備考)
   - Row (1997年): ファイナルファンタジータクティクス; 1997-06-20; スクウェア; note: 『ファイナルファンタジー』シリーズのシミュレーションRPG
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ファイナルファンタジータクティクスシリーズ): ファイナルファンタジータクティクス（PS・1997年6月20日、GA（PS3・PSP・Vita））
+  - Row (ファイナルファンタジータクティクスシリーズ): ファイナルファンタジータクティクス 獅子戦争（PSP・2007年5月10日、iOS/Android）
+
 ## Decisions
 
 

@@ -45,4 +45,10 @@
   - ファイナルファンタジーXII レヴァナント・ウイング; RPG; first listed 2023-09-28: release 2008.10.23; icons: ニンテンドーDS / ニンテンドーDSi, パッケージ; CERO A; listed in every capture from 2023-09-28 to live (2026-10-28)
     - https://www.jp.square-enix.com/game/detail/ff12rw/ -- 商品詳細 link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230928143327mp_/https://www.jp.square-enix.com/game/detail/ff12rw/
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーXII レヴァナント・ウイング（DS・2007年4月26日）
+
 ## Decisions

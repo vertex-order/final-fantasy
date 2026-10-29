@@ -60,4 +60,10 @@
     - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DFFOperaOmniaj&hl=ja -- Google Play link, listed 2023-09-28 -- link recorded only -- archived: https://web.archive.org/web/20230921045724/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DFFOperaOmniaj&hl=ja
     - https://www.jp.square-enix.com/DFFOO/ -- 公式サイト link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230921045724/https://www.jp.square-enix.com/DFFOO/
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (その他の派生作品): ディシディア ファイナルファンタジー オペラオムニア（iOS、Android・2017年2月1日）
+
 ## Decisions

@@ -27,6 +27,12 @@
 - https://play.google.com/store/apps/details?id=com.machinezone.ffane -- the Android row; the last working capture, 2024-09-30 (weekly captures from 2024-07-20): https://web.archive.org/web/20240930205609/https://play.google.com/store/apps/details?id=com.machinezone.ffane ; the page shows "Updated on May 1, 2024", Strategy, 4X, Multiplayer; the service ended 2024-10-08
 - https://final-fantasy-xv-war-for-eos.en.uptodown.com/android -- Uptodown (page text pasted by user): version 11.3.7.81 of 2023-03-27, package com.machinezone.ffane, XAPK 289.95 MB, 3,143 downloads, older versions to 11.2.5.77 (2025-11-14); its Languages field lists Arabic, Chinese, Dutch, English, French, German, Hindi, Italian, Japanese, Malay, Polish, Portuguese, Russian, Thai and Vietnamese -- not used: Uptodown builds the field from the APK's resource locales (SDK strings add languages the game does not offer), and it disagrees with the App Store listing above (it lacks Korean, Spanish and Turkish and adds Dutch, Hindi, Malay, Polish, Thai and Vietnamese)
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーXV： War for Eos（iOS、Android・2023年2月20日）
+
 ## Decisions
 - Date is 2022-03-21, the Indonesia, Malaysia and Philippines limited release, not the worldwide 2023-02-16 (user, 2026-10-21)
 - `helpWanted` removed (user, 2026-10-21)

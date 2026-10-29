@@ -328,4 +328,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーX -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111423447 of 2026-10-18); archived: TODO
   - Lead: tenth title of the Final Fantasy series; released 2001-07-19 in Japan for the PlayStation 2
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーX（PS2・2001年7月19日）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーX インターナショナル（PS2・2002年1月31日）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーX / X-2 HDリマスター（PS3、Vita・2013年12月26日、PS4、Win、Switch、XB1、Android、iOS）
+
 ## Decisions

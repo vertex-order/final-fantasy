@@ -75,4 +75,10 @@
   - Columns: 配信開始日, OP (original platform: FC = Famicom, SFC = Super Famicom, GBA = Game Boy Advance), タイトル, 販売メーカー, 備考
   - Row (2016年): ファイナルファンタジータクティクス アドバンス; 配信開始日 2016-03-30; OP GBA; スクウェア・エニックス; no note
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ファイナルファンタジータクティクスシリーズ): ファイナルファンタジータクティクスアドバンス（GBA・2003年2月14日、VC（Wii U））
+
 ## Decisions

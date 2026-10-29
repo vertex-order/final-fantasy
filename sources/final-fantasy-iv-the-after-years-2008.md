@@ -300,4 +300,12 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Row: ファイナルファンタジーIV ジ・アフターイヤーズ -月の帰還-; 配信開始日 2009-07-21; スクウェア・エニックス; blocks blank; Wi-Fi 対応; Classic Controller ●; note 有料追加コンテンツ配信対応
   - Links the article ファイナルファンタジーIV THE AFTER 月の帰還 (cited above)
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーIV コンプリートコレクション（PSP・2011年3月24日）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーIV ジ・アフター -月の帰還-（i・2008年2月20日、EZ、S!、iOS、Android）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーIV ジ・アフターイヤーズ -月の帰還-（Wiiウェア・2009年7月21日）
+
 ## Decisions

@@ -584,6 +584,16 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
 - https://ja.wikipedia.org/wiki/ファイナルファンタジー -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111483062 of 2026-10-23); archived: TODO
   - Lead: first title of the Final Fantasy series; released 1987-12-18 in Japan by Square for the Famicom
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジー（FC・1987年12月18日、MSX2、VC（Wii・3DS・Wii U））
+  - Row (ナンバリング作品とその続編): ファイナルファンタジー（リメイク版）（WSC・2000年12月9日、PS、i、EZ、S!、PSP、3DS、GA（PS3・PSP・Vita）、iOS、Android、Windows Phone）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーI・II（FC・1994年2月27日）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーI・II アドバンス（GBA・2004年7月29日、VC（Wii U））
+  - Row (ナンバリング作品とその続編): ファイナルファンタジー ピクセルリマスター（Win_Steam、Android、iOS・2021年7月29日、Switch、PS4、XBOX、Win_MSStore）
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

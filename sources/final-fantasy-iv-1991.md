@@ -565,4 +565,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーIV -- Japan release date, platform, North America release date -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111319733 of 2026-10-08); archived: TODO
   - Lead: fourth title of the Final Fantasy series; released 1991-07-19 by Square for the Super Famicom; released in the United States on 1991-11-23
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーIV（SFC・1991年7月19日、PS、WSC、VC（Wii・Wii U・New 3DS）、GA（PS3・PSP・Vita）、i、EZ、S!、iOS、Android）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーIV イージータイプ（SFC・1991年10月29日）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーIV アドバンス（GBA・2005年12月15日、VC（Wii U））
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーIV（リメイク版）（DS・2007年12月20日、iOS、Android）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーIV コンプリートコレクション（PSP・2011年3月24日）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーコレクション（PS・1999年3月11日）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジー ピクセルリマスター（Win_Steam、Android、iOS・2021年7月29日、Switch、PS4、XBOX、Win_MSStore）
+
 ## Decisions

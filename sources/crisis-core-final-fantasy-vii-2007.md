@@ -278,4 +278,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
   - CRISIS CORE –FINAL FANTASY VII– REUNION; first listed live (2026-10-28): platforms PS4, PS5, Xbox One, Xbox Series X|S, Nintendo Switch, PC, Nintendo Switch 2; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://ffvii.square-enix-games.com/games/crisis-core -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (コンピレーション・オブ・ファイナルファンタジーVII): クライシス コア ファイナルファンタジーVII（PSP・2007年9月13日）
+  - Row (コンピレーション・オブ・ファイナルファンタジーVII): クライシス コア -ファイナルファンタジーVII- リユニオン（PS5、PS4、Switch、XBX、XB1、Steam・2022年12月13日）
+
 ## Decisions

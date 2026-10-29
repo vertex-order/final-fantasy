@@ -60,4 +60,10 @@
   - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
   - ファイナルファンタジーVII ザ ファーストソルジャー; バトルロイヤル ※サービス終了; first listed 2023-09-28: release 2021.11.17; icons: Android, iOS, ダウンロード; listed in every capture from 2023-09-28 to live (2026-10-28)
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (コンピレーション・オブ・ファイナルファンタジーVII): ファイナルファンタジーVII ザ ファースト ソルジャー（FINAL FANTASY VII THE FIRST SOLDIER）（iOS、Android・2021年11月17日）
+
 ## Decisions

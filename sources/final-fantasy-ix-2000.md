@@ -371,4 +371,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーIX -- Japan release date, platform, North America release date -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111292135 of 2026-10-06); archived: TODO
   - Lead: ninth title of the Final Fantasy series; released 2000-07-07 in Japan as a PlayStation-only title; released in the United States on 2000-12-14
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーIX（PS・2000年7月7日、Win、GA（PS3・PSP・Vita）、PS4、XB1、Switch、iOS、Android）
+
 ## Decisions

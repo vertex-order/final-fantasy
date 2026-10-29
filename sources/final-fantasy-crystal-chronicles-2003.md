@@ -251,4 +251,11 @@
   - FINAL FANTASY CRYSTAL CHRONICLES Remastered Edition; first listed live (2026-10-28): platforms PS4, Nintendo Switch, Android; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-crystal-chronicles-remastered-edition -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ファイナルファンタジー・クリスタルクロニクルシリーズ): ファイナルファンタジー・クリスタルクロニクル（GC・2003年8月8日）
+  - Row (ファイナルファンタジー・クリスタルクロニクルシリーズ): ファイナルファンタジー・クリスタルクロニクル リマスター（PS4、Switch・2020年8月27日）
+
 ## Decisions

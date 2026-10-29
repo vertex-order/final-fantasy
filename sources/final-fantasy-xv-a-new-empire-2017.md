@@ -30,6 +30,12 @@
   - The NZ date comes from Gematsu, 2017-03-31 (published 3:21 PM EDT): "is available now via the App Store in New Zealand" (https://gematsu.com/2017/03/machine-zone-final-fantasy-xv-mobile-game-revealed-final-fantasy-xv-new-empire, Wayback https://web.archive.org/web/20191216154542/https://gematsu.com/2017/03/machine-zone-final-fantasy-xv-mobile-game-revealed-final-fantasy-xv-new-empire; read by me): a New Zealand iOS soft launch, the first public availability, reported that day; the official site's 2024 App Store link is the /nz/ one (apps.apple.com/nz/app/final-fantasy-xv-a-new-empire/id1186994231)
   - The entry's date is the New Zealand iOS release, 2017-03-31 (user, 2026-10-21): a limited release that ran about three months before the worldwide release, long enough, with real players, to count (kit docs/data.md, "Limited releases count"); the worldwide release was 2017-06-28 or 2017-06-29 (Wikipedia's infobox says June 29, its text and the Final Fantasy Wiki say June 28; the Verge's release article is dated 2017-06-28; a time-zone difference is likely); a Candidate is logged in docs/wiki-corrections.md
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーXV：新たなる王国（iOS、Android・2017年6月29日）
+
 ## Decisions
 - `helpWanted` removed (user, 2026-10-21)
 - Date is 2017-03-31, the New Zealand limited release, not the worldwide release (user, 2026-10-21)

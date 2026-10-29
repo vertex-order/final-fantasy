@@ -10,7 +10,9 @@
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Fabula_Nova_Crystallis_Final_Fantasy -- dates*, platforms*, tags -- accessed 2026-09-22
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Branded_subseries -- dates*, platforms* -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Titles -- story, platforms -- accessed 2026-09-22
-- https://wikipedia.org/wiki/Final_Fantasy_Awakening
+- https://wikipedia.org/wiki/Final_Fantasy_Awakening -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 1348130872 of 2026-04-10)
+  - Names iOS and Android as the platforms; no Windows release is mentioned
+  - The 2015 announcement as Final Fantasy Type-0 Online for PC and smartphones is cited (Gematsu, Siliconera, IGN of 2015-09-19)
 - https://en.wikipedia.org/wiki/Final_Fantasy_Awakening#Story_and_gameplay -- the recap platform row (user, 2026-10-21), replacing the YouTube recap search
 
 ## OASIS Games, the English release (Publisher; found by the user 2026-10-21)
@@ -64,6 +66,25 @@ en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_Awakening#Release, tex
 
 - https://www.youtube.com/watch?v=eFVSN0ogZ2o -- "Final Fantasy Awakening English Gameplay Android / iOS", PROAPK, 2017-08-16 (61,221 views): the intro cinematic confirms Japanese voice-over and English text (user's viewing); its description links the Indonesian App Store page https://itunes.apple.com/id/app/final-fantasy-awakening-arpg-3d-otoritas-resmi-se/id1234830159 and the Play page com.id.finalfantasy ("3D ARPG Lisensi Resmi SE by EFUN COMPANY LIMITED")
 - https://gamespace.com/all-articles/news/ff-awakening-ios/ -- GameSpace, "Final Fantasy: Awakening Launches on iOS", Damien Gula, 2018-02-28: two redirect links, still live, resolved by me with curl (HTTP 302 Location): the iOS link goes to https://itunes.apple.com/app/id1327210765 (the OASIS English iOS app) and the Android link to https://play.google.com/store/apps/details?id=com.id.finalfantasy&hl=en (the Indonesian package, English page); so in early 2018 the English release pointed at the Efun Android listing
+
+## jp.square-enix.com (Publisher; Japan, 零式 ONLINE page)
+
+- http://www.jp.square-enix.com/ff-agito/info/online/ -- platforms (Windows planned) -- page given by the user 2026-10-28; captures with status 200 run from 2015-09-21 to 2021-02-27; archived: https://web.archive.org/web/20200918233735/http://www.jp.square-enix.com/ff-agito/info/online/
+  - Capture 2020-09-18 (raw HTML read by me): title FINAL FANTASY 零式 ONLINE | SQUARE ENIX; three images: the logo, a platform image with the alt text iPhone/Android/Windows, and a WORK IN PROGRESS image; the only text is the footer
+  - The description meta tag: an online RPG sharing its world with the 2011 PSP Final Fantasy Type-0, co-developed by Square Enix and Perfect World, being developed ("鋭意開発中") as an app for Windows and smartphones
+  - Capture 2015-09-21 (raw HTML read by me): the same three images, under the page head of the Final Fantasy Agito official site
+  - Per the user, the page never held more than this before the game was rebranded
+
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ファブラ ノヴァ クリスタリス ファイナルファンタジー): ファイナルファンタジー零式オンライン（Win、iOS、Android・2016年)
+- https://web.archive.org/web/20150919135235/http://www.famitsu.com/news/201509/19089116.html -- platforms (Windows planned) -- Famitsu.com news of 2015-09-19, the page the ja.wikipedia row cites for 零式オンライン; capture read by me, accessed 2026-10-28
+  - Title: 『ファイナルファンタジー零式 オンライン』公式リリースが到着、PVも公開【TGS2015】
+  - Quotes the Square Enix press release: the RPG FINAL FANTASY 零式 ONLINE will be distributed in 2016 as an app for Windows and smartphones; announced with a trailer at Tokyo Game Show 2015
+  - States a plan only; no page read says a Windows version was released
+  - Co-developed by Square Enix and Perfect World; shares its world with the 2011 PSP game Final Fantasy Type-0 (零式); item-billing, free to play
 
 ## Decisions
 - Languages are done for now (user, 2026-10-21): the `…?` marker and `helpWanted` are removed. Open leads if wanted later: the OASIS English iOS listing (id1327210765, no working capture found), the PT/ES app (id1377048813, 404 captures) and the Korean store pages (no working captures); the languages are JA (voiced), EN, ID, KO, ZH-CN and ZH-TW

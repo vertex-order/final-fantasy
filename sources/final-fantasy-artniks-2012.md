@@ -97,6 +97,12 @@
   - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
   - ファイナルファンタジー アートニクス; ソーシャルRPG ※サービス終了; first listed 2023-09-28: release 2012.12.03; icons: Android, iOS; listed in every capture from 2023-09-28 to live (2026-10-28)
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (その他の派生作品): ファイナルファンタジー アートニクス（FINAL FANTASY ARTNIKS）（携帯電話、iOS、Android・2012年11月30日）
+
 ## Decisions
 - GREE is the link for the Android and iOS rows (user, 2026-10-20): the search for direct Play Store and App Store pages is closed, since the game was only available through registration on the GREE website; the rows link the GREE apps page capture of 2013-12-19 and no store page is expected to exist
 - No `by` line (user, 2026-10-20): director Kazunari Itakura and producer Ichiro Hazama are named by zh.wikipedia and thefinalfantasy.net, but the entry carries no credits

@@ -70,4 +70,12 @@
     - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl2j -- Google Play link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230921045724/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl2j
     - http://www.jp.square-enix.com/FFL2/jp/ -- 公式サイト link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230921045724/http://www.jp.square-enix.com/FFL2/jp/
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (その他の派生作品): ファイナルファンタジー レジェンズ シリーズ
+  - Row (その他の派生作品): ファイナルファンタジー レジェンズ 時空ノ水晶（iOS、Android・2015年2月12日）
+  - Row (その他の派生作品): ファイナルファンタジー レジェンズII 時空ノ水晶（iOS、Android・2017年11月1日）
+
 ## Decisions

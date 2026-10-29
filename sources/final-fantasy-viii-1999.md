@@ -367,4 +367,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーVIII -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111072262 of 2026-09-19); archived: TODO
   - Lead: eighth title of the Final Fantasy series; released 1999-02-11 in Japan as a PlayStation-only title
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーVIII （PS・1999年2月11日、Win、GA（PS3・PSP・Vita））
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーVIII リマスタード（PS4、XB1、Switch・2019年9月3日）
+
 ## Decisions

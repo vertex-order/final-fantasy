@@ -42,4 +42,10 @@
   - ダージュ オブ ケルベロス ロスト エピソード -ファイナルファンタジーVII-; menu section ゲーム; first listed 2012-10-08; listed in every capture from 2012-10-08 to 2017-04-01
     - http://www.square-enix.co.jp/mobile/dcleff7/ -- 公式サイト link, listed 2012-10-08 to 2017-04-01 -- link recorded only -- archived: https://web.archive.org/web/20121008084259/http://www.square-enix.co.jp/mobile/dcleff7/ (last listing: https://web.archive.org/web/20170401210408/http://www.square-enix.co.jp/mobile/dcleff7/)
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (コンピレーション・オブ・ファイナルファンタジーVII): ダージュ オブ ケルベロス ロスト エピソード ファイナルファンタジーVII*（i・2006年11月1日）
+
 ## Decisions

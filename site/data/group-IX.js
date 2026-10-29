@@ -76,6 +76,27 @@ window.__ffGroupReg['IX'] = { num: 'IX', chronoOrder: 900, narrativeOrder: 900, 
     },
   },
   {
+    mediaType: 'Game', chronoOrder: 250, narrativeOrder: 200,
+    title: 'Tetra Master From Final Fantasy IX', titleUrl: 'https://ja.wikipedia.org/wiki/テトラマスターFrom_FINALFANTASY_IX', titleHreflang: 'ja', titleDate: '2002-05-16',
+    mediaDesc: [
+      [{ text: 'An online card game made from the Tetra Master minigame in ' }, { emLinkText: 'IX (2000)', emLinkUrl: '#entry-IX-final-fantasy-ix-2000' }, { text: '. Players win and lose cards to each other on a grid while chatting, then trade or auction them. Sold only bundled with other PlayOnline games, such as Final Fantasy XI.' }],
+    ],
+    primary: {
+      tags: ['Card game', 'Multiplayer'],
+      terminated: true,
+      profileUrl: 'https://web.archive.org/web/20241205145751/http://www.playonline.com/home/polcom/online04.html', profileHreflang: 'ja',
+      languages: [
+        { value: 'JA', native: true },
+        { value: '…?' },
+      ],
+      helpWanted: true,
+      platforms: [
+        { key: 'playstation2', paren: 'Physical', terminated: true },
+        { key: 'windows', paren: 'Physical', terminated: true },
+      ],
+    },
+  },
+  {
     mediaType: 'Book', chronoOrder: 500, narrativeOrder: 300,
     title: "Final Fantasy IX Picture Book: Vivi and Grandpa's Memories for the Sky", titleUrl: 'https://squareenixmangaandbooks.square-enix-games.com/product/9781646094738', titleDate: '2025-07-02',
     mediaDesc: [

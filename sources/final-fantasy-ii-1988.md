@@ -494,6 +494,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーII -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 110746553 of 2026-08-23); archived: TODO
   - Lead: second title of the Final Fantasy series; released 1988-12-17 in Japan by Square for the Famicom
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーII（FC・1988年12月17日、VC（Wii・3DS・Wii U））
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーII（リメイク版）（WSC・2001年5月3日、PS、i、EZ、S!、PSP、GA（PS3・PSP・Vita）、iOS、Android）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーI・II（FC・1994年2月27日）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーI・II アドバンス（GBA・2004年7月29日、VC（Wii U））
+  - Row (ナンバリング作品とその続編): ファイナルファンタジー ピクセルリマスター（Win_Steam、Android、iOS・2021年7月29日、Switch、PS4、XBOX、Win_MSStore）
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

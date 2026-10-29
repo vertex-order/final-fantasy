@@ -67,6 +67,12 @@
   - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
   - ファイナルファンタジー デジタルカードゲーム; オンライン対戦カードゲーム ※サービス終了; first listed 2023-09-28: release 2019.07.08; icons: Android, PCブラウザ, iOS; listed in every capture from 2023-09-28 to live (2026-10-28)
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (その他の派生作品): ファイナルファンタジー デジタルカードゲーム（FINAL FANTASY DIGITAL CARD GAME）（Yahoo!ゲーム ゲームプラス・2019年7月9日）
+
 ## Decisions
 - No iOS, Android or PC platform rows (user, 2026-10-20): the claims of those versions (androidayuda, GameFAQs, RPGFan, Siliconera, Eurogamer) come from the time of or before the Yahoo! Game Plus closed beta, the official site, the Yahoo! page and the Twitter account show only the browser game, and the run was a single year, so we decide those versions were cancelled before they materialized, even though they were announced; only the browser row (Yahoo! Game Plus) is listed
 - No description line (user, 2026-10-20): the entry does not say it was a browser game on Yahoo! Game Plus played on PC and smartphones

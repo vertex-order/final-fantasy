@@ -441,4 +441,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーVI -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111255499 of 2026-10-03); archived: TODO
   - Lead: sixth title of the Final Fantasy series; released 1994-04-02 by Square for the Super Famicom
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーVI（SFC・1994年4月2日、PS、VC（Wii・Wii U・New 3DS）、GA（PS3・PSP・Vita）、iOS、Android）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーVI アドバンス（GBA・2006年11月30日、VC（Wii U））
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーコレクション（PS・1999年3月11日）
+  - Row (ナンバリング作品とその続編): ファイナルファンタジー ピクセルリマスター（Win_Steam、Android、iOS・2021年7月29日、Switch、PS4、XBOX、Win_MSStore）
+
 ## Decisions

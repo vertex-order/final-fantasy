@@ -50,4 +50,10 @@
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- series position, type -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111444198 of 2026-10-19); archived: TODO
   - Lead: fourteenth numbered title of the Final Fantasy series, the second MMORPG after Final Fantasy XI; the Windows (PC) version is the original, a first for the series; the article covers the whole game; no release date in the lead
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ナンバリング作品とその続編): ファイナルファンタジーXIV（Win・2010年9月30日）
+
 ## Decisions

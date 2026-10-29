@@ -89,4 +89,10 @@
   - Row: 光と闇の姫君と世界征服の塔 ファイナルファンタジー・クリスタルクロニクル; 配信開始日 2009-06-30; スクウェア・エニックス; blocks blank; Wi-Fi 対応; no Classic Controller mark; note 有料追加コンテンツ配信対応
 - https://ja.wikipedia.org/wiki/光と闇の姫君と世界征服の塔_ファイナルファンタジー・クリスタルクロニクル -- the game's own article, linked from the row -- link recorded only, page not visited; archived: TODO
 
+## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
+  - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
+  - Row (ファイナルファンタジー・クリスタルクロニクルシリーズ): 光と闇の姫君と世界征服の塔 ファイナルファンタジー・クリスタルクロニクル（Wiiウェア・2009年6月30日）
+
 ## Decisions
