@@ -81,4 +81,12 @@
   - 光と闇の姫君と世界征服の塔 ファイナルファンタジー･クリスタルクロニクル; 世界征服RPG ※配信終了; first listed 2023-09-28: release 2009.06.30; icons: Wii, ダウンロード; CERO A; listed in every capture from 2023-09-28 to live (2026-10-28)
     - https://www.jp.square-enix.com/game/detail/darklord/ -- 商品詳細 link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230928143327mp_/https://www.jp.square-enix.com/game/detail/darklord/
 
+## ja.wikipedia.org (Information; Wiiウェア game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Wiiウェアのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki raw action); archived: TODO
+  - Lists the WiiWare titles distributed in Japan, 配信開始日 order by year 2008 to 2011; the page says distribution of all titles ended 2019-01-31
+  - Columns: 配信開始日, タイトル, 発売元メーカー, 必要ブロック数, Wi-Fi (対応 = online service support), クラ (● = Classic Controller), 備考
+  - Row: 光と闇の姫君と世界征服の塔 ファイナルファンタジー・クリスタルクロニクル; 配信開始日 2009-06-30; スクウェア・エニックス; blocks blank; Wi-Fi 対応; no Classic Controller mark; note 有料追加コンテンツ配信対応
+- https://ja.wikipedia.org/wiki/光と闇の姫君と世界征服の塔_ファイナルファンタジー・クリスタルクロニクル -- the game's own article, linked from the row -- link recorded only, page not visited; archived: TODO
+
 ## Decisions

@@ -61,4 +61,12 @@
   - 小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル; 国造りRPG ※配信終了; first listed 2023-09-28: release 2008.03.25; icons: Wii, ダウンロード; CERO A; listed in every capture from 2023-09-28 to live (2026-10-28)
     - https://www.jp.square-enix.com/game/detail/littleking/ -- 商品詳細 link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230928143327mp_/https://www.jp.square-enix.com/game/detail/littleking/
 
+## ja.wikipedia.org (Information; Wiiウェア game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Wiiウェアのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki raw action); archived: TODO
+  - Lists the WiiWare titles distributed in Japan, 配信開始日 order by year 2008 to 2011; the page says distribution of all titles ended 2019-01-31
+  - Columns: 配信開始日, タイトル, 発売元メーカー, 必要ブロック数, Wi-Fi (対応 = online service support), クラ (● = Classic Controller), 備考
+  - Row: 小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル; 配信開始日 2008-03-25; スクウェア・エニックス; 287 blocks; Wi-Fi 対応; Classic Controller ●; note 有料追加コンテンツ配信対応 (paid downloadable content)
+- https://ja.wikipedia.org/wiki/小さな王様と約束の国_ファイナルファンタジー・クリスタルクロニクル -- the game's own article, linked from the row -- link recorded only, page not visited; archived: TODO
+
 ## Decisions

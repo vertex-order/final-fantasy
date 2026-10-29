@@ -292,4 +292,12 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - FINAL FANTASY IV: The After Years; first listed live (2026-10-28): platforms Steam, iOS, Android; (Právě vychází); listed on the capture of live (2026-10-28) only
     - http://dlgames.square-enix.com/ff/ff4tay/en/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Wiiウェア game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Wiiウェアのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki raw action); archived: TODO
+  - Lists the WiiWare titles distributed in Japan, 配信開始日 order by year 2008 to 2011; the page says distribution of all titles ended 2019-01-31
+  - Columns: 配信開始日, タイトル, 発売元メーカー, 必要ブロック数, Wi-Fi (対応 = online service support), クラ (● = Classic Controller), 備考
+  - Row: ファイナルファンタジーIV ジ・アフターイヤーズ -月の帰還-; 配信開始日 2009-07-21; スクウェア・エニックス; blocks blank; Wi-Fi 対応; Classic Controller ●; note 有料追加コンテンツ配信対応
+  - Links the article ファイナルファンタジーIV THE AFTER 月の帰還 (cited above)
+
 ## Decisions

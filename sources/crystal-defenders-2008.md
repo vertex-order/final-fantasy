@@ -295,6 +295,15 @@
   - クリスタル・ディフェンダーズR2; ディフェンス・シミュレーション ※配信終了; first listed 2023-09-28: release 2009.02.24; icons: Wii, ダウンロード; CERO A; listed in every capture from 2023-09-28 to live (2026-10-28)
   - クリスタル・ディフェンダーズR1; ディフェンス・シミュレーション ※配信終了; first listed 2023-09-28: release 2009.01.27; icons: Wii, ダウンロード; CERO A; listed in every capture from 2023-09-28 to live (2026-10-28)
 
+## ja.wikipedia.org (Information; Wiiウェア game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Wiiウェアのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki raw action); archived: TODO
+  - Lists the WiiWare titles distributed in Japan, 配信開始日 order by year 2008 to 2011; the page says distribution of all titles ended 2019-01-31
+  - Columns: 配信開始日, タイトル, 発売元メーカー, 必要ブロック数, Wi-Fi (対応 = online service support), クラ (● = Classic Controller), 備考
+  - Row: クリスタル・ディフェンダーズR1; 配信開始日 2009-01-27; スクウェア・エニックス; 208 blocks; Wi-Fi 対応; no Classic Controller mark; no note
+  - Row: クリスタル・ディフェンダーズR2; 配信開始日 2009-02-24; スクウェア・エニックス; 216 blocks; Wi-Fi 対応; no Classic Controller mark; no note
+  - Both rows link the article クリスタル ガーディアンズ (cited above)
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it
