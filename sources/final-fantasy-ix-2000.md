@@ -377,4 +377,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ナンバリング作品とその続編): ファイナルファンタジーIX（PS・2000年7月7日、Win、GA（PS3・PSP・Vita）、PS4、XB1、Switch、iOS、Android）
 
+## ja.wikipedia.org (Information; Xbox One game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Xbox_Oneのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111336315 of 2026-10-10); archived: TODO
+  - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
+  - Row (配信専用タイトル, 2019年): FINAL FANTASY IX; 2019-02-13; スクウェア・エニックス
+
 ## Decisions

@@ -285,4 +285,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
   - Row (コンピレーション・オブ・ファイナルファンタジーVII): クライシス コア ファイナルファンタジーVII（PSP・2007年9月13日）
   - Row (コンピレーション・オブ・ファイナルファンタジーVII): クライシス コア -ファイナルファンタジーVII- リユニオン（PS5、PS4、Switch、XBX、XB1、Steam・2022年12月13日）
 
+## ja.wikipedia.org (Information; Xbox One game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Xbox_Oneのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111336315 of 2026-10-10); archived: TODO
+  - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
+  - Row (配信専用タイトル, 2022年): CRISIS CORE –FINAL FANTASY VII– REUNION（クライシス コア -ファイナルファンタジーVII- リユニオン）; 2022-12-13; スクウェア・エニックス
+
 ## Decisions

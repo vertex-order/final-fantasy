@@ -243,4 +243,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
   - Row (ファブラ ノヴァ クリスタリス ファイナルファンタジー): ファイナルファンタジー零式（PSP・2011年10月27日）
   - Row (ファブラ ノヴァ クリスタリス ファイナルファンタジー): ファイナルファンタジー零式HD（PS4、XB1・2015年3月19日、Win）
 
+## ja.wikipedia.org (Information; Xbox One game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Xbox_Oneのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111336315 of 2026-10-10); archived: TODO
+  - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
+  - Row (パッケージタイトル, 2015年): ファイナルファンタジー零式 HD; 2015-03-19; スクウェア・エニックス
+  - Row (配信専用タイトル, 2015年): ファイナルファンタジー零式HD+ファイナルファンタジーXV体験版(2ヶ月間有効); 2015-03-19; スクウェア・エニックス
+
 ## Decisions

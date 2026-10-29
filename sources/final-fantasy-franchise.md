@@ -25,6 +25,7 @@
 - https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- Japanese Wikipedia's alphabetical index of computer game titles (a title directory: each title with its article link, no platforms or dates, no platform lists) -- live page of 2026-10-28 (revision 110699812 of 2026-08-19), visited and audited; archived: TODO
   - Final Fantasy series article linked from the index: https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズ -- accessed 2026-10-28 (revision 110707130 of 2026-08-19); archived: TODO
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japanese Wikipedia's list of the Final Fantasy series works and derived works (games by series, platforms and first Japan release dates; related works section) -- live page of 2026-10-28 (revision 111298721 of 2026-10-06), visited and audited; archived: TODO
+- https://ja.wikipedia.org/wiki/Xbox_Oneのゲームタイトル一覧 -- Japanese Wikipedia's list of Xbox One games released in Japan (package titles and download-only titles by year; date, title, publisher, note; no Chocobo title) -- live page of 2026-10-28 (revision 111336315 of 2026-10-10), visited and audited; archived: TODO
 - https://wikipedia.org/wiki/Category:Stadia_games -- Stadia games -- accessed 2026-10-19 (confirmed by user; the category list read by me through the API, 213 pages)
   - Only Final Fantasy XV (and its downloadable content) is listed among the Final Fantasy games; no other Final Fantasy game was on Stadia
   - The entry's Stadia row is the Final Fantasy XV Stadia Edition

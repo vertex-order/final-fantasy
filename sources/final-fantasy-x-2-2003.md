@@ -313,4 +313,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
   - Row (ナンバリング作品とその続編): ファイナルファンタジーX-2 インターナショナル+ラストミッション（PS2・2004年2月19日）
   - Row (ナンバリング作品とその続編): ファイナルファンタジーX / X-2 HDリマスター（PS3、Vita・2013年12月26日、PS4、Win、Switch、XB1、Android、iOS）
 
+## ja.wikipedia.org (Information; Xbox One game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Xbox_Oneのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111336315 of 2026-10-10); archived: TODO
+  - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
+  - Row (配信専用タイトル, 2019年): FINAL FANTASY X/X-2 HD Remaster; 2019-04-11; スクウェア・エニックス; note: Xbox One X Enhanced対応
+
 ## Decisions

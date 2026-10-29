@@ -359,6 +359,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - Row (ナンバリング作品とその続編): ファイナルファンタジーVII（PS・1997年1月31日）
   - Row (ナンバリング作品とその続編): ファイナルファンタジーVII インターナショナル（PS・1997年10月2日、GA（PS3・PSP・Vita）Win、PS4、XB1、Switch、iOS、Android）
 
+## ja.wikipedia.org (Information; Xbox One game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Xbox_Oneのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111336315 of 2026-10-10); archived: TODO
+  - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
+  - Row (配信専用タイトル, 2019年): FINAL FANTASY VII; 2019-03-26; スクウェア・エニックス
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

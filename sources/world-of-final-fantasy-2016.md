@@ -226,4 +226,10 @@
   - Row (その他の派生作品): ワールド オブ ファイナルファンタジー（PS4、Vita・2016年10月27日、Win）
   - Row (その他の派生作品): ワールド オブ ファイナルファンタジー マキシマ（PS4、Switch、XB1、Win・2018年11月6日）
 
+## ja.wikipedia.org (Information; Xbox One game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Xbox_Oneのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111336315 of 2026-10-10); archived: TODO
+  - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
+  - Row (配信専用タイトル, 2018年): WORLD OF FINAL FANTASY MAXIMA; 2018-11-06; スクウェア・エニックス; note: Xbox One X Enhanced対応
+
 ## Decisions

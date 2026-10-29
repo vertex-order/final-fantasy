@@ -430,6 +430,15 @@ square-enix-games.com (Publisher, official)
   - Row (ナンバリング作品とその続編): ファイナルファンタジーXV ポケットエディション（iOS、Android・2018年2月9日）
   - Row (ナンバリング作品とその続編): ファイナルファンタジーXV ポケットエディション HD（PS4、XB1・2018年9月7日、Switch）
 
+## ja.wikipedia.org (Information; Xbox One game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Xbox_Oneのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111336315 of 2026-10-10); archived: TODO
+  - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
+  - Row (配信専用タイトル, 2015年): ファイナルファンタジー零式HD+ファイナルファンタジーXV体験版(2ヶ月間有効); 2015-03-19; スクウェア・エニックス
+  - Row (パッケージタイトル, 2016年): FINAL FANTASY XV; 2016-11-29; スクウェア・エニックス; note: Xbox One X Enhanced対応
+  - Row (配信専用タイトル, 2018年): ファイナルファンタジーXV ROYAL EDITION; 2018-03-06; スクウェア・エニックス
+  - Row (配信専用タイトル, 2018年): FINAL FANTASY XV ポケットエディション HD; 2018-09-07; スクウェア・エニックス
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations

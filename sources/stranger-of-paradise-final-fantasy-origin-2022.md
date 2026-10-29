@@ -206,4 +206,10 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (その他の派生作品): ストレンジャー オブ パラダイス ファイナルファンタジー オリジン（STRANGER OF PARADISE FINAL FANTASY ORIGIN）（PS5、PS4、XBX、XB1、Win・2022年3月18日）
 
+## ja.wikipedia.org (Information; Xbox One game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Xbox_Oneのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111336315 of 2026-10-10); archived: TODO
+  - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
+  - Row (配信専用タイトル, 2022年): STRANGER OF PARADISE FINAL FANTASY ORIGIN; 2022-03-18; スクウェア・エニックス
+
 ## Decisions
