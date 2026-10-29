@@ -814,6 +814,14 @@
   - Section ワンダースワンのタイトル (monochrome): チョコボの不思議なダンジョン for ワンダースワン; Japan 1999-03-04; バンダイ; note: ローンチタイトル, a port of the PlayStation game チョコボの不思議なダンジョン
   - Section ワンダースワンカラー対応のタイトル (Color-compatible): はたらくチョコボ; Japan 2000-09-21; スクウェア; note: チョコボを題材とした開拓もののシミュレーションゲーム
 
+## ja.wikipedia.org (Information; PocketStation article, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/PocketStation -- platforms* -- accessed 2026-10-29 (revision 110959392 of 2026-09-09; wikitext read through the MediaWiki API); archived: TODO
+  - Article on the Sony handheld memory card (Japan launch 1999-01-23); section 対応ゲームソフト一覧 lists the compatible games in 50音順, 6.1 PlayStation ソフト and 6.2 PlayStation 2ソフト, names only (no dates or notes)
+  - Row (6.1 PlayStation ソフト): チョコボスタリオン; スクウェア
+  - Row (6.1 PlayStation ソフト): チョコボコレクション; スクウェア
+  - Chocobo World is not named on the page; it lists ファイナルファンタジーVIII (see sources/final-fantasy-viii-1999.md)
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

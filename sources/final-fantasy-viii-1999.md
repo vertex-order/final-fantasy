@@ -392,4 +392,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2019年, 発売されたタイトル): FINAL FANTASY VIII Remastered; Japan 2019-09-03; スクウェア・エニックス; パ: blank; CERO: B; note: 『FINAL FANTASY VIII』のリマスター版
 
+## ja.wikipedia.org (Information; PocketStation article, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/PocketStation -- platforms*, dates* -- accessed 2026-10-29 (revision 110959392 of 2026-09-09; wikitext read through the MediaWiki API); archived: TODO
+  - Article on the Sony handheld memory card (Japan launch 1999-01-23); section 対応ゲームソフト一覧 lists the compatible games in 50音順, 6.1 PlayStation ソフト and 6.2 PlayStation 2ソフト, names only (no dates or notes)
+  - Section 沿革, 1999年2月11日: FINAL FANTASY VIII released as a PocketStation-compatible game; top seller among the 1999 compatible titles; collecting items used in the main game
+  - Row (6.1 PlayStation ソフト): ファイナルファンタジーVIII; スクウェア
+  - Chocobo World is not named on the page
+
 ## Decisions
