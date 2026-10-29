@@ -277,6 +277,12 @@ square-enix.com and stores (Publisher)
   - Lists the games released for PlayStation Vita (index page with the 2016 to 2021 tables; release dates per region Japan, North America and Europe, title, publisher, TV column [PlayStation Vita TV compatible], パ column [sold as a package], note)
   - Row (2016年): 聖剣伝説 〜ファイナルファンタジー外伝〜 / Adventures of Mana; Japan 2016-02-04; North America 2016-06-28; Europe 2016-06-28; スクウェア・エニックス; TV: ●; パ: blank; no note
 
+## ja.wikipedia.org (Information; Game Boy game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ゲームボーイのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111418751 of 2026-10-17; wikitext read through the MediaWiki API); archived: TODO
+  - Single page of the Game Boy games released in Japan, in release order by year (columns: Japan, North America and Europe release dates, title, publisher, SGB [Super Game Boy compatible], note, reference); no package or download mark; Game Boy only
+  - Row (1991年): 聖剣伝説 〜ファイナルファンタジー外伝〜 / Final Fantasy Adventure (North America) / Mystic Quest (Europe); Japan 1991-06-28; North America 1991-11; Europe 1993; スクウェア (Europe: Nintendo); SGB: blank; no note
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

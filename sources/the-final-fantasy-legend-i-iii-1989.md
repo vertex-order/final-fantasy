@@ -244,4 +244,19 @@
   - Lead: SaGa series of computer RPGs from Square (now Square Enix); begins with 魔界塔士Sa・Ga, released 1989-12-15 as the first RPG on the Game Boy
   - Lead: 15 titles as of October 2024; the title changes and the numbering restarts with each platform
 
+## ja.wikipedia.org (Information; Game Boy game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ゲームボーイのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111418751 of 2026-10-17; wikitext read through the MediaWiki API); archived: TODO
+  - Single page of the Game Boy games released in Japan, in release order by year (columns: Japan, North America and Europe release dates, title, publisher, SGB [Super Game Boy compatible], note, reference); no package or download mark; Game Boy only
+  - Row (1989年): 魔界塔士Sa・Ga / The Final Fantasy Legend; Japan 1989-12-15; North America 1990-09-30; Europe: not released; スクウェア; SGB: blank; note: サガシリーズ第1作で、日本国外においてはファイナルファンタジーシリーズ関連作品として発売された
+  - Row (1990年): Sa・Ga2 秘宝伝説 / Final Fantasy Legend II; Japan 1990-12-14; North America 1991-11; Europe: not released; スクウェア; SGB: blank; note: サガシリーズ第2作
+  - Row (1991年): 時空の覇者 Sa・Ga3 完結編 / Final Fantasy Legend III; Japan 1991-12-13; North America 1993-08 (footnote: Nintendo Life gives 1993-09-29); Europe: not released; スクウェア; SGB: blank; note: ゲームボーイで展開されたサガシリーズ3部作の完結編
+  - Nintendo Life reference: https://www.nintendolife.com/guides/50-best-game-boy-games-of-all-time -- link recorded only
+  - Game Boy Color list: no row for these titles
+
+## ja.wikipedia.org (Information; Game Boy Color game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ゲームボーイカラーのゲームタイトル一覧 -- platforms* -- accessed 2026-10-29 (revision 111419004 of 2026-10-17; wikitext read through the MediaWiki API); archived: TODO
+  - Holds no Sa・Ga, Final Fantasy or Chocobo title
+
 ## Decisions
