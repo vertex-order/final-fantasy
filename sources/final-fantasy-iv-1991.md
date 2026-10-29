@@ -611,4 +611,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2023年, ダウンロード table): FINAL FANTASY IV; Japan 2023-04-20; スクウェア・エニックス; パ: blank; CERO: B; note: 6作品をまとめて収録したパッケージソフトに加え、アナログレコードやアートブックなどを同梱した限定版『ファイナルファンタジーI-VI ピクセルリマスター FF35周年限定特装版』も同日発売 (one note shared by the six Pixel Remaster rows)
 
+## ja.wikipedia.org (Information; Super Famicom game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/スーパーファミコンのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111500733 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+  - List of the Super Famicom and Super Nintendo Entertainment System games released worldwide, one table sorted by Japan release date (columns: Japan, North America and Europe dates, title with the overseas title beneath, publisher, note, reference); "未発売" means not released in that region
+  - Row: ファイナルファンタジーIV (overseas title Final Fantasy II); Japan 1991-07-19; North America 1991-11-23; Europe not released; スクウェア; no note
+  - Row: ファイナルファンタジーIV イージータイプ; Japan 1991-10-29; North America and Europe not released; スクウェア; note: 同年7月に発売された『ファイナルファンタジーIV』を簡易化
+  - Prose (特徴): the North American Final Fantasy II was released with a lower difficulty than the Japanese version
+
 ## Decisions

@@ -93,4 +93,10 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (その他の派生作品): ファイナルファンタジーUSA ミスティッククエスト（SFC・1993年9月10日、VC（Wii・Wii U））
 
+## ja.wikipedia.org (Information; Super Famicom game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/スーパーファミコンのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111500733 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+  - List of the Super Famicom and Super Nintendo Entertainment System games released worldwide, one table sorted by Japan release date (columns: Japan, North America and Europe dates, title with the overseas title beneath, publisher, note, reference); "未発売" means not released in that region
+  - Row: ファイナルファンタジーUSA ミスティッククエスト; Japan 1993-09-10; North America 1992-10-05; Europe 1993-10; スクウェア; note: 北米向けに発売された『ファイナルファンタジー』の逆輸入版
+
 ## Decisions
