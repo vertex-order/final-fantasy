@@ -278,7 +278,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
           paren: 'Physical; Digital; PS4 compatibility',
           url: 'https://store.playstation.com/product/JP0082-PPSA21783_00-FFTACTICS0000000',
         },
-        { key: 'playstation-plus', url: 'https://store.playstation.com/product/JP0082-PPSA21783_00-FFTACTICS0000000', paren: 'PS5; PS4; PSPortal' },
+        { key: 'playstation-plus-cloud', url: 'https://store.playstation.com/product/JP0082-PPSA21783_00-FFTACTICS0000000', paren: 'PS5; PS4; PSPortal' },
         {
           key: 'nintendo-switch',
           paren: 'Physical; Digital',

@@ -34,7 +34,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
         { key: 'epic-games', paren: 'PC; Digital', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin' },
         { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00' },
         { key: 'playstation5', paren: 'Physical; Digital; PS4 compat', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00' },
-        { key: 'playstation-plus', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00', paren: 'PS5; PSPortal' },
+        { key: 'playstation-plus-cloud', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFORIGINDDE00', paren: 'PS5; PSPortal' },
         {
           key: 'xbox-one',
           paren: 'Physical; Digital',
