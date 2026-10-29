@@ -122,4 +122,12 @@
   - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
   - Member: ファイナルファンタジーXIV: 蒼天のイシュガルド (a redirect page to ファイナルファンタジーXIV)
 
+## ja.wikipedia.org (Information; macOS game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:MacOS用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104250449 of 2025-03-26; members read through the MediaWiki API); archived: TODO
+  - Category of macOS game software: 502 pages, no subcategories
+  - Member: ファイナルファンタジーXIV (the article of the whole XIV series)
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- accessed 2026-10-29 (revision 111444198 of 2026-10-19); archived: TODO
+  - Article: Mac version service began 2015-06-23 with the 3.0 release (蒼天のイシュガルド); Mac version sales suspended 2015-07-03 with refunds for Mac buyers, sales resumed 2016-02-23 and the refund period ended 2016-02-22
+
 ## Decisions

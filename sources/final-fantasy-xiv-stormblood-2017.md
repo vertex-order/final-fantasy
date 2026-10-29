@@ -85,4 +85,11 @@
   - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2017年): ファイナルファンタジーXIV: 紅蓮のリベレーター; 2017-06-20; スクウェア・エニックス; パ: ●; note: 『ファイナルファンタジーXIV』の拡張パッケージ
 
+## ja.wikipedia.org (Information; macOS game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:MacOS用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104250449 of 2025-03-26; members read through the MediaWiki API); archived: TODO
+  - Category of macOS game software: 502 pages, no subcategories
+  - Member: ファイナルファンタジーXIV (the article of the whole XIV series)
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- accessed 2026-10-29 (revision 111444198 of 2026-10-19); archived: TODO
+
 ## Decisions

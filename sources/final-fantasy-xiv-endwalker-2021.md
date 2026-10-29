@@ -93,4 +93,11 @@
   - Lists the games released in Japan for PlayStation 5 (2020 and 2021; date, title, publisher, パ column [● also sold as a package], online (オ: ● online play, ◎ online only), CERO rating (レ), note)
   - Row (2021年): ファイナルファンタジーXIV; 2021-05-25; スクウェア・エニックス; パ: blank (download only per the legend); オ: ◎; レ: C; note: PlayStation 4版からのアップグレードが可能; 2021年12月7日には大型拡張コンテンツ『ファイナルファンタジーXIV: 暁月のフィナーレ』が配信された
 
+## ja.wikipedia.org (Information; macOS game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:MacOS用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104250449 of 2025-03-26; members read through the MediaWiki API); archived: TODO
+  - Category of macOS game software: 502 pages, no subcategories
+  - Member: ファイナルファンタジーXIV (the article of the whole XIV series)
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- accessed 2026-10-29 (revision 111444198 of 2026-10-19); archived: TODO
+
 ## Decisions
