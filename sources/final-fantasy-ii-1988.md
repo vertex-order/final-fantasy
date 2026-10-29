@@ -504,6 +504,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
   - Row (ナンバリング作品とその続編): ファイナルファンタジーI・II アドバンス（GBA・2004年7月29日、VC（Wii U））
   - Row (ナンバリング作品とその続編): ファイナルファンタジー ピクセルリマスター（Win_Steam、Android、iOS・2021年7月29日、Switch、PS4、XBOX、Win_MSStore）
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111341023 of 2026-10-10); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (index page with the 2022 to 2027 tables and the unreleased titles; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (2023年): ファイナルファンタジーII; 2023-04-20; スクウェア・エニックス; パ: blank (download only per the legend); note: ピクセルリマスター版 (one publisher and note cell shared by the six titles)
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

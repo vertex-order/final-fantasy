@@ -217,3 +217,9 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2004年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110833801 of 2026-08-30); archived: TODO
   - Lists the games released in Japan for PlayStation 2 (2004; date, title, publisher, note)
   - Row (発売されたタイトル, 2004年): ドラゴンクエスト&ファイナルファンタジー in いただきストリートSpecial; 2004-12-22; スクウェア・エニックス; note: いただきストリートシリーズでは初めて、ドラゴンクエストシリーズとファイナルファンタジーシリーズ両方を題材とした作品
+
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2017年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840860 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたタイトル, 2017年): いただきストリート ドラゴンクエスト&ファイナルファンタジー 30th ANNIVERSARY; 2017-10-19; スクウェア・エニックス; パ: ●; note: 『ドラゴンクエスト』と『ファイナルファンタジー』シリーズ30周年記念作品

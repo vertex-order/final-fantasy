@@ -218,4 +218,10 @@
   - Lists the games released in Japan for Xbox Series X/S and Xbox One (package titles, gift-code downloads and download-only titles by year; date, title, publisher, note); a bold title is an Xbox Series X|S exclusive title, which the page equates with Optimized for Xbox Series X|S
   - Row (配信専用タイトル, 2022年): STRANGER OF PARADISE FINAL FANTASY ORIGIN（ストレンジャー オブ パラダイス ファイナルファンタジー オリジン）; 2022-03-18; スクウェア・エニックス; not bold
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111341023 of 2026-10-10); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (index page with the 2022 to 2027 tables and the unreleased titles; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (2022年): ストレンジャー オブ パラダイス ファイナルファンタジー オリジン; 2022-03-18; スクウェア・エニックス; パ: ●; note: PlayStation 5版も同日発売
+
 ## Decisions

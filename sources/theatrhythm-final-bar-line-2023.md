@@ -151,4 +151,10 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (その他の派生作品): シアトリズム ファイナル バーライン（Switch、PS4・2023年2月16日）
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111341023 of 2026-10-10); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (index page with the 2022 to 2027 tables and the unreleased titles; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (2023年): シアトリズム ファイナルバーライン; 2023-02-16; スクウェア・エニックス; パ: ●
+
 ## Decisions

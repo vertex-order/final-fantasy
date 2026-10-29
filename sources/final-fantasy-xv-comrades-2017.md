@@ -100,6 +100,12 @@ otakumode.com (Information)
 - Whether Steam copies kept online matchmaking after 2020-06-24: the notice does not list it; probably still works
 - Length: HowLongToBeat gives 39½ hours (All Styles) and 38½ hours (Co-Op); the entry uses the longest
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2018年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840869 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2018; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたタイトル, 2018年): ファイナルファンタジーXV MULTIPLAYER COMRADES; 2018-12-13; スクウェア・エニックス; パ: blank (download only per the legend); note: ｢FINAL FANTASY XV オンライン拡張パック：戦友｣のスタンドアロン版
+
 ## Decisions
 
 - Own entry (user): a separate co-op expansion with its own story and avatar gameplay, listed like the other XV DLC; reverses the earlier call in final-fantasy-xv-2016.md

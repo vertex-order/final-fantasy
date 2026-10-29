@@ -577,4 +577,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - Row (ナンバリング作品とその続編): ファイナルファンタジーコレクション（PS・1999年3月11日）
   - Row (ナンバリング作品とその続編): ファイナルファンタジー ピクセルリマスター（Win_Steam、Android、iOS・2021年7月29日、Switch、PS4、XBOX、Win_MSStore）
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111341023 of 2026-10-10); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (index page with the 2022 to 2027 tables and the unreleased titles; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (2023年): ファイナルファンタジーIV; 2023-04-20; スクウェア・エニックス; パ: blank (download only per the legend); note: ピクセルリマスター版 (one publisher and note cell shared by the six titles)
+
 ## Decisions

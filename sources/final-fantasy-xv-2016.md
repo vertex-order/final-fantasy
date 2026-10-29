@@ -439,6 +439,15 @@ square-enix-games.com (Publisher, official)
   - Row (配信専用タイトル, 2018年): ファイナルファンタジーXV ROYAL EDITION; 2018-03-06; スクウェア・エニックス
   - Row (配信専用タイトル, 2018年): FINAL FANTASY XV ポケットエディション HD; 2018-09-07; スクウェア・エニックス
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2016年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840850 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2016; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたソフトの一覧, 2016年): ファイナルファンタジーXV; 2016-11-29; スクウェア・エニックス; パ: ●; note: PlayStation 4 Pro対応
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2018年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840869 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2018; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたタイトル, 2018年): FINAL FANTASY XV POCKET EDITION HD; 2018-09-07; スクウェア・エニックス; パ: blank (download only per the legend); note: スマートフォン向けアプリ『ファイナルファンタジーXV ポケットエディション』の移植版で、『ファイナルファンタジーXV』本編の内容をデフォルメしたキャラクターで表現した内容である
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations

@@ -280,4 +280,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
   - Lists the games released in Japan for PlayStation 2 (2007; date, title, publisher, note)
   - Row (2007年): ファイナルファンタジーXII インターナショナル ゾディアックジョブシステム; 2007-08-09; スクウェア・エニックス; note: 2006年発売の『ファイナルファンタジーXII』にジョブシステムを追加した作品
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2017年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840860 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたタイトル, 2017年): ファイナルファンタジーXII ザ ゾディアック エイジ; 2017-07-13; スクウェア・エニックス; パ: ●; note: PlayStation 4 Pro対応
+
 ## Decisions

@@ -258,4 +258,10 @@
   - Row (ファイナルファンタジー・クリスタルクロニクルシリーズ): ファイナルファンタジー・クリスタルクロニクル（GC・2003年8月8日）
   - Row (ファイナルファンタジー・クリスタルクロニクルシリーズ): ファイナルファンタジー・クリスタルクロニクル リマスター（PS4、Switch・2020年8月27日）
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2020年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840890 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2020; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたタイトル, 2020年): ファイナルファンタジー・クリスタルクロニクル リマスター; 2020-08-27; スクウェア・エニックス; パ: ●; note: 変更前の発売日は1月23日
+
 ## Decisions

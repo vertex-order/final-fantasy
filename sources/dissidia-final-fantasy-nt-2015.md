@@ -206,4 +206,10 @@
   - Row (その他の派生作品): ディシディア ファイナルファンタジー（アーケード・2015年11月27日）
   - Row (その他の派生作品): ディシディア ファイナルファンタジー NT（PS4・2018年1月11日、Win）
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2018年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840869 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2018; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたタイトル, 2018年): ディシディア ファイナルファンタジー NT; 2018-01-11; スクウェア・エニックス; パ: ●; note: PlayStation 4 Pro対応; 2018年11月22日にはバトルモードのみを収録した「DISSIDIA FINAL FANTASY NT Free Edition」がWargaming.netから基本無料タイトルとして配信された
+
 ## Decisions

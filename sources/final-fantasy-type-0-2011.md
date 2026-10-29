@@ -250,4 +250,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
   - Row (パッケージタイトル, 2015年): ファイナルファンタジー零式 HD; 2015-03-19; スクウェア・エニックス
   - Row (配信専用タイトル, 2015年): ファイナルファンタジー零式HD+ファイナルファンタジーXV体験版(2ヶ月間有効); 2015-03-19; スクウェア・エニックス
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2014年-2015年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111476184 of 2026-10-22); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2014 and 2015; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), note)
+  - Row (発売されたタイトル, 2015年): ファイナルファンタジー零式 HD; 2015-03-19; スクウェア・エニックス; パ: ●; note: PlayStation Portable用ソフト『ファイナルファンタジー零式』のリマスター版
+
 ## Decisions

@@ -769,6 +769,12 @@
 - https://ja.wikipedia.org/wiki/はたらくチョコボ -- Japan release date -- accessed 2026-10-28 (article read through the MediaWiki API, revision 108926777 of 2026-03-28); archived: TODO
   - Lead: Hataraku Chocobo, a frontier-development simulation released 2000-09-21 by Square; platform not in the lead
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2019年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111213024 of 2026-09-30); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2019; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたタイトル, 2019年): チョコボの不思議なダンジョン エブリバディ!; 2019-03-20; スクウェア・エニックス; パ: ●
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

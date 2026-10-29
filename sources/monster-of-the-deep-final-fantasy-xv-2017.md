@@ -137,4 +137,10 @@
   - MONSTER OF THE DEEP: FINAL FANTASY XV; first listed live (2026-10-28): platforms PS4; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/monster-of-the-deep-final-fantasy-xv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2017年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840860 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたタイトル, 2017年): MONSTER OF THE DEEP: FINAL FANTASY XV; 2017-11-21; スクウェア・エニックス; パ: blank (download only per the legend); V: 専用; note: 『ファイナルファンタジーXV』を題材としたVR釣りゲーム
+
 ## Decisions

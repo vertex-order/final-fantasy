@@ -276,4 +276,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake_versio
   - Row (ナンバリング作品とその続編): ファイナルファンタジーVII リメイク（PS4・2020年4月10日）
   - Row (ナンバリング作品とその続編): ファイナルファンタジーVII リメイク インターグレード（PS5・2021年6月10日、Win、Switch2、XBX）
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2020年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840890 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2020; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたタイトル, 2020年): ファイナルファンタジーVII リメイク; 2020-04-10; スクウェア・エニックス; パ: ●; note: PlayStation用ソフト『ファイナルファンタジーVII』のリメイク。PlayStation 4 Pro対応
+
 ## Decisions

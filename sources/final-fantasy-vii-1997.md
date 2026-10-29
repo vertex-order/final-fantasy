@@ -365,6 +365,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
   - Row (配信専用タイトル, 2019年): FINAL FANTASY VII; 2019-03-26; スクウェア・エニックス
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2014年-2015年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111476184 of 2026-10-22); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2014 and 2015; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), note)
+  - Row (発売されたタイトル, 2015年): FINAL FANTASY VII; 2015-12-04; スクウェア・エニックス; パ: blank (download only per the legend); note: 『ファイナルファンタジーVII インターナショナル for PC』の移植版
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

@@ -79,4 +79,10 @@
   - Lists the games released in Japan for Xbox Series X/S and Xbox One (package titles, gift-code downloads and download-only titles by year; date, title, publisher, note); a bold title is an Xbox Series X|S exclusive title, which the page equates with Optimized for Xbox Series X|S
   - Row (配信専用タイトル, 2024年): ファイナルファンタジーXIV - コンプリートパック; 2024-07-02; スクウェア・エニックス; note 新生エオルゼア～黄金のレガシーまで
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2017年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840860 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたタイトル, 2017年): ファイナルファンタジーXIV: 紅蓮のリベレーター; 2017-06-20; スクウェア・エニックス; パ: ●; note: 『ファイナルファンタジーXIV』の拡張パッケージ
+
 ## Decisions
