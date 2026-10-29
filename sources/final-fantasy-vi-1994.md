@@ -495,4 +495,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: ファイナルファンタジーVI
 
+## ja.wikipedia.org (Information; SNES Classic Edition console article, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ニンテンドークラシックミニ_スーパーファミコン -- platforms*, dates -- accessed 2026-10-29 (revision 110245212 of 2026-07-11; wikitext read through the MediaWiki API); archived: TODO
+  - Console released 2017-10-05 in Japan, 2017-09-29 in North America and Europe; 21 built-in titles in each version
+  - Section 収録タイトル: one table of 26 rows for both versions; cell colour green = both versions (16), yellow = Japan only (5), red = overseas only (5); columns: Japanese title, overseas title, release year, publisher, note
+  - Row (green, both versions): ファイナルファンタジーVI; overseas title Final Fantasy III; 1994; スクウェア; no note
+
 ## Decisions
