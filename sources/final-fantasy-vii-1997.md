@@ -396,6 +396,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: ファイナルファンタジーVII
 
+## ja.wikipedia.org (Information; PlayStation Classic console article, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/PlayStation_Classic -- platforms*, dates -- accessed 2026-10-29 (revision 107835551 of 2026-01-01); archived: TODO
+  - Console released in Japan 2018-12-03; the built-in software list is inline in the article (Japanese version 20 titles, plus 8 overseas-only titles)
+  - Row (Japanese version, no. 16): ファイナルファンタジーVII インターナショナル; overseas title Final Fantasy VII; 1997-10-02; スクウェア; no overseas difference noted
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.
