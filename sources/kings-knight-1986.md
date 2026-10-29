@@ -174,6 +174,12 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Columns: 配信開始日, OP (original platform: GB, GBC, GBA, DS, FC = Famicom, SFC = Super Famicom, GG, PCE), タイトル, 販売メーカー, 備考, 出典; the Super Famicom titles are the Newニンテンドー3DS-only Virtual Console
   - Row (2014年: キングスナイト; 配信開始日 2014-02-05; OP FC); スクウェア・エニックス; no note
 
+## ja.wikipedia.org (Information; Famicom game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ファミリーコンピュータのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111001969 of 2026-09-13; wikitext read through the MediaWiki API); archived: TODO
+  - List of the Famicom and NES games released worldwide, one table 発売されたタイトル sorted by Japan release date (columns: Japan, North America and Europe dates, title with the overseas title beneath, publisher, note, reference); "未発売" means not released in that region
+  - Row: キングスナイト; Japan 1986-09-18; North America 1989-09; Europe not released; スクウェア; note: ファンタジーを題材としたシューティングゲーム
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)

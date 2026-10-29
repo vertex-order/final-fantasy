@@ -494,4 +494,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2023年, ダウンロード table): FINAL FANTASY III; Japan 2023-04-20; スクウェア・エニックス; パ: blank; CERO: B; note: 6作品をまとめて収録したパッケージソフトに加え、アナログレコードやアートブックなどを同梱した限定版『ファイナルファンタジーI-VI ピクセルリマスター FF35周年限定特装版』も同日発売 (one note shared by the six Pixel Remaster rows)
 
+## ja.wikipedia.org (Information; Famicom game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ファミリーコンピュータのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111001969 of 2026-09-13; wikitext read through the MediaWiki API); archived: TODO
+  - List of the Famicom and NES games released worldwide, one table 発売されたタイトル sorted by Japan release date (columns: Japan, North America and Europe dates, title with the overseas title beneath, publisher, note, reference); "未発売" means not released in that region
+  - Row: ファイナルファンタジーIII; Japan 1990-04-27; North America and Europe not released; スクウェア; no note; footnote: ファミリーコンピュータ 1983-1994 gives 1990-04-24
+
 ## Decisions

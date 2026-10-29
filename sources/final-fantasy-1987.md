@@ -625,6 +625,14 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2023年, ダウンロード table): FINAL FANTASY; Japan 2023-04-20; スクウェア・エニックス; パ: blank; CERO: A; note: 6作品をまとめて収録したパッケージソフトに加え、アナログレコードやアートブックなどを同梱した限定版『ファイナルファンタジーI-VI ピクセルリマスター FF35周年限定特装版』も同日発売 (one note shared by the six Pixel Remaster rows)
 
+## ja.wikipedia.org (Information; Famicom game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ファミリーコンピュータのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111001969 of 2026-09-13; wikitext read through the MediaWiki API); archived: TODO
+  - List of the Famicom and NES games released worldwide, one table 発売されたタイトル sorted by Japan release date (columns: Japan, North America and Europe dates, title with the overseas title beneath, publisher, note, reference); "未発売" means not released in that region
+  - Row: ファイナルファンタジー; Japan 1987-12-18; North America 1990-05; Europe not released; publishers スクウェア and Nintendo; note: ファイナルファンタジーシリーズ第1弾
+  - Row: ファイナルファンタジーI・II; Japan 1994-02-27; North America and Europe not released; スクウェア; no note
+  - Prose (1987年): Square released Final Fantasy in December, prompted by Dragon Quest
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)
