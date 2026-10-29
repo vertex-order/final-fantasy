@@ -612,6 +612,13 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - Lists the games released for Nintendo 3DS (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [◎ package, download card and eShop, △ download card and eShop, □ eShop only, × no download version, blank download only], note)
   - Row: FINAL FANTASY (linked to the ファイナルファンタジー article); Japan 2015-01-21; North America and Europe not released; スクウェア・エニックス; DL: blank (download only per the legend); no note
 
+## ja.wikipedia.org (Information; Game Boy Advance game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ゲームボーイアドバンスのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 110862677 of 2026-09-01; wikitext read through the MediaWiki API); archived: TODO
+  - Single page of the 791 titles released in Japan, in release order, then the unreleased titles (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark; Game Boy Advance only
+  - Row: ファイナルファンタジーI・II アドバンス; Japan 2004-07-29; スクウェア・エニックス; note: ワンダースワン用ソフト『ファイナルファンタジー』および『ファイナルファンタジーII』の移植版 (the one cartridge holds both games)
+    - reference link recorded only: https://www.inside-games.jp/article/2011/03/23/48044.html
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

@@ -791,6 +791,13 @@
     - reference link recorded only: http://www.nintendo.co.jp/ds/software/c5yj/index.html
     - reference link recorded only: https://web.archive.org/web/20111210032536/http://www.nintendo.co.jp/ds/software/c5yj/index.html
 
+## ja.wikipedia.org (Information; Game Boy Advance game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ゲームボーイアドバンスのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 110862677 of 2026-09-01; wikitext read through the MediaWiki API); archived: TODO
+  - Single page of the 791 titles released in Japan, in release order, then the unreleased titles (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark; Game Boy Advance only
+  - Row: チョコボランド A Game Of Dice; Japan 2002-12-13; スクウェア; note: 『ファイナルファンタジー』シリーズの登場キャラクター・チョコボを題材とした作品 (the Game Boy Advance remake of Dice de Chocobo)
+    - reference link recorded only: https://game.watch.impress.co.jp/docs/20021212/square.htm
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

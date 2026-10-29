@@ -461,4 +461,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
   - Lists the games released in Japan for PlayStation 4 (index page with the 2022 to 2027 tables and the unreleased titles; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (2023年): ファイナルファンタジーV; 2023-04-20; スクウェア・エニックス; パ: blank (download only per the legend); note: ピクセルリマスター版 (one publisher and note cell shared by the six titles)
 
+## ja.wikipedia.org (Information; Game Boy Advance game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ゲームボーイアドバンスのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 110862677 of 2026-09-01; wikitext read through the MediaWiki API); archived: TODO
+  - Single page of the 791 titles released in Japan, in release order, then the unreleased titles (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark; Game Boy Advance only
+  - Row: ファイナルファンタジーV アドバンス; Japan 2006-10-12; スクウェア・エニックス; note: スーパーファミコン用ソフト『ファイナルファンタジーV』の移植版
+    - reference link recorded only: https://www.jp.square-enix.com/game/detail/ff5a/
+
 ## Decisions

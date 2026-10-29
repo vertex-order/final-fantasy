@@ -81,4 +81,12 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ファイナルファンタジータクティクスシリーズ): ファイナルファンタジータクティクスアドバンス（GBA・2003年2月14日、VC（Wii U））
 
+## ja.wikipedia.org (Information; Game Boy Advance game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ゲームボーイアドバンスのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 110862677 of 2026-09-01; wikitext read through the MediaWiki API); archived: TODO
+  - Single page of the 791 titles released in Japan, in release order, then the unreleased titles (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark; Game Boy Advance only
+  - Row: ファイナルファンタジータクティクスアドバンス; Japan 2003-02-14; スクウェア; note: 『ファイナルファンタジー』シリーズの1作品
+    - reference link recorded only: https://www.famitsu.com/game/coming/1138605_1407.html
+    - reference link recorded only: https://web.archive.org/web/20071024150248/https://www.famitsu.com/game/coming/1138605_1407.html
+
 ## Decisions

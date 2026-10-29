@@ -599,4 +599,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
     - reference link recorded only: https://game.watch.impress.co.jp/docs/20070928/ff4.htm
     - reference link recorded only: https://web.archive.org/web/20250413171821/https://game.watch.impress.co.jp/docs/20070928/ff4.htm
 
+## ja.wikipedia.org (Information; Game Boy Advance game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ゲームボーイアドバンスのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 110862677 of 2026-09-01; wikitext read through the MediaWiki API); archived: TODO
+  - Single page of the 791 titles released in Japan, in release order, then the unreleased titles (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark; Game Boy Advance only
+  - Row: ファイナルファンタジーIV アドバンス; Japan 2005-12-15; スクウェア・エニックス; note: 天野喜孝デザインゲームボーイミクロ同梱版あり
+
 ## Decisions
