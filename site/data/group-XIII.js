@@ -332,6 +332,8 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
           platforms: [
             { key: 'playstation3', paren: 'Physical; Digital' },
             { key: 'xbox-360', paren: 'Physical; Digital', url: 'https://www.xbox.com/games/store/lightning-returns-final-fantasy-xiii/BRRSMNBM1QGG' },
+            { key: 'xbox-one', paren: '360 compatibility' },
+            { key: 'xbox-xs', paren: '360 compatibility' },
           ],
           versionDesc: [
             'The original release. The international version (2014) softens some dialogue and innuendo, and offers Japanese audio as separate DLC.',

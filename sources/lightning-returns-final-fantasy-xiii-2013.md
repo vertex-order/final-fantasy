@@ -253,4 +253,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
   - Lists the games released in Japan for PlayStation 3 in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, online column (オ: ○ = dedicated online title), 3D column, note
   - Row (パッケージタイトル, 2013年): ライトニング リターンズ ファイナルファンタジーXIII; 2013-11-21; スクウェア・エニックス; no note
 
+## ja.wikipedia.org (Information; Xbox 360 game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Xbox_360のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111540372 of 2026-10-27; wikitext read through the MediaWiki API); archived: TODO
+  - List of the Xbox 360 games released worldwide, one table on one page ordered by Japan release date (columns: Japan, North America and Europe dates, title, publisher, 媒体 [◎: sold as a package and a download; ○: download only or backward compatible; blank: package or unknown], note, Xbox One以降の後方互換 [○: backward compatible with Xbox One and later], reference); a cell marked "未発売" by the list's Unreleased template means not released in that region
+  - Row (2013年): ライトニング リターンズ ファイナルファンタジーXIII; Japan 2013-11-21; North America 2014-02-11; Europe 2014-02-14; スクウェア・エニックス; 媒体: ◎; note: 日本ではダウンロード版は2014年2月14日に配信開始; backward compatibility: ○; reference: Square Enix Japan's Lightning Returns page https://www.jp.square-enix.com/game/detail/lrff13/ (accessed 2022-10-12)
+
 ## Decisions

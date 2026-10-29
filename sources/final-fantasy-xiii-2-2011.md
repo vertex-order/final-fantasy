@@ -297,6 +297,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
   - Row (パッケージタイトル, 2011年): ファイナルファンタジーXIII-2; 2011-12-15; スクウェア・エニックス; note: 『ファイナルファンタジーXIII』の続編
   - Row (パッケージタイトル, 2013年): ファイナルファンタジーXIII-2 デジタルコンテンツセレクション; 2013-07-18; スクウェア・エニックス; no note
 
+## ja.wikipedia.org (Information; Xbox 360 game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Xbox_360のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111540372 of 2026-10-27; wikitext read through the MediaWiki API); archived: TODO
+  - List of the Xbox 360 games released worldwide, one table on one page ordered by Japan release date (columns: Japan, North America and Europe dates, title, publisher, 媒体 [◎: sold as a package and a download; ○: download only or backward compatible; blank: package or unknown], note, Xbox One以降の後方互換 [○: backward compatible with Xbox One and later], reference); a cell marked "未発売" by the list's Unreleased template means not released in that region
+  - Row (2011年): ファイナルファンタジーXIII-2; Japan 2011-12-15; North America 2012-01-31; Europe 2012-02-03; スクウェア・エニックス; 媒体: ◎; note: 日本では2013年7月18日に『ファイナルファンタジーXIII-2 デジタルコンテンツセレクション』発売、ダウンロード版は2013年6月11日に配信開始; backward compatibility: ○; reference: Square Enix Japan's FFXIII-2 page https://www.jp.square-enix.com/game/detail/ff13-2/ (accessed 2022-10-12)
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

@@ -68,4 +68,10 @@
   - Index page of the PlayStation 2 game title list: summary, links to the per-year lists, and the tables for 2008 to 2013 and the unreleased titles (date, title, publisher, note)
   - Row (2009年): プレイオンライン/ファイナルファンタジーXI ヴァナ・ディール コレクション2; 2009-11-12; スクウェア・エニックス; note: 『ファイナルファンタジーXI』の拡張ディスクのうち、『ジラートの幻影』から『アルタナの神兵』までの4本を収録
 
+## ja.wikipedia.org (Information; Xbox 360 game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Xbox_360のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111540372 of 2026-10-27; wikitext read through the MediaWiki API); archived: TODO
+  - List of the Xbox 360 games released worldwide, one table on one page ordered by Japan release date (columns: Japan, North America and Europe dates, title, publisher, 媒体 [◎: sold as a package and a download; ○: download only or backward compatible; blank: package or unknown], note, Xbox One以降の後方互換 [○: backward compatible with Xbox One and later], reference); a cell marked "未発売" by the list's Unreleased template means not released in that region
+  - Row (2007年): ファイナルファンタジーXI アルタナの神兵 (Final Fantasy XI: Wings of the Goddess); Japan 2007-11-22; North America 2007-11-20; Europe 2007-11-23; スクウェア・エニックス; 媒体: blank; no note; backward compatibility: blank; reference: Square Enix Japan's Xbox 360 game list https://www.jp.square-enix.com/game/?pf=29 (accessed 2022-10-12)
+
 ## Decisions

@@ -65,4 +65,10 @@
   - Index page of the PlayStation 2 game title list: summary, links to the per-year lists, and the tables for 2008 to 2013 and the unreleased titles (date, title, publisher, note)
   - Row (2013年): ファイナルファンタジーXI アドゥリンの魔境; 2013-03-27; スクウェア・エニックス; note: 『ファイナルファンタジーXI』の拡張データディスク; 単体での動作はしない (bold); オンライン専用; サービス終了済; the page calls it the last new software released in Japan for PS2
 
+## ja.wikipedia.org (Information; Xbox 360 game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Xbox_360のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111540372 of 2026-10-27; wikitext read through the MediaWiki API); archived: TODO
+  - List of the Xbox 360 games released worldwide, one table on one page ordered by Japan release date (columns: Japan, North America and Europe dates, title, publisher, 媒体 [◎: sold as a package and a download; ○: download only or backward compatible; blank: package or unknown], note, Xbox One以降の後方互換 [○: backward compatible with Xbox One and later], reference); a cell marked "未発売" by the list's Unreleased template means not released in that region
+  - Row (2013年): ファイナルファンタジーXI アドゥリンの魔境 拡張データディスク (Final Fantasy XI: Seekers of Adoulin); Japan 2013-03-27; North America 2013-03-26; Europe 2013-03-26; スクウェア・エニックス; 媒体: blank; no note; backward compatibility: blank; reference: Square Enix Japan's Xbox 360 game list https://www.jp.square-enix.com/game/?pf=29 (accessed 2022-10-12); second reference: Dengeki Online, 2012-12-27, announcement of the fifth expansion disc 「アドゥリンの魔境」 for 2013-03-27 with an all-in-one package sold the same day https://dengekionline.com/elem/000/000/578/578704/ (accessed 2024-09-21)
+
 ## Decisions

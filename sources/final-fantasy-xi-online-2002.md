@@ -178,4 +178,12 @@
   - Lists the games released in Japan for PlayStation 2 (2002; date, title, publisher, note)
   - Row (発売されたタイトル, 2002年): ファイナルファンタジーXI; 2002-05-16; スクウェア; note: ファイナルファンタジーシリーズ史上初となるオンラインゲーム; サービス終了済み
 
+## ja.wikipedia.org (Information; Xbox 360 game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Xbox_360のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111540372 of 2026-10-27; wikitext read through the MediaWiki API); archived: TODO
+  - List of the Xbox 360 games released worldwide, one table on one page ordered by Japan release date (columns: Japan, North America and Europe dates, title, publisher, 媒体 [◎: sold as a package and a download; ○: download only or backward compatible; blank: package or unknown], note, Xbox One以降の後方互換 [○: backward compatible with Xbox One and later], reference); a cell marked "未発売" by the list's Unreleased template means not released in that region
+  - Row (2006年): ファイナルファンタジーXI オールインワンパック2006; Japan 2006-04-20; North America 2006-04-16; Europe 2006-04-21; スクウェア・エニックス; 媒体: blank; no note; backward compatibility: blank; reference: Square Enix Japan's Xbox 360 game list https://www.jp.square-enix.com/game/?pf=29 (accessed 2022-10-12)
+  - Row (2007年): ファイナルファンタジーXI ヴァナ・ディールコレクション; Japan 2007-11-22; North America and Europe not released; スクウェア・エニックス; 媒体: blank; no note; backward compatibility: blank; reference: Square Enix Japan's Xbox 360 game list https://www.jp.square-enix.com/game/?pf=29 (accessed 2022-10-12)
+  - Row (2009年): ファイナルファンタジーXI ヴァナ・ディール コレクション2; Japan 2009-11-12; North America and Europe not released; スクウェア・エニックス; 媒体: blank; no note; backward compatibility: blank; reference: Square Enix Japan's Xbox 360 game list https://www.jp.square-enix.com/game/?pf=29 (accessed 2022-10-12)
+
 ## Decisions
