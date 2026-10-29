@@ -241,4 +241,10 @@
   - Lists the games released in Japan for PlayStation 4 (2018; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2018年): ワールド オブ ファイナルファンタジー マキシマ; 2018-11-06; スクウェア・エニックス; パ: blank (download only per the legend)
 
+## ja.wikipedia.org (Information; PlayStation Vita game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_Vitaのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840908 of 2026-08-31); archived: TODO
+  - Lists the games released for PlayStation Vita (index page with the 2016 to 2021 tables; release dates per region Japan, North America and Europe, title, publisher, TV column [PlayStation Vita TV compatible], パ column [sold as a package], note)
+  - Row (2016年): ワールド オブ ファイナルファンタジー; Japan 2016-10-27; North America 2016-10-25; Europe 2016-10-27; スクウェア・エニックス; TV: blank; パ: ●; note: 『ファイナルファンタジー』シリーズのさまざまなモンスターとともに旅をするRPG
+
 ## Decisions

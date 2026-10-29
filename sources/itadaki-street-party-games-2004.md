@@ -229,3 +229,9 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - https://ja.wikipedia.org/wiki/PlayStation_Portableのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111463101 of 2026-10-21); archived: TODO
   - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
   - Row (2006年): ドラゴンクエスト&ファイナルファンタジー in いただきストリートポータブル; Japan 2006-05-25; North America unreleased; Europe unreleased; スクウェア・エニックス; DL: blank
+
+## ja.wikipedia.org (Information; PlayStation Vita game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_Vitaのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840908 of 2026-08-31); archived: TODO
+  - Lists the games released for PlayStation Vita (index page with the 2016 to 2021 tables; release dates per region Japan, North America and Europe, title, publisher, TV column [PlayStation Vita TV compatible], パ column [sold as a package], note)
+  - Row (2017年): いただきストリート ドラゴンクエスト&ファイナルファンタジー 30th ANNIVERSARY; Japan 2017-10-19; North America unreleased; Europe unreleased; スクウェア・エニックス; TV: blank; パ: ●; no note

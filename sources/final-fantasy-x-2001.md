@@ -363,4 +363,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
   - Lists the games released in Japan for PlayStation 4 (2014 and 2015; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), note)
   - Row (発売されたタイトル, 2015年): ファイナルファンタジーX/X-2 HDリマスター; 2015-05-14; スクウェア・エニックス; パ: ●
 
+## ja.wikipedia.org (Information; PlayStation Vita game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_Vitaのゲームタイトル一覧_(2013年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 108942784 of 2026-03-29); archived: TODO
+  - Lists the games released for PlayStation Vita (the 2013 list; release dates per region Japan, North America and Europe, title, publisher, TV column [PlayStation Vita TV compatible], パ column [sold as a package], note)
+  - Row (2013年): ファイナルファンタジーX HDリマスター; Japan 2013-12-26; North America 2014-03-18; Europe 2014-03-21; スクウェア・エニックス; TV: ●; パ: ●; note: RESOLUTION BOXあり, ツインパックあり, 中国では2015年3月20日にローンチタイトルとして発売された
+
 ## Decisions

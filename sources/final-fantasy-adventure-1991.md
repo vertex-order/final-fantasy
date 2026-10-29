@@ -271,6 +271,12 @@ square-enix.com and stores (Publisher)
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (その他の派生作品): 聖剣伝説 〜ファイナルファンタジー外伝〜（GB・1991年6月28日、S!、i、EZ、Vita、iOS、Android）
 
+## ja.wikipedia.org (Information; PlayStation Vita game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_Vitaのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840908 of 2026-08-31); archived: TODO
+  - Lists the games released for PlayStation Vita (index page with the 2016 to 2021 tables; release dates per region Japan, North America and Europe, title, publisher, TV column [PlayStation Vita TV compatible], パ column [sold as a package], note)
+  - Row (2016年): 聖剣伝説 〜ファイナルファンタジー外伝〜 / Adventures of Mana; Japan 2016-02-04; North America 2016-06-28; Europe 2016-06-28; スクウェア・エニックス; TV: ●; パ: blank; no note
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results
