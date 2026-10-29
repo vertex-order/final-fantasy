@@ -355,4 +355,10 @@
   - Lists the games released in Japan for PlayStation 5 (2020 and 2021; date, title, publisher, パ column [● also sold as a package], online (オ: ● online play, ◎ online only), CERO rating (レ), note)
   - Row (2021年): ファイナルファンタジーXIV; 2021-05-25; スクウェア・エニックス; パ: blank (download only per the legend); オ: ◎; レ: C; note: PlayStation 4版からのアップグレードが可能; 2021年12月7日には大型拡張コンテンツ『ファイナルファンタジーXIV: 暁月のフィナーレ』が配信された
 
+## ja.wikipedia.org (Information; Nintendo Switch 2 game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switch_2のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111507062 of 2026-10-25; wikitext read through the MediaWiki API); archived: TODO
+  - List of the Nintendo Switch 2 games released and announced in Japan, one table per year on one page (columns: release date in three cells, 日本, 北米 and 欧州, a merged cell meaning one date in all three; title, publisher, パ [●: also sold as a package; ■: key-card package; ▲: package holding only a download code; blank: download only], Ed [●: Nintendo Switch 2 Edition; ○: not an Edition, but a Nintendo Switch version is also sold], CERO or IARC rating, note, reference)
+  - Row (2026年, 8月): FINAL FANTASY XIV; Japan, North America and Europe 2026-08-04; スクウェア・エニックス; パ: blank; Ed: blank; CERO: D; note: free to download for the first month after release
+
 ## Decisions

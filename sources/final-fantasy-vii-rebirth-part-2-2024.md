@@ -210,4 +210,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_versi
   - Lists the games released in Japan for PlayStation 5 (2024 onward, index page; date, title, publisher, パ column [● also sold as a package], online (オ: ● online play, ◎ online only), CERO rating (レ), note)
   - Row (2024年): ファイナルファンタジーVII リバース; 2024-02-29; スクウェア・エニックス; パ: ●; オ: blank; レ: C; note: 『ファイナルファンタジーVII リメイク』第二部; パッケージ版はディスク2枚で発売
 
+## ja.wikipedia.org (Information; Nintendo Switch 2 game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switch_2のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111507062 of 2026-10-25; wikitext read through the MediaWiki API); archived: TODO
+  - List of the Nintendo Switch 2 games released and announced in Japan, one table per year on one page (columns: release date in three cells, 日本, 北米 and 欧州, a merged cell meaning one date in all three; title, publisher, パ [●: also sold as a package; ■: key-card package; ▲: package holding only a download code; blank: download only], Ed [●: Nintendo Switch 2 Edition; ○: not an Edition, but a Nintendo Switch version is also sold], CERO or IARC rating, note, reference)
+  - Row (2026年, 6月): FINAL FANTASY VII REBIRTH; Japan, North America and Europe 2026-06-03; スクウェア・エニックス; パ: ■; Ed: blank; CERO: C; no note
+
 ## Decisions

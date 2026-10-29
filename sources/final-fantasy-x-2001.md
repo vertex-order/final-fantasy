@@ -375,4 +375,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2019年, 発売されたタイトル): FINAL FANTASY X/X-2 HD Remaster (one row for both games); Japan 2019-04-11; スクウェア・エニックス; パ: ●; CERO: C; no note
 
+## ja.wikipedia.org (Information; Nintendo Switch 2 game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switch_2のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111507062 of 2026-10-25; wikitext read through the MediaWiki API); archived: TODO
+  - List of the Nintendo Switch 2 games released and announced in Japan, one table per year on one page (columns: release date in three cells, 日本, 北米 and 欧州, a merged cell meaning one date in all three; title, publisher, パ [●: also sold as a package; ■: key-card package; ▲: package holding only a download code; blank: download only], Ed [●: Nintendo Switch 2 Edition; ○: not an Edition, but a Nintendo Switch version is also sold], CERO or IARC rating, note, reference)
+  - Row (2026年, 7月): FINAL FANTASY X/X-2 HD Remaster; Japan, North America and Europe 2026-07-23; スクウェア・エニックス; パ: ■; Ed: ○; CERO: C; note: package sold 2026-08-27 (one row for both games)
+
 ## Decisions

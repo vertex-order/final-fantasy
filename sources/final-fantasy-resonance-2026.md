@@ -226,4 +226,10 @@
   - Index page of the Nintendo Switch games released in Japan, with the 2026 and 2027 tables (columns: release date, title, publisher, パ [●: also sold as a package; blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2026年): ファイナルファンタジー レゾナンス; Japan 2026-10-22; スクウェア・エニックス; パ: ●; CERO: C; note: スマートフォンアプリ『ファイナルファンタジー ブレイブエクスヴィアス』のコンシューマ向け作品 / Nintendo Switch 2版も同日発売
 
+## ja.wikipedia.org (Information; Nintendo Switch 2 game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switch_2のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111507062 of 2026-10-25; wikitext read through the MediaWiki API); archived: TODO
+  - List of the Nintendo Switch 2 games released and announced in Japan, one table per year on one page (columns: release date in three cells, 日本, 北米 and 欧州, a merged cell meaning one date in all three; title, publisher, パ [●: also sold as a package; ■: key-card package; ▲: package holding only a download code; blank: download only], Ed [●: Nintendo Switch 2 Edition; ○: not an Edition, but a Nintendo Switch version is also sold], CERO or IARC rating, note, reference)
+  - Row (2026年, 10月): ファイナルファンタジー レゾナンス; Japan, North America and Europe 2026-10-22; スクウェア・エニックス; パ: ■; Ed: ○; CERO: C; note: console version of the smartphone app ファイナルファンタジー ブレイブエクスヴィアス
+
 ## Decisions
