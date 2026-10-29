@@ -51,4 +51,14 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ナンバリング作品とその続編): ファイナルファンタジーXII レヴァナント・ウイング（DS・2007年4月26日）
 
+## ja.wikipedia.org (Information; Nintendo DS game title list, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (index page, revision 110706708 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+  - Index of the DS lists: the released games are on per-year pages, the index holds the non-retail and unreleased titles; DSiウェア titles are on ニンテンドーDSiウェアのタイトル一覧
+- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧_(2007年) -- dates*, platforms* -- accessed 2026-10-29 (revision 110706680 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+  - Lists the games released in Japan that year, in release order (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark
+  - Row: ファイナルファンタジーXII レヴァナント・ウイング; Japan 2007-04-26; スクウェア・エニックス
+    - reference link recorded only: http://www.nintendo.co.jp/ds/software/axfj/index.html
+    - reference link recorded only: https://web.archive.org/web/20111210082355/http://www.nintendo.co.jp/ds/software/axfj/index.html
+
 ## Decisions

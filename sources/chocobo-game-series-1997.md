@@ -775,6 +775,22 @@
   - Lists the games released in Japan for PlayStation 4 (2019; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2019年): チョコボの不思議なダンジョン エブリバディ!; 2019-03-20; スクウェア・エニックス; パ: ●
 
+## ja.wikipedia.org (Information; Nintendo DS game title list, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (index page, revision 110706708 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+  - Index of the DS lists: the released games are on per-year pages, the index holds the non-retail and unreleased titles; DSiウェア titles are on ニンテンドーDSiウェアのタイトル一覧
+- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧_(2006年) -- dates*, platforms* -- accessed 2026-10-29 (revision 109770985 of 2026-06-01; wikitext read through the MediaWiki API); archived: TODO
+  - Lists the games released in Japan that year, in release order (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark
+  - Row: チョコボと魔法の絵本; Japan 2006-12-14; スクウェア・エニックス
+    - reference link recorded only: https://www.nintendo.co.jp/ds/software/aehj/index.html
+- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧_(2008年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111233336 of 2026-10-02; wikitext read through the MediaWiki API); archived: TODO
+  - Lists the games released in Japan that year, in release order (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark
+  - Row: シドとチョコボの不思議なダンジョン 時忘れの迷宮DS+; Japan 2008-10-30; スクウェア・エニックス; note: Wii用ソフト『チョコボの不思議なダンジョン 時忘れの迷宮』の強化移植
+    - reference link recorded only: https://www.inside-games.jp/article/2019/03/10/120990_2.html
+  - Row: チョコボと魔法の絵本 魔女と少女と5人の勇者; Japan 2008-12-11; スクウェア・エニックス
+    - reference link recorded only: http://www.nintendo.co.jp/ds/software/c5yj/index.html
+    - reference link recorded only: https://web.archive.org/web/20111210032536/http://www.nintendo.co.jp/ds/software/c5yj/index.html
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

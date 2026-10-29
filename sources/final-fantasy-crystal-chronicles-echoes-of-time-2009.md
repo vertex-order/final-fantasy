@@ -71,4 +71,13 @@ ja.wikipedia.org (Information)
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ファイナルファンタジー・クリスタルクロニクルシリーズ): ファイナルファンタジー・クリスタルクロニクル エコーズ・オブ・タイム（DS、Wii・2009年1月29日）
 
+## ja.wikipedia.org (Information; Nintendo DS game title list, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (index page, revision 110706708 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+  - Index of the DS lists: the released games are on per-year pages, the index holds the non-retail and unreleased titles; DSiウェア titles are on ニンテンドーDSiウェアのタイトル一覧
+- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧_(2009年) -- dates*, platforms* -- accessed 2026-10-29 (revision 110706688 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+  - Lists the games released in Japan that year, in release order (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark
+  - Row: ファイナルファンタジー・クリスタルクロニクル エコーズ・オブ・タイム; Japan 2009-01-29; スクウェア・エニックス; note: DSi EDITIONあり
+    - reference link recorded only: https://game.watch.impress.co.jp/docs/20090129/ffcc.htm
+
 ## Decisions

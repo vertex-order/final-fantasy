@@ -589,4 +589,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
   - Row (2011年): ファイナルファンタジーIV コンプリートコレクション; Japan 2011-03-24; North America 2011-04-19; Europe 2011-04-21; スクウェア・エニックス; DL: ●; note: 『ファイナルファンタジーIV』および携帯電話向けに配信されていた後日談「ファイナルファンタジーIV ジ・アフターイヤーズ」などを収録
 
+## ja.wikipedia.org (Information; Nintendo DS game title list, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (index page, revision 110706708 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+  - Index of the DS lists: the released games are on per-year pages, the index holds the non-retail and unreleased titles; DSiウェア titles are on ニンテンドーDSiウェアのタイトル一覧
+- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧_(2007年) -- dates*, platforms* -- accessed 2026-10-29 (revision 110706680 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+  - Lists the games released in Japan that year, in release order (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark
+  - Row: ファイナルファンタジーIV; Japan 2007-12-20; スクウェア・エニックス
+    - reference link recorded only: https://game.watch.impress.co.jp/docs/20070928/ff4.htm
+    - reference link recorded only: https://web.archive.org/web/20250413171821/https://game.watch.impress.co.jp/docs/20070928/ff4.htm
+
 ## Decisions
