@@ -319,6 +319,27 @@
   - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
   - Row (2009年): CRYSTAL DEFENDERS; Japan 2009-10-29; North America 2010-09-29; Europe 2010-09-29; スクウェア・エニックス; DL: ▲
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
+  - Member: クリスタル・ディフェンダーズ
+- https://ja.wikipedia.org/wiki/Category:IPad用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445125 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPad game software: 186 pages, no subcategories
+  - Member: クリスタル・ディフェンダーズ
+- https://ja.wikipedia.org/wiki/Category:IPod用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 76970323 of 2020-04-08; members read through the MediaWiki API); archived: TODO
+  - Category of iPod game software: 18 pages, no subcategories
+  - Member: クリスタル・ディフェンダーズ
+- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
+  - Member: クリスタル・ディフェンダーズ
+
+## ja.wikipedia.org (Information; iPod game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/IPodのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 108553040 of 2026-02-27; wikitext read through the MediaWiki API); archived: TODO
+  - Lists the games for the click-wheel iPod (fifth generation, iPod classic, third to fifth generation iPod nano) by release date, Japan time
+  - Row (2008年): 12月23日 クリスタル・ディフェンダーズ (スクウェア・エニックス), linked to the クリスタル ガーディアンズ article
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it

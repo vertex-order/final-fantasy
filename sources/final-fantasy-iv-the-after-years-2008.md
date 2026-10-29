@@ -321,4 +321,16 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Member: ファイナルファンタジーIV THE AFTER 月の帰還
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーIV_THE_AFTER_月の帰還 -- accessed 2026-10-29 (revision 109758923 of 2026-05-31); archived: TODO
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジーIV THE AFTER 月の帰還
+- https://ja.wikipedia.org/wiki/Category:IPad用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445125 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPad game software: 186 pages, no subcategories
+  - Member: ファイナルファンタジーIV THE AFTER 月の帰還
+- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジーIV THE AFTER 月の帰還
+
 ## Decisions

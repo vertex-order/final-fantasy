@@ -647,6 +647,15 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - Footnote on the row: Micro Cabinet's official page gives 1989-11
   - Source for the date: 前田 2020 (MSXパーフェクトカタログ), pp. 161-178
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジー
+- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジー
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

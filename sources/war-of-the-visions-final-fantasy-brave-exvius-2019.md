@@ -55,4 +55,13 @@ wotvffbe.com (Publisher, official; live store pages are 404, Wayback used)
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (その他の派生作品): WAR OF THE VISIONS ファイナルファンタジー ブレイブエクスヴィアス 幻影戦争（iOS、Android・2019年11月14日）
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
+  - Member: WAR OF THE VISIONS ファイナルファンタジー ブレイブエクスヴィアス 幻影戦争
+- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
+  - Member: WAR OF THE VISIONS ファイナルファンタジー ブレイブエクスヴィアス 幻影戦争
+
 ## Decisions

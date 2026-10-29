@@ -822,6 +822,12 @@
   - Row (6.1 PlayStation ソフト): チョコボコレクション; スクウェア
   - Chocobo World is not named on the page; it lists ファイナルファンタジーVIII (see sources/final-fantasy-viii-1999.md)
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPad用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445125 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPad game software: 186 pages, no subcategories
+  - Member: チョコボパニック
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

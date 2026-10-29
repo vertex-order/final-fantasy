@@ -310,6 +310,18 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
   - Member: ファイナルファンタジーXIII-2
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII-2 -- accessed 2026-10-29 (revision 110335847 of 2026-07-19); archived: TODO
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジーXIII-2
+- https://ja.wikipedia.org/wiki/Category:IPad用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445125 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPad game software: 186 pages, no subcategories
+  - Member: ファイナルファンタジーXIII-2
+- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジーXIII-2
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

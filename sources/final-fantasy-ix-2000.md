@@ -402,4 +402,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
   - Member: ファイナルファンタジーIX
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーIX -- accessed 2026-10-29 (revision 111292135 of 2026-10-06); archived: TODO
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジーIX
+- https://ja.wikipedia.org/wiki/Category:IPad用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445125 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPad game software: 186 pages, no subcategories
+  - Member: ファイナルファンタジーIX
+- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジーIX
+
 ## Decisions

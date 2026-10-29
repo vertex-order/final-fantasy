@@ -542,6 +542,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
   - List of 198 titles for WonderSwan, WonderSwan Color-compatible and WonderSwan Color-only, in release order, one table per section (ワンダースワンのタイトル, ワンダースワンカラー対応のタイトル, ワンダースワンカラー専用のタイトル), then その他, 非売品, 専用カートリッジが付属する周辺機器 and 発売されなかったタイトル (columns: Japan release date, title, publisher, note, reference); Japan only, no package or download mark
   - Section ワンダースワンカラー専用のタイトル (Color-only): ファイナルファンタジーII; Japan 2001-05-02; スクウェア; no note
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジーII
+- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジーII
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

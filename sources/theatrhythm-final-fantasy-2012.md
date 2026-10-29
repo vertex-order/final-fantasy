@@ -96,4 +96,13 @@
   - Lists the games released for Nintendo 3DS (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [◎ package, download card and eShop, △ download card and eShop, □ eShop only, × no download version, blank download only], note)
   - Row: シアトリズム ファイナルファンタジー; Japan 2012-02-16; North America 2012-07-03; Europe 2012-07-06; スクウェア・エニックス; DL: ×
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
+  - Member: シアトリズム ファイナルファンタジー
+- https://ja.wikipedia.org/wiki/Category:IPad用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445125 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPad game software: 186 pages, no subcategories
+  - Member: シアトリズム ファイナルファンタジー
+
 ## Decisions

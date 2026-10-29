@@ -111,4 +111,16 @@
   - Lists the games released for Nintendo 3DS (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [◎ package, download card and eShop, △ download card and eShop, □ eShop only, × no download version, blank download only], note)
   - Row: PICTLOGICA FINAL FANTASY ≒ (linked to the ピクトロジカ ファイナルファンタジー article); Japan 2017-07-12; North America and Europe not released; スクウェア・エニックス; DL: blank (download only per the legend); note: free, item purchases, 3D display not supported
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
+  - Member: ピクトロジカ ファイナルファンタジー
+- https://ja.wikipedia.org/wiki/Category:IPad用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445125 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPad game software: 186 pages, no subcategories
+  - Member: ピクトロジカ ファイナルファンタジー
+- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
+  - Member: ピクトロジカ ファイナルファンタジー
+
 ## Decisions

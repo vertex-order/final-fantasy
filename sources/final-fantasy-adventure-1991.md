@@ -289,6 +289,15 @@ square-enix.com and stores (Publisher)
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2017年, 発売されたタイトル): 聖剣伝説コレクション (Collection of Mana; the row names no contents); Japan 2017-06-01; スクウェア・エニックス; パ: ●; CERO: B; note: Joy-Con横持ち対応。
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
+  - Member: 聖剣伝説 〜ファイナルファンタジー外伝〜
+- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
+  - Member: 聖剣伝説 〜ファイナルファンタジー外伝〜
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

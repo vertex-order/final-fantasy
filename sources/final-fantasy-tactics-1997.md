@@ -528,6 +528,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
   - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
   - Member: ファイナルファンタジータクティクス - イヴァリース クロニクルズ (a redirect page to ファイナルファンタジータクティクス)
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジータクティクス 獅子戦争
+
 ## Decisions
 
 

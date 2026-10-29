@@ -384,6 +384,18 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - Member: ファイナルファンタジーVII
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーVII -- accessed 2026-10-29 (revision 111377241 of 2026-10-13); archived: TODO
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジーVII
+- https://ja.wikipedia.org/wiki/Category:IPad用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445125 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPad game software: 186 pages, no subcategories
+  - Member: ファイナルファンタジーVII
+- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジーVII
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

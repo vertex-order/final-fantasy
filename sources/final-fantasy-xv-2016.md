@@ -461,6 +461,15 @@ square-enix-games.com (Publisher, official)
   - Member: ファイナルファンタジーXV
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXV -- accessed 2026-10-29 (revision 110908607 of 2026-09-05); archived: TODO
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IOS用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104444907 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iOS game software: 279 pages and 2 subcategories (IPad用ゲームソフト, IPhone用ゲームソフト); the members below are direct members, the other titles sit in the subcategories
+  - Member: ファイナルファンタジーXV ポケットエディション
+- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジーXV ポケットエディション
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations

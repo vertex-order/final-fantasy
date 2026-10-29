@@ -625,4 +625,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - List of 198 titles for WonderSwan, WonderSwan Color-compatible and WonderSwan Color-only, in release order, one table per section (ワンダースワンのタイトル, ワンダースワンカラー対応のタイトル, ワンダースワンカラー専用のタイトル), then その他, 非売品, 専用カートリッジが付属する周辺機器 and 発売されなかったタイトル (columns: Japan release date, title, publisher, note, reference); Japan only, no package or download mark
   - Section ワンダースワンカラー専用のタイトル (Color-only): ファイナルファンタジーIV; Japan 2002-03-29; スクウェア; no note
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジーIV
+- https://ja.wikipedia.org/wiki/Category:IPad用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445125 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPad game software: 186 pages, no subcategories
+  - Member: ファイナルファンタジーIV
+- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
+  - Member: ファイナルファンタジーIV
+
 ## Decisions
