@@ -633,6 +633,12 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - Row: ファイナルファンタジーI・II; Japan 1994-02-27; North America and Europe not released; スクウェア; no note
   - Prose (1987年): Square released Final Fantasy in December, prompted by Dragon Quest
 
+## ja.wikipedia.org (Information; WonderSwan game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ワンダースワンのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 110686389 of 2026-08-18; wikitext read through the MediaWiki API); archived: TODO
+  - List of 198 titles for WonderSwan, WonderSwan Color-compatible and WonderSwan Color-only, in release order, one table per section (ワンダースワンのタイトル, ワンダースワンカラー対応のタイトル, ワンダースワンカラー専用のタイトル), then その他, 非売品, 専用カートリッジが付属する周辺機器 and 発売されなかったタイトル (columns: Japan release date, title, publisher, note, reference); Japan only, no package or download mark
+  - Section ワンダースワンカラー専用のタイトル (Color-only): ファイナルファンタジー; Japan 2000-12-09; スクウェア; note: ワンダースワンカラー同梱版あり (a WonderSwan Color bundle exists; the intro cites an ASCII article of 2000-08-30 giving the bundle at 9,999 yen)
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

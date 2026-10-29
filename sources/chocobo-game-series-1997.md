@@ -807,6 +807,13 @@
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2022年, 3月): チョコボGP; Japan 2022-03-10; スクウェア・エニックス; パ: ●; CERO: A; note: e-STORE限定版あり
 
+## ja.wikipedia.org (Information; WonderSwan game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ワンダースワンのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 110686389 of 2026-08-18; wikitext read through the MediaWiki API); archived: TODO
+  - List of 198 titles for WonderSwan, WonderSwan Color-compatible and WonderSwan Color-only, in release order, one table per section (ワンダースワンのタイトル, ワンダースワンカラー対応のタイトル, ワンダースワンカラー専用のタイトル), then その他, 非売品, 専用カートリッジが付属する周辺機器 and 発売されなかったタイトル (columns: Japan release date, title, publisher, note, reference); Japan only, no package or download mark
+  - Section ワンダースワンのタイトル (monochrome): チョコボの不思議なダンジョン for ワンダースワン; Japan 1999-03-04; バンダイ; note: ローンチタイトル, a port of the PlayStation game チョコボの不思議なダンジョン
+  - Section ワンダースワンカラー対応のタイトル (Color-compatible): はたらくチョコボ; Japan 2000-09-21; スクウェア; note: チョコボを題材とした開拓もののシミュレーションゲーム
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

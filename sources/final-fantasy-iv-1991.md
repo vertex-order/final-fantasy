@@ -619,4 +619,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - Row: ファイナルファンタジーIV イージータイプ; Japan 1991-10-29; North America and Europe not released; スクウェア; note: 同年7月に発売された『ファイナルファンタジーIV』を簡易化
   - Prose (特徴): the North American Final Fantasy II was released with a lower difficulty than the Japanese version
 
+## ja.wikipedia.org (Information; WonderSwan game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ワンダースワンのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 110686389 of 2026-08-18; wikitext read through the MediaWiki API); archived: TODO
+  - List of 198 titles for WonderSwan, WonderSwan Color-compatible and WonderSwan Color-only, in release order, one table per section (ワンダースワンのタイトル, ワンダースワンカラー対応のタイトル, ワンダースワンカラー専用のタイトル), then その他, 非売品, 専用カートリッジが付属する周辺機器 and 発売されなかったタイトル (columns: Japan release date, title, publisher, note, reference); Japan only, no package or download mark
+  - Section ワンダースワンカラー専用のタイトル (Color-only): ファイナルファンタジーIV; Japan 2002-03-29; スクウェア; no note
+
 ## Decisions

@@ -265,4 +265,10 @@
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2020年, 発売されたタイトル): Sa・Ga COLLECTION; Japan 2020-12-15; スクウェア・エニックス; パ: blank; CERO: B; note: サガシリーズ30周年記念作品であり、シリーズのうちゲームボーイで発売された3作品を収録。
 
+## ja.wikipedia.org (Information; WonderSwan game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ワンダースワンのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 110686389 of 2026-08-18; wikitext read through the MediaWiki API); archived: TODO
+  - List of 198 titles for WonderSwan, WonderSwan Color-compatible and WonderSwan Color-only, in release order, one table per section (ワンダースワンのタイトル, ワンダースワンカラー対応のタイトル, ワンダースワンカラー専用のタイトル), then その他, 非売品, 専用カートリッジが付属する周辺機器 and 発売されなかったタイトル (columns: Japan release date, title, publisher, note, reference); Japan only, no package or download mark
+  - Section ワンダースワンカラー専用のタイトル (Color-only): 魔界塔士Sa・Ga; Japan 2002-03-20; スクウェア; no note (the WonderSwan Color port of Makai Toushi Sa・Ga, Part I)
+
 ## Decisions
