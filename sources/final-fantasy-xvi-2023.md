@@ -183,4 +183,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XVI_version_diffe
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ナンバリング作品とその続編): ファイナルファンタジーXVI（PS5・2023年6月22日）
 
+## ja.wikipedia.org (Information; Xbox Series X/S game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Xbox_Series_X/Sのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110841113 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for Xbox Series X/S and Xbox One (package titles, gift-code downloads and download-only titles by year; date, title, publisher, note); a bold title is an Xbox Series X|S exclusive title, which the page equates with Optimized for Xbox Series X|S
+  - Row (配信専用タイトル, 2025年): FINAL FANTASY XVI; 2025-06-09; スクウェア・エニックス; bold
+
 ## Decisions

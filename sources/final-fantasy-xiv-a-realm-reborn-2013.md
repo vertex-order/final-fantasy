@@ -330,4 +330,11 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ナンバリング作品とその続編): ファイナルファンタジーXIV：新生エオルゼア（Win、PS3・2013年8月27日、Win_Steam、PS4、Mac、PS5）
 
+## ja.wikipedia.org (Information; Xbox Series X/S game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Xbox_Series_X/Sのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110841113 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for Xbox Series X/S and Xbox One (package titles, gift-code downloads and download-only titles by year; date, title, publisher, note); a bold title is an Xbox Series X|S exclusive title, which the page equates with Optimized for Xbox Series X|S
+  - Row (配信専用タイトル, 2024年): ファイナルファンタジーXIV; 2024-04-21; スクウェア・エニックス; bold; the note cites Xbox Wire Japan of 2023-07-31 (Xbox Series X|S version in spring 2024)
+  - Row (配信専用タイトル, 2024年): ファイナルファンタジーXIV - コンプリートパック; 2024-07-02; スクウェア・エニックス; note 新生エオルゼア～黄金のレガシーまで
+
 ## Decisions
