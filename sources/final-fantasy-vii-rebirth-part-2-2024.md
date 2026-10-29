@@ -204,4 +204,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_versi
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ナンバリング作品とその続編): ファイナルファンタジーVII リバース（PS5・2024年2月29日、Win、Switch2、XBX）
 
+## ja.wikipedia.org (Information; PlayStation 5 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_5のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111492484 of 2026-10-24); archived: TODO
+  - Lists the games released in Japan for PlayStation 5 (2024 onward, index page; date, title, publisher, パ column [● also sold as a package], online (オ: ● online play, ◎ online only), CERO rating (レ), note)
+  - Row (2024年): ファイナルファンタジーVII リバース; 2024-02-29; スクウェア・エニックス; パ: ●; オ: blank; レ: C; note: 『ファイナルファンタジーVII リメイク』第二部; パッケージ版はディスク2枚で発売
+
 ## Decisions

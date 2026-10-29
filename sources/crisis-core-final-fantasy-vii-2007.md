@@ -303,4 +303,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
   - Lists the games released in Japan for PlayStation 4 (index page with the 2022 to 2027 tables and the unreleased titles; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (2022年): クライシス コア ファイナルファンタジーVII リユニオン; 2022-12-13; スクウェア・エニックス; パ: ●; note: PlayStation 5版も同日発売
 
+## ja.wikipedia.org (Information; PlayStation 5 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_5のゲームタイトル一覧_(2022年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111495030 of 2026-10-24); archived: TODO
+  - Lists the games released in Japan for PlayStation 5 (2022; date, title, publisher, パ column [● also sold as a package], online (オ: ● online play, ◎ online only), CERO rating (レ), note)
+  - Row (2022年): クライシス コア -ファイナルファンタジーVII- リユニオン; 2022-12-13; スクウェア・エニックス; パ: ●; オ: blank; レ: C; note: 『クライシス コア ファイナルファンタジーVII』のリマスター版。PlayStation 4版も同日発売、PlayStation 4版からのアップグレードが可能
+
 ## Decisions

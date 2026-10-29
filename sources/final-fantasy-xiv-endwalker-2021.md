@@ -87,4 +87,10 @@
   - Lists the games released in Japan for Xbox Series X/S and Xbox One (package titles, gift-code downloads and download-only titles by year; date, title, publisher, note); a bold title is an Xbox Series X|S exclusive title, which the page equates with Optimized for Xbox Series X|S
   - Row (配信専用タイトル, 2024年): ファイナルファンタジーXIV - コンプリートパック; 2024-07-02; スクウェア・エニックス; note 新生エオルゼア～黄金のレガシーまで
 
+## ja.wikipedia.org (Information; PlayStation 5 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_5のゲームタイトル一覧_(2020年-2021年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111003219 of 2026-09-13); archived: TODO
+  - Lists the games released in Japan for PlayStation 5 (2020 and 2021; date, title, publisher, パ column [● also sold as a package], online (オ: ● online play, ◎ online only), CERO rating (レ), note)
+  - Row (2021年): ファイナルファンタジーXIV; 2021-05-25; スクウェア・エニックス; パ: blank (download only per the legend); オ: ◎; レ: C; note: PlayStation 4版からのアップグレードが可能; 2021年12月7日には大型拡張コンテンツ『ファイナルファンタジーXIV: 暁月のフィナーレ』が配信された
+
 ## Decisions

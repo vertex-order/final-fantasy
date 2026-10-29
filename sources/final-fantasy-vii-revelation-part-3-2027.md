@@ -209,4 +209,10 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ナンバリング作品とその続編): ファイナルファンタジーVII リベレーション（Switch2、PS5、XBX、Win・2027年春予定）
 
+## ja.wikipedia.org (Information; PlayStation 5 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_5のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111492484 of 2026-10-24); archived: TODO
+  - Lists the games released in Japan for PlayStation 5 (2024 onward, index page; date, title, publisher, パ column [● also sold as a package], online (オ: ● online play, ◎ online only), CERO rating (レ), note)
+  - Row (2027年): FINAL FANTASY VII REVELATION; 2027-04-08; スクウェア・エニックス; パ: ●; オ: blank; レ: blank; note: 『ファイナルファンタジーVII』リメイク3部作の完結編
+
 ## Decisions

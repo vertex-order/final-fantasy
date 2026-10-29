@@ -282,4 +282,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake_versio
   - Lists the games released in Japan for PlayStation 4 (2020; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2020年): ファイナルファンタジーVII リメイク; 2020-04-10; スクウェア・エニックス; パ: ●; note: PlayStation用ソフト『ファイナルファンタジーVII』のリメイク。PlayStation 4 Pro対応
 
+## ja.wikipedia.org (Information; PlayStation 5 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_5のゲームタイトル一覧_(2020年-2021年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111003219 of 2026-09-13); archived: TODO
+  - Lists the games released in Japan for PlayStation 5 (2020 and 2021; date, title, publisher, パ column [● also sold as a package], online (オ: ● online play, ◎ online only), CERO rating (レ), note)
+  - Row (2021年): ファイナルファンタジーVII リメイク インターグレード; 2021-06-10; スクウェア・エニックス; パ: ●; オ: blank; レ: C; note: PlayStation 4用ソフト『ファイナルファンタジーVII リメイク』本編に、エピソードを追加した移植版。PlayStation 4版からのアップグレードが可能
+
 ## Decisions

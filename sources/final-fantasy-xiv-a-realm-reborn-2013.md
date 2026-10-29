@@ -349,4 +349,10 @@
   - Lists the games released in Japan for PlayStation 4 (2014 and 2015; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), note)
   - Row (発売されたタイトル, 2014年): ファイナルファンタジーXIV：新生エオルゼア; 2014-04-14; スクウェア・エニックス; パ: ●; オ: ●; note: 2013年2月22日に体験版を配信。なお、PS3版を購入済みプレイヤーは無償でPS4版へ移行可能。オンライン専用、PlayStation 4 Pro対応
 
+## ja.wikipedia.org (Information; PlayStation 5 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_5のゲームタイトル一覧_(2020年-2021年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111003219 of 2026-09-13); archived: TODO
+  - Lists the games released in Japan for PlayStation 5 (2020 and 2021; date, title, publisher, パ column [● also sold as a package], online (オ: ● online play, ◎ online only), CERO rating (レ), note)
+  - Row (2021年): ファイナルファンタジーXIV; 2021-05-25; スクウェア・エニックス; パ: blank (download only per the legend); オ: ◎; レ: C; note: PlayStation 4版からのアップグレードが可能; 2021年12月7日には大型拡張コンテンツ『ファイナルファンタジーXIV: 暁月のフィナーレ』が配信された
+
 ## Decisions
