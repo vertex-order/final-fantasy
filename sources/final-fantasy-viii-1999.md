@@ -360,4 +360,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
   - Lists the PlayStation games released in Japan, split by year; rows are date, title, publisher, note (columns 発売日, タイトル, 発売元, 備考)
   - Row (1999年): ファイナルファンタジーVIII; 1999-02-11; スクウェア; note: ディスク4枚組
 
+## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section ふ) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
+  - Alphabetical index of computer game titles; gives each title and its article link only, no platforms or dates
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVIII -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111072262 of 2026-09-19); archived: TODO
+  - Lead: eighth title of the Final Fantasy series; released 1999-02-11 in Japan as a PlayStation-only title
+
 ## Decisions

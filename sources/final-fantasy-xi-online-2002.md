@@ -159,4 +159,11 @@
   - ファイナルファンタジーXI; MMORPG ※PS2サービス終了; first listed 2023-09-28: release 2002.11.07(Windows); icons: Windows, オンライン専用, パッケージ, プレイステーション2; CERO B; listed in every capture from 2023-09-28 to live (2026-10-28)
     - http://www.playonline.com/ff11/ -- 公式サイト link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230921045724/http://www.playonline.com/ff11/
 
+## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section ふ) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
+  - Alphabetical index of computer game titles; gives each title and its article link only, no platforms or dates
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXI -- series position, type -- accessed 2026-10-28 (article read through the MediaWiki API, revision 109759274 of 2026-05-31); archived: TODO
+  - Lead: eleventh numbered title of the Final Fantasy series, the first online game and MMORPG of the series; announced 2000-01-29 at the Square Millennium event; no release date in the lead
+
 ## Decisions

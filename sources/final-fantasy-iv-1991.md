@@ -558,4 +558,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - Lists the PlayStation games released in Japan, split by year; rows are date, title, publisher, note (columns 発売日, タイトル, 発売元, 備考)
   - Row (1997年): ファイナルファンタジーIV; 1997-03-21; スクウェア; note: 同名作品の移植版
 
+## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section ふ) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
+  - Alphabetical index of computer game titles; gives each title and its article link only, no platforms or dates
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIV -- Japan release date, platform, North America release date -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111319733 of 2026-10-08); archived: TODO
+  - Lead: fourth title of the Final Fantasy series; released 1991-07-19 by Square for the Super Famicom; released in the United States on 1991-11-23
+
 ## Decisions

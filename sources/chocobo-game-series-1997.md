@@ -756,6 +756,19 @@
   - Row (1999年): チョコボスタリオン; 1999-12-22; スクウェア; note: 競走馬のようにチョコボを育成するゲーム
   - Row (1999年): チョコボコレクション; 1999-12-22; スクウェア; note: 『チョコボスタリオン』、『チョコボレーシング』、『ダイスDEチョコボ』を各1枚のディスクに収録。
 
+## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the articles below (section ち, は) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
+  - Alphabetical index of computer game titles; gives each title and its article link only, no platforms or dates
+- https://ja.wikipedia.org/wiki/チョコボの不思議なダンジョン -- Japan release dates, platforms -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111233818 of 2026-10-02); archived: TODO
+  - Lead: dungeon RPG (roguelike) released 1997-12-23 by Square for the PlayStation, ported to the WonderSwan on 1999-03-04, both Japan only; released on Game Archives on 2010-08-25; the index lists it as a series (チョコボの不思議なダンジョンシリーズ)
+- https://ja.wikipedia.org/wiki/チョコボレーシング_〜幻界へのロード〜 -- release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 110373030 of 2026-07-22); archived: TODO
+  - Lead: Chocobo Racing, a PlayStation racing game released by Square on 1999-03-18; included in Chocobo Collection (1999-12-22); sold alone again as a PS one Books budget edition on 2001-12-20
+- https://ja.wikipedia.org/wiki/チョコボスタリオン -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 110373024 of 2026-07-22); archived: TODO
+  - Lead: Chocobo Stallion, a PlayStation raising simulation released 1999-12-22 by Square; one of three games in the simultaneous release Chocobo Collection
+- https://ja.wikipedia.org/wiki/はたらくチョコボ -- Japan release date -- accessed 2026-10-28 (article read through the MediaWiki API, revision 108926777 of 2026-03-28); archived: TODO
+  - Lead: Hataraku Chocobo, a frontier-development simulation released 2000-09-21 by Square; platform not in the lead
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

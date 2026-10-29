@@ -43,4 +43,11 @@
   - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
   - ファイナルファンタジーXIV; MMORPG(オンラインゲーム); first listed 2023-09-28: release 2010.09.30; icons: Windows, オンライン専用, パッケージ; CERO B; listed in every capture from 2023-09-28 to live (2026-10-28)
 
+## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section ふ) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
+  - Alphabetical index of computer game titles; gives each title and its article link only, no platforms or dates
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- series position, type -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111444198 of 2026-10-19); archived: TODO
+  - Lead: fourteenth numbered title of the Final Fantasy series, the second MMORPG after Final Fantasy XI; the Windows (PC) version is the original, a first for the series; the article covers the whole game; no release date in the lead
+
 ## Decisions

@@ -258,6 +258,13 @@ square-enix.com and stores (Publisher)
   - Collection of Mana; first listed live (2026-10-28): platforms Nintendo Switch; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://collectionofmana.square-enix-games.com/en-gb -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section せ) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
+  - Alphabetical index of computer game titles; gives each title and its article link only, no platforms or dates
+- https://ja.wikipedia.org/wiki/聖剣伝説_〜ファイナルファンタジー外伝〜 -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111083046 of 2026-09-20); archived: TODO
+  - Lead: 聖剣伝説 〜ファイナルファンタジー外伝〜 (Seiken Densetsu: Final Fantasy Gaiden); Game Boy title released 1991-06-28 by Square
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

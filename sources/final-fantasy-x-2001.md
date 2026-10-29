@@ -321,4 +321,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
   - FINAL FANTASY X | X-2 HD Remaster; first listed live (2026-10-28): platforms PlayStation Vita, PS3, PS4, Steam, Nintendo Switch, Xbox One, Xbox Series X|S, Windows, Nintendo Switch 2; (Právě vychází); one card for the HD Remaster of X, X-2 and their bonus content; listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-x-x-2-hd-remaster -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section ふ) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
+  - Alphabetical index of computer game titles; gives each title and its article link only, no platforms or dates
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーX -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111423447 of 2026-10-18); archived: TODO
+  - Lead: tenth title of the Final Fantasy series; released 2001-07-19 in Japan for the PlayStation 2
+
 ## Decisions

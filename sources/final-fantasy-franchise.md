@@ -22,6 +22,8 @@
 - https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(2001年) -- Japanese Wikipedia's list of PlayStation games released in Japan: 2001 (263 titles) -- live page of 2026-10-28 (revision 109502292 of 2026-05-14), visited and audited; archived: TODO
 - https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(2002年) -- Japanese Wikipedia's list of PlayStation games released in Japan: 2002 (226 titles) -- live page of 2026-10-28 (revision 109109029 of 2026-04-10), visited and audited; archived: TODO
 - https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(2003年-2004年) -- Japanese Wikipedia's list of PlayStation games released in Japan: 2003 and 2004 (46 and 2 titles) -- live page of 2026-10-28 (revision 108484812 of 2026-02-22), visited and audited; archived: TODO
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- Japanese Wikipedia's alphabetical index of computer game titles (a title directory: each title with its article link, no platforms or dates, no platform lists) -- live page of 2026-10-28 (revision 110699812 of 2026-08-19), visited and audited; archived: TODO
+  - Final Fantasy series article linked from the index: https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズ -- accessed 2026-10-28 (revision 110707130 of 2026-08-19); archived: TODO
 - https://wikipedia.org/wiki/Category:Stadia_games -- Stadia games -- accessed 2026-10-19 (confirmed by user; the category list read by me through the API, 213 pages)
   - Only Final Fantasy XV (and its downloadable content) is listed among the Final Fantasy games; no other Final Fantasy game was on Stadia
   - The entry's Stadia row is the Final Fantasy XV Stadia Edition

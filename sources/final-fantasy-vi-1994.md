@@ -434,4 +434,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
   - Lists the PlayStation games released in Japan, split by year; rows are date, title, publisher, note (columns 発売日, タイトル, 発売元, 備考)
   - Row (1999年): ファイナルファンタジーVI; 1999-03-11; スクウェア; note: 同名スーパーファミコン用ソフトの移植版で、コンビニエンスストアのみで販売された。; ファイナルファンタジーコレクション アニバーサリーパッケージと同日発売
 
+## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section ふ) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
+  - Alphabetical index of computer game titles; gives each title and its article link only, no platforms or dates
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVI -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111255499 of 2026-10-03); archived: TODO
+  - Lead: sixth title of the Final Fantasy series; released 1994-04-02 by Square for the Super Famicom
+
 ## Decisions

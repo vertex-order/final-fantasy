@@ -345,6 +345,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - Row (1997年): ファイナルファンタジーVII; 1997-01-31; スクウェア; note: ファイナルファンタジーシリーズナンバリング作品第7弾
   - Row (1997年): ファイナルファンタジーVII インターナショナル; 1997-10-02; スクウェア; note: 『ファイナルファンタジーVII』の内容強化版; プレイステーション クラシック内蔵ソフト
 
+## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section ふ) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
+  - Alphabetical index of computer game titles; gives each title and its article link only, no platforms or dates
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVII -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111377241 of 2026-10-13); archived: TODO
+  - Lead: seventh title of the Final Fantasy series; released 1997-01-31 in Japan as a PlayStation-only title
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

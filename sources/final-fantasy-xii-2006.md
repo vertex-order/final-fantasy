@@ -250,4 +250,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
   - FINAL FANTASY XII THE ZODIAC AGE; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, Nintendo Switch, Windows, Xbox Game Pass; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-xii-the-zodiac-age -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section ふ) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
+  - Alphabetical index of computer game titles; gives each title and its article link only, no platforms or dates
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXII -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111444197 of 2026-10-19); archived: TODO
+  - Lead: twelfth numbered title of the Final Fantasy series; released 2006-03-16 in Japan as a PlayStation 2-only title
+
 ## Decisions

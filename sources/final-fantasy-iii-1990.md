@@ -450,4 +450,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Columns: 配信開始日, OP (original platform: GB, GBC, GBA, DS, FC = Famicom, SFC = Super Famicom, GG, PCE), タイトル, 販売メーカー, 備考, 出典; the Super Famicom titles are the Newニンテンドー3DS-only Virtual Console
   - Row (2014年: ファイナルファンタジーIII; 配信開始日 2014-04-23; OP FC); スクウェア・エニックス; no note
 
+## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section ふ) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
+  - Alphabetical index of computer game titles; gives each title and its article link only, no platforms or dates
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIII -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111042702 of 2026-09-16); archived: TODO
+  - Lead: third title of the Final Fantasy series; released 1990-04-27 by Square for the Famicom
+
 ## Decisions

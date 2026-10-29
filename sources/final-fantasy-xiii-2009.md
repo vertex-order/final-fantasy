@@ -303,4 +303,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
   - FINAL FANTASY XIII; first listed live (2026-10-28): platforms PS3, Xbox 360, PC; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-xiii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section ふ) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
+  - Alphabetical index of computer game titles; gives each title and its article link only, no platforms or dates
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII -- series position -- accessed 2026-10-28 (article read through the MediaWiki API, revision 109888938 of 2026-06-11); archived: TODO
+  - Lead: thirteenth numbered title of the Final Fantasy series, published by Square Enix; names the sequels Final Fantasy XIII-2 and Lightning Returns; no release date in the lead
+
 ## Decisions
