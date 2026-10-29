@@ -35,3 +35,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 ## Not yet surveyed
 
 - wikipedia.org (English) · Final Fantasy Wiki · MobyGames · Square Enix FFXI package pages
+
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: テトラマスターFrom FINALFANTASY IX
+- https://ja.wikipedia.org/wiki/テトラマスターFrom_FINALFANTASY_IX -- accessed 2026-10-29 (revision 95436216 of 2023-05-31); archived: TODO

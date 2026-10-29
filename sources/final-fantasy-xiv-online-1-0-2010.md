@@ -56,4 +56,11 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ナンバリング作品とその続編): ファイナルファンタジーXIV（Win・2010年9月30日）
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: ファイナルファンタジーXIV (the article of the whole XIV series)
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- accessed 2026-10-29 (revision 111444198 of 2026-10-19); archived: TODO
+
 ## Decisions

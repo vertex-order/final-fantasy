@@ -195,4 +195,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XVI_version_diffe
   - Lists the games released in Japan for PlayStation 5 (2023; date, title, publisher, パ column [● also sold as a package], online (オ: ● online play, ◎ online only), CERO rating (レ), note)
   - Row (2023年): ファイナルファンタジーXVI; 2023-06-22; スクウェア・エニックス; パ: ●; オ: blank; レ: D; no note
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: ファイナルファンタジーXVI
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXVI -- accessed 2026-10-29 (revision 111433049 of 2026-10-18); archived: TODO
+
 ## Decisions

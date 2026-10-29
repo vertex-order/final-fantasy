@@ -116,4 +116,10 @@
   - Lists the games released in Japan for PlayStation 4 (2014 and 2015; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), note)
   - Row (発売されたタイトル, 2015年): ファイナルファンタジーXIV: 蒼天のイシュガルド; 2015-06-23; スクウェア・エニックス; パ: ●; note: オンライン専用、ファイナルファンタジーXIVの拡張ディスク
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: ファイナルファンタジーXIV: 蒼天のイシュガルド (a redirect page to ファイナルファンタジーXIV)
+
 ## Decisions

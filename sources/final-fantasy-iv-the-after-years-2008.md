@@ -314,4 +314,11 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
   - Row (2011年): ファイナルファンタジーIV コンプリートコレクション; Japan 2011-03-24; North America 2011-04-19; Europe 2011-04-21; スクウェア・エニックス; DL: ●; note: 『ファイナルファンタジーIV』および携帯電話向けに配信されていた後日談「ファイナルファンタジーIV ジ・アフターイヤーズ」などを収録
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: ファイナルファンタジーIV THE AFTER 月の帰還
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIV_THE_AFTER_月の帰還 -- accessed 2026-10-29 (revision 109758923 of 2026-05-31); archived: TODO
+
 ## Decisions

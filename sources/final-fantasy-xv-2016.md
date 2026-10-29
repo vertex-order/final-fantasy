@@ -454,6 +454,13 @@ square-enix-games.com (Publisher, official)
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2018年, 発売されたタイトル): FINAL FANTASY XV POCKET EDITION HD; Japan 2018-09-14; スクウェア・エニックス; パ: blank; CERO: B; no note
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: ファイナルファンタジーXV
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXV -- accessed 2026-10-29 (revision 110908607 of 2026-09-05); archived: TODO
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations

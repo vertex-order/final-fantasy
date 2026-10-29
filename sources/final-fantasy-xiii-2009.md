@@ -330,4 +330,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
   - Row (2010年): ファイナルファンタジーXIII アルティメットヒッツ インターナショナル; Japan 2010-12-16; North America 2010-03-09; Europe 2010-03-09; スクウェア・エニックス; 媒体: ◎; note: 日本ではダウンロード版は2018年11月12日に配信開始; backward compatibility: ○; reference: Square Enix Japan's FFXIII page https://www.jp.square-enix.com/game/detail/ff13/ (accessed 2022-10-12)
   - The list has no separate row for the original Japanese or worldwide Xbox 360 release of the game
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: ファイナルファンタジーXIII
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII -- accessed 2026-10-29 (revision 109888938 of 2026-06-11); archived: TODO
+
 ## Decisions

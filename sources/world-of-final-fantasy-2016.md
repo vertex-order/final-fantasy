@@ -253,4 +253,11 @@
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2018年, 発売されたタイトル): ワールド オブ ファイナルファンタジー マキシマ; Japan 2018-11-06; スクウェア・エニックス; パ: blank; CERO: B; note: 『ワールド オブ ファイナルファンタジー』の強化移植。
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: ワールド オブ ファイナルファンタジー
+- https://ja.wikipedia.org/wiki/ワールド_オブ_ファイナルファンタジー -- accessed 2026-10-29 (revision 110503103 of 2026-08-02); archived: TODO
+
 ## Decisions

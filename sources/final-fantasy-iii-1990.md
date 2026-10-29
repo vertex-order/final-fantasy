@@ -500,4 +500,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - List of the Famicom and NES games released worldwide, one table 発売されたタイトル sorted by Japan release date (columns: Japan, North America and Europe dates, title with the overseas title beneath, publisher, note, reference); "未発売" means not released in that region
   - Row: ファイナルファンタジーIII; Japan 1990-04-27; North America and Europe not released; スクウェア; no note; footnote: ファミリーコンピュータ 1983-1994 gives 1990-04-24
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: ファイナルファンタジーIII (リメイク版)
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIII_(リメイク版) -- accessed 2026-10-29 (revision 111454378 of 2026-10-20); archived: TODO
+
 ## Decisions

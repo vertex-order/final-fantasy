@@ -78,4 +78,11 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (その他の派生作品): メビウス ファイナルファンタジー（iOS、Android・2015年6月4日）
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: メビウス ファイナルファンタジー
+- https://ja.wikipedia.org/wiki/メビウス_ファイナルファンタジー -- accessed 2026-10-29 (revision 110675453 of 2026-08-17); archived: TODO
+
 ## Decisions

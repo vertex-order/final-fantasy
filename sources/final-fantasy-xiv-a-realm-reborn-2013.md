@@ -361,4 +361,11 @@
   - List of the Nintendo Switch 2 games released and announced in Japan, one table per year on one page (columns: release date in three cells, 日本, 北米 and 欧州, a merged cell meaning one date in all three; title, publisher, パ [●: also sold as a package; ■: key-card package; ▲: package holding only a download code; blank: download only], Ed [●: Nintendo Switch 2 Edition; ○: not an Edition, but a Nintendo Switch version is also sold], CERO or IARC rating, note, reference)
   - Row (2026年, 8月): FINAL FANTASY XIV; Japan, North America and Europe 2026-08-04; スクウェア・エニックス; パ: blank; Ed: blank; CERO: D; note: free to download for the first month after release
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: ファイナルファンタジーXIV (the article of the whole XIV series)
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- accessed 2026-10-29 (revision 111444198 of 2026-10-19); archived: TODO
+
 ## Decisions

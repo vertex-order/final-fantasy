@@ -186,4 +186,11 @@
   - Row (2007年): ファイナルファンタジーXI ヴァナ・ディールコレクション; Japan 2007-11-22; North America and Europe not released; スクウェア・エニックス; 媒体: blank; no note; backward compatibility: blank; reference: Square Enix Japan's Xbox 360 game list https://www.jp.square-enix.com/game/?pf=29 (accessed 2022-10-12)
   - Row (2009年): ファイナルファンタジーXI ヴァナ・ディール コレクション2; Japan 2009-11-12; North America and Europe not released; スクウェア・エニックス; 媒体: blank; no note; backward compatibility: blank; reference: Square Enix Japan's Xbox 360 game list https://www.jp.square-enix.com/game/?pf=29 (accessed 2022-10-12)
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: ファイナルファンタジーXI
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXI -- accessed 2026-10-29 (revision 109759274 of 2026-05-31); archived: TODO
+
 ## Decisions

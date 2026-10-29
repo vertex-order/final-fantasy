@@ -400,4 +400,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
   - Row (6.1 PlayStation ソフト): ファイナルファンタジーVIII; スクウェア
   - Chocobo World is not named on the page
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: ファイナルファンタジーVIII
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVIII -- accessed 2026-10-29 (revision 111072262 of 2026-09-19); archived: TODO
+
 ## Decisions

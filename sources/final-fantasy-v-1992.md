@@ -481,4 +481,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
   - Row: ファイナルファンタジーV; Japan 1992-12-06; North America and Europe not released; スクウェア; no note
   - Prose (特徴): not released in North America, whose core gamers played PC games; a long time on the menu screen was judged unsaleable to SNES users
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: ファイナルファンタジーV
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーV -- accessed 2026-10-29 (revision 111160450 of 2026-09-26); archived: TODO
+
 ## Decisions

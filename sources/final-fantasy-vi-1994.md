@@ -476,4 +476,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
   - List of the Super Famicom and Super Nintendo Entertainment System games released worldwide, one table sorted by Japan release date (columns: Japan, North America and Europe dates, title with the overseas title beneath, publisher, note, reference); "未発売" means not released in that region
   - Row: ファイナルファンタジーVI (overseas title Final Fantasy III); Japan 1994-04-02; North America 1994-10-11; Europe not released; スクウェア; no note
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: ファイナルファンタジーVI
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVI -- accessed 2026-10-29 (revision 111255499 of 2026-10-03); archived: TODO
+
 ## Decisions

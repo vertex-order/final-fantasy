@@ -212,4 +212,10 @@
   - Lists the games released in Japan for PlayStation 4 (2018; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2018年): ディシディア ファイナルファンタジー NT; 2018-01-11; スクウェア・エニックス; パ: ●; note: PlayStation 4 Pro対応; 2018年11月22日にはバトルモードのみを収録した「DISSIDIA FINAL FANTASY NT Free Edition」がWargaming.netから基本無料タイトルとして配信された
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: ディシディア ファイナルファンタジー NT (a redirect page to ディシディア ファイナルファンタジー (アーケードゲーム))
+
 ## Decisions
