@@ -48,4 +48,10 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ナンバリング作品とその続編): ファイナルファンタジーIV コンプリートコレクション（PSP・2011年3月24日）
 
+## ja.wikipedia.org (Information; PlayStation Portable game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_Portableのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111463101 of 2026-10-21); archived: TODO
+  - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
+  - Row (2011年): ファイナルファンタジーIV コンプリートコレクション; Japan 2011-03-24; North America 2011-04-19; Europe 2011-04-21; スクウェア・エニックス; DL: ●; note: 『ファイナルファンタジーIV』および携帯電話向けに配信されていた後日談「ファイナルファンタジーIV ジ・アフターイヤーズ」などを収録
+
 ## Decisions

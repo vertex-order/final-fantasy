@@ -223,3 +223,9 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2017年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840860 of 2026-08-31); archived: TODO
   - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2017年): いただきストリート ドラゴンクエスト&ファイナルファンタジー 30th ANNIVERSARY; 2017-10-19; スクウェア・エニックス; パ: ●; note: 『ドラゴンクエスト』と『ファイナルファンタジー』シリーズ30周年記念作品
+
+## ja.wikipedia.org (Information; PlayStation Portable game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_Portableのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111463101 of 2026-10-21); archived: TODO
+  - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
+  - Row (2006年): ドラゴンクエスト&ファイナルファンタジー in いただきストリートポータブル; Japan 2006-05-25; North America unreleased; Europe unreleased; スクウェア・エニックス; DL: blank

@@ -583,4 +583,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - Lists the games released in Japan for PlayStation 4 (index page with the 2022 to 2027 tables and the unreleased titles; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (2023年): ファイナルファンタジーIV; 2023-04-20; スクウェア・エニックス; パ: blank (download only per the legend); note: ピクセルリマスター版 (one publisher and note cell shared by the six titles)
 
+## ja.wikipedia.org (Information; PlayStation Portable game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_Portableのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111463101 of 2026-10-21); archived: TODO
+  - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
+  - Row (2011年): ファイナルファンタジーIV コンプリートコレクション; Japan 2011-03-24; North America 2011-04-19; Europe 2011-04-21; スクウェア・エニックス; DL: ●; note: 『ファイナルファンタジーIV』および携帯電話向けに配信されていた後日談「ファイナルファンタジーIV ジ・アフターイヤーズ」などを収録
+
 ## Decisions

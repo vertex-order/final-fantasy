@@ -22,6 +22,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
       length: [{ value: '40min', tip: 'Main Story', join: ' / ' }, { value: '2h', tip: 'Main + Extra', join: ' / ' }, { value: '14½h', tip: 'Completionist' }],
       platforms: [
         { key: 'playstation-portable', paren: 'Digital' },
+        { key: 'playstation-vita', paren: 'Digital; PSP compatibility' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-playthrough', search: 'youtube' },

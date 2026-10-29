@@ -256,4 +256,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
   - Lists the games released in Japan for PlayStation 4 (2014 and 2015; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), note)
   - Row (発売されたタイトル, 2015年): ファイナルファンタジー零式 HD; 2015-03-19; スクウェア・エニックス; パ: ●; note: PlayStation Portable用ソフト『ファイナルファンタジー零式』のリマスター版
 
+## ja.wikipedia.org (Information; PlayStation Portable game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_Portableのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111463101 of 2026-10-21); archived: TODO
+  - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
+  - Row (2011年): ファイナルファンタジー零式; Japan 2011-10-27; North America unreleased; Europe unreleased; スクウェア・エニックス; DL: ●; note: 2枚組
+
 ## Decisions

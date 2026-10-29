@@ -504,6 +504,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
   - Lists the games released in Japan for PlayStation 5 (2024 onward, index page; date, title, publisher, パ column [● also sold as a package], online (オ: ● online play, ◎ online only), CERO rating (レ), note)
   - Row (2025年): ファイナルファンタジータクティクス - イヴァリース クロニクルズ; 2025-09-30; スクウェア・エニックス; パ: ●; オ: blank; レ: C; note: PlayStation用ソフト『ファイナルファンタジータクティクス』のリマスター版; PlayStation 4版も同日発売、PlayStation 4版からのアップグレードが可能
 
+## ja.wikipedia.org (Information; PlayStation Portable game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_Portableのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111463101 of 2026-10-21); archived: TODO
+  - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
+  - Row (2007年): ファイナルファンタジータクティクス 獅子戦争 (Final Fantasy Tactics: The War of the Lions); Japan 2007-05-10; North America 2007-10-09; Europe 2007-10-05; スクウェア・エニックス; DL: ●
+
 ## Decisions
 
 

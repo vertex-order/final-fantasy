@@ -106,4 +106,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)_v
   - Row (その他の派生作品): ディシディア ファイナルファンタジー ユニバーサル チューニング（PSP・2009年11月1日）
   - Row (その他の派生作品): ディシディア デュオデシム ファイナルファンタジー（PSP・2011年3月3日）
 
+## ja.wikipedia.org (Information; PlayStation Portable game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_Portableのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111463101 of 2026-10-21); archived: TODO
+  - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
+  - Row (2008年): ディシディア ファイナルファンタジー; Japan 2008-12-18; North America unreleased; Europe unreleased; スクウェア・エニックス; DL: ●; note: PSP-3000同梱版あり; ダウンロード版は2010年9月16日配信
+  - Row (2009年): DISSIDIA FINAL FANTASY UNIVERSAL TUNING; Japan 2009-11-01; North America 2009-08-25; Europe 2009-09-04; スクウェア・エニックス; DL: ●; note: 日本国外版『ディシディア ファイナルファンタジー』をもとに内容を強化した作品
+  - Row (2011年): ディシディア デュオデシム ファイナルファンタジー (Dissidia 012: Duodecim Final Fantasy); Japan 2011-03-03; North America 2011-03-22; Europe 2011-03-25; スクウェア・エニックス; DL: ●
+
 ## Decisions
