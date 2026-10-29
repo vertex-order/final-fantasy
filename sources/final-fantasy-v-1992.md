@@ -418,4 +418,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
   - Columns: 配信開始日, OP (original platform: FC = Famicom, SFC = Super Famicom), タイトル, 販売メーカー, 備考
   - Row (2011年): ファイナルファンタジーV; 配信開始日 2011-01-18; OP SFC; スクウェア・エニックス; no note
 
+## ja.wikipedia.org (Information; Wii U Virtual Console game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Wii_U版バーチャルコンソールのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 109650359 of 2026-05-22); archived: TODO
+  - Lists the Virtual Console titles distributed on Wii U in Japan, by 配信開始日 under year headings 2013 to 2017; data as of 2023-04-01; all distribution ended 2023-03-28 with the closing of the Wii U ニンテンドーeショップ
+  - Columns: 配信開始日, OP (original platform: FC = Famicom, SFC = Super Famicom, GBA = Game Boy Advance), タイトル, 販売メーカー, 備考
+  - Row (2014年): ファイナルファンタジーV; 配信開始日 2014-03-26; OP SFC; スクウェア・エニックス; no note
+  - Row (2016年): ファイナルファンタジーV アドバンス; 配信開始日 2016-04-20; OP GBA; スクウェア・エニックス; no note
+
 ## Decisions

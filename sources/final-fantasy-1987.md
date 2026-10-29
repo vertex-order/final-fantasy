@@ -556,6 +556,14 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - Columns: 配信開始日, OP (original platform: FC = Famicom, SFC = Super Famicom), タイトル, 販売メーカー, 備考
   - Row (2009年): ファイナルファンタジー; 配信開始日 2009-05-26; OP FC; スクウェア・エニックス; no note
 
+## ja.wikipedia.org (Information; Wii U Virtual Console game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Wii_U版バーチャルコンソールのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 109650359 of 2026-05-22); archived: TODO
+  - Lists the Virtual Console titles distributed on Wii U in Japan, by 配信開始日 under year headings 2013 to 2017; data as of 2023-04-01; all distribution ended 2023-03-28 with the closing of the Wii U ニンテンドーeショップ
+  - Columns: 配信開始日, OP (original platform: FC = Famicom, SFC = Super Famicom, GBA = Game Boy Advance), タイトル, 販売メーカー, 備考
+  - Row (2013年): ファイナルファンタジー; 配信開始日 2013-11-13; OP FC; スクウェア・エニックス; no note
+  - Row (2016年): ファイナルファンタジーI・II アドバンス; 配信開始日 2016-01-06; OP GBA; スクウェア・エニックス; no note; one row for the I and II compilation
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

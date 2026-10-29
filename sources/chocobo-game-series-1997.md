@@ -737,6 +737,13 @@
   - No other Chocobo title on the page
 - https://ja.wikipedia.org/wiki/チョコボの不思議なダンジョン_時忘れの迷宮 -- the game's own article, linked from the row -- link recorded only, page not visited; archived: TODO
 
+## ja.wikipedia.org (Information; Wii U Virtual Console game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Wii_U版バーチャルコンソールのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 109650359 of 2026-05-22); archived: TODO
+  - Lists the Virtual Console titles distributed on Wii U in Japan, by 配信開始日 under year headings 2013 to 2017; data as of 2023-04-01; all distribution ended 2023-03-28 with the closing of the Wii U ニンテンドーeショップ
+  - Columns: 配信開始日, OP (original platform: FC = Famicom, SFC = Super Famicom, GBA = Game Boy Advance), タイトル, 販売メーカー, 備考
+  - Row (2016年): チョコボランド; 配信開始日 2016-02-10; OP GBA; スクウェア・エニックス; no note
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.
