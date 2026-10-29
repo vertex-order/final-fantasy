@@ -188,6 +188,12 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Footnote on the row: MSX Magazine of September 1986 gave an announced release of 1986-08-29
   - Source for the date: 前田 2020 (MSXパーフェクトカタログ), p. 114
 
+## ja.wikipedia.org (Information; PC-8800 series game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/PC-8800シリーズのゲームタイトル一覧 -- platforms -- accessed 2026-10-29 (revision 108789972 of 2026-03-17; wikitext read through the MediaWiki API); archived: TODO
+  - List of Japan-market PC-8800 series games, a bulleted section per year 1983 to 1991 (month, title, publisher)
+  - The 1987 section holds three rows (ガンダーラ 仏陀の聖戦, ドラゴンバスター, かわいそう物語); no キングスナイト・スペシャル and no other Square row
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)
