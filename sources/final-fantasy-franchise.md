@@ -6,6 +6,7 @@
 
 - https://en.wikipedia.org/wiki/List_of_Final_Fantasy_video_games -- media*, dates*, platforms* -- accessed 2026-09-22
 - https://wikipedia.org/wiki/List_of_Square_Enix_video_games -- games, platforms, date -- accessed 2026-09-25
+- https://ja.wikipedia.org/wiki/Wiiのゲームタイトル一覧 -- Japanese Wikipedia's list of Wii disc games (released, non-sale and unreleased titles; Japan, North America and Europe dates) -- live page of 2026-10-28, visited and audited; archived: TODO
 - https://wikipedia.org/wiki/Category:Stadia_games -- Stadia games -- accessed 2026-10-19 (confirmed by user; the category list read by me through the API, 213 pages)
   - Only Final Fantasy XV (and its downloadable content) is listed among the Final Fantasy games; no other Final Fantasy game was on Stadia
   - The entry's Stadia row is the Final Fantasy XV Stadia Edition

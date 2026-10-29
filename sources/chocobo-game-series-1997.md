@@ -729,6 +729,14 @@
   - Chocobo’s Mystery Dungeon EVERY BUDDY!; first listed live (2026-10-28): platforms PS4, Nintendo Switch; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/chocobos-mystery-dungeon-every-buddy -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Wii game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Wiiのゲームタイトル一覧 -- Final Fantasy Fables: Chocobo's Dungeon dates*, platforms* -- accessed 2026-10-28; archived: TODO
+  - Lists Wii disc games by Japan release date, with North America and Europe dates; sections 発売されたタイトル, 非売品, 発売されなかったタイトル
+  - Row: チョコボの不思議なダンジョン 時忘れの迷宮 (English name given as Final Fantasy Fables: Chocobo's Dungeon); publisher スクウェア・エニックス; Japan 2007-12-13, North America 2008-07-08, Europe 2008-11-07
+  - No other Chocobo title on the page
+- https://ja.wikipedia.org/wiki/チョコボの不思議なダンジョン_時忘れの迷宮 -- the game's own article, linked from the row -- link recorded only, page not visited; archived: TODO
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.
