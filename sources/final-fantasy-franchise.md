@@ -11,6 +11,7 @@
 - https://ja.wikipedia.org/wiki/Wii版バーチャルコンソールのゲームタイトル一覧 -- Japanese Wikipedia's list of Virtual Console titles distributed on Wii in Japan (data as of 2019-02-01) -- live page of 2026-10-28, visited and audited; archived: TODO
 - https://ja.wikipedia.org/wiki/Wii_U版バーチャルコンソールのゲームタイトル一覧 -- Japanese Wikipedia's list of Virtual Console titles distributed on Wii U in Japan (data as of 2023-04-01) -- live page of 2026-10-28, visited and audited; archived: TODO
 - https://ja.wikipedia.org/wiki/ニンテンドー3DS版バーチャルコンソールのゲームタイトル一覧 -- Japanese Wikipedia's list of Virtual Console titles distributed on Nintendo 3DS in Japan (data as of 2023-04-01) -- live page of 2026-10-28, visited and audited; archived: TODO
+- https://ja.wikipedia.org/wiki/ニンテンドーDSiウェアのタイトル一覧 -- Japanese Wikipedia's list of DSiWare titles distributed in Japan, 2008 to 2015 (494 titles; distribution ended 2023-03-28) -- live page of 2026-10-28 (revision 111004633 of 2026-09-13), visited and audited; archived: TODO
 - https://wikipedia.org/wiki/Category:Stadia_games -- Stadia games -- accessed 2026-10-19 (confirmed by user; the category list read by me through the API, 213 pages)
   - Only Final Fantasy XV (and its downloadable content) is listed among the Final Fantasy games; no other Final Fantasy game was on Stadia
   - The entry's Stadia row is the Final Fantasy XV Stadia Edition
