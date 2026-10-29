@@ -73,4 +73,10 @@
   - アルティメットヒッツ ベイグラントストーリー; ロールプレイングアドベンチャー; platform section プレイステーション; first listed 2013-06-06: release 2006.07.20; icons: none; listed in every capture from 2013-06-06 to 2016-12-22; not on the captures after 2016-12-22
     - http://www.square-enix.co.jp/uh/ -- 公式サイト link, listed 2013-06-06 to 2016-12-22 -- link recorded only -- archived: https://web.archive.org/web/20130606035128/http://www.square-enix.co.jp/uh/ (last listing: https://web.archive.org/web/20161222213809/http://www.square-enix.co.jp/uh/)
 
+## ja.wikipedia.org (Information; PlayStation game title list, per-year pages, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(2000年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111428783 of 2026-10-18); archived: TODO
+  - Lists the PlayStation games released in Japan, split by year; rows are date, title, publisher, note (columns 発売日, タイトル, 発売元, 備考)
+  - Row (2000年): ベイグラントストーリー; 2000-02-10; スクウェア; no note
+
 ## Decisions

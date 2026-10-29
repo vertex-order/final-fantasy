@@ -354,4 +354,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
   - FINAL FANTASY VIII; first listed live (2026-10-28): platforms Steam; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-viii-pc -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; PlayStation game title list, per-year pages, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(1999年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111441372 of 2026-10-19); archived: TODO
+  - Lists the PlayStation games released in Japan, split by year; rows are date, title, publisher, note (columns 発売日, タイトル, 発売元, 備考)
+  - Row (1999年): ファイナルファンタジーVIII; 1999-02-11; スクウェア; note: ディスク4枚組
+
 ## Decisions

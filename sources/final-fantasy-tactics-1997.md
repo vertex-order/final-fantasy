@@ -479,6 +479,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
   - FINAL FANTASY TACTICS - The Ivalice Chronicles; first listed live (2026-10-28): platforms Nintendo Switch, Nintendo Switch 2, PS5 | PS4, Xbox Series X|S, Steam; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://final-fantasy-tactics-the-ivalice-chronicles.square-enix-games.com/en-gb -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; PlayStation game title list, per-year pages, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(1997年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111428913 of 2026-10-18); archived: TODO
+  - Lists the PlayStation games released in Japan, split by year; rows are date, title, publisher, note (columns 発売日, タイトル, 発売元, 備考)
+  - Row (1997年): ファイナルファンタジータクティクス; 1997-06-20; スクウェア; note: 『ファイナルファンタジー』シリーズのシミュレーションRPG
+
 ## Decisions
 
 

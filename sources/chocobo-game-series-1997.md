@@ -744,6 +744,18 @@
   - Columns: 配信開始日, OP (original platform: FC = Famicom, SFC = Super Famicom, GBA = Game Boy Advance), タイトル, 販売メーカー, 備考
   - Row (2016年): チョコボランド; 配信開始日 2016-02-10; OP GBA; スクウェア・エニックス; no note
 
+## ja.wikipedia.org (Information; PlayStation game title list, per-year pages, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(1997年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111428913 of 2026-10-18); archived: TODO
+  - Lists the PlayStation games released in Japan, split by year; rows are date, title, publisher, note (columns 発売日, タイトル, 発売元, 備考)
+  - Row (1997年): チョコボの不思議なダンジョン; 1997-12-23; スクウェア; note: 『チョコボの不思議なダンジョン』シリーズ第1作。
+- https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(1998年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111239614 of 2026-10-02); archived: TODO
+  - Row (1998年): チョコボの不思議なダンジョン2; 1998-12-23; スクウェア; note: 『チョコボの不思議なダンジョン』シリーズ第2作。
+- https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(1999年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111441372 of 2026-10-19); archived: TODO
+  - Row (1999年): チョコボレーシング 〜幻界へのロード〜; 1999-03-18; スクウェア; note: チョコボを題材としたレースゲーム
+  - Row (1999年): チョコボスタリオン; 1999-12-22; スクウェア; note: 競走馬のようにチョコボを育成するゲーム
+  - Row (1999年): チョコボコレクション; 1999-12-22; スクウェア; note: 『チョコボスタリオン』、『チョコボレーシング』、『ダイスDEチョコボ』を各1枚のディスクに収録。
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

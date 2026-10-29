@@ -481,6 +481,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
   - Columns: 配信開始日, OP (original platform: GB, GBC, GBA, DS, FC = Famicom, SFC = Super Famicom, GG, PCE), タイトル, 販売メーカー, 備考, 出典; the Super Famicom titles are the Newニンテンドー3DS-only Virtual Console
   - Row (2014年: ファイナルファンタジーII; 配信開始日 2014-02-12; OP FC); スクウェア・エニックス; no note
 
+## ja.wikipedia.org (Information; PlayStation game title list, per-year pages, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(2002年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 109109029 of 2026-04-10); archived: TODO
+  - Lists the PlayStation games released in Japan, split by year; rows are date, title, publisher, note (columns 発売日, タイトル, 発売元, 備考)
+  - Row (2002年): ファイナルファンタジーII; 2002-10-31; スクウェア; note: I・IIのプレミアムパッケージあり
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

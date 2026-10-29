@@ -433,4 +433,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
   - Columns: 配信開始日, OP (original platform: GB, GBC, GBA, DS, FC = Famicom, SFC = Super Famicom, GG, PCE), タイトル, 販売メーカー, 備考, 出典; the Super Famicom titles are the Newニンテンドー3DS-only Virtual Console
   - Row (2017年: ファイナルファンタジーV; 配信開始日 2017-08-23; OP SFC); スクウェア・エニックス; no note
 
+## ja.wikipedia.org (Information; PlayStation game title list, per-year pages, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(1998年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111239614 of 2026-10-02); archived: TODO
+  - Lists the PlayStation games released in Japan, split by year; rows are date, title, publisher, note (columns 発売日, タイトル, 発売元, 備考)
+  - Row (1998年): ファイナルファンタジーV; 1998-03-19; スクウェア; no note
+
 ## Decisions

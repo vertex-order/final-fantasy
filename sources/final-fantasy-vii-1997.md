@@ -338,6 +338,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; PlayStation game title list, per-year pages, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(1997年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111428913 of 2026-10-18); archived: TODO
+  - Lists the PlayStation games released in Japan, split by year; rows are date, title, publisher, note (columns 発売日, タイトル, 発売元, 備考)
+  - Row (1997年): ファイナルファンタジーVII; 1997-01-31; スクウェア; note: ファイナルファンタジーシリーズナンバリング作品第7弾
+  - Row (1997年): ファイナルファンタジーVII インターナショナル; 1997-10-02; スクウェア; note: 『ファイナルファンタジーVII』の内容強化版; プレイステーション クラシック内蔵ソフト
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

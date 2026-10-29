@@ -358,4 +358,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
   - FINAL FANTASY IX; first listed live (2026-10-28): platforms PS4, Steam, iPhone, Android, Xbox One, Xbox Series X|S, Windows, Nintendo Switch; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-ix -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; PlayStation game title list, per-year pages, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(2000年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111428783 of 2026-10-18); archived: TODO
+  - Lists the PlayStation games released in Japan, split by year; rows are date, title, publisher, note (columns 発売日, タイトル, 発売元, 備考)
+  - Row (2000年): ファイナルファンタジーIX; 2000-07-07; スクウェア; note: ファイナルファンタジーシリーズナンバリング第9弾。
+
 ## Decisions
