@@ -180,6 +180,14 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - List of the Famicom and NES games released worldwide, one table 発売されたタイトル sorted by Japan release date (columns: Japan, North America and Europe dates, title with the overseas title beneath, publisher, note, reference); "未発売" means not released in that region
   - Row: キングスナイト; Japan 1986-09-18; North America 1989-09; Europe not released; スクウェア; note: ファンタジーを題材としたシューティングゲーム
 
+## ja.wikipedia.org (Information; MSX game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/MSXのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111115132 of 2026-09-23; wikitext read through the MediaWiki API); archived: TODO
+  - List of Japan-market MSX, MSX2, MSX2+ and MSXturboR games in release order, one table per year (columns: date, title, publisher, MSX standard, medium, note, reference)
+  - Row (1986): キングスナイト; 1986-09-18; スクウェア; MSX1; ROM; no note
+  - Footnote on the row: MSX Magazine of September 1986 gave an announced release of 1986-08-29
+  - Source for the date: 前田 2020 (MSXパーフェクトカタログ), p. 114
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)
