@@ -73,4 +73,11 @@
   - ファイナルファンタジーUSA ミスティッククエスト; RPG; first listed 2023-09-28: release 2014.04.16(Wii U); icons: Wii, Wii U, スーパーファミコン, ダウンロード, パッケージ; CERO A; listed in every capture from 2023-09-28 to live (2026-10-28)
     - https://www.jp.square-enix.com/game/detail/ffusa/ -- 商品詳細 link, listed 2023-09-28 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230928143327mp_/https://www.jp.square-enix.com/game/detail/ffusa/
 
+## ja.wikipedia.org (Information; Wii Virtual Console game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Wii版バーチャルコンソールのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki raw action); archived: TODO
+  - Lists the Virtual Console titles distributed on Wii in Japan, by 配信開始日 under year headings 2007 to 2011 (and later); data as of 2019-02-01
+  - Columns: 配信開始日, OP (original platform: FC = Famicom, SFC = Super Famicom), タイトル, 販売メーカー, 備考
+  - Row (2010年): ファイナルファンタジーUSA ミスティッククエスト; 配信開始日 2010-12-21; OP SFC; スクウェア・エニックス; no note
+
 ## Decisions

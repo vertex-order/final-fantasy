@@ -406,4 +406,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Právě vychází); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Wii Virtual Console game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Wii版バーチャルコンソールのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki raw action); archived: TODO
+  - Lists the Virtual Console titles distributed on Wii in Japan, by 配信開始日 under year headings 2007 to 2011 (and later); data as of 2019-02-01
+  - Columns: 配信開始日, OP (original platform: FC = Famicom, SFC = Super Famicom), タイトル, 販売メーカー, 備考
+  - Row (2011年): ファイナルファンタジーVI; 配信開始日 2011-03-15; OP SFC; スクウェア・エニックス; no note
+
 ## Decisions

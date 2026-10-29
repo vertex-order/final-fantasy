@@ -153,6 +153,13 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - キングスナイト; フォーメーションRPG; first listed 2022-11-07: release 1986.09.18; icons: パッケージ, ファミリーコンピュータ; listed in every capture from 2022-11-07 to live (2026-10-28)
     - https://www.jp.square-enix.com/game/detail/kingsknight/ -- 商品詳細 link, listed 2022-11-07 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20221107101636mp_/https://www.jp.square-enix.com/game/detail/kingsknight/
 
+## ja.wikipedia.org (Information; Wii Virtual Console game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Wii版バーチャルコンソールのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki raw action); archived: TODO
+  - Lists the Virtual Console titles distributed on Wii in Japan, by 配信開始日 under year headings 2007 to 2011 (and later); data as of 2019-02-01
+  - Columns: 配信開始日, OP (original platform: FC = Famicom, SFC = Super Famicom), タイトル, 販売メーカー, 備考
+  - Row (2007年): キングスナイト; 配信開始日 2007-11-27; OP FC; スクウェア・エニックス; no note
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)

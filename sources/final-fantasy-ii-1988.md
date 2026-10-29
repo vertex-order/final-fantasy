@@ -459,6 +459,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Právě vychází); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Wii Virtual Console game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Wii版バーチャルコンソールのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki raw action); archived: TODO
+  - Lists the Virtual Console titles distributed on Wii in Japan, by 配信開始日 under year headings 2007 to 2011 (and later); data as of 2019-02-01
+  - Columns: 配信開始日, OP (original platform: FC = Famicom, SFC = Super Famicom), タイトル, 販売メーカー, 備考
+  - Row (2009年): ファイナルファンタジーII; 配信開始日 2009-06-16; OP FC; スクウェア・エニックス; no note
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

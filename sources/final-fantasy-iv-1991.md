@@ -530,4 +530,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - FINAL FANTASY IV; first listed live (2026-10-28): platforms PC, Android, iOS; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-iv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Wii Virtual Console game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Wii版バーチャルコンソールのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki raw action); archived: TODO
+  - Lists the Virtual Console titles distributed on Wii in Japan, by 配信開始日 under year headings 2007 to 2011 (and later); data as of 2019-02-01
+  - Columns: 配信開始日, OP (original platform: FC = Famicom, SFC = Super Famicom), タイトル, 販売メーカー, 備考
+  - Row (2009年): ファイナルファンタジーIV; 配信開始日 2009-08-04; OP SFC; スクウェア・エニックス; no note
+
 ## Decisions
