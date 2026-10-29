@@ -37,4 +37,11 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (その他の派生作品): シアトリズム ファイナルファンタジー オールスターカーニバル（アーケード・2016年9月27日）
 
+## ja.wikipedia.org (Information; arcade game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/アーケードゲームのタイトル一覧 -- release year, publisher, developer -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 111199056 of 2026-09-28); archived: TODO
+  - Lists arcade video and large-cabinet games by decade; columns are year in Japan, year overseas, title, publisher, notes, sources; this section is 2010年代
+  - Row (2016年, overseas year empty): シアトリズム ファイナルファンタジー オールスターカーニバル
+  - Publisher タイトー, note NESiCA対応, 開発：インディーズゼロ／スクウェア・エニックス; source cited: ティザーサイト https://www.jp.square-enix.com/t_ffac/
+
 ## Decisions
