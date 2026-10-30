@@ -61,3 +61,5 @@
   - Row (2009年): プレイオンライン/ファイナルファンタジーXI ヴァナ・ディール コレクション2; 2009-11-12; スクウェア・エニックス; note: 『ファイナルファンタジーXI』の拡張ディスクのうち、『ジラートの幻影』から『アルタナの神兵』までの4本を収録
 
 ## Decisions
+
+- Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

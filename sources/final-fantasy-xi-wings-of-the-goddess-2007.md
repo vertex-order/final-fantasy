@@ -75,3 +75,5 @@
   - Row (2007年): ファイナルファンタジーXI アルタナの神兵 (Final Fantasy XI: Wings of the Goddess); Japan 2007-11-22; North America 2007-11-20; Europe 2007-11-23; スクウェア・エニックス; 媒体: blank; no note; backward compatibility: blank; reference: Square Enix Japan's Xbox 360 game list https://www.jp.square-enix.com/game/?pf=29 (accessed 2022-10-12)
 
 ## Decisions
+
+- Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

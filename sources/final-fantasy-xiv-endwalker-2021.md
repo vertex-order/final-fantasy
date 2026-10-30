@@ -21,6 +21,7 @@
 - https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/ -- accessed 2026-10-25 (the store's appdetails text read by me)
   - The description names only A Realm Reborn, Heavensward, Stormblood and Shadowbringers
 - https://store.steampowered.com/app/1592500/FINAL_FANTASY_XIV_Endwalker/ -- platforms*, Steam link -- accessed 2026-10-27 (the store's appdetails read by me: success, type dlc, name FINAL FANTASY XIV: Endwalker, Collector's Edition text) -- archived: https://web.archive.org/web/20210702110910/https://store.steampowered.com/app/1592500/FINAL_FANTASY_XIV_Endwalker/
+  - Live page loads (checked by the user, 2026-10-30): notice "At the request of the publisher, FINAL FANTASY XIV: Endwalker is unlisted on the Steam store and will not appear in search"; languages table: English, French, German and Japanese each with interface, full audio and subtitles; a DLC page for an expansion that the base game FINAL FANTASY XIV Online (app 39210) now includes.
 
 ## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2021-11-19 to live (2026-10-26))
 
@@ -100,4 +101,27 @@
   - Member: ファイナルファンタジーXIV (the article of the whole XIV series)
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- accessed 2026-10-29 (revision 111444198 of 2026-10-19); archived: TODO
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 1592500 FINAL FANTASY XIV: Endwalker -- type label DLC; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/1592500/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/1592500/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 1592510 FINAL FANTASY XIV: Endwalker Standard Edition Content -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/1592510/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 1592511 FINAL FANTASY XIV: Endwalker Collector’s Edition Content -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/1592511/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 1592512 FINAL FANTASY XIV: Endwalker Pre-Purchase Bonus Content -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/1592512/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - Not listed in any saved search result: 1592500 FINAL FANTASY XIV: Endwalker
+
 ## Decisions
+
+- Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

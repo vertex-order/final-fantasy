@@ -672,6 +672,22 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - Section 収録タイトル: one table of 38 rows for both versions; cell colour green = both versions (22), yellow = Japan only (8), red = overseas only (8); columns: Japanese title, overseas title, release year in Japan and overseas, publisher, note
   - Row (red, overseas only): ファイナルファンタジー; overseas title Final Fantasy; Japan 1987, overseas 1990; スクウェア; note 日本版には収録なし (not in the Japanese version)
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 1173770 FINAL FANTASY -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/1173770/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/1173770/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 1173770 FINAL FANTASY -- listed in the "final fantasy" search; release date shown: 12 Aug, 2021; platforms shown: win; review summary: Overwhelmingly Positive -- 95% of the 5,800 user reviews for this game are positive.
+    - https://store.steampowered.com/app/1173770/FINAL_FANTASY/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

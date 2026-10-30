@@ -31,7 +31,7 @@
   - (page text pasted by user)
   - the same romanized English title, Comic, 96 pages, 8.2 x 5.8 x 0.5 inches, ISBN 9784757721074 / 4757721072, OCLC 170146807, source record Amazon.com
   - agrees with bg-wiki's 96p
-- google books: https://www.google.ca/books/edition/ファイナルファンタジー11_4コマ/zWAfMgAACAAJ -- accessed 2026-10-14
+- google books: https://www.google.com/books/edition/ファイナルファンタジー11_4コマ/zWAfMgAACAAJ -- accessed 2026-10-14
   - (page text pasted by user)
   - titled ファイナルファンタジー11 4コマアンソロジーコミック, Volume 3, 2005, Enterbrain, 96 pages, ISBN 9784757721074 / 4757721072, no preview
 - NDL: https://ndlsearch.ndl.go.jp/books/R100000002-I000007615681 -- accessed 2026-10-14

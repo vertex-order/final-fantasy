@@ -37,11 +37,13 @@
 
 ## store.steampowered.com (Platform)
 
-- http://store.steampowered.com/app/441020 -- the Steam row -- accessed 2026-10-21
+- http://store.steampowered.com/app/441020 -- the Steam row* -- accessed 2026-10-30
   - Live URL redirects to the store front page: the page is gone.
-  - Only capture found: 2016-05-18, pre-release ("Release Date: May 2016"): https://web.archive.org/web/20160518041354/http://store.steampowered.com/app/441020/ ; later captures show the age check. The 2017-05-05 link from the official site has no capture.
-  - The Wayback index (CDX) is blocked, so a slugged store URL could not be searched for.
-- https://steamcommunity.com/app/441020 -- the Steam row* (no Wayback link for now) -- live (200) community hub, accessed 2026-10-21
+  - Renders in a browser (checked by the user, 2026-10-30): https://web.archive.org/web/20160518053043/http://store.steampowered.com/app/441020/ -- pre-release store page with the game description; languages table: English, interface only (no full audio, no subtitles).
+  - Renders in a browser (checked by the user, 2026-10-30): https://web.archive.org/web/20160521033621/http://store.steampowered.com/app/441020/?snr=1_5_9__205 -- 2016-05-21, the latest English store-page capture; same page as the 2016-05-18 capture to the user's eye.
+  - Earlier capture, not checked in a browser: 2016-05-18 04:13:54 (https://web.archive.org/web/20160518041354/http://store.steampowered.com/app/441020/), pre-release ("Release Date: May 2016").
+  - Wayback index (CDX, read 2026-10-30): status-200 captures of the store page run 2016-05-18 to 2016-05-23 (release 2016-05-23 17:52 UTC), the last 2016-05-23 17:09:35 UTC (`?l=bulgarian`); every later capture of `/app/441020` is a 302 (to the age check or the store front), through 2026-07-04; the age check `/agecheck/app/441020/` has 200 captures from 2016-05-26 to 2016-12-19 showing the gate, not the game; no capture of a slugged URL; the 2017-05-05 link from the official site has no capture.
+- https://steamcommunity.com/app/441020 -- Steam community hub -- live (200), accessed 2026-10-21
 - https://store.steampowered.com/oldnews/21996 -- Valve news "Now Available on Steam", 2016-05-23 -- dates
 - https://steamdb.info/app/441020/ -- Steam release 2016-05-23 17:52 UTC; 1 language (English) -- dates, languages
 
@@ -114,5 +116,19 @@
   - ヘブンストライク ライバルズ; タクティカルRPG; first listed 2015-08-08: release 2015.04.27; icons: ダウンロード; changes: 2018-06-27: icons ダウンロード to Google Play, ダウンロード / 2019-03-09: genre タクティカルRPG to タクティカルRPG ※サービス終了, icons Google Play, ダウンロード to ダウンロード; listed in every capture from 2015-08-08 to live (2026-10-27)
     - http://www.heavenstrikerivals.com/jp/ -- 公式サイト link, listed 2015-08-08 to 2018-06-27 -- link recorded only -- archived: https://web.archive.org/web/20150808003609/http://www.heavenstrikerivals.com/jp/ (last listing: http://www.heavenstrikerivals.com/jp/)
     - https://play.google.com/store/apps/details?id=com.square_enix.HEAVENSTRIKERIVALS_JP -- Google Playでダウンロード link, listed 2018-06-27 -- link recorded only -- archived: TODO
+
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "heavenstrike" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 441020 Heavenstrike Rivals® -- no type label; store column: blank; listed in the "heavenstrike" search
+    - https://steamdb.info/app/441020/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "heavenstrike" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - The "heavenstrike" search returned no result (0 rows)
 
 ## Decisions

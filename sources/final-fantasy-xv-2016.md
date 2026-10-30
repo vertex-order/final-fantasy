@@ -485,6 +485,32 @@ square-enix-games.com (Publisher, official)
   - PlayStation Plus Collection: 18 PS4 titles offered as free play to PS5 owners in Japan, ended 2023-05-09; lists ファイナルファンタジーXV ロイヤルエディション (Square Enix) among the third-party titles
   - Game catalogue and classics catalogue titles are streamable (streaming games, Premium only); the article does not name FFXV as streamable
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 637650 FINAL FANTASY XV WINDOWS EDITION -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/637650/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/637650/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 648600 FINAL FANTASY XV WINDOWS EDITION MOD ORGANIZER -- type label Tool; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/648600/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/648600/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 671210 FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO -- type label Demo; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/671210/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/671210/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "chocobo", "final fantasy", "moogle" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 637650 FINAL FANTASY XV WINDOWS EDITION -- listed in the "chocobo" and "final fantasy" and "moogle" search; release date shown: 6 Mar, 2018; platforms shown: win; review summary: Very Positive -- 82% of the 18,098 user reviews for this game are positive.
+    - https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 648600 FINAL FANTASY XV WINDOWS EDITION MOD ORGANIZER -- listed in the "final fantasy" search; release date shown: 7 Jun, 2018; platforms shown: win; review summary: Mixed -- 42% of the 52 user reviews for this game are positive.
+    - https://store.steampowered.com/app/648600/FINAL_FANTASY_XV_WINDOWS_EDITION_MOD_ORGANIZER/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 671210 FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO -- listed in the "final fantasy" search; release date shown: 26 Feb, 2018; platforms shown: win; review summary: Very Positive -- 83% of the 260 user reviews for this game are positive.
+    - https://store.steampowered.com/app/671210/FINAL_FANTASY_XV_WINDOWS_EDITION_PLAYABLE_DEMO/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations

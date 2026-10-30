@@ -36,8 +36,8 @@ tumblr.com (Information; fan translation)
 - https://www.tumblr.com/istanleyff7/614431290829193216/final-fantasy-vii-remake-the-investigation-unit -- Stanley's full fan translation of the novella (15 chapters from "Dr Donovan of Mideel" to "Aerith of Sector Eight", with a Japanese transcript and an offline version), kept as an archive after the official English edition of 2020-09-22; fan content, not linked from the entry (the entry carries a `fan-translation` search row) -- accessed 2026-10-17
   - (pasted by the user)
 
-amazon.ca (Retailer)
-- https://www.amazon.ca/gp/product/1646090845 -- World Preview, English, hardcover, 136 pages, ISBN 9781646090846, 4.5 from 1,037 ratings -- accessed 2026-10-17 (pasted by the user)
+amazon.com (Retailer)
+- https://www.amazon.com/gp/product/1646090845 -- World Preview, English, Square Enix Books, hardcover, published September 22, 2020, 136 pages, ISBN-13 9781646090846, 4.5 from 1,054 ratings -- accessed 2026-10-30 (pasted by the user)
 
 ## Decisions
 

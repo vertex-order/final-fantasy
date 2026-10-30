@@ -19,7 +19,7 @@ NO.1: ISBN 9784840224697 (ISBN10: 4840224692), Japanese, MediaWorks (sold by Kad
   - back: ISBN 4-8402-2469-2 (agrees), C0076, published by MediaWorks
   - the entry's data agrees
 - goodreads: https://www.goodreads.com/book/show/77594373 — accessed 2026-10-13
-- google books: https://books.google.ca/books?vid=ISBN9784840224697 — accessed 2026-10-13
+- google books: https://books.google.com/books?vid=ISBN9784840224697 — accessed 2026-10-13
 - open library: https://openlibrary.org/search?isbn=9784840224697 — accessed 2026-10-13, no results
 - NDL: https://ndlsearch.ndl.go.jp/books/R100000002-I000004360633 — accessed 2026-10-13
 - amazon.co.jp: https://www.amazon.co.jp/dp/4840224692 — accessed 2026-10-13
@@ -28,7 +28,7 @@ NO.1: ISBN 9784840224697 (ISBN10: 4840224692), Japanese, MediaWorks (sold by Kad
 NO.2: ISBN 9784840238199 (ISBN10: 4840238197), Japanese, MediaWorks (sold by Kadokawa Group Publishing), 2007-03-23, 352 pages, B6, 19 cm, Tankobon softcover — per KADOKAWA + Amazon.co.jp + Google Books + NDL — JA language link, dates*
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784840238199
 - goodreads: https://www.goodreads.com/book/show/77249282 — accessed 2026-10-13
-- google books: https://books.google.ca/books?vid=ISBN9784840238199 — accessed 2026-10-13
+- google books: https://books.google.com/books?vid=ISBN9784840238199 — accessed 2026-10-13
 - open library: https://openlibrary.org/search?isbn=9784840238199 — accessed 2026-10-13, no results
 - NDL: https://ndlsearch.ndl.go.jp/books/R100000002-I000008490843 — accessed 2026-10-13
 - amazon.co.jp: https://www.amazon.co.jp/dp/4840238197 — accessed 2026-10-13
@@ -69,11 +69,11 @@ ndlsearch.ndl.go.jp (Information)
   - Title 電撃・えふえふいれぶん・4コマ・マンガ : ファイナルファンタジー11電撃の旅団編, volume no.1
   - 江本聖 [漫画]; MediaWorks, sold by 角川書店; 2004.3; 257p; 19 cm; NDC 726.1; ISBN 4-8402-2469-2
 
-books.google.ca (Information)
-- https://books.google.ca/books?vid=ISBN9784840224697 — credits, length — accessed 2026-10-13
+books.google.com (Information)
+- https://books.google.com/books?vid=ISBN9784840224697 — credits, length — accessed 2026-10-13
   - Text pasted by user, not archived
   - Authors 江本聖 and 電撃プレイステーション; publisher アスキー・メディアワークス (the later name), 2004; 256 pages
-  - NO.2: https://books.google.ca/books?vid=ISBN9784840238199; author 江本聖; アスキー・メディアワークス, 2007; 352 pages
+  - NO.2: https://books.google.com/books?vid=ISBN9784840238199; author 江本聖; アスキー・メディアワークス, 2007; 352 pages
 
 amazon.co.jp (Information)
 - https://www.amazon.co.jp/dp/4840224692 — description*, length, date — accessed 2026-10-13

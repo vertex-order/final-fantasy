@@ -55,7 +55,7 @@ amazon.co.jp (Information)
 
 duckduckgo.com (Information)
 - book search: `ファイナルファンタジーXI 電撃4コマ インターナショナル` (the Goodreads and KADOKAWA title form), the book row's `searchTitle`
-  - the results (pasted by user 2026-10-15) include Amazon.co.jp and Amazon.ca product pages for ISBN-10 4840227640, Mercari and Suruga-ya listings, AbeBooks (international), ffseek.com and the FF11 terminology wiki
+  - the results (pasted by user 2026-10-15) include Amazon.co.jp and Amazon.com product pages for ISBN-10 4840227640, Mercari and Suruga-ya listings, AbeBooks (international), ffseek.com and the FF11 terminology wiki
   - no KADOKAWA page, no language or store words in the query
   - amazon.co.jp (https://www.amazon.co.jp/dp/4840227640), the publisher's comment: "What's Final Fantasy XI Dengeki 4-koma International? The immensely popular Final Fantasy XI-based 4-panel comics have now been translated into English."
   - ffseek.com (https://www.ffseek.com/gen1/2/30.html), a fan database, accessed 2026-10-15

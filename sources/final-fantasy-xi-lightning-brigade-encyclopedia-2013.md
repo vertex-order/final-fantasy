@@ -66,9 +66,9 @@ ndlsearch.ndl.go.jp (Information)
     - "our ten years aren't over unless you read this book"
   - No authors listed; editor is 電撃プレイステーション編集部 per the publisher
 
-books.google.ca (Information)
-- https://books.google.ca/books?vid=ISBN9784048867573 — length*, publisher blurb, editor — accessed 2026-10-13
-  - Text pasted by user, not archived; edition page https://www.google.ca/books/edition/_/IKLdmQEACAAJ
+books.google.com (Information)
+- https://books.google.com/books?vid=ISBN9784048867573 — length*, publisher blurb, editor — accessed 2026-10-13
+  - Text pasted by user, not archived; edition page https://www.google.com/books/edition/_/IKLdmQEACAAJ
   - Editor 電撃プレイステーション編集部; ASCII MediaWorks; March 2013; 217 pages; ISBN 4048867571 / 9784048867573; preview unavailable
   - Blurb (marked "Source: Publisher"): the Brigade's combined effort for the 10th anniversary of FF11
     - a ten-year history packed with memories

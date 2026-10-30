@@ -180,7 +180,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       length: [{ value: '89h', tip: 'Solo', join: ' / ' }, { value: '727h', tip: 'Co-op', join: ' / ' }, { value: '4h', tip: 'Vs.' }],
       platforms: [
         { key: 'windows', paren: 'Digital', url: 'https://www.finalfantasyxiv.com' },
-        { key: 'steam', paren: 'PC; Digital', url: 'https://store.steampowered.com/app/1592500/FINAL_FANTASY_XIV_Endwalker/' },
+        { key: 'steam', paren: 'PC; Digital', url: 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/' },
         { key: 'macos', paren: 'Digital', url: 'https://www.finalfantasyxiv.com' },
         { key: 'nintendo-switch-2', paren: 'Digital', url: 'https://www.nintendo.com/store/products/final-fantasy-xiv-online-complete-edition-switch-2/' },
         { key: 'playstation4', paren: 'Digital; Terminated 2027', url: 'https://store.playstation.com/product/UP0082-PPSA02954_00-FFXIVCOMPLETE05S' },

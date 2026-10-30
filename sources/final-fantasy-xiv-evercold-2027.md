@@ -11,3 +11,5 @@
 - https://wikipedia.org/wiki/Final_Fantasy_XIV#Evercold
 
 ## Decisions
+
+- Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

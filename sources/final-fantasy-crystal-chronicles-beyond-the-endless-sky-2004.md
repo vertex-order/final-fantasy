@@ -38,7 +38,7 @@ ISBN 9784757513686 (NDL 4-7575-1368-2), Japanese, volume 2, Square Enix (ガン�
 
 ASIN B00M1B6BJK, Japanese, volumes 1 to 3 as a set (コミック 1-3巻セット) -- per goodreads
 - goodreads: https://www.goodreads.com/book/show/161974950 -- accessed 2026-10-11 (page text pasted by user): ファイナルファンタジー・クリスタルクロニクル はてなき空の向こうに コミック 1-3巻セット, Comic, no author listed, no ratings
-- amazon: https://www.amazon.com/dp/B00M1B6BJK -- not linked from the entry (a retailer, not the publisher); the Amazon "buy book" page for the set, seen as https://www.amazon.ca/gp/product/B00M1B6BJK (locale stripped to .com, as elsewhere); shows all three volume covers, author Ryuunosuke Itikawa, format Comic, weight 480 g, ASIN B00M1B6BJK -- accessed 2026-10-11
+- amazon: https://www.amazon.com/dp/B00M1B6BJK -- not linked from the entry (a retailer, not the publisher); the Amazon "buy book" page for the three-volume set: ファイナルファンタジー・クリスタルクロニクル はてなき空の向こうに コミック 1-3巻セット, format Comic, the byline reads "unknown author" at the top, with the author listed further down the page (the same page at https://www.amazon.com/gp/product/B00M1B6BJK lists the author without the "unknown" byline), ASIN B00M1B6BJK, item weight 1.06 pounds -- accessed 2026-10-30 (text pasted by the user)
   - (page text pasted by user; the .com form not opened by me)
   - archived: TODO
 

@@ -130,4 +130,20 @@
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- accessed 2026-10-29 (revision 111444198 of 2026-10-19); archived: TODO
   - Article: Mac version service began 2015-06-23 with the 3.0 release (蒼天のイシュガルド); Mac version sales suspended 2015-07-03 with refunds for Mac buyers, sales resumed 2016-02-23 and the refund period ended 2016-02-22
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 359480 FINAL FANTASY® XIV: Heavensward™ -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/359480/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 376010 FINAL FANTASY XIV: Heavensward - Standard Edition -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/376010/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 376011 FINAL FANTASY XIV: Heavensward - Collector's Edition -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/376011/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 376020 FINAL FANTASY XIV: Heavensward - Pre-purchase Bonus Content -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/376020/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions
+
+- Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

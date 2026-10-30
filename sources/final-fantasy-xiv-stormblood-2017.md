@@ -92,4 +92,20 @@
   - Member: ファイナルファンタジーXIV (the article of the whole XIV series)
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- accessed 2026-10-29 (revision 111444198 of 2026-10-19); archived: TODO
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 582380 FINAL FANTASY XIV: Stormblood -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/582380/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 582381 FINAL FANTASY XIV: Stormblood Standard Edition -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/582381/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 582382 FINAL FANTASY XIV: Stormblood Collector's Edition -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/582382/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 596480 FINAL FANTASY XIV: Stormblood- Pre-purchase Bonus Content -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/596480/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions
+
+- Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

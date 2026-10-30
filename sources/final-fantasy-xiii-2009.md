@@ -359,4 +359,22 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
   - Platform line (対応機種): PlayStation 3, Xbox 360 (INTERNATIONAL only), Microsoft Windows, then Gクラスタ、G-cluster、Gクラスタ搭載テレビ、ひかりTVゲーム、DIVE IN、Android、iOS
   - Release dates (発売日), Gクラスタ: Japan 2014-10-09; Japan 2015-04-10 (Android, iOS)
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 292120 FINAL FANTASY® XIII -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/292120/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/292120/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 297680 FINAL FANTASY XIII Demo -- type label Unknown; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/297680/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 292120 FINAL FANTASY® XIII -- listed in the "final fantasy" search; release date shown: 9 Oct, 2014; platforms shown: win; review summary: Mostly Positive -- 75% of the 9,449 user reviews for this game are positive.
+    - https://store.steampowered.com/app/292120/FINAL_FANTASY_XIII/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions

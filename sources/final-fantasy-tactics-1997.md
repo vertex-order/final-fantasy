@@ -534,6 +534,26 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
   - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
   - Member: ファイナルファンタジータクティクス 獅子戦争
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 1004640 FINAL FANTASY TACTICS - The Ivalice Chronicles -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/1004640/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/1004640/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 3589750 FINAL FANTASY TACTICS - The Ivalice Chronicles: Pre-order Bonuses -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/3589750/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 3589760 FINAL FANTASY TACTICS - The Ivalice Chronicles: Deluxe Edition Bonuses -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/3589760/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "chocobo", "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 1004640 FINAL FANTASY TACTICS - The Ivalice Chronicles -- listed in the "chocobo" and "final fantasy" search; release date shown: 30 Sep, 2025; platforms shown: win; review summary: Very Positive -- 91% of the 4,411 user reviews for this game are positive.
+    - https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS_The_Ivalice_Chronicles/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions
 
 

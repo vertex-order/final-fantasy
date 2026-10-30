@@ -70,7 +70,7 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, narrativeOrder: 600, 
           ],
           profileUrl: 'https://web.archive.org/web/20170501134623/http://dlgames.square-enix.com/ff/ff6/en/',
           platforms: [
-            { key: 'steam', terminated: true, url: 'https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/', paren: 'PC' },
+            { key: 'steam', terminated: true, url: 'https://web.archive.org/web/20210921122938/https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/', paren: 'PC' },
             { key: 'android', terminated: true, url: 'https://web.archive.org/web/20210701173802/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVI' },
             { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20210321160547/https://apps.apple.com/us/app/final-fantasy-vi/id719401490' },
             { key: 'amazon', terminated: true, url: 'https://www.amazon.com/dp/B00QA2C5E6?' },

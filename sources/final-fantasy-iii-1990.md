@@ -536,4 +536,25 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Section 収録タイトル: one table of 38 rows for both versions; cell colour green = both versions (22), yellow = Japan only (8), red = overseas only (8); columns: Japanese title, overseas title, release year in Japan and overseas, publisher, note
   - Row (yellow, Japan only): ファイナルファンタジーIII; overseas title (未発売); Japan 1990, overseas (未発売); スクウェア; note 海外版には収録なし (not in the overseas version)
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 1173790 FINAL FANTASY III -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/1173790/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/1173790/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 239120 Final Fantasy III (3D Remake) -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/239120/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/239120/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 1173790 FINAL FANTASY III -- listed in the "final fantasy" search; release date shown: 12 Aug, 2021; platforms shown: win; review summary: Very Positive -- 93% of the 1,722 user reviews for this game are positive.
+    - https://store.steampowered.com/app/1173790/FINAL_FANTASY_III/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 239120 Final Fantasy III (3D Remake) -- listed in the "final fantasy" search; release date shown: 27 May, 2014; platforms shown: win; review summary: Mostly Positive -- 79% of the 1,716 user reviews for this game are positive.
+    - https://store.steampowered.com/app/239120/Final_Fantasy_III_3D_Remake/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions

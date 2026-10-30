@@ -41,7 +41,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
 ## Steam (Platform)
 
 - https://store.steampowered.com/app/1173820?
-- https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/
+- https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/ -- the Steam row* -- live page no longer available
+  - Renders in a browser (checked by the user, 2026-10-30): https://web.archive.org/web/20210921122938/https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/ -- store page of 2021-09-21 with the description; notices that the publisher removed it from sale on Steam and that it is no longer available for purchase after 2021-07-27, replaced by the pixel remaster; languages table: English, French, Italian, German, Spanish (Spain), Portuguese and Russian, each interface and subtitles only, no full audio.
 - https://store.steampowered.com/app/1173820/FINAL_FANTASY_VI/
 
 ## wikipedia.org (Information)
@@ -501,5 +502,25 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
   - Console released 2017-10-05 in Japan, 2017-09-29 in North America and Europe; 21 built-in titles in each version
   - Section 収録タイトル: one table of 26 rows for both versions; cell colour green = both versions (16), yellow = Japan only (5), red = overseas only (5); columns: Japanese title, overseas title, release year, publisher, note
   - Row (green, both versions): ファイナルファンタジーVI; overseas title Final Fantasy III; 1994; スクウェア; no note
+
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 1173820 FINAL FANTASY VI -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/1173820/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/1173820/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 382900 FINAL FANTASY VI (Old ver.) -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/382900/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/382900/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 1173820 FINAL FANTASY VI -- listed in the "final fantasy" search; release date shown: 23 Feb, 2022; platforms shown: win; review summary: Very Positive -- 93% of the 3,207 user reviews for this game are positive.
+    - https://store.steampowered.com/app/1173820/FINAL_FANTASY_VI/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Not listed in any saved search result: 382900 FINAL FANTASY VI (Old ver.)
 
 ## Decisions

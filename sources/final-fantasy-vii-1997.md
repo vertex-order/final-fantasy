@@ -55,7 +55,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 - https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII/
 - https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/
-- https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/
+- https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/ -- the Steam row* -- live page no longer available
+  - Renders in a browser (checked by the user, 2026-10-30): https://web.archive.org/web/20200919035702/https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/ -- store page of 2020-09-19 with the description (36 achievements, cloud saves, character booster, PC optimization); languages table: English, German, French and Spanish (Spain), interface only, no audio or subtitles.
 
 ## wikipedia.org (Information)
 
@@ -412,6 +413,26 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - Platform list (対応機種一覧) names クラウドゲーム and DIVE IN, besides PlayStation, Windows, ゲームアーカイブス (PS3/PSP), iOS, Android, PS4, Switch and Xbox One
   - Prose: the 2013-05-16 Japanese Windows download release (Final Fantasy VII International) was also provided as cloud gaming (Gクラスタ), through ひかりTV and others
   - Cites the NTTぷらら notice of 2013-12-24 (http://www.nttplala.com/information/2013/12/20131224.html, Final Fantasy VII International for ひかりTV) and the Broadmedia and Gクラスタ・グローバル release of 2013-12-24 (http://www.broadmedia.co.jp/pdf_i/20131224_01.pdf, titled as delivery for Gクラスタ from 12月25日) -- links recorded only
+
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 39140 FINAL FANTASY VII -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/39140/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/39140/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 3837340 FINAL FANTASY VII -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/3837340/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/3837340/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 3837340 FINAL FANTASY VII -- listed in the "final fantasy" search; release date shown: 24 Jul, 2013; platforms shown: win; review summary: Mostly Positive -- 77% of the 1,634 user reviews for this game are positive.
+    - https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Not listed in any saved search result: 39140 FINAL FANTASY VII
 
 ## Decisions
 

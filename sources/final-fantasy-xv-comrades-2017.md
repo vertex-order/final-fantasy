@@ -73,7 +73,7 @@ microsoft.com (Platform)
   - Xbox One and Series X|S; "Included in: Final Fantasy XV Royal Edition"
 - https://www.xbox.com/games/store/final-fantasy-xv-season-pass/c2qfb9wzpz7p -- Xbox rows* -- accessed 2026-10-18
   - Season Pass lists Gladiolus, Prompto, Ignis, Comrades; the bundle section links each DLC's own page
-- https://www.xbox.com/en-CA/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw -- built into Royal Edition* -- accessed 2026-10-18
+- https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw -- built into Royal Edition* -- accessed 2026-10-18
   - Includes the standalone game and the old DLC add-on; Season Pass lists the add-on only
 
 store.playstation.com (Platform)
@@ -108,6 +108,7 @@ otakumode.com (Information)
 
 ## Decisions
 
+- Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.
 - Own entry (user): a separate co-op expansion with its own story and avatar gameplay, listed like the other XV DLC; reverses the earlier call in final-fantasy-xv-2016.md
 - One entry, no alt (user): PC got the standalone-era content as Comrades version 2.00, so PC and consoles share the content; the platform rows name the edition
 - `Co-op` tag is ours: the expansion is a co-op mode

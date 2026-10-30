@@ -129,16 +129,17 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },
-        { value: '…?' },
+        { value: 'FR', textOnly: true },
+        { value: 'DE', textOnly: true },
+        { value: 'ZH-TW', textOnly: true },
       ],
-      helpWanted: true,
       ratings: [
         { score: '73', url: 'https://www.metacritic.com/game/mobius-final-fantasy/', key: 'metacritic' },
         { score: '6.6', url: 'https://www.metacritic.com/game/mobius-final-fantasy/', key: 'metacritic-user' },
       ],
       length: [{ value: '207h', tip: 'Main Story', join: ' / ' }, { value: '307h', tip: 'Main + Extra', join: ' / ' }, { value: '1666h', tip: 'Completionist' }],
       platforms: [
-        { key: 'steam', paren: 'PC; Digital', terminated: true, url: 'https://store.steampowered.com/app/504730/' },
+        { key: 'steam', paren: 'PC; Digital', terminated: true, url: 'https://store.steampowered.com/app/536930/MOBIUS_FINAL_FANTASY/' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20200612163359/https://apps.apple.com/us/app/mobius-final-fantasy/id1091974564' },
         { key: 'android', terminated: true, url: 'https://web.archive.org/web/20191021201143/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mobiusff_ne' },
         { key: 'fan-movie', search: 'youtube' },
@@ -460,7 +461,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
         { score: '7.1', url: 'https://www.metacritic.com/game/heavenstrike-rivals/', key: 'metacritic-user' },
       ],
       platforms: [
-        { key: 'steam', terminated: true, url: 'https://steamcommunity.com/app/441020' },
+        { key: 'steam', terminated: true, url: 'https://web.archive.org/web/20160518053043/http://store.steampowered.com/app/441020/' },
         { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20161025035217/https://itunes.apple.com/us/app/heavenstrike-rivals-monster/id929464758?mt=8' },
         { key: 'android', terminated: true, url: 'https://web.archive.org/web/20161213092938/https://play.google.com/store/apps/details?id=com.square_enix.HEAVENSTRIKERIVALS_WW' },
         { key: 'fan-movie', search: 'youtube' },

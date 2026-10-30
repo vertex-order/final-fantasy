@@ -341,4 +341,20 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Carrier terminals: 903i series and later (iアプリ), W41 series and later (EZアプリ), S!アプリ
   - Mobile version delivered as a free prologue and chapters bought individually, 11 chapters including the prologue; the final chapter (part 2) started on 2008-12-24 (iアプリ)
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 346830 FINAL FANTASY IV: THE AFTER YEARS -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/346830/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/346830/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 346830 FINAL FANTASY IV: THE AFTER YEARS -- listed in the "final fantasy" search; release date shown: 11 May, 2015; platforms shown: win; review summary: Mixed -- 60% of the 606 user reviews for this game are positive.
+    - https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions

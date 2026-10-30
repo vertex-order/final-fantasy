@@ -94,4 +94,27 @@
   - Member: ファイナルファンタジーXIV (the article of the whole XIV series)
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- accessed 2026-10-29 (revision 111444198 of 2026-10-19); archived: TODO
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 1016870 FINAL FANTASY XIV: Shadowbringers -- type label DLC; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/1016870/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/1016870/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 1016871 FINAL FANTASY XIV: Shadowbringers Standard Edition Content -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/1016871/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 1016872 FINAL FANTASY XIV: Shadowbringers- Pre-Purchase Bonus Content -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/1016872/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 1016873 FINAL FANTASY XIV: Shadowbringers Collector's Edition Content -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/1016873/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - Not listed in any saved search result: 1016870 FINAL FANTASY XIV: Shadowbringers
+
 ## Decisions
+
+- Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

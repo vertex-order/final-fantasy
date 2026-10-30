@@ -260,4 +260,25 @@
   - Member: ワールド オブ ファイナルファンタジー
 - https://ja.wikipedia.org/wiki/ワールド_オブ_ファイナルファンタジー -- accessed 2026-10-29 (revision 110503103 of 2026-08-02); archived: TODO
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 552700 WORLD OF FINAL FANTASY® -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/552700/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/552700/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 896680 WORLD OF FINAL FANTASY® MAXIMA Upgrade -- type label DLC; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/896680/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/896680/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "chocobo", "final fantasy", "moogle" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 552700 WORLD OF FINAL FANTASY® -- listed in the "chocobo" and "final fantasy" and "moogle" search; release date shown: 21 Nov, 2017; platforms shown: win; review summary: Mostly Positive -- 73% of the 1,485 user reviews for this game are positive.
+    - https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 896680 WORLD OF FINAL FANTASY® MAXIMA Upgrade -- listed in the "final fantasy" search; release date shown: 6 Nov, 2018; platforms shown: win; review summary: Mixed -- 56% of the 78 user reviews for this game are positive.
+    - https://store.steampowered.com/app/896680/WORLD_OF_FINAL_FANTASY_MAXIMA_Upgrade/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions

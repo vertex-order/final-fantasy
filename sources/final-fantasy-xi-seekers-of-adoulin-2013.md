@@ -72,3 +72,5 @@
   - Row (2013年): ファイナルファンタジーXI アドゥリンの魔境 拡張データディスク (Final Fantasy XI: Seekers of Adoulin); Japan 2013-03-27; North America 2013-03-26; Europe 2013-03-26; スクウェア・エニックス; 媒体: blank; no note; backward compatibility: blank; reference: Square Enix Japan's Xbox 360 game list https://www.jp.square-enix.com/game/?pf=29 (accessed 2022-10-12); second reference: Dengeki Online, 2012-12-27, announcement of the fifth expansion disc 「アドゥリンの魔境」 for 2013-03-27 with an all-in-one package sold the same day https://dengekionline.com/elem/000/000/578/578704/ (accessed 2024-09-21)
 
 ## Decisions
+
+- Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

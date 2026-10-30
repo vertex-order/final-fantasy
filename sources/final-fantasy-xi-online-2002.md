@@ -193,4 +193,52 @@
   - Member: ファイナルファンタジーXI
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXI -- accessed 2026-10-29 (revision 109759274 of 2026-05-31); archived: TODO
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 23390 FINAL FANTASY XI -- no type label; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/23390/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 23360 FINAL FANTASY XI -- no type label; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/23360/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 39250 FINAL FANTASY XI Ultimate Collection - Abyssea Edition -- no type label; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/39250/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 39260 FINAL FANTASY XI Ultimate Collection - Abyssea Edition -- no type label; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/39260/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 230330 FINAL FANTASY® XI: Ultimate Collection Seekers Edition -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/230330/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/230330/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 230350 FINAL FANTASY® XI: Ultimate Collection Seekers Edition -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/230350/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/230350/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 39251 FINAL FANTASY XI: UC Abyssea Edition - Destrier Beret Key -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/39251/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 39261 FINAL FANTASY XI: Ultimate Collection Abyssea Edition - Destrier Beret Key -- type label DLC; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/39261/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 80856 Final Fantasy XI Ultimate Collection - Abyssea Edition (FR) -- type label Legacy Media; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/80856/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 80857 Final Fantasy XI Ultimate Collection - Abyssea Edition (DE) -- type label Legacy Media; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/80857/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 80858 Final Fantasy XI Ultimate Collection - Abyssea Edition -- type label Legacy Media; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/80858/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 80861 Final Fantasy XI Ultimate Collection - Abyssea Edition (EN) (ESRB) -- type label Legacy Media; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/80861/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 80862 Final Fantasy XI Ultimate Collection - Abyssea Edition (DE) -- type label Legacy Media; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/80862/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 80863 Final Fantasy XI Ultimate Collection - Abyssea Edition (FR) -- type label Legacy Media; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/80863/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 80864 Final Fantasy XI Ultimate Collection - Abyssea Edition (EN) (PEGI) -- type label Legacy Media; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/80864/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 2028630 FINAL FANTASY XI: Ultimate Collection Seekers Edition Official EU Trailer -- type label Unknown; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/2028630/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "chocobo", "final fantasy", "moogle" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 230330 FINAL FANTASY® XI: Ultimate Collection Seekers Edition -- listed in the "chocobo" and "final fantasy" and "moogle" search; release date shown: 19 Apr, 2013; platforms shown: win; review summary: Very Positive -- 88% of the 431 user reviews for this game are positive.
+    - https://store.steampowered.com/app/230330/FINAL_FANTASY_XI_Ultimate_Collection_Seekers_Edition/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Not listed in any saved search result: 230350 FINAL FANTASY® XI: Ultimate Collection Seekers Edition
+
 ## Decisions

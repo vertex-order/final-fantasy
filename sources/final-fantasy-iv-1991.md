@@ -645,4 +645,25 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - Carrier terminals: FOMA 903i series and later (iアプリ), BREW-compatible models (EZアプリ), Yahoo!ケータイ (S!アプリ)
   - Based on the Game Boy Advance version with some original additions (a suspend function, a changed Lunar Ruins)
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 1173800 FINAL FANTASY IV -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/1173800/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/1173800/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 312750 Final Fantasy IV (3D Remake) -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/312750/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/312750/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 1173800 FINAL FANTASY IV -- listed in the "final fantasy" search; release date shown: 8 Sep, 2021; platforms shown: win; review summary: Very Positive -- 93% of the 2,092 user reviews for this game are positive.
+    - https://store.steampowered.com/app/1173800/FINAL_FANTASY_IV/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 312750 Final Fantasy IV (3D Remake) -- listed in the "final fantasy" search; release date shown: 17 Sep, 2014; platforms shown: win; review summary: Very Positive -- 83% of the 1,746 user reviews for this game are positive.
+    - https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions

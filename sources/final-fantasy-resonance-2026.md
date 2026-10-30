@@ -238,4 +238,27 @@
   - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
   - Member: ファイナルファンタジー レゾナンス (a redirect page to ファイナルファンタジー ブレイブエクスヴィアス)
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 3259780 FINAL FANTASY RESONANCE -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/3259780/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/3259780/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 4474710 FINAL FANTASY RESONANCE DEMO -- type label Demo; store column: blank; listed in the "final fantasy" search
+    - https://steamdb.info/app/4474710/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 4347910 FINAL FANTASY RESONANCE Digital Deluxe Upgrade -- type label DLC; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/4347910/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/4347910/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "chocobo", "final fantasy", "moogle" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 3259780 FINAL FANTASY RESONANCE -- listed in the "final fantasy" and "moogle" search; release date shown: 22 Oct, 2026; platforms shown: win; review summary: Overwhelmingly Positive -- 97% of the 2,152 user reviews for this game are positive.
+    - https://store.steampowered.com/app/3259780/FINAL_FANTASY_RESONANCE/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 4347910 FINAL FANTASY RESONANCE Digital Deluxe Upgrade -- listed in the "chocobo" and "final fantasy" search; release date shown: 22 Oct, 2026; platforms shown: win; review summary: Positive -- 84% of the 19 user reviews for this game are positive.
+    - https://store.steampowered.com/app/4347910/FINAL_FANTASY_RESONANCE_Digital_Deluxe_Upgrade/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions

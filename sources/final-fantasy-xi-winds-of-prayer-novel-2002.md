@@ -38,8 +38,8 @@ ISBN 9783833214554 (ISBN10: 3833214554), German "Das Lied des Sturms" (Bd 1), Pa
 - google books: https://www.google.com/books/edition/_/ipzyPAAACAAJ — accessed 2026-10-09 (299 pages; Panini-Verlag-GmbH, 2006; blurb: Al and the magic adept Iris, the same Al as the Japanese blurb)
 - worldcat: https://search.worldcat.org/title/1280870564 — accessed 2026-10-09 ("Final fantasy XI 1. Das Lied des Sturms", Panini-Verl.-GmbH, 2006; its "eBook" format looks like a catalog error)
 - worldcat: https://search.worldcat.org/title/965434482 — accessed 2026-10-09 (print, 2006, publisher listed as Dino, Stuttgart, Panini's German arm then; summary is the Google Books blurb; same Amazon listing as the other)
-- amazon: https://www.amazon.ca/dp/3833214554 — accessed 2026-10-09
-  - ("Final Fantasy XI Bd. 01", paperback, published November 1, 2006 (Goodreads: November 15), 280 g, 12 x 2.1 x 18 cm; none of these records names the Japanese original)
+- amazon: https://www.amazon.com/dp/3833214554 — accessed 2026-10-30 (text pasted by the user)
+  - "Final Fantasy XI Bd. 01: Das Lied des Sturms", German edition, paperback, Panini Verlags GmbH, published November 15, 2006, 304 pages, 9.9 ounces, 4.72 x 0.83 x 7.09 inches; German blurb; none of these records names the Japanese original
 - open library: https://openlibrary.org/search?isbn=9783833214554
 
 ISBN 9782265085596 (ISBN10: 2265085596), French "Le chant de la tempête" (Tome 1), Fleuve Noir, January 18, 2007, 222 pages, Mass Market Paperback — per goodreads + BnF + NDL — FR language link*, rating*

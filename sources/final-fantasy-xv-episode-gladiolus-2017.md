@@ -32,6 +32,8 @@
 - https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw
 
 ## Decisions
+
+- Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.
 - The Xbox rows link the Season Pass page, not the base game's edition (user, 2026-10-18): https://www.xbox.com/games/store/final-fantasy-xv-season-pass/c2qfb9wzpz7p (the Season Pass, listing Episode Gladiolus, Episode Ignis, Episode Prompto and Multiplayer Expansion: Comrades, with an "In this bundle" section that links each DLC's own page with its own price)
   - the individual page for this DLC is https://www.xbox.com/games/store/final-fantasy-xv-episode-gladiolus/brj0fmblp645
   - the pattern: DLC sold together as a pass all link the pass page (as Stranger of Paradise and Final Fantasy XVI do), since someone buying one part sees the pass lists the parts and that each can be bought on its own

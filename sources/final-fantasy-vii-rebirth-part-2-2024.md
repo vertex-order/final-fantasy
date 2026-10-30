@@ -216,4 +216,25 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_versi
   - List of the Nintendo Switch 2 games released and announced in Japan, one table per year on one page (columns: release date in three cells, 日本, 北米 and 欧州, a merged cell meaning one date in all three; title, publisher, パ [●: also sold as a package; ■: key-card package; ▲: package holding only a download code; blank: download only], Ed [●: Nintendo Switch 2 Edition; ○: not an Edition, but a Nintendo Switch version is also sold], CERO or IARC rating, note, reference)
   - Row (2026年, 6月): FINAL FANTASY VII REBIRTH; Japan, North America and Europe 2026-06-03; スクウェア・エニックス; パ: ■; Ed: blank; CERO: C; no note
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "choco", "chocobo", "final fantasy", "moogle" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 2909400 FINAL FANTASY VII REBIRTH -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/2909400/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/2909400/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+  - 3361450 FINAL FANTASY VII REBIRTH Digital Deluxe Edition Upgrade -- type label DLC; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/3361450/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/3361450/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "chocobo", "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 2909400 FINAL FANTASY VII REBIRTH -- listed in the "chocobo" and "final fantasy" search; release date shown: 23 Jan, 2025; platforms shown: win; review summary: Mostly Positive -- 78% of the 14,096 user reviews for this game are positive.
+    - https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - 3361450 FINAL FANTASY VII REBIRTH Digital Deluxe Edition Upgrade -- listed in the "final fantasy" search; release date shown: 23 Jan, 2025; platforms shown: win; review summary: Mostly Negative -- 23% of the 65 user reviews for this game are positive.
+    - https://store.steampowered.com/app/3361450/FINAL_FANTASY_VII_REBIRTH_Digital_Deluxe_Edition_Upgrade/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions

@@ -34,6 +34,7 @@
 ## Steam (Platform)
 
 - https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/
+  - Live page loads (checked by the user, 2026-10-30); the Steam NA search lists no row for it.
 
 ## wikipedia.org (Information)
 
@@ -202,5 +203,20 @@
 - https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: ファイナルファンタジーVII エバークライシス
+
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 2484110 FINAL FANTASY VII EVER CRISIS -- no type label; store column: store page link; listed in the "final fantasy" search
+    - https://steamdb.info/app/2484110/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/2484110/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - Not listed in any saved search result: 2484110 FINAL FANTASY VII EVER CRISIS
 
 ## Decisions
