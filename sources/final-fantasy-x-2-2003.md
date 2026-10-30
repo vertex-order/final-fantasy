@@ -365,4 +365,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
   - Member: ファイナルファンタジーX-2
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2 -- accessed 2026-10-29 (revision 111104655 of 2026-09-22); archived: TODO
 
+## ja.wikipedia.org (Information; G-cluster pages, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ブロードメディア#G-cluster -- G-cluster section of the Broadmedia article (the G-cluster redirect target; revision 110145168) -- accessed 2026-10-29 (article read through the MediaWiki API); archived: TODO
+  - G-cluster: cloud game console (thin client) on sale in Japan 2013-06-20; the technology also ran ひかりTVゲーム (NTTぷらら) and J:COMゲーム
+  - Service ended 2025-02-28
+  - Lists no game titles; no Final Fantasy mention
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2 -- article read through the MediaWiki API, revision 111104655 -- accessed 2026-10-29; no mention of Gクラスタ, G-cluster, ひかりTV or DIVE IN; archived: TODO
+
 ## Decisions

@@ -349,4 +349,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: ファイナルファンタジーXIII
 
+## ja.wikipedia.org (Information; G-cluster pages, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ブロードメディア#G-cluster -- G-cluster section of the Broadmedia article (the G-cluster redirect target; revision 110145168) -- accessed 2026-10-29 (article read through the MediaWiki API); archived: TODO
+  - G-cluster: cloud game console (thin client) on sale in Japan 2013-06-20; the technology also ran ひかりTVゲーム (NTTぷらら) and J:COMゲーム
+  - Service ended 2025-02-28
+  - Lists no game titles; no Final Fantasy mention
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII -- platforms*, dates -- accessed 2026-10-29 (article read through the MediaWiki API, revision 109888938); archived: TODO
+  - Platform line (対応機種): PlayStation 3, Xbox 360 (INTERNATIONAL only), Microsoft Windows, then Gクラスタ、G-cluster、Gクラスタ搭載テレビ、ひかりTVゲーム、DIVE IN、Android、iOS
+  - Release dates (発売日), Gクラスタ: Japan 2014-10-09; Japan 2015-04-10 (Android, iOS)
+
 ## Decisions

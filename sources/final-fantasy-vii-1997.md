@@ -402,6 +402,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - Console released in Japan 2018-12-03; the built-in software list is inline in the article (Japanese version 20 titles, plus 8 overseas-only titles)
   - Row (Japanese version, no. 16): ファイナルファンタジーVII インターナショナル; overseas title Final Fantasy VII; 1997-10-02; スクウェア; no overseas difference noted
 
+## ja.wikipedia.org (Information; G-cluster pages, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ブロードメディア#G-cluster -- G-cluster section of the Broadmedia article (the G-cluster redirect target; revision 110145168) -- accessed 2026-10-29 (article read through the MediaWiki API); archived: TODO
+  - G-cluster: cloud game console (thin client) on sale in Japan 2013-06-20; the technology also ran ひかりTVゲーム (NTTぷらら) and J:COMゲーム
+  - Service ended 2025-02-28
+  - Lists no game titles; no Final Fantasy mention
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVII -- platforms*, dates -- accessed 2026-10-29 (article read through the MediaWiki API, revision 111377241); archived: TODO
+  - Platform list (対応機種一覧) names クラウドゲーム and DIVE IN, besides PlayStation, Windows, ゲームアーカイブス (PS3/PSP), iOS, Android, PS4, Switch and Xbox One
+  - Prose: the 2013-05-16 Japanese Windows download release (Final Fantasy VII International) was also provided as cloud gaming (Gクラスタ), through ひかりTV and others
+  - Cites the NTTぷらら notice of 2013-12-24 (http://www.nttplala.com/information/2013/12/20131224.html, Final Fantasy VII International for ひかりTV) and the Broadmedia and Gクラスタ・グローバル release of 2013-12-24 (http://www.broadmedia.co.jp/pdf_i/20131224_01.pdf, titled as delivery for Gクラスタ from 12月25日) -- links recorded only
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

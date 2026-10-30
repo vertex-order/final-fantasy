@@ -407,4 +407,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
   - Member: ファイナルファンタジーVIII
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーVIII -- accessed 2026-10-29 (revision 111072262 of 2026-09-19); archived: TODO
 
+## ja.wikipedia.org (Information; G-cluster pages, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ブロードメディア#G-cluster -- G-cluster section of the Broadmedia article (the G-cluster redirect target; revision 110145168) -- accessed 2026-10-29 (article read through the MediaWiki API); archived: TODO
+  - G-cluster: cloud game console (thin client) on sale in Japan 2013-06-20; the technology also ran ひかりTVゲーム (NTTぷらら) and J:COMゲーム
+  - Service ended 2025-02-28
+  - Lists no game titles; no Final Fantasy mention
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVIII -- platforms*, dates -- accessed 2026-10-29 (article read through the MediaWiki API, revision 111072262); archived: TODO
+  - Prose: from 2014-09-18 the cloud game Final Fantasy VIII for ひかりTV is delivered through ひかりTVゲーム; no mention of Gクラスタ or G-cluster in the article
+  - Lists DIVE IN (2015年サービス終了) under the cloud services
+
 ## Decisions

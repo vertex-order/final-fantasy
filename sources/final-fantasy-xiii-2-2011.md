@@ -322,6 +322,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: ファイナルファンタジーXIII-2
 
+## ja.wikipedia.org (Information; G-cluster pages, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ブロードメディア#G-cluster -- G-cluster section of the Broadmedia article (the G-cluster redirect target; revision 110145168) -- accessed 2026-10-29 (article read through the MediaWiki API); archived: TODO
+  - G-cluster: cloud game console (thin client) on sale in Japan 2013-06-20; the technology also ran ひかりTVゲーム (NTTぷらら) and J:COMゲーム
+  - Service ended 2025-02-28
+  - Lists no game titles; no Final Fantasy mention
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII-2 -- platforms*, dates -- accessed 2026-10-29 (article read through the MediaWiki API, revision 110335847); archived: TODO
+  - Platform line (対応機種) ends: Gクラスタ、G-cluster、Gクラスタ搭載テレビ、ひかりTVゲーム、DIVE IN、Android、iOS
+  - No Gクラスタ release date in the infobox (Japan 2011-12-15 listed for the first release)
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.
