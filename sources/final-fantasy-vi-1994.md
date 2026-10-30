@@ -523,4 +523,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
     - https://store.steampowered.com/app/1173820/FINAL_FANTASY_VI/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
   - Not listed in any saved search result: 382900 FINAL FANTASY VI (Old ver.)
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy", "voice fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - Final Fantasy VI -- result from outside the store; developer shown: Square; "final fantasy" search, result 8; "voice fantasy" search, result 14
+    - http://dlgames.square-enix.com/ff/ff6/en/index.html -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy VI -- result from outside the store; developer shown: Square Enix Business Division 8; "final fantasy" search, result 20
+    - https://www.jp.square-enix.com/game/detail/ff6 -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

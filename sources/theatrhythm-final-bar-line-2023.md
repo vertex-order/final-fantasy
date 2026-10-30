@@ -163,4 +163,11 @@
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2023年, パッケージ table): シアトリズム ファイナルバーライン; Japan 2023-02-16; スクウェア・エニックス; パ: ●; CERO: B; no note
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "theatrhythm" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - Theatrhythm Final Bar Line -- result from outside the store; developer shown: indieszero Co., Ltd.; "theatrhythm" search, result 2
+    - https://www.jp.square-enix.com/t_fbl/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

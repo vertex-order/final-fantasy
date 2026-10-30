@@ -237,4 +237,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_versi
   - 3361450 FINAL FANTASY VII REBIRTH Digital Deluxe Edition Upgrade -- listed in the "final fantasy" search; release date shown: 23 Jan, 2025; platforms shown: win; review summary: Mostly Negative -- 23% of the 65 user reviews for this game are positive.
     - https://store.steampowered.com/app/3361450/FINAL_FANTASY_VII_REBIRTH_Digital_Deluxe_Edition_Upgrade/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - FINAL FANTASY VII REBIRTH -- store result, type label Base Game; listed in the "final fantasy" search
+    - https://store.epicgames.com/p/final-fantasy-vii-rebirth -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - FINAL FANTASY VII REBIRTH Digital Deluxe Edition -- store result, type label Edition; listed in the "final fantasy" search
+    - https://store.epicgames.com/p/final-fantasy-vii-rebirth--digital-deluxe-edition -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - FINAL FANTASY VII REBIRTH Digital Deluxe Edition Upgrade -- store result, type label Add-On; listed in the "final fantasy" search
+    - https://store.epicgames.com/p/final-fantasy-vii-rebirth--digital-deluxe-edition-upgrade -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions

@@ -521,4 +521,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
     - https://store.steampowered.com/app/1173810/FINAL_FANTASY_V/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
   - Not listed in any saved search result: 382890 FINAL FANTASY V (Old ver.)
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy", "voice fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - Final Fantasy V -- result from outside the store; developer shown: Square Enix Creative Business Unit IV; "final fantasy" search, result 9; "voice fantasy" search, result 15
+    - https://square-enix-games.com/en_US/news/final-fantasy-pixel-remaster -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy V -- result from outside the store; developer shown: Square; "final fantasy" search, result 11; "voice fantasy" search, result 17
+    - http://dlgames.square-enix.com/ff/ff5/en/index.html -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

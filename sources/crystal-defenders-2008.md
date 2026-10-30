@@ -340,6 +340,15 @@
   - Lists the games for the click-wheel iPod (fifth generation, iPod classic, third to fifth generation iPod nano) by release date, Japan time
   - Row (2008年): 12月23日 クリスタル・ディフェンダーズ (スクウェア・エニックス), linked to the クリスタル ガーディアンズ article
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "crystal defenders" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - Crystal Defenders R2 -- result from outside the store; developer shown: MSF/Winds; "crystal defenders" search, result 1
+    - http://www.crystaldefenders.jp/jp/wii/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Crystal Defenders R1 -- result from outside the store; developer shown: Square Enix; "crystal defenders" search, result 2
+    - http://www.crystaldefenders.jp/jp/wii/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it

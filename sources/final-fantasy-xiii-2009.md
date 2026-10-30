@@ -377,4 +377,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
   - 292120 FINAL FANTASY® XIII -- listed in the "final fantasy" search; release date shown: 9 Oct, 2014; platforms shown: win; review summary: Mostly Positive -- 75% of the 9,449 user reviews for this game are positive.
     - https://store.steampowered.com/app/292120/FINAL_FANTASY_XIII/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - Final Fantasy XIII -- result from outside the store; developer shown: Square Enix Business Division 1; "final fantasy" search, result 18
+    - https://www.square-enix-games.com/en_US/games/final-fantasy-xiii -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

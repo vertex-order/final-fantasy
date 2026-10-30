@@ -511,6 +511,13 @@ square-enix-games.com (Publisher, official)
   - 671210 FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO -- listed in the "final fantasy" search; release date shown: 26 Feb, 2018; platforms shown: win; review summary: Very Positive -- 83% of the 260 user reviews for this game are positive.
     - https://store.steampowered.com/app/671210/FINAL_FANTASY_XV_WINDOWS_EDITION_PLAYABLE_DEMO/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - Final Fantasy XV -- result from outside the store; developer shown: Square Enix Business Division 2; "final fantasy" search, result 12
+    - http://finalfantasyxv.com/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations

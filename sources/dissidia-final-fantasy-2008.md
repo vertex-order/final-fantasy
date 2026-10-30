@@ -114,4 +114,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)_v
   - Row (2009年): DISSIDIA FINAL FANTASY UNIVERSAL TUNING; Japan 2009-11-01; North America 2009-08-25; Europe 2009-09-04; スクウェア・エニックス; DL: ●; note: 日本国外版『ディシディア ファイナルファンタジー』をもとに内容を強化した作品
   - Row (2011年): ディシディア デュオデシム ファイナルファンタジー (Dissidia 012: Duodecim Final Fantasy); Japan 2011-03-03; North America 2011-03-22; Europe 2011-03-25; スクウェア・エニックス; DL: ●
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy", "voice fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - Dissidia Final Fantasy -- result from outside the store; developer shown: Square Enix Product Development Division 1; "final fantasy" search, result 3; "voice fantasy" search, result 20
+    - http://archive.na.square-enix.com/dissidia/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

@@ -228,4 +228,21 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XVI_version_diffe
   - 2886900 FINAL FANTASY XVI Expansion Pass -- listed in the "final fantasy" search; release date shown: 17 Sep, 2024; platforms shown: win; review summary: Mostly Positive -- 71% of the 70 user reviews for this game are positive.
     - https://store.steampowered.com/app/2886900/FINAL_FANTASY_XVI_Expansion_Pass/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - FINAL FANTASY XVI -- store result, type label Base Game; listed in the "final fantasy" search
+    - https://store.epicgames.com/p/final-fantasy-xvi -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XVI COMPLETE EDITION -- store result, type label Edition; listed in the "final fantasy" search
+    - https://store.epicgames.com/p/final-fantasy-xvi-complete-edition-7cfd7c -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XVI Expansion Pass -- store result, type label Add-On; listed in the "final fantasy" search
+    - https://store.epicgames.com/p/final-fantasy-xvi-final-fantasy-xvi-expansion-pass-c276c3 -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - FINAL FANTASY XVI DEMO -- store result, type label Demo; listed in the "final fantasy" search
+    - https://store.epicgames.com/p/final-fantasy-xvi-demo-c289c2 -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+- Epic Games Store product pages, Complete Edition -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Two addresses serve the same page: the canonical link and og:url of each name its own address; title, description ("includes the base game, the first DLC "Echoes of the Fallen" and the second DLC "The Rising Tide""), rating (4.7), age rating (Mature 17+), developer and publisher (Square Enix) are the same on both; no redirect between them
+  - https://store.epicgames.com/p/final-fantasy-xvi-complete-edition-7cfd7c -- Epic Games Store page; the address listed in the "final fantasy" search -- live (2026-10-30) -- archived: TODO
+  - https://store.epicgames.com/p/final-fantasy-xvi-complete-edition-be3de8 -- Epic Games Store page; the address a search for the exact title "FINAL FANTASY XVI COMPLETE EDITION" gives (reported by the user, 2026-10-30); same content as the other address, live (2026-10-30) -- archived: TODO
+
 ## Decisions

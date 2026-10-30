@@ -46,6 +46,13 @@
   - 2252280 STRANGER OF PARADISE FINAL FANTASY ORIGIN - Season Pass -- listed in the "final fantasy" search; release date shown: 6 Apr, 2023; platforms shown: win; review summary: Mixed -- 43% of the 72 user reviews for this game are positive.
     - https://store.steampowered.com/app/2252280/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN_Season_Pass/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - STRANGER OF PARADISE FF ORIGIN SEASON PASS -- store result, type label Add-On; listed in the "final fantasy" search
+    - https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

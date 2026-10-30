@@ -305,6 +305,15 @@ square-enix.com and stores (Publisher)
   - Mobile colour remake 聖剣伝説 -ファイナルファンタジー外伝-: S!アプリ (SoftBank 3G) 2006-08-16, a further S!アプリ for the 905SH 2006-08-30, megaiアプリ for FOMA 903i 2006-11-06, EZアプリ (WIN BREW) 2007-02-05
   - The 聖剣伝説モバイル site ended on 2011-03-03 and distribution paused; resumed on スクエニMOBILE on 2011-05-18 (iアプリ, S!アプリ) and 2011-05-19 (EZアプリ), with no later terminal updates
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "mana" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - Collection of Mana -- result from outside the store; developer shown: M2; "mana" search, result 9
+    - https://collectionofmana.square-enix-games.com/en-us -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Adventures of Mana -- result from outside the store; developer shown: Square Enix Business Division 8; "mana" search, result 18
+    - https://www.jp.square-enix.com/seiken/en/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

@@ -557,4 +557,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - 239120 Final Fantasy III (3D Remake) -- listed in the "final fantasy" search; release date shown: 27 May, 2014; platforms shown: win; review summary: Mostly Positive -- 79% of the 1,716 user reviews for this game are positive.
     - https://store.steampowered.com/app/239120/Final_Fantasy_III_3D_Remake/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy", "voice fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - Final Fantasy III -- result from outside the store; developer shown: Square Enix Creative Business Unit IV; "final fantasy" search, result 7; "voice fantasy" search, result 13
+    - https://square-enix-games.com/en_US/news/final-fantasy-pixel-remaster -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy III -- result from outside the store; developer shown: Matrix Software; "final fantasy" search, result 13
+    - http://dlgames.square-enix.com/ff/ff3/jp -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

@@ -35,7 +35,7 @@ window.__ffGroupReg['XVI'] = { num: 'XVI', chronoOrder: 1700, narrativeOrder: 17
       platforms: [
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xvi-complete-edition/9nvns5fp3px5' },
         { key: 'steam', paren: 'PC; Digital', url: 'https://store.steampowered.com/sub/1111230/' },
-        { key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/final-fantasy-xvi-complete-edition-be3de8' },
+        { key: 'epic-games', paren: 'PC; Digital', url: 'https://store.epicgames.com/p/final-fantasy-xvi-complete-edition-be3de8' },
         { key: 'playstation5', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-PPSA10664_00-SEIA0000000000CE' },
         { key: 'playstation-plus-cloud', url: 'https://store.playstation.com/product/UP0082-PPSA10664_00-SEIA0000000000CE', paren: 'PS5; PSPortal' },
         { key: 'xbox-xs', paren: 'Optimized; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xvi-complete-edition/9nvns5fp3px5' },
@@ -67,7 +67,7 @@ window.__ffGroupReg['XVI'] = { num: 'XVI', chronoOrder: 1700, narrativeOrder: 17
       length: [{ value: '3h', tip: 'Completionist' }],
       platforms: [
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/2744050/FINAL_FANTASY_XVI_Echoes_of_the_Fallen' },
-        { key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/final-fantasy-xvi-final-fantasy-xvi-expansion-pass-c276c3' },
+        { key: 'epic-games', paren: 'PC; Digital', url: 'https://store.epicgames.com/p/final-fantasy-xvi-final-fantasy-xvi-expansion-pass-c276c3' },
         { key: 'playstation5', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-PPSA10664_00-0799424989786604' },
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xvi-expansion-pass/9ntvvj28skn2' },
         { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xvi-expansion-pass/9ntvvj28skn2' },
@@ -95,7 +95,7 @@ window.__ffGroupReg['XVI'] = { num: 'XVI', chronoOrder: 1700, narrativeOrder: 17
       length: [{ value: '4h', tip: 'Main Story', join: ' / ' }, { value: '6h', tip: 'Main + Extra', join: ' / ' }, { value: '9½h', tip: 'Completionist' }],
       platforms: [
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/2744060/FINAL_FANTASY_XVI_The_Rising_Tide' },
-        { key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/final-fantasy-xvi-final-fantasy-xvi-expansion-pass-c276c3' },
+        { key: 'epic-games', paren: 'PC; Digital', url: 'https://store.epicgames.com/p/final-fantasy-xvi-final-fantasy-xvi-expansion-pass-c276c3' },
         { key: 'playstation5', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-PPSA10664_00-0799424989786604' },
         { key: 'windows', paren: 'PC; Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xvi-expansion-pass/9ntvvj28skn2' },
         { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/final-fantasy-xvi-expansion-pass/9ntvvj28skn2' },

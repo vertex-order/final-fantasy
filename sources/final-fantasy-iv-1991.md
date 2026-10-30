@@ -666,4 +666,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - 312750 Final Fantasy IV (3D Remake) -- listed in the "final fantasy" search; release date shown: 17 Sep, 2014; platforms shown: win; review summary: Very Positive -- 83% of the 1,746 user reviews for this game are positive.
     - https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - Final Fantasy IV -- result from outside the store; developer shown: Tose; "final fantasy" search, result 14
+    - https://square-enix-games.com/en_US/news/final-fantasy-pixel-remaster -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy IV -- result from outside the store; developer shown: Square; "final fantasy" search, result 15
+    - https://na.finalfantasy.com/titles/finalfantasy4 -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy IV -- result from outside the store; developer shown: Square Enix Business Division 3; "final fantasy" search, result 19
+    - http://archive.na.square-enix.com//ff4/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

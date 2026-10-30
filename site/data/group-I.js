@@ -69,7 +69,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       length: [{ value: '7h', tip: 'Main Story', join: ' / ' }, { value: '11h', tip: 'Main + Extra', join: ' / ' }, { value: '13½h', tip: 'Completionist' }],
       platforms: [
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/2252280/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN_Season_Pass' },
-        { key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' },
+        { key: 'epic-games', paren: 'PC; Digital', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' },
         { key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' },
         { key: 'playstation5', paren: 'Digital; PS4 compat', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' },
         { key: 'xbox-one' },
@@ -103,7 +103,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       length: [{ value: '7h', tip: 'Main Story', join: ' / ' }, { value: '17½h', tip: 'Main + Extra', join: ' / ' }, { value: '20h', tip: 'Completionist' }],
       platforms: [
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/2252280/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN_Season_Pass' },
-        { key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' },
+        { key: 'epic-games', paren: 'PC; Digital', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' },
         { key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' },
         { key: 'playstation5', paren: 'Digital; PS4 compat', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' },
         { key: 'xbox-one' },
@@ -131,7 +131,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
       length: [{ value: '3½h', tip: 'Main Story', join: ' / ' }, { value: '6h', tip: 'Main + Extra', join: ' / ' }, { value: '6h', tip: 'Completionist' }],
       platforms: [
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/2252280/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN_Season_Pass' },
-        { key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' },
+        { key: 'epic-games', paren: 'PC; Digital', url: 'https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass' },
         { key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' },
         { key: 'playstation5', paren: 'Digital; PS4 compat', url: 'https://store.playstation.com/product/UP0082-PPSA03232_00-SOPFFOSEASONPASS' },
         { key: 'xbox-one' },
