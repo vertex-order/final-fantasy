@@ -353,6 +353,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - Row (発売されなかったタイトル): ファイナルファンタジーVII; スクウェア; 64DD; note: PlayStationに移行。
   - https://ja.wikipedia.org/wiki/ファイナルファンタジーVII -- the article linked from that row -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 
+## ja.wikipedia.org (Information; 64DD article, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/64DD -- 64DD plan -- accessed 2026-11-03 (read through the MediaWiki API, revision 111366820 of 2026-10-12); archived: TODO
+  - 歴史: Square formed a joint company with Nintendo and JUSTSYSTEM to develop 64DD software and planned to run a network service, then withdrew from 64DD; cites 『ゲームマシン』 No. 506 (Amusement Tsushinsha, 1995-11-01, p. 2) and a Nintendo press release
+  - 移行して発売されたソフト: Final Fantasy VII, planned to use the disk capacity for many movie scenes, was released on PlayStation on 1997-01-31
+  - The page names Final Fantasy VII only in that section; no Chocobo or Kingdom Hearts title anywhere on it
+
 ## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
 
 - https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section ふ) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
