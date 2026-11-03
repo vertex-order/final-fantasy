@@ -100,6 +100,13 @@
   - Its infobox lists Wii (WiiWare) among the platforms, with R1 on 2009-01-27 and R2 on 2009-02-24 in Japan; the text says the WiiWare version is not the W series but a new series on other maps, R1 and R2 (R1 doubles as a tutorial for beginners; a Moogle youth gathers companions to protect the crystals); so the Edit's languages start with Japanese as native (user, 2026-10-20)
   - The page also has a section on Vanguard Storm (see the crystal-defenders-vanguard-storm source)
 
+## ja.wikipedia.org (Information; Xbox Live Arcade game title list, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Xbox_Live_Arcadeのゲームタイトル一覧 -- Xbox 360 Japan release -- accessed 2026-11-03 (read through the MediaWiki API, revision 111327076 of 2026-10-09); archived: TODO
+  - Lists the Xbox Live Arcade titles distributed in Japan, by year; entries are a date and a title
+  - Entry (2009年): 3月11日, クリスタル・ディフェンダーズ; no publisher or note; no 日本未配信 mark
+  - Links https://ja.wikipedia.org/wiki/クリスタル_ガーディアンズ (the article cited above) -- link recorded only
+
 ## Is it still playable? (checked 2026-10-20)
 
 - Yes, so the entry is not terminated (user's rule: a game that is still playable or purchasable is not terminated; the struck rows are the versions that closed)
