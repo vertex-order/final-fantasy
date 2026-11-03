@@ -91,7 +91,7 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, narrativeOrder: 600, 
           ],
           platforms: [
             { key: 'nintendo-game-boy-advance', paren: 'Physical' },
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Digital' },
           ],
           versionDesc: [
             'This edit has slightly improved visuals and a new translation, plus four new espers, two new areas, and three new spells.',
@@ -128,8 +128,8 @@ window.__ffGroupReg['VI'] = { num: 'VI', chronoOrder: 600, narrativeOrder: 600, 
           platforms: [
             { key: 'nintendo-snes-classic-edition' },
             { key: 'nintendo-snes', paren: 'Super Famicom; Physical' },
-            { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console', url: 'https://web.archive.org/web/20110321044414/http://dlgames.square-enix.com/jp/vc/2011/ff6/', hreflang: 'ja' },
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility', url: 'https://web.archive.org/web/20110321044414/http://dlgames.square-enix.com/jp/vc/2011/ff6/', hreflang: 'ja' },
+            { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console; Digital', url: 'https://web.archive.org/web/20110321044414/http://dlgames.square-enix.com/jp/vc/2011/ff6/', hreflang: 'ja' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Digital; Wii compatibility', url: 'https://web.archive.org/web/20110321044414/http://dlgames.square-enix.com/jp/vc/2011/ff6/', hreflang: 'ja' },
             { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console; Digital', url: 'https://www.jp.square-enix.com/game/detail/ff6/', hreflang: 'ja' },
           ],
           versionDesc: [

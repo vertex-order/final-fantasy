@@ -471,4 +471,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
   - Final Fantasy IX (2017) -- type label Port of Final Fantasy IX (2016); platforms shown: PlayStation 4, Nintendo Switch, Xbox One; released 2017-09-19
     - https://www.igdb.com/games/final-fantasy-ix--2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## gog.com (Platform; GOG.com catalogue, English storefront, live pages of 2026-11-03)
+
+- GOG catalogue pages (www.gog.com/en/games) -- read from saved live pages -- accessed 2026-11-03
+  - Page URL by capture: live 2026-11-03 https://www.gog.com/en/games?query=final%20fantasy&order=desc:score; https://www.gog.com/en/games?developers=square-enix; https://www.gog.com/en/games?publishers=square-enix; not signed in; only the live pages are saved, no Wayback capture read
+  - Listed on all three pages; product id 1375008492; tile title "FINAL FANTASY IX"; year shown: 2016; developer / publisher shown: Square Enix / Square Enix; platform icons: Windows only; languages shown: English (text); label: GOOD OLD GAME
+    - https://www.gog.com/en/game/final_fantasy_ix -- GOG product page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
 ## Decisions

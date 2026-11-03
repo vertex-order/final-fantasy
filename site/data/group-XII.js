@@ -189,7 +189,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
           paren: 'Physical',
           url: 'https://www.nintendo.com/en-gb/Games/Game-Boy-Advance/Final-Fantasy-Tactics-Advance-266705.html',
         },
-        { key: 'nintendo-wii-u', terminated: true, paren: 'Virtual Console' },
+        { key: 'nintendo-wii-u', terminated: true, paren: 'Virtual Console; Digital' },
         { key: 'fan-movie', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-recap', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube' },

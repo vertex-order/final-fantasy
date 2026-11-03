@@ -982,6 +982,14 @@
   - Moai-kun (1990) -- no card of its own on the saved pages; the parent of Chocobo Kwehst (2021)
     - https://www.igdb.com/games/moai-kun -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Virtual Console categories, live pages of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:Wii U用バーチャルコンソール対応ソフト -- Wii U Virtual Console release -- accessed 2026-11-03 (read through the MediaWiki API, revision 59702559 of 2016-05-12); archived: TODO
+  - Member: チョコボランド
+  - https://ja.wikipedia.org/wiki/チョコボランド -- the article of that member -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+- https://ja.wikipedia.org/wiki/バーチャルコンソール -- Virtual Console is digital -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461123 of 2026-10-21); archived: TODO
+  - Says all Virtual Console software is digital distribution (download sale), so an internet connection was needed to buy it; Wii, Wii U and Nintendo 3DS are now re-download only
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

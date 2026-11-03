@@ -304,4 +304,9 @@
   - Final Fantasy: Crystal Chronicles - Remastered Edition (2020) -- type label Remaster of Final Fantasy: Crystal Chronicles (2003); platforms shown: PlayStation 4, Nintendo Switch, Android, iOS; released 2020-08-27
     - https://www.igdb.com/games/final-fantasy-crystal-chronicles-remastered-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; GameCube Nintendo Classics article, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/ニンテンドー_ゲームキューブ_Nintendo_Classics -- GameCube on Nintendo Switch Online -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461305 of 2026-10-21); archived: TODO
+  - Section 任天堂タイトルの配信状況: ファイナルファンタジー・クリスタルクロニクル is one of 43 Nintendo-published GameCube titles not distributed on the service (as of 2026)
+
 ## Decisions

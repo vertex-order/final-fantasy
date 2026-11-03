@@ -103,4 +103,12 @@
   - Final Fantasy Tactics Advance (2003) -- type label Main Game; platforms shown: GBA, WiiU; released 2003-02-14
     - https://www.igdb.com/games/final-fantasy-tactics-advance -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Virtual Console categories, live pages of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:Wii U用バーチャルコンソール対応ソフト -- Wii U Virtual Console release -- accessed 2026-11-03 (read through the MediaWiki API, revision 59702559 of 2016-05-12); archived: TODO
+  - Member: ファイナルファンタジータクティクスアドバンス
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクスアドバンス -- the article of that member -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+- https://ja.wikipedia.org/wiki/バーチャルコンソール -- Virtual Console is digital -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461123 of 2026-10-21); archived: TODO
+  - Says all Virtual Console software is digital distribution (download sale), so an internet connection was needed to buy it; Wii, Wii U and Nintendo 3DS are now re-download only
+
 ## Decisions

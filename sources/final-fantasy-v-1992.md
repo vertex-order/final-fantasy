@@ -559,4 +559,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
   - Final Fantasy V (2021) -- type label Remaster of Final Fantasy V (1992); platforms shown: PlayStation 4, Nintendo Switch, PC (Microsoft Windows), Android, Xbox Series X, iOS; released 2021-11-10
     - https://www.igdb.com/games/final-fantasy-v--2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Virtual Console categories, live pages of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト -- Wii Virtual Console release -- accessed 2026-11-03 (read through the MediaWiki API, revision 104487970 of 2025-04-14); archived: TODO
+  - Member: ファイナルファンタジーV
+- https://ja.wikipedia.org/wiki/Category:Wii U用バーチャルコンソール対応ソフト -- Wii U Virtual Console release -- accessed 2026-11-03 (read through the MediaWiki API, revision 59702559 of 2016-05-12); archived: TODO
+  - Member: ファイナルファンタジーV
+  - Member: ファイナルファンタジーV アドバンス
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジーV_アドバンス -- the article of that member -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+- https://ja.wikipedia.org/wiki/Category:Newニンテンドー3DS用バーチャルコンソール対応ソフト -- New Nintendo 3DS Virtual Console release -- accessed 2026-11-03 (read through the MediaWiki API, revision 106651478 of 2025-09-29); archived: TODO
+  - Member: ファイナルファンタジーV
+- https://ja.wikipedia.org/wiki/バーチャルコンソール -- Virtual Console is digital -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461123 of 2026-10-21); archived: TODO
+  - Says all Virtual Console software is digital distribution (download sale), so an internet connection was needed to buy it; Wii, Wii U and Nintendo 3DS are now re-download only
+
 ## Decisions

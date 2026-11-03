@@ -626,8 +626,8 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       helpWanted: true,
       platforms: [
         { key: 'nintendo-nes-fc', paren: 'Physical' },
-        { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console' },
-        { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility' },
+        { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console; Digital' },
+        { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Digital; Wii compatibility' },
         { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console; Digital', url: 'https://www.jp.square-enix.com/game/detail/kingsknight/', hreflang: 'ja' },
         { key: 'fan-movie', paren: 'Youtube', noResults: true },
         { key: 'fan-recap', paren: 'Youtube', noResults: true },

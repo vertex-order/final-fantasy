@@ -113,4 +113,14 @@
   - Final Fantasy: Mystic Quest (1992) -- type label no type label shown; platforms shown: SNES, SFAM, WiiU, Wii
     - https://www.igdb.com/games/final-fantasy-mystic-quest -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Virtual Console categories, live pages of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト -- Wii Virtual Console release -- accessed 2026-11-03 (read through the MediaWiki API, revision 104487970 of 2025-04-14); archived: TODO
+  - Member: ファイナルファンタジーUSA ミスティッククエスト
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジーUSA_ミスティッククエスト -- the article of that member -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+- https://ja.wikipedia.org/wiki/Category:Wii U用バーチャルコンソール対応ソフト -- Wii U Virtual Console release -- accessed 2026-11-03 (read through the MediaWiki API, revision 59702559 of 2016-05-12); archived: TODO
+  - Member: ファイナルファンタジーUSA ミスティッククエスト
+- https://ja.wikipedia.org/wiki/バーチャルコンソール -- Virtual Console is digital -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461123 of 2026-10-21); archived: TODO
+  - Says all Virtual Console software is digital distribution (download sale), so an internet connection was needed to buy it; Wii, Wii U and Nintendo 3DS are now re-download only
+
 ## Decisions

@@ -90,7 +90,7 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
           ],
           platforms: [
             { key: 'nintendo-game-boy-advance', paren: 'Physical' },
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Digital' },
           ],
           versionDesc: [
             [{ text: 'This edit adds four new jobs, an extra dungeon, optional boss, additional equipment, and new translations. Released as ' }, { emText: 'Final Fantasy V Advance (2006)' }, { text: '.' }],
@@ -130,8 +130,8 @@ window.__ffGroupReg['V'] = { num: 'V', chronoOrder: 500, narrativeOrder: 500, ti
           ],
           platforms: [
             { key: 'nintendo-snes', jpTag: true, paren: 'Super Famicom; Physical' },
-            { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console', url: 'https://web.archive.org/web/20110916224951/http://dlgames.square-enix.com/jp/vc/2011/ff5/', hreflang: 'ja' },
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility', url: 'https://web.archive.org/web/20110916224951/http://dlgames.square-enix.com/jp/vc/2011/ff5/', hreflang: 'ja' },
+            { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console; Digital', url: 'https://web.archive.org/web/20110916224951/http://dlgames.square-enix.com/jp/vc/2011/ff5/', hreflang: 'ja' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Digital; Wii compatibility', url: 'https://web.archive.org/web/20110916224951/http://dlgames.square-enix.com/jp/vc/2011/ff5/', hreflang: 'ja' },
             { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console; Digital', url: 'https://www.jp.square-enix.com/game/detail/ff5/', hreflang: 'ja' },
           ],
           versionDesc: [

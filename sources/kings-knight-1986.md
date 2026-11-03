@@ -226,6 +226,17 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - King's Knight Special (1987) -- type label Port of King's Knight (1986); platforms shown: x1, PC-8800 Series
     - https://www.igdb.com/games/kings-knight-special -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Virtual Console categories, live pages of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト -- Wii Virtual Console release -- accessed 2026-11-03 (read through the MediaWiki API, revision 104487970 of 2025-04-14); archived: TODO
+  - Member: キングスナイト
+- https://ja.wikipedia.org/wiki/Category:Wii U用バーチャルコンソール対応ソフト -- Wii U Virtual Console release -- accessed 2026-11-03 (read through the MediaWiki API, revision 59702559 of 2016-05-12); archived: TODO
+  - Member: キングスナイト
+- https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用バーチャルコンソール対応ソフト -- Nintendo 3DS Virtual Console release -- accessed 2026-11-03 (read through the MediaWiki API, revision 106651471 of 2025-09-29); archived: TODO
+  - Member: キングスナイト
+- https://ja.wikipedia.org/wiki/バーチャルコンソール -- Virtual Console is digital -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461123 of 2026-10-21); archived: TODO
+  - Says all Virtual Console software is digital distribution (download sale), so an internet connection was needed to buy it; Wii, Wii U and Nintendo 3DS are now re-download only
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)

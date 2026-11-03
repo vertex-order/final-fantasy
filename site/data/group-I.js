@@ -269,7 +269,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
           helpWanted: true,
           platforms: [
             { key: 'nintendo-game-boy-advance', paren: 'Physical' },
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Digital' },
           ],
           versionDesc: [
             [{ text: 'This remaster adds a bonus dungeon and updates the bestiary. Released in the omnibus entry ' }, { emText: 'Final Fantasy I & II: Dawn of Souls (2004)' }, { text: '.' }],
@@ -341,9 +341,9 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
           platforms: [
             { key: 'nintendo-nes-fc', paren: 'Physical' },
             { key: 'nintendo-nes-classic-edition', nonJpTag: true },
-            { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console', url: 'https://web.archive.org/web/20260510205916/http://dlgames.square-enix.com/na/vc/2009/ff1/' },
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility', url: 'https://web.archive.org/web/20260510205916/http://dlgames.square-enix.com/na/vc/2009/ff1/' },
-            { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console' },
+            { key: 'nintendo-wii', terminated: true, paren: 'Virtual Console; Digital', url: 'https://web.archive.org/web/20260510205916/http://dlgames.square-enix.com/na/vc/2009/ff1/' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Digital; Wii compatibility', url: 'https://web.archive.org/web/20260510205916/http://dlgames.square-enix.com/na/vc/2009/ff1/' },
+            { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console; Digital' },
           ],
           versionDesc: [
             [{ text: 'The original release. Release edits may include slight graphical or translation tweaks. On the ' }, { tipText: 'FC', tip: 'Nintendo Famicom' }, { jpTag: true }, { text: ', included in the omnibus release ' }, { emText: 'Final Fantasy I-II (1994)' }, { text: '.' }],

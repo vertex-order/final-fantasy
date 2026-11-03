@@ -60,8 +60,8 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
             { value: 'KO', tip: 'Korean (Fan Translation) (2003)' },
           ],
           platforms: [
-            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Wii compatibility', url: 'https://web.archive.org/web/20110128073401/http://dlgames.square-enix.com/jp/vc/2009/ff3/', hreflang: 'ja' },
-            { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console', url: 'https://web.archive.org/web/20110128073401/http://dlgames.square-enix.com/jp/vc/2009/ff3/', hreflang: 'ja' },
+            { key: 'nintendo-wii-u', terminated: true, jpTag: true, paren: 'Virtual Console; Digital; Wii compatibility', url: 'https://web.archive.org/web/20110128073401/http://dlgames.square-enix.com/jp/vc/2009/ff3/', hreflang: 'ja' },
+            { key: 'nintendo-wii', terminated: true, jpTag: true, paren: 'Virtual Console; Digital', url: 'https://web.archive.org/web/20110128073401/http://dlgames.square-enix.com/jp/vc/2009/ff3/', hreflang: 'ja' },
             { key: 'nintendo-nes-classic-edition', jpTag: true },
             { key: 'nintendo-fc', paren: 'Physical; Japan Only' },
             { key: 'nintendo-3ds', terminated: true, jpTag: true, paren: 'Virtual Console; Digital', url: 'https://www.jp.square-enix.com/game/detail/ff3/', hreflang: 'ja' },

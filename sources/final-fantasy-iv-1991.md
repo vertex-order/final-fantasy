@@ -733,4 +733,24 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - Final Fantasy III + Final Fantasy IV: Double Pack Edition (2016) -- type label Bundle; platforms shown: PC (Microsoft Windows); released 2016-09-02
     - https://www.igdb.com/games/final-fantasy-iii-plus-final-fantasy-iv-double-pack-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Virtual Console categories, live pages of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト -- Wii Virtual Console release -- accessed 2026-11-03 (read through the MediaWiki API, revision 104487970 of 2025-04-14); archived: TODO
+  - Member: ファイナルファンタジーIV
+- https://ja.wikipedia.org/wiki/Category:Wii U用バーチャルコンソール対応ソフト -- Wii U Virtual Console release -- accessed 2026-11-03 (read through the MediaWiki API, revision 59702559 of 2016-05-12); archived: TODO
+  - Member: ファイナルファンタジーIV
+  - Member: ファイナルファンタジーIVアドバンス
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジーIVアドバンス -- the article of that member -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+- https://ja.wikipedia.org/wiki/Category:Newニンテンドー3DS用バーチャルコンソール対応ソフト -- New Nintendo 3DS Virtual Console release -- accessed 2026-11-03 (read through the MediaWiki API, revision 106651478 of 2025-09-29); archived: TODO
+  - Member: ファイナルファンタジーIV
+- https://ja.wikipedia.org/wiki/バーチャルコンソール -- Virtual Console is digital -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461123 of 2026-10-21); archived: TODO
+  - Says all Virtual Console software is digital distribution (download sale), so an internet connection was needed to buy it; Wii, Wii U and Nintendo 3DS are now re-download only
+
+## gog.com (Platform; GOG.com catalogue, English storefront, live pages of 2026-11-03)
+
+- GOG catalogue pages (www.gog.com/en/games) -- read from saved live pages -- accessed 2026-11-03
+  - Page URL by capture: live 2026-11-03 https://www.gog.com/en/games?query=final%20fantasy&order=desc:score; https://www.gog.com/en/games?developers=square-enix; https://www.gog.com/en/games?publishers=square-enix; not signed in; only the live pages are saved, no Wayback capture read
+  - Listed on all three pages; product id 1633325078; tile title "Final Fantasy IV (3D Remake)"; year shown: 2014; developer / publisher shown: Square Enix / Square Enix; platform icons: Windows only; languages shown: English (audio, text); label: GOOD OLD GAME
+    - https://www.gog.com/en/game/final_fantasy_iv_3d_remake -- GOG product page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
 ## Decisions

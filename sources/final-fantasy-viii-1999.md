@@ -476,4 +476,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
   - Final Fantasy VII + VIII Double Pack (2016) -- type label Bundle; platforms shown: PC (Microsoft Windows); released 2016-06-17
     - https://www.igdb.com/games/final-fantasy-vii-plus-viii-double-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## gog.com (Platform; GOG.com catalogue, English storefront, live pages of 2026-11-03)
+
+- GOG catalogue pages (www.gog.com/en/games) -- read from saved live pages -- accessed 2026-11-03
+  - Page URL by capture: live 2026-11-03 https://www.gog.com/en/games?query=final%20fantasy&order=desc:score; https://www.gog.com/en/games?developers=square-enix; https://www.gog.com/en/games?publishers=square-enix; not signed in; only the live pages are saved, no Wayback capture read
+  - Listed on all three pages; product id 1086370078; tile title "FINAL FANTASY VIII - REMASTERED"; year shown: 2019; developer / publisher shown: Square Enix / Square Enix; platform icons: Windows only; languages shown: English (text); label: GOOD OLD GAME
+    - https://www.gog.com/en/game/final_fantasy_viii_remastered -- GOG product page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
 ## Decisions

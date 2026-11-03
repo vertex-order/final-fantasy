@@ -55,6 +55,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       platforms: [
         { key: 'windows', paren: 'Physical' },
         { key: 'playstation2', terminated: true, paren: 'Physical' },
+        { key: 'xbox-360', terminated: true },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy xi rise of the zilart' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'final fantasy xi rise of the zilart', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy xi rise of the zilart' },
@@ -78,6 +79,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       platforms: [
         { key: 'windows', paren: 'Physical' },
         { key: 'playstation2', terminated: true, paren: 'Physical' },
+        { key: 'xbox-360', terminated: true },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy xi Chains of Promathia' },
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', searchTitle: 'final fantasy xi Chains of Promathia', noResults: true },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy xi Chains of Promathia' },
@@ -101,6 +103,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       platforms: [
         { key: 'windows', paren: 'Physical' },
         { key: 'playstation2', terminated: true, paren: 'Physical' },
+        { key: 'xbox-360', terminated: true },
         { key: 'fan-movie', search: 'youtube', searchTitle: 'final fantasy xi Treasures of Aht Urhgan' },
         { key: 'fan-recap', search: 'youtube', searchTitle: 'final fantasy xi Treasures of Aht Urhgan' },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'final fantasy xi Treasures of Aht Urhgan' },
