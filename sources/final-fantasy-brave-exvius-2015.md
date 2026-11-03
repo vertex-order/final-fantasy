@@ -221,6 +221,12 @@ finalfantasyexvius.com (Publisher, official)
   - Final Fantasy: Brave Exvius (2015) -- type label Main Game; platforms shown: Android, iOS; released 2015-10-22
     - https://www.igdb.com/games/final-fantasy-brave-exvius -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; browser game and social game categories, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:ソーシャルゲーム -- membership -- accessed 2026-11-03 (category page revision 76982252 of 2020-04-09; members read through the MediaWiki API); archived: TODO
+  - Member: ファイナルファンタジー ブレイブエクスヴィアス
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジー_ブレイブエクスヴィアス -- the article of that member -- link recorded only (revision 111630688 of 2026-11-03) -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+
 ## Decisions
 - Brave Exvius Memorial Version not listed (user, 2026-10-20): the Japanese offline app released after the service ended is an archive and viewer (story, encyclopedias, galleries), not content, so the entry gets no Japanese or Memorial rows; same decision as the Libra Eorzea app (see final-fantasy-franchise.md Decisions)
 - Terminated platform rows link Wayback captures of their store pages

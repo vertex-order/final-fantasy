@@ -990,6 +990,13 @@
 - https://ja.wikipedia.org/wiki/バーチャルコンソール -- Virtual Console is digital -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461123 of 2026-10-21); archived: TODO
   - Says all Virtual Console software is digital distribution (download sale), so an internet connection was needed to buy it; Wii, Wii U and Nintendo 3DS are now re-download only
 
+## ja.wikipedia.org (Information; browser game and social game categories, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:ソーシャルゲーム -- membership -- accessed 2026-11-03 (category page revision 76982252 of 2020-04-09; members read through the MediaWiki API); archived: TODO
+  - Member: チョコボとクリスタルの塔
+  - https://ja.wikipedia.org/wiki/チョコボとクリスタルの塔 -- the article of that member -- link recorded only (revision 110697714 of 2026-08-19) -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+  - Part: Chocobo's Crystal Tower
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.
