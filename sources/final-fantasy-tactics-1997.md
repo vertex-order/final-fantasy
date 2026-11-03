@@ -484,6 +484,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 - https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(1997年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111428913 of 2026-10-18); archived: TODO
   - Lists the PlayStation games released in Japan, split by year; rows are date, title, publisher, note (columns 発売日, タイトル, 発売元, 備考)
   - Row (1997年): ファイナルファンタジータクティクス; 1997-06-20; スクウェア; note: 『ファイナルファンタジー』シリーズのシミュレーションRPG
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクス -- the article linked from the 1997 list row ファイナルファンタジータクティクス (6月20日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 
 ## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
 

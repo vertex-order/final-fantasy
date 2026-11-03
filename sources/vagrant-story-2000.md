@@ -78,6 +78,7 @@
 - https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(2000年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111428783 of 2026-10-18); archived: TODO
   - Lists the PlayStation games released in Japan, split by year; rows are date, title, publisher, note (columns 発売日, タイトル, 発売元, 備考)
   - Row (2000年): ベイグラントストーリー; 2000-02-10; スクウェア; no note
+  - https://ja.wikipedia.org/wiki/ベイグラントストーリー -- the article linked from the 2000 list row ベイグラントストーリー (2月10日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 
 ## ja.wikipedia.org (Information; Final Fantasy series works list, live page of 2026-10-28)
 

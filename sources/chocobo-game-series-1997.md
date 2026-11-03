@@ -751,10 +751,12 @@
   - Row (1997年): チョコボの不思議なダンジョン; 1997-12-23; スクウェア; note: 『チョコボの不思議なダンジョン』シリーズ第1作。
 - https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(1998年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111239614 of 2026-10-02); archived: TODO
   - Row (1998年): チョコボの不思議なダンジョン2; 1998-12-23; スクウェア; note: 『チョコボの不思議なダンジョン』シリーズ第2作。
+  - https://ja.wikipedia.org/wiki/チョコボの不思議なダンジョン2 -- the article linked from the 1998 list row チョコボの不思議なダンジョン2 (12月23日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 - https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_(1999年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111441372 of 2026-10-19); archived: TODO
   - Row (1999年): チョコボレーシング 〜幻界へのロード〜; 1999-03-18; スクウェア; note: チョコボを題材としたレースゲーム
   - Row (1999年): チョコボスタリオン; 1999-12-22; スクウェア; note: 競走馬のようにチョコボを育成するゲーム
   - Row (1999年): チョコボコレクション; 1999-12-22; スクウェア; note: 『チョコボスタリオン』、『チョコボレーシング』、『ダイスDEチョコボ』を各1枚のディスクに収録。
+  - https://ja.wikipedia.org/wiki/チョコボコレクション -- the article linked from the 1999 list row チョコボコレクション (12月22日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 
 ## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
 
