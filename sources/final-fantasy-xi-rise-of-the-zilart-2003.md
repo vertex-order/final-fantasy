@@ -56,6 +56,7 @@
 - https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2003年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111264315 of 2026-10-04); archived: TODO
   - Lists the games released in Japan for PlayStation 2 (2003; date, title, publisher, note)
   - Row (発売されたタイトル, 2003年): ファイナルファンタジーXI ジラートの幻影; 2003-04-17; スクウェア・エニックス; note: オンラインゲーム『ファイナルファンタジーXI』の拡張データディスクで、『ファイナルファンタジーXI ジラートの幻影 オールインワンパック2003』と同時発売; 単体での動作はしない (bold); 終了済み
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジーXI_ジラートの幻影 -- the article linked from the 2003 list row ファイナルファンタジーXI ジラートの幻影 (4月17日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 - https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111510836 of 2026-10-25); archived: TODO
   - Index page of the PlayStation 2 game title list: summary, links to the per-year lists, and the tables for 2008 to 2013 and the unreleased titles (date, title, publisher, note)
   - Row (2009年): プレイオンライン/ファイナルファンタジーXI ヴァナ・ディール コレクション2; 2009-11-12; スクウェア・エニックス; note: 『ファイナルファンタジーXI』の拡張ディスクのうち、『ジラートの幻影』から『アルタナの神兵』までの4本を収録

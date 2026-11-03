@@ -64,6 +64,7 @@
 - https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111510836 of 2026-10-25); archived: TODO
   - Index page of the PlayStation 2 game title list: summary, links to the per-year lists, and the tables for 2008 to 2013 and the unreleased titles (date, title, publisher, note)
   - Row (2013年): ファイナルファンタジーXI アドゥリンの魔境; 2013-03-27; スクウェア・エニックス; note: 『ファイナルファンタジーXI』の拡張データディスク; 単体での動作はしない (bold); オンライン専用; サービス終了済; the page calls it the last new software released in Japan for PS2
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジーXI -- the article linked from the index page row ファイナルファンタジーXI アドゥリンの魔境 (3月27日, 2013 table) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 
 ## ja.wikipedia.org (Information; Xbox 360 game title list, live page of 2026-10-29)
 

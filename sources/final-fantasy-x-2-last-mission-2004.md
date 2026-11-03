@@ -170,6 +170,7 @@
 - https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2004年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110833801 of 2026-08-30); archived: TODO
   - Lists the games released in Japan for PlayStation 2 (2004; date, title, publisher, note)
   - Row (発売されたタイトル, 2004年): ファイナルファンタジーX-2 インターナショナル+ラストミッション; 2004-02-19; スクウェア・エニックス; note: 北米版『ファイナルファンタジーX-2』をもとに、後日談「ラストミッション」を追加した作品
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2 -- the article linked from the 2004 list row ファイナルファンタジーX-2 インターナショナル+ラストミッション (2月19日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 
 ## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
 
