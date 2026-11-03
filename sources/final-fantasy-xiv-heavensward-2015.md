@@ -164,6 +164,12 @@
   - Final Fantasy XIV Online (2013) -- no card of its own on the saved pages; the parent of Final Fantasy XIV: Heavensward (2015)
     - https://www.igdb.com/games/final-fantasy-xiv-online--1 -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; PlayStation 3用ソフト category, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト -- membership -- accessed 2026-11-03 (category page revision 104487858 of 2025-04-14; members read through the MediaWiki API); archived: TODO
+  - Member: ファイナルファンタジーXIV: 蒼天のイシュガルド
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV:_蒼天のイシュガルド -- a redirect to ファイナルファンタジーXIV (revision 111604940 of 2026-11-01 of the target) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

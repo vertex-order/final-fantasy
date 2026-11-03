@@ -515,6 +515,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - Listed on all three pages; product id 1698970154; tile title "FINAL FANTASY VII"; year shown: 2026; developer / publisher shown: Square Enix, FINE Co., Ltd. / Square Enix; platform icons: Windows only; languages shown: English (text); label: none
     - https://www.gog.com/en/game/final_fantasy_vii -- GOG product page, listed live (2026-11-03) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; ゲームアーカイブス対応ソフト category, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト -- membership -- accessed 2026-11-03 (category page revision 104487874 of 2025-04-14; members read through the MediaWiki API); archived: TODO
+  - Member: ファイナルファンタジーVII
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジーVII -- the article of that member (revision 111377241 of 2026-10-13) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

@@ -459,4 +459,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
   - Final Fantasy X/X-2 HD Remaster Twin Pack (2013) -- type label Bundle; platforms shown: PlayStation Vita; released 2013-12-26
     - https://www.igdb.com/games/final-fantasy-x-slash-x-2-hd-remaster-twin-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; PlayStation 3用ソフト category, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト -- membership -- accessed 2026-11-03 (category page revision 104487858 of 2025-04-14; members read through the MediaWiki API); archived: TODO
+  - Member: ファイナルファンタジーX
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジーX -- the article of that member (revision 111423447 of 2026-10-18) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+
 ## Decisions

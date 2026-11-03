@@ -768,6 +768,12 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
 - https://ja.wikipedia.org/wiki/バーチャルコンソール -- Virtual Console is digital -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461123 of 2026-10-21); archived: TODO
   - Says all Virtual Console software is digital distribution (download sale), so an internet connection was needed to buy it; Wii, Wii U and Nintendo 3DS are now re-download only
 
+## ja.wikipedia.org (Information; ゲームアーカイブス対応ソフト category, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト -- membership -- accessed 2026-11-03 (category page revision 104487874 of 2025-04-14; members read through the MediaWiki API); archived: TODO
+  - Member: ファイナルファンタジー
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジー -- the article of that member (revision 111583688 of 2026-10-31) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

@@ -483,4 +483,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
   - Listed on all three pages; product id 1086370078; tile title "FINAL FANTASY VIII - REMASTERED"; year shown: 2019; developer / publisher shown: Square Enix / Square Enix; platform icons: Windows only; languages shown: English (text); label: GOOD OLD GAME
     - https://www.gog.com/en/game/final_fantasy_viii_remastered -- GOG product page, listed live (2026-11-03) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; ゲームアーカイブス対応ソフト category, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト -- membership -- accessed 2026-11-03 (category page revision 104487874 of 2025-04-14; members read through the MediaWiki API); archived: TODO
+  - Member: ファイナルファンタジーVIII
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジーVIII -- the article of that member (revision 111072262 of 2026-09-19) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+
 ## Decisions

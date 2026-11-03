@@ -459,4 +459,10 @@
   - Final Fantasy XIV Online: Starter Edition (2024) -- type label Bundle; platforms shown: Xbox Series X; released 2024-03-21
     - https://www.igdb.com/games/final-fantasy-xiv-online-starter-edition--1 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; PlayStation 3用ソフト category, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト -- membership -- accessed 2026-11-03 (category page revision 104487858 of 2025-04-14; members read through the MediaWiki API); archived: TODO
+  - Member: ファイナルファンタジーXIV
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- the article of that member (revision 111604940 of 2026-11-01) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+
 ## Decisions

@@ -579,6 +579,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
   - Final Fantasy Tactics: The Ivalice Chronicles - Deluxe Edition (2025) -- type label Main Game; platforms shown: PlayStation 4, Nintendo Switch, Xbox One, PlayStation 5, Xbox Series X; released 2025-09-30
     - https://www.igdb.com/games/final-fantasy-tactics-the-ivalice-chronicles-deluxe-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; ゲームアーカイブス対応ソフト category, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト -- membership -- accessed 2026-11-03 (category page revision 104487874 of 2025-04-14; members read through the MediaWiki API); archived: TODO
+  - Member: ファイナルファンタジータクティクス
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクス -- the article of that member (revision 111471952 of 2026-10-22) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+
 ## Decisions
 
 

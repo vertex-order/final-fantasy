@@ -324,4 +324,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
   - Lightning Returns: Final Fantasy XIII - Target Steelbook Edition (2014) -- type label Main Game; platforms shown: Xbox 360, PlayStation 3; released 2014-03-11
     - https://www.igdb.com/games/lightning-returns-final-fantasy-xiii-target-steelbook-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; PlayStation 3用ソフト category, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト -- membership -- accessed 2026-11-03 (category page revision 104487858 of 2025-04-14; members read through the MediaWiki API); archived: TODO
+  - Member: ライトニング リターンズ ファイナルファンタジーXIII
+  - https://ja.wikipedia.org/wiki/ライトニング_リターンズ_ファイナルファンタジーXIII -- the article of that member (revision 110739752 of 2026-08-22) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+
 ## Decisions

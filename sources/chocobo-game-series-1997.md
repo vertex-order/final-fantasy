@@ -997,6 +997,20 @@
   - https://ja.wikipedia.org/wiki/チョコボとクリスタルの塔 -- the article of that member -- link recorded only (revision 110697714 of 2026-08-19) -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
   - Part: Chocobo's Crystal Tower
 
+## ja.wikipedia.org (Information; ゲームアーカイブス対応ソフト category, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト -- membership -- accessed 2026-11-03 (category page revision 104487874 of 2025-04-14; members read through the MediaWiki API); archived: TODO
+  - Member: ダイスDEチョコボ
+  - https://ja.wikipedia.org/wiki/ダイスDEチョコボ -- a redirect to チョコボコレクション (revision 110373018 of 2026-07-22 of the target) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+  - Member: チョコボスタリオン
+  - https://ja.wikipedia.org/wiki/チョコボスタリオン -- the article of that member (revision 110373024 of 2026-07-22) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+  - Member: チョコボの不思議なダンジョン
+  - https://ja.wikipedia.org/wiki/チョコボの不思議なダンジョン -- the article of that member (revision 111233818 of 2026-10-02) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+  - Member: チョコボの不思議なダンジョン2
+  - https://ja.wikipedia.org/wiki/チョコボの不思議なダンジョン2 -- the article of that member (revision 111233812 of 2026-10-02) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+  - Member: チョコボレーシング 〜幻界へのロード〜
+  - https://ja.wikipedia.org/wiki/チョコボレーシング_〜幻界へのロード〜 -- the article of that member (revision 110373030 of 2026-07-22) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

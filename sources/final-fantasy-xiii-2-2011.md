@@ -378,6 +378,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
   - Final Fantasy XIII-2: Requiem of the Goddess (2012) -- type label DLC of Final Fantasy XIII-2 (2011); platforms shown: Xbox 360, PlayStation 3; released 2012-05-15
     - https://www.igdb.com/games/final-fantasy-xiii-2-requiem-of-the-goddess -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; PlayStation 3用ソフト category, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト -- membership -- accessed 2026-11-03 (category page revision 104487858 of 2025-04-14; members read through the MediaWiki API); archived: TODO
+  - Member: ファイナルファンタジーXIII-2
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII-2 -- the article of that member (revision 110335847 of 2026-07-19) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.
