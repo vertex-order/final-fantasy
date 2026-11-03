@@ -346,6 +346,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - Row (1997年): ファイナルファンタジーVII; 1997-01-31; スクウェア; note: ファイナルファンタジーシリーズナンバリング作品第7弾
   - Row (1997年): ファイナルファンタジーVII インターナショナル; 1997-10-02; スクウェア; note: 『ファイナルファンタジーVII』の内容強化版; プレイステーション クラシック内蔵ソフト
 
+## ja.wikipedia.org (Information; NINTENDO 64 game title list, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/NINTENDO_64のゲームタイトル一覧 -- unreleased platform (64DD) -- accessed 2026-11-03 (read through the MediaWiki API, revision 110145160 of 2026-07-03); archived: TODO
+  - Lists the NINTENDO 64 and 64DD games released in Japan, with North America and Europe dates, and the unreleased titles; rows in the unreleased section are title, publisher, format, note
+  - Row (発売されなかったタイトル): ファイナルファンタジーVII; スクウェア; 64DD; note: PlayStationに移行。
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジーVII -- the article linked from that row -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
+
 ## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
 
 - https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section ふ) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
