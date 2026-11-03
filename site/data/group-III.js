@@ -101,7 +101,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
         ],
         platforms: [
           { key: 'windows' },
-          { key: 'gog', paren: 'PC', url: 'https://www.gog.com/en/game/final_fantasy_iii_3d_remake' },
+          { key: 'gog', paren: 'Digital', url: 'https://www.gog.com/en/game/final_fantasy_iii_3d_remake' },
           { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/agecheck/app/239120/' },
         ],
         versions: [

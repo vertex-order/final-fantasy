@@ -28,7 +28,7 @@ window.__ffGroupReg['VIII'] = { num: 'VIII', chronoOrder: 800, narrativeOrder: 8
       ],
       length: [{ value: '38h', tip: 'Main Story', join: ' / ' }, { value: '52½h', tip: 'Main + Extra', join: ' / ' }, { value: '75½h', tip: 'Completionist' }],
       platforms: [
-        { key: 'gog', paren: 'PC', url: 'https://www.gog.com/en/game/final_fantasy_viii_remastered' },
+        { key: 'gog', paren: 'Digital', url: 'https://www.gog.com/en/game/final_fantasy_viii_remastered' },
         { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII__REMASTERED/' },
         { key: 'android', url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVIII' },
         { key: 'apple', url: 'https://apps.apple.com/app/final-fantasy-viii-remastered/id1326740784' },

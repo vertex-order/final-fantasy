@@ -793,6 +793,13 @@
 - https://www.igdb.com/search?q=voice+fantasy&type=1 -- IGDB game search for "voice fantasy"; 1916 results, 50 cards on the saved page (relevance order, no further pages saved); no Square Enix Voice Fantasy among the first 50 (Angelique Voice Fantasy, 1996, is another game) -- live page of 2026-11-03, visited and audited; archived: TODO
 - https://www.igdb.com/search?q=world%20of%20final%20fantasy&type=1&utf8=%E2%9C%93 -- IGDB game search for "world of final fantasy"; 9532 results, 50 cards on the saved page (relevance order, no further pages saved) -- live page of 2026-11-03, visited and audited; archived: TODO
 
+## gog.com (Platform; GOG.com catalogue, English storefront, live pages of 2026-11-03)
+
+- https://www.gog.com/en/games?query=final%20fantasy&order=desc:score -- GOG catalogue search for "final fantasy"; 12 games shown; Final Fantasy III (3D Remake), IV (3D Remake), VII, VIII Remastered and IX, the other seven are fuzzy matches on "final" -- live page of 2026-11-03 (GOG.com catalogue, English storefront, not signed in), visited and audited; archived: TODO
+- https://www.gog.com/en/games?query=chocobo&order=desc:score -- GOG catalogue search for "chocobo"; 7 games shown (10 tiles read); no Chocobo game, fuzzy matches only -- live page of 2026-11-03 (GOG.com catalogue, English storefront, not signed in), visited and audited; archived: TODO
+- https://www.gog.com/en/games?developers=square-enix -- GOG catalogue, developer Square Enix; 18 games; Final Fantasy III (3D Remake), IV (3D Remake), VII, VIII Remastered and IX; no other in-scope title -- live page of 2026-11-03 (GOG.com catalogue, English storefront, not signed in), visited and audited; archived: TODO
+- https://www.gog.com/en/games?publishers=square-enix -- GOG catalogue, publisher Square Enix; 45 games, the 18 developer games among them; the same five Final Fantasy titles; no other in-scope title -- live page of 2026-11-03 (GOG.com catalogue, English storefront, not signed in), visited and audited; archived: TODO
+
 ## Decisions
 
 - **Square Enix Market is not a listed platform (user, 2026-10-25):** a Japan-only Android store; it is audited for Final Fantasy and Chocobo titles the list lacks, and is reconsidered if it is the only way to obtain a title

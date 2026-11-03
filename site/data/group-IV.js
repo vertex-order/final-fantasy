@@ -182,7 +182,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
         ],
         platforms: [
           { key: 'windows' },
-          { key: 'gog', paren: 'PC', url: 'https://www.gog.com/en/game/final_fantasy_iv_3d_remake' },
+          { key: 'gog', paren: 'Digital', url: 'https://www.gog.com/en/game/final_fantasy_iv_3d_remake' },
           { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/' },
           { key: 'apple-arcade', url: 'https://apps.apple.com/app/final-fantasy-iv-3d-remake/id6504607951' },
         ],

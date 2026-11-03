@@ -423,7 +423,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       length: [{ value: '36h', tip: 'Main Story', join: ' / ' }, { value: '49h', tip: 'Main + Extra', join: ' / ' }, { value: '79½h', tip: 'Completionist' }],
       platforms: [
         { key: 'steam', paren: 'PC; Handheld; Digital', url: 'https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII/' },
-        { key: 'gog', paren: 'PC', url: 'https://www.gog.com/en/game/final_fantasy_vii' },
+        { key: 'gog', paren: 'Digital', url: 'https://www.gog.com/en/game/final_fantasy_vii' },
         { key: 'playstation4', paren: 'Digital', url: 'https://www.playstation.com/games/final-fantasy-vii/' },
         { key: 'playstation5', paren: 'PS4 compat', url: 'https://www.playstation.com/games/final-fantasy-vii/' },
         { key: 'playstation-plus-cloud', url: 'https://www.playstation.com/games/final-fantasy-vii/', paren: 'PS4' },
