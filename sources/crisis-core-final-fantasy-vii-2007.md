@@ -320,6 +320,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
 - https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2022年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111248774 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2022年, 12月): クライシス コア -ファイナルファンタジーVII- リユニオン; Japan 2022-12-13; スクウェア・エニックス; パ: ●; CERO: C; no note
+  - https://ja.wikipedia.org/wiki/クライシス_コア_ファイナルファンタジーVII -- the article linked from the 2022 list row クライシス コア -ファイナルファンタジーVII- リユニオン (12月13日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 
 ## ja.wikipedia.org (Information; Nintendo Switch 2 game title list, live page of 2026-10-29)
 

@@ -288,6 +288,7 @@ square-enix.com and stores (Publisher)
 - https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2017年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111384312 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2017年, 発売されたタイトル): 聖剣伝説コレクション (Collection of Mana; the row names no contents); Japan 2017-06-01; スクウェア・エニックス; パ: ●; CERO: B; note: Joy-Con横持ち対応。
+  - https://ja.wikipedia.org/wiki/聖剣伝説コレクション -- the article linked from the 2017 list row 聖剣伝説コレクション (6月1日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 
 ## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
 

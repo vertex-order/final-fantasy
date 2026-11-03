@@ -269,6 +269,7 @@
 - https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2020年) -- dates*, platforms* -- accessed 2026-10-29 (revision 110918503 of 2026-09-06; wikitext read through the MediaWiki API); archived: TODO
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2020年, 発売されたタイトル): ファイナルファンタジー・クリスタルクロニクル リマスター; Japan 2020-08-27; スクウェア・エニックス; パ: ●; CERO: A; note: 他機種間でのクロスプレイ対応
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル -- the article linked from the 2020 list row ファイナルファンタジー・クリスタルクロニクル リマスター (8月27日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 
 ## ja.wikipedia.org (Information; GameCube game title list, live page of 2026-10-29)
 
