@@ -51,6 +51,7 @@
   - Row: ファイナルファンタジータクティクスA2 封穴のグリモア; Japan 2007-10-25; スクウェア・エニックス; note: ニンテンドーDS/ニンテンドーDS Lite以外で機能制限
     - reference link recorded only: http://www.nintendo.co.jp/ds/software/a6fj/index.html
     - reference link recorded only: https://web.archive.org/web/20111210062927/http://www.nintendo.co.jp/ds/software/a6fj/index.html
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクスA2_封穴のグリモア -- the article linked from the 2007 list row ファイナルファンタジータクティクスA2 封穴のグリモア (10月25日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 
 ## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
 

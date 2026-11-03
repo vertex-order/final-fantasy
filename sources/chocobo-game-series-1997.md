@@ -785,6 +785,7 @@
   - Lists the games released in Japan that year, in release order (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark
   - Row: チョコボと魔法の絵本; Japan 2006-12-14; スクウェア・エニックス
     - reference link recorded only: https://www.nintendo.co.jp/ds/software/aehj/index.html
+  - https://ja.wikipedia.org/wiki/チョコボと魔法の絵本 -- the article linked from the 2006 list row チョコボと魔法の絵本 (12月14日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 - https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧_(2008年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111233336 of 2026-10-02; wikitext read through the MediaWiki API); archived: TODO
   - Lists the games released in Japan that year, in release order (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark
   - Row: シドとチョコボの不思議なダンジョン 時忘れの迷宮DS+; Japan 2008-10-30; スクウェア・エニックス; note: Wii用ソフト『チョコボの不思議なダンジョン 時忘れの迷宮』の強化移植
@@ -792,6 +793,7 @@
   - Row: チョコボと魔法の絵本 魔女と少女と5人の勇者; Japan 2008-12-11; スクウェア・エニックス
     - reference link recorded only: http://www.nintendo.co.jp/ds/software/c5yj/index.html
     - reference link recorded only: https://web.archive.org/web/20111210032536/http://www.nintendo.co.jp/ds/software/c5yj/index.html
+  - https://ja.wikipedia.org/wiki/チョコボと魔法の絵本 -- the article linked from the 2008 list row チョコボと魔法の絵本 魔女と少女と5人の勇者 (12月11日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 
 ## ja.wikipedia.org (Information; Game Boy Advance game title list, live page of 2026-10-29)
 

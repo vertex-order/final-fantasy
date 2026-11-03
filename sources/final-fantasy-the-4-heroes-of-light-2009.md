@@ -48,6 +48,7 @@
   - Lists the games released in Japan that year, in release order (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark
   - Row: 光の4戦士 -ファイナルファンタジー外伝-; Japan 2009-10-29; スクウェア・エニックス
     - reference link recorded only: http://game.watch.impress.co.jp/docs/news/302351.html
+  - https://ja.wikipedia.org/wiki/光の4戦士_-ファイナルファンタジー外伝- -- the article linked from the 2009 list row 光の4戦士 -ファイナルファンタジー外伝- (10月29日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 
 ## backloggd.com (Information; Backloggd, live pages of 2026-11-03)
 

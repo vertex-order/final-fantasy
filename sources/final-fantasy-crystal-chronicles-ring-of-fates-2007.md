@@ -54,6 +54,7 @@
     - reference link recorded only: https://news.mynavi.jp/article/20070622-a038/
     - reference link recorded only: https://web.archive.org/web/20250121111951/https://news.mynavi.jp/article/20070622-a038/
     - reference link recorded only: https://www.inside-games.jp/article/2007/06/25/21470.html
+  - https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル_リング・オブ・フェイト -- the article linked from the 2007 list row ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト (8月23日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 
 ## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
 
