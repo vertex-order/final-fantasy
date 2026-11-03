@@ -106,6 +106,22 @@ otakumode.com (Information)
   - Lists the games released in Japan for PlayStation 4 (2018; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2018年): ファイナルファンタジーXV MULTIPLAYER COMRADES; 2018-12-13; スクウェア・エニックス; パ: blank (download only per the legend); note: ｢FINAL FANTASY XV オンライン拡張パック：戦友｣のスタンドアロン版
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy XV Multiplayer: Comrades (2017) -- type label Standalone Expansion; platforms shown: Windows PC, PlayStation 4, Xbox One
+    - https://backloggd.com/games/final-fantasy-xv-multiplayer-comrades--1/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy x" (first 50 of 7511, relevance order); search results for "final fantasy xv" (first 50 of 2746, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy XV Multiplayer: Comrades (2017) -- type label Standalone Expansion of Final Fantasy XV (2016); platforms shown: PlayStation 4, PC (Microsoft Windows), Xbox One; released 2017-11-15
+    - https://www.igdb.com/games/final-fantasy-xv-multiplayer-comrades--1 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV (2016) -- no card of its own on the saved pages; the parent of Final Fantasy XV Multiplayer: Comrades (2017)
+    - https://www.igdb.com/games/final-fantasy-xv -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

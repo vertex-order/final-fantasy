@@ -271,20 +271,40 @@
   - List of 198 titles for WonderSwan, WonderSwan Color-compatible and WonderSwan Color-only, in release order, one table per section (ワンダースワンのタイトル, ワンダースワンカラー対応のタイトル, ワンダースワンカラー専用のタイトル), then その他, 非売品, 専用カートリッジが付属する周辺機器 and 発売されなかったタイトル (columns: Japan release date, title, publisher, note, reference); Japan only, no package or download mark
   - Section ワンダースワンカラー専用のタイトル (Color-only): 魔界塔士Sa・Ga; Japan 2002-03-20; スクウェア; no note (the WonderSwan Color port of Makai Toushi Sa・Ga, Part I)
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy", "saga" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 1642620 COLLECTION of SaGa FINAL FANTASY LEGEND -- no type label; store column: store page link; listed in the "final fantasy" and "saga" search
+  - 1642620 COLLECTION of SaGa FINAL FANTASY LEGEND -- no type label; store column: store page link
     - https://steamdb.info/app/1642620/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/1642620/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy", "saga" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 1642620 COLLECTION of SaGa FINAL FANTASY LEGEND -- listed in the "final fantasy" and "saga" search; release date shown: 21 Oct, 2021; platforms shown: win; review summary: Very Positive -- 80% of the 178 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 1642620 COLLECTION of SaGa FINAL FANTASY LEGEND -- release date shown: 21 Oct, 2021; platforms shown: win; review summary: Very Positive -- 80% of the 178 user reviews for this game are positive.
     - https://store.steampowered.com/app/1642620/COLLECTION_of_SaGa_FINAL_FANTASY_LEGEND/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - The Final Fantasy Legend (1989) -- type label Main Game; platforms shown: Game Boy
+    - https://backloggd.com/games/the-final-fantasy-legend/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: company page of Square (video game publisher, Japan), 2 of 3 saved pages; search results for "world of final fantasy" (first 50 of 9532, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - The Final Fantasy Legend (1989) -- type label Main Game; platforms shown: Game Boy; released 1989-12-15
+    - https://www.igdb.com/games/the-final-fantasy-legend -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy Legend II (1990) -- type label no type label shown; platforms shown: Game Boy
+    - https://www.igdb.com/games/final-fantasy-legend-ii -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy Legend III (1991) -- type label no type label shown; platforms shown: Game Boy
+    - https://www.igdb.com/games/final-fantasy-legend-iii -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Makai Toushi SaGa (2002) -- type label Remake of The Final Fantasy Legend (1989); platforms shown: Mobile, WonderSwan Color
+    - https://www.igdb.com/games/makai-toushi-saga -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

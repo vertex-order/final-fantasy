@@ -60,6 +60,22 @@
   - Index page of the PlayStation 2 game title list: summary, links to the per-year lists, and the tables for 2008 to 2013 and the unreleased titles (date, title, publisher, note)
   - Row (2009年): プレイオンライン/ファイナルファンタジーXI ヴァナ・ディール コレクション2; 2009-11-12; スクウェア・エニックス; note: 『ファイナルファンタジーXI』の拡張ディスクのうち、『ジラートの幻影』から『アルタナの神兵』までの4本を収録
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy XI: Rise of the Zilart (2003) -- type label Expansion; platforms shown: Windows PC, Xbox 360, PlayStation 2
+    - https://backloggd.com/games/final-fantasy-xi-rise-of-the-zilart/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy x" (first 50 of 7511, relevance order); search results for "final fantasy xi" (first 50 of 3189, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy XI: Rise of the Zilart (2003) -- type label Expansion of Final Fantasy XI Online (2002); platforms shown: PlayStation 2, PC (Microsoft Windows), Xbox 360; released 2003-04-17
+    - https://www.igdb.com/games/final-fantasy-xi-rise-of-the-zilart -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XI Online (2002) -- no card of its own on the saved pages; the parent of Final Fantasy XI: Rise of the Zilart (2003)
+    - https://www.igdb.com/games/final-fantasy-xi-online -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

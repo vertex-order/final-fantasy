@@ -149,13 +149,47 @@
   - Lists the games released for Nintendo 3DS (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [◎ package, download card and eShop, △ download card and eShop, □ eShop only, × no download version, blank download only], note)
   - Row: シアトリズム ファイナルファンタジー カーテンコール; Japan 2014-04-24; North America 2014-09-16; Europe 2014-09-19; スクウェア・エニックス; DL: □
 
-## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
-- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "theatrhythm" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
-  - Theatrhythm Final Fantasy: Curtain Call -- result from outside the store; developer shown: Square Enix Business Division 4; "theatrhythm" search, result 3
-    - http://www.jp.square-enix.com/t_ffcc/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Theatrhythm Final Fantasy: Curtain Call - Limited Edition -- result from outside the store; developer shown: indieszero Co., Ltd.; "theatrhythm" search, result 4
-    - https://www.square-enix-games.com/en_US/games/theatrhythm-final-fantasy-curtain-call -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - Theatrhythm Final Fantasy: Curtain Call -- outside-store result (IGDB.com); developer shown: Square Enix Business Division 4
+    - http://www.jp.square-enix.com/t_ffcc/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm Final Fantasy: Curtain Call - Limited Edition -- outside-store result (IGDB.com); developer shown: indieszero Co., Ltd.
+    - https://www.square-enix-games.com/en_US/games/theatrhythm-final-fantasy-curtain-call -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Theatrhythm Final Fantasy: Curtain Call (2014) -- type label Main Game; platforms shown: Nintendo 3DS
+    - https://backloggd.com/games/theatrhythm-final-fantasy-curtain-call/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Theatrhythm Final Fantasy: Curtain Call - Vincent Character (2014) -- type label DLC; platforms shown: Nintendo 3DS
+    - https://backloggd.com/games/theatrhythm-final-fantasy-curtain-call-vincent-character/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm Final Fantasy: Curtain Call - Orlandeau Character (2014) -- type label DLC; platforms shown: Nintendo 3DS
+    - https://backloggd.com/games/theatrhythm-final-fantasy-curtain-call-orlandeau-character/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm Final Fantasy: Curtain Call - Rosa Character (2014) -- type label DLC; platforms shown: Nintendo 3DS
+    - https://backloggd.com/games/theatrhythm-final-fantasy-curtain-call-rosa-character/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm Final Fantasy: Curtain Call - Yuffie Character (2014) -- type label DLC; platforms shown: Nintendo 3DS
+    - https://backloggd.com/games/theatrhythm-final-fantasy-curtain-call-yuffie-character/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "theatrhythm" (all 31 results); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Theatrhythm Final Fantasy: Curtain Call (2014) -- type label Main Game; platforms shown: Nintendo 3DS; released 2014-04-24
+    - https://www.igdb.com/games/theatrhythm-final-fantasy-curtain-call -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm Final Fantasy: Curtain Call - Orlandeau Character (2014) -- type label DLC of Theatrhythm Final Fantasy: Curtain Call (2014); platforms shown: Nintendo 3DS; released 2014-06-04
+    - https://www.igdb.com/games/theatrhythm-final-fantasy-curtain-call-orlandeau-character -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm Final Fantasy: Curtain Call - Yuffie Character (2014) -- type label DLC of Theatrhythm Final Fantasy: Curtain Call (2014); platforms shown: Nintendo 3DS; released 2014-04-24
+    - https://www.igdb.com/games/theatrhythm-final-fantasy-curtain-call-yuffie-character -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm Final Fantasy: Curtain Call - Vincent Character (2014) -- type label DLC of Theatrhythm Final Fantasy: Curtain Call (2014); platforms shown: Nintendo 3DS; released 2014-07-16
+    - https://www.igdb.com/games/theatrhythm-final-fantasy-curtain-call-vincent-character -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm Final Fantasy: Curtain Call - Rosa Character (2014) -- type label DLC of Theatrhythm Final Fantasy: Curtain Call (2014); platforms shown: Nintendo 3DS; released 2014-05-07
+    - https://www.igdb.com/games/theatrhythm-final-fantasy-curtain-call-rosa-character -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm Final Fantasy: Curtain Call - Collector's Edition -- type label Main Game; platforms shown: none shown
+    - https://www.igdb.com/games/theatrhythm-final-fantasy-curtain-call-collectors-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm Final Fantasy: Curtain Call - Limited Edition (2014) -- type label Main Game; platforms shown: Nintendo 3DS; released 2014-09-16
+    - https://www.igdb.com/games/theatrhythm-final-fantasy-curtain-call-limited-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

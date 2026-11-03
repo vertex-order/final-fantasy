@@ -19,4 +19,20 @@
   - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
   - Row (2011年): ディシディア デュオデシム プロログス ファイナルファンタジー; Japan 2011-01-18; North America unreleased; Europe unreleased; スクウェア・エニックス; DL: ▲
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Dissidia 012 Final Fantasy (2011) -- type label Main Game; platforms shown: PlayStation Portable
+    - https://backloggd.com/games/dissidia-012-final-fantasy/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Dissidia Duodecim Prologus: Final Fantasy (2011) -- type label Main Game; platforms shown: PlayStation Portable
+    - https://backloggd.com/games/dissidia-duodecim-prologus-final-fantasy/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "dissidia" (all 17 results); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Dissidia Duodecim Prologus: Final Fantasy (2011) -- type label Main Game; platforms shown: PlayStation Portable; released 2011-01-18
+    - https://www.igdb.com/games/dissidia-duodecim-prologus-final-fantasy -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

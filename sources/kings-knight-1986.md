@@ -202,6 +202,30 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - https://ja.wikipedia.org/wiki/キングスナイト -- platforms*, dates* -- accessed 2026-10-29 (revision 110322217 of 2026-07-18); archived: TODO
   - Ports table row: キングスナイト・スペシャル; 1987-06; PC-8801mkIISR and X1 under one row, no separate X1 date; Square; floppy disk
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - King's Knight (1986) -- type label Main Game; platforms shown: Nintendo 3DS, Wii U, Wii, Family Computer, NES
+    - https://backloggd.com/games/kings-knight/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - King's Knight (1986) -- type label Port; platforms shown: MSX
+    - https://backloggd.com/games/kings-knight--1/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - King's Knight Special (1987) -- type label Port; platforms shown: PC-8800 Series, Sharp X1
+    - https://backloggd.com/games/kings-knight-special/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - King's Knight: Wrath of the Dark Dragon (2017) -- type label Main Game; platforms shown: Android, iOS
+    - https://backloggd.com/games/kings-knight-wrath-of-the-dark-dragon/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: company page of Square (video game publisher, Japan), 1 of 3 saved pages; only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - King's Knight (1986) -- type label no type label shown; platforms shown: famicom, WiiU, 3DS, Wii, NES
+    - https://www.igdb.com/games/kings-knight -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - King's Knight (1986) -- type label Port of King's Knight (1986); platforms shown: MSX
+    - https://www.igdb.com/games/kings-knight--1 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - King's Knight Special (1987) -- type label Port of King's Knight (1986); platforms shown: x1, PC-8800 Series
+    - https://www.igdb.com/games/kings-knight-special -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)

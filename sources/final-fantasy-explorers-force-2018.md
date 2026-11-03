@@ -60,4 +60,18 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (その他の派生作品): ファイナルファンタジー エクスプローラーズ フォース（iOS、Android・2018年3月20日）
 
+## backloggd.com (Information; Backloggd, live pages of 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy Explorers-Force (2018) -- type label Main Game; platforms shown: Android, iOS
+    - https://backloggd.com/games/final-fantasy-explorers-force/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy explorers" (first 50 of 3146, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy Explorers-Force (2018) -- type label Main Game; platforms shown: Android, iOS; released 2018-03-15
+    - https://www.igdb.com/games/final-fantasy-explorers-force -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

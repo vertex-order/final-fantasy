@@ -73,6 +73,20 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (その他の派生作品): ファイナルファンタジー デジタルカードゲーム（FINAL FANTASY DIGITAL CARD GAME）（Yahoo!ゲーム ゲームプラス・2019年7月9日）
 
+## backloggd.com (Information; Backloggd, live pages of 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy Digital Card Game (2019) -- type label Main Game; platforms shown: Windows PC, Android, iOS
+    - https://backloggd.com/games/final-fantasy-digital-card-game/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy digital card game" (first 50 of 10000, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy Digital Card Game (2019) -- type label Main Game; platforms shown: PC (Microsoft Windows), Android, iOS; released 2019-07-09
+    - https://www.igdb.com/games/final-fantasy-digital-card-game -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 - No iOS, Android or PC platform rows (user, 2026-10-20): the claims of those versions (androidayuda, GameFAQs, RPGFan, Siliconera, Eurogamer) come from the time of or before the Yahoo! Game Plus closed beta, the official site, the Yahoo! page and the Twitter account show only the browser game, and the run was a single year, so we decide those versions were cancelled before they materialized, even though they were announced; only the browser row (Yahoo! Game Plus) is listed
 - No description line (user, 2026-10-20): the entry does not say it was a browser game on Yahoo! Game Plus played on PC and smartphones

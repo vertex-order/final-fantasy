@@ -55,4 +55,18 @@
   - Japan: NTT DoCoMo FOMA 903i series (P903i, P903iX, P904i, N904i; pre-installed on the P903i and P903iX HIGH-SPEED); North America: Verizon and Amp'd Mobile
   - Announced at E3 2006 for North America from that summer; the Japanese DoCoMo release was announced in September 2006
 
+## backloggd.com (Information; Backloggd, live pages of 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Dirge of Cerberus Lost Episode: Final Fantasy VII (2006) -- type label Main Game; platforms shown: Legacy Mobile Device
+    - https://backloggd.com/games/dirge-of-cerberus-lost-episode-final-fantasy-vii/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "dirge of cerberus lost episode" (first 50 of 3621, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Dirge of Cerberus Lost Episode: Final Fantasy VII (2006) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2006-08-18
+    - https://www.igdb.com/games/dirge-of-cerberus-lost-episode-final-fantasy-vii -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

@@ -117,18 +117,26 @@
     - http://www.heavenstrikerivals.com/jp/ -- 公式サイト link, listed 2015-08-08 to 2018-06-27 -- link recorded only -- archived: https://web.archive.org/web/20150808003609/http://www.heavenstrikerivals.com/jp/ (last listing: http://www.heavenstrikerivals.com/jp/)
     - https://play.google.com/store/apps/details?id=com.square_enix.HEAVENSTRIKERIVALS_JP -- Google Playでダウンロード link, listed 2018-06-27 -- link recorded only -- archived: TODO
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "heavenstrike" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 441020 Heavenstrike Rivals® -- no type label; store column: blank; listed in the "heavenstrike" search
+  - 441020 Heavenstrike Rivals® -- no type label; store column: blank
     - https://steamdb.info/app/441020/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "heavenstrike" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - The "heavenstrike" search returned no result (0 rows)
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Heavenstrike Rivals (2014) -- type label Main Game; platforms shown: Windows PC, Android, iOS
+    - https://backloggd.com/games/heavenstrike-rivals/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "heavenstrike" (all 1 results); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Heavenstrike Rivals (2014) -- type label Main Game; platforms shown: PC (Microsoft Windows), Android, iOS; released 2014-11-14
+    - https://www.igdb.com/games/heavenstrike-rivals -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

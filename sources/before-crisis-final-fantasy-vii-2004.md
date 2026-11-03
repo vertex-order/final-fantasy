@@ -78,4 +78,18 @@
   - Distributed from 2004-09-24 through the carrier site ファイナルファンタジーモバイル; at first only NTT docomo i-mode FOMA 900i and later; SoftBank Mobile Yahoo!ケータイ from 2007-01-30; au EZweb from 2007-04-05
   - Minigame and extra apps (ゴールドソーサー, バトルスクェア, ウェポンモード) were free separate downloads needed for all content
 
+## backloggd.com (Information; Backloggd, live pages of 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Before Crisis: Final Fantasy VII (2004) -- type label Main Game; platforms shown: Legacy Mobile Device
+    - https://backloggd.com/games/before-crisis-final-fantasy-vii/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy VII" (first 50 of 2880, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Before Crisis: Final Fantasy VII (2004) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2004-09-24
+    - https://www.igdb.com/games/before-crisis-final-fantasy-vii -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

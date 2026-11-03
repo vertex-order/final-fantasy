@@ -44,4 +44,18 @@
   - Row (2016年, overseas year empty): シアトリズム ファイナルファンタジー オールスターカーニバル
   - Publisher タイトー, note NESiCA対応, 開発：インディーズゼロ／スクウェア・エニックス; source cited: ティザーサイト https://www.jp.square-enix.com/t_ffac/
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Theatrhythm Final Fantasy: All-Star Carnival (2016) -- type label Main Game; platforms shown: Arcade
+    - https://backloggd.com/games/theatrhythm-final-fantasy-all-star-carnival/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy all the bravest" (first 50 of 4675, relevance order); search results for "theatrhythm" (all 31 results); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Theatrhythm Final Fantasy: All-Star Carnival (2016) -- type label Main Game; platforms shown: Arcade; released 2016-09-27
+    - https://www.igdb.com/games/theatrhythm-final-fantasy-all-star-carnival -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

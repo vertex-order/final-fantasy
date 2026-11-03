@@ -375,60 +375,88 @@
   - Member: ファイナルファンタジーXIV (the article of the whole XIV series)
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- accessed 2026-10-29 (revision 111444198 of 2026-10-19); archived: TODO
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 39210 FINAL FANTASY XIV Online -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 39210 FINAL FANTASY XIV Online -- no type label; store column: store page link
     - https://steamdb.info/app/39210/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/39210/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 262340 FINAL FANTASY XIV Online Starter Edition (JP) -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 262340 FINAL FANTASY XIV Online Starter Edition (JP) -- type label DLC; store column: blank
     - https://steamdb.info/app/262340/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 262341 FINAL FANTASY XIV Online Starter Edition -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 262341 FINAL FANTASY XIV Online Starter Edition -- type label DLC; store column: blank
     - https://steamdb.info/app/262341/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 262342 FINAL FANTASY XIV Online Starter Edition -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 262342 FINAL FANTASY XIV Online Starter Edition -- type label DLC; store column: blank
     - https://steamdb.info/app/262342/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 267511 FINAL FANTASY® XIV: A Realm Reborn™ CE (NA) -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 267511 FINAL FANTASY® XIV: A Realm Reborn™ CE (NA) -- type label DLC; store column: blank
     - https://steamdb.info/app/267511/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 267512 FINAL FANTASY® XIV: A Realm Reborn™ CE (PAL) -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 267512 FINAL FANTASY® XIV: A Realm Reborn™ CE (PAL) -- type label DLC; store column: blank
     - https://steamdb.info/app/267512/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 376050 FINAL FANTASY XIV Online (NA) -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 376050 FINAL FANTASY XIV Online (NA) -- type label DLC; store column: blank
     - https://steamdb.info/app/376050/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 376070 FINAL FANTASY XIV Online (JP) -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 376070 FINAL FANTASY XIV Online (JP) -- type label DLC; store column: blank
     - https://steamdb.info/app/376070/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 376090 FINAL FANTASY XIV Online (PAL) -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 376090 FINAL FANTASY XIV Online (PAL) -- type label DLC; store column: blank
     - https://steamdb.info/app/376090/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 312060 FINAL FANTASY XIV Online Free Trial -- type label Demo; store column: store page link; listed in the "final fantasy" search
+  - 312060 FINAL FANTASY XIV Online Free Trial -- type label Demo; store column: store page link
     - https://steamdb.info/app/312060/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/312060/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 1795690 Immerse Gamepack FINAL FANTASY™ XIV Online Edition -- type label Application; store column: store page link; listed in the "final fantasy" search
+  - 1795690 Immerse Gamepack FINAL FANTASY™ XIV Online Edition -- type label Application; store column: store page link
     - https://steamdb.info/app/1795690/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/1795690/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 5254200 Immerse Gamepack FINAL FANTASY™ XIV Online Edition Demo -- type label Demo; store column: blank; listed in the "final fantasy" search
+  - 5254200 Immerse Gamepack FINAL FANTASY™ XIV Online Edition Demo -- type label Demo; store column: blank
     - https://steamdb.info/app/5254200/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 1939460 FINAL FANTASY XIV Online Complete Edition (JP) -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 1939460 FINAL FANTASY XIV Online Complete Edition (JP) -- type label DLC; store column: blank
     - https://steamdb.info/app/1939460/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 1939461 FINAL FANTASY XIV Online Complete Edition (NA) -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 1939461 FINAL FANTASY XIV Online Complete Edition (NA) -- type label DLC; store column: blank
     - https://steamdb.info/app/1939461/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 1939462 FINAL FANTASY XIV Online Complete Edition (PAL) -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 1939462 FINAL FANTASY XIV Online Complete Edition (PAL) -- type label DLC; store column: blank
     - https://steamdb.info/app/1939462/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 2649330 FINAL FANTASY XIV Online Complete Edition (EX5 JP) -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 2649330 FINAL FANTASY XIV Online Complete Edition (EX5 JP) -- type label DLC; store column: blank
     - https://steamdb.info/app/2649330/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 2649340 FINAL FANTASY XIV Online Complete Edition (EX5 NA) -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 2649340 FINAL FANTASY XIV Online Complete Edition (EX5 NA) -- type label DLC; store column: blank
     - https://steamdb.info/app/2649340/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 2649350 FINAL FANTASY XIV Online Complete Edition (EX5 PAL) -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 2649350 FINAL FANTASY XIV Online Complete Edition (EX5 PAL) -- type label DLC; store column: blank
     - https://steamdb.info/app/2649350/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 39210 FINAL FANTASY XIV Online -- listed in the "final fantasy" search; release date shown: 18 Feb, 2014; platforms shown: win; review summary: Very Positive -- 86% of the 61,321 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 39210 FINAL FANTASY XIV Online -- release date shown: 18 Feb, 2014; platforms shown: win; review summary: Very Positive -- 86% of the 61,321 user reviews for this game are positive.
     - https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 312060 FINAL FANTASY XIV Online Free Trial -- listed in the "final fantasy" search; release date shown: 5 Nov, 2014; platforms shown: win; review summary: Mixed -- 57% of the 1,401 user reviews for this game are positive.
+  - 312060 FINAL FANTASY XIV Online Free Trial -- release date shown: 5 Nov, 2014; platforms shown: win; review summary: Mixed -- 57% of the 1,401 user reviews for this game are positive.
     - https://store.steampowered.com/app/312060/FINAL_FANTASY_XIV_Online_Free_Trial/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 1795690 Immerse Gamepack FINAL FANTASY™ XIV Online Edition -- listed in the "final fantasy" search; release date shown: 15 Apr, 2026; platforms shown: win; review summary: Mixed -- 50% of the 10 user reviews for this software are positive.
+  - 1795690 Immerse Gamepack FINAL FANTASY™ XIV Online Edition -- release date shown: 15 Apr, 2026; platforms shown: win; review summary: Mixed -- 50% of the 10 user reviews for this software are positive.
     - https://store.steampowered.com/app/1795690/Immerse_Gamepack_FINAL_FANTASY_XIV_Online_Edition/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy XIV Online (2013) -- type label Main Game; platforms shown: Windows PC, Mac, Nintendo Switch 2, PlayStation 5, Xbox Series X|S, +2 more
+    - https://backloggd.com/games/final-fantasy-xiv-online--1/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XIV Online (2010) -- type label Main Game; platforms shown: Windows PC, PlayStation 3
+    - https://backloggd.com/games/final-fantasy-xiv-online/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy" (first 50 of 2703, relevance order); search results for "final fantasy 4 heroes of light" (first 50 of 10000, relevance order); search results for "final fantasy all the bravest" (first 50 of 4675, relevance order); search results for "final fantasy awakening" (first 50 of 3157, relevance order); search results for "final fantasy iv the after years" (first 50 of 4801, relevance order); search results for "final fantasy record keeper" (first 50 of 3181, relevance order); search results for "final fantasy renaissance" (first 50 of 2738, relevance order); search results for "final fantasy resonance" (first 50 of 2764, relevance order); search results for "final fantasy x" (first 50 of 7511, relevance order); search results for "final fantasy x-2 last mission" (first 50 of 10000, relevance order); search results for "final fantasy xi" (first 50 of 3189, relevance order); search results for "final fantasy xiv legend of balance" (first 50 of 6196, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy XIV Online (2013) -- type label Main Game; platforms shown: PlayStation 4, PC (Microsoft Windows), Mac, PlayStation 3, PlayStation 5, Xbox Series X, Nintendo Switch 2; released 2013-08-27
+    - https://www.igdb.com/games/final-fantasy-xiv-online--1 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIV: Complete Edition (2017) -- type label Bundle; platforms shown: PlayStation 4, PC (Microsoft Windows), Mac; released 2017-06-20
+    - https://www.igdb.com/games/final-fantasy-xiv-complete-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIV Mobile (2025) -- type label Port of Final Fantasy XIV Online (2013); platforms shown: Android, iOS; released 2025-06-19
+    - https://www.igdb.com/games/final-fantasy-xiv-mobile -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIV Online: Complete Edition (2024) -- type label Bundle; platforms shown: PlayStation 4, PC (Microsoft Windows), Mac, PlayStation 5, Xbox Series X; released 2024-07-02
+    - https://www.igdb.com/games/final-fantasy-xiv-online-complete-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIV Online: Complete Edition (2021) -- type label Bundle; platforms shown: PlayStation 4, PC (Microsoft Windows), Mac, PlayStation 5; released 2021-12-07
+    - https://www.igdb.com/games/final-fantasy-xiv-online-complete-edition--1 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIV Online: Starter Edition (2017) -- type label Bundle; platforms shown: PlayStation 4, PC (Microsoft Windows); released 2017-05-20
+    - https://www.igdb.com/games/final-fantasy-xiv-online-starter-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIV Online: Starter Edition (2024) -- type label Bundle; platforms shown: Xbox Series X; released 2024-03-21
+    - https://www.igdb.com/games/final-fantasy-xiv-online-starter-edition--1 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

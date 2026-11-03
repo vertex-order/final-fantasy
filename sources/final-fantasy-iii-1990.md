@@ -536,34 +536,68 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Section 収録タイトル: one table of 38 rows for both versions; cell colour green = both versions (22), yellow = Japan only (8), red = overseas only (8); columns: Japanese title, overseas title, release year in Japan and overseas, publisher, note
   - Row (yellow, Japan only): ファイナルファンタジーIII; overseas title (未発売); Japan 1990, overseas (未発売); スクウェア; note 海外版には収録なし (not in the overseas version)
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 1173790 FINAL FANTASY III -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 1173790 FINAL FANTASY III -- no type label; store column: store page link
     - https://steamdb.info/app/1173790/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/1173790/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 239120 Final Fantasy III (3D Remake) -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 239120 Final Fantasy III (3D Remake) -- no type label; store column: store page link
     - https://steamdb.info/app/239120/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/239120/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 1173790 FINAL FANTASY III -- listed in the "final fantasy" search; release date shown: 12 Aug, 2021; platforms shown: win; review summary: Very Positive -- 93% of the 1,722 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 1173790 FINAL FANTASY III -- release date shown: 12 Aug, 2021; platforms shown: win; review summary: Very Positive -- 93% of the 1,722 user reviews for this game are positive.
     - https://store.steampowered.com/app/1173790/FINAL_FANTASY_III/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 239120 Final Fantasy III (3D Remake) -- listed in the "final fantasy" search; release date shown: 27 May, 2014; platforms shown: win; review summary: Mostly Positive -- 79% of the 1,716 user reviews for this game are positive.
+  - 239120 Final Fantasy III (3D Remake) -- release date shown: 27 May, 2014; platforms shown: win; review summary: Mostly Positive -- 79% of the 1,716 user reviews for this game are positive.
     - https://store.steampowered.com/app/239120/Final_Fantasy_III_3D_Remake/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
-- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy", "voice fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
-  - Final Fantasy III -- result from outside the store; developer shown: Square Enix Creative Business Unit IV; "final fantasy" search, result 7; "voice fantasy" search, result 13
-    - https://square-enix-games.com/en_US/news/final-fantasy-pixel-remaster -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Final Fantasy III -- result from outside the store; developer shown: Matrix Software; "final fantasy" search, result 13
-    - http://dlgames.square-enix.com/ff/ff3/jp -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - Final Fantasy III -- outside-store result (IGDB.com); developer shown: Square Enix Creative Business Unit IV
+    - https://square-enix-games.com/en_US/news/final-fantasy-pixel-remaster -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy III -- outside-store result (IGDB.com); developer shown: Matrix Software
+    - http://dlgames.square-enix.com/ff/ff3/jp -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy III (2021) -- type label Remaster; platforms shown: Windows PC, Xbox Series X|S, Nintendo Switch, PlayStation 4, Android, +1 more
+    - https://backloggd.com/games/final-fantasy-iii--3/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy III (1994) -- type label Main Game; platforms shown: New Nintendo 3DS, Wii U, Wii, Super Famicom, Super Nintendo Entertainment System
+    - https://backloggd.com/games/final-fantasy-iii--7/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy III (2006) -- type label Remake; platforms shown: Nintendo DS
+    - https://backloggd.com/games/final-fantasy-iii/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy: Pixel Remaster Collection (2021) -- type label Bundle; platforms shown: Windows PC, Xbox Series X|S, Nintendo Switch, PlayStation 4, iOS
+    - https://backloggd.com/games/final-fantasy-pixel-remaster-collection/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Final Fantasy III (1990) -- type label Main Game; platforms shown: Nintendo 3DS, Wii U, Wii, Family Computer
+    - https://backloggd.com/games/final-fantasy-iii--1/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy III (2012) -- type label Remaster; platforms shown: PlayStation Portable
+    - https://backloggd.com/games/final-fantasy-iii--4/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: company page of Square (video game publisher, Japan), 1 of 3 saved pages; search results for "final fantasy artniks" (first 50 of 2703, relevance order); search results for "final fantasy" (first 50 of 2703, relevance order); search results for "final fantasy 4 heroes of light" (first 50 of 10000, relevance order); search results for "final fantasy agito" (first 50 of 2706, relevance order); search results for "final fantasy airborne brigade" (first 50 of 2841, relevance order); search results for "final fantasy all the bravest" (first 50 of 4675, relevance order); search results for "final fantasy awakening" (first 50 of 3157, relevance order); search results for "final fantasy digital card game" (first 50 of 10000, relevance order); search results for "final fantasy dimensions" (first 50 of 3114, relevance order); search results for "final fantasy endless nova" (first 50 of 3443, relevance order); search results for "final fantasy explorers" (first 50 of 3146, relevance order); search results for "final fantasy grandmasters" (first 50 of 2730, relevance order); search results for "final fantasy iv the after years" (first 50 of 4801, relevance order); search results for "final fantasy portal app" (first 50 of 3492, relevance order); search results for "final fantasy record keeper" (first 50 of 3181, relevance order); search results for "final fantasy renaissance" (first 50 of 2738, relevance order); search results for "final fantasy resonance" (first 50 of 2764, relevance order); search results for "final fantasy tactics" (first 50 of 3493, relevance order); search results for "final fantasy unlimited" (first 50 of 2906, relevance order); search results for "final fantasy xv" (first 50 of 2746, relevance order); search results for "mobius final fantasy" (first 50 of 2741, relevance order); search results for "world of final fantasy" (first 50 of 9532, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy III (1990) -- type label Main Game; platforms shown: Wii, Family Computer, Nintendo 3DS, Wii U; released 1990-04-27
+    - https://www.igdb.com/games/final-fantasy-iii--1 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy III (2006) -- type label Remake of Final Fantasy III (1990); platforms shown: Nintendo DS; released 2006-08-24
+    - https://www.igdb.com/games/final-fantasy-iii -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy III (2011) -- type label Port of Final Fantasy III (2006); platforms shown: Android, Windows Phone, Ouya, iOS; released 2011-03-24
+    - https://www.igdb.com/games/final-fantasy-iii--5 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy III (2014) -- type label Port of Final Fantasy III (2011); platforms shown: PC (Microsoft Windows); released 2014-05-27
+    - https://www.igdb.com/games/final-fantasy-iii--6 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy III (2021) -- type label Remaster of Final Fantasy III (1990); platforms shown: PlayStation 4, Nintendo Switch, PC (Microsoft Windows), Android, Xbox Series X, iOS; released 2021-07-28
+    - https://www.igdb.com/games/final-fantasy-iii--3 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy III + Final Fantasy IV: Double Pack Edition (2016) -- type label Bundle; platforms shown: PC (Microsoft Windows); released 2016-09-02
+    - https://www.igdb.com/games/final-fantasy-iii-plus-final-fantasy-iv-double-pack-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

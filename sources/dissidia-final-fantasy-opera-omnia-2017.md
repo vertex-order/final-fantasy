@@ -75,4 +75,18 @@
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: ディシディア ファイナルファンタジー オペラオムニア
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Dissidia Final Fantasy Opera Omnia (2017) -- type label Main Game; platforms shown: Android, iOS
+    - https://backloggd.com/games/dissidia-final-fantasy-opera-omnia/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "dissidia" (all 17 results); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Dissidia Final Fantasy Opera Omnia (2017) -- type label Main Game; platforms shown: Android, iOS; released 2017-02-01
+    - https://www.igdb.com/games/dissidia-final-fantasy-opera-omnia -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

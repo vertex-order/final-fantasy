@@ -84,4 +84,22 @@
   - Index page of the PlayStation 2 game title list: summary, links to the per-year lists, and the tables for 2008 to 2013 and the unreleased titles (date, title, publisher, note)
   - Row (2008年): アルティメットヒッツ ダージュ オブ ケルベロス ファイナルファンタジーVII インターナショナル; 2008-09-04; スクウェア・エニックス; note: 北米版『ダージュ オブ ケルベロス ファイナルファンタジーVII』をもとにリニューアルした作品
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Dirge of Cerberus: Final Fantasy VII (2006) -- type label Main Game; platforms shown: PlayStation 2
+    - https://backloggd.com/games/dirge-of-cerberus-final-fantasy-vii/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Dirge of Cerberus: Final Fantasy VII International (2008) -- type label Port; platforms shown: PlayStation 2
+    - https://backloggd.com/games/dirge-of-cerberus-final-fantasy-vii-international/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "dirge of cerberus lost episode" (first 50 of 3621, relevance order); search results for "final fantasy VII" (first 50 of 2880, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Dirge of Cerberus: Final Fantasy VII (2006) -- type label Main Game; platforms shown: PlayStation 2; released 2006-01-26
+    - https://www.igdb.com/games/dirge-of-cerberus-final-fantasy-vii -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Dirge of Cerberus: Final Fantasy VII International (2008) -- type label Port of Dirge of Cerberus: Final Fantasy VII (2006); platforms shown: PlayStation 2; released 2008-09-04
+    - https://www.igdb.com/games/dirge-of-cerberus-final-fantasy-vii-international -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

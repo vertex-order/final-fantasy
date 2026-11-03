@@ -260,25 +260,49 @@
   - Member: ワールド オブ ファイナルファンタジー
 - https://ja.wikipedia.org/wiki/ワールド_オブ_ファイナルファンタジー -- accessed 2026-10-29 (revision 110503103 of 2026-08-02); archived: TODO
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 552700 WORLD OF FINAL FANTASY® -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 552700 WORLD OF FINAL FANTASY® -- no type label; store column: store page link
     - https://steamdb.info/app/552700/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/552700/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 896680 WORLD OF FINAL FANTASY® MAXIMA Upgrade -- type label DLC; store column: store page link; listed in the "final fantasy" search
+  - 896680 WORLD OF FINAL FANTASY® MAXIMA Upgrade -- type label DLC; store column: store page link
     - https://steamdb.info/app/896680/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/896680/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "chocobo", "final fantasy", "moogle" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 552700 WORLD OF FINAL FANTASY® -- listed in the "chocobo" and "final fantasy" and "moogle" search; release date shown: 21 Nov, 2017; platforms shown: win; review summary: Mostly Positive -- 73% of the 1,485 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 552700 WORLD OF FINAL FANTASY® -- release date shown: 21 Nov, 2017; platforms shown: win; review summary: Mostly Positive -- 73% of the 1,485 user reviews for this game are positive.
     - https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 896680 WORLD OF FINAL FANTASY® MAXIMA Upgrade -- listed in the "final fantasy" search; release date shown: 6 Nov, 2018; platforms shown: win; review summary: Mixed -- 56% of the 78 user reviews for this game are positive.
+  - 896680 WORLD OF FINAL FANTASY® MAXIMA Upgrade -- release date shown: 6 Nov, 2018; platforms shown: win; review summary: Mixed -- 56% of the 78 user reviews for this game are positive.
     - https://store.steampowered.com/app/896680/WORLD_OF_FINAL_FANTASY_MAXIMA_Upgrade/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - World of Final Fantasy (2016) -- type label Main Game; platforms shown: Windows PC, PlayStation 4, PlayStation Vita
+    - https://backloggd.com/games/world-of-final-fantasy/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - World of Final Fantasy: Maxima (2018) -- type label Expanded Game; platforms shown: Windows PC, Nintendo Switch, PlayStation 4, Xbox One
+    - https://backloggd.com/games/world-of-final-fantasy-maxima/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - World of Final Fantasy: Balthier (no year shown) -- type label DLC; platforms shown: none shown
+    - https://backloggd.com/games/world-of-final-fantasy-balthier/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "world of final fantasy" (first 50 of 9532, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - World of Final Fantasy (2016) -- type label Main Game; platforms shown: PlayStation 4, PC (Microsoft Windows), PlayStation Vita; released 2016-10-25
+    - https://www.igdb.com/games/world-of-final-fantasy -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - World of Final Fantasy: Maxima (2018) -- type label Expanded Game of World of Final Fantasy (2016); platforms shown: PlayStation 4, Nintendo Switch, PC (Microsoft Windows), Xbox One; released 2018-11-06
+    - https://www.igdb.com/games/world-of-final-fantasy-maxima -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - World of Final Fantasy: Balthier -- type label DLC of World of Final Fantasy (2016); platforms shown: none shown
+    - https://www.igdb.com/games/world-of-final-fantasy-balthier -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - World of Final Fantasy: Limited Edition (2016) -- type label Main Game; platforms shown: PlayStation 4, PC (Microsoft Windows), PlayStation Vita; released 2016-10-25
+    - https://www.igdb.com/games/world-of-final-fantasy-limited-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

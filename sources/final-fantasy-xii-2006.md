@@ -292,27 +292,49 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2019年, 発売されたタイトル): FINAL FANTASY XII THE ZODIAC AGE; Japan 2019-04-25; スクウェア・エニックス; パ: ●; CERO: B; note: 5.1chサラウンド対応
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 595520 FINAL FANTASY XII THE ZODIAC AGE -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 595520 FINAL FANTASY XII THE ZODIAC AGE -- no type label; store column: store page link
     - https://steamdb.info/app/595520/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/595520/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 595520 FINAL FANTASY XII THE ZODIAC AGE -- listed in the "final fantasy" search; release date shown: 1 Feb, 2018; platforms shown: win; review summary: Very Positive -- 88% of the 5,143 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 595520 FINAL FANTASY XII THE ZODIAC AGE -- release date shown: 1 Feb, 2018; platforms shown: win; review summary: Very Positive -- 88% of the 5,143 user reviews for this game are positive.
     - https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
-- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy", "voice fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
-  - Final Fantasy XII -- result from outside the store; developer shown: Square Enix Product Development Division 4; "final fantasy" search, result 5; "voice fantasy" search, result 10
-    - http://finalfantasyxii.com/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - Final Fantasy XII -- outside-store result (IGDB.com); developer shown: Square Enix Product Development Division 4
+    - http://finalfantasyxii.com/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy XII (2006) -- type label Main Game; platforms shown: PlayStation 2
+    - https://backloggd.com/games/final-fantasy-xii/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XII: The Zodiac Age (2017) -- type label Expanded Game; platforms shown: Windows PC, Nintendo Switch, PlayStation 4, Xbox One
+    - https://backloggd.com/games/final-fantasy-xii-the-zodiac-age/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy artniks" (first 50 of 2703, relevance order); search results for "final fantasy" (first 50 of 2703, relevance order); search results for "final fantasy 4 heroes of light" (first 50 of 10000, relevance order); search results for "final fantasy agito" (first 50 of 2706, relevance order); search results for "final fantasy airborne brigade" (first 50 of 2841, relevance order); search results for "final fantasy all the bravest" (first 50 of 4675, relevance order); search results for "final fantasy awakening" (first 50 of 3157, relevance order); search results for "final fantasy digital card game" (first 50 of 10000, relevance order); search results for "final fantasy dimensions" (first 50 of 3114, relevance order); search results for "final fantasy endless nova" (first 50 of 3443, relevance order); search results for "final fantasy explorers" (first 50 of 3146, relevance order); search results for "final fantasy grandmasters" (first 50 of 2730, relevance order); search results for "final fantasy iv the after years" (first 50 of 4801, relevance order); search results for "final fantasy portal app" (first 50 of 3492, relevance order); search results for "final fantasy record keeper" (first 50 of 3181, relevance order); search results for "final fantasy renaissance" (first 50 of 2738, relevance order); search results for "final fantasy resonance" (first 50 of 2764, relevance order); search results for "final fantasy tactics" (first 50 of 3493, relevance order); search results for "final fantasy unlimited" (first 50 of 2906, relevance order); search results for "final fantasy x" (first 50 of 7511, relevance order); search results for "final fantasy x-2 last mission" (first 50 of 10000, relevance order); search results for "final fantasy xi" (first 50 of 3189, relevance order); search results for "mobius final fantasy" (first 50 of 2741, relevance order); search results for "world of final fantasy" (first 50 of 9532, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy XII (2006) -- type label Main Game; platforms shown: PlayStation 2; released 2006-03-16
+    - https://www.igdb.com/games/final-fantasy-xii -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XII: The Zodiac Age (2017) -- type label Expanded Game of Final Fantasy XII International: Zodiac Job System (2007); platforms shown: PlayStation 4, Nintendo Switch, PC (Microsoft Windows), Xbox One; released 2017-07-11
+    - https://www.igdb.com/games/final-fantasy-xii-the-zodiac-age -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XII: Collector's Edition (2006) -- type label Main Game; platforms shown: PlayStation 2; released 2006-10-31
+    - https://www.igdb.com/games/final-fantasy-xii-collectors-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XII International: Zodiac Job System (2007) -- no card of its own on the saved pages; the parent of Final Fantasy XII: The Zodiac Age (2017)
+    - https://www.igdb.com/games/final-fantasy-xii-international-zodiac-job-system -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
 ## Decisions

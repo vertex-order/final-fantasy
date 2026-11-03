@@ -54,4 +54,20 @@
   - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
   - Row (2011年): ファイナルファンタジーIV コンプリートコレクション; Japan 2011-03-24; North America 2011-04-19; Europe 2011-04-21; スクウェア・エニックス; DL: ●; note: 『ファイナルファンタジーIV』および携帯電話向けに配信されていた後日談「ファイナルファンタジーIV ジ・アフターイヤーズ」などを収録
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy IV: The Complete Collection (2011) -- type label Bundle; platforms shown: PlayStation Portable
+    - https://backloggd.com/games/final-fantasy-iv-the-complete-collection/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy 4 heroes of light" (first 50 of 10000, relevance order); search results for "final fantasy iv the after years" (first 50 of 4801, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy IV: Interlude (2011) -- type label DLC of Final Fantasy IV: The Complete Collection (2011); platforms shown: PlayStation Portable; released 2011-03-24
+    - https://www.igdb.com/games/final-fantasy-iv-interlude -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy IV: The Complete Collection (2011) -- type label Bundle; platforms shown: PlayStation Portable; released 2011-03-24
+    - https://www.igdb.com/games/final-fantasy-iv-the-complete-collection -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

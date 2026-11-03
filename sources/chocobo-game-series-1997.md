@@ -842,16 +842,140 @@
 - https://ja.wikipedia.org/wiki/どこでもチョコボ -- platform, carrier -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 108937215 of 2026-03-28); archived: TODO
   - NTT DoCoMo i-mode only; pre-installed on Mitsubishi Electric mova D-series phones; the D504i has an adventure part (冒険編) and an i-appli standby screen part (待受編); the series ran in several installments, mostly pre-installed; no release dates on the page
 
-## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
-- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "choco", "chocobo" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
-  - Chocobo GP -- result from outside the store; developer shown: Square Enix; "choco" search, result 2; "chocobo" search, result 1
-    - https://square-enix-games.com/chocobo-gp/en-us -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Chocobo's Mystery Dungeon Every Buddy! -- result from outside the store; developer shown: Rocket Studio, Inc.; "choco" search, result 5; "chocobo" search, result 3
-    - https://square-enix-games.com/en_US/games/chocobos-mystery-dungeon-every-buddy -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Final Fantasy Fables: Chocobo Tales -- result from outside the store; developer shown: h.a.n.d. Inc.; "choco" search, result 6; "chocobo" search, result 2
-    - http://www.square-enix.co.jp/chocobo/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - Chocobo GP -- outside-store result (IGDB.com); developer shown: Square Enix
+    - https://square-enix-games.com/chocobo-gp/en-us -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Chocobo's Mystery Dungeon Every Buddy! -- outside-store result (IGDB.com); developer shown: Rocket Studio, Inc.
+    - https://square-enix-games.com/en_US/games/chocobos-mystery-dungeon-every-buddy -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy Fables: Chocobo Tales -- outside-store result (IGDB.com); developer shown: h.a.n.d. Inc.
+    - http://www.square-enix.co.jp/chocobo/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Choco-Mate (no year shown) -- type label Main Game; platforms shown: none shown
+    - https://backloggd.com/games/choco-mate/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo Racing (1999) -- type label Main Game; platforms shown: PlayStation 3, PlayStation Portable, PlayStation
+    - https://backloggd.com/games/chocobo-racing/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo GP (2021) -- type label Main Game; platforms shown: Nintendo Switch, Android, iOS
+    - https://backloggd.com/games/chocobo-gp/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Final Fantasy Fables: Chocobo Tales (2006) -- type label Main Game; platforms shown: Nintendo DS
+    - https://backloggd.com/games/final-fantasy-fables-chocobo-tales/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Final Fantasy Fables: Chocobo's Dungeon (2007) -- type label Main Game; platforms shown: Wii
+    - https://backloggd.com/games/final-fantasy-fables-chocobos-dungeon/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo's Dungeon 2 (1998) -- type label Main Game; platforms shown: PlayStation 3, PlayStation Portable, PlayStation
+    - https://backloggd.com/games/chocobos-dungeon-2/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo GP' (2022) -- type label Main Game; platforms shown: Android
+    - https://backloggd.com/games/chocobo-gp--2/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo's Mystery Dungeon Every Buddy! (2019) -- type label Remaster; platforms shown: Nintendo Switch, PlayStation 4
+    - https://backloggd.com/games/chocobos-mystery-dungeon-every-buddy/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo Panic (2010) -- type label Main Game; platforms shown: iOS
+    - https://backloggd.com/games/chocobo-panic/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo no Fushigi na Dungeon (1997) -- type label Main Game; platforms shown: PlayStation 3, PlayStation Portable, PlayStation
+    - https://backloggd.com/games/chocobo-no-fushigi-na-dungeon/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo no Fushigi na Dungeon for WonderSwan (1999) -- type label Port; platforms shown: WonderSwan
+    - https://backloggd.com/games/chocobo-no-fushigi-na-dungeon-for-wonderswan/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo Land: A Game of Dice (2002) -- type label Main Game; platforms shown: Wii U, PlayStation 3, PlayStation Portable, Game Boy Advance, PlayStation
+    - https://backloggd.com/games/chocobo-land-a-game-of-dice/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Hataraku Chocobo (2000) -- type label Main Game; platforms shown: WonderSwan, WonderSwan Color
+    - https://backloggd.com/games/hataraku-chocobo/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Cid to Chocobo no Fushigi na Dungeon Toki Wasure no Meikyuu DS+ (2008) -- type label Expanded Game; platforms shown: Nintendo DS
+    - https://backloggd.com/games/cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds-plus/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo Stallion (1999) -- type label Main Game; platforms shown: PlayStation 3, PlayStation Portable, PlayStation, PocketStation
+    - https://backloggd.com/games/chocobo-stallion/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo to Mahou no Ehon: Majo to Shoujo to Go-nin no Yuusha (2011) -- type label Main Game; platforms shown: Nintendo DS
+    - https://backloggd.com/games/chocobo-to-mahou-no-ehon-majo-to-shoujo-to-go-nin-no-yuusha/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo's Crystal Tower (2010) -- type label Main Game; platforms shown: Legacy Mobile Device
+    - https://backloggd.com/games/chocobos-crystal-tower/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo Collection (1999) -- type label Bundle; platforms shown: PlayStation
+    - https://backloggd.com/games/chocobo-collection/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Cid and Chocobo's Mysterious Dungeon: Labyrinth of Forgotten Time DS+ (2008) -- type label Main Game; platforms shown: Nintendo DS
+    - https://backloggd.com/games/cid-and-chocobos-mysterious-dungeon-labyrinth-of-forgotten-time-ds-plus/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Doko demo Chocobo (2002) -- type label Main Game; platforms shown: Legacy Mobile Device
+    - https://backloggd.com/games/doko-demo-chocobo/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo Racing 3D (no year shown) -- type label Main Game; platforms shown: Nintendo 3DS
+    - https://backloggd.com/games/chocobo-racing-3d/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo de Mobile (no year shown) -- type label Main Game; platforms shown: none shown
+    - https://backloggd.com/games/chocobo-de-mobile/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo no Chocotto Nouen (2012) -- type label Main Game; platforms shown: Android, iOS
+    - https://backloggd.com/games/chocobo-no-chocotto-nouen/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Final Fantasy Brave Exvius Chocobo Run! (no year shown) -- type label Main Game; platforms shown: none shown
+    - https://backloggd.com/games/final-fantasy-brave-exvius-chocobo-run/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Chocobo no Fushigi Dungeon (1999) -- type label WonderSwan; platforms shown: none shown
+    - https://backloggd.com/games/chocobo-no-fushigi-dungeon/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Dokodemo Chocobo 2: Dasshutsu! Yuureisen (no year shown) -- type label Main Game; platforms shown: none shown
+    - https://backloggd.com/games/dokodemo-chocobo-2-dasshutsu-yuureisen/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Dokodemo Chocobo 3: Taose! Niji-iro Daimaou (no year shown) -- type label Main Game; platforms shown: none shown
+    - https://backloggd.com/games/dokodemo-chocobo-3-taose-niji-iro-daimaou/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Chocobo Kwehst (2021) -- type label Mod; platforms shown: NES
+    - https://backloggd.com/games/chocobo-kwehst/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: company page of Square (video game publisher, Japan), 2 of 3 saved pages; search results for "brave exvius" (first 50 of 349, relevance order); search results for "chocobo" (all 28 results); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Chocobo Racing (1999) -- type label Main Game; platforms shown: PS3, PSP, PS1; released 1999-03-18
+    - https://www.igdb.com/games/chocobo-racing -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo Stallion (1999) -- type label Main Game; platforms shown: PocketStation, PS3, PSP, PS1; released 1999-12-22
+    - https://www.igdb.com/games/chocobo-stallion -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo Collection (1999) -- type label Bundle; platforms shown: PS1; released 1999-12-22
+    - https://www.igdb.com/games/chocobo-collection -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo Land: A Game of Dice (2002) -- type label Main Game; platforms shown: GBA, PS3, WiiU, PSP, PS1; released 2002-12-13
+    - https://www.igdb.com/games/chocobo-land-a-game-of-dice -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Hataraku Chocobo (2000) -- type label Main Game; platforms shown: WonderSwan Color; released 2000-09-21
+    - https://www.igdb.com/games/hataraku-chocobo -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo no Fushigi na Dungeon for WonderSwan (1999) -- type label Port of Chocobo no Fushigi na Dungeon (1997); platforms shown: WonderSwan; released 1999-03-04
+    - https://www.igdb.com/games/chocobo-no-fushigi-na-dungeon-for-wonderswan -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo's Dungeon 2 (1998) -- type label Main Game; platforms shown: PS3, PSP, PS1; released 1998-12-23
+    - https://www.igdb.com/games/chocobos-dungeon-2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo no Fushigi na Dungeon (1997) -- type label Main Game; platforms shown: PS3, PSP, PS1; released 1997-12-22
+    - https://www.igdb.com/games/chocobo-no-fushigi-na-dungeon -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo's Mystery Dungeon Every Buddy! (2019) -- type label Remaster of Final Fantasy Fables: Chocobo's Dungeon (2007); platforms shown: PlayStation 4, Nintendo Switch; released 2019-03-20
+    - https://www.igdb.com/games/chocobos-mystery-dungeon-every-buddy -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo's Crystal Tower (2010) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2010-06-22
+    - https://www.igdb.com/games/chocobos-crystal-tower -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo GP (2021) -- type label Main Game; platforms shown: Nintendo Switch, Android, iOS; released 2021-12-12
+    - https://www.igdb.com/games/chocobo-gp -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo World (1999) -- type label Addon of Final Fantasy VIII (1999); platforms shown: PocketStation; released 1999-02-11
+    - https://www.igdb.com/games/chocobo-world -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo Racing 3D -- type label Main Game; platforms shown: Nintendo 3DS
+    - https://www.igdb.com/games/chocobo-racing-3d -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo GP' (2022) -- type label Main Game; platforms shown: Android; released 2022-01-14
+    - https://www.igdb.com/games/chocobo-gp--2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo Kwehst (2021) -- type label Mod of Moai-kun (1990); platforms shown: Nintendo Entertainment System; released 2021-02-07
+    - https://www.igdb.com/games/chocobo-kwehst -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo Panic (2010) -- type label Main Game; platforms shown: iOS; released 2010-05-24
+    - https://www.igdb.com/games/chocobo-panic -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo de Mobile -- type label Main Game; platforms shown: none shown
+    - https://www.igdb.com/games/chocobo-de-mobile -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo no Chocotto Nouen (2012) -- type label Main Game; platforms shown: Android, iOS; released 2012-12-20
+    - https://www.igdb.com/games/chocobo-no-chocotto-nouen -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Doko demo Chocobo (2002) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2002-05-24
+    - https://www.igdb.com/games/doko-demo-chocobo -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy Fables: Chocobo Tales (2006) -- type label Main Game; platforms shown: Nintendo DS; released 2006-12-14
+    - https://www.igdb.com/games/final-fantasy-fables-chocobo-tales -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Dokodemo Chocobo 2: Dasshutsu! Yuureisen -- type label Main Game; platforms shown: none shown
+    - https://www.igdb.com/games/dokodemo-chocobo-2-dasshutsu-yuureisen -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy Fables: Chocobo's Dungeon (2007) -- type label Main Game; platforms shown: Wii; released 2007-12-13
+    - https://www.igdb.com/games/final-fantasy-fables-chocobos-dungeon -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy Brave Exvius Chocobo Run! -- type label Main Game; platforms shown: none shown
+    - https://www.igdb.com/games/final-fantasy-brave-exvius-chocobo-run -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Chocobo to Mahou no Ehon: Majo to Shoujo to Go-nin no Yuusha (2011) -- type label Main Game; platforms shown: Nintendo DS; released 2011-12-11
+    - https://www.igdb.com/games/chocobo-to-mahou-no-ehon-majo-to-shoujo-to-go-nin-no-yuusha -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Dokodemo Chocobo 3: Taose! Niji-iro Daimaou -- type label Main Game; platforms shown: none shown
+    - https://www.igdb.com/games/dokodemo-chocobo-3-taose-niji-iro-daimaou -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Cid to Chocobo no Fushigi na Dungeon Toki Wasure no Meikyuu DS+ (2008) -- type label Expanded Game of Final Fantasy Fables: Chocobo's Dungeon (2007); platforms shown: Nintendo DS; released 2008-10-30
+    - https://www.igdb.com/games/cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds-plus -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Cid and Chocobo's Mysterious Dungeon: Labyrinth of Forgotten Time DS+ (2008) -- type label Main Game; platforms shown: Nintendo DS; released 2008-11-30
+    - https://www.igdb.com/games/cid-and-chocobos-mysterious-dungeon-labyrinth-of-forgotten-time-ds-plus -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy VIII (1999) -- no card of its own on the saved pages; the parent of Chocobo World (1999)
+    - https://www.igdb.com/games/final-fantasy-viii -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
+  - Moai-kun (1990) -- no card of its own on the saved pages; the parent of Chocobo Kwehst (2021)
+    - https://www.igdb.com/games/moai-kun -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
 ## Decisions
 

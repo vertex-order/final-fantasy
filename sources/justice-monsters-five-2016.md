@@ -91,4 +91,18 @@
   - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
   - ジャスティス モンスターズ ファイブ; ピンボールRPG ※サービス終了; first listed 2023-09-28: release 2016.08.30; icons: Android, iOS, ダウンロード; listed in every capture from 2023-09-28 to live (2026-10-28)
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Justice Monsters Five (2016) -- type label Main Game; platforms shown: Android, iOS
+    - https://backloggd.com/games/justice-monsters-five/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "justice monsters" (first 50 of 2377, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Justice Monsters Five (2016) -- type label Main Game; platforms shown: Android, iOS; released 2016-08-30
+    - https://www.igdb.com/games/justice-monsters-five -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

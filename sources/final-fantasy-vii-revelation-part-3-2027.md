@@ -221,25 +221,76 @@
   - List of the Nintendo Switch 2 games released and announced in Japan, one table per year on one page (columns: release date in three cells, 日本, 北米 and 欧州, a merged cell meaning one date in all three; title, publisher, パ [●: also sold as a package; ■: key-card package; ▲: package holding only a download code; blank: download only], Ed [●: Nintendo Switch 2 Edition; ○: not an Edition, but a Nintendo Switch version is also sold], CERO or IARC rating, note, reference)
   - Row (2027年, 4月): FINAL FANTASY VII REVELATION; Japan, North America and Europe 2027-04-08; スクウェア・エニックス; パ: ■; Ed: blank; CERO: 審査予定; no note
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 4354570 FINAL FANTASY VII REVELATION -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 4354570 FINAL FANTASY VII REVELATION -- no type label; store column: store page link
     - https://steamdb.info/app/4354570/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/4354570/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 4910840 FINAL FANTASY VII REVELATION Story Expansion Pass -- type label DLC; store column: store page link; listed in the "final fantasy" search
+  - 4910840 FINAL FANTASY VII REVELATION Story Expansion Pass -- type label DLC; store column: store page link
     - https://steamdb.info/app/4910840/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/4910840/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "chocobo", "final fantasy", "moogle" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 4354570 FINAL FANTASY VII REVELATION -- listed in the "chocobo" and "final fantasy" and "moogle" search; release date shown: 8 Apr, 2027; platforms shown: win; no review summary shown
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 4354570 FINAL FANTASY VII REVELATION -- release date shown: 8 Apr, 2027; platforms shown: win; no review summary shown
     - https://store.steampowered.com/app/4354570/FINAL_FANTASY_VII_REVELATION/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 4910840 FINAL FANTASY VII REVELATION Story Expansion Pass -- listed in the "final fantasy" search; release date shown: 2027; platforms shown: win; no review summary shown
+  - 4910840 FINAL FANTASY VII REVELATION Story Expansion Pass -- release date shown: 2027; platforms shown: win; no review summary shown
     - https://store.steampowered.com/app/4910840/FINAL_FANTASY_VII_REVELATION_Story_Expansion_Pass/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - FINAL FANTASY VII REVELATION -- type label Base Game
+    - https://store.epicgames.com/p/final-fantasy-vii-revelation -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - FINAL FANTASY VII REVELATION Premium Edition -- type label Edition
+    - https://store.epicgames.com/p/final-fantasy-vii-revelation--premium-edition -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - FINAL FANTASY VII REVELATION Premium Plus Edition -- type label Edition
+    - https://store.epicgames.com/p/final-fantasy-vii-revelation--premium-plus-edition -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy VII Revelation (2027) -- type label Remake; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-vii-revelation/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VII Revelation: Premium Plus Edition (2027) -- type label Bundle; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-vii-revelation-premium-plus-edition/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VII Revelation: Story Expansion Pass (2027) -- type label Bundle; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-vii-revelation-story-expansion-pass/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VII Remake Series Trilogy Edition (2027) -- type label Bundle; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-vii-remake-series-trilogy-edition/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VII Revelation: Armor - Nymphwing Bracelet (2027) -- type label Pack / Addon; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-vii-revelation-armor-nymphwing-bracelet/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VII Revelation: Accessory - Risk Taker's Choker (2027) -- type label Pack / Addon; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-vii-revelation-accessory-risk-takers-choker/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VII Revelation: Story DLC 1 - Sephiroth (2028) -- type label DLC; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-vii-revelation-story-dlc-1-sephiroth/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VII Revelation: Accessory - Reclaimant Choker & Survival Set (2027) -- type label Pack / Addon; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-vii-revelation-accessory-reclaimant-choker-and-survival-set/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VII Revelation: Summoning Materia - Polydroid Alexander (2027) -- type label Pack / Addon; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-vii-revelation-summoning-materia-polydroid-alexander/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VII Revelation: Premium Edition (2027) -- type label Bundle; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-vii-revelation-premium-edition/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VII Revelation: Story DLC 2 - Vincent & the Turks (2028) -- type label DLC; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-vii-revelation-story-dlc-2-vincent-and-the-turks/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy VII" (first 50 of 2880, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy VII Revelation (2027) -- type label Remake of Final Fantasy VII (1997); platforms shown: PC (Microsoft Windows), PlayStation 5, Xbox Series X, Nintendo Switch 2; released 2027-04-08
+    - https://www.igdb.com/games/final-fantasy-vii-revelation -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy VII Revelation: Premium Edition (2027) -- type label Bundle; platforms shown: PC (Microsoft Windows), PlayStation 5, Xbox Series X, Nintendo Switch 2; released 2027-04-07
+    - https://www.igdb.com/games/final-fantasy-vii-revelation-premium-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy VII Revelation: Story Expansion Pass (2027) -- type label Bundle; platforms shown: PC (Microsoft Windows), PlayStation 5, Xbox Series X, Nintendo Switch 2; released 2027-12-31
+    - https://www.igdb.com/games/final-fantasy-vii-revelation-story-expansion-pass -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy VII (1997) -- no card of its own on the saved pages; the parent of Final Fantasy VII Revelation (2027)
+    - https://www.igdb.com/games/final-fantasy-vii -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
 ## Decisions

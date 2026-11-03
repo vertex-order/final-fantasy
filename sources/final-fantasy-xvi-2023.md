@@ -202,47 +202,71 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XVI_version_diffe
   - Member: ファイナルファンタジーXVI
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXVI -- accessed 2026-10-29 (revision 111433049 of 2026-10-18); archived: TODO
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 2515020 FINAL FANTASY XVI -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 2515020 FINAL FANTASY XVI -- no type label; store column: store page link
     - https://steamdb.info/app/2515020/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/2515020/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 2738000 FINAL FANTASY XVI DEMO -- type label Demo; store column: store page link; listed in the "final fantasy" search
+  - 2738000 FINAL FANTASY XVI DEMO -- type label Demo; store column: store page link
     - https://steamdb.info/app/2738000/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/2738000/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 2886900 FINAL FANTASY XVI Expansion Pass -- type label DLC; store column: store page link; listed in the "final fantasy" search
+  - 2886900 FINAL FANTASY XVI Expansion Pass -- type label DLC; store column: store page link
     - https://steamdb.info/app/2886900/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/2886900/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 2515020 FINAL FANTASY XVI -- listed in the "final fantasy" search; release date shown: 17 Sep, 2024; platforms shown: win; review summary: Mostly Positive -- 79% of the 13,388 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 2515020 FINAL FANTASY XVI -- release date shown: 17 Sep, 2024; platforms shown: win; review summary: Mostly Positive -- 79% of the 13,388 user reviews for this game are positive.
     - https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 2738000 FINAL FANTASY XVI DEMO -- listed in the "final fantasy" search; release date shown: 19 Aug, 2024; platforms shown: win; review summary: Mixed -- 54% of the 1,828 user reviews for this game are positive.
+  - 2738000 FINAL FANTASY XVI DEMO -- release date shown: 19 Aug, 2024; platforms shown: win; review summary: Mixed -- 54% of the 1,828 user reviews for this game are positive.
     - https://store.steampowered.com/app/2738000/FINAL_FANTASY_XVI_DEMO/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 2886900 FINAL FANTASY XVI Expansion Pass -- listed in the "final fantasy" search; release date shown: 17 Sep, 2024; platforms shown: win; review summary: Mostly Positive -- 71% of the 70 user reviews for this game are positive.
+  - 2886900 FINAL FANTASY XVI Expansion Pass -- release date shown: 17 Sep, 2024; platforms shown: win; review summary: Mostly Positive -- 71% of the 70 user reviews for this game are positive.
     - https://store.steampowered.com/app/2886900/FINAL_FANTASY_XVI_Expansion_Pass/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
-- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
-  - FINAL FANTASY XVI -- store result, type label Base Game; listed in the "final fantasy" search
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - FINAL FANTASY XVI -- type label Base Game
     - https://store.epicgames.com/p/final-fantasy-xvi -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - FINAL FANTASY XVI COMPLETE EDITION -- store result, type label Edition; listed in the "final fantasy" search
+  - FINAL FANTASY XVI COMPLETE EDITION -- type label Edition
     - https://store.epicgames.com/p/final-fantasy-xvi-complete-edition-7cfd7c -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - FINAL FANTASY XVI Expansion Pass -- store result, type label Add-On; listed in the "final fantasy" search
+  - FINAL FANTASY XVI Expansion Pass -- type label Add-On
     - https://store.epicgames.com/p/final-fantasy-xvi-final-fantasy-xvi-expansion-pass-c276c3 -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - FINAL FANTASY XVI DEMO -- store result, type label Demo; listed in the "final fantasy" search
+  - FINAL FANTASY XVI DEMO -- type label Demo
     - https://store.epicgames.com/p/final-fantasy-xvi-demo-c289c2 -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-- Epic Games Store product pages, Complete Edition -- saved pages of the live captures read by me -- accessed 2026-10-30
+- Epic Games Store product pages, Complete Edition -- read from saved live pages -- accessed 2026-10-30
   - Two addresses serve the same page: the canonical link and og:url of each name its own address; title, description ("includes the base game, the first DLC "Echoes of the Fallen" and the second DLC "The Rising Tide""), rating (4.7), age rating (Mature 17+), developer and publisher (Square Enix) are the same on both; no redirect between them
-  - https://store.epicgames.com/p/final-fantasy-xvi-complete-edition-7cfd7c -- Epic Games Store page; the address listed in the "final fantasy" search -- live (2026-10-30) -- archived: TODO
-  - https://store.epicgames.com/p/final-fantasy-xvi-complete-edition-be3de8 -- Epic Games Store page; the address a search for the exact title "FINAL FANTASY XVI COMPLETE EDITION" gives (reported by the user, 2026-10-30); same content as the other address, live (2026-10-30) -- archived: TODO
+  - https://store.epicgames.com/p/final-fantasy-xvi-complete-edition-7cfd7c -- Epic Games Store page, live (2026-10-30) -- archived: TODO
+  - https://store.epicgames.com/p/final-fantasy-xvi-complete-edition-be3de8 -- Epic Games Store page; same content as the other address, live (2026-10-30) -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy XVI (2023) -- type label Main Game; platforms shown: Windows PC, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-xvi/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XVI Expansion Pass (2023) -- type label Bundle; platforms shown: Windows PC, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-xvi-expansion-pass/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy artniks" (first 50 of 2703, relevance order); search results for "final fantasy" (first 50 of 2703, relevance order); search results for "final fantasy agito" (first 50 of 2706, relevance order); search results for "final fantasy airborne brigade" (first 50 of 2841, relevance order); search results for "final fantasy all the bravest" (first 50 of 4675, relevance order); search results for "final fantasy awakening" (first 50 of 3157, relevance order); search results for "final fantasy dimensions" (first 50 of 3114, relevance order); search results for "final fantasy endless nova" (first 50 of 3443, relevance order); search results for "final fantasy explorers" (first 50 of 3146, relevance order); search results for "final fantasy grandmasters" (first 50 of 2730, relevance order); search results for "final fantasy portal app" (first 50 of 3492, relevance order); search results for "final fantasy record keeper" (first 50 of 3181, relevance order); search results for "final fantasy renaissance" (first 50 of 2738, relevance order); search results for "final fantasy resonance" (first 50 of 2764, relevance order); search results for "final fantasy tactics" (first 50 of 3493, relevance order); search results for "final fantasy unlimited" (first 50 of 2906, relevance order); search results for "final fantasy x" (first 50 of 7511, relevance order); search results for "final fantasy x-2 last mission" (first 50 of 10000, relevance order); search results for "final fantasy xv" (first 50 of 2746, relevance order); search results for "mobius final fantasy" (first 50 of 2741, relevance order); search results for "world of final fantasy" (first 50 of 9532, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy XVI (2023) -- type label Main Game; platforms shown: PC (Microsoft Windows), PlayStation 5, Xbox Series X; released 2023-06-22
+    - https://www.igdb.com/games/final-fantasy-xvi -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XVI: Collector's Edition (2023) -- type label Main Game; platforms shown: PlayStation 5; released 2023-06-22
+    - https://www.igdb.com/games/final-fantasy-xvi-collectors-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XVI: Deluxe Edition (2023) -- type label Main Game; platforms shown: PlayStation 5; released 2023-06-22
+    - https://www.igdb.com/games/final-fantasy-xvi-deluxe-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XVI Expansion Pass (2023) -- type label Bundle; platforms shown: PC (Microsoft Windows), PlayStation 5, Xbox Series X; released 2023-12-08
+    - https://www.igdb.com/games/final-fantasy-xvi-expansion-pass -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XVI: Complete Edition (2024) -- type label Bundle; platforms shown: PC (Microsoft Windows), PlayStation 5, Xbox Series X; released 2024-09-17
+    - https://www.igdb.com/games/final-fantasy-xvi-complete-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

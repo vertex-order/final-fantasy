@@ -67,5 +67,19 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (関連作品): クリスタル・ディフェンダーズ ヴァンガード・ストーム（iOS・2009年5月13日）
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Crystal Defenders: Vanguard Storm (2009) -- type label Main Game; platforms shown: iOS
+    - https://backloggd.com/games/crystal-defenders-vanguard-storm/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "crystal defenders" (first 50 of 1117, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Crystal Defenders: Vanguard Storm (2009) -- type label Main Game; platforms shown: iOS; released 2009-05-13
+    - https://www.igdb.com/games/crystal-defenders-vanguard-storm -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 - Help wanted removed (user, 2026-10-20): the language list is now known

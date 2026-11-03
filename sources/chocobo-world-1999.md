@@ -42,4 +42,20 @@ Tags: `used` · `dup` · `mine` · `empty` · `shallow`
 - sources/final-fantasy-viii-1999.md -- records no Chocobo World support in the G-cluster and Hikari TV Games ports of the 2013 Remaster -- used
 - The Final Fantasy Wiki's PocketStation dates for the United States/Canada and Europe/Australia contradict both wikis' statement that the handheld was never released outside Japan -- shallow
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Chocobo World (1999) -- type label Pack / Addon; platforms shown: PocketStation
+    - https://backloggd.com/games/chocobo-world/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "chocobo" (all 28 results); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Chocobo World (1999) -- type label Addon of Final Fantasy VIII (1999); platforms shown: PocketStation; released 1999-02-11
+    - https://www.igdb.com/games/chocobo-world -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy VIII (1999) -- no card of its own on the saved pages; the parent of Chocobo World (1999)
+    - https://www.igdb.com/games/final-fantasy-viii -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
+
 ## Decisions

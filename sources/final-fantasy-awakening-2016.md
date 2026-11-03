@@ -86,5 +86,19 @@ en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_Awakening#Release, tex
   - States a plan only; no page read says a Windows version was released
   - Co-developed by Square Enix and Perfect World; shares its world with the 2011 PSP game Final Fantasy Type-0 (零式); item-billing, free to play
 
+## backloggd.com (Information; Backloggd, live pages of 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy Awakening (2016) -- type label Main Game; platforms shown: Android, iOS
+    - https://backloggd.com/games/final-fantasy-awakening/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy awakening" (first 50 of 3157, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy Awakening (2016) -- type label Main Game; platforms shown: Android, iOS; released 2016-12-14
+    - https://www.igdb.com/games/final-fantasy-awakening -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 - Languages are done for now (user, 2026-10-21): the `…?` marker and `helpWanted` are removed. Open leads if wanted later: the OASIS English iOS listing (id1327210765, no working capture found), the PT/ES app (id1377048813, 404 captures) and the Korean store pages (no working captures); the languages are JA (voiced), EN, ID, KO, ZH-CN and ZH-TW

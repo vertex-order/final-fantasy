@@ -48,4 +48,15 @@
     - http://dlgames.square-enix.com/voicefantasy/ -- 公式サイト link, listed 2013-06-15 to 2015-08-08 -- link recorded only -- archived: https://web.archive.org/web/20130615010510/http://dlgames.square-enix.com/voicefantasy/ (last listing: https://web.archive.org/web/20150808003618/http://dlgames.square-enix.com/voicefantasy/)
     - https://www.jp.square-enix.com/game/detail/voicefantasy/ -- 商品詳細 link, listed 2019-03-21 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20190321135553mp_/https://www.jp.square-enix.com/game/detail/voicefantasy/
 
+## backloggd.com (Information; Backloggd, live pages of 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/)
+  - No page for this game; the "voice fantasy" search lists only Angelique Voice Fantasy (user, 2026-11-03)
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "voice fantasy" (first 50 of 1916, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Voice Fantasy -- not in IGDB: no title of that name among the saved results of the search "voice fantasy" (https://www.igdb.com/search?q=voice+fantasy&type=1)
+
 ## Decisions

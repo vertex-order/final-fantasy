@@ -143,4 +143,18 @@
   - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2017年): MONSTER OF THE DEEP: FINAL FANTASY XV; 2017-11-21; スクウェア・エニックス; パ: blank (download only per the legend); V: 専用; note: 『ファイナルファンタジーXV』を題材としたVR釣りゲーム
 
+## backloggd.com (Information; Backloggd, live pages of 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Monster of the Deep: Final Fantasy XV (2017) -- type label Main Game; platforms shown: PlayStation 4, PlayStation VR
+    - https://backloggd.com/games/monster-of-the-deep-final-fantasy-xv/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy x" (first 50 of 7511, relevance order); search results for "final fantasy xv" (first 50 of 2746, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Monster of the Deep: Final Fantasy XV (2017) -- type label Main Game; platforms shown: PlayStation 4, PlayStation VR; released 2017-11-21
+    - https://www.igdb.com/games/monster-of-the-deep-final-fantasy-xv -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

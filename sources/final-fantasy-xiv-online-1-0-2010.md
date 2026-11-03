@@ -63,4 +63,22 @@
   - Member: ファイナルファンタジーXIV (the article of the whole XIV series)
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- accessed 2026-10-29 (revision 111444198 of 2026-10-19); archived: TODO
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy XIV Online (2013) -- type label Main Game; platforms shown: Windows PC, Mac, Nintendo Switch 2, PlayStation 5, Xbox Series X|S, +2 more
+    - https://backloggd.com/games/final-fantasy-xiv-online--1/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XIV Online (2010) -- type label Main Game; platforms shown: Windows PC, PlayStation 3
+    - https://backloggd.com/games/final-fantasy-xiv-online/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy x" (first 50 of 7511, relevance order); search results for "final fantasy x-2 last mission" (first 50 of 10000, relevance order); search results for "final fantasy xi" (first 50 of 3189, relevance order); search results for "final fantasy xiv legend of balance" (first 50 of 6196, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy XIV Online (2010) -- type label Main Game; platforms shown: PC (Microsoft Windows); released 2010-09-30
+    - https://www.igdb.com/games/final-fantasy-xiv-online -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIV: Collector's Edition (2010) -- type label Main Game; platforms shown: PC (Microsoft Windows); released 2010-10-22
+    - https://www.igdb.com/games/final-fantasy-xiv-collectors-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

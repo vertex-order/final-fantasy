@@ -225,22 +225,72 @@
   - Row (2015年, overseas year empty): ディシディア ファイナルファンタジー
   - Publisher タイトー, note NESiCA対応, 開発：コーエーテクモゲームス／スクウェア・エニックス; the title links to ディシディア ファイナルファンタジー (アーケードゲーム); source cited: 公式サイト https://www.jp.square-enix.com/DFF/
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 921590 DISSIDIA FINAL FANTASY NT Free Edition -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 921590 DISSIDIA FINAL FANTASY NT Free Edition -- no type label; store column: store page link
     - https://steamdb.info/app/921590/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/921590/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 1022520 DISSIDIA FINAL FANTASY NT: Story Mode -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 1022520 DISSIDIA FINAL FANTASY NT: Story Mode -- type label DLC; store column: blank
     - https://steamdb.info/app/1022520/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 921590 DISSIDIA FINAL FANTASY NT Free Edition -- listed in the "final fantasy" search; release date shown: 12 Mar, 2019; platforms shown: win; review summary: Mixed -- 42% of the 2,001 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 921590 DISSIDIA FINAL FANTASY NT Free Edition -- release date shown: 12 Mar, 2019; platforms shown: win; review summary: Mixed -- 42% of the 2,001 user reviews for this game are positive.
     - https://store.steampowered.com/app/921590/DISSIDIA_FINAL_FANTASY_NT_Free_Edition/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Dissidia Final Fantasy NT (2018) -- type label Main Game; platforms shown: PlayStation 4
+    - https://backloggd.com/games/dissidia-final-fantasy-nt/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy Arcade (2015) -- type label Main Game; platforms shown: Arcade
+    - https://backloggd.com/games/dissidia-final-fantasy-arcade/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: Free Edition (2019) -- type label Port; platforms shown: Windows PC, PlayStation 4
+    - https://backloggd.com/games/dissidia-final-fantasy-nt-free-edition/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: Samurai App. Set & 5th Weapon for Bartz Klauser (2019) -- type label Pack / Addon; platforms shown: Windows PC
+    - https://backloggd.com/games/dissidia-final-fantasy-nt-samurai-app-set-and-5th-weapon-for-bartz-klauser/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: Songstress's Garb Appearance Set & 5th Weapon for Yuna (2019) -- type label Pack / Addon; platforms shown: Windows PC
+    - https://backloggd.com/games/dissidia-final-fantasy-nt-songstresss-garb-appearance-set-and-5th-weapon-for-yuna/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: 3rd Appearance Special Set for Warrior of Light and Y'shtola (2019) -- type label Pack / Addon; platforms shown: Windows PC
+    - https://backloggd.com/games/dissidia-final-fantasy-nt-3rd-appearance-special-set-for-warrior-of-light-and-yshtola/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: Yuna Starter Pack (no year shown) -- type label Pack / Addon; platforms shown: none shown
+    - https://backloggd.com/games/dissidia-final-fantasy-nt-yuna-starter-pack/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: Snow Villiers Starter Pack (no year shown) -- type label Pack / Addon; platforms shown: none shown
+    - https://backloggd.com/games/dissidia-final-fantasy-nt-snow-villiers-starter-pack/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: Kam'lanaut Starter Pack (no year shown) -- type label Pack / Addon; platforms shown: none shown
+    - https://backloggd.com/games/dissidia-final-fantasy-nt-kamlanaut-starter-pack/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "dissidia" (all 17 results); search results for "final fantasy 4 heroes of light" (first 50 of 10000, relevance order); search results for "final fantasy portal app" (first 50 of 3492, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Dissidia Final Fantasy Arcade (2015) -- type label Main Game; platforms shown: Arcade; released 2015-11-26
+    - https://www.igdb.com/games/dissidia-final-fantasy-arcade -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT (2018) -- type label Main Game; platforms shown: PlayStation 4; released 2018-01-11
+    - https://www.igdb.com/games/dissidia-final-fantasy-nt -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: Free Edition (2019) -- type label Port of Dissidia Final Fantasy NT (2018); platforms shown: PlayStation 4, PC (Microsoft Windows); released 2019-03-12
+    - https://www.igdb.com/games/dissidia-final-fantasy-nt-free-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: Special Steelbook Edition (2018) -- type label Main Game; platforms shown: PlayStation 4; released 2018-01-30
+    - https://www.igdb.com/games/dissidia-final-fantasy-nt-special-steelbook-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: Steelbook Brawler Edition -- type label Main Game; platforms shown: none shown
+    - https://www.igdb.com/games/dissidia-final-fantasy-nt-steelbook-brawler-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: Yuna Starter Pack -- type label Addon of Dissidia Final Fantasy NT: Free Edition (2019); platforms shown: none shown
+    - https://www.igdb.com/games/dissidia-final-fantasy-nt-yuna-starter-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: Kam'lanaut Starter Pack -- type label Addon of Dissidia Final Fantasy NT: Free Edition (2019); platforms shown: none shown
+    - https://www.igdb.com/games/dissidia-final-fantasy-nt-kamlanaut-starter-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: Snow Villiers Starter Pack -- type label Addon of Dissidia Final Fantasy NT: Free Edition (2019); platforms shown: none shown
+    - https://www.igdb.com/games/dissidia-final-fantasy-nt-snow-villiers-starter-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: Samurai App. Set & 5th Weapon for Bartz Klauser (2019) -- type label Addon of Dissidia Final Fantasy NT (2018); platforms shown: PC (Microsoft Windows); released 2019-08-07
+    - https://www.igdb.com/games/dissidia-final-fantasy-nt-samurai-app-set-and-5th-weapon-for-bartz-klauser -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: Songstress's Garb Appearance Set & 5th Weapon for Yuna (2019) -- type label Addon of Dissidia Final Fantasy NT (2018); platforms shown: PC (Microsoft Windows); released 2019-09-11
+    - https://www.igdb.com/games/dissidia-final-fantasy-nt-songstresss-garb-appearance-set-and-5th-weapon-for-yuna -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Dissidia Final Fantasy NT: 3rd Appearance Special Set for Warrior of Light and Y'shtola (2019) -- type label Addon of Dissidia Final Fantasy NT (2018); platforms shown: PC (Microsoft Windows); released 2019-12-04
+    - https://www.igdb.com/games/dissidia-final-fantasy-nt-3rd-appearance-special-set-for-warrior-of-light-and-yshtola -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

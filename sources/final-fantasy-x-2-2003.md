@@ -373,20 +373,64 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
   - Lists no game titles; no Final Fantasy mention
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2 -- article read through the MediaWiki API, revision 111104655 -- accessed 2026-10-29; no mention of Gクラスタ, G-cluster, ひかりTV or DIVE IN; archived: TODO
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 359870 FINAL FANTASY X/X-2 HD Remaster -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 359870 FINAL FANTASY X/X-2 HD Remaster -- no type label; store column: store page link
     - https://steamdb.info/app/359870/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/359870/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 359870 FINAL FANTASY X/X-2 HD Remaster -- listed in the "final fantasy" search; release date shown: 12 May, 2016; platforms shown: win; review summary: Very Positive -- 88% of the 11,473 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 359870 FINAL FANTASY X/X-2 HD Remaster -- release date shown: 12 May, 2016; platforms shown: win; review summary: Very Positive -- 88% of the 11,473 user reviews for this game are positive.
     - https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy X/X-2 HD Remaster (2013) -- type label Bundle; platforms shown: Windows PC, Nintendo Switch 2, Nintendo Switch, PlayStation 4, PlayStation Vita, +2 more
+    - https://backloggd.com/games/final-fantasy-x-slash-x-2-hd-remaster/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy X-2 (2003) -- type label Main Game; platforms shown: PlayStation 2
+    - https://backloggd.com/games/final-fantasy-x-2/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy X-2 HD Remaster (2013) -- type label Remaster; platforms shown: Windows PC, Nintendo Switch, PlayStation 4, PlayStation Vita, Xbox One, +1 more
+    - https://backloggd.com/games/final-fantasy-x-2-hd-remaster/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy X-2: International (2004) -- type label Expanded Game; platforms shown: PlayStation 2
+    - https://backloggd.com/games/final-fantasy-x-2-international/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Final Fantasy X-2 International + Last Mission (2004) -- type label Bundle; platforms shown: PlayStation 2
+    - https://backloggd.com/games/final-fantasy-x-2-international-plus-last-mission/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Final Fantasy X/X-2 HD Remaster: Limited Edition (2014) -- type label Bundle; platforms shown: PlayStation 4, PlayStation 3
+    - https://backloggd.com/games/final-fantasy-x-slash-x-2-hd-remaster-limited-edition--1/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Final Fantasy X/X-2 HD Remaster Twin Pack (2013) -- type label Bundle; platforms shown: PlayStation Vita
+    - https://backloggd.com/games/final-fantasy-x-slash-x-2-hd-remaster-twin-pack/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Final Fantasy X/X-2 Ultimate Box (2005) -- type label Bundle; platforms shown: PlayStation 2
+    - https://backloggd.com/games/final-fantasy-x-slash-x-2-ultimate-box/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: company page of Square (video game publisher, Japan), 1 of 3 saved pages; search results for "final fantasy x" (first 50 of 7511, relevance order); search results for "final fantasy x-2 last mission" (first 50 of 10000, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy X-2 (2003) -- type label Main Game; platforms shown: PS2; released 2003-03-13
+    - https://www.igdb.com/games/final-fantasy-x-2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy X/X-2 HD Remaster (2013) -- type label Bundle; platforms shown: PlayStation 4, Nintendo Switch, PC (Microsoft Windows), PlayStation 3, Xbox One, PlayStation Vita, Nintendo Switch 2; released 2013-12-26
+    - https://www.igdb.com/games/final-fantasy-x-slash-x-2-hd-remaster -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy X-2: International (2004) -- type label Expanded Game of Final Fantasy X-2 (2003); platforms shown: PlayStation 2; released 2004-02-19
+    - https://www.igdb.com/games/final-fantasy-x-2-international -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy X-2 International + Last Mission (2004) -- type label Bundle; platforms shown: PlayStation 2; released 2004-02-19
+    - https://www.igdb.com/games/final-fantasy-x-2-international-plus-last-mission -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy X-2 HD Remaster (2013) -- type label Remaster of Final Fantasy X-2 International + Last Mission (2004); platforms shown: PlayStation 4, Nintendo Switch, PC (Microsoft Windows), PlayStation 3, Xbox One, PlayStation Vita; released 2013-12-26
+    - https://www.igdb.com/games/final-fantasy-x-2-hd-remaster -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy X/X-2 Ultimate Box (2005) -- type label Bundle; platforms shown: PlayStation 2; released 2005-09-08
+    - https://www.igdb.com/games/final-fantasy-x-slash-x-2-ultimate-box -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy X/X-2 HD Remaster: Limited Edition (2014) -- type label Bundle; platforms shown: PlayStation 4, PlayStation 3; released 2014-03-18
+    - https://www.igdb.com/games/final-fantasy-x-slash-x-2-hd-remaster-limited-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy X/X-2 HD Remaster: Collector's Edition (2014) -- type label Bundle; platforms shown: PlayStation 3; released 2014-03-18
+    - https://www.igdb.com/games/final-fantasy-x-slash-x-2-hd-remaster-collectors-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy X/X-2 HD Remaster Twin Pack (2013) -- type label Bundle; platforms shown: PlayStation Vita; released 2013-12-26
+    - https://www.igdb.com/games/final-fantasy-x-slash-x-2-hd-remaster-twin-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

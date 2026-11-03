@@ -105,4 +105,18 @@
   - Category of iPad game software: 186 pages, no subcategories
   - Member: シアトリズム ファイナルファンタジー
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Theatrhythm Final Fantasy (2012) -- type label Main Game; platforms shown: Nintendo 3DS, iOS
+    - https://backloggd.com/games/theatrhythm-final-fantasy/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "theatrhythm" (all 31 results); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Theatrhythm Final Fantasy (2012) -- type label Main Game; platforms shown: Nintendo 3DS, iOS; released 2012-02-16
+    - https://www.igdb.com/games/theatrhythm-final-fantasy -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

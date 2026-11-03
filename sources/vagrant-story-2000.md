@@ -85,11 +85,25 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (関連作品): ベイグラントストーリー（PS・2000年2月10日、GA (PS3・PSP・Vita））
 
-## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
-- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "vagrant story" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
-  - Vagrant Story -- result from outside the store; developer shown: Square Product Development Division 4; "vagrant story" search, result 1
-    - https://www.jp.square-enix.com/game/detail/vagrantstory/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - Vagrant Story -- outside-store result (IGDB.com); developer shown: Square Product Development Division 4
+    - https://www.jp.square-enix.com/game/detail/vagrantstory/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Vagrant Story (2000) -- type label Main Game; platforms shown: PlayStation 3, PlayStation Portable, PlayStation
+    - https://backloggd.com/games/vagrant-story/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: company page of Square (video game publisher, Japan), 1 of 3 saved pages; only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Vagrant Story (2000) -- type label no type label shown; platforms shown: PS3, PSP, PS1
+    - https://www.igdb.com/games/vagrant-story -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

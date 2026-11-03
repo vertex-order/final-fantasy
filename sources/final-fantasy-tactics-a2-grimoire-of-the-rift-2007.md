@@ -52,4 +52,18 @@
     - reference link recorded only: http://www.nintendo.co.jp/ds/software/a6fj/index.html
     - reference link recorded only: https://web.archive.org/web/20111210062927/http://www.nintendo.co.jp/ds/software/a6fj/index.html
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy Tactics A2: Grimoire of the Rift (2007) -- type label Main Game; platforms shown: Nintendo DS
+    - https://backloggd.com/games/final-fantasy-tactics-a2-grimoire-of-the-rift/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy tactics" (first 50 of 3493, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy Tactics A2: Grimoire of the Rift (2007) -- type label Main Game; platforms shown: Nintendo DS; released 2007-10-25
+    - https://www.igdb.com/games/final-fantasy-tactics-a2-grimoire-of-the-rift -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

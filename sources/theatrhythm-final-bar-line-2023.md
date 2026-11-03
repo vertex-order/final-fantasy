@@ -163,11 +163,101 @@
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2023年, パッケージ table): シアトリズム ファイナルバーライン; Japan 2023-02-16; スクウェア・エニックス; パ: ●; CERO: B; no note
 
-## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
-- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "theatrhythm" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
-  - Theatrhythm Final Bar Line -- result from outside the store; developer shown: indieszero Co., Ltd.; "theatrhythm" search, result 2
-    - https://www.jp.square-enix.com/t_fbl/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - Theatrhythm Final Bar Line -- outside-store result (IGDB.com); developer shown: indieszero Co., Ltd.
+    - https://www.jp.square-enix.com/t_fbl/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Theatrhythm Final Bar Line (2023) -- type label Main Game; platforms shown: Nintendo Switch, PlayStation 4
+    - https://backloggd.com/games/theatrhythm-final-bar-line/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Mana Pack (2023) -- type label DLC; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/theatrhythm-final-bar-line-mana-pack/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Mana Pack Vol. 2 (2023) -- type label DLC; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/theatrhythm-final-bar-line-mana-pack-vol-2/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Final Fantasy XVI Pack (2023) -- type label DLC; platforms shown: Nintendo Switch, PlayStation 4
+    - https://backloggd.com/games/theatrhythm-final-bar-line-final-fantasy-xvi-pack/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Bravely Default Pack (2023) -- type label DLC; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/theatrhythm-final-bar-line-bravely-default-pack/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - NieR Pack (2023) -- type label DLC; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/theatrhythm-final-bar-line-nier-pack/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Octopath Traveler Pack (2023) -- type label DLC; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/theatrhythm-final-bar-line-octopath-traveler-pack/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Xenogears Pack (2023) -- type label DLC; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/theatrhythm-final-bar-line-xenogears-pack/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - The World Ends with You Pack (2023) -- type label DLC; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/theatrhythm-final-bar-line-the-world-ends-with-you-pack/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - SaGa Pack Vol. 3 (2023) -- type label DLC; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/theatrhythm-final-bar-line-saga-pack-vol-3/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Chrono: Pack Vol. 2 (2023) -- type label Pack / Addon; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/theatrhythm-final-bar-line-chrono-pack-vol-2/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Live A Live Pack (2023) -- type label DLC; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/theatrhythm-final-bar-line-live-a-live-pack/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Chrono Pack (2023) -- type label DLC; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/theatrhythm-final-bar-line-chrono-pack/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - NieR Pack Vol. 2 (2023) -- type label DLC; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/theatrhythm-final-bar-line-nier-pack-vol-2/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - SaGa Pack (2023) -- type label DLC; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/theatrhythm-final-bar-line-saga-pack/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - SaGa Pack Vol. 2 (2023) -- type label DLC; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/theatrhythm-final-bar-line-saga-pack-vol-2/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Season Pass Vol. 1 (no year shown) -- type label Bundle; platforms shown: none shown
+    - https://backloggd.com/games/theatrhythm-final-bar-line-season-pass-vol-1/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Season Pass Vol. 3 (no year shown) -- type label Bundle; platforms shown: none shown
+    - https://backloggd.com/games/theatrhythm-final-bar-line-season-pass-vol-3/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Season Pass Vol. 2 (no year shown) -- type label Bundle; platforms shown: none shown
+    - https://backloggd.com/games/theatrhythm-final-bar-line-season-pass-vol-2/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy xv" (first 50 of 2746, relevance order); search results for "theatrhythm" (all 31 results); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Theatrhythm: Final Bar Line - Final Fantasy XVI Pack (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: PlayStation 4, Nintendo Switch; released 2023-11-01
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-final-fantasy-xvi-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm Final Bar Line (2023) -- type label Main Game; platforms shown: PlayStation 4, Nintendo Switch; released 2023-02-16
+    - https://www.igdb.com/games/theatrhythm-final-bar-line -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - NieR Pack (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-03-29
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-nier-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Mana Pack (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-06-28
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-mana-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Xenogears Pack (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-09-20
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-xenogears-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - SaGa Pack (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-02-16
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-saga-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Chrono Pack (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-05-17
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-chrono-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Live A Live Pack (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-03-01
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-live-a-live-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Octopath Traveler Pack (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-07-19
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-octopath-traveler-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Bravely Default Pack (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-10-11
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-bravely-default-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Digital Deluxe Edition (2023) -- type label Main Game; platforms shown: PlayStation 4, Nintendo Switch; released 2023-02-16
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-digital-deluxe-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Season Pass Vol. 1 -- type label Bundle; platforms shown: none shown
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-season-pass-vol-1 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Season Pass Vol. 2 -- type label Bundle; platforms shown: none shown
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-season-pass-vol-2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Season Pass Vol. 3 -- type label Bundle; platforms shown: none shown
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-season-pass-vol-3 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Chrono: Pack Vol. 2 (2023) -- type label Addon of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-06-07
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-chrono-pack-vol-2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - SaGa Pack Vol. 2 (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-04-12
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-saga-pack-vol-2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Mana Pack Vol. 2 (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-08-30
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-mana-pack-vol-2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - NieR Pack Vol. 2 (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-04-26
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-nier-pack-vol-2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - SaGa Pack Vol. 3 (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-08-09
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-saga-pack-vol-3 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - Premium Digital Deluxe Edition (2023) -- type label Main Game; platforms shown: PlayStation 4, Nintendo Switch; released 2023-02-16
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-premium-digital-deluxe-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Theatrhythm: Final Bar Line - The World Ends with You Pack (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-03-15
+    - https://www.igdb.com/games/theatrhythm-final-bar-line-the-world-ends-with-you-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

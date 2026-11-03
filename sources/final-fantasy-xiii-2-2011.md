@@ -332,21 +332,51 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
   - Platform line (対応機種) ends: Gクラスタ、G-cluster、Gクラスタ搭載テレビ、ひかりTVゲーム、DIVE IN、Android、iOS
   - No Gクラスタ release date in the infobox (Japan 2011-12-15 listed for the first release)
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 292140 FINAL FANTASY® XIII-2 -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 292140 FINAL FANTASY® XIII-2 -- no type label; store column: store page link
     - https://steamdb.info/app/292140/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/292140/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 292140 FINAL FANTASY® XIII-2 -- listed in the "final fantasy" search; release date shown: 11 Dec, 2014; platforms shown: win; review summary: Mixed -- 58% of the 3,001 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 292140 FINAL FANTASY® XIII-2 -- release date shown: 11 Dec, 2014; platforms shown: win; review summary: Mixed -- 58% of the 3,001 user reviews for this game are positive.
     - https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy XIII-2 (2011) -- type label Main Game; platforms shown: Windows PC, Xbox One, PlayStation 3, Xbox 360
+    - https://backloggd.com/games/final-fantasy-xiii-2/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy x" (first 50 of 7511, relevance order); search results for "final fantasy x-2 last mission" (first 50 of 10000, relevance order); search results for "final fantasy xi" (first 50 of 3189, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy XIII-2 (2011) -- type label Main Game; platforms shown: PC (Microsoft Windows), Xbox 360, PlayStation 3, Xbox One; released 2011-12-15
+    - https://www.igdb.com/games/final-fantasy-xiii-2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIII-2: Collector's Edition (2012) -- type label Main Game; platforms shown: Xbox 360, PlayStation 3; released 2012-03-02
+    - https://www.igdb.com/games/final-fantasy-xiii-2-collectors-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIII-2: Steelbook Edition (2012) -- type label Main Game; platforms shown: Xbox 360, PlayStation 3; released 2012-01-31
+    - https://www.igdb.com/games/final-fantasy-xiii-2-steelbook-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIII-2: Limited Collector's Edition (2012) -- type label Main Game; platforms shown: Xbox 360, PlayStation 3; released 2012-03-02
+    - https://www.igdb.com/games/final-fantasy-xiii-2-limited-collectors-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIII-2 DLC Bundle Pack -- type label Bundle; platforms shown: PlayStation 3
+    - https://www.igdb.com/games/final-fantasy-xiii-2-dlc-bundle-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIII-2: Serah's Outfit Style and Steel -- type label Main Game; platforms shown: none shown
+    - https://www.igdb.com/games/final-fantasy-xiii-2-serahs-outfit-style-and-steel -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIII-2: Perpetual Battlefield (2012) -- type label DLC of Final Fantasy XIII-2 (2011); platforms shown: Xbox 360, PlayStation 3; released 2012-05-15
+    - https://www.igdb.com/games/final-fantasy-xiii-2-perpetual-battlefield -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIII-2: Heads or Tails? (2012) -- type label DLC of Final Fantasy XIII-2 (2011); platforms shown: Xbox 360, PlayStation 3; released 2012-02-28
+    - https://www.igdb.com/games/final-fantasy-xiii-2-heads-or-tails -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIII-2: Requiem of the Goddess (2012) -- type label DLC of Final Fantasy XIII-2 (2011); platforms shown: Xbox 360, PlayStation 3; released 2012-05-15
+    - https://www.igdb.com/games/final-fantasy-xiii-2-requiem-of-the-goddess -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions
 

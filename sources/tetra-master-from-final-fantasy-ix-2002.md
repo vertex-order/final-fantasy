@@ -42,3 +42,24 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
   - Member: テトラマスターFrom FINALFANTASY IX
 - https://ja.wikipedia.org/wiki/テトラマスターFrom_FINALFANTASY_IX -- accessed 2026-10-29 (revision 95436216 of 2023-05-31); archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Tetra Master (2002) -- type label Main Game; platforms shown: Windows PC, PlayStation 2
+    - https://backloggd.com/games/tetra-master/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "tetra master" (first 50 of 2043, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Tetra Master (2002) -- type label Main Game; platforms shown: PlayStation 2, PC (Microsoft Windows); released 2002-05-16
+    - https://www.igdb.com/games/tetra-master -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "tetra master" (first 50 of 2043, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Tetra Master (2002) -- type label Main Game; platforms shown: PlayStation 2, PC (Microsoft Windows); released 2002-05-16
+    - https://www.igdb.com/games/tetra-master -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO

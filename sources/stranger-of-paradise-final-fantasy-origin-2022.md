@@ -230,45 +230,63 @@
   - Lists the games released in Japan for PlayStation 5 (2022; date, title, publisher, パ column [● also sold as a package], online (オ: ● online play, ◎ online only), CERO rating (レ), note)
   - Row (2022年): STRANGER OF PARADISE FINAL FANTASY ORIGIN; 2022-03-18; スクウェア・エニックス; パ: ●; オ: ●; レ: D; note: ファイナルファンタジーシリーズの1作品で、開発にはTeam Ninjaがかかわっている; PlayStation 4版も同日発売、PlayStation 4版からのアップグレードが可能
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 1358700 STRANGER OF PARADISE FINAL FANTASY ORIGIN -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 1358700 STRANGER OF PARADISE FINAL FANTASY ORIGIN -- no type label; store column: store page link
     - https://steamdb.info/app/1358700/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/1358700/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 2252280 STRANGER OF PARADISE FINAL FANTASY ORIGIN - Season Pass -- type label DLC; store column: store page link; listed in the "final fantasy" search
+  - 2252280 STRANGER OF PARADISE FINAL FANTASY ORIGIN - Season Pass -- type label DLC; store column: store page link
     - https://steamdb.info/app/2252280/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/2252280/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 2337570 STRANGER OF PARADISE FINAL FANTASY ORIGIN - Deluxe Upgrade -- type label DLC; store column: store page link; listed in the "final fantasy" search
+  - 2337570 STRANGER OF PARADISE FINAL FANTASY ORIGIN - Deluxe Upgrade -- type label DLC; store column: store page link
     - https://steamdb.info/app/2337570/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/2337570/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 1358700 STRANGER OF PARADISE FINAL FANTASY ORIGIN -- listed in the "final fantasy" search; release date shown: 6 Apr, 2023; platforms shown: win; review summary: Very Positive -- 85% of the 2,328 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 1358700 STRANGER OF PARADISE FINAL FANTASY ORIGIN -- release date shown: 6 Apr, 2023; platforms shown: win; review summary: Very Positive -- 85% of the 2,328 user reviews for this game are positive.
     - https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 2252280 STRANGER OF PARADISE FINAL FANTASY ORIGIN - Season Pass -- listed in the "final fantasy" search; release date shown: 6 Apr, 2023; platforms shown: win; review summary: Mixed -- 43% of the 72 user reviews for this game are positive.
+  - 2252280 STRANGER OF PARADISE FINAL FANTASY ORIGIN - Season Pass -- release date shown: 6 Apr, 2023; platforms shown: win; review summary: Mixed -- 43% of the 72 user reviews for this game are positive.
     - https://store.steampowered.com/app/2252280/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN_Season_Pass/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 2337570 STRANGER OF PARADISE FINAL FANTASY ORIGIN - Deluxe Upgrade -- listed in the "final fantasy" search; release date shown: 6 Apr, 2023; platforms shown: win; review summary: Positive -- 80% of the 10 user reviews for this game are positive.
+  - 2337570 STRANGER OF PARADISE FINAL FANTASY ORIGIN - Deluxe Upgrade -- release date shown: 6 Apr, 2023; platforms shown: win; review summary: Positive -- 80% of the 10 user reviews for this game are positive.
     - https://store.steampowered.com/app/2337570/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN_Deluxe_Upgrade/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 839557 STRANGER OF PARADISE FINAL FANTASY ORIGIN - Deluxe Upgrade -- listed in the "final fantasy" search; release date shown: 6 Apr, 2023; platforms shown: win; review summary: Mixed -- 45% of the 87 user reviews for games in this bundle are positive.
+  - 839557 STRANGER OF PARADISE FINAL FANTASY ORIGIN - Deluxe Upgrade -- release date shown: 6 Apr, 2023; platforms shown: win; review summary: Mixed -- 45% of the 87 user reviews for games in this bundle are positive.
     - https://store.steampowered.com/sub/839557/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
-- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
-  - STRANGER OF PARADISE FINAL FANTASY ORIGIN -- store result, type label Base Game; listed in the "final fantasy" search
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - STRANGER OF PARADISE FINAL FANTASY ORIGIN -- type label Base Game
     - https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - STRANGER OF PARADISE FINAL FANTASY ORIGIN Digital Deluxe Edition -- store result, type label Edition; listed in the "final fantasy" search
+  - STRANGER OF PARADISE FINAL FANTASY ORIGIN Digital Deluxe Edition -- type label Edition
     - https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--digital-deluxe-edition -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - STRANGER OF PARADISE FF ORIGIN SEASON PASS -- store result, type label Add-On; listed in the "final fantasy" search
+  - STRANGER OF PARADISE FF ORIGIN SEASON PASS -- type label Add-On
     - https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--season-pass -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - STRANGER OF PARADISE FINAL FANTASY ORIGIN:Digital Deluxe Upgrade -- store result, type label Add-On; listed in the "final fantasy" search
+  - STRANGER OF PARADISE FINAL FANTASY ORIGIN:Digital Deluxe Upgrade -- type label Add-On
     - https://store.epicgames.com/p/stranger-of-paradise-final-fantasy-origin--digital-deluxe-upgrade -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Stranger of Paradise: Final Fantasy Origin (2022) -- type label Main Game; platforms shown: Windows PC, PlayStation 5, Xbox Series X|S, PlayStation 4, Xbox One, //, Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition
+    - https://backloggd.com/games/stranger-of-paradise-final-fantasy-origin/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy digital card game" (first 50 of 10000, relevance order); search results for "stranger of paradise" (first 50 of 743, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Stranger of Paradise: Final Fantasy Origin (2022) -- type label Main Game; platforms shown: PlayStation 4, PC (Microsoft Windows), Xbox One, PlayStation 5, Xbox Series X; released 2022-03-18
+    - https://www.igdb.com/games/stranger-of-paradise-final-fantasy-origin -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Stranger of Paradise: Final Fantasy Origin - Collector's Edition -- type label Main Game; platforms shown: none shown
+    - https://www.igdb.com/games/stranger-of-paradise-final-fantasy-origin-collectors-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition (2022) -- type label Main Game; platforms shown: PlayStation 4, PC (Microsoft Windows), Xbox One, PlayStation 5, Xbox Series X; released 2022-03-18
+    - https://www.igdb.com/games/stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

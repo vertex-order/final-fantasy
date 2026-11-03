@@ -285,4 +285,22 @@
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: ファイナルファンタジー・クリスタルクロニクル リマスター
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy: Crystal Chronicles (2003) -- type label Main Game; platforms shown: Nintendo GameCube
+    - https://backloggd.com/games/final-fantasy-crystal-chronicles/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy: Crystal Chronicles - Remastered Edition (2020) -- type label Remaster; platforms shown: Nintendo Switch, PlayStation 4, Android, iOS
+    - https://backloggd.com/games/final-fantasy-crystal-chronicles-remastered-edition/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "crystal chronicles" (first 50 of 1578, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy: Crystal Chronicles (2003) -- type label Main Game; platforms shown: Nintendo GameCube; released 2003-08-08
+    - https://www.igdb.com/games/final-fantasy-crystal-chronicles -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy: Crystal Chronicles - Remastered Edition (2020) -- type label Remaster of Final Fantasy: Crystal Chronicles (2003); platforms shown: PlayStation 4, Nintendo Switch, Android, iOS; released 2020-08-27
+    - https://www.igdb.com/games/final-fantasy-crystal-chronicles-remastered-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

@@ -340,14 +340,36 @@
   - Lists the games for the click-wheel iPod (fifth generation, iPod classic, third to fifth generation iPod nano) by release date, Japan time
   - Row (2008年): 12月23日 クリスタル・ディフェンダーズ (スクウェア・エニックス), linked to the クリスタル ガーディアンズ article
 
-## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
-- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "crystal defenders" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
-  - Crystal Defenders R2 -- result from outside the store; developer shown: MSF/Winds; "crystal defenders" search, result 1
-    - http://www.crystaldefenders.jp/jp/wii/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Crystal Defenders R1 -- result from outside the store; developer shown: Square Enix; "crystal defenders" search, result 2
-    - http://www.crystaldefenders.jp/jp/wii/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - Crystal Defenders R2 -- outside-store result (IGDB.com); developer shown: MSF/Winds
+    - http://www.crystaldefenders.jp/jp/wii/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Crystal Defenders R1 -- outside-store result (IGDB.com); developer shown: Square Enix
+    - http://www.crystaldefenders.jp/jp/wii/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Crystal Defenders (2008) -- type label Main Game; platforms shown: PlayStation 3, PlayStation Portable, Xbox 360, Android, iOS
+    - https://backloggd.com/games/crystal-defenders/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Crystal Defenders R1 (2009) -- type label Main Game; platforms shown: Wii
+    - https://backloggd.com/games/crystal-defenders-r1/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Crystal Defenders R2 (2009) -- type label Main Game; platforms shown: Wii
+    - https://backloggd.com/games/crystal-defenders-r2/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "crystal chronicles" (first 50 of 1578, relevance order); search results for "crystal defenders" (first 50 of 1117, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Crystal Defenders (2008) -- type label Main Game; platforms shown: Android, Xbox 360, PlayStation Portable, PlayStation 3, iOS; released 2008-01-28
+    - https://www.igdb.com/games/crystal-defenders -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Crystal Defenders R1 (2009) -- type label Main Game; platforms shown: Wii; released 2009-01-27
+    - https://www.igdb.com/games/crystal-defenders-r1 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Crystal Defenders R2 (2009) -- type label Main Game; platforms shown: Wii; released 2009-02-24
+    - https://www.igdb.com/games/crystal-defenders-r2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits

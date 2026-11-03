@@ -485,38 +485,120 @@ square-enix-games.com (Publisher, official)
   - PlayStation Plus Collection: 18 PS4 titles offered as free play to PS5 owners in Japan, ended 2023-05-09; lists ファイナルファンタジーXV ロイヤルエディション (Square Enix) among the third-party titles
   - Game catalogue and classics catalogue titles are streamable (streaming games, Premium only); the article does not name FFXV as streamable
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 637650 FINAL FANTASY XV WINDOWS EDITION -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 637650 FINAL FANTASY XV WINDOWS EDITION -- no type label; store column: store page link
     - https://steamdb.info/app/637650/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/637650/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 648600 FINAL FANTASY XV WINDOWS EDITION MOD ORGANIZER -- type label Tool; store column: store page link; listed in the "final fantasy" search
+  - 648600 FINAL FANTASY XV WINDOWS EDITION MOD ORGANIZER -- type label Tool; store column: store page link
     - https://steamdb.info/app/648600/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/648600/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 671210 FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO -- type label Demo; store column: store page link; listed in the "final fantasy" search
+  - 671210 FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO -- type label Demo; store column: store page link
     - https://steamdb.info/app/671210/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/671210/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "chocobo", "final fantasy", "moogle" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 637650 FINAL FANTASY XV WINDOWS EDITION -- listed in the "chocobo" and "final fantasy" and "moogle" search; release date shown: 6 Mar, 2018; platforms shown: win; review summary: Very Positive -- 82% of the 18,098 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 637650 FINAL FANTASY XV WINDOWS EDITION -- release date shown: 6 Mar, 2018; platforms shown: win; review summary: Very Positive -- 82% of the 18,098 user reviews for this game are positive.
     - https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 648600 FINAL FANTASY XV WINDOWS EDITION MOD ORGANIZER -- listed in the "final fantasy" search; release date shown: 7 Jun, 2018; platforms shown: win; review summary: Mixed -- 42% of the 52 user reviews for this game are positive.
+  - 648600 FINAL FANTASY XV WINDOWS EDITION MOD ORGANIZER -- release date shown: 7 Jun, 2018; platforms shown: win; review summary: Mixed -- 42% of the 52 user reviews for this game are positive.
     - https://store.steampowered.com/app/648600/FINAL_FANTASY_XV_WINDOWS_EDITION_MOD_ORGANIZER/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 671210 FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO -- listed in the "final fantasy" search; release date shown: 26 Feb, 2018; platforms shown: win; review summary: Very Positive -- 83% of the 260 user reviews for this game are positive.
+  - 671210 FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO -- release date shown: 26 Feb, 2018; platforms shown: win; review summary: Very Positive -- 83% of the 260 user reviews for this game are positive.
     - https://store.steampowered.com/app/671210/FINAL_FANTASY_XV_WINDOWS_EDITION_PLAYABLE_DEMO/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
-- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
-  - Final Fantasy XV -- result from outside the store; developer shown: Square Enix Business Division 2; "final fantasy" search, result 12
-    - http://finalfantasyxv.com/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - Final Fantasy XV -- outside-store result (IGDB.com); developer shown: Square Enix Business Division 2
+    - http://finalfantasyxv.com/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy XV (2016) -- type label Main Game; platforms shown: Windows PC, Nintendo Switch, PlayStation 4, Xbox One, Google Stadia
+    - https://backloggd.com/games/final-fantasy-xv/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Windows Edition (2018) -- type label Port; platforms shown: Windows PC
+    - https://backloggd.com/games/final-fantasy-xv-windows-edition/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Royal Edition (2018) -- type label Expanded Game; platforms shown: PlayStation 4, Xbox One
+    - https://backloggd.com/games/final-fantasy-xv-royal-edition/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: King's Knight Tee (2018) -- type label Pack / Addon; platforms shown: PlayStation 4, Xbox One
+    - https://backloggd.com/games/final-fantasy-xv-kings-knight-tee/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: King's Knight Sticker Set (2018) -- type label Pack / Addon; platforms shown: PlayStation 4, Xbox One
+    - https://backloggd.com/games/final-fantasy-xv-kings-knight-sticker-set/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Memories of King's Knight (2018) -- type label Pack / Addon; platforms shown: PlayStation 4, Xbox One
+    - https://backloggd.com/games/final-fantasy-xv-memories-of-kings-knight/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Pocket Edition (2018) -- type label Remake; platforms shown: Windows PC, Android, iOS
+    - https://backloggd.com/games/final-fantasy-xv-pocket-edition/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Assassin's Festival (2017) -- type label DLC; platforms shown: PlayStation 4
+    - https://backloggd.com/games/final-fantasy-xv-assassins-festival/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV Mobile (no year shown) -- type label Main Game; platforms shown: Android, iOS
+    - https://backloggd.com/games/final-fantasy-xv-mobile/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Royal Pack (2018) -- type label Pack / Addon; platforms shown: PlayStation 4, Xbox One
+    - https://backloggd.com/games/final-fantasy-xv-royal-pack/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Gourmand Set (2016) -- type label Pack / Addon; platforms shown: PlayStation 4, Xbox One
+    - https://backloggd.com/games/final-fantasy-xv-gourmand-set/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Season Pass Upgrade (2016) -- type label PlayStation 4; platforms shown: none shown
+    - https://backloggd.com/games/final-fantasy-xv-season-pass-upgrade/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Holiday Pack (no year shown) -- type label Pack / Addon; platforms shown: none shown
+    - https://backloggd.com/games/final-fantasy-xv-holiday-pack/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Pocket Edition HD (2018) -- type label Remaster; platforms shown: Nintendo Switch, PlayStation 4, Xbox One
+    - https://backloggd.com/games/final-fantasy-xv-pocket-edition-hd/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Noodle Helmet (2017) -- type label Pack / Addon; platforms shown: PlayStation 4, Xbox One
+    - https://backloggd.com/games/final-fantasy-xv-noodle-helmet/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Trendy Outfit (2016) -- type label Pack / Addon; platforms shown: PlayStation 4, Xbox One
+    - https://backloggd.com/games/final-fantasy-xv-trendy-outfit/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Day One Steelbook Edition (2016) -- type label PlayStation 4; platforms shown: Xbox One
+    - https://backloggd.com/games/final-fantasy-xv-day-one-steelbook-edition/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Blue Reflection: Final Fantasy XV Costumes (2017) -- type label Pack / Addon; platforms shown: PlayStation 4, PlayStation Vita
+    - https://backloggd.com/games/blue-reflection-final-fantasy-xv-costumes/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy artniks" (first 50 of 2703, relevance order); search results for "final fantasy" (first 50 of 2703, relevance order); search results for "final fantasy agito" (first 50 of 2706, relevance order); search results for "final fantasy airborne brigade" (first 50 of 2841, relevance order); search results for "final fantasy all the bravest" (first 50 of 4675, relevance order); search results for "final fantasy awakening" (first 50 of 3157, relevance order); search results for "final fantasy dimensions" (first 50 of 3114, relevance order); search results for "final fantasy endless nova" (first 50 of 3443, relevance order); search results for "final fantasy explorers" (first 50 of 3146, relevance order); search results for "final fantasy grandmasters" (first 50 of 2730, relevance order); search results for "final fantasy portal app" (first 50 of 3492, relevance order); search results for "final fantasy record keeper" (first 50 of 3181, relevance order); search results for "final fantasy renaissance" (first 50 of 2738, relevance order); search results for "final fantasy resonance" (first 50 of 2764, relevance order); search results for "final fantasy unlimited" (first 50 of 2906, relevance order); search results for "final fantasy x" (first 50 of 7511, relevance order); search results for "final fantasy x-2 last mission" (first 50 of 10000, relevance order); search results for "final fantasy xi" (first 50 of 3189, relevance order); search results for "final fantasy xv" (first 50 of 2746, relevance order); search results for "mobius final fantasy" (first 50 of 2741, relevance order); search results for "world of final fantasy" (first 50 of 9532, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy XV (2016) -- type label Main Game; platforms shown: PlayStation 4, PC (Microsoft Windows), Xbox One, Google Stadia; released 2016-11-29
+    - https://www.igdb.com/games/final-fantasy-xv -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Royal Edition (2018) -- type label Expanded Game of Final Fantasy XV (2016); platforms shown: PlayStation 4, Xbox One; released 2018-03-06
+    - https://www.igdb.com/games/final-fantasy-xv-royal-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Pocket Edition (2018) -- type label Remake of Final Fantasy XV (2016); platforms shown: PC (Microsoft Windows), Android, iOS; released 2018-02-08
+    - https://www.igdb.com/games/final-fantasy-xv-pocket-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Pocket Edition HD (2018) -- type label Remaster of Final Fantasy XV: Pocket Edition (2018); platforms shown: PlayStation 4, Nintendo Switch, Xbox One; released 2018-09-06
+    - https://www.igdb.com/games/final-fantasy-xv-pocket-edition-hd -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Windows Edition (2018) -- type label Port of Final Fantasy XV (2016); platforms shown: PC (Microsoft Windows); released 2018-03-06
+    - https://www.igdb.com/games/final-fantasy-xv-windows-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Special Edition (2016) -- type label Main Game; platforms shown: PlayStation 4, Xbox One; released 2016-11-29
+    - https://www.igdb.com/games/final-fantasy-xv-special-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Deluxe Edition (2016) -- type label Main Game; platforms shown: PlayStation 4; released 2016-12-29
+    - https://www.igdb.com/games/final-fantasy-xv-deluxe-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Day One Edition (2016) -- type label Main Game; platforms shown: PlayStation 4, Xbox One; released 2016-11-29
+    - https://www.igdb.com/games/final-fantasy-xv-day-one-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Ultimate Collector's Edition (2016) -- type label Main Game; platforms shown: PlayStation 4, Xbox One; released 2016-11-29
+    - https://www.igdb.com/games/final-fantasy-xv-ultimate-collectors-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Royal Pack (2018) -- type label Addon of Final Fantasy XV: Royal Edition (2018); platforms shown: PlayStation 4, Xbox One; released 2018-03-06
+    - https://www.igdb.com/games/final-fantasy-xv-royal-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Holiday Pack -- type label Addon of Final Fantasy XV (2016); platforms shown: none shown
+    - https://www.igdb.com/games/final-fantasy-xv-holiday-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Assassin's Festival (2017) -- type label DLC of Final Fantasy XV (2016); platforms shown: PlayStation 4; released 2017-08-31
+    - https://www.igdb.com/games/final-fantasy-xv-assassins-festival -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Trendy Outfit (2016) -- type label Addon of Final Fantasy XV (2016); platforms shown: PlayStation 4, Xbox One; released 2016-12-21
+    - https://www.igdb.com/games/final-fantasy-xv-trendy-outfit -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Gourmand Set (2016) -- type label Addon of Final Fantasy XV (2016); platforms shown: PlayStation 4, Xbox One; released 2016-11-28
+    - https://www.igdb.com/games/final-fantasy-xv-gourmand-set -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Noodle Helmet (2017) -- type label Addon of Final Fantasy XV (2016); platforms shown: PlayStation 4, Xbox One; released 2017-06-26
+    - https://www.igdb.com/games/final-fantasy-xv-noodle-helmet -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: Memories of King's Knight (2018) -- type label Addon of Final Fantasy XV (2016); platforms shown: PlayStation 4, Xbox One; released 2018-05-09
+    - https://www.igdb.com/games/final-fantasy-xv-memories-of-kings-knight -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: King's Knight Tee (2018) -- type label Addon of Final Fantasy XV (2016); platforms shown: PlayStation 4, Xbox One; released 2018-05-09
+    - https://www.igdb.com/games/final-fantasy-xv-kings-knight-tee -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV: King's Knight Sticker Set (2018) -- type label Addon of Final Fantasy XV (2016); platforms shown: PlayStation 4, Xbox One; released 2018-05-09
+    - https://www.igdb.com/games/final-fantasy-xv-kings-knight-sticker-set -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own

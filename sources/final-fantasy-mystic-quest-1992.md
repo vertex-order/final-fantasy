@@ -99,4 +99,18 @@
   - List of the Super Famicom and Super Nintendo Entertainment System games released worldwide, one table sorted by Japan release date (columns: Japan, North America and Europe dates, title with the overseas title beneath, publisher, note, reference); "未発売" means not released in that region
   - Row: ファイナルファンタジーUSA ミスティッククエスト; Japan 1993-09-10; North America 1992-10-05; Europe 1993-10; スクウェア; note: 北米向けに発売された『ファイナルファンタジー』の逆輸入版
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy: Mystic Quest (1992) -- type label Main Game; platforms shown: Wii U, Wii, Super Famicom, Super Nintendo Entertainment System
+    - https://backloggd.com/games/final-fantasy-mystic-quest/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: company page of Square (video game publisher, Japan), 1 of 3 saved pages; only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy: Mystic Quest (1992) -- type label no type label shown; platforms shown: SNES, SFAM, WiiU, Wii
+    - https://www.igdb.com/games/final-fantasy-mystic-quest -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

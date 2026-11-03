@@ -95,4 +95,18 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ファイナルファンタジー・クリスタルクロニクルシリーズ): 光と闇の姫君と世界征服の塔 ファイナルファンタジー・クリスタルクロニクル（Wiiウェア・2009年6月30日）
 
+## backloggd.com (Information; Backloggd, live pages of 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy: Crystal Chronicles - My Life as a Darklord (2009) -- type label Main Game; platforms shown: Wii
+    - https://backloggd.com/games/final-fantasy-crystal-chronicles-my-life-as-a-darklord/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "crystal chronicles" (first 50 of 1578, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy: Crystal Chronicles - My Life as a Darklord (2009) -- type label Main Game; platforms shown: Wii; released 2009-08-20
+    - https://www.igdb.com/games/final-fantasy-crystal-chronicles-my-life-as-a-darklord -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

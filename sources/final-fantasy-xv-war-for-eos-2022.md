@@ -33,6 +33,20 @@
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ナンバリング作品とその続編): ファイナルファンタジーXV： War for Eos（iOS、Android・2023年2月20日）
 
+## backloggd.com (Information; Backloggd, live pages of 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy XV: War for Eos (2022) -- type label Main Game; platforms shown: Android, iOS
+    - https://backloggd.com/games/final-fantasy-xv-war-for-eos/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy xv" (first 50 of 2746, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy XV: War for Eos (2022) -- type label Main Game; platforms shown: Android, iOS; released 2022-03-21
+    - https://www.igdb.com/games/final-fantasy-xv-war-for-eos -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 - Date is 2022-03-21, the Indonesia, Malaysia and Philippines limited release, not the worldwide 2023-02-16 (user, 2026-10-21)
 - `helpWanted` removed (user, 2026-10-21)

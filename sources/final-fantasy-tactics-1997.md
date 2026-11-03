@@ -534,25 +534,49 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
   - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
   - Member: ファイナルファンタジータクティクス 獅子戦争
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 1004640 FINAL FANTASY TACTICS - The Ivalice Chronicles -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 1004640 FINAL FANTASY TACTICS - The Ivalice Chronicles -- no type label; store column: store page link
     - https://steamdb.info/app/1004640/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/1004640/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 3589750 FINAL FANTASY TACTICS - The Ivalice Chronicles: Pre-order Bonuses -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 3589750 FINAL FANTASY TACTICS - The Ivalice Chronicles: Pre-order Bonuses -- type label DLC; store column: blank
     - https://steamdb.info/app/3589750/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 3589760 FINAL FANTASY TACTICS - The Ivalice Chronicles: Deluxe Edition Bonuses -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 3589760 FINAL FANTASY TACTICS - The Ivalice Chronicles: Deluxe Edition Bonuses -- type label DLC; store column: blank
     - https://steamdb.info/app/3589760/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "chocobo", "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 1004640 FINAL FANTASY TACTICS - The Ivalice Chronicles -- listed in the "chocobo" and "final fantasy" search; release date shown: 30 Sep, 2025; platforms shown: win; review summary: Very Positive -- 91% of the 4,411 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 1004640 FINAL FANTASY TACTICS - The Ivalice Chronicles -- release date shown: 30 Sep, 2025; platforms shown: win; review summary: Very Positive -- 91% of the 4,411 user reviews for this game are positive.
     - https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS_The_Ivalice_Chronicles/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy Tactics: The Ivalice Chronicles (2025) -- type label Remaster; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S, Nintendo Switch, +1 more, //, Final Fantasy Tactics: The Ivalice Chronicles - Deluxe Edition
+    - https://backloggd.com/games/final-fantasy-tactics-the-ivalice-chronicles/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy Tactics (1997) -- type label Main Game; platforms shown: PlayStation 3, PlayStation Portable, PlayStation
+    - https://backloggd.com/games/final-fantasy-tactics/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy Tactics: The War of the Lions (2007) -- type label Expanded Game; platforms shown: PlayStation Portable, Android, iOS
+    - https://backloggd.com/games/final-fantasy-tactics-the-war-of-the-lions/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: company page of Square (video game publisher, Japan), 1 of 3 saved pages; search results for "final fantasy artniks" (first 50 of 2703, relevance order); search results for "final fantasy" (first 50 of 2703, relevance order); search results for "final fantasy agito" (first 50 of 2706, relevance order); search results for "final fantasy airborne brigade" (first 50 of 2841, relevance order); search results for "final fantasy all the bravest" (first 50 of 4675, relevance order); search results for "final fantasy awakening" (first 50 of 3157, relevance order); search results for "final fantasy endless nova" (first 50 of 3443, relevance order); search results for "final fantasy explorers" (first 50 of 3146, relevance order); search results for "final fantasy grandmasters" (first 50 of 2730, relevance order); search results for "final fantasy iv the after years" (first 50 of 4801, relevance order); search results for "final fantasy renaissance" (first 50 of 2738, relevance order); search results for "final fantasy resonance" (first 50 of 2764, relevance order); search results for "final fantasy tactics" (first 50 of 3493, relevance order); search results for "final fantasy unlimited" (first 50 of 2906, relevance order); search results for "mobius final fantasy" (first 50 of 2741, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy Tactics (1997) -- type label Main Game; platforms shown: PlayStation, PlayStation Portable, PlayStation 3; released 1997-06-20
+    - https://www.igdb.com/games/final-fantasy-tactics -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy Tactics: The War of the Lions (2007) -- type label Expanded Game of Final Fantasy Tactics (1997); platforms shown: Android, PlayStation Portable, iOS; released 2007-05-08
+    - https://www.igdb.com/games/final-fantasy-tactics-the-war-of-the-lions -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy Tactics: The Ivalice Chronicles (2025) -- type label Remaster of Final Fantasy Tactics (1997); platforms shown: PlayStation 4, Nintendo Switch, PC (Microsoft Windows), PlayStation 5, Xbox Series X, Nintendo Switch 2; released 2025-09-30
+    - https://www.igdb.com/games/final-fantasy-tactics-the-ivalice-chronicles -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy Tactics: The Ivalice Chronicles - Deluxe Edition (2025) -- type label Main Game; platforms shown: PlayStation 4, Nintendo Switch, Xbox One, PlayStation 5, Xbox Series X; released 2025-09-30
+    - https://www.igdb.com/games/final-fantasy-tactics-the-ivalice-chronicles-deluxe-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions
 

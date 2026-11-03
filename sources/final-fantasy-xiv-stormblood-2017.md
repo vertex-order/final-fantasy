@@ -92,19 +92,39 @@
   - Member: ファイナルファンタジーXIV (the article of the whole XIV series)
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV -- accessed 2026-10-29 (revision 111444198 of 2026-10-19); archived: TODO
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 582380 FINAL FANTASY XIV: Stormblood -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 582380 FINAL FANTASY XIV: Stormblood -- type label DLC; store column: blank
     - https://steamdb.info/app/582380/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 582381 FINAL FANTASY XIV: Stormblood Standard Edition -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 582381 FINAL FANTASY XIV: Stormblood Standard Edition -- type label DLC; store column: blank
     - https://steamdb.info/app/582381/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 582382 FINAL FANTASY XIV: Stormblood Collector's Edition -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 582382 FINAL FANTASY XIV: Stormblood Collector's Edition -- type label DLC; store column: blank
     - https://steamdb.info/app/582382/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 596480 FINAL FANTASY XIV: Stormblood- Pre-purchase Bonus Content -- type label DLC; store column: blank; listed in the "final fantasy" search
+  - 596480 FINAL FANTASY XIV: Stormblood- Pre-purchase Bonus Content -- type label DLC; store column: blank
     - https://steamdb.info/app/596480/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy XIV: Stormblood (2017) -- type label Expansion; platforms shown: Windows PC, Mac, Nintendo Switch 2, PlayStation 5, Xbox Series X|S, +1 more
+    - https://backloggd.com/games/final-fantasy-xiv-stormblood/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy 4 heroes of light" (first 50 of 10000, relevance order); search results for "final fantasy x" (first 50 of 7511, relevance order); search results for "final fantasy x-2 last mission" (first 50 of 10000, relevance order); search results for "final fantasy xi" (first 50 of 3189, relevance order); search results for "final fantasy xiv legend of balance" (first 50 of 6196, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy XIV: Stormblood (2017) -- type label Expansion of Final Fantasy XIV Online (2013); platforms shown: PlayStation 4, PC (Microsoft Windows), Mac, PlayStation 5, Xbox Series X, Nintendo Switch 2; released 2017-06-20
+    - https://www.igdb.com/games/final-fantasy-xiv-stormblood -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIV: Complete Edition (2017) -- type label Bundle; platforms shown: PlayStation 4, PC (Microsoft Windows), Mac; released 2017-06-20
+    - https://www.igdb.com/games/final-fantasy-xiv-complete-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIV: Stormblood - Collector's Edition (2017) -- type label Main Game; platforms shown: PlayStation 4, PC (Microsoft Windows), Mac; released 2017-06-20
+    - https://www.igdb.com/games/final-fantasy-xiv-stormblood-collectors-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XIV Online (2013) -- no card of its own on the saved pages; the parent of Final Fantasy XIV: Stormblood (2017)
+    - https://www.igdb.com/games/final-fantasy-xiv-online--1 -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
 ## Decisions
 

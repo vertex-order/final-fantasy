@@ -71,6 +71,22 @@
   - List of the Xbox 360 games released worldwide, one table on one page ordered by Japan release date (columns: Japan, North America and Europe dates, title, publisher, 媒体 [◎: sold as a package and a download; ○: download only or backward compatible; blank: package or unknown], note, Xbox One以降の後方互換 [○: backward compatible with Xbox One and later], reference); a cell marked "未発売" by the list's Unreleased template means not released in that region
   - Row (2013年): ファイナルファンタジーXI アドゥリンの魔境 拡張データディスク (Final Fantasy XI: Seekers of Adoulin); Japan 2013-03-27; North America 2013-03-26; Europe 2013-03-26; スクウェア・エニックス; 媒体: blank; no note; backward compatibility: blank; reference: Square Enix Japan's Xbox 360 game list https://www.jp.square-enix.com/game/?pf=29 (accessed 2022-10-12); second reference: Dengeki Online, 2012-12-27, announcement of the fifth expansion disc 「アドゥリンの魔境」 for 2013-03-27 with an all-in-one package sold the same day https://dengekionline.com/elem/000/000/578/578704/ (accessed 2024-09-21)
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy XI: Seekers of Adoulin (2013) -- type label Expansion; platforms shown: Windows PC, Xbox 360, PlayStation 2
+    - https://backloggd.com/games/final-fantasy-xi-seekers-of-adoulin/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy xi" (first 50 of 3189, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy XI: Seekers of Adoulin (2013) -- type label Expansion of Final Fantasy XI Online (2002); platforms shown: PlayStation 2, PC (Microsoft Windows), Xbox 360; released 2013-03-27
+    - https://www.igdb.com/games/final-fantasy-xi-seekers-of-adoulin -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XI Online (2002) -- no card of its own on the saved pages; the parent of Final Fantasy XI: Seekers of Adoulin (2013)
+    - https://www.igdb.com/games/final-fantasy-xi-online -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

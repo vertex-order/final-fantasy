@@ -121,4 +121,18 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Record_Keeper_ver
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: ファイナルファンタジー レコードキーパー
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy: Record Keeper (2014) -- type label Main Game; platforms shown: Windows PC, Android, iOS
+    - https://backloggd.com/games/final-fantasy-record-keeper/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy record keeper" (first 50 of 3181, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy: Record Keeper (2014) -- type label Main Game; platforms shown: PC (Microsoft Windows), Android, iOS; released 2014-09-24
+    - https://www.igdb.com/games/final-fantasy-record-keeper -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

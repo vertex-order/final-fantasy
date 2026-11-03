@@ -31,6 +31,22 @@
 - https://www.xbox.com/games/store/final-fantasy-xv-windows-edition/9nr0n2lz6tc5
 - https://www.xbox.com/games/store/final-fantasy-xv-royal-edition/bnmrpflb3pqw
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy XV: Episode Ignis (2017) -- type label DLC; platforms shown: Windows PC, PlayStation 4, Xbox One
+    - https://backloggd.com/games/final-fantasy-xv-episode-ignis/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy x" (first 50 of 7511, relevance order); search results for "final fantasy xv" (first 50 of 2746, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy XV: Episode Ignis (2017) -- type label DLC of Final Fantasy XV (2016); platforms shown: PlayStation 4, PC (Microsoft Windows), Xbox One; released 2017-12-13
+    - https://www.igdb.com/games/final-fantasy-xv-episode-ignis -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XV (2016) -- no card of its own on the saved pages; the parent of Final Fantasy XV: Episode Ignis (2017)
+    - https://www.igdb.com/games/final-fantasy-xv -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

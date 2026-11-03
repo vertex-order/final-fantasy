@@ -74,6 +74,22 @@
   - List of the Xbox 360 games released worldwide, one table on one page ordered by Japan release date (columns: Japan, North America and Europe dates, title, publisher, 媒体 [◎: sold as a package and a download; ○: download only or backward compatible; blank: package or unknown], note, Xbox One以降の後方互換 [○: backward compatible with Xbox One and later], reference); a cell marked "未発売" by the list's Unreleased template means not released in that region
   - Row (2007年): ファイナルファンタジーXI アルタナの神兵 (Final Fantasy XI: Wings of the Goddess); Japan 2007-11-22; North America 2007-11-20; Europe 2007-11-23; スクウェア・エニックス; 媒体: blank; no note; backward compatibility: blank; reference: Square Enix Japan's Xbox 360 game list https://www.jp.square-enix.com/game/?pf=29 (accessed 2022-10-12)
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy XI: Wings of the Goddess (2007) -- type label Expansion; platforms shown: Windows PC, Xbox 360, PlayStation 2
+    - https://backloggd.com/games/final-fantasy-xi-wings-of-the-goddess/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy x" (first 50 of 7511, relevance order); search results for "final fantasy x-2 last mission" (first 50 of 10000, relevance order); search results for "final fantasy xi" (first 50 of 3189, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy XI: Wings of the Goddess (2007) -- type label Expansion of Final Fantasy XI Online (2002); platforms shown: PlayStation 2, PC (Microsoft Windows), Xbox 360; released 2007-11-20
+    - https://www.igdb.com/games/final-fantasy-xi-wings-of-the-goddess -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XI Online (2002) -- no card of its own on the saved pages; the parent of Final Fantasy XI: Wings of the Goddess (2007)
+    - https://www.igdb.com/games/final-fantasy-xi-online -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

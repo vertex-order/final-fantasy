@@ -242,3 +242,16 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - https://ja.wikipedia.org/wiki/ドラゴンクエスト&ファイナルファンタジー in いただきストリート MOBILE -- platforms, release dates -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 107857739 of 2026-01-03); archived: TODO
   - Infobox platforms iアプリ and EZアプリ (BREW); dates: FF version (Final Fantasy in Itadaki Street Mobile) 2010-07-01, Dragon Quest & Final Fantasy version 2011-02-03 (the title and content changed by update); entries 9 and 10 of the Itadaki Street series
   - Follows the Special and Portable crossovers; the earlier mobile title いただきストリートMOBILE どんどん開店!増築中! follows the original world instead
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Itadaki Street Special (2004) -- type label Main Game; platforms shown: PlayStation 2
+    - https://backloggd.com/games/itadaki-street-special/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Dragon Quest & Final Fantasy in Itadaki Street Portable (2006) -- type label Main Game; platforms shown: PlayStation Portable
+    - https://backloggd.com/games/dragon-quest-and-final-fantasy-in-itadaki-street-portable/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary (2017) -- type label Main Game; platforms shown: PlayStation 4, PlayStation Vita
+    - https://backloggd.com/games/itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Dragon Quest & Final Fantasy in Itadaki Street Mobile (no year shown) -- type label Main Game; platforms shown: none shown
+    - https://backloggd.com/games/dragon-quest-and-final-fantasy-in-itadaki-street-mobile/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO

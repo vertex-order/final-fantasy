@@ -417,25 +417,63 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
   - Prose: from 2014-09-18 the cloud game Final Fantasy VIII for ひかりTV is delivered through ひかりTVゲーム; no mention of Gクラスタ or G-cluster in the article
   - Lists DIVE IN (2015年サービス終了) under the cloud services
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 39150 FINAL FANTASY VIII -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 39150 FINAL FANTASY VIII -- no type label; store column: store page link
     - https://steamdb.info/app/39150/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/39150/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 1026680 FINAL FANTASY VIII - REMASTERED -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 1026680 FINAL FANTASY VIII - REMASTERED -- no type label; store column: store page link
     - https://steamdb.info/app/1026680/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/1026680/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "chocobo", "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 39150 FINAL FANTASY VIII -- listed in the "chocobo" and "final fantasy" search; release date shown: 5 Dec, 2013; platforms shown: win; review summary: Very Positive -- 84% of the 4,797 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 39150 FINAL FANTASY VIII -- release date shown: 5 Dec, 2013; platforms shown: win; review summary: Very Positive -- 84% of the 4,797 user reviews for this game are positive.
     - https://store.steampowered.com/app/39150/FINAL_FANTASY_VIII/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 1026680 FINAL FANTASY VIII - REMASTERED -- listed in the "final fantasy" search; release date shown: 3 Sep, 2019; platforms shown: win; review summary: Mostly Positive -- 75% of the 2,824 user reviews for this game are positive.
+  - 1026680 FINAL FANTASY VIII - REMASTERED -- release date shown: 3 Sep, 2019; platforms shown: win; review summary: Mostly Positive -- 75% of the 2,824 user reviews for this game are positive.
     - https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII_REMASTERED/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy VIII Remastered (2019) -- type label Remaster; platforms shown: Windows PC, Nintendo Switch, PlayStation 4, Xbox One
+    - https://backloggd.com/games/final-fantasy-viii-remastered/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VIII (1999) -- type label Main Game; platforms shown: PlayStation 3, PlayStation Portable, PlayStation
+    - https://backloggd.com/games/final-fantasy-viii/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VIII (2013) -- type label Port; platforms shown: Windows PC
+    - https://backloggd.com/games/final-fantasy-viii--2/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VIII (2000) -- type label Port; platforms shown: Windows PC
+    - https://backloggd.com/games/final-fantasy-viii--1/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VII & Final Fantasy VIII Remastered Twin Pack (2019) -- type label Bundle; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VII + VIII Double Pack (2016) -- type label Bundle; platforms shown: Windows PC
+    - https://backloggd.com/games/final-fantasy-vii-plus-viii-double-pack/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy VII/Final Fantasy VIII Remastered Twin Pack (2019) -- type label Nintendo Switch; platforms shown: none shown
+    - https://backloggd.com/games/final-fantasy-vii-slash-final-fantasy-viii-remastered-twin-pack/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: company page of Square (video game publisher, Japan), 2 of 3 saved pages; search results for "final fantasy artniks" (first 50 of 2703, relevance order); search results for "final fantasy VII" (first 50 of 2880, relevance order); search results for "final fantasy agito" (first 50 of 2706, relevance order); search results for "final fantasy airborne brigade" (first 50 of 2841, relevance order); search results for "final fantasy endless nova" (first 50 of 3443, relevance order); search results for "final fantasy grandmasters" (first 50 of 2730, relevance order); search results for "final fantasy renaissance" (first 50 of 2738, relevance order); search results for "final fantasy unlimited" (first 50 of 2906, relevance order); search results for "mobius final fantasy" (first 50 of 2741, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy VIII (2000) -- type label Port of Final Fantasy VIII (1999); platforms shown: PC (Microsoft Windows); released 2000-01-25
+    - https://www.igdb.com/games/final-fantasy-viii--1 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy VIII (2013) -- type label Port of Final Fantasy VIII (1999); platforms shown: PC (Microsoft Windows); released 2013-12-05
+    - https://www.igdb.com/games/final-fantasy-viii--2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy VIII (1999) -- type label Main Game; platforms shown: PS3, PSP, PS1; released 1999-02-11
+    - https://www.igdb.com/games/final-fantasy-viii -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy VIII Remastered (2019) -- type label Remaster of Final Fantasy VIII (1999); platforms shown: PlayStation 4, Nintendo Switch, PC (Microsoft Windows), Xbox One; released 2019-09-03
+    - https://www.igdb.com/games/final-fantasy-viii-remastered -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy VIII Remastered (2021) -- type label Port of Final Fantasy VIII Remastered (2019); platforms shown: Android, iOS; released 2021-03-16
+    - https://www.igdb.com/games/final-fantasy-viii-remastered--2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy VII & Final Fantasy VIII Remastered Twin Pack (2019) -- type label Bundle; platforms shown: Nintendo Switch; released 2019-11-29
+    - https://www.igdb.com/games/final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy VII + VIII Double Pack (2016) -- type label Bundle; platforms shown: PC (Microsoft Windows); released 2016-06-17
+    - https://www.igdb.com/games/final-fantasy-vii-plus-viii-double-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

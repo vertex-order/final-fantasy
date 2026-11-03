@@ -171,4 +171,22 @@
   - Lists the games released in Japan for PlayStation 2 (2004; date, title, publisher, note)
   - Row (発売されたタイトル, 2004年): ファイナルファンタジーX-2 インターナショナル+ラストミッション; 2004-02-19; スクウェア・エニックス; note: 北米版『ファイナルファンタジーX-2』をもとに、後日談「ラストミッション」を追加した作品
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy X-2: Last Mission (2004) -- type label Main Game; platforms shown: PlayStation 2
+    - https://backloggd.com/games/final-fantasy-x-2-last-mission/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Final Fantasy X-2 International + Last Mission (2004) -- type label Bundle; platforms shown: PlayStation 2
+    - https://backloggd.com/games/final-fantasy-x-2-international-plus-last-mission/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy x-2 last mission" (first 50 of 10000, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy X-2: Last Mission (2004) -- type label Main Game; platforms shown: PlayStation 2; released 2004-02-09
+    - https://www.igdb.com/games/final-fantasy-x-2-last-mission -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy X-2 International + Last Mission (2004) -- type label Bundle; platforms shown: PlayStation 2; released 2004-02-19
+    - https://www.igdb.com/games/final-fantasy-x-2-international-plus-last-mission -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

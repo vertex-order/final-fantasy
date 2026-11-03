@@ -104,22 +104,39 @@
   - Languages table: English interface, full audio and subtitles; French, Traditional Chinese and German interface and subtitles; Japanese full audio only.
   - English description of the PC version (4K, 60 FPS, widescreen, quality-of-life improvements); the same content as the Japanese listing's text.
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 504730 MOBIUS FINAL FANTASY® -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 504730 MOBIUS FINAL FANTASY® -- no type label; store column: store page link
     - https://steamdb.info/app/504730/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/504730/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 536930 MOBIUS FINAL FANTASY™ -- no type label; store column: store page link; listed in the "final fantasy" search
+  - 536930 MOBIUS FINAL FANTASY™ -- no type label; store column: store page link
     - https://steamdb.info/app/536930/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/536930/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - Not listed in any saved search result: 504730 MOBIUS FINAL FANTASY®; 536930 MOBIUS FINAL FANTASY™
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Mobius Final Fantasy (2015) -- type label Main Game; platforms shown: Windows PC, Android, iOS
+    - https://backloggd.com/games/mobius-final-fantasy/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Mobius Final Fantasy: Warrior of Despair (2018) -- type label Season; platforms shown: Windows PC, Android, iOS
+    - https://backloggd.com/games/mobius-final-fantasy-warrior-of-despair/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "mobius final fantasy" (first 50 of 2741, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Mobius Final Fantasy (2015) -- type label Main Game; platforms shown: PC (Microsoft Windows), Android, iOS; released 2015-06-04
+    - https://www.igdb.com/games/mobius-final-fantasy -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Mobius Final Fantasy: Warrior of Despair (2018) -- type label Season of Mobius Final Fantasy (2015); platforms shown: PC (Microsoft Windows), Android, iOS; released 2018-12-17
+    - https://www.igdb.com/games/mobius-final-fantasy-warrior-of-despair -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

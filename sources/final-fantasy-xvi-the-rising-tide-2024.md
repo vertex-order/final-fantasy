@@ -35,35 +35,57 @@
 
 - https://www.xbox.com/games/store/final-fantasy-xvi-expansion-pass/9ntvvj28skn2
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "final fantasy" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 2744060 FINAL FANTASY XVI The Rising Tide -- type label DLC; store column: store page link; listed in the "final fantasy" search
+  - 2744060 FINAL FANTASY XVI The Rising Tide -- type label DLC; store column: store page link
     - https://steamdb.info/app/2744060/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/2744060/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 2886900 FINAL FANTASY XVI Expansion Pass -- type label DLC; store column: store page link; listed in the "final fantasy" search
+  - 2886900 FINAL FANTASY XVI Expansion Pass -- type label DLC; store column: store page link
     - https://steamdb.info/app/2886900/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/2886900/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "final fantasy" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 2744060 FINAL FANTASY XVI The Rising Tide -- listed in the "final fantasy" search; release date shown: 17 Sep, 2024; platforms shown: win; review summary: Mixed -- 64% of the 382 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 2744060 FINAL FANTASY XVI The Rising Tide -- release date shown: 17 Sep, 2024; platforms shown: win; review summary: Mixed -- 64% of the 382 user reviews for this game are positive.
     - https://store.steampowered.com/app/2744060/FINAL_FANTASY_XVI_The_Rising_Tide/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 2886900 FINAL FANTASY XVI Expansion Pass -- listed in the "final fantasy" search; release date shown: 17 Sep, 2024; platforms shown: win; review summary: Mostly Positive -- 71% of the 70 user reviews for this game are positive.
+  - 2886900 FINAL FANTASY XVI Expansion Pass -- release date shown: 17 Sep, 2024; platforms shown: win; review summary: Mostly Positive -- 71% of the 70 user reviews for this game are positive.
     - https://store.steampowered.com/app/2886900/FINAL_FANTASY_XVI_Expansion_Pass/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
-- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "final fantasy" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
-  - FINAL FANTASY XVI Expansion Pass -- store result, type label Add-On; listed in the "final fantasy" search
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - FINAL FANTASY XVI Expansion Pass -- type label Add-On
     - https://store.epicgames.com/p/final-fantasy-xvi-final-fantasy-xvi-expansion-pass-c276c3 -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - FINAL FANTASY XVI The Rising Tide -- store result, type label Add-On; listed in the "final fantasy" search
+  - FINAL FANTASY XVI The Rising Tide -- type label Add-On
     - https://store.epicgames.com/p/final-fantasy-xvi-the-rising-tide-c7ab63 -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30 and 2026-11-03
+  - Capture: live (2026-10-30 and 2026-11-03) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Final Fantasy XVI: The Rising Tide (2024) -- type label DLC; platforms shown: Windows PC, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-xvi-the-rising-tide/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
+  - Final Fantasy XVI Expansion Pass (2023) -- type label Bundle; platforms shown: Windows PC, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/final-fantasy-xvi-expansion-pass/ -- Backloggd game page, listed live (2026-11-03) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "final fantasy xv" (first 50 of 2746, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Final Fantasy XVI: The Rising Tide (2024) -- type label DLC of Final Fantasy XVI (2023); platforms shown: PC (Microsoft Windows), PlayStation 5, Xbox Series X; released 2024-04-18
+    - https://www.igdb.com/games/final-fantasy-xvi-the-rising-tide -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XVI Expansion Pass (2023) -- type label Bundle; platforms shown: PC (Microsoft Windows), PlayStation 5, Xbox Series X; released 2023-12-08
+    - https://www.igdb.com/games/final-fantasy-xvi-expansion-pass -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XVI: Complete Edition (2024) -- type label Bundle; platforms shown: PC (Microsoft Windows), PlayStation 5, Xbox Series X; released 2024-09-17
+    - https://www.igdb.com/games/final-fantasy-xvi-complete-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Final Fantasy XVI (2023) -- no card of its own on the saved pages; the parent of Final Fantasy XVI: The Rising Tide (2024)
+    - https://www.igdb.com/games/final-fantasy-xvi -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
 ## Decisions
 

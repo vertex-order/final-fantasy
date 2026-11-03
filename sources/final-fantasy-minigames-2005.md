@@ -27,3 +27,10 @@
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
 
 - Square Enix Mobile menu pages, 2007-07-04 to 2010-01-14 captures -- the list of titles on the site -- used, shallow: read for the Final Fantasy, Chocobo and Moogle titles
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Justice Monsters Five (2016) -- type label Main Game; platforms shown: Android, iOS
+    - https://backloggd.com/games/justice-monsters-five/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
