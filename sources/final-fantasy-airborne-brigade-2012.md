@@ -158,4 +158,10 @@ Korean version (Daum Mobage):
   - Final Fantasy: Airborne Brigade (2012) -- type label Main Game; platforms shown: Android, iOS; released 2012-01-06
     - https://www.igdb.com/games/final-fantasy-airborne-brigade -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Mobage article, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Mobage -- Mobage's service article -- accessed 2026-11-03 (wikitext read through the MediaWiki API, revision 111609060); archived: TODO
+  - DXゲーム section (https://ja.wikipedia.org/wiki/Mobage#DXゲーム): Mobage's item-billing game contents; no Final Fantasy, Chocobo or Kingdom Hearts title in its オンラインゲーム, ダウンロード, 配信終了タイトル or 配信予定タイトル lists
+  - ソーシャルゲーム section (item-billing games with an official circle): lists ファイナルファンタジー ブリゲイド, linked to the ファイナルファンタジー series article; no date, platform or note on the row
+
 ## Decisions
