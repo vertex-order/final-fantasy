@@ -635,4 +635,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
 - https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(PAL_region) -- dates, platforms -- accessed 2026-11-03 (revision 1381241655 of 2026-10-20; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Final Fantasy VI; Publisher: Square Enix; PSV PlayStation Vita: August 28, 2012; PEGI: 16
 
+## en.wikipedia.org (Information; Super NES Classic Edition console article, Games section, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/Super_NES_Classic_Edition -- platforms*, dates -- accessed 2026-11-03 (revision 1374100330; wikitext read through the MediaWiki API); archived: TODO
+  - Games table columns in order: game; copyright; NA/PAL; Japan; 21 built-in games, 16 common to all regions
+  - Row: Final Fantasy VI; Square Enix; NA/PAL yes; Japan yes
+  - Footnotes: titled Final Fantasy III when first released in the west; previously unreleased for the original Super Nintendo in the PAL region
+
 ## Decisions

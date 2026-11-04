@@ -855,6 +855,12 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
 - https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(North_America) -- dates, platforms -- accessed 2026-11-03 (revision 1378620546 of 2026-10-05; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Final Fantasy Origins; Publisher: Square Enix; PSP: January 10, 2012; PS3: January 10, 2012
 
+## en.wikipedia.org (Information; NES Classic Edition console article, Included games section, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/NES_Classic_Edition -- platforms*, dates -- accessed 2026-11-03 (revision 1374536097; wikitext read through the MediaWiki API); archived: TODO
+  - Included games table columns in order: game; copyright; NA/PAL; Japan; 30 built-in games in all regions
+  - Row: Final Fantasy; Square Enix; NA/PAL yes; Japan no
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

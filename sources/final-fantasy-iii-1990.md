@@ -675,6 +675,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 - https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1374465186 of 2026-09-12; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Final Fantasy III; Developer: Square Enix; PSP: September 25, 2012 (North America) / September 26, 2012 (Europe)
 
+## en.wikipedia.org (Information; NES Classic Edition console article, Included games section, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/NES_Classic_Edition -- platforms*, dates -- accessed 2026-11-03 (revision 1374536097; wikitext read through the MediaWiki API); archived: TODO
+  - Included games table columns in order: game; copyright; NA/PAL; Japan; 30 built-in games in all regions
+  - Row: Final Fantasy III; Square Enix; NA/PAL no; Japan yes
+
 ## Decisions
 
 - **Not to be listed: the cancelled WonderSwan Color version of Final Fantasy III (user, 2026-11-03):** a Square WonderSwan Color game in the cancelled list, cited to RPGFan's 'WSC FFIII Vanishes, FFI-II Remake In The Works' (2002, http://www.rpgfan.com/news/2002/1717.html, https://web.archive.org/web/20070315205600/http://www.rpgfan.com/news/2002/1717.html); never released, so the WonderSwan Color is not a platform of Final Fantasy III. Only this platform is left out: the game itself released on other platforms and stays listed on them
