@@ -128,4 +128,11 @@
 - https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(PAL_region) -- dates, platforms -- accessed 2026-11-03 (revision 1381241655 of 2026-10-20; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Vagrant Story; Publisher: Square Enix; PSV PlayStation Vita: August 28, 2012; PEGI: 16
 
+## en.wikipedia.org (Information; PlayStation Network games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:PlayStation_Network_games -- PlayStation Network availability -- accessed 2026-11-04 (category page revision 1053897420 of 2021-11-06; members read through the MediaWiki API); archived: TODO
+  - Category of PlayStation Network games: 1439 pages, 1 subcategory (PlayStation Network game covers)
+  - Member: Vagrant Story
+  - The category names no PlayStation model or store (PS1 classic, PS3, PSP, Vita)
+
 ## Decisions

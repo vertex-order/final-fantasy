@@ -589,6 +589,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy VII
 
+## en.wikipedia.org (Information; PlayStation Network games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:PlayStation_Network_games -- PlayStation Network availability -- accessed 2026-11-04 (category page revision 1053897420 of 2021-11-06; members read through the MediaWiki API); archived: TODO
+  - Category of PlayStation Network games: 1439 pages, 1 subcategory (PlayStation Network game covers)
+  - Member: Final Fantasy VII
+  - The category names no PlayStation model or store (PS1 classic, PS3, PSP, Vita)
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

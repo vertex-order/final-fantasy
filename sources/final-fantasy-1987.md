@@ -885,6 +885,13 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - Category of Yahoo! Keitai games: 8 pages
   - Member: Final Fantasy (video game)
 
+## en.wikipedia.org (Information; PlayStation Network games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:PlayStation_Network_games -- PlayStation Network availability -- accessed 2026-11-04 (category page revision 1053897420 of 2021-11-06; members read through the MediaWiki API); archived: TODO
+  - Category of PlayStation Network games: 1439 pages, 1 subcategory (PlayStation Network game covers)
+  - Member: Final Fantasy (video game)
+  - The category names no PlayStation model or store (PS1 classic, PS3, PSP, Vita)
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

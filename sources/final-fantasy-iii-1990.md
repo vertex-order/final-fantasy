@@ -701,6 +701,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Category of Windows Phone games: 232 pages, 2 subcategories
   - Member: Final Fantasy III
 
+## en.wikipedia.org (Information; PlayStation Network games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:PlayStation_Network_games -- PlayStation Network availability -- accessed 2026-11-04 (category page revision 1053897420 of 2021-11-06; members read through the MediaWiki API); archived: TODO
+  - Category of PlayStation Network games: 1439 pages, 1 subcategory (PlayStation Network game covers)
+  - Member: Final Fantasy III
+  - The category names no PlayStation model or store (PS1 classic, PS3, PSP, Vita)
+
 ## Decisions
 
 - **Not to be listed: the cancelled WonderSwan Color version of Final Fantasy III (user, 2026-11-03):** a Square WonderSwan Color game in the cancelled list, cited to RPGFan's 'WSC FFIII Vanishes, FFI-II Remake In The Works' (2002, http://www.rpgfan.com/news/2002/1717.html, https://web.archive.org/web/20070315205600/http://www.rpgfan.com/news/2002/1717.html); never released, so the WonderSwan Color is not a platform of Final Fantasy III. Only this platform is left out: the game itself released on other platforms and stays listed on them

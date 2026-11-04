@@ -645,6 +645,19 @@ square-enix-games.com (Publisher, official)
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy XV: Pocket Edition
 
+## en.wikipedia.org (Information; PlayStation Network games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:PlayStation_Network_games -- PlayStation Network availability -- accessed 2026-11-04 (category page revision 1053897420 of 2021-11-06; members read through the MediaWiki API); archived: TODO
+  - Category of PlayStation Network games: 1439 pages, 1 subcategory (PlayStation Network game covers)
+  - Member: Final Fantasy XV: Pocket Edition
+  - The category names no PlayStation model or store (PS1 classic, PS3, PSP, Vita)
+
+## en.wikipedia.org (Information; PlayStation Network article, section PlayStation Plus Collection, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/PlayStation_Network#PlayStation_Plus_Collection -- PlayStation Plus Collection -- accessed 2026-11-04 (article revision 1377230337 of 2026-09-28); archived: TODO
+  - September 2020 announcement: PlayStation Plus members who buy a PlayStation 5 get a collection of PlayStation 4 games; the collection was removed in May 2023
+  - Lists Final Fantasy XV Royal Edition among its 18 titles
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations

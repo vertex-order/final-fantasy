@@ -154,4 +154,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)_v
   - Row: Title: Dissidia: Final Fantasy; Developer: Square Enix; PSP: November 5, 2009 (North America); PSV: February 9, 2012 (North America)
   - Row: Title: Dissidia 012: Duodecim Final Fantasy; Developer: Square Enix; PSP: March 21, 2011 (North America); PSV: February 9, 2012 (North America)
 
+## en.wikipedia.org (Information; PlayStation Network games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:PlayStation_Network_games -- PlayStation Network availability -- accessed 2026-11-04 (category page revision 1053897420 of 2021-11-06; members read through the MediaWiki API); archived: TODO
+  - Category of PlayStation Network games: 1439 pages, 1 subcategory (PlayStation Network game covers)
+  - Member: Dissidia 012 Final Fantasy
+  - The category names no PlayStation model or store (PS1 classic, PS3, PSP, Vita)
+
 ## Decisions
