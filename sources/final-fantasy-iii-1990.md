@@ -681,6 +681,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Included games table columns in order: game; copyright; NA/PAL; Japan; 30 built-in games in all regions
   - Row: Final Fantasy III; Square Enix; NA/PAL no; Japan yes
 
+## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
+  - Category of Android games: 2461 pages, 9 subcategories
+  - Member: Final Fantasy III
+  - Member: Final Fantasy III (2006 video game)
+
 ## Decisions
 
 - **Not to be listed: the cancelled WonderSwan Color version of Final Fantasy III (user, 2026-11-03):** a Square WonderSwan Color game in the cancelled list, cited to RPGFan's 'WSC FFIII Vanishes, FFI-II Remake In The Works' (2002, http://www.rpgfan.com/news/2002/1717.html, https://web.archive.org/web/20070315205600/http://www.rpgfan.com/news/2002/1717.html); never released, so the WonderSwan Color is not a platform of Final Fantasy III. Only this platform is left out: the game itself released on other platforms and stays listed on them

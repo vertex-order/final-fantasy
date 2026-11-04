@@ -621,6 +621,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 - https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(North_America) -- dates, platforms -- accessed 2026-11-03 (revision 1378620546 of 2026-10-05; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Final Fantasy Tactics; Publisher: Square Enix; PSP: September 17, 2009; PS3: September 17, 2009
 
+## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
+  - Category of Android games: 2461 pages, 9 subcategories
+  - Member: Final Fantasy Tactics: The War of the Lions
+
 ## Decisions
 
 

@@ -326,4 +326,10 @@
 - https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(C%E2%80%93G) -- dates, platforms -- accessed 2026-11-03 (revision 1379229872 of 2026-10-08; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Final Fantasy: Crystal Chronicles Remastered Edition; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: August 27, 2020
 
+## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
+  - Category of Android games: 2461 pages, 9 subcategories
+  - Member: Final Fantasy Crystal Chronicles (video game)
+
 ## Decisions

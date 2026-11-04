@@ -114,6 +114,12 @@
   - Capture: live (2026-11-03) pages: search results for "final fantasy artniks" (first 50 of 2703, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
   - Final Fantasy Artniks -- not in IGDB: no title of that name among the saved results of the search "final fantasy artniks" (https://www.igdb.com/search?q=final+fantasy+artniks&type=1)
 
+## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
+  - Category of Android games: 2461 pages, 9 subcategories
+  - Member: Final Fantasy Artniks
+
 ## Decisions
 - GREE is the link for the Android and iOS rows (user, 2026-10-20): the search for direct Play Store and App Store pages is closed, since the game was only available through registration on the GREE website; the rows link the GREE apps page capture of 2013-12-19 and no store page is expected to exist
 - No `by` line (user, 2026-10-20): director Kazunari Itakura and producer Ichiro Hazama are named by zh.wikipedia and thefinalfantasy.net, but the entry carries no credits

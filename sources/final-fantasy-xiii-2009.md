@@ -437,4 +437,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
 - https://en.wikipedia.org/wiki/List_of_backward-compatible_games_for_Xbox_One_and_Series_X%2FS -- dates, platforms -- accessed 2026-11-03 (revision 1382133032 of 2026-10-26; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Final Fantasy XIII; Publisher(s): Square Enix; Date added: November 13, 2018
 
+## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
+  - Category of Android games: 2461 pages, 9 subcategories
+  - Member: Final Fantasy XIII
+
 ## Decisions

@@ -80,4 +80,10 @@
   - Final Fantasy VII: The First Soldier (2021) -- type label Main Game; platforms shown: Android, iOS; released 2021-11-17
     - https://www.igdb.com/games/final-fantasy-vii-the-first-soldier -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
+  - Category of Android games: 2461 pages, 9 subcategories
+  - Member: Final Fantasy VII: The First Soldier
+
 ## Decisions

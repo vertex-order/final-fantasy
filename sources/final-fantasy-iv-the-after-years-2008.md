@@ -387,4 +387,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - https://en.wikipedia.org/wiki/List_of_WiiWare_games -- dates, platforms -- accessed 2026-11-03 (revision 1369789613 of 2026-08-17; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title and source: Final Fantasy IV: The After Years / Final Fantasy IV: The After Years - Tsuki no KikanJP; Developer(s)/Publisher(s): Square Enix, Matrix Software
 
+## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
+  - Category of Android games: 2461 pages, 9 subcategories
+  - Member: Final Fantasy IV: The After Years
+
 ## Decisions

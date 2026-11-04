@@ -147,4 +147,10 @@
   - Columns in order: Title; Developer(s); Publisher(s); Release date; Ref. References
   - Row: Pictlogica Final Fantasy; Square Enix; Square Enix; 2017-07-12; Unreleased; Unreleased; Unreleased
 
+## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
+  - Category of Android games: 2461 pages, 9 subcategories
+  - Member: Pictlogica Final Fantasy
+
 ## Decisions

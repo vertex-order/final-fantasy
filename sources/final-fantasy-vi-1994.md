@@ -642,4 +642,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
   - Row: Final Fantasy VI; Square Enix; NA/PAL yes; Japan yes
   - Footnotes: titled Final Fantasy III when first released in the west; previously unreleased for the original Super Nintendo in the PAL region
 
+## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
+  - Category of Android games: 2461 pages, 9 subcategories
+  - Member: Final Fantasy VI
+
 ## Decisions

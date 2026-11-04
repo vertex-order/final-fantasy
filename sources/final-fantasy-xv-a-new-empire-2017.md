@@ -59,6 +59,12 @@
   - Final Fantasy XV: A New Empire (2017) -- type label Main Game; platforms shown: Android, iOS; released 2017-03-31
     - https://www.igdb.com/games/final-fantasy-xv-a-new-empire -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
+  - Category of Android games: 2461 pages, 9 subcategories
+  - Member: Final Fantasy XV: A New Empire
+
 ## Decisions
 - `helpWanted` removed (user, 2026-10-21)
 - Date is 2017-03-31, the New Zealand limited release, not the worldwide release (user, 2026-10-21)

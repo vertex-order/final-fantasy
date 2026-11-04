@@ -141,4 +141,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Record_Keeper_ver
   - Member: ファイナルファンタジー レコードキーパー
   - https://ja.wikipedia.org/wiki/ファイナルファンタジー_レコードキーパー -- the article of that member -- link recorded only (revision 108937389 of 2026-03-28) -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
 
+## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
+  - Category of Android games: 2461 pages, 9 subcategories
+  - Member: Final Fantasy Record Keeper
+
 ## Decisions

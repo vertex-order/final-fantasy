@@ -100,5 +100,11 @@ en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_Awakening#Release, tex
   - Final Fantasy Awakening (2016) -- type label Main Game; platforms shown: Android, iOS; released 2016-12-14
     - https://www.igdb.com/games/final-fantasy-awakening -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
+  - Category of Android games: 2461 pages, 9 subcategories
+  - Member: Final Fantasy Awakening
+
 ## Decisions
 - Languages are done for now (user, 2026-10-21): the `…?` marker and `helpWanted` are removed. Open leads if wanted later: the OASIS English iOS listing (id1327210765, no working capture found), the PT/ES app (id1377048813, 404 captures) and the Korean store pages (no working captures); the languages are JA (voiced), EN, ID, KO, ZH-CN and ZH-TW

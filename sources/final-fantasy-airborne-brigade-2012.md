@@ -164,4 +164,10 @@ Korean version (Daum Mobage):
   - DXゲーム section (https://ja.wikipedia.org/wiki/Mobage#DXゲーム): Mobage's item-billing game contents; no Final Fantasy, Chocobo or Kingdom Hearts title in its オンラインゲーム, ダウンロード, 配信終了タイトル or 配信予定タイトル lists
   - ソーシャルゲーム section (item-billing games with an official circle): lists ファイナルファンタジー ブリゲイド, linked to the ファイナルファンタジー series article; no date, platform or note on the row
 
+## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
+  - Category of Android games: 2461 pages, 9 subcategories
+  - Member: Final Fantasy Airborne Brigade
+
 ## Decisions
