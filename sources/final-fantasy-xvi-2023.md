@@ -275,4 +275,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XVI_version_diffe
   - Alphabetical list of games released natively for PlayStation 5 (PS4-compatible and PlayStation VR2 titles excluded); one table, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references; addons key CB cross-buy, CP cross-play, P Pro enhanced
   - Row: Final Fantasy XVI; Action role-playing; developer and publisher Square Enix; JP, NA and PAL 2023-06-22; no addons marker
 
+## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Name: Final Fantasy XVI; Developer: Square Enix Creative Business Unit III; Publisher: Square Enix; Genre(s): Action role-playing; Operating system(s): Microsoft Windows; Date released: 2024-09-17
+
+## en.wikipedia.org (Information; List of Xbox Series X and Series S games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_Series_X_and_Series_S_games -- dates, platforms -- accessed 2026-11-03 (revision 1382768564 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Final Fantasy XVI; Action role-playing; Square Enix Creative Business Unit III; Square Enix; 2025-Jun-08; 2025-Jun-08; 2025-Jun-08
+
 ## Decisions

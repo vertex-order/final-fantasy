@@ -104,4 +104,9 @@
   - Dirge of Cerberus: Final Fantasy VII International (2008) -- type label Port of Dirge of Cerberus: Final Fantasy VII (2006); platforms shown: PlayStation 2; released 2008-09-04
     - https://www.igdb.com/games/dirge-of-cerberus-final-fantasy-vii-international -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of PlayStation 2 games (A–K), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_2_games_(A%E2%80%93K) -- dates, platforms -- accessed 2026-11-03 (revision 1382731584 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Dirge of Cerberus: Final Fantasy VII; Developer: Square Enix; Publisher: Square Enix; First released: 2006-01-26; JP: Y; EU: Y; NA: Y
+
 ## Decisions

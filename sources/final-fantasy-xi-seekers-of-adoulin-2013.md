@@ -88,6 +88,17 @@
   - Final Fantasy XI Online (2002) -- no card of its own on the saved pages; the parent of Final Fantasy XI: Seekers of Adoulin (2013)
     - https://www.igdb.com/games/final-fantasy-xi-online -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of PlayStation 2 games (A–K), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_2_games_(A%E2%80%93K) -- dates, platforms -- accessed 2026-11-03 (revision 1382731584 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy XI: Seekers of Adoulin (Expansion) / •Final Fantasy XI: Adoulin no Makyou; Developer: Square Enix; Publisher: Square Enix; First released: 2013-03-27; JP: Y
+
+## en.wikipedia.org (Information; List of Xbox 360 games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_360_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1381043311 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Xbox One; Ref. References
+  - Row: Final Fantasy XI: Seekers of Adoulin; MMORole-playing, Expansion; Square Enix; Square Enix; 2013-Mar-26; 2013-Mar-26; 2013-Mar-26; 2013-Nov-22
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

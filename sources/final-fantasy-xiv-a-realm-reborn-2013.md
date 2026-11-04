@@ -483,4 +483,25 @@
   - Alphabetical list of games released natively for PlayStation 5 (PS4-compatible and PlayStation VR2 titles excluded); one table, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references; addons key CB cross-buy, CP cross-play, P Pro enhanced
   - Row: Final Fantasy XIV; Massively multiplayer online role-playing; developer and publisher Square Enix; JP, NA and PAL 2021-05-25; addons markers CB and CP
 
+## en.wikipedia.org (Information; Index of Windows games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/Index_of_Windows_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1371590636 of 2026-08-27; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy XIV; Released: 2010; Developer: Square Enix; Publisher: Square Enix
+
+## en.wikipedia.org (Information; List of Nintendo Switch 2 games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_2_games -- dates, platforms -- accessed 2026-11-03 (revision 1383631769 of 2026-11-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy XIV; Developer(s): Square Enix Creative Studio III; Publisher(s): Square Enix; Release date: August 4, 2026
+
+## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Name: Final Fantasy XIV; Developer: Square Enix; Publisher: Square Enix; Genre(s): Massively multiplayer online role-playing; Operating system(s): Microsoft Windows; Date released: 2014-2-18
+
+## en.wikipedia.org (Information; List of Xbox Series X and Series S games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_Series_X_and_Series_S_games -- dates, platforms -- accessed 2026-11-03 (revision 1382768564 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Final Fantasy XIV Online; MMORPG; Square Enix; Square Enix; 2024-Mar-21; 2024-Mar-21; 2024-Mar-21; XP
+
 ## Decisions

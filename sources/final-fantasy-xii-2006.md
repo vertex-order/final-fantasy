@@ -343,4 +343,26 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
   - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
   - Row: Final Fantasy XII: The Zodiac Age; developer column Square Enix; JP 2017-07-13, NA 2017-07-11, PAL 2017-07-11; options: P (Pro enhanced)
 
+## en.wikipedia.org (Information; List of Nintendo Switch games (C–G), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(C%E2%80%93G) -- dates, platforms -- accessed 2026-11-03 (revision 1379229872 of 2026-10-08; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy XII: The Zodiac Age; Developer(s): Square Enix, Virtuos; Publisher(s): Square Enix; Release date: April 25, 2019
+
+## en.wikipedia.org (Information; List of PlayStation 2 games (A–K), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_2_games_(A%E2%80%93K) -- dates, platforms -- accessed 2026-11-03 (revision 1382731584 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy XII / •Final Fantasy XII International Zodiac Job System (different version); Developer: Square Enix; Publisher: Square Enix; First released: 2006-03-14; JP: Y; EU: Y; NA: Y
+
+## en.wikipedia.org (Information; List of Xbox One X enhanced games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_X_enhanced_games -- dates, platforms -- accessed 2026-11-03 (revision 1359985267 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Game title; Known enhancements; Enhanced / patch / availability; Notes/references
+  - Row: Final Fantasy XII: The Zodiac Age; 30
+
+## en.wikipedia.org (Information; List of Xbox One games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1378205264 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Final Fantasy XII: The Zodiac Age; Action role-playing; Square Enix; Square Enix; 2019-Apr-25; 2019-Apr-30; 2019-Apr-30; X
+
 ## Decisions

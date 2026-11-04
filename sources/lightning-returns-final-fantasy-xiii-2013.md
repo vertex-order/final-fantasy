@@ -336,4 +336,27 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
   - Alphabetical list of PlayStation 3 games, split over four pages (A–C, D–I, J–P, Q–Z; the page List_of_PlayStation_3_games redirects to A–C); one table per page, columns title, developer(s), release dates (JP, PAL, NA), options (D: digital only games), references
   - Row: Lightning Returns: Final Fantasy XIII; developer column Square Enix; JP 2013-11-21, PAL 2014-02-14, NA 2014-02-11; no options marker
 
+## en.wikipedia.org (Information; List of PC games (L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(L) -- dates, platforms -- accessed 2026-11-03 (revision 1342618762 of 2026-03-09; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Name; Developer; Publisher; Genre(s); Operating system(s); Date released
+  - Row: Lightning Returns: Final Fantasy XIII; Square Enix; Square Enix; Role-playing; Microsoft Windows; 2015-12-10
+
+## en.wikipedia.org (Information; List of Xbox 360 games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_360_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1381043311 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Xbox One; Ref. References
+  - Row: Lightning Returns: Final Fantasy XIII; Role-playing; Square Enix; Square Enix; 2014-Feb-11; 2014-Feb-14; 2013-Nov-21; 2014-Feb-13; XBO XE
+
+## en.wikipedia.org (Information; List of Xbox One X enhanced games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_X_enhanced_games -- dates, platforms -- accessed 2026-11-03 (revision 1359985267 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Game title; Known enhancements; Enhanced / patch / availability; Notes/references
+  - Row: Lightning Returns: Final Fantasy XIII; Y; 30; 4K; Xbox 360 game
+
+## en.wikipedia.org (Information; List of backward-compatible games for Xbox One and Series X/S, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_backward-compatible_games_for_Xbox_One_and_Series_X%2FS -- dates, platforms -- accessed 2026-11-03 (revision 1382133032 of 2026-10-26; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Lightning Returns: Final Fantasy XIII; Publisher(s): Square Enix; Date added: November 13, 2018
+
 ## Decisions

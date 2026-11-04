@@ -237,6 +237,37 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - https://ja.wikipedia.org/wiki/バーチャルコンソール -- Virtual Console is digital -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461123 of 2026-10-21); archived: TODO
   - Says all Virtual Console software is digital distribution (download sale), so an internet connection was needed to buy it; Wii, Wii U and Nintendo 3DS are now re-download only
 
+## en.wikipedia.org (Information; List of MSX games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_MSX_games -- dates, platforms -- accessed 2026-11-03 (revision 1380078732 of 2026-10-13; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: King's Knight (aka King' Knight, キングスナイト); Year: 1986; Genre: Vertical shooter; Developer: Square; Publisher: Square
+
+## en.wikipedia.org (Information; List of Nintendo Entertainment System games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_games -- dates, platforms -- accessed 2026-11-03 (revision 1381703740 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title(s) /; Developer(s); Publisher(s); First released; Release date
+  - Row: King's Knight; Square / Workss; Square; 1986-09-18JP; 1986-09-18; 1989-09; Unreleased
+
+## en.wikipedia.org (Information; List of PC-88 games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC-88_games -- dates, platforms -- accessed 2026-11-03 (revision 1379193171 of 2026-10-08; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: King's Knight; Release date(s): 1987-6; Developer(s): Square Co.; Publisher(s): Square Co.
+
+## en.wikipedia.org (Information; List of Virtual Console games for Nintendo 3DS (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Nintendo_3DS_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383449654 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: King's Knight; Publisher: Square Enix; Platform: FC; Release Date: 2014-2-5
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii -- dates, platforms -- accessed 2026-11-03 (revision 1383440783 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: King's Knight; Publisher(s): Square Enix; Platform: JP: FC; North America release date: 2008-3-24; Europe release date: Unreleased; Oceania release date: Unreleased; Japan release date: 2007-11-27
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii U (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii_U_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383448124 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: King's Knight; Publisher: Square Enix; Platform: FC; Release date: 2016-7-6
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)

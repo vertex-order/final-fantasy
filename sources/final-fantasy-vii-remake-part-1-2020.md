@@ -389,4 +389,20 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake_versio
   - Alphabetical list of games released natively for PlayStation 5 (PS4-compatible and PlayStation VR2 titles excluded); one table, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references; addons key CB cross-buy, CP cross-play, P Pro enhanced
   - Row: Final Fantasy VII Remake Intergrade; Action role-playing; developer and publisher Square Enix; JP, NA and PAL 2021-06-10; addons marker CB
 
+## en.wikipedia.org (Information; List of Nintendo Switch 2 games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_2_games -- dates, platforms -- accessed 2026-11-03 (revision 1383631769 of 2026-11-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy VII Remake Intergrade; Developer(s): Square Enix Creative Business Unit I; Publisher(s): Square Enix; Release date: January 22, 2026
+
+## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Name: Final Fantasy VII Remake Intergrade; Developer: Square Enix; Publisher: Square Enix; Genre(s): Action role-playing; Operating system(s): Microsoft Windows; Date released: 2022-6-22
+
+## en.wikipedia.org (Information; List of Xbox Series X and Series S games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_Series_X_and_Series_S_games -- dates, platforms -- accessed 2026-11-03 (revision 1382768564 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Final Fantasy VII Remake Intergrade; Action role-playing; Square Enix; Square Enix; 2026-Jan-22; 2026-Jan-22; 2026-Jan-22
+
 ## Decisions

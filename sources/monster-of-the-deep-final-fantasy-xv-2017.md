@@ -157,4 +157,10 @@
   - Monster of the Deep: Final Fantasy XV (2017) -- type label Main Game; platforms shown: PlayStation 4, PlayStation VR; released 2017-11-21
     - https://www.igdb.com/games/monster-of-the-deep-final-fantasy-xv -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of PlayStation VR games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_VR_games -- dates, platforms -- accessed 2026-11-03 (revision 1374392358 of 2026-09-11; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Monster of the Deep: Final Fantasy XV; Simulation; Square Enix; Square Enix; 2017-Nov-21; 2017-Nov-21; 2017-Nov-21; 2017-Nov-21; M BD
+
 ## Decisions

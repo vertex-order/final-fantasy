@@ -107,4 +107,25 @@
   - Vagrant Story (2000) -- type label no type label shown; platforms shown: PS3, PSP, PS1
     - https://www.igdb.com/games/vagrant-story -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of PlayStation (console) games (M–Z), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_(console)_games_(M%E2%80%93Z) -- dates, platforms -- accessed 2026-11-03 (revision 1383416572 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Regions released; Options; Ref. Reference
+  - Row: Vagrant Story; Square; Square; 2000-02-10; 2000-06-21; 2000-05-15
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1371556562 of 2026-08-27; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Vagrant Story; Publisher: Square Enix; PSP: August 12, 2009
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (North America), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(North_America) -- dates, platforms -- accessed 2026-11-03 (revision 1378620546 of 2026-10-05; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Vagrant Story; Publisher: Square Enix; PS3: March 1, 2011
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (PAL region), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(PAL_region) -- dates, platforms -- accessed 2026-11-03 (revision 1381241655 of 2026-10-20; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Vagrant Story; Publisher: Square Enix; PSV PlayStation Vita: August 28, 2012; PEGI: 16
+
 ## Decisions

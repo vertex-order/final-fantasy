@@ -280,4 +280,9 @@
   - Final Fantasy: Brave Exvius (2015) -- no card of its own on the saved pages; the parent of Final Fantasy Resonance (2026)
     - https://www.igdb.com/games/final-fantasy-brave-exvius -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of Nintendo Switch 2 games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_2_games -- dates, platforms -- accessed 2026-11-03 (revision 1383631769 of 2026-11-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Resonance; Developer(s): Square Enix, Lancarse; Publisher(s): Square Enix; Release date: October 22, 2026
+
 ## Decisions

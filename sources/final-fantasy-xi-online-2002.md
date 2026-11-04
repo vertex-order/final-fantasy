@@ -272,4 +272,28 @@
   - Final Fantasy XI: Rhapsodies of Vana'diel (2015) -- type label Update of Final Fantasy XI Online (2002); platforms shown: PlayStation 2, PC (Microsoft Windows), Xbox 360; released 2015-05-14
     - https://www.igdb.com/games/final-fantasy-xi-rhapsodies-of-vanadiel--2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; Index of Windows games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/Index_of_Windows_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1371590636 of 2026-08-27; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy XI; Released: 2002; Developer: Square Co.; Publisher: Square Co., Square Enix
+
+## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Name: Final Fantasy XI; Developer: Square Product Development Division 3, Square Enix Product Development Division 3 (as of April 1, 2003); Publisher: Square, Square Enix; Genre(s): Role-playing; Operating system(s): Microsoft Windows; Date released: 2002-05-16
+
+## en.wikipedia.org (Information; List of PlayStation 2 games (A–K), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_2_games_(A%E2%80%93K) -- dates, platforms -- accessed 2026-11-03 (revision 1382731584 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy XI; Developer: Square; Publisher: SquareSoft, Sony Computer Entertainment; First released: 2002-05-16; JP: Y; NA: Y
+  - Row: Title: Final Fantasy XI: All in One Pack 2004 / •Compilation of Final Fantasy XI: Chains of Promathia and Final Fantasy XI: Rise of the Zilart; Developer: Square Enix; Publisher: Square Enix; First released: 2004-09-16; JP: Y; NA: Y
+  - Row: Title: Final Fantasy XI: Vana'diel Collection 2008 / •Final Fantasy XI: The Vana'diel Collection / •Compilation of Final Fantasy XI, Final Fantasy XI: Chains of Promathia, Final Fantasy XI: Treasures of Aht Urhgan and Final Fantasy XI: Wings of the Goddess; Developer: Square Enix; Publisher: Square Enix; First released: 2007-11-20; JP: Y; NA: Y
+  - Row: Title: Final Fantasy XI: Vana'diel Collection 2010 / •Final Fantasy XI: The Vana'diel Collection 2; Developer: Square Enix; Publisher: Square Enix; First released: 2009-11-10; JP: Y
+
+## en.wikipedia.org (Information; List of Xbox 360 games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_360_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1381043311 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Xbox One; Ref. References
+  - Row: Final Fantasy XI; MMORole-playing; Square Enix; Square Enix; 2006-Apr-16; 2006-Apr-21; 2006-Apr-20; 2013-Nov-22
+
 ## Decisions

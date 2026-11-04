@@ -335,6 +335,17 @@ square-enix.com and stores (Publisher)
   - Final Fantasy Adventure (1991) -- type label no type label shown; platforms shown: Game Boy
     - https://www.igdb.com/games/final-fantasy-adventure -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of Game Boy games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Game_Boy_games -- dates, platforms -- accessed 2026-11-03 (revision 1382436920 of 2026-10-28; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Release date
+  - Row: Final Fantasy Adventure / Seiken Densetsu: Final Fantasy Gaiden JP / Mystic Quest EU; Square; Square JP/NA / Nintendo EU; 1991-6-28; 1991-11; 1993-06-17
+
+## en.wikipedia.org (Information; List of Nintendo Switch games (C–G), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(C%E2%80%93G) -- dates, platforms -- accessed 2026-11-03 (revision 1379229872 of 2026-10-08; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Collection of Mana; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: June 1, 2017
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

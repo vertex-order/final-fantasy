@@ -451,4 +451,43 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
   - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
   - Row: Final Fantasy X/X-2 HD Remaster; developer column Square Enix; JP 2015-05-14, NA 2015-05-12, PAL 2015-05-15; options: P (Pro enhanced)
 
+## en.wikipedia.org (Information; List of Nintendo Switch 2 games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_2_games -- dates, platforms -- accessed 2026-11-03 (revision 1383631769 of 2026-11-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy X/X-2 HD Remaster; Developer(s): Square Enix 1st Production Department, Virtuos; Publisher(s): Square Enix; Release date: July 23, 2026
+
+## en.wikipedia.org (Information; List of Nintendo Switch games (C–G), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(C%E2%80%93G) -- dates, platforms -- accessed 2026-11-03 (revision 1379229872 of 2026-10-08; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy X/X-2 HD Remaster; Developer(s): Square Enix, Virtuos; Publisher(s): Square Enix; Release date: April 11, 2019
+
+## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Name: Final Fantasy X/X-2 HD Remaster; Developer: Square Enix; Publisher: Square Enix; Genre(s): Role-playing; Operating system(s): Microsoft Windows; Date released: 2016-5-12
+
+## en.wikipedia.org (Information; List of PlayStation 2 games (A–K), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_2_games_(A%E2%80%93K) -- dates, platforms -- accessed 2026-11-03 (revision 1382731584 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy X-2 / •Final Fantasy X-2: International + Last Mission (different version); Developer: Square; Publisher: Square, Square Enix, Electronic Arts; First released: 2003-03-13; JP: Y; EU: Y; NA: Y
+  - Row: Title: Final Fantasy X/X-2 Ultimate Box / •Compilation of Final Fantasy X and Final Fantasy X-2; Developer: Square Enix; Publisher: Square Enix; First released: 2005-09-08; JP: Y
+
+## en.wikipedia.org (Information; List of PlayStation Vita games (E–H), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_Vita_games_(E%E2%80%93H) -- dates, platforms -- accessed 2026-11-03 (revision 1362222427 of 2026-07-02; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; PS TV compat. compatibility; Ref. Reference
+  - Row: Final Fantasy 10-2 HD Final Fantasy X/X-2 HD Remaster Final Fantasy X-2 HD; Role-playing; Square Enix 1st Production Department, Virtuos; Square Enix; 2014-Mar-18; 2014-Mar-21; 2013-Dec-26
+
+## en.wikipedia.org (Information; List of Xbox One X enhanced games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_X_enhanced_games -- dates, platforms -- accessed 2026-11-03 (revision 1359985267 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Game title; Known enhancements; Enhanced / patch / availability; Notes/references
+  - Row: Final Fantasy X/X-2 HD Remaster; Y; 30
+
+## en.wikipedia.org (Information; List of Xbox One games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1378205264 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Final Fantasy X/X-2 HD Remaster; Action role-playing; Square Enix; Square Enix; 2019-Apr-11; 2019-Apr-16; 2019-Apr-16; X
+
 ## Decisions

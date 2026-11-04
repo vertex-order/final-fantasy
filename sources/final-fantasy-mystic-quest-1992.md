@@ -123,4 +123,20 @@
 - https://ja.wikipedia.org/wiki/バーチャルコンソール -- Virtual Console is digital -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461123 of 2026-10-21); archived: TODO
   - Says all Virtual Console software is digital distribution (download sale), so an internet connection was needed to buy it; Wii, Wii U and Nintendo 3DS are now re-download only
 
+## en.wikipedia.org (Information; List of Super Nintendo Entertainment System games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Super_Nintendo_Entertainment_System_games -- dates, platforms -- accessed 2026-11-03 (revision 1383313298 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Release date; Ref. Reference
+  - Row: Final Fantasy Mystic Quest / •Mystic Quest LegendPAL / •Final Fantasy USA: Mystic QuestJP; Square; JP/NA Square PAL Nintendo; 1993-9-10; 1992-10; 1993-10-15
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii -- dates, platforms -- accessed 2026-11-03 (revision 1383440783 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: NA: Final Fantasy Mystic Quest / PAL: Mystic Quest Legend / JP: Final Fantasy USA: Mystic Quest; Publisher(s): NA: Square Enix / PAL: Square Enix / JP: Square Enix; North America release date: 2010-10-18; Europe release date: 2010-09-24; Oceania release date: 2010-09-24; Japan release date: 2010-12-21
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii U (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii_U_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383448124 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy USA: Mystic Quest; Publisher: Square Enix; Release date: 2014-04-16
+
 ## Decisions

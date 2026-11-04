@@ -142,4 +142,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)_v
 - https://ja.wikipedia.org/wiki/Category:すれちがい通信対応ソフト -- Japanese Wikipedia's category (149 pages); lists the page ディシディア ファイナルファンタジー -- category page revision 39054374; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
 - https://ja.wikipedia.org/wiki/Category:すれちがい通信対応ソフト -- Japanese Wikipedia's category (149 pages); lists the page ディシディア デュオデシム ファイナルファンタジー -- category page revision 39054374; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
 
+## en.wikipedia.org (Information; List of PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1380269697 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Dissidia 012 Final Fantasy; North America: 2011/03/22; Europe: 2011/03/25; Asia/Japan: 2011/03/03; Australia: 2011/03/25; Developer: Square Enix 1st Production Department; Publisher: Square Enix
+  - Row: Title: Dissidia Final Fantasy; North America: 2009/08/25; Europe: 2009/09/04; Asia/Japan: 2009/11/01; Australia: 2008/12/18; Developer: Square Enix; Publisher: Square Enix
+
+## en.wikipedia.org (Information; List of downloadable PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1374465186 of 2026-09-12; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Dissidia: Final Fantasy; Developer: Square Enix; PSP: November 5, 2009 (North America); PSV: February 9, 2012 (North America)
+  - Row: Title: Dissidia 012: Duodecim Final Fantasy; Developer: Square Enix; PSP: March 21, 2011 (North America); PSV: February 9, 2012 (North America)
+
 ## Decisions

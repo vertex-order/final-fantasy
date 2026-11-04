@@ -311,4 +311,27 @@
   - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
   - Row: World of Final Fantasy; developer column Square Enix; JP 2016-10-27, NA 2016-10-25, PAL 2016-10-28; options: P (Pro enhanced)
 
+## en.wikipedia.org (Information; List of Nintendo Switch games (Q–Z), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(Q%E2%80%93Z) -- dates, platforms -- accessed 2026-11-03 (revision 1381667128 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: World of Final Fantasy Maxima; Developer(s): Tose; Publisher(s): Square Enix; Release date: November 6, 2018
+
+## en.wikipedia.org (Information; List of PC games (W), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(W) -- dates, platforms -- accessed 2026-11-03 (revision 1325479962 of 2025-12-03; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Name; Developer; Publisher; Genre(s); Operating system(s); Date released
+  - Row: World of Final Fantasy; Square Enix; Square Enix; Role-playing; Microsoft Windows,; 2017-11-21
+
+## en.wikipedia.org (Information; List of PlayStation Vita games (W–Z), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_Vita_games_(W%E2%80%93Z) -- dates, platforms -- accessed 2026-11-03 (revision 1365315994 of 2026-07-21; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; PS TV compat. compatibility; Ref. Reference
+  - Row: World of Final Fantasy; Role-playing; Tose (company) Tose Square Enix Business Division 3; Square Enix; 2016-Oct-25; 2016-Oct-27; 2016-Oct-28
+
+## en.wikipedia.org (Information; List of Xbox One games (M–Z), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_games_(M%E2%80%93Z) -- dates, platforms -- accessed 2026-11-03 (revision 1378205706 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: World of Final Fantasy Maxima; Role-playing; Tose (company) Tose Square Enix; Square Enix; 2018-Nov-06; 2018-Nov-06; 2018-Nov-06; X
+
 ## Decisions

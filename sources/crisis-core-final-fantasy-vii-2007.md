@@ -378,4 +378,25 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
   - Alphabetical list of games released natively for PlayStation 5 (PS4-compatible and PlayStation VR2 titles excluded); one table, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references; addons key CB cross-buy, CP cross-play, P Pro enhanced
   - Row: Crisis Core: Final Fantasy VII Reunion; Role-playing; developer and publisher Square Enix; JP, NA and PAL 2022-12-13; no addons marker
 
+## en.wikipedia.org (Information; List of Nintendo Switch 2 games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_2_games -- dates, platforms -- accessed 2026-11-03 (revision 1383631769 of 2026-11-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Crisis Core: Final Fantasy VII Reunion; Developer(s): Square Enix, Tose; Publisher(s): Square Enix; Release date: September 9, 2026
+
+## en.wikipedia.org (Information; List of Nintendo Switch games (C–G), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(C%E2%80%93G) -- dates, platforms -- accessed 2026-11-03 (revision 1379229872 of 2026-10-08; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Crisis Core: Final Fantasy VII Reunion; Developer(s): Tose; Publisher(s): Square Enix; Release date: December 13, 2022
+
+## en.wikipedia.org (Information; List of PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1380269697 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Crisis Core: Final Fantasy VII; North America: 2008/03/25; Europe: 2008/06/20; Asia/Japan: 2007/09/13; Australia: 2008/06/19; Developer: Square Enix; Publisher: Square Enix
+
+## en.wikipedia.org (Information; List of Xbox Series X and Series S games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_Series_X_and_Series_S_games -- dates, platforms -- accessed 2026-11-03 (revision 1382768564 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Crisis Core: Final Fantasy VII Reunion; Role-playing; Square Enix; Square Enix; 2022-Dec-13; 2022-Dec-13; 2022-Dec-13; OP
+
 ## Decisions

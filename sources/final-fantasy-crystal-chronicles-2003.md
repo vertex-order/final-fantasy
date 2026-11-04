@@ -315,4 +315,15 @@
   - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
   - Row: Final Fantasy: Crystal Chronicles Remastered; developer column Square Enix; JP, NA and PAL 2020-08-27; options: CP (cross-play)
 
+## en.wikipedia.org (Information; List of GameCube games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_GameCube_games -- dates, platforms -- accessed 2026-11-03 (revision 1378456432 of 2026-10-04; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Japan; North America; PAL
+  - Row: Final Fantasy Crystal Chronicles; The Game Designers Studio; Nintendo; 2003-08-08JP; 2003-08-08; 2004-02-09; 2004-03-12EU 2004-03-19AUS
+
+## en.wikipedia.org (Information; List of Nintendo Switch games (C–G), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(C%E2%80%93G) -- dates, platforms -- accessed 2026-11-03 (revision 1379229872 of 2026-10-08; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy: Crystal Chronicles Remastered Edition; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: August 27, 2020
+
 ## Decisions

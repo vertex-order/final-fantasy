@@ -301,4 +301,16 @@
   - Alphabetical list of games released natively for PlayStation 5 (PS4-compatible and PlayStation VR2 titles excluded); one table, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references; addons key CB cross-buy, CP cross-play, P Pro enhanced
   - Row: Stranger of Paradise: Final Fantasy Origin; Action role-playing; developer Team Ninja, publisher Square Enix; JP, NA and PAL 2022-03-18; no addons marker
 
+## en.wikipedia.org (Information; List of Xbox One games (M–Z), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_games_(M%E2%80%93Z) -- dates, platforms -- accessed 2026-11-03 (revision 1378205706 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Stranger of Paradise: Final Fantasy Origin; Action role-playing; Team Ninja; Square Enix; 2022-Mar-18; 2022-Mar-18; 2022-Mar-18
+
+## en.wikipedia.org (Information; List of Xbox Series X and Series S games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_Series_X_and_Series_S_games -- dates, platforms -- accessed 2026-11-03 (revision 1382768564 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Stranger of Paradise: Final Fantasy Origin; Action role-playing game Action role-playing soulslike; Team Ninja; Square Enix; 2022-Mar-18; 2022-Mar-18; 2022-Mar-18
+
 ## Decisions

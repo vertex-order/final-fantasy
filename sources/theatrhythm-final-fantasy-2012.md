@@ -124,4 +124,15 @@
 - https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用ソフト -- Japanese Wikipedia's category (668 pages); lists the page シアトリズム ファイナルファンタジー -- category page revision 104487957; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
 - https://ja.wikipedia.org/wiki/Category:すれちがい通信対応ソフト -- Japanese Wikipedia's category (149 pages); lists the page シアトリズム ファイナルファンタジー -- category page revision 39054374; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
 
+## en.wikipedia.org (Information; List of Nintendo 3DS games (N–Z), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_3DS_games_(N%E2%80%93Z) -- dates, platforms -- accessed 2026-11-03 (revision 1381540433 of 2026-10-23; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Release date; Ref. References
+  - Row: Theatrhythm Final Fantasy; Square Enix#Product development divisions Square Enix 1st Production Department indieszero; Square Enix; 2012-02-16; 2012-07-03; 2012-07-05; 2012-07-06
+
+## en.wikipedia.org (Information; List of iOS games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_iOS_games -- dates, platforms -- accessed 2026-11-03 (revision 1382859620 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Theatrhythm Final Fantasy; Developer(s): Square Enix; Publisher(s): Square Enix; Genre: Rhythm; Release date: 2012-12-13
+
 ## Decisions

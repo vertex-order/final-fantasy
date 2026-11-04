@@ -109,4 +109,9 @@
   - Final Fantasy: Crystal Chronicles - My Life as a Darklord (2009) -- type label Main Game; platforms shown: Wii; released 2009-08-20
     - https://www.igdb.com/games/final-fantasy-crystal-chronicles-my-life-as-a-darklord -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of WiiWare games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_WiiWare_games -- dates, platforms -- accessed 2026-11-03 (revision 1369789613 of 2026-08-17; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title and source: Final Fantasy Crystal Chronicles: My Life as a Darklord / Hikari to Yami no Himegimi to Sekai Seifuku no Tou: Final Fantasy Crystal ChroniclesJP; Developer(s)/Publisher(s): Square Enix
+
 ## Decisions

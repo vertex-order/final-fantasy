@@ -618,4 +618,64 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Listed on all three pages; product id 1436419216; tile title "Final Fantasy III (3D Remake)"; year shown: 2014; developer / publisher shown: Square Enix / Square Enix; platform icons: Windows only; languages shown: English (text); label: GOOD OLD GAME
     - https://www.gog.com/en/game/final_fantasy_iii_3d_remake -- GOG product page, listed live (2026-11-03) -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of Nintendo DS Wi-Fi Connection games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_Wi-Fi_Connection_games -- dates, platforms -- accessed 2026-11-03 (revision 1374057573 of 2026-09-09; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy III; Genre: RPG; Number of Players: 2; Developer: Square Enix / Matrix Software; Publisher: Square Enix; Available: NA EU AUS JP; First Released: 2006-11-14; Source: 1=[https://web.archive.org/web/20080625120148/http://na.square-enix.com/ff3/]
+
+## en.wikipedia.org (Information; List of Nintendo DS games (D–I), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_games_(D%E2%80%93I) -- dates, platforms -- accessed 2026-11-03 (revision 1380441952 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy III (2006 video game); Developer(s): Matrix Software; Publisher(s): Square Enix; First released: JP 2006-08-24; JP: Y; NA: Y; EU: Y; AU: Y
+
+## en.wikipedia.org (Information; List of Nintendo Entertainment System games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_games -- dates, platforms -- accessed 2026-11-03 (revision 1381703740 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title(s) /; Developer(s); Publisher(s); First released; Release date
+  - Row: Final Fantasy III; Square; Square; 1990-04-27JP; 1990-04-27; Unreleased; Unreleased
+
+## en.wikipedia.org (Information; List of Ouya software, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Ouya_software -- dates, platforms -- accessed 2026-11-03 (revision 1371515439 of 2026-08-26; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy III; Developer(s): Square Enix; Release date: March 2013
+
+## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Name: Final Fantasy III; Developer: Square Enix; Publisher: Square Enix; Genre(s): Role-playing; Operating system(s): Microsoft Windows; Date released: 2014-5-27
+
+## en.wikipedia.org (Information; List of PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1380269697 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy III; North America: 2012/09/25; Europe: Unreleased; Asia/Japan: 2012/09/20; Australia: Unreleased; Developer: Square Enix; Publisher: Square Enix
+
+## en.wikipedia.org (Information; List of Virtual Console games for Nintendo 3DS (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Nintendo_3DS_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383449654 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy III; Publisher: Square Enix; Platform: FC; Release Date: 2014-4-23
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii -- dates, platforms -- accessed 2026-11-03 (revision 1383440783 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy III; Publisher(s): Square Enix; Platform: FC; North America release date: Unreleased; Europe release date: Unreleased; Oceania release date: Unreleased; Japan release date: 2009-7-21
+  - Row: Title: NA: Final Fantasy III / PAL: Final Fantasy III (900 Nintendo Points) / JP: Final Fantasy VI; Publisher(s): NA: Square Enix / PAL: Square Enix / JP: Square Enix; North America release date: 2011-6-30; Europe release date: 2011-03-18; Oceania release date: 2011-03-18; Japan release date: 2011-3-15
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii U (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii_U_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383448124 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy III; Publisher: Square Enix; Platform: FC; Release date: 2014-1-8
+
+## en.wikipedia.org (Information; List of Xbox Live games on Windows Phone, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_Live_games_on_Windows_Phone -- dates, platforms -- accessed 2026-11-03 (revision 1366785898 of 2026-07-30; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy III; Developer: Matrix Software; Publisher: Square Enix
+
+## en.wikipedia.org (Information; List of downloadable PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1374465186 of 2026-09-12; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy III; Developer: Square Enix; PSP: September 25, 2012 (North America) / September 26, 2012 (Europe)
+
 ## Decisions
+
+- **Not to be listed: the cancelled WonderSwan Color version of Final Fantasy III (user, 2026-11-03):** a Square WonderSwan Color game in the cancelled list, cited to RPGFan's 'WSC FFIII Vanishes, FFI-II Remake In The Works' (2002, http://www.rpgfan.com/news/2002/1717.html, https://web.archive.org/web/20070315205600/http://www.rpgfan.com/news/2002/1717.html); never released, so the WonderSwan Color is not a platform of Final Fantasy III. Only this platform is left out: the game itself released on other platforms and stays listed on them
+  - Evidence: https://en.wikipedia.org/wiki/List_of_WonderSwan_Color_games (revision 1351986427 of 2026-05-01; Cancelled games section)

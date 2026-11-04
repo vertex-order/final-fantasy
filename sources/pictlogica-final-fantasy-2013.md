@@ -141,4 +141,10 @@
 
 - https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用ソフト -- Japanese Wikipedia's category (668 pages); lists the page ピクトロジカ ファイナルファンタジー≒ -- category page revision 104487957; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
 
+## en.wikipedia.org (Information; List of Nintendo 3DS games (N–Z), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_3DS_games_(N%E2%80%93Z) -- dates, platforms -- accessed 2026-11-03 (revision 1381540433 of 2026-10-23; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Release date; Ref. References
+  - Row: Pictlogica Final Fantasy; Square Enix; Square Enix; 2017-07-12; Unreleased; Unreleased; Unreleased
+
 ## Decisions

@@ -390,6 +390,28 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
   - Alphabetical list of PlayStation 3 games, split over four pages (A–C, D–I, J–P, Q–Z; the page List_of_PlayStation_3_games redirects to A–C); one table per page, columns title, developer(s), release dates (JP, PAL, NA), options (D: digital only games), references
   - Row: Final Fantasy XIII-2; developer column Square Enix; JP 2011-12-15, PAL 2012-02-03, NA 2012-01-31; no options marker
 
+## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Name: Final Fantasy XIII-2; Developer: Square Enix; Publisher: Square Enix; Genre(s): Role-playing; Operating system(s): Microsoft Windows; Date released: 2014-12-11
+
+## en.wikipedia.org (Information; List of Xbox 360 games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_360_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1381043311 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Xbox One; Ref. References
+  - Row: Final Fantasy XIII-2; Role-playing; Square Enix; Square Enix; 2012-Jan-31; 2012-Feb-03; 2011-Dec-15; 2013-Nov-22; XBO XE
+
+## en.wikipedia.org (Information; List of Xbox One X enhanced games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_X_enhanced_games -- dates, platforms -- accessed 2026-11-03 (revision 1359985267 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Game title; Known enhancements; Enhanced / patch / availability; Notes/references
+  - Row: Final Fantasy XIII-2; Y; 30; 4K; Available; Xbox 360 game
+
+## en.wikipedia.org (Information; List of backward-compatible games for Xbox One and Series X/S, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_backward-compatible_games_for_Xbox_One_and_Series_X%2FS -- dates, platforms -- accessed 2026-11-03 (revision 1382133032 of 2026-10-26; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy XIII-2; Publisher(s): Square Enix; Date added: November 13, 2018
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

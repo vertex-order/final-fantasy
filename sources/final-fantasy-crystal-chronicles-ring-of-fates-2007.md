@@ -70,4 +70,14 @@
   - Final Fantasy: Crystal Chronicles - Ring of Fates (2007) -- type label Main Game; platforms shown: Nintendo DS; released 2007-08-23
     - https://www.igdb.com/games/final-fantasy-crystal-chronicles-ring-of-fates -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of Nintendo DS Wi-Fi Connection games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_Wi-Fi_Connection_games -- dates, platforms -- accessed 2026-11-03 (revision 1374057573 of 2026-09-09; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Crystal Chronicles: Ring of Fates; Genre: Action RPG; Number of Players: 4; Developer: Square Enix; Publisher: Square Enix; Available: NA EU AUS JP; First Released: 2007-08-23; Source: [http://na.square-enix.com/ffccrof/]
+
+## en.wikipedia.org (Information; List of Nintendo DS games (D–I), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_games_(D%E2%80%93I) -- dates, platforms -- accessed 2026-11-03 (revision 1380441952 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Crystal Chronicles: Ring of Fates; Developer(s): Square Enix; Publisher(s): Square Enix; First released: JP 2007-08-23; JP: Y; NA: Y; EU: Y; AU: Y
+
 ## Decisions

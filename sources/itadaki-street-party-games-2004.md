@@ -141,6 +141,22 @@ Without Final Fantasy characters (out of scope):
 - Itadaki Street Wii (Fortune Street in North America, Boom Street in Europe) -- 2011-12-01 Japan, 2011-12-05 North America, 2011-12-23 Europe, 2012-01-05 Australia -- Wii; Dragon Quest and Mario characters
 - Itadaki Street for Smartphone (Fortune Street Smart, Boom Street Smart) -- 2012-01-23 Japan, 2012-05-31 worldwide -- Android, iOS; no licensed characters from Dragon Quest, Final Fantasy or Mario
 
+## en.wikipedia.org (Information; List of PlayStation 2 games (A–K), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_2_games_(A%E2%80%93K) -- dates, platforms -- accessed 2026-11-03 (revision 1382731584 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Dragon Quest & Final Fantasy in Itadaki Street Special; Developer: Square Enix; Publisher: Square Enix; First released: 2004-12-22; JP: Y
+
+## en.wikipedia.org (Information; List of PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1380269697 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Dragon Quest & Final Fantasy in Itadaki Street Portable; North America: Unreleased; Europe: Unreleased; Asia/Japan: 2006/05/25; Australia: Unreleased; Developer: Think Garage; Publisher: Square Enix
+
+## en.wikipedia.org (Information; List of PlayStation Vita games (I–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_Vita_games_(I%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1375960768 of 2026-09-21; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; PS TV compat. compatibility; Ref. Reference
+  - Row: Itadaki Street: Dragon Quest and Final Fantasy 30th Anniversary; Board game; Square Enix; Square Enix; Unreleased; Unreleased; 2017-Oct-19
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

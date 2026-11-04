@@ -578,4 +578,61 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
   - Member: ファイナルファンタジーV
   - https://ja.wikipedia.org/wiki/ファイナルファンタジーV -- the article of that member (revision 111160450 of 2026-09-26) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
 
+## en.wikipedia.org (Information; List of Game Boy Advance games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Game_Boy_Advance_games -- dates, platforms -- accessed 2026-11-03 (revision 1380142728 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title(s); Developer(s); Publisher(s); Release date(s); Region(s) released
+  - Row: Final Fantasy V Advance; TOSE; Square Enix (Japan), Nintendo (overseas); JP 2006-10-12 NA 2006-11-06 EU 2007-04-20; Y; Y; Y
+
+## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Name: Final Fantasy V; Developer: Square Enix; Publisher: Square Enix; Genre(s): Role-playing; Operating system(s): Microsoft Windows; Date released: 2021-11-10
+
+## en.wikipedia.org (Information; List of PlayStation (console) games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_(console)_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1381302648 of 2026-10-21; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Regions released; Options; Ref. Reference
+  - Row: Final Fantasy V; Square; Square; 1998-03-19; Unreleased; Unreleased
+  - Row: Final Fantasy Anthology; Square; Square; Unreleased; Unreleased; 1999-09-30
+  - Row: Final Fantasy Anthology: European Edition; Square; Sony Computer Entertainment; Unreleased; 2002-05-01; Unreleased
+  - Row: Final Fantasy Collection; Squaresoft; Square; 1999-03-11; Unreleased; Unreleased
+
+## en.wikipedia.org (Information; List of Super Nintendo Entertainment System games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Super_Nintendo_Entertainment_System_games -- dates, platforms -- accessed 2026-11-03 (revision 1383313298 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Release date; Ref. Reference
+  - Row: Final Fantasy V; Square; Square; 1992-12-6; Unreleased; Unreleased
+
+## en.wikipedia.org (Information; List of Virtual Console games for Nintendo 3DS (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Nintendo_3DS_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383449654 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy V; Publisher: Square Enix; Release Date: 2017-08-23
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii -- dates, platforms -- accessed 2026-11-03 (revision 1383440783 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy V; Publisher(s): Square Enix; North America release date: Unreleased; Europe release date: Unreleased; Oceania release date: Unreleased; Japan release date: 2011-1-18
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii U (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii_U_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383448124 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy V; Publisher: Square Enix; Release date: 2014-03-26
+  - Row: Title: Final Fantasy V Advance; Publisher: Square Enix; Release date: 2016-4-20
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1371556562 of 2026-08-27; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy V; Publisher: Square Enix; PSP: April 6, 2011
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (North America), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(North_America) -- dates, platforms -- accessed 2026-11-03 (revision 1378620546 of 2026-10-05; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy V; Publisher: Square Enix; PSP: November 22, 2011; PS3: November 22, 2011
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (PAL region), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(PAL_region) -- dates, platforms -- accessed 2026-11-03 (revision 1381241655 of 2026-10-20; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy V; Publisher: Square Enix; PSV PlayStation Vita: August 28, 2012; PEGI: 16
+
 ## Decisions

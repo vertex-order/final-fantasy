@@ -384,6 +384,38 @@
   - Alphabetical list of PlayStation 3 games, split over four pages (A–C, D–I, J–P, Q–Z; the page List_of_PlayStation_3_games redirects to A–C); one table per page, columns title, developer(s), release dates (JP, PAL, NA), options (D: digital only games), references
   - Row: Crystal Defenders; developer column Square Enix; JP 2009-03-11, PAL 2009-07-23, NA 2009-08-06; options: D (digital only)
 
+## en.wikipedia.org (Information; List of PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1380269697 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Crystal Defenders; North America: 2010/09/29; Europe: 2010/09/29; Asia/Japan: 2010/09/29; Australia: 2010/09/29; Developer: Square Enix; Publisher: Square Enix
+
+## en.wikipedia.org (Information; List of WiiWare games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_WiiWare_games -- dates, platforms -- accessed 2026-11-03 (revision 1369789613 of 2026-08-17; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title and source: Crystal Defenders R1; Developer(s)/Publisher(s): Square Enix
+  - Row: Title and source: Crystal Defenders R2; Developer(s)/Publisher(s): Square Enix
+
+## en.wikipedia.org (Information; List of Wii Wi-Fi Connection games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Wii_Wi-Fi_Connection_games -- dates, platforms -- accessed 2026-11-03 (revision 1381473298 of 2026-10-22; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Crystal Defenders R1/R2; Genre: Tower defense; Developer: Square Enix; Available: EU, JP, NA; Type: S; First released: 2009-01-27; [http://www.siliconera.com/2009/01/22/which-version-of-crystal-defenders-should-you-get/]
+
+## en.wikipedia.org (Information; List of Xbox 360 games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_360_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1381043311 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Xbox One; Ref. References
+  - Row: Crystal Defenders; Strategy & simulation; Square Enix; Square Enix; 2009-Mar-11; Unreleased; Unreleased; Unreleased; XBLA; XBO
+
+## en.wikipedia.org (Information; List of backward-compatible games for Xbox One and Series X/S, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_backward-compatible_games_for_Xbox_One_and_Series_X%2FS -- dates, platforms -- accessed 2026-11-03 (revision 1382133032 of 2026-10-26; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Crystal Defenders; Publisher(s): Square Enix; Format: XBLA; Date added: July 21, 2016
+
+## en.wikipedia.org (Information; List of downloadable PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1374465186 of 2026-09-12; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Crystal Defenders; Developer: Square Enix; PSP: October 29, 2009 (North America)
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it

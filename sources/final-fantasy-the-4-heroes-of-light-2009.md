@@ -64,4 +64,9 @@
   - Final Fantasy: The 4 Heroes of Light (2009) -- type label Main Game; platforms shown: Nintendo DS; released 2009-10-29
     - https://www.igdb.com/games/final-fantasy-the-4-heroes-of-light -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of Nintendo DS games (D–I), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_games_(D%E2%80%93I) -- dates, platforms -- accessed 2026-11-03 (revision 1380441952 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy: The 4 Heroes of Light; Developer(s): Matrix Software; Publisher(s): Square Enix; First released: JP 2009-10-29; JP: Y; NA: Y; EU: Y; AU: Y
+
 ## Decisions

@@ -377,4 +377,14 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Final Fantasy IV: The Complete Collection (2011) -- type label Bundle; platforms shown: PlayStation Portable; released 2011-03-24
     - https://www.igdb.com/games/final-fantasy-iv-the-complete-collection -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Name: Final Fantasy IV: The After Years; Developer: Square Enix; Publisher: Square Enix; Genre(s): Role-playing; Operating system(s): Microsoft Windows; Date released: 2015-5-12
+
+## en.wikipedia.org (Information; List of WiiWare games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_WiiWare_games -- dates, platforms -- accessed 2026-11-03 (revision 1369789613 of 2026-08-17; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title and source: Final Fantasy IV: The After Years / Final Fantasy IV: The After Years - Tsuki no KikanJP; Developer(s)/Publisher(s): Square Enix, Matrix Software
+
 ## Decisions

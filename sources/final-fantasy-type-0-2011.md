@@ -302,4 +302,20 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
   - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
   - Row: Final Fantasy Type-0 HD; developer column Square Enix; JP 2015-03-19, NA 2015-03-17, PAL 2015-03-20; no options marker
 
+## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Name: Final Fantasy Type 0; Developer: Square Enix; Publisher: Square Enix; Genre(s): Role-playing; Operating system(s): Microsoft Windows; Date released: 2015-8-18
+
+## en.wikipedia.org (Information; List of PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1380269697 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Type-0; North America: Unreleased; Europe: Unreleased; Asia/Japan: 2011/10/27; Australia: Unreleased; Developer: Square Enix 1st Production Department; Publisher: Square Enix
+
+## en.wikipedia.org (Information; List of Xbox One games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1378205264 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Final Fantasy Type-0 HD; Action role-playing; Square Enix; Square Enix; 2015-Mar-19; 2015-Mar-17; 2015-Mar-20
+
 ## Decisions

@@ -759,4 +759,69 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - Member: ファイナルファンタジーIV
   - https://ja.wikipedia.org/wiki/ファイナルファンタジーIV -- the article of that member (revision 111593793 of 2026-10-31) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
 
+## en.wikipedia.org (Information; List of Game Boy Advance games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Game_Boy_Advance_games -- dates, platforms -- accessed 2026-11-03 (revision 1380142728 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title(s); Developer(s); Publisher(s); Release date(s); Region(s) released
+  - Row: Final Fantasy IV Advance; TOSE; Square Enix (Japan), Nintendo (overseas); NA 2005-12-12 JP 2005-12-15 EU 2006-06-02; Y; Y; Y
+
+## en.wikipedia.org (Information; List of Nintendo DS games (D–I), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_games_(D%E2%80%93I) -- dates, platforms -- accessed 2026-11-03 (revision 1380441952 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy IV; Developer(s): Matrix Software Square Enix; Publisher(s): Square Enix; First released: JP 2007-12-20; JP: Y; NA: Y; EU: Y; AU: Y
+
+## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Name: Final Fantasy IV; Developer: Square Enix; Publisher: Square Enix; Genre(s): Role-playing; Operating system(s): Microsoft Windows; Date released: 2014-9-17
+
+## en.wikipedia.org (Information; List of PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1380269697 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy IV: The Complete Collection; North America: 2011/04/19; Europe: 2011/04/21; Asia/Japan: 2011/03/24; Australia: Unreleased; Developer: Square Enix; Publisher: Square Enix
+
+## en.wikipedia.org (Information; List of PlayStation (console) games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_(console)_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1381302648 of 2026-10-21; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Regions released; Options; Ref. Reference
+  - Row: Final Fantasy IV; Square; Square; 1997-03-21; Unreleased; Unreleased
+  - Row: Final Fantasy Chronicles; Square; Square Electronic Arts; Unreleased; Unreleased; 2001-06-29
+  - Row: Final Fantasy Collection; Squaresoft; Square; 1999-03-11; Unreleased; Unreleased
+
+## en.wikipedia.org (Information; List of Super Nintendo Entertainment System games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Super_Nintendo_Entertainment_System_games -- dates, platforms -- accessed 2026-11-03 (revision 1383313298 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Release date; Ref. Reference
+  - Row: Final Fantasy IV / •Final Fantasy IINA; Square; Square; 1991-7-19; 1991-11; Unreleased
+  - Row: Final Fantasy IV Easy Type; Square; Square; 1991-10-29; Unreleased; Unreleased
+
+## en.wikipedia.org (Information; List of Virtual Console games for Nintendo 3DS (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Nintendo_3DS_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383449654 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy IV; Publisher: Square Enix; Release Date: 2017-08-23
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii U (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii_U_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383448124 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy IV; Publisher: Square Enix; Release date: 2014-02-19
+  - Row: Title: Final Fantasy IV Advance; Publisher: Square Enix; Release date: 2016-4-13
+
+## en.wikipedia.org (Information; List of WonderSwan Color games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_WonderSwan_Color_games -- dates, platforms -- accessed 2026-11-03 (revision 1351986427 of 2026-05-01; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy IV; Publisher: Square; Release date: 2002-3-29
+
+## en.wikipedia.org (Information; List of downloadable PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1374465186 of 2026-09-12; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy IV: The Complete Collection; Developer: Square Enix; PSP: April 18, 2011 (North America) / April 19, 2011 (Europe) / March 24, 2011 (Japan)
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1371556562 of 2026-08-27; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy IV; Publisher: Square Enix; PSP: June 27, 2012
+
 ## Decisions
+
+- **Not to be listed: the cancelled Famicom/NES version of Final Fantasy IV (user, 2026-11-03):** planned for the Famicom (Square, 1991, Japan) and moved to the Super Famicom before any work was done, per GamesRadar+ 'The lost Nintendo games' (2008-05-30, https://www.gamesradar.com/the-lost-nintendo-games/) and Lost Levels (2003-11, http://www.lostlevels.org/200311/200311-square.shtml); never released, so the NES is not a platform of Final Fantasy IV. Only this platform is left out: the game itself released on other platforms and stays listed on them
+  - Evidence: https://en.wikipedia.org/wiki/List_of_cancelled_NES_games (revision 1382879856 of 2026-10-30; Final Fantasy IV row); https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_games (revision 1381703740 of 2026-10-24; Unreleased games section)

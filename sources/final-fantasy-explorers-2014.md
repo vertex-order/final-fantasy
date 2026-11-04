@@ -194,4 +194,10 @@
 
 - https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用ソフト -- Japanese Wikipedia's category (668 pages); lists the page ファイナルファンタジー エクスプローラーズ -- category page revision 104487957; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
 
+## en.wikipedia.org (Information; List of Nintendo 3DS games (0–M), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_3DS_games_(0%E2%80%93M) -- dates, platforms -- accessed 2026-11-03 (revision 1380481052 of 2026-10-16; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Release date; Ref. References
+  - Row: Final Fantasy Explorers; Square Enix Racjin; Square Enix; 2014-12-18; 2016-01-26; 2016-01-29; 2016-01-29
+
 ## Decisions

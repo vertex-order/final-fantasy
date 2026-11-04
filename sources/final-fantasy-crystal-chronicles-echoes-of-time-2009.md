@@ -94,4 +94,25 @@ ja.wikipedia.org (Information)
   - Final Fantasy: Crystal Chronicles - Echoes of Time (2009) -- type label Main Game; platforms shown: Nintendo DS, Wii; released 2009-01-29
     - https://www.igdb.com/games/final-fantasy-crystal-chronicles-echoes-of-time -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of Nintendo DS Wi-Fi Connection games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_Wi-Fi_Connection_games -- dates, platforms -- accessed 2026-11-03 (revision 1374057573 of 2026-09-09; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Crystal Chronicles: Echoes of Time; Genre: Action RPG; Number of Players: 4; Developer: Square Enix; Publisher: Square Enix; Available: JP NA; First Released: 2009-01-29; Source: [http://www.square-enix.co.jp/ffcc/eot/]
+
+## en.wikipedia.org (Information; List of Nintendo DS games (D–I), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_games_(D%E2%80%93I) -- dates, platforms -- accessed 2026-11-03 (revision 1380441952 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Crystal Chronicles: Echoes of Time; Developer(s): Square Enix; Publisher(s): Square Enix; First released: JP 2009-01-29; JP: Y; NA: Y; EU: Y; AU: Y
+
+## en.wikipedia.org (Information; List of Wii Wi-Fi Connection games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Wii_Wi-Fi_Connection_games -- dates, platforms -- accessed 2026-11-03 (revision 1381473298 of 2026-10-22; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Crystal Chronicles: Echoes of Time; Genre: Action RPG; Developer: Square Enix; Publisher: Square Enix; Available: AUS, EU, JP, NA; Type: O(4), DS; First released: 2009-03-24; [http://na.square-enix.com/ffcceot/]
+
+## en.wikipedia.org (Information; List of Wii games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Wii_games -- dates, platforms -- accessed 2026-11-03 (revision 1379396378 of 2026-10-09; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); First released; Release date (NTSC); Release date (PAL)
+  - Row: Final Fantasy Crystal Chronicles: Echoes of Time; Square Enix; Square Enix; 2009-01-29JP; 2009-01-29; 2009-03-24; 2009-04-02; 2009-03-27
+
 ## Decisions

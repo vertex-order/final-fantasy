@@ -490,4 +490,41 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
   - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
   - Row: Final Fantasy IX; developer column Square Enix; JP, NA and PAL 2017-09-19; no options marker
 
+## en.wikipedia.org (Information; List of Nintendo Switch games (C–G), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(C%E2%80%93G) -- dates, platforms -- accessed 2026-11-03 (revision 1379229872 of 2026-10-08; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy IX; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: February 13, 2019
+
+## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Name: Final Fantasy IX; Developer: Square Enix; Publisher: Square Enix; Genre(s): Role-playing; Operating system(s): Microsoft Windows; Date released: 2016-4-14
+
+## en.wikipedia.org (Information; List of PlayStation (console) games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_(console)_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1381302648 of 2026-10-21; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Regions released; Options; Ref. Reference
+  - Row: Final Fantasy IX; Square; SquareJP/EU, Square Electronic ArtsNA; 2000-07-07; 2001-02-16; 2000-11-13; P
+
+## en.wikipedia.org (Information; List of Xbox One games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1378205264 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Final Fantasy IX; Action role-playing; Square Enix; Square Enix; 2019-Feb-13; 2019-Feb-13; 2019-Feb-13; PA
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1371556562 of 2026-08-27; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy IX; Publisher: Square Enix; PSP: May 20, 2010
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (North America), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(North_America) -- dates, platforms -- accessed 2026-11-03 (revision 1378620546 of 2026-10-05; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy IX; Publisher: Square Enix; PS3: June 15, 2010
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (PAL region), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(PAL_region) -- dates, platforms -- accessed 2026-11-03 (revision 1381241655 of 2026-10-20; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy IX; Publisher: Square Enix; PSV PlayStation Vita: August 28, 2012; PEGI: 16
+
 ## Decisions

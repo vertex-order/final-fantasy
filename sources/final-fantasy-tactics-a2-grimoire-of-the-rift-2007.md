@@ -67,4 +67,9 @@
   - Final Fantasy Tactics A2: Grimoire of the Rift (2007) -- type label Main Game; platforms shown: Nintendo DS; released 2007-10-25
     - https://www.igdb.com/games/final-fantasy-tactics-a2-grimoire-of-the-rift -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of Nintendo DS games (D–I), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_games_(D%E2%80%93I) -- dates, platforms -- accessed 2026-11-03 (revision 1380441952 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Tactics A2: Grimoire of the Rift; Developer(s): Square Enix; Publisher(s): Square Enix; First released: JP 2007-10-25; JP: Y; NA: Y; EU: Y; AU: Y
+
 ## Decisions

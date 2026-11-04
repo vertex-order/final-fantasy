@@ -73,4 +73,10 @@ Square Enix (Publisher, Developer)
   - Final Fantasy: Crystal Chronicles - The Crystal Bearers (2009) -- type label Main Game; platforms shown: Wii; released 2009-11-12
     - https://www.igdb.com/games/final-fantasy-crystal-chronicles-the-crystal-bearers -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of Wii games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Wii_games -- dates, platforms -- accessed 2026-11-03 (revision 1379396378 of 2026-10-09; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); First released; Release date (NTSC); Release date (PAL)
+  - Row: Final Fantasy Crystal Chronicles: The Crystal Bearers; Square Enix; Square Enix; 2009-11-12JP; 2009-11-12; 2009-12-26; 2010-02-05; 2010-02-05
+
 ## Decisions

@@ -637,6 +637,73 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
   - Member: ファイナルファンタジーII
   - https://ja.wikipedia.org/wiki/ファイナルファンタジーII -- the article of that member (revision 110746553 of 2026-08-23) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
 
+## en.wikipedia.org (Information; List of Game Boy Advance games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Game_Boy_Advance_games -- dates, platforms -- accessed 2026-11-03 (revision 1380142728 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title(s); Developer(s); Publisher(s); Release date(s); Region(s) released
+  - Row: Final Fantasy I & II: Dawn of Souls NA, PAL / • Final Fantasy I & II Advance JP; TOSE; Square Enix (Japan), Nintendo (overseas); JP 2004-07-29 AU 2004-11-18 NA 2004-11-29 EU 2004-12-03; Y; Y; Y
+
+## en.wikipedia.org (Information; List of Nintendo Entertainment System games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_games -- dates, platforms -- accessed 2026-11-03 (revision 1381703740 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title(s) /; Developer(s); Publisher(s); First released; Release date
+  - Row: Final Fantasy II; Square; Square; 1988-12-17JP; 1988-12-17; Unreleased; Unreleased
+  - Row: Final Fantasy I∙II; Square; Square; 1994-02-27JP; 1994-02-27; Unreleased; Unreleased
+
+## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Name: Final Fantasy II; Developer: Square Enix; Publisher: Square Enix; Genre(s): Role-playing; Operating system(s): Microsoft Windows; Date released: 2021-7-28
+
+## en.wikipedia.org (Information; List of PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1380269697 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy II; North America: 2007/07/24; Europe: 2008/02/08; Asia/Japan: 2007/06/07; Australia: 2008/02/28; Developer: Square Enix; Publisher: Square Enix
+
+## en.wikipedia.org (Information; List of PlayStation (console) games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_(console)_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1381302648 of 2026-10-21; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Regions released; Options; Ref. Reference
+  - Row: Final Fantasy II; Square; Square; 2002-10-31; Unreleased; Unreleased
+  - Row: Final Fantasy Origins / •Final Fantasy I & II Premium PackageJP; Square; SquareJP, InfogramesEU, Square Electronic ArtsNA; 2002-10-31; 2003-03-14; 2003-04-08
+
+## en.wikipedia.org (Information; List of Virtual Console games for Nintendo 3DS (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Nintendo_3DS_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383449654 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy II; Publisher: Square Enix; Platform: FC; Release Date: 2014-2-12
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii -- dates, platforms -- accessed 2026-11-03 (revision 1383440783 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy II; Publisher(s): Square Enix; Platform: FC; North America release date: Unreleased; Europe release date: Unreleased; Oceania release date: Unreleased; Japan release date: 2009-6-16
+  - Row: Title: NA: Final Fantasy II / PAL: Final Fantasy II (900 Nintendo Points) / JP: Final Fantasy IV; Publisher(s): NA: Square Enix / PAL: Square Enix / JP: Square Enix; North America release date: 2010-3-8; Europe release date: 2010-06-11; Oceania release date: 2010-06-11; Japan release date: 2009-8-4
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii U (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii_U_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383448124 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy II; Publisher: Square Enix; Platform: FC; Release date: 2013-12-11
+  - Row: Title: Final Fantasy I • II Advance; Publisher: Square Enix; Release date: 2016-1-6
+
+## en.wikipedia.org (Information; List of WonderSwan Color games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_WonderSwan_Color_games -- dates, platforms -- accessed 2026-11-03 (revision 1351986427 of 2026-05-01; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy II; Publisher: Square; Release date: 2001-5-2
+
+## en.wikipedia.org (Information; List of downloadable PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1374465186 of 2026-09-12; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy II; Developer: Square Enix; PSP: January 10, 2012 (Europe) / February 22, 2011 (Japan)
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1371556562 of 2026-08-27; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy II; Publisher: Square Enix; PSP: July 8, 2009
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (North America), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(North_America) -- dates, platforms -- accessed 2026-11-03 (revision 1378620546 of 2026-10-05; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Origins; Publisher: Square Enix; PSP: January 10, 2012; PS3: January 10, 2012
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

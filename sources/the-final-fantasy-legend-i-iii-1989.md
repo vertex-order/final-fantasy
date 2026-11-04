@@ -307,4 +307,22 @@
   - Makai Toushi SaGa (2002) -- type label Remake of The Final Fantasy Legend (1989); platforms shown: Mobile, WonderSwan Color
     - https://www.igdb.com/games/makai-toushi-saga -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of Game Boy games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Game_Boy_games -- dates, platforms -- accessed 2026-11-03 (revision 1382436920 of 2026-10-28; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Release date
+  - Row: The Final Fantasy Legend / Makai Tōshi SaGa JP; Square; Square; 1989-12-15; 1990-9; Unreleased
+  - Row: Final Fantasy Legend II / SaGa 2: Hihō Densetsu JP; Square; Square; 1990-12-14; 1991-11; Unreleased
+  - Row: Final Fantasy Legend III / SaGa 3: Jikū no Hasha JP; Square; Square; 1991-12-13; 1993-8; Unreleased
+
+## en.wikipedia.org (Information; List of Nintendo Switch games (C–G), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(C%E2%80%93G) -- dates, platforms -- accessed 2026-11-03 (revision 1379229872 of 2026-10-08; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Collection of Saga Final Fantasy Legend; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: December 15, 2020
+
+## en.wikipedia.org (Information; List of WonderSwan Color games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_WonderSwan_Color_games -- dates, platforms -- accessed 2026-11-03 (revision 1351986427 of 2026-05-01; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Makai Toushi SaGa; Publisher: Square; Release date: 2002-03-20
+
 ## Decisions

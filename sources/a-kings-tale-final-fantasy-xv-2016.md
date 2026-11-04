@@ -42,4 +42,10 @@
   - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
   - Row: A King's Tale: Final Fantasy XV; developer column Empty Clip Studios; JP, NA and PAL 2017-03-01; no options marker
 
+## en.wikipedia.org (Information; List of Xbox One games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1378205264 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: A King's Tale: Final Fantasy XV; Action; Empty Clip Studios; Square Enix; 2016-Nov-29; 2016-Nov-29; 2016-Nov-29
+
 ## Decisions

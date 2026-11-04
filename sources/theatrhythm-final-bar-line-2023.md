@@ -260,4 +260,9 @@
   - Theatrhythm: Final Bar Line - The World Ends with You Pack (2023) -- type label DLC of Theatrhythm Final Bar Line (2023); platforms shown: Nintendo Switch; released 2023-03-15
     - https://www.igdb.com/games/theatrhythm-final-bar-line-the-world-ends-with-you-pack -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of Nintendo Switch games (Q–Z), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(Q%E2%80%93Z) -- dates, platforms -- accessed 2026-11-03 (revision 1381667128 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Theatrhythm Final Bar Line; Developer(s): indieszero; Publisher(s): Square Enix; Release date: February 16, 2023
+
 ## Decisions

@@ -1021,6 +1021,82 @@
   - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
   - Row: Chocobo's Mystery Dungeon Every Buddy!; developer column Square Enix; JP, NA and PAL 2019-03-20; no options marker
 
+## en.wikipedia.org (Information; List of Game Boy Advance games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Game_Boy_Advance_games -- dates, platforms -- accessed 2026-11-03 (revision 1380142728 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title(s); Developer(s); Publisher(s); Release date(s); Region(s) released
+  - Row: Chocobo Land: A Game of Dice; Square; Square; JP 2002-12-13; Y; N; N; N
+
+## en.wikipedia.org (Information; List of Nintendo DS Wi-Fi Connection games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_Wi-Fi_Connection_games -- dates, platforms -- accessed 2026-11-03 (revision 1374057573 of 2026-09-09; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Cid to Chocobo no Fushigi na Dungeon: Toki Wasure no Meikyuu DS+; Genre: RPG; Developer: Square Enix; Publisher: Square Enix; Available: JP; First Released: 2008-10-30; Source: [http://www.chocobo.com/tokiwasureds/]
+  - Row: Title: Chocobo to Mahou no Ehon: Majo to Shoujo to 5-Jin no Yuusha; Genre: RPG; Developer: Square Enix; Publisher: Square Enix; Available: JP; First Released: 2008-12-11; Source: [http://www.chocobo.com/chocobo/]
+  - Row: Title: Final Fantasy Fables: Chocobo Tales; Genre: RPG / card game; Number of Players: 2; Developer: Square Enix; Publisher: Square Enix; Available: NA EU AUS JP; First Released: 2007-04-03; Source: [http://na.square-enix.com/chocobotales/]
+
+## en.wikipedia.org (Information; List of Nintendo DS games (0–C), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_games_(0%E2%80%93C) -- dates, platforms -- accessed 2026-11-03 (revision 1382897262 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Chocobo to Mahou no Ehon: Majo to Shoujo to Go-nin no Yuusha; Developer(s): h.a.n.d. Inc.; Publisher(s): Square Enix; First released: JP 2008-12-11; JP: Y; NA: N; EU: N; AU: N
+  - Row: Title: Cid to Chocobo no Fushigina Dungeon Toki Wasure no Meikyū DS+; Developer(s): Square Enix; Publisher(s): Square Enix; First released: JP 2008-10-30; JP: Y; NA: N; EU: N; AU: N
+  - Row: Title: Chocobo to Mahou no Ehon: Special Package; Developer(s): 1st Playable Productions; Publisher(s): D3Publisher; First released: JP 2008-12-11; JP: Y; NA: N; EU: N; AU: N
+
+## en.wikipedia.org (Information; List of Nintendo DS games (D–I), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_games_(D%E2%80%93I) -- dates, platforms -- accessed 2026-11-03 (revision 1380441952 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Fables: Chocobo Tales; Developer(s): h.a.n.d.; Publisher(s): Square Enix; First released: JP 2006-12-14; JP: Y; NA: Y; EU: Y; AU: Y
+
+## en.wikipedia.org (Information; List of Nintendo Switch games (C–G), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(C%E2%80%93G) -- dates, platforms -- accessed 2026-11-03 (revision 1379229872 of 2026-10-08; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Chocobo GP; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: March 10, 2022
+  - Row: Title: Chocobo's Mystery Dungeon Every Buddy; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: March 20, 2019
+
+## en.wikipedia.org (Information; List of PlayStation (console) games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_(console)_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1381302648 of 2026-10-21; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Regions released; Options; Ref. Reference
+  - Row: Chocobo Collection; Square, ParityBit, Denyusha Co.; Square; 1999-12-22; Unreleased; Unreleased
+  - Row: Chocobo Racing; Square; Square JP/PAL, Square Electronic Arts NA; 1999-03-18; 1999-10-11; 1999-08-10
+  - Row: Chocobo's Dungeon 2NA / •Chokobo no Fushigi na Danjon 2JP; Square; Square JP/PAL, Square Electronic Arts NA; 1998-12-23; Unreleased; 2000-01-01
+  - Row: Chocobo no Fushigi na Dungeon; Square; Square; 1997-12-23; Unreleased; Unreleased
+  - Row: Chocobo Stallion; Square; Square; 1999-12-22; Unreleased; Unreleased
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii U (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii_U_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383448124 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Chocobo Land: A Game of Dice; Publisher: Square Enix; Release date: 2016-2-10
+
+## en.wikipedia.org (Information; List of Wii Wi-Fi Connection games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Wii_Wi-Fi_Connection_games -- dates, platforms -- accessed 2026-11-03 (revision 1381473298 of 2026-10-22; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Fables: Chocobo's Dungeon; Genre: Role-playing video game; Developer: h.a.n.d.; Publisher: Square Enix; Available: AUS, EU, JP, NA; Type: O(2); First released: 2007-12-13; [https://web.archive.org/web/20080412232813/http://na.square-enix.com/fffcd/]
+
+## en.wikipedia.org (Information; List of Wii games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Wii_games -- dates, platforms -- accessed 2026-11-03 (revision 1379396378 of 2026-10-09; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); First released; Release date (NTSC); Release date (PAL)
+  - Row: Final Fantasy Fables: Chocobo's Dungeon; h.a.n.d.; Square Enix; 2007-12-13JP; 2007-12-13; 2008-07-08; 2008-07-30; 2008-11-07
+
+## en.wikipedia.org (Information; List of WonderSwan Color games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_WonderSwan_Color_games -- dates, platforms -- accessed 2026-11-03 (revision 1351986427 of 2026-05-01; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Hataraku Chocobo; Publisher: Square; Release date: 2000-9-21
+
+## en.wikipedia.org (Information; List of WonderSwan games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_WonderSwan_games -- dates, platforms -- accessed 2026-11-03 (revision 1375205350 of 2026-09-16; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Chocobo no Fushigi na Dungeon for WonderSwan; Developer: TOSE; Publisher: Bandai; Release dates: 1999-3-4
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1371556562 of 2026-08-27; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Chocobo Stallion; Publisher: Square Enix; PSP: July 23, 2008
+  - Row: Title: Dice de Chocobo; Publisher: Square Enix; PSP: July 23, 2008
+  - Row: Title: Chocobo Racing; Publisher: Square Enix; PSP: February 10, 2009
+  - Row: Title: Chocobo no Fushigi na Dungeon; Publisher: Square Enix; PSP: August 25, 2010
+  - Row: Title: Chocobo no Fushigi na Dungeon 2; Publisher: Square Enix; PSP: October 27, 2010
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.
@@ -1029,3 +1105,12 @@
 - Part order, the Chocobo Collection's games: Chocobo Stallion, Chocobo Racing (with Chocobo GP and Chocobo GP' beside it), Dice de Chocobo, in the order Square Enix's page and the jacket obi list them, over the alphabetical order of the wikis; no official order exists beyond that listing.
 - Chocobo's Chocotto Farm lists only the Chocobo-branded game: the renamed チョコッと農園, which has no Chocobo or Square Enix credit on the pages from 2018-10, is not Final Fantasy themed and is not listed on any portal (user's call).
 - Chocobo World stays a part here and is also its own entry in group VIII (a minigame spin-off belongs with Final Fantasy VIII; the Chocobo series part is a shortcut row to it, linked by its anchor).
+
+- **Not to be listed: Chocobo Racing 3D (user, 2026-11-03):** the whole game is left out, not a platform. A Nintendo 3DS sequel to Chocobo Racing announced at E3 2010, cancelled in 2013 (Square Enix, via Siliconera 2013-10-10) and explained in 2014 as a quality problem (Shinji Hashimoto, via Nintendo Life 2014-06-04); never released, and Chocobo GP (Nintendo Switch, 2022) is a separate game
+  - Evidence: https://en.wikipedia.org/wiki/List_of_cancelled_Nintendo_3DS_games (revision 1374058306 of 2026-09-09; Chocobo Racing 3D row)
+
+- **Not to be listed: the cancelled WonderSwan Color version of Chocobo no Fushigi na Dungeon 2 (user, 2026-11-03):** a Square WonderSwan Color game in the cancelled list, cited to GameSpot's 'Square Wonderswan games update' (December 1999, http://www.gamespot.com/news/2447101.html); never released, so the WonderSwan Color is not a platform of Chocobo's Dungeon 2. Only this platform is left out: the game itself released on other platforms and stays listed on them
+  - Evidence: https://en.wikipedia.org/wiki/List_of_WonderSwan_Color_games (revision 1351986427 of 2026-05-01; Cancelled games section)
+
+- **Not to be listed: the cancelled WonderSwan Color version of Dice de Chocobo (user, 2026-11-03):** a Square WonderSwan Color remake of the PlayStation game, in the cancelled list; never released, so the WonderSwan Color is not a platform of Dice de Chocobo. Only this platform is left out: the game itself released on other platforms and stays listed on them
+  - Evidence: https://en.wikipedia.org/wiki/List_of_WonderSwan_Color_games (revision 1351986427 of 2026-05-01; Cancelled games section)

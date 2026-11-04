@@ -89,4 +89,9 @@
   - Dissidia Final Fantasy Opera Omnia (2017) -- type label Main Game; platforms shown: Android, iOS; released 2017-02-01
     - https://www.igdb.com/games/dissidia-final-fantasy-opera-omnia -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of iOS games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_iOS_games -- dates, platforms -- accessed 2026-11-03 (revision 1382859620 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Dissidia Final Fantasy: Opera Omnia; Developer(s): Square Enix; Publisher(s): Square Enix; Genre: Endless runner; Release date: 2013-03-06
+
 ## Decisions

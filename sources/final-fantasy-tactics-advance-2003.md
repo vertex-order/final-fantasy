@@ -111,4 +111,25 @@
 - https://ja.wikipedia.org/wiki/バーチャルコンソール -- Virtual Console is digital -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461123 of 2026-10-21); archived: TODO
   - Says all Virtual Console software is digital distribution (download sale), so an internet connection was needed to buy it; Wii, Wii U and Nintendo 3DS are now re-download only
 
+## en.wikipedia.org (Information; List of Game Boy Advance games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Game_Boy_Advance_games -- dates, platforms -- accessed 2026-11-03 (revision 1380142728 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title(s); Developer(s); Publisher(s); Release date(s); Region(s) released
+  - Row: Final Fantasy Tactics Advance; Square; Square Enix (Japan), Nintendo (overseas); JP 2003-02-14 NA 2003-09-08 EU 2003-10-24; Y; Y; Y; Y
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii U (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii_U_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383448124 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Tactics Advance; Publisher: Square Enix; Release date: 2016-3-30
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii U (North America), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii_U_(North_America) -- dates, platforms -- accessed 2026-11-03 (revision 1383448324 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Tactics Advance; Publisher: Square Enix; Release date: 2016-01-28
+
+## en.wikipedia.org (Information; List of Virtual Console games for Wii U (PAL region), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii_U_(PAL_region) -- dates, platforms -- accessed 2026-11-03 (revision 1383448724 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Tactics Advance; Publisher: Square Enix; EU/AU Release Date: 2016-01-28
+
 ## Decisions

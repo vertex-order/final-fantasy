@@ -64,4 +64,9 @@ rottentomatoes.com (Ratings)
   - Bibliographic info: director Tetsuya Nomura, producers Yoshinori Kitase and Shinji Hashimoto, screenwriter Kazushige Nojima, production companies Square Enix and Square USA, distributor Fathom Events (the 2024 limited theatrical release, Feb 21, 2024), streaming release Jul 19, 2016, rated PG-13 (intense sci-fi action and violence), original language Japanese, genres Sci-Fi, Fantasy, Action and Anime, runtime 1h 40m (the original cut's length, where the entry's Complete version is 127 minutes), Dolby Digital
     - synopsis "A hero named Cloud (Takahiro Sakurai) must fight a new evil as a mysterious disease affects mankind in a devastated city"
 
+## en.wikipedia.org (Information; List of PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1380269697 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy VII: Advent Children; North America: 2006/04/25; Europe: 2006/04/24; Japan: 2005/09/14; Australia: Unreleased; Developer: Square Enix; Publisher: Square Enix
+
 ## Decisions

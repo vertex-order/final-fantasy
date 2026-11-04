@@ -293,4 +293,15 @@
   - Final Fantasy VII (1997) -- no card of its own on the saved pages; the parent of Final Fantasy VII Revelation (2027)
     - https://www.igdb.com/games/final-fantasy-vii -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of Nintendo Switch 2 games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_2_games -- dates, platforms -- accessed 2026-11-03 (revision 1383631769 of 2026-11-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy VII Revelation; Developer(s): Square Enix Creative Business Unit I; Publisher(s): Square Enix; Release date: April 8, 2027
+
+## en.wikipedia.org (Information; List of Xbox Series X and Series S games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_Series_X_and_Series_S_games -- dates, platforms -- accessed 2026-11-03 (revision 1382768564 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Final Fantasy VII Revelation; Action role-playing; Square Enix Creative Studio I; Square Enix; 2027-Apr-08; 2027-Apr-08; 2027-Apr-08
+
 ## Decisions

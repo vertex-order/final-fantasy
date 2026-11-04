@@ -585,6 +585,42 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
   - Member: ファイナルファンタジータクティクス
   - https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクス -- the article of that member (revision 111471952 of 2026-10-22) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
 
+## en.wikipedia.org (Information; List of Nintendo Switch 2 games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_2_games -- dates, platforms -- accessed 2026-11-03 (revision 1383631769 of 2026-11-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Tactics: The Ivalice Chronicles – Nintendo Switch 2 Edition; Developer(s): Square Enix Creative Business Unit III; Publisher(s): Square Enix; Release date: September 30, 2025
+
+## en.wikipedia.org (Information; List of Nintendo Switch games (C–G), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(C%E2%80%93G) -- dates, platforms -- accessed 2026-11-03 (revision 1379229872 of 2026-10-08; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Tactics: The Ivalice Chronicles; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: September 30, 2025
+
+## en.wikipedia.org (Information; List of PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1380269697 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Tactics: The War of the Lions; North America: 2007/10/09; Europe: 2007/10/05; Asia/Japan: 2007/05/10; Australia: 2007/10/08; Developer: Square Enix; Publisher: Square Enix
+
+## en.wikipedia.org (Information; List of PlayStation (console) games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_(console)_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1381302648 of 2026-10-21; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Regions released; Options; Ref. Reference
+  - Row: Final Fantasy Tactics; Square; SquareJP, Sony Computer EntertainmentNA; 1997-06-20; Unreleased; 1998-01-28
+
+## en.wikipedia.org (Information; List of downloadable PlayStation Portable games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1374465186 of 2026-09-12; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Tactics: The War of the Lions; Developer: Square Enix; PSP: July 18, 2011 (North America) / July 19, 2011 (Europe) / March 9, 2011 (Japan); PSV: February 9, 2012 (North America)
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (Japan), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1371556562 of 2026-08-27; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Tactics; Publisher: Square Enix; PSP: May 13, 2009
+
+## en.wikipedia.org (Information; List of downloadable PlayStation games (North America), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(North_America) -- dates, platforms -- accessed 2026-11-03 (revision 1378620546 of 2026-10-05; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Tactics; Publisher: Square Enix; PSP: September 17, 2009; PS3: September 17, 2009
+
 ## Decisions
 
 

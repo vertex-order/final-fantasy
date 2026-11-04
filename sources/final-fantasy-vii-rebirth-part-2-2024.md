@@ -286,4 +286,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_versi
   - Alphabetical list of games released natively for PlayStation 5 (PS4-compatible and PlayStation VR2 titles excluded); one table, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references; addons key CB cross-buy, CP cross-play, P Pro enhanced
   - Row: Final Fantasy VII Rebirth; Action role-playing; developer and publisher Square Enix; JP, NA and PAL 2024-02-29; addons marker P
 
+## en.wikipedia.org (Information; List of Nintendo Switch 2 games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_2_games -- dates, platforms -- accessed 2026-11-03 (revision 1383631769 of 2026-11-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy VII Rebirth; Developer(s): Square Enix Creative Business Unit I; Publisher(s): Square Enix; Release date: June 3, 2026
+
+## en.wikipedia.org (Information; List of Xbox Series X and Series S games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_Series_X_and_Series_S_games -- dates, platforms -- accessed 2026-11-03 (revision 1382768564 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Final Fantasy VII Rebirth; Action role-playing; Square Enix Creative Business Unit I; Square Enix; 2026-Jun-03; 2026-Jun-03; 2026-Jun-03
+
 ## Decisions

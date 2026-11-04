@@ -89,4 +89,14 @@
   - Final Fantasy: Crystal Chronicles - My Life as a King (2008) -- type label Main Game; platforms shown: Wii; released 2008-03-25
     - https://www.igdb.com/games/final-fantasy-crystal-chronicles-my-life-as-a-king -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of WiiWare games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_WiiWare_games -- dates, platforms -- accessed 2026-11-03 (revision 1369789613 of 2026-08-17; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title and source: Final Fantasy Crystal Chronicles: My Life as a King / Chiisana Ōsama to Yakusoku no Kuni: Final Fantasy Crystal ChroniclesJP; Developer(s)/Publisher(s): Square Enix
+
+## en.wikipedia.org (Information; List of Wii Wi-Fi Connection games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Wii_Wi-Fi_Connection_games -- dates, platforms -- accessed 2026-11-03 (revision 1381473298 of 2026-10-22; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy Crystal Chronicles: My Life as a King; Genre: City-building / RPG; Developer: Square Enix; Available: AUS, EU, JP, NA; Type: P&P; First released: 2008-03-25; [http://www.siliconera.com/2008/03/24/prepare-to-pay-up-for-final-fantasy-crystal-chronicles-my-life-as-a-king/]
+
 ## Decisions

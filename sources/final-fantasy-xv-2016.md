@@ -606,6 +606,33 @@ square-enix-games.com (Publisher, official)
   - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
   - Row: Final Fantasy XV; developer column Square Enix; JP, NA and PAL 2016-11-29; options: P (Pro enhanced), VR (virtual reality support)
 
+## en.wikipedia.org (Information; Index of Windows games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/Index_of_Windows_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1371590636 of 2026-08-27; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy XV; Released: 2018; Developer: Square Enix; Publisher: Square Enix
+
+## en.wikipedia.org (Information; List of Nintendo Switch games (C–G), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(C%E2%80%93G) -- dates, platforms -- accessed 2026-11-03 (revision 1379229872 of 2026-10-08; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Final Fantasy XV: Pocket Edition; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: September 13, 2018
+
+## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Name: Final Fantasy XV; Developer: Square Enix; Publisher: Square Enix; Genre(s): Action role-playing; Operating system(s): Microsoft Windows; Date released: 2018-3-6
+
+## en.wikipedia.org (Information; List of Xbox One X enhanced games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_X_enhanced_games -- dates, platforms -- accessed 2026-11-03 (revision 1359985267 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Game title; Known enhancements; Enhanced / patch / availability; Notes/references
+  - Row: Final Fantasy XV; Y; Y; 30/60; Y; An option for enhanced visuals or 60 FPS; Available
+
+## en.wikipedia.org (Information; List of Xbox One games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1378205264 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Final Fantasy XV; Action role-playing; Square Enix; Square Enix; 2016-Nov-29; 2016-Nov-29; 2016-Nov-29; X
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations
@@ -637,3 +664,6 @@ square-enix-games.com (Publisher, official)
   - the individual pages of Episode Gladiolus (UP0082-CUSA01633_00-GLADIOLUS0000001), Episode Ignis (...-IGNIS00000000001), Episode Prompto (...-PROMPTO000000001) and Episode Ardyn (...-ARDYN00000000001), each with no link to other editions, DLC or packs, and the Comrades standalone (UP0082-CUSA13613_00-ONLINESTANDALONE), which shows it is included in the Royal Edition
   - the Royal Edition page (UP0082-CUSA01633_00-FFXVROYALEDITION) lists Comrades as individually purchasable and, behind "show more", only the Season Pass, the Royal Pack, Episode Ardyn and Episode Prompto among its add-ons, and its description says "all current season pass content including Episode Gladiolus, Episode Prompto, Multiplayer Expansion: Comrades and Episode Ignis"
   - its "Add-Ons" list shows every add-on, mixed with many single item and costume packs, which makes it confusing
+
+- **Not to be listed: the cancelled Nintendo Switch version of Final Fantasy XV (user, 2026-11-03):** director Hajime Tabata said Square Enix tried to run the game on the Switch in 2017 and could not get it performing well enough (IGN, 2017-09-04, https://www.ign.com/articles/2017/09/04/square-enix-tried-running-final-fantasy-xvs-engine-on-switch-it-didnt-work-well-enough); never released; the Switch has Final Fantasy XV: Pocket Edition (2018) instead, which is its own release, not this port. Only the Switch version of the main game is left out: Final Fantasy XV itself stays listed on its released platforms
+  - Evidence: https://en.wikipedia.org/wiki/List_of_cancelled_Nintendo_Switch_games (revision 1378713677 of 2026-10-05; Final Fantasy XV row)
