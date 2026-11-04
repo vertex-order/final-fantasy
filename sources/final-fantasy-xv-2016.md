@@ -658,6 +658,19 @@ square-enix-games.com (Publisher, official)
   - September 2020 announcement: PlayStation Plus members who buy a PlayStation 5 get a collection of PlayStation 4 games; the collection was removed in May 2023
   - Lists Final Fantasy XV Royal Edition among its 18 titles
 
+## en.wikipedia.org (Information; List of Stadia games and Category:Stadia games, live pages of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/List_of_Stadia_games -- Stadia platform release, dates -- accessed 2026-11-04 (revision 1380821627 of 2026-10-18; wikitext read through the MediaWiki API); archived: TODO
+  - Games available for purchase on Stadia, a service discontinued in January 2023; 279 title rows
+  - Columns: genre, developer, publisher, Stadia release date, original release date, date added to and no longer claimable on Stadia Pro
+  - Row: Final Fantasy XV -- Action role-playing; Square Enix (developer and publisher); Stadia release 2019-11-19; original release 2016-11-29; no Stadia Pro dates
+  - No downloadable content rows
+- https://en.wikipedia.org/wiki/Category:Stadia_games -- Stadia platform release -- accessed 2026-11-04 (category page revision 1366833910 of 2026-07-30; members read through the MediaWiki API); archived: TODO
+  - Category of Stadia games: 212 pages, 1 subcategory (Cancelled Stadia games)
+  - Members: Final Fantasy XV, Final Fantasy XV downloadable content (an article)
+- https://en.wikipedia.org/wiki/Category:Cancelled_Stadia_games -- no Final Fantasy XV page -- accessed 2026-11-04 (category page revision 1178965398 of 2023-10-07); archived: TODO
+  - 13 pages: Avatar: Frontiers of Pandora, Baldur's Gate 3, Cyberpunk 2077: Phantom Liberty, Dead Island 2, Instinction, Jay and Silent Bob: Chronic Blunt Punch, Just Dance 2023 Edition, Shantae and the Pirate's Curse, Skull and Bones, Tom Clancy's Ghost Recon Frontline, Tom Clancy's The Division Heartland, Wild Hearts, XDefiant
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations
