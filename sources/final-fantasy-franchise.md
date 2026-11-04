@@ -1205,6 +1205,10 @@
 
 - https://web.archive.org/web/20240518093834/https://marketplace.xbox.com/en-GB/Games/XboxArcadeGames?page=6&pagesize=90&sortby=ReleaseDate -- Xbox 360 Marketplace browse list "Xbox Live Arcade" (XboxArcadeGames), English (UK) storefront, sorted by release date; the list has 607 titles per the user; page 6 tile for Crystal Defenders read, the other pages not saved -- capture of 2024-05-18, shallow: only one tile read; archived: the capture itself
 
+## microsoft.com (Platform; Microsoft Store, Top paid games list for mobile, capture of 2016-07-08)
+
+- https://web.archive.org/web/20160708133324/https://www.microsoft.com/en-us/store/top-paid/games/mobile -- Microsoft Store top charts, Top paid games for mobile (Windows Phone); 72 tiles on the saved page -- capture of 2016-07-08, visited and audited; archived: the capture itself
+
 ## Decisions
 
 - **Square Enix Market is not a listed platform (user, 2026-10-25):** a Japan-only Android store; it is audited for Final Fantasy and Chocobo titles the list lacks, and is reconsidered if it is the only way to obtain a title

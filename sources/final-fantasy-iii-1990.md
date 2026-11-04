@@ -722,6 +722,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Member: Final Fantasy III
   - Titles only; no date or region
 
+## microsoft.com (Platform; Microsoft Store, Top paid games list for mobile, capture of 2016-07-08)
+
+Page URL by capture: 2016-07-08 https://www.microsoft.com/en-us/store/top-paid/games/mobile (Microsoft Store "Top Charts", Top paid games, mobile; 72 tiles on the saved page)
+
+- https://web.archive.org/web/20160708133324/https://www.microsoft.com/en-us/store/games/final-fantasy-iii/9wzdncrfj26s -- Final Fantasy III, tile 21 of 72; 4.4 stars out of 5 on the tile; product page not fetched -- capture of 2016-07-08, link recorded only; archived: the capture itself
+
 ## Decisions
 
 - **Not to be listed: the cancelled WonderSwan Color version of Final Fantasy III (user, 2026-11-03):** a Square WonderSwan Color game in the cancelled list, cited to RPGFan's 'WSC FFIII Vanishes, FFI-II Remake In The Works' (2002, http://www.rpgfan.com/news/2002/1717.html, https://web.archive.org/web/20070315205600/http://www.rpgfan.com/news/2002/1717.html); never released, so the WonderSwan Color is not a platform of Final Fantasy III. Only this platform is left out: the game itself released on other platforms and stays listed on them

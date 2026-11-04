@@ -910,6 +910,12 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - Member: Final Fantasy (video game)
   - Titles only; no date or region
 
+## microsoft.com (Platform; Microsoft Store, Top paid games list for mobile, capture of 2016-07-08)
+
+Page URL by capture: 2016-07-08 https://www.microsoft.com/en-us/store/top-paid/games/mobile (Microsoft Store "Top Charts", Top paid games, mobile; 72 tiles on the saved page)
+
+- https://web.archive.org/web/20160708133324/https://www.microsoft.com/en-us/store/games/final-fantasy/9wzdncrfj26t -- Final Fantasy, tile 40 of 72; 3.5 stars out of 5 on the tile; product page not fetched -- capture of 2016-07-08, link recorded only; archived: the capture itself
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)
