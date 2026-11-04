@@ -1217,6 +1217,14 @@
 
 - https://store.jp.square-enix.com/estore/goods/search.aspx?keyword=&seq=exp1-d&genrecodecm01=CM01 -- Square Enix e-STORE product search, genre コミック, sorted 新着順; 12 pages of 40 items (453 items), pages 2 to 12 as `&p=2` to `&p=12` with `&ps=40` -- live pages of 2026-11-04, visited and audited; archived: TODO
 
+## vc-pce.com (Platform; Hudson PC Engine Virtual Console for Wii, title lists by region)
+
+- https://web.archive.org/web/20120118102907/http://vc-pce.com/jpn/j/index.html -- Hudson Virtual Console (PC Engine) Japan title list タイトル一覧; 125 titles (publishers Hudson, Konami, Naxat Soft, Taito, Namco Bandai, Falcom, Capcom, Irem, Natsume, Tecmo, Sunsoft, Spike, Artdink, Marvelous, G-mode); no Final Fantasy, Chocobo or Kingdom Hearts title, no Square or Square Enix release, none of the outlier titles; 邪聖剣ネクロマンサー, ファイナルブラスター, ファイナルソルジャー and RASTAN SAGA 2 only share a word with them -- capture of 2012-01-18, visited and audited; archived: the capture itself
+- https://web.archive.org/web/20120121033559/http://vc-pce.com:80/usa/e/index.html -- Hudson Virtual Console (PC Engine) North America title list; 63 titles; same result as Japan -- capture of 2012-01-21, visited and audited; archived: the capture itself
+- https://web.archive.org/web/20110913000137/http://vc-pce.com/usa/f/index.html -- Hudson Virtual Console (PC Engine) North America title list, French (Titres); 57 titles; same result as Japan; same titles, prices, publishers and dates as the English North America list for the 57 it shares, with genre labels in French; lacks the English list's Castlevania: Rondo of Blood, Street Fighter II': Champion Edition, Fighting Street, SimEarth: The Living Planet, Bomberman'94 and Detana Twin Bee (dated 2009-03-23 to 2010-03-15) -- capture of 2011-09-13, visited and audited; archived: the capture itself
+- https://web.archive.org/web/20110912235959/http://vc-pce.com/eur/e/index.html -- Hudson Virtual Console (PC Engine) Europe title list; 55 titles; same result as Japan -- capture of 2011-09-12, visited and audited; archived: the capture itself
+- https://web.archive.org/web/20110912235840/http://vc-pce.com/aus/e/index.html -- Hudson Virtual Console (PC Engine) Australia title list; 55 titles, the same as Europe; same result as Japan -- capture of 2011-09-12, visited and audited; archived: the capture itself
+
 ## Decisions
 
 - **Square Enix Market is not a listed platform (user, 2026-10-25):** a Japan-only Android store; it is audited for Final Fantasy and Chocobo titles the list lacks, and is reconsidered if it is the only way to obtain a title
