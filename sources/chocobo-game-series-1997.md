@@ -229,6 +229,7 @@
   - PlayStation and PocketStation 1999-12-22 (the same day); PlayStation 3 and PlayStation Portable 2008-07-23
 - https://wikipedia.org/wiki/PocketStation#Compatible_PlayStation_games -- PocketStation platform* for Chocobo Stallion and Chocobo World -- accessed 2026-10-23
   - Lists Final Fantasy VIII (the game Chocobo World belongs to) and Chocobo Stallion among the compatible PlayStation games
+- https://en.wikipedia.org/wiki/PocketStation#Compatible_PlayStation_games -- row "Chocobo Stallion" in the list of PocketStation-compatible PlayStation games (revision 1382885501 of 2026-10-30) -- accessed 2026-11-03; archived: TODO
 
 ## breezewiki.com (Information; Final Fantasy Wiki mirror)
 

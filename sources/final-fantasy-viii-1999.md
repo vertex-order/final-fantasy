@@ -54,6 +54,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
 - https://wikipedia.org/wiki/Final_Fantasy_VIII#Final_Fantasy_VIII_Remastered
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series -- dates*, platforms* -- accessed 2026-09-22
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Bundled_releases -- dates, platforms -- accessed 2026-09-22
+- https://en.wikipedia.org/wiki/PocketStation#Compatible_PlayStation_games -- row "Final Fantasy VIII" in the list of PocketStation-compatible PlayStation games (revision 1382885501 of 2026-10-30) -- accessed 2026-11-03; archived: TODO
 
 ## Xbox (Platform)
 

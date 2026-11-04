@@ -13,6 +13,7 @@
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series -- story -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy:_Legend_of_the_Crystals
+- https://en.wikipedia.org/wiki/List_of_television_series_based_on_video_games -- row "Final Fantasy: Legend of the Crystals (1994)" (revision 1383332862 of 2026-11-02) -- accessed 2026-11-03; archived: TODO
 
 ## otakumode.com (Information)
 

@@ -12,6 +12,7 @@
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Final_Fantasy:_Unlimited
+- https://en.wikipedia.org/wiki/List_of_television_series_based_on_video_games -- row "Final Fantasy: Unlimited (2001–2002)" (revision 1383332862 of 2026-11-02) -- accessed 2026-11-03; archived: TODO
 
 ## otakumode.com (Information)
 

@@ -86,4 +86,8 @@ breezewiki.com (Information)
 - `length` stays the English hardcover (`384p; H`)
 - Recap platform: the wiki's `#Story` section (replaces a bare YouTube search)
 
+## wikipedia.org (Information)
+
+- https://en.wikipedia.org/wiki/List_of_novels_based_on_video_games -- Final Fantasy section, row "Final Fantasy XV: The Dawn of the Future" (author Jun Eishima; Square Enix Books; language column Japanese; ISBN 9781646090006; revision 1380085790 of 2026-10-13) -- accessed 2026-11-03; archived: TODO
+
 ## Decisions

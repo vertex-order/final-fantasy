@@ -102,6 +102,10 @@ wikipedia.org (Information)
 
 - `length` follows the English edition (Yen Press, 184 pages, paperback), not the Japanese 232 pages (口絵4C8P+本文1C224P) — the user's rule, 2026-10-11: use the English length whenever one exists
 
+## wikipedia.org (Information)
+
+- https://en.wikipedia.org/wiki/List_of_novels_based_on_video_games -- Final Fantasy section, row "Final Fantasy XIII-2: Fragments Before" (author Jun Eishima; Yen On; language column Japanese; ISBN 9781975382377; revision 1380085790 of 2026-10-13) -- accessed 2026-11-03; archived: TODO
+
 ## Decisions
 
 - Release-date order: `titleDate` is `2011-12-15 10` and the XIII-2 game is `2011-12-15 20`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

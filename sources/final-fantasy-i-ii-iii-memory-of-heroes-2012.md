@@ -77,4 +77,8 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
 - [Fandom – Memory of Heroes](https://finalfantasy.fandom.com/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes) — see above — used
   - [breezewiki mirror](https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes) — dup
 
+## wikipedia.org (Information)
+
+- https://en.wikipedia.org/wiki/List_of_novels_based_on_video_games -- Final Fantasy section, row "Final Fantasy I * II * III: Memory of Heroes" (author Takashi Umemura; Yen On; language column Japanese; ISBN 9781975382391; note: novelization of the first three Final Fantasy games; revision 1380085790 of 2026-10-13) -- accessed 2026-11-03; archived: TODO
+
 ## Decisions

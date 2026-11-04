@@ -30,6 +30,7 @@ Kazushige Nojima -- By (entry `by`) -- wikipedia, Compilation of Final Fantasy V
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- story, platforms, credits* -- accessed 2026-09-22
+- https://en.wikipedia.org/wiki/List_of_novels_based_on_video_games -- Final Fantasy section, row "Final Fantasy VII: The Kids are Alright – A Turks Side Story" (author Kazushige Nojima; Yen On; language column Japanese; ISBN 9781975382360; revision 1380085790 of 2026-10-13) -- accessed 2026-11-03; archived: TODO
 
 ## yenpress.com (Information)
 

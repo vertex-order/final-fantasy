@@ -37,6 +37,7 @@ Fan edition (not an official release; recorded here only, not linked from the en
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- story, platforms, credits* -- accessed 2026-09-22
+- https://en.wikipedia.org/wiki/List_of_novels_based_on_video_games -- Final Fantasy section, row "Final Fantasy VII Remake: Traces of Two Pasts" (author Kazushige Nojima; Square Enix Books; language column Japanese; ISBN 978-1646091775; revision 1380085790 of 2026-10-13) -- accessed 2026-11-03; archived: TODO
 
 ## youtube.com (Information)
 

@@ -83,6 +83,10 @@ wikipedia.org (Information)
 youtube.com (Information)
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20XIII-2%20Fragments%20After%20story%20audiobook — platforms* (fan audiobook search) — accessed not recorded
 
+## wikipedia.org (Information)
+
+- https://en.wikipedia.org/wiki/List_of_novels_based_on_video_games -- Final Fantasy section, row "Final Fantasy XIII-2: Fragments After" (author Jun Eishima; Yen On; language column Japanese; ISBN 9781975382384; revision 1380085790 of 2026-10-13) -- accessed 2026-11-03; archived: TODO
+
 ## Decisions
 
 ## Surveyed

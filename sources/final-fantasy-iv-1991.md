@@ -69,6 +69,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 - https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases
 - https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)
 - https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)#Ports
+- https://en.wikipedia.org/wiki/List_of_Square_video_games -- row "Final Fantasy IV Easytype" (Super Nintendo Entertainment System, November 29, 1991, Square; revision 1371521634 of 2026-08-26) -- accessed 2026-11-03; archived: TODO
 
 ## Xbox (Platform)
 

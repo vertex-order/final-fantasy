@@ -188,4 +188,8 @@ goodreads.com (Information)
   - EN (fan translation): the same YouTube search as the audiobook platform, https://www.youtube.com/results?search_query=final%20fantasy%20XIII%20episode%20zero%20promise%20audio%20drama — the user's call, 2026-10-11
   - no fan-translation page has been seen, so the EN claim rests on that search
 
+## wikipedia.org (Information)
+
+- https://en.wikipedia.org/wiki/List_of_novels_based_on_video_games -- Final Fantasy section, row "Final Fantasy XIII: Episode Zero – Promise" (author Jun Eishima; Yen On; language column Japanese; ISBN 9781975382407; revision 1380085790 of 2026-10-13) -- accessed 2026-11-03; archived: TODO
+
 ## Decisions

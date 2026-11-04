@@ -14,6 +14,7 @@
 - https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media -- story, platforms -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV -- titleUrl; dates* -- accessed 2026-10-19 (release table pasted by user from the #Release section; the #Episodes anchor is for citing only)
   - Episode 1 "Before the Storm" original release March 30, 2016; episode 5 "The Warmth of Light" September 17, 2016, matching Otapedia's airing period
+- https://en.wikipedia.org/wiki/List_of_television_series_based_on_video_games -- row "Brotherhood: Final Fantasy XV (2016)" (revision 1383332862 of 2026-11-02) -- accessed 2026-11-03; archived: TODO
 
 ## youtube.com (Information)
 

@@ -95,4 +95,8 @@ goodreads.com (Information)
 - `titleDate` is `{ start: 2005-09-05, end: 2009-04-16 }`: the start is the web serialization of "Episode: Denzel" (the wiki; Wikipedia's list says September 14, 2005), the end is the collection's release with the new episodes (Square Enix Game Books page) — the user's call
 - `titleUrl` is the dedicated wiki page, which has the credits and all the editions; Wikipedia's Advent Children section was the earlier link
 
+## wikipedia.org (Information)
+
+- https://en.wikipedia.org/wiki/List_of_novels_based_on_video_games -- Final Fantasy section, row "Final Fantasy VII: On the Way to a Smile" (author Kazushige Nojima; Yen On; language column Japanese; ISBN 9781975382353; revision 1380085790 of 2026-10-13) -- accessed 2026-11-03; archived: TODO
+
 ## Decisions
