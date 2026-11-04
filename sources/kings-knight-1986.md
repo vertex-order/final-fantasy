@@ -283,6 +283,13 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Member: King's Knight
   - Titles only; no date or region
 
+## en.wikipedia.org (Information; Nintendo 3DS eShop games category and subcategories, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Virtual_Console_games_for_Nintendo_3DS -- Nintendo 3DS Virtual Console availability -- accessed 2026-11-04 (category page revision 1267341273 of 2025-01-04; members read through the MediaWiki API); archived: TODO
+  - Category of Virtual Console games for Nintendo 3DS: 273 pages, no subcategories; parent Category:Nintendo_3DS_eShop_games
+  - Member: King's Knight
+  - Titles only; no date or region
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)

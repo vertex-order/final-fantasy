@@ -850,6 +850,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - Member: Final Fantasy IV
   - Titles only; no date or region
 
+## en.wikipedia.org (Information; Nintendo 3DS eShop games category and subcategories, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Virtual_Console_games_for_Nintendo_3DS -- Nintendo 3DS Virtual Console availability -- accessed 2026-11-04 (category page revision 1267341273 of 2025-01-04; members read through the MediaWiki API); archived: TODO
+  - Category of Virtual Console games for Nintendo 3DS: 273 pages, no subcategories; parent Category:Nintendo_3DS_eShop_games
+  - Member: Final Fantasy IV
+  - Titles only; no date or region
+
 ## Decisions
 
 - **Not to be listed: the cancelled Famicom/NES version of Final Fantasy IV (user, 2026-11-03):** planned for the Famicom (Square, 1991, Japan) and moved to the Super Famicom before any work was done, per GamesRadar+ 'The lost Nintendo games' (2008-05-30, https://www.gamesradar.com/the-lost-nintendo-games/) and Lost Levels (2003-11, http://www.lostlevels.org/200311/200311-square.shtml); never released, so the NES is not a platform of Final Fantasy IV. Only this platform is left out: the game itself released on other platforms and stays listed on them

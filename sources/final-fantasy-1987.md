@@ -899,6 +899,17 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - Member: Final Fantasy (video game)
   - Titles only; no date or region
 
+## en.wikipedia.org (Information; Nintendo 3DS eShop games category and subcategories, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Nintendo_3DS_eShop_games -- Nintendo 3DS eShop availability -- accessed 2026-11-04 (category page revision 1375643971 of 2026-09-19; members read through the MediaWiki API); archived: TODO
+  - Category of Nintendo 3DS eShop games: 406 pages, 3 subcategories (DSiWare games, Nintendo Network games, Virtual Console games for Nintendo 3DS)
+  - Member: Final Fantasy (video game)
+  - Titles only; no date or region
+- https://en.wikipedia.org/wiki/Category:Virtual_Console_games_for_Nintendo_3DS -- Nintendo 3DS Virtual Console availability -- accessed 2026-11-04 (category page revision 1267341273 of 2025-01-04; members read through the MediaWiki API); archived: TODO
+  - Category of Virtual Console games for Nintendo 3DS: 273 pages, no subcategories; parent Category:Nintendo_3DS_eShop_games
+  - Member: Final Fantasy (video game)
+  - Titles only; no date or region
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

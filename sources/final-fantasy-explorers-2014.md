@@ -207,4 +207,11 @@
   - Member: Final Fantasy Explorers
   - Titles only; no date or region
 
+## en.wikipedia.org (Information; Nintendo 3DS eShop games category and subcategories, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Nintendo_3DS_eShop_games -- Nintendo 3DS eShop availability -- accessed 2026-11-04 (category page revision 1375643971 of 2026-09-19; members read through the MediaWiki API); archived: TODO
+  - Category of Nintendo 3DS eShop games: 406 pages, 3 subcategories (DSiWare games, Nintendo Network games, Virtual Console games for Nintendo 3DS)
+  - Member: Final Fantasy Explorers
+  - Titles only; no date or region
+
 ## Decisions
