@@ -994,6 +994,7 @@
 - the same search (series filter ?s=2), live page of 2026-10-28: https://www.jp.square-enix.com/game/?s=2 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 - https://www.jp.square-enix.com/game/?s=9 -- the Steam list (search filter ?s=9 = Steam; the checkbox value is 9, result heading Steam), live page of 2026-10-28 (the saved page's own address is https://www.jp.square-enix.com/game/) -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 - https://www.jp.square-enix.com/game/?pf=14 -- the Arcade list (platform filter ?pf=14; the model checkbox value is 14, beside a disabled checked 99), live page of 2026-10-28 (the saved page's own address is https://www.jp.square-enix.com/game/) -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- https://www.jp.square-enix.com/chocobo/ -- the official site of Chocobo's Mystery Dungeon Every Buddy! (チョコボの不思議なダンジョン エブリバディ!), captures of 2019-01-27 (https://web.archive.org/web/20190127193354/https://www.jp.square-enix.com/chocobo/), 2019-02-06 (https://web.archive.org/web/20190206202522/https://www.jp.square-enix.com/chocobo/), 2019-02-19 (https://web.archive.org/web/20190219015327/https://www.jp.square-enix.com/chocobo/) and 2026-08-18 (https://web.archive.org/web/20260818213023/https://www.jp.square-enix.com/chocobo/) -- visited and audited -- accessed 2026-11-04 (raw HTML of each capture read by me)
 
 ## square-enix-games.com (Publisher; Square Enix Games, North America)
 

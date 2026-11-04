@@ -1143,6 +1143,19 @@
   - Member: Chocobo's Crystal Tower (a redirect to List of Chocobo media#Chocobo's Crystal Tower)
   - The redirect target's row: June 29, 2010 (mobile phones); November 2, 2010 (Facebook); developed by h.a.n.d., published by Square Enix; "Additionally released as a Facebook app"; "Later shut down"
 
+## jp.square-enix.com (Publisher; Japan, Chocobo's Mystery Dungeon Every Buddy! official site, captures of 2019-01-27 to 2026-08-18)
+
+- Official site of チョコボの不思議なダンジョン エブリバディ! (Chocobo's Mystery Dungeon Every Buddy!), a one-game page -- captures read as raw HTML (Wayback `id_`), oldest first, each read only for what is new against the previous one -- accessed 2026-11-04
+  - Page URL by capture: 2019-01-27 to 2026-08-18 https://www.jp.square-enix.com/chocobo/; each capture is https://web.archive.org/web/<timestamp>/https://www.jp.square-enix.com/chocobo/
+  - Page states: platforms Nintendo Switch and PlayStation 4 (1 to 2 players each); release 2019-03-20; rating CERO A; Download and Package for both
+  - Page states: based on the 2007 チョコボの不思議なダンジョン 時忘れの迷宮 and the 2008 シドとチョコボの不思議なダンジョン 時忘れの迷宮DS+, with changes, deletions and new systems
+  - Page states: new buddy system, new dungeons (次元の狭間 with Omega, 底なしの欲望), job change system
+  - https://web.archive.org/web/20190127193354/https://www.jp.square-enix.com/chocobo/ -- first capture: release 2019-03-20 "planned" (発売予定), price 4,800 yen + tax, pre-order wording (ご予約・ご購入); store buttons for the Nintendo eShop (Switch download), PlayStation Store (PS4 download), e-STORE (Switch and PS4 package) and Amazon.co.jp (Switch package or download, PS4 package); the eShop and Amazon download pages marked "in preparation"
+    - Links: https://store.playstation.com/ja-jp/product/JP0082-CUSA14078_00-CHOCOBOSDUNGEONE (PS4 download); https://store.jp.square-enix.com/item/HAC_P_ARFQA.html (Switch package, e-STORE); https://store.jp.square-enix.com/item/PLJM_16380.html (PS4 package, e-STORE); https://www.amazon.co.jp/dp/B07LFGPCYG and https://www.amazon.co.jp/dp/B07LF7CXX8 (Amazon.co.jp); campaign page ./campaign.html; English page ./en/index.html -- link recorded only
+  - https://web.archive.org/web/20190206202522/https://www.jp.square-enix.com/chocobo/ -- text as the first capture; campaign link is ./campaign2.html
+  - https://web.archive.org/web/20190219015327/https://www.jp.square-enix.com/chocobo/ -- the "in preparation" notes gone; adds https://ec.nintendo.com/JP/ja/titles/70010000013438 (Nintendo eShop, Switch download) and https://www.amazon.co.jp/dp/B07NQHTHXS (Amazon.co.jp, Switch download); the ./en/index.html link is not present -- link recorded only
+  - https://web.archive.org/web/20260818213023/https://www.jp.square-enix.com/chocobo/ -- last capture: release 2019-03-20 (no longer "planned"), price 5,280 yen (tax included), wording changed to purchase (製品のご購入); adds the 2019-03-19 official live broadcast (公式生放送); same store links as the 2019-02-19 capture
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.
