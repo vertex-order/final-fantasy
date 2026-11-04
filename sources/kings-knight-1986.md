@@ -237,6 +237,14 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - https://ja.wikipedia.org/wiki/バーチャルコンソール -- Virtual Console is digital -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461123 of 2026-10-21); archived: TODO
   - Says all Virtual Console software is digital distribution (download sale), so an internet connection was needed to buy it; Wii, Wii U and Nintendo 3DS are now re-download only
 
+## en.wikipedia.org (Information; Sharp X1 games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Sharp_X1_games -- platforms -- accessed 2026-11-04 (category page revision 952279515 of 2020-04-21); archived: TODO
+  - Category of Sharp X1 games: 114 pages stated, alphabetical, two subcategories (Sharp X1-only games, Sharp X1 game covers)
+  - Member: King's Knight (the series article); titles only, no dates
+- https://en.wikipedia.org/wiki/Category:Sharp_X1-only_games -- platforms -- accessed 2026-11-04 (category page revision 1149765488 of 2023-04-14); archived: TODO
+  - 2 pages (Brain Breaker, Kagirinaki Tatakai); King's Knight is not a member
+
 ## en.wikipedia.org (Information; List of MSX games, live page of 2026-11-03)
 
 - https://en.wikipedia.org/wiki/List_of_MSX_games -- dates, platforms -- accessed 2026-11-03 (revision 1380078732 of 2026-10-13; wikitext read through the MediaWiki API); archived: TODO
