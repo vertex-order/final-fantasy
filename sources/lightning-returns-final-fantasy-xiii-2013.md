@@ -330,4 +330,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
   - Member: ライトニング リターンズ ファイナルファンタジーXIII
   - https://ja.wikipedia.org/wiki/ライトニング_リターンズ_ファイナルファンタジーXIII -- the article of that member (revision 110739752 of 2026-08-22) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
 
+## en.wikipedia.org (Information; PlayStation 3 game list, live pages of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_3_games_(J%E2%80%93P) -- dates*, platforms* -- accessed 2026-11-03 (revision 1374058329 of 2026-09-09; wikitext read through the MediaWiki API); archived: TODO
+  - Alphabetical list of PlayStation 3 games, split over four pages (A–C, D–I, J–P, Q–Z; the page List_of_PlayStation_3_games redirects to A–C); one table per page, columns title, developer(s), release dates (JP, PAL, NA), options (D: digital only games), references
+  - Row: Lightning Returns: Final Fantasy XIII; developer column Square Enix; JP 2013-11-21, PAL 2014-02-14, NA 2014-02-11; no options marker
+
 ## Decisions

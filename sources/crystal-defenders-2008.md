@@ -378,6 +378,12 @@
   - Crystal Defenders R2 (2009) -- type label Main Game; platforms shown: Wii; released 2009-02-24
     - https://www.igdb.com/games/crystal-defenders-r2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; PlayStation 3 game list, live pages of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_3_games_(A%E2%80%93C) -- dates*, platforms* -- accessed 2026-11-03 (revision 1370952410 of 2026-08-23; wikitext read through the MediaWiki API); archived: TODO
+  - Alphabetical list of PlayStation 3 games, split over four pages (A–C, D–I, J–P, Q–Z; the page List_of_PlayStation_3_games redirects to A–C); one table per page, columns title, developer(s), release dates (JP, PAL, NA), options (D: digital only games), references
+  - Row: Crystal Defenders; developer column Square Enix; JP 2009-03-11, PAL 2009-07-23, NA 2009-08-06; options: D (digital only)
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it

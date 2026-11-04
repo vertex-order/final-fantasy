@@ -465,4 +465,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
   - Member: ファイナルファンタジーX
   - https://ja.wikipedia.org/wiki/ファイナルファンタジーX -- the article of that member (revision 111423447 of 2026-10-18) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
 
+## en.wikipedia.org (Information; PlayStation 3 game list, live pages of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_3_games_(D%E2%80%93I) -- dates*, platforms* -- accessed 2026-11-03 (revision 1373715268 of 2026-09-07; wikitext read through the MediaWiki API); archived: TODO
+  - Alphabetical list of PlayStation 3 games, split over four pages (A–C, D–I, J–P, Q–Z; the page List_of_PlayStation_3_games redirects to A–C); one table per page, columns title, developer(s), release dates (JP, PAL, NA), options (D: digital only games), references
+  - Row: Final Fantasy X/X-2 HD Remaster; developer column Square Enix; JP 2013-12-26, PAL 2014-03-21, NA 2014-03-18; no options marker
+
 ## Decisions

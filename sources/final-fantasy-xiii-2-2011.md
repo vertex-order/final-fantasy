@@ -384,6 +384,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
   - Member: ファイナルファンタジーXIII-2
   - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII-2 -- the article of that member (revision 110335847 of 2026-07-19) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
 
+## en.wikipedia.org (Information; PlayStation 3 game list, live pages of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_3_games_(D%E2%80%93I) -- dates*, platforms* -- accessed 2026-11-03 (revision 1373715268 of 2026-09-07; wikitext read through the MediaWiki API); archived: TODO
+  - Alphabetical list of PlayStation 3 games, split over four pages (A–C, D–I, J–P, Q–Z; the page List_of_PlayStation_3_games redirects to A–C); one table per page, columns title, developer(s), release dates (JP, PAL, NA), options (D: digital only games), references
+  - Row: Final Fantasy XIII-2; developer column Square Enix; JP 2011-12-15, PAL 2012-02-03, NA 2012-01-31; no options marker
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.
