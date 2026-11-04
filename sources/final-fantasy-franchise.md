@@ -1188,6 +1188,23 @@
 - https://www.gog.com/en/games?developers=square-enix -- GOG catalogue, developer Square Enix; 18 games; Final Fantasy III (3D Remake), IV (3D Remake), VII, VIII Remastered and IX; no other in-scope title -- live page of 2026-11-03 (GOG.com catalogue, English storefront, not signed in), visited and audited; archived: TODO
 - https://www.gog.com/en/games?publishers=square-enix -- GOG catalogue, publisher Square Enix; 45 games, the 18 developer games among them; the same five Final Fantasy titles; no other in-scope title -- live page of 2026-11-03 (GOG.com catalogue, English storefront, not signed in), visited and audited; archived: TODO
 
+## store.xbox.com (Platform; Xbox store, Xbox One games list, captures of 2016-03-17 to 2016-08-29)
+
+- https://web.archive.org/web/20160729205331/http://store.xbox.com/en-US/Xbox-One -- Xbox store browse list "Xbox One Games" (store.xbox.com/en-US/Xbox-One?Page=N; 50 pages of 20 tiles, sorted by release date, newest first); pages 1 to 39 saved and read, pages 40 to 50 not captured by Wayback; pages 8, 12, 13, 14, 15, 16, 20, 26, 31, 33 and 34 were served by Wayback in other locales (en-HK, de-DE, en-CA, cs-CZ, en-GB, en-CA, en-IN, en-GB, en-AU, en-GB) -- captures of 2016-03-17 to 2016-08-29 (each saved page states its own capture; entry point https://web.archive.org/web/20160729205331/http://store.xbox.com/en-US/; list pages http://store.xbox.com/en-US/Xbox-One?Page=N), pages 1 to 39 read, visited and audited; archived: the capture itself
+- https://web.archive.org/web/20151008053844/http://store.xbox.com/en-US/Xbox-One?page=1&sortby=ReleaseDateAscending -- Xbox store browse list "Xbox One Games" sorted oldest first (sortby=ReleaseDateAscending; pages 1 to 11 saved and read, 20 tiles per page; the list is 24 pages long on page 1 (2015-10-08) and 31 pages on page 11 (2015-12-07); pages 5, 6, 9, 10 and 11 captured 2015-12-06 to 2015-12-07, pages 7 and 8 captured 2016-01-06, pages 1 to 4 captured 2015-10-05 to 2015-10-08) -- capture of 2015-10-05 to 2016-01-06 (http://store.xbox.com/en-US/Xbox-One?page=N&sortby=ReleaseDateAscending), pages 1 to 11 read, visited and audited; archived: the capture itself
+
+## marketplace.xbox.com (Platform; Xbox 360 Marketplace, en-GB Games list, captures of 2015-10-31 to 2024-07-16)
+
+- https://web.archive.org/web/20151031172630/http://marketplace.xbox.com/en-gb/Games/Xbox360Games?sortby=ReleaseDate&PageSize=90&Page=1 -- Xbox 360 Marketplace browse list "Xbox 360 Games", English (UK) storefront; 14 pages of 90 tiles, sorted by release date, newest first; page 1 captured 2015-10-31, pages 2 to 14 captured 2024-04-24 to 2024-07-16 (https://marketplace.xbox.com/en-GB/Games/Xbox360Games?page=N&pagesize=90&sortby=ReleaseDate) -- 14 pages saved and read, visited and audited; archived: the capture itself
+
+## marketplace.xbox.com (Platform; Xbox 360 Marketplace, en-GB Games on Demand list, captures of 2024-05-18 to 2024-06-23)
+
+- https://web.archive.org/web/20240623164151/https://marketplace.xbox.com/en-gb/Games/GamesOnDemand?SortBy=ReleaseDate&PageSize=90 -- Xbox 360 Marketplace browse list "Games on Demand", English (UK) storefront; 6 pages of 90 tiles (488 tiles), sorted by release date; captured 2024-05-18 to 2024-06-23 (https://marketplace.xbox.com/en-GB/Games/GamesOnDemand?sortby=ReleaseDate&PageSize=90&Page=N) -- 6 pages saved and read, visited and audited; archived: the capture itself
+
+## marketplace.xbox.com (Platform; Xbox 360 Marketplace, en-GB Xbox Live Arcade list, capture of 2024-05-18)
+
+- https://web.archive.org/web/20240518093834/https://marketplace.xbox.com/en-GB/Games/XboxArcadeGames?page=6&pagesize=90&sortby=ReleaseDate -- Xbox 360 Marketplace browse list "Xbox Live Arcade" (XboxArcadeGames), English (UK) storefront, sorted by release date; the list has 607 titles per the user; page 6 tile for Crystal Defenders read, the other pages not saved -- capture of 2024-05-18, shallow: only one tile read; archived: the capture itself
+
 ## Decisions
 
 - **Square Enix Market is not a listed platform (user, 2026-10-25):** a Japan-only Android store; it is audited for Final Fantasy and Chocobo titles the list lacks, and is reconsidered if it is the only way to obtain a title

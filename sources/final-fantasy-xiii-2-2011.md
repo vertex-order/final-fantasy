@@ -424,6 +424,18 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2_version_di
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy XIII-2
 
+## marketplace.xbox.com (Platform; Xbox 360 Marketplace, en-GB Games list, captures of 2015-10-31 to 2024-07-16)
+
+Page URL by capture: 2015-10-31 http://marketplace.xbox.com/en-gb/Games/Xbox360Games?sortby=ReleaseDate&PageSize=90&Page=1 (page 1); 2024-04-24 to 2024-07-16 https://marketplace.xbox.com/en-GB/Games/Xbox360Games?page=N&pagesize=90&sortby=ReleaseDate (pages 2 to 14); browse list of Xbox 360 games, 90 tiles per page, sorted by release date, newest first; 14 pages saved and read (1,191 tiles; page 14 ends the list)
+
+- https://web.archive.org/web/20240424003339/https://marketplace.xbox.com/en-GB/Product/FINAL-FANTASY-XIII-2/66acd000-77fe-1000-9115-d80253510806 -- Final Fantasy XIII-2, tile on list page 5 (tile 50); release date 03/02/2012; 6,760 ratings on the tile; download types on the tile: Games, Game Demos, Game Videos, Game Add-ons, Gamer Pictures -- capture of 2024-04-24, link recorded only; archived: the capture itself
+
+## marketplace.xbox.com (Platform; Xbox 360 Marketplace, en-GB Games on Demand list, captures of 2024-05-18 to 2024-06-23)
+
+Page URL by capture: 2024-05-18 to 2024-06-23 https://marketplace.xbox.com/en-GB/Games/GamesOnDemand?sortby=ReleaseDate&PageSize=90&Page=N (page 1 as https://marketplace.xbox.com/en-gb/Games/GamesOnDemand?SortBy=ReleaseDate&PageSize=90, page 6 as https://marketplace.xbox.com/en-GB/Games/GamesOnDemand?page=6&pagesize=90&sortby=ReleaseDate); browse list of Xbox 360 Games on Demand, 90 tiles per page, sorted by release date; 6 pages saved and read (488 tiles; page 6 ends the list)
+
+- https://web.archive.org/web/20240623205733/https://marketplace.xbox.com/en-GB/Product/FINAL-FANTASY-XIII-2/66acd000-77fe-1000-9115-d80253510806 -- Final Fantasy XIII-2, tile on list page 3 (tile 34); date on the tile 11/06/2013; 6,760 ratings on the tile; download types on the tile: Games, Game Demos, Game Videos, Game Add-ons, Gamer Pictures -- capture of 2024-06-23, link recorded only; archived: the capture itself
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

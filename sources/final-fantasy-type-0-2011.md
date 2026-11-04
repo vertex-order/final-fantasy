@@ -324,4 +324,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
   - Category of Cancelled mobile games: 4 pages, 3 subcategories
   - Member: Final Fantasy Type-0
 
+## store.xbox.com (Platform; Xbox store, Xbox One games list, captures of 2016-03-17 to 2016-08-29)
+
+Page URL by capture: 2016-03-17 to 2016-08-29 http://store.xbox.com/en-US/Xbox-One?Page=N (each list page its own capture, entered from https://web.archive.org/web/20160729205331/http://store.xbox.com/en-US/) (browse list, 20 tiles per page; pages 1 to 39 of 50 read)
+
+- https://web.archive.org/web/20160805064951/http://store.xbox.com/en-US/Xbox-One/Games/FINAL-FANTASY-TYPE-0-HD/54711d34-095e-4bf5-a053-49828ee9e515 -- Final Fantasy Type-0 HD, tile on list page 36 (slot 20), type Games, 2595 ratings on the tile -- capture of 2016-08-05, link recorded only; archived: the capture itself
+- https://web.archive.org/web/20141228004837/http://store.xbox.com:80/en-US/Xbox-One/Games/FINAL-FANTASY-TYPE-0-HD/54711d34-095e-4bf5-a053-49828ee9e515 -- same product page, earliest capture found by the Wayback index (prefix search of store.xbox.com/en-US/Xbox-One/Games/FINAL-FANTASY*) -- capture of 2014-12-28, link recorded only
+- https://web.archive.org/web/20150318204021/https://store.xbox.com/en-US/Xbox-One/Games/FINAL-FANTASY-TYPE-0-HD/54711d34-095e-4bf5-a053-49828ee9e515?ocid=EVERGREEN_SOCIAL_Facebook&cid=EVERGREEN_SOCIAL_Facebook -- same product page with a social-campaign query string -- capture of 2015-03-18, link recorded only
+- https://web.archive.org/web/20160405024731/http://store.xbox.com/en-US/xbox-one/games/final-fantasy-type-0-hd/54711d34-095e-4bf5-a053-49828ee9e515?cid=majornelson -- same product page, lower-case path, campaign query string -- capture of 2016-04-05, link recorded only
+
 ## Decisions

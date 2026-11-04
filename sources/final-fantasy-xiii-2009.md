@@ -449,4 +449,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_version_diff
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy XIII
 
+## marketplace.xbox.com (Platform; Xbox 360 Marketplace, en-GB Games list, captures of 2015-10-31 to 2024-07-16)
+
+Page URL by capture: 2015-10-31 http://marketplace.xbox.com/en-gb/Games/Xbox360Games?sortby=ReleaseDate&PageSize=90&Page=1 (page 1); 2024-04-24 to 2024-07-16 https://marketplace.xbox.com/en-GB/Games/Xbox360Games?page=N&pagesize=90&sortby=ReleaseDate (pages 2 to 14); browse list of Xbox 360 games, 90 tiles per page, sorted by release date, newest first; 14 pages saved and read (1,191 tiles; page 14 ends the list)
+
+- No Final Fantasy XIII tile in the list (the list holds XIII-2 and Lightning Returns)
+
+## marketplace.xbox.com (Platform; Xbox 360 Marketplace, en-GB Games on Demand list, captures of 2024-05-18 to 2024-06-23)
+
+Page URL by capture: 2024-05-18 to 2024-06-23 https://marketplace.xbox.com/en-GB/Games/GamesOnDemand?sortby=ReleaseDate&PageSize=90&Page=N (page 1 as https://marketplace.xbox.com/en-gb/Games/GamesOnDemand?SortBy=ReleaseDate&PageSize=90, page 6 as https://marketplace.xbox.com/en-GB/Games/GamesOnDemand?page=6&pagesize=90&sortby=ReleaseDate); browse list of Xbox 360 Games on Demand, 90 tiles per page, sorted by release date; 6 pages saved and read (488 tiles; page 6 ends the list)
+
+- https://web.archive.org/web/20240623164151/https://marketplace.xbox.com/en-gb/Product/FINAL-FANTASY-XIII/66acd000-77fe-1000-9115-d802535107e4 -- Final Fantasy XIII, tile on list page 1 (tile 52); date on the tile 12/11/2018; 17,646 ratings on the tile; download types on the tile: Games, Game Videos, Avatar Items; which release the product is not read -- capture of 2024-06-23, link recorded only; archived: the capture itself
+
 ## Decisions

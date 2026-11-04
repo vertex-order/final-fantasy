@@ -455,6 +455,12 @@
   - Titles only; no date or region
 - https://en.wikipedia.org/wiki/Category:Original_Xbox_Live_Arcade_games -- 15 pages; Crystal Defenders is not a member -- accessed 2026-11-04 (category page revision 843283976 of 2018-05-28); archived: TODO
 
+## marketplace.xbox.com (Platform; Xbox 360 Marketplace, en-GB Xbox Live Arcade list, capture of 2024-05-18)
+
+Page URL by capture: 2024-05-18 https://web.archive.org/web/20240518093834/https://marketplace.xbox.com/en-GB/Games/XboxArcadeGames?page=6&pagesize=90&sortby=ReleaseDate (page 6 of the Xbox Live Arcade list, 90 tiles per page, sorted by release date); the tile was given by the user, the rest of the page was not read
+
+- https://web.archive.org/web/20240518093834/https://marketplace.xbox.com/en-GB/Product/CRYSTAL-DEFENDERS/66acd000-77fe-1000-9115-d80258410989 -- CRYSTAL DEFENDERS; date on the tile 11/03/2009; 1,162 ratings on the tile (4 out of 5 stars) -- capture of 2024-05-18, link recorded only; archived: the capture itself
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it
