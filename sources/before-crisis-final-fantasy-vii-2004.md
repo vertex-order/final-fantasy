@@ -33,6 +33,36 @@
 - https://wikipedia.org/wiki/Before_Crisis:_Final_Fantasy_VII
 - https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis
 
+## square-enix.com (Publisher; Japan, i-mode list, capture of 2007-10-05)
+
+- Square Enix Japan's i-mode list -- saved page of the capture read by me -- accessed 2026-11-04
+  - Page URL by capture: 2007-10-05 http://www.square-enix.com/jp/mobile/i/ (the feature-phone menu page for NTT DoCoMo i-mode, titled iモード | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); the capture is https://web.archive.org/web/20071005125311/http://www.square-enix.com/jp/mobile/i/
+  - Layout: menu sections IT'S NEW, 総合サイト (portal sites), コミュニケーション, 着信メロディ, 待受, ゲーム, その他; each item has a thumbnail, a one-line blurb and an official site link (公式サイト); no release date, genre, icon or CERO label; blocks commented out in the page source are not counted as listed
+  - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it
+  - ビフォア クライシス -ファイナルファンタジーVII-; menu section ゲーム; listed on the capture of 2007-10-05
+    - http://www.square-enix.co.jp/mobile/bcff7.html -- 公式サイト link -- link recorded only -- archived: https://web.archive.org/web/20071005125311/http://www.square-enix.co.jp/mobile/bcff7.html
+    - blurb: set six years before Final Fantasy VII; the player is a Turk of Shinra
+
+## square-enix.com (Publisher; Japan, Yahoo! Keitai list, capture of 2007-10-05)
+
+- Square Enix Japan's Yahoo! Keitai list -- saved page of the capture read by me -- accessed 2026-11-04
+  - Page URL by capture: 2007-10-05 http://www.square-enix.com/jp/mobile/v/ (the feature-phone menu page for Yahoo!ケータイ, titled Yahoo!ケータイ | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); the capture is https://web.archive.org/web/20071005191910/http://www.square-enix.com/jp/mobile/v/
+  - Layout: menu sections IT'S NEW, 総合サイト (portal sites), コミュニケーション (no item), 着信メロディ, 待受, ゲーム; the その他 and COMING SOON blocks are commented out in the page source; each item has a thumbnail, a one-line blurb and an official site link (公式サイト); no release date, genre, icon or CERO label; blocks commented out in the page source are not counted as listed
+  - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it
+  - ビフォア クライシス -ファイナルファンタジーVII-; menu section ゲーム; listed on the capture of 2007-10-05
+    - http://www.square-enix.co.jp/mobile/bcff7.html -- 公式サイト link -- link recorded only -- archived: https://web.archive.org/web/20071005191910/http://www.square-enix.co.jp/mobile/bcff7.html
+    - blurb: set six years before Final Fantasy VII; the player is a Turk of Shinra
+
+## square-enix.com (Publisher; Japan, EZweb list, capture of 2007-10-05)
+
+- Square Enix Japan's EZweb list -- saved page of the capture read by me -- accessed 2026-11-04
+  - Page URL by capture: 2007-10-05 http://www.square-enix.com/jp/mobile/e/ (the feature-phone menu page for au EZweb, titled EZweb | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); the capture is https://web.archive.org/web/20071005123748/http://www.square-enix.com/jp/mobile/e/
+  - Layout: menu sections 総合サイト (portal sites), メダルアプリ, 着信メロディ, 待受, ゲーム, その他; each item has a thumbnail, a one-line blurb and an official site link (公式サイト); no release date, genre, icon or CERO label; blocks commented out in the page source are not counted as listed
+  - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it
+  - ビフォア クライシス -ファイナルファンタジーVII-; menu section ゲーム; listed on the capture of 2007-10-05
+    - http://www.square-enix.co.jp/mobile/bcff7.html -- 公式サイト link -- link recorded only -- archived: https://web.archive.org/web/20071005123748/http://www.square-enix.co.jp/mobile/bcff7.html
+    - blurb: set six years before Final Fantasy VII; the player is a Turk of Shinra
+
 ## jp.square-enix.com (Publisher; Japan, i-mode list, captures of 2012-10-08 to 2017-04-01)
 
 - Square Enix Japan's i-mode list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27

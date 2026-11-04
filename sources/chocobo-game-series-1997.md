@@ -488,6 +488,29 @@
     - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.chocodash -- Google Play link, listed 2022-03-16 to 2023-03-16 -- link recorded only -- archived: https://web.archive.org/web/20220316124717/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.chocodash (last listing: https://web.archive.org/web/20230402034019/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.chocodash)
     - https://www.jp.square-enix.com/chocobo_gp/ -- 公式サイト link, listed 2022-03-16 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20220316124717/https://www.jp.square-enix.com/chocobo_gp/
 
+## square-enix.com (Publisher; Japan, i-mode list, capture of 2007-10-05)
+
+- Square Enix Japan's i-mode list -- saved page of the capture read by me -- accessed 2026-11-04
+  - Page URL by capture: 2007-10-05 http://www.square-enix.com/jp/mobile/i/ (the feature-phone menu page for NTT DoCoMo i-mode, titled iモード | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); the capture is https://web.archive.org/web/20071005125311/http://www.square-enix.com/jp/mobile/i/
+  - Layout: menu sections IT'S NEW, 総合サイト (portal sites), コミュニケーション, 着信メロディ, 待受, ゲーム, その他; each item has a thumbnail, a one-line blurb and an official site link (公式サイト); no release date, genre, icon or CERO label; blocks commented out in the page source are not counted as listed
+  - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it
+  - チョコボdeモバイル; menu section IT'S NEW; listed on the capture of 2007-10-05
+    - http://www.square-enix.co.jp/mobile/game/chocomoba/ -- 公式サイト link -- link recorded only -- archived: https://web.archive.org/web/20071005125311/http://www.square-enix.co.jp/mobile/game/chocomoba/
+    - blurb: mini-game collection with Chocobo as the main character, with ability checks; not listed on the Yahoo!ケータイ capture of 2007-10-05
+  - ちょこメ～と (Choco-Mate); menu section その他; listed on the capture of 2007-10-05
+    - http://www.square-enix.co.jp/mobile/chocomate.html -- 公式サイト link -- link recorded only -- archived: https://web.archive.org/web/20071005125311/http://www.square-enix.co.jp/mobile/chocomate.html
+    - blurb: mail app for up to fifty people at once, easy to operate
+
+## square-enix.com (Publisher; Japan, EZweb list, capture of 2007-10-05)
+
+- Square Enix Japan's EZweb list -- saved page of the capture read by me -- accessed 2026-11-04
+  - Page URL by capture: 2007-10-05 http://www.square-enix.com/jp/mobile/e/ (the feature-phone menu page for au EZweb, titled EZweb | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); the capture is https://web.archive.org/web/20071005123748/http://www.square-enix.com/jp/mobile/e/
+  - Layout: menu sections 総合サイト (portal sites), メダルアプリ, 着信メロディ, 待受, ゲーム, その他; each item has a thumbnail, a one-line blurb and an official site link (公式サイト); no release date, genre, icon or CERO label; blocks commented out in the page source are not counted as listed
+  - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it
+  - チョコボdeモバイル; menu section ゲーム; listed on the capture of 2007-10-05
+    - http://www.square-enix.co.jp/mobile/game/chocomoba/ -- 公式サイト link -- link recorded only -- archived: https://web.archive.org/web/20071005123748/http://www.square-enix.co.jp/mobile/game/chocomoba/
+    - blurb: mini-game collection with Chocobo as the main character, with ability checks
+
 ## jp.square-enix.com (Publisher; Japan, i-mode list, captures of 2013-10-20 to 2017-04-01)
 
 - Square Enix Japan's i-mode list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
