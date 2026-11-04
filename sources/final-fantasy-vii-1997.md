@@ -569,6 +569,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 - https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_games_(PAL_region) -- dates, platforms -- accessed 2026-11-03 (revision 1381241655 of 2026-10-20; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Final Fantasy VII; Publisher: Square Enix; PSV PlayStation Vita: August 28, 2012; PEGI: 16
 
+## en.wikipedia.org (Information; PlayStation Classic console article, Games section, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/PlayStation_Classic -- platforms*, dates -- accessed 2026-11-03 (revision 1383683185; wikitext read through the MediaWiki API); archived: TODO
+  - Games table columns in order: game title; publisher; NA/PAL/Korea/SEA; Japan/TW/HK
+  - Row: Final Fantasy VII; Square Enix; yes in both columns
+  - Footnote: the Japanese console uses the western version, titled Final Fantasy VII International
+  - Announced 2018-09-18, ahead of the full list reveal of 2018-10-29
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.
