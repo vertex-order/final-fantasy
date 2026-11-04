@@ -639,6 +639,12 @@ square-enix-games.com (Publisher, official)
   - Category of Android games: 2461 pages, 9 subcategories
   - Member: Final Fantasy XV: Pocket Edition
 
+## en.wikipedia.org (Information; iOS games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
+  - Category of iOS games: 3354 pages, 7 subcategories
+  - Member: Final Fantasy XV: Pocket Edition
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations

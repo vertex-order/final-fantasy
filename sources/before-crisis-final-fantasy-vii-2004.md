@@ -92,4 +92,10 @@
   - Before Crisis: Final Fantasy VII (2004) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2004-09-24
     - https://www.igdb.com/games/before-crisis-final-fantasy-vii -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; Mobile games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Mobile_games -- mobile platform release -- accessed 2026-11-04 (category page revision 1266020868 of 2024-12-29; members read through the MediaWiki API); archived: TODO
+  - Category of Mobile games: 117 pages, 9 subcategories
+  - Member: Before Crisis: Final Fantasy VII
+
 ## Decisions

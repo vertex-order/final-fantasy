@@ -422,6 +422,24 @@
   - Category of Android games: 2461 pages, 9 subcategories
   - Member: Crystal Defenders
 
+## en.wikipedia.org (Information; i-mode games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:I-mode_games -- i-mode platform release -- accessed 2026-11-04 (category page revision 1266302726 of 2024-12-31; members read through the MediaWiki API); archived: TODO
+  - Category of i-mode games: 55 pages
+  - Member: Crystal Defenders
+
+## en.wikipedia.org (Information; iOS games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
+  - Category of iOS games: 3354 pages, 7 subcategories
+  - Member: Crystal Defenders
+
+## en.wikipedia.org (Information; Yahoo! Keitai games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Yahoo!_Keitai_games -- Yahoo! Keitai platform release -- accessed 2026-11-04 (category page revision 1285570354 of 2025-04-14; members read through the MediaWiki API); archived: TODO
+  - Category of Yahoo! Keitai games: 8 pages
+  - Member: Crystal Defenders
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it

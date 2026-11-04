@@ -170,4 +170,10 @@ Korean version (Daum Mobage):
   - Category of Android games: 2461 pages, 9 subcategories
   - Member: Final Fantasy Airborne Brigade
 
+## en.wikipedia.org (Information; iOS games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
+  - Category of iOS games: 3354 pages, 7 subcategories
+  - Member: Final Fantasy Airborne Brigade
+
 ## Decisions

@@ -120,6 +120,12 @@
   - Category of Android games: 2461 pages, 9 subcategories
   - Member: Final Fantasy Artniks
 
+## en.wikipedia.org (Information; iOS games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
+  - Category of iOS games: 3354 pages, 7 subcategories
+  - Member: Final Fantasy Artniks
+
 ## Decisions
 - GREE is the link for the Android and iOS rows (user, 2026-10-20): the search for direct Play Store and App Store pages is closed, since the game was only available through registration on the GREE website; the rows link the GREE apps page capture of 2013-12-19 and no store page is expected to exist
 - No `by` line (user, 2026-10-20): director Kazunari Itakura and producer Ichiro Hazama are named by zh.wikipedia and thefinalfantasy.net, but the entry carries no credits

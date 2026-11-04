@@ -59,4 +59,10 @@
   - Capture: live (2026-11-03) pages: search results for "voice fantasy" (first 50 of 1916, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
   - Voice Fantasy -- not in IGDB: no title of that name among the saved results of the search "voice fantasy" (https://www.igdb.com/search?q=voice+fantasy&type=1)
 
+## en.wikipedia.org (Information; iOS games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
+  - Category of iOS games: 3354 pages, 7 subcategories
+  - Member: Voice Fantasy
+
 ## Decisions

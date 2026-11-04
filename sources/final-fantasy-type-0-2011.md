@@ -318,4 +318,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
   - Row: Final Fantasy Type-0 HD; Action role-playing; Square Enix; Square Enix; 2015-Mar-19; 2015-Mar-17; 2015-Mar-20
 
+## en.wikipedia.org (Information; Cancelled mobile games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Cancelled_mobile_games -- cancelled mobile platform -- accessed 2026-11-04 (category page revision 1178967248 of 2023-10-07; members read through the MediaWiki API); archived: TODO
+  - Category of Cancelled mobile games: 4 pages, 3 subcategories
+  - Member: Final Fantasy Type-0
+
 ## Decisions

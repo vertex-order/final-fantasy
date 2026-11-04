@@ -65,6 +65,12 @@
   - Category of Android games: 2461 pages, 9 subcategories
   - Member: Final Fantasy XV: A New Empire
 
+## en.wikipedia.org (Information; iOS games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
+  - Category of iOS games: 3354 pages, 7 subcategories
+  - Member: Final Fantasy XV: A New Empire
+
 ## Decisions
 - `helpWanted` removed (user, 2026-10-21)
 - Date is 2017-03-31, the New Zealand limited release, not the worldwide release (user, 2026-10-21)

@@ -106,5 +106,11 @@ en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_Awakening#Release, tex
   - Category of Android games: 2461 pages, 9 subcategories
   - Member: Final Fantasy Awakening
 
+## en.wikipedia.org (Information; iOS games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
+  - Category of iOS games: 3354 pages, 7 subcategories
+  - Member: Final Fantasy Awakening
+
 ## Decisions
 - Languages are done for now (user, 2026-10-21): the `…?` marker and `helpWanted` are removed. Open leads if wanted later: the OASIS English iOS listing (id1327210765, no working capture found), the PT/ES app (id1377048813, 404 captures) and the Korean store pages (no working captures); the languages are JA (voiced), EN, ID, KO, ZH-CN and ZH-TW

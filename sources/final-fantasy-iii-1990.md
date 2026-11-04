@@ -688,6 +688,19 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Member: Final Fantasy III
   - Member: Final Fantasy III (2006 video game)
 
+## en.wikipedia.org (Information; iOS games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
+  - Category of iOS games: 3354 pages, 7 subcategories
+  - Member: Final Fantasy III
+  - Member: Final Fantasy III (2006 video game)
+
+## en.wikipedia.org (Information; Windows Phone games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Windows_Phone_games -- Windows Phone platform release -- accessed 2026-11-04 (category page revision 952280029 of 2020-04-21; members read through the MediaWiki API); archived: TODO
+  - Category of Windows Phone games: 232 pages, 2 subcategories
+  - Member: Final Fantasy III
+
 ## Decisions
 
 - **Not to be listed: the cancelled WonderSwan Color version of Final Fantasy III (user, 2026-11-03):** a Square WonderSwan Color game in the cancelled list, cited to RPGFan's 'WSC FFIII Vanishes, FFI-II Remake In The Works' (2002, http://www.rpgfan.com/news/2002/1717.html, https://web.archive.org/web/20070315205600/http://www.rpgfan.com/news/2002/1717.html); never released, so the WonderSwan Color is not a platform of Final Fantasy III. Only this platform is left out: the game itself released on other platforms and stays listed on them

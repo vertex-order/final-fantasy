@@ -94,4 +94,10 @@
 - https://en.wikipedia.org/wiki/List_of_iOS_games -- dates, platforms -- accessed 2026-11-03 (revision 1382859620 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Dissidia Final Fantasy: Opera Omnia; Developer(s): Square Enix; Publisher(s): Square Enix; Genre: Endless runner; Release date: 2013-03-06
 
+## en.wikipedia.org (Information; iOS games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
+  - Category of iOS games: 3354 pages, 7 subcategories
+  - Member: Dissidia Final Fantasy Opera Omnia
+
 ## Decisions

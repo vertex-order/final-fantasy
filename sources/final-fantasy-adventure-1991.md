@@ -352,6 +352,18 @@ square-enix.com and stores (Publisher)
   - Category of Android games: 2461 pages, 9 subcategories
   - Member: Adventures of Mana
 
+## en.wikipedia.org (Information; i-mode games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:I-mode_games -- i-mode platform release -- accessed 2026-11-04 (category page revision 1266302726 of 2024-12-31; members read through the MediaWiki API); archived: TODO
+  - Category of i-mode games: 55 pages
+  - Member: Final Fantasy Adventure
+
+## en.wikipedia.org (Information; iOS games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
+  - Category of iOS games: 3354 pages, 7 subcategories
+  - Member: Adventures of Mana
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

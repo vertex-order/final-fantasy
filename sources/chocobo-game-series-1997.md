@@ -1098,6 +1098,12 @@
   - Row: Title: Chocobo no Fushigi na Dungeon; Publisher: Square Enix; PSP: August 25, 2010
   - Row: Title: Chocobo no Fushigi na Dungeon 2; Publisher: Square Enix; PSP: October 27, 2010
 
+## en.wikipedia.org (Information; iOS games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
+  - Category of iOS games: 3354 pages, 7 subcategories
+  - Member: Chocobo Panic
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.
