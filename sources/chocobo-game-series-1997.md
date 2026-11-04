@@ -1011,6 +1011,10 @@
   - Member: チョコボレーシング 〜幻界へのロード〜
   - https://ja.wikipedia.org/wiki/チョコボレーシング_〜幻界へのロード〜 -- the article of that member (revision 110373030 of 2026-07-22) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
 
+## ja.wikipedia.org (Information; Nintendo 3DS software categories, live pages of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用ソフト -- Japanese Wikipedia's category (668 pages); lists the page チョコボレーシング3D (a redirect to the 1999 PlayStation article チョコボレーシング 〜幻界へのロード〜, not an article on a Nintendo 3DS game) -- category page revision 104487957; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

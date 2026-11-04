@@ -774,6 +774,10 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - Member: ファイナルファンタジー
   - https://ja.wikipedia.org/wiki/ファイナルファンタジー -- the article of that member (revision 111583688 of 2026-10-31) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
 
+## ja.wikipedia.org (Information; Nintendo 3DS software categories, live pages of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用ソフト -- Japanese Wikipedia's category (668 pages); lists the page ファイナルファンタジー -- category page revision 104487957; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

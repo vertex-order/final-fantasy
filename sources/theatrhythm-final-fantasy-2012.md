@@ -119,4 +119,9 @@
   - Theatrhythm Final Fantasy (2012) -- type label Main Game; platforms shown: Nintendo 3DS, iOS; released 2012-02-16
     - https://www.igdb.com/games/theatrhythm-final-fantasy -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Nintendo 3DS software categories, live pages of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用ソフト -- Japanese Wikipedia's category (668 pages); lists the page シアトリズム ファイナルファンタジー -- category page revision 104487957; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
+- https://ja.wikipedia.org/wiki/Category:すれちがい通信対応ソフト -- Japanese Wikipedia's category (149 pages); lists the page シアトリズム ファイナルファンタジー -- category page revision 39054374; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
+
 ## Decisions

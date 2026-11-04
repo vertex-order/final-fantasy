@@ -137,4 +137,8 @@
   - Pictlogica: Final Fantasy (2013) -- type label Main Game; platforms shown: Android, iOS; released 2013-11-01
     - https://www.igdb.com/games/pictlogica-final-fantasy -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Nintendo 3DS software categories, live pages of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用ソフト -- Japanese Wikipedia's category (668 pages); lists the page ピクトロジカ ファイナルファンタジー≒ -- category page revision 104487957; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
+
 ## Decisions
