@@ -447,6 +447,14 @@
   - Member: Crystal Defenders
   - The category names no PlayStation model or store (PS1 classic, PS3, PSP, Vita)
 
+## en.wikipedia.org (Information; Xbox 360 Live Arcade games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Xbox_360_Live_Arcade_games -- Xbox Live Arcade availability -- accessed 2026-11-04 (category page revision 951661569 of 2020-04-18; members read through the MediaWiki API); archived: TODO
+  - Category of Xbox 360 Live Arcade games: 645 pages, 2 subcategories (Xbox 360 Live Arcade compilations, Xbox Live game covers)
+  - Member: Crystal Defenders
+  - Titles only; no date or region
+- https://en.wikipedia.org/wiki/Category:Original_Xbox_Live_Arcade_games -- 15 pages; Crystal Defenders is not a member -- accessed 2026-11-04 (category page revision 843283976 of 2018-05-28); archived: TODO
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it
