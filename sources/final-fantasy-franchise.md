@@ -1213,6 +1213,10 @@
 
 - https://web.archive.org/web/20160708133324/https://www.microsoft.com/en-us/store/top-paid/games/mobile -- Microsoft Store top charts, Top paid games for mobile (Windows Phone); 72 tiles on the saved page -- capture of 2016-07-08, visited and audited; archived: the capture itself
 
+## store.jp.square-enix.com (Platform; Square Enix e-STORE, manga search, live pages of 2026-11-04)
+
+- https://store.jp.square-enix.com/estore/goods/search.aspx?keyword=&seq=exp1-d&genrecodecm01=CM01 -- Square Enix e-STORE product search, genre コミック, sorted 新着順; 12 pages of 40 items (453 items), pages 2 to 12 as `&p=2` to `&p=12` with `&ps=40` -- live pages of 2026-11-04, visited and audited; archived: TODO
+
 ## Decisions
 
 - **Square Enix Market is not a listed platform (user, 2026-10-25):** a Japan-only Android store; it is audited for Final Fantasy and Chocobo titles the list lacks, and is reconsidered if it is the only way to obtain a title

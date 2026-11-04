@@ -196,4 +196,15 @@ Tags: `used` · `dup` · `mine` · `empty` · `shallow`
 - [Fandom – Lost Stranger chapters](https://finalfantasy.fandom.com/wiki/Category:Final_Fantasy_Lost_Stranger_chapters) — chapter list — used
   - [breezewiki mirror](https://breezewiki.com/finalfantasy/wiki/Category:Final_Fantasy_Lost_Stranger_chapters) — dup
 
+## store.jp.square-enix.com (Publisher; Square Enix Japan e-STORE, manga search, live pages of 2026-11-04)
+
+- Square Enix e-STORE product search, genre コミック (genrecodecm01=CM01), sorted 新着順, 40 items per page, 12 pages (453 items; the dates run from 2002-01-22 to 2026-12-09) -- saved pages of each page read by me -- accessed 2026-11-04
+  - Page URL by page: https://store.jp.square-enix.com/estore/goods/search.aspx?keyword=&seq=exp1-d&genrecodecm01=CM01 (page 1), then `&p=2` to `&p=12` with `&ps=40`; only live pages are saved, no Wayback captures
+  - Icons: コミック (the genre label), NEW, 予約商品 (reservation item)
+  - FINAL FANTASY LOST STRANGER（15）; release 2026年11月12日; icons: NEW, コミック, 予約商品; page 1
+    - https://store.jp.square-enix.com/estore/g/g9784301008071/ -- product link (ISBN 9784301008071), listed live (2026-11-04) -- link recorded only -- archived: TODO
+  - FINAL FANTASY LOST STRANGER（8）; release 2021年12月10日; icons: コミック; page 8
+    - https://store.jp.square-enix.com/estore/g/g9784757576247/ -- product link (ISBN 9784757576247), listed live (2026-11-04) -- link recorded only -- archived: TODO
+  - No other Lost Stranger volume is listed on the 12 pages
+
 ## Decisions
