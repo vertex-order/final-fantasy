@@ -36,4 +36,10 @@
   - A King's Tale: Final Fantasy XV (2016) -- type label Main Game; platforms shown: PlayStation 4, Xbox One; released 2016-09-30
     - https://www.igdb.com/games/a-kings-tale-final-fantasy-xv -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; PlayStation 4 game list, live pages of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_4_games_(A%E2%80%93L) -- dates*, platforms* -- accessed 2026-11-03 (revision 1374216187 of 2026-09-10; wikitext read through the MediaWiki API); archived: TODO
+  - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
+  - Row: A King's Tale: Final Fantasy XV; developer column Empty Clip Studios; JP, NA and PAL 2017-03-01; no options marker
+
 ## Decisions

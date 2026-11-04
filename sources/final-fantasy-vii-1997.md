@@ -521,6 +521,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
   - Member: ファイナルファンタジーVII
   - https://ja.wikipedia.org/wiki/ファイナルファンタジーVII -- the article of that member (revision 111377241 of 2026-10-13) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
 
+## en.wikipedia.org (Information; PlayStation 4 game list, live pages of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_4_games_(A%E2%80%93L) -- dates*, platforms* -- accessed 2026-11-03 (revision 1374216187 of 2026-09-10; wikitext read through the MediaWiki API); archived: TODO
+  - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
+  - Row: Final Fantasy VII; developer column Square Enix; JP 2015-12-06, NA 2015-12-05, PAL 2015-12-05; no options marker
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

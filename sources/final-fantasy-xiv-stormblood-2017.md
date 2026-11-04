@@ -126,6 +126,12 @@
   - Final Fantasy XIV Online (2013) -- no card of its own on the saved pages; the parent of Final Fantasy XIV: Stormblood (2017)
     - https://www.igdb.com/games/final-fantasy-xiv-online--1 -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; PlayStation 4 game list, live pages of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_4_games_(A%E2%80%93L) -- dates*, platforms* -- accessed 2026-11-03 (revision 1374216187 of 2026-09-10; wikitext read through the MediaWiki API); archived: TODO
+  - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
+  - Row: Final Fantasy XIV: Stormblood; developer column Square Enix; JP, NA and PAL 2017-06-20; no options marker
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

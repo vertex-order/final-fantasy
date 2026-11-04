@@ -471,4 +471,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
   - Alphabetical list of PlayStation 3 games, split over four pages (A–C, D–I, J–P, Q–Z; the page List_of_PlayStation_3_games redirects to A–C); one table per page, columns title, developer(s), release dates (JP, PAL, NA), options (D: digital only games), references
   - Row: Final Fantasy X/X-2 HD Remaster; developer column Square Enix; JP 2013-12-26, PAL 2014-03-21, NA 2014-03-18; no options marker
 
+## en.wikipedia.org (Information; PlayStation 4 game list, live pages of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_4_games_(A%E2%80%93L) -- dates*, platforms* -- accessed 2026-11-03 (revision 1374216187 of 2026-09-10; wikitext read through the MediaWiki API); archived: TODO
+  - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
+  - Row: Final Fantasy X/X-2 HD Remaster; developer column Square Enix; JP 2015-05-14, NA 2015-05-12, PAL 2015-05-15; options: P (Pro enhanced)
+
 ## Decisions

@@ -296,4 +296,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
   - Final Fantasy Type-0 (2011) -- type label Main Game; platforms shown: PlayStation Portable; released 2011-10-27
     - https://www.igdb.com/games/final-fantasy-type-0 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; PlayStation 4 game list, live pages of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_4_games_(A%E2%80%93L) -- dates*, platforms* -- accessed 2026-11-03 (revision 1374216187 of 2026-09-10; wikitext read through the MediaWiki API); archived: TODO
+  - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
+  - Row: Final Fantasy Type-0 HD; developer column Square Enix; JP 2015-03-19, NA 2015-03-17, PAL 2015-03-20; no options marker
+
 ## Decisions

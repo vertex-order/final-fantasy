@@ -337,4 +337,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
   - Final Fantasy XII International: Zodiac Job System (2007) -- no card of its own on the saved pages; the parent of Final Fantasy XII: The Zodiac Age (2017)
     - https://www.igdb.com/games/final-fantasy-xii-international-zodiac-job-system -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; PlayStation 4 game list, live pages of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_4_games_(A%E2%80%93L) -- dates*, platforms* -- accessed 2026-11-03 (revision 1374216187 of 2026-09-10; wikitext read through the MediaWiki API); archived: TODO
+  - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
+  - Row: Final Fantasy XII: The Zodiac Age; developer column Square Enix; JP 2017-07-13, NA 2017-07-11, PAL 2017-07-11; options: P (Pro enhanced)
+
 ## Decisions
