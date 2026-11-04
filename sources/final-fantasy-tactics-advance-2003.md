@@ -132,4 +132,11 @@
 - https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii_U_(PAL_region) -- dates, platforms -- accessed 2026-11-03 (revision 1383448724 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Final Fantasy Tactics Advance; Publisher: Square Enix; EU/AU Release Date: 2016-01-28
 
+## en.wikipedia.org (Information; Wii U eShop games category and subcategories, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Virtual_Console_games_for_Wii_U -- Wii U Virtual Console availability -- accessed 2026-11-04 (category page revision 1095691108 of 2022-06-29; members read through the MediaWiki API); archived: TODO
+  - Category of Virtual Console games for Wii U: 425 pages, no subcategories; parent Category:Wii_U_eShop_games
+  - Member: Final Fantasy Tactics Advance
+  - Titles only; no date or region
+
 ## Decisions

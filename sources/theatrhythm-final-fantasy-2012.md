@@ -141,4 +141,11 @@
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Theatrhythm Final Fantasy
 
+## en.wikipedia.org (Information; Wii U eShop games category and subcategories, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Nintendo_Network_games -- Nintendo Network category membership -- accessed 2026-11-04 (category page revision 1315351220 of 2025-10-06; members read through the MediaWiki API); archived: TODO
+  - Category of Nintendo Network games: 221 pages, no subcategories; parent Category:Wii_U_eShop_games
+  - Member: Theatrhythm Final Fantasy
+  - Titles only; no date or region
+
 ## Decisions

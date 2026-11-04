@@ -276,6 +276,13 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii_U_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383448124 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: King's Knight; Publisher: Square Enix; Platform: FC; Release date: 2016-7-6
 
+## en.wikipedia.org (Information; Wii U eShop games category and subcategories, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Virtual_Console_games_for_Wii_U -- Wii U Virtual Console availability -- accessed 2026-11-04 (category page revision 1095691108 of 2022-06-29; members read through the MediaWiki API); archived: TODO
+  - Category of Virtual Console games for Wii U: 425 pages, no subcategories; parent Category:Wii_U_eShop_games
+  - Member: King's Knight
+  - Titles only; no date or region
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)

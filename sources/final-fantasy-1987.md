@@ -892,6 +892,13 @@ https://www.xbox.com/games/store/final-fantasy/9p20jcf7bv93 -- age, dates, langu
   - Member: Final Fantasy (video game)
   - The category names no PlayStation model or store (PS1 classic, PS3, PSP, Vita)
 
+## en.wikipedia.org (Information; Wii U eShop games category and subcategories, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Virtual_Console_games_for_Wii_U -- Wii U Virtual Console availability -- accessed 2026-11-04 (category page revision 1095691108 of 2022-06-29; members read through the MediaWiki API); archived: TODO
+  - Category of Virtual Console games for Wii U: 425 pages, no subcategories; parent Category:Wii_U_eShop_games
+  - Member: Final Fantasy (video game)
+  - Titles only; no date or region
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

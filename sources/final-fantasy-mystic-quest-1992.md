@@ -139,4 +139,11 @@
 - https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii_U_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383448124 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Final Fantasy USA: Mystic Quest; Publisher: Square Enix; Release date: 2014-04-16
 
+## en.wikipedia.org (Information; Wii U eShop games category and subcategories, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Virtual_Console_games_for_Wii_U -- Wii U Virtual Console availability -- accessed 2026-11-04 (category page revision 1095691108 of 2022-06-29; members read through the MediaWiki API); archived: TODO
+  - Category of Virtual Console games for Wii U: 425 pages, no subcategories; parent Category:Wii_U_eShop_games
+  - Member: Final Fantasy Mystic Quest
+  - Titles only; no date or region
+
 ## Decisions

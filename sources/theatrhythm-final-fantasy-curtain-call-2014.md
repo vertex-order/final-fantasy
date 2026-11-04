@@ -202,4 +202,11 @@
   - Columns in order: Title; Developer(s); Publisher(s); Release date; Ref. References
   - Row: Theatrhythm Final Fantasy: Curtain Call; Square Enix#Product development divisions Square Enix 1st Production Department indieszero; Square Enix; 2014-04-24; 2014-09-16; 2014-09-18; 2014-09-19
 
+## en.wikipedia.org (Information; Wii U eShop games category and subcategories, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Nintendo_Network_games -- Nintendo Network category membership -- accessed 2026-11-04 (category page revision 1315351220 of 2025-10-06; members read through the MediaWiki API); archived: TODO
+  - Category of Nintendo Network games: 221 pages, no subcategories; parent Category:Wii_U_eShop_games
+  - Member: Theatrhythm Final Fantasy: Curtain Call
+  - Titles only; no date or region
+
 ## Decisions

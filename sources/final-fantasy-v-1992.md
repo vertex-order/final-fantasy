@@ -654,4 +654,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
   - Member: Final Fantasy V
   - The category names no PlayStation model or store (PS1 classic, PS3, PSP, Vita)
 
+## en.wikipedia.org (Information; Wii U eShop games category and subcategories, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Virtual_Console_games_for_Wii_U -- Wii U Virtual Console availability -- accessed 2026-11-04 (category page revision 1095691108 of 2022-06-29; members read through the MediaWiki API); archived: TODO
+  - Category of Virtual Console games for Wii U: 425 pages, no subcategories; parent Category:Wii_U_eShop_games
+  - Member: Final Fantasy V
+  - Titles only; no date or region
+
 ## Decisions
