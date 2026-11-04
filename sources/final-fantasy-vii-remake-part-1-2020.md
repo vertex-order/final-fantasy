@@ -383,4 +383,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake_versio
   - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
   - Row: Final Fantasy VII Remake; developer column Square Enix; JP, NA and PAL 2020-04-10; options: P (Pro enhanced)
 
+## en.wikipedia.org (Information; PlayStation 5 game list, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_5_games -- dates*, platforms* -- accessed 2026-11-03 (revision 1381760903 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+  - Alphabetical list of games released natively for PlayStation 5 (PS4-compatible and PlayStation VR2 titles excluded); one table, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references; addons key CB cross-buy, CP cross-play, P Pro enhanced
+  - Row: Final Fantasy VII Remake Intergrade; Action role-playing; developer and publisher Square Enix; JP, NA and PAL 2021-06-10; addons marker CB
+
 ## Decisions
