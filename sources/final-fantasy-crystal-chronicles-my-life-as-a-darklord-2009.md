@@ -114,4 +114,9 @@
 - https://en.wikipedia.org/wiki/List_of_WiiWare_games -- dates, platforms -- accessed 2026-11-03 (revision 1369789613 of 2026-08-17; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title and source: Final Fantasy Crystal Chronicles: My Life as a Darklord / Hikari to Yami no Himegimi to Sekai Seifuku no Tou: Final Fantasy Crystal ChroniclesJP; Developer(s)/Publisher(s): Square Enix
 
+## Nintendo Japan (Platform; WiiWare, game detail page, earliest Wayback capture)
+
+- http://www.nintendo.co.jp/wii/wiiware/wf2j/ -- Nintendo Japan's WiiWare detail page; Page URL by capture: 2009-06-30 http://www.nintendo.co.jp/wii/wiiware/wf2j/index.html -- capture https://web.archive.org/web/20090630084143/http://www.nintendo.co.jp/wii/wiiware/wf2j/index.html (the earliest status-200 capture, raw HTML read by me, Shift_JIS) -- dates, platforms -- accessed 2026-11-08
+  - Title 光と闇の姫君と世界征服の塔 ファイナルファンタジー・クリスタルクロニクル; maker スクウェア・エニックス; 配信開始日 2009-06-30 (the capture's own day); Wii points 1,000; blurb: a "world conquest RPG" where the player is the Dark Lord's daughter and places traps (artifact floors) and monsters in a tower to protect the Dark Crystal from invading adventurers; new monsters and floors are bought through the paid Nintendo Wi-Fi Connection service
+
 ## Decisions

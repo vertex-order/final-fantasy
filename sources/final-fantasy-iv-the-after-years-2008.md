@@ -399,4 +399,9 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy IV: The After Years
 
+## Nintendo Japan (Platform; WiiWare, game detail page, earliest Wayback capture)
+
+- http://www.nintendo.co.jp/wii/wiiware/wf4j/ -- Nintendo Japan's WiiWare detail page; Page URL by capture: 2009-07-20 http://www.nintendo.co.jp/wii/wiiware/wf4j/index.html -- capture https://web.archive.org/web/20090720200146/http://www.nintendo.co.jp/wii/wiiware/wf4j/index.html (the earliest status-200 capture, raw HTML read by me, Shift_JIS) -- dates, platforms -- accessed 2026-11-08
+  - Title ファイナルファンタジー IV ジ・アフターイヤーズ -月の帰還-; maker スクウェア・エニックス; 配信開始日 2009-07-21, the capture of 2009-07-20 is one day before it; Wii points 800; blurb: the story after the 1991 Super Famicom Final Fantasy IV, centred on Theodore, son of Cecil and Rosa; the main story starts 2009-07-21 and weekly add-on scenarios (the Lydia and Edge chapters and others) follow; active time battle, a moon-phase system and band attacks
+
 ## Decisions

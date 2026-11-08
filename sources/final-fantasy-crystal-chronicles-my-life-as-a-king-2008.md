@@ -99,4 +99,9 @@
 - https://en.wikipedia.org/wiki/List_of_Wii_Wi-Fi_Connection_games -- dates, platforms -- accessed 2026-11-03 (revision 1381473298 of 2026-10-22; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Final Fantasy Crystal Chronicles: My Life as a King; Genre: City-building / RPG; Developer: Square Enix; Available: AUS, EU, JP, NA; Type: P&P; First released: 2008-03-25; [http://www.siliconera.com/2008/03/24/prepare-to-pay-up-for-final-fantasy-crystal-chronicles-my-life-as-a-king/]
 
+## Nintendo Japan (Platform; WiiWare, game detail page, earliest Wayback capture)
+
+- http://www.nintendo.co.jp/wii/wiiware/wfcj/ -- Nintendo Japan's WiiWare detail page; Page URL by capture: 2008-03-14 http://www.nintendo.co.jp/wii/wiiware/wfcj/index.html -- capture https://web.archive.org/web/20080314141835/http://www.nintendo.co.jp/wii/wiiware/wfcj/index.html (the earliest status-200 capture, raw HTML read by me, Shift_JIS) -- dates, platforms -- accessed 2026-11-08
+  - Title 小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル; maker スクウェア・エニックス; 配信開始日 (distribution start) 2008-03-25, the capture of 2008-03-14 is 11 days before it; Wii points 1,500; genre 国造りRPG; 1 player; controllers Wii Remote, Nunchuk, Classic Controller, GameCube Controller; five screenshots; blurb: the Crystal Chronicles series comes to WiiWare, the player is the little king who reaches a frontier land after a long journey and uses the crystal's architect power to build houses and weapon shops and grow a kingdom; (C) 2008 SQUARE ENIX
+
 ## Decisions

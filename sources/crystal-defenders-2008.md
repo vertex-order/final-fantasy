@@ -461,6 +461,13 @@ Page URL by capture: 2024-05-18 https://web.archive.org/web/20240518093834/https
 
 - https://web.archive.org/web/20240518093834/https://marketplace.xbox.com/en-GB/Product/CRYSTAL-DEFENDERS/66acd000-77fe-1000-9115-d80258410989 -- CRYSTAL DEFENDERS; date on the tile 11/03/2009; 1,162 ratings on the tile (4 out of 5 stars) -- capture of 2024-05-18, link recorded only; archived: the capture itself
 
+## Nintendo Japan (Platform; WiiWare, game detail pages, earliest Wayback captures)
+
+- http://www.nintendo.co.jp/wii/wiiware/wcij/ -- Nintendo Japan's WiiWare detail page; Page URL by capture: 2009-03-28 http://www.nintendo.co.jp/wii/wiiware/wcij/index.html -- capture https://web.archive.org/web/20090328073608/http://www.nintendo.co.jp/wii/wiiware/wcij/index.html (the earliest status-200 capture, raw HTML read by me, Shift_JIS) -- dates, platforms -- accessed 2026-11-08
+  - Title クリスタル・ディフェンダーズR1; maker スクウェア・エニックス; 配信開始日 2009-01-27; Wii points 1,000; genre ディフェンス・シミュレーション; 1 player; controller Wii Remote; Nintendo Wii Wi-Fi Connection supported (score rankings); blurb: the first WiiWare instalment of the Crystal Defenders series, jobs such as Soldier and Black Mage placed on maps to guard the crystal, rules learned step by step; the page has a link to the maker's official site
+- http://www.nintendo.co.jp/wii/wiiware/wc2j/ -- Nintendo Japan's WiiWare detail page; Page URL by capture: 2009-02-24 http://www.nintendo.co.jp/wii/wiiware/wc2j/index.html -- capture https://web.archive.org/web/20090224175931/http://www.nintendo.co.jp/wii/wiiware/wc2j/index.html (the earliest status-200 capture, raw HTML read by me, Shift_JIS) -- dates, platforms -- accessed 2026-11-08
+  - Title クリスタル・ディフェンダーズR2; maker スクウェア・エニックス; 配信開始日 2009-02-24 (the capture's own day); Wii points 1000; genre ディフェンス・シミュレーション; 1 player; controller Wii Remote; Nintendo Wi-Fi Connection supported; (C) 2009 SQUARE ENIX
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it
