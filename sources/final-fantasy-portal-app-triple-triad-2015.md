@@ -73,4 +73,10 @@
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy Portal App
 
+## play.google.com (Platform; Google Play, Japanese store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (Japanese store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.PortalAppjp -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
 ## Decisions

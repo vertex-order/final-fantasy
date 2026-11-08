@@ -399,6 +399,32 @@ square-enix.com and stores (Publisher)
 - Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - 聖剣伝説COLLECTION; id 70010000000312; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2017.6.1; status on sale; listed on saved page 74 of 75; the entry has no link to an item page
 
+## play.google.com (Platform; Google Play search results, saved pages of 2026-11-08)
+
+Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
+
+- https://play.google.com/store/apps/details?id=com.square_enix.adventures -- app page linked from the search results, shown as "Adventures of Mana" (English store); "聖剣伝説 -ファイナルファンタジー外伝-" (Japanese store), developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
+  - English store: listed in 11 of 20 saved searches (Adventures of Mana, All the Bravest, Brave Exvius, Final Fantasy Agito, Final Fantasy Awakening, Heavenstrike, Justice Monsters, Opera Omnia, Square Enix, War of the Visions, final fantasy Record Keeper)
+  - Japanese store: listed in 2 of 3 saved searches (キングダムハーツ, ファイナルファンタジー)
+
+## play.google.com (Platform; Google Play, English store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (English store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.adventures -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "Adventures of Mana" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
+## play.google.com (Platform; Google Play, Japanese store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (Japanese store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.adventures -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "聖剣伝説 -ファイナルファンタジー外伝-" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
+## play.google.com (Platform; Google Play, Japanese store, FINAL FANTASY Record Keeper app page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/details?id=jp.mbga.a12019103.lite (Japanese store; the saved file carries no url, the page is the app's details page)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.adventures -- app page linked from the app page's "More by DeNA Co., Ltd." and "Similar games" lists -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

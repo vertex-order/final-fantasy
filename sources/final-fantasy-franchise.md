@@ -609,6 +609,18 @@
 - https://web.archive.org/web/20170316161328/https://play.google.com/store/apps/dev?id=8026010256970589886&hl=ja -- the developer page, capture of 2017-03-16: audited -- accessed 2026-10-20 (list pasted by user)
   - Featured Seiken Densetsu -Final Fantasy Gaiden-; apps shown: Brave Exvius, Mobius Final Fantasy (package com.square_enix.android_googleplay.mobiusff_ne), Tactics: WotL, Final Fantasy VII, IX for Android, Dragon Quest, VI, Final Fantasy, Chrono Trigger, III; the Japan-only apps are not on it
 
+- https://play.google.com/store/search?c=apps&q=<TERM> -- Google Play search results, English store, saved as pages and read by me, visited and audited -- accessed 2026-11-08
+  - Terms: Final Fantasy, ffv, ffx, ffxi, ffxiv, Final Fantasy XV, Final Fantasy Legend, Final Fantasy Awakening, Final Fantasy Agito, final fantasy Record Keeper, final fantasy Mobius, Brave Exvius, War of the Visions, Opera Omnia, All the Bravest, Heavenstrike, Justice Monsters, Adventures of Mana, Square Enix
+  - A search lists about 19 apps; delisted apps do not appear
+- https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM> -- Google Play search results, Japanese store, saved as pages and read by me, visited and audited -- accessed 2026-11-08
+  - Terms: ファイナルファンタジー, ファイナルファンタジー レコードキーパー
+  - The Japanese store lists separate Japan packages of Ever Crisis (ff7ecjp), IX (FFIXjp) and XIV Companion (ffxivcomapp_j)
+- https://play.google.com/store/apps/dev?id=8026010256970589886 -- the Square Enix developer page in the English store, saved page read by me, visited and audited -- accessed 2026-11-08 (the saved file carries no url; the developer id is read from its links)
+- https://play.google.com/store/apps/dev?id=8026010256970589886 -- the same developer page in the Japanese store, saved page read by me, visited and audited -- accessed 2026-11-08 (the saved file carries no url; the developer id is read from its links)
+  - Its first card is Final Fantasy Record Keeper, developer shown as DeNA Co., Ltd.
+- https://play.google.com/store/apps/dev?id=5614074995304947897&hl=ja -- the DeNA Co., Ltd. developer page in the Japanese store, saved page read by me, visited and audited -- accessed 2026-11-08 (the saved file carries no url besides the developer link); lists 15 apps, one of them Final Fantasy
+- https://play.google.com/store/apps/details?id=jp.mbga.a12019103.lite -- the Final Fantasy Record Keeper app page in the Japanese store, saved page read by me, visited and audited -- accessed 2026-11-08 (the saved file carries no url); its "More by DeNA" and "Similar games" lists were read
+
 ## apps.apple.com (Platform; App Store, developer page)
 
 - https://apps.apple.com/md/developer/square-enix/id300186801 -- the Square Enix developer's app list (the Moldova storefront), visited and audited -- accessed 2026-10-20 (list pasted by user; every app on it counts as live)

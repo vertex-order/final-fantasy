@@ -343,4 +343,24 @@
 - Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - ファイナルファンタジー・クリスタルクロニクル リマスター; id 70010000021323; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2020.8.27; status on sale; listed on saved page 62 of 75; the entry has no link to an item page
 
+## play.google.com (Platform; Google Play search results, saved pages of 2026-11-08)
+
+Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFCCREww -- app page linked from the search results, shown as "FINALFANTASY CRYSTALCHRONICLES", developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
+  - English store: listed in all 20 saved searches
+  - Japanese store: listed in 2 of 3 saved searches (キングダムハーツ, ファイナルファンタジー)
+
+## play.google.com (Platform; Google Play, English store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (English store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFCCREww -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINALFANTASY CRYSTALCHRONICLES" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
+## play.google.com (Platform; Google Play, Japanese store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (Japanese store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFCCREjp -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
 ## Decisions

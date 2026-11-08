@@ -160,4 +160,24 @@
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy Dimensions
 
+## play.google.com (Platform; Google Play search results, saved pages of 2026-11-08)
+
+Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp -- app page linked from the search results, shown as "FINAL FANTASY DIMENSIONS" (English store); "FINAL FANTASY LEGENDS 光と闇の戦士" (Japanese store), developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
+  - English store: listed in all 20 saved searches
+  - Japanese store: listed in all 3 saved searches
+
+## play.google.com (Platform; Google Play, English store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (English store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY DIMENSIONS" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
+## play.google.com (Platform; Google Play, Japanese store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (Japanese store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY LEGENDS 光と闇の戦士" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
 ## Decisions

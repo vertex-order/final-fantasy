@@ -178,4 +178,30 @@
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Dissidia Duellum Final Fantasy
 
+## play.google.com (Platform; Google Play search results, saved pages of 2026-11-08)
+
+Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD -- app page linked from the search results, shown as "DISSIDIA DUELLUM FINAL FANTASY" (English store); "DDFF-ファイナルファンタジーのオールスター共闘アクション" (Japanese store), developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
+  - English store: listed in 14 of 20 saved searches (Adventures of Mana, All the Bravest, Final Fantasy, Final Fantasy Agito, Final Fantasy Awakening, Final Fantasy Legend, Final Fantasy XV, Opera Omnia, ffv, ffx, ffxi, ffxiv, final fantasy Mobius, kingdom hearts)
+  - Japanese store: listed in 2 of 3 saved searches (キングダムハーツ, ファイナルファンタジー)
+
+## play.google.com (Platform; Google Play, English store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (English store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "DISSIDIA DUELLUM FINAL FANTASY" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
+## play.google.com (Platform; Google Play, Japanese store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (Japanese store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "DDFF-ファイナルファンタジーのオールスター共闘アクション" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
+## play.google.com (Platform; Google Play, Japanese store, FINAL FANTASY Record Keeper app page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/details?id=jp.mbga.a12019103.lite (Japanese store; the saved file carries no url, the page is the app's details page)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD -- app page linked from the app page's "More by DeNA Co., Ltd." and "Similar games" lists -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
 ## Decisions

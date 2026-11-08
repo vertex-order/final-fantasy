@@ -404,4 +404,24 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - http://www.nintendo.co.jp/wii/wiiware/wf4j/ -- Nintendo Japan's WiiWare detail page; Page URL by capture: 2009-07-20 http://www.nintendo.co.jp/wii/wiiware/wf4j/index.html -- capture https://web.archive.org/web/20090720200146/http://www.nintendo.co.jp/wii/wiiware/wf4j/index.html (the earliest status-200 capture, raw HTML read by me, Shift_JIS) -- dates, platforms -- accessed 2026-11-08
   - Title ファイナルファンタジー IV ジ・アフターイヤーズ -月の帰還-; maker スクウェア・エニックス; 配信開始日 2009-07-21, the capture of 2009-07-20 is one day before it; Wii points 800; blurb: the story after the 1991 Super Famicom Final Fantasy IV, centred on Theodore, son of Cecil and Rosa; the main story starts 2009-07-21 and weekly add-on scenarios (the Lydia and Edge chapters and others) follow; active time battle, a moon-phase system and band attacks
 
+## play.google.com (Platform; Google Play search results, saved pages of 2026-11-08)
+
+Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FF4AY_GP -- app page linked from the search results, shown as "FINAL FANTASY IV: TAY" (English store); "FINAL FANTASY IV TAY-月の帰還-" (Japanese store), developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
+  - English store: listed in all 20 saved searches
+  - Japanese store: listed in all 3 saved searches
+
+## play.google.com (Platform; Google Play, English store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (English store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FF4AY_GP -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY IV: TAY" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
+## play.google.com (Platform; Google Play, Japanese store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (Japanese store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FF4AY_GP -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY IV TAY-月の帰還-" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
 ## Decisions

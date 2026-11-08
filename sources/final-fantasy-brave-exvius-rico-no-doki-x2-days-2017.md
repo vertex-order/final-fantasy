@@ -34,6 +34,18 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Not searched (rest): manga-up.com (a title page with the author and chapter count), the Fandom wiki, Google, NDL, Goodreads, the original venue (where chapters 1 to 31 appeared before 2017-08-29)
 - The vertical-scroll format (Manga UP! post) versus the four-panel pages (the daily excerpts) -- unexplained; the Manga UP! version may be a reformatting of the same pages
 
+## play.google.com (Platform; Google Play, English store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (English store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_global -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "Manga UP!" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
+## play.google.com (Platform; Google Play, Japanese store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (Japanese store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_jp -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "マンガ ＵＰ！異世界漫画や名作漫画、人気マンガの漫画アプリ" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
 ## Decisions
 
 - No entry yet (user, 2026-10-16): a source file only, with the research on the plan; the author, original venue, end date and any collected volume are unknown

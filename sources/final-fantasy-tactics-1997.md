@@ -657,6 +657,20 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
   - ULTIMATE HITS ファイナルファンタジータクティクス; maker (株)スクウェア・エニックス; platform label PS one; release 2006年7月20日; product code SLPM-87392; JAN 4988601004701; PS Now 非対応; listed on the first page
     - https://www.jp.playstation.com/software/title/slpm87392.html -- item page link -- link recorded only -- archived: TODO
 
+## play.google.com (Platform; Google Play search results, saved pages of 2026-11-08)
+
+Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2 -- app page linked from the search results, shown as "FINAL FANTASY TACTICS : WotL", developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
+  - English store: listed in all 20 saved searches
+  - Japanese store: listed in 2 of 3 saved searches (キングダムハーツ, ファイナルファンタジー)
+
+## play.google.com (Platform; Google Play, English store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (English store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2 -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY TACTICS : WotL" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
 ## Decisions
 
 

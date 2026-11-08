@@ -239,6 +239,18 @@ finalfantasyexvius.com (Publisher, official)
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy Brave Exvius
 
+## play.google.com (Platform; Google Play, Japanese store, Square Enix developer page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (Japanese store; the saved file carries no url, the developer id is read from its links)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.ffbejpn -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY BRAVE EXVIUS" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
+## play.google.com (Platform; Google Play, Japanese store, FINAL FANTASY Record Keeper app page, saved page of 2026-11-08)
+
+Page URL by capture: 2026-11-08 https://play.google.com/store/apps/details?id=jp.mbga.a12019103.lite (Japanese store; the saved file carries no url, the page is the app's details page)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.ffbejpn -- app page linked from the app page's "More by DeNA Co., Ltd." and "Similar games" lists, shown as "FINAL FANTASY BRAVE EXVIUS" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
 ## Decisions
 - Brave Exvius Memorial Version not listed (user, 2026-10-20): the Japanese offline app released after the service ended is an archive and viewer (story, encyclopedias, galleries), not content, so the entry gets no Japanese or Memorial rows; same decision as the Libra Eorzea app (see final-fantasy-franchise.md Decisions)
 - Terminated platform rows link Wayback captures of their store pages
