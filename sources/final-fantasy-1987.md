@@ -922,6 +922,13 @@ Page URL by capture: 2016-07-08 https://www.microsoft.com/en-us/store/top-paid/g
   - ファイナルファンタジー; maker スクウェア・エニックス; release 2013-11-13; platform label ファミコン; listed on saved page 17 of 20; the row is plain text with no link to an item page
   - ファイナルファンタジーI･II アドバンス; maker スクウェア・エニックス; release 2016-01-06; platform label GAME BOY ADVANCE; listed on saved page 5 of 20; the row is plain text with no link to an item page
 
+## nintendo.co.jp (Platform; Nintendo Japan Nintendo 3DS software list, saved data of 2026-11-08)
+
+- Page URL: https://www.nintendo.co.jp/software/3ds/index_all.html (the all-results page, without Virtual Console titles; the list data read from the page's own search results, page 26 of 66) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - FINAL FANTASY; maker スクウェア・エニックス; release 2015.1.21; type ダウンロードソフト; the entry has no link to an item page
+- Page URL: https://www.nintendo.co.jp/software/3ds/index_all.html?sftab=vcall (Virtual Console filter vcall; the list data read from the page's own search results, page 4 of 12) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - ファイナルファンタジー; maker スクウェア・エニックス; release 2013.12.18; type バーチャルコンソール; the entry has no link to an item page
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

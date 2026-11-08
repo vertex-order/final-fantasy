@@ -863,6 +863,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - ファイナルファンタジーIV; maker スクウェア・エニックス; release 2014-02-19; platform label スーパーファミコン; listed on saved page 16 of 20; the row is plain text with no link to an item page
   - ファイナルファンタジーIV アドバンス; maker スクウェア・エニックス; release 2016-04-13; platform label GAME BOY ADVANCE; listed on saved page 3 of 20; the row is plain text with no link to an item page
 
+## nintendo.co.jp (Platform; Nintendo Japan Nintendo 3DS software list, saved data of 2026-11-08)
+
+- Page URL: https://www.nintendo.co.jp/software/3ds/index_all.html?sftab=vcall (Virtual Console filter vcall; the list data read from the page's own search results, page 1 of 12) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - ファイナルファンタジーIV; maker スクウェア・エニックス; release 2017.8.23; type バーチャルコンソール; the entry has no link to an item page
+
 ## Decisions
 
 - **Not to be listed: the cancelled Famicom/NES version of Final Fantasy IV (user, 2026-11-03):** planned for the Famicom (Square, 1991, Japan) and moved to the Super Famicom before any work was done, per GamesRadar+ 'The lost Nintendo games' (2008-05-30, https://www.gamesradar.com/the-lost-nintendo-games/) and Lost Levels (2003-11, http://www.lostlevels.org/200311/200311-square.shtml); never released, so the NES is not a platform of Final Fantasy IV. Only this platform is left out: the game itself released on other platforms and stays listed on them

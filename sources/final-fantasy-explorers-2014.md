@@ -214,4 +214,11 @@
   - Member: Final Fantasy Explorers
   - Titles only; no date or region
 
+## nintendo.co.jp (Platform; Nintendo Japan Nintendo 3DS software list, saved data of 2026-11-08)
+
+- Page URL: https://www.nintendo.co.jp/software/3ds/index_all.html (the all-results page, without Virtual Console titles; the list data read from the page's own search results, page 27 of 66) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - FINAL FANTASY EXPLORERS; maker スクウェア・エニックス; release 2014.12.18; type パッケージ版／ダウンロード版; the entry has no link to an item page
+- Page URL: https://www.nintendo.co.jp/software/3ds/index_all.html (the all-results page, without Virtual Console titles; the list data read from the page's own search results, page 29 of 66) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - FINAL FANTASY EXPLORERS Light; maker スクウェア・エニックス; release 2014.11.14; type ダウンロードソフト; the entry has no link to an item page
+
 ## Decisions

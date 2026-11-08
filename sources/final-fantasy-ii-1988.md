@@ -773,6 +773,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
   - ファイナルファンタジーII; maker スクウェア・エニックス; release 2013-12-11; platform label ファミコン; listed on saved page 17 of 20; the row is plain text with no link to an item page
   - ファイナルファンタジーI･II アドバンス; maker スクウェア・エニックス; release 2016-01-06; platform label GAME BOY ADVANCE; listed on saved page 5 of 20; the row is plain text with no link to an item page
 
+## nintendo.co.jp (Platform; Nintendo Japan Nintendo 3DS software list, saved data of 2026-11-08)
+
+- Page URL: https://www.nintendo.co.jp/software/3ds/index_all.html?sftab=vcall (Virtual Console filter vcall; the list data read from the page's own search results, page 3 of 12) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - ファイナルファンタジーII; maker スクウェア・エニックス; release 2014.2.12; type バーチャルコンソール; the entry has no link to an item page
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)
