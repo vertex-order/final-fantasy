@@ -684,4 +684,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
 - Page URL: https://www.nintendo.co.jp/wii/vc/data/data.tsv (Wii Virtual Console catalog data file of the Nintendo Japan Wii Virtual Console feature page, Wayback capture of 2013-04-15, 650 titles; maker names from https://www.nintendo.co.jp/wii/vc/data/maker.tsv, capture of 2013-04-15) -- dates, platforms -- accessed 2026-11-08; archived: https://web.archive.org/web/20130415035444/http://www.nintendo.co.jp/wii/vc/data/data.tsv
   - ファイナルファンタジーV; id RVL-JC9J; maker スクウェア・エニックス; hardware code 2; Wii Points 900; original release 1992/12/06; delivery start 2011/01/18; the entry has no link to an item page
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - FINAL FANTASY V; id 70010000056586; maker スクウェア・エニックス; type download (HAC_DL); release 2023.4.20; status on sale; listed on saved page 43 of 75; the entry has no link to an item page
+
 ## Decisions

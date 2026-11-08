@@ -351,4 +351,9 @@
   - Member: Final Fantasy Legend II
   - Member: Final Fantasy Legend III
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - Sa･Ga COLLECTION; id 70010000032884; maker スクウェア・エニックス; type download (HAC_DL); release 2020.12.15; status on sale; listed on saved page 61 of 75; the entry has no link to an item page
+
 ## Decisions

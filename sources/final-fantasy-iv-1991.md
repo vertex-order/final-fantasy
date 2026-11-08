@@ -873,6 +873,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 - Page URL: https://www.nintendo.co.jp/wii/vc/data/data.tsv (Wii Virtual Console catalog data file of the Nintendo Japan Wii Virtual Console feature page, Wayback capture of 2013-04-15, 650 titles; maker names from https://www.nintendo.co.jp/wii/vc/data/maker.tsv, capture of 2013-04-15) -- dates, platforms -- accessed 2026-11-08; archived: https://web.archive.org/web/20130415035444/http://www.nintendo.co.jp/wii/vc/data/data.tsv
   - ファイナルファンタジーIV; id RVL-JC8J; maker スクウェア・エニックス; hardware code 2; Wii Points 900; original release 1991/07/19; delivery start 2009/08/04; the entry has no link to an item page
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - FINAL FANTASY IV; id 70010000056581; maker スクウェア・エニックス; type download (HAC_DL); release 2023.4.20; status on sale; listed on saved page 43 of 75; the entry has no link to an item page
+
 ## Decisions
 
 - **Not to be listed: the cancelled Famicom/NES version of Final Fantasy IV (user, 2026-11-03):** planned for the Famicom (Square, 1991, Japan) and moved to the Super Famicom before any work was done, per GamesRadar+ 'The lost Nintendo games' (2008-05-30, https://www.gamesradar.com/the-lost-nintendo-games/) and Lost Levels (2003-11, http://www.lostlevels.org/200311/200311-square.shtml); never released, so the NES is not a platform of Final Fantasy IV. Only this platform is left out: the game itself released on other platforms and stays listed on them

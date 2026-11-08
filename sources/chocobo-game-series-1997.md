@@ -1166,6 +1166,13 @@
 - Page URL: https://www.nintendo.co.jp/wii/softlist/2007_2006.html (Nintendo Japan Wii software of other makers than Nintendo, list page; Wayback capture of 2009-04-05) -- dates -- accessed 2026-11-08; archived: https://web.archive.org/web/20090405070355/http://www.nintendo.co.jp:80/wii/softlist/2007_2006.html
   - チョコボの不思議なダンジョン 時忘れの迷宮; maker スクウェア・エニックス; genre label ダンジョンRPG; release date listed December 13 (the page covers 2006 and 2007 releases; the entry gives no year); the entry has no link to an item page
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - チョコボGP; id 70010000068155; maker スクウェア・エニックス; type download (HAC_DL); release 2023.6.1; status on sale; listed on saved page 42 of 75; the entry has no link to an item page
+  - チョコボGP; id 3986; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2022.3.10; status not found; listed on saved page 63 of 75; item page https://topics.nintendo.co.jp/article/91c2f908-d5ac-4591-a39d-dad8e10b6905
+  - チョコボの不思議なダンジョン エブリバディ！; id 70010000013438; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2019.3.20; status on sale; listed on saved page 69 of 75; the entry has no link to an item page
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

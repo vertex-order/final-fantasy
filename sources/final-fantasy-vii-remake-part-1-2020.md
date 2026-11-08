@@ -405,4 +405,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake_versio
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
   - Row: Final Fantasy VII Remake Intergrade; Action role-playing; Square Enix; Square Enix; 2026-Jan-22; 2026-Jan-22; 2026-Jan-22
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch 2 software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - FINAL FANTASY VII REMAKE INTERGRADE; id 70010000096733; maker スクウェア・エニックス; type download (BEE_DOWNLOADABLE); release 2026.1.22; status on sale; listed on saved page 5 of 6; the entry has no link to an item page
+  - FINAL FANTASY VII REMAKE INTERGRADE; id 70010000096733-2; maker スクウェア・エニックス; type package (BEE_CARD); release 2026.1.22; status not found; listed on saved page 5 of 6; the entry has no link to an item page
+  - FINAL FANTASY VII REMAKE INTERGRADE Digital Deluxe Edition; id 70070000030728; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.2.1; status on sale; listed on saved page 4 of 6; the entry has no link to an item page
+
 ## Decisions

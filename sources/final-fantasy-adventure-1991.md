@@ -394,6 +394,11 @@ square-enix.com and stores (Publisher)
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Adventures of Mana
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - 聖剣伝説COLLECTION; id 70010000000312; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2017.6.1; status on sale; listed on saved page 74 of 75; the entry has no link to an item page
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

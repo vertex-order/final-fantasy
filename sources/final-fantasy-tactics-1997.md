@@ -640,6 +640,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
   - Member: Final Fantasy Tactics
   - The category names no PlayStation model or store (PS1 classic, PS3, PSP, Vita)
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - ファイナルファンタジータクティクス - イヴァリース クロニクルズ; id 70010000088804; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2025.9.30; status on sale; listed on saved page 18 of 75; the entry has no link to an item page
+  - ファイナルファンタジータクティクス - イヴァリース クロニクルズ デラックスエディション; id 70070000028101; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2025.9.30; status on sale; listed on saved page 18 of 75; the entry has no link to an item page
+
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch 2 software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - ファイナルファンタジータクティクス - イヴァリース クロニクルズ Nintendo Switch 2 Edition; id 70010000100753; maker スクウェア・エニックス; type download (BEE_DL); release 2025.9.30; status on sale; listed on saved page 5 of 6; the entry has no link to an item page
+
 ## Decisions
 
 

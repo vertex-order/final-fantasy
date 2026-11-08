@@ -365,4 +365,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
   - Row: Final Fantasy XII: The Zodiac Age; Action role-playing; Square Enix; Square Enix; 2019-Apr-25; 2019-Apr-30; 2019-Apr-30; X
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - FINAL FANTASY XII THE ZODIAC AGE; id 70010000009747; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2019.4.25; status on sale; listed on saved page 68 of 75; the entry has no link to an item page
+
 ## Decisions

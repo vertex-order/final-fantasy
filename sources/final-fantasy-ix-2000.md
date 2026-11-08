@@ -539,4 +539,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy IX
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - FINAL FANTASY IX; id 70010000010543; maker スクウェア・エニックス; type download (HAC_DL); release 2019.2.14; status on sale; listed on saved page 69 of 75; the entry has no link to an item page
+
 ## Decisions

@@ -297,4 +297,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_versi
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
   - Row: Final Fantasy VII Rebirth; Action role-playing; Square Enix Creative Business Unit I; Square Enix; 2026-Jun-03; 2026-Jun-03; 2026-Jun-03
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch 2 software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - FINAL FANTASY VII REBIRTH; id 70010000112479; maker スクウェア・エニックス; type download (BEE_DOWNLOADABLE); release 2026.6.3; status on sale; listed on saved page 3 of 6; the entry has no link to an item page
+  - FINAL FANTASY VII REBIRTH Digital Deluxe Edition Upgrade; id 70070000032072; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.6.3; status on sale; listed on saved page 3 of 6; the entry has no link to an item page
+  - FINAL FANTASY VII REBIRTH Digital Deluxe Edition; id 70070000032073; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.6.3; status on sale; listed on saved page 3 of 6; the entry has no link to an item page
+
 ## Decisions

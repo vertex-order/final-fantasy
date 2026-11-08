@@ -504,4 +504,13 @@
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
   - Row: Final Fantasy XIV Online; MMORPG; Square Enix; Square Enix; 2024-Mar-21; 2024-Mar-21; 2024-Mar-21; XP
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch 2 software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - ファイナルファンタジーXIV; id 70010000112609; maker スクウェア・エニックス; type download (BEE_DL); release 2026.8.4; status sales terminated; listed on saved page 6 of 6; the entry has no link to an item page
+  - ファイナルファンタジーXIV - フリートライアル; id 70070000033647; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.8.4; status on sale; listed on saved page 6 of 6; the entry has no link to an item page
+  - ファイナルファンタジーXIV - スターターパック; id 70070000033648; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.8.4; status on sale; listed on saved page 6 of 6; the entry has no link to an item page
+  - ファイナルファンタジーXIV - コンプリートパック; id 70070000033649; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.8.4; status on sale; listed on saved page 6 of 6; the entry has no link to an item page
+  - ファイナルファンタジーXIV - コンプリートパック コレクターズ・エディション; id 70070000033650; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.8.4; status on sale; listed on saved page 6 of 6; the entry has no link to an item page
+
 ## Decisions

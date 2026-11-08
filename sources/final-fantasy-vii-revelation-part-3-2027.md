@@ -304,4 +304,11 @@
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
   - Row: Final Fantasy VII Revelation; Action role-playing; Square Enix Creative Studio I; Square Enix; 2027-Apr-08; 2027-Apr-08; 2027-Apr-08
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch 2 software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - FINAL FANTASY VII REVELATION; id 70010000130409; maker スクウェア・エニックス; type download (BEE_DL); release 2027.4.8; status pre-order; listed on saved page 2 of 6; the entry has no link to an item page
+  - FINAL FANTASY VII REVELATION Premium Plus Edition; id 70070000038093; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2027.4.7; status pre-order; listed on saved page 1 of 6; the entry has no link to an item page
+  - FINAL FANTASY VII REVELATION Premium Edition; id 70070000038094; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2027.4.7; status pre-order; listed on saved page 1 of 6; the entry has no link to an item page
+
 ## Decisions

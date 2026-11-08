@@ -557,4 +557,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
   - Member: Final Fantasy VIII
   - The category names no PlayStation model or store (PS1 classic, PS3, PSP, Vita)
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - FINAL FANTASY VIII Remastered; id 70010000019038; maker スクウェア・エニックス; type download (HAC_DL); release 2019.9.3; status on sale; listed on saved page 67 of 75; the entry has no link to an item page
+
 ## Decisions

@@ -338,4 +338,9 @@
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy Crystal Chronicles (video game)
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - ファイナルファンタジー・クリスタルクロニクル リマスター; id 70010000021323; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2020.8.27; status on sale; listed on saved page 62 of 75; the entry has no link to an item page
+
 ## Decisions

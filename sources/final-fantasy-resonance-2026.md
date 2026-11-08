@@ -285,4 +285,16 @@
 - https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_2_games -- dates, platforms -- accessed 2026-11-03 (revision 1383631769 of 2026-11-03; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Final Fantasy Resonance; Developer(s): Square Enix, Lancarse; Publisher(s): Square Enix; Release date: October 22, 2026
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - ファイナルファンタジー レゾナンス; id 70010000117095; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2026.10.22; status on sale; listed on saved page 5 of 75; the entry has no link to an item page
+  - ファイナルファンタジー レゾナンス Digital Deluxe Edition; id 70070000035966; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.10.22; status on sale; listed on saved page 4 of 75; the entry has no link to an item page
+
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch 2 software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - ファイナルファンタジー レゾナンス; id 70010000117102; maker スクウェア・エニックス; type download (BEE_DOWNLOADABLE); release 2026.10.22; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+  - ファイナルファンタジー レゾナンス Digital Deluxe Edition; id 70070000035972; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.10.22; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+
 ## Decisions

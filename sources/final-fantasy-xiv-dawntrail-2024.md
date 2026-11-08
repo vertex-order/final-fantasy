@@ -157,6 +157,12 @@
   - Final Fantasy XIV Online (2013) -- no card of its own on the saved pages; the parent of Final Fantasy XIV: Dawntrail (2024)
     - https://www.igdb.com/games/final-fantasy-xiv-online--1 -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch 2 software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - ファイナルファンタジーXIV: 黄金のレガシー; id 70050000069447; maker スクウェア・エニックス; type add-on content (DLC); release 2026.8.4; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+  - ファイナルファンタジーXIV: 黄金のレガシー - コレクターズエディション; id 70050000069448; maker スクウェア・エニックス; type add-on content (DLC); release 2026.8.4; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

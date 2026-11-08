@@ -265,4 +265,11 @@
 - https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(Q%E2%80%93Z) -- dates, platforms -- accessed 2026-11-03 (revision 1381667128 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Theatrhythm Final Bar Line; Developer(s): indieszero; Publisher(s): Square Enix; Release date: February 16, 2023
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - シアトリズム ファイナルバーライン; id 70010000049968; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2023.2.16; status on sale; listed on saved page 46 of 75; the entry has no link to an item page
+  - シアトリズム ファイナルバーライン デジタルデラックスエディション; id 70070000015201; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2023.2.16; status on sale; listed on saved page 46 of 75; the entry has no link to an item page
+  - シアトリズム ファイナルバーライン プレミアムデジタルデラックスエディション; id 70070000015202; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2023.2.16; status on sale; listed on saved page 46 of 75; the entry has no link to an item page
+
 ## Decisions

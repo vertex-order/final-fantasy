@@ -399,4 +399,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
   - Row: Crisis Core: Final Fantasy VII Reunion; Role-playing; Square Enix; Square Enix; 2022-Dec-13; 2022-Dec-13; 2022-Dec-13; OP
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - CRISIS CORE –FINAL FANTASY VII– REUNION; id 70010000047999; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2022.12.13; status on sale; listed on saved page 47 of 75; the entry has no link to an item page
+  - CRISIS CORE –FINAL FANTASY VII– REUNION DIGITAL DELUXE EDITION; id 70010000059270; maker スクウェア・エニックス; type download (HAC_DL); release 2022.12.13; status on sale; listed on saved page 47 of 75; the entry has no link to an item page
+
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch 2 software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - CRISIS CORE –FINAL FANTASY VII– REUNION; id 70010000106972; maker スクウェア・エニックス; type download (BEE_DL); release 2026.9.10; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+  - CRISIS CORE -FINAL FANTASY VII- REUNION Digital Contents; id 70010000113131; maker スクウェア・エニックス; type download (BEE_DL); release 2026.9.10; status not found; listed on saved page 2 of 6; the entry has no link to an item page
+  - CRISIS CORE –FINAL FANTASY VII– REUNION DIGITAL DELUXE EDITION; id 70070000035888; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.9.10; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+
 ## Decisions
