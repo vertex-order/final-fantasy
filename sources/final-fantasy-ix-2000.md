@@ -555,10 +555,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
 
 - https://play.google.com/store/apps/details?id=com.square_enix.FFIXww.android_googleplay -- app page linked from the search results, shown as "FINAL FANTASY IX for Android", developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
-  - English store: listed in all 20 saved searches
-  - Japanese store: listed in 2 of 3 saved searches (キングダムハーツ, ファイナルファンタジー)
+  - English store: listed in 24 of 35 saved searches
+  - Japanese store: listed in 2 of 11 saved searches
 - https://play.google.com/store/apps/details?id=com.square_enix.FFIXjp.android_googleplay -- app page linked from the search results, shown as "FINAL FANTASY IX", developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
-  - Japanese store: listed in 1 of 3 saved searches (ファイナルファンタジー レコードキーパー)
+  - Japanese store: listed in 1 of 11 saved searches
 
 ## play.google.com (Platform; Google Play, English store, Square Enix developer page, saved page of 2026-11-08)
 
@@ -571,5 +571,11 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (Japanese store; the saved file carries no url, the developer id is read from its links)
 
 - https://play.google.com/store/apps/details?id=com.square_enix.FFIXjp.android_googleplay -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY IX" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
+## play.google.com (Platform; Wayback captures of the Square Enix developer page, one per year 2015 to 2026)
+
+Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13; 2020-02-03; 2021-02-09; 2022-01-13; 2023-01-07; 2024-02-02; 2025-01-17; 2026-01-05 https://play.google.com/store/apps/dev?id=8026010256970589886 (first capture of each year; 2019 is the 2019-03-13 capture; each page shows only the first ten or eleven apps)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.FFIXww.android_googleplay -- app listed in the developer page captures of 2017-01-07, 2018-02-26, 2019-03-13, 2020-02-03 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20170107053042/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20200203130818/https://play.google.com/store/apps/dev?id=8026010256970589886
 
 ## Decisions

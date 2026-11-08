@@ -183,8 +183,8 @@
 Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD -- app page linked from the search results, shown as "DISSIDIA DUELLUM FINAL FANTASY" (English store); "DDFF-ファイナルファンタジーのオールスター共闘アクション" (Japanese store), developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
-  - English store: listed in 14 of 20 saved searches (Adventures of Mana, All the Bravest, Final Fantasy, Final Fantasy Agito, Final Fantasy Awakening, Final Fantasy Legend, Final Fantasy XV, Opera Omnia, ffv, ffx, ffxi, ffxiv, final fantasy Mobius, kingdom hearts)
-  - Japanese store: listed in 2 of 3 saved searches (キングダムハーツ, ファイナルファンタジー)
+  - English store: listed in 16 of 35 saved searches
+  - Japanese store: listed in 5 of 11 saved searches
 
 ## play.google.com (Platform; Google Play, English store, Square Enix developer page, saved page of 2026-11-08)
 

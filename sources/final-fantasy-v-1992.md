@@ -694,8 +694,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
 Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR5 -- app page linked from the search results, shown as "FINAL FANTASY V", developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
-  - English store: listed in all 20 saved searches
-  - Japanese store: listed in all 3 saved searches
+  - English store: listed in 25 of 35 saved searches
+  - Japanese store: listed in 4 of 11 saved searches
 
 ## play.google.com (Platform; Google Play, English store, Square Enix developer page, saved page of 2026-11-08)
 

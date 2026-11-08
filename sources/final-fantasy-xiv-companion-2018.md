@@ -29,10 +29,10 @@
 Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffxivcomapp_n -- app page linked from the search results, shown as "FINAL FANTASY XIV Companion", developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
-  - English store: listed in 17 of 20 saved searches (Adventures of Mana, All the Bravest, Brave Exvius, Final Fantasy Agito, Final Fantasy Awakening, Final Fantasy Legend, Final Fantasy XV, Heavenstrike, Justice Monsters, Opera Omnia, Square Enix, War of the Visions, ffv, ffxi, ffxiv, final fantasy Mobius, final fantasy Record Keeper)
-  - Japanese store: listed in 2 of 3 saved searches (キングダムハーツ, ファイナルファンタジー)
+  - English store: listed in 17 of 35 saved searches
+  - Japanese store: listed in 2 of 11 saved searches
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffxivcomapp_j -- app page linked from the search results, shown as "ファイナルファンタジーXIV コンパニオン", developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
-  - Japanese store: listed in 1 of 3 saved searches (ファイナルファンタジー レコードキーパー)
+  - Japanese store: listed in 1 of 11 saved searches
 
 ## play.google.com (Platform; Google Play, English store, Square Enix developer page, saved page of 2026-11-08)
 
@@ -45,5 +45,12 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (Japanese store; the saved file carries no url, the developer id is read from its links)
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffxivcomapp_j -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "ファイナルファンタジーXIV コンパニオン" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
+## play.google.com (Platform; Wayback captures of the Square Enix developer page, one per year 2015 to 2026)
+
+Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13; 2020-02-03; 2021-02-09; 2022-01-13; 2023-01-07; 2024-02-02; 2025-01-17; 2026-01-05 https://play.google.com/store/apps/dev?id=8026010256970589886 (first capture of each year; 2019 is the 2019-03-13 capture; each page shows only the first ten or eleven apps)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffxivcomapp_e -- app listed in the developer page captures of 2019-03-13, 2023-01-07 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20190313011644/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20230107180705/https://play.google.com/store/apps/dev?id=8026010256970589886
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffxivcomapp_n -- app listed in the developer page captures of 2021-02-09, 2022-01-13, 2024-02-02, 2025-01-17, 2026-01-05 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20210209022718/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20260105211845/https://play.google.com/store/apps/dev?id=8026010256970589886
 
 ## Decisions

@@ -685,6 +685,12 @@ Page URL by capture: 2016-03-17 to 2016-08-29 http://store.xbox.com/en-US/Xbox-O
 - Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - FINAL FANTASY XV POCKET EDITION HD; id 70010000009444; maker スクウェア・エニックス; type download (HAC_DL); release 2018.9.14; status on sale; listed on saved page 71 of 75; the entry has no link to an item page
 
+## play.google.com (Platform; Wayback captures of the Square Enix developer page, one per year 2015 to 2026)
+
+Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13; 2020-02-03; 2021-02-09; 2022-01-13; 2023-01-07; 2024-02-02; 2025-01-17; 2026-01-05 https://play.google.com/store/apps/dev?id=8026010256970589886 (first capture of each year; 2019 is the 2019-03-13 capture; each page shows only the first ten or eleven apps)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_google.ffxvpe -- app listed in the developer page captures of 2018-02-26, 2019-03-13, 2021-02-09, 2022-01-13 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20180226225717/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20220113043000/https://play.google.com/store/apps/dev?id=8026010256970589886
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations

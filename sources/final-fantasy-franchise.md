@@ -610,15 +610,17 @@
   - Featured Seiken Densetsu -Final Fantasy Gaiden-; apps shown: Brave Exvius, Mobius Final Fantasy (package com.square_enix.android_googleplay.mobiusff_ne), Tactics: WotL, Final Fantasy VII, IX for Android, Dragon Quest, VI, Final Fantasy, Chrono Trigger, III; the Japan-only apps are not on it
 
 - https://play.google.com/store/search?c=apps&q=<TERM> -- Google Play search results, English store, saved as pages and read by me, visited and audited -- accessed 2026-11-08
-  - Terms: Final Fantasy, ffv, ffx, ffxi, ffxiv, Final Fantasy XV, Final Fantasy Legend, Final Fantasy Awakening, Final Fantasy Agito, final fantasy Record Keeper, final fantasy Mobius, Brave Exvius, War of the Visions, Opera Omnia, All the Bravest, Heavenstrike, Justice Monsters, Adventures of Mana, Square Enix
+  - Terms: Final Fantasy, ffv, ffx, ffxi, ffxiv, Final Fantasy XV, Final Fantasy Legend, Final Fantasy Awakening, Final Fantasy Agito, final fantasy Record Keeper, final fantasy Mobius, Brave Exvius, War of the Visions, Opera Omnia, All the Bravest, Heavenstrike, Justice Monsters, Adventures of Mana, Square Enix, chocobo, theatrhythm, dissidia, crystal chronicles, crystal defenders, king's knight, moogle, pixel remaster, collection of mana, seiken densetsu, saga, final fantasy saga, voice fantasy, vagrant story, itadaki street
   - A search lists about 19 apps; delisted apps do not appear
 - https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM> -- Google Play search results, Japanese store, saved as pages and read by me, visited and audited -- accessed 2026-11-08
-  - Terms: ファイナルファンタジー, ファイナルファンタジー レコードキーパー
+  - Terms: ファイナルファンタジー, ファイナルファンタジー レコードキーパー, チョコボ, シアトリズム, ボイスファンタジー, いただきストリート
   - The Japanese store lists separate Japan packages of Ever Crisis (ff7ecjp), IX (FFIXjp) and XIV Companion (ffxivcomapp_j)
 - https://play.google.com/store/apps/dev?id=8026010256970589886 -- the Square Enix developer page in the English store, saved page read by me, visited and audited -- accessed 2026-11-08 (the saved file carries no url; the developer id is read from its links)
 - https://play.google.com/store/apps/dev?id=8026010256970589886 -- the same developer page in the Japanese store, saved page read by me, visited and audited -- accessed 2026-11-08 (the saved file carries no url; the developer id is read from its links)
   - Its first card is Final Fantasy Record Keeper, developer shown as DeNA Co., Ltd.
 - https://play.google.com/store/apps/dev?id=5614074995304947897&hl=ja -- the DeNA Co., Ltd. developer page in the Japanese store, saved page read by me, visited and audited -- accessed 2026-11-08 (the saved file carries no url besides the developer link); lists 15 apps, one of them Final Fantasy
+- https://play.google.com/store/apps/dev?id=8026010256970589886 -- the Square Enix developer page, English store, Wayback captures of 2015-06-15, 2016-02-06, 2017-01-07, 2018-02-26, 2019-03-13, 2020-02-03, 2021-02-09, 2022-01-13, 2023-01-07, 2024-02-02, 2025-01-17, 2026-01-05 (the first capture of each year; 178 captures listed in all, 2015-06-15 to 2026-10-22), raw pages read, visited and audited -- accessed 2026-11-08
+  - Each capture shows only the first ten or eleven apps
 - https://play.google.com/store/apps/details?id=jp.mbga.a12019103.lite -- the Final Fantasy Record Keeper app page in the Japanese store, saved page read by me, visited and audited -- accessed 2026-11-08 (the saved file carries no url); its "More by DeNA" and "Similar games" lists were read
 
 ## apps.apple.com (Platform; App Store, developer page)
@@ -633,6 +635,11 @@
   - https://breezewiki.com/finalfantasy/wiki/IOS_and_iPadOS -- the Final Fantasy Wiki's iOS and iPadOS page, audited -- accessed 2026-10-20 (read by me through the Fandom API; breezewiki showed a captcha)
     - Lists the iOS games by series, spin-offs, applications and Apple Arcade, with defunct and retired flags (Final Fantasy and II "20th Anniversary engine" 2010-02-25, V and VI "Advance engine", All the Bravest, Opera Omnia, Mobius, Theatrhythm and others); also Dive In streaming titles (Japan, to 2015-09-13) and the Apple Arcade rerelease of 2025-01-09
     - Apple ids for gone apps found in Wayback captures of https://apps.apple.com/us/developer/square-enix/id300186801 (first capture 2019-10-20) and https://itunes.apple.com/us/artist/square-enix/id300186801 (2012-06-20, 2014-10-10)
+  - https://apps.apple.com/us/iphone/search?term=<TERM> -- the US App Store iPhone search (saved pages of 19 English terms: final fantasy, chocobo, theatrhythm, dissidia, crystal chronicles, kingdom hearts, square enix, moogle, vagrant story, crystal defenders, king's knight, justice monsters, voice fantasy, heavenstrike, collection of mana, adventures of mana, seiken densetsu, saga square enix, itadaki street), plus the US Square Enix developer page (https://apps.apple.com/us/developer/square-enix/id300186801), visited and audited -- accessed 2026-11-08 (saved pages read by me)
+  - https://apps.apple.com/us/ipad/search?term=<TERM> and https://apps.apple.com/us/mac/search?term=<TERM> -- the US App Store iPad and Mac searches (terms: final fantasy, kingdom hearts; Mac: no Final Fantasy, Chocobo or Kingdom Hearts app), visited and audited -- accessed 2026-11-08 (saved pages read by me)
+  - https://apps.apple.com/jp/iphone/search?term=<TERM> -- the Japan App Store iPhone search (terms: ファイナルファンタジー, チョコボ, キングダム ハーツ, シアトリズム) and the Japan Square Enix developer page (https://apps.apple.com/jp/developer/square-enix/id300186801), visited and audited -- accessed 2026-11-08 (saved pages read by me)
+  - https://apps.apple.com/us/developer/square-enix/id300186801 -- Wayback captures read as raw HTML (id_), one per year: 2019-10-20, 2020-04-01, 2021-01-03, 2022-01-28, 2023-03-03, 2023-11-26, 2024-08-21, 2025-01-12, 2026-01-24 (https://web.archive.org/web/<timestamp>/https://apps.apple.com/us/developer/square-enix/id300186801), visited and audited -- accessed 2026-11-08
+  - https://itunes.apple.com/us/artist/square-enix/id300186801 -- Wayback capture of 2014-10-10 (https://web.archive.org/web/20141010133544/https://itunes.apple.com/us/artist/square-enix/id300186801), visited and audited -- accessed 2026-11-08; the capture of 2012-06-20 carries no app list
 
 ## alchetron.com (Information; app store links)
 

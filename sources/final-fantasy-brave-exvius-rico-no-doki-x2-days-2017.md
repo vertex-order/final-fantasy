@@ -46,6 +46,12 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_jp -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "マンガ ＵＰ！異世界漫画や名作漫画、人気マンガの漫画アプリ" -- accessed 2026-11-08 -- link recorded only; archived: TODO
 
+## play.google.com (Platform; Wayback captures of the Square Enix developer page, one per year 2015 to 2026)
+
+Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13; 2020-02-03; 2021-02-09; 2022-01-13; 2023-01-07; 2024-02-02; 2025-01-17; 2026-01-05 https://play.google.com/store/apps/dev?id=8026010256970589886 (first capture of each year; 2019 is the 2019-03-13 capture; each page shows only the first ten or eleven apps)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_global -- app listed in the developer page captures of 2023-01-07, 2024-02-02, 2025-01-17, 2026-01-05 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20230107180705/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20260105211845/https://play.google.com/store/apps/dev?id=8026010256970589886
+
 ## Decisions
 
 - No entry yet (user, 2026-10-16): a source file only, with the research on the plan; the author, original venue, end date and any collected volume are unknown

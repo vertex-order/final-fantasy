@@ -165,8 +165,8 @@
 Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp -- app page linked from the search results, shown as "FINAL FANTASY DIMENSIONS" (English store); "FINAL FANTASY LEGENDS 光と闇の戦士" (Japanese store), developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
-  - English store: listed in all 20 saved searches
-  - Japanese store: listed in all 3 saved searches
+  - English store: listed in 22 of 35 saved searches
+  - Japanese store: listed in 3 of 11 saved searches
 
 ## play.google.com (Platform; Google Play, English store, Square Enix developer page, saved page of 2026-11-08)
 

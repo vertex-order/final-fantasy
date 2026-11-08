@@ -701,8 +701,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
 Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR6 -- app page linked from the search results, shown as "FINAL FANTASY VI", developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
-  - English store: listed in all 20 saved searches
-  - Japanese store: listed in all 3 saved searches
+  - English store: listed in 24 of 35 saved searches
+  - Japanese store: listed in 3 of 11 saved searches
 
 ## play.google.com (Platform; Google Play, English store, Square Enix developer page, saved page of 2026-11-08)
 
@@ -715,5 +715,11 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (Japanese store; the saved file carries no url, the developer id is read from its links)
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR6 -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY VI" -- accessed 2026-11-08 -- link recorded only; archived: TODO
+
+## play.google.com (Platform; Wayback captures of the Square Enix developer page, one per year 2015 to 2026)
+
+Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13; 2020-02-03; 2021-02-09; 2022-01-13; 2023-01-07; 2024-02-02; 2025-01-17; 2026-01-05 https://play.google.com/store/apps/dev?id=8026010256970589886 (first capture of each year; 2019 is the 2019-03-13 capture; each page shows only the first ten or eleven apps)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVI -- app listed in the developer page captures of 2015-06-15, 2016-02-06, 2017-01-07, 2018-02-26 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20150615154752/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20180226225717/https://play.google.com/store/apps/dev?id=8026010256970589886
 
 ## Decisions

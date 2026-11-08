@@ -158,7 +158,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Record_Keeper_ver
 Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
 
 - https://play.google.com/store/apps/details?id=jp.mbga.a12019103.lite -- app page linked from the search results (Japanese store), developer not read -- accessed 2026-11-08 -- link recorded only; archived: TODO
-  - Japanese store: listed in 1 of 3 saved searches (ファイナルファンタジー レコードキーパー)
+  - Japanese store: listed in 2 of 11 saved searches
 
 ## play.google.com (Platform; Google Play, Japanese store, Square Enix developer page, saved page of 2026-11-08)
 

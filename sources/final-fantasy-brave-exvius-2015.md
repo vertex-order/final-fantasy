@@ -251,6 +251,12 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/details?id=jp
 
 - https://play.google.com/store/apps/details?id=com.square_enix.ffbejpn -- app page linked from the app page's "More by DeNA Co., Ltd." and "Similar games" lists, shown as "FINAL FANTASY BRAVE EXVIUS" -- accessed 2026-11-08 -- link recorded only; archived: TODO
 
+## play.google.com (Platform; Wayback captures of the Square Enix developer page, one per year 2015 to 2026)
+
+Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13; 2020-02-03; 2021-02-09; 2022-01-13; 2023-01-07; 2024-02-02; 2025-01-17; 2026-01-05 https://play.google.com/store/apps/dev?id=8026010256970589886 (first capture of each year; 2019 is the 2019-03-13 capture; each page shows only the first ten or eleven apps)
+
+- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW -- app listed in the developer page captures of 2017-01-07, 2018-02-26, 2019-03-13, 2021-02-09, 2022-01-13, 2024-02-02 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20170107053042/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20240202214202/https://play.google.com/store/apps/dev?id=8026010256970589886
+
 ## Decisions
 - Brave Exvius Memorial Version not listed (user, 2026-10-20): the Japanese offline app released after the service ended is an archive and viewer (story, encyclopedias, galleries), not content, so the entry gets no Japanese or Memorial rows; same decision as the Libra Eorzea app (see final-fantasy-franchise.md Decisions)
 - Terminated platform rows link Wayback captures of their store pages
