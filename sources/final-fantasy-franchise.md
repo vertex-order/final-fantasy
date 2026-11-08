@@ -1276,6 +1276,20 @@
   - Game Archives list: https://www.jp.playstation.com/search-results/software/search.x?gamearchives=1&past=nowonsale&future=14&sort=1 -- 958 hits -- capture of 2019-12-02; archived: https://web.archive.org/web/20191202041010/https://www.jp.playstation.com/search-results/software/search.x?gamearchives=1&past=nowonsale&future=14&sort=1
   - Later captures of the Vita and Game Archives filters (2019-10 to 2020-06) are the later page layout and show no results in the archived HTML
 
+## jp.playstation.com (Platform; PlayStation Japan PlayStation Mobile page, captures of 2012-12-22 to 2022-05-18)
+
+- http://www.jp.playstation.com/psn/psm/ -- PlayStation Japan PlayStation Mobile page (PlayStation®Mobile, プレイステーション®オフィシャルサイト; read as Wayback captures, one per year, in Japanese; links the title list pages /psn/psm/lineup/ and /psn/psm/title/, loaded from title/lineup.json, 551 titles in the capture of 2015-08-26); no Final Fantasy or Chocobo title (the Square Enix title in the list is CHAOS RINGS) -- visited and audited
+  - capture of 2012-12-22; archived: https://web.archive.org/web/20121222072142/http://www.jp.playstation.com:80/psn/psm/
+  - capture of 2013-12-10; archived: https://web.archive.org/web/20131210145354/http://www.jp.playstation.com:80/psn/psm/
+  - capture of 2014-12-05; archived: https://web.archive.org/web/20141205010319/http://www.jp.playstation.com:80/psn/psm/
+  - capture of 2015-12-23; archived: https://web.archive.org/web/20151223013336/http://www.jp.playstation.com:80/psn/psm/
+  - capture of 2016-04-03; archived: https://web.archive.org/web/20160403072500/http://www.jp.playstation.com:80/psn/psm/
+  - capture of 2019-10-19; archived: https://web.archive.org/web/20191019002109/https://www.jp.playstation.com/psn/psm/
+  - capture of 2021-11-11; archived: https://web.archive.org/web/20211111143656/https://www.jp.playstation.com/psn/psm/
+  - capture of 2022-05-18; archived: https://web.archive.org/web/20220518110759/https://www.jp.playstation.com/psn/psm/
+  - lineup.json: http://www.jp.playstation.com/psn/psm/title/lineup.json -- capture of 2015-08-26; archived: https://web.archive.org/web/20150826090748/http://www.jp.playstation.com/psn/psm/title/lineup.json
+  - Captures of 2019 to 2022 show the PlayStation Mobile content-delivery end notice (http://www.jp.playstation.com/info/support/sp_20150311_psm_info.html), not the service page
+
 ## Decisions
 
 - **Square Enix Market is not a listed platform (user, 2026-10-25):** a Japan-only Android store; it is audited for Final Fantasy and Chocobo titles the list lacks, and is reconsidered if it is the only way to obtain a title
