@@ -1233,6 +1233,10 @@
 
 - https://www.nintendo.co.jp/wii/index.html -- Nintendo Japan Wii hub page (saved page read by me, in Japanese; 31 software items released 2009-12-03 to 2012-07-26, first and third party, each with a release date and price; links the year lists https://www.nintendo.co.jp/wii/softlist/n2009.html, https://www.nintendo.co.jp/wii/softlist/n2008.html and https://www.nintendo.co.jp/wii/softlist/n2007_2006.html and the WiiWare index page) and its three year lists 任天堂のソフト (Nintendo's own software; saved pages read by me: 2009 releases 13 items, 2008 releases 15 items, 2007 and 2006 releases 17 items, each with title, genre, release date and price); no catalog of third-party games beyond the 31 hub items -- visited and audited -- accessed 2026-11-08; no Final Fantasy, Chocobo or outlier title on any of the four pages; archived: TODO
 
+## nintendo.com (Platform; Nintendo Japan Wii U software list, saved pages of 2026-11-08)
+
+- https://www.nintendo.com/jp/software/wiiu/index_all.html -- Nintendo Japan Wii U software, all-results page (saved pages read by me, in Japanese; three filters: all, 10 pages, 227 titles of Wii U package and download software; Wii U disc, 2 pages, 33 titles; Virtual Console, 20 pages, 479 titles; the 67 titles of the unfiltered index's 3 pages are all among the 227; each row has title, maker, release date and platform) -- visited and audited -- accessed 2026-11-08; Final Fantasy, Chocobo and King's Knight titles on the Virtual Console filter only (Final Fantasy I to VI, Mystic Quest, the five Game Boy Advance titles, Chocobo Land, King's Knight); none on the all or disc filters; archived: TODO
+
 ## Decisions
 
 - **Square Enix Market is not a listed platform (user, 2026-10-25):** a Japan-only Android store; it is audited for Final Fantasy and Chocobo titles the list lacks, and is reconsidered if it is the only way to obtain a title

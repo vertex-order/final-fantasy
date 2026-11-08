@@ -675,4 +675,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
   - Member: Final Fantasy VI
   - Titles only; no date or region
 
+## nintendo.com (Platform; Nintendo Japan Wii U software list, Virtual Console, saved pages of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/wiiu/index_all.html (the all-results page of Nintendo Japan's Wii U software list; Virtual Console filter vcall, 20 pages of 479 titles) -- dates, platforms -- accessed 2026-11-08 (saved pages read by me); archived: TODO
+  - ファイナルファンタジーVI; maker スクウェア・エニックス; release 2013-06-26; platform label スーパーファミコン; listed on saved page 19 of 20; the row is plain text with no link to an item page
+  - ファイナルファンタジーVI アドバンス; maker スクウェア・エニックス; release 2015-12-22; platform label GAME BOY ADVANCE; listed on saved page 5 of 20; the row is plain text with no link to an item page
+
 ## Decisions

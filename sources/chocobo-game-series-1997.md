@@ -1156,6 +1156,11 @@
   - https://web.archive.org/web/20190219015327/https://www.jp.square-enix.com/chocobo/ -- the "in preparation" notes gone; adds https://ec.nintendo.com/JP/ja/titles/70010000013438 (Nintendo eShop, Switch download) and https://www.amazon.co.jp/dp/B07NQHTHXS (Amazon.co.jp, Switch download); the ./en/index.html link is not present -- link recorded only
   - https://web.archive.org/web/20260818213023/https://www.jp.square-enix.com/chocobo/ -- last capture: release 2019-03-20 (no longer "planned"), price 5,280 yen (tax included), wording changed to purchase (製品のご購入); adds the 2019-03-19 official live broadcast (公式生放送); same store links as the 2019-02-19 capture
 
+## nintendo.com (Platform; Nintendo Japan Wii U software list, Virtual Console, saved pages of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/wiiu/index_all.html (the all-results page of Nintendo Japan's Wii U software list; Virtual Console filter vcall, 20 pages of 479 titles) -- dates, platforms -- accessed 2026-11-08 (saved pages read by me); archived: TODO
+  - チョコボランド; maker スクウェア・エニックス; release 2016-02-10; platform label GAME BOY ADVANCE; listed on saved page 4 of 20; the row is plain text with no link to an item page
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.
