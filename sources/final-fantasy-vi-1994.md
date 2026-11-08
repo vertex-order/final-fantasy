@@ -686,4 +686,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI_version_differ
 - Page URL: https://www.nintendo.co.jp/software/3ds/index_all.html?sftab=vcall (Virtual Console filter vcall; the list data read from the page's own search results, page 1 of 12) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - ファイナルファンタジーVI; maker スクウェア・エニックス; release 2017.8.23; type バーチャルコンソール; the entry has no link to an item page
 
+## nintendo.co.jp (Platform; Nintendo Japan Wii Virtual Console catalog data and Wii software lists, captures of 2009 to 2013)
+
+- Page URL: https://www.nintendo.co.jp/wii/vc/data/data.tsv (Wii Virtual Console catalog data file of the Nintendo Japan Wii Virtual Console feature page, Wayback capture of 2013-04-15, 650 titles; maker names from https://www.nintendo.co.jp/wii/vc/data/maker.tsv, capture of 2013-04-15) -- dates, platforms -- accessed 2026-11-08; archived: https://web.archive.org/web/20130415035444/http://www.nintendo.co.jp/wii/vc/data/data.tsv
+  - ファイナルファンタジーVI; id RVL-JDAJ; maker スクウェア・エニックス; hardware code 2; Wii Points 900; original release 1994/04/02; delivery start 2011/03/15; the entry has no link to an item page
+
 ## Decisions

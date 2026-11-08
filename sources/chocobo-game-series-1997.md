@@ -1161,6 +1161,11 @@
 - Page URL: https://www.nintendo.com/jp/software/wiiu/index_all.html (the all-results page of Nintendo Japan's Wii U software list; Virtual Console filter vcall, 20 pages of 479 titles) -- dates, platforms -- accessed 2026-11-08 (saved pages read by me); archived: TODO
   - チョコボランド; maker スクウェア・エニックス; release 2016-02-10; platform label GAME BOY ADVANCE; listed on saved page 4 of 20; the row is plain text with no link to an item page
 
+## nintendo.co.jp (Platform; Nintendo Japan Wii Virtual Console catalog data and Wii software lists, captures of 2009 to 2013)
+
+- Page URL: https://www.nintendo.co.jp/wii/softlist/2007_2006.html (Nintendo Japan Wii software of other makers than Nintendo, list page; Wayback capture of 2009-04-05) -- dates -- accessed 2026-11-08; archived: https://web.archive.org/web/20090405070355/http://www.nintendo.co.jp:80/wii/softlist/2007_2006.html
+  - チョコボの不思議なダンジョン 時忘れの迷宮; maker スクウェア・エニックス; genre label ダンジョンRPG; release date listed December 13 (the page covers 2006 and 2007 releases; the entry gives no year); the entry has no link to an item page
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

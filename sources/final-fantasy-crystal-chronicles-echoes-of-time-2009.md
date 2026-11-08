@@ -115,4 +115,9 @@ ja.wikipedia.org (Information)
   - Columns in order: Title; Developer(s); Publisher(s); First released; Release date (NTSC); Release date (PAL)
   - Row: Final Fantasy Crystal Chronicles: Echoes of Time; Square Enix; Square Enix; 2009-01-29JP; 2009-01-29; 2009-03-24; 2009-04-02; 2009-03-27
 
+## nintendo.co.jp (Platform; Nintendo Japan Wii Virtual Console catalog data and Wii software lists, captures of 2009 to 2013)
+
+- Page URL: https://www.nintendo.co.jp/wii/softlist/2009.html (Nintendo Japan Wii software of other makers than Nintendo, list page; Wayback capture of 2009-10-16) -- dates -- accessed 2026-11-08; archived: https://web.archive.org/web/20091016072453/http://www.nintendo.co.jp:80/wii/softlist/2009.html
+  - ファイナルファンタジー・クリスタルクロニクルエコーズ・オブ・タイム; maker スクウェア・エニックス; genre label アクションRPG; release date listed January 29 (list of 2009 January to June releases); link to an item page https://www.nintendo.co.jp/wii/software/rffj/index.html
+
 ## Decisions

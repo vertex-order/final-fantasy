@@ -929,6 +929,11 @@ Page URL by capture: 2016-07-08 https://www.microsoft.com/en-us/store/top-paid/g
 - Page URL: https://www.nintendo.co.jp/software/3ds/index_all.html?sftab=vcall (Virtual Console filter vcall; the list data read from the page's own search results, page 4 of 12) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - ファイナルファンタジー; maker スクウェア・エニックス; release 2013.12.18; type バーチャルコンソール; the entry has no link to an item page
 
+## nintendo.co.jp (Platform; Nintendo Japan Wii Virtual Console catalog data and Wii software lists, captures of 2009 to 2013)
+
+- Page URL: https://www.nintendo.co.jp/wii/vc/data/data.tsv (Wii Virtual Console catalog data file of the Nintendo Japan Wii Virtual Console feature page, Wayback capture of 2013-04-15, 650 titles; maker names from https://www.nintendo.co.jp/wii/vc/data/maker.tsv, capture of 2013-04-15) -- dates, platforms -- accessed 2026-11-08; archived: https://web.archive.org/web/20130415035444/http://www.nintendo.co.jp/wii/vc/data/data.tsv
+  - ファイナルファンタジー; id RVL-FFAJ; maker スクウェア・エニックス; hardware code 1; Wii Points 500; original release 1987/12/18; delivery start 2009/05/26; the entry has no link to an item page
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

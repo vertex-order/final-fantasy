@@ -738,6 +738,11 @@ Page URL by capture: 2016-07-08 https://www.microsoft.com/en-us/store/top-paid/g
 - Page URL: https://www.nintendo.co.jp/software/3ds/index_all.html?sftab=vcall (Virtual Console filter vcall; the list data read from the page's own search results, page 3 of 12) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - ファイナルファンタジーIII; maker スクウェア・エニックス; release 2014.4.23; type バーチャルコンソール; the entry has no link to an item page
 
+## nintendo.co.jp (Platform; Nintendo Japan Wii Virtual Console catalog data and Wii software lists, captures of 2009 to 2013)
+
+- Page URL: https://www.nintendo.co.jp/wii/vc/data/data.tsv (Wii Virtual Console catalog data file of the Nintendo Japan Wii Virtual Console feature page, Wayback capture of 2013-04-15, 650 titles; maker names from https://www.nintendo.co.jp/wii/vc/data/maker.tsv, capture of 2013-04-15) -- dates, platforms -- accessed 2026-11-08; archived: https://web.archive.org/web/20130415035444/http://www.nintendo.co.jp/wii/vc/data/data.tsv
+  - ファイナルファンタジーIII; id RVL-FFFJ; maker スクウェア・エニックス; hardware code 1; Wii Points 500; original release 1990/04/24; delivery start 2009/07/21; the entry has no link to an item page
+
 ## Decisions
 
 - **Not to be listed: the cancelled WonderSwan Color version of Final Fantasy III (user, 2026-11-03):** a Square WonderSwan Color game in the cancelled list, cited to RPGFan's 'WSC FFIII Vanishes, FFI-II Remake In The Works' (2002, http://www.rpgfan.com/news/2002/1717.html, https://web.archive.org/web/20070315205600/http://www.rpgfan.com/news/2002/1717.html); never released, so the WonderSwan Color is not a platform of Final Fantasy III. Only this platform is left out: the game itself released on other platforms and stays listed on them

@@ -679,4 +679,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V_version_differe
 - Page URL: https://www.nintendo.co.jp/software/3ds/index_all.html?sftab=vcall (Virtual Console filter vcall; the list data read from the page's own search results, page 1 of 12) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - ファイナルファンタジーV; maker スクウェア・エニックス; release 2017.8.23; type バーチャルコンソール; the entry has no link to an item page
 
+## nintendo.co.jp (Platform; Nintendo Japan Wii Virtual Console catalog data and Wii software lists, captures of 2009 to 2013)
+
+- Page URL: https://www.nintendo.co.jp/wii/vc/data/data.tsv (Wii Virtual Console catalog data file of the Nintendo Japan Wii Virtual Console feature page, Wayback capture of 2013-04-15, 650 titles; maker names from https://www.nintendo.co.jp/wii/vc/data/maker.tsv, capture of 2013-04-15) -- dates, platforms -- accessed 2026-11-08; archived: https://web.archive.org/web/20130415035444/http://www.nintendo.co.jp/wii/vc/data/data.tsv
+  - ファイナルファンタジーV; id RVL-JC9J; maker スクウェア・エニックス; hardware code 2; Wii Points 900; original release 1992/12/06; delivery start 2011/01/18; the entry has no link to an item page
+
 ## Decisions

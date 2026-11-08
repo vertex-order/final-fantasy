@@ -151,4 +151,9 @@
 - Page URL: https://www.nintendo.com/jp/software/wiiu/index_all.html (the all-results page of Nintendo Japan's Wii U software list; Virtual Console filter vcall, 20 pages of 479 titles) -- dates, platforms -- accessed 2026-11-08 (saved pages read by me); archived: TODO
   - ファイナルファンタジーUSA ミスティッククエスト; maker スクウェア・エニックス; release 2014-04-16; platform label スーパーファミコン; listed on saved page 15 of 20; the row is plain text with no link to an item page
 
+## nintendo.co.jp (Platform; Nintendo Japan Wii Virtual Console catalog data and Wii software lists, captures of 2009 to 2013)
+
+- Page URL: https://www.nintendo.co.jp/wii/vc/data/data.tsv (Wii Virtual Console catalog data file of the Nintendo Japan Wii Virtual Console feature page, Wayback capture of 2013-04-15, 650 titles; maker names from https://www.nintendo.co.jp/wii/vc/data/maker.tsv, capture of 2013-04-15) -- dates, platforms -- accessed 2026-11-08; archived: https://web.archive.org/web/20130415035444/http://www.nintendo.co.jp/wii/vc/data/data.tsv
+  - ファイナルファンタジーUSA ミスティッククエスト; id RVL-JDZJ; maker スクウェア・エニックス; hardware code 2; Wii Points 800; original release 1993/09/10; delivery start 2010/12/21; the entry has no link to an item page
+
 ## Decisions
