@@ -99,6 +99,12 @@
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Xbox One; Ref. References
   - Row: Final Fantasy XI: Seekers of Adoulin; MMORole-playing, Expansion; Square Enix; Square Enix; 2013-Mar-26; 2013-Mar-26; 2013-Mar-26; 2013-Nov-22
 
+## jp.playstation.com (Platform; PlayStation Japan software search, PlayStation2 filter, capture of 2019-05-17)
+
+- Page URL by capture: 2019-05-17 https://www.jp.playstation.com/search-results/software/search.x?platform=PlayStation2&past=nowonsale&future=14&sort=1 (the ソフトウェア検索 results for the PlayStation 2 filter, sorted by sort=1; 4,819 hits, 30 per page; only the first page is archived, so 30 of the 4,819 are readable) -- saved page read by me, in Japanese -- accessed 2026-11-08; archived: https://web.archive.org/web/20190517003832/https://www.jp.playstation.com/search-results/software/search.x?platform=PlayStation2&past=nowonsale&future=14&sort=1
+  - ファイナルファンタジーXI アドゥリンの魔境; genre MMORPG; maker (株)スクウェア・エニックス; platform label PlayStation2; release 2013年3月27日; product code SLPM-55298; JAN 4988601007634; PS Now 非対応; listed on the first page
+    - https://www.jp.playstation.com/software/title/slpm55298.html -- item page link -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

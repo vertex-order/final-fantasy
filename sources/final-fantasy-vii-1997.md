@@ -601,6 +601,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 - Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - FINAL FANTASY VII; id 70010000013196; maker スクウェア・エニックス; type download (HAC_DL); release 2019.3.26; status on sale; listed on saved page 69 of 75; the entry has no link to an item page
 
+## jp.playstation.com (Platform; PlayStation Japan software search, PlayStation filter, capture of 2019-05-17)
+
+- Page URL by capture: 2019-05-17 https://www.jp.playstation.com/search-results/software/search.x?platform=PlayStation&past=nowonsale&future=14&sort=1 (the ソフトウェア検索 results for the PlayStation (PSone) filter, sorted by sort=1; 4,426 hits, 30 per page; only the first page is archived, so 30 of the 4,426 are readable) -- saved page read by me, in Japanese -- accessed 2026-11-08; archived: https://web.archive.org/web/20190517032450/https://www.jp.playstation.com/search-results/software/search.x?platform=PlayStation&past=nowonsale&future=14&sort=1
+  - ULTIMATE HITS ファイナルファンタジーVII インターナショナル; maker (株)スクウェア・エニックス; platform label PS one; release 2006年7月20日; product code SLPM-87380; JAN 4988601004671; PS Now 非対応; listed on the first page
+    - https://www.jp.playstation.com/software/title/slpm87380.html -- item page link -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.
