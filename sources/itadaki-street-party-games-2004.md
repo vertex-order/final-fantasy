@@ -157,6 +157,11 @@ Without Final Fantasy characters (out of scope):
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; PS TV compat. compatibility; Ref. Reference
   - Row: Itadaki Street: Dragon Quest and Final Fantasy 30th Anniversary; Board game; Square Enix; Square Enix; Unreleased; Unreleased; 2017-Oct-19
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Dragon_Quest_%26_Final_Fantasy_in_Itadaki_Street_Portable -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Dragon_Quest_%26_Final_Fantasy_in_Itadaki_Street_Special -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

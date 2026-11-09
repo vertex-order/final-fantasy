@@ -412,4 +412,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
   - CRISIS CORE -FINAL FANTASY VII- REUNION Digital Contents; id 70010000113131; maker スクウェア・エニックス; type download (BEE_DL); release 2026.9.10; status not found; listed on saved page 2 of 6; the entry has no link to an item page
   - CRISIS CORE –FINAL FANTASY VII– REUNION DIGITAL DELUXE EDITION; id 70070000035888; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.9.10; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Crisis_Core:_Final_Fantasy_VII -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

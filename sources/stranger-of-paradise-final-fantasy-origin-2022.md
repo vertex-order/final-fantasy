@@ -313,4 +313,8 @@
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
   - Row: Stranger of Paradise: Final Fantasy Origin; Action role-playing game Action role-playing soulslike; Team Ninja; Square Enix; 2022-Mar-18; 2022-Mar-18; 2022-Mar-18
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

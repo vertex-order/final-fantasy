@@ -436,6 +436,10 @@ Page URL by capture: 2024-05-18 to 2024-06-23 https://marketplace.xbox.com/en-GB
 
 - https://web.archive.org/web/20240623205733/https://marketplace.xbox.com/en-GB/Product/FINAL-FANTASY-XIII-2/66acd000-77fe-1000-9115-d80253510806 -- Final Fantasy XIII-2, tile on list page 3 (tile 34); date on the tile 11/06/2013; 6,760 ratings on the tile; download types on the tile: Games, Game Demos, Game Videos, Game Add-ons, Gamer Pictures -- capture of 2024-06-23, link recorded only; archived: the capture itself
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_XIII-2 -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

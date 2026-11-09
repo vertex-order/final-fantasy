@@ -70,4 +70,8 @@
   - Final Fantasy IV: The Complete Collection (2011) -- type label Bundle; platforms shown: PlayStation Portable; released 2011-03-24
     - https://www.igdb.com/games/final-fantasy-iv-the-complete-collection -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_IV_-Interlude- -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

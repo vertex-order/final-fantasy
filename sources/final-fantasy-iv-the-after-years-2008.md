@@ -110,6 +110,10 @@ www.ff4theafteryears.com (Square Enix, North America promo site)
     - https://www.jp.square-enix.com/game/detail/ff4tay/ -- 商品詳細 link, listed live (2026-10-27) -- link recorded only -- archived: TODO
     - https://www.jp.square-enix.com/ff4tay/jp/ -- 公式サイト link, listed live (2026-10-27) -- link recorded only -- archived: TODO
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_IV:_The_After_Years -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

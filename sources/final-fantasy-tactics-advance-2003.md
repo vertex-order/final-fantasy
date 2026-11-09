@@ -144,4 +144,8 @@
 - Page URL: https://www.nintendo.com/jp/software/wiiu/index_all.html (the all-results page of Nintendo Japan's Wii U software list; Virtual Console filter vcall, 20 pages of 479 titles) -- dates, platforms -- accessed 2026-11-08 (saved pages read by me); archived: TODO
   - ファイナルファンタジータクティクス アドバンス; maker スクウェア・エニックス; release 2016-03-30; platform label GAME BOY ADVANCE; listed on saved page 4 of 20; the row is plain text with no link to an item page
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Tactics_Advance -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

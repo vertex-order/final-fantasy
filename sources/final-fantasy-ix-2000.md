@@ -578,4 +578,8 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://play.google.com/store/apps/details?id=com.square_enix.FFIXww.android_googleplay -- app listed in the developer page captures of 2017-01-07, 2018-02-26, 2019-03-13, 2020-02-03 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20170107053042/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20200203130818/https://play.google.com/store/apps/dev?id=8026010256970589886
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_IX -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

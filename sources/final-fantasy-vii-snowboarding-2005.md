@@ -33,4 +33,8 @@
   - Final Fantasy VII Snowboarding (2005) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2005-04-08
     - https://www.igdb.com/games/final-fantasy-vii-snowboarding -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_VII_Snowboarding -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

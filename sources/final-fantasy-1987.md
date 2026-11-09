@@ -68,6 +68,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Origins
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Origins -- age, dates, platforms, tags, versions -- accessed 2026-09-19
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_I_%26_II:_Dawn_of_Souls -- age, dates, platforms, tags, versions -- accessed 2026-09-19 
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Pixel_Remaster -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
 ## gamefaqs.com (Information)
 

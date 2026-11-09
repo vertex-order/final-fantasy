@@ -370,4 +370,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
 - Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - FINAL FANTASY XII THE ZODIAC AGE; id 70010000009747; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2019.4.25; status on sale; listed on saved page 68 of 75; the entry has no link to an item page
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_XII -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

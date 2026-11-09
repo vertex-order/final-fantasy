@@ -383,4 +383,8 @@ Page URL by capture: 2024-05-18 to 2024-06-23 https://marketplace.xbox.com/en-GB
 
 - https://web.archive.org/web/20240623205726/https://marketplace.xbox.com/en-GB/Product/LIGHTNING-RETURNS-FFXIII/66acd000-77fe-1000-9115-d8025351081b -- listed as "LIGHTNING RETURNS FFXIII", tile on list page 2 (tile 78); date on the tile 14/02/2014; 1,707 ratings on the tile; download types on the tile: Games, Game Demos, Game Videos, Game Add-ons, Avatar Items -- capture of 2024-06-23, link recorded only; archived: the capture itself
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Lightning_Returns:_Final_Fantasy_XIII -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

@@ -119,4 +119,8 @@
 - http://www.nintendo.co.jp/wii/wiiware/wf2j/ -- Nintendo Japan's WiiWare detail page; Page URL by capture: 2009-06-30 http://www.nintendo.co.jp/wii/wiiware/wf2j/index.html -- capture https://web.archive.org/web/20090630084143/http://www.nintendo.co.jp/wii/wiiware/wf2j/index.html (the earliest status-200 capture, raw HTML read by me, Shift_JIS) -- dates, platforms -- accessed 2026-11-08
   - Title 光と闇の姫君と世界征服の塔 ファイナルファンタジー・クリスタルクロニクル; maker スクウェア・エニックス; 配信開始日 2009-06-30 (the capture's own day); Wii points 1,000; blurb: a "world conquest RPG" where the player is the Dark Lord's daughter and places traps (artifact floors) and monsters in a tower to protect the Dark Crystal from invading adventurers; new monsters and floors are bought through the paid Nintendo Wi-Fi Connection service
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_Darklord -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

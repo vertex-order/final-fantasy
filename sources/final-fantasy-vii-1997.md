@@ -633,6 +633,10 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVII -- app listed in the developer page captures of 2017-01-07, 2018-02-26, 2020-02-03, 2024-02-02, 2025-01-17, 2026-01-05 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20170107053042/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20260105211845/https://play.google.com/store/apps/dev?id=8026010256970589886
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_VII -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

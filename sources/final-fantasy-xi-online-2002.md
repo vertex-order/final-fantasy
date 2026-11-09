@@ -296,4 +296,8 @@
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Xbox One; Ref. References
   - Row: Final Fantasy XI; MMORole-playing; Square Enix; Square Enix; 2006-Apr-16; 2006-Apr-21; 2006-Apr-20; 2013-Nov-22
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_XI -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

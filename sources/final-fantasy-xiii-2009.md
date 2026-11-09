@@ -461,4 +461,8 @@ Page URL by capture: 2024-05-18 to 2024-06-23 https://marketplace.xbox.com/en-GB
 
 - https://web.archive.org/web/20240623164151/https://marketplace.xbox.com/en-gb/Product/FINAL-FANTASY-XIII/66acd000-77fe-1000-9115-d802535107e4 -- Final Fantasy XIII, tile on list page 1 (tile 52); date on the tile 12/11/2018; 17,646 ratings on the tile; download types on the tile: Games, Game Videos, Avatar Items; which release the product is not read -- capture of 2024-06-23, link recorded only; archived: the capture itself
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_XIII -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

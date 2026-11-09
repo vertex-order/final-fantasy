@@ -51,6 +51,10 @@ ja.wikipedia.org (Information)
     - http://store.jp.square-enix.com/item/NTR_P_CFIJ.html -- e-STOREで購入 link, listed 2019-06-26 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/http://store.jp.square-enix.com/item/NTR_P_CFIJ.html
     - https://www.jp.square-enix.com/game/detail/ffcc_eot/ -- 商品詳細 link, listed 2019-06-26 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20190626224307/https://www.jp.square-enix.com/game/detail/ffcc_eot/ (last listing: https://web.archive.org/web/20250830120859/https://www.jp.square-enix.com/game/detail/ffcc_eot/)
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 - [FFCC Echoes of Time 公式コンプリートガイド](https://magazine.jp.square-enix.com/gamebooks/books/10018) — Square Enix Game Books page for the official guide; released 2009年02月26日, A5判, 432 pages, ISBN 9784757525061; also on the comics site as https://magazine.jp.square-enix.com/top/comics/detail/9784757525061/ (the DS and Wii versions both covered; the blurb mentions developer interviews and setting art) — accessed 2026-10-11

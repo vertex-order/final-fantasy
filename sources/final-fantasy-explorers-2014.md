@@ -221,4 +221,8 @@
 - Page URL: https://www.nintendo.co.jp/software/3ds/index_all.html (the all-results page, without Virtual Console titles; the list data read from the page's own search results, page 29 of 66) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - FINAL FANTASY EXPLORERS Light; maker スクウェア・エニックス; release 2014.11.14; type ダウンロードソフト; the entry has no link to an item page
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Explorers -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

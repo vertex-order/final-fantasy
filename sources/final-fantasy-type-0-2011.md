@@ -56,6 +56,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0_version_di
     - game-mechanics content, outside our scope
     - its Links section names only https://www.square-enix.com/
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Type-0 -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 - NDL: ファイナルファンタジー零式アルティマニア (SE-mook, Studio BentStuff, 2011.11, 847p, ISBN 9784757534322) -- http://id.ndl.go.jp/bib/023165232 -- empty: guide book, out of scope per docs/data.md -- accessed 2026-10-10

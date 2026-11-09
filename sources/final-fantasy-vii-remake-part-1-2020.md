@@ -412,4 +412,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake_versio
   - FINAL FANTASY VII REMAKE INTERGRADE; id 70010000096733-2; maker スクウェア・エニックス; type package (BEE_CARD); release 2026.1.22; status not found; listed on saved page 5 of 6; the entry has no link to an item page
   - FINAL FANTASY VII REMAKE INTERGRADE Digital Deluxe Edition; id 70070000030728; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.2.1; status on sale; listed on saved page 4 of 6; the entry has no link to an item page
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_VII_Remake -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Final_Fantasy_VII_Remake_Intergrade -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

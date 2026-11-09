@@ -161,4 +161,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)_v
   - Member: Dissidia 012 Final Fantasy
   - The category names no PlayStation model or store (PS1 classic, PS3, PSP, Vita)
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Dissidia_Final_Fantasy -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Dissidia_012_Final_Fantasy -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

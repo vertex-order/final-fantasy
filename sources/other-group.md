@@ -3,6 +3,10 @@
 # Other titles
 <!-- site/data/group-Other.js, #group-Other -->
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Chocobo_Racing_3D -- listed in Category:Canceled games (under Category:Games) -- page not read -- accessed 2026-11-08
+
 ## Decisions
 
 - Not listed (user, 2026-11-08): books from the Final Fantasy Wiki's Square Enix Magazine & Book page (https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book, accessed 2026-11-08) that are guidebooks, previews, artbooks, catalogues, magazines or development books, not entertaining on their own (docs/data.md, "What belongs on a list")
@@ -24,3 +28,7 @@
   - Evidence: https://en.wikipedia.org/wiki/List_of_WonderSwan_Color_games (revision 1351986427 of 2026-05-01; Cancelled games section); details in sources/chocobo-game-series-1997.md
 - **Not to be listed: the cancelled WonderSwan Color version of Dice de Chocobo (user, 2026-11-03):** a Square WonderSwan Color remake of the PlayStation game, in the cancelled list; never released, so the WonderSwan Color is not a platform of Dice de Chocobo. Only this platform is left out: the game itself released on other platforms and stays listed on them
   - Evidence: https://en.wikipedia.org/wiki/List_of_WonderSwan_Color_games (revision 1351986427 of 2026-05-01; Cancelled games section); details in sources/chocobo-game-series-1997.md
+- **Not to be listed: Mario Hoops 3-on-3 and the Super Smash Bros. games (user, 2026-11-08):** Mario and Nintendo games with Final Fantasy characters as guests; they are not Final Fantasy games and are out of scope
+  - Mario Hoops 3-on-3 (Nintendo DS, 2006; developed by Square Enix): five unlockable Final Fantasy characters (Black Mage, White Mage, Moogle, Ninja, Cactuar)
+  - Super Smash Bros. for Nintendo 3DS and for Wii U (2014): Cloud as a downloadable fighter and a Midgar stage; Ultimate (Nintendo Switch, 2018) carries both on
+  - Evidence: https://finalfantasywiki.com/wiki/Mario_Hoops_3-on-3, https://finalfantasywiki.com/wiki/Super_Smash_Bros._for_Nintendo_3DS, https://finalfantasywiki.com/wiki/Super_Smash_Bros._for_Wii_U, https://finalfantasywiki.com/wiki/Super_Smash_Bros._Ultimate (Category:Crossover games; accessed 2026-11-08)

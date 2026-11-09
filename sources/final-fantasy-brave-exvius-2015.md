@@ -257,6 +257,10 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW -- app listed in the developer page captures of 2017-01-07, 2018-02-26, 2019-03-13, 2021-02-09, 2022-01-13, 2024-02-02 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20170107053042/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20240202214202/https://play.google.com/store/apps/dev?id=8026010256970589886
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Brave_Exvius -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions
 - Brave Exvius Memorial Version not listed (user, 2026-10-20): the Japanese offline app released after the service ended is an archive and viewer (story, encyclopedias, galleries), not content, so the entry gets no Japanese or Memorial rows; same decision as the Libra Eorzea app (see final-fantasy-franchise.md Decisions)
 - Terminated platform rows link Wayback captures of their store pages

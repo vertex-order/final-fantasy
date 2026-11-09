@@ -156,4 +156,8 @@
 - Page URL: https://www.nintendo.co.jp/wii/vc/data/data.tsv (Wii Virtual Console catalog data file of the Nintendo Japan Wii Virtual Console feature page, Wayback capture of 2013-04-15, 650 titles; maker names from https://www.nintendo.co.jp/wii/vc/data/maker.tsv, capture of 2013-04-15) -- dates, platforms -- accessed 2026-11-08; archived: https://web.archive.org/web/20130415035444/http://www.nintendo.co.jp/wii/vc/data/data.tsv
   - ファイナルファンタジーUSA ミスティッククエスト; id RVL-JDZJ; maker スクウェア・エニックス; hardware code 2; Wii Points 800; original release 1993/09/10; delivery start 2010/12/21; the entry has no link to an item page
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Mystic_Quest -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

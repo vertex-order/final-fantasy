@@ -339,4 +339,8 @@
 - Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - ワールド オブ ファイナルファンタジー マキシマ; id 70010000013096; maker スクウェア・エニックス; type download (HAC_DL); release 2018.11.6; status on sale; listed on saved page 71 of 75; the entry has no link to an item page
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/World_of_Final_Fantasy -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

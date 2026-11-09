@@ -671,6 +671,17 @@
       - Other titles (7, sources/other-group.md): Dragon Quest & Final Fantasy in Itadaki Street Special Official Perfect Guide (2005-01-21, 9784757513501); Dragon Quest & Final Fantasy in Itadaki Street Portable Official Perfect Guide (2006-06-23, 9784757517141); Final Fantasy Fables: Chocobo's Dungeon Official Complete Guide (2008-01-31, 9784757522077); Final Fantasy Fables: Cid & Chocobo's Dungeon DS+ Official Complete Guide (2008-11-13, 9784757524248); Final Fantasy: The 4 Heroes of Light Official Complete Guide (2009-11-26, 9784757527140); Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary Marugoto Itadaki! Official Complete Guide (2017-10-19, 9784757554986); Mobius Final Fantasy First Anniversary Collections (2016-10-18, 9784757551442)
       - World (1, sources/wd-group.md): World of Final Fantasy Official Complete Guide (2016-11-24, 9784757551787)
 
+## finalfantasywiki.com (Information; Final Fantasy Wiki, Category:Games tree)
+
+- https://finalfantasywiki.com/wiki/Category:Games -- the Final Fantasy Wiki's (finalfantasywiki.com, not Fandom) Category:Games and its subcategories, visited and audited -- accessed 2026-11-08 (read through https://finalfantasywiki.com/w/api.php); archived: TODO
+  - Tree: 103 subcategories and 110 pages directly under it; 440 categories and 1,241 distinct pages in all
+  - Most subcategories hold one game's assets or reference pages (images, artwork, sprites, screenshots, characters, enemies, bosses, items, spells, locations, classes, maps); only game pages were taken from them
+  - Game-holding subcategories read: platform categories, Japan only games, Compilations, Reissues, Spinoffs, Crossover games, Canceled games, Chocobo series, and the per-game categories
+  - Canceled games lists two pages: Chocobo Racing 3D (https://finalfantasywiki.com/wiki/Chocobo_Racing_3D) and Fortress (https://finalfantasywiki.com/wiki/Fortress)
+  - Crossover games lists Mario Hoops 3-on-3, Super Smash Bros. for Nintendo 3DS, for Wii U and Ultimate beside the two Itadaki Street titles
+  - Not game pages: Ivalice Alliance (a series article), List of games, Reissue, the Gallery: pages, templates, soundtrack and character pages
+  - Each page's URL is in its game's own sources file, as listed in the category and not read
+
 ## ultimatepopculture.fandom.com (Information)
 
 - https://breezewiki.com/ultimatepopculture/wiki/List_of_Final_Fantasy_video_games -- games, platforms, dates -- accessed 2026-10-24 (page text saved by user; proxied from https://ultimatepopculture.fandom.com/wiki/List_of_Final_Fantasy_video_games)
@@ -1384,6 +1395,10 @@ Also recorded in the group files named in each item:
   - Evidence: https://en.wikipedia.org/wiki/List_of_cancelled_Nintendo_64_games (revision 1383021177 of 2026-10-31; Final Fantasy VII row); https://en.wikipedia.org/wiki/List_of_cancelled_Super_NES_games (revision 1383237431 of 2026-11-01; Final Fantasy VII row); details in sources/final-fantasy-vii-1997.md
 - **Not to be listed: the cancelled Nintendo Switch version of Final Fantasy XV (user, 2026-11-03):** director Hajime Tabata said Square Enix tried to run the game on the Switch in 2017 and could not get it performing well enough (IGN, 2017-09-04, https://www.ign.com/articles/2017/09/04/square-enix-tried-running-final-fantasy-xvs-engine-on-switch-it-didnt-work-well-enough); never released; the Switch has Final Fantasy XV: Pocket Edition (2018) instead, which is its own release, not this port. Only the Switch version of the main game is left out: Final Fantasy XV itself stays listed on its released platforms
   - Evidence: https://en.wikipedia.org/wiki/List_of_cancelled_Nintendo_Switch_games (revision 1378713677 of 2026-10-05; Final Fantasy XV row); details in sources/final-fantasy-xv-2016.md
+- **Not to be listed: Mario Hoops 3-on-3 and the Super Smash Bros. games (user, 2026-11-08):** Mario and Nintendo games with Final Fantasy characters as guests; they are not Final Fantasy games and are out of scope
+  - Mario Hoops 3-on-3 (Nintendo DS, 2006; developed by Square Enix): five unlockable Final Fantasy characters (Black Mage, White Mage, Moogle, Ninja, Cactuar)
+  - Super Smash Bros. for Nintendo 3DS and for Wii U (2014): Cloud as a downloadable fighter and a Midgar stage; Ultimate (Nintendo Switch, 2018) carries both on
+  - Evidence: https://finalfantasywiki.com/wiki/Mario_Hoops_3-on-3, https://finalfantasywiki.com/wiki/Super_Smash_Bros._for_Nintendo_3DS, https://finalfantasywiki.com/wiki/Super_Smash_Bros._for_Wii_U, https://finalfantasywiki.com/wiki/Super_Smash_Bros._Ultimate (Category:Crossover games; accessed 2026-11-08); details in sources/other-group.md
 
 Franchise file only:
 

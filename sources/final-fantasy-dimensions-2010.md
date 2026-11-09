@@ -180,4 +180,8 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY LEGENDS 光と闇の戦士" -- accessed 2026-11-08 -- link recorded only; archived: TODO
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Dimensions -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

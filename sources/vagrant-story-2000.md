@@ -135,4 +135,8 @@
   - Member: Vagrant Story
   - The category names no PlayStation model or store (PS1 classic, PS3, PSP, Vita)
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Vagrant_Story -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

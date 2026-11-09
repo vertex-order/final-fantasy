@@ -104,4 +104,8 @@
 - http://www.nintendo.co.jp/wii/wiiware/wfcj/ -- Nintendo Japan's WiiWare detail page; Page URL by capture: 2008-03-14 http://www.nintendo.co.jp/wii/wiiware/wfcj/index.html -- capture https://web.archive.org/web/20080314141835/http://www.nintendo.co.jp/wii/wiiware/wfcj/index.html (the earliest status-200 capture, raw HTML read by me, Shift_JIS) -- dates, platforms -- accessed 2026-11-08
   - Title 小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル; maker スクウェア・エニックス; 配信開始日 (distribution start) 2008-03-25, the capture of 2008-03-14 is 11 days before it; Wii points 1,500; genre 国造りRPG; 1 player; controllers Wii Remote, Nunchuk, Classic Controller, GameCube Controller; five screenshots; blurb: the Crystal Chronicles series comes to WiiWare, the player is the little king who reaches a frontier land after a long journey and uses the crystal's architect power to build houses and weapon shops and grow a kingdom; (C) 2008 SQUARE ENIX
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

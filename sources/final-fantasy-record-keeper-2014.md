@@ -179,4 +179,8 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=561407
 - https://play.google.com/store/apps/details?id=jp.mbga.a12019103.lite -- app page linked from the developer page, shown as "FINAL FANTASY Record Keeper" -- accessed 2026-11-08 -- link recorded only; archived: TODO
   - The page lists 15 apps; this is the only Final Fantasy one (the rest include Mobage, 逆転オセロニア, Pokémon Masters EX, メギド７２)
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Record_Keeper -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

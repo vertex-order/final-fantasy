@@ -304,4 +304,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_versi
   - FINAL FANTASY VII REBIRTH Digital Deluxe Edition Upgrade; id 70070000032072; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.6.3; status on sale; listed on saved page 3 of 6; the entry has no link to an item page
   - FINAL FANTASY VII REBIRTH Digital Deluxe Edition; id 70070000032073; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.6.3; status on sale; listed on saved page 3 of 6; the entry has no link to an item page
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_VII_Rebirth -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

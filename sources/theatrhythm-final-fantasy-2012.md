@@ -153,4 +153,8 @@
 - Page URL: https://www.nintendo.co.jp/software/3ds/index_all.html (the all-results page, without Virtual Console titles; the list data read from the page's own search results, page 60 of 66) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - THEATRHYTHM FINAL FANTASY; maker スクウェア・エニックス; release 2012.2.16; type パッケージ版; the entry has no link to an item page
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Theatrhythm_Final_Fantasy -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

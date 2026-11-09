@@ -376,4 +376,11 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.SagaCollection_Sjp -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it -- accessed 2026-11-08 -- link recorded only; archived: TODO
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/The_Final_Fantasy_Legend -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Legend_II -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Legend_III -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Collection_of_SaGa_Final_Fantasy_Legend -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

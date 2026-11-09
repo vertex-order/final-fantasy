@@ -86,4 +86,8 @@
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy VII G-Bike
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_VII_G-Bike -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

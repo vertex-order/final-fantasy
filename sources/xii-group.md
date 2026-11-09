@@ -8,6 +8,10 @@
 
 - https://wikipedia.org/wiki/Ivalice -- media*, story -- accessed 2026-09-22
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Fortress -- listed in Category:Canceled games (under Category:Games) -- page not read -- accessed 2026-11-08
+
 ## Decisions
 
 - **Not to be listed: Fortress (user, 2026-11-03):** the whole game is left out, not a platform. The codename of a planned Xbox 360 spin-off, a sequel to the events of Final Fantasy XII, by Grin for Square Enix; production began in 2009, Square Enix withheld milestone payments over the art style, and Grin shut down six months in; never released

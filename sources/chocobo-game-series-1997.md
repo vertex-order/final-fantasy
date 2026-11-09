@@ -1173,6 +1173,20 @@
   - チョコボGP; id 3986; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2022.3.10; status not found; listed on saved page 63 of 75; item page https://topics.nintendo.co.jp/article/91c2f908-d5ac-4591-a39d-dad8e10b6905
   - チョコボの不思議なダンジョン エブリバディ！; id 70010000013438; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2019.3.20; status on sale; listed on saved page 69 of 75; the entry has no link to an item page
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Chocobo_GP -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Chocobo_Racing -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Chocobo_Racing_3D -- listed in Category:Games > Nintendo 3DS games; Chocobo series; Canceled games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Chocobo_Stallion -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Chocobo_no_Fushigina_Dungeon -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Chocobo's_Dungeon_2 -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Chocobo's_Mystery_Dungeon:_Every_Buddy! -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Dice_de_Chocobo -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Hataraku_Chocobo -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Fables:_Chocobo_Tales -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Fables:_Chocobo's_Dungeon -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

@@ -40,6 +40,10 @@ Square Enix (Publisher, Developer)
     - http://www.crystalbearers.jp/ -- 公式サイト link (the title links here too), listed 2013-06-26 to 2017-12-01 -- link recorded only -- archived: https://web.archive.org/web/20130626122610/http://www.crystalbearers.jp/ (last listing: https://web.archive.org/web/20171201221325/http://www.crystalbearers.jp/)
     - https://www.jp.square-enix.com/game/detail/ffcc_tcb/ -- 商品詳細 link, listed live (2026-10-27) -- link recorded only -- archived: TODO
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 - [FFCC Crystal Bearers 公式コンプリートガイド 世界丸ごとロックオン！](https://magazine.jp.square-enix.com/gamebooks/books/10019) — Square Enix Game Books page for the official guide; title seen in the series listing; details not read — accessed 2026-10-11 — not used: a strategy guide is not a source for the game's fields — empty

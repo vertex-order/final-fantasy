@@ -85,4 +85,8 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://play.google.com/store/apps/details?id=com.square_enix.ffportal_w.googleplay -- app listed in the developer page captures of 2025-01-17, 2026-01-05 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20250117023522/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20260105211845/https://play.google.com/store/apps/dev?id=8026010256970589886
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Portal_App -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

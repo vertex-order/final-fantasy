@@ -709,4 +709,12 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR5 -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY V" -- accessed 2026-11-08 -- link recorded only; archived: TODO
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_V -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Final_Fantasy_V_Advance -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Pixel_Remaster -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Anthology -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Collection -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

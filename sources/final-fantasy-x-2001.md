@@ -527,4 +527,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
   - FINAL FANTASY X/X-2 HD Remaster; id 70010000113867; maker スクウェア・エニックス; type download (BEE_DL); release 2026.7.23; status on sale; listed on saved page 3 of 6; the entry has no link to an item page
   - FINAL FANTASY X/X-2 HD Remaster; id 70010000113867-2; maker スクウェア・エニックス; type package (BEE_CARD); release 2026.8.27; status not found; listed on saved page 3 of 6; the entry has no link to an item page
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_X -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

@@ -35,6 +35,10 @@
   - Final Fantasy VIII's page (the 2013 Remaster); interface languages: English, French, Italian, German, Spanish - Spain (no full audio or subtitles listed)
   - The minigame's languages are taken to match the game's, because it is packaged with it
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Chocobo_World -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 Tags: `used` · `dup` · `mine` · `empty` · `shallow`

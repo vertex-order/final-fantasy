@@ -808,6 +808,14 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR2 -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY II" -- accessed 2026-11-08 -- link recorded only; archived: TODO
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_II -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Final_Fantasy_I%E2%88%99II -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Origins -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Final_Fantasy_I_%26_II:_Dawn_of_Souls -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Pixel_Remaster -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

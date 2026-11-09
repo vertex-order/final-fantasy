@@ -81,4 +81,8 @@
 - https://en.wikipedia.org/wiki/List_of_Nintendo_DS_games_(D%E2%80%93I) -- dates, platforms -- accessed 2026-11-03 (revision 1380441952 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Final Fantasy XII: Revenant Wings; Developer(s): Square Enix Think & Feel; Publisher(s): Square Enix; First released: JP 2007-04-26; JP: Y; NA: Y; EU: Y; AU: Y
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_XII:_Revenant_Wings -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

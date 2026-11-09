@@ -311,4 +311,8 @@
   - FINAL FANTASY VII REVELATION Premium Plus Edition; id 70070000038093; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2027.4.7; status pre-order; listed on saved page 1 of 6; the entry has no link to an item page
   - FINAL FANTASY VII REVELATION Premium Edition; id 70070000038094; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2027.4.7; status pre-order; listed on saved page 1 of 6; the entry has no link to an item page
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_VII_Revelation -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

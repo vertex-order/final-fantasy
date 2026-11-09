@@ -286,4 +286,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XVI_version_diffe
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
   - Row: Final Fantasy XVI; Action role-playing; Square Enix Creative Business Unit III; Square Enix; 2025-Jun-08; 2025-Jun-08; 2025-Jun-08
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_XVI -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

@@ -128,4 +128,8 @@
   - Category of Mobile games: 117 pages, 9 subcategories
   - Member: Before Crisis: Final Fantasy VII
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Before_Crisis:_Final_Fantasy_VII -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

@@ -513,4 +513,8 @@
   - ファイナルファンタジーXIV - コンプリートパック; id 70070000033649; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.8.4; status on sale; listed on saved page 6 of 6; the entry has no link to an item page
   - ファイナルファンタジーXIV - コンプリートパック コレクターズ・エディション; id 70070000033650; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.8.4; status on sale; listed on saved page 6 of 6; the entry has no link to an item page
 
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_XIV:_A_Realm_Reborn -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions
