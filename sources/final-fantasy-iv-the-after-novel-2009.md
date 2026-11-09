@@ -53,4 +53,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Resolved 2026-10-14: length 295 pages (NDL, Amazon and Google Books agree; the publisher's 288 + 8 colour pages is consistent); `helpWanted` removed -- mine
 - The Goodreads page has a single 5.00 rating, so the entry stays NYR -- mine
 
+## ja.wikipedia.org (Information; ファイナルファンタジーIV article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIV#関連商品 -- 小説『ファイナルファンタジーIV THE AFTER-月の帰還-』 (GAME NOVELS): ISBN 978-4-7575-2536-8, 2009-03-26; story 時田貴司, text 手塚一郎, illustrations オグロアキラ -- accessed 2026-11-09 (revision 111593793 of 2026-10-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

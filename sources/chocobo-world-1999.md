@@ -62,4 +62,19 @@ Tags: `used` · `dup` · `mine` · `empty` · `shallow`
   - Final Fantasy VIII (1999) -- no card of its own on the saved pages; the parent of Chocobo World (1999)
     - https://www.igdb.com/games/final-fantasy-viii -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
+## japan.ea.com (Information; Windows port distribution page linked from the Final Fantasy VIII article)
+
+- https://web.archive.org/web/20130627192031/http://www.japan.ea.com/archive/ff8/download.html -- the download page of the Windows port of おでかけチョコボRPG (Chocobo World), Wayback capture of 2013-06-27; linked from ja.wikipedia's ファイナルファンタジーVIII 外部リンク (revision 111072262 of 2026-09-19; wikitext read through the MediaWiki API) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Chocobo_World#External_links -- one link -- accessed 2026-11-09 (revision 20442 of 2026-10-13; wikitext read through the MediaWiki API)
+  - http://web.archive.org/web/20000512005737/http://www.japan.ea.com/archive/ff8/download.html -- Download Chocobo World from EA Japan, Wayback capture of 2000-05-12 (the same download page as the 2013 capture recorded above) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Chocobo_World#External_links -- one link -- accessed 2026-11-09 (revision 4067114 of 2026-10-29; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Chocobo_World#External_links
+  - http://www.mediafire.com/?9i9wol26l4hod -- Chocobo World PC 211 ID Download (a MediaFire file link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

@@ -5,6 +5,11 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
+## Base game
+
+- This expansion expands [final-fantasy-xiv-a-realm-reborn-2013.md](final-fantasy-xiv-a-realm-reborn-2013.md). The base game's file holds the languages, platforms, official sites and links that apply to the whole game; this file records only what is specific to the expansion or also applies to it, and repeats a link or fact only when it is really important (user, 2026-11-09)
+- Languages and platforms match the base game unless noted. Platforms changed over the years (for example the PlayStation 3 stopped receiving new expansions); each exception is recorded in the entry's platform rows.
+
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series -- dates* -- accessed 2026-09-22
@@ -37,6 +42,15 @@
   - ファイナルファンタジーXIV: 白銀のワンダラー コレクターズエディション; id 70070000041239; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.11.4; status on sale; listed on saved page 6 of 6; the entry has no link to an item page
   - ファイナルファンタジーXIV: 白銀のワンダラー; id 70050000082506; maker スクウェア・エニックス; type add-on content (DLC); release 2027.2.19; status unreleased; listed on saved page 1 of 6; the entry has no link to an item page
   - ファイナルファンタジーXIV: 白銀のワンダラー コレクターズエディション; id 70050000082508; maker スクウェア・エニックス; type add-on content (DLC); release 2027.2.19; status unreleased; listed on saved page 1 of 6; the entry has no link to an item page
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV:_Evercold#External_links -- 4 links -- accessed 2026-11-09 (revision 4070215 of 2026-11-07; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Evercold#External_links
+  - https://jp.finalfantasyxiv.com/evercold/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://na.finalfantasyxiv.com/evercold/ -- Official English (NA) site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://eu.finalfantasyxiv.com/evercold/ -- Official English (EU) site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-XIV-Evercold -- Final Fantasy XIV: Evercold -- link recorded only -- accessed 2026-11-09; archived: TODO
 
 ## Decisions
 

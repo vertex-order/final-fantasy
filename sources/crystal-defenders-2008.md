@@ -468,6 +468,32 @@ Page URL by capture: 2024-05-18 https://web.archive.org/web/20240518093834/https
 - http://www.nintendo.co.jp/wii/wiiware/wc2j/ -- Nintendo Japan's WiiWare detail page; Page URL by capture: 2009-02-24 http://www.nintendo.co.jp/wii/wiiware/wc2j/index.html -- capture https://web.archive.org/web/20090224175931/http://www.nintendo.co.jp/wii/wiiware/wc2j/index.html (the earliest status-200 capture, raw HTML read by me, Shift_JIS) -- dates, platforms -- accessed 2026-11-08
   - Title クリスタル・ディフェンダーズR2; maker スクウェア・エニックス; 配信開始日 2009-02-24 (the capture's own day); Wii points 1000; genre ディフェンス・シミュレーション; 1 player; controller Wii Remote; Nintendo Wi-Fi Connection supported; (C) 2009 SQUARE ENIX
 
+## en.wikipedia.org (Information; Crystal Defenders article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Crystal_Defenders#External_links -- 4 links -- accessed 2026-11-09 (revision 1349441356 of 2026-04-17; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/mobile/ff/cg/ -- Official Crystal Guardians website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.crystaldefenders.jp/ -- Official Crystal Defenders website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.jp.square-enix.com/cdplus/ -- Official Crystal Defenders Plus website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.cd-vanguardstorm.com/ -- Official Crystal Defenders: Vanguard Storm website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; クリスタル ガーディアンズ article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/クリスタル_ガーディアンズ#外部リンク -- 4 links -- accessed 2026-11-09 (revision 110366430 of 2026-07-22; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/mobile/ff/cg/ -- CRYSTAL GUARDIANS - クリスタル ガーディアンズ -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.crystaldefenders.jp/ -- CRYSTAL DEFENDERS -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.crystaldefenders.jp/jp/wii/ -- Wiiウェア版 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.cd-vanguardstorm.com/ -- CRYSTAL DEFENDERS Vanguard Storm -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Crystal_Defenders#External_links -- 5 links -- accessed 2026-11-09 (revision 3988402 of 2026-02-03; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Crystal_Defenders#External_links
+  - https://www.jp.square-enix.com/crystaldefenders/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/crystaldefenders/ -- Official Japanese game detail page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://store.playstation.com/#!/en-us/games/crystal-defenders/cid=UP0082-NPUB30092_00-CD00000000000000?smcid=pdc:shop-now:games:ps-playstation-store -- PS3 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://store.playstation.com/#!/en-us/games/crystal-defenders-psp/cid=UP0082-NPUH10026_00-CD00000000000000 -- PSP -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.xbox.com/en-US/games/store/crystal-defenders/BVCHVG7HM8LG/0001 -- Xbox Marketplace -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it

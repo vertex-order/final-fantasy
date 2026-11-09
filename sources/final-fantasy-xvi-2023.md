@@ -294,4 +294,40 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XVI_version_diffe
 
 - https://strategywiki.org/wiki/Final_Fantasy_XVI -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy XVI article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_XVI#External_links -- 3 links -- accessed 2026-11-09 (revision 1384325031 of 2026-11-07; wikitext read through the MediaWiki API)
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_XVI -- Wikimedia Commons sister-project link (template commons category) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.finalfantasyxvi.com -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.imdb.com/title/tt13103328/ -- IMDb title page (template imdb title) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーXVI article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXVI#外部リンク -- 6 links -- accessed 2026-11-09 (revision 111433049 of 2026-10-18; wikitext read through the MediaWiki API)
+  - https://jp.finalfantasyxvi.com/ -- ファイナルファンタジーXVI -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/FF16_JP -- Twitter account FF16_JP (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) template not resolved: {{Facebook|finalfantasyxvi}} -- accessed 2026-11-09
+  - (no URL) template not resolved: {{Instagram|finalfantasyxvi}} -- accessed 2026-11-09
+  - https://www.youtube.com/channel/UCbjnLRVY5t_zhDgcSJFkv-g -- YouTube channel (template YouTube|c=UCbjnLRVY5t_zhDgcSJFkv-g) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XVI#External_links -- 15 links -- accessed 2026-11-09 (revision 4035955 of 2026-08-24; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XVI#External_links
+  - https://jp.finalfantasyxvi.com/ -- Official site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://na.finalfantasyxvi.com/ -- Official site (US English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://uk.finalfantasyxvi.com/ -- Official site (UK English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-XVI -- Final Fantasy XVI -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://jp.finalfantasy.com/titles/finalfantasy16 -- Final Fantasy XVI -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://na.finalfantasy.com/titles/finalfantasy16 -- Final Fantasy XVI -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://eu.finalfantasy.com/titles/finalfantasy16 -- Final Fantasy XVI -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/recruit/career/title/ff16/ -- Recruitment page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FF16_JP -- Official Twitter account (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/finalfantasyxvi -- Official Twitter account (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/finalfantasyxvi/ -- Official Facebook page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.instagram.com/finalfantasyxvi/ -- Official Instagram account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.threads.com/@finalfantasyxvi -- Official Threads account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_XVI -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/204724/final-fantasy-xvi/ -- Final Fantasy XVI -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

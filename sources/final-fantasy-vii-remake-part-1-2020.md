@@ -422,4 +422,43 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake_versio
 - https://strategywiki.org/wiki/Final_Fantasy_VII_Remake -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Final_Fantasy_VII_Remake_Intergrade -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## twitter.com (Information; official account linked from the Crisis Core article)
+
+- https://twitter.com/ffviir_cloud -- the Twitter account "FFVII REMAKE" (template Twitter|ffviir_cloud); linked from ja.wikipedia's クライシス コア ファイナルファンタジーVII 外部リンク (revision 110965997 of 2026-09-10) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Remake#External_links -- five links -- accessed 2026-11-09 (revision 4063620 of 2026-10-22; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake#External_links
+  - https://www.jp.square-enix.com/ffvii_remake/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://ffvii-remake.square-enix-games.com/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-VII-REMAKE -- Square Enix North America Press Hub -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake -- English Wikipedia article -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/141485/final-fantasy-vii-remake/ -- MobyGames entry -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy VII Remake article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake#External_links -- three links and two sister-project templates -- accessed 2026-11-09 (revision 1384325014 of 2026-11-07; wikitext read through the MediaWiki API)
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_VII_Remake -- Wikimedia Commons category sister-project link (template Commons category, default page name) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikiquote.org/wiki/Final_Fantasy_VII_Remake -- Wikiquote sister-project link (template Wikiquote, default page name) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://ffvii-remake.square-enix-games.com/ -- Official website (template Official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://ffvii-remake-intergrade.square-enix-games.com -- Intergrade website (template Official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.imdb.com/title/tt6057416/ -- IMDb title page (template IMDb title, id 6057416) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーVII リメイク article, 外部リンク and 関連項目 sections, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVII_リメイク#外部リンク -- seven links -- accessed 2026-11-09 (revision 111573381 of 2026-10-30; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/ffvii_remake/ -- ファイナルファンタジーVII リメイクシリーズ ポータル (Square Enix official site) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffviir_ig/ -- ファイナルファンタジーVII リメイク インターグレード -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/FFVIIR_CLOUD -- Twitter account FFVIIR_CLOUD, the FF7 Remake project official account (template Twitter; the same account as ffviir_cloud above) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UC9pDhoY5rwqRGyASalBLWGQ -- YouTube channel (auto-generated topic channel; template YouTube|c=UC9pDhoY5rwqRGyASalBLWGQ) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/playlist?list=PLsHA74V3bmZ45PmHm8cmjwLTXXBbtXoXB -- YouTube playlist from Square Enix (template YouTube|p=) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/playlist?list=PLOkZyHIVzUcMkTTmInD7QfQyptdKoOoAP -- YouTube playlist from PlayStation Japan (template YouTube|p=) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://store.steampowered.com/app/1462040 -- Steam, ファイナルファンタジーVII リメイク インターグレード (template Steam app|1462040) -- link recorded only -- accessed 2026-11-09; archived: TODO
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVII_リメイク#関連項目 -- seven related articles: ファイナルファンタジーシリーズ, ファイナルファンタジーVII, ビフォア クライシス ファイナルファンタジーVII, ファイナルファンタジーVII アドベントチルドレン, ダージュ オブ ケルベロス ファイナルファンタジーVII, クライシス コア ファイナルファンタジーVII, ラストオーダー ファイナルファンタジーVII -- accessed 2026-11-09 (same revision); every game and film among them is already an entry
+
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Video_games section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Final Fantasy VII Remake: an action role-playing game by Square Enix, released for PlayStation 4 on 2020-04-10, the first of a planned trilogy remaking the 1997 original; an expanded edition, Intergrade, was released for PlayStation 5 -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

@@ -27,8 +27,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_version_differ
 - https://www.metacritic.com/game/final-fantasy-ii-pixel-remaster/
 - https://www.metacritic.com/game/final-fantasy-ii/
 
+## mobygames.com (Information)
+
+- https://www.mobygames.com/game/7321/final-fantasy-ii -- the MobyGames entry for the game (NES), also linked from ja.wikipedia's 外部リンク (given by user; my fetch returned HTTP 403, page not read) -- accessed 2026-11-08; archived: TODO
+- https://www.mobygames.com/game/45756/final-fantasy-ii/ -- the MobyGames entry for the WonderSwan Color version, linked from ja.wikipedia's 外部リンク (my fetch returned HTTP 403, page not read) -- accessed 2026-11-08; archived: TODO
+- https://www.mobygames.com/game/28587/final-fantasy-ii/ -- the MobyGames entry for the PSP version, linked from ja.wikipedia's 外部リンク (my fetch returned HTTP 403, page not read) -- accessed 2026-11-08; archived: TODO
+
 ## Nintendo (Platform)
 
+- https://www.nintendo.co.jp/wii/vc/vc_ff2/index.html -- the Wii Virtual Console page of Final Fantasy II (Japan), linked from ja.wikipedia's 外部リンク (HTTP 200; page not read) -- accessed 2026-11-08; archived: TODO
+- https://www.nintendo.co.jp/wiiu/software/vc/fbxj/ -- the Wii U Virtual Console page of Final Fantasy II (Japan), linked from ja.wikipedia's 外部リンク as a Wayback capture; the live URL returns HTTP 404 -- accessed 2026-11-08; archived: https://web.archive.org/web/20151116001533/https://www.nintendo.co.jp/wiiu/software/vc/fbxj/ (the capture ja.wikipedia links; my fetch of it returned HTTP 429, not read)
+- https://www.nintendo.co.jp/3ds/eshop/vc/tdqj/ -- the Nintendo 3DS Virtual Console page of Final Fantasy II (Japan), linked from ja.wikipedia's 外部リンク; the live URL returns HTTP 404 -- accessed 2026-11-08; archived: TODO
 - https://www.nintendo.com/store/products/final-fantasy-ii-switch/
 
 ## Playstation (Platform)
@@ -827,6 +836,53 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 - https://strategywiki.org/wiki/Final_Fantasy_I-II -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Final_Fantasy_Origins -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Final_Fantasy_I_%26_II:_Dawn_of_Souls -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
+## en.wikipedia.org (Information; Final Fantasy II article, Legacy section, live page of 2026-11-08)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_II#Legacy -- related works named in the section -- accessed 2026-11-08 (revision 1382449708 of 2026-10-28; wikitext read through the MediaWiki API); archived: TODO
+  - Novelization Final Fantasy II: The Labyrinth of Nightmares: written by Terada, illustrated by Amano, Kadokawa Sneaker Bunko, 1989-03-20
+  - Second novelization by Takashi Umemura covering the first three games: Square Enix 2019, Yen Press worldwide 2020
+  - Appearances in other games: Firion and the Emperor in Dissidia Final Fantasy (2009) and its sequels; the Emperor in the Different Future DLC of Stranger of Paradise: Final Fantasy Origin (2022)
+  - The Final Fantasy Legend (Makai Tosho SaGa, 1989, Game Boy) named as Kawazu's next project
+
+## ja.wikipedia.org (Information; Final Fantasy II article, 関連商品 section, live page of 2026-11-08)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーII#関連商品 -- related goods list -- accessed 2026-11-08 (revision 110746553 of 2026-08-23; wikitext read through the MediaWiki API); archived: TODO
+  - Gamebooks (3): 勝利への旅立ち (Tokuma, 1988-12), 将軍ボーゲンとの死闘 (Tairiku Bunko, 1989-01-13), 秘宝のドラゴン (Futabasha, 1989-01-19)
+  - Novels (2): 夢魔の迷宮 (Kadokawa, 1989-04), Memory of Heroes (Square Enix, 2012-10-31)
+  - Guidebooks (13) and one art book: listed in sources/ii-group.md
+  - Section ファイナルファンタジーII 夢魔の迷宮 (the novel): infobox author 寺田憲史, illustrations 天野喜孝, publisher 角川書店, label 角川スニーカー文庫, released 1989年4月, 1 volume; an original story written by scenario writer Terada, same characters as the game with added and changed settings; Cid, Josef and Richard do not appear; character and setting differences listed (details in sources/final-fantasy-ii-nightmares-labyrinth-1989.md)
+
+## ja.wikipedia.org (Information; Final Fantasy II article, 外部リンク section, live page of 2026-11-08)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーII#外部リンク -- nine external links -- accessed 2026-11-08 (revision 110746553 of 2026-08-23; wikitext read through the MediaWiki API); archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff2/ (ファイナルファンタジーII); https://www.jp.square-enix.com/game/detail/ff1-2a/ (I・II アドバンス); https://www.jp.square-enix.com/ff_pixelremaster/ff2/ (ピクセルリマスター); each recorded in the Square Enix Japan list sections above
+  - https://www.nintendo.co.jp/wii/vc/vc_ff2/index.html (Wii Virtual Console); https://web.archive.org/web/20151116001533/https://www.nintendo.co.jp/wiiu/software/vc/fbxj/ (Wii U Virtual Console, Wayback capture of 2015-11-16); https://www.nintendo.co.jp/3ds/eshop/vc/tdqj/ (Nintendo 3DS Virtual Console); recorded under Nintendo (Platform)
+  - MobyGames: /game/7321/ (NES), /game/45756/ (WonderSwan Color), /game/28587/ (PSP); recorded under mobygames.com
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-08)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_II#External_links -- nine links -- accessed 2026-11-08 (revision 4037150 of 2026-08-27; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II#External_links
+  - http://www.square-enix.co.jp/games/gba/ff1-2/index_n.html -- Final Fantasy I・II Advance, official Japanese site -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://www.square-enix.co.jp/ff20th/ -- Final Fantasy 20th Anniversary, official Japanese site (also recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://www.square-enix.co.jp/mobile/ff/application/index02.html -- Final Fantasy II for Mobile, official Japanese site -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://archive.na.square-enix.com/games/FFORIGINS/ -- Final Fantasy Origins, official North American site -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://archive.na.square-enix.com/games/DOS/ -- Final Fantasy I・II Dawn of Souls, official North American site -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://archive.na.square-enix.com/ffanniversary/ -- Final Fantasy 20th Anniversary, official North American site -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://itunes.apple.com/us/app/final-fantasy-ii/id354974729?mt=8 -- iTunes Store purchase page (the app id is recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.finalfantasy2&feature=related_apps -- Google Play purchase page (the app is recorded above; the link carries a further #?t= token) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_II -- the English Wikipedia article (recorded in the wikipedia.org section) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## finalfantasywiki.com (Information; External links section, live page of 2026-11-08)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_II#External_links -- two links -- accessed 2026-11-08 (revision 20917 of 2026-10-30; wikitext read through the MediaWiki API)
+  - https://www.finalfantasykingdom.net/finalfantasyiimainnes.php -- NES version on Final Fantasy Kingdom -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyII -- Final Fantasy II on TV Tropes Wiki -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## mobygames.com (Information; entry titled Final Fantasy II, linked from the Final Fantasy IV articles)
+
+- https://www.mobygames.com/game/4572/final-fantasy-ii/ -- MobyGames entry titled Final Fantasy II; linked from finalfantasy.fandom.com's Final Fantasy IV page (revision 4034771 of 2026-08-20), en.wikipedia's Final Fantasy IV article (revision 1382444045 of 2026-10-28, as id 4572/final-fantasy-ii) and ja.wikipedia's ファイナルファンタジーIV article (revision 111593793 of 2026-10-31) -- link recorded only -- accessed 2026-11-08; archived: TODO
 
 ## Decisions
 

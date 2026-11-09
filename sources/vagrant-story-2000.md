@@ -143,4 +143,35 @@
 
 - https://strategywiki.org/wiki/Vagrant_Story -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Vagrant Story article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Vagrant_Story#External_links -- 4 links -- accessed 2026-11-09 (revision 1381501223 of 2026-10-22; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Vagrant_Story -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.jp.square-enix.com/archive/vagrantstory/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/vagrant-story -- MobyGames entry (template mobygames id /vagrant-story) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://shmuplations.com/vagrantstory/ -- Cited web page: Vagrant Story – 1999 Developer Interviews -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ベイグラントストーリー article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ベイグラントストーリー#外部リンク -- 2 links -- accessed 2026-11-09 (revision 111508662 of 2026-10-25; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/vagrantstory/ -- ベイグラントストーリー -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20170512015028/http://www.jp.playstation.com/software/title/jp0082npjj00282_000000000000000001.html -- Wayback capture of 20170512015028 (ゲームアーカイブス版) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Vagrant_Story#External_links -- 12 links -- accessed 2026-11-09 (revision 4060672 of 2026-10-14; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Vagrant_Story#External_links
+  - https://web.archive.org/web/20050404105450/http://www.square-enix.co.jp/games/ps/vagrantstory/ -- Official site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/vagrantstory/ -- Official game detail page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20120404142519/http://www.square-enix.com/jp/archive/vagrantstory/ -- Official game archive page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20111224053538/http://www.square-enix.com/jp/archive/vagrantstory_psonebooks/ -- Vagrant Story (PS one Books) official game archive page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/slpm-87393.html -- Vagrant Story -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20170619183322/http://dlgames.square-enix.com/jp/psga/2009/vagrantstory/ -- Vagrant Story (Game Archives) official site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Vagrant_Story -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/3728/vagrant-story/ -- Vagrant Story -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://psx.ign.com/objects/012/012288.html -- Vagrant Story -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.rpgamer.com/games/other/psx/vagrant/vagrant.html -- Vagrant Story -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www34.brinkster.com/worldshards/translations/trans.htm -- Translated Vagrant Story Ultimania -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.rpgclassics.com/shrines/psx/vs -- RPGClassics' Vagrant Story shrine -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

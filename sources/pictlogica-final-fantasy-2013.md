@@ -164,4 +164,21 @@
 - Page URL: https://www.nintendo.co.jp/software/3ds/index_all.html (the all-results page, without Virtual Console titles; the list data read from the page's own search results, page 5 of 66) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - PICTLOGICA FINAL FANTASY ≒; maker スクウェア・エニックス; release 2017.7.12; type ダウンロードソフト; the entry has no link to an item page
 
+## ja.wikipedia.org (Information; ピクトロジカ ファイナルファンタジー article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ピクトロジカ_ファイナルファンタジー#外部リンク -- 2 links -- accessed 2026-11-09 (revision 110679543 of 2026-08-17; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/p_ff/ -- ピクトロジカ ファイナルファンタジー公式 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.jp.square-enix.com/p_ffne/ -- ピクトロジカ ファイナルファンタジー≒公式 -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Pictlogica_Final_Fantasy#External_links -- 6 links -- accessed 2026-11-09 (revision 3989541 of 2026-02-09; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Pictlogica_Final_Fantasy#External_links
+  - http://pre.pictlogica-ff.com/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20170610131609/http://www.jp.square-enix.com/p_ffne/ -- Pictlogica Final Fantasy≒ official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/p_ffne/ -- Pictlogica Final Fantasy≒ official Japanese game detail page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/pictlogicaff -- Official Twitter account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://wikiwiki.jp/pictlogicaff/ -- Japanese wiki -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://reddit.com/r/ffpictlogica/ -- Reddit board for English fans -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

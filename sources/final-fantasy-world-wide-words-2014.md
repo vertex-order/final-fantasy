@@ -69,4 +69,12 @@
   - Final Fantasy: World Wide Words (2014) -- type label Main Game; platforms shown: Android, iOS; released 2014-09-16
     - https://www.igdb.com/games/final-fantasy-world-wide-words -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_World_Wide_Words#External_links -- 3 links -- accessed 2026-11-09 (revision 4052454 of 2026-09-25; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_World_Wide_Words#External_links
+  - http://www.jp.square-enix.com/ff_www/ -- Final Fantasy World Wide Words Official Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.ffwww -- Google Play -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/jp/app/id900312607 -- iTunes Store -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

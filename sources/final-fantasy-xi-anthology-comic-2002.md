@@ -84,6 +84,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Related lines considered and kept out of this entry (see Decisions): the 4-koma volumes (own entry), the single-artist collections, Ozora, Famitsu Clear Comics, Vana'diel Petit
   - Vana Digest has its own entry (sources/final-fantasy-xi-vana-digest-2008.md)
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXI article, 漫画 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#漫画 -- アンソロジーコミック: many anthology comics were published, for example under the Bros. Comics EX label; the page lists only the single-author collections, which are the Artist Collections entry -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Start date 2002-12 (Amazon.co.jp, December 1, 2002) instead of NDL's 2003.1: KADOKAWA's and Amazon's dates run a month ahead of NDL's for these Enterbrain books

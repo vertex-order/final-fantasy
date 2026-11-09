@@ -35,4 +35,16 @@
   - Dissidia Duodecim Prologus: Final Fantasy (2011) -- type label Main Game; platforms shown: PlayStation Portable; released 2011-01-18
     - https://www.igdb.com/games/dissidia-duodecim-prologus-final-fantasy -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; Dissidia 012 Final Fantasy article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Dissidia_012_Final_Fantasy#External_links -- 3 links -- accessed 2026-11-09 (revision 1336361082 of 2026-02-03; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/dissidia_012/ -- Official website - Dissidia 012 Final Fantasy official Japanese website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20120530015719/http://eu.square-enix.com/en/games/dissidia-012duodecim-final-fantasy -- Official website - Dissidia 012 Final Fantasy official North American website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.dissidia012game.com/ -- Official website - Dissidia 012 Final Fantasy official European website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ディシディア デュオデシム ファイナルファンタジー article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ディシディア_デュオデシム_ファイナルファンタジー#外部リンク -- 1 links -- accessed 2026-11-09 (revision 110294865 of 2026-07-16; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/dff012/ -- ディシディア デュオデシム ファイナルファンタジー -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

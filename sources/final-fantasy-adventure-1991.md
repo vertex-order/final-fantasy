@@ -442,6 +442,41 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://play.google.com/store/apps/details?id=com.square_enix.adventures -- app listed in the developer page captures of 2016-02-06, 2017-01-07, 2018-02-26, 2019-03-13, 2020-02-03, 2021-02-09, 2022-01-13, 2023-01-07 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20160206024002/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20230107180705/https://play.google.com/store/apps/dev?id=8026010256970589886
 
+## en.wikipedia.org (Information; Final Fantasy Adventure article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Adventure#External_links -- 2 links -- accessed 2026-11-09 (revision 1384324970 of 2026-11-07; wikitext read through the MediaWiki API)
+  - http://www.jp.square-enix.com/seiken/en/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/final-fantasy-adventure -- MobyGames entry (template moby game id /final-fantasy-adventure) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; 聖剣伝説 〜ファイナルファンタジー外伝〜 article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/聖剣伝説_〜ファイナルファンタジー外伝〜#外部リンク -- 9 links -- accessed 2026-11-09 (revision 111083046 of 2026-09-20; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/seiken/ -- 聖剣伝説 -ファイナルファンタジー外伝 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/seiken/ -- 聖剣伝説 -ファイナルファンタジー外伝 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/s_seiken/ -- 新約 聖剣伝説 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/4520/final-fantasy-adventure/ -- MobyGames entry (template mobygames id /4520/final-fantasy-adventure/) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/11202/sword-of-mana/ -- MobyGames entry (template mobygames id /11202/sword-of-mana/) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/seiken_pr -- Twitter account seiken_pr (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/playlist?list=PLsHA74V3bmZ71me7DTKlXIc0zOmLCQ1d- -- YouTube playlist (template YouTube|p=PLsHA74V3bmZ71me7DTKlXIc0zOmLCQ1d-) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UC_qQ3oAJJzlZUWIEwaUAmcQ -- YouTube channel (template YouTube|c=UC_qQ3oAJJzlZUWIEwaUAmcQ) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCZ3GmKvLxtcYhmfeWB77Zaw -- YouTube channel (template YouTube|c=UCZ3GmKvLxtcYhmfeWB77Zaw) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy Adventure page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Adventure#External_links -- 1 links -- accessed 2026-11-09 (revision 16130 of 2026-06-10; wikitext read through the MediaWiki API)
+  - https://wikiofmana.com/wiki/Final_Fantasy_Adventure -- Wiki of Mana article -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Adventure#External_links -- 6 links -- accessed 2026-11-09 (revision 4008384 of 2026-05-09; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure#External_links
+  - https://www.jp.square-enix.com/game/detail/seiken/ -- Official Japanese game detail page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/seiken/ -- Adventures of Mana official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/seiken/en/ -- Adventures of Mana official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Adventure -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Sword_of_Mana -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Adventures_of_Mana -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

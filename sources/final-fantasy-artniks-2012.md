@@ -126,6 +126,15 @@
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy Artniks
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Artniks#External_links -- 4 links -- accessed 2026-11-09 (revision 4021848 of 2026-07-13; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Artniks#External_links
+  - https://web.archive.org/web/20141030083726/http://www.jp.square-enix.com/ff_artniks/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20140718190500/http://blog.jp.square-enix.com/ff_artniks/ -- Official blog -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20131219024545/http://jp.apps.gree.net/ja/57737 -- GREE Final Fantasy Artniks Portal -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Artniks -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 - GREE is the link for the Android and iOS rows (user, 2026-10-20): the search for direct Play Store and App Store pages is closed, since the game was only available through registration on the GREE website; the rows link the GREE apps page capture of 2013-12-19 and no store page is expected to exist
 - No `by` line (user, 2026-10-20): director Kazunari Itakura and producer Ichiro Hazama are named by zh.wikipedia and thefinalfantasy.net, but the entry carries no credits

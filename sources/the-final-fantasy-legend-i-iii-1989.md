@@ -397,4 +397,17 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 - https://strategywiki.org/wiki/Final_Fantasy_Legend_III -- listed in Category:Square_Enix / Category:Square -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Collection_of_SaGa:_Final_Fantasy_Legend -- listed in Category:Square_Enix / Category:Square -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy Legend III article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Legend_III#External_links -- 3 links -- accessed 2026-11-09 (revision 1348808574 of 2026-04-14; wikitext read through the MediaWiki API)
+  - http://www.jp.square-enix.com/archive/saga3/ -- Official Square Enix info page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/saga3sol/ -- Official Nintendo DS remake website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/5939 -- MobyGames entry (template mobygames id /5939) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/The_Final_Fantasy_Legend#External_links -- 1 links -- accessed 2026-11-09 (revision 4035905 of 2026-08-24; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/The_Final_Fantasy_Legend#External_links
+  - https://en.wikipedia.org/wiki/The_Final_Fantasy_Legend -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

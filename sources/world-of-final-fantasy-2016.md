@@ -348,4 +348,33 @@
 - https://strategywiki.org/wiki/World_of_Final_Fantasy -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/World_of_Final_Fantasy_Maxima -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; World of Final Fantasy article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/World_of_Final_Fantasy#External_links -- 1 links -- accessed 2026-11-09 (revision 1384356851 of 2026-11-07; wikitext read through the MediaWiki API)
+  - https://worldoffinalfantasy.square-enix-games.com/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ワールド オブ ファイナルファンタジー article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ワールド_オブ_ファイナルファンタジー#外部リンク -- 4 links -- accessed 2026-11-09 (revision 110503103 of 2026-08-02; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/WOFF/ -- ワールド オブ ファイナルファンタジー -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/WOFF/MAXIMA/ -- ワールド オブ ファイナルファンタジー マキシマ -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/woff_jp -- Twitter account woff_jp (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) YouTube template: {{YouTube|playlist = PLsHA74V3bmZ5zYI412D9i6Gnhccvy661k}} -- accessed 2026-11-09
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/World_of_Final_Fantasy#External_links -- 11 links -- accessed 2026-11-09 (revision 4067118 of 2026-10-29; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy#External_links
+  - http://www.jp.square-enix.com/WOFF/ -- Official site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/WOFF/MAXIMA/ -- World of Final Fantasy Maxima official site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20161225022147/http://www.finalfantasy.jp/products/WOFF/ -- World of Final Fantasy official goods detail page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20171101115553/https://www.worldoffinalfantasy.com/us/ -- Official site (US English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20190212084810/https://worldoffinalfantasy.square-enix-games.com/en-us/home/ -- World of Final Fantasy Maxima official site (US English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/WORLD-OF-FINAL-FANTASY -- World of Final Fantasy -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/woff_jp -- Official Twitter account (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=-Zv8yapxg9s -- E3 2015 Trailer -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/World_of_Final_Fantasy -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/83431/world-of-final-fantasy/ -- World of Final Fantasy -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/116808/world-of-final-fantasy-maxima/ -- World of Final Fantasy Maxima -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

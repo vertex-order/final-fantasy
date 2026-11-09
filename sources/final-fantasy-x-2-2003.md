@@ -510,4 +510,49 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2_version_diffe
 - https://strategywiki.org/wiki/Final_Fantasy_X-2 -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Final_Fantasy_X%2FX-2_HD_Remaster -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy VII article, Legacy section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII#Legacy -- connection between Final Fantasy VII (1997) and Final Fantasy X-2 (2003): director Kitase and scenario writer Nojima established a plot-related link, X-2 can be read as a loose prequel to VII; the X-2 character Shinra proposes extracting life energy from within the planet Spira, which Nojima has stated is a deliberate nod to the Shinra Company, and he envisioned the events of X-2 as a prequel to those of VII -- accessed 2026-11-09 (revision 1384600092 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
+## en.wikipedia.org and ja.wikipedia.org (Information; X/X-2 HD Remaster links from the Final Fantasy X articles)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_X/X-2_HD_Remaster#External_links -- the Remaster collection links, recorded because the collection contains this game -- accessed 2026-11-09 (revision 1383981558 of 2026-11-05; ja revision 111423447 of 2026-10-18; wikitext read through the MediaWiki API)
+  - http://www.finalfantasyxhd.com/ -- Official website (template Official website) of Final Fantasy X/X-2 HD Remaster -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffx_x-2HD/ -- FFX|FFX-2 HDリマスター版公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCZYMA5qFXLAVaK2kM11U8vw -- YouTube channel FINAL FANTASY X/X-2 HD Remaster -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_X-2#External_links -- 11 links under Final Fantasy X-2, International + Last Mission and Miscellaneous -- accessed 2026-11-09 (revision 4024331 of 2026-07-21; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2#External_links
+  - https://web.archive.org/web/20040603064833/http://www.square-enix.co.jp/games/ps2/ffx2/ -- Official site, Japanese, Wayback capture of 2004-06-03 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff10-2/ -- Official game detail page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/slpm-66125.html -- Final Fantasy X-2 in the Ultimate Hits line -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20080813034440/http://na.square-enix.com/games/FFX-2/ -- Official site, North American, Wayback capture of 2008-08-13 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20050901114741/http://www.ffx2-europe.com/ -- Official site, European, Wayback capture of 2005-09-01 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20040701053300/http://www.square-enix.co.jp/games/ps2/ffx2inter/ -- Final Fantasy X-2 International + Last Mission official site, Japanese, Wayback capture of 2004-07-01 (also recorded in sources/final-fantasy-x-2-last-mission-2004.md) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff10-2inter/ -- International + Last Mission official game detail page (also recorded in sources/final-fantasy-x-2-last-mission-2004.md) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/slpm-66678.html -- International + Last Mission in the Ultimate Hits line (also recorded in sources/final-fantasy-x-2-last-mission-2004.md) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_X-2 -- English Wikipedia article -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/8706/final-fantasy-x-2/ -- MobyGames entry -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/29492/final-fantasy-x-2-international-last-mission/ -- MobyGames, International + Last Mission (also recorded in sources/final-fantasy-x-2-last-mission-2004.md) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy X-2 article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_X-2#External_links -- one link and two sister-project templates -- accessed 2026-11-09 (revision 1380798589 of 2026-10-17; wikitext read through the MediaWiki API)
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_X-2 -- Wikimedia Commons category sister-project link (template Commons category) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikiquote.org/wiki/Final_Fantasy_X-2 -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20080813034440/http://na.square-enix.com/games/FFX-2/ -- Official website, Wayback capture of 2008-08-13 -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーX-2 article, 外部リンク and 関連商品 sections, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2#外部リンク -- five links -- accessed 2026-11-09 (revision 111104655 of 2026-09-22; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ff10-2/ -- ファイナルファンタジーX-2 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff10-2inter/ -- ファイナルファンタジーX-2 インターナショナル+ラストミッション (also recorded in sources/final-fantasy-x-2-last-mission-2004.md) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffx_x-2HD/ -- FINAL FANTASY X|X-2 HD Remaster (recorded above) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCBOL4zYbc5d7Cc34ZRYI36A -- YouTube channel (template YouTube|c=UCBOL4zYbc5d7Cc34ZRYI36A) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCZYMA5qFXLAVaK2kM11U8vw -- YouTube channel FINAL FANTASY X|X-2 HD Remaster (recorded above) -- link recorded only -- accessed 2026-11-09; archived: TODO
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2#関連商品 -- related goods list -- accessed 2026-11-09 (same revision); archived: TODO
+  - Books (4): FINAL FANTASY X-2 ULTIMANIA (Digicube 4-88787-126-0; Square Enix reprint 4-7575-1205-8); FINAL FANTASY X-2 ULTIMANIA Ω (4-7575-1161-2); FINAL FANTASY X-2 INTERNATIONAL+LAST MISSION ULTIMANIA (4-7575-1163-9); 小説 FINAL FANTASY X-2.5 〜永遠の代償〜 (978-4-7575-4157-3), already an entry; the three Ultimania guides are listed in sources/x-group.md
+
 ## Decisions

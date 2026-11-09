@@ -521,4 +521,19 @@
 
 - https://strategywiki.org/wiki/Final_Fantasy_XIV:_A_Realm_Reborn -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy XIV article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_XIV#External_links -- 3 links -- accessed 2026-11-09 (revision 1384467232 of 2026-11-08; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Final_Fantasy_XIV -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_XIV -- Wikimedia Commons sister-project link (template commons category) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.finalfantasyxiv.com/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy XIV: A Realm Reborn page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_XIV:_A_Realm_Reborn#External_links -- 4 links -- accessed 2026-11-09 (revision 20736 of 2026-10-28; wikitext read through the MediaWiki API)
+  - https://na.finalfantasyxiv.com/a_realm_reborn/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://jp.finalfantasyxiv.com/a_realm_reborn/ -- Official Japanese website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_A_Realm_Reborn -- Final Fantasy XIV: A Realm Reborn -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://ffxiv.consolegameswiki.com/wiki/A_Realm_Reborn -- Final Fantasy XIV: A Realm Reborn -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

@@ -596,4 +596,51 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 
 - https://strategywiki.org/wiki/Final_Fantasy_VIII -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_VIII#External_links -- 25 links under the versions, Dive In, Remastered and Miscellaneous -- accessed 2026-11-09 (revision 4041039 of 2026-09-02; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII#External_links
+  - https://www.jp.square-enix.com/game/detail/ff8/ -- Square Enix official game detail page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20050406122327/http://www.square-enix.co.jp/games/ps/ff8/ -- Official site, Japanese, Wayback capture of 2005-04-06 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/slpm-87384.html -- Final Fantasy VIII in the Ultimate Hits line -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20160704193453/http://www.finalfantasy.jp/products/uh-ff8/ -- Ultimate Hits official goods detail page, Wayback capture -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20081216004308/http://na.square-enix.com/games/ff8/ -- Official site, North American, Wayback capture of 2008-12-16 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20080704112532/http://www.final-fantasyviii.com/ -- Official site, European, Wayback capture of 2008-07-04 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20130731123524/http://www.japan.ea.com/archive/ff8/ -- Windows (2000) official site, Japanese, Wayback capture -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20160709155352/http://www.finalfantasy.jp/products/windows_ff8/ -- Windows official goods detail page, Wayback capture -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20181018120020/http://dlgames.square-enix.com/jp/psga/2009/ff8/ -- Game Archives official site, Japanese, Wayback capture -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://store.playstation.com/#!/en-us/games/final-fantasy-viii-(psone-classic)/cid=UP9000-NPUJ00892_00-0000000000000001 -- PlayStation Store page (PSone Classic) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffviii-pc-jp/ -- Final Fantasy VIII for PC (2013-2014) official site, Japanese -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20160722011332/http://www.finalfantasy.jp/products/ffviii_for_pc/ -- for PC official goods detail page, Wayback capture -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20180416101056/https://www.ffviiipc.com/en -- for PC official site, UK English, Wayback capture -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://store.steampowered.com/app/39150/ -- Steam page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20141224205850/http://divein.jp.square-enix.com/cont/content_detail_06.html -- Dive In official page, Japanese, Wayback capture -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffviii/ -- Final Fantasy VIII Remastered official site, Japanese -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20240604065449/https://ffviiiremastered.square-enix-games.com/en-us -- Remastered official site, US English, Wayback capture of 2024-06-04 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://jp.finalfantasy.com/titles/finalfantasy8 -- Final Fantasy Portal Site, Japanese -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://na.finalfantasy.com/titles/finalfantasy8 -- Final Fantasy Portal Site, US English -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://eu.finalfantasy.com/titles/finalfantasy8 -- Final Fantasy Portal Site, UK English -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-VIII -- Square Enix North America Press Hub -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_VIII -- English Wikipedia article -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/1149/final-fantasy-viii/ -- MobyGames entry -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/133568/final-fantasy-viii-remastered/ -- MobyGames, Remastered -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=ExWfBDXdYHg -- YouTube video "Which Version of Final Fantasy VIII Should You Play? - All FFVIII Ports Reviewed & Compared" -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy VIII article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VIII#External_links -- two sister-project templates, an {{Official website}} template with no URL on the page (taken from Wikidata, not resolved) and MobyGames -- accessed 2026-11-09 (revision 1376353135 of 2026-09-23; wikitext read through the MediaWiki API)
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_VIII -- Wikimedia Commons sister-project link (template Commons-inline) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikiquote.org/wiki/Final_Fantasy_VIII -- Wikiquote sister-project link (template Wikiquote-inline) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/1149/final-fantasy-viii/ -- MobyGames entry (template MobyGames /playstation/final-fantasy-viii; recorded above by id) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーVIII article, 外部リンク and 関連商品 sections, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVIII#外部リンク -- five links (the おでかけチョコボRPG Windows port distribution page, which is for Chocobo World, is recorded in sources/chocobo-world-1999.md) -- accessed 2026-11-09 (revision 111072262 of 2026-09-19; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ff8/ -- ファイナルファンタジーVIII - スクウェア・エニックス -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffviii-pc-jp/ -- ファイナルファンタジーVIII for PC - スクウェア・エニックス -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffviii/ -- ファイナルファンタジーVIII Remastered - スクウェア・エニックス -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCQWjFn_mSazu9CsQrbTXjTQ -- YouTube channel (template YouTube|c=UCQWjFn_mSazu9CsQrbTXjTQ) -- link recorded only -- accessed 2026-11-09; archived: TODO
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVIII#関連商品 -- related goods list -- accessed 2026-11-09 (same revision); archived: TODO
+  - Books: FINAL FANTASY VIII ULTIMANIA (Digicube 4-925075-49-7; Square Enix 4-7575-1243-0), the first of the Ultimania series; a guide, listed in sources/viii-group.md
+
 ## Decisions

@@ -930,6 +930,84 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 - https://strategywiki.org/wiki/Final_Fantasy_Chronicles -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Final_Fantasy_Collection -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-08)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV#External_links
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#External_links -- 41 links in the subsections 2D versions and 3D Remake -- accessed 2026-11-08 (revision 4034771 of 2026-08-20; wikitext read through the Fandom API)
+  - https://www.jp.square-enix.com/game/detail/ff4/ -- Final Fantasy IV official game detail page (Japanese) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20170915021556/http://www.jp.square-enix.com/archive/ff4/ -- Final Fantasy IV (SFC) official game archive page, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20171019040347/http://www.finalfantasy.jp/products/ff4/ -- Final Fantasy IV (SFC) official goods detail page, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff4_easy/ -- Final Fantasy IV Easy Type official game detail page (Japanese) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20171201131801/http://www.jp.square-enix.com/archive/ff4_easy/ -- Easy Type official game archive page, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20041026082220/http://www.square-enix.co.jp/games/ps/ff4/ff4.html -- Final Fantasy IV (PlayStation) official site, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20170825172754/http://jp.square-enix.com/archive/ff4_ps/ -- PlayStation official game archive page, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20050309171120/http://www.square-enix.co.jp/games/ws/mp/html/ff4/index2.html -- Final Fantasy IV (WonderSwan Color) official site, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20170721133801/http://www.jp.square-enix.com/archive/ff4_ws/ -- WonderSwan Color official game archive page, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20061216140745/http://www.square-enix.co.jp/ff4a/ -- Final Fantasy IV Advance official site, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff4a/ -- Final Fantasy IV Advance official game detail page -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20171217093337/http://www.jp.square-enix.com/archive/ff4a/ -- Final Fantasy IV Advance official game archive page, Wayback capture (the wikitext link lacks the closing slash and a space) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20080129205315/http://ffiv.nintendo.com/final/ -- Final Fantasy IV Advance official Nintendo site, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20140703003306/http://dlgames.square-enix.com/jp/vc/2009/ff4/ -- Final Fantasy IV Virtual Console official site, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20180604044435/http://dlgames.square-enix.com/jp/vc/2016/ff4a/ -- Final Fantasy IV Advance Virtual Console official site, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20091229204415/http://www.square-enix.co.jp/mobile/ff/ff4/ -- Final Fantasy IV for Mobile official site, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20091231011114/http://www.square-enix.co.jp/mobile/ff/ff4/top.html -- Final Fantasy IV for Mobile official site top page, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20170619190531/http://dlgames.square-enix.com/jp/psga/2012/ff4/ -- Final Fantasy IV Game Archives official site, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/ff_pixelremaster/ff4/ -- Final Fantasy IV pixel remaster official site (Japanese) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://jp.finalfantasy.com/titles/finalfantasy4 -- Final Fantasy Portal Site, Japanese -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://na.finalfantasy.com/titles/finalfantasy4 -- Final Fantasy Portal Site, US English -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://eu.finalfantasy.com/titles/finalfantasy4 -- Final Fantasy Portal Site, UK English -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_IV -- English Wikipedia article -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.mobygames.com/game/175288/final-fantasy-iv/ -- MobyGames, pixel remaster -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/ff4/ -- Final Fantasy IV 3D Remake official site (Japanese) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20140401044158/http://www.square-enix.co.jp/ff4ds/ -- Final Fantasy IV (DS) old official site, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20180317034816/http://www.jp.square-enix.com/archive/ff4ds/ -- DS official game archive page, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20160303214510/http://www.finalfantasy.jp/products/ff4ds/ -- DS official goods detail page, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/ntr-p-yf4j.html -- Final Fantasy IV (DS) in the Ultimate Hits line -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20121014002828/http://na.square-enix.com/ff4/ -- Final Fantasy IV (DS) official North American site, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20090815020423/http://www.finalfantasy4-game.com/ -- Final Fantasy IV (DS) official European site, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20170721063902/http://dlgames.square-enix.com/ff/ff4/jp/ -- Final Fantasy IV (Smartphone) official site, Japanese, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20180619153925/http://dlgames.square-enix.com/ff/ff4/en/ -- Final Fantasy IV (Smartphone) official site, English, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-IV -- Square Enix North America Press Hub -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://itunes.apple.com/us/app/final-fantasy-iv/id575119311?mt=8 -- iTunes Store purchase page -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP&hl=en -- Google Play purchase page -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://store.steampowered.com/app/312750/ -- Steam purchase page -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game) -- English Wikipedia article on the 2007 DS version -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.mobygames.com/game/36654/final-fantasy-iv/ -- MobyGames, 3D Remake -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.youtube.com/watch?v=pLANlDfhfUo -- YouTube video "Which Version of Final Fantasy IV Should You Play? - ALL Ports Reviewed & Compared" -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy IV article, External links section, live page of 2026-11-08)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_IV#External_links -- four links and three sister-project templates -- accessed 2026-11-08 (revision 1382444045 of 2026-10-28; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20080129205315/http://ffiv.nintendo.com/final/ -- Nintendo Final Fantasy IV Advance official website, Wayback capture of 2008-01-29 (original http://ffiv.nintendo.com/final/) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://www.square-enix.co.jp/ff4a/ -- Square Enix Final Fantasy IV Advance official website (Japanese) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://www.square-enix.co.jp/mobile/ff/ff4/ -- Square Enix Final Fantasy IV for Mobile official website (Japanese) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://en.wikibooks.org/wiki/Final_Fantasy_IV -- Wikibooks sister-project link (template Wikibooks|Final Fantasy IV) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://en.wikiquote.org/wiki/Final_Fantasy_IV -- Wikiquote sister-project link (template Wikiquote, default page name) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_IV -- Wikimedia Commons category sister-project link (template Commons category, default page name) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーIV article, 外部リンク and 関連商品 sections, live page of 2026-11-08)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIV#外部リンク -- official sites, store pages, MobyGames and YouTube -- accessed 2026-11-08 (revision 111593793 of 2026-10-31; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ff4/ -- ファイナルファンタジーIV (公式サイト) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff4_easy/ -- ファイナルファンタジーIV イージータイプ -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff_collection/ -- ファイナルファンタジーコレクション -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff4a/ -- ファイナルファンタジーIV アドバンス -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.nintendo.co.jp/wii/vc/vc_ff4/index.html -- Wii バーチャルコンソール (template Wiiバーチャルコンソール|ff4) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20150504020740/https://www.nintendo.co.jp/wiiu/software/vc/jbzj/ -- Wii U バーチャルコンソール ファイナルファンタジーIV, Wayback capture of 2015-05-04 (original https://www.nintendo.co.jp/wiiu/software/vc/jbzj/) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.nintendo.co.jp/titles/50010000042385 -- ファイナルファンタジーIV - New 3DS バーチャルコンソール -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.nintendo.co.jp/titles/20010000021687 -- ファイナルファンタジーIV アドバンス - Wii U バーチャルコンソール -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff4cc/ -- ファイナルファンタジーIV コンプリートコレクション -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://dlgames.square-enix.com/ff/ff4/jp/ -- ファイナルファンタジーIV (3D REMAKE) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/ff_pixelremaster/ff4/ -- ファイナルファンタジーIV ピクセルリマスター -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://store.steampowered.com/app/312750 -- Steam, Final Fantasy IV (3D Remake) (template Steam app|312750) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.mobygames.com/game/36654/final-fantasy-iv/ -- MobyGames, Final Fantasy IV (3D Remake) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.youtube.com/channel/UC-L3eCBsub719LUuaUTwuFQ -- YouTube channel (template YouTube|c=UC-L3eCBsub719LUuaUTwuFQ) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIV#関連商品 -- related goods list -- accessed 2026-11-08 (same revision); archived: TODO
+  - Novels (3): FFIV 上巻 (ISBN 978-4-7575-2458-3) and 下巻 (978-4-7575-2459-0), 2008-12-25, Square Enix; THE AFTER-月の帰還- (GAME NOVELS, 978-4-7575-2536-8, 2009-03-26); story by Takashi Tokita, text by Ichiro Tezuka, illustrations by Akira Oguro; each is already an entry
+  - Sheet music: Piano Collections "FINAL FANTASY IV" (NTT Publishing, 2001-09-11, 4-7571-7014-9)
+  - Books (19): NTT Publishing guides and setting book 1991 (設定資料編 4-87188-128-8, 基礎知識編 4-87188-131-8, 戦闘解析編 4-87188-136-9, 徹底攻略編 4-87188-138-5, イージータイプ 4-87188-148-2); ファイナルファンタジー竜騎士団（ナイツ）(JICC Publishing, 1992-09, 4-7966-0435-9, type not stated); Digicube, Shueisha, Enterbrain and Square Enix guides 1997 to 2011; the guides are listed in sources/iv-group.md
+
 ## Decisions
 
 - **Not to be listed: the cancelled Famicom/NES version of Final Fantasy IV (user, 2026-11-03):** planned for the Famicom (Square, 1991, Japan) and moved to the Super Famicom before any work was done, per GamesRadar+ 'The lost Nintendo games' (2008-05-30, https://www.gamesradar.com/the-lost-nintendo-games/) and Lost Levels (2003-11, http://www.lostlevels.org/200311/200311-square.shtml); never released, so the NES is not a platform of Final Fantasy IV. Only this platform is left out: the game itself released on other platforms and stays listed on them

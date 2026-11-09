@@ -303,4 +303,44 @@
 
 - https://strategywiki.org/wiki/Dissidia_Final_Fantasy_NT -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Dissidia Final Fantasy NT article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Dissidia_Final_Fantasy_NT#External_links -- 1 links -- accessed 2026-11-09 (revision 1346570546 of 2026-04-01; wikitext read through the MediaWiki API)
+  - https://www.dissidiafinalfantasynt.com -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ディシディア ファイナルファンタジー (アーケードゲーム) article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ディシディア_ファイナルファンタジー_(アーケードゲーム)#外部リンク -- 7 links -- accessed 2026-11-09 (revision 110670170 of 2026-08-16; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/DFF/ -- アーケード版 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/dffnt/ -- ディシディアFF NT PS4版 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/dffnt/fe/ -- ディシディアFF NT Free Edition -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/DFF_Arcade -- Twitter account DFF_Arcade (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/DFF_NT_JP -- Twitter account DFF_NT_JP (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) YouTube template: {{YouTube|playlist = PLsHA74V3bmZ5efZaAZG4gPatVXQaYJq9g|DISSIDIA FINAL FANTASY NT}} -- accessed 2026-11-09
+  - http://www.finalfantasy.jp/30th/special/ -- FINAL FANTASY 30th ANNIVERSARY VOICE ACTORS LIVE DISSIDIA FINAL FANTASY 『SECRETUM-秘密-』（朗読劇公式サイト） -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Dissidia_Final_Fantasy_NT#External_links -- 19 links -- accessed 2026-11-09 (revision 4065695 of 2026-10-27; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_NT#External_links
+  - http://www.jp.square-enix.com/DFF/ -- Official site (Japanese) [Dissidia Final Fantasy (arcade)] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://blog.jp.square-enix.com/dissidiaff/ -- Official blog (Japanese) [Dissidia Final Fantasy (arcade)] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/DFF_Arcade -- Official Twitter account (Japanese) [Dissidia Final Fantasy (arcade)] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.famitsu.com/matome/dff/ -- Famitsu special site [Dissidia Final Fantasy (arcade)] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/DFF_fami -- Famitsu special Twitter account [Dissidia Final Fantasy (arcade)] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=lPrXNBevqFk -- Announcement trailer [Dissidia Final Fantasy (arcade)] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=koWnfzN9RoU -- Dissidia Arcade LiveStream April 2015 Event [Dissidia Final Fantasy (arcade)] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=PPvxy4Iq42Y -- Dissidia Arcade LiveStream May 2015 Event [Dissidia Final Fantasy (arcade)] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://youtu.be/M0oTJiy6j8g -- October 28th 2015 trailer [Dissidia Final Fantasy (arcade)] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.jp.square-enix.com/dffnt/ -- Official site (Japanese) [Dissidia Final Fantasy NT] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20180324181535/http://www.finalfantasy.jp/products/dffnt/ -- Official goods detail page (Japanese) [Dissidia Final Fantasy NT] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.dissidiafinalfantasynt.com/ -- Official site (English) [Dissidia Final Fantasy NT] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/DFF_NT_JP -- Official Twitter account (Japanese) [Dissidia Final Fantasy NT] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=fdxMyrXIN5c -- Arcade-PS4 comparison trailer [Dissidia Final Fantasy NT] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=AbS0HO1b7MQ -- Dissidia Final Fantasy NT 2017 Jump Festa trailer [Dissidia Final Fantasy NT] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://store.steampowered.com/app/921590 -- Steam Store page [Dissidia Final Fantasy NT] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Dissidia_Final_Fantasy_NT -- English Wikipedia article (interwiki link) [Dissidia Final Fantasy NT] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/102265/dissidia-final-fantasy-nt/ -- Dissidia Final Fantasy NT [Dissidia Final Fantasy NT] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/123133/dissidia-final-fantasy-nt-free-edition/ -- Dissidia Final Fantasy NT Free Edition [Dissidia Final Fantasy NT] -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

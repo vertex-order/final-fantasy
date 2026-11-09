@@ -29,4 +29,8 @@
   - agrees with the entry's description (the fate of Windaria and Misteria, and Kaze and Makenshi's first battle with Chaos)
   - the "CD drama" form is its wording
 
+## en.wikipedia.org (Information; Final Fantasy: Unlimited article, Related_media section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy:_Unlimited#Related_media -- FF:U Before - Aura Inochi Tsugu Mono: a drama CD by Avex mode, given for a limited time to buyers of the DVD boxset; a flashback story of the destruction of Kaze and Makenshi's worlds -- accessed 2026-11-09 (revision 1379290309 of 2026-10-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

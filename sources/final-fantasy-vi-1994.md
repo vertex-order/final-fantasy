@@ -740,4 +740,42 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 - https://strategywiki.org/wiki/Final_Fantasy_Anthology -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Final_Fantasy_Collection -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-08)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_VI#External_links -- seven links -- accessed 2026-11-08 (revision 4057982 of 2026-10-08; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI#External_links
+  - http://www.square-enix.co.jp/ff6/ -- Final Fantasy VI Advance official Japanese site -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://itunes.apple.com/us/app/final-fantasy-vi/id719401490?mt=8 -- iTunes Store purchase page (the app id is recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVI&hl=en -- Google Play purchase page (the app is recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://store.steampowered.com/app/382900/ -- Steam purchase page (the old version, recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_VI -- English Wikipedia article -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://www.ffcompendium.com/h/ff6hub.shtml -- Final Fantasy VI at the Final Fantasy Compendium -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://cavesofnarshe.com/ff6 -- Final Fantasy VI at Caves of Narshe -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy VI article, External links section, live page of 2026-11-08)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VI#External_links -- six links and sister-project templates (the Nintendo Final Fantasy III Virtual Console page and the MobyGames final-fantasy-iii link of the section are recorded in sources/final-fantasy-iii-1990.md) -- accessed 2026-11-08 (revision 1384474960 of 2026-11-08; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Final_Fantasy_VI -- Wikiquote sister-project link (template Wikiquote, default page name) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_VI -- Wikimedia Commons category sister-project link (template Commons category, default page name) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://en.wikibooks.org/wiki/Final_Fantasy_VI -- Wikibooks sister-project link (template wikibooks|Final Fantasy VI) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://en.wikipedia.org/wiki/File:FinalFantasyVI.ogg -- Spoken Wikipedia recording FinalFantasyVI.ogg (template Spoken Wikipedia, dated 2010-02-02) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff6/ -- Square Enix's official Final Fantasy VI Advance website (Japanese) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20070206220738/http://ffvi.nintendo.com/launch/ -- Nintendo's official Final Fantasy VI Advance website, Wayback capture of 2007-02-06 (original http://ffvi.nintendo.com/) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーVI article, 外部リンク, 参考資料 and 関連商品 sections, live page of 2026-11-08)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVI#外部リンク -- official sites, store pages and the Anthology site (the MobyGames 5202 link of the section is recorded in sources/final-fantasy-iii-1990.md) -- accessed 2026-11-08 (revision 111608616 of 2026-11-02; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ff6/ -- ファイナルファンタジーVI -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.nintendo.co.jp/wii/vc/vc_ff6/index.html -- Wii バーチャルコンソール (template Wiiバーチャルコンソール|ff6) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20151112204139/https://www.nintendo.co.jp/wiiu/software/vc/jbyj/ -- Wii U バーチャルコンソール ファイナルファンタジーVI, Wayback capture of 2015-11-12 (original https://www.nintendo.co.jp/wiiu/software/vc/jbyj/) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.nintendo.co.jp/titles/50010000042281 -- ファイナルファンタジーVI - New 3DS バーチャルコンソール -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff_collection/ -- ファイナルファンタジーコレクション -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff6a/ -- ファイナルファンタジーVI アドバンス -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.nintendo.co.jp/titles/20010000020470 -- ファイナルファンタジーVI アドバンス - Wii U バーチャルコンソール -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/ff_pixelremaster/ff6/ -- ファイナルファンタジーVI ピクセルリマスター -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://na.square-enix.com/games/anthology/ -- 参考資料: 北米PS版 Final Fantasy Anthology (this game and V in one set) official site, English -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVI#関連商品 -- related goods list -- accessed 2026-11-08 (same revision); archived: TODO
+  - Books (12): ファイナルファンタジーVI -Character collections- (Yoshitaka Amano, NTT Publishing, 1994-02; also listed as キャラクターコレクションズ, 4-87188-285-3); Vジャンプ緊急増刊 ファイナルファンタジーVI; NTT Publishing 設定資料編 (1994-02, 4-87188-299-3), 基礎知識編 (1994-04, 4-87188-300-0), 冒険ガイドブック (1994-04, 4-87188-302-7), 完全攻略編 (1994-06, 4-87188-301-9), ザ・コンプリート (1994-09, 4-87188-303-5); Digicube 幻想世界の攻略本 (1999-03, 4-925075-45-4), 大全集 改訂版 上下 (2002-06, 4-88787-044-2, 4-88787-045-0); Square Enix アドバンス 公式コンプリートガイド (2006-12, 4-7575-1846-3); listed in sources/vi-group.md
+
 ## Decisions

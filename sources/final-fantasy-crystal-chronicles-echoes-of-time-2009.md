@@ -128,4 +128,30 @@ ja.wikipedia.org (Information)
 - Page URL: https://www.nintendo.co.jp/wii/softlist/2009.html (Nintendo Japan Wii software of other makers than Nintendo, list page; Wayback capture of 2009-10-16) -- dates -- accessed 2026-11-08; archived: https://web.archive.org/web/20091016072453/http://www.nintendo.co.jp:80/wii/softlist/2009.html
   - ファイナルファンタジー・クリスタルクロニクルエコーズ・オブ・タイム; maker スクウェア・エニックス; genre label アクションRPG; release date listed January 29 (list of 2009 January to June releases); link to an item page https://www.nintendo.co.jp/wii/software/rffj/index.html
 
+## en.wikipedia.org (Information; Final Fantasy Crystal Chronicles: Echoes of Time article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time#External_links -- 3 links -- accessed 2026-11-09 (revision 1383305848 of 2026-11-02; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/ffcc/eot/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20090227063734/http://na.square-enix.com/ffcceot -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20090327052355/http://wii.ign.com/articles/965/965695p1.html -- Wii version review at IGN -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジー・クリスタルクロニクル エコーズ・オブ・タイム article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル_エコーズ・オブ・タイム#外部リンク -- 1 links -- accessed 2026-11-09 (revision 110814214 of 2026-08-29; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ffcc_eot/ -- ファイナルファンタジー・クリスタルクロニクル エコーズ・オブ・タイム -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy Crystal Chronicles: Echoes of Time page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time#External_links -- 3 links -- accessed 2026-11-09 (revision 20735 of 2026-10-28; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20090703193639/http://www.square-enix.co.jp/ffcc/eot/ -- Japanese website [Official websites] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20100225224414/http://na.square-enix.com/ffcceot/ -- North American website [Official websites] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time -- Final Fantasy Crystal Chronicles: Echoes of Time [Other wikis] -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time#External_links -- 2 links -- accessed 2026-11-09 (revision 3882037 of 2024-12-21; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time#External_links
+  - http://www.square-enix.co.jp/ffcc/eot/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://na.square-enix.com/ffcceot/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

@@ -81,4 +81,8 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
 
 - https://en.wikipedia.org/wiki/List_of_novels_based_on_video_games -- Final Fantasy section, row "Final Fantasy I * II * III: Memory of Heroes" (author Takashi Umemura; Yen On; language column Japanese; ISBN 9781975382391; note: novelization of the first three Final Fantasy games; revision 1380085790 of 2026-10-13) -- accessed 2026-11-03; archived: TODO
 
+## en.wikipedia.org (Information; Final Fantasy II article, Legacy section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_II#Legacy -- a second novelization by Takashi Umemura covering the first three games: Square Enix 2019, Yen Press worldwide 2020 (the same sentence is on the Final Fantasy III article) -- accessed 2026-11-09 (revision 1382449708 of 2026-10-28; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

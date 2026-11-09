@@ -35,4 +35,12 @@ wikipedia.org (Information)
   - consistent with the entry (a web novel after Unlimited After)
   - no new fact
 
+## en.wikipedia.org (Information; Final Fantasy: Unlimited article, Related_media section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy:_Unlimited#Related_media -- FF:U After Spiral: a serial web novel by Sho Katigiri, supervised by Atsuhiro Tomioka, published on the official Japanese FF:U website; seven chapters and one spin-off chapter, set after the events of FF:U After -- accessed 2026-11-09 (revision 1379290309 of 2026-10-09; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; FF：U_〜ファイナルファンタジー:アンリミテッド〜 article, 続編 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜#続編 -- listed in the sequel section as a work that continues the story left unresolved when the series was cut to 25 episodes after Square withdrew as sponsor in March 2002: the web novel FF:U After Spiral (its official site closed around 2004; the web novel is unfinished, with the plots of unpublished parts printed on a drama CD jacket) -- accessed 2026-11-09 (revision 111204422 of 2026-09-29; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

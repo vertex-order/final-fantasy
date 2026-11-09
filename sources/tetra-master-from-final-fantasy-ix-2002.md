@@ -63,3 +63,24 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Capture: live (2026-11-03) pages: search results for "tetra master" (first 50 of 2043, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
   - Tetra Master (2002) -- type label Main Game; platforms shown: PlayStation 2, PC (Microsoft Windows); released 2002-05-16
     - https://www.igdb.com/games/tetra-master -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Tetra_Master_(PlayOnline)#External_links -- six links -- accessed 2026-11-09 (revision 3202331 of 2020-01-03; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Tetra_Master_(PlayOnline)#External_links
+  - http://web.archive.org/web/20101205210721/http://www.playonline.com/tetra/ -- PlayOnline Tetra Master website (Japanese), Wayback capture of 2010-12-05 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://ja.wikipedia.org/wiki/テトラマスターFrom_FINALFANTASY_IX -- Tetra Master on Japanese Wikipedia (recorded below) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.thetomas.net/images/ffxi/North%20American%20In-Game%20Support_edit.pdf -- Final Fantasy XI & Tetra Master support document (a PDF; also recorded in sources/final-fantasy-xi-online-2002.md) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://patents.google.com/patent/JP2003088684A/ja -- Square Enix patent JP2003088684A -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://web.archive.org/web/20100329060705/http://www.playonline.com/ff11eu/envi/charge.html -- Tetra Master pricing (English), Wayback capture of 2010-03-29 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://web.archive.org/web/20110104041614/http://www.playonline.com/tetra/about.html -- Tetra Master pricing (Japanese), Wayback capture of 2011-01-04 -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; テトラマスターFrom FINALFANTASY IX article, 外部リンク and 関連項目 sections, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/テトラマスターFrom_FINALFANTASY_IX#外部リンク -- one link -- accessed 2026-11-09 (revision 95436216 of 2023-05-31; wikitext read through the MediaWiki API)
+  - http://www.playonline.com/home/polcom/online04.html -- テトラマスターとは - PlayOnline.com -- link recorded only -- accessed 2026-11-09; archived: TODO
+- https://ja.wikipedia.org/wiki/テトラマスターFrom_FINALFANTASY_IX#関連項目 -- three related articles: ファイナルファンタジーIX, ファイナルファンタジーX, ファイナルファンタジーXI; every one is already an entry -- accessed 2026-11-09 (same revision)
+
+## ja.wikipedia.org (Information; ファイナルファンタジーIX article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIX#関連商品 -- テトラマスターFrom FINALFANTASY IX listed under その他: a PlayOnline online game for Windows and PS2, in operation from 2002 to 2006 -- accessed 2026-11-09 (revision 111292135 of 2026-10-06; wikitext read through the MediaWiki API); archived: TODO

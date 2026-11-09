@@ -112,4 +112,32 @@
 
 - https://strategywiki.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King -- listed in Category:Final Fantasy Crystal Chronicles -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy Crystal Chronicles: My Life as a King article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King#External_links -- 3 links -- accessed 2026-11-09 (revision 1383145234 of 2026-11-01; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20110401004908/http://www.mlakgame.com/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20090307031219/http://na.square-enix.com/mylifeasaking/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/littleking/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; 小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/小さな王様と約束の国_ファイナルファンタジー・クリスタルクロニクル#外部リンク -- 1 links -- accessed 2026-11-09 (revision 110253818 of 2026-07-12; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/littleking/ -- 小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy Crystal Chronicles: My Life as a King page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King#External_links -- 4 links -- accessed 2026-11-09 (revision 20635 of 2026-10-28; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20081217022856/http://www.square-enix.co.jp/littleking/ -- Japanese website [Official websites] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20090307031219/http://na.square-enix.com/mylifeasaking/ -- North American website [Official websites] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20090123220829/http://www.mlakgame.com/ -- European website [Official websites] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King -- Final Fantasy Crystal Chronicles: My Life as a King [Other wikis] -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King#External_links -- 3 links -- accessed 2026-11-09 (revision 4005758 of 2026-04-28; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King#External_links
+  - http://www.square-enix.co.jp/littleking/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://na.square-enix.com/mylifeasaking/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.mlakgame.com/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

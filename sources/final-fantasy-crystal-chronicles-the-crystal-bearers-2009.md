@@ -87,4 +87,30 @@ Square Enix (Publisher, Developer)
   - Columns in order: Title; Developer(s); Publisher(s); First released; Release date (NTSC); Release date (PAL)
   - Row: Final Fantasy Crystal Chronicles: The Crystal Bearers; Square Enix; Square Enix; 2009-11-12JP; 2009-11-12; 2009-12-26; 2010-02-05; 2010-02-05
 
+## en.wikipedia.org (Information; Final Fantasy Crystal Chronicles: The Crystal Bearers article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers#External_links -- 1 links -- accessed 2026-11-09 (revision 1365011565 of 2026-07-19; wikitext read through the MediaWiki API)
+  - (no URL) official website template with no URL on the page (taken from Wikidata, not resolved) -- accessed 2026-11-09
+
+## ja.wikipedia.org (Information; ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル_クリスタルベアラー#外部リンク -- 3 links -- accessed 2026-11-09 (revision 110643568 of 2026-08-14; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20100301133555/http://www.crystalbearers.jp/ -- Wayback capture of 20100301133555 (ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ffcc_tcb/ -- スクウェア・エニックス内紹介ページ -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.nintendo.co.jp/wii/interview/rfcj/vol1/index.html -- 社長が訊く 『ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー』 -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy Crystal Chronicles: The Crystal Bearers page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers#External_links -- 2 links -- accessed 2026-11-09 (revision 20895 of 2026-10-29; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20100124142326/http://www.crystalbearers.com/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers -- Final Fantasy Crystal Chronicles: The Crystal Bearers -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers#External_links -- 3 links -- accessed 2026-11-09 (revision 4058524 of 2026-10-09; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers#External_links
+  - http://www.crystalbearers.com/ -- Official Global Website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.crystalbearers.jp/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.thecrystalbearers.com/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

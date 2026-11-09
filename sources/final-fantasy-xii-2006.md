@@ -382,4 +382,59 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
 
 - https://strategywiki.org/wiki/Final_Fantasy_XII -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy XII article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_XII#External_links -- 4 links -- accessed 2026-11-09 (revision 1384558544 of 2026-11-08; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Final_Fantasy_XII -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_XII -- Wikimedia Commons sister-project link (template commons category) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikibooks.org/wiki/Final_Fantasy_XII -- Wikibooks sister-project link (template wikibooks) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.finalfantasyxii.com/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーXII article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXII#外部リンク -- 8 links -- accessed 2026-11-09 (revision 111444197 of 2026-10-19; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ff12/ -- ファイナルファンタジーXII -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff12zjs/ -- ファイナルファンタジーXII インターナショナル ゾディアックジョブシステム -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ff12_tza/ -- FINAL FANTASY XII THE ZODIAC AGE -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/FFXII_ZODIAC -- Twitter account FFXII_ZODIAC (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) template not resolved: {{Instagram|ffxii_tza|FFXII THE ZODIAC AGE}} -- accessed 2026-11-09
+  - (no URL) YouTube template: {{YouTube|playlist = PLsHA74V3bmZ4w3gTlAt8aGzy_pcImYqik|ファイナルファンタジー XII ザ ゾディアック エイジ}} -- accessed 2026-11-09
+  - https://www.youtube.com/channel/UCoCJLU8VHMfKtVVPBqdlz3w -- YouTube channel (template YouTube|c=UCoCJLU8VHMfKtVVPBqdlz3w) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://store.steampowered.com/app/595520 -- Steam (template Steam app|595520) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy XII page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_XII#External_links -- 1 links -- accessed 2026-11-09 (revision 20445 of 2026-10-13; wikitext read through the MediaWiki API)
+  - https://en.wikipedia.org/wiki/Final_Fantasy_XII -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XII#External_links -- 25 links -- accessed 2026-11-09 (revision 4029980 of 2026-08-06; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII#External_links
+  - https://web.archive.org/web/20081229233804/http://www.ff12.com/ -- Official site (Japanese) [Final Fantasy XII] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20081221052044/http://www.ff12.com/main.html -- Final Fantasy XII official site main page (Japanese) [Final Fantasy XII] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff12/ -- Final Fantasy XII official Square Enix game detail page (Japanese) [Final Fantasy XII] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/slpm-55022.html -- Final Fantasy XII [Final Fantasy XII] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20160704220908/http://www.finalfantasy.jp/products/uh-ff12/ -- Ultimate Hits Final Fantasy XII official goods detail page (Japanese) [Final Fantasy XII] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20071228225158/http://www.finalfantasyxii.com/ -- Official site (North American) [Final Fantasy XII] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20081219092827/http://www.ff12.com/zjs/zjs.html -- Final Fantasy XII International Zodiac Job System official site main page (Japanese) [Final Fantasy XII International Zodiac Job System] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff12zjs/ -- Final Fantasy XII International Zodiac Job System official Square Enix game detail page (Japanese) [Final Fantasy XII International Zodiac Job System] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/slpm-55210.html -- Final Fantasy XII International Zodiac Job System [Final Fantasy XII International Zodiac Job System] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20110911215352/http://www.finalfantasy.jp/products/uh-ff12zjs/ -- Ultimate Hits Final Fantasy XII International Zodiac Job System official goods detail page (Japanese) [Final Fantasy XII International Zodiac Job System] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ff12_tza/ -- Final Fantasy XII The Zodiac Age official site (Japanese) [Final Fantasy XII The Zodiac Age] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20170704222931/http://www.finalfantasy.jp/products/ff12_tza/ -- Final Fantasy XII The Zodiac Age (PlayStation 4) official goods detail page (Japanese) [Final Fantasy XII The Zodiac Age] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20180410053256/http://www.finalfantasy.jp/products/ff12_tza_pc/ -- Final Fantasy XII The Zodiac Age (Windows) official goods detail page (Japanese) [Final Fantasy XII The Zodiac Age] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.instagram.com/ffxii_tza/ -- Official Instagram account (Japanese) [Final Fantasy XII The Zodiac Age] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-XII-THE-ZODIAC-AGE -- Final Fantasy XII The Zodiac Age [Final Fantasy XII The Zodiac Age] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://jp.finalfantasy.com/titles/finalfantasy12 -- Final Fantasy XII [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://na.finalfantasy.com/titles/finalfantasy12 -- Final Fantasy XII [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://eu.finalfantasy.com/titles/finalfantasy12 -- Final Fantasy XII [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_XII -- English Wikipedia article (interwiki link) [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/21692/final-fantasy-xii/ -- Final Fantasy XII [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/29871/final-fantasy-xii-international-zodiac-job-system/ -- Final Fantasy XII: International Zodiac Job System [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/92422/final-fantasy-xii-the-zodiac-age/ -- Final Fantasy XII: The Zodiac Age [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.ffxii.net/ -- Final Fantasy XII.net, a fansite [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.ffxii.us/ -- Final Fantasy XII US - fansite [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.ffcompendium.com/h/ff12hub.shtml -- Final Fantasy XII at the Final Fantasy Compendium [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

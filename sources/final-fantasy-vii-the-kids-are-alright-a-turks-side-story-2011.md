@@ -64,4 +64,8 @@ goodreads.com (Information)
 - No release-order suffix: it shares December 15, 2011 with Fragments Before and the XIII-2 game, but those are in other series, and a suffix is only needed for same-series conflicts
 - Description: a short intro, not a summary
 
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Books section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- The Kids Are Alright: A Turks Side Story: a novel by Kazushige Nojima set a short time before Advent Children, illustrated by Shou Tajima and released 2011-12-15; the English version was released by Yen Press on 2019-01-22 -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

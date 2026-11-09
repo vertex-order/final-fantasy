@@ -229,4 +229,31 @@
 
 - https://strategywiki.org/wiki/Final_Fantasy_Explorers -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy Explorers article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Explorers#External_links -- 1 links -- accessed 2026-11-09 (revision 1378627484 of 2026-10-05; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/ffex/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジー エクスプローラーズ article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー_エクスプローラーズ#外部リンク -- 1 links -- accessed 2026-11-09 (revision 109759323 of 2026-05-31; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/ffex/ -- ファイナルファンタジー エクスプローラーズ 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy Explorers page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Explorers#External_links -- 1 links -- accessed 2026-11-09 (revision 20583 of 2026-10-27; wikitext read through the MediaWiki API)
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Explorers -- Final Fantasy Explorers -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Explorers#External_links -- 7 links -- accessed 2026-11-09 (revision 4027123 of 2026-07-27; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Explorers#External_links
+  - https://web.archive.org/web/20160124193029/http://jp.square-enix.com/ffex/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20160817090924/http://www.finalfantasyexplorers.com/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ffex/ -- Square Enix official game detail page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-EXPLORERS -- Final Fantasy Explorers -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/ffexp3 -- Official Twitter account (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Explorers -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/85346/final-fantasy-explorers/ -- Final Fantasy Explorers -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

@@ -469,4 +469,46 @@ Page URL by capture: 2024-05-18 to 2024-06-23 https://marketplace.xbox.com/en-GB
 
 - https://wiki.seiwanetwork.org/wiki/Final_Fantasy_XIII -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_XIII -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
+## en.wikipedia.org (Information; Final Fantasy XIII article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_XIII#External_links -- 2 links -- accessed 2026-11-09 (revision 1383231134 of 2026-11-01; wikitext read through the MediaWiki API)
+  - (no URL) official website template with no URL on the page (taken from Wikidata, not resolved) -- accessed 2026-11-09
+  - https://www.mobygames.com/game/final-fantasy-xiii -- MobyGames entry (template mobygames id /final-fantasy-xiii) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーXIII article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII#外部リンク -- 4 links -- accessed 2026-11-09 (revision 109888938 of 2026-06-11; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/fabula/FF13_Portal/ -- FINAL FANTASY XIII -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff13/ -- ファイナルファンタジーXIII -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/fabula/FF13_Portal/ff13/xbox360/ -- FINAL FANTASY XIII ULTIMATE HITS INTERNATIONAL for XBOX 360 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://store.steampowered.com/app/292120 -- Steam (template Steam app|292120) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy XIII page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_XIII#External_links -- 1 links -- accessed 2026-11-09 (revision 20900 of 2026-10-29; wikitext read through the MediaWiki API)
+  - https://en.wikipedia.org/wiki/Final_Fantasy_XIII -- Final Fantasy XIII -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIII#External_links -- 14 links -- accessed 2026-11-09 (revision 4063426 of 2026-10-22; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII#External_links
+  - http://www.square-enix.co.jp/fabula/ff13/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/fabula/ff13/xbox360/index.html -- Official Japanese Xbox 360 site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://na.square-enix.com/ff13 -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://na.square-enix.com/e306/titles/fabula -- Fabula Nova Crystallis Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.finalfantasy13game.com -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://store.steampowered.com/app/292120/ -- Steam Purchase Page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.play-asia.com/SOap-23-83-49qb-71-bp-49-en-84-j-70-3k25.html -- Final Fantasy XIII at Play-Asia.com -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.amazon.com/gp/product/B000FQ2DTA?ie=UTF8&tag=rg1337-00-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000FQ2DTA -- Final Fantasy XIII at Amazon.com -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_XIII -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/43866/final-fantasy-xiii/ -- MobyGames -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.gamepro.com/sony/ps3/28184/info.shtml -- Final Fantasy XIII Profile Page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/e306/titles/fabula/ff13/e3trailer.html -- E³ Teaser Trailer at Official Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.gametrailers.com/gamepage.php?id=2649 -- E³ Teaser Trailer at Gametrailers.com -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://ps3.ign.com/dor/objects/826843/final-fantasy-xiii/videos/ffxiii_trl_adventchildren_52109.html -- E³ 2009 Extended Trailer at IGN -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

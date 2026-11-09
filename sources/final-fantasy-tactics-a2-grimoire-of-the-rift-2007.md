@@ -80,4 +80,32 @@
 
 - https://strategywiki.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift -- listed in Category:Final Fantasy Tactics -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy Tactics A2: Grimoire of the Rift article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift#External_links -- 3 links -- accessed 2026-11-09 (revision 1319274505 of 2025-10-28; wikitext read through the MediaWiki API)
+  - http://www.ffta2.com/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.ffta2game.com/ -- European official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20080322000346/http://na.square-enix.com/ffta2/ -- North American official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジータクティクス A2 封穴のグリモア article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクス_A2_封穴のグリモア#外部リンク -- 1 links -- accessed 2026-11-09 (revision 110335883 of 2026-07-19; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ffta2/ -- ファイナルファンタジータクティクスA2 封穴のグリモア -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy Tactics A2: Grimoire of the Rift page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift#External_links -- 3 links -- accessed 2026-11-09 (revision 18564 of 2026-08-15; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20090114122413/http://www.ffta2.com/ -- Japanese website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20090119182554/http://na.square-enix.com/ffta2/ -- North American website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20090122021342/http://ffta2game.com/ -- European website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift#External_links -- 4 links -- accessed 2026-11-09 (revision 3974132 of 2025-11-29; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift#External_links
+  - http://www.ffta2.com/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://na.square-enix.com/ffta2/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.ffta2game.com/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://member.square-enix.com/na/features/ffta2/ -- FFTA2 at Square Enix Members -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

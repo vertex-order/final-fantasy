@@ -34,8 +34,26 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 - https://www.metacritic.com/game/final-fantasy-iii-pixel-remaster/
 - https://www.metacritic.com/game/final-fantasy-iii-3d-remake/
 
+## mobygames.com (Information)
+
+- https://www.mobygames.com/game/final-fantasy-iii -- the MobyGames entry, linked from en.wikipedia's External links (not fetched) -- accessed 2026-11-08; archived: TODO
+- https://www.mobygames.com/game/7322/final-fantasy-iii/ -- the MobyGames entry, linked from ja.wikipedia's 外部リンク (my fetch returned HTTP 403, page not read) -- accessed 2026-11-08; archived: TODO
+
+## imdb.com (Information)
+
+- https://www.imdb.com/title/tt0207486/ -- the IMDb title page linked from en.wikipedia's External links (my fetch returned HTTP 202, page not read) -- accessed 2026-11-08; archived: TODO
+
+## Official websites (Publisher; Wayback captures linked by en.wikipedia)
+
+- http://na.square-enix.com/ff3/ -- the official North American website; en.wikipedia links the capture https://web.archive.org/web/20080625120148/http://na.square-enix.com/ff3/ (HTTP 200; page not read) -- accessed 2026-11-08
+- http://www.finalfantasy3.eu.com/ -- the official European website; en.wikipedia links the capture https://web.archive.org/web/20080129112533/http://www.finalfantasy3.eu.com/ (my fetch returned HTTP 429, not read) -- accessed 2026-11-08
+- http://www.square-enix.co.jp/ff3/ -- the official Japanese website, linked from en.wikipedia's External links (HTTP 200; page not read; Wayback captures of it are recorded in the Square Enix Japan list sections) -- accessed 2026-11-08
+
 ## Nintendo (Platform)
 
+- https://www.nintendo.co.jp/wii/vc/vc_ff3/index.html -- the Wii Virtual Console page of Final Fantasy III (Japan), linked from ja.wikipedia's 外部リンク (HTTP 200; page not read) -- accessed 2026-11-08; archived: TODO
+- https://www.nintendo.co.jp/wiiu/software/vc/fbyj/ -- the Wii U Virtual Console page of Final Fantasy III (Japan), linked from ja.wikipedia's 外部リンク as a Wayback capture; the live URL returns HTTP 404 -- accessed 2026-11-08; archived: https://web.archive.org/web/20140818044942/https://www.nintendo.co.jp/wiiu/software/vc/fbyj/ (the capture ja.wikipedia links; HTTP 200, page not read)
+- https://www.nintendo.co.jp/3ds/eshop/vc/tdvj/ -- the Nintendo 3DS Virtual Console page of Final Fantasy III (Japan), linked from ja.wikipedia's 外部リンク; the live URL returns HTTP 404 -- accessed 2026-11-08; archived: TODO
 - https://www.nintendo.com/store/products/final-fantasy-iii-switch/
 
 ## Playstation (Platform)
@@ -792,6 +810,45 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 ## strategywiki.org (Information)
 
 - https://strategywiki.org/wiki/Final_Fantasy_III -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
+## en.wikipedia.org (Information; Final Fantasy III article, Legacy and External links sections, live page of 2026-11-08)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_III#Legacy -- related works named in the section -- accessed 2026-11-08 (revision 1381643491 of 2026-10-23; wikitext read through the MediaWiki API); archived: TODO
+  - Manga Legend of the Eternal Wind, from Final Fantasy III: written by Terada, illustrated by Yu Kinutani, serialized in Kadokawa Shoten's Maru Katsu Famicom 1990 to 1992, three tankōbon in Dragon Comics
+  - Novelization by Takashi Umemura covering the first three games: Square Enix 2019, Yen Press worldwide 2020
+  - Appearances in other games: the Onion Knight and Cloud of Darkness in Dissidia Final Fantasy (2009) and its sequels; the Cloud of Darkness and the Crystal Tower worked into Final Fantasy XIV (2013)
+- https://en.wikipedia.org/wiki/Final_Fantasy_III#External_links -- five links: MobyGames, IMDb title 0207486, the official North American and European websites (Wayback captures of 2008-06-25 and 2008-01-29), the official Japanese website http://www.square-enix.co.jp/ff3/ -- accessed 2026-11-08 (same revision); each recorded in the sections above
+
+## ja.wikipedia.org (Information; Final Fantasy III article, 関連商品 and 外部リンク sections, live page of 2026-11-08)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIII#関連商品 -- related goods list -- accessed 2026-11-08 (revision 111042702 of 2026-09-16; wikitext read through the MediaWiki API); archived: TODO
+  - Manga 悠久の風伝説 ファイナルファンタジーIIIより (3 volumes, Kadokawa Shoten Dragon Comics, 1991 and 1992; original story Terada, art Yu Kinutani; ISBNs 4-04-926028-X, 4-04-926033-6, 4-04-926037-9), serialized in マル勝ファミコン; worldview, characters and story differ somewhat from the game
+  - Guidebooks (5): listed in sources/iii-group.md
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIII#外部リンク -- seven external links, one of them a Spotify soundtrack album that is out of scope -- accessed 2026-11-08 (same revision); the others are recorded in the sections above, the two Square Enix Japan pages (https://www.jp.square-enix.com/game/detail/ff3/, https://www.jp.square-enix.com/ff_pixelremaster/ff3/) in the Square Enix Japan list sections
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-08)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_III#External_links -- seven links -- accessed 2026-11-08 (revision 4063232 of 2026-10-21; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III#External_links
+  - http://www.square-enix.co.jp/ff3/ -- Final Fantasy III DS, official Japanese site (also recorded in the Official websites section above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://na.square-enix.com/ff3/ -- Final Fantasy III DS, official North American site (also recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://itunes.apple.com/us/app/final-fantasy-iii/id424591347?mt=8 -- iTunes Store purchase page (the app id is recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP -- Google Play purchase page (also recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://www.windowsphone.com/en-gb/store/app/final-fantasy-iii/14ee2c62-1f7d-4e57-8380-5433d4df54b2 -- Windows Phone Store purchase page (the en-us capture is recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://store.steampowered.com/agecheck/app/239120/ -- Steam purchase page (the agecheck link is recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_III -- the English Wikipedia article (recorded in the wikipedia.org section) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## finalfantasywiki.com (Information; External links section, live page of 2026-11-08)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_III#External_links -- two links -- accessed 2026-11-08 (revision 18543 of 2026-08-15; wikitext read through the MediaWiki API)
+  - http://www.finalfantasykingdom.net/finalfantasyiiimain.php -- NES version on Final Fantasy Kingdom -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyIII -- Final Fantasy III on TV Tropes Wiki -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## mobygames.com and nintendo.com (Information; entries titled Final Fantasy III, linked from the Final Fantasy VI articles)
+
+- https://www.mobygames.com/game/final-fantasy-iii__ -- MobyGames entry titled Final Fantasy III (the template on en.wikipedia's Final Fantasy VI article, id /final-fantasy-iii__); linked from en.wikipedia.org (Final Fantasy VI article, External links, revision 1384474960 of 2026-11-08) -- link recorded only -- accessed 2026-11-08; archived: TODO
+- https://web.archive.org/web/20170520193650/http://www.nintendo.com/games/detail/OigVvvf6JgWeQO2gAF5ugBly8egBSaH6 -- Nintendo's official Final Fantasy III (Virtual Console version) website, Wayback capture of 2017-05-20, in English; linked from en.wikipedia.org (Final Fantasy VI article, External links, revision 1384474960 of 2026-11-08) -- link recorded only -- accessed 2026-11-08; archived: TODO
+- https://www.mobygames.com/game/5202/final-fantasy-iii/ -- MobyGames entry titled Final Fantasy III (template MobyGames id /5202/final-fantasy-iii/); linked from ja.wikipedia.org (ファイナルファンタジーVI article, 外部リンク, revision 111608616 of 2026-11-02) -- link recorded only -- accessed 2026-11-08; archived: TODO
 
 ## Decisions
 

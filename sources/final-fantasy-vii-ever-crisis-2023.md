@@ -272,4 +272,32 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww -- app listed in the developer page captures of 2024-02-02, 2025-01-17, 2026-01-05 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20240202214202/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20260105211845/https://play.google.com/store/apps/dev?id=8026010256970589886
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Ever_Crisis#External_links -- eight links -- accessed 2026-11-09 (revision 4067103 of 2026-10-29; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Ever_Crisis#External_links
+  - https://www.jp.square-enix.com/ffvii_ec/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://ffvii-ever-crisis.square-enix-games.com/en-us/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-VII-EVER-CRISIS -- Square Enix North America Press Hub -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFVII_EC_JP -- Official Twitter account, Japanese (an xcancel mirror of https://x.com/FFVII_EC_JP) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFVII_EC_EN -- Official Twitter account, English (an xcancel mirror of https://x.com/FFVII_EC_EN) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/FinalFantasyVIIEC -- Official Facebook page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis -- English Wikipedia article -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/208518/final-fantasy-vii-ever-crisis/ -- MobyGames entry -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy VII: Ever Crisis article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis#External_links -- one link -- accessed 2026-11-09 (revision 1380390036 of 2026-10-15; wikitext read through the MediaWiki API)
+  - https://ffvii-ever-crisis.square-enix-games.com/en-us/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーVII エバークライシス article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVII_エバークライシス#外部リンク -- two links -- accessed 2026-11-09 (revision 111305079 of 2026-10-07; wikitext read through the MediaWiki API)
+  - https://jp.ffviiec.com/ -- 公式サイト (also recorded above) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/FFVII_EC_JP -- Twitter account FFVII_EC_JP (template Twitter; the account is the one the Fandom page links as an xcancel mirror) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Video_games section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Ever Crisis: a role-playing game released in September 2023 for iOS and Android and in December 2023 for Windows, an episodic single-player game that retells the events of the canon Compilation titles and adds new narrative material -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

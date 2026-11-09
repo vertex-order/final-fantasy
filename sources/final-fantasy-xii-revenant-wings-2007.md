@@ -89,4 +89,25 @@
 
 - https://strategywiki.org/wiki/Final_Fantasy_XII:_Revenant_Wings -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy XII: Revenant Wings article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings#External_links -- 2 links -- accessed 2026-11-09 (revision 1359028243 of 2026-06-12; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/ff12rw/ -- Final Fantasy XII Revenant Wings official website for Japan -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://na.square-enix.com/ffxiirw/ -- Final Fantasy XII Revenant Wings official website for North America -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーXII レヴァナント・ウイング article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXII_レヴァナント・ウイング#外部リンク -- 2 links -- accessed 2026-11-09 (revision 111104643 of 2026-09-22; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ff12rw/ -- ファイナルファンタジーXII レヴァナント・ウイング -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.thinkandfeel.co.jp/ -- シンク・アンド・フィール -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XII:_Revenant_Wings#External_links -- 4 links -- accessed 2026-11-09 (revision 4011230 of 2026-05-29; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII:_Revenant_Wings#External_links
+  - http://www.square-enix.co.jp/ff12rw/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://na.square-enix.com/ffxiirw/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.ff12revenantwings.eu.com/en/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/32289/final-fantasy-xii-revenant-wings/ -- Final Fantasy XII: Revenant Wings -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

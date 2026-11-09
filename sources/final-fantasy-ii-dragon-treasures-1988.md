@@ -51,6 +51,7 @@ Alternate names (searcher evidence, 2026-10-19)
 - The Hidden Dragon (Firefox machine translation, seen by user)
 - Treasure of Dragon (printed on the book's English copyright page)
 - Google (seen by user): "final fantasy II Dragon Treasures" and "final fantasy II Dragon of Hidden Treasure" both bring the Fandom wiki first and The Video Game Library next; without "II", "Dragon Treasures" still finds the wiki on page one while "Dragon of Hidden Treasure" finds only The Video Game Library
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーII#関連商品 -- 秘宝のドラゴン: Futabasha Famicom adventure gamebook, 1989年1月19日, author 井上尚美, editor レッカ社; Firion, Maria, Guy and Minwu set out for the treasure that can topple the Empire; Maria is drawn as Princess Fynn -- accessed 2026-11-08 (revision 110746553 of 2026-08-23); archived: TODO
 
 ## Surveyed
 

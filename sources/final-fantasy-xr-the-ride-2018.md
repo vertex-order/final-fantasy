@@ -15,6 +15,10 @@ otakumode.com (Information; Otapedia)
 - No official page found; Wikipedia, Wayback captures of the USJ page and reviews not looked up
 - Ride mechanics (moving seats): not confirmed; Otapedia says the airship is "full of movement"
 
+## en.wikipedia.org (Information; Final Fantasy VII article, Related_media_and_merchandise section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII#Related_media_and_merchandise -- a Final Fantasy VII-themed virtual reality attraction opened in 2018 by Universal Studios Japan -- accessed 2026-11-09 (revision 1384600092 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Included as a Movie with the subtitle Ride (user): unlike the cafes (sources/final-fantasy-franchise.md), it has an original story and destination appeal

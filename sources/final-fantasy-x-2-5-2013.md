@@ -72,4 +72,13 @@ youtube.com (Information)
 goodreads.com (Information)
 - https://www.goodreads.com/book/show/23978849-final-fantasy-x-2-5-final-fantasy-x-2-5 -- format* (242 pages, Paperback, first published December 26, 2013, original title "Final Fantasy X-2.5 永遠の代償"; no bunko imprint shown, so the platform stays Novel) -- accessed 2026-10-09
 
+## en.wikipedia.org (Information; Final Fantasy X article, Legacy section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_X#Legacy -- "As part of celebrations for Final Fantasy X's 25th anniversary, Square Enix released Nojima's Final Fantasy X-2.5 novella digitally for the first time": a digital release of the novella, so the book also exists digitally -- accessed 2026-11-09 (revision 1384301795 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+  - The statement gives no store, date or language; the Google Books page above shows a Japanese ebook edition dated December 26, 2013, which the statement does not account for
+
+## ja.wikipedia.org (Information; ファイナルファンタジーX-2 article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2#関連商品 -- 小説 FINAL FANTASY X-2.5〜永遠の代償〜 listed among the books (ISBN 978-4-7575-4157-3) -- accessed 2026-11-09 (revision 111104655 of 2026-09-22; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

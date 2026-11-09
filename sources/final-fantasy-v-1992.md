@@ -724,4 +724,53 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 - https://strategywiki.org/wiki/Final_Fantasy_Anthology -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Final_Fantasy_Collection -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-08)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_V#External_links -- seven links -- accessed 2026-11-08 (revision 4063233 of 2026-10-21; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V#External_links
+  - http://www.square-enix.co.jp/ff5/ -- Final Fantasy V Advance official Japanese site -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://na.square-enix.com/games/anthology/ -- Final Fantasy Anthology official English site -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://ffv.nintendo.com/launch/ -- Final Fantasy V Advance official English site -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://itunes.apple.com/us/app/final-fantasy-v/id609577016?mt=8 -- iTunes Store purchase page (the app id is recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFV_GP&hl=en -- Google Play purchase page (the app is recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://store.steampowered.com/app/382890/ -- Steam purchase page (the old version, recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_V -- English Wikipedia article -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## finalfantasywiki.com (Information; External links section, live page of 2026-11-08)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_V#External_links -- two links -- accessed 2026-11-08 (revision 18552 of 2026-08-15; wikitext read through the MediaWiki API)
+  - https://gamefaqs.gamespot.com/snes/588331-final-fantasy-v -- GameFAQs SNES page (template GameFAQs|snes|588331-final-fantasy-v) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.mobygames.com/game/final-fantasy-v -- MobyGames entry (template MobyGames|final-fantasy-v) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy V article, External links section, live page of 2026-11-08)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_V#External_links -- three links and two sister-project templates -- accessed 2026-11-08 (revision 1381634682 of 2026-10-23; wikitext read through the MediaWiki API)
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_V -- Wikimedia Commons category sister-project link (template Commons category, default page name) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://en.wikiquote.org/wiki/Final_Fantasy_V -- Wikiquote sister-project link (template wikiquote, default page name) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20120607084012/http://na.square-enix.com/finalfantasyv -- Official Final Fantasy V website (US Anthology version), Wayback capture of 2012-06-07 -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20071012141952/http://ffv.nintendo.com/launch/noflash.html -- Nintendo's official Final Fantasy V Advance website, Wayback capture of 2007-10-12 -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://www.square-enix.co.jp/ff5/ -- Official Final Fantasy V Advance website (Japanese) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーV article, 外部リンク, 関連商品 and 派生作品 sections, live page of 2026-11-08)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーV#外部リンク -- official sites, store pages, MobyGames and YouTube -- accessed 2026-11-08 (revision 111160450 of 2026-09-26; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ff5/ -- ファイナルファンタジーV (公式サイト) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.nintendo.co.jp/wii/vc/vc_ff5/index.html -- Wii バーチャルコンソール (template Wiiバーチャルコンソール|ff5) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20151105045217/https://www.nintendo.co.jp/wiiu/software/vc/jb6j/ -- Wii U バーチャルコンソール ファイナルファンタジーV, Wayback capture of 2015-11-05 (original https://www.nintendo.co.jp/wiiu/software/vc/jb6j/) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.nintendo.co.jp/titles/50010000042363 -- ファイナルファンタジーV - New 3DS バーチャルコンソール -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff_collection/ -- ファイナルファンタジーコレクション -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff5a/ -- ファイナルファンタジーV アドバンス -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.nintendo.co.jp/titles/20010000021789 -- ファイナルファンタジーV アドバンス - Wii U バーチャルコンソール -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/ff_pixelremaster/ff5/ -- ファイナルファンタジーV ピクセルリマスター -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://store.steampowered.com/app/1173810 -- Steam (template Steam app|1173810) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.mobygames.com/game/4876/final-fantasy-v/ -- MobyGames, Final Fantasy V -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.mobygames.com/game/61502/final-fantasy-v-advance/ -- MobyGames, Final Fantasy V Advance -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.youtube.com/channel/UCkEOd8m3qnHYxG78Rm8Ow5A -- YouTube channel (template YouTube|c=UCkEOd8m3qnHYxG78Rm8Ow5A) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーV#派生作品 -- derived works -- accessed 2026-11-08 (same revision); archived: TODO
+  - OVA Final Fantasy: Legend of the Crystals (1994; four volumes, 風の章, 炎の章, 竜の章, 星の章; set 200 years after this game); already an entry
+  - Gag manga チョコチョコボンボン by 菊池晃弘, serialised in Shueisha's 月刊Vジャンプ (the prehistory of this game, with the worlds of VI and VII mixed in); https://ja.wikipedia.org/wiki/チョコチョコボンボン (revision 90362316 of 2022-07-06) says it was collected in a book; not an entry (see .plan/audit-open-items.md)
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーV#関連商品 -- related goods list -- accessed 2026-11-08 (same revision); archived: TODO
+  - Guides (6): NTT Publishing 基礎知識編 (1992-11-20, 4-87188-192-X), 戦闘解析編 (1992-12-15, 4-87188-204-7), 冒険ガイドブック (1993-01-20, 4-87188-206-3), 完全攻略編 (1993-02-26, 4-87188-205-5); Shueisha V Jump Books マスターガイド (2006-10); Square Enix 公式コンプリートガイド (2006-11-30, 4-7575-1822-6)
+
 ## Decisions

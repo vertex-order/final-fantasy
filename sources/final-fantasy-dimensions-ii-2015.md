@@ -133,4 +133,30 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/details?id=jp
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl2j -- app page linked from the app page's "More by DeNA Co., Ltd." and "Similar games" lists -- accessed 2026-11-08 -- link recorded only; archived: TODO
 
+## en.wikipedia.org (Information; Final Fantasy Dimensions II article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Dimensions_II#External_links -- 2 links -- accessed 2026-11-09 (revision 1346897694 of 2026-04-03; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20170922075839/http://www.jp.square-enix.com/ffl_ts/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.jp.square-enix.com/FFL2/en/ -- International site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジー レジェンズ 時空ノ水晶 article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー_レジェンズ_時空ノ水晶#外部リンク -- 4 links -- accessed 2026-11-09 (revision 110862973 of 2026-09-01; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20170922075839/http://www.jp.square-enix.com/ffl_ts/ -- Wayback capture of 20170922075839 (ファイナルファンタジー レジェンズ 時空の水晶 公式サイト) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20160306023553/https://twitter.com/tokinosuisyo -- Wayback capture of 20160306023553 (ファイナルファンタジー レジェンズ 時空の水晶 運営公式twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/FFL2/jp/ -- ファイナルファンタジー レジェンズII 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20180226074522/https://twitter.com/FFL2PR -- Wayback capture of 20180226074522 (ファイナルファンタジー レジェンズII 運営公式twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Dimensions_II#External_links -- 7 links -- accessed 2026-11-09 (revision 3989142 of 2026-02-07; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Dimensions_II#External_links
+  - https://web.archive.org/web/20170922075839/http://www.jp.square-enix.com/ffl_ts/ -- Official Japanese site (Legends: Toki no Suishō) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.jp.square-enix.com/FFL2/jp/ -- Official Japanese site (Legends II: Toki no Suishō) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.jp.square-enix.com/FFL2/en/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/jp/app/final-fantasy-legends-ii-%E6%99%82%E7%A9%BA%E3%83%8E%E6%B0%B4%E6%99%B6/id1239252597?l=en&mt=8 -- iTunes App Store (Legends II: Toki no Suishō) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/us/app/final-fantasy-dimensions-ii/id1239279234?mt=8 -- iTunes App Store (Global) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl2j -- Google Play (Legends II: Toki no Suishō) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl2w -- Google Play (Global) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

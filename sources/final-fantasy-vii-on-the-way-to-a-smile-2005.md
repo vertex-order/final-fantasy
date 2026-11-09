@@ -99,4 +99,8 @@ goodreads.com (Information)
 
 - https://en.wikipedia.org/wiki/List_of_novels_based_on_video_games -- Final Fantasy section, row "Final Fantasy VII: On the Way to a Smile" (author Kazushige Nojima; Yen On; language column Japanese; ISBN 9781975382353; revision 1380085790 of 2026-10-13) -- accessed 2026-11-03; archived: TODO
 
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Books section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- On the Way to a Smile: a collection of short stories by Kazushige Nojima written to promote Advent Children and Advent Children Complete; seven stories in one paperback released 2009-04-16; the English version was released by Yen Press on 2018-10-30; the Compilation Films section adds an OVA adaptation, On the Way to a Smile - Episode: Denzel, released with Advent Children Complete -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

@@ -163,4 +163,16 @@
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
   - Row: Monster of the Deep: Final Fantasy XV; Simulation; Square Enix; Square Enix; 2017-Nov-21; 2017-Nov-21; 2017-Nov-21; 2017-Nov-21; M BD
 
+## en.wikipedia.org (Information; Monster of the Deep: Final Fantasy XV article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Monster_of_the_Deep:_Final_Fantasy_XV#External_links -- 1 links -- accessed 2026-11-09 (revision 1384338851 of 2026-11-07; wikitext read through the MediaWiki API)
+  - http://www.jp.square-enix.com/ff15/vr/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Monster_of_the_Deep:_Final_Fantasy_XV#External_links -- 2 links -- accessed 2026-11-09 (revision 3981879 of 2026-01-12; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Monster_of_the_Deep:_Final_Fantasy_XV#External_links
+  - http://www.jp.square-enix.com/ff15/vr/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.finalfantasyxv.com/en/playstation-vr/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

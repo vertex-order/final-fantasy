@@ -695,6 +695,57 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_XV -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy XV article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_XV#External_links -- 4 links -- accessed 2026-11-09 (revision 1384609789 of 2026-11-09; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Final_Fantasy#Final_Fantasy_XV -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_XV -- Wikimedia Commons sister-project link (template commons category) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) official website template with no URL on the page (taken from Wikidata, not resolved) -- accessed 2026-11-09
+  - https://www.imdb.com/title/tt0960140/ -- IMDb title page (template imdb title) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーXV article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXV#外部リンク -- 14 links -- accessed 2026-11-09 (revision 110908607 of 2026-09-05; wikitext read through the MediaWiki API)
+  - http://www.finalfantasy.jp/ffxvuniverse/ -- ファイナルファンタジーXV ユニバース ポータルサイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ff15/ -- FINAL FANTASY XV -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ff15/royal/ -- FINAL FANTASY XV ロイヤルエディション -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ff15/PC/ -- FINAL FANTASY XV Windows Edition -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ff15pocket/ -- ファイナルファンタジーXV ポケットエディション -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/ffxvjp -- Twitter account ffxvjp (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) template not resolved: {{Instagram|ffxv|FINAL FANTASY XV}} -- accessed 2026-11-09
+  - https://kingsglaive-jp.com/ -- KINGSGLAIVE FINAL FANTASY XV -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/kingsglaive -- Twitter account kingsglaive (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/ff15 -- Twitter account ff15 (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) template not resolved: {{Facebook|FF15JP|ファイナルファンタジーXV：新たなる王国}} -- accessed 2026-11-09
+  - (no URL) YouTube template: {{YouTube|playlist = PLsHA74V3bmZ4mg6PRlg34yg9ffq-qzo0B}} -- accessed 2026-11-09
+  - (no URL) YouTube template: {{YouTube|playlist = PLsHA74V3bmZ7NzORnxJVB7IirowNdkBny|FINAL FANTASY XV オリジナル・サウンドトラック}} -- accessed 2026-11-09
+  - https://store.steampowered.com/app/637650 -- Steam (template Steam app|637650) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV#External_links -- 20 links -- accessed 2026-11-09 (revision 4038150 of 2026-08-29; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV#External_links
+  - http://www.jp.square-enix.com/ff15/ -- Official Japanese website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.finalfantasyxv.com/en -- Official English website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20161206031821/https://forum.finalfantasyxv.com/ -- Official forum -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://jp.finalfantasy.com/titles/finalfantasy15 -- Final Fantasy XV -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://na.finalfantasy.com/titles/finalfantasy15 -- Final Fantasy XV -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://eu.finalfantasy.com/titles/finalfantasy15 -- Final Fantasy XV -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-XV-WINDOWS-EDITION -- Final Fantasy XV Windows Edition -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://linktr.ee/ffxv -- Linktree -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFXVJP -- Official Twitter account (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFXVEN -- Official Twitter account (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/finalfantasy15jp -- Official Facebook page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/ffxv -- Official Facebook page (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.instagram.com/ffxv/ -- Official Instagram account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://page.line.me/nmu5470k -- Official LINE account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/@FinalFantasyXV -- Official YouTube channel -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.famitsu.com/matome/ff15/ -- Famitsu Special Website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/Fami_xv -- Famitsu Special Website Twitter account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_XV -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/82135/final-fantasy-xv/ -- Final Fantasy XV -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/104162/final-fantasy-xv-windows-edition/ -- Final Fantasy XV Windows Edition -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations

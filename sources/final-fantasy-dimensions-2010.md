@@ -184,4 +184,27 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Dimensions -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy Dimensions article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Dimensions#External_links -- 3 links -- accessed 2026-11-09 (revision 1347748505 of 2026-04-08; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20120106151604/http://www.square-enix.co.jp/mobile/ff/ffl/ -- iMode/EZweb official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/mobile/ff/ffl/ -- original -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/smart/ffdl/ -- iOS/Android portal -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジー レジェンズ 光と闇の戦士 article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー_レジェンズ_光と闇の戦士#外部リンク -- 1 links -- accessed 2026-11-09 (revision 109759342 of 2026-05-31; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/ffdl/jp/ -- ファイナルファンタジー レジェンズ -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Dimensions#External_links -- 6 links -- accessed 2026-11-09 (revision 3991664 of 2026-02-18; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Dimensions#External_links
+  - https://web.archive.org/web/20171226073808/http://www.square-enix.co.jp/mobile/ff/ffl/ -- Final Fantasy Mobile official Japanese website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffdl/ -- Official site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffdl/jp/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffdl/en/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/us/app/final-fantasy-dimensions/id540992837?mt=8 -- iTunes Store Purchase Page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp&feature=more_from_developer#?t=W251bGwsMSwxLDEwMiwiY29tLnNxdWFyZV9lbml4LmFuZHJvaWRfZ29vZ2xlcGxheS5mZmxfZ3AiXQ.. -- Google Play Purchase Page -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

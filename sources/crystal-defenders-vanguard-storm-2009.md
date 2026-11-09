@@ -81,5 +81,11 @@
   - Crystal Defenders: Vanguard Storm (2009) -- type label Main Game; platforms shown: iOS; released 2009-05-13
     - https://www.igdb.com/games/crystal-defenders-vanguard-storm -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Crystal_Defenders:_Vanguard_Storm#External_links -- 1 links -- accessed 2026-11-09 (revision 4014424 of 2026-06-15; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Crystal_Defenders:_Vanguard_Storm#External_links
+  - http://www.cd-vanguardstorm.com/ -- Official Japanese and English Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 - Help wanted removed (user, 2026-10-20): the language list is now known

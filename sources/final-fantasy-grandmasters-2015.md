@@ -111,4 +111,24 @@
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Grandmasters -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## ja.wikipedia.org (Information; ファイナルファンタジーグランドマスターズ article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーグランドマスターズ#外部リンク -- 1 links -- accessed 2026-11-09 (revision 110679519 of 2026-08-17; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/FFGM/ -- 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters#External_links -- 10 links -- accessed 2026-11-09 (revision 4021932 of 2026-07-14; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Grandmasters#External_links
+  - https://web.archive.org/web/20190205162304/http://www.jp.square-enix.com/FFGM/ -- Official website (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20180823083215/https://www.ffgm.jp/forum/ -- Official forum -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20160621211619/http://www.finalfantasy.jp/products/post/ -- Official goods detail page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://line.me/ti/p/%40zcr3211l -- Official LINE account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20170824182758/https://twitter.com/FFGM_Official -- Official Twitter account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=lXBvDD8Htms -- Promotional video -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/jp/app/id1011102761?mt=8 -- App Store (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffgm -- Google Play (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Grandmasters -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/75372/final-fantasy-grandmasters/ -- Final Fantasy: Grandmasters -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

@@ -27,4 +27,12 @@
     - it mentions a remake "soon to be re-released in 2020", stale
     - its Links section names only https://www.square-enix.com/
 
+## rpgamer.com (Information; trailer linked from the Crisis Core Fandom page)
+
+- http://movies.rpgamer.com/ff/ff7cc/ff7cc001.wmv -- the Crisis Core trailer file, which Fandom's Crisis Core page also labels the Last Order anime trailer (Windows Media file); linked from finalfantasy.fandom.com's Crisis Core -Final Fantasy VII- External links (revision 4067996 of 2026-11-01) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Films section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Films -- Last Order: an original video animation about the destruction of Nibelheim, packaged with the limited edition Advent Pieces of Advent Children (77,777 copies; Japan 2005-09-14, North America 2007-02-06) and no longer available to buy; with the release of Remake it was removed from the official Compilation listing -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

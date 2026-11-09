@@ -87,6 +87,13 @@
   - Final Fantasy Digital Card Game (2019) -- type label Main Game; platforms shown: PC (Microsoft Windows), Android, iOS; released 2019-07-09
     - https://www.igdb.com/games/final-fantasy-digital-card-game -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Digital_Card_Game#External_links -- 2 links -- accessed 2026-11-09 (revision 4022284 of 2026-07-15; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Digital_Card_Game#External_links
+  - https://web.archive.org/web/20200702055727/https://www.jp.square-enix.com/ffdcg/ -- Official site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFDCG_PR -- Official Twitter account -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 - No iOS, Android or PC platform rows (user, 2026-10-20): the claims of those versions (androidayuda, GameFAQs, RPGFan, Siliconera, Eurogamer) come from the time of or before the Yahoo! Game Plus closed beta, the official site, the Yahoo! page and the Twitter account show only the browser game, and the run was a single year, so we decide those versions were cancelled before they materialized, even though they were announced; only the browser row (Yahoo! Game Plus) is listed
 - No description line (user, 2026-10-20): the entry does not say it was a browser game on Yahoo! Game Plus played on PC and smartphones

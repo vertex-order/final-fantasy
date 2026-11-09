@@ -136,4 +136,30 @@
 
 - https://strategywiki.org/wiki/Before_Crisis:_Final_Fantasy_VII -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Before_Crisis_-Final_Fantasy_VII-#External_links -- six links -- accessed 2026-11-09 (revision 4057401 of 2026-10-08; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Before_Crisis_-Final_Fantasy_VII-#External_links
+  - https://web.archive.org/web/20080325015248/http://www.square-enix.co.jp/mobile/bcff7.html -- Official Japanese site, Wayback capture of 2008-03-25 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Before_Crisis:_Final_Fantasy_VII -- English Wikipedia article -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/159640/before-crisis-final-fantasy-vii/ -- MobyGames entry -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20130524083155/http://www.freewebs.com/gunshotromance/ -- First English-based Before Crisis fansite, Wayback capture of 2013-05-24 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://forums.qhimm.com/index.php?topic=20884.0 -- Fan Compendium Archive (Qhimm forum thread) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://keitaiwiki.com/wiki/Before_Crisis_-Final_Fantasy_VII- -- Fan Preservation Tracker, Keitai Wiki page -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Before Crisis: Final Fantasy VII article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Before_Crisis:_Final_Fantasy_VII#External_links -- one link -- accessed 2026-11-09 (revision 1375199103 of 2026-09-16; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20070608072225/http://www.square-enix.co.jp/mobile/bcff7.html -- Official website (Japanese), Wayback capture of 2007-06-08 -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ビフォア クライシス ファイナルファンタジーVII article, 外部リンク and 関連項目 sections, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ビフォア_クライシス_ファイナルファンタジーVII#外部リンク -- one link -- accessed 2026-11-09 (revision 110820110 of 2026-08-29; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/mobile/bcff7.html -- Before Crisis-FINAL FANTASY VII- 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+- https://ja.wikipedia.org/wiki/ビフォア_クライシス_ファイナルファンタジーVII#関連項目 -- five related articles: ファイナルファンタジーVII, ファイナルファンタジーVII アドベントチルドレン, ダージュ オブ ケルベロス ファイナルファンタジーVII, クライシス コア ファイナルファンタジーVII, ファイナルファンタジーVII リメイク -- accessed 2026-11-09 (same revision); every one is already an entry
+
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Video_games section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Before Crisis: an action role-playing game split into 24 episodes delivered by a monthly subscription; after beta testing in 2004, released 2004-09-24 for NTT DoCoMo FOMA iMode, then 2007-01-30 for SoftBank Mobile and 2007-04-05 for au EZweb; never released in western markets despite plans -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

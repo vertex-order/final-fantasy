@@ -65,4 +65,15 @@
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Voice Fantasy
 
+## en.wikipedia.org (Information; Voice Fantasy article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Voice_Fantasy#External_links -- 1 links -- accessed 2026-11-09 (revision 1371534413 of 2026-08-27; wikitext read through the MediaWiki API)
+  - http://dlgames.square-enix.com/voicefantasy/ -- Official site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Voice_Fantasy#External_links -- 1 links -- accessed 2026-11-09 (revision 3988521 of 2026-02-03; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Voice_Fantasy#External_links
+  - https://web.archive.org/web/20131030082727/http://dlgames.square-enix.com/voicefantasy/ -- Official site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

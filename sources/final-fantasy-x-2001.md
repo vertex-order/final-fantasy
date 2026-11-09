@@ -536,4 +536,50 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
 - https://strategywiki.org/wiki/Final_Fantasy_X -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Final_Fantasy_X%2FX-2_HD_Remaster -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_X#External_links -- 19 links under Final Fantasy X, International and Miscellaneous -- accessed 2026-11-09 (revision 4024862 of 2026-07-21; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X#External_links
+  - https://web.archive.org/web/20040629235233/http://www.square-enix.co.jp/games/ps2/ff10/main.html -- Official site, Japanese, Wayback capture of 2004-06-29 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20040630035632/http://www.square-enix.co.jp/games/ps2/ff10/menu.html -- Official site menu, Japanese, Wayback capture of 2004-06-30 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff10/ -- Official Square Enix game detail page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20170316160336/http://www.finalfantasy.jp/products/ff10/ -- Official goods detail page, Wayback capture -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/slpm-66124.html -- Final Fantasy X in the Ultimate Hits line -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20070101184220/http://na.square-enix.com/games/FFX/ -- Official site, North American, Wayback capture of 2007-01-01 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20040618031247/http://www.square-enix.co.jp/games/ps2/ff10int/ffxint.html -- Final Fantasy X International official site, Japanese, Wayback capture of 2004-06-18 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff10inter/ -- Final Fantasy X International official Square Enix game detail page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/slpm-66677.html -- Final Fantasy X International in the Ultimate Hits line -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20120615033124/http://www.finalfantasy.jp/products/uh-ff10int/ -- Ultimate Hits Final Fantasy X International goods detail page, Wayback capture -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20051201011942/http://www.ffx-europe.com/ -- Official site, European, Wayback capture of 2005-12-01 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://jp.finalfantasy.com/titles/finalfantasy10 -- Final Fantasy Portal Site, Japanese -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://na.finalfantasy.com/titles/finalfantasy10 -- Final Fantasy Portal Site, US English -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://eu.finalfantasy.com/titles/finalfantasy10 -- Final Fantasy Portal Site, UK English -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://jp.finalfantasy.com/ffx25th -- Final Fantasy X 25 Anniversary special page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_X -- English Wikipedia article -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/5673/final-fantasy-x/ -- MobyGames entry -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/28181/final-fantasy-x/ -- MobyGames entry (2002) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://ffxuhd.com/uhdgallery/ -- Final Fantasy X screenshots (ffxuhd.com) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy X article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_X#External_links -- two links and two sister-project templates -- accessed 2026-11-09 (revision 1384301795 of 2026-11-07; wikitext read through the MediaWiki API)
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_X -- Wikimedia Commons category sister-project link (template Commons category) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikiquote.org/wiki/Final_Fantasy_X -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/5673/final-fantasy-x -- MobyGames entry (template MobyGames id 5673/final-fantasy-x) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.imdb.com/title/tt0284110/ -- IMDb title page (template IMDb title, id 0284110) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy X/X-2 HD Remaster article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_X/X-2_HD_Remaster#External_links -- one link (a collection of X and X-2, so recorded in the files of both games and the audio drama) -- accessed 2026-11-09 (revision 1383981558 of 2026-11-05; wikitext read through the MediaWiki API)
+  - http://www.finalfantasyxhd.com/ -- Official website (template Official website) of Final Fantasy X/X-2 HD Remaster -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーX article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーX#外部リンク -- five links (the Spotify soundtrack album is out of scope) -- accessed 2026-11-09 (revision 111423447 of 2026-10-18; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ff10/ -- FFX オリジナル版公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff10inter/ -- ファイナルファンタジーX インターナショナル -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffx_x-2HD/ -- FFX|FFX-2 HDリマスター版公式サイト (covers X and X-2; also recorded in sources/final-fantasy-x-2-2003.md) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCM94_1XKyacr70vxJVBuGSw -- YouTube channel (template YouTube|c=UCM94_1XKyacr70vxJVBuGSw) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCZYMA5qFXLAVaK2kM11U8vw -- YouTube channel FINAL FANTASY X/X-2 HD Remaster (template YouTube|c=UCZYMA5qFXLAVaK2kM11U8vw; also recorded in sources/final-fantasy-x-2-2003.md) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

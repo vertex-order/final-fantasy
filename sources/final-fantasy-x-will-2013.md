@@ -31,4 +31,9 @@
 
 - https://www.youtube.com/results?search_query=final%20fantasy%20X-2%3A%20will%20audio%20drama
 
+## en.wikipedia.org (Information; Final Fantasy X/X-2 HD Remaster article, External links section)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_X/X-2_HD_Remaster#External_links -- the Remaster collection link, recorded because the audio drama was released as part of the collection -- accessed 2026-11-09 (revision 1383981558 of 2026-11-05; wikitext read through the MediaWiki API)
+  - http://www.finalfantasyxhd.com/ -- Official website (template Official website) of Final Fantasy X/X-2 HD Remaster -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

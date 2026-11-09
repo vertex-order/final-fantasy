@@ -276,4 +276,20 @@
 
 - https://strategywiki.org/wiki/Theatrhythm:_Final_Bar_Line -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Theatrhythm Final Bar Line article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Theatrhythm_Final_Bar_Line#External_links -- 1 links -- accessed 2026-11-09 (revision 1383444713 of 2026-11-02; wikitext read through the MediaWiki API)
+  - https://www.square-enix-games.com/en_EU/games/theatrhythm-final-bar-line -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Theatrhythm_Final_Bar_Line#External_links -- 6 links -- accessed 2026-11-09 (revision 4063672 of 2026-10-22; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Bar_Line#External_links
+  - https://www.jp.square-enix.com/t_fbl/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.square-enix-games.com/en_US/games/theatrhythm-final-bar-line -- Official US site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/THEATRHYTHM-FINAL-BAR-LINE -- Theatrhythm Final Bar Line -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/tfbl_pr -- Official Twitter account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Theatrhythm_Final_Bar_Line -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/199777/theatrhythm-final-bar-line/ -- Theatrhythm Final Bar Line -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

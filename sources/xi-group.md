@@ -245,3 +245,6 @@ Novel series: see `xi-novels-group.md` (ja.wikipedia Famitsu Bunko page, Library
   - a discussion or talk about a reading drama does not count, while a reading-drama performance or script might, depending on the drama's own content
 - Not listed (user, 2026-11-08): books from the Final Fantasy Wiki's Square Enix Magazine & Book page (https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book, accessed 2026-11-08) that are guidebooks, previews, artbooks, catalogues, magazines or development books, not entertaining on their own (docs/data.md, "What belongs on a list")
   - Final Fantasy XI Official Memorial Book ~Kioku no Utaibito~ — 2015-11-27 — no ISBN
+- Not listed (assistant's call, pending the user's review): the two guides on ja.wikipedia's Final Fantasy XI article, section 関連商品 > 攻略本 (https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#関連商品, revision 109759274 of 2026-05-31, accessed 2026-11-09) that this file did not name yet; game guides are not entertaining on their own (docs/data.md, "What belongs on a list"). The rest of the section's guides, mooks and books are already named in this file, listed as entries or recorded in the entries' sources
+  - ファイナルファンタジーXI プレイヤーズバイブル -素材狩り編- Ver.20090409 — Famitsu book editors, Enterbrain — 2009-06-12
+  - ファイナルファンタジーXI マニアックス 合成極之書 Ver.20060822 — Famitsu book editors, Enterbrain — 2006-09-29

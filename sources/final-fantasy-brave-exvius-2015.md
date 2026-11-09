@@ -261,6 +261,35 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Brave_Exvius -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy Brave Exvius article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Brave_Exvius#External_links -- 1 links -- accessed 2026-11-09 (revision 1382232462 of 2026-10-27; wikitext read through the MediaWiki API)
+  - https://www.finalfantasyexvius.com/ -- Official website (template officialwebsite) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy Brave Exvius page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Brave_Exvius#External_links -- 2 links -- accessed 2026-11-09 (revision 16128 of 2026-06-10; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/FFBE/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.square-enix-games.com/en_US/games/final-fantasy-brave-exvius/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Brave_Exvius#External_links -- 13 links -- accessed 2026-11-09 (revision 4069076 of 2026-11-03; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius#External_links
+  - https://www.jp.square-enix.com/FFBE/ -- Official site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20241111211722/http://finalfantasyexvius.com/ -- Official site (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/FFBE/blog/ -- FFBE Official Support Blog (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-BRAVE-EXVIUS -- Final Fantasy Brave Exvius -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFBE_JP -- Official Twitter account (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFRS_JP -- Renamed official Twitter account for Final Fantasy Resonance (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFBE_EN -- Official Twitter account (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/ffbeen -- Official Facebook page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.instagram.com/ffbe_mog/ -- Official Instagram account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/@ffbefinalfantasybraveexviu9599 -- Official YouTube channel (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/@finalfantasybraveexviusoff2184 -- Official YouTube channel (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Brave_Exvius -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/79645/final-fantasy-brave-exvius/ -- Final Fantasy Brave Exvius -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 - Brave Exvius Memorial Version not listed (user, 2026-10-20): the Japanese offline app released after the service ended is an archive and viewer (story, encyclopedias, galleries), not content, so the entry gets no Japanese or Memorial rows; same decision as the Libra Eorzea app (see final-fantasy-franchise.md Decisions)
 - Terminated platform rows link Wayback captures of their store pages

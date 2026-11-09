@@ -78,5 +78,12 @@
   - Capture: live (2026-11-03) pages: search results for "final fantasy artniks" (first 50 of 2703, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
   - Final Fantasy Artniks Dive -- not in IGDB: no title of that name among the saved results of the search "final fantasy artniks" (https://www.igdb.com/search?q=final+fantasy+artniks&type=1)
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Artniks_Dive#External_links -- 2 links -- accessed 2026-11-09 (revision 4021864 of 2026-07-13; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Artniks_Dive#External_links
+  - https://web.archive.org/web/20151124051649/http://www.jp.square-enix.com/ff_artniks_d/ -- Official site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20141111191738/http://games.gree.net/?action=preopen_app_top&app_id=60521&from_externallink=sqexofficial_60521 -- GREE Final Fantasy Artniks Dive Portal -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 - GREE is the link for the Android and iOS rows (user, 2026-10-20): the search for direct Play Store and App Store pages is closed, since the game was only available through registration on the GREE website; the rows link the GREE apps page capture of 2015-07-29 and no store page is expected to exist

@@ -152,4 +152,24 @@
 
 - https://strategywiki.org/wiki/Final_Fantasy_Tactics_Advance -- listed in Category:Final Fantasy Tactics -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy Tactics Advance article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Tactics_Advance#External_links -- 2 links -- accessed 2026-11-09 (revision 1381629928 of 2026-10-23; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Final_Fantasy_Tactics_Advance -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20071130030108/http://www.metacritic.com/games/platforms/gba/finalfantasytacticsadvance -- Final Fantasy Tactics Advance -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジータクティクスアドバンス article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクスアドバンス#外部リンク -- 2 links -- accessed 2026-11-09 (revision 111292018 of 2026-10-06; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ffta/ -- ファイナルファンタジータクティクス アドバンス -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.nintendo.co.jp/titles/20010000021488 -- ファイナルファンタジータクティクス アドバンス -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Tactics_Advance#External_links -- 3 links -- accessed 2026-11-09 (revision 3993102 of 2026-02-23; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance#External_links
+  - http://na.square-enix.com/finalfantasytacticsadvance -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://ms.nintendo-europe.com/finalfantasytactics/enGB/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.videogamesprites.net/FinalFantasyTacticsAdvance/ -- Final Fantasy Tactics Advance Sprites -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

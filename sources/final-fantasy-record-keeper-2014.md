@@ -183,4 +183,35 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=561407
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Record_Keeper -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy Record Keeper article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Record_Keeper#External_links -- 1 links -- accessed 2026-11-09 (revision 1384324995 of 2026-11-07; wikitext read through the MediaWiki API)
+  - http://www.finalfantasyrecordkeeper.com/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジー レコードキーパー article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー_レコードキーパー#外部リンク -- 4 links -- accessed 2026-11-09 (revision 108937389 of 2026-03-28; wikitext read through the MediaWiki API)
+  - http://ffrk.jp/ -- 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xn--ffrk-8i9hs14f.gamematome.jp/game/780/wiki/ -- 公式wiki -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/ff_rk_info -- Twitter account ff_rk_info (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) YouTube template: {{YouTube|playlist = PLsHA74V3bmZ56m_oTr7wLjnXK4FL-H4hb}} -- accessed 2026-11-09
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Record_Keeper#External_links -- 13 links -- accessed 2026-11-09 (revision 4039585 of 2026-08-31; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Record_Keeper#External_links
+  - https://ffrk.jp/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20220517213443/http://www.finalfantasyrecordkeeper.com/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xn--ffrk-8i9hs14f.gamematome.jp/game/780/wiki/ -- FINAL FANTASY Record Keeper Official Strategy Site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20220927014852/https://ffrkstrategy.gamematome.jp/game/951/wiki/Home -- FINAL FANTASY Record Keeper Official Strategy Site (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/ff_rk_info -- Official Twitter account (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFRK_Official -- Official Twitter account (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/FinalFantasyRecordKeeper -- Official Facebook page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://page.line.me/ffrk -- Official LINE account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/jp/app/id866037912?l=ja&ls=1&mt=8 -- iOS download -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=jp.mbga.a12019103.lite -- Android download (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Record_Keeper -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/74667/final-fantasy-record-keeper/ -- Final Fantasy Record Keeper -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.dailymotion.com/video/x3n4mxo -- Trailer -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

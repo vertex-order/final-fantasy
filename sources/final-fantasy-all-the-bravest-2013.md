@@ -154,4 +154,19 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffatb -- app listed in the developer page captures of 2015-06-15, 2019-03-13 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20150615154752/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20190313011644/https://play.google.com/store/apps/dev?id=8026010256970589886
 
+## en.wikipedia.org (Information; Final Fantasy All the Bravest article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_All_the_Bravest#External_links -- 1 links -- accessed 2026-11-09 (revision 1357836690 of 2026-06-04; wikitext read through the MediaWiki API)
+  - http://www.jp.square-enix.com/ff_atb/en/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_All_the_Bravest#External_links -- 5 links -- accessed 2026-11-09 (revision 4015719 of 2026-06-23; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_All_the_Bravest#External_links
+  - https://web.archive.org/web/20200422133813/http://www.jp.square-enix.com/ff_atb/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20190307000018/https://www.jp.square-enix.com/ff_atb/en/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff_atb/ -- Square Enix official game detail page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_All_the_Bravest -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/71684/final-fantasy-all-the-bravest/ -- Final Fantasy All the Bravest -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

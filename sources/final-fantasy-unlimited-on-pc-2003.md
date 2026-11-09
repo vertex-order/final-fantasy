@@ -36,4 +36,12 @@
   - FF: U on PC - Final Fantasy: Unlimited - Labyrinth: Kuroki Dream Memory (2003) -- type label Main Game; platforms shown: PC (Microsoft Windows); released 2003-05-16
     - https://www.igdb.com/games/ff-u-on-pc-final-fantasy-unlimited-labyrinth-kuroki-dream-memory -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; Final Fantasy: Unlimited article, Video games section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy:_Unlimited#Video_games -- the game's section in the anime article: FF:U on PC Meikyu - Kuroki Yume no Kioku (FF:U on PC Labyrinth - Black Dream Memories) is a visual novel and card game set in the FF:U universe, published by Amada Printing, released 2003-05-16; the section also names FF:U with U (i-mode, 2002-08-20) and says Unlimited Saga was tied to the anime's setting and later shelved -- accessed 2026-11-09 (revision 1379290309 of 2026-10-09; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; FF：U 〜ファイナルファンタジー:アンリミテッド〜 article, ゲーム section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜#ゲーム -- the game's section in the anime article: FF：U～FINAL FANTASY：UNLIMITED～迷宮 くろきゆめのきおく, a PC game released 2003-05-16 by 天田印刷加工 (Amada Printing); an adventure and card game that moves the story along with stills reused from the anime and choices, and fights enemies with cards; fully voiced except for some lines and characters; the player re-experiences the events of episodes 1 to 13 of the anime -- accessed 2026-11-09 (revision 111204422 of 2026-09-29; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

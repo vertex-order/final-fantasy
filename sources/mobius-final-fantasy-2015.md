@@ -157,4 +157,35 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mobiusff_ne -- app listed in the developer page captures of 2017-01-07, 2018-02-26, 2019-03-13 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20170107053042/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20190313011644/https://play.google.com/store/apps/dev?id=8026010256970589886
 
+## en.wikipedia.org (Information; Mobius Final Fantasy article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Mobius_Final_Fantasy#External_links -- 1 links -- accessed 2026-11-09 (revision 1371646201 of 2026-08-27; wikitext read through the MediaWiki API)
+  - http://www.na.square-enix.com/mobiusff/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; メビウス ファイナルファンタジー article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/メビウス_ファイナルファンタジー#外部リンク -- 3 links -- accessed 2026-11-09 (revision 110675453 of 2026-08-17; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/MOBIUSFF/ -- メビウス ファイナルファンタジー -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/mobiusff -- Twitter account mobiusff (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) YouTube template: {{YouTube|playlist = PLsHA74V3bmZ47WAJ9Hr2Qi1INZb_Kg61D}} -- accessed 2026-11-09
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Mobius_Final_Fantasy#External_links -- 14 links -- accessed 2026-11-09 (revision 3991286 of 2026-02-16; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Mobius_Final_Fantasy#External_links
+  - http://www.jp.square-enix.com/MOBIUSFF/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.na.square-enix.com/mobiusff/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/mobiusff -- Official Japanese Twitter page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/mobiusFF_NE -- Official English Twitter page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/@mobiusfinalfantasyofficial9597 -- Official English YouTube channel -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/@mobiusfinalfantasy695 -- Official Chinese YouTube channel -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://wiki.denfaminicogamer.jp/mobiusff/ -- Official Japanese Wiki -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=NRIswTUQHrk -- First Look video -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/jp/app/mobius-final-fantasy/id987942897?l=en&mt=8 -- Japanese iTunes App Store -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/app/mobius-final-fantasy/id1091974564?mt=8 -- English iTunes App Store -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mobiusff_j -- Japanese Google Play -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mobiusff_ne -- English Google Play -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://store.steampowered.com/app/504730/ -- Japanese Steam -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://store.steampowered.com/app/536930/MOBIUS_FINAL_FANTASY/ -- English Steam -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

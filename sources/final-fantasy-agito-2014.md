@@ -104,4 +104,29 @@
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Agito -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy Agito article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Agito#External_links -- 2 links -- accessed 2026-11-09 (revision 1381805348 of 2026-10-24; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20151013060037/http://www.jp.square-enix.com/ff-agito/ -- Official website - Final Fantasy Agito official website (archived October 2015) (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20150326014627/http://www.jp.square-enix.com/ff-agito/ff-agitoplus/ -- Official website - Final Fantasy Agito Plus official website (archived March 2015) (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy Agito page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Agito#External_links -- 1 links -- accessed 2026-11-09 (revision 12424 of 2025-01-14; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20151013060037/http://www.jp.square-enix.com/ff-agito/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Agito#External_links -- 9 links -- accessed 2026-11-09 (revision 4021856 of 2026-07-13; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Agito#External_links
+  - https://web.archive.org/web/20151106123244/http://www.jp.square-enix.com/ff-agito/ -- Official site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20150107030945/http://www.finalfantasy.jp/products/ff-agito/ -- Official goods detail page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20150326014627/http://www.jp.square-enix.com/ff-agito/ff-agitoplus/ -- Final Fantasy Agito+ official site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20150810175339/http://www.finalfantasy.jp/products/ff-agitoplus/ -- Final Fantasy Agito+ official goods detail page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFAgitoOfficial -- Official Twitter account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFAgitoj -- Google Play Page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/jp/app/id774609884 -- iTunes App Store Page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=mQice_T4Nio -- Localization Announcement Trailer -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Agito -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

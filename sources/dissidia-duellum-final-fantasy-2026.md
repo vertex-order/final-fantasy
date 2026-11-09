@@ -204,4 +204,40 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/details?id=jp
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DD -- app page linked from the app page's "More by DeNA Co., Ltd." and "Similar games" lists -- accessed 2026-11-08 -- link recorded only; archived: TODO
 
+## en.wikipedia.org (Information; Dissidia Duellum Final Fantasy article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Dissidia_Duellum_Final_Fantasy#External_links -- 1 links -- accessed 2026-11-09 (revision 1382278419 of 2026-10-27; wikitext read through the MediaWiki API)
+  - (no URL) template not resolved: {{Officialwebsite|https://www.square-enix.com/ddff/en/}} -- accessed 2026-11-09
+
+## ja.wikipedia.org (Information; ディシディア デュエルム ファイナルファンタジー article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ディシディア_デュエルム_ファイナルファンタジー#外部リンク -- 1 links -- accessed 2026-11-09 (revision 110891303 of 2026-09-04; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/ddff/ -- 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Dissidia Duellum Final Fantasy page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Dissidia_Duellum_Final_Fantasy#External_links -- 4 links -- accessed 2026-11-09 (revision 20446 of 2026-10-13; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/ddff -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.square-enix.com/ddff/en -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=zLM7V3jrNNc -- Announcement trailer -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://x.com/DDFF_EN -- Official Twitter account -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Dissidia_Duellum_Final_Fantasy#External_links -- 13 links -- accessed 2026-11-09 (revision 4070020 of 2026-11-05; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Duellum_Final_Fantasy#External_links
+  - https://www.jp.square-enix.com/ddff -- Official site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.square-enix.com/ddff/en -- Official site (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/DISSIDIA-DUELLUM-FINAL-FANTASY -- Dissidia Duellum Final Fantasy -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/DDFF_JP -- Official Twitter account (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/DDFF_EN -- Official Twitter account (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/DDFF -- Official Facebook page (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/dissidiaduellumfinalfantasy -- Official Facebook page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/DDFF_JP_com -- Official community Twitter account (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/@DDFF_Official -- Official YouTube channel -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Dissidia_Duellum_Final_Fantasy -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=zLM7V3jrNNc -- Announcement trailer -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/DDFF_JP/status/1978042702013841706 -- Message from Creative Producer Tetsuya Nomura (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/DDFF_EN/status/1978042538813743349 -- Message from Creative Producer Tetsuya Nomura (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

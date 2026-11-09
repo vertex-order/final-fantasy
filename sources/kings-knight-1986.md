@@ -315,6 +315,32 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.KingsKnightww -- app listed in the developer page captures of 2018-02-26 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20180226225717/https://play.google.com/store/apps/dev?id=8026010256970589886
 
+## en.wikipedia.org (Information; King's Knight article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/King's_Knight#External_links -- 1 links -- accessed 2026-11-09 (revision 1382647846 of 2026-10-29; wikitext read through the MediaWiki API)
+  - http://jp.square-enix.com/archive/kingsnaito/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; キングスナイト article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/キングスナイト#外部リンク -- 7 links -- accessed 2026-11-09 (revision 110322217 of 2026-07-18; wikitext read through the MediaWiki API)
+  - https://www.square-enix.com/jp/archive/kingsnaito/ -- キングスナイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) template not resolved: {{Wiiバーチャルコンソール|kn}} -- accessed 2026-11-09
+  - (no URL) template not resolved: {{3DSバーチャルコンソール|tdyj}} -- accessed 2026-11-09
+  - https://www.nintendo.co.jp/titles/20010000014550 -- キングスナイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/kingsknight/ -- キングスナイト -Wrath of the Dark Dragon- 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/18650/kings-knight/ -- MobyGames entry (template mobygames id /18650/kings-knight/) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/King's_Knight_-Wrath_of_the_Dark_Dragon-#External_links -- 6 links -- accessed 2026-11-09 (revision 3988506 of 2026-02-03; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/King's_Knight_-Wrath_of_the_Dark_Dragon-#External_links
+  - http://www.jp.square-enix.com/kingsknight/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.finalfantasyxv.com/en/kings-knight/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/kingsknight_jp -- Official Japanese Twitter -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/kingsknight_en -- Official English Twitter -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/kingsknightjp -- Official Japanese Facebook -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/kingsknightwrath -- Official English Facebook -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)

@@ -1195,6 +1195,17 @@
 - https://strategywiki.org/wiki/Chocobo's_Mystery_Dungeon_EVERY_BUDDY! -- listed in Category:Chocobo -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Final_Fantasy_Fables:_Chocobo_Tales -- listed in Category:Chocobo -- page not read -- accessed 2026-11-08
 
+## finalfantasywiki.com (Information; Chocobo (series) page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Chocobo_series#External_links -- 1 links -- accessed 2026-11-09 (revision 20443 of 2026-10-13; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/chocobo/ -- Official Japanese web page -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Chocobo_series#External_links -- 1 links -- accessed 2026-11-09 (revision 4011135 of 2026-05-28; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Chocobo_series#External_links
+  - https://en.wikipedia.org/wiki/Chocobo_(series) -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

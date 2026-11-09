@@ -5,6 +5,11 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
+## Base game
+
+- This expansion expands [final-fantasy-xi-online-2002.md](final-fantasy-xi-online-2002.md). The base game's file holds the languages, platforms, official sites and links that apply to the whole game; this file records only what is specific to the expansion or also applies to it, and repeats a link or fact only when it is really important (user, 2026-11-09)
+- Languages and platforms match the base game unless noted. The exceptions are the platforms that were dropped over time. Seekers of Adoulin (2013-03-27) is the last expansion, and on the PlayStation 2 it came out in Japan only (ja.wikipedia's PlayStation 2 list calls it the last new PS2 software released in Japan; en.wikipedia's list has it for Japan only), so its PlayStation 2 row carries the Japan-only tag; the PlayStation 2 and Xbox 360 services have ended since, which the entry's platform rows mark as terminated and the Square Enix Japan list sections in this file note as "PS2/X360サービス終了".
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/final-fantasy-xi-wings-of-the-goddess/
@@ -105,6 +110,18 @@
 ## strategywiki.org (Information)
 
 - https://strategywiki.org/wiki/Final_Fantasy_XI:_Wings_of_the_Goddess -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XI:_Wings_of_the_Goddess#External_links -- 3 links -- accessed 2026-11-09 (revision 4063289 of 2026-10-21; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI:_Wings_of_the_Goddess#External_links
+  - http://www.playonline.com/ff11/altana/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.playonline.com/ff11us/altana/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.playonline.com/ff11eu/altana/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_XI -- the Final Fantasy XI page of finalfantasywiki, which covers this expansion (the wiki has no page of its own for it; user, 2026-11-09) -- accessed 2026-11-09; archived: TODO
 
 ## Decisions
 

@@ -5,6 +5,11 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
+## Base game
+
+- This expansion expands [final-fantasy-xiv-a-realm-reborn-2013.md](final-fantasy-xiv-a-realm-reborn-2013.md). The base game's file holds the languages, platforms, official sites and links that apply to the whole game; this file records only what is specific to the expansion or also applies to it, and repeats a link or fact only when it is really important (user, 2026-11-09)
+- Languages and platforms match the base game unless noted. Platforms changed over the years (for example the PlayStation 3 stopped receiving new expansions); each exception is recorded in the entry's platform rows.
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/final-fantasy-xiv-dawntrail/
@@ -162,6 +167,13 @@
 - Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - ファイナルファンタジーXIV: 黄金のレガシー; id 70050000069447; maker スクウェア・エニックス; type add-on content (DLC); release 2026.8.4; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
   - ファイナルファンタジーXIV: 黄金のレガシー - コレクターズエディション; id 70050000069448; maker スクウェア・エニックス; type add-on content (DLC); release 2026.8.4; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV:_Dawntrail#External_links -- 2 links -- accessed 2026-11-09 (revision 4028827 of 2026-08-01; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Dawntrail#External_links
+  - https://jp.finalfantasyxiv.com/dawntrail -- Official site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://na.finalfantasyxiv.com/dawntrail -- Official site (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
 ## Decisions
 

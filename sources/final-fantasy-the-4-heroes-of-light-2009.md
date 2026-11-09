@@ -77,4 +77,30 @@
 
 - https://strategywiki.org/wiki/Final_Fantasy:_The_4_Heroes_of_Light -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy: The 4 Heroes of Light article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy:_The_4_Heroes_of_Light#External_links -- 2 links -- accessed 2026-11-09 (revision 1384213274 of 2026-11-07; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20150125055339/http://www.ff4heroes.com/ -- Official website - Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/hikarino4sensi/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; 光の4戦士 -ファイナルファンタジー外伝- article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/光の4戦士_-ファイナルファンタジー外伝-#外部リンク -- 2 links -- accessed 2026-11-09 (revision 109887757 of 2026-06-11; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/hikarino4sensi/ -- 光の4戦士 -ファイナルファンタジー外伝 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://blog.jp.square-enix.com/hikarino4sensi/ -- 光の4戦士 -ファイナルファンタジー外伝- オフィシャルブログ -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy:_The_4_Heroes_of_Light#External_links -- 9 links -- accessed 2026-11-09 (revision 4013430 of 2026-06-11; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_4_Heroes_of_Light#External_links
+  - https://web.archive.org/web/20140330160807/http://www.square-enix.co.jp/hikarino4sensi/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20150125055339/http://www.ff4heroes.com/ -- Official English portal site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20150228162534/http://ff4heroes.com/na/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20150211031042/http://ff4heroes.com/eu/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://blog.jp.square-enix.com/hikarino4sensi/ -- Official blog -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/hikarino4sensi/ -- Square Enix official game detail page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/ff4heroes -- Official Twitter account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.facebook.com/ff4heroes -- Official Facebook page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/48590/final-fantasy-the-4-heroes-of-light/ -- Final Fantasy: The 4 Heroes of Light -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

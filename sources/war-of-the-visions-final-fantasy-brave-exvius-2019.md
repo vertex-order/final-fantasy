@@ -104,4 +104,35 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.WOTVffbeww -- app listed in the developer page captures of 2021-02-09, 2022-01-13, 2023-01-07, 2024-02-02, 2025-01-17 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20210209022718/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20250117023522/https://play.google.com/store/apps/dev?id=8026010256970589886
 
+## en.wikipedia.org (Information; War of the Visions: Final Fantasy Brave Exvius article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius#External_links -- 1 links -- accessed 2026-11-09 (revision 1366481936 of 2026-07-28; wikitext read through the MediaWiki API)
+  - https://wotvffbe.com/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; WAR OF THE VISIONS ファイナルファンタジー ブレイブエクスヴィアス 幻影戦争 article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/WAR_OF_THE_VISIONS_ファイナルファンタジー_ブレイブエクスヴィアス_幻影戦争#外部リンク -- 3 links -- accessed 2026-11-09 (revision 111290397 of 2026-10-06; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/WOTV/ -- WAR OF THE VISIONS ファイナルファンタジー ブレイブエクスヴィアス 幻影戦争 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/WOTV_FFBE -- Twitter account WOTV_FFBE (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCTojZ2_6OwqtVXITYrfJ5JA -- YouTube channel (template YouTube|c=UCTojZ2_6OwqtVXITYrfJ5JA) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius#External_links -- 14 links -- accessed 2026-11-09 (revision 4014740 of 2026-06-18; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius#External_links
+  - https://www.jp.square-enix.com/WOTV/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://wotvffbe.com/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://ex-univ.wotvffbe.com/ -- Final Fantasy Exvius Universe Special Website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/WAR-OF-THE-VISIONS-FINAL-FANTASY-BRAVE-EXVIUS -- War of the Visions Final Fantasy Brave Exvius -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/WOTV_FFBE -- Official Twitter account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/wotvffbe -- Official Twitter account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/wotvffbe -- Official Facebook page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.instagram.com/wotvffbe -- Official Instagram account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCXDqWwV2Bhlbf2xXGNHW4KA -- Official YouTube channel -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCFubNpTanEfVvQrpl21In0A -- Official YouTube channel -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://page.line.me/609geazu -- Official LINE account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=znKIhbl0yTM -- Teaser trailer -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.WOTVffbejp -- Google Play info and download (Japan) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/146826/war-of-the-visions-final-fantasy-brave-exvius/ -- War of the Visions: Final Fantasy Brave Exvius -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

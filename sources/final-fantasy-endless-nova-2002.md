@@ -23,4 +23,10 @@
   - Final Fantasy: Endless Nova -- type label Main Game; platforms shown: none shown
     - https://www.igdb.com/games/final-fantasy-endless-nova -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ff-fandom.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://ff-fandom.fandom.com/wiki/Final_Fantasy:_Endless_Nova#External_links -- 1 links -- accessed 2026-11-09 (revision 8122 of 2016-06-22; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Endless_Nova#External_links
+  - http://rpgmaker.net/games/6256/ -- RPGMaker.net's unofficial profile -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

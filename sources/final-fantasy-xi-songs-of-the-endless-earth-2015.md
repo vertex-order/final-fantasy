@@ -53,6 +53,10 @@ worldcat.org (Information, library catalog)
   - lists the Japanese ファイナルファンタジー11 : 終わりなき大地の唄 (KADOKAWA, 2015)
   - no translation
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXI article, 小説 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#小説 -- ファイナルファンタジーXI ～終わりなき大地の唄～: after six years, a new work by Miyabi Hasegawa, who had written the Famitsu Bunko novels, from the same publisher in B6 format; its content concerns the final chapter, ヴァナ・ディールの星唄 -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Not in the Final Fantasy XI Novels section; stays in the main section

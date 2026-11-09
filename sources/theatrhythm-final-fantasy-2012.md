@@ -161,4 +161,24 @@
 
 - https://strategywiki.org/wiki/Theatrhythm_Final_Fantasy -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Theatrhythm Final Fantasy article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Theatrhythm_Final_Fantasy#External_links -- 2 links -- accessed 2026-11-09 (revision 1363681007 of 2026-07-11; wikitext read through the MediaWiki API)
+  - http://theatrhythm.com/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/theatrhythm-final-fantasy -- MobyGames entry (template moby game id /theatrhythm-final-fantasy) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; シアトリズム ファイナルファンタジー article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/シアトリズム_ファイナルファンタジー#外部リンク -- 2 links -- accessed 2026-11-09 (revision 111275606 of 2026-10-05; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/t_ff/ -- シアトリズム ファイナルファンタジー -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.nintendo.co.jp/3ds/interview/creators/vol13/ -- 『THEATRHYTHM FINAL FANTASY』 - 社長が訊く ニンテンドー3DS ソフトメーカークリエイター篇 -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Theatrhythm_Final_Fantasy#External_links -- 3 links -- accessed 2026-11-09 (revision 3988429 of 2026-02-03; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy#External_links
+  - http://www.square-enix.co.jp/t_ff/ -- Official Japanese Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.theatrhythm.com/ -- Official English Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Theatrhythm_Final_Fantasy -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

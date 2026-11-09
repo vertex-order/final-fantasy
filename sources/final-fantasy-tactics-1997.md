@@ -687,6 +687,65 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2 -- app listed in the developer page captures of 2015-06-15, 2016-02-06, 2017-01-07, 2018-02-26, 2019-03-13, 2020-02-03 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20150615154752/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20200203130818/https://play.google.com/store/apps/dev?id=8026010256970589886
 
+## en.wikipedia.org (Information; Final Fantasy Tactics article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Tactics#External_links -- 3 links -- accessed 2026-11-09 (revision 1381471482 of 2026-10-22; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Final_Fantasy_Tactics -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20031004230514/http://www.square-enix-usa.com/games/fft/fft-index2.html -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20071030191809/http://www.us.playstation.com/PSone/Games/Final_Fantasy_Tactics/OGS/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジータクティクス article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクス#外部リンク -- 6 links -- accessed 2026-11-09 (revision 111471952 of 2026-10-22; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/fft/ -- ファイナルファンタジータクティクス -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/fft_shi/ -- ファイナルファンタジータクティクス 獅子戦争 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/fft_tic/ -- ファイナルファンタジータクティクス - イヴァリース クロニクルズ -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://dlgames.square-enix.com/fft/ -- FINAL FANTASY TACTICS 獅子戦争 iOS/Android版 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCLFzY4i69QWxKAFXwA6awRA -- YouTube channel (template YouTube|c=UCLFzY4i69QWxKAFXwA6awRA) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/FFT_TIC -- Twitter account FFT_TIC (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Tactics#External_links -- 37 links -- accessed 2026-11-09 (revision 4041270 of 2026-09-02; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics#External_links
+  - https://web.archive.org/web/20050204111909/http://www.square-enix.co.jp/games/ps/fft/fft.html -- Final Fantasy Tactics official site (Japanese) [Final Fantasy Tactics] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/fft/ -- Final Fantasy Tactics official game detail page (Japanese) [Final Fantasy Tactics] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20170906233001/http://www.jp.square-enix.com/archive/ff_tactics/ -- Final Fantasy Tactics official game archive page (Japanese) [Final Fantasy Tactics] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20160701203339/http://www.finalfantasy.jp/products/ff_tactics/ -- Final Fantasy Tactics official goods detail page (Japanese) [Final Fantasy Tactics] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20041015105340/http://www.playonline.com/m_colle/fft.html -- Square Millennium Collection Series 1 Final Fantasy Tactics official PlayOnline site (Japanese) [Final Fantasy Tactics] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20041205094711/http://www.square-enix.co.jp/games/ps/m_colle/fft.html -- Square Millennium Collection Series 1 Final Fantasy Tactics official site (Japanese) [Final Fantasy Tactics] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20170825181858/http://jp.square-enix.com/archive/fft_mcolle/ -- Square Millennium Collection Series 1 Final Fantasy Tactics official game archive page (Japanese) [Final Fantasy Tactics] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20170825175103/http://jp.square-enix.com/archive/fft_psonebooks/ -- Final Fantasy Tactics (PS one Books) official game archive page (Japanese) [Final Fantasy Tactics] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/slpm-87392.html -- Final Fantasy Tactics [Final Fantasy Tactics] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20160515214212/http://www.finalfantasy.jp/products/uh-fft/ -- Ultimate Hits Final Fantasy Tactics official goods detail page (Japanese) [Final Fantasy Tactics] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20031004230514/http://www.square-enix-usa.com/games/fft/fft-index2.html -- Official site (North American) [Final Fantasy Tactics] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20071030191809/http://www.us.playstation.com/PSone/Games/Final_Fantasy_Tactics/OGS/ -- Official PlayStation (US) site [Final Fantasy Tactics] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20190211190133/http://www.square-enix.co.jp/fft/ -- Final Fantasy Tactics: The War of the Lions official site (Japanese) [Final Fantasy Tactics: The War of the Lions] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/fft_shi/ -- Final Fantasy Tactics: The War of the Lions official game detail page (Japanese) [Final Fantasy Tactics: The War of the Lions] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/uljm-05516.html -- Final Fantasy Tactics: The War of the Lions [Final Fantasy Tactics: The War of the Lions] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20121228093933/http://www.finalfantasy.jp/products/uh-fft-psp/ -- Ultimate Hits Final Fantasy Tactics: The War of the Lions official goods detail page [Final Fantasy Tactics: The War of the Lions] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20121014113124/http://na.square-enix.com/fftactics/ -- Final Fantasy Tactics: The War of the Lions official site (North American) [Final Fantasy Tactics: The War of the Lions] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20090210045753/http://www.finalfantasytactics.eu.com/ -- Final Fantasy Tactics: The War of the Lions official site (European) [Final Fantasy Tactics: The War of the Lions] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://dlgames.square-enix.com/fft/ -- Final Fantasy Tactics: The War of the Lions (Smartphone) official site [Final Fantasy Tactics: The War of the Lions] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20111115045613/http://www.finalfantasy.jp/products/iphone_fft/ -- Final Fantasy Tactics: The War of the Lions (iPhone) official goods detail page (Japanese) [Final Fantasy Tactics: The War of the Lions] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20130630105344/http://www.finalfantasy.jp/products/fft_ipad/ -- Final Fantasy Tactics: The War of the Lions (iPad) official goods detail page (Japanese) [Final Fantasy Tactics: The War of the Lions] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20130227173644/http://www.finalfantasy.jp/products/fft_android/ -- Final Fantasy Tactics: The War of the Lions (Android) official goods detail page (Japanese) [Final Fantasy Tactics: The War of the Lions] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-TACTICS-THE-WAR-OF-THE-LIONS -- Final Fantasy Tactics: The War of the Lions [Final Fantasy Tactics: The War of the Lions] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/us/app/final-fantasy-tactics-war/id446760220?mt=8 -- iTunes Store purchase page [Final Fantasy Tactics: The War of the Lions] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFT_en2 -- Google Play purchase page [Final Fantasy Tactics: The War of the Lions] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20170619213007/http://dlgames.square-enix.com/jp/psga/2009/fftactics/ -- Final Fantasy Tactics (Game Archives) official site (Japanese) [Final Fantasy Tactics (Game Archives)] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/fft_tic/ -- Final Fantasy Tactics - The Ivalice Chronicles official site (Japanese) [Final Fantasy Tactics - The Ivalice Chronicles] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFT_TIC -- Final Fantasy Tactics - The Ivalice Chronicles official Twitter account (Japanese) [Final Fantasy Tactics - The Ivalice Chronicles] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://final-fantasy-tactics-the-ivalice-chronicles.square-enix-games.com/en-us -- Final Fantasy Tactics - The Ivalice Chronicles official site (North American) [Final Fantasy Tactics - The Ivalice Chronicles] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-TACTICS---THE-IVALICE-CHRONICLES -- Final Fantasy Tactics - The Ivalice Chronicles [Final Fantasy Tactics - The Ivalice Chronicles] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Tactics -- English Wikipedia article (interwiki link) [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/4522/final-fantasy-tactics/ -- Final Fantasy Tactics [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/231847/final-fantasy-tactics-the-war-of-the-lions/ -- Final Fantasy Tactics: The War of the Lions [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/248588/final-fantasy-tactics-the-ivalice-chronicles/ -- Final Fantasy Tactics: The Ivalice Chronicles [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=ezAAz9sV2nk -- Which Version of Final Fantasy Tactics Should You Play? - All Versions Reviewed & Compared! - YouTube [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.videogamesprites.net/FinalFantasyTactics/ -- Final Fantasy Tactics Sprites [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://fantasyanime.com/finalfantasy/fftactics/screenshots/index.php -- Final Fantasy Tactics Screen Shots ~PSX~ [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 
 

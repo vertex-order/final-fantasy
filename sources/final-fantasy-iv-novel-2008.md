@@ -43,4 +43,8 @@ youtube.com (Information)
 breezewiki.com (Information)
 - https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits (Ichiro Tezuka), dates (both volumes December 25, 2008), ISBNs (Jōkan 978-4-7575-2458-3, Gekan 978-4-7575-2459-0); the Novels table row only, no dedicated page — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
 
+## ja.wikipedia.org (Information; ファイナルファンタジーIV article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIV#関連商品 -- 小説: published by Square Enix in two volumes on 2008-12-25 (上巻 ISBN 978-4-7575-2458-3, 下巻 978-4-7575-2459-0); original plan and supervision 時田貴司, text 手塚一郎, illustrations オグロアキラ -- accessed 2026-11-09 (revision 111593793 of 2026-10-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

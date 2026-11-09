@@ -86,6 +86,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Eight publisher dates are months only: the product pages of all eight give the 1st of the month, the same month as NDL's, so no day is known (see Sources) -- used
 - bg-wiki's blurbs per book (story versus gag) were only skimmed -- shallow
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXI article, 漫画 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#漫画 -- アンソロジーコミック, single-author collections: LANDS END (清瀬のどか), ぼくらのきもち Boy meets Girl (おおつきべるの), おかえり Welcome Back! (うず), Trick Star (Mrパブロフ), いつか君にとどく風 (沙月ゆう), てっぺんのうた (おおつきべるの), ぷりけつ行進曲 (吉田満), おかえり 2 Welcome Back! (うず), ストレンジャーズ Strangers (小林こたろ), GO!GO!ヴァナ・ディール!! (寒苦鳥), ガルカ、はじめました。 (菊野郎), 君のうた、僕のあしあと (ほんだある), フォーチュンボックス (Carawey), おきらくデイズ (島津美保), GO!GO!ヴァナ・ディール!!2 (寒苦鳥), 空回りで行こう! (小虎), まったりにぎにぎ冒険記 はるぅぼん -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - One entry of 22 volumes (user, 2026-10-15): single-artist collections of XI comics by 16 artists, from one publisher, each pairing a contributor's work with new pages

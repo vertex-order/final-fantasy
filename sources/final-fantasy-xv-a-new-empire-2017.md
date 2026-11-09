@@ -71,6 +71,13 @@
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy XV: A New Empire
 
+## en.wikipedia.org (Information; Final Fantasy XV: A New Empire article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_XV:_A_New_Empire#External_links -- 3 links -- accessed 2026-11-09 (revision 1357846312 of 2026-06-05; wikitext read through the MediaWiki API)
+  - https://www.finalfantasyxvapp.com/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20241127002407/https://www.finalfantasyxv-anewempire.com/en-us/articles/the-future-of-ffxv-a-new-empire -- Web archive link () -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.finalfantasyxv-anewempire.com/en-us/articles/the-future-of-ffxv-a-new-empire -- link on the page -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 - `helpWanted` removed (user, 2026-10-21)
 - Date is 2017-03-31, the New Zealand limited release, not the worldwide release (user, 2026-10-21)

@@ -58,4 +58,12 @@
   - Theatrhythm Final Fantasy: All-Star Carnival (2016) -- type label Main Game; platforms shown: Arcade; released 2016-09-27
     - https://www.igdb.com/games/theatrhythm-final-fantasy-all-star-carnival -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Theatrhythm_Final_Fantasy_All-Star_Carnival#External_links -- 3 links -- accessed 2026-11-09 (revision 4063630 of 2026-10-22; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy_All-Star_Carnival#External_links
+  - http://www.jp.square-enix.com/t_ffac/ -- Official Site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.acc.theatrhythm.com/ -- Player Portal (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/tff_ac -- Official Twitter Account (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

@@ -16,4 +16,10 @@
   - Final Fantasy: Legend of Balance (2015) -- type label Main Game; platforms shown: PC (Microsoft Windows); released 2015-05-25
     - https://www.igdb.com/games/final-fantasy-legend-of-balance -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ff-fandom.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://ff-fandom.fandom.com/wiki/Final_Fantasy:_Legend_of_Balance#External_links -- 1 links -- accessed 2026-11-09 (revision 8314 of 2017-07-07; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/ff-fandom/wiki/Final_Fantasy:_Legend_of_Balance#External_links
+  - http://rpgmaker.net/games/7777/ -- Official RPGMaker.net profile -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

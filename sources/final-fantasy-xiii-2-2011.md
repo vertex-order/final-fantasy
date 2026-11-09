@@ -444,6 +444,34 @@ Page URL by capture: 2024-05-18 to 2024-06-23 https://marketplace.xbox.com/en-GB
 
 - https://strategywiki.org/wiki/Final_Fantasy_XIII-2 -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy XIII-2 article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2#External_links -- 2 links -- accessed 2026-11-09 (revision 1381522850 of 2026-10-23; wikitext read through the MediaWiki API)
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_XIII-2 -- Wikimedia Commons sister-project link (template commons category) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) official website template with no URL on the page (taken from Wikidata, not resolved) -- accessed 2026-11-09
+
+## ja.wikipedia.org (Information; ファイナルファンタジーXIII-2 article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII-2#外部リンク -- 3 links -- accessed 2026-11-09 (revision 110335847 of 2026-07-19; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/fabula/FF13_Portal/ff13-2/ -- FINAL FANTASY XIII-2 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff13-2/ -- ファイナルファンタジーXIII-2 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://store.steampowered.com/app/292140 -- Steam (template Steam app|292140) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy XIII-2 page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_XIII-2#External_links -- 1 links -- accessed 2026-11-09 (revision 20633 of 2026-10-28; wikitext read through the MediaWiki API)
+  - https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2 -- Final Fantasy XIII-2 -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIII-2#External_links -- 5 links -- accessed 2026-11-09 (revision 4001327 of 2026-04-04; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2#External_links
+  - http://www.square-enix.co.jp/fabula/ff13-2/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.ff13-2testplay.com/#/top -- Final Fantasy XIII-2 Judge 13 - Official Test Players website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://na.square-enix.com/ffxiii-2/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.finalfantasy13-2game.com/ -- Domain site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2 -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

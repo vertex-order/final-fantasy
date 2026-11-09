@@ -5,6 +5,11 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
+## Base game
+
+- This expansion expands [final-fantasy-xiv-a-realm-reborn-2013.md](final-fantasy-xiv-a-realm-reborn-2013.md). The base game's file holds the languages, platforms, official sites and links that apply to the whole game; this file records only what is specific to the expansion or also applies to it, and repeats a link or fact only when it is really important (user, 2026-11-09)
+- Languages and platforms match the base game unless noted. Platforms changed over the years (for example the PlayStation 3 stopped receiving new expansions); each exception is recorded in the entry's platform rows.
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/final-fantasy-xiv-heavensward/
@@ -175,6 +180,13 @@
 - https://en.wikipedia.org/wiki/List_of_PlayStation_4_games_(A%E2%80%93L) -- dates*, platforms* -- accessed 2026-11-03 (revision 1374216187 of 2026-09-10; wikitext read through the MediaWiki API); archived: TODO
   - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
   - Row: Final Fantasy XIV: Heavensward; developer column Square Enix; JP, NA and PAL 2015-06-23; no options marker
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV:_Heavensward#External_links -- 2 links -- accessed 2026-11-09 (revision 4010501 of 2026-05-25; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Heavensward#External_links
+  - https://jp.finalfantasyxiv.com/heavensward/ -- Official site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://na.finalfantasyxiv.com/heavensward/ -- Official site (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
 ## Decisions
 

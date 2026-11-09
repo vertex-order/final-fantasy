@@ -99,6 +99,7 @@ https://howlongtobeat.com/game/3480
 https://www.mobygames.com/game/40255/final-fantasy-iii/
 - https://www.mobygames.com/game/15750/final-fantasy-i-ii-dawn-of-souls/ -- age, dates, platforms, ratings, tags, versions -- accessed 2026-09-19
 - https://www.mobygames.com/game/final-fantasy-origins/ -- TODO: archive mirror
+- https://www.mobygames.com/game/7313/final-fantasy/ -- link recorded only -- accessed 2026-11-08 -- shallow: fetch returned HTTP 403, page not read
 
 
 ## Nintendo (Platform)
@@ -978,6 +979,28 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 - https://strategywiki.org/wiki/Final_Fantasy_I-II -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Final_Fantasy_Origins -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Final_Fantasy_I_%26_II:_Dawn_of_Souls -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-08)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy#External_links -- two links -- accessed 2026-11-08 (revision 4055032 of 2026-10-03; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy#External_links
+  - https://en.wikipedia.org/wiki/Final_Fantasy_(video_game) -- the English Wikipedia article (recorded in the wikipedia.org section) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://www.cavesofnarshe.com/ff1/ -- Caves of Narshe Final Fantasy I Collection (recorded in the cavesofnarshe.com section as https://www.cavesofnarshe.com/ff1/) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## finalfantasywiki.com (Information; External links section, live page of 2026-11-08)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy#External_links -- two links -- accessed 2026-11-08 (revision 20438 of 2026-10-13; wikitext read through the MediaWiki API)
+  - https://www.finalfantasykingdom.net/finalfantasynes.php -- NES version on Final Fantasy Kingdom (recorded in the finalfantasykingdom.net section) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyI -- Final Fantasy on TV Tropes Wiki (recorded in the tvtropes.org section) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## finalfantasy.fandom.com (Information; bundle links from the Final Fantasy II page, External links section, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_II#External_links -- the page's links for the bundles that contain this game as well as Final Fantasy II -- accessed 2026-11-09 (revision 4037150 of 2026-08-27; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II#External_links
+  - http://www.square-enix.co.jp/games/gba/ff1-2/index_n.html -- Final Fantasy I・II Advance, official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://archive.na.square-enix.com/games/FFORIGINS/ -- Final Fantasy Origins, official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://archive.na.square-enix.com/games/DOS/ -- Final Fantasy I・II Dawn of Souls, official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://archive.na.square-enix.com/ffanniversary/ -- Final Fantasy 20th Anniversary, official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
 ## Decisions
 

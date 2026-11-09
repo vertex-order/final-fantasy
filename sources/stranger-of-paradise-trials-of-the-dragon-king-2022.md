@@ -5,6 +5,11 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
+## Base game
+
+- This DLC expands [stranger-of-paradise-final-fantasy-origin-2022.md](stranger-of-paradise-final-fantasy-origin-2022.md). The base game's file holds the languages, platforms, official sites and links that apply to the whole game; this file records only what is specific to the DLC or also applies to it, and repeats a link or fact only when it is really important (user, 2026-11-09)
+- Languages and platforms match the base game unless noted.
+
 ## breezewiki.com (Information)
 
 - https://breezewiki.com/finalfantasy/wiki/Trials_of_the_Dragon_King

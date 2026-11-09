@@ -47,4 +47,16 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Final Fantasy XV (2016) -- no card of its own on the saved pages; the parent of Final Fantasy XV: Episode Duscae (2015)
     - https://www.igdb.com/games/final-fantasy-xv -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; Development of Final Fantasy XV article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Development_of_Final_Fantasy_XV#External_links -- 2 links -- accessed 2026-11-09 (revision 1384321687 of 2026-11-07; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Final_Fantasy#Final_Fantasy_XV -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.finalfantasyxv.com/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV_Episode_Duscae#External_links -- 1 links -- accessed 2026-11-09 (revision 4008687 of 2026-05-12; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Episode_Duscae#External_links
+  - http://www.youtube.com/watch?v=DwRAdYGMmbY -- Trailer at YouTube -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

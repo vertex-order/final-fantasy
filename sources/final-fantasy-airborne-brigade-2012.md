@@ -176,4 +176,15 @@ Korean version (Daum Mobage):
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy Airborne Brigade
 
+## en.wikipedia.org (Information; Final Fantasy Airborne Brigade article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Airborne_Brigade#External_links -- 1 links -- accessed 2026-11-09 (revision 1352705011 of 2026-05-05; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/mobile/etc/ff_b -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Airborne_Brigade#External_links -- 1 links -- accessed 2026-11-09 (revision 3988437 of 2026-02-03; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Airborne_Brigade#External_links
+  - http://www.square-enix.co.jp/mobile/etc/ff_b/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

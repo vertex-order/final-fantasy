@@ -37,6 +37,10 @@
     - consistent with the entry (1994-03-21, native; VHS and JP laserdisc rows, EN language)
     - its Reception section collects mixed reviews (GameSpot, EX, Animefringe), a critical-content note outside our scope
     - its Links section names only https://www.square-enix.com/
+## ja.wikipedia.org (Information; ファイナルファンタジーV article, 派生作品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーV#派生作品 -- listed as the OVA (ファイナルファンタジー) released in 1994 in four volumes, 風の章, 炎の章, 竜の章 and 星の章, depicting the world 200 years after this game -- accessed 2026-11-09 (revision 111160450 of 2026-09-26; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Episode parts (user, 2026-10-19): the four chapters are `contents` parts, for the planned per-part tracking

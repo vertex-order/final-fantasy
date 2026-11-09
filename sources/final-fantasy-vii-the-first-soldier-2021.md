@@ -102,4 +102,35 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_VII:_The_First_Soldier -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_The_First_Soldier#External_links -- 12 links -- accessed 2026-11-09 (revision 4041163 of 2026-09-02; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_First_Soldier#External_links
+  - https://web.archive.org/web/20221025141929/https://www.jp.square-enix.com/ffvii_fs/ -- Official site, Japanese, Wayback capture of 2022-10-25 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20221115225450/https://ffvii-the-first-soldier.square-enix-games.com/en-us/ -- Official site, English, Wayback capture of 2022-11-15 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-VII-THE-FIRST-SOLDIER -- Square Enix North America Press Hub -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.ateam-entertainment.com/en/services/787/ -- Ateam Entertainment official website (also recorded above) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFVII_FS_JP -- Official Twitter account, Japanese (an xcancel mirror of https://x.com/FFVII_FS_JP) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFVII_FS_EN -- Official Twitter account, English (an xcancel mirror of https://x.com/FFVII_FS_EN) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.instagram.com/ffvii_fs/ -- Official Instagram account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20220709051223/https://www.facebook.com/FF7FSJP/ -- Official Facebook page, Japanese, Wayback capture of 2022-07-09 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20221213222046/https://www.facebook.com/FF7FS/ -- Official Facebook page, English, Wayback capture of 2022-12-13 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://page.line.me/ff7fsjp -- Official LINE account (the wiki marks it dead) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_VII:_The_First_Soldier -- English Wikipedia article -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/175391/final-fantasy-vii-the-first-soldier/ -- MobyGames entry -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_VII:_The_First_Soldier#External_links -- one link -- accessed 2026-11-09 (revision 10376 of 2022-11-20; wikitext read through the MediaWiki API)
+  - https://ffvii-the-first-soldier.square-enix-games.com/en-us/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy VII: The First Soldier article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII:_The_First_Soldier#External_links -- one link -- accessed 2026-11-09 (revision 1378059857 of 2026-10-02; wikitext read through the MediaWiki API)
+  - https://www.ffviifs.com/en/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Video_games section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- The First Soldier: a free-to-play battle royale multiplayer game for mobile phones released 2021-11-17, developed by Ateam and published by Square Enix, set 18 years before the original; 3 versus 3 multiplayer arena matches in a virtual-reality recreation of Midgar; shut down on 2023-01-11 -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

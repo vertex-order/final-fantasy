@@ -5,6 +5,11 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
+## Base game
+
+- This expansion expands [final-fantasy-xiv-a-realm-reborn-2013.md](final-fantasy-xiv-a-realm-reborn-2013.md). The base game's file holds the languages, platforms, official sites and links that apply to the whole game; this file records only what is specific to the expansion or also applies to it, and repeats a link or fact only when it is really important (user, 2026-11-09)
+- Languages and platforms match the base game unless noted. Platforms changed over the years (for example the PlayStation 3 stopped receiving new expansions); each exception is recorded in the entry's platform rows.
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/final-fantasy-xiv-endwalker/
@@ -138,6 +143,13 @@
     - https://www.igdb.com/games/final-fantasy-xiv-endwalker-collectors-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
   - Final Fantasy XIV Online (2013) -- no card of its own on the saved pages; the parent of Final Fantasy XIV: Endwalker (2021)
     - https://www.igdb.com/games/final-fantasy-xiv-online--1 -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV:_Endwalker#External_links -- 2 links -- accessed 2026-11-09 (revision 4022830 of 2026-07-17; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Endwalker#External_links
+  - https://jp.finalfantasyxiv.com/endwalker -- Official site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://na.finalfantasyxiv.com/endwalker -- Official site (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
 ## Decisions
 

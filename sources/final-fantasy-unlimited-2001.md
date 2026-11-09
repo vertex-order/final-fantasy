@@ -26,4 +26,9 @@
   - it also ranks the series #18 of 20 on the Anihabara list for November 2001 (a reception note outside our scope)
   - **its Related Media section names the related works, all of which are entries in this group**: Sou no Kizuna (Twin Bonds), Unlimited Before (called a CD drama), the serial web novel After Spiral, the 2002 book Gakai no Sho (in Unlimited After), the radio drama After 2 (broadcast on December 26, 2002 by Avex), the games Unlimited with U and Unlimited on PC Adventure - Labyrinth (checked 2026-10-17)
 
+## en.wikipedia.org and ja.wikipedia.org (Information; the anime's own articles, External links sections, live pages of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy:_Unlimited#External_links -- six links: a Wikiquote template, GONZO official page, the official fan site (2004 capture), IMDb tt0304012, the Final Fantasy Compendium page and a fan translation site -- accessed 2026-11-09 (revision 1379290309 of 2026-10-09; wikitext read through the MediaWiki API); the same links are listed in sources/final-fantasy-unlimited-with-u-2002.md
+- https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜#外部リンク -- the GONZO page https://www.gonzo.co.jp/works/ffu/ and the official fan site (2004-07-07 capture) -- accessed 2026-11-09 (revision 111204422 of 2026-09-29)
+
 ## Decisions

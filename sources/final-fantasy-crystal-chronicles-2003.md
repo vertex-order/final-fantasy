@@ -373,4 +373,37 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFCCREww -- app listed in the developer page captures of 2021-02-09, 2025-01-17, 2026-01-05 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20210209022718/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20260105211845/https://play.google.com/store/apps/dev?id=8026010256970589886
 
+## en.wikipedia.org (Information; Final Fantasy Crystal Chronicles (video game) article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)#External_links -- 2 links -- accessed 2026-11-09 (revision 1383700893 of 2026-11-04; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Final_Fantasy_Crystal_Chronicles -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/ffcc/original/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジー・クリスタルクロニクル article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル#外部リンク -- 6 links -- accessed 2026-11-09 (revision 111104657 of 2026-09-22; wikitext read through the MediaWiki API)
+  - https://www.nintendo.co.jp/ngc/gccj/ -- ファイナルファンタジー・クリスタルクロニクル -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffcc/ -- ファイナルファンタジー・クリスタルクロニクル リマスター -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/FFCC_PR -- Twitter account FFCC_PR (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/playlist?list=PLsHA74V3bmZ7jdL0nv8k2vXIgyzG9_X9T -- YouTube playlist (template YouTube|p=PLsHA74V3bmZ7jdL0nv8k2vXIgyzG9_X9T) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCUF3bloWsBkTMxH0KJVTF2A -- YouTube channel (template YouTube|c=UCUF3bloWsBkTMxH0KJVTF2A) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.nintendo.co.jp/nom/0308/index.html -- Nintendo Online Magazine 2003年8月号 "ゲーム"へのかつてない挑戦！『ポケモンチャンネル』＆『ファイナルファンタジー・クリスタルクロニクル』大特集 -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy Crystal Chronicles page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles#External_links -- 1 links -- accessed 2026-11-09 (revision 20621 of 2026-10-27; wikitext read through the MediaWiki API)
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles -- Final Fantasy Crystal Chronicles -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles#External_links -- 7 links -- accessed 2026-11-09 (revision 4058577 of 2026-10-09; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles#External_links
+  - http://na.square-enix.com/games/ffcc/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://ms.nintendo-europe.com/ffcc/enGB/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.nintendo.co.jp/ngc/gccj/ -- Original version official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffcc/ -- Remastered Edition official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.gamefaqs.com/console/gamecube/data/914433.html -- GameFAQs entry for Final Fantasy Crystal Chronicles -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.gamerankings.com/htmlpages2/914433.asp?q=final%20fantasy%20crystal%20chronicles -- Collection of reviews of Final Fantasy Crystal Chronicles -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.ffshrine.org/ffcc/ffcc.php -- Final Fantasy Crystal Chronicles Shrine -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

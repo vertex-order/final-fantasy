@@ -86,6 +86,11 @@ ffii-book.tumblr.com (Information; fan translation)
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーII#関連商品 -- related goods list -- accessed 2026-10-19 (text pasted by user)
   - Novel section lists 夢魔の迷宮 (1989-04, Kadokawa Shoten, Terada, illustrations Amano); no mention of the Maru-Katsu booklet
   - Also lists the gamebooks (Tokuma 勝利への旅立ち 1988-12, Daikuubunko 将軍ボーゲンとの死闘 1989-01-13, Futabasha 秘宝のドラゴン 1989-01-19) and guides
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーII#ファイナルファンタジーII_夢魔の迷宮 -- the novel's own section: infobox author 寺田憲史, illustrations 天野喜孝, publisher 角川書店, label 角川スニーカー文庫, released 1989年4月, 1 volume -- accessed 2026-11-08 (revision 110746553 of 2026-08-23; wikitext read through the MediaWiki API); archived: TODO
+  - Original story written by scenario writer Terada; same characters as the game with settings added and changed; Cid, Josef and Richard do not appear
+  - Firion (18, the second of the sworn brothers, a war orphan of Salamand raised by the father of Leonhart and Maria); Maria (17, lives in a Mythidia settlement, hunts); Guy (16, raised by the monster Mouser until age 10); Leonhart (19, hunter, disappears on carnival night after killing his dog Pere); Hilda (19, married on the day of the Paramekia attack)
+  - Minwu does not travel with Firion and does not die; Gordon leads fishermen as "Goji"; Leila is a pirate working the arena; Paul is a petty thief hiding a wyvern; Emperor Mateus's mother is Ail; Count Bohgen is a black mage from Salamand
+  - World of seven countries: Fynn, Kashuon, Paramekia, Dist, Altair, Salamand, Mythidia; the rebels retreat to Dist, not Altair; Dist is a Fynn warlord faction turned vassal state
 - https://akadani.hatenablog.jp/entry/2022/05/27/000002 -- novel review -- accessed 2026-10-19 (text pasted by user)
   - Sneaker Bunko, 平成元年, Kadokawa Shoten; "完全小説化" but not faithful to the game; starts with the festival preparations in Mishidia (the novel's opening, not the booklet's)
 - https://wikiwiki.jp/ffdic/書籍/【ファイナルファンタジーII 夢魔の迷宮】 -- novel notes -- accessed 2026-10-19 (text pasted by user)
@@ -100,6 +105,10 @@ ffii-book.tumblr.com (Information; fan translation)
   - the NDL search for the Roman-numeral title lists ファイナルファンタジーⅡ : 夢魔の迷宮 (角川文庫), 寺田憲史 [著], 角川書店, **1989.4** (call number KH613-E58, with a digital copy)
   - NDL's month is April, which agrees with the podcast's 4/1/1989 and not with Wikipedia's March 20, 1989 (the entry's date)
   - NDL's month has trailed the publisher's in several other records and the podcast is unreliable for dates, so the conflict stays unresolved
+
+## en.wikipedia.org (Information; Final Fantasy II article, Legacy section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_II#Legacy -- novelization Final Fantasy II: The Labyrinth of Nightmares: written by Terada, illustrated by Amano, Kadokawa Sneaker Bunko, 1989-03-20 -- accessed 2026-11-09 (revision 1382449708 of 2026-10-28; wikitext read through the MediaWiki API); archived: TODO
 
 ## Decisions
 

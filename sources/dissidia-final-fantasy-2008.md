@@ -171,4 +171,19 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)_v
 - https://strategywiki.org/wiki/Dissidia:_Final_Fantasy -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Dissidia_012_Final_Fantasy -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Dissidia Final Fantasy article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Dissidia_Final_Fantasy#External_links -- 3 links -- accessed 2026-11-09 (revision 1382706623 of 2026-10-29; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Dissidia:_Final_Fantasy -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://dissidia-finalfantasy.com/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/dissidia_ut/ -- Dissidia Final Fantasy Universal Tuning website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ディシディア ファイナルファンタジー article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ディシディア_ファイナルファンタジー#外部リンク -- 4 links -- accessed 2026-11-09 (revision 111444142 of 2026-10-19; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/dissidia/ -- DISSIDIA FINAL FANTASY -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/dffut/ -- DISSIDIA FINAL FANTASY UNIVERSAL TUNING -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/DFF_Arcade -- Twitter account DFF_Arcade (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) YouTube template: {{YouTube|playlist = PLsHA74V3bmZ5rXSOSXHsJzmP_Ow2mQn0P}} -- accessed 2026-11-09
+
 ## Decisions

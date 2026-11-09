@@ -74,4 +74,8 @@ fukkan.com (Information)
 - tradersguild text calls it a gamebook based on the Famicom first game with Futabasha's own interpretation, far from the original
 - Fan translation search (DuckDuckGo) and fan recap search (YouTube): no results (user, 2026-10-19)
 
+## ja.wikipedia.org (Information; ファイナルファンタジー article, 関連作品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー#関連作品 -- ゲームブック『ファイナルファンタジー 勇者に光あれ!』: published 1988-04-25 by 双葉社 in the ファミコン冒険ゲームブック series, author 井上尚美, edited by レッカ社; a story set before the game with named Warriors of Light (トーイ, ロム, マレク, ギア) in an original world that is neither Corneria nor Pravoka, whose map inverts the land and sea of the original; cover illustration by 出渕裕 based on Amano's package art; the heroine is an original character chosen as Light Priestess -- accessed 2026-11-09 (revision 111583688 of 2026-10-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

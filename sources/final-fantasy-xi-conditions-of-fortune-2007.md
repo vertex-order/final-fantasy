@@ -63,6 +63,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - First book (`winds-of-prayer-novel-2002`) has a ファミ通文庫 cover scan
   - AO3 translator calls it "the light novel"
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXI article, 小説 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#小説 -- ファイナルファンタジーXI 幸運の条件: listed among the novels published by Famitsu Bunko, all by Miyabi Hasegawa: a long-running series whose volumes do not all follow the same protagonist -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Description names the corsair "Lucky Narfah" (Mithra) only

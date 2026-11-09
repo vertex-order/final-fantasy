@@ -586,4 +586,59 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://strategywiki.org/wiki/Final_Fantasy_IX -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_IX#External_links -- 27 links in the Information and Purchase subsections -- accessed 2026-11-09 (revision 4036311 of 2026-08-25; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX#External_links
+  - https://www.jp.square-enix.com/game/detail/ff9/ -- Official game detail site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20050323054611/http://www.square-enix.co.jp/games/ps/ffix/ffix2.html -- Official site, Japanese, Wayback capture of 2005-03-23 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20041103130415/http://www.playonline.com/ffix/ffix2.html -- Official PlayOnline site, Japanese, Wayback capture of 2004-11-03 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20120529074645/http://www.square-enix.com/jp/archive/ff9/ -- Official game archive page, Japanese, Wayback capture -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/slpm-87388.html -- Final Fantasy IX in the Ultimate Hits line -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20070529050700/http://na.square-enix.com/games/FFIX-gamesite/ -- Official site, North American, Wayback capture of 2007-05-29 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20040206013800/http://www.square-enix-europe.com/ff9/ -- Official site, European, Wayback capture of 2004-02-06 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20170619184430/http://dlgames.square-enix.com/jp/psga/2010/ff9/ -- Game Archives official site, Japanese, Wayback capture -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ff9/ -- Final Fantasy IX (2016) official site, Japanese -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20160803063236/http://www.finalfantasy.jp/products/ff9_dl/ -- 2016 version (iOS, Android, Windows) official goods detail page, Wayback capture -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20190204055848/http://jp.square-enix.com/ff9/en/ -- 2016 version official site, English, Wayback capture of 2019-02-04 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-IX -- Square Enix North America Press Hub -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://jp.finalfantasy.com/titles/finalfantasy9 -- Final Fantasy Portal Site, Japanese -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://na.finalfantasy.com/titles/finalfantasy9 -- Final Fantasy Portal Site, US English -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://eu.finalfantasy.com/titles/finalfantasy9 -- Final Fantasy Portal Site, UK English -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://jp.finalfantasy.com/ffix25th -- Final Fantasy IX 25th Anniversary special page (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20130512193109/http://finalfantasyixarchive.110mb.com/ -- Archive of the European PlayOnline guide, Wayback capture of 2013-05-12 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_IX -- English Wikipedia article -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/3556/final-fantasy-ix/ -- MobyGames entry -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=GOu4ZcDXhdE -- YouTube video "Which Version of Final Fantasy IX Should You Play? - All FFIX Ports Reviewed + Mods" -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://fantasyanime.com/finalfantasy/ff9/screenshots/ -- Final Fantasy IX screenshots on fantasyanime.com -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://store.playstation.com/en-us/product/UP9000-NPUJ01251_00-0000000000000001 -- Purchase: PS3/PSP/Vita (the wiki notes direct access from the console is required) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://store.playstation.com/en-us/product/UP0082-CUSA08877_00-FFIXDIGITALED000 -- Purchase: Digital Edition (PS4) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/us/app/final-fantasy/id1041260001?mt=8 -- Purchase: App Store for iOS -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.FFIXww.android_googleplay&hl=en_US -- Purchase: Google Play -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://store.steampowered.com/app/377840 -- Purchase: Steam -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.microsoft.com/en-us/p/final-fantasy-ix/9npgtnqfc8b5?activetab=pivot:overviewtab -- Purchase: Windows (universal) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy IX article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_IX#External_links -- three links and two sister-project templates -- accessed 2026-11-09 (revision 1384324990 of 2026-11-07; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Final_Fantasy_IX -- Wikiquote sister-project link (template Wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_IX -- Wikimedia Commons category sister-project link (template Commons category) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://finalfantasy-ix.square-enix-games.com/en-us/home/ -- Official website (template Official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/final-fantasy-ix -- MobyGames entry (template moby game id /final-fantasy-ix; the numbered page is recorded above) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.imdb.com/title/tt0249510/ -- IMDb title page (template IMDb title, id tt0249510) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーIX article, 外部リンク, 関連商品 and アニメ sections, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIX#外部リンク -- three links -- accessed 2026-11-09 (revision 111292135 of 2026-10-06; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ff9/ -- 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ff9/ -- リマスター版公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCnk3sgtPXw5QKzMIQ3Nq_Rg -- YouTube channel (template YouTube|c=UCnk3sgtPXw5QKzMIQ3Nq_Rg) -- link recorded only -- accessed 2026-11-09; archived: TODO
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIX#関連商品 -- related goods list -- accessed 2026-11-09 (same revision); archived: TODO
+  - Books (4): FINAL FANTASY IX ULTIMANIA (4-88787-025-6, 4-7575-1244-9; the book of the online guide ONLINE ULTIMANIA); ファイナルファンタジーで遊んでみませんか? FINAL FANTASY IX (Digicube mook, out of print); FINAL FANTASY IX メモリアルアルバム (Digicube film book, out of print); Vジャンプ緊急増刊 ファイナルファンタジーIX設定資料集 (Shueisha, out of print); listed in sources/ix-group.md
+  - Tetra Master From FINAL FANTASY IX (2002 to 2006, a PlayOnline online game): already an entry
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIX#アニメ -- the page's section on an anime -- accessed 2026-11-09 (same revision); archived: TODO
+  - FINAL FANTASY, BLACK MAGES LEGACY: an anime reported by 4Gamer.net as in production by the studio EuroVisual Studios (EV Studias), mainly about the children of Vivi, 10 episodes of about 22 minutes, no distribution medium decided; the page labels it a programme not yet released, as of 2025-03
+  - It follows an announcement of June 2021 that Cyber Group Studios would produce an anime series; 4Gamer reports that Cyber Group Studios has gone bankrupt and EV Studias appears to have inherited the production rights
+  - Status is unclear (no release or cancellation found on the page); see sources/ix-group.md and .plan/audit-open-items.md
+
 ## Decisions

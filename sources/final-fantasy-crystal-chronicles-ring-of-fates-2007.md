@@ -88,4 +88,32 @@
 - https://en.wikipedia.org/wiki/List_of_Nintendo_DS_games_(D%E2%80%93I) -- dates, platforms -- accessed 2026-11-03 (revision 1380441952 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Final Fantasy Crystal Chronicles: Ring of Fates; Developer(s): Square Enix; Publisher(s): Square Enix; First released: JP 2007-08-23; JP: Y; NA: Y; EU: Y; AU: Y
 
+## en.wikipedia.org (Information; Final Fantasy Crystal Chronicles: Ring of Fates article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates#External_links -- 3 links -- accessed 2026-11-09 (revision 1354253957 of 2026-05-15; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/ffcc/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://na.square-enix.com/ffccrof/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20080308162030/http://www.finalfantasycrystalchronicles.eu.com/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル_リング・オブ・フェイト#外部リンク -- 1 links -- accessed 2026-11-09 (revision 111104663 of 2026-09-22; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ffcc_rof/ -- ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy Crystal Chronicles: Ring of Fates page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates#External_links -- 4 links -- accessed 2026-11-09 (revision 20725 of 2026-10-28; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20081217022841/http://www.square-enix.co.jp/ffcc/ -- Japanese website [Official websites] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20081218015854/http://na.square-enix.com/ffccrof/ -- North American website [Official websites] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20090106033036/http://www.finalfantasycrystalchronicles.eu.com/ -- European website [Official websites] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates -- Final Fantasy Crystal Chronicles: Ring of Fates [Other wikis] -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates#External_links -- 3 links -- accessed 2026-11-09 (revision 3568420 of 2022-01-05; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates#External_links
+  - http://www.square-enix.co.jp/ffcc/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://na.square-enix.com/ffccrof/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.finalfantasycrystalchronicles.eu.com/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

@@ -315,4 +315,37 @@
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_VII_Revelation -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## square-enix.com and twitter.com (Information; series links from the Final Fantasy VII Rebirth article)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVII_リバース#外部リンク -- series links for the Remake trilogy -- accessed 2026-11-09 (revision 110899180 of 2026-09-05; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/ffvii_remake/ -- ファイナルファンタジーVII リメイクシリーズ ポータル (Square Enix official site, the series portal) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/FFVIIR_CLOUD -- Twitter account FFVIIR_CLOUD, the FF7 Remake project official account (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Revelation#External_links -- five links -- accessed 2026-11-09 (revision 4070216 of 2026-11-07; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Revelation#External_links
+  - https://www.jp.square-enix.com/ffvii_revelation/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.square-enix.com/ffvii/en-us/games/revelation/ -- Official English (US) site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.square-enix.com/ffvii/en-gb/games/revelation/ -- Official English (UK) site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-VII-REVELATION -- Square Enix North America Press Hub -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_VII_Revelation -- English Wikipedia article -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy VII Revelation article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII_Revelation#External_links -- one link -- accessed 2026-11-09 (revision 1381483197 of 2026-10-22; wikitext read through the MediaWiki API)
+  - https://www.square-enix.com/ffvii/en-us/games/revelation/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーVII リベレーション article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVII_リベレーション#外部リンク -- four links -- accessed 2026-11-09 (revision 111086457 of 2026-09-20; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/ffvii_remake/ -- ファイナルファンタジーVII リメイクシリーズ ポータル (the series portal, recorded in the section above) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffvii_revelation/ -- ファイナルファンタジーVII リベレーション -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/FFVIIR_CLOUD -- Twitter account FFVIIR_CLOUD, the FF7 Remake project official account (template Twitter; recorded in the section above) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://store.steampowered.com/app/4354570 -- Steam, ファイナルファンタジーVII リベレーション (template Steam app|4354570) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Video_games section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Revelation: an action role-playing game by Square Enix, scheduled for 2027-04-08 on Nintendo Switch 2, PlayStation 5, Windows and Xbox Series X/S, a direct sequel to Rebirth and the third and final installment of the Remake trilogy -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

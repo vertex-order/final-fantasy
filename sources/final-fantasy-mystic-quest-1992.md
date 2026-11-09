@@ -164,4 +164,35 @@
 
 - https://strategywiki.org/wiki/Final_Fantasy_Mystic_Quest -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## mobygames.com (Information)
+
+- https://www.mobygames.com/game/final-fantasy-mystic-quest -- the MobyGames entry, linked from en.wikipedia's External links (not fetched) -- accessed 2026-11-08; archived: TODO
+- https://www.mobygames.com/game/7197/final-fantasy-mystic-quest/ -- the MobyGames entry, linked from ja.wikipedia's 外部リンク (my fetch returned HTTP 403, page not read) -- accessed 2026-11-08; archived: TODO
+
+## rpgamer.com (Information)
+
+- http://www.rpgamer.com/games/ff/ffmq/ffmq.html -- RPGamer's Final Fantasy Mystic Quest page, linked from en.wikipedia's External links as the Wayback capture https://web.archive.org/web/20050716075927/http://www.rpgamer.com/games/ff/ffmq/ffmq.html (my fetch of the capture returned HTTP 429, not read) -- accessed 2026-11-08
+
+## Nintendo (Platform; Japan Virtual Console pages linked by ja.wikipedia)
+
+- https://www.nintendo.co.jp/wii/vc/vc_ffmq/index.html -- the Wii Virtual Console page of Final Fantasy USA Mystic Quest (Japan), linked from ja.wikipedia's 外部リンク (HTTP 200; page not read) -- accessed 2026-11-08; archived: TODO
+- https://www.nintendo.co.jp/wiiu/software/vc/jb7j/ -- the Wii U Virtual Console page, linked from ja.wikipedia's 外部リンク as a Wayback capture; the live URL returns HTTP 404 -- accessed 2026-11-08; archived: https://web.archive.org/web/20150717214245/https://www.nintendo.co.jp/wiiu/software/vc/jb7j/ (the capture ja.wikipedia links; my fetch returned HTTP 429, not read)
+
+## en.wikipedia.org (Information; Final Fantasy Mystic Quest article, External links section, live page of 2026-11-08)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Mystic_Quest#External_links -- two links: MobyGames and RPGamer -- accessed 2026-11-08 (revision 1383926529 of 2026-11-05; wikitext read through the MediaWiki API); each recorded in the sections above
+
+## ja.wikipedia.org (Information; Final Fantasy USA Mystic Quest article, 関連商品 and 外部リンク sections, live page of 2026-11-08)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーUSA_ミスティッククエスト#関連商品 -- related goods list -- accessed 2026-11-08 (revision 110094130 of 2026-06-28; wikitext read through the MediaWiki API); archived: TODO
+  - Books (3): NTT Publishing guide 冒険ガイドブック (1993-09, ISBN 4-87188-248-9); a book by おちよしひこ (越智善彦) and ファミリーコンピュータMagazine (Tokuma Shoten), 1993, titled ファイナルファンタジーUSA ミスティッククエスト, type not stated on the page; Doremi Gakufu piano book 楽しいバイエル併用 ファイナルファンタジーUSA ミスティッククエスト (1994-04, ISBN 4-8108-2633-3)
+  - The guide, the piano book and the CD are listed in sources/mq-group.md
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーUSA_ミスティッククエスト#外部リンク -- four links: https://www.jp.square-enix.com/game/detail/ffusa/ (recorded in the Square Enix Japan list sections above), the Wii and Wii U Virtual Console pages and MobyGames 7197 -- accessed 2026-11-08 (revision 110094130); each recorded in the sections above
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-08)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Mystic_Quest#External_links -- one link -- accessed 2026-11-08 (revision 4003658 of 2026-04-17; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Mystic_Quest#External_links
+  - https://www.jp.square-enix.com/game/detail/ffusa/ -- Official Japanese game detail page (also recorded in the Square Enix Japan list sections above) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
 ## Decisions

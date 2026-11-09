@@ -40,4 +40,8 @@ press.na.square-enix.com (Publisher, English press release)
   - Briana White (Aerith) and Britt Baron (Tifa), the English voices of the Remake series, announced the date in a video message and will read select passages from the novel on Square Enix's social media channels beginning in October
   - Official readings by the game's voice actors, not a fan audiobook, so no `fan-audiobook` link
 
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Books section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- Dear Destiny: a third novel by Nojima, a sequel to Traces of Two Pasts continuing the stories of Tifa and Aerith before the main story of the Remake; released in Japanese on 2026-01-30 -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

@@ -117,4 +117,41 @@
 
 - https://strategywiki.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Dirge_of_Cerberus_-Final_Fantasy_VII-#External_links -- four links -- accessed 2026-11-09 (revision 4053189 of 2026-09-28; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantasy_VII-#External_links
+  - https://en.wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII -- English Wikipedia article -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/24037/dirge-of-cerberus-final-fantasy-vii/ -- MobyGames entry -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/games/ps2/dcff7/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://na.square-enix.com/dcff7/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII#External_links -- three links -- accessed 2026-11-09 (revision 20728 of 2026-10-28; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20070206025925/http://www.square-enix.co.jp/games/ps2/dcff7 -- Japanese website, Wayback capture of 2007-02-06 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20070210015100/http://na.square-enix.com/dcff7/ -- North American website, Wayback capture of 2007-02-10 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII -- English Wikipedia article -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Dirge of Cerberus: Final Fantasy VII article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII#External_links -- two links and a Wikiquote template -- accessed 2026-11-09 (revision 1369265363 of 2026-08-13; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Final_Fantasy_VII_Dirge_of_Cerberus -- Wikiquote sister-project link (template wikiquote, page Final Fantasy VII Dirge of Cerberus) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/games/ps2/dcff7/ -- Official Japanese website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20061106072005/http://na.square-enix.com/dcff7/ -- Official North American website, Wayback capture of 2006-11-06 -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ダージュ オブ ケルベロス ファイナルファンタジーVII article, 外部リンク, 関連項目 and 関連商品 sections, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ダージュ_オブ_ケルベロス_ファイナルファンタジーVII#外部リンク -- three links -- accessed 2026-11-09 (revision 111434602 of 2026-10-19; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/dcff7/ -- スクウェア・エニックス内紹介ページ -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20070813063451/http://www.square-enix.co.jp/dcff7/ -- ダージュ オブ ケルベロス ファイナルファンタジーVII 公式サイト, Wayback capture of 2007-08-13 (original http://www.square-enix.co.jp/dcff7/) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/slpm-66629.html -- ダージュ オブ ケルベロス ファイナルファンタジーVII インターナショナル (Ultimate Hits) -- link recorded only -- accessed 2026-11-09; archived: TODO
+- https://ja.wikipedia.org/wiki/ダージュ_オブ_ケルベロス_ファイナルファンタジーVII#関連項目 -- related articles: ファイナルファンタジーVII, ビフォア クライシス, アドベントチルドレン, クライシス コア, リメイク, ダージュ オブ ケルベロス ロスト エピソード (a mobile spin-off; already an entry), and the non-Final Fantasy items モノリスソフト (the studio that made the background graphics) and シグマ ハーモニクス (a game sharing main staff) -- accessed 2026-11-09 (same revision)
+- https://ja.wikipedia.org/wiki/ダージュ_オブ_ケルベロス_ファイナルファンタジーVII#関連商品 -- related goods list -- accessed 2026-11-09 (same revision); archived: TODO
+  - Books (2): DIRGE of CERBERUS -FINAL FANTASY VII- PRELUDE (type not stated on the page; see .plan/audit-open-items.md); ダージュ オブ ケルベロス -ファイナルファンタジーVII- 公式コンプリートガイド (guide; listed in sources/vii-group.md)
+
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Video_games section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Dirge of Cerberus: an action game with first and third-person shooter elements; originally had a multiplayer mode, removed in the western version; released 2006-01-26 (Japan), 2006-08-15 (North America) and 2006-11-17 (Europe); the localized version was overhauled before release; an International version with those improvements was released in Japan on 2008-09-04 in the Ultimate Hits line -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

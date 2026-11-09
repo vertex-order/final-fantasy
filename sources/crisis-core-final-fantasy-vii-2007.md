@@ -420,4 +420,44 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
 
 - https://strategywiki.org/wiki/Crisis_Core:_Final_Fantasy_VII -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Crisis_Core_-Final_Fantasy_VII-#External_links -- four links -- accessed 2026-11-09 (revision 4067996 of 2026-11-01; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-#External_links
+  - https://web.archive.org/web/20070917190837/http://www.square-enix.co.jp/ccff7/ -- Official Japanese site, Wayback capture of 2007-09-17 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20110813111318/http://www.crisiscore.com/ -- Official North American site, Wayback capture of 2011-08-13 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20100620062754/http://www.crisiscoregame.com/ -- Official European site, Wayback capture of 2010-06-20 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://movies.rpgamer.com/ff/ff7cc/ff7cc001.wmv -- Crisis Core trailer, also the Last Order anime trailer (Windows Media file; also recorded in sources/last-order-final-fantasy-vii-2005.md) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Crisis_Core:_Final_Fantasy_VII#External_links -- four links -- accessed 2026-11-09 (revision 18565 of 2026-08-15; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/ccff7/ -- Japanese website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20081211103233/http://www.crisiscore.com/ -- North American website, Wayback capture of 2008-12-11 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20081211103233/http://www.crisiscoregame.com/ -- European website, Wayback capture of 2008-12-11 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://gamohol.com/en/crisis-core-final-fantasy-vii-reunion-return-psp-classic/ -- Crisis Core – Final Fantasy VII Review and News (Gamohol) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Crisis Core: Final Fantasy VII article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII#External_links -- two links and a Wikiquote template -- accessed 2026-11-09 (revision 1376399383 of 2026-09-23; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Final_Fantasy_VII:_Crisis_Core -- Wikiquote sister-project link (template wikiquote, page Final Fantasy VII: Crisis Core) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20090219224758/http://www.crisiscore.com/ -- Crisis Core official website, Wayback capture of 2009-02-19 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://ffvii.square-enix-games.com/en-us/games/crisis-core/ -- Crisis Core Reunion official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; クライシス コア ファイナルファンタジーVII article, 外部リンク, 関連項目 and 関連商品 sections, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/クライシス_コア_ファイナルファンタジーVII#外部リンク -- five links (the Twitter account ffviir_cloud, FFVII REMAKE, is recorded in sources/final-fantasy-vii-remake-part-1-2020.md) -- accessed 2026-11-09 (revision 110965997 of 2026-09-10; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ccff7/ -- クライシス コア -ファイナルファンタジーVII- (Square Enix) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ccffvii_reunion/ -- CRISIS CORE -FINAL FANTASY VII- REUNION (Square Enix) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCnlZrKAgYSt5lTxXxj7c8LQ -- YouTube channel (template YouTube|c=UCnlZrKAgYSt5lTxXxj7c8LQ) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://store.steampowered.com/app/1608070 -- Steam, CRISIS CORE –FINAL FANTASY VII– REUNION (template Steam app|1608070) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+- https://ja.wikipedia.org/wiki/クライシス_コア_ファイナルファンタジーVII#関連項目 -- five related articles: ファイナルファンタジーVII, ビフォア クライシス ファイナルファンタジーVII, ファイナルファンタジーVII アドベントチルドレン, ダージュ オブ ケルベロス ファイナルファンタジーVII, ファイナルファンタジーVII リメイク -- accessed 2026-11-09 (same revision); every one is already an entry
+- https://ja.wikipedia.org/wiki/クライシス_コア_ファイナルファンタジーVII#関連商品 -- related goods list -- accessed 2026-11-09 (same revision); archived: TODO
+  - Books (3, no ISBNs on the page): クライシス コア ファイナルファンタジーVII―Soldier's Combat Manual; クライシスコア-ファイナルファンタジーVII-アルティマニア; クライシスコア ファイナルファンタジー7 ザ・コンプリートガイド インクルーズ ストーリー＆ビジュアルアーカイブ; listed in sources/vii-group.md
+
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Video_games section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Crisis Core: an action role-playing game in which the player controls Zack Fair in a real-time combat system; released 2007-09-13 in Japan, 2008-03-24 in North America and 2008-06-20 in Europe; a remaster, Crisis Core: Final Fantasy VII Reunion, was released 2022-12-13 for Switch, PS4, PS5, Windows, Xbox One and Xbox Series X/S -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

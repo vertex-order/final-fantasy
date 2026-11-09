@@ -112,5 +112,35 @@ en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_Awakening#Release, tex
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy Awakening
 
+## en.wikipedia.org (Information; Final Fantasy Awakening article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Awakening#External_links -- 1 links -- accessed 2026-11-09 (revision 1384324982 of 2026-11-07; wikitext read through the MediaWiki API)
+  - https://mffaen.oasgames.com/web/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Awakening#External_links -- 20 links -- accessed 2026-11-09 (revision 4021846 of 2026-07-13; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Awakening#External_links
+  - https://web.archive.org/web/20210507074812/http://www.jp.square-enix.com/ff-agito/info/online/ -- Final Fantasy Type-0 Online original official site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20200529063950/http://ff.laohu.com/ -- Official site for China version (Perfect World Games) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20191119081152/https://ff.iwplay.com.tw/ -- Official site for Taiwan/Hong Kong/Macau version (IWPLAY WORLD) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20200711014702/https://www.facebook.com/ff.iwplay -- Official Facebook page for Taiwan/Hong Kong/Macau version (IWPLAY WORLD) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20191119135928/https://ffid.efunen.com/ -- Official site for Indonesia version (Efun) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/efunidff -- Official Facebook page for Indonesia version (Efun) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20200419221036/https://ffawakening.efunen.com/ -- Official site for Singapore/Malaysia version (Efun) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/efunff -- Official Facebook page for Singapore/Malaysia version (Efun) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20200927004017/https://mffaen.oasgames.com/web/ -- Official site (Oasis Games) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/finalfantasyawakening.en -- Official Facebook page (Oasis Games) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=I-Y0xdY95mQ -- Official announcement trailer -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/cn/app/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B3-%E8%A7%89%E9%86%92/id1072027092?l=en&mt=8 -- iTunes App Store (China) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/tw/app/final-fantasy%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3-%E8%A6%BA%E9%86%92/id1098671211?l=en&mt=8 -- iTunes App Store (Taiwan/Hong Kong/Macau) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=tw.com.iwplay.ff -- Google Play (Taiwan/Hong Kong/Macau) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/id/app/final-fantasy-awakening-3d-arpg-lisensi-resmi-se/id1234830159?mt=8 -- iTunes App Store (Indonesia) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.id.finalfantasy -- Google Play (Indonesia) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/sg/app/final-fantasy-awakening/id1204683638?mt=8 -- iTunes App Store (Singapore/Malaysia) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.se.finalfantasy -- Google Play (Singapore/Malaysia) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.pwrd.mffaen.android -- Google Play (India/Australia/New Zealand) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Awakening -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 - Languages are done for now (user, 2026-10-21): the `…?` marker and `helpWanted` are removed. Open leads if wanted later: the OASIS English iOS listing (id1327210765, no working capture found), the PT/ES app (id1377048813, 404 captures) and the Korean store pages (no working captures); the languages are JA (voiced), EN, ID, KO, ZH-CN and ZH-TW

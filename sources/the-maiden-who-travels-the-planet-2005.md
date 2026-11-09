@@ -74,6 +74,14 @@ wikipedia.org (Information)
   - the ES link stays Goodreads
 - `length` is `45p; P` (Goodreads' novella edition)
 
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Related_media section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Related_media -- a novella, Hoshi o Meguru Otome (The Maiden Who Travels The Planet), written by Benny Matsuyama and published in the Final Fantasy VII Ultimania Guide in 2005, about Aerith's journey through the Lifestream during the second half of the original game; authorized by Square Enix but disputed by some fans as canon (a Square Enix Customer Support e-mail said it was official; others say it contradicts the story Case of Lifestream - Black & White in On the Way to a Smile); never officially localized in English, with several fan translations -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy VII article, Related_media_and_merchandise section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII#Related_media_and_merchandise -- Maiden Who Travels the Planet named as a release not under the Compilation label, following Aerith's journey in the Lifestream after her death, concurrent with the second half of the original game -- accessed 2026-11-09 (revision 1384600092 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - The Spanish language row is a fan translation (user, 2026-10-16): a self-published print (Independently published, 2018, ISBN 978-1977014238) of the translator's own version, with no Square Enix licence and no official publisher

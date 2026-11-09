@@ -304,4 +304,72 @@
 
 - https://strategywiki.org/wiki/Final_Fantasy_XI -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## thetomas.net (Information; support document linked from the Tetra Master Fandom page)
+
+- http://www.thetomas.net/images/ffxi/North%20American%20In-Game%20Support_edit.pdf -- Final Fantasy XI & Tetra Master support document (a PDF, North American in-game support); linked from finalfantasy.fandom.com's Tetra Master (PlayOnline) External links (revision 3202331 of 2020-01-03) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy XI article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_XI#External_links -- 3 links -- accessed 2026-11-09 (revision 1382819294 of 2026-10-30; wikitext read through the MediaWiki API)
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_XI -- Wikimedia Commons sister-project link (template commons category) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikiquote.org/wiki/Final_Fantasy_XI -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.playonline.com/ff11us/index.shtml -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーXI article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#外部リンク -- 14 links -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API)
+  - http://www.playonline.com/ff11/ -- ファイナルファンタジーXI 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.playonline.com/ff11/promathia/index.html -- プロマシアの呪縛 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.playonline.com/ff11/ahturhgan/entrance/index.html -- アトルガンの秘宝 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.playonline.com/ff11/altana/entrance/index.html -- アルタナの神兵 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.playonline.com/ff11/adoulin/index.html -- アドゥリンの魔境 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.finalfantasyxi.com/jp/ -- ファイナルファンタジーXI公式プロモーションサイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.playonline.com/ -- PlayOnline 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://blog.square-enix.com/ff11/ -- FFXI Creator's voice Ζ ですてにぃの開発室漫遊記 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://forum.square-enix.com/ffxi/forum.php -- ファイナルファンタジーXI 公式フォーラム -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/FFXI_JP -- Twitter account FFXI_JP (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/user/FINALFANTASYXI -- YouTube user (template YouTube|u=FINALFANTASYXI) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://readpia.jp/event/ff11reading/ -- 朗読劇 ファイナルファンタジーXI 異聞のウタイビト 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://dengekionline.com/special/content/ffxi-roudoku-mugen/ -- 朗読劇 ファイナルファンタジー XI 夢幻のウタイビト 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/ffxi_roudoku -- Twitter account ffxi_roudoku (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy XI page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_XI#External_links -- 5 links -- accessed 2026-11-09 (revision 20899 of 2026-10-29; wikitext read through the MediaWiki API)
+  - http://www.playonline.com/ff11us/index.shtml -- Official site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.playonline.com/ff11/index.shtml -- Japan -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.playonline.com/ff11eu/index.shtml -- Europe -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_XI -- Final Fantasy XI -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.playonline.com/ff11/manual/index.html?loc=en -- Final Fantasy XI Game Manual -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XI#External_links -- 25 links -- accessed 2026-11-09 (revision 4063231 of 2026-10-21; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI#External_links
+  - https://www.finalfantasyxi.com/ -- Official promotional site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.playonline.com/ -- Official site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://playffxi.square-enix-games.com/ -- Return Home to Vana'diel official site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://forum.square-enix.com/ffxi/forum.php -- Final Fantasy XI Forum -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://blog.square-enix.com/ff11/ -- Creator's Voice Z official blog -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/music/sem/page/FF11portal/ -- Final Fantasy XI Music Portal site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/music/sem/page/FF11portal/en/ -- Final Fantasy XI Music Portal site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.playonline.com/ff11/xiyears/ -- FINAL FANTASY XI：XI YEARS -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://we-are-vanadiel.finalfantasyxi.com/ -- FINAL FANTASY XI - WE ARE VANA'DIEL 20th Anniversary Commemorative Website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-XI-Seekers-of-Adoulin -- Final Fantasy XI Online -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://jp.finalfantasy.com/titles/finalfantasy11 -- Final Fantasy XI -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://na.finalfantasy.com/titles/finalfantasy11 -- Final Fantasy XI -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://eu.finalfantasy.com/titles/finalfantasy11 -- Final Fantasy XI -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/FinalFantasyXI/ -- Official Facebook page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFXI_JP -- Official Twitter account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFXI_EN -- Official Twitter account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFXI_NEWS_JP -- Official Twitter news account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/@FINALFANTASYXI -- Official YouTube channel -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.twitch.tv/finalfantasyxi -- Official Twitch channel -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20260203055827/https://ch.nicovideo.jp/FD-XI -- Final Fantasy XI Channel powered by Famitsu x Dengeki Game Live Extreme -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_XI -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/6663/final-fantasy-xi-online/ -- Final Fantasy XI Online -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.bg-wiki.com/ -- BG Wiki -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://wiki.ffo.jp/ -- FF11 Glossary -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.ffxionline.com/ -- FFXIOnline.com forums -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

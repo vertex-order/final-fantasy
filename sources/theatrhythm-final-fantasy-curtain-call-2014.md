@@ -229,4 +229,21 @@
 
 - https://strategywiki.org/wiki/Theatrhythm_Final_Fantasy:_Curtain_Call -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Theatrhythm Final Fantasy: Curtain Call article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Theatrhythm_Final_Fantasy:_Curtain_Call#External_links -- 1 links -- accessed 2026-11-09 (revision 1373391921 of 2026-09-05; wikitext read through the MediaWiki API)
+  - https://theatrhythm.com/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; シアトリズム ファイナルファンタジー カーテンコール article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/シアトリズム_ファイナルファンタジー_カーテンコール#外部リンク -- 1 links -- accessed 2026-11-09 (revision 111188721 of 2026-09-27; wikitext read through the MediaWiki API)
+  - http://www.jp.square-enix.com/t_ffcc/ -- THEATRHYTHM FINAL FANTASY CURTAIN CALL -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Theatrhythm_Final_Fantasy_Curtain_Call#External_links -- 2 links -- accessed 2026-11-09 (revision 3969067 of 2025-11-07; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy_Curtain_Call#External_links
+  - http://www.jp.square-enix.com/t_ffcc/ -- Official Japanese Website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.theatrhythm.com/index.html -- Official English Website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

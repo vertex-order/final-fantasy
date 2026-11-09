@@ -391,4 +391,37 @@ Page URL by capture: 2024-05-18 to 2024-06-23 https://marketplace.xbox.com/en-GB
 
 - https://strategywiki.org/wiki/Lightning_Returns:_Final_Fantasy_XIII -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Lightning Returns: Final Fantasy XIII article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII#External_links -- 1 links -- accessed 2026-11-09 (revision 1355776633 of 2026-05-23; wikitext read through the MediaWiki API)
+  - (no URL) official website template with no URL on the page (taken from Wikidata, not resolved) -- accessed 2026-11-09
+
+## ja.wikipedia.org (Information; ライトニング リターンズ ファイナルファンタジーXIII article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ライトニング_リターンズ_ファイナルファンタジーXIII#外部リンク -- 6 links -- accessed 2026-11-09 (revision 110739752 of 2026-08-22; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/fabula/FF13_Portal/LightningReturnsFFXIII/ -- LIGHTNING RETURNS: FINAL FANTASY XIII -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/user/squareenix?feature=watch -- YouTube：スクウェア・エニックス公式チャンネル -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) YouTube template: {{Youtube|3L8mp1ewALk|ディレクターの鳥山による全体コンセプトのプレゼンテーション}} -- accessed 2026-11-09
+  - (no URL) YouTube template: {{Youtube|9qD0i91404E|ゲームデザインディレクターの阿部によるゲームデザインのプレゼンテーション}} -- accessed 2026-11-09
+  - (no URL) YouTube template: {{Youtube|T6pazSmC6fE|アートディレクターの上国料による世界観コンセプトのプレゼンテーション}} -- accessed 2026-11-09
+  - https://store.steampowered.com/app/345350 -- Steam (template Steam app|345350) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Lightning Returns: Final Fantasy XIII page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Lightning_Returns:_Final_Fantasy_XIII#External_links -- 1 links -- accessed 2026-11-09 (revision 20600 of 2026-10-27; wikitext read through the MediaWiki API)
+  - https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII -- Lightning Returns: Final Fantasy XIII -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Lightning_Returns:_Final_Fantasy_XIII#External_links -- 8 links -- accessed 2026-11-09 (revision 4063595 of 2026-10-22; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantasy_XIII#External_links
+  - http://www.square-enix.co.jp/fabula/LightningReturnsFFXIII/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://lightningreturns.com/ -- Official International site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/LRFF13/ -- Official Twitter -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/LightningReturnsFFXIII/ -- Official Facebook -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://apps.facebook.com/320986651365615/ -- Official Facebook App -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://itunes.apple.com/jp/app/raitoningu-ritanzu-fainarufantajixiii/id1080609940?mt=8 -- iTunes Purchase Page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13_3 -- Google Play Purchase Page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.amazon.co.jp/Lightning-Returns-Fantasy-ライトニング-ファイナルファンタジーXIII/dp/B01E5IWNSO/ref=pd_sim_405_2?ie=UTF8&dpID=91ILxeNyV1L&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=1KSPP2Y41C4DPFQV2C1W -- Amazon Purchase Page -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

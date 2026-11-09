@@ -90,4 +90,27 @@
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_VII_G-Bike -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy VII G-Bike article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII_G-Bike#External_links -- one link -- accessed 2026-11-09 (revision 1375009159 of 2026-09-15; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20150316155205/https://play.google.com/store/apps/details?id=com.square_enix.ff7g_bike -- Official website (the Google Play page), Wayback capture of 2015-03-16 -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_G-Bike#External_links -- five links -- accessed 2026-11-09 (revision 3988474 of 2026-02-03; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_G-Bike#External_links
+  - https://web.archive.org/web/20140817001354/http://www.jp.square-enix.com/ff7_gbike/ -- Official Japanese website, Wayback capture of 2014-08-17 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20150324222657/http://www.jp.square-enix.com/ff7_gbike/en/ -- Official English website, Wayback capture of 2015-03-24 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://play.google.com/store/apps/details?id=com.square_enix.ff7g_bike -- Android page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=C3KKH9zB59Y -- Official trailer -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://youtu.be/B9An7rhOpm8 -- TGS 2014 trailer -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Related_media section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Related_media -- a mobile racing game based on a minigame of VII, released 2014-10-30 for iOS and Android, developed by CyberConnect2 as part of a planned subseries of mobile games based on VII's minigames; the developers confirmed it was not related to nor affected the Compilation; shut down in 2015 without a western release (the Final Fantasy VII article gives December 2014 as the release) -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy VII article, Related_media_and_merchandise section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII#Related_media_and_merchandise -- G-Bike named as a mobile game for iOS and Android in December 2014, based on the motorbike minigame of the original game -- accessed 2026-11-09 (revision 1384600092 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

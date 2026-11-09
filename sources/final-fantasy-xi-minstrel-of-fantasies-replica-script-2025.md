@@ -73,6 +73,10 @@ duckduckgo.com (Information)
 - Official links for the 2025 performance, given by the user 2026-10-14 (not yet read): X account https://x.com/ffxi_roudoku ("『朗読劇 ファイナルファンタジーXI 夢幻のウタイビト』【公式】", the performance scheduled for 2025-03-01) and the Dengeki Online special site https://dengekionline.com/special/content/ffxi-roudoku-mugen/
   - Kadokawa's page for the 2024 performance is https://group.kadokawa.co.jp/information/promotional_topics/article-9001.html (see sources/final-fantasy-xi-minstrel-of-strange-tales-replica-script-2024.md)
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXI article, 朗読劇 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#朗読劇 -- 朗読劇 ファイナルファンタジーXI 夢幻のウタイビト: two performances (day and night) on 2025-03-01 at 横浜市教育会館 Hall, with part of the scenario differing by performance; supervised by the FFXI team, scenario by 高橋玖 and Miyabi Hasegawa, a story never told in the game; director 小暮邦明, script 早川康介, cast 加藤英美里, 浅川悠, 河西健吾, ランズベリー・アーサー -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Finished 2026-10-14 (user): `helpWanted` removed

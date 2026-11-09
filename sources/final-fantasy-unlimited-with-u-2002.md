@@ -36,4 +36,26 @@
   - Final Fantasy: Unlimited with U (2002) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2002-08-19
     - https://www.igdb.com/games/final-fantasy-unlimited-with-u -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; FF：U 〜ファイナルファンタジー:アンリミテッド〜 article, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜 -- the Japanese Wikipedia page that covers this item (the anime article; its ゲーム section describes FF:U on PC, not FF:U with U) -- accessed 2026-11-09 (revision 111204422 of 2026-09-29; wikitext read through the MediaWiki API); archived: TODO
+- https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜#外部リンク -- two links -- accessed 2026-11-09 (same revision)
+  - https://www.gonzo.co.jp/works/ffu/ -- FF:U ～ファイナルファンタジー：アンリミテッド～ | GONZO -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20040707083217/http://www.ff-u.com/ -- FF:U オフィシャルファンサイト, Wayback capture of 2004-07-07 -- link recorded only -- accessed 2026-11-09; archived: TODO
+- https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜#続編 -- the sequel section: the series was planned for a year from October 2001 but cut to half a year (25 episodes) after Square withdrew as sponsor in March 2002; the unresolved story is continued in the mook FF:U After〜外界の章, the web novel FF:U After Spiral and the drama CD FF:U After 2; the mook is out of print and the web novel's official site closed around 2004 -- accessed 2026-11-09 (same revision); every work named is already an entry
+
+## en.wikipedia.org (Information; Final Fantasy: Unlimited article, External links and Related media sections, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy:_Unlimited#External_links -- the anime article's links, recorded for this item because the game follows the anime; also in sources/final-fantasy-unlimited-2001.md -- accessed 2026-11-09 (revision 1379290309 of 2026-10-09; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Final_Fantasy_Unlimited -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.gonzo.co.jp/works/ffu/ -- Official page at GONZO (the page also links a 2014-08-04 Wayback capture: https://web.archive.org/web/20140804050713/http://www.gonzo.co.jp/works/ffu/) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20040707083217/http://www.ff-u.com/ -- Official fan site, Wayback capture of 2004-07-07 (original http://www.ff-u.com/) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.imdb.com/title/tt0304012/ -- IMDb title page (template IMDb title, id 0304012) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.ffcompendium.com/h/ffuhub.shtml -- Final Fantasy: Unlimited at the Final Fantasy Compendium -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20080731062510/http://www.white-requiem.net/ -- Fan translation of Final Fantasy: Unlimited continuations, Wayback capture of 2008-07-31 -- link recorded only -- accessed 2026-11-09; archived: TODO
+- https://en.wikipedia.org/wiki/Final_Fantasy:_Unlimited#Related_media -- related works named in the section -- accessed 2026-11-09 (same revision)
+  - Printed: the novel Twin Bonds (Kadokawa Shoten, 2002-03-28), FF:U After (Digicube, 2002-05-15), the web novel FF:U After Spiral; audio: Voice Theater (from 2002-01-15), FF:U Before drama CD, FF:U After 2 radio drama (2002-12-26); games: FF:U with U (i-mode, 2002-08-20) and FF:U on PC Labyrinth (Amada Printing, 2003-05-16): every one is already an entry
+  - The artbook Final Fantasy: Unlimited – The World with Wind and Clouds (Kadokawa Shoten, 96 pages, 2002-04-22): listed in sources/ffu-group.md
+  - Unlimited Saga: the page says it was originally tied to the anime's setting, shelved during production
+
 ## Decisions

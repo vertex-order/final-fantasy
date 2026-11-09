@@ -74,4 +74,11 @@
   - Final Fantasy Explorers-Force (2018) -- type label Main Game; platforms shown: Android, iOS; released 2018-03-15
     - https://www.igdb.com/games/final-fantasy-explorers-force -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Explorers-Force#External_links -- 2 links -- accessed 2026-11-09 (revision 4020566 of 2026-07-09; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Explorers-Force#External_links
+  - https://web.archive.org/web/20180930221736/http://www.ffexforce.jp/ -- Official site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/FFEXF_PR -- Official Twitter account -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

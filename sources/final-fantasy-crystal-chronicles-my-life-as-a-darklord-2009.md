@@ -123,4 +123,28 @@
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_Darklord -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy Crystal Chronicles: My Life as a Darklord article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_Darklord#External_links -- 1 links -- accessed 2026-11-09 (revision 1291322840 of 2025-05-20; wikitext read through the MediaWiki API)
+  - http://www.mylifeasadarklord.com -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; 光と闇の姫君と世界征服の塔 ファイナルファンタジー・クリスタルクロニクル article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/光と闇の姫君と世界征服の塔_ファイナルファンタジー・クリスタルクロニクル#外部リンク -- 1 links -- accessed 2026-11-09 (revision 110335530 of 2026-07-19; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/darklord/ -- 光と闇の姫君と世界征服の塔 ファイナルファンタジー･クリスタルクロニクル -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy Crystal Chronicles: My Life as a Darklord page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_Darklord#External_links -- 2 links -- accessed 2026-11-09 (revision 20637 of 2026-10-28; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20100209215906/http://www.mylifeasadarklord.com/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_Darklord -- Final Fantasy Crystal Chronicles: My Life as a Darklord -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_Darklord#External_links -- 3 links -- accessed 2026-11-09 (revision 4050109 of 2026-09-18; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_Darklord#External_links
+  - http://www.mylifeasadarklord.com/ -- Official Global Website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.mylifeasadarklord.jp/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://na.square-enix.com/mlaad/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

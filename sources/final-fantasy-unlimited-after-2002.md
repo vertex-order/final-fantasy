@@ -40,4 +40,12 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - [Fandom – Final Fantasy: Unlimited, Printed](https://isekai.fandom.com/wiki/Final_Fantasy:_Unlimited#Printed) — same wording as wikipedia — dup, likely a copy
 - [Otaku Mode – Final Fantasy Unlimited](https://otakumode.com/otapedia/games/final_fantasy/unlimited) — Gakai no Sho gloss "Chapters of the Outside World", released 2002 — dup, likely derived from wikipedia, shallow; gloss for the "Released as" sentence*
 
+## en.wikipedia.org (Information; Final Fantasy: Unlimited article, Related_media section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy:_Unlimited#Related_media -- FF:U After - Gakai no Sho (Chapters of the Outside World), released 2002-05-15 by DigiCube: a 32-page manga drawn by Hiroyuki Yamashita and a 120-page script by Atsuhiro Tomioka, covering the twins' return to their own world, the revelation of Lisa's past and a new villain under Gaudium, Soljashy -- accessed 2026-11-09 (revision 1379290309 of 2026-10-09; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; FF：U_〜ファイナルファンタジー:アンリミテッド〜 article, 続編 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜#続編 -- listed in the sequel section as a work that continues the story left unresolved when the series was cut to 25 episodes after Square withdrew as sponsor in March 2002: the mook FF:U After～外界の章：外界～ゆめのおわりとはじまり (now out of print) -- accessed 2026-11-09 (revision 111204422 of 2026-09-29; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

@@ -645,6 +645,39 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://wiki.seiwanetwork.org/wiki/Final_Fantasy_VII -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy VII article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII#External_links -- an {{official website}} template with no URL on the page (taken from Wikidata, not resolved), MobyGames and three sister-project templates -- accessed 2026-11-09 (revision 1384600092 of 2026-11-09; wikitext read through the MediaWiki API)
+  - https://www.mobygames.com/game/858/final-fantasy-vii -- MobyGames entry (template MobyGames id 858/final-fantasy-vii) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://commons.wikimedia.org/wiki/Category:Final_Fantasy_VII -- Wikimedia Commons category sister-project link (template Commons category, default page name) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikiquote.org/wiki/Final_Fantasy_VII -- Wikiquote sister-project link (template wikiquote, default page name) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikibooks.org/wiki/Final_Fantasy_VII -- Wikibooks sister-project link (template Wikibooks, default page name) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_VII#External_links -- two links -- accessed 2026-11-09 (revision 20444 of 2026-10-13; wikitext read through the MediaWiki API)
+  - http://web.archive.org/web/19971211044157/http://www.squaresoft.com/ff7-games.html -- Official North American website, Wayback capture of 1997-12-11 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://vgsales.fandom.com/wiki/Final_Fantasy -- Final Fantasy at Video Game Sales Wiki -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy VII article, Related media and merchandise section, and Compilation of Final Fantasy VII article, Video games, Films, Books and Related media sections, live pages of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII#Related_media_and_merchandise -- related works named in the section -- accessed 2026-11-09 (revision 1384600092 of 2026-11-09; wikitext read through the MediaWiki API)
+  - Compilation titles, Last Order, Maiden Who Travels the Planet, Snowboarding and G-Bike: every one is already an entry
+  - Official Final Fantasy VII Strategy Guide (Brady Games, 1998) and Final Fantasy VII 10th Anniversary Ultimania (Square Enix, 2007-09; an in-depth compilation of the story-line and artwork): listed in sources/vii-group.md
+  - Universal Studios Japan Final Fantasy VII-themed virtual reality attraction (2018): already an entry (sources/final-fantasy-xr-the-ride-2018.md)
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; same method)
+  - Before Crisis, Dirge of Cerberus, Dirge of Cerberus Lost Episode, Crisis Core (and Reunion), Remake (and Intergrade), The First Soldier, Ever Crisis, Rebirth, Revelation: every one is already an entry
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Films -- accessed 2026-11-09 (same revision)
+  - Advent Children (and Complete), Last Order, On the Way to a Smile - Episode: Denzel: every one is already an entry
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- accessed 2026-11-09 (same revision)
+  - On the Way to a Smile, The Kids Are Alright: A Turks Side Story, Traces of Two Pasts, Dear Destiny: every one is already an entry
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Related_media -- accessed 2026-11-09 (same revision)
+  - The Maiden Who Travels The Planet (novella) and Final Fantasy VII G-Bike: both already entries
+
+## en.wikipedia.org (Information; Final Fantasy VII article, Legacy section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII#Legacy -- connection between Final Fantasy VII (1997) and Final Fantasy X-2 (2003): director Kitase and scenario writer Nojima established a plot-related link, X-2 can be read as a loose prequel to VII; the X-2 character Shinra proposes extracting life energy from within the planet Spira, which Nojima has stated is a deliberate nod to the Shinra Company, and he envisioned the events of X-2 as a prequel to those of VII -- accessed 2026-11-09 (revision 1384600092 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

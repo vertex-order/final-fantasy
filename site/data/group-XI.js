@@ -146,7 +146,7 @@ window.__ffGroupReg['XI'] = { num: 'XI', chronoOrder: 1100, narrativeOrder: 1100
       length: [{ value: '43h', tip: 'Solo', join: ' / ' }, { value: '11h', tip: 'Co-op' }],
       platforms: [
         { key: 'windows', paren: 'Physical; Digital' },
-        { key: 'playstation2', terminated: true, paren: 'Physical; Digital' },
+        { key: 'playstation2', terminated: true, jpTag: true, paren: 'Physical; Digital' },
         { key: 'xbox-360', terminated: true, paren: 'Physical' },
         { key: 'fan-movie', search: 'youtube' },
         { key: 'fan-recap', search: 'youtube' },

@@ -60,6 +60,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - First book (`winds-of-prayer-novel-2002`) has a ファミ通文庫 cover scan
   - AO3 translator calls it "the light novel"
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXI article, 小説 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#小説 -- ファイナルファンタジーXI アンソロジー短編集 みんなで大冒険!!: an anthology novel also from Famitsu Bunko, by 田口仙年堂, 高殿円 and Miyabi Hasegawa -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - No `by` credit, per the user 2026-10-14: a multi-author anthology (Hasegawa, Takadono, Taguchi) like the Crystal Chronicles anthologies; the authors stay in this file only

@@ -67,6 +67,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - First book (`winds-of-prayer-novel-2002`) has a ファミ通文庫 cover scan
   - AO3 translator calls it "the light novel"
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXI article, 小説 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#小説 -- ファイナルファンタジーXI ハッピーギフト: listed among the novels published by Famitsu Bunko, all by Miyabi Hasegawa: a long-running series whose volumes do not all follow the same protagonist -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 - elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/book_novel.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ハッピーギフト -- elemen.jp: 2008/03/29, エンターブレイン, はせがわみやび, ASIN 4757740816
   - reference page listed: http://www.enterbrain.co.jp/jp/p_catalog/book/2008/978-4-7577-4081-5.html (not archived)

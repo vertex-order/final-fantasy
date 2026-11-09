@@ -93,6 +93,10 @@ duckduckgo.com (Information)
 - book search: `朗読劇 異聞のウタイビト 複製台本` -- the Japanese title from bg-wiki without its colons (the English title would not find the book); no format qualifier -- accessed 2026-10-14 (not yet run)
 - https://duckduckgo.com/?q=Final%20Fantasy%20XI%20~Minstrel%20of%20Strange%20Tales%3A%20Replica%20Script~%20translation — fan-translation search
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXI article, 朗読劇 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#朗読劇 -- 朗読劇 ファイナルファンタジーXI 異聞のウタイビト: two performances (day and night) on 2024-02-17 at ところざわサクラタウン Japan Pavilion Hall A; supervised by Square Enix (which also took part as cooperation), planned by KADOKAWA and KADOKAWA Game Linkage, organised by KADOKAWA; the scenario was written for this performance by staff who had worked on the FFXI scenario, under FFXI team supervision and Famitsu and Dengeki production; director 早川康介, script 高橋玖 and Miyabi Hasegawa, cast 加藤英美里, 浅川悠, 佐々木望, 白熊寛嗣 -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Finished 2026-10-14 (user): `helpWanted` removed

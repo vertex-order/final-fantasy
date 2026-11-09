@@ -190,4 +190,20 @@
   - Final Fantasy X-2 International + Last Mission (2004) -- type label Bundle; platforms shown: PlayStation 2; released 2004-02-19
     - https://www.igdb.com/games/final-fantasy-x-2-international-plus-last-mission -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## finalfantasy.fandom.com and ja.wikipedia.org (Information; International + Last Mission links from the Final Fantasy X-2 articles)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_X-2#External_links -- the International + Last Mission links, recorded because that release contains Last Mission -- accessed 2026-11-09 (Fandom revision 4024331 of 2026-07-21; ja.wikipedia revision 111104655 of 2026-09-22; wikitext read through the Fandom API)
+  - https://web.archive.org/web/20040701053300/http://www.square-enix.co.jp/games/ps2/ffx2inter/ -- International + Last Mission official site, Japanese, Wayback capture of 2004-07-01 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff10-2inter/ -- International + Last Mission official game detail page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/slpm-66678.html -- International + Last Mission in the Ultimate Hits line -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/29492/final-fantasy-x-2-international-last-mission/ -- MobyGames, International + Last Mission -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy X-2 article, Release section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_X-2#Release -- Final Fantasy X-2 International + Last Mission, an expanded version released in 2004 for PlayStation 2: two new dresspheres, an additional Last Mission at a location called Yadonoki Tower, and the option to capture and battle with numerous monsters and characters including Tidus, Auron and Seymour Guado; not released outside Japan, although the English voice track was used for the main story, which changed parts of the Japanese subtitles; later HD remaster games are based on this expanded edition -- accessed 2026-11-09 (revision 1380798589 of 2026-10-17; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーX-2 article, ファイナルファンタジーX-2_インターナショナル+ラストミッション section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2#ファイナルファンタジーX-2_インターナショナル+ラストミッション -- the section on the International + Last Mission version: a minor-change edition based on the North American version of X-2; Last Mission is a dungeon-type RPG in a mode separate from the main story; the HD Remaster includes this version; audio only is in English while names and some expressions stay as in the Japanese version, with Japanese subtitles only (the HD Remaster has Japanese audio) -- accessed 2026-11-09 (revision 111104655 of 2026-09-22; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

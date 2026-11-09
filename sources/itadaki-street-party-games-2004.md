@@ -292,3 +292,26 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Itadaki Street
+
+## en.wikipedia.org (Information; Itadaki Street article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Itadaki_Street#External_links -- 1 links -- accessed 2026-11-09 (revision 1360097525 of 2026-06-19; wikitext read through the MediaWiki API)
+  - (no URL) template not resolved: {{Officialwebsite|http://fortunestreet.nintendo.com/}} -- accessed 2026-11-09
+
+## ja.wikipedia.org (Information; いただきストリート article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/いただきストリート#外部リンク -- 2 links -- accessed 2026-11-09 (revision 106677478 of 2025-10-01; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/itastDQFF30th/ -- いただきストリート ドラゴンクエスト&ファイナルファンタジー 30th ANNIVERSARY 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/DQ_HEROES -- Twitter account DQ_HEROES (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Dragon Quest & Final Fantasy in Itadaki Street Special page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Dragon_Quest_&_Final_Fantasy_in_Itadaki_Street_Special#External_links -- 2 links -- accessed 2026-11-09 (revision 20601 of 2026-10-27; wikitext read through the MediaWiki API)
+  - http://web.archive.org/web/20051013072625/http://www.square-enix.co.jp/games/ps2/itastsp/ -- Official Japanese website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/itastsp/ -- Official Japanese web page -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Itadaki_Street:_Dragon_Quest_%26_Final_Fantasy_30th_Anniversary#External_links -- 1 links -- accessed 2026-11-09 (revision 3948468 of 2025-07-26; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Itadaki_Street:_Dragon_Quest_%26_Final_Fantasy_30th_Anniversary#External_links
+  - http://www.jp.square-enix.com/itastDQFF30th/ -- Official Site -- link recorded only -- accessed 2026-11-09; archived: TODO

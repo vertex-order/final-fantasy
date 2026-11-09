@@ -29,6 +29,10 @@ wikipedia.org (Information)
   - Manhwa in the Final Fantasy XI continuity by Kim Byung Jin (art) and Kim Sungjae (story)
   - Row lists JP ISBN 978-4-7577-1424-3, the Star Oath novel's (4-7577-1424-6): a copy error, not recorded as this book's
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXI article, 漫画 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#漫画 -- FINAL FANTASY XI〜THE OUT OF ORDERS〜 (original story Kim Sung-jae, art Kim Byung-jin), under 青年漫画誌: serialised from the first issue of ヤングガンガン in December 2004, put on hiatus after 3 instalments for the author's research, planned to resume in autumn 2006 but cancelled for the author's reasons -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 - `profileUrl` (user, 2026-10-17): the archived Square Enix magazine back-number page for the first issue, https://web.archive.org/web/20130305015755/http://www.square-enix.co.jp/magazine/yg/backnumber/backnumber001.shtml (Wayback capture of 2013-03-05; page text pasted by the user): 創刊号【2004.12.17号】, **on sale 2004年12月3日**
   - the first issue's cover feature (巻頭カラー) is 「THE OUT OF ORDERS ファイナルファンタジーXI 原作：キム・ソンジェ　作画：キム・ビョンジン」 (story Kim Sung-Jae, art Kim Byung-Jin, which confirms the entry's credits), alongside the other launch series of that magazine (ドラゴンクエスト列伝 ロトの紋章, BAMBOO BLADE, 荒川アンダー ザ ブリッジ and others)

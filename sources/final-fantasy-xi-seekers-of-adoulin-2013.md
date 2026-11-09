@@ -5,6 +5,11 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
+## Base game
+
+- This expansion expands [final-fantasy-xi-online-2002.md](final-fantasy-xi-online-2002.md). The base game's file holds the languages, platforms, official sites and links that apply to the whole game; this file records only what is specific to the expansion or also applies to it, and repeats a link or fact only when it is really important (user, 2026-11-09)
+- Languages and platforms match the base game unless noted. The exceptions are the platforms that were dropped over time. Seekers of Adoulin (2013-03-27) is the last expansion, and on the PlayStation 2 it came out in Japan only (ja.wikipedia's PlayStation 2 list calls it the last new PS2 software released in Japan; en.wikipedia's list has it for Japan only), so its PlayStation 2 row carries the Japan-only tag; the PlayStation 2 and Xbox 360 services have ended since, which the entry's platform rows mark as terminated and the Square Enix Japan list sections in this file note as "PS2/X360サービス終了".
+
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Main_series -- dates* -- accessed 2026-09-22
@@ -104,6 +109,18 @@
 - Page URL by capture: 2019-05-17 https://www.jp.playstation.com/search-results/software/search.x?platform=PlayStation2&past=nowonsale&future=14&sort=1 (the ソフトウェア検索 results for the PlayStation 2 filter, sorted by sort=1; 4,819 hits, 30 per page; only the first page is archived, so 30 of the 4,819 are readable) -- saved page read by me, in Japanese -- accessed 2026-11-08; archived: https://web.archive.org/web/20190517003832/https://www.jp.playstation.com/search-results/software/search.x?platform=PlayStation2&past=nowonsale&future=14&sort=1
   - ファイナルファンタジーXI アドゥリンの魔境; genre MMORPG; maker (株)スクウェア・エニックス; platform label PlayStation2; release 2013年3月27日; product code SLPM-55298; JAN 4988601007634; PS Now 非対応; listed on the first page
     - https://www.jp.playstation.com/software/title/slpm55298.html -- item page link -- link recorded only -- archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XI:_Seekers_of_Adoulin#External_links -- 3 links -- accessed 2026-11-09 (revision 4009291 of 2026-05-16; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI:_Seekers_of_Adoulin#External_links
+  - http://www.playonline.com/ff11/adoulin/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.playonline.com/ff11us/adoulin/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.playonline.com/ff11eu/adoulin/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_XI -- the Final Fantasy XI page of finalfantasywiki, which covers this expansion (the wiki has no page of its own for it; user, 2026-11-09) -- accessed 2026-11-09; archived: TODO
 
 ## Decisions
 

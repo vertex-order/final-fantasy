@@ -5,6 +5,11 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
+## Base game
+
+- This DLC expands [final-fantasy-xv-2016.md](final-fantasy-xv-2016.md). The base game's file holds the languages, platforms, official sites and links that apply to the whole game; this file records only what is specific to the DLC or also applies to it, and repeats a link or fact only when it is really important (user, 2026-11-09)
+- Languages and platforms match the base game unless noted. Final Fantasy XV: Comrades has a language list of its own in the entry, which is recorded in the entry's language rows.
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/final-fantasy-xv-episode-ardyn/
@@ -63,6 +68,12 @@
     - https://www.igdb.com/games/final-fantasy-xv-episode-ardyn -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
   - Final Fantasy XV (2016) -- no card of its own on the saved pages; the parent of Final Fantasy XV: Episode Ardyn (2019)
     - https://www.igdb.com/games/final-fantasy-xv -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV:_Episode_Ardyn#External_links -- 1 links -- accessed 2026-11-09 (revision 3980148 of 2026-01-03; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Episode_Ardyn#External_links
+  - https://www.jp.square-enix.com/ff15/dlc/epa/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
 ## Decisions
 

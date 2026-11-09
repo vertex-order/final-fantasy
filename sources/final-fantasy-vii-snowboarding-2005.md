@@ -37,4 +37,18 @@
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_VII_Snowboarding -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy VII article, Related media and merchandise section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII#Related_media_and_merchandise -- the game's page in the English Wikipedia (it has no article of its own; Final Fantasy VII Snowboarding redirects to the Final Fantasy VII article): a mobile port of the snowboard minigame of Final Fantasy VII with different courses to tackle; downloadable on V Cast-compatible phones, first available 2005-03-15 in North America and in Japan 2008-11-10 -- accessed 2026-11-09 (revision 1384600092 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII:_Snowboarding#External_links -- one link -- accessed 2026-11-09 (revision 3937358 of 2025-05-31; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_Snowboarding#External_links
+  - https://web.archive.org/web/20050507142041/http://www.sqexm.com/games.php -- Official English website, Wayback capture of 2005-05-07 -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy VII article, Related_media_and_merchandise section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII#Related_media_and_merchandise -- already recorded as the game's page: a mobile port of the snowboard minigame with different courses, downloadable on V Cast-compatible phones, first available 2005-03-15 in North America and in Japan 2008-11-10 -- accessed 2026-11-09 (revision 1384600092 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

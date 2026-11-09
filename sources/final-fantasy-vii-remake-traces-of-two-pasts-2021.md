@@ -55,6 +55,10 @@ reddit.com and tumblr.com (Information; fan translations) -- fan translation*, E
 - https://www.reddit.com/r/FFVIIRemake/comments/p242de/traces_of_two_pasts_episode_aerith_full_english/ -- Stanley's own post about the Aerith translation
 - So the English "Fan Translation" in the EN tip is real: the two parts were translated by fans from the Japanese, before the official English edition (Square Enix Books, 2023-03-21, per Goodreads)
 
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Books section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- Traces of Two Pasts: a novel by Nojima released 2021-07-15 in Japanese and 2023-03-20 in English, set during the early events of Rebirth, with Aerith and Tifa exchanging stories from their pasts -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 - `length` is `384p; H` (user, 2026-10-16): the official English edition, Square Enix Books hardcover, 384 pages (Goodreads https://www.goodreads.com/book/show/60556665-final-fantasy-vii-remake, read 2026-10-16), the English count being preferred
   - it was `406p; H`, the Japanese hardcover's count

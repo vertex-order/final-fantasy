@@ -85,4 +85,8 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
 - [Fandom – Final Fantasy (manga)](https://finalfantasy.fandom.com/wiki/Final_Fantasy_(manga)) — see above — used
   - [breezewiki mirror](https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_(manga)) — dup
 
+## ja.wikipedia.org (Information; ファイナルファンタジー article, 関連作品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー#関連作品 -- 漫画版: first printed 1989-12-30, drawn by 海明寺裕 and published by JICC出版局 as 宝島COMIC in 1 volume, titled Final Fantasy like the original; it digs into the Warriors of Light and Garland and makes characters who do not join the party in the game into main characters, with an original character as the Warrior of Light; the page adds that an FFII manga was also planned, but Square withdrew the licence when about 60 pages were drawn, though a partly drawn FFII manga appeared in a game-comic anthology magazine that JICC issued as a supplement to ファミコン必勝本 -- accessed 2026-11-09 (revision 111583688 of 2026-10-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

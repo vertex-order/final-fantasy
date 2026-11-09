@@ -163,6 +163,14 @@ tokyo otaku mode (Information; Otapedia, English)
 - [Fandom – Legend of the Eternal Wind](https://finalfantasy.fandom.com/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori) — see above — used
   - [breezewiki mirror](https://breezewiki.com/finalfantasy/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori) — dup
 
+## en.wikipedia.org (Information; Final Fantasy III article, Legacy section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_III#Legacy -- manga Legend of the Eternal Wind, from Final Fantasy III: written by Terada, illustrated by Yu Kinutani, serialized in Kadokawa Shoten's Maru Katsu Famicom 1990 to 1992, three tankobon in Dragon Comics -- accessed 2026-11-09 (revision 1381643491 of 2026-10-23; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーIII article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIII#関連商品 -- 悠久の風伝説 ファイナルファンタジーIIIより: 3 volumes, Kadokawa Shoten Dragon Comics, 1991 and 1992, original story Terada, art Yu Kinutani, ISBNs 4-04-926028-X, 4-04-926033-6, 4-04-926037-9; serialised in マル勝ファミコン; the worldview, characters and story differ somewhat from the game -- accessed 2026-11-09 (revision 111042702 of 2026-09-16; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - `titleDate` is `{ start: '1990', end: '1992-09-04', approx: true }` (user, 2026-10-16): the serialization is known only to the year (ja.wikipedia: 1990 vol.9 to 1992 vol.9, the ninth issue of each year; the magazine was renamed マル勝スーパーファミコン in April 1991), so the start is 1990, and the end is the last volume's publisher date, because the serialization must have finished before its last volume came out (volume 3, 1992-09-04; the volumes are 1991-10-07, 1992-04-17 and 1992-09-04)

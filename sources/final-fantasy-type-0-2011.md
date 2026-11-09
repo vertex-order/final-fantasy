@@ -341,4 +341,50 @@ Page URL by capture: 2016-03-17 to 2016-08-29 http://store.xbox.com/en-US/Xbox-O
 - https://web.archive.org/web/20150318204021/https://store.xbox.com/en-US/Xbox-One/Games/FINAL-FANTASY-TYPE-0-HD/54711d34-095e-4bf5-a053-49828ee9e515?ocid=EVERGREEN_SOCIAL_Facebook&cid=EVERGREEN_SOCIAL_Facebook -- same product page with a social-campaign query string -- capture of 2015-03-18, link recorded only
 - https://web.archive.org/web/20160405024731/http://store.xbox.com/en-US/xbox-one/games/final-fantasy-type-0-hd/54711d34-095e-4bf5-a053-49828ee9e515?cid=majornelson -- same product page, lower-case path, campaign query string -- capture of 2016-04-05, link recorded only
 
+## en.wikipedia.org (Information; Final Fantasy Type-0 article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Type-0#External_links -- 4 links -- accessed 2026-11-09 (revision 1375473726 of 2026-09-18; wikitext read through the MediaWiki API)
+  - (no URL) official website template with no URL on the page (taken from Wikidata, not resolved) -- accessed 2026-11-09
+  - https://web.archive.org/web/20160613005040/http://gangan.square-enix.co.jp/introduction/ff_type_0/ -- Web archive link () -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://gangan.square-enix.co.jp/introduction/ff_type_0/ -- Final Fantasy Type-0 manga introduction at Gangan Comics -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20130330130419/http://www.ganganonline.com/novel/ff_type_0/index.html -- Final Fantasy Type-0 novel index at Gangan Comics -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジー零式 article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー零式#外部リンク -- 8 links -- accessed 2026-11-09 (revision 110335924 of 2026-07-19; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/fabula/0/psp/ -- ファイナルファンタジー零式 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff0/ -- ファイナルファンタジー零式 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/fabula/0/ -- ファイナルファンタジー零式 HD 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/e306/titles/fabula/agito/ -- E3 2006特設ページ -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://gangan.square-enix.co.jp/introduction/ff_type_0/ -- ガンガンNET | FINAL FANTASY零式 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://gangan.square-enix.co.jp/introduction/ff_type_0_gaiden/ -- ガンガンNET | FINAL FANTASY零式外伝 氷剣の死神 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20130510032955/http://www.ganganonline.com/comic/ff_type_0_gaiden/ -- Wayback capture of 20130510032955 (ファイナルファンタジー零式外伝 氷剣の死神 - 漫画 - ガンガンONLINE -SQUARE ENIX) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20130727093028/http://www.ganganonline.com/novel/ff_type_0/index.html -- Wayback capture of 20130727093028 (ファイナルファンタジー零式 Change the World - 小説 - ガンガンONLINE -SQUARE ENIX) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasywiki.com (Information; Final Fantasy Type-0 page, External links section, live page of 2026-11-09)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy_Type-0#External_links -- 1 links -- accessed 2026-11-09 (revision 20624 of 2026-10-27; wikitext read through the MediaWiki API)
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Type-0 -- Final Fantasy Type-0 -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Type-0#External_links -- 16 links -- accessed 2026-11-09 (revision 4021863 of 2026-07-13; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0#External_links
+  - https://web.archive.org/web/20100108021900/http://www.square-enix.co.jp/fabula/agito13/ -- Final Fantasy Agito XIII original official site (Japanese) [Final Fantasy Agito XIII] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20140603164600/http://www.square-enix.co.jp/fabula/0/ -- Final Fantasy Type-0 official site (Japanese) [Final Fantasy Type-0] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff0/ -- Final Fantasy Type-0 official game detail page (Japanese) [Final Fantasy Type-0] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20121113071115/http://www.finalfantasy.jp/products/reishiki/ -- Final Fantasy Type-0 official goods detail page (Japanese) [Final Fantasy Type-0] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/uh/title/uljm-06217.html -- Final Fantasy Type-0 [Final Fantasy Type-0] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ff_reishiki/ -- Final Fantasy Type-0 HD official site (Japanese) [Final Fantasy Type-0 HD] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20160709115323/http://www.finalfantasy.jp/products/0hd/ -- Final Fantasy Type-0 HD official goods detail page (Japanese) [Final Fantasy Type-0 HD] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20160208132356/http://finalfantasytype0.com/ -- Final Fantasy Type-0 HD official international site [Final Fantasy Type-0 HD] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/FinalFantasyType0 -- Official Facebook page [Final Fantasy Type-0 HD] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-TYPE-0-HD -- Final Fantasy Type-0 HD [Final Fantasy Type-0 HD] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://store.steampowered.com/app/340170/ -- Final Fantasy Type-0 HD on Steam [Final Fantasy Type-0 HD] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20060616040059/http://www.square-enix.com/jp/company/j/news/2006/download/release_060509_01.pdf -- Square Enix Unveils the Next Generation of Final Fantasy (Japanese) [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20060612210350/http://www.square-enix.com/na/company/press/2006/0508_1/ -- Square Enix Unveils the Next Generation of Final Fantasy [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Type-0 -- English Wikipedia article (interwiki link) [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_Type-0_HD -- English Wikipedia article (interwiki link) [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/59658/final-fantasy-type-0-hd/ -- Final Fantasy: Type-0 HD [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

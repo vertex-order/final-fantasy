@@ -69,4 +69,9 @@
   - Final Fantasy Tactics S (2013) -- type label Main Game; platforms shown: Android, iOS; released 2013-05-28
     - https://www.igdb.com/games/final-fantasy-tactics-s -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; イヴァリース article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/イヴァリース#外部リンク -- 2 links -- accessed 2026-11-09 (revision 105154400 of 2025-06-08; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20100101000000/http://owb.cool.ne.jp/ivalice/index.htm -- Wayback capture of 20100101000000 (Ivalice) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

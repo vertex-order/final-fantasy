@@ -312,4 +312,32 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_versi
 
 - https://strategywiki.org/wiki/Final_Fantasy_VII_Rebirth -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Rebirth#External_links -- six links -- accessed 2026-11-09 (revision 4055626 of 2026-10-05; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth#External_links
+  - https://www.jp.square-enix.com/ffvii_rebirth/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://ffvii.square-enix-games.com/games/rebirth/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.square-enix-games.com/en_US/news/final-fantasy-vii-rebirth-reviews -- Square Enix blog -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-VII-REBIRTH -- Square Enix North America Press Hub -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_VII_Rebirth -- English Wikipedia article -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/218917/final-fantasy-vii-rebirth/ -- MobyGames entry -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy VII Rebirth article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_VII_Rebirth#External_links -- one link -- accessed 2026-11-09 (revision 1383664444 of 2026-11-04; wikitext read through the MediaWiki API)
+  - https://ffvii.square-enix-games.com/en-us/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーVII リバース article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーVII_リバース#外部リンク -- four links -- accessed 2026-11-09 (revision 110899180 of 2026-09-05; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/ffvii_remake/ -- ファイナルファンタジーVII リメイクシリーズ ポータル (Square Enix official site; the series portal, also recorded in the Remake and Revelation files) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/ffvii_rebirth/ -- ファイナルファンタジーVII リバース -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/FFVIIR_CLOUD -- Twitter account FFVIIR_CLOUD, labelled ファイナルファンタジーVII リメイク, the FF7 Remake project official account (template Twitter; also recorded in the Remake and Revelation files) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://store.steampowered.com/app/2909400 -- Steam, ファイナルファンタジーVII リバース (template Steam app|2909400) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Video_games section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Rebirth: an action role-playing game by Square Enix, released for PlayStation 5 on 2024-02-29, the second installment of the Remake trilogy, made to stand on its own as well -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

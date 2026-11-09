@@ -74,4 +74,14 @@
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_IV_-Interlude- -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Final Fantasy IV: The Complete Collection article, External links section, live page of 2026-11-08)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_Complete_Collection#External_links -- one link -- accessed 2026-11-08 (revision 1352666809 of 2026-05-05; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/ff4cc/ -- Official website, Japanese -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーIV article, 外部リンク section, live page of 2026-11-08)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIV#外部リンク -- the one link of the section that is for this title -- accessed 2026-11-08 (revision 111593793 of 2026-10-31; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ff4cc/ -- ファイナルファンタジーIV コンプリートコレクション (Square Enix Japan detail page) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
 ## Decisions

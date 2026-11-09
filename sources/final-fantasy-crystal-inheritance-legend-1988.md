@@ -91,6 +91,10 @@ jacket and cover scans (seen by user, from the Reddit post)
 - Fan recap search (YouTube): no results (user, 2026-10-19)
 - Ordering against Stranger of Paradise is not established: the book disclaims any tie to the game's canon
 
+## ja.wikipedia.org (Information; ファイナルファンタジー article, 関連作品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー#関連作品 -- ゲームブック『ファイナルファンタジー クリスタル継承伝説』: published December 1987 (the page's date) by ケイブンシャ in アドベンチャーヒーローブックス, authors 三原治 and 上原尚子, edited by スタジオ・ハード; an original story of a boy who receives the revelation of the Water Crystal and acts as a Warrior of Light, set in an age before the game, where the hero's deeds and the heroine's sacrifice cannot fully defeat the world's chaos, which is left to the next generation of Warriors of Light, the game's heroes; the world is based on the game with science-fiction elements added -- accessed 2026-11-09 (revision 111583688 of 2026-10-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Ordering (user, 2026-10-19): chronologically before Stranger of Paradise, narratively after its DLC

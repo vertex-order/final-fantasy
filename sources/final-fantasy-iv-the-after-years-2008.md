@@ -432,4 +432,39 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FF4AY_GP -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY IV TAY-月の帰還-" -- accessed 2026-11-08 -- link recorded only; archived: TODO
 
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-08)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV:_The_After_Years#External_links
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV:_The_After_Years#External_links -- 15 links under The After (mobile), WiiWare, 3D remake and Miscellaneous -- accessed 2026-11-08 (revision 4021649 of 2026-07-12; wikitext read through the Fandom API)
+  - https://web.archive.org/web/20080618083553/http://www.square-enix.co.jp/mobile/ff/ff4after/ -- Final Fantasy IV: The After (mobile) official site, Japanese, Wayback capture of 2008-06-18 -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20140209224558/http://www.ff4theafteryears.jp/ -- WiiWare official site, Japanese, Wayback capture of 2014-02-09 -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20181221141139/http://www.jp.square-enix.com/archive/ff4theafteryears/ -- WiiWare official game archive page, Japanese, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20160717144414/http://www.finalfantasy.jp/products/ff4theafteryears/ -- WiiWare official goods detail page, Japanese, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20150404043642/http://www.ff4theafteryears.com/ -- WiiWare official site, English, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20121014113212/http://na.square-enix.com/ff4ay/ -- WiiWare official site, North American, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20090826082851/http://eu.square-enix.com/wiiware/game.php?id=15 -- WiiWare game profile, European, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/ff4tay/jp/ -- 3D remake official site, Japanese -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff4tay/ -- 3D remake official game detail page, Japanese -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://web.archive.org/web/20150201020702/http://www.finalfantasy.jp/products/ff4tay/ -- 3D remake official goods detail page, Japanese, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/ff4tay/en/ -- 3D remake official site, English -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://press.na.square-enix.com/FINAL-FANTASY-IV-THE-AFTER-YEARS -- Square Enix North America Press Hub -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years -- English Wikipedia article -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.mobygames.com/game/59693/final-fantasy-iv-the-after-years/ -- MobyGames entry (listed twice on the page, the second time labelled 2013) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy IV: The After Years article, External links section, live page of 2026-11-08)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years#External_links -- five links -- accessed 2026-11-08 (revision 1348011848 of 2026-04-10; wikitext read through the MediaWiki API)
+  - http://na.square-enix.com/ff4ay/ -- Official North American website -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://www.ff4theafteryears.jp/ -- Official Japanese website (WiiWare version) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://www.square-enix.co.jp/mobile/ff/ff4after/ -- Official Japanese website (feature phone version) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://dlgames.square-enix.com/ff/ff4tay/jp/index.html -- Official Japanese website (smart phone version) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV:_The_After_Years -- Final Fantasy Wiki page (interwiki link; Fandom page, mirror https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV:_The_After_Years) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーIV THE AFTER 月の帰還 article, 外部リンク section, live page of 2026-11-08)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーIV_THE_AFTER_月の帰還#外部リンク -- three links -- accessed 2026-11-08 (revision 109758923 of 2026-05-31; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/game/detail/ff4tay/ -- ファイナルファンタジーIV ジ・アフターイヤーズ -月の帰還- (Wiiウェア版公式サイト) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - http://dlgames.square-enix.com/ff/ff4tay/jp/index.html -- FINAL FANTASY IV THE AFTER -月の帰還- (iOS/Android版公式サイト) -- link recorded only -- accessed 2026-11-08; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/ff4cc/ -- ファイナルファンタジーIV コンプリートコレクション (the Complete Collection, which bundles The After Years) -- link recorded only -- accessed 2026-11-08; archived: TODO
+
 ## Decisions

@@ -106,4 +106,37 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DFFOperaOmnian -- app listed in the developer page captures of 2018-02-26, 2019-03-13, 2021-02-09, 2022-01-13, 2023-01-07, 2024-02-02 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20180226225717/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20240202214202/https://play.google.com/store/apps/dev?id=8026010256970589886
 
+## en.wikipedia.org (Information; Dissidia Final Fantasy Opera Omnia article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Dissidia_Final_Fantasy_Opera_Omnia#External_links -- 1 links -- accessed 2026-11-09 (revision 1368806074 of 2026-08-11; wikitext read through the MediaWiki API)
+  - https://www.dissidiaoperaomnia.com/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ディシディア ファイナルファンタジー オペラオムニア article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ディシディア_ファイナルファンタジー_オペラオムニア#外部リンク -- 4 links -- accessed 2026-11-09 (revision 110658003 of 2026-08-15; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/DFFOO/ -- ディシディア ファイナルファンタジー オペラオムニア -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/DFF_OperaOmnia -- Twitter account DFF_OperaOmnia (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) YouTube template: {{YouTube|playlist = PLsHA74V3bmZ6Z0aHw19l-OmZqAU1C7Dx2}} -- accessed 2026-11-09
+  - (no URL) YouTube template: {{YouTube|channel = UCqNgBDprjXBB8JuefqJLu0Q}} -- accessed 2026-11-09
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Dissidia_Final_Fantasy_Opera_Omnia#External_links -- 15 links -- accessed 2026-11-09 (revision 4021579 of 2026-07-12; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_Opera_Omnia#External_links
+  - http://www.jp.square-enix.com/DFFOO/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://dissidiaoperaomnia.com/home/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://press.na.square-enix.com/DISSIDIA-FINAL-FANTASY-OPERA-OMNIA -- Dissidia Final Fantasy Opera Omnia -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/DFF_OperaOmnia -- Official Twitter (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://xcancel.com/DissidiaFFOO -- Official Twitter (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.facebook.com/dissidiaffoo -- Official Facebook page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://page.line.me/qgk0917d -- Official LINE account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/@DFFOperaOmnia -- Official YouTube channel -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/playlist?list=PLsHA74V3bmZ6Z0aHw19l-OmZqAU1C7Dx2 -- YouTube playlist at Square Enix channel -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/watch?v=NYzPnCiJDuE -- Announcement trailer -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Dissidia_Final_Fantasy_Opera_Omnia -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.mobygames.com/game/103391/dissidia-final-fantasy-opera-omnia/ -- Dissidia Final Fantasy Opera Omnia -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://altema.jp/dffoo/ -- Altema database (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://dff.ooo -- English Database 1 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://dissidiacompendium.com -- English Database 2 -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

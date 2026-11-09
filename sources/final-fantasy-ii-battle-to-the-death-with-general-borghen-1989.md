@@ -39,6 +39,7 @@ yahoo shopping (Information, a used-book vendor listing)
   - (page text pasted by user)
   - a used-book listing from FUNFUNほうむず, ファイナルファンタジー2 将軍ボーゲンとの死闘, 香坂隆二（著）、福田博行（構成）, 大陸書房 (Tairiku Shobō), category 大陸書房ゲームブック (Tairiku Shobō gamebooks), a "gamebook of the second game in the popular RPG series", six photos, no date, no ISBN, no page count
   - the title is printed with the numeral 2 and no closing "!" (which may be dropped by the vendor)
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーII#関連商品 -- 将軍ボーゲンとの死闘: Tairiku Bunko fantasy gamebook, 1989年1月13日, author 香坂隆二, composition 福田博行; closer to the game's story than the Tokuma and Futabasha books; Borghen is a strong enemy with the Moonblade, an item not in the game -- accessed 2026-11-08 (revision 110746553 of 2026-08-23); archived: TODO
 
 ## Surveyed
 

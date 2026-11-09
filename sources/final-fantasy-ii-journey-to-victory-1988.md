@@ -97,4 +97,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - [Fandom -- Journey to Victory](https://finalfantasy.fandom.com/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi) -- used
   - [breezewiki mirror](https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II_Sh%C5%8Dri_e_no_Tabidachi) -- dup
 
+## ja.wikipedia.org (Information; ファイナルファンタジーII article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーII#関連商品 -- gamebook 勝利への旅立ち listed among the gamebooks: Tokuma Shoten, 1988-12 -- accessed 2026-11-09 (revision 110746553 of 2026-08-23; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

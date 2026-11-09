@@ -79,4 +79,26 @@
   - Dirge of Cerberus Lost Episode: Final Fantasy VII (2006) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2006-08-18
     - https://www.igdb.com/games/dirge-of-cerberus-lost-episode-final-fantasy-vii -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; Dirge of Cerberus: Final Fantasy VII article, Mobile phone games section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII#Mobile_phone_games -- the game's section in its parent article (the title Dirge of Cerberus Lost Episode: Final Fantasy VII redirects to it): co-developed by Square Enix and Ideaworks3D, published by Square Enix; released 2006-08-22 in North America and 2007-07-26 in Japan; first only on Amp'd Mobile phones, then Verizon's V Cast, shown as a flagship title for NTT DoCoMo's FOMA 903i at Tokyo Game Show 2006; single player at first, multiplayer added later; a missing chapter between two events of the main game; IGN called it passable; the storyline was recreated in Final Fantasy VII: Ever Crisis -- accessed 2026-11-09 (revision 1369265363 of 2026-08-13; wikitext read through the MediaWiki API); archived: TODO
+
+## finalfantasy.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Dirge_of_Cerberus_Lost_Episode_-Final_Fantasy_VII-#External_links -- two links -- accessed 2026-11-09 (revision 3968094 of 2025-11-01; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_Lost_Episode_-Final_Fantasy_VII-#External_links
+  - https://web.archive.org/web/20070911200511/http://www.square-enix.co.jp/mobile/dcleff7/ -- Official Japanese site, Wayback capture of 2007-09-11 -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20071031014542/http://www.sqexm.com/games.php?id=8 -- Official North American site, Wayback capture of 2007-10-31 -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; ダージュ オブ ケルベロス ロスト エピソード ファイナルファンタジーVII article, 外部リンク and 関連項目 sections, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ダージュ_オブ_ケルベロス_ロスト_エピソード_ファイナルファンタジーVII#外部リンク -- two links -- accessed 2026-11-09 (revision 107851407 of 2026-01-03; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/mobile/dcleff7/ -- ダージュ オブ ケルベロス ロスト エピソード ファイナルファンタジーVII 公式サイト -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/e306/titles/dcff7_m/ -- Electronic Entertainment Expo 2006 page of the game -- link recorded only -- accessed 2026-11-09; archived: TODO
+- https://ja.wikipedia.org/wiki/ダージュ_オブ_ケルベロス_ロスト_エピソード_ファイナルファンタジーVII#関連項目 -- one related article, ダージュ オブ ケルベロス ファイナルファンタジーVII, already an entry -- accessed 2026-11-09 (same revision)
+
+## en.wikipedia.org (Information; Compilation of Final Fantasy VII article, Video_games section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Dirge of Cerberus Lost Episode: a mobile spin-off taking place during the events of Dirge of Cerberus, released 2006-08-22 in North America and 2007-07-26 in Japan -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
