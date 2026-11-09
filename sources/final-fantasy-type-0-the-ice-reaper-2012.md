@@ -27,6 +27,27 @@ ISBN 9784757537262 (ISBN-10 4757537263), Japanese "Final Fantasy Reishiki Gaiden
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757537262
 - open library: https://openlibrary.org/search?isbn=9784757537262
 
+ISBN 9784757538566 (ISBN-10 4757538561), Japanese, Square Enix, January 22, 2013 (Vol.2) — per the Final Fantasy Wiki only (not looked up on goodreads or the publisher)
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757538566
+- Final Fantasy Wiki: https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — release date and ISBN of the Vol.2 row — accessed 2026-11-08
+- goodreads: https://www.goodreads.com/search?q=9784757538566
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9784757538566
+- open library: https://openlibrary.org/search?isbn=9784757538566
+
+ISBN 9784757539631 (ISBN-10 4757539630), Japanese, Square Enix, June 22, 2013 (Vol.3) — per the Final Fantasy Wiki only (not looked up on goodreads or the publisher)
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757539631
+- Final Fantasy Wiki: https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — release date and ISBN of the Vol.3 row — accessed 2026-11-08
+- goodreads: https://www.goodreads.com/search?q=9784757539631
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9784757539631
+- open library: https://openlibrary.org/search?isbn=9784757539631
+
+ISBN 9784757540873 (ISBN-10 4757540876), Japanese, Square Enix, November 22, 2013 (Vol.4) — per the Final Fantasy Wiki only (not looked up on goodreads or the publisher)
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757540873
+- Final Fantasy Wiki: https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — release date and ISBN of the Vol.4 row — accessed 2026-11-08
+- goodreads: https://www.goodreads.com/search?q=9784757540873
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9784757540873
+- open library: https://openlibrary.org/search?isbn=9784757540873
+
 ISBN 9784757542426 (ISBN-10 4757542429), Japanese "ファイナルファンタジー零式外伝氷剣の死神(5)" (Vol.5, final), スクウェア・エニックス, April 22, 2014, Comic — per Square Enix page
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757542426
 - goodreads: https://www.goodreads.com/book/show/70695280-5 — accessed 2026-10-10 (page details pasted by user; no date or page count shown)

@@ -13,3 +13,8 @@
     - http://dlgames.square-enix.com/jp/ipod/2011/ddff_ar/ -- the detail page, capture of 2012-01-04: an AR viewer (a printed marker shows the character model in the camera view) and a model viewer for the characters of the PSP game; 1 player; Platform iPhone/iPod touch; (C) 2008, 2011; character design Tetsuya Nomura; links the official site -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20120104081739/http://dlgames.square-enix.com/jp/ipod/2011/ddff_ar/
     - http://dlgames.square-enix.com/dissidia_012ar/ -- the official site, capture of 2011-06-05: title DISSIDIA 012 FINAL FANTASY AR | SQUARE ENIX; Japanese (jp/) and English (en/) pages; "for iPhone / iPod touch" -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20110605012227/http://dlgames.square-enix.com/dissidia_012ar/
   - Separate app from the PSP game; no gameplay, story or minigame
+
+## Decisions
+
+- Not listed (user, 2026-11-08): books from the Final Fantasy Wiki's Square Enix Magazine & Book page (https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book, accessed 2026-11-08) that are guidebooks, previews, artbooks, catalogues, magazines or development books, not entertaining on their own (docs/data.md, "What belongs on a list")
+  - Dissidia Final Fantasy Official Character Guide — 2016-02-25 — ISBN 9784757548749

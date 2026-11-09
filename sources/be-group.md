@@ -12,3 +12,8 @@ See the entry sources above; this file holds the group-wide decisions.
 - **Brave Exvius Memorial Version not listed (user, 2026-10-20):** the Japanese offline app Square Enix released after the Japanese service ended (Android com.square_enix.ffbejpn, iOS id940099765) is an archive and viewer of the main story, encyclopedias, unit galleries and enemy data, with no gameplay; it does not count as content, so Final Fantasy Brave Exvius gets no Japanese or Memorial rows and the Memorial Version is not an entry; the fan-made English Memorial Edition is not listed either; same call as the XIV Libra Eorzea app (see final-fantasy-franchise.md Decisions)
   - The shutdown dates in the source of this call (Japan 2025-10-31, global 2024-10-31) come from an AI summary the user pasted and are not verified
 - **Japanese rows (user, 2026-10-20):** a struck global row stays on its own; a live Japanese row is added only when the content is still live in the Japanese app (a "terminated" row can mean the content shut down inside an app that is still online); the Brave Exvius Japanese app is a Memorial Version, so no Japanese row
+- Not listed (user, 2026-11-08): books from the Final Fantasy Wiki's Square Enix Magazine & Book page (https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book, accessed 2026-11-08) that are guidebooks, previews, artbooks, catalogues, magazines or development books, not entertaining on their own (docs/data.md, "What belongs on a list")
+  - Final Fantasy Brave Exvius The Art Works — 2016-11-26 — no ISBN
+  - Final Fantasy Brave Exvius The Art Works II — 2017-11-01 — no ISBN
+  - Final Fantasy Brave Exvius The Art Works III — 2018-12-04 — no ISBN
+  - Final Fantasy Brave Exvius The Art Works IV — 2019-10-18 — no ISBN

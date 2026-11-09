@@ -243,3 +243,5 @@ Novel series: see `xi-novels-group.md` (ja.wikipedia Famitsu Bunko page, Library
   - even then the book is an alternative source for that manga, recorded in the manga entry's description or as an alternate link there, not an "art compilation" entry of its own (as the Minagawa art book sits in the Love in the Sky entry)
   - showing covers is not enough
   - a discussion or talk about a reading drama does not count, while a reading-drama performance or script might, depending on the drama's own content
+- Not listed (user, 2026-11-08): books from the Final Fantasy Wiki's Square Enix Magazine & Book page (https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book, accessed 2026-11-08) that are guidebooks, previews, artbooks, catalogues, magazines or development books, not entertaining on their own (docs/data.md, "What belongs on a list")
+  - Final Fantasy XI Official Memorial Book ~Kioku no Utaibito~ — 2015-11-27 — no ISBN

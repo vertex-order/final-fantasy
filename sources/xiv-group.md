@@ -57,3 +57,32 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - The Companion stays (it barely meets the bar, but it is an important tool and the subscription service for XIV players)
   - Evidence: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Libra_Eorzea (the Final Fantasy Wiki page, pasted by user 2026-10-20) and the official end-of-service notice, http://na.finalfantasyxiv.com/pr/special/libraeorzea/ (still live; "As of April 23, 2019, service for FINAL FANTASY XIV: Libra Eorzea will be discontinued", pointing to the Companion and the Lodestone database)
   - See sources/final-fantasy-franchise.md for the same decision and how the app was found
+- Not listed (user, 2026-11-08): books from the Final Fantasy Wiki's Square Enix Magazine & Book page (https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book, accessed 2026-11-08) that are guidebooks, previews, artbooks, catalogues, magazines or development books, not entertaining on their own (docs/data.md, "What belongs on a list")
+  - Final Fantasy XIV: A Realm Reborn The Art of Eorzea -Another Dawn- — 2014-10-17 — ISBN 9784757544611
+  - Final Fantasy XIV: Heavensward The Art of Ishgard -Stone & Steel- — 2015-12-24 — ISBN 9784757548558
+  - Final Fantasy XIV: Heavensward The Art of Ishgard -The Scars of War- — 2017-03-02 — ISBN 9784757553118
+  - Final Fantasy XIV: Stormblood Art of the Revolution -Western Memories- — 2018-02-14 — ISBN 9784757556140
+  - Final Fantasy XIV: Stormblood Art of the Revolution -Eastern Memories- — 2019-05-15 — ISBN 9784757560383
+  - Final Fantasy XIV: Shadowbringers The Art of Reflection -Histories Forsaken- — 2020-03-31 — ISBN 9784757564909
+  - Final Fantasy XIV Official Magazine 2016 Natsu-gō — 2016-06-21 — ISBN 9784757550322
+  - Final Fantasy XIV Official Magazine 2016 Aki-gō — 2016-10-11 — ISBN 9784757551473
+  - Final Fantasy XIV Official Magazine 2017 Natsu Guren no Liberator Chokuzen Special-gō — 2017-06-08 — ISBN 9784757553996
+  - Final Fantasy XIV Official Magazine Shinsei 5-Shūnen Special-gō — 2018-10-18 — ISBN 9784757558663
+  - Encyclopædia Eorzea — 2016-12-27 — ISBN 9784757551459
+  - Encyclopædia Eorzea II — 2018-11-24 — ISBN 9784757557765
+  - Final Fantasy XIV: A Realm Reborn Eorzea Collection 2014 Mirage Prism & Housing Catalogue — 2014-07-15 — ISBN 9784757543805
+  - Final Fantasy XIV Eorzea Collection 2015 Mirage Prism & Housing Catalogue — 2015-09-10 — ISBN 9784757547537
+  - Final Fantasy XIV Eorzea Collection 2016-2017 — 2017-01-24 — ISBN 9784757552371
+  - Final Fantasy XIV Eorzea Official Starting Guide — 2010-09-30 — ISBN 9784757529885
+  - Final Fantasy XIV: A Realm Reborn Official Starting Guide — 2013-08-27 — ISBN 9784757540552
+  - Final Fantasy XIV: A Realm Reborn Eorzea World Report Patch 2.1 Class/Job/Data — 2014-02-27 — ISBN 9784757542372
+  - Final Fantasy XIV: A Realm Reborn Eorzea World Report Patch 2.1 Map/Quest/Content — 2014-02-27 — ISBN 9784757542389
+  - Enjoy Final Fantasy XIV #2014-2015 Winter — 2014-12-20 — ISBN 9784757545472
+  - Final Fantasy XIV: A Realm Reborn Official Complete Guide — 2015-03-17 — ISBN 9784757546011
+  - Final Fantasy XIV: Heavensward Official Starting Guide — 2015-06-23 — ISBN 9784757546875
+  - Final Fantasy XIV: Heavensward Official Guide — 2016-01-28 — ISBN 9784757548725
+  - Final Fantasy XIV: Heavensward Crafter & Gatherer & Goldsaucer Official Guide — 2016-03-31 — ISBN 9784757549401
+  - Final Fantasy XIV Crafter & Gatherer Official Guide — 2017-04-03 — ISBN 9784757556898
+  - Final Fantasy XIV: Heavensward Official Complete Guide — 2017-04-18 — ISBN 9784757553385
+  - Final Fantasy XIV: Stormblood Battle Job & Dungeon Official Guide — 2017-09-08 — ISBN 9784757554658
+  - Final Fantasy XIV: Shadowbringers Battle Job & Dungeon Official Guide — 2019-09-24 — ISBN 9784757563261

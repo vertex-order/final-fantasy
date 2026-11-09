@@ -27,6 +27,34 @@ ISBN 9784757555204 (ISBN10: 4757555202), Japanese, Square Enix (ガンガンコ�
 - open library: https://openlibrary.org/search?isbn=9784757555204
 - NDL: http://id.ndl.go.jp/bib/028644200 — accessed 2026-10-09
 
+ISBN 9784757557192 (ISBN10: 4757557191), Japanese, Square Enix, May 22, 2018 (Vol.2) — per the Final Fantasy Wiki only (not looked up on goodreads or the publisher)
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757557192
+- Final Fantasy Wiki: https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — release date and ISBN of the Vol.2 row — accessed 2026-11-08
+- goodreads: https://www.goodreads.com/search?q=9784757557192
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9784757557192
+- open library: https://openlibrary.org/search?isbn=9784757557192
+
+ISBN 9784757559752 (ISBN10: 4757559755), Japanese, Square Enix, January 22, 2019 (Vol.3) — per the Final Fantasy Wiki only (not looked up on goodreads or the publisher)
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757559752
+- Final Fantasy Wiki: https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — release date and ISBN of the Vol.3 row — accessed 2026-11-08
+- goodreads: https://www.goodreads.com/search?q=9784757559752
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9784757559752
+- open library: https://openlibrary.org/search?isbn=9784757559752
+
+ISBN 9784757561557 (ISBN10: 4757561555), Japanese, Square Enix, June 12, 2019 (Vol.4) — per the Final Fantasy Wiki only (not looked up on goodreads or the publisher)
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757561557
+- Final Fantasy Wiki: https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — release date and ISBN of the Vol.4 row — accessed 2026-11-08
+- goodreads: https://www.goodreads.com/search?q=9784757561557
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9784757561557
+- open library: https://openlibrary.org/search?isbn=9784757561557
+
+ISBN 9784757564633 (ISBN10: 4757564635), Japanese, Square Enix, January 11, 2020 (Vol.5) — per the Final Fantasy Wiki only (not looked up on goodreads or the publisher)
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757564633
+- Final Fantasy Wiki: https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga — release date and ISBN of the Vol.5 row — accessed 2026-11-08
+- goodreads: https://www.goodreads.com/search?q=9784757564633
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9784757564633
+- open library: https://openlibrary.org/search?isbn=9784757564633
+
 ASIN B0DM27XXBT, French, Mana Books, April 5, 2018, 219 pages, Paperback — per goodreads — FR language link*
 - goodreads: https://www.goodreads.com/book/show/40846282-final-fantasy-lost-stranger-1 — accessed 2026-10-09
 

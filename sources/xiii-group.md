@@ -13,3 +13,8 @@
   - Left out (user's call, 2026-10-24): special-edition collector boxes of games sold separately
 
 ## Decisions
+- Not listed (user, 2026-11-08): books from the Final Fantasy Wiki's Square Enix Magazine & Book page (https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book, accessed 2026-11-08) that are guidebooks, previews, artbooks, catalogues, magazines or development books, not entertaining on their own (docs/data.md, "What belongs on a list")
+  - Final Fantasy XIII World Preview — 2009-12-12 — ISBN 9784757527683
+  - Final Fantasy XIII-2 World Preview — 2011-12-01 — ISBN 9784757534292
+  - Final Fantasy Type-0 World Preview — 2013-10-13 — ISBN 9784757533530
+  - Final Fantasy Type-0 Kōshiki Settei Shiryōshū Aku no Hishi — 2012-02-23 — ISBN 9784757535190
