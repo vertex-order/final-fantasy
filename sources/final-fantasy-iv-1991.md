@@ -919,6 +919,17 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Chronicles -- listed in Category:Games -- page not read -- accessed 2026-11-08
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Collection -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
+
+- https://wiki.seiwanetwork.org/wiki/Final_Fantasy_IV -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_IV -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_IV:_The_Complete_Collection -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_Chronicles -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_Collection -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions
 
 - **Not to be listed: the cancelled Famicom/NES version of Final Fantasy IV (user, 2026-11-03):** planned for the Famicom (Square, 1991, Japan) and moved to the Super Famicom before any work was done, per GamesRadar+ 'The lost Nintendo games' (2008-05-30, https://www.gamesradar.com/the-lost-nintendo-games/) and Lost Levels (2003-11, http://www.lostlevels.org/200311/200311-square.shtml); never released, so the NES is not a platform of Final Fantasy IV. Only this platform is left out: the game itself released on other platforms and stays listed on them

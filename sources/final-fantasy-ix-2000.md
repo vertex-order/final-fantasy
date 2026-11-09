@@ -582,4 +582,8 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_IX -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_IX -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions

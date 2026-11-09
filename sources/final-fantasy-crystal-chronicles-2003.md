@@ -62,6 +62,10 @@
     - its Tribes and Development Team sections are character and developer content, outside our scope
     - its Links section names only https://www.square-enix.com/
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_Crystal_Chronicles -- listed in Category:Final Fantasy Crystal Chronicles -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 - [FFCC 公式ガイドブック コンプリートエディション](https://magazine.jp.square-enix.com/gamebooks/books/10021) — Square Enix Game Books page for the official guide; title seen in the series listing; details not read — accessed 2026-10-11

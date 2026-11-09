@@ -343,4 +343,9 @@
 
 - https://finalfantasywiki.com/wiki/World_of_Final_Fantasy -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/World_of_Final_Fantasy -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/World_of_Final_Fantasy_Maxima -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions

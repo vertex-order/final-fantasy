@@ -374,4 +374,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_XII -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
+
+- https://wiki.seiwanetwork.org/wiki/Final_Fantasy_XII -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_XII -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions

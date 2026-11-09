@@ -671,6 +671,38 @@
       - Other titles (7, sources/other-group.md): Dragon Quest & Final Fantasy in Itadaki Street Special Official Perfect Guide (2005-01-21, 9784757513501); Dragon Quest & Final Fantasy in Itadaki Street Portable Official Perfect Guide (2006-06-23, 9784757517141); Final Fantasy Fables: Chocobo's Dungeon Official Complete Guide (2008-01-31, 9784757522077); Final Fantasy Fables: Cid & Chocobo's Dungeon DS+ Official Complete Guide (2008-11-13, 9784757524248); Final Fantasy: The 4 Heroes of Light Official Complete Guide (2009-11-26, 9784757527140); Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary Marugoto Itadaki! Official Complete Guide (2017-10-19, 9784757554986); Mobius Final Fantasy First Anniversary Collections (2016-10-18, 9784757551442)
       - World (1, sources/wd-group.md): World of Final Fantasy Official Complete Guide (2016-11-24, 9784757551787)
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki, Category:Games)
+
+- https://wiki.seiwanetwork.org/wiki/Category:Games -- the Seiwa Network wiki's Category:Games, visited and audited -- accessed 2026-11-08 (read through https://wiki.seiwanetwork.org/w/api.php); archived: TODO
+  - 19 pages and 3 subcategories (Characters, Consoles, Locations; not read)
+  - Final Fantasy pages, each URL in its game's own sources file, listed and not read: Final Fantasy, Final Fantasy Adventure, II, III, IV, VI, XII, XIII, and Collection of SaGa FINAL FANTASY LEGEND
+  - The other pages are Mana and SaGa titles and Secret of Evermore, outside the Final Fantasy, Chocobo and Kingdom Hearts scope and the listed Mana and SaGa titles
+
+- https://wiki.seiwanetwork.org/wiki/Final_Fantasy_(series) -- the Seiwa Network wiki's Final Fantasy series page, visited and audited -- accessed 2026-11-08 (links read through the API); archived: TODO
+  - A short article: its links go to Dragon Quest, Final Fantasy (game), Final Fantasy VII, Final Fantasy XV, Hironobu Sakaguchi, Square Enix and StrategyWiki; no game URL taken from it
+- https://wiki.seiwanetwork.org/wiki/Category:Final_Fantasy -- the Seiwa Network wiki's Category:Final_Fantasy, visited and audited -- accessed 2026-11-08 (read through the API); archived: TODO
+  - 23 pages and 2 subcategories (Final Fantasy characters, Ivalice Alliance; the Ivalice Alliance category holds Vaan only)
+  - Pages: character articles, the Final Fantasy (series), Final Fantasy VII and Final Fantasy XIII pages, Final Fantasy Wiki, and Super Smash Bros. Ultimate (a named exclusion below)
+- https://wiki.seiwanetwork.org/wiki/Mana_(series) -- the Seiwa Network wiki's Mana series page, visited and audited for Final Fantasy items only -- accessed 2026-11-08 (links read through the API); archived: TODO
+  - Final Fantasy items linked: Final Fantasy Adventure, Adventures of Mana, Collection of Mana
+- https://wiki.seiwanetwork.org/wiki/SaGa_(series) -- the Seiwa Network wiki's SaGa series page, visited and audited for Final Fantasy items only -- accessed 2026-11-08 (links read through the API); archived: TODO
+  - Final Fantasy items linked: The Final Fantasy Legend, Final Fantasy Legend II, Final Fantasy Legend III (linked as "Final Fantasy legend III"), Collection of SaGa FINAL FANTASY LEGEND, Final Fantasy II
+
+## strategywiki.org (Information; StrategyWiki, Category pages)
+
+- https://strategywiki.org/wiki/StrategyWiki:Categories -- StrategyWiki's category index, visited and audited -- accessed 2026-11-08 (links read through the API; archived: TODO)
+  - Lists 33 game-series or game categories, Final Fantasy and Final Fantasy Tactics the only Final Fantasy ones; no Chocobo or Kingdom Hearts category on it
+- https://strategywiki.org/wiki/Category:Final_Fantasy -- StrategyWiki's Category:Final_Fantasy, visited and audited -- accessed 2026-11-08 (read through https://strategywiki.org/w/api.php); archived: TODO
+  - 56 pages and 4 subcategories: Chocobo (5 pages), Fabula Nova Crystallis Final Fantasy XIII (4), Final Fantasy Crystal Chronicles (5), Final Fantasy Tactics (4), all read
+  - Pages: the numbered games and their ports and compilations (Anniversary Editions, I-II, Origins, Dawn of Souls, Anthology, Chronicles, Collection, Complete Collection, X/X-2 HD Remaster), the Final Fantasy XI expansions, Final Fantasy VII and its compilation titles, Dissidia, Theatrhythm, Explorers, The 4 Heroes of Light, Mystic Quest, World of Final Fantasy and Maxima, Stranger of Paradise, War of the Visions and Vagrant Story
+  - Each page's URL is in its game's own sources file, as listed in the category and not read
+- https://strategywiki.org/wiki/Category:Square_Enix -- StrategyWiki's Category:Square_Enix, visited and audited for Final Fantasy, Chocobo and Kingdom Hearts titles only -- accessed 2026-11-08 (read through the API); archived: TODO
+  - 221 pages and 5 subcategories; the Enix (49 pages), Square (89) and Square EA (8) subcategories read; Square Soft (1) and Square Enix Europe (3) listed as holding no Final Fantasy, Chocobo or Kingdom Hearts page; Quest Corporation, Taito Corporation and Square Soft under Square not opened
+  - Final Fantasy, Chocobo and Kingdom Hearts pages found beyond Category:Final_Fantasy: Final Fantasy Adventure, Collection of Mana, Collection of SaGa: Final Fantasy Legend, The Final Fantasy Legend, Final Fantasy Legend II and III, King's Knight, Dragon Quest & Final Fantasy in Itadaki Street Portable, and the Kingdom Hearts titles (recorded in the Kingdom Hearts repo)
+- https://strategywiki.org/wiki/Category:Square -- StrategyWiki's Category:Square (a subcategory of Category:Square_Enix), visited and audited for the same titles -- accessed 2026-11-08 (read through the API); archived: TODO
+- https://strategywiki.org/wiki/Category:RPG -- StrategyWiki's Category:RPG, visited and audited for the same titles -- accessed 2026-11-08 (page list read through the API: 1,046 pages and 5 subcategories, Action RPG, Dungeon crawler, Dungeon Master clone, Roguelike and Tactical RPG, none opened); archived: TODO
+  - A scan of the page titles for Final Fantasy, Chocobo, Kingdom Hearts and the listed outlier names found only titles that are also in the categories above
+
 ## finalfantasywiki.com (Information; Final Fantasy Wiki, Category:Games tree)
 
 - https://finalfantasywiki.com/wiki/Category:Games -- the Final Fantasy Wiki's (finalfantasywiki.com, not Fandom) Category:Games and its subcategories, visited and audited -- accessed 2026-11-08 (read through https://finalfantasywiki.com/w/api.php); archived: TODO

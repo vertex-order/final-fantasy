@@ -76,4 +76,8 @@
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift -- listed in Category:Final Fantasy Tactics -- page not read -- accessed 2026-11-08
+
 ## Decisions

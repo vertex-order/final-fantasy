@@ -465,4 +465,8 @@ Page URL by capture: 2024-05-18 to 2024-06-23 https://marketplace.xbox.com/en-GB
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_XIII -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
+
+- https://wiki.seiwanetwork.org/wiki/Final_Fantasy_XIII -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
 ## Decisions

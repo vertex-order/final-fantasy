@@ -1187,6 +1187,14 @@
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Fables:_Chocobo_Tales -- listed in Category:Games -- page not read -- accessed 2026-11-08
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Fables:_Chocobo's_Dungeon -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Chocobo_GP -- listed in Category:Chocobo -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Chocobo_no_Fushigi_na_Dungeon -- listed in Category:Chocobo -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Chocobo_Racing -- listed in Category:Chocobo -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Chocobo's_Mystery_Dungeon_EVERY_BUDDY! -- listed in Category:Chocobo -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_Fables:_Chocobo_Tales -- listed in Category:Chocobo -- page not read -- accessed 2026-11-08
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

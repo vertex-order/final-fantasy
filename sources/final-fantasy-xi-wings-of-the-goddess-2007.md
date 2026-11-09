@@ -102,6 +102,10 @@
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Xbox One; Ref. References
   - Row: Final Fantasy XI: Wings of the Goddess; MMORole-playing, Expansion; Square Enix; Square Enix; 2007-Nov-20; 2007-Nov-23; 2007-Nov-22; 2013-Nov-22
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_XI:_Wings_of_the_Goddess -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

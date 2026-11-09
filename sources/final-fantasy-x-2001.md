@@ -531,4 +531,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_X -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_X -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_X%2FX-2_HD_Remaster -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions

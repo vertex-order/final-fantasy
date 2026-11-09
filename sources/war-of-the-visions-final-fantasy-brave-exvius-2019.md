@@ -18,6 +18,10 @@ wotvffbe.com (Publisher, official; live store pages are 404, Wayback used)
 
 - https://finalfantasywiki.com/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 - No Windows row: the Windows build is the Google Play Games beta of the Android package

@@ -440,6 +440,10 @@ Page URL by capture: 2024-05-18 to 2024-06-23 https://marketplace.xbox.com/en-GB
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_XIII-2 -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_XIII-2 -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

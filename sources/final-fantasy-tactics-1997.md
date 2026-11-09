@@ -199,6 +199,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Tactics -- listed in Category:Games -- page not read -- accessed 2026-11-08
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_Tactics -- listed in Category:Final Fantasy Tactics -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions -- listed in Category:Final Fantasy Tactics -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 - The War of the Lions languages: the smartphone stores show only English and Japanese, the PSP release likely has European languages; audit before dropping `…?` and `helpWanted`

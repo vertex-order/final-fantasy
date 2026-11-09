@@ -29,6 +29,10 @@
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates -- listed in Category:Final Fantasy Crystal Chronicles -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 - [FFCC Ring of Fates 公式コンプリートガイド](https://magazine.jp.square-enix.com/gamebooks/books/10020) — Square Enix Game Books page for the official guide; title seen in the series listing; details not read — accessed 2026-10-11 — not used: a strategy guide is not a source for the game's fields — empty

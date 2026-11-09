@@ -132,4 +132,8 @@
 
 - https://finalfantasywiki.com/wiki/Before_Crisis:_Final_Fantasy_VII -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Before_Crisis:_Final_Fantasy_VII -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions

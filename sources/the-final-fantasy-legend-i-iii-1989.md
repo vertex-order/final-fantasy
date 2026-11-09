@@ -383,4 +383,18 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Legend_III -- listed in Category:Games -- page not read -- accessed 2026-11-08
 - https://finalfantasywiki.com/wiki/Collection_of_SaGa_Final_Fantasy_Legend -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
+
+- https://wiki.seiwanetwork.org/wiki/Collection_of_SaGa_FINAL_FANTASY_LEGEND -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://wiki.seiwanetwork.org/wiki/The_Final_Fantasy_Legend -- listed on the SaGa (series) page -- page not read -- accessed 2026-11-08
+- https://wiki.seiwanetwork.org/wiki/Final_Fantasy_Legend_II -- listed on the SaGa (series) page -- page not read -- accessed 2026-11-08
+- https://wiki.seiwanetwork.org/wiki/Final_Fantasy_legend_III -- listed on the SaGa (series) page -- page not read -- accessed 2026-11-08
+
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/The_Final_Fantasy_Legend -- listed in Category:Square_Enix / Category:Square -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_Legend_II -- listed in Category:Square_Enix / Category:Square -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_Legend_III -- listed in Category:Square_Enix / Category:Square -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Collection_of_SaGa:_Final_Fantasy_Legend -- listed in Category:Square_Enix / Category:Square -- page not read -- accessed 2026-11-08
+
 ## Decisions

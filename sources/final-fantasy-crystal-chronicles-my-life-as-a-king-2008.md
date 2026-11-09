@@ -108,4 +108,8 @@
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King -- listed in Category:Final Fantasy Crystal Chronicles -- page not read -- accessed 2026-11-08
+
 ## Decisions

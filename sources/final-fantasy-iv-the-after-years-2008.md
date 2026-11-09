@@ -114,6 +114,10 @@ www.ff4theafteryears.com (Square Enix, North America promo site)
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_IV:_The_After_Years -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_IV:_The_After_Years -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

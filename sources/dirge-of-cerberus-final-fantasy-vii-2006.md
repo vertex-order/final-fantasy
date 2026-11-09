@@ -113,4 +113,8 @@
 
 - https://finalfantasywiki.com/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions

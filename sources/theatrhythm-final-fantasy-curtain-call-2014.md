@@ -225,4 +225,8 @@
 
 - https://finalfantasywiki.com/wiki/Theatrhythm_Final_Fantasy:_Curtain_Call -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Theatrhythm_Final_Fantasy:_Curtain_Call -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions

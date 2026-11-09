@@ -162,6 +162,10 @@ Without Final Fantasy characters (out of scope):
 - https://finalfantasywiki.com/wiki/Dragon_Quest_%26_Final_Fantasy_in_Itadaki_Street_Portable -- listed in Category:Games -- page not read -- accessed 2026-11-08
 - https://finalfantasywiki.com/wiki/Dragon_Quest_%26_Final_Fantasy_in_Itadaki_Street_Special -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Dragon_Quest_%26_Final_Fantasy_in_Itadaki_Street_Portable -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

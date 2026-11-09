@@ -785,6 +785,14 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 - https://finalfantasywiki.com/wiki/Final_Fantasy_III_(3D_remake) -- listed in Category:Games -- page not read -- accessed 2026-11-08
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Pixel_Remaster -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
+
+- https://wiki.seiwanetwork.org/wiki/Final_Fantasy_III -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_III -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions
 
 - **Not to be listed: the cancelled WonderSwan Color version of Final Fantasy III (user, 2026-11-03):** a Square WonderSwan Color game in the cancelled list, cited to RPGFan's 'WSC FFIII Vanishes, FFI-II Remake In The Works' (2002, http://www.rpgfan.com/news/2002/1717.html, https://web.archive.org/web/20070315205600/http://www.rpgfan.com/news/2002/1717.html); never released, so the WonderSwan Color is not a platform of Final Fantasy III. Only this platform is left out: the game itself released on other platforms and stays listed on them

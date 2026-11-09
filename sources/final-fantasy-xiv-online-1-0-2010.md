@@ -85,4 +85,8 @@
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_XIV -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_XIV -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions

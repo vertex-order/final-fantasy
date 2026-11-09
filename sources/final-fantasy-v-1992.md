@@ -717,4 +717,11 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Anthology -- listed in Category:Games -- page not read -- accessed 2026-11-08
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Collection -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_V -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_V_Advance -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_Anthology -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_Collection -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions

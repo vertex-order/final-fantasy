@@ -299,4 +299,8 @@
   - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
   - Row: Dissidia Final Fantasy NT; developer column Team Ninja; JP 2018-01-11, NA 2018-01-30, PAL 2018-01-30; no options marker
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Dissidia_Final_Fantasy_NT -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions

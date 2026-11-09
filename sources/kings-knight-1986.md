@@ -111,6 +111,10 @@ jp.square-enix.com (Publisher; Japan, Wii U list, captures of 2012-10-06 to live
     - https://www.nintendo.co.jp/search/?q=%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88&mode=soft -- 任天堂ホームページ link, listed 2020-09-03 to 2022-10-18 -- link recorded only -- archived: https://web.archive.org/web/20200903111351/https://www.nintendo.co.jp/search/?q=%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88&mode=soft (last listing: https://web.archive.org/web/20221018150552/https://www.nintendo.co.jp/search/?q=%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88&mode=soft)
 
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/King's_Knight -- listed in Category:Square_Enix / Category:Square -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

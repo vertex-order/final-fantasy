@@ -816,6 +816,18 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 - https://finalfantasywiki.com/wiki/Final_Fantasy_I_%26_II:_Dawn_of_Souls -- listed in Category:Games -- page not read -- accessed 2026-11-08
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Pixel_Remaster -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
+
+- https://wiki.seiwanetwork.org/wiki/Final_Fantasy_II -- listed in Category:Games -- page not read -- accessed 2026-11-08
+
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_II -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_II_Anniversary_Edition -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_I-II -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_Origins -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Final_Fantasy_I_%26_II:_Dawn_of_Souls -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

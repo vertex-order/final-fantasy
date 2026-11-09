@@ -80,6 +80,17 @@ square-enix.com and stores (Publisher)
     - https://store.playstation.com/ja-jp/product/JP0082-PCSG00759_00-SEIKENFFGAIDENRM -- PlayStation Storeでダウンロード link / PlayStation Store link, listed 2018-10-10 to 2020-04-23 -- link recorded only -- archived: https://web.archive.org/web/20181010213234/https://store.playstation.com/ja-jp/product/JP0082-PCSG00759_00-SEIKENFFGAIDENRM
     - https://www.jp.square-enix.com/game/detail/seiken/ -- 商品詳細 link, listed in every capture from 2019-03-09 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20190626085341/https://www.jp.square-enix.com/game/detail/seiken/
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
+
+- https://wiki.seiwanetwork.org/wiki/Final_Fantasy_Adventure -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://wiki.seiwanetwork.org/wiki/Adventures_of_Mana -- listed on the Mana (series) page -- page not read -- accessed 2026-11-08
+- https://wiki.seiwanetwork.org/wiki/Collection_of_Mana -- listed on the Mana (series) page -- page not read -- accessed 2026-11-08
+
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_Adventure -- listed in Category:Square_Enix / Category:Square -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Collection_of_Mana -- listed in Category:Square_Enix / Category:Square -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 - Sword of Mana out (removes the FF elements); the 2006 mobile remake and Adventures of Mana kept them (wikis, publisher page)

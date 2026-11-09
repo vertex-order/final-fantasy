@@ -272,4 +272,8 @@
   - シアトリズム ファイナルバーライン デジタルデラックスエディション; id 70070000015201; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2023.2.16; status on sale; listed on saved page 46 of 75; the entry has no link to an item page
   - シアトリズム ファイナルバーライン プレミアムデジタルデラックスエディション; id 70070000015202; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2023.2.16; status on sale; listed on saved page 46 of 75; the entry has no link to an item page
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Theatrhythm:_Final_Bar_Line -- listed in Category:Final_Fantasy -- page not read -- accessed 2026-11-08
+
 ## Decisions

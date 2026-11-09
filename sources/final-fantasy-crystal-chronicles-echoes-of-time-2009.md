@@ -55,6 +55,10 @@ ja.wikipedia.org (Information)
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time -- listed in Category:Final Fantasy Crystal Chronicles -- page not read -- accessed 2026-11-08
+
 ## Surveyed
 
 - [FFCC Echoes of Time 公式コンプリートガイド](https://magazine.jp.square-enix.com/gamebooks/books/10018) — Square Enix Game Books page for the official guide; released 2009年02月26日, A5判, 432 pages, ISBN 9784757525061; also on the comics site as https://magazine.jp.square-enix.com/top/comics/detail/9784757525061/ (the DS and Wii versions both covered; the blurb mentions developer interviews and setting art) — accessed 2026-10-11
