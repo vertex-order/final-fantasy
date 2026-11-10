@@ -1210,6 +1210,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Chocobo_series#External_links
 
 - https://en.wikipedia.org/wiki/Chocobo_(series)#Other_media -- tabletop games based on the franchise illustrated by Itahana: the card game Chocobo's Crystal Hunt (2016) and the board game Chocobo Party Up! (2019); the picture book Chocobo and the Airship (2021 in Japan, 2023 in the West) -- accessed 2026-11-10 (revision 1360397062 of 2026-06-21; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasywiki.com (Information; Chocobo (series) page, Games section, live page of 2026-11-10)
+
+- https://finalfantasywiki.com/wiki/Chocobo_(series)#Games -- the page's Games list: Chokobo no Fushigina Danjon (1997), Chocobo's Dungeon 2 (1999), Chocobo World (1999), Chocobo Racing (1999), Dice de Chocobo (1999, originally released for compilation), Hataraku Chocobo (2000), Dokodemo Chocobo (2002), Dokodemo Chocobo 2: Dasshutsu! Yurei-sen (2003), Choco-Mate (2003), Dokodemo Chocobo 3: Taose! Niji Iro Daio (2003), Chocobo de Mobile (2006), Final Fantasy Fables: Chocobo Tales (2007), Final Fantasy Fables: Chocobo's Dungeon (2007), Cid to Chocobo no Fushigi na Dungeon Toki Wasure no Meikyu DS+ (2008), Chocobo to Maho no Ehon: Majo to Shojo to Gonin no Yusha (2008), Chocobo Panic (2010), Chocobo's Crystal Tower (2010), Chocobo no Chocotto Nouen (2012); under Remakes: Chocobo's Mystery Dungeon Every Buddy! (2019); under Compilations: Chocobo Collection (1999); under Cancelled: Chocobo de Battle and Chocobo Racing 3D -- accessed 2026-11-10 (revision 20443 of 2026-10-13; wikitext read through the MediaWiki API); archived: TODO
+  - Every title of the list is in the entry's parts or folded in as an edition of one: the DS+ edition and Every Buddy! with Final Fantasy Fables: Chocobo's Dungeon, Chocobo Collection with Chocobo Racing, Chocobo Stallion and Dice de Chocobo; the two cancelled titles are not listed (user, 2026-11-10: the cancelled ones are not collected)
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

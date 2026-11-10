@@ -103,4 +103,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_4_Heroes_of_
   - http://www.facebook.com/ff4heroes -- Official Facebook page -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.mobygames.com/game/48590/final-fantasy-the-4-heroes-of-light/ -- Final Fantasy: The 4 Heroes of Light -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasywiki.com (Information; Final Fantasy: The 4 Heroes of Light page, live page of 2026-11-10)
+
+- https://finalfantasywiki.com/wiki/Final_Fantasy:_The_4_Heroes_of_Light -- Nintendo DS role-playing game by Matrix Software, published by Square Enix, released 2009-10-29 in Japan, 2010-10-05 in the United States and 2010-10-08 in Europe; states that in 2012 a successor to The 4 Heroes of Light, Bravely Default, was released for the Nintendo 3DS, and that it spawned two sequels, Bravely Second and Bravely Default II -- accessed 2026-11-10 (revision 18572 of 2026-08-15; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
+- Bravely Default is the successor of this game (finalfantasywiki.com, https://finalfantasywiki.com/wiki/Final_Fantasy:_The_4_Heroes_of_Light), which the description says; Bravely Default, Bravely Second and Bravely Default II are not in scope for the Final Fantasy list (user, 2026-11-10)

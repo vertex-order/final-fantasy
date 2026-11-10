@@ -93,7 +93,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     mediaType: 'Game', chronoOrder: 300, narrativeOrder: 200,
     title: 'Final Fantasy: The 4 Heroes of Light', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy:_The_4_Heroes_of_Light', titleDate: '2009-10-29',
     mediaDesc: [
-      [{ text: 'Four youths journey around their world to free their home from a terrible curse. A sequel morphed into the unrelated ' }, { emText: 'Bravely Default (2012)' }, { text: ' game and franchise.' }],
+      [{ text: 'Four youths journey around their world to free their home from a terrible curse. Its successor, ' }, { emText: 'Bravely Default (2012)' }, { text: ', started a franchise of its own that is not on this list.' }],
     ],
     primary: {
       tags: ['Essential', 'Turn-based RPG', 'Jobs', 'Single-player', 'Multiplayer', 'Co-op'],
