@@ -1227,6 +1227,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Chocobo_series#External_links
 
 - https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%9C%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3#%E8%A9%95%E4%BE%A1 -- Chocobo's Mysterious Dungeon (1997): Famitsu 31/40 (PlayStation) and 27/40 (WonderSwan); Dengeki PlayStation 345/400 (80, 85, 90, 90) -- accessed 2026-11-10 (revision 111233818 of 2026-10-02; wikitext read through the MediaWiki API); archived: TODO
 
+## co-optimus.com (Information; Chocobo's Dungeon 2 and Chocobo's Mystery Dungeon Every Buddy pages, live pages of 2026-11-10)
+
+- https://www.co-optimus.com/game/6498/classics-playstation/chocobo-s-dungeon-2.html -- Chocobo's Dungeon 2, PSone: co-op for 2 players, local; co-op* -- accessed 2026-11-10; archived: TODO
+- https://www.co-optimus.com/game/5522/nintendo-switch/chocobo-s-mystery-dungeon-every-buddy.html -- Chocobo's Mystery Dungeon EVERY BUDDY!, Nintendo Switch: co-op for 2 players, local; co-op* -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

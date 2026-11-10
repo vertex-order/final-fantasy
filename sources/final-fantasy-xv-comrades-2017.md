@@ -63,7 +63,9 @@ finalfantasy.jp (Publisher, official; Japanese)
 
 co-optimus.com (Information)
 - https://www.co-optimus.com/game/4384/playstation-4/final-fantasy-15.html -- co-op*, tags* -- accessed 2026-10-18
-  - No local co-op; online 4-player co-op as co-op DLC
+  - No local co-op; online 4-player co-op; the co-op is the Comrades DLC only, not the main game
+- https://www.co-optimus.com/game/4385/xbox-one/final-fantasy-15.html -- co-op*, tags* -- accessed 2026-11-10
+  - Xbox One: online 4-player co-op; the co-op is the Comrades DLC only, not the main game
 - https://www.co-optimus.com/game/4852/pc/final-fantasy-15.html -- co-op*, tags* -- accessed 2026-10-18 -- same
 
 square-enix-games.com (Publisher, official)

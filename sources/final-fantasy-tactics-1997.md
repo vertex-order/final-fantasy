@@ -164,8 +164,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 
 ## co-optimus.com (Information)
 
-- https://www.co-optimus.com/game/127/psp/final-fantasy-tactics-the-war-of-the-lions.html -- not evidence for the multiplayer -- accessed 2026-10-18
-  - Every mode answered No and an automatic "no longer playable in co-op" banner
+- https://www.co-optimus.com/game/127/psp/final-fantasy-tactics-the-war-of-the-lions.html -- PSP version had co-op; co-op*, tags* -- accessed 2026-10-18, 2026-11-10
+  - The page's co-op details are removed because the co-op was shut down; every mode answers No and an automatic "no longer playable in co-op" banner shows
   - The table has no option for PSP Ad Hoc
   - Wayback 2010-10-22 shows the same: https://web.archive.org/web/20101022010008/http://www.co-optimus.com/game/127/psp/final-fantasy-tactics-the-war-of-the-lions.html
 

@@ -227,7 +227,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       [{ text: "Over 21 titles in this series provide casual fun centered around a recurring cast of characters and all relating to Final Fantasy's Chocobo mounts. The games span different genres, and some entries are a bit too simplistic to deserve their own entries, as a whole the series may be worth checking out." }],
     ],
     primary: {
-      tags: ['Casual'],
+      tags: ['Casual', 'Co-op'],
       contentsLabel: 'games',
       contents: [
         { title: "Chocobo's Mysterious Dungeon", titleDate: '1997-12-23', titleUrl: "https://wikipedia.org/wiki/Chocobo's_Mysterious_Dungeon", platforms: [{ key: 'playstation1', jpTag: true, paren: 'Physical' }, { key: 'playstation2', jpTag: true, paren: 'PSone compatibility', more: true }, { key: 'playstation3', jpTag: true, paren: 'Digital; PSone compatibility', url: 'https://web.archive.org/web/20140104213637/http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon1/', hreflang: 'ja', more: true }, { key: 'playstation-portable', jpTag: true, paren: 'Digital', url: 'https://web.archive.org/web/20140104213637/http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon1/', hreflang: 'ja', more: true }, { key: 'playstation-vita', jpTag: true, paren: 'Digital; PSP compatibility', url: 'https://web.archive.org/web/20140104213637/http://dlgames.square-enix.com/jp/psga/2010/chocobodungeon1/', hreflang: 'ja', more: true }, { key: 'wonderswan', jpTag: true, paren: 'Physical; B&W', more: true }] },

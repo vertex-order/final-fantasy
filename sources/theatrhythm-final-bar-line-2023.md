@@ -296,4 +296,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Bar_Line#Exte
 
 - https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Bar_Line#Voice_cast -- voice cast table with one role, the Moogle: Japanese Sumire Morohoshi, English Bailey Gambertoglio; proves Japanese and English voice (the page does not say which English variant) -- accessed 2026-11-10 (revision 4063672 of 2026-10-22; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Theatrhythm_Final_Bar_Line#Voice_cast); archived: TODO
 
+## co-optimus.com (Information; Theatrhythm Final Bar Line page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/12521/nintendo-switch/theatrhythm-final-bar-line.html -- Nintendo Switch: co-op for 2 players, local; co-op* -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

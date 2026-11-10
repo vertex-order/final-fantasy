@@ -94,7 +94,7 @@ window.__ffGroupReg['DFF'] = { num: 'DFF', chronoOrder: 1390, narrativeOrder: 13
       [{ text: 'Confusingly released to arcades in Japan as ' }, { emText: 'Dissidia Final Fantasy' }, { text: ' (which already existed on the PSP as a different game) before being rebranded ' }, { emText: 'Dissidia Final Fantasy NT' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Essential', '3D', 'Fighting game', 'Action RPG', 'Single-player', 'Multiplayer'],
+      tags: ['Essential', '3D', 'Fighting game', 'Action RPG', 'Single-player', 'Multiplayer', 'Co-op'],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN', voice: true },

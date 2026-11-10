@@ -304,4 +304,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Ever_Crisis#E
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Ever_Crisis#Cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4067103 of 2026-10-29; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Ever_Crisis#Cast); archived: TODO
 
+## co-optimus.com (Information; Final Fantasy VII Ever Crisis page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/14099/android/final-fantasy-vii-ever-crisis.html -- Android: co-op for 3 players, online; co-op* -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

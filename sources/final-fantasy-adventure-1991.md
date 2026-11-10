@@ -490,6 +490,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure#Externa
 
 - https://ja.wikipedia.org/wiki/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC_%E3%80%9C%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E5%A4%96%E4%BC%9D%E3%80%9C#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 33/40 (9, 9, 9, 6; Gold Hall of Fame), IGN 9.0/10, Family Computer Magazine reader-vote 25.4/30, RPGFan 92%, RPGamer 3.0/5, Nintendojo 8.7/10 -- accessed 2026-11-10 (revision 111083046 of 2026-09-20; wikitext read through the MediaWiki API); archived: TODO
 
+## co-optimus.com (Information; Collection of Mana page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/5768/nintendo-switch/collection-of-mana.html -- Nintendo Switch, Collection of Mana (contains Final Fantasy Adventure): co-op only in Secret of Mana and Trials of Mana, both out of scope; Final Fantasy Adventure has none -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

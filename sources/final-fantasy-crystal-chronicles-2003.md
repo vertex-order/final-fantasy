@@ -406,4 +406,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
   - http://www.gamerankings.com/htmlpages2/914433.asp?q=final%20fantasy%20crystal%20chronicles -- Collection of reviews of Final Fantasy Crystal Chronicles -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://www.ffshrine.org/ffcc/ffcc.php -- Final Fantasy Crystal Chronicles Shrine -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## co-optimus.com (Information; Final Fantasy Crystal Chronicles page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/5761/playstation-4/final-fantasy-crystal-chronicles-remastered-edition.html -- Remastered Edition, PlayStation 4: co-op for 4 players, online; co-op* -- accessed 2026-11-10; archived: TODO
+- https://www.co-optimus.com/game/13214/classics-gamecube/final-fantasy-crystal-chronicles.html -- GameCube: co-op for 4 players, local; each player needs a Game Boy Advance connected to the GameCube; co-op* -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

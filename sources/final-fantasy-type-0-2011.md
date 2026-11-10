@@ -410,5 +410,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0#External_l
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E9%9B%B6%E5%BC%8F#%E8%A9%95%E4%BE%A1 -- Famitsu 39/40 (10, 9, 10, 10; Weekly Famitsu 2011-10-20); first-day sales 472,000, first place on the Media Create and Famitsu weekly charts -- accessed 2026-11-10 (revision 110335924 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
 
+## co-optimus.com (Information; Final Fantasy Type-0 page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/8357/psp/final-fantasy-type-0.html -- PSP: co-op for 3 players, system link or LAN play (the page does not make clear which); co-op* -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 - Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E9%9B%B6%E5%BC%8F#%E6%94%BB%E7%95%A5%E6%9C%AC)

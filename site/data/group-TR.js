@@ -7,7 +7,7 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, narrativeOrder: 1510
       'Players take control of four Final Fantasy characters, and select a game from the first Final Fantasy to XIII. Each game has three stages: field, battle, and event. Each stage features different game mechanics than the others; once a stage is completed, the characters level up.',
     ],
     primary: {
-      tags: ['Essential', 'Rhythm', 'Single-player', 'Multiplayer'],
+      tags: ['Essential', 'Rhythm', 'Single-player', 'Multiplayer', 'Co-op'],
       languages: [
         { value: 'JA', native: true },
         { value: 'EN' },

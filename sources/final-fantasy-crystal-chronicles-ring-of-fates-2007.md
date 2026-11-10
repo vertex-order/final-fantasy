@@ -129,4 +129,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 3568420 of 2022-01-05; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates#Voice_cast); archived: TODO
 
+## co-optimus.com (Information; Final Fantasy Crystal Chronicles: Ring of Fates page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/512/nintendo-ds/final-fantasy-crystal-chronicles-ring-of-fates.html -- DS: co-op for 4 players, DS system link; co-op* -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

@@ -43,7 +43,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       [{ text: 'A campaign dubbed ' }, { emText: '"Return to Ivalice"' }, { text: ' ties into the ' }, { emText: 'Ivalice' }, { text: ' subseries, with characters based on those from ' }, { emLinkText: 'XII (2006)', emLinkUrl: '#entry-XII-final-fantasy-xii-2006' }, { text: ' and ' }, { emLinkText: 'Tactics (1997)', emLinkUrl: '#entry-XII-final-fantasy-tactics-1997' }, { text: '.' }],
     ],
     primary: {
-      tags: ['Essential', 'Sequel', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'],
+      tags: ['Essential', 'Sequel', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription', 'Co-op'],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN-GB', voice: true },

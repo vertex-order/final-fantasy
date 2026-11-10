@@ -1473,6 +1473,34 @@
   - lineup.json: http://www.jp.playstation.com/psn/psm/title/lineup.json -- capture of 2015-08-26; archived: https://web.archive.org/web/20150826090748/http://www.jp.playstation.com/psn/psm/title/lineup.json
   - Captures of 2019 to 2022 show the PlayStation Mobile content-delivery end notice (http://www.jp.playstation.com/info/support/sp_20150311_psm_info.html), not the service page
 
+## co-optimus.com (Information; Co-Optimus, search for "final fantasy")
+
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "final fantasy", visited and audited -- live pages of 2026-11-10; archived: TODO
+
+## co-optimus.com (Information; Co-Optimus, search for "chocobo")
+
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "chocobo", visited and audited -- live pages of 2026-11-10; archived: TODO
+
+## co-optimus.com (Information; Co-Optimus, Square Enix developer and publisher pages)
+
+- https://www.co-optimus.com/developer/79/square-enix.html -- Co-Optimus, Square Enix as developer, visited and audited -- live page of 2026-11-10; archived: TODO
+- https://www.co-optimus.com/publisher/79/square-enix.html -- Co-Optimus, Square Enix as publisher, visited and audited -- live page of 2026-11-10; archived: TODO
+
+## co-optimus.com (Information; Co-Optimus, searches for titles without Final Fantasy, Chocobo or Kingdom Hearts in the name)
+
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "vagrant story", visited and audited -- live pages of 2026-11-10; archived: TODO
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "crystal defenders", visited and audited -- live pages of 2026-11-10; archived: TODO
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "king's knight", visited and audited -- live pages of 2026-11-10; archived: TODO
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "justice monsters", visited and audited -- live pages of 2026-11-10; archived: TODO
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "voice fantasy", visited and audited -- live pages of 2026-11-10; archived: TODO
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "heavenstrike", visited and audited -- live pages of 2026-11-10; archived: TODO
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "theatrhythm", visited and audited -- live pages of 2026-11-10; archived: TODO
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "itadaki street", visited and audited -- live pages of 2026-11-10; archived: TODO
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "mana", visited and audited -- live pages of 2026-11-10; archived: TODO
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "seiken densetsu", visited and audited -- live pages of 2026-11-10; archived: TODO
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "saga", visited and audited -- live pages of 2026-11-10; archived: TODO
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "sa-ga", visited and audited -- live pages of 2026-11-10; archived: TODO
+
 ## Decisions
 
 Also recorded in the group files named in each item:

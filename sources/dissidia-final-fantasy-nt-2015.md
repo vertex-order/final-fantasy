@@ -359,4 +359,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
 
 - https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_NT#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4065695 of 2026-10-27; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Dissidia_Final_Fantasy_NT#Voice_cast); archived: TODO
 
+## co-optimus.com (Information; Dissidia Final Fantasy NT page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/11311/playstation-4/dissidia-final-fantasy-nt.html -- PlayStation 4: co-op for 3 players, online; co-op* -- accessed 2026-11-10; archived: TODO
+- https://www.co-optimus.com/game/11309/pc/dissidia-final-fantasy-nt-free-edition.html -- PC, Free Edition: the same game as the PlayStation 4 page, same co-op facts -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

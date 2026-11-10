@@ -167,4 +167,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 3882037 of 2024-12-21; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time#Voice_cast); archived: TODO
 
+## co-optimus.com (Information; Final Fantasy Crystal Chronicles: Echoes of Time page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/1125/nintendo-ds/final-fantasy-crystal-chronicles-echoes-of-time.html -- co-op for 4 players: DS system link; Wii online; co-op* -- accessed 2026-11-10; archived: TODO
+- https://www.co-optimus.com/game/1126/wii/final-fantasy-crystal-chronicles-echoes-of-time.html -- Wii: co-op for 4 players, online; DS: 4 players, LAN play or system link (the page does not make clear which); co-op* -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

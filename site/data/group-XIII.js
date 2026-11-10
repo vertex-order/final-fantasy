@@ -468,7 +468,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       ],
       versions: [
         {
-          tags: ['Multiplayer'],
+          tags: ['Multiplayer', 'Co-op'],
           languages: [
             { value: 'JA', native: true },
             { value: 'EN', tip: 'English (Fan Translation) (SkyBlazeCloud+ 2015)' },

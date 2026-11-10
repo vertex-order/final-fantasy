@@ -130,4 +130,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%83%AB_%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%83%99%E3%82%A2%E3%83%A9%E3%83%BC#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 30/40 (7, 8, 7, 8, Silver Hall of Fame), 1UP C-, G4 2/5, Game Informer 5.5/10, GameSpot 5.5/10, GameTrailers 7.7/10, IGN 6.2/10, Nintendo Power 8/10, RPGFan 88%; 4Gamer.net praised the story, battles and replay elements -- accessed 2026-11-10 (revision 110643568 of 2026-08-14; wikitext read through the MediaWiki API); archived: TODO
 
+## co-optimus.com (Information; Final Fantasy Crystal Chronicles: The Crystal Bearers page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/1434/wii/final-fantasy-crystal-chronicles-the-crystal-bearers.html -- Wii: co-op for 2 players, local; co-op* -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

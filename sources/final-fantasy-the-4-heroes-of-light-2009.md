@@ -111,6 +111,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_4_Heroes_of_
 
 - https://ja.wikipedia.org/wiki/%E5%85%89%E3%81%AE4%E6%88%A6%E5%A3%AB_-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E5%A4%96%E4%BC%9D-#%E6%94%BB%E7%95%A5%E6%9C%AC -- two guides: SE-MOOK Official Complete Guide (ISBN 978-4-7575-2714-0) and V-Jump Books World Navigator (978-4-08-779525-7) -- accessed 2026-11-10 (revision 109887757 of 2026-06-11; wikitext read through the MediaWiki API); archived: TODO
 
+## co-optimus.com (Information; Final Fantasy: The 4 Heroes of Light page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/1587/nintendo-ds/final-fantasy-the-4-heroes-of-light.html -- DS: co-op for 4 players, system link; co-op* -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 - Bravely Default is the successor of this game (finalfantasywiki.com, https://finalfantasywiki.com/wiki/Final_Fantasy:_The_4_Heroes_of_Light), which the description says; Bravely Default, Bravely Second and Bravely Default II are not in scope for the Final Fantasy list (user, 2026-11-10)
 - Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E5%85%89%E3%81%AE4%E6%88%A6%E5%A3%AB_-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E5%A4%96%E4%BC%9D-#%E6%94%BB%E7%95%A5%E6%9C%AC)

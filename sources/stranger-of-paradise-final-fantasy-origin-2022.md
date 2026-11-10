@@ -350,4 +350,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Stranger_of_Paradise_Final_Fant
 
 - https://breezewiki.com/finalfantasy/wiki/Stranger_of_Paradise_Final_Fantasy_Origin#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4066594 of 2026-10-29; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Stranger_of_Paradise_Final_Fantasy_Origin#Voice_cast); archived: TODO
 
+## co-optimus.com (Information; Stranger of Paradise: Final Fantasy Origin page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/10626/pc/stranger-of-paradise-final-fantasy-origin.html -- PC: co-op for 3 players, online; co-op* -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

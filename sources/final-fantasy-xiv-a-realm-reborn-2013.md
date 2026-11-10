@@ -563,4 +563,8 @@
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E8%A9%95%E4%BE%A1 -- OpenCritic score of A Realm Reborn: 86/100 (the section also lists Metacritic scores per expansion) -- accessed 2026-11-10 (revision 111720449 of 2026-11-10; wikitext read through the MediaWiki API); archived: TODO
 
+## co-optimus.com (Information; Final Fantasy XIV Online page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/10333/pc/final-fantasy-14-online.html -- PC: co-op for 8 players, online; co-op* -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
