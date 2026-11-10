@@ -472,6 +472,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2#External_l
   - http://www.finalfantasy13-2game.com/ -- Domain site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2 -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Information; ファブラ ノヴァ クリスタリス ファイナルファンタジー article, 作品一覧 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファブラ_ノヴァ_クリスタリス_ファイナルファンタジー#作品一覧 -- ライトニングサーガ: listed as the second game of the trilogy, released 2011-12-15 for PlayStation 3 and Xbox 360 -- accessed 2026-11-09 (revision 106677914 of 2025-10-01; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

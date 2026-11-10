@@ -424,4 +424,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
   - https://play.google.com/store/apps/details?id=jp.co.sqex.game.ff13_3 -- Google Play Purchase Page -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.amazon.co.jp/Lightning-Returns-Fantasy-ライトニング-ファイナルファンタジーXIII/dp/B01E5IWNSO/ref=pd_sim_405_2?ie=UTF8&dpID=91ILxeNyV1L&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=1KSPP2Y41C4DPFQV2C1W -- Amazon Purchase Page -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Information; ファブラ ノヴァ クリスタリス ファイナルファンタジー article, 作品一覧 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファブラ_ノヴァ_クリスタリス_ファイナルファンタジー#作品一覧 -- ライトニングサーガ: listed as the third game of the trilogy, released 2013-11-21 for PlayStation 3 and Xbox 360 -- accessed 2026-11-09 (revision 106677914 of 2025-10-01; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; ライトニング リターンズ ファイナルファンタジーXIII article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ライトニング_リターンズ_ファイナルファンタジーXIII#関連商品 -- lists two guides (a V Jump Books master guide covering both the PS3 and Xbox 360 versions and an SE-MOOK Ultimania), two soundtrack discs and a figure; no related game, book or other work -- accessed 2026-11-09 (revision 110739752 of 2026-08-22; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

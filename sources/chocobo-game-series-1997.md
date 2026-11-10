@@ -1206,6 +1206,10 @@
 Mirror: https://breezewiki.com/finalfantasy/wiki/Chocobo_series#External_links
   - https://en.wikipedia.org/wiki/Chocobo_(series) -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; Chocobo (series) article, Other media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Chocobo_(series)#Other_media -- tabletop games based on the franchise illustrated by Itahana: the card game Chocobo's Crystal Hunt (2016) and the board game Chocobo Party Up! (2019); the picture book Chocobo and the Airship (2021 in Japan, 2023 in the West) -- accessed 2026-11-10 (revision 1360397062 of 2026-06-21; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.

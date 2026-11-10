@@ -31,4 +31,8 @@
 - https://en.wikipedia.org/wiki/Final_Fantasy:_Unlimited#External_links -- six links: a Wikiquote template, GONZO official page, the official fan site (2004 capture), IMDb tt0304012, the Final Fantasy Compendium page and a fan translation site -- accessed 2026-11-09 (revision 1379290309 of 2026-10-09; wikitext read through the MediaWiki API); the same links are listed in sources/final-fantasy-unlimited-with-u-2002.md
 - https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜#外部リンク -- the GONZO page https://www.gonzo.co.jp/works/ffu/ and the official fan site (2004-07-07 capture) -- accessed 2026-11-09 (revision 111204422 of 2026-09-29)
 
+## en.wikipedia.org (Information; Final Fantasy (series) article, Film and television section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- a 25-episode anime television series released in 2001 based on the common elements of the franchise, broadcast in Japan by TV Tokyo and released in North America by ADV Films -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

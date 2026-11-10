@@ -94,6 +94,14 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - Japan Square Enix product pages for the native release dates
 
+## en.wikipedia.org (Information; Chocobo (series) article, Other media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Chocobo_(series)#Other_media -- the card game Chocobo's Crystal Hunt was released in 2016 and the board game Chocobo Party Up! in 2019, both Chocobo tabletop games illustrated by Itahana -- accessed 2026-11-10 (revision 1360397062 of 2026-06-21; wikitext read through the MediaWiki API); archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy (series) article, Other media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- the Final Fantasy Trading Card Game, produced by Square Enix and Hobby Japan, first released in Japan in 2012 with an English version in 2016, compared to Magic: The Gathering with a tournament circuit; in 2025 Wizards of the Coast released Final Fantasy sets covering every mainline entry at the time for Magic: The Gathering as a Universes Beyond collaboration -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Origins of Light: A Final Fantasy Board Game is listed as upcoming. Its Kickstarter is a pre-order campaign (the risks section says every order will be fulfilled) and the game is Square Enix-licensed, so it will be produced.

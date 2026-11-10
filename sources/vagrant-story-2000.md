@@ -174,4 +174,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Vagrant_Story#External_links
   - http://www34.brinkster.com/worldshards/translations/trans.htm -- Translated Vagrant Story Ultimania -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://www.rpgclassics.com/shrines/psx/vs -- RPGClassics' Vagrant Story shrine -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Information; ベイグラントストーリー article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ベイグラントストーリー#関連商品 -- goods sold after the game's release: Zippo lighters, a silver necklace, T-shirts, key rings, money clips and card cases; the publisher also partnered with a Koshu wine maker and sold Rare Monde wine; the Ultimania (digicube) includes a novelization by ベニー松山 with the setting material and developer interviews -- accessed 2026-11-09 (revision 111508662 of 2026-10-25; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

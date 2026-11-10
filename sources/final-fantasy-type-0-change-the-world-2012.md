@@ -202,6 +202,13 @@ duckduckgo.com (Information)
 - Cultura: only a generic YA-novel listing page, search for the title returned nothing for Final Fantasy (checked by user, 2026-10-10) — empty
 - Also seen in search, not opened: librairie-dedicaces.fr, librairielecamphrier.fr, cdiscount — mine
 
+## en.wikipedia.org (Information; Final Fantasy Type-0 article, Merchandise section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Type-0#Merchandise -- two novel adaptations, in April and June 2012, depicting an alternate version of Type-0's story: Change the World -The Answer- and Change the World Volume 2 -The Penultimate Truth-, written by Sōki Tsukishima -- accessed 2026-11-09 (revision 1375473726 of 2026-09-18; wikitext read through the MediaWiki API); archived: TODO
+## ja.wikipedia.org (Information; ファイナルファンタジー零式 article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー零式#関連商品 -- GAME NOVELS ファイナルファンタジー零式 Change the World -The Answer- released 2012-04-21; GAME NOVELS ファイナルファンタジー零式 2巻 Change the World 〜最後から二番目の真実〜 released 2012-06-28 -- accessed 2026-11-09 (revision 110335924 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Order: chronologically before the game and after The Ice Reaper (`chronoOrder` 99950), because the two volumes lead directly into the game's plot (Vol.2's epilogue hands off to the game's opening)

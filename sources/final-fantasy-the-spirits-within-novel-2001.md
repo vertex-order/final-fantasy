@@ -32,4 +32,8 @@ goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/42405967-final-fantasy
 - https://www.goodreads.com/book/show/5941120
 
+## en.wikipedia.org (Information; Final Fantasy (series) article, Other media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- The Spirits Within has been adapted into a novel -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

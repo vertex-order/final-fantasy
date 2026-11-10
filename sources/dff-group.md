@@ -18,3 +18,15 @@
 
 - Not listed (user, 2026-11-08): books from the Final Fantasy Wiki's Square Enix Magazine & Book page (https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book, accessed 2026-11-08) that are guidebooks, previews, artbooks, catalogues, magazines or development books, not entertaining on their own (docs/data.md, "What belongs on a list")
   - Dissidia Final Fantasy Official Character Guide — 2016-02-25 — ISBN 9784757548749
+- Not listed (assistant's call, pending the user's review): the guides and the postcard book named on ja.wikipedia's ディシディア デュオデシム ファイナルファンタジー article, section 関連商品 (https://ja.wikipedia.org/wiki/ディシディア_デュオデシム_ファイナルファンタジー#関連商品, revision 110294865 of 2026-07-16), accessed 2026-11-09; none is entertaining on its own (docs/data.md, "What belongs on a list")
+  - Dissidia 012 -デュオデシム- FINAL FANTASY MASTER EX GUIDE — V Jump editorial, 2011-03-03 — ISBN 978-4-0877-9590-5
+  - ディシディア デュオデシム ファイナルファンタジー ポストカードブック — Square Enix editorial, 2011-03-03 — ISBN 978-4-7575-3185-7 (image CGs and character introductions)
+  - ディシディア デュオデシム ファイナルファンタジー アルティマニア -アクションSIDE- — Studio BentStuff, Square Enix, 2011-03-10 — ISBN 978-4-7575-3161-1
+  - ディシディア デュオデシム ファイナルファンタジー アルティマニア -RPGSIDE- — Studio BentStuff, Square Enix, 2011-03-31 — ISBN as given 978-4-757-5316-2-8 (malformed on the page); comes with a product code for five FFXIII tracks
+- Fandom page note: the Fandom page Dissidia_Final_Fantasy is the page of the Dissidia sub-franchise (the series), not the 2008 game; the 2008 game's page is Dissidia_Final_Fantasy_(2008) (user, 2026-11-09); the series page has no External links section (revision 4002378 of 2026-04-09)
+- Not listed (assistant's call, pending the user's review): the books and sheet music named on ja.wikipedia's ディシディア ファイナルファンタジー article, section ソフトの種類と関連商品 (https://ja.wikipedia.org/wiki/ディシディア_ファイナルファンタジー#ソフトの種類と関連商品, revision 111444142 of 2026-10-19), accessed 2026-11-09; none is entertaining on its own (docs/data.md, "What belongs on a list")
+  - ディシディア ファイナルファンタジー アルティマニアα — Studio BentStuff, Square Enix, 2008-12-04 — ISBN 978-4-7575-2466-8
+  - ディシディア ファイナルファンタジー Destiny Hero's Guide — V Jump Books, 2008-12-18 — ISBN 978-4-08-779489-2
+  - ディシディア ファイナルファンタジー ポストカードブック — 2008-12-18 — ISBN 978-4-7575-2463-7
+  - ディシディア ファイナルファンタジー アルティマニア — Studio BentStuff, Square Enix, 2009-01-29 — ISBN 978-4-7575-2488-0
+  - ピアノソロ 中・上級 ディシディア ファイナルファンタジー (sheet music) — Yamaha Music Media, 2009-04-24 — ISBN 978-4-636-84471-9

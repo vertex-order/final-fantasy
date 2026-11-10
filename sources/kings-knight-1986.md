@@ -341,6 +341,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/King's_Knight_-Wrath_of_the_Dar
   - https://www.facebook.com/kingsknightjp -- Official Japanese Facebook -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.facebook.com/kingsknightwrath -- Official English Facebook -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; King's Knight article, Other media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/King's_Knight#Other_media -- King's Knight is one of the video games adapted into a manga titled Susume!! Seigaku Dennou Kenkyuubu (進め！！静学電脳研究部), published in the Gamest Comics collection from April 1999 and drawn by Kouta Hirano -- accessed 2026-11-10 (revision 1382647846 of 2026-10-29; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)
@@ -351,3 +355,4 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/King's_Knight_-Wrath_of_the_Dar
   - only the US App Store's "English" is known
 - Primary entry languages (user, 2026-10-14): the original shipped in Japan and North America only (ja.wikipedia: Famicom 1986, US 1989; Wii Virtual Console Japan 2007 and US 2008, 3DS and Wii U Japan only), so JA and EN look complete, but the Virtual Console releases may have added languages
   - left as is, with the unknown-languages marker and `helpWanted` unchanged
+- Scope (user, 2026-11-10): the King's Knight game and its remakes are in scope; works related to King's Knight are not; the manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics, April 1999), named in en.wikipedia's King's Knight article, section Other media (https://en.wikipedia.org/wiki/King's_Knight#Other_media), is omitted

@@ -106,6 +106,10 @@ wikipedia.org (Information)
 
 - https://en.wikipedia.org/wiki/List_of_novels_based_on_video_games -- Final Fantasy section, row "Final Fantasy XIII-2: Fragments Before" (author Jun Eishima; Yen On; language column Japanese; ISBN 9781975382377; revision 1380085790 of 2026-10-13) -- accessed 2026-11-03; archived: TODO
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXIII-2 article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII-2#関連商品 -- 『小説ファイナルファンタジー XIII-2 Fragments Before』: a written-for-the-book novel, released 2011-12-15; episodes told from before the main story begins; author 映島巡, original idea 鳥山求 and 渡辺大祐; ISBN 978-4-7575-3466-7; chapters 【セラ：AF0年の記憶】, 【ニューボーダム：AF3年までの物語】, 【スノウ：旅立ちのエピソード】, 【リグディ&バルトロメイ：臨時政府の樹立とアカデミー創設秘話】, 【ノエル：時の果ての彷徨】 -- accessed 2026-11-09 (revision 110335847 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Release-date order: `titleDate` is `2011-12-15 10` and the XIII-2 game is `2011-12-15 20`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

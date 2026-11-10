@@ -35,4 +35,12 @@
     - its Reception section says reviews were generally positive
     - its Links section names only https://www.square-enix.com/
 
+## ja.wikipedia.org (Information; ファブラ ノヴァ クリスタリス ファイナルファンタジー article, 作品一覧 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファブラ_ノヴァ_クリスタリス_ファイナルファンタジー#作品一覧 -- アニメ: listed as ブラザーフッド ファイナルファンタジーXV, linked to the ファイナルファンタジーXV article's section of that name -- accessed 2026-11-09 (revision 106677914 of 2025-10-01; wikitext read through the MediaWiki API); archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy (series) article, Film and television section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- five episodes of 10 to 20 minutes developed by A-1 Pictures and Square Enix, detailing the backstories of the main cast, part of the Final Fantasy XV Universe -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

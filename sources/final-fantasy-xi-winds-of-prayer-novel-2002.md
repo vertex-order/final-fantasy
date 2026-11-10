@@ -151,6 +151,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#小説 -- ファイナルファンタジーXI 祈りの風: listed among the novels published by Famitsu Bunko, all by Miyabi Hasegawa: a long-running series whose volumes do not all follow the same protagonist -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
 
+## en.wikipedia.org (Information; Final Fantasy (series) article, Other media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- Final Fantasy XI has a novel and a manga set in its continuity -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Date: `2002-12-20`, the publisher's (KADOKAWA product page) and the author's page; replaces Goodreads' 2002-12-18

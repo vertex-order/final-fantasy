@@ -35,4 +35,8 @@
 
 - https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Films -- Last Order: an original video animation about the destruction of Nibelheim, packaged with the limited edition Advent Pieces of Advent Children (77,777 copies; Japan 2005-09-14, North America 2007-02-06) and no longer available to buy; with the release of Remake it was removed from the official Compilation listing -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## en.wikipedia.org (Information; Final Fantasy (series) article, Film and television section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- a non-canon OVA of 2005 in the Compilation of Final Fantasy VII, released in Japan in a special DVD bundle with Advent Children; it sold out quickly and was well received by Western critics, with mixed fan reaction to changed story scenes -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

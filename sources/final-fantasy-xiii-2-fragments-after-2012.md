@@ -87,6 +87,10 @@ youtube.com (Information)
 
 - https://en.wikipedia.org/wiki/List_of_novels_based_on_video_games -- Final Fantasy section, row "Final Fantasy XIII-2: Fragments After" (author Jun Eishima; Yen On; language column Japanese; ISBN 9781975382384; revision 1380085790 of 2026-10-13) -- accessed 2026-11-03; archived: TODO
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXIII-2 article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII-2#関連商品 -- 『小説ファイナルファンタジー XIII-2 Fragments After』: a written-for-the-book novel, released 2012-06-21; the page's blurb says it tells episodes from before the main story begins, the same wording as for Fragments Before; author 映島巡, original idea 鳥山求 and 渡辺大祐; ISBN 978-4-7575-3650-0; chapters 【ライトニング：エトロの神殿で女神を守る騎士となるまで to be continued DLC Lightning】, 【スノウ：夢の中、ライトニングとの再会。再びルシになるまで to be continued DLC Snow】, 【アリサ：運命に翻弄された死人の嘆き】, 【ノエル：ユール、カイアス。友たちとの大切な記憶】, 【ユール：時の彷徨い人の願い】 -- accessed 2026-11-09 (revision 110335847 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 ## Surveyed

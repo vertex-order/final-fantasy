@@ -139,4 +139,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_Opera_Om
   - http://dff.ooo -- English Database 1 -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://dissidiacompendium.com -- English Database 2 -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Dissidia Final Fantasy series page, Titles section, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Dissidia_Final_Fantasy#Titles -- the series page, not the 2008 game's page; Dissidia Final Fantasy Opera Omnia: a mobile game with a combat system more similar to a traditional JRPG, a story based on an alternate conflict of the gods Spiritus and Materia; marked Defunct -- accessed 2026-11-09 (revision 4002378 of 2026-04-09; wikitext read through the Fandom API); archived: TODO
+Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
+
 ## Decisions

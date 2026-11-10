@@ -48,4 +48,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜#続編 -- listed in the sequel section as a work that continues the story left unresolved when the series was cut to 25 episodes after Square withdrew as sponsor in March 2002: the mook FF:U After～外界の章：外界～ゆめのおわりとはじまり (now out of print) -- accessed 2026-11-09 (revision 111204422 of 2026-09-29; wikitext read through the MediaWiki API); archived: TODO
 
+## en.wikipedia.org (Information; Final Fantasy (series) article, Other media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- the Final Fantasy: Unlimited story was partially continued in novels and a manga after the anime series ended, and the series received a radio drama sequel -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

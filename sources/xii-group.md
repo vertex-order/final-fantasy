@@ -22,3 +22,17 @@
   - Final Fantasy Tactics A2: Grimoire of the Rift Official Complete Guide — 2007-12-03 — ISBN 9784757521728
   - Final Fantasy XII World Preview — 2006-03-02 — ISBN 9784757516625
   - Trekking on the world of Final Fantasy XII — 2006-10-27 — ISBN 9784757517936
+- Not listed (assistant's call, pending the user's review): the guides and the walking guide named on en.wikipedia's Final Fantasy XII article, section Further reading (https://en.wikipedia.org/wiki/Final_Fantasy_XII#Further_reading, revision 1384558544 of 2026-11-08) and ja.wikipedia's article, section 関連商品 (https://ja.wikipedia.org/wiki/ファイナルファンタジーXII#関連商品, revision 111444197 of 2026-10-19), accessed 2026-11-09; game guides are not entertaining on their own (docs/data.md, "What belongs on a list")
+  - Final Fantasy XII Official Strategy Guide — BradyGames, DK Publishing — 2006 — ISBN 0-7440-0837-9
+  - Final Fantasy XII Scenario Ultimania — Studio BentStuff, Square Enix — 2006 — ISBN 4-7575-1696-7 (the ja page names the Battle and Scenario Ultimania, published 2006-06-16)
+  - Final Fantasy Ultimania Archive, volume 3 — Dark Horse Comics — 2019 — ISBN 978-1-5067-0801-0
+  - スクウェア・エニックス公式ファイナルファンタジーXIIワールドプレビュー — Square Enix (takes the role of the V Jump emergency issue series)
+  - ファイナルファンタジーXII First Flight Guide — V Jump (fast guide to the early game)
+  - ファイナルファンタジーXII 公式ガイドブック (guide to the middle of the game)
+  - ファイナルファンタジーXII アルティマニアΩ — 2006-11-24
+  - ファイナルファンタジーXII インターナショナル ゾディアックジョブシステム アルティマニア — 2007-09-06
+  - ファイナルファンタジーXIIのあるきかた — CB's PROJECT, Square Enix — 2006-10-27; the first in the あるきかた series for former Square works
+- Not listed (assistant's call, pending the user's review): the guides named on ja.wikipedia's ベイグラントストーリー article, section 関連商品 (https://ja.wikipedia.org/wiki/ベイグラントストーリー#関連商品, revision 111508662 of 2026-10-25), accessed 2026-11-09; game guides are not entertaining on their own (docs/data.md, "What belongs on a list")
+  - ベイグラントストーリー 最速攻略本 for beginners — digicube — ISBN 4-925075-74-8
+  - ベイグラントストーリー完全ガイドブック 〜アシュレイ追跡調査報告書〜 — Famitsu (editor), Aspect — ISBN 4-7572-0754-9
+  - ベイグラントストーリー アルティマニア — Studio BentStuff, digicube — ISBN 4-925075-75-6 (out of print; Square Enix published a nearly identical Ultimania)

@@ -47,4 +47,9 @@
 - https://ja.wikipedia.org/wiki/ディシディア_デュオデシム_ファイナルファンタジー#外部リンク -- 1 links -- accessed 2026-11-09 (revision 110294865 of 2026-07-16; wikitext read through the MediaWiki API)
   - https://www.jp.square-enix.com/game/detail/dff012/ -- ディシディア デュオデシム ファイナルファンタジー -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Dissidia Final Fantasy series page, Titles section, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Dissidia_Final_Fantasy#Titles -- the series page, not the 2008 game's page; Dissidia Duodecim Prologus Final Fantasy: a prologue and demo to Dissidia 012 released separately, consisting of a short story mode and Arcade Mode; Prologus save data can be imported into Dissidia 012 when starting a new game, granting the Aerith Assist and several items -- accessed 2026-11-09 (revision 4002378 of 2026-04-09; wikitext read through the Fandom API); archived: TODO
+Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
+
 ## Decisions

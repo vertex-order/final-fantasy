@@ -111,4 +111,12 @@ goodreads.com (Ratings)
 - The Japanese title is ファイナルファンタジー・クリスタルクロニクル はてなき空の向こうに (NDL and wikiwiki.jp: はてなき空の向こうに); the entry's earlier 〜果てなき空の向こうに〜 had 果て, which no source uses — corrected 2026-10-11
 - The book platform is a DuckDuckGo search on the Japanese title (the English-title search is poorer), the user's call
 
+## ja.wikipedia.org (Information; ファイナルファンタジー・クリスタルクロニクル article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル#関連商品 -- 漫画版: a comic adaptation by 壱河柳乃助 serialised in 月刊少年ガンガン, 3 volumes -- accessed 2026-11-09 (revision 111104657 of 2026-09-22; wikitext read through the MediaWiki API); archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy (series) article, Other media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- Crystal Chronicles has been adapted into a manga -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

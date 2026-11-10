@@ -330,4 +330,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XVI#External_link
   - https://en.wikipedia.org/wiki/Final_Fantasy_XVI -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.mobygames.com/game/204724/final-fantasy-xvi/ -- Final Fantasy XVI -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; Final Fantasy XVI article, Related media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_XVI#Related_media -- The Art of Final Fantasy XVI (concept and promotional illustrations), released in 2023 in Japan and 2024 in the West; a lore and narrative book, Logos: The World of Final Fantasy XVI, set for late 2025 in Japan and 2026 in the West; a second artbook for the DLC, The Art of Final Fantasy XVI: Echoes of the Rising Tide, set for 2026; a stage adaptation by the Takarazuka Revue's Cosmos Troupe, in production and set for 2024, indefinitely postponed (no entry) -- accessed 2026-11-10 (revision 1384325031 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
+- Not listed (assistant's call, pending the user's review): the art books and the lore book named in https://en.wikipedia.org/wiki/Final_Fantasy_XVI#Related_media; none is entertaining on its own (docs/data.md, "What belongs on a list")
+  - The Art of Final Fantasy XVI — Square Enix, 2023 (Japan), 2024 (West)
+  - Logos: The World of Final Fantasy XVI — Square Enix, late 2025 (Japan), 2026 (West), as announced
+  - The Art of Final Fantasy XVI: Echoes of the Rising Tide — Square Enix, 2026, as announced

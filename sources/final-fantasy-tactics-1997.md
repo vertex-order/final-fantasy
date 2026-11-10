@@ -746,6 +746,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics#External_
   - http://www.videogamesprites.net/FinalFantasyTactics/ -- Final Fantasy Tactics Sprites [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://fantasyanime.com/finalfantasy/fftactics/screenshots/index.php -- Final Fantasy Tactics Screen Shots ~PSX~ [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; Final Fantasy Tactics article, Legacy section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Tactics#Legacy -- the Final Fantasy Tactics article, Legacy section: in 2017 the MMORPG Final Fantasy XIV: A Realm Reborn portrayed an alternate version of Final Fantasy Tactics in which Ramza and his companions died at the end of Tactics; Matsuno said the inspiration for depicting this plot came from the number of players who misunderstood the ending of Tactics (an alternate ending of Tactics, shown in Final Fantasy XIV; see sources/final-fantasy-xiv-a-realm-reborn-2013.md) -- accessed 2026-11-09 (revision 1381471482 of 2026-10-22; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジータクティクス article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクス#関連商品 -- related goods section, which describes editions of the game and a soundtrack (the soundtrack is out of scope) -- accessed 2026-11-09 (revision 111471952 of 2026-10-22; wikitext read through the MediaWiki API); archived: TODO
+  - The first PlayStation edition came with a disc, SQUARE'S PREVIEW 2, holding a trial version of Saga Frontier; the budget editions released later dropped it
+  - On 2000-06-29 the first Square Millennium Collection set, スクウェアミレニアムコレクション ファイナルファンタジータクティクス, was released: the game with a picture-label disc, a special watch and special playing cards
+
 ## Decisions
 
 

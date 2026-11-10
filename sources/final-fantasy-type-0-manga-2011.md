@@ -85,4 +85,11 @@ wikipedia.org (Information)
 - FR, ES, IT, DE editions: Goodreads pages linked in the entry, not researched (ISBNs, publishers, dates) — mine
 - Yen Press lists the book as "Volume 1" at some retailers; it is the standalone adaptation — used
 
+## en.wikipedia.org (Information; Final Fantasy Type-0 article, Merchandise section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Type-0#Merchandise -- a manga adaptation of Type-0 illustrated by Takatoshi Shiozawa, began serialization in Young Gangan in November 2011, collected into one tankōbon volume released on 2012-04-21 (the section names the magazine as Young Gangan) -- accessed 2026-11-09 (revision 1375473726 of 2026-09-18; wikitext read through the MediaWiki API); archived: TODO
+## ja.wikipedia.org (Information; ファイナルファンタジー零式 article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー零式#関連商品 -- manga: art 塩沢天人志, scenario 千葉広樹, serialised in 月刊少年ガンガン (not Young Gangan, as en.wikipedia says) as ファイナルファンタジー零式 from the December 2011 issue to the March 2012 issue, 4 short-run chapters; the story is based on the game's prologue and chapter 1 with some original parts; the volume ファイナルファンタジー零式 was released 2012-04-21 and holds chapters 1 to 4 -- accessed 2026-11-09 (revision 110335924 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

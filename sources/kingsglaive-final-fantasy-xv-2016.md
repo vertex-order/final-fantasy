@@ -44,4 +44,12 @@
 - Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
   - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
 
+## ja.wikipedia.org (Information; ファブラ ノヴァ クリスタリス ファイナルファンタジー article, 作品一覧 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファブラ_ノヴァ_クリスタリス_ファイナルファンタジー#作品一覧 -- アニメ (anime): listed as キングスグレイブ ファイナルファンタジーXV, linked to the ファイナルファンタジーXV article's section of that name -- accessed 2026-11-09 (revision 106677914 of 2025-10-01; wikitext read through the MediaWiki API); archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy (series) article, Film and television section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- a CGI film released before the game in Summer 2016, set during the game's opening and following new and secondary characters, part of the Final Fantasy XV Universe -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

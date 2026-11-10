@@ -410,4 +410,8 @@ Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=802601
 Mirror: https://breezewiki.com/finalfantasy/wiki/The_Final_Fantasy_Legend#External_links
   - https://en.wikipedia.org/wiki/The_Final_Fantasy_Legend -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; The Final Fantasy Legend article, Merchandise section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/The_Final_Fantasy_Legend#Merchandise -- merchandise for the first game: a book from Futabasha in February 1990, Makai Toushi Sa-Ga: Boukenshatachi no Rekuiemu (冒険者たちのレクイエム, Requiem of the Adventurers), by Misa Ikeda, 287 pages, part of Futabasha's Game Boy Adventure series for children, about a hero's trek to the top of the tower to reach Paradise; in August the fan book Final Fantasy Ryukishi Dan - Knights (ファイナルファンタジー竜騎士団), reactions and artworks to the series; the game was one of four titles on Game Players magazine's October 1992 video tape Game Player's Gametape for Game Boy Games; telephone cards -- accessed 2026-11-10 (revision 1382239053 of 2026-10-27; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

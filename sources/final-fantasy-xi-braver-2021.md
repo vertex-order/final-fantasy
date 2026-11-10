@@ -23,4 +23,8 @@
   - Final Fantasy XI Braver (2023) -- type label Main Game; platforms shown: PC (Microsoft Windows); released 2023-08-17
     - https://www.igdb.com/games/final-fantasy-xi-braver -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## finalfantasy.fandom.com (Information; page that is not this game)
+
+- https://finalfantasy.fandom.com/wiki/Braver -- NOT this game: the Final Fantasy Wiki's Braver page is about the Braver ability in Final Fantasy games, also known as Brave Slash, and shares only the name with this fan project; the Fandom wiki has no page for the fan project (user, 2026-11-09) -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

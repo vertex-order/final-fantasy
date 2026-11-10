@@ -377,4 +377,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy#External
   - https://www.mobygames.com/game/83431/world-of-final-fantasy/ -- World of Final Fantasy -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.mobygames.com/game/116808/world-of-final-fantasy-maxima/ -- World of Final Fantasy Maxima -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Information; ワールド オブ ファイナルファンタジー article, 関連商品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/ワールド_オブ_ファイナルファンタジー#関連商品 -- the guides come with a product code that unlocks a limited Mirage each; lists the guides Vジャンプ攻略本 WORLD OF FINAL FANTASY FIRST WORLD GUIDE and WORLD OF FINAL FANTASY 公式コンプリートガイド, and the soundtrack (released 2016-11-02); no related game, book or other work -- accessed 2026-11-10 (revision 110503103 of 2026-08-02; wikitext read through the MediaWiki API); archived: TODO
+
+## en.wikipedia.org (Information; World of Final Fantasy article, World of Final Fantasy Maxima section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy_Maxima -- Maxima, the expanded version of the game, released worldwide on 2018-11-06 for Nintendo Switch, Xbox One, PS4 and Windows, and available as paid DLC for the PS4 and Windows versions; adds narrative elements, gameplay additions, boss fights, a new ending and most of the original DLC; Champion Mirajewels include Firion and Y'shtola, and Noctis appears in a fishing minigame; developed by Tose with Square Enix Business Division 3 on the Orochi engine; a Switch port of the original was planned but not released, and Maxima was not released for the Vita because of its size limits; the Meli-Melo opening movie is in the theatre mode -- accessed 2026-11-10 (revision 1384356851 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

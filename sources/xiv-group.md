@@ -86,3 +86,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Final Fantasy XIV: Heavensward Official Complete Guide — 2017-04-18 — ISBN 9784757553385
   - Final Fantasy XIV: Stormblood Battle Job & Dungeon Official Guide — 2017-09-08 — ISBN 9784757554658
   - Final Fantasy XIV: Shadowbringers Battle Job & Dungeon Official Guide — 2019-09-24 — ISBN 9784757563261
+- Not listed (assistant's call, pending the user's review): the lore books and the cookbook named on en.wikipedia's Final Fantasy XIV article, section Related media (https://en.wikipedia.org/wiki/Final_Fantasy_XIV#Related_media, revision 1384467232 of 2026-11-08), accessed 2026-11-10; none is entertaining on its own (docs/data.md, "What belongs on a list")
+  - Encyclopaedia Eorzea I — 2016-10-17
+  - Encyclopaedia Eorzea II — 2018-11-24
+  - Encyclopaedia Eorzea III — 2023-12-19
+  - the Final Fantasy XIV cookbook (recipes for in-game dishes)

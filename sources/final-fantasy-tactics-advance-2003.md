@@ -172,4 +172,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance#E
   - http://ms.nintendo-europe.com/finalfantasytactics/enGB/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://www.videogamesprites.net/FinalFantasyTacticsAdvance/ -- Final Fantasy Tactics Advance Sprites -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Information; ファイナルファンタジータクティクスアドバンス article, ラジオドラマ and コミカライズ sections, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクスアドバンス#ラジオドラマ -- from January to March 2003 the game's name was used in the title of the TOKYO FM programme RADIO MAGAZINE WHAT'S IN? (ファイナルファンタジータクティクスアドバンスpresents RADIO MAGAZINE WHAT'S IN?), for which Square was the sponsor; the section is headed radio drama, but the page describes only a sponsored radio programme -- accessed 2026-11-09 (revision 111292018 of 2026-10-06; wikitext read through the MediaWiki API); archived: TODO
+- https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクスアドバンス#コミカライズ -- a 4-koma manga serialised in Nintendo Kids by わた・るぅー -- accessed 2026-11-09 (same revision); archived: TODO
+  - Neither is an entry; both are in .plan/audit-open-items.md
+
+## en.wikipedia.org (Information; Final Fantasy (series) article, Other media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- Final Fantasy Tactics Advance has been adapted into a radio drama -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

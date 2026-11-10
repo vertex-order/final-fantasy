@@ -41,6 +41,10 @@
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーV#派生作品 -- listed as the OVA (ファイナルファンタジー) released in 1994 in four volumes, 風の章, 炎の章, 竜の章 and 星の章, depicting the world 200 years after this game -- accessed 2026-11-09 (revision 111160450 of 2026-09-26; wikitext read through the MediaWiki API); archived: TODO
 
+## en.wikipedia.org (Information; Final Fantasy (series) article, Film and television section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- the first anime, an OVA sequel to Final Fantasy V set 200 years after the game, four 30-minute episodes released in Japan in 1994 and in the United States by Urban Vision in 1998 -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Episode parts (user, 2026-10-19): the four chapters are `contents` parts, for the planned per-part tracking

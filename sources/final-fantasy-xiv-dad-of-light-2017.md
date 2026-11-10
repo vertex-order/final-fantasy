@@ -41,4 +41,12 @@ netflix.com (Streaming)
 - Netflix subtitle and dub languages, any VAP disc release: not found
 - The blog and a Kodansha book edition (page gone): leads, not entries
 
+## en.wikipedia.org (Information; Final Fantasy XIV article, Related media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_XIV#Related_media -- a miniseries related to the game, Final Fantasy XIV: Dad of Light, released in 2017 -- accessed 2026-11-10 (revision 1384467232 of 2026-11-08; wikitext read through the MediaWiki API); archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy (series) article, Film and television section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- released in 2017, an 8-episode Japanese soap opera mixing live-action scenes and Final Fantasy XIV gameplay footage -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

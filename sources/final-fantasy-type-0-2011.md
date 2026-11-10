@@ -387,4 +387,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0#External_l
   - https://en.wikipedia.org/wiki/Final_Fantasy_Type-0_HD -- English Wikipedia article (interwiki link) [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.mobygames.com/game/59658/final-fantasy-type-0-hd/ -- Final Fantasy: Type-0 HD [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Information; ファブラ ノヴァ クリスタリス ファイナルファンタジー article, 作品一覧 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファブラ_ノヴァ_クリスタリス_ファイナルファンタジー#作品一覧 -- 新作 (new works): listed as ファイナルファンタジー零式, released 2011-10-27 for PlayStation Portable, retitled from ファイナルファンタジーアギトXIII -- accessed 2026-11-09 (revision 106677914 of 2025-10-01; wikitext read through the MediaWiki API); archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy Type-0 article, Merchandise section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Type-0#Merchandise -- the game's merchandise: an Ultimania released in the same month as the game (story and character breakdowns, concept art, developer interviews); the World Preview in October; a dedicated art book the following year (character and monster artwork and an interview with Tabata); characters (Ace, Machina and other Class Zero members) appeared in the fourth series of the Final Fantasy Trading Card Game -- accessed 2026-11-09 (revision 1375473726 of 2026-09-18; wikitext read through the MediaWiki API); archived: TODO
+## ja.wikipedia.org (Information; ファイナルファンタジー零式 article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー零式#関連商品 -- the game's goods: the Final Fantasy Type-0 trading card PR card of Machina was bundled with the 救世主指南ノ書 guide (2011-10-27); the section otherwise lists the soundtrack, guides, novels and manga recorded in the files of those entries -- accessed 2026-11-09 (revision 110335924 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

@@ -71,4 +71,8 @@
   - World of Final Fantasy: Meli-Melo (2017) -- type label Main Game; platforms shown: Android, iOS; released 2017-12-12
     - https://www.igdb.com/games/world-of-final-fantasy-meli-melo -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; World of Final Fantasy article, World of Final Fantasy: Meli-Melo section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy:_Meli-Melo -- a free-to-play mobile spin-off with a gacha mechanic, released in Japan on 2017-12-12 for Android and iOS; set in Valgallan, one of the worlds created by Enna Kros, with Mirages and Lilikin-form characters; developed and run with Drecom, with the original artists designing new Mirages and Yamazaki making a new version of Innocent; the title was suggested by Nomura; shut down on 2018-12-13 -- accessed 2026-11-10 (revision 1384356851 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

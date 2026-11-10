@@ -29,4 +29,8 @@
   - **Date:** en.wikipedia gives the Los Angeles premiere (2001-07-02) and the US release (2001-07-11); the entry uses the release
   - Its Links section names only https://www.square-enix.com/
 
+## en.wikipedia.org (Information; Final Fantasy (series) article, Film and television section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- Square Pictures' first feature film (2001), set on a future Earth invaded by aliens; the first animated feature to attempt photorealistic CGI humans, considered a box office bomb with mixed reviews -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

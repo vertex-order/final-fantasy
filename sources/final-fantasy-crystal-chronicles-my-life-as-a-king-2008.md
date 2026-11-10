@@ -140,4 +140,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
   - http://na.square-enix.com/mylifeasaking/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://www.mlakgame.com/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy Crystal Chronicles page, Sequels and spin-offs section, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles#Sequels_and_spin-offs -- listed as a spin-off of the original game for the Nintendo Wii via WiiWare, set directly after the original game, when the Miasma has cleared and young King Leo begins to restore his Kingdom -- accessed 2026-11-09 (revision 4058577 of 2026-10-09; wikitext read through the Fandom API); archived: TODO
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles#Sequels_and_spin-offs
+
+## ja.wikipedia.org (Information; ファイナルファンタジー・クリスタルクロニクル article, 関連項目 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル#関連項目 -- listed under the series as 小さな王様と約束の国, a download-only game for WiiWare, a story that comes right after the original -- accessed 2026-11-09 (revision 111104657 of 2026-09-22; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

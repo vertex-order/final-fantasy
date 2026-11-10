@@ -137,6 +137,13 @@ wikipedia.org (Information)
 - finalfantasywiki.com — no article for this manga (checked by user, 2026-10-10) — empty
 - EN, FR, DE, ES editions: Goodreads pages linked in the entry, not researched (ISBNs, publishers, dates) — mine
 
+## en.wikipedia.org (Information; Final Fantasy Type-0 article, Merchandise section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Type-0#Merchandise -- Final Fantasy Type-0 Side Story: Reaper of the Icy Blade (ファイナルファンタジー零式外伝 氷剣の死神), also illustrated by Shiozawa, began in Young Gangan in April 2012, ended in January 2014 with a bonus chapter in February 2014, later released in five compiled volumes; Yen Press began distribution in the west in July 2015 -- accessed 2026-11-09 (revision 1375473726 of 2026-09-18; wikitext read through the MediaWiki API); archived: TODO
+## ja.wikipedia.org (Information; ファイナルファンタジー零式 article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー零式#関連商品 -- manga 氷剣の死神: spin-off about Kurasame's younger days, serialised in 月刊少年ガンガン from the May 2012 issue to the February 2014 issue, 22 chapters plus 1 extra; volumes: 1 on 2012-09-22 (chapters 1 to 4), 2 on 2013-01-22 (5 to 8), 3 on 2013-06-22 (9 to 13, five chapters per volume from here), 4 on 2013-11-22 (14 to 18), 5 on 2014-04-22 (19 to 22 and the extra, in which Toono Mahoroha, Miyuu Kagiroi, Rean Hamperman of Final Fantasy Agito and Class Zero appear as children) -- accessed 2026-11-09 (revision 110335924 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - No `contents[]` list (user, 2026-10-15): the five volumes have no titles beyond their numbers, the book platform already links the Goodreads series page that lists all five, and a part carries one link while the book has six language editions

@@ -122,4 +122,15 @@ tokyo otaku mode (Information; Otapedia, English)
   - "flashbacks adding new details… a few details changed" is from the Fandom wiki's intro
   - the earlier Ashe premise sentence was dropped because it implied a start at the game's beginning — the user's call, 2026-10-11
 
+## finalfantasy.fandom.com (Information; Final Fantasy XII (manga) page and the Manga section of the Final Fantasy XII page, live pages of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XII_(manga) -- the game's page on the Final Fantasy Wiki: a series of five volumes based on the game by Gin Amou (writer and artist), published in Gangan Online and GanGan Powered, 2006; the plot is the same as the game, with flashbacks showing new details about the characters and some minor details altered; it starts with the party crossing the Nam-Yensa Sandsea to the Tomb of Raithwall -- accessed 2026-11-09 (revision 3956595 of 2025-09-07; wikitext read through the Fandom API); archived: TODO
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_(manga)
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XII#Manga -- the Final Fantasy XII page's section: the story of the game released as a manga in Japan that expands on the storyline and adds new events and characters -- accessed 2026-11-09 (revision 4029980 of 2026-08-06; wikitext read through the Fandom API); archived: TODO
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII#Manga
+
+## ja.wikipedia.org (Information; ファイナルファンタジーXII article, コミック版 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXII#コミック版 -- an official FF comic that follows the manga of Final Fantasy, 悠久の風伝説 ファイナルファンタジーIIIより, チョコチョコボンボン and the unfinished ファイナルファンタジーXI; serialised from ガンガンパワード No.1 (June 2006, the first issue after it became bimonthly), moved on 2009-04-23 to the web comic site ガンガンONLINE when the magazine ceased in February 2009, and finished with chapter 19 on 2009-06-25; art 天羽銀; the story starts in the middle of the game at the Nam-Yensa Sandsea; it inserts developments not in the game, and Square Enix has made no official statement (as of 2023-01) on whether they are supervised official settings -- accessed 2026-11-09 (revision 111444197 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

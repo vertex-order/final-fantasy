@@ -188,6 +188,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - the entry's data agrees
 
 
+## en.wikipedia.org (Information; Final Fantasy (series) article, Other media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- Final Fantasy XI has a novel and a manga set in its continuity -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 - elemen.jp corroboration (http://elemen.jp/ff11/contents/goods/comic_enterbrain.html, fetched by me 2026-10-17 at the user's request; dates and ASINs are the fan site's, the official pages are Wayback captures of the publisher's catalogue): ファイナルファンタジーXI ～祈りの風～ 1 -- elemen.jp: 2010/05/15, エンターブレイン, 沙月ゆう, ASIN 4047265179
   - official page (Wayback 2012, http://www.enterbrain.co.jp/product/comic/fami_cr/09571201.html): 978-4-04-726517-2, 2010-05-15, B6, 144p

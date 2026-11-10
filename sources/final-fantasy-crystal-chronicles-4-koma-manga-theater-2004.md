@@ -92,4 +92,8 @@ Names in use, all seen 2026-10-11 (links pasted by user):
 
 - An English titleUrl: none exists so far (Wikipedia's list doesn't have this book, and a Fandom wiki search for "4-Koma Manga Theater" returns no result, 2026-10-11), so the title link is the Japanese publisher page · serialization: no magazine run found, the publisher page lists none 
 
+## ja.wikipedia.org (Information; ファイナルファンタジー・クリスタルクロニクル article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル#関連商品 -- 『4コママンガ劇場』: published in 1 volume -- accessed 2026-11-09 (revision 111104657 of 2026-09-22; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

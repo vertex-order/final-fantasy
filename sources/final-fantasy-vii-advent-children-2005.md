@@ -73,4 +73,8 @@ rottentomatoes.com (Ratings)
 
 - https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Films -- Advent Children: the first title conceived for the Compilation and the second released, a direct-to-DVD sequel; released in Japan on 2005-09-14 and in Europe and North America on 2006-04-24 and 2006-04-25; a single western cinema screening on 2006-04-03 at the Arclight in Los Angeles; a director's cut, Advent Children Complete, with graphical retouches, extra footage and rerecorded voices, was a Blu-ray exclusive in 2009 (North America 2009-06-02, Europe 2009-07-27, Australia 2009-10-07); the Japanese limited edition set included a Final Fantasy XIII demo -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## en.wikipedia.org (Information; Final Fantasy (series) article, Film and television section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- a feature-length direct-to-DVD CGI film of 2005 in the Compilation of Final Fantasy VII, animated by Visual Works; unlike The Spirits Within it was a commercial success -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

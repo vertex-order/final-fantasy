@@ -75,6 +75,10 @@ ebay.com (Seller listings, the August book unless noted)
 mottainaihonpo.com (Used-book shop listing)
 - https://www.mottainaihonpo.com/shop/Item/bkethx0hvukmeza1 -- 聖剣伝説 ファイナルファンタジー外伝 完全攻略編 (the August book) -- accessed 2026-10-20 (page text pasted by user): author エーワンオフィス, publisher NTT出版, ISBN 9784871881326 (ISBN10 4871881326); only the shop's condition and shipping text, no description, contents or page images worth noting, so nothing about manga
 
+## en.wikipedia.org (Information; Final Fantasy Adventure article, Versions and merchandise section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Adventure#Versions_and_merchandise -- two Japanese guidebooks, Seiken Densetsu: Final Fantasy Gaiden kiso chishiki-hen (聖剣伝説 ファイナルファンタジー外伝: 基礎知識編) and Seiken Densetsu Final Fantasy Gaiden kanzen kōryaku-hen (聖剣伝説 ファイナルファンタジー外伝 完全攻略編), each containing character illustrations and manga, released in May and August 1991 respectively -- accessed 2026-11-10 (revision 1384324970 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 - Added as an entry (user, 2026-10-20): the two guidebooks count as comics on two sources saying there is manga in them (en.wikipedia for both, a Booklog reader review for the May book); the amount of manga is unknown, and the publisher texts list no manga chapter
 - One entry with the two books as contents, like the XI Lightning Brigade guides

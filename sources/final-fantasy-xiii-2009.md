@@ -511,4 +511,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII#External_lin
   - http://www.gametrailers.com/gamepage.php?id=2649 -- E³ Teaser Trailer at Gametrailers.com -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://ps3.ign.com/dor/objects/826843/final-fantasy-xiii/videos/ffxiii_trl_adventchildren_52109.html -- E³ 2009 Extended Trailer at IGN -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Information; ファブラ ノヴァ クリスタリス ファイナルファンタジー article, 作品一覧 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファブラ_ノヴァ_クリスタリス_ファイナルファンタジー#作品一覧 -- ライトニングサーガ (the Lightning Saga, the FF13 trilogy telling one world around Lightning): listed as the first game, released 2009-12-17 for PlayStation 3; the 作品一覧 also lists ファイナルファンタジーXIII アルティメット ヒッツ インターナショナル, released 2010-12-16 for Xbox 360 -- accessed 2026-11-09 (revision 106677914 of 2025-10-01; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

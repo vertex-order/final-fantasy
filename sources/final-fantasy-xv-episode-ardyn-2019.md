@@ -75,6 +75,10 @@
 Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Episode_Ardyn#External_links
   - https://www.jp.square-enix.com/ff15/dlc/epa/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; Development of Final Fantasy XV article, The Dawn of the Future section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Development_of_Final_Fantasy_XV#The_Dawn_of_the_Future -- Episode Ardyn was to be part of a four-episode scenario, The Dawn of the Future, with three episodes focusing on Noctis, Lunafreya and Aranea Highwind; the three were cancelled after director Tabata left, and only Episode Ardyn was released -- accessed 2026-11-10 (revision 1384321687 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

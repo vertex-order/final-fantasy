@@ -7,6 +7,7 @@
 
 ## finalfantasy.fandom.com (Information)
 
+- Note: the Fandom page Dissidia_Final_Fantasy is the page of the Dissidia sub-franchise (the series), not the 2008 game; the 2008 game's page is Dissidia_Final_Fantasy_(2008) (user, 2026-11-09)
 - https://finalfantasy.fandom.com/wiki/Dissidia_Final_Fantasy_(2008)_version_differences -- versions*, platforms* -- accessed 2026-09-22
 Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)_version_differences
 
@@ -185,5 +186,31 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)_v
   - https://www.jp.square-enix.com/game/detail/dffut/ -- DISSIDIA FINAL FANTASY UNIVERSAL TUNING -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://twitter.com/DFF_Arcade -- Twitter account DFF_Arcade (template Twitter) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - (no URL) YouTube template: {{YouTube|playlist = PLsHA74V3bmZ5rXSOSXHsJzmP_Ow2mQn0P}} -- accessed 2026-11-09
+
+## ja.wikipedia.org (Information; ディシディア デュオデシム ファイナルファンタジー article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ディシディア_デュオデシム_ファイナルファンタジー#関連商品 -- under その他: ディシディア デュオデシム ファイナルファンタジー AR, an iPhone / iPod touch app, distribution started 2011-03-30, in which the models of Warrior of Light, Tina, Cloud and Lightning can be viewed or summoned into the real world with a dedicated AR marker -- accessed 2026-11-09 (revision 110294865 of 2026-07-16; wikitext read through the MediaWiki API); archived: TODO
+
+## finalfantasy.fandom.com (Information; Dissidia Final Fantasy (2008) page, External links section, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Dissidia_Final_Fantasy_(2008)#External_links -- 8 links -- accessed 2026-11-09 (revision 4006744 of 2026-05-02; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)#External_links
+  - http://www.square-enix.co.jp/dissidia/top.html -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://na.square-enix.com/dissidia/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.dissidia-finalfantasy.com/ -- Official European Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/dissidia_ut/ -- Official "Universal Tuning" website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/dissidia/ -- Official Japanese product detail page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/game/detail/dffut/ -- Official Universal Tuning product detail page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikipedia.org/wiki/Dissidia_Final_Fantasy -- Dissidia Final Fantasy at Wikipedia -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (Fandom interwiki c:dissidia) -- Dissipedia, a wiki from Fandom -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## finalfantasy.fandom.com (Information; Dissidia Final Fantasy series page, Titles section, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Dissidia_Final_Fantasy#Titles -- the series page, not the 2008 game's page; Dissidia Final Fantasy (2008): the first title, released on the PlayStation Portable, duel battles between two of twenty characters from the series in a three-dimensional environment based on areas from the series; a campaign centered around the Warriors of Cosmos fighting to defeat the Warriors of Chaos. Dissidia 012 Final Fantasy: an expanded prequel to the original, also on PlayStation Portable, with similar but improved gameplay; eight new characters, a campaign serving as a prequel to the original, as well as the original campaign -- accessed 2026-11-09 (revision 4002378 of 2026-04-09; wikitext read through the Fandom API); archived: TODO
+Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
+
+## ja.wikipedia.org (Information; ディシディア ファイナルファンタジー article, ソフトの種類と関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ディシディア_ファイナルファンタジー#ソフトの種類と関連商品 -- editions and goods, under ソフトの種類 (editions): Japan normal edition 2008-12-18 (budget 2010-09-16, ULJM-05262, CERO C, Square Enix); FF 20th Anniversary Limited, 2008-12-18 (ULJM-05405), with an original-design pearl-white PSP-3000 and Amano Yoshitaka artwork on the package; North America 2009-08-25 (ESRB T, Square Enix Inc.), Nomura artwork double jacket, GameStop-only Amano jackets; Limited Edition Entertainment Pack (North America, 2009-08-25, GameStop only), game with a Mystic Silver PSP-3000, the Final Fantasy VII Advent Children UMD and a 2GB Memory Stick PRO Duo; Europe 2009-09-04 (PEGI 12+, USK 12 in Germany, Square Enix Ltd.); Limited Collector's Edition (Europe, 2009-09-04), with a mini soundtrack CD with liner notes by Ishimoto, a 48-page hardcover art book, a 32-page full-colour BradyGames guide and two lithograph prints; Australia 2009-09-03 (OFLC PG, Ubisoft), with a Collector's Edition of the same contents as Europe and a PSP3000 Bundle (Mystic Silver PSP-3000, white synthetic leather case, two stickers); Universal Tuning, 2009-11-01 (budget 2010-09-16), the overseas versions arranged for Japan, as UMD and as download; under コラボレーション商品他 (collaboration goods): the Suntory Dissidia Final Fantasy Potion canned drink of 2008-12-09 (white Cosmos cans grapefruit, black Chaos cans muscat, 16 can designs), the PS Pictogram x PORTER PSP case (SCZX-93291), and trading figures (ignored) -- accessed 2026-11-09 (revision 111444142 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
 
 ## Decisions

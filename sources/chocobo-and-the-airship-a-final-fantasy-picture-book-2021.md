@@ -74,6 +74,10 @@ goodreads.com (Information)
 
 - Final Fantasy Wiki (ffwiki) equivalent of the breezewiki article — none exists, so no mirror or duplicate to nest
 
+## en.wikipedia.org (Information; Chocobo (series) article, Other media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Chocobo_(series)#Other_media -- the picture book Chocobo and the Airship was released in 2021 in Japan and 2023 in the West; it follows Chocobo and Cid as they try to build an airship and fight off monsters threatening their town -- accessed 2026-11-10 (revision 1360397062 of 2026-06-21; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - No `by` credit on picture books: too little plot or art for authorship to drive anyone's choice. Names recorded under `## Author` where known.

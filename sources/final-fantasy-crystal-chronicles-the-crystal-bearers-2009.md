@@ -113,4 +113,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
   - http://www.crystalbearers.jp/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://www.thecrystalbearers.com/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy Crystal Chronicles page, Sequels and spin-offs section, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles#Sequels_and_spin-offs -- listed as a sequel game for the Nintendo Wii, following a young mercenary named Layle -- accessed 2026-11-09 (revision 4058577 of 2026-10-09; wikitext read through the Fandom API); archived: TODO
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles#Sequels_and_spin-offs
+
+## ja.wikipedia.org (Information; ファイナルファンタジー・クリスタルクロニクル article, 関連項目 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル#関連項目 -- listed under the series as クリスタルベアラー: a game for the Wii set in the future of the original game -- accessed 2026-11-09 (revision 111104657 of 2026-09-22; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

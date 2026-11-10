@@ -147,4 +147,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
   - http://www.mylifeasadarklord.jp/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://na.square-enix.com/mlaad/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy Crystal Chronicles page, Sequels and spin-offs section, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles#Sequels_and_spin-offs -- listed as a sequel to My Life as a King for the Nintendo Wii via WiiWare -- accessed 2026-11-09 (revision 4058577 of 2026-10-09; wikitext read through the Fandom API); archived: TODO
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles#Sequels_and_spin-offs
+
 ## Decisions

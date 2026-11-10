@@ -536,4 +536,15 @@
   - https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_A_Realm_Reborn -- Final Fantasy XIV: A Realm Reborn -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://ffxiv.consolegameswiki.com/wiki/A_Realm_Reborn -- Final Fantasy XIV: A Realm Reborn -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; Final Fantasy Tactics article, Legacy section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Tactics#Legacy -- the Final Fantasy Tactics article, Legacy section: in 2017 the MMORPG Final Fantasy XIV: A Realm Reborn portrayed an alternate version of Final Fantasy Tactics in which Ramza and his companions died at the end of Tactics; Matsuno said the inspiration for depicting this plot came from the number of players who misunderstood the ending of Tactics (the content is an alternate ending of Final Fantasy Tactics; see sources/final-fantasy-tactics-1997.md) -- accessed 2026-11-09 (revision 1381471482 of 2026-10-22; wikitext read through the MediaWiki API); archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy XIV article, Related media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_XIV#Related_media -- a crossover manga with Saki, titled Saki & Final Fantasy XIV, launched in Japan in January 2021 (no entry); three lore books, Encyclopaedia Eorzea I to III, released on 2016-10-17, 2018-11-24 and 2023-12-19, and a cookbook with recipes for in-game dishes -- accessed 2026-11-10 (revision 1384467232 of 2026-11-08; wikitext read through the MediaWiki API); archived: TODO
+## en.wikipedia.org (Information; Final Fantasy XIV article, Mobile version section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_XIV#Mobile_version -- Final Fantasy XIV Mobile, a sister game for iOS and Android announced on 2024-11-20 by Square Enix, developed by Square Enix and Tencent's LightSpeed Studios, free to play without gacha, nine battle jobs, five races, covering A Realm Reborn; first released in China as Final Fantasy XIV: Crystal World on 2025-06-19; on 2026-07-17 Tencent announced the closing of Crystal World on 2026-09-30 and that the global release was scrapped (no entry) -- accessed 2026-11-10 (revision 1384467232 of 2026-11-08; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

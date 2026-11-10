@@ -116,4 +116,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
   - http://na.square-enix.com/ffccrof/ -- Official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://www.finalfantasycrystalchronicles.eu.com/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy Crystal Chronicles page, Sequels and spin-offs section, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles#Sequels_and_spin-offs -- listed as a prequel game for the Nintendo DS about two Clavat twins, Yuri and Chelinka, and the Yuke Alhanalem, the Selkie Gnash and the Lilty Meeth Crym -- accessed 2026-11-09 (revision 4058577 of 2026-10-09; wikitext read through the Fandom API); archived: TODO
+Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles#Sequels_and_spin-offs
+
+## ja.wikipedia.org (Information; ファイナルファンタジー・クリスタルクロニクル article, 関連項目 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル#関連項目 -- listed under the series: a game for the Nintendo DS, set more than 2000 years before this game, in the time before the meteorite fell -- accessed 2026-11-09 (revision 111104657 of 2026-09-22; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

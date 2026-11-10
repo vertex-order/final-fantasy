@@ -240,4 +240,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Duellum_Final_Fantasy#
   - https://xcancel.com/DDFF_JP/status/1978042702013841706 -- Message from Creative Producer Tetsuya Nomura (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://xcancel.com/DDFF_EN/status/1978042538813743349 -- Message from Creative Producer Tetsuya Nomura (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Dissidia Final Fantasy series page, Titles section, live page of 2026-11-09)
+
+- https://finalfantasy.fandom.com/wiki/Dissidia_Final_Fantasy#Titles -- the series page, not the 2008 game's page; Dissidia Duellum Final Fantasy: a mobile team-fighting game, frenetic 3-on-3 team battles in which warriors from other dimensions dash to save modern-day Tokyo from hordes of life-sapping monsters -- accessed 2026-11-09 (revision 4002378 of 2026-04-09; wikitext read through the Fandom API); archived: TODO
+Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
+
 ## Decisions

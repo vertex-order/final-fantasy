@@ -477,6 +477,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure#Externa
   - https://en.wikipedia.org/wiki/Sword_of_Mana -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://en.wikipedia.org/wiki/Adventures_of_Mana -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; Final Fantasy Adventure article, Versions and merchandise and Other manga section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_Adventure#Versions_and_merchandise -- Game Boy 1991 (Japan), 1991 (North America), 1993 (Europe); Sword of Mana (Game Boy Advance, 2003); SoftBank 3G mobile remake 2006-08-16, i-Mode 2006-11-06, EZweb 2007-02-05; Adventures of Mana (2016, PlayStation Vita, Android, iOS); Seiken Densetsu Collection 2017-06-01 in Japan and Collection of Mana 2019-06-11 in North America and Europe for Nintendo Switch; Sunsoft re-released it in 1998 with the Final Fantasy Legend games, advertised with Game Boy Color support without enhancement; two Japanese guidebooks, each with character illustrations and manga, released in May and August 1991 (their own entry) -- accessed 2026-11-10 (revision 1384324970 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+- https://en.wikipedia.org/wiki/Final_Fantasy_Adventure#Other_manga -- one of the video games featured in the manga Rock'n Game Boy by Shigeto Ikehara, published by Comic BomBom from 1989-10 to 1991-12 -- accessed 2026-11-10 (revision 1384324970 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results
+- Omitted (user, 2026-11-10, same scope as the King's Knight manga): the manga Rock'n Game Boy (Shigeto Ikehara, Comic BomBom, October 1989 to December 1991), named in en.wikipedia's Final Fantasy Adventure article, section Other manga (https://en.wikipedia.org/wiki/Final_Fantasy_Adventure#Other_manga); a manga that features several games, not an adaptation of this one

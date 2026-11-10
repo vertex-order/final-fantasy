@@ -192,4 +192,12 @@ goodreads.com (Information)
 
 - https://en.wikipedia.org/wiki/List_of_novels_based_on_video_games -- Final Fantasy section, row "Final Fantasy XIII: Episode Zero – Promise" (author Jun Eishima; Yen On; language column Japanese; ISBN 9781975382407; revision 1380085790 of 2026-10-13) -- accessed 2026-11-03; archived: TODO
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXIII article, 関連商品 section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII#関連商品 -- under 書籍 (novel): ファイナルファンタジーXIII エピソード0 -約束-, 2009-12-24 from Square Enix, the prologue novel posted on the official site with new episodes added; original idea 鳥山求 and 渡辺大祐, novelization 映島巡 (永嶋恵美); ISBN 9784757527706; under CD: the ドラマCD Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Α and Ω, a two-part drama CD that adds a new chapter to the novel's content, its first episode being the one included as a first-press bonus of the soundtrack; director 鳥山求, scripts 渡辺大祐 and 八島和彦, cast 坂本真綾, 小野大輔, 寿美菜子, 梶裕貴, 福井裕佳梨, 安藤麻吹, 江原正士 and others, label SMD -- accessed 2026-11-09 (revision 109888938 of 2026-06-11; wikitext read through the MediaWiki API); archived: TODO
+
+## en.wikipedia.org (Information; Final Fantasy (series) article, Other media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- the Final Fantasy XIII series has been expanded with novellas -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

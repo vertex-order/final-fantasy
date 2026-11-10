@@ -74,4 +74,8 @@ goodreads.com (Information)
 
 - Google searches of the Square Enix magazine catalog (by ISBN and by title 私立エオルゼア学園) — empty (no results as of 2026-10-09); no catalog page found
 
+## en.wikipedia.org (Information; Final Fantasy XIV article, Related media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Final_Fantasy_XIV#Related_media -- a second manga series, Final Fantasy XIV: Eorzea Academy, released in December 2021 (after the Saki crossover manga) -- accessed 2026-11-10 (revision 1384467232 of 2026-11-08; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
