@@ -1002,6 +1002,19 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II#External_links
   - http://archive.na.square-enix.com/games/DOS/ -- Final Fantasy I・II Dawn of Souls, official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://archive.na.square-enix.com/ffanniversary/ -- Final Fantasy 20th Anniversary, official North American site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーシリーズ article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy: Famicom 34/40; the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジー article, 攻略本 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC#%E6%94%BB%E7%95%A5%E6%9C%AC -- ten guides across the versions: Complete Guide (Tokuma Shoten, 1988-01-31, Famicom), I-II Complete Guide (NTT Publishing, 1994-07-13), V-Jump Books (Shueisha, WonderSwan), Traveler's Guide (Digicube, 2000-12-22), Official Complete Guide (Enterbrain, 2001-01-10, WonderSwan), I-II Official Complete Guide (Enterbrain, 2002-11-12, PlayStation), Final Issue (Digicube, 2002-10-31), I-II Advance guides (Shueisha, July and August 2004) and the PSP Official Guidebook (Enterbrain, 2007-06-12) -- accessed 2026-11-10 (revision 111583688 of 2026-10-31; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Ratings; ファイナルファンタジー article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 34/40 (Famicom; 8, 9, 9, 8, Gold Hall of Fame), 30/40 (WonderSwan Color, Silver) and 27/40 (PlayStation); Family Computer Magazine reader-vote 25.53/30 (characters 4.36, music 4.34, operation 4.11, enthusiasm 4.50, value 4.18, originality 4.04); Allgame 3.5/5 (Famicom, mobile), GameSpot 6.5/10 (PSP), IGN 8.6/10 (WonderSwan Color), 6.9/10 (PSP), 7/10 (iOS), Nintendo Life 7/10 (Wii), GameRankings 79% (Famicom), 67.93% (PSP), 77.12% (iOS), GamePlay RPG 96% (WonderSwan Color) -- accessed 2026-11-10 (revision 111583688 of 2026-10-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)
+- Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC#%E6%94%BB%E7%95%A5%E6%9C%AC)

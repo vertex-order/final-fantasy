@@ -79,4 +79,8 @@
 
 - https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy:_Meli-Melo#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4045571 of 2026-09-07; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/World_of_Final_Fantasy:_Meli-Melo#Voice_cast); archived: TODO
 
+## ja.wikipedia.org (Information; ワールド オブ ファイナルファンタジー article, ワールド オブ ファイナルファンタジー メリメロ section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89_%E3%82%AA%E3%83%96_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC#%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%82%AA%E3%83%96%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%20%E3%83%A1%E3%83%AA%E3%83%A1%E3%83%AD -- smartphone game app for iOS and Android developed by Drecom and published by Square Enix, single player; service from 2017-12-12 to 2018-12-13 (service ended on 2018-12-13); the sequel to World of Final Fantasy telling the story after its ending, with an avatar protagonist and the siblings Lann and Reynn as supporting characters; some elements are included in Maxima -- accessed 2026-11-10 (revision 110503103 of 2026-08-02; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

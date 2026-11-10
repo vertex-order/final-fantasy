@@ -217,4 +217,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
 
 - https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4006744 of 2026-05-02; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Dissidia_Final_Fantasy_(2008)#Voice_cast); archived: TODO
 
+## ja.wikipedia.org (Ratings; ディシディア ファイナルファンタジー article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B7%E3%83%87%E3%82%A3%E3%82%A2_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC#%E8%A9%95%E4%BE%A1 -- Famitsu 36/40 (10, 9, 9, 8; Platinum Hall of Fame), Dengeki PlayStation 355/400 (90, 95, 85, 85) and Buyer's Guide A, Famitsu PSP+PS3 5/5 on five items after about 50 hours, Famitsu Users' Eye average 9.05 from 147 votes, Famitsu Awards 2008 Excellence Award, Japan Game Awards 2008 Future division -- accessed 2026-11-10 (revision 111444142 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

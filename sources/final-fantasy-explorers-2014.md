@@ -256,4 +256,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Explorers#Externa
   - https://en.wikipedia.org/wiki/Final_Fantasy_Explorers -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.mobygames.com/game/85346/final-fantasy-explorers/ -- Final Fantasy Explorers -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Information; ファイナルファンタジー エクスプローラーズ article, 攻略本 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC_%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%BA#%E6%94%BB%E7%95%A5%E6%9C%AC -- one guide: Final Fantasy Explorers Summon Beast Ultimate Defeat Guide (Shueisha, ISBN 978-4-08-779701-5) -- accessed 2026-11-10 (revision 109759323 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
+- Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC_%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%BA#%E6%94%BB%E7%95%A5%E6%9C%AC)

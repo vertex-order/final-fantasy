@@ -178,4 +178,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Vagrant_Story#External_links
 
 - https://ja.wikipedia.org/wiki/ベイグラントストーリー#関連商品 -- goods sold after the game's release: Zippo lighters, a silver necklace, T-shirts, key rings, money clips and card cases; the publisher also partnered with a Koshu wine maker and sold Rare Monde wine; the Ultimania (digicube) includes a novelization by ベニー松山 with the setting material and developer interviews -- accessed 2026-11-09 (revision 111508662 of 2026-10-25; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Ratings; ベイグラントストーリー article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 40/40 (Platinum Hall of Fame, the only PlayStation game with full marks), GameRankings 92%, Allgame 4.5/5, EGM 9/10, GameSpot 9.6/10, Hyper 95%, IGN 9.6/10, N-Gen 4/5, OPM 4.5/5, Game Informer 9/10, PSX Extreme 9.6/10 -- accessed 2026-11-10 (revision 111508662 of 2026-10-25; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

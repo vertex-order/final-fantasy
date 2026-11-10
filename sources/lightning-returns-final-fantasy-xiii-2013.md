@@ -436,4 +436,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
 
 - https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantasy_XIII#Voice_actors -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4063595 of 2026-10-22; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Lightning_Returns:_Final_Fantasy_XIII#Voice_actors); archived: TODO
 
+## ja.wikipedia.org (Ratings; ライトニング リターンズ ファイナルファンタジーXIII article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0_%E3%83%AA%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%BA_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIII#%E8%A9%95%E4%BE%A1 -- Famitsu cross review 37/40 (Weekly Famitsu issue 1302), Platinum Hall of Fame -- accessed 2026-11-10 (revision 110739752 of 2026-08-22; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

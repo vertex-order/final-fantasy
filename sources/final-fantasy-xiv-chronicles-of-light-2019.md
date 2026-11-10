@@ -122,4 +122,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - The titleDate start 2019-03-09 is also the print book's release date per the publisher (the same day as the ebook), so no change was needed; an earlier note called it the ebook's date only
 - DE language link: Altraverse's series page, https://altraverse.de/manga/final-fantasy-chroniken-des-lichts/ (Band 01, 25 stories, and Band 02, "30 neue Kurzgeschichten" from Shadowbringers to Dawntrail), replacing a search with a truncated query — fetched
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXIV article, メディア section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2 -- Final Fantasy XIV: Chronicles of Light (光の回顧録), Square Enix, released 2019-03-09: the first official short story collection, 25 stories made of the Lodestone (official site) Seventh Umbral Era retrospectives, Heavensward and Stormblood stories plus four new stories by the development team; Chronicles of Light Volume II, released 2025-10-07: 30 stories made of the Lodestone Shadowbringers, Endwalker and other stories plus four new development team stories -- accessed 2026-11-10 (revision 111604940 of 2026-11-01; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

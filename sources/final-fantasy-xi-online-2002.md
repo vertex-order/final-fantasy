@@ -372,4 +372,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI#External_links
   - https://wiki.ffo.jp/ -- FF11 Glossary -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.ffxionline.com/ -- FFXIOnline.com forums -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーシリーズ article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy XI: PlayStation 2 38/40; the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーXI article, 攻略本 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI#%E6%94%BB%E7%95%A5%E6%9C%AC -- about forty guides and magazine books from 2002 to 2012 by Digicube, Enterbrain, SoftBank Creative (The PlayStation2 BOOKS), Media Factory and Square Enix (Vana'diel World Report editions, Master's Guides for jobs, guilds and areas, Maniacs guides, Vana'diel Tsushin magazine books with DVDs, Story Ultimania 2009-06-11, 10th Anniversary Official Memorial Book 2012-06-26); it also lists a play-diary book, Final Fantasy XI Play Diary: Vana'diel Stay Record (Yasuhiro Nagata and Takayuki Mizushina, Enterbrain, 2003-04-26), and the Starting Guide and Comic Brave New World (Digicube, 2002-05-17); see also 電撃の旅団 -- accessed 2026-11-10 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
+- Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXI#%E6%94%BB%E7%95%A5%E6%9C%AC)

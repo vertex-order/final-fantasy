@@ -643,4 +643,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII#External_lin
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーVIII#関連商品 -- related goods list -- accessed 2026-11-09 (same revision); archived: TODO
   - Books: FINAL FANTASY VIII ULTIMANIA (Digicube 4-925075-49-7; Square Enix 4-7575-1243-0), the first of the Ultimania series; a guide, listed in sources/viii-group.md
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーシリーズ article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy VIII: PlayStation 37/40; the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Ratings; ファイナルファンタジーVIII article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 37/40; GameRankings 89% (PS) and 80% (PC), Computer Gaming World 2/5 (PC), Edge 9/10, EGM 95/100, GameSpot 9.5/10 (PS) and 6.7/10 (PC), GameSpy 90/100, IGN 9/10 (PS) and 7.4/10 (PC), Maximum PC 9/10, PSM 10/10; awards: EGM Game of the Year (Readers' Choice), IGN Best RPG of E3 1999, Computer Gaming World 20th best game of 2000, IGN 7th best PlayStation game -- accessed 2026-11-10 (revision 111072262 of 2026-09-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

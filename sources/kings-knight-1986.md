@@ -345,6 +345,18 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/King's_Knight_-Wrath_of_the_Dar
 
 - https://en.wikipedia.org/wiki/King's_Knight#Other_media -- King's Knight is one of the video games adapted into a manga titled Susume!! Seigaku Dennou Kenkyuubu (進め！！静学電脳研究部), published in the Gamest Comics collection from April 1999 and drawn by Kouta Hirano -- accessed 2026-11-10 (revision 1382647846 of 2026-10-29; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Information; キングスナイト article, 関連書籍 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88#%E9%96%A2%E9%80%A3%E6%9B%B8%E7%B1%8D -- related books: two guidebooks from Asukashinsha (planning and editing by Micro Design Publishing, now Micro Magazine, publication date October 1986): the Famicom Perfect Guidebook (1) King's Knight Perfect Guidebook (ファミリーコンピュータパーフェクト攻略本(1) キングスナイト パーフェクト攻略本), with maps of the item locations, and King's Knight Manga Guidebook (キングスナイト まんが攻略本), the story from the prologue to the ending told as a manga, drawn by Rei Oyama; and the gamebook King's Knight: Save Princess Claire! (キングスナイト クレア姫を救え！), by MD Club (written by freelance writers), published 1986-06-02 by Fusosha as Square Game Books, three months before the game, an original story with Rayjack as the hero and Princess Claire and Toby from the game, much different from the game -- accessed 2026-11-10 (revision 110322217 of 2026-07-18; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングスナイト article, 移植版 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88#%E7%A7%BB%E6%A4%8D%E7%89%88 -- release list of the ports: MSX King's Knight (Square, ROM cartridge) 1986-11, the same content as the Famicom version with slightly different maps, a right-side information window and a continue function, with a flawed scrolling implementation; PC-8801mkIISR and X1 King's Knight Special (キングスナイト・スペシャル) 1987-06 (Square Planning and Development Department, floppy disk), with a labyrinth added to each stage and visual scenes, package illustration by Noriyoshi Shioyama; Wii Virtual Console 2007-11-27 in Japan and 2008-03-24 in North America (port of the Famicom version); Nintendo 3DS Virtual Console 2014-02-05 in Japan; Wii U Virtual Console 2016-07-06 in Japan; the MSX2 version and the Fujitsu FM-7 Special version were developed but their release was cancelled -- accessed 2026-11-10 (revision 110322217 of 2026-07-18; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Ratings; キングスナイト article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88#%E8%A9%95%E4%BE%A1 -- review scores: IGN 3/10 and Nintendo Life 3/10 (Wii), Nintendo Power 3/5 (Famicom); Family Computer Magazine reader-vote Game Tsushinbo 19.27/30 (Famicom): characters 3.00, music 3.61, operation 3.34, enthusiasm 3.33, value 2.96, originality 3.03 -- accessed 2026-11-10 (revision 110322217 of 2026-07-18; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)
@@ -356,3 +368,5 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/King's_Knight_-Wrath_of_the_Dar
 - Primary entry languages (user, 2026-10-14): the original shipped in Japan and North America only (ja.wikipedia: Famicom 1986, US 1989; Wii Virtual Console Japan 2007 and US 2008, 3DS and Wii U Japan only), so JA and EN look complete, but the Virtual Console releases may have added languages
   - left as is, with the unknown-languages marker and `helpWanted` unchanged
 - Scope (user, 2026-11-10): the King's Knight game and its remakes are in scope; works related to King's Knight are not; the manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics, April 1999), named in en.wikipedia's King's Knight article, section Other media (https://en.wikipedia.org/wiki/King's_Knight#Other_media), is omitted
+- Omitted (same scope as the King's Knight manga): the two Asukashinsha guidebooks and the gamebook of the 関連書籍 section above; they are books related to King's Knight, not the game or its remakes
+- To audit: the ja.wikipedia 移植版 release list above (https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88#%E7%A7%BB%E6%A4%8D%E7%89%88) against the entry's versions and platform rows

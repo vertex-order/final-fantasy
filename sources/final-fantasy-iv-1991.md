@@ -1013,6 +1013,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#External_links
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#Cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4034771 of 2026-08-20; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV#Cast); archived: TODO
   - The page's cast section covers the 3D remake only; voice in other versions is neither confirmed nor ruled out by it
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーシリーズ article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy IV: Super Famicom 36/40; the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Ratings; ファイナルファンタジーIV article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 36/40 (Super Famicom; 9, 9, 10, 8, Platinum), 24/30 (PlayStation) and 33/40 (Game Boy Advance); Family Computer Magazine reader-vote 27.57/30 (2nd of 323 Super Famicom titles in 1993) and the Super Famicom Magazine best 30: overall 2nd, characters 3rd, music and sound effects 1st, operation 2nd, enthusiasm 3rd, value 2nd, originality 3rd; GameRankings 87% (SFC) and 83% (GBA), 1UP A- (GBA), Dragon 4/5 (SFC), EGM 32/40 (SFC), GameSpot 8.3/10 (GBA), GameSpy 4.5/5 (GBA), IGN 8.6/10 (GBA) and 8/10 (Wii), NGC 87% (GBA), Nintendo Power 4.5/5 (SFC), PALGN 8.5/10 (GBA), Nintendojo 10/10 (SFC), RPGFan 91% (SFC); EGM Best RPG -- accessed 2026-11-10 (revision 111593793 of 2026-10-31; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - **Not to be listed: the cancelled Famicom/NES version of Final Fantasy IV (user, 2026-11-03):** planned for the Famicom (Square, 1991, Japan) and moved to the Super Famicom before any work was done, per GamesRadar+ 'The lost Nintendo games' (2008-05-30, https://www.gamesradar.com/the-lost-nintendo-games/) and Lost Levels (2003-11, http://www.lostlevels.org/200311/200311-square.shtml); never released, so the NES is not a platform of Final Fantasy IV. Only this platform is left out: the game itself released on other platforms and stays listed on them

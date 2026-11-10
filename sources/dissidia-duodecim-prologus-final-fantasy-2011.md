@@ -52,4 +52,8 @@
 - https://finalfantasy.fandom.com/wiki/Dissidia_Final_Fantasy#Titles -- the series page, not the 2008 game's page; Dissidia Duodecim Prologus Final Fantasy: a prologue and demo to Dissidia 012 released separately, consisting of a short story mode and Arcade Mode; Prologus save data can be imported into Dissidia 012 when starting a new game, granting the Aerith Assist and several items -- accessed 2026-11-09 (revision 4002378 of 2026-04-09; wikitext read through the Fandom API); archived: TODO
 Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
 
+## ja.wikipedia.org (Ratings; ディシディア デュオデシム ファイナルファンタジー article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B7%E3%83%87%E3%82%A3%E3%82%A2_%E3%83%87%E3%83%A5%E3%82%AA%E3%83%87%E3%82%B7%E3%83%A0_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC#%E8%A9%95%E4%BE%A1 -- Famitsu 38/40 (Platinum Hall of Fame, above the previous game's 36), Dengeki PlayStation Buyer's Guide S, Dengeki Games story 80, graphics 85, characters 90, sound 85, Dengeki PlayStation review 80, 85, 90, 85; selected for the Japan Game Awards 2010 Future division -- accessed 2026-11-10 (revision 110294865 of 2026-07-16; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

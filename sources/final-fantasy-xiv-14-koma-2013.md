@@ -108,5 +108,9 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - [Lodestone player blog](https://jp.finalfantasyxiv.com/lodestone/character/1624/blog/4309556/) — a player's post saying the book came out December 20 and that they read the e-book — dup: agrees with NDL's digital date (2019-12-20)
   - not an official page
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXIV article, メディア section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2 -- Final Fantasy XIV: Jūyon Koma (じゅうよんコマ), a 4-panel manga serialised in Weekly Famitsu by Fumio Minagawa, from the 2013-09-05 issue to the 2019-11-14 issue, released as a book on 2019-12-20 -- accessed 2026-11-10 (revision 111604940 of 2026-11-01; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 

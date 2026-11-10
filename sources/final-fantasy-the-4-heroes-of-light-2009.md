@@ -107,5 +107,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_4_Heroes_of_
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy:_The_4_Heroes_of_Light -- Nintendo DS role-playing game by Matrix Software, published by Square Enix, released 2009-10-29 in Japan, 2010-10-05 in the United States and 2010-10-08 in Europe; states that in 2012 a successor to The 4 Heroes of Light, Bravely Default, was released for the Nintendo 3DS, and that it spawned two sequels, Bravely Second and Bravely Default II -- accessed 2026-11-10 (revision 18572 of 2026-08-15; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Information; 光の4戦士 -ファイナルファンタジー外伝- article, 攻略本 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E5%85%89%E3%81%AE4%E6%88%A6%E5%A3%AB_-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E5%A4%96%E4%BC%9D-#%E6%94%BB%E7%95%A5%E6%9C%AC -- two guides: SE-MOOK Official Complete Guide (ISBN 978-4-7575-2714-0) and V-Jump Books World Navigator (978-4-08-779525-7) -- accessed 2026-11-10 (revision 109887757 of 2026-06-11; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 - Bravely Default is the successor of this game (finalfantasywiki.com, https://finalfantasywiki.com/wiki/Final_Fantasy:_The_4_Heroes_of_Light), which the description says; Bravely Default, Bravely Second and Bravely Default II are not in scope for the Final Fantasy list (user, 2026-11-10)
+- Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E5%85%89%E3%81%AE4%E6%88%A6%E5%A3%AB_-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E5%A4%96%E4%BC%9D-#%E6%94%BB%E7%95%A5%E6%9C%AC)

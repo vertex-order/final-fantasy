@@ -394,4 +394,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy#External
 
 - https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4067118 of 2026-10-29; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/World_of_Final_Fantasy#Voice_cast); archived: TODO
 
+## ja.wikipedia.org (Information; ワールド オブ ファイナルファンタジー article, ワールド オブ ファイナルファンタジー マキシマ section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89_%E3%82%AA%E3%83%96_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC#%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%82%AA%E3%83%96%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E -- the expanded version Maxima released on 2018-11-06 for Nintendo Switch and Xbox One; owners of the PS4 or Steam game play it by buying the DLC Maxima Upgrade, or by downloading the Maxima Set (PS4) or World of Final Fantasy Complete Edition (Steam) bundled with the base game and the upgrade; main changes: the Sevastone system lets Lann and Reynn transform into Saviors, FF Legend characters, Mirages, bosses and dungeons were added, a New Game+ (Tsuyokute New Game) and a Nightmare difficulty were added, plus system adjustments -- accessed 2026-11-10 (revision 110503103 of 2026-08-02; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; ワールド オブ ファイナルファンタジー article, 攻略本 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89_%E3%82%AA%E3%83%96_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC#%E6%94%BB%E7%95%A5%E6%9C%AC -- two guides: V-Jump's First World Guide and the Official Complete Guide -- accessed 2026-11-10 (revision 110503103 of 2026-08-02; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
+- Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89_%E3%82%AA%E3%83%96_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC#%E6%94%BB%E7%95%A5%E6%9C%AC)

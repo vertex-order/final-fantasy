@@ -586,4 +586,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X#External_links
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X#Voice_actors -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4024862 of 2026-07-21; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_X#Voice_actors); archived: TODO
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーシリーズ article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy X: PlayStation 2 39/40; the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Ratings; ファイナルファンタジーX article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCX#%E8%A9%95%E4%BE%A1 -- Famitsu cross review 39/40 (10, 9, 10, 10), then the series' highest; awards: GameSpot Video Game Awards 2001 Best Story and Best RPG, PlayStation Awards 2002 Double Platinum, PlayStation GrandPrix 2002, CESA Game Awards 2002 Best Prize, Famitsu Awards 2014 (HD remaster); polls: Famitsu Best 100 Games Readers Remember 2006 1st, Oricon most moving story 2007 1st, Famitsu 1000th issue 4th (2008), Oricon game that made players cry most 2009 1st, Famitsu 20 Games That Make You Cry 2011 1st, Famitsu Best Game of the Heisei Era 2019 7th, All Final Fantasy Vote 2020 1st -- accessed 2026-11-10 (revision 111423447 of 2026-10-18; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

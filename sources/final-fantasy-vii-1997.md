@@ -678,9 +678,22 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://en.wikipedia.org/wiki/Final_Fantasy_VII#Legacy -- connection between Final Fantasy VII (1997) and Final Fantasy X-2 (2003): director Kitase and scenario writer Nojima established a plot-related link, X-2 can be read as a loose prequel to VII; the X-2 character Shinra proposes extracting life energy from within the planet Spira, which Nojima has stated is a deliberate nod to the Shinra Company, and he envisioned the events of X-2 as a prequel to those of VII -- accessed 2026-11-09 (revision 1384600092 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーシリーズ article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy VII: PlayStation 38/40; the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーVII article, 攻略本 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII#%E6%94%BB%E7%95%A5%E6%9C%AC -- nine guides: two V-Jump Books (Shueisha, March and April 1997), Kaitai Shinsho The Complete (Aspect, 1997, with a revised International edition), Ultimania Omega (Square Enix, 2005-09, ISBN 4-7575-1520-0, focused on scenario and character analysis for Advent Children), Advent Children DVD/UMD Prologue (Shueisha, 2005-09-14), Dirge of Cerberus Prelude (Shueisha, 2006-01), the Dirge of Cerberus Official Complete Guide (Square Enix, 2006-02-17), Advent Children Reunion Files (SoftBank Creative, 2006-05-20) and the Crisis Core Complete Guide (MediaWorks, 2008-01) -- accessed 2026-11-10 (revision 111377241 of 2026-10-13; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Ratings; ファイナルファンタジーVII article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII#%E8%A9%95%E4%BE%A1 -- awards and polls: first Japan Media Arts Festival (Agency for Cultural Affairs, 1997) Digital Art (Interactive) division Excellence Award, CESA Grand Prize '97; long among the top of the reader popularity rankings of game magazines such as Famitsu (that ranking ended in 2006); also appears in the "not fun games" rankings of the Kuso Game Hakusho -- accessed 2026-11-10 (revision 111377241 of 2026-10-13; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.
 
 - **Not to be listed: the cancelled SNES and Nintendo 64 versions of Final Fantasy VII (user, 2026-11-03):** work began on the SNES in 1994 and stopped when the staff finished Chrono Trigger (1995); early plans and technical tests followed for the Nintendo 64 and its 64DD add-on, then the game moved to PlayStation again (released 1997); no substantial work was finished, per Polygon's oral history (2017-01-09, https://www.polygon.com/a/final-fantasy-7); the SNES and Nintendo 64 are not platforms of Final Fantasy VII, as with the 64DD. Only these platforms are left out: the game itself released on PlayStation and stays listed on its released platforms
   - Evidence: https://en.wikipedia.org/wiki/List_of_cancelled_Nintendo_64_games (revision 1383021177 of 2026-10-31; Final Fantasy VII row); https://en.wikipedia.org/wiki/List_of_cancelled_Super_NES_games (revision 1383237431 of 2026-11-01; Final Fantasy VII row)
+- Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII#%E6%94%BB%E7%95%A5%E6%9C%AC)

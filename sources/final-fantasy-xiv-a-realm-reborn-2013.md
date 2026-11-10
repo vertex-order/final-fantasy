@@ -555,4 +555,12 @@
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4067938 of 2026-10-31; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV#Voice_cast); archived: TODO
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXIV article, メディア section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2 -- the Media section lists: the web radio programme Nanjo Aino's From Eorzea With Love (南條愛乃・エオルゼアより愛をこめて), streamed on Onsen and HiBiKi Radio Station from 2014-11-07 to 2022-09-30, 396 episodes, Friday updates, hosted by Aino Nanjo (who voices Maidy in Dad of Light) (no entry); the Niconico Live support programmes Final Fantasy XIV CHANNEL (2014-09-27 to 2016-07-03, three seasons, host Kei Akino, renamed Kei Yamaguchi in January 2017) and Korekara Hajimeru Final Fantasy XIV "Gakuen Eorzea" (2016-08-21 to 2017-04-01, a beginners' programme in a school format) (no entry); the Dad of Light drama; the novels Winds of Eorzea (2010-12-25), Kimi no Kizu to Bokura no Kizuna ~ON (THE NOVEL) LINE~ (きみの傷とぼくらの絆, Dengeki Bunko, by Yu Fujiwara, illustrated by Noizi Ito, 2017-06-09; no entry), Chronicles of Light (2019-03-09) and Volume II (2025-10-07); the manga Professor Lalafell, Jūyon Koma and Private Eorzea Academy; the reading Adventure Log -Heroes' Eggs- (2014-09-19) -- accessed 2026-11-10 (revision 111604940 of 2026-11-01; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Ratings; ファイナルファンタジーXIV article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E8%A9%95%E4%BE%A1 -- OpenCritic score of A Realm Reborn: 86/100 (the section also lists Metacritic scores per expansion) -- accessed 2026-11-10 (revision 111720449 of 2026-11-10; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

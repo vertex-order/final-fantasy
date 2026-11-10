@@ -482,6 +482,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure#Externa
 - https://en.wikipedia.org/wiki/Final_Fantasy_Adventure#Versions_and_merchandise -- Game Boy 1991 (Japan), 1991 (North America), 1993 (Europe); Sword of Mana (Game Boy Advance, 2003); SoftBank 3G mobile remake 2006-08-16, i-Mode 2006-11-06, EZweb 2007-02-05; Adventures of Mana (2016, PlayStation Vita, Android, iOS); Seiken Densetsu Collection 2017-06-01 in Japan and Collection of Mana 2019-06-11 in North America and Europe for Nintendo Switch; Sunsoft re-released it in 1998 with the Final Fantasy Legend games, advertised with Game Boy Color support without enhancement; two Japanese guidebooks, each with character illustrations and manga, released in May and August 1991 (their own entry) -- accessed 2026-11-10 (revision 1384324970 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
 - https://en.wikipedia.org/wiki/Final_Fantasy_Adventure#Other_manga -- one of the video games featured in the manga Rock'n Game Boy by Shigeto Ikehara, published by Comic BomBom from 1989-10 to 1991-12 -- accessed 2026-11-10 (revision 1384324970 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Information; 聖剣伝説 〜ファイナルファンタジー外伝〜 article, 攻略本 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC_%E3%80%9C%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E5%A4%96%E4%BC%9D%E3%80%9C#%E6%94%BB%E7%95%A5%E6%9C%AC -- two NTT Publishing guides: Basic Knowledge (1991-05-31, ISBN 4-87188-123-7) and Complete Guide (1991-08-10, 4-87188-132-6), the same two guidebooks as the Seiken Densetsu: Final Fantasy Gaiden Guidebooks entry -- accessed 2026-11-10 (revision 111083046 of 2026-09-20; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Ratings; 聖剣伝説 〜ファイナルファンタジー外伝〜 article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC_%E3%80%9C%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E5%A4%96%E4%BC%9D%E3%80%9C#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 33/40 (9, 9, 9, 6; Gold Hall of Fame), IGN 9.0/10, Family Computer Magazine reader-vote 25.4/30, RPGFan 92%, RPGamer 3.0/5, Nintendojo 8.7/10 -- accessed 2026-11-10 (revision 111083046 of 2026-09-20; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

@@ -68,4 +68,8 @@ duckduckgo.com (Information)
   - the only other XIV record is エオルゼアの風 (Winds of Eorzea, 2011, its own entry) — so no later volumes found (2026-10-10) — empty
 - NDL searches ファイナルファンタジー14 冒険記 (volume and 新生エオルゼア dropped) and ファイナルファンタジー14 新生エオルゼア冒険記 (volume name dropped) — both return only the one record (025758070); no sequel adventure logs for later expansions (2026-10-10) — empty
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXIV article, メディア section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2 -- Final Fantasy XIV: A Realm Reborn Adventure Log -Heroes' Eggs- (新生エオルゼア冒険記 -英雄の卵たち-), a play-diary style reading serialised on the game and entertainment information site Famitsu.com, by Miyabi Hasegawa (who also wrote the novelization), released 2014-09-19 -- accessed 2026-11-10 (revision 111604940 of 2026-11-01; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

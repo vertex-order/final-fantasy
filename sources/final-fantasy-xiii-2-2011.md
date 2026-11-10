@@ -480,6 +480,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2#External_l
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2#Voice_actors -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4001327 of 2026-04-04; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIII-2#Voice_actors); archived: TODO
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーXIII-2 article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIII-2#%E8%A9%95%E4%BE%A1 -- Famitsu cross review 40/40 (Weekly Famitsu issue 1201), Platinum Hall of Fame; Dengeki PlayStation Buyer's Guide top rank S -- accessed 2026-11-10 (revision 110335847 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

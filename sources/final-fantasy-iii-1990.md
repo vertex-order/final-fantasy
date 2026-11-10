@@ -850,7 +850,20 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III#External_link
 - https://web.archive.org/web/20170520193650/http://www.nintendo.com/games/detail/OigVvvf6JgWeQO2gAF5ugBly8egBSaH6 -- Nintendo's official Final Fantasy III (Virtual Console version) website, Wayback capture of 2017-05-20, in English; linked from en.wikipedia.org (Final Fantasy VI article, External links, revision 1384474960 of 2026-11-08) -- link recorded only -- accessed 2026-11-08; archived: TODO
 - https://www.mobygames.com/game/5202/final-fantasy-iii/ -- MobyGames entry titled Final Fantasy III (template MobyGames id /5202/final-fantasy-iii/); linked from ja.wikipedia.org (ファイナルファンタジーVI article, 外部リンク, revision 111608616 of 2026-11-02) -- link recorded only -- accessed 2026-11-08; archived: TODO
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーシリーズ article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy III: Famicom 36/40, Nintendo DS 34/40, PSP 33/40; the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーIII article, 攻略本 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII#%E6%94%BB%E7%95%A5%E6%9C%AC -- a three-volume guide (NTT Publishing, 1990: Basic Knowledge ISBN 4-87188-079-6, Complete Guide first half 4-87188-080-X and second half 4-87188-081-8, edited by F Corporation) with many descriptions that differ from the game data, and the two-volume Final Fantasy Encyclopedia (Digicube, 1997) that reprints it; from this game to Final Fantasy VI the series' official guides came from NTT Publishing (for VI, Shueisha's V-Jump issued a guide at the software's release) -- accessed 2026-11-10 (revision 111042702 of 2026-09-16; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Ratings; ファイナルファンタジーIII article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 36/40 (Famicom; 9, 9, 10, 8, Platinum), Family Computer Magazine reader-vote 26.60/30 and ROM cassette ranking: music 4th, enthusiasm 3rd, originality 4th, overall 4th; Allgame 4.5/5 (Famicom) -- accessed 2026-11-10 (revision 111042702 of 2026-09-16; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - **Not to be listed: the cancelled WonderSwan Color version of Final Fantasy III (user, 2026-11-03):** a Square WonderSwan Color game in the cancelled list, cited to RPGFan's 'WSC FFIII Vanishes, FFI-II Remake In The Works' (2002, http://www.rpgfan.com/news/2002/1717.html, https://web.archive.org/web/20070315205600/http://www.rpgfan.com/news/2002/1717.html); never released, so the WonderSwan Color is not a platform of Final Fantasy III. Only this platform is left out: the game itself released on other platforms and stays listed on them
   - Evidence: https://en.wikipedia.org/wiki/List_of_WonderSwan_Color_games (revision 1351986427 of 2026-05-01; Cancelled games section)
+- Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII#%E6%94%BB%E7%95%A5%E6%9C%AC)

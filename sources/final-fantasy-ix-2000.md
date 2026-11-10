@@ -641,4 +641,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX#External_links
   - It follows an announcement of June 2021 that Cyber Group Studios would produce an anime series; 4Gamer reports that Cyber Group Studios has gone bankrupt and EV Studias appears to have inherited the production rights
   - Status is unclear (no release or cancellation found on the page); see sources/ix-group.md and .plan/audit-open-items.md
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーシリーズ article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy IX: PlayStation 38/40; the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

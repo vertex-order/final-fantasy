@@ -884,6 +884,19 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II#External_links
 
 - https://www.mobygames.com/game/4572/final-fantasy-ii/ -- MobyGames entry titled Final Fantasy II; linked from finalfantasy.fandom.com's Final Fantasy IV page (revision 4034771 of 2026-08-20), en.wikipedia's Final Fantasy IV article (revision 1382444045 of 2026-10-28, as id 4572/final-fantasy-ii) and ja.wikipedia's ファイナルファンタジーIV article (revision 111593793 of 2026-10-31) -- link recorded only -- accessed 2026-11-08; archived: TODO
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーシリーズ article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy II: PlayStation 27/40; the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーII article, 攻略本 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCII#%E6%94%BB%E7%95%A5%E6%9C%AC -- twelve guides across the versions: Complete Guide volumes 1 and 2 (Tokuma Shoten, 1989-01-31 and 1989-02-28), Keibunsha's Game Hissho-ho Special (February 1989), I-II Complete Guide (NTT Publishing, 1994-07) and the I-II thorough guide packed with the Famicom I-II software, WonderSwan Color guides (Shueisha, April 2001; Digicube, 2001-05-02; Enterbrain, 2001-06-14), Final Issue (Digicube, 2002-10-31), I-II Official Complete Guide (Enterbrain, 2002-11-12), I-II Advance guides (Shueisha, July 2004; Enterbrain, September 2004) and the PSP Official Guidebook (Enterbrain, 2007-07-27) -- accessed 2026-11-10 (revision 110746553 of 2026-08-23; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Ratings; ファイナルファンタジーII article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCII#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 35/40 (Famicom; 9, 9, 9, 8, Platinum), 30/40 (WonderSwan Color, Silver) and 27/40 (PlayStation); Family Computer Magazine reader-vote 26.49/30 (characters 4.54, music 4.55, operation 4.26, enthusiasm 4.60, value 4.23, originality 4.31) and ROM cassette ranking: music 5th, enthusiasm 5th, originality 3rd, value 4th, overall 5th; Famitsu scenario award; Allgame 4.5/5 (Famicom), Eurogamer 4/10, Game Informer 6/10, GameSpot 6/10, GameSpy 3.5/5, GameTrailers 7.1/10, GameZone 8/10, IGN 6.1/10 (all PSP), IGN 6.8/10 (iOS), Nintendo Life 8/10 (Wii), GameRankings 65% (PSP), 75% (iOS) -- accessed 2026-11-10 (revision 110746553 of 2026-08-23; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)
+- Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCII#%E6%94%BB%E7%95%A5%E6%9C%AC)

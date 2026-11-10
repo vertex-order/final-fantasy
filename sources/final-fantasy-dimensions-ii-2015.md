@@ -159,4 +159,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Dimensions_II#Ext
   - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl2j -- Google Play (Legends II: Toki no Suishō) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl2w -- Google Play (Global) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Information; ファイナルファンタジー レジェンズ 時空ノ水晶 article, 概要 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC_%E3%83%AC%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%BA_%E6%99%82%E7%A9%BA%E3%83%8E%E6%B0%B4%E6%99%B6#%E6%A6%82%E8%A6%81 -- online and offline versions: the free-to-play version (in-app purchases) started service on 2015-02-12 as Final Fantasy Legends: Crystal of Space-Time (ファイナルファンタジー レジェンズ 時空ノ水晶), a descendant of the 2010 mobile spin-off Final Fantasy Legends: Warriors of Light and Darkness (Final Fantasy Dimensions), with the same staff (Takashi Tokita, Naoshi Mizuta, Matrix) and chaptered scenario, but a new world; renewed as Final Fantasy Legends II on 2016-11-10; on 2017-10-31 the online service ended, with the data downloadable and a paid download version without further purchases announced; from 2017-11-01 the paid offline version is distributed as Final Fantasy Legends II: Crystal of Space-Time (ファイナルファンタジー レジェンズII 時空ノ水晶), with the English version Final Fantasy Dimensions II released at the same time -- accessed 2026-11-10 (revision 110862973 of 2026-09-01; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

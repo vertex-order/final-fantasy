@@ -158,4 +158,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantas
 
 - https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantasy_VII-#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4053189 of 2026-09-28; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Dirge_of_Cerberus_-Final_Fantasy_VII-#Voice_cast); archived: TODO
 
+## ja.wikipedia.org (Ratings; ダージュ オブ ケルベロス ファイナルファンタジーVII article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%82%B8%E3%83%A5_%E3%82%AA%E3%83%96_%E3%82%B1%E3%83%AB%E3%83%99%E3%83%AD%E3%82%B9_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII#%E8%A9%95%E4%BE%A1 -- review scores: GameRankings 60%, Famitsu 28/40, 1UP D+, EGM C, Eurogamer 5/10, GameSpot 6.0/10, GameSpy 3/5, GameTrailers 7.2/10, IGN 7.0/10, X-Play 2/5, Dengeki PS2 313/400 -- accessed 2026-11-10 (revision 111434602 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

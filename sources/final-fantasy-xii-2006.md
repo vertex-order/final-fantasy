@@ -441,4 +441,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII#External_link
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4029980 of 2026-08-06; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XII#Voice_cast); archived: TODO
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーシリーズ article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy XII: PlayStation 2 40/40; the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

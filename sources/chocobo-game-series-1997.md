@@ -1219,6 +1219,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Chocobo_series#External_links
 
 - https://breezewiki.com/finalfantasy/wiki/Chocobo_to_Mahou_no_Ehon:_Majo_to_Shoujo_to_Go-nin_no_Yuusha#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4011142 of 2026-05-28; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Chocobo_to_Mahou_no_Ehon:_Majo_to_Shoujo_to_Go-nin_no_Yuusha#Voice_cast); archived: TODO
 
+## ja.wikipedia.org (Information; チョコボの不思議なダンジョン 時忘れの迷宮 article, 攻略本 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%9C%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3_%E6%99%82%E5%BF%98%E3%82%8C%E3%81%AE%E8%BF%B7%E5%AE%AE#%E6%94%BB%E7%95%A5%E6%9C%AC -- three guides of Chocobo's Mysterious Dungeon: Time-Forgotten Labyrinth: Famitsu's Very Useful Guidebook (ISBN 978-4-7577-3964-2), the SE-MOOK Official Complete Guide (978-4-7575-2207-7) and the SE-MOOK Cid and Chocobo's Mysterious Dungeon DS+ Official Complete Guide (978-4-7575-2424-8) -- accessed 2026-11-10 (revision 111233822 of 2026-10-02; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Ratings; チョコボの不思議なダンジョン article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%9C%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3#%E8%A9%95%E4%BE%A1 -- Chocobo's Mysterious Dungeon (1997): Famitsu 31/40 (PlayStation) and 27/40 (WonderSwan); Dengeki PlayStation 345/400 (80, 85, 90, 90) -- accessed 2026-11-10 (revision 111233818 of 2026-10-02; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Chocobo Anywhere, 2, 2.5 and 3 stay four separate parts, not one rolled-up part with a date range: each has its own title, release year and phone models, and 2.5 is a download-only sequel. The two halves (前編 and 後編) of 2 and of 3 are one title each, not listed separately.
@@ -1236,3 +1244,4 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Chocobo_series#External_links
 
 - **Not to be listed: the cancelled WonderSwan Color version of Dice de Chocobo (user, 2026-11-03):** a Square WonderSwan Color remake of the PlayStation game, in the cancelled list; never released, so the WonderSwan Color is not a platform of Dice de Chocobo. Only this platform is left out: the game itself released on other platforms and stays listed on them
   - Evidence: https://en.wikipedia.org/wiki/List_of_WonderSwan_Color_games (revision 1351986427 of 2026-05-01; Cancelled games section)
+- Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%9C%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3_%E6%99%82%E5%BF%98%E3%82%8C%E3%81%AE%E8%BF%B7%E5%AE%AE#%E6%94%BB%E7%95%A5%E6%9C%AC)

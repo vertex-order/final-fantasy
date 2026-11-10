@@ -195,4 +195,8 @@
 Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Mystic_Quest#External_links
   - https://www.jp.square-enix.com/game/detail/ffusa/ -- Official Japanese game detail page (also recorded in the Square Enix Japan list sections above) -- link recorded only -- accessed 2026-11-08; archived: TODO
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーUSA ミスティッククエスト article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCUSA_%E3%83%9F%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 23/40 (7, 6, 6, 4); Family Computer Magazine reader-vote 21.7/30 (characters 3.8, music 3.7, value 3.7, operation 3.7, enthusiasm 3.5, originality 3.3); GameRankings 67%, EGM 29/40, Game Master 75%, Nintendo Life 7/10 (Wii), Nintendo Power 3.725/5, Electronic Games 86%, RPGFan 79%; the 1998 Chozetsu Odawaza-rin guidebook (Tokuma Shoten) calls it easy for beginners -- accessed 2026-11-10 (revision 110094130 of 2026-06-28; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

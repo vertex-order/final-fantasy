@@ -773,4 +773,21 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V#External_links
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーV#関連商品 -- related goods list -- accessed 2026-11-08 (same revision); archived: TODO
   - Guides (6): NTT Publishing 基礎知識編 (1992-11-20, 4-87188-192-X), 戦闘解析編 (1992-12-15, 4-87188-204-7), 冒険ガイドブック (1993-01-20, 4-87188-206-3), 完全攻略編 (1993-02-26, 4-87188-205-5); Shueisha V Jump Books マスターガイド (2006-10); Square Enix 公式コンプリートガイド (2006-11-30, 4-7575-1822-6)
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーシリーズ article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy V: Super Famicom 34/40, Game Boy Advance 32/40; the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーV article, 攻略本 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV#%E6%94%BB%E7%95%A5%E6%9C%AC -- six guides: four from NTT Publishing (Basic Knowledge 1992-11-20, Battle Analysis 1992-12-15, Adventure Guidebook 1993-01-20, Complete Guide 1993-02-26) and two for the Advance version (V-Jump Books Master Guide, Shueisha, 2006-10; Official Complete Guide, Square Enix, 2006-11-30, ISBN 4-7575-1822-6) -- accessed 2026-11-10 (revision 111160450 of 2026-09-26; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; ファイナルファンタジーV article, 派生作品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV#%E6%B4%BE%E7%94%9F%E4%BD%9C%E5%93%81 -- derived works: the 1994 four-volume OVA (Final Fantasy: Legend of the Crystals, 200 years after the game) and Chocho Chocobo Bonbon (チョコチョコボンボン, a gag manga by Akihiro Kikuchi serialised in V Jump about the game's prehistory, with the VI and VII worlds mixed in); both already have entries or notes elsewhere -- accessed 2026-11-10 (revision 111160450 of 2026-09-26; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Ratings; ファイナルファンタジーV article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 34/40 (Super Famicom; 8, 9, 9, 8, Gold), 29/30 (PlayStation) and 32/40 (Game Boy Advance, Gold); Family Computer Magazine reader-vote 27.91/30 (1st of 323 Super Famicom titles in 1993) and the Super Famicom Magazine best 30: overall 1st, characters 1st, music and sound effects 2nd, operation 1st, enthusiasm 2nd, value 1st, originality 1st; GameRankings 66% (SFC) and 82% (GBA), 1UP B- (SFC) and A (GBA), Allgame 4/5 (SFC), EGM 8.8/10 (GBA), GameSpot 8.5/10 (GBA), IGN 8.5/10 (GBA), GameDaily 7/10 (GBA), RPGamer 5/10 (SFC), TouchArcade 4/5 (iOS); GameFan Golden Megawards Best Import Game and Best Music (Import Game); Famitsu 15th all-time best game -- accessed 2026-11-10 (revision 111160450 of 2026-09-26; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
+- Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV#%E6%94%BB%E7%95%A5%E6%9C%AC)

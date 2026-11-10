@@ -63,5 +63,9 @@ duckduckgo.com (Information)
 - Google Books title search "Final Fantasy XIV Winds of Eorzea" — no results (2026-10-09) — empty
 - Google Books search ファイナルファンタジーXIV エオルゼア 小説 — returns 光の回顧録 Chronicles of Light (Square Enix, 2019), a different book (see `final-fantasy-xiv-chronicles-of-light-2019.md`) — empty
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXIV article, メディア section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2 -- the novel Final Fantasy XIV: Winds of Eorzea (エオルゼアの風), published by Famitsu Bunko, a novelization of the old version (1.0), by Miyabi Hasegawa, released 2010-12-25 -- accessed 2026-11-10 (revision 111604940 of 2026-11-01; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 

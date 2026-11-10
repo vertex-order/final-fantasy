@@ -162,4 +162,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Before_Crisis_-Final_Fantasy_VI
 
 - https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Before Crisis: an action role-playing game split into 24 episodes delivered by a monthly subscription; after beta testing in 2004, released 2004-09-24 for NTT DoCoMo FOMA iMode, then 2007-01-30 for SoftBank Mobile and 2007-04-05 for au EZweb; never released in western markets despite plans -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Ratings; ビフォア クライシス ファイナルファンタジーVII article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%95%E3%82%A9%E3%82%A2_%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%B7%E3%82%B9_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII#%E8%A9%95%E4%BE%A1 -- 14th in the "feature phone game apps you want to play on current machines" ranking of Dengeki Online's 2025 G-MODE Archives 5.5th anniversary survey -- accessed 2026-11-10 (revision 110820110 of 2026-08-29; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

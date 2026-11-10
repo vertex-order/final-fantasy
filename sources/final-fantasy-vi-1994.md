@@ -778,4 +778,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI#External_links
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーVI#関連商品 -- related goods list -- accessed 2026-11-08 (same revision); archived: TODO
   - Books (12): ファイナルファンタジーVI -Character collections- (Yoshitaka Amano, NTT Publishing, 1994-02; also listed as キャラクターコレクションズ, 4-87188-285-3); Vジャンプ緊急増刊 ファイナルファンタジーVI; NTT Publishing 設定資料編 (1994-02, 4-87188-299-3), 基礎知識編 (1994-04, 4-87188-300-0), 冒険ガイドブック (1994-04, 4-87188-302-7), 完全攻略編 (1994-06, 4-87188-301-9), ザ・コンプリート (1994-09, 4-87188-303-5); Digicube 幻想世界の攻略本 (1999-03, 4-925075-45-4), 大全集 改訂版 上下 (2002-06, 4-88787-044-2, 4-88787-045-0); Square Enix アドバンス 公式コンプリートガイド (2006-12, 4-7575-1846-3); listed in sources/vi-group.md
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーシリーズ article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy VI: Game Boy Advance 31/40; the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Ratings; ファイナルファンタジーVI article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 37/40 (Super Famicom; 9, 8, 10, 10, Platinum), 31/40 (PlayStation, Silver) and 31/40 (Game Boy Advance, Silver); Family Computer Magazine reader-vote 26.9/30; GameRankings 94% (SFC) and 91% (GBA), 1UP 9/10 (GBA), Allgame 5/5 (SFC), Edge 8/10 (SFC), EGM 36/40 (SFC) and 9.5/10 (PS), Eurogamer 9/10 (GBA), GameFan 295/300 (SFC), GameSpot 8.1/10 (PS) and 8.9/10 (GBA), IGN 9.5/10 (SFC) and 9/10 (GBA), Nintendo Power 14.9/20 (SFC), TouchArcade 4.5/5 (iOS); EGM awards Best RPG, Best Japanese RPG, Best Music for a Cartridge-Based Game, Game of the Month; GameFan Megawards RPG of the Year and Best Music -- accessed 2026-11-10 (revision 111608616 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

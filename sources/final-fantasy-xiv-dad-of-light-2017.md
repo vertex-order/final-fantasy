@@ -58,4 +58,8 @@ netflix.com (Streaming)
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV_Dad_of_Light#Cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4026735 of 2026-07-27; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV_Dad_of_Light#Cast); archived: TODO
   - Official dubs and subtitles in other languages that are not yet known to us may exist; the streaming sites where the item is available are not yet audited for voice and subtitles (the item has been removed from Netflix in English markets, so that catalog can no longer be audited)
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXIV article, メディア section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2 -- the TV drama adaptation Final Fantasy XIV: Dad of Light (ファイナルファンタジーXIV 光のお父さん), not strictly a television adaptation of Final Fantasy XIV: it adapts the real play log "【FF14】 光のお父さん計画" serialised on one user's private blog (一撃確殺SS日記); broadcast on MBS's Dramaism late-night slot from April to May 2017 (the production announced on 2016-12-24), starring Yuta Chiba and Ren Osugi; the book edition (volume and Kindle) was released on 2017-03-16 before the drama -- accessed 2026-11-10 (revision 111604940 of 2026-11-01; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

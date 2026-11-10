@@ -174,6 +174,10 @@ tokyo otaku mode (Information; Otapedia, English)
 - Whether episode 19 ran in デンプレコミック #21 (電撃PlayStation Vol.667, 2018-08-28): the contents of that supplement
   - the notice for August 2018 was not found · the exact release date of 電撃PlayStation 631号 (episode 1) · Square Enix English page, if any
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXIV article, メディア section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2 -- Final Fantasy XIV: I Will Teach You, Professor Lalafell (ララフェル先生の教えてやるよ！), a gag manga serialised in Dengeki Comic (appendix of Dengeki PlayStation), art by Fakkuma, #2 (vol. 631 appendix) to #21 (vol. 667 appendix), released from 2017-08-26 to 2018-11-26, 3 volumes -- accessed 2026-11-10 (revision 111604940 of 2026-11-01; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - `titleDate` is `{ start: '2017-01-26', end: '2018-08', approx: true }` (user, 2026-10-16): the serialization in 月刊デンプレコミック (電撃PlayStation's monthly supplement), not the volumes

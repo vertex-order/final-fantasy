@@ -344,4 +344,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth#Exter
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth#Voice_actors -- voice cast section: confirms Japanese, English, French, German voice -- accessed 2026-11-10 (revision 4055626 of 2026-10-05; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Rebirth#Voice_actors); archived: TODO
 
+## ja.wikipedia.org (Ratings; ファイナルファンタジーVII リバース article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII_%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9#%E8%A9%95%E4%BE%A1 -- Famitsu 38/40 (PS5); physical first-week sales 262,656 (Famitsu), first place; Famitsu Dengeki Game Awards 2024 (announced 2025-03-15): Game of the Year, Scenario, Graphics and RPG divisions, development team named Most Valuable Creator, Maaya Sakamoto (Aerith) Voice Actor division, Tifa Lockhart Character division, seven awards in all -- accessed 2026-11-10 (revision 110899180 of 2026-09-05; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

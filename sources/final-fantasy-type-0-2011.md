@@ -402,4 +402,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0#External_l
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0#Voice_actors -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4021863 of 2026-07-13; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Type-0#Voice_actors); archived: TODO
 
+## ja.wikipedia.org (Information; ファイナルファンタジー零式 article, 攻略本 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E9%9B%B6%E5%BC%8F#%E6%94%BB%E7%95%A5%E6%9C%AC -- six Square Enix books: World Preview (SE-MOOK, 2011-10-13, voice actor autographs and interviews), PSP Savior Guide (2011-10-27, with a Final Fantasy TCG promo card; 8th on the Oricon weekly book chart, about 17,050 copies), Postcard Book (2011-10-27), Ultimania (SE-MOOK, 2011-11-30; 2nd on the Oricon weekly book chart, about 38,765 copies) and the Official Setting Collection Akai no Hishi (2012-02-23) -- accessed 2026-11-10 (revision 110335924 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Ratings; ファイナルファンタジー零式 article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E9%9B%B6%E5%BC%8F#%E8%A9%95%E4%BE%A1 -- Famitsu 39/40 (10, 9, 10, 10; Weekly Famitsu 2011-10-20); first-day sales 472,000, first place on the Media Create and Famitsu weekly charts -- accessed 2026-11-10 (revision 110335924 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
+- Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E9%9B%B6%E5%BC%8F#%E6%94%BB%E7%95%A5%E6%9C%AC)

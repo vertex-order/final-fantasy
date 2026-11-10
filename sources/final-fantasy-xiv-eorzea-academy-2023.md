@@ -82,4 +82,8 @@ goodreads.com (Information)
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV#Related_media -- a second manga series, Final Fantasy XIV: Eorzea Academy, released in December 2021 (after the Saki crossover manga) -- accessed 2026-11-10 (revision 4067938 of 2026-10-31; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV#Related_media); archived: TODO
 
+## ja.wikipedia.org (Information; ファイナルファンタジーXIV article, メディア section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2 -- Final Fantasy XIV: Private Eorzea Academy (私立エオルゼア学園), a comedy manga serialised in the manga app Manga UP! in a world and setting different from the game, art by Esora Amaichi and supervised by the Final Fantasy XIV operations team, serialised from 2021-12-24 to 2022-12-09 (premium release), released as a book on 2023-02-07 -- accessed 2026-11-10 (revision 111604940 of 2026-11-01; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
