@@ -49,4 +49,13 @@ netflix.com (Streaming)
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- released in 2017, an 8-episode Japanese soap opera mixing live-action scenes and Final Fantasy XIV gameplay footage -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy XIV page, Related media section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV#Related_media -- a miniseries related to the game, Final Fantasy XIV: Dad of Light, released in 2017 -- accessed 2026-11-10 (revision 4067938 of 2026-10-31; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV#Related_media); archived: TODO
+
+## finalfantasy.fandom.com (Information; Final Fantasy XIV Dad of Light page, Cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV_Dad_of_Light#Cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4026735 of 2026-07-27; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV_Dad_of_Light#Cast); archived: TODO
+  - Official dubs and subtitles in other languages that are not yet known to us may exist; the streaming sites where the item is available are not yet audited for voice and subtitles (the item has been removed from Netflix in English markets, so that catalog can no longer be audited)
+
 ## Decisions

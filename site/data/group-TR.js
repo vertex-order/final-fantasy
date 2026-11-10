@@ -77,9 +77,9 @@ window.__ffGroupReg['TR'] = { num: 'TR', chronoOrder: 1510, narrativeOrder: 1510
     primary: {
       tags: ['Essential', 'Rhythm', 'Single-player', 'Multiplayer', 'Co-op'],
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN-GB' },
-        { value: 'EN-US', tip: 'English (American)' },
+        { value: 'JA', native: true, voice: true },
+        { value: 'EN-GB', voice: true },
+        { value: 'EN-US', tip: 'English (American)', voice: true },
         { value: 'FR' },
         { value: 'DE' },
         { value: 'IT' },

@@ -214,4 +214,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Record_Keeper#Ext
   - https://www.mobygames.com/game/74667/final-fantasy-record-keeper/ -- Final Fantasy Record Keeper -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.dailymotion.com/video/x3n4mxo -- Trailer -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy Record Keeper page, Credits section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Record_Keeper#Credits -- Voice cast: characters are not ordinarily voiced, but sometimes in the Japanese version short voice samples are used during certain attacks (removed in the global version; the actors are not credited in-game): Zack (Kenichi Suzumura), Ace (Yuki Kaji), Deuce (Kana Hanazawa), Rem (Ryoko Shiraishi), Machina (Hiroshi Kamiya), Queen (Ami Koshimizu); proves Japanese voice in the Japanese version, no English voice -- accessed 2026-11-10 (revision 4039585 of 2026-08-31; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Record_Keeper#Credits); archived: TODO
+
 ## Decisions

@@ -36,4 +36,8 @@
 - https://en.wikipedia.org/wiki/Final_Fantasy_X/X-2_HD_Remaster#External_links -- the Remaster collection link, recorded because the audio drama was released as part of the collection -- accessed 2026-11-09 (revision 1383981558 of 2026-11-05; wikitext read through the MediaWiki API)
   - http://www.finalfantasyxhd.com/ -- Official website (template Official website) of Final Fantasy X/X-2 HD Remaster -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy X -Will- page, Cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_-Will-#Cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4006731 of 2026-05-02; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_X_-Will-#Cast); archived: TODO
+
 ## Decisions

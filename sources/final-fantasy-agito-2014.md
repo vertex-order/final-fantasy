@@ -133,4 +133,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Agito#External_li
 
 - https://ja.wikipedia.org/wiki/ファブラ_ノヴァ_クリスタリス_ファイナルファンタジー#作品一覧 -- 新作: listed as ファイナルファンタジーアギト, service started 2014-05-15 and ended 2015-11-30, for iOS and Android; shares a setting with Type-0; free to play with item purchases; an online RPG ファイナルファンタジーアギトプラス for PlayStation Vita was also planned and its development was cancelled with the end of the smartphone service -- accessed 2026-11-09 (revision 106677914 of 2025-10-01; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy Agito page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Agito#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4021856 of 2026-07-13; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Agito#Voice_cast); archived: TODO
+
 ## Decisions

@@ -122,4 +122,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル#関連項目 -- listed under the series as クリスタルベアラー: a game for the Wii set in the future of the original game -- accessed 2026-11-09 (revision 111104657 of 2026-09-22; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy Crystal Chronicles: The Crystal Bearers page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4058524 of 2026-10-09; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers#Voice_cast); archived: TODO
+
 ## Decisions

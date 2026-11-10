@@ -15,7 +15,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       profileUrl: 'https://www.ateam-entertainment.com/en/services/787/',
       languages: [
         { value: 'JA', native: true },
-        { value: 'EN' },
+        { value: 'EN', voice: true },
         { value: 'FR' },
         { value: 'DE' },
         { value: 'ZH-TW', tip: 'Chinese (Traditional)' },
@@ -233,8 +233,8 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
           title: 'Crisis Core: Final Fantasy VII (2007)',
           titleUrl: 'https://wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII',
           languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN', voice: true },
           ],
           platforms: [
             { key: 'playstation-portable', paren: 'Physical' },
@@ -296,8 +296,8 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         {
           title: 'Final Fantasy VII Remake', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII_Remake', titleDate: 2020,
           languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN', voice: true },
             { value: 'FR', voice: true },
             { value: '…?' },
           ],
@@ -489,7 +489,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         {
           subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases', subtitleDate: 2012,
           languages: [
-            { value: 'JA', native: true },
+            { value: 'JA', native: true, voice: true },
             { value: 'EN' },
             { value: 'FR' },
             { value: 'DE' },
@@ -688,7 +688,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         title: 'On the Way to a Smile - Episode: Denzel', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/On_the_Way_to_a_Smile_-Episode:_Denzel-_Final_Fantasy_VII', titleDate: '2009-04-16',
         subtitle: 'Video',
         languages: [
-          { value: 'JA', native: true },
+          { value: 'JA', native: true, voice: true },
         ],
         platforms: [
           { key: 'blu-ray-ultra-hd', prefix: 'U' },
@@ -850,8 +850,8 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       tags: ['Sequel', 'Shooter'],
       subtitle: 'International', subtitleUrl: 'https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantasy_VII-#Version_differences', subtitleDate: 2006,
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN' },
+        { value: 'JA', native: true, voice: true },
+        { value: 'EN', voice: true },
         { value: '…?' },
       ],
       helpWanted: true,
@@ -900,7 +900,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         },
         {
           languages: [
-            { value: 'JA', native: true },
+            { value: 'JA', native: true, voice: true },
           ],
           platforms: [
             { key: 'playstation2', paren: 'Physical', jpTag: true },
@@ -923,7 +923,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
       tags: ['Shooter'],
       terminated: true,
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, voice: true },
         { value: 'EN' },
         { value: '…?' },
       ],

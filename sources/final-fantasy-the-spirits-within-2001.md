@@ -33,4 +33,9 @@
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- Square Pictures' first feature film (2001), set on a future Earth invaded by aliens; the first animated feature to attempt photorealistic CGI humans, considered a box office bomb with mixed reviews -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy: The Spirits Within page, Cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Cast -- voice cast section: confirms Japanese, English, French, Italian, German, Latin American Spanish voice -- accessed 2026-11-10 (revision 4024845 of 2026-07-21; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy:_The_Spirits_Within#Cast); archived: TODO
+  - Official dubs and subtitles in other languages that are not yet known to us may exist; the streaming sites where the item is available are not yet audited for voice and subtitles
+
 ## Decisions

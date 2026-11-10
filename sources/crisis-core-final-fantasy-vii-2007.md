@@ -460,4 +460,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
 
 - https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Crisis Core: an action role-playing game in which the player controls Zack Fair in a real-time combat system; released 2007-09-13 in Japan, 2008-03-24 in North America and 2008-06-20 in Europe; a remaster, Crisis Core: Final Fantasy VII Reunion, was released 2022-12-13 for Switch, PS4, PS5, Windows, Xbox One and Xbox Series X/S -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Crisis Core -Final Fantasy VII- page, Voice actors section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-#Voice_actors -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4067996 of 2026-11-01; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Crisis_Core_-Final_Fantasy_VII-#Voice_actors); archived: TODO
+
 ## Decisions

@@ -169,4 +169,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV#External_link
   - https://www.youtube.com/watch?v=N0l2wZCXpEo -- First Letter From The Producer Live (with English subtitles) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.youtube.com/watch?v=n1auK6EYTvQ -- Second Letter From The Producer Live (with English subtitles) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy XIV page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4067938 of 2026-10-31; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV#Voice_cast); archived: TODO
+
 ## Decisions

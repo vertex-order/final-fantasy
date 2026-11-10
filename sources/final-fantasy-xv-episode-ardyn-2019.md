@@ -79,6 +79,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Episode_Ardyn
 
 - https://en.wikipedia.org/wiki/Development_of_Final_Fantasy_XV#The_Dawn_of_the_Future -- Episode Ardyn was to be part of a four-episode scenario, The Dawn of the Future, with three episodes focusing on Noctis, Lunafreya and Aranea Highwind; the three were cancelled after director Tabata left, and only Episode Ardyn was released -- accessed 2026-11-10 (revision 1384321687 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy XV: Episode Ardyn page, Voice actors section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Episode_Ardyn#Voice_actors -- voice cast section: confirms Japanese, English, French, German, Russian voice -- accessed 2026-11-10 (revision 3980148 of 2026-01-03; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV:_Episode_Ardyn#Voice_actors); archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

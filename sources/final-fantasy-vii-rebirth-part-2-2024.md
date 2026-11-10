@@ -340,4 +340,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth#Exter
 
 - https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Rebirth: an action role-playing game by Square Enix, released for PlayStation 5 on 2024-02-29, the second installment of the Remake trilogy, made to stand on its own as well -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy VII Rebirth page, Voice actors section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth#Voice_actors -- voice cast section: confirms Japanese, English, French, German voice -- accessed 2026-11-10 (revision 4055626 of 2026-10-05; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Rebirth#Voice_actors); archived: TODO
+
 ## Decisions

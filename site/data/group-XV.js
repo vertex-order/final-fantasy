@@ -88,8 +88,8 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       versions: [
         {
           languages: [
-            { value: 'JA', native: true },
-            { value: 'EN' },
+            { value: 'JA', native: true, voice: true },
+            { value: 'EN', voice: true },
             { value: '…?' },
           ],
           helpWanted: true,
@@ -107,7 +107,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
           subtitle: 'Edit', subtitleDate: 2019,
           profileUrl: 'https://web.archive.org/web/20210207121513/https://finalfantasyxv.square-enix-games.com/en/stadia',
           languages: [
-            { value: 'EN' },
+            { value: 'EN', voice: true },
             { value: '…?' },
           ],
           platforms: [
@@ -182,7 +182,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
       tags: ['Prologue', 'Audio drama'],
       subtitle: 'Audio Drama',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, voice: true },
         { value: 'EN', tip: 'English (fan translation)' },
       ],
       platforms: [
@@ -521,8 +521,8 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
     primary: {
       tags: ['Spin-off', 'Simulation', 'VR'],
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN' },
+        { value: 'JA', native: true, voice: true },
+        { value: 'EN', voice: true },
         { value: '…?' },
       ],
       helpWanted: true,

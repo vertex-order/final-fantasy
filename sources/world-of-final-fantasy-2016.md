@@ -385,4 +385,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy#External
 
 - https://en.wikipedia.org/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy_Maxima -- Maxima, the expanded version of the game, released worldwide on 2018-11-06 for Nintendo Switch, Xbox One, PS4 and Windows, and available as paid DLC for the PS4 and Windows versions; adds narrative elements, gameplay additions, boss fights, a new ending and most of the original DLC; Champion Mirajewels include Firion and Y'shtola, and Noctis appears in a fishing minigame; developed by Tose with Square Enix Business Division 3 on the Orochi engine; a Switch port of the original was planned but not released, and Maxima was not released for the Vita because of its size limits; the Meli-Melo opening movie is in the theatre mode -- accessed 2026-11-10 (revision 1384356851 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
 
+
+## finalfantasy.fandom.com (Information; World of Final Fantasy page, World of Final Fantasy Maxima section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy_Maxima -- Maxima is a DLC expansion, "Maxima Upgrade", released 2018-11-06 for most platforms the game is on, excluding PlayStation Vita; a physical edition for Xbox One in North America and for Nintendo Switch in Southeast Asia, Hong Kong and Korea; adds 12 Mirages in the party, Treasure Tracker, New Game+, a Nightmare difficulty, the Hidden Dungeon (an EX dungeon around the original Final Fantasy with the Four Fiends and Garland), superbosses (Enna Kros, The Immortal Dark Dragon, Exnine Bahamut), Champion avatar change, a Noctis fishing minigame, Hauyn's Archives and a secret ending; the Xbox One and Nintendo Switch editions contain all the DLC Champions and Coliseum Tickets except Sora's Champion Medal -- accessed 2026-11-10 (revision 4067118 of 2026-10-29; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy_Maxima); archived: TODO
+
+## finalfantasy.fandom.com (Information; World of Final Fantasy page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4067118 of 2026-10-29; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/World_of_Final_Fantasy#Voice_cast); archived: TODO
+
 ## Decisions

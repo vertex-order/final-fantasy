@@ -43,4 +43,8 @@
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- five episodes of 10 to 20 minutes developed by A-1 Pictures and Square Enix, detailing the backstories of the main cast, part of the Final Fantasy XV Universe -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## streaming catalogs (Information; not yet audited)
+
+- Brotherhood: Final Fantasy XV: official dubs and subtitles in other languages that are not yet known to us may exist; the streaming sites where the item is available are not yet audited for voice and subtitles; the voice and subtitle languages in the entry's language list are those found so far
+
 ## Decisions

@@ -35,4 +35,8 @@
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- a 25-episode anime television series released in 2001 based on the common elements of the franchise, broadcast in Japan by TV Tokyo and released in North America by ADV Films -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## streaming catalogs (Information; not yet audited)
+
+- Final Fantasy: Unlimited: official dubs and subtitles in other languages that are not yet known to us may exist; the streaming sites where the item is available are not yet audited for voice and subtitles; the voice and subtitle languages in the entry's language list are those found so far
+
 ## Decisions

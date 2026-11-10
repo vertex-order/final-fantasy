@@ -437,4 +437,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII#External_link
   - http://www.ffxii.us/ -- Final Fantasy XII US - fansite [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://www.ffcompendium.com/h/ff12hub.shtml -- Final Fantasy XII at the Final Fantasy Compendium [Miscellaneous] -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy XII page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4029980 of 2026-08-06; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XII#Voice_cast); archived: TODO
+
 ## Decisions

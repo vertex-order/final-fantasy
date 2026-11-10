@@ -101,4 +101,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_Lost_Episode_
 
 - https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Dirge of Cerberus Lost Episode: a mobile spin-off taking place during the events of Dirge of Cerberus, released 2006-08-22 in North America and 2007-07-26 in Japan -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Dirge of Cerberus Lost Episode -Final Fantasy VII- page, Voice Unit section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_Lost_Episode_-Final_Fantasy_VII-#Voice_Unit -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3968094 of 2025-11-01; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Dirge_of_Cerberus_Lost_Episode_-Final_Fantasy_VII-#Voice_Unit); archived: TODO
+
 ## Decisions

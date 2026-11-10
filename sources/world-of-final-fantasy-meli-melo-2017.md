@@ -75,4 +75,8 @@
 
 - https://en.wikipedia.org/wiki/World_of_Final_Fantasy#World_of_Final_Fantasy:_Meli-Melo -- a free-to-play mobile spin-off with a gacha mechanic, released in Japan on 2017-12-12 for Android and iOS; set in Valgallan, one of the worlds created by Enna Kros, with Mirages and Lilikin-form characters; developed and run with Drecom, with the original artists designing new Mirages and Yamazaki making a new version of Innocent; the title was suggested by Nomura; shut down on 2018-12-13 -- accessed 2026-11-10 (revision 1384356851 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; World of Final Fantasy: Meli-Melo page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy:_Meli-Melo#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4045571 of 2026-09-07; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/World_of_Final_Fantasy:_Meli-Melo#Voice_cast); archived: TODO
+
 ## Decisions

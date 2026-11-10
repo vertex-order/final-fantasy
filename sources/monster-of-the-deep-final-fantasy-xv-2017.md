@@ -175,4 +175,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Monster_of_the_Deep:_Final_Fant
   - http://www.jp.square-enix.com/ff15/vr/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.finalfantasyxv.com/en/playstation-vr/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Monster of the Deep: Final Fantasy XV page, Cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Monster_of_the_Deep:_Final_Fantasy_XV#Cast -- cast table with Japanese and English voice actors (Noctis: Tatsuhisa Suzuki / Ray Chase, Prompto: Tetsuya Kakihara / Robbie Daymond, Gladiolus: Kenta Miyake / Chris Parson, Ignis: Mamoru Miyano / Adam Croasdell, Cindy: Yu Shimamura / Erin Matthews, plus Player, Navyth Arlund, Forecaster, Announcer); proves Japanese and English voice -- accessed 2026-11-10 (revision 3981879 of 2026-01-12; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Monster_of_the_Deep:_Final_Fantasy_XV#Cast); archived: TODO
+
 ## Decisions

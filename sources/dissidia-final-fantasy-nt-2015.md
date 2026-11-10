@@ -355,4 +355,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
 - https://ja.wikipedia.org/wiki/ディシディア_ファイナルファンタジー_(アーケードゲーム)#ボイスアクターズライブ_ディシディア_FF『SECRETUM-秘密-』 -- stage reading (朗読劇) ボイスアクターズライブ ディシディア FF『SECRETUM-秘密-』, two performances at 中野サンプラザ on 2017-12-18 and 2017-12-19; an original story not in the game in which Cloud, Squall and Tidus, summoned by the goddess Materia, meet an amnesiac young man; cast 小野友樹 (the young man), 櫻井孝宏 (Cloud), 石川英郎 (Squall), 森田成一 (Tidus), 森川智之 (Sephiroth); released on DVD and Blu-ray on 2018-04-04 -- accessed 2026-11-09 (revision 110670170 of 2026-08-16; wikitext read through the MediaWiki API); archived: TODO
 - https://ja.wikipedia.org/wiki/ディシディア_ファイナルファンタジー_(アーケードゲーム)#関連項目 -- lists only 対戦アクションゲーム一覧 (list of versus action games); no related item -- accessed 2026-11-09 (revision 110670170 of 2026-08-16; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Dissidia Final Fantasy NT page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_NT#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4065695 of 2026-10-27; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Dissidia_Final_Fantasy_NT#Voice_cast); archived: TODO
+
 ## Decisions

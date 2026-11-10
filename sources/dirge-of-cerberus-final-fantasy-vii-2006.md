@@ -154,4 +154,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantas
 
 - https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Dirge of Cerberus: an action game with first and third-person shooter elements; originally had a multiplayer mode, removed in the western version; released 2006-01-26 (Japan), 2006-08-15 (North America) and 2006-11-17 (Europe); the localized version was overhauled before release; an International version with those improvements was released in Japan on 2008-09-04 in the Ultimate Hits line -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Dirge of Cerberus -Final Fantasy VII- page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantasy_VII-#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4053189 of 2026-09-28; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Dirge_of_Cerberus_-Final_Fantasy_VII-#Voice_cast); archived: TODO
+
 ## Decisions

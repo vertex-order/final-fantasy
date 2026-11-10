@@ -134,6 +134,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades#Exte
   - http://www.jp.square-enix.com/ff15/dlc/online/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://finalfantasyxv.square-enix-games.com/en/comrades/ -- Official English site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy XV: Comrades page, Voice actors section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades#Voice_actors -- voice cast section: confirms Japanese, English, French, German, Russian voice -- accessed 2026-11-10 (revision 3978572 of 2025-12-26; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV:_Comrades#Voice_actors); archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

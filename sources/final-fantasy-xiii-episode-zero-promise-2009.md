@@ -200,4 +200,12 @@ goodreads.com (Information)
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- the Final Fantasy XIII series has been expanded with novellas -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Omega page, Cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-_Fabula_Nova_Dramatica_Omega#Cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3578954 of 2022-01-05; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-_Fabula_Nova_Dramatica_Omega#Cast); archived: TODO
+
+## finalfantasy.fandom.com (Information; Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica Alpha page, Cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-_Fabula_Nova_Dramatica_Alpha#Cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3578515 of 2022-01-05; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-_Fabula_Nova_Dramatica_Alpha#Cast); archived: TODO
+
 ## Decisions

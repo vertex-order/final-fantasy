@@ -200,7 +200,7 @@ window.__ffGroupReg['XII'] = { num: 'XII', chronoOrder: 1300, narrativeOrder: 13
         title: 'Final Fantasy Tactics Advance Radio Edition', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance_Radio_Edition', titleDate: 2003,
         subtitle: 'Audio Drama',
         languages: [
-          { value: 'JA', native: true },
+          { value: 'JA', native: true, voice: true },
           { value: 'EN', tip: 'English (fan translation)' },
         ],
         length: [{ value: '13 tracks', br: true }, { value: '+ 4 extra chapters' }],

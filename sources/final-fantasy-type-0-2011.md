@@ -398,4 +398,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0#External_l
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジー零式#関連商品 -- the game's goods: the Final Fantasy Type-0 trading card PR card of Machina was bundled with the 救世主指南ノ書 guide (2011-10-27); the section otherwise lists the soundtrack, guides, novels and manga recorded in the files of those entries -- accessed 2026-11-09 (revision 110335924 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy Type-0 page, Voice actors section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0#Voice_actors -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4021863 of 2026-07-13; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Type-0#Voice_actors); archived: TODO
+
 ## Decisions

@@ -11,7 +11,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
     primary: {
       tags: ['Mainline', { abbrTerm: 'MMORPG', abbrDef: 'Massively Multiplayer Online Role-Playing Game' }, 'Monthly subscription'], terminated: true,
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, voice: true },
         { value: 'EN', voice: true },
         { value: 'FR' },
         { value: 'DE' },
@@ -561,7 +561,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       subtitle: 'Live-action',
       length: '8 episodes',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, voice: true },
         { value: '…?' },
       ],
       helpWanted: true,
@@ -587,7 +587,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       subtitle: 'Movie',
       length: '114min',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, voice: true },
         { value: '…?' },
       ],
       helpWanted: true,

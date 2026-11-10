@@ -33,4 +33,8 @@
 
 - https://en.wikipedia.org/wiki/Final_Fantasy:_Unlimited#Related_media -- FF:U Before - Aura Inochi Tsugu Mono: a drama CD by Avex mode, given for a limited time to buyers of the DVD boxset; a flashback story of the destruction of Kaze and Makenshi's worlds -- accessed 2026-11-09 (revision 1379290309 of 2026-10-09; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy: Unlimited Before page, Cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_Before#Cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3923645 of 2025-04-21; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy:_Unlimited_Before#Cast); archived: TODO
+
 ## Decisions

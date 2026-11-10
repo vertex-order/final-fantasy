@@ -188,6 +188,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Heavensward#
   - https://jp.finalfantasyxiv.com/heavensward/ -- Official site (Japanese) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://na.finalfantasyxiv.com/heavensward/ -- Official site (English) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy XIV: Heavensward page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Heavensward#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4010501 of 2026-05-25; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV:_Heavensward#Voice_cast); archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

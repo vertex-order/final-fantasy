@@ -432,4 +432,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
 
 - https://ja.wikipedia.org/wiki/ライトニング_リターンズ_ファイナルファンタジーXIII#関連商品 -- lists two guides (a V Jump Books master guide covering both the PS3 and Xbox 360 versions and an SE-MOOK Ultimania), two soundtrack discs and a figure; no related game, book or other work -- accessed 2026-11-09 (revision 110739752 of 2026-08-22; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Lightning Returns: Final Fantasy XIII page, Voice actors section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantasy_XIII#Voice_actors -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4063595 of 2026-10-22; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Lightning_Returns:_Final_Fantasy_XIII#Voice_actors); archived: TODO
+
 ## Decisions

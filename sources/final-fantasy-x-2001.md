@@ -582,4 +582,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X#External_links
   - https://www.youtube.com/channel/UCM94_1XKyacr70vxJVBuGSw -- YouTube channel (template YouTube|c=UCM94_1XKyacr70vxJVBuGSw) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.youtube.com/channel/UCZYMA5qFXLAVaK2kM11U8vw -- YouTube channel FINAL FANTASY X/X-2 HD Remaster (template YouTube|c=UCZYMA5qFXLAVaK2kM11U8vw; also recorded in sources/final-fantasy-x-2-2003.md) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy X page, Voice actors section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X#Voice_actors -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4024862 of 2026-07-21; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_X#Voice_actors); archived: TODO
+
 ## Decisions

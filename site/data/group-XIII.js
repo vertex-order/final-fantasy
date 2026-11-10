@@ -184,7 +184,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
         {
           subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XIII-2', subtitleDate: 2014,
           languages: [
-            { value: 'JA', native: true },
+            { value: 'JA', native: true, voice: true },
             { value: 'EN', voice: true },
             { value: '…?' },
           ],
@@ -209,7 +209,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
         },
         {
           languages: [
-            { value: 'JA', native: true },
+            { value: 'JA', native: true, voice: true },
             { value: 'EN', voice: true },
             { value: '…?' },
           ],
@@ -602,7 +602,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
       terminated: true,
       profileUrl: 'https://web.archive.org/web/20151013060037/http://www.jp.square-enix.com/ff-agito/', profileHreflang: 'ja',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, voice: true },
       ],
       platforms: [
         { key: 'android', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20151128155733/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFAgitoj' },

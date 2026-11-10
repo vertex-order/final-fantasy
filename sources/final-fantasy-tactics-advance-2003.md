@@ -182,4 +182,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance#E
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- Final Fantasy Tactics Advance has been adapted into a radio drama -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy Tactics Advance Radio Edition page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance_Radio_Edition#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3575591 of 2022-01-05; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Tactics_Advance_Radio_Edition#Voice_cast); archived: TODO
+
 ## Decisions

@@ -29,4 +29,9 @@ imdb.com (Ratings)
 
 - Disc release, other streaming services: not found
 
+## finalfantasy.fandom.com (Information; Brave Father Online page, Casts section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Brave_Father_Online#Casts -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4026738 of 2026-07-27; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Brave_Father_Online#Casts); archived: TODO
+  - Official dubs and subtitles in other languages that are not yet known to us may exist; the streaming sites where the item is available are not yet audited for voice and subtitles
+
 ## Decisions

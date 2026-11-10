@@ -82,7 +82,7 @@ window.__ffGroupReg['WD'] = { num: 'WD', chronoOrder: 1580, narrativeOrder: 1580
       terminated: true,
       profileUrl: 'https://web.archive.org/web/20180626105926/https://woffmm.jp/', profileHreflang: 'ja',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, voice: true },
       ],
       platforms: [
         { key: 'android', jpTag: true, terminated: true, url: 'https://web.archive.org/web/20190916133924/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.WOFFMeliMeloj' },

@@ -188,4 +188,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Mobius_Final_Fantasy#External_l
   - http://store.steampowered.com/app/504730/ -- Japanese Steam -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://store.steampowered.com/app/536930/MOBIUS_FINAL_FANTASY/ -- English Steam -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Mobius Final Fantasy page, Voice actors section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Mobius_Final_Fantasy#Voice_actors -- table of Japanese and English voice actors per character (Act I: Wol Nobunaga Shimazaki / Bryce Papenbrook, Echo Sakura Tange / Sarah Anne Williams, Cloud Takahiro Sakurai / Steve Burton, and others); proves Japanese and English voice -- accessed 2026-11-10 (revision 3991286 of 2026-02-16; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Mobius_Final_Fantasy#Voice_actors); archived: TODO
+
 ## Decisions

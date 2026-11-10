@@ -555,4 +555,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2#External_link
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2#関連商品 -- related goods list -- accessed 2026-11-09 (same revision); archived: TODO
   - Books (4): FINAL FANTASY X-2 ULTIMANIA (Digicube 4-88787-126-0; Square Enix reprint 4-7575-1205-8); FINAL FANTASY X-2 ULTIMANIA Ω (4-7575-1161-2); FINAL FANTASY X-2 INTERNATIONAL+LAST MISSION ULTIMANIA (4-7575-1163-9); 小説 FINAL FANTASY X-2.5 〜永遠の代償〜 (978-4-7575-4157-3), already an entry; the three Ultimania guides are listed in sources/x-group.md
 
+## finalfantasy.fandom.com (Information; Final Fantasy X-2 page, Voice actors section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2#Voice_actors -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4024331 of 2026-07-21; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_X-2#Voice_actors); archived: TODO
+
 ## Decisions

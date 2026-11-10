@@ -461,4 +461,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake#Extern
 
 - https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Final Fantasy VII Remake: an action role-playing game by Square Enix, released for PlayStation 4 on 2020-04-10, the first of a planned trilogy remaking the 1997 original; an expanded edition, Intergrade, was released for PlayStation 5 -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy VII Remake page, Cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake#Cast -- voice cast section: confirms Japanese, English, French, German voice -- accessed 2026-11-10 (revision 4063620 of 2026-10-22; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Remake#Cast); archived: TODO
+
 ## Decisions

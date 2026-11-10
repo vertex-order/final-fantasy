@@ -204,8 +204,8 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
     primary: {
       tags: ['Essential', 'Action-adventure', 'Co-op'],
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN' },
+        { value: 'JA', native: true, voice: true },
+        { value: 'EN', voice: true },
         { value: '…?' },
       ],
       helpWanted: true,
@@ -233,8 +233,8 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
     primary: {
       tags: ['Essential', 'Action RPG', 'Co-op'],
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN' },
+        { value: 'JA', native: true, voice: true },
+        { value: 'EN', voice: true },
         { value: '…?' },
       ],
       helpWanted: true,
@@ -312,8 +312,8 @@ window.__ffGroupReg['CC'] = { num: 'CC', chronoOrder: 1200, narrativeOrder: 1200
     primary: {
       tags: ['Essential', 'Action RPG', 'Co-op'],
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN' },
+        { value: 'JA', native: true, voice: true },
+        { value: 'EN', voice: true },
         { value: '…?' },
       ],
       helpWanted: true,

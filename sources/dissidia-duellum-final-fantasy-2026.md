@@ -245,4 +245,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Duellum_Final_Fantasy#
 - https://finalfantasy.fandom.com/wiki/Dissidia_Final_Fantasy#Titles -- the series page, not the 2008 game's page; Dissidia Duellum Final Fantasy: a mobile team-fighting game, frenetic 3-on-3 team battles in which warriors from other dimensions dash to save modern-day Tokyo from hordes of life-sapping monsters -- accessed 2026-11-09 (revision 4002378 of 2026-04-09; wikitext read through the Fandom API); archived: TODO
 Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
 
+## finalfantasy.fandom.com (Information; Dissidia Duellum Final Fantasy page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Dissidia_Duellum_Final_Fantasy#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4070020 of 2026-11-05; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Dissidia_Duellum_Final_Fantasy#Voice_cast); archived: TODO
+
 ## Decisions

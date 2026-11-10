@@ -147,8 +147,8 @@ window.__ffGroupReg['BE'] = { num: 'BE', chronoOrder: 1550, narrativeOrder: 1550
       tags: ['Tactical RPG', 'Mobile'],
       terminated: true,
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN' },
+        { value: 'JA', native: true, voice: true },
+        { value: 'EN', voice: true },
         { value: 'ZH-TW' },
         { value: '…?' },
       ],

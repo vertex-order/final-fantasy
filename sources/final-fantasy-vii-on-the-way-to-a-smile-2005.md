@@ -107,4 +107,8 @@ goodreads.com (Information)
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- Square Enix released seven novellas based on the Final Fantasy VII universe (On the Way to a Smile) -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; On the Way to a Smile -Episode: Denzel- Final Fantasy VII page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/On_the_Way_to_a_Smile_-Episode:_Denzel-_Final_Fantasy_VII#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3906457 of 2025-03-16; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/On_the_Way_to_a_Smile_-Episode:_Denzel-_Final_Fantasy_VII#Voice_cast); archived: TODO
+
 ## Decisions

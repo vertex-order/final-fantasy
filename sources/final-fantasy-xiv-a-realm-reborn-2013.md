@@ -547,4 +547,12 @@
 
 - https://en.wikipedia.org/wiki/Final_Fantasy_XIV#Mobile_version -- Final Fantasy XIV Mobile, a sister game for iOS and Android announced on 2024-11-20 by Square Enix, developed by Square Enix and Tencent's LightSpeed Studios, free to play without gacha, nine battle jobs, five races, covering A Realm Reborn; first released in China as Final Fantasy XIV: Crystal World on 2025-06-19; on 2026-07-17 Tencent announced the closing of Crystal World on 2026-09-30 and that the global release was scrapped (no entry) -- accessed 2026-11-10 (revision 1384467232 of 2026-11-08; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy XIV page, Related media section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV#Related_media -- a crossover manga with Saki, Saki & Final Fantasy XIV, launched in Japan in January 2021 (no entry); the page lists Dad of Light (2017) and Eorzea Academy (December 2021), both already entries -- accessed 2026-11-10 (revision 4067938 of 2026-10-31; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV#Related_media); archived: TODO
+
+## finalfantasy.fandom.com (Information; Final Fantasy XIV page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4067938 of 2026-10-31; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV#Voice_cast); archived: TODO
+
 ## Decisions

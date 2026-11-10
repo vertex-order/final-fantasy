@@ -36,5 +36,9 @@
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- a short anime released on YouTube in 2019, produced by Satelight Inc, giving insight into the antagonist's past and background story for the final DLC -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy XV: Episode Ardyn – Prologue page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Episode_Ardyn_%E2%80%93_Prologue#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3975892 of 2025-12-09; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV:_Episode_Ardyn_%E2%80%93_Prologue#Voice_cast); archived: TODO
+
 ## Decisions
 - The `Free` tag was added (user, 2026-10-17): the episode is free on YouTube with English subtitles; the platform row already links the official video directly

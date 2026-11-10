@@ -300,4 +300,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Ever_Crisis#E
 
 - https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Ever Crisis: a role-playing game released in September 2023 for iOS and Android and in December 2023 for Windows, an episodic single-player game that retells the events of the canon Compilation titles and adds new narrative material -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy VII Ever Crisis page, Cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Ever_Crisis#Cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4067103 of 2026-10-29; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Ever_Crisis#Cast); archived: TODO
+
 ## Decisions

@@ -181,4 +181,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy#Exter
   - http://www.theatrhythm.com/ -- Official English Site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://en.wikipedia.org/wiki/Theatrhythm_Final_Fantasy -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Theatrhythm Final Fantasy page, Social Rhythm section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy#Social_Rhythm -- Social Rhythm, a promotional game with a gameplay system similar to Theatrhythm Final Fantasy: the player links a Facebook or Twitter account to create a character, teams up with other players to fight monsters and reaches the final boss, Yama-chan (a head attached to a Tonberry's body, from the Japanese comedy duo Nankai Candies); accessible at http://www.square-enix.co.jp/t_ff/campaign/ and available only from 2012-02-10 to 2012-03-30 (no entry) -- accessed 2026-11-10 (revision 3988429 of 2026-02-03; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Theatrhythm_Final_Fantasy#Social_Rhythm); archived: TODO
+
 ## Decisions

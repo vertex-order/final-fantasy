@@ -187,7 +187,7 @@ window.__ffGroupReg['FFU'] = { num: 'FFU', chronoOrder: 1050, narrativeOrder: 10
       subtitle: 'Audio Drama',
       length: '~18min',
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, voice: true },
       ],
       platforms: [
         { key: 'compact-disc', jpTag: true },

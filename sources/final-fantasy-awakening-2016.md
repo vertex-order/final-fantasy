@@ -142,5 +142,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Awakening#Externa
   - https://play.google.com/store/apps/details?id=com.pwrd.mffaen.android -- Google Play (India/Australia/New Zealand) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://en.wikipedia.org/wiki/Final_Fantasy_Awakening -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy Awakening page, Voice section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Awakening#Voice -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4021846 of 2026-07-13; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Awakening#Voice); archived: TODO
+
 ## Decisions
 - Languages are done for now (user, 2026-10-21): the `…?` marker and `helpWanted` are removed. Open leads if wanted later: the OASIS English iOS listing (id1327210765, no working capture found), the PT/ES app (id1377048813, 404 captures) and the Korean store pages (no working captures); the languages are JA (voiced), EN, ID, KO, ZH-CN and ZH-TW

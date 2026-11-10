@@ -476,6 +476,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2#External_l
 
 - https://ja.wikipedia.org/wiki/ファブラ_ノヴァ_クリスタリス_ファイナルファンタジー#作品一覧 -- ライトニングサーガ: listed as the second game of the trilogy, released 2011-12-15 for PlayStation 3 and Xbox 360 -- accessed 2026-11-09 (revision 106677914 of 2025-10-01; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy XIII-2 page, Voice actors section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2#Voice_actors -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4001327 of 2026-04-04; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIII-2#Voice_actors); archived: TODO
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

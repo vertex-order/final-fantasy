@@ -1008,6 +1008,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#External_links
   - Sheet music: Piano Collections "FINAL FANTASY IV" (NTT Publishing, 2001-09-11, 4-7571-7014-9)
   - Books (19): NTT Publishing guides and setting book 1991 (設定資料編 4-87188-128-8, 基礎知識編 4-87188-131-8, 戦闘解析編 4-87188-136-9, 徹底攻略編 4-87188-138-5, イージータイプ 4-87188-148-2); ファイナルファンタジー竜騎士団（ナイツ）(JICC Publishing, 1992-09, 4-7966-0435-9, type not stated); Digicube, Shueisha, Enterbrain and Square Enix guides 1997 to 2011; the guides are listed in sources/iv-group.md
 
+## finalfantasy.fandom.com (Information; Final Fantasy IV page, Cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#Cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4034771 of 2026-08-20; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV#Cast); archived: TODO
+  - The page's cast section covers the 3D remake only; voice in other versions is neither confirmed nor ruled out by it
+
 ## Decisions
 
 - **Not to be listed: the cancelled Famicom/NES version of Final Fantasy IV (user, 2026-11-03):** planned for the Famicom (Square, 1991, Japan) and moved to the Super Famicom before any work was done, per GamesRadar+ 'The lost Nintendo games' (2008-05-30, https://www.gamesradar.com/the-lost-nintendo-games/) and Lost Levels (2003-11, http://www.lostlevels.org/200311/200311-square.shtml); never released, so the NES is not a platform of Final Fantasy IV. Only this platform is left out: the game itself released on other platforms and stays listed on them

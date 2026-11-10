@@ -125,4 +125,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル#関連項目 -- listed under the series: a game for the Nintendo DS, set more than 2000 years before this game, in the time before the meteorite fell -- accessed 2026-11-09 (revision 111104657 of 2026-09-22; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy Crystal Chronicles: Ring of Fates page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 3568420 of 2022-01-05; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates#Voice_cast); archived: TODO
+
 ## Decisions

@@ -163,4 +163,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル#関連項目 -- listed under the series: a game for the Nintendo DS and Wii, the sequel to Ring of Fates -- accessed 2026-11-09 (revision 111104657 of 2026-09-22; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy Crystal Chronicles: Echoes of Time page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 3882037 of 2024-12-21; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time#Voice_cast); archived: TODO
+
 ## Decisions

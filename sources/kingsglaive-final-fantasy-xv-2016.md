@@ -52,4 +52,8 @@
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- a CGI film released before the game in Summer 2016, set during the game's opening and following new and secondary characters, part of the Final Fantasy XV Universe -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## streaming catalogs (Information; not yet audited)
+
+- Kingsglaive: Final Fantasy XV: official dubs and subtitles in other languages that are not yet known to us may exist; the streaming sites where the item is available are not yet audited for voice and subtitles; the voice and subtitle languages in the entry's language list are those found so far
+
 ## Decisions

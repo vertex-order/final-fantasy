@@ -515,4 +515,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII#External_lin
 
 - https://ja.wikipedia.org/wiki/ファブラ_ノヴァ_クリスタリス_ファイナルファンタジー#作品一覧 -- ライトニングサーガ (the Lightning Saga, the FF13 trilogy telling one world around Lightning): listed as the first game, released 2009-12-17 for PlayStation 3; the 作品一覧 also lists ファイナルファンタジーXIII アルティメット ヒッツ インターナショナル, released 2010-12-16 for Xbox 360 -- accessed 2026-11-09 (revision 106677914 of 2025-10-01; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy XIII page, Voice actors section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII#Voice_actors -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4063426 of 2026-10-22; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIII#Voice_actors); archived: TODO
+
 ## Decisions

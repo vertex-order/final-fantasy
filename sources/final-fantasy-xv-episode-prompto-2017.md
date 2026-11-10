@@ -58,6 +58,10 @@
 Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Episode_Prompto#External_links
   - https://www.jp.square-enix.com/ff15/dlc/epp/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy XV: Episode Prompto page, Voice actors section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Episode_Prompto#Voice_actors -- voice cast section: confirms Japanese, English, French, German voice -- accessed 2026-11-10 (revision 4038197 of 2026-08-29; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV:_Episode_Prompto#Voice_actors); archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

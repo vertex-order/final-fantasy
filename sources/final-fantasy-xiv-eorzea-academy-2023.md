@@ -78,4 +78,8 @@ goodreads.com (Information)
 
 - https://en.wikipedia.org/wiki/Final_Fantasy_XIV#Related_media -- a second manga series, Final Fantasy XIV: Eorzea Academy, released in December 2021 (after the Saki crossover manga) -- accessed 2026-11-10 (revision 1384467232 of 2026-11-08; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy XIV page, Related media section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV#Related_media -- a second manga series, Final Fantasy XIV: Eorzea Academy, released in December 2021 (after the Saki crossover manga) -- accessed 2026-11-10 (revision 4067938 of 2026-10-31; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV#Related_media); archived: TODO
+
 ## Decisions

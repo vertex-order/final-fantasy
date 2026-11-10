@@ -321,4 +321,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Resonance#Externa
   - https://en.wikipedia.org/wiki/Final_Fantasy_Resonance -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.mobygames.com/game/262585/final-fantasy-resonance/ -- Final Fantasy Resonance -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy Resonance page, Cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Resonance#Cast -- cast table with Japanese and English voice actors (Rain: Nobuhiko Okamoto / Clifford Chapin, Lasswell: Yusuke Kobayashi / Alejandro Saab, Fina: Akane Fujita / Lizzie Freeman, and others); proves Japanese and English voice -- accessed 2026-11-10 (revision 4068861 of 2026-11-02; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Resonance#Cast); archived: TODO
+
 ## Decisions

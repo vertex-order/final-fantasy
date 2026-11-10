@@ -127,8 +127,8 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
       tags: ['Essential', 'Turn-based RPG', 'Jobs', 'Single-player', 'Mobile', 'Free-to-play'],
       terminated: true,
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN' },
+        { value: 'JA', native: true, voice: true },
+        { value: 'EN', voice: true },
         { value: 'FR', textOnly: true },
         { value: 'DE', textOnly: true },
         { value: 'ZH-TW', textOnly: true },
@@ -158,7 +158,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     primary: {
       tags: ['Mashup', '2D', 'Sprites', 'RPG', 'Active Time Battle', 'Single-player', 'Multiplayer', 'Mobile', 'Free-to-play', 'Gacha'],
       languages: [
-        { value: 'JA', native: true },
+        { value: 'JA', native: true, voice: true },
         { value: 'EN', tip: 'English (content up to 2022-09)' },
         { value: 'ES', tip: 'Spanish (global version, removed in 2020)' },
         { value: 'FR', tip: 'French (global version, removed in 2020)' },

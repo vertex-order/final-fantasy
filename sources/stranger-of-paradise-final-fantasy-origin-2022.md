@@ -346,4 +346,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Stranger_of_Paradise_Final_Fant
   - https://en.wikipedia.org/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin -- the English Wikipedia article (recorded in the wikipedia.org section above) -- link recorded only -- accessed 2026-11-08; archived: TODO
   - https://www.mobygames.com/game/181690/stranger-of-paradise-final-fantasy-origin/ -- the MobyGames entry -- link recorded only -- accessed 2026-11-08; archived: TODO
 
+## finalfantasy.fandom.com (Information; Stranger of Paradise Final Fantasy Origin page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Stranger_of_Paradise_Final_Fantasy_Origin#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4066594 of 2026-10-29; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Stranger_of_Paradise_Final_Fantasy_Origin#Voice_cast); archived: TODO
+
 ## Decisions

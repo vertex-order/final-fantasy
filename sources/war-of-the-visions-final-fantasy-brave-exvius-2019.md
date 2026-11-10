@@ -135,4 +135,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/War_of_the_Visions:_Final_Fanta
   - https://play.google.com/store/apps/details?id=com.square_enix.WOTVffbejp -- Google Play info and download (Japan) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.mobygames.com/game/146826/war-of-the-visions-final-fantasy-brave-exvius/ -- War of the Visions: Final Fantasy Brave Exvius -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## finalfantasy.fandom.com (Information; War of the Visions: Final Fantasy Brave Exvius page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4014740 of 2026-06-18; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius#Voice_cast); archived: TODO
+
 ## Decisions

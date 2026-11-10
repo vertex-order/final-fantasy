@@ -39,4 +39,8 @@ goodreads.com (Ratings)
 youtube.com (Information)
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20XV%20Prologue%3A%20Parting%20Ways — fan-audiobook search — accessed not recorded
 
+## finalfantasy.fandom.com (Information; Final Fantasy XV Prologue ~Tabidatsu Mono, Nokoru Mono~ page, Cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_~Tabidatsu_Mono,_Nokoru_Mono~#Cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3872423 of 2024-11-16; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV_Prologue_~Tabidatsu_Mono,_Nokoru_Mono~#Cast); archived: TODO
+
 ## Decisions

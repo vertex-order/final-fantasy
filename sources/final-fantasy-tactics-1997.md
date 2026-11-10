@@ -756,6 +756,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics#External_
   - The first PlayStation edition came with a disc, SQUARE'S PREVIEW 2, holding a trial version of Saga Frontier; the budget editions released later dropped it
   - On 2000-06-29 the first Square Millennium Collection set, スクウェアミレニアムコレクション ファイナルファンタジータクティクス, was released: the game with a picture-label disc, a special watch and special playing cards
 
+## finalfantasy.fandom.com (Information; Final Fantasy Tactics page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4041270 of 2026-09-02; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Tactics#Voice_cast); archived: TODO
+
 ## Decisions
 
 

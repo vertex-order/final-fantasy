@@ -133,4 +133,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_First_Sol
 
 - https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- The First Soldier: a free-to-play battle royale multiplayer game for mobile phones released 2021-11-17, developed by Ateam and published by Square Enix, set 18 years before the original; 3 versus 3 multiplayer arena matches in a virtual-reality recreation of Midgar; shut down on 2023-01-11 -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy VII The First Soldier page, Voice Cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_First_Soldier#Voice_Cast -- voice cast section: confirms English voice -- accessed 2026-11-10 (revision 4041163 of 2026-09-02; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_The_First_Soldier#Voice_Cast); archived: TODO
+  - The page's cast section confirms English voice; it does not mention Japanese voice, which neither confirms nor rules it out
+
 ## Decisions
