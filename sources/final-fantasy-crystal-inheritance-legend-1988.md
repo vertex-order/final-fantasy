@@ -95,6 +95,11 @@ jacket and cover scans (seen by user, from the Reddit post)
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジー#関連作品 -- ゲームブック『ファイナルファンタジー クリスタル継承伝説』: published December 1987 (the page's date) by ケイブンシャ in アドベンチャーヒーローブックス, authors 三原治 and 上原尚子, edited by スタジオ・ハード; an original story of a boy who receives the revelation of the Water Crystal and acts as a Warrior of Light, set in an age before the game, where the hero's deeds and the heroine's sacrifice cannot fully defeat the world's chaos, which is left to the next generation of Warriors of Light, the game's heroes; the world is based on the game with science-fiction elements added -- accessed 2026-11-09 (revision 111583688 of 2026-10-31; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Information; アドベンチャーヒーローブックス article, 作品 section, live page of 2026-11-11)
+
+- https://ja.wikipedia.org/wiki/アドベンチャーヒーローブックス#作品 -- the label's list of gamebooks; entry ファイナルファンタジー クリスタル継承伝説 (linked to the Final Fantasy article): 著 三原治、上原尚子 / 編 スタジオ・ハード / 絵 渡部美恵子 / 1987年 ISBN 4-7669-0669-1, no description line; listed between 仮面ライダーBLACK 魔軍のバトル and 邪聖剣ネクロマンサー; the only Final Fantasy title on the list, no Kingdom Hearts or Chocobo title -- accessed 2026-11-11 (revision of 2026-01-17; wikitext read through the MediaWiki API); archived: TODO
+  - Year 1987 against the jacket's first printing 1988-01-10 (candidate in docs/wiki-corrections.md)
+
 ## Decisions
 
 - Ordering (user, 2026-10-19): chronologically before Stranger of Paradise, narratively after its DLC
