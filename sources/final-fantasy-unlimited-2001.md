@@ -57,4 +57,8 @@
 
 - https://www.thetvdb.com/series/final-fantasy-unlimited -- FF：U 〜ファイナルファンタジー：アンリミテッド〜, TVDB series id 78913, aired 2001-10-02 to 2002-03-26, status Ended, Tuesdays 6:30pm, network TV Tokyo, Japan, Japanese, average runtime 23 minutes, genres Action, Adventure, Animation, Anime, Fantasy and Romance; aired order 25 episodes in season 1, DVD order 7 seasons totalling 25 episodes (4, 4, 4, 4, 3, 3, 3); cast 27 credits (Haruko Momoi, Yuka Imai, Kyouko Hikami, Nobutoshi Kanna and others), crew names Akitoshi Kawatsu and Mahiro Maeda (roles not labeled); IMDb tt0304012, TMDB 11316; no rating shown -- accessed 2026-11-10; archived: TODO
 
+## tvmaze.com (Information; TVmaze show page, live page of 2026-11-10)
+
+- https://www.tvmaze.com/shows/16915/final-fantasy-unlimited -- Final Fantasy: Unlimited, TVmaze show id 16915, type Animation, status Ended, network TV Tokyo (2001 to 2002), Tuesdays 18:30, Japanese, runtime 25 min, genres Action, Adventure, Anime and Fantasy, 25 episodes in season 1 (episodes 23 to 25 shown: "Teros: In Search of Flying Water" 2002-03-05, "Chaos: The Earl Unveiled" 2002-03-12, "Kaze: The Glory of Life" 2002-03-26), aka title Остання фантазія: Непереможні (Ukraine); summary misspells the title as "Unlmited"; no premiere date, external ids, cast or rating shown -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

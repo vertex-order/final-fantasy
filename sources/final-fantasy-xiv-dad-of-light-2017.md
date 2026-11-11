@@ -57,6 +57,10 @@ netflix.com (Streaming)
 
 - https://www.thetvdb.com/series/final-fantasy-xiv-daddy-of-light -- ファイナルファンタジーXIV 光のお父さん, TVDB series id 330789, aliases Fainaru fantajî XIV: Hikari no otousan and Final Fantasy XIV - Daddy of Light, aired 2017-04-17 to 2017-06-01, status Ended, network TBS (JP), Mondays, Japan, Japanese, average runtime 25 minutes, genres Drama, Family and Mini-Series, sub-genre Based on a True Story; aired order 8 episodes in season 1 and 1 special (2017-06); cast Ren Osugi, Yudai Chiba, Mako Ishino, Fumika Baba, Yoshihiko Hakamada; official site a Netflix page (netflix.com/mx/title/80178543); IMDb tt6497076, TMDB 73659; no rating shown -- accessed 2026-11-10; archived: TODO
 
+## tvmaze.com (Information; TVmaze show page, live page of 2026-11-10)
+
+- https://www.tvmaze.com/shows/31568/final-fantasy-xiv-dad-of-light -- Final Fantasy XIV: Dad of Light, TVmaze show id 31568, type Scripted, status Ended, network MBS (2017), Mondays 00:50, Japanese, runtime 30 min, genres Drama, Family and Fantasy, episode count shown as 7 ordered while the listing reaches episode 8 (episodes 6 to 8 shown: "The Truth" 2017-05-22, "The Light Warrior" 2017-05-29, "The Eternal Bond" 2017-06-05), official site hikarinootosan.jp, cast Osugi Ren, Yudai Chiba, Fumika Baba, Yoshihiko Hakamada, Mako Ishino, aka titles ファイナルファンタジーＸＩＶ 光のお父さん, 光のお父さん, Fainaru Fantajī Fōtīn Hikari no Otōsan, Final Fantasy XIV: Hikari no Otousan, Final Fantasy XIV: Daddy of Light and Dad of Light; no external ids or rating shown -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - Netflix subtitle and dub languages, any VAP disc release: not found

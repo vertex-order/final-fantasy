@@ -63,4 +63,8 @@
 
 - https://www.thetvdb.com/series/brotherhood-final-fantasy-xv -- Brotherhood Final Fantasy XV, TVDB series id 313185, aired 2016-03-30 to 2019-02-16, status Ended, network YouTube, Japan, Japanese, average runtime 14 minutes, genres Action, Adventure, Animation, Anime, Fantasy and Science Fiction; overview: a five-part prequel web anime following Noctis from childhood to the start of the game; aired order 5 episodes in season 1 (2016-03 to 2016-09) and 3 specials (2016-08 to 2019-02); director Soichi Masui, writer Yuniko Ayana (1 episode), cast Tatsuhisa Suzuki, Mamoru Miyano, Tetsuya Kakihara, Kenta Miyake, Rina Kitagawa; IMDb tt5595178, TMDB 66987; no rating shown -- accessed 2026-11-10; archived: TODO
 
+## tvmaze.com (Information; TVmaze show page, live page of 2026-11-10)
+
+- https://www.tvmaze.com/shows/15041/brotherhood-final-fantasy-xv -- BROTHERHOOD FINAL FANTASY XV, TVmaze show id 15041, type Animation, status Ended, web channel Crunchyroll (2016), Wednesdays, Japanese, runtime 12 min, genres Action, Anime and Fantasy, 5 episodes in season 1 (episodes 3 to 5 shown: "Sword and Shield" 2016-07-07, "Bittersweet Memories" 2016-08-17, "The Warmth of Light" 2016-09-18), official site www.crunchyroll.com/brotherhood-final-fantasy-xv, cast Tatsuhisa Suzuki, Mamoru Miyano, Tetsuya Kakihara, Kenta Miyake, Rina Kitagawa, Tsutomu Isobe, Makoto Koichi; no external ids or rating shown -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
