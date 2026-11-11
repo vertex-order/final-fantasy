@@ -53,6 +53,10 @@ netflix.com (Streaming)
 
 - https://www.themoviedb.org/tv/73659-final-fantasy-xiv-dad-of-light -- Final Fantasy XIV: Dad of Light, original title ファイナルファンタジーXIV 光のお父さん, 2017, 1 season of 8 episodes (only episode 8, "Aru-chan's Eternal Bond", is titled on the page), season 1 premiere 2017-04-17, episode 8 dated 2017-09-01, TV-PG, status Ended, type Miniseries, networks TBS and MBS, original language Japanese, genres Drama and Family, keywords video game, friendship, miniseries, illness, gaming, father son relationship, cast Yudai Chiba (Inaba Akio), Ren Osugi (Inaba Hirotarou), Fumika Baba, Hatsunori Hasegawa, Mako Ishino; season 1 score 83%, no show-level score; links a Netflix title page; TMDB id 73659 -- accessed 2026-11-10; archived: TODO
 
+## thetvdb.com (Information; TheTVDB page, live page of 2026-11-10)
+
+- https://www.thetvdb.com/series/final-fantasy-xiv-daddy-of-light -- ファイナルファンタジーXIV 光のお父さん, TVDB series id 330789, aliases Fainaru fantajî XIV: Hikari no otousan and Final Fantasy XIV - Daddy of Light, aired 2017-04-17 to 2017-06-01, status Ended, network TBS (JP), Mondays, Japan, Japanese, average runtime 25 minutes, genres Drama, Family and Mini-Series, sub-genre Based on a True Story; aired order 8 episodes in season 1 and 1 special (2017-06); cast Ren Osugi, Yudai Chiba, Mako Ishino, Fumika Baba, Yoshihiko Hakamada; official site a Netflix page (netflix.com/mx/title/80178543); IMDb tt6497076, TMDB 73659; no rating shown -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - Netflix subtitle and dub languages, any VAP disc release: not found

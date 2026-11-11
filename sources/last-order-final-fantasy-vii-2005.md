@@ -51,4 +51,8 @@
 
 - https://www.themoviedb.org/movie/13274-vii -- Final Fantasy VII: Last Order, original title ラストオーダー -ファイナルファンタジーVII-, 2005, 25m, released 2005-09-14 (JP), original language Japanese, genres Action, Adventure, Animation, Fantasy, Science Fiction and Drama, keywords based on video game, anime and original video animation (OVA), directors Morio Asaka and Tetsuya Nomura, writers Kazushige Nojima and Kazuhiko Inukai, cast Kenichi Suzumura (Zack), Toshiyuki Morikawa (Sephiroth), Takahiro Sakurai (Cloud Strife), Ayumi Ito (Tifa Lockhart); homepage a Square Enix DVD page; user score not shown; TMDB id 13274 -- accessed 2026-11-10; archived: TODO
 
+## thetvdb.com (Information; TheTVDB page, live page of 2026-11-10)
+
+- https://www.thetvdb.com/movies/last-order-final-fantasy-vii -- Final Fantasy VII: Last Order, TVDB movie id 13475, worldwide release 2005-09-13 (the only date shown), 25 minutes, PG-13 (US), original language English with Japanese spoken, country Japan, genres Action, Adventure and Animation, companies Madhouse and Square Enix, director Morio Asaka, 8 voice cast (Takahiro Sakurai, Ayumi Ito, Kenichi Suzumura, Toshiyuki Morikawa and others); overview: the OVA, narrated by Tseng, alternates between the Nibelheim incident and Zack Fair's escape to Midgar with an unconscious Cloud; IMDb tt0489134, TMDB 13274; no rating shown -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

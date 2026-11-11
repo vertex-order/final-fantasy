@@ -166,4 +166,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantas
 
 - https://www.themoviedb.org/movie/1225938-final-fantasy-vii-dirge-of-cerberus -- listed as a movie: Final Fantasy VII: Dirge of Cerberus, 2006, released 2006-08-15 (US), original language English, genres Animation, Action and Fantasy, director Takayoshi Nakazato (shown as Nakazato Takayoshi), writer Hideki Chiba, voice cast Steve Blum (Vincent Valentine), Kari Wahlgren, Kim Mai Guest, Jamieson Price, Greg Ellis, David Boat, Mary Elizabeth McGlynn, Mike Rock, Steve Burton; no runtime shown; overview: Vincent Valentine is targeted by Deepground, which wants to awaken Omega; TMDB id 1225938 -- accessed 2026-11-10; archived: TODO
 
+## thetvdb.com (Information; TheTVDB page, live page of 2026-11-10)
+
+- https://www.thetvdb.com/movies/final-fantasy-vii-dirge-of-cerberus -- listed as a movie: Final Fantasy VII: Dirge of Cerberus, TVDB movie id 40245, worldwide release 2006-01-26, genre Animation, original country Japan, original language English, 52 voice cast (Steve Blum as Vincent Valentine, Steve Burton as Cloud Strife, Rachael Leigh Cook as Tifa Lockhart, Mae Whitman, Beau Billingslea, Kari Wahlgren, Greg Ellis), no crew, runtime, overview or companies; IMDb tt0481507, no TMDB id shown; the page describes the work as a film -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

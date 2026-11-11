@@ -92,4 +92,8 @@ rottentomatoes.com (Ratings)
 - https://www.themoviedb.org/movie/647-final-fantasy-vii-advent-children -- Final Fantasy VII: Advent Children, 2005, 1h 41m, PG-13, released 2005-10-20 (CA; the only release date shown), original language Japanese, genres Animation, Action, Adventure, Fantasy and Science Fiction, keywords include based on video game and anime, director and characters Tetsuya Nomura, writer Kazushige Nojima, cast Takahiro Sakurai, Ayumi Ito, Showtaro Morikubo, Maaya Sakamoto; user score not shown; Canada watch link to Sony Pictures Core Amazon Channel; TMDB id 647 -- accessed 2026-11-10; archived: TODO
 - https://www.themoviedb.org/movie/1123354-reminiscence-of-final-fantasy-vii -- Reminiscence of Final Fantasy VII, 2005, released 2005-09-14 (JP), original language Japanese, genre Animation, director Yoji Shimizu, cast Yumi Kakazu (Yuffie Kisaragi), Masahiro Kobayashi (Barrett Wallace), Takahiro Sakurai (Cloud Strife), Kazuyuki Yama (Cid Highwind); no English overview, no runtime shown; TMDB id 1123354 -- accessed 2026-11-10; archived: TODO
 
+## thetvdb.com (Information; TheTVDB page, live page of 2026-11-10)
+
+- https://www.thetvdb.com/movies/final-fantasy-vii-advent-children -- Final Fantasy VII: Advent Children, TVDB movie id 3969, alias Final Fantasy 7: Advent Children, worldwide release 2005-07-14 (the only date shown), 126 minutes, original language English with Japanese spoken, country Japan, genres Action, Adventure, Animation and Fantasy, company Square Enix, official site na.square-enix.com/ff7acc/, 14 voice cast (Takahiro Sakurai, Ayumi Ito, Maaya Sakamoto, Shoutarou Morikubo and others), no crew; IMDb tt0385700, TMDB 647; no rating shown -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

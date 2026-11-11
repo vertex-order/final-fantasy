@@ -123,4 +123,8 @@ goodreads.com (Information)
 
 - https://www.themoviedb.org/movie/59300 -- Final Fantasy VII: On the Way to a Smile - Episode Denzel, original title デンゼルを中心としたオリジナルアニメ, 2009, 28m, PG-13, released 2009-04-16 (JP), original language Japanese, genres Animation and Fantasy, keyword based on video game, director Shinji Ishihira, screenplay Akio Ofuji, cast Kazumu Izawa (Denzel), Banjo Ginga (Reeve Tuesti), Yasuyuki Kase, Yoshimitsu Shimoyama, Takako Honda; TMDB id 59300 -- accessed 2026-11-10; archived: TODO
 
+## thetvdb.com (Information; TheTVDB page, live page of 2026-11-10)
+
+- https://www.thetvdb.com/movies/final-fantasy-vii-on-the-way-to-a-smile-episode-denzel -- Final Fantasy VII: On the Way to a Smile - Episode: Denzel, TVDB movie id 27939, worldwide release 2009-04-16 (the only date shown), 28 minutes, PG-13 (US), movie type Short, original language English with Japanese spoken, country Japan, genres Animation and Fantasy, companies A-1 Pictures and Square Enix, crew Shinji Ishihira (roles not labeled), cast Takahiro Sakurai (Cloud Strife), Ayumi Ito (Tifa Lockhart), Banjou Ginga (Reeve Tuesti); IMDb tt1980204, TMDB 59300; no rating shown -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

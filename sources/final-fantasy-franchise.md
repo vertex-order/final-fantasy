@@ -1335,6 +1335,10 @@
 
 - https://www.themoviedb.org/search?query=final%20fantasy -- TMDB search for "final fantasy" (address pattern https://www.themoviedb.org/search?query=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
 
+## thetvdb.com (Information; TheTVDB search)
+
+- https://www.thetvdb.com/search?query=final+fantasy -- TheTVDB search for "final fantasy" (address pattern https://www.thetvdb.com/search?query=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
+
 ## igdb.com (Information; IGDB company page and searches)
 
 - https://www.igdb.com/companies/square -- IGDB company page for Square (video game publisher, Japan); Developed 72 and Published 116 games; 139 game cards on 3 saved pages (title, year, platforms, type label with the parent game) -- live pages of 2026-11-03 (the saved pages do not record their address), visited and audited; archived: TODO

@@ -33,6 +33,10 @@ imdb.com (Ratings)
 
 - https://www.themoviedb.org/movie/611424-xiv -- Brave Father Online - Our Story of Final Fantasy XIV, original title 劇場版 ファイナルファンタジーXIV 光のお父さん, 2019, 1h 54m, released 2019-07-20 (CA; the only release date shown), original language Japanese, genres Drama, Comedy and Family, keywords based on true story, illness, gaming, father son relationship, directors Teruo Noguchi and Kiyoshi Yamamoto, screenplay Kota Fukihara, cast Kentaro Sakaguchi (Iwamoto Akio), Kotaro Yoshida, Kiara Minegishi, Yui Sakuma; Crunchyroll shown as Now Streaming; TMDB id 611424 -- accessed 2026-11-10; archived: TODO
 
+## thetvdb.com (Information; TheTVDB page, live page of 2026-11-10)
+
+- https://www.thetvdb.com/movies/brave-father-online-our-story-of-final-fantasy-xiv -- 劇場版 ファイナルファンタジーXIV 光のお父さん, TVDB movie id 131752, aliases 劇場版 FFXIV 光のお父さん, 劇場版ファイナルファンタジーXIV 光のお父さん and Final Fantasy XIV: Hikari no Otousan, Japan release 2019-06-21 (the only date shown), 114 minutes, original language Japanese, country Japan, genres Drama and Family, official site gaga.ne.jp, cast Kentaro Sakaguchi (Akio) and Kotaro Yoshida (Akira), no companies or crew; IMDb tt10551160, TMDB 611424; no rating shown -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - Disc release, other streaming services: not found

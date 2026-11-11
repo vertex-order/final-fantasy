@@ -59,4 +59,8 @@
 
 - https://www.themoviedb.org/tv/66987-brotherhood-final-fantasy-xv -- Brotherhood: Final Fantasy XV, original title ブラザーフッド ファイナルファンタジーXV, 2016, 1 season of 5 episodes (only episode 5, "The Warmth of Light", is titled on the page), aired 2016-03-30 to 2016-09-17, status Ended, type Video, networks Crunchyroll and YouTube, original language Japanese, genres Action & Adventure, Animation and Sci-Fi & Fantasy, keywords based on video game, anime, adaptation, original net animation (ONA), voice cast Tatsuhisa Suzuki (Noctis), Mamoru Miyano (Ignis), Kenta Miyake (Gladiolus), Tetsuya Kakihara and Akio Kaneda (Prompto), Rina Kitagawa (Lunafreya); no user score; TMDB id 66987 -- accessed 2026-11-10; archived: TODO
 
+## thetvdb.com (Information; TheTVDB page, live page of 2026-11-10)
+
+- https://www.thetvdb.com/series/brotherhood-final-fantasy-xv -- Brotherhood Final Fantasy XV, TVDB series id 313185, aired 2016-03-30 to 2019-02-16, status Ended, network YouTube, Japan, Japanese, average runtime 14 minutes, genres Action, Adventure, Animation, Anime, Fantasy and Science Fiction; overview: a five-part prequel web anime following Noctis from childhood to the start of the game; aired order 5 episodes in season 1 (2016-03 to 2016-09) and 3 specials (2016-08 to 2019-02); director Soichi Masui, writer Yuniko Ayana (1 episode), cast Tatsuhisa Suzuki, Mamoru Miyano, Tetsuya Kakihara, Kenta Miyake, Rina Kitagawa; IMDb tt5595178, TMDB 66987; no rating shown -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

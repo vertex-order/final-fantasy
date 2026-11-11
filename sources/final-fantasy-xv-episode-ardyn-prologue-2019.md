@@ -52,5 +52,9 @@
 
 - https://www.themoviedb.org/movie/844390-xv -- Final Fantasy XV: Episode Ardyn - Prologue, original title ファイナルファンタジーXVエピソードアルディン - プロローグ, 2019, 15m, PG12, released 2019-02-16 (JP; the only release date shown), original language Japanese, genres Animation and Fantasy, director spelled "Takefumi Terda" on the page, cast Daisuke Namikawa, Keiji Fujiwara, Kazuhiko Inoue, Saori Seto; the page lists the writer as missing; TMDB id 844390 -- accessed 2026-11-10; archived: TODO
 
+## thetvdb.com (Information; TheTVDB page, live page of 2026-11-10)
+
+- https://www.thetvdb.com/movies/final-fantasy-xv-episode-ardyn-prologue -- Final Fantasy XV: Episode Ardyn - Prologue, TVDB movie id 140022, Japan release 2019-02-17 (the only date shown), 13 minutes, original language Japanese, country Japan, genres Action, Adventure, Anime and Fantasy, voice cast Keiji Fujiwara (Ardyn Lucis Caelum), Daisuke Namikawa (Somnus Lucis Caelum), Saori Seto (Aera Mils Fleuret), Kazuhiko Inoue (Gilgamesh); no companies or crew shown; IMDb tt9860590, TMDB 844390; no rating shown -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 - The `Free` tag was added (user, 2026-10-17): the episode is free on YouTube with English subtitles; the platform row already links the official video directly
