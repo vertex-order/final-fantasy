@@ -149,4 +149,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル#関連項目 -- listed under the series as 小さな王様と約束の国, a download-only game for WiiWare, a story that comes right after the original -- accessed 2026-11-09 (revision 111104657 of 2026-09-22; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Crystal Chronicles: My Life as a King: WiiWare, 2008-03-25, region JP
+  - Final Fantasy Crystal Chronicles: My Life as a King: WiiWare, 2008-05-12, region NA
+  - Final Fantasy Crystal Chronicles: My Life as a King: WiiWare, 2008-05-20, region EU, AUS
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Crystal Chronicles: My Life as a King: WiiWare, 2008-03-25, region JP, NA, EU
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - FF Crystal Chronicles: My Life as a King: WiiWare, 2008-03-25, score 46.8%
+
 ## Decisions

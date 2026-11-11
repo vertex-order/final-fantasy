@@ -494,6 +494,54 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure#Externa
 
 - https://www.co-optimus.com/game/5768/nintendo-switch/collection-of-mana.html -- Nintendo Switch, Collection of Mana (contains Final Fantasy Adventure): co-op only in Secret of Mana and Trials of Mana, both out of scope; Final Fantasy Adventure has none -- accessed 2026-11-10; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Adventure: Mobile Phone (SoftBank), 2006-08-16, region JP
+  - Final Fantasy Adventure: Mobile Phone (i-mode), 2006-11-06, region JP
+  - Final Fantasy Adventure: Mobile Phone (EZWeb), 2007-02-05, region JP
+  - Adventures of Mana: Android, 2016-02-04, region International
+  - Adventures of Mana: Apple iOS, 2016-02-04, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Adventure (Final Fantasy Gaiden): Game Boy, 1991-06-08, region JP
+  - Final Fantasy Adventure: Game Boy, 1991-11-01, region NA
+  - Final Fantasy Adventure (Mystic Quest): Game Boy, 1993-02-15, region EU
+  - Final Fantasy Adventure Re-release: Game Boy Color, 1998-04-15, region NA
+  - Sword of Mana (Final Fantasy Adventure Remake): Game Boy Advance, 2003-08-29, region JP
+  - Sword of Mana (Final Fantasy Adventure Remake): Game Boy Advance, 2003-12-01, region NA
+  - Sword of Mana (Final Fantasy Adventure Remake): Game Boy Advance, 2004-03-18, region EU
+  - Final Fantasy Adventure: Mobile Phone (SoftBank), 2006-08-16, region JP
+  - Final Fantasy Adventure: Mobile Phone (i-mode), 2006-11-06, region JP
+  - Final Fantasy Adventure: Mobile Phone (EZWeb), 2007-02-05, region JP
+  - Adventures of Mana: Android, 2016-02-04, region International
+  - Adventures of Mana: Apple iOS, 2016-02-04, region International
+  - Adventures of Mana: PS Vita, 2016-02-04, region JP
+  - Adventures of Mana: PS Vita, 2016-06-28, region NA, EU
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Adventures of Mana: PS Vita, 2016-02-04, region JP, NA, EU
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Seiken Densetsu: Final Fantasy Gaiden: Game Boy, 1991-06-08, region JP
+  - Final Fantasy Adventure: Game Boy, 1991-11-01, region NA
+  - Final Fantasy Adventure (Mystic Quest): Game Boy, 1993-02-15, region EU
+  - Final Fantasy Adventure Re-release: Game Boy Color, 1998-04-15, region NA
+  - Sword of Mana: Game Boy Advance, 2003-08-29, region JP, NA, EU
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Adventure: Game Boy, 1991-06-08, score 57.6%
+  - Sword of Mana: Game Boy Advance, 2003-08-29, score ---
+  - Adventures of Mana: Android / Apple iOS / Vita, 2016-02-04, score ---
+  - Collections of Mana: Nintendo Switch, 2019-09-27, score ---
+
+## thefinalfantasy.net (Information; Remakes and Re-releases page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/final-fantasy-adventure/remakes.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release dates shown: Jun. 8, 1991 (Game Boy), Nov. 1, 1991 (Game Boy); platforms Game Boy, Game Boy Color, Game Boy Advance, Mobile Phone, Android, Apple iOS, PS Vita
+  - Names: Final Fantasy Adventure (North American title, 1991), Seiken Densetsu: Final Fantasy Gaiden (Japan), Mystic Quest (Europe); first game of the Mana series
+  - Sword of Mana: 2003 Game Boy Advance remake in North America and Europe (Japan: Legend of the Sacred Sword: The New Testament); parallel hero and heroine stories (the page's text also calls it Legend of Mana)
+  - Adventures of Mana: 2016 PS Vita, Apple iOS and Android remake, worldwide; producer Masaru Oyamada, for the Mana series' 25th anniversary
+
 ## Decisions
 
 - Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results

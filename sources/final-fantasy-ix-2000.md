@@ -649,4 +649,42 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX#External_links
 
 - https://www.imdb.com/title/tt0249510/ -- IMDb title page for Final Fantasy IX, IMDb id tt0249510, original title Fainaru fantajî IX, type Video Game, year 2000, release date 2000-07-07, certificate 11+, genres Action, Adventure, Fantasy, rating 8.8 from 5,914 votes, production status Released; plot: When bandits try to kidnap the princess, they discover that it's the princess who wants to be kidnapped. But they are chased by an evil queen and an even more powerful entity. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IX [9]: Apple iOS, 2016-02-16, region International
+  - Final Fantasy IX [9]: Android, 2016-02-16, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IX [9]: PlayStation, 2000-07-07, region JP
+  - Final Fantasy IX [9]: PlayStation, 2000-11-14, region NA
+  - Final Fantasy IX [9]: PlayStation, 2001-02-16, region EU, AUS
+  - Final Fantasy IX [9]: PlayStation Network, 2010-05-20, region JP
+  - Final Fantasy IX [9]: PlayStation Network, 2010-05-26, region EU, AUS
+  - Final Fantasy IX [9]: PlayStation Network, 2010-06-15, region NA
+  - Final Fantasy IX [9]: Apple iOS, 2016-02-16, region International
+  - Final Fantasy IX [9]: Android, 2016-02-16, region International
+  - Final Fantasy IX [9]: PC (Steam), 2016-04-14, region International
+  - Final Fantasy IX [9] Remastered: Xbox One (Download), 2019-02-13, region International
+  - Final Fantasy IX [9] Remastered: Nintendo Switch, 2019-02-13, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IX [9]: PlayStation, 2000-07-07, region JP, NA, EU
+  - Final Fantasy IX [9]: PlayStation Network, 2010-05-20, region JP, NA, EU, AUS
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IX [9]: Microsoft Windows Steam (PC), 2016-04-14, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IX [9]: PlayStation, 2000-07-07, score 84.8%
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff9/ -- Final Fantasy IX overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IX [9]: PlayStation, JP 2000-07-07, US 2000-11-13
+  - Final Fantasy IX [9]: PlayStation Network, JP 2010-05-20, US 2010-06-15
+  - Final Fantasy IX [9]: Apple iOS, JP 2016-02-16, US 2016-02-16
+  - Final Fantasy IX [9]: Android, JP 2016-02-16, US 2016-02-16
+  - Final Fantasy IX [9]: Microsoft Windows Steam (PC), JP 2016-04-14, US 2016-04-14
+  - Final Fantasy IX [9] Remastered: Nintendo Switch / Xbox One, JP 2021-02-13, US 2021-02-13
+
 ## Decisions

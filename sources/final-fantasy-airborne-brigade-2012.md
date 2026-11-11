@@ -187,4 +187,14 @@ Korean version (Daum Mobage):
 Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Airborne_Brigade#External_links
   - http://www.square-enix.co.jp/mobile/etc/ff_b/ -- Official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Airborne Brigade: Apple iOS, 2012-01-06, region JP
+  - Final Fantasy Airborne Brigade: Android, 2012-01-06, region JP
+  - Final Fantasy Airborne Brigade: Apple iOS, 2012-08-01, region Korea
+  - Final Fantasy Airborne Brigade: Android, 2012-08-01, region Korea
+  - Final Fantasy Airborne Brigade: Apple iOS, 2012-12-14, region NA
+  - Final Fantasy Airborne Brigade: Android, 2012-12-14, region NA
+
 ## Decisions

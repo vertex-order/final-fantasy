@@ -207,4 +207,29 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Dimensions#Extern
   - https://itunes.apple.com/us/app/final-fantasy-dimensions/id540992837?mt=8 -- iTunes Store Purchase Page -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp&feature=more_from_developer#?t=W251bGwsMSwxLDEwMiwiY29tLnNxdWFyZV9lbml4LmFuZHJvaWRfZ29vZ2xlcGxheS5mZmxfZ3AiXQ.. -- Google Play Purchase Page -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Dimensions: Mobile Phone (FOMA), 2010-09-06, region JP
+  - Final Fantasy Dimensions: Mobile Phone (AU), 2010-12-09, region JP
+  - Final Fantasy Dimensions: Apple iOS, 2012-08-31, region International
+  - Final Fantasy Dimensions: Android, 2012-08-31, region JP, International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Dimensions: Mobile Phone (FOMA), 2010-09-06, region JP
+  - Final Fantasy Dimensions: Mobile Phone (AU), 2010-12-09, region JP
+  - Final Fantasy Dimensions: Apple iOS, 2012-08-31, region International
+  - Final Fantasy Dimensions: Android, 2012-08-31, region JP
+  - Final Fantasy Dimensions: Android, 2012-12-21, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Dimensions: Android / Apple iOS, 2012-08-31, score 53.0%
+
+## thefinalfantasy.net (Information; Final Fantasy Dimensions series page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/final-fantasy-dimensions/series.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release dates shown: Sep. 5, 2010 (Mobile Phone), Aug. 31, 2012 (Apple iOS); developer Matrix Software, Square Enix; platforms Mobile Phone (JP), Apple iOS, Android
+  - The Dimensions metaseries holds two games: Final Fantasy Dimensions and Final Fantasy Legends: Toki no Suishō
+
 ## Decisions

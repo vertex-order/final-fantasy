@@ -115,6 +115,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_4_Heroes_of_
 
 - https://www.co-optimus.com/game/1587/nintendo-ds/final-fantasy-the-4-heroes-of-light.html -- DS: co-op for 4 players, system link; co-op* -- accessed 2026-11-10; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: The 4 Heroes of Light: Nintendo DS, 2009-10-29, region JP
+  - Final Fantasy: The 4 Heroes of Light: Nintendo DS, 2010-10-05, region NA
+  - Final Fantasy: The 4 Heroes of Light: Nintendo DS, 2010-10-08, region EU
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: The 4 Heroes of Light: Nintendo DS, 2009-10-29, region JP, NA, EU
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: The 4 Heroes of Light: Nintendo DS, 2010-10-05, score 41.0%
+
 ## Decisions
 - Bravely Default is the successor of this game (finalfantasywiki.com, https://finalfantasywiki.com/wiki/Final_Fantasy:_The_4_Heroes_of_Light), which the description says; Bravely Default, Bravely Second and Bravely Default II are not in scope for the Final Fantasy list (user, 2026-11-10)
 - Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E5%85%89%E3%81%AE4%E6%88%A6%E5%A3%AB_-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E5%A4%96%E4%BC%9D-#%E6%94%BB%E7%95%A5%E6%9C%AC)

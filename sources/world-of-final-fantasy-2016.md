@@ -402,5 +402,24 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/World_of_Final_Fantasy#External
 
 - https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89_%E3%82%AA%E3%83%96_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC#%E6%94%BB%E7%95%A5%E6%9C%AC -- two guides: V-Jump's First World Guide and the Official Complete Guide -- accessed 2026-11-10 (revision 110503103 of 2026-08-02; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - World of Final Fantasy: PlayStation 4, 2016-10-25, region NA
+  - World of Final Fantasy: PS Vita, 2016-10-25, region NA
+  - World of Final Fantasy: PlayStation 4, 2016-10-27, region JP
+  - World of Final Fantasy: PS Vita, 2016-10-27, region JP
+  - World of Final Fantasy: PlayStation 4, 2016-10-28, region EU
+  - World of Final Fantasy: PS Vita, 2016-10-28, region EU
+  - World of Final Fantasy: PC (Steam), 2017-11-21, region WW
+  - World of Final Fantasy Maxima: Nintendo Switch, 2018-11-06, region WW
+  - World of Final Fantasy Maxima: Xbox One, 2018-11-06, region WW
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - World of Final Fantasy: PlayStation 4, 2016-10-25, region NA, JP, EU
+  - World of Final Fantasy: PS Vita, 2016-10-25, region NA, JP, EU
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - World of Final Fantasy: PlayStation 4 / PS Vita, 2016-10-25, score ---
+  - World of Final Fantasy Maxima: Nintendo Switch / Xbox One, 2018-11-06, score ---
+
 ## Decisions
 - Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89_%E3%82%AA%E3%83%96_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC#%E6%94%BB%E7%95%A5%E6%9C%AC)

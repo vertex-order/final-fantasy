@@ -354,4 +354,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Stranger_of_Paradise_Final_Fant
 
 - https://www.co-optimus.com/game/10626/pc/stranger-of-paradise-final-fantasy-origin.html -- PC: co-op for 3 players, online; co-op* -- accessed 2026-11-10; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Stranger of Paradise: Final Fantasy Origin: PlayStation 4 / PlayStation 5 / PC (Steam), Xbox One, 2022-03-18, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Stranger of Paradise: Final Fantasy Origin: PlayStation 4 / PlayStation 5 / PC (Steam) / Xbox One, 2022-03-18, score ---
+
 ## Decisions

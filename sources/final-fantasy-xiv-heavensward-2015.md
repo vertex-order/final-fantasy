@@ -200,6 +200,32 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Heavensward#
 
 - https://www.imdb.com/title/tt4965546/ -- IMDb title page for Final Fantasy XIV: Heavensward, IMDb id tt4965546, type Video Game, year 2015, release date 2015-06-21, certificate 16, genres Action, Adventure, Drama, rating 8.3 from 332 votes, production status Released; plot: On the run after being framed for murder, the Warrior of Light flees to the Holy See of Ishgard, only to discover a conspiracy concerning the Dragonsong War, a long-running conflict between Ishgard and the dragons of Dravania. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Heavensward: Microsoft Windows (PC), 2015-06-23, region International
+  - Final Fantasy XIV [14]: Heavensward: PlayStation 3, 2015-06-23, region International
+  - Final Fantasy XIV [14]: Heavensward: PlayStation4 4, 2015-06-23, region International
+  - Final Fantasy XIV [14]: Heavensward: Apple OS X (Mac), 2015-06-23, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Heavensward: PlayStation 3, 2015-06-23, region International
+  - Final Fantasy XIV [14]: Heavensward: PlayStation 4, 2015-06-23, region International
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Heavensward: Microsoft Windows (PC), 2015-06-23, region International
+  - Final Fantasy XIV [14]: Heavensward: Apple OS X (Mac), 2015-06-23, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Heavensward: PlayStation 3 and 4 / Mac / PC, 2015-06-23, score ---
+
+## thefinalfantasy.net (Information; Expansions and Patches page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff14-a-realm-reborn/expansions.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Heavensward: first expansion, released June 23, 2015; level cap 60, Au Ra race
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff14-a-realm-reborn/ -- Final Fantasy XIV: A Realm Reborn overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Heavensward: PS3 / PS4 / PC / Mac, JP 2015-06-23, US 2015-06-23
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

@@ -598,4 +598,58 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X#External_links
 
 - https://www.imdb.com/title/tt0284110/ -- IMDb title page for Final Fantasy X, IMDb id tt0284110, original title Fainaru fantajî X, type Video Game, year 2001, release date 2002-05-24, certificate 12, genres Adventure, Fantasy, Romance, rating 9.1 from 9,205 votes, production status Released; plot: A celebrated young athlete is drawn from his futuristic hometown and convenient lifestyle to a harsh and techno-phobic land by a mysterious force only known as Sin. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy X [10]: PlayStation 2, 2001-07-19, region JP
+  - Final Fantasy X [10]: PlayStation 2, 2001-12-20, region NA
+  - Final Fantasy X [10] International: PlayStation 2, 2002-01-31, region JP
+  - Final Fantasy X [10]: PlayStation 2, 2002-05-17, region AUS
+  - Final Fantasy X [10]: PlayStation 2, 2002-05-24, region EU
+  - Final Fantasy X/X-2 Ultimate Box: PlayStation 2, 2005-09-09, region JP
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 3, 2013-03-18, region NA
+  - Final Fantasy X/X-2 HD Remaster: PS Vita, 2013-03-18, region NA
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 3, 2013-03-20, region AUS
+  - Final Fantasy X/X-2 HD Remaster: PS Vita, 2013-03-20, region AUS
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 3, 2013-03-21, region EU
+  - Final Fantasy X/X-2 HD Remaster: PS Vita, 2013-03-21, region EU
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 3, 2013-12-26, region JP
+  - Final Fantasy X/X-2 HD Remaster: PS Vita, 2013-12-26, region JP
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 4, 2015-05-12, region NA
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 4, 2015-05-14, region JP, AUS
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 4, 2015-05-15, region EU
+  - Final Fantasy X/X-2 HD Remaster: PC (Steam), 2016-05-12, region International
+  - Final Fantasy X/X-2 HD Remaster: Nintendo Switch, 2019-04-11, region JP
+  - Final Fantasy X/X-2 HD Remaster: Xbox One, 2019-04-11, region JP
+  - Final Fantasy X/X-2 HD Remaster: Nintendo Switch, 2019-04-16, region NA
+  - Final Fantasy X/X-2 HD Remaster: Xbox One, 2019-04-16, region NA
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy X [10]: PlayStation 2, 2001-07-19, region JP, NA, EU, AUS
+  - Final Fantasy X [10] International: PlayStation 2, 2002-01-31, region JP
+  - Final Fantasy X/X-2 Ultimate Box: PlayStation 2, 2005-09-09, region JP
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 3, 2013-12-26, region JP, NA, AUS, EU
+  - Final Fantasy X/X-2 HD Remaster: PS Vita, 2013-12-26, region JP, NA, AUS, EU
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 4, 2015-05-12, region NA, JP, AUS, EU
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy X/X-2 HD Remaster: Microsoft Windows Steam (PC), 2016-05-12, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy X [10]: PlayStation 2, 2001-07-19, score 89.2%
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff10/ -- Final Fantasy X overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy X [10]: PlayStation 2, JP 2001-07-19, US 2001-12-17
+  - Final Fantasy X [10] International: PlayStation 2, JP 2002-01-31, US -
+  - Final Fantasy X/X-2 Ultimate Box: PlayStation 2, JP 2005-09-09, US -
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 3/Vita, JP 2013-12-26, US 2014-03-18
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 4, JP 2015-05-14, US 2015-05-12
+  - Final Fantasy X/X-2 HD Remaster: Microsoft Windows Steam (PC), JP 2016-05-12, US 2016-05-12
+
+## thefinalfantasy.net (Information; FF10 Re-releases page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff10/re-releases.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - International: PlayStation 2, Japan only (the page says Jan. 1, 2002; the lists say 2002-01-31); the PAL and International version has an optional Expert Sphere Grid, dark aeons and the Penance fight; includes the bonus DVD Beyond Final Fantasy; the Japanese International also has the 14-minute video Eternal Calm
+  - Ultimate Box: PlayStation 2, Japan only, Sep. 9, 2005; a compilation of Final Fantasy X and X-2
+  - HD Remaster: PlayStation 3 and PS Vita Dec. 16, 2013 (Japan) and Mar. 18, 2014 (North America); later PlayStation 4 and Windows Steam (PC) worldwide in 2016 (the page's text); platforms PlayStation 2, 3, 4, PS Vita, PC; TFF review 03/2014
+
 ## Decisions

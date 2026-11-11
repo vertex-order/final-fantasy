@@ -86,4 +86,35 @@
 
 - https://www.imdb.com/title/tt5595168/ -- IMDb title page for Kingsglaive: Final Fantasy XV, IMDb id tt5595168, type Movie, year 2016, release date 2016-08-30, runtime 110 min, certificate 12, genres Animation, Action, Adventure, rating 6.7 from 24,597 votes; plot: King Regis, who oversees the land of Lucis, commands his army of soldiers to protect the kingdom from the Niflheim empire's plans to steal the sacred crystal which gives Lucis its magic and power. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Kingsglaive: Final Fantasy XV: Select Cinemas, 2016-07-09, region JP
+  - Kingsglaive: Final Fantasy XV: Select Cinemas, 2016-08-19, region NA
+  - Kingsglaive: Final Fantasy XV: Blu-ray, 2016-09-30, region International
+  - Kingsglaive: Final Fantasy XV: DVD, 2016-10-04, region International
+- https://thefinalfantasy.net/games/movies-film.html (movie and film releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Kingsglaive: Final Fantasy XV: Select Cinemas, 2016-07-09, region JP, NA
+  - Kingsglaive: Final Fantasy XV: Blu-ray, 2016-09-30, region International
+  - Kingsglaive: Final Fantasy XV: DVD, 2016-10-04, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Kingsglaive: Final Fantasy XV [15]: Blu-ray / DVD / Cinemas, 2016-07-09, score ---
+
+## thefinalfantasy.net (Information; FF15 Universe page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/ffxv-universe.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Full-length CG film told through King Regis; links: official movie website, trailer, iTunes, Amazon (Blu-ray)
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/ -- Final Fantasy XV overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Kingsglaive: Final Fantasy XV [15]: Select Cinemas, JP 2016-07-09, US 2016-08-19
+  - Kingsglaive: Final Fantasy XV [15]: Blu-ray, JP 2016-09-30, US 2016-09-30
+  - Kingsglaive: Final Fantasy XV [15]: DVD, JP 2016-10-04, US 2016-10-04
+
+## thefinalfantasy.net (Information; FF15 Game Editions page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/game-editions.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - The Deluxe Edition includes the Kingsglaive: Final Fantasy XV movie Blu-ray
+
 ## Decisions

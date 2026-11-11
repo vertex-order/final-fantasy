@@ -133,4 +133,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
 
 - https://www.co-optimus.com/game/512/nintendo-ds/final-fantasy-crystal-chronicles-ring-of-fates.html -- DS: co-op for 4 players, DS system link; co-op* -- accessed 2026-11-10; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Crystal Chronicles: Ring of Fates: Nintendo DS, 2007-08-23, region JP
+  - Final Fantasy Crystal Chronicles: Ring of Fates: Nintendo DS, 2008-03-11, region NA
+  - Final Fantasy Crystal Chronicles: Ring of Fates: Nintendo DS, 2008-03-20, region AUS
+  - Final Fantasy Crystal Chronicles: Ring of Fates: Nintendo DS, 2008-03-21, region EU
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Crystal Chronicles: Ring of Fates: Nintendo DS, 2007-08-23, region JP, NA, AUS, EU
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - FF Crystal Chronicles: Ring of Fates: Nintendo DS, 2007-08-23, score 52.0%
+
 ## Decisions

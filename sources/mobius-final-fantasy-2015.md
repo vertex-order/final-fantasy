@@ -192,4 +192,20 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Mobius_Final_Fantasy#External_l
 
 - https://breezewiki.com/finalfantasy/wiki/Mobius_Final_Fantasy#Voice_actors -- table of Japanese and English voice actors per character (Act I: Wol Nobunaga Shimazaki / Bryce Papenbrook, Echo Sakura Tange / Sarah Anne Williams, Cloud Takahiro Sakurai / Steve Burton, and others); proves Japanese and English voice -- accessed 2026-11-10 (revision 3991286 of 2026-02-16; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Mobius_Final_Fantasy#Voice_actors); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Mobius Final Fantasy: Apple iOS, 2015-06-04, region JP, International
+  - Mobius Final Fantasy: Android, 2015-06-04, region JP, International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Mobius Final Fantasy: Apple iOS, 2015-06-04, region JP
+  - Mobius Final Fantasy: Android, 2015-06-04, region JP
+  - Mobius Final Fantasy: Apple iOS, 2016-08-03, region International
+  - Mobius Final Fantasy: Android, 2016-08-03, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Mobius Final Fantasy: Android / Apple iOS, 2015-06-04, score ---
+
 ## Decisions

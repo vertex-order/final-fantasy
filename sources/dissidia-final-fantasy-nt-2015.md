@@ -364,4 +364,19 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
 - https://www.co-optimus.com/game/11311/playstation-4/dissidia-final-fantasy-nt.html -- PlayStation 4: co-op for 3 players, online; co-op* -- accessed 2026-11-10; archived: TODO
 - https://www.co-optimus.com/game/11309/pc/dissidia-final-fantasy-nt-free-edition.html -- PC, Free Edition: the same game as the PlayStation 4 page, same co-op facts -- accessed 2026-11-10; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dissidia Final Fantasy NT: Arcade, 2015-11-26, region JP
+  - Dissidia Final Fantasy NT: Playstation 4, 2018-01-11, region JP
+  - Dissidia Final Fantasy NT: Playstation 4, 2018-01-30, region Wordwide
+  - Dissidia Final Fantasy NT: PC (Steam), 2019-03-12, region Worldwide
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dissidia Final Fantasy NT: Playstation 4, 2018-01-11, region JP
+  - Dissidia Final Fantasy NT: Playstation 4, 2018-01-30, region International
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dissidia Final Fantasy NT: Arcade, 2015-11-26, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dissidia Final Fantasy NT: Playstation 4, 2018-01-11, score ---
+
 ## Decisions

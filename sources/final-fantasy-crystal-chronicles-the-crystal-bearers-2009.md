@@ -134,4 +134,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
 
 - https://www.co-optimus.com/game/1434/wii/final-fantasy-crystal-chronicles-the-crystal-bearers.html -- Wii: co-op for 2 players, local; co-op* -- accessed 2026-11-10; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Crystal Chronicles: The Crystal Bearers: Nintendo Wii, 2009-11-12, region JP
+  - Final Fantasy Crystal Chronicles: The Crystal Bearers: Nintendo Wii, 2009-12-26, region NA
+  - Final Fantasy Crystal Chronicles: The Crystal Bearers: Nintendo Wii, 2010-02-05, region EU, AUS
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Crystal Chronicles: The Crystal Bearers: Nintendo Wii, 2009-11-12, region JP, NA, PAL
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - FF Crystal Chronicles: The Crystal Bearers: Wii, 2009-11-12, score 48.2%
+
 ## Decisions

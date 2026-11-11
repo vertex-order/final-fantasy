@@ -206,4 +206,11 @@
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2#ファイナルファンタジーX-2_インターナショナル+ラストミッション -- the section on the International + Last Mission version: a minor-change edition based on the North American version of X-2; Last Mission is a dungeon-type RPG in a mode separate from the main story; the HD Remaster includes this version; audio only is in English while names and some expressions stay as in the Japanese version, with Japanese subtitles only (the HD Remaster has Japanese audio) -- accessed 2026-11-09 (revision 111104655 of 2026-09-22; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy X-2 [10-2] International + Last Mission: PlayStation 2, 2004-02-19, region JP
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy X-2 [10-2] International + Last Mission: PlayStation 2, 2004-02-19, region JP
+
 ## Decisions

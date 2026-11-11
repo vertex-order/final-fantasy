@@ -152,6 +152,29 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Stormblood#E
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E8%A9%95%E4%BE%A1 -- OpenCritic score of Stormblood: 88/100 (the section also lists Metacritic scores per expansion) -- accessed 2026-11-10 (revision 111720449 of 2026-11-10; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Stormblood: Microsoft Windows (PC), 2017-06-20, region International
+  - Final Fantasy XIV [14]: Stormblood: Apple OS X (Mac), 2017-06-20, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Stormblood: PlayStation 4, 2017-06-20, region International
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Stormblood: Microsoft Windows (PC), 2017-06-20, region International
+  - Final Fantasy XIV [14]: Stormblood: Apple OS X (Mac), 2017-06-20, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Stormblood: PlayStation 4 / Mac / PC, 2017-06-20, score ---
+
+## thefinalfantasy.net (Information; Expansions and Patches page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff14-a-realm-reborn/expansions.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Stormblood: second expansion; its release marks the end of PlayStation 3 support; the page gives no expansion date, only patch 4.1 on 2017-10-10
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff14-a-realm-reborn/ -- Final Fantasy XIV: A Realm Reborn overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Stormblood: PS4 / PC / Mac, JP 2017-06-20, US 2017-06-20
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

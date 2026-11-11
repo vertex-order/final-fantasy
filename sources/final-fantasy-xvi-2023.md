@@ -346,6 +346,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XVI#External_link
 
 - https://www.imdb.com/title/tt13103328/ -- IMDb title page for Final Fantasy XVI, IMDb id tt13103328, type Video Game, year 2023, release date 2023-06-22, certificate 18, genres Action, Adventure, Drama, rating 8.5 from 2,832 votes, production status Released; plot: As a malady known as the Blight ravages the land of Valisthea and its realms plunge into war, Clive Rosfield, the firstborn son of the Archduke of Rosaria, sets out on a dark, dangerous journey to revenge following a tragedy. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XVI [16]: PlayStation 5, 2023-08-07, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XVI [16]: Playstation 5, 2023-08-07, score *Unofficial
+
 ## Decisions
 - Not listed (assistant's call, pending the user's review): the art books and the lore book named in https://en.wikipedia.org/wiki/Final_Fantasy_XVI#Related_media; none is entertaining on its own (docs/data.md, "What belongs on a list")
   - The Art of Final Fantasy XVI — Square Enix, 2023 (Japan), 2024 (West)

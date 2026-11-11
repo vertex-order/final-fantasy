@@ -146,5 +146,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Awakening#Externa
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Awakening#Voice -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4021846 of 2026-07-13; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Awakening#Voice); archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Awakening: Android, 2016-12-14, region CH
+  - Final Fantasy Awakening: Apple iOS, 2016-12-14, region CH
+  - Final Fantasy Awakening: Android, 2018-02-18, region NA
+  - Final Fantasy Awakening: Apple iOS, 2018-02-18, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Awakening: Android, Apple iOS, 2016-12-14 (CH), score ---
+
 ## Decisions
 - Languages are done for now (user, 2026-10-21): the `…?` marker and `helpWanted` are removed. Open leads if wanted later: the OASIS English iOS listing (id1327210765, no working capture found), the PT/ES app (id1377048813, 404 captures) and the Korean store pages (no working captures); the languages are JA (voiced), EN, ID, KO, ZH-CN and ZH-TW

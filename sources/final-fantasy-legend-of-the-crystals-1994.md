@@ -84,6 +84,26 @@
 - https://www.fukkan.com/fk/VoteDetail?no=33222 -- reprint request no. 33222, registered 2006/03/26: Ｖジャンプブックス　アニメコミックス　ファイナルファンタジー前編　風の章　炎の章; author field スクウェア; publisher field 集英社; genre コミック・漫画; ISBN 9784088060040; 4 vote comments; the request calls it the film comic of the OVA set 200 years after Final Fantasy V
 - https://www.fukkan.com/fk/VoteDetail?no=33223 -- reprint request no. 33223, registered 2006/03/26: Ｖジャンプブックス　アニメコミックス　ファイナルファンタジー後編　竜の章　星の章; author field スクウェア; publisher field 集英社; genre コミック・漫画; ISBN 9784088060057; 2 vote comments; the request calls it the film comic of the OVA set 200 years after Final Fantasy V; a vote comment of 2006-03-26 says it is out of print
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Legend of the Crystals: VHS, 1994-03-21, region JP
+  - Final Fantasy Legend of the Crystals: VHS, 1997-06-15, region NA
+- https://thefinalfantasy.net/games/movies-film.html (movie and film releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Legend of the Crystals: VHS, 1994-03-21, region JP, NA
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Legend of the Crystals: Anime, 1994-03-21, score 53.2%
+
+## thefinalfantasy.net (Information; Overview page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff-legend-of-the-crystals/ -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Four 30-minute episodes on two VHS tapes (Wind, Fire, Dragon and Star chapters), Madhouse, director Rintaro; VHS 1994-03-21 (JP) and 1997-06-15 (US); set 200 years after Final Fantasy V
+
+## thefinalfantasy.net (Information; FF5 Re-releases page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff5/re-releases.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Described as an original video animation sequel to Final Fantasy V set two hundred years after the game; Madhouse; four 30-minute VHS tapes in Japan (1994); localized by Urban Vision in 1998 as two VHS volumes in North America
+
 ## Decisions
 
 - Episode parts (user, 2026-10-19): the four chapters are `contents` parts, for the planned per-part tracking

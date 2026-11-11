@@ -163,4 +163,22 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Dimensions_II#Ext
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC_%E3%83%AC%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%BA_%E6%99%82%E7%A9%BA%E3%83%8E%E6%B0%B4%E6%99%B6#%E6%A6%82%E8%A6%81 -- online and offline versions: the free-to-play version (in-app purchases) started service on 2015-02-12 as Final Fantasy Legends: Crystal of Space-Time (ファイナルファンタジー レジェンズ 時空ノ水晶), a descendant of the 2010 mobile spin-off Final Fantasy Legends: Warriors of Light and Darkness (Final Fantasy Dimensions), with the same staff (Takashi Tokita, Naoshi Mizuta, Matrix) and chaptered scenario, but a new world; renewed as Final Fantasy Legends II on 2016-11-10; on 2017-10-31 the online service ended, with the data downloadable and a paid download version without further purchases announced; from 2017-11-01 the paid offline version is distributed as Final Fantasy Legends II: Crystal of Space-Time (ファイナルファンタジー レジェンズII 時空ノ水晶), with the English version Final Fantasy Dimensions II released at the same time -- accessed 2026-11-10 (revision 110862973 of 2026-09-01; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Legends: Toki no Suishō: Apple iOS, 2015-02-12, region JP
+  - Final Fantasy Legends: Toki no Suishō: Android, 2015-02-12, region JP
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Dimensions II: Android, 2017-11-01, region Worldwide
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Dimensions II: Android / Apple iOS, 2017-11-01, score ---
+
+## thefinalfantasy.net (Information; Final Fantasy Dimensions series page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/final-fantasy-dimensions/series.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Legends: Toki no Suishō ("Crystal of Space-Time"): free-to-play, Android and Apple iOS, Japan only, Feb. 12, 2015; second installment of the Final Fantasy Legends series, known as Final Fantasy Dimensions outside Japan; Matrix Software, Square Enix; director said to be one of three who worked on Chrono Trigger
+
 ## Decisions

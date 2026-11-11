@@ -264,5 +264,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Explorers#Externa
 
 - https://www.co-optimus.com/game/5383/nintendo-3ds/final-fantasy-explorers.html -- Nintendo 3DS: co-op for 4 players, online or wireless LAN; co-op* -- accessed 2026-11-10; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Explorers: Nintendo 3DS, 2014-12-18, region JP
+  - Final Fantasy Explorers: Nintendo 3DS, 2016-01-26, region NA
+  - Final Fantasy Explorers: Nintendo 3DS, 2016-01-29, region EU
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Explorers: Nintendo 3DS, 2014-12-18, region JP, NA, EU
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Explorers: Nintendo 3DS, 2014-12-18, score ---
+
 ## Decisions
 - Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC_%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%BA#%E6%94%BB%E7%95%A5%E6%9C%AC)

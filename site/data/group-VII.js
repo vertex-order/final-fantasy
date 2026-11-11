@@ -933,6 +933,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
         { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
         { key: 'fan-playthrough', search: 'youtube' },
         { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'NTT DoCoMo i-mode' },
+        { key: 'mobile-phone', terminated: true, paren: "Amp'd Mobile; Verizon" },
       ],
       versions: [
         {

@@ -162,6 +162,20 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Shadowbringe
 
 - https://www.imdb.com/title/tt10588588/ -- IMDb title page for Final Fantasy XIV: Shadowbringers, IMDb id tt10588588, type Video Game, year 2019, release date 2019-07-02, certificate 16, genres Action, Adventure, Drama, rating 8.4 from 345 votes, production status Released; plot: The Warrior of Light and the Scions of the Seventh Dawn are transported to Norvrandt, a dying land on the First slowly being consumed by an ever-growing Light, where they must contend with its secrets and its terrifying threats. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Shadowbringers: PlayStation 4, 2019-07-02, region International
+  - Final Fantasy XIV [14]: Shadowbringers: Apple OS X (Mac), 2019-07-02, region International
+  - Final Fantasy XIV [14]: Shadowbringers: Microsoft Windows (PC), 2019-07-02, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Shadowbringers: PlayStation 4 / Mac / PC, 2019-07-02, score ---
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff14-a-realm-reborn/ -- Final Fantasy XIV: A Realm Reborn overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Shadowbringers: PS4 / PC / Mac, JP 2019-07-02, US 2019-07-02
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

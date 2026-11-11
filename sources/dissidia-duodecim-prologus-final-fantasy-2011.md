@@ -56,4 +56,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
 
 - https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B7%E3%83%87%E3%82%A3%E3%82%A2_%E3%83%87%E3%83%A5%E3%82%AA%E3%83%87%E3%82%B7%E3%83%A0_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC#%E8%A9%95%E4%BE%A1 -- Famitsu 38/40 (Platinum Hall of Fame, above the previous game's 36), Dengeki PlayStation Buyer's Guide S, Dengeki Games story 80, graphics 85, characters 90, sound 85, Dengeki PlayStation review 80, 85, 90, 85; selected for the Japan Game Awards 2010 Future division -- accessed 2026-11-10 (revision 110294865 of 2026-07-16; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dissidia 012 Final Fantasy: Sony PSP, 2011-03-03, region JP
+  - Dissidia 012 Final Fantasy: Sony PSP, 2011-03-22, region NA
+  - Dissidia 012 Final Fantasy: Sony PSP, 2011-03-25, region EU
+  - Dissidia 012 Final Fantasy: Sony PSP, 2011-03-25, region AUS
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dissidia 012 Final Fantasy: Sony PSP, 2011-03-03, region JP, NA, EU, AUS
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dissidia 012 Final Fantasy: Sony PSP, 2011-03-03, score 50.0%
+
 ## Decisions

@@ -567,4 +567,33 @@
 
 - https://www.co-optimus.com/game/10333/pc/final-fantasy-14-online.html -- PC: co-op for 8 players, online; co-op* -- accessed 2026-11-10; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: A Realm Reborn: Microsoft Windows (PC), 2013-08-27, region International
+  - Final Fantasy XIV [14]: A Realm Reborn: PlayStation 3, 2013-08-27, region International
+  - Final Fantasy XIV [14]: A Realm Reborn: PlayStation 4, 2014-04-14, region International
+  - Final Fantasy XIV [14]: A Realm Reborn: Apple OS X (Mac), 2015-06-23, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: A Realm Reborn: PlayStation 3, 2013-08-27, region International
+  - Final Fantasy XIV [14]: A Realm Reborn: PlayStation 4, 2014-04-14, region International
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: A Realm Reborn: Microsoft Windows (PC), 2013-08-27, region International
+  - Final Fantasy XIV [14]: A Realm Reborn: Apple OS X (Mac), 2015-06-23, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: A Realm Reborn: PlayStation 3 / PlayStation 4 / PC, 2013-08-27, score 73.0%
+
+## thefinalfantasy.net (Information; Expansions and Patches page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff14-a-realm-reborn/expansions.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release dates shown: Aug. 27, 2013 (PC/PS3); platforms PC, PlayStation 3, PlayStation 4, Mac
+  - Patch dates: 2.1 2013-12-16, 2.2 2014-03-27, 2.3 2014-07-08, 2.4 2014-10-28, 2.5 2015-01-20, 3.1 2015-11-10, 3.2 2016-02-23, 3.3 2016-06-07, 3.4 2016-09-28, 4.1 2017-10-10, 4.2 2018-01-30, 4.3 2018-05-22, 4.4 2018-09-18, 4.5 2019-01-08, 5.1 2019-10-29, 5.2 2020-02-18, 5.3 2020-08-11, 5.4 2020-12-08, 5.5 2021-04-13, 6.1 2022-04-12
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff14-a-realm-reborn/ -- Final Fantasy XIV: A Realm Reborn overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: A Realm Reborn: PC / PS3, JP 2013-08-27, US 2013-08-27
+  - Final Fantasy XIV [14]: A Realm Reborn: PS4, JP 2014-04-14, US 2014-04-14
+  - Final Fantasy XIV [14]: A Realm Reborn: Mac, JP 2015-06-23, US 2015-06-23
+
 ## Decisions

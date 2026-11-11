@@ -94,4 +94,14 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://breezewiki.com/finalfantasy/wiki/Triple_Triad#Fanmade -- the page is about the Triple Triad minigame in general (first in Final Fantasy VIII), not the Portal App; its Fanmade section: many free third-party internet versions of the game exist, often adding decks and rule sets; an unofficial port of the original Final Fantasy VIII version exists for Android phones (neither named); GL Triad, a fan-made Triple Triad game for Windows by Rich Whitehouse released in 2008, needs an ISO image of the first disc of Final Fantasy VIII (http://www.richwhitehouse.com/index.php?content=inc_projects.php&showcat=Games#prjmp8) -- accessed 2026-11-10 (revision 4003045 of 2026-04-14; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Triple_Triad#Fanmade); archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Portal App: Android, 2015-02-04, region JP
+  - Final Fantasy Portal App: Apple iOS, 2015-02-04, region JP
+  - Final Fantasy Portal App: Android, 2015-08-19, region JP
+  - Final Fantasy Portal App: Apple iOS, 2015-08-19, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Portal App: Android, Apple iOS, 2015-08-19, score ---
+
 ## Decisions

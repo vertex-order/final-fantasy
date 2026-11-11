@@ -294,6 +294,22 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Brave_Exvius#Exte
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC_%E3%83%96%E3%83%AC%E3%82%A4%E3%83%96%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%B4%E3%82%A3%E3%82%A2%E3%82%B9#%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB%E7%89%88 -- the stage musical "FINAL FANTASY BRAVE EXVIUS" THE MUSICAL (『「FINAL FANTASY BRAVE EXVIUS」THE MUSICAL』), planned for March 2020 in Tokyo and Hyogo and cancelled because of the COVID-19 pandemic; a performance without an audience was streamed on Niconico Live on the 12th instead and later sold as a DVD; script and direction Fumiya Matsuzaki, main theme Noriyasu Agematsu (Elements Garden), produced by Nelke Planning with Square Enix; cast: Rain (Aran Abe), Lasswell (Hiroki Nakata), Fina (Kanone Nanaki), Lid (Saho Aono), Nichol (Kohei Norizuki), Jake (Ryosuke Okada), Sakura (Sakina Kuwae) and others (no entry) -- accessed 2026-11-10 (revision 111630688 of 2026-11-03; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Brave Exvius: Apple iOS, 2015-10-22, region JP, International
+  - Final Fantasy: Brave Exvius: Android, 2015-10-22, region JP, International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Brave Exvius: Apple iOS, 2015-10-22, region JP
+  - Final Fantasy: Brave Exvius: Android, 2015-10-22, region JP
+  - Final Fantasy: Brave Exvius: Apple iOS, 2016-06-29, region International
+  - Final Fantasy: Brave Exvius: Android, 2016-06-29, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Brave Exvius: Android / Apple iOS, 2015-10-22, score ---
+
 ## Decisions
 - Brave Exvius Memorial Version not listed (user, 2026-10-20): the Japanese offline app released after the service ended is an archive and viewer (story, encyclopedias, galleries), not content, so the entry gets no Japanese or Memorial rows; same decision as the Libra Eorzea app (see final-fantasy-franchise.md Decisions)
 - Terminated platform rows link Wayback captures of their store pages

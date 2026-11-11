@@ -770,6 +770,50 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV#External_links
 
 - https://www.imdb.com/title/tt0960140/ -- IMDb title page for Final Fantasy XV, IMDb id tt0960140, type Video Game, year 2016, release date 2016-11-29, certificate 16, genres Action, Adventure, Drama, rating 7.9 from 4,545 votes, production status Released; plot: After leaving his home city of Insomnia, young prince Noctis embarks on a journey with his closest friends to reclaim his throne. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XV: Pocket Edition HD: Android, 2018-02-08, region ---
+  - Final Fantasy XV: Pocket Edition HD: Apple iOS, 2018-02-08, region ---
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XV [15]: PlayStation 4, 2016-11-29, region International
+  - Final Fantasy XV [15]: Xbox One, 2016-11-29, region International
+  - Final Fantasy XV: Pocket Edition HD: Android, 2018-02-18, region International
+  - Final Fantasy XV: Pocket Edition HD: Apple iOS, 2018-02-18, region International
+  - Final Fantasy XV: Pocket Edition HD: Microsoft Windows (PC), 2018-06-06, region International
+  - Final Fantasy XV: Pocket Edition HD: Xbox One (Download), 2018-09-07, region International
+  - Final Fantasy XV: Pocket Edition HD: Playstation 4 (Download), 2018-09-07, region International
+  - Final Fantasy XV: Pocket Edition HD: Nintendo Switch (eShop), 2018-09-13, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XV [15]: PlayStation 4, 2016-11-29, region International
+  - Final Fantasy XV: Pocket Edition HD: Playstation 4, 2018-09-07, region International
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XV: Pocket Edition HD: Nintendo Switch, 2018-09-13, region INT
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XV [15]: Xbox One, 2016-11-29, region International
+  - Final Fantasy XV [15]: Microsoft Windows Steam (PC), 2018-03-06, region International
+  - Final Fantasy XV: Pocket Edition HD: Microsoft Windows (PC), 2018-06-06, region International
+  - Final Fantasy XV: Pocket Edition HD: Xbox One (Download), 2018-09-07, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XV [15]: PlayStation 4 / Xbox One, 2016-11-29, score 85.6%
+  - Final Fantasy XV: Pocket Edition HD: Android / Apple iOS / Nintendo Switch / Playstation 4 / Xbox One, 2018-09-07, score ---
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/ -- Final Fantasy XV overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XV [15]: PlayStation 4, JP 2016-11-29, US 2016-11-29
+  - Final Fantasy XV [15]: Xbox One, JP 2016-11-29, US 2016-11-29
+  - Final Fantasy XV [15] Deluxe Edition: PlayStation 4, JP 2016-11-29, US 2016-11-29
+  - Final Fantasy XV [15] Deluxe Edition: Xbox One, JP 2016-11-29, US 2016-11-29
+
+## thefinalfantasy.net (Information; FF15 Game Editions page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/game-editions.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Four editions: Standard (game); Day One (game and Masamune DLC weapon; Square Enix Store pre-order adds a postcard set, GameStop or EB Games pre-order adds A King's Tale, PlayStation Store pre-order adds a car recolor, Angler Set and home screen theme); Deluxe (game, Amano steelbook, Kingsglaive Blu-ray, Royal Raiment costume, Leviathan Regalia skin, Masamune); Ultimate Collector's Edition (Square Enix Online Store only, around 30,000 units worldwide; Deluxe content, two-disc steelbook with the Blu-ray Disc Music and the Brotherhood Blu-ray with an additional bonus scene, Play Arts Kai Noctis figure)
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations

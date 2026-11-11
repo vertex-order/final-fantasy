@@ -152,4 +152,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
 - https://finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles#Sequels_and_spin-offs -- listed as a sequel to My Life as a King for the Nintendo Wii via WiiWare -- accessed 2026-11-09 (revision 4058577 of 2026-10-09; wikitext read through the Fandom API); archived: TODO
 Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicles#Sequels_and_spin-offs
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Crystal Chronicles: My Life as a Darklord: WiiWare, 2009-06-30, region JP
+  - Final Fantasy Crystal Chronicles: My Life as a Darklord: WiiWare, 2009-07-17, region EU, AUS
+  - Final Fantasy Crystal Chronicles: My Life as a Darklord: WiiWare, 2009-07-20, region NA
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Crystal Chronicles: My Life as a Darklord: WiiWare, 2009-06-30, region JP, EU, AUS, NA
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - FF Crystal Chronicles: My Life as a Darklord: WiiWare, 2009-06-30, score 44.8%
+
 ## Decisions

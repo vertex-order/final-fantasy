@@ -166,4 +166,30 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Before_Crisis_-Final_Fantasy_VI
 
 - https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%95%E3%82%A9%E3%82%A2_%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%B7%E3%82%B9_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII#%E8%A9%95%E4%BE%A1 -- 14th in the "feature phone game apps you want to play on current machines" ranking of Dengeki Online's 2025 G-MODE Archives 5.5th anniversary survey -- accessed 2026-11-10 (revision 110820110 of 2026-08-29; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Before Crisis: Final Fantasy VII: Mobile Phone (FOMA), 2004-09-24, region JP
+  - Before Crisis: Final Fantasy VII: Mobile Phone (Softbank), 2007-01-30, region JP
+  - Before Crisis: Final Fantasy VII: Mobile Phone (EZweb), 2007-04-05, region JP
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Before Crisis: Final Fantasy VII: Mobile Phone (FOMA), 2004-09-24, region JP
+  - Before Crisis: Final Fantasy VII: Mobile Phone (Softbank), 2007-01-30, region JP
+  - Before Crisis: Final Fantasy VII: Mobile Phone (EZweb), 2007-04-05, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Before Crisis: Final Fantasy VII [7]: Mobile Phone, 2004-09-24, score 57.2%
+
+## thefinalfantasy.net (Information; FF7 Compilation page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff7/re-releases.html -- Final Fantasy VII compilation page -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Prequel released on mobile phones in Japan on 2004-09-24
+
+## thefinalfantasy.net (Information; Overview page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff7-before-crisis/ -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release table (JP): FOMA 2004-09-24, Softbank 2007-01-30, EZweb 2007-04-05; offered only in Japan; announced for North America at E3 2006, not released; Hajime Tabata director; page last modified 2026-03-31
+
 ## Decisions

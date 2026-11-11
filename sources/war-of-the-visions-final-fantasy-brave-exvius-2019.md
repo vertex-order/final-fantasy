@@ -139,4 +139,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/War_of_the_Visions:_Final_Fanta
 
 - https://breezewiki.com/finalfantasy/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius#Voice_cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4014740 of 2026-06-18; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/War_of_the_Visions:_Final_Fantasy_Brave_Exvius#Voice_cast); archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - War of the Visions: Final Fantasy Brave Exvius: Android / Apple iOS, 2019-11-14, region JP
+  - War of the Visions: Final Fantasy Brave Exvius: Android / Apple iOS, 2020-03-25, region WW
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - War of the Visions: Final Fantasy Brave Exvius: Android / Apple iOS, 2019-11-14, score ---
+
 ## Decisions

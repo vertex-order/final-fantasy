@@ -163,6 +163,21 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Endwalker#Ex
 
 - https://www.imdb.com/title/tt13991580/ -- IMDb title page for Final Fantasy XIV: Endwalker, IMDb id tt13991580, type Video Game, year 2021, release date 2021-12-07, certificate 16, genres Action, Adventure, Drama, rating 8 from 302 votes, production status Released; plot: The Warrior of Light and Scions of the Seventh Dawn return from the First to their home on the Source, only to be faced with their most dangerous threat yet: a second coming of the Final Days that threatens to tear their world apart. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Endwalker: PlayStation 4, 2021-12-07, region International
+  - Final Fantasy XIV [14]: Endwalker: PlayStation 5, 2021-12-07, region International
+  - Final Fantasy XIV [14]: Endwalker: Apple OS X (Mac), 2021-12-07, region International
+  - Final Fantasy XIV [14]: Endwalker: Microsoft Windows (PC), 2021-12-07, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Endwalker: PlayStation 4 / Playstation 5 / Mac / PC, 2021-12-07, score ---
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff14-a-realm-reborn/ -- Final Fantasy XIV: A Realm Reborn overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Endwalker: PS4 / PC / Mac, JP 2021-12-07, US 2021-12-07
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

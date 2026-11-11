@@ -655,4 +655,50 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII#External_lin
 
 - https://www.imdb.com/title/tt0208156/ -- IMDb title page for Final Fantasy VIII, IMDb id tt0208156, original title Fainaru fantajî VIII, type Video Game, year 1999, release date 1999-10-27, certificate 12, genres Action, Adventure, Drama, rating 8.7 from 6,818 votes, production status Released; plot: A group of students at a military academy rescue a mysterious girl, who some say is the sorceress who wants to govern the universe. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VIII [8]: PlayStation, 1999-02-11, region JP
+  - Final Fantasy VIII [8]: Greatest Hits: PlayStation, 1999-08-31, region NA
+  - Final Fantasy VIII [8]: PlayStation, 1999-09-09, region NA
+  - Final Fantasy VIII [8]: PlayStation, 1999-10-27, region EU, AUS
+  - Final Fantasy VIII [8]: Microsoft Windows (PC), 2000-01-25, region NA
+  - Final Fantasy VIII [8]: Microsoft Windows (PC), 2000-02-18, region EU
+  - Final Fantasy VIII [8]: Microsoft Windows (PC), 2000-03-23, region JP
+  - Final Fantasy VIII [8]: Ultimate Hits: PlayStation, 2006-07-20, region JP
+  - Final Fantasy VIII [8]: PlayStation Network, 2009-09-24, region JP
+  - Final Fantasy VIII [8]: PlayStation Network, 2009-12-17, region NA
+  - Final Fantasy VIII [8]: PlayStation Network, 2010-02-04, region EU, AUS
+  - Final Fantasy VIII [8]: PC (Steam), 2013-12-05, region International
+  - Final Fantasy VIII [8] Remastered: Xbox One (Download), 2019-09-03, region International
+  - Final Fantasy VIII [8] Remastered: Nintendo Switch (eShop), 2019-09-03, region International
+  - Final Fantasy VIII [8] Remastered: Playstation 4 (Download), 2019-09-03, region International
+  - Final Fantasy VIII [8] Remastered: PC (Steam), 2019-09-03, region International
+  - Final Fantasy VII and VIII Remastered Twin Pack: Nintendo Switch, 2019-11-29, region International
+  - Final Fantasy VIII [8] Remastered: Android / Apple iOS, 2021-03-24, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VIII [8]: PlayStation, 1999-02-11, region JP, NA, EU, AUS
+  - Final Fantasy VIII [8]: Greatest Hits: PlayStation, 1999-08-31, region NA
+  - Final Fantasy VIII [8]: Ultimate Hits: PlayStation, 2006-07-20, region JP
+  - Final Fantasy VIII [8]: PlayStation Network, 2009-09-24, region JP, NA, EU, AUS
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VIII [8] Remastered: Nintendo Switch (eShop), 2019-09-03, region International
+  - Final Fantasy VII [7] and VIII [8] Remastered Twin Pack: Nintendo Switch, 2019-11-29, region International
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VIII [8]: Microsoft Windows (PC), 2000-01-25, region NA, EU, JP
+  - Final Fantasy VIII [8]: Microsoft Windows Steam (PC), 2013-12-05, region International
+  - Final Fantasy VIII [8] Remastered: Xbox One (Download), 2019-09-03, region International
+  - Final Fantasy VIII [8] Remastered: Microsoft Windows Steam (PC), 2019-09-03, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VIII [8]: PlayStation, 1999-02-11, score 88.2%
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff8/ -- Final Fantasy VIII overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VIII [8]: PlayStation, JP 1999-02-11, US 1999-09-09
+  - Final Fantasy VIII [8]: Microsoft Windows (PC), JP 2000-03-23, US 2000-01-25
+  - Final Fantasy VIII [8]: PlayStation Network, JP 2009-09-24, US 2009-12-17
+  - Final Fantasy VIII [8]: PC (Steam), JP 2013-12-05, US 2013-12-05
+  - Final Fantasy VIII [8] Remastered: Playstation 4 / Nintendo Switch / Xbox One / PC (Steam), JP 2019-09-03, US 2019-09-03
+
 ## Decisions

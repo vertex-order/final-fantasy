@@ -186,4 +186,18 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance#E
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance_Radio_Edition#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3575591 of 2022-01-05; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Tactics_Advance_Radio_Edition#Voice_cast); archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Tactics Advance: Game Boy Advance, 2003-02-14, region JP
+  - Final Fantasy Tactics Advance: Game Boy Advance, 2003-09-08, region NA
+  - Final Fantasy Tactics Advance: Game Boy Advance, 2003-10-24, region EU
+  - Final Fantasy Tactics Advance: Wii U Virtual Console, 2016-01-28, region NA, EU, AUS
+  - Final Fantasy Tactics Advance: Wii U Virtual Console, 2016-03-30, region JP
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Tactics Advance: Game Boy Advance, 2003-02-14, region JP, NA, EU
+  - Final Fantasy Tactics Advance: Wii U Virtual Console, 2016-01-28, region NA, EU, AUS, JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Tactics Advance: Game Boy Advance, 2003-02-14, score 69.0%
+
 ## Decisions

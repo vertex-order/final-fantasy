@@ -137,4 +137,24 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Agito#External_li
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Agito#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4021856 of 2026-07-13; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Agito#Voice_cast); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Agito: Android, 2014-05-14, region JP
+  - Final Fantasy Agito: Apple iOS, 2014-05-14, region JP
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Agito: Android, 2014-05-14, region JP
+  - Final Fantasy Agito: Apple iOS, 2014-05-14, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Agito: Android / Apple iOS, 2014-05-14, score ---
+
+## thefinalfantasy.net (Information; Final Fantasy Agito page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/final-fantasy-type-0/final-fantasy-agito.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Android and Apple iOS, Japan only, released May 14, 2014; title came from Type-0's earlier title Final Fantasy Agito XIII; shut down in November 2015; replaced by Final Fantasy Type-0 Online
+  - Free to download, paid episodes; turn-based battles; episodes by chapter: Chapter 0 to Final Chapter from May 15, 2014 to September 16, 2014 (seven episodes), then a second series from November 17, 2014 to June 17, 2015 (seven episodes)
+
 ## Decisions

@@ -37,4 +37,27 @@
   - Final Fantasy XV (2016) -- no card of its own on the saved pages; the parent of Platinum Demo: Final Fantasy XV (2016)
     - https://www.igdb.com/games/final-fantasy-xv -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Platinum Demo: Final Fantasy XV: PlayStation 4, 2016-03-30, region International
+  - Platinum Demo: Final Fantasy XV: Xbox One, 2016-03-30, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Platinum Demo: Final Fantasy XV: PlayStation 4, 2016-03-30, region International
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Platinum Demo: Final Fantasy XV: Xbox One, 2016-03-30, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Platinum Demo: Final Fantasy XV: PlayStation 4, 2016-03-30, score ---
+
+## thefinalfantasy.net (Information; FF15 Universe page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/ffxv-universe.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Free-to-download demo, original story with young Noctis; download links for Xbox One and PlayStation 4
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/ -- Final Fantasy XV overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Platinum Demo: Final Fantasy XV [15]: PlayStation 4, JP 2016-03-30, US 2016-03-30
+  - Platinum Demo: Final Fantasy XV [15]: Xbox One, JP 2016-03-30, US 2016-03-30
+
 ## Decisions

@@ -105,4 +105,28 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_Lost_Episode_
 
 - https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_Lost_Episode_-Final_Fantasy_VII-#Voice_Unit -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3968094 of 2025-11-01; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Dirge_of_Cerberus_Lost_Episode_-Final_Fantasy_VII-#Voice_Unit); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dirge of Cerberus Lost Episode: Final Fantasy VII: Mobile Phone (Amp'd, Verizon), 2006-08-22, region NA
+  - Dirge of Cerberus Lost Episode: Final Fantasy VII: Mobile Phone (DoCoMo), 2007-07-26, region JP
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dirge of Cerberus Lost Episode: Final Fantasy VII: Mobile Phone (Amp'd, Verizon), 2006-08-22, region NA
+  - Dirge of Cerberus Lost Episode: Final Fantasy VII: Mobile Phone (DoCoMo), 2007-07-26, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dirge of Cerberus Lost Episode: Final Fantasy VII [7]: Mobile Phone, 2006-08-22, score ---
+
+## thefinalfantasy.net (Information; FF7 Compilation page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff7/re-releases.html -- Final Fantasy VII compilation page -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Named as the mobile phone counterpart of Dirge of Cerberus
+
+## thefinalfantasy.net (Information; Lost Episode page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff7-dirge-of-cerberus/lost-episode.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Square Enix and Ideaworks3D; unveiled at E3 2006; released on mobile phones on August 22, 2006 in North America (Amp'd Mobile first, then Verizon's V Cast) and July 26, 2007 in Japan; flagship title for NTT DoCoMo's FOMA 903i at Tokyo Game Show 2006; single player at first, multiplayer added later
+
 ## Decisions

@@ -414,5 +414,23 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Type-0#External_l
 
 - https://www.co-optimus.com/game/8357/psp/final-fantasy-type-0.html -- PSP: co-op for 3 players, system link or LAN play (the page does not make clear which); co-op* -- accessed 2026-11-10; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Type-0: Sony PSP, 2011-10-27, region JP
+  - Final Fantasy Type-0 HD: PlayStation 4, 2015-03-17, region NA, JP, EU
+  - Final Fantasy Type-0 HD: Xbox One, 2015-03-17, region NA, JP, EU
+  - Final Fantasy Type-0 HD: PC (Steam), 2015-08-18, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Type-0: Sony PSP, 2011-10-27, region JP
+  - Final Fantasy Type-0 HD: PlayStation 4, 2015-03-17, region NA, JP, EU
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Type-0 HD: Xbox One, 2015-03-17, region NA, JP, EU
+  - Final Fantasy Type-0 HD: Microsoft Windows Steam (PC), 2015-08-18, region International
+  - Final Fantasy Type-0 Online: Microsoft Windows (PC), 2016, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Type-0: Sony PSP, 2011-10-27 (JP), score 51.6%
+  - Final Fantasy Type-0 HD: PlayStation 4 / Xbox One / PC, 2015-03-17, score 51.6%
+
 ## Decisions
 - Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E9%9B%B6%E5%BC%8F#%E6%94%BB%E7%95%A5%E6%9C%AC)

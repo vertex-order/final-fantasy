@@ -108,4 +108,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_A2:_Grimo
   - http://www.ffta2game.com/ -- Official European site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://member.square-enix.com/na/features/ffta2/ -- FFTA2 at Square Enix Members -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Tactics A2: Grimoire of the Rift: Nintendo DS, 2007-06-27, region EU
+  - Final Fantasy Tactics A2: Grimoire of the Rift: Nintendo DS, 2007-10-25, region JP
+  - Final Fantasy Tactics A2: Grimoire of the Rift: Nintendo DS, 2008-06-24, region NA
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Tactics A2: Grimoire of the Rift: Nintendo DS, 2007-10-25, region JP, NA, PAL
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - FF Tactics A2: Grimoire of the Rift: Nintendo DS, 2007-10-25, score 44.0%
+
 ## Decisions

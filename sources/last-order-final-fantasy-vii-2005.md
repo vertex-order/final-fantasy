@@ -63,4 +63,24 @@
 
 - https://myanimelist.net/anime/408/Final_Fantasy_VII__Last_Order -- Final Fantasy VII: Last Order, MyAnimeList id 408, Japanese title ラストオーダー -ファイナルファンタジーVII-, synonym Last Order: Final Fantasy VII, type Special, 1 episode of 25 min, aired 2005-09-14, producers Sony Pictures Entertainment and Square Enix, studio Madhouse, source Game, genres Action, Adventure, Drama, Fantasy and Sci-Fi, rating PG-13, score 7.29, popularity rank 3100, 69,055 members, 134 favourites -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Last Order: Final Fantasy VII: DVD, 2005-09-14, region JP
+  - Last Order: Final Fantasy VII: DVD, 2007-02-20, region NA
+- https://thefinalfantasy.net/games/movies-film.html (movie and film releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Last Order: Final Fantasy VII: DVD, 2005-09-14, region JP, NA
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Last Order: Final Fantasy VII [7]: DVD, 2005-09-14, score ---
+
+## thefinalfantasy.net (Information; FF7 Compilation page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff7/re-releases.html -- Final Fantasy VII compilation page -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Original animation of the destruction of Nibelheim; packaged with the limited Advent Children edition Advent Pieces, Japan 2005-09-14, North America 2007-02-06 (the page's dates)
+
+## thefinalfantasy.net (Information; Last Order page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff7/last-order.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Released in Japan on Sep. 14, 2005 and North America on Feb. 20, 2007; OVA by Square Enix and Madhouse, director Morio Asaka; released with Advent Pieces: Limited (77,777 copies, Japan) and in the Limited Edition Collector's Set of Advent Children in North America
+
 ## Decisions

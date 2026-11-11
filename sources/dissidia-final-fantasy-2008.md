@@ -221,4 +221,16 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
 
 - https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B7%E3%83%87%E3%82%A3%E3%82%A2_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC#%E8%A9%95%E4%BE%A1 -- Famitsu 36/40 (10, 9, 9, 8; Platinum Hall of Fame), Dengeki PlayStation 355/400 (90, 95, 85, 85) and Buyer's Guide A, Famitsu PSP+PS3 5/5 on five items after about 50 hours, Famitsu Users' Eye average 9.05 from 147 votes, Famitsu Awards 2008 Excellence Award, Japan Game Awards 2008 Future division -- accessed 2026-11-10 (revision 111444142 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dissidia Final Fantasy: Sony PSP, 2008-12-18, region JP
+  - Dissidia Final Fantasy: Sony PSP, 2009-08-25, region NA
+  - Dissidia Final Fantasy: Sony PSP, 2009-09-03, region EU
+  - Dissidia Final Fantasy: Sony PSP, 2009-09-04, region AUS
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dissidia Final Fantasy: Sony PSP, 2008-12-18, region JP, NA, AUS, EU
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dissidia Final Fantasy: Sony PSP, 2008-12-18, score 48.0%
+
 ## Decisions

@@ -1025,6 +1025,100 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#External_links
 
 - https://www.imdb.com/title/tt0207487/ -- IMDb title page for Final Fantasy IV, IMDb id tt0207487, original title Fainaru fantajî IV, type Video Game, year 1991, release date 1991-07-19, certificate Unrated, genres Action, Adventure, Fantasy, rating 8.3 from 2,060 votes, production status Released; plot: A dark knight questions the ruthless actions of his king and undergoes a quest to redeem himself and save the world. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IV [4]: Mobile Phone (FOMA), 2009-10-05, region JP
+  - Final Fantasy IV [4]: Apple iOS, 2012-12-20, region International
+  - Final Fantasy IV [4]: Android, 2013-06-04, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IV [4] [Hard Type]: Super Famicom, 1991-07-19, region JP
+  - Final Fantasy IV [4] [Easy Type]: Super Famicom, 1991-10-19, region JP
+  - Final Fantasy IV [4]: Super Nintendo, 1991-11-23, region NA
+  - Final Fantasy IV [4]: PlayStation, 1997-03-21, region JP
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, 1999-03-11, region JP
+  - Final Fantasy Anthology [4 & 5]: PlayStation, 2002-02-27, region EU, AUS
+  - Final Fantasy IV [4]: WonderSwan Color, 2002-03-29, region JP
+  - Final Fantasy IV [4] Advance: Game Boy Advance, 2005-12-12, region NA
+  - Final Fantasy IV [4] Advance: Game Boy Advance, 2005-12-15, region JP
+  - Final Fantasy IV [4] Advance: Game Boy Advance, 2006-02-23, region AUS
+  - Final Fantasy IV [4] Advance: Game Boy Advance, 2006-06-02, region EU
+  - Final Fantasy IV [4]: Nintendo DS, 2007-12-20, region JP
+  - Final Fantasy IV [4]: Nintendo DS, 2008-07-22, region NA
+  - Final Fantasy IV [4]: Nintendo DS, 2008-09-04, region EU
+  - Final Fantasy IV [4]: Nintendo DS, 2008-09-05, region AUS
+  - Final Fantasy IV [4]: Wii Virtual Console, 2009-08-04, region JP
+  - Final Fantasy IV [4]: Mobile Phone (FOMA 903i/703i), 2009-10-05, region JP
+  - Final Fantasy IV [4]: Wii Virtual Console, 2010-06-11, region EU, AUS
+  - Final Fantasy IV [4]: The Complete Collection: Sony PSP, 2011-03-24, region JP
+  - Final Fantasy IV [4]: The Complete Collection: Sony PSP, 2011-04-19, region NA
+  - Final Fantasy IV [4]: The Complete Collection: Sony PSP, 2011-04-21, region EU
+  - Final Fantasy IV [4]: PlayStation Network, 2011-04-22, region EU
+  - Final Fantasy IV [4]: The Complete Collection: Sony PSP, 2011-04-28, region AUS
+  - Final Fantasy Chronicles: PlayStation, 2011-06-29, region NA
+  - Final Fantasy IV [4]: Wii Virtual Console, 2012-03-08, region NA
+  - Final Fantasy IV [4]: Apple iOS, 2012-12-20, region International
+  - Final Fantasy IV [4]: Android, 2013-06-04, region International
+  - Final Fantasy IV [4]: PC (Steam), 2014-09-17, region International
+  - Final Fantasy IV [4]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2021-09-08, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IV [4]: PlayStation, 1997-03-21, region JP
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, 1999-03-11, region JP
+  - Final Fantasy Chronicles: PlayStation, 2001-06-29, region NA
+  - Final Fantasy Anthology [4 & 5]: PlayStation, 2002-02-27, region EU, AUS
+  - Final Fantasy IV [4]: The Complete Collection: Sony PSP, 2011-03-24, region JP, NA, EU, AUS
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IV [4] [Hard Type]: Super Famicom, 1991-07-19, region JP
+  - Final Fantasy IV [4] [Easy Type]: Super Famicom, 1991-10-19, region JP
+  - Final Fantasy IV [4]: Super Nintendo, 1991-11-23, region NA
+  - Final Fantasy IV [4] Advance: Game Boy Advance, 2005-12-12, region NA, JP, EU
+  - Final Fantasy IV [4]: Nintendo DS, 2007-12-20, region JP, NA, EU, AUS
+  - Final Fantasy IV [4]: Wii Virtual Console, 2009-08-04, region JP, NA, PAL
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IV [4]: WonderSwan Color, 2002-03-29, region JP
+  - Final Fantasy IV [4]: Microsoft Windows Steam (PC), 2014-09-17, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IV [4]: Super Nintendo, 1991-07-19, score 78.0%
+  - Final Fantasy: Chronicles: PlayStation, 2001-06-29 (NA), score ---
+  - Final Fantasy IV [4] Advance: Game Boy Advance, 2005-12-12 (US), score ---
+  - Final Fantasy IV [4] DS: Nintendo DS, 2007-12-20, score ---
+  - Final Fantasy IV [4]: The Complete Collection: Sony PSP, 2011-03-24, score ---
+  - Final Fantasy IV [4]: Interlude: Sony PSP, 2011-03-24, score ---
+  - Final Fantasy IV [4]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2021-09-08, score ---
+
+## thefinalfantasy.net (Information; FF4 Re-releases page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff4/re-releases.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release dates shown: Jul. 19, 1991 (SNES), Nov. 23, 1991 (SNES); platforms SNES, PlayStation, WonderSwan Color, GBA, Mobile Phone, PSP, Nintendo DS, Android, iOS, PC
+  - Chronicles: bundle of Final Fantasy IV and Chrono Trigger, North America PlayStation only, June 29, 2001; art gallery, bestiaries, running, Memo saves, new CG scenes
+  - Advance: Game Boy Advance, North America 2005-12-12 before Japan 2005-12-15; based on the WonderSwan version; Lunar Whale, renamed spells, party switching, Lunar Ruins dungeon (50+ floors)
+  - DS: Japan 2007-12-20, North America 2008-07-22; voice acting, mini-games, New Game Plus, auto-battle, Augments, summon Whyt
+  - Complete Collection: PSP, Japan 2011-03-24; Final Fantasy IV, Interlude and The After Years; Data Install, new cinematic scenes
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff4/ -- Final Fantasy IV overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IV [4]: Super Nintendo, JP 1991-07-19, US 1991-11-23
+  - Final Fantasy IV [4]: PlayStation, JP 1997-03-21, US -
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, JP 1999-03-11, US -
+  - Final Fantasy IV [4]: WonderSwan Color, JP 2002-03-29, US -
+  - Final Fantasy IV [4] Advance: Game Boy Advance, JP 2005-12-15, US 2005-12-12
+  - Final Fantasy IV [4]: Nintendo DS, JP 2007-12-20, US 2008-07-22
+  - Final Fantasy IV [4]: Wii Virtual Console, JP 2009-08-04, US 2010-03-08
+  - Final Fantasy IV [4]: Mobile Phone (FOMA), JP 2009-10-05, US -
+  - Final Fantasy IV [4]: The Complete Collection: Sony PSP, JP 2011-03-24, US 2011-04-29
+  - Final Fantasy IV [4]: Apple iOS, JP 2012-12-20, US 2012-12-20
+  - Final Fantasy IV [4]: Android, JP 2013-06-04, US 2013-06-04
+  - Final Fantasy IV [4]: Steam (PC), JP 2014-09-17, US 2014-09-17
+  - Final Fantasy IV [4]: Pixel Remaster: Steam, Android, iOS, JP 2021-09-08, US -
+- https://thefinalfantasy.net/ff5/ -- Final Fantasy V overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, JP 1999-03-11, US -
+- https://thefinalfantasy.net/ff6/ -- Final Fantasy VI overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, JP 1999-03-11, US -
+
 ## Decisions
 
 - **Not to be listed: the cancelled Famicom/NES version of Final Fantasy IV (user, 2026-11-03):** planned for the Famicom (Square, 1991, Japan) and moved to the Super Famicom before any work was done, per GamesRadar+ 'The lost Nintendo games' (2008-05-30, https://www.gamesradar.com/the-lost-nintendo-games/) and Lost Levels (2003-11, http://www.lostlevels.org/200311/200311-square.shtml); never released, so the NES is not a platform of Final Fantasy IV. Only this platform is left out: the game itself released on other platforms and stays listed on them

@@ -78,6 +78,28 @@
   - https://web.archive.org/web/20241127002407/https://www.finalfantasyxv-anewempire.com/en-us/articles/the-future-of-ffxv-a-new-empire -- Web archive link () -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.finalfantasyxv-anewempire.com/en-us/articles/the-future-of-ffxv-a-new-empire -- link on the page -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XV [15]: A New Empire: Android, 2017-06-15, region International
+  - Final Fantasy XV [15]: A New Empire: Apple iOS, 2017-06-15, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XV [15]: A New Empire: Android / Apple iOS, 2017-06-15, score ---
+
+## thefinalfantasy.net (Information; FF15 Universe page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/ffxv-universe.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Mobile empire-building game; links for Android and Apple iOS
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/ -- Final Fantasy XV overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XV [15]: A New Empire: Android, JP 2017-06-15, US 2017-06-15
+  - Final Fantasy XV [15]: A New Empire: Apple iOS, JP 2017-06-15, US 2017-06-15
+
 ## Decisions
 - `helpWanted` removed (user, 2026-10-21)
 - Date is 2017-03-31, the New Zealand limited release, not the worldwide release (user, 2026-10-21)

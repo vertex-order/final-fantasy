@@ -563,4 +563,53 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2#External_link
 
 - https://www.imdb.com/title/tt0317510/ -- IMDb title page for Fainaru fantajî X-2, IMDb id tt0317510, type Video Game, year 2003, release date 2004-02-20, certificate 12, genres Action, Adventure, Fantasy, rating 7 from 3,618 votes, production status Released; plot: Convinced that Tidus is still alive, Yuna embarks on a quest to find him. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy X-2 [10-2]: PlayStation 2, 2003-03-13, region JP
+  - Final Fantasy X-2 [10-2]: PlayStation 2, 2003-11-18, region NA
+  - Final Fantasy X-2 [10-2] International + Last Mission: PlayStation 2, 2004-02-19, region JP
+  - Final Fantasy X-2 [10-2]: PlayStation 2, 2004-02-20, region EU, AUS
+  - Final Fantasy X/X-2 Ultimate Box: PlayStation 2, 2005-09-09, region JP
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 3, 2013-03-18, region NA
+  - Final Fantasy X/X-2 HD Remaster: PS Vita, 2013-03-18, region NA
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 3, 2013-03-20, region AUS
+  - Final Fantasy X/X-2 HD Remaster: PS Vita, 2013-03-20, region AUS
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 3, 2013-03-21, region EU
+  - Final Fantasy X/X-2 HD Remaster: PS Vita, 2013-03-21, region EU
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 3, 2013-12-26, region JP
+  - Final Fantasy X/X-2 HD Remaster: PS Vita, 2013-12-26, region JP
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 4, 2015-05-12, region NA
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 4, 2015-05-14, region JP, AUS
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 4, 2015-05-15, region EU
+  - Final Fantasy X/X-2 HD Remaster: PC (Steam), 2016-05-12, region International
+  - Final Fantasy X/X-2 HD Remaster: Nintendo Switch, 2019-04-11, region JP
+  - Final Fantasy X/X-2 HD Remaster: Xbox One, 2019-04-11, region JP
+  - Final Fantasy X/X-2 HD Remaster: Nintendo Switch, 2019-04-16, region NA
+  - Final Fantasy X/X-2 HD Remaster: Xbox One, 2019-04-16, region NA
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy X-2 [10-2]: PlayStation 2, 2003-03-13, region JP, NA, EU, AUS
+  - Final Fantasy X-2 [10-2] International + Last Mission: PlayStation 2, 2004-02-19, region JP
+  - Final Fantasy X/X-2 Ultimate Box: PlayStation 2, 2005-09-09, region JP
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 3, 2013-12-26, region JP, NA, AUS, EU
+  - Final Fantasy X/X-2 HD Remaster: PS Vita, 2013-12-26, region JP, NA, AUS, EU
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 4, 2015-05-12, region NA, JP, AUS, EU
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy X/X-2 HD Remaster: Microsoft Windows Steam (PC), 2016-05-12, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy X-2 [10-2]: PlayStation 2, 2003-03-13, score 72.6%
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff10/ -- Final Fantasy X overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy X/X-2 Ultimate Box: PlayStation 2, JP 2005-09-09, US -
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 3/Vita, JP 2013-12-26, US 2014-03-18
+  - Final Fantasy X/X-2 HD Remaster: PlayStation 4, JP 2015-05-14, US 2015-05-12
+  - Final Fantasy X/X-2 HD Remaster: Microsoft Windows Steam (PC), JP 2016-05-12, US 2016-05-12
+
+## thefinalfantasy.net (Information; FF10 Re-releases page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff10/re-releases.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - HD Remaster of X and X-2: new audio drama set a year after X-2, extra dresspheres and minigames, Creature Creator, the Last Mission dungeon; Ultimate Box (PlayStation 2, Japan, 2005-09-09)
+
 ## Decisions

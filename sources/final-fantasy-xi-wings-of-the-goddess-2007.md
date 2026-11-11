@@ -123,6 +123,37 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI:_Wings_of_the_
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_XI -- the Final Fantasy XI page of finalfantasywiki, which covers this expansion (the wiki has no page of its own for it; user, 2026-11-09) -- accessed 2026-11-09; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Wings of the Goddess: PlayStation 2, 2007-11-20, region NA
+  - Final Fantasy XI [11]: Wings of the Goddess: Xbox 360, 2007-11-20, region NA
+  - Final Fantasy XI [11]: Wings of the Goddess: Microsoft Windows (PC), 2007-11-21, region NA
+  - Final Fantasy XI [11]: Wings of the Goddess: PlayStation 2, 2007-11-22, region JP
+  - Final Fantasy XI [11]: Wings of the Goddess: Microsoft Windows (PC), 2007-11-22, region JP, EU
+  - Final Fantasy XI [11]: Wings of the Goddess: Xbox 360, 2007-11-22, region JP
+  - Final Fantasy XI [11]: Wings of the Goddess: Xbox 360, 2007-11-23, region EU
+  - Final Fantasy XI [11]: Wings of the Goddess: Microsoft Windows (PC), 2007-12-06, region AUS
+  - Final Fantasy XI [11]: Wings of the Goddess: Xbox 360, 2007-12-06, region AUS
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Wings of the Goddess: PlayStation 2, 2007-11-20, region NA, JP
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Wings of the Goddess: Xbox 360, 2007-11-20, region NA, JP, EU
+  - Final Fantasy XI [11]: Wings of the Goddess: Microsoft Windows (PC), 2007-11-21, region NA, JP, EU
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Wings of the Goddess: PlayStation 2 / Xbox 360 / PC, 2007-11-22, score ---
+
+## thefinalfantasy.net (Information; FF11 Expansions page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff11/expansions.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release table (PS2 / PC / Xbox 360): JP 2007-11-22 on all three; NA 2007-11-20 on all three; PAL 2007-11-22 on all three; adds Dancer and Scholar; Campaign large-scale battle
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff11/ -- Final Fantasy XI overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Wings of the Goddess: PlayStation 2 / PC / Xbox 360, JP 2007-11-22, US 2007-11-20
+  - Final Fantasy XI [11]: Wings of the Goddess: Microsoft Windows (PC), JP 2007-11-22, US 2007-11-20
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

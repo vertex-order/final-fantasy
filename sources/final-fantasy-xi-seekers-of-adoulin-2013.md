@@ -122,6 +122,31 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI:_Seekers_of_Ad
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_XI -- the Final Fantasy XI page of finalfantasywiki, which covers this expansion (the wiki has no page of its own for it; user, 2026-11-09) -- accessed 2026-11-09; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Seekers of Adoulin: PlayStation 2, 2013-03-27, region JP
+  - Final Fantasy XI [11]: Seekers of Adoulin: Microsoft Windows (PC), 2013-03-27, region International
+  - Final Fantasy XI [11]: Seekers of Adoulin: Xbox 360, 2013-03-27, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Seekers of Adoulin: PlayStation 2, 2013-03-27, region JP
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Seekers of Adoulin: Microsoft Windows (PC), 2013-03-27, region NA, JP, EU, AUS
+  - Final Fantasy XI [11]: Seekers of Adoulin: Xbox 360, 2013-03-27, region NA, JP, EU, AUS
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Seekers of Adolun: PlayStation 2 / Xbox 360 / PC, 2013-03-26, score ---
+
+## thefinalfantasy.net (Information; FF11 Expansions page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff11/expansions.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Fifth expansion announced for the tenth anniversary of Final Fantasy XI; adds Rune Fencer and Geomancer; announced as not available on PlayStation 2 outside Japan; no release date given on the page (expected 2013)
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff11/ -- Final Fantasy XI overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Seekers of Adoulin: PlayStation 2, JP 2013-03-27, US -
+  - Final Fantasy XI [11]: Seekers of Adoulin: Microsoft Windows (PC) / Xbox 360, JP 2013-03-27, US 2013-03-27
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

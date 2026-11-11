@@ -440,4 +440,38 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Lightning_Returns:_Final_Fantas
 
 - https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0_%E3%83%AA%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%BA_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIII#%E8%A9%95%E4%BE%A1 -- Famitsu cross review 37/40 (Weekly Famitsu issue 1302), Platinum Hall of Fame -- accessed 2026-11-10 (revision 110739752 of 2026-08-22; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Lightning Returns: Final Fantasy XIII [13]: Apple iOS, 2016-02-17, region JP
+  - Lightning Returns: Final Fantasy XIII [13]: Android, 2016-02-17, region JP
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Lightning Ultimate Box: PlayStation 3, 2013-11-21, region JP
+  - Lightning Returns: Final Fantasy XIII [13]: PlayStation 3, 2013-11-21, region JP
+  - Lightning Returns: Final Fantasy XIII [13]: Xbox 360, 2013-11-21, region JP
+  - Lightning Returns: Final Fantasy XIII [13]: PlayStation 3, 2014-02-11, region NA
+  - Lightning Returns: Final Fantasy XIII [13]: Xbox 360, 2014-02-11, region NA
+  - Lightning Returns: Final Fantasy XIII [13]: PlayStation 3, 2014-02-13, region EU
+  - Lightning Returns: Final Fantasy XIII [13]: Xbox 360, 2014-02-13, region EU
+  - Lightning Returns: Final Fantasy XIII [13]: PlayStation 3, 2014-02-14, region AUS
+  - Lightning Returns: Final Fantasy XIII [13]: Xbox 360, 2014-02-14, region AUS
+  - Lightning Returns: Final Fantasy XIII [13]: PC (Steam), 2015-12-10, region International
+  - Lightning Returns: Final Fantasy XIII [13]: Apple iOS, 2016-02-17, region JP
+  - Lightning Returns: Final Fantasy XIII [13]: Android, 2016-02-17, region JP
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Lightning Returns: Final Fantasy XIII [13]: PlayStation 3, 2013-11-21, region JP, NA, AUS, EU
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Lightning Returns: Final Fantasy XIII [13]: Xbox 360, 2013-11-21, region JP, NA, AUS, EU
+  - Lightning Returns: Final Fantasy XIII [13]: Microsoft Windows Steam (PC), 2015-12-10, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Lightning Returns: Final Fantasy XIII [13]: PlayStation 3 / Xbox 360, 2014-02-11, score 49.8%
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff13/ -- Final Fantasy XIII overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Lightning Ultimate Box: PlayStation 3, JP 2013-11-21, US -
+
 ## Decisions

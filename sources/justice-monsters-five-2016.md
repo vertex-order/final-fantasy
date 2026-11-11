@@ -117,4 +117,29 @@
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Justice Monsters Five
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Justice Monsters Five: Android, 2016-08, region International
+  - Justice Monsters Five: Apple iOS, 2016-08, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Justice Monsters Five: Android, 2016-08, region International
+  - Justice Monsters Five: Apple iOS, 2016-08, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Justice Monsters Five: Android / Apple iOS, 2016-08, score ---
+
+## thefinalfantasy.net (Information; FF15 Universe page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/ffxv-universe.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Pinball game for mobile devices; free on Google Play for Android, the App Store for iPhone and iPad, and "Windows mobile and tablet devices"; also playable in Final Fantasy XV; prelaunch links for Android and Apple iOS
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/ -- Final Fantasy XV overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Justice Monsters Five: Android, JP 2016-08, US 2016-08
+  - Justice Monsters Five: Apple iOS, JP 2016-08, US 2016-08
+
 ## Decisions

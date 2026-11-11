@@ -84,4 +84,9 @@
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーIV#外部リンク -- the one link of the section that is for this title -- accessed 2026-11-08 (revision 111593793 of 2026-10-31; wikitext read through the MediaWiki API)
   - https://www.jp.square-enix.com/game/detail/ff4cc/ -- ファイナルファンタジーIV コンプリートコレクション (Square Enix Japan detail page) -- link recorded only -- accessed 2026-11-08; archived: TODO
 
+## thefinalfantasy.net (Information; FF4 Re-releases page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff4/re-releases.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Included in the PSP Complete Collection (Japan 2011-03-24) as a short game of about 2-3 hours, one year after Cecil's last journey, bridging to The After Years; characters Yang, Edward, Rydia, Edge, Cid, Cecil and Rosa
+
 ## Decisions

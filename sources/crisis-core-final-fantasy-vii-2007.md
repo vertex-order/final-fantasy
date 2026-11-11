@@ -464,4 +464,27 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-
 
 - https://breezewiki.com/finalfantasy/wiki/Crisis_Core_-Final_Fantasy_VII-#Voice_actors -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4067996 of 2026-11-01; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Crisis_Core_-Final_Fantasy_VII-#Voice_actors); archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Crisis Core: Final Fantasy VII: Sony PSP, 2007-09-13, region JP
+  - Crisis Core: Final Fantasy VII: Sony PSP, 2008-03-24, region NA
+  - Crisis Core: Final Fantasy VII [Favorites]: Sony PSP, 2008-03-25, region NA
+  - Crisis Core: Final Fantasy VII: Sony PSP, 2008-06-20, region EU, AUS
+  - Crisis Core: Final Fantasy VII Reunion: Playstation 5, 2023-03-31, region WW
+  - Crisis Core: Final Fantasy VII Reunion: Playstation 4, 2023-03-31, region WW
+  - Crisis Core: Final Fantasy VII Reunion: Nintendo Switch, 2023-03-31, region WW
+  - Crisis Core: Final Fantasy VII Reunion: Xbox One, 2023-03-31, region WW
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Crisis Core: Final Fantasy VII: Sony PSP, 2007-09-13, region JP, NA, EU, AUS
+  - Crisis Core: Final Fantasy VII [Favorites]: Sony PSP, 2008-03-25, region NA
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Crisis Core: Final Fantasy VII [7]: Sony PSP, 2007-09-13, score 54.4%
+  - Crisis Core: Final Fantasy VII [7] Reunion: Playstation 4 / Playstation 5 / Nintendo Switch / Xbox One, 2023-03-31, score ---
+
+## thefinalfantasy.net (Information; FF7 Compilation page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff7/re-releases.html -- Final Fantasy VII compilation page -- accessed 2026-11-11 (saved page read); archived: TODO
+  - PSP action RPG, prequel; Japan 2007-09-13, North America 2008-03-25 (the page's dates)
+
 ## Decisions

@@ -494,6 +494,47 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crystal_Defenders#External_link
   - https://store.playstation.com/#!/en-us/games/crystal-defenders-psp/cid=UP0082-NPUH10026_00-CD00000000000000 -- PSP -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.xbox.com/en-US/games/store/crystal-defenders/BVCHVG7HM8LG/0001 -- Xbox Marketplace -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Crystal Guardians: Mobile Phone (i-mode), 2008-01-01, region JP
+  - Crystal Guardians: Mobile Phone (Yahoo! Keitai), 2008-04-01, region JP
+  - Crystal Guardians: Mobile Phone (EZWeb), 2008-06-19, region JP
+  - Crystal Defenders: Apple iOS (iPhone, iPod), 2008-12-23, region International
+  - Crystal Defenders: Windows Phone, 2010-12-08, region International
+  - Crystal Defenders: Android, 2011-01-25, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Crystal Guardians: Mobile Phone (i-mode), 2008-01-01, region JP
+  - Crystal Guardians: Mobile Phone (Yahoo! Keitai), 2008-04-01, region JP
+  - Crystal Guardians: Mobile Phone (EZWeb), 2008-06-19, region JP
+  - Crystal Defenders: Apple iOS (iPhone, iPod Touch), 2008-12-23, region International
+  - Crystal Defenders: WiiWare, 2009-01-27, region JP
+  - Crystal Defenders: Xbox Live Arcade, 2009-03-11, region International
+  - Crystal Defenders: WiiWare, 2009-04-20, region NA
+  - Crystal Defenders: WiiWare, 2009-04-24, region EU
+  - Crystal Defenders: PlayStation Network (PS3), 2009-08-06, region International
+  - Crystal Defenders: PlayStation Network (PSP), 2009-10-29, region International
+  - Crystal Defenders: Apple iOS (iPad), 2010-07-01, region International
+  - Crystal Defenders: Windows Phone, 2010-12-08, region International
+  - Crystal Defenders: Android, 2011-01-25, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Crystal Defenders: PlayStation Network, 2009-08-06, region International
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Crystal Defenders: WiiWare, 2009-01-27, region JP, NA, EU
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Crystal Defenders: Xbox Live Arcade, 2009-03-11, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Crystal Defenders: Mobile Phone, 2008-01-01, score ---
+
+## thefinalfantasy.net (Information; Overview page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/crystal-defenders/ -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release table: Crystal Guardians i-mode 2008-01-01, Yahoo! Keitai 2008-04-01, EZWeb 2008-06-19 (JP); Crystal Defenders Apple iOS 2008-12-23; WiiWare 2009-01-27 (JP) and 2009-04-20 (US); Xbox Live Arcade 2009-03-11; PlayStation Network 2009-08-06; Windows Phone 2010-12-08; Android 2011-01-25
+  - Developer MSF/Winds; set in Ivalice, part of the Ivalice Alliance; several units from Tactics A2
+
 ## Decisions
 - No `by` line (user, 2026-10-20): Ryoma Ito (illustrations) is named by the Crystal Defenders Plus site and Gamicus, but the entry carries no credits
 - Split into versions (user, 2026-10-20): the primary is the original W series (no subtitle; W1 to W3: mobile, iOS, iPad, Android, Xbox 360, PS3, PSP; the iPad app stays here), with the iOS Plus as the Remake (2013) and the WiiWare R series as the Edit (2009) in versions[]; the primary keeps the ratings; the languages are the combined list of the Apple listings (the iPhone, iPad and Plus pages all list English, Chinese, French, German, Italian, Japanese and Spanish, checked in the captures); the Edit's languages are from the Nintendo pages (see nintendo.com); the Remake row has no suffix, its subtitle says it

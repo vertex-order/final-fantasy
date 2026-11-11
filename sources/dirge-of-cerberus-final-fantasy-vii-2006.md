@@ -170,4 +170,22 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantas
 
 - https://www.thetvdb.com/movies/final-fantasy-vii-dirge-of-cerberus -- listed as a movie: Final Fantasy VII: Dirge of Cerberus, TVDB movie id 40245, worldwide release 2006-01-26, genre Animation, original country Japan, original language English, 52 voice cast (Steve Blum as Vincent Valentine, Steve Burton as Cloud Strife, Rachael Leigh Cook as Tifa Lockhart, Mae Whitman, Beau Billingslea, Kari Wahlgren, Greg Ellis), no crew, runtime, overview or companies; IMDb tt0481507, no TMDB id shown; the page describes the work as a film -- accessed 2026-11-10; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dirge of Cerberus: Final Fantasy VII: PlayStation 2, 2006-01-26, region JP
+  - Dirge of Cerberus: Final Fantasy VII: PlayStation 2, 2006-08-20, region NA
+  - Dirge of Cerberus: Final Fantasy VII: PlayStation 2, 2006-11-11, region EU
+  - Dirge of Cerberus: Final Fantasy VII International: PlayStation 2, 2008-09-11, region JP
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dirge of Cerberus: Final Fantasy VII: PlayStation 2, 2006-01-26, region JP, NA, EU, AUS
+  - Dirge of Cerberus: Final Fantasy VII International: PlayStation 2, 2008-09-11, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dirge of Cerberus: Final Fantasy VII [7]: PlayStation 2, 2006-01-26, score 48.0%
+
+## thefinalfantasy.net (Information; FF7 Compilation page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff7/re-releases.html -- Final Fantasy VII compilation page -- accessed 2026-11-11 (saved page read); archived: TODO
+  - PlayStation 2; Japan 2006-01-26, North America 2006-08-15 (the page's dates); set three years after the game; the mobile counterpart is Lost Episode
+
 ## Decisions

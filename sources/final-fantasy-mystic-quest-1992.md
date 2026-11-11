@@ -199,4 +199,29 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Mystic_Quest#Exte
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCUSA_%E3%83%9F%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 23/40 (7, 6, 6, 4); Family Computer Magazine reader-vote 21.7/30 (characters 3.8, music 3.7, value 3.7, operation 3.7, enthusiasm 3.5, originality 3.3); GameRankings 67%, EGM 29/40, Game Master 75%, Nintendo Life 7/10 (Wii), Nintendo Power 3.725/5, Electronic Games 86%, RPGFan 79%; the 1998 Chozetsu Odawaza-rin guidebook (Tokuma Shoten) calls it easy for beginners -- accessed 2026-11-10 (revision 110094130 of 2026-06-28; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Mystic Quest: Super Nintendo, 1992-10-05, region NA
+  - Final Fantasy USA: Mystic Quest: Super Famicom, 1993-09-10, region JP
+  - Mystic Quest Legend: Super Nintendo, 1993-10-15, region EU, AUS
+  - Final Fantasy Mystic Quest: Wii Virtual Console, 2010-09-24, region EU, AUS
+  - Final Fantasy Mystic Quest: Wii Virtual Console, 2010-10-18, region NA
+  - Final Fantasy Mystic Quest: Wii Virtual Console, 2010-12-21, region JP
+  - Final Fantasy Mystic Quest: Wii U Virtual Console, 2014-04-16, region JP
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Mystic Quest: Super Nintendo, 1992-10-05, region NA
+  - Final Fantasy USA: Mystic Quest: Super Famicom, 1993-09-10, region JP
+  - Mystic Quest Legend: Super Nintendo, 1993-10-15, region EU, AUS
+  - Final Fantasy Mystic Quest: Wii Virtual Console, 2010-10-18, region NA, JP, EU, AUS
+  - Final Fantasy Mystic Quest: Wii U Virtual Console, 2014-04-16, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Mystic Quest: Super Nintendo, 1992-10-05 (NA), score 59.8%
+
+## thefinalfantasy.net (Information; Overview page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff-mystic-quest/ -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release table: Final Fantasy Mystic Quest SNES 1992-10-05 (US); Final Fantasy USA: Mystic Quest Super Famicom 1993-09-10 (JP); Mystic Quest Legend (Europe); Wii Virtual Console 2010-12-21 (JP) and 2010-10-18 (US); Wii U Virtual Console 2014-04-16
+  - Europe's title avoided confusion with Mystic Quest, the Final Fantasy Adventure release there; first Final Fantasy released in Europe
+
 ## Decisions

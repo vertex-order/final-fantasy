@@ -169,4 +169,19 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_All_the_Bravest#E
   - https://en.wikipedia.org/wiki/Final_Fantasy_All_the_Bravest -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.mobygames.com/game/71684/final-fantasy-all-the-bravest/ -- Final Fantasy All the Bravest -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: All the Bravest: Apple iOS, 2013-01-17, region International
+  - Final Fantasy: All the Bravest: Android, 2013-04-11, region JP, NA
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: All the Bravest: Apple iOS, 2013-01-17, region International
+  - Final Fantasy: All the Bravest: Android, 2013-04-11, region JP
+  - Final Fantasy: All the Bravest: Android, 2013-09-12, region NA
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy All the Bravest: Android / Apple iOS, 2013-01-17, score ---
+
 ## Decisions

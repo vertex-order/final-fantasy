@@ -1018,6 +1018,120 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II#External_links
 
 - https://www.imdb.com/title/tt0207484/ -- IMDb title page for Final Fantasy, IMDb id tt0207484, original title Fainaru fantajî, type Video Game, year 1987, release date 1987-12-18, certificate 3+, genres Adventure, Fantasy, rating 7.6 from 2,181 votes, production status Released; plot: The four "Light Warriors" must fulfill a 2000 year old prophecy, traversing the land in order to restore light to the four elemental orbs and defeat an ancient evil to save their world. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy I [1]: Mobile Phone (FOMA), 2004-02-29, region JP
+  - Final Fantasy I [1]: Mobile Phone (CDMA), 2004-08-15, region JP
+  - Final Fantasy I [1]: Mobile Phone (SoftBank), 2006-07-03, region JP
+  - Final Fantasy I [1]: Apple iOS, 2010-02-25, region International
+  - Final Fantasy I [1]: Windows Phone, 2012-06-13, region International
+  - Final Fantasy I [1]: Android, 2012-07-27, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy I [1]: Famicom, 1987-12-17, region JP
+  - Final Fantasy I [1]: MSX2, 1989-06-01, region JP
+  - Final Fantasy I [1]: Nintendo, 1990-07-12, region NA
+  - Final Fantasy I & II: Famicom, 1994-01-01, region JP
+  - Final Fantasy I [1]: WonderSwan Color, 2000-12-09, region JP
+  - Final Fantasy I+II Premium Package: PlayStation, 2001-11-01, region JP
+  - Final Fantasy Origins [1 & 2]: PlayStation, 2003-03-14, region EU
+  - Final Fantasy Origins [1 & 2]: PlayStation, 2003-04-08, region NA
+  - Final Fantasy I [1]: Mobile Phone (FOMA), 2004-02-29, region JP
+  - Final Fantasy I & II Advance: Game Boy Advance, 2004-07-29, region JP
+  - Final Fantasy I & II: Dawn of Souls: Game Boy Advance, 2004-07-29, region JP
+  - Final Fantasy I [1]: Mobile Phone (CDMA 1X WIN), 2004-08-15, region JP
+  - Final Fantasy I & II: Dawn of Souls: Game Boy Advance, 2004-11-29, region NA
+  - Final Fantasy I & II: Dawn of Souls: Game Boy Advance, 2004-12-03, region EU, AUS
+  - Final Fantasy I [1]: Mobile Phone (SoftBank), 2006-07-03, region JP
+  - Final Fantasy 20th Anniversary Edition: Sony PSP, 2007-04-19, region JP
+  - Final Fantasy 20th Anniversary Edition: Sony PSP, 2007-06-26, region NA
+  - Final Fantasy 20th Anniversary Edition [Favorites]: Sony PSP, 2007-06-26, region NA
+  - Final Fantasy 20th Anniversary Edition: Sony PSP, 2008-02-08, region EU
+  - Final Fantasy 20th Anniversary Edition: Sony PSP, 2008-02-28, region AUS
+  - Final Fantasy I [1]: Wii Virtual Console, 2009-05-26, region JP
+  - Final Fantasy I [1]: PlayStation Network (PSOne), 2009-06-24, region JP
+  - Final Fantasy 20th Anniversary Edition [Ultimate Hits]: Sony PSP, 2009-07-30, region JP
+  - Final Fantasy I [1]: Wii Virtual Console, 2009-10-05, region NA
+  - Final Fantasy I [1]: Apple iOS, 2010-02-25, region International
+  - Final Fantasy I [1]: Wii Virtual Console, 2010-05-07, region EU
+  - Final Fantasy I [1]: PlayStation Network, 2011-02-16, region EU, AUS
+  - Final Fantasy I [1]: Windows Phone, 2012-06-04, region JP
+  - Final Fantasy I [1]: Windows Phone, 2012-06-13, region NA, EU
+  - Final Fantasy I [1]: Android, 2012-07-27, region NA, EU
+  - Final Fantasy I [1]: Wii U Virtual Console, 2013, region JP
+  - Final Fantasy I [1]: Nintendo 3DS Virtual Console, 2014-12-18, region JP
+  - Final Fantasy I [1]: Nintendo eShop, 2015, region JP
+  - Final Fantasy I [1]: NEW Classic Edition, 2016-11-10, region JP
+  - Final Fantasy I [1]: NEW Classic Edition, 2016-11-11, region JP
+  - Final Fantasy I [1]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2021-07-28, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy I+II Premium Package: PlayStation, 2001-11-01, region JP
+  - Final Fantasy Origins [1 & 2]: PlayStation, 2003-03-14, region EU, NA
+  - Final Fantasy I: 20th Anniversary Edition: Sony PSP, 2007-04-19, region JP, NA, PAL
+  - Final Fantasy I: 20th Anniversary Edition [Favorites]: Sony PSP, 2007-06-26, region NA
+  - Final Fantasy I: 20th Anniversary Edition [Ultimate Hits]: Sony PSP, 2009-07-30, region JP
+  - Final Fantasy I [1]: PlayStation Network, 2011-02-16, region NA
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy I [1]: Famicom, 1987-12-18, region JP
+  - Final Fantasy I [1]: Nintendo, 1990-07-12, region NA
+  - Final Fantasy I ・ II: Famicom, 1994-02-27, region JP
+  - Final Fantasy I & II: Dawn of Souls: Game Boy Advance, 2004-07-29, region JP, NA, EU, AUS
+  - Final Fantasy I [1]: Wii Virtual Console, 2009-05-26, region JP, NA, EU
+  - Final Fantasy I [1]: Wii U Virtual Console, 2013-12-11, region JP
+  - Final Fantasy I [1]: 3DS Virtual Console, 2014-12-18, region JP
+  - Final Fantasy I [1]: Nintendo eShop, 2015, region JP
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy I [1]: MSX2, 1989-06-01, region JP
+  - Final Fantasy I [1]: WonderSwan Color, 2000-12-09, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy I [1]: Famicom, 1987-12-17, score 71.4%
+  - Final Fantasy: Origins: PlayStation, 2002-10-31, score ---
+  - Final Fantasy: Dawn of Souls: Game Boy Advance, 2004-07-29, score ---
+  - Final Fantasy Anniversary Edition: Sony PSP, 2007-04-19, score ---
+  - Final Fantasy I [1]: NES Classic Edition, 2016-11-10, score ---
+  - Final Fantasy I [1]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2021-07-28, score ---
+
+## thefinalfantasy.net (Information; FF1 Re-releases page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff1/re-releases.html -- Final Fantasy (1987) re-releases page -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Ports listed: MSX2 1989 (FFI), WonderSwan Color 2000 (FFI) and 2001 (FFII), Japan mobile phones 2004, Final Fantasy Origins (PlayStation) 2002, Dawn of Souls (Game Boy Advance) 2004, PSP 20th Anniversary edition 2007, Virtual Console (JP) 2009 (FFII), iPhone 2010
+  - Release dates shown: Dec. 18, 1987 (Famicom), Jul. 12, 1990 (NES)
+  - Community rating on the page: FF1 3.40/5, 68%, 1556 votes; page last modified 2026-03-19
+  - Origins: remake of the two games with revamped graphics, new event scenes, CG movies, Memo File saves, difficulty modes, bestiary and Amano art galleries
+  - Dawn of Souls: Game Boy Advance; no difficulty setting, save anywhere out of battle, one Blood Sword, new Soul of Chaos dungeon (four bosses each from III, IV, V and VI after the Elemental Fiends)
+  - 20th Anniversary: PSP 2007; higher resolution, the two Dawn of Souls dungeons kept, boss music changed, new dungeon Labyrinth of Time, Amano gallery and CGI scenes of Origins
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff1/ -- Final Fantasy I overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy I [1]: Famicom/NES, JP 1987-12-18, US 1990-07-12
+  - Final Fantasy I [1]: MSX2, JP 1989-06-01, US -
+  - Final Fantasy I ・ II: Famicom, JP 1994-02-27, US -
+  - Final Fantasy I [1]: WonderSwan Color, JP 2000-12-09, US -
+  - Final Fantasy I+II Premium Package: Playstation, JP 2002-10-31, US -
+  - Final Fantasy I [1]: Mobile Phone (NTT DoCoMo), JP 2004-02-29, US -
+  - Final Fantasy I & II: Dawn of Souls: Game Boy Advance, JP 2004-07-29, US 2004-11-29
+  - Final Fantasy I [1]: Mobile Phone (CDMA 1X WIN), JP 2004-08-15, US -
+  - Final Fantasy I [1]: Mobile Phone (SoftBank), JP 2006-07-03, US -
+  - Final Fantasy: 20th Anniversary Edition: Sony PSP, JP 2007-04-19, US 2007-06-26
+  - Final Fantasy I [1]: Wii Virtual Console, JP 2009-05-26, US 2009-10-05
+  - Final Fantasy I [1]: Playstation Store, JP 2009-06-24, US 2011-02-16
+  - Final Fantasy I [1]: iOS, JP 2010-02-25, US 2010-02-25
+  - Final Fantasy I [1]: Windows Phone, JP 2012-07-13, US 2012-07-13
+  - Final Fantasy I [1]: Android, JP 2012-07-27, US 2012-07-27
+  - Final Fantasy I [1]: Wii U Virtual Console, JP 2013, US -
+  - Final Fantasy I [1]: Nintendo 3DS Virtual Console, JP 2014-12-18, US -
+  - Final Fantasy I [1]: Nintendo eShop, JP 2015, US -
+  - Final Fantasy I [1]: NES Classic Edition, JP 2016-11-11, US -
+  - Final Fantasy I [1]: Pixel Remaster: Steam, Android, iOS, JP 2021-07-28, US -
+- https://thefinalfantasy.net/ff2/ -- Final Fantasy II overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy I ・ II: Famicom, JP 1994-02-27, US -
+  - Final Fantasy I+II Premium Package: Playstation, JP 2002-10-31, US -
+  - Final Fantasy I & II: Dawn of Souls: Game Boy Advance, JP 2004-07-29, US 2004-11-29
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

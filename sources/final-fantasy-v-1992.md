@@ -793,5 +793,71 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V#External_links
 
 - https://www.imdb.com/title/tt0207488/ -- IMDb title page for Final Fantasy V, IMDb id tt0207488, original title Fainaru fantajî V, type Video Game, year 1992, release date 1992-12-06, certificate T, genres Action, Adventure, Fantasy, rating 7.7 from 1,106 votes, production status Released; plot: When the magical crystals which keep the elements in balance begin to shatter unexpectedly, a ragtag group consisting of a wanderer, a princess, a pirate captain, and an amnesiac old man must band together to save the world. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy V [5]: Apple iOS, 2013-03-28, region International
+  - Final Fantasy V [5]: Android, 2013-09-25, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy V [5]: Super Famicom, 1992-12-06, region JP
+  - Final Fantasy V [5]: PlayStation, 1998-03-19, region JP
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, 1999-03-11, region JP
+  - Final Fantasy Anthology [5 & 6]: PlayStation, 1999-10-05, region NA
+  - Final Fantasy Anthology [4 & 5]: PlayStation, 2002-02-27, region EU, AUS
+  - Final Fantasy V [5] Advance: Game Boy Advance, 2006-10-12, region JP
+  - Final Fantasy V [5] Advance: Game Boy Advance, 2006-11-06, region NA
+  - Final Fantasy V [5] Advance: Game Boy Advance, 2007-04-10, region EU
+  - Final Fantasy V [5]: Wii Virtual Console, 2011-01-18, region JP
+  - Final Fantasy V [5]: PlayStation Network, 2011-04-06, region JP
+  - Final Fantasy V [5]: PlayStation Network, 2011-04-13, region EU
+  - Final Fantasy V [5]: PlayStation Network, 2011-11-22, region NA
+  - Final Fantasy V [5]: Apple iOS, 2013-03-28, region International
+  - Final Fantasy V [5]: Android, 2013-09-25, region International
+  - Final Fantasy V [5]: PC (Steam), 2015-09-24, region International
+  - Final Fantasy V [5]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2021-11-10, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy V [5]: PlayStation, 1998-03-19, region JP
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, 1999-03-11, region JP
+  - Final Fantasy Anthology [5 & 6]: PlayStation, 1999-10-05, region NA
+  - Final Fantasy Anthology [4 & 5]: PlayStation, 2002-02-27, region EU, AUS
+  - Final Fantasy V [5]: PlayStation Network, 2011-04-06, region JP, EU, NA
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy V [5] Advance: Game Boy Advance, 2006-10-12, region JP, NA, EU
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy V [5]: Microsoft Windows Steam (PC), 2015-09-24, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy V [5]: Super Nintendo, 1992-12-06, score 67.2%
+  - Final Fantasy: Anthology: PlayStation, 1999-01-13 (NA), score ---
+  - Final Fantasy V [5] Advance: Game Boy Advance, 2006-10-12, score ---
+  - Final Fantasy V [5]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2021-11-10, score ---
+
+## thefinalfantasy.net (Information; FF5 Re-releases page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff5/re-releases.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release dates shown: Dec. 6, 1992 (SNES), Sep. 30, 1999 (PSX); platforms SNES, PlayStation, GBA, iOS, Android, PC
+  - PlayStation Japan 1998-03-19 by Tose; Final Fantasy Collection 1999-03-11 (IV, V, VI); Anthology North America 1999-01-13 (V and VI; the European edition has IV and V); Advance 2006-10-12 (Japan), after a failed WonderSwan Color port; Wii Virtual Console (JP) 2011-01-01; PSOne classic (JP 2011-04-06, US 2011-11-22)
+  - Advance additions: four classes (Gladiator, Cannoneer, Necromancer, Oracle), Sealed Temple, boss Enuo, bestiary, quick save, music player, new translation
+  - The 1994 OVA sequel is described as Final Fantasy: Legend of the Crystals (four 30-minute VHS tapes in Japan, localized by Urban Vision in 1998 as two VHS volumes in North America)
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff4/ -- Final Fantasy IV overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, JP 1999-03-11, US -
+- https://thefinalfantasy.net/ff5/ -- Final Fantasy V overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy V [5]: Super Famicom, JP 1992-12-06, US -
+  - Final Fantasy V [5]: PlayStation, JP 1998-03-19, US -
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, JP 1999-03-11, US -
+  - Final Fantasy V [5] Advance: Game Boy Advance, JP 2006-10-12, US 2006-11-06
+  - Final Fantasy V [5]: PlayStation Network, JP 2011-04-06, US 2011-11-22
+  - Final Fantasy V [5]: Apple iOS, JP 2013-03-28, US 2013-03-28
+  - Final Fantasy V [5]: Android, JP 2013-09-25, US 2013-09-25
+  - Final Fantasy V [5]: Microsoft Windows Steam (PC), JP 2015-09-24, US 2015-09-24
+  - Final Fantasy V [5]: Pixel Remaster: Steam, Android, iOS, JP 2021-11-10, US -
+- https://thefinalfantasy.net/ff6/ -- Final Fantasy VI overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, JP 1999-03-11, US -
+
 ## Decisions
 - Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV#%E6%94%BB%E7%95%A5%E6%9C%AC)

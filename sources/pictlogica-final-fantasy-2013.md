@@ -181,4 +181,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Pictlogica_Final_Fantasy#Extern
   - http://wikiwiki.jp/pictlogicaff/ -- Japanese wiki -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://reddit.com/r/ffpictlogica/ -- Reddit board for English fans -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Pictlogica Final Fantasy: Android, 2013-10-28, region JP
+  - Pictlogica Final Fantasy: Nintendo 3DS, 2017-06-15, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Pictlogica Final Fantasy: Android, Nintendo DS, 2013-10-28, score ---
+
 ## Decisions

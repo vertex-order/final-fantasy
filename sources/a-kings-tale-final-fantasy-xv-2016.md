@@ -48,4 +48,14 @@
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
   - Row: A King's Tale: Final Fantasy XV; Action; Empty Clip Studios; Square Enix; 2016-Nov-29; 2016-Nov-29; 2016-Nov-29
 
+## thefinalfantasy.net (Information; FF15 Universe page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/ffxv-universe.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Arcade-style beat 'em up with retro graphics, free pre-order bonus through certain retailers; official website link
+
+## thefinalfantasy.net (Information; FF15 Game Editions page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/game-editions.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Included with a GameStop or EB Games pre-order
+
 ## Decisions

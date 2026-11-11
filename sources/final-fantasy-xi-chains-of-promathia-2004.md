@@ -107,6 +107,35 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XI:_Chains_of_Pro
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_XI -- the Final Fantasy XI page of finalfantasywiki, which covers this expansion (the wiki has no page of its own for it; user, 2026-11-09) -- accessed 2026-11-09; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Chains of Promathia: PlayStation 2, 2004-09-16, region JP
+  - Final Fantasy XI [11]: Chains of Promathia: Microsoft Windows (PC), 2004-09-16, region JP
+  - Final Fantasy XI [11]: Chains of Promathia: PlayStation 2, 2004-09-21, region NA
+  - Final Fantasy XI [11]: Chains of Promathia: Microsoft Windows (PC), 2004-09-21, region NA, EU, AUS
+  - Final Fantasy XI [11]: Chains of Promathia: Xbox 360, 2006-04-18, region NA
+  - Final Fantasy XI [11]: Chains of Promathia: Xbox 360, 2006-04-20, region JP
+  - Final Fantasy XI [11]: Chains of Promathia: PlayStation 2, 2006-04-21, region EU, AUS
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Chains of Promathia: PlayStation 2, 2004-09-16, region JP, NA, EU
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Chains of Promathia: Microsoft Windows (PC), 2004-09-16, region JP, NA, EU
+  - Final Fantasy XI [11]: Chains of Promathia: Xbox 360, 2006-04-18, region NA, JP, EU
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Chains of Promathia: PlayStation 2 / Xbox 360 / PC, 2004-09-21, score ---
+
+## thefinalfantasy.net (Information; FF11 Expansions page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff11/expansions.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release table (PS2 / PC / Xbox 360): JP 2004-09-21 / 2004-09-21 / 2006-04-20; NA 2004-09-21 / 2004-09-21 / 2006-04-18; PAL 2004-09-17 / 2004-09-17 / 2006-04-20; forty new areas, no new jobs; included in the European release of Final Fantasy XI
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff11/ -- Final Fantasy XI overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XI [11]: Chains of Promathia: Playstation 2 / PC, JP 2004-09-16, US 2004-09-21
+  - Final Fantasy XI [11]: Chains of Promathia: Xbox 360, JP 2006-04-20, US 2006-04-18
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

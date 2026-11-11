@@ -138,4 +138,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_First_Sol
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_The_First_Soldier#Voice_Cast -- voice cast section: confirms English voice -- accessed 2026-11-10 (revision 4041163 of 2026-09-02; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_The_First_Soldier#Voice_Cast); archived: TODO
   - The page's cast section confirms English voice; it does not mention Japanese voice, which neither confirms nor rules it out
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7]: The First Soldier: Android, 2021-11-17, region International
+  - Final Fantasy VII [7]: The First Soldier: Apple iOS, 2021-11-17, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7]: The First Soldier: Android / Apple iOS, 2021-11-17, score ---
+
 ## Decisions

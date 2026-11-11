@@ -411,4 +411,20 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
 - https://www.co-optimus.com/game/5761/playstation-4/final-fantasy-crystal-chronicles-remastered-edition.html -- Remastered Edition, PlayStation 4: co-op for 4 players, online; co-op* -- accessed 2026-11-10; archived: TODO
 - https://www.co-optimus.com/game/13214/classics-gamecube/final-fantasy-crystal-chronicles.html -- GameCube: co-op for 4 players, local; each player needs a Game Boy Advance connected to the GameCube; co-op* -- accessed 2026-11-10; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Crystal Chronicles: GameCube, 2003-08-08, region JP
+  - Final Fantasy Crystal Chronicles: GameCube, 2004-02-09, region NA
+  - Final Fantasy Crystal Chronicles: GameCube, 2004-03-12, region EU, AUS
+  - Final Fantasy Crystal Chronicles Remastered: Android, 2020-08-27, region International
+  - Final Fantasy Crystal Chronicles Remastered: Apple iOS, 2020-08-27, region International
+  - Final Fantasy Crystal Chronicles Remastered: Nintendo Switch, 2020-08-27, region International
+  - Final Fantasy Crystal Chronicles Remastered: Playstation 4, 2020-08-27, region International
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Crystal Chronicles: GameCube, 2003-08-08, region JP, NA, PAL
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Crystal Chronicles: Gamecube, 2004-02-15, score 65.2%
+  - Final Fantasy Crystal Chronicles Remastered: Android, Apple iOS, Playstation 4, Nintendo Switch, 2020-08-27, score ---
+
 ## Decisions

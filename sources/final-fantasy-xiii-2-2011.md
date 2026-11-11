@@ -484,6 +484,35 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII-2#External_l
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIII-2#%E8%A9%95%E4%BE%A1 -- Famitsu cross review 40/40 (Weekly Famitsu issue 1201), Platinum Hall of Fame; Dengeki PlayStation Buyer's Guide top rank S -- accessed 2026-11-10 (revision 110335847 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIII-2 [13-2]: Apple iOS, 2015-09-25, region JP
+  - Final Fantasy XIII-2 [13-2]: Android, 2015-09-25, region JP
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIII-2 [13-2]: PlayStation 3, 2011-12-15, region JP
+  - Final Fantasy XIII-2 [13-2]: Xbox 360, 2011-12-15, region JP
+  - Final Fantasy XIII-2 [13-2]: PlayStation 3, 2012-01-31, region NA
+  - Final Fantasy XIII-2 [13-2]: Xbox 360, 2012-01-31, region NA
+  - Final Fantasy XIII-2 [13-2]: PlayStation 3, 2012-02-02, region AUS
+  - Final Fantasy XIII-2 [13-2]: Xbox 360, 2012-02-02, region AUS
+  - Final Fantasy XIII-2 [13-2]: PlayStation 3, 2012-02-03, region EU
+  - Final Fantasy XIII-2 [13-2]: Xbox 360, 2012-02-03, region EU
+  - Final Fantasy XIII/XIII-2 Dual Pack: PlayStation 3, 2012-09-13, region China
+  - Final Fantasy XIII-2 [13-2]: PC (Steam), 2014-12-11, region International
+  - Final Fantasy XIII-2 [13-2]: Apple iOS, 2015-09-25, region JP
+  - Final Fantasy XIII-2 [13-2]: Android, 2015-09-25, region JP
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIII-2 [13-2]: PlayStation 3, 2011-12-15, region JP, NA, AUS, EU
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIII-2 [13-2]: Xbox 360, 2011-12-15, region JP, NA, AUS, EU
+  - Final Fantasy XIII-2 [13-2]: Microsoft Windows Steam (PC), 2014-12-11, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIII-2 [13-2]: PlayStation 3 / Xbox 360, 2011-12-15, score 55.4%
+
 ## Decisions
 
 - Release-date order: the game is `2011-12-15 20` and Fragments Before is `2011-12-15 10`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

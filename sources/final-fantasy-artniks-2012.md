@@ -135,6 +135,23 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Artniks#External_
   - https://web.archive.org/web/20131219024545/http://jp.apps.gree.net/ja/57737 -- GREE Final Fantasy Artniks Portal -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://en.wikipedia.org/wiki/Final_Fantasy_Artniks -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Artniks: Mobile Phone (GREE), 2012-11-30, region JP
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Artniks: Mobile Phone (GREE), 2012-11-30, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Artniks: Mobile Phone (GREE), 2012-11-30 (JP), score ---
+
+## thefinalfantasy.net (Information; Overview page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/final-fantasy-artniks/ -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Social card RPG, Japan only, November 30, 2012, on the GREE network; over one million players in a month; a sequel (named Final Fantasy Artniks Drive on the page) was planned; both axed for undisclosed reasons and no longer available; director Kazunari Itakura, producer Ichiro Hazama
+
 ## Decisions
 - GREE is the link for the Android and iOS rows (user, 2026-10-20): the search for direct Play Store and App Store pages is closed, since the game was only available through registration on the GREE website; the rows link the GREE apps page capture of 2013-12-19 and no store page is expected to exist
 - No `by` line (user, 2026-10-20): director Kazunari Itakura and producer Ichiro Hazama are named by zh.wikipedia and thefinalfantasy.net, but the entry carries no credits

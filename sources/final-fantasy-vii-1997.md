@@ -711,6 +711,68 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://www.imdb.com/title/tt0208155/ -- IMDb title page for Final Fantasy VII, IMDb id tt0208155, original title Fainaru fantajî VII, type Video Game, year 1997, release date 1997-11-17, certificate 12, genres Action, Adventure, Drama, rating 9.4 from 12,255 votes, production status Released; plot: A former soldier from an evil company joins a mercenary clan to fight the company he once served. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7]: Apple iOS, 2015-08-19, region International
+  - Final Fantasy VII [7]: Android, 2016-07-07, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Preview Extra: Final Fantasy VII & Siggraph '95 Works: Sony PlayStation, 1996-08-22, region JP
+  - Final Fantasy VII [7]: Sony PlayStation, 1997-01-31, region JP
+  - Final Fantasy VII [7]: Sony PlayStation, 1997-09-04, region NA
+  - Final Fantasy VII [7] International: PlayStation, 1997-10-07, region JP
+  - Final Fantasy VII [7]: Sony PlayStation, 1997-11-01, region EU, AUS
+  - Final Fantasy VII [7]: Microsoft Windows (PC), 1998-05-31, region NA
+  - Final Fantasy VII [7]: Microsoft Windows (PC), 1998-06-25, region EU
+  - Final Fantasy VII [7]: Greatest Hits: Sony PlayStation, 2000-03-27, region NA
+  - Final Fantasy VII [7] International: PlayStation Network, 2009-04-09, region JP
+  - Final Fantasy VII [7]: PlayStation Network, 2009-06-02, region NA
+  - Final Fantasy VII [7]: PlayStation Network, 2009-06-04, region EU, AUS
+  - Final Fantasy VII [7] Square Enix Store Re-release: Microsoft Windows (PC), 2012-08-14, region NA, EU
+  - Final Fantasy VII [7] Square Enix Store Re-release: Microsoft Windows (PC), 2013-05-16, region JP
+  - Final Fantasy VII [7]: PC (Steam), 2013-07-04, region International
+  - Final Fantasy VII [7]: Apple iOS, 2015-08-19, region International
+  - Final Fantasy VII [7]: Android, 2016-07-07, region International
+  - Final Fantasy VII [7]: Nintendo Switch (eShop), 2019-03-26, region International
+  - Final Fantasy VII [7]: Xbox One (Download), 2019-03-26, region International
+  - Final Fantasy VII and VIII Remastered Twin Pack: Nintendo Switch, 2019-11-29, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Preview Extra: Final Fantasy VII & Siggraph '95 Works: Sony PlayStation, 1996-08-22, region JP
+  - Final Fantasy VII [7]: Sony PlayStation, 1997-01-31, region JP, NA, PAL
+  - Final Fantasy VII [7] International: PlayStation, 1997-10-07, region JP
+  - Final Fantasy VII [7] International: PlayStation Network, 2009-04-09, region JP
+  - Final Fantasy VII [7]: PlayStation Network, 2009-06-02, region NA, EU, AUS
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7]: Nintendo Switch (eShop), 2019-03-26, region International
+  - Final Fantasy VII [7] and VIII [8] Remastered Twin Pack: Nintendo Switch, 2019-11-29, region International
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7]: Microsoft Windows (PC), 1998-05-31, region NA, EU
+  - Final Fantasy VII [7] Square Enix Store Re-release: Microsoft Windows (PC), 2012-08-14, region NA, EU, JP
+  - Final Fantasy VII [7]: Microsoft Windows Steam (PC), 2013-07-04, region International
+  - Final Fantasy VII [7]: XBox One (Download), 2019-03-26, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7]: PlayStation, 1997-01-31, score 90.4%
+
+## thefinalfantasy.net (Information; FF7 Compilation page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff7/re-releases.html -- Final Fantasy VII compilation page -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release dates shown: Jan. 31, 1997 (PSX), Sep. 7, 1997 (PSX); platforms PlayStation, iOS, Android, PC, PlayStation 4
+  - Community rating on the page: FF7 4.21/5, 84.2%, 4132 votes
+  - Compilation list: Before Crisis, Advent Children, Dirge of Cerberus with Lost Episode, Crisis Core, Last Order; Snowboarding and G-Bike listed as small releases outside the Compilation
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff7/ -- Final Fantasy VII overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7]: PlayStation, JP 1997-01-37, US 1997-09-07
+  - Final Fantasy VII [7] International: PlayStation, JP 1997-10-07, US -
+  - Final Fantasy VII [7]: PlayStation Network, JP 2009-04-09, US 2009-06-02
+  - Final Fantasy VII [7] SE Store Re-release: Microsoft Windows (PC), JP 2013-05-16, US 2012-08-14
+  - Final Fantasy VII [7]: Microsoft Windows Steam (PC), JP 2013-07-04, US 2013-07-04
+  - Final Fantasy VII [7]: Apple iOS, JP 2015-08-19, US 2015-08-19
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

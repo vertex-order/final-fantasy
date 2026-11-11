@@ -148,4 +148,18 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
 
 - https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_Opera_Omnia#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4021579 of 2026-07-12; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Dissidia_Final_Fantasy_Opera_Omnia#Voice_cast); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dissidia Final Fantasy Omnia: Android, 2018-01-30, region ---
+  - Dissidia Final Fantasy Omnia: Apple iOS, 2018-01-30, region ---
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dissidia Final Fantasy Omnia: Android, 2018-01-30, region ---
+  - Dissidia Final Fantasy Omnia: Apple iOS, 2018-01-30, region ---
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Dissidia Final Fantasy Opera Omnia: Android / Apple iOS, 2018-01-30, score ---
+
 ## Decisions

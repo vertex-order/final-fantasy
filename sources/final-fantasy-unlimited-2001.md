@@ -73,4 +73,14 @@
 
 - https://www.imdb.com/title/tt0304012/ -- IMDb title page for Final Fantasy: Unlimited, IMDb id tt0304012, type TV Series, year 2001 to 2002, release date 2001-10-02, runtime 1440, certificate PG, genres Animation, Adventure, Fantasy, rating 5.9 from 746 votes; plot: Two siblings try to find their missing parents. Based on the best selling video game series by Square Enix. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Unlimited: TV/DVD, 2001-10-02, region JP
+  - Final Fantasy: Unlimited: DVD, 2005-08-23, region NA
+- https://thefinalfantasy.net/games/movies-film.html (movie and film releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Unlimited: TV/DVD, 2001-10-02, region JP, NA
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Unlimited: Anime, 2001-10-02, score 56.8%
+
 ## Decisions

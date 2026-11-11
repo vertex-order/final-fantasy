@@ -58,4 +58,16 @@
   - The artbook Final Fantasy: Unlimited – The World with Wind and Clouds (Kadokawa Shoten, 96 pages, 2002-04-22): listed in sources/ffu-group.md
   - Unlimited Saga: the page says it was originally tied to the anime's setting, shelved during production
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Unlimited with U: Mobile Phone (i-mode), 2002-08-20, region JP
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Unlimited with U: Mobile Phone (i-mode), 2002-08-20, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Unlimited with U: Mobile Phone (i-mode), 2002-08-20, score ---
+
 ## Decisions

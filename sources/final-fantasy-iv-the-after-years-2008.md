@@ -467,4 +467,36 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV:_The_After_Yea
   - http://dlgames.square-enix.com/ff/ff4tay/jp/index.html -- FINAL FANTASY IV THE AFTER -月の帰還- (iOS/Android版公式サイト) -- link recorded only -- accessed 2026-11-08; archived: TODO
   - https://www.jp.square-enix.com/game/detail/ff4cc/ -- ファイナルファンタジーIV コンプリートコレクション (the Complete Collection, which bundles The After Years) -- link recorded only -- accessed 2026-11-08; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IV the After: Tsuki no Kikan: Mobile Phone (FOMA), 2008-02-18, region JP
+  - Final Fantasy IV the After: Tsuki no Kikan: Mobile Phone (au Win Brew), 2008-05-15, region JP
+  - Final Fantasy IV the After: Tsuki no Kikan: Mobile Phone (SoftBank), 2008-11-04, region JP
+  - Final Fantasy IV [4]: The After Years: Android, 2013-11-25, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IV the After: Tsuki no Kikan: Mobile Phone (FOMA), 2008-02-18, region JP
+  - Final Fantasy IV the After: Tsuki no Kikan: Mobile Phone (au Win Brew), 2008-05-15, region JP
+  - Final Fantasy IV the After: Tsuki no Kikan: Mobile Phone (SoftBank), 2008-11-04, region JP
+  - Final Fantasy IV [4]: The After Years: WiiWare, 2009-06-01, region NA
+  - Final Fantasy IV [4]: The After Years: WiiWare, 2009-06-05, region EU
+  - Final Fantasy IV [4]: The After Years: WiiWare, 2009-07-21, region JP
+  - Final Fantasy IV [4]: The After Years: Android, 2013-11-25, region International
+  - Final Fantasy IV [4]: The After Years: PC (Steam), 2015-05-11, region International
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IV [4]: The After Years: WiiWare, 2009-06-01, region NA, EU, JP
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IV [4]: The After Years: Microsoft Windows (Steam), 2015-05-11, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy IV [4]: The After Years: Mobile / Wii / Sony PSP, 2008-02-18, score 44.0%
+
+## thefinalfantasy.net (Information; Overview page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff4-the-after-years/ -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release table (JP, US): Tsuki no Kikan FOMA 2008-02-18, au Win Brew 2008-05-15, SoftBank 2008-11-04; WiiWare 2009-07-21 and 2009-06-01; The Complete Collection (PSP) 2011-03-24 and 2011-04-29; Android 2013-11-25; Steam 2015-05-11
+  - Metaseries on the page: Final Fantasy IV, Interlude, The After Years; links to a Final Fantasy IV re-releases page (ff4/re-releases.html) not saved
+
 ## Decisions

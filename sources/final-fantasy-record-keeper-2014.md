@@ -218,4 +218,20 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Record_Keeper#Ext
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Record_Keeper#Credits -- Voice cast: characters are not ordinarily voiced, but sometimes in the Japanese version short voice samples are used during certain attacks (removed in the global version; the actors are not credited in-game): Zack (Kenichi Suzumura), Ace (Yuki Kaji), Deuce (Kana Hanazawa), Rem (Ryoko Shiraishi), Machina (Hiroshi Kamiya), Queen (Ami Koshimizu); proves Japanese voice in the Japanese version, no English voice -- accessed 2026-11-10 (revision 4039585 of 2026-08-31; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Record_Keeper#Credits); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Record Keeper: Apple iOS, 2014-09-24, region JP, International
+  - Final Fantasy Record Keeper: Android, 2014-09-24, region JP, International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Record Keeper: Apple iOS, 2014-09-24, region JP
+  - Final Fantasy Record Keeper: Android, 2014-09-24, region JP
+  - Final Fantasy Record Keeper: Apple iOS, 2015-03-26, region International
+  - Final Fantasy Record Keeper: Android, 2015-03-26, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Record Keeper: Android / Apple iOS, 2014-09-24, score ---
+
 ## Decisions

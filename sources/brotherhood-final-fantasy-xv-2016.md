@@ -79,4 +79,31 @@
 
 - https://www.imdb.com/title/tt5595178/ -- IMDb title page for Brotherhood: Final Fantasy XV, IMDb id tt5595178, type TV Series, year 2016, release date 2016-03-30, runtime 900, genres Animation, Action, Adventure, rating 7 from 1,842 votes; plot: A story set alongside the video game Final Fantasy XV, starring one of its main characters, Noctis, and his friends. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Brotherhood Final Fantasy XV: YouTube, 2016-03-30, region International
+  - Brotherhood Final Fantasy XV: Blu-ray, 2016-09-30, region International
+- https://thefinalfantasy.net/games/movies-film.html (movie and film releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Brotherhood Final Fantasy XV: YouTube, 2016-03-30, region International
+  - Brotherhood Final Fantasy XV: Blu-ray, 2016-09-30, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Brotherhood Final Fantasy XV [15]: Blu-ray / YouTube, 2016-03-30, score ---
+
+## thefinalfantasy.net (Information; FF15 Universe page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/ffxv-universe.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Episodes on YouTube (playlist link), on the friendships of Noctis and his three comrades; subsequent episodes to be released until the game's launch
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/ -- Final Fantasy XV overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Brotherhood Final Fantasy XV [15]: YouTube, JP 2016-03-30, US 2016-03-30
+  - Brotherhood Final Fantasy XV [15]: Blu-ray, JP 2016-09-30, US 2016-09-30
+
+## thefinalfantasy.net (Information; FF15 Game Editions page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/game-editions.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - The Ultimate Collector's Edition includes the Brotherhood Blu-ray with an additional bonus scene
+
 ## Decisions

@@ -246,4 +246,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy_Curta
   - http://www.jp.square-enix.com/t_ffcc/ -- Official Japanese Website -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://www.theatrhythm.com/index.html -- Official English Website -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Theatrhythm Final Fantasy: Curtain Call: Nintendo 3DS, 2014-04-24, region JP
+  - Theatrhythm Final Fantasy: Curtain Call: Nintendo 3DS, 2014-09-16, region NA
+  - Theatrhythm Final Fantasy: Curtain Call: Nintendo 3DS, 2014-09-19, region EU
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Theatrhythm Final Fantasy: Curtain Call: Nintendo 3DS, 2014-04-24, region JP, NA, EU
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Theatrhythm Final Fantasy: Curtain Call: Nintendo 3DS, 2014-04-24, score ---
+
 ## Decisions

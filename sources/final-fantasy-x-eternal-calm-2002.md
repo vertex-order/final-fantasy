@@ -144,4 +144,9 @@
 
 - https://www.themoviedb.org/movie/988881-final-fantasy-x-eternal-calm -- Final Fantasy X: Eternal Calm, 2002, 14m, released 2002-01-31 (JP; the only release date shown), original language Japanese, genres Adventure and Fantasy, overview "A cinematic cutscene taking place between Final Fantasy X and Final Fantasy X-2.", cast Mayuko Aoki (Yuna), Kazuya Nakai (Wakka), Marika Matsumoto (Rikku), Masakazu Morita (Shuyin); no crew added; TMDB id 988881 -- accessed 2026-11-10; archived: TODO
 
+## thefinalfantasy.net (Information; FF10 Re-releases page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff10/re-releases.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - A 14-minute video named Eternal Calm is included with the Japanese Final Fantasy X International
+
 ## Decisions

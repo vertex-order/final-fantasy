@@ -1607,6 +1607,64 @@
 - https://auctions.yahoo.co.jp/search/search?p=%22%E5%B2%A1%E5%B4%8E%E6%AD%A6%E5%A3%AB%22+%E3%83%9E%E3%83%AB%E5%8B%9D -- Yahoo! Auctions search for "岡崎武士" マル勝 (all listings): 476 results, pages 1 to 5 read; mostly his other work (精霊使い laser discs, art books, telephone cards, exhibition goods) and Maru-Katsu magazines and supplements; one listing of the Final Fantasy II booklet (マル勝ファミコン別冊付録 ファイナルファンタジーⅡ 夢魔への前奏曲); no listing of a comic by him -- pages saved by the user 2026-11-11, visited and audited; archived: TODO
 - https://auctions.yahoo.co.jp/search/search?p=%E3%83%9E%E3%83%AB%E5%8B%9D%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3+%E4%BB%98%E9%8C%B2+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC2 -- Yahoo! Auctions search for "マル勝ファミコン 付録 ファイナルファンタジー2" (all listings): 118,953 results (any-word match), pages 1 to 6 read; the same booklet listing, and one マルカツファミコン issue of 1989-01-27 and 02-10 (combined issue) titled with ファイナルファンタジー2 and とじ込み付録 (newspaper not included); the rest unrelated; later pages not captured -- pages saved by the user 2026-11-11, visited and audited; archived: TODO
 
+## thefinalfantasy.net (Information; fan site, Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's list of all Final Fantasy games released on mobile platforms (iOS, Android, Windows Phone, Kindle Fire and Japan mobile carriers; 92 rows, 2002-08-20 to 2018-02-08; first-release region first, later regions after), visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/games/complete-list.html -- complete game list with release dates (Full): 576 rows, 167 titles, all consoles, 1987 to 2023, region per row -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/games/sony-console-releases.html -- Sony console releases (PlayStation, PlayStation 2, 3, 4, 5, PSP, Vita) -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/games/nintendo-console-releases.html -- Nintendo console releases -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/games/other-console-releases.html -- other console releases (Xbox, PC, Switch and the rest) -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/games/movies-film.html -- movie and film releases (13 rows, 1994 to 2016: Legend of the Crystals, The Spirits Within, Unlimited, Advent Children, Last Order, Brotherhood, Kingsglaive) -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/games/ -- landing page (top-10 rated games, monthly poll on favourite era; no release table) -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - the top-rated list of the site (Game Title, Console, Release Date, Score; 126 rows, scores from 50.4% to 90.4%; a second save of the same page, "all-", holds the identical table; saved as "Complete Game List", canonical URL https://thefinalfantasy.net/games/) -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff1/re-releases.html -- Final Fantasy (1987) re-releases page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff7/re-releases.html -- Final Fantasy VII compilation page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff-tactics/re-releases.html -- Final Fantasy Tactics re-releases page (Ivalice Alliance) -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/final-fantasy-adventure/remakes.html -- Final Fantasy Adventure remakes and re-releases page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/final-fantasy-dimensions/series.html -- Final Fantasy Dimensions series page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff14-a-realm-reborn/expansions.html -- Final Fantasy XIV: A Realm Reborn expansions and patches page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff15/ffxv-universe.html -- Final Fantasy XV Universe page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/final-fantasy-type-0/ff-type-0-online.html -- Final Fantasy Type-0 Online page: action RPG for Android, iOS, Windows Phone and later Windows (PC), the successor of Final Fantasy Agito, developed by Square Enix and Perfect World, free to play, slated for late 2016 in Japan with a North American date unconfirmed; set in the Type-0 universe (Fabula Nova Crystallis); planning began in 2014 after Agito could not be developed further -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/final-fantasy-type-0/final-fantasy-agito.html -- Final Fantasy Agito page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff7/last-order.html -- Last Order: Final Fantasy VII page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff7-dirge-of-cerberus/lost-episode.html -- Dirge of Cerberus Lost Episode page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff7-before-crisis/ -- Before Crisis: Final Fantasy VII page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/crystal-defenders/ -- Crystal Defenders page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/final-fantasy-artniks/ -- Final Fantasy Artniks page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/final-fantasy-legend/ -- The Final Fantasy Legend page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff-mystic-quest/ -- Final Fantasy Mystic Quest page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff-legend-of-the-crystals/ -- Final Fantasy: Legend of the Crystals page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff-spirits-within/ -- Final Fantasy: The Spirits Within page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff4-the-after-years/ -- Final Fantasy IV: The After Years page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/articles/ -- Final Fantasy Articles page: general articles, staff reviews, interviews and the Chocobo Digest (six issues of a mock digest); no game or media we lack -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/final-fantasy-reviews/ -- Final Fantasy Reviews page: community ratings (percent and votes) and staff and user reviews for I to X-2, XII, XIII, Lightning Returns, Tactics and Theatrhythm Curtain Call -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff4/re-releases.html -- Final Fantasy IV re-releases page (Chronicles, Advance, DS, Complete Collection with Interlude) -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff3/re-releases.html -- Final Fantasy III re-releases page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff5/re-releases.html -- Final Fantasy V re-releases page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff6/re-releases.html -- Final Fantasy VI re-releases page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff11/expansions.html -- Final Fantasy XI expansions page (release dates per platform and region for the first four expansions) -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/final-fantasy-legend/saga-series.html -- Final Fantasy SaGa Series page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff1/ -- Final Fantasy I overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff2/ -- Final Fantasy II overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff3/ -- Final Fantasy III overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff4/ -- Final Fantasy IV overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff5/ -- Final Fantasy V overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff6/ -- Final Fantasy VI overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff7/ -- Final Fantasy VII overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff8/ -- Final Fantasy VIII overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff9/ -- Final Fantasy IX overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff10/ -- Final Fantasy X overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff11/ -- Final Fantasy XI overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff12/ -- Final Fantasy XII overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff13/ -- Final Fantasy XIII overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff14-a-realm-reborn/ -- Final Fantasy XIV: A Realm Reborn overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff15/ -- Final Fantasy XV overview page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff10/re-releases.html -- Final Fantasy X re-releases page -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - https://thefinalfantasy.net/ff15/game-editions.html -- Final Fantasy XV game editions page (Standard, Day One, Deluxe, Ultimate Collector's) -- visited and audited -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Two further saves of https://thefinalfantasy.net/games/ ("The Final Fantasy_ Complete Game List" and "top-The Final Fantasy_ Complete Game List"): the landing page with the top-10 rated list and the era poll, identical text; no release table -- visited and audited -- accessed 2026-11-11
+  - Not saved: the article, review, MIDI and forum sections
+  - Rows for Final Fantasy Type-0 Online (Android, Apple iOS and Windows Phone, 2016, JP) are on the list
+
 ## Decisions
 
 Also recorded in the group files named in each item:

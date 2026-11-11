@@ -790,4 +790,82 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI#External_links
 
 - https://www.imdb.com/title/tt0210061/ -- IMDb title page for Final Fantasy VI, IMDb id tt0210061, type Video Game, year 1994, release date 1994-04-02, certificate 12, genres Action, Adventure, Drama, rating 9.1 from 3,825 votes, production status Released; plot: A mysterious woman joins a group of mercenaries in order to find out about her destiny and means of saving the world from an evil madman. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VI [6]: Android, 2014-01-15, region International
+  - Final Fantasy VI [6]: Apple iOS, 2014-02-06, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VI [6]: Super Famicom, 1994-04-02, region JP
+  - Final Fantasy III [6]: Super Nintendo, 1994-10-11, region NA
+  - Final Fantasy VI [6]: PlayStation, 1999-03-01, region JP
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, 1999-03-11, region JP
+  - Final Fantasy Anthology [5 & 6]: PlayStation, 1999-10-05, region NA
+  - Final Fantasy VI [6]: PlayStation, 2002-03-01, region EU
+  - Final Fantasy VI [6] Advance: Game Boy Advance, 2006-11-30, region JP
+  - Final Fantasy VI [6] Advance: Game Boy Advance, 2007-02-05, region NA
+  - Final Fantasy VI [6] Advance: Game Boy Advance, 2007-06-29, region EU
+  - Final Fantasy VI [6]: Wii Virtual Console, 2011-03-15, region JP
+  - Final Fantasy VI [6]: Wii Virtual Console, 2011-03-18, region NA
+  - Final Fantasy VI [6]: PlayStation Network, 2011-04-20, region JP
+  - Final Fantasy VI [6]: PlayStation Network, 2011-05-23, region EU
+  - Final Fantasy VI [6]: PlayStation Network, 2011-06-02, region AUS
+  - Final Fantasy VI [6]: Wii Virtual Console, 2011-06-30, region EU
+  - Final Fantasy VI [6]: PlayStation Network, 2011-12-06, region NA
+  - Final Fantasy VI [6]: Wii U Virtual Console, 2013-06-26, region JP
+  - Final Fantasy VI [6]: Android, 2014-01-15, region International
+  - Final Fantasy VI [6]: Apple iOS, 2014-02-06, region International
+  - Final Fantasy VI [6]: PC (Steam), 2015-12-16, region International
+  - Final Fantasy VI [6] Advance: Wii U Virtual Console, 2015-12-22, region JP
+  - Final Fantasy VI [6]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2022-02-23, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VI [6]: PlayStation, 1999-03-01, region JP
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, 1999-03-11, region JP
+  - Final Fantasy Anthology [5 & 6]: PlayStation, 1999-10-05, region NA
+  - Final Fantasy VI [6]: PlayStation, 2002-03-01, region EU
+  - Final Fantasy VI [6]: PlayStation Network, 2011-04-20, region JP, PAL, NA
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VI [6] Advance: Game Boy Advance, 2006-11-30, region JP, NA, EU
+  - Final Fantasy VI [6]: Wii Virtual Console, 2011-03-15, region JP, EU, NA
+  - Final Fantasy VI [6]: Wii U Virtual Console, 2013-06-26, region JP
+  - Final Fantasy VI [6] Advance: Wii U Virtual Console, 2015-12-22, region JP
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VI [6]: Microsoft Windows Steam (PC), 2015-12-16, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VI [6]: Super Nintendo, 1994-04-02, score 82.6%
+  - Final Fantasy: Anthology: PlayStation, 1999-01-13 (NA), score ---
+  - Final Fantasy VI [6] Advance: Game Boy Advance, 2006-11-30 (US), score ---
+  - Final Fantasy VI [6]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2022-02-23, score ---
+
+## thefinalfantasy.net (Information; FF6 Re-releases page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff6/re-releases.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release dates shown: Apr. 2, 1994 (SNES), Oct. 11, 1994 (SNES); platforms SNES, PlayStation, GBA, iOS, Android, PC
+  - Final Fantasy Collection 1999-03-11 (IV, V, VI); Anthology North America 1999-01-13 (V and VI); Advance Japan 2006-11-30; Wii Virtual Console (JP) 2011-01-01; PSOne classic (JP 2011-04-06, US 2011-11-22)
+  - Advance additions: four espers (Leviathan, Gilgamesh, Cactuar, Diablos), Dragon's Den with Kaiser Dragon, Soul Shrine, three spells, bug fixes, music player, new translation; no movies
+  - Final Fantasy SGI Demo: a short Square demo with Final Fantasy VI characters, made on new Silicon Graphics Onyx workstations, Square's first 3D work, not a Nintendo 64 title
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff4/ -- Final Fantasy IV overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, JP 1999-03-11, US -
+- https://thefinalfantasy.net/ff5/ -- Final Fantasy V overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, JP 1999-03-11, US -
+- https://thefinalfantasy.net/ff6/ -- Final Fantasy VI overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VI [6]: Super Nintendo, JP 1994-04-02, US 1994-10-11
+  - Final Fantasy VI [6]: PlayStation, JP 1999-03-01, US -
+  - Final Fantasy Collection [4, 5 & 6]: PlayStation, JP 1999-03-11, US -
+  - Final Fantasy VI [6] Advance: Game Boy Advance, JP 2006-11-30, US 2007-02-05
+  - Final Fantasy VI [6]: Wii Virtual Console, JP 2011-03-15, US 2011-06-30
+  - Final Fantasy VI [6]: PlayStation Network, JP 2011-04-20, US 2011-12-06
+  - Final Fantasy VI [6]: Wii U Virtual Console, JP 2013-06-26, US -
+  - Final Fantasy VI [6]: Android, JP 2014-01-15, US 2014-01-15
+  - Final Fantasy VI [6]: Apple iOS, JP 2014-02-06, US 2014-02-06
+  - Final Fantasy VI [6]: Microsoft Windows Steam (PC), JP 2015-12-16, US 2015-12-16
+  - Final Fantasy VI [6] Advance: Wii U Virtual Console, JP 2015-12-22, US -
+  - Final Fantasy VI [6]: Pixel Remaster: Steam, Android, iOS, JP 2022-02-23, US -
+
 ## Decisions

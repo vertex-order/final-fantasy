@@ -760,6 +760,50 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics#External_
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4041270 of 2026-09-02; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Tactics#Voice_cast); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Tactics: The War of the Lions: Apple iOS, 2011-08-04, region International
+  - Final Fantasy Tactics: The War of the Lions: Android, 2013-02-14, region JP, NA, EU
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Tactics: PlayStation, 1997-06-20, region JP
+  - Final Fantasy Tactics: PlayStation, 1998-01-28, region NA
+  - Final Fantasy Tactics: Square's Millennium Collection: PlayStation, 2000-06-29, region JP
+  - Final Fantasy Tactics: Sony Greatest Hits: PlayStation, 2001-06-15, region NA
+  - Final Fantasy Tactics: The War of the Lions: Sony PSP, 2007-05-10, region JP
+  - Final Fantasy Tactics: The War of the Lions: Sony PSP, 2007-10-05, region EU
+  - Final Fantasy Tactics: The War of the Lions: Sony PSP, 2007-10-08, region AUS
+  - Final Fantasy Tactics: The War of the Lions: Sony PSP, 2007-10-09, region NA
+  - Final Fantasy Tactics: PlayStation Network, 2009-05-13, region JP
+  - Final Fantasy Tactics: PlayStation Network, 2009-09-17, region NA
+  - Final Fantasy Tactics: The War of the Lions: PlayStation Network, 2011-03-09, region JP
+  - Final Fantasy Tactics: The War of the Lions: PlayStation Network, 2011-06-30, region EU
+  - Final Fantasy Tactics: The War of the Lions: PlayStation Network, 2011-07-19, region NA
+  - Final Fantasy Tactics: The War of the Lions: Apple iOS, 2011-08-04, region International
+  - Final Fantasy Tactics: The War of the Lions: Android, 2013-02-14, region JP
+  - Final Fantasy Tactics: The War of the Lions: Android, 2015-06-04, region NA, EU, AUS
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Tactics: PlayStation, 1997-06-20, region JP, NA
+  - Final Fantasy Tactics: Square's Millennium Collection: PlayStation, 2000-06-29, region JP
+  - Final Fantasy Tactics: Sony Greatest Hits: PlayStation, 2001-06-15, region NA
+  - Final Fantasy Tactics: The War of the Lions: Sony PSP, 2007-05-10, region JP
+  - Final Fantasy Tactics: PlayStation Network, 2009-05-13, region JP, NA
+  - Final Fantasy Tactics: The War of the Lions: PlayStation Network, 2011-03-09, region JP, NA, EU
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Tactics: PlayStation, 1997-06-20, score 77.6%
+  - Final Fantasy Tactics: War of the Lions: Sony PSP, 2007-05-10, score ---
+
+## thefinalfantasy.net (Information; FFT Re-releases page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff-tactics/re-releases.html -- Final Fantasy Tactics re-releases page (Ivalice Alliance) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release dates shown: Jun. 20, 1997 (PSX), Jan. 28, 1998 (PSX); platforms PlayStation, PSP, PSN, Apple iOS, Android
+  - The War of the Lions (2007, PSP): second game announced in the Ivalice Alliance; new cutscenes, 16:9, Akihiko Yoshida art, Onion Knight and Dark Knight, Balthier and Luso, wireless multiplayer, new items, larger party limit
+  - Ivalice Alliance list on the page: Tactics (1997), Tactics Advance (2003), Tactics A2 (2007), The War of the Lions (2007), Tactics S (2013), Final Fantasy XII (2006), Revenant Wings (2007), Crystal Defenders (2008)
+  - Community rating on the page: FFT 3.63/5, 72.6%, 1321 votes
+
 ## Decisions
 
 

@@ -71,4 +71,23 @@
 
 - https://www.imdb.com/title/tt0173840/ -- IMDb title page for Final Fantasy: The Spirits Within, IMDb id tt0173840, type Movie, year 2001, release date 2001-08-03, runtime 106 min, certificate PG, genres Animation, Action, Adventure, rating 6.4 from 87,021 votes; plot: A scientist makes a last stand on Earth with the help of a ragtag team of soldiers against an invasion of alien phantoms. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: The Spirits Within: Cinemas, 2001-07-02, region JP
+  - Final Fantasy: The Spirits Within: Cinemas, 2001-07-13, region NA
+  - Final Fantasy: The Spirits Within: DVD, 2001-10-23, region International
+  - Final Fantasy: The Spirits Within: Blu-ray, 2007-08-07, region International
+- https://thefinalfantasy.net/games/movies-film.html (movie and film releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: The Spirits Within: Cinemas, 2001-07-02, region JP, NA
+  - Final Fantasy: The Spirits Within: DVD, 2001-10-23, region International
+  - Final Fantasy: The Spirits Within: Blu-ray, 2007-08-07, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Spirits Within: Blu-ray / DVD / Cinemas, 2001-07-02, score 51.6%
+
+## thefinalfantasy.net (Information; Overview page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff-spirits-within/ -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release table (JP, US): Cinemas 2001-07-02 and 2001-07-13; DVD 2001-10-23; Blu-ray 2007-08-07; director Hironobu Sakaguchi; budget $137 million, gross $85 million
+
 ## Decisions

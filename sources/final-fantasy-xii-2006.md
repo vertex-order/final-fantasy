@@ -449,4 +449,32 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII#External_link
 
 - https://www.imdb.com/title/tt0388944/ -- IMDb title page for Final Fantasy XII, IMDb id tt0388944, original title Fainaru fantajî XII, type Video Game, year 2006, release date 2007-02-23, certificate 16, genres Action, Adventure, Fantasy, rating 8.1 from 4,312 votes, production status Released; plot: Street thief Vaan becomes embroiled in a quest to save the occupied kingdom in which he resides, Dalmasca, from a war that seems imminent. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XII [12]: PlayStation 2, 2006-03-16, region JP
+  - Final Fantasy XII [12]: PlayStation 2, 2006-10-31, region NA
+  - Final Fantasy XII [12]: PlayStation 2, 2007-02-23, region EU, AUS
+  - Final Fantasy XII [12] International Zodiac Job System: PlayStation 2, 2007-08-09, region JP
+  - Final Fantasy XII [12]: The Zodiac Age: PlayStation 4, 2017, region International
+  - Final Fantasy XII [12]: The Zodiac Age: PC (Steam), 2018-02-02, region International
+  - Final Fantasy XII [12]: The Zodiac Age: Nintendo Switch, 2019-04-25, region JP
+  - Final Fantasy XII [12]: The Zodiac Age: Xbox One, 2019-04-25, region JP
+  - Final Fantasy XII [12]: The Zodiac Age: Nintendo Switch, 2019-04-30, region NA
+  - Final Fantasy XII [12]: The Zodiac Age: Xbox One, 2019-04-30, region NA
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XII [12]: PlayStation 2, 2006-03-16, region JP, NA, EU, AUS
+  - Final Fantasy XII [12] International: PlayStation 2, 2007-08-09, region JP
+  - Final Fantasy XII [12]: The Zodiac Age: PlayStation 4, 2017, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XII [12]: PlayStation 2, 2006-03-16, score 80.6%
+  - Final Fantasy XII [12]: The Zodiac Age: PlayStation 4, 2017-07-11, score ---
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff12/ -- Final Fantasy XII overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XII [12]: PlayStation 2, JP 2006-03-16, US 2006-10-31
+  - Final Fantasy XII [12] International Zodiac Job System: PlayStation 2, JP 2007-08-09, US -
+  - Final Fantasy XII [12]: The Zodiac Age: PlayStation 4, JP 2017, US 2017
+
 ## Decisions

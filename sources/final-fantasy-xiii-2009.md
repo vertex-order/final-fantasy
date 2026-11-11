@@ -531,4 +531,43 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII#External_lin
 
 - https://www.imdb.com/title/tt0802988/ -- IMDb title page for Final Fantasy XIII, IMDb id tt0802988, original title Fainaru fantajî XIII, type Video Game, year 2009, release date 2010-03-09, certificate 16, genres Action, Adventure, Drama, rating 7.1 from 4,220 votes, production status Released; plot: In a futuristic city, a group of adventurers must fight the government forces controlled by an alien force to stop its plan to destroy the world. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIII [13]: Apple iOS, 2015-04-10, region JP
+  - Final Fantasy XIII [13]: Android, 2015-04-10, region JP
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIII [13]: PlayStation 3, 2009-12-17, region JP
+  - Final Fantasy XIII [13]: PlayStation 3, 2010-03-09, region NA, EU, AUS
+  - Final Fantasy XIII [13]: Xbox 360, 2010-03-09, region NA, EU
+  - Final Fantasy XIII [13] Ultimate Hits International: Xbox 360, 2010-12-16, region JP
+  - Final Fantasy XIII/XIII-2 Dual Pack: PlayStation 3, 2012-09-13, region China
+  - Final Fantasy XIII [13]: PC (Steam), 2014-10-09, region International
+  - Final Fantasy XIII [13]: Square Enix Store, 2014-10-09, region International
+  - Final Fantasy XIII [13]: Apple iOS, 2015-04-10, region JP
+  - Final Fantasy XIII [13]: Android, 2015-04-10, region JP
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIII [13]: PlayStation 3, 2009-12-17, region JP, NA, EU, AUS
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIII [13]: Xbox 360, 2010-03-09, region NA, EU
+  - Final Fantasy XIII [13] Ultimate Hits International: Xbox 360, 2010-12-16, region JP
+  - Final Fantasy XIII [13]: Square Enix Store, 2014-10-09, region International
+  - Final Fantasy XIII [13]: Microsoft Windows Steam (PC), 2014-10-09, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIII [13]: PlayStation 3 / Xbox 360, 2009-12-17, score 69.2%
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff13/ -- Final Fantasy XIII overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIII [13]: PlayStation 3, JP 2009-12-17, US 2010-03-09
+  - Final Fantasy XIII [13] Ultimate Hits International: Xbox 360, JP 2010-12-16, US -
+  - Final Fantasy 25th Anniversary Ultimate Box: PlayStation 3, JP 2012-12-18, US -
+  - Final Fantasy XIII [13]: SE Store (PC), JP 2014-10-09, US 2014-10-09
+  - Final Fantasy XIII [13]: Windows Steam (PC), JP 2014-10-09, US 2014-10-09
+  - Final Fantasy XIII [13]: Apple iOS, JP 2015-04-10, US -
+  - Final Fantasy XIII [13]: Android, JP 2015-04-10, US -
+
 ## Decisions

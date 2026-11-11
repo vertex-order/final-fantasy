@@ -179,4 +179,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Monster_of_the_Deep:_Final_Fant
 
 - https://breezewiki.com/finalfantasy/wiki/Monster_of_the_Deep:_Final_Fantasy_XV#Cast -- cast table with Japanese and English voice actors (Noctis: Tatsuhisa Suzuki / Ray Chase, Prompto: Tetsuya Kakihara / Robbie Daymond, Gladiolus: Kenta Miyake / Chris Parson, Ignis: Mamoru Miyano / Adam Croasdell, Cindy: Yu Shimamura / Erin Matthews, plus Player, Navyth Arlund, Forecaster, Announcer); proves Japanese and English voice -- accessed 2026-11-10 (revision 3981879 of 2026-01-12; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Monster_of_the_Deep:_Final_Fantasy_XV#Cast); archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Monster of the Deep: Final Fantasy XV: Playstation 4, 2017-11-21, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Monster of the Deep: Final Fantasy XV [15]: Playstation 4, 2017-11-21, score ---
+
 ## Decisions

@@ -352,4 +352,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth#Exter
 
 - https://www.imdb.com/title/tt21066342/ -- IMDb title page for Final Fantasy VII Rebirth, IMDb id tt21066342, type Video Game, year 2024, release date 2024-02-29, certificate 16, genres Action, Adventure, Drama, rating 9 from 2,375 votes, production status Released; plot: Leaving Midgar behind and freed from the course of destiny, Cloud and his friends embark on a new journey across the planet of Gaia, as dangerous threats, old and new, await them. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7]: Rebirth: Playstation 5, 2023-12-15, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7]: Rebirth: Playstation 5, 2023-12-15, score *Unofficial
+
 ## Decisions

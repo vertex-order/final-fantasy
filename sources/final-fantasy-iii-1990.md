@@ -866,6 +866,74 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III#External_link
 
 - https://www.imdb.com/title/tt0207486/ -- IMDb title page for Final Fantasy III, IMDb id tt0207486, original title Fainaru fantajî III, type Video Game, year 1990, release date 1990-04-27, genres Action, Adventure, Fantasy, rating 7.3 from 715 votes, production status Released; plot: Four orphans seek to restore the balance between light and darkness in the world. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy III [3]: Apple iOS, 2011-03-24, region International
+  - Final Fantasy III [3]: Android, 2012-06-27, region International
+  - Final Fantasy III [3]: Kindle Fire, 2012-11-01, region International
+  - Final Fantasy III [3]: Windows Phone, 2013-12-27, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy III [3]: Famicom, 1990-04-27, region JP
+  - Final Fantasy III [3] DS: Nintendo DS, 2006-08-24, region JP
+  - Final Fantasy III [3] DS: Nintendo DS, 2006-11-14, region NA
+  - Final Fantasy III [3] DS: Nintendo DS, 2007-05-03, region AUS
+  - Final Fantasy III [3] DS: Nintendo DS, 2007-05-04, region EU
+  - Final Fantasy III [3]: Wii Virtual Console, 2009-07-21, region JP
+  - Final Fantasy III [3]: Apple iOS, 2011-03-24, region International
+  - Final Fantasy III [3]: Android, 2012-06-27, region International
+  - Final Fantasy III [3]: Sony PSP, 2012-09-20, region JP
+  - Final Fantasy III [3]: PlayStation Network, 2012-09-25, region NA
+  - Final Fantasy III [3]: PlayStation Network, 2012-09-26, region EU
+  - Final Fantasy III [3]: Kindle Fire, 2012-11-01, region International
+  - Final Fantasy III [3]: Ouya, 2013-04-15, region International
+  - Final Fantasy III [3]: Windows Phone, 2013-12-27, region International
+  - Final Fantasy III [3]: Nintendo 3DS Virtual Console, 2014, region JP
+  - Final Fantasy III [3]: Wii U Virtual Console, 2014-01-08, region JP
+  - Final Fantasy III [3]: PC (Steam), 2014-05-27, region International
+  - Final Fantasy III [3]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2021-07-28, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy III [3]: Sony PSP, 2012-09-20, region JP
+  - Final Fantasy III [3]: PlayStation Network, 2012-09-25, region NA, EU
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy III [3]: Famicom, 1990-04-27, region JP
+  - Final Fantasy III [3]: Nintendo DS, 2006-08-24, region JP, NA, AUS, EU
+  - Final Fantasy III [3]: 3DS Virtual Console, 2014, region JP
+  - Final Fantasy III [3]: Wii U Virtual Console, 2014-01-08, region JP
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy III [3]: Ouya, 2013-04-15, region International
+  - Final Fantasy III [3]: Microsoft Windows Steam (PC), 2014-05-27, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy III [3]: Famicom, 1990-04-27, score 66.8%
+  - Final Fantasy III [3] DS: Nintendo DS, 2006-08-24, score ---
+  - Final Fantasy III [3]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2021-07-28, score ---
+
+## thefinalfantasy.net (Information; FF3 Re-releases page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff3/re-releases.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release dates shown: Apr. 27, 1990 (Famicom), Nov. 14, 2006 (DS); platforms Famicom, Nintendo DS, Android, iOS, PSP
+  - DS remake: Japan 2006-08-24, North America 2006-11-14, first release outside Japan; artist Akihiko Yoshida; named characters Luneth, Arc, Ingus and Refia; Freelancers start, Job Transition Phase, Mail/Mognet; a WonderSwan Color port was attempted before and failed
+  - iOS 2011-03-24 via the App Store; Android 2012-06-27
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff3/ -- Final Fantasy III overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy III [3]: Famicom, JP 1990-04-27, US -
+  - Final Fantasy III [3]: Nintendo DS, JP 2006-08-24, US 2006-11-14
+  - Final Fantasy III [3]: iOS, JP 2011-03-24, US 2011-03-24
+  - Final Fantasy III [3]: Android, JP 2012-06-27, US 2012-06-27
+  - Final Fantasy III [3]: Sony PSP, JP 2012-09-20, US -
+  - Final Fantasy III [3]: Kindle Fire, JP 2012-11-01, US 2012-11-01
+  - Final Fantasy III [3]: Ouya, JP 2013-04-15, US 2013-04-15
+  - Final Fantasy III [3]: Windows Phone, JP 2013-12-27, US 2013-12-27
+  - Final Fantasy III [3]: Wii U Virtual Console, JP 2014-01-08, US -
+  - Final Fantasy III [3]: Microsoft Windows Steam, JP 2014-05-27, US 2014-05-27
+  - Final Fantasy III [3]: Nintendo 3DS Virtual Console, JP 2014, US -
+  - Final Fantasy III [3]: Pixel Remaster: Steam, Android, iOS, JP 2021-07-28, US -
+
 ## Decisions
 
 - **Not to be listed: the cancelled WonderSwan Color version of Final Fantasy III (user, 2026-11-03):** a Square WonderSwan Color game in the cancelled list, cited to RPGFan's 'WSC FFIII Vanishes, FFI-II Remake In The Works' (2002, http://www.rpgfan.com/news/2002/1717.html, https://web.archive.org/web/20070315205600/http://www.rpgfan.com/news/2002/1717.html); never released, so the WonderSwan Color is not a platform of Final Fantasy III. Only this platform is left out: the game itself released on other platforms and stays listed on them

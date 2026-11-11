@@ -189,4 +189,22 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Theatrhythm_Final_Fantasy#Exter
 
 - https://www.co-optimus.com/game/2659/nintendo-3ds/theatrhythm-final-fantasy.html -- Nintendo 3DS: co-op for 4 players, LAN play or system link (the page does not make clear which); co-op* -- accessed 2026-11-10; archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Theatrhythm Final Fantasy: Apple iOS, 2012-12-13, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Theatrhythm Final Fantasy: Nintendo 3DS, 2012-02-16, region JP
+  - Theatrhythm Final Fantasy: Nintendo 3DS, 2012-07-03, region NA
+  - Theatrhythm Final Fantasy: Nintendo 3DS, 2012-07-05, region AUS
+  - Theatrhythm Final Fantasy: Nintendo 3DS, 2012-07-06, region EU
+  - Theatrhythm Final Fantasy: Apple iOS, 2012-12-13, region International
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Theatrhythm Final Fantasy: Nintendo 3DS, 2012-02-16, region JP, NA, AUS, EU
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Theatrhythm Final Fantasy: Nintendo 3DS, 2012-02-16, score 52.4%
+
 ## Decisions

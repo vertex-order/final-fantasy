@@ -51,4 +51,21 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII:_Snowboarding
 
 - https://en.wikipedia.org/wiki/Final_Fantasy_VII#Related_media_and_merchandise -- already recorded as the game's page: a mobile port of the snowboard minigame with different courses, downloadable on V Cast-compatible phones, first available 2005-03-15 in North America and in Japan 2008-11-10 -- accessed 2026-11-09 (revision 1384600092 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7] Snowboarding: Mobile Phone, 2005-03-29, region JP, NA
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7] Snowboarding: Mobile Phone, 2005-03-29, region JP, NA
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7] Snowboarding: Mobile Phone, 2005-03-29, score ---
+
+## thefinalfantasy.net (Information; FF7 Compilation page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff7/re-releases.html -- Final Fantasy VII compilation page -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Mobile port of the snowboard minigame with different courses, downloadable on V Cast-compatible phones in 2005, Japan and North America
+
 ## Decisions

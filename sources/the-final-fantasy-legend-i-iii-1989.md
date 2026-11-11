@@ -414,4 +414,61 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/The_Final_Fantasy_Legend#Extern
 
 - https://en.wikipedia.org/wiki/The_Final_Fantasy_Legend#Merchandise -- merchandise for the first game: a book from Futabasha in February 1990, Makai Toushi Sa-Ga: Boukenshatachi no Rekuiemu (冒険者たちのレクイエム, Requiem of the Adventurers), by Misa Ikeda, 287 pages, part of Futabasha's Game Boy Adventure series for children, about a hero's trek to the top of the tower to reach Paradise; in August the fan book Final Fantasy Ryukishi Dan - Knights (ファイナルファンタジー竜騎士団), reactions and artworks to the series; the game was one of four titles on Game Players magazine's October 1992 video tape Game Player's Gametape for Game Boy Games; telephone cards -- accessed 2026-11-10 (revision 1382239053 of 2026-10-27; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - The Final Fantasy Legend: Mobile Phone (i-mode), 2007-07-02, region JP
+  - The Final Fantasy Legend: Mobile Phone (EZWeb), 2007-12-13, region JP
+  - The Final Fantasy Legend: Mobile Phone (SoftBank), 2008-03-12, region JP
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - The Final Fantasy Legend: Game Boy, 1989-12-15, region JP
+  - The Final Fantasy Legend: Game Boy, 1990-09-30, region NA
+  - Final Fantasy Legend II: Game Boy, 1990-12-14, region JP
+  - Final Fantasy Legend II: Game Boy, 1991-11-01, region NA
+  - Final Fantasy Legend III: Game Boy, 1991-12-13, region JP
+  - Final Fantasy Legend III: Game Boy, 1993-08-15, region NA
+  - The Final Fantasy Legend Re-release: Game Boy Color, 1998-04-15, region NA
+  - Final Fantasy Legend II Re-release: Game Boy Color, 1998-04-15, region NA
+  - Final Fantasy Legend III Re-release: Game Boy Color, 1998-04-15, region NA
+  - The Final Fantasy Legend: WonderSwan Color, 2002-03-20, region JP
+  - The Final Fantasy Legend: Mobile Phone (i-mode), 2007-07-02, region JP
+  - The Final Fantasy Legend: Mobile Phone (EZWeb), 2007-12-13, region JP
+  - The Final Fantasy Legend: Mobile Phone (SoftBank), 2008-03-12, region JP
+  - Final Fantasy Legend II: Nintendo DS, 2009-09-17, region JP
+  - Final Fantasy Legend III: Nintendo DS, 2011-01-06, region JP
+  - Final Fantasy Legends: Toki no Suishō: Apple iOS, 2015-02-12, region JP
+  - Final Fantasy Legends: Toki no Suishō: Android, 2015-02-12, region JP
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - The Final Fantasy Legend: Game Boy, 1989-12-15, region JP, NA
+  - Final Fantasy Legend II: Game Boy, 1990-12-14, region JP, NA
+  - Final Fantasy Legend III: Game Boy, 1991-12-13, region JP, NA
+  - The Final Fantasy Legend Re-release: Game Boy Color, 1998-04-15, region NA
+  - Final Fantasy Legend II Re-release: Game Boy Color, 1998-04-15, region NA
+  - Final Fantasy Legend III Re-release: Game Boy Color, 1998-04-15, region NA
+  - Final Fantasy Legend II: Nintendo DS, 2009-09-17, region JP
+  - Final Fantasy Legend III: Nintendo DS, 2011-01-06, region JP
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - The Final Fantasy Legend: WonderSwan Color, 2002-03-20, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Legend I [1]: Game Boy, 1989-12-15, score 54.2%
+  - Final Fantasy: Legend II [2]: Game Boy, 1990-12-14, score 50.4%
+  - Final Fantasy: Legend III [3]: Game Boy, 1991-12-13, score 53.2%
+  - Final Fantasy Legends: Toki no Suishō: Android / Apple iOS, 2015-02-12 (JP), score ---
+
+## thefinalfantasy.net (Information; Overview page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/final-fantasy-legend/ -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Release table (JP, US): The Final Fantasy Legend Game Boy 1989-12-15 and 1990-09-30; Game Boy Color re-release 1998-04-15; WonderSwan Color 2002-03-20; mobile i-mode 2007-07-02, EZWeb 2007-12-13, SoftBank 2008-03-12
+  - Part of the Final Fantasy SaGa Series on the page (Legend I, II, III); first RPG for the Game Boy
+
+## thefinalfantasy.net (Information; SaGa Series page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/final-fantasy-legend/saga-series.html -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Three Game Boy games 1989 to 1991, the Final Fantasy SaGa Series; Legend I Japan 1989-12-15 and North America 1990-09-30, re-released by Sunsoft in North America in 1998 on Game Boy Color, enhanced remakes on WonderSwan Color (2002) and mobile phones (2007)
+  - Legend II re-released in Japan on Nintendo DS in 2009 with upgraded graphics; ranked in the top 100 in a 2006 Famitsu poll; eight characters, the "Magi"
+  - Legend III: sci-fi and fantasy, time travel in the Talon, director Chihiro Fujioka
+
 ## Decisions

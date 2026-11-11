@@ -172,4 +172,21 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Crystal_Chronicle
 - https://www.co-optimus.com/game/1125/nintendo-ds/final-fantasy-crystal-chronicles-echoes-of-time.html -- co-op for 4 players: DS system link; Wii online; co-op* -- accessed 2026-11-10; archived: TODO
 - https://www.co-optimus.com/game/1126/wii/final-fantasy-crystal-chronicles-echoes-of-time.html -- Wii: co-op for 4 players, online; DS: 4 players, LAN play or system link (the page does not make clear which); co-op* -- accessed 2026-11-10; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Crystal Chronicles: Echoes of Time: Nintendo Wii, 2009-01-29, region JP
+  - Final Fantasy Crystal Chronicles: Echoes of Time: Nintendo DS, 2009-01-29, region JP
+  - Final Fantasy Crystal Chronicles: Echoes of Time: Nintendo Wii, 2009-03-24, region NA
+  - Final Fantasy Crystal Chronicles: Echoes of Time: Nintendo DS, 2009-03-24, region NA
+  - Final Fantasy Crystal Chronicles: Echoes of Time: Nintendo Wii, 2009-03-27, region EU
+  - Final Fantasy Crystal Chronicles: Echoes of Time: Nintendo DS, 2009-03-27, region EU
+  - Final Fantasy Crystal Chronicles: Echoes of Time: Nintendo DS, 2009-04-02, region AUS
+  - Final Fantasy Crystal Chronicles: Echoes of Time: Nintendo Wii, 2009-04-02, region AUS
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy Crystal Chronicles: Echoes of Time: Nintendo DS, 2009-01-29, region JP, NA, EU, AUS
+  - Final Fantasy Crystal Chronicles: Echoes of Time: Nintendo Wii, 2009-01-29, region JP, NA, EU, AUS
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - FF Crystal Chronicles: Echoes of Time: Nintendo DS / Wii, 2009-01-29, score 47.0%
+
 ## Decisions

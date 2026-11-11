@@ -44,4 +44,13 @@
 
 - https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜#ゲーム -- the game's section in the anime article: FF：U～FINAL FANTASY：UNLIMITED～迷宮 くろきゆめのきおく, a PC game released 2003-05-16 by 天田印刷加工 (Amada Printing); an adventure and card game that moves the story along with stills reused from the anime and choices, and fights enemies with cards; fully voiced except for some lines and characters; the player re-experiences the events of episodes 1 to 13 of the anime -- accessed 2026-11-09 (revision 111204422 of 2026-09-29; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Unlimited on PC Adventure - Labyrinth: Microsoft Windows (PC), 2003-05-16, region JP
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - FF: Unlimited on PC Adventure - Labyrinth: Microsoft Windows (PC), 2003-05-16, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy: Unlimited on PC Adventure - Labyrinth: Microsoft Windows (PC), 2003-05-16, score ---
+
 ## Decisions

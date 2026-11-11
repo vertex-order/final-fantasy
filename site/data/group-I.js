@@ -284,7 +284,7 @@ window.__ffGroupReg['I'] = { num: 'I', chronoOrder: 100, narrativeOrder: 100, ti
           ],
           helpWanted: true,
           platforms: [
-            { key: 'mobile-phone', terminated: true, paren: 'Digital' },
+            { key: 'mobile-phone', jpTag: true, terminated: true, paren: 'Digital' },
           ],
           versionDesc: [
             [{ text: 'Based on the original release, with all bonus content removed. Released as ' }, { emText: 'Final Fantasy Mobile' }, { text: '.' }],

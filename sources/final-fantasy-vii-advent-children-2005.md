@@ -113,4 +113,22 @@ rottentomatoes.com (Ratings)
 - https://www.imdb.com/title/tt0385700/ -- IMDb title page for Final Fantasy VII: Advent Children, IMDb id tt0385700, original title Fainaru fantajî sebun adobento chirudoren, type Movie, year 2005, release date 2005-09-14, runtime 101 min, certificate PG, genres Animation, Action, Adventure, rating 7.1 from 60,061 votes; plot: An ex-mercenary is forced out of isolation when three mysterious men kidnap and brainwash the city's children afflicted with the Geostigma disease. -- accessed 2026-11-11; archived: TODO
 - https://www.imdb.com/title/tt20913494/ -- IMDb title page for Final Fantasy VII Advent Children Complete, IMDb id tt20913494, type TV Series, year 2022, release date 2022-06-07, genres Animation, Action, Adventure, rating 7.4 from 187 votes; plot: After Cloud comes out of hiding to join Tifa to fight a illness quickly spreading throughout Midgar, they have to face off with a villainous trio who plan to resurrect Sephiroth using the remains of the extraterrestrial villains Jenova. -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII: Advent Children: DVD, 2005-09-14, region JP
+  - Final Fantasy VII: Advent Children: DVD, 2006-04-25, region NA
+  - Final Fantasy VII: Advent Children Complete: Blu-ray, 2009-04-16, region JP
+  - Final Fantasy VII: Advent Children Complete: Blu-ray, 2009-06-02, region JP
+- https://thefinalfantasy.net/games/movies-film.html (movie and film releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII: Advent Children: DVD, 2005-09-14, region JP, NA
+  - Final Fantasy VII: Advent Children Complete: Blu-ray, 2009-04-16, region JP, NA
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7]: Advent Children: Blu-ray / DVD, 2005-09-14, score 82.2%
+
+## thefinalfantasy.net (Information; FF7 Compilation page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff7/re-releases.html -- Final Fantasy VII compilation page -- accessed 2026-11-11 (saved page read); archived: TODO
+  - CGI sequel set two years after the game; Japan 2005-09-14, North America 2006-04-25 (the page's dates)
+
 ## Decisions

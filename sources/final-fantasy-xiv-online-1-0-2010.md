@@ -189,6 +189,23 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV#External_link
 
 - https://www.imdb.com/title/tt34529332/ -- FINAL FANTASY XIV Documentary (2017), a three-part Noclip documentary interviewing people who witnessed the death of the original Final Fantasy XIV (1.0) while a new team led by Naoki Yoshida set out to create an entirely new game; IMDb id tt34529332, type Movie, released 2017-06-23 (United States), genre Documentary, no rating, English, United States; company Noclip; director and writer Danny O'Dwyer; official site noclip.video -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14] Collector's Edition: Microsoft Windows (PC), 2010-09-22, region International
+  - Final Fantasy XIV [14]: Microsoft Windows (PC), 2010-09-30, region International
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14] Collector's Edition: Microsoft Windows (PC), 2010-09-22, region International
+  - Final Fantasy XIV [14]: Microsoft Windows (PC), 2010-09-30, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XIV [14]: Microsoft Windows (PC), 2010-09-30, score 54.4%
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff15/ -- Final Fantasy XV overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy XV [15] Ultimate Collector's Edition: PlayStation 4, JP 2016-11-29, US 2016-11-29
+  - Final Fantasy XV [15] Ultimate Collector's Edition: Xbox One, JP 2016-11-29, US 2016-11-29
+
 ## Decisions
 
 - Not listed (user, 2026-11-11): the FINAL FANTASY XIV Documentary (a three-part Noclip documentary of 2017 on the death of Final Fantasy XIV 1.0); a third-party behind-the-scenes documentary is not entertaining on its own (docs/data.md, "What belongs on a list")

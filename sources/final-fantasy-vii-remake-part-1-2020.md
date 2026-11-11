@@ -470,4 +470,21 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake#Extern
 - https://www.imdb.com/title/tt6057416/ -- IMDb title page for Final Fantasy VII Remake, IMDb id tt6057416, type Video Game, year 2020, release date 2020-04-10, certificate 16, genres Action, Adventure, Drama, rating 8.9 from 6,711 votes, production status Released; plot: Re-imagining of Final Fantasy VII (1997). A former soldier joins an eco-terrorist group in a mission against the electric power company he used to work for in order to protect the planet and all who reside on it. -- accessed 2026-11-11; archived: TODO
 - https://www.imdb.com/title/tt35017149/ -- IMDb title page for Final Fantasy VII Remake Intergrade, IMDb id tt35017149, type Video Game, year 2021, release date 2021-06-10, certificate 16, genres Action, rating 7.8 from 106 votes, production status Released -- accessed 2026-11-11; archived: TODO
 
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7] Remake: PlayStation 4, 2020-04-10, region International
+  - Final Fantasy VII [7] Remake Intergrade: PlayStation 5, 2021-06-10, region International
+  - Final Fantasy VII [7] Remake Intergrade: PC (Steam), 2021-12-16, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7] Remake: PlayStation 4, 2017, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7] Remake: PlayStation 4, 2020-04-10, score ---
+  - Final Fantasy VII [7] Remake Intergrade: PlayStation 5, PC (Steam), 2021-06-10, score ---
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff7/ -- Final Fantasy VII overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7] Remake: PlayStation 4, JP 2017, US 2017
+
 ## Decisions

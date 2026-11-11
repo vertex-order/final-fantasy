@@ -91,5 +91,22 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Crystal_Defenders:_Vanguard_Sto
 
 - https://ja.wikipedia.org/wiki/クリスタル_ガーディアンズ#ヴァンガード・ストーム -- クリスタル・ディフェンダーズ ヴァンガード・ストーム: defense simulation for iPhone / iPod touch, developed by MSF/Wings, published by Square Enix, 1 player, 2009-05-13; a new work with a changed system, a real-time strategy in the style of Plants vs. Zombies; two 4x4 grids side by side, the player rearranges allied units each turn and stops enemies advancing from the left; allied units have health and recover when the wave is cleared; the story and overall map of the Wii Ware version are added -- accessed 2026-11-09 (revision 110366430 of 2026-07-22; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Crystal Defenders: Vanguard Storm: Apple iOS (iPad), 2009-05-13, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Crystal Defenders: Vanguard Storm: Apple iOS (iPad), 2009-05-13, region International
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Crystal Defenders: Vanguard Storm: Apple iOS, 2009-05-13, score ---
+
+## thefinalfantasy.net (Information; Overview page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/crystal-defenders/ -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Sequel, released May 13, 2009 worldwide for Apple iOS
+
 ## Decisions
 - Help wanted removed (user, 2026-10-20): the language list is now known

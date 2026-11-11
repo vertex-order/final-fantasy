@@ -896,6 +896,94 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II#External_links
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCII#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 35/40 (Famicom; 9, 9, 9, 8, Platinum), 30/40 (WonderSwan Color, Silver) and 27/40 (PlayStation); Family Computer Magazine reader-vote 26.49/30 (characters 4.54, music 4.55, operation 4.26, enthusiasm 4.60, value 4.23, originality 4.31) and ROM cassette ranking: music 5th, enthusiasm 5th, originality 3rd, value 4th, overall 5th; Famitsu scenario award; Allgame 4.5/5 (Famicom), Eurogamer 4/10, Game Informer 6/10, GameSpot 6/10, GameSpy 3.5/5, GameTrailers 7.1/10, GameZone 8/10, IGN 6.1/10 (all PSP), IGN 6.8/10 (iOS), Nintendo Life 8/10 (Wii), GameRankings 65% (PSP), 75% (iOS) -- accessed 2026-11-10 (revision 110746553 of 2026-08-23; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy II [2]: Mobile Phone (FOMA), 2004-02-29, region JP
+  - Final Fantasy II [2]: Mobile Phone (CDMA), 2004-08-15, region JP
+  - Final Fantasy II [2]: Mobile Phone (SoftBank), 2006-07-03, region JP
+  - Final Fantasy II [2]: Apple iOS, 2010-02-25, region International
+  - Final Fantasy II [2]: Android, 2012-12-21, region International
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy II [2] Dark Shadow Over Palakia: Nintendo, Never Released, region NA)
+  - Final Fantasy II [2]: Famicom, 1988-12-17, region JP
+  - Final Fantasy I & II: Famicom, 1994-01-01, region JP
+  - Final Fantasy II [2]: WonderSwan Color, 2001-05-03, region JP
+  - Final Fantasy I+II Premium Package: PlayStation, 2001-11-01, region JP
+  - Final Fantasy Origins [1 & 2]: PlayStation, 2003-03-14, region EU
+  - Final Fantasy Origins [1 & 2]: PlayStation, 2003-04-08, region NA
+  - Final Fantasy II [2]: Mobile Phone (FOMA), 2004-02-29, region JP
+  - Final Fantasy I & II Advance: Game Boy Advance, 2004-07-29, region JP
+  - Final Fantasy I & II: Dawn of Souls: Game Boy Advance, 2004-07-29, region JP
+  - Final Fantasy II [2]: Mobile Phone (CDMA 1X WIN), 2004-08-15, region JP
+  - Final Fantasy I & II: Dawn of Souls: Game Boy Advance, 2004-11-29, region NA
+  - Final Fantasy I & II: Dawn of Souls: Game Boy Advance, 2004-12-03, region EU, AUS
+  - Final Fantasy II [2]: Mobile Phone (SoftBank), 2006-07-03, region JP
+  - Final Fantasy II [2] 20th Anniversary Edition: Sony PSP, 2007-06-07, region JP
+  - Final Fantasy II [2] 20th Anniversary Edition: Sony PSP, 2007-07-24, region NA
+  - Final Fantasy II [2] 20th Anniversary Edition: Sony PSP, 2008-02-08, region EU
+  - Final Fantasy II [2]: Wii Virtual Console, 2009-06-16, region JP
+  - Final Fantasy II [2]: PlayStation Network (PSOne), 2009-07-08, region JP
+  - Final Fantasy II [2]: Apple iOS, 2010-02-25, region International
+  - Final Fantasy II [2]: PlayStation Network (PSP), 2011-03-02, region EU, AUS
+  - Final Fantasy II [2]: PlayStation Network, 2012-01-10, region NA
+  - Final Fantasy II [2]: Android, 2012-12-21, region International
+  - Final Fantasy II [2]: Wii U Virtual Console, 2013-12-11, region JP
+  - Final Fantasy II [2]: Nintendo 3DS Virtual Console, 2014-02-12, region JP
+  - Final Fantasy II [2]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2021-07-28, region International
+- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy I+II Premium Package: PlayStation, 2001-11-01, region JP
+  - Final Fantasy Origins [1 & 2]: PlayStation, 2003-03-14, region EU, NA
+  - Final Fantasy II: 20th Anniversary Edition: Sony PSP, 2007-06-07, region JP, NA, PAL
+  - Final Fantasy II [2]: PlayStation Network, 2012-01-10, region NA
+- https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy II [2]: Famicom, 1988-12-17, region JP
+  - Final Fantasy I ・ II: Famicom, 1994-02-27, region JP
+  - Final Fantasy I & II: Dawn of Souls: Game Boy Advance, 2004-07-29, region JP, NA, EU, AUS
+  - Final Fantasy II [2]: Wii Virtual Console, 2009-06-16, region JP
+  - Final Fantasy II [2]: Wii U Virtual Console, 2013-12-11, region JP
+  - Final Fantasy II [2]: 3DS Virtual Console, 2014-02-12, region JP
+- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy II [2]: WonderSwan Color, 2001-05-03, region JP
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy II [2]: Famicom, 1988-12-17, score 61.2%
+  - Final Fantasy: Origins: PlayStation, 2002-10-31, score ---
+  - Final Fantasy: Dawn of Souls: Game Boy Advance, 2004-07-29, score ---
+  - Final Fantasy II [2] Anniversary Edition: Sony PSP, 2007-06-07, score ---
+  - Final Fantasy II [2]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2021-07-28, score ---
+
+## thefinalfantasy.net (Information; FF1 Re-releases page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff1/re-releases.html -- Final Fantasy (1987) re-releases page, covering Final Fantasy I and II together -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Ports listed for FFII: WonderSwan Color 2001, Japan mobile phones 2004, Final Fantasy Origins (PlayStation) 2002, Dawn of Souls (Game Boy Advance) 2004 with the new Soul of Rebirth storyline, PSP 20th Anniversary edition 2007, Virtual Console (JP) 2009, iPhone 2010
+
+## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/ff1/ -- Final Fantasy I overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy I ・ II: Famicom, JP 1994-02-27, US -
+  - Final Fantasy I+II Premium Package: Playstation, JP 2002-10-31, US -
+  - Final Fantasy I & II: Dawn of Souls: Game Boy Advance, JP 2004-07-29, US 2004-11-29
+- https://thefinalfantasy.net/ff2/ -- Final Fantasy II overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy II [2]: Famicom, JP 1988-12-17, US -
+  - Final Fantasy I ・ II: Famicom, JP 1994-02-27, US -
+  - Final Fantasy II [2]: WonderSwan Color, JP 2001-05-03, US -
+  - Final Fantasy I+II Premium Package: Playstation, JP 2002-10-31, US -
+  - Final Fantasy II [2]: Mobile Phone (NTT DoCoMo), JP 2004-02-29, US -
+  - Final Fantasy I & II: Dawn of Souls: Game Boy Advance, JP 2004-07-29, US 2004-11-29
+  - Final Fantasy II [2]: Mobile Phone (CDMA 1X WIN), JP 2004-08-15, US -
+  - Final Fantasy II [2]: Mobile Phone (SoftBank), JP 2006-07-03, US -
+  - Final Fantasy II: 20th Anniversary Edition: Sony PSP, JP 2007-06-07, US 2007-07-24
+  - Final Fantasy II [2]: Wii Virtual Console, JP 2009-06-16, US 2009-10-05
+  - Final Fantasy II [2]: Playstation Store, JP 2009-07-08, US 2012-01-10
+  - Final Fantasy II [2]: iOS, JP 2010-02-25, US 2010-02-25
+  - Final Fantasy II [2]: Android, JP 2012-12-21, US 2012-12-21
+  - Final Fantasy II [2]: Wii U Virtual Console, JP 2013-12-11, US -
+  - Final Fantasy II [2]: Nintendo 3DS Virtual Console, JP 2014-02-12, US -
+  - Final Fantasy II [2]: Pixel Remaster: Steam, Android, iOS, JP 2021-07-28, US -
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy II (Portal Version)" (by 2020 to Dec 2023); we treat it as the same version as the standalone Android port, "Edit 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

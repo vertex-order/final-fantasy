@@ -113,4 +113,23 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_G-Bike#Extern
 
 - https://en.wikipedia.org/wiki/Final_Fantasy_VII#Related_media_and_merchandise -- G-Bike named as a mobile game for iOS and Android in December 2014, based on the motorbike minigame of the original game -- accessed 2026-11-09 (revision 1384600092 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7] G-Bike: Apple iOS, 2014-12-15, region JP, NA
+  - Final Fantasy VII [7] G-Bike: Android, 2014-12-15, region JP, NA
+
+## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
+
+- https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7] G-Bike: Apple iOS, 2014-12-15, region JP, NA
+  - Final Fantasy VII [7] G-Bike: Android, 2014-12-15, region JP, NA
+- the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Final Fantasy VII [7] G-Bike: Android / Apple iOS, 2014-12-15, score ---
+
+## thefinalfantasy.net (Information; FF7 Compilation page, saved page of 2026-11-11)
+
+- https://thefinalfantasy.net/ff7/re-releases.html -- Final Fantasy VII compilation page -- accessed 2026-11-11 (saved page read); archived: TODO
+  - Mobile game of the motorcycle minigame, Apple iOS and Android, December 2014
+
 ## Decisions
