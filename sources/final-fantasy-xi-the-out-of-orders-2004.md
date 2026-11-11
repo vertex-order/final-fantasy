@@ -33,6 +33,10 @@ wikipedia.org (Information)
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#漫画 -- FINAL FANTASY XI〜THE OUT OF ORDERS〜 (original story Kim Sung-jae, art Kim Byung-jin), under 青年漫画誌: serialised from the first issue of ヤングガンガン in December 2004, put on hiatus after 3 instalments for the author's research, planned to resume in autumn 2006 but cancelled for the author's reasons -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/58531/Final-Fantasy-XI-The-Out-of-Orders/ -- Final Fantasy XI: The Out of Orders, AniList id 58531, MyAnimeList id 28531, format Manga, status Cancelled, 3 chapters, 2004-03-12 to 2005-01-07, story Sungjae Kim, art Byung-Jin Kim, no native title or description, popularity 70, no score -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 - `profileUrl` (user, 2026-10-17): the archived Square Enix magazine back-number page for the first issue, https://web.archive.org/web/20130305015755/http://www.square-enix.co.jp/magazine/yg/backnumber/backnumber001.shtml (Wayback capture of 2013-03-05; page text pasted by the user): 創刊号【2004.12.17号】, **on sale 2004年12月3日**
   - the first issue's cover feature (巻頭カラー) is 「THE OUT OF ORDERS ファイナルファンタジーXI 原作：キム・ソンジェ　作画：キム・ビョンジン」 (story Kim Sung-Jae, art Kim Byung-Jin, which confirms the entry's credits), alongside the other launch series of that magazine (ドラゴンクエスト列伝 ロトの紋章, BAMBOO BLADE, 荒川アンダー ザ ブリッジ and others)

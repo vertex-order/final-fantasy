@@ -132,6 +132,10 @@ wikipedia.org (Information)
   - archived: TODO
 - https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media -- story, platforms -- accessed 2026-09-22
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/89217/Final-Fantasy-Reishiki-Gaiden-Hyouken-no-Shinigami/ -- FINAL FANTASY零式外伝 氷剣の死神 (English title Final Fantasy Type-0 Side Story), AniList id 89217, MyAnimeList id 61309, format Manga, Finished, 23 chapters in 5 volumes, 2012 to 2014, story and art Takatoshi Shiozawa, English translators Alethea Nibley and Athena Nibley, source Video Game, average score 60, popularity 340, 7 favourites, synonyms Final Fantasy Type-0 Gaiden: Reaper of the Icy Blade and Final Fantasy Reishiki Gaiden: Hitsurugi no Shinigami; description: set around 9 years before Final Fantasy Type-0, following Kurasame Susaya as a student of the Peristylium Suzaku -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - finalfantasywiki.com — no article for this manga (checked by user, 2026-10-10) — empty

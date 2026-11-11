@@ -68,6 +68,10 @@ goodreads.com (Information)
 - https://www.goodreads.com/book/show/220294171-final-fantasy-xiv — languages* (FR), dates (FR January 2, 2025) — accessed 2026-10-09 — archived: TODO
 - https://www.goodreads.com/book/show/123259381-final-fantasy-xiv — English Kindle edition; no rating shown — accessed 2026-10-09 — archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/141238/Final-Fantasy-XIV-Shiritsu-Eorzea-Gakuen/ -- ファイナルファンタジーXIV 私立エオルゼア学園 (English title FINAL FANTASY XIV: Eorzea Academy), AniList id 141238, MyAnimeList id 142665, format Manga, Finished, 7 chapters in 1 volume, 2021-12-24 to 2023-01-05, story and art Esora Amaichi, French translator David Pollet, average score 68, popularity 823, 24 favourites, synonyms Academia Eorzea and Final Fantasy XIV: Eorzea Private Academy -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - Final Fantasy Fandom wiki — no article for this book (as of 2026-10-10); the XIV navigation box (navbox) lists it under "Manga and illustrated books" as an unlinked name — empty

@@ -68,4 +68,8 @@ goodreads.com (Information)
 
 - https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- The Kids Are Alright: A Turks Side Story: a novel by Kazushige Nojima set a short time before Advent Children, illustrated by Shou Tajima and released 2011-12-15; the English version was released by Yen Press on 2019-01-22 -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/110503/Final-Fantasy-VII-Gaiden-Turks-The-Kids-are-Alright/ -- ファイナルファンタジーVII外伝 タークス～ザ・キッズ・アー・オールライト～ (English title Final Fantasy VII The Kids Are Alright: A Turks Side Story), AniList id 110503, MyAnimeList id 114528, format Novel, Finished, 46 chapters in 1 volume, 2011-12-15, story Kazushige Nojima, art Shouu Tajima, source Video Game, popularity 219, 6 favourites, synonym Final Fantasy VII Lateral Biography Turks -The Kids Are Alright- -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

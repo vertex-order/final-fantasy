@@ -130,5 +130,6 @@ goodreads.com (Information)
 ## anilist.co (Information; AniList anime page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
 
 - https://anilist.co/anime/6151/Final-Fantasy-VII-On-the-Way-to-a-Smile-Episode-Denzel/ -- Final Fantasy VII: On the Way to a Smile - Episode: Denzel, AniList id 6151, MyAnimeList id 6151, format OVA, 28 min, 2009-04-16, no studio listed, source Light Novel, genres Action and Fantasy, average score 66, popularity 4624, 15 favourites, country JP -- accessed 2026-11-10; archived: TODO
+- https://anilist.co/manga/77585/Final-Fantasy-VII-On-the-Way-to-a-Smile/ -- the book as a Novel: ファイナルファンタジーVII ~オン・ザ・ウェイ・トゥ・ア・スマイル~, AniList id 77585, MyAnimeList id 47585, format Novel, Finished, 12 chapters in 1 volume, 2009-04-16, story Kazushige Nojima, English translator Melissa Tanaka, source Video Game, average score 69, popularity 421, 8 favourites; description: short stories between Final Fantasy VII and Advent Children -- accessed 2026-11-10; archived: TODO
 
 ## Decisions

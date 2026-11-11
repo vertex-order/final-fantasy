@@ -79,6 +79,10 @@ wikipedia.org (Information)
   - Same section covers the sequel series 氷剣の死神, see `final-fantasy-type-0-the-ice-reaper-2012.md`
 - https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media -- story, platforms -- accessed 2026-09-22
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/62955/Final-Fantasy-Reishiki/ -- ファイナルファンタジー 零式 (English title Final Fantasy Type-0), AniList id 62955, MyAnimeList id 32955, format Manga, Finished, 4 chapters in 1 volume, 2011-11-12 to 2012-02-10, story and art Takatoshi Shiozawa, English translator Elina Ishikawa, German translator Hirofumi Yamada, average score 54, popularity 421, 5 favourites, synonyms FF Type-0 and FF Reishiki -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - Japanese edition ISBN and Square Enix page: not researched — mine

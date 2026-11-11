@@ -80,6 +80,10 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
   - manga, 12/1/1989, pub.: Takarajimasha, Inc." on its Final Fantasy II page -- corroborates the credit and December 1989
   - this is this entry's book: JICC出版局 became Takarajimasha, NDL has only one Kaimeiji Final Fantasy book (1989-12-30, ISBN 4-88063-744-0), and the podcast's 12/1 day differs from NDL's 12/30 (checked 2026-10-15)
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/165132/Final-Fantasy/ -- ファイナルファンタジー, AniList id 165132, MyAnimeList id 170072, format Manga, 1 volume of 6 chapters, 1989, story and art Yu Kaimeiji (the cover credits 海明寺 裕), source Video Game, country JP, popularity 121, 1 favourite, no score, no description -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - [Fandom – Final Fantasy (manga)](https://finalfantasy.fandom.com/wiki/Final_Fantasy_(manga)) — see above — used

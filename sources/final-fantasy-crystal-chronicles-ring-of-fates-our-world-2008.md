@@ -54,6 +54,10 @@ goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/77752739 — ratings* (NYR: no ratings), format (Paperback Bunko) — accessed 2026-10-11 (page text pasted by user)
 - https://www.goodreads.com/book/show/77771883 — volume 2, no ratings — accessed 2026-10-11 (page text pasted by user)
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/205767/Final-Fantasy-Crystal-Chronicles-Ring-of-Fates/ -- ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト, AniList id 205767, no MyAnimeList id, format Novel, Finished, 2 volumes, 2008-05-30 to 2008-07-30, story Osamu Kudou, illustration Inoko, source Video Game, popularity 6, no score -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - The Japanese title is 僕らの世界 (Bokura no Sekai) with 上/下 (upper/lower) volumes

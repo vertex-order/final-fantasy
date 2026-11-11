@@ -50,6 +50,10 @@ duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%20translation — platforms* (fan translation), languages* (EN, fan translation) — accessed not recorded
 - https://duckduckgo.com/?q=Final%20Fantasy%20XV%20Official%20Comic%20Anthology%202%20translation — vol 2 fan-translation search, no results; not in entry — accessed not recorded
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/130079/Final-Fantasy-XV-Koushiki-Comic-Anthology/ -- ファイナルファンタジーXV 公式コミックアンソロジー, AniList id 130079, MyAnimeList id 114269, format Manga, Finished, 28 chapters in 2 volumes, 2017-07-27 to 2017-12-26, artists mikimaki, Rin Asano, Mitsunori Zaki, Saya Fuyume, Megumu Soramichi, Kogetaokoge and others, popularity 231, 6 favourites, synonym Final Fantasy XV Official Anthology; the description lists the stories by volume -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - Goodreads vol 1 page does not link to a Goodreads series — empty: no series page to use for the book platform

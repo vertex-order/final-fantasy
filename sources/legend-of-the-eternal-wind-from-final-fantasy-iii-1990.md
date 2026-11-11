@@ -158,6 +158,10 @@ tokyo otaku mode (Information; Otapedia, English)
   - the year agrees with NDL's vol.1 date (1991-10-07)
   - no new fact
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/39808/Final-Fantasy-III-Yuukyuu-no-Kaze-Densetsu/ -- ファイナルファンタジーIII 悠久の風伝説, AniList id 39808, MyAnimeList id 9808, format Manga, Finished, 3 volumes, from 1992-09-01, art Yuu Kinutani, story Kenji Terada, source Video Game, popularity 121, no score, synonyms Final Fantasy III Kaze Densetsu, Yukyu no Kaze and Legend of the Eternal Wind; description: based on the game Final Fantasy 3, a parallel story -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - [Fandom – Legend of the Eternal Wind](https://finalfantasy.fandom.com/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori) — see above — used

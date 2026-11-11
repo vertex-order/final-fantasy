@@ -1347,6 +1347,10 @@
 
 - https://anilist.co/search/anime?search=final%20fantasy -- AniList anime search for "final fantasy" (address pattern https://anilist.co/search/anime?search=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
 
+## anilist.co (Information; AniList manga search)
+
+- https://anilist.co/search/manga?search=final%20fantasy -- AniList manga search for "final fantasy" (address pattern https://anilist.co/search/manga?search=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
+
 ## igdb.com (Information; IGDB company page and searches)
 
 - https://www.igdb.com/companies/square -- IGDB company page for Square (video game publisher, Japan); Developed 72 and Published 116 games; 139 game cards on 3 saved pages (title, year, platforms, type label with the parent game) -- live pages of 2026-11-03 (the saved pages do not record their address), visited and audited; archived: TODO

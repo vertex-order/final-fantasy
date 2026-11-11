@@ -76,6 +76,10 @@ goodreads.com (Ratings)
 - https://jp.finalfantasy.com/news/3170 — Square Enix's Japanese Final Fantasy news, 2020.08.20: Gangan Online (browser) revived chapter 1 of "コミック版『ファイナルファンタジー・クリスタルクロニクル～はてなき空の向こうに～』" from August 20 (Thursday), saying it was "かつて月刊少年ガンガンで連載された" (once serialized in Monthly Shonen Gangan); the publisher's own confirmation of the serialization, and of the title spelling ～はてなき空の向こうに～ — accessed 2026-10-11
   - (fetched)
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/40477/Final-Fantasy-Crystal-Chronicles-Beyond-the-Endless-Sky/ -- ファイナルファンタジー・クリスタルクロニクル～はてなき空の向こうに~, AniList id 40477, MyAnimeList id 10477, format Manga, Finished, 17 chapters in 3 volumes, from 2004 (year only), story and art Ryunosuke Ichikawa, popularity 98, 2 favourites, synonym Final Fantasy Chronicles: Hatenaki Sora no Mukou ni; description: adaptation of Final Fantasy Crystal Chronicles, never released outside Japan -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - [https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga](https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Manga) — the Fandom wiki's Manga table (pasted by the user, 2026-10-11): volume release dates I July 22, 2004 (ISBN 978-4-7575-1234-4), II February 22, 2005 (978-4-7575-1368-6), III June 22, 2005 (978-4-7575-1455-3), Ryunosuke Ichikawa as author and artist

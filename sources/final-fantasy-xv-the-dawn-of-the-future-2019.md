@@ -77,6 +77,10 @@ breezewiki.com (Information)
   - (table pasted by user; fetch blocked)
   - archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/131784/Shousetsu-Final-Fantasy-XV-The-Dawn-Of-The-Future/ -- 小説 FINAL FANTASY XV -The Dawn Of The Future-, AniList id 131784, no MyAnimeList id, format Novel, Finished, 4 chapters in 1 volume, 2019-04-25, story Jun Eishima, English translator Stephen Kohler, French translator Jean-Baptiste Flamin, popularity 276, 12 favourites, synonyms FFXV and ファイナルファンタジーＸＶ 未来への夜明け -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 ## Framing choices

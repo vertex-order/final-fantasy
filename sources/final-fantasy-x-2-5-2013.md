@@ -81,4 +81,8 @@ goodreads.com (Information)
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2#関連商品 -- 小説 FINAL FANTASY X-2.5〜永遠の代償〜 listed among the books (ISBN 978-4-7575-4157-3) -- accessed 2026-11-09 (revision 111104655 of 2026-09-22; wikitext read through the MediaWiki API); archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/123025/Final-Fantasy-X-25-Eien-no-Daishou/ -- Final Fantasy X-2.5 ~永遠の代償~, AniList id 123025, MyAnimeList id 79633, format Novel, Finished, 13 chapters in 1 volume, 2013-12-26, story Kazushige Nojima, source Video Game, popularity 114, 2 favourites, synonym Final Fantasy X-2.5: Price of Eternity -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

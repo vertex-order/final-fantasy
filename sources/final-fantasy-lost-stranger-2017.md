@@ -217,6 +217,10 @@ tokyo otaku mode (Information; Otapedia, English)
   - (the user, 2026-10-17: one of the official English translations; named by the Otapedia page; my fetch is blocked by Crunchyroll's bot check, so the page itself is not read by me)
   - the entry's English link is the Goodreads page of the Yen Press volume, and Crunchyroll is not linked in the entry
   - asked the user whether to add it (see .plan/todo.md)
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/102232/Final-Fantasy-Lost-Stranger/ -- ファイナルファンタジー ロスト・ストレンジャー, AniList id 102232, MyAnimeList id 104232, format Manga, Releasing, from 2017-07-12, story Hazuki Minase, art Itsuki Kameya, English translator Melody Pan, Italian translators Nicola Angaran (volumes 1 to 4) and Valerio Pinos (volume 5 on), average score 73, popularity 1939, 62 favourites -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 Tags: `used` · `dup` · `mine` · `empty` · `shallow`
