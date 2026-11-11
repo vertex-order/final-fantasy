@@ -59,4 +59,8 @@
 
 - https://anilist.co/anime/408/Final-Fantasy-VII-Last-Order/ -- Final Fantasy VII: Last Order, AniList id 408, MyAnimeList id 408, format OVA, 25 min, 2005-09-14, studio Madhouse, source Video Game, genres Action, Adventure, Drama, Fantasy and Sci-Fi, average score 68, popularity 9903, 58 favourites, country JP -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList anime page, live page of 2026-11-11; the page's scored-by count and rank are garbled in the fetched text, so only the score is recorded)
+
+- https://myanimelist.net/anime/408/Final_Fantasy_VII__Last_Order -- Final Fantasy VII: Last Order, MyAnimeList id 408, Japanese title ラストオーダー -ファイナルファンタジーVII-, synonym Last Order: Final Fantasy VII, type Special, 1 episode of 25 min, aired 2005-09-14, producers Sony Pictures Entertainment and Square Enix, studio Madhouse, source Game, genres Action, Adventure, Drama, Fantasy and Sci-Fi, rating PG-13, score 7.29, popularity rank 3100, 69,055 members, 134 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

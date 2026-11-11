@@ -63,4 +63,8 @@
 
 - https://anilist.co/anime/1361/Final-Fantasy/ -- Final Fantasy: The Spirits Within (AniList title Final Fantasy), AniList id 1361, MyAnimeList id 1361, format Movie, 106 min, 2001-07-02, studio Square Pictures, source Video Game, genres Action, Drama and Sci-Fi, average score 57, popularity 10214, 46 favourites, country JP, synonyms Final Fantasy: El espíritu en nosotros and Final Fantasy: Wojna dusz -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList anime page, live page of 2026-11-11; the page's scored-by count and rank are garbled in the fetched text, so only the score is recorded)
+
+- https://myanimelist.net/anime/1361/Final_Fantasy__The_Spirits_Within -- Final Fantasy: The Spirits Within, MyAnimeList id 1361, Japanese title ファイナルファンタジー, synonym Final Fantasy, type Movie, 1 episode of 1 hr 45 min, aired 2001-07-02, producers Square Enix and Sony Music Entertainment, studio Square Pictures, source Game, genre Sci-Fi, rating PG-13, score 6.28, popularity rank 2983, 73,942 members, 57 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

@@ -136,6 +136,10 @@ wikipedia.org (Information)
 
 - https://anilist.co/manga/89217/Final-Fantasy-Reishiki-Gaiden-Hyouken-no-Shinigami/ -- FINAL FANTASY零式外伝 氷剣の死神 (English title Final Fantasy Type-0 Side Story), AniList id 89217, MyAnimeList id 61309, format Manga, Finished, 23 chapters in 5 volumes, 2012 to 2014, story and art Takatoshi Shiozawa, English translators Alethea Nibley and Athena Nibley, source Video Game, average score 60, popularity 340, 7 favourites, synonyms Final Fantasy Type-0 Gaiden: Reaper of the Icy Blade and Final Fantasy Reishiki Gaiden: Hitsurugi no Shinigami; description: set around 9 years before Final Fantasy Type-0, following Kurasame Susaya as a student of the Peristylium Suzaku -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/61309/Final_Fantasy_Reishiki_Gaiden__Hyouken_no_Shinigami -- Final Fantasy Type-0 Side Story, The Ice Reaper (FINAL FANTASY零式外伝 氷剣の死神; synonyms Final Fantasy Type-0 Gaiden: Reaper of the Icy Blade, FF Type-0 Gaiden and Final Fantasy Reishiki Gaiden: Hitsurugi no Shinigami), MyAnimeList id 61309, type Manga, 5 volumes, 23 chapters, Finished, 2012-04-12 to 2014-03-12, genres Action, Fantasy and Slice of Life, themes Military and School, demographic Shounen, serialized in Shounen Gangan, story Hiroki Chiba, art Takatoshi Shiozawa, score 7.23, popularity rank 15081, 1,375 members, 25 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 - finalfantasywiki.com — no article for this manga (checked by user, 2026-10-10) — empty

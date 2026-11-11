@@ -21,6 +21,10 @@ Novel series: see `xi-novels-group.md` (ja.wikipedia Famitsu Bunko page, Library
 
 - https://anilist.co/anime/212280/Bouken-wa-Tsuzuite-iru-FINAL-FANTASY-XI-24th-Anniversary-Movie/ -- Bouken wa Tsuzuite iru. FINAL FANTASY XI 24th Anniversary Movie (冒険は続いている。FINAL FANTASY XI 24th Anniversary Movie), AniList id 212280, no MyAnimeList id, format Special, 1 min, 2026-05-15, no studio listed, source Video Game, mean score 67, popularity 71, 1 favourite, country JP, synonym Our Adventure Never Ends. -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList anime page, live page of 2026-11-11; the page's scored-by count and rank are garbled in the fetched text, so only the score is recorded)
+
+- https://myanimelist.net/anime/64218/Bouken_wa_Tsuzuiteiru -- Bouken wa Tsuzuiteiru. (English title Our Adventure Never Ends.), MyAnimeList id 64218, Japanese title 冒険は続いている。FINAL FANTASY XI 24th Anniversary Movie, synonym Final Fantasy XI 24th Anniversary Movie, type Special, 1 episode of 1 min, aired 2026-05-15, no producer or studio listed, source Game, genre Fantasy, rating PG-13, no score yet, popularity rank 30284, 79 members, 0 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - **Vol.3 世界編 (電撃の旅団編 ヴァナ・ディール公式ワールドガイド Vol.3 世界編, 2005-09-30, ISBN 9784840229708) is not to be listed** (user, 2026-10-17): it has no four-panel comics, only maps and data (Amazon.co.jp reviews from 2005 say the 4-koma are missing and the book itself noted it)

@@ -91,6 +91,10 @@ youtube.com (Information)
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII-2#関連商品 -- 『小説ファイナルファンタジー XIII-2 Fragments After』: a written-for-the-book novel, released 2012-06-21; the page's blurb says it tells episodes from before the main story begins, the same wording as for Fragments Before; author 映島巡, original idea 鳥山求 and 渡辺大祐; ISBN 978-4-7575-3650-0; chapters 【ライトニング：エトロの神殿で女神を守る騎士となるまで to be continued DLC Lightning】, 【スノウ：夢の中、ライトニングとの再会。再びルシになるまで to be continued DLC Snow】, 【アリサ：運命に翻弄された死人の嘆き】, 【ノエル：ユール、カイアス。友たちとの大切な記憶】, 【ユール：時の彷徨い人の願い】 -- accessed 2026-11-09 (revision 110335847 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/79929/Final_Fantasy_XIII-2__Fragments_After -- Final Fantasy XIII-2: Fragments After (ファイナルファンタジーXIII-2 Fragments After), MyAnimeList id 79929, type Light Novel, 1 volume, 9 chapters, Finished, from 2012-06-21 (end date not listed), genres Adventure and Fantasy, no serialization, story Jun Eishima, no score, popularity rank 36395, 299 members, 5 favourites; synopsis: a 242-page collection of stories centered on Lightning, Snow, Noel, Alyssa and Yeul -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 ## Surveyed

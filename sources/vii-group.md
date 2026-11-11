@@ -11,6 +11,10 @@
 
 - [How to watch Advent Children](https://old.reddit.com/r/FinalFantasy/comments/1wud2rc/how_to_watch_advent_children/) -- narrative order* (VII (1997), Advent Children, Remake/Rebirth/Revelation) -- accessed 2026-10-01
 
+## myanimelist.net (Information; MyAnimeList anime page, live page of 2026-11-11; the page's scored-by count and rank are garbled in the fetched text, so only the score is recorded)
+
+- https://myanimelist.net/anime/64056/Mirai_no_Lemon_Sour_x_Final_Fantasy_VII_Rebirth_CM -- Mirai no Lemon Sour x Final Fantasy VII Rebirth CM (未来のレモンサワー×FFVII リバース「まさか、アイツが」篇, synonym Masaka, Aitsu ga-hen), MyAnimeList id 64056, type CM, 1 episode of 20 sec, aired 2026-04-26, producer Square Enix, source Game, genre Gourmet, rating PG-13, score 6.02, popularity rank 15324, 1,092 members, 2 favourites; synopsis: a commercial for Asahi Beer's Mirai no Lemon Sour chuuhai featuring Sephiroth from Final Fantasy VII Rebirth -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Not listed (user, 2026-11-10): Let's Mosey: A Slow Translation Of Final Fantasy VII (Tim Rogers, 2017 to 2019), a playthrough with commentary, out of scope; noted as a playthrough of note; Serializd page in sources/final-fantasy-vii-1997.md

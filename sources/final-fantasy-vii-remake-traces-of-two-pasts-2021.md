@@ -59,6 +59,10 @@ reddit.com and tumblr.com (Information; fan translations) -- fan translation*, E
 
 - https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- Traces of Two Pasts: a novel by Nojima released 2021-07-15 in Japanese and 2023-03-20 in English, set during the early events of Rebirth, with Aerith and Tifa exchanging stories from their pasts -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/164615/Final_Fantasy_VII_Remake__Traces_of_Two_Pasts -- Final Fantasy VII Remake: Traces of Two Pasts (FINAL FANTASY VII REMAKE Traces of Two Pasts), MyAnimeList id 164615, type Novel, 1 volume, Finished, 2021-07-15 (English edition by Square Enix 2023-03-21), genres Adventure, Drama and Fantasy, no serialization, credited story and art Kazushige Nojima, no score, popularity rank 39035, 255 members, 4 favourites; synopsis: the backstories of Aerith and Tifa, who form a close friendship after escaping Midgar together -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 - `length` is `384p; H` (user, 2026-10-16): the official English edition, Square Enix Books hardcover, 384 pages (Goodreads https://www.goodreads.com/book/show/60556665-final-fantasy-vii-remake, read 2026-10-16), the English count being preferred
   - it was `406p; H`, the Japanese hardcover's count

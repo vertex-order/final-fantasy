@@ -159,6 +159,10 @@ tokyo otaku mode (Information; Otapedia, English)
   - agrees with the entry
   - no new fact
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/139651/Final_Fantasy_XIV__Lalafell-sensei_no_Oshieteyaru_yo -- Final Fantasy XIV: Lalafell-sensei no Oshieteyaru yo! (ファイナルファンタジーXIV ララフェル先生の教えてやるよ！; synonym Final Fantasy XIV: Lalafell-sensei Will Teach You!), MyAnimeList id 139651, type Manga, 3 volumes, 24 chapters, Finished, 2017-01-26 to 2018-08-28, genres Adventure, Comedy and Fantasy, serialized in Dengeki PlayStation, story and art Fakkuma, no score, popularity rank 53572, 117 members, 0 favourites; no synopsis -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 - Fandom wiki XIV navigation box (navbox), "Manga and illustrated books" — lists this book as "Final Fantasy XIV: I Will Teach You Professor Lalafell" — used: corroborates the title (seen 2026-10-10)

@@ -132,4 +132,12 @@ goodreads.com (Information)
 - https://anilist.co/anime/6151/Final-Fantasy-VII-On-the-Way-to-a-Smile-Episode-Denzel/ -- Final Fantasy VII: On the Way to a Smile - Episode: Denzel, AniList id 6151, MyAnimeList id 6151, format OVA, 28 min, 2009-04-16, no studio listed, source Light Novel, genres Action and Fantasy, average score 66, popularity 4624, 15 favourites, country JP -- accessed 2026-11-10; archived: TODO
 - https://anilist.co/manga/77585/Final-Fantasy-VII-On-the-Way-to-a-Smile/ -- the book as a Novel: ファイナルファンタジーVII ~オン・ザ・ウェイ・トゥ・ア・スマイル~, AniList id 77585, MyAnimeList id 47585, format Novel, Finished, 12 chapters in 1 volume, 2009-04-16, story Kazushige Nojima, English translator Melissa Tanaka, source Video Game, average score 69, popularity 421, 8 favourites; description: short stories between Final Fantasy VII and Advent Children -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList anime page, live page of 2026-11-11; the page's scored-by count and rank are garbled in the fetched text, so only the score is recorded)
+
+- https://myanimelist.net/anime/6151/Final_Fantasy_VII__On_the_Way_to_a_Smile_-_Episode__Denzel -- Final Fantasy VII: On the Way to a Smile - Episode: Denzel, MyAnimeList id 6151, Japanese title デンゼルを中心としたオリジナルアニメ, type OVA, 1 episode of 28 min, aired 2009-04-16, producer Square Enix, studio A-1 Pictures, source Novel, genres Action and Fantasy, theme Super Power, rating PG-13, score 7.08, popularity rank 4988, 27,480 members, 12 favourites -- accessed 2026-11-11; archived: TODO
+
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/47585/Final_Fantasy_VII__On_the_Way_to_a_Smile -- Final Fantasy VII: On the Way to a Smile (On the Way to a Smile ファイナルファンタジーVII), MyAnimeList id 47585, type Light Novel, 1 volume, 12 chapters, Finished, from 2009-04-16 (end date not listed), genres Drama and Fantasy, no serialization, story Kazushige Nojima, score 7.53, popularity rank 16020, 1,260 members, 16 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

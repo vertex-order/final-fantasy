@@ -72,6 +72,10 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
   - CONFLICTS on the Japanese date: October 25, 2012 against the entry's 2012-10-31
   - unresolved
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/100798/Shousetsu_Final_Fantasy_I_II_III__Memory_of_Heroes -- Final Fantasy I * II * III: Memory of Heroes (小説 ファイナルファンタジーI・II・III Memory of Heroes), MyAnimeList id 100798, type Novel, 1 volume, 3 chapters, Finished, 2012-10-31, genres Adventure and Fantasy, no serialization, story Takashi Umemura, no score, popularity rank 81423, 26 members, 0 favourites; synopsis: adapts the first three Final Fantasy stories, written for the series' 25th anniversary -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 - [Fandom – Memory of Heroes](https://finalfantasy.fandom.com/wiki/Final_Fantasy_I_*_II_*_III:_Memory_of_Heroes) — see above — used

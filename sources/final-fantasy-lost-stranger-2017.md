@@ -221,6 +221,10 @@ tokyo otaku mode (Information; Otapedia, English)
 
 - https://anilist.co/manga/102232/Final-Fantasy-Lost-Stranger/ -- ファイナルファンタジー ロスト・ストレンジャー, AniList id 102232, MyAnimeList id 104232, format Manga, Releasing, from 2017-07-12, story Hazuki Minase, art Itsuki Kameya, English translator Melody Pan, Italian translators Nicola Angaran (volumes 1 to 4) and Valerio Pinos (volume 5 on), average score 73, popularity 1939, 62 favourites -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/104232/Final_Fantasy__Lost_Stranger -- Final Fantasy: Lost Stranger (FINAL FANTASY LOST STRANGER), MyAnimeList id 104232, type Manga, volumes and chapters unknown, Publishing, from 2017-07-12, genres Fantasy and Sci-Fi, demographic Shounen, serialized in Shounen Gangan, story Hazuki Minase, art Itsuki Kameya, score 7.43, popularity rank 6047, 4,239 members, 74 favourites; synopsis: a Final Fantasy superfan who gets a job at Square Enix is hit by a truck with his sister and is transported into a Final Fantasy-inspired world -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 Tags: `used` · `dup` · `mine` · `empty` · `shallow`

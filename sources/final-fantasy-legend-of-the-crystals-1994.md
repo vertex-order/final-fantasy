@@ -71,6 +71,10 @@
 
 - https://anilist.co/anime/426/Final-Fantasy/ -- Legend of the Crystals: Final Fantasy, AniList id 426, MyAnimeList id 426, format OVA, 4 episodes of 30 min, 1994-03-21 to 1994-07-21, studio Madhouse, source Video Game, genres Action, Adventure, Comedy and Fantasy, average score 57, popularity 3173, 18 favourites, country JP -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList anime page, live page of 2026-11-11; the page's scored-by count and rank are garbled in the fetched text, so only the score is recorded)
+
+- https://myanimelist.net/anime/426/Final_Fantasy -- Legend of the Crystals: Final Fantasy (MyAnimeList title Final Fantasy), MyAnimeList id 426, Japanese title ファイナルファンタジー, type OVA, 4 episodes of 30 min, aired 1994-03-21 to 1994-07-21, producers Square Enix and Arts Pro, licensor Urban Vision, studio Madhouse, source Game, genres Action, Adventure, Comedy and Fantasy, rating PG-13, score 6.12, popularity rank 6030, 17,098 members, 23 favourites; synopsis: two centuries after Bartz's heroics, Ra Devil steals crystals to summon a destructive god -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Episode parts (user, 2026-10-19): the four chapters are `contents` parts, for the planned per-part tracking

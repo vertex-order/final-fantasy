@@ -176,6 +176,10 @@ ndlsearch.ndl.go.jp (Information)
 duckduckgo.com (Information)
 - DuckDuckGo query: the entry's own title plus the qualifier novel (no `searchTitle` override) — the book search row. The earlier Vol.1-only query `Final Fantasy type-0 The Answer` was dropped when the entry became the combined one — not tested for result quality
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/97964/Final_Fantasy_Reishiki__Change_the_World -- Final Fantasy Reishiki: Change the World (ファイナルファンタジー零式 Change the World; synonyms Final Fantasy Type-0: Change the World and Final Fantasy Type-0: The Last Truth), MyAnimeList id 97964, type Novel, 2 volumes, 13 chapters, Finished, 2012-04-21 to 2012-06-28, genres Action and Fantasy, no serialization, story Souki Tsukishima, no score, popularity rank 77787, 36 members, 0 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 - How the two volumes relate to the game, from the wiki's Story and Synopsis sections and the Square Enix blurbs (text pasted by the user, 2026-10-11):

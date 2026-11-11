@@ -54,6 +54,10 @@ duckduckgo.com (Information)
 
 - https://anilist.co/manga/130079/Final-Fantasy-XV-Koushiki-Comic-Anthology/ -- ファイナルファンタジーXV 公式コミックアンソロジー, AniList id 130079, MyAnimeList id 114269, format Manga, Finished, 28 chapters in 2 volumes, 2017-07-27 to 2017-12-26, artists mikimaki, Rin Asano, Mitsunori Zaki, Saya Fuyume, Megumu Soramichi, Kogetaokoge and others, popularity 231, 6 favourites, synonym Final Fantasy XV Official Anthology; the description lists the stories by volume -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/114269/Final_Fantasy_XV__Koushiki_Comic_Anthology -- Final Fantasy XV: Koushiki Comic Anthology (ファイナルファンタジーXV 公式コミックアンソロジー; English title Final Fantasy XV: Official Comic Anthology), MyAnimeList id 114269, type Manga, 2 volumes, 28 chapters, Finished, 2017-07-27 to 2017-12-26, genres Adventure, Comedy and Fantasy, no serialization, 26 story-and-art credits (Aoi Michiyuki, mikimaki, Rin Asano, Mitsunori Zaki, Saya Fuyume, Megumu Soramichi, Mika, Sora Gouto, Takuhei, Sharou Hanten, Yoshie Kaoruhara, Kotoni Shiroishi, Makoto Morishita, Kogetaokoge, Kotoko Ichi, Liberum, Reiya Ooba, Kyo zip, Isamu, Tomohiro Inaki, Ameno, Yuu Kirai, Croquette Zunda, Reo Horiguchi, Oniku Oishii and Craft), no score, popularity rank 36599, 294 members, 3 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 - Goodreads vol 1 page does not link to a Goodreads series — empty: no series page to use for the book platform

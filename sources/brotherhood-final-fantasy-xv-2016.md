@@ -71,4 +71,8 @@
 
 - https://anilist.co/anime/21728/BROTHERHOOD-FINAL-FANTASY-XV/ -- BROTHERHOOD FINAL FANTASY XV, AniList id 21728, MyAnimeList id 33080, format ONA, 5 episodes of 15 min, 2016-03-31 to 2016-09-18, studio A-1 Pictures, source Video Game, genres Action, Adventure and Fantasy, average score 66, popularity 19979, 148 favourites, country JP -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList anime page, live page of 2026-11-11; the page's scored-by count and rank are garbled in the fetched text, so only the score is recorded)
+
+- https://myanimelist.net/anime/33080/Brotherhood__Final_Fantasy_XV -- Brotherhood: Final Fantasy XV, MyAnimeList id 33080, Japanese title BROTHERHOOD FINAL FANTASY XV, type ONA, 5 episodes of 14 min, aired 2016-03-31 to 2016-09-18, producers Square Enix and RightTracks, studio A-1 Pictures, source Game, genre Action, rating PG-13, score 6.90, popularity rank 2627, 90,838 members, 213 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

@@ -78,4 +78,8 @@
 
 - https://anilist.co/anime/21729/Kingsglaive-Final-Fantasy-XV/ -- Kingsglaive Final Fantasy XV, AniList id 21729, MyAnimeList id 33082, format Movie, 110 min, 2016-07-09, studio Square Enix, source Video Game, genres Action, Adventure, Drama, Fantasy and Sci-Fi, average score 70, popularity 14512, 145 favourites, country JP, synonym Final Fantasy XV: Gwardia królewska -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList anime page, live page of 2026-11-11; the page's scored-by count and rank are garbled in the fetched text, so only the score is recorded)
+
+- https://myanimelist.net/anime/33082/Kingsglaive__Final_Fantasy_XV -- Kingsglaive: Final Fantasy XV, MyAnimeList id 33082, Japanese title KINGSGLAIVE FINAL FANTASY XV, Spanish title Final Fantasy XV: La Película, type Movie, 1 episode of 1 hr 55 min, aired 2016-07-09, producer Square Enix, studio Square Enix Visual Works, source Game, genre Action, rating PG-13, score 7.38, popularity rank 3225, 64,374 members, 171 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

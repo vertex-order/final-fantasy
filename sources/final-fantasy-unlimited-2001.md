@@ -65,4 +65,8 @@
 
 - https://anilist.co/anime/1157/Final-Fantasy-Unlimited/ -- Final Fantasy: Unlimited, AniList id 1157, MyAnimeList id 1157, format TV, 25 episodes of 24 min, 2001-10-02 to 2002-03-26, studio GONZO, source Video Game, genres Action, Adventure, Fantasy and Sci-Fi, average score 58, popularity 6370, 40 favourites, country JP -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList anime page, live page of 2026-11-11; the page's scored-by count and rank are garbled in the fetched text, so only the score is recorded)
+
+- https://myanimelist.net/anime/1157/Final_Fantasy__Unlimited -- Final Fantasy: Unlimited, MyAnimeList id 1157, Japanese title ファイナルファンタジー：アンリミテッド, type TV, 25 episodes of 24 min, aired 2001-10-02 to 2002-03-26, producers TV Tokyo, Dentsu and TV Tokyo Music, licensor ADV Films, studio Gonzo, source Game, genres Action, Adventure, Fantasy and Sci-Fi, rating PG-13, score 6.20, popularity rank 4225, 39,672 members, 89 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

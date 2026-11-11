@@ -111,6 +111,10 @@ tokyo otaku mode (Information; Otapedia, English)
 
 - https://anilist.co/manga/40002/Final-Fantasy-XII/ -- Final Fantasy XII, AniList id 40002, MyAnimeList id 10002, format Manga, Finished, 19 chapters in 5 volumes, 2006-06-22 to 2009-06-25, story and art Gin Amou, source Video Game, average score 57, popularity 453, 6 favourites, synonyms FFXII and Final Fantasy 12 -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/10002/Final_Fantasy_XII -- Final Fantasy XII (ファイナルファンタジーXII), MyAnimeList id 10002, synonyms FFXII and Final Fantasy 12, type Manga, 5 volumes, 19 chapters, Finished, 2006-06-22 to 2009-06-25, genres Adventure and Fantasy, demographic Shounen, serialized in Gangan Powered, story and art Gin Amou, score 6.82, popularity rank 11406, 1,986 members, 28 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 - [OneManga – Final Fantasy XII](https://www.onemanga.com/Final_Fantasy_XII/) — a fan English translation, 404 now; confirmed on the Wayback Machine — used

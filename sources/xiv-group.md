@@ -47,6 +47,10 @@ wikipedia.org (Information)
 
 - https://anilist.co/anime/118041/Final-Fantasy-XIV-CHOOSE-YOUR-LIFE/ -- Final Fantasy XIV: CHOOSE YOUR LIFE (ファイナルファンタジーXIV - CHOOSE YOUR LIFE), AniList id 118041, no MyAnimeList id, format ONA, 3 episodes of 1 min, 2019-06-25 to 2019-07-02, studio Craftar, source Video Game, genre Fantasy, mean score 52, popularity 306, 2 favourites, country JP, synonym FFXIV: CHOOSE YOUR LIFE CM -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList anime page, live page of 2026-11-11; the page's scored-by count and rank are garbled in the fetched text, so only the score is recorded)
+
+- https://myanimelist.net/anime/53272/Final_Fantasy_XIV__Seoduleuji_anh-ado_gwaenchanh-a -- Final Fantasy XIV: Seoduleuji anh-ado gwaenchanh-a (파이널판타지14 특별 영상 - 서두르지 않아도 괜찮아, a Korean special video, listed in the Japanese-title field), MyAnimeList id 53272, type ONA, 1 episode of 2 min, aired 2021-02-16, no producer or studio listed, source Game, genre Fantasy, rating PG-13, score 6.06, popularity rank 19611, 462 members, 1 favourite, no synopsis -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

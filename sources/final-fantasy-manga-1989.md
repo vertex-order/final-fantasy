@@ -84,6 +84,10 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
 
 - https://anilist.co/manga/165132/Final-Fantasy/ -- ファイナルファンタジー, AniList id 165132, MyAnimeList id 170072, format Manga, 1 volume of 6 chapters, 1989, story and art Yu Kaimeiji (the cover credits 海明寺 裕), source Video Game, country JP, popularity 121, 1 favourite, no score, no description -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/170072/Final_Fantasy -- Final Fantasy (ファイナルファンタジー), MyAnimeList id 170072, type Manga, 1 volume, 6 chapters, Finished, published 1989 (no full dates), genres Action, Adventure and Fantasy, no serialization, story and art Yuu Kaimeiji, no score, popularity rank 51173, 133 members, 2 favourites; synopsis: a manga adaptation of the original Famicom game -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 - [Fandom – Final Fantasy (manga)](https://finalfantasy.fandom.com/wiki/Final_Fantasy_(manga)) — see above — used

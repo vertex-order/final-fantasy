@@ -73,6 +73,10 @@ ffii-book.tumblr.com (Information; fan translation)
   - Also shows fanart and other goodies; target dates are projections
   - Stays out of `site/data` (translation pages are sources only); the entry's EN flag says partial fan translation (user, 2026-10-19)
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/97982/Final_Fantasy_II__Muma_no_Meikyuu -- Final Fantasy II: Muma no Meikyuu (ファイナルファンタジーII 夢魔の迷宮; synonyms Final Fantasy 2: Muma no Meikyuu and Final Fantasy II: Labyrinth of Nightmares), MyAnimeList id 97982, type Light Novel, 1 volume, Finished, published 1989-03-20, genres Adventure and Fantasy, no serialization, story Kenji Terada, art Yoshitaka Amano, no score, popularity rank 79461, 31 members, 0 favourites; synopsis: a novelization of the Final Fantasy II plot by Kenji Terada, one of the game's writers, that expands the story and adds details about certain characters -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 - Google searches 角川勝文庫 ファイナルファンタジーII (3 of 10 pages) and 夢魔への前奏曲 マル勝ファミコン 付録 感想 (seen by user, 2026-10-19): no description, review or plot summary of the booklet

@@ -140,6 +140,9 @@ worldcat.org (Information, library catalog)
 
 other catalogs, 2026-10-16: checked by user, no other language: Spain's BNE (https://datos.bne.es/find?s=Hasegawa+Miyabi, no results), the Library of Congress (https://www.loc.gov/books/?q=hasegawa+miyabi+final+fantasy+xi, no pertinent results) and Goodreads (audited earlier, nothing new); not searched: WorldCat (needs an account; its records come from the same libraries, so low value), Italy's SBN (results load in the browser), and the Korean, Taiwanese and Chinese national catalogs; to scan: https://opac.sbn.it/risultati-ricerca-avanzata/-/opac-adv/result?searchTerm=Hasegawa+Miyabi, https://www.librarything.com/nseries/148143/Final-Fantasy-XI-Novels
 
+myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+- https://myanimelist.net/manga/97987/Final_Fantasy_XI -- Final Fantasy XI (ファイナルファンタジーXI), MyAnimeList id 97987, type Light Novel, 31 volumes, 170 chapters, Finished, 2002-12-20 to 2009-10-30, genres Adventure and Fantasy, no serialization, story Miyabi Hasegawa, art Eiji Kaneda and Fumio Minagawa, no score, popularity rank 80207, 29 members, 0 favourites; no synopsis; the volume count is the Japanese series, against the 11 volumes LibraryThing lists -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Section title: LibraryThing's English series name, "Final Fantasy XI Novels"

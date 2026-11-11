@@ -95,6 +95,10 @@ goodreads.com (Ratings)
 wikipedia.org (Information)
 - https://wikipedia.org/wiki/Fabula_Nova_Crystallis_Final_Fantasy#Related_media — story, platforms — accessed 2026-09-22
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/79931/Final_Fantasy_XIII-2__Fragments_Before -- Final Fantasy XIII-2: Fragments Before (ファイナルファンタジーXIII-2 Fragments Before), MyAnimeList id 79931, type Light Novel, 1 volume, 5 chapters, Finished, from 2011-12-15 (end date not listed), genres Adventure and Fantasy, no serialization, story Jun Eishima, no score, popularity rank 36001, 306 members, 2 favourites; synopsis: a 232-page book set just before Final Fantasy XIII-2, following Serah, Snow, Noel, Rygdea and Bartholomew Estheim -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 

@@ -105,6 +105,10 @@ goodreads.com (Ratings)
 goodreads.com (Information)
 - https://www.goodreads.com/book/show/7913673-final-fantasy-xiii -- format* (325 pages, Hardcover; goodreads tags the genre "Light Novel", not trusted for a hardcover; the book platform and tag read Novellas) -- accessed 2026-10-09
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/79243/Final_Fantasy_XIII__Episode_Zero_-_Promise -- Final Fantasy XIII: Episode Zero - Promise (小説 ファイナルファンタジーXIII エピソード0 -約束-; synonym Final Fantasy XIII: Episode Zero - Yakusoku), MyAnimeList id 79243, type Light Novel, 1 volume, 7 chapters, Finished, 2009-12-24, genres Adventure and Fantasy, no serialization, story Jun Eishima, no score, popularity rank 31753, 402 members, 5 favourites; chapter titles run from "Encounter" to "Tomorrow (Future)"; no synopsis -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 - [Square Enix Game Books Online](https://magazine.jp.square-enix.com/gamebooks/books/10070) — 小説 FINAL FANTASY XIII Episode Zero -Promise-: Jun Eishima, character design Tetsuya Nomura, December 24, 2009, A6 paperback, 320 pages + 8 colour pages, ISBN 9784757527706 (matches the Wikipedia ISBN), seven narratives about the 13 days — accessed 2026-10-10

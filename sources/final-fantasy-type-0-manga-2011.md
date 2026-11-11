@@ -83,6 +83,10 @@ wikipedia.org (Information)
 
 - https://anilist.co/manga/62955/Final-Fantasy-Reishiki/ -- ファイナルファンタジー 零式 (English title Final Fantasy Type-0), AniList id 62955, MyAnimeList id 32955, format Manga, Finished, 4 chapters in 1 volume, 2011-11-12 to 2012-02-10, story and art Takatoshi Shiozawa, English translator Elina Ishikawa, German translator Hirofumi Yamada, average score 54, popularity 421, 5 favourites, synonyms FF Type-0 and FF Reishiki -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/32955/Final_Fantasy_Reishiki -- Final Fantasy Reishiki (FINAL FANTASY 零式; English title Final Fantasy Type-0; synonyms Final Fantasy, FF Type-0, FF Reishiki), MyAnimeList id 32955, type Manga, 1 volume, 4 chapters, Finished, 2011-11-12 to 2012-02-10, genres Action and Fantasy, themes Mecha, Military and School, demographic Shounen, serialized in Shounen Gangan, story Hiroki Chiba, art Takatoshi Shiozawa, score 6.45, popularity rank 12525, 1,768 members, 21 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 - Japanese edition ISBN and Square Enix page: not researched — mine

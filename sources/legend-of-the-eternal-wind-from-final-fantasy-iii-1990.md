@@ -162,6 +162,10 @@ tokyo otaku mode (Information; Otapedia, English)
 
 - https://anilist.co/manga/39808/Final-Fantasy-III-Yuukyuu-no-Kaze-Densetsu/ -- ファイナルファンタジーIII 悠久の風伝説, AniList id 39808, MyAnimeList id 9808, format Manga, Finished, 3 volumes, from 1992-09-01, art Yuu Kinutani, story Kenji Terada, source Video Game, popularity 121, no score, synonyms Final Fantasy III Kaze Densetsu, Yukyu no Kaze and Legend of the Eternal Wind; description: based on the game Final Fantasy 3, a parallel story -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/9808/Final_Fantasy_III_-_Yuukyuu_no_Kaze_Densetsu -- Final Fantasy III - Yuukyuu no Kaze Densetsu (ファイナルファンタジーIII 悠久の風伝説; synonyms Final Fantasy III Kaze Densetsu, Yukyu no Kaze and Legend of the Eternal Wind), MyAnimeList id 9808, type Manga, 3 volumes, chapters unknown, Finished, from 1992-09 (end date not listed; our entry year is 1990), genres Action, Adventure and Fantasy, serialized in Marukatsu Famicom, art Yuu Kinutani, no score, popularity rank 27617, 526 members, 3 favourites; synopsis: a parallel story based on the Final Fantasy III video game -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 - [Fandom – Legend of the Eternal Wind](https://finalfantasy.fandom.com/wiki/Y%C5%ABky%C5%AB_no_Kaze_Densetsu:_Final_Fantasy_III_Yori) — see above — used
