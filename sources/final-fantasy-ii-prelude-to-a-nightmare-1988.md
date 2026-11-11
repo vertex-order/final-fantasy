@@ -38,6 +38,15 @@ paypayfleamarket.yahoo.co.jp (Information; marketplace photos)
 Marketplaces (Information)
 - Google results (seen by user): Mercari, PayPay Flea, Yahoo Auctions, Yahoo! Shopping and Aucfan list it as the Maru-Katsu Famicom supplement; no publisher or library record beyond Suruga-ya and Goodreads
 
+mercari.com (Information; marketplace)
+- https://jp.mercari.com/item/m81900642893 -- listing titled テ*オ様 勝ファミコン VOL.23 ファイナルファンタジーII付録付 (sold): the magazine issue No.23 with the booklet as its supplement -- accessed 2026-11-11 (title from the user's saved search page; the item page itself renders its details by script)
+- https://jp.mercari.com/shops/product/2JVgZ6b3x7xzp5TZedpjZu -- 駿河屋メルカリ店 (Suruga-ya's Mercari shop) listing 【中古】ライトノベル文庫サイズ ■）FINAL FANTASY II 夢魔への前奏曲 / 寺田憲史 (sold): the same title and credit as the Suruga-ya record above -- accessed 2026-11-11 (title from the saved search page)
+- The search for 夢魔への前奏曲 returned no other listing of the booklet and no listing of another 角川勝文庫 volume; the rest are music CDs, scores and unrelated books
+
+auctions.yahoo.co.jp (Information; marketplace)
+- https://auctions.yahoo.co.jp/jp/auction/t1251697662 -- listing titled マル勝ファミコン別冊付録 ファイナルファンタジーⅡ 夢魔への前奏曲: the booklet called a 別冊付録 (separate-volume supplement) of マル勝ファミコン -- accessed 2026-11-11 (title from the saved search pages; the item page gives no description of the booklet)
+- https://auctions.yahoo.co.jp/jp/auction/h1250480646 -- listing titled 【とじ込み付録新聞無し】マルカツ ファミコン 1989年1月27・2月10日合併号 /ファイナルファンタジー2/ゲーム雑誌: a Maru-Katsu Famicom combined issue titled with Final Fantasy II; the item page's description text is about Famicom cartridges, so the title and the page disagree -- accessed 2026-11-11 (title from the saved search pages)
+
 ## Surveyed
 
 - Relation to the novel Nightmare's Labyrinth (1989): the novel has a part 夢魔への前奏曲 (NDL full text of https://dl.ndl.go.jp/pid/13445035; the fan translation's Part One "Prelude to a Nightmare"); no source says the booklet is that part or that it is not; details in final-fantasy-ii-nightmares-labyrinth-1989.md
