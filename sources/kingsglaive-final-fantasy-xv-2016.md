@@ -60,4 +60,10 @@
 
 - https://letterboxd.com/film/kingsglaive-final-fantasy-xv/ -- Kingsglaive: Final Fantasy XV, 2016, 115 mins, director Takeshi Nozue, studios Visual Works, Digic Pictures, Pixoloid Studios, Square Enix, Square USA, The Monk Studios, Toneplus Animation Studios, Stage 6 Films, Sony Pictures Home Entertainment, Dynamo Pictures, countries Japan and USA, Japanese, 95 fans; average rating not in the page text read; digital listings Mexico 2016-08-19, Poland 2016-08-30, France VOD 2016-09-29, France Netflix 2021-10-01; IMDb tt5595168, TMDB movie 390734, short link https://boxd.it/dEjs -- accessed 2026-11-10; archived: TODO
 
+## trakt.tv (Information; Trakt page, live page of 2026-11-10)
+
+- https://og.trakt.tv/movies/kingsglaive-final-fantasy-xv-2016 -- Kingsglaive: Final Fantasy XV, 2016, 1h 55m, PG-13, released 2016-07-09 (18 more release dates) and DVD 2016-09-30, country Japan, language Japanese, genres Action, Anime and Science Fiction, studio Digic Pictures plus 9, director Takeshi Nozue, writer Takashi Hasegawa, 41 cast; Trakt rating 71% from 2,930 votes (the page also shows IMDb 6.7, Letterboxd 3.0, MyAnimeList 7.4, TMDB 68%, Rotten Tomatoes 13% and 69%, Metascore 35); IMDb tt5595168, TMDB 390734; tagline "The Final Fantasy XV saga starts here." -- accessed 2026-11-10; archived: TODO
+  - https://tvtime.trakt.tv/movies/kingsglaive-final-fantasy-xv-2016 -- same slug, other Trakt front end -- dup
+  - https://app.trakt.tv/movies/kingsglaive-final-fantasy-xv-2016 -- same slug, other Trakt front end -- dup
+
 ## Decisions

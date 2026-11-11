@@ -698,6 +698,10 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://www.serializd.com/show/Let's-Mosey%3A-A-Slow-Translation-Of-Final-Fantasy-VII-211042 -- Let's Mosey: A Slow Translation Of Final Fantasy VII, a playthrough of note: Tim Rogers spent 800 hours over two years replaying Final Fantasy VII sixteen times in English and Japanese and compares the first English translation with the original Japanese script; aired 2017-07-31 to 2019-04-19, country US, 1 season, 12 episodes listed (the synopsis says eleven-part), status Running, rating count 0; no TMDB or IMDb id shown (211042 is in the address) -- accessed 2026-11-10; archived: TODO
 
+## trakt.tv (Information; Trakt page, live page of 2026-11-10)
+
+- https://og.trakt.tv/movies/reminiscence-of-final-fantasy-vii-2005 -- Reminiscence of Final Fantasy VII, 2005, released 2005-09-14, country Japan, language Japanese, genre Anime, studio Madhouse, director Yoji Shimizu, writer Kazushige Nojima (scenario); Trakt 0% from 0 votes; IMDb tt1693875, TMDB 1123354; the tvtime.trakt.tv form of the address returned only the app shell -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

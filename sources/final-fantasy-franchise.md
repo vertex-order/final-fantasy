@@ -1327,6 +1327,10 @@
 
 - https://www.serializd.com/search?searchQuery=final%20fantasy -- Serializd search for "final fantasy" (address pattern https://www.serializd.com/search?searchQuery=<term>); the page answered HTTP 403 to the text fetch, so the result rows were not read there -- live page of 2026-11-10, visited and audited; archived: TODO
 
+## trakt.tv (Information; Trakt, Google search)
+
+- https://www.google.com/search?q=final+fantasy+site%3Atrakt.tv -- Google search for `final fantasy site:Trakt.tv`, which returns pages on og.trakt.tv, app.trakt.tv and tvtime.trakt.tv (three front ends of the same Trakt slugs) -- live page of 2026-11-10, visited and audited; archived: TODO
+
 ## igdb.com (Information; IGDB company page and searches)
 
 - https://www.igdb.com/companies/square -- IGDB company page for Square (video game publisher, Japan); Developed 72 and Published 116 games; 139 game cards on 3 saved pages (title, year, platforms, type label with the parent game) -- live pages of 2026-11-03 (the saved pages do not record their address), visited and audited; archived: TODO

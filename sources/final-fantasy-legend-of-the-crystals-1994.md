@@ -53,6 +53,12 @@
 
 - https://www.serializd.com/show/Final-Fantasy%3A-Legend-of-the-Crystals-67037 -- Final Fantasy: Legend of the Crystals as a TV series, 1994, 1 season of 4 episodes of 30 minutes, aired 1994-03-21 to 1994-07-21, country JP, status Ended, TV-14, genres Animation, Action & Adventure and Sci-Fi & Fantasy; synopsis: a threat seeks to take the Crystals, Linaly (a descendant of Bartz) and her protector Prettz travel to the Temple of Wind; average rating 2.50 shown with a rating count of 0; the number in the address, 67037, equals the TMDB tv id on the Letterboxd page -- accessed 2026-11-10; archived: TODO
 
+## trakt.tv (Information; Trakt page, live page of 2026-11-10)
+
+- https://og.trakt.tv/shows/final-fantasy-legend-of-the-crystals -- Final Fantasy: Legend of the Crystals as a show, original title ファイナルファンタジー, 1994, 1 season of 4 episodes of 30m (1h 57m; episodes 2 to 4 are "The Fire Chapter", "The Dragon Chapter" and "The Star Chapter"), TV-14, aired 1994-03-21 to 1994-07-21, network Anime OAV, studio Madhouse, country Japan, language Japanese, genres Anime, Action, Adventure, Fantasy and Science Fiction; Trakt rating 51% from 36 votes (the page also shows IMDb 6.1, MyAnimeList 6.1, TMDB 62%); IMDb tt0196692, TMDB 67037, TVDB 82745, MyAnimeList 426 -- accessed 2026-11-10; archived: TODO
+  - https://tvtime.trakt.tv/shows/final-fantasy-legend-of-the-crystals -- same slug, other Trakt front end -- dup
+  - https://app.trakt.tv/shows/final-fantasy-legend-of-the-crystals -- same slug, other Trakt front end -- dup
+
 ## Decisions
 
 - Episode parts (user, 2026-10-19): the four chapters are `contents` parts, for the planned per-part tracking

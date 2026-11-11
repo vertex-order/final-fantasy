@@ -115,4 +115,8 @@ goodreads.com (Information)
 
 - https://letterboxd.com/film/on-the-way-to-a-smile-episode-of-denzel/ -- Final Fantasy VII: On the Way to a Smile - Episode Denzel, 2009, 28 mins, director Shinji Ishihira, studios Square Enix and A-1 Pictures, Japanese, 1 fan; part of the Letterboxd Final Fantasy VII collection; tagline デンゼルを中心としたオリジナルアニメ; theatrical listings Japan 2009-04-16, Australia (PG) and USA (PG-13) 2009-06-02; digital listings Japan 2009-04-16, France (12) 2009-04-16, Australia and USA 2009-06-02; IMDb tt1980204, TMDB movie 59300, short link https://boxd.it/inw -- accessed 2026-11-10; archived: TODO
 
+## trakt.tv (Information; Trakt page, live page of 2026-11-10)
+
+- https://og.trakt.tv/movies/final-fantasy-vii-on-the-way-to-a-smile-episode-denzel-2009 -- Final Fantasy VII: On the Way to a Smile - Episode Denzel, 2009, 28m, PG-13, released 2009-04-16 (3 more release dates), country Japan, language Japanese, genres Fantasy and Anime, studio A-1 Pictures plus 1, director Shinji Ishihira, writer Kazushige Nojima (original story), 13 voice actors; part of a Final Fantasy VII Collection list; Trakt rating 65% from 60 votes (the page also shows IMDb 6.7 and TMDB 59%); IMDb tt1980204, TMDB 59300 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

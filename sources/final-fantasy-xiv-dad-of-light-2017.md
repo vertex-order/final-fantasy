@@ -44,6 +44,11 @@ netflix.com (Streaming)
 
 - https://www.serializd.com/show/Final-Fantasy-XIV%3A-Dad-of-Light-73659 -- Final Fantasy XIV: Dad of Light, 2017, 1 season of 8 episodes of 24 minutes, aired 2017-04-17 to 2017-09-01, country JP, status Ended, TV-PG, genres Drama and Family; synopsis: a father and son rekindle their bond through Final Fantasy XIV, live-action, based on a true story; average rating 3.22 shown with a rating count of 0; the number in the address, 73659, equals the TMDB tv id on the Letterboxd page -- accessed 2026-11-10; archived: TODO
 
+## trakt.tv (Information; Trakt page, live page of 2026-11-10)
+
+- https://og.trakt.tv/shows/final-fantasy-xiv-dad-of-light -- Final Fantasy XIV: Dad of Light as a show, original title ファイナルファンタジーXIV 光のお父さん, 2017, 1 season of 8 episodes of 24m (3h 15m), TV-PG, aired 2017-04-17 to 2017-09-01, status Ended, network MBS, country Japan, language Japanese, genres Drama and Family; Trakt rating 70% from 100 votes (the page also shows IMDb 7.1, TMDB 73%, Rotten Tomatoes 100% and 75%); IMDb tt6497076, TMDB 73659, TVDB 330789 -- accessed 2026-11-10; archived: TODO
+  - https://app.trakt.tv/shows/final-fantasy-xiv-dad-of-light -- same slug, other Trakt front end -- dup
+
 ## Surveyed
 
 - Netflix subtitle and dub languages, any VAP disc release: not found

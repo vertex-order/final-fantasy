@@ -43,4 +43,10 @@
 
 - https://www.serializd.com/show/Final-Fantasy%3A-Unlimited-11316 -- Final Fantasy: Unlimited, 2001, 1 season of 25 episodes of 30 minutes, aired 2001-10-02 to 2002-03-26, country JP, status Ended, TV-PG, genres Animation and Action & Adventure, tags Anime, Video Game and Animation for Adults; synopsis "Twins Ai and Yu Hayakawa decide to set forth in search of their parents and the mysterious dimension they studied."; average rating 1.94 shown with a rating count of 0; no TMDB or IMDb id shown on the page (11316 is in the address) -- accessed 2026-11-10; archived: TODO
 
+## trakt.tv (Information; Trakt page, live page of 2026-11-10)
+
+- https://og.trakt.tv/shows/final-fantasy-unlimited -- Final Fantasy: Unlimited as a show, original title ファイナルファンタジー：アンリミテッド, 2001, 1 season of 25 episodes of 23m (9h 35m), TV-PG, aired 2001-10-02 to 2002-03-26, status Ended, network TV Tokyo, studio GONZO, country Japan, language Japanese, genres Action, Adventure and Anime; Trakt rating 56% from 52 votes (the page also shows IMDb 5.9, MyAnimeList 6.2, TMDB 68%); IMDb tt0304012, TMDB 11316, TVDB 78913 -- accessed 2026-11-10; archived: TODO
+  - https://tvtime.trakt.tv/shows/final-fantasy-unlimited -- same slug, other Trakt front end -- dup
+  - https://app.trakt.tv/shows/final-fantasy-unlimited -- same slug, other Trakt front end -- dup
+
 ## Decisions

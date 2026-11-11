@@ -43,4 +43,8 @@
 
 - https://letterboxd.com/film/final-fantasy-vii-last-order/ -- Final Fantasy VII: Last Order, original title ラストオーダー -ファイナルファンタジーVII-, 2005, 25 mins, directors Morio Asaka and Tetsuya Nomura, studios Square Enix and Madhouse, Japanese, 10 fans; part of the Letterboxd Final Fantasy VII collection; physical releases listed Japan DVD 2005-09-14, USA DVD and Australia 2007-02-20; no digital listings; IMDb tt0489134, TMDB movie 13274, short link https://boxd.it/1QvG -- accessed 2026-11-10; archived: TODO
 
+## trakt.tv (Information; Trakt page, live page of 2026-11-10)
+
+- https://og.trakt.tv/movies/final-fantasy-vii-last-order-2005 -- Final Fantasy VII: Last Order, original title ラストオーダー -ファイナルファンタジーVII-, 2005, 25m, released 2005-09-14 (2 more release dates) and DVD 2007-02-20, country Japan, language Japanese, genres Action, Adventure, Anime, Fantasy, Science Fiction and Drama, studio Madhouse plus 1, directors Tetsuya Nomura and Morio Asaka, writer Kazushige Nojima plus 1, 20 cast; Trakt rating 69% from 157 votes (the page also shows IMDb 7.1, Letterboxd 3.2, MyAnimeList 7.3, TMDB 65%); IMDb tt0489134, TMDB 13274 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

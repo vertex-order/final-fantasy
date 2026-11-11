@@ -44,5 +44,9 @@
 
 - https://letterboxd.com/film/final-fantasy-xv-episode-ardyn-prologue/ -- Final Fantasy XV: Episode Ardyn - Prologue, Japanese title ファイナルファンタジーXVエピソードアルディン - プロローグ, 2019, 15 mins, director spelled "Takefumi Terda" on the page, studios Square Enix and SATELIGHT, Japanese, 1 fan; releases listed: Australia theatrical (PG) and Japan digital (PG12), both 2019-02-16; IMDb tt9860590, TMDB movie 844390, short link https://boxd.it/vQZQ -- accessed 2026-11-10; archived: TODO
 
+## trakt.tv (Information; Trakt page, live page of 2026-11-10)
+
+- https://og.trakt.tv/movies/final-fantasy-xv-episode-ardyn-prologue-2019 -- Final Fantasy XV: Episode Ardyn - Prologue, 2019, 15m, released 2019-02-16 (1 more release date), country Japan, language Japanese, genres Anime and Fantasy, studio SATELIGHT plus 1, no director shown, cast Daisuke Namikawa, Keiji Fujiwara, Kazuhiko Inoue and Saori Seto; Trakt rating 77% from 37 votes (the page also shows IMDb 7.3 and TMDB 40%); IMDb tt9860590, TMDB 844390; the app.trakt.tv form of the address failed to load in the fetch -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 - The `Free` tag was added (user, 2026-10-17): the episode is free on YouTube with English subtitles; the platform row already links the official video directly
