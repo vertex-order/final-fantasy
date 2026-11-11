@@ -43,6 +43,10 @@ archive.org (Information; community scans)
   - Title page credits 井上尚美／RECCA社; contents: prologue p4, game p16 to 266, epilogue p266, check sheet p270
   - The colophon (奥付) with the first-printing date was not in the scans seen; the date question above stays open
 
+reddit.com (Information; community)
+- https://www.reddit.com/r/FinalFantasy/comments/1r5y0gq/i_uploaded_full_scans_of_futabashas_gamebook/ -- lead; scans -- accessed 2026-10-19 (post text pasted by user)
+  - Joshless uploaded full scans of this and Final Fantasy: May Light Be Upon the Heroes!
+
 duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20II%20Hih%C5%8D%20no%20Dragon%20translation -- fan-translation search
 
