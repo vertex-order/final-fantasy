@@ -89,4 +89,8 @@ goodreads.com (Information)
 
 - https://myanimelist.net/manga/79633/Final_Fantasy_X-25__Eien_no_Daishou -- Final Fantasy X-2.5: Eien no Daishou (Final Fantasy X-2.5 ~永遠の代償~; synonym Final Fantasy X-2.5: Price of Eternity), MyAnimeList id 79633, type Light Novel, 1 volume, 13 chapters, Finished, 2013-12-26, genres Fantasy and Supernatural, no serialization, story Kazushige Nojima, no score, popularity rank 32900, 374 members, 1 favourite; synopsis: set between Final Fantasy X-2: Last Mission and Final Fantasy X -Will-, from a few months after the former to half a year before the latter -- accessed 2026-11-11; archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=59025 -- reprint request no. 59025, registered 2013/12/29: 小説 FINAL FANTASY X-2.5～永遠の代償～; author field 野島一成; publisher field スクウェア・エニックス; genre 文芸書; ISBN 9784757541573; 1 vote comments
+
 ## Decisions

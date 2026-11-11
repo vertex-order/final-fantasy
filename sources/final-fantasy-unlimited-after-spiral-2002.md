@@ -43,4 +43,8 @@ wikipedia.org (Information)
 
 - https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜#続編 -- listed in the sequel section as a work that continues the story left unresolved when the series was cut to 25 episodes after Square withdrew as sponsor in March 2002: the web novel FF:U After Spiral (its official site closed around 2004; the web novel is unfinished, with the plots of unpublished parts printed on a drama CD jacket) -- accessed 2026-11-09 (revision 111204422 of 2026-09-29; wikitext read through the MediaWiki API); archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=54207 -- reprint request no. 54207, registered 2011/11/14: FF:U After Spiral; author field 片桐笙、スクウェア; publisher field スクウェア; genre エンタメ; ISBN none; 10 vote comments; the request says the story was serialized on the official site and ended unfinished when the site closed; it is the sequel to 外界の章 and has no ISBN
+
 ## Decisions

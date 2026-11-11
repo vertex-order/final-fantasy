@@ -97,4 +97,8 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジー#関連作品 -- 漫画版: first printed 1989-12-30, drawn by 海明寺裕 and published by JICC出版局 as 宝島COMIC in 1 volume, titled Final Fantasy like the original; it digs into the Warriors of Light and Garland and makes characters who do not join the party in the game into main characters, with an original character as the Warrior of Light; the page adds that an FFII manga was also planned, but Square withdrew the licence when about 60 pages were drawn, though a partly drawn FFII manga appeared in a game-comic anthology magazine that JICC issued as a supplement to ファミコン必勝本 -- accessed 2026-11-09 (revision 111583688 of 2026-10-31; wikitext read through the MediaWiki API); archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=56119 -- reprint request no. 56119, registered 2012/09/12: ファイナルファンタジー (宝島コミックス); author field 海明寺裕; publisher field 宝島社; genre コミック・漫画; ISBN 9784880637440; 2 vote comments
+
 ## Decisions

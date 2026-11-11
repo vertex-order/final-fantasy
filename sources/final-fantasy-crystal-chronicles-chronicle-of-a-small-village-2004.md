@@ -137,4 +137,8 @@ duckduckgo.com (Information)
 
 - "Chronicles of a Small Village" — the Crystal Chronicle Chibis wiki's character pages; "Chiisana Mura no Nendaiki" — the Fandom wiki's Magazine & Book table*
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=70073 -- reprint request no. 70073, registered 2020/08/29: 小説 ファイナルファンタジー・クリスタルクロニクル; author field 梅村崇; publisher field スクウェア・エニックス; genre エンタメ; ISBN 9784757510968; 1 vote comments
+
 ## Decisions

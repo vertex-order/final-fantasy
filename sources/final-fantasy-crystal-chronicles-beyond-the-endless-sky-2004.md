@@ -127,4 +127,8 @@ goodreads.com (Ratings)
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- Crystal Chronicles has been adapted into a manga -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=70077 -- reprint request no. 70077, registered 2020/08/29: ファイナルファンタジー・クリスタルクロニクル はてなき空の向こうに 全3巻; author field 壱河柳乃助; publisher field スクウェア・エニックス; genre コミック・漫画; ISBN 9784757512344 9784757513686 9784757514553; 3 vote comments
+
 ## Decisions

@@ -66,6 +66,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
   - https://www.thevideogamelibrary.org/book/final-fantasy-ii-dragon-treasures -- FINAL FANTASY II: DRAGON OF THE HIDDEN TREASURE; credits Naomi Inoue; genre tag ChooseYourOwnAdventure; editions: Japanese paperback ISBN 9784575760927, 1989, 283p; the page dates the paperback 1989 -- accessed 2026-11-11; archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=3856 -- reprint request no. 3856, registered 2001/05/06: ファイナルファンタジーII 秘宝のドラゴン; author field 井上尚美; publisher field 双葉文庫; genre エンタメ; ISBN 9784575760927; 22 vote comments
+
 ## Decisions
 
 - Date: `titleDate` is 1988-12 (user, 2026-10-19), the podcast's month (12/1/1988) over NDL's 1989.01; the copyright pages say 1988; the colophon with the printing date was not seen

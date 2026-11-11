@@ -100,4 +100,8 @@ wikipedia.org (Information)
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジー零式#関連商品 -- manga: art 塩沢天人志, scenario 千葉広樹, serialised in 月刊少年ガンガン (not Young Gangan, as en.wikipedia says) as ファイナルファンタジー零式 from the December 2011 issue to the March 2012 issue, 4 short-run chapters; the story is based on the game's prologue and chapter 1 with some original parts; the volume ファイナルファンタジー零式 was released 2012-04-21 and holds chapters 1 to 4 -- accessed 2026-11-09 (revision 110335924 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=58282 -- reprint request no. 58282, registered 2013/07/23: ファイナルファンタジー零式; author field 塩沢天人志、千葉広樹、野村哲也; publisher field スクウェア・エニックス; genre コミック・漫画; ISBN 9784757535534; 1 vote comments
+
 ## Decisions

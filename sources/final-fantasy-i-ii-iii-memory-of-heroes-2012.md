@@ -94,4 +94,8 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
 - Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
   - https://www.thevideogamelibrary.org/book/final-fantay-i-ii-iii-memory-of-heroes -- FINAL FANTAY I • II • III - MEMORY OF HEROES; credits Takashi Umemura; genre tag GameAdaptation RPG; editions: English paperback ISBN 9781975382391, 2020, 224p -- accessed 2026-11-11; archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=57309 -- reprint request no. 57309, registered 2013/02/25: 小説FINAL FANTASY　I　II　III　Memory of Heroes; author field 梅竹崇; publisher field スクウェア・エニックス; genre 文芸書; ISBN 9784757537750; 1 vote comments
+
 ## Decisions

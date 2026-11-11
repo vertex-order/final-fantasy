@@ -48,6 +48,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Found 2026-10-14: the NDL record gave the date (1989-01), length (317p, bunko), ISBN and credits, and the Goodreads page the links and rating
   - still missing: a plot description and the exact day (the podcast's 13 is unconfirmed) -- mine
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=3857 -- reprint request no. 3857, registered 2001/05/06: ファイナルファンタジーII 将軍ボーゲンとの死闘！; author field なし; publisher field 大陸文庫; genre エンタメ; ISBN 9784803318920; 21 vote comments
+
 ## Decisions
 
 - Finished 2026-10-14 (user): `helpWanted` removed

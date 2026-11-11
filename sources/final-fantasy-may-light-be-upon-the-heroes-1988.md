@@ -65,9 +65,6 @@ reddit.com (Information; community)
 - https://www.reddit.com/r/FinalFantasy/comments/1r5y0gq/i_uploaded_full_scans_of_futabashas_gamebook/ -- lead; scans -- accessed 2026-10-19 (post text pasted by user)
   - Joshless uploaded full scans of this and Final Fantasy II: Dragon Treasures; calls it an unknown adaptation absent from the wiki
 
-fukkan.com (Information)
-- https://www.fukkan.com/ -- reprint request for this book (no. 3846, 2001-05-06) -- seen by user in Google (not opened)
-
 ## Surveyed
 
 - Google results by title and ISBN-13 (seen by user): Amazon, Rakuten Books, AbeBooks, tradersguild, Mercari, Bookoff, Yahoo shopping, Tower Records and others list the book; no publisher record
@@ -77,5 +74,9 @@ fukkan.com (Information)
 ## ja.wikipedia.org (Information; ファイナルファンタジー article, 関連作品 section, live page of 2026-11-09)
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジー#関連作品 -- ゲームブック『ファイナルファンタジー 勇者に光あれ!』: published 1988-04-25 by 双葉社 in the ファミコン冒険ゲームブック series, author 井上尚美, edited by レッカ社; a story set before the game with named Warriors of Light (トーイ, ロム, マレク, ギア) in an original world that is neither Corneria nor Pravoka, whose map inverts the land and sea of the original; cover illustration by 出渕裕 based on Amano's package art; the heroine is an original character chosen as Light Priestess -- accessed 2026-11-09 (revision 111583688 of 2026-10-31; wikitext read through the MediaWiki API); archived: TODO
+
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=3846 -- reprint request no. 3846, registered 2001/05/06: ファミコン冒険ブック ファイナルファンタジー 勇者に光あれ！; author field 井上尚美; publisher field 双葉文庫; genre エンタメ; ISBN 9784575760637; 10 vote comments
 
 ## Decisions

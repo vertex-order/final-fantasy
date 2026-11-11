@@ -52,4 +52,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- the Final Fantasy: Unlimited story was partially continued in novels and a manga after the anime series ended, and the series received a radio drama sequel -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=23280 -- reprint request no. 23280, registered 2004/03/25: ファイナルファンタジー：アンリミテッドアフター～外界の章～; author field 片桐笙（著）、スクウェア（著）、中澤一登（イラスト）; publisher field デジキューブ; genre エンタメ; ISBN 9784887870352; 59 vote comments
+
 ## Decisions

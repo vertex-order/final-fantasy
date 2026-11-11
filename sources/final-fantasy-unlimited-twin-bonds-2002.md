@@ -51,6 +51,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - https://en.wikipedia.org/wiki/Final_Fantasy:_Unlimited#Related_media -- a novel, Final Fantasy: Unlimited - Sou no Kizuna (The Bond of Two Souls), released 2002-03-28 by Kadokawa Shoten, written by Sho Katigiri, illustrated by Kazuto Nakazawa and supervised by Squaresoft; a side story set in the time of the television series -- accessed 2026-11-09 (revision 1379290309 of 2026-10-09; wikitext read through the MediaWiki API); archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=54206 -- reprint request no. 54206, registered 2011/11/14: ファイナルファンタジー:アンリミテッド―双の絆―; author field 片桐笙(著), スクウェア(著), 中澤一登(イラスト); publisher field 角川書店; genre エンタメ; ISBN 9784044277017; 4 vote comments
+
 ## Decisions
 
 - Author name: "Syou Katagiri" (片桐笙) over wikipedia's "Sho Katigiri" -- it is the spelling on this edition's own retail and library data (amazon author page, goodreads, with google books giving 片桐笙); the wikipedia romanization is a single source that fandom and otakumode appear to copy, and searching "Sho Katagiri" only reaches the wikipedia article.

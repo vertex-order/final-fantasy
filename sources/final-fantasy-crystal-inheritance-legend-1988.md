@@ -100,6 +100,10 @@ jacket and cover scans (seen by user, from the Reddit post)
 - https://ja.wikipedia.org/wiki/アドベンチャーヒーローブックス#作品 -- the label's list of gamebooks; entry ファイナルファンタジー クリスタル継承伝説 (linked to the Final Fantasy article): 著 三原治、上原尚子 / 編 スタジオ・ハード / 絵 渡部美恵子 / 1987年 ISBN 4-7669-0669-1, no description line; listed between 仮面ライダーBLACK 魔軍のバトル and 邪聖剣ネクロマンサー; the only Final Fantasy title on the list, no Kingdom Hearts or Chocobo title -- accessed 2026-11-11 (revision of 2026-01-17; wikitext read through the MediaWiki API); archived: TODO
   - Year 1987 against the jacket's first printing 1988-01-10 (candidate in docs/wiki-corrections.md)
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=3847 -- reprint request no. 3847, registered 2001/05/06: ゲームブック ファイナルファンタジー クリスタル継承伝説; author field なし; publisher field 勁文社; genre エンタメ; ISBN 9784766906691; 10 vote comments
+
 ## Decisions
 
 - Ordering (user, 2026-10-19): chronologically before Stranger of Paradise, narratively after its DLC

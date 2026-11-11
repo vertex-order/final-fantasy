@@ -90,6 +90,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#漫画 -- アンソロジーコミック, single-author collections: LANDS END (清瀬のどか), ぼくらのきもち Boy meets Girl (おおつきべるの), おかえり Welcome Back! (うず), Trick Star (Mrパブロフ), いつか君にとどく風 (沙月ゆう), てっぺんのうた (おおつきべるの), ぷりけつ行進曲 (吉田満), おかえり 2 Welcome Back! (うず), ストレンジャーズ Strangers (小林こたろ), GO!GO!ヴァナ・ディール!! (寒苦鳥), ガルカ、はじめました。 (菊野郎), 君のうた、僕のあしあと (ほんだある), フォーチュンボックス (Carawey), おきらくデイズ (島津美保), GO!GO!ヴァナ・ディール!!2 (寒苦鳥), 空回りで行こう! (小虎), まったりにぎにぎ冒険記 はるぅぼん -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=55666 -- reprint request no. 55666, registered 2012/07/20: ファイナルファンタジーXI ぼくらのきもち Boy meets Girl; author field おおつきべるの; publisher field エンターブレイン; genre コミック・漫画; ISBN 9784757724426; 5 vote comments
+
 ## Decisions
 
 - One entry of 22 volumes (user, 2026-10-15): single-artist collections of XI comics by 16 artists, from one publisher, each pairing a contributor's work with new pages

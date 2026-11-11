@@ -114,6 +114,10 @@ ffii-book.tumblr.com (Information; fan translation)
 
 - https://en.wikipedia.org/wiki/Final_Fantasy_II#Legacy -- novelization Final Fantasy II: The Labyrinth of Nightmares: written by Terada, illustrated by Amano, Kadokawa Sneaker Bunko, 1989-03-20 -- accessed 2026-11-09 (revision 1382449708 of 2026-10-28; wikitext read through the MediaWiki API); archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=3853 -- reprint request no. 3853, registered 2001/05/06: ファイナルファンタジーII 夢魔の迷宮; author field 寺田憲史著; publisher field 角川書店; genre エンタメ; ISBN 9784044106041; 25 vote comments
+
 ## Decisions
 
 - Amano is not credited in `by` (user, 2026-10-15): it is a novel, and a few illustrations do not warrant an "illustrated by" the way a manga's art does, though both KADOKAWA and the wiki name him as the illustrator

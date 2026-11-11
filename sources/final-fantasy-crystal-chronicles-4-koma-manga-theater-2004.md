@@ -96,4 +96,8 @@ Names in use, all seen 2026-10-11 (links pasted by user):
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジー・クリスタルクロニクル#関連商品 -- 『4コママンガ劇場』: published in 1 volume -- accessed 2026-11-09 (revision 111104657 of 2026-09-22; wikitext read through the MediaWiki API); archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=70072 -- reprint request no. 70072, registered 2020/08/29: ファイナルファンタジー・クリスタルクロニクル４コママンガ劇場; author field 複数人(アンソロなので); publisher field スクウェア・エニックス; genre エンタメ; ISBN 9784757511224; 2 vote comments
+
 ## Decisions

@@ -213,6 +213,10 @@ duckduckgo.com (Information)
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジー零式#関連商品 -- GAME NOVELS ファイナルファンタジー零式 Change the World -The Answer- released 2012-04-21; GAME NOVELS ファイナルファンタジー零式 2巻 Change the World 〜最後から二番目の真実〜 released 2012-06-28 -- accessed 2026-11-09 (revision 110335924 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=58281 -- reprint request no. 58281, registered 2013/07/23: ファイナルファンタジー零式 Change the World -The Answer-; author field 月島総記、『FINAL FANTASY 零式』開発チーム; publisher field スクウェア・エニックス; genre エンタメ; ISBN 9784757535800 9784757536548; 1 vote comments
+
 ## Decisions
 
 - Order: chronologically before the game and after The Ice Reaper (`chronoOrder` 99950), because the two volumes lead directly into the game's plot (Vol.2's epilogue hands off to the game's opening)

@@ -152,6 +152,10 @@ wikipedia.org (Information)
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジー零式#関連商品 -- manga 氷剣の死神: spin-off about Kurasame's younger days, serialised in 月刊少年ガンガン from the May 2012 issue to the February 2014 issue, 22 chapters plus 1 extra; volumes: 1 on 2012-09-22 (chapters 1 to 4), 2 on 2013-01-22 (5 to 8), 3 on 2013-06-22 (9 to 13, five chapters per volume from here), 4 on 2013-11-22 (14 to 18), 5 on 2014-04-22 (19 to 22 and the extra, in which Toono Mahoroha, Miyuu Kagiroi, Rean Hamperman of Final Fantasy Agito and Class Zero appear as children) -- accessed 2026-11-09 (revision 110335924 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=58283 -- reprint request no. 58283, registered 2013/07/23: ファイナルファンタジー零式外伝 氷剣の死神; author field 塩沢天人志、野村哲也; publisher field スクウェア・エニックス; genre コミック・漫画; ISBN 9784757537262 9784757538566 9784757539631; 2 vote comments
+
 ## Decisions
 
 - No `contents[]` list (user, 2026-10-15): the five volumes have no titles beyond their numbers, the book platform already links the Goodreads series page that lists all five, and a part carries one link while the book has six language editions
