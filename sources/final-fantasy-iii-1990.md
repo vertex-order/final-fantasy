@@ -862,6 +862,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III#External_link
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 36/40 (Famicom; 9, 9, 10, 8, Platinum), Family Computer Magazine reader-vote 26.60/30 and ROM cassette ranking: music 4th, enthusiasm 3rd, originality 4th, overall 4th; Allgame 4.5/5 (Famicom) -- accessed 2026-11-10 (revision 111042702 of 2026-09-16; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt0207486/ -- IMDb title page for Final Fantasy III, IMDb id tt0207486, original title Fainaru fantajî III, type Video Game, year 1990, release date 1990-04-27, genres Action, Adventure, Fantasy, rating 7.3 from 715 votes, production status Released; plot: Four orphans seek to restore the balance between light and darkness in the world. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - **Not to be listed: the cancelled WonderSwan Color version of Final Fantasy III (user, 2026-11-03):** a Square WonderSwan Color game in the cancelled list, cited to RPGFan's 'WSC FFIII Vanishes, FFI-II Remake In The Works' (2002, http://www.rpgfan.com/news/2002/1717.html, https://web.archive.org/web/20070315205600/http://www.rpgfan.com/news/2002/1717.html); never released, so the WonderSwan Color is not a platform of Final Fantasy III. Only this platform is left out: the game itself released on other platforms and stays listed on them

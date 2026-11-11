@@ -707,6 +707,10 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 - https://www.themoviedb.org/movie/1123354-reminiscence-of-final-fantasy-vii -- Reminiscence of Final Fantasy VII, 2005, released 2005-09-14 (JP), original language Japanese, genre Animation, director Yoji Shimizu, cast Yumi Kakazu (Yuffie Kisaragi), Masahiro Kobayashi (Barrett Wallace), Takahiro Sakurai (Cloud Strife), Kazuyuki Yama (Cid Highwind); no English overview; TMDB id 1123354 -- accessed 2026-11-10; archived: TODO
 - https://www.themoviedb.org/tv/211042-let-s-mosey-a-slow-translation-of-final-fantasy-vii -- Let's Mosey: A Slow Translation Of Final Fantasy VII, the playthrough of note: 2017, aired 2017-07-31 to 2019-04-19, 1 season listed as 12 episodes (the overview says eleven-part; the last episode is "Part Eleven-Two"), status Returning Series, network YouTube, original language English, keywords video game, translation, role playing game (rpg), nuance, japanese language; overview: Tim Rogers spent about 800 hours over two years replaying Final Fantasy VII sixteen times in English and Japanese; no cast or genres added; TMDB id 211042 -- accessed 2026-11-10; archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt0208155/ -- IMDb title page for Final Fantasy VII, IMDb id tt0208155, original title Fainaru fantajî VII, type Video Game, year 1997, release date 1997-11-17, certificate 12, genres Action, Adventure, Drama, rating 9.4 from 12,255 votes, production status Released; plot: A former soldier from an evil company joins a mercenary clan to fight the company he once served. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

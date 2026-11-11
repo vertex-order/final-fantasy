@@ -645,4 +645,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX#External_links
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy IX: PlayStation 38/40; the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt0249510/ -- IMDb title page for Final Fantasy IX, IMDb id tt0249510, original title Fainaru fantajî IX, type Video Game, year 2000, release date 2000-07-07, certificate 11+, genres Action, Adventure, Fantasy, rating 8.8 from 5,914 votes, production status Released; plot: When bandits try to kidnap the princess, they discover that it's the princess who wants to be kidnapped. But they are chased by an evil queen and an even more powerful entity. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

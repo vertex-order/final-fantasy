@@ -1014,6 +1014,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_II#External_links
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 34/40 (Famicom; 8, 9, 9, 8, Gold Hall of Fame), 30/40 (WonderSwan Color, Silver) and 27/40 (PlayStation); Family Computer Magazine reader-vote 25.53/30 (characters 4.36, music 4.34, operation 4.11, enthusiasm 4.50, value 4.18, originality 4.04); Allgame 3.5/5 (Famicom, mobile), GameSpot 6.5/10 (PSP), IGN 8.6/10 (WonderSwan Color), 6.9/10 (PSP), 7/10 (iOS), Nintendo Life 7/10 (Wii), GameRankings 79% (Famicom), 67.93% (PSP), 77.12% (iOS), GamePlay RPG 96% (WonderSwan Color) -- accessed 2026-11-10 (revision 111583688 of 2026-10-31; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt0207484/ -- IMDb title page for Final Fantasy, IMDb id tt0207484, original title Fainaru fantajî, type Video Game, year 1987, release date 1987-12-18, certificate 3+, genres Adventure, Fantasy, rating 7.6 from 2,181 votes, production status Released; plot: The four "Light Warriors" must fulfill a 2000 year old prophecy, traversing the land in order to restore light to the four elemental orbs and defeat an ancient evil to save their world. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Portal Version (user, 2026-10-19): the Final Fantasy Portal App ran "Final Fantasy (Portal Version)" (2015 to Dec 2023); we treat it as the same version as the standalone Android port, "Remaster 2012", so it is `portal`-suffixed Android and iOS rows on that version plus a sentence in its description. This is an assumption: no source says which edition it ran (see final-fantasy-portal-app-triple-triad-2015.md)

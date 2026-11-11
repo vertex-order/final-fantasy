@@ -37,6 +37,10 @@ imdb.com (Ratings)
 
 - https://www.thetvdb.com/movies/brave-father-online-our-story-of-final-fantasy-xiv -- 劇場版 ファイナルファンタジーXIV 光のお父さん, TVDB movie id 131752, aliases 劇場版 FFXIV 光のお父さん, 劇場版ファイナルファンタジーXIV 光のお父さん and Final Fantasy XIV: Hikari no Otousan, Japan release 2019-06-21 (the only date shown), 114 minutes, original language Japanese, country Japan, genres Drama and Family, official site gaga.ne.jp, cast Kentaro Sakaguchi (Akio) and Kotaro Yoshida (Akira), no companies or crew; IMDb tt10551160, TMDB 611424; no rating shown -- accessed 2026-11-10; archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", film and TV filters, saved by the user on 2026-11-11; the title pages themselves answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt10551160/ -- IMDb title page for Brave Father Online: Our Story of Final Fantasy XIV, IMDb id tt10551160, original title Gekijouban Fainaru fantajî XIV: Hikari no otousan, type Movie, year 2019, release date 2019-06-21, runtime 114 min, genres Drama, rating 7.2 from 561 votes; plot: Akio wishes he had a better relationship with his reserved father Akira. One day Akira suddenly quits his job and retires without giving out any explanation to the family. Thinking it could be a good tool to be close to his father, Akio gives him software of online game "FINAL FANTASY XIV". By teaching his father how to play the game and secretly interacting with him as an anonymous online avatar, Akio hopes to know his father better through the adventures with other players in the game; little does the young man know what Akira is going through. -- accessed 2026-11-11; archived: TODO
+
 ## Surveyed
 
 - Disc release, other streaming services: not found

@@ -348,4 +348,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Revelation#Ex
 
 - https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- Revelation: an action role-playing game by Square Enix, scheduled for 2027-04-08 on Nintendo Switch 2, PlayStation 5, Windows and Xbox Series X/S, a direct sequel to Rebirth and the third and final installment of the Remake trilogy -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt43394042/ -- IMDb title page for Final Fantasy VII Revelation, IMDb id tt43394042, type Video Game, year 2027, release date 2027-04-08, certificate T, genres Action, Adventure, Drama, no rating shown; plot: The final battle to decide the fate of the world has begun. Take to the skies, chart your course, and stand with your companions against Sephiroth one last time. A vast planet awaits. Everything leads here. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

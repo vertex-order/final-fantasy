@@ -651,4 +651,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII#External_lin
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 37/40; GameRankings 89% (PS) and 80% (PC), Computer Gaming World 2/5 (PC), Edge 9/10, EGM 95/100, GameSpot 9.5/10 (PS) and 6.7/10 (PC), GameSpy 90/100, IGN 9/10 (PS) and 7.4/10 (PC), Maximum PC 9/10, PSM 10/10; awards: EGM Game of the Year (Readers' Choice), IGN Best RPG of E3 1999, Computer Gaming World 20th best game of 2000, IGN 7th best PlayStation game -- accessed 2026-11-10 (revision 111072262 of 2026-09-19; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt0208156/ -- IMDb title page for Final Fantasy VIII, IMDb id tt0208156, original title Fainaru fantajî VIII, type Video Game, year 1999, release date 1999-10-27, certificate 12, genres Action, Adventure, Drama, rating 8.7 from 6,818 votes, production status Released; plot: A group of students at a military academy rescue a mysterious girl, who some say is the sorceress who wants to govern the universe. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

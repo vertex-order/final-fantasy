@@ -445,4 +445,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII#External_link
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy XII: PlayStation 2 40/40; the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt0388944/ -- IMDb title page for Final Fantasy XII, IMDb id tt0388944, original title Fainaru fantajî XII, type Video Game, year 2006, release date 2007-02-23, certificate 16, genres Action, Adventure, Fantasy, rating 8.1 from 4,312 votes, production status Released; plot: Street thief Vaan becomes embroiled in a quest to save the occupied kingdom in which he resides, Dalmasca, from a war that seems imminent. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

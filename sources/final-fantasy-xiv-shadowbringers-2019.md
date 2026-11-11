@@ -158,6 +158,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Shadowbringe
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E8%A9%95%E4%BE%A1 -- OpenCritic score of Shadowbringers: 90/100 (the section also lists Metacritic scores per expansion) -- accessed 2026-11-10 (revision 111720449 of 2026-11-10; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt10588588/ -- IMDb title page for Final Fantasy XIV: Shadowbringers, IMDb id tt10588588, type Video Game, year 2019, release date 2019-07-02, certificate 16, genres Action, Adventure, Drama, rating 8.4 from 345 votes, production status Released; plot: The Warrior of Light and the Scions of the Seventh Dawn are transported to Norvrandt, a dying land on the First slowly being consumed by an ever-growing Light, where they must contend with its secrets and its terrifying threats. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

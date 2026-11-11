@@ -183,6 +183,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Dawntrail#Ex
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E8%A9%95%E4%BE%A1 -- OpenCritic score of Dawntrail: 81/100 (the section also lists Metacritic scores per expansion) -- accessed 2026-11-10 (revision 111720449 of 2026-11-10; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt28631138/ -- IMDb title page for Final Fantasy XIV: Dawntrail, IMDb id tt28631138, type Video Game, year 2024, release date 2024-07-02, certificate 16, genres Action, rating 6.2 from 102 votes, production status Released; plot: Final Fantasy XIV: Dawntrail is the fifth expansion for Final Fantasy XIV. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

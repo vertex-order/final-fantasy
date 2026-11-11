@@ -69,4 +69,8 @@
 
 - https://myanimelist.net/anime/1157/Final_Fantasy__Unlimited -- Final Fantasy: Unlimited, MyAnimeList id 1157, Japanese title ファイナルファンタジー：アンリミテッド, type TV, 25 episodes of 24 min, aired 2001-10-02 to 2002-03-26, producers TV Tokyo, Dentsu and TV Tokyo Music, licensor ADV Films, studio Gonzo, source Game, genres Action, Adventure, Fantasy and Sci-Fi, rating PG-13, score 6.20, popularity rank 4225, 39,672 members, 89 favourites -- accessed 2026-11-11; archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", film and TV filters, saved by the user on 2026-11-11; the title pages themselves answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt0304012/ -- IMDb title page for Final Fantasy: Unlimited, IMDb id tt0304012, type TV Series, year 2001 to 2002, release date 2001-10-02, runtime 1440, certificate PG, genres Animation, Adventure, Fantasy, rating 5.9 from 746 votes; plot: Two siblings try to find their missing parents. Based on the best selling video game series by Square Enix. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

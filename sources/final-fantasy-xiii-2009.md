@@ -527,4 +527,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII#External_lin
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIII#%E8%A9%95%E4%BE%A1 -- Famitsu cross review 39/40 (Weekly Famitsu issue 1097), Platinum Hall of Fame -- accessed 2026-11-10 (revision 109888938 of 2026-06-11; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt0802988/ -- IMDb title page for Final Fantasy XIII, IMDb id tt0802988, original title Fainaru fantajî XIII, type Video Game, year 2009, release date 2010-03-09, certificate 16, genres Action, Adventure, Drama, rating 7.1 from 4,220 votes, production status Released; plot: In a futuristic city, a group of adventurers must fight the government forces controlled by an alien force to stop its plan to destroy the world. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

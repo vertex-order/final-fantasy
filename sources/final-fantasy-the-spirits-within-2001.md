@@ -67,4 +67,8 @@
 
 - https://myanimelist.net/anime/1361/Final_Fantasy__The_Spirits_Within -- Final Fantasy: The Spirits Within, MyAnimeList id 1361, Japanese title ファイナルファンタジー, synonym Final Fantasy, type Movie, 1 episode of 1 hr 45 min, aired 2001-07-02, producers Square Enix and Sony Music Entertainment, studio Square Pictures, source Game, genre Sci-Fi, rating PG-13, score 6.28, popularity rank 2983, 73,942 members, 57 favourites -- accessed 2026-11-11; archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", film and TV filters, saved by the user on 2026-11-11; the title pages themselves answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt0173840/ -- IMDb title page for Final Fantasy: The Spirits Within, IMDb id tt0173840, type Movie, year 2001, release date 2001-08-03, runtime 106 min, certificate PG, genres Animation, Action, Adventure, rating 6.4 from 87,021 votes; plot: A scientist makes a last stand on Earth with the help of a ragtag team of soldiers against an invasion of alien phantoms. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

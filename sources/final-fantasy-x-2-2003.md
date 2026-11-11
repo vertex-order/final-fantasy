@@ -559,4 +559,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2#External_link
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X-2#Voice_actors -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4024331 of 2026-07-21; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_X-2#Voice_actors); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt0317510/ -- IMDb title page for Fainaru fantajî X-2, IMDb id tt0317510, type Video Game, year 2003, release date 2004-02-20, certificate 12, genres Action, Adventure, Fantasy, rating 7 from 3,618 votes, production status Released; plot: Convinced that Tidus is still alive, Yuna embarks on a quest to find him. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

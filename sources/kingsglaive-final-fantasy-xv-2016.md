@@ -82,4 +82,8 @@
 
 - https://myanimelist.net/anime/33082/Kingsglaive__Final_Fantasy_XV -- Kingsglaive: Final Fantasy XV, MyAnimeList id 33082, Japanese title KINGSGLAIVE FINAL FANTASY XV, Spanish title Final Fantasy XV: La Película, type Movie, 1 episode of 1 hr 55 min, aired 2016-07-09, producer Square Enix, studio Square Enix Visual Works, source Game, genre Action, rating PG-13, score 7.38, popularity rank 3225, 64,374 members, 171 favourites -- accessed 2026-11-11; archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", film and TV filters, saved by the user on 2026-11-11; the title pages themselves answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt5595168/ -- IMDb title page for Kingsglaive: Final Fantasy XV, IMDb id tt5595168, type Movie, year 2016, release date 2016-08-30, runtime 110 min, certificate 12, genres Animation, Action, Adventure, rating 6.7 from 24,597 votes; plot: King Regis, who oversees the land of Lucis, commands his army of soldiers to protect the kingdom from the Niflheim empire's plans to steal the sacred crystal which gives Lucis its magic and power. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

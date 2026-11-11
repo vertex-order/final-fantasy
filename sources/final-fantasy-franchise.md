@@ -1356,6 +1356,16 @@
 - https://myanimelist.net/search/all?q=final%20fnatasy&cat=all -- MyAnimeList search for "final fnatasy" (a misspelling that still returned Final Fantasy rows; address pattern https://myanimelist.net/search/all?q=<term>&cat=all) -- live page of 2026-11-11, 10 anime rows and 10 manga rows read, no character, people or company rows shown, visited and audited; archived: TODO
 - https://myanimelist.net/manga.php?q=final+fnatasy&cat=manga -- MyAnimeList manga search for "final fnatasy" (address pattern https://myanimelist.net/manga.php?q=<term>&cat=manga) -- live page of 2026-11-11, 27 rows on one page (manga, light novel, novel and manhwa), each row's page opened, visited and audited; archived: TODO
 
+## imdb.com (Information; IMDb title searches, video game, movie and TV filters)
+
+- https://www.imdb.com/find/?q=final%20fantasy&s=tt&ttype=vg -- IMDb title search for "final fantasy", video game results (address pattern https://www.imdb.com/find/?q=<term>&s=tt&ttype=vg) -- page saved by the user on 2026-11-11, 25 rows, visited and audited; archived: TODO
+- https://www.imdb.com/find/?q=final%20fantasy&s=tt&ttype=ft -- IMDb title search for "final fantasy", movie results (address pattern https://www.imdb.com/find/?q=<term>&s=tt&ttype=ft) -- page saved by the user on 2026-11-11, 15 rows, visited and audited; archived: TODO
+- https://www.imdb.com/find/?q=final%20fantasy&s=tt&ttype=tv -- IMDb title search for "final fantasy", TV results (address pattern https://www.imdb.com/find/?q=<term>&s=tt&ttype=tv) -- page saved by the user on 2026-11-11, 22 rows, visited and audited; archived: TODO
+
+## imdb.com (Information; IMDb title page saved by the user on 2026-11-11)
+
+- https://www.imdb.com/title/tt10553742/ -- Final Fantasy (TV series, no year), set in the world of Eorzea (the Final Fantasy XIV setting): "explore the struggle between magic and technology in a quest to bring peace to a land in conflict"; IMDb id tt10553742, production status In Development, genres Action and Fantasy, no rating, English, United States; companies Hivemind, Sony Pictures Television and Square Enix Company; no cast, crew or episodes listed -- accessed 2026-11-11; archived: TODO
+
 ## igdb.com (Information; IGDB company page and searches)
 
 - https://www.igdb.com/companies/square -- IGDB company page for Square (video game publisher, Japan); Developed 72 and Published 116 games; 139 game cards on 3 saved pages (title, year, platforms, type label with the parent game) -- live pages of 2026-11-03 (the saved pages do not record their address), visited and audited; archived: TODO
@@ -1612,6 +1622,7 @@ Franchise file only:
 - **Not to be listed: Let's Mosey: A Slow Translation Of Final Fantasy VII (user, 2026-11-10):** a playthrough with commentary (Tim Rogers, 2017 to 2019), out of scope, noted as a playthrough of note; details in sources/vii-group.md and sources/final-fantasy-vii-1997.md
 - **Not to be listed: Beyond Final Fantasy (user, 2026-11-10):** a bonus DVD of the International and PAL Final Fantasy X (developer and voice-actor interviews, trailers, an art gallery, a music video); behind-the-scenes content is out of scope; details in sources/x-group.md
 - **Not to be listed: The History of Final Fantasy (user, 2026-11-10):** a 2006 documentary on the series, a bonus of the Final Fantasy XII Collector's Edition; out of scope; details in sources/xii-group.md
+- **Not to be listed: FINAL FANTASY XIV Documentary (user, 2026-11-11):** a three-part Noclip documentary (2017, Danny O'Dwyer) on the death of Final Fantasy XIV 1.0 and the rebuild under Naoki Yoshida; a third-party behind-the-scenes documentary is out of scope; details in sources/final-fantasy-xiv-online-1-0-2010.md
 
 ## Not yet surveyed
 

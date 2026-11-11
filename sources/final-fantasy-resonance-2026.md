@@ -325,4 +325,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Resonance#Externa
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Resonance#Cast -- cast table with Japanese and English voice actors (Rain: Nobuhiko Okamoto / Clifford Chapin, Lasswell: Yusuke Kobayashi / Alejandro Saab, Fina: Akane Fujita / Lizzie Freeman, and others); proves Japanese and English voice -- accessed 2026-11-10 (revision 4068861 of 2026-11-02; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Resonance#Cast); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt43450386/ -- IMDb title page for Final Fantasy Resonance, IMDb id tt43450386, type Video Game, year 2026, release date 2026-10-22, certificate E10+, genres Action, Adventure, Drama, rating 9 from 68 votes, production status Released; plot: Return to the pixel-art world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

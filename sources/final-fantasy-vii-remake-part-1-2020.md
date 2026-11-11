@@ -465,4 +465,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake#Extern
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake#Cast -- voice cast section: confirms Japanese, English, French, German voice -- accessed 2026-11-10 (revision 4063620 of 2026-10-22; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Remake#Cast); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt6057416/ -- IMDb title page for Final Fantasy VII Remake, IMDb id tt6057416, type Video Game, year 2020, release date 2020-04-10, certificate 16, genres Action, Adventure, Drama, rating 8.9 from 6,711 votes, production status Released; plot: Re-imagining of Final Fantasy VII (1997). A former soldier joins an eco-terrorist group in a mission against the electric power company he used to work for in order to protect the planet and all who reside on it. -- accessed 2026-11-11; archived: TODO
+- https://www.imdb.com/title/tt35017149/ -- IMDb title page for Final Fantasy VII Remake Intergrade, IMDb id tt35017149, type Video Game, year 2021, release date 2021-06-10, certificate 16, genres Action, rating 7.8 from 106 votes, production status Released -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

@@ -159,6 +159,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Endwalker#Ex
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E8%A9%95%E4%BE%A1 -- OpenCritic score of Endwalker: 93/100 (the section also lists Metacritic scores per expansion) -- accessed 2026-11-10 (revision 111720449 of 2026-11-10; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt13991580/ -- IMDb title page for Final Fantasy XIV: Endwalker, IMDb id tt13991580, type Video Game, year 2021, release date 2021-12-07, certificate 16, genres Action, Adventure, Drama, rating 8 from 302 votes, production status Released; plot: The Warrior of Light and Scions of the Seventh Dawn return from the First to their home on the Source, only to be faced with their most dangerous threat yet: a second coming of the Final Days that threatens to tear their world apart. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

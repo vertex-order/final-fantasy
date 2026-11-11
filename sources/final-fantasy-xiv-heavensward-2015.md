@@ -196,6 +196,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV:_Heavensward#
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E8%A9%95%E4%BE%A1 -- OpenCritic score of Heavensward: 85/100 (the section also lists Metacritic scores per expansion) -- accessed 2026-11-10 (revision 111720449 of 2026-11-10; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt4965546/ -- IMDb title page for Final Fantasy XIV: Heavensward, IMDb id tt4965546, type Video Game, year 2015, release date 2015-06-21, certificate 16, genres Action, Adventure, Drama, rating 8.3 from 332 votes, production status Released; plot: On the run after being framed for murder, the Warrior of Light flees to the Holy See of Ishgard, only to discover a conspiracy concerning the Dragonsong War, a long-running conflict between Ishgard and the dragons of Dravania. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

@@ -766,6 +766,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV#External_links
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXV#%E8%A9%95%E4%BE%A1 -- no scores; one criticism of the main characters' design and staging by the animation director Mamoru Oshii -- accessed 2026-11-10 (revision 110908607 of 2026-09-05; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt0960140/ -- IMDb title page for Final Fantasy XV, IMDb id tt0960140, type Video Game, year 2016, release date 2016-11-29, certificate 16, genres Action, Adventure, Drama, rating 7.9 from 4,545 votes, production status Released; plot: After leaving his home city of Insomnia, young prince Noctis embarks on a journey with his closest friends to reclaim his throne. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 - **Comrades is its own entry (user, 2026-10-18; confirmed with a second source the same day):** it is a separate expansion with its own story, not a co-op mode with no story of its own
   - the Final Fantasy Wiki (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Comrades, page text pasted by user) and en.wikipedia (https://en.wikipedia.org/wiki/Final_Fantasy_XV#Multiplayer and https://en.wikipedia.org/wiki/Final_Fantasy_XV_downloadable_content#Final_Fantasy_XV_Multiplayer:_Comrades) agree that it is a separate expansion with its own story: customizable avatars (not a pre-set character) take quests with up to three other players, starting six months after Chapter 13 in a portion of the story the main narrative skips, based in Lestallum, collecting meteor shards to power stations

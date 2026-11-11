@@ -348,4 +348,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth#Exter
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII_%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9#%E8%A9%95%E4%BE%A1 -- Famitsu 38/40 (PS5); physical first-week sales 262,656 (Famitsu), first place; Famitsu Dengeki Game Awards 2024 (announced 2025-03-15): Game of the Year, Scenario, Graphics and RPG divisions, development team named Most Valuable Creator, Maaya Sakamoto (Aerith) Voice Actor division, Tifa Lockhart Character division, seven awards in all -- accessed 2026-11-10 (revision 110899180 of 2026-09-05; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt21066342/ -- IMDb title page for Final Fantasy VII Rebirth, IMDb id tt21066342, type Video Game, year 2024, release date 2024-02-29, certificate 16, genres Action, Adventure, Drama, rating 9 from 2,375 votes, production status Released; plot: Leaving Midgar behind and freed from the course of destiny, Cloud and his friends embark on a new journey across the planet of Gaia, as dangerous threats, old and new, await them. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

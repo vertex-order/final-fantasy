@@ -342,6 +342,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XVI#External_link
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXVI#%E8%88%9E%E5%8F%B0 -- stage adaptation: announced in July 2023 for the Takarazuka Revue's Cosmos Troupe, planned for May 2024 at the Takarazuka Grand Theater and July 2024 at the Tokyo Takarazuka Theater, starring Toa Serika and Sakura Harunono, script and direction by Nahoko Koyanagi; in March 2024 the performances were announced as suspended (no entry; not a definitive release) -- accessed 2026-11-10 (revision 111433049 of 2026-10-18; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt13103328/ -- IMDb title page for Final Fantasy XVI, IMDb id tt13103328, type Video Game, year 2023, release date 2023-06-22, certificate 18, genres Action, Adventure, Drama, rating 8.5 from 2,832 votes, production status Released; plot: As a malady known as the Blight ravages the land of Valisthea and its realms plunge into war, Clive Rosfield, the firstborn son of the Archduke of Rosaria, sets out on a dark, dangerous journey to revenge following a tragedy. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 - Not listed (assistant's call, pending the user's review): the art books and the lore book named in https://en.wikipedia.org/wiki/Final_Fantasy_XVI#Related_media; none is entertaining on its own (docs/data.md, "What belongs on a list")
   - The Art of Final Fantasy XVI — Square Enix, 2023 (Japan), 2024 (West)

@@ -75,4 +75,8 @@
 
 - https://myanimelist.net/anime/33080/Brotherhood__Final_Fantasy_XV -- Brotherhood: Final Fantasy XV, MyAnimeList id 33080, Japanese title BROTHERHOOD FINAL FANTASY XV, type ONA, 5 episodes of 14 min, aired 2016-03-31 to 2016-09-18, producers Square Enix and RightTracks, studio A-1 Pictures, source Game, genre Action, rating PG-13, score 6.90, popularity rank 2627, 90,838 members, 213 favourites -- accessed 2026-11-11; archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", film and TV filters, saved by the user on 2026-11-11; the title pages themselves answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt5595178/ -- IMDb title page for Brotherhood: Final Fantasy XV, IMDb id tt5595178, type TV Series, year 2016, release date 2016-03-30, runtime 900, genres Animation, Action, Adventure, rating 7 from 1,842 votes; plot: A story set alongside the video game Final Fantasy XV, starring one of its main characters, Noctis, and his friends. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

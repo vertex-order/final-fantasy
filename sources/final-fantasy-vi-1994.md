@@ -786,4 +786,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VI#External_links
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 37/40 (Super Famicom; 9, 8, 10, 10, Platinum), 31/40 (PlayStation, Silver) and 31/40 (Game Boy Advance, Silver); Family Computer Magazine reader-vote 26.9/30; GameRankings 94% (SFC) and 91% (GBA), 1UP 9/10 (GBA), Allgame 5/5 (SFC), Edge 8/10 (SFC), EGM 36/40 (SFC) and 9.5/10 (PS), Eurogamer 9/10 (GBA), GameFan 295/300 (SFC), GameSpot 8.1/10 (PS) and 8.9/10 (GBA), IGN 9.5/10 (SFC) and 9/10 (GBA), Nintendo Power 14.9/20 (SFC), TouchArcade 4.5/5 (iOS); EGM awards Best RPG, Best Japanese RPG, Best Music for a Cartridge-Based Game, Game of the Month; GameFan Megawards RPG of the Year and Best Music -- accessed 2026-11-10 (revision 111608616 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt0210061/ -- IMDb title page for Final Fantasy VI, IMDb id tt0210061, type Video Game, year 1994, release date 1994-04-02, certificate 12, genres Action, Adventure, Drama, rating 9.1 from 3,825 votes, production status Released; plot: A mysterious woman joins a group of mercenaries in order to find out about her destiny and means of saving the world from an evil madman. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

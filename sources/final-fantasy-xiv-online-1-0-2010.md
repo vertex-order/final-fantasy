@@ -181,4 +181,14 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIV#External_link
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Famitsu review score (Weekly Famitsu cross review, out of 40) of Final Fantasy XIV: PC: no score (the table shows a dash); the table also lists Metacritic scores, which are not recorded here -- accessed 2026-11-10 (revision 110707130 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt1737166/ -- IMDb title page for Final Fantasy XIV, IMDb id tt1737166, type Video Game, year 2010, release date 2010-09-30, certificate 12, genres Action, Adventure, Fantasy, rating 6.4 from 275 votes, production status Released; plot: An adventurer arrives in the continent of Eorzea, only to become involved against the land's conflicts between both the Garlean Empire and the beast tribes, as well as a scheme whose end result will forever change the land. -- accessed 2026-11-11; archived: TODO
+
+## imdb.com (Information; IMDb title page saved by the user on 2026-11-11)
+
+- https://www.imdb.com/title/tt34529332/ -- FINAL FANTASY XIV Documentary (2017), a three-part Noclip documentary interviewing people who witnessed the death of the original Final Fantasy XIV (1.0) while a new team led by Naoki Yoshida set out to create an entirely new game; IMDb id tt34529332, type Movie, released 2017-06-23 (United States), genre Documentary, no rating, English, United States; company Noclip; director and writer Danny O'Dwyer; official site noclip.video -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
+
+- Not listed (user, 2026-11-11): the FINAL FANTASY XIV Documentary (a three-part Noclip documentary of 2017 on the death of Final Fantasy XIV 1.0); a third-party behind-the-scenes documentary is not entertaining on its own (docs/data.md, "What belongs on a list")

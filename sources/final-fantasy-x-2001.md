@@ -594,4 +594,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X#External_links
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCX#%E8%A9%95%E4%BE%A1 -- Famitsu cross review 39/40 (10, 9, 10, 10), then the series' highest; awards: GameSpot Video Game Awards 2001 Best Story and Best RPG, PlayStation Awards 2002 Double Platinum, PlayStation GrandPrix 2002, CESA Game Awards 2002 Best Prize, Famitsu Awards 2014 (HD remaster); polls: Famitsu Best 100 Games Readers Remember 2006 1st, Oricon most moving story 2007 1st, Famitsu 1000th issue 4th (2008), Oricon game that made players cry most 2009 1st, Famitsu 20 Games That Make You Cry 2011 1st, Famitsu Best Game of the Heisei Era 2019 7th, All Final Fantasy Vote 2020 1st -- accessed 2026-11-10 (revision 111423447 of 2026-10-18; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+
+- https://www.imdb.com/title/tt0284110/ -- IMDb title page for Final Fantasy X, IMDb id tt0284110, original title Fainaru fantajî X, type Video Game, year 2001, release date 2002-05-24, certificate 12, genres Adventure, Fantasy, Romance, rating 9.1 from 9,205 votes, production status Released; plot: A celebrated young athlete is drawn from his futuristic hometown and convenient lifestyle to a harsh and techno-phobic land by a mysterious force only known as Sin. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
