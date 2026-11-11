@@ -43,6 +43,10 @@ wikipedia.org (Information)
   - Rotten Tomatoes reports 100% positive from 6 critic reviews (average 6.6/10)
   - it was adapted into a film, titled Brave Father Online: Our Story of Final Fantasy XIV, released on June 21, 2019
 
+## anilist.co (Information; AniList anime page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/anime/118041/Final-Fantasy-XIV-CHOOSE-YOUR-LIFE/ -- Final Fantasy XIV: CHOOSE YOUR LIFE (ファイナルファンタジーXIV - CHOOSE YOUR LIFE), AniList id 118041, no MyAnimeList id, format ONA, 3 episodes of 1 min, 2019-06-25 to 2019-07-02, studio Craftar, source Video Game, genre Fantasy, mean score 52, popularity 306, 2 favourites, country JP, synonym FFXIV: CHOOSE YOUR LIFE CM -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`

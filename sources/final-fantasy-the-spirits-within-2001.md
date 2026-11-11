@@ -59,4 +59,8 @@
 
 - https://www.thetvdb.com/movies/final-fantasy-the-spirits-within -- Final Fantasy: The Spirits Within, TVDB movie id 1811, worldwide release 2001-07-02 (the only date shown), 106 minutes, original language English, original country United States, production countries Japan and United States, genres Action, Adventure, Animation, Fantasy, Science Fiction and Thriller, studio Columbia Pictures, companies Columbia Pictures, Chris Lee Productions and Square Pictures, box office $85,100,000 worldwide, 21 voice cast, crew Motonori Sakakibara, Al Reinert, Jack Fletcher and Chris Lee (roles not labeled); IMDb tt0173840, TMDB 2114; no rating shown -- accessed 2026-11-10; archived: TODO
 
+## anilist.co (Information; AniList anime page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/anime/1361/Final-Fantasy/ -- Final Fantasy: The Spirits Within (AniList title Final Fantasy), AniList id 1361, MyAnimeList id 1361, format Movie, 106 min, 2001-07-02, studio Square Pictures, source Video Game, genres Action, Drama and Sci-Fi, average score 57, popularity 10214, 46 favourites, country JP, synonyms Final Fantasy: El espíritu en nosotros and Final Fantasy: Wojna dusz -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

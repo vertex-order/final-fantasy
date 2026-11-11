@@ -7,6 +7,10 @@
 
 See the entry sources above; this file holds the group-wide decisions.
 
+## anilist.co (Information; AniList anime page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/anime/118448/Final-Fantasy-Brave-Exvius-Genei-Sensou-Animated-PV/ -- Final Fantasy Brave Exvius - Gen'ei Sensou Animated PV (ファイナルファンタジー ブレイブエクスヴィアス 幻影戦争 アニメーションPV; English title War of the Visions: Final Fantasy Brave Exvius Animated PV), AniList id 118448, no MyAnimeList id, format Special, 2 min, 2020-05-11, studio WIT STUDIO, source Video Game, genres Action, Adventure and Fantasy, mean score 59, popularity 363, 6 favourites, country JP -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - **Brave Exvius Memorial Version not listed (user, 2026-10-20):** the Japanese offline app Square Enix released after the Japanese service ended (Android com.square_enix.ffbejpn, iOS id940099765) is an archive and viewer of the main story, encyclopedias, unit galleries and enemy data, with no gameplay; it does not count as content, so Final Fantasy Brave Exvius gets no Japanese or Memorial rows and the Memorial Version is not an entry; the fan-made English Memorial Edition is not listed either; same call as the XIV Libra Eorzea app (see final-fantasy-franchise.md Decisions)

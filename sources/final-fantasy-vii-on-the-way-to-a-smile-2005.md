@@ -127,4 +127,8 @@ goodreads.com (Information)
 
 - https://www.thetvdb.com/movies/final-fantasy-vii-on-the-way-to-a-smile-episode-denzel -- Final Fantasy VII: On the Way to a Smile - Episode: Denzel, TVDB movie id 27939, worldwide release 2009-04-16 (the only date shown), 28 minutes, PG-13 (US), movie type Short, original language English with Japanese spoken, country Japan, genres Animation and Fantasy, companies A-1 Pictures and Square Enix, crew Shinji Ishihira (roles not labeled), cast Takahiro Sakurai (Cloud Strife), Ayumi Ito (Tifa Lockhart), Banjou Ginga (Reeve Tuesti); IMDb tt1980204, TMDB 59300; no rating shown -- accessed 2026-11-10; archived: TODO
 
+## anilist.co (Information; AniList anime page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/anime/6151/Final-Fantasy-VII-On-the-Way-to-a-Smile-Episode-Denzel/ -- Final Fantasy VII: On the Way to a Smile - Episode: Denzel, AniList id 6151, MyAnimeList id 6151, format OVA, 28 min, 2009-04-16, no studio listed, source Light Novel, genres Action and Fantasy, average score 66, popularity 4624, 15 favourites, country JP -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

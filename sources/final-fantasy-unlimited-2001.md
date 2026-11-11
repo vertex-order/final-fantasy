@@ -61,4 +61,8 @@
 
 - https://www.tvmaze.com/shows/16915/final-fantasy-unlimited -- Final Fantasy: Unlimited, TVmaze show id 16915, type Animation, status Ended, network TV Tokyo (2001 to 2002), Tuesdays 18:30, Japanese, runtime 25 min, genres Action, Adventure, Anime and Fantasy, 25 episodes in season 1 (episodes 23 to 25 shown: "Teros: In Search of Flying Water" 2002-03-05, "Chaos: The Earl Unveiled" 2002-03-12, "Kaze: The Glory of Life" 2002-03-26), aka title Остання фантазія: Непереможні (Ukraine); summary misspells the title as "Unlmited"; no premiere date, external ids, cast or rating shown -- accessed 2026-11-10; archived: TODO
 
+## anilist.co (Information; AniList anime page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/anime/1157/Final-Fantasy-Unlimited/ -- Final Fantasy: Unlimited, AniList id 1157, MyAnimeList id 1157, format TV, 25 episodes of 24 min, 2001-10-02 to 2002-03-26, studio GONZO, source Video Game, genres Action, Adventure, Fantasy and Sci-Fi, average score 58, popularity 6370, 40 favourites, country JP -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

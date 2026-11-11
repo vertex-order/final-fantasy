@@ -55,4 +55,8 @@
 
 - https://www.thetvdb.com/movies/last-order-final-fantasy-vii -- Final Fantasy VII: Last Order, TVDB movie id 13475, worldwide release 2005-09-13 (the only date shown), 25 minutes, PG-13 (US), original language English with Japanese spoken, country Japan, genres Action, Adventure and Animation, companies Madhouse and Square Enix, director Morio Asaka, 8 voice cast (Takahiro Sakurai, Ayumi Ito, Kenichi Suzumura, Toshiyuki Morikawa and others); overview: the OVA, narrated by Tseng, alternates between the Nibelheim incident and Zack Fair's escape to Midgar with an unconscious Cloud; IMDb tt0489134, TMDB 13274; no rating shown -- accessed 2026-11-10; archived: TODO
 
+## anilist.co (Information; AniList anime page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/anime/408/Final-Fantasy-VII-Last-Order/ -- Final Fantasy VII: Last Order, AniList id 408, MyAnimeList id 408, format OVA, 25 min, 2005-09-14, studio Madhouse, source Video Game, genres Action, Adventure, Drama, Fantasy and Sci-Fi, average score 68, popularity 9903, 58 favourites, country JP -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

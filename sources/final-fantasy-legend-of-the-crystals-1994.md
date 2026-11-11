@@ -67,6 +67,10 @@
 
 - https://www.thetvdb.com/series/final-fantasy-legend-of-the-crystals -- ファイナルファンタジー, TVDB series id 82745, aired 1994-03-21 to 1994-07-21, status Ended, network Anime OAV, Japan, Japanese, average runtime 29 minutes, genres Action, Adventure, Animation, Anime, Comedy, Drama, Fantasy and Science Fiction; aired order 4 episodes in season 1, DVD order 5 unassigned episodes; the English overview calls it a sequel to Final Fantasy V set 200 years after the defeat of Exdeath; no cast; IMDb tt0196692, TMDB 67037; favorited by 9; no rating shown -- accessed 2026-11-10; archived: TODO
 
+## anilist.co (Information; AniList anime page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/anime/426/Final-Fantasy/ -- Legend of the Crystals: Final Fantasy, AniList id 426, MyAnimeList id 426, format OVA, 4 episodes of 30 min, 1994-03-21 to 1994-07-21, studio Madhouse, source Video Game, genres Action, Adventure, Comedy and Fantasy, average score 57, popularity 3173, 18 favourites, country JP -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - Episode parts (user, 2026-10-19): the four chapters are `contents` parts, for the planned per-part tracking

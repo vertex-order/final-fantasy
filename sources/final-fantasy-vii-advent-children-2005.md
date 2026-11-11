@@ -96,4 +96,9 @@ rottentomatoes.com (Ratings)
 
 - https://www.thetvdb.com/movies/final-fantasy-vii-advent-children -- Final Fantasy VII: Advent Children, TVDB movie id 3969, alias Final Fantasy 7: Advent Children, worldwide release 2005-07-14 (the only date shown), 126 minutes, original language English with Japanese spoken, country Japan, genres Action, Adventure, Animation and Fantasy, company Square Enix, official site na.square-enix.com/ff7acc/, 14 voice cast (Takahiro Sakurai, Ayumi Ito, Maaya Sakamoto, Shoutarou Morikubo and others), no crew; IMDb tt0385700, TMDB 647; no rating shown -- accessed 2026-11-10; archived: TODO
 
+## anilist.co (Information; AniList anime page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/anime/317/Final-Fantasy-VII-Advent-Children/ -- Final Fantasy VII: Advent Children, AniList id 317, MyAnimeList id 317, format Movie, 101 min, 2005-09-14, no studio listed, source Video Game, genres Action, Fantasy and Sci-Fi, average score 72, popularity 29295, 397 favourites, country JP, synonym Final Fantasy 7: Advent Childen -- accessed 2026-11-10; archived: TODO
+- https://anilist.co/anime/2952/Final-Fantasy-VII-Advent-Children-Complete/ -- Final Fantasy VII: Advent Children Complete, a separate AniList page, AniList id 2952, MyAnimeList id 2952, format Movie, 126 min, 2009-04-16, no studio listed, source Video Game, genres Action, Fantasy and Sci-Fi, average score 74, popularity 18586, 340 favourites, country JP -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

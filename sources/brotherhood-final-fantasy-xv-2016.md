@@ -67,4 +67,8 @@
 
 - https://www.tvmaze.com/shows/15041/brotherhood-final-fantasy-xv -- BROTHERHOOD FINAL FANTASY XV, TVmaze show id 15041, type Animation, status Ended, web channel Crunchyroll (2016), Wednesdays, Japanese, runtime 12 min, genres Action, Anime and Fantasy, 5 episodes in season 1 (episodes 3 to 5 shown: "Sword and Shield" 2016-07-07, "Bittersweet Memories" 2016-08-17, "The Warmth of Light" 2016-09-18), official site www.crunchyroll.com/brotherhood-final-fantasy-xv, cast Tatsuhisa Suzuki, Mamoru Miyano, Tetsuya Kakihara, Kenta Miyake, Rina Kitagawa, Tsutomu Isobe, Makoto Koichi; no external ids or rating shown -- accessed 2026-11-10; archived: TODO
 
+## anilist.co (Information; AniList anime page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/anime/21728/BROTHERHOOD-FINAL-FANTASY-XV/ -- BROTHERHOOD FINAL FANTASY XV, AniList id 21728, MyAnimeList id 33080, format ONA, 5 episodes of 15 min, 2016-03-31 to 2016-09-18, studio A-1 Pictures, source Video Game, genres Action, Adventure and Fantasy, average score 66, popularity 19979, 148 favourites, country JP -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

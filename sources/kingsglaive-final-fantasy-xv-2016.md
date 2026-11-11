@@ -74,4 +74,8 @@
 
 - https://www.thetvdb.com/movies/kingsglaive-final-fantasy-xv -- Kingsglaive: Final Fantasy XV, TVDB movie id 3372, 115 minutes, releases United States 2016-08-19, Great Britain 2016-08-30, Spain 2016-09-28 and Germany 2016-09-30, original language English with Japanese spoken, original country Japan, production countries Japan and United States, genres Action, Animation and Science Fiction, companies Digic Pictures, Image Engine Design, Marza Animation Planet and Square Enix, official site kingsglaivefinalfantasyxv-movie.com, 46 voice cast, crew Takeshi Nozue, Takashi Hasegawa, Kazushige Nojima and Saori Itamuro (roles not labeled); IMDb tt5595168, TMDB 390734; no rating shown -- accessed 2026-11-10; archived: TODO
 
+## anilist.co (Information; AniList anime page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/anime/21729/Kingsglaive-Final-Fantasy-XV/ -- Kingsglaive Final Fantasy XV, AniList id 21729, MyAnimeList id 33082, format Movie, 110 min, 2016-07-09, studio Square Enix, source Video Game, genres Action, Adventure, Drama, Fantasy and Sci-Fi, average score 70, popularity 14512, 145 favourites, country JP, synonym Final Fantasy XV: Gwardia królewska -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
