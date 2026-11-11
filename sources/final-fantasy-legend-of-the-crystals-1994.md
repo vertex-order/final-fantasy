@@ -45,6 +45,10 @@
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- the first anime, an OVA sequel to Final Fantasy V set 200 years after the game, four 30-minute episodes released in Japan in 1994 and in the United States by Urban Vision in 1998 -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## letterboxd.com (Information; Letterboxd film page, live page of 2026-11-10)
+
+- https://letterboxd.com/film/final-fantasy-legend-of-the-crystals-1994/ -- Final Fantasy: Legend of the Crystals, original title ファイナルファンタジー, 1994, 120 mins, directors Rintaro and Tomihiko Ohkubo (the directors section also lists Naoto Kanda), studio Madhouse, Japanese, Animation, 1 fan; average rating not in the page text read; where to watch is a JustWatch link only; IMDb tt0196692, TMDB link uses the tv path (tv/67037), short link https://boxd.it/ez82 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - Episode parts (user, 2026-10-19): the four chapters are `contents` parts, for the planned per-part tracking

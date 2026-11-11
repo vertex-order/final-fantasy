@@ -25,6 +25,10 @@ imdb.com (Ratings)
   - 7.2 (560 reviews), 1h 54m
   - Lists streaming on Crunchyroll through Prime Video, verified by the user: https://www.primevideo.com/detail/amzn1.dv.gti.71c9c3e4-e584-4dac-b829-ec6fc710d248
 
+## letterboxd.com (Information; Letterboxd film page, live page of 2026-11-10)
+
+- https://letterboxd.com/film/brave-father-online-our-story-of-final-fantasy-xiv/ -- Brave Father Online - Our Story of Final Fantasy XIV, original title 劇場版 ファイナルファンタジーXIV 光のお父さん, 2019, 114 mins, directors Teruo Noguchi and Kiyoshi Yamamoto, studios Square Enix, Gambit, MBS, GAGA Corporation, VAP, Amata Movies Production, Japanese, 2 fans; releases listed: Japan theatrical 2019-06-21, Canada premiere at the Fantasia International Film Festival 2019-07-20, Thailand theatrical 2019-09-26, South Korea theatrical 2021-01-14; where to watch is a JustWatch link only; IMDb tt10551160, TMDB movie 611424, short link https://boxd.it/mAWS -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - Disc release, other streaming services: not found

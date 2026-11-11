@@ -690,6 +690,10 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII#%E8%A9%95%E4%BE%A1 -- awards and polls: first Japan Media Arts Festival (Agency for Cultural Affairs, 1997) Digital Art (Interactive) division Excellence Award, CESA Grand Prize '97; long among the top of the reader popularity rankings of game magazines such as Famitsu (that ranking ended in 2006); also appears in the "not fun games" rankings of the Kuso Game Hakusho -- accessed 2026-11-10 (revision 111377241 of 2026-10-13; wikitext read through the MediaWiki API); archived: TODO
 
+## letterboxd.com (Information; Letterboxd film page, live page of 2026-11-10)
+
+- https://letterboxd.com/film/reminiscence-of-final-fantasy-vii/ -- Reminiscence of Final Fantasy VII, 2005, 24 mins, director Yoji Shimizu, writer Kazushige Nojima, studio Madhouse, Japanese; a collection of the original game's cutscenes, an extra on the Advent Children DVD; theatrical release listed Japan 2005-09-14; IMDb tt1693875, TMDB movie 1123354, short link https://boxd.it/Gujg -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.

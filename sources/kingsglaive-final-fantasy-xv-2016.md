@@ -56,4 +56,8 @@
 
 - Kingsglaive: Final Fantasy XV: official dubs and subtitles in other languages that are not yet known to us may exist; the streaming sites where the item is available are not yet audited for voice and subtitles; the voice and subtitle languages in the entry's language list are those found so far
 
+## letterboxd.com (Information; Letterboxd film page, live page of 2026-11-10)
+
+- https://letterboxd.com/film/kingsglaive-final-fantasy-xv/ -- Kingsglaive: Final Fantasy XV, 2016, 115 mins, director Takeshi Nozue, studios Visual Works, Digic Pictures, Pixoloid Studios, Square Enix, Square USA, The Monk Studios, Toneplus Animation Studios, Stage 6 Films, Sony Pictures Home Entertainment, Dynamo Pictures, countries Japan and USA, Japanese, 95 fans; average rating not in the page text read; digital listings Mexico 2016-08-19, Poland 2016-08-30, France VOD 2016-09-29, France Netflix 2021-10-01; IMDb tt5595168, TMDB movie 390734, short link https://boxd.it/dEjs -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

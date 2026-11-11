@@ -36,6 +36,10 @@ netflix.com (Streaming)
 - https://www.netflix.com/title/80178543 -- streaming row -- accessed 2026-10-18
   - Title page, 2017, TV-PG, drama; the user's link was https://www.netflix.com/ca/title/80178543, the entry links it without the locale
 
+## letterboxd.com (Information; Letterboxd film page, live page of 2026-11-10)
+
+- https://letterboxd.com/film/final-fantasy-xiv-dad-of-light/ -- Final Fantasy XIV: Dad of Light, 2017, 192 mins, directors Teruo Noguchi and Kiyoshi Yamamoto, writer Kota Fukihara, original writer Mighty, Japanese; fan count and average rating not in the page text read; alternate titles ファイナルファンタジーXIV 光のお父さん, Hikari no Otousan, Daddy of Light; where to watch is a JustWatch link only; IMDb tt6497076, TMDB link uses the tv path (tv/73659), short link https://boxd.it/h1lM -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - Netflix subtitle and dub languages, any VAP disc release: not found

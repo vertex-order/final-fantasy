@@ -39,4 +39,8 @@
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- a non-canon OVA of 2005 in the Compilation of Final Fantasy VII, released in Japan in a special DVD bundle with Advent Children; it sold out quickly and was well received by Western critics, with mixed fan reaction to changed story scenes -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## letterboxd.com (Information; Letterboxd film page, live page of 2026-11-10)
+
+- https://letterboxd.com/film/final-fantasy-vii-last-order/ -- Final Fantasy VII: Last Order, original title ラストオーダー -ファイナルファンタジーVII-, 2005, 25 mins, directors Morio Asaka and Tetsuya Nomura, studios Square Enix and Madhouse, Japanese, 10 fans; part of the Letterboxd Final Fantasy VII collection; physical releases listed Japan DVD 2005-09-14, USA DVD and Australia 2007-02-20; no digital listings; IMDb tt0489134, TMDB movie 13274, short link https://boxd.it/1QvG -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

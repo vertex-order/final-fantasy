@@ -77,4 +77,9 @@ rottentomatoes.com (Ratings)
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Film_and_television -- a feature-length direct-to-DVD CGI film of 2005 in the Compilation of Final Fantasy VII, animated by Visual Works; unlike The Spirits Within it was a commercial success -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## letterboxd.com (Information; Letterboxd film page, live page of 2026-11-10)
+
+- https://letterboxd.com/film/final-fantasy-vii-advent-children/ -- title, 2005, 101 mins, director Tetsuya Nomura, Japanese, country Japan, studios Square Enix and Visual Works; 1.4K fans; average rating not in the page text read; part of the Letterboxd Final Fantasy VII collection with Last Order and On the Way to a Smile - Episode Denzel; alternate titles include Final Fantasy VII: Advent Children Complete and the Japanese title, no separate Complete page read; digital listing Netflix France 2022-05-15; IMDb tt0385700, TMDB movie 647, short link https://boxd.it/29UK -- accessed 2026-11-10; archived: TODO
+- https://letterboxd.com/film/reminiscence-of-final-fantasy-vii/ -- Reminiscence of Final Fantasy VII, 2005, 24 mins, director Yoji Shimizu, writer Kazushige Nojima, studio Madhouse, Japanese, Animation, 2 fans; theatrical release listed Japan 2005-09-14; a DVD extra of the Advent Children DVD, a collection of cutscenes from the original game; IMDb tt1693875, TMDB movie 1123354, short link https://boxd.it/Gujg; the page's /cast/ address answered HTTP 403, the facts are from the base address -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

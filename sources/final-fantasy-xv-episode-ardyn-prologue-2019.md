@@ -40,5 +40,9 @@
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV:_Episode_Ardyn_%E2%80%93_Prologue#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3975892 of 2025-12-09; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV:_Episode_Ardyn_%E2%80%93_Prologue#Voice_cast); archived: TODO
 
+## letterboxd.com (Information; Letterboxd film page, live page of 2026-11-10)
+
+- https://letterboxd.com/film/final-fantasy-xv-episode-ardyn-prologue/ -- Final Fantasy XV: Episode Ardyn - Prologue, Japanese title ファイナルファンタジーXVエピソードアルディン - プロローグ, 2019, 15 mins, director spelled "Takefumi Terda" on the page, studios Square Enix and SATELIGHT, Japanese, 1 fan; releases listed: Australia theatrical (PG) and Japan digital (PG12), both 2019-02-16; IMDb tt9860590, TMDB movie 844390, short link https://boxd.it/vQZQ -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 - The `Free` tag was added (user, 2026-10-17): the episode is free on YouTube with English subtitles; the platform row already links the official video directly

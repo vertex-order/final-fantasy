@@ -111,4 +111,8 @@ goodreads.com (Information)
 
 - https://breezewiki.com/finalfantasy/wiki/On_the_Way_to_a_Smile_-Episode:_Denzel-_Final_Fantasy_VII#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3906457 of 2025-03-16; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/On_the_Way_to_a_Smile_-Episode:_Denzel-_Final_Fantasy_VII#Voice_cast); archived: TODO
 
+## letterboxd.com (Information; Letterboxd film page, live page of 2026-11-10)
+
+- https://letterboxd.com/film/on-the-way-to-a-smile-episode-of-denzel/ -- Final Fantasy VII: On the Way to a Smile - Episode Denzel, 2009, 28 mins, director Shinji Ishihira, studios Square Enix and A-1 Pictures, Japanese, 1 fan; part of the Letterboxd Final Fantasy VII collection; tagline デンゼルを中心としたオリジナルアニメ; theatrical listings Japan 2009-04-16, Australia (PG) and USA (PG-13) 2009-06-02; digital listings Japan 2009-04-16, France (12) 2009-04-16, Australia and USA 2009-06-02; IMDb tt1980204, TMDB movie 59300, short link https://boxd.it/inw -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

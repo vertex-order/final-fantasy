@@ -136,4 +136,8 @@
   - FINAL FANTASY X | X-2 HD Remaster; first listed live (2026-10-28): platforms PlayStation Vita, PS3, PS4, Steam, Nintendo Switch, Xbox One, Xbox Series X|S, Windows, Nintendo Switch 2; (Právě vychází); one card for the HD Remaster of X, X-2 and their bonus content; listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-x-x-2-hd-remaster -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## letterboxd.com (Information; Letterboxd film page, live page of 2026-11-10)
+
+- https://letterboxd.com/film/final-fantasy-x-eternal-calm/ -- Final Fantasy X: Eternal Calm, 2002, 14 mins, Japanese, country Japan, genres Adventure and Fantasy, cast Mayuko Aoki (Yuna), Kazuya Nakai (Wakka), Marika Matsumoto (Rikku), Masakazu Morita (Shuyin); no director or studio shown; "Not enough ratings to calculate average"; digital listings Japan 2002-01-31, USA 2003-10-31, Italy 2014-03-21; no IMDb link, TMDB movie 988881, short link https://boxd.it/Bm30 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

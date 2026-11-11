@@ -1315,6 +1315,14 @@
 - https://backloggd.com/search/games/vagrant%20story/ -- Backloggd search for "vagrant story" (100 results); the list stops at 100 results, so it may be cut off; Vagrant Story as result 1, then unrelated "story" titles -- live page of 2026-10-30 (Backloggd search, text save of the rendered page, not signed in), visited and audited; archived: TODO
 - https://backloggd.com/search/games/voice%20fantasy/ -- Backloggd search for "voice fantasy" (100 results); the list stops at 100 results, so it may be cut off; Final Fantasy titles among fuzzy matches; no Voice Fantasy (the Angelique Voice Fantasy listing is another game) -- live page of 2026-10-30 (Backloggd search, text save of the rendered page, not signed in), visited and audited; archived: TODO
 
+## letterboxd.com (Information; Letterboxd search and fan lists)
+
+- https://letterboxd.com/search/final%20fantasy/ -- Letterboxd search for "final fantasy" (address pattern https://letterboxd.com/search/<term>/); the text read of the page shows the result tabs (films, lists, reviews and others) and a "Show more results" link, no result rows -- live page of 2026-11-10, visited and audited; archived: TODO
+  - 21 member lists named "final fantasy" (3 to 23 titles each) read the same day, visited and audited; the lists are not linked, only the titles on them
+- https://letterboxd.com/search/chocobo/ -- Letterboxd search for "chocobo" (address pattern https://letterboxd.com/search/<term>/) -- live page of 2026-11-10, visited and audited; archived: TODO
+- https://letterboxd.com/search/choco/ -- Letterboxd search for "choco" (address pattern https://letterboxd.com/search/<term>/) -- live page of 2026-11-10, visited and audited; archived: TODO
+- https://letterboxd.com/search/moogle/ -- Letterboxd search for "moogle" (address pattern https://letterboxd.com/search/<term>/) -- live page of 2026-11-10, visited and audited; archived: TODO
+
 ## igdb.com (Information; IGDB company page and searches)
 
 - https://www.igdb.com/companies/square -- IGDB company page for Square (video game publisher, Japan); Developed 72 and Published 116 games; 139 game cards on 3 saved pages (title, year, platforms, type label with the parent game) -- live pages of 2026-11-03 (the saved pages do not record their address), visited and audited; archived: TODO

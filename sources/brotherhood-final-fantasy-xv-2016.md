@@ -47,4 +47,8 @@
 
 - Brotherhood: Final Fantasy XV: official dubs and subtitles in other languages that are not yet known to us may exist; the streaming sites where the item is available are not yet audited for voice and subtitles; the voice and subtitle languages in the entry's language list are those found so far
 
+## letterboxd.com (Information; Letterboxd film page, live page of 2026-11-10)
+
+- https://letterboxd.com/film/brotherhood-final-fantasy-xv-2016/ -- Brotherhood: Final Fantasy XV, original title ブラザーフッド ファイナルファンタジーXV, 2016, 72 mins, director Shuji Miyahara, studios A-1 Pictures, Square Enix, RightTracks, Japanese, 9 fans; where to watch is a JustWatch link only; IMDb tt5595178, TMDB link uses the tv path (tv/66987), short link https://boxd.it/HpCa -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
