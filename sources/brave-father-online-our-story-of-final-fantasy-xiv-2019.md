@@ -29,6 +29,10 @@ imdb.com (Ratings)
 
 - https://letterboxd.com/film/brave-father-online-our-story-of-final-fantasy-xiv/ -- Brave Father Online - Our Story of Final Fantasy XIV, original title 劇場版 ファイナルファンタジーXIV 光のお父さん, 2019, 114 mins, directors Teruo Noguchi and Kiyoshi Yamamoto, studios Square Enix, Gambit, MBS, GAGA Corporation, VAP, Amata Movies Production, Japanese, 2 fans; releases listed: Japan theatrical 2019-06-21, Canada premiere at the Fantasia International Film Festival 2019-07-20, Thailand theatrical 2019-09-26, South Korea theatrical 2021-01-14; where to watch is a JustWatch link only; IMDb tt10551160, TMDB movie 611424, short link https://boxd.it/mAWS -- accessed 2026-11-10; archived: TODO
 
+## themoviedb.org (Information; TMDB page, live page of 2026-11-10)
+
+- https://www.themoviedb.org/movie/611424-xiv -- Brave Father Online - Our Story of Final Fantasy XIV, original title 劇場版 ファイナルファンタジーXIV 光のお父さん, 2019, 1h 54m, released 2019-07-20 (CA; the only release date shown), original language Japanese, genres Drama, Comedy and Family, keywords based on true story, illness, gaming, father son relationship, directors Teruo Noguchi and Kiyoshi Yamamoto, screenplay Kota Fukihara, cast Kentaro Sakaguchi (Iwamoto Akio), Kotaro Yoshida, Kiara Minegishi, Yui Sakuma; Crunchyroll shown as Now Streaming; TMDB id 611424 -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - Disc release, other streaming services: not found

@@ -119,4 +119,8 @@ goodreads.com (Information)
 
 - https://og.trakt.tv/movies/final-fantasy-vii-on-the-way-to-a-smile-episode-denzel-2009 -- Final Fantasy VII: On the Way to a Smile - Episode Denzel, 2009, 28m, PG-13, released 2009-04-16 (3 more release dates), country Japan, language Japanese, genres Fantasy and Anime, studio A-1 Pictures plus 1, director Shinji Ishihira, writer Kazushige Nojima (original story), 13 voice actors; part of a Final Fantasy VII Collection list; Trakt rating 65% from 60 votes (the page also shows IMDb 6.7 and TMDB 59%); IMDb tt1980204, TMDB 59300 -- accessed 2026-11-10; archived: TODO
 
+## themoviedb.org (Information; TMDB page, live page of 2026-11-10)
+
+- https://www.themoviedb.org/movie/59300 -- Final Fantasy VII: On the Way to a Smile - Episode Denzel, original title デンゼルを中心としたオリジナルアニメ, 2009, 28m, PG-13, released 2009-04-16 (JP), original language Japanese, genres Animation and Fantasy, keyword based on video game, director Shinji Ishihira, screenplay Akio Ofuji, cast Kazumu Izawa (Denzel), Banjo Ginga (Reeve Tuesti), Yasuyuki Kase, Yoshimitsu Shimoyama, Takako Honda; TMDB id 59300 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

@@ -140,4 +140,8 @@
 
 - https://letterboxd.com/film/final-fantasy-x-eternal-calm/ -- Final Fantasy X: Eternal Calm, 2002, 14 mins, Japanese, country Japan, genres Adventure and Fantasy, cast Mayuko Aoki (Yuna), Kazuya Nakai (Wakka), Marika Matsumoto (Rikku), Masakazu Morita (Shuyin); no director or studio shown; "Not enough ratings to calculate average"; digital listings Japan 2002-01-31, USA 2003-10-31, Italy 2014-03-21; no IMDb link, TMDB movie 988881, short link https://boxd.it/Bm30 -- accessed 2026-11-10; archived: TODO
 
+## themoviedb.org (Information; TMDB page, live page of 2026-11-10)
+
+- https://www.themoviedb.org/movie/988881-final-fantasy-x-eternal-calm -- Final Fantasy X: Eternal Calm, 2002, 14m, released 2002-01-31 (JP; the only release date shown), original language Japanese, genres Adventure and Fantasy, overview "A cinematic cutscene taking place between Final Fantasy X and Final Fantasy X-2.", cast Mayuko Aoki (Yuna), Kazuya Nakai (Wakka), Marika Matsumoto (Rikku), Masakazu Morita (Shuyin); no crew added; TMDB id 988881 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

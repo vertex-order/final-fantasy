@@ -12,8 +12,13 @@
 
 - https://finalfantasywiki.com/wiki/Fortress -- listed in Category:Canceled games (under Category:Games) -- page not read -- accessed 2026-11-08
 
+## themoviedb.org (Information; TMDB page, live page of 2026-11-10)
+
+- https://www.themoviedb.org/movie/51341-the-history-of-final-fantasy -- The History of Final Fantasy, 2006, 32m, released 2006-10-30 (US), original language English, genre Documentary, keyword video game; overview: a brief documentary giving a basic overview of the Final Fantasy series up to 2006, "has the look of a fan-made documentary and was never released for television", released as part of the Collector's Edition of Final Fantasy XII; no directors, writers or cast added; TMDB id 51341 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
+- Not listed (user, 2026-11-10): The History of Final Fantasy (2006 documentary on the series, a bonus of the Final Fantasy XII Collector's Edition); out of scope as a documentary and behind-the-scenes content (docs/data.md, "What belongs on a list"); TMDB page above
 - **Not to be listed: Fortress (user, 2026-11-03):** the whole game is left out, not a platform. The codename of a planned Xbox 360 spin-off, a sequel to the events of Final Fantasy XII, by Grin for Square Enix; production began in 2009, Square Enix withheld milestone payments over the art style, and Grin shut down six months in; never released
   - Evidence: https://en.wikipedia.org/wiki/List_of_cancelled_Xbox_360_games (revision 1379151378 of 2026-10-08; Fortress row, citing GameSpot's 2015-10-06 article, https://web.archive.org/web/20151006174313/http://www.gamespot.com/articles/the-canceled-final-fantasy-xii-sequel-narrative-an/1100-6431040/)
 - Not listed (user, 2026-11-08): books from the Final Fantasy Wiki's Square Enix Magazine & Book page (https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book, accessed 2026-11-08) that are guidebooks, previews, artbooks, catalogues, magazines or development books, not entertaining on their own (docs/data.md, "What belongs on a list")

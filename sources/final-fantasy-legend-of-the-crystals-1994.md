@@ -59,6 +59,10 @@
   - https://tvtime.trakt.tv/shows/final-fantasy-legend-of-the-crystals -- same slug, other Trakt front end -- dup
   - https://app.trakt.tv/shows/final-fantasy-legend-of-the-crystals -- same slug, other Trakt front end -- dup
 
+## themoviedb.org (Information; TMDB page, live page of 2026-11-10)
+
+- https://www.themoviedb.org/tv/67037-final-fantasy-legend-of-the-crystals -- Final Fantasy: Legend of the Crystals, original title ファイナルファンタジー, 1994, 1 season of 4 episodes (only episode 4, "The Star Chapter", is titled on the page), aired 1994-03-21 to 1994-07-21, TV-14, status Ended, type Miniseries, no network, original language Japanese, genres Animation, Action & Adventure and Sci-Fi & Fantasy, keywords video game, based on video game, anime, homepage madhouse.co.jp, voice cast Rica Matsumoto (Prettz), Yuko Minaguchi (Linaly), Shigeru Chiba, Fumi Hirano, Kenichi Ogata; no user score; TMDB id 67037 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - Episode parts (user, 2026-10-19): the four chapters are `contents` parts, for the planned per-part tracking

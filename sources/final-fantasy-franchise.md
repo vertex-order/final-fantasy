@@ -1331,6 +1331,10 @@
 
 - https://www.google.com/search?q=final+fantasy+site%3Atrakt.tv -- Google search for `final fantasy site:Trakt.tv`, which returns pages on og.trakt.tv, app.trakt.tv and tvtime.trakt.tv (three front ends of the same Trakt slugs) -- live page of 2026-11-10, visited and audited; archived: TODO
 
+## themoviedb.org (Information; TMDB search)
+
+- https://www.themoviedb.org/search?query=final%20fantasy -- TMDB search for "final fantasy" (address pattern https://www.themoviedb.org/search?query=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
+
 ## igdb.com (Information; IGDB company page and searches)
 
 - https://www.igdb.com/companies/square -- IGDB company page for Square (video game publisher, Japan); Developed 72 and Published 116 games; 139 game cards on 3 saved pages (title, year, platforms, type label with the parent game) -- live pages of 2026-11-03 (the saved pages do not record their address), visited and audited; archived: TODO
@@ -1585,6 +1589,8 @@ Franchise file only:
 - **Not to be listed: Inside FINAL FANTASY (user, 2026-11-10):** a behind-the-scenes TV series (2019 to 2020, 7 episodes) of interviews with the series' creators, artists and developers; behind-the-scenes and developer content is out of scope (docs/data.md, "What belongs on a list"); details in sources/other-group.md
 - **Not to be listed: FINAL FANTASY, BLACK MAGES LEGACY (user, 2026-11-10):** an announced anime about Vivi's children, likely cancelled and out of scope; details in sources/ix-group.md
 - **Not to be listed: Let's Mosey: A Slow Translation Of Final Fantasy VII (user, 2026-11-10):** a playthrough with commentary (Tim Rogers, 2017 to 2019), out of scope, noted as a playthrough of note; details in sources/vii-group.md and sources/final-fantasy-vii-1997.md
+- **Not to be listed: Beyond Final Fantasy (user, 2026-11-10):** a bonus DVD of the International and PAL Final Fantasy X (developer and voice-actor interviews, trailers, an art gallery, a music video); behind-the-scenes content is out of scope; details in sources/x-group.md
+- **Not to be listed: The History of Final Fantasy (user, 2026-11-10):** a 2006 documentary on the series, a bonus of the Final Fantasy XII Collector's Edition; out of scope; details in sources/xii-group.md
 
 ## Not yet surveyed
 

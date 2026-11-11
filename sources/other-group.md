@@ -11,6 +11,10 @@
 
 - https://www.serializd.com/show/Inside-FINAL-FANTASY-110601 -- Inside FINAL FANTASY, a behind-the-scenes TV series: 1 season of 7 episodes, premiere 2019-04-11, last aired 2020-08-24, status Running, no runtime, country or genres shown; synopsis: a deep dive into the legacy of the series with interviews of original creators, artists and developers; rating count 0; no TMDB or IMDb id shown (110601 is in the address) -- accessed 2026-11-10; archived: TODO
 
+## themoviedb.org (Information; TMDB page, live page of 2026-11-10)
+
+- https://www.themoviedb.org/tv/110601-inside-final-fantasy -- Inside FINAL FANTASY, the behind-the-scenes series: 2019, 1 season of 7 episodes (only episode 7, "Inside FINAL FANTASY CRYSTAL CHRONICLES Remastered Edition", is titled on the page), aired 2019-04-11 to 2020-08-24, status Returning Series, type Scripted, original language English, no network or genres shown; overview: a deep dive into the series' legacy with interviews of original creators, artists and developers; no cast added; TMDB id 110601 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - Not listed (user, 2026-11-10): Inside FINAL FANTASY (TV series, 2019 to 2020, 7 episodes), a behind-the-scenes series of interviews with creators, artists and developers; behind-the-scenes and developer content is not entertaining on its own (docs/data.md, "What belongs on a list"); Serializd page above

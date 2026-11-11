@@ -47,4 +47,8 @@
 
 - https://og.trakt.tv/movies/final-fantasy-vii-last-order-2005 -- Final Fantasy VII: Last Order, original title ラストオーダー -ファイナルファンタジーVII-, 2005, 25m, released 2005-09-14 (2 more release dates) and DVD 2007-02-20, country Japan, language Japanese, genres Action, Adventure, Anime, Fantasy, Science Fiction and Drama, studio Madhouse plus 1, directors Tetsuya Nomura and Morio Asaka, writer Kazushige Nojima plus 1, 20 cast; Trakt rating 69% from 157 votes (the page also shows IMDb 7.1, Letterboxd 3.2, MyAnimeList 7.3, TMDB 65%); IMDb tt0489134, TMDB 13274 -- accessed 2026-11-10; archived: TODO
 
+## themoviedb.org (Information; TMDB page, live page of 2026-11-10)
+
+- https://www.themoviedb.org/movie/13274-vii -- Final Fantasy VII: Last Order, original title ラストオーダー -ファイナルファンタジーVII-, 2005, 25m, released 2005-09-14 (JP), original language Japanese, genres Action, Adventure, Animation, Fantasy, Science Fiction and Drama, keywords based on video game, anime and original video animation (OVA), directors Morio Asaka and Tetsuya Nomura, writers Kazushige Nojima and Kazuhiko Inukai, cast Kenichi Suzumura (Zack), Toshiyuki Morikawa (Sephiroth), Takahiro Sakurai (Cloud Strife), Ayumi Ito (Tifa Lockhart); homepage a Square Enix DVD page; user score not shown; TMDB id 13274 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

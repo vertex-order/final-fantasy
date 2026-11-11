@@ -66,4 +66,8 @@
   - https://tvtime.trakt.tv/movies/kingsglaive-final-fantasy-xv-2016 -- same slug, other Trakt front end -- dup
   - https://app.trakt.tv/movies/kingsglaive-final-fantasy-xv-2016 -- same slug, other Trakt front end -- dup
 
+## themoviedb.org (Information; TMDB page, live page of 2026-11-10)
+
+- https://www.themoviedb.org/movie/390734-xv -- Kingsglaive: Final Fantasy XV, original title キングスグレイブ ファイナルファンタジーXV, 2016, 1h 55m, released 2016-07-09 (JP, G; the only release date shown), original language Japanese, genres Animation, Science Fiction and Action, keywords include prequel, based on video game, anime and 3d animation, director Takeshi Nozue, writer Takashi Hasegawa, cast Aaron Paul (Nyx Ulric), Lena Headey, Sean Bean, Alexa Kahn, Darin De Paul, revenue $269,980; Apple TV Store for rent or purchase; user score not shown; TMDB id 390734 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

@@ -7,6 +7,10 @@
 
 - https://www.serializd.com/show/Final-Fantasy%2C-Black-Mages-Legacy-316912 -- Final Fantasy, Black Mages Legacy, country FR, 1 season with 1 episode, premiere and last aired "N/A", status Running, genres Animation and Sci-Fi & Fantasy, average rating 0.00, rating count 0; synopsis: the children of Vivi Ornitier (Mel, Koln, Luciola, Théa, Fala and Doc), the last black mages, live in Alexandria and face their father's legacy after Koln finds Mel frozen like a statue; no TMDB or IMDb id shown (316912 is in the address) -- accessed 2026-11-10; archived: TODO
 
+## themoviedb.org (Information; TMDB page, live page of 2026-11-10)
+
+- https://www.themoviedb.org/tv/316912-final-fantasy-black-mages-legacy -- Final Fantasy, Black Mages Legacy, no year or air date, 1 season with 1 episode, status In Production, type Scripted, original language French, genres Animation and Sci-Fi & Fantasy, keyword based on video game; overview: six siblings, the children of a famous black mage, are the last of their kind on four continents and live in Alexandria until one is found frozen like a statue; no cast, crew or studio added; TMDB id 316912 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - FINAL FANTASY, BLACK MAGES LEGACY (anime, unreleased, status unclear): reported by 4Gamer.net, as read on ja.wikipedia's Final Fantasy IX article, section アニメ (https://ja.wikipedia.org/wiki/ファイナルファンタジーIX#アニメ, revision 111292135 of 2026-10-06, accessed 2026-11-09); in production by EuroVisual Studios (EV Studias), about the children of Vivi, 10 episodes of about 22 minutes, no distribution medium decided; it follows a June 2021 announcement by Cyber Group Studios, which 4Gamer reports as bankrupt, EV Studias having apparently inherited the rights. Not listed: no release found. Likely cancelled and out of scope (user, 2026-11-10)

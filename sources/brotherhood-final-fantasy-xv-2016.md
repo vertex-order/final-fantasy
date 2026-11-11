@@ -55,4 +55,8 @@
 
 - https://www.serializd.com/show/Brotherhood%3A-Final-Fantasy-XV-66987 -- Brotherhood: Final Fantasy XV, 2016, 1 season of 5 episodes, aired 2016-03-30 to 2016-09-17, country JP, status Ended, genres Action & Adventure, Animation and Sci-Fi & Fantasy, tags Video Game and Anime; synopsis "A story set alongside the video game Final Fantasy XV, starring one of its main characters, Noctis, and his friends."; average rating 3.37 shown with a rating count of 0; the number in the address, 66987, equals the TMDB tv id on the Letterboxd page -- accessed 2026-11-10; archived: TODO
 
+## themoviedb.org (Information; TMDB page, live page of 2026-11-10)
+
+- https://www.themoviedb.org/tv/66987-brotherhood-final-fantasy-xv -- Brotherhood: Final Fantasy XV, original title ブラザーフッド ファイナルファンタジーXV, 2016, 1 season of 5 episodes (only episode 5, "The Warmth of Light", is titled on the page), aired 2016-03-30 to 2016-09-17, status Ended, type Video, networks Crunchyroll and YouTube, original language Japanese, genres Action & Adventure, Animation and Sci-Fi & Fantasy, keywords based on video game, anime, adaptation, original net animation (ONA), voice cast Tatsuhisa Suzuki (Noctis), Mamoru Miyano (Ignis), Kenta Miyake (Gladiolus), Tetsuya Kakihara and Akio Kaneda (Prompto), Rina Kitagawa (Lunafreya); no user score; TMDB id 66987 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

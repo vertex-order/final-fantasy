@@ -49,4 +49,8 @@
   - https://tvtime.trakt.tv/shows/final-fantasy-unlimited -- same slug, other Trakt front end -- dup
   - https://app.trakt.tv/shows/final-fantasy-unlimited -- same slug, other Trakt front end -- dup
 
+## themoviedb.org (Information; TMDB page, live page of 2026-11-10)
+
+- https://www.themoviedb.org/tv/11316 -- Final Fantasy: Unlimited, original title ファイナルファンタジー：アンリミテッド, 2001, 1 season of 25 episodes (only episode 25, "Kaze - When The Life Shines", is titled on the page), first aired 2001-10-02, episode 25 dated 2002-03-26, TV-PG, status Ended, type Scripted, network TV Tokyo, original language Japanese, genres Animation and Action & Adventure, keyword anime, homepage gonzo.co.jp/works/ffu/, cast Nobutoshi Canna, Haruko Momoi, Akira Ishida, Kana Ueda, Kyoko Hikami, Kikuko Inoue, Yuka Imai, Brian Jepson, J. Hudson Brownlee; no created-by credit, no user score; TMDB id 11316 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

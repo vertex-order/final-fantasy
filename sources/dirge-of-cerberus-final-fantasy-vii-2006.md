@@ -162,4 +162,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dirge_of_Cerberus_-Final_Fantas
 
 - https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%82%B8%E3%83%A5_%E3%82%AA%E3%83%96_%E3%82%B1%E3%83%AB%E3%83%99%E3%83%AD%E3%82%B9_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII#%E8%A9%95%E4%BE%A1 -- review scores: GameRankings 60%, Famitsu 28/40, 1UP D+, EGM C, Eurogamer 5/10, GameSpot 6.0/10, GameSpy 3/5, GameTrailers 7.2/10, IGN 7.0/10, X-Play 2/5, Dengeki PS2 313/400 -- accessed 2026-11-10 (revision 111434602 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
 
+## themoviedb.org (Information; TMDB page, live page of 2026-11-10)
+
+- https://www.themoviedb.org/movie/1225938-final-fantasy-vii-dirge-of-cerberus -- listed as a movie: Final Fantasy VII: Dirge of Cerberus, 2006, released 2006-08-15 (US), original language English, genres Animation, Action and Fantasy, director Takayoshi Nakazato (shown as Nakazato Takayoshi), writer Hideki Chiba, voice cast Steve Blum (Vincent Valentine), Kari Wahlgren, Kim Mai Guest, Jamieson Price, Greg Ellis, David Boat, Mary Elizabeth McGlynn, Mike Rock, Steve Burton; no runtime shown; overview: Vincent Valentine is targeted by Deepground, which wants to awaken Omega; TMDB id 1225938 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

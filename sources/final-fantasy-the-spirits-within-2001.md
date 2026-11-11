@@ -50,4 +50,9 @@
   - https://app.trakt.tv/movies/final-fantasy-the-spirits-within-2001 -- same slug, other Trakt front end -- dup
 - https://og.trakt.tv/movies/final-fantasy-the-spirits-within-aki-s-dream-reconstruction-2001 -- Final Fantasy: The Spirits Within - Aki's Dream Reconstruction, 2001, 9m, Not Rated, released 2001-10-21 (DVD), country United States, language English, directors Hironobu Sakaguchi and Motonori Sakakibara, cast Ming-Na Wen and Alec Baldwin; Trakt rating 70% from 1 vote; IMDb tt0315755, TMDB 717705; overview "A reconstructed edit of Aki's visions in Final Fantasy: The Spirits Within, presented in sequence." -- accessed 2026-11-10; archived: TODO
 
+## themoviedb.org (Information; TMDB page, live page of 2026-11-10)
+
+- https://www.themoviedb.org/movie/2114-final-fantasy-the-spirits-within -- Final Fantasy: The Spirits Within, 2001, 1h 46m, released 2001-07-10 (CA, G; the only release date shown), original language English, genres Action, Adventure, Animation, Fantasy and Science Fiction, 20 keywords (including based on video game, motion capture, soul transference), budget $137,000,000, revenue $85,131,830, director and story Hironobu Sakaguchi, screenplay Al Reinert and Jeff Vintar, cast Ming-Na Wen, Donald Sutherland, Alec Baldwin, Ving Rhames, Steve Buscemi, Peri Gilpin, James Woods; user score not shown; Canada watch link to Sony Pictures Core Amazon Channel; TMDB id 2114 -- accessed 2026-11-10; archived: TODO
+- https://www.themoviedb.org/movie/717705-final-fantasy-the-spirits-within-aki-s-dream-reconstruction -- Aki's Dream Reconstruction (the DVD extra), 2001, 9m, released 2001-10-21 (US, NR), original language English, directors Hironobu Sakaguchi and Motonori Sakakibara, cast Ming-Na Wen (Aki Ross) and Alec Baldwin (Grey), overview "A reconstructed edit of Aki's visions in Final Fantasy: The Spirits Within, presented in sequence."; no genres shown; TMDB id 717705 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
