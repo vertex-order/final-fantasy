@@ -98,4 +98,9 @@ breezewiki.com (Information)
 
 - https://en.wikipedia.org/wiki/Development_of_Final_Fantasy_XV#The_Dawn_of_the_Future -- the scrapped content and Episode Ardyn were turned into the novel Final Fantasy XV: The Dawn of the Future, written by Emi Nagashima (who wrote supplementary material for Final Fantasy XIII and NieR: Automata) from the DLC draft, for long-term fans to give closure; released in Japan in April 2019, in English in June 2020 through Square Enix Books & Manga (a Penguin Random House partnership) -- accessed 2026-11-10 (revision 1384321687 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/final-fantasy-xv-the-dawn-of-the-future -- FINAL FANTASY XV: THE DAWN OF THE FUTURE; credits Jun Eishima, Stephen Kohler; genre tag N/A; editions: English hardcover ISBN 9781646090006, 2020, 384p; English ebook no ISBN, 2020, 384p -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

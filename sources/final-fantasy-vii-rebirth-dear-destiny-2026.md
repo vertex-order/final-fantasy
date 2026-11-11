@@ -44,4 +44,9 @@ press.na.square-enix.com (Publisher, English press release)
 
 - https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Books -- Dear Destiny: a third novel by Nojima, a sequel to Traces of Two Pasts continuing the stories of Tifa and Aerith before the main story of the Remake; released in Japanese on 2026-01-30 -- accessed 2026-11-09 (revision 1381685167 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/final-fantasy-vii-rebirth-dear-destiny -- FINAL FANTASY VII: REBIRTH - DEAR DESTINY; credits Kazushige Nojima; genre tag N/A; editions: Japanese paperback ISBN 9784301002963, 2026, TBD -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

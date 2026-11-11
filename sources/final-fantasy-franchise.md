@@ -1367,6 +1367,10 @@
 
 - https://www.imdb.com/title/tt10553742/ -- Final Fantasy (TV series, no year), set in the world of Eorzea (the Final Fantasy XIV setting): "explore the struggle between magic and technology in a quest to bring peace to a land in conflict"; IMDb id tt10553742, production status In Development, genres Action and Fantasy, no rating, English, United States; companies Hivemind, Sony Pictures Television and Square Enix Company; no cast, crew or episodes listed -- accessed 2026-11-11; archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library, search for "final fantasy")
+
+- https://www.thevideogamelibrary.org/search?q=final%20fantasy -- The Video Game Library site search for "final fantasy" (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages of 22 results (2,063 results, books only; a result is any book whose text mentions the term) -- live pages of 2026-11-11, all 94 pages read, visited and audited; archived: TODO
+
 ## igdb.com (Information; IGDB company page and searches)
 
 - https://www.igdb.com/companies/square -- IGDB company page for Square (video game publisher, Japan); Developed 72 and Published 116 games; 139 game cards on 3 saved pages (title, year, platforms, type label with the parent game) -- live pages of 2026-11-03 (the saved pages do not record their address), visited and audited; archived: TODO

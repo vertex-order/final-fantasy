@@ -94,4 +94,9 @@ goodreads.com (Information)
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2 -- Final Fantasy XIV: Private Eorzea Academy (私立エオルゼア学園), a comedy manga serialised in the manga app Manga UP! in a world and setting different from the game, art by Esora Amaichi and supervised by the Final Fantasy XIV operations team, serialised from 2021-12-24 to 2022-12-09 (premium release), released as a book on 2023-02-07 -- accessed 2026-11-10 (revision 111604940 of 2026-11-01; wikitext read through the MediaWiki API); archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/final-fantasy-xiv-eorzea-academy -- FINAL FANTASY XIV: EORZEA ACADEMY; credits Esora Amaichi; genre tag Manga; editions: Japanese paperback ISBN 9784757583801, 2023, 192p; English paperback ISBN 9781646092352, 2023, 192p; English ebook no ISBN, 2023, 192p -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

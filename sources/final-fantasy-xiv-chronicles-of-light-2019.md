@@ -126,4 +126,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2 -- Final Fantasy XIV: Chronicles of Light (光の回顧録), Square Enix, released 2019-03-09: the first official short story collection, 25 stories made of the Lodestone (official site) Seventh Umbral Era retrospectives, Heavensward and Stormblood stories plus four new stories by the development team; Chronicles of Light Volume II, released 2025-10-07: 30 stories made of the Lodestone Shadowbringers, Endwalker and other stories plus four new development team stories -- accessed 2026-11-10 (revision 111604940 of 2026-11-01; wikitext read through the MediaWiki API); archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/final-fantasy-xiv-chronicles-of-light -- FINAL FANTASY XIV: CHRONICLES OF LIGHT; credits N/A; genre tag MMO RPG; editions: English hardcover ISBN 9781646091850, 2022, 224p; German hardcover ISBN 9783753936642, 2025, 240p -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/final-fantasy-xiv-chronicles-of-light-ii -- FINAL FANTASY XIV: CHRONICLES OF LIGHT II; credits N/A; genre tag MMO RPG; editions: Japanese paperback ISBN 9784757599826, 2025, 398p; Japanese ebook no ISBN, 2025, 398p; English hardcover ISBN 9781646094196, 2025, 304p; English ebook no ISBN, 2025, 304p; German hardcover ISBN 9783753936673, 2025, 160p -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

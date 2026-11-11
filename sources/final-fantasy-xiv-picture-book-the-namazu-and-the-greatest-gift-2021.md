@@ -57,6 +57,11 @@ google.com/books (Information)
 - Final Fantasy Fandom wiki — no article for this book (as of 2026-10-10)
   - the XIV navigation box (navbox) lists it under "Manga and illustrated books" as "Final Fantasy XIV Picture Book: The Namazu and the Greatest Gift", unlinked — empty
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/final-fantasy-xiv-picture-book-the-namazu-and-the-greatest-gift -- FINAL FANTASY XIV PICTURE BOOK: THE NAMAZU AND THE GREATEST GIFT; credits Hiroyuki Nagamine, Banri Oda; genre tag RPG; editions: English hardcover ISBN 9781646091447, 2022, 24p -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - No `by` credit on picture books: too little plot or art for authorship to drive anyone's choice. Names recorded under `## Author` where known.

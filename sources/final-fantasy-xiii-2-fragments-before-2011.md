@@ -114,6 +114,11 @@ wikipedia.org (Information)
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII-2#関連商品 -- 『小説ファイナルファンタジー XIII-2 Fragments Before』: a written-for-the-book novel, released 2011-12-15; episodes told from before the main story begins; author 映島巡, original idea 鳥山求 and 渡辺大祐; ISBN 978-4-7575-3466-7; chapters 【セラ：AF0年の記憶】, 【ニューボーダム：AF3年までの物語】, 【スノウ：旅立ちのエピソード】, 【リグディ&バルトロメイ：臨時政府の樹立とアカデミー創設秘話】, 【ノエル：時の果ての彷徨】 -- accessed 2026-11-09 (revision 110335847 of 2026-07-19; wikitext read through the MediaWiki API); archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/final-fantasy-xiii-2-fragments-before -- FINAL FANTASY XIII-2: FRAGMENTS BEFORE; credits Jun Eishima, Motomu Toriyama, Daisuke Watanabe; genre tag RPG; editions: Japanese paperback ISBN 9784757534667, 2011, 224p; German paperback ISBN 9783833228636, 2014, 288p; French paperback ISBN 9782371020535, 2015, 245p; English paperback ISBN 9781975382377, 2019, 176p -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Release-date order: `titleDate` is `2011-12-15 10` and the XIII-2 game is `2011-12-15 20`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

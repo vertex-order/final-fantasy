@@ -65,6 +65,11 @@ youtube.com (Information)
 
 - NDL · Google Books (JA edition)
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/final-fantasy-ix-picture-book-vivi-and-grandpa-on-the-day-of-departure -- FINAL FANTASY IX PICTURE BOOK: VIVI AND GRANDPA'S MEMORIES FOR THE SKY; credits Kazuhiko Aoki, Toshiyuki Itahana; genre tag N/A; editions: Japanese paperback ISBN 9784757598737, 2025, 44p; English hardcover ISBN 9781646094738, 2026, 44p -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - No `by` credit on picture books: too little plot or art for authorship to drive anyone's choice. Names recorded under `## Author` where known.

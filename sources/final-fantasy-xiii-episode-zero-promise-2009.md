@@ -212,4 +212,9 @@ goodreads.com (Information)
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-_Fabula_Nova_Dramatica_Alpha#Cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3578515 of 2022-01-05; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-_Fabula_Nova_Dramatica_Alpha#Cast); archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/final-fantasy-xiii-episode-zero-promise -- FINAL FANTASY XIII: EPISODE ZERO - PROMISE; credits Jun Eishima, Motomu Toriyama, Daisuke Watanabe; genre tag RPG; editions: Japanese paperback ISBN 9784757527706, 2009, 320p; English paperback ISBN 9781975382407, 2019, 208p -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

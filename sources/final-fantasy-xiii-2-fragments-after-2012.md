@@ -95,6 +95,11 @@ youtube.com (Information)
 
 - https://myanimelist.net/manga/79929/Final_Fantasy_XIII-2__Fragments_After -- Final Fantasy XIII-2: Fragments After (ファイナルファンタジーXIII-2 Fragments After), MyAnimeList id 79929, type Light Novel, 1 volume, 9 chapters, Finished, from 2012-06-21 (end date not listed), genres Adventure and Fantasy, no serialization, story Jun Eishima, no score, popularity rank 36395, 299 members, 5 favourites; synopsis: a 242-page collection of stories centered on Lightning, Snow, Noel, Alyssa and Yeul -- accessed 2026-11-11; archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/final-fantasy-xiii-2-fragments-after -- FINAL FANTASY XIII-2: FRAGMENTS AFTER; credits Jun Eishima, Motomu Toriyama, Daisuke Watanabe; genre tag RPG; editions: Japanese paperback ISBN 9784757536500, 2012, 242p; German paperback ISBN 9783833228988, 2014, 288p; English paperback ISBN 9781975382384, 2019, 224p -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 ## Surveyed

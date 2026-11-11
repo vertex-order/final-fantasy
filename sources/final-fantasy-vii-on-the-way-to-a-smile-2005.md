@@ -140,4 +140,9 @@ goodreads.com (Information)
 
 - https://myanimelist.net/manga/47585/Final_Fantasy_VII__On_the_Way_to_a_Smile -- Final Fantasy VII: On the Way to a Smile (On the Way to a Smile ファイナルファンタジーVII), MyAnimeList id 47585, type Light Novel, 1 volume, 12 chapters, Finished, from 2009-04-16 (end date not listed), genres Drama and Fantasy, no serialization, story Kazushige Nojima, score 7.53, popularity rank 16020, 1,260 members, 16 favourites -- accessed 2026-11-11; archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/final-fantasy-vii-on-the-way-to-a-smile -- FINAL FANTASY VII: ON THE WAY TO A SMILE; credits Kazushige Nojima; genre tag N/A; editions: English paperback ISBN 9781975382353, 2018, 192p; Japanese paperback ISBN 9784757524620, 2009, 192p -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

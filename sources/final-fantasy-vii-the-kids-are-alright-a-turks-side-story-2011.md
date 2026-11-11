@@ -76,4 +76,9 @@ goodreads.com (Information)
 
 - https://myanimelist.net/manga/114528/Final_Fantasy_VII_Gaiden__Turks_-_The_Kids_Are_Alright -- Final Fantasy VII: The Kids Are Alright - A Turks Side Story (ファイナルファンタジーVII外伝 タークス～ザ・キッズ・アー・オールライト～; synonym Final Fantasy VII Lateral Biography: Turks - The Kids Are Alright), MyAnimeList id 114528, type Novel, 1 volume, Finished, 2011-12-15 (English edition by Yen Press 2019-01-22), genres Adventure and Fantasy, no serialization, story Kazushige Nojima, no score, popularity rank 46219, 170 members, 2 favourites -- accessed 2026-11-11; archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/final-fantasy-vii-the-kids-are-alright-~-a-turks-side-story -- FINAL FANTASY VII: THE KIDS ARE ALRIGHT ~ A TURKS SIDE STORY; credits Kazushige Nojima; genre tag N/A; editions: English paperback ISBN 9781975382360, 2019, 224p; Japanese paperback ISBN 9784757534674, 2011, 349p -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

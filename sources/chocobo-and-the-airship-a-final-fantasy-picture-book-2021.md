@@ -78,6 +78,11 @@ goodreads.com (Information)
 
 - https://en.wikipedia.org/wiki/Chocobo_(series)#Other_media -- the picture book Chocobo and the Airship was released in 2021 in Japan and 2023 in the West; it follows Chocobo and Cid as they try to build an airship and fight off monsters threatening their town -- accessed 2026-11-10 (revision 1360397062 of 2026-06-21; wikitext read through the MediaWiki API); archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/chocobo-and-the-airship-a-final-fantasy-picture-book -- CHOCOBO AND THE AIRSHIP: A FINAL FANTASY PICTURE BOOK; credits Kazuhiko Aoki, Toshiyuki Itahana; genre tag RPG; editions: English hardcover ISBN 9781646092031, 2023, 40p -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - No `by` credit on picture books: too little plot or art for authorship to drive anyone's choice. Names recorded under `## Author` where known.

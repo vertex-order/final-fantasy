@@ -61,6 +61,11 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - the entry's gamebook is about Final Fantasy II -- mine
 - `profileUrl`: no publisher page found; the NDL union-catalog record https://ndlsearch.ndl.go.jp/books/R100000001-I36111100548362 stands in as a last resort (user, 2026-10-14) -- mine
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/final-fantasy-ii-dragon-treasures -- FINAL FANTASY II: DRAGON OF THE HIDDEN TREASURE; credits Naomi Inoue; genre tag ChooseYourOwnAdventure; editions: Japanese paperback ISBN 9784575760927, 1989, 283p; the page dates the paperback 1989 -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Date: `titleDate` is 1988-12 (user, 2026-10-19), the podcast's month (12/1/1988) over NDL's 1989.01; the copyright pages say 1988; the colophon with the printing date was not seen

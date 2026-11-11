@@ -89,4 +89,9 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
 
 - https://en.wikipedia.org/wiki/Final_Fantasy_II#Legacy -- a second novelization by Takashi Umemura covering the first three games: Square Enix 2019, Yen Press worldwide 2020 (the same sentence is on the Final Fantasy III article) -- accessed 2026-11-09 (revision 1382449708 of 2026-10-28; wikitext read through the MediaWiki API); archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/final-fantay-i-ii-iii-memory-of-heroes -- FINAL FANTAY I • II • III - MEMORY OF HEROES; credits Takashi Umemura; genre tag GameAdaptation RPG; editions: English paperback ISBN 9781975382391, 2020, 224p -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

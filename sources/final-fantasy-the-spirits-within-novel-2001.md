@@ -36,4 +36,9 @@ goodreads.com (Ratings)
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- The Spirits Within has been adapted into a novel -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/final-fantasy-the-spirits-within -- FINAL FANTASY: THE SPIRITS WITHIN; credits Dean Wesley Smith; genre tag MediaTieIn; editions: English paperback ISBN 9780743424196, 2001, 240p -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
