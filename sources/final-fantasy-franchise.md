@@ -1196,7 +1196,7 @@
   - Final Fantasy: release 2011-12-01; detail page game003.html
   - Final Fantasy II: release 2012-02-01, with the two EX dungeons of earlier ports (Soul of Rebirth, Arcane Labyrinth); detail page game007.html
   - Crystal Defenders: release 2011-12-01, the Android version holds W1 and W2; detail page game004.html
-  - Itadaki Street for SMARTPHONE: not examined for Final Fantasy content
+  - Itadaki Street for SMARTPHONE: board game, Android release 2012-01-23 (news list); detail page game006.html; no Final Fantasy content on the portal page
   - Capture of 2013-02-16 (https://web.archive.org/web/20130216030731/http://www.square-enix.co.jp/smart/market/, given by user, not read) adds Final Fantasy Tactics: The Lion War (game016.html), Final Fantasy Legends (Dimensions) (game012.html) and Final Fantasy III (game008.html)
   - Capture of 2014-02-17 (https://web.archive.org/web/20140217005214/http://www.square-enix.co.jp/smart/market/, given by user, not read) adds Final Fantasy VI, Final Fantasy IV: The After Years (3D), Pictlogica Final Fantasy, Final Fantasy V, Final Fantasy IV and Final Fantasy All the Bravest; the title pages are on an.sqexm.net (/sp/site/Page/sqmk/ff6/top, ff4ay, pictlogica, ff5, ff4, ffatb)
   - Capture of 2016-03-02 (https://web.archive.org/web/20160302005440/http://www.square-enix.co.jp/smart/market/, given by user, not read) adds Final Fantasy Brave Exvius (an.sqexm.net/sp/site/Page/sqmk/ffbe/top)

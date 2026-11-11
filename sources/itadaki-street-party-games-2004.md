@@ -122,6 +122,20 @@
       - http://itunes.apple.com/jp/app/itadakisutorito-for-smartphone/id485548636?mt=8 -- App Store link on that page -- link recorded only -- archived: https://web.archive.org/web/20171015123203/https://itunes.apple.com/jp/app/itadakisutorito-for-smartphone/id485548636?mt=8 (first capture of the id: https://web.archive.org/web/20120324170118/http://itunes.apple.com:80/jp/app/itadakisutorito-for-smartphone/id485548636?)
       - http://www.square-enix.co.jp/smart/market/ -- SQUARE ENIX Market link on that page -- link recorded only -- archived: https://web.archive.org/web/20121024025820/http://www.square-enix.co.jp/smart/market/
 
+## itunes.apple.com (Platform; Apple App Store, Japan, Itadaki Street for SMARTPHONE)
+
+- http://itunes.apple.com/jp/app/itadakisutorito-for-smartphone/id485548636?mt=8 -- Japanese App Store page, capture of 2012-03-24, saved page read by me -- accessed 2026-11-11 -- archived: https://web.archive.org/web/20120324170118/http://itunes.apple.com/jp/app/itadakisutorito-for-smartphone/id485548636?mt=8
+  - Title いただきストリート for SMARTPHONE わたしのお店にタッチして！; developer SQUARE ENIX Co., Ltd.; free; category Games; release 2012/03/22; version 1.0.0; languages Japanese, English; age 4+
+  - Description: dice board game; free version plays one map (かいがら島); paid packs of maps and characters (配信パック 1 and 2: だいち もこ, えこた みどり, ふじみね だいご, やまだ るる); in-app 正式版 ¥600
+  - No Dragon Quest, Final Fantasy or Chocobo name or character on the page; the only Final Fantasy name is another game in the developer's app list (FINAL FANTASY TACTICS 獅子戦争)
+  - © 2012 ARMOR PROJECT/SQUARE ENIX; trademark note: "いただきストリート" is registered to Enterbrain and Square Enix
+
+## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan, Itadaki Street for SMARTPHONE)
+
+- http://www.square-enix.co.jp/smart/market/game006.html -- detail page link on the market portal, listed in the capture of 2012-02-04 -- link recorded only -- archived: https://web.archive.org/web/20120204205708/http://www.square-enix.co.jp/smart/market/game006.html
+  - Portal lists it as ボードゲーム; news item 2012/01/23 『いただきストリート for SMARTPHONE わたしのお店にタッチして！』配信開始！ (Android release)
+  - Portal page: https://web.archive.org/web/20120204205708/http://www.square-enix.co.jp/smart/market/ (saved page read by me, accessed 2026-11-11)
+
 ## Itadaki Street series: titles with Final Fantasy characters, and titles without
 
 Source: https://wikipedia.org/wiki/Itadaki_Street (Games table; text pasted by user) -- accessed 2026-10-28
