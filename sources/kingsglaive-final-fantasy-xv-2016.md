@@ -117,4 +117,9 @@
 - https://thefinalfantasy.net/ff15/game-editions.html -- accessed 2026-11-11 (saved page read); archived: TODO
   - The Deluxe Edition includes the Kingsglaive: Final Fantasy XV movie Blu-ray
 
+## rottentomatoes.com (Information; Rotten Tomatoes search for "final fantasy", movies filter (43 results over 5 pages), pages saved by the user on 2026-11-11)
+
+- https://www.rottentomatoes.com/m/kingsglaive_final_fantasy_xv_2016 -- result row "Kingsglaive: Final Fantasy XV", year 2016, Tomatometer 13%; the row shows no audience score -- accessed 2026-11-11; archived: TODO
+- https://www.rottentomatoes.com/m/kingsglaive_final_fantasy_xv_2016 -- title page: Tomatometer (critics) 13% from 16 reviews; Popcornmeter (audience) 69% from 2,500+ ratings; limited theatrical 2016-08-19, streaming 2016-10-04 -- accessed 2026-11-11 (fetched by me); archived: TODO
+
 ## Decisions

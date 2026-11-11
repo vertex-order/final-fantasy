@@ -90,4 +90,9 @@
 - https://thefinalfantasy.net/ff-spirits-within/ -- accessed 2026-11-11 (saved page read); archived: TODO
   - Release table (JP, US): Cinemas 2001-07-02 and 2001-07-13; DVD 2001-10-23; Blu-ray 2007-08-07; director Hironobu Sakaguchi; budget $137 million, gross $85 million
 
+## rottentomatoes.com (Information; Rotten Tomatoes search for "final fantasy", movies filter (43 results over 5 pages), pages saved by the user on 2026-11-11)
+
+- https://www.rottentomatoes.com/m/final_fantasy_the_spirits_within -- result row "Final Fantasy: The Spirits Within", year 2001, Tomatometer 44%; the row shows no audience score -- accessed 2026-11-11; archived: TODO
+- https://www.rottentomatoes.com/m/final_fantasy_the_spirits_within -- title page: Tomatometer (critics) 44% from 143 reviews; Popcornmeter (audience) 48% from 100,000+ ratings; theatrical 2001-07-11, streaming 2010-11-09 -- accessed 2026-11-11 (fetched by me); archived: TODO
+
 ## Decisions

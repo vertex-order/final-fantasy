@@ -83,4 +83,9 @@
 - https://thefinalfantasy.net/ff7/last-order.html -- accessed 2026-11-11 (saved page read); archived: TODO
   - Released in Japan on Sep. 14, 2005 and North America on Feb. 20, 2007; OVA by Square Enix and Madhouse, director Morio Asaka; released with Advent Pieces: Limited (77,777 copies, Japan) and in the Limited Edition Collector's Set of Advent Children in North America
 
+## rottentomatoes.com (Information; Rotten Tomatoes search for "final fantasy", movies filter (43 results over 5 pages), pages saved by the user on 2026-11-11)
+
+- https://www.rottentomatoes.com/m/last-order-final-fantasy-vii -- result row "Last Order: Final Fantasy VII", year 2005, no Tomatometer shown -- accessed 2026-11-11; archived: TODO
+- https://www.rottentomatoes.com/m/last-order-final-fantasy-vii -- title page: 0 critic reviews, no Tomatometer; Popcornmeter (audience) 84% from 10,000+ ratings, average 4.1/5; year 2005 -- page saved by the user on 2026-11-11; archived: TODO
+
 ## Decisions

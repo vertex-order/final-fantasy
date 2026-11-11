@@ -29,7 +29,7 @@ imdb.com (Ratings)
   - 7.1 (635 reviews); 24 minutes per episode
 
 rottentomatoes.com (Ratings)
-- https://www.rottentomatoes.com/tv/final_fantasy_xiv_dad_of_light -- not used yet -- accessed 2026-10-18
+- https://www.rottentomatoes.com/tv/final_fantasy_xiv_dad_of_light -- ratings -- accessed 2026-10-18
   - Tomatometer 100%, Popcornmeter 75%
 
 netflix.com (Streaming)
@@ -90,5 +90,10 @@ netflix.com (Streaming)
 ## ja.wikipedia.org (Information; ファイナルファンタジーXIV article, メディア section, live page of 2026-11-10)
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2 -- the TV drama adaptation Final Fantasy XIV: Dad of Light (ファイナルファンタジーXIV 光のお父さん), not strictly a television adaptation of Final Fantasy XIV: it adapts the real play log "【FF14】 光のお父さん計画" serialised on one user's private blog (一撃確殺SS日記); broadcast on MBS's Dramaism late-night slot from April to May 2017 (the production announced on 2016-12-24), starring Yuta Chiba and Ren Osugi; the book edition (volume and Kindle) was released on 2017-03-16 before the drama -- accessed 2026-11-10 (revision 111604940 of 2026-11-01; wikitext read through the MediaWiki API); archived: TODO
+
+## rottentomatoes.com (Information; Rotten Tomatoes search for "final fantasy", TV filter (2 results), pages saved by the user on 2026-11-11)
+
+- https://www.rottentomatoes.com/tv/final_fantasy_xiv_dad_of_light -- result row "Final Fantasy XIV: Dad of Light", start year 2017, Tomatometer 100%; the row shows no audience score -- accessed 2026-11-11; archived: TODO
+- https://www.rottentomatoes.com/tv/final_fantasy_xiv_dad_of_light -- title page: Tomatometer (critics) 100% from 6 reviews; Popcornmeter (audience) 75% from fewer than 50 ratings; one season, 2017-09-01; TV-PG -- accessed 2026-11-11 (fetched by me); archived: TODO
 
 ## Decisions

@@ -1667,6 +1667,10 @@
   - Not saved: the article, review, MIDI and forum sections
   - Rows for Final Fantasy Type-0 Online (Android, Apple iOS and Windows Phone, 2016, JP) are on the list
 
+## rottentomatoes.com (Information; Rotten Tomatoes search for "final fantasy")
+
+- https://www.rottentomatoes.com/search?search=final%20fantasy -- Rotten Tomatoes search for "final fantasy" (address pattern https://www.rottentomatoes.com/search?search=<term>) -- pages saved by the user on 2026-11-11: movies filter (43 results over 5 pages) and TV filter (2 results), visited and audited; Final Fantasy results: the movies Kingsglaive: Final Fantasy XV, Final Fantasy: The Spirits Within, Final Fantasy VII: Advent Children, Brave Father Online: Our Story of Final Fantasy XIV and Last Order: Final Fantasy VII, and the TV show Final Fantasy XIV: Dad of Light; the other results are unrelated titles; no Chocobo result; archived: TODO
+
 ## Decisions
 
 Also recorded in the group files named in each item:

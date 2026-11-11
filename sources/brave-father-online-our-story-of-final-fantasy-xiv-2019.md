@@ -50,4 +50,9 @@ imdb.com (Ratings)
 - https://breezewiki.com/finalfantasy/wiki/Brave_Father_Online#Casts -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 4026738 of 2026-07-27; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Brave_Father_Online#Casts); archived: TODO
   - Official dubs and subtitles in other languages that are not yet known to us may exist; the streaming sites where the item is available are not yet audited for voice and subtitles
 
+## rottentomatoes.com (Information; Rotten Tomatoes search for "final fantasy", movies filter (43 results over 5 pages), pages saved by the user on 2026-11-11)
+
+- https://www.rottentomatoes.com/m/brave_father_online_our_story_of_final_fantasy_xiv -- result row "Brave Father Online: Our Story of Final Fantasy XIV", year 2019, no Tomatometer shown -- accessed 2026-11-11; archived: TODO
+- https://www.rottentomatoes.com/m/brave_father_online_our_story_of_final_fantasy_xiv -- title page: 0 critic reviews and 0 audience ratings, no score shown; year 2019 -- accessed 2026-11-11 (fetched by me); archived: TODO
+
 ## Decisions

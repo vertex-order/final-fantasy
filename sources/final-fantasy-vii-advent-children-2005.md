@@ -57,7 +57,6 @@ rottentomatoes.com (Ratings)
 - https://www.rottentomatoes.com/m/final_fantasy_vii_advent_children -- ratings, where to watch, bibliographic info -- accessed 2026-10-17 (fetched by me, at the user's request; named by the Otapedia page):
   - Ratings: Tomatometer (critics) **50%** from 8 reviews, average 5.7/10 (4 positive, 4 negative; sentiment negative)
     - Popcornmeter (audience) **84%**, "100,000+ ratings", average 4.2/5
-    - **the catalog's rating kinds (site/data/catalogs.js, kit-owned) have no Rotten Tomatoes kind, so neither score is in the entry; asked the user (see .plan/todo.md)**
   - Where to watch: the page's Where to Watch tab offers it to stream, rent or buy on Fandango at Home (https://athome.fandango.com/content/browse/details/Final-Fantasy-VII-Advent-Children/56304)
     - no other store is listed in the page I fetched
     - the entry's platform rows are Blu-ray (and Ultra HD) and fan YouTube searches, none of which this covers
@@ -130,5 +129,10 @@ rottentomatoes.com (Ratings)
 
 - https://thefinalfantasy.net/ff7/re-releases.html -- Final Fantasy VII compilation page -- accessed 2026-11-11 (saved page read); archived: TODO
   - CGI sequel set two years after the game; Japan 2005-09-14, North America 2006-04-25 (the page's dates)
+
+## rottentomatoes.com (Information; Rotten Tomatoes search for "final fantasy", movies filter (43 results over 5 pages), pages saved by the user on 2026-11-11)
+
+- https://www.rottentomatoes.com/m/final_fantasy_vii_advent_children -- result row "Final Fantasy VII: Advent Children", year 2004, Tomatometer 50%; the row shows no audience score -- accessed 2026-11-11; archived: TODO
+- https://www.rottentomatoes.com/m/final_fantasy_vii_advent_children -- title page: Tomatometer (critics) 50% from 8 reviews; Popcornmeter (audience) 84% from 100,000+ ratings; header year 2024 (limited theatrical release 2024-02-21, streaming 2016-07-19), Photos label "(2004)" -- accessed 2026-11-11 (fetched by me); archived: TODO
 
 ## Decisions
