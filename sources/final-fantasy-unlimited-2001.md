@@ -39,4 +39,8 @@
 
 - Final Fantasy: Unlimited: official dubs and subtitles in other languages that are not yet known to us may exist; the streaming sites where the item is available are not yet audited for voice and subtitles; the voice and subtitle languages in the entry's language list are those found so far
 
+## serializd.com (Information; Serializd show page, live page of 2026-11-10)
+
+- https://www.serializd.com/show/Final-Fantasy%3A-Unlimited-11316 -- Final Fantasy: Unlimited, 2001, 1 season of 25 episodes of 30 minutes, aired 2001-10-02 to 2002-03-26, country JP, status Ended, TV-PG, genres Animation and Action & Adventure, tags Anime, Video Game and Animation for Adults; synopsis "Twins Ai and Yu Hayakawa decide to set forth in search of their parents and the mysterious dimension they studied."; average rating 1.94 shown with a rating count of 0; no TMDB or IMDb id shown on the page (11316 is in the address) -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

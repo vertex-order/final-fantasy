@@ -7,8 +7,13 @@
 
 - https://finalfantasywiki.com/wiki/Chocobo_Racing_3D -- listed in Category:Canceled games (under Category:Games) -- page not read -- accessed 2026-11-08
 
+## serializd.com (Information; Serializd show page, live page of 2026-11-10)
+
+- https://www.serializd.com/show/Inside-FINAL-FANTASY-110601 -- Inside FINAL FANTASY, a behind-the-scenes TV series: 1 season of 7 episodes, premiere 2019-04-11, last aired 2020-08-24, status Running, no runtime, country or genres shown; synopsis: a deep dive into the legacy of the series with interviews of original creators, artists and developers; rating count 0; no TMDB or IMDb id shown (110601 is in the address) -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
+- Not listed (user, 2026-11-10): Inside FINAL FANTASY (TV series, 2019 to 2020, 7 episodes), a behind-the-scenes series of interviews with creators, artists and developers; behind-the-scenes and developer content is not entertaining on its own (docs/data.md, "What belongs on a list"); Serializd page above
 - Not listed (user, 2026-11-08): books from the Final Fantasy Wiki's Square Enix Magazine & Book page (https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book, accessed 2026-11-08) that are guidebooks, previews, artbooks, catalogues, magazines or development books, not entertaining on their own (docs/data.md, "What belongs on a list")
   - Dragon Quest & Final Fantasy in Itadaki Street Special Official Perfect Guide — 2005-01-21 — ISBN 9784757513501
   - Dragon Quest & Final Fantasy in Itadaki Street Portable Official Perfect Guide — 2006-06-23 — ISBN 9784757517141

@@ -49,6 +49,10 @@
 
 - https://letterboxd.com/film/final-fantasy-legend-of-the-crystals-1994/ -- Final Fantasy: Legend of the Crystals, original title ファイナルファンタジー, 1994, 120 mins, directors Rintaro and Tomihiko Ohkubo (the directors section also lists Naoto Kanda), studio Madhouse, Japanese, Animation, 1 fan; average rating not in the page text read; where to watch is a JustWatch link only; IMDb tt0196692, TMDB link uses the tv path (tv/67037), short link https://boxd.it/ez82 -- accessed 2026-11-10; archived: TODO
 
+## serializd.com (Information; Serializd show page, live page of 2026-11-10)
+
+- https://www.serializd.com/show/Final-Fantasy%3A-Legend-of-the-Crystals-67037 -- Final Fantasy: Legend of the Crystals as a TV series, 1994, 1 season of 4 episodes of 30 minutes, aired 1994-03-21 to 1994-07-21, country JP, status Ended, TV-14, genres Animation, Action & Adventure and Sci-Fi & Fantasy; synopsis: a threat seeks to take the Crystals, Linaly (a descendant of Bartz) and her protector Prettz travel to the Temple of Wind; average rating 2.50 shown with a rating count of 0; the number in the address, 67037, equals the TMDB tv id on the Letterboxd page -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - Episode parts (user, 2026-10-19): the four chapters are `contents` parts, for the planned per-part tracking

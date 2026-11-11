@@ -51,4 +51,8 @@
 
 - https://letterboxd.com/film/brotherhood-final-fantasy-xv-2016/ -- Brotherhood: Final Fantasy XV, original title ブラザーフッド ファイナルファンタジーXV, 2016, 72 mins, director Shuji Miyahara, studios A-1 Pictures, Square Enix, RightTracks, Japanese, 9 fans; where to watch is a JustWatch link only; IMDb tt5595178, TMDB link uses the tv path (tv/66987), short link https://boxd.it/HpCa -- accessed 2026-11-10; archived: TODO
 
+## serializd.com (Information; Serializd show page, live page of 2026-11-10)
+
+- https://www.serializd.com/show/Brotherhood%3A-Final-Fantasy-XV-66987 -- Brotherhood: Final Fantasy XV, 2016, 1 season of 5 episodes, aired 2016-03-30 to 2016-09-17, country JP, status Ended, genres Action & Adventure, Animation and Sci-Fi & Fantasy, tags Video Game and Anime; synopsis "A story set alongside the video game Final Fantasy XV, starring one of its main characters, Noctis, and his friends."; average rating 3.37 shown with a rating count of 0; the number in the address, 66987, equals the TMDB tv id on the Letterboxd page -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

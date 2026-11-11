@@ -60,7 +60,7 @@
   - Not listed (assistant's call, pending the user's review): the Ultimania (Digicube 4-925075-49-7, Square Enix 4-7575-1243-0); a guide is not entertaining on its own (docs/data.md, "What belongs on a list"). Named in sources/viii-group.md
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーIX#関連商品 -- Japanese Wikipedia's article on Final Fantasy IX (2000), sections 関連商品 (books), アニメ and 外部リンク, visited and audited; no Kingdom Hearts page -- live page of 2026-11-09 (revision 111292135 of 2026-10-06, wikitext read through the MediaWiki API); archived: TODO
   - Not listed (assistant's call, pending the user's review): the Ultimania, the beginner mook, the film book and the Shueisha setting-art special; none is entertaining on its own (docs/data.md, "What belongs on a list"). Named in sources/ix-group.md
-  - Newly found, unreleased, status unclear: FINAL FANTASY, BLACK MAGES LEGACY, an anime about Vivi's children (EuroVisual Studios, 10 episodes of about 22 minutes), which took over from a June 2021 announcement by Cyber Group Studios (reported bankrupt by 4Gamer.net); no release found. Left for the user to decide; details in sources/ix-group.md
+  - Newly found, unreleased, status unclear: FINAL FANTASY, BLACK MAGES LEGACY, an anime about Vivi's children (EuroVisual Studios, 10 episodes of about 22 minutes), which took over from a June 2021 announcement by Cyber Group Studios (reported bankrupt by 4Gamer.net); no release found. Likely cancelled and out of scope (user, 2026-11-10); details in sources/ix-group.md
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2#関連商品 -- Japanese Wikipedia's article on Final Fantasy X-2 (2003), sections 関連商品 (books) and 外部リンク, visited and audited; no Kingdom Hearts page -- live page of 2026-11-09 (revision 111104655 of 2026-09-22, wikitext read through the MediaWiki API); archived: TODO
   - Not listed (assistant's call, pending the user's review): the three Ultimania guides (4-88787-126-0 and 4-7575-1205-8, 4-7575-1161-2, 4-7575-1163-9); none is entertaining on its own (docs/data.md, "What belongs on a list"). The X-2.5 novel is already an entry. Named in sources/x-group.md
 - https://en.wikipedia.org/wiki/Final_Fantasy:_Unlimited#Related_media -- English Wikipedia's article on Final Fantasy: Unlimited (2001), sections External links and Related media, and Japanese Wikipedia's FF：U 〜ファイナルファンタジー:アンリミテッド〜 article (sections 外部リンク, 続編, ゲーム), visited and audited; no Kingdom Hearts page -- live pages of 2026-11-09 (revisions 1379290309 and 111204422, wikitext read through the MediaWiki API); archived: TODO
@@ -1323,6 +1323,10 @@
 - https://letterboxd.com/search/choco/ -- Letterboxd search for "choco" (address pattern https://letterboxd.com/search/<term>/) -- live page of 2026-11-10, visited and audited; archived: TODO
 - https://letterboxd.com/search/moogle/ -- Letterboxd search for "moogle" (address pattern https://letterboxd.com/search/<term>/) -- live page of 2026-11-10, visited and audited; archived: TODO
 
+## serializd.com (Information; Serializd search)
+
+- https://www.serializd.com/search?searchQuery=final%20fantasy -- Serializd search for "final fantasy" (address pattern https://www.serializd.com/search?searchQuery=<term>); the page answered HTTP 403 to the text fetch, so the result rows were not read there -- live page of 2026-11-10, visited and audited; archived: TODO
+
 ## igdb.com (Information; IGDB company page and searches)
 
 - https://www.igdb.com/companies/square -- IGDB company page for Square (video game publisher, Japan); Developed 72 and Published 116 games; 139 game cards on 3 saved pages (title, year, platforms, type label with the parent game) -- live pages of 2026-11-03 (the saved pages do not record their address), visited and audited; archived: TODO
@@ -1574,6 +1578,9 @@ Franchise file only:
     - https://gcluster.jp/news/20240808.html -- the G-cluster service-termination notice (found by the user, 2026-10-21): the whole cloud gaming service stops at noon on Friday 2025-02-28, so every G-cluster row is struck -- accessed 2026-10-21; archived: https://web.archive.org/web/20240809012957/https://gcluster.jp/news/20240808.html
     - Dive In has its own rows, `Dive In cloud`, struck, Japan only, linking the official site's capture (https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/, which describes the DIVE IN Viewer app and the rental-style play passes but names no games); each sits on the same version as that game's `G-cluster cloud` row, the Windows port, since Dive In ran on G-cluster's framework with the same titles and no new ones (our matching: neither the wiki nor the Dive In page names builds; user, 2026-10-22). G-cluster's own phone apps have separate rows, `G-cluster cloud`
 - **Japanese rows for terminated apps (user, 2026-10-20):** "terminated" can mean the content inside an app shut down while the app is still online; a struck global row stays on its own, and a live Japanese row is added only when the content is still live in the Japanese app (so the Portal App, Ever Crisis and Brave Exvius get none); the docs' regional-rows rule already says this and is unchanged
+- **Not to be listed: Inside FINAL FANTASY (user, 2026-11-10):** a behind-the-scenes TV series (2019 to 2020, 7 episodes) of interviews with the series' creators, artists and developers; behind-the-scenes and developer content is out of scope (docs/data.md, "What belongs on a list"); details in sources/other-group.md
+- **Not to be listed: FINAL FANTASY, BLACK MAGES LEGACY (user, 2026-11-10):** an announced anime about Vivi's children, likely cancelled and out of scope; details in sources/ix-group.md
+- **Not to be listed: Let's Mosey: A Slow Translation Of Final Fantasy VII (user, 2026-11-10):** a playthrough with commentary (Tim Rogers, 2017 to 2019), out of scope, noted as a playthrough of note; details in sources/vii-group.md and sources/final-fantasy-vii-1997.md
 
 ## Not yet surveyed
 

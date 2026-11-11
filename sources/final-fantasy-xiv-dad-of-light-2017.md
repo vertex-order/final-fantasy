@@ -40,6 +40,10 @@ netflix.com (Streaming)
 
 - https://letterboxd.com/film/final-fantasy-xiv-dad-of-light/ -- Final Fantasy XIV: Dad of Light, 2017, 192 mins, directors Teruo Noguchi and Kiyoshi Yamamoto, writer Kota Fukihara, original writer Mighty, Japanese; fan count and average rating not in the page text read; alternate titles ファイナルファンタジーXIV 光のお父さん, Hikari no Otousan, Daddy of Light; where to watch is a JustWatch link only; IMDb tt6497076, TMDB link uses the tv path (tv/73659), short link https://boxd.it/h1lM -- accessed 2026-11-10; archived: TODO
 
+## serializd.com (Information; Serializd show page, live page of 2026-11-10)
+
+- https://www.serializd.com/show/Final-Fantasy-XIV%3A-Dad-of-Light-73659 -- Final Fantasy XIV: Dad of Light, 2017, 1 season of 8 episodes of 24 minutes, aired 2017-04-17 to 2017-09-01, country JP, status Ended, TV-PG, genres Drama and Family; synopsis: a father and son rekindle their bond through Final Fantasy XIV, live-action, based on a true story; average rating 3.22 shown with a rating count of 0; the number in the address, 73659, equals the TMDB tv id on the Letterboxd page -- accessed 2026-11-10; archived: TODO
+
 ## Surveyed
 
 - Netflix subtitle and dub languages, any VAP disc release: not found
