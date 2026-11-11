@@ -43,7 +43,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)_v
 ## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, North America)
 
 - http://dlgames.square-enix.com/na/psp_dl/ -- the original's PSP row (Digital)*, North American date 2009.08.25 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260510203011/http://dlgames.square-enix.com/na/psp_dl/
-  - Menu "PSP DL delivery" under the header "Square Enix Downloadable Games"; lists DISSIDIA FINAL FANTASY (Action, 2009.08.25) linking http://na.square-enix.com/dissidia/ (not read)
+  - Menu "PSP DL delivery" under the header "Square Enix Downloadable Games"; lists DISSIDIA FINAL FANTASY (Action, 2009.08.25) linking http://na.square-enix.com/dissidia/ (read in the na.square-enix.com section below)
 
 ## dlgames.square-enix.com (Platform; Game Archives and PSP downloads, Japan)
 
@@ -120,7 +120,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy_(2008)_v
 - Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
   - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
   - Dissidia Final Fantasy -- outside-store result (IGDB.com); developer shown: Square Enix Product Development Division 1
-    - http://archive.na.square-enix.com/dissidia/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+    - http://archive.na.square-enix.com/dissidia/ -- outside-store link, listed live (2026-10-30) -- page read in the na.square-enix.com section below -- archived: https://web.archive.org/web/20170527070038/http://archive.na.square-enix.com/dissidia/
 
 ## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
 
@@ -232,5 +232,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
   - Dissidia Final Fantasy: Sony PSP, 2008-12-18, region JP, NA, AUS, EU
 - the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Dissidia Final Fantasy: Sony PSP, 2008-12-18, score 48.0%
+
+## na.square-enix.com (Publisher; Dissidia Final Fantasy official North American site, capture of 2012-02-09)
+
+- Page URL by capture: 2012-02-09 http://na.square-enix.com/dissidia/; later captures redirect to http://archive.na.square-enix.com/dissidia/
+- https://web.archive.org/web/20120209161216/http://na.square-enix.com/dissidia/ -- Flash site; lore, lists the game as PSP; the order link goes to physical stores, which proves a disc (UMD) release; says nothing about a download; no edition information (viewed in a browser by the user, not read as raw HTML) -- accessed 2026-11-11
+  - Linked from the PSP DL delivery menu of http://dlgames.square-enix.com/na/psp_dl/
+- http://archive.na.square-enix.com/dissidia/ -- archive copy of the previous site, same content; the later captures of the original URL redirect here -- capture of 2017-05-27 viewed by the user -- accessed 2026-11-11 -- archived: https://web.archive.org/web/20170527070038/http://archive.na.square-enix.com/dissidia/
 
 ## Decisions
