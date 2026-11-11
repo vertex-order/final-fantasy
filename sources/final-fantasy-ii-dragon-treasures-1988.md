@@ -38,6 +38,7 @@ archive.org (Information; community scans)
 - https://archive.org/details/final-fantasy-ii-dragon-of-hidden-treasure -- full scans; credits, ISBN, format -- accessed 2026-10-19 (item text and scan images pasted by user)
   - Japanese, 148 JPEG files, uploaded 2026-02-16; the item lists the date as 1998, a typo for 1988
   - Jacket: ISBN 4-575-76092-7, ¥420, 双葉文庫 ファミコン冒険ゲームブック; story blurb (six kingdoms, the empire, Firion and Guy rescue Princess Hilda)
+  - Jacket flaps: cover illustration 天プロダクション, cover design ハーブスタジオ; spine 井上尚美 著, レッカ社 編, 双葉文庫 ゲームブックシリーズ, code れ01-19, C0193; series list of 55 titles (FUTABASHA ADVENTURE GAME BOOK SERIES), Final Fantasy (the first game's book) the only Final Fantasy title on it, this book not on it
   - Copyright page (English): "Final Fantasy II Treasure of Dragon by RECCA-SHA Co., Ltd. and Naomi Inoue", © 1988 RECCA-SHA, illustrations by Tokumasa Matusita, © 1988 SQUARE, first published by Futaba-sha
   - Title page credits 井上尚美／RECCA社; contents: prologue p4, game p16 to 266, epilogue p266, check sheet p270
   - The colophon (奥付) with the first-printing date was not in the scans seen; the date question above stays open

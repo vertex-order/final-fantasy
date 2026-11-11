@@ -58,7 +58,7 @@ archive.org (Information; community scans)
 - https://archive.org/details/final-fantasy-may-light-be-upon-the-heroes -- full scans -- accessed 2026-10-19 (item text and scans pasted by user)
   - Japanese, 140 JPEG files, uploaded 2026-02-16, dated 1988
   - The inner pages print the English title "Final Fantasy: Quest of The Sanctuary \"Light\""; the uploader chose "May Light Be Upon the Heroes!"; the world map is inverted (land tiles are water and the reverse)
-  - Jacket: ISBN 4-575-76063-3, ¥420 (not recorded); contents: prologue p4, area map p8, game p18 to 255, epilogue p256, check sheet p258
+  - Jacket: ISBN 4-575-76063-3, ¥420 (not recorded); © 1987 SQUARE; spine 井上尚美 著, レッカ社 編, 双葉文庫 ゲームブックシリーズ, code れ01-9, C0193; cover illustration 出渕裕, cover design ハーブスタジオ; flap series list of 28 titles (双葉社冒険ゲームブックシリーズのご案内), no Final Fantasy title on it; contents: prologue p4, area map p8, game p18 to 255, epilogue p256, check sheet p258
   - Kept out of the entry data
 
 reddit.com (Information; community)
