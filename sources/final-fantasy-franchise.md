@@ -1571,6 +1571,10 @@
 
 - https://surume5.han-be.com/Home/FF2/index.htm -- fan site index and the 45 internal pages it links (walkthrough, data, monster, FAQ, GBA, WSC, PS, VC, やり込み, consideration, review, report, links, 参考資料 and the site notes); no book, gamebook, supplement or magazine booklet listed in scope; the reference page (reference.htm) lists the Tokuma Shoten and NTT Publishing guides only -- live pages of 2026-11-11, visited and audited; archived: TODO
 
+## ff2.s18.xrea.com (Information; とってもかんたんFF2 FF2関連商品一覧)
+
+- http://ff2.s18.xrea.com/other/goods.htm -- FF2関連商品一覧: guidebooks by platform, the three gamebooks, scores, the novel, Memory of Heroes, the Monster Manual art book, CDs, a Blu-ray soundtrack and first-edition goods; every in-scope book is already an entry or a named exclusion -- live page of 2026-11-11, visited and audited; archived: TODO
+
 ## suruga-ya.jp (Information; 駿河屋 Suruga-ya, search for "角川勝文庫")
 
 - https://www.suruga-ya.jp/search?category=&search_word=%E8%A7%92%E5%B7%9D%E5%8B%9D%E6%96%87%E5%BA%AB -- Suruga-ya search for "角川勝文庫": 1 result, 究極コマンド192 角川○勝文庫 第2弾 (category 攻略本FC, publisher 角川書店, listed release date 1998/08/26, product page https://www.suruga-ya.jp/product/detail/179025622); no Final Fantasy, Chocobo or Kingdom Hearts title in the name; no other 角川勝文庫 volume listed -- page saved by the user 2026-11-11, visited and audited; archived: TODO

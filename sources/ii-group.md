@@ -3,6 +3,10 @@
 # Final Fantasy II
 <!-- site/data/group-II.js, #group-II -->
 
+## ff2.s18.xrea.com (Information; とってもかんたんFF2 FF2関連商品一覧, live page of 2026-11-11)
+
+- http://ff2.s18.xrea.com/other/goods.htm -- FF2関連商品一覧, last update line 2020/10/4 (page text; Shift-JIS), guidebook rows (ファミコン版, ワンダースワンカラー版, プレイステーション版, ゲームボーイアドバンス版, PSP版 sections): 完全攻略本 上巻 1989/1 and 下巻 1989/2 (徳間書店), ゲーム必勝スペシャル 勁文社 1989/2, FF1・2 完全攻略編 NTT出版 1994/7, 徹底攻略編 a cassette accessory, WS Famitsu complete guide エンターブレイン 2001/6, Drama-tic complete guide デジキューブ 2001/5, V Jump Books WS version 集英社 2001/5, PS Famitsu guide エンターブレイン 2002/11, ファイナルイシュー デジキューブ 2002/10, GBA Famitsu guide エンターブレイン 2004/9, V Jump Books GBA version 集英社 2004/7, PSP official guidebook エンターブレイン 2007/7; その他の書籍 section art book ファイナルファンタジー モンスターマニュアル, JICC出版局, 1989/3; the same guides and art book as the ja.wikipedia 関連商品 list above (the page gives the V Jump Books WS version as 2001/5, the ja.wikipedia list as 2001-04); scores, CDs, a Blu-ray soundtrack and first-edition goods on the page are not books -- live page of 2026-11-11, visited and audited; archived: TODO
+
 ## Decisions
 
 - Not listed (assistant's call, pending the user's review): the guidebooks and the art book on ja.wikipedia's Final Fantasy II article, section 関連商品 (https://ja.wikipedia.org/wiki/ファイナルファンタジーII#関連商品, revision 110746553 of 2026-08-23, accessed 2026-11-08); game guides and pure artbooks are not entertaining on their own (docs/data.md, "What belongs on a list"). The page gives no ISBNs. Every other work of the section is already an entry.

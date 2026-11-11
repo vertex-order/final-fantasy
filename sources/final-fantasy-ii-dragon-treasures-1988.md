@@ -75,6 +75,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - https://www.fukkan.com/fk/VoteDetail?no=3856 -- reprint request no. 3856, registered 2001/05/06: ファイナルファンタジーII 秘宝のドラゴン; author field 井上尚美; publisher field 双葉文庫; genre エンタメ; ISBN 9784575760927; 22 vote comments
 
+## ff2.s18.xrea.com (Information; とってもかんたんFF2 FF2関連商品一覧, live page of 2026-11-11)
+
+- http://ff2.s18.xrea.com/other/goods.htm -- FF2関連商品一覧, last update line 2020/10/4 (page text; Shift-JIS), ゲームブック section row ファイナルファンタジー2 秘宝のドラゴン, 双葉社, 1989/1 -- live page of 2026-11-11, visited and audited; archived: TODO
+
 ## Decisions
 
 - Date: `titleDate` is 1988-12 (user, 2026-10-19), the podcast's month (12/1/1988) over NDL's 1989.01; the copyright pages say 1988; the colophon with the printing date was not seen

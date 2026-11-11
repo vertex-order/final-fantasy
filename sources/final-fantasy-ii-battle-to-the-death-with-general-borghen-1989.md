@@ -52,6 +52,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - https://www.fukkan.com/fk/VoteDetail?no=3857 -- reprint request no. 3857, registered 2001/05/06: ファイナルファンタジーII 将軍ボーゲンとの死闘！; author field なし; publisher field 大陸文庫; genre エンタメ; ISBN 9784803318920; 21 vote comments
 
+## ff2.s18.xrea.com (Information; とってもかんたんFF2 FF2関連商品一覧, live page of 2026-11-11)
+
+- http://ff2.s18.xrea.com/other/goods.htm -- FF2関連商品一覧, last update line 2020/10/4 (page text; Shift-JIS), ゲームブック section row ファイナルファンタジー2 将軍ボーゲンとの死闘, 大陸書房, 1989/1 -- live page of 2026-11-11, visited and audited; archived: TODO
+
 ## Decisions
 
 - Finished 2026-10-14 (user): `helpWanted` removed

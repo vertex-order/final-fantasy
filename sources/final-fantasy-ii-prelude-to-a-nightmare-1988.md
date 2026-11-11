@@ -59,6 +59,10 @@ auctions.yahoo.co.jp (Information; marketplace)
 - Scans: none known; Internet Archive search by title and Maru-Katsu (run by me): nothing relevant
 - Fan translation and fan recap: none known (the novel's fan translation is a different book)
 
+## ff2.s18.xrea.com (Information; とってもかんたんFF2 FF2関連商品一覧, live page of 2026-11-11)
+
+- http://ff2.s18.xrea.com/other/goods.htm -- FF2関連商品一覧, last update line 2020/10/4 (page text; Shift-JIS), no row for the booklet; the closing note on the page says magazine supplements of the era included, for マル勝, New Year cards and manga by 岡崎武士, no title given -- live page of 2026-11-11, visited and audited; archived: TODO
+
 ## Decisions
 
 - Own entry with `helpWanted` (user, 2026-10-19): the booklet is a separate printed item; the entry says only that the novel has a part with the same title

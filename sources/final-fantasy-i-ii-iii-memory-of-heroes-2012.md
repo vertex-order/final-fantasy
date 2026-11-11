@@ -98,4 +98,8 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
 
 - https://www.fukkan.com/fk/VoteDetail?no=57309 -- reprint request no. 57309, registered 2013/02/25: 小説FINAL FANTASY　I　II　III　Memory of Heroes; author field 梅竹崇; publisher field スクウェア・エニックス; genre 文芸書; ISBN 9784757537750; 1 vote comments
 
+## ff2.s18.xrea.com (Information; とってもかんたんFF2 FF2関連商品一覧, live page of 2026-11-11)
+
+- http://ff2.s18.xrea.com/other/goods.htm -- FF2関連商品一覧, last update line 2020/10/4 (page text; Shift-JIS), その他の書籍 section row 小説 FINAL FANTASY I・II・III Memory of Heroes, スクウェア・エニックス, 2012/10/31 (added to the page 2012/09/14) -- live page of 2026-11-11, visited and audited; archived: TODO
+
 ## Decisions

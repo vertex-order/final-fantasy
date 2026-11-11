@@ -101,4 +101,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーII#関連商品 -- gamebook 勝利への旅立ち listed among the gamebooks: Tokuma Shoten, 1988-12 -- accessed 2026-11-09 (revision 110746553 of 2026-08-23; wikitext read through the MediaWiki API); archived: TODO
 
+## ff2.s18.xrea.com (Information; とってもかんたんFF2 FF2関連商品一覧, live page of 2026-11-11)
+
+- http://ff2.s18.xrea.com/other/goods.htm -- FF2関連商品一覧, last update line 2020/10/4 (page text; Shift-JIS), ゲームブック section row ファイナルファンタジー2 勝利への旅立ち, 徳間書店, 1988/12 -- live page of 2026-11-11, visited and audited; archived: TODO
+
 ## Decisions

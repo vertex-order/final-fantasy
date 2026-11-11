@@ -118,6 +118,10 @@ ffii-book.tumblr.com (Information; fan translation)
 
 - https://www.fukkan.com/fk/VoteDetail?no=3853 -- reprint request no. 3853, registered 2001/05/06: ファイナルファンタジーII 夢魔の迷宮; author field 寺田憲史著; publisher field 角川書店; genre エンタメ; ISBN 9784044106041; 25 vote comments
 
+## ff2.s18.xrea.com (Information; とってもかんたんFF2 FF2関連商品一覧, live page of 2026-11-11)
+
+- http://ff2.s18.xrea.com/other/goods.htm -- FF2関連商品一覧, last update line 2020/10/4 (page text; Shift-JIS), その他の書籍 section row 小説 ファイナルファンタジー2 夢魔の迷宮, 角川書店, 1989/4 (agrees with the infobox month of the Final Fantasy Wiki; the publisher page says 1989-03-20); related-goods details page http://ff2.s18.xrea.com/other/books.htm for author, size, pages and ISBN -- live page of 2026-11-11, visited and audited; archived: TODO
+
 ## Decisions
 
 - Amano is not credited in `by` (user, 2026-10-15): it is a novel, and a few illustrations do not warrant an "illustrated by" the way a manga's art does, though both KADOKAWA and the wiki name him as the illustrator
