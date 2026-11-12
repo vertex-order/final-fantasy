@@ -143,6 +143,10 @@ other catalogs, 2026-10-16: checked by user, no other language: Spain's BNE (htt
 myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
 - https://myanimelist.net/manga/97987/Final_Fantasy_XI -- Final Fantasy XI (ファイナルファンタジーXI), MyAnimeList id 97987, type Light Novel, 31 volumes, 170 chapters, Finished, 2002-12-20 to 2009-10-30, genres Adventure and Fantasy, no serialization, story Miyabi Hasegawa, art Eiji Kaneda and Fumio Minagawa, no score, popularity rank 80207, 29 members, 0 favourites; no synopsis; the volume count is the Japanese series, against the 11 volumes LibraryThing lists -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 11 Pocketbook novels (33 novels by Miyabi Hasegawa)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Section title: LibraryThing's English series name, "Final Fantasy XI Novels"

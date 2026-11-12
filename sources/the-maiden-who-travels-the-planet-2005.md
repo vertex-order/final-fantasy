@@ -82,6 +82,10 @@ wikipedia.org (Information)
 
 - https://en.wikipedia.org/wiki/Final_Fantasy_VII#Related_media_and_merchandise -- Maiden Who Travels the Planet named as a release not under the Compilation label, following Aerith's journey in the Lifestream after her death, concurrent with the second half of the original game -- accessed 2026-11-09 (revision 1384600092 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 7 星を巡る乙女 (FF7 Ultimania Ω short story)" under Square-Enix core, original works, unofficially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - The Spanish language row is a fan translation (user, 2026-10-16): a self-published print (Independently published, 2018, ISBN 978-1977014238) of the translator's own version, with no Square Enix licence and no official publisher

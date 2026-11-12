@@ -40,4 +40,8 @@
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_-Will-#Cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4006731 of 2026-05-02; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_X_-Will-#Cast); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 10-2 Will (audio drama sequel)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

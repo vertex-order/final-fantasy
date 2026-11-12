@@ -47,4 +47,8 @@ breezewiki.com (Information)
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーIV#関連商品 -- 小説: published by Square Enix in two volumes on 2008-12-25 (上巻 ISBN 978-4-7575-2458-3, 下巻 978-4-7575-2459-0); original plan and supervision 時田貴司, text 手塚一郎, illustrations オグロアキラ -- accessed 2026-11-09 (revision 111593793 of 2026-10-31; wikitext read through the MediaWiki API); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 4 (2-volume novelization)" under Square-Enix core, adaptations, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

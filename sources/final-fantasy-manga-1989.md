@@ -101,4 +101,8 @@ finalfancast.com (Information, secondary: a podcast's book list, not a primary s
 
 - https://www.fukkan.com/fk/VoteDetail?no=56119 -- reprint request no. 56119, registered 2012/09/12: ファイナルファンタジー (宝島コミックス); author field 海明寺裕; publisher field 宝島社; genre コミック・漫画; ISBN 9784880637440; 2 vote comments
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy (FF1 1989 manga)" under Square-Enix core, adaptations, unofficially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

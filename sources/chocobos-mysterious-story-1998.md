@@ -98,6 +98,10 @@ Tags: `used` · `dup` · `mine` · `empty` · `shallow`
 
 - https://www.fukkan.com/fk/VoteDetail?no=55687 -- reprint request no. 55687, registered 2012/07/22: チョコボのふしぎものがたり; author field かとうひろし; publisher field 小学館; genre コミック・漫画; ISBN 9784091422545 9784091422552 9784091422569 9784091422576 9784091422583 9784091422590; 8 vote comments
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Chocobo Mystery Dungeon チョコボのふしぎものがたり (manga adaptation of 1 and 2)" under Square-Enix core, adaptations, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Author romanization: "Hiroshi Kato" over "Katou" (Goodreads, MangaDex, TV Tropes, Anime-Planet, Amazon) — "kato" is what he uses on three of his official handles and URLs (X, note.com/note.mu, YouTube).

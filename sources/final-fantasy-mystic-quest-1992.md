@@ -224,4 +224,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Mystic_Quest#Exte
   - Release table: Final Fantasy Mystic Quest SNES 1992-10-05 (US); Final Fantasy USA: Mystic Quest Super Famicom 1993-09-10 (JP); Mystic Quest Legend (Europe); Wii Virtual Console 2010-12-21 (JP) and 2010-10-18 (US); Wii U Virtual Console 2014-04-16
   - Europe's title avoided confusion with Mystic Quest, the Final Fantasy Adventure release there; first Final Fantasy released in Europe
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Mystic Quest (manga adaptation by Yoshihiko Ochi 1993)" under Square-Enix core, adaptations, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

@@ -55,4 +55,8 @@ imdb.com (Ratings)
 - https://www.rottentomatoes.com/m/brave_father_online_our_story_of_final_fantasy_xiv -- result row "Brave Father Online: Our Story of Final Fantasy XIV", year 2019, no Tomatometer shown -- accessed 2026-11-11; archived: TODO
 - https://www.rottentomatoes.com/m/brave_father_online_our_story_of_final_fantasy_xiv -- title page: 0 critic reviews and 0 audience ratings, no score shown; year 2019 -- accessed 2026-11-11 (fetched by me); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 14 Brave Father Online Our Story of FFXIV (film)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

@@ -132,4 +132,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - https://www.thevideogamelibrary.org/book/final-fantasy-xiv-chronicles-of-light -- FINAL FANTASY XIV: CHRONICLES OF LIGHT; credits N/A; genre tag MMO RPG; editions: English hardcover ISBN 9781646091850, 2022, 224p; German hardcover ISBN 9783753936642, 2025, 240p -- accessed 2026-11-11; archived: TODO
   - https://www.thevideogamelibrary.org/book/final-fantasy-xiv-chronicles-of-light-ii -- FINAL FANTASY XIV: CHRONICLES OF LIGHT II; credits N/A; genre tag MMO RPG; editions: Japanese paperback ISBN 9784757599826, 2025, 398p; Japanese ebook no ISBN, 2025, 398p; English hardcover ISBN 9781646094196, 2025, 304p; English ebook no ISBN, 2025, 304p; German hardcover ISBN 9783753936673, 2025, 160p -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 14 Side Stories/Chronicles of Light I/II (91 short stories)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

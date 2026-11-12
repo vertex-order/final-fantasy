@@ -104,4 +104,8 @@ wikipedia.org (Information)
 
 - https://www.fukkan.com/fk/VoteDetail?no=58282 -- reprint request no. 58282, registered 2013/07/23: ファイナルファンタジー零式; author field 塩沢天人志、千葉広樹、野村哲也; publisher field スクウェア・エニックス; genre コミック・漫画; ISBN 9784757535534; 1 vote comments
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Type-0 (manga)" under Square-Enix core, adaptations, unofficially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

@@ -43,4 +43,8 @@ youtube.com (Information)
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_~Tabidatsu_Mono,_Nokoru_Mono~#Cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3872423 of 2024-11-16; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV_Prologue_~Tabidatsu_Mono,_Nokoru_Mono~#Cast); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 15 Prologue Parting Ways (web novel based on JP audio drama)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

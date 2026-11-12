@@ -131,4 +131,8 @@ goodreads.com (Ratings)
 
 - https://www.fukkan.com/fk/VoteDetail?no=70077 -- reprint request no. 70077, registered 2020/08/29: ファイナルファンタジー・クリスタルクロニクル はてなき空の向こうに 全3巻; author field 壱河柳乃助; publisher field スクウェア・エニックス; genre コミック・漫画; ISBN 9784757512344 9784757513686 9784757514553; 3 vote comments
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Crystal Chronicles はてなき空の向こうに (manga)" under Square-Enix core, adaptations, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

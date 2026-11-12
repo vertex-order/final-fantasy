@@ -39,6 +39,10 @@ tumblr.com (Information; fan translation)
 amazon.com (Retailer)
 - https://www.amazon.com/gp/product/1646090845 -- World Preview, English, Square Enix Books, hardcover, published September 22, 2020, 136 pages, ISBN-13 9781646090846, 4.5 from 1,054 ratings -- accessed 2026-10-30 (pasted by the user)
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 7 Picturing the Past (FF7 Remake World Preview short story)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Listed as its own entry, not merged into Traces of Two Pasts (user, 2026-10-17): it first appeared in the World Preview mook in 2020 and is reprinted in the English Traces, so the entry names both places to find it (two `book` rows) and the Traces entry's description mentions it

@@ -44,4 +44,8 @@ goodreads.com (Information)
 - The audiobook row stays a YouTube search marked no results: no fan audiobook has been found for this novella, and the entry needs a sourced link before it changes (compare The Maiden Who Travels The Planet, whose wiki page lists one)
 - The recap is the wiki's `#Story` (a real summary, per the user); `length` stays `6 chapters`
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 13 外伝小説 夢見る繭、暁に墜つ (FF13 Ultimania Omega short story)" under Square-Enix core, original works, unofficially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

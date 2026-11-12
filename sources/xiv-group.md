@@ -57,6 +57,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - Dad of Light drama and film are now entries; the blog and a Kodansha book edition (page gone) are leads
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 14 Encyclopædia Eorzea I, II, III (lorebooks)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - **Not to be listed: Final Fantasy XIV: Libra Eorzea (user, 2026-10-20):** a free smartphone app by Square Enix (ファイナルファンタジーXIV: ライブラ エオルゼア), iOS 2013-09-10 and Android 2013-11-01 in all regions, giving offline access to the official XIV database and a character profile viewer for gear and attributes; discontinued 2019-04-23 and supplanted by the Final Fantasy XIV Companion

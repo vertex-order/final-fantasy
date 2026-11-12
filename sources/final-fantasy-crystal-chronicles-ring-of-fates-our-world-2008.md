@@ -68,4 +68,8 @@ goodreads.com (Ratings)
 
 - NDL records · Amazon.co.jp · fan translation
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Crystal Chronicles Ring of Fates 僕らの世界 (2 books)" under Square-Enix core, adaptations, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

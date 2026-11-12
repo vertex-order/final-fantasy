@@ -96,4 +96,8 @@ netflix.com (Streaming)
 - https://www.rottentomatoes.com/tv/final_fantasy_xiv_dad_of_light -- result row "Final Fantasy XIV: Dad of Light", start year 2017, Tomatometer 100%; the row shows no audience score -- accessed 2026-11-11; archived: TODO
 - https://www.rottentomatoes.com/tv/final_fantasy_xiv_dad_of_light -- title page: Tomatometer (critics) 100% from 6 reviews; Popcornmeter (audience) 75% from fewer than 50 ratings; one season, 2017-09-01; TV-PG -- accessed 2026-11-11 (fetched by me); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 14 Dad of Light (tv drama)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

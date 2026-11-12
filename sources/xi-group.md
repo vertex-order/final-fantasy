@@ -25,6 +25,11 @@ Novel series: see `xi-novels-group.md` (ja.wikipedia Famitsu Bunko page, Library
 
 - https://myanimelist.net/anime/64218/Bouken_wa_Tsuzuiteiru -- Bouken wa Tsuzuiteiru. (English title Our Adventure Never Ends.), MyAnimeList id 64218, Japanese title 冒険は続いている。FINAL FANTASY XI 24th Anniversary Movie, synonym Final Fantasy XI 24th Anniversary Movie, type Special, 1 episode of 1 min, aired 2026-05-15, no producer or studio listed, source Game, genre Fantasy, rating PG-13, no score yet, popularity rank 30284, 79 members, 0 favourites -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 11 公式設定資料集 Life in Vana'diel (book)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 11 Vana’diel Tribune Chronicles (book, in-universe newspaper. I 00-17, III are JP only apparently?)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - **Vol.3 世界編 (電撃の旅団編 ヴァナ・ディール公式ワールドガイド Vol.3 世界編, 2005-09-30, ISBN 9784840229708) is not to be listed** (user, 2026-10-17): it has no four-panel comics, only maps and data (Amazon.co.jp reviews from 2005 say the 4-koma are missing and the book itself noted it)

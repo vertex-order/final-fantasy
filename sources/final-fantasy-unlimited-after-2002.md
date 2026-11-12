@@ -56,4 +56,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - https://www.fukkan.com/fk/VoteDetail?no=23280 -- reprint request no. 23280, registered 2004/03/25: ファイナルファンタジー：アンリミテッドアフター～外界の章～; author field 片桐笙（著）、スクウェア（著）、中澤一登（イラスト）; publisher field デジキューブ; genre エンタメ; ISBN 9784887870352; 59 vote comments
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Unlimited After (book+manga+script)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

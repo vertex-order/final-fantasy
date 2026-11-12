@@ -156,6 +156,10 @@ wikipedia.org (Information)
 
 - https://www.fukkan.com/fk/VoteDetail?no=58283 -- reprint request no. 58283, registered 2013/07/23: ファイナルファンタジー零式外伝 氷剣の死神; author field 塩沢天人志、野村哲也; publisher field スクウェア・エニックス; genre コミック・漫画; ISBN 9784757537262 9784757538566 9784757539631; 2 vote comments
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Type-0 Side Story The Ice Reaper (manga)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - No `contents[]` list (user, 2026-10-15): the five volumes have no titles beyond their numbers, the book platform already links the Goodreads series page that lists all five, and a part carries one link while the book has six language editions

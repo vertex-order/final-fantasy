@@ -365,6 +365,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/King's_Knight_-Wrath_of_the_Dar
 - the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
   - King's Knight: Wrath of the Dark Dragon: Android / Apple iOS, 2017-09-13, score ---
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "King's Knight クレア姫を救え！ (gamebook)" under Square-Enix miscellaneous, adaptations, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Not listing the 1999 manga Susume!! Seigaku Dennou Kenkyuubu (Kouta Hirano, Gamest Comics): the retcon into the Final Fantasy XV universe belongs to the 2017 mobile game, King's Knight itself is already only a tie-in curiosity, and the manga is a computer-club comedy covering several games, not an adaptation (user, 2026-10-14)

@@ -119,6 +119,10 @@ wikipedia.org (Information)
 - Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
   - https://www.thevideogamelibrary.org/book/final-fantasy-xiii-2-fragments-before -- FINAL FANTASY XIII-2: FRAGMENTS BEFORE; credits Jun Eishima, Motomu Toriyama, Daisuke Watanabe; genre tag RPG; editions: Japanese paperback ISBN 9784757534667, 2011, 224p; German paperback ISBN 9783833228636, 2014, 288p; French paperback ISBN 9782371020535, 2015, 245p; English paperback ISBN 9781975382377, 2019, 176p -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 13-2 Fragments Before (novel)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Release-date order: `titleDate` is `2011-12-15 10` and the XIII-2 game is `2011-12-15 20`; both released December 15, 2011, and the number suffix puts the book first in release-date and absolute-release-date modes.

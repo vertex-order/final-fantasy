@@ -47,4 +47,8 @@ wikipedia.org (Information)
 
 - https://www.fukkan.com/fk/VoteDetail?no=54207 -- reprint request no. 54207, registered 2011/11/14: FF:U After Spiral; author field 片桐笙、スクウェア; publisher field スクウェア; genre エンタメ; ISBN none; 10 vote comments; the request says the story was serialized on the official site and ended unfinished when the site closed; it is the sequel to 外界の章 and has no ISBN
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Unlimited After Spiral (series of web novels)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

@@ -147,4 +147,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/War_of_the_Visions:_Final_Fanta
 - the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
   - War of the Visions: Final Fantasy Brave Exvius: Android / Apple iOS, 2019-11-14, score ---
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Brave Exvius WAR OF THE VISIONS Tales of Part 1 Personages Hyakka Jouran (book)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

@@ -104,6 +104,10 @@ jacket and cover scans (seen by user, from the Reddit post)
 
 - https://www.fukkan.com/fk/VoteDetail?no=3847 -- reprint request no. 3847, registered 2001/05/06: ゲームブック ファイナルファンタジー クリスタル継承伝説; author field なし; publisher field 勁文社; genre エンタメ; ISBN 9784766906691; 10 vote comments
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 1 クリスタル継承伝説 (gamebook)" under Square-Enix core, adaptations, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Ordering (user, 2026-10-19): chronologically before Stranger of Paradise, narratively after its DLC

@@ -123,6 +123,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Blurb: "The transfer student is a Mithra Ninja, Vana'diel athletic meet, Tarutaru boss, here we come! Fujio's secret, Love lunch box, and the Utsusemi of Love!"
   - Also carries a separate series "Daddy is a Warrior 75" by a games writer
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 11 恋の空蝉1・2・3 (manga in 5th Anniversary Vana'diel Memoirs/Vana'diel Tsūshin/Fumio Minagawa Illustrations)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Folded 2026-10-14 (user): the Minagawa book is no longer a `versions[]` item

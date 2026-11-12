@@ -100,4 +100,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - Resolved 2026-10-14 from NDL: length 42 pages (26cm), date 1994-12, circle; `helpWanted` removed. The archived dragonzord.net pages are a dead end (see above) -- mine
 - The fandom page is the entry's only descriptive source; the livejournal post is a fan read of the same book -- used
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 6 フィガロの結婚 Tales from Desert (doujinshi but by game writer; extremely rare and maybe lost)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

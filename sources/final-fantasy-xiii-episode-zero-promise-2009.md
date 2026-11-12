@@ -217,4 +217,10 @@ goodreads.com (Information)
 - Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
   - https://www.thevideogamelibrary.org/book/final-fantasy-xiii-episode-zero-promise -- FINAL FANTASY XIII: EPISODE ZERO - PROMISE; credits Jun Eishima, Motomu Toriyama, Daisuke Watanabe; genre tag RPG; editions: Japanese paperback ISBN 9784757527706, 2009, 320p; English paperback ISBN 9781975382407, 2019, 208p -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 13 Episode Zero Promise (web novellas)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 13 Real Reality (bonus story only on drama CD version of Episode 0; titled Fabula Nova Dramatica Alpha)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 13 Departure Starting (bonus story only on drama CD version of Episode 0; titled Fabula Nova Dramatica Omega)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

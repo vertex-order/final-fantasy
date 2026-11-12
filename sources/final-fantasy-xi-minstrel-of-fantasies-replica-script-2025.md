@@ -77,6 +77,10 @@ duckduckgo.com (Information)
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#朗読劇 -- 朗読劇 ファイナルファンタジーXI 夢幻のウタイビト: two performances (day and night) on 2025-03-01 at 横浜市教育会館 Hall, with part of the scenario differing by performance; supervised by the FFXI team, scenario by 高橋玖 and Miyabi Hasegawa, a story never told in the game; director 小暮邦明, script 早川康介, cast 加藤英美里, 浅川悠, 河西健吾, ランズベリー・アーサー -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 11 夢幻のウタイビト (stage reading)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Finished 2026-10-14 (user): `helpWanted` removed

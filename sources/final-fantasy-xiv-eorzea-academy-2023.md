@@ -99,4 +99,8 @@ goodreads.com (Information)
 - Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
   - https://www.thevideogamelibrary.org/book/final-fantasy-xiv-eorzea-academy -- FINAL FANTASY XIV: EORZEA ACADEMY; credits Esora Amaichi; genre tag Manga; editions: Japanese paperback ISBN 9784757583801, 2023, 192p; English paperback ISBN 9781646092352, 2023, 192p; English ebook no ISBN, 2023, 192p -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 14 Eorzea Academy (manga)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

@@ -12,6 +12,10 @@
 
 - https://www.themoviedb.org/movie/1293927-beyond-final-fantasy -- Beyond Final Fantasy, a bonus DVD included with the International and PAL versions of Final Fantasy X: developer interviews, interviews with the English voice actors James Arnold Taylor (Tidus) and Hedy Burress (Yuna), trailers for Final Fantasy X and Kingdom Hearts, a concept and promotional art gallery, and a music video of "Suteki da ne" performed by Rikki; original language English, status Released, no year, runtime, genres or crew shown; TMDB id 1293927 -- accessed 2026-11-10; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 10 World Guide エボンの教えとスピラの人々 (book with short stories)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Not listed (user, 2026-11-10): Beyond Final Fantasy (bonus DVD of the International and PAL Final Fantasy X, interviews, trailers, an art gallery and a music video); behind-the-scenes and developer content is not entertaining on its own (docs/data.md, "What belongs on a list"); TMDB page above

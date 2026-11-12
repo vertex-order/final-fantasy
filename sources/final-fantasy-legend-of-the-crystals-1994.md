@@ -104,6 +104,10 @@
 - https://thefinalfantasy.net/ff5/re-releases.html -- accessed 2026-11-11 (saved page read); archived: TODO
   - Described as an original video animation sequel to Final Fantasy V set two hundred years after the game; Madhouse; four 30-minute VHS tapes in Japan (1994); localized by Urban Vision in 1998 as two VHS volumes in North America
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 5 Legend of the Crystals (anime)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Episode parts (user, 2026-10-19): the four chapters are `contents` parts, for the planned per-part tracking

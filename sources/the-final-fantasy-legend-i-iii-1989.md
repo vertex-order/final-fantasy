@@ -471,4 +471,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/The_Final_Fantasy_Legend#Extern
   - Legend II re-released in Japan on Nintendo DS in 2009 with upgraded graphics; ranked in the top 100 in a 2006 Famitsu poll; eight characters, the "Magi"
   - Legend III: sci-fi and fantasy, time travel in the Talon, director Chihiro Fujioka
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "SaGa 魔界塔士Sa・Ga 冒険者たちのレクイエム (gamebook)" under Square-Enix core, adaptations, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

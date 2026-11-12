@@ -141,4 +141,9 @@ duckduckgo.com (Information)
 
 - https://www.fukkan.com/fk/VoteDetail?no=70073 -- reprint request no. 70073, registered 2020/08/29: 小説 ファイナルファンタジー・クリスタルクロニクル; author field 梅村崇; publisher field スクウェア・エニックス; genre エンタメ; ISBN 9784757510968; 1 vote comments
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Crystal Chronicles Chiisana Mura no Nendaiki (novel; might be an adaptation?)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Crystal Chronicles Memories Like the Sunshine (FFCC World Ultimania short story)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

@@ -859,5 +859,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_V#External_links
 - https://thefinalfantasy.net/ff6/ -- Final Fantasy VI overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Final Fantasy Collection [4, 5 & 6]: PlayStation, JP 1999-03-11, US -
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 5 チョコチョコボンボン (gag manga, but technically a prequel)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 - Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV#%E6%94%BB%E7%95%A5%E6%9C%AC)

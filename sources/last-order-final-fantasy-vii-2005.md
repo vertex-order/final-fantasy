@@ -88,4 +88,9 @@
 - https://www.rottentomatoes.com/m/last-order-final-fantasy-vii -- result row "Last Order: Final Fantasy VII", year 2005, no Tomatometer shown -- accessed 2026-11-11; archived: TODO
 - https://www.rottentomatoes.com/m/last-order-final-fantasy-vii -- title page: 0 critic reviews, no Tomatometer; Popcornmeter (audience) 84% from 10,000+ ratings, average 4.1/5; year 2005 -- page saved by the user on 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 7 Last Order (anime)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- reply of 2026-03-24 (the thread author, quoting the Final Fantasy Wiki): the anime was "included in the North American 'Limited Edition Collector's Set' of Advent Children"; reply of 2026-03-28 (another member): Last Order has an official subtitle, on that collector's edition -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

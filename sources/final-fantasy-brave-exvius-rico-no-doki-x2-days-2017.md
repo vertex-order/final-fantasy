@@ -52,6 +52,10 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_global -- app listed in the developer page captures of 2023-01-07, 2024-02-02, 2025-01-17, 2026-01-05 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20230107180705/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20260105211845/https://play.google.com/store/apps/dev?id=8026010256970589886
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Brave Exvius リコドキッ！(manga)" under Square-Enix core, original works, unofficially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - No entry yet (user, 2026-10-16): a source file only, with the research on the plan; the author, original venue, end date and any collected volume are unknown

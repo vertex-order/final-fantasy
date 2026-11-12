@@ -106,4 +106,8 @@
 - https://thefinalfantasy.net/ff15/game-editions.html -- accessed 2026-11-11 (saved page read); archived: TODO
   - The Ultimate Collector's Edition includes the Brotherhood Blu-ray with an additional bonus scene
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 15 Brotherhood (anime)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

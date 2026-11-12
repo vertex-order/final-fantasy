@@ -141,4 +141,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII#Manga
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXII#コミック版 -- an official FF comic that follows the manga of Final Fantasy, 悠久の風伝説 ファイナルファンタジーIIIより, チョコチョコボンボン and the unfinished ファイナルファンタジーXI; serialised from ガンガンパワード No.1 (June 2006, the first issue after it became bimonthly), moved on 2009-04-23 to the web comic site ガンガンONLINE when the magazine ceased in February 2009, and finished with chapter 19 on 2009-06-25; art 天羽銀; the story starts in the middle of the game at the Nam-Yensa Sandsea; it inserts developments not in the game, and Square Enix has made no official statement (as of 2023-01) on whether they are supervised official settings -- accessed 2026-11-09 (revision 111444197 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 12 (manga)" under Square-Enix core, adaptations, unofficially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

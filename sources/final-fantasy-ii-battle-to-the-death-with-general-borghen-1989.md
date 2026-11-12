@@ -56,6 +56,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - http://ff2.s18.xrea.com/other/goods.htm -- FF2関連商品一覧, last update line 2020/10/4 (page text; Shift-JIS), ゲームブック section row ファイナルファンタジー2 将軍ボーゲンとの死闘, 大陸書房, 1989/1 -- live page of 2026-11-11, visited and audited; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 2 将軍ボーゲンとの死闘! (gamebook)" under Square-Enix core, adaptations, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Finished 2026-10-14 (user): `helpWanted` removed

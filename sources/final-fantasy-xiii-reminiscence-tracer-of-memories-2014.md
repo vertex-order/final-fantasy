@@ -99,6 +99,10 @@ wikipedia.org (Information)
 - A Square Enix member blog post, https://mypage.member.jp.square-enix.com/1913468/blog/detail/224436 — seen in search, not opened — mine
 - Other pages seen in search, not opened: https://www.i-mezzo.net/log/2014/06/23000258.html/29140/ (a reader's report on the booklet), https://ameblo.jp/maru1048/entry-11931477581.html
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 13 Reminiscence tracer of memories (novella)" under Square-Enix core, original works, unofficially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - `titleDate` end: July 10, 2014, the finish both blogs give for the Famitsu.com web run, over Dengeki's July 14 repost of episode 10, which is only the earliest dated page showing it online, not when it went up. The RCGS library record's date of 2014-07-03 for the third booklet (https://collection.rcgs.jp/page/RELATEDINSTANCE0022574, in the issue https://collection.rcgs.jp/page/RELATEDINSTANCE0015805) is not trusted for the end: it doesn't say whether the date is the issue's cover date or its on-sale date, nor which episodes the booklet holds. Start: June 3, 2014, the Final Fantasy Wiki's release date, trusted as the earliest date given for the first episode (user's call), over the June 19 Weekly Famitsu issue.

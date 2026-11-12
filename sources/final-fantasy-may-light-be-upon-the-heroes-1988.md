@@ -79,4 +79,8 @@ reddit.com (Information; community)
 
 - https://www.fukkan.com/fk/VoteDetail?no=3846 -- reprint request no. 3846, registered 2001/05/06: ファミコン冒険ブック ファイナルファンタジー 勇者に光あれ！; author field 井上尚美; publisher field 双葉文庫; genre エンタメ; ISBN 9784575760637; 10 vote comments
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 1 勇者に光あれ！(gamebook)" under Square-Enix core, adaptations, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

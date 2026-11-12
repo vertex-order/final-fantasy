@@ -55,6 +55,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 
 - https://www.fukkan.com/fk/VoteDetail?no=54206 -- reprint request no. 54206, registered 2011/11/14: ファイナルファンタジー:アンリミテッド―双の絆―; author field 片桐笙(著), スクウェア(著), 中澤一登(イラスト); publisher field 角川書店; genre エンタメ; ISBN 9784044277017; 4 vote comments
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Unlimited 双の絆 (novel)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Author name: "Syou Katagiri" (片桐笙) over wikipedia's "Sho Katigiri" -- it is the spelling on this edition's own retail and library data (amazon author page, goodreads, with google books giving 片桐笙); the wikipedia romanization is a single source that fandom and otakumode appear to copy, and searching "Sho Katagiri" only reaches the wikipedia article.

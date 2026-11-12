@@ -217,6 +217,11 @@ duckduckgo.com (Information)
 
 - https://www.fukkan.com/fk/VoteDetail?no=58281 -- reprint request no. 58281, registered 2013/07/23: ファイナルファンタジー零式 Change the World -The Answer-; author field 月島総記、『FINAL FANTASY 零式』開発チーム; publisher field スクウェア・エニックス; genre エンタメ; ISBN 9784757535800 9784757536548; 1 vote comments
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Type-0 Change the World The Answer (book, prequel to Penultimate Truth)" under Square-Enix core, adaptations, unofficially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Type-0 Change the World The Penultimate Truth (book, sequel to The Answer)" under Square-Enix core, adaptations, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Order: chronologically before the game and after The Ice Reaper (`chronoOrder` 99950), because the two volumes lead directly into the game's plot (Vol.2's epilogue hands off to the game's opening)

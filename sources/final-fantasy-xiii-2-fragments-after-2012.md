@@ -100,6 +100,10 @@ youtube.com (Information)
 - Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
   - https://www.thevideogamelibrary.org/book/final-fantasy-xiii-2-fragments-after -- FINAL FANTASY XIII-2: FRAGMENTS AFTER; credits Jun Eishima, Motomu Toriyama, Daisuke Watanabe; genre tag RPG; editions: Japanese paperback ISBN 9784757536500, 2012, 242p; German paperback ISBN 9783833228988, 2014, 288p; English paperback ISBN 9781975382384, 2019, 224p -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 13-2 Fragments After (novel)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 ## Surveyed

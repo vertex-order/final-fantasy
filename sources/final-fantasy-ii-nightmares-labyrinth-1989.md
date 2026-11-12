@@ -122,6 +122,11 @@ ffii-book.tumblr.com (Information; fan translation)
 
 - http://ff2.s18.xrea.com/other/goods.htm -- FF2関連商品一覧, last update line 2020/10/4 (page text; Shift-JIS), その他の書籍 section row 小説 ファイナルファンタジー2 夢魔の迷宮, 角川書店, 1989/4 (agrees with the infobox month of the Final Fantasy Wiki; the publisher page says 1989-03-20); related-goods details page http://ff2.s18.xrea.com/other/books.htm for author, size, pages and ISBN -- live page of 2026-11-11, visited and audited; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 2 夢魔の迷宮 (book)" under Square-Enix core, adaptations, unofficially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 2 夢魔の迷宮 (gamebook)" under Square-Enix core, adaptations, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Amano is not credited in `by` (user, 2026-10-15): it is a novel, and a few illustrations do not warrant an "illustrated by" the way a manga's art does, though both KADOKAWA and the wiki name him as the illustrator

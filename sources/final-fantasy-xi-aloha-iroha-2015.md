@@ -38,6 +38,10 @@ tokyo otaku mode (Information; Otapedia, English)
   - also notes the heroine speaks an archaic honorific Japanese
   - no new fact
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 11 Aloha Iroha (PlayOnline 4-panel manga)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 - The platform is the browser icon (`globe`, named Webcomic), not `book` (user, 2026-10-16): it is a free web comic, not a physical book
   - the link stays the Fandom page that lists the official PlayOnline pages (user, 2026-10-16): two web rows with a language suffix would only repeat what the language links do, and a wiki page can come to list translations or other official languages later

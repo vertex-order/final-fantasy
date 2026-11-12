@@ -15,4 +15,8 @@ The print collections of these stories (Chronicles of Light, two volumes) are an
 
 - https://na.finalfantasyxiv.com/lodestone/playguide/#side_storyes -- profile*, platforms* (Official website)
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 14 Side Stories/Chronicles of Light I/II (91 short stories)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

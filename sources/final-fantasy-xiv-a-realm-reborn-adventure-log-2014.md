@@ -42,4 +42,8 @@ famitsu.com (Information)
 
 - The serial has no translation, recap or audiobook found yet: the entry's fan translation, recap and audiobook rows are marked no results — empty
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 14 A Realm Reborn 冒険記 英雄の卵たち (book)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

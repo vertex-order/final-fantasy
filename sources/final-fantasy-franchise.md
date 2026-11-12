@@ -1671,6 +1671,10 @@
 
 - https://www.rottentomatoes.com/search?search=final%20fantasy -- Rotten Tomatoes search for "final fantasy" (address pattern https://www.rottentomatoes.com/search?search=<term>) -- pages saved by the user on 2026-11-11: movies filter (43 results over 5 pages) and TV filter (2 results), visited and audited; Final Fantasy results: the movies Kingsglaive: Final Fantasy XV, Final Fantasy: The Spirits Within, Final Fantasy VII: Advent Children, Brave Father Online: Our Story of Final Fantasy XIV and Last Order: Final Fantasy VII, and the TV show Final Fantasy XIV: Dad of Light; the other results are unrelated titles; no Chocobo result; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference")
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- thread by Tetralesca (first post 2026-03-14, list extended 2026-03-23) listing story-content supplemental media (novels, manga, anime, films, audio dramas, stage works, gamebooks) for Square Enix titles, in three tiers (core, related, miscellaneous), each split into adaptations and original works, each by translation state (officially translated, unofficially translated, no translation); excludes strategy guides, art books, magazines and soundtracks; core tier covers Final Fantasy, Kingdom Hearts, Dragon Quest, Mana, SaGa, Chrono and The World Ends With You; four replies (Shinra Archaeology Department translations; Last Order has an official subtitled release in the North American Advent Children Limited Edition Collector's Set) -- page saved by the user on 2026-11-11, visited and audited; archived: TODO
+
 ## Decisions
 
 Also recorded in the group files named in each item:

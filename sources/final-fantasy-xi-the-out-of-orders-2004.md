@@ -41,6 +41,10 @@ wikipedia.org (Information)
 
 - https://myanimelist.net/manga/28531/Final_Fantasy_XI__The_Out_of_Orders -- Final Fantasy XI: The Out of Orders (FINAL FANTASY XI〜THE OUT OF ORDERS〜), MyAnimeList id 28531, type Manga, volumes unknown, 3 chapters, Finished, 2004-12-03 to 2005-01-07, genres Action and Adventure, demographic Seinen, serialized in Young Gangan, story Sungjae Kim, art Byung Jin Kim, no score, popularity rank 36145, 303 members, 1 favourite; the page says the series was discontinued for undisclosed reasons after a planned fall 2005 continuation was announced -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 11 The Out of Orders (manga)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 - `profileUrl` (user, 2026-10-17): the archived Square Enix magazine back-number page for the first issue, https://web.archive.org/web/20130305015755/http://www.square-enix.co.jp/magazine/yg/backnumber/backnumber001.shtml (Wayback capture of 2013-03-05; page text pasted by the user): 創刊号【2004.12.17号】, **on sale 2004年12月3日**
   - the first issue's cover feature (巻頭カラー) is 「THE OUT OF ORDERS ファイナルファンタジーXI 原作：キム・ソンジェ　作画：キム・ビョンジン」 (story Kim Sung-Jae, art Kim Byung-Jin, which confirms the entry's credits), alongside the other launch series of that magazine (ドラゴンクエスト列伝 ロトの紋章, BAMBOO BLADE, 荒川アンダー ザ ブリッジ and others)

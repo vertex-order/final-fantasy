@@ -81,4 +81,8 @@ goodreads.com (Information)
 - Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
   - https://www.thevideogamelibrary.org/book/final-fantasy-vii-the-kids-are-alright-~-a-turks-side-story -- FINAL FANTASY VII: THE KIDS ARE ALRIGHT ~ A TURKS SIDE STORY; credits Kazushige Nojima; genre tag N/A; editions: English paperback ISBN 9781975382360, 2019, 224p; Japanese paperback ISBN 9784757534674, 2011, 349p -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 7 The Kids Are Alright A Turks Side Story (book)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

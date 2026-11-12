@@ -183,6 +183,10 @@ tokyo otaku mode (Information; Otapedia, English)
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- a manga adaptation of Final Fantasy III in 1992, following the novelization of Final Fantasy II in 1989 -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 3 悠久の風伝説 (manga, 3 volumes; first is unofficially translated)" under Square-Enix core, adaptations, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - `titleDate` is `{ start: '1990', end: '1992-09-04', approx: true }` (user, 2026-10-16): the serialization is known only to the year (ja.wikipedia: 1990 vol.9 to 1992 vol.9, the ninth issue of each year; the magazine was renamed マル勝スーパーファミコン in April 1991), so the start is 1990, and the end is the last volume's publisher date, because the serialization must have finished before its last volume came out (volume 3, 1992-09-04; the volumes are 1991-10-07, 1992-04-17 and 1992-09-04)

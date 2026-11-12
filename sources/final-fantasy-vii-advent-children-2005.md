@@ -135,4 +135,8 @@ rottentomatoes.com (Ratings)
 - https://www.rottentomatoes.com/m/final_fantasy_vii_advent_children -- result row "Final Fantasy VII: Advent Children", year 2004, Tomatometer 50%; the row shows no audience score -- accessed 2026-11-11; archived: TODO
 - https://www.rottentomatoes.com/m/final_fantasy_vii_advent_children -- title page: Tomatometer (critics) 50% from 8 reviews; Popcornmeter (audience) 84% from 100,000+ ratings; header year 2024 (limited theatrical release 2024-02-21, streaming 2016-07-19), Photos label "(2004)" -- accessed 2026-11-11 (fetched by me); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 7 Advent Children (film)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

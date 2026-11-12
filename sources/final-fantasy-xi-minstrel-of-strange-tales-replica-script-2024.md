@@ -97,6 +97,10 @@ duckduckgo.com (Information)
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーXI#朗読劇 -- 朗読劇 ファイナルファンタジーXI 異聞のウタイビト: two performances (day and night) on 2024-02-17 at ところざわサクラタウン Japan Pavilion Hall A; supervised by Square Enix (which also took part as cooperation), planned by KADOKAWA and KADOKAWA Game Linkage, organised by KADOKAWA; the scenario was written for this performance by staff who had worked on the FFXI scenario, under FFXI team supervision and Famitsu and Dengeki production; director 早川康介, script 高橋玖 and Miyabi Hasegawa, cast 加藤英美里, 浅川悠, 佐々木望, 白熊寛嗣 -- accessed 2026-11-09 (revision 109759274 of 2026-05-31; wikitext read through the MediaWiki API); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 11 異聞のウタイビト (stage reading)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Finished 2026-10-14 (user): `helpWanted` removed

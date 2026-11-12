@@ -36,4 +36,8 @@
 
 - https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜#続編 -- listed in the sequel section as a work that continues the story left unresolved when the series was cut to 25 episodes after Square withdrew as sponsor in March 2002: the drama CD FF:U After 2: リサ～たちきられたくさり -- accessed 2026-11-09 (revision 111204422 of 2026-09-29; wikitext read through the MediaWiki API); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Unlimited After 2 (audio drama)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

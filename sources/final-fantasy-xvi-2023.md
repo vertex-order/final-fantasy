@@ -353,6 +353,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XVI#External_link
 - the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Final Fantasy XVI [16]: Playstation 5, 2023-08-07, score *Unofficial
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 16 Takarazuka Revue Musical (seems like it was indefinitely postponed and hasn't happened yet)" under Square-Enix core, adaptations, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 16 Logos The World of Final Fantasy XVI (lorebook)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 - Not listed (assistant's call, pending the user's review): the art books and the lore book named in https://en.wikipedia.org/wiki/Final_Fantasy_XVI#Related_media; none is entertaining on its own (docs/data.md, "What belongs on a list")
   - The Art of Final Fantasy XVI — Square Enix, 2023 (Japan), 2024 (West)

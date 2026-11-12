@@ -37,4 +37,8 @@
 
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_Unlimited_Before#Cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3923645 of 2025-04-21; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy:_Unlimited_Before#Cast); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Unlimited Before (audio drama)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

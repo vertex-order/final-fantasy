@@ -379,4 +379,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Dissidia_Final_Fantasy#Titles
 - the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Dissidia Final Fantasy NT: Playstation 4, 2018-01-11, score ---
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Dissidia Final Fantasy Secretum 秘密 (stage reading tie-in to NT)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

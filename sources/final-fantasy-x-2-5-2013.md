@@ -93,4 +93,8 @@ goodreads.com (Information)
 
 - https://www.fukkan.com/fk/VoteDetail?no=59025 -- reprint request no. 59025, registered 2013/12/29: 小説 FINAL FANTASY X-2.5～永遠の代償～; author field 野島一成; publisher field スクウェア・エニックス; genre 文芸書; ISBN 9784757541573; 1 vote comments
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 10 X-2.5 永遠の代償 (book)" under Square-Enix core, original works, unofficially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

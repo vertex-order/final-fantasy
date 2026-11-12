@@ -103,4 +103,8 @@ breezewiki.com (Information)
 - Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
   - https://www.thevideogamelibrary.org/book/final-fantasy-xv-the-dawn-of-the-future -- FINAL FANTASY XV: THE DAWN OF THE FUTURE; credits Jun Eishima, Stephen Kohler; genre tag N/A; editions: English hardcover ISBN 9781646090006, 2020, 384p; English ebook no ISBN, 2020, 384p -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 15 Dawn of the Future (novel)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

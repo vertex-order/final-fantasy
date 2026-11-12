@@ -22,4 +22,8 @@
 
 - https://en.wikipedia.org/wiki/Final_Fantasy:_Unlimited#Related_media -- FF:U Voice Theater - Fabula no Ikai e no Sasoi (Fabula's Invitation to the Other World): a serial audio drama for subscribers of TV Tokyo's Anime-X service on i-mode, 10 episodes released monthly from 2002-01-15, conducted by Yoshitomo Yonetani with Kikuko Inoue again voicing Fabula; compiled and released on 2002-09-30 on CD-ROM for Windows and iMac G3 -- accessed 2026-11-09 (revision 1379290309 of 2026-10-09; wikitext read through the MediaWiki API); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Unlimited Voice Theater (audio drama)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

@@ -64,5 +64,9 @@
 
 - https://myanimelist.net/anime/38664/Final_Fantasy_XV__Episode_Ardyn_-_Prologue -- Final Fantasy XV: Episode Ardyn - Prologue, MyAnimeList id 38664, Japanese title FINAL FANTASY XV EPISODE ARDYN - PROLOGUE, French title La Chronique D'ardyn, type ONA, 1 episode of 13 min, aired 2019-02-17, producer Square Enix, studio Satelight, source Game, genre Action, rating PG-13, score 6.60, popularity rank 6684, 13,079 members, 9 favourites -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 15 Episode Ardyn Prologue (anime)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 - The `Free` tag was added (user, 2026-10-17): the episode is free on YouTube with English subtitles; the platform row already links the official video directly

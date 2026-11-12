@@ -83,6 +83,10 @@ goodreads.com (Information)
 - Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
   - https://www.thevideogamelibrary.org/book/chocobo-and-the-airship-a-final-fantasy-picture-book -- CHOCOBO AND THE AIRSHIP: A FINAL FANTASY PICTURE BOOK; credits Kazuhiko Aoki, Toshiyuki Itahana; genre tag RPG; editions: English hardcover ISBN 9781646092031, 2023, 40p -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Chocobo and the Airship (picture book)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - No `by` credit on picture books: too little plot or art for authorship to drive anyone's choice. Names recorded under `## Author` where known.

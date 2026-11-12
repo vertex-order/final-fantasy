@@ -205,6 +205,10 @@ tokyo otaku mode (Information; Otapedia, English)
 - Tagged Tie-in and described as "set in the world of" Brave Exvius: a yonkoma with an original character, not a retelling of the game — the user's call, 2026-10-11
 - The book platform is a DuckDuckGo search on the Japanese title as the publisher writes it (`FINAL FANTASY BRAVE EXVIUS リコドキッ！`, from the Square Enix store page)
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Brave Exvius リコドキッ！(manga)" under Square-Enix core, original works, unofficially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - The predecessor 「リコのドキ×2 DAYS」 has its own source file, sources/final-fantasy-brave-exvius-rico-no-doki-x2-days-2017.md, and no entry yet (user, 2026-10-16)

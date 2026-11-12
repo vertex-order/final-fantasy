@@ -49,4 +49,8 @@ press.na.square-enix.com (Publisher, English press release)
 - Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
   - https://www.thevideogamelibrary.org/book/final-fantasy-vii-rebirth-dear-destiny -- FINAL FANTASY VII: REBIRTH - DEAR DESTINY; credits Kazushige Nojima; genre tag N/A; editions: Japanese paperback ISBN 9784301002963, 2026, TBD -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 7 Rebirth Traces of Two Pasts – Dear Destiny (book, EN translation announced)" under Square-Enix core, original works, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

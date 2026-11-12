@@ -72,4 +72,8 @@ duckduckgo.com (Information)
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV#%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2 -- Final Fantasy XIV: A Realm Reborn Adventure Log -Heroes' Eggs- (新生エオルゼア冒険記 -英雄の卵たち-), a play-diary style reading serialised on the game and entertainment information site Famitsu.com, by Miyabi Hasegawa (who also wrote the novelization), released 2014-09-19 -- accessed 2026-11-10 (revision 111604940 of 2026-11-01; wikitext read through the MediaWiki API); archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy 14 A Realm Reborn 冒険記 英雄の卵たち (book)" under Square-Enix core, original works, no translation -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
