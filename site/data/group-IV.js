@@ -157,6 +157,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
     },
     alts: [
       {
+        id: 'final-fantasy-iv-3d-remake-2007',
         subtitle: '3D Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)', subtitleDate: 2014,
         length: '30½h / 39h / 73h',
         languages: [
@@ -265,6 +266,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
     },
     alts: [
       {
+        id: 'final-fantasy-iv-the-novel-fan-project-2002',
         title: 'Final Fantasy IV: The Novel ~Fan Project~', titleUrl: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel', titleDate: 2002,
         length: '27 chapters',
         languages: [
@@ -276,7 +278,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
         versionDesc: [
           [
             { text: 'Fan novelization of ' },
-            { emLinkText: 'IV (1991) 3D Remake (2007)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991-or-x-3d-remake-2007' },
+            { emLinkText: 'IV (1991) 3D Remake (2007)', emLinkUrl: '#entry-IV-final-fantasy-iv-3d-remake-2007-x-3d-remake-2007' },
             { text: ' and ' },
             { emLinkText: 'The After Years (2008)', emLinkUrl: '#entry-IV-final-fantasy-iv-the-after-years-2008' },
             { text: '. This is the story of Cecil Harvey, a dark knight whose journey for redemption draws himself, his best friend Kain and Rosa into a dangerous battle for their planet.' },
@@ -383,6 +385,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
     },
     alts: [
       {
+        id: 'final-fantasy-iv-the-after-years-3d-remake-2013',
         subtitle: '3D Remake', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years', subtitleDate: '2013-11-25',
         profileUrl: 'https://www.jp.square-enix.com/ff4tay/en/',
         languages: [
@@ -411,7 +414,7 @@ window.__ffGroupReg['IV'] = { num: 'IV', chronoOrder: 400, narrativeOrder: 400, 
         versionDesc: [
           [
             { text: 'This remake carries over 3D graphics from ' },
-            { emLinkText: 'IV 3D Remake (2014)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991-or' },
+            { emLinkText: 'IV 3D Remake (2014)', emLinkUrl: '#entry-IV-final-fantasy-iv-3d-remake-2007' },
             { text: ', revamps the Band mechanic, removes the level cap, and adds four new Lunar superbosses. All versions support cloud saves.' },
           ],
         ],

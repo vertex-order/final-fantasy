@@ -685,6 +685,7 @@ window.__ffGroupReg['VII'] = { num: 'VII', chronoOrder: 700, narrativeOrder: 700
     },
     alts: [
       {
+        id: 'on-the-way-to-a-smile-episode-denzel-2009',
         title: 'On the Way to a Smile - Episode: Denzel', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/On_the_Way_to_a_Smile_-Episode:_Denzel-_Final_Fantasy_VII', titleDate: '2009-04-16',
         subtitle: 'Video',
         languages: [

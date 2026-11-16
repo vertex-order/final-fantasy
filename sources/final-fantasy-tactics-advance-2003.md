@@ -5,10 +5,6 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
-## breezewiki.com (Information)
-
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance_Radio_Edition
-
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/final-fantasy-tactics-advance/
@@ -22,14 +18,10 @@
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Ivalice_Alliance -- dates*, platforms*, tags -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_Tactics_Advance
 
-## youtube.com (Information)
-
-- https://www.youtube.com/results?search_query=Final%20Fantasy%20Tactics%20Advance%20Radio%20Edition
-
 ## otakumode.com (Information)
 
 - https://otakumode.com/otapedia/games/final_fantasy/tactics_advance -- story, dates, platforms -- accessed 2026-10-17
-  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Plot, Characters, Gameplay, Development)
+  - (Tokyo Otaku Mode's Otapedia, sections Plot, Characters, Gameplay, Development)
   - Plot: a short summary (four children of the town of St. Ivalice, Marche, Mewt, Ritz and Doned; an ancient magical book changes the world into Ivalice; Marche tries to restore it against the opposition of Queen Remedi, the ruler)
     - agrees with the entry's description (Marche enters an alternate Ivalice with his friends living different lives, and tries to get home)
     - the antagonist is a spoiler and is not in the description
@@ -40,7 +32,7 @@
 
 ## jp.square-enix.com (Publisher; Japan, Wii U list, captures of 2012-10-06 to live (2026-10-27))
 
-- Square Enix Japan's Wii U game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Wii U game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-06 to 2018-01-17 http://www.jp.square-enix.com/game/wiiu/ (the 2012-10-06, 2014-11-27, 2015-12-10, 2016-12-23 and 2018-01-17 captures are of the form http://www.jp.square-enix.com:80/game/wiiu/); 2019-06-26 https://www.jp.square-enix.com/game/?pf=99,5; 2023-01-07 to live https://www.jp.square-enix.com/game/?pf=5 (platform filter 5 = Wii U; the model checkbox value is 5, beside a disabled checked 99 that the 2019-06-26 URL's ?pf=99,5 also carries); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: 2014-11-27 to 2016-12-23 the image icon-wiivc (alt text Download), the Virtual Console download mark; from 2019-06-26 the labels as images: Wii U (the model, not repeated below) and ダウンロード (also sold as a download); "none" = no icon (not stated). CERO: 2014-11-27 to 2016-12-23 the rating image's file name (cero200 = A, matched against the 2019-06-26 labels of the same titles); from 2019-06-26 the label's alt text
   - Link labels: 公式サイト (official site; in the 2012 to 2018 captures the title and its image link the same page), 商品詳細 (detail page), 任天堂ホームページ (Nintendo's site, a title page or a search page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -52,7 +44,7 @@
 
 ## jp.square-enix.com (Publisher; Japan, Game Boy Advance list, capture of live (2026-10-28))
 
-- Square Enix Japan's Game Boy Advance game list -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Japan's Game Boy Advance game list -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?pf=24 (platform filter 24 = Game Boy Advance; the model checkbox value is 24, beside a disabled checked 99); only the live page is saved, no Wayback capture read
   - Icons: the labels as images: ゲームボーイアドバンス (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
   - Link labels: 商品詳細 (detail page); links of the live page have no archive
@@ -61,7 +53,7 @@
 
 ## jp.square-enix.com (Publisher; Japan, Final Fantasy franchise list, captures of 2023-09-28 to live (2026-10-28))
 
-- Square Enix Japan's Final Fantasy franchise search (the game list filtered by series) -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+- Square Enix Japan's Final Fantasy franchise search (the game list filtered by series) -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-28
   - Page URL by capture: 2023-09-28 to live (2026-10-28) https://www.jp.square-enix.com/game/?s=2 (series filter 2 = ファイナルファンタジー; the saved pages show the series checkbox value 2 checked and the result heading ファイナルファンタジー; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md; the list covers every platform at once, so each item names its platforms
   - Icons: the labels as images, platform names first (the models the item is listed for), then パッケージ (sold as a package), ダウンロード / ダウンロード専用 / ダウンロード対応 (download), オンライン専用 (online only), 審査予定 (rating pending), buttons (e-STOREで購入 / e-STOREで予約, PlayStation Store, App Store, Google Play and the like); "none" = no icon. CERO: the label's alt text where shown
   - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -141,7 +133,7 @@
 
 ## nintendo.com (Platform; Nintendo Japan Wii U software list, Virtual Console, saved pages of 2026-11-08)
 
-- Page URL: https://www.nintendo.com/jp/software/wiiu/index_all.html (the all-results page of Nintendo Japan's Wii U software list; Virtual Console filter vcall, 20 pages of 479 titles) -- dates, platforms -- accessed 2026-11-08 (saved pages read by me); archived: TODO
+- Page URL: https://www.nintendo.com/jp/software/wiiu/index_all.html (the all-results page of Nintendo Japan's Wii U software list; Virtual Console filter vcall, 20 pages of 479 titles) -- dates, platforms -- accessed 2026-11-08 (saved pages); archived: TODO
   - ファイナルファンタジータクティクス アドバンス; maker スクウェア・エニックス; release 2016-03-30; platform label GAME BOY ADVANCE; listed on saved page 4 of 20; the row is plain text with no link to an item page
 
 ## finalfantasywiki.com (Information)
@@ -182,10 +174,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance#E
 
 - https://en.wikipedia.org/wiki/Final_Fantasy#Other_media -- Final Fantasy Tactics Advance has been adapted into a radio drama -- accessed 2026-11-10 (revision 1384600064 of 2026-11-09; wikitext read through the MediaWiki API); archived: TODO
 
-## finalfantasy.fandom.com (Information; Final Fantasy Tactics Advance Radio Edition page, Voice cast section, live page of 2026-11-10)
-
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance_Radio_Edition#Voice_cast -- voice cast section: confirms Japanese voice -- accessed 2026-11-10 (revision 3575591 of 2022-01-05; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_Tactics_Advance_Radio_Edition#Voice_cast); archived: TODO
-
 ## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
 
 - https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
@@ -199,9 +187,5 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_Advance#E
   - Final Fantasy Tactics Advance: Wii U Virtual Console, 2016-01-28, region NA, EU, AUS, JP
 - the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Final Fantasy Tactics Advance: Game Boy Advance, 2003-02-14, score 69.0%
-
-## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
-
-- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Final Fantasy Tactics Advance Radio Edition (audio drama)" under Square-Enix core, adaptations, unofficially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
 
 ## Decisions

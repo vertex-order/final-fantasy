@@ -67,6 +67,7 @@ window.__ffGroupReg['SW'] = { num: 'SW', chronoOrder: 950, narrativeOrder: 950, 
     },
     alts: [
       {
+        id: 'final-fantasy-the-spirits-within-ya-novel-2001',
         title: 'Final Fantasy: The Spirits Within ~YA Novel~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media', titleDate: 2001,
         by: [{ role: 'adapted', names: 'John Vornholt' }],
         subtitle: 'Book',

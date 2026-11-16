@@ -78,6 +78,7 @@ window.__ffGroupReg['III'] = { num: 'III', chronoOrder: 300, narrativeOrder: 300
     },
     alts: [
       {
+        id: 'final-fantasy-iii-3d-remake-2006',
         subtitle: '3D Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)', subtitleDate: 2014,
         length: '30h / 34½h / 91h',
         languages: [

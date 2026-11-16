@@ -45,6 +45,7 @@ window.__ffGroupReg['Other'] = { num: 'Other', chronoOrder: 1800, narrativeOrder
     },
     alts: [
       {
+        id: 'final-fantasy-adventure-3d-remake-2016',
         subtitle: '3D Remake', subtitleUrl: 'https://wikipedia.org/wiki/Adventures_of_Mana', subtitleDate: 2016,
         profileUrl: 'https://www.jp.square-enix.com/seiken/en/',
         languages: [

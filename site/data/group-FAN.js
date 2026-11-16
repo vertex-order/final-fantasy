@@ -40,7 +40,7 @@ window.__ffGroupReg['FAN'] = { num: 'FAN', chronoOrder: 1790, narrativeOrder: 17
     mediaType: 'Book', chronoOrder: 300, narrativeOrder: 300,
     title: 'Final Fantasy IV: The Novel ~Fan Project~', titleUrl: 'https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel', titleDate: '2002-08-10',
     mediaDesc: [
-      [{ text: 'A fan novelization of ' }, { emLinkText: 'IV (1991) 3D Remake (2007)', emLinkUrl: '#entry-IV-final-fantasy-iv-1991-or-x-3d-remake-2007' }, { text: ' and ' }, { emLinkText: 'IV: The After Years (2008)', emLinkUrl: '#entry-IV-final-fantasy-iv-the-after-years-2008' }, { text: '. Entry also found in our ' }, { emLinkText: 'IV', emLinkUrl: '#group-IV' }, { text: ' series.' }],
+      [{ text: 'A fan novelization of ' }, { emLinkText: 'IV (1991) 3D Remake (2007)', emLinkUrl: '#entry-IV-final-fantasy-iv-3d-remake-2007-x-3d-remake-2007' }, { text: ' and ' }, { emLinkText: 'IV: The After Years (2008)', emLinkUrl: '#entry-IV-final-fantasy-iv-the-after-years-2008' }, { text: '. Entry also found in our ' }, { emLinkText: 'IV', emLinkUrl: '#group-IV' }, { text: ' series.' }],
       'This is the story of Cecil Harvey, a dark knight whose journey for redemption draws himself, his best friend Kain and Rosa into a dangerous battle for their planet.',
     ],
     primary: {

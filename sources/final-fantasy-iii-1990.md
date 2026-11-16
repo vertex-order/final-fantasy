@@ -22,31 +22,21 @@
 - https://finalfantasy.fandom.com/wiki/Final_Fantasy_III_version_differences -- versions*, platforms* -- accessed 2026-09-22
 Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_version_differences
 
-- https://finalfantasy.fandom.com/wiki/Final_Fantasy_III_(3D_Remake)_version_differences -- versions*, platforms* -- accessed 2026-09-22
-Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_version_differences
-
-## GOG (Platform)
-
-- https://www.gog.com/en/game/final_fantasy_iii_3d_remake
-
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/final-fantasy-iii-pixel-remaster/
-- https://www.metacritic.com/game/final-fantasy-iii-3d-remake/
 
 ## mobygames.com (Information)
 
 - https://www.mobygames.com/game/final-fantasy-iii -- the MobyGames entry, linked from en.wikipedia's External links (not fetched) -- accessed 2026-11-08; archived: TODO
-- https://www.mobygames.com/game/7322/final-fantasy-iii/ -- the MobyGames entry, linked from ja.wikipedia's 外部リンク (my fetch returned HTTP 403, page not read) -- accessed 2026-11-08; archived: TODO
+- https://www.mobygames.com/game/7322/final-fantasy-iii/ -- the MobyGames entry, linked from ja.wikipedia's 外部リンク (fetch returned HTTP 403, page not read) -- accessed 2026-11-08; archived: TODO
 
 ## imdb.com (Information)
 
-- https://www.imdb.com/title/tt0207486/ -- the IMDb title page linked from en.wikipedia's External links (my fetch returned HTTP 202, page not read) -- accessed 2026-11-08; archived: TODO
+- https://www.imdb.com/title/tt0207486/ -- the IMDb title page linked from en.wikipedia's External links (fetch returned HTTP 202, page not read) -- accessed 2026-11-08; archived: TODO
 
 ## Official websites (Publisher; Wayback captures linked by en.wikipedia)
 
-- http://na.square-enix.com/ff3/ -- the official North American website; en.wikipedia links the capture https://web.archive.org/web/20080625120148/http://na.square-enix.com/ff3/ (HTTP 200; page not read) -- accessed 2026-11-08
-- http://www.finalfantasy3.eu.com/ -- the official European website; en.wikipedia links the capture https://web.archive.org/web/20080129112533/http://www.finalfantasy3.eu.com/ (my fetch returned HTTP 429, not read) -- accessed 2026-11-08
 - http://www.square-enix.co.jp/ff3/ -- the official Japanese website, linked from en.wikipedia's External links (HTTP 200; page not read; Wayback captures of it are recorded in the Square Enix Japan list sections) -- accessed 2026-11-08
 
 ## Nintendo (Platform)
@@ -63,14 +53,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 ## Square Enix (Publisher, Developer)
 
 - https://finalfantasypixelremaster.square-enix-games.com/
-- https://www.square-enix-games.com/games/final-fantasy-iii -- accessed 2026-10-19
 
 ## Steam (Platform)
 
 - https://store.steampowered.com/app/1173790?
-- https://store.steampowered.com/agecheck/app/239120/
 - https://store.steampowered.com/app/1173790/FINAL_FANTASY_III/
-- https://store.steampowered.com/app/239120/Final_Fantasy_III_3D_Remake/
 
 ## wikipedia.org (Information)
 
@@ -78,8 +65,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - https://wikipedia.org/wiki/List_of_Final_Fantasy_video_games#Branded_subseries -- dates*, platforms* -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_III
 - https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster -- dates, platforms, tags, versions -- accessed 2026-09-19
-- https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)
-- https://wikipedia.org/wiki/Final_Fantasy_III_(2006_video_game)#Ports
 
 ## Xbox (Platform)
 
@@ -88,80 +73,21 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 ## otakumode.com (Information)
 
 - https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_3 -- story, dates, platforms -- accessed 2026-10-17
-  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Prologue, Final Fantasy III Plot, Gameplay, Characters, Development)
+  - (Tokyo Otaku Mode's Otapedia, sections Prologue, Final Fantasy III Plot, Gameplay, Characters, Development)
   - Final Fantasy III Plot: a short summary (the four orphans of Ur, Topapa, the crystal of light, Xande, the quest chapters and locations, the final boss the Cloud of Darkness)
     - agrees with the entry's description, which names Xande and the flood of darkness
     - the final boss is a spoiler and is not in the description
   - Gameplay and Characters: the job-change system, the job lists, the four heroes (Luneth, Arc, Refia, Ingus) and guest characters; the first game with Moogles; no change to the entry
   - Release: Japan 1990 on the Famicom, later ports (Nintendo DS, Wii U, iOS, Android and others); consistent with the entry (1990-04-27, which the timeline page also gives); no new fact
 
-## apps.apple.com and play.google.com (Platform; 3D Remaster 2011)
-
-- https://apps.apple.com/app/final-fantasy-iii-3d-remake/id424591347 -- the iPhone row of the "3D Remaster 2011" version -- accessed 2026-10-20
-  - Live: the iTunes lookup API for the Square Enix developer (id 300186801) lists FINAL FANTASY III (3D REMAKE), released 2011-03-24, current version 2021-06-07, and FINAL FANTASY III for iPad(3D) (id 430823968, released 2011-04-21), https://apps.apple.com/app/final-fantasy-iii-for-ipad-3d/id430823968, the `iPadOS` row
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP -- the Android row -- accessed 2026-10-20; live; user's pasted 2021-01-17 capture: version 2.0.0, updated 2020-02-27, 24,454 ratings (4.3 stars), 500,000+ installs
-- https://web.archive.org/web/20110727045353/http://dlgames.square-enix.com/ff/ -- Square Enix NA "for iPhone / iPod touch" menu; lists Final Fantasy III with EN and JA sites, https://web.archive.org/web/20110727045353/http://dlgames.square-enix.com/ff/ff3/en/index.html and https://web.archive.org/web/20110727045353/http://dlgames.square-enix.com/ff/ff3/jp/index.html -- platforms -- accessed 2026-10-24
-- https://web.archive.org/web/20110807093544/http://dlgames.square-enix.com/ff/ff3/en/index.html -- lists iPhone, iPad, Google Play, Amazon Appstore and Ouya; iPhone button is a Linkshare redirect to itunes.apple.com/us/app/final-fantasy-iii/id424591347; Ouya not linked -- platforms* -- accessed 2026-10-24
-- https://web.archive.org/web/20130728134415/https://itunes.apple.com/us/app/final-fantasy-iii/id424591347?mt=8 -- iPhone and iPod touch, 3D remake (v1.5.0, updated 2013-01-18, 214 MB, rated 9+); Languages: English, Chinese, French, German, Italian, Japanese, Spanish -- languages* -- accessed 2026-10-24
-- https://web.archive.org/web/20130728033004/https://itunes.apple.com/us/app/final-fantasy-iii-for-ipad/id430823968?mt=8 -- iPad, 3D remake (v1.5.0, updated 2013-01-19, 210 MB, rated 9+); same Languages line -- languages* -- accessed 2026-10-24
-- https://web.archive.org/web/20130429194648/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP -- Android, 3D remake (v1.0.2, updated 2013-04-19, 172M, $15.99, 8,479 ratings); no languages line -- accessed 2026-10-24
-- https://web.archive.org/web/20250520174141/https://www.amazon.com/SQUARE-ENIX-CO-LTD-FANTASY/dp/B009YG2ND8 -- Amazon Appstore, FINAL FANTASY III (3D REMAKE), ASIN B009YG2ND8, first listed 2012-11-01; Languages Supported: Chinese, English, French, German, Italian, Japanese, Korean, Spanish -- platforms*, languages* -- accessed 2026-10-24
-  - Live: https://www.amazon.com/dp/B009YG2ND8 -- same title, 3.5 stars, 726 ratings, same Languages Supported line -- accessed 2026-10-24
-- https://web.archive.org/web/20110306172130/http://dlgames.square-enix.com/ff/ff3/jp/index.html -- Square Enix JP iPhone site; says coming March 2011 -- dates -- accessed 2026-10-24
-- https://web.archive.org/web/20110424045508/http://dlgames.square-enix.com/ff/ff3/jp/index.html -- iPhone button is a Linkshare redirect to itunes.apple.com/jp/app/final-fantasy-iii/id424591347?mt=8 -- accessed 2026-10-24
-- https://web.archive.org/web/20140910041428/http://dlgames.square-enix.com/ff/ff3/jp/index.html -- lists iPhone, iPad, Square Enix Market, Android, Amazon, Ouya and Windows Phone -- platforms* -- accessed 2026-10-24
-- https://web.archive.org/web/20150202220530/https://www.ouya.tv/game/final-fantasy-iii/ -- Ouya, 3D remake by screenshots; v1.0.1, released April 2013, rated 9+, 5 stars (762) -- platforms*, dates -- accessed 2026-10-24
-- https://web.archive.org/web/20140606081258/http://www.windowsphone.com/en-us/store/app/final-fantasy-iii/14ee2c62-1f7d-4e57-8380-5433d4df54b2 -- Windows Phone Store, 3D remake by screenshots; v1.0.0.0, updated 2013-12-26, 451 MB, 324 reviews; Supported languages (9): Deutsch, English (United States), Español, français, italiano, 日本語, 한국어, 中文(简体), 中文(繁體) -- platforms*, languages* -- accessed 2026-10-24
-- https://web.archive.org/web/20160110142321/http://dlgames.square-enix.com/ff/ff3/jp/index.html -- Square Enix JP site; its Amazon button opens https://web.archive.org/web/20160110142331/http://www.amazon.co.jp/SQUARE-ENIX-CO-LTD-FANTASY/dp/B009YG2ND8/ (ASIN B009YG2ND8; same platforms as 2014) -- platforms -- accessed 2026-10-24
-- https://web.archive.org/web/20211204164107/http://dlgames.square-enix.com/ff/ff3/jp/index.html -- redesigned Square Enix JP site, titled as the 3D remake; platforms Steam, iPhone, iPad, Google Play, Amazon and Square Enix Market (an.sqexm.net/sp/site/Page/sqmk/FF3/top); 対応言語: 日本語・英語・フランス語・イタリア語・ドイツ語・スペイン語・中国語(繁体字、簡体字)・韓国語・タイ語 -- platforms*, languages* -- accessed 2026-10-24
-  - links: https://web.archive.org/web/20211204164107/https://store.steampowered.com/app/239120/FINAL_FANTASY_III, https://web.archive.org/web/20211204164107/https://apps.apple.com/jp/app/final-fantasy-III/id424591347, https://web.archive.org/web/20211204164107/https://apps.apple.com/jp/app/final-fantasy-III-for-ipad/id430823968, https://web.archive.org/web/20211204164107/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP, https://web.archive.org/web/20211204164107/https://www.amazon.co.jp/SQUARE-ENIX-CO-LTD-FANTASY/dp/B009YG2ND8
-- https://web.archive.org/web/20241212081116/http://dlgames.square-enix.com/ff/ff3/jp/index.html -- adds a button to the Pixel Remaster page https://web.archive.org/web/20241212081116/https://www.jp.square-enix.com/ff_pixelremaster/ff3 -- accessed 2026-10-24
-- https://web.archive.org/web/20131105053717/http://dlgames.square-enix.com/ff/ff3/en/index.html -- Square Enix NA site; links the Ouya page -- platforms -- accessed 2026-10-24
-- https://web.archive.org/web/20131108074031/https://www.ouya.tv/game/FINAL-FANTASY-III/ -- Ouya, 3D remake by screenshots; v1.0.1, released April 2013, rated 9+ -- platforms*, dates -- accessed 2026-10-24
-- https://web.archive.org/web/20141118214438/http://dlgames.square-enix.com/ff/ff3/en/index.html -- platforms iPhone, iPad, Google Play, Amazon (button loads), Ouya, Windows Phone -- platforms* -- accessed 2026-10-24
-  - https://web.archive.org/web/20141227171417/http://www.amazon.com/gp/product/B009YG2ND8/ref=mas_pm_final_fantasy_iii -- Amazon button target
-  - https://web.archive.org/web/20141227171417/http://www.windowsphone.com/s?appid=14ee2c62-1f7d-4e57-8380-5433d4df54b2 -- Windows Phone button target
-- https://web.archive.org/web/20200125071135/http://dlgames.square-enix.com/ff/ff3/en/ -- last working capture of the NA site (and of its index.html form); still lists Ouya -- platforms -- accessed 2026-10-24
-- https://web.archive.org/web/20201030111419/http://dlgames.square-enix.com/ff/ -- menu capture of 2020-10-30; Final Fantasy III links the JA site only -- platforms -- accessed 2026-10-24
-
-## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
-
-- http://www.square-enix.co.jp/smart/market/game008.html -- the 3D remake sold on Square Enix Market, Japan only, confirmed by the user (2026-10-25) in the capture of 2013-02-02; also listed in the capture of 2013-02-16 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20130202020730/http://www.square-enix.co.jp/smart/market/game008.html, https://web.archive.org/web/20130216030731/http://www.square-enix.co.jp/smart/market/game008.html
-- http://an.sqexm.net/sp/site/Page/sqmk/FF3/top -- Final Fantasy III (3D Remake) on Square Enix Market, Japan only, labelled as the 3D remake on the title list of 2023-02-04 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20230204080504/http://an.sqexm.net/sp/site/Page/sqmk/FF3/top (page not read; URL given by user)
-  - The store is described in final-fantasy-franchise.md
-
-## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone)
-
-- http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists III, release 2011.03.24; for iPad 2011.04.21 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
-  - The iPad version's detail page was read too
-- http://dlgames.square-enix.com/na/ipod/2011/ff3/ -- the iPhone / iPod touch detail page, Platform iPhone / iPod touch -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20110410131825/http://dlgames.square-enix.com/na/ipod/2011/ff3/ (capture of 2011-04-10; text pasted by user)
-
-## jp.square-enix.com (Publisher; Japan, PSP list, captures of 2012-10-06 to live (2026-10-26))
-
-- Square Enix Japan's PlayStation Portable game list -- saved pages of each capture read by me; one line per title and release date, with what each capture shows -- accessed 2026-10-25 and 2026-10-26
-  - Page URL by capture: 2012-10-06 to 2018-03-20 http://www.jp.square-enix.com/game/psp/; 2023-01-07 to live https://www.jp.square-enix.com/game/?pf=18 (platform filter 18 = プレイステーション・ポータブル); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
-  - Icons, read from the image file names (alt text read plyaOnline in the 2013-10-20 and 2014-11-19 captures and Download from 2015-03-18, for the same images): ONLINE対応 = icon-online-taiou; ダウンロード対応 (also sold as a download) = icon-download-taiou; ダウンロード専用 = icon-download-senyou; Game Archives専用 = icon-gamearchives; "none" = no icon (not stated; the 2012-10-06 capture shows none on any item). From 2023-01-07 the page shows the labels パッケージ (disc) and ダウンロード as text instead, and the CERO rating as an image with alt text.
-  - CERO: from 2012-10-06 to 2018-03-20 the rating image's file name (cero200 = A, cero212 = B, cero215 = C, cero217 = D, matched against the 2023-01-07 labels of the same titles); from 2023-01-07 the image's alt text
-  - Links: 公式サイト = the item's official-site link; 商品詳細 = the detail-page link; the item's title also links to its official site. "listed" gives the captures that carry the link; the archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
-  - ファイナルファンタジーIII; RPG; release 2012.09.20; listed 2013-10-20 to live (2026-10-26); icons: ダウンロード対応 (2013-10-20 to 2018-03-20); パッケージ, ダウンロード (2023-01-07 to live (2026-10-26)); CERO: CERO A
-    - http://www.square-enix.co.jp/ff3/ -- 公式サイト link, listed 2013-10-20 to 2018-03-20 -- link recorded only -- archived: https://web.archive.org/web/20131020014844/http://www.square-enix.co.jp/ff3/ (last listing: https://web.archive.org/web/20180320203912/http://www.square-enix.co.jp/ff3/)
-    - https://www.jp.square-enix.com/game/detail/ff3/ -- 商品詳細 link, listed live (2026-10-26) -- link recorded only -- live page, no archive
-
-## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone, Japan)
-
-- http://dlgames.square-enix.com/jp/ipod -- the Japanese "iPod / iPhone" menu, capture of 2011-07-14: ファイナルファンタジーIII, RPG, release 2011.03.24, links http://dlgames.square-enix.com/jp/ipod/2011/ff3/ and http://dlgames.square-enix.com/ff/; ファイナルファンタジーIII for iPad, RPG, release 2011.04.21, links http://dlgames.square-enix.com/jp/ipod/2011/ff3_ipad/ and http://dlgames.square-enix.com/ff/ -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20110714025513/http://dlgames.square-enix.com/jp/ipod/
-  - Capture of 2012-10-20: same two rows, dates and links -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20121020050826/http://dlgames.square-enix.com/jp/ipod/
-- http://dlgames.square-enix.com/jp/ipod/2011/ff3/ -- the iPhone / iPod touch detail page, last status-200 capture 2011-04-25 (the index lists captures from 2011-04-15): ファイナルファンタジーIII; RPG; 1 player; Platform iPhone/iPod touch; release 2011.03.24; background 3D graphics and events renewed for iPhone / iPod touch; touch-panel controls; monster bestiary and data easier to view; newly designed master cards for mastered jobs; Retina Display support; (C) 1990, 2011; links the official site http://dlgames.square-enix.com/ff/ -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20110425142542/http://dlgames.square-enix.com/jp/ipod/2011/ff3/
-- http://dlgames.square-enix.com/jp/ipod/2011/ff3_ipad/ -- the iPad detail page, last status-200 capture 2012-04-18 (the index lists captures from 2011-10-24): ファイナルファンタジーIII; RPG; 1 player; Platform iPad; release 2011.04.21; the same feature list as the iPhone page, for iPad, without the Retina Display line; (C) 1990, 2011; links the official site http://dlgames.square-enix.com/ff/ -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20120418104701/http://dlgames.square-enix.com/jp/ipod/2011/ff3_ipad/
-
 ## dlgames.square-enix.com (Platform; Virtual Console, Japan, menu captures of 2010-03-28, 2011-05-13 and 2012-05-14)
 
-- http://dlgames.square-enix.com/jp/vc/ -- the Japanese Virtual Console (バーチャルコンソール) menu, saved pages read by me: ファイナルファンタジーIII; genre RPG; release 2009.07.21; listed in all three captures; links http://dlgames.square-enix.com/jp/vc/2009/ff3/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/
+- http://dlgames.square-enix.com/jp/vc/ -- the Japanese Virtual Console (バーチャルコンソール) menu, saved pages: ファイナルファンタジーIII; genre RPG; release 2009.07.21; listed in all three captures; links http://dlgames.square-enix.com/jp/vc/2009/ff3/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/
   - the captures' own links to the detail page: https://web.archive.org/web/20100328070952/http://dlgames.square-enix.com/jp/vc/2009/ff3/, https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/2009/ff3/, https://web.archive.org/web/20120514024939/http://dlgames.square-enix.com/jp/vc/2009/ff3/ -- accessed 2026-10-25 -- link recorded only
 
 ## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2023-09-15 to live (2026-10-26))
 
-- Square Enix Japan's PlayStation 4 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+- Square Enix Japan's PlayStation 4 game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-26
   - Page URL by capture: 2013-10-20 to 2016-12-22 http://www.jp.square-enix.com/game/ps4/; 2018-01-30 http://www.jp.square-enix.com/game/pf/ps4/; 2018-10-10 https://www.jp.square-enix.com/game/pf/ps4/; 2019-09-18 to live https://www.jp.square-enix.com/game/?pf=1; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou (2013 to 2016 captures); from 2018 the labels パッケージ (disc), ダウンロード, オンライン専用, VR専用 and VR対応 are shown as text; "none" = no icon (not stated). CERO ratings are recorded from the 2018 captures, where the page shows them as text.
   - ファイナルファンタジーIII（ピクセルリマスター）; RPG; first listed 2023-09-15: release 2023.04.20; icons: ダウンロード; CERO B; listed in every capture from 2023-09-15 to live (2026-10-26)
@@ -174,7 +100,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 
 ## jp.square-enix.com (Publisher; Japan, Switch list, captures of 2019-03-31 to live (2026-10-27))
 
-- Square Enix Japan's Nintendo Switch game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Nintendo Switch game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2017-05-03 http://www.jp.square-enix.com/game/switch/; 2018-05-24 http://www.jp.square-enix.com/game/pf/switch/; 2019-03-31 to live https://www.jp.square-enix.com/game/?pf=4; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons, read from the alt text of the label images: Nintendo Switch (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only), クラウド (cloud version); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
   - Link labels: e-STORE (Square Enix's store), 任天堂ホームページ / マイニンテンドーストア (Nintendo's store, same link under its two names), 公式サイト, 商品詳細
@@ -189,7 +115,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 
 ## jp.square-enix.com (Publisher; Japan, Wii U list, captures of 2012-10-06 to live (2026-10-27))
 
-- Square Enix Japan's Wii U game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Wii U game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-06 to 2018-01-17 http://www.jp.square-enix.com/game/wiiu/ (the 2012-10-06, 2014-11-27, 2015-12-10, 2016-12-23 and 2018-01-17 captures are of the form http://www.jp.square-enix.com:80/game/wiiu/); 2019-06-26 https://www.jp.square-enix.com/game/?pf=99,5; 2023-01-07 to live https://www.jp.square-enix.com/game/?pf=5 (platform filter 5 = Wii U; the model checkbox value is 5, beside a disabled checked 99 that the 2019-06-26 URL's ?pf=99,5 also carries); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: 2014-11-27 to 2016-12-23 the image icon-wiivc (alt text Download), the Virtual Console download mark; from 2019-06-26 the labels as images: Wii U (the model, not repeated below) and ダウンロード (also sold as a download); "none" = no icon (not stated). CERO: 2014-11-27 to 2016-12-23 the rating image's file name (cero200 = A, matched against the 2019-06-26 labels of the same titles); from 2019-06-26 the label's alt text
   - Link labels: 公式サイト (official site; in the 2012 to 2018 captures the title and its image link the same page), 商品詳細 (detail page), 任天堂ホームページ (Nintendo's site, a title page or a search page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -201,7 +127,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 
 ## jp.square-enix.com (Publisher; Japan, Wii list, captures of 2013-06-26 to live (2026-10-27))
 
-- Square Enix Japan's Wii game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Wii game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2013-06-26 http://www.jp.square-enix.com/game/wii/; 2014-07-19 to 2017-12-01 http://www.jp.square-enix.com:80/game/wii/; live (2026-10-27) https://www.jp.square-enix.com/game/?pf=21 (platform filter 21 = Wii; the model checkbox value is 21, beside a disabled checked 99); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: 2013-06-26 to 2017-12-01 the images icon-wiivc (alt text バーチャルコンソール(Wii), the Virtual Console download mark), icon-wiiware (alt Wiiウェア, the WiiWare download mark) and icon-online-taiou (alt text online, ONLINE 対応); live the labels as images: Wii (the model, not repeated below), ダウンロード (also sold as a download), パッケージ (sold as a package) and オンライン専用 (online only); "none" = no icon (not stated). CERO: 2013-06-26 to 2017-12-01 the rating image's file name (cero200 = A, cero212 = B, cero215 = C, matched against the live labels of the same titles); live the label's alt text
   - Link labels: 公式サイト (official site), 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -210,24 +136,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
     - http://www.jp.square-enix.com/archive/vc_ff3/ -- 商品詳細 link, listed 2013-06-26 -- link recorded only -- archived: https://web.archive.org/web/20130626122610/http://www.jp.square-enix.com/archive/vc_ff3/
     - https://www.jp.square-enix.com/game/detail/ff3/ -- 商品詳細 link, listed live (2026-10-27) -- link recorded only -- archived: TODO
 
-## jp.square-enix.com (Publisher; Japan, Nintendo DS / Nintendo DSi list, captures of 2012-10-06 to live (2026-10-27))
-
-- Square Enix Japan's Nintendo DS / Nintendo DSi game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
-  - Page URL by capture: 2012-10-06 http://www.jp.square-enix.com:80/game/nds/; 2013-10-20 http://www.jp.square-enix.com/game/nds/; 2014-12-03 to 2015-12-10 http://www.jp.square-enix.com:80/game/nds/; 2016-12-22 http://www.jp.square-enix.com/game/nds/; 2019-06-26 to 2025-08-30 https://www.jp.square-enix.com/game/?pf=99,22; live (2026-10-27) https://www.jp.square-enix.com/game/?pf=22 (platform filter 22 = Nintendo DS / Nintendo DSi; the model checkbox value is 22, beside a disabled checked 99); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
-  - Icons: 2012-10-06 no icon shown on any item; 2013-10-20 to 2016-12-22 the images by file name icon-online-taiou (ONLINE 対応) and icon-dsiware (DSiウェア, the download-only DSiWare mark); 2019-06-26 to live the labels as images: ニンテンドーDS / ニンテンドーDSi (the model, not repeated below), パッケージ (sold as a package) and ダウンロード (a download); "none" = no icon (not stated). CERO: 2012-10-06 to 2016-12-22 the rating image's file name (cero200 and cero100 = A, matched against the later labels of the same titles); 2019-06-26 to live the label's alt text
-  - Link labels: 公式サイト (official site), 商品詳細 (detail page), e-STOREで購入 (buy at the Square Enix e-STORE); 2012-10-06 to 2016-12-22 the title links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
-  - ファイナルファンタジーIII; RPG; first listed (earliest capture read) 2012-10-06: release 2006.08.24; icons: none; CERO A; listed: 2012-10-06, 2013-10-20, 2014-12-03, 2015-12-10, 2016-12-22
-    - http://www.square-enix.co.jp/ff3ds/ -- ファイナルファンタジーIII link and 公式サイト link, listed 2012-10-06 to 2013-10-20 -- link recorded only -- archived: https://web.archive.org/web/20121006013900/http://www.square-enix.co.jp/ff3ds/ (last listing: https://web.archive.org/web/20131020014805/http://www.square-enix.co.jp/ff3ds/)
-    - http://www.jp.square-enix.com/archive/ff3_ds/ -- ファイナルファンタジーIII link and 商品詳細 link, listed 2014-12-03 to 2016-12-22 -- link recorded only -- archived: https://web.archive.org/web/20141203045740/http://www.jp.square-enix.com/archive/ff3_ds/ (last listing: https://web.archive.org/web/20161222212554/http://www.jp.square-enix.com/archive/ff3_ds/)
-  - アルティメットヒッツ ファイナルファンタジーIII; RPG; first listed (earliest capture read) 2012-10-06: release 2008.10.23; icons: none; CERO A; listed: 2012-10-06, 2013-10-20, 2014-12-03, 2015-12-10, 2016-12-22
-    - http://www.square-enix.co.jp/uh/ -- アルティメットヒッツ ファイナルファンタジーIII link and 公式サイト link, listed 2012-10-06 to 2016-12-22 -- link recorded only -- archived: https://web.archive.org/web/20121006013900/http://www.square-enix.co.jp/uh/ (last listing: https://web.archive.org/web/20161222212554/http://www.square-enix.co.jp/uh/)
-  - ファイナルファンタジーIII（アルティメット ヒッツ）; RPG; first listed (earliest capture read) 2019-06-26: release 2008.10.23; icons: パッケージ; CERO A; listed: 2019-06-26, 2025-08-30, live (2026-10-27); changes: 2025-08-30: note ※Wii VC終了 to none
-    - https://www.jp.square-enix.com/game/detail/ff3/ -- 商品詳細 link, listed 2019-06-26 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20190626224307/https://www.jp.square-enix.com/game/detail/ff3/ (last listing: https://web.archive.org/web/20250830120859/https://www.jp.square-enix.com/game/detail/ff3/)
-    - http://www.square-enix.co.jp/ff3/ -- 公式サイト link, listed 2019-06-26 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/http://www.square-enix.co.jp/ff3/
-
 ## jp.square-enix.com (Publisher; Japan, Xbox Series X|S list, captures of 2020-11-11 to live (2026-10-27))
 
-- Square Enix Japan's Xbox Series X|S game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Xbox Series X|S game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2020-11-11 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Xbox Series X (2020-11-11) / Xbox Series X|S, platform filter ?pf=34 (the saved pages show the model checkbox value 34 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/https://www.jp.square-enix.com/game/, timestamps listed in sources/final-fantasy-franchise.md
   - Icons, read from the alt text of the label images: Xbox SX (2020-11-11) or Xbox Series X|S (the model, not repeated below), パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the label's alt text; 審査予定 = rating pending
   - Link labels: 公式サイト (official site), Microsoft Store, 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -238,19 +149,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 
 ## jp.square-enix.com (Publisher; Japan, Windows list, captures of 2020-04-23 to live (2026-10-27))
 
-- Square Enix Japan's Windows game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Windows game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-05 to 2017-12-26 http://www.jp.square-enix.com/game/win/; 2018-07-06 http://www.jp.square-enix.com/game/pf/win/; 2019-09-18 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Windows, platform filter ?pf=8 (the saved pages show the model checkbox value 8 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons, read from the images (2012 to 2017 captures): ダウンロード専用 (download only) = icon-download-senyou, ダウンロード対応 (also sold as a download) = icon-download-taiou, オンライン専用 (online only) = icon-online-senyou, ONLINE対応 = icon-online-taiou; from 2018 the label images' alt text: パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only), the store buttons (Steam, Epic Games Store, Microsoft Store) are links, listed below; "none" = no icon beyond the model (not stated). CERO: the label's alt text from the 2018 captures; CERO審査予定 = rating pending
   - Link labels: 公式サイト (official site), 商品詳細 (product detail page, 2021 on), Steam (Steamでダウンロード in 2018), Microsoft Store, Epic Games Store, e-STOREで購入 (Square Enix e-STORE purchase); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
-  - ファイナルファンタジーIII; RPG ※Wii VC終了; first listed 2020-04-23: release 2020.02.28; icons: ダウンロード; CERO A; listed in every capture from 2020-04-23 to 2020-04-23
-    - https://store.steampowered.com/app/239120/FINAL_FANTASY_III -- Steam link, listed 2020-04-23 -- link recorded only -- archived: https://web.archive.org/web/20200410180449/https://store.steampowered.com/app/239120/FINAL_FANTASY_III
   - ファイナルファンタジーIII（ピクセルリマスター）; RPG; first listed 2021-06-27: release 2021.07.29; icons: ダウンロード; CERO B; changes: 2025-09-25: release 2021.07.29 to 2024.09.26; listed in every capture from 2021-06-27 to live (2026-10-27)
     - https://store.steampowered.com/app/1173790/FINAL_FANTASY_III/ -- Steam link, listed 2021-06-27 to 2024-09-24 -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://store.steampowered.com/app/1173790/FINAL_FANTASY_III/ (last listing: https://web.archive.org/web/20240925012046/https://store.steampowered.com/app/1173790/FINAL_FANTASY_III/)
     - https://store.steampowered.com/app/239120/FINAL_FANTASY_III -- Steam link, listed 2021-06-27 to 2024-09-24 -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://store.steampowered.com/app/239120/FINAL_FANTASY_III (last listing: https://web.archive.org/web/20240925012046/https://store.steampowered.com/app/239120/FINAL_FANTASY_III)
 
 ## jp.square-enix.com (Publisher; Japan, Nintendo 3DS list, captures of 2012-10-06 to live (2026-10-27))
 
-- Square Enix Japan's Nintendo 3DS game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Nintendo 3DS game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-06 http://www.jp.square-enix.com:80/game/3ds/; 2013-10-20 http://www.jp.square-enix.com/game/3ds/; 2014-10-25 to 2016-12-21 http://www.jp.square-enix.com:80/game/3ds/; 2018-01-30 http://www.jp.square-enix.com:80/game/pf/3ds/; 2019-03-21 to live (2026-10-27) https://www.jp.square-enix.com/game/?pf=6 (platform filter 6 = Nintendo 3DS; the model checkbox value is 6, beside a disabled checked 99 on the live page); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: 2012-10-06 to 2016-12-21 the images by file name icon-wiivc (the Virtual Console download mark; its alt text reads Download), icon-download-taiou (also sold as a download), icon-download-senyou (download only), icon-online-taiou (ONLINE 対応) and icon-online-senyou (online only); 2018-01-30 to live the labels as images: 3DS or ニンテンドー3DS (the model, not repeated below), パッケージ (sold as a package) and ダウンロード (also sold as a download); "none" = no icon (not stated). CERO: 2012-10-06 to 2016-12-21 the rating image's file name (cero200 = A, cero212 = B, matched against the later labels of the same titles; cero999 on the two items listed as 発売予定, no label to match); 2018-01-30 to live the label's alt text
   - Link labels: 公式サイト (official site), 商品詳細 (detail page), e-STOREで購入 (buy at the Square Enix e-STORE), 任天堂ホームページでダウンロード / 任天堂ホームページ (Nintendo site); 2012-10-06 to 2016-12-21 the title links to the same page as 公式サイト; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -260,49 +169,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
     - https://www.nintendo.co.jp/search/?q=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII&mode=soft&vc=fc&ssort=adate -- 任天堂ホームページ link, listed 2019-03-21 to 2022-10-18 -- link recorded only -- archived: https://web.archive.org/web/20190321135350/https://www.nintendo.co.jp/search/?q=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII&mode=soft&vc=fc&ssort=adate (last listing: https://web.archive.org/web/20221018150552/https://www.nintendo.co.jp/search/?q=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII&mode=soft&vc=fc&ssort=adate)
     - https://www.jp.square-enix.com/game/detail/ff3/ -- 商品詳細 link, listed 2019-03-21 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20190321135350/https://www.jp.square-enix.com/game/detail/ff3/ (last listing: https://web.archive.org/web/20241118184754/https://www.jp.square-enix.com/game/detail/ff3/)
 
-
-## jp.square-enix.com (Publisher; Japan, iOS list, captures of 2013-06-15 to live (2026-10-27))
-
-- Square Enix Japan's iOS game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
-  - Page URL by capture: 2013-06-15 to 2017-10-09 http://www.jp.square-enix.com/game/ios/ (the per-model page, titled iPod/iPhone/iPad in 2013 and iPhone/iPod touch/iPad from 2014); 2018-07-06 http://www.jp.square-enix.com/game/pf/ios/ (the per-model page, titled iOS; the saved page lists 73 items and a もっと見る button); 2019-03-21 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to iOS, platform filter ?pf=11 (the saved pages show the model checkbox value 11 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
-  - Icons: 2013-06-15 to 2017-10-09 the icon image ダウンロード専用 (download only) on items, none on others; from 2018-07-06 the model label image iOS (the model, not repeated below) and the label ダウンロード on items, the buttons App Storeでダウンロード (2018) or 購入する and App Store (2019 on), and 事前登録する (2018) or 事前登録 (2019 on) on items not yet out; the ダウンロード専用 image and the ダウンロード label are both written ダウンロード below, 事前登録する and 事前登録 both 事前登録. Date label: 発売日 (release) or 配信日 (delivery), by item. CERO: no rating label on any capture
-  - Link labels: 公式サイト (official site), 商品詳細 (detail page, 2019 on), App Store (the store page); 2013 to 2017 the title links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
-  - ファイナルファンタジーIII; RPG; first listed 2013-06-15: release 2011.03.24; icons: ダウンロード; listed in every capture from 2013-06-15 to 2017-10-09
-    - http://dlgames.square-enix.com/ff/ -- 公式サイト link, listed 2013-06-15 to 2017-10-09 -- link recorded only -- archived: https://web.archive.org/web/20130615010510/http://dlgames.square-enix.com/ff/ (last listing: https://web.archive.org/web/20171009232939/http://dlgames.square-enix.com/ff/)
-  - ファイナルファンタジーIII for iPad; RPG; first listed 2013-06-15: release 2011.04.21; icons: ダウンロード; listed in every capture from 2013-06-15 to 2017-10-09
-    - http://dlgames.square-enix.com/ff/ -- 公式サイト link, listed 2013-06-15 to 2017-10-09 -- link recorded only -- archived: https://web.archive.org/web/20130615010510/http://dlgames.square-enix.com/ff/ (last listing: https://web.archive.org/web/20171009232939/http://dlgames.square-enix.com/ff/)
-  - ファイナルファンタジーIII（for iPad）; RPG ※Wii VC終了; first listed 2019-03-21: release 2011.04.21; icons: ダウンロード; listed in every capture from 2019-03-21 to 2021-05-13
-    - https://itunes.apple.com/jp/app/final-fantasy-iii-for-ipad/id430823968?mt=8&at=11lc5S -- App Store link, listed 2019-03-21 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://itunes.apple.com/jp/app/final-fantasy-iii-for-ipad/id430823968?mt=8&at=11lc5S
-    - https://itunes.apple.com/jp/app/final-fantasy-iii/id424591347?mt=8&at=11lc5S -- App Store link, listed 2019-03-21 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://itunes.apple.com/jp/app/final-fantasy-iii/id424591347?mt=8&at=11lc5S
-    - https://apps.apple.com/jp/app/final-fantasy-iii-for-ipad/id430823968?l=ja -- App Store link, listed 2020-04-23 to 2021-05-13 -- link recorded only -- archived: https://web.archive.org/web/20200410180449/https://apps.apple.com/jp/app/final-fantasy-iii-for-ipad/id430823968?l=ja (last listing: https://web.archive.org/web/20210512121951/https://apps.apple.com/jp/app/final-fantasy-iii-for-ipad/id430823968?l=ja)
-    - https://apps.apple.com/jp/app/final-fantasy-iii/id424591347?l=ja -- App Store link, listed 2020-04-23 to 2021-05-13 -- link recorded only -- archived: https://web.archive.org/web/20200410180449/https://apps.apple.com/jp/app/final-fantasy-iii/id424591347?l=ja (last listing: https://web.archive.org/web/20210512121951/https://apps.apple.com/jp/app/final-fantasy-iii/id424591347?l=ja)
-  - ファイナルファンタジーIII（for iPad(3D)）; RPG; first listed 2022-05-25: release 2011.04.21; icons: ダウンロード; listed in every capture from 2022-05-25 to live (2026-10-27)
-
 ## jp.square-enix.com (Publisher; Japan, Android list, captures of 2013-06-11 to live (2026-10-27))
 
-- Square Enix Japan's Android game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Android game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2013-06-11 to 2017-10-10 http://www.jp.square-enix.com/game/android/ (the per-model page, titled Android); 2018-06-27 http://www.jp.square-enix.com/game/pf/android/ (the per-model page, titled Android | ゲーム; the saved page lists 76 items and a もっと見る button); 2019-03-09 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Android, platform filter ?pf=12 (the saved pages show the model checkbox value 12 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: 2013-06-11 to 2017-10-10 the icon image ダウンロード専用 (download only) on items; from 2018-06-27 the model label image Android (the model, not repeated below) and the label ダウンロード on items, the store buttons Google Playでダウンロード or SQUARE ENIX MARKETでダウンロード (2018) or Google Play or SQUARE ENIX MARKET (2019 on) beside 購入する (2019 on), and 事前登録する (2018) or 事前登録 (2019 on) on items not yet out; the ダウンロード専用 image and the ダウンロード label are both written ダウンロード below, 事前登録する and 事前登録 both 事前登録, the store buttons are written Google Play and SQUARE ENIX MARKET. Date label: 発売日 (release) or 配信日 (delivery), by item. CERO: no rating label on any capture
   - Link labels: 公式サイト (official site), 商品詳細 (detail page, 2019 on), Google Play and SQUARE ENIX MARKET (the store pages); 2013 to 2017 the thumbnail image links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
-  - ファイナルファンタジーIII; RPG; first listed 2013-06-11: release 2012.03.01; icons: ダウンロード; changes: 2019-03-09: genre RPG to RPG ※Wii VC終了, icons ダウンロード to Google Play, ダウンロード / 2020-03-12: icons Google Play, ダウンロード to Google Play, SQUARE ENIX MARKET, ダウンロード; listed in every capture from 2013-06-11 to 2021-03-08 except 2018-06-27
-    - http://dlgames.square-enix.com/ff/ -- 公式サイト link, listed 2013-06-11 to 2017-10-10 -- link recorded only -- archived: https://web.archive.org/web/20130611124444/http://dlgames.square-enix.com/ff/ (last listing: https://web.archive.org/web/20171010160332/http://dlgames.square-enix.com/ff/)
-    - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP -- Google Play link, listed 2019-03-09 to 2021-03-08 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP (last listing: https://web.archive.org/web/20210309031231/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP)
-    - http://an.sqexm.net/sp/site/Page/sqmk/FF3/top -- SQUARE ENIX MARKET link, listed 2020-03-12 to 2021-03-08 -- link recorded only -- archived: https://web.archive.org/web/20200312224040/http://an.sqexm.net/sp/site/Page/sqmk/FF3/top (last listing: https://web.archive.org/web/20210309031231/http://an.sqexm.net/sp/site/Page/sqmk/FF3/top)
   - ファイナルファンタジーIII（ピクセルリマスター）; RPG; first listed 2022-03-16: release 2021.07.29; icons: ダウンロード; listed in every capture from 2022-03-16 to 2023-03-16
-  - ファイナルファンタジーIII（3D REMAKE）; RPG; first listed 2024-04-15: release 2012.03.01; icons: ダウンロード; listed in every capture from 2024-04-15 to live (2026-10-27)
-
-## jp.square-enix.com (Publisher; Japan, Windows Phone list, captures of 2013-06-13 to live (2026-10-27))
-
-- Square Enix Japan's Windows Phone game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
-  - Page URL by capture: 2013-06-13 to 2017-12-02 http://www.jp.square-enix.com/game/windowsphone/ (the per-model page, titled WindowsPhone); 2019-05-19 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Windows Phone, platform filter ?pf=13 (the saved pages show the model checkbox value 13 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
-  - Icons: 2013-06-13 to 2017-12-02 none on items; from 2019-05-19 the model label image Windows Phone (the model, not repeated below), the label ダウンロード and the button 購入する on items, and the store button Microsoft Store on one item in 2019. Date label: 発売日 (release) or 配信日 (delivery), by item. CERO: no rating label on any capture
-  - Link labels: 公式サイト (official site, 2013 to 2017), Microsoft Store (the store page, 2019), 商品詳細 (detail page, live page); a link's archived URL is the capture of the link as the saved page renders it; links of the live page have no archive
-  - ファイナルファンタジーIII; RPG; first listed 2023-04-21: release 2013.12.27; icons: ダウンロード; listed in every capture from 2023-04-21 to live (2026-10-27); not on the captures of 2013-06-13 to 2019-05-19
-    - https://www.jp.square-enix.com/game/detail/ff3/ -- 商品詳細 link, listed live (2026-10-27) -- link recorded only
 
 ## jp.square-enix.com (Publisher; Japan, Famicom list, captures of 2022-11-07 to live (2026-10-28))
 
-- Square Enix Japan's Famicom game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+- Square Enix Japan's Famicom game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-28
   - Page URL by capture: 2022-11-07 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=28 (platform filter 28 = ファミリーコンピュータ; the saved pages show the model checkbox value 28 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: the labels as images: ファミリーコンピュータ (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
   - Link labels: 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -311,7 +188,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 
 ## jp.square-enix.com (Publisher; Japan, Final Fantasy franchise list, captures of 2023-09-28 to live (2026-10-28))
 
-- Square Enix Japan's Final Fantasy franchise search (the game list filtered by series) -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+- Square Enix Japan's Final Fantasy franchise search (the game list filtered by series) -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-28
   - Page URL by capture: 2023-09-28 to live (2026-10-28) https://www.jp.square-enix.com/game/?s=2 (series filter 2 = ファイナルファンタジー; the saved pages show the series checkbox value 2 checked and the result heading ファイナルファンタジー; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md; the list covers every platform at once, so each item names its platforms
   - Icons: the labels as images, platform names first (the models the item is listed for), then パッケージ (sold as a package), ダウンロード / ダウンロード専用 / ダウンロード対応 (download), オンライン専用 (online only), 審査予定 (rating pending), buttons (e-STOREで購入 / e-STOREで予約, PlayStation Store, App Store, Google Play and the like); "none" = no icon. CERO: the label's alt text where shown
   - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -323,7 +200,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 
 ## jp.square-enix.com (Publisher; Japan, Steam list, capture of live (2026-10-28))
 
-- Square Enix Japan's Steam list (the game list filtered by the Steam tag) -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Japan's Steam list (the game list filtered by the Steam tag) -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?s=9 (search filter 9 = Steam; the saved page shows the checkbox value 9 checked and the result heading Steam; the page's own address is https://www.jp.square-enix.com/game/); only the live page is saved, no Wayback capture read; every item lists the Windows model
   - Icons: the labels as images: Windows (the model, not repeated below), ダウンロード (download), オンライン専用 (online only), 審査予定 (rating pending), buttons (購入する, e-STOREで購入 / e-STOREで予約, Steam); "none" = no other icon. CERO: the label's alt text where shown
   - Link labels: Steam (the Steam store page), e-STOREで購入 / e-STOREで予約 (the Square Enix e-STORE page), 公式サイト (official site), 商品詳細 (detail page); links of the live page have no archive
@@ -334,118 +211,94 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 
 ## square-enix-games.com (Publisher; North America, Games list, PS4 filter, live page of 2026-10-28)
 
-- Square Enix Games' English (US) game list filtered by platform PS4 -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (US) game list filtered by platform PS4 -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with the platform filter set to PS4 (the saved page shows the filter "Platform (1)", and every card lists PS4; its links use the en_US locale; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 88 titles, each with platform names and "(Out Now)", no dates, genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Out Now); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_US -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; North America, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (US) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (US) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with no filter set (the saved page shows the Platform filter with nothing selected; its links use the en_US locale; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 144 titles, each with platform names and a status ((Out Now), a release date, (Coming Soon), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Out Now); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_US -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY III; first listed live (2026-10-28): platforms Steam, Android, iPhone; (Out Now); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/en_US/games/final-fantasy-iii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; United Kingdom, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (UK) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (UK) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_GB/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's United Kingdom country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Out Now); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY III; first listed live (2026-10-28): platforms Steam, Android, iPhone; (Out Now); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/en_GB/games/final-fantasy-iii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Rest of Europe, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (Rest of Europe) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (Rest of Europe) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_EU/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's Rest of Europe country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Out Now); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY III; first listed live (2026-10-28): platforms Steam, Android, iPhone; (Out Now); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/en_EU/games/final-fantasy-iii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Australia & New Zealand, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (Australia & New Zealand) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (Australia & New Zealand) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_AU/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's Australia & New Zealand country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Out Now); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY III; first listed live (2026-10-28): platforms Steam, Android, iPhone; (Out Now); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/en_AU/games/final-fantasy-iii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; France, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' French (France) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' French (France) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/fr_FR/games with no filter set (the saved page is in French, `lang="fr"`, the Plateformes filter with nothing selected; the page's France country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponible maintenant), a day-first release date, (Bientôt disponible), (Fin de service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Disponible maintenant); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/fr_FR -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY III; first listed live (2026-10-28): platforms Steam, Android, iPhone; (Disponible maintenant); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/fr_FR/games/final-fantasy-iii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Latin America, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_XL/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Latin America country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Disponible el 30 de octubre de 2025), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Ya disponible); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_US -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY III; first listed live (2026-10-28): platforms Steam, Android, iPhone; (Ya disponible); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/es_XL/games/final-fantasy-iii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Brazil, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Portuguese (Brazil) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Portuguese (Brazil) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/pt_BR/games with no filter set (the saved page is in Portuguese, `lang="pt"`, the Plataforma filter with nothing selected; the page's Brazil country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponível), a day-first release date, (Em breve), (Disponível em 30 de outubro de 2025), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Disponível); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_US -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY III; first listed live (2026-10-28): platforms Steam, Android, iPhone; (Disponível); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/pt_BR/games/final-fantasy-iii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Germany, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' German (Germany) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' German (Germany) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/de_DE/games with no filter set (the saved page is in German, `lang="de"`, the Plattformen filter with nothing selected; the page's Germany country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Jetzt verfügbar), a day-first release date, (Erscheint bald), (Erscheint am 30. Oktober 2025), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Jetzt verfügbar); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/de_DE -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY III; first listed live (2026-10-28): platforms Steam, Android, iOS; (Jetzt verfügbar); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/de_DE/games/final-fantasy-iii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Spain, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Spanish (Spain) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Spanish (Spain) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_ES/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Spain country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Coming 30 October 2025), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Ya disponible); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY III; first listed live (2026-10-28): platforms Steam, Android, iPhone; (Ya disponible); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/es_ES/games/final-fantasy-iii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Italy, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Italian (Italy) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Italian (Italy) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/it_IT/games with no filter set (the saved page is in Italian, `lang="it"`, the Piattaforma filter with nothing selected; the page's Italy country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ora disponibile), a day-first release date, (Presto disponibile), (Coming 30 October 2025), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Ora disponibile); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY III; first listed live (2026-10-28): platforms Steam, Android, iPhone; (Ora disponibile); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/it_IT/games/final-fantasy-iii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Poland, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Polish (Poland) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Polish (Poland) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/pl_PL/games with no filter set (the saved page is in Polish, `lang="pl"`, the Platforma filter with nothing selected; the page's Poland country link returns to this address; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Dostępne teraz), a day-first release date, (Już wkrótce), (Coming 30 October 2025), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Dostępne teraz); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY III; first listed live (2026-10-28): platforms Steam, Android, iPhone; (Dostępne teraz); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/pl_PL/games/final-fantasy-iii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Czech Republic, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Czech (Czech Republic) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Czech (Czech Republic) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/cs_CZ/games with no filter set (the saved page is in Czech, `lang="cs"`, the Platforma filter with nothing selected; the page's Czech Republic country link returns to this address; the saved file does not record the page's own address, and its file name carries no date); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Právě vychází), a day-first release date, (Již brzy), (Coming 30 October 2025), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Právě vychází); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY III; first listed live (2026-10-28): platforms Steam, Android, iPhone; (Právě vychází); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-iii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## ja.wikipedia.org (Information; Wii Virtual Console game title list, live page of 2026-10-28)
 
@@ -480,7 +333,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japan release dates, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111298721 of 2026-10-06); archived: TODO
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (ナンバリング作品とその続編): ファイナルファンタジーIII（FC・1990年4月27日、VC（Wii・3DS・Wii U）、iOS、Android）
-  - Row (ナンバリング作品とその続編): ファイナルファンタジーIII (リメイク版)（DS・2006年8月24日、PSP、iOS、Android、Windows Phone、Ouya、Steam）
   - Row (ナンバリング作品とその続編): ファイナルファンタジー ピクセルリマスター（Win_Steam、Android、iOS・2021年7月29日、Switch、PS4、XBOX、Win_MSStore）
 
 ## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
@@ -488,23 +340,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 - https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111341023 of 2026-10-10); archived: TODO
   - Lists the games released in Japan for PlayStation 4 (index page with the 2022 to 2027 tables and the unreleased titles; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (2023年): ファイナルファンタジーIII; 2023-04-20; スクウェア・エニックス; パ: blank (download only per the legend); note: ピクセルリマスター版 (one publisher and note cell shared by the six titles)
-
-## ja.wikipedia.org (Information; PlayStation Portable game title list, live page of 2026-10-28)
-
-- https://ja.wikipedia.org/wiki/PlayStation_Portableのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111463101 of 2026-10-21); archived: TODO
-  - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
-  - Row (2012年): ファイナルファンタジーIII; Japan 2012-09-20; North America 2012-09-25; Europe unreleased; スクウェア・エニックス; DL: ○
-
-## ja.wikipedia.org (Information; Nintendo DS game title list, live pages of 2026-10-29)
-
-- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (index page, revision 110706708 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
-  - Index of the DS lists: the released games are on per-year pages, the index holds the non-retail and unreleased titles; DSiウェア titles are on ニンテンドーDSiウェアのタイトル一覧
-- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧_(2006年) -- dates*, platforms* -- accessed 2026-10-29 (revision 109770985 of 2026-06-01; wikitext read through the MediaWiki API); archived: TODO
-  - Lists the games released in Japan that year, in release order (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark
-  - Row: ファイナルファンタジーIII; Japan 2006-08-24; スクウェア・エニックス; note: ファミリーコンピュータ用ソフト『ファイナルファンタジーIII』のリメイク; 本体同梱版あり
-    - reference link recorded only: https://game.watch.impress.co.jp/docs/20060712/ff.htm
-    - reference link recorded only: https://web.archive.org/web/20240715120527/https://game.watch.impress.co.jp/docs/20060712/ff.htm
-    - reference link recorded only: https://game.watch.impress.co.jp/docs/20060601/ff.htm
 
 ## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
 
@@ -517,35 +352,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 - https://ja.wikipedia.org/wiki/ファミリーコンピュータのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111001969 of 2026-09-13; wikitext read through the MediaWiki API); archived: TODO
   - List of the Famicom and NES games released worldwide, one table 発売されたタイトル sorted by Japan release date (columns: Japan, North America and Europe dates, title with the overseas title beneath, publisher, note, reference); "未発売" means not released in that region
   - Row: ファイナルファンタジーIII; Japan 1990-04-27; North America and Europe not released; スクウェア; no note; footnote: ファミリーコンピュータ 1983-1994 gives 1990-04-24
-
-## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
-
-- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
-  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
-  - Member: ファイナルファンタジーIII (リメイク版)
-- https://ja.wikipedia.org/wiki/ファイナルファンタジーIII_(リメイク版) -- accessed 2026-10-29 (revision 111454378 of 2026-10-20); archived: TODO
-
-## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
-
-- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
-  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
-  - Member: ファイナルファンタジーIII (リメイク版)
-- https://ja.wikipedia.org/wiki/Category:IPad用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445125 of 2025-04-10; members read through the MediaWiki API); archived: TODO
-  - Category of iPad game software: 186 pages, no subcategories
-  - Member: ファイナルファンタジーIII (リメイク版)
-- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
-  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
-  - Member: ファイナルファンタジーIII (リメイク版)
-
-## ja.wikipedia.org (Information; Ouya console article and Final Fantasy III remake article, live pages of 2026-10-29)
-
-- https://ja.wikipedia.org/wiki/Ouya -- platforms*, dates -- accessed 2026-10-29 (revision 111342466 of 2026-10-10); archived: TODO
-  - No Japanese list of Ouya titles or Ouya category; "関連項目" links only en:List of Ouya software
-  - Developer section: announcement of the Final Fantasy III release (refs: Square Enix press item "スクウェア・エニックス、新ゲームプラットフォーム「OUYA」向けに「ファイナルファンタジーIII」を提供"; a news item on the Japan launch of the Android-based console)
-- https://ja.wikipedia.org/wiki/ファイナルファンタジーIII_(リメイク版) -- platforms*, dates -- accessed 2026-10-29 (revision 111454378 of 2026-10-20); archived: TODO
-  - Infobox: "Ouya: 2013年4月"; Ouya version section: released April 2013 as one of the console's launch titles
-  - Footnote 21: 4Gamer.net article of 2012-08-01 announcing Final Fantasy III as an Ouya launch title
-  - No Ouya category on the page
 
 ## ja.wikipedia.org (Information; NES Classic Edition console article, live page of 2026-10-29)
 
@@ -562,9 +368,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - 1173790 FINAL FANTASY III -- no type label; store column: store page link
     - https://steamdb.info/app/1173790/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/1173790/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 239120 Final Fantasy III (3D Remake) -- no type label; store column: store page link
-    - https://steamdb.info/app/239120/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-    - https://store.steampowered.com/app/239120/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
 ## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
@@ -572,8 +375,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
   - 1173790 FINAL FANTASY III -- release date shown: 12 Aug, 2021; platforms shown: win; review summary: Very Positive -- 93% of the 1,722 user reviews for this game are positive.
     - https://store.steampowered.com/app/1173790/FINAL_FANTASY_III/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 239120 Final Fantasy III (3D Remake) -- release date shown: 27 May, 2014; platforms shown: win; review summary: Mostly Positive -- 79% of the 1,716 user reviews for this game are positive.
-    - https://store.steampowered.com/app/239120/Final_Fantasy_III_3D_Remake/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
 ## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
@@ -581,8 +382,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
   - Final Fantasy III -- outside-store result (IGDB.com); developer shown: Square Enix Creative Business Unit IV
     - https://square-enix-games.com/en_US/news/final-fantasy-pixel-remaster -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Final Fantasy III -- outside-store result (IGDB.com); developer shown: Matrix Software
-    - http://dlgames.square-enix.com/ff/ff3/jp -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
 
 ## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
 
@@ -592,14 +391,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
     - https://backloggd.com/games/final-fantasy-iii--3/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
   - Final Fantasy III (1994) -- type label Main Game; platforms shown: New Nintendo 3DS, Wii U, Wii, Super Famicom, Super Nintendo Entertainment System
     - https://backloggd.com/games/final-fantasy-iii--7/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
-  - Final Fantasy III (2006) -- type label Remake; platforms shown: Nintendo DS
-    - https://backloggd.com/games/final-fantasy-iii/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
   - Final Fantasy: Pixel Remaster Collection (2021) -- type label Bundle; platforms shown: Windows PC, Xbox Series X|S, Nintendo Switch, PlayStation 4, iOS
     - https://backloggd.com/games/final-fantasy-pixel-remaster-collection/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
   - Final Fantasy III (1990) -- type label Main Game; platforms shown: Nintendo 3DS, Wii U, Wii, Family Computer
     - https://backloggd.com/games/final-fantasy-iii--1/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
-  - Final Fantasy III (2012) -- type label Remaster; platforms shown: PlayStation Portable
-    - https://backloggd.com/games/final-fantasy-iii--4/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
 ## igdb.com (Information; IGDB, live pages of 2026-11-03)
 
@@ -607,16 +402,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Capture: live (2026-11-03) pages: company page of Square (video game publisher, Japan), 1 of 3 saved pages; search results for "final fantasy artniks" (first 50 of 2703, relevance order); search results for "final fantasy" (first 50 of 2703, relevance order); search results for "final fantasy 4 heroes of light" (first 50 of 10000, relevance order); search results for "final fantasy agito" (first 50 of 2706, relevance order); search results for "final fantasy airborne brigade" (first 50 of 2841, relevance order); search results for "final fantasy all the bravest" (first 50 of 4675, relevance order); search results for "final fantasy awakening" (first 50 of 3157, relevance order); search results for "final fantasy digital card game" (first 50 of 10000, relevance order); search results for "final fantasy dimensions" (first 50 of 3114, relevance order); search results for "final fantasy endless nova" (first 50 of 3443, relevance order); search results for "final fantasy explorers" (first 50 of 3146, relevance order); search results for "final fantasy grandmasters" (first 50 of 2730, relevance order); search results for "final fantasy iv the after years" (first 50 of 4801, relevance order); search results for "final fantasy portal app" (first 50 of 3492, relevance order); search results for "final fantasy record keeper" (first 50 of 3181, relevance order); search results for "final fantasy renaissance" (first 50 of 2738, relevance order); search results for "final fantasy resonance" (first 50 of 2764, relevance order); search results for "final fantasy tactics" (first 50 of 3493, relevance order); search results for "final fantasy unlimited" (first 50 of 2906, relevance order); search results for "final fantasy xv" (first 50 of 2746, relevance order); search results for "mobius final fantasy" (first 50 of 2741, relevance order); search results for "world of final fantasy" (first 50 of 9532, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
   - Final Fantasy III (1990) -- type label Main Game; platforms shown: Wii, Family Computer, Nintendo 3DS, Wii U; released 1990-04-27
     - https://www.igdb.com/games/final-fantasy-iii--1 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
-  - Final Fantasy III (2006) -- type label Remake of Final Fantasy III (1990); platforms shown: Nintendo DS; released 2006-08-24
-    - https://www.igdb.com/games/final-fantasy-iii -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
-  - Final Fantasy III (2011) -- type label Port of Final Fantasy III (2006); platforms shown: Android, Windows Phone, Ouya, iOS; released 2011-03-24
-    - https://www.igdb.com/games/final-fantasy-iii--5 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
-  - Final Fantasy III (2014) -- type label Port of Final Fantasy III (2011); platforms shown: PC (Microsoft Windows); released 2014-05-27
-    - https://www.igdb.com/games/final-fantasy-iii--6 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
   - Final Fantasy III (2021) -- type label Remaster of Final Fantasy III (1990); platforms shown: PlayStation 4, Nintendo Switch, PC (Microsoft Windows), Android, Xbox Series X, iOS; released 2021-07-28
     - https://www.igdb.com/games/final-fantasy-iii--3 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
-  - Final Fantasy III + Final Fantasy IV: Double Pack Edition (2016) -- type label Bundle; platforms shown: PC (Microsoft Windows); released 2016-09-02
-    - https://www.igdb.com/games/final-fantasy-iii-plus-final-fantasy-iv-double-pack-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## ja.wikipedia.org (Information; Virtual Console categories, live pages of 2026-11-03)
 
@@ -629,43 +416,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 - https://ja.wikipedia.org/wiki/バーチャルコンソール -- Virtual Console is digital -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461123 of 2026-10-21); archived: TODO
   - Says all Virtual Console software is digital distribution (download sale), so an internet connection was needed to buy it; Wii, Wii U and Nintendo 3DS are now re-download only
 
-## gog.com (Platform; GOG.com catalogue, English storefront, live pages of 2026-11-03)
-
-- GOG catalogue pages (www.gog.com/en/games) -- read from saved live pages -- accessed 2026-11-03
-  - Page URL by capture: live 2026-11-03 https://www.gog.com/en/games?query=final%20fantasy&order=desc:score; https://www.gog.com/en/games?developers=square-enix; https://www.gog.com/en/games?publishers=square-enix; not signed in; only the live pages are saved, no Wayback capture read
-  - Listed on all three pages; product id 1436419216; tile title "Final Fantasy III (3D Remake)"; year shown: 2014; developer / publisher shown: Square Enix / Square Enix; platform icons: Windows only; languages shown: English (text); label: GOOD OLD GAME
-    - https://www.gog.com/en/game/final_fantasy_iii_3d_remake -- GOG product page, listed live (2026-11-03) -- link recorded only -- archived: TODO
-
-## en.wikipedia.org (Information; List of Nintendo DS Wi-Fi Connection games, live page of 2026-11-03)
-
-- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_Wi-Fi_Connection_games -- dates, platforms -- accessed 2026-11-03 (revision 1374057573 of 2026-09-09; wikitext read through the MediaWiki API); archived: TODO
-  - Row: Title: Final Fantasy III; Genre: RPG; Number of Players: 2; Developer: Square Enix / Matrix Software; Publisher: Square Enix; Available: NA EU AUS JP; First Released: 2006-11-14; Source: 1=[https://web.archive.org/web/20080625120148/http://na.square-enix.com/ff3/]
-
-## en.wikipedia.org (Information; List of Nintendo DS games (D–I), live page of 2026-11-03)
-
-- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_games_(D%E2%80%93I) -- dates, platforms -- accessed 2026-11-03 (revision 1380441952 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
-  - Row: Title: Final Fantasy III (2006 video game); Developer(s): Matrix Software; Publisher(s): Square Enix; First released: JP 2006-08-24; JP: Y; NA: Y; EU: Y; AU: Y
-
 ## en.wikipedia.org (Information; List of Nintendo Entertainment System games, live page of 2026-11-03)
 
 - https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_games -- dates, platforms -- accessed 2026-11-03 (revision 1381703740 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
   - Columns in order: Title(s) /; Developer(s); Publisher(s); First released; Release date
   - Row: Final Fantasy III; Square; Square; 1990-04-27JP; 1990-04-27; Unreleased; Unreleased
-
-## en.wikipedia.org (Information; List of Ouya software, live page of 2026-11-03)
-
-- https://en.wikipedia.org/wiki/List_of_Ouya_software -- dates, platforms -- accessed 2026-11-03 (revision 1371515439 of 2026-08-26; wikitext read through the MediaWiki API); archived: TODO
-  - Row: Title: Final Fantasy III; Developer(s): Square Enix; Release date: March 2013
-
-## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
-
-- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
-  - Row: Name: Final Fantasy III; Developer: Square Enix; Publisher: Square Enix; Genre(s): Role-playing; Operating system(s): Microsoft Windows; Date released: 2014-5-27
-
-## en.wikipedia.org (Information; List of PlayStation Portable games, live page of 2026-11-03)
-
-- https://en.wikipedia.org/wiki/List_of_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1380269697 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
-  - Row: Title: Final Fantasy III; North America: 2012/09/25; Europe: Unreleased; Asia/Japan: 2012/09/20; Australia: Unreleased; Developer: Square Enix; Publisher: Square Enix
 
 ## en.wikipedia.org (Information; List of Virtual Console games for Nintendo 3DS (Japan), live page of 2026-11-03)
 
@@ -683,16 +438,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 - https://en.wikipedia.org/wiki/List_of_Virtual_Console_games_for_Wii_U_(Japan) -- dates, platforms -- accessed 2026-11-03 (revision 1383448124 of 2026-11-02; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Final Fantasy III; Publisher: Square Enix; Platform: FC; Release date: 2014-1-8
 
-## en.wikipedia.org (Information; List of Xbox Live games on Windows Phone, live page of 2026-11-03)
-
-- https://en.wikipedia.org/wiki/List_of_Xbox_Live_games_on_Windows_Phone -- dates, platforms -- accessed 2026-11-03 (revision 1366785898 of 2026-07-30; wikitext read through the MediaWiki API); archived: TODO
-  - Row: Title: Final Fantasy III; Developer: Matrix Software; Publisher: Square Enix
-
-## en.wikipedia.org (Information; List of downloadable PlayStation Portable games, live page of 2026-11-03)
-
-- https://en.wikipedia.org/wiki/List_of_downloadable_PlayStation_Portable_games -- dates, platforms -- accessed 2026-11-03 (revision 1374465186 of 2026-09-12; wikitext read through the MediaWiki API); archived: TODO
-  - Row: Title: Final Fantasy III; Developer: Square Enix; PSP: September 25, 2012 (North America) / September 26, 2012 (Europe)
-
 ## en.wikipedia.org (Information; NES Classic Edition console article, Included games section, live page of 2026-11-03)
 
 - https://en.wikipedia.org/wiki/NES_Classic_Edition -- platforms*, dates -- accessed 2026-11-03 (revision 1374536097; wikitext read through the MediaWiki API); archived: TODO
@@ -704,19 +449,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
 - https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
   - Category of Android games: 2461 pages, 9 subcategories
   - Member: Final Fantasy III
-  - Member: Final Fantasy III (2006 video game)
 
 ## en.wikipedia.org (Information; iOS games category, live page of 2026-11-04)
 
 - https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
   - Category of iOS games: 3354 pages, 7 subcategories
-  - Member: Final Fantasy III
-  - Member: Final Fantasy III (2006 video game)
-
-## en.wikipedia.org (Information; Windows Phone games category, live page of 2026-11-04)
-
-- https://en.wikipedia.org/wiki/Category:Windows_Phone_games -- Windows Phone platform release -- accessed 2026-11-04 (category page revision 952280029 of 2020-04-21; members read through the MediaWiki API); archived: TODO
-  - Category of Windows Phone games: 232 pages, 2 subcategories
   - Member: Final Fantasy III
 
 ## en.wikipedia.org (Information; PlayStation Network games category, live page of 2026-11-04)
@@ -740,15 +477,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III_(3D_Remake)_v
   - Member: Final Fantasy III
   - Titles only; no date or region
 
-## microsoft.com (Platform; Microsoft Store, Top paid games list for mobile, capture of 2016-07-08)
-
-Page URL by capture: 2016-07-08 https://www.microsoft.com/en-us/store/top-paid/games/mobile (Microsoft Store "Top Charts", Top paid games, mobile; 72 tiles on the saved page)
-
-- https://web.archive.org/web/20160708133324/https://www.microsoft.com/en-us/store/games/final-fantasy-iii/9wzdncrfj26s -- Final Fantasy III, tile 21 of 72; 4.4 stars out of 5 on the tile; product page not fetched -- capture of 2016-07-08, link recorded only; archived: the capture itself
-
 ## nintendo.com (Platform; Nintendo Japan Wii U software list, Virtual Console, saved pages of 2026-11-08)
 
-- Page URL: https://www.nintendo.com/jp/software/wiiu/index_all.html (the all-results page of Nintendo Japan's Wii U software list; Virtual Console filter vcall, 20 pages of 479 titles) -- dates, platforms -- accessed 2026-11-08 (saved pages read by me); archived: TODO
+- Page URL: https://www.nintendo.com/jp/software/wiiu/index_all.html (the all-results page of Nintendo Japan's Wii U software list; Virtual Console filter vcall, 20 pages of 479 titles) -- dates, platforms -- accessed 2026-11-08 (saved pages); archived: TODO
   - ファイナルファンタジーIII; maker スクウェア・エニックス; release 2014-01-08; platform label ファミコン; listed on saved page 17 of 20; the row is plain text with no link to an item page
 
 ## nintendo.co.jp (Platform; Nintendo Japan Nintendo 3DS software list, saved data of 2026-11-08)
@@ -770,9 +501,6 @@ Page URL by capture: 2016-07-08 https://www.microsoft.com/en-us/store/top-paid/g
 
 Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
 
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP -- app page linked from the search results, shown as "FINAL FANTASY III (3D REMAKE)", developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
-  - English store: listed in 22 of 35 saved searches
-  - Japanese store: listed in 3 of 11 saved searches
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR3 -- app page linked from the search results, shown as "FINAL FANTASY III", developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
   - English store: listed in 22 of 35 saved searches
   - Japanese store: listed in 3 of 11 saved searches
@@ -782,25 +510,16 @@ Page URL by capture: 2026-11-08 English store https://play.google.com/store/sear
 Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (English store; the saved file carries no url, the developer id is read from its links)
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR3 -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY III" -- accessed 2026-11-08 -- link recorded only; archived: TODO
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY III (3D REMAKE)" -- accessed 2026-11-08 -- link recorded only; archived: TODO
 
 ## play.google.com (Platform; Google Play, Japanese store, Square Enix developer page, saved page of 2026-11-08)
 
 Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (Japanese store; the saved file carries no url, the developer id is read from its links)
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR3 -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY III" -- accessed 2026-11-08 -- link recorded only; archived: TODO
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY III (3D REMAKE)" -- accessed 2026-11-08 -- link recorded only; archived: TODO
-
-## play.google.com (Platform; Wayback captures of the Square Enix developer page, one per year 2015 to 2026)
-
-Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13; 2020-02-03; 2021-02-09; 2022-01-13; 2023-01-07; 2024-02-02; 2025-01-17; 2026-01-05 https://play.google.com/store/apps/dev?id=8026010256970589886 (first capture of each year; 2019 is the 2019-03-13 capture; each page shows only the first ten or eleven apps)
-
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP -- app listed in the developer page captures of 2016-02-06 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20160206024002/https://play.google.com/store/apps/dev?id=8026010256970589886
 
 ## finalfantasywiki.com (Information)
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_III -- listed in Category:Games -- page not read -- accessed 2026-11-08
-- https://finalfantasywiki.com/wiki/Final_Fantasy_III_(3D_remake) -- listed in Category:Games -- page not read -- accessed 2026-11-08
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Pixel_Remaster -- listed in Category:Games -- page not read -- accessed 2026-11-08
 
 ## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
@@ -830,12 +549,6 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - https://finalfantasy.fandom.com/wiki/Final_Fantasy_III#External_links -- seven links -- accessed 2026-11-08 (revision 4063232 of 2026-10-21; wikitext read through the Fandom API)
 Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III#External_links
-  - http://www.square-enix.co.jp/ff3/ -- Final Fantasy III DS, official Japanese site (also recorded in the Official websites section above) -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - http://na.square-enix.com/ff3/ -- Final Fantasy III DS, official North American site (also recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://itunes.apple.com/us/app/final-fantasy-iii/id424591347?mt=8 -- iTunes Store purchase page (the app id is recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP -- Google Play purchase page (also recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - http://www.windowsphone.com/en-gb/store/app/final-fantasy-iii/14ee2c62-1f7d-4e57-8380-5433d4df54b2 -- Windows Phone Store purchase page (the en-us capture is recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - http://store.steampowered.com/agecheck/app/239120/ -- Steam purchase page (the agecheck link is recorded above) -- link recorded only -- accessed 2026-11-08; archived: TODO
   - https://en.wikipedia.org/wiki/Final_Fantasy_III -- the English Wikipedia article (recorded in the wikipedia.org section) -- link recorded only -- accessed 2026-11-08; archived: TODO
 
 ## finalfantasywiki.com (Information; External links section, live page of 2026-11-08)
@@ -862,80 +575,39 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_III#External_link
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 36/40 (Famicom; 9, 9, 10, 8, Platinum), Family Computer Magazine reader-vote 26.60/30 and ROM cassette ranking: music 4th, enthusiasm 3rd, originality 4th, overall 4th; Allgame 4.5/5 (Famicom) -- accessed 2026-11-10 (revision 111042702 of 2026-09-16; wikitext read through the MediaWiki API); archived: TODO
 
-## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
 
 - https://www.imdb.com/title/tt0207486/ -- IMDb title page for Final Fantasy III, IMDb id tt0207486, original title Fainaru fantajî III, type Video Game, year 1990, release date 1990-04-27, genres Action, Adventure, Fantasy, rating 7.3 from 715 votes, production status Released; plot: Four orphans seek to restore the balance between light and darkness in the world. -- accessed 2026-11-11; archived: TODO
-
-## thefinalfantasy.net (Information; Mobile Game Releases list, saved page of 2026-11-11)
-
-- https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
-  - Final Fantasy III [3]: Apple iOS, 2011-03-24, region International
-  - Final Fantasy III [3]: Android, 2012-06-27, region International
-  - Final Fantasy III [3]: Kindle Fire, 2012-11-01, region International
-  - Final Fantasy III [3]: Windows Phone, 2013-12-27, region International
 
 ## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
 
 - https://thefinalfantasy.net/games/complete-list.html (complete game list with release dates) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Final Fantasy III [3]: Famicom, 1990-04-27, region JP
-  - Final Fantasy III [3] DS: Nintendo DS, 2006-08-24, region JP
-  - Final Fantasy III [3] DS: Nintendo DS, 2006-11-14, region NA
-  - Final Fantasy III [3] DS: Nintendo DS, 2007-05-03, region AUS
-  - Final Fantasy III [3] DS: Nintendo DS, 2007-05-04, region EU
   - Final Fantasy III [3]: Wii Virtual Console, 2009-07-21, region JP
-  - Final Fantasy III [3]: Apple iOS, 2011-03-24, region International
-  - Final Fantasy III [3]: Android, 2012-06-27, region International
-  - Final Fantasy III [3]: Sony PSP, 2012-09-20, region JP
-  - Final Fantasy III [3]: PlayStation Network, 2012-09-25, region NA
-  - Final Fantasy III [3]: PlayStation Network, 2012-09-26, region EU
-  - Final Fantasy III [3]: Kindle Fire, 2012-11-01, region International
-  - Final Fantasy III [3]: Ouya, 2013-04-15, region International
-  - Final Fantasy III [3]: Windows Phone, 2013-12-27, region International
   - Final Fantasy III [3]: Nintendo 3DS Virtual Console, 2014, region JP
   - Final Fantasy III [3]: Wii U Virtual Console, 2014-01-08, region JP
-  - Final Fantasy III [3]: PC (Steam), 2014-05-27, region International
   - Final Fantasy III [3]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2021-07-28, region International
-- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
-  - Final Fantasy III [3]: Sony PSP, 2012-09-20, region JP
-  - Final Fantasy III [3]: PlayStation Network, 2012-09-25, region NA, EU
 - https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Final Fantasy III [3]: Famicom, 1990-04-27, region JP
-  - Final Fantasy III [3]: Nintendo DS, 2006-08-24, region JP, NA, AUS, EU
   - Final Fantasy III [3]: 3DS Virtual Console, 2014, region JP
   - Final Fantasy III [3]: Wii U Virtual Console, 2014-01-08, region JP
-- https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
-  - Final Fantasy III [3]: Ouya, 2013-04-15, region International
-  - Final Fantasy III [3]: Microsoft Windows Steam (PC), 2014-05-27, region International
 - the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Final Fantasy III [3]: Famicom, 1990-04-27, score 66.8%
-  - Final Fantasy III [3] DS: Nintendo DS, 2006-08-24, score ---
   - Final Fantasy III [3]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2021-07-28, score ---
 
 ## thefinalfantasy.net (Information; FF3 Re-releases page, saved page of 2026-11-11)
 
 - https://thefinalfantasy.net/ff3/re-releases.html -- accessed 2026-11-11 (saved page read); archived: TODO
   - Release dates shown: Apr. 27, 1990 (Famicom), Nov. 14, 2006 (DS); platforms Famicom, Nintendo DS, Android, iOS, PSP
-  - DS remake: Japan 2006-08-24, North America 2006-11-14, first release outside Japan; artist Akihiko Yoshida; named characters Luneth, Arc, Ingus and Refia; Freelancers start, Job Transition Phase, Mail/Mognet; a WonderSwan Color port was attempted before and failed
-  - iOS 2011-03-24 via the App Store; Android 2012-06-27
 
 ## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
 
 - https://thefinalfantasy.net/ff3/ -- Final Fantasy III overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Final Fantasy III [3]: Famicom, JP 1990-04-27, US -
-  - Final Fantasy III [3]: Nintendo DS, JP 2006-08-24, US 2006-11-14
-  - Final Fantasy III [3]: iOS, JP 2011-03-24, US 2011-03-24
-  - Final Fantasy III [3]: Android, JP 2012-06-27, US 2012-06-27
-  - Final Fantasy III [3]: Sony PSP, JP 2012-09-20, US -
-  - Final Fantasy III [3]: Kindle Fire, JP 2012-11-01, US 2012-11-01
-  - Final Fantasy III [3]: Ouya, JP 2013-04-15, US 2013-04-15
-  - Final Fantasy III [3]: Windows Phone, JP 2013-12-27, US 2013-12-27
   - Final Fantasy III [3]: Wii U Virtual Console, JP 2014-01-08, US -
-  - Final Fantasy III [3]: Microsoft Windows Steam, JP 2014-05-27, US 2014-05-27
   - Final Fantasy III [3]: Nintendo 3DS Virtual Console, JP 2014, US -
   - Final Fantasy III [3]: Pixel Remaster: Steam, Android, iOS, JP 2021-07-28, US -
 
 ## Decisions
 
-- **Not to be listed: the cancelled WonderSwan Color version of Final Fantasy III (user, 2026-11-03):** a Square WonderSwan Color game in the cancelled list, cited to RPGFan's 'WSC FFIII Vanishes, FFI-II Remake In The Works' (2002, http://www.rpgfan.com/news/2002/1717.html, https://web.archive.org/web/20070315205600/http://www.rpgfan.com/news/2002/1717.html); never released, so the WonderSwan Color is not a platform of Final Fantasy III. Only this platform is left out: the game itself released on other platforms and stays listed on them
-  - Evidence: https://en.wikipedia.org/wiki/List_of_WonderSwan_Color_games (revision 1351986427 of 2026-05-01; Cancelled games section)
-- Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII#%E6%94%BB%E7%95%A5%E6%9C%AC)
+- Not listed: the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII#%E6%94%BB%E7%95%A5%E6%9C%AC)

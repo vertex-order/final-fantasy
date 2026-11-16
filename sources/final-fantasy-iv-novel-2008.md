@@ -30,9 +30,6 @@ duckduckgo.com (Information)
 - https://duckduckgo.com/?q=Final%20Fantasy%20IV%20~Novel~%20Vol.1%20translation -- fan-translation search (Vol.1)
 - https://duckduckgo.com/?q=Final%20Fantasy%20IV%20~Novel~%20Vol.2%20translation -- fan-translation search (Vol.2)
 
-fanfiction.net (Information)
-- https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel -- fan project alt*
-
 wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Final_Fantasy_media#Novels_and_manga -- dates*, ISBN* (agrees with the google books ISBNs) -- accessed 2026-10-09
   - Wikipedia: December 25, 2008; two-volume novelization of Final Fantasy IV; JP ISBN 4-7575-2458-7 (Vol.1) and 4-7575-2459-5 (Vol.2)
@@ -41,7 +38,7 @@ youtube.com (Information)
 - https://www.youtube.com/results?search_query=Final%20Fantasy%20IV%20~Novel~%20audiobook -- audiobook* (results exist) -- accessed 2026-10-08
 
 breezewiki.com (Information)
-- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits (Ichiro Tezuka), dates (both volumes December 25, 2008), ISBNs (Jōkan 978-4-7575-2458-3, Gekan 978-4-7575-2459-0); the Novels table row only, no dedicated page — accessed 2026-10-11 (table pasted by user; fetch blocked) — archived: TODO
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book#Novels — credits (Ichiro Tezuka), dates (both volumes December 25, 2008), ISBNs (Jōkan 978-4-7575-2458-3, Gekan 978-4-7575-2459-0); the Novels table row only, no dedicated page — accessed 2026-10-11 (fetch blocked) — archived: TODO
 
 ## ja.wikipedia.org (Information; ファイナルファンタジーIV article, 関連商品 section, live page of 2026-11-09)
 

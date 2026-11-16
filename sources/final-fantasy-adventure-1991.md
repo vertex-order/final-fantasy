@@ -28,62 +28,31 @@ Fandom and other wikis (Information)
   - Mobile versions and Adventures of Mana kept them
   - Mobile dates 2006-08-16 (Softbank 3G), 2006-11-06 (i-Mode), 2007-02-05 (EZweb)
   - Names table gives titles only (Mystic Quest in es/fr/de/it), not game text languages
-- https://wikiofmana.com/wiki/Adventures_of_Mana -- FF elements -- accessed 2026-10-20 (page text pasted by user)
-  - Adventures of Mana is a 3D remake of Final Fantasy Adventure by Square Enix and MCF, published by Square Enix: iOS and Android worldwide 2016-02-04, PlayStation Vita Japan 2016-02-04 and USA and Europe 2016-06-28 (the Final Fantasy Wiki says NA 06-28, EU 2016-06-27 above)
-  - "It is considered to be a more faithful remake than Sword of Mana, as it retains the Final Fantasy elements but does not retain the changes that were added into Sword of Mana aside from the Ring Command system"
-  - So this second page of the same wiki confirms Adventures of Mana keeps the Final Fantasy elements; it says nothing about the 2006 mobile remake
 - https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure -- dates*, platforms* -- accessed 2026-10-18
   - Game Boy US 1991-11-01, EU 1993-02-15
-  - Adventures of Mana iOS/Android 2016-02-04, Vita JP 2016-02-04, EU 2016-06-27, NA 2016-06-28
 
-Final Fantasy elements in the remakes (checked 2026-10-20, page text pasted by user)
-- https://en.wikipedia.org/wiki/Final_Fantasy_Adventure -- "The game was released with many familiar elements of the Final Fantasy series, such as chocobos, but these were later changed to feature common enemies and the gameplay style of the Mana series." Ambiguous whether later releases of this game or later games in the series changed them (the user reads it as the later games)
+Final Fantasy elements in the remakes (checked 2026-10-20)
+- https://en.wikipedia.org/wiki/Final_Fantasy_Adventure -- "The game was released with many familiar elements of the Final Fantasy series, such as chocobos, but these were later changed to feature common enemies and the gameplay style of the Mana series." Ambiguous whether later releases of this game or later games in the series changed them (read here as the later games)
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Adventure -- Sword of Mana (GBA 2003) changed the plot and many gameplay aspects; a second remake on mobile phones in Japan improved the graphics and music of the original; a third remake, Adventures of Mana, iOS, Android and PlayStation Vita 2016-02-04; says nothing about Final Fantasy elements in the remakes
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure#Story -- a good story recap (user, 2026-10-20), a candidate link if the entry lacks a recap link
+- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure#Story -- a good story recap, a candidate link if the entry lacks a recap link
 - https://breezewiki.com/mana/wiki/Mana_(series) -- the series began as a handheld side story to Final Fantasy, but most Final Fantasy-inspired elements were dropped starting with the second installment, Secret of Mana
 - https://breezewiki.com/mana/wiki/Sword_of_Mana_(game)#Game_design -- Sword of Mana "removed elements from the Final Fantasy series, which had been placed in the original game as a part of the marketing for the game before its sequels moved to be a distinct series"
 - https://en.wikipedia.org/wiki/Sword_of_Mana -- it "removes elements of the Final Fantasy series present in the original game as a marketing ploy, while adding in gameplay elements and artistic styles from later games in the series"
-- https://en.wikipedia.org/wiki/Adventures_of_Mana#Development_and_release -- the second remake of Final Fantasy Adventure, the first being Sword of Mana, "which had removed the connections to the Final Fantasy series"; read by the user as implying this remake is truer to the original, not a 3D remake of Sword of Mana (it calls out Sword of Mana's removal and not its own)
-- https://breezewiki.com/mana/wiki/Adventures_of_Mana -- a Mana wiki page of the 3D remake (the Final Fantasy Wiki has none: Adventures of Mana redirects to Final Fantasy Adventure there, checked through the Fandom API); the entry's `subtitleUrl` for it is the Wikipedia article
-  - Section Final Fantasy Adventure (https://breezewiki.com/mana/wiki/Adventures_of_Mana#Final_Fantasy_Adventure): the original "included many references to the Final Fantasy series, such as chocobos", in the past tense, which the user reads as the remake removing them (not conclusive)
-  - Section A faithful re-creation (https://breezewiki.com/mana/wiki/Adventures_of_Mana#A_faithful_re-creation): reviewers praised the visuals and music, some calling it a better remake than Sword of Mana; "Once again, the game features a chocobo" (a Final Fantasy element kept in the 3D remake)
 - Reading together (2026-10-20): Sword of Mana removed the Final Fantasy elements (Wikipedia and the Mana wiki agree); Adventures of Mana keeps them (wikiofmana's "retains the Final Fantasy elements" and the Mana wiki's chocobo); the 2006 mobile remake improved the graphics and music of the original (Final Fantasy Wiki) and wikiofmana says the mobile versions kept them
 
 square-enix.com and stores (Publisher)
 - https://www.jp.square-enix.com/game/detail/seiken/ -- Game Boy and 2016 remake on one page -- accessed 2026-10-18 -- lists Game Boy (1991-06-28) with iOS, Android, Vita (2016-02-04)
-- https://www.jp.square-enix.com/seiken/ and https://www.jp.square-enix.com/seiken/en/ -- Adventures of Mana site (Japanese and English, language toggle); profileUrl is the English page; store links -- accessed 2026-10-18
-  - Badges: App Store (jp id1048629552, us id1048629983), Google Play com.square_enix.adventures, Amazon B01CZKNQQM
-  - Vita page https://www.jp.square-enix.com/seiken/en/psvita/
-- https://apps.apple.com/us/app/adventures-of-mana/id1048629983 -- apple row; languages* -- accessed 2026-10-18 -- English, Japanese
-- https://www.youtube.com/watch?v=_2Mu-lqV_BY -- official trailer -- accessed 2026-10-18
-  - "Relive the excitement of Final Fantasy Adventure"
-  - Shows the 3D remake
-- Google Play and Amazon pages not readable by my fetch; rows rely on the official badges
 - https://web.archive.org/web/20110122011850/http://web.square-enix.co.jp/mobile/seiken/sdff/ -- Remake (2006 mobile) platform*, link* (Square Enix Mobile's page for 聖剣伝説 -ファイナルファンタジー外伝-; capture of 2011-01-22, redirected from http://www.square-enix.co.jp/mobile/seiken/sdff/) -- accessed 2026-10-24
   - Copyright 1991, 2006 Square Enix; 500 points (525 yen with tax)
   - 配信再開日 (distribution resumed): i-mode (NTT DoCoMo) 2011-05-18, FOMA903i and 703i series and later; EZweb (au) 2011-05-19, WIN BREW; Yahoo!ケータイ (SoftBank) 2011-05-18, SoftBank 3G and later; the access box is a script served from a later capture than the page
 - https://web.archive.org/web/20140706034432/http://www.square-enix.co.jp/mobile/sem/ -- Remake dates (Square Enix Mobile index; capture of 2014-07-06) -- accessed 2026-10-24
   - News of 2011-05-18: the 『聖剣伝説』 series arrives on スクエニMOBILE, with the first game 『聖剣伝説 -ファイナルファンタジー外伝-』 and 『聖剣伝説2』 as phone apps
-- https://www.jp.square-enix.com/announce/semobile/ -- terminated* (Square Enix's end-of-service notice for 「スクエニモバイル」, the live page; text pasted by user, identical to the capture of 2018-04-02, https://web.archive.org/web/20180402064630/http://www.square-enix.co.jp/mobile/sem/) -- accessed 2026-10-24
+- https://www.jp.square-enix.com/announce/semobile/ -- terminated* (Square Enix's end-of-service notice for 「スクエニモバイル」, the live page; identical to the capture of 2018-04-02, https://web.archive.org/web/20180402064630/http://www.square-enix.co.jp/mobile/sem/) -- accessed 2026-10-24
   - Square Enix Mobile ended all services on 2018-03-31; from 2018-04-01 its member data and installed apps are unusable
-
-## jp.square-enix.com (Publisher; Japan, PlayStation Vita list, captures of 2013-10-08 to live (2026-10-26))
-
-- Square Enix Japan's PlayStation Vita game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
-  - Page URL by capture: 2012-10-02 to 2017-01-22 http://www.jp.square-enix.com/game/psvita/; 2017-10-26 http://www.jp.square-enix.com/game/pf/psvita/; 2018-10-10 https://www.jp.square-enix.com/game/pf/psvita/; 2019-03-09 to live https://www.jp.square-enix.com/game/?pf=3; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in the franchise sources file (sources/final-fantasy-franchise.md in the final-fantasy repo)
-  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou; Game Archives = icon-gamearchives (ゲームアーカイブス(PS3/PSP/PSV)), 2013-10-08 to 2017-01-22; from 2017-10-26 the labels パッケージ (disc) and ダウンロード are shown as images, and from 2019-03-09 also the model label プレイステーション ヴィータ (PSV before); "none" = no icon (not stated). CERO ratings are recorded from the 2017-10-26 capture, where they are shown as text (before, as images).
-  - Items appear only in the captures listed after "listed:"; the 2012-10-02 capture lists two titles, none of them in scope; the 2017-10-26 and 2018-10-10 captures show a short list of 26 items (recent releases only).
-  - Release dates: the Game Archives items show the original release date in the 2013-10-08 to 2017-01-22 captures, with the note ※2012.08.28よりプレイステーション ヴィータに対応 (the date Vita support began), and 2012.08.28 from 2019-03-09.
-  - 聖剣伝説 -ファイナルファンタジー外伝-; アクションRPG; first listed 2017-01-22: release 2016.02.04; icons: ダウンロード専用; changes: 2017-10-26: icons ダウンロード専用 to ダウンロード, CERO B first shown; listed: in every capture from 2017-01-22 to live (2026-10-26)
-    - http://www.jp.square-enix.com/seiken/ -- title link / 公式サイト link, listed 2017-01-22 to 2018-10-10 -- link recorded only -- archived: https://web.archive.org/web/20170312080843/http://www.jp.square-enix.com/seiken/
-    - https://store.sonyentertainmentnetwork.com/#!/ja-jp/cid=JP0082-PCSG00759_00-SEIKENFFGAIDENRM -- PlayStation Storeでダウンロード link, listed 2017-10-26 -- link recorded only -- archived: none (a #! address: Wayback keeps only the store front page)
-    - https://store.playstation.com/ja-jp/product/JP0082-PCSG00759_00-SEIKENFFGAIDENRM -- PlayStation Storeでダウンロード link / PlayStation Store link, listed 2018-10-10 to 2020-04-23 -- link recorded only -- archived: https://web.archive.org/web/20181010213234/https://store.playstation.com/ja-jp/product/JP0082-PCSG00759_00-SEIKENFFGAIDENRM
-    - https://www.jp.square-enix.com/game/detail/seiken/ -- 商品詳細 link, listed in every capture from 2019-03-09 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20190626085341/https://www.jp.square-enix.com/game/detail/seiken/
 
 ## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
 
 - https://wiki.seiwanetwork.org/wiki/Final_Fantasy_Adventure -- listed in Category:Games -- page not read -- accessed 2026-11-08
-- https://wiki.seiwanetwork.org/wiki/Adventures_of_Mana -- listed on the Mana (series) page -- page not read -- accessed 2026-11-08
 - https://wiki.seiwanetwork.org/wiki/Collection_of_Mana -- listed on the Mana (series) page -- page not read -- accessed 2026-11-08
 
 ## strategywiki.org (Information)
@@ -98,7 +67,7 @@ square-enix.com and stores (Publisher)
 
 ## jp.square-enix.com (Publisher; Japan, Switch list, captures of 2017-05-03 to live (2026-10-27))
 
-- Square Enix Japan's Nintendo Switch game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Nintendo Switch game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2017-05-03 http://www.jp.square-enix.com/game/switch/; 2018-05-24 http://www.jp.square-enix.com/game/pf/switch/; 2019-03-31 to live https://www.jp.square-enix.com/game/?pf=4; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons, read from the alt text of the label images: Nintendo Switch (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only), クラウド (cloud version); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
   - Link labels: e-STORE (Square Enix's store), 任天堂ホームページ / マイニンテンドーストア (Nintendo's store, same link under its two names), 公式サイト, 商品詳細
@@ -109,30 +78,9 @@ square-enix.com and stores (Publisher)
     - https://ec.nintendo.com/JP/ja/titles/70010000000312 -- 任天堂ホームページでダウンロード / 任天堂ホームページ link, listed 2018-05-24 to 2022-06-28 -- link recorded only -- archived: https://web.archive.org/web/20180524121537/https://ec.nintendo.com/JP/ja/titles/70010000000312 (last listing: https://web.archive.org/web/20220628170027/https://ec.nintendo.com/JP/ja/titles/70010000000312)
     - https://store-jp.nintendo.com/list/software/70010000000312.html -- 任天堂ホームページ / マイニンテンドーストア link, listed 2023-09-15 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230915044930/https://store-jp.nintendo.com/list/software/70010000000312.html
 
-## jp.square-enix.com (Publisher; Japan, iOS list, captures of 2016-10-04 to live (2026-10-27))
-
-- Square Enix Japan's iOS game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
-  - Page URL by capture: 2013-06-15 to 2017-10-09 http://www.jp.square-enix.com/game/ios/ (the per-model page, titled iPod/iPhone/iPad in 2013 and iPhone/iPod touch/iPad from 2014); 2018-07-06 http://www.jp.square-enix.com/game/pf/ios/ (the per-model page, titled iOS; the saved page lists 73 items and a もっと見る button); 2019-03-21 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to iOS, platform filter ?pf=11 (the saved pages show the model checkbox value 11 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
-  - Icons: 2013-06-15 to 2017-10-09 the icon image ダウンロード専用 (download only) on items, none on others; from 2018-07-06 the model label image iOS (the model, not repeated below) and the label ダウンロード on items, the buttons App Storeでダウンロード (2018) or 購入する and App Store (2019 on), and 事前登録する (2018) or 事前登録 (2019 on) on items not yet out; the ダウンロード専用 image and the ダウンロード label are both written ダウンロード below, 事前登録する and 事前登録 both 事前登録. Date label: 発売日 (release) or 配信日 (delivery), by item. CERO: no rating label on any capture
-  - Link labels: 公式サイト (official site), 商品詳細 (detail page, 2019 on), App Store (the store page); 2013 to 2017 the title links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
-  - 聖剣伝説 -ファイナルファンタジー外伝-; アクションRPG; first listed 2016-10-04: release 2016.02.04; icons: ダウンロード; listed in every capture from 2016-10-04 to live (2026-10-27)
-    - http://www.jp.square-enix.com/seiken/ -- 公式サイト link, listed 2016-10-04 to 2018-07-06 -- link recorded only -- archived: https://web.archive.org/web/20161004145554/http://www.jp.square-enix.com/seiken/ (last listing: https://web.archive.org/web/20180706013517/http://www.jp.square-enix.com/seiken/)
-    - https://itunes.apple.com/jp/app/id1048629552?l=ja&ls=1&mt=8 -- App Storeでダウンロード link, listed 2018-07-06 to 2019-03-21 -- link recorded only -- archived: https://web.archive.org/web/20180706013517/https://itunes.apple.com/jp/app/id1048629552?l=ja&ls=1&mt=8 (last listing: https://web.archive.org/web/20190918234144/https://itunes.apple.com/jp/app/id1048629552?l=ja&ls=1&mt=8)
-    - https://apps.apple.com/jp/app/id1048629552?l=ja&ls=1 -- App Store link, listed 2020-04-23 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20200410180449/https://apps.apple.com/jp/app/id1048629552?l=ja&ls=1
-
-## jp.square-enix.com (Publisher; Japan, Android list, captures of 2016-10-04 to live (2026-10-27))
-
-- Square Enix Japan's Android game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
-  - Page URL by capture: 2013-06-11 to 2017-10-10 http://www.jp.square-enix.com/game/android/ (the per-model page, titled Android); 2018-06-27 http://www.jp.square-enix.com/game/pf/android/ (the per-model page, titled Android | ゲーム; the saved page lists 76 items and a もっと見る button); 2019-03-09 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Android, platform filter ?pf=12 (the saved pages show the model checkbox value 12 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
-  - Icons: 2013-06-11 to 2017-10-10 the icon image ダウンロード専用 (download only) on items; from 2018-06-27 the model label image Android (the model, not repeated below) and the label ダウンロード on items, the store buttons Google Playでダウンロード or SQUARE ENIX MARKETでダウンロード (2018) or Google Play or SQUARE ENIX MARKET (2019 on) beside 購入する (2019 on), and 事前登録する (2018) or 事前登録 (2019 on) on items not yet out; the ダウンロード専用 image and the ダウンロード label are both written ダウンロード below, 事前登録する and 事前登録 both 事前登録, the store buttons are written Google Play and SQUARE ENIX MARKET. Date label: 発売日 (release) or 配信日 (delivery), by item. CERO: no rating label on any capture
-  - Link labels: 公式サイト (official site), 商品詳細 (detail page, 2019 on), Google Play and SQUARE ENIX MARKET (the store pages); 2013 to 2017 the thumbnail image links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
-  - 聖剣伝説 -ファイナルファンタジー外伝-; アクションRPG; first listed 2016-10-04: release 2016.02.04; icons: ダウンロード; changes: 2018-06-27: icons ダウンロード to Google Play, ダウンロード; listed in every capture from 2016-10-04 to live (2026-10-27)
-    - http://www.jp.square-enix.com/seiken/ -- 公式サイト link, listed 2016-10-04 to 2018-06-27 -- link recorded only -- archived: https://web.archive.org/web/20161004145544/http://www.jp.square-enix.com/seiken/ (last listing: https://web.archive.org/web/20180627171014/http://www.jp.square-enix.com/seiken/)
-    - https://play.google.com/store/apps/details?id=com.square_enix.adventures -- Google Playでダウンロード link, listed 2018-06-27 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20180627171014/https://play.google.com/store/apps/details?id=com.square_enix.adventures
-
 ## square-enix.com (Publisher; Japan, i-mode list, capture of 2007-10-05)
 
-- Square Enix Japan's i-mode list -- saved page of the capture read by me -- accessed 2026-11-04
+- Square Enix Japan's i-mode list -- saved page of the capture -- accessed 2026-11-04
   - Page URL by capture: 2007-10-05 http://www.square-enix.com/jp/mobile/i/ (the feature-phone menu page for NTT DoCoMo i-mode, titled iモード | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); the capture is https://web.archive.org/web/20071005125311/http://www.square-enix.com/jp/mobile/i/
   - Layout: menu sections IT'S NEW, 総合サイト (portal sites), コミュニケーション, 着信メロディ, 待受, ゲーム, その他; each item has a thumbnail, a one-line blurb and an official site link (公式サイト); no release date, genre, icon or CERO label; blocks commented out in the page source are not counted as listed
   - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it
@@ -142,7 +90,7 @@ square-enix.com and stores (Publisher)
 
 ## square-enix.com (Publisher; Japan, Yahoo! Keitai list, capture of 2007-10-05)
 
-- Square Enix Japan's Yahoo! Keitai list -- saved page of the capture read by me -- accessed 2026-11-04
+- Square Enix Japan's Yahoo! Keitai list -- saved page of the capture -- accessed 2026-11-04
   - Page URL by capture: 2007-10-05 http://www.square-enix.com/jp/mobile/v/ (the feature-phone menu page for Yahoo!ケータイ, titled Yahoo!ケータイ | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); the capture is https://web.archive.org/web/20071005191910/http://www.square-enix.com/jp/mobile/v/
   - Layout: menu sections IT'S NEW, 総合サイト (portal sites), コミュニケーション (no item), 着信メロディ, 待受, ゲーム; the その他 and COMING SOON blocks are commented out in the page source; each item has a thumbnail, a one-line blurb and an official site link (公式サイト); no release date, genre, icon or CERO label; blocks commented out in the page source are not counted as listed
   - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it
@@ -152,7 +100,7 @@ square-enix.com and stores (Publisher)
 
 ## square-enix.com (Publisher; Japan, EZweb list, capture of 2007-10-05)
 
-- Square Enix Japan's EZweb list -- saved page of the capture read by me -- accessed 2026-11-04
+- Square Enix Japan's EZweb list -- saved page of the capture -- accessed 2026-11-04
   - Page URL by capture: 2007-10-05 http://www.square-enix.com/jp/mobile/e/ (the feature-phone menu page for au EZweb, titled EZweb | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); the capture is https://web.archive.org/web/20071005123748/http://www.square-enix.com/jp/mobile/e/
   - Layout: menu sections 総合サイト (portal sites), メダルアプリ, 着信メロディ, 待受, ゲーム, その他; each item has a thumbnail, a one-line blurb and an official site link (公式サイト); no release date, genre, icon or CERO label; blocks commented out in the page source are not counted as listed
   - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it
@@ -162,7 +110,7 @@ square-enix.com and stores (Publisher)
 
 ## jp.square-enix.com (Publisher; Japan, i-mode list, captures of 2012-10-08 to 2017-04-01)
 
-- Square Enix Japan's i-mode list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's i-mode list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-08 to 2017-04-01 http://www.jp.square-enix.com/mobile/i/ (the feature-phone menu page for NTT DoCoMo i-mode, titled iモード | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Layout: menu sections 総合サイト (portal sites), 着信メロディ, 待受, ゲーム (from 2013-10-20 also ソーシャル), その他; each item has a thumbnail, a one-line blurb and a 公式サイト (official site) link; no release date, genre, icon or CERO label on any capture; blocks commented out in the page source are not counted as listed
   - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different)
@@ -171,7 +119,7 @@ square-enix.com and stores (Publisher)
 
 ## jp.square-enix.com (Publisher; Japan, EZweb list, captures of 2012-10-08 to 2016-12-23)
 
-- Square Enix Japan's EZweb list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's EZweb list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-08 to 2016-12-23 http://www.jp.square-enix.com/mobile/e/ (the feature-phone menu page for au EZweb, titled EZweb | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Layout: menu sections COMING SOON, IT'S NEW, 総合サイト (portal sites), メダルアプリ, 着信メロディ, 待受, ゲーム (from 2013-10-20 also ソーシャル), その他; each item has a thumbnail, a one-line blurb and a 公式サイト (official site) link; no release date, genre, icon or CERO label on any capture; blocks commented out in the page source are not counted as listed
   - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different)
@@ -180,7 +128,7 @@ square-enix.com and stores (Publisher)
 
 ## jp.square-enix.com (Publisher; Japan, Yahoo! Keitai list, captures of 2012-10-08 to 2017-04-01)
 
-- Square Enix Japan's Yahoo! Keitai list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Yahoo! Keitai list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-08 to 2017-04-01 http://www.jp.square-enix.com/mobile/y/ (the feature-phone menu page for Yahoo!ケータイ, titled Yahoo!ケータイ | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Layout: menu sections 着信メロディ, ゲーム (from 2013-10-20 also ソーシャル), その他; the portal items (ドラゴンクエスト モバイル, ファイナルファンタジー モバイル and others) stand before 着信メロディ, their 総合サイト heading and the COMING SOON and IT'S NEW headings being commented out in the page source; each item has a thumbnail, a one-line blurb and a 公式サイト (official site) link; no release date, genre, icon or CERO label on any capture; blocks commented out in the page source are not counted as listed
   - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different)
@@ -189,17 +137,17 @@ square-enix.com and stores (Publisher)
 
 ## jp.square-enix.com (Publisher; Japan, Game Boy Advance list, capture of live (2026-10-28))
 
-- Square Enix Japan's Game Boy Advance game list -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Japan's Game Boy Advance game list -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?pf=24 (platform filter 24 = Game Boy Advance; the model checkbox value is 24, beside a disabled checked 99); only the live page is saved, no Wayback capture read
   - Icons: the labels as images: ゲームボーイアドバンス (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
   - Link labels: 商品詳細 (detail page); links of the live page have no archive
   - 新約 聖剣伝説（デラックスパック）; アクションRPG; first listed live (2026-10-28): release 2003.08.29; icons: パッケージ; listed on the capture of live (2026-10-28) only
-    - Sword of Mana (GBA 2003), the remake with the Final Fantasy elements removed; out of scope, no entry (user, 2026-10-28)
+    - Sword of Mana (GBA 2003), the remake with the Final Fantasy elements removed; out of scope, no entry
     - https://www.jp.square-enix.com/game/detail/s_seiken/ -- 商品詳細 link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## jp.square-enix.com (Publisher; Japan, Game Boy list, captures of 2022-10-31 to live (2026-10-28))
 
-- Square Enix Japan's Game Boy game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+- Square Enix Japan's Game Boy game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-28
   - Page URL by capture: 2022-10-31 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=27 (platform filter 27 = ゲームボーイ; the saved pages show the model checkbox value 27 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: the labels as images: ゲームボーイ (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
   - Link labels: 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -207,7 +155,7 @@ square-enix.com and stores (Publisher)
 
 ## jp.square-enix.com (Publisher; Japan, Final Fantasy franchise list, captures of 2023-09-28 to live (2026-10-28))
 
-- Square Enix Japan's Final Fantasy franchise search (the game list filtered by series) -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+- Square Enix Japan's Final Fantasy franchise search (the game list filtered by series) -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-28
   - Page URL by capture: 2023-09-28 to live (2026-10-28) https://www.jp.square-enix.com/game/?s=2 (series filter 2 = ファイナルファンタジー; the saved pages show the series checkbox value 2 checked and the result heading ファイナルファンタジー; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md; the list covers every platform at once, so each item names its platforms
   - Icons: the labels as images, platform names first (the models the item is listed for), then パッケージ (sold as a package), ダウンロード / ダウンロード専用 / ダウンロード対応 (download), オンライン専用 (online only), 審査予定 (rating pending), buttons (e-STOREで購入 / e-STOREで予約, PlayStation Store, App Store, Google Play and the like); "none" = no icon. CERO: the label's alt text where shown
   - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -217,84 +165,84 @@ square-enix.com and stores (Publisher)
 
 ## square-enix-games.com (Publisher; North America, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (US) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (US) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with no filter set (the saved page shows the Platform filter with nothing selected; its links use the en_US locale; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 144 titles, each with platform names and a status ((Out Now), a release date, (Coming Soon), (End of service)), no genres or ratings
   - Collection of Mana; first listed live (2026-10-28): platforms Nintendo Switch; (Out Now); listed on the capture of live (2026-10-28) only
     - https://collectionofmana.square-enix-games.com/en-us -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; United Kingdom, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (UK) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (UK) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_GB/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's United Kingdom country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - Collection of Mana; first listed live (2026-10-28): platforms Nintendo Switch; (Out Now); listed on the capture of live (2026-10-28) only
     - https://collectionofmana.square-enix-games.com/en-gb -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Rest of Europe, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (Rest of Europe) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (Rest of Europe) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_EU/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's Rest of Europe country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - Collection of Mana; first listed live (2026-10-28): platforms Nintendo Switch; (Out Now); listed on the capture of live (2026-10-28) only
     - https://collectionofmana.square-enix-games.com/en-gb -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Australia & New Zealand, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (Australia & New Zealand) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (Australia & New Zealand) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_AU/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's Australia & New Zealand country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - Collection of Mana; first listed live (2026-10-28): platforms Nintendo Switch; (Out Now); listed on the capture of live (2026-10-28) only
     - https://collectionofmana.square-enix-games.com/en-gb -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; France, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' French (France) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' French (France) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/fr_FR/games with no filter set (the saved page is in French, `lang="fr"`, the Plateformes filter with nothing selected; the page's France country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponible maintenant), a day-first release date, (Bientôt disponible), (Fin de service)), no genres or ratings
   - Collection of Mana; first listed live (2026-10-28): platforms Nintendo Switch; (Disponible maintenant); listed on the capture of live (2026-10-28) only
     - https://collectionofmana.square-enix-games.com/fr -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Latin America, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_XL/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Latin America country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Disponible el 30 de octubre de 2025), (End of service)), no genres or ratings
   - Collection of Mana; first listed live (2026-10-28): platforms Nintendo Switch; (Ya disponible); listed on the capture of live (2026-10-28) only
     - https://collectionofmana.square-enix-games.com/en-us -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Brazil, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Portuguese (Brazil) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Portuguese (Brazil) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/pt_BR/games with no filter set (the saved page is in Portuguese, `lang="pt"`, the Plataforma filter with nothing selected; the page's Brazil country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponível), a day-first release date, (Em breve), (Disponível em 30 de outubro de 2025), (End of service)), no genres or ratings
   - Collection of Mana; first listed live (2026-10-28): platforms Nintendo Switch; (Disponível); listed on the capture of live (2026-10-28) only
     - https://collectionofmana.square-enix-games.com/en-us -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Germany, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' German (Germany) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' German (Germany) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/de_DE/games with no filter set (the saved page is in German, `lang="de"`, the Plattformen filter with nothing selected; the page's Germany country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Jetzt verfügbar), a day-first release date, (Erscheint bald), (Erscheint am 30. Oktober 2025), (End of service)), no genres or ratings
   - Collection of Mana; first listed live (2026-10-28): platforms Nintendo Switch; (Jetzt verfügbar); listed on the capture of live (2026-10-28) only
     - https://collectionofmana.square-enix-games.com/de -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Spain, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Spanish (Spain) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Spanish (Spain) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_ES/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Spain country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Coming 30 October 2025), (End of service)), no genres or ratings
   - Collection of Mana; first listed live (2026-10-28): platforms Nintendo Switch; (Ya disponible); listed on the capture of live (2026-10-28) only
     - https://collectionofmana.square-enix-games.com/en-gb -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Italy, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Italian (Italy) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Italian (Italy) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/it_IT/games with no filter set (the saved page is in Italian, `lang="it"`, the Piattaforma filter with nothing selected; the page's Italy country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ora disponibile), a day-first release date, (Presto disponibile), (Coming 30 October 2025), (End of service)), no genres or ratings
   - Collection of Mana; first listed live (2026-10-28): platforms Nintendo Switch; (Ora disponibile); listed on the capture of live (2026-10-28) only
     - https://collectionofmana.square-enix-games.com/en-gb -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Poland, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Polish (Poland) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Polish (Poland) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/pl_PL/games with no filter set (the saved page is in Polish, `lang="pl"`, the Platforma filter with nothing selected; the page's Poland country link returns to this address; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Dostępne teraz), a day-first release date, (Już wkrótce), (Coming 30 October 2025), (End of service)), no genres or ratings
   - Collection of Mana; first listed live (2026-10-28): platforms Nintendo Switch; (Dostępne teraz); listed on the capture of live (2026-10-28) only
     - https://collectionofmana.square-enix-games.com/en-gb -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Czech Republic, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Czech (Czech Republic) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Czech (Czech Republic) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/cs_CZ/games with no filter set (the saved page is in Czech, `lang="cs"`, the Platforma filter with nothing selected; the page's Czech Republic country link returns to this address; the saved file does not record the page's own address, and its file name carries no date); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Právě vychází), a day-first release date, (Již brzy), (Coming 30 October 2025), (End of service)), no genres or ratings
   - Collection of Mana; first listed live (2026-10-28): platforms Nintendo Switch; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://collectionofmana.square-enix-games.com/en-gb -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
@@ -312,12 +260,6 @@ square-enix.com and stores (Publisher)
   - Lists the Final Fantasy series games released in Japan; each row is title, platforms, first release date (the date is of the first platform listed; later platforms are listed without dates)
   - Row (その他の派生作品): 聖剣伝説 〜ファイナルファンタジー外伝〜（GB・1991年6月28日、S!、i、EZ、Vita、iOS、Android）
 
-## ja.wikipedia.org (Information; PlayStation Vita game title list, live page of 2026-10-28)
-
-- https://ja.wikipedia.org/wiki/PlayStation_Vitaのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840908 of 2026-08-31); archived: TODO
-  - Lists the games released for PlayStation Vita (index page with the 2016 to 2021 tables; release dates per region Japan, North America and Europe, title, publisher, TV column [PlayStation Vita TV compatible], パ column [sold as a package], note)
-  - Row (2016年): 聖剣伝説 〜ファイナルファンタジー外伝〜 / Adventures of Mana; Japan 2016-02-04; North America 2016-06-28; Europe 2016-06-28; スクウェア・エニックス; TV: ●; パ: blank; no note
-
 ## ja.wikipedia.org (Information; Game Boy game title list, live page of 2026-10-29)
 
 - https://ja.wikipedia.org/wiki/ゲームボーイのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111418751 of 2026-10-17; wikitext read through the MediaWiki API); archived: TODO
@@ -330,15 +272,6 @@ square-enix.com and stores (Publisher)
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2017年, 発売されたタイトル): 聖剣伝説コレクション (Collection of Mana; the row names no contents); Japan 2017-06-01; スクウェア・エニックス; パ: ●; CERO: B; note: Joy-Con横持ち対応。
   - https://ja.wikipedia.org/wiki/聖剣伝説コレクション -- the article linked from the 2017 list row 聖剣伝説コレクション (6月1日) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
-
-## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
-
-- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
-  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
-  - Member: 聖剣伝説 〜ファイナルファンタジー外伝〜
-- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
-  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
-  - Member: 聖剣伝説 〜ファイナルファンタジー外伝〜
 
 ## ja.wikipedia.org (Information; mobile phone app game category and title article, live pages of 2026-10-29)
 
@@ -353,8 +286,6 @@ square-enix.com and stores (Publisher)
   - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
   - Collection of Mana -- outside-store result (IGDB.com); developer shown: M2
     - https://collectionofmana.square-enix-games.com/en-us -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Adventures of Mana -- outside-store result (IGDB.com); developer shown: Square Enix Business Division 8
-    - https://www.jp.square-enix.com/seiken/en/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
 
 ## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
 
@@ -364,8 +295,6 @@ square-enix.com and stores (Publisher)
     - https://backloggd.com/games/final-fantasy-adventure/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
   - Collection of Mana (2017) -- type label Bundle; platforms shown: Nintendo Switch
     - https://backloggd.com/games/collection-of-mana/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - Adventures of Mana (2016) -- type label Remake; platforms shown: PlayStation Vita, Android, iOS
-    - https://backloggd.com/games/adventures-of-mana/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
   - Seiken Densetsu: Final Fantasy Gaiden (2006) -- type label Remaster; platforms shown: Legacy Mobile Device
     - https://backloggd.com/games/seiken-densetsu-final-fantasy-gaiden/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
@@ -387,72 +316,26 @@ square-enix.com and stores (Publisher)
 - https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(C%E2%80%93G) -- dates, platforms -- accessed 2026-11-03 (revision 1379229872 of 2026-10-08; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Collection of Mana; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: June 1, 2017
 
-## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
-
-- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
-  - Category of Android games: 2461 pages, 9 subcategories
-  - Member: Adventures of Mana
-
 ## en.wikipedia.org (Information; i-mode games category, live page of 2026-11-04)
 
 - https://en.wikipedia.org/wiki/Category:I-mode_games -- i-mode platform release -- accessed 2026-11-04 (category page revision 1266302726 of 2024-12-31; members read through the MediaWiki API); archived: TODO
   - Category of i-mode games: 55 pages
   - Member: Final Fantasy Adventure
 
-## en.wikipedia.org (Information; iOS games category, live page of 2026-11-04)
-
-- https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
-  - Category of iOS games: 3354 pages, 7 subcategories
-  - Member: Adventures of Mana
-
 ## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
 
 - Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - 聖剣伝説COLLECTION; id 70010000000312; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2017.6.1; status on sale; listed on saved page 74 of 75; the entry has no link to an item page
 
-## play.google.com (Platform; Google Play search results, saved pages of 2026-11-08)
-
-Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
-
-- https://play.google.com/store/apps/details?id=com.square_enix.adventures -- app page linked from the search results, shown as "Adventures of Mana" (English store); "聖剣伝説 -ファイナルファンタジー外伝-" (Japanese store), developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
-  - English store: listed in 13 of 35 saved searches
-  - Japanese store: listed in 2 of 11 saved searches
-
-## play.google.com (Platform; Google Play, English store, Square Enix developer page, saved page of 2026-11-08)
-
-Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (English store; the saved file carries no url, the developer id is read from its links)
-
-- https://play.google.com/store/apps/details?id=com.square_enix.adventures -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "Adventures of Mana" -- accessed 2026-11-08 -- link recorded only; archived: TODO
-
-## play.google.com (Platform; Google Play, Japanese store, Square Enix developer page, saved page of 2026-11-08)
-
-Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (Japanese store; the saved file carries no url, the developer id is read from its links)
-
-- https://play.google.com/store/apps/details?id=com.square_enix.adventures -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "聖剣伝説 -ファイナルファンタジー外伝-" -- accessed 2026-11-08 -- link recorded only; archived: TODO
-
-## play.google.com (Platform; Google Play, Japanese store, FINAL FANTASY Record Keeper app page, saved page of 2026-11-08)
-
-Page URL by capture: 2026-11-08 https://play.google.com/store/apps/details?id=jp.mbga.a12019103.lite (Japanese store; the saved file carries no url, the page is the app's details page)
-
-- https://play.google.com/store/apps/details?id=com.square_enix.adventures -- app page linked from the app page's "More by DeNA Co., Ltd." and "Similar games" lists -- accessed 2026-11-08 -- link recorded only; archived: TODO
-
-## play.google.com (Platform; Wayback captures of the Square Enix developer page, one per year 2015 to 2026)
-
-Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13; 2020-02-03; 2021-02-09; 2022-01-13; 2023-01-07; 2024-02-02; 2025-01-17; 2026-01-05 https://play.google.com/store/apps/dev?id=8026010256970589886 (first capture of each year; 2019 is the 2019-03-13 capture; each page shows only the first ten or eleven apps)
-
-- https://play.google.com/store/apps/details?id=com.square_enix.adventures -- app listed in the developer page captures of 2016-02-06, 2017-01-07, 2018-02-26, 2019-03-13, 2020-02-03, 2021-02-09, 2022-01-13, 2023-01-07 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20160206024002/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20230107180705/https://play.google.com/store/apps/dev?id=8026010256970589886
-
 ## en.wikipedia.org (Information; Final Fantasy Adventure article, External links section, live page of 2026-11-09)
 
 - https://en.wikipedia.org/wiki/Final_Fantasy_Adventure#External_links -- 2 links -- accessed 2026-11-09 (revision 1384324970 of 2026-11-07; wikitext read through the MediaWiki API)
-  - http://www.jp.square-enix.com/seiken/en/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.mobygames.com/game/final-fantasy-adventure -- MobyGames entry (template moby game id /final-fantasy-adventure) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
 ## ja.wikipedia.org (Information; 聖剣伝説 〜ファイナルファンタジー外伝〜 article, 外部リンク section, live page of 2026-11-09)
 
 - https://ja.wikipedia.org/wiki/聖剣伝説_〜ファイナルファンタジー外伝〜#外部リンク -- 9 links -- accessed 2026-11-09 (revision 111083046 of 2026-09-20; wikitext read through the MediaWiki API)
   - https://www.jp.square-enix.com/game/detail/seiken/ -- 聖剣伝説 -ファイナルファンタジー外伝 -- link recorded only -- accessed 2026-11-09; archived: TODO
-  - https://www.jp.square-enix.com/seiken/ -- 聖剣伝説 -ファイナルファンタジー外伝 -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.jp.square-enix.com/game/detail/s_seiken/ -- 新約 聖剣伝説 -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.mobygames.com/game/4520/final-fantasy-adventure/ -- MobyGames entry (template mobygames id /4520/final-fantasy-adventure/) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.mobygames.com/game/11202/sword-of-mana/ -- MobyGames entry (template mobygames id /11202/sword-of-mana/) -- link recorded only -- accessed 2026-11-09; archived: TODO
@@ -471,11 +354,8 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 - https://finalfantasy.fandom.com/wiki/Final_Fantasy_Adventure#External_links -- 6 links -- accessed 2026-11-09 (revision 4008384 of 2026-05-09; wikitext read through the Fandom API)
 Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure#External_links
   - https://www.jp.square-enix.com/game/detail/seiken/ -- Official Japanese game detail page -- link recorded only -- accessed 2026-11-09; archived: TODO
-  - https://www.jp.square-enix.com/seiken/ -- Adventures of Mana official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
-  - https://www.jp.square-enix.com/seiken/en/ -- Adventures of Mana official Japanese site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://en.wikipedia.org/wiki/Final_Fantasy_Adventure -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://en.wikipedia.org/wiki/Sword_of_Mana -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
-  - https://en.wikipedia.org/wiki/Adventures_of_Mana -- English Wikipedia article (interwiki link) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
 ## en.wikipedia.org (Information; Final Fantasy Adventure article, Versions and merchandise and Other manga section, live page of 2026-11-10)
 
@@ -500,8 +380,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure#Externa
   - Final Fantasy Adventure: Mobile Phone (SoftBank), 2006-08-16, region JP
   - Final Fantasy Adventure: Mobile Phone (i-mode), 2006-11-06, region JP
   - Final Fantasy Adventure: Mobile Phone (EZWeb), 2007-02-05, region JP
-  - Adventures of Mana: Android, 2016-02-04, region International
-  - Adventures of Mana: Apple iOS, 2016-02-04, region International
 
 ## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
 
@@ -516,12 +394,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure#Externa
   - Final Fantasy Adventure: Mobile Phone (SoftBank), 2006-08-16, region JP
   - Final Fantasy Adventure: Mobile Phone (i-mode), 2006-11-06, region JP
   - Final Fantasy Adventure: Mobile Phone (EZWeb), 2007-02-05, region JP
-  - Adventures of Mana: Android, 2016-02-04, region International
-  - Adventures of Mana: Apple iOS, 2016-02-04, region International
-  - Adventures of Mana: PS Vita, 2016-02-04, region JP
-  - Adventures of Mana: PS Vita, 2016-06-28, region NA, EU
-- https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
-  - Adventures of Mana: PS Vita, 2016-02-04, region JP, NA, EU
 - https://thefinalfantasy.net/games/nintendo-console-releases.html (Nintendo console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Seiken Densetsu: Final Fantasy Gaiden: Game Boy, 1991-06-08, region JP
   - Final Fantasy Adventure: Game Boy, 1991-11-01, region NA
@@ -531,7 +403,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure#Externa
 - the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Final Fantasy Adventure: Game Boy, 1991-06-08, score 57.6%
   - Sword of Mana: Game Boy Advance, 2003-08-29, score ---
-  - Adventures of Mana: Android / Apple iOS / Vita, 2016-02-04, score ---
   - Collections of Mana: Nintendo Switch, 2019-09-27, score ---
 
 ## thefinalfantasy.net (Information; Remakes and Re-releases page, saved page of 2026-11-11)
@@ -540,9 +411,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Adventure#Externa
   - Release dates shown: Jun. 8, 1991 (Game Boy), Nov. 1, 1991 (Game Boy); platforms Game Boy, Game Boy Color, Game Boy Advance, Mobile Phone, Android, Apple iOS, PS Vita
   - Names: Final Fantasy Adventure (North American title, 1991), Seiken Densetsu: Final Fantasy Gaiden (Japan), Mystic Quest (Europe); first game of the Mana series
   - Sword of Mana: 2003 Game Boy Advance remake in North America and Europe (Japan: Legend of the Sacred Sword: The New Testament); parallel hero and heroine stories (the page's text also calls it Legend of Mana)
-  - Adventures of Mana: 2016 PS Vita, Apple iOS and Android remake, worldwide; producer Masaru Oyamada, for the Mana series' 25th anniversary
 
 ## Decisions
 
-- Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements (user, 2026-10-20); no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results
-- Omitted (user, 2026-11-10, same scope as the King's Knight manga): the manga Rock'n Game Boy (Shigeto Ikehara, Comic BomBom, October 1989 to December 1991), named in en.wikipedia's Final Fantasy Adventure article, section Other manga (https://en.wikipedia.org/wiki/Final_Fantasy_Adventure#Other_manga); a manga that features several games, not an adaptation of this one
+- Sword of Mana stays out, and both remakes in the entry, the 2006 Japan mobile version and Adventures of Mana (2016), keep the Final Fantasy elements; no data change: the entry's description already says only that Sword of Mana removes them; the recap link needs no change, its YouTube search has results
+- Omitted (same scope as the King's Knight manga): the manga Rock'n Game Boy (Shigeto Ikehara, Comic BomBom, October 1989 to December 1991), named in en.wikipedia's Final Fantasy Adventure article, section Other manga (https://en.wikipedia.org/wiki/Final_Fantasy_Adventure#Other_manga); a manga that features several games, not an adaptation of this one

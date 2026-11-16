@@ -8,18 +8,10 @@
 ## Android (Platform)
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVII
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffviiec
-  - Not working (404, checked 2026-10-19; confirmed by user); the Ever Crisis rows link the ff7ecww Play page instead
 
 ## Apple App Store (Platform)
 
 - https://apps.apple.com/app/final-fantasy-vii/id1021566244
-- https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1546223882
-  - Not working (404, checked 2026-10-19; confirmed by user); the Ever Crisis rows link the id1536905430 App Store page instead
-
-## en.ffviiec.com (Information)
-
-- https://en.ffviiec.com/
 
 ## finalfantasy.fandom.com (Information)
 
@@ -33,7 +25,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/final-fantasy-vii/
-- https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/
 
 ## Nintendo (Platform)
 
@@ -54,9 +45,8 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 ## Steam (Platform)
 
 - https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII/
-- https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/
 - https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/ -- the Steam row* -- live page no longer available
-  - Renders in a browser (checked by the user, 2026-10-30): https://web.archive.org/web/20200919035702/https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/ -- store page of 2020-09-19 with the description (36 achievements, cloud saves, character booster, PC optimization); languages table: English, German, French and Spanish (Spain), interface only, no audio or subtitles.
+  - Renders in a browser (checked, 2026-10-30): https://web.archive.org/web/20200919035702/https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/ -- store page of 2020-09-19 with the description (36 achievements, cloud saves, character booster, PC optimization); languages table: English, German, French and Spanish (Spain), interface only, no audio or subtitles.
 
 ## wikipedia.org (Information)
 
@@ -65,7 +55,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 - https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Video_games -- story, platforms -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_VII
 - https://wikipedia.org/wiki/Final_Fantasy_VII#Later_releases
-- https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis
 
 ## Xbox (Platform)
 
@@ -74,19 +63,19 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 ## otakumode.com (Information)
 
 - https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_7 -- story, dates, platforms -- accessed 2026-10-17
-  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Final Fantasy VII Plot, Characters, Gameplay, Development)
+  - (Tokyo Otaku Mode's Otapedia, sections Final Fantasy VII Plot, Characters, Gameplay, Development)
   - Final Fantasy VII Plot: a brief summary (Shinra harvesting Mako, AVALANCHE, SOLDIER, the Turks, the Cetra, Sephiroth and the Black Materia); agrees with the entry; no new fact
   - Release: 1997, the first Final Fantasy on the PlayStation, later ports (PlayStation 4, iOS, Android, Xbox One, Windows, PS3, PSP, Vita, Switch); consistent with the entry (1997-01-31)
   - It says the Remake is "set to be released in March 2020"; stale (the page was written before the delay to 2020-04-10, which its timeline page gives); not an error to report
-  - Its Development section links an IGN interview, "Best Selling FF7 Interview" (https://www.ign.com/articles/2008/04/28/crisis-core-final-fantasy-vii-uk-interview): developer interview content, outside our scope; not read by me
+  - Its Development section links an IGN interview, "Best Selling FF7 Interview" (https://www.ign.com/articles/2008/04/28/crisis-core-final-fantasy-vii-uk-interview): developer interview content, outside our scope; not read
 
 ## G-cluster (Platform; G-cluster cloud TV version)
 
 - https://web.archive.org/web/20250114090029/https://gcluster.jp/pc/games/ff7.html -- the row's link, G-cluster's game page (last capture, 2025-01-14, renders; first capture 2014-10-11) -- accessed 2026-10-22
   - Title ファイナルファンタジーⅦインターナショナル for Gクラスタ; start 2013-12-25 (the 2015-12-23 capture, https://web.archive.org/web/20151223124208/http://gcluster.jp/pc/games/ff7.html); a port of the 2013 Windows "Final Fantasy VII International for PC" to G-cluster, no story changes; game boosters (5x speed, no encounters, enhance, max stats)
   - The TV version; the page's device logos: Android TV, G-cluster, Sharp, Bravia, LG; no stop-of-sale notice on the 2025-01-14 page
-  - https://www.broadmedia.co.jp/pdf_i/20131225_02.pdf -- Broadmedia and G-cluster Global's press release of 2013-12-25 (user, 2026-10-22): the game is on G-cluster from 2013-12-25, unlimited play; "FFVII International for G-cluster" is a port of the 2013 Windows "Final Fantasy VII International for PC" with no story changes (the release states it); a bundle with the G-cluster console and controller ran 2013-12-28 to 2014-03-31; the release names the G-cluster TVs of the time: Sharp AQUOS LC-80XL10, 70XL10, 60XL10, 52XL10 and 46XL10 (as of 2013-11) and LG Smart TV from the spring 2013 models, the LA9700, LA9600 and LA8600 series (as of 2013-12) -- so Sharp and LG sets carried it from launch
-  - Also on Sharp's own COCORO GAME service, which ended 2021-05-31 (notice: https://cocoroplus.jp.sharp/news/7280/); its game list (first capture https://web.archive.org/web/20190724070019/https://cocoroplus.jp.sharp/game/list/, with all seven FF titles and no links; the last capture, 2026-02-13, is stale) -- user, 2026-10-22; not part of the G-cluster TV row, whose service ended 2025-02-28
+  - https://www.broadmedia.co.jp/pdf_i/20131225_02.pdf -- Broadmedia and G-cluster Global's press release of 2013-12-25: the game is on G-cluster from 2013-12-25, unlimited play; "FFVII International for G-cluster" is a port of the 2013 Windows "Final Fantasy VII International for PC" with no story changes (the release states it); a bundle with the G-cluster console and controller ran 2013-12-28 to 2014-03-31; the release names the G-cluster TVs of the time: Sharp AQUOS LC-80XL10, 70XL10, 60XL10, 52XL10 and 46XL10 (as of 2013-11) and LG Smart TV from the spring 2013 models, the LA9700, LA9600 and LA8600 series (as of 2013-12) -- so Sharp and LG sets carried it from launch
+  - Also on Sharp's own COCORO GAME service, which ended 2021-05-31 (notice: https://cocoroplus.jp.sharp/news/7280/); its game list (first capture https://web.archive.org/web/20190724070019/https://cocoroplus.jp.sharp/game/list/, with all seven FF titles and no links; the last capture, 2026-02-13, is stale); not part of the G-cluster TV row, whose service ended 2025-02-28
   - Japan only; the whole G-cluster service ended 2025-02-28 noon, per the notice in sources/final-fantasy-franchise.md, so the row is struck
   - The Windows release it ports, "Final Fantasy VII International for PC" (2013), is the Japanese release, so the version lists JA (native) beside the western languages; the page text is Japanese but does not name the game's language
   - The row sits on the Remake 2012 version (the Windows release it ports)
@@ -95,15 +84,15 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## Hikari TV Games (Platform; Hikari TV cloud, set-top box)
 
-- https://web.archive.org/web/20220618054218/http://game.hikaritv.net/title/ff7/index.html -- the `hikari-tv-games` row's link, the service's own game page; start 2013-12-25 (the service's news list) -- user, 2026-10-22; accessed 2026-10-22
+- https://web.archive.org/web/20220618054218/http://game.hikaritv.net/title/ff7/index.html -- the `hikari-tv-games` row's link, the service's own game page; start 2013-12-25 (the service's news list) -- accessed 2026-10-22
   - Title "Final Fantasy VII International for ひかりTV", a port of the 2013 Windows "Final Fantasy VII International for PC" with no story changes; boosters (5x speed, no encounters, enhance, max stats) and 36 achievements; two known bugs (Condor Fort overlap, Northern Crater Materia)
   - Played with a game pad on a Hikari TV set-top box (NTT Plala, later Docomo), sold as a single title, not in the play-all pack; Japan only
   - The service ended 2023-09-30 23:59 (see sources/final-fantasy-franchise.md), so the row is struck; the row sits on the Remake 2012 version, the same one as the G-cluster row
-  - Phone or tablet use is not recorded either way: the site never marked which titles ran on its Android app (2013-11-20 to 2016-08-31, no iOS app; the service said only some titles did), so there is no phone row; one needs a source that names this title on the app. Unresolved lead: the service's news items of 2014-03-04 (the phone titles changed) and 2016-08-01 (the end of the phone and tablet app), if either lists titles (user, 2026-10-22)
+  - Phone or tablet use is not recorded either way: the site never marked which titles ran on its Android app (2013-11-20 to 2016-08-31, no iOS app; the service said only some titles did), so there is no phone row; one needs a source that names this title on the app. Unresolved lead: the service's news items of 2014-03-04 (the phone titles changed) and 2016-08-01 (the end of the phone and tablet app), if either lists titles
 
 ## Dive In (Platform; Square Enix cloud service, 2014-10-09 to 2015-09-13)
 
-- https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/ -- the `Dive In cloud` rows link this capture; per the Final Fantasy Wiki's Dive In page (pasted by user 2026-10-20): VII International at launch (2014-10-09), on the "Remake 2012" (Windows) version, with the `G-cluster cloud` row; the version is our matching (see sources/final-fantasy-franchise.md)
+- https://web.archive.org/web/20150317010201/http://divein.jp.square-enix.com/ -- the `Dive In cloud` rows link this capture; per the Final Fantasy Wiki's Dive In page (2026-10-20): VII International at launch (2014-10-09), on the "Remake 2012" (Windows) version, with the `G-cluster cloud` row; the version is our matching (see sources/final-fantasy-franchise.md)
 
 ## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, PSOne Classics)
 
@@ -112,19 +101,19 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## dlgames.square-enix.com (Platform; Game Archives, Japan)
 
-- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Final Fantasy VII International, Game Archives (PS3/PSP/PSV), RPG, release 2009.04.10, "supported PlayStation Vita from 2012.08.28" -- accessed 2026-10-25 (text pasted by user)
-- http://dlgames.square-enix.com/jp/psga/2009/ff7/ -- the Japanese Game Archives detail page: release 2009.04.10 (PS3, PSP) and 2012.08.28 (PS Vita); the page is titled Final Fantasy VII International; platforms PS3, PSP and PS Vita; RPG; 1 player; CERO B (ages 12 and up) -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20170723220611/http://dlgames.square-enix.com/jp/psga/2009/ff7/
-- https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2009/ff7/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Final Fantasy VII International, Game Archives (PS3/PSP/PSV), RPG, release 2009.04.10, "supported PlayStation Vita from 2012.08.28" -- accessed 2026-10-25
+- http://dlgames.square-enix.com/jp/psga/2009/ff7/ -- the Japanese Game Archives detail page: release 2009.04.10 (PS3, PSP) and 2012.08.28 (PS Vita); the page is titled Final Fantasy VII International; platforms PS3, PSP and PS Vita; RPG; 1 player; CERO B (ages 12 and up) -- accessed 2026-10-25 (raw HTML) -- archived: https://web.archive.org/web/20170723220611/http://dlgames.square-enix.com/jp/psga/2009/ff7/
+- https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2009/ff7/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given)
 
 ## dlgames.square-enix.com (Platform; Game Archives, Japan, menu captures of 2010-05-28, 2011-07-27 and 2012-09-25)
 
-- http://dlgames.square-enix.com/jp/psga/ -- the Japanese "PSOne Classics" (ゲームアーカイブス) menu, captures of 2010-05-28, 2011-07-27 and 2012-09-25 (saved pages read by me): ファイナルファンタジーVII インターナショナル; RPG; release 2009.04.10 in each capture; links http://dlgames.square-enix.com/jp/psga/2009/ff7/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20100528185114/http://dlgames.square-enix.com/jp/psga/, https://web.archive.org/web/20110727071851/http://dlgames.square-enix.com/jp/psga/, https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/
+- http://dlgames.square-enix.com/jp/psga/ -- the Japanese "PSOne Classics" (ゲームアーカイブス) menu, captures of 2010-05-28, 2011-07-27 and 2012-09-25 (saved pages): ファイナルファンタジーVII インターナショナル; RPG; release 2009.04.10 in each capture; links http://dlgames.square-enix.com/jp/psga/2009/ff7/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20100528185114/http://dlgames.square-enix.com/jp/psga/, https://web.archive.org/web/20110727071851/http://dlgames.square-enix.com/jp/psga/, https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/
   - the menu's banner strip (mini01 image) links the detail page in all three captures
   - the captures' own links to the detail page: https://web.archive.org/web/20100528185114/http://dlgames.square-enix.com/jp/psga/2009/ff7/, https://web.archive.org/web/20110727071851/http://dlgames.square-enix.com/jp/psga/2009/ff7/, https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/2009/ff7/ -- accessed 2026-10-25 -- shallow: not read at these captures
 
 ## jp.square-enix.com (Publisher; Japan, PSP list, captures of 2012-10-06 to live (2026-10-26))
 
-- Square Enix Japan's PlayStation Portable game list -- saved pages of each capture read by me; one line per title and release date, with what each capture shows -- accessed 2026-10-25 and 2026-10-26
+- Square Enix Japan's PlayStation Portable game list -- saved pages of each capture; one line per title and release date, with what each capture shows -- accessed 2026-10-25 and 2026-10-26
   - Page URL by capture: 2012-10-06 to 2018-03-20 http://www.jp.square-enix.com/game/psp/; 2023-01-07 to live https://www.jp.square-enix.com/game/?pf=18 (platform filter 18 = プレイステーション・ポータブル); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons, read from the image file names (alt text read plyaOnline in the 2013-10-20 and 2014-11-19 captures and Download from 2015-03-18, for the same images): ONLINE対応 = icon-online-taiou; ダウンロード対応 (also sold as a download) = icon-download-taiou; ダウンロード専用 = icon-download-senyou; Game Archives専用 = icon-gamearchives; "none" = no icon (not stated; the 2012-10-06 capture shows none on any item). From 2023-01-07 the page shows the labels パッケージ (disc) and ダウンロード as text instead, and the CERO rating as an image with alt text.
   - CERO: from 2012-10-06 to 2018-03-20 the rating image's file name (cero200 = A, cero212 = B, cero215 = C, cero217 = D, matched against the 2023-01-07 labels of the same titles); from 2023-01-07 the image's alt text
@@ -136,18 +125,18 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## jp.square-enix.com (Publisher; Japan, 2019 capture)
 
-- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
   - Final Fantasy VII International (Game Archives), release 2009.04.10; links the pages below
     - https://web.archive.org/web/20191029171046/https://store.playstation.com/ja-jp/product/JP0082-NPJJ00260_00-0000000000000001 -- the PlayStation Store page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
     - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/detail/ff7/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
     - https://web.archive.org/web/20191029171046/http://www.jp.square-enix.com/ff7sp/ -- the official page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
-- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy VII International (Game Archives) links the pages below; the PlayStation Store link is no longer listed -- accessed 2026-10-25
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page): Final Fantasy VII International (Game Archives) links the pages below; the PlayStation Store link is no longer listed -- accessed 2026-10-25
   - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/ff7/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
   - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/ff7sp/ -- the official page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
 ## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2015-12-06 to live (2026-10-26))
 
-- Square Enix Japan's PlayStation 4 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+- Square Enix Japan's PlayStation 4 game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-26
   - Page URL by capture: 2013-10-20 to 2016-12-22 http://www.jp.square-enix.com/game/ps4/; 2018-01-30 http://www.jp.square-enix.com/game/pf/ps4/; 2018-10-10 https://www.jp.square-enix.com/game/pf/ps4/; 2019-09-18 to live https://www.jp.square-enix.com/game/?pf=1; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou (2013 to 2016 captures); from 2018 the labels パッケージ (disc), ダウンロード, オンライン専用, VR専用 and VR対応 are shown as text; "none" = no icon (not stated). CERO ratings are recorded from the 2018 captures, where the page shows them as text.
   - ファイナルファンタジーVII; RPG; first listed 2015-12-06: release 2015.12.06; icons: ダウンロード専用; changes: 2018-01-30: CERO B; listed in every capture from 2015-12-06 to live (2026-10-26) except 2016-12-22
@@ -157,7 +146,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## jp.square-enix.com (Publisher; Japan, PS3 list, captures of 2012-10-06 to live (2026-10-26))
 
-- Square Enix Japan's PlayStation 3 game list -- saved pages of each capture read by me, the 2015-04-10 capture from the text pasted by user; each capture read only for what is new against the previous one -- accessed 2026-10-26
+- Square Enix Japan's PlayStation 3 game list -- saved pages of each capture, the 2015-04-10 capture from the saved text; each capture read only for what is new against the previous one -- accessed 2026-10-26
   - Page URL by capture: 2012-10-06 to 2018-05-24 http://www.jp.square-enix.com/game/ps3/ (2016-05-12 is the English-language page, 2017-06-06 the Japanese-language page); 2019-10-29 to live https://www.jp.square-enix.com/game/?pf=99,2; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in the franchise sources file (sources/final-fantasy-franchise.md in the final-fantasy repo)
   - The 2012 to 2018 captures hold two blocks: the newer releases with a description and the older titles (Game Archives and earlier) as compact rows; both were read. Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou; Game Archives (PS3/PSP/PSV) = icon-gamearchives; the 2015-04-10 capture gives only the text labels Online, Download and Game Archives; from 2019-10-29 the labels パッケージ (disc), ダウンロード and オンライン専用 are shown as text; "none" = no icon (not stated). CERO ratings are shown as images before 2019-10-29 and as text from 2025-02-17; they are recorded from 2025-02-17.
   - A title appears only in the captures listed after "listed:"; the 2012-10-06 capture holds 34 titles, the 2013-10-20 capture 104 and the later 2012 to 2018 captures 113 to 125.
@@ -165,7 +154,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## jp.square-enix.com (Publisher; Japan, Xbox One list, captures of 2019-03-09 to live (2026-10-27))
 
-- Square Enix Japan's Xbox One game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Xbox One game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2013-06-13 to 2016-10-06 http://www.jp.square-enix.com/game/xboxone/; 2018-01-29 http://www.jp.square-enix.com/game/pf/xboxone/; 2019-03-09 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Xbox One, platform filter ?pf=7 (the saved pages show the model checkbox value 7 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons, read from the images (2013 to 2016 captures): ダウンロード対応 (also sold as a download) = icon-download-taiou; from 2018 the label images' alt text: パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no icon beyond the model (not stated). CERO: the label's alt text from the 2018 captures; CERO審査予定 = rating pending
   - Link labels: 公式サイト (official site), Microsoft Store (also Microsoft Storeでダウンロード in the 2018 capture), e-STOREで購入 (Square Enix e-STORE purchase); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -175,7 +164,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## jp.square-enix.com (Publisher; Japan, Windows list, captures of 2013-10-20 to live (2026-10-27))
 
-- Square Enix Japan's Windows game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Windows game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-05 to 2017-12-26 http://www.jp.square-enix.com/game/win/; 2018-07-06 http://www.jp.square-enix.com/game/pf/win/; 2019-09-18 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Windows, platform filter ?pf=8 (the saved pages show the model checkbox value 8 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons, read from the images (2012 to 2017 captures): ダウンロード専用 (download only) = icon-download-senyou, ダウンロード対応 (also sold as a download) = icon-download-taiou, オンライン専用 (online only) = icon-online-senyou, ONLINE対応 = icon-online-taiou; from 2018 the label images' alt text: パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only), the store buttons (Steam, Epic Games Store, Microsoft Store) are links, listed below; "none" = no icon beyond the model (not stated). CERO: the label's alt text from the 2018 captures; CERO審査予定 = rating pending
   - Link labels: 公式サイト (official site), 商品詳細 (product detail page, 2021 on), Steam (Steamでダウンロード in 2018), Microsoft Store, Epic Games Store, e-STOREで購入 (Square Enix e-STORE purchase); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -189,7 +178,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## jp.square-enix.com (Publisher; Japan, iOS list, captures of 2016-10-04 to live (2026-10-27))
 
-- Square Enix Japan's iOS game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's iOS game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2013-06-15 to 2017-10-09 http://www.jp.square-enix.com/game/ios/ (the per-model page, titled iPod/iPhone/iPad in 2013 and iPhone/iPod touch/iPad from 2014); 2018-07-06 http://www.jp.square-enix.com/game/pf/ios/ (the per-model page, titled iOS; the saved page lists 73 items and a もっと見る button); 2019-03-21 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to iOS, platform filter ?pf=11 (the saved pages show the model checkbox value 11 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: 2013-06-15 to 2017-10-09 the icon image ダウンロード専用 (download only) on items, none on others; from 2018-07-06 the model label image iOS (the model, not repeated below) and the label ダウンロード on items, the buttons App Storeでダウンロード (2018) or 購入する and App Store (2019 on), and 事前登録する (2018) or 事前登録 (2019 on) on items not yet out; the ダウンロード専用 image and the ダウンロード label are both written ダウンロード below, 事前登録する and 事前登録 both 事前登録. Date label: 発売日 (release) or 配信日 (delivery), by item. CERO: no rating label on any capture
   - Link labels: 公式サイト (official site), 商品詳細 (detail page, 2019 on), App Store (the store page); 2013 to 2017 the title links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -200,7 +189,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## jp.square-enix.com (Publisher; Japan, Android list, captures of 2016-10-04 to live (2026-10-27))
 
-- Square Enix Japan's Android game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Android game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2013-06-11 to 2017-10-10 http://www.jp.square-enix.com/game/android/ (the per-model page, titled Android); 2018-06-27 http://www.jp.square-enix.com/game/pf/android/ (the per-model page, titled Android | ゲーム; the saved page lists 76 items and a もっと見る button); 2019-03-09 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Android, platform filter ?pf=12 (the saved pages show the model checkbox value 12 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: 2013-06-11 to 2017-10-10 the icon image ダウンロード専用 (download only) on items; from 2018-06-27 the model label image Android (the model, not repeated below) and the label ダウンロード on items, the store buttons Google Playでダウンロード or SQUARE ENIX MARKETでダウンロード (2018) or Google Play or SQUARE ENIX MARKET (2019 on) beside 購入する (2019 on), and 事前登録する (2018) or 事前登録 (2019 on) on items not yet out; the ダウンロード専用 image and the ダウンロード label are both written ダウンロード below, 事前登録する and 事前登録 both 事前登録, the store buttons are written Google Play and SQUARE ENIX MARKET. Date label: 発売日 (release) or 配信日 (delivery), by item. CERO: no rating label on any capture
   - Link labels: 公式サイト (official site), 商品詳細 (detail page, 2019 on), Google Play and SQUARE ENIX MARKET (the store pages); 2013 to 2017 the thumbnail image links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -210,7 +199,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## jp.square-enix.com (Publisher; Japan, Others list, captures of 2013-06-06 to 2018-06-04)
 
-- Square Enix Japan's Others game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Others game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-08 to 2012-12-19 http://www.jp.square-enix.com/mobile/other/ (the feature-phone menu page 'その他', titled その他 | SQUARE ENIX; not the game/ list page, no platform filter ?pf=); 2013-06-06 to 2018-06-04 http://www.jp.square-enix.com/game/etc/ (the per-model page, titled その他 | SQUARE ENIX; 2018-02-02 and 2018-06-04 list one item only); 2023-04-26 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to その他, platform filter ?pf=32 (the saved pages show the model checkbox value 32 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Layout: 2012 menu sections IT'S NEW and ゲーム (genre field below), no date, icon or CERO label; 2013-06-06 to 2016-12-22 one list split by platform headings プレイステーション2, プレイステーション, セガサターン and ゲームキューブ (written as 'platform section' below), 発売日 (release), ジャンル (genre) and a CERO label image on most items (not recorded below); no platform icon image; the list holds editions of games on those platforms (budget editions, collections, expansion discs) as items of their own
   - Icons: オンライン専用 (online only), ダウンロード対応 (also sold as a download) where shown; 'none' where no icon. Link labels: 公式サイト (official site), 商品詳細 (detail page); the title links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different)
@@ -225,7 +214,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## jp.square-enix.com (Publisher; Japan, PlayStation list, captures of 2023-01-07 to live (2026-10-28))
 
-- Square Enix Japan's PlayStation game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+- Square Enix Japan's PlayStation game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-28
   - Page URL by capture: 2023-01-07 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=20 (platform filter 20 = プレイステーション; the saved pages show the model checkbox value 20 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: the labels as images: プレイステーション (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown. Genre notes are part of the genre text
   - Link labels: 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -233,7 +222,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## jp.square-enix.com (Publisher; Japan, Final Fantasy franchise list, captures of 2023-09-28 to live (2026-10-28))
 
-- Square Enix Japan's Final Fantasy franchise search (the game list filtered by series) -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+- Square Enix Japan's Final Fantasy franchise search (the game list filtered by series) -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-28
   - Page URL by capture: 2023-09-28 to live (2026-10-28) https://www.jp.square-enix.com/game/?s=2 (series filter 2 = ファイナルファンタジー; the saved pages show the series checkbox value 2 checked and the result heading ファイナルファンタジー; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md; the list covers every platform at once, so each item names its platforms
   - Icons: the labels as images, platform names first (the models the item is listed for), then パッケージ (sold as a package), ダウンロード / ダウンロード専用 / ダウンロード対応 (download), オンライン専用 (online only), 審査予定 (rating pending), buttons (e-STOREで購入 / e-STOREで予約, PlayStation Store, App Store, Google Play and the like); "none" = no icon. CERO: the label's alt text where shown
   - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -241,7 +230,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## jp.square-enix.com (Publisher; Japan, Steam list, capture of live (2026-10-28))
 
-- Square Enix Japan's Steam list (the game list filtered by the Steam tag) -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Japan's Steam list (the game list filtered by the Steam tag) -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?s=9 (search filter 9 = Steam; the saved page shows the checkbox value 9 checked and the result heading Steam; the page's own address is https://www.jp.square-enix.com/game/); only the live page is saved, no Wayback capture read; every item lists the Windows model
   - Icons: the labels as images: Windows (the model, not repeated below), ダウンロード (download), オンライン専用 (online only), 審査予定 (rating pending), buttons (購入する, e-STOREで購入 / e-STOREで予約, Steam); "none" = no other icon. CERO: the label's alt text where shown
   - Link labels: Steam (the Steam store page), e-STOREで購入 / e-STOREで予約 (the Square Enix e-STORE page), 公式サイト (official site), 商品詳細 (detail page); links of the live page have no archive
@@ -250,91 +239,91 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## square-enix-games.com (Publisher; North America, Games list, PS4 filter, live page of 2026-10-28)
 
-- Square Enix Games' English (US) game list filtered by platform PS4 -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (US) game list filtered by platform PS4 -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with the platform filter set to PS4 (the saved page shows the filter "Platform (1)", and every card lists PS4; its links use the en_US locale; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 88 titles, each with platform names and "(Out Now)", no dates, genres or ratings
   - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Out Now); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/en_US/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; North America, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (US) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (US) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with no filter set (the saved page shows the Platform filter with nothing selected; its links use the en_US locale; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 144 titles, each with platform names and a status ((Out Now), a release date, (Coming Soon), (End of service)), no genres or ratings
   - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Out Now); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/en_US/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; United Kingdom, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (UK) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (UK) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_GB/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's United Kingdom country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Out Now); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/en_GB/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Rest of Europe, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (Rest of Europe) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (Rest of Europe) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_EU/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's Rest of Europe country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Out Now); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/en_EU/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Australia & New Zealand, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (Australia & New Zealand) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (Australia & New Zealand) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_AU/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's Australia & New Zealand country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Out Now); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/en_AU/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; France, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' French (France) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' French (France) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/fr_FR/games with no filter set (the saved page is in French, `lang="fr"`, the Plateformes filter with nothing selected; the page's France country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponible maintenant), a day-first release date, (Bientôt disponible), (Fin de service)), no genres or ratings
   - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Disponible maintenant); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/fr_FR/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Latin America, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_XL/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Latin America country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Disponible el 30 de octubre de 2025), (End of service)), no genres or ratings
   - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Ya disponible); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/es_XL/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Brazil, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Portuguese (Brazil) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Portuguese (Brazil) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/pt_BR/games with no filter set (the saved page is in Portuguese, `lang="pt"`, the Plataforma filter with nothing selected; the page's Brazil country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponível), a day-first release date, (Em breve), (Disponível em 30 de outubro de 2025), (End of service)), no genres or ratings
   - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Disponível); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/pt_BR/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Germany, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' German (Germany) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' German (Germany) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/de_DE/games with no filter set (the saved page is in German, `lang="de"`, the Plattformen filter with nothing selected; the page's Germany country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Jetzt verfügbar), a day-first release date, (Erscheint bald), (Erscheint am 30. Oktober 2025), (End of service)), no genres or ratings
   - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Jetzt verfügbar); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/de_DE/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Spain, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Spanish (Spain) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Spanish (Spain) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_ES/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Spain country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Coming 30 October 2025), (End of service)), no genres or ratings
   - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Ya disponible); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/es_ES/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Italy, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Italian (Italy) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Italian (Italy) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/it_IT/games with no filter set (the saved page is in Italian, `lang="it"`, the Piattaforma filter with nothing selected; the page's Italy country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ora disponibile), a day-first release date, (Presto disponibile), (Coming 30 October 2025), (End of service)), no genres or ratings
   - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Ora disponibile); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/it_IT/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Poland, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Polish (Poland) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Polish (Poland) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/pl_PL/games with no filter set (the saved page is in Polish, `lang="pl"`, the Platforma filter with nothing selected; the page's Poland country link returns to this address; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Dostępne teraz), a day-first release date, (Już wkrótce), (Coming 30 October 2025), (End of service)), no genres or ratings
   - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Dostępne teraz); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/pl_PL/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Czech Republic, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Czech (Czech Republic) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Czech (Czech Republic) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/cs_CZ/games with no filter set (the saved page is in Czech, `lang="cs"`, the Platforma filter with nothing selected; the page's Czech Republic country link returns to this address; the saved file does not record the page's own address, and its file name carries no date); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Právě vychází), a day-first release date, (Již brzy), (Coming 30 October 2025), (End of service)), no genres or ratings
   - FINAL FANTASY VII; first listed live (2026-10-28): platforms PS4, Steam, Xbox One, iPhone, Nintendo Switch, GOG; (Právě vychází); listed on the capture of live (2026-10-28) only
     - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-vii -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
@@ -603,7 +592,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## jp.playstation.com (Platform; PlayStation Japan software search, PlayStation filter, capture of 2019-05-17)
 
-- Page URL by capture: 2019-05-17 https://www.jp.playstation.com/search-results/software/search.x?platform=PlayStation&past=nowonsale&future=14&sort=1 (the ソフトウェア検索 results for the PlayStation (PSone) filter, sorted by sort=1; 4,426 hits, 30 per page; only the first page is archived, so 30 of the 4,426 are readable) -- saved page read by me, in Japanese -- accessed 2026-11-08; archived: https://web.archive.org/web/20190517032450/https://www.jp.playstation.com/search-results/software/search.x?platform=PlayStation&past=nowonsale&future=14&sort=1
+- Page URL by capture: 2019-05-17 https://www.jp.playstation.com/search-results/software/search.x?platform=PlayStation&past=nowonsale&future=14&sort=1 (the ソフトウェア検索 results for the PlayStation (PSone) filter, sorted by sort=1; 4,426 hits, 30 per page; only the first page is archived, so 30 of the 4,426 are readable) -- saved page, in Japanese -- accessed 2026-11-08; archived: https://web.archive.org/web/20190517032450/https://www.jp.playstation.com/search-results/software/search.x?platform=PlayStation&past=nowonsale&future=14&sort=1
   - ULTIMATE HITS ファイナルファンタジーVII インターナショナル; maker (株)スクウェア・エニックス; platform label PS one; release 2006年7月20日; product code SLPM-87380; JAN 4988601004671; PS Now 非対応; listed on the first page
     - https://www.jp.playstation.com/software/title/slpm87380.html -- item page link -- link recorded only -- archived: TODO
 
@@ -707,7 +696,7 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 - https://www.themoviedb.org/movie/1123354-reminiscence-of-final-fantasy-vii -- Reminiscence of Final Fantasy VII, 2005, released 2005-09-14 (JP), original language Japanese, genre Animation, director Yoji Shimizu, cast Yumi Kakazu (Yuffie Kisaragi), Masahiro Kobayashi (Barrett Wallace), Takahiro Sakurai (Cloud Strife), Kazuyuki Yama (Cid Highwind); no English overview; TMDB id 1123354 -- accessed 2026-11-10; archived: TODO
 - https://www.themoviedb.org/tv/211042-let-s-mosey-a-slow-translation-of-final-fantasy-vii -- Let's Mosey: A Slow Translation Of Final Fantasy VII, the playthrough of note: 2017, aired 2017-07-31 to 2019-04-19, 1 season listed as 12 episodes (the overview says eleven-part; the last episode is "Part Eleven-Two"), status Returning Series, network YouTube, original language English, keywords video game, translation, role playing game (rpg), nuance, japanese language; overview: Tim Rogers spent about 800 hours over two years replaying Final Fantasy VII sixteen times in English and Japanese; no cast or genres added; TMDB id 211042 -- accessed 2026-11-10; archived: TODO
 
-## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
 
 - https://www.imdb.com/title/tt0208155/ -- IMDb title page for Final Fantasy VII, IMDb id tt0208155, original title Fainaru fantajî VII, type Video Game, year 1997, release date 1997-11-17, certificate 12, genres Action, Adventure, Drama, rating 9.4 from 12,255 votes, production status Released; plot: A former soldier from an evil company joins a mercenary clan to fight the company he once served. -- accessed 2026-11-11; archived: TODO
 
@@ -777,6 +766,6 @@ Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13;
 
 - PSone Classics release date: 2009-06-02 (NA menu, Wikipedia's list of downloadable PlayStation games) over 2009-06-22 (detail page) — two sources agree.
 
-- **Not to be listed: the cancelled SNES and Nintendo 64 versions of Final Fantasy VII (user, 2026-11-03):** work began on the SNES in 1994 and stopped when the staff finished Chrono Trigger (1995); early plans and technical tests followed for the Nintendo 64 and its 64DD add-on, then the game moved to PlayStation again (released 1997); no substantial work was finished, per Polygon's oral history (2017-01-09, https://www.polygon.com/a/final-fantasy-7); the SNES and Nintendo 64 are not platforms of Final Fantasy VII, as with the 64DD. Only these platforms are left out: the game itself released on PlayStation and stays listed on its released platforms
+- **Not to be listed: the cancelled SNES and Nintendo 64 versions of Final Fantasy VII:** work began on the SNES in 1994 and stopped when the staff finished Chrono Trigger (1995); early plans and technical tests followed for the Nintendo 64 and its 64DD add-on, then the game moved to PlayStation again (released 1997); no substantial work was finished, per Polygon's oral history (2017-01-09, https://www.polygon.com/a/final-fantasy-7); the SNES and Nintendo 64 are not platforms of Final Fantasy VII, as with the 64DD. Only these platforms are left out: the game itself released on PlayStation and stays listed on its released platforms
   - Evidence: https://en.wikipedia.org/wiki/List_of_cancelled_Nintendo_64_games (revision 1383021177 of 2026-10-31; Final Fantasy VII row); https://en.wikipedia.org/wiki/List_of_cancelled_Super_NES_games (revision 1383237431 of 2026-11-01; Final Fantasy VII row)
-- Not listed (assistant's call, pending the user's review): the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII#%E6%94%BB%E7%95%A5%E6%9C%AC)
+- Not listed: the guides named in this section; guidebooks are not entertaining on their own (docs/data.md, "What belongs on a list") (https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII#%E6%94%BB%E7%95%A5%E6%9C%AC)

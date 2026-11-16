@@ -6,8 +6,6 @@
 
 Dean Wesley Smith -- Adapted by (entry `by`) -- carried over from the entry's earlier description ("movie written by Dean Wesley Smith"); credited as adapter since the book novelizes the film -- not re-verified against the titleUrl page (https://breezewiki.com/finalfantasy/wiki/Final_Fantasy:_The_Spirits_Within#Related_media)
 
-John Vornholt -- Adapted by (YA Novel alt `by`) -- carried over from the alt's earlier description ("written by John Vornholt"); credited as adapter since the YA book novelizes the film -- not re-verified against the titleUrl page
-
 ## Editions (ISBN)
 
 Per-book record, one book per label.

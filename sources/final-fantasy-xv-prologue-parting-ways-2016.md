@@ -31,6 +31,7 @@ breezewiki.com (Information)
 cdn.sqexeu.com (Information)
 - https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf — platforms* (E-book (PDF), the book platform), languages* (EN) — accessed 2026-10-10 — archived: TODO
   - The official free online PDF, in English; an official Square Enix file, so unlikely to disappear, but archive it
+  - Content read: scene headings followed by lines per character, in very short sentences, with no scene description or prose — a script of the audio drama, not a novel
 
 goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/33232393-final-fantasy-xv-prologue-parting-ways — ratings*, languages* (EN) — accessed not recorded

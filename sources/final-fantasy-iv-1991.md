@@ -17,27 +17,15 @@
 
 - https://apps.apple.com/app/final-fantasy-iv/id1492041417?
 
-## Apple Arcade (Platform)
-
-- https://apps.apple.com/app/final-fantasy-iv-3d-remake/id6504607951
-
 ## finalfantasy.fandom.com (Information)
 
 - https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV_version_differences -- versions*, platforms* -- accessed 2026-09-22
 Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_version_differences
 
-- https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV_(3D_Remake)_version_differences -- versions*, platforms* -- accessed 2026-09-22
-Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_version_differences
-
-## GOG (Platform)
-
-- https://www.gog.com/en/game/final_fantasy_iv_3d_remake
-
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/final-fantasy-iv/
 - https://www.metacritic.com/game/final-fantasy-iv-pixel-remaster/
-- https://www.metacritic.com/game/final-fantasy-iv-3d-remake/
 
 ## Nintendo (Platform)
 
@@ -50,13 +38,10 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 ## Square Enix (Publisher, Developer)
 
 - https://finalfantasypixelremaster.square-enix-games.com/
-- https://www.square-enix-games.com/games/final-fantasy-iv -- accessed 2026-10-19
 
 ## Steam (Platform)
 
 - https://store.steampowered.com/app/1173800?
-- https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/ -- languages* -- accessed 2026-10-24
-  - Interface and subtitles: English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Japanese, Korean, Simplified Chinese, Thai, Traditional Chinese; full audio: English and Japanese only
 - https://store.steampowered.com/app/1173800/FINAL_FANTASY_IV/
 
 ## wikipedia.org (Information)
@@ -67,8 +52,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 - https://wikipedia.org/wiki/Final_Fantasy_IV
 - https://wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster -- dates, platforms, tags, versions -- accessed 2026-09-19
 - https://wikipedia.org/wiki/Final_Fantasy_IV#Re-releases
-- https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)
-- https://wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game)#Ports
 - https://en.wikipedia.org/wiki/List_of_Square_video_games -- row "Final Fantasy IV Easytype" (Super Nintendo Entertainment System, November 29, 1991, Square; revision 1371521634 of 2026-08-26) -- accessed 2026-11-03; archived: TODO
 
 ## Xbox (Platform)
@@ -78,82 +61,33 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 ## otakumode.com (Information)
 
 - https://otakumode.com/otapedia/games/final_fantasy/final_fantasy_4 -- story, dates, platforms -- accessed 2026-10-17
-  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Prologue, Gameplay, Characters, Development)
-  - nothing to note (user, 2026-10-17)
+  - (Tokyo Otaku Mode's Otapedia, sections Prologue, Gameplay, Characters, Development)
+  - nothing to note
   - the Super Nintendo release in 1991, the Active Battle System, Cecil and Golbez, all consistent with the entry
   - no plot summary beyond the prologue
   - Its Development section links an archived interview, "FFIV For The Famicom Was 80% Complete" (https://web.archive.org/web/20161216181140/http://matotree.com/2012/08/final-fantasy-iv-for-the-famicom-was-80-complete/): about a cancelled Famicom version
-    - interesting but not pertinent to the entry (user, 2026-10-17)
-    - not read by me
-
-## apps.apple.com and play.google.com (Platform; 3D Remaster 2012)
-
-- https://apps.apple.com/app/final-fantasy-iv-3d-remake/id575119311 -- the iOS row of the "3D Remaster 2012" version -- accessed 2026-10-20
-  - Live: the iTunes lookup API for the Square Enix developer (id 300186801) lists FINAL FANTASY IV (3D REMAKE), released 2012-12-20, current version 2025-02-12; the user's click on the iPad row of the developer page opened the Apple Arcade app instead (FINAL FANTASY IV (3D REMAKE)+, id 6504607951, released 2024-12-09, already the `apple-arcade` row)
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP -- the Android row -- accessed 2026-10-20; live; user's pasted 2021-01-05 capture: version 2.0.0, updated 2020-11-03, 22,984 ratings (4.0 stars)
-  - https://web.archive.org/web/20170530165254/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP&hl=en -- capture of 2017-05-30, 3D remake by screenshots; 21,513 ratings (4.5 stars), Teen; no languages line -- accessed 2026-10-24
-- https://web.archive.org/web/20260611154927/https://apps.apple.com/us/app/final-fantasy-iv-3d-remake/id575119311 -- capture of 2026-06-11; v2.0.4 (2025-02-11), 644.5 MB, 539 ratings (4.4), rated 9+, Game Center; Languages: English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese -- languages* -- accessed 2026-10-24
-- https://web.archive.org/web/20170507003754/http://dlgames.square-enix.com/ff/ff4/en/ -- Square Enix NA site; first capture with content, not "coming soon"; trailer shows the 3D remake -- platforms -- accessed 2026-10-24
-  - https://web.archive.org/web/20200517230245/http://dlgames.square-enix.com/ff/ff4/en/ -- last working capture (2020-05-17); later captures show no page and no redirect
-  - https://web.archive.org/web/20170712043257/https://itunes.apple.com/us/app/final-fantasy-iv/id575119311?mt=8&at=11lc5S -- iPhone button
-  - https://web.archive.org/web/20170712043257/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP&hl=en -- Android button
-  - https://web.archive.org/web/20170712043257/http://www.amazon.com/gp/product/B00IHX3TIW -- Amazon button
-- https://web.archive.org/web/20160304194423/http://dlgames.square-enix.com/ff/ff4/jp/index.html -- Square Enix JP site; earliest capture found that is not "coming soon" (found by scrolling years, may not be the first); platforms App Store, Square Enix Market, Android, Amazon -- platforms -- accessed 2026-10-24
-  - https://web.archive.org/web/20160731021835/https://itunes.apple.com/jp/app/final-fantasy-iv/id577363831?&mt=8&at=11lc5S -- App Store JP button; id577363831
-    - redirects to https://web.archive.org/web/20240902223058/https://apps.apple.com/jp/app/final-fantasy-iv-3d-remake/id577363831 -- Japan storefront listing, a different id from the US id575119311; FINAL FANTASY IV (3D REMAKE), v2.0.1 (2021-06-07, retitled), 646.4 MB, ¥2,400, 640 ratings (3.7), 9+, © 1991,2012; 言語: 日本語、イタリア語、スペイン語、タイ語、ドイツ語、フランス語、ポルトガル語、ロシア語、簡体字中国語、繁体字中国語、英語、韓国語 (the same twelve as the US page); cards link FF XIII, X/X-2 and IX -- languages, platforms -- accessed 2026-10-24
-  - https://web.archive.org/web/20160731021835/http://www.square-enix.co.jp/smart/market/ -- Square Enix Market button
-  - https://web.archive.org/web/20160731021835/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP -- Android button
-  - https://web.archive.org/web/20160731021835/http://www.amazon.co.jp/gp/product/B00IHX3TIW -- Amazon button; ASIN B00IHX3TIW
-- https://web.archive.org/web/20240229214653/http://dlgames.square-enix.com/ff/ff4/jp/index.html -- redesigned Square Enix JP site (capture of 2024-02-29); platforms Steam, App Store, Google Play, Amazon Appstore, Square Enix Market -- platforms -- accessed 2026-10-24
-  - https://web.archive.org/web/20240229214653/https://store.steampowered.com/app/312750/FINAL_FANTASY_IV/ -- Steam button; app 312750
-  - https://web.archive.org/web/20240229214653/https://apps.apple.com/jp/app/final-fantasy-iv/id577363831?l=ja -- App Store JP button
-  - https://web.archive.org/web/20240229214653/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP -- Google Play button
-  - https://web.archive.org/web/20240229214653/https://www.amazon.co.jp/gp/product/B00IHX3TIW -- Amazon button
-  - https://web.archive.org/web/20240229214653/https://www.jp.square-enix.com/market/ -- Square Enix Market button
-- https://web.archive.org/web/20250707205402/https://www.jp.square-enix.com/ff4/index.html -- Square Enix JP site at a new URL (capture of 2025-07-07), 3D remake; platforms Apple Arcade, App Store, Google Play, Amazon Appstore, Square Enix Market, Steam -- platforms -- accessed 2026-10-24
-  - https://web.archive.org/web/20250707205402/https://apps.apple.com/jp/app/final-fantasy-iv-3d-remake/id6504607951 -- Apple Arcade button; id6504607951
-  - https://web.archive.org/web/20250707205402/https://apps.apple.com/jp/app/final-fantasy-iv/id577363831?l=ja -- App Store button
-  - https://web.archive.org/web/20250707205402/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP -- Google Play button
-  - https://web.archive.org/web/20250707205402/https://www.amazon.co.jp/gp/product/B00IHX3TIW -- Amazon button
-  - https://web.archive.org/web/20250707205402/https://an.sqexm.net/sp/site/Page/sqmk/ff4/top -- Square Enix Market button
-  - https://web.archive.org/web/20250707205402/https://store.steampowered.com/app/312750/FINAL_FANTASY_IV/ -- Steam button
-- https://web.archive.org/web/20160108012323/http://www.amazon.com/SQUARE-ENIX-CO-LTD-FANTASY/dp/B00IHX3TIW -- Amazon Appstore, FINAL FANTASY IV, ASIN B00IHX3TIW, 3D remake by screenshots; 205 reviews (3.8 stars) -- platforms*, languages* -- accessed 2026-10-24
-  - Live: https://www.amazon.com/SQUARE-ENIX-CO-LTD-FANTASY/dp/B00IHX3TIW -- FINAL FANTASY IV (3D REMAKE), 591 ratings (3.6 stars); Languages Supported: Chinese, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Spanish -- accessed 2026-10-24
-
-## dlgames.square-enix.com (Platform; Square Enix, smartphone sites)
-
-- https://web.archive.org/web/20131030033953/http://dlgames.square-enix.com/ff/ -- "for smartphone" menu lists Final Fantasy IV -- platforms -- accessed 2026-10-24
-
-## square-enix.co.jp/smart/market (Platform; Square Enix Market, Japan)
-
-- http://an.sqexm.net/sp/site/Page/sqmk/ff4/top?index_s -- the 3D remake on Square Enix Market, Japan only, confirmed by the user (2026-10-25) in the capture of 2013-09-26; also listed in the capture of 2014-02-17 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20130926052625/http://an.sqexm.net/sp/site/Page/sqmk/ff4/top?index_s, https://web.archive.org/web/20140217005214/http://an.sqexm.net/sp/site/Page/sqmk/ff4/top?index_s
-- http://an.sqexm.net/sp/site/Page/sqmk/ff4/top -- Final Fantasy IV (3D Remake) on Square Enix Market, Japan only, labelled as the 3D remake on the title list of 2023-02-04 -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20230204080504/http://an.sqexm.net/sp/site/Page/sqmk/ff4/top (page not read; URL given by user)
-  - The store is described in final-fantasy-franchise.md
-
-## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, iPod / iPhone)
-
-- http://dlgames.square-enix.com/na/ipod/ -- the "iPod / iPhone" menu, capture of 2026-04-22: lists IV, release 2012.12.20 -- accessed 2026-10-24 -- archived: https://web.archive.org/web/20260422231557/http://dlgames.square-enix.com/na/ipod/
-  - The menu link leaves /na/; link recorded only
+    - interesting but not pertinent to the entry
+    - not read
 
 ## dlgames.square-enix.com (Platform; Game Archives, Japan)
 
-- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Final Fantasy IV, Game Archives (PS3/PSP/PSV), RPG, release 2012.06.27, "supported PlayStation Vita from 2012.08.28" -- accessed 2026-10-25 (text pasted by user)
-- http://dlgames.square-enix.com/jp/psga/2012/ff4/ -- the Japanese Game Archives detail page: release 2012.06.27 (PS3, PSP) and 2012.08.28 (PS Vita); copyright 1991, 1997; platforms PS3, PSP and PS Vita; RPG; 1 player; CERO A (all ages) -- accessed 2026-10-25 (raw HTML read by me) -- archived: https://web.archive.org/web/20161223034138/http://dlgames.square-enix.com/jp/psga/2012/ff4/
-- https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2012/ff4/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given by user)
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Final Fantasy IV, Game Archives (PS3/PSP/PSV), RPG, release 2012.06.27, "supported PlayStation Vita from 2012.08.28" -- accessed 2026-10-25
+- http://dlgames.square-enix.com/jp/psga/2012/ff4/ -- the Japanese Game Archives detail page: release 2012.06.27 (PS3, PSP) and 2012.08.28 (PS Vita); copyright 1991, 1997; platforms PS3, PSP and PS Vita; RPG; 1 player; CERO A (all ages) -- accessed 2026-10-25 (raw HTML) -- archived: https://web.archive.org/web/20161223034138/http://dlgames.square-enix.com/jp/psga/2012/ff4/
+- https://web.archive.org/web/20150410063306/http://dlgames.square-enix.com/jp/psga/2012/ff4/ -- the game's official website link on the 2015-04-10 list (the same Game Archives detail page) -- accessed 2026-10-25 (link given)
 
 ## dlgames.square-enix.com (Platform; PSP downloads, Japan)
 
-- http://dlgames.square-enix.com/jp/psp_dl/ -- the Japanese PSP download menu, capture of 2012-04-29 (new against 2011-04-29): ファイナルファンタジーIV コンプリートコレクション, RPG, release 2011.03.24; links http://www.square-enix.co.jp/ff4cc/ (no dlgames detail page) -- accessed 2026-10-25 (saved page read by me) -- archived: https://web.archive.org/web/20120429230553/http://dlgames.square-enix.com/jp/psp_dl/
+- http://dlgames.square-enix.com/jp/psp_dl/ -- the Japanese PSP download menu, capture of 2012-04-29 (new against 2011-04-29): ファイナルファンタジーIV コンプリートコレクション, RPG, release 2011.03.24; links http://www.square-enix.co.jp/ff4cc/ (no dlgames detail page) -- accessed 2026-10-25 (saved page) -- archived: https://web.archive.org/web/20120429230553/http://dlgames.square-enix.com/jp/psp_dl/
 - http://www.square-enix.co.jp/ff4cc/ -- the official site, FINAL FANTASY IV Complete Collection -FINAL FANTASY IV & THE AFTER YEARS- (Flash) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120503031039/http://www.square-enix.co.jp/ff4cc/
 
 ## dlgames.square-enix.com (Platform; Game Archives, Japan, menu captures of 2010-05-28, 2011-07-27 and 2012-09-25)
 
-- http://dlgames.square-enix.com/jp/psga/ -- the Japanese "PSOne Classics" (ゲームアーカイブス) menu, capture of 2012-09-25 (saved page read by me): ファイナルファンタジーIV; RPG; release 2012.06.27; first listed in this capture, not in 2011-07-27; links http://dlgames.square-enix.com/jp/psga/2012/ff4/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/
+- http://dlgames.square-enix.com/jp/psga/ -- the Japanese "PSOne Classics" (ゲームアーカイブス) menu, capture of 2012-09-25 (saved page): ファイナルファンタジーIV; RPG; release 2012.06.27; first listed in this capture, not in 2011-07-27; links http://dlgames.square-enix.com/jp/psga/2012/ff4/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/
   - the capture's own link to the detail page: https://web.archive.org/web/20120925064300/http://dlgames.square-enix.com/jp/psga/2012/ff4/ -- accessed 2026-10-25 -- shallow: not read at this capture
 
 ## jp.square-enix.com (Publisher; Japan, PSP list, captures of 2012-10-06 to live (2026-10-26))
 
-- Square Enix Japan's PlayStation Portable game list -- saved pages of each capture read by me; one line per title and release date, with what each capture shows -- accessed 2026-10-25 and 2026-10-26
+- Square Enix Japan's PlayStation Portable game list -- saved pages of each capture; one line per title and release date, with what each capture shows -- accessed 2026-10-25 and 2026-10-26
   - Page URL by capture: 2012-10-06 to 2018-03-20 http://www.jp.square-enix.com/game/psp/; 2023-01-07 to live https://www.jp.square-enix.com/game/?pf=18 (platform filter 18 = プレイステーション・ポータブル); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons, read from the image file names (alt text read plyaOnline in the 2013-10-20 and 2014-11-19 captures and Download from 2015-03-18, for the same images): ONLINE対応 = icon-online-taiou; ダウンロード対応 (also sold as a download) = icon-download-taiou; ダウンロード専用 = icon-download-senyou; Game Archives専用 = icon-gamearchives; "none" = no icon (not stated; the 2012-10-06 capture shows none on any item). From 2023-01-07 the page shows the labels パッケージ (disc) and ダウンロード as text instead, and the CERO rating as an image with alt text.
   - CERO: from 2012-10-06 to 2018-03-20 the rating image's file name (cero200 = A, cero212 = B, cero215 = C, cero217 = D, matched against the 2023-01-07 labels of the same titles); from 2023-01-07 the image's alt text
@@ -173,21 +107,21 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## jp.square-enix.com (Publisher; Japan, 2019 capture)
 
-- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page; a different layout from the 2015 to 2018 captures, each title with its store and official links) -- accessed 2026-10-25
   - Final Fantasy IV (Game Archives), release 2012.06.27; marked "Wii VC ended" (※Wii VC終了); links the pages below
     - https://web.archive.org/web/20191029171046/https://store.playstation.com/ja-jp/product/JP0082-NPJJ00652_00-0000000000000001 -- the PlayStation Store page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
     - https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/detail/ff4/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
-- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Final Fantasy IV (Game Archives) links the pages below; the PlayStation Store link is no longer listed and so is the "Wii VC ended" mark -- accessed 2026-10-25
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page): Final Fantasy IV (Game Archives) links the pages below; the PlayStation Store link is no longer listed and so is the "Wii VC ended" mark -- accessed 2026-10-25
   - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/detail/ff4/ -- the game detail page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
 ## dlgames.square-enix.com (Platform; Virtual Console, Japan, menu captures of 2010-03-28, 2011-05-13 and 2012-05-14)
 
-- http://dlgames.square-enix.com/jp/vc/ -- the Japanese Virtual Console (バーチャルコンソール) menu, saved pages read by me: ファイナルファンタジーIV; genre RPG; release 2009.08.04; listed in all three captures; links http://dlgames.square-enix.com/jp/vc/2009/ff4/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/
+- http://dlgames.square-enix.com/jp/vc/ -- the Japanese Virtual Console (バーチャルコンソール) menu, saved pages: ファイナルファンタジーIV; genre RPG; release 2009.08.04; listed in all three captures; links http://dlgames.square-enix.com/jp/vc/2009/ff4/ -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/
   - the captures' own links to the detail page: https://web.archive.org/web/20100328070952/http://dlgames.square-enix.com/jp/vc/2009/ff4/, https://web.archive.org/web/20110513232940/http://dlgames.square-enix.com/jp/vc/2009/ff4/, https://web.archive.org/web/20120514024939/http://dlgames.square-enix.com/jp/vc/2009/ff4/ -- accessed 2026-10-25 -- link recorded only
 
 ## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2023-09-15 to live (2026-10-26))
 
-- Square Enix Japan's PlayStation 4 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+- Square Enix Japan's PlayStation 4 game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-26
   - Page URL by capture: 2013-10-20 to 2016-12-22 http://www.jp.square-enix.com/game/ps4/; 2018-01-30 http://www.jp.square-enix.com/game/pf/ps4/; 2018-10-10 https://www.jp.square-enix.com/game/pf/ps4/; 2019-09-18 to live https://www.jp.square-enix.com/game/?pf=1; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou (2013 to 2016 captures); from 2018 the labels パッケージ (disc), ダウンロード, オンライン専用, VR専用 and VR対応 are shown as text; "none" = no icon (not stated). CERO ratings are recorded from the 2018 captures, where the page shows them as text.
   - ファイナルファンタジーIV（ピクセルリマスター）; RPG; first listed 2023-09-15: release 2023.04.20; icons: ダウンロード; CERO B; listed in every capture from 2023-09-15 to live (2026-10-26)
@@ -201,7 +135,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## jp.square-enix.com (Publisher; Japan, PS3 list, captures of 2012-10-06 to live (2026-10-26))
 
-- Square Enix Japan's PlayStation 3 game list -- saved pages of each capture read by me, the 2015-04-10 capture from the text pasted by user; each capture read only for what is new against the previous one -- accessed 2026-10-26
+- Square Enix Japan's PlayStation 3 game list -- saved pages of each capture, the 2015-04-10 capture from the saved text; each capture read only for what is new against the previous one -- accessed 2026-10-26
   - Page URL by capture: 2012-10-06 to 2018-05-24 http://www.jp.square-enix.com/game/ps3/ (2016-05-12 is the English-language page, 2017-06-06 the Japanese-language page); 2019-10-29 to live https://www.jp.square-enix.com/game/?pf=99,2; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in the franchise sources file (sources/final-fantasy-franchise.md in the final-fantasy repo)
   - The 2012 to 2018 captures hold two blocks: the newer releases with a description and the older titles (Game Archives and earlier) as compact rows; both were read. Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou; Game Archives (PS3/PSP/PSV) = icon-gamearchives; the 2015-04-10 capture gives only the text labels Online, Download and Game Archives; from 2019-10-29 the labels パッケージ (disc), ダウンロード and オンライン専用 are shown as text; "none" = no icon (not stated). CERO ratings are shown as images before 2019-10-29 and as text from 2025-02-17; they are recorded from 2025-02-17.
   - A title appears only in the captures listed after "listed:"; the 2012-10-06 capture holds 34 titles, the 2013-10-20 capture 104 and the later 2012 to 2018 captures 113 to 125.
@@ -209,7 +143,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## jp.square-enix.com (Publisher; Japan, Wii list, captures of 2013-06-26 to live (2026-10-27))
 
-- Square Enix Japan's Wii game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Wii game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2013-06-26 http://www.jp.square-enix.com/game/wii/; 2014-07-19 to 2017-12-01 http://www.jp.square-enix.com:80/game/wii/; live (2026-10-27) https://www.jp.square-enix.com/game/?pf=21 (platform filter 21 = Wii; the model checkbox value is 21, beside a disabled checked 99); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: 2013-06-26 to 2017-12-01 the images icon-wiivc (alt text バーチャルコンソール(Wii), the Virtual Console download mark), icon-wiiware (alt Wiiウェア, the WiiWare download mark) and icon-online-taiou (alt text online, ONLINE 対応); live the labels as images: Wii (the model, not repeated below), ダウンロード (also sold as a download), パッケージ (sold as a package) and オンライン専用 (online only); "none" = no icon (not stated). CERO: 2013-06-26 to 2017-12-01 the rating image's file name (cero200 = A, cero212 = B, cero215 = C, matched against the live labels of the same titles); live the label's alt text
   - Link labels: 公式サイト (official site), 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -218,24 +152,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
     - http://www.jp.square-enix.com/archive/vc_ff4/ -- 商品詳細 link, listed 2013-06-26 -- link recorded only -- archived: https://web.archive.org/web/20130626122610/http://www.jp.square-enix.com/archive/vc_ff4/
     - https://www.jp.square-enix.com/game/detail/ff4/ -- 商品詳細 link, listed live (2026-10-27) -- link recorded only -- archived: TODO
 
-## jp.square-enix.com (Publisher; Japan, Nintendo DS / Nintendo DSi list, captures of 2012-10-06 to live (2026-10-27))
-
-- Square Enix Japan's Nintendo DS / Nintendo DSi game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
-  - Page URL by capture: 2012-10-06 http://www.jp.square-enix.com:80/game/nds/; 2013-10-20 http://www.jp.square-enix.com/game/nds/; 2014-12-03 to 2015-12-10 http://www.jp.square-enix.com:80/game/nds/; 2016-12-22 http://www.jp.square-enix.com/game/nds/; 2019-06-26 to 2025-08-30 https://www.jp.square-enix.com/game/?pf=99,22; live (2026-10-27) https://www.jp.square-enix.com/game/?pf=22 (platform filter 22 = Nintendo DS / Nintendo DSi; the model checkbox value is 22, beside a disabled checked 99); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
-  - Icons: 2012-10-06 no icon shown on any item; 2013-10-20 to 2016-12-22 the images by file name icon-online-taiou (ONLINE 対応) and icon-dsiware (DSiウェア, the download-only DSiWare mark); 2019-06-26 to live the labels as images: ニンテンドーDS / ニンテンドーDSi (the model, not repeated below), パッケージ (sold as a package) and ダウンロード (a download); "none" = no icon (not stated). CERO: 2012-10-06 to 2016-12-22 the rating image's file name (cero200 and cero100 = A, matched against the later labels of the same titles); 2019-06-26 to live the label's alt text
-  - Link labels: 公式サイト (official site), 商品詳細 (detail page), e-STOREで購入 (buy at the Square Enix e-STORE); 2012-10-06 to 2016-12-22 the title links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
-  - ファイナルファンタジーIV; RPG; first listed (earliest capture read) 2012-10-06: release 2007.12.20; icons: none; CERO A; listed: 2012-10-06, 2013-10-20, 2014-12-03, 2015-12-10, 2016-12-22, 2019-06-26; changes: 2019-06-26: note none to ※Wii VC終了; icons none to パッケージ
-    - http://www.square-enix.co.jp/ff4ds/ -- ファイナルファンタジーIV link and 公式サイト link, listed 2012-10-06 to 2013-10-20 -- link recorded only -- archived: https://web.archive.org/web/20121006013900/http://www.square-enix.co.jp/ff4ds/ (last listing: https://web.archive.org/web/20131020014805/http://www.square-enix.co.jp/ff4ds/)
-    - http://www.jp.square-enix.com/archive/ff4ds/ -- ファイナルファンタジーIV link and 商品詳細 link, listed 2014-12-03 to 2016-12-22 -- link recorded only -- archived: https://web.archive.org/web/20141203045740/http://www.jp.square-enix.com/archive/ff4ds/ (last listing: https://web.archive.org/web/20161222212554/http://www.jp.square-enix.com/archive/ff4ds/)
-    - https://www.jp.square-enix.com/game/detail/ff4/ -- 商品詳細 link, listed 2019-06-26 -- link recorded only -- archived: https://web.archive.org/web/20190626224307/https://www.jp.square-enix.com/game/detail/ff4/
-  - アルティメット ヒッツ ファイナルファンタジーIV; RPG; first listed (earliest capture read) 2012-10-06: release 2010.03.04; icons: none; CERO A; listed: 2012-10-06, 2013-10-20, 2014-12-03, 2015-12-10, 2016-12-22
-    - http://www.square-enix.co.jp/uh/ -- アルティメット ヒッツ ファイナルファンタジーIV link and 公式サイト link, listed 2012-10-06 to 2016-12-22 -- link recorded only -- archived: https://web.archive.org/web/20121006013900/http://www.square-enix.co.jp/uh/ (last listing: https://web.archive.org/web/20161222212554/http://www.square-enix.co.jp/uh/)
-  - ファイナルファンタジーIV（アルティメット ヒッツ）; RPG; first listed (earliest capture read) 2025-08-30: release 2010.03.04; icons: パッケージ; CERO A; listed: 2025-08-30, live (2026-10-27)
-    - https://www.jp.square-enix.com/game/detail/ff4/ -- 商品詳細 link, listed 2025-08-30 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20250830120859/https://www.jp.square-enix.com/game/detail/ff4/
-
 ## jp.square-enix.com (Publisher; Japan, Xbox Series X|S list, captures of 2020-11-11 to live (2026-10-27))
 
-- Square Enix Japan's Xbox Series X|S game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Xbox Series X|S game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2020-11-11 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Xbox Series X (2020-11-11) / Xbox Series X|S, platform filter ?pf=34 (the saved pages show the model checkbox value 34 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/https://www.jp.square-enix.com/game/, timestamps listed in sources/final-fantasy-franchise.md
   - Icons, read from the alt text of the label images: Xbox SX (2020-11-11) or Xbox Series X|S (the model, not repeated below), パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the label's alt text; 審査予定 = rating pending
   - Link labels: 公式サイト (official site), Microsoft Store, 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -246,19 +165,17 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## jp.square-enix.com (Publisher; Japan, Windows list, captures of 2021-06-27 to live (2026-10-27))
 
-- Square Enix Japan's Windows game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Windows game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-05 to 2017-12-26 http://www.jp.square-enix.com/game/win/; 2018-07-06 http://www.jp.square-enix.com/game/pf/win/; 2019-09-18 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Windows, platform filter ?pf=8 (the saved pages show the model checkbox value 8 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons, read from the images (2012 to 2017 captures): ダウンロード専用 (download only) = icon-download-senyou, ダウンロード対応 (also sold as a download) = icon-download-taiou, オンライン専用 (online only) = icon-online-senyou, ONLINE対応 = icon-online-taiou; from 2018 the label images' alt text: パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only), the store buttons (Steam, Epic Games Store, Microsoft Store) are links, listed below; "none" = no icon beyond the model (not stated). CERO: the label's alt text from the 2018 captures; CERO審査予定 = rating pending
   - Link labels: 公式サイト (official site), 商品詳細 (product detail page, 2021 on), Steam (Steamでダウンロード in 2018), Microsoft Store, Epic Games Store, e-STOREで購入 (Square Enix e-STORE purchase); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
-  - ファイナルファンタジーIV（3D REMAKE）; RPG; first listed 2021-06-27: release 2020.11.06; icons: ダウンロード; CERO A; listed in every capture from 2021-06-27 to 2021-06-27
-    - https://store.steampowered.com/app/312750/FINAL_FANTASY_IV/ -- Steam link, listed 2021-06-27 -- link recorded only -- archived: https://web.archive.org/web/20210702110910/https://store.steampowered.com/app/312750/FINAL_FANTASY_IV/
   - ファイナルファンタジーIV（ピクセルリマスター）; RPG; first listed 2022-06-28: release 2021.09.09; icons: ダウンロード; CERO B; changes: 2025-09-25: release 2021.09.09 to 2024.09.26; listed in every capture from 2022-06-28 to live (2026-10-27)
     - https://store.steampowered.com/app/1173800 -- Steam link, listed 2022-06-28 to 2024-09-24 -- link recorded only -- archived: https://web.archive.org/web/20220628170027/https://store.steampowered.com/app/1173800 (last listing: https://web.archive.org/web/20240925012046/https://store.steampowered.com/app/1173800)
     - https://store.steampowered.com/app/312750/FINAL_FANTASY_IV/ -- Steam link, listed 2022-06-28 to 2024-09-24 -- link recorded only -- archived: https://web.archive.org/web/20220628170027/https://store.steampowered.com/app/312750/FINAL_FANTASY_IV/ (last listing: https://web.archive.org/web/20240925012046/https://store.steampowered.com/app/312750/FINAL_FANTASY_IV/)
 
 ## jp.square-enix.com (Publisher; Japan, Nintendo 3DS list, captures of 2012-10-06 to live (2026-10-27))
 
-- Square Enix Japan's Nintendo 3DS game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Nintendo 3DS game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-06 http://www.jp.square-enix.com:80/game/3ds/; 2013-10-20 http://www.jp.square-enix.com/game/3ds/; 2014-10-25 to 2016-12-21 http://www.jp.square-enix.com:80/game/3ds/; 2018-01-30 http://www.jp.square-enix.com:80/game/pf/3ds/; 2019-03-21 to live (2026-10-27) https://www.jp.square-enix.com/game/?pf=6 (platform filter 6 = Nintendo 3DS; the model checkbox value is 6, beside a disabled checked 99 on the live page); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: 2012-10-06 to 2016-12-21 the images by file name icon-wiivc (the Virtual Console download mark; its alt text reads Download), icon-download-taiou (also sold as a download), icon-download-senyou (download only), icon-online-taiou (ONLINE 対応) and icon-online-senyou (online only); 2018-01-30 to live the labels as images: 3DS or ニンテンドー3DS (the model, not repeated below), パッケージ (sold as a package) and ダウンロード (also sold as a download); "none" = no icon (not stated). CERO: 2012-10-06 to 2016-12-21 the rating image's file name (cero200 = A, cero212 = B, matched against the later labels of the same titles; cero999 on the two items listed as 発売予定, no label to match); 2018-01-30 to live the label's alt text
   - Link labels: 公式サイト (official site), 商品詳細 (detail page), e-STOREで購入 (buy at the Square Enix e-STORE), 任天堂ホームページでダウンロード / 任天堂ホームページ (Nintendo site); 2012-10-06 to 2016-12-21 the title links to the same page as 公式サイト; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -269,39 +186,25 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## jp.square-enix.com (Publisher; Japan, iOS list, captures of 2013-06-15 to live (2026-10-27))
 
-- Square Enix Japan's iOS game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's iOS game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2013-06-15 to 2017-10-09 http://www.jp.square-enix.com/game/ios/ (the per-model page, titled iPod/iPhone/iPad in 2013 and iPhone/iPod touch/iPad from 2014); 2018-07-06 http://www.jp.square-enix.com/game/pf/ios/ (the per-model page, titled iOS; the saved page lists 73 items and a もっと見る button); 2019-03-21 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to iOS, platform filter ?pf=11 (the saved pages show the model checkbox value 11 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: 2013-06-15 to 2017-10-09 the icon image ダウンロード専用 (download only) on items, none on others; from 2018-07-06 the model label image iOS (the model, not repeated below) and the label ダウンロード on items, the buttons App Storeでダウンロード (2018) or 購入する and App Store (2019 on), and 事前登録する (2018) or 事前登録 (2019 on) on items not yet out; the ダウンロード専用 image and the ダウンロード label are both written ダウンロード below, 事前登録する and 事前登録 both 事前登録. Date label: 発売日 (release) or 配信日 (delivery), by item. CERO: no rating label on any capture
   - Link labels: 公式サイト (official site), 商品詳細 (detail page, 2019 on), App Store (the store page); 2013 to 2017 the title links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
-  - ファイナルファンタジーIV; RPG; first listed 2013-06-15: release 2012.12.20; icons: ダウンロード; changes: 2019-03-21: genre RPG to RPG ※Wii VC終了; listed in every capture from 2013-06-15 to 2021-05-13 except 2018-07-06
-    - http://dlgames.square-enix.com/ff/ -- 公式サイト link, listed 2013-06-15 to 2017-10-09 -- link recorded only -- archived: https://web.archive.org/web/20130615010510/http://dlgames.square-enix.com/ff/ (last listing: https://web.archive.org/web/20171009232939/http://dlgames.square-enix.com/ff/)
-    - https://itunes.apple.com/jp/app/final-fantasy-iv/id577363831?&mt=8&at=11lc5S -- App Store link, listed 2019-03-21 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://itunes.apple.com/jp/app/final-fantasy-iv/id577363831?&mt=8&at=11lc5S
-    - https://apps.apple.com/jp/app/final-fantasy-iv/id577363831?l=ja -- App Store link, listed 2020-04-23 to 2021-05-13 -- link recorded only -- archived: https://web.archive.org/web/20200410180449/https://apps.apple.com/jp/app/final-fantasy-iv/id577363831?l=ja (last listing: https://web.archive.org/web/20210512121951/https://apps.apple.com/jp/app/final-fantasy-iv/id577363831?l=ja)
   - ファイナルファンタジーIV（ピクセルリマスター）; RPG; first listed 2022-05-25: release 2021.09.09; icons: ダウンロード; listed in every capture from 2022-05-25 to 2022-05-25
     - https://apps.apple.com/jp/app/final-fantasy-iv/id1492041417 -- App Store link, listed 2022-05-25 -- link recorded only -- archived: https://web.archive.org/web/20220512101613/https://apps.apple.com/jp/app/final-fantasy-iv/id1492041417
     - https://apps.apple.com/jp/app/final-fantasy-iv/id577363831?l=ja -- App Store link, listed 2022-05-25 -- link recorded only -- archived: https://web.archive.org/web/20220512101613/https://apps.apple.com/jp/app/final-fantasy-iv/id577363831?l=ja
-  - ファイナルファンタジーIV（3D REMAKE）; RPG; first listed 2023-06-20: release 2012.12.20; icons: ダウンロード; listed in every capture from 2023-06-20 to live (2026-10-27)
-    - https://apps.apple.com/jp/app/final-fantasy-iv/id577363831?l=ja -- App Store link, listed 2023-06-20 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230623200123/https://apps.apple.com/jp/app/final-fantasy-iv/id577363831?l=ja
-    - https://apps.apple.com/jp/app/final-fantasy-iv/id1492041417 -- App Store link, listed 2023-06-20 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230623200123/https://apps.apple.com/jp/app/final-fantasy-iv/id1492041417
 
 ## jp.square-enix.com (Publisher; Japan, Android list, captures of 2013-06-11 to live (2026-10-27))
 
-- Square Enix Japan's Android game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Android game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2013-06-11 to 2017-10-10 http://www.jp.square-enix.com/game/android/ (the per-model page, titled Android); 2018-06-27 http://www.jp.square-enix.com/game/pf/android/ (the per-model page, titled Android | ゲーム; the saved page lists 76 items and a もっと見る button); 2019-03-09 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Android, platform filter ?pf=12 (the saved pages show the model checkbox value 12 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: 2013-06-11 to 2017-10-10 the icon image ダウンロード専用 (download only) on items; from 2018-06-27 the model label image Android (the model, not repeated below) and the label ダウンロード on items, the store buttons Google Playでダウンロード or SQUARE ENIX MARKETでダウンロード (2018) or Google Play or SQUARE ENIX MARKET (2019 on) beside 購入する (2019 on), and 事前登録する (2018) or 事前登録 (2019 on) on items not yet out; the ダウンロード専用 image and the ダウンロード label are both written ダウンロード below, 事前登録する and 事前登録 both 事前登録, the store buttons are written Google Play and SQUARE ENIX MARKET. Date label: 発売日 (release) or 配信日 (delivery), by item. CERO: no rating label on any capture
   - Link labels: 公式サイト (official site), 商品詳細 (detail page, 2019 on), Google Play and SQUARE ENIX MARKET (the store pages); 2013 to 2017 the thumbnail image links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
-  - ファイナルファンタジーIV; RPG; first listed 2013-06-11: release 2013.06.03; icons: ダウンロード; changes: 2018-06-27: icons ダウンロード to Google Play, SQUARE ENIX MARKET, ダウンロード / 2019-03-09: genre RPG to RPG ※Wii VC終了; listed in every capture from 2013-06-11 to 2021-03-08
-    - http://dlgames.square-enix.com/ff/ -- 公式サイト link, listed 2013-06-11 to 2017-10-10 -- link recorded only -- archived: https://web.archive.org/web/20130611124444/http://dlgames.square-enix.com/ff/ (last listing: https://web.archive.org/web/20171010160332/http://dlgames.square-enix.com/ff/)
-    - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP -- Google Playでダウンロード link, listed 2018-06-27 to 2021-03-08 -- link recorded only -- archived: https://web.archive.org/web/20180627171014/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP (last listing: https://web.archive.org/web/20210309031231/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP)
-    - http://an.sqexm.net/sp/site/Page/sqmk/ff4/top -- SQUARE ENIX MARKETでダウンロード link, listed 2018-06-27 to 2019-03-09 -- link recorded only -- archived: https://web.archive.org/web/20180627171014/http://an.sqexm.net/sp/site/Page/sqmk/ff4/top (last listing: https://web.archive.org/web/20190918234144/http://an.sqexm.net/sp/site/Page/sqmk/ff4/top)
-    - http://dlgames.square-enix.com/ff/ff4/jp/ -- 公式サイト link, listed 2018-06-27 -- link recorded only -- archived: https://web.archive.org/web/20180627171014/http://dlgames.square-enix.com/ff/ff4/jp/
-    - https://an.sqexm.net/sp/site/Page/sqmk/ff4/top -- SQUARE ENIX MARKET link, listed 2020-03-12 to 2021-03-08 -- link recorded only -- archived: https://web.archive.org/web/20200312224040/https://an.sqexm.net/sp/site/Page/sqmk/ff4/top (last listing: https://web.archive.org/web/20210309031231/https://an.sqexm.net/sp/site/Page/sqmk/ff4/top)
   - ファイナルファンタジーIV（ピクセルリマスター）; RPG; first listed 2022-03-16: release 2021.09.09; icons: ダウンロード; listed in every capture from 2022-03-16 to 2024-04-15
-  - ファイナルファンタジーIV（3D REMAKE）; RPG; first listed 2025-07-30: release 2013.06.03; icons: ダウンロード; listed in every capture from 2025-07-30 to live (2026-10-27)
 
 ## jp.square-enix.com (Publisher; Japan, i-mode list, captures of 2012-10-08 to 2017-04-01)
 
-- Square Enix Japan's i-mode list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's i-mode list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-08 to 2017-04-01 http://www.jp.square-enix.com/mobile/i/ (the feature-phone menu page for NTT DoCoMo i-mode, titled iモード | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Layout: menu sections 総合サイト (portal sites), 着信メロディ, 待受, ゲーム (from 2013-10-20 also ソーシャル), その他; each item has a thumbnail, a one-line blurb and a 公式サイト (official site) link; no release date, genre, icon or CERO label on any capture; blocks commented out in the page source are not counted as listed
   - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different)
@@ -310,7 +213,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## jp.square-enix.com (Publisher; Japan, EZweb list, captures of 2012-10-08 to 2016-12-23)
 
-- Square Enix Japan's EZweb list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's EZweb list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-08 to 2016-12-23 http://www.jp.square-enix.com/mobile/e/ (the feature-phone menu page for au EZweb, titled EZweb | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Layout: menu sections COMING SOON, IT'S NEW, 総合サイト (portal sites), メダルアプリ, 着信メロディ, 待受, ゲーム (from 2013-10-20 also ソーシャル), その他; each item has a thumbnail, a one-line blurb and a 公式サイト (official site) link; no release date, genre, icon or CERO label on any capture; blocks commented out in the page source are not counted as listed
   - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different)
@@ -319,7 +222,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## jp.square-enix.com (Publisher; Japan, Yahoo! Keitai list, captures of 2012-10-08 to 2017-04-01)
 
-- Square Enix Japan's Yahoo! Keitai list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Yahoo! Keitai list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-08 to 2017-04-01 http://www.jp.square-enix.com/mobile/y/ (the feature-phone menu page for Yahoo!ケータイ, titled Yahoo!ケータイ | SQUARE ENIX; it is not the game/ list page and has no platform filter ?pf=); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Layout: menu sections 着信メロディ, ゲーム (from 2013-10-20 also ソーシャル), その他; the portal items (ドラゴンクエスト モバイル, ファイナルファンタジー モバイル and others) stand before 着信メロディ, their 総合サイト heading and the COMING SOON and IT'S NEW headings being commented out in the page source; each item has a thumbnail, a one-line blurb and a 公式サイト (official site) link; no release date, genre, icon or CERO label on any capture; blocks commented out in the page source are not counted as listed
   - Link labels: 公式サイト (official site); the thumbnail links to the same page; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different)
@@ -328,7 +231,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## jp.square-enix.com (Publisher; Japan, Others list, captures of 2013-06-06 to 2018-06-04)
 
-- Square Enix Japan's Others game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+- Square Enix Japan's Others game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-27
   - Page URL by capture: 2012-10-08 to 2012-12-19 http://www.jp.square-enix.com/mobile/other/ (the feature-phone menu page 'その他', titled その他 | SQUARE ENIX; not the game/ list page, no platform filter ?pf=); 2013-06-06 to 2018-06-04 http://www.jp.square-enix.com/game/etc/ (the per-model page, titled その他 | SQUARE ENIX; 2018-02-02 and 2018-06-04 list one item only); 2023-04-26 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to その他, platform filter ?pf=32 (the saved pages show the model checkbox value 32 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Layout: 2012 menu sections IT'S NEW and ゲーム (genre field below), no date, icon or CERO label; 2013-06-06 to 2016-12-22 one list split by platform headings プレイステーション2, プレイステーション, セガサターン and ゲームキューブ (written as 'platform section' below), 発売日 (release), ジャンル (genre) and a CERO label image on most items (not recorded below); no platform icon image; the list holds editions of games on those platforms (budget editions, collections, expansion discs) as items of their own
   - Icons: オンライン専用 (online only), ダウンロード対応 (also sold as a download) where shown; 'none' where no icon. Link labels: 公式サイト (official site), 商品詳細 (detail page); the title links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different)
@@ -340,7 +243,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## jp.square-enix.com (Publisher; Japan, Game Boy Advance list, capture of live (2026-10-28))
 
-- Square Enix Japan's Game Boy Advance game list -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Japan's Game Boy Advance game list -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?pf=24 (platform filter 24 = Game Boy Advance; the model checkbox value is 24, beside a disabled checked 99); only the live page is saved, no Wayback capture read
   - Icons: the labels as images: ゲームボーイアドバンス (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
   - Link labels: 商品詳細 (detail page); links of the live page have no archive
@@ -349,7 +252,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## jp.square-enix.com (Publisher; Japan, WonderSwan list, captures of 2022-09-11 to live (2026-10-28))
 
-- Square Enix Japan's WonderSwan game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+- Square Enix Japan's WonderSwan game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-28
   - Page URL by capture: 2022-09-11 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=31 (platform filter 31 = ワンダースワン; the saved pages show the model checkbox value 31 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: the labels as images: ワンダースワン (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
   - Link labels: 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -358,7 +261,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## jp.square-enix.com (Publisher; Japan, PlayStation list, captures of 2023-01-07 to live (2026-10-28))
 
-- Square Enix Japan's PlayStation game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+- Square Enix Japan's PlayStation game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-28
   - Page URL by capture: 2023-01-07 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=20 (platform filter 20 = プレイステーション; the saved pages show the model checkbox value 20 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: the labels as images: プレイステーション (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown. Genre notes are part of the genre text
   - Link labels: 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -369,7 +272,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## jp.square-enix.com (Publisher; Japan, Super Famicom list, captures of 2021-08-11 to live (2026-10-28))
 
-- Square Enix Japan's Super Famicom game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+- Square Enix Japan's Super Famicom game list -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-28
   - Page URL by capture: 2021-08-11 to live (2026-10-28) https://www.jp.square-enix.com/game/?pf=26 (platform filter 26 = スーパーファミコン; the saved pages show the model checkbox value 26 checked, beside a disabled checked 99; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
   - Icons: the labels as images: スーパーファミコン (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
   - Link labels: 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -380,7 +283,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## jp.square-enix.com (Publisher; Japan, Final Fantasy franchise list, captures of 2023-09-28 to live (2026-10-28))
 
-- Square Enix Japan's Final Fantasy franchise search (the game list filtered by series) -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+- Square Enix Japan's Final Fantasy franchise search (the game list filtered by series) -- saved pages of each capture; each capture read only for what is new against the previous one -- accessed 2026-10-28
   - Page URL by capture: 2023-09-28 to live (2026-10-28) https://www.jp.square-enix.com/game/?s=2 (series filter 2 = ファイナルファンタジー; the saved pages show the series checkbox value 2 checked and the result heading ファイナルファンタジー; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md; the list covers every platform at once, so each item names its platforms
   - Icons: the labels as images, platform names first (the models the item is listed for), then パッケージ (sold as a package), ダウンロード / ダウンロード専用 / ダウンロード対応 (download), オンライン専用 (online only), 審査予定 (rating pending), buttons (e-STOREで購入 / e-STOREで予約, PlayStation Store, App Store, Google Play and the like); "none" = no icon. CERO: the label's alt text where shown
   - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
@@ -400,7 +303,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## jp.square-enix.com (Publisher; Japan, Steam list, capture of live (2026-10-28))
 
-- Square Enix Japan's Steam list (the game list filtered by the Steam tag) -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Japan's Steam list (the game list filtered by the Steam tag) -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?s=9 (search filter 9 = Steam; the saved page shows the checkbox value 9 checked and the result heading Steam; the page's own address is https://www.jp.square-enix.com/game/); only the live page is saved, no Wayback capture read; every item lists the Windows model
   - Icons: the labels as images: Windows (the model, not repeated below), ダウンロード (download), オンライン専用 (online only), 審査予定 (rating pending), buttons (購入する, e-STOREで購入 / e-STOREで予約, Steam); "none" = no other icon. CERO: the label's alt text where shown
   - Link labels: Steam (the Steam store page), e-STOREで購入 / e-STOREで予約 (the Square Enix e-STORE page), 公式サイト (official site), 商品詳細 (detail page); links of the live page have no archive
@@ -409,127 +312,96 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
     - https://store.steampowered.com/app/312750/FINAL_FANTASY_IV/ -- Steam link, listed live (2026-10-28) -- link recorded only -- archived: TODO
     - https://www.jp.square-enix.com/game/detail/ff4/ -- 商品詳細 link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
-## square-enix-games.com (Publisher; North America, Games list, PC filter, live page of 2026-10-28)
-
-- Square Enix Games' English (US) game list filtered by platform PC -- saved page of the live capture read by me -- accessed 2026-10-28
-  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with the platform filter set to PC (the saved page shows the filter "Platform (1)"; its links use the en_US locale; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 15 titles, each with platform names and "(Out Now)", no dates, genres or ratings
-  - FINAL FANTASY IV; first listed live (2026-10-28): platforms PC, iOS, Android; (Out Now); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/en_US/games/final-fantasy-iv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-
 ## square-enix-games.com (Publisher; North America, Games list, PS4 filter, live page of 2026-10-28)
 
-- Square Enix Games' English (US) game list filtered by platform PS4 -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (US) game list filtered by platform PS4 -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with the platform filter set to PS4 (the saved page shows the filter "Platform (1)", and every card lists PS4; its links use the en_US locale; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 88 titles, each with platform names and "(Out Now)", no dates, genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Out Now); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_US -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; North America, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (US) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (US) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with no filter set (the saved page shows the Platform filter with nothing selected; its links use the en_US locale; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 144 titles, each with platform names and a status ((Out Now), a release date, (Coming Soon), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Out Now); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_US -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY IV; first listed live (2026-10-28): platforms PC, iOS, Android; (Out Now); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/en_US/games/final-fantasy-iv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; United Kingdom, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (UK) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (UK) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_GB/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's United Kingdom country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Out Now); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY IV; first listed live (2026-10-28): platforms PC, Android, iOS; (Out Now); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/en_GB/games/final-fantasy-iv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Rest of Europe, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (Rest of Europe) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (Rest of Europe) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_EU/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's Rest of Europe country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Out Now); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY IV; first listed live (2026-10-28): platforms PC, Android, iOS; (Out Now); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/en_EU/games/final-fantasy-iv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Australia & New Zealand, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' English (Australia & New Zealand) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' English (Australia & New Zealand) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_AU/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's Australia & New Zealand country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Out Now); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY IV; first listed live (2026-10-28): platforms PC, Android, iOS; (Out Now); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/en_AU/games/final-fantasy-iv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; France, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' French (France) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' French (France) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/fr_FR/games with no filter set (the saved page is in French, `lang="fr"`, the Plateformes filter with nothing selected; the page's France country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponible maintenant), a day-first release date, (Bientôt disponible), (Fin de service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Disponible maintenant); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/fr_FR -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY IV; first listed live (2026-10-28): platforms PC, iOS, Android; (Disponible maintenant); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/fr_FR/games/final-fantasy-iv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Latin America, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Spanish (Latin America) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_XL/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Latin America country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Disponible el 30 de octubre de 2025), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Ya disponible); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_US -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY IV; first listed live (2026-10-28): platforms PC, iOS, Android; (Ya disponible); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/es_XL/games/final-fantasy-iv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Brazil, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Portuguese (Brazil) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Portuguese (Brazil) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/pt_BR/games with no filter set (the saved page is in Portuguese, `lang="pt"`, the Plataforma filter with nothing selected; the page's Brazil country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponível), a day-first release date, (Em breve), (Disponível em 30 de outubro de 2025), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Disponível); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_US -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY IV; first listed live (2026-10-28): platforms PC, iOS, Android; (Disponível); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/pt_BR/games/final-fantasy-iv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Germany, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' German (Germany) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' German (Germany) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/de_DE/games with no filter set (the saved page is in German, `lang="de"`, the Plattformen filter with nothing selected; the page's Germany country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Jetzt verfügbar), a day-first release date, (Erscheint bald), (Erscheint am 30. Oktober 2025), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Jetzt verfügbar); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/de_DE -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY IV; first listed live (2026-10-28): platforms PC, iOS, Android; (Jetzt verfügbar); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/de_DE/games/final-fantasy-iv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Spain, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Spanish (Spain) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Spanish (Spain) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_ES/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Spain country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Coming 30 October 2025), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Ya disponible); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY IV; first listed live (2026-10-28): platforms PC, Android, iOS; (Ya disponible); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/es_ES/games/final-fantasy-iv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Italy, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Italian (Italy) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Italian (Italy) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/it_IT/games with no filter set (the saved page is in Italian, `lang="it"`, the Piattaforma filter with nothing selected; the page's Italy country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ora disponibile), a day-first release date, (Presto disponibile), (Coming 30 October 2025), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Ora disponibile); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY IV; first listed live (2026-10-28): platforms PC, Android, iOS; (Ora disponibile); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/it_IT/games/final-fantasy-iv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Poland, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Polish (Poland) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Polish (Poland) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/pl_PL/games with no filter set (the saved page is in Polish, `lang="pl"`, the Platforma filter with nothing selected; the page's Poland country link returns to this address; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Dostępne teraz), a day-first release date, (Już wkrótce), (Coming 30 October 2025), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Dostępne teraz); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY IV; first listed live (2026-10-28): platforms PC, Android, iOS; (Dostępne teraz); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/pl_PL/games/final-fantasy-iv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Czech Republic, Games list, unfiltered, live page of 2026-10-28)
 
-- Square Enix Games' Czech (Czech Republic) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+- Square Enix Games' Czech (Czech Republic) game list, no filter -- saved page of the live capture -- accessed 2026-10-28
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/cs_CZ/games with no filter set (the saved page is in Czech, `lang="cs"`, the Platforma filter with nothing selected; the page's Czech Republic country link returns to this address; the saved file does not record the page's own address, and its file name carries no date); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Právě vychází), a day-first release date, (Již brzy), (Coming 30 October 2025), (End of service)), no genres or ratings
   - FINAL FANTASY pixel remaster; first listed live (2026-10-28): platforms Xbox Series X|S, Nintendo Switch, PS4, Steam, Windows, iOS, Android; (Právě vychází); one card for the Pixel Remaster series; listed on the capture of live (2026-10-28) only
     - https://finalfantasypixelremaster.square-enix-games.com/en_GB -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
-  - FINAL FANTASY IV; first listed live (2026-10-28): platforms PC, Android, iOS; (Právě vychází); listed on the capture of live (2026-10-28) only
-    - https://www.square-enix-games.com/cs_CZ/games/final-fantasy-iv -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## ja.wikipedia.org (Information; Wii Virtual Console game title list, live page of 2026-10-28)
 
@@ -573,7 +445,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - Row (ナンバリング作品とその続編): ファイナルファンタジーIV（SFC・1991年7月19日、PS、WSC、VC（Wii・Wii U・New 3DS）、GA（PS3・PSP・Vita）、i、EZ、S!、iOS、Android）
   - Row (ナンバリング作品とその続編): ファイナルファンタジーIV イージータイプ（SFC・1991年10月29日）
   - Row (ナンバリング作品とその続編): ファイナルファンタジーIV アドバンス（GBA・2005年12月15日、VC（Wii U））
-  - Row (ナンバリング作品とその続編): ファイナルファンタジーIV（リメイク版）（DS・2007年12月20日、iOS、Android）
   - Row (ナンバリング作品とその続編): ファイナルファンタジーIV コンプリートコレクション（PSP・2011年3月24日）
   - Row (ナンバリング作品とその続編): ファイナルファンタジーコレクション（PS・1999年3月11日）
   - Row (ナンバリング作品とその続編): ファイナルファンタジー ピクセルリマスター（Win_Steam、Android、iOS・2021年7月29日、Switch、PS4、XBOX、Win_MSStore）
@@ -589,16 +460,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 - https://ja.wikipedia.org/wiki/PlayStation_Portableのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111463101 of 2026-10-21); archived: TODO
   - Lists the games released for PlayStation Portable (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [● PS Vita compatible and UMD Passport, ○ PS Vita compatible, ▲ PS Vita compatible and download only, △ download only, blank none], note)
   - Row (2011年): ファイナルファンタジーIV コンプリートコレクション; Japan 2011-03-24; North America 2011-04-19; Europe 2011-04-21; スクウェア・エニックス; DL: ●; note: 『ファイナルファンタジーIV』および携帯電話向けに配信されていた後日談「ファイナルファンタジーIV ジ・アフターイヤーズ」などを収録
-
-## ja.wikipedia.org (Information; Nintendo DS game title list, live pages of 2026-10-29)
-
-- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (index page, revision 110706708 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
-  - Index of the DS lists: the released games are on per-year pages, the index holds the non-retail and unreleased titles; DSiウェア titles are on ニンテンドーDSiウェアのタイトル一覧
-- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧_(2007年) -- dates*, platforms* -- accessed 2026-10-29 (revision 110706680 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
-  - Lists the games released in Japan that year, in release order (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark
-  - Row: ファイナルファンタジーIV; Japan 2007-12-20; スクウェア・エニックス
-    - reference link recorded only: https://game.watch.impress.co.jp/docs/20070928/ff4.htm
-    - reference link recorded only: https://web.archive.org/web/20250413171821/https://game.watch.impress.co.jp/docs/20070928/ff4.htm
 
 ## ja.wikipedia.org (Information; Game Boy Advance game title list, live page of 2026-10-29)
 
@@ -654,9 +515,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - 1173800 FINAL FANTASY IV -- no type label; store column: store page link
     - https://steamdb.info/app/1173800/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/1173800/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
-  - 312750 Final Fantasy IV (3D Remake) -- no type label; store column: store page link
-    - https://steamdb.info/app/312750/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-    - https://store.steampowered.com/app/312750/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
 ## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
@@ -664,8 +522,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
   - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
   - 1173800 FINAL FANTASY IV -- release date shown: 8 Sep, 2021; platforms shown: win; review summary: Very Positive -- 93% of the 2,092 user reviews for this game are positive.
     - https://store.steampowered.com/app/1173800/FINAL_FANTASY_IV/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - 312750 Final Fantasy IV (3D Remake) -- release date shown: 17 Sep, 2014; platforms shown: win; review summary: Very Positive -- 83% of the 1,746 user reviews for this game are positive.
-    - https://store.steampowered.com/app/312750/Final_Fantasy_IV_3D_Remake/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
 ## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
@@ -675,8 +531,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
     - https://square-enix-games.com/en_US/news/final-fantasy-pixel-remaster -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
   - Final Fantasy IV -- outside-store result (IGDB.com); developer shown: Square
     - https://na.finalfantasy.com/titles/finalfantasy4 -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Final Fantasy IV -- outside-store result (IGDB.com); developer shown: Square Enix Business Division 3
-    - http://archive.na.square-enix.com//ff4/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
 
 ## backloggd.com (Information; Backloggd, live pages of 2026-10-30 and 2026-11-03)
 
@@ -686,8 +540,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
     - https://backloggd.com/games/final-fantasy-iv--2/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
   - Final Fantasy IV (1991) -- type label Main Game; platforms shown: New Nintendo 3DS, Wii U, Wii, Super Famicom
     - https://backloggd.com/games/final-fantasy-iv--1/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
-  - Final Fantasy IV (2007) -- type label Remake; platforms shown: Nintendo DS
-    - https://backloggd.com/games/final-fantasy-iv/ -- Backloggd game page, listed live (2026-10-30 and 2026-11-03) -- link recorded only -- archived: TODO
   - Final Fantasy: Pixel Remaster Collection (2021) -- type label Bundle; platforms shown: Windows PC, Xbox Series X|S, Nintendo Switch, PlayStation 4, iOS
     - https://backloggd.com/games/final-fantasy-pixel-remaster-collection/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
   - Final Fantasy IV Advance (2005) -- type label Expanded Game; platforms shown: Wii U, Game Boy Advance
@@ -717,8 +569,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
     - https://www.igdb.com/games/final-fantasy-ii -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
   - Final Fantasy IV Easy Type (1991) -- type label Port of Final Fantasy IV (1991); platforms shown: SFAM; released 1991-10-29
     - https://www.igdb.com/games/final-fantasy-iv-easy-type -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
-  - Final Fantasy IV (2007) -- type label Remake of Final Fantasy IV (1991); platforms shown: Nintendo DS; released 2007-12-20
-    - https://www.igdb.com/games/final-fantasy-iv -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
   - Final Fantasy IV (2021) -- type label Remaster of Final Fantasy IV (1991); platforms shown: PlayStation 4, Nintendo Switch, PC (Microsoft Windows), Android, Xbox Series X, iOS; released 2021-09-08
     - https://www.igdb.com/games/final-fantasy-iv--2 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
   - Final Fantasy IV (2009) -- type label Port of Final Fantasy IV (1991); platforms shown: Legacy Mobile Device; released 2009-10-05
@@ -729,10 +579,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
     - https://www.igdb.com/games/final-fantasy-iv-the-complete-collection -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
   - Final Fantasy IV (2011) -- type label Port of Final Fantasy IV (1991); platforms shown: PlayStation Portable; released 2011-03-24
     - https://www.igdb.com/games/final-fantasy-iv--4 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
-  - Final Fantasy IV (2012) -- type label Remaster of Final Fantasy IV (2007); platforms shown: PC (Microsoft Windows), Android, iOS; released 2012-12-20
-    - https://www.igdb.com/games/final-fantasy-iv--7 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
-  - Final Fantasy III + Final Fantasy IV: Double Pack Edition (2016) -- type label Bundle; platforms shown: PC (Microsoft Windows); released 2016-09-02
-    - https://www.igdb.com/games/final-fantasy-iii-plus-final-fantasy-iv-double-pack-edition -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## ja.wikipedia.org (Information; Virtual Console categories, live pages of 2026-11-03)
 
@@ -747,13 +593,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 - https://ja.wikipedia.org/wiki/バーチャルコンソール -- Virtual Console is digital -- accessed 2026-11-03 (read through the MediaWiki API, revision 111461123 of 2026-10-21); archived: TODO
   - Says all Virtual Console software is digital distribution (download sale), so an internet connection was needed to buy it; Wii, Wii U and Nintendo 3DS are now re-download only
 
-## gog.com (Platform; GOG.com catalogue, English storefront, live pages of 2026-11-03)
-
-- GOG catalogue pages (www.gog.com/en/games) -- read from saved live pages -- accessed 2026-11-03
-  - Page URL by capture: live 2026-11-03 https://www.gog.com/en/games?query=final%20fantasy&order=desc:score; https://www.gog.com/en/games?developers=square-enix; https://www.gog.com/en/games?publishers=square-enix; not signed in; only the live pages are saved, no Wayback capture read
-  - Listed on all three pages; product id 1633325078; tile title "Final Fantasy IV (3D Remake)"; year shown: 2014; developer / publisher shown: Square Enix / Square Enix; platform icons: Windows only; languages shown: English (audio, text); label: GOOD OLD GAME
-    - https://www.gog.com/en/game/final_fantasy_iv_3d_remake -- GOG product page, listed live (2026-11-03) -- link recorded only -- archived: TODO
-
 ## ja.wikipedia.org (Information; ゲームアーカイブス対応ソフト category, live page of 2026-11-03)
 
 - https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト -- membership -- accessed 2026-11-03 (category page revision 104487874 of 2025-04-14; members read through the MediaWiki API); archived: TODO
@@ -765,16 +604,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 - https://en.wikipedia.org/wiki/List_of_Game_Boy_Advance_games -- dates, platforms -- accessed 2026-11-03 (revision 1380142728 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
   - Columns in order: Title(s); Developer(s); Publisher(s); Release date(s); Region(s) released
   - Row: Final Fantasy IV Advance; TOSE; Square Enix (Japan), Nintendo (overseas); NA 2005-12-12 JP 2005-12-15 EU 2006-06-02; Y; Y; Y
-
-## en.wikipedia.org (Information; List of Nintendo DS games (D–I), live page of 2026-11-03)
-
-- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_games_(D%E2%80%93I) -- dates, platforms -- accessed 2026-11-03 (revision 1380441952 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
-  - Row: Title: Final Fantasy IV; Developer(s): Matrix Software Square Enix; Publisher(s): Square Enix; First released: JP 2007-12-20; JP: Y; NA: Y; EU: Y; AU: Y
-
-## en.wikipedia.org (Information; List of PC games (F), live page of 2026-11-03)
-
-- https://en.wikipedia.org/wiki/List_of_PC_games_(F) -- dates, platforms -- accessed 2026-11-03 (revision 1357587122 of 2026-06-03; wikitext read through the MediaWiki API); archived: TODO
-  - Row: Name: Final Fantasy IV; Developer: Square Enix; Publisher: Square Enix; Genre(s): Role-playing; Operating system(s): Microsoft Windows; Date released: 2014-9-17
 
 ## en.wikipedia.org (Information; List of PlayStation Portable games, live page of 2026-11-03)
 
@@ -827,14 +656,12 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 - https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
   - Category of Android games: 2461 pages, 9 subcategories
   - Member: Final Fantasy IV
-  - Member: Final Fantasy IV (2007 video game)
 
 ## en.wikipedia.org (Information; iOS games category, live page of 2026-11-04)
 
 - https://en.wikipedia.org/wiki/Category:IOS_games -- iOS platform release -- accessed 2026-11-04 (category page revision 1241436204 of 2024-08-21; members read through the MediaWiki API); archived: TODO
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Final Fantasy IV
-  - Member: Final Fantasy IV (2007 video game)
 
 ## en.wikipedia.org (Information; PlayStation Network games category, live page of 2026-11-04)
 
@@ -859,7 +686,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 ## nintendo.com (Platform; Nintendo Japan Wii U software list, Virtual Console, saved pages of 2026-11-08)
 
-- Page URL: https://www.nintendo.com/jp/software/wiiu/index_all.html (the all-results page of Nintendo Japan's Wii U software list; Virtual Console filter vcall, 20 pages of 479 titles) -- dates, platforms -- accessed 2026-11-08 (saved pages read by me); archived: TODO
+- Page URL: https://www.nintendo.com/jp/software/wiiu/index_all.html (the all-results page of Nintendo Japan's Wii U software list; Virtual Console filter vcall, 20 pages of 479 titles) -- dates, platforms -- accessed 2026-11-08 (saved pages); archived: TODO
   - ファイナルファンタジーIV; maker スクウェア・エニックス; release 2014-02-19; platform label スーパーファミコン; listed on saved page 16 of 20; the row is plain text with no link to an item page
   - ファイナルファンタジーIV アドバンス; maker スクウェア・エニックス; release 2016-04-13; platform label GAME BOY ADVANCE; listed on saved page 3 of 20; the row is plain text with no link to an item page
 
@@ -882,9 +709,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_(3D_Remake)_ve
 
 Page URL by capture: 2026-11-08 English store https://play.google.com/store/search?c=apps&q=<TERM>; Japanese store https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM>
 
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP -- app page linked from the search results, shown as "FINAL FANTASY IV (3D REMAKE)", developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
-  - English store: listed in 24 of 35 saved searches
-  - Japanese store: listed in 3 of 11 saved searches
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR4 -- app page linked from the search results, shown as "FINAL FANTASY IV", developer SQUARE ENIX Co.,Ltd. -- accessed 2026-11-08 -- link recorded only; archived: TODO
   - English store: listed in 23 of 35 saved searches
   - Japanese store: listed in 3 of 11 saved searches
@@ -894,25 +718,16 @@ Page URL by capture: 2026-11-08 English store https://play.google.com/store/sear
 Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (English store; the saved file carries no url, the developer id is read from its links)
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR4 -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY IV" -- accessed 2026-11-08 -- link recorded only; archived: TODO
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY IV (3D REMAKE)" -- accessed 2026-11-08 -- link recorded only; archived: TODO
 
 ## play.google.com (Platform; Google Play, Japanese store, Square Enix developer page, saved page of 2026-11-08)
 
 Page URL by capture: 2026-11-08 https://play.google.com/store/apps/dev?id=8026010256970589886 (Japanese store; the saved file carries no url, the developer id is read from its links)
 
 - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFPR4 -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY IV" -- accessed 2026-11-08 -- link recorded only; archived: TODO
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP -- app page linked from the "SQUARE ENIX Co.,Ltd." developer page, apps listed on it, shown as "FINAL FANTASY IV (3D REMAKE)" -- accessed 2026-11-08 -- link recorded only; archived: TODO
-
-## play.google.com (Platform; Wayback captures of the Square Enix developer page, one per year 2015 to 2026)
-
-Page URL by capture: 2015-06-15; 2016-02-06; 2017-01-07; 2018-02-26; 2019-03-13; 2020-02-03; 2021-02-09; 2022-01-13; 2023-01-07; 2024-02-02; 2025-01-17; 2026-01-05 https://play.google.com/store/apps/dev?id=8026010256970589886 (first capture of each year; 2019 is the 2019-03-13 capture; each page shows only the first ten or eleven apps)
-
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP -- app listed in the developer page captures of 2015-06-15, 2016-02-06, 2017-01-07 -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20150615154752/https://play.google.com/store/apps/dev?id=8026010256970589886; https://web.archive.org/web/20170107053042/https://play.google.com/store/apps/dev?id=8026010256970589886
 
 ## finalfantasywiki.com (Information)
 
 - https://finalfantasywiki.com/wiki/Final_Fantasy_IV -- listed in Category:Games -- page not read -- accessed 2026-11-08
-- https://finalfantasywiki.com/wiki/Final_Fantasy_IV_(3D_remake) -- listed in Category:Games -- page not read -- accessed 2026-11-08
 - https://finalfantasywiki.com/wiki/Final_Fantasy_IV_Advance -- listed in Category:Games -- page not read -- accessed 2026-11-08
 - https://finalfantasywiki.com/wiki/Final_Fantasy_IV:_The_Complete_Collection -- listed in Category:Games -- page not read -- accessed 2026-11-08
 - https://finalfantasywiki.com/wiki/Final_Fantasy_Pixel_Remaster -- listed in Category:Games -- page not read -- accessed 2026-11-08
@@ -958,21 +773,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#External_links
   - https://eu.finalfantasy.com/titles/finalfantasy4 -- Final Fantasy Portal Site, UK English -- link recorded only -- accessed 2026-11-08; archived: TODO
   - https://en.wikipedia.org/wiki/Final_Fantasy_IV -- English Wikipedia article -- link recorded only -- accessed 2026-11-08; archived: TODO
   - https://www.mobygames.com/game/175288/final-fantasy-iv/ -- MobyGames, pixel remaster -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://www.jp.square-enix.com/ff4/ -- Final Fantasy IV 3D Remake official site (Japanese) -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://web.archive.org/web/20140401044158/http://www.square-enix.co.jp/ff4ds/ -- Final Fantasy IV (DS) old official site, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://web.archive.org/web/20180317034816/http://www.jp.square-enix.com/archive/ff4ds/ -- DS official game archive page, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://web.archive.org/web/20160303214510/http://www.finalfantasy.jp/products/ff4ds/ -- DS official goods detail page, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - http://www.square-enix.co.jp/uh/title/ntr-p-yf4j.html -- Final Fantasy IV (DS) in the Ultimate Hits line -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://web.archive.org/web/20121014002828/http://na.square-enix.com/ff4/ -- Final Fantasy IV (DS) official North American site, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://web.archive.org/web/20090815020423/http://www.finalfantasy4-game.com/ -- Final Fantasy IV (DS) official European site, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://web.archive.org/web/20170721063902/http://dlgames.square-enix.com/ff/ff4/jp/ -- Final Fantasy IV (Smartphone) official site, Japanese, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://web.archive.org/web/20180619153925/http://dlgames.square-enix.com/ff/ff4/en/ -- Final Fantasy IV (Smartphone) official site, English, Wayback capture -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://press.na.square-enix.com/FINAL-FANTASY-IV -- Square Enix North America Press Hub -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://itunes.apple.com/us/app/final-fantasy-iv/id575119311?mt=8 -- iTunes Store purchase page -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP&hl=en -- Google Play purchase page -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - http://store.steampowered.com/app/312750/ -- Steam purchase page -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://en.wikipedia.org/wiki/Final_Fantasy_IV_(2007_video_game) -- English Wikipedia article on the 2007 DS version -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://www.mobygames.com/game/36654/final-fantasy-iv/ -- MobyGames, 3D Remake -- link recorded only -- accessed 2026-11-08; archived: TODO
   - https://www.youtube.com/watch?v=pLANlDfhfUo -- YouTube video "Which Version of Final Fantasy IV Should You Play? - ALL Ports Reviewed & Compared" -- link recorded only -- accessed 2026-11-08; archived: TODO
 
 ## en.wikipedia.org (Information; Final Fantasy IV article, External links section, live page of 2026-11-08)
@@ -997,21 +797,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#External_links
   - https://www.nintendo.co.jp/titles/50010000042385 -- ファイナルファンタジーIV - New 3DS バーチャルコンソール -- link recorded only -- accessed 2026-11-08; archived: TODO
   - https://www.nintendo.co.jp/titles/20010000021687 -- ファイナルファンタジーIV アドバンス - Wii U バーチャルコンソール -- link recorded only -- accessed 2026-11-08; archived: TODO
   - https://www.jp.square-enix.com/game/detail/ff4cc/ -- ファイナルファンタジーIV コンプリートコレクション -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - http://dlgames.square-enix.com/ff/ff4/jp/ -- ファイナルファンタジーIV (3D REMAKE) -- link recorded only -- accessed 2026-11-08; archived: TODO
   - https://www.jp.square-enix.com/ff_pixelremaster/ff4/ -- ファイナルファンタジーIV ピクセルリマスター -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://store.steampowered.com/app/312750 -- Steam, Final Fantasy IV (3D Remake) (template Steam app|312750) -- link recorded only -- accessed 2026-11-08; archived: TODO
-  - https://www.mobygames.com/game/36654/final-fantasy-iv/ -- MobyGames, Final Fantasy IV (3D Remake) -- link recorded only -- accessed 2026-11-08; archived: TODO
   - https://www.youtube.com/channel/UC-L3eCBsub719LUuaUTwuFQ -- YouTube channel (template YouTube|c=UC-L3eCBsub719LUuaUTwuFQ) -- link recorded only -- accessed 2026-11-08; archived: TODO
 
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーIV#関連商品 -- related goods list -- accessed 2026-11-08 (same revision); archived: TODO
   - Novels (3): FFIV 上巻 (ISBN 978-4-7575-2458-3) and 下巻 (978-4-7575-2459-0), 2008-12-25, Square Enix; THE AFTER-月の帰還- (GAME NOVELS, 978-4-7575-2536-8, 2009-03-26); story by Takashi Tokita, text by Ichiro Tezuka, illustrations by Akira Oguro; each is already an entry
   - Sheet music: Piano Collections "FINAL FANTASY IV" (NTT Publishing, 2001-09-11, 4-7571-7014-9)
   - Books (19): NTT Publishing guides and setting book 1991 (設定資料編 4-87188-128-8, 基礎知識編 4-87188-131-8, 戦闘解析編 4-87188-136-9, 徹底攻略編 4-87188-138-5, イージータイプ 4-87188-148-2); ファイナルファンタジー竜騎士団（ナイツ）(JICC Publishing, 1992-09, 4-7966-0435-9, type not stated); Digicube, Shueisha, Enterbrain and Square Enix guides 1997 to 2011; the guides are listed in sources/iv-group.md
-
-## finalfantasy.fandom.com (Information; Final Fantasy IV page, Cast section, live page of 2026-11-10)
-
-- https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#Cast -- voice cast section: confirms Japanese, English voice -- accessed 2026-11-10 (revision 4034771 of 2026-08-20; wikitext read through the Fandom MediaWiki API; the breezewiki.com link mirrors https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV#Cast); archived: TODO
-  - The page's cast section covers the 3D remake only; voice in other versions is neither confirmed nor ruled out by it
 
 ## ja.wikipedia.org (Ratings; ファイナルファンタジーシリーズ article, 評価 section, live page of 2026-11-10)
 
@@ -1021,7 +813,7 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#External_links
 
 - https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 36/40 (Super Famicom; 9, 9, 10, 8, Platinum), 24/30 (PlayStation) and 33/40 (Game Boy Advance); Family Computer Magazine reader-vote 27.57/30 (2nd of 323 Super Famicom titles in 1993) and the Super Famicom Magazine best 30: overall 2nd, characters 3rd, music and sound effects 1st, operation 2nd, enthusiasm 3rd, value 2nd, originality 3rd; GameRankings 87% (SFC) and 83% (GBA), 1UP A- (GBA), Dragon 4/5 (SFC), EGM 32/40 (SFC), GameSpot 8.3/10 (GBA), GameSpy 4.5/5 (GBA), IGN 8.6/10 (GBA) and 8/10 (Wii), NGC 87% (GBA), Nintendo Power 4.5/5 (SFC), PALGN 8.5/10 (GBA), Nintendojo 10/10 (SFC), RPGFan 91% (SFC); EGM Best RPG -- accessed 2026-11-10 (revision 111593793 of 2026-10-31; wikitext read through the MediaWiki API); archived: TODO
 
-## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved by the user on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
+## imdb.com (Information; IMDb title-search results for "final fantasy", video game filter, saved on 2026-11-11; plot, genres, certificate, rating and vote count as the results list showed them)
 
 - https://www.imdb.com/title/tt0207487/ -- IMDb title page for Final Fantasy IV, IMDb id tt0207487, original title Fainaru fantajî IV, type Video Game, year 1991, release date 1991-07-19, certificate Unrated, genres Action, Adventure, Fantasy, rating 8.3 from 2,060 votes, production status Released; plot: A dark knight questions the ruthless actions of his king and undergoes a quest to redeem himself and save the world. -- accessed 2026-11-11; archived: TODO
 
@@ -1029,8 +821,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#External_links
 
 - https://thefinalfantasy.net/games/mobile-releases.html -- the site's complete list of mobile releases (iOS, Android, Windows Mobile and Japan mobile carriers; first-release region first, later regions after) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Final Fantasy IV [4]: Mobile Phone (FOMA), 2009-10-05, region JP
-  - Final Fantasy IV [4]: Apple iOS, 2012-12-20, region International
-  - Final Fantasy IV [4]: Android, 2013-06-04, region International
 
 ## thefinalfantasy.net (Information; release lists by console, saved pages of 2026-11-11)
 
@@ -1046,10 +836,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#External_links
   - Final Fantasy IV [4] Advance: Game Boy Advance, 2005-12-15, region JP
   - Final Fantasy IV [4] Advance: Game Boy Advance, 2006-02-23, region AUS
   - Final Fantasy IV [4] Advance: Game Boy Advance, 2006-06-02, region EU
-  - Final Fantasy IV [4]: Nintendo DS, 2007-12-20, region JP
-  - Final Fantasy IV [4]: Nintendo DS, 2008-07-22, region NA
-  - Final Fantasy IV [4]: Nintendo DS, 2008-09-04, region EU
-  - Final Fantasy IV [4]: Nintendo DS, 2008-09-05, region AUS
   - Final Fantasy IV [4]: Wii Virtual Console, 2009-08-04, region JP
   - Final Fantasy IV [4]: Mobile Phone (FOMA 903i/703i), 2009-10-05, region JP
   - Final Fantasy IV [4]: Wii Virtual Console, 2010-06-11, region EU, AUS
@@ -1060,9 +846,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#External_links
   - Final Fantasy IV [4]: The Complete Collection: Sony PSP, 2011-04-28, region AUS
   - Final Fantasy Chronicles: PlayStation, 2011-06-29, region NA
   - Final Fantasy IV [4]: Wii Virtual Console, 2012-03-08, region NA
-  - Final Fantasy IV [4]: Apple iOS, 2012-12-20, region International
-  - Final Fantasy IV [4]: Android, 2013-06-04, region International
-  - Final Fantasy IV [4]: PC (Steam), 2014-09-17, region International
   - Final Fantasy IV [4]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2021-09-08, region International
 - https://thefinalfantasy.net/games/sony-console-releases.html (Sony console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Final Fantasy IV [4]: PlayStation, 1997-03-21, region JP
@@ -1075,16 +858,13 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#External_links
   - Final Fantasy IV [4] [Easy Type]: Super Famicom, 1991-10-19, region JP
   - Final Fantasy IV [4]: Super Nintendo, 1991-11-23, region NA
   - Final Fantasy IV [4] Advance: Game Boy Advance, 2005-12-12, region NA, JP, EU
-  - Final Fantasy IV [4]: Nintendo DS, 2007-12-20, region JP, NA, EU, AUS
   - Final Fantasy IV [4]: Wii Virtual Console, 2009-08-04, region JP, NA, PAL
 - https://thefinalfantasy.net/games/other-console-releases.html (other console releases) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Final Fantasy IV [4]: WonderSwan Color, 2002-03-29, region JP
-  - Final Fantasy IV [4]: Microsoft Windows Steam (PC), 2014-09-17, region International
 - the site's top-rated list, saved as "Complete Game List" (canonical URL https://thefinalfantasy.net/games/; columns Game Title, Console, Release Date, Score) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Final Fantasy IV [4]: Super Nintendo, 1991-07-19, score 78.0%
   - Final Fantasy: Chronicles: PlayStation, 2001-06-29 (NA), score ---
   - Final Fantasy IV [4] Advance: Game Boy Advance, 2005-12-12 (US), score ---
-  - Final Fantasy IV [4] DS: Nintendo DS, 2007-12-20, score ---
   - Final Fantasy IV [4]: The Complete Collection: Sony PSP, 2011-03-24, score ---
   - Final Fantasy IV [4]: Interlude: Sony PSP, 2011-03-24, score ---
   - Final Fantasy IV [4]: Pixel Remaster: Android / Apple iOS / PC (Steam), 2021-09-08, score ---
@@ -1095,7 +875,6 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#External_links
   - Release dates shown: Jul. 19, 1991 (SNES), Nov. 23, 1991 (SNES); platforms SNES, PlayStation, WonderSwan Color, GBA, Mobile Phone, PSP, Nintendo DS, Android, iOS, PC
   - Chronicles: bundle of Final Fantasy IV and Chrono Trigger, North America PlayStation only, June 29, 2001; art gallery, bestiaries, running, Memo saves, new CG scenes
   - Advance: Game Boy Advance, North America 2005-12-12 before Japan 2005-12-15; based on the WonderSwan version; Lunar Whale, renamed spells, party switching, Lunar Ruins dungeon (50+ floors)
-  - DS: Japan 2007-12-20, North America 2008-07-22; voice acting, mini-games, New Game Plus, auto-battle, Augments, summon Whyt
   - Complete Collection: PSP, Japan 2011-03-24; Final Fantasy IV, Interlude and The After Years; Data Install, new cinematic scenes
 
 ## thefinalfantasy.net (Information; game overview pages, saved pages of 2026-11-11)
@@ -1106,13 +885,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#External_links
   - Final Fantasy Collection [4, 5 & 6]: PlayStation, JP 1999-03-11, US -
   - Final Fantasy IV [4]: WonderSwan Color, JP 2002-03-29, US -
   - Final Fantasy IV [4] Advance: Game Boy Advance, JP 2005-12-15, US 2005-12-12
-  - Final Fantasy IV [4]: Nintendo DS, JP 2007-12-20, US 2008-07-22
   - Final Fantasy IV [4]: Wii Virtual Console, JP 2009-08-04, US 2010-03-08
   - Final Fantasy IV [4]: Mobile Phone (FOMA), JP 2009-10-05, US -
   - Final Fantasy IV [4]: The Complete Collection: Sony PSP, JP 2011-03-24, US 2011-04-29
-  - Final Fantasy IV [4]: Apple iOS, JP 2012-12-20, US 2012-12-20
-  - Final Fantasy IV [4]: Android, JP 2013-06-04, US 2013-06-04
-  - Final Fantasy IV [4]: Steam (PC), JP 2014-09-17, US 2014-09-17
   - Final Fantasy IV [4]: Pixel Remaster: Steam, Android, iOS, JP 2021-09-08, US -
 - https://thefinalfantasy.net/ff5/ -- Final Fantasy V overview page, release table (Title, Platform, Release Date JP, Release Date US) -- accessed 2026-11-11 (saved page read); archived: TODO
   - Final Fantasy Collection [4, 5 & 6]: PlayStation, JP 1999-03-11, US -
@@ -1121,5 +896,5 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV#External_links
 
 ## Decisions
 
-- **Not to be listed: the cancelled Famicom/NES version of Final Fantasy IV (user, 2026-11-03):** planned for the Famicom (Square, 1991, Japan) and moved to the Super Famicom before any work was done, per GamesRadar+ 'The lost Nintendo games' (2008-05-30, https://www.gamesradar.com/the-lost-nintendo-games/) and Lost Levels (2003-11, http://www.lostlevels.org/200311/200311-square.shtml); never released, so the NES is not a platform of Final Fantasy IV. Only this platform is left out: the game itself released on other platforms and stays listed on them
+- **Not to be listed: the cancelled Famicom/NES version of Final Fantasy IV:** planned for the Famicom (Square, 1991, Japan) and moved to the Super Famicom before any work was done, per GamesRadar+ 'The lost Nintendo games' (2008-05-30, https://www.gamesradar.com/the-lost-nintendo-games/) and Lost Levels (2003-11, http://www.lostlevels.org/200311/200311-square.shtml); never released, so the NES is not a platform of Final Fantasy IV. Only this platform is left out: the game itself released on other platforms and stays listed on them
   - Evidence: https://en.wikipedia.org/wiki/List_of_cancelled_NES_games (revision 1382879856 of 2026-10-30; Final Fantasy IV row); https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_games (revision 1381703740 of 2026-10-24; Unreleased games section)

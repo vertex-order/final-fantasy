@@ -405,6 +405,7 @@ window.__ffGroupReg['XIII'] = { num: 'XIII', chronoOrder: 1400, narrativeOrder: 
     },
     alts: [
       {
+        id: 'final-fantasy-xiii-episode-zero-promise-fabula-nova-dramatica-2010',
         tags: ['Audio drama'],
         title: 'Final Fantasy XIII Episode Zero -Promise- Fabula Nova Dramatica', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XIII_Episode_Zero_-Promise-#Drama_CD', titleDate: { start: '2010-09-15', end: '2010-11-17' },
         subtitle: 'Audio Drama',

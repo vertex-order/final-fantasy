@@ -124,6 +124,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
     },
     alts: [
       {
+        id: 'final-fantasy-xv-pocket-edition-2018',
         tags: [],
         title: 'Final Fantasy XV: Pocket Edition', titleUrl: 'https://wikipedia.org/wiki/Final_Fantasy_XV:_Pocket_Edition', titleDate: '2018-02-08',
         languages: [
@@ -193,12 +194,12 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
     },
     alts: [
       {
-        tags: ['Prequel', 'Web Novel', 'Free'],
-        title: 'Final Fantasy XV Prologue: Parting Ways ~Book~', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_Parting_Ways', titleDate: 2016,
-        subtitle: 'Book',
+        tags: ['Prologue', 'Script', 'Free'],
+        title: 'Final Fantasy XV Prologue: Parting Ways', titleUrl: 'https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XV_Prologue_Parting_Ways', titleDate: 2016,
+        subtitle: 'Script',
         helpWanted: true,
         languages: [
-          { value: 'EN', native: true, url: 'https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf' },
+          { value: 'EN', url: 'https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf' },
           { value: 'IT', url: 'https://www.goodreads.com/book/show/60437037-final-fantasy-xv-prologo--strade-che-si-dividono-' },
           { value: '…?' },
         ],
@@ -210,7 +211,7 @@ window.__ffGroupReg['XV'] = { num: 'XV', chronoOrder: 1600, narrativeOrder: 1600
           { key: 'globe', name: 'E-book (PDF)', url: 'https://cdn.sqexeu.com/files/ff15/main_site/public/novella/FFXV_Novel_ENG.pdf' },
         ],
         versionDesc: [
-          'An official English translation of the Japan-only audio drama as a free web novel.',
+          'An official English script of the Japan-only audio drama, text only (no audio): scenes and lines per character, as a free PDF.',
         ],
       },
     ],

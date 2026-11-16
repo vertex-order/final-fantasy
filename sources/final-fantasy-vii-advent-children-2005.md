@@ -5,18 +5,6 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
-## Android (Platform)
-
-- https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ff7ecww
-
-## Apple App Store (Platform)
-
-- https://apps.apple.com/app/final-fantasy-vii-ever-crisis/id1536905430
-
-## en.ffviiec.com (Information)
-
-- https://en.ffviiec.com/
-
 ## imdb.com (Ratings)
 
 - https://www.imdb.com/title/tt20913494/
@@ -24,23 +12,17 @@
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/final-fantasy-vii-advent-children/
-- https://www.metacritic.com/game/final-fantasy-vii-ever-crisis/
-
-## Steam (Platform)
-
-- https://store.steampowered.com/app/2484110/FINAL_FANTASY_VII_EVER_CRISIS/
 
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII#Films -- story, platforms -- accessed 2026-09-22
 - https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children
 - https://wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children#Final_Fantasy_VII:_Advent_Children_Complete
-- https://wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis
 
 ## otakumode.com (Information)
 
 - https://otakumode.com/otapedia/games/final_fantasy/advent_children -- story, dates, credits -- accessed 2026-10-17
-  - (fetched by me, text pasted by user; Tokyo Otaku Mode's Otapedia, sections Plot and Setting, Reception, Production Cast)
+  - (Tokyo Otaku Mode's Otapedia, sections Plot and Setting, Reception, Production Cast)
   - Plot: a 3D computer-animated science-fiction drama film of 2005, set two years after Final Fantasy VII, in the new city of Edge where Cloud Strife and Tifa Lockhart run a courier service and care for the orphans Denzel and Marlene
     - Cloud and Denzel are infected with the incurable disease Geostigma
     - Rufus Shinra asks Cloud to stop Kadaj, Loz and Yazoo, who want to resurrect Sephiroth with Jenova's remains
@@ -54,7 +36,7 @@
 
 rottentomatoes.com (Ratings)
 
-- https://www.rottentomatoes.com/m/final_fantasy_vii_advent_children -- ratings, where to watch, bibliographic info -- accessed 2026-10-17 (fetched by me, at the user's request; named by the Otapedia page):
+- https://www.rottentomatoes.com/m/final_fantasy_vii_advent_children -- ratings, where to watch, bibliographic info -- accessed 2026-10-17 (named by the Otapedia page):
   - Ratings: Tomatometer (critics) **50%** from 8 reviews, average 5.7/10 (4 positive, 4 negative; sentiment negative)
     - Popcornmeter (audience) **84%**, "100,000+ ratings", average 4.2/5
   - Where to watch: the page's Where to Watch tab offers it to stream, rent or buy on Fandango at Home (https://athome.fandango.com/content/browse/details/Final-Fantasy-VII-Advent-Children/56304)
@@ -107,7 +89,7 @@ rottentomatoes.com (Ratings)
 - https://myanimelist.net/anime/2952/Final_Fantasy_VII__Advent_Children_Complete -- Final Fantasy VII: Advent Children Complete, a separate MyAnimeList page, MyAnimeList id 2952, Japanese title ファイナルファンタジーVII アドベントチルドレンコンプリート, synonym Final Fantasy 7: Advent Children Complete, type OVA, 1 episode of 2 hr 6 min, aired 2009-04-16, producer Square Enix, studio Square Enix Visual Works, source Game, genres Action and Fantasy, rating PG-13, score 7.89, popularity rank 1933, 139,358 members, 794 favourites -- accessed 2026-11-11; archived: TODO
 - https://myanimelist.net/anime/6152/Final_Fantasy_VII__Advent_Children_-_Venice_Film_Festival_Footage -- Final Fantasy VII: Advent Children - Venice Film Festival Footage, a separate MyAnimeList page, MyAnimeList id 6152, Japanese title FINAL FANTASY VII ADVENT CHILDREN ヴェネチア映画祭版, synonym Final Fantasy 7: Advent Children Special Edition, type Movie, 1 episode of 23 min, aired 2005-09-14, producer Square Enix, studio Square Enix Visual Works, source Game, genres Action, Drama, Fantasy and Sci-Fi, rating PG-13, score 7.59, popularity rank 6557, 13,699 members, 18 favourites; synopsis: a 25-minute cut of the film shown at the 2005 Venice Film Festival, released as a bonus on a two-disc DVD special edition -- accessed 2026-11-11; archived: TODO
 
-## imdb.com (Information; IMDb title-search results for "final fantasy", film and TV filters, saved by the user on 2026-11-11; the title pages themselves answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+## imdb.com (Information; IMDb title-search results for "final fantasy", film and TV filters, saved on 2026-11-11; the title pages themselves answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
 
 - https://www.imdb.com/title/tt0385700/ -- IMDb title page for Final Fantasy VII: Advent Children, IMDb id tt0385700, original title Fainaru fantajî sebun adobento chirudoren, type Movie, year 2005, release date 2005-09-14, runtime 101 min, certificate PG, genres Animation, Action, Adventure, rating 7.1 from 60,061 votes; plot: An ex-mercenary is forced out of isolation when three mysterious men kidnap and brainwash the city's children afflicted with the Geostigma disease. -- accessed 2026-11-11; archived: TODO
 - https://www.imdb.com/title/tt20913494/ -- IMDb title page for Final Fantasy VII Advent Children Complete, IMDb id tt20913494, type TV Series, year 2022, release date 2022-06-07, genres Animation, Action, Adventure, rating 7.4 from 187 votes; plot: After Cloud comes out of hiding to join Tifa to fight a illness quickly spreading throughout Midgar, they have to face off with a villainous trio who plan to resurrect Sephiroth using the remains of the extraterrestrial villains Jenova. -- accessed 2026-11-11; archived: TODO
@@ -130,10 +112,10 @@ rottentomatoes.com (Ratings)
 - https://thefinalfantasy.net/ff7/re-releases.html -- Final Fantasy VII compilation page -- accessed 2026-11-11 (saved page read); archived: TODO
   - CGI sequel set two years after the game; Japan 2005-09-14, North America 2006-04-25 (the page's dates)
 
-## rottentomatoes.com (Information; Rotten Tomatoes search for "final fantasy", movies filter (43 results over 5 pages), pages saved by the user on 2026-11-11)
+## rottentomatoes.com (Information; Rotten Tomatoes search for "final fantasy", movies filter (43 results over 5 pages), pages saved on 2026-11-11)
 
 - https://www.rottentomatoes.com/m/final_fantasy_vii_advent_children -- result row "Final Fantasy VII: Advent Children", year 2004, Tomatometer 50%; the row shows no audience score -- accessed 2026-11-11; archived: TODO
-- https://www.rottentomatoes.com/m/final_fantasy_vii_advent_children -- title page: Tomatometer (critics) 50% from 8 reviews; Popcornmeter (audience) 84% from 100,000+ ratings; header year 2024 (limited theatrical release 2024-02-21, streaming 2016-07-19), Photos label "(2004)" -- accessed 2026-11-11 (fetched by me); archived: TODO
+- https://www.rottentomatoes.com/m/final_fantasy_vii_advent_children -- title page: Tomatometer (critics) 50% from 8 reviews; Popcornmeter (audience) 84% from 100,000+ ratings; header year 2024 (limited theatrical release 2024-02-21, streaming 2016-07-19), Photos label "(2004)" -- accessed 2026-11-11 (fetched); archived: TODO
 
 ## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
 

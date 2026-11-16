@@ -7,6 +7,7 @@
 fanfiction.net (Information)
 - https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel — title link*, platforms* (Web novel), length* (27 chapters), dates* (2002-08-10), languages* (EN link) — accessed not recorded — archived: TODO
   - Fields listed are what the entry carries from this page; not re-read in this pass
+- https://www.fanfiction.net/s/904359/1/Final-Fantasy-IV-The-Novel -- fan project alt*
 
 ## Surveyed
 
