@@ -24,7 +24,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IX_version_differ
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/final-fantasy-ix/
+- https://www.metacritic.com/game/final-fantasy-ix/ -- critic and user scores by platform -- accessed 2026-11-19
+  - PlayStation: critic 94 (22 reviews), user 8.9 (2,152 ratings)
+  - iOS: critic 88 (5); PC: 84 (7); PlayStation 4: 85 (14); Nintendo Switch: 76 (19); no user score shown
 
 ## Nintendo (Platform)
 

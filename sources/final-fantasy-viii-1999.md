@@ -24,7 +24,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VIII_version_diff
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/final-fantasy-viii/
+- https://www.metacritic.com/game/final-fantasy-viii/ -- critic and user scores by platform -- accessed 2026-11-19
+  - PlayStation: critic 90 (24 reviews), user 8.5 (1,549 ratings)
+  - PC: no score shown
 
 ## Nintendo (Platform)
 

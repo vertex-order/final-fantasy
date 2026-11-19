@@ -147,7 +147,7 @@ window.__ffGroupReg['XIV'] = { num: 'XIV', chronoOrder: 1500, narrativeOrder: 15
       subtitle: 'Expansion',
       ratings: [
         { score: '91', url: 'https://www.metacritic.com/game/final-fantasy-xiv-shadowbringers/', key: 'metacritic' },
-        { score: '9.0', url: 'https://www.metacritic.com/game/final-fantasy-xiv-shadowbringers/', key: 'metacritic-user' },
+        { score: '9.1', url: 'https://www.metacritic.com/game/final-fantasy-xiv-shadowbringers/', key: 'metacritic-user' },
       ],
       length: [{ value: '102h', tip: 'Solo', join: ' / ' }, { value: '284h', tip: 'Co-op', join: ' / ' }, { value: '2h', tip: 'Vs.' }],
       platforms: [

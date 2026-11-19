@@ -16,7 +16,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Rebirth_versi
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/final-fantasy-vii-rebirth/
+- https://www.metacritic.com/game/final-fantasy-vii-rebirth/ -- critic and user scores by platform -- accessed 2026-11-19
+  - PlayStation 5: critic 92 (151 reviews), user 8.8 (7,245 ratings)
+  - PC: critic 90 (54); Nintendo Switch 2: 87 (53); Xbox Series X: 84 (4); no user score shown
 
 ## Nintendo (Platform)
 

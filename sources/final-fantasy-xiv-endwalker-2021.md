@@ -12,7 +12,9 @@
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/final-fantasy-xiv-endwalker/
+- https://www.metacritic.com/game/final-fantasy-xiv-endwalker/ -- critic and user scores by platform -- accessed 2026-11-19
+  - PC: critic 92 (28 reviews), user 8.9 (1,785 ratings)
+  - PlayStation 5: critic 90 (15); PlayStation 4: tbd (2); no user score shown
 
 ## wikipedia.org (Information)
 

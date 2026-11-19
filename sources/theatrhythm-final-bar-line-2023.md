@@ -7,7 +7,9 @@
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/theatrhythm-final-bar-line/
+- https://www.metacritic.com/game/theatrhythm-final-bar-line/ -- critic and user scores by platform -- accessed 2026-11-19
+  - Nintendo Switch: critic 87 (42 reviews), user 8.8 (95 ratings)
+  - PlayStation 4: critic 87 (33)
 
 ## Nintendo (Platform)
 

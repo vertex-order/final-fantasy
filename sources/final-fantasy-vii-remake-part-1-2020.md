@@ -16,7 +16,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_Remake_versio
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/final-fantasy-vii-remake-intergrade/
+- https://www.metacritic.com/game/final-fantasy-vii-remake-intergrade/ -- critic and user scores by platform -- accessed 2026-11-19
+  - PlayStation 5: critic 89 (56 reviews); Nintendo Switch 2: 89 (58); Xbox Series X: 88 (7); PC: 86 (26)
+  - User score shown: 8.3 (419 ratings), tied to the Nintendo Switch 2 filter
 
 ## Nintendo (Platform)
 

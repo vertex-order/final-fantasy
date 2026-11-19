@@ -70,8 +70,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_Tactics_version_d
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/final-fantasy-tactics-the-ivalice-chronicles/
-- https://www.metacritic.com/game/final-fantasy-tactics/
+- https://www.metacritic.com/game/final-fantasy-tactics-the-ivalice-chronicles/ -- critic and user scores by platform -- accessed 2026-11-19
+  - PlayStation 5: critic 88; Nintendo Switch 2: 87 (16); PC: 86 (12); user 7.6 (244 ratings, PlayStation 5)
+- https://www.metacritic.com/game/final-fantasy-tactics/ -- critic and user scores by platform -- accessed 2026-11-19
+  - PSP: critic 88 (41 reviews), user 8.7 (358 ratings)
+  - PlayStation: critic 83 (12); iOS: 72 (12); no user score shown for these
 
 ## Nintendo (Platform)
 

@@ -24,7 +24,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_IV_version_differ
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/final-fantasy-iv/
+- https://www.metacritic.com/game/final-fantasy-iv/ -- critic and user scores by platform -- accessed 2026-11-19
+  - Game Boy Advance: critic 85 (30 reviews), user 8.1 (124 ratings)
+  - PlayStation: critic and user tbd
 - https://www.metacritic.com/game/final-fantasy-iv-pixel-remaster/
 
 ## Nintendo (Platform)

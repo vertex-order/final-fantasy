@@ -12,7 +12,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_X_version_differe
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/final-fantasy-x/
+- https://www.metacritic.com/game/final-fantasy-x/ -- critic and user scores by platform -- accessed 2026-11-19
+  - PlayStation 2: critic 92 (53 reviews), user 8.9 (2,350 ratings)
+  - PlayStation Vita: critic tbd (1)
 
 ## Nintendo (Platform)
 

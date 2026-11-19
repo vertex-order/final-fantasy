@@ -12,7 +12,9 @@
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/final-fantasy-xiv-shadowbringers/
+- https://www.metacritic.com/game/final-fantasy-xiv-shadowbringers/ -- critic and user scores by platform -- accessed 2026-11-19
+  - PC: critic 90 (25 reviews), user 9.1 (1,113 ratings)
+  - PlayStation 4: critic 91 (19); no user score shown
 
 ## wikipedia.org (Information)
 

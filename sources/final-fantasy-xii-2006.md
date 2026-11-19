@@ -12,8 +12,11 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_XII_version_diffe
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/final-fantasy-xii/
-- https://www.metacritic.com/game/final-fantasy-xii-the-zodiac-age/
+- https://www.metacritic.com/game/final-fantasy-xii/ -- critic and user scores by platform -- accessed 2026-11-19
+  - PlayStation 2: critic 92 (64 reviews), user 7.6 (1,429 ratings)
+- https://www.metacritic.com/game/final-fantasy-xii-the-zodiac-age/ -- critic and user scores by platform -- accessed 2026-11-19
+  - PlayStation 4: critic 86 (79 reviews), user 8.1 (733 ratings)
+  - PC: critic 83 (14); Nintendo Switch: 85 (30); Xbox One: 80 (4); no user score shown
 
 ## Nintendo (Platform)
 

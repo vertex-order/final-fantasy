@@ -24,7 +24,9 @@ Mirror: https://breezewiki.com/finalfantasy/wiki/Final_Fantasy_VII_version_diffe
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/final-fantasy-vii/
+- https://www.metacritic.com/game/final-fantasy-vii/ -- critic and user scores by platform -- accessed 2026-11-19
+  - PlayStation: critic 92 (20 reviews), user 8.9 (3,272 ratings)
+  - Nintendo Switch: critic 81 (27); iOS: 77 (10); Xbox One: tbd (3); no user score shown
 
 ## Nintendo (Platform)
 
